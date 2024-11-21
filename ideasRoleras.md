@@ -22,7 +22,7 @@ Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
 
 ### Ulises + Cthulhu
 
-xxx
+La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como Polifemo un Gug, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
 
 ### Barsum
 
@@ -30,7 +30,7 @@ xxx
 
 ### Jungle book
 
-Animales que hablan
+Animales de la selva que hablan pero sin antropoformizar como la película de Dysney.
 
 ### Shakespeare
 
@@ -48,15 +48,15 @@ xxx
 
 Horror cósmico en la ruta 66
 
-### Conan Cthulhu
+### Conan VS Cthulhu
 
 Hubo un proyecto de Suseya Editorial
 
 https://pbs.twimg.com/media/F0LHntpXsAIFghN?format=png&name=900x900
 
-### Verne + Cthulhu
+### Nemo + Cthulhu
 
-Capitán Nemo contra Cthulhu
+Capitán Nemo contra Cthulhu. Nemo deberá encontrar R'lyeh
 
 ### Espacial victoriano
 
@@ -71,10 +71,6 @@ Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres 
 
 ### NIMH
 ¿Qué pasó con los ratones de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
-
-### Animal Crossing Cazavampiros
-
-Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew Valley.
 
 ### Circunnavegación de un mundo medieval fantástico
 
@@ -127,6 +123,10 @@ Emborracharse, pelear y lanzar hechizos borracho y reglas de resacas. Concursos 
 Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D y ahora que está en el mundo de D&D se sabe todo el lore del juego y/o campaña. Rollo Gwenpool de Marvel. Por ejemplo, obtiene bonos porque sabe quién escribió la aventura y siempre pone los mismos monstruos y trampas y esas cosas.
 
 ## Indies
+
+### Animal Crossing Cazavampiros
+
+Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew Valley.
 
 ### RRHH en un Dungeon.
 
