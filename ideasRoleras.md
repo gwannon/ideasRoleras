@@ -8,11 +8,11 @@ Tipo el comic de Lumberjanes
 
 ### Mitología polinesia/hawaiana
 
-Fantasía medieval pero rollo polinesia, viajes en catamaran e islas misteriosas inexploradas
+Fantasía medieval, pero rollo polinesia, viajes en catamarán e islas misteriosas inexploradas
 
 https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/
 
-### Dinosaurio + Mediaval
+### Dinosaurio + Medieval
 
 Justas montado en tiranosaurios
 
@@ -22,7 +22,11 @@ Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
 
 ### Ulises + Cthulhu
 
+xxx
+
 ### Barsum
+
+xxx
 
 ### Jungle book
 
@@ -80,6 +84,18 @@ Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebast
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
 
+### Las máscaras de Draculathotep o los Mitos de Cthalcula
+
+Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
+
+Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
+
+### Old ones RPG 
+
+Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
+
+También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
+
 ## Derechos
 
 ### Agatha Christie + Cthulhu
@@ -134,27 +150,6 @@ Algún becario del departamento de egiptología del British Museum ha desempolva
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
 
-
-
-
-
-
-
-
----
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
-
-### Old ones RPG 
-
-Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
-
-También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
-
-### Las máscaras de Draculathotep o los Mitos de Cthalcula
-
-Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
-
-Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
-
