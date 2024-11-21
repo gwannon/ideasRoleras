@@ -148,7 +148,7 @@ En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada 
 
 ### Old ones RPG 
 
-Siempre he visto a los antiguos son muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
+Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
@@ -156,5 +156,5 @@ También como si fueran investigadores que tienen que evitar que un primigenio s
 
 Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
 
-Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Dracula.
+Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
 
