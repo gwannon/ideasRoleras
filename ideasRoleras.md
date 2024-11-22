@@ -153,3 +153,23 @@ En ese momento un grupo de momias se despiertan en el ala de egiptología del mu
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
+
+---
+
+### Ulises VS Cthulhu
+
+La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
+
+### Fantastic West
+
+Salvaje Oeste con razas de fantasía. Elfos como nativos americanos, enanos buscadores de oro, gnomos trabajadores del ferrocarril, halflings granjeros, etc.
+
+Se puede hacer muy fantástico con dragones propietarios de minas de oro y el séptimo de unicornieria o más crepuscular con nativos elfos siendo exterminados y robadas sus tierras y la industria y el humo contaminando las praderas.
+
+### Juegos de rol de musicales
+
+Solo tienes tres habilidades: Cantar(tiradas sociales), Bailar (tiradas de destreza, habilidad combate sutil) y Acrobacias (cosas físicas como saltar, escalar, dejarse caer, combate rudo, etc.).
+
+Tienes canciones que funcionan parecido a aspectos, tanto el tono como la letra pueden usarse rollo aspecto. Puedes usar _Es la noche del amor_ de _El Rey León_ para tener ventaja al intentar seducir o cantar _Money, Money_ de _Cabaret_ para sacar más dinero en un trato, o directamente hacer llover con _Cantando bajo la lluvia_.
+
+Podría tener trucos como manos de jazz o chasquear los dedos con efectos especiales.
