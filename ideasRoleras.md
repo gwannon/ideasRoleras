@@ -20,9 +20,9 @@ Justas montado en tiranosaurios
 
 Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
 
-### Ulises + Cthulhu
+### Ulises VS Cthulhu
 
-La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como Polifemo un Gug, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
+La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
 
 ### Barsum
 
