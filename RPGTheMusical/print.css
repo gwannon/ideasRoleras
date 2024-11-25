@@ -12,7 +12,7 @@ body {
   padding: 0;
   font-family: "Open Sans", sans-serif;
   color: var(--color-white);
-  font-size: 12.5px;
+  font-size: 12px;
 }
 
 body:before {
@@ -75,7 +75,7 @@ body > *:first-child,
 h1 {
   background: var(--color-black) url(./images/titular.jpg) center center no-repeat;
   background-size: cover;
-  font-family: "Fascinate", system-ui;
+  font-family: "Limelight", sans-serif;
   text-align: center;
   height: 197px;
   display: flex;
@@ -86,7 +86,7 @@ h1 {
 }
 
 h2, h3, h4 {
-  font-family: "Fascinate", system-ui;
+  font-family: "Limelight", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: var(--color-red);
@@ -121,7 +121,7 @@ table {
 
 table strong {
   color: var(--color-red);
-  font-family: "Fascinate", system-ui;
+  font-family: "Limelight", sans-serif;
 }
 
 ul {

@@ -4,9 +4,9 @@ RPG The musical (RpgTM) es un **ayuda rolera de una sola hoja para meter escenas
 
 ## Conversión de PJ
 
-Lo primero es convertir a tu PJ normal en su versión para musicales. La conversión es proceso muy rápido que puedes hacer como jugadore o que puedes hacer en un momento como DJ para entregárselo en mitad de la aventura a tus jugadores por sorpresa.
+Lo primero es convertir a tu PJ normal en su versión para musicales. La conversión es proceso muy rápido que puedes hacer como jugadore o que puedes hacer en un momento como DJ para entregárselo por sorpresa en mitad de la aventura a tus jugadores.
 
-Primero debes definirlo dentro del musical con una simple frase a partir de las indicaciones de tu DJ. Un PJ en un musical no es un Barbaro de nivel 8, es un _poderose bárbaro que busca ser una máquina de picar carne_ o no eres une detective con 90% en Investigar, es _detective alcohólico quiere abandonar el pozo de misiera en que está metido_.
+Primero debes definir tu PJ dentro del musical con una simple frase. Un PJ en un musical no es un Barbaro de nivel 8, es un _poderose bárbaro que busca ser una máquina de picar carne_ o no eres une detective con 90% en Investigar, es _detective alcohólico quiere abandonar el pozo de miseria en que está metido_.
 
 Luego **debes elegir 3 canciones que pueden ser o no de musicales** que definan quién eres, de donde vienes y a dónde vas. Por decirlo de forma sencilla: _tu presente, tu pasado y tu futuro_.
 
@@ -22,11 +22,11 @@ Cada atributo tiene un valor de **mínimo de 1 y 5 de máximo**. Tu DJ te dirá 
 
 Si es fuerte (rollo guerrero o bárbaro) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestro (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es listo y/o carismático (mago, clérigo o bardo) pones el valor alto a Cantar y el bajo a acrobacias.
 
- Al final de este documento tienes una **hoja de personaje** para llevar las características de tu personaje.
+Al final de este documento tienes una **hoja de personaje** para llevar las características de tu personaje.
 
 ## Sistema de juego
 
-El sistema de RpgTM **usa dados de seis caras y tokens** para representar tus notas musicales.
+El sistema de RpgTM usa dados de seis caras y puedes usar tokens para representar tus notas musicales.
 
 ### Tiradas
 
@@ -101,13 +101,13 @@ Según avance la sesión, le DJ podrá otorgarte más notas (Fa, Sol, La y Si) p
 * Hacerle los coros a otre PJ.
 * En general, seguir el rollo del musical adecuadamente.
 
-Al recibir una nota, marca en tu ficha la siguiente nota en tu hija de personaje y cuando lo gaste desmarca tu última nota. Esto tiene su importancia porque como ya has visto hay ventajas al usar dos PJ la misma nota.
+Al recibir una nota, marca en tu ficha la siguiente nota en tu hoja de personaje y cuando lo gaste desmarca tu última nota. Esto tiene su importancia porque como ya has visto hay ventajas al usar dos PJ la misma nota.
 
 ## Mejorando
 
-Después de cada sesión puedes mejorar tu PJ de una de las siguientes formas:
+Después de cada sesión puedes mejorar tu PJ musical de una de las siguientes formas:
 
-* Subir un punto de un atributo. Ningún atributo puede ser dos o más puntos mayor que el siguiente atributo de más valor. No puedes tener, por ejemplo, atributos 4-2-2, tendrá que ser 3-3-2.
+* Subir un punto de un atributo. Ningún atributo puede ser dos o más puntos mayor que el siguiente atributo de más valor. No puedes tener, por ejemplo, atributos 4-2-2, tendrá que ser 3-3-2. No puedes elegir esta opción dos veces seguidas. 
 * Cambiar una de tus canciones permanentemente.
 * Empezar tu próxima sesión con 6 notas en vez de 3 normales.
 * Tener una cuarta canción secreta solo para la próxima sesión.
