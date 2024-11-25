@@ -44,8 +44,8 @@ Tus canciones funcionan de forma parecida a los aspectos de otros juegos, tanto 
 
 Veamos los usos de las canciones. 
 
-* Puedes usar una canción para que los 4 sean considerados éxitos. Para ello tienes que empezar a tararearla y si le DJ la tararea también, es que puedes usarla. Si hace _Chisssttttt_ o hace sonar un gong es que has intentado meter una canción donde no pegaba.
-* Estando en modo musical, si te pones a cantar el estribillo de una de tus canciones y gastas una de tus notas, puedes hacer realidad la parte del estribillo que te interese. 
+* Puedes **usar una canción para que los 4 sean considerados éxitos**. Para ello tienes que empezar a tararearla y si le DJ la tararea también, es que puedes usarla. Si hace _Chisssttttt_ o hace sonar un gong es que has intentado meter una canción donde no pegaba.
+* Estando en modo musical, si te pones a **cantar el estribillo** de una de tus canciones y gastas una de tus notas, puedes **hacer realidad la parte del estribillo que te interese**. 
 
 Solo puedes usar una canción por sesión, para poder recuperarla tienes que gastar una de tus notas.
 
@@ -64,14 +64,14 @@ El atributo que vayas a usar lo marca el tono del combate. Por ejemplo, un duelo
 Cada sesión empiezas con tres notas (Do, Re y Mi) que puedes usar para:
 
 * Poder volver a usar una de tus canciones.
-* xxx
+* Volver a tirar un dado de un tirada. Si son tiradas enfrentadas, les adversaries pueden gastar las notas que quieran las veces que sean después de que les adversaries gasten sus notas.  
 * Como ya hemos visto, hacer realidad un estribillo de unas de tus canciones.
 
 Según avance la sesión, le DJ podrá otorgarte más notas (Fa, Sol, La y Si) por diferentes razones:
 
 * Acompañando sus canciones con gestos como _manos de jazz_ o chasquear los dedos.
 * Hacerle los coros a otre PJ.
-* Seguir el rollo del musical adecuadamente.
+* En general, seguir el rollo del musical adecuadamente.
 
 Al recibir una nota, marca en tu ficha la siguiente nota en tu hija de personaje y cuando lo gaste desmarca tu última nota. Esto tiene su importancia porque como ya has visto hay ventajas al usar dos PJs la misma nota.
 
@@ -88,7 +88,7 @@ Después de cada sesión puedes mejorar tu PJ de una de las siguientes formas:
 
 ## Conversión a RpgTM
 
-La conversión es muy rápida, decide si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterena (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos. Si es fuerte (rollo guerrero o barbaro) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestro (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es listo y/o carismático (mago, clerigo o bardo) pones el valor alto a Cantar y el bajo a acrobacias.  
+La conversión es muy rápida, decide si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterena (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos. Si es fuerte (rollo guerrero o bárbaro) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestro (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es listo y/o carismático (mago, clérigo o bardo) pones el valor alto a Cantar y el bajo a acrobacias.  
 
 ## Hoja de personaje
 
