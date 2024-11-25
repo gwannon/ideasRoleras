@@ -92,6 +92,7 @@ h2, h3, h4 {
   color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 0px;
+  text-shadow: -1px 0px 1px #f79494;
 }
 
 h2 + p, 
@@ -112,11 +113,22 @@ img {
   max-width: 100%;
 }
 
+p,
+ul {
+  margin: 0.5em 0;
+}
+
 table {
+  margin-top: 5px;
   width: 100%;
   box-sizing: border-box;
   border: 2px dashed var(--color-white);
   padding: 5px;
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 400;
 }
 
 table strong {
@@ -137,13 +149,16 @@ ul li:before {
   content: "\266A";
   position: absolute;
   font-size: 30px;
-  top: -10px;
+  top: -12px;
   left: -20px;
   display: block;
   color: var(--color-red);
 } 
 
 @media screen {
+  body {
+    font-size: 14px;
+  }
   .saltopagina {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
