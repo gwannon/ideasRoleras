@@ -1,10 +1,10 @@
 # RPG The musical 
 
-RPG The musical (RpgTM) es un juego de rol de una sola hoja para jugar musicales, convertir tu campaña preferida en un musical o meter una parte musical a tu aventura.
+RPG The musical (RpgTM) es un **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego.
 
-## Creación de PJ
+## Conversión de PJ
 
-Para empezar debes definir tu personaje con una simple frase a partir de las indicaciones de tu DJ. Pueden ser definiciones como _bariste enamorade de une cliente_ o _gatete buscando a su familia_.
+Para empezar debes convertir tu personaje a su versión muscial. Primero xxx con una simple frase a partir de las indicaciones de tu DJ. Pueden ser definiciones como _bariste enamorade de une cliente_ o _gatete buscando a su familia_.
 
 Luego **debes elegir 3 canciones que pueden ser o no de musicales** que definan quién eres, de donde vienes y a dónde vas. Por decirlo de forma sencilla: _tu presente, tu pasado y tu futuro_.
 
@@ -12,7 +12,7 @@ Por último, tenemos 3 atributos:
 
 * **Cantar:** que abarca todas las tiradas mentales y sociales. Convencer al portero de que te deje entrar en el club se haría cantando.
 * **Bailar:** que comprenden todo tipo de habilidades que exijan habilidad manual y coordinación viso-manual. Escabullirte con Sigilo dentro del club sin que te vea el portero sería Bailar.
-* **Acrobacias:** refleja actividades físicas que exijan más fuerza que destreza. Saltar, trepar, volar usando cables usarían Acrobacias.
+* **Acrobacias:** refleja actividades físicas que exijan más fuerza que destreza. Saltar, trepar, volar usando cables usarían Acrobacias. Intimidar también iría por Acrobacias al imponerte al resto con tus saltos y volteretas.
 
 Cada atributo tiene un valor de  **mínimo de 1 y 5 de máximo**. Debes **repartir 3 puntos entre los 3 atributos** y un máximo de 2 puntos a un atributo, de forma que si pones 2 puntos a Bailar tendrías una puntuación de 3.
 
@@ -36,7 +36,17 @@ Mientras que las escenas normales no avanzan casi la historia porque no pasan co
 
 xxx
 
-En modo musical puedes ayudar a las tiradas del protagonista de la escena haciendo tiradas de los atributos que no usa le protagonista de la escena. Es decir que si alguien canta puedes ayudarle bailando y haciendo acrobacias. Si tienes éxito en tu tirada de ayuda, la persona a la que apoyas puede volver a tirar uno de sus dados si lo necesita.
+#### Escenas en solitario
+
+xxx
+
+#### Escenas musicales en grupo
+
+xxx
+
+#### Hacer de coro
+
+En una escena musical puedes ayudar a las tiradas del protagonista de la escena haciendo de coro. Haces tiradas de los atributos que no usa le protagonista de la escena. Es decir que si alguien canta puedes ayudarle bailando y haciendo acrobacias. Si tienes éxito en tu tirada de ayuda, la persona a la que apoyas puede volver a tirar uno de sus dados si lo necesita.
 
 ### Canciones
 
@@ -79,16 +89,26 @@ Al recibir una nota, marca en tu ficha la siguiente nota en tu hija de personaje
 
 Después de cada sesión puedes mejorar tu PJ de una de las siguientes formas:
 
-* Subir un punto de un atributo. Ningún atributo puede ser dos o mas puntos mayor que el siguiente atributo de más valor. No puedes tener, por ejemplo, atributos 4-2-2, tendrá que ser 3-3-2.
+* Subir un punto de un atributo. Ningún atributo puede ser dos o más puntos mayor que el siguiente atributo de más valor. No puedes tener, por ejemplo, atributos 4-2-2, tendrá que ser 3-3-2.
 * Cambiar una de tus canciones permanentemente.
 * Empezar tu próxima sesión con 6 notas en vez de 3 normales.
 * Tener una cuarta canción secreta solo para la próxima sesión.
 
 \saltocolumna
 
-## Conversión a RpgTM
+## Meter un musical en tu aventura
 
-La conversión es muy rápida, decide si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterena (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos. Si es fuerte (rollo guerrero o bárbaro) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestro (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es listo y/o carismático (mago, clérigo o bardo) pones el valor alto a Cantar y el bajo a acrobacias.  
+xxx
+
+### Conversión de PJ
+
+La conversión es muy rápida, decide si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterena (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos. Si es fuerte (rollo guerrero o bárbaro) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestro (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es listo y/o carismático (mago, clérigo o bardo) pones el valor alto a Cantar y el bajo a acrobacias. 
+
+Luego asígnales sus 3 canciones y por último dales una descripción de personaje basándote en su personaje actual, pero siempre con toque dramático o cómico. Un PJ en un musical no es un Barbaro de nivel 8, es un _poderose bárbaro que busca venganza contra les asesines de su familia_ 
+
+## Ejemplo de juego
+
+xxx
 
 ## Hoja de personaje
 
