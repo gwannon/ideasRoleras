@@ -92,6 +92,10 @@ Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a l
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
+### Ulises VS Cthulhu
+
+La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como los ciclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
+
 ## Derechos
 
 ### Agatha Christie + Cthulhu
