@@ -1,12 +1,12 @@
 # RPG The musical 
 
-RPG The musical (RpgTM) es un **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego.
+RPG The musical (RpgTM) es una **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego.
 
 ## Conversión de PJ
 
 Lo primero es convertir a tu PJ normal en su versión para musicales. La conversión es proceso muy rápido que puedes hacer como jugadore o que puedes hacer en un momento como DJ para entregárselo por sorpresa en mitad de la aventura a tus jugadores.
 
-Primero debes definir tu PJ dentro del musical con una simple frase. Un PJ en un musical no es un Barbaro de nivel 8, es un _poderose bárbaro que busca ser una máquina de picar carne_ o no eres une detective con 90% en Investigar, es _detective alcohólico quiere abandonar el pozo de miseria en que está metido_.
+Primero debes definir tu PJ dentro del musical con una simple frase. Un PJ en un musical no es un Bárbaro de nivel 8, es un _poderose bárbaro que busca ser una máquina de picar carne_ o no eres une detective con 90% en Investigar, es _detective alcohólico quiere abandonar el pozo de miseria en que está metido_.
 
 Luego **debes elegir 3 canciones que pueden ser o no de musicales** que definan quién eres, de donde vienes y a dónde vas. Por decirlo de forma sencilla: _tu presente, tu pasado y tu futuro_.
 
@@ -39,7 +39,7 @@ Tus canciones funcionan de forma parecida a los aspectos de otros juegos, tanto 
 Veamos los usos de las canciones. 
 
 * Puedes **usar una canción para que los 4 sean considerados éxitos**. Para ello tienes que empezar a tararearla y si le DJ la tararea también, es que puedes usarla. Si hace _Chisssttttt_ o hace sonar un gong es que has intentado meter una canción donde no pegaba.
-* Si te ilumania el foco, puedes **cantar el estribillo** de una de tus canciones y si gastas una de tus notas, puedes **hacer realidad la parte del estribillo que te interese**.
+* Si te ilumina el foco, puedes **cantar el estribillo** de una de tus canciones y si gastas una de tus notas, puedes **hacer realidad la parte del estribillo que te interese**.
 
 Solo puedes usar una canción una vez por sesión de juego, para poder recuperarla tienes que gastar una de tus notas.
 
@@ -65,7 +65,7 @@ Al recibir una nota, marca en tu ficha la siguiente nota en tu hoja de personaje
 
 ## Escenas
 
-Los musicales tienen dos tipos de escenas, escenas normales y escenas musicales. Obviamente las normales se jugarán con el sistema de la partida, pero las musicales se rigen por RpgTM.
+Los musicales tienen dos tipos de escenas, escenas normales y escenas musicales. Obviamente, las normales se jugarán con el sistema de la partida, pero las musicales se rigen por RpgTM.
 
 ### Empezando a cantar y bailar
 
@@ -83,7 +83,7 @@ xxx
 
 ### Enfrentamientos
 
-No existen los combates como tal con ataques y daño, solo duelos de canto, baile o acrobacias entre tus PJ y sus nemesis que se resuelven con tiradas enfrentadas. Elle que pierda debe salir del escenario o del plano y no podrá salir en la siguiente escena musical y en las escenas normales que haya entre ambas.
+No existen los combates como tal con ataques y daño, solo duelos de canto, baile o acrobacias entre tus PJ y sus némesis que se resuelven con tiradas enfrentadas. Elle que pierda debe salir del escenario o del plano y no podrá salir en la siguiente escena musical y en las escenas normales que haya entre ambas.
 
 El atributo que vayas a usar lo marca el tono del enfrentamiento. Por ejemplo, un duelo de baile normal tipo West Side Story será Bailar, un duelo de ingenios Cantar y si se enfrentan a espadazos volando tipo Peter Pan sería Acrobacias.
 

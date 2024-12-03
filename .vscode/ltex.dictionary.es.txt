@@ -1,1 +1,6 @@
 postapocalíptico
+protagoniste
+RpgTM
+array
+tokens
+Money
