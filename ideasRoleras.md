@@ -96,6 +96,14 @@ También como si fueran investigadores que tienen que evitar que un primigenio s
 
 La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como los ciclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
 
+### El viento en los sauces VS. Cthulhu 
+
+Hablamos de animales antropomórficos en una era victoriana tardía con los Mitos de Cthulhu.
+
+El ambiente sería muy rural rollo el horror de Dunwich
+
+Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
+
 ### Fantastic West
 
 Salvaje Oeste con razas de fantasía. Elfos como nativos americanos, enanos buscadores de oro, gnomos trabajadores del ferrocarril, halflings granjeros, etc.
@@ -166,5 +174,14 @@ En ese momento un grupo de momias se despiertan en el ala de egiptología del mu
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
 
----
+### Mad men RPG
 
+Un indie donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cockteles de bourbon.
+
+### Top secret!
+
+Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
+
+Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
+
+---
