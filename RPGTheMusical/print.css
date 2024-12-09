@@ -95,6 +95,10 @@ h2, h3, h4 {
   text-shadow: -1px 0px 1px #f79494;
 }
 
+h2 {
+  font-size: 1.3em;
+}
+
 h2 + p, 
 h3 + p, 
 h4 + p {
@@ -115,7 +119,7 @@ img {
 
 p,
 ul {
-  margin: 0.5em 0;
+  margin: 0.45em 0;
 }
 
 table {
