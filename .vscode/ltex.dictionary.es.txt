@@ -4,3 +4,8 @@ RpgTM
 array
 tokens
 Money
+PJ
+Nyarlathotep
+Chisssttttt
+rolera
+Gwannon

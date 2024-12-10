@@ -18,7 +18,7 @@ Por último, tenemos 3 atributos:
 * **Bailar:** que comprenden todo tipo de habilidades que exijan habilidad manual y coordinación viso-manual. Escabullirte con Sigilo dentro del club sin que te vea el portero sería Bailar.
 * **Acrobacias:** refleja actividades físicas que exijan más fuerza que destreza. Saltar, trepar, volar usando cables usarían Acrobacias. Intimidar también iría por Acrobacias al imponerte al resto con tus saltos y volteretas.
 
-Cada atributo tiene un valor de **mínimo de 1 y 5 de máximo**. Tu DJ te dirá si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterene (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos.
+Cada atributo tiene un valor de **mínimo de 1 y 5 de máximo**. Tu DJ te dirá si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterane (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos.
 
 Si es fuerte (rollo bárbare) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestre (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es liste y/o carismátique (mague, clérigue o barde) pones el valor alto a Cantar y el bajo a Acrobacias.
 
@@ -75,15 +75,15 @@ En ese momento le DJ debe definir que pasa en la escena musical y le soliste dic
 
 Le solista tiene esos turnos para conseguir los éxitos de la tarea. Cada PJ con foco tiene derecho a una tirada por turno de la habilidad escogida para la tarea. Si consiguen pasar la tarea, elige la siguiente parte de la escena, por ejemplo, deslizarse bailando por las paredes hasta el suelo y si vuelven a pasar el reto podrán elegir la tercera tarea, por ejemplo, salir cabalgando corceles blancos del castillo.
 
-Si fallan alguna tarea, será el DJ el que elija como sigue la escena. Por ejemplo, si fallan atrancando la puerta podrían que tener un duelo con los guardias de saltos acrobaticos. Si fallan dos tareas seguidas fracasan en su escena musical y pueden acabar esposados en un calabozo cantando sus desdichas.
+Si fallan alguna tarea, será el DJ el que elija como sigue la escena. Por ejemplo, si fallan atrancando la puerta podrían que tener un duelo con los guardias de saltos acrobáticos. Si fallan dos tareas seguidas fracasan en su escena musical y pueden acabar esposados en un calabozo cantando sus desdichas.
 
 ### Escenas corales
 
 En una escena solista, puede convertirse en escena coral en cualquier momento, si une PJ está afinade igual que el soliste. Solo puede entrar un nueve PJ por turno. 
 
-Se convierte en dueto (obteniendo un segundo foco) si otre PJ tiene **la misma última nota igual a le soliste** y gastan los dos esa nota. Puede convertirse en terceto, si el siguiente turno hay otre PJ que tenga la misma nota que sus copañeres. Y asi sucesivamente.
+Se convierte en dueto (obteniendo un segundo foco) si otre PJ tiene **la misma última nota igual a le soliste** y gastan los dos esa nota. Puede convertirse en terceto, si el siguiente turno hay otre PJ que tenga la misma nota que sus compañeres. Y así sucesivamente.
 
-Si te unes al foco de la escena aun asi debes seguir la habilidad marcada por le solista y podrás participar en que hacer en la siguiente parte.
+Si te unes al foco de la escena aun así debes seguir la habilidad marcada por le solista y podrás participar en que hacer en la siguiente parte.
 
 En las escenas en solitario **aquelles que no tengan foco solo podrán hacer de coro**.
 
