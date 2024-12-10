@@ -1,6 +1,6 @@
-# RPG The musical 
+# RPG The musical [Por Gwannon](https://gwannon.itch.io/rpg-the-musical) 
 
-RPG The musical (RpgTM) es una **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego.
+RPG The musical (RpgTM) es una **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego. Desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 
 El sistema de RpgTM usa dados de seis caras y puedes usar tokens para representar tus notas musicales.
 
@@ -61,14 +61,6 @@ Al recibir una nota, marca en tu ficha la siguiente nota en tu hoja de personaje
 
 \saltopagina
 
-
-
-
-
-
-
-
-
 ## Escenas
 
 Los musicales tienen dos tipos de escenas, escenas normales y escenas musicales. Obviamente, las normales se jugarán con el sistema de la partida, pero las musicales se rigen por RpgTM.
@@ -101,11 +93,11 @@ No existen los combates como tal con ataques y daño, solo duelos de canto, bail
 
 Les enemigues tienen una única ficha para todes con los 3 atributos (repartidas como quieras) y una sola canción y las 3 notas.
 
-El atributo que vayas a usar lo marca el tono del enfrentamiento. Por ejemplo, un duelo de baile normal tipo West Side Story será Bailar, un duelo de ingenios Cantar y si se enfrentan a espadazos volando tipo Peter Pan sería Acrobacias.
+El atributo que vayas a usar lo marca el tono del enfrentamiento. Por ejemplo, un duelo de baile normal tipo _West Side Story_ será Bailar, un duelo de ingenios _Cantar_ y si se enfrentan a espadazos volando tipo _Peter Pan_ sería Acrobacias.
 
 ### Hacer de coro
 
-En una escena musical puedes ayudar a las tiradas del soliste de la escena haciendo de coro. **Haces tiradas de los atributos que no usa le protagoniste de la escena.** Es decir, que si alguien está cantando para convencer al guarda de que le deje entrar, puedes ayudarle bailando y haciendo acrobacias por detrás. Si tienes éxito en tu tirada de ayuda, la persona a la que apoyas puede volver a tirar uno de sus dados si lo necesita.
+En una escena musical puedes ayudar a las tiradas de le soliste de la escena haciendo de coro. **Haces tiradas de los atributos que no usa le protagoniste de la escena.** Es decir, que si alguien está cantando para convencer al guarda de que le deje entrar, puedes ayudarle bailando y haciendo acrobacias por detrás. Si tienes éxito en tu tirada de ayuda, la persona a la que apoyas puede volver a tirar uno de sus dados si lo necesita.
 
 Por ejemplo, si le soliste canta lo difícil que es encontrar y aprenderse un hechizo para expulsar a Nyarlathotep de nuestra dimensión, el coro puede bailar para traerle libros y ponérselos delante suyo o hacer acrobacias para saltar por las escaleras de la biblioteca para conseguir los tomos de lo más alto de las estanterías.
 
