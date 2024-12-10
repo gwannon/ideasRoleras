@@ -1,4 +1,4 @@
-# RPG The musical [Por Gwannon](https://gwannon.itch.io/rpg-the-musical) 
+# RPG The musical [Por Gwannon - Ver. 1.0](https://gwannon.itch.io/rpg-the-musical) 
 
 RPG The musical (RpgTM) es una **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego. Desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 

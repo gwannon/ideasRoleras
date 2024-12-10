@@ -2,6 +2,10 @@
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
+# RPG The Musical
+
+Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+
 ## Atribuciones de RPG The Musical
 
 * Notas de fondo del PDF por [kjpargeter](https://www.freepik.com/free-vector/abstract-music-notes-background_42121683.htm)

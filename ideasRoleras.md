@@ -20,17 +20,13 @@ Justas montado en tiranosaurios
 
 Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
 
-### Ulises VS Cthulhu
-
-La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
-
 ### Barsum
 
 xxx
 
 ### Jungle book
 
-Animales de la selva que hablan pero sin antropoformizar como la película de Dysney.
+Animales de la selva que hablan pero sin antropomorfizar, como la película de Disney.
 
 ### Shakespeare
 
@@ -64,13 +60,13 @@ Inglaterra 1750 en el espacio, rollo El planeta del tesoro.
 
 ### The borrowers
 
-Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near future_.  O puede tener terror kaiju con humanos o mascotas gigantescas y alta tecnología diminuta. Gnomzilla???
+Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near future_.  O puede tener terror kaiju con humanos o mascotas gigantescas y alta tecnología diminuta. ¿¿¿Gnomzilla???
 
 ### Soy leyenda al revés
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
 
 ### NIMH
-¿Qué pasó con los ratones de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
+¿Qué pasó con las ratas de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
 
 ### Circunnavegación de un mundo medieval fantástico
 
@@ -94,7 +90,7 @@ También como si fueran investigadores que tienen que evitar que un primigenio s
 
 ### Ulises VS Cthulhu
 
-La Odisea en plan los Mitos de Cthulhu. En vez de Poseidon es Cthulhu y los seres extraños como los ciclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser lideres de cultos.
+La Odisea en plan los Mitos de Cthulhu. En vez de Poseidón es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser líderes de cultos.
 
 ### El viento en los sauces VS. Cthulhu 
 
@@ -110,7 +106,7 @@ Salvaje Oeste con razas de fantasía. Elfos como nativos americanos, enanos busc
 
 Se puede hacer muy fantástico con dragones propietarios de minas de oro y el séptimo de unicornieria o más oscuro con nativos elfos siendo exterminados y robadas sus tierras y la industria y el humo contaminando las praderas.
 
-hay un juego español llamado Steam State y un suplemento de Castillo Falkensteinnllamado Sircery and Six-Gunners
+Hay un juego español llamado Steam State y un suplemento de Castillo Falkenstein llamado Sorcery and Six-Gunners
 
 ## Derechos
 
@@ -176,7 +172,7 @@ En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada 
 
 ### Mad men RPG
 
-Un indie donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cockteles de bourbon.
+Un indie donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
 
 ### Top secret!
 
