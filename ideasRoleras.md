@@ -100,6 +100,9 @@ El ambiente sería muy rural rollo el horror de Dunwich
 
 Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
 
+Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
+
+
 ### Fantastic West
 
 Salvaje Oeste con razas de fantasía. Elfos como nativos americanos, enanos buscadores de oro, gnomos trabajadores del ferrocarril, halflings granjeros, etc.
