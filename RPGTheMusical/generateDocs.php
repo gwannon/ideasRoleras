@@ -23,8 +23,10 @@ $html = str_replace("</table>", "</table></div>", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-$metas = "InfoKey: Subject\n";
-$metas .= "InfoValue: RPG The musical (RpgTM) es un juego de rol de una sola hoja para jugar musicales. Versión 0.1\n\n";
+$metas = "InfoKey: Title\n";
+$metas .= "InfoValue: RPG The musical\n\n";
+$metas .= "InfoKey: Subject\n";
+$metas .= "InfoValue: RPG The musical (RpgTM) es una ayuda rolera en una sola hoja para jugar escenas musicales en tus partidas. Versión 1.0\n\n";
 $metas .= "InfoKey: Author\n";
 $metas .= "InfoValue: Gwannon\n\n";
 $metas .= "InfoKey: Keywords\n";
