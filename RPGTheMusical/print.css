@@ -24,7 +24,7 @@ body:before {
   top: 0px;
   left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: black url(./images/border1.jpg) top left repeat-y
+  background: var(--color-black) url(./images/border1.jpg) top left repeat-y
 }
 
 body:after {
@@ -36,14 +36,13 @@ body:after {
   top: 0px;
   right: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: black url(./images/border2.jpg) top left repeat-y;
+  background: var(--color-black) url(./images/border2.jpg) top left repeat-y;
 }
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
   margin: 0 var(--padding);
 }
-
 
 body > *:first-child,
 .saltopagina + * {
@@ -87,18 +86,19 @@ h1 {
   font-size: 35px;
 }
 
-h1 a {
+h1 > a {
   display: block;
   text-align: center;
   font-size: 16px;
   width: 100%;
-  color: white;
+  color: var(--color-white);
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
   text-decoration: none;
 }
 
-h2, h3, h4 {
+h2,
+h3 {
   font-family: "Limelight", sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -113,22 +113,11 @@ h2 {
 }
 
 h2 + p, 
-h3 + p, 
-h4 + p {
+h3 + p {
   margin-top: 0px;
 }
 
-/* Imágenes */
-
-img {
-  width: calc(100% - (var(--padding) * 2));
-  max-width: calc(100% - (var(--padding) * 2));
-}
-
-.columns > img {
-  width: 100%;
-  max-width: 100%;
-}
+/* Otros elementos */
 
 p,
 ul {
@@ -136,25 +125,7 @@ ul {
 }
 
 a {
-  color: white;
-}
-
-table {
-  margin-top: 5px;
-  width: 100%;
-  box-sizing: border-box;
-  border: 2px dashed var(--color-white);
-  padding: 5px;
-}
-
-table thead tr th {
-  text-align: left;
-  font-weight: 400;
-}
-
-table strong {
-  color: var(--color-red);
-  font-family: "Limelight", sans-serif;
+  color: var(--color-white);
 }
 
 ul {
@@ -176,14 +147,28 @@ ul li:before {
   color: var(--color-red);
 } 
 
+table {
+  margin-top: 5px;
+  width: 100%;
+  box-sizing: border-box;
+  border: 2px dashed var(--color-white);
+  padding: 5px;
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 400;
+}
+
+table strong {
+  color: var(--color-red);
+  font-family: "Limelight", sans-serif;
+}
+
 @media screen {
-  body {
-    font-size: 14px;
-  }
   .saltopagina {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
-    position: relative;
   }
 }
 
