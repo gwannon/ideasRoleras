@@ -54,7 +54,7 @@ Cada sesión empiezas con tres notas (Do, Re y Mi) que puedes usar para:
 Según avance la sesión, le DJ podrá otorgarte más notas (Fa, Sol, La y Si) por diferentes razones:
 
 * Acompañando las canciones con gestos como manos de jazz, guitarra aérea, chasquear los dedos, etc.
-* Hacerle los coros a otre PJ.
+* Hacerle los coros a otre PJ y seguirle el rollo.
 * En general, seguir el rollo del musical adecuadamente.
 
 Al recibir una nota, marca en tu ficha la siguiente nota en tu hoja de personaje y cuando lo gaste desmarca tu última nota. Esto tiene su importancia porque, como ya se verá, hay ventajas al usar dos PJ la misma nota.
@@ -71,7 +71,7 @@ Las escenas musicales tienen 3 partes, presentación o inicio, desarrollo y gran
 
 En un momento dado de tu partida, se apagan las luces, empieza a sonar una música de fondo y un foco que nadie sabe de donde ha salido, ilumina une personaje y este puede empezar a hacer su escena musical.
 
-En ese momento le DJ debe definir que pasa en la escena musical y le soliste dice cuál es el plan. El DJ asigna un número de éxitos para cumplir cada tarea y turnos durará la escena. Por ejemplo, el DJ les dice que la guardia del castillo quiere detenerlos y el solista dice que atrancaran la puerta cantando con muebles bailando, cantando o haciendo acrobacias. En ese momento le DJ decide cuantos turnos, normalmente 2, tienen para hacer la tarea.
+En ese momento le DJ debe definir que pasa en la escena musical y le soliste dice cuál es el plan. El DJ asigna un número de éxitos para cumplir cada tarea y turnos durará la escena. Por ejemplo, el DJ les dice que la guardia del castillo quiere detenerlos y el solista dice que atrancaran la puerta cantando con muebles bailando, cantando o haciendo acrobacias. En ese momento le DJ decide cuantos turnos, normalmente 3 o 4, tienen para hacer la tarea.
 
 Le solista tiene esos turnos para conseguir los éxitos de la tarea. Cada PJ con foco tiene derecho a una tirada por turno de la habilidad escogida para la tarea. Si consiguen pasar la tarea, elige la siguiente parte de la escena, por ejemplo, deslizarse bailando por las paredes hasta el suelo y si vuelven a pasar el reto podrán elegir la tercera tarea, por ejemplo, salir cabalgando corceles blancos del castillo.
 
@@ -79,7 +79,7 @@ Si fallan alguna tarea, será el DJ el que elija como sigue la escena. Por ejemp
 
 ### Escenas corales
 
-En una escena solista, puede convertirse en escena coral en cualquier momento, si une PJ está afinade igual que el soliste. Solo puede entrar un nueve PJ por turno. 
+En una escena solista, puede convertirse en escena coral en cualquier momento, si une PJ está afinade igual que le soliste. Solo puede entrar un nueve PJ por turno. 
 
 Se convierte en dueto (obteniendo un segundo foco) si otre PJ tiene **la misma última nota igual a le soliste** y gastan los dos esa nota. Puede convertirse en terceto, si el siguiente turno hay otre PJ que tenga la misma nota que sus compañeres. Y así sucesivamente.
 
@@ -118,12 +118,12 @@ Después de cada sesión puedes mejorar tu PJ musical de una de las siguientes f
 
 ## Hoja de personaje
 
-|**Nombre**     |......................................................|
+|**Nombre**     |.......................................................................|
 |---|---|
-|**Descripción**|......................................................|
-|**Canciones**  |......................................................|
-|               |......................................................|
-|               |......................................................|
+|**Descripción**|.......................................................................|
+|**Canciones**  |.......................................................................|
+|               |.......................................................................|
+|               |.......................................................................|
 |**Cantar**     |⬤◯◯◯◯|
 |**Bailar**     |⬤◯◯◯◯|
 |**Acrobacias** |⬤◯◯◯◯|

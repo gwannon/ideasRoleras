@@ -1,5 +1,5 @@
 :root {
-  --padding: 65px; /*Ancho de los bordes de la página*/
+  --padding: 62px; /*Ancho de los bordes de la página*/
   --color-red: #ad3131;
   --color-white: #fff;
   --color-black: #000;
@@ -149,11 +149,25 @@ ul li:before {
 
 table {
   margin-top: 5px;
-  width: 100%;
+  width: calc(100% - 4px);
   box-sizing: border-box;
   border: 2px dashed var(--color-white);
   padding: 5px;
+  position: relative;
+
 }
+
+table:before {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 29px;
+  height: 20px;
+  background: transparent url(./images/tijera.png) center center no-repeat;
+  top: -21px;
+  right: -0px;
+}
+
 
 table thead tr th {
   text-align: left;
