@@ -12,7 +12,7 @@ body {
   padding: 0;
   font-family: "Open Sans", sans-serif;
   color: var(--color-white);
-  font-size: 13.5px;
+  font-size: 12px;
 }
 
 body:before {
