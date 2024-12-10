@@ -16,11 +16,11 @@ Por último, tenemos 3 atributos:
 
 * **Cantar:** que abarca todas las tiradas mentales y sociales. Convencer al portero de que te deje entrar en el club se haría cantando.
 * **Bailar:** que comprenden todo tipo de habilidades que exijan habilidad manual y coordinación viso-manual. Escabullirte con Sigilo dentro del club sin que te vea el portero sería Bailar.
-* **Acrobacias:** refleja actividades físicas que exijan más fuerza que destreza. Saltar, trepar, volar usando cables usarían Acrobacias. Intimidar también iría por Acrobacias al imponerte al resto con tus saltos y volteretas.
+* **Acrobacias:** refleja actividades físicas que exijan más fuerza que destreza. Saltar, trepar o incluso volar usarían Acrobacias. Intimidar también iría por Acrobacias al imponerte al resto con tus saltos y volteretas.
 
 Cada atributo tiene un valor de **mínimo de 1 y 5 de máximo**. Tu DJ te dirá si tu personaje es novate (1,2,3), experimentade (2,3,4) o veterane (3,4,5). Como ves, cada nivel tiene un array de puntos que poner a tus atributos.
 
-Si es fuerte (rollo bárbare) pones el valor alto a Acrobacias y el bajo a Cantar. Si es diestre (por ejemplo ladrones y exploradores) pones el valor alto a Bailar y el bajo a Acrobacias. Si es liste y/o carismátique (mague, clérigue o barde) pones el valor alto a Cantar y el bajo a Acrobacias.
+Si es fuerte (rollo bárbare) pones el valor alto a Acrobacias y el bajo a Cantar. Pones el valor alto a Bailar y el bajo a Acrobacias, si es diestre (por ejemplo ladrones y exploradores). Si es liste y/o carismátique (mague, clérigue o barde) pones el valor alto a Cantar y el bajo a Acrobacias.
 
 ## Sistema de juego
 
@@ -103,9 +103,9 @@ Por ejemplo, si le soliste canta lo difícil que es encontrar y aprenderse un he
 
 ### Volviendo a la realidad
 
-Una vez resuelta la escena poco a poco la música baja, les cantantes se callan y los pies seguir la música. Como DJ puedes darles los objetos y beneficios que hayan conseguido en la escena si la han superado.
+Una vez resuelta la escena, poco a poco la música baja, les cantantes se callan y los pies dejan de seguir la música. Como DJ puedes darles los objetos y beneficios que hayan conseguido en la escena si la han superado.
 
-En las escenas de enfrentamiento elle que pierda desaparecerá del escenario o del plano silenciosamente y no podrá salir en la siguiente escena musical y en las escenas normales que haya entre ambas. 
+En las escenas de enfrentamiento, elle que pierda desaparecerá del escenario o del plano silenciosamente y no podrá salir en la siguiente escena musical y en las escenas normales que haya entre ambas. 
 
 ## Mejorando
 
