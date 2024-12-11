@@ -190,3 +190,9 @@ Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de 
 ### Crear versiones en LEGO de juegos de rol
 
 Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Heroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
+
+### Pac-land
+
+Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
+
+Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
