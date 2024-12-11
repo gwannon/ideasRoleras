@@ -125,6 +125,8 @@ xxx
 
 Revisar el tema de derechos
 
+***
+
 # Proyectos cortos
 
 ## Reglas caseras D&D
@@ -184,3 +186,7 @@ Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
 
 ---
+
+### Crear versiones en LEGO de juegos de rol
+
+Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC HEroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
