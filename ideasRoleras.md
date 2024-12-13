@@ -196,3 +196,11 @@ Montar reglas para jugar con personajes que sean de LEGO con el rollo de constru
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
 
 Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
+
+### Los plastilinos.
+
+Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
+Está inspirado en los arquetipos del Nephilim de Chaosium, que serian representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
+Los jugadores podrían cederse dados (mezcla de colores).
+
+por [Mondriter](https://mastodon.social/@Moonrider_acme)
