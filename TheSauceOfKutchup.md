@@ -1,4 +1,4 @@
-# The Call of Kutchup [Por Gwannon - Ver. 0.1](https://gwannon.itch.io/the-call-of-kutchup) 
+# The Sauce of Kutchup [Por Gwannon - Ver. 0.1](https://gwannon.itch.io/the-call-of-kutchup) 
 
 ```
 Qué no esta muerto aquello que está al fondo de la nevera y hasta arriba de conservantes; y con el paso de los extraños eones, incluso el ketchup puede caducar. - _H. J. Heinz_

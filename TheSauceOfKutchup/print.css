@@ -12,7 +12,7 @@ body {
   padding: 0;
   font-family: "Special Elite", sans-serif;
   color: var(--color-black);
-  font-size: 12px;
+  font-size: 16px;
 }
 
 body:before {
@@ -24,7 +24,7 @@ body:before {
   top: 0px;
   left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: var(--color-black) url(./images/border1.jpg) top left repeat-y
+  background: transparent url(./images/border1.png) top left repeat-y
 }
 
 body:after {
@@ -36,7 +36,7 @@ body:after {
   top: 0px;
   right: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: var(--color-black) url(./images/border2.jpg) top left repeat-y;
+  background: transparent url(./images/border2.png) top left repeat-y;
 }
 
 body > * {
@@ -76,20 +76,20 @@ h1 {
   background-size: cover;
   font-family: "Jolly Lodger", sans-serif;
   text-align: center;
-  height: 197px;
+  height: 700px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   align-items: center;
   justify-content: center;
-  border-radius: 28px;
-  font-size: 35px;
+  font-size: 3em;
+  color: var(--color-white);
 }
 
 h1 > a {
   display: block;
   text-align: center;
-  font-size: 16px;
+  font-size: 0.4em;
   width: 100%;
   color: var(--color-white);
   font-family: "Special Elite", sans-serif;
@@ -109,8 +109,13 @@ h3 {
 }
 
 h2 {
-  font-size: 1.3em;
+  font-size: 2.5em;
 }
+
+h3 {
+  font-size: 2em;
+}
+
 
 h2 + p, 
 h3 + p {
