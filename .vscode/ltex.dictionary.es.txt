@@ -20,3 +20,4 @@ saltopagina
 precortado
 Kutchup
 Oetker
+1d6

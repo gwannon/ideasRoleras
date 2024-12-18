@@ -1,5 +1,9 @@
 # The Call of Kutchup [Por Gwannon - Ver. 0.1](https://gwannon.itch.io/the-call-of-kutchup) 
 
+```
+Qué no esta muerto aquello que está al fondo de la nevera y hasta arriba de conservantes; y con el paso de los extraños eones, incluso el ketchup puede caducar. - _H. J. Heinz_
+```
+
 xxx
 
 ## Creación de personajes
@@ -88,3 +92,14 @@ xxx
 Solo necesitas un d6 al que le sumas los bonos adecuados que tengas. Si sacas 5 o más consigues lo que quieres hacer. Cada punto por encima de 6 supone un crítico.
 
 xxx
+
+### Perdida de cordura
+
+xxx
+
+Las perdidas de corduras se convierten diferentes traumas que van desde "mi tapa no cierra" a "se me ha caído la etiqueta".
+
+|1d6|Trastorno|Efecto|
+|---|---|
+|1|Mi tapa no cierra|xxx|
+|2|se me ha caído la etiqueta|xxx|
