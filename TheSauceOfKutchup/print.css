@@ -1,18 +1,17 @@
 :root {
   --padding: 62px; /*Ancho de los bordes de la página*/
-  --color-red: #ad3131;
+  --color-green: #0eb300;
   --color-white: #fff;
   --color-black: #000;
 }
 
 body {
-  background: var(--color-white) url(./images/bg.png) repeat-y top center;
-  background-size: contain;
+  background: var(--color-white) url(./images/bg.png) repeat top center;
   margin: 0;
   padding: 0;
-  font-family: "Special Elite", sans-serif;
+  font-family: "Open Sans", serif;
   color: var(--color-black);
-  font-size: 16px;
+  font-size: 14px;
 }
 
 body:before {
@@ -24,7 +23,7 @@ body:before {
   top: 0px;
   left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(./images/border1.png) top left repeat-y
+  background: transparent url(./images/border1.png) center left repeat-y
 }
 
 body:after {
@@ -74,15 +73,15 @@ body > *:first-child,
 h1 {
   background: var(--color-black) url(./images/titular.jpg) center center no-repeat;
   background-size: cover;
-  font-family: "Jolly Lodger", sans-serif;
+  font-family: "Glass Antiqua", serif;
   text-align: center;
-  height: 700px;
+  height: 250px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
   align-items: center;
   justify-content: center;
-  font-size: 3em;
+  font-size: 2em;
   color: var(--color-white);
 }
 
@@ -92,37 +91,60 @@ h1 > a {
   font-size: 0.4em;
   width: 100%;
   color: var(--color-white);
-  font-family: "Special Elite", sans-serif;
+  font-family: "Open Sans", serif;
   font-weight: 400;
   text-decoration: none;
 }
 
 h2,
-h3 {
-  font-family: "Jolly Lodger", sans-serif;
-  font-weight: 400;
+h3,
+h4 {
+  font-family: "Glass Antiqua", serif;
+  font-weight: 700;
   font-style: normal;
-  color: var(--color-red);
+  color: var(--color-green);
   margin-bottom: 0px;
   padding-bottom: 0px;
-  text-shadow: -1px 0px 1px #f79494;
+  text-shadow: -1px 0px 1px #1bc7af;
 }
 
 h2 {
-  font-size: 2.5em;
+  font-size: 1.6em;
 }
 
 h3 {
-  font-size: 2em;
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1m;
 }
 
 
 h2 + p, 
-h3 + p {
+h3 + p, 
+h4 + p {
   margin-top: 0px;
 }
 
 /* Otros elementos */
+
+pre {
+  white-space: pre-wrap;
+}
+
+blockquote {
+  margin: 0;
+}
+
+pre > code,
+blockquote > p {
+  display: block;
+  font-family: "Glass Antiqua", serif;
+  background-color: var(--color-white);
+  padding: 20px;
+  border-radius: 10px;
+}
 
 p,
 ul {
@@ -143,13 +165,13 @@ ul li {
 }
 
 ul li:before {
-  content: "\266A";
+  content: "\26E7";
   position: absolute;
-  font-size: 30px;
-  top: -12px;
-  left: -20px;
+  font-size: 22px;
+  top: -15px;
+  left: -23px;
   display: block;
-  color: var(--color-red);
+  color: var(--color-green);
 } 
 
 table {
@@ -163,19 +185,20 @@ table {
 }
 
 table thead tr th {
+  font-family: "Glass Antiqua", serif;
   text-align: left;
-  font-weight: 400;
+  font-weight: 700;
 }
 
-table strong {
-  color: var(--color-red);
-  font-family: "Jolly Lodger", sans-serif;
+table thead tr,
+table tbody tr:nth-child(even) {
+  background-color: var(--color-green);
 }
 
 @media screen {
   .saltopagina {
-    border-top: 3px dashed var(--color-red);
-    border-bottom:  3px dashed var(--color-red);
+    border-top: 3px dashed var(--color-green);
+    border-bottom:  3px dashed var(--color-green);
   }
 }
 

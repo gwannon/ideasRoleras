@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: The Sauce of Kutchup
 
 InfoKey: Subject
-InfoValue: The Sauce of Kutchup (SoK) es juego de rol donde salsa y condimentos deberán evitar terminen echando primigenía salsa Kutchup a los platos que se estan preparando. Versión 0.1
+InfoValue: The Sauce of Kutchup (SoK) es juego de rol donde salsa y condimentos deberán evitar terminen echando primigenía salsa Kutchup a los platos que se estan preparando. Versión 0.3
 
 InfoKey: Author
 InfoValue: Gwannon
