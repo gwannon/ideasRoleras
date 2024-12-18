@@ -1,8 +1,8 @@
-# The Sauce of Kutchup [Por Gwannon - Ver. 0.1](https://gwannon.itch.io/the-call-of-kutchup) 
+# The Sauce of Kutchup [Por Gwannon - Ver. 0.1](https://gwannon.itch.io/the-sauce-of-kutchup) 
 
 > Qué no esta muerto aquello que está al fondo de la nevera hasta arriba de conservantes; y con el paso de los extraños eones, incluso el ketchup puede caducar. __H. J. Heinz__
 
-The Sauce of Kutchup (SoK) es un juego de rol para **jugar partidas de horror cosmico-alimenticio mientras cocina**s**. 
+The Sauce of Kutchup (SoK) es un juego de rol para **jugar partidas de horror cosmico-alimenticio mientras cocinas**. 
 
 Para empezar **necesitaras una receta**, cuanto más loca, con más ingredientes y compleja mejor. Revisa esos vídeos de cocineros de TikTok o esos libros de cocina friki. La partida es en tiempo real y dura lo que lleva elaborar la receta.
 
@@ -72,8 +72,7 @@ xxx
 
 También es conocido como "las bandejas de la locura". Tus salsas y condimentos deberán luchar contra el clima en el infierno blanco.
 
-
-
+xxx
 
 ### La despensa
 
