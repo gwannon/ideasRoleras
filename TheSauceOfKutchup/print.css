@@ -147,7 +147,8 @@ blockquote > p {
 }
 
 p,
-ul {
+ul,
+ol {
   margin: 0.45em 0;
 }
 
@@ -155,7 +156,8 @@ a {
   color: var(--color-black);
 }
 
-ul {
+ul,
+ol {
   padding-left: 19px;
 }
 

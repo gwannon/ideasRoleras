@@ -79,7 +79,7 @@ xxx
 
 #### Botellero
 
-xxx
+Las estiradas botellas, sobre todo las de vinos y espirituosos se creen mejor que el resto. xxx 
 
 ### Congelador
 
