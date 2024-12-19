@@ -37,10 +37,10 @@ La Cordura y la Suerte son unos valores del 1 al 4 según esté el bote lleno o 
 
 La aventura se crea a partir de la receta. Deberás seguir estos pasos.
 
-1. Lo primero es cambiarle el nombre, así un __Solomillo Wellington__ pasará a ser el __Horror Cárnico en Wellington__ o xxx.
+1. Lo primero es cambiarle el nombre a la receta para darle nombre de aventura, así un __Solomillo Wellington__ pasará a ser el __Horror Cárnico en Wellington__ o un __Cocido montañes__ pasará a ser __Cocido montañes de la locura__.
 2. A partir de ahí miras los **ingredientes principales de la receta**, esos serán **los sectarios**, la **localización principal de esos ingredientes**, que será **su guarida**, y la **técnica principal de cocina de la receta** será el **cómo y el dónde del ritual de invocación**. Por ejemplo, en un puré de patatas los sectarios serán patatas, su guarida será la despensa y autoinmolarse el pasapurés será el ritual principal.
 3. **Cómo van los sectarios a estropearla la receta queda a tu elección** y es algo que tus ingredientes deberán averiguar. Por ejemplo, sacrificando a un brócoli en el pasapurés entre las patatas y que estropee el puré dándole un color verdoso asqueroso.
-4. El objetivo es que los PJ vayan investigando en las diferentes localizaciones las desapariciones de ingredientes y útiles de cocina y deberán averiguar cuál es la receta y, por tanto, quienes son los sectarios y donde van a hacer el ritual y como harán que falle la receta. xxx
+4. El objetivo es que los PJ vayan investigando en las diferentes localizaciones las desapariciones de ingredientes y útiles de cocina y **deberán averiguar cuál es la receta y, por tanto, quienes son los sectarios y donde van a hacer el ritual y como harán que falle la receta**.
 5. Por último, **decides que horror cósmico-alimentario va a suceder si falla la receta**. Te damos algunos ejemplos.
   * La Gran salsa Kutchup será invocada para intentar salvar el plato. Todo el mundo sabe que si le echas Kutchup a la comida sabe a Kutchup.
   * Puede que si se quema la comida, saquen aquel plato congelado ignominioso preparado por el loco Dr. Oetker que lleva encerrado en los hielos eternos del congelador.
@@ -51,6 +51,8 @@ La aventura se crea a partir de la receta. Deberás seguir estos pasos.
 Las aventuras tendrán lugar en una serie de escenarios que pueden tener sus propias características.
 
 Para moverte a una localización debes poner tu condimento en ella y solo puedes hablar con otros condimentos de tu localización. Hay localizaciones que tienen sus propias reglas para entrar/salir o de interactuar.
+
+Si visitas la localización que es la guarida de los sectarios, estos te mentirán, te darán pistas falsas y si husmeas mucho tratarán de matarte.
 
 \saltopagina
 
@@ -136,12 +138,12 @@ Puedes gastar un 1 punto de suerte para repetir una tirada de dado y quedarte co
 Cada vez que se usa una salsa o condimento en la elaboración de la receta, ese condimento o salsa pierde un punto de cordura. También pierde cordura si se derrama su contenido. Cómo ventaja gana un punto de Suerte. Las perdidas de corduras se convierten diferentes traumas que van desde «mi tapa no cierra» a «se me ha caído la etiqueta». Si sale un trauma que ya tenía, ha tenido suerte y no coge nuevo trauma.
 
 |1d6|Trastorno|Efecto|
-|---|---|
-|1|Mi tapa no cierra o ha desaparecido|No puedes cerrar el bote o sobre|
+|---|---|---|
+|1|Mi tapa no cierra o ha desaparecido|No puedes cerrar el bote o sobre durante el resto de partida|
 |2|Se me ha caído la etiqueta|Tus habilidades cambian y ahora las marca tu etiqueta trasera|
-|3|xxx|xxx|
-|4|xxx|xxx|
-|5|Moho blanco|xxx|
-|6|Moho verde|xxx|
+|3|Hay restos de otra salsa dentro de mi|Te quitas un bono al azar y coges de uno al azar de la última salsa o condimento usado la salsa en la receta|
+|4|Gran Raja|El positivo por tu tipo de bote se convierte en negativo|
+|5|Moho blanco|Debes gastar 2 puntos de suerte en vez de 1 para repetir tirada|
+|6|Moho verde|No puedes usar Suerte hasta recuperar un punto de cordura|
 
 Si la **cordura cae a 0**, no quedará nada de la esencia que le convierte en condimento o salsa. Será abierto, estrujado o cortado por la mitad y rebañado con un cuchillo hasta no quedar nada de él. Se habrá convertido en **una carcasa vacía y rota**.
