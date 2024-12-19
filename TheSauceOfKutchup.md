@@ -18,7 +18,7 @@ Para crear los PJ debes buscar palabras que haya en la etiqueta frontal en la si
 |Picante, Fuerte, Sabor|+1 combate|
 |Aromático, Dulce|+1 persuadir|
 |Abrefácil, Reciclable|+1 robar y abrir puertas|
-|Omega3, |+1 investigar|
+|Omega3, Oligoelementos|+1 investigar|
 |Sin conservantes, Tradicional, Sin gluten|xxx|
 |xxx|xxx|
 
@@ -115,19 +115,25 @@ Solo necesitas un d6 al que le sumas los bonos adecuados que tengas. Si sacas 5 
 
 xxx
 
+### Tiradas enfrentadas
+
+xxx
+
+### Suerte
+
+xxx
+
 ### Perdida de cordura
 
-Cada vez que te usan en la elaboración de la receta, tu condimento o salsa pierde un punto de cordura. También pierdes cordura si se derrama tu contenido. Cómo ventaja ganas un punto de Suerte.
-
-Las perdidas de corduras se convierten diferentes traumas que van desde "mi tapa no cierra" a "se me ha caído la etiqueta".
+Cada vez que te usan en la elaboración de la receta, tu condimento o salsa pierde un punto de cordura. También pierdes cordura si se derrama tu contenido. Cómo ventaja ganas un punto de Suerte. Las perdidas de corduras se convierten diferentes traumas que van desde «mi tapa no cierra» a «se me ha caído la etiqueta». Si te sale un trauma que ya tenías, has tenido suerte y no coges nuevo trauma.
 
 |1d6|Trastorno|Efecto|
 |---|---|
-|1|Mi tapa no cierra|xxx|
-|2|se me ha caído la etiqueta|xxx|
+|1|Mi tapa no cierra o ha desaparecido|No puedes cerrar el bote o sobre|
+|2|Se me ha caído la etiqueta|Tus habilidades cambian y ahora las marca tu etiqueta trasera|
 |3|xxx|xxx|
 |4|xxx|xxx|
-|5|xxx|xxx|
-|6|xxx|xxx|
+|5|Moho blanco|xxx|
+|6|Moho verde|xxx|
 
-Si tu cordura cae a cero, no te quedará nada de la esencia que te convierte en condimento o salsa y serás abierto, estrujado o cortado por la mitad y rebañado con un cuchillo hasta no quedar nada ti. Te habrás convertido en una carcasa vacía y rota.
+Si tu **cordura cae a 0**, no te quedará nada de la esencia que te convierte en condimento o salsa. Serás abierto, estrujado o cortado por la mitad y rebañado con un cuchillo hasta no quedar nada ti. Te habrás convertido en **una carcasa vacía y rota**.
