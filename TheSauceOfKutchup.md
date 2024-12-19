@@ -1,4 +1,4 @@
-# The Sauce of Kutchup [Por Gwannon - Ver. 0.5](https://gwannon.itch.io/the-sauce-of-kutchup) 
+# The Sauce of Kutchup [Por Gwannon - Ver. 0.6](https://gwannon.itch.io/the-sauce-of-kutchup) 
 
 > Qué no está muerto aquello que está al fondo de la nevera hasta arriba de conservantes; y con el paso de los extraños eones, incluso el ketchup puede caducar. __H.J. Heinz__
 
@@ -19,10 +19,8 @@ Para crear los PJ debes buscar palabras que haya en la etiqueta frontal en la si
 |Aromático, Dulce|+1 persuadir|
 |Abrefácil, Reciclable|+1 robar y abrir puertas|
 |Omega3, Oligoelementos|+1 investigar|
-|Sin conservantes, Tradicional, Sin gluten|xxx|
+|Sin conservantes, Tradicional, Sin gluten|+1 exploración y supervivencia|
 |xxx|xxx|
-
-\saltocolumna
 
 Si es bote es de **cristal tienes +1 a fuerza** y si es de **plástico +1 vigor** y si es algún tipo de **sobre o Tetra Brik® +1 destreza**.
 
@@ -40,13 +38,10 @@ La Cordura y la Suerte son unos valores del 1 al 4 según esté el bote lleno o 
 La aventura se crea a partir de la receta. Deberás seguir estos pasos.
 
 1. Lo primero es cambiarle el nombre, así un __Solomillo Wellington__ pasará a ser el __Horror Cárnico en Wellington__ o xxx.
-2. A partir de ahí miras los ingredientes principales de la receta, esos serán los sectarios, la localización principal de esos ingredientes, que será su guarida, y la técnica principal de cocina de la receta será el cómo y el dónde del ritual de invocación. Por ejemplo, en un puré de patatas los sectarios serán patatas, su guarida será la despensa y autoinmolarse el pasapurés será el ritual principal.
-3. Cómo van los sectarios a estropearla la receta queda a tu elección y es algo que tus ingredientes deberán averiguar. Por ejemplo, sacrificando a un brócoli en el pasapurés entre las patatas y que estropee el puré dándole un color verdoso asqueroso.
+2. A partir de ahí miras los **ingredientes principales de la receta**, esos serán **los sectarios**, la **localización principal de esos ingredientes**, que será **su guarida**, y la **técnica principal de cocina de la receta** será el **cómo y el dónde del ritual de invocación**. Por ejemplo, en un puré de patatas los sectarios serán patatas, su guarida será la despensa y autoinmolarse el pasapurés será el ritual principal.
+3. **Cómo van los sectarios a estropearla la receta queda a tu elección** y es algo que tus ingredientes deberán averiguar. Por ejemplo, sacrificando a un brócoli en el pasapurés entre las patatas y que estropee el puré dándole un color verdoso asqueroso.
 4. El objetivo es que los PJ vayan investigando en las diferentes localizaciones las desapariciones de ingredientes y útiles de cocina y deberán averiguar cuál es la receta y, por tanto, quienes son los sectarios y donde van a hacer el ritual y como harán que falle la receta. xxx
-
-\saltopagina
-
-5. Por último, decides que va a pasar si falla la receta. Te damos algunos ejemplos.
+5. Por último, **decides que horror cósmico-alimentario va a suceder si falla la receta**. Te damos algunos ejemplos.
   * La Gran salsa Kutchup será invocada para intentar salvar el plato. Todo el mundo sabe que si le echas Kutchup a la comida sabe a Kutchup.
   * Puede que si se quema la comida, saquen aquel plato congelado ignominioso preparado por el loco Dr. Oetker que lleva encerrado en los hielos eternos del congelador.
   * Quizás abran aquella lata de comida cuyo nombre no puede ser pronunciado porque perdió su etiqueta hace años y que puede que sí o que no esté caducada.
@@ -55,11 +50,16 @@ La aventura se crea a partir de la receta. Deberás seguir estos pasos.
 
 Las aventuras tendrán lugar en una serie de escenarios que pueden tener sus propias características.
 
-Para moverte a una localización debes poner tu condimento en ella y solo puedes hablar con otros condimentos de tu localización.
+Para moverte a una localización debes poner tu condimento en ella y solo puedes hablar con otros condimentos de tu localización. Hay localizaciones que tienen sus propias reglas para entrar/salir o de interactuar.
+
+\saltopagina
 
 ### Cajón con la cubertería
 
+El cajón de la cubertería son los bajos de la cocina. Un sitio peligroso si no sabes moverte en ellos. xxx
+
 xxx
+
 
 ### Encimera de la cocina
 
@@ -79,39 +79,43 @@ xxx
 
 #### Botellero
 
-Las estiradas botellas, sobre todo las de vinos y espirituosos se creen mejor que el resto. xxx 
+Las estiradas botellas, sobre todo las de vinos y espirituosos se creen mejor que el resto, pero saben hacer muy buenas fiestas.
+
+xxx 
 
 ### Congelador
 
-También es conocido como "las bandejas de la locura". Tus salsas y condimentos deberán luchar contra el clima en el infierno blanco.
+También es conocido como "las bandejas de la locura". Tus salsas y condimentos deberán luchar contra el clima en el infierno blanco. Los congelados son gente osca y dura que desea salir allí, su maldición es que no suelen durar mucho fuera del congelador.
 
-xxx
+Necesitarás pasar una **tirada de supervivencia si deseas llegar** a los hielos eternos del fondo de las bandejas del congelador y otra para volver. Si pifias alguna de ellas acabas perdido en el espacio y el tiempo debajo de la encimera.
 
 ### La despensa
 
 Las latas y los botes de la despensa son huraños y poco habladores. La endogamia ha dejado su sello en ellos y muchos están muy cerca de caducar. Siguen las viejas costumbres y rezan a extraños ídolos olvidados del tiempo.
 
-xxx
+Los botes de la despensa son poco dados a hablar con los de fuera y tiene un **-1 a todas las tiradas de interacción** con ellas.
 
 ### La isla (de la cocina)
 
-xxx
+Los isleños son gente pacífica que vive tranquila en su isla sin dar problemas a nadie. Están morenos de las luces que hay sobre ellos y siempre tienen rica fruta del frutero que suele haber siempre en la isla. Es el sitio perfecto para descansar y quitarse el estrés de salvar la receta que se está cocinando.
+
+Si esperas tomando el sol y bebiendo cócteles en la isla hasta el siguiente paso de la receta, recuperas 1 punto de Cordura.
 
 ### El cubo de la basura
 
-xxx
+El cubo de la basura es una mezcla entre un cementerio y una morgue, donde los condimentos y las salsas podrán estudiar los cadáveres que encuentren en ellos. xxx
+
+Al entrar tira 1d6, si sale 1, uno de los botes vacíos se reanima y ataca a los ingredientes.
 
 ### Perdidos debajo de la encimera.
 
-También conocido como más allá del tiempo y del espacio.
+También conocido como más allá del tiempo y del espacio. No se puede ir directamente a esta ubicación, solo se va si por lo que sea una salsa o condimento se cae al suelo y no se rompe. Automáticamente, rodará debajo de la encimera y **perderá 1 punto de cordura**. Si se queda a 0 quedará perdido para siempre más allá del tiempo y del espacio.
 
-No se puede ir directamente a esta ubicación, solo se va si por lo que seas tu salsa o condimento se cae al suelo y no se rompe.
-
-xxx
+Para salir de debajo de la encimera, deberá **pasar una tirada de exploración** y solo podrá intentarlo cuando se empiece un nuevo paso de la receta.
 
 ## Sistema de juego
 
-Solo necesitas un d6 al que le sumas los bonos adecuados que tengas. Si sacas 5 o más consigues lo que quieres hacer. Toda tirada por encima de 6 supone un crítico, toda tirada por debajo de 1 supone una pifia.
+Solo necesitas un d6 al que le sumas los bonos adecuados que tengas. Si sacas 5 o más consigues lo que quieres hacer. Toda tirada por encima de 6 supone un crítico, toda tirada por debajo de 1 supone una pifia. Las pifias te dan un punto de suerte automático.
 
 xxx
 
@@ -119,13 +123,17 @@ xxx
 
 xxx
 
-### Suerte
+#### Combates
 
 xxx
 
+### Suerte
+
+Puedes gastar un 1 punto de suerte para repetir una tirada de dado y quedarte con la que más te interese. Se pueden gastar tantos puntos de Suerte seguidos como se quiera.
+
 ### Perdida de cordura
 
-Cada vez que te usan en la elaboración de la receta, tu condimento o salsa pierde un punto de cordura. También pierdes cordura si se derrama tu contenido. Cómo ventaja ganas un punto de Suerte. Las perdidas de corduras se convierten diferentes traumas que van desde «mi tapa no cierra» a «se me ha caído la etiqueta». Si te sale un trauma que ya tenías, has tenido suerte y no coges nuevo trauma.
+Cada vez que se usa una salsa o condimento en la elaboración de la receta, ese condimento o salsa pierde un punto de cordura. También pierde cordura si se derrama su contenido. Cómo ventaja gana un punto de Suerte. Las perdidas de corduras se convierten diferentes traumas que van desde «mi tapa no cierra» a «se me ha caído la etiqueta». Si sale un trauma que ya tenía, ha tenido suerte y no coge nuevo trauma.
 
 |1d6|Trastorno|Efecto|
 |---|---|
@@ -136,4 +144,4 @@ Cada vez que te usan en la elaboración de la receta, tu condimento o salsa pier
 |5|Moho blanco|xxx|
 |6|Moho verde|xxx|
 
-Si tu **cordura cae a 0**, no te quedará nada de la esencia que te convierte en condimento o salsa. Serás abierto, estrujado o cortado por la mitad y rebañado con un cuchillo hasta no quedar nada ti. Te habrás convertido en **una carcasa vacía y rota**.
+Si la **cordura cae a 0**, no quedará nada de la esencia que le convierte en condimento o salsa. Será abierto, estrujado o cortado por la mitad y rebañado con un cuchillo hasta no quedar nada de él. Se habrá convertido en **una carcasa vacía y rota**.
