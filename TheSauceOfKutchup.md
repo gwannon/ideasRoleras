@@ -103,7 +103,7 @@ Si esperas tomando el sol y bebiendo cócteles en la isla hasta el siguiente pas
 
 ### El cubo de la basura
 
-El cubo de la basura es una mezcla entre un cementerio y una morgue, donde los condimentos y las salsas podrán estudiar los cadáveres que encuentren en ellos. xxx
+El cubo de la basura es una mezcla entre un cementerio y una morgue, donde los condimentos y las salsas podrán estudiar los cadáveres que encuentren en ellos. También puedes intentar buscar tickets o listas de la compra para averiguar cuál es la receta. 
 
 Al entrar tira 1d6, si sale 1, uno de los botes vacíos se reanima y ataca a los ingredientes.
 
