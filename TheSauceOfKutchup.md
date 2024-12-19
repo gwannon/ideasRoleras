@@ -15,11 +15,11 @@ Para crear los PJ debes buscar palabras que haya en la etiqueta frontal en la si
 
 |Palabra|Beneficio|
 |---|---|
-|Picante, Fuerte, xxx|+1 combate|
-|Aromático|+1 persuadir|
-|Abrefácil|+1 robar y abrir puertas|
-|xxx|+1 investigar|
-|Sin conservantes, Receta tradicional. Sin gluten|xxx|
+|Picante, Fuerte, Sabor|+1 combate|
+|Aromático, Dulce|+1 persuadir|
+|Abrefácil, Reciclable|+1 robar y abrir puertas|
+|Omega3, |+1 investigar|
+|Sin conservantes, Tradicional, Sin gluten|xxx|
 |xxx|xxx|
 
 \saltocolumna
