@@ -57,34 +57,21 @@ Si visitas la localización que es la guarida de los sectarios, estos te mentir�
 
 ### Cajón con la cubertería
 
-El cajón de la cubertería son los bajos de la cocina. Un sitio peligroso si no sabes moverte en ellos. xxx
+El cajón de la cubertería son los bajos de la cocina. Un sitio peligroso si no sabes moverte en ellos. Todo el mundo está armado y tiene ganas de bronca. Los rumores corren por el cajón siempre hay alguien contratando a un vaciamelones para algún trabajo sucio en la encimera o un sacacorcho para poder conseguir vino barato de cocina.
 
-xxx
-
+Además, todos están armados con objetos afilados y necesitas una tirada de abrir puertas para entrar porque siempre se atasca.
 
 ### Encimera de la cocina
 
-xxx
+La encimera de la cocina es el lugsar donde empiezan las salsas y condimentos por defecto y es donde vuelven siempre despues de perderse o caerse.
 
 \saltopagina
 
-#### Tabla de cortar
-
-xxx
-
 ### Frigorífico 
 
-xxx
+El frigorifico es un lugar cosmopolita donde viven toda una serie de ingredientes, desde los barrios pobres del cajón de las verduras hasta el botellero donde se dan grandes fiestas. Cada parte del frigorifico es una zona que puedes poner a tu gusto con reglas y bonos según lo que haya. Moverse entre estas minizonas no cuesta nada.
 
-#### Cajón de las verduras
-
-xxx
-
-#### Botellero
-
-Las estiradas botellas, sobre todo las de vinos y espirituosos se creen mejor que el resto, pero saben hacer muy buenas fiestas.
-
-xxx 
+Por ejemplo, las estiradas botellas, sobre todo las de vinos y espirituosos, se creen mejor que el resto, pero saben hacer muy buenas fiestas. Si no pasas una tirada de voluntad te quedas de fiesta bailando y bebiendo con ellas. En el siguiente paso deberás intentarlo de nuevo.
 
 ### Congelador
 
@@ -100,7 +87,7 @@ Los botes de la despensa son poco dados a hablar con los de fuera y tiene un **-
 
 ### La isla (de la cocina)
 
-Los isleños son gente pacífica que vive tranquila en su isla sin dar problemas a nadie. Están morenos de las luces que hay sobre ellos y siempre tienen rica fruta del frutero que suele haber siempre en la isla. Es el sitio perfecto para descansar y quitarse el estrés de salvar la receta que se está cocinando.
+Los isleños son gente pacífica que vive tranquila en su isla sin dar problemas a nadie. Están morenos de las luces que hay sobre ellos y siempre tienen rica fruta del frutero que suele haber siempre en la isla. Es el sitio perfecto para descansar y quitarse el estrés de salvar la receta que se está cocinando. Si no hay una isla, usa la mesa de la cocina.
 
 Si esperas tomando el sol y bebiendo cócteles en la isla hasta el siguiente paso de la receta, recuperas 1 punto de Cordura.
 
@@ -118,17 +105,15 @@ Para salir de debajo de la encimera, deberá **pasar una tirada de exploración*
 
 ## Sistema de juego
 
-Solo necesitas un d6 al que le sumas los bonos adecuados que tengas. Si sacas 5 o más consigues lo que quieres hacer. Toda tirada por encima de 6 supone un crítico, toda tirada por debajo de 1 supone una pifia. Las pifias te dan un punto de suerte automático.
+Solo necesitas un d6 al que le sumas los bonos adecuados que tengas (+1 fuerza en combates, +1 a persuadir en interrogatorio, etc.). Si sacas 5 o más consigues lo que quieres hacer. Toda tirada por encima de 6 supone un crítico con el que el DJ podrá darte un etra a lo que buscabas conseguir. Toda tirada por debajo de 1 supone una pifia. Las pifias suponen problemas extras para el PJ como quedarte atrapado en el cajon de los cubierto hasta el siguiente paso de la receta, pero te dan un punto de suerte automático.
 
-La partida en pasos de la receta y en cada paso puedes moverte a una nueva localización. Hay localizaciones que pueden hacerte perder pasos de la receta y si pierdes un combate no puedes hacer nada el resto del paso para actuar el siguiente paso deberas ganar un nuevo combate. si un compañero viene a tu localización y gana tu combate eres liberado y puedes actuar hasta el final del paso.
-
-xxx
+La partida se divide en pasos de la receta y en cada paso puedes moverte a una nueva localización. Hay localizaciones que pueden hacerte perder pasos de la receta. Si pierdes un combate, no puedes hacer nada el resto del paso y para actuar el siguiente paso deberas ganar un nuevo combate. Si un compañero viene a tu localización y gana tu combate eres liberado y puedes actuar hasta el final del paso.
 
 ### Tiradas enfrentadas 
 
-xxx
+En tiradas enfrentas como detectar mentiras o esconderse, ambos PJ tiran 1d6 y aplican los bonos pertinentes. Gana el que saca mayor tirada y en caso de empate el PJ.
 
-Los combates no son más tiradas enfrentadas xxx
+Los combates no son más que tiradas enfrentadas. Los bonos de fuerza, destreza, combate y similares pueden ser usados en estas tiradas. Los PNjs enemigos se crean usando las mismas reglás que los PJ y aplicando las reglas de la localización. Si no tienen etiquetas como los cuchillos se un poco imaginativo y ponles 3 bonos que les peguen.
 
 ### Suerte
 
