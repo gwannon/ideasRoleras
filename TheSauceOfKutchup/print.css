@@ -73,7 +73,7 @@ body > *:first-child,
 h1 {
   background: var(--color-black) url(./images/titular.jpg) center bottom no-repeat;
   background-size: cover;
-  font-family: "Glass Antiqua", serif;
+  font-family: "Metal Mania", serif;
   text-align: center;
   height: 230px;
   display: flex;
@@ -83,6 +83,7 @@ h1 {
   justify-content: center;
   font-size: 2em;
   color: var(--color-white);
+  padding: 0 50px;
 }
 
 h1 > a {
@@ -99,7 +100,7 @@ h1 > a {
 h2,
 h3,
 h4 {
-  font-family: "Glass Antiqua", serif;
+  font-family: "Metal Mania", serif;
   font-weight: 700;
   font-style: normal;
   color: var(--color-green);
@@ -141,7 +142,7 @@ blockquote {
 pre > code,
 blockquote > p {
   display: block;
-  font-family: "Glass Antiqua", serif;
+  font-family: "Metal Mania", serif;
   background-color: var(--color-white);
   font-size: 1.5em;
   padding: 10px;
@@ -155,7 +156,7 @@ ol {
 }
 
 p i {
-  font-family: "Glass Antiqua", serif;
+  font-family: "Metal Mania", serif;
   font-weight: 700;
   font-style: normal;
   color: var(--color-green);
@@ -169,6 +170,10 @@ a {
 ul,
 ol {
   padding-left: 19px;
+}
+
+ol li {
+  list-style-type: upper-roman;
 }
 
 ul li {
@@ -197,7 +202,7 @@ table {
 }
 
 table thead tr th {
-  font-family: "Glass Antiqua", serif;
+  font-family: "Metal Mania", serif;
   text-align: left;
   font-weight: 700;
 }
