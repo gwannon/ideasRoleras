@@ -1,6 +1,6 @@
 # The Sauce of Kutchup [Por Gwannon - Ver. 0.6](https://gwannon.itch.io/the-sauce-of-kutchup) 
 
-> Qué no está muerto aquello que está al fondo de la nevera hasta arriba de conservantes; y con el paso de los extraños eones, incluso el ketchup puede caducar. __H.J. Heinz__
+> Qué no está muerto aquello que yace al fondo de la nevera hasta arriba de conservantes; y con el paso de los extraños eones, incluso el ketchup puede caducar. __H.J. Heinz__
 
 The Sauce of Kutchup (SoK) es un juego de rol para **jugar partidas de horror cósmico-alimenticio mientras cocinas**. 
 
@@ -54,7 +54,6 @@ Para moverte a una localización debes poner tu condimento en ella y solo puedes
 
 Si visitas la localización que es la guarida de los sectarios, estos te mentirán, te darán pistas falsas y si husmeas mucho tratarán de matarte.
 
-\saltopagina
 
 ### Cajón con la cubertería
 
@@ -66,6 +65,8 @@ xxx
 ### Encimera de la cocina
 
 xxx
+
+\saltopagina
 
 #### Tabla de cortar
 
@@ -119,15 +120,15 @@ Para salir de debajo de la encimera, deberá **pasar una tirada de exploración*
 
 Solo necesitas un d6 al que le sumas los bonos adecuados que tengas. Si sacas 5 o más consigues lo que quieres hacer. Toda tirada por encima de 6 supone un crítico, toda tirada por debajo de 1 supone una pifia. Las pifias te dan un punto de suerte automático.
 
-xxx
-
-### Tiradas enfrentadas
+La partida en pasos de la receta y en cada paso puedes moverte a una nueva localización. Hay localizaciones que pueden hacerte perder pasos de la receta y si pierdes un combate no puedes hacer nada el resto del paso para actuar el siguiente paso deberas ganar un nuevo combate. si un compañero viene a tu localización y gana tu combate eres liberado y puedes actuar hasta el final del paso.
 
 xxx
 
-#### Combates
+### Tiradas enfrentadas 
 
 xxx
+
+Los combates no son más tiradas enfrentadas xxx
 
 ### Suerte
 

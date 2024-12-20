@@ -185,8 +185,6 @@ Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
 
----
-
 ### Crear versiones en LEGO de juegos de rol
 
 Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Heroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
@@ -204,3 +202,33 @@ Está inspirado en los arquetipos del Nephilim de Chaosium, que serian represent
 Los jugadores podrían cederse dados (mezcla de colores).
 
 por [Mondriter](https://mastodon.social/@Moonrider_acme)
+
+---
+
+### Si algún día viajas al pasado no toques nada
+
+Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
+
+O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+### PNJ S.A.
+
+Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando su partida llama a PNJ S.A. para que le suministren PNJ. 
+
+Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
+
+Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
+
+Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
+
+Esto explica porque todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
+
+### The call of Kutchup
+
+Un grupo de condimentos y salsas deberán investigar que malvada e incognoscible receta sacada de Tiktok se está preparando en la cocina y evitar que fracase la persona que está cocinando y termine invocando y echando al plato la primigenia salsa Kutchup, el horror frigorífico que lleva abierta décadas en el fondo de la nevera.
+
+Deberán hablar con los nuevos productos en la nevera, intentar saber que canales de RRSS ha estado viendo o que nuevo libro de recetas ha comprado y evitar que el plato salga mal o la Gran salsa Kutchup será invocada para intentar salvar el plato.
+
+O puede que si se quema la comida, saquen aquel plato congelado ignominioso preparado por el loco Dr Oetker que lleva encerrado en los hielos eternos del congelador.
+
+A puede que abran aquella lata de comida cuyo nombre no puede ser pronunciado porque perdió su etiqueta hace años y que puede que si o que no esté caducada.
