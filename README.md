@@ -14,11 +14,7 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
 ## Atribuciones The Sauce of Kutchup
 
-* https://www.freepik.com/free-vector/set-different-sauces-bottles-strokes_13643577.htm
-* https://www.deviantart.com/sqbr/art/Jar-of-Octopus-173411106
-* https://www.freepik.com/free-vector/gingham-pattern-red-background_48780360.htm
-* https://www.freepik.com/free-photo/unfocused-room_954278.htm
-
-### Semillas de aventuras de The Sauce of Kutchup
-
-> Tu primo del congelador, el ajo precortado y congelado, te llama porque se ve extrañas luces en el último cajón donde están preparando unos polos helados de mora, jengibre y licor café.
+* Set of different sauces in bottles and strokes by [upklyak](https://www.freepik.com/free-vector/set-different-sauces-bottles-strokes_13643577.htm)
+* Jar of Octopus By [sqbr](https://www.deviantart.com/sqbr/art/Jar-of-Octopus-173411106) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+* Gingham Pattern Red Background by [juicy_fish](https://www.freepik.com/free-vector/gingham-pattern-red-background_48780360.htm)
+* Unfocused room by [derich](https://www.freepik.com/free-photo/unfocused-room_954278.htm)

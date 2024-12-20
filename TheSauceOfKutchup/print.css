@@ -71,11 +71,11 @@ body > *:first-child,
 /* Titulares */
 
 h1 {
-  background: var(--color-black) url(./images/titular.jpg) center center no-repeat;
+  background: var(--color-black) url(./images/titular.jpg) center bottom no-repeat;
   background-size: cover;
   font-family: "Glass Antiqua", serif;
   text-align: center;
-  height: 250px;
+  height: 230px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
@@ -152,6 +152,14 @@ p,
 ul,
 ol {
   margin: 0.45em 0;
+}
+
+p i {
+  font-family: "Glass Antiqua", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--color-green);
+  text-shadow: -1px 0px 1px #1bc7af;
 }
 
 a {
