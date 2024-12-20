@@ -18,7 +18,7 @@ Para crear los IJ (Ingredientes Jugadores) debes buscar palabras que haya en la 
 |Picante, Fuerte, Hot, Sabor|+1 combate|
 |Aromático, Dulce, Suave, Delicada|+1 persuadir|
 |Abrefácil, Reciclable, Molinillo, Molido|+1 robar y abrir puertas|
-|Omega3, Oligoelementos, Artificial, Gluten, Conservantes|+1 ciencias y medicina|
+|Omega 3, Oligoelementos, Artificial, Gluten, Conservantes|+1 ciencias y medicina|
 |Sin conservantes, Tradicional, Casera, Original, Natural|+1 supervivencia|
 |Porcentaje entre 1% y 99%, Gentilicios, Nombres de lugares|+1 buscar e investigar|
 |Ligera, Cero, Light, Semillas, 100%, 0%|+1 atletismo|
@@ -91,11 +91,11 @@ Para salir de debajo de la encimera, deberá **pasar una tirada de exploración*
 
 Solo necesitas un d6 al que le sumas los bonos adecuados que tengas (+1 fuerza en combates, +1 a persuadir en interrogatorio, etc.). Si sacas 5 o más consigues lo que quieres hacer. Toda tirada por encima de 6 supone un crítico con el que el DJ podrá darte un extra a lo que buscabas conseguir. Toda tirada de 1 o menos supone una pifia. Las pifias suponen problemas extras para el IJ como quedarte atrapado en el cajón de los cubiertos hasta el siguiente paso de la receta, pero te dan un punto de suerte automático.
 
-La **partida se divide en pasos de la receta** y en cada paso puedes moverte a una nueva localización. Hay localizaciones que pueden hacerte perder pasos de la receta. Si pierdes un combate, no puedes hacer nada el resto del paso y para actuar el siguiente paso deberas ganar un nuevo combate. Si un compañero viene a tu localización y gana tu combate, eres liberado y puedes actuar hasta el final del paso.
+La **partida se divide en pasos de la receta** y en cada paso puedes moverte a una nueva localización. Hay localizaciones que pueden hacerte perder pasos de la receta. Si pierdes un combate, no puedes hacer nada el resto del paso y para actuar el siguiente paso deberás ganar un nuevo combate. Si un compañero viene a tu localización y gana tu combate, eres liberado y puedes actuar hasta el final del paso.
 
 *Tiradas enfrentadas.* En tiradas enfrentas como detectar mentiras o esconderse, ambos IJ tiran 1d6 y aplican los bonos pertinentes. Gana el que saca mayor tirada y en caso de empate el IJ.
 
-*Combates.* Los combates no son más que tiradas enfrentadas. Los bonos de fuerza, destreza, combate y similares pueden ser usados en estas tiradas. Los INJs (ingredientes no jugadores) enemigos se crean usando las mismas reglás que los IJ y aplicando las reglas de la localización. Si no tienen etiquetas como los cuchillos se un poco imaginativo y ponles 3 bonos que les peguen.
+*Combates.* Los combates no son más que tiradas enfrentadas. Los bonos de fuerza, destreza, combate y similares pueden ser usados en estas tiradas. Los INJ (ingredientes no jugadores) enemigos se crean usando las mismas reglas que los IJ y aplicando las reglas de la localización. Si no tienen etiquetas como los cuchillos, sé un poco imaginativo y ponles 3 bonos que les peguen.
 
 *Suerte.* Puedes gastar un 1 punto de suerte para repetir una tirada de dado y quedarte con la que más te interese. Se pueden gastar tantos puntos de Suerte seguidos como se quiera.
 
@@ -107,7 +107,7 @@ Cada vez que se usa un IJ en la elaboración de la receta, ese IJ pierde un punt
 |---|---|---|
 |1|Mi tapa no cierra o ha desaparecido|No puedes cerrar el bote o sobre durante el resto de partida|
 |2|Se me ha caído la etiqueta|Tus habilidades cambian y ahora las marca tu etiqueta trasera|
-|3|Hay restos de otra salsa dentro de mi|Te quitas un bono al azar y coges de uno al azar de la última salsa o condimento usado la salsa en la receta|
+|3|Hay restos de otra salsa dentro de mí|Te quitas un bono al azar y coges de uno al azar de la última salsa o condimento usado la salsa en la receta|
 |4|Gran Raja|El positivo por tu tipo de bote se convierte en negativo|
 |5|Moho blanco|Debes gastar 2 puntos de suerte en vez de 1 para repetir tirada|
 |6|Moho verde|No puedes usar Suerte hasta recuperar un punto de sustancia|
