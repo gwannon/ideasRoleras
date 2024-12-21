@@ -86,6 +86,11 @@ h1 {
   padding: 0 50px;
 }
 
+#TheSauceOfKutchupGuiaDelChef h1 {
+  background: var(--color-black) url(./images/titular2.jpg) center bottom no-repeat;
+  background-size: cover;
+}
+
 h1 > a {
   display: block;
   text-align: center;
