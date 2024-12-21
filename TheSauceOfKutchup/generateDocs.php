@@ -13,5 +13,6 @@ $html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</sectio
 $html = str_replace("<p>\saltopagina</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
 $html = str_replace("<p>\saltocolumna</p>", "<p class=\"saltocolumna\"></p>", $html);
 $html = str_replace("<div class='columns'>\n</div>", "", $html); 
+$html = str_replace("|ID|", $argv[1], $html); 
 
 file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
