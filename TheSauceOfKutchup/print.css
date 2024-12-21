@@ -165,7 +165,7 @@ p i {
   font-weight: 700;
   font-style: normal;
   color: var(--color-green);
-  text-shadow: -1px 0px 1px #1bc7af;
+  /*text-shadow: -1px 0px 1px #1bc7af;*/
 }
 
 a {
