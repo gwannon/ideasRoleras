@@ -19,4 +19,5 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 * Unfocused room by [derich](https://www.freepik.com/free-photo/unfocused-room_954278.htm)
 * Flat set with bottles and strips of tomato ketchup mustard chili bbq sauces isolated against color background vector illustration by [macrovector](https://www.freepik.com/free-vector/flat-set-with-bottles-strips-tomato-ketchup-mustard-chili-bbq-sauces-isolated-against-color-background-vector-illustration_33771510.htm)
 * Gingham Pattern Red Background by [juicy_fish](https://www.freepik.com/free-vector/gingham-pattern-red-background_48780360.htm)
-* Schlofend Millen - The kitchen By [Bestarns](https://www.deviantart.com/bestarns/art/Schlofend-Millen-The-kitchen-376861853) _Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License_
+* Dirty home concept with dishes pile by [freepik](https://www.freepik.com/free-photo/dirty-home-concept-with-dishes-pile_23591456.htm)
+* Tentacles octopus set underwater animal Kraken or Squid red tentacle cut part isolated on white by [svstudioart](https://www.freepik.com/free-vector/tentacles-octopus-set-underwater-animal-kraken-squid-red-tentacle-cut-part-isolated-white_17191722.htm)

@@ -29,10 +29,10 @@ La Sustancia y la Suerte son unos valores del 1 al 4 según esté el bote lleno 
 
 |Sustancia|Suerte|Cantidad que queda|
 |---|---|---|
-|4|1|Sin abrir o casi lleno|
-|3|2|Si falta un tercio más o menos
-|2|3|Si está a un tercio|
-|1|4|Si está casi vacío|
+|4|2|Sin abrir o casi lleno|
+|3|4|Si falta un tercio más o menos
+|2|6|Si está a un tercio|
+|1|8|Si está casi vacío|
 
 ## Creación de aventuras
 
