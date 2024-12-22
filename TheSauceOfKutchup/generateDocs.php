@@ -6,7 +6,7 @@ require __DIR__ . '/../vendor/autoload.php';
 /* -------------------------------------------------------------- */
 use FastVolt\Helper\Markdown;
 $mkd = Markdown::new();
-$mkd->setContent(file_get_contents(__DIR__ . "/../".$argv[1].".md"));
+$mkd->setContent(file_get_contents(__DIR__ . "/".$argv[1].".md"));
 
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
 $html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
