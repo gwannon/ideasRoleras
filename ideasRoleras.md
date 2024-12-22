@@ -203,8 +203,6 @@ Los jugadores podrían cederse dados (mezcla de colores).
 
 por [Mondriter](https://mastodon.social/@Moonrider_acme)
 
----
-
 ### Si algún día viajas al pasado no toques nada
 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
@@ -232,3 +230,24 @@ Deberán hablar con los nuevos productos en la nevera, intentar saber que canale
 O puede que si se quema la comida, saquen aquel plato congelado ignominioso preparado por el loco Dr Oetker que lleva encerrado en los hielos eternos del congelador.
 
 A puede que abran aquella lata de comida cuyo nombre no puede ser pronunciado porque perdió su etiqueta hace años y que puede que si o que no esté caducada.
+
+---
+
+## Los 7 misterios
+
+Se dice que en todos los institutos del mundo existen 7 misterios sin resolver ... Y el Furinkan no es una excepción.
+
+_Ranma 1/2 - Capítulo 328 - Rumiko Talahashi_
+
+El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
+
+## Mundo de papel
+
+Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los arboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para que fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos magicos gushin.
+
+Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
+
+## xxx
+
+xxx
+
