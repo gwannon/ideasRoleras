@@ -8,6 +8,8 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
+[Ver en itch.io](https://gwannon.itch.io/rpg-the-musical)
+
 ## Atribuciones de RPG The Musical
 
 * Notas de fondo del PDF por [kjpargeter](https://www.freepik.com/free-vector/abstract-music-notes-background_42121683.htm)
@@ -19,6 +21,8 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 # The Sauce of Kutchup
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
+
+[Ver en itch.io](https://gwannon.itch.io/the-sauce-of-kutchup)
 
 ## Atribuciones The Sauce of Kutchup
 
