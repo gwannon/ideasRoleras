@@ -28,7 +28,9 @@ Estas nuevas localizaciones extienden las básicas del juego ofreciendo nuevas z
 
 *Botellero o bodega refrigerada.* Esas botellas llevan recluidas durante años en el viejo botellero dedicados a la vida monástica y contemplativa. Los vinos de mayores añadas han visto muchas cosas, muchos horribles experimentos de cocina y saben cosas que no querían saber, como que produjo la extraña mancha marrón del techo o por qué el enchufe de la encimera no funciona. No hablará de ello, pero seguro que saben si la receta es de carne o pescado por el vino que hayan elegido para acompañar la receta.
 
-*Bolsa o cajón del pan o panera.* xxx
+*Bolsa o cajón del pan o panera.* Poca información puedes sacar del cajón del pán porque no puede faltar en unamesa junto a cualquier plato que no sea un postre, pero a veces los mendrugos más duros que resevas para tostadas y torrijas han visto o saben cosas. Si estás perdido en tu investigación y no tienes pistas que seguir, quizas la barra campesina pueda decirte algo.
+
+Necesiataras una tirada de atletismo para llegar al fondo, si, en vez de cajón del pan, es la tipica bolsa de tela con dibujos de espiga y  tendrás que pasarar otra para salir. Si fallas alguna de ellas perderas un paso entero de la receta.
 
 *Especiero o repisa de las especias.* Puede que pasaras tu infancia en el especiero, pero ahora que has vuelto ha cambiado mucho. Los ordenados botes, todos del mismo tamaño y de la misma marca, han dado paso a la aparición de botes y frascos de distintas marcas y de muchos tipos, con cierres diferentes, incluso hay especias "exóticas". Puede que a ti no te importe y lo veas como algo bueno, pero las viejas especias no lo ven bien así. Tienes **-1 si tienes alguna palabra exótica en tu etiqueta**.
 
@@ -50,17 +52,17 @@ Son alimentos para mascotas, no hablan muy bien tu idioma, así que tienes un -1
 
 En lo más profundo de la despensa, en lo más oscuro de debajo de la encimera y al fondo del cajón de los cubiertos habitan horrores indescriptibles a los que puede que tengan que enfrentarse tus IJ.
 
-*Bote de encurtidos abierto el año pasado.* El vinagre ya está oscuro y los pepinillos que antes flotaban se han ido al fondo, pero recuerda que los encurtidos nunca se ponen malos. Cristal (+1 fuerza), xxx
+*Bote de encurtidos abierto el año pasado.* El vinagre ya está oscuro y los pepinillos que antes flotaban se han ido al fondo, pero recuerda que los encurtidos nunca se ponen malos. Cristal (+1 fuerza), Vinagre (+1 supervivencia), Grande (+1 combate) y Extra (+1 atletismo).
 
-*Lata de comida precocinada caducada.* Se compró en la mudanza a la casa o mientras hacían la obra de la cocina. La idea era calentarla en un hornillo y comer caliente. Ha caducado hace años, pero estás cosas aguantan décadas. Lata (+1 fuerza), xxx
+*Lata de comida precocinada caducada.* Se compró en la mudanza a la casa o mientras hacían la obra de la cocina. La idea era calentarla en un hornillo y comer caliente. Ha caducado hace años, pero estás cosas aguantan décadas. Lata (+1 fuerza), Precocinado (+1 combate), Calentar (+1 combate) y  xxx (+1 xxx)
 
-*Lata de tomate frito abierta con un sospechoso moho blanco.* Se abrió hace una semana, seguro que sí quitas con una cuchara la parte de arriba, el resto está bueno. Lata (+1 fuerza), Casero (+1 supervivencia), xxx
+*Lata de tomate frito abierta con un sospechoso moho blanco.* Se abrió hace una semana, seguro que sí quitas con una cuchara la parte de arriba, el resto está bueno. Lata (+1 fuerza), Casero (+1 supervivencia), xxx (+1 xxx) y  xxx (+1 xxx)
 
-*Paquete de legumbres con bichos.* Se compró en una feria agrícola pensando en la exquisita receta tradicional que se iba a hacer, pero eso nunca ocurrió. El gorgojo de la alubia lo ha corrompido y ahora cada grano tiene vida propia. Envoltorio de plástico (+1 destreza), xxx
+*Paquete de legumbres con bichos.* Se compró en una feria agrícola pensando en la exquisita receta tradicional que se iba a hacer, pero eso nunca ocurrió. El gorgojo de la alubia lo ha corrompido y ahora cada grano tiene vida propia. Envoltorio de plástico (+1 destreza), xxx (+1 xxx), xxx (+1 xxx) y  xxx (+1 xxx)
 
-*Paquete roto de pasta de pistones.* Estaba hasta arriba de pistones, pero al hacer la primera sopa se abrió demasiado el paquete y tiene fugas. De hecho, toda la repisa está llena de sus restos en un espectáculo dantesco y según te mueves vas pisando sus pistones. Envoltorio de plástico (+1 destreza), xxx
+*Paquete roto de pasta de pistones.* Estaba hasta arriba de pistones, pero al hacer la primera sopa se abrió demasiado el paquete y tiene fugas. De hecho, toda la repisa está llena de sus restos en un espectáculo dantesco y según te mueves vas pisando sus pistones. Envoltorio de plástico (+1 destreza), xxx (+1 xxx), xxx (+1 xxx) y  xxx (+1 xxx)
 
-*Sobre de sopa abierto y con una pinza.* Medio loco por el dolor que le produce la pinza, aunque esa pinza es lo único que mantiene la poca sustancia que le queda. Envoltorio de plástico (+1 destreza), xxx
+*Sobre abierto de sopa y cerrado con una pinza.* Medio loco por el dolor que le produce la pinza, aunque esa pinza es lo único que mantiene la poca sustancia que le queda. Envoltorio de plástico (+1 destreza), Sabor (+1 combate), xxx (+1 xxx) y  xxx (+1 xxx)
 
 ## Aliados que podrás encontrar en tus viajes
 
@@ -90,11 +92,11 @@ Si tu mesa quiere jugar con cajas de pasta o latas de tomate triturado aquí tie
 
 |Palabra|Beneficio|
 |---|---|
-|Grueso, xxx|+1 combate|
-|Primera, Fibra, xxx|+1 supervivencia|
+|Grueso, Grande, Precocinado, Calentar|+1 combate|
+|Primera, Fibra, Escabeche, Vinagre|+1 supervivencia|
 |Tiernas, Especial, Compromiso, Clásica|+1 persuadir|
 |Selecto, Chef, xxx|+1 buscar e investigar|
-|Fino, xxx|+1 robar y abrir puertas|
+|Fino, Rebanada, Loncha, Rodaja|+1 robar y abrir puertas|
 |Extra, Relleno, xxx|+1 atletismo|
 |Vitaminas, Cocción, xxx|+1 ciencias y medicina|
 
@@ -102,7 +104,7 @@ Si tu mesa quiere jugar con cajas de pasta o latas de tomate triturado aquí tie
 
 Si el envase es de **metal tienes +1 a fuerza** y si es de **cartón +1 vigor** y si es algún tipo de **algún tipo de red, malla, cinta o sin nada  +1 destreza**.
 
-## Regla opcional de creación de IJ: Marca
+### Regla opcional de creación de IJ: Marca
 
 Opcionalmente, todos los productos de **marcas famosas tienen +2 a suerte**, las **marcas blancas o sin marca +1 a sustancia** (siempre tienen un 15% más de producto o el paisano de la tienda te pone de más) y las **marcas menos famosas** eligen **+1 a sustancia o más 2 a suerte**.
 
