@@ -278,9 +278,9 @@ Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un coc
 
 ### Agatha Christie VS Cthulhu
 
-En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento. El propio Cthulhu envía a 3 hibridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
+Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express" con una charla final donde los PJ deberán resolver el asesinato.
 
-Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express".
+Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 hibridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
 
 \saltopagina
 
