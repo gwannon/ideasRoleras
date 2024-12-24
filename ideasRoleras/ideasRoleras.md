@@ -230,10 +230,6 @@ Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
 
-
-
-
-
 \saltocolumna
 
 \saltopagina
@@ -280,6 +276,12 @@ Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un coc
 
 \saltocolumna
 
+### Agatha Christie VS Cthulhu
+
+En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento. El propio Cthulhu envía a 3 hibridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
+
+Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express".
+
 \saltopagina
 
 \sincolumna
@@ -287,10 +289,6 @@ Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un coc
 ## Pendiente de definir
 
 \concolumna
-
-### Agatha Christie VS Cthulhu
-
-xxx
 
 ### Ulises 31
 
