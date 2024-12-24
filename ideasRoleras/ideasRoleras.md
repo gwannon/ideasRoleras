@@ -71,7 +71,7 @@ También como si fueran investigadores que tienen que evitar que un primigenio s
 
 ### Shakespeare
 
-Hadas tipo "Sueño de una noche de verano".
+Hadas tipo "Sueño de una noche de verano". xxx
 
 ### Soy leyenda al revés
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
@@ -82,7 +82,7 @@ Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde
 
 ### Todos para Cthulhu y Cthulhu para todos
 
-Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
+Tres mosqueteros + Cyrano de Bergerac contra Cthulhu. Ya existe [Claudia Christian’s Musketeers vs. Cthulhu RPG](https://nightfall.games/claudia-christians-musketeers-vs-cthulhu-rpg/).
 
 \saltocolumna
 

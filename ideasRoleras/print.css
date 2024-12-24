@@ -1,12 +1,12 @@
 :root {
   --padding: 62px; /*Ancho de los bordes de la página*/
-  --color-green: #0eb300;
+  --color-red: #8b0909;
   --color-white: #fff;
   --color-black: #000;
 }
 
 body {
-  background: var(--color-white) url(./images/bg.png) repeat top center;
+  background: var(--color-white) url(./images/bg.jpg) repeat top center;
   margin: 0;
   padding: 0;
   font-family: "Roboto Slab", serif;
@@ -103,17 +103,15 @@ h4 {
   font-family: "Orbitron", serif;
   font-weight: 700;
   font-style: normal;
-  color: var(--color-green);
+  color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 10px;
-  text-shadow: -1px 0px 1px #1bc7af;
-  letter-spacing: 1.5px;
 }
 
 h2 {
   font-size: 2em;
   text-align: center;
-  border-bottom: 1px solid var(--color-green);
+  border-bottom: 1px solid var(--color-red);
   margin-bottom: 10px;
 }
 
@@ -162,7 +160,7 @@ p i {
   font-family: "Orbitron", serif;
   font-weight: 700;
   font-style: normal;
-  color: var(--color-green);
+  color: var(--color-red);
   /*text-shadow: -1px 0px 1px #1bc7af;*/
 }
 
@@ -191,7 +189,7 @@ ul li:before {
   top: -15px;
   left: -23px;
   display: block;
-  color: var(--color-green);
+  color: var(--color-red);
 } 
 
 table {
@@ -212,13 +210,13 @@ table thead tr th {
 
 table thead tr,
 table tbody tr:nth-child(even) {
-  background-color: var(--color-green);
+  background-color: var(--color-red);
 }
 
 @media screen {
   .saltopagina {
-    border-top: 3px dashed var(--color-green);
-    border-bottom:  3px dashed var(--color-green);
+    border-top: 3px dashed var(--color-red);
+    border-bottom:  3px dashed var(--color-red);
   }
 }
 
