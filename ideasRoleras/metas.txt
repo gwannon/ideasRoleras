@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Ideas Roleras
+
+InfoKey: Subject
+InfoValue: Ideas roleras para crear juego, campañas y ayudas
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, ideas roleras

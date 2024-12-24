@@ -1,107 +1,42 @@
-# Proyectos largos
+\sincolumna
 
-## Dominio público
+# Ideas Roleras [Por Gwannon - 24/12/2025](https://gwannon.itch.io/ideas-roleras) 
 
-### Campamento de Verano
+## Juegos completos, ambientaciones y campañas
 
-Tipo el comic de Lumberjanes
-
-### Mitología polinesia/hawaiana
-
-Fantasía medieval, pero rollo polinesia, viajes en catamarán e islas misteriosas inexploradas
-
-https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/
-
-### Dinosaurio + Medieval
-
-Justas montado en tiranosaurios
-
-### Todos para Cthulhu y Cthulhu para todos
-
-Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
-
-### Barsum
-
-xxx
-
-### Jungle book
-
-Animales de la selva que hablan pero sin antropomorfizar, como la película de Disney.
-
-### Shakespeare
-
-Hadas tipo "Sueño de una noche de verano"
-
-### Pilluelos de Sherlock Holmes
-
-xxx
-
-### Vikingos Cthulhu
-
-xxx
-
-### Cthulhu 66
-
-Horror cósmico en la ruta 66
-
-### Conan VS Cthulhu
-
-Hubo un proyecto de Suseya Editorial
-
-https://pbs.twimg.com/media/F0LHntpXsAIFghN?format=png&name=900x900
-
-### Nemo + Cthulhu
-
-Capitán Nemo contra Cthulhu. Nemo deberá encontrar R'lyeh
-
-### Espacial victoriano
-
-Inglaterra 1750 en el espacio, rollo El planeta del tesoro.
+\concolumna
 
 ### The borrowers
 
 Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near future_.  O puede tener terror kaiju con humanos o mascotas gigantescas y alta tecnología diminuta. ¿¿¿Gnomzilla???
 
-### Soy leyenda al revés
-Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
+### Campamento de Verano
 
-### NIMH
-¿Qué pasó con las ratas de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
+Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. seguiría la esencia del comic de Lumberjanes.
 
 ### Circunnavegación de un mundo medieval fantástico
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano.
 
-### Ruta de la seda
+### Conan VS Cthulhu
 
-Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
+Hubo un proyecto de [Suseya Editorial](https://pbs.twimg.com/media/F0LHntpXsAIFghN?format=png&name=900x900)
 
-### Las máscaras de Draculathotep o los Mitos de Cthalcula
+### Cthulhu 66
 
-Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
+Horror cósmico en la ruta 66. Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una colección de aventuras cortas en diferentes partes de la ruta.
 
-Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
+### Dinosaurio + Medieval
 
-### Old ones RPG 
+Justas montado en tiranosaurios.
 
-Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
+### Espacial victoriano
 
-También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
+Inglaterra 1750 en el espacio, rollo El planeta del tesoro.
 
-### Ulises VS Cthulhu
+### Fábulas de Bill Willingham
 
-La Odisea en plan los Mitos de Cthulhu. En vez de Poseidón es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser líderes de cultos.
-
-### El viento en los sauces VS. Cthulhu 
-
-Hablamos de animales antropomórficos en una era victoriana tardía con los Mitos de Cthulhu.
-
-El ambiente sería muy rural rollo el horror de Dunwich
-
-Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
-
-Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
-
+Revisar el tema de derechos
 
 ### Fantastic West
 
@@ -111,29 +46,71 @@ Se puede hacer muy fantástico con dragones propietarios de minas de oro y el s�
 
 Hay un juego español llamado Steam State y un suplemento de Castillo Falkenstein llamado Sorcery and Six-Gunners
 
-## Derechos
+### Jungle book
 
-### Agatha Christie + Cthulhu
+Animales de la selva que hablan pero sin antropomorfizar, como la película de Disney.
 
-xxx
+\saltopagina
 
-### Ulises 31
+### Mitología polinesia/hawaiana
 
-xxx
+Fantasía medieval, pero rollo polinesia, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
 
-### Fábulas de Bill Willingham
+### NIMH
+¿Qué pasó con las ratas de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
 
-Revisar el tema de derechos
+### Nemo VS Cthulhu
 
-***
+Capitán Nemo contra Cthulhu. Nemo deberá encontrar R'lyeh
 
-# Proyectos cortos
+### Old ones RPG 
 
-## Reglas caseras D&D
+Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
+
+También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
+
+### Shakespeare
+
+Hadas tipo "Sueño de una noche de verano".
+
+### Soy leyenda al revés
+Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
+
+### Ruta de la seda
+
+Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
+
+### Todos para Cthulhu y Cthulhu para todos
+
+Tres mosqueteros + Cyrano de Bergerac. YA EXISTE algo así.
+
+\saltocolumna
+
+### Ulises VS Cthulhu
+
+La Odisea en plan los Mitos de Cthulhu. En vez de Poseidón es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser líderes de cultos.
+
+### El viento en los sauces VS Cthulhu 
+
+Hablamos de animales antropomórficos en una era victoriana tardía con los Mitos de Cthulhu.
+
+El ambiente sería muy rural rollo el horror de Dunwich
+
+Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
+
+Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
+
+\saltopagina
+
+\sincolumna
+
+## Reglas caseras
+
+\concolumna
 
 ### Reglas para cocinar
 
-Con recetas normales y exóticas completas y precios. Reglas para concursos de familia.
+Con recetas normales y exóticas completas y precios. Reglas para concursos de cocina.
 
 ### Reglas de bebida y borrachera
 
@@ -143,7 +120,15 @@ Emborracharse, pelear y lanzar hechizos borracho y reglas de resacas. Concursos 
 
 Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D y ahora que está en el mundo de D&D se sabe todo el lore del juego y/o campaña. Rollo Gwenpool de Marvel. Por ejemplo, obtiene bonos porque sabe quién escribió la aventura y siempre pone los mismos monstruos y trampas y esas cosas.
 
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
 ## Indies
+
+\concolumna
 
 ### Animal Crossing Cazavampiros
 
@@ -195,6 +180,8 @@ Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojue
 
 Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
 
+\saltopagina
+
 ### Los plastilinos.
 
 Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
@@ -221,33 +208,74 @@ Lo más importante será la pelea final donde tendrás que esquivar sus ataques,
 
 Esto explica porque todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
 
-### The call of Kutchup
+\saltocolumna
 
-Un grupo de condimentos y salsas deberán investigar que malvada e incognoscible receta sacada de Tiktok se está preparando en la cocina y evitar que fracase la persona que está cocinando y termine invocando y echando al plato la primigenia salsa Kutchup, el horror frigorífico que lleva abierta décadas en el fondo de la nevera.
+\saltopagina
 
-Deberán hablar con los nuevos productos en la nevera, intentar saber que canales de RRSS ha estado viendo o que nuevo libro de recetas ha comprado y evitar que el plato salga mal o la Gran salsa Kutchup será invocada para intentar salvar el plato.
+\sincolumna
 
-O puede que si se quema la comida, saquen aquel plato congelado ignominioso preparado por el loco Dr Oetker que lleva encerrado en los hielos eternos del congelador.
+## Modificaciones a juegos, ambientaciones y campañas
 
-A puede que abran aquella lata de comida cuyo nombre no puede ser pronunciado porque perdió su etiqueta hace años y que puede que si o que no esté caducada.
+\concolumna
 
----
+### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
-## Los 7 misterios
+Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
 
-Se dice que en todos los institutos del mundo existen 7 misterios sin resolver ... Y el Furinkan no es una excepción.
+Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
 
-_Ranma 1/2 - Capítulo 328 - Rumiko Talahashi_
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## Nuevas ideas
+
+\concolumna
+
+### Los 7 misterios
+
+> Se dice que en todos los institutos del mundo existen 7 misterios sin resolver ... Y el Furinkan no es una excepción. _Ranma 1/2 - Capítulo 328 - Rumiko Talahashi_
 
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
 
-## Mundo de papel
+### Mundo de papel
 
 Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los arboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para que fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos magicos gushin.
 
 Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
 
-## xxx
+### Tablas de encuentros en puentes
+
+Siguiendo el tópico del troll de debajo del puente, sería interesante un sistema genérico de creación de encuentros en puentes. Se definiría el tipo de puente, el guardián que lo cuida y la prueba que impone.
+
+Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un cocinero y tienes que comerte todo lo que cocine. Pero puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## Pendiente de definir
+
+\concolumna
+
+### Agatha Christie VS Cthulhu
 
 xxx
 
+### Ulises 31
+
+xxx
+
+### Pilluelos de Sherlock Holmes
+
+xxx
+
+### Vikingos VS Cthulhu
+
+xxx
+
+\saltocolumna
