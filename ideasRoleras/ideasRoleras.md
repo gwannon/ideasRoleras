@@ -16,27 +16,53 @@ Campamento de verano con personajes niños y toda una colección de personajes l
 
 ### Circunnavegación de un mundo medieval fantástico
 
-Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano.
+Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo cion poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos. para que el viaje sea una epopeya.
 
 ### Conan VS Cthulhu
+
+Hablamos de una hiboria como la describe Howard, pero con sectas de adoradores de Azatoth, hombres serpientes seguidores de Yig y unos héroes que buscan evitar que Cthulhu se levante de su prisión en la Atlántida.
+
+La hechicería oscura y maligna pegaría mucho con los Mitos. Y el tema de grandes hechiceros con grupos de seguidores pega mucho con los Cultos típicos de CoC.
+
+Podría cambiarse más y montar una hiboria dominada por Yig/Seth y su serpigente y los héroes son rebeldes que buscan acabar con ellos.
 
 Hubo un proyecto de [Suseya Editorial](https://pbs.twimg.com/media/F0LHntpXsAIFghN?format=png&name=900x900)
 
 ### Cthulhu 66
 
-Horror cósmico en la ruta 66. Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una colección de aventuras cortas en diferentes partes de la ruta.
+Horror cósmico en la ruta 66 en los años 30 y 40. Tendría principalmente un tono rural con monstruos en los maizales, gente que desaparece en moteles de carretera y congregaciones religiosas que hacen sacrificios humanos a dioses primigenios.
+
+Los vehículos tendrían mucha importancia y las persecuciones estarían a la orden del día.
+
+Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una colección de aventuras cortas en diferentes partes de la ruta.
+
+Podría plantearse tambien para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
 
 ### Dinosaurio + Medieval
 
-Justas montado en tiranosaurios.
+Una Europa medieval sin magia ni fantasía donde encuentran un volcán apagado en Islandia donde hay dinosaurios. Los crían y entrenan para ayudar en las labores del campo, la guerra, ...
+
+\saltopagina
+
+Puede ser una Edad Media dura, con guerras de religión, pestes y lepras, feudalismo, quema de brujas, etc. O podría ser más caballeresco, rollo Príncipe Valiente, Ivanhoe, etc.
+
+Habría cosas como justas en estegosaurios, máquinas de guerra montadas en diplodocus, mensajeros en pteradones, etc.
 
 ### Espacial victoriano
 
-Inglaterra 1750 en el espacio, rollo El planeta del tesoro.
+La idea sería montar una Europa con estética de 1720 pero con capacidad de viajar por el espacio. 
+
+Europa sería un sistema solar donde cada planeta es una potencia europea. El Caribe y los nuevos territorios americanos serían planetas perdidos en la galaxia con ruinas o últimos reductos de otras civilizaciones, que recuerden a Mayas y Aztecas.
+
+Habría barcos con motores FTL y velas solares capaces de surcar el espacio. Combates navales, campos de asteroides y agujeros negros en vez de tormentas y ciclones, etc.
+
+La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
 
 ### Fábulas de Bill Willingham
 
-Revisar el tema de derechos
+Descripción completa del mundo de [Fábulas](https://es.m.wikipedia.org/wiki/F%C3%A1bulas_(c%C3%B3mic)) en la Wikipedia.
+
+Revisar el tema de derechos, porque en teoría sonde dominio público.
 
 ### Fantastic West
 
@@ -48,9 +74,7 @@ Hay un juego español llamado Steam State y un suplemento de Castillo Falkenstei
 
 ### Jungle book
 
-Animales de la selva que hablan pero sin antropomorfizar, como la película de Disney.
-
-\saltopagina
+Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomorfizado.
 
 ### Mitología polinesia/hawaiana
 
@@ -69,10 +93,6 @@ Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a l
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
-### Shakespeare
-
-Hadas tipo "Sueño de una noche de verano". xxx
-
 ### Soy leyenda al revés
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
 
@@ -84,7 +104,7 @@ Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde
 
 Tres mosqueteros + Cyrano de Bergerac contra Cthulhu. Ya existe [Claudia Christian’s Musketeers vs. Cthulhu RPG](https://nightfall.games/claudia-christians-musketeers-vs-cthulhu-rpg/).
 
-\saltocolumna
+\saltopagina
 
 ### Ulises VS Cthulhu
 
@@ -99,6 +119,8 @@ El ambiente sería muy rural rollo el horror de Dunwich
 Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
 
 Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
+
+\saltocolumna
 
 \saltopagina
 
@@ -134,17 +156,13 @@ Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D 
 
 Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew Valley.
 
-### RRHH en un Dungeon.
+### Crear versiones en LEGO de juegos de rol
 
-Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
+Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Heroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
 
-### SockQuest
+### Mad men RPG
 
-Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y chándal, deben conseguir su calcetín-gorro como rito de iniciación. Deberán llegar a una lavandería y robar de la colada un calcetín cada uno. Debe haber tabla de generación de calcetines.
-
-### Repartidor/a de pizza en un dungeon.
-
-Recorre la mazmorra buscando a los PJs o monstruos que han pedido la pizza.
+Un indie donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
 
 ### Mensajero/a en bici en ciudad cyberpunk.
 
@@ -156,31 +174,11 @@ Algún becario del departamento de egiptología del British Museum ha desempolva
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
 
-### Sailor Moon Beyond
-
-En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
-
-### Mad men RPG
-
-Un indie donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
-
-### Top secret!
-
-Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
-
-Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
-
-### Crear versiones en LEGO de juegos de rol
-
-Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Heroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
-
 ### Pac-land
 
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
 
 Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
-
-\saltopagina
 
 ### Los plastilinos.
 
@@ -189,12 +187,6 @@ Está inspirado en los arquetipos del Nephilim de Chaosium, que serian represent
 Los jugadores podrían cederse dados (mezcla de colores).
 
 por [Mondriter](https://mastodon.social/@Moonrider_acme)
-
-### Si algún día viajas al pasado no toques nada
-
-Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
-
-O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
 ### PNJ S.A.
 
@@ -207,6 +199,40 @@ Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de prof
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
 
 Esto explica porque todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
+
+### Repartidor/a de pizza en un dungeon.
+
+Recorre la mazmorra buscando a los PJs o monstruos que han pedido la pizza.
+
+### RRHH en un Dungeon.
+
+Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
+
+\saltopagina
+
+### Sailor Moon Beyond
+
+En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
+
+### Si algún día viajas al pasado no toques nada
+
+Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
+
+O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+### SockQuest
+
+Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y chándal, deben conseguir su calcetín-gorro como rito de iniciación. Deberán llegar a una lavandería y robar de la colada un calcetín cada uno. Debe haber tabla de generación de calcetines.
+
+### Top secret!
+
+Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
+
+Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
+
+
+
+
 
 \saltocolumna
 

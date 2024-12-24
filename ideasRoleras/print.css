@@ -23,7 +23,7 @@ body:before {
   top: 0px;
   left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(./images/border1.png) center left repeat-y
+  background: transparent url(./images/border1.png) top left repeat-y
 }
 
 body:after {
@@ -84,6 +84,7 @@ h1 {
   font-size: 2em;
   color: var(--color-white);
   padding: 0 50px;
+  text-shadow: 0px 0px 3px #000;
 }
 
 h1 > a {
