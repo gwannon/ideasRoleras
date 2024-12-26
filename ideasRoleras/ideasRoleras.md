@@ -14,6 +14,11 @@ Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near fut
 
 Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. seguiría la esencia del comic de Lumberjanes.
 
+### CyberIsis
+Una ambientación cyberpunk pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
+
+No hay rascacielos, hay pirámides de cristal, en vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglificos de neón. El gran río Nilo fluye a través de la ciudad.
+
 ### Circunnavegación de un mundo medieval fantástico
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo cion poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos. para que el viaje sea una epopeya.
@@ -36,13 +41,13 @@ Los vehículos tendrían mucha importancia y las persecuciones estarían a la or
 
 Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una colección de aventuras cortas en diferentes partes de la ruta.
 
+\saltopagina
+
 Podría plantearse tambien para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
 
 ### Dinosaurio + Medieval
 
 Una Europa medieval sin magia ni fantasía donde encuentran un volcán apagado en Islandia donde hay dinosaurios. Los crían y entrenan para ayudar en las labores del campo, la guerra, ...
-
-\saltopagina
 
 Puede ser una Edad Media dura, con guerras de religión, pestes y lepras, feudalismo, quema de brujas, etc. O podría ser más caballeresco, rollo Príncipe Valiente, Ivanhoe, etc.
 
@@ -80,6 +85,12 @@ Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomor
 
 Fantasía medieval, pero rollo polinesia, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
 
+### Mundo de papel
+
+Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los arboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para que fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos magicos gushin.
+
+Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
+
 ### NIMH
 ¿Qué pasó con las ratas de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
 
@@ -89,7 +100,11 @@ Capitán Nemo contra Cthulhu. Nemo deberá encontrar R'lyeh
 
 ### Old ones RPG 
 
-Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos. Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
+Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos.
+
+\saltopagina
+
+Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
@@ -103,8 +118,6 @@ Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde
 ### Todos para Cthulhu y Cthulhu para todos
 
 Tres mosqueteros + Cyrano de Bergerac contra Cthulhu. Ya existe [Claudia Christian’s Musketeers vs. Cthulhu RPG](https://nightfall.games/claudia-christians-musketeers-vs-cthulhu-rpg/).
-
-\saltopagina
 
 ### Ulises VS Cthulhu
 
@@ -126,31 +139,15 @@ Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdic
 
 \sincolumna
 
-## Reglas caseras
-
-\concolumna
-
-### Reglas para cocinar
-
-Con recetas normales y exóticas completas y precios. Reglas para concursos de cocina.
-
-### Reglas de bebida y borrachera
-
-Emborracharse, pelear y lanzar hechizos borracho y reglas de resacas. Concursos y juegos de beber.
-
-### Clase Isekai/Metajuego
-
-Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D y ahora que está en el mundo de D&D se sabe todo el lore del juego y/o campaña. Rollo Gwenpool de Marvel. Por ejemplo, obtiene bonos porque sabe quién escribió la aventura y siempre pone los mismos monstruos y trampas y esas cosas.
-
-\saltocolumna
-
-\saltopagina
-
-\sincolumna
-
 ## Indies
 
 \concolumna
+
+### Agatha Christie VS Cthulhu
+
+Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express" con una charla final donde los PJ deberán resolver el asesinato.
+
+Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 hibridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
 
 ### Animal Crossing Cazavampiros
 
@@ -198,6 +195,8 @@ Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de prof
 
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
 
+\saltopagina
+
 Esto explica porque todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
 
 ### Repartidor/a de pizza en un dungeon.
@@ -208,17 +207,9 @@ Recorre la mazmorra buscando a los PJs o monstruos que han pedido la pizza.
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
 
-\saltopagina
-
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
-
-### Si algún día viajas al pasado no toques nada
-
-Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
-
-O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
 ### SockQuest
 
@@ -236,7 +227,41 @@ Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de 
 
 \sincolumna
 
-## Modificaciones a juegos, ambientaciones y campañas
+## Reglas caseras y ayudas
+
+\concolumna
+
+### Clase Isekai/Metajuego
+
+Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D y ahora que está en el mundo de D&D se sabe todo el lore del juego y/o campaña. Rollo Gwenpool de Marvel. Por ejemplo, obtiene bonos porque sabe quién escribió la aventura y siempre pone los mismos monstruos y trampas y esas cosas.
+
+### Reglas para cocinar
+
+Con recetas normales y exóticas completas y precios. Reglas para concursos de cocina.
+
+### Reglas de bebida y borrachera
+
+Emborracharse, pelear y lanzar hechizos borracho y reglas de resacas. Concursos y juegos de beber.
+
+### Tablas de encuentros en puentes
+
+Siguiendo el tópico del troll de debajo del puente, sería interesante un sistema genérico de creación de encuentros en puentes. Se definiría el tipo de puente, el guardián que lo cuida y la prueba que impone.
+
+Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un cocinero y tienes que comerte todo lo que cocine. Pero puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
+
+### Si algún día viajas al pasado no toques nada
+
+Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
+
+O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+\saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## Mods de juegos, ambientaciones y campañas
 
 \concolumna
 
@@ -252,7 +277,7 @@ Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya 
 
 \sincolumna
 
-## Nuevas ideas
+## Semillas e ideas de aventuras
 
 \concolumna
 
@@ -261,45 +286,5 @@ Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya 
 > Se dice que en todos los institutos del mundo existen 7 misterios sin resolver ... Y el Furinkan no es una excepción. _Ranma 1/2 - Capítulo 328 - Rumiko Talahashi_
 
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
-
-### Mundo de papel
-
-Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los arboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para que fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos magicos gushin.
-
-Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
-
-### Tablas de encuentros en puentes
-
-Siguiendo el tópico del troll de debajo del puente, sería interesante un sistema genérico de creación de encuentros en puentes. Se definiría el tipo de puente, el guardián que lo cuida y la prueba que impone.
-
-Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un cocinero y tienes que comerte todo lo que cocine. Pero puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
-
-\saltocolumna
-
-### Agatha Christie VS Cthulhu
-
-Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express" con una charla final donde los PJ deberán resolver el asesinato.
-
-Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 hibridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
-
-\saltopagina
-
-\sincolumna
-
-## Pendiente de definir
-
-\concolumna
-
-### Ulises 31
-
-xxx
-
-### Pilluelos de Sherlock Holmes
-
-xxx
-
-### Vikingos VS Cthulhu
-
-xxx
 
 \saltocolumna

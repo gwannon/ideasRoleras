@@ -5,8 +5,7 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 ## Atribuciones 
 
 * Fantasy portal to another world or game level in dark cave with stone walls and glowing gem crystals Cartoon vector magic door or entrance to another dimension in rocky underground cave or dungeon by [upklyak](https://www.freepik.com/free-vector/fantasy-portal-another-world-game-level-dark-cave-with-stone-walls-glowing-gem-crystals-cartoon-vector-magic-door-entrance-another-dimension-rocky-underground-cave-dungeon_73605755.htm)
-* Future already comes flat set of people used smart gadgets robots and transport isolated vector illustration by [macrovector](https://www.freepik.com/free-vector/future-already-comes-flat-set-people-used-smart-gadgets-robots-transport-isolated-vector-illustration_26760642.htm)
-* Computer game cartoon characters set. Giant, Viking warrior with shield, orc, magician, elf, gnome, hobbit. Isolated cartoon vector illustration for online game, fantasy and fairytale by [pch.vector](https://www.freepik.com/free-vector/computer-game-cartoon-characters-set-giant-viking-warrior-with-shield-orc-magician-elf-gnome-hobbit-isolated-cartoon-vector-illustration-online-game-fantasy-fairytale_10172524.htm)
+* Notebook spiral wire binds by [upklyak](https://www.freepik.com/free-vector/notebook-spiral-wire-binds_12632847.htm)
 
 ***
 

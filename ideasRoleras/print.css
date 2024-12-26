@@ -15,7 +15,7 @@ body {
   font-size: 14px;
 }
 
-body:before {
+/*body:before {
   content: "";
   display: block;
   width: var(--padding);
@@ -23,7 +23,6 @@ body:before {
   position: fixed;
   top: 0px;
   left: 0px;
-  /*Aqui gestionamos el diseño del borde*/
   background: transparent url(./images/border1.png) top left repeat-y
 }
 
@@ -35,9 +34,10 @@ body:after {
   position: fixed;
   top: 0px;
   right: 0px;
-  /*Aqui gestionamos el diseño del borde*/
   background: transparent url(./images/border2.png) top left repeat-y;
-}
+}*/
+
+
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -86,6 +86,7 @@ h1 {
   color: var(--color-white);
   padding: 0 50px;
   text-shadow: 0px 0px 3px #000;
+  margin: 0px;
 }
 
 h1 > a {
@@ -111,7 +112,7 @@ h4 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1.8em;
   text-align: center;
   border-bottom: 1px solid var(--color-red);
   margin-bottom: 10px;
@@ -147,7 +148,7 @@ blockquote > p {
   display: block;
   font-family: "Orbitron", serif;
   background-color: var(--color-white);
-  font-size: 1.5em;
+  font-size: 1em;
   padding: 10px;
   border-radius: 10px;
 }
@@ -236,4 +237,40 @@ table tbody tr:nth-child(even) {
     margin: 0;
     opacity: 1;
   }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: "Orbitron", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--red-color);
+  position: absolute;
+  bottom: 11px;
+  right: -10px;
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+}
+
+.saltopagina.even:after {
+  right: auto;
+  left: -10px;
 }
