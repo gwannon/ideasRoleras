@@ -15,13 +15,32 @@ Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near fut
 Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. seguiría la esencia del comic de Lumberjanes.
 
 ### CyberIsis
-Una ambientación cyberpunk, pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo, Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
 
-No hay rascacielos, hay pirámides de cristal, en vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglíficos de neón. El gran río Nilo fluye a través de la ciudad.
+Una ambientación cyberpunk pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
+
+No hay rascacielos, hay pirámides de cristal. En vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglificos de neón. El gran río Nilo fluye a través de la ciudad y es navegable.
+
+Debajo de la ciudad puede haber ruinas reales egipcias para ser exploradas. Puede que todos los residuos tóxicos y nanotecnológicos hayan levantado a las momias de humanos y otros seres como perros, gatos, cocodrilos, hipopótamos.
+
+La momificación y la vida en el más allá se ha convertido en meter tu mente en un ordenador hasta encontrar un cuerpo adecuado para meter tu consciencia y volver a la vida. Los ordenadores que hacen eso son tan grandes que tienen que crear pirámides para contenerlos y solo los más ricos pueden pagarlo.
+
+No hay esclavos, pero es muy normal tener muchos siervos que hagan cosas por tí, ya que los robots son considerado un insulto a los dioses que son los únicos que pueden crear vida.
+
+Las armas y armaduras de combate tendrían una estética rollo StarGate, vibro Kopesh, lanzas láser, arco recurvo, etc.
+
+Heliopolis está rodeada de desierto y solo se accede por aire (aunque durante las tormentas de arena es muy dificil), por el río y por trenes maglev que llegan de otras grandes ciudades.
+
+La arena y la tecnología se llevan muy mal, asi que habría reglas de como la arena arrasa con todo y como las dunas se van comiendo la ciudad.
+
+[Imagen 1](https://www.deviantart.com/mohamedsaberartist/art/Egypt-3000-908713398)
+[Imagen 2](https://www.deviantart.com/rowye/art/Conspiracy-Theories-753992795)
+[Imagen 3](https://www.deviantart.com/thefearmaster/art/Giza-776180932)
 
 ### Circunnavegación de un mundo medieval fantástico
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo cion poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos. para que el viaje sea una epopeya.
+
+\saltopagina
 
 ### Conan VS Cthulhu
 
@@ -41,8 +60,6 @@ Los vehículos tendrían mucha importancia y las persecuciones estarían a la or
 
 Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una colección de aventuras cortas en diferentes partes de la ruta.
 
-\saltopagina
-
 Podría plantearse tambien para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
 
 ### Dinosaurio + Medieval
@@ -52,6 +69,8 @@ Una Europa medieval sin magia ni fantasía donde encuentran un volcán apagado e
 Puede ser una Edad Media dura, con guerras de religión, pestes y lepras, feudalismo, quema de brujas, etc. O podría ser más caballeresco, rollo Príncipe Valiente, Ivanhoe, etc.
 
 Habría cosas como justas en estegosaurios, máquinas de guerra montadas en diplodocus, mensajeros en pteradones, etc.
+
+\saltocolumna
 
 ### Espacial victoriano
 
@@ -85,6 +104,8 @@ Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomor
 
 Fantasía medieval, pero rollo polinesia, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
 
+\saltopagina
+
 ### Mundo de papel
 
 Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los árboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para qué fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos mágicos gushin.
@@ -102,14 +123,14 @@ Capitán Nemo contra Cthulhu. Nemo deberá encontrar R'lyeh
 
 Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a los humanos. Son la raza menos alien de las razas estelares de los Mitos.
 
-\saltopagina
-
 Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
 ### Soy leyenda al revés
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
+
+\saltocolumna
 
 ### Ruta de la seda
 
@@ -132,8 +153,6 @@ El ambiente sería muy rural rollo el horror de Dunwich
 Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
 
 Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
-
-\saltocolumna
 
 \saltopagina
 
