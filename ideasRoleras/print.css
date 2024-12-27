@@ -160,9 +160,6 @@ ol {
 }
 
 p i {
-  font-family: "Orbitron", serif;
-  font-weight: 700;
-  font-style: normal;
   color: var(--color-red);
   /*text-shadow: -1px 0px 1px #1bc7af;*/
 }

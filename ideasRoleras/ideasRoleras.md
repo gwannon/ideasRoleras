@@ -12,25 +12,25 @@ Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near fut
 
 ### Campamento de Verano
 
-Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. seguiría la esencia del comic de Lumberjanes.
+Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. Seguiría la esencia del comic de Lumberjanes.
 
 ### CyberIsis
 
-Una ambientación cyberpunk pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
+Una ambientación cyberpunk, pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
 
-No hay rascacielos, hay pirámides de cristal. En vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglificos de neón. El gran río Nilo fluye a través de la ciudad y es navegable.
+No hay rascacielos, hay pirámides de cristal. En vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglíficos de neón. El gran río Nilo fluye a través de la ciudad y es navegable.
 
 Debajo de la ciudad puede haber ruinas reales egipcias para ser exploradas. Puede que todos los residuos tóxicos y nanotecnológicos hayan levantado a las momias de humanos y otros seres como perros, gatos, cocodrilos, hipopótamos.
 
 La momificación y la vida en el más allá se ha convertido en meter tu mente en un ordenador hasta encontrar un cuerpo adecuado para meter tu consciencia y volver a la vida. Los ordenadores que hacen eso son tan grandes que tienen que crear pirámides para contenerlos y solo los más ricos pueden pagarlo.
 
-No hay esclavos, pero es muy normal tener muchos siervos que hagan cosas por tí, ya que los robots son considerado un insulto a los dioses que son los únicos que pueden crear vida.
+No hay esclavos, pero es muy normal tener muchos siervos que hagan cosas por ti, ya que los robots son considerados un insulto a los dioses que son los únicos que pueden crear vida.
 
 Las armas y armaduras de combate tendrían una estética rollo StarGate, vibro Kopesh, lanzas láser, arco recurvo, etc.
 
-Heliopolis está rodeada de desierto y solo se accede por aire (aunque durante las tormentas de arena es muy dificil), por el río y por trenes maglev que llegan de otras grandes ciudades.
+Heliopolis está rodeada de desierto y solo se accede por aire (aunque durante las tormentas de arena es muy difícil), por el río y por trenes maglev que llegan de otras grandes ciudades.
 
-La arena y la tecnología se llevan muy mal, asi que habría reglas de como la arena arrasa con todo y como las dunas se van comiendo la ciudad.
+La arena y la tecnología se llevan muy mal, así que habría reglas de como la arena arrasa con todo y como las dunas se van comiendo la ciudad.
 
 [Imagen 1](https://www.deviantart.com/mohamedsaberartist/art/Egypt-3000-908713398)
 [Imagen 2](https://www.deviantart.com/rowye/art/Conspiracy-Theories-753992795)
@@ -38,7 +38,7 @@ La arena y la tecnología se llevan muy mal, asi que habría reglas de como la a
 
 ### Circunnavegación de un mundo medieval fantástico
 
-Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo cion poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos. para que el viaje sea una epopeya.
+Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
 
 \saltopagina
 
@@ -60,7 +60,7 @@ Los vehículos tendrían mucha importancia y las persecuciones estarían a la or
 
 Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una colección de aventuras cortas en diferentes partes de la ruta.
 
-Podría plantearse tambien para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
+Podría plantearse también para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
 
 ### Dinosaurio + Medieval
 
@@ -178,7 +178,7 @@ Montar reglas para jugar con personajes que sean de LEGO con el rollo de constru
 
 ### Mad men RPG
 
-Un indie donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
+Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
 
 ### Mensajero/a en bici en ciudad cyberpunk.
 
@@ -199,7 +199,7 @@ Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del 
 ### Los plastilinos.
 
 Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
-Está inspirado en los arquetipos del Nephilim de Chaosium, que serian representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
+Está inspirado en los arquetipos del Nephilim de Chaosium, que serían representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
 Los jugadores podrían cederse dados (mezcla de colores).
 
 por [Mondriter](https://mastodon.social/@Moonrider_acme)
@@ -216,7 +216,7 @@ Lo más importante será la pelea final donde tendrás que esquivar sus ataques,
 
 \saltopagina
 
-Esto explica porque todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
+Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
 
 ### Repartidor/a de pizza en un dungeon.
 
@@ -260,7 +260,7 @@ Con recetas normales y exóticas completas y precios. Reglas para concursos de c
 
 ### Reglas de bebida y borrachera
 
-Emborracharse, pelear y lanzar hechizos borracho y reglas de resacas. Concursos y juegos de beber.
+Emborracharse, pelear y lanzar hechizos estando borracho y reglas de resacas. Concursos y juegos de beber.
 
 ### Tablas de encuentros en puentes
 
