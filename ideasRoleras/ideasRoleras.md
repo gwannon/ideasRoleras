@@ -15,9 +15,9 @@ Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near fut
 Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. seguiría la esencia del comic de Lumberjanes.
 
 ### CyberIsis
-Una ambientación cyberpunk pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
+Una ambientación cyberpunk, pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo, Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
 
-No hay rascacielos, hay pirámides de cristal, en vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglificos de neón. El gran río Nilo fluye a través de la ciudad.
+No hay rascacielos, hay pirámides de cristal, en vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglíficos de neón. El gran río Nilo fluye a través de la ciudad.
 
 ### Circunnavegación de un mundo medieval fantástico
 
@@ -87,7 +87,7 @@ Fantasía medieval, pero rollo polinesia, [viajes en catamarán](https://mapasmi
 
 ### Mundo de papel
 
-Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los arboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para que fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos magicos gushin.
+Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los árboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para qué fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos mágicos gushin.
 
 Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
 
@@ -147,7 +147,7 @@ Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdic
 
 Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express" con una charla final donde los PJ deberán resolver el asesinato.
 
-Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 hibridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
+Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 híbridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
 
 ### Animal Crossing Cazavampiros
 
