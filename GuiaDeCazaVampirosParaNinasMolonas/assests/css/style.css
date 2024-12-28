@@ -434,13 +434,33 @@ section:first-of-type p {
   text-align: center;
 }
 
-section:first-of-type img {
+section:first-of-type img:first-of-type {
   position: absolute;
   bottom: 20px;
   right: 20px;
   width: 150px;
   padding: 0;
   margin: 0;
+}
+
+section:first-of-type img:nth-of-type(2) {
+  position: absolute;
+  top: 20px;
+  right: 120px;
+  width: 250px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(15deg);
+}
+
+section:first-of-type img:nth-of-type(3) {
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  width: 280px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(-10deg);
 }
 
 /* Indice */
