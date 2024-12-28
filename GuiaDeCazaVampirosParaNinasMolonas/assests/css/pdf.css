@@ -1,0 +1,52 @@
+section:first-of-type > div.saltopagina {
+  display: none;
+}
+
+@media screen {
+  .saltopagina { display: block; height: 0; overflow: hidden; }
+}
+
+.columns {
+  columns: 2;
+}
+
+@media print {
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+  
+  .saltocolumna {
+    break-before: column;
+    height: 0px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .saltopagina + .columns > *:first-child,
+  .saltopagina + h2 {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    padding: 0;
+    margin: 0px;
+    opacity: 1; 
+    position: relative;
+  }
+
+  section .saltopagina + * {
+    padding-top: var(--padding);
+  }
+
+  .likeH1 span,
+  .likeH2 span,
+  .likeH3 span {
+    display: block;
+  }
+}
