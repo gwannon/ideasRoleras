@@ -54,10 +54,10 @@
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
     var n = cont.split(" ").length;
-    let words = document.querySelector('section:nth-of-type(2) p:nth-of-type(4) span');
+    let words = document.querySelector('section:nth-of-type(3) p:nth-of-type(4) span');
     words.innerHTML = n+" palabras";
     //PageCount
-    let pages = document.querySelector('section:nth-of-type(2) p:nth-of-type(3) span');
-    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1)+" páginas";
+    let pages = document.querySelector('section:nth-of-type(3) p:nth-of-type(3) span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 3)+" páginas";
   </script>
 </html>

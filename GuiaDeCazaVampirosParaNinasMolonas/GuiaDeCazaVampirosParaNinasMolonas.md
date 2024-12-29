@@ -38,7 +38,7 @@ No te creas ninguna de las explicaciones de los mayores, _son todas mentiras_. E
 
 \sinc
 
-Los vampiros, nosferatus, chupasangres, sanguijuelas, ... han estado desde siempre entre nosotros. xxx
+Los vampiros, nosferatus, chupasangres, sanguijuelas, ... han estado desde siempre entre nosotros. Y siempre tienen un plan de dominación.
 
 xxx
 
@@ -50,9 +50,9 @@ Pues tras muchos meses de estudio no he podido encontrar una respuesta clara. Ha
 
 Estás son las que veo más probables:
 
-* **Maldición mesopotámica:** xxx
-* **Experimentos del gobierno:** xxx
-* **Mutación:** puede que sean producto de una mutación o enfermedad como en Blade.
+* **Maldición:** hay varias opciónes en cuanto a su epoca, ~~mesopotopomica~~ mesopotámica, egipcía o etrusca y casi siempre tiene toque bíblicos, donde castiga con el vampirismo a un malo malisimo.
+* **Aliens:** los vampiros no son de este mundo, vienen del espacio exterior y por eso son tan diferentes a nosotros los humanos. La teoría de los astronuatas vampiros ancestrales está muy de moda y pueden escuchar más en muchos de los podcasts que lo tratan.
+* **Mutación/enfermedad:** puede que sean producto de una mutación o enfermedad como en Blade.
 
 Si tienes tu propia teoría mandame un MD explicandomela, igual estamos ante la verdad.
 
@@ -92,7 +92,24 @@ xxx
 
 xxx
 
+Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, pero si puedes, COMPRA EN LOCAL :)
+
+[![Estacas de Amazon](./assests/images/estacas.jpg "Estacas de Amazon")](https://www.amazon.es/encuestas-pulgadas-construcci%C3%B3n-topograf%C3%ADa-utilidades/dp/B0C6K6YVZ5 "Estacas de Amazon")
+
+xxx
+
+### Cosas que podrían funcinar o no
+
+La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con los chupasangres. 
+
+* El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico.
+* No te fies de tu abuela cuando te diga que su cubertería es de plata, la mayoria son de alpaca plateada y no sirven contra los vampiros.
+
 \sc
+
+* La linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero ademas puedes usarlas para detectar fluidos.
+* Las cosas bañadas en plata son tan utiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+* xxx
 
 \sp
 
@@ -125,6 +142,22 @@ xxx
 ## ¿Cómo puedes defenderte de ellos?
 
 \conc
+
+xxx
+
+### Reflejo en el espejo
+
+Los vampiros no se reflejan en los espejos, pero solo en los viejos que debian tener algo de plata. Los modernos tiene aluminio y en esos se reflejan. Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaria y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
+
+xxx
+
+### Invitación a entrar
+
+Las sanguijuelas no pueden entrar en una casa si no son invitados así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. así el tonto de mi hermano no invita a entrar a quien  no debe.
+
+xxx
+
+### ¿Aliados?
 
 xxx
 
