@@ -13,6 +13,9 @@ $html = file_get_contents(__DIR__ . "/template.html");
 foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
+
+$html = str_replace("|HOJAPERSONAJE|", file_get_contents(__DIR__ . "/../hojapersonaje.html"), $html);
+
 $html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class=\"columns\">", $html);
 $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
@@ -60,12 +63,12 @@ foreach(explode("\n", removeHtmlComments($doc->savehtml($body))) as $line) {
 
 $metas .= bookMark("Portada", 1, 1);
 $json[] = ["title" => "Portada","page" => 1];
-$metas .= bookMark("Licencia de uso", 1, 3);
+$metas .= bookMark("Licencia de uso", 1, 4);
 $json[] = ["title" => "Licencia de uso","page" => 3];
 $metas .= bookMark("Índice", 1, 4);
-$json[] = ["title" => "Índice","page" => 4];
+$json[] = ["title" => "Índice","page" => 5];
 
-$counter = 2;
+$counter = 3;
 foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
@@ -99,6 +102,7 @@ $indice = "";
 foreach ($json as $item) {
   if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
 }
+
 $html = str_replace("|INDICE|", $indice, $html);
 
 file_put_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.html", $html);

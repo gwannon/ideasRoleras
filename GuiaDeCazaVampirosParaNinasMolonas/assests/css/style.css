@@ -372,8 +372,8 @@ table tbody tr:nth-of-type(even):after {
 section:first-of-type {
   background: #0089ff url(../images/espiral1.png) top left repeat-y;
   background-size: 33px auto;
-  border-top-right-radius: 24px;
-  border-bottom-right-radius: 24px;
+  /*border-top-right-radius: 24px;
+  border-bottom-right-radius: 24px;*/
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -493,12 +493,28 @@ section:first-of-type img:nth-of-type(3) {
   margin-right: 5px;
 }
 
+/* Interiores */
+
+section:nth-of-type(2) {
+  height: 100vh;
+  background: #0089ff url(../images/espiral2.png) top right repeat-y;
+  background-size: 33px auto;
+  box-sizing: border-box;
+}
+
+section:nth-of-type(10) {
+  height: 100vh;
+  background: #0089ff url(../images/espiral1.png) top left repeat-y;
+  background-size: 33px auto;
+  box-sizing: border-box;
+}
+
 /* Contraportada */
 section:last-of-type {
   background: #0089ff url(../images/espiral2.png) top right repeat-y;
   background-size: 33px auto;
-  border-top-left-radius: 24px;
-  border-bottom-left-radius: 24px;
+  /*border-top-right-radius: 24px;
+  border-bottom-right-radius: 24px;*/
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -525,7 +541,7 @@ section:last-of-type > p:first-of-type {
 }
 
 body {
-  counter-reset: primary 1;
+  counter-reset: primary 2;
 }
 
 .saltopagina {
@@ -551,14 +567,14 @@ body {
   font-size: 2.5em;
 }
 
-.saltopagina.even:after {
+.saltopagina.odd:after {
   right: 10px;
   left: auto;
 }
 
 /* Imagenes */
 
-section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+section p img:not(section:first-of-type img, section:nth-of-type(3) img, section:last-of-type img) {
   border: none;
   box-shadow: -2px 15px 20px 0px #000;
   rotate: -1deg;
@@ -566,7 +582,7 @@ section p img:not(section:first-of-type img, section:nth-of-type(2) img, section
   width: 100%;
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img):before {
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img):before {
   content: "";
   display: block;
   position: absolute;
@@ -581,7 +597,7 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   filter: drop-shadow(0px 0px 4px #000);
 }
 
-section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img):after {
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img):after {
   content: "";
   display: block;
   position: absolute;
@@ -595,3 +611,4 @@ section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type)
   rotate: -11deg;
   filter: drop-shadow(0px 0px 4px #000);
 }
+
