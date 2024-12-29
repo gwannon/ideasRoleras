@@ -512,7 +512,7 @@ section:last-of-type * {
   color: white;
 }
 
-section:last-of-type > h4 {
+section:last-of-type > p:first-of-type {
   font-size: 2em;
   margin: 0 0 20px 0;
   text-align: center;

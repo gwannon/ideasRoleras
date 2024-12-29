@@ -1,5 +1,11 @@
 
+# Introducción
+
+\sinc
+
 Me llamo Berta de Cantaverno, tengo 12 años y **soy una cazavampiros**. En este libro que tienes en tus manos te enseñaré como _detectar vampiros, encontrar su guarida y matarlos_ a tiempo de volver a casa para cenar y hacer tu directo de Twitch.
+
+\conc
 
 ***
 
@@ -55,7 +61,7 @@ La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro 
 
 \sp
 
-En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles una aspecto negativo que se use contra ellos y que de xxx, como que hace mucho ruido, siempre rompe cosas, etc.
+En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que de xxx, como que hace mucho ruido, siempre rompe cosas, etc.
 
 #### Ganarse la vida en el barrio
 
@@ -75,11 +81,11 @@ Un elemento definitorio de tu PJ joven es como se busca la vida en el barrio, no
 
 **Buscando en la basura:** Vives de lo que encuentras en la basura y los vertederos. Las cosas buenas las vendes y las útiles te las quedas.
 
-Si la forma de ganarse la vida tu alguien de tu mesa no se ajusta a ninguna de estas opciones, podéis mirar otras opciones, pero no deberías aceptar profesiones que vayan en contra de derechos de la infancia como prostitución infantil.
+Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, podéis mirar otras opciones, pero no deberías aceptar profesiones que vayan en contra de derechos de la infancia como prostitución infantil.
 
 ***
 
-# Buenas noches Sr. Vampiro
+# Buenas días, Sr. Vampiro
 
 xxx
 
@@ -102,18 +108,23 @@ Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](ht
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
+\sc
+
 ## Atribuciones
 
 * https://www.freepik.es/foto-gratis/textura-papel-cuadriculado_932591.htm
 * https://www.freepik.com/free-vector/notebook-spiral-wire-binds_12632847.htm
 * https://www.freepik.com/free-vector/vampire-mouth-with-fangs-set-female-red-lips_6690894.htm
+* https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm
 * https://borderize.com/
 
-\sc
+\sp
+
+&nbsp;
 
 ***
 
-#### Guía de Cazavampiros niñas molones __por Beta de Cantaverno__
+Guía de Cazavampiros para niñas molonas __por Beta de Cantaverno__
 
 Creado por [Gwannon](https://linktr.ee/gwannon)
 
@@ -123,4 +134,4 @@ xxx. Este libro contiene:
 2. xxx.
 3. xxx.
 
-Para jugar esta ambientación solo necesitas el Reglamento de Fate Condensado.
+Para jugar esta ambientación solo necesitas el Reglamento de FATE Condensado.

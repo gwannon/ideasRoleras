@@ -23,7 +23,7 @@ $html = str_replace("<div class=\"columns\">\n</div>", "", $html);
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
 
-$counter = 1;
+$counter = 3;
 $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   global $counter;
   if ($counter%2 == 0) $matches[0] = '"saltopagina even" id="anchor'.$counter.'"';
@@ -65,7 +65,7 @@ $json[] = ["title" => "Licencia de uso","page" => 3];
 $metas .= bookMark("Índice", 1, 4);
 $json[] = ["title" => "Índice","page" => 4];
 
-$counter = 1;
+$counter = 2;
 foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
@@ -101,21 +101,11 @@ foreach ($json as $item) {
 }
 $html = str_replace("|INDICE|", $indice, $html);
 
-$counter = 2;
-$html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
-  global $counter;
-  if ($counter%2 == 0) $matches[0] = '"saltopagina even" id="anchor'.$counter.'"';
-  else $matches[0] = '"saltopagina" id="anchor'.$counter.'"';
-  $counter++;
-  return $matches[0];
-}, $html);
-
 file_put_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.html", $html);
 file_put_contents(__DIR__ . "/../metas.txt", $metas);
 
 /* LIBs */
 /* -------------------------------------------------------------- */
-
 function cleanLine($line) {
   return str_replace(array("  ", "   ", "\t", "\n", "\r"), "", $line);
 }
