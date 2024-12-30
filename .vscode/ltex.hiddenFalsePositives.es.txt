@@ -1,0 +1,2 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhan estado desde siempre entre nosotros.\\E$"}
+{"rule":"DE_TILDE","sentence":"^\\QTe de ajo\\E$"}

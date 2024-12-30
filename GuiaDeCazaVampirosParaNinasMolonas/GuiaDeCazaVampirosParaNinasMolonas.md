@@ -11,20 +11,22 @@ Si han empezado a pasar cosas en tu barrio como desapariciones sin explicación,
 
 Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instituto.
 
-&nbsp;
-
 ### Decálogo de la cazavampiros
 
-1. **Acabarás con los vampiros** donde cazen y duerman. Caza y mata durante el día, ataca y mata cuando seán más débiles.
+1. **Acabarás con los vampiros** donde se alimenten y duerman. Caza y mata durante el día, ataca y mata cuando sean más débiles.
 2. **Siempre tienen un plan** y si no lo has descubierto es que no has investigado lo suficiente.
-3. Si alguien es mordido por un vampiro, **se convertira en vampiro y deberás aliminarlo**. A veces será duro porque pueden ser amigas o familiares, pero ya no son humanas, solo sanguijuelas.
-4. **No te enamores de un vampiro, vampira, vampire** por guapo que sea. No te quiere a ti, solo tu sangre fresca.
+3. Si alguien es mordido por un vampiro, **se convertirá en vampiro y deberás eliminarlo**. A veces será duro porque pueden ser amigas o familiares, pero ya no son humanas, solo sanguijuelas.
+4. **No tengas un crush por un vampiro, vampira, vampire** por guapo que sea. No te quiere a ti, solo tu sangre fresca.
 5. Si puedes ver al vampiro, es que te vio hace mucho tiempo, prepárate.
 6. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
 7. **Te leerás Drácula todos los años**, hay que revisar las bases cada poco tiempo.
-8. **No te fies de las redes.** Pueden ser útiles, pero ellos las controlan.
-9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además nadie puede hackearte lo que tengas en papel.
+8. **No te fíes de las redes.** Pueden ser útiles, pero ellos las controlan.
+9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
+
+```
+AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para niños. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, asi que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.  
+```
 
 \conc
 
@@ -44,13 +46,13 @@ xxx
 
 Pues tras muchos meses de estudio no he podido encontrar una respuesta clara. Hay tantas teorías como podcasts de fenómenos extraños y hacedme caso que hay muchos podcasts.
 
-Estás son las que veo más probables:
+Estas son las que veo más probables:
 
-* **Maldición:** hay varias opciónes en cuanto a su epoca, ~~mesopotopomica~~ mesopotámica, egipcía o etrusca y casi siempre tiene toque bíblicos, donde castiga con el vampirismo a un malo malisimo.
-* **Aliens:** los vampiros no son de este mundo, vienen del espacio exterior y por eso son tan diferentes a nosotros los humanos. La teoría de los astronuatas vampiros ancestrales está muy de moda y pueden escuchar más en muchos de los podcasts que lo tratan.
+* **Maldición:** hay varias opciones en cuanto a su época, ~~mesopotopomica~~ mesopotámica, egipcia o etrusca y casi siempre tiene toque bíblico, donde castiga con el vampirismo a un malo malísimo.
+* **Aliens:** los vampiros no son de este mundo, vienen del espacio exterior y por eso son tan diferentes a nosotros los humanos. La teoría de los astronautas vampiros ancestrales está muy de moda y pueden escuchar más en muchos de los podcasts que lo tratan.
 * **Mutación/enfermedad:** puede que sean producto de una mutación o enfermedad como en Blade.
 
-Si tienes tu propia teoría mandame un MD explicandomela, igual estamos ante la verdad.
+Si tienes tu propia teoría mándame un MD explicándomela, igual estamos ante la verdad.
 
 \sc
 
@@ -60,17 +62,37 @@ Si tienes tu propia teoría mandame un MD explicandomela, igual estamos ante la 
 
 ## ¿Cómo son?
 
+xxx
+
 \conc
+
+_Normalmente los vemos así_
+
+[![Rain By Zeilyan](./assests/images/rain_by_zeilyan_d9hzp04-414w-2x.jpg "Rain By Zeilyan")](https://www.deviantart.com/zeilyan/art/Rain-574414420 "Rain By Zeilyan")
+
+No te putopilles
+
+\sc
+
+_En realidad son así_
 
 [![Nosferatu By Rachaurux](./assests/images/nosferatu_by_rachaurux_d21yhcn-414w-2x.jpg "Nosferatu By Rachaurux")](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759 "Nosferatu By Rachaurux")
 
-xxx
+\sinc
+
+\conc
 
 ### Alimentación
 
 xxx
 
-\sc
+#### Víctimas
+
+xxx
+
+Una víctima de vampirismo suele presentar unos síntomas básicos muy parecidos a una gripe chunga, debilidad general, mal color, falta de apetito, vómitos y algunas veces diarrea.
+
+Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar principalmente en esos sitios marcas de mordiscos. Las muñequeras de pinchos y los chokers de cuero son una buena protección, porque cubren esas 2 zonas.
 
 \sp
 
@@ -112,13 +134,9 @@ El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es much
 
 #### Te de ajo
 
-Mi mayor descubrimiento en mi carrera de cazavampiros. xxx
+Mi mayor descubrimiento en mi carrera de cazavampiros es el té de ajo. Esta infusión de ajo es capaz de dañar a los vampiros como si fuera agua bendita o fuego.
 
-### Plata
-
-xxx
-
-> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+La receta es simple, una cabeza de ajo por cada 2 litros de agua y ponerlo al 5 durante 1 hora. Esto te deja un 1 litro de té de ajo preparado para meter en bombas o pistolas de agua.
 
 ###  Fuego purificador
 
@@ -128,28 +146,40 @@ xxx
 
 xxx
 
-La linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero ademas puedes usarlas para detectar fluidos.
+Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero además puedes usarlas para detectar fluidos.
 
 ### Agua bendita
 
 xxx
 
-El problema del agua bendita es que el sacerdote que la bendija debe creer y tener fe y por tanto puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
+El problema del agua bendita es que el sacerdote que la bendiga debe creer y tener fe y, por tanto, puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
 
 \sp
+
+### Plata
+
+Los objetos dañados en plata dañan a los vampiros, da igual que sea un cuchillo para mantequilla, que un anillo, que la tetera de tu tata. Si es de plata puede hacerles daño. 
+
+[![Monedas superviejuners de plata](./assests/images/TRAIANUS_RIC_II_291_732081.jpg "Monedas superviejuners de plata")](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg "Monedas superviejuners de plata")
+
+Tengo la teoría que cuanto más vieja más efectiva es la plata, así que comprar monedas de plata en el rastro no es mala opción. Cómprate un álbum de monedas y mételas dentro y tus padres estarán contentísimos.
+
+Las balas de plata serían realmente útiles, pero las menores no tenemos acceso a este material. Por eso, estas vacaciones igual tengo tiempo de probar con un tirachinas con cuentas de plata. Seguro que si impacto en la cabeza de unos chupasangres, le dejo inconsciente lo suficiente para trincharle el corazón con una estaca. 
+
+> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+
+Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la 
 
 ### Cosas que he probado y no funcionan
 
 La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con los chupasangres. 
 
-* No te fies de tu abuela cuando te diga que su cubertería es de plata, la mayoria son de alpaca plateada y no sirven contra los vampiros.
+* No te fíes de tu abuela cuando te diga que su cubertería es de plata, la mayoría son de alpaca plateada y no sirven contra los vampiros.
 * Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
-* Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la polvora caduca. Los hermanos mayores son una buena fuente de petardos.
+* Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la pólvora caduca. Los hermanos mayores son una buena fuente de petardos.
 * Los extintores ni los notan.
 * Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan. 
 * xxx
-
-\sc
 
 \sp
 
@@ -189,11 +219,11 @@ xxx
 
 xxx
 
-> No compres grandes cantidades de ajos en súpers o por internet. Vigilan todas esas compras. La tienda de encurtidos de tu calle es mucho mejor. Así que como digo siempre COMPRA LOCAL.
+> No compres grandes cantidades de ajos en supers o por internet. Vigilan todas esas compras. La tienda de encurtidos de tu calle es mucho mejor. Así que como digo siempre COMPRA LOCAL.
 
 ### Reflejo en el espejo
 
-Los vampiros no se reflejan en los espejos, pero solo en los viejos que debian tener algo de plata. Los modernos tiene aluminio y en esos se reflejan. Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaria y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
+Los vampiros no se reflejan en los espejos, pero solo en los viejos que debían tener algo de plata. Los modernos tienen aluminio y en esos se reflejan. Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaría y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
 
 xxx
 
@@ -207,7 +237,7 @@ xxx
 
 xxx
 
-> Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más util para alguien de nuestro tamaño que lo te puedan enseñar los kunfu-bros del gimnasio. 
+> Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
 
 ### ¿Puedes consumir sangre de vampiro?
 
@@ -244,12 +274,12 @@ xxx
 Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información.
 
 * **Drácula de Bran Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
-* **Carmilla de Joseph Sheridan Le Fanu.** PEC Dificil de encontrar y muy corto, necesito una segunda parte ya.
+* **Carmilla de Joseph Sheridan Le Fanu.** PEC Difícil de encontrar y muy corto, necesito una segunda parte ya.
 * **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y otra que si tiene sonido y mucha calidad. La que encuentres.
-* **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mí tio. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
+* **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mi tío. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
 * **Saga Crepúsculo.** Pura propaganda vampira. _NO VER NUNCA_
 * **Monster High.** Perfectas para verla con tus amigas y tantear lo que piensan de Vampilaura y los de su calaña.
-* **Lo que hacemos en las sombras.** La tendras que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propraganda vampira. Quieren que creas que son unos imbeciles trasnochados, pero ES MENTIRA. 
+* **Lo que hacemos en las sombras.** La tendrás que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propaganda vampira. Quieren que creas que son unos imbéciles trasnochados, pero ES MENTIRA. 
 
 xxx
 
@@ -271,7 +301,7 @@ xxx
 
 ### Aspectos extras
 
-A parte de los aspectos normales de FAE, tienes una serie de aspectos extras.
+Aparte de los aspectos normales de FAE, tienes una serie de aspectos extras.
 
 * Soy pequeña
 * xxx
@@ -280,11 +310,11 @@ A parte de los aspectos normales de FAE, tienes una serie de aspectos extras.
 
 La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
 
-En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les de puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
+En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
 
 ### Ganarse la vida en el barrio
 
-Un elemento definitorio de tu  joven cazavampiros es como se busca la vida en el barrio, no solo va a marcar su forma de vida, sino también su ética y su relación con la ley. Alguno de sus aspectos podría estar relacionado con su forma de ganarse la vida.
+Un elemento definitorio de tu joven cazavampiros es como se busca la vida en el barrio, no solo va a marcar su forma de vida, sino también su ética y su relación con la ley. Alguno de sus aspectos podría estar relacionado con su forma de ganarse la vida.
 
 **Pides la paga:** Pides a tus padres la paga todas las semanas. Es menos dinero que el resto de formas, pero es dinero muy fácil.
 
@@ -312,11 +342,11 @@ Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de e
 
 xxx
 
-> Si compras online usa siempre puntos de recogida, mejor si son esos armarios metálicos en los  que metes códigos larguísimos. Será más difícil rastrear un pedido extraño hasta tu casa.
+> Si compras online usa siempre puntos de recogida, mejor si son esos armarios metálicos en los que metes códigos larguísimos. Será más difícil rastrear un pedido extraño hasta tu casa.
 
 ### Pistolas de agua
 
-Tú pistola de agua cargada de te de ajo es tu arma más poderosa contra las sanguijuelas.
+Tu pistola de agua cargada de té de ajo es tu arma más poderosa contra las sanguijuelas.
 
 xxx
 
@@ -332,7 +362,7 @@ Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseg
 
 ### Protecciones deportivas
 
-Empieza a practicar un deporte de contacto y tendrás la excusa necesaría para que te compren o regalen protecciones, cascos, muñequeras, coderas, rodilleras, ... 
+Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, cascos, muñequeras, coderas, rodilleras, ... 
 
 xxx 
 
@@ -344,7 +374,7 @@ xxx
 
 xxx
 
-Si tu look es un poco alternativo, podras llevar estos complementos sin dar mucho el cante.
+Si tu look es un poco alternativo, podrás llevar estos complementos sin dar mucho el cante.
 
 \sp
 
@@ -408,13 +438,23 @@ xxx
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Ni una más.
 
-***
-
-# Buenas días, Sr. Vampiro
+\sp
 
 \sinc
 
-Está es mi historia, de como me convertí en cazavampiros y libre a mí barrio de su amenaza. Tú historia podría ser igual o ser totalmente diferente.
+## Anatomía de un vampiro
+
+\conc
+
+xxx
+
+***
+
+# Buenos días, Sr. Vampiro
+
+\sinc
+
+Esta es mi historia, de como me convertí en cazavampiros y libre a mi barrio de su amenaza. Tu historia podría ser igual o ser totalmente diferente.
 
 ## Resumen [Aviso Spoiler]
 
@@ -426,7 +466,7 @@ xxx
 
 ## Hasta luego, Maricarmen
 
-> Tú profesora de Ciencias Sociales, Maricarmen, ha muerto y tú madre se ha empeñado en ir a la funeraria. Gente que no conoces llorando, gente que no conoces hablando y riendo y un tipo que no conzco con pinta de pervertido. Solo mira a los presnete, saca fotos a escondidas y teclea cosas en el móvil, todo muy sospechoso. 
+> Tu profesora de Ciencias Sociales, Maricarmen, ha muerto y tu madre se ha empeñado en ir a la funeraria. Gente que no conoces llorando, gente que no conoces hablando y riendo y un tipo que no conozco muy creppy. Solo mira a los presentes, saca fotos a escondidas y teclea cosas en el móvil, todo muy sospechoso. 
 
 \conc
 
@@ -460,8 +500,9 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Cruz portada por [freepik](https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm)
 * Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
-* Pegatina portada de Web can do it por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
+* Pegatina portada de "Web can do it" por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
 * Decálogo de la cazadora de vampiros basado en [esta hilo de rpg.net](https://forum.rpg.net/index.php?threads/rules-of-vampire-hunting.139264/)
+* Denarios de plata de la [Wikipedia](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg)  Creative Commons Attribution-Share Alike 2.5 Generic 
 * [borderize.com](https://borderize.com/)
 
 \sp
@@ -532,14 +573,12 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 Guía de Cazavampiros para niñas molonas __por Beta de Cantaverno__
 
-Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en Youtube ni en Twitch.
-
-Este libro contiene:
+Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado. Este libro contiene:
 
 1. Un montón de información sobre los vampiros y cómo matarlos. Sus puntos fuertes, sus debilidades y cómo aprovecharlas, sus rutinas y en general como funciona todo su oscuro mundo.
 2. Reglas para montar tu grupo de cazadoras de vampiros.
 3. "Buenos días, señor vampiro", una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
 
-Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado.
+AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para niños. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
 
 Creado por [Gwannon](https://linktr.ee/gwannon)
