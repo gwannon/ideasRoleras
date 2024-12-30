@@ -3,30 +3,28 @@
 
 \sinc
 
-Me llamo Berta de Cantaverno, tengo 12 años y **soy una cazavampiros**. En este libro que tienes en tus manos te enseñaré como detectar vampiros, encontrar su guarida y matarlos a tiempo de volver a casa para cenar y hacer tu directo de Twitch.
+## Me llamo Berta de Cantaverno, tengo 12 años y soy una cazavampiros.
+
+En este libro que tienes en tus manos te enseñaré como detectar vampiros, encontrar su guarida y matarlos a tiempo de volver a casa para cenar y hacer tu directo de Twitch.
 
 Si han empezado a pasar cosas en tu barrio como desapariciones sin explicación, ataques de animales extraños, robos en bancos de sangre, ... estate segura de que son malditos vampiros.
 
 Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instituto.
 
-\conc
+&nbsp;
 
-\sp
+### Decálogo de la cazavampiros
 
-\sinc
-
-## Decálogo de la cazavampiros
-
-1. xxx
-2. xxx
-3. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
-4. xxx
-5. xxx
-6. xxx
+1. **Acabarás con los vampiros** donde cazen y duerman. Caza y mata durante el día, ataca y mata cuando seán más débiles.
+2. **Siempre tienen un plan** y si no lo has descubierto es que no has investigado lo suficiente.
+3. Si alguien es mordido por un vampiro, **se convertira en vampiro y deberás aliminarlo**. A veces será duro porque pueden ser amigas o familiares, pero ya no son humanas, solo sanguijuelas.
+4. **No te enamores de un vampiro, vampira, vampire** por guapo que sea. No te quiere a ti, solo tu sangre fresca.
+5. Si puedes ver al vampiro, es que te vio hace mucho tiempo, prepárate.
+6. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
 7. **Te leerás Drácula todos los años**, hay que revisar las bases cada poco tiempo.
 8. **No te fies de las redes.** Pueden ser útiles, pero ellos las controlan.
 9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además nadie puede hackearte lo que tengas en papel.
-10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza.
+10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
 
 \conc
 
@@ -102,21 +100,52 @@ Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, per
 
 xxx
 
-### Te de ajo
+### Ajo
+
+xxx
+
+El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico.
+
+#### Te de ajo
 
 Mi mayor descubrimiento en mi carrera de cazavampiros. xxx
 
-### Cosas que podrían funcinar o no
+### Plata
+
+xxx
+
+> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+
+###  Fuego purificador
+
+xxx
+
+### Luz del día
+
+xxx
+
+La linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero ademas puedes usarlas para detectar fluidos.
+
+### Agua bendita
+
+xxx
+
+El problema del agua bendita es que el sacerdote que la bendija debe creer y tener fe y por tanto puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
+
+### Cosas que he probado y no funcionan
 
 La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con los chupasangres. 
 
-\sc
+\sp
 
-* El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico.
 * No te fies de tu abuela cuando te diga que su cubertería es de plata, la mayoria son de alpaca plateada y no sirven contra los vampiros.
-* La linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero ademas puedes usarlas para detectar fluidos.
-* Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+* Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
+* Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la polvora caduca. Los hermanos mayores son una buena fuente de petardos.
+* Los extintores ni los notan.
+* Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan. 
 * xxx
+
+\sc
 
 \sp
 
@@ -291,6 +320,28 @@ xxx
 
 Esta tecnología retro, como dice mi tío, es la leche. xxx
 
+### Navaja suiza
+
+xxx
+
+Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, ... en general material de montaña.
+
+### Protecciones deportivas
+
+Empieza a practicar un deporte de contacto y tendrás la excusa necesaría para que te compren o regalen protecciones, cascos, muñequeras, coderas, rodilleras, ... 
+
+xxx 
+
+### Sudaderas con choto
+
+xxx
+
+### Muñequeras y chokers de pinchos
+
+xxx
+
+Si tu look es un poco alternativo, podras llevar estos complementos sin dar mucho el cante.
+
 \sp
 
 \sinc
@@ -339,7 +390,7 @@ Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizá
 
 \sinc
 
-## La panda
+## Las sistars
 
 \conc
 
@@ -406,6 +457,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
 * Pegatina portada de Web can do it por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
+* Decálogo de la cazadora de vampiros basado en [esta hilo de rpg.net](https://forum.rpg.net/index.php?threads/rules-of-vampire-hunting.139264/)
 * [borderize.com](https://borderize.com/)
 
 \sp
