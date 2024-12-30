@@ -176,6 +176,12 @@ xxx
 
 > Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más util para alguien de nuestro tamaño que lo te puedan enseñar los kunfu-bros del gimnasio. 
 
+### ¿Puedes consumir sangre de vampiro?
+
+Puedes, otra cosa es que debas. Beber sangre de vampiro te dan superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar, pero te deja baldado cuando se termina el efecto.
+
+xxx
+
 ### ¿Aliados?
 
 TUS AMIGAS. No hay más.
@@ -205,11 +211,12 @@ xxx
 Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información.
 
 * **Drácula de Bran Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
-* **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y la nueva que si tiene sonido y mucha calidad. La que encuentres.
+* **Carmilla de Joseph Sheridan Le Fanu.** PEC Dificil de encontrar y muy corto, necesito una segunda parte ya.
+* **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y otra que si tiene sonido y mucha calidad. La que encuentres.
 * **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mí tio. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
 * **Saga Crepúsculo.** Pura propaganda vampira. _NO VER NUNCA_
 * **Monster High.** Perfectas para verla con tus amigas y tantear lo que piensan de Vampilaura y los de su calaña.
-* **Lo que hacemos en las sombras.** La tendras que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propraganda vampira. quieren que creas que son unos imbeciles trasnochados, pero ES MENTIRA. 
+* **Lo que hacemos en las sombras.** La tendras que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propraganda vampira. Quieren que creas que son unos imbeciles trasnochados, pero ES MENTIRA. 
 
 xxx
 
@@ -398,6 +405,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Cruz portada por [freepik](https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm)
 * Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
+* Pegatina portada de Web can do it por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
 * [borderize.com](https://borderize.com/)
 
 \sp
