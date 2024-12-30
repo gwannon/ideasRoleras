@@ -90,7 +90,11 @@ xxx
 
 ## ¿Cómo matarlos?
 
+xxx
+
 \conc
+
+### Estacas de madera
 
 xxx
 
@@ -132,11 +136,11 @@ xxx
 
 El problema del agua bendita es que el sacerdote que la bendija debe creer y tener fe y por tanto puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
 
+\sp
+
 ### Cosas que he probado y no funcionan
 
 La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con los chupasangres. 
-
-\sp
 
 * No te fies de tu abuela cuando te diga que su cubertería es de plata, la mayoria son de alpaca plateada y no sirven contra los vampiros.
 * Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
@@ -177,9 +181,9 @@ xxx
 
 ## ¿Cómo puedes defenderte de ellos?
 
-\conc
-
 xxx
+
+\conc
 
 ### Ajo
 
@@ -276,7 +280,7 @@ A parte de los aspectos normales de FAE, tienes una serie de aspectos extras.
 
 La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
 
-En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que de xxx, como que hace mucho ruido, siempre rompe cosas, etc.
+En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les de puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
 
 ### Ganarse la vida en el barrio
 
@@ -286,7 +290,7 @@ Un elemento definitorio de tu  joven cazavampiros es como se busca la vida en el
 
 **Robando:** Entras en los supermercados y robas cosas que luego revendes a tu panda o a adultos.
 
-**Mendigando:** Mendigas por las calles apelando a la buena fe y caridad de sus gentes. Puede que tengas una discapacidad o solo lo finjas, pero desde luego ha aprendido a fingir pena para aflojar las bolsas de tu audiencia. Ganas un nivel de Persuadir.
+**Mendigando:** Mendigas por las calles apelando a la buena fe y caridad de sus gentes. Puede que tengas una discapacidad o solo lo finjas, pero desde luego has aprendido a fingir pena para aflojar la pasta de los viandantes.
 
 **Haciendo recados:** Te dedicas a hacer recados por una propina. Cargas con paquetes, llevas mensajes, etc. siempre corriendo arriba y abajo de las calles y callejuelas.
 
@@ -346,7 +350,7 @@ Si tu look es un poco alternativo, podras llevar estos complementos sin dar much
 
 \sinc
 
-## Interpretando a menores de 12 años
+## El mundo cuando tienes 12 años
 
 \conc
 
@@ -528,12 +532,14 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 Guía de Cazavampiros para niñas molonas __por Beta de Cantaverno__
 
-Creado por [Gwannon](https://linktr.ee/gwannon)
+Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en Youtube ni en Twitch.
 
-xxx. Este libro contiene:
+Este libro contiene:
 
-1. xxx.
-2. xxx.
-3. xxx.
+1. Un montón de información sobre los vampiros y cómo matarlos. Sus puntos fuertes, sus debilidades y cómo aprovecharlas, sus rutinas y en general como funciona todo su oscuro mundo.
+2. Reglas para montar tu grupo de cazadoras de vampiros.
+3. "Buenos días, señor vampiro", una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
 
 Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado.
+
+Creado por [Gwannon](https://linktr.ee/gwannon)

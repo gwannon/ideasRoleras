@@ -69,6 +69,10 @@ h3 {
   font-size: 1.5em;
 }
 
+.columns > h3:first-child {
+  margin-top: 0px;
+}
+
 
 /*h2:after {
   position: absolute;
@@ -233,6 +237,10 @@ section > ul {
   padding-left: var(--padding);
   padding-right: var(--padding);
   box-sizing: border-box;
+}
+
+p + ol {
+  margin-top: 0px;
 }
 
 section ul li ul {
@@ -560,11 +568,13 @@ section:last-of-type * {
   color: white;
 }
 
-section:last-of-type > p:first-of-type {
+section:last-of-type > p:first-of-type,
+section:last-of-type > p:last-of-type {
   font-size: 2em;
   margin: 0 0 20px 0;
   text-align: center;
   display: block;
+  width: 100%;
 }
 
 /* Paginación */
