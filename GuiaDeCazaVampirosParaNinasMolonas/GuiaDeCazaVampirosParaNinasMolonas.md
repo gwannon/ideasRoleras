@@ -5,7 +5,7 @@
 
 Me llamo Berta de Cantaverno, tengo 12 años y **soy una cazavampiros**. En este libro que tienes en tus manos te enseñaré como detectar vampiros, encontrar su guarida y matarlos a tiempo de volver a casa para cenar y hacer tu directo de Twitch.
 
-Si han empezado a pasar cosas en tu barrio como desapariciones sin explicacion, ataques de animales extraños, robos en bancos de sangre, ... estate segura que son malditos vampiros.
+Si han empezado a pasar cosas en tu barrio como desapariciones sin explicación, ataques de animales extraños, robos en bancos de sangre, ... estate segura de que son malditos vampiros.
 
 Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instituto.
 
@@ -26,8 +26,8 @@ No te creas ninguna de las explicaciones de los mayores, _son todas mentiras_. E
 5. xxx
 6. xxx
 7. **Te leerás Drácula todos los años**, hay que revisar las bases cada poco tiempo.
-8. **No te fies de la redes.** Pueden ser útiles, pero ellos las controlan.
-9. **Organiza y paso a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizo y paso a limpio las notas, cartas y apuntes de sus Además nadie puede hackearte lo que tengas en papel.
+8. **No te fies de las redes.** Pueden ser útiles, pero ellos las controlan.
+9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además nadie puede hackearte lo que tengas en papel.
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza.
 
 \conc
@@ -65,6 +65,8 @@ Si tienes tu propia teoría mandame un MD explicandomela, igual estamos ante la 
 ## ¿Cómo son?
 
 \conc
+
+[![Nosferatu By Rachaurux](./assests/images/nosferatu_by_rachaurux_d21yhcn-414w-2x.jpg "Nosferatu By Rachaurux")](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759 "Nosferatu By Rachaurux")
 
 xxx
 
@@ -167,6 +169,20 @@ xxx
 
 \sinc
 
+## Sirvientes humanos
+
+\conc
+
+Los siervos, ghouls, thralls, renfields son xxx
+
+xxx
+
+\sc
+
+\sp
+
+\sinc
+
 ## Bibliografía para cazavampiros
 
 \conc
@@ -175,9 +191,10 @@ Aquí tienes algunos libros, pelis y podcasts que te pueden dar más informació
 
 * **Drácula de Bran Stoker.** El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
 * **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y la nueva que si tiene sonido y mucha calidad. La que encuentres.
-* **Jóvenes ocultos.** Película  muy viejuner que pillas a la noche en canales cutres, pero le chifla a mí tio. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
+* **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mí tio. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
 * **Saga Crepúsculo.** Pura propaganda vampira. _NO VER NUNCA_
 * **Monster High.** Perfectas para verla con tus amigas y tantear lo que piensan de Vampilaura y los de su calaña.
+* **Lo que hacemos en las sombras.** La tendras que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propraganda vampira. quieren que creas que son unos imbeciles trasnochados, pero ES MENTIRA. 
 
 xxx
 
@@ -306,6 +323,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Canutillo metálico por [upklyak](https://www.freepik.com/free-vector/notebook-spiral-wire-binds_12632847.htm)
 * Colmillos portada por [vectorpouch](https://www.freepik.com/free-vector/vampire-mouth-with-fangs-set-female-red-lips_6690894.htm)
 * Cruz portada por [freepik](https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm)
+* Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * [borderize.com](https://borderize.com/)
 
 \sp
