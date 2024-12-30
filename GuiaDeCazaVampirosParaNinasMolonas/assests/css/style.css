@@ -59,9 +59,25 @@ h2, h3, h4 {
   padding-bottom: 0px;
 }
 
-h2 {
+h2:not(section:first-of-type h2) {
   margin-bottom: 10px;
+  font-size: 1.7em;
+  text-transform: uppercase;
 }
+
+h3 {
+  font-size: 1.5em;
+}
+
+
+/*h2:after {
+  position: absolute;
+  content: "----------------------------------------------------------------------------------------------";
+  display: inline-block;
+  top: 14px;
+  left: var(--padding);
+  width: calc(100% -(var(--padding)* 2));
+}*/
 
 blockquote {
   background-color: var(--color-secondary);
@@ -179,21 +195,11 @@ section:not(section:first-of-type, section:last-of-type) > h1 > span {
   transform: rotate(-3deg);
 }
 
-
-h2 {
-  font-size: 1.7em;
-  clear: both;
-}
-
-h3 {
-  font-size: 1.5em;
-  clear: both;
-}
-
 strong, i {
   font-weight: 400;
   display: inline-block;
   position: relative;
+  color: #05329d;
 }
 
 strong:before {
@@ -415,7 +421,7 @@ section:first-of-type h1 {
   }
 }
 
-section:first-of-type h2{
+section:first-of-type h2 {
   font-size: 2em;
   line-height: 110%;
   color: white;
@@ -451,6 +457,7 @@ section:first-of-type img:nth-of-type(2) {
   padding: 0;
   margin: 0;
   transform: rotate(15deg);
+  z-index: 10;
 }
 
 section:first-of-type img:nth-of-type(3) {
@@ -461,6 +468,7 @@ section:first-of-type img:nth-of-type(3) {
   padding: 0;
   margin: 0;
   transform: rotate(-10deg);
+  z-index: 10;
 }
 
 /* Indice */

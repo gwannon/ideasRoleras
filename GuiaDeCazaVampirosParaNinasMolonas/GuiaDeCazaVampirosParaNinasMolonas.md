@@ -9,19 +9,17 @@ Si han empezado a pasar cosas en tu barrio como desapariciones sin explicación,
 
 Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instituto.
 
-No te creas ninguna de las explicaciones de los mayores, _son todas mentiras_. Están todos manipulados por los vampiros o directamente les sirven.
-
 \conc
 
 \sp
 
 \sinc
 
-## Decálogo del cazavampiros
+## Decálogo de la cazavampiros
 
 1. xxx
 2. xxx
-3. xxx
+3. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
 4. xxx
 5. xxx
 6. xxx
@@ -70,6 +68,10 @@ Si tienes tu propia teoría mandame un MD explicandomela, igual estamos ante la 
 
 xxx
 
+### Alimentación
+
+xxx
+
 \sc
 
 \sp
@@ -100,17 +102,20 @@ Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, per
 
 xxx
 
+### Te de ajo
+
+Mi mayor descubrimiento en mi carrera de cazavampiros. xxx
+
 ### Cosas que podrían funcinar o no
 
 La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con los chupasangres. 
 
-* El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico.
-* No te fies de tu abuela cuando te diga que su cubertería es de plata, la mayoria son de alpaca plateada y no sirven contra los vampiros.
-
 \sc
 
+* El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico.
+* No te fies de tu abuela cuando te diga que su cubertería es de plata, la mayoria son de alpaca plateada y no sirven contra los vampiros.
 * La linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero ademas puedes usarlas para detectar fluidos.
-* Las cosas bañadas en plata son tan utiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+* Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
 * xxx
 
 \sp
@@ -147,6 +152,12 @@ xxx
 
 xxx
 
+### Ajo
+
+xxx
+
+> No compres grandes cantidades de ajos en súpers o por internet. Vigilan todas esas compras. La tienda de encurtidos de tu calle es mucho mejor. Así que como digo siempre COMPRA LOCAL.
+
 ### Reflejo en el espejo
 
 Los vampiros no se reflejan en los espejos, pero solo en los viejos que debian tener algo de plata. Los modernos tiene aluminio y en esos se reflejan. Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaria y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
@@ -155,15 +166,19 @@ xxx
 
 ### Invitación a entrar
 
-Las sanguijuelas no pueden entrar en una casa si no son invitados así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. así el tonto de mi hermano no invita a entrar a quien  no debe.
+Las sanguijuelas no pueden entrar en una casa si no son invitados así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. Así el tonto de mi hermano no invita a entrar a quien no debe.
 
 xxx
+
+### Entrenamiento de combate
+
+xxx
+
+> Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más util para alguien de nuestro tamaño que lo te puedan enseñar los kunfu-bros del gimnasio. 
 
 ### ¿Aliados?
 
-xxx
-
-\sc
+TUS AMIGAS. No hay más.
 
 \sp
 
@@ -189,7 +204,7 @@ xxx
 
 Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información.
 
-* **Drácula de Bran Stoker.** El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
+* **Drácula de Bran Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
 * **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y la nueva que si tiene sonido y mucha calidad. La que encuentres.
 * **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mí tio. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
 * **Saga Crepúsculo.** Pura propaganda vampira. _NO VER NUNCA_
@@ -202,13 +217,13 @@ xxx
 
 ***
 
-# Reglas de la campaña
+# Reglas del juego
 
 xxx
 
 \sinc
 
-## Creación de PJ
+## Defínete como cazadora de vampiros
 
 \conc
 
@@ -251,6 +266,28 @@ Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de e
 
 \sinc
 
+## Regalos de cumpleaños y Navidad útiles para matar vampiros
+
+\conc
+
+xxx
+
+> Si compras online usa siempre puntos de recogida, mejor si son esos armarios metálicos en los  que metes códigos larguísimos. Será más difícil rastrear un pedido extraño hasta tu casa.
+
+### Pistolas de agua
+
+Tú pistola de agua cargada de te de ajo es tu arma más poderosa contra las sanguijuelas.
+
+xxx
+
+### Walkie-talkie
+
+Esta tecnología retro, como dice mi tío, es la leche. xxx
+
+\sp
+
+\sinc
+
 ## Interpretando a menores de 12 años
 
 \conc
@@ -273,7 +310,7 @@ Puede haber adultos que te hagan caso, pero son tan extraños y raros que el res
 
 Para bien o para mal es un mundo de adultos, todo está pensado para esos gigantes que no escuchan.
 
-La ropa, las armas, las herramientas son tamaño adulto. No puedes hacerse pasar por un adulto poniéndote su ropa, tendrás que subirte uno encima de una amiga o usar zapatos altos o zancos.
+La ropa, las armas, las herramientas son tamaño adulto. No puedes hacerte pasar por un adulto poniéndote su ropa, tendrás que subirte una encima de otra o usar zapatos altos o zancos.
 
 Por otro lado, es más fácil librarte de grilletes o reptar por las alcantarillas cuando mides y pesas mucho menos.
 
@@ -281,19 +318,55 @@ Por otro lado, es más fácil librarte de grilletes o reptar por las alcantarill
 
 Los adultos nunca te consideran una amenaza, así que hay que aprovecharse de ello. Puedes fingir llorar para que tu captor baje la guardia y cuando se gire golpearle con algo contundente.
 
- Solo un gran número de niñas armadas y con intenciones agresivas podría ser considerado una amenaza.
+Solo un gran número de niñas armadas y con intenciones agresivas podría ser considerado una amenaza.
 
 ### Nadie se fija en ti
 
 Puedes entrar en sitios en los que los adultos no pueden o no se atreven, principalmente porque no eres una amenaza. Solo necesitas una buena excusa.
 
-Vete a cualquier bar de tu barrio por chungo vendiendo boletos de una rifa y podrás moverte por el bar aunque lo tengas prohibido y escuchar todas las conversaciones adultas del local.
+Vete a cualquier bar de tu barrio por chungo que sea vendiendo boletos de una rifa y podrás moverte por el bar aunque lo tengas prohibido y escuchar todas las conversaciones adultas del local.
 
 Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizás llamen a tus padres.
+
+\sp
+
+\sinc
+
+## La panda
+
+\conc
+
+xxx
+
+### Las reglas de la panda
+
+xxx
+
+1. BBF. Mejores amigas para siempre.
+2. Nadie se queda atrás, salimos todas o no salimos ninguna.
+3. Ni una más.
 
 ***
 
 # Buenas días, Sr. Vampiro
+
+\sinc
+
+Está es mi historia, de como me convertí en cazavampiros y libre a mí barrio de su amenaza. Tú historia podría ser igual o ser totalmente diferente.
+
+## Resumen [Aviso Spoiler]
+
+\conc
+
+xxx
+
+\sinc
+
+## Hasta luego, Maricarmen
+
+> Tú profesora de Ciencias Sociales, Maricarmen, ha muerto y tú madre se ha empeñado en ir a la funeraria. Gente que no conoces llorando, gente que no conoces hablando y riendo y un tipo que no conzco con pinta de pervertido. Solo mira a los presnete, saca fotos a escondidas y teclea cosas en el móvil, todo muy sospechoso. 
+
+\conc
 
 xxx
 
@@ -324,6 +397,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Colmillos portada por [vectorpouch](https://www.freepik.com/free-vector/vampire-mouth-with-fangs-set-female-red-lips_6690894.htm)
 * Cruz portada por [freepik](https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm)
 * Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
 * [borderize.com](https://borderize.com/)
 
 \sp
@@ -381,6 +455,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 
