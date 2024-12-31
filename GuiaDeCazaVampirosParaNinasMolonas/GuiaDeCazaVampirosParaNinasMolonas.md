@@ -245,6 +245,10 @@ Puedes, otra cosa es que debas. Beber sangre de vampiro te dan superpoderes a lo
 
 xxx
 
+## Gafas de sol
+
+La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un vampiro es no mirarles a los ojos. Pero como es complicado muchas veces para matarlos, unas gafas de sol pueden ayudar.
+
 ### ¿Aliados?
 
 TUS AMIGAS. No hay más.
