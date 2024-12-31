@@ -69,7 +69,8 @@ h3 {
   font-size: 1.5em;
 }
 
-.columns > h3:first-child {
+.columns > h3:first-child,
+.columns > h2:first-child {
   margin-top: 0px;
 }
 

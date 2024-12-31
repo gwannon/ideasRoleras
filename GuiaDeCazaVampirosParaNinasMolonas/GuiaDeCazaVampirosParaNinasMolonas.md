@@ -112,7 +112,7 @@ xxx
 
 ## ¿Cómo matarlos?
 
-xxx
+La verdad que para ser seres inortales y superpoderosos, los vampiros tienen muchs debilidades muy estupidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
 
 \conc
 
@@ -124,7 +124,7 @@ Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, per
 
 [![Estacas de Amazon](./assests/images/estacas.jpg "Estacas de Amazon")](https://www.amazon.es/encuestas-pulgadas-construcci%C3%B3n-topograf%C3%ADa-utilidades/dp/B0C6K6YVZ5 "Estacas de Amazon")
 
-xxx
+La combinación estaca en el corazón + corta cabeza es lo más afectivo. De hí si que retorna ninguno. El problema es que cortar un cuello es muy dificil con el cuchillo jamonero.
 
 ### Ajo
 
@@ -150,7 +150,7 @@ Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de
 
 ### Agua bendita
 
-xxx
+El agua bendita es igual de efectiva que el ajo y encima es facil de conseguir. Entras en la parroquía de San Julían sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
 
 El problema del agua bendita es que el sacerdote que la bendiga debe creer y tener fe y, por tanto, puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
 
@@ -160,11 +160,13 @@ El problema del agua bendita es que el sacerdote que la bendiga debe creer y ten
 
 Los objetos dañados en plata dañan a los vampiros, da igual que sea un cuchillo para mantequilla, que un anillo, que la tetera de tu tata. Si es de plata puede hacerles daño. 
 
+Les hace grandes heridas y mucho dolor y normalmente se acobardan bastante si tienen una buena provisión de plata, porque el simple roce es muy peligroso para ellos.
+
 [![Monedas superviejuners de plata](./assests/images/TRAIANUS_RIC_II_291_732081.jpg "Monedas superviejuners de plata")](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg "Monedas superviejuners de plata")
 
 Tengo la teoría que cuanto más vieja más efectiva es la plata, así que comprar monedas de plata en el rastro no es mala opción. Cómprate un álbum de monedas y mételas dentro y tus padres estarán contentísimos.
 
-Las balas de plata serían realmente útiles, pero las menores no tenemos acceso a este material. Por eso, estas vacaciones igual tengo tiempo de probar con un tirachinas con cuentas de plata. Seguro que si impacto en la cabeza de unos chupasangres, le dejo inconsciente lo suficiente para trincharle el corazón con una estaca. 
+Las balas de plata serían realmente útiles, pero las menores no tenemos acceso a este material. Por eso, estas vacaciones, igual, tengo tiempo de probar con un tirachinas con cuentas de plata. Seguro que si impacto en la cabeza de unos chupasangres, le dejo inconsciente lo suficiente para trincharle el corazón con una estaca. 
 
 > Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
 
@@ -245,7 +247,7 @@ Puedes, otra cosa es que debas. Beber sangre de vampiro te dan superpoderes a lo
 
 xxx
 
-## Gafas de sol
+### Gafas de sol
 
 La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un vampiro es no mirarles a los ojos. Pero como es complicado muchas veces para matarlos, unas gafas de sol pueden ayudar.
 
@@ -293,48 +295,45 @@ xxx
 
 # Reglas del juego
 
-xxx
-
 \sinc
 
 ## Defínete como cazadora de vampiros
 
 \conc
 
-xxx
+### Estilos
 
-### Aspectos extras
+Salvo contadas excepciones, como Sara de mi clase, no somos muy fuertes con lo que no deberiamos tener un estilo Vigoroso a nivel Grande y si Bueno solo en casos muy especiales. 
 
-Aparte de los aspectos normales de FAE, tienes una serie de aspectos extras.
+### Aspectos
 
-* Soy pequeña
-* xxx
+Uno de tus tres aspectos secundarios debería ser _Soy una niña_, que refleja no tienes ni 12 años. Eso supone, entre otras muchas cosas, que no eres ni muy fuerte, ni muy alta, ni corres muy deprisa, pero puedes esconderte más facilmente y meterte en sitios donde no entran los adultos.
 
-### No puede faltar una mascota
+#### Ganarse la vida en el barrio
 
-La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
-
-En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
-
-### Ganarse la vida en el barrio
-
-Un elemento definitorio de tu joven cazavampiros es como se busca la vida en el barrio, no solo va a marcar su forma de vida, sino también su ética y su relación con la ley. Alguno de sus aspectos podría estar relacionado con su forma de ganarse la vida.
+Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vida en el barrio. Todo esto no solo va a marcar tu forma de vida, sino también tu ética y tu relación con la ley. Alguno de tus aspectos podría estar relacionado con tu forma de ganarte la vida.
 
 **Pides la paga:** Pides a tus padres la paga todas las semanas. Es menos dinero que el resto de formas, pero es dinero muy fácil.
 
-**Robando:** Entras en los supermercados y robas cosas que luego revendes a tu panda o a adultos.
-
-**Mendigando:** Mendigas por las calles apelando a la buena fe y caridad de sus gentes. Puede que tengas una discapacidad o solo lo finjas, pero desde luego has aprendido a fingir pena para aflojar la pasta de los viandantes.
-
 **Haciendo recados:** Te dedicas a hacer recados por una propina. Cargas con paquetes, llevas mensajes, etc. siempre corriendo arriba y abajo de las calles y callejuelas.
-
-**Artista callejero:** Te dedicas a hacer malabarismos, a cantar, a bailar, a recitar poesía, etc. por unas monedas.
 
 **Cuidando animales:** Te dedicas a vigilar y cuidar de mascotas por una pequeña propina.
 
+**Robando:** Entras en los supermercados y robas cosas que luego revendes a tu panda o a adultos o tal vez tengas habilidades de carterista.
+
+**Mendigando:** Mendigas por las calles apelando a la buena fe y caridad de sus gentes. Puede que tengas una discapacidad o solo lo finjas, pero desde luego has aprendido a fingir pena para aflojar la pasta de los viandantes.
+
+**Artista callejero:** Te dedicas a hacer malabarismos, a cantar, a bailar, a recitar poesía, etc. por unas monedas.
+
 **Buscando en la basura:** Vives de lo que encuentras en la basura y los vertederos. Las cosas buenas las vendes y las útiles te las quedas.
 
-Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, podéis mirar otras opciones, pero no deberías aceptar profesiones que vayan en contra de derechos de la infancia como prostitución infantil.
+```
+Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, podéis evaluar, pero no deberías aceptar aquellas que vayan en contra de los derechos de la infancia como prostitución infantil.
+```
+
+#### ¿En qué eres bueno en el cole?
+
+Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios. Ser buena en matematicas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una maquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
 
 \sp
 
@@ -344,7 +343,9 @@ Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de e
 
 \conc
 
-xxx
+Hay un montón de cosas utiles cuando cazas vampiros, pero normalmente pocas puedes comprarlas con tu semanada. Así que has de aprovechar cupleaños y Navidades para pedirlos. 
+
+No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porque no son cosas de niñas (mimimimi), así que aquí tienes cosas que puedes pedir que te regalen y no levantan sospechas en los adultos.
 
 > Si compras online usa siempre puntos de recogida, mejor si son esos armarios metálicos en los que metes códigos larguísimos. Será más difícil rastrear un pedido extraño hasta tu casa.
 
@@ -356,13 +357,17 @@ xxx
 
 ### Walkie-talkie
 
-Esta tecnología retro, como dice mi tío, es la leche. xxx
+Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkie para comunicarte con tus sistars. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
+
+Si solucionarán lo del cambio y corto (mi tio se puso muy pesado con eso cuando me enseño a usarlo) serían la leche.
 
 ### Navaja suiza
 
 xxx
 
 Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, ... en general material de montaña.
+
+Me puse a ver todo los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. quizas con unos padres menos responsables puedes conseguirlo.
 
 ### Protecciones deportivas
 
@@ -434,6 +439,8 @@ Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizá
 
 xxx
 
+Tu pandilla puede ser otra fuente importante de aspectos secundarios, quizas tengas una relación especial con una de ellas o seais familia. Si has dejado algún aspecto sin definir puede que al principio de tus aventuras puedas rellenarlo cuando las conozcas más a fondo.
+
 ### Las reglas de la panda
 
 xxx
@@ -441,6 +448,16 @@ xxx
 1. BBF. Mejores amigas para siempre.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Ni una más.
+
+### Un lugar de reunión
+
+xxx
+
+### No puede faltar una mascota
+
+La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
+
+En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
 
 \sp
 
@@ -506,7 +523,7 @@ Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a tra
 * Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
 * Pegatina portada de "Web can do it" por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
 * Decálogo de la cazadora de vampiros basado en [esta hilo de rpg.net](https://forum.rpg.net/index.php?threads/rules-of-vampire-hunting.139264/)
-* Denarios de plata de la [Wikipedia](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg)  Creative Commons Attribution-Share Alike 2.5 Generic 
+* Denarios de plata de la [Wikipedia](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg) Creative Commons Attribution-Share Alike 2.5 Generic 
 * [borderize.com](https://borderize.com/)
 
 \sp
@@ -564,10 +581,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
-
-\sp
-
-&nbsp;
 
 ***
 
