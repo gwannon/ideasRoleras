@@ -86,7 +86,7 @@ _En realidad son así_
 
 xxx
 
-Los vampiros, si están asentados  y no tienen problemas, suelen beber sangre unas tres veces a semana. Pero en casos de necesidad puede subsistir con una vez semanal.
+Los vampiros, si están asentados y no tienen problemas, suelen beber sangre unas tres veces a la semana. Pero en casos de necesidad pueden subsistir con una vez semanal.
 
 xxx
 
