@@ -25,7 +25,7 @@ Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instit
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
 
 ```
-AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para niños. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, asi que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.  
+AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. Tiene temas adultos, drogas, situaciones duras y violencia en la que se verán enredados menores, asi que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.  
 ```
 
 \conc
@@ -38,7 +38,7 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para niños. Ti
 
 Los vampiros, nosferatus, chupasangres, sanguijuelas, ... han estado desde siempre entre nosotros. Y siempre tienen un plan de dominación.
 
-xxx
+Ahora veamos como son, de donde vienen y lo que es más importantes como devolverlos al infierno del que salieron reptando.
 
 ## ¿De dónde vienen?
 
@@ -86,6 +86,10 @@ _En realidad son así_
 
 xxx
 
+Los vampiros, si están asentados  y no tienen problemas, suelen beber sangre unas tres veces a semana. Pero en casos de necesidad puede subsistir con una vez semanal.
+
+xxx
+
 #### Víctimas
 
 xxx
@@ -112,7 +116,7 @@ xxx
 
 ## ¿Cómo matarlos?
 
-La verdad que para ser seres inortales y superpoderosos, los vampiros tienen muchs debilidades muy estupidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
+La verdad que para ser seres inmortales y superpoderosos, los vampiros tienen muchs debilidades muy estupidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
 
 \conc
 
@@ -144,17 +148,21 @@ xxx
 
 ### Luz del día
 
+La luz del día es mortal para estas sanguijuelas. Unos pocos segundos expuestos a la luz solar y se convierte en cenizas. Así que tus operaciones deberían ser de día, cuando son más débiles.
+
 xxx
 
-Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero además puedes usarlas para detectar fluidos.
+Siempre que te muevas por una de sus guaridas trata de abrir ventanas y quitar papeles de los cristales y descorrer cortinas (como les gustan los cortinones de abuela). Cuanta más luz entre más seguro será para tí.
+
+Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero además de dañar a los vampiros puedes usarlas para detectar fluidos como sangre.
+
+\sp
 
 ### Agua bendita
 
 El agua bendita es igual de efectiva que el ajo y encima es facil de conseguir. Entras en la parroquía de San Julían sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
 
 El problema del agua bendita es que el sacerdote que la bendiga debe creer y tener fe y, por tanto, puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
-
-\sp
 
 ### Plata
 
@@ -179,9 +187,14 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 * No te fíes de tu abuela cuando te diga que su cubertería es de plata, la mayoría son de alpaca plateada y no sirven contra los vampiros.
 * Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
 * Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la pólvora caduca. Los hermanos mayores son una buena fuente de petardos.
+
+\sp
+
 * Los extintores ni los notan.
 * Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan. 
 * xxx
+
+\sc
 
 \sp
 
@@ -291,6 +304,18 @@ xxx
 
 \sc
 
+\sp
+
+\sinc
+
+## ¿Y si me convierto en vampiro?
+
+\conc
+
+xxx
+
+\sc
+
 ***
 
 # Reglas del juego
@@ -323,6 +348,8 @@ Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vid
 
 **Mendigando:** Mendigas por las calles apelando a la buena fe y caridad de sus gentes. Puede que tengas una discapacidad o solo lo finjas, pero desde luego has aprendido a fingir pena para aflojar la pasta de los viandantes.
 
+**Trabajo en el negocio familiar.**  Quizás repongas latas en el badulaque de tus padres o recojas mesas en el restaurante de tu abuela. Y todos los findes recibes una propinilla.
+
 **Artista callejero:** Te dedicas a hacer malabarismos, a cantar, a bailar, a recitar poesía, etc. por unas monedas.
 
 **Buscando en la basura:** Vives de lo que encuentras en la basura y los vertederos. Las cosas buenas las vendes y las útiles te las quedas.
@@ -333,7 +360,13 @@ Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de e
 
 #### ¿En qué eres bueno en el cole?
 
-Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios. Ser buena en matematicas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una maquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
+Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
+
+\sp
+
+Ser buena en matematicas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una maquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
+
+\sc
 
 \sp
 
@@ -367,7 +400,7 @@ xxx
 
 Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, ... en general material de montaña.
 
-Me puse a ver todo los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. quizas con unos padres menos responsables puedes conseguirlo.
+Me puse a ver todos los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. Quizás con unos padres menos responsables puedes conseguirlo.
 
 ### Protecciones deportivas
 
@@ -377,13 +410,21 @@ xxx
 
 ### Sudaderas con choto
 
-xxx
+Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tú cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+
+\sp
+
+Junto al pantalón de chándal y unas deportivas es el look perfecto de la cazavampiros.
 
 ### Muñequeras y chokers de pinchos
 
 xxx
 
 Si tu look es un poco alternativo, podrás llevar estos complementos sin dar mucho el cante.
+
+También puedes pedirlo como parte de un disfraz de Halloween.
+
+\sc
 
 \sp
 
@@ -411,7 +452,7 @@ Puede haber adultos que te hagan caso, pero son tan extraños y raros que el res
 
 Para bien o para mal es un mundo de adultos, todo está pensado para esos gigantes que no escuchan.
 
-La ropa, las armas, las herramientas son tamaño adulto. No puedes hacerte pasar por un adulto poniéndote su ropa, tendrás que subirte una encima de otra o usar zapatos altos o zancos.
+La ropa, las armas y las herramientas son tamaño adulto. No puedes hacerte pasar por un adulto poniéndote su ropa, tendrás que subirte una encima de otra o usar zapatos altos o zancos.
 
 Por otro lado, es más fácil librarte de grilletes o reptar por las alcantarillas cuando mides y pesas mucho menos.
 
@@ -475,7 +516,7 @@ xxx
 
 \sinc
 
-Esta es mi historia, de como me convertí en cazavampiros y libre a mi barrio de su amenaza. Tu historia podría ser igual o ser totalmente diferente.
+Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio de su amenaza. Tu historia podría ser igual o ser totalmente diferente.
 
 ## Resumen [Aviso Spoiler]
 
@@ -499,6 +540,18 @@ xxx
 
 \sinc
 
+## Inspiración
+
+\conc
+
+Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics.
+
+Simplemente es un divertimento que surgió de un personaje de Los Green en la ciudad. Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
+
+A partir de ahí pensé que sería divertido jugar con una niña como Andrómeda y una cosa llevo a otra y aquí tienes esta aventura.
+
+\sinc
+
 ## Define los velos y herramientas de seguridad
 
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
@@ -509,11 +562,23 @@ Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](ht
 
 \conc
 
+\sp
+
+\sinc
+
 ## Participar en el proyecto
+
+\conc
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
+Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviarmelas. Estaré encntado de estudiarlas y poneros como betatesters en los créditos. 
+
+\sinc
+
 ## Atribuciones
+
+\conc
 
 * Papel cuadriculado por [kues](https://www.freepik.es/foto-gratis/textura-papel-cuadriculado_932591.htm)
 * Canutillo metálico por [upklyak](https://www.freepik.com/free-vector/notebook-spiral-wire-binds_12632847.htm)
@@ -582,6 +647,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 \conc
 
+\sp
+
+&nbsp;
+
 ***
 
 &nbsp;
@@ -596,6 +665,8 @@ Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía def
 2. Reglas para montar tu grupo de cazadoras de vampiros.
 3. "Buenos días, señor vampiro", una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
 
-AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para niños. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
+_AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niños_. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
 
 Creado por [Gwannon](https://linktr.ee/gwannon)
+
+![](./assests/images/prohibido.png)
