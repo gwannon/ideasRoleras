@@ -36,6 +36,8 @@ La arena y la tecnología se llevan muy mal, así que habría reglas de como la 
 [Imagen 2](https://www.deviantart.com/rowye/art/Conspiracy-Theories-753992795)
 [Imagen 3](https://www.deviantart.com/thefearmaster/art/Giza-776180932)
 
+El diseño del libro debería ser mezcla del libro de los muertos de La momia, rollo planchas de metal con grabados y jeroglíficos resaltados en neón, además de botones y circuiteria. Bordes externos de las hojas con el nombre de la sección en cartuchos y los bordes internos de las hojas con pesadas bisagras metálicas.
+
 ### Circunnavegación de un mundo medieval fantástico
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
