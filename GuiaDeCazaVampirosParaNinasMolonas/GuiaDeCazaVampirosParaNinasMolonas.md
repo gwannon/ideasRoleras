@@ -354,6 +354,18 @@ xxx
 
 \sinc
 
+## ¿Y si me convierto en vampiro?
+
+\conc
+
+xxx
+
+\sc
+
+\sp
+
+\sinc
+
 ## Bibliografía para cazavampiros
 
 Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información. Ninguno tiene toda la verdad, pero cogiendo cositas de uno de ellos puedes tener una visión bastante cercana a la realidad.
@@ -383,18 +395,6 @@ Este listado es abierto. Si conoces algun buen libro o peli, mandamelo a mis red
 
 * **Cuentos de la casa de la bruja.** Muchos audiolibros de libros clásico como [Drácula de Bram Stoker](https://www.ivoox.com/podcast-cuentos-de-la-casa-de-la-bruja_sq_f1421745_1.html).
 * **tododevampiros.com.** [Página web](https://www.tododevampiros.com/) con contenido super interesante y extraño.
-
-\sp
-
-\sinc
-
-## ¿Y si me convierto en vampiro?
-
-\conc
-
-xxx
-
-\sc
 
 ***
 
@@ -708,6 +708,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Vampira con copa de sangre por [lookstudio](https://www.freepik.com/free-photo/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_12778014.htm)
 * Retrato de Vlad Tepes [Wikipedia](https://es.wikipedia.org/wiki/Vlad_el_Empalador#/media/Archivo:Vlad_Tepes_002.jpg)
 * Cuatro modelos de pililla benditera o aguabenditeras de loza popular española [Wikipedia](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg)
+* Pegatina contraportada BFF por [brgfx](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm)
 
 
 \sp
@@ -766,10 +767,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 \conc
 
-\sp
-
-&nbsp;
-
 ***
 
 &nbsp;
@@ -789,3 +786,4 @@ _AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niños_
 Creado por [Gwannon](https://linktr.ee/gwannon)
 
 ![](./assests/images/prohibido.png)
+![](./assests/images/0wum_0ffy_211014.jpg)
