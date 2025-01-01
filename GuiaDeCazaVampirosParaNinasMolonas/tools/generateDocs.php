@@ -26,7 +26,7 @@ $html = str_replace("<div class=\"columns\">\n</div>", "", $html);
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
 
-$counter = 3;
+$counter = 4;
 $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   global $counter;
   if ($counter%2 == 0) $matches[0] = '"saltopagina even" id="anchor'.$counter.'"';

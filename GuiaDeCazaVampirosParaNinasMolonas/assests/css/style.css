@@ -614,7 +614,7 @@ body {
   color: var(--color-bic);
   position: absolute;
   bottom: 20px;
-  left: 10px;
+  right: 10px;
   width: var(--size);
   height: var(--size);
   z-index: 10;
@@ -623,8 +623,8 @@ body {
 }
 
 .saltopagina.odd:after {
-  right: 10px;
-  left: auto;
+  left: 10px;
+  right: auto;
 }
 
 /* Imagenes */

@@ -1,5 +1,5 @@
 
-# Introducción
+# Soy una cazavampiros
 
 \sinc
 
@@ -49,12 +49,15 @@ Pues tras muchos meses de estudio no he podido encontrar una respuesta clara. Ha
 Estas son las que veo más probables:
 
 * **Maldición:** hay varias opciones en cuanto a su época, ~~mesopotopomica~~ mesopotámica, egipcia o etrusca y casi siempre tiene toque bíblico, donde castiga con el vampirismo a un malo malísimo.
+* **Siervos de la Muerte:** otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chaval o Hades el-machista-secuestra-persefones. Esto explicaría por qué la luz del día los mata.
 * **Aliens:** los vampiros no son de este mundo, vienen del espacio exterior y por eso son tan diferentes a nosotros los humanos. La teoría de los astronautas vampiros ancestrales está muy de moda y pueden escuchar más en muchos de los podcasts que lo tratan.
-* **Mutación/enfermedad:** puede que sean producto de una mutación o enfermedad como en Blade.
+* **Mutación/enfermedad:** puede que sean producto de una mutación o enfermedad como en Blade. Igual al principio solo bebían sangre humana por vicio, como mis padres con las morcillas del pueblo, y terminaron cogiendo algo chungo. Casarse entre primos también puede hacer esas cosas, o eso dice mi padre cuando sale el Rey en la tele.
 
-Si tienes tu propia teoría mándame un MD explicándomela, igual estamos ante la verdad.
+[![Retrato de Vlad III](./assests/images/Vlad_Tepes_002.jpg "Retrato de Vlad III")](https://www.deviantart.com/zeilyan/art/Rain-574414420 "Retrato de Vlad III")
 
-\sc
+* **Descendientes de Drácula:** no es la más lógica, aunque ninguna de las anteriores es mucho mejor, pero puede que todos los vampiros provengan de Vlad Dracul, el supuesto "vampiro original". La pregunta es _quién convirtió a Drácula en vampiro_.
+
+> Si tienes tu propia teoría mándame un MD explicándomela, igual estamos ante la verdad.
 
 \sp
 
@@ -62,11 +65,17 @@ Si tienes tu propia teoría mándame un MD explicándomela, igual estamos ante l
 
 ## ¿Cómo son?
 
-xxx
+De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. xxx
+
+Pero en su forma real, denominada forma _Trash_, son feos a rabiar. Su piel es gomosa, sus ojos saltones y demasiado juntos y sus dedos alargados y ganchudos. Van encorvados y no paran de moverse.
+
+De normal van en su forma Crush, pero el Trash sale cuando sienten miedo, son heridos o se cabrean mucho. 
+
+Odian esta forma y si bien son más poderosos a nivel físico, también son más tontos y se les puede engañar más fácilmente. Además, sus poderes de Crush desaparecen.
 
 \conc
 
-_Normalmente los vemos así_
+_CRUSH: Normalmente los vemos así_
 
 [![Rain By Zeilyan](./assests/images/rain_by_zeilyan_d9hzp04-414w-2x.jpg "Rain By Zeilyan")](https://www.deviantart.com/zeilyan/art/Rain-574414420 "Rain By Zeilyan")
 
@@ -74,11 +83,21 @@ No te putopilles
 
 \sc
 
-_En realidad son así_
+_TRASH: En realidad son así_
 
 [![Nosferatu By Rachaurux](./assests/images/nosferatu_by_rachaurux_d21yhcn-414w-2x.jpg "Nosferatu By Rachaurux")](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759 "Nosferatu By Rachaurux")
 
 \sinc
+
+\conc
+
+Pueden tener muchas formas, altos, bajos, mazados, fibrosos, rubios, morenos, rapados (que no calvos). La realidad es que pueden ser de cualquier forma, desde ligeros y ágiles cantantes pop a poderosas amazonas racializadas.
+
+\sp
+
+\sinc
+
+[![Amazing blonde woman posing at halloween party with blood. charming vampire with black makeup by lookstudio](./assests/images/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_197531-15826.jpg "Amazing blonde woman posing at halloween party with blood. charming vampire with black makeup by lookstudio")](https://www.freepik.com/free-photo/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_12778014.htm "Amazing blonde woman posing at halloween party with blood. charming vampire with black makeup by lookstudio")
 
 \conc
 
@@ -98,6 +117,14 @@ Una víctima de vampirismo suele presentar unos síntomas básicos muy parecidos
 
 Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar principalmente en esos sitios marcas de mordiscos. Las muñequeras de pinchos y los chokers de cuero son una buena protección, porque cubren esas 2 zonas.
 
+### ¿Puedes consumir sangre de vampiro?
+
+Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar. El efecto dura unos minutos (escena).
+
+El problema es que después te deja muy doblada. Y tras unos minutos (siguiente escena) terminas devolviendo toda la sangre tomada y vuelves a estar normal. Ya os digo que esa vomitona es de lo peor que puede pasarte.
+
+No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosa que otras.
+
 \sp
 
 \sinc
@@ -105,6 +132,12 @@ Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar pri
 ## ¿Dónde duermen?
 
 \conc
+
+xxx
+
+No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
+
+Siempre que puedas jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
 
 xxx
 
@@ -116,25 +149,29 @@ xxx
 
 ## ¿Cómo matarlos?
 
-La verdad que para ser seres inmortales y superpoderosos, los vampiros tienen muchs debilidades muy estupidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
+La verdad que para ser seres inmortales y superpoderosos, los vampiros tienen muchas debilidades muy estúpidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
 
 \conc
 
 ### Estacas de madera
 
-xxx
+La tradición marca que un vampiro muere si su corazón es atravesado por una estaca de madera y es totalmente cierto. 
 
-Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, pero si puedes, COMPRA EN LOCAL :)
+Lo que pasa es que es algo muy complicado, debe estar dormido o inmovilizado para hacerlo. Bueno, si cae sobre una valla de madera igual alguna de las tablas atraviesa su corazón. Sea como sea es una medida bastante fiable de que no volverá a molestar.
 
 [![Estacas de Amazon](./assests/images/estacas.jpg "Estacas de Amazon")](https://www.amazon.es/encuestas-pulgadas-construcci%C3%B3n-topograf%C3%ADa-utilidades/dp/B0C6K6YVZ5 "Estacas de Amazon")
 
-La combinación estaca en el corazón + corta cabeza es lo más afectivo. De hí si que retorna ninguno. El problema es que cortar un cuello es muy dificil con el cuchillo jamonero.
+La combinación estaca en el corazón + cortar cabeza es lo más afectivo. De ahí sí que retorna ninguno. El problema es que cortar un cuello es muy difícil con el cuchillo jamonero.
+
+Quemar el cuerpo después de estarlo puede funcionar, pero se montan unos fuegos artificiales muy chungos.
+
+Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, pero si puedes, COMPRA EN LOCAL :)
 
 ### Ajo
 
-xxx
+El ajo no solo repele a los chupasangres, el contacto les hace daño y puede ser mortal si consigues que lo ingieran. Métele una cabeza de ajo en la boca y verás fuegos artificiales de sesos de sanguijuela.
 
-El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico.
+El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico. Pero por experiencia te dire que el pan con ajo del Telepi ni lo huelen. 
 
 #### Te de ajo
 
@@ -144,25 +181,27 @@ La receta es simple, una cabeza de ajo por cada 2 litros de agua y ponerlo al 5 
 
 ###  Fuego purificador
 
-xxx
-
-### Luz del día
-
-La luz del día es mortal para estas sanguijuelas. Unos pocos segundos expuestos a la luz solar y se convierte en cenizas. Así que tus operaciones deberían ser de día, cuando son más débiles.
-
-xxx
-
-Siempre que te muevas por una de sus guaridas trata de abrir ventanas y quitar papeles de los cristales y descorrer cortinas (como les gustan los cortinones de abuela). Cuanta más luz entre más seguro será para tí.
-
-Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo. Puedes quedar de rarita llevando una en la mochila, pero además de dañar a los vampiros puedes usarlas para detectar fluidos como sangre.
+El fuego también es mortal, pero la verdad es bastante ingobernable y puedes acabar quemando todo el barrio. Y encima luego viene la policía a investigar el incendio.
 
 \sp
 
+Lo bueno es que conseguir fuego es fácil, un mechero y gasofa y tienes fuego. 
+
+En serio, úsalo como último recurso.
+
+### Luz del día
+
+La luz del día es mortal para estas sanguijuelas. Unos pocos segundos expuestos a la luz solar y se convierte en cenizas. Así que tus operaciones deberían ser de día, cuando duermen y son más débiles.
+
+Siempre que te muevas por una de sus guaridas trata de abrir ventanas, quitar papeles de los cristales y descorrer cortinas (cómo les gustan los cortinones de abuela). Cuanta más luz entre más seguro será para ti.
+
+Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo y dañan a los vampiros, pero no son tan mortales como la luz del sol. Puedes quedar de rarita llevando una en la mochila, pero es que además de dañar a los vampiros puedes usarlas para _detectar fluidos como sangre_.
+
 ### Agua bendita
 
-El agua bendita es igual de efectiva que el ajo y encima es facil de conseguir. Entras en la parroquía de San Julían sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
+El agua bendita es igual de efectiva que el ajo y encima es facil de conseguir. Entras en la parroquia de San Julián sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
 
-El problema del agua bendita es que el sacerdote que la bendiga debe creer y tener fe y, por tanto, puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso.
+El problema del agua bendita es que el sacerdote que la bendiga debe creer y tener fe y, por tanto, puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso. Si encuentras una iglesia con agua bendita real, tienes un tesoro porque son muy raras.
 
 ### Plata
 
@@ -178,6 +217,8 @@ Las balas de plata serían realmente útiles, pero las menores no tenemos acceso
 
 > Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
 
+\sp
+
 Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la 
 
 ### Cosas que he probado y no funcionan
@@ -188,11 +229,8 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 * Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
 * Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la pólvora caduca. Los hermanos mayores son una buena fuente de petardos.
 
-\sp
-
 * Los extintores ni los notan.
-* Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan. 
-* xxx
+* Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan.
 
 \sc
 
@@ -206,6 +244,18 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 
 xxx
 
+Detrás de todo plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De echo, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
+
+Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
+
+xxx
+
+### El ego
+
+El ego de un Lieges Vampiros es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
+
+xxx
+
 \sc
 
 \sp
@@ -214,11 +264,21 @@ xxx
 
 ## ¿Cómo se defienden?
 
+Se defiende de nosotras de dos formas bien diferenciadas. Primero descredito social y si eso falla pasan a lo físico.
+
 \conc
+
+### Ataques sociales
 
 xxx
 
 \sc
+
+### Ataques físicos
+
+xxx
+
+> Siempre que sea posible un Liege Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odían. siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
 
 \sp
 
@@ -226,39 +286,43 @@ xxx
 
 ## ¿Cómo puedes defenderte de ellos?
 
-xxx
+No solo debes acabar con los vampiros y frustrar sus planes, es importante salir viva y a poder sin recibir daño. Es por ello que debes saber como defenderte de esas malditas sanguijuelas.
 
 \conc
 
 ### Ajo
 
-xxx
+Una buena ristra de ajos alrededor del cuello te da bastante protección pero si están muy enfadados o hambrientos no les detendrá.
+
+Tampoco sirve de nada con los sirvientes a los que no les afecta el ajo.
 
 > No compres grandes cantidades de ajos en supers o por internet. Vigilan todas esas compras. La tienda de encurtidos de tu calle es mucho mejor. Así que como digo siempre COMPRA LOCAL.
 
 ### Reflejo en el espejo
 
-Los vampiros no se reflejan en los espejos, pero solo en los viejos que debían tener algo de plata. Los modernos tienen aluminio y en esos se reflejan. Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaría y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
+Los vampiros no se reflejan en los espejos, pero solo en los viejos que debían tener algo de plata. Los modernos tienen aluminio y en esos se reflejan.
 
-xxx
+Eso convierte a estos viejos espejos de plata en los perfectos detectores de vampiros, sobre todo cuando en su modo Crush.
+ 
+Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaría y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
+
+Si se rompen los trozos de cristal, estos tienen plata y pueden usarse como arma.
 
 ### Invitación a entrar
 
 Las sanguijuelas no pueden entrar en una casa si no son invitados así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. Así el tonto de mi hermano no invita a entrar a quien no debe.
 
-xxx
+La invitación es personal, así que solo le vale al vampiro al que se la diste, ni sus siervos ni su Liege están cubiertos en esa invitación 
+
+Si el vampiro rompe en tu casa las leyes de hospitalidad se puede revocar la invitación, pero vamos es difícil revocar algo si primero te han roto el cuello.
 
 ### Entrenamiento de combate
 
-xxx
+Puedes pensar que las MMA, el Brazilian Jiujitsu y mierdas similares te vendrán bien en tu batalla contra los chupasangres, pero no merecen la pena. No tienes ni el tiempo, ni el peso ni la fuerza para ser un peligro. Además, los gimbros se reiran de ti.
 
-> Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
+Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
 
-### ¿Puedes consumir sangre de vampiro?
-
-Puedes, otra cosa es que debas. Beber sangre de vampiro te dan superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar, pero te deja baldado cuando se termina el efecto.
-
-xxx
+\sp
 
 ### Gafas de sol
 
@@ -268,6 +332,8 @@ La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un
 
 TUS AMIGAS. No hay más.
 
+\sc
+
 \sp
 
 \sinc
@@ -276,7 +342,7 @@ TUS AMIGAS. No hay más.
 
 \conc
 
-Los siervos, ghouls, thralls, renfields son xxx
+Los siervos, ghouls, thralls, renfields son diferentes nombres a traves del tiempo y las tradiciones de lo que yo llamo _chupones_. Los chupones son humanos que sirven a los vampiros, bien como herramientas de su planes, bien como siervos o protectores.
 
 xxx
 
@@ -324,15 +390,17 @@ xxx
 
 ## Defínete como cazadora de vampiros
 
+Saber cuales son tus puntos fuertes y debiles como cazadora de vampiros te ayuda a saber qu puedes hacer y que no y a que puedes enfrentarte y a que no.
+
 \conc
 
 ### Estilos
 
-Salvo contadas excepciones, como Sara de mi clase, no somos muy fuertes con lo que no deberiamos tener un estilo Vigoroso a nivel Grande y si Bueno solo en casos muy especiales. 
+Salvo contadas excepciones, como Sara de mi clase, no somos muy fuertes con lo que no deberíamos tener un estilo Vigoroso a nivel Grande y si Bueno solo en casos muy especiales. 
 
 ### Aspectos
 
-Uno de tus tres aspectos secundarios debería ser _Soy una niña_, que refleja no tienes ni 12 años. Eso supone, entre otras muchas cosas, que no eres ni muy fuerte, ni muy alta, ni corres muy deprisa, pero puedes esconderte más facilmente y meterte en sitios donde no entran los adultos.
+Uno de tus tres aspectos secundarios debería ser _Soy una niña_, que refleja no tienes ni 12 años. Eso supone, entre otras muchas cosas, que no eres ni muy fuerte, ni muy alta, ni corres muy deprisa, pero puedes esconderte más fácilmente y meterte en sitios donde no entran los adultos.
 
 #### Ganarse la vida en el barrio
 
@@ -358,13 +426,13 @@ Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vid
 Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, podéis evaluar, pero no deberías aceptar aquellas que vayan en contra de los derechos de la infancia como prostitución infantil.
 ```
 
+\sp
+
 #### ¿En qué eres bueno en el cole?
 
 Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
 
-\sp
-
-Ser buena en matematicas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una maquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
+Ser buena en matemáticas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una máquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
 
 \sc
 
@@ -376,7 +444,7 @@ Ser buena en matematicas puede ayudarte a revisar un libro de cuentas y encontra
 
 \conc
 
-Hay un montón de cosas utiles cuando cazas vampiros, pero normalmente pocas puedes comprarlas con tu semanada. Así que has de aprovechar cupleaños y Navidades para pedirlos. 
+Hay un montón de cosas útiles cuando cazas vampiros, pero normalmente pocas puedes comprarlas con tu semanada. Así que has de aprovechar cumpleaños y Navidades para pedirlos. 
 
 No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porque no son cosas de niñas (mimimimi), así que aquí tienes cosas que puedes pedir que te regalen y no levantan sospechas en los adultos.
 
@@ -384,47 +452,58 @@ No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porqu
 
 ### Pistolas de agua
 
-Tu pistola de agua cargada de té de ajo es tu arma más poderosa contra las sanguijuelas.
+¡¡¡Benditas pistolas de agua cargadas de te de ajo o de agua bendita!!! _Son tu arma más poderosa_ además de tu cerebro contra los vampiros. encima cientos de personas de todo el mundo gastan un estupido número de horas en mejorarlas. Hay cientos de vídeos explicando como hacer más efectiva tus pistols, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampirica que amenaza nuestros barrios y ciudades.
 
-xxx
+Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el verano y las tiendas de juguetes se llenan de flotadores, colchonetas y churros de piscina, coge uno de sus catálogos y disfruta pensando cual vas a comprarte para tu próxima misíon.
+
+### Globos de agua
+
+**La versión vampirica de las granadas.** Estos 2 centimos de plástico son devastadores en esos asquerosos bichejos si consigues impactarles. El problema es que son grandes y pesados y bastante fragiles. 
+
+Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con globos de agua y buscarás la forma llebar un globo con el agua de tu pistola.
 
 ### Walkie-talkie
 
-Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkie para comunicarte con tus sistars. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
+Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus sistars. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
 
-Si solucionarán lo del cambio y corto (mi tio se puso muy pesado con eso cuando me enseño a usarlo) serían la leche.
+Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuando me enseño a usarlo) serían la leche. Pero vamos Es de las primeras cosas que debes conseguir cuando salgas a cazar acompañada de tu panda.
+
+\sp
 
 ### Navaja suiza
 
-xxx
+Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir ltas y quitar chapas, ... recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
+
+_Cuantas más opciones mejor_, pero las básicas ya son muy útiles y muy escondibles y tampoco es tan raro ver una niña con una pequeña navaja multiusos. 
 
 Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, ... en general material de montaña.
 
 Me puse a ver todos los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. Quizás con unos padres menos responsables puedes conseguirlo.
 
+Si la sacas delante de un adulto, se podrán a taraear un tema de una serie viejuner y alguno pedirá un chicle y un clip. Pase de preguntar, los boomers son raros.
+
+
 ### Protecciones deportivas
 
-Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, cascos, muñequeras, coderas, rodilleras, ... 
+Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras, coderas, rodilleras, ... **
 
-xxx 
+Estas protecciones no te protegen de vampiros que siempre van a tus partes blandas, pero son buenas para caidas y golpes y llegar a casa llena de rasgunos y morados y no tener que dar excusas a preguntas de tus padres.
+
+\sc
 
 ### Sudaderas con choto
 
 Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tú cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
 
-\sp
-
-Junto al pantalón de chándal y unas deportivas es el look perfecto de la cazavampiros.
+Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
 ### Muñequeras y chokers de pinchos
 
-xxx
+Como ya te he contado los vampiros chupan la sangre principalmente de cuello y muñecas, así que unas protecciones de cuero con pinchos metálicos (ojalá fueran de plata las mías) son muy eficaces.
 
-Si tu look es un poco alternativo, podrás llevar estos complementos sin dar mucho el cante.
+Si tu outfit es un poco alternativo, podrás llevar estos complementos sin dar mucho la nota. 
 
-También puedes pedirlo como parte de un disfraz de Halloween.
-
-\sc
+En las ferias medievales tienen mucha selección, con cuero bueno y pinchos bien afilados. También puedes pedirlo como parte de un disfraz de Halloween o robárselo a tu tío, el heavy trasnochado.
 
 \sp
 
@@ -476,29 +555,51 @@ Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizá
 
 ## Las sistars
 
-\conc
-
 xxx
 
-Tu pandilla puede ser otra fuente importante de aspectos secundarios, quizas tengas una relación especial con una de ellas o seais familia. Si has dejado algún aspecto sin definir puede que al principio de tus aventuras puedas rellenarlo cuando las conozcas más a fondo.
+\conc
+
+```
+La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellass o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus sistars más a fondo.
+```
 
 ### Las reglas de la panda
 
-xxx
+Los grupos de cazadoiras
 
 1. BBF. Mejores amigas para siempre.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Ni una más.
 
-### Un lugar de reunión
+### Cómo montar y organizar el grupo
 
 xxx
+
+> Este es el sistema que a mi me funciona con mis sistars, pero igual no es el mejor para tu grupo de cazadoras, así que tomalo más como un ejmplo que como una guía que seguir.
+
+### Un lugar de reunión
+
+Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el pplan vampirico en curso. 
+
+> Hacedme caso, el panel de corcho con chinchetas y lacitos es lo más putoútil que podeís tener.
+
+Al principio tendréis que reuniros en algún soportal cubierto de un psatio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
+
+* Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
+* Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
+
+\sp
+
+* Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
+* Quizás haya **una casa abondonada** en el barrio. Es una opción pero saegurarros de que no hay ni drogatas ni vampiros. No son seguras, asi que nada de guardar cosas de valor. 
 
 ### No puede faltar una mascota
 
 La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
 
 En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
+
+\sc
 
 \sp
 
@@ -546,7 +647,7 @@ xxx
 
 Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics.
 
-Simplemente es un divertimento que surgió de un personaje de Los Green en la ciudad. Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
+Simplemente es un divertimento que surgió de un personaje de "Los Green en la ciudad". Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
 
 A partir de ahí pensé que sería divertido jugar con una niña como Andrómeda y una cosa llevo a otra y aquí tienes esta aventura.
 
@@ -572,7 +673,7 @@ Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](ht
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
-Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviarmelas. Estaré encntado de estudiarlas y poneros como betatesters en los créditos. 
+Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
 
 \sinc
 
@@ -590,6 +691,8 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviarme
 * Decálogo de la cazadora de vampiros basado en [esta hilo de rpg.net](https://forum.rpg.net/index.php?threads/rules-of-vampire-hunting.139264/)
 * Denarios de plata de la [Wikipedia](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg) Creative Commons Attribution-Share Alike 2.5 Generic 
 * [borderize.com](https://borderize.com/)
+* Vampira con copa de sangre por [lookstudio](https://www.freepik.com/free-photo/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_12778014.htm)
+* Retrato de Vlad Tepes [Wikipedia](https://es.wikipedia.org/wiki/Vlad_el_Empalador#/media/Archivo:Vlad_Tepes_002.jpg)
 
 \sp
 
@@ -657,7 +760,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 ***
 
-Guía de Cazavampiros para niñas molonas __por Beta de Cantaverno__
+Guía de Cazavampiros para niñas molonas __por Berta de Cantaverno__
 
 Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado. Este libro contiene:
 
