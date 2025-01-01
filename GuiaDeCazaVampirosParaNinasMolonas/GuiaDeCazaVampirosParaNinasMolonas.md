@@ -197,6 +197,8 @@ Siempre que te muevas por una de sus guaridas trata de abrir ventanas, quitar pa
 
 Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo y dañan a los vampiros, pero no son tan mortales como la luz del sol. Puedes quedar de rarita llevando una en la mochila, pero es que además de dañar a los vampiros puedes usarlas para _detectar fluidos como sangre_.
 
+[![Cuatro modelos de pililla benditera o aguabenditeras de loza popular española. ](./assests/images/Benditeras_españolas_(XVIII_al_XX).jpg "Cuatro modelos de pililla benditera o aguabenditeras de loza popular española. ")](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg "Cuatro modelos de pililla benditera o aguabenditeras de loza popular española. ")
+
 ### Agua bendita
 
 El agua bendita es igual de efectiva que el ajo y encima es facil de conseguir. Entras en la parroquia de San Julián sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
@@ -215,9 +217,9 @@ Tengo la teoría que cuanto más vieja más efectiva es la plata, así que compr
 
 Las balas de plata serían realmente útiles, pero las menores no tenemos acceso a este material. Por eso, estas vacaciones, igual, tengo tiempo de probar con un tirachinas con cuentas de plata. Seguro que si impacto en la cabeza de unos chupasangres, le dejo inconsciente lo suficiente para trincharle el corazón con una estaca. 
 
-> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
-
 \sp
+
+> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
 
 Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la 
 
@@ -244,7 +246,7 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 
 xxx
 
-Detrás de todo plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De echo, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
+Detrás de todo plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
 
 Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
@@ -354,21 +356,33 @@ xxx
 
 ## Bibliografía para cazavampiros
 
+Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información. Ninguno tiene toda la verdad, pero cogiendo cositas de uno de ellos puedes tener una visión bastante cercana a la realidad.
+
+Este listado es abierto. Si conoces algun buen libro o peli, mandamelo a mis redes y miraré de meterlo.
+
 \conc
 
-Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información.
+### Libros
 
-* **Drácula de Bran Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
+* **Drácula de Bram Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
 * **Carmilla de Joseph Sheridan Le Fanu.** PEC Difícil de encontrar y muy corto, necesito una segunda parte ya.
+
+### Películas
+
 * **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y otra que si tiene sonido y mucha calidad. La que encuentres.
 * **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mi tío. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
 * **Saga Crepúsculo.** Pura propaganda vampira. _NO VER NUNCA_
+* **Salem's Lot.** Hay libro, pero habiendo peli, mejor peli. En esta peli se ve como todo vampiro tiene un plan de dominación.
+
+### Series
+
 * **Monster High.** Perfectas para verla con tus amigas y tantear lo que piensan de Vampilaura y los de su calaña.
 * **Lo que hacemos en las sombras.** La tendrás que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propaganda vampira. Quieren que creas que son unos imbéciles trasnochados, pero ES MENTIRA. 
 
-xxx
+### Podcasts y página webs
 
-\sc
+* **Cuentos de la casa de la bruja.** Muchos audiolibros de libros clásico como [Drácula de Bram Stoker](https://www.ivoox.com/podcast-cuentos-de-la-casa-de-la-bruja_sq_f1421745_1.html).
+* **tododevampiros.com.** [Página web](https://www.tododevampiros.com/) con contenido super interesante y extraño.
 
 \sp
 
@@ -693,6 +707,8 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * [borderize.com](https://borderize.com/)
 * Vampira con copa de sangre por [lookstudio](https://www.freepik.com/free-photo/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_12778014.htm)
 * Retrato de Vlad Tepes [Wikipedia](https://es.wikipedia.org/wiki/Vlad_el_Empalador#/media/Archivo:Vlad_Tepes_002.jpg)
+* Cuatro modelos de pililla benditera o aguabenditeras de loza popular española [Wikipedia](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg)
+
 
 \sp
 
