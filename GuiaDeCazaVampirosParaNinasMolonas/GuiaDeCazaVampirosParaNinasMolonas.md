@@ -284,6 +284,16 @@ xxx
 
 \sp
 
+### Sirvientes humanos
+
+Los siervos, ghouls, thralls, renfields son diferentes nombres a traves del tiempo y las tradiciones de lo que yo llamo _chupones_. Los chupones son humanos que sirven a los vampiros, bien como herramientas de su planes, bien como siervos o protectores.
+
+xxx
+
+\sc
+
+\sp
+
 \sinc
 
 ## ¿Cómo puedes defenderte de ellos?
@@ -333,20 +343,6 @@ La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un
 ### ¿Aliados?
 
 TUS AMIGAS. No hay más.
-
-\sc
-
-\sp
-
-\sinc
-
-## Sirvientes humanos
-
-\conc
-
-Los siervos, ghouls, thralls, renfields son diferentes nombres a traves del tiempo y las tradiciones de lo que yo llamo _chupones_. Los chupones son humanos que sirven a los vampiros, bien como herramientas de su planes, bien como siervos o protectores.
-
-xxx
 
 \sc
 
