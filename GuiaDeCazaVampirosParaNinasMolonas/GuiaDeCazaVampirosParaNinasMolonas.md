@@ -128,7 +128,7 @@ Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar pri
 
 #### Territorios de caza
 
-Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de caza son discotecas, salas de conciertos y gimnasios de alto standing. No te fies de monitores de gimnasio y de camareros de disco, suelen ser sirvientes.
+Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de caza son discotecas, salas de conciertos y gimnasios de alto standing. No te fíes de monitores de gimnasio y de camareros de disco, suelen ser sirvientes.
 
 ### ¿Puedes consumir sangre de vampiro?
 
@@ -150,7 +150,7 @@ xxx
 
 No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Se contratan por internet y la mayoría de las veces ni aparece el dueño a abrirte. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
 
-Siempre que puedas jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
+Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
 
 xxx
 

@@ -6,3 +6,8 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen general material de montaña.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEstos 2 céntimos de plástico son devastadores en esos asquerosos bichejos si consigues impactarles.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QBenditas pistolas de agua cargadas de té de ajo o de agua bendita!!!\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QPUTOS VAMPIROS!!!!\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcharming vampire with black makeup by lookstudio\\E$"}
+{"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\QRecuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qestate segura de que son malditos vampiros.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QSiervos de la Muerte: otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chaval o Hades el-machista-secuestra-persefones.\\E$"}
