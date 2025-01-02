@@ -11,3 +11,5 @@
 {"rule":"ES_MULTITOKEN_SPELLING_TWO","sentence":"^\\QRecuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qestate segura de que son malditos vampiros.\\E$"}
 {"rule":"EL_TILDE","sentence":"^\\QSiervos de la Muerte: otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chaval o Hades el-machista-secuestra-persefones.\\E$"}
+{"rule":"ORDINAL_CHAR","sentence":"^\\QRecuerda el 7° mandamiento de la cazavampira molona.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QLas cosas bañadas en plata son tan útiles como si fueran de plata y MUCHO MÁS BARATAS!!!!!\\E$"}

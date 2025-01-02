@@ -64,7 +64,7 @@ Estas son las que veo más probables:
 
 ## ¿Cómo son?
 
-De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. xxx
+De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. Puedes de cualquier forma no hay un patrón, pero siempre están más pálidos de lo normal y no suelen tener casi bello corporal y es facil detectarlo, porque son muy dados a enseñar cacho.
 
 Pero en su forma real, denominada forma _Trash_, son feos a rabiar. Su piel es gomosa, sus ojos saltones y demasiado juntos y sus dedos alargados y ganchudos. Van encorvados y no paran de moverse.
 
@@ -186,7 +186,7 @@ El ajo no solo repele a los chupasangres, el contacto les hace daño y puede ser
 
 El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico. Pero por experiencia te diré que el pan con ajo del Telepi ni lo huelen. 
 
-#### Te de ajo
+#### Té de ajo
 
 Mi mayor descubrimiento en mi carrera de cazavampiros es el té de ajo. Esta infusión de ajo es capaz de dañar a los vampiros como si fuera agua bendita o fuego.
 
@@ -243,7 +243,6 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 * No te fíes de tu abuela cuando te diga que su cubertería es de plata, la mayoría son de alpaca plateada y no sirven contra los vampiros.
 * Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
 * Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la pólvora caduca. Los hermanos mayores son una buena fuente de petardos.
-
 * Los extintores ni los notan.
 * Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan.
 
@@ -507,7 +506,6 @@ Me puse a ver todos los programas de MasterChef Junior, a ver si conseguía que 
 
 Si la sacas delante de un adulto, se podrán a tararear un tema de una serie viejuner y alguno pedirá un chicle y un clip. Pase de preguntar, los boomers son raros.
 
-
 ### Protecciones deportivas
 
 Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras, coderas, rodilleras, ... **
@@ -722,7 +720,6 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Retrato de Vlad Tepes [Wikipedia](https://es.wikipedia.org/wiki/Vlad_el_Empalador#/media/Archivo:Vlad_Tepes_002.jpg)
 * Cuatro modelos de pililla benditera o aguabenditeras de loza popular española [Wikipedia](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg)
 * Pegatina contraportada BFF por [brgfx](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm)
-
 
 \sp
 
