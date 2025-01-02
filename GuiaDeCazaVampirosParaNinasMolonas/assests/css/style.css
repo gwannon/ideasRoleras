@@ -70,7 +70,8 @@ h3 {
 }
 
 .columns > h3:first-child,
-.columns > h2:first-child {
+.columns > h2:first-child,
+.saltocolumna + h3 {
   margin-top: 0px;
 }
 

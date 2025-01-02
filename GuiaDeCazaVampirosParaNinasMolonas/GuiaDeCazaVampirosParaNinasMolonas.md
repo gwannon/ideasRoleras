@@ -102,9 +102,9 @@ Pueden tener muchas formas, altos, bajos, mazados, fibrosos, rubios, morenos, ra
 
 ### Alimentación
 
-Los vampiros beben exclusivamente sangre fresca de humanos xxx
+Los vampiros beben exclusivamente sangre fresca de humanos. No toleran otros tipos de sangre y no debe haber pasado más de 12 horas de su extracción. Con lo que tampoco les vale toda la sangre que hay en un banco, solo la recién extraída.
 
-Los vampiros, si están asentados y no tienen problemas, suelen beber sangre unas tres veces a la semana. Pero en casos de necesidad pueden subsistir con una vez semanal.
+Un nosferatu medio, si está asentado y no tiene problemas, suele beber sangre unas tres veces a la semana. Pero en casos de necesidad puede subsistir con una vez a la semana, pero pasará mucha sed, hambre, ... lo que sea. Normalmente cuando están hambrientos no pueden acceder a su forma Crush, se guían más por sus instintos y la forma Trash sale a la luz todo el rato.
 
 El proceso de alimentación no suele ser rápido y necesitan un par de minutos mientras chupan a su víctima hasta quedarse llenos. La ventaja es que son tremendamente vulnerables en esta situación con lo que es un buen momento para atacar.
 
@@ -118,9 +118,9 @@ Es un rollo marichulo de "soy un alfa" y mis bros no me pueden ver con una víct
 
 Una víctima de vampirismo suele presentar unos síntomas básicos muy parecidos a una gripe chunga, debilidad general, mal color, falta de apetito, vómitos y algunas veces diarrea.
 
-Si la víctima no se aleja del vampiro, yéndose, por ejemplo, a otra ciudad, o el vampiro muere (cosas de la que tú deberás encargarte), terminará muriendo por alguna enfermedad común agravada por su anemia vampírica. 
-
 \sp
+
+Si la víctima no se aleja del vampiro, yéndose, por ejemplo, a otra ciudad, o el vampiro muere (cosas de la que tú deberías encargarte), terminará muriendo por alguna enfermedad común agravada por su anemia vampírica. 
 
 Si muere, el vampiro o sus sirvientes se encargarán de dejar pruebas que expliquen su muerte, desde drogas escondidas en su cuarto a pruebas de una TCA. Son extremadamente creativos en esta mierda y sé que disfrutan mucho con esta parte. PUTOS VAMPIROS!!!!
 
@@ -128,7 +128,11 @@ Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar pri
 
 #### Territorios de caza
 
-Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de caza son discotecas, salas de conciertos y gimnasios de alto standing. No te fíes de monitores de gimnasio y de camareros de disco, suelen ser sirvientes.
+Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de caza son discotecas, salas de conciertos y gimnasios de alto standing. No te fíes de monitores de gimnasio y de camareros de disco, suelen ser sirvientes. Aun así no te confíes, cualquiera puede ser un vampiro y su territorio de caza ser desde un centro comercial a un parque infantil donde seduce a padres y madres solteros y divorciados haciéndose pasar por otra desdichada alma solitaria.
+
+Si es lo suficientemente rico y poderoso, deja de cazar y simplemente espera en su mansión a sus sirvientes le traigan víctimas que desangrar. Aun así cada cierto tiempo, sienten la necesidad de salir a cazar solos. Les gusta la emoción de la caza y perseguir a su presa. Ese es un buen momento para acabar con las sanguijuelas que están más protegidas.
+
+\sc
 
 ### ¿Puedes consumir sangre de vampiro?
 
@@ -146,15 +150,27 @@ No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero segura
 
 \conc
 
-xxx
+La imagen clásica del vampiro en un ataúd con tierra de su país de origen está bastante alejada de la realidad. No necesitan ninguna de esas cosas, solo un _sitio seguro_ y donde _no entre la luz del sol_. Puedes dormir en una cama supergótica con doseles y cortinajes supergruesos o dentro de una compleja caja metálica anti-cazavampiros en una habitación del pánico. En caso de necesidad, colgando bocabajo de la viga de un desván o arrebujados en un conducto de ventilación de un garaje subterráneo. 
 
-No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Se contratan por internet y la mayoría de las veces ni aparece el dueño a abrirte. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
-
-Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
+Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad tienen montado un despacho donde duermen, o quizás tengan una alquilada una tienda en eternas reformas en el centro comercial donde se mueven.
 
 xxx
 
-\sc
+### Alcantarillado
+
+xxx
+
+Suelo sacar fotos de las alcantarillas y si cuando busco a una sanguijuela detecto que una alcantarilla está movida ya sé por donde ha intentado escapar. No es un método perfecto porque hay gente que las revisa y las mueve, pero es bastante efectivo.
+
+### Pisos turísticos
+
+No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Lo primordial es que no necesitan ser invitados porque no son el hogar de nadie. Se contratan por internet y la mayoría de las veces ni aparece el dueño a abrirte. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
+
+> Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
+
+### Protección de sus guaridas
+
+xxx
 
 \sp
 
