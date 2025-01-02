@@ -39,7 +39,7 @@ Los vampiros, nosferatus, chupasangres, sanguijuelas, ... han estado desde siemp
 
 Ahora veamos como son, de donde vienen y lo que es más importantes como devolverlos al infierno del que salieron reptando.
 
-## ¿De dónde vienen?
+## De dónde vienen?
 
 \conc
 
@@ -62,7 +62,7 @@ Estas son las que veo más probables:
 
 \sinc
 
-## ¿Cómo son?
+## Cómo son?
 
 De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. Puedes de cualquier forma no hay un patrón, pero siempre están más pálidos de lo normal y no suelen tener casi bello corporal y es facil detectarlo, porque son muy dados a enseñar cacho.
 
@@ -96,7 +96,7 @@ Pueden tener muchas formas, altos, bajos, mazados, fibrosos, rubios, morenos, ra
 
 \sinc
 
-[![Amazing blonde woman posing at halloween party with blood. charming vampire with black makeup by lookstudio](./assests/images/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_197531-15826.jpg "Amazing blonde woman posing at halloween party with blood. charming vampire with black makeup by lookstudio")](https://www.freepik.com/free-photo/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_12778014.htm "Amazing blonde woman posing at halloween party with blood. charming vampire with black makeup by lookstudio")
+[![Darker Than Tears By NanFe](./assests/images/darker_than_tears_by_nanfe_dcz7gnq-pre.jpg "Darker Than Tears By NanFe")](https://www.deviantart.com/nanfe/art/Darker-Than-Tears-784728854 "Darker Than Tears By NanFe")
 
 \conc
 
@@ -134,7 +134,7 @@ Si es lo suficientemente rico y poderoso, deja de cazar y simplemente espera en 
 
 \sc
 
-### ¿Puedes consumir sangre de vampiro?
+### Puedes consumir sangre de vampiro?
 
 Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar. El efecto dura unos minutos (escena).
 
@@ -146,7 +146,7 @@ No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero segura
 
 \sinc
 
-## ¿Dónde duermen?
+## Dónde duermen?
 
 \conc
 
@@ -158,7 +158,9 @@ xxx
 
 ### Alcantarillado
 
-xxx
+El alcantarillado el salvavivas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. suelen moverse ppor ellas hasta llegar a un colector donde buscará algún hueco o conducto donde esconderse para pasar el día.
+
+> Un buen mapa de las allcantarillas de tu barrio con sus colectores principales y como llegar a ellos es muy muy muy muy útil.
 
 Suelo sacar fotos de las alcantarillas y si cuando busco a una sanguijuela detecto que una alcantarilla está movida ya sé por donde ha intentado escapar. No es un método perfecto porque hay gente que las revisa y las mueve, pero es bastante efectivo.
 
@@ -168,15 +170,19 @@ No es la primera vez que usan pisos turísticos como guaridas temporales o perma
 
 > Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
 
+\sp
+
 ### Protección de sus guaridas
 
 xxx
+
+\sc
 
 \sp
 
 \sinc
 
-## ¿Cómo matarlos?
+## Cómo matarlos?
 
 La verdad que para ser seres inmortales y superpoderosos, los vampiros tienen muchas debilidades muy estúpidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
 
@@ -268,7 +274,7 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 
 \sinc
 
-## ¿Cómo frustrar sus planes?
+## Cómo frustrar sus planes?
 
 \conc
 
@@ -292,7 +298,7 @@ xxx
 
 \sinc
 
-## ¿Cómo se defienden?
+## Cómo se defienden?
 
 Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito social y si eso falla pasan a lo físico.
 
@@ -324,7 +330,7 @@ xxx
 
 \sinc
 
-## ¿Cómo puedes defenderte de ellos?
+## Cómo puedes defenderte de ellos?
 
 No solo debes acabar con los vampiros y frustrar sus planes, es importante salir viva y a poder sin recibir daño. Es por ello que debes saber como defenderte de esas malditas sanguijuelas.
 
@@ -368,7 +374,7 @@ Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu 
 
 La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un vampiro es no mirarles a los ojos. Pero como es complicado muchas veces para matarlos, unas gafas de sol pueden ayudar.
 
-### ¿Aliados?
+### Aliados?
 
 TUS AMIGAS. No hay más.
 
@@ -378,13 +384,29 @@ TUS AMIGAS. No hay más.
 
 \sinc
 
-## ¿Y si me convierto en vampiro?
+## Y si me convierto en vampiro?
+
+Pues estás jodida y no hay mucho que hacer. Tus sistars deberían darte una muerte digna para recordarte cuando todavía no eras una asquerosa sanguijuela asesina.
+
+Si estás sola, antes de caer, buscate un final que esos cabrones no olviden jamás. **Si vas caer que no sea sola.**
 
 \conc
 
-xxx
+### Cómo te transformas en vampiro?
 
-\sc
+Para acabar convertida en un vampiro es importante como se ese proceso.
+
+Lo primero es estar al borde de la muerte, más allá que acá. Puede ser porque te hayan chupado la sangre o por culpa de las heridas del combate.
+
+En ese momento, el vampiro puede decidir darte de beber de su sangre.
+
+Un cuerpo humano que bebe sangre vampírica la combate y la termina expulsando, de ahí la gran vomitona al de un rato de beberla. Pero si tú cuerpo está muy débil, no puede combatirla y está termina apoderándose de tí.
+
+En ese momento el proceso ya es irreversible, pero todavía no eres un vampiro, solo eres medio vampiro. Según pases los dias la sangre de vampiro irá poco a poco tomando el control de tí hasta que te obligue a beber sangre fresca. En ese momento ya eres un vampiro completo con todas sus fortalezas y debilidades.
+
+Normalmente, la primera vez que te alimentas suele ser un fiestón de sangre y miembros desmembrados, así que los casos de asesinatos más brutales suelen estar relacionados con vampiros noobs, aunque los medios traten de taparlo achacandolo a otras cosas.
+
+Los vampiros noobs son fáciles de cazar, así que aprovéchalos para entrenar a las nuevas reclutas de tu panda de cazadoras.
 
 \sp
 
@@ -466,7 +488,7 @@ Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de e
 
 \sp
 
-#### ¿En qué eres bueno en el cole?
+#### En qué eres bueno en el cole?
 
 Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
 
@@ -732,7 +754,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Decálogo de la cazadora de vampiros basado en [esta hilo de rpg.net](https://forum.rpg.net/index.php?threads/rules-of-vampire-hunting.139264/)
 * Denarios de plata de la [Wikipedia](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg) Creative Commons Attribution-Share Alike 2.5 Generic 
 * [borderize.com](https://borderize.com/)
-* Vampira con copa de sangre por [lookstudio](https://www.freepik.com/free-photo/amazing-blonde-woman-posing-halloween-party-with-blood-charming-vampire-with-black-makeup_12778014.htm)
+* Darker Than Tears By [NanFe](https://www.deviantart.com/nanfe/art/Darker-Than-Tears-784728854) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Retrato de Vlad Tepes [Wikipedia](https://es.wikipedia.org/wiki/Vlad_el_Empalador#/media/Archivo:Vlad_Tepes_002.jpg)
 * Cuatro modelos de pililla benditera o aguabenditeras de loza popular española [Wikipedia](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg)
 * Pegatina contraportada BFF por [brgfx](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm)
@@ -792,10 +814,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
-
-\sp
-
-&nbsp;
 
 ***
 
