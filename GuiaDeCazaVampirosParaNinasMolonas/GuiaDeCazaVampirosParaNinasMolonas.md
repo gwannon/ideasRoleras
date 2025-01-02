@@ -152,15 +152,25 @@ No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero segura
 
 La imagen clásica del vampiro en un ataúd con tierra de su país de origen está bastante alejada de la realidad. No necesitan ninguna de esas cosas, solo un _sitio seguro_ y donde _no entre la luz del sol_. Puedes dormir en una cama supergótica con doseles y cortinajes supergruesos o dentro de una compleja caja metálica anti-cazavampiros en una habitación del pánico. En caso de necesidad, colgando bocabajo de la viga de un desván o arrebujados en un conducto de ventilación de un garaje subterráneo. 
 
-Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad tienen montado un despacho donde duermen, o quizás tengan una alquilada una tienda en eternas reformas en el centro comercial donde se mueven.
+Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad tienen montado un despacho donde duermen, o quizás tengan una alquilada una tienda en eternas reformas en el centro comercial por donde se mueven.
 
-xxx
+Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios y el hecho que durante el día sean vulnerables hace sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
+
+\sinc
 
 ### Alcantarillado
 
-El alcantarillado el salvavivas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. suelen moverse ppor ellas hasta llegar a un colector donde buscará algún hueco o conducto donde esconderse para pasar el día.
+[![TMNT sewer 1 By Tonywashingtonart](./assests/images/tmnt_sewer_1_by_tonywashingtonart_dyms48-pre.jpg "TMNT sewer 1 By Tonywashingtonart")](https://www.deviantart.com/tonywashingtonart/art/TMNT-sewer-1-58169816 "TMNT sewer 1 By Tonywashingtonart")
+
+\conc
+
+&nbsp;
+
+El alcantarillado es el salvavivas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. suelen moverse ppor ellas hasta llegar a un colector donde buscará algún hueco o conducto donde esconderse para pasar el día.
 
 > Un buen mapa de las allcantarillas de tu barrio con sus colectores principales y como llegar a ellos es muy muy muy muy útil.
+
+\sp
 
 Suelo sacar fotos de las alcantarillas y si cuando busco a una sanguijuela detecto que una alcantarilla está movida ya sé por donde ha intentado escapar. No es un método perfecto porque hay gente que las revisa y las mueve, pero es bastante efectivo.
 
@@ -170,13 +180,9 @@ No es la primera vez que usan pisos turísticos como guaridas temporales o perma
 
 > Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
 
-\sp
-
 ### Protección de sus guaridas
 
 xxx
-
-\sc
 
 \sp
 
@@ -758,6 +764,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Retrato de Vlad Tepes [Wikipedia](https://es.wikipedia.org/wiki/Vlad_el_Empalador#/media/Archivo:Vlad_Tepes_002.jpg)
 * Cuatro modelos de pililla benditera o aguabenditeras de loza popular española [Wikipedia](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg)
 * Pegatina contraportada BFF por [brgfx](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm)
+* TMNT sewer 1 By [Tonywashingtonart](https://www.deviantart.com/tonywashingtonart/art/TMNT-sewer-1-58169816) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 
 \sp
 
