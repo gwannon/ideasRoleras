@@ -1,4 +1,3 @@
-
 # Soy una cazavampiros
 
 \sinc
@@ -55,7 +54,7 @@ Estas son las que veo más probables:
 
 [![Retrato de Vlad III](./assests/images/Vlad_Tepes_002.jpg "Retrato de Vlad III")](https://www.deviantart.com/zeilyan/art/Rain-574414420 "Retrato de Vlad III")
 
-* **Descendientes de Drácula:** no es la más lógica, aunque ninguna de las anteriores es mucho mejor, pero puede que todos los vampiros provengan de Vlad Dracul, el supuesto "vampiro original". La pregunta es _quién convirtió a Drácula en vampiro_.
+* **Descendientes de Drácula:** no es la más lógica, aunque ninguna de las anteriores es mucho mejor, pero puede que todos los vampiros provengan de Vlad Dracul, el supuesto "vampiro original". La pregunta es _quién convirtió a Drácula en vampiro._
 
 > Si tienes tu propia teoría mándame un MD explicándomela, igual estamos ante la verdad.
 
@@ -103,19 +102,33 @@ Pueden tener muchas formas, altos, bajos, mazados, fibrosos, rubios, morenos, ra
 
 ### Alimentación
 
-xxx
+Los vampiros beben exclusivamente sangre fresca de humanos xxx
 
 Los vampiros, si están asentados y no tienen problemas, suelen beber sangre unas tres veces a la semana. Pero en casos de necesidad pueden subsistir con una vez semanal.
 
-xxx
+El proceso de alimentación no suele ser rápido y necesitan un par de minutos mientras chupan a su víctima hasta quedarse llenos. La ventaja es que son tremendamente vulnerables en esta situación con lo que es un buen momento para atacar.
+
+Son muy buenos ocultando sus mordiscos en público y la verdad que pueden parecer un par de amantes enrollándose. Por lo menos yo, gracias a la profa de Educación sexual, puede distinguir un rollo de un vampiro dándose un festín. 
 
 #### Víctimas
 
-xxx
+Las víctimas de un vampiro pueden ser de cualquier tipo y condición, sobre todo cuando están hambrientos, pero en general su ego les lleva a escoger a aquellas víctimas masculinas y femeninas muy guapas y fit.
+
+Es un rollo marichulo de "soy un alfa" y mis bros no me pueden ver con una víctima que sea menos que yo. No os podéis imaginar la de vampiro que hay adictos a los vídeos de ShitTubers como el Llados.
 
 Una víctima de vampirismo suele presentar unos síntomas básicos muy parecidos a una gripe chunga, debilidad general, mal color, falta de apetito, vómitos y algunas veces diarrea.
 
+Si la víctima no se aleja del vampiro, yéndose, por ejemplo, a otra ciudad, o el vampiro muere (cosas de la que tú deberás encargarte), terminará muriendo por alguna enfermedad común agravada por su anemia vampírica. 
+
+\sp
+
+Si muere, el vampiro o sus sirvientes se encargarán de dejar pruebas que expliquen su muerte, desde drogas escondidas en su cuarto a pruebas de una TCA. Son extremadamente creativos en esta mierda y sé que disfrutan mucho con esta parte. PUTOS VAMPIROS!!!!
+
 Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar principalmente en esos sitios marcas de mordiscos. Las muñequeras de pinchos y los chokers de cuero son una buena protección, porque cubren esas 2 zonas.
+
+#### Territorios de caza
+
+Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de caza son discotecas, salas de conciertos y gimnasios de alto standing. No te fies de monitores de gimnasio y de camareros de disco, suelen ser sirvientes.
 
 ### ¿Puedes consumir sangre de vampiro?
 
@@ -123,7 +136,7 @@ Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo 
 
 El problema es que después te deja muy doblada. Y tras unos minutos (siguiente escena) terminas devolviendo toda la sangre tomada y vuelves a estar normal. Ya os digo que esa vomitona es de lo peor que puede pasarte.
 
-No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosa que otras.
+No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosas que otras.
 
 \sp
 
@@ -135,7 +148,7 @@ No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero segura
 
 xxx
 
-No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
+No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Se contratan por internet y la mayoría de las veces ni aparece el dueño a abrirte. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
 
 Siempre que puedas jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
 
@@ -171,7 +184,7 @@ Os recuerdo que puedes comprar estacas en Amazon y estarán mañana en casa, per
 
 El ajo no solo repele a los chupasangres, el contacto les hace daño y puede ser mortal si consigues que lo ingieran. Métele una cabeza de ajo en la boca y verás fuegos artificiales de sesos de sanguijuela.
 
-El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico. Pero por experiencia te dire que el pan con ajo del Telepi ni lo huelen. 
+El ajo picado o en polvo son igual de efectivos que las cabezas de ajo y es mucho más práctico. Pero por experiencia te diré que el pan con ajo del Telepi ni lo huelen. 
 
 #### Te de ajo
 
@@ -219,7 +232,7 @@ Las balas de plata serían realmente útiles, pero las menores no tenemos acceso
 
 \sp
 
-> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
+> Las cosas bañadas en plata son tan útiles como si fueran de plata y MUCHO MÁS BARATAS!!!!!
 
 Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la 
 
@@ -266,7 +279,7 @@ xxx
 
 ## ¿Cómo se defienden?
 
-Se defiende de nosotras de dos formas bien diferenciadas. Primero descredito social y si eso falla pasan a lo físico.
+Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito social y si eso falla pasan a lo físico.
 
 \conc
 
@@ -280,13 +293,13 @@ xxx
 
 xxx
 
-> Siempre que sea posible un Liege Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odían. siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
+> Siempre que sea posible un Liege Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian. Siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
 
 \sp
 
 ### Sirvientes humanos
 
-Los siervos, ghouls, thralls, renfields son diferentes nombres a traves del tiempo y las tradiciones de lo que yo llamo _chupones_. Los chupones son humanos que sirven a los vampiros, bien como herramientas de su planes, bien como siervos o protectores.
+Los siervos, ghouls, thralls, renfields son diferentes nombres a través del tiempo y las tradiciones de lo que yo llamo _chupones_. Los chupones son humanos que sirven a los vampiros, bien como herramientas de sus planes, bien como siervos o protectores.
 
 xxx
 
@@ -304,7 +317,7 @@ No solo debes acabar con los vampiros y frustrar sus planes, es importante salir
 
 ### Ajo
 
-Una buena ristra de ajos alrededor del cuello te da bastante protección pero si están muy enfadados o hambrientos no les detendrá.
+Una buena ristra de ajos alrededor del cuello te da bastante protección, pero si están muy enfadados o hambrientos no les detendrá.
 
 Tampoco sirve de nada con los sirvientes a los que no les afecta el ajo.
 
@@ -330,7 +343,7 @@ Si el vampiro rompe en tu casa las leyes de hospitalidad se puede revocar la inv
 
 ### Entrenamiento de combate
 
-Puedes pensar que las MMA, el Brazilian Jiujitsu y mierdas similares te vendrán bien en tu batalla contra los chupasangres, pero no merecen la pena. No tienes ni el tiempo, ni el peso ni la fuerza para ser un peligro. Además, los gimbros se reiran de ti.
+Puedes pensar que las MMA, el Brazilian Jiujitsu y mierdas similares te vendrán bien en tu batalla contra los chupasangres, pero no merecen la pena. No tienes ni el tiempo, ni el peso ni la fuerza para ser un peligro. Además, los gimbros se reirán de ti.
 
 Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
 
@@ -366,7 +379,7 @@ xxx
 
 Aquí tienes algunos libros, pelis y podcasts que te pueden dar más información. Ninguno tiene toda la verdad, pero cogiendo cositas de uno de ellos puedes tener una visión bastante cercana a la realidad.
 
-Este listado es abierto. Si conoces algun buen libro o peli, mandamelo a mis redes y miraré de meterlo.
+Este listado es abierto. Si conoces algún buen libro o peli, mándamelo a mis redes y miraré de meterlo.
 
 \conc
 
@@ -389,8 +402,8 @@ Este listado es abierto. Si conoces algun buen libro o peli, mandamelo a mis red
 
 ### Podcasts y página webs
 
-* **Cuentos de la casa de la bruja.** Muchos audiolibros de libros clásico como [Drácula de Bram Stoker](https://www.ivoox.com/podcast-cuentos-de-la-casa-de-la-bruja_sq_f1421745_1.html).
-* **tododevampiros.com.** [Página web](https://www.tododevampiros.com/) con contenido super interesante y extraño.
+* **Cuentos de la casa de la bruja.** Muchos audiolibros de libros clásicos como [Drácula de Bram Stoker](https://www.ivoox.com/podcast-cuentos-de-la-casa-de-la-bruja_sq_f1421745_1.html).
+* **tododevampiros.com.** [Página web](https://www.tododevampiros.com/) con contenido superinteresante y extraño.
 
 ***
 
@@ -400,7 +413,7 @@ Este listado es abierto. Si conoces algun buen libro o peli, mandamelo a mis red
 
 ## Defínete como cazadora de vampiros
 
-Saber cuales son tus puntos fuertes y debiles como cazadora de vampiros te ayuda a saber qu puedes hacer y que no y a que puedes enfrentarte y a que no.
+Saber cuáles son tus puntos fuertes y débiles como cazadora de vampiros te ayuda a saber qué puedes hacer y qué no y a que puedes enfrentarte y a que no.
 
 \conc
 
@@ -462,19 +475,21 @@ No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porqu
 
 ### Pistolas de agua
 
-¡¡¡Benditas pistolas de agua cargadas de te de ajo o de agua bendita!!! _Son tu arma más poderosa_ además de tu cerebro contra los vampiros. encima cientos de personas de todo el mundo gastan un estupido número de horas en mejorarlas. Hay cientos de vídeos explicando como hacer más efectiva tus pistols, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampirica que amenaza nuestros barrios y ciudades.
+Benditas pistolas de agua cargadas de té de ajo o de agua bendita!!! _Son tu arma más poderosa_ además de tu cerebro contra los vampiros. Encima, cientos de personas de todo el mundo gastan un estúpido número de horas en mejorarlas y hacen tutoriales de ello :)
 
-Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el verano y las tiendas de juguetes se llenan de flotadores, colchonetas y churros de piscina, coge uno de sus catálogos y disfruta pensando cual vas a comprarte para tu próxima misíon.
+Hay cientos de vídeos explicando como hacer más efectiva tus pistolas, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampírica que amenaza nuestros barrios y ciudades.
+
+Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el verano y las tiendas de juguetes se llenan de flotadores, colchonetas y churros de piscina, coge uno de sus catálogos y disfruta pensando cuál vas a comprarte para tu próxima misión.
 
 ### Globos de agua
 
-**La versión vampirica de las granadas.** Estos 2 centimos de plástico son devastadores en esos asquerosos bichejos si consigues impactarles. El problema es que son grandes y pesados y bastante fragiles. 
+**La versión vampírica de las granadas.** Estos 2 céntimos de plástico son devastadores en esos asquerosos bichejos si consigues impactarles. El problema es que son grandes y pesados y bastante frágiles. 
 
-Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con globos de agua y buscarás la forma llebar un globo con el agua de tu pistola.
+Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con globos de agua y buscarás la forma llevar un globo con el agua de tu pistola.
 
 ### Walkie-talkie
 
-Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus sistars. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
+Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus si&#x2605;s. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
 
 Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuando me enseño a usarlo) serían la leche. Pero vamos Es de las primeras cosas que debes conseguir cuando salgas a cazar acompañada de tu panda.
 
@@ -482,7 +497,7 @@ Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuand
 
 ### Navaja suiza
 
-Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir ltas y quitar chapas, ... recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
+Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir latas y quitar chapas, ... recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
 
 _Cuantas más opciones mejor_, pero las básicas ya son muy útiles y muy escondibles y tampoco es tan raro ver una niña con una pequeña navaja multiusos. 
 
@@ -490,20 +505,20 @@ Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseg
 
 Me puse a ver todos los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. Quizás con unos padres menos responsables puedes conseguirlo.
 
-Si la sacas delante de un adulto, se podrán a taraear un tema de una serie viejuner y alguno pedirá un chicle y un clip. Pase de preguntar, los boomers son raros.
+Si la sacas delante de un adulto, se podrán a tararear un tema de una serie viejuner y alguno pedirá un chicle y un clip. Pase de preguntar, los boomers son raros.
 
 
 ### Protecciones deportivas
 
 Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras, coderas, rodilleras, ... **
 
-Estas protecciones no te protegen de vampiros que siempre van a tus partes blandas, pero son buenas para caidas y golpes y llegar a casa llena de rasgunos y morados y no tener que dar excusas a preguntas de tus padres.
+Estas protecciones no te protegen de vampiros que siempre van a tus partes blandas, pero son buenas para caídas y golpes y llegar a casa llena de rasguños y morados y no tener que dar excusas a preguntas de tus padres.
 
 \sc
 
 ### Sudaderas con choto
 
-Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tú cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
 
 Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
@@ -563,19 +578,19 @@ Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizá
 
 \sinc
 
-## Las sistars
+## Las si&#x2605;s
 
 xxx
 
 \conc
 
 ```
-La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellass o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus sistars más a fondo.
+La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellass o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus si&#x2605;s más a fondo.
 ```
 
 ### Las reglas de la panda
 
-Los grupos de cazadoiras
+Los grupos de cazadoras
 
 1. BBF. Mejores amigas para siempre.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
@@ -585,15 +600,15 @@ Los grupos de cazadoiras
 
 xxx
 
-> Este es el sistema que a mi me funciona con mis sistars, pero igual no es el mejor para tu grupo de cazadoras, así que tomalo más como un ejmplo que como una guía que seguir.
+> Este es el sistema que a mí me funciona con mis si&#x2605;s, pero igual no es el mejor para tu grupo de cazadoras, así que tómalo más como un ejemplo que como una guía que seguir.
 
 ### Un lugar de reunión
 
-Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el pplan vampirico en curso. 
+Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el plan vampírico en curso. 
 
-> Hacedme caso, el panel de corcho con chinchetas y lacitos es lo más putoútil que podeís tener.
+> Hacedme caso, el panel de corcho con chinchetas y lacitos es lo más putoútil que podéis tener.
 
-Al principio tendréis que reuniros en algún soportal cubierto de un psatio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
+Al principio tendréis que reuniros en algún soportal cubierto de un patio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
 
 * Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
 * Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
@@ -601,7 +616,7 @@ Al principio tendréis que reuniros en algún soportal cubierto de un psatio int
 \sp
 
 * Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
-* Quizás haya **una casa abondonada** en el barrio. Es una opción pero saegurarros de que no hay ni drogatas ni vampiros. No son seguras, asi que nada de guardar cosas de valor. 
+* Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
 
 ### No puede faltar una mascota
 
@@ -657,9 +672,11 @@ xxx
 
 Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics.
 
-Simplemente es un divertimento que surgió de un personaje de "Los Green en la ciudad". Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
+Simplemente, es un divertimento que surgió de un personaje de "Los Green en la ciudad". Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
 
 A partir de ahí pensé que sería divertido jugar con una niña como Andrómeda y una cosa llevo a otra y aquí tienes esta aventura.
+
+También es un poco MoonGirl de "MoonGirl y Dinosaurio Diabólico" por el rollo de barrio que tiene todo el suplemento y por luchar contra la gentrificación, los machirulos y los políticos corruptos.
 
 \sinc
 
@@ -693,7 +710,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 
 * Papel cuadriculado por [kues](https://www.freepik.es/foto-gratis/textura-papel-cuadriculado_932591.htm)
 * Canutillo metálico por [upklyak](https://www.freepik.com/free-vector/notebook-spiral-wire-binds_12632847.htm)
-* Colmillos portada por [vectorpouch](https://www.freepik.com/free-vector/vampire-mouth-with-fangs-set-female-red-lips_6690894.htm)
+* Colmillos de la portada por [vectorpouch](https://www.freepik.com/free-vector/vampire-mouth-with-fangs-set-female-red-lips_6690894.htm)
 * Cruz portada por [freepik](https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm)
 * Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
@@ -762,6 +779,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 

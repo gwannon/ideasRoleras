@@ -1,2 +1,8 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhan estado desde siempre entre nosotros.\\E$"}
 {"rule":"DE_TILDE","sentence":"^\\QTe de ajo\\E$"}
+{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSimplemente, es un divertimento que surgió de un personaje de \"Los Green en la ciudad\".\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtodo son ventajas.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qrecuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen general material de montaña.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEstos 2 céntimos de plástico son devastadores en esos asquerosos bichejos si consigues impactarles.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QBenditas pistolas de agua cargadas de té de ajo o de agua bendita!!!\\E$"}
