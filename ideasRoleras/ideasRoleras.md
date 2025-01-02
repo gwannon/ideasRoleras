@@ -198,6 +198,12 @@ Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojue
 
 Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
 
+### Planilandia RPG
+
+Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
+
+Es una sátira de la época victoriana pero la parte matemática está muy bien pensada y podría dar ideas muy interesantes, sobre todo al pensar en 2d tanto para crear y descubrir el mundo como para moverse e interactuar con él.
+
 ### Los plastilinos.
 
 Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
@@ -210,13 +216,13 @@ por [Mondriter](https://mastodon.social/@Moonrider_acme)
 
 Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando su partida llama a PNJ S.A. para que le suministren PNJ. 
 
+\saltopagina
+
 Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
 
 Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
 
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
-
-\saltopagina
 
 Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
 
@@ -240,9 +246,9 @@ Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y c
 
 Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
 
-Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
-
 \saltocolumna
+
+Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
 
 \saltopagina
 
