@@ -104,7 +104,7 @@ Pueden tener muchas formas, altos, bajos, mazados, fibrosos, rubios, morenos, ra
 
 Los vampiros beben exclusivamente sangre fresca de humanos. No toleran otros tipos de sangre y no debe haber pasado más de 12 horas de su extracción. Con lo que tampoco les vale toda la sangre que hay en un banco, solo la recién extraída.
 
-Un nosferatu medio, si está asentado y no tiene problemas, suele beber sangre unas tres veces a la semana. Pero en casos de necesidad puede subsistir con una vez a la semana, pero pasará mucha sed, hambre, ... lo que sea. Normalmente cuando están hambrientos no pueden acceder a su forma Crush, se guían más por sus instintos y la forma Trash sale a la luz todo el rato.
+Un nosferatu medio, si está asentado y no tiene problemas, suele beber sangre unas tres veces a la semana. Pero en casos de necesidad puede subsistir con una vez a la semana, pero pasará mucha sed, hambre, ... lo que sea. Normalmente, cuando están hambrientos no pueden acceder a su forma Crush, se guían más por sus instintos y la forma Trash sale a la luz todo el rato.
 
 El proceso de alimentación no suele ser rápido y necesitan un par de minutos mientras chupan a su víctima hasta quedarse llenos. La ventaja es que son tremendamente vulnerables en esta situación con lo que es un buen momento para atacar.
 
@@ -166,9 +166,9 @@ Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de s
 
 &nbsp;
 
-El alcantarillado es el salvavivas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. suelen moverse ppor ellas hasta llegar a un colector donde buscará algún hueco o conducto donde esconderse para pasar el día.
+El alcantarillado es el salvavidas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. Suelen moverse por ellas hasta llegar a un colector donde buscará algún hueco o conducto donde esconderse para pasar el día.
 
-> Un buen mapa de las allcantarillas de tu barrio con sus colectores principales y como llegar a ellos es muy muy muy muy útil.
+> Un buen mapa de las alcantarillas de tu barrio con sus colectores principales y como llegar a ellos es muy muy muy muy útil.
 
 \sp
 
@@ -284,9 +284,23 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 
 \conc
 
-xxx
+Los vampiros y los planes siempre van unidos, es parte de su naturaleza inmortal.
 
-Detrás de todo plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
+Primero porque lo ven a largo plazo y los planes largos y complicados con muchos pasos se ajustan a esa visión a largo plazo.
+
+Segundo, porque esa inmortalidad les aburre y necesitan un juguete complicado y largo que les dure tiempo.
+
+> Vamos, como diría mi abu: Las manos ociosas son el taller del diablo.
+
+Una persona normal, habría acumulado millones de €, se habría comprado una isla y haría traer a víctimas para bebérselas. 
+
+Un vampiro tiene que cargarse las infraestructuras sociales de un barrio para que la gente del barrio se vaya, luego gentrificarlo y llenarlo de pisos turísticos para poder beber de ingleses y alemanes borrachos que volverán a su país con una anemia brutal.
+
+Si te encuentras un vampiro, estaré segura de que está planeando o ejecutando un plan. En cuanto terminan un plan empiezan con otro, ni los disfrutan.
+
+### Los grandes planes
+
+Detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
 
 Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
@@ -294,11 +308,9 @@ xxx
 
 ### El ego
 
-El ego de un Lieges Vampiros es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
+El ego de un Lord Vampiro es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
 
 xxx
-
-\sc
 
 \sp
 
@@ -312,6 +324,18 @@ Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito so
 
 ### Ataques sociales
 
+Mientras te muevas en la periferia de sus actividades usarán todo su arsenal social para desacreditarte y aislarte, pudiendo llegar a desquiciarte y acabar en un psiquiátrico si no tienes una mente preparada.
+
+Veamos algunas tácticas:
+
+* Pueden convencer a los abusones del patio de que se ceben contigo y te cambies de colegio por otro más lejos.
+* Mover hilos para despedir o cambiar de lugar de trabajo a tus padres y que tengas que abandonar el barrio.
+* Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
+* Quizás hagan que te sigan, solo para atemorizarte.
+* xxx
+
+La mejor defensa que tienes son tus amigas. Ellas serán tu escudo contra toda la mierda que puede echarte encima. No digo que sea fácil con amigas, digo que sin su apoyo casi seguro sucumbes a sus ataques.
+
 xxx
 
 \sc
@@ -320,7 +344,11 @@ xxx
 
 xxx
 
-> Siempre que sea posible un Liege Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian. Siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
+Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, ... Quieres hacerte daño a ti y solo a ti.
+
+xxx
+
+> Siempre que sea posible un Lord Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian. Siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
 
 \sp
 
@@ -394,23 +422,23 @@ TUS AMIGAS. No hay más.
 
 Pues estás jodida y no hay mucho que hacer. Tus sistars deberían darte una muerte digna para recordarte cuando todavía no eras una asquerosa sanguijuela asesina.
 
-Si estás sola, antes de caer, buscate un final que esos cabrones no olviden jamás. **Si vas caer que no sea sola.**
+Si estás sola, antes de caer, búscate un final que esos cabrones no olviden jamás. **Si vas a caer,** **que no sea sola.**
 
 \conc
 
 ### Cómo te transformas en vampiro?
 
-Para acabar convertida en un vampiro es importante como se ese proceso.
+Para acabar convertida en un vampiro es importante saber cómo es ese proceso.
 
 Lo primero es estar al borde de la muerte, más allá que acá. Puede ser porque te hayan chupado la sangre o por culpa de las heridas del combate.
 
 En ese momento, el vampiro puede decidir darte de beber de su sangre.
 
-Un cuerpo humano que bebe sangre vampírica la combate y la termina expulsando, de ahí la gran vomitona al de un rato de beberla. Pero si tú cuerpo está muy débil, no puede combatirla y está termina apoderándose de tí.
+Un cuerpo humano que bebe sangre vampírica la combate y la termina expulsando, de ahí la gran vomitona al de un rato de beberla. Pero si tu cuerpo está muy débil, no puede combatirla y está termina apoderándose de ti.
 
-En ese momento el proceso ya es irreversible, pero todavía no eres un vampiro, solo eres medio vampiro. Según pases los dias la sangre de vampiro irá poco a poco tomando el control de tí hasta que te obligue a beber sangre fresca. En ese momento ya eres un vampiro completo con todas sus fortalezas y debilidades.
+En ese momento el proceso ya es irreversible, pero todavía no eres un vampiro, solo eres medio vampiro. Según pases los días la sangre de vampiro irá poco a poco tomando el control de ti hasta que te obligue a beber sangre fresca. En ese momento ya eres un vampiro completo con todas sus fortalezas y debilidades.
 
-Normalmente, la primera vez que te alimentas suele ser un fiestón de sangre y miembros desmembrados, así que los casos de asesinatos más brutales suelen estar relacionados con vampiros noobs, aunque los medios traten de taparlo achacandolo a otras cosas.
+Normalmente, la primera vez que te alimentas suele ser un fiestón de sangre y miembros desmembrados, así que los casos de asesinatos más brutales suelen estar relacionados con vampiros noobs, aunque los medios traten de taparlo achacándolo a otras cosas.
 
 Los vampiros noobs son fáciles de cazar, así que aprovéchalos para entrenar a las nuevas reclutas de tu panda de cazadoras.
 
@@ -628,7 +656,7 @@ Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizá
 
 ## Las si&#x2605;s
 
-Es imposible cazar vampiros sola, necesitas a tus amigas, a tus __SI&#x2605;S__, para que te ayuden, te den animos y te protejan. Y ellas también te necesitan a ti para que les ayudes, les animes y las cuides. Así pues nunca never salgas de caza de sola, es un camino directo a la derrota. 
+Es imposible cazar vampiros sola, necesitas a tus amigas, a tus __SI&#x2605;S__, para que te ayuden, te den ánimos y te protejan. Y ellas también te necesitan a ti para que les ayudes, les animes y las cuides. Así pues, nunca never salgas de caza de sola, es un camino directo a la derrota. 
 
 \conc
 
@@ -646,13 +674,13 @@ xxx
 
 ### Las reglas de la panda
 
-Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna a roto.
+Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna ha roto.
 
 1. BBF. Mejores amigas para siempre, nada nos puede separar.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Y no hay más. 
 
-Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corraís aventuras podeís establecerlas o incluso cambiarlas con el tiempo. 
+Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
 
 \sp
 
@@ -710,7 +738,7 @@ XXX
 
 ## Hasta luego, Maricarmen
 
-> Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se ha empeñado en ir a la funeraria. Gente que no conoces llorando, gente que no conoces hablando y riendo y un tipo que no conocía muy creppy. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
+> Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se empeñó en ir a la funeraria. Gente que no conoces llorando, otra gente que no conoces hablando y riendo y un tipo que no conocía muy cripi. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
 
 \conc
 
@@ -720,7 +748,7 @@ XXX
 
 ## Multiple choices
 
-> En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a un nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
+> En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a una nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
 
 \conc
 
@@ -847,6 +875,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 

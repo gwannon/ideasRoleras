@@ -13,3 +13,15 @@
 {"rule":"EL_TILDE","sentence":"^\\QSiervos de la Muerte: otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chaval o Hades el-machista-secuestra-persefones.\\E$"}
 {"rule":"ORDINAL_CHAR","sentence":"^\\QRecuerda el 7° mandamiento de la cazavampira molona.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QLas cosas bañadas en plata son tan útiles como si fueran de plata y MUCHO MÁS BARATAS!!!!!\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QPuedes consumir sangre de vampiro?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QDónde duermen?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo matarlos?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo frustrar sus planes?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo se defienden?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QEn qué eres bueno en el cole?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QY si me convierto en vampiro?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QAliados?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo puedes defenderte de ellos?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo te transformas en vampiro?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QDe dónde vienen?\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo son?\\E$"}
