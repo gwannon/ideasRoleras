@@ -522,6 +522,10 @@ Benditas pistolas de agua cargadas de té de ajo o de agua bendita!!! _Son tu ar
 
 Hay cientos de vídeos explicando como hacer más efectiva tus pistolas, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampírica que amenaza nuestros barrios y ciudades.
 
+[![Pistola agua Xiaomi](./assests/images/pistola-agua.jpg "Pistola agua Xiaomi")](https://m.media-amazon.com/images/I/71aOczXzPvL._AC_SX679_.jpg "Pistola agua Xiaomi")
+
+&nbsp;
+
 Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el verano y las tiendas de juguetes se llenan de flotadores, colchonetas y churros de piscina, coge uno de sus catálogos y disfruta pensando cuál vas a comprarte para tu próxima misión.
 
 ### Globos de agua
@@ -530,15 +534,17 @@ Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el ver
 
 Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con globos de agua y buscarás la forma llevar un globo con el agua de tu pistola.
 
+\sp
+
 ### Walkie-talkie
 
 Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus si&#x2605;s. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
 
 Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuando me enseño a usarlo) serían la leche. Pero vamos Es de las primeras cosas que debes conseguir cuando salgas a cazar acompañada de tu panda.
 
-\sp
-
 ### Navaja suiza
+
+[![Versatile Red Swiss Army Knife by brgfx](./assests/images/9549666d-b56a-4126-9c8e-999f0b90061a.jpg "Versatile Red Swiss Army Knife by brgfx")](https://www.freepik.com/free-vector/versatile-red-swiss-army-knife_146612585.htm "Versatile Red Swiss Army Knife by brgfx")
 
 Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir latas y quitar chapas, ... recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
 
@@ -552,15 +558,15 @@ Si la sacas delante de un adulto, se podrán a tararear un tema de una serie vie
 
 ### Protecciones deportivas
 
-Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras, coderas, rodilleras, ... **
+Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras,** **coderas, rodilleras, ...**
 
 Estas protecciones no te protegen de vampiros que siempre van a tus partes blandas, pero son buenas para caídas y golpes y llegar a casa llena de rasguños y morados y no tener que dar excusas a preguntas de tus padres.
-
-\sc
 
 ### Sudaderas con choto
 
 Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+
+\sp
 
 Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
@@ -622,27 +628,37 @@ Si intentas pedir una cerveza se reirán de ti y te echarán a la calle y quizá
 
 ## Las si&#x2605;s
 
-xxx
+Es imposible cazar vampiros sola, necesitas a tus amigas, a tus __SI&#x2605;S__, para que te ayuden, te den animos y te protejan. Y ellas también te necesitan a ti para que les ayudes, les animes y las cuides. Así pues nunca never salgas de caza de sola, es un camino directo a la derrota. 
 
 \conc
 
+[![Pegatina contraportada BFF por brgfx](./assests/images/0wum_0ffy_211014.jpg "Pegatina contraportada BFF por brgfx")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Pegatina contraportada BFF por brgfx")
+
 ```
-La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellass o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus si&#x2605;s más a fondo.
+La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellass o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus sistars más a fondo.
 ```
-
-### Las reglas de la panda
-
-Los grupos de cazadoras
-
-1. BBF. Mejores amigas para siempre.
-2. Nadie se queda atrás, salimos todas o no salimos ninguna.
-3. Ni una más.
 
 ### Cómo montar y organizar el grupo
 
 xxx
 
 > Este es el sistema que a mí me funciona con mis si&#x2605;s, pero igual no es el mejor para tu grupo de cazadoras, así que tómalo más como un ejemplo que como una guía que seguir.
+
+### Las reglas de la panda
+
+Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna a roto.
+
+1. BBF. Mejores amigas para siempre, nada nos puede separar.
+2. Nadie se queda atrás, salimos todas o no salimos ninguna.
+3. Y no hay más. 
+
+Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corraís aventuras podeís establecerlas o incluso cambiarlas con el tiempo. 
+
+\sp
+
+```
+Las reglas que se creen para tu grupo de cazadoras puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar "Nadie se queda atrás, salimos todas o no salimos ninguna" para tratar de salvar a una amiga que se ha roto una pierna.
+```
 
 ### Un lugar de reunión
 
@@ -653,10 +669,10 @@ Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco pr
 Al principio tendréis que reuniros en algún soportal cubierto de un patio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
 
 * Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
+
+\sc
+
 * Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
-
-\sp
-
 * Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
 * Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
 
@@ -666,8 +682,6 @@ La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro 
 
 En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
 
-\sc
-
 \sp
 
 \sinc
@@ -676,7 +690,7 @@ En general, la mascota debes darles un aspecto que puedan usar como poder montar
 
 \conc
 
-xxx
+XXX
 
 ***
 
@@ -690,17 +704,27 @@ Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio d
 
 \conc
 
-xxx
+XXX
 
 \sinc
 
 ## Hasta luego, Maricarmen
 
-> Tu profesora de Ciencias Sociales, Maricarmen, ha muerto y tu madre se ha empeñado en ir a la funeraria. Gente que no conoces llorando, gente que no conoces hablando y riendo y un tipo que no conozco muy creppy. Solo mira a los presentes, saca fotos a escondidas y teclea cosas en el móvil, todo muy sospechoso. 
+> Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se ha empeñado en ir a la funeraria. Gente que no conoces llorando, gente que no conoces hablando y riendo y un tipo que no conocía muy creppy. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
 
 \conc
 
-xxx
+XXX
+
+\sinc
+
+## Multiple choices
+
+> En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a un nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
+
+\conc
+
+XXX
 
 ***
 
@@ -765,6 +789,8 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Cuatro modelos de pililla benditera o aguabenditeras de loza popular española [Wikipedia](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg)
 * Pegatina contraportada BFF por [brgfx](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm)
 * TMNT sewer 1 By [Tonywashingtonart](https://www.deviantart.com/tonywashingtonart/art/TMNT-sewer-1-58169816) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* [Pistola agua Xiaomi](https://m.media-amazon.com/images/I/71aOczXzPvL._AC_SX679_.jpg)
+* Versatile Red Swiss Army Knife by [brgfx](https://www.freepik.com/free-vector/versatile-red-swiss-army-knife_146612585.htm)
 
 \sp
 
