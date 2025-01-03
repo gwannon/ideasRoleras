@@ -132,8 +132,6 @@ Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de c
 
 Si es lo suficientemente rico y poderoso, deja de cazar y simplemente espera en su mansión a sus sirvientes le traigan víctimas que desangrar. Aun así cada cierto tiempo, sienten la necesidad de salir a cazar solos. Les gusta la emoción de la caza y perseguir a su presa. Ese es un buen momento para acabar con las sanguijuelas que están más protegidas.
 
-\sc
-
 ### Puedes consumir sangre de vampiro?
 
 Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar. El efecto dura unos minutos (escena).
@@ -141,6 +139,24 @@ Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo 
 El problema es que después te deja muy doblada. Y tras unos minutos (siguiente escena) terminas devolviendo toda la sangre tomada y vuelves a estar normal. Ya os digo que esa vomitona es de lo peor que puede pasarte.
 
 No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosas que otras.
+
+### Falsas creencias
+
+Hay una serie de creencias populares sobre los vampiros que he podido que no son verdad o por lo menos he podido comprobar que las hagan.
+
+* No se transforman en niebla.
+* No se transforman en lobos o murcilagos.
+* No tienen sentido radar como los murcielagos.
+* Si flotan pero no son grnades voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores.
+* No tienen problemas con las vías de agua. Pueden pasar encima de rios sin problemas.
+* No tienen ninguna marca especial, ni estigmas, como mucho no tienen casi nada de bello corporal.
+* No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataudes.
+
+\sp
+
+* No tienen poderes sobre los animales, como ratas o perros. De hecho, la mayoría de los animales se alejan de ellos.
+
+\sc
 
 \sp
 
@@ -274,8 +290,6 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 * Los extintores ni los notan.
 * Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan.
 
-\sc
-
 \sp
 
 \sinc
@@ -332,14 +346,11 @@ Veamos algunas tácticas:
 * Mover hilos para despedir o cambiar de lugar de trabajo a tus padres o tutores y que tengas que abandonar el barrio.
 * También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte de buscar como conseguir dinero en vez de cazar vampiros.
 * Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
-* Quizás hagan que te sigan sospechosos personajes, solo para atemorizarte y tenerte en tensión.
-* xxx
+* Quizás hagan que te sigan peña cripi, solo para atemorizarte y tenerte en tensión.
 
-La mejor defensa que tienes son tus amigas. Ellas serán tu escudo contra toda la mierda que puede echarte encima. No digo que sea fácil con amigas, digo que sin su apoyo casi seguro sucumbes a sus ataques.
+La mejor defensa que tienes son tus socias y amigas. Ellas serán tu escudo contra toda la mierda que puede echarte encima. No digo que sea fácil con amigas, digo que sin su apoyo casi seguro sucumbes a sus ataques.
 
-La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar. Si te quitan la ayuda del comedor, puedes ir subiendo por la empinada cuesta de la burocracia hasta dar con el siervo que te ha hecho la treparole y de él llegar al Lord Vampiro.
-
-\sc
+La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar. Si te quitan la ayuda del comedor, puedes ir subiendo por la empinada cuesta de la burocracia hasta dar con el siervo que te ha hecho la putada y de él llegar al Lord Vampiro.
 
 ### Ataques físicos
 
@@ -571,9 +582,9 @@ Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es 
 
 Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuando me enseño a usarlo) serían la leche. Pero vamos Es de las primeras cosas que debes conseguir cuando salgas a cazar acompañada de tu panda.
 
-### Navaja suiza
-
 [![Versatile Red Swiss Army Knife by brgfx](./assests/images/9549666d-b56a-4126-9c8e-999f0b90061a.jpg "Versatile Red Swiss Army Knife by brgfx")](https://www.freepik.com/free-vector/versatile-red-swiss-army-knife_146612585.htm "Versatile Red Swiss Army Knife by brgfx")
+
+### Navaja suiza
 
 Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir latas y quitar chapas, ... recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
 
@@ -591,13 +602,9 @@ Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para q
 
 Estas protecciones no te protegen de vampiros que siempre van a tus partes blandas, pero son buenas para caídas y golpes y llegar a casa llena de rasguños y morados y no tener que dar excusas a preguntas de tus padres.
 
-### Sudaderas con choto
-
-Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+[![Pegatina Roller Derby Girl By malvarisco21](./assests/images/roller_derby_girl_by_malvarisco21_d9otxnc-pre.jpg "Pegatina Roller Derby Girl By malvarisco21")](https://www.deviantart.com/malvarisco21/art/Roller-Derby-Girl-585903000 "Pegatina Roller Derby Girl By malvarisco21")
 
 \sp
-
-Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
 ### Muñequeras y chokers de pinchos
 
@@ -606,6 +613,12 @@ Como ya te he contado los vampiros chupan la sangre principalmente de cuello y m
 Si tu outfit es un poco alternativo, podrás llevar estos complementos sin dar mucho la nota. 
 
 En las ferias medievales tienen mucha selección, con cuero bueno y pinchos bien afilados. También puedes pedirlo como parte de un disfraz de Halloween o robárselo a tu tío, el heavy trasnochado.
+
+### Sudaderas con choto
+
+Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+
+Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
 \sp
 
@@ -669,9 +682,43 @@ La pandilla puede ser otra fuente importante de aspectos secundarios, quizás te
 
 ### Cómo montar y organizar el grupo
 
-xxx
+Montar tu propia banda de cazadoras de no es fácil, es cuestión de tener amigas de verdad y el momento adecuado.
+
+Una vez que descubrí que el rollo de los vampiros y sus planes eran algo real empecé a tantear a mis amigas. Una pijamada fue el momento perfecto para hacer las preguntas adecuadas en el momento adecuado.
+
+Estaba acostumbrada a intentar hablarlo con adultos y siempre recibir las mismas respuestas, desde "vaya imaginación tiene está niña" hasta "tus padres deberían consultar estos delirios con un especialista".
+
+Sin embargo, esa noche hubo flow y empezamos a contar historias raras que habíamos visto o vivido y poco a poco la conspiración vampírica se hizo muy patente sin todavía darle nombre.
+
+Esa misma noche montamos un Google Maps con las localizaciones de todos esos sucesos y enseguida vimos un patrón. 
+
+A esa pijamada siguieron unas cuantas más donde seguimos investigando el misterio del barrio sin darle el nombre más lógico, VAMPIROS. Hasta que en la última aparecí las pruebas que conseguí de mi primera cacería y les conté todo lo que sabía.
+
+Esa misma noche juramos combatir el vampirismo y formamos nuestra Banda de sistars cazavampiras, hicimos nuestro reglamento y lo juramos por nuestras abuelas.
+
+Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas por lo que salimos de caza por las noches, protegerlas de esos horrores.
+
+\sp
 
 > Este es el sistema que a mí me funciona con mis si&#x2605;s, pero igual no es el mejor para tu grupo de cazadoras, así que tómalo más como un ejemplo que como una guía que seguir.
+
+#### Cargos
+
+Al principio todo era muy caótico cada una hacia lo que podía y quería, pero con el tiempo cada una de nosotras encontró su lugar donde hacía las cosas que le gustaban y sabía hacer bien.
+
+```
+Los puestos dentro del grupo de cazadoras también pueden ser origen de otros aspectos de tu personaje o por ejemplo que el aspecto de lo que "mejor se te da en clase" evolucione hacia tu puesto en la liga de cazadoras
+```
+
+**La reina** es la jefa, la capitana, la mandamás de la banda en una misión. Nosotras elegimos una reina por misión y su palabra durante la misión es sagrada. Pero igual vosotras preferís algo más duradero o más de votar todo.
+
+**Dora** es la que sabe de mapas. Ella busca la ruta de entrada y salida más adecuada y todo lo que ello conlleva, desde bonobús hasta cortacables.
+
+**Geppeto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le mienten a la poli sobre lo que hacías en ese descampado con unas palas.
+
+Por último, **tiritas** que se encarga de las heridas y de la comida y el relax (chuches, chocolate, snacks, ...) después de una caza. 
+
+Cómo ya os he dicho, estos y otros puestos que podáis necesitar en vuestra banda se suelen rotar para que todas sepamos de todo.
 
 ### Las reglas de la panda
 
@@ -683,11 +730,11 @@ Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna ha roto.
 
 Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
 
-\sp
-
 ```
 Las reglas que se creen para tu grupo de cazadoras puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar "Nadie se queda atrás, salimos todas o no salimos ninguna" para tratar de salvar a una amiga que se ha roto una pierna.
 ```
+
+\sp
 
 ### Un lugar de reunión
 
@@ -699,8 +746,6 @@ Al principio tendréis que reuniros en algún soportal cubierto de un patio inte
 
 * Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
 
-\sc
-
 * Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
 * Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
 * Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
@@ -711,6 +756,11 @@ La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro 
 
 En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
 
+
+[![Foto de llama por wisetock](./assests/images/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background.jpg "Foto de llama por wisetock")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Foto de llama por wisetock")
+
+Necesito una llama, seguro que los vampiros son alérgicos a su lana.
+
 \sp
 
 \sinc
@@ -720,6 +770,50 @@ En general, la mascota debes darles un aspecto que puedan usar como poder montar
 \conc
 
 XXX
+
+### Poderes vampíricos
+
+XXX
+
+#### Flotar
+
+XXX
+
+#### Fuerza, resistencia y velocidad vampírica
+
+XXX
+
+#### Garras y colmillos
+
+XXX
+
+#### Regeneración vampirica
+
+XXX
+
+#### Visión en la oscuridad
+
+XXX
+
+### Debilidades vampíricas
+
+XXX
+
+#### Sed de sangre
+
+XXX
+
+#### Ajo, plata, fuego y agua bendita
+
+XXX
+
+#### Luz del sol
+
+XXX
+
+#### Estaca de madera en el corazón.
+
+XXXX
 
 ***
 
@@ -820,6 +914,44 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * TMNT sewer 1 By [Tonywashingtonart](https://www.deviantart.com/tonywashingtonart/art/TMNT-sewer-1-58169816) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * [Pistola agua Xiaomi](https://m.media-amazon.com/images/I/71aOczXzPvL._AC_SX679_.jpg)
 * Versatile Red Swiss Army Knife by [brgfx](https://www.freepik.com/free-vector/versatile-red-swiss-army-knife_146612585.htm)
+* Foto llama andina [wirestock](https://www.freepik.com/free-photo/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background_10636706.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+
+\sinc
+
+## Jerga
+
+\conc
+
+Aquí tienes un listado de jerga más común.
+
+* **Beef:** Tirar beef hace referencia un enfrentamiento o discusión en publico.
+* **Bro:** De brother (hermano). Es el nuevo “tío”.
+* **Calle (Tener o no tener):** Tiene mucha experiencia.
+* **Chetao (Chetadísimo):** Que hace trampas o que es tan superior al resto que parece que hace trampas.
+* **Cool:** Es el nuevo mola. 
+* **Crush:** Se refiere tanto a un amor platónico como a la persona que te gusta.
+
+\sp
+
+* **Cringe:** Algo te genera vergüenza ajena o bochorno.
+* **De chill:** Ha sustituido al “de tranqui”.
+* **Dejar en leído:** No responderte a los mensajes.
+* **Evento canónico (Es canon):** Significa que es un momento de tu vida que no puedes cambiar y que te define para siempre.
+* **Funar:** Cancelar por tus opiniones.
+* **Goat (Greatest Of All Time):** El mejor de todos los tiempos.
+* **Hostear:*** Ser el anfitrión de un evento.
+* **Hype:** Expectativas desproporcionadas ante la salida de una película, serie, disco, etc.
+* **Lache:** Véase Cringe.
+* **Literal:** Forma de decir que estás de acuerdo con algo tipo Ok.
+* **Mood:** Estado anímico o humor que tienes. Es normal poner un meme + My mood para mostrar tu estado anímico actual.
+* **Mucho texto:** Te están llamando pesado y debes callarte. 
+* **NPC (Non Playable Character):** Gente que no aporta nada.
+* **PEC (Por el culo):** Algo que te gusta muchísimo.
+* **Random:** Algo es al azar.
+* **Rentar:** Si algo te renta o no te renta quiere para decir que algo te compensa o no.
+* **Servir coño:** Cuando alguien que ha hecho algo muy bien.
+* **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
+* **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
 
 \sp
 
@@ -876,10 +1008,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
-
-\sp
-
-&nbsp;
 
 ***
 
