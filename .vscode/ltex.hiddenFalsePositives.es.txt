@@ -25,3 +25,5 @@
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo te transformas en vampiro?\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QDe dónde vienen?\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QCómo son?\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QUn buen mapa de las alcantarillas de tu barrio con sus colectores principales y como llegar a ellos es muy muy muy muy útil.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlo que sea.\\E$"}

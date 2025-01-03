@@ -329,14 +329,15 @@ Mientras te muevas en la periferia de sus actividades usarán todo su arsenal so
 Veamos algunas tácticas:
 
 * Pueden convencer a los abusones del patio de que se ceben contigo y te cambies de colegio por otro más lejos.
-* Mover hilos para despedir o cambiar de lugar de trabajo a tus padres y que tengas que abandonar el barrio.
+* Mover hilos para despedir o cambiar de lugar de trabajo a tus padres o tutores y que tengas que abandonar el barrio.
+* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte de buscar como conseguir dinero en vez de cazar vampiros.
 * Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
-* Quizás hagan que te sigan, solo para atemorizarte.
+* Quizás hagan que te sigan sospechosos personajes, solo para atemorizarte y tenerte en tensión.
 * xxx
 
 La mejor defensa que tienes son tus amigas. Ellas serán tu escudo contra toda la mierda que puede echarte encima. No digo que sea fácil con amigas, digo que sin su apoyo casi seguro sucumbes a sus ataques.
 
-xxx
+La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar. Si te quitan la ayuda del comedor, puedes ir subiendo por la empinada cuesta de la burocracia hasta dar con el siervo que te ha hecho la treparole y de él llegar al Lord Vampiro.
 
 \sc
 
