@@ -6,7 +6,7 @@
 
 En este libro que tienes en tus manos te enseñaré como detectar vampiros, encontrar su guarida y matarlos a tiempo de volver a casa para cenar y hacer tu directo de Twitch.
 
-Si han empezado a pasar cosas en tu barrio como desapariciones sin explicación, ataques de animales extraños, robos en bancos de sangre, ... estate segura de que son malditos vampiros.
+Si han empezado a pasar cosas en tu barrio como desapariciones sin explicación, ataques de animales extraños, robos en bancos de sangre, … estate segura de que son malditos vampiros.
 
 Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instituto.
 
@@ -35,7 +35,7 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. T
 
 \sinc
 
-Los vampiros, nosferatus, chupasangres, sanguijuelas, ... han estado desde siempre entre nosotros. Y siempre tienen un plan de dominación.
+Los vampiros, nosferatus, chupasangres, sanguijuelas, … han estado desde siempre entre nosotros. Y siempre tienen un plan de dominación.
 
 Ahora veamos como son, de donde vienen y lo que es más importantes como devolverlos al infierno del que salieron reptando.
 
@@ -54,7 +54,7 @@ Estas son las que veo más probables:
 
 [![Retrato de Vlad III](./assests/images/Vlad_Tepes_002.jpg "Retrato de Vlad III")](https://www.deviantart.com/zeilyan/art/Rain-574414420 "Retrato de Vlad III")
 
-* **Descendientes de Drácula:** no es la más lógica, aunque ninguna de las anteriores es mucho mejor, pero puede que todos los vampiros provengan de Vlad Dracul, el supuesto "vampiro original". La pregunta es _quién convirtió a Drácula en vampiro._
+* **Descendientes de Drácula:** no es la más lógica, aunque ninguna de las anteriores es mucho mejor, pero puede que todos los vampiros provengan de Vlad Dracul, el supuesto vampiro original. La pregunta es _quién convirtió a Drácula en vampiro._
 
 > Si tienes tu propia teoría mándame un MD explicándomela, igual estamos ante la verdad.
 
@@ -104,7 +104,7 @@ Pueden tener muchas formas, altos, bajos, mazados, fibrosos, rubios, morenos, ra
 
 Los vampiros beben exclusivamente sangre fresca de humanos. No toleran otros tipos de sangre y no debe haber pasado más de 12 horas de su extracción. Con lo que tampoco les vale toda la sangre que hay en un banco, solo la recién extraída.
 
-Un nosferatu medio, si está asentado y no tiene problemas, suele beber sangre unas tres veces a la semana. Pero en casos de necesidad puede subsistir con una vez a la semana, pero pasará mucha sed, hambre, ... lo que sea. Normalmente, cuando están hambrientos no pueden acceder a su forma Crush, se guían más por sus instintos y la forma Trash sale a la luz todo el rato.
+Un nosferatu medio, si está asentado y no tiene problemas, suele beber sangre unas tres veces a la semana. Pero en casos de necesidad puede subsistir con una vez a la semana, pero pasará mucha sed, hambre, … lo que sea. Normalmente, cuando están hambrientos no pueden acceder a su forma Crush, se guían más por sus instintos y la forma Trash sale a la luz todo el rato.
 
 El proceso de alimentación no suele ser rápido y necesitan un par de minutos mientras chupan a su víctima hasta quedarse llenos. La ventaja es que son tremendamente vulnerables en esta situación con lo que es un buen momento para atacar.
 
@@ -114,7 +114,7 @@ Son muy buenos ocultando sus mordiscos en público y la verdad que pueden parece
 
 Las víctimas de un vampiro pueden ser de cualquier tipo y condición, sobre todo cuando están hambrientos, pero en general su ego les lleva a escoger a aquellas víctimas masculinas y femeninas muy guapas y fit.
 
-Es un rollo marichulo de "soy un alfa" y mis bros no me pueden ver con una víctima que sea menos que yo. No os podéis imaginar la de vampiro que hay adictos a los vídeos de ShitTubers como el Llados.
+Es un rollo marichulo de «soy un alfa» y mis bros no me pueden ver con una víctima que sea menos que yo. No os podéis imaginar la de vampiro que hay adictos a los vídeos de ShitTubers como el Llados.
 
 Una víctima de vampirismo suele presentar unos síntomas básicos muy parecidos a una gripe chunga, debilidad general, mal color, falta de apetito, vómitos y algunas veces diarrea.
 
@@ -331,7 +331,7 @@ Tu madre empieza a tener problemas en el trabajo por los constantes cambios de c
 
 Según tiras del hilo, oh sorpresa, descubres que trabaja para un vampiro novato al que le han encargado cargarse el centro de salud donde va tu abu. Esto es un __plan inferior__.
 
-Al acabar con el vampiro encuentras mensajes de un señor X que le daba las órdenes a el (__plan medio__) y de otro vampiro noob que estaba desmantelando la casa de cultura, otro plan inferior.
+Al acabar con el vampiro encuentras mensajes de un señor X que le daba las órdenes (__plan medio__) y de otro vampiro noob que estaba desmantelando la casa de cultura, otro plan inferior.
 
 \sp
 
@@ -352,15 +352,15 @@ Has de ser rápida al desmantelar planes porque pueden volver a aparecer o cambi
 
 #### Planes mundanos
  
-Otro elemento importante de los planes de los chupasangres es que son muy mundanos, tremendamente mundanos. Nada de plagas de zombies, rayos vampirizante o control mental en tu serie favorita.
+Otro elemento importante de los planes de los chupasangres es que son muy mundanos, tremendamente mundanos. Nada de plagas de zombis, rayos vampirizante o control mental en tu serie favorita.
 
 Son más convertir tu ciudad en una mierda, donde nadie se preocupa de nadie y todos tienen miedo de todos. Es ahí donde sus actos ni son detectados ni son perseguidos y donde viven como reyes.
 
-#### Fantasias de poder
+#### Fantasías de poder
 
-Necesitan tanto el poder como la sangre y por eso sus planes deben influir en muchas personas . Ver a tanta gente bajo el poder de sus planes les encanta, les excita mejor dicho.
+Necesitan tanto el poder como la sangre y por eso sus planes deben influir en muchas personas. Ver a tanta gente bajo el poder de sus planes les encanta, les excita mejor dicho.
 
-Piensalo así, lo normal un vampiro habría acumulado millones de € a lo largo de los años con sus poderes y tendría a un par de siervos invirtiendo el bolsa. Seguramente se habría comprado una isla y haría traer a víctimas para bebérselas. 
+Piénsalo así, lo normal un vampiro habría acumulado millones de € a lo largo de los años con sus poderes y tendría a un par de siervos invirtiendo en bolsa. Seguramente se habría comprado una isla y haría traer a víctimas para bebérselas. 
 
 Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barrio para que la gente del barrio se vaya, luego gentrificarlo y llenarlo de pisos turísticos y bares de borrachera para poder beber de ingleses y alemanes borrachos que volverán a su país con una anemia brutal. Necesita que haya miles de vidas jodidas para estar satisfechos.
 
@@ -414,11 +414,11 @@ La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar.
 
 xxx
 
-Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, ... Quieres hacerte daño a ti y solo a ti.
+Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, … Quieres hacerte daño a ti y solo a ti.
 
 xxx
 
-> Siempre que sea posible un Lord Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian. Siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
+> Siempre que sea posible un Lord Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian. Casi siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
 
 \sp
 
@@ -534,12 +534,12 @@ Este listado es abierto. Si conoces algún buen libro o peli, mándamelo a mis r
 * **Nosferatu.** Puedes encontrarte dos versiones, una con mala calidad y sin sonido y otra que si tiene sonido y mucha calidad. La que encuentres.
 * **Jóvenes ocultos.** Película muy viejuner que pillas a la noche en canales cutres, pero le chifla a mi tío. Fiel reflejo de lo que pasa cuando los mayores no nos creen.
 * **Saga Crepúsculo.** Pura propaganda vampira. _NO VER NUNCA_
-* **Salem's Lot.** Hay libro, pero habiendo peli, mejor peli. En esta peli se ve como todo vampiro tiene un plan de dominación.
+* **Salem’s Lot.** Hay libro, pero habiendo peli, mejor peli. En esta peli se ve como todo vampiro tiene un plan de dominación.
 
 ### Series
 
 * **Monster High.** Perfectas para verla con tus amigas y tantear lo que piensan de Vampilaura y los de su calaña.
-* **Lo que hacemos en las sombras.** La tendrás que ver a escondidas, porque "trata temas adultos y hay referencias sexuales". Muy divertida, pero más propaganda vampira. Quieren que creas que son unos imbéciles trasnochados, pero ES MENTIRA. 
+* **Lo que hacemos en las sombras.** La tendrás que ver a escondidas, porque «trata temas adultos y hay referencias sexuales». Muy divertida, pero más propaganda vampira. Quieren que creas que son unos imbéciles trasnochados, pero ES MENTIRA. 
 
 ### Podcasts y página webs
 
@@ -636,7 +636,7 @@ Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con g
 
 ### Walkie-talkie
 
-Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus si&#x2605;s. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, ... todo son ventajas.
+Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus si&#x2605;s. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, … todo son ventajas.
 
 Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuando me enseño a usarlo) serían la leche. Pero vamos Es de las primeras cosas que debes conseguir cuando salgas a cazar acompañada de tu panda.
 
@@ -644,11 +644,11 @@ Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuand
 
 ### Navaja suiza
 
-Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir latas y quitar chapas, ... recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
+Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cables, abrir latas y quitar chapas, … recuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser. 
 
 _Cuantas más opciones mejor_, pero las básicas ya son muy útiles y muy escondibles y tampoco es tan raro ver una niña con una pequeña navaja multiusos. 
 
-Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, ... en general material de montaña.
+Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, … en general material de montaña.
 
 Me puse a ver todos los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. Quizás con unos padres menos responsables puedes conseguirlo.
 
@@ -656,7 +656,7 @@ Si la sacas delante de un adulto, se podrán a tararear un tema de una serie vie
 
 ### Protecciones deportivas
 
-Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras,** **coderas, rodilleras, ...**
+Empieza a practicar un deporte de contacto y tendrás la excusa necesaria para que te compren o regalen protecciones, **cascos, muñequeras,** **coderas, rodilleras, …**
 
 Estas protecciones no te protegen de vampiros que siempre van a tus partes blandas, pero son buenas para caídas y golpes y llegar a casa llena de rasguños y morados y no tener que dar excusas a preguntas de tus padres.
 
@@ -744,7 +744,7 @@ Montar tu propia banda de cazadoras de no es fácil, es cuestión de tener amiga
 
 Una vez que descubrí que el rollo de los vampiros y sus planes eran algo real empecé a tantear a mis amigas. Una pijamada fue el momento perfecto para hacer las preguntas adecuadas en el momento adecuado.
 
-Estaba acostumbrada a intentar hablarlo con adultos y siempre recibir las mismas respuestas, desde "vaya imaginación tiene está niña" hasta "tus padres deberían consultar estos delirios con un especialista".
+Estaba acostumbrada a intentar hablarlo con adultos y siempre recibir las mismas respuestas, desde «vaya imaginación tiene está niña» hasta «tus padres deberían consultar estos delirios con un especialista».
 
 Sin embargo, esa noche hubo flow y empezamos a contar historias raras que habíamos visto o vivido y poco a poco la conspiración vampírica se hizo muy patente sin todavía darle nombre.
 
@@ -765,18 +765,18 @@ Que haya amigas íntimas que no estén entre mis sistars no quieren decir que se
 Al principio todo era muy caótico cada una hacia lo que podía y quería, pero con el tiempo cada una de nosotras encontró su lugar donde hacía las cosas que le gustaban y sabía hacer bien.
 
 ```
-Los puestos dentro del grupo de cazadoras también pueden ser origen de otros aspectos de tu personaje o por ejemplo que el aspecto de lo que "mejor se te da en clase" evolucione hacia tu puesto en la liga de cazadoras
+Los puestos dentro del grupo de cazadoras también pueden ser origen de otros aspectos de tu personaje o por ejemplo que el aspecto de lo que «mejor se te da en clase» evolucione hacia tu puesto en la liga de cazadoras
 ```
 
 **La reina** es la jefa, la capitana, la mandamás de la banda en una misión. Nosotras elegimos una reina por misión y su palabra durante la misión es sagrada. Pero igual vosotras preferís algo más duradero o más de votar todo.
 
 **Dora** es la que sabe de mapas. Ella busca la ruta de entrada y salida más adecuada y todo lo que ello conlleva, desde bonobús hasta cortacables.
 
-**Geppeto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le mienten a la poli sobre lo que hacías en ese descampado con unas palas.
+**Geppetto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le mienten a la poli sobre lo que hacías en ese descampado con unas palas.
 
 **Gossipgirl** se encarga de recabar información y rumores. Filtra los simples shipeos y salseos en info útil para nuestras misiones de caza.
 
-Por último, **tiritas** que se encarga de las heridas y de la comida y el relax (chuches, chocolate, snacks, ...) después de una caza. 
+Por último, **tiritas** que se encarga de las heridas y de la comida y el relax (chuches, chocolate, snacks, …) después de una caza. 
 
 Cómo ya os he dicho, estos y otros puestos que podáis necesitar en vuestra banda se suelen rotar para que todas sepamos de todo.
 
@@ -788,13 +788,25 @@ Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna ha roto.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Y no hay más. 
 
-Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
-
 ```
-Las reglas que se creen para tu grupo de cazadoras puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar "Nadie se queda atrás, salimos todas o no salimos ninguna" para tratar de salvar a una amiga que se ha roto una pierna.
+Las reglas que se creen puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar «Nadie se queda atrás, salimos todas o no salimos ninguna» para tratar de salvar a una amiga que se ha roto una pierna.
 ```
 
 \sp
+
+Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
+
+### No puede faltar una mascota
+
+La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
+
+[![Foto de llama por wisetock](./assests/images/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background.jpg "Foto de llama por wisetock")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Foto de llama por wisetock")
+
+Necesito una llama, seguro que los vampiros son alérgicos a su lana.
+
+```
+En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
+```
 
 ### Un lugar de reunión
 
@@ -805,21 +817,18 @@ Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco pr
 Al principio tendréis que reuniros en algún soportal cubierto de un patio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
 
 * Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
-
 * Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
+
+\sp
+
 * Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
 * Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
 
-### No puede faltar una mascota
+```
+Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
+```
 
-La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
-
-En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
-
-
-[![Foto de llama por wisetock](./assests/images/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background.jpg "Foto de llama por wisetock")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Foto de llama por wisetock")
-
-Necesito una llama, seguro que los vampiros son alérgicos a su lana.
+\sc
 
 \sp
 
@@ -921,11 +930,11 @@ XXX
 
 Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics.
 
-Simplemente, es un divertimento que surgió de un personaje de "Los Green en la ciudad". Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
+Simplemente, es un divertimento que surgió de un personaje de «Los Green en la ciudad». Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
 
 A partir de ahí pensé que sería divertido jugar con una niña como Andrómeda y una cosa llevo a otra y aquí tienes esta aventura.
 
-También es un poco MoonGirl de "MoonGirl y Dinosaurio Diabólico" por el rollo de barrio que tiene todo el suplemento y por luchar contra la gentrificación, los machirulos y los políticos corruptos.
+También es un poco MoonGirl de «MoonGirl y Dinosaurio Diabólico» por el rollo de barrio que tiene todo el suplemento y por luchar contra la gentrificación, los machirulos y los políticos corruptos.
 
 \sinc
 
@@ -963,7 +972,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Cruz portada por [freepik](https://www.freepik.com/free-vector/flat-ornamental-cross_1631913.htm)
 * Nosferatu By [Rachaurux](https://www.deviantart.com/rachaurux/art/Nosferatu-124220759) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Ajo portada por [brgfx](https://www.freepik.com/free-vector/garlic-cartoon-style-isolated_37409150.htm)
-* Pegatina portada de "Web can do it" por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
+* Pegatina portada de «Web can do it» por [freepik](https://www.freepik.es/vector-gratis/composicion-adorable-feminismo_3386686.htm)
 * Decálogo de la cazadora de vampiros basado en [esta hilo de rpg.net](https://forum.rpg.net/index.php?threads/rules-of-vampire-hunting.139264/)
 * Denarios de plata de la [Wikipedia](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg) Creative Commons Attribution-Share Alike 2.5 Generic 
 * [borderize.com](https://borderize.com/)
@@ -1081,7 +1090,7 @@ Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía def
 
 1. Un montón de información sobre los vampiros y cómo matarlos. Sus puntos fuertes, sus debilidades y cómo aprovecharlas, sus rutinas y en general como funciona todo su oscuro mundo.
 2. Reglas para montar tu grupo de cazadoras de vampiros.
-3. "Buenos días, señor vampiro", una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
+3. «Buenos días, señor vampiro», una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
 
 _AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niños_. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
 
