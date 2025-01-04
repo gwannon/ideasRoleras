@@ -145,15 +145,16 @@ No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero segura
 Hay una serie de creencias populares sobre los vampiros que he podido que no son verdad o por lo menos he podido comprobar que las hagan.
 
 * No se transforman en niebla.
-* No se transforman en lobos o murcilagos.
-* No tienen sentido radar como los murcielagos.
-* Si flotan pero no son grnades voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores.
-* No tienen problemas con las vías de agua. Pueden pasar encima de rios sin problemas.
+* No se transforman en lobos o murciélagos.
+* No tienen sentido radar como los murciélagos.
+* Si flotan, pero no son grandes voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores.
+* No tienen problemas con las vías de agua. Pueden pasar encima de ríos sin problemas.
 * No tienen ninguna marca especial, ni estigmas, como mucho no tienen casi nada de bello corporal.
-* No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataudes.
+* No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataúdes.
 
 \sp
 
+* Los vampiros no tienes poderes mágicos, no lanzan hechizos, ni maldiciones, ni portan objetos mágicos. Tampoco hacen rituales para invocar a sus dioses.
 * No tienen poderes sobre los animales, como ratas o perros. De hecho, la mayoría de los animales se alejan de ellos.
 
 \sc
@@ -294,7 +295,7 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 
 \sinc
 
-## Cómo frustrar sus planes?
+## Sus planes
 
 \conc
 
@@ -306,21 +307,78 @@ Segundo, porque esa inmortalidad les aburre y necesitan un juguete complicado y 
 
 > Vamos, como diría mi abu: Las manos ociosas son el taller del diablo.
 
-Una persona normal, habría acumulado millones de €, se habría comprado una isla y haría traer a víctimas para bebérselas. 
-
-Un vampiro tiene que cargarse las infraestructuras sociales de un barrio para que la gente del barrio se vaya, luego gentrificarlo y llenarlo de pisos turísticos para poder beber de ingleses y alemanes borrachos que volverán a su país con una anemia brutal.
-
 Si te encuentras un vampiro, estaré segura de que está planeando o ejecutando un plan. En cuanto terminan un plan empiezan con otro, ni los disfrutan.
 
-### Los grandes planes
+### Estructura social
+
+Para entender los planes de los vampiros debemos entender primero su sociedad. Cuando hablo así parezco mi profa de Sociales.
+
+Los vampiros tienen una estructura social basada en su poder y antigüedad. Estando los newbies o más débiles abajo y arriba el Lord Vampiro, con un par de niveles intermedios.
+
+Los de arriba mandan sobre los de abajo y los de abajo cuando pueden acaban con el de arriba y toman su sitio. Aquí nadie se jubila y se va a vivir a la playa LOL así que la única forma de ascender es cargándote a tu jefe (uno de los sueños de mi madre).
+
+__Puedes asociarte con un vampiro para cargarte a otro?__ Puedes, pero ten claro que la siguiente en su lista serás tú.
+
+__Intentarán comerte el tarro para que los dejes vivos y vayas a por su jefe?__ Lo intentarán siempre y no te extrañe que dejen pistas falsas que lleven a otro vampiro al que quieren cargarse.
+
+### Planes sobre planes
+
+Los planes vampiros son como sus creadores, así que los planes vampíricos tienen muchos niveles con grandes planes que tienen subplanes más pequeños y así hasta planes minúsculos.
+
+Lo interesante de los planes vampiros es que no siempre tienes que ir hacia arriba, puedes ir hacia los lados. Incluso puedes volver a empezar desde abajo. Pero mejor lo vemos con un ejemplo.
+
+Tu madre empieza a tener problemas en el trabajo por los constantes cambios de cita para la diálisis de tu abu. Descubres que es uno de los funcionarios que pone las citas. Esto sería un __plan menor__.
+
+Según tiras del hilo, oh sorpresa, descubres que trabaja para un vampiro novato al que le han encargado cargarse el centro de salud donde va tu abu. Esto es un __plan inferior__.
+
+Al acabar con el vampiro encuentras mensajes de un señor X que le daba las órdenes a el (__plan medio__) y de otro vampiro noob que estaba desmantelando la casa de cultura, otro plan inferior.
+
+\sp
+
+En ese momento, puede ir hacia arriba e investigar el plan medio y al señor X. También puedes investigar el plan inferior y tratar de salvar la casa de cultura. En este caso igual tienes que empezar investigando los planes menores que se ejecutan en la casa de cultura.
+
+Subir a un nivel superior de plan o explorar otros del mismo nivel pueden ser igual de útiles y eficaces. Si vas a por el señor X y su plan medio, está bien porque ascendientes hacia el gran plan y si acabas con todos sus planes inferiores, seguramente él vendrá a por ti.
+
+También puedes pasar que un tenga que volver a un plan menor porque afecta a tu entorno directo, como que cierran el taller donde curra tu hermano para poner una casa de apuestas. En este caso tendrás dos tramas de planes a seguir que seguramente llevarán al mismo Lord Vampiro.
+
+Has de ser rápida al desmantelar planes porque pueden volver a aparecer o cambiar de forma en poco tiempo, sobre todo si el vampiro te descubre y/o escapa a tu caza.
+
+ |Plan|Quién lo controla|
+ |---|---|
+ |Gran plan|Lord Vampiro|
+ |Plan medio|Vampiro oldie|
+ |Plan inferior|Vampiro noob|
+ |Plan menor|Siervo|
+
+#### Planes mundanos
+ 
+Otro elemento importante de los planes de los chupasangres es que son muy mundanos, tremendamente mundanos. Nada de plagas de zombies, rayos vampirizante o control mental en tu serie favorita.
+
+Son más convertir tu ciudad en una mierda, donde nadie se preocupa de nadie y todos tienen miedo de todos. Es ahí donde sus actos ni son detectados ni son perseguidos y donde viven como reyes.
+
+#### Fantasias de poder
+
+Necesitan tanto el poder como la sangre y por eso sus planes deben influir en muchas personas . Ver a tanta gente bajo el poder de sus planes les encanta, les excita mejor dicho.
+
+Piensalo así, lo normal un vampiro habría acumulado millones de € a lo largo de los años con sus poderes y tendría a un par de siervos invirtiendo el bolsa. Seguramente se habría comprado una isla y haría traer a víctimas para bebérselas. 
+
+Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barrio para que la gente del barrio se vaya, luego gentrificarlo y llenarlo de pisos turísticos y bares de borrachera para poder beber de ingleses y alemanes borrachos que volverán a su país con una anemia brutal. Necesita que haya miles de vidas jodidas para estar satisfechos.
+
+### Los grandes vampiros y sus grandes planes
 
 Detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
+
+\sp
 
 Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
 xxx
 
-### El ego
+### Cómo frustrar sus planes?
+
+xxx
+
+#### El ego
 
 El ego de un Lord Vampiro es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
 
@@ -716,6 +774,8 @@ Los puestos dentro del grupo de cazadoras también pueden ser origen de otros as
 
 **Geppeto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le mienten a la poli sobre lo que hacías en ese descampado con unas palas.
 
+**Gossipgirl** se encarga de recabar información y rumores. Filtra los simples shipeos y salseos en info útil para nuestras misiones de caza.
+
 Por último, **tiritas** que se encarga de las heridas y de la comida y el relax (chuches, chocolate, snacks, ...) después de una caza. 
 
 Cómo ya os he dicho, estos y otros puestos que podáis necesitar en vuestra banda se suelen rotar para que todas sepamos de todo.
@@ -787,7 +847,7 @@ XXX
 
 XXX
 
-#### Regeneración vampirica
+#### Regeneración vampírica
 
 XXX
 
@@ -813,7 +873,7 @@ XXX
 
 #### Estaca de madera en el corazón.
 
-XXXX
+XXX
 
 ***
 
@@ -924,7 +984,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 
 Aquí tienes un listado de jerga más común.
 
-* **Beef:** Tirar beef hace referencia un enfrentamiento o discusión en publico.
+* **Beef:** Tirar beef hace referencia un enfrentamiento o discusión en público.
 * **Bro:** De brother (hermano). Es el nuevo “tío”.
 * **Calle (Tener o no tener):** Tiene mucha experiencia.
 * **Chetao (Chetadísimo):** Que hace trampas o que es tan superior al resto que parece que hace trampas.
