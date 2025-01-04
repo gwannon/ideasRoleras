@@ -376,7 +376,11 @@ xxx
 
 ### Cómo frustrar sus planes?
 
+La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cabeza. xxx
+
 xxx
+
+> Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar la estructurás sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una forma de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
 
 #### El ego
 
@@ -1077,6 +1081,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 
