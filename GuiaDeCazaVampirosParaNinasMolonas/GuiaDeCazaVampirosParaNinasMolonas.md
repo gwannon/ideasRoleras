@@ -333,6 +333,8 @@ __Puedes asociarte con un vampiro para cargarte a otro?__ Puedes, pero ten claro
 
 __Intentarán comerte el tarro para que los dejes vivos y vayas a por su jefe?__ Lo intentarán siempre y no te extrañe que dejen pistas falsas que lleven a otro vampiro al que quieren cargarse.
 
+[![Composición del concepto de verdad en un escritorio de detective by freepik](./assests/images/2149051319.jpg "Composición del concepto de verdad en un escritorio de detective by freepik")](https://www.freepik.es/foto-gratis/composicion-concepto-verdad-escritorio-detective_16691262.htm "Composición del concepto de verdad en un escritorio de detective by freepik")
+
 ### Planes sobre planes
 
 Los planes vampiros son como sus creadores, así que los planes vampíricos tienen muchos niveles con grandes planes que tienen subplanes más pequeños y así hasta planes minúsculos.
@@ -341,26 +343,26 @@ Lo interesante de los planes vampiros es que no siempre tienes que ir hacia arri
 
 Tu madre empieza a tener problemas en el trabajo por los constantes cambios de cita para la diálisis de tu abu. Descubres que es uno de los funcionarios que pone las citas. Esto sería un __plan menor__.
 
+\sp
+
 Según tiras del hilo, oh sorpresa, descubres que trabaja para un vampiro novato al que le han encargado cargarse el centro de salud donde va tu abu. Esto es un __plan inferior__.
 
 Al acabar con el vampiro encuentras mensajes de un señor X que le daba las órdenes (__plan medio__) y de otro vampiro noob que estaba desmantelando la casa de cultura, otro plan inferior.
-
-\sp
 
 En ese momento, puede ir hacia arriba e investigar el plan medio y al señor X. También puedes investigar el plan inferior y tratar de salvar la casa de cultura. En este caso igual tienes que empezar investigando los planes menores que se ejecutan en la casa de cultura.
 
 Subir a un nivel superior de plan o explorar otros del mismo nivel pueden ser igual de útiles y eficaces. Si vas a por el señor X y su plan medio, está bien porque ascendientes hacia el gran plan y si acabas con todos sus planes inferiores, seguramente él vendrá a por ti.
 
+|Plan|Quién lo controla|
+|---|---|
+|Gran plan|Lord Vampiro|
+|Plan medio|Vampiro oldie|
+|Plan inferior|Vampiro noob|
+|Plan menor|Siervo|
+
 También puedes pasar que un tenga que volver a un plan menor porque afecta a tu entorno directo, como que cierran el taller donde curra tu hermano para poner una casa de apuestas. En este caso tendrás dos tramas de planes a seguir que seguramente llevarán al mismo Lord Vampiro.
 
 Has de ser rápida al desmantelar planes porque pueden volver a aparecer o cambiar de forma en poco tiempo, sobre todo si el vampiro te descubre y/o escapa a tu caza.
-
- |Plan|Quién lo controla|
- |---|---|
- |Gran plan|Lord Vampiro|
- |Plan medio|Vampiro oldie|
- |Plan inferior|Vampiro noob|
- |Plan menor|Siervo|
 
 #### Planes mundanos
  
@@ -376,11 +378,11 @@ Piénsalo así, lo normal un vampiro habría acumulado millones de € a lo larg
 
 Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barrio para que la gente del barrio se vaya, luego gentrificarlo y llenarlo de pisos turísticos y bares de borrachera para poder beber de ingleses y alemanes borrachos que volverán a su país con una anemia brutal. Necesita que haya miles de vidas jodidas para estar satisfechos.
 
+\sp
+
 ### Los grandes vampiros y sus grandes planes
 
-Detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampiros, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
-
-\sp
+Detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampires, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
 
 Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
@@ -388,7 +390,7 @@ xxx
 
 ### Cómo frustrar sus planes?
 
-La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cabeza. xxx
+La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
 
 xxx
 
@@ -399,52 +401,6 @@ xxx
 El ego de un Lord Vampiro es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
 
 xxx
-
-\sp
-
-\sinc
-
-## Cómo se defienden?
-
-Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito social y si eso falla pasan a lo físico.
-
-\conc
-
-### Ataques sociales
-
-Mientras te muevas en la periferia de sus actividades usarán todo su arsenal social para desacreditarte y aislarte, pudiendo llegar a desquiciarte y acabar en un psiquiátrico si no tienes una mente preparada.
-
-Veamos algunas tácticas:
-
-* Pueden convencer a los abusones del patio de que se ceben contigo y te cambies de colegio por otro más lejos.
-* Mover hilos para despedir o cambiar de lugar de trabajo a tus padres o tutores y que tengas que abandonar el barrio.
-* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte de buscar como conseguir dinero en vez de cazar vampiros.
-* Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
-* Quizás hagan que te sigan peña cripi, solo para atemorizarte y tenerte en tensión.
-
-La mejor defensa que tienes son tus socias y amigas. Ellas serán tu escudo contra toda la mierda que puede echarte encima. No digo que sea fácil con amigas, digo que sin su apoyo casi seguro sucumbes a sus ataques.
-
-La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar. Si te quitan la ayuda del comedor, puedes ir subiendo por la empinada cuesta de la burocracia hasta dar con el siervo que te ha hecho la putada y de él llegar al Lord Vampiro.
-
-### Ataques físicos
-
-xxx
-
-Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, … Quieres hacerte daño a ti y solo a ti.
-
-xxx
-
-> Siempre que sea posible un Lord Vampiro no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian. Casi siempre tratan de trabajar a través de agentes humanos o sus sirvientes.
-
-\sp
-
-### Sirvientes humanos
-
-Los siervos, ghouls, thralls, renfields son diferentes nombres a través del tiempo y las tradiciones de lo que yo llamo _chupones_. Los chupones son humanos que sirven a los vampiros, bien como herramientas de sus planes, bien como siervos o protectores.
-
-xxx
-
-\sc
 
 \sp
 
@@ -499,6 +455,94 @@ Aparte, quedas muy fachera y recuerda que el estilo está por encima de la susta
 ### Aliados?
 
 TUS AMIGAS. No hay más.
+
+\sp
+
+\sinc
+
+## Cómo se defienden?
+
+Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito social y si eso falla pasan a lo físico.
+
+\conc
+
+### Ataques sociales
+
+Mientras te muevas en la periferia de sus actividades usarán todo su arsenal social para desacreditarte y aislarte, pudiendo llegar a desquiciarte y acabar en un psiquiátrico si no tienes una mente preparada.
+
+Veamos algunas tácticas:
+
+* Pueden convencer a los abusones del patio de que se ceben contigo y te cambies de colegio por otro más lejos.
+* Mover hilos para despedir o cambiar de lugar de trabajo a tus padres o tutores y que tengas que abandonar el barrio.
+* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte de buscar como conseguir dinero en vez de cazar vampiros.
+* Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
+* Quizás hagan que te sigan peña cripi, solo para atemorizarte y tenerte en tensión.
+
+La mejor defensa que tienes son tus socias y amigas. Ellas serán tu escudo contra toda la mierda que puede echarte encima. No digo que sea fácil con amigas, digo que sin su apoyo casi seguro sucumbes a sus ataques.
+
+La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar. Si te quitan la ayuda del comedor, puedes ir subiendo por la empinada cuesta de la burocracia hasta dar con el siervo que te ha hecho la putada y de él llegar al Lord Vampiro.
+
+### Ataques físicos
+
+Cuando empiezas a adentrarte en sus planes desbaratándolos y dándole problemas, es decir cuando empiezas a truncar sus planes medios, suelen pasar al plano físico y periódicamente pueden enviar a alguien para acabar contigo.
+
+Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, … Quieres hacerte daño a ti y solo a ti.
+
+Si has seguido las normas estás bien protegida y preparada y tienes un grupo de sistars que te apoya, así que si mandan sirvientes humanos no son tan poderosos como para no poder derrotarlos o escapar de ellos. Si mandan vampiros, tu casa debería ser impenetrable y fuera de ella tienes armas para defenderte.
+
+> Siempre que sea posible un chupasangre no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian, además se ven como pensadores maquiavélicos, no picadoras de carne. 
+
+\sp
+
+Casi siempre tratan de trabajar a través de sus chupones o de los vampiros que están por debajo de ellos. No les gusta meter gente de fuera. 
+
+Podéis pensar que podrían contratar a un grupo de supermercenarios para acabar con tu panda de cazadoras, cuando empiezas a desbaratar su plan, pero piensa que eres una niña de 12 años. Sería raro contratar a un mercenario checheno para que ejecute a un grupo de niñas de 12 años. Estos encargos provocan muchas preguntas. Además, que aparezcan 4 cadáveres de 4 niñas de un barrio, puede hacer que el barrio entero se levante y luche por él y eso es lo último que quiere el Lord. 
+
+Un gran vampiro solo recurrirá a fuerzas especiales cuando su status se vea altamente en peligro, hasta ese momento tratarán de llevar todo a modo local.
+
+### Sirvientes humanos
+
+Los siervos, ghouls, thralls, renfields son diferentes nombres a través del tiempo y las tradiciones de lo que yo llamo _chupones_.
+
+Los chupones son humanos que sirven a los vampiros, bien como herramientas de sus planes, bien como sirvientes o protectores.
+
+El vampiro suele darle pequeñas dosis de su sangre para engancharles al subidón y que la resaca de después cada vez sea mejor. Si deja de recibir su dosis, volverá tras un mono brutal a la normalidad. 
+
+Por eso cuando te enfrentes a un chupón deberías usar fuerza no letal. Al final muchas veces son víctimas del sistema y la gran mayoría pueden ser rehabilitadas. Solo unos pocos escogieron su depravado y cripi destino y buscarán otro maestro si no tienen uno.
+
+Muchos sirvientes empezaron siendo víctimas. La mayoría de las veces mientras las vigilaba y/o seducía el vampiro vio cosas que le eran útil y paso de alimentarse de ella a convertirla en su sirviente.
+
+No hay un patrón fijo para los chupones, pueden ser de cualquier estrato social, tener cualquier físico, cualquier profesión y cualquier ideología. Cualquiera puede acabar siendo un siervo de vampiro. Son un poco como las sectas, un momento de bajón y te enganchan.
+
+Podemos hablar de 3 tipos de chupones, los que ejecutan sus planes, los que les sirven y los que les protegen.
+
+En vampiros novatos que pueden mantener pocos siervos estos tres tipos se pueden solapar, un Lord Vampiro, tendrá varios siervos por cada tipo 
+
+#### Ejecutores de planes
+
+Estos chupones se dedican a llevar a cabo los planes vampíricos. Muchas veces ni saben que son forma de un plan, ni que trabajan para los chupasangres. Igual simplemente reciben órdenes por Telegram y Bizums con la pasta por su trabajo.
+
+Otros, sin embargo, son adictos a su vampiro o incluso son parte fundamental de plan como políticos de la ciudad, altos funcionarios y banqueros. 
+
+#### Sirvientes
+
+Su vida está dedicada a servir a su amo vampiro al que casi siempre están enganchados. Limpian su guarida, cumplen sus caprichos y sobre todo se encargan de proporcionarles alimentación. 
+
+\sp
+
+Eso supone buscar a las víctimas preferidas de su amo y engañarlas para llevarlas ante su amo para que se alimente de ellas y luego limpiar todo y eliminar pruebas.
+
+Si la sanguijuela es más de cazar por sí solo, le ayuda en la caza, aislando a la víctima de sus amistades, emborrachándola, … Luego se encargará de llevarla a casa o en casos extremos deshacerse del cuerpo sin dejar pruebas.
+
+> La verdad que algunas veces los vampiros se vuelven tan dependientes de sus sirvientes que se convierten en unos inútiles que se mueren solos si les alejas de su servidumbre.
+
+\sc
+
+#### Protectores
+
+Son protectores, pero también funcionan como fuerza de choque. Hablamos de gimbros que se ponían hasta arriba de anabolizantes y que ahora se dopan con sangre de vampiro. No son un portento de las peleas, pero tienen fuerza y aguante y han aprendido cosillas de boxeo y MMA.
+
+La verdad que lo mejor es engañarlos, es muchísimo más fácil que enfrentarse con ellos físicamente. De todas formas, como nos enseñó Mónica del punto morado del barrio, todos caen, si aciertas en los pendientes reales.
 
 \sp
 
@@ -562,7 +606,7 @@ Este listado es abierto. Si conoces algún buen libro o peli, mándamelo a mis r
 
 ***
 
-# Reglas del juego
+# Las reglas del juego
 
 \sinc
 
@@ -859,9 +903,9 @@ XXX
 
 XXX
 
-#### Flotar
+### Flotar
 
-XXX
+Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena forma de escapar de los peligros. 
 
 #### Fuerza, resistencia y velocidad vampírica
 
