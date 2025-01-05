@@ -145,19 +145,17 @@ No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero segura
 Hay una serie de creencias populares sobre los vampiros que he podido que no son verdad o por lo menos he podido comprobar que las hagan.
 
 * No se transforman en niebla.
-* No se transforman en lobos o murciélagos.
+* No se transforman en lobos o murciélagos. Igual sí, pero con los locos de caza igual salen escopeteados.
 * No tienen sentido radar como los murciélagos.
-* Si flotan, pero no son grandes voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores.
+* Si flotan, pero no son grandes voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores para mirar, todo muy cripi.
 * No tienen problemas con las vías de agua. Pueden pasar encima de ríos sin problemas.
 * No tienen ninguna marca especial, ni estigmas, como mucho no tienen casi nada de bello corporal.
-* No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataúdes.
 
 \sp
 
-* Los vampiros no tienes poderes mágicos, no lanzan hechizos, ni maldiciones, ni portan objetos mágicos. Tampoco hacen rituales para invocar a sus dioses.
+* No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataúdes.
+* Los vampiros no tienes poderes mágicos, no lanzan hechizos, ni maldiciones, ni portan objetos mágicos. Como dice Marisa, no dan loteo. Tampoco hacen rituales para invocar a sus dioses.
 * No tienen poderes sobre los animales, como ratas o perros. De hecho, la mayoría de los animales se alejan de ellos.
-
-\sc
 
 \sp
 
@@ -169,9 +167,9 @@ Hay una serie de creencias populares sobre los vampiros que he podido que no son
 
 La imagen clásica del vampiro en un ataúd con tierra de su país de origen está bastante alejada de la realidad. No necesitan ninguna de esas cosas, solo un _sitio seguro_ y donde _no entre la luz del sol_. Puedes dormir en una cama supergótica con doseles y cortinajes supergruesos o dentro de una compleja caja metálica anti-cazavampiros en una habitación del pánico. En caso de necesidad, colgando bocabajo de la viga de un desván o arrebujados en un conducto de ventilación de un garaje subterráneo. 
 
-Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad tienen montado un despacho donde duermen, o quizás tengan una alquilada una tienda en eternas reformas en el centro comercial por donde se mueven.
+Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad, tienen montado en el local un despacho donde duermen, o quizás tengan una alquilada una tienda en eternas reformas en el centro comercial por donde se mueven.
 
-Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios y el hecho que durante el día sean vulnerables hace sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
+Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios y el hecho que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
 
 \sinc
 
@@ -466,13 +464,13 @@ Si se rompen los trozos de cristal, estos tienen plata y pueden usarse como arma
 
 Las sanguijuelas no pueden entrar en una casa si no son invitados así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. Así el tonto de mi hermano no invita a entrar a quien no debe.
 
-La invitación es personal, así que solo le vale al vampiro al que se la diste, ni sus siervos ni su Liege están cubiertos en esa invitación 
+La invitación es personal, así que solo le vale al vampiro al que se la diste, ni sus siervos ni su Lord están cubiertos en esa invitación 
 
 Si el vampiro rompe en tu casa las leyes de hospitalidad se puede revocar la invitación, pero vamos es difícil revocar algo si primero te han roto el cuello.
 
 ### Entrenamiento de combate
 
-Puedes pensar que las MMA, el Brazilian Jiujitsu y mierdas similares te vendrán bien en tu batalla contra los chupasangres, pero no merecen la pena. No tienes ni el tiempo, ni el peso ni la fuerza para ser un peligro. Además, los gimbros se reirán de ti.
+Puedes pensar que las MMA, el Brazilian Jiujitsu y mierdas similares te vendrán bien en tu batalla contra los chupasangres, pero no merecen la pena. No tienes ni el tiempo, ni el peso, ni la fuerza para ser un peligro. Además, los gimbros se reirán de ti.
 
 Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
 
@@ -482,11 +480,11 @@ Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu 
 
 La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un vampiro es no mirarles a los ojos. Pero como es complicado muchas veces para matarlos, unas gafas de sol pueden ayudar.
 
+Aparte, quedas muy fachera y recuerda que el estilo está por encima de la sustance.
+
 ### Aliados?
 
 TUS AMIGAS. No hay más.
-
-\sc
 
 \sp
 
@@ -513,8 +511,6 @@ Un cuerpo humano que bebe sangre vampírica la combate y la termina expulsando, 
 En ese momento el proceso ya es irreversible, pero todavía no eres un vampiro, solo eres medio vampiro. Según pases los días la sangre de vampiro irá poco a poco tomando el control de ti hasta que te obligue a beber sangre fresca. En ese momento ya eres un vampiro completo con todas sus fortalezas y debilidades.
 
 Normalmente, la primera vez que te alimentas suele ser un fiestón de sangre y miembros desmembrados, así que los casos de asesinatos más brutales suelen estar relacionados con vampiros noobs, aunque los medios traten de taparlo achacándolo a otras cosas.
-
-Los vampiros noobs son fáciles de cazar, así que aprovéchalos para entrenar a las nuevas reclutas de tu panda de cazadoras.
 
 \sp
 
@@ -572,7 +568,7 @@ Uno de tus tres aspectos secundarios debería ser _Soy una niña_, que refleja n
 
 #### Ganarse la vida en el barrio
 
-Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vida en el barrio. Todo esto no solo va a marcar tu forma de vida, sino también tu ética y tu relación con la ley. Alguno de tus aspectos podría estar relacionado con tu forma de ganarte la vida.
+Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vida en el barrio. Todo esto no solo va a marcar tu forma de vida, sino también tu ética y tu relación con la ley.
 
 **Pides la paga:** Pides a tus padres la paga todas las semanas. Es menos dinero que el resto de formas, pero es dinero muy fácil.
 
@@ -591,7 +587,7 @@ Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vid
 **Buscando en la basura:** Vives de lo que encuentras en la basura y los vertederos. Las cosas buenas las vendes y las útiles te las quedas.
 
 ```
-Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, podéis evaluar, pero no deberías aceptar aquellas que vayan en contra de los derechos de la infancia como prostitución infantil.
+Alguno de los aspectos de una cazadora podría estar relacionado con su forma de ganarse la vida. Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, puedes evaluarla y decidir si la permites, pero no deberías aceptar aquellas que vayan en contra de los derechos de la infancia como prostitución infantil.
 ```
 
 \sp
@@ -601,8 +597,6 @@ Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de e
 Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
 
 Ser buena en matemáticas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una máquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
-
-\sc
 
 \sp
 
@@ -780,6 +774,8 @@ Los puestos dentro del grupo de cazadoras también pueden ser origen de otros as
 
 **Gossipgirl** se encarga de recabar información y rumores. Filtra los simples shipeos y salseos en info útil para nuestras misiones de caza.
 
+**Coach** se encarga de entrenar a las novatas en las técnicas básicas de la caza. Los vampiros noobs son fáciles de cazar, así que aprovecha estas misiones de caza para entrenar a las nuevas reclutas. 
+
 Por último, **tiritas** que se encarga de las heridas y de la comida y el relax (chuches, chocolate, snacks, …) después de una caza. 
 
 Cómo ya os he dicho, estos y otros puestos que podáis necesitar en vuestra banda se suelen rotar para que todas sepamos de todo.
@@ -792,21 +788,25 @@ Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna ha roto.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Y no hay más. 
 
+Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
+
+\sp
+
 ```
 Las reglas que se creen puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar «Nadie se queda atrás, salimos todas o no salimos ninguna» para tratar de salvar a una amiga que se ha roto una pierna.
 ```
 
-\sp
-
-Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
-
 ### No puede faltar una mascota
 
-La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc. 
+La pandilla tiene que tener una mascota. No tiene por qué ser siempre un perro o un gato, puede ser un atolondrado y torpe hurón, un viejo y ruidoso canario, un ave rapaz que vive en el barrio al que curaron una ala rota, etc.
+
+Las mascotas no son juguetes, hay que cuidarlas, alimentarlas, vacunarlas y darles muchos mimos. Recuerda __NO COMPRES, ADOPTA__.
 
 [![Foto de llama por wisetock](./assests/images/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background.jpg "Foto de llama por wisetock")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Foto de llama por wisetock")
 
 Necesito una llama, seguro que los vampiros son alérgicos a su lana.
+
+\sc
 
 ```
 En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
@@ -820,19 +820,16 @@ Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco pr
 
 Al principio tendréis que reuniros en algún soportal cubierto de un patio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
 
-* Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
-* Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
-
 \sp
 
+* Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
+* Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
 * Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
 * Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
 
 ```
 Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
 ```
-
-\sc
 
 \sp
 
@@ -1010,6 +1007,7 @@ Aquí tienes un listado de jerga más común.
 * **De chill:** Ha sustituido al “de tranqui”.
 * **Dejar en leído:** No responderte a los mensajes.
 * **Evento canónico (Es canon):** Significa que es un momento de tu vida que no puedes cambiar y que te define para siempre.
+* **Fachero:** Algo fachero es algo que es chulo o bonito.
 * **Funar:** Cancelar por tus opiniones.
 * **Goat (Greatest Of All Time):** El mejor de todos los tiempos.
 * **Hostear:*** Ser el anfitrión de un evento.

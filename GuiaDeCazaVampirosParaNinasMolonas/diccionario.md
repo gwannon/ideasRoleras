@@ -45,7 +45,7 @@ fifas: generalmente hombres heterosexuales que consumen y hablan mucho de fútbo
 
 
 F: en el videojuego ‘Call of Duty: Advanced Warfare’, un personaje relevante muere y aparece el mensaje: “Pulsa ‘F’ para presentar tus respetos”. De ahí, “F” se usa para expresar pena o lamentar algo.
-fachero: cuando algo es fachero es que es algo es algo chulo o bonito.
+
  
 
  
