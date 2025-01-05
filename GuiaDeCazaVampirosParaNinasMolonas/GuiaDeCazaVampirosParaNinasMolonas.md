@@ -1148,10 +1148,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 \conc
 
-\sp
-
-&nbsp;
-
 ***
 
 &nbsp;
