@@ -193,11 +193,25 @@ Suelo sacar fotos de las alcantarillas y si cuando busco a una sanguijuela detec
 
 No es la primera vez que usan pisos turísticos como guaridas temporales o permanentes. Lo primordial es que no necesitan ser invitados porque no son el hogar de nadie. Se contratan por internet y la mayoría de las veces ni aparece el dueño a abrirte. Entra y sale mucha gente variada a horas raras, el ruido y los gritos son normales, así que son tapaderas perfectas para sus actividades.
 
+[![Wall mounted combination key safes by Acabashi](./assests/images/Key_safe_combination_wall_mounted.jpg "Wall mounted combination key safes by Acabashi")](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg "Wall mounted combination key safes by Acabashi")
+
 > Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
 
 ### Protección de sus guaridas
 
-xxx
+Las guaridas de los vampiros, salvo extrañas excepciones, son tan grandes, lujosas y seguras como el nivel del chupasangre. Más nivel más espacio, lujo y seguridad. Así que un vampiro newbie puede tener un pequeño recinto asegurado y un Lord vampiro tendrá un ático que es casi una fortaleza con seguridad armada y sistemas de vigilancia de última generación.
+
+Aun así hay una serie de aspectos que hasta el vampiro más cutre tiene en sus guaridas.
+
+* __Insonorizado__ para que no oiga gritar a las víctimas.
+* Están __aislados del sol__ con cortinones, persianas y directamente sin ventanas.
+* Tienen buenas puertas de seguridad con __cerraduras de última tecnología__ que son muy complicadas de abrir.
+* Están __protegidas contra el fuego__ con materiales ignífugos y medidas antiincendios.
+* Suelen tener una __pequeña armería__ con un par de las armas preferidas de la sanguijuela que pueden ser desde una hacha de guerra o un alfanje hasta una Glock con mira láser.
+
+A partir de ahí puedes meter lo que quieras, habitación de invitados, celdas, diferentes salas de diversión, quirófanos, … lo que tu imaginación se le pueda ocurrir. 
+
+Pasarte por las obras de los pisos como los jubilados y dar un vistazo a las licencias de obra que deben exponer públicamente pueden darte pistas de lo que están haciendo y detectar guaridas vampíricas. 
 
 \sp
 
@@ -378,7 +392,7 @@ La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cabeza.
 
 xxx
 
-> Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar la estructurás sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una forma de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
+> Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar las estructuras sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una forma de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
 
 #### El ego
 
@@ -985,6 +999,9 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * [Pistola agua Xiaomi](https://m.media-amazon.com/images/I/71aOczXzPvL._AC_SX679_.jpg)
 * Versatile Red Swiss Army Knife by [brgfx](https://www.freepik.com/free-vector/versatile-red-swiss-army-knife_146612585.htm)
 * Foto llama andina [wirestock](https://www.freepik.com/free-photo/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background_10636706.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Wall mounted combination key safes [by Acabashi](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) Creative Commons Attribution-ShareAlike 4.0 International
+
+\sp
 
 \sinc
 
@@ -996,13 +1013,12 @@ Aquí tienes un listado de jerga más común.
 
 * **Beef:** Tirar beef hace referencia un enfrentamiento o discusión en público.
 * **Bro:** De brother (hermano). Es el nuevo “tío”.
+* **Buenro:** Abreviatura de buen rollo.
 * **Calle (Tener o no tener):** Tiene mucha experiencia.
 * **Chetao (Chetadísimo):** Que hace trampas o que es tan superior al resto que parece que hace trampas.
 * **Cool:** Es el nuevo mola. 
+* **Crack:** Alguien muy torpe y matado en algo.
 * **Crush:** Se refiere tanto a un amor platónico como a la persona que te gusta.
-
-\sp
-
 * **Cringe:** Algo te genera vergüenza ajena o bochorno.
 * **De chill:** Ha sustituido al “de tranqui”.
 * **Dejar en leído:** No responderte a los mensajes.
@@ -1014,14 +1030,18 @@ Aquí tienes un listado de jerga más común.
 * **Hype:** Expectativas desproporcionadas ante la salida de una película, serie, disco, etc.
 * **Lache:** Véase Cringe.
 * **Literal:** Forma de decir que estás de acuerdo con algo tipo Ok.
+* **Malro:** Abreviatura de mal rollo.
+* **Mierder:** Persona indeseable.
 * **Mood:** Estado anímico o humor que tienes. Es normal poner un meme + My mood para mostrar tu estado anímico actual.
 * **Mucho texto:** Te están llamando pesado y debes callarte. 
 * **NPC (Non Playable Character):** Gente que no aporta nada.
 * **PEC (Por el culo):** Algo que te gusta muchísimo.
+* **Pro:** De profesional. Alguien que es bueno en algo.
 * **Random:** Algo es al azar.
 * **Rentar:** Si algo te renta o no te renta quiere para decir que algo te compensa o no.
 * **Servir coño:** Cuando alguien que ha hecho algo muy bien.
 * **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
+* **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
 * **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
 
 \sp
