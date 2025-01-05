@@ -897,6 +897,8 @@ Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a s
 
 \conc
 
+[![Vampire Anatomy 1 By DanielGovar](./assests/images/vampire_anatomy_1_by_danielgovar_d2ch4qx-414w-2x.jpg "Vampire Anatomy 1 By DanielGovar")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Vampire Anatomy 1 By DanielGovar")
+
 XXX
 
 ### Poderes vampíricos
@@ -1044,6 +1046,8 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Versatile Red Swiss Army Knife by [brgfx](https://www.freepik.com/free-vector/versatile-red-swiss-army-knife_146612585.htm)
 * Foto llama andina [wirestock](https://www.freepik.com/free-photo/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background_10636706.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Wall mounted combination key safes [by Acabashi](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) Creative Commons Attribution-ShareAlike 4.0 International
+* Vampire Anatomy 1 By [DanielGovar](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+
 
 \sp
 
