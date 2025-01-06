@@ -386,13 +386,13 @@ Detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, 
 
 Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
-xxx
+XXX
 
 ### Cómo frustrar sus planes?
 
 La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
 
-xxx
+XXX
 
 > Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar las estructuras sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una forma de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
 
@@ -400,7 +400,7 @@ xxx
 
 El ego de un Lord Vampiro es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
 
-xxx
+XXX
 
 \sp
 
@@ -1099,7 +1099,6 @@ Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviárm
 * Foto llama andina [wirestock](https://www.freepik.com/free-photo/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background_10636706.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Wall mounted combination key safes [by Acabashi](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) Creative Commons Attribution-ShareAlike 4.0 International
 * Vampire Anatomy 1 By [DanielGovar](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
-
 
 \sp
 

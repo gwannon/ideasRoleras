@@ -31,3 +31,4 @@
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QIntentarán comerte el tarro para que los dejes vivos y vayas a por su jefe?\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QNo tienen sentido radar como los murciélagos.\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QSimplemente, es un divertimento que surgió de un personaje de «Los Green en la ciudad».\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlo que tu imaginación se le pueda ocurrir.\\E$"}
