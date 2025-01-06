@@ -444,13 +444,15 @@ La invitación es personal, así que solo le vale al vampiro al que se la diste,
 
 Si el vampiro rompe en tu casa las leyes de hospitalidad se puede revocar la invitación, pero vamos es difícil revocar algo si primero te han roto el cuello.
 
+[![Young woman boxer training at the gym por senivpetro](./assests/images/young-woman-boxer-training-gym.jpg "Young woman boxer training at the gym por senivpetro")](https://www.freepik.com/free-photo/young-woman-boxer-training-gym_6255935.htm "Young woman boxer training at the gym por senivpetro")
+
 ### Entrenamiento de combate
 
 Puedes pensar que las MMA, el Brazilian Jiujitsu y mierdas similares te vendrán bien en tu batalla contra los chupasangres, pero no merecen la pena. No tienes ni el tiempo, ni el peso, ni la fuerza para ser un peligro. Además, los gimbros se reirán de ti.
 
-Mi consejo es que aprendas _autodefensa personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
-
 \sp
+
+Mi consejo es que aprendas _autodefensa_ _personal_ con el _grupo feminista de tu barrio_. Lo que te enseñen esas reinas será mucho más útil para alguien de nuestro tamaño que lo te puedan enseñar los kungfu-bros del gimnasio. 
 
 ### Gafas de sol
 
@@ -1060,6 +1062,20 @@ XXX
 
 XXX
 
+\sp
+
+\sinc
+
+## Amigos y enemigos
+
+Aquí tienes las descripciones de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
+
+\conc
+
+### Lord Ceballos
+
+XXX
+
 ***
 
 # Epílogo
@@ -1128,6 +1144,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Foto llama andina [wirestock](https://www.freepik.com/free-photo/beautiful-shot-white-llama-looking-camera-with-blurred-mountains-background_10636706.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Wall mounted combination key safes [by Acabashi](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) Creative Commons Attribution-ShareAlike 4.0 International
 * Vampire Anatomy 1 By [DanielGovar](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Young woman boxer training at the gym por [senivpetro](https://www.freepik.com/free-photo/young-woman-boxer-training-gym_6255935.htm)
 
 \sp
 
@@ -1229,6 +1246,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
  
 ***
 
