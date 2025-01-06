@@ -24,7 +24,7 @@ Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instit
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
 
 ```
-AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. Tiene temas adultos, drogas, situaciones duras y violencia en la que se verán enredados menores, asi que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.  
+AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. Tiene temas adultos, drogas, situaciones duras y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.  
 ```
 
 \conc
@@ -64,7 +64,7 @@ Estas son las que veo más probables:
 
 ## Cómo son?
 
-De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. Puedes de cualquier forma no hay un patrón, pero siempre están más pálidos de lo normal y no suelen tener casi bello corporal y es facil detectarlo, porque son muy dados a enseñar cacho.
+De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. Puedes de cualquier forma no hay un patrón, pero siempre están más pálidos de lo normal y no suelen tener casi bello corporal y es fácil detectarlo, porque son muy dados a enseñar cacho.
 
 Pero en su forma real, denominada forma _Trash_, son feos a rabiar. Su piel es gomosa, sus ojos saltones y demasiado juntos y sus dedos alargados y ganchudos. Van encorvados y no paran de moverse.
 
@@ -106,7 +106,7 @@ Los vampiros beben exclusivamente sangre fresca de humanos. No toleran otros tip
 
 Un nosferatu medio, si está asentado y no tiene problemas, suele beber sangre unas tres veces a la semana. Pero en casos de necesidad puede subsistir con una vez a la semana, pero pasará mucha sed, hambre, … lo que sea. Normalmente, cuando están hambrientos no pueden acceder a su forma Crush, se guían más por sus instintos y la forma Trash sale a la luz todo el rato.
 
-El proceso de alimentación no suele ser rápido y necesitan un par de minutos mientras chupan a su víctima hasta quedarse llenos. La ventaja es que son tremendamente vulnerables en esta situación con lo que es un buen momento para atacar.
+El proceso de alimentación no suele ser rápido y necesitan un par de minutos mientras chupan a su víctima hasta quedarse llenos. La ventaja es que son tremendamente vulnerables en esta situación, con lo que es un buen momento para atacar.
 
 Son muy buenos ocultando sus mordiscos en público y la verdad que pueden parecer un par de amantes enrollándose. Por lo menos yo, gracias a la profa de Educación sexual, puede distinguir un rollo de un vampiro dándose un festín. 
 
@@ -167,7 +167,7 @@ Hay una serie de creencias populares sobre los vampiros que he podido que no son
 
 La imagen clásica del vampiro en un ataúd con tierra de su país de origen está bastante alejada de la realidad. No necesitan ninguna de esas cosas, solo un _sitio seguro_ y donde _no entre la luz del sol_. Puedes dormir en una cama supergótica con doseles y cortinajes supergruesos o dentro de una compleja caja metálica anti-cazavampiros en una habitación del pánico. En caso de necesidad, colgando bocabajo de la viga de un desván o arrebujados en un conducto de ventilación de un garaje subterráneo. 
 
-Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad, tienen montado en el local un despacho donde duermen, o quizás tengan una alquilada una tienda en eternas reformas en el centro comercial por donde se mueven.
+Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad, tienen montado en el local un despacho donde duermen, o quizás tengan una tienda alquilada en eternas reformas en el centro comercial por donde se mueven.
 
 Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios y el hecho que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
 
@@ -195,13 +195,13 @@ No es la primera vez que usan pisos turísticos como guaridas temporales o perma
 
 [![Wall mounted combination key safes by Acabashi](./assests/images/Key_safe_combination_wall_mounted.jpg "Wall mounted combination key safes by Acabashi")](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg "Wall mounted combination key safes by Acabashi")
 
-> Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio más seguro será.
+> Siempre que puedas, jode las casetillas con las llaves. La silicona es barata y funciona de miedo. Cuantos menos pisos turísticos en el barrio, más seguro será.
 
 ### Protección de sus guaridas
 
-Las guaridas de los vampiros, salvo extrañas excepciones, son tan grandes, lujosas y seguras como el nivel del chupasangre. Más nivel más espacio, lujo y seguridad. Así que un vampiro newbie puede tener un pequeño recinto asegurado y un Lord vampiro tendrá un ático que es casi una fortaleza con seguridad armada y sistemas de vigilancia de última generación.
+Las guaridas de los vampiros, salvo extrañas excepciones, son tan grandes, lujosas y seguras como el nivel del chupasangre. Más nivel, más espacio, lujo y seguridad. Así que un vampiro newbie puede tener un pequeño recinto asegurado y un Lord vampiro tendrá un ático que es casi una fortaleza con seguridad armada y sistemas de vigilancia de última generación.
 
-Aun así hay una serie de aspectos que hasta el vampiro más cutre tiene en sus guaridas.
+Aun así, hay una serie de aspectos que hasta el vampiro más cutre tiene en sus guaridas.
 
 * __Insonorizado__ para que no oiga gritar a las víctimas.
 * Están __aislados del sol__ con cortinones, persianas y directamente sin ventanas.
@@ -227,7 +227,7 @@ La verdad que para ser seres inmortales y superpoderosos, los vampiros tienen mu
 
 La tradición marca que un vampiro muere si su corazón es atravesado por una estaca de madera y es totalmente cierto. 
 
-Lo que pasa es que es algo muy complicado, debe estar dormido o inmovilizado para hacerlo. Bueno, si cae sobre una valla de madera igual alguna de las tablas atraviesa su corazón. Sea como sea es una medida bastante fiable de que no volverá a molestar.
+Lo que pasa es que es algo muy complicado, debe estar dormido o inmovilizado para hacerlo. Bueno, si cae sobre una valla de madera igual alguna de las tablas atraviesa su corazón. Sea como sea, es una medida bastante fiable de que no volverá a molestar.
 
 [![Estacas de Amazon](./assests/images/estacas.jpg "Estacas de Amazon")](https://www.amazon.es/encuestas-pulgadas-construcci%C3%B3n-topograf%C3%ADa-utilidades/dp/B0C6K6YVZ5 "Estacas de Amazon")
 
@@ -263,15 +263,15 @@ En serio, úsalo como último recurso.
 
 La luz del día es mortal para estas sanguijuelas. Unos pocos segundos expuestos a la luz solar y se convierte en cenizas. Así que tus operaciones deberían ser de día, cuando duermen y son más débiles.
 
-Siempre que te muevas por una de sus guaridas trata de abrir ventanas, quitar papeles de los cristales y descorrer cortinas (cómo les gustan los cortinones de abuela). Cuanta más luz entre más seguro será para ti.
+Siempre que te muevas por una de sus guaridas trata de abrir ventanas, quitar papeles de los cristales y descorrer cortinas (cómo les gustan los cortinones de abuela). Cuanta más luz entre, más seguro será para ti.
 
-Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo y dañan a los vampiros, pero no son tan mortales como la luz del sol. Puedes quedar de rarita llevando una en la mochila, pero es que además de dañar a los vampiros puedes usarlas para _detectar fluidos como sangre_.
+Las linternas UV (ultravioletas) que todos conocemos como luz negra funcionan de lujo y dañan a los vampiros, pero no son tan mortales como la luz del sol. Puedes quedar de rarita llevando una en la mochila, pero es que además de dañar a los vampiros, puedes usarlas para _detectar fluidos como sangre_.
 
 [![Cuatro modelos de pililla benditera o aguabenditeras de loza popular española. ](./assests/images/Benditeras_españolas_(XVIII_al_XX).jpg "Cuatro modelos de pililla benditera o aguabenditeras de loza popular española. ")](https://es.wikipedia.org/wiki/Benditera#/media/Archivo:Benditeras_espa%C3%B1olas_(XVIII_al_XX).jpg "Cuatro modelos de pililla benditera o aguabenditeras de loza popular española. ")
 
 ### Agua bendita
 
-El agua bendita es igual de efectiva que el ajo y encima es facil de conseguir. Entras en la parroquia de San Julián sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
+El agua bendita es igual de efectiva que el ajo y encima es fácil de conseguir. Entras en la parroquia de San Julián sin que te vea el padre Ambongo y metes la botella de agua en la fuente de la entrada o en donde bañan a los bebes.
 
 El problema del agua bendita es que el sacerdote que la bendiga debe creer y tener fe y, por tanto, puede pasarte que la lances al nosferatu y no tenga efecto porque el cura es un falso. Si encuentras una iglesia con agua bendita real, tienes un tesoro porque son muy raras.
 
@@ -291,7 +291,7 @@ Las balas de plata serían realmente útiles, pero las menores no tenemos acceso
 
 > Las cosas bañadas en plata son tan útiles como si fueran de plata y MUCHO MÁS BARATAS!!!!!
 
-Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la 
+Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la policía para detener mucha gente en las manifas.
 
 ### Cosas que he probado y no funcionan
 
@@ -360,7 +360,7 @@ Subir a un nivel superior de plan o explorar otros del mismo nivel pueden ser ig
 |Plan inferior|Vampiro noob|
 |Plan menor|Siervo|
 
-También puedes pasar que un tenga que volver a un plan menor porque afecta a tu entorno directo, como que cierran el taller donde curra tu hermano para poner una casa de apuestas. En este caso tendrás dos tramas de planes a seguir que seguramente llevarán al mismo Lord Vampiro.
+También puedes pasar que tengas que volver a un plan menor porque afecta a tu entorno directo, como que cierran el taller donde curra tu hermano para poner una casa de apuestas. En este caso tendrás dos tramas de planes a seguir que seguramente llevarán al mismo Lord Vampiro.
 
 Has de ser rápida al desmantelar planes porque pueden volver a aparecer o cambiar de forma en poco tiempo, sobre todo si el vampiro te descubre y/o escapa a tu caza.
 
@@ -394,19 +394,19 @@ Por ejemplo, evitar que se cierre un centro de salud, puede granjearte la amista
 
 ### Los grandes vampiros y sus grandes planes
 
-Como ya hemos aclarado, detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). 
+Como ya hemos aclarado, detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua, a pesar de lo que dijo el director). 
 
 De hecho, normalmente son Lieges Vampires, cuando eres tan mayor lo de la sexualidad fluida es bastante factible. Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
-Los grandes planes tienen una cosa muy importante que nunca debes olvidar, __son como sus creadores__. Si el Lord Vampiro es maquiavélico, los planes serán maquiavélicos con muchas intrigas y traiciones. Si el Lord es sanguinario, muchos obstáculos se arreglarán con violencia, tortura y asesinatos. Si el Lord es un depravado, habrá todo tipo de drogas, parafilias sexuales, juego, … y participaran los personajes más cripis que puedas imaginar.
+Los grandes planes tienen una cosa muy importante que nunca debes olvidar, __son como sus creadores__. Si el Lord Vampiro es maquiavélico, los planes serán maquiavélicos con muchas intrigas y traiciones. Si el Lord es sanguinario, muchos obstáculos se arreglarán con violencia, tortura y asesinatos. Si el Lord es un depravado, habrá todo tipo de drogas, parafilias sexuales, juego, … y participarán los personajes más cripis que puedas imaginar.
 
-Una vez que sepas quien es el creador del gran plan te será mucho más fácil deducir los diferentes elementos de cada subplan, porque al final van a tener el sello de marca del gran arquitecto que ha estructurado todo. 
+Una vez que sepas quién es el creador del gran plan, te será mucho más fácil deducir los diferentes elementos de cada subplan, porque al final van a tener el sello de marca del gran arquitecto que ha estructurado todo. 
 
 \sp
 
 Otro punto importante de los grandes planes es que una de sus funciones principales es alimentar el inmenso ego de su creador. Si el plan avanza bien, el ego del Lord crece, pero, si empieza a fallar, su ego se desinfla y dejan de actuar racionalmente y su ego dañado toma el control
 
-Que su gran plan falle es malo para el ego de un Lord Vampiro. Que falle porque 4 niñas con pistolas de agua están haciendo el trabajo que deberían haber hecho policías e investigadores adultos, es un golpe mortal en su orgullo propio. Con el ego herido un vampiro puede empezar a hacer actos sin mucho sentido y dar palos de ciego, pero se mueve mucho más agresivo y menos cauto.
+Que su gran plan falle es malo para el ego de un Lord Vampiro. Que falle porque 4 niñas con pistolas de agua están haciendo el trabajo que deberían haber hecho policías e investigadores adultos, es un golpe mortal en su orgullo propio. Con el ego herido, un vampiro puede empezar a hacer actos sin mucho sentido y dar palos de ciego, pero se mueve mucho más agresivo y menos cauto.
 
 \sp
 
@@ -438,7 +438,7 @@ Si se rompen los trozos de cristal, estos tienen plata y pueden usarse como arma
 
 ### Invitación a entrar
 
-Las sanguijuelas no pueden entrar en una casa si no son invitados así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. Así el tonto de mi hermano no invita a entrar a quien no debe.
+Las sanguijuelas no pueden entrar en una casa si no son invitados, así que mi regla fundamental es no invitar a nadie a entrar. El problema es que tu familia no lo tiene en cuenta, así que siempre soy la primera en abrir la puerta de casa. Así el tonto de mi hermano no invita a entrar a quien no debe.
 
 La invitación es personal, así que solo le vale al vampiro al que se la diste, ni sus siervos ni su Lord están cubiertos en esa invitación 
 
@@ -474,13 +474,13 @@ Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito so
 
 ### Ataques sociales
 
-Mientras te muevas en la periferia de sus actividades usarán todo su arsenal social para desacreditarte y aislarte, pudiendo llegar a desquiciarte y acabar en un psiquiátrico si no tienes una mente preparada.
+Mientras te muevas en la periferia de sus actividades, usarán todo su arsenal social para desacreditarte y aislarte, pudiendo llegar a desquiciarte y acabar en un psiquiátrico si no tienes una mente preparada.
 
 Veamos algunas tácticas:
 
 * Pueden convencer a los abusones del patio de que se ceben contigo y te cambies de colegio por otro más lejos.
 * Mover hilos para despedir o cambiar de lugar de trabajo a tus padres o tutores y que tengas que abandonar el barrio.
-* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte de buscar como conseguir dinero en vez de cazar vampiros.
+* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte a buscar una forma de conseguir dinero en vez de cazar vampiros.
 * Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
 * Quizás hagan que te sigan peña cripi, solo para atemorizarte y tenerte en tensión.
 
@@ -490,7 +490,7 @@ La ventaja de esos ataques sociales es que muchos son hilos desde los que tirar.
 
 ### Ataques físicos
 
-Cuando empiezas a adentrarte en sus planes desbaratándolos y dándole problemas, es decir cuando empiezas a truncar sus planes medios, suelen pasar al plano físico y periódicamente pueden enviar a alguien para acabar contigo.
+Cuando empiezas a adentrarte en sus planes desbaratándolos y dándole problemas, es decir, cuando empiezas a truncar sus planes medios, suelen pasar al plano físico y periódicamente pueden enviar a alguien para acabar contigo.
 
 Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, … Quieres hacerte daño a ti y solo a ti.
 
@@ -516,13 +516,13 @@ El vampiro suele darle pequeñas dosis de su sangre para engancharles al subidó
 
 Por eso cuando te enfrentes a un chupón deberías usar fuerza no letal. Al final muchas veces son víctimas del sistema y la gran mayoría pueden ser rehabilitadas. Solo unos pocos escogieron su depravado y cripi destino y buscarán otro maestro si no tienen uno.
 
-Muchos sirvientes empezaron siendo víctimas. La mayoría de las veces mientras las vigilaba y/o seducía el vampiro vio cosas que le eran útil y paso de alimentarse de ella a convertirla en su sirviente.
+Muchos sirvientes empezaron siendo víctimas. La mayoría de las veces, mientras las vigilaba y/o seducía, el vampiro vio cosas que le eran útil y paso de alimentarse de ella a convertirla en su sirviente.
 
 No hay un patrón fijo para los chupones, pueden ser de cualquier estrato social, tener cualquier físico, cualquier profesión y cualquier ideología. Cualquiera puede acabar siendo un siervo de vampiro. Son un poco como las sectas, un momento de bajón y te enganchan.
 
 Podemos hablar de 3 tipos de chupones, los que ejecutan sus planes, los que les sirven y los que les protegen.
 
-En vampiros novatos que pueden mantener pocos siervos estos tres tipos se pueden solapar, un Lord Vampiro, tendrá varios siervos por cada tipo 
+En vampiros novatos que pueden mantener pocos siervos estos tres tipos se pueden solapar. Un Lord Vampiro tendrá varios siervos por cada tipo.
 
 #### Ejecutores de planes
 
@@ -572,7 +572,7 @@ En ese momento, el vampiro puede decidir darte de beber de su sangre.
 
 Un cuerpo humano que bebe sangre vampírica la combate y la termina expulsando, de ahí la gran vomitona al de un rato de beberla. Pero si tu cuerpo está muy débil, no puede combatirla y está termina apoderándose de ti.
 
-En ese momento el proceso ya es irreversible, pero todavía no eres un vampiro, solo eres medio vampiro. Según pases los días la sangre de vampiro irá poco a poco tomando el control de ti hasta que te obligue a beber sangre fresca. En ese momento ya eres un vampiro completo con todas sus fortalezas y debilidades.
+En ese momento el proceso ya es irreversible, pero todavía no eres un vampiro, solo eres medio vampiro. Según pases los días, la sangre de vampiro irá poco a poco tomando el control de ti hasta que te obligue a beber sangre fresca. En ese momento ya eres un vampiro completo con todas sus fortalezas y debilidades.
 
 Normalmente, la primera vez que te alimentas suele ser un fiestón de sangre y miembros desmembrados, así que los casos de asesinatos más brutales suelen estar relacionados con vampiros noobs, aunque los medios traten de taparlo achacándolo a otras cosas.
 
@@ -678,7 +678,7 @@ No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porqu
 
 ### Pistolas de agua
 
-Benditas pistolas de agua cargadas de té de ajo o de agua bendita!!! _Son tu arma más poderosa_ además de tu cerebro contra los vampiros. Encima, cientos de personas de todo el mundo gastan un estúpido número de horas en mejorarlas y hacen tutoriales de ello :)
+Benditas pistolas de agua cargadas de té de ajo o de agua bendita!!! _Son tu arma más poderosa_, además de tu cerebro, contra los vampiros. Encima, cientos de personas de todo el mundo gastan un estúpido número de horas en mejorarlas y hacen tutoriales de ello :)
 
 Hay cientos de vídeos explicando como hacer más efectiva tus pistolas, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampírica que amenaza nuestros barrios y ciudades.
 
@@ -728,7 +728,7 @@ Estas protecciones no te protegen de vampiros que siempre van a tus partes bland
 
 ### Muñequeras y chokers de pinchos
 
-Como ya te he contado los vampiros chupan la sangre principalmente de cuello y muñecas, así que unas protecciones de cuero con pinchos metálicos (ojalá fueran de plata las mías) son muy eficaces.
+Como ya te he contado, los vampiros chupan la sangre principalmente de cuello y muñecas, así que unas protecciones de cuero con pinchos metálicos (ojalá fueran de plata las mías) son muy eficaces.
 
 Si tu outfit es un poco alternativo, podrás llevar estos complementos sin dar mucho la nota. 
 
@@ -797,16 +797,16 @@ Es imposible cazar vampiros sola, necesitas a tus amigas, a tus __SI&#x2605;S__,
 [![Pegatina contraportada BFF por brgfx](./assests/images/0wum_0ffy_211014.jpg "Pegatina contraportada BFF por brgfx")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Pegatina contraportada BFF por brgfx")
 
 ```
-La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellass o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus sistars más a fondo.
+La pandilla puede ser otra fuente importante de aspectos secundarios, quizás tengan una relación especial entre ellas o sean familia. Si algún PJ ha dejado algún aspecto sin definir puede que al principio de tus aventuras puedan rellenarlo cuando conozcan a sus sistars más a fondo.
 ```
 
 ### Cómo montar y organizar el grupo
 
 Montar tu propia banda de cazadoras de no es fácil, es cuestión de tener amigas de verdad y el momento adecuado.
 
-Una vez que descubrí que el rollo de los vampiros y sus planes eran algo real empecé a tantear a mis amigas. Una pijamada fue el momento perfecto para hacer las preguntas adecuadas en el momento adecuado.
+Una vez que descubrí que el rollo de los vampiros y sus planes eran algo real, empecé a tantear a mis amigas. Una pijamada fue el momento perfecto para hacer las preguntas adecuadas en el momento adecuado.
 
-Estaba acostumbrada a intentar hablarlo con adultos y siempre recibir las mismas respuestas, desde «vaya imaginación tiene está niña» hasta «tus padres deberían consultar estos delirios con un especialista».
+Estaba acostumbrada a intentar hablarlo con adultos y siempre recibir las mismas respuestas, desde «vaya imaginación tiene esta niña» hasta «tus padres deberían consultar estos delirios con un especialista».
 
 Sin embargo, esa noche hubo flow y empezamos a contar historias raras que habíamos visto o vivido y poco a poco la conspiración vampírica se hizo muy patente sin todavía darle nombre.
 
@@ -816,7 +816,7 @@ A esa pijamada siguieron unas cuantas más donde seguimos investigando el mister
 
 Esa misma noche juramos combatir el vampirismo y formamos nuestra Banda de sistars cazavampiras, hicimos nuestro reglamento y lo juramos por nuestras abuelas.
 
-Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas por lo que salimos de caza por las noches, protegerlas de esos horrores.
+Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas, por lo que salimos de caza por las noches, protegerlas de esos horrores.
 
 \sp
 
@@ -824,7 +824,7 @@ Que haya amigas íntimas que no estén entre mis sistars no quieren decir que se
 
 #### Cargos
 
-Al principio todo era muy caótico cada una hacia lo que podía y quería, pero con el tiempo cada una de nosotras encontró su lugar donde hacía las cosas que le gustaban y sabía hacer bien.
+Al principio todo era muy caótico, cada una hacía lo que podía y quería, pero con el tiempo cada una de nosotras encontró su lugar donde hacía las cosas que le gustaban y sabía hacer bien.
 
 ```
 Los puestos dentro del grupo de cazadoras también pueden ser origen de otros aspectos de tu personaje o por ejemplo que el aspecto de lo que «mejor se te da en clase» evolucione hacia tu puesto en la liga de cazadoras
@@ -859,12 +859,12 @@ Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna ha roto.
 Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
 
 ```
-Las reglas que se creen puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar «Nadie se queda atrás, salimos todas o no salimos ninguna» para tratar de salvar a una amiga que se ha roto una pierna.
+Las reglas que se creen puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros, pueden invocar «Nadie se queda atrás, salimos todas o no salimos ninguna» para tratar de salvar a una amiga que se ha roto una pierna.
 ```
 
 ### Un lugar de reunión
 
-Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el plan vampírico en curso. 
+Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto, donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el plan vampírico en curso. 
 
 > Hacedme caso, el panel de corcho con chinchetas y lacitos es lo más putoútil que podéis tener.
 
@@ -872,11 +872,11 @@ Al principio tendréis que reuniros en algún soportal cubierto de un patio inte
 
 * Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
 * Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
-* Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
+* Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte, como filatelia y canto tirolés.
 * Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
 
 ```
-Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
+Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo, pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
 ```
 
 \sp
@@ -911,7 +911,7 @@ xxx
 
 ### Sed de sangre
 
-Los vampiros tienen una condición llamada sed de sangre de 7 casillas. Muchos de sus poderes necesitan gastar sangre para activarse. Además, cada semana de vida supone tachar una casilla de esta condición. Si el vampiro le quedan solo dos casillas sin tachar está muy hambriento y pasa a su forma más brutal y animal, la forma Trash. No puede volver a ser Crush hasta recuperar algunas casillas.
+Los vampiros tienen una condición llamada sed de sangre de 7 casillas. Muchos de sus poderes necesitan gastar sangre para activarse. Además, cada semana de vida supone tachar una casilla de esta condición. Si el vampiro le quedan solo dos casillas sin tachar, está muy hambriento y pasa a su forma más brutal y animal, la forma Trash. No puede volver a ser Crush hasta recuperar algunas casillas.
 
 Si el vampiro tacha todas las casillas, muere simplemente de hambre. Su cuerpo cae al suelo y se convierte en una cáscara vacía.
 
@@ -924,11 +924,11 @@ Para recuperar casillas de sed de sangre deben de beber sangre fresca de humanos
 * **4 casillas:** La víctima recibe una condición que representa daño físico, gran anemia, gran debilidad, …
 * **7 casillas:** La víctima muere y su cadáver desangrado cae al suelo sin vida y con una gran herida de colmillos en el cuello.
 
-En condiciones normales recordará toda la escena como algo borroso en su memoria mezcla de relación sexual y algún rollo fetichista de sumisión. Si es forzada, la escena será borrosa, pero tendrá asociadas sensaciones de asco y náusea.
+En condiciones normales recordará toda la escena como algo borroso en su memoria, mezcla de relación sexual y algún rollo fetichista de sumisión. Si es forzada, la escena será borrosa, pero tendrá asociadas sensaciones de asco y náusea.
 
-Si están a 2 o menos casillas de morir y beben de una víctima seguramente la dejarán seca. En ese momento manda su sed y no se preocupan de tener que luego limpiar las pruebas y deshacerse del cadáver.
+Si están a 2 o menos casillas de morir y beben de una víctima, seguramente la dejarán seca. En ese momento manda su sed y no se preocupan de tener que luego limpiar las pruebas y deshacerse del cadáver.
 
-Si la víctima es seducida, no podrá evitar la presa y el posterior mordisco. Si es atacada por el vampiro podrá tratar de resistirse usando un estilo rápido o vigoroso.
+Si la víctima es seducida, no podrá evitar la presa y el posterior mordisco. Si es atacada por el vampiro, podrá tratar de resistirse usando un estilo rápido o vigoroso.
 
 \sp
 
@@ -1006,9 +1006,9 @@ Veamos primero cuál era el gran contra el que debía luchar.
 
 Lord Ceballos quería montar una ciudad de juego, bebida y descontrol en mi barrio. Le gusta pasear por sus dominios y observar la miseria humana que traería el megalocal que iba a montar New Las Vegas.
 
-De hecho se frotaba las manos pensando en como iba a pasear por la capilla de boda llena de símbolos religiosos sin qué le afectarán. 
+De hecho, se frotaba las manos pensando en como iba a pasear por la capilla de boda llena de símbolos religiosos sin qué le afectarán. 
 
-Para ello tenía que conseguir que le permitieran derribar el campo de fútbol local para construir allí el casino. Además, tendría que construir una gran autopista hasta el casino pasando por unos humedales donde había una especie de rana protegida. Por último tenía que desmantelar el grupo vecinal para que no lucharan mientras montaba el casino y la autopista.
+Para ello tenía que conseguir que le permitieran derribar el campo de fútbol local para construir allí el casino. Además, tendría que construir una gran autopista hasta el casino, pasando por unos humedales donde había una especie de rana protegida. Por último, tenía que desmantelar el grupo vecinal para que no lucharan mientras montaba el casino y la autopista.
 
 ### Permisos de construcción 
 
@@ -1094,7 +1094,7 @@ Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](ht
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
-Si juegas la campaña y tienes ideas y posibles mejoras también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
+Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
 
 \sinc
 
