@@ -206,3 +206,6 @@ megalocal
 Ecodiversidad
 Exposear
 exposeado
+cripis
+respawneado
+skin

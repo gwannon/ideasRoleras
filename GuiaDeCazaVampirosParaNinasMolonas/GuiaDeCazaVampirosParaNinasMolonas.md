@@ -380,27 +380,33 @@ Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barri
 
 \sp
 
-### Los grandes vampiros y sus grandes planes
-
-Detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). De hecho, normalmente son Lieges Vampires, cuando eres tan mayor lo de la sexualidad fluida es bastante factible.
-
-Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
-
-XXX
-
 ### Cómo frustrar sus planes?
 
 La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
 
-XXX
+Debes ser rápida porque los planes como los vampiros regeneran y, en pocas semanas, el plan desbaratado ha respawneado con una nueva skin.
+
+Frustrar planes grandes o pequeños no implica acaban con el enemigo que lo llevaba a cabo, implica muchas veces sanar y fortalecer esa parte del barrio y conseguir unos aliados que te ayuden cuando subas de nivel en la estructura de planes y los enemigos sean más poderosos.
+
+Por ejemplo, evitar que se cierre un centro de salud, puede granjearte la amistad de la jefa del laboratorio, que seguramente hará pruebas y análisis a las muestras que envía el anónimo salvador de su centro.
 
 > Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar las estructuras sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una forma de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
 
-#### El ego
+### Los grandes vampiros y sus grandes planes
 
-El ego de un Lord Vampiro es uno de sus mayores defectos y es fundamental usarlo para desbaratar su plan.
+Como ya hemos aclarado, detrás de todo gran plan vampírico siempre hay un vampiro muy viejo, un Lord, una Lady o une Liege (gracias Macarena por esas horas de lenguaje inclusivo en clase de Lengua a pesar de lo que dijo el director). 
 
-XXX
+De hecho, normalmente son Lieges Vampires, cuando eres tan mayor lo de la sexualidad fluida es bastante factible. Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
+
+Los grandes planes tienen una cosa muy importante que nunca debes olvidar, __son como sus creadores__. Si el Lord Vampiro es maquiavélico, los planes serán maquiavélicos con muchas intrigas y traiciones. Si el Lord es sanguinario, muchos obstáculos se arreglarán con violencia, tortura y asesinatos. Si el Lord es un depravado, habrá todo tipo de drogas, parafilias sexuales, juego, … y participaran los personajes más cripis que puedas imaginar.
+
+Una vez que sepas quien es el creador del gran plan te será mucho más fácil deducir los diferentes elementos de cada subplan, porque al final van a tener el sello de marca del gran arquitecto que ha estructurado todo. 
+
+\sp
+
+Otro punto importante de los grandes planes es que una de sus funciones principales es alimentar el inmenso ego de su creador. Si el plan avanza bien, el ego del Lord crece, pero, si empieza a fallar, su ego se desinfla y dejan de actuar racionalmente y su ego dañado toma el control
+
+Que su gran plan falle es malo para el ego de un Lord Vampiro. Que falle porque 4 niñas con pistolas de agua están haciendo el trabajo que deberían haber hecho policías e investigadores adultos, es un golpe mortal en su orgullo propio. Con el ego herido un vampiro puede empezar a hacer actos sin mucho sentido y dar palos de ciego, pero se mueve mucho más agresivo y menos cauto.
 
 \sp
 
@@ -901,15 +907,34 @@ En general, la mascota debes darles un aspecto que puedan usar como poder montar
 
 [![Vampire Anatomy 1 By DanielGovar](./assests/images/vampire_anatomy_1_by_danielgovar_d2ch4qx-414w-2x.jpg "Vampire Anatomy 1 By DanielGovar")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Vampire Anatomy 1 By DanielGovar")
 
-XXX
+xxx
 
 ### Sed de sangre
 
-XXX
+Los vampiros tienen una condición llamada sed de sangre de 7 casillas. Muchos de sus poderes necesitan gastar sangre para activarse. Además, cada semana de vida supone tachar una casilla de esta condición. Si el vampiro le quedan solo dos casillas sin tachar está muy hambriento y pasa a su forma más brutal y animal, la forma Trash. No puede volver a ser Crush hasta recuperar algunas casillas.
+
+Si el vampiro tacha todas las casillas, muere simplemente de hambre. Su cuerpo cae al suelo y se convierte en una cáscara vacía.
+
+#### Beber sangre
+
+Para recuperar casillas de sed de sangre deben de beber sangre fresca de humanos. Pueden desde tomar lo justo para sobrevivir ellos y dejar al humano débil, pero no herido, hasta saciarse completamente y matar a su víctima.
+
+* **1 casilla:** La víctima está cansada, pero ha disfrutado del mordisco casi como si hubiera tenido relaciones sexuales consensuadas y placenteras.
+* **2 casillas:** La víctima está débil por la falta de sangre, pero
+* **4 casillas:** La víctima recibe una condición que representa daño físico, gran anemia, gran debilidad, …
+* **7 casillas:** La víctima muere y su cadáver desangrado cae al suelo sin vida y con una gran herida de colmillos en el cuello.
+
+En condiciones normales recordará toda la escena como algo borroso en su memoria mezcla de relación sexual y algún rollo fetichista de sumisión. Si es forzada, la escena será borrosa, pero tendrá asociadas sensaciones de asco y náusea.
+
+Si están a 2 o menos casillas de morir y beben de una víctima seguramente la dejarán seca. En ese momento manda su sed y no se preocupan de tener que luego limpiar las pruebas y deshacerse del cadáver.
+
+Si la víctima es seducida, no podrá evitar la presa y el posterior mordisco. Si es atacada por el vampiro podrá tratar de resistirse usando un estilo rápido o vigoroso.
+
+\sp
 
 ### Poderes vampíricos
 
-XXX
+Los poderes vampíricos son proezas propias de todos los vampíricos que normalmente son alimentadas por la sangre que chupan a sus víctimas.
 
 #### Flotar
 
@@ -917,15 +942,15 @@ Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante u
 
 #### Fuerza, resistencia y velocidad vampírica
 
-XXX
+xxx
 
 #### Garras y colmillos
 
-XXX
+xxx
 
 #### Regeneración vampírica
 
-XXX
+xxx
 
 #### Visión en la oscuridad
 
@@ -933,39 +958,37 @@ Los vampiros pueden ver perfectamente independientemente de las condiciones de l
 
 ### Debilidades vampíricas
 
-XXX
+xxx
 
 #### Ajo, plata, fuego y agua bendita
 
-XXX
+xxx
 
 #### Luz del sol
 
-XXX
+xxx
 
 #### Estaca de madera en el corazón.
 
-XXX
-
-\sp
+xxx
 
 ### Creando vampiros
 
-XXX
+xxx
 
 #### Vampiros noobs
 
-XXX
+xxx
 
 #### Vampiros oldie
 
-XXX
+xxx
 
 #### Lord Vampiros
 
 Al crearlo deberías, mínimo, añadirle 4 Hitos Trascendentes y 6 Hitos Relevantes.
 
-XXX
+xxx
 
 ***
 
@@ -1007,7 +1030,7 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 \conc
 
-XXX
+xxx
 
 \sp
 
@@ -1019,7 +1042,7 @@ XXX
 
 \conc
 
-XXX
+xxx
 
 \sinc
 
@@ -1029,7 +1052,7 @@ XXX
 
 \conc
 
-XXX
+xxx
 
 ***
 
@@ -1144,7 +1167,6 @@ Aquí tienes un listado de jerga más común.
 * **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
 * **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
 * **Ubícate:** Si alguien te lo dice, quiere decir que te pongas al día de algo que está pasando ahora mismo.
- 
 
 \sp
 
@@ -1202,6 +1224,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 \conc
 
+\sp
+
+&nbsp;
+
 ***
 
 &nbsp;
@@ -1213,7 +1239,7 @@ Guía de Cazavampiros para niñas molonas __por Berta de Cantaverno__
 Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado. Este libro contiene:
 
 1. Un montón de información sobre los vampiros y cómo matarlos. Sus puntos fuertes, sus debilidades y cómo aprovecharlas, sus rutinas y en general como funciona todo su oscuro mundo.
-2. Reglas para montar tu grupo de cazadoras de vampiros.
+2. Reglas para montar tu grupo de cazadoras de vampiros como enfrentarte a los grandes planos vampíricos que estén desarrollándose en tu barrio.
 3. «Buenos días, señor vampiro», una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
 
 _AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niños_. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
