@@ -34,9 +34,7 @@ D
 devorar: tiene connotación positiva y significa que alguien que ha devorado es alguien que ha hecho muy buen trabajo
  
 
-E
 
-exposeado: expuesto o descubierto, es decir que te han pillado en una situación comprometida.
  
 
 F
@@ -72,8 +70,7 @@ tryhardear: viene de ‘try hard’, no rendirse. Se usa sobre todo en los video
  
 
 U
-ubícate: si alguien te dice esta expresión quiere decir que te pongas al día o que te enteres de algo que está pasando ahora mismo.
- 
+
 
 W
 woke: el termino viene del inglés despierto, pero se utiliza para decir que una persona está deconstruida, es decir, que evita comportamientos racistas, homófobos o tránsfobos.

@@ -834,6 +834,8 @@ Los puestos dentro del grupo de cazadoras también pueden ser origen de otros as
 
 **Coach** se encarga de entrenar a las novatas en las técnicas básicas de la caza. Los vampiros noobs son fáciles de cazar, así que aprovecha estas misiones de caza para entrenar a las nuevas reclutas. 
 
+**Kahlo** se encarga de los grafitis reivindicativos y de denuncia. A veces un grafiti bien hecho a la puerta de un local de apuestas cuya foto corra por los grupos del barrio en RRSS es más efectivo que una intervención nocturna con cócteles molotov.
+
 Por último, **tiritas** que se encarga de las heridas y de la comida y el relax (chuches, chocolate, snacks, …) después de una caza. 
 
 Cómo ya os he dicho, estos y otros puestos que podáis necesitar en vuestra banda se suelen rotar para que todas sepamos de todo.
@@ -846,13 +848,32 @@ Mi grupo de cazadoras creó estas reglas que todas seguimos y ninguna ha roto.
 2. Nadie se queda atrás, salimos todas o no salimos ninguna.
 3. Y no hay más. 
 
-Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
-
 \sp
+
+Creo que es importante que una banda de cazadoras tenga sus propias reglas y las hayan creado ellas mismas. Tampoco tienes que tenerlas desde el principio, pero a medida que corráis aventuras podéis establecerlas o incluso cambiarlas con el tiempo. 
 
 ```
 Las reglas que se creen puedes dejar que sean invocados como aspectos en momentos críticos. Si tratan de huir de una horda de vampiros pueden invocar «Nadie se queda atrás, salimos todas o no salimos ninguna» para tratar de salvar a una amiga que se ha roto una pierna.
 ```
+
+### Un lugar de reunión
+
+Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el plan vampírico en curso. 
+
+> Hacedme caso, el panel de corcho con chinchetas y lacitos es lo más putoútil que podéis tener.
+
+Al principio tendréis que reuniros en algún soportal cubierto de un patio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
+
+* Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
+* Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
+* Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
+* Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
+
+```
+Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
+```
+
+\sp
 
 ### No puede faltar una mascota
 
@@ -870,25 +891,6 @@ Necesito una llama, seguro que los vampiros son alérgicos a su lana.
 En general, la mascota debes darles un aspecto que puedan usar como poder montarlo, mandar mensajes, tener un vigilante que avisa del peligro, etc. Pero también debe darles un aspecto negativo que se use contra ellos y que les dé puntos de destino, como que hace mucho ruido, siempre rompe cosas, etc.
 ```
 
-### Un lugar de reunión
-
-Todo grupo de cazavampiros necesita un lugar donde reunirse. Un sitio un poco privado, a cubierto donde no entre nadie no deseable y donde guardar sus trastos y tener un panel de corcho con el plan vampírico en curso. 
-
-> Hacedme caso, el panel de corcho con chinchetas y lacitos es lo más putoútil que podéis tener.
-
-Al principio tendréis que reuniros en algún soportal cubierto de un patio interior o en un rincón de un Burger King, pero hazme caso con tiempo y trabajo puedes mejorarlo. Veamos opciones:
-
-\sp
-
-* Los **trasteros son geniales**, porque son privados y puedes guardar tus mierdas de cazadora. Pero suele levantar sospechas en los vecinos que se terminan chivando a los padres.
-* Las **casas de los abuelos** cuando ya no están vivos son buenos lugares mientras los codiciosos adultos deciden si alquilarlo o venderlo.
-* Crear una asociación o un grupo cultural puede conseguiros **un local en centros cívicos y casas de cultura**, pero trata de que sea de algo aburrido hasta la muerte como filatelia y canto tirolés.
-* Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
-
-```
-Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
-```
-
 \sp
 
 \sinc
@@ -901,11 +903,15 @@ Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a s
 
 XXX
 
+### Sed de sangre
+
+XXX
+
 ### Poderes vampíricos
 
 XXX
 
-### Flotar
+#### Flotar
 
 Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena forma de escapar de los peligros. 
 
@@ -923,13 +929,9 @@ XXX
 
 #### Visión en la oscuridad
 
-XXX
+Los vampiros pueden ver perfectamente independientemente de las condiciones de luz, pueden incluso ver en plena oscuridad sin ninguna fuente de luz.
 
 ### Debilidades vampíricas
-
-XXX
-
-#### Sed de sangre
 
 XXX
 
@@ -945,6 +947,26 @@ XXX
 
 XXX
 
+\sp
+
+### Creando vampiros
+
+XXX
+
+#### Vampiros noobs
+
+XXX
+
+#### Vampiros oldie
+
+XXX
+
+#### Lord Vampiros
+
+Al crearlo deberías, mínimo, añadirle 4 Hitos Trascendentes y 6 Hitos Relevantes.
+
+XXX
+
 ***
 
 # Buenos días, Sr. Vampiro
@@ -953,11 +975,41 @@ XXX
 
 Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio de su amenaza. Tu historia podría ser igual o ser totalmente diferente.
 
+## El gran plan
+
+\conc
+
+Veamos primero cuál era el gran contra el que debía luchar.
+
+Lord Ceballos quería montar una ciudad de juego, bebida y descontrol en mi barrio. Le gusta pasear por sus dominios y observar la miseria humana que traería el megalocal que iba a montar New Las Vegas.
+
+De hecho se frotaba las manos pensando en como iba a pasear por la capilla de boda llena de símbolos religiosos sin qué le afectarán. 
+
+Para ello tenía que conseguir que le permitieran derribar el campo de fútbol local para construir allí el casino. Además, tendría que construir una gran autopista hasta el casino pasando por unos humedales donde había una especie de rana protegida. Por último tenía que desmantelar el grupo vecinal para que no lucharan mientras montaba el casino y la autopista.
+
+### Permisos de construcción 
+
+El tema de los permisos de derribo y construcción iba a conseguirlo proporcionando a algunos concejales sus deseos más sucios y depravados y luego chantajeándolos a cambio de votar a favor de sus proyectos.
+
+Tendrían que conseguir, drogas, menores, bastante dinero y un asesinato que pareciera natural. Nada fuera de lo normal, de lo que hacía siempre.
+
+### Ecodiversidad
+
+Lord Ceballos pensaba cargarse el humedal a través de una chatarrería/fundición cercana que tendría una fuga de mercurio y destruiría el ecosistema de la rana. Con lo que no habría nada que proteger. Además, así tendría un malo contra el que se manifestarían y lucharían los ecologistas y otros grupos sociales.
+
+### Grupos vecinales
+
+Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con la fuga de mercurio, mientras pensaba hinchar a uno de los grupos a donaciones, e infiltrar a agentes con grandes dotes de persuasión y sex-appel, para sembrar la cizaña hacia dentro y hacia fuera.
+
+\sinc
+
 ## Resumen [Aviso Spoiler]
 
 \conc
 
 XXX
+
+\sp
 
 \sinc
 
@@ -1071,10 +1123,11 @@ Aquí tienes un listado de jerga más común.
 * **De chill:** Ha sustituido al “de tranqui”.
 * **Dejar en leído:** No responderte a los mensajes.
 * **Evento canónico (Es canon):** Significa que es un momento de tu vida que no puedes cambiar y que te define para siempre.
+* **Exposear:** Alguien exposeado es alguien expuesto, que le han pillado en una situación comprometida.
 * **Fachero:** Algo fachero es algo que es chulo o bonito.
 * **Funar:** Cancelar por tus opiniones.
 * **Goat (Greatest Of All Time):** El mejor de todos los tiempos.
-* **Hostear:*** Ser el anfitrión de un evento.
+* **Hostear:** Ser el anfitrión de un evento.
 * **Hype:** Expectativas desproporcionadas ante la salida de una película, serie, disco, etc.
 * **Lache:** Véase Cringe.
 * **Literal:** Forma de decir que estás de acuerdo con algo tipo Ok.
@@ -1091,6 +1144,8 @@ Aquí tienes un listado de jerga más común.
 * **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
 * **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
 * **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
+* **Ubícate:** Si alguien te lo dice, quiere decir que te pongas al día de algo que está pasando ahora mismo.
+ 
 
 \sp
 
