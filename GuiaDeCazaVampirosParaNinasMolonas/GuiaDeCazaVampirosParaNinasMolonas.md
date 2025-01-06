@@ -903,11 +903,11 @@ En general, la mascota debes darles un aspecto que puedan usar como poder montar
 
 ## Anatomía de un vampiro
 
+Ya hemos hablado mucho de los chupasangres, sobre cómo piensan, cómo viven, cómo se relacionan, cómo son sus planes, … Ahora vamos con una clase práctica de anatomía vampírica que te terminará de convertir en cazavampiros en que necesitas convertirte.
+
 \conc
 
 [![Vampire Anatomy 1 By DanielGovar](./assests/images/vampire_anatomy_1_by_danielgovar_d2ch4qx-414w-2x.jpg "Vampire Anatomy 1 By DanielGovar")](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm "Vampire Anatomy 1 By DanielGovar")
-
-xxx
 
 ### Sed de sangre
 
@@ -921,16 +921,16 @@ Para recuperar casillas de sed de sangre deben de beber sangre fresca de humanos
 
 * **1 casilla:** La víctima está cansada, pero ha disfrutado del mordisco casi como si hubiera tenido relaciones sexuales consensuadas y placenteras.
 * **2 casillas:** La víctima está débil por la falta de sangre, pero
-* **4 casillas:** La víctima recibe una condición que representa daño físico, gran anemia, gran debilidad, …
+* **4 casillas:** La víctima recibe una condición que representa daño físico, gran anemia, gran debilidad, … La víctima se lleva una consecuencia moderada.
 * **7 casillas:** La víctima muere y su cadáver desangrado cae al suelo sin vida y con una gran herida de colmillos en el cuello.
 
 En condiciones normales recordará toda la escena como algo borroso en su memoria, mezcla de relación sexual y algún rollo fetichista de sumisión. Si es forzada, la escena será borrosa, pero tendrá asociadas sensaciones de asco y náusea.
 
 Si están a 2 o menos casillas de morir y beben de una víctima, seguramente la dejarán seca. En ese momento manda su sed y no se preocupan de tener que luego limpiar las pruebas y deshacerse del cadáver.
 
-Si la víctima es seducida, no podrá evitar la presa y el posterior mordisco. Si es atacada por el vampiro, podrá tratar de resistirse usando un estilo rápido o vigoroso.
-
 \sp
+
+Si la víctima es seducida, no podrá evitar la presa y el posterior mordisco. Si es atacada por el vampiro, podrá tratar de resistirse usando un estilo rápido o vigoroso.
 
 ### Poderes vampíricos
 
@@ -960,17 +960,21 @@ Los vampiros pueden ver perfectamente independientemente de las condiciones de l
 
 xxx
 
-#### Ajo, plata, fuego y agua bendita
+#### Ajo, plata, fuego, luz ultravioleta y agua bendita
 
 xxx
 
 #### Luz del sol
 
-xxx
+La luz del sol es tan mortal como las estacas, pero el vampiro puede resistir unos segundos antes de morir. 
+
+Cada turno expuesto al sol (más del 50% de su cuerpo), empieza a arder y echar humo. Antes de hacer nada en su turno, debe tachar una casilla de estrés o apuntar en una consecuencia libre «quemado por el sol». Cuando se quede sin casillas libres muere convertido en un montón de cenizas. 
+
+Si consigue escapar de la muerte por alergia al sol, podrá curar cada «quemado por el sol» como si fuera una consecuencia grave.
 
 #### Estaca de madera en el corazón.
 
-xxx
+La estaca de madera en el corazón __supone la muerte directa del vampiro__ y solo es posible si está dormida. Eso del cazavampiros clavando estacas a diestro y siniestro es para series y pelis. Hay una caja torácica de hueso protegiendo el corazón que hay que romper. Solo con ayuda de un martillo se puede atravesar las costillas.
 
 ### Creando vampiros
 
@@ -983,6 +987,8 @@ xxx
 #### Vampiros oldie
 
 xxx
+
+\sp
 
 #### Lord Vampiros
 
@@ -1030,7 +1036,7 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 \conc
 
-xxx
+XXX
 
 \sp
 
@@ -1042,7 +1048,7 @@ xxx
 
 \conc
 
-xxx
+XXX
 
 \sinc
 
@@ -1052,7 +1058,7 @@ xxx
 
 \conc
 
-xxx
+XXX
 
 ***
 
@@ -1223,11 +1229,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
-
-\sp
-
-&nbsp;
-
+ 
 ***
 
 &nbsp;
