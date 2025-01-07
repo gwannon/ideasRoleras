@@ -1076,6 +1076,19 @@ Aquí tienes las descripciones de los personajes principales de mi historía par
 
 XXX
 
+* **Aspectos**
+  * **Concepto principal:** Lord Vampiro de la ciudad
+  * **Complicación:** xxx
+  * xxx
+  * xxx
+  * xxx
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * xxx
+  * xxx
+  * xxx
+* **Capacidad de recuperación:** X
+
 ***
 
 # Epílogo

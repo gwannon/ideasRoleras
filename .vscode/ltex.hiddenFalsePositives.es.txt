@@ -35,3 +35,6 @@
 {"rule":"SUBJUNTIVO_FUTURO","sentence":"^\\Qy participaran los personajes más cripis que puedas imaginar.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy participaran los personajes más cripis que puedas imaginar.\\E$"}
 {"rule":"HA_A","sentence":"^\\QDebes ser rápida porque los planes como los vampiros regeneran y en pocas semanas, el plan desbaratado ha respawneado con una nueva skin.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy participarán los personajes más cripis que puedas imaginar.\\E$"}
+{"rule":"MI_TILDE","sentence":"^\\QAquí tienes las descripciones de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.\\E$"}
+{"rule":"HA_A","sentence":"^\\QDebes ser rápida porque los planes como los vampiros regeneran y, en pocas semanas, el plan desbaratado ha respawneado con una nueva skin.\\E$"}

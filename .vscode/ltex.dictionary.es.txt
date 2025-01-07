@@ -209,3 +209,5 @@ exposeado
 cripis
 respawneado
 skin
+senivpetro
+Fachero
