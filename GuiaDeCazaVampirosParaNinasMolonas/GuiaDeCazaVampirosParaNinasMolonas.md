@@ -1008,9 +1008,13 @@ Salvo casos muy especiales, el _rango del vampiro_ debería aparecer en su aspec
 
 Otro aspecto importante puede ser _su forma de ser_, como «sanguinario», «vengativo», «meticuloso y cauto». Como ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.
 
+[![vamp it up By NanFe](./assests/images/vamp_it_up_by_nanfe_ddjnlb2-pre.jpg "vamp it up By NanFe")](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694 "vamp it up By NanFe")
+
 Su _forma de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
 
 Suelen haber vivido muchos años, así que _algo de su pasado_ puede ser interesante desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
+
+\sp
 
 ### Creando vampiros
 
@@ -1022,8 +1026,6 @@ Siguiendo las __reglas normales de creación de__ __personajes y aplicándoles l
 
 
 Desde luego, no tiene contactos ni aliados y solo un amo, un vampiro más viejo que él que le mangonea. Igual está tratando de atraer a algún siervo. 
-
-\sp
 
 Podrías incluso hacer que le fallen ciertos poderes como flotar, ya que todavía no sabe usarlos adecuadamente o que no tenga mucho control a la hora de beber sangre y se pase siempre con sus víctimas.
 
@@ -1235,6 +1237,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Wall mounted combination key safes [by Acabashi](https://commons.wikimedia.org/wiki/File:Key_safe_combination_wall_mounted.jpg) Creative Commons Attribution-ShareAlike 4.0 International
 * Vampire Anatomy 1 By [DanielGovar](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Young woman boxer training at the gym por [senivpetro](https://www.freepik.com/free-photo/young-woman-boxer-training-gym_6255935.htm)
+* vamp it up By [NanFe](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 
 \sp
 
