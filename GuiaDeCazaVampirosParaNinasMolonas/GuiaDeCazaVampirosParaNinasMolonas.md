@@ -940,11 +940,11 @@ Los poderes vampíricos son proezas propias de todos los vampíricos que normalm
 
 #### Flotar
 
-Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena forma de escapar de los peligros. 
+Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena forma de escapar de los peligros.
 
 #### Fuerza, resistencia y velocidad vampírica
 
-xxx
+La fuerza, resistencia y velocidad vampírica hace que sean inmunes a cualquier daño que provenga de algunas de sus debilidades. Las balas las esquivan o les rebotan, las balas de plata se las comen con patatas. 
 
 #### Garras y colmillos
 
@@ -952,7 +952,7 @@ xxx
 
 #### Regeneración vampírica
 
-xxx
+Sus increíbles poderes de regeneración hace que __se curen de todo daño tras un día de descanso__ __durmiendo y marcando una casilla de sed__ __de sangre__. El daño por el sol no puede ser curado con la regeneración.
 
 #### Visión en la oscuridad
 
@@ -960,27 +960,45 @@ Los vampiros pueden ver perfectamente independientemente de las condiciones de l
 
 ### Debilidades vampíricas
 
-xxx
+Pero los vampiros también tienes debilidades que son las únicas formas de hacerles daño.
 
 #### Ajo, plata, fuego, luz ultravioleta y agua bendita
 
-xxx
+Si puedes atacar a un vampiro con alguno de estos objetos, podrás enfrentarse contra el vampiro. Sin alguno de estos objetos es imposible dañarlos y la única opción es huir.
+
+No hay ninguna más dañina que otras solamente dan unas opciones u otras.
+
+La plata puede convertirse en balas o cuchillos, el fuego es fácil de conseguir, el té de ajo y el agua bendita pueden usarse en pistolas y globos de agua y las linternas UV pueden sentirte como una auténtica jedi con su sable de luz a lo Rey Skywalker.
 
 #### Luz del sol
 
-La luz del sol es tan mortal como las estacas, pero el vampiro puede resistir unos segundos antes de morir. 
+La luz del sol es tan mortal como las estacas, pero el vampiro puede resistir unos segundos antes de morir.
 
-Cada turno expuesto al sol (más del 50% de su cuerpo), empieza a arder y echar humo. Antes de hacer nada en su turno, debe tachar una casilla de estrés o apuntar en una consecuencia libre «quemado por el sol». Cuando se quede sin casillas libres muere convertido en un montón de cenizas. 
+Cada turno expuesto al sol (más del 50% de su cuerpo), empieza a arder y echar humo. Antes de hacer nada en su turno, debe tachar una casilla de estrés o apuntar en una consecuencia libre «quemado por el sol». Cuando se quede sin casillas libres muere convertido en un montón de cenizas.
 
 Si consigue escapar de la muerte por alergia al sol, podrá curar cada «quemado por el sol» como si fuera una consecuencia grave.
 
-#### Estaca de madera en el corazón.
+\sp
 
-La estaca de madera en el corazón __supone la muerte directa del vampiro__ y solo es posible si está dormida. Eso del cazavampiros clavando estacas a diestro y siniestro es para series y pelis. Hay una caja torácica de hueso protegiendo el corazón que hay que romper. Solo con ayuda de un martillo se puede atravesar las costillas.
+#### Estaca de madera en el corazón
+
+La estaca de madera en el corazón __supone la muerte directa del vampiro__ y solo es posible si está dormida.
+
+Eso del cazavampiros clavando estacas a diestro y siniestro es para series y pelis. Hay una caja torácica de hueso protegiendo el corazón que hay que romper. Solo con ayuda de un martillo se puede atravesar las costillas.
+
+### Aspectos para vampiros
+
+Salvo casos muy especiales, el rango del vampiro debería aparecer en su aspecto principal, rollo «Lord Vampiro|Lady Vampira|Liege Vampire de la ciudad».
+
+Otro aspecto importante puede ser su forma de ser, como «sanguinario», «vengativo», «meticuloso y cauto». Como ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.
+
+Su forma de liderazgo/tiranía también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
+
+Suelen haber vivido muchos años, así que algo de sus pasados puede ser interesante desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
 
 ### Creando vampiros
 
-xxx
+Si necesitas crear tu propia némesis vampírica, aquí tienes algunos consejos y sugerencias para su creación.
 
 #### Vampiros noobs
 
@@ -989,8 +1007,6 @@ xxx
 #### Vampiros oldie
 
 xxx
-
-\sp
 
 #### Lord Vampiros
 

@@ -211,3 +211,5 @@ respawneado
 skin
 senivpetro
 Fachero
+Bugeado
+Bugueado
