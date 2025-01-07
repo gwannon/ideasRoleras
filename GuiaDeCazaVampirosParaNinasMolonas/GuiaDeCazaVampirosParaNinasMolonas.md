@@ -1068,7 +1068,7 @@ XXX
 
 ## Amigos y enemigos
 
-Aquí tienes las descripciones de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
+Aquí tienes las bios de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
 
 \conc
 
