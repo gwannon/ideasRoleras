@@ -1076,6 +1076,12 @@ Aquí tienes las bíos de los personajes principales de mi historía para que pu
 
 ### Lord Ceballos
 
+Lord Ceballos lleva con nosotros desde hace más de 200 años. xxx
+
+Tenía un tinglado muy bien montado con el dictador Franco por toda la provincia hasta que sus planes se fueron al garete con la llegada de la Democracia. Aunque en realidad el revés le duro pocos años, los suficientes para aprender como iban las nuevas reglas del juego y como explotarlas para sus intereses y planes. 
+
+Lleva unas décadas apropiándose de las distintas zonas de la ciudad y ahora entre sus objetivos está tu barrio. xxx
+
 xxx
 
 \conc
