@@ -942,13 +942,29 @@ Los poderes vampíricos son proezas propias de todos los vampíricos que normalm
 
 Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena forma de escapar de los peligros.
 
-#### Fuerza, resistencia y velocidad vampírica
+#### Resistencia y velocidad vampírica
 
-La fuerza, resistencia y velocidad vampírica hace que sean inmunes a cualquier daño que provenga de algunas de sus debilidades. Las balas las esquivan o les rebotan, las balas de plata se las comen con patatas. 
+La resistencia y velocidad vampírica hace que sean inmunes a cualquier daño que no provenga de algunas de sus debilidades. Las balas las esquivan o les rebotan, las balas de plata se las comen con patatas. 
+
+#### Multiformas
+
+Ya hemos hablado de que los vampiros tienen dos formas que llamo Crush y Trash. 
+
+**Forma Crush:** Obtienen un _+2 a todas las tiradas donde la belleza_ es importante. 
+
+**Forma Trash:** Obtienen un **+2 en aquellas donde el miedo y la intimidación** es útil.
+
+De normal, están en Crush y pasan a Trash automáticamente tras recibir una consecuencia o tener que tachar una casilla de estrés. Pueden volver a Crush al final de la escena, excepto si pasaron a forma Trash por una consecuencia debida a la luz del Sol. Ahí no podrán volver a su forma Crush hasta curar esa consecuencia.
+
+También pasan a Trash cuando se quedan con 2 o menos casillas de Sed de Sangre.
 
 #### Garras y colmillos
 
-xxx
+Las garras y colmillos de un vampiro son unas poderosas armas, pero salen cuando pasan a su forma Trash. 
+
+En su forma Crush, sus colmillos y sus uñas apenas traspasan la piel, lo justo para hacerte sangrar y alimentarse.
+
+Las garras y colmillos de la forma Trash te dan _+1 a la gravedad del daño_ cuando atacas con estas armas naturales.
 
 #### Regeneración vampírica
 
@@ -961,6 +977,8 @@ Los vampiros pueden ver perfectamente independientemente de las condiciones de l
 ### Debilidades vampíricas
 
 Pero los vampiros también tienes debilidades que son las únicas formas de hacerles daño.
+
+\sp
 
 #### Ajo, plata, fuego, luz ultravioleta y agua bendita
 
@@ -978,8 +996,6 @@ Cada turno expuesto al sol (más del 50% de su cuerpo), empieza a arder y echar 
 
 Si consigue escapar de la muerte por alergia al sol, podrá curar cada «quemado por el sol» como si fuera una consecuencia grave.
 
-\sp
-
 #### Estaca de madera en el corazón
 
 La estaca de madera en el corazón __supone la muerte directa del vampiro__ y solo es posible si está dormida.
@@ -988,13 +1004,13 @@ Eso del cazavampiros clavando estacas a diestro y siniestro es para series y pel
 
 ### Aspectos para vampiros
 
-Salvo casos muy especiales, el rango del vampiro debería aparecer en su aspecto principal, rollo «Lord Vampiro|Lady Vampira|Liege Vampire de la ciudad».
+Salvo casos muy especiales, el _rango del vampiro_ debería aparecer en su aspecto principal, rollo «Lord Vampiro|Lady Vampira|Liege Vampire de la ciudad».
 
-Otro aspecto importante puede ser su forma de ser, como «sanguinario», «vengativo», «meticuloso y cauto». Como ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.
+Otro aspecto importante puede ser _su forma de ser_, como «sanguinario», «vengativo», «meticuloso y cauto». Como ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.
 
-Su forma de liderazgo/tiranía también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
+Su _forma de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
 
-Suelen haber vivido muchos años, así que algo de sus pasados puede ser interesante desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
+Suelen haber vivido muchos años, así que _algo de su pasado_ puede ser interesante desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
 
 ### Creando vampiros
 
@@ -1002,17 +1018,28 @@ Si necesitas crear tu propia némesis vampírica, aquí tienes algunos consejos 
 
 #### Vampiros noobs
 
-xxx
+Siguiendo las __reglas normales de creación de__ __personajes y aplicándoles las proezas y__ __debilidades vampíricas__, tendríamos un vampiro newbie muy bueno. 
+
+
+Desde luego, no tiene contactos ni aliados y solo un amo, un vampiro más viejo que él que le mangonea. Igual está tratando de atraer a algún siervo. 
+
+\sp
+
+Podrías incluso hacer que le fallen ciertos poderes como flotar, ya que todavía no sabe usarlos adecuadamente o que no tenga mucho control a la hora de beber sangre y se pase siempre con sus víctimas.
 
 #### Vampiros oldie
 
-xxx
+Un viejo vampiro es un __nivel intermedio__ entre el newbie y el Lord. Y controla sus poderes, tiene una guarida y un territorio de caza, tienen aliados y seguro que enemigos y tiene un Lord Vampiro al que sirve. 
+
+Al generarlo deberías, mínimo, añadirle __2 Hitos Trascendentes__ y __3 Hitos Relevantes__ para mostrar el poder superior que tiene. Con esto debería poder enfrentarse a problemas tan mundanos como efectivos de la policía y del ejército y no ser una presa facil para un grupo de 4 o 5 niñas cazavampiros con estacas.
 
 #### Lord Vampiros
 
-Al crearlo deberías, mínimo, añadirle 4 Hitos Trascendentes y 6 Hitos Relevantes.
+Solo debería haber un Lord Vampiro en tu aventura, así que dedícale un tiempo en definirlo. En qué año nació, a qué se dedicaba, cómo se hizo tan poderoso, qué grandes planes ha conseguido ya, cómo es su guarida … Piensa en todo lo que se dice de Drácula en su novela, pues así deberías definirlo.
 
-xxx
+Al generarlo deberías, mínimo, añadirle __4 Hitos Trascendentes__ y __6 Hitos Relevantes__ para mostrar el poder que ha ido acumulando con los años.
+
+Como es lógico tiene muchos siervos tanto humanos como vampíricos y contactos poderosos en todas partes. Lord Ceballos te dará pistas de como debería ser tu Lord Vampiro.
 
 ***
 
@@ -1127,7 +1154,7 @@ xxx
 
 ## Lugares
 
-A continuación he copiado las notas que fui haciendo sobre los distintos lugares donde ocurrió mi aventura para que puedan hacerte una mejor idea. Son, principalmente, guaridas de vampiros, zonas de caza y algún que otro lugar donde hubo encuentros importantes.
+A continuación he copiado las notas que fui haciendo sobre los distintos lugares donde ocurrió mi aventura para que puedan hacerte una mejor idea. Son, principalmente, guaridas de vampiros, zonas de caza y algún que otro sitio donde hubo encuentros importantes.
 
 \conc
 
@@ -1314,10 +1341,6 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
-
-\sp
- 
-&nbsp;
 
 ***
 
