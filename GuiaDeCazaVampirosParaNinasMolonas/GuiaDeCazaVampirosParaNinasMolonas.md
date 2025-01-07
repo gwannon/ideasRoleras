@@ -1038,7 +1038,7 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 \conc
 
-XXX
+xxx
 
 \sp
 
@@ -1050,7 +1050,7 @@ XXX
 
 \conc
 
-XXX
+xxx
 
 \sinc
 
@@ -1060,7 +1060,7 @@ XXX
 
 \conc
 
-XXX
+xxx
 
 \sp
 
@@ -1068,13 +1068,17 @@ XXX
 
 ## Amigos y enemigos
 
-Aquí tienes las bios de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
+Aquí tienes las bíos de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
 
 \conc
 
+\sinc
+
 ### Lord Ceballos
 
-XXX
+xxx
+
+\conc
 
 * **Aspectos**
   * **Concepto principal:** Lord Vampiro de la ciudad
@@ -1088,6 +1092,30 @@ XXX
   * xxx
   * xxx
 * **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** xxx
+
+\conc
+
+\sp
+
+\sinc
+
+## Lugares
+
+A continuación he copiado las notas que fui haciendo sobre los distintos lugares donde ocurrió mi aventura para que puedan hacerte una mejor idea. Son, principalmente, guaridas de vampiros, zonas de caza y algún que otro lugar donde hubo encuentros importantes.
+
+\conc
+
+### Guarida de Lord Ceballos
+
+**Aspectos visibles:** xxx
+
+**Aspectos ocultos:** xxx
+
+xxx
 
 ***
 
@@ -1172,6 +1200,7 @@ Aquí tienes un listado de jerga más común.
 * **Beef:** Tirar beef hace referencia un enfrentamiento o discusión en público.
 * **Bro:** De brother (hermano). Es el nuevo “tío”.
 * **Buenro:** Abreviatura de buen rollo.
+* **Bugeado (Bugueado):** Que falla o tiene errores. Se usa con tecnología. 
 * **Calle (Tener o no tener):** Tiene mucha experiencia.
 * **Chetao (Chetadísimo):** Que hace trampas o que es tan superior al resto que parece que hace trampas.
 * **Cool:** Es el nuevo mola. 
@@ -1198,9 +1227,13 @@ Aquí tienes un listado de jerga más común.
 * **Pro:** De profesional. Alguien que es bueno en algo.
 * **Random:** Algo es al azar.
 * **Rentar:** Si algo te renta o no te renta quiere para decir que algo te compensa o no.
+* **Sapo:** Chivato, soplón.
 * **Servir coño:** Cuando alguien que ha hecho algo muy bien.
 * **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
 * **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
+
+\sp
+
 * **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
 * **Ubícate:** Si alguien te lo dice, quiere decir que te pongas al día de algo que está pasando ahora mismo.
 
@@ -1261,9 +1294,9 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 \conc
 
 \sp
-
-&nbsp;
  
+&nbsp;
+
 ***
 
 &nbsp;

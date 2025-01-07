@@ -2,7 +2,7 @@ Ahora, la generación Z (de mediados o finales de los años 90 a finales de los 
 
 Con 'haters' denominan a esos que no aportan cariño precisamente en las redes sociales (viene de 'hate', odio), al igual que 'trolls'. Y dicen 'tener muchos likes', que es cuando das a 'me gusta' en facebook, instagram u otras redes sociales. Una compleja:  Como quien se ha pasado la jornada con los videojuegos, un 'viciado' que ha jugado 'pila', es decir, mucho.
 
-Hay muchas otras palabras del castellano que se emplean con asiduidad, como 'obvio' en vez de claro. Muletillas como 'tipo' o 'en plan', sustitutas de por ejemplo o como. Usan 'rata' o 'mierder' para designar a alguien indeseable, o 'sapo' para un chivato.Si dicen 'lo mítico' seguramente estarán queriendo decir lo típico. 
+Hay muchas otras palabras del castellano que se emplean con asiduidad, como 'obvio' en vez de claro. Muletillas como 'tipo' o 'en plan', sustitutas de por ejemplo o como. Usan 'rata' o 'mierder' para designar a alguien indeseable, o .Si dicen 'lo mítico' seguramente estarán queriendo decir lo típico. 
 Bugear o buguear (Bug: error) Sobre un dispositivo, funcionar con problemas de conexión.
 
 Y la queso (Ahí queda eso) Cuando se consigue algo contra la opinión de alguien, aprobar un examen y apostillae la buena nueva con un 'y la queso'.
