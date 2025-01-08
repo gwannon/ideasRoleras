@@ -6,8 +6,11 @@ include(__DIR__ ."/config.php");
 /* Generamos el HTML */
 /* -------------------------------------------------------------- */
 use FastVolt\Helper\Markdown;
+
+$md = file_get_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.md");
+$md = str_replace("|BuenosDiasSrVampiro.md|", file_get_contents(__DIR__ . "/../BuenosDiasSrVampiro.md"), $md); 
 $mkd = Markdown::new();
-$mkd->setContent(file_get_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.md"));
+$mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
 $html = file_get_contents(__DIR__ . "/template.html");
 foreach ($tags as $tag => $value) {
