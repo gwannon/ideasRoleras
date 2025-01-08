@@ -134,9 +134,9 @@ Si es lo suficientemente rico y poderoso, deja de cazar y simplemente espera en 
 
 ### Puedes consumir sangre de vampiro?
 
-Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar. El efecto dura unos minutos (escena).
+Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar. El efecto dura unos minutos donde te sientes la leche.
 
-El problema es que después te deja muy doblada. Y tras unos minutos (siguiente escena) terminas devolviendo toda la sangre tomada y vuelves a estar normal. Ya os digo que esa vomitona es de lo peor que puede pasarte.
+El problema es que después te deja muy doblada. Y tras unos minutos terminas devolviendo toda la sangre tomada y vuelves a estar normal. Ya os digo que esa vomitona es de lo peor que puede pasarte.
 
 No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosas que otras.
 
@@ -700,7 +700,7 @@ Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con g
 
 ### Walkie-talkie
 
-Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es facil tener unos walkie-talkies para comunicarte con tus si&#x2605;s. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, … todo son ventajas.
+Esta tecnología retro, como dice mi tío, es la leche. Con 12 años o menos es complicado tener un móvil, pero es fácil tener unos walkie-talkies para comunicarte con tus si&#x2605;s. No deja registros, no es hackeable, funciona en sitios donde no hay cobertura de móvil, las baterías duran un montón, … todo son ventajas.
 
 Si solucionarán lo del cambio y corto (mi tío se puso muy pesado con eso cuando me enseño a usarlo) serían la leche. Pero vamos Es de las primeras cosas que debes conseguir cuando salgas a cazar acompañada de tu panda.
 
@@ -984,7 +984,7 @@ Pero los vampiros también tienes debilidades que son las únicas formas de hace
 
 Si puedes atacar a un vampiro con alguno de estos objetos, podrás enfrentarse contra el vampiro. Sin alguno de estos objetos es imposible dañarlos y la única opción es huir.
 
-No hay ninguna más dañina que otras solamente dan unas opciones u otras.
+No hay ninguna más dañina que otras, solamente dan unas opciones u otras.
 
 La plata puede convertirse en balas o cuchillos, el fuego es fácil de conseguir, el té de ajo y el agua bendita pueden usarse en pistolas y globos de agua y las linternas UV pueden sentirte como una auténtica jedi con su sable de luz a lo Rey Skywalker.
 
@@ -1012,9 +1012,17 @@ Otro aspecto importante puede ser _su forma de ser_, como «sanguinario», «ven
 
 Su _forma de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
 
-Suelen haber vivido muchos años, así que _algo de su pasado_ puede ser interesante desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
+Suelen haber vivido muchos años, así que _algo de su pasado_ puede ser interesante, desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
 
 \sp
+
+### Bebiendo sangre de vampiro
+
+Beber sangre de vampiros es una forma rápida de acceder a ciertas proezas vampíricas, como son _flotar_ o _ver en la oscuridad_. También recibes como aspecto la _«fuerza, velocidad y_ _resistencia vampírica»_. Estos poderes duran una escena completa. 
+
+Según acabe la escena y los poderes desaparezcan, recibes hasta el final de esta nueva escena el aspecto «resaca de sangre de vampiro». Te encontrarás fatal, con un dolor de cabeza brutal, náuseas y ganas de vomitar.
+
+Al final de la escena vomitarás los restos de la sangre de vampiro que queda en tu cuerpo y volverás a la normalidad.
 
 ### Creando vampiros
 
@@ -1033,7 +1041,7 @@ Podrías incluso hacer que le fallen ciertos poderes como flotar, ya que todaví
 
 Un viejo vampiro es un __nivel intermedio__ entre el newbie y el Lord. Y controla sus poderes, tiene una guarida y un territorio de caza, tienen aliados y seguro que enemigos y tiene un Lord Vampiro al que sirve. 
 
-Al generarlo deberías, mínimo, añadirle __2 Hitos Trascendentes__ y __3 Hitos Relevantes__ para mostrar el poder superior que tiene. Con esto debería poder enfrentarse a problemas tan mundanos como efectivos de la policía y del ejército y no ser una presa facil para un grupo de 4 o 5 niñas cazavampiros con estacas.
+Al generarlo deberías, mínimo, añadirle __2 Hitos Trascendentes__ y __3 Hitos Relevantes__ para mostrar el poder superior que tiene. Con esto debería poder enfrentarse a problemas tan mundanos como efectivos de la policía y del ejército y no ser una presa fácil para un grupo de 4 o 5 niñas cazavampiros con estacas.
 
 #### Lord Vampiros
 
@@ -1041,7 +1049,7 @@ Solo debería haber un Lord Vampiro en tu aventura, así que dedícale un tiempo
 
 Al generarlo deberías, mínimo, añadirle __4 Hitos Trascendentes__ y __6 Hitos Relevantes__ para mostrar el poder que ha ido acumulando con los años.
 
-Como es lógico tiene muchos siervos tanto humanos como vampíricos y contactos poderosos en todas partes. Lord Ceballos te dará pistas de como debería ser tu Lord Vampiro.
+Como es lógico, tiene muchos siervos tanto humanos como vampíricos y contactos poderosos en todas partes. Lord Ceballos te dará pistas de como debería ser tu Lord Vampiro.
 
 ***
 
@@ -1104,6 +1112,32 @@ xxx
 > En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a una nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
 
 \conc
+
+xxx
+
+\sp
+
+\sinc
+
+## La boy-band
+
+> Lord Ceballos sabía que había un grupo de adolescentes truncando uno a uno sus planes, pero todavía no sabía quiénes eran. Así que ideo una estrategia para ocultar el xxx, un concierto en el barrio de la boy band de moda.
+
+\conc
+
+De la noche a la mañana cualquier cacho de pared libre se llenó de carteles anunciando el mayor concierto que había conocido el barrio, los xxx, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares.
+
+xxx
+
+\sinc
+
+## La Pijamada
+
+> Después de los estresantes días anteriores, una de mis compañeras cumplía años y nos invitó a una pijamada en su casa. Además, sus padres iban a estar fuera, con lo que la casa sería para nosotras.
+
+\conc
+
+Esta parte de la aventura puedes hacerla cuando quieras, quizás alguna vez que falte un jugador o ese día que no tienes nada preparado y buscáis algo rápido y divertido.
 
 xxx
 
@@ -1259,6 +1293,7 @@ Aquí tienes un listado de jerga más común.
 * **Crack:** Alguien muy torpe y matado en algo.
 * **Crush:** Se refiere tanto a un amor platónico como a la persona que te gusta.
 * **Cringe:** Algo te genera vergüenza ajena o bochorno.
+* **Cute:** Mono en referencia a bonito, achuchable, … También puede usarse la versión japonesa kawai.
 * **De chill:** Ha sustituido al “de tranqui”.
 * **Dejar en leído:** No responderte a los mensajes.
 * **Evento canónico (Es canon):** Significa que es un momento de tu vida que no puedes cambiar y que te define para siempre.
@@ -1282,11 +1317,13 @@ Aquí tienes un listado de jerga más común.
 * **Sapo:** Chivato, soplón.
 * **Servir coño:** Cuando alguien que ha hecho algo muy bien.
 * **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
-* **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
 
 \sp
 
+* **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
 * **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
+* **Traer té:** Tener algo interesante que contar.
+* **Tryhardear:** No rendirse.
 * **Ubícate:** Si alguien te lo dice, quiere decir que te pongas al día de algo que está pasando ahora mismo.
 
 \sp
@@ -1344,6 +1381,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 

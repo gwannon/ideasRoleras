@@ -2,12 +2,30 @@ section:first-of-type > div.saltopagina {
   display: none;
 }
 
-@media screen {
-  .saltopagina { display: block; height: 0; overflow: hidden; }
-}
 
 .columns {
   columns: 2;
+}
+
+
+@media screen {
+  .saltopagina { display: block; height: 0; overflow: hidden; }
+  .columns {
+    columns: 1;
+  }
+
+  body {
+    background-size: 120% auto;
+  }
+
+  section:nth-of-type(2),
+  section:nth-of-type(10) {
+    display: none;
+  }
+
+  section:not(section:first-of-type, section:last-of-type) > h1 {
+    height: auto;
+  }
 }
 
 @media print {
