@@ -1196,8 +1196,6 @@ Aquí tienes un listado de jerga más común.
 
 ## Hoja de personaje
 
-\sinc
-
 |HOJAPERSONAJE|
 
 \conc

@@ -17,7 +17,7 @@ foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
 
-$html = str_replace("|HOJAPERSONAJE|", file_get_contents(__DIR__ . "/../hojapersonaje.html"), $html);
+$html = str_replace("<p>|HOJAPERSONAJE|</p>", file_get_contents(__DIR__ . "/../hojapersonaje.html"), $html);
 
 $html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class=\"columns\">", $html);
