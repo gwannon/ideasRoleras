@@ -1,12 +1,11 @@
-section:first-of-type > div.saltopagina {
+section:first-of-type > div.saltopagina,
+section:nth-of-type(10) > div.saltopagina {
   display: none;
 }
-
 
 .columns {
   columns: 2;
 }
-
 
 @media screen {
   .saltopagina { display: block; height: 0; overflow: hidden; }

@@ -1119,7 +1119,33 @@ xxx
 
 \sinc
 
-## La boy-band
+## Mientras tanto …
+
+En este punto puedes encontrar eventos o encuentros que pueden pasar en cualquier momento de la aventura y otros que pueden saltar si lo crees necesario y se dan unas condiciones específicas.
+
+Los más sencillos, como las fiestas del barrio, simplemente van a ofrecerte la posibilidad de meter aspectos especiales y temporales al barrio. Los más complicados pueden llevar una o más sesiones terminarlos, tener encuentros y combates y con ello obtener nuevos enemigos y aliados.
+
+### Las fiestas del barrio
+
+> Cada año por estas fechas son las fiestas del barrio y si bien las calles eran un hervidero de gente bebiendo y bailando, 
+
+\conc
+
+Durante las fiestas del barrio puedes dotar al barrio de aspectos nuevos que no tiene de normal, como «lleno de gente» que dificultad seguir a una persona y facilita esconderse y desaparecer entre la multitud. 
+
+Debes pensar como son las fiestas del barrio, quizás son un desfreno de alcohol y música alta, tal vez hay carrozas de floras o pasos religiosos. Piensa en una fiesta que conozcas y te guste y plásmala en algunos aspectos. Veamos algunas ideas:
+
+* **Carnavales:** Gente disfrazada, carrozas y pasacalles que cortan el tráfico, música y alcohol.
+* **Sanfermines:** Gente en las calles 24 horas, eventos importantes que atraen a gente de fuera, música y alcohol.
+* **Semana Santa:** Grandes concentraciones de gentes a determinadas horas, pasos religiosos que colapsan el tráfico, sobriedad y religiosidad.
+
+Hay otras opciones similares que puedes explotar, quizás el equipo deportivo local ha conseguido ganar alguna competición y la gente lo celebra o se celebra algún tipo de festival musical, concentración motera, concursos populares, …
+
+\sp
+
+\sinc
+
+### La boy-band
 
 > Lord Ceballos sabía que había un grupo de adolescentes truncando uno a uno sus planes, pero todavía no sabía quiénes eran. Así que ideo una estrategia para ocultar el xxx, un concierto en el barrio de la boy band de moda.
 
@@ -1131,7 +1157,7 @@ xxx
 
 \sinc
 
-## La Pijamada
+### La Pijamada
 
 > Después de los estresantes días anteriores, una de mis compañeras cumplía años y nos invitó a una pijamada en su casa. Además, sus padres iban a estar fuera, con lo que la casa sería para nosotras.
 
@@ -1145,7 +1171,7 @@ xxx
 
 \sinc
 
-## ACAB
+### ACAB
 
 > La situación se nos iba de las manos. Era demasiado para un grupito de niñas valientes, pero aun así niñas y sin recursos. Así que decidimos recurrir a la policía … grave error.
 
@@ -1159,13 +1185,13 @@ Solo deberían intentar esta jugada si están muy desesperadas y deberían pensa
 
 xxx
 
-### La sala de interrogatorio
+#### La sala de interrogatorio
 
 Lo primero que harán los dos polis será atar las manos a la espalda con unas bridas. No es que crean que pueden con ellos, es para intimidar.
 
 xxx
 
-### Entra Catalina
+#### Entra Catalina
 
 Catalina Faroes es una activista de derechos sociales del barrio. Es de origen brasileño y tiene el título de abogada.
 
@@ -1180,6 +1206,18 @@ Acto seguido se acercó a la zona de seguridad y no quito ojo a las cámaras de 
 xxx
 
 > Tu panda ha perdido su anonimato, pero tiene un aliado muy interesante. No solo será un importante apoyo mental, sino que puede ser muy útil en situaciones legales y burocráticas y como sortearlas.
+
+\sinc
+
+### Grupo terrorista
+
+> No era conocido en su momento, pero Grupo Ceballos controlaba varios periódicos y televisiones. Con su influencia en la opinión pública, rápidamente los ataques que estábamos haciendo en el barrio empezaron a ser considerados ataques terroristas y se hablaba de alguna célula de radicalizados antisistemas.
+
+\conc
+
+Puedes hacer saltar esta aventura como forma de meter más presión a tu mesa. Un nuevo elemento va a obligar a tus cazadoras a tener que ser muy cuidadosas o sus actividades serán descubiertas.
+
+xxx
 
 \sp
 
@@ -1263,9 +1301,25 @@ xxx
 
 A continuación he copiado las notas que fui haciendo sobre los distintos lugares donde ocurrió mi aventura para que puedan hacerte una mejor idea. Son, principalmente, guaridas de vampiros, zonas de caza y algún que otro sitio donde hubo encuentros importantes.
 
+### El barrio
+
 \conc
 
+El barrio es una localización especial en esta aventura porque es tu labor definirlo poniéndole unos 4 aspectos. 
+
+Llevas muchos años viviendo en el barrio para que tengas secretos para ti, por lo que el barrio solo tiene aspectos visibles. Los aspectos deben responder a preguntas como:
+
+* Quién vive en el barrio?
+* Es rico o es pobre?
+* Está en el centro o en las afueras?
+* Está bien comunicado?
+* Hay mucha delincuencia? Hay mucha policía? Está abandonado por las instituciones?
+
+\sinc
+
 ### Guarida de Lord Ceballos
+
+\conc
 
 **Aspectos visibles:** xxx
 
@@ -1453,6 +1507,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 

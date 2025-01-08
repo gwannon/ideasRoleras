@@ -69,14 +69,12 @@ h3 {
   font-size: 1.5em;
 }
 
-
 .columns > h3:first-child,
 .columns > h2:first-child,
 .saltocolumna + h3,
 .saltocolumna + h4 {
   margin-top: 0px;
 }
-
 
 /*h2:after {
   position: absolute;
@@ -338,7 +336,6 @@ a:has(img) {
   position: relative;
   display: block;
 }
-
 
 /* Tablas */
 table {
