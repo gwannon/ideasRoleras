@@ -1145,6 +1145,46 @@ xxx
 
 \sinc
 
+## ACAB
+
+> La situación se nos iba de las manos. Era demasiado para un grupito de niñas valientes, pero aun así niñas y sin recursos. Así que decidimos recurrir a la policía … grave error.
+
+\conc
+
+Esta parte de la aventura puede meterse en cualquier parte, pero has de tener en cuenta que si acuden a la policía serán identificadas y el plan vampírico sabrá quién le ha atacado.
+
+Antes de jugar esta escena deberías tratar de jugar con su paranoia de si la poli es corrupta y está comprada por el Grupo Ceballos.
+
+Solo deberían intentar esta jugada si están muy desesperadas y deberían pensar durante toda la escena que es el mayor error de su vida hasta que aparezca Catalina a salvarlas.
+
+xxx
+
+### La sala de interrogatorio
+
+Lo primero que harán los dos polis será atar las manos a la espalda con unas bridas. No es que crean que pueden con ellos, es para intimidar.
+
+xxx
+
+### Entra Catalina
+
+Catalina Faroes es una activista de derechos sociales del barrio. Es de origen brasileño y tiene el título de abogada.
+
+Estaba en la comisaría, sacando a una amiga detenida por unos disturbios con un grupo antiabortista, cuando vio a dos polis metiendo a un grupito de niñas en una sala de interrogatorio y uno de ellos llevaba un manojo de bridas de detención en la mano.
+
+Eso hizo saltar todas las alarmas, menores interrogados sin tutores presentes o sin un asistente social y lo de las bridas sonaba a detención ilegal.
+
+Acto seguido se acercó a la zona de seguridad y no quito ojo a las cámaras de la zona de interrogatorio mientras se roneaba al encargado. Al primer tortazo de uno de los detectives, salió hecha un basilisco a la puerta de la sala de interrogatorio y empezó a dar golpes y patadas.
+
+\sp
+
+xxx
+
+> Tu panda ha perdido su anonimato, pero tiene un aliado muy interesante. No solo será un importante apoyo mental, sino que puede ser muy útil en situaciones legales y burocráticas y como sortearlas.
+
+\sp
+
+\sinc
+
 ## Amigos y enemigos
 
 Aquí tienes las bíos de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
@@ -1167,6 +1207,37 @@ xxx
 
 * **Aspectos**
   * **Concepto principal:** Lord Vampiro de la ciudad
+  * **Complicación:** xxx
+  * xxx
+  * xxx
+  * xxx
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * xxx
+  * xxx
+  * xxx
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglo entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
+
+\conc
+
+\sp
+
+\sinc
+
+### Catalina Faroes
+
+xxx
+
+\conc
+
+[![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
+
+* **Aspectos**
+  * **Concepto principal:** xxx
   * **Complicación:** xxx
   * xxx
   * xxx
@@ -1272,6 +1343,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Vampire Anatomy 1 By [DanielGovar](https://www.freepik.com/free-vector/bff-best-friend-forever-lettering-white-background_24084900.htm) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Young woman boxer training at the gym por [senivpetro](https://www.freepik.com/free-photo/young-woman-boxer-training-gym_6255935.htm)
 * vamp it up By [NanFe](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Painting sketch By [ArthurHenri](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
 
 \sp
 
