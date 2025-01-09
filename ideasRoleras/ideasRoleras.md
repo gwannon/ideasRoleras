@@ -64,15 +64,27 @@ Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una cole
 
 Podría plantearse también para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
 
+### D&D VS Westworld
+
+En un futuro más o menos lejano te quedas atrapado en un planeta entero con más gente como tú que es un parque de atracciones temático de D&D. 
+
+Los monstruos son robots animatrónicos que toman conciencia de su existencia rollo WestWorld. 
+
+El mundo es una mezcla de medieval fantástico y parque temático. El robot posadero te trae el menú plastificado y te sirve en bandejas de plástico y antes de llegar a la guarida del dragón tienes que recorrer una montaña rusa donde te atacan los monstruos que antes solo daban sustos.
+
+Los monstruos tendrían objetos especiales para hacer sus trucos como un mini lanzallamas para simular un hechizo de «manos ardientes». Tendrás que destruir a los robots monstruos y robarles su equipo.
+
+Habría varias ambientaciones por cada zona del parque y puede que la gente cree comunidades en diferentes atracciones donde prosperar mientras los rescatan.
+
+Puede ser que el portal o agujero de gusano de entrada a este sistema esté roto o haya colapsado. Igual una supernova ha destruido tu civilización y solo queda este mundo.
+
 ### Dinosaurio + Medieval
 
-Una Europa medieval sin magia ni fantasía donde encuentran un volcán apagado en Islandia donde hay dinosaurios. Los crían y entrenan para ayudar en las labores del campo, la guerra, ...
+Una Europa medieval sin magia ni fantasía donde encuentran un volcán apagado en Islandia donde hay dinosaurios. Los crían y entrenan para ayudar en las labores del campo, la guerra, …
 
 Puede ser una Edad Media dura, con guerras de religión, pestes y lepras, feudalismo, quema de brujas, etc. O podría ser más caballeresco, rollo Príncipe Valiente, Ivanhoe, etc.
 
 Habría cosas como justas en estegosaurios, máquinas de guerra montadas en diplodocus, mensajeros en pteradones, etc.
-
-\saltocolumna
 
 ### Espacial victoriano
 
@@ -83,6 +95,8 @@ Europa sería un sistema solar donde cada planeta es una potencia europea. El Ca
 Habría barcos con motores FTL y velas solares capaces de surcar el espacio. Combates navales, campos de asteroides y agujeros negros en vez de tormentas y ciclones, etc.
 
 La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
+
+\saltopagina
 
 ### Fábulas de Bill Willingham
 
@@ -106,13 +120,13 @@ Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomor
 
 Fantasía medieval, pero rollo polinesia, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
 
-\saltopagina
-
 ### Mundo de papel
 
 Un mundo de papel inspiración japonesa medieval, donde todo son figuras de origami desde las rocas y los árboles hasta las nubes y las montañas. Las clases sociales y la riqueza las marca la calidad del papel. Según para qué fue usado el papel, tienes una profesión u otra. Desde campesinos de papel de estraza hasta magos con sellos mágicos gushin.
 
 Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
+
+\saltocolumna
 
 ### NIMH
 ¿Qué pasó con las ratas de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
@@ -132,8 +146,6 @@ También como si fueran investigadores que tienen que evitar que un primigenio s
 ### Soy leyenda al revés
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
 
-\saltocolumna
-
 ### Ruta de la seda
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
@@ -146,6 +158,8 @@ Tres mosqueteros + Cyrano de Bergerac contra Cthulhu. Ya existe [Claudia Christi
 
 La Odisea en plan los Mitos de Cthulhu. En vez de Poseidón es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser líderes de cultos.
 
+\saltopagina
+
 ### El viento en los sauces VS Cthulhu 
 
 Hablamos de animales antropomórficos en una era victoriana tardía con los Mitos de Cthulhu.
@@ -155,6 +169,16 @@ El ambiente sería muy rural rollo el horror de Dunwich
 Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
 
 Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
+
+### -007
+
+Una campaña sería de agentes secretos contra organización mundial que busca dominar el mundo, pero los personajes llevan copias crutes de James Bond con sus poderes especiales crutes. Por ejemplo:
+
+* **Austin Powers** con superpoder de ligar rollo ¡¡¡Hey, nena!!!!
+* **Gru** y sus minions y sus inventos locos del Doctor Nefario.
+* **Super agente 86**
+* **Flint, agente secreto**
+* **Eggsy de Kingsman** y todos esos superagentes adolescentes como Cody Banks
 
 \saltopagina
 
@@ -202,7 +226,7 @@ Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del 
 
 Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
 
-Es una sátira de la época victoriana pero la parte matemática está muy bien pensada y podría dar ideas muy interesantes, sobre todo al pensar en 2d tanto para crear y descubrir el mundo como para moverse e interactuar con él.
+Es una sátira de la época victoriana, pero la parte matemática está muy bien pensada y podría dar ideas muy interesantes, sobre todo al pensar en 2d tanto para crear y descubrir el mundo como para moverse e interactuar con él.
 
 ### Los plastilinos.
 
@@ -228,7 +252,7 @@ Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mis
 
 ### Repartidor/a de pizza en un dungeon.
 
-Recorre la mazmorra buscando a los PJs o monstruos que han pedido la pizza.
+Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 
 ### RRHH en un Dungeon.
 
@@ -310,7 +334,7 @@ Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya 
 
 ### Los 7 misterios
 
-> Se dice que en todos los institutos del mundo existen 7 misterios sin resolver ... Y el Furinkan no es una excepción. _Ranma 1/2 - Capítulo 328 - Rumiko Talahashi_
+> Se dice que en todos los institutos del mundo existen 7 misterios sin resolver … Y el Furinkan no es una excepción. _Ranma 1/2 - Capítulo 328 - Rumiko Takahashi_
 
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
 
