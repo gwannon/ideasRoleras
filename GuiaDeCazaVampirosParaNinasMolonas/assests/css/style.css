@@ -95,7 +95,12 @@ blockquote {
   margin-left: 0px;
   margin-right: 0px;
   padding: 3px;
-  
+}
+
+h2 + blockquote,
+h3 + blockquote {
+  margin-top: 0px;
+  padding-top: 10px;
 }
 
 blockquote > p {

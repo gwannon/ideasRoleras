@@ -42,3 +42,4 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa plata puede convertirse en balas o cuchillos, el fuego es fácil de conseguir, el té de ajo y el agua bendita pueden usarse en pistolas y globos de agua y las linternas UV pueden sentirte como una auténtica jedi con su sable de luz a lo Rey Skywalker.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qvamp it up By NanFe\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qempezarán a jugar al UNO Vergonzoso, la que pierda cada mano debe contar una historia vergonzosa que haya vivido.\\E$"}
