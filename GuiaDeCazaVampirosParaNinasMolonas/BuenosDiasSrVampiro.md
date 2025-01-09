@@ -274,8 +274,16 @@ Llevas muchos años viviendo en el barrio para que tengas secretos para ti, por 
 
 **Aspectos visibles:** xxx
 
-**Aspectos ocultos:** xxx
+**Aspectos ocultos:** Insonorizado, Túnel de escape
+
+Lord Ceballos vive en el ático de un edificio de viviendas de lujo, que es completamente de su propiedad. En ese edificio solo viven sirvientes suyos tanto humanos como vampiros y encima de ellos con la vivienda más lujosa y segura está Lord Ceballos.
+
+Solo hay dos entradas al edificio, la principal, y, como no, la de servicio para repartidores, vigilantes y demás. Ambas tienen arcos de seguridad y escáner de rayos X para las bolsas. 
+
+El ático solo tiene acceso por ascensor privado en el que siempre hay un vigilante que actúa de ascensorista. xxx
 
 xxx
+
+Detrás del trono, tras unas cortinas de terciopelo rojo, tiene la puerta a una habitación del pánico donde duerme algunas noches cuando no está del todo tranquilo. 
 
 ***
