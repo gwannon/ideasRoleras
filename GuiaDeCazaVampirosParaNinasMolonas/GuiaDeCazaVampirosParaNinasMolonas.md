@@ -82,6 +82,8 @@ Si como director de juego o jugador vas a hacer chistes sobre estas duras situac
 
 Si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
 
+### Romanceo y amistad
+
 Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ debería ser otro tema a tratar de forma sería. Estamos interpretando a menores con todo lo que ello ética, moral y legalmente supone. Está claro que tu PJ puede tener un crush por su actor o actriz favorita, por alguien de su clase, etc. pero no debería ir más allá del simple "el DJ te dé un aspecto divertido cuando tu amor platónico está cerca". 
 
 Creo que en lugar del tema del romance puedes optar por llevar temas de amistad. Un parte importante de la ambientación trabaja el tema de la amistad, de amigas para siempre, BBF y creo que puede ser una idea diferente y alternativa al romanceo y que puede dar mucho juego y diversión.  
