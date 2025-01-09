@@ -254,11 +254,11 @@ El barrio es una localización especial en esta aventura porque es tu labor defi
 
 Llevas muchos años viviendo en el barrio para que tengas secretos para ti, por lo que el barrio solo tiene aspectos visibles. Los aspectos deben responder a preguntas como:
 
-* Quién vive en el barrio?
-* Es rico o es pobre?
-* Está en el centro o en las afueras?
-* Está bien comunicado?
-* Hay mucha delincuencia? Hay mucha policía? Está abandonado por las instituciones?
+* ¿Quién vive en el barrio?
+* ¿Es rico o es pobre?
+* ¿Está en el centro o en las afueras?
+* ¿Está bien comunicado?
+* ¿Hay mucha delincuencia? ¿Hay mucha policía? ¿Está abandonado por las instituciones?
 
 \sinc
 

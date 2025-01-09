@@ -8,7 +8,13 @@ include(__DIR__ ."/config.php");
 use FastVolt\Helper\Markdown;
 
 $md = file_get_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.md");
-$md = str_replace("|BuenosDiasSrVampiro.md|", file_get_contents(__DIR__ . "/../BuenosDiasSrVampiro.md"), $md); 
+
+$md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
+  $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
+  return $matches[0];
+}, $md);
+
+//$md = str_replace("|BuenosDiasSrVampiro.md|", file_get_contents(__DIR__ . "/../BuenosDiasSrVampiro.md"), $md); 
 $mkd = Markdown::new();
 $mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
