@@ -131,12 +131,17 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Young woman boxer training at the gym por [senivpetro](https://www.freepik.com/free-photo/young-woman-boxer-training-gym_6255935.htm)
 * vamp it up By [NanFe](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Painting sketch By [ArthurHenri](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+* Textura de graffiti de pared en blanco y negro por [vector_corp](https://www.freepik.es/vector-gratis/textura-graffiti-pared-blanco-negro_370750953.htm)
 
 \sp
 
 \sinc
 
 ## Jerga
+
+[![Textura de graffiti de pared en blanco y negro por vector_corp](./assests/images/8f81fb1a-7206-442b-9514-cc96674d329f.jpg "Textura de graffiti de pared en blanco y negro por vector_corp")](https://www.freepik.es/vector-gratis/textura-graffiti-pared-blanco-negro_370750953.htm "Textura de graffiti de pared en blanco y negro por vector_corp")
+
+&nbsp;
 
 \conc
 
@@ -159,7 +164,11 @@ Aquí tienes un listado de jerga más común.
 * **Exposear:** Alguien exposeado es alguien expuesto, que le han pillado en una situación comprometida.
 * **Fachero:** Algo fachero es algo que es chulo o bonito.
 * **Funar:** Cancelar por tus opiniones.
+
+\sp
+
 * **Goat (Greatest Of All Time):** El mejor de todos los tiempos.
+* **Hater:** De hate, odio en inglés. Persona que odian lo que haces muchas veces por envidia, sobre todo en RRSS.
 * **Hostear:** Ser el anfitrión de un evento.
 * **Hype:** Expectativas desproporcionadas ante la salida de una película, serie, disco, etc.
 * **Lache:** Véase Cringe.
@@ -170,15 +179,13 @@ Aquí tienes un listado de jerga más común.
 * **Mucho texto:** Te están llamando pesado y debes callarte. 
 * **NPC (Non Playable Character):** Gente que no aporta nada.
 * **PEC (Por el culo):** Algo que te gusta muchísimo.
+* **POV (Point of view):** Para marcar algo como que es personal, como tú lo ves o como a ti te afecta.
 * **Pro:** De profesional. Alguien que es bueno en algo.
 * **Random:** Algo es al azar.
 * **Rentar:** Si algo te renta o no te renta quiere para decir que algo te compensa o no.
 * **Sapo:** Chivato, soplón.
 * **Servir coño:** Cuando alguien que ha hecho algo muy bien.
 * **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
-
-\sp
-
 * **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
 * **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
 * **Traer té:** Tener algo interesante que contar.
