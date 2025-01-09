@@ -2,6 +2,10 @@
 
 \sinc
 
+[![Pintada vanpiro esisten](./assests/images/vanpiro-esiten.jpg "Pintada vanpiro esisten")](# "Pintada vanpiro esisten")
+
+&nbsp;
+
 Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio de su amenaza. Tu historia podría ser igual o ser totalmente diferente.
 
 ## El gran plan
@@ -21,6 +25,8 @@ Para ello tenía que conseguir que le permitieran derribar el campo de fútbol l
 El tema de los permisos de derribo y construcción iba a conseguirlo proporcionando a algunos concejales sus deseos más sucios y depravados y luego chantajeándolos a cambio de votar a favor de sus proyectos.
 
 Tendrían que conseguir, drogas, menores, bastante dinero y un asesinato que pareciera natural. Nada fuera de lo normal, de lo que hacía siempre.
+
+\sp
 
 ### Ecodiversidad
 
