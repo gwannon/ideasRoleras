@@ -14,7 +14,8 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-//$md = str_replace("|BuenosDiasSrVampiro.md|", file_get_contents(__DIR__ . "/../BuenosDiasSrVampiro.md"), $md); 
+//file_put_contents(__DIR__ . "/../todo.md", $md);
+
 $mkd = Markdown::new();
 $mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
