@@ -246,15 +246,38 @@ Aquí tienes un listado de jerga más común.
 
 \sp
 
-
-
-
-
 \sinc
 
 ## Personajes pregenerados
 
-### xxx
+### XXX 1
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sinc
+
+### XXX 2
 
 XXX
 
@@ -283,7 +306,7 @@ XXX
 
 \sinc
 
-### xxx
+### XXX 3
 
 XXX
 
@@ -308,40 +331,9 @@ XXX
 
 \conc
 
-\sp
-
 \sinc
 
-### xxx
-
-XXX
-
-\conc
-
-* **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
-  * XXX
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
-* **Proezas**
-  * XXX
-  * XXX
-  * XXX
-* **Capacidad de recuperación:** X
-
-\sinc
-
-**Sugerencia de interpretación:** XXX
-
-\conc
-
-\sp
-
-\sinc
-
-### xxx
+### XXX 4
 
 XXX
 
