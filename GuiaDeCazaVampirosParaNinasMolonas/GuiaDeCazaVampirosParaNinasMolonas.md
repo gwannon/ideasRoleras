@@ -134,6 +134,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Textura de graffiti de pared en blanco y negro por [vector_corp](https://www.freepik.es/vector-gratis/textura-graffiti-pared-blanco-negro_370750953.htm)
 * Iconos de día y noche por [brgfx](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm)
 * Wide shot of a modern and busy city with dark clouds and orange sky by [wisetock](https://www.freepik.com/free-photo/wide-shot-modern-busy-city-with-dark-clouds-orange-sky_9852971.htm)
+* Blue texture by [tirachard](https://www.freepik.com/free-photo/blue-texture_997261.htm)
 
 \sp
 
