@@ -60,17 +60,28 @@ Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de lo
 
 Si se ponen a _fisgonear entre los adultos_, podrán enterarse de que Maricarmen se debió suicidar. Se tomó un montón de pastillas, se cortó las venas y se metió en la bañera con agua caliente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
 
-Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. XXX
+Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. Si se acercan mucho e intentan hablar con él, responderá con monosílabos y huirá a los baños. 
 
 De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar, será charla política intrascendente. Tanto mirando el libro de visitas verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
 XXX
 
+### El cripi
+
+Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas más grandes, no para de moverse nerviosamente y no deja de mirar a todas partes. Es uno de los siervos más incompetentes de Alfonse (ver más adelante). Este vampiro le ha mandado observar qué pasa en el velatorio y comunicárselo.
+
+* Siempre nervioso
+* **Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
+* **Malo (-2) en:** Interacciones sociales, Pasar desapercibido
+* **Estrés:** Nada (cae al primer golpe)
+
+\sp
+
 \sinc
 
 ## Una gran herencia
 
-> Si Mari Carmen no había suicidado, quién había sido el asesino, por qué, qué eran esas marcas en su cuello y por qué a nadie le preocupaba. 
+> Si Mari Carmen no se había suicidado, quién había sido el asesino, por qué, qué eran esas marcas en su cuello y por qué a nadie le preocupaba. 
 
 \conc
 
@@ -151,7 +162,7 @@ La encontraron durmiendo abrazada a una calabaza medio podrida y desde entonces 
 
 \sp
 
-De la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los Nash-B, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares.
+De la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los NashB, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares.
 
 XXX
 

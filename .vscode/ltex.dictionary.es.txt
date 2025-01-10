@@ -253,3 +253,6 @@ Dungeon
 PNJ
 Lujua
 heriditas
+Alfonse
+Basurilla
+NashB
