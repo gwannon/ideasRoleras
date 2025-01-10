@@ -236,9 +236,133 @@ Aquí tienes un listado de jerga más común.
 
 \sp
 
+\sinc
+
 ## Hoja de personaje
 
 |hojapersonaje.html|
+
+\conc
+
+\sp
+
+
+
+
+
+\sinc
+
+## Personajes pregenerados
+
+### xxx
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### xxx
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### xxx
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### xxx
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
 
 \conc
 
@@ -273,6 +397,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 

@@ -12,7 +12,7 @@ Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio d
 
 \conc
 
-Veamos primero cuál era el gran contra el que debía luchar.
+Veamos primero cuál era el gran plan contra el que debía luchar.
 
 Lord Ceballos quería montar una ciudad de juego, bebida y descontrol en mi barrio. Le gusta pasear por sus dominios y observar la miseria humana que traería el megalocal que iba a montar, New Las Vegas.
 
@@ -147,7 +147,7 @@ Es un buen momento para que se pongan motes, si no los tienen ya, basándose en 
 
 Puedes como DJ convertir los motes o las historias en aspectos que pueden ser invocados por todo el mundo también puede aprovechar para cambiar alguno de sus aspectos por uno nuevo de la pijamada.
 
-Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de basuras durante horas. La encontraron durmiendo abrazada a una calabaza medio podrida y desde entonces la llaman "Basurilla". Si entran en un lugar con un cadáver medio descompuesto, podrían invocar su mote/aspecto para que lo le afecte el horrible olor. 
+Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de basuras durante horas. La encontraron durmiendo abrazada a una calabaza medio podrida y desde entonces la llaman «Basurilla». Si entran en un lugar con un cadáver medio descompuesto, podrían invocar su mote/aspecto para que lo le afecte el horrible olor. 
 
 \sinc
 
@@ -253,6 +253,35 @@ XXX
 \sinc
 
 **Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
+
+\conc
+
+\sp
+
+\sinc
+
+### Alfonse
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
 
 \conc
 
