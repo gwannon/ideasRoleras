@@ -251,3 +251,5 @@ cyberpunk
 dungeon
 Dungeon
 PNJ
+Lujua
+heriditas

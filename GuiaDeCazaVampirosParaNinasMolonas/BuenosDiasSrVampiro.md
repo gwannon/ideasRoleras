@@ -54,7 +54,15 @@ XXX
 
 \conc
 
-Todas las madres, padres o tutores de tus PJ han tenido la misma idea, ir al tanatorio a despedirse de su profesora. Nadie les hace caso, los adultos como siempre están en sus cosas y tus futuras cazadoras están juntas en una esquina. La difunta está de cuerpo presente y ninguna ha visto nunca un cadáver. 
+Todas las madres, padres o tutores de tus PJ han tenido la misma idea, ir al tanatorio a despedirse de su profesora. Nadie les hace caso, los adultos como siempre están en sus cosas y tus futuras cazadoras están juntas en una esquina. La difunta está de cuerpo presente y ninguna ha visto nunca un muerto.
+
+Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos. El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
+
+Si se ponen a _fisgonear entre los adultos_, podrán enterarse de que Maricarmen se debió suicidar. Se tomó un montón de pastillas, se cortó las venas y se metió en la bañera con agua caliente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
+
+Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. XXX
+
+De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar, será charla política intrascendente. Tanto mirando el libro de visitas verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
 XXX
 
@@ -62,7 +70,7 @@ XXX
 
 ## Una gran herencia
 
-> Si no Mari Carmen no había muerto naturalmente, quién había sido, por qué, qué eran esas marcas en su cuello y por qué a nadie le preocupaban. 
+> Si Mari Carmen no había suicidado, quién había sido el asesino, por qué, qué eran esas marcas en su cuello y por qué a nadie le preocupaba. 
 
 \conc
 
