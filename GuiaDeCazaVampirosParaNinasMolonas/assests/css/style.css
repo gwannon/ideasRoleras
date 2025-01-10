@@ -390,8 +390,10 @@ table tbody tr:nth-of-type(even):after {
 
 /* Portada */
 section:first-of-type {
-  background: #0089ff url(../images/espiral1.png) top left repeat-y;
-  background-size: 33px auto;
+  /*background: #0089ff url(../images/espiral1.png) top left repeat-y;*/
+  /*background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) top left no-repeat;
+  background-size: 100% auto;
   /*border-top-right-radius: 24px;
   border-bottom-right-radius: 24px;*/
   height: 100vh;
@@ -543,22 +545,28 @@ section:first-of-type img:nth-of-type(5) {
 
 section:nth-of-type(2) {
   height: 100vh;
-  background: #0089ff url(../images/espiral2.png) top right repeat-y;
-  background-size: 33px auto;
+  /*background: #0089ff url(../images/espiral2.png) top right repeat-y;
+  background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) top left no-repeat;
+  background-size: 100% auto;
   box-sizing: border-box;
 }
 
 section:nth-of-type(10) {
   height: 100vh;
-  background: #0089ff url(../images/espiral1.png) top left repeat-y;
-  background-size: 33px auto;
+  /*background: #0089ff url(../images/espiral1.png) top left repeat-y;
+  background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) top left no-repeat;
+  background-size: 100% auto;
   box-sizing: border-box;
 }
 
 /* Contraportada */
 section:last-of-type {
-  background: #0089ff url(../images/espiral2.png) top right repeat-y;
-  background-size: 33px auto;
+  /*background: #0089ff url(../images/espiral2.png) top right repeat-y;
+  background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) bottom left no-repeat;
+  background-size: 100% auto;
   /*border-top-right-radius: 24px;
   border-bottom-right-radius: 24px;*/
   height: 100vh;
