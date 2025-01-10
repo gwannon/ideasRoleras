@@ -287,6 +287,28 @@ En general, la mascota debes darles un aspecto que puedan usar como poder montar
 
 \sinc
 
+## Día y noche
+
+\conc
+
+Es de día, es de noche, está amaneciendo y está anocheciendo son aspectos muy importantes cuando eres un vampiro o te dedicas a cazar vampiro.
+
+```
+El día y la noche, junto a anochecer y amanecer, son aspectos muy importantes que como DJ debes controlar en tu partida y que tus PJ y PNJ debería invocar bastante.
+```
+
+Es curioso porque lo que para unos supone malro, para los otros supone buenro.
+
+Es fundamental controlar cuando sale y se pone el sol, así que las apps con esa info son cruciales. Los vampiros no tienen ese problema, saben instintivamente cuando se acerca la mañana o cuando se va a ir el sol.
+
+```
+A nivel de juego puedes usar las siguientes tarjetas para determinar si es noche o de dia. Al principio de cada escena debes poner el que más se adecue a la hora. Recuerda que si pones las tarjetas de amaneciendo o anocheciendo se supone que al final de la escena se hará de día o de noche respectivamente.
+```
+
+\sp
+
+\sinc
+
 ## Anatomía de un vampiro
 
 Ya hemos hablado mucho de los chupasangres, sobre cómo piensan, cómo viven, cómo se relacionan, cómo son sus planes, … Ahora vamos con una clase práctica de anatomía vampírica que te terminará de convertir en cazavampiros en que necesitas convertirte.

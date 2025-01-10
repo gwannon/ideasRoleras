@@ -715,3 +715,15 @@ section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type)
   display: none;
 }
 
+section p a:has(img[alt^=Token]) img:not(section:first-of-type img, section:nth-of-type(3) img, section:last-of-type img) {
+  box-shadow: none;
+  rotate: 0deg;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Token]):before,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Token]):after {
+  display: none;
+}
+

@@ -132,6 +132,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * vamp it up By [NanFe](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Painting sketch By [ArthurHenri](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
 * Textura de graffiti de pared en blanco y negro por [vector_corp](https://www.freepik.es/vector-gratis/textura-graffiti-pared-blanco-negro_370750953.htm)
+* Iconos de día y noche por [brgfx](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm)
 
 \sp
 
@@ -207,6 +208,38 @@ Aquí tienes un listado de jerga más común.
 \sp
 
 \sinc
+
+## Tarjetas de día y noche
+
+&nbsp;
+
+\conc
+
+### Día
+
+[![Token Día](./assests/images/icono-dia.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
+&nbsp;
+
+### Anochecer
+
+[![Token Día](./assests/images/icono-anochecer.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
+&nbsp;
+
+### Noche
+
+[![Token Día](./assests/images/icono-noche.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
+&nbsp;
+
+### Amanecer
+
+[![Token Día](./assests/images/icono-amanecer.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
+&nbsp;
+
+\sp
 
 ## Hoja de personaje
 
