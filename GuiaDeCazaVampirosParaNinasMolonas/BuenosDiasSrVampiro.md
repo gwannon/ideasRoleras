@@ -151,9 +151,6 @@ Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de 
 
 \sinc
 
-
-\sinc
-
 ### La boy band
 
 > Lord Ceballos sabía que había un grupo de adolescentes truncando uno a uno sus planes, pero todavía no sabía quiénes eran. Así que ideo una estrategia para ocultar su próximo golpe, un concierto en el barrio de la boy band de moda.

@@ -67,7 +67,6 @@ Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](ht
 
 \sp
 
-
 \sinc
 
 ## Interpretando a personajes menores de edad
@@ -78,9 +77,7 @@ Además de temas como drogas, alcohol y juego + menores, van a aparecer temas m�
 
 Todos estos elementos son una fantasía que forma parte de una historia donde el bien ganará al mal. Nunca deben salir de la mesa de juego y deben tratarse con el debido respeto y seriedad. 
 
-Si como director de juego o jugador vas a hacer chistes sobre estas duras situaciones que se plantean, te vas a regodear en ellas o buscas disfrutar de ellas más allá del simple juego de rol, que sepas que era una mierda de persona y que te deseo lo peor. Si ves estos comportamientos en tu mesa y no te repugnan y se lo echas en cara, sino que les sigues el juego, también eres una mierda de persona.
-
-Si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
+Si como director de juego o jugador vas a hacer chistes sobre estas duras situaciones que se plantean, te vas a regodear en ellas o buscas disfrutar de ellas más allá del simple juego de rol, que sepas que era una mierda de persona y que te deseo lo peor. Si ves estos comportamientos en tu mesa y no te repugnan y se lo echas en cara, sino que les sigues el juego, también eres una mierda de persona. Si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
 
 ### Romanceo y amistad
 
@@ -88,19 +85,15 @@ Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ deber
 
 Creo que en lugar del tema del romance puedes optar por llevar temas de amistad. Un parte importante de la ambientación trabaja el tema de la amistad, de amigas para siempre, BBF y creo que puede ser una idea diferente y alternativa al romanceo y que puede dar mucho juego y diversión.  
 
-\conc
-
-\sp
-
-\sinc
-
 ## Participar en el proyecto
-
-\conc
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
 Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
+
+\conc
+
+\sp
 
 \sinc
 

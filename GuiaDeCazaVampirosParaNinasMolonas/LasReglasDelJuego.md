@@ -48,6 +48,10 @@ Quizás definir en que eres buena en el colegio te sirva para establecer otro de
 
 Ser buena en matemáticas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una máquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
 
+#### Apodos
+
+Los apodos son importantes en el barrio, para bien o para mal te definen y tienen aspectos sociales y de cómo te perciben el resto de vecinos. Es por eso que cuando te pongan un apodo tus amigas debe ser por algo grande y espectacular.
+
 \sp
 
 \sinc
@@ -439,7 +443,6 @@ Si necesitas crear tu propia némesis vampírica, aquí tienes algunos consejos 
 #### Vampiros noobs
 
 Siguiendo las __reglas normales de creación de__ __personajes y aplicándoles las proezas y__ __debilidades vampíricas__, tendríamos un vampiro newbie muy bueno. 
-
 
 Desde luego, no tiene contactos ni aliados y solo un amo, un vampiro más viejo que él que le mangonea. Igual está tratando de atraer a algún siervo. 
 

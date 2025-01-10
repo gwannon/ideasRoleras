@@ -12,7 +12,6 @@ Una vez tengas la receta, vas al frigorífico o a la estantería de condimentos 
 
 Para crear los IJ (Ingredientes Jugadores) debes buscar palabras que haya en la etiqueta frontal en la siguiente tabla y apuntar los beneficios que te diga la tabla. Solo puedes tener 3 beneficios aunque coincidan más palabras. Si no coinciden 3 puedes consultar la etiqueta trasera y la tapa.
 
-
 |Palabra|Beneficio|
 |---|---|
 |Picante, Fuerte, Hot, Sabor|+1 combate|
