@@ -133,6 +133,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Painting sketch By [ArthurHenri](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
 * Textura de graffiti de pared en blanco y negro por [vector_corp](https://www.freepik.es/vector-gratis/textura-graffiti-pared-blanco-negro_370750953.htm)
 * Iconos de día y noche por [brgfx](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm)
+* Wide shot of a modern and busy city with dark clouds and orange sky by [wisetock](https://www.freepik.com/free-photo/wide-shot-modern-busy-city-with-dark-clouds-orange-sky_9852971.htm)
 
 \sp
 

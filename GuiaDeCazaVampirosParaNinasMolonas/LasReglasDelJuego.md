@@ -287,6 +287,8 @@ En general, la mascota debes darles un aspecto que puedan usar como poder montar
 
 \sinc
 
+[![Wide shot of a modern and busy city with dark clouds and orange sky by wisetock](./assests/images/wide-shot-modern-busy-city-with-dark-clouds-orange-sky.jpg "Wide shot of a modern and busy city with dark clouds and orange sky by wisetock")](https://www.freepik.com/free-photo/wide-shot-modern-busy-city-with-dark-clouds-orange-sky_9852971.htm "Wide shot of a modern and busy city with dark clouds and orange sky by wisetock")
+
 ## Día y noche
 
 \conc

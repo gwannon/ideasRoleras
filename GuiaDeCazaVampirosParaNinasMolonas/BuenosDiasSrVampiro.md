@@ -145,9 +145,9 @@ Tras las cosas normales de una pijamada, cena de chuches, pintar uñas, poner pu
 
 Es un buen momento para que se pongan motes, si no los tienen ya, basándose en la historia. Luego deberán votar cuál la historia más vergonzosa y nombrar a la reina del ridículo.
 
-Puedes como DJ convertir los motes o las historias en aspectos que pueden ser invocados por todo el mundo, menos la propia cazadora. Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de basuras durante horas. 
+Puedes como DJ convertir los motes o las historias en aspectos que pueden ser invocados por todo el mundo también puede aprovechar para cambiar alguno de sus aspectos por uno nuevo de la pijamada.
 
-La encontraron durmiendo abrazada a una calabaza medio podrida y desde entonces la llaman "Basurilla". Si entran en un lugar con un cadáver medio descompuesto, podrían invocar su mote/aspecto para que lo le afecte el horrible olor. 
+Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de basuras durante horas. La encontraron durmiendo abrazada a una calabaza medio podrida y desde entonces la llaman "Basurilla". Si entran en un lugar con un cadáver medio descompuesto, podrían invocar su mote/aspecto para que lo le afecte el horrible olor. 
 
 \sinc
 
