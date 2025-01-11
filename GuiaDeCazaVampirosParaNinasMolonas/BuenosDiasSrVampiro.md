@@ -50,32 +50,71 @@ XXX
 
 ## Hasta luego, Maricarmen
 
-> Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se empeñó en ir a la funeraria. Gente que no conoces llorando, otra gente que no conoces hablando y riendo y un tipo que no conocía muy cripi. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
+> Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se empeñó en ir al tanatorio para su despedida. Gente que no conoces llorando, otra gente que no conoces hablando y riendo y un tipo que no conocía de nada muy cripi. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
 
 \conc
 
+_DÍA_
+
 Todas las madres, padres o tutores de tus PJ han tenido la misma idea, ir al tanatorio a despedirse de su profesora. Nadie les hace caso, los adultos como siempre están en sus cosas y tus futuras cazadoras están juntas en una esquina. La difunta está de cuerpo presente y ninguna ha visto nunca un muerto.
 
-Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos. El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
+Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos (0). El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
 
-Si se ponen a _fisgonear entre los adultos_, podrán enterarse de que Maricarmen se debió suicidar. Se tomó un montón de pastillas, se cortó las venas y se metió en la bañera con agua caliente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
+Si se ponen a _fisgonear entre los adultos_ (0), podrán enterarse de que Maricarmen se debió suicidar en su casa y se preocuparon cuando no apareció por el colegio al día siguiente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
 
 Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. Si se acercan mucho e intentan hablar con él, responderá con monosílabos y huirá a los baños. 
 
-De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar, será charla política intrascendente. Tanto mirando el libro de visitas verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
+De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar (0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
-XXX
+Lo curioso es que no parece nada afectado, igual alguna se acuerda de una serie de CSI (0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares y aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
+
+Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únicas niñas de la misma edad, así que seguramente se juntarán para hablar de las cosas raras. Se habrán visto fisgando por el tanatorio y quizás puedan intercambiar info y cotilleos.
+
+\sp
 
 ### El cripi
 
 Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas más grandes, no para de moverse nerviosamente y no deja de mirar a todas partes. Es uno de los siervos más incompetentes de Alfonse (ver más adelante). Este vampiro le ha mandado observar qué pasa en el velatorio y comunicárselo.
+
+Si consiguen _robarle el móvil_ (+4) verán que envía fotos mensajes a Máster Alfonse poniendo notas sobre quiénes aparecen en las fotos.
 
 * Siempre nervioso
 * **Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
 * **Malo (-2) en:** Interacciones sociales, Pasar desapercibido
 * **Estrés:** Nada (cae al primer golpe)
 
+\sinc
+
+## Charla especial
+
+> Al día siguiente en el colegio cogieron a todos los alumnos de Maricarmen y los reunieron para una charla sobre el suicidio dado por Samuel, el psicólogo del colegio. Tras la charla Samuel reúne a todas las PJ, ya que las vio en el funeral para hablar sobre el tema.
+
+\conc
+
+_DÍA_
+
+Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental así que les dirá que pueden preguntarle todo lo que quieran y sabe bastante.
+
+* Se tomó un montón de medicamentos, se cortó las venas por las muñecas y se metió en la bañera.
+* Nadie en claustro había percibido nada, de hecho parecía que estaba conociendo a alguien y parecía ilusionada.
+* Ha sido incinerada como pedía en su nota de suicidio.
+* Eso ya lo sabían ellas, pero lo confirma Samuel, llevaba unas semanas muy débil y anémica. Se dormía en todas partes y estaba muy pálida. Creen que igual tenía un cáncer y había preferido no sufrir.
+
+Después de la reunión con Samuel, ninguna recordará que Maricarmen faltase a clase en el último año y si tienes algo grave pierdes mucho tiempo en médicos.
+
+### El chat
+
+En este punto quizás quieran intercambiar redes, WhatsApp u otros sistemas de mensajería y empezar a hablar de la muerte de Maricarmen. Hay cosas que no cuadran y todo suena sospechoso.
+
+La idea es que tengan una hoja que simule su chat donde escriban los mensajes uno tras otro poniendo cada cazadora su nombre.
+
 \sp
+
+El DJ debería poder mirar esas hojas solo si algún adulto tiene acceso al móvil de la forma que sea. Igual sus padres se lo revisan buscando pruebas de que drogan o quizás un hacker se lo haya pirateado. Si borran el chat, se guarda el papel y se saca uno nuevo, para simular que no hay acceso a las conversaciones anteriores.
+
+Podrías hacerlo también con un chat de WhatsApp o Telegram, pero la hoja de papel evita que cuando cojan el móvil se pongan con otros chats. Además, me gusta el impacto dramático de arrancar la hoja de las manos por sorpresa como si fueras sus padres o un malo y sin miedo a romper el móvil. También permite cotillear la hoja sin que ellos lo sepan que les han hackeado o que han fisgado su móvil.
+
+Como siempre, si todo esto te parece un engorro, puedes hacer que simplemente hablen entre ellas, 
 
 \sinc
 
@@ -84,6 +123,15 @@ Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas 
 > Si Mari Carmen no se había suicidado, quién había sido el asesino, por qué, qué eran esas marcas en su cuello y por qué a nadie le preocupaba. 
 
 \conc
+
+_DÍA_
+
+Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que tiene toda esta historía.
+
+* Si busca al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue.
+* XXX
+
+Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz saltar la noticia de que los abogados de Ernesto Lujua han pedido a los padres de una de tus PJ que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
 
 XXX
 
@@ -212,6 +260,23 @@ XXX
 Puedes hacer saltar esta aventura como forma de meter más presión a tu mesa. Un nuevo elemento va a obligar a tus cazadoras a tener que ser muy cuidadosas o sus actividades serán descubiertas.
 
 XXX
+
+\sinc
+
+### Psicólogo infantil
+
+> XXX
+
+\conc
+
+XXX
+
+#### Samuel, el psicólogo del colegio
+
+* Psicólogo new age
+* **Bueno (+2) en:** XXX, XXX
+* **Malo (-2) en:** XXX, XXX
+* **Estrés:** Nada (cae al primer golpe)
 
 \sp
 

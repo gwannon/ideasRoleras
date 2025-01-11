@@ -43,3 +43,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qvamp it up By NanFe\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qempezarán a jugar al UNO Vergonzoso, la que pierda cada mano debe contar una historia vergonzosa que haya vivido.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}

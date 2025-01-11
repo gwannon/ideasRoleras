@@ -258,3 +258,7 @@ Basurilla
 NashB
 malro
 buenro
+CSI
+IML
+tirachard
+pregenerados
