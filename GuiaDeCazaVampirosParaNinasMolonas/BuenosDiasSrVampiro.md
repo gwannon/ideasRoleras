@@ -100,15 +100,22 @@ Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental as�
 * Ha sido incinerada como pedía en su nota de suicidio.
 * Eso ya lo sabían ellas, pero lo confirma Samuel, llevaba unas semanas muy débil y anémica. Se dormía en todas partes y estaba muy pálida. Creen que igual tenía un cáncer y había preferido no sufrir.
 
+### Samuel, el psicólogo del colegio
+
+* Psicólogo new age
+* **Bueno (+2) en:** Interpretando a las personas, Charlatanería
+* **Malo (-2) en:** Deporte, Conducir
+* **Estrés:** Nada (cae al primer golpe)
+
 Después de la reunión con Samuel, ninguna recordará que Maricarmen faltase a clase en el último año y si tienes algo grave pierdes mucho tiempo en médicos.
+
+\sp
 
 ### El chat
 
 En este punto quizás quieran intercambiar redes, WhatsApp u otros sistemas de mensajería y empezar a hablar de la muerte de Maricarmen. Hay cosas que no cuadran y todo suena sospechoso.
 
 La idea es que tengan una hoja que simule su chat donde escriban los mensajes uno tras otro poniendo cada cazadora su nombre.
-
-\sp
 
 El DJ debería poder mirar esas hojas solo si algún adulto tiene acceso al móvil de la forma que sea. Igual sus padres se lo revisan buscando pruebas de que drogan o quizás un hacker se lo haya pirateado. Si borran el chat, se guarda el papel y se saca uno nuevo, para simular que no hay acceso a las conversaciones anteriores.
 
@@ -257,26 +264,33 @@ XXX
 
 \conc
 
-Puedes hacer saltar esta aventura como forma de meter más presión a tu mesa. Un nuevo elemento va a obligar a tus cazadoras a tener que ser muy cuidadosas o sus actividades serán descubiertas.
+Puedes hacer saltar este evento como forma de meter más presión a tu mesa. Un nuevo elemento va a obligar a tus cazadoras a tener que ser muy cuidadosas o sus actividades serán descubiertas.
 
-XXX
+El barrio se va a llenar de furgonetas de TV y de periodistas de investigación buscando pruebas de la célula terrorista. 
+
+Puedes alargar el tema de los periodistas y los terroristas lo que quieras. Cuando se vayan los periodistas «serios», vendrán los «otros» periodistas, conspiranoicos, youtubers, buleros, buscando views y likes.
+
+En general, todo esto hará que haya más ojos vigilando y bocas haciendo preguntas. Personas normales con cámaras y micrófonos ocultos.
+
+Podrías pensar que habría más presencia policial, pero realmente la mayoría de las cosas que hagan tus cazadoras no pasarán de disturbios callejeros. No hay nada de terrorismo, así que la poli pasa del tema.
+
+\sp
 
 \sinc
 
 ### Psicólogo infantil
 
-> XXX
+> Papá y mamá me miraban con asombro y algo de miedo mientras el director les contaba lo que había en mi mochila y lo que ponía en mi libreta de notas de cazadora. Recuerdo perfectamente como terminó su discurso diciendo «psicólogo infantil».
 
 \conc
 
-XXX
+Si algún adulto encuentra pruebas de tus actividades extraescolares, muy posiblemente hablará con tus padres y terminarás teniendo que ir al psicólogo infantil.
 
-#### Samuel, el psicólogo del colegio
+El psicólogo infantil va a ser un importante obstáculo en tu carrera de cazavampiros. Por lo menos dos sesiones semanales de terapia que no puedes saltarte más diferentes tareas que hacer entre sesiones como escribir sobre tus sentimientos o hacerte un video-diario grabando mensajes diarios.
 
-* Psicólogo new age
-* **Bueno (+2) en:** XXX, XXX
-* **Malo (-2) en:** XXX, XXX
-* **Estrés:** Nada (cae al primer golpe)
+Todo esto podría cortar tus vigilancias o truncar tus persecuciones de sospechosos. También tienes que esconder tus trastos antes de las sesiones y recuperarlos después.
+
+Puedes usar las estadísticas de Samuel, el psicólogo del colegio, si en algún momento quieren interactuar con él.
 
 \sp
 
@@ -427,6 +441,39 @@ La chimenea se puede mover, pulsando un botón escondido y da acceso a una espec
 \sp
 
 La seguridad no tiene armas de fuego, solo porras y tasers. Ceballos quiere saber que está protegido, pero no llamar demasiado la atención llevando más protección que el presidente del gobierno.
+
+\sinc
+
+### Los humedales
+
+* **Aspectos visibles:** XXX, XXX
+* **Aspectos ocultos:** XXX, XXX
+
+\conc
+
+XXX
+
+\sinc
+
+### La fundición
+
+* **Aspectos visibles:** XXX, XXX
+* **Aspectos ocultos:** XXX, XXX
+
+\conc
+
+XXX
+
+\sinc
+
+### Campo municipal de futbol
+
+* **Aspectos visibles:** XXX, XXX
+* **Aspectos ocultos:** XXX, XXX
+
+\conc
+
+XXX
 
 \sc
 
