@@ -265,4 +265,4 @@ pregenerados
 views
 javi_indy
 in
-in
+fxquadro

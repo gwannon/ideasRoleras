@@ -129,6 +129,10 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Wide shot of a modern and busy city with dark clouds and orange sky by [wisetock](https://www.freepik.com/free-photo/wide-shot-modern-busy-city-with-dark-clouds-orange-sky_9852971.htm)
 * Blue texture by [tirachard](https://www.freepik.com/free-photo/blue-texture_997261.htm)
 * Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by [javi_indy](https://www.freepik.com/free-photo/wetlands-with-marsh-vegetation-mammoth-route-padul-granada-andalusia-spain_2788654.htm)
+* Stove with fire at blacksmith workshop. There are different tools around by [fxquadro](https://www.freepik.com/free-photo/stove-with-fire-blacksmith-workshop-there-are-different-tools-around_26614049.htm)
+* Vampire Street Art Sticker by [Worley Gig](https://worleygig.com/2013/10/01/vampire-street-art-sticker/)
+* Vampire lips by [Eric B.](https://www.flickr.com/photos/silverfuture/7533629452/) Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License
+* Vampire graffiti in a very remote setting by [Michael Gabelmann](https://www.flickr.com/photos/mgabelmann/27199658215) Creative Commons Attribution-NonCommercial 2.0 Generic License
 
 \sp
 
@@ -390,6 +394,10 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 [**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
 
 \conc
+
+\sp
+
+&nbsp;
 
 ***
 

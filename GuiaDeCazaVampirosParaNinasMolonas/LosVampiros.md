@@ -347,6 +347,8 @@ Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barri
 
 \sp
 
+[![Vampire Street Art Sticker by Worley Gig](./assests/images/image15.jpg "Vampire Street Art Sticker by Worley Gig")](https://worleygig.com/2013/10/01/vampire-street-art-sticker/ "CVampire Street Art Sticker by Worley Gig")
+
 ### Cómo frustrar sus planes?
 
 La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
@@ -365,11 +367,19 @@ Como ya hemos aclarado, detrás de todo gran plan vampírico siempre hay un vamp
 
 De hecho, normalmente son Lieges Vampires, cuando eres tan mayor lo de la sexualidad fluida es bastante factible. Si queréis putomosquear a un vampiro-machito-alfa el Liege funciona. El resto se giran y le dan un morreo a la primera víctima/sirviente que pillan.
 
+\sp
+
+\sinc
+
+[![Vampire lips by Eric B.](./assests/images/7533629452_e7778d721c_c.jpg "Vampire lips by Eric B.")](https://www.flickr.com/photos/silverfuture/7533629452/ "Vampire lips by Eric B.")
+
+&nbsp;
+
+\conc
+
 Los grandes planes tienen una cosa muy importante que nunca debes olvidar, __son como sus creadores__. Si el Lord Vampiro es maquiavélico, los planes serán maquiavélicos con muchas intrigas y traiciones. Si el Lord es sanguinario, muchos obstáculos se arreglarán con violencia, tortura y asesinatos. Si el Lord es un depravado, habrá todo tipo de drogas, parafilias sexuales, juego, … y participarán los personajes más cripis que puedas imaginar.
 
 Una vez que sepas quién es el creador del gran plan, te será mucho más fácil deducir los diferentes elementos de cada subplan, porque al final van a tener el sello de marca del gran arquitecto que ha estructurado todo. 
-
-\sp
 
 Otro punto importante de los grandes planes es que una de sus funciones principales es alimentar el inmenso ego de su creador. Si el plan avanza bien, el ego del Lord crece, pero, si empieza a fallar, su ego se desinfla y dejan de actuar racionalmente y su ego dañado toma el control
 
@@ -469,6 +479,14 @@ Si has seguido las normas estás bien protegida y preparada y tienes un grupo de
 
 \sp
 
+\sinc
+
+[![Vampire graffiti in a very remote setting by Michael Gabelmann](./assests/images/27199658215_b53a48c191_c.jpg "Vampire graffiti in a very remote setting by Michael Gabelmann")](https://www.flickr.com/photos/mgabelmann/27199658215 "Vampire graffiti in a very remote setting by Michael Gabelmann")
+
+&nbsp;
+
+\conc
+
 Casi siempre tratan de trabajar a través de sus chupones o de los vampiros que están por debajo de ellos. No les gusta meter gente de fuera. 
 
 Podéis pensar que podrían contratar a un grupo de supermercenarios para acabar con tu panda de cazadoras, cuando empiezas a desbaratar su plan, pero piensa que eres una niña de 12 años. Sería raro contratar a un mercenario checheno para que ejecute a un grupo de niñas de 12 años. Estos encargos provocan muchas preguntas. Además, que aparezcan 4 cadáveres de 4 niñas de un barrio, puede hacer que el barrio entero se levante y luche por él y eso es lo último que quiere el Lord. 
@@ -484,6 +502,8 @@ Los chupones son humanos que sirven a los vampiros, bien como herramientas de su
 El vampiro suele darle pequeñas dosis de su sangre para engancharles al subidón y que la resaca de después cada vez sea mejor. Si deja de recibir su dosis, volverá tras un mono brutal a la normalidad. 
 
 Por eso cuando te enfrentes a un chupón deberías usar fuerza no letal. Al final muchas veces son víctimas del sistema y la gran mayoría pueden ser rehabilitadas. Solo unos pocos escogieron su depravado y cripi destino y buscarán otro maestro si no tienen uno.
+
+\sp
 
 Muchos sirvientes empezaron siendo víctimas. La mayoría de las veces, mientras las vigilaba y/o seducía, el vampiro vio cosas que le eran útil y paso de alimentarse de ella a convertirla en su sirviente.
 
@@ -503,15 +523,11 @@ Otros, sin embargo, son adictos a su vampiro o incluso son parte fundamental de 
 
 Su vida está dedicada a servir a su amo vampiro al que casi siempre están enganchados. Limpian su guarida, cumplen sus caprichos y sobre todo se encargan de proporcionarles alimentación. 
 
-\sp
-
 Eso supone buscar a las víctimas preferidas de su amo y engañarlas para llevarlas ante su amo para que se alimente de ellas y luego limpiar todo y eliminar pruebas.
 
 Si la sanguijuela es más de cazar por sí solo, le ayuda en la caza, aislando a la víctima de sus amistades, emborrachándola, … Luego se encargará de llevarla a casa o en casos extremos deshacerse del cuerpo sin dejar pruebas.
 
 > La verdad que algunas veces los vampiros se vuelven tan dependientes de sus sirvientes que se convierten en unos inútiles que se mueren solos si les alejas de su servidumbre.
-
-\sc
 
 #### Protectores
 

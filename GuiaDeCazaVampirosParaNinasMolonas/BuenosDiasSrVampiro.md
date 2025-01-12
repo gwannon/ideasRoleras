@@ -135,7 +135,7 @@ _DÍA_
 
 Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que tiene toda esta historía.
 
-* Si busca al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue.
+* Si busca al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
 * XXX
 
 Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz saltar la noticia de que los abogados de Ernesto Lujua han pedido a los padres de una de tus PJ que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
@@ -472,6 +472,14 @@ Se cuentan historias raras del humedal, desde luces extrañas hasta ovnis. Pero 
 
 \sp
 
+\sinc
+
+[![Stove with fire at blacksmith workshop. There are different tools around by fxquadro](./assests/images/stove-with-fire-blacksmith-workshop-there-are-different-tools-around.jpg "Stove with fire at blacksmith workshop. There are different tools around. by fxquadro")](https://www.freepik.com/free-photo/stove-with-fire-blacksmith-workshop-there-are-different-tools-around_26614049.htm "Stove with fire at blacksmith workshop. There are different tools around. by fxquadro")
+
+&nbsp;
+
+\conc
+
 La fundición y planta de reciclaje de San Andrés fue durante muchos años uno de los motores de la economía del barrio, pero hace años que entró en decadencia y está vieja y destartalada fundición de chatarra es más un peligro ecológico que una fuente de riqueza.
 
 Se encuentra al borde de los humedales y no es la primera vez que tiene «fugas accidentales» de productos peligrosos. Su cierre está siendo luchado por las asociaciones de vecinos y ecologistas, pero también da trabajo a unas cuantas familias. Esto lo convierte en un tema de conversación escabroso en las reuniones familiares del barrio.
@@ -485,6 +493,8 @@ Los subproductos contaminantes como plomo o mercurio se guardan en balsas estanc
 Lo que nadie sabe es que el grupo Ceballos la compró a través de una serie de empresas fantasmas, algunas fuera del país.
 
 Por las noches para su producción y como está en los humedales, el lugar se convierte en un sitio aislado y lejos de miradas indiscretas, donde los vampiros pueden hacer sus cosas de vampiros sin ser detectados.
+
+\sp
 
 \sinc
 
