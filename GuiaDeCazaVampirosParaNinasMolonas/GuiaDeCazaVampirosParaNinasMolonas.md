@@ -128,6 +128,7 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Iconos de día y noche por [brgfx](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm)
 * Wide shot of a modern and busy city with dark clouds and orange sky by [wisetock](https://www.freepik.com/free-photo/wide-shot-modern-busy-city-with-dark-clouds-orange-sky_9852971.htm)
 * Blue texture by [tirachard](https://www.freepik.com/free-photo/blue-texture_997261.htm)
+* Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by [javi_indy](https://www.freepik.com/free-photo/wetlands-with-marsh-vegetation-mammoth-route-padul-granada-andalusia-spain_2788654.htm)
 
 \sp
 

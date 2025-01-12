@@ -444,37 +444,63 @@ La seguridad no tiene armas de fuego, solo porras y tasers. Ceballos quiere sabe
 
 \sinc
 
+&nbsp;
+
+[![Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy](./assests/images/wetlands-with-marsh-vegetation-mammoth-route-padul-granada-andalusia-spain.jpg "Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy")](https://www.freepik.com/free-photo/wetlands-with-marsh-vegetation-mammoth-route-padul-granada-andalusia-spain_2788654.htm "Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy")
+
 ### Los humedales
 
-* **Aspectos visibles:** XXX, XXX
-* **Aspectos ocultos:** XXX, XXX
+* **Aspectos visibles:** Reserva protegida, Zona pantanosa
+* **Aspectos ocultos:** Intereses inmobiliarios, Fácil de deshacerse de cuerpos y pruebas
 
 \conc
 
-XXX
+En un extremo del barrio hay una zona pantanosa, unos humedales según la asociación ecologista local. Es una zona de charcas y cañaverales donde se supone que descansan diversas aves migratorias. Además, debe haber un par de especies de ranas protegidas.
+
+Los humedales corren serios problemas debido a, primero, la fundición de San Andrés que supone un riesgo muy importante para el ecosistema de los humedales y, segundo, porque hay muchos intereses inmobiliarios, no solo del grupo Ceballos en secar esos terrenos y edificar urbanizaciones privadas de lujo.
+
+Se cuentan historias raras del humedal, desde luces extrañas hasta ovnis. Pero lo único cierto es que es un lugar estupendo para deshacerte de cadáveres y otras pruebas incriminatorias. 
 
 \sinc
 
 ### La fundición
 
-* **Aspectos visibles:** XXX, XXX
-* **Aspectos ocultos:** XXX, XXX
+* **Aspectos visibles:** Vieja y destartalada, Peligro ecológico
+* **Aspectos ocultos:** Controlada en secreto por el Grupo Ceballos, Aislada y lejos de miradas indiscretas
 
 \conc
 
-XXX
+\sp
+
+La fundición y planta de reciclaje de San Andrés fue durante muchos años uno de los motores de la economía del barrio, pero hace años que entró en decadencia y está vieja y destartalada fundición de chatarra es más un peligro ecológico que una fuente de riqueza.
+
+Se encuentra al borde de los humedales y no es la primera vez que tiene «fugas accidentales» de productos peligrosos. Su cierre está siendo luchado por las asociaciones de vecinos y ecologistas, pero también da trabajo a unas cuantas familias. Esto lo convierte en un tema de conversación escabroso en las reuniones familiares del barrio.
+
+La fundición cuenta con un edificio de oficinas, la fundición propiamente dicha, varios almacenes donde se guarda el material recuperado y un extensísimo patio donde se almacena a la intemperie la basura metálica a reciclar.
+
+Cada día llegan camiones que traen basura metálica y se llevan metal preparado para su uso industrial.
+
+Los subproductos contaminantes como plomo o mercurio se guardan en balsas estancas a la espera de ser tratadas en otras fábricas.
+
+Lo que nadie sabe es que el grupo Ceballos la compró a través de una serie de empresas fantasmas, algunas fuera del país.
+
+Por las noches para su producción y como está en los humedales, el lugar se convierte en un sitio aislado y lejos de miradas indiscretas, donde los vampiros pueden hacer sus cosas de vampiros sin ser detectados.
 
 \sinc
 
-### Campo municipal de futbol
+### Campo municipal de fútbol 
 
-* **Aspectos visibles:** XXX, XXX
-* **Aspectos ocultos:** XXX, XXX
+* **Aspectos visibles:** Grandes Eventos, No cumple las normativas de seguridad actuales
+* **Aspectos ocultos:** Trampa sin escapatoria, Pelotazo inmobiliario
 
 \conc
 
-XXX
+Este campo de fútbol municipal tiene unos 60 años, construido en los 80 cuando el barrio tuvo un gran crecimiento.
 
-\sc
+Tiene un aforo de 8.000 personas y es donde juega el equipo local de segunda B.
+
+Uno de sus problemas principales es que no cumple ningún tipo de legislación de espacios públicos, ni accesibilidad, ni seguridad, ni protección civil, … nada de nada. Llevan años con planes de derribarlo y construir un polideportivo que recoja otras actividades deportivas. Sin embargo, todas las administraciones locales por una razón u otra lo han retrasado.
+
+El campo está metido casi en los humedales con lo que solo se puede entrar desde uno de los laterales largos. Si se pone vigilancia en ese lado es muy difícil salir o entrar sin ser visto, ya que no hay accesos de ningún tipo por otros lados.
 
 ***
