@@ -89,6 +89,7 @@ blockquote {
   background-color: var(--color-secondary);
   border-radius: 10px;
   padding: calc(var(--padding) / 2);
+  margin-bottom: 0px;
 }
 
 .columns blockquote {

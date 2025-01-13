@@ -222,7 +222,7 @@ Las noticias del concierto serán una semana antes y podrían coincidir con deci
 
 Se hará _en la plaza grande_ del barrio porque la productora de los NashB, no creen que el estadio de fútbol del barrio sea seguro (otro clavo en el ataúd buscando su derribo).
 
-El concierto _será de noche_ y el barrio estará lleno hasta la bandera, coches aparcados en cualquier sitio, buses y metro colapsados, barras sirviendo alcohol en las calles, ... 
+El concierto _será de noche_ y el barrio estará lleno hasta la bandera, coches aparcados en cualquier sitio, buses y metro colapsados, barras sirviendo alcohol en las calles, … 
 
 Es una noche perfecta para un desastre y quizás te interese para tu partida una noche de caos en que un par de vampiros jóvenes random de otras zonas de la ciudad salgan a divertirse. La poli estará sobrepasada, habrá mucho alcohol, las ambulancias no pueden pasar por los coches mal aparcados, un caos total.
 
@@ -242,15 +242,28 @@ Antes de jugar esta escena deberías tratar de jugar con su paranoia de que tal 
 
 Solo deberían intentar esta jugada si están muy desesperadas y deberían pensar durante toda la escena que es el mayor error de su vida hasta que aparezca Catalina a salvarlas.
 
-XXX
+Según entren algún poli se les acercará y les preguntará qué quieren, qué les pasa, … No les harán mucho caso y las tendrán un poco apartadas mientras localizan a sus padres o tutores.
 
 \sp
 
+Enseguida un par de polis comprados por Ceballos entrará en acción en cuanto oigan alguna cosa de vampiros, de los Lujua o del Grupo Ceballos. Se harán cargos de tus cazadoras y se las llevarán a una sala de interrogatorio.
+
 #### La sala de interrogatorio
 
-Lo primero que harán los dos polis será atar las manos a la espalda con unas bridas. No es que crean que pueden con ellos, es para intimidar.
+Lo primero que harán los dos polis será atar las manos a la espalda con unas bridas. No es que crean que pueden con ellos, es para intimidarlas creando el aspecto «retenidas».
 
-XXX
+Las primeras preguntas parecerán normales, sobre sus nombres, donde viven y quiénes son sus padres, pero rápidamente se centrarán en el plan vampírico y el Grupo Ceballos. Serán preguntas realizadas con un tono más intimidatorio sobre que saben de los últimos acontecimientos, dónde estaban cuando ocurrió tal o cual evento importante. 
+
+Pueden mentir, pero los polis son experto en eso y juegan en casa. También pueden callarse, pero también sabe hacerte hablar.
+
+Amenazarán con meterlas en un reformatorio, en alejarlas de sus padres y amigos y si siguen sin contestar la verdad vendrán gritos, insultos y, por último, bofetadas.
+
+Si consiguen aguantar hasta las bofetadas sin rendirse, llegará la caballería a salvarlas. Aun así estarán marcadas y habrán entrado en el radar del plan vampírico.
+
+* Poli corrupto
+* **Bueno (+2) en:** Interrogar, Ocultar sus actividades
+* **Malo (-2) en:** Leyes, Moverse en las calles
+* **Estrés:** ◯◯
 
 #### Entra Catalina
 
@@ -262,11 +275,24 @@ Eso hizo saltar todas las alarmas, menores interrogados sin tutores presentes o 
 
 Acto seguido se acercó a la zona de seguridad y no quito ojo a las cámaras de la zona de interrogatorio mientras se roneaba al encargado. Al primer tortazo de uno de los detectives, salió hecha un basilisco a la puerta de la sala de interrogatorio y empezó a dar golpes y patadas.
 
-XXX
+Catalina sacará todo su arsenal para sacar a las niñas: 
 
-> Tu panda ha perdido su anonimato, pero tiene un aliado muy interesante. No solo será un importante apoyo mental, sino que puede ser muy útil en situaciones legales y burocráticas y como sortearlas.
+* Amenazará con denunciarles por interrogar a menores sin sus tutores o alguien de protección de menores, 
+* les dirá que si las han tocado un solo pelo les denunciará por pederastas, 
+* que va directa con ellas al hospital a hacerles pruebas de violación y 
+* todo a gritos para que se oiga en toda la comisaría.
 
 \sp
+
+Se empezará a juntar gente, civiles y policías. Ante esto los polis corruptos dejarán irse a las niñas y Catalina y tratarán de escaquearse.
+
+#### El centro social
+
+Catalina se las llevará al centro social donde tiene su despacho y allí hablará con ellas. Si intentan irse, las dejará irse sin problemas, ya las encontrará del barrio cuando estén más tranquilas.
+
+Está dispuesta a escuchar, aunque sin pruebas muy muy sólidas todo lo que le digan de los vampiros, serán solo fantasías. Pedirá pizza para comer algo y les dará su tarjeta. Cuando vuelvan a tener problemas con la poli, deben llamarla de inmediato y no decir nada a ningún poli. Recuerden _ACAB All Cops Are Bad_
+
+> Tu panda ha perdido su anonimato, pero tiene un aliado muy interesante con Catalina. No solo será un importante apoyo mental, sino que puede ser muy útil en situaciones legales y burocráticas y como sortearlas.
 
 \sinc
 
@@ -531,7 +557,9 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 ## Personajes pregenerados
 
-### Ray Stantz / Leonardo
+### Nuria Ramos
+
+Ray Stantz / Leonardo
 
 XXX
 
@@ -548,17 +576,13 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 
 \sinc
 
-**Sugerencia de interpretación:** XXX
+### Amirah Tajdin
 
-\conc
-
-\sinc
-
-### Dr. Peter Venkman / Rafael
+Dr. Peter Venkman / Rafael
 
 XXX
 
@@ -575,19 +599,15 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
-
-\sinc
-
-**Sugerencia de interpretación:** XXX
-
-\conc
+* **Capacidad de recuperación:** 3
 
 \sp
 
 \sinc
 
-### Winston Zeddemore / Michelangelo
+### Ana Isabel Duran
+
+Winston Zeddemore / Michelangelo
 
 XXX
 
@@ -604,27 +624,23 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
-
-\sinc
-
-**Sugerencia de interpretación:** XXX
-
-\conc
+* **Capacidad de recuperación:** 3
 
 \sinc
 
 ### Sabina Castillo
 
-Egon Spengler / Donatello
+Sabina es introvertida y podría pensarse que con gran dificultad de socialización. Pero en realidad cuando quiere es muy social, solo que normalmente no quiere. Prefiere sus cachorros tecnológicos y sus programas.
 
-XXX
+Su pensamiento es el más científico de toda la panda y es la que mejor entiende la tecnología. Ese pensamiento científico hace que sea muy poco propensa a creer en lo sobrenatural y el ocultismo.
+
+Su principal problema en la vida son sus padres que son tremendamente protectores y no le dan ninguna cancha. No la dejan solo nunca, revisan sus redes, investigan a sus amistades y tienen el horario más restrictivo de su cuadrilla.
 
 \conc
 
 * **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
+  * **Concepto principal:** Cerebrito
+  * **Complicación:** Padres muy protectores
   * XXX
   * XXX
   * XXX
@@ -633,12 +649,6 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
-
-\sinc
-
-**Sugerencia de interpretación:** XXX
-
-\conc
+* **Capacidad de recuperación:** 3
 
 ***
