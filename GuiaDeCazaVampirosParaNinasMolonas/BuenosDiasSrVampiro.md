@@ -525,4 +525,118 @@ Uno de sus problemas principales es que no cumple ningún tipo de legislación d
 
 El campo está metido casi en los humedales con lo que solo se puede entrar desde uno de los laterales largos. Si se pone vigilancia en ese lado es muy difícil salir o entrar sin ser visto, ya que no hay accesos de ningún tipo por otros lados.
 
+\sp
+
+\sinc
+
+## Personajes pregenerados
+
+### XXX 1
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sinc
+
+### XXX 2
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### XXX 3
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sinc
+
+### XXX 4
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
 ***
