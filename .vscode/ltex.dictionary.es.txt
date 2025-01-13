@@ -268,3 +268,6 @@ in
 fxquadro
 Worley
 Gabelmann
+Amirah
+Tajdin
+vidilla

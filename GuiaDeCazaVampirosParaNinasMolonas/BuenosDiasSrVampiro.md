@@ -559,15 +559,23 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 ### Nuria Ramos
 
-Ray Stantz / Leonardo
-
-XXX
-
 \conc
 
+[![I got Slurpee By oasiswinds](./assests/images/i_got_slurpee_by_oasiswinds_dei7cyq-414w-2x.jpg "I got Slurpee By oasiswinds")](https://www.deviantart.com/oasiswinds/art/I-got-Slurpee-877102946 "I got Slurpee By oasiswinds")
+
+&nbsp;
+
+Nuria es la más activista del grupo, se apunta a todas las causas del barrio y las apoya con fervor. Si Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.
+
+Nuria es la más sensible de la panda, es su corazón y su brújula moral. Distingue muy bien lo que es legal de lo que es bueno y solo le importa lo que es éticamente justo.
+
+Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extraños y dudosos caminos. Es una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.
+
+\sc
+
 * **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
+  * **Concepto principal:** Activista junior
+  * **Complicación:** Demasiado comprometida
   * XXX
   * XXX
   * XXX
@@ -578,15 +586,56 @@ XXX
   * XXX
 * **Capacidad de recuperación:** 3
 
+\sp
+
 \sinc
 
 ### Amirah Tajdin
 
-Dr. Peter Venkman / Rafael
+\conc
+
+[![indi girl By tsynali](./assests/images/indi_girl_by_tsynali_d8s3rbs-414w-2x.png "indi girl By tsynali")](https://www.deviantart.com/tsynali/art/indi-girl-530934040 "indi girl By tsynali")
+
+&nbsp;
+
+La calle corre por tus venas, conoces a todo el mundo, sabes todos los rumores y no te pueden engañar con ningún truco. Estás más tiempo en la calle que en tu casa y nadie te controla. Tus padres murieron hace años y tu abuela está muy mayor para controlarte.
+
+Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento inoportuno, la canción en momentos duros. Si nota que alguna amiga está de bajón, su forma le lleva a sacarte una sonrisa.
+
+\sc
+
+* **Aspectos**
+  * **Concepto principal:** Tengo calle
+  * **Complicación:** Huérfana que vive con su abuela
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** 3
+
+\sp
+
+\sinc
+
+### Ana Isabel Duran
+
+\conc
+
+[![Marinette Dupain-Cheng By oasiswinds](./assests/images/marinette_dupain_cheng_by_oasiswinds_decpdwo-pre.jpg "Marinette Dupain-Cheng By oasiswinds")](https://www.deviantart.com/oasiswinds/art/Marinette-Dupain-Cheng-867866280 "Marinette Dupain-Cheng By oasiswinds")
+
+&nbsp;
+
+Winston Zeddemore / Michelangelo
 
 XXX
 
-\conc
+Tienes los pies muy en la tierra XXX
+
+\sc
 
 * **Aspectos**
   * **Concepto principal:** XXX
@@ -605,30 +654,13 @@ XXX
 
 \sinc
 
-### Ana Isabel Duran
-
-Winston Zeddemore / Michelangelo
-
-XXX
+### Sabina Castillo
 
 \conc
 
-* **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
-  * XXX
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
-* **Proezas**
-  * XXX
-  * XXX
-  * XXX
-* **Capacidad de recuperación:** 3
+[![cute and nerdy By ninelunas](./assests/images/cute_and_nerdy_by_ninelunas_dayd0t3-375w-2x.jpg "cute and nerdy By ninelunas")](https://www.deviantart.com/ninelunas/art/cute-and-nerdy-662376279 "cute and nerdy By ninelunas")
 
-\sinc
-
-### Sabina Castillo
+&nbsp;
 
 Sabina es introvertida y podría pensarse que con gran dificultad de socialización. Pero en realidad cuando quiere es muy social, solo que normalmente no quiere. Prefiere sus cachorros tecnológicos y sus programas.
 
@@ -636,7 +668,7 @@ Su pensamiento es el más científico de toda la panda y es la que mejor entiend
 
 Su principal problema en la vida son sus padres que son tremendamente protectores y no le dan ninguna cancha. No la dejan solo nunca, revisan sus redes, investigan a sus amistades y tienen el horario más restrictivo de su cuadrilla.
 
-\conc
+\sc
 
 * **Aspectos**
   * **Concepto principal:** Cerebrito

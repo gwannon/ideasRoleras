@@ -45,3 +45,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qempezarán a jugar al UNO Vergonzoso, la que pierda cada mano debe contar una historia vergonzosa que haya vivido.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEs una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.\\E$"}
