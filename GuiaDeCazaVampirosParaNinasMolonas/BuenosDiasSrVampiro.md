@@ -214,9 +214,19 @@ Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de 
 
 \sp
 
-De la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los NashB, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares.
+De la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los NashB, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares. El concierto será en la plaza del barrio en una semana.
 
-XXX
+Este evento se puede usar para _ocultar cualquier tipo de actividad_ que el Grupo Ceballos quiera hacer desapercibidamente como la fuga de mercurio de la fundición o que no quiere que haya oposición como el derribo del campo de fútbol.
+
+Las noticias del concierto serán una semana antes y podrían coincidir con decisiones burocráticas importantes como el permiso de derribo del campo de fútbol o los permisos de construcción en los humedales.
+
+Se hará _en la plaza grande_ del barrio porque la productora de los NashB, no creen que el estadio de fútbol del barrio sea seguro (otro clavo en el ataúd buscando su derribo).
+
+El concierto _será de noche_ y el barrio estará lleno hasta la bandera, coches aparcados en cualquier sitio, buses y metro colapsados, barras sirviendo alcohol en las calles, ... 
+
+Es una noche perfecta para un desastre y quizás te interese para tu partida una noche de caos en que un par de vampiros jóvenes random de otras zonas de la ciudad salgan a divertirse. La poli estará sobrepasada, habrá mucho alcohol, las ambulancias no pueden pasar por los coches mal aparcados, un caos total.
+
+También puedes ser una noche en que tus cazadoras planeen un gran golpe a los vampiros y el concierto les dé la cobertura necesaria. Un incendio más no se va a notar.
 
 \sinc
 
@@ -234,6 +244,8 @@ Solo deberían intentar esta jugada si están muy desesperadas y deberían pensa
 
 XXX
 
+\sp
+
 #### La sala de interrogatorio
 
 Lo primero que harán los dos polis será atar las manos a la espalda con unas bridas. No es que crean que pueden con ellos, es para intimidar.
@@ -250,11 +262,11 @@ Eso hizo saltar todas las alarmas, menores interrogados sin tutores presentes o 
 
 Acto seguido se acercó a la zona de seguridad y no quito ojo a las cámaras de la zona de interrogatorio mientras se roneaba al encargado. Al primer tortazo de uno de los detectives, salió hecha un basilisco a la puerta de la sala de interrogatorio y empezó a dar golpes y patadas.
 
-\sp
-
 XXX
 
 > Tu panda ha perdido su anonimato, pero tiene un aliado muy interesante. No solo será un importante apoyo mental, sino que puede ser muy útil en situaciones legales y burocráticas y como sortearlas.
+
+\sp
 
 \sinc
 
@@ -457,7 +469,7 @@ La seguridad no tiene armas de fuego, solo porras y tasers. Ceballos quiere sabe
 
 En un extremo del barrio hay una zona pantanosa, unos humedales según la asociación ecologista local. Es una zona de charcas y cañaverales donde se supone que descansan diversas aves migratorias. Además, debe haber un par de especies de ranas protegidas.
 
-Los humedales corren serios problemas debido a, primero, la fundición de San Andrés que supone un riesgo muy importante para el ecosistema de los humedales y, segundo, porque hay muchos intereses inmobiliarios, no solo del grupo Ceballos en secar esos terrenos y edificar urbanizaciones privadas de lujo.
+Los humedales corren serios problemas debido a, primero, la fundición de San Andrés que supone un riesgo muy importante para el ecosistema de los humedales y, segundo, porque hay muchos intereses inmobiliarios, no solo del grupo Ceballos, en secar esos terrenos y edificar urbanizaciones privadas de lujo.
 
 Se cuentan historias raras del humedal, desde luces extrañas hasta ovnis. Pero lo único cierto es que es un lugar estupendo para deshacerte de cadáveres y otras pruebas incriminatorias. 
 
