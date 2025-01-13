@@ -390,7 +390,7 @@ XXX
 
 * **Aspectos**
   * **Concepto principal:** Abogada antisistema
-  * **Complicación:** XXX
+  * **Complicación:** Fichada por la policía y detenida bastantes veces
   * XXX
   * XXX
   * XXX
@@ -531,7 +531,7 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 ## Personajes pregenerados
 
-### XXX 1
+### Ray Stantz / Leonardo
 
 XXX
 
@@ -558,7 +558,7 @@ XXX
 
 \sinc
 
-### XXX 2
+### Dr. Peter Venkman / Rafael
 
 XXX
 
@@ -587,7 +587,7 @@ XXX
 
 \sinc
 
-### XXX 3
+### Winston Zeddemore / Michelangelo
 
 XXX
 
@@ -614,7 +614,9 @@ XXX
 
 \sinc
 
-### XXX 4
+### Sabina Castillo
+
+Egon Spengler / Donatello
 
 XXX
 

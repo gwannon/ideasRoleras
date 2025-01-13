@@ -7,6 +7,18 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 * Fantasy portal to another world or game level in dark cave with stone walls and glowing gem crystals Cartoon vector magic door or entrance to another dimension in rocky underground cave or dungeon by [upklyak](https://www.freepik.com/free-vector/fantasy-portal-another-world-game-level-dark-cave-with-stone-walls-glowing-gem-crystals-cartoon-vector-magic-door-entrance-another-dimension-rocky-underground-cave-dungeon_73605755.htm)
 * Notebook spiral wire binds by [upklyak](https://www.freepik.com/free-vector/notebook-spiral-wire-binds_12632847.htm)
 
+*** 
+
+# Guía de Cazavampiros para niñas molonas
+
+El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
+
+[Versión PDF](https://bosque.gwannon.com/guiacazadora/)
+
+[Versión web](https://bosque.gwannon.com/guiacazadora/GuiaDeCazaVampirosParaNinasMolonas.html)
+
+[Itch.io](https://gwannon.itch.io/guia-de-cazavampiros-para-ninas-molonas)
+
 ***
 
 # RPG The Musical
