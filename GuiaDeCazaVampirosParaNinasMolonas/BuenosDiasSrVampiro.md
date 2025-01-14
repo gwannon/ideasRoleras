@@ -230,6 +230,8 @@ También puedes ser una noche en que tus cazadoras planeen un gran golpe a los v
 
 \sinc
 
+[![graffiti, Santiago by duncan cumming](./assests/images/49539509723_2d645947af_c.jpg "graffiti, Santiago by duncan cumming")](https://www.flickr.com/photos/duncan/49539509723 "graffiti, Santiago by duncan cumming")
+
 ### ACAB
 
 > La situación se nos iba de las manos. Era demasiado para un grupito de niñas valientes, pero aun así niñas y sin recursos. Así que decidimos recurrir a la policía … grave error.
@@ -290,7 +292,7 @@ Se empezará a juntar gente, civiles y policías. Ante esto los polis corruptos 
 
 Catalina se las llevará al centro social donde tiene su despacho y allí hablará con ellas. Si intentan irse, las dejará irse sin problemas, ya las encontrará del barrio cuando estén más tranquilas.
 
-Está dispuesta a escuchar, aunque sin pruebas muy muy sólidas todo lo que le digan de los vampiros, serán solo fantasías. Pedirá pizza para comer algo y les dará su tarjeta. Cuando vuelvan a tener problemas con la poli, deben llamarla de inmediato y no decir nada a ningún poli. Recuerden _ACAB All Cops Are Bad_
+Está dispuesta a escuchar, aunque sin pruebas muy muy sólidas todo lo que le digan de los vampiros, serán solo fantasías. Pedirá pizza para comer algo y les dará su tarjeta. Cuando vuelvan a tener problemas con la poli, deben llamarla de inmediato y no decir nada a ningún poli. Recuerden _ACAB All Cops Are Bastards_
 
 > Tu panda ha perdido su anonimato, pero tiene un aliado muy interesante con Catalina. No solo será un importante apoyo mental, sino que puede ser muy útil en situaciones legales y burocráticas y como sortearlas.
 
@@ -557,13 +559,13 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 ## Personajes pregenerados
 
+Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tiene todos sus aspectos, rellenados para que puedan rellenarlos en partida.
+
 ### Nuria Ramos
 
+_Apodo:_ XXX
+
 \conc
-
-[![I got Slurpee By oasiswinds](./assests/images/i_got_slurpee_by_oasiswinds_dei7cyq-414w-2x.jpg "I got Slurpee By oasiswinds")](https://www.deviantart.com/oasiswinds/art/I-got-Slurpee-877102946 "I got Slurpee By oasiswinds")
-
-&nbsp;
 
 Nuria es la más activista del grupo, se apunta a todas las causas del barrio y las apoya con fervor. Si Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.
 
@@ -592,11 +594,9 @@ Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extr
 
 ### Amirah Tajdin
 
+_Apodo:_ XXX
+
 \conc
-
-[![indi girl By tsynali](./assests/images/indi_girl_by_tsynali_d8s3rbs-414w-2x.png "indi girl By tsynali")](https://www.deviantart.com/tsynali/art/indi-girl-530934040 "indi girl By tsynali")
-
-&nbsp;
 
 La calle corre por tus venas, conoces a todo el mundo, sabes todos los rumores y no te pueden engañar con ningún truco. Estás más tiempo en la calle que en tu casa y nadie te controla. Tus padres murieron hace años y tu abuela está muy mayor para controlarte.
 
@@ -621,26 +621,22 @@ Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento ino
 
 \sinc
 
-### Ana Isabel Duran
+### Ana Isabel "Anais" Duran
+
+_Apodo:_ XXX
 
 \conc
 
-[![Marinette Dupain-Cheng By oasiswinds](./assests/images/marinette_dupain_cheng_by_oasiswinds_decpdwo-pre.jpg "Marinette Dupain-Cheng By oasiswinds")](https://www.deviantart.com/oasiswinds/art/Marinette-Dupain-Cheng-867866280 "Marinette Dupain-Cheng By oasiswinds")
-
-&nbsp;
-
-Winston Zeddemore / Michelangelo
-
 XXX
 
-Tienes los pies muy en la tierra XXX
+Anais es la que tiene los pies más en a tierra, el ahora y el aquí son lo importante. Ni sueña con un mundo mejor como Nuria, ni tampoco flipa con la tecnología y sus aplicaciones como Sabina y desde luego no está tan centrada en la calle como Amirah. Para ella los problema están aquí y ahora y es aquí y ahora donde deben resolverse.
 
 \sc
 
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** XXX
-  * XXX
+  * Nervios de acero
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
@@ -656,11 +652,9 @@ Tienes los pies muy en la tierra XXX
 
 ### Sabina Castillo
 
+_Apodo:_ XXX
+
 \conc
-
-[![cute and nerdy By ninelunas](./assests/images/cute_and_nerdy_by_ninelunas_dayd0t3-375w-2x.jpg "cute and nerdy By ninelunas")](https://www.deviantart.com/ninelunas/art/cute-and-nerdy-662376279 "cute and nerdy By ninelunas")
-
-&nbsp;
 
 Sabina es introvertida y podría pensarse que con gran dificultad de socialización. Pero en realidad cuando quiere es muy social, solo que normalmente no quiere. Prefiere sus cachorros tecnológicos y sus programas.
 

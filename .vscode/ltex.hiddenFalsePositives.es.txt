@@ -46,3 +46,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEs una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QSi Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.\\E$"}

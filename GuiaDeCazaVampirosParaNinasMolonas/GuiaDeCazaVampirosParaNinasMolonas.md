@@ -132,15 +132,11 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * Stove with fire at blacksmith workshop. There are different tools around by [fxquadro](https://www.freepik.com/free-photo/stove-with-fire-blacksmith-workshop-there-are-different-tools-around_26614049.htm)
 * Vampire Street Art Sticker by [Worley Gig](https://worleygig.com/2013/10/01/vampire-street-art-sticker/)
 * Vampire lips by [Eric B.](https://www.flickr.com/photos/silverfuture/7533629452/) Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License
-* cute and nerdy By [ninelunas](https://www.deviantart.com/ninelunas/art/cute-and-nerdy-662376279) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
-
-\sp
-
 * Vampire graffiti in a very remote setting by [Michael Gabelmann](https://www.flickr.com/photos/mgabelmann/27199658215) Creative Commons Attribution-NonCommercial 2.0 Generic License
-* indi girl By [tsynali](https://www.deviantart.com/tsynali/art/indi-girl-530934040) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
-* I got Slurpee By [oasiswinds](https://www.deviantart.com/oasiswinds/art/I-got-Slurpee-877102946) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 
 \sp
+
+* graffiti, Santiago by [duncan cumming](https://www.flickr.com/photos/duncan/49539509723) Creative Commons Attribution-NonCommercial 2.0 Generic License
 
 \sinc
 
