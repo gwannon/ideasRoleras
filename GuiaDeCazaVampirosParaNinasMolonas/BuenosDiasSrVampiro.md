@@ -212,9 +212,9 @@ Imagina que una cazadora cuenta que jugando se quedó atrapada en contenedor de 
 
 \conc
 
-\sp
-
 De la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los NashB, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares. El concierto será en la plaza del barrio en una semana.
+
+\sp
 
 Este evento se puede usar para _ocultar cualquier tipo de actividad_ que el Grupo Ceballos quiera hacer desapercibidamente como la fuga de mercurio de la fundición o que no quiere que haya oposición como el derribo del campo de fútbol.
 
@@ -227,6 +227,24 @@ El concierto _será de noche_ y el barrio estará lleno hasta la bandera, coches
 Es una noche perfecta para un desastre y quizás te interese para tu partida una noche de caos en que un par de vampiros jóvenes random de otras zonas de la ciudad salgan a divertirse. La poli estará sobrepasada, habrá mucho alcohol, las ambulancias no pueden pasar por los coches mal aparcados, un caos total.
 
 También puedes ser una noche en que tus cazadoras planeen un gran golpe a los vampiros y el concierto les dé la cobertura necesaria. Un incendio más no se va a notar.
+
+\sinc
+
+### Psicólogo infantil
+
+> Papá y mamá me miraban con asombro y algo de miedo mientras el director les contaba lo que había en mi mochila y lo que ponía en mi libreta de notas de cazadora. Recuerdo perfectamente como terminó su discurso diciendo «psicólogo infantil».
+
+\conc
+
+Si algún adulto encuentra pruebas de tus actividades extraescolares, muy posiblemente hablará con tus padres y terminarás teniendo que ir al psicólogo infantil.
+
+El psicólogo infantil va a ser un importante obstáculo en tu carrera de cazavampiros. Por lo menos dos sesiones semanales de terapia que no puedes saltarte más diferentes tareas que hacer entre sesiones como escribir sobre tus sentimientos o hacerte un video-diario grabando mensajes diarios.
+
+Todo esto podría cortar tus vigilancias o truncar tus persecuciones de sospechosos. También tienes que esconder tus trastos antes de las sesiones y recuperarlos después.
+
+Puedes usar las estadísticas de Samuel, el psicólogo del colegio, si en algún momento quieren interactuar con él.
+
+\sp
 
 \sinc
 
@@ -246,9 +264,9 @@ Solo deberían intentar esta jugada si están muy desesperadas y deberían pensa
 
 Según entren algún poli se les acercará y les preguntará qué quieren, qué les pasa, … No les harán mucho caso y las tendrán un poco apartadas mientras localizan a sus padres o tutores.
 
-\sp
-
 Enseguida un par de polis comprados por Ceballos entrará en acción en cuanto oigan alguna cosa de vampiros, de los Lujua o del Grupo Ceballos. Se harán cargos de tus cazadoras y se las llevarán a una sala de interrogatorio.
+
+\sp
 
 #### La sala de interrogatorio
 
@@ -284,9 +302,9 @@ Catalina sacará todo su arsenal para sacar a las niñas:
 * que va directa con ellas al hospital a hacerles pruebas de violación y 
 * todo a gritos para que se oiga en toda la comisaría.
 
-\sp
-
 Se empezará a juntar gente, civiles y policías. Ante esto los polis corruptos dejarán irse a las niñas y Catalina y tratarán de escaquearse.
+
+\sp
 
 #### El centro social
 
@@ -313,24 +331,6 @@ Puedes alargar el tema de los periodistas y los terroristas lo que quieras. Cuan
 En general, todo esto hará que haya más ojos vigilando y bocas haciendo preguntas. Personas normales con cámaras y micrófonos ocultos.
 
 Podrías pensar que habría más presencia policial, pero realmente la mayoría de las cosas que hagan tus cazadoras no pasarán de disturbios callejeros. No hay nada de terrorismo, así que la poli pasa del tema.
-
-\sp
-
-\sinc
-
-### Psicólogo infantil
-
-> Papá y mamá me miraban con asombro y algo de miedo mientras el director les contaba lo que había en mi mochila y lo que ponía en mi libreta de notas de cazadora. Recuerdo perfectamente como terminó su discurso diciendo «psicólogo infantil».
-
-\conc
-
-Si algún adulto encuentra pruebas de tus actividades extraescolares, muy posiblemente hablará con tus padres y terminarás teniendo que ir al psicólogo infantil.
-
-El psicólogo infantil va a ser un importante obstáculo en tu carrera de cazavampiros. Por lo menos dos sesiones semanales de terapia que no puedes saltarte más diferentes tareas que hacer entre sesiones como escribir sobre tus sentimientos o hacerte un video-diario grabando mensajes diarios.
-
-Todo esto podría cortar tus vigilancias o truncar tus persecuciones de sospechosos. También tienes que esconder tus trastos antes de las sesiones y recuperarlos después.
-
-Puedes usar las estadísticas de Samuel, el psicólogo del colegio, si en algún momento quieren interactuar con él.
 
 \sp
 
@@ -627,15 +627,17 @@ _Apodo:_ XXX
 
 \conc
 
-XXX
+Anais es la mayor (por unos meses, pero cuando tienes doce años es mucho) y a la vez la líder. Ella escucha a sus compañeras tiene en cuenta los pros y los contras valorando la experiencia de cada una en el tema y toma una decisión, normalmente acertada, pero alguna vez no ha estado centrada y ha supuesto un problema para el grupo.
 
-Anais es la que tiene los pies más en a tierra, el ahora y el aquí son lo importante. Ni sueña con un mundo mejor como Nuria, ni tampoco flipa con la tecnología y sus aplicaciones como Sabina y desde luego no está tan centrada en la calle como Amirah. Para ella los problema están aquí y ahora y es aquí y ahora donde deben resolverse.
+Anais es la que tiene los pies más en a tierra, el ahora y el aquí son lo importante. Ni sueña con un mundo mejor como Nuria, ni tampoco flipa con la tecnología y sus aplicaciones como Sabina y desde luego no está tan centrada en la calle como Amirah. Para ella los problemas están aquí y ahora y es aquí y ahora donde deben resolverse.
+
+Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante más dinero que el resto de la gente del Barrio. Eso no sería ningún problema si no fuese porque nunca sabe si sus amigos y amigas lo son de verdad o solo por su dinero. Eso le crea bastantes inseguridades que compensa con su carácter de líder fuerte.
 
 \sc
 
 * **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
+  * **Concepto principal:** Líder natural
+  * **Complicación:** Dinero por castigo
   * Nervios de acero
   * XXX
   * XXX
@@ -656,13 +658,13 @@ _Apodo:_ XXX
 
 \conc
 
+[![Mural en honor a Marie Curie en la facultad de ciencias por Víctor Gómez](./assests/images/11345048516_596c93ba63_c.jpg "Mural en honor a Marie Curie en la facultad de ciencias por Víctor Gómez")](https://www.flickr.com/photos/machbel/11345048516 "Mural en honor a Marie Curie en la facultad de ciencias por Víctor Gómez")
+
 Sabina es introvertida y podría pensarse que con gran dificultad de socialización. Pero en realidad cuando quiere es muy social, solo que normalmente no quiere. Prefiere sus cachorros tecnológicos y sus programas.
 
 Su pensamiento es el más científico de toda la panda y es la que mejor entiende la tecnología. Ese pensamiento científico hace que sea muy poco propensa a creer en lo sobrenatural y el ocultismo.
 
 Su principal problema en la vida son sus padres que son tremendamente protectores y no le dan ninguna cancha. No la dejan solo nunca, revisan sus redes, investigan a sus amistades y tienen el horario más restrictivo de su cuadrilla.
-
-\sc
 
 * **Aspectos**
   * **Concepto principal:** Cerebrito

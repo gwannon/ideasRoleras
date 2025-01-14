@@ -137,6 +137,10 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 \sp
 
 * graffiti, Santiago by [duncan cumming](https://www.flickr.com/photos/duncan/49539509723) Creative Commons Attribution-NonCommercial 2.0 Generic License
+* Mural en honor a Marie Curie en la facultad de ciencias por [Víctor Gómez](https://www.flickr.com/photos/machbel/11345048516)
+Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
+
+\sp
 
 \sinc
 
