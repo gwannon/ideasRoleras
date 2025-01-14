@@ -338,7 +338,7 @@ Podrías pensar que habría más presencia policial, pero realmente la mayoría 
 
 ## Amigos y enemigos
 
-Aquí tienes las bíos de los personajes principales de mi historía para que puedas consultarlos cuando lo necesites.
+Aquí tienes las bíos de los personajes principales de la aventura para que puedas consultarlos cuando lo necesites.
 
 \conc
 
@@ -383,11 +383,15 @@ XXX
 
 XXX
 
+Alfonse seguramente será el vampiro con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras con lo que deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser un digno rival o un socio competente.
+
+Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro como él y apoderarse la ciudad.
+
 \conc
 
 * **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
+  * **Concepto principal:** Vampiro buscavidas
+  * **Complicación:** Sed de poder
   * XXX
   * XXX
   * XXX
@@ -396,7 +400,7 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 
 \sinc
 
