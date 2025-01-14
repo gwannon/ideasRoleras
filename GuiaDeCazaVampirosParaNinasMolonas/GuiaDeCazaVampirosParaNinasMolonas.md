@@ -139,6 +139,11 @@ Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviár
 * graffiti, Santiago by [duncan cumming](https://www.flickr.com/photos/duncan/49539509723) Creative Commons Attribution-NonCommercial 2.0 Generic License
 * Mural en honor a Marie Curie en la facultad de ciencias por [Víctor Gómez](https://www.flickr.com/photos/machbel/11345048516)
 Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
+* Wesker By [MonkeyMu](https://www.deviantart.com/monkeymu/art/Wesker-300376367) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+* Dorcha By [sokoistrying](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+*Che In Dublin Docklands - Street Art And Graffiti por [William Murphy](https://www.flickr.com/photos/infomatique/4673901682) Creative Commons Attribution-ShareAlike 2.0 Generic License
+* [Raimond Spekking](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg) Creative Commons Attribution-Share Alike 4.0 International license
+* Feria del Barrio del Pilar 2017 por [Gordon Dionne](https://www.flickr.com/photos/myprofe/37918844252/) Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license
 
 \sp
 

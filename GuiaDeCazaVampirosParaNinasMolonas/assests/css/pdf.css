@@ -42,7 +42,8 @@ section:nth-of-type(10) > div.saltopagina {
   }
   
   .saltopagina + .columns > *:first-child,
-  .saltopagina + h2 {
+  .saltopagina + h2,
+  .saltopagina + h3 {
     margin-top: 0;
     padding-top: 0;
   }

@@ -170,6 +170,8 @@ Los más sencillos, como las fiestas del barrio, simplemente van a ofrecerte la 
 
 \conc
 
+[![Feria del Barrio del Pilar 2017 por Gordon Dionne](./assests/images/37918844252_f86aa15c94_w.jpg "Feria del Barrio del Pilar 2017 por Gordon Dionne")](https://www.flickr.com/photos/myprofe/37918844252/ "Feria del Barrio del Pilar 2017 por Gordon Dionne")
+
 Durante las fiestas del barrio puedes dotar al barrio de aspectos nuevos que no tiene de normal, como «lleno de gente» que dificultad seguir a una persona y facilita esconderse y desaparecer entre la multitud. 
 
 Debes pensar como son las fiestas del barrio, quizás son un desfreno de alcohol y música alta, tal vez hay carrozas de floras o pasos religiosos. Piensa en una fiesta que conozcas y te guste y plásmala en algunos aspectos. Veamos algunas ideas:
@@ -181,8 +183,8 @@ Debes pensar como son las fiestas del barrio, quizás son un desfreno de alcohol
 Hay otras opciones similares que no impliquen las fiestas del barrio y que puedes meter esporádicamente son:
 
 * El equipo deportivo local ha conseguido __ganar alguna competición__ y la gente lo celebra
-* Se celebra algún tipo de __festival musical__, __concentración motera__, __concursos populares__, …
 * Alguna __celebridad viene al barrio__, desde el papa hasta un o una deportista de élite que salió del barrio.
+* Se celebra algún tipo de __festival musical__, __concentración motera__, __concursos populares__, …
 
 \sp
 
@@ -346,19 +348,21 @@ Aquí tienes las bíos de los personajes principales de la aventura para que pue
 
 ### Lord Ceballos
 
-Lord Ceballos lleva con nosotros desde hace más de 200 años. XXX
+Lord Ceballos lleva con nosotros desde hace más de 200 años. Nacido en una familia muy rica de la ciudad, uso sus poderes vampíricos y el dinero familiar para montar una empresa que en pleno siglo XXI es casi una megacorporación muy poderosa, el Grupo Ceballos. Pero Grupo Ceballos es solo una parte (muy importante eso sí) de su gran plan vampírico para controlar toda la ciudad.  
 
-Tenía un tinglado muy bien montado con el dictador Franco por toda la provincia hasta que sus planes se fueron al garete con la llegada de la Democracia. Aunque en realidad el revés le duro pocos años, los suficientes para aprender como iban las nuevas reglas del juego y como explotarlas para sus intereses y planes. 
+El principal problema hoy en día que tiene el plan vampírico de Lord Ceballos es el propio Lord Ceballos, está demasiado anclado en el pasado e intenta usar trucos muy viejos en un mundo moderno y claramente muchas veces fallan. Aun así sus siervos vampíricos se encargan de modernizar sus trucos al nuevo siglo a escondidas de él. 
 
-Lleva unas décadas apropiándose de las distintas zonas de la ciudad y ahora entre sus objetivos está tu barrio. XXX
-
-XXX
+Su objetivo principal a día de rol es tu barrio y va a caer como otras zonas de la ciudad, es que no te quepa duda.
 
 \conc
 
+[![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
+
+\sc
+
 * **Aspectos**
   * **Concepto principal:** Lord Vampiro de la ciudad
-  * **Complicación:** XXX
+  * **Complicación:** Anclado en el pasado
   * XXX
   * XXX
   * XXX
@@ -369,13 +373,13 @@ XXX
   * XXX
 * **Capacidad de recuperación:** X
 
+\sp
+
 \sinc
 
 **Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
 
 \conc
-
-\sp
 
 \sinc
 
@@ -385,9 +389,13 @@ XXX
 
 Alfonse seguramente será el vampiro con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras con lo que deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser un digno rival o un socio competente.
 
-Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro como él y apoderarse la ciudad.
+Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro como él y apoderarse juntos de la ciudad.
 
 \conc
+
+[![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
+
+\sc
 
 * **Aspectos**
   * **Concepto principal:** Vampiro buscavidas
@@ -395,7 +403,7 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y p
   * XXX
   * XXX
   * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto (+0), Furtivo (+2), Ingenioso (+1), Llamativo (+3), Rápido (+2), Vigoroso (+1) 
 * **Proezas**
   * XXX
   * XXX
@@ -420,13 +428,15 @@ XXX
 
 [![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
 
+\sc
+
 * **Aspectos**
   * **Concepto principal:** Abogada antisistema
   * **Complicación:** Fichada por la policía y detenida bastantes veces
   * XXX
   * XXX
   * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto (+1), Furtivo (+2), Ingenioso (+2), Llamativo (+1), Rápido (+3), Vigoroso (0) 
 * **Proezas**
   * XXX
   * XXX
@@ -567,9 +577,11 @@ Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vam
 
 ### Nuria Ramos
 
-_Apodo:_ XXX
+_Apodo:_ Greenpeace
 
 \conc
+
+[![Raymond Spekking](./assests/images/640px-Wandgemälde_Heliosstraße_37,_Köln-Ehrenfeld-1873.jpg "Raimond Spekking")](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg "Raimond Spekking")
 
 Nuria es la más activista del grupo, se apunta a todas las causas del barrio y las apoya con fervor. Si Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.
 
@@ -598,7 +610,7 @@ Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extr
 
 ### Amirah Tajdin
 
-_Apodo:_ XXX
+_Apodo:_ Buscavidas
 
 \conc
 
@@ -625,11 +637,13 @@ Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento ino
 
 \sinc
 
-### Ana Isabel "Anais" Duran
+### Ana Isabel «Anais» Duran
 
-_Apodo:_ XXX
+_Apodo:_ Tocón
 
 \conc
+
+[![Che In Dublin Docklands - Street Art And Graffiti por William Murphy](./assests/images/4673901682_4679320ba7_w.jpg "Che In Dublin Docklands - Street Art And Graffiti por William Murphy")](https://www.flickr.com/photos/infomatique/4673901682 "Che In Dublin Docklands - Street Art And Graffiti por William Murphy")
 
 Anais es la mayor (por unos meses, pero cuando tienes doce años es mucho) y a la vez la líder. Ella escucha a sus compañeras tiene en cuenta los pros y los contras valorando la experiencia de cada una en el tema y toma una decisión, normalmente acertada, pero alguna vez no ha estado centrada y ha supuesto un problema para el grupo.
 
@@ -658,7 +672,7 @@ Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante má
 
 ### Sabina Castillo
 
-_Apodo:_ XXX
+_Apodo:_ Lovelace
 
 \conc
 
@@ -669,6 +683,8 @@ Sabina es introvertida y podría pensarse que con gran dificultad de socializaci
 Su pensamiento es el más científico de toda la panda y es la que mejor entiende la tecnología. Ese pensamiento científico hace que sea muy poco propensa a creer en lo sobrenatural y el ocultismo.
 
 Su principal problema en la vida son sus padres que son tremendamente protectores y no le dan ninguna cancha. No la dejan solo nunca, revisan sus redes, investigan a sus amistades y tienen el horario más restrictivo de su cuadrilla.
+
+\sc
 
 * **Aspectos**
   * **Concepto principal:** Cerebrito
