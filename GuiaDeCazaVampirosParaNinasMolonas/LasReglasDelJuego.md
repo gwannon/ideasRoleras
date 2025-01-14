@@ -10,7 +10,7 @@ Saber cuáles son tus puntos fuertes y débiles como cazadora de vampiros te ayu
 
 ### Estilos
 
-Salvo contadas excepciones, como Sara de mi clase, no somos muy fuertes con lo que no deberíamos tener un estilo Vigoroso a nivel Grande y si Bueno solo en casos muy especiales. 
+Salvo contadas excepciones, como Sara de mi clase, con 12 años no eres muy fuertes con lo que no deberíamos tener un estilo Vigoroso a nivel Grande y si Bueno solo en casos muy especiales. 
 
 ### Aspectos
 
@@ -26,6 +26,8 @@ Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vid
 
 **Cuidando animales:** Te dedicas a vigilar y cuidar de mascotas por una pequeña propina.
 
+[![Blood By Mephisto123456789](./assests/images/blood_by_mephisto123456789_dek2pp5-pre.jpg "Blood By Mephisto123456789")](https://www.deviantart.com/mephisto123456789/art/Blood-880245401 "Blood By Mephisto123456789")
+
 **Robando:** Entras en los supermercados y robas cosas que luego revendes a tu panda o a adultos o tal vez tengas habilidades de carterista.
 
 **Mendigando:** Mendigas por las calles apelando a la buena fe y caridad de sus gentes. Puede que tengas una discapacidad o solo lo finjas, pero desde luego has aprendido a fingir pena para aflojar la pasta de los viandantes.
@@ -36,15 +38,17 @@ Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vid
 
 **Buscando en la basura:** Vives de lo que encuentras en la basura y los vertederos. Las cosas buenas las vendes y las útiles te las quedas.
 
+\sp
+
 ```
 Alguno de los aspectos de una cazadora podría estar relacionado con su forma de ganarse la vida. Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, puedes evaluarla y decidir si la permites, pero no deberías aceptar aquellas que vayan en contra de los derechos de la infancia como prostitución infantil.
 ```
 
-\sp
-
 #### En qué eres bueno en el cole?
 
 Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
+
+[![Vampire -edited- By Valentinepsycho](./assests/images/vampire__edited__by_valentinepsycho_d1bspx0-414w-2x.jpg "Vampire -edited- By Valentinepsycho")](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908 "Vampire -edited- By Valentinepsycho")
 
 Ser buena en matemáticas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una máquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
 

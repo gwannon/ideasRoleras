@@ -58,15 +58,15 @@ _DÍA_
 
 Todas las madres, padres o tutores de tus PJ han tenido la misma idea, ir al tanatorio a despedirse de su profesora. Nadie les hace caso, los adultos como siempre están en sus cosas y tus futuras cazadoras están juntas en una esquina. La difunta está de cuerpo presente y ninguna ha visto nunca un muerto.
 
-Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos (0). El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
+Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos Mediocre (+0). El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
 
-Si se ponen a _fisgonear entre los adultos_ (0), podrán enterarse de que Maricarmen se debió suicidar en su casa y se preocuparon cuando no apareció por el colegio al día siguiente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
+Si se ponen a _fisgonear entre los adultos_ Mediocre (+0), podrán enterarse de que Maricarmen se debió suicidar en su casa y se preocuparon cuando no apareció por el colegio al día siguiente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
 
 Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. Si se acercan mucho e intentan hablar con él, responderá con monosílabos y huirá a los baños. 
 
-De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar (0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
+De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar Mediocre (+0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
-Lo curioso es que no parece nada afectado, igual alguna se acuerda de una serie de CSI (0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares y aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
+Lo curioso es que no parece nada afectado, igual alguna se acuerda de una serie de CSI Mediocre (+0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares y aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
 
 Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únicas niñas de la misma edad, así que seguramente se juntarán para hablar de las cosas raras. Se habrán visto fisgando por el tanatorio y quizás puedan intercambiar info y cotilleos.
 
@@ -79,7 +79,7 @@ Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas 
 Si consiguen _robarle el móvil_ (+4) verán que envía fotos mensajes a Máster Alfonse poniendo notas sobre quiénes aparecen en las fotos.
 
 * Siempre nervioso
-* **Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
+* **Bueno Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
 * **Malo (-2) en:** Interacciones sociales, Pasar desapercibido
 * **Estrés:** Nada (cae al primer golpe)
 
@@ -103,7 +103,7 @@ Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental as�
 ### Samuel, el psicólogo del colegio
 
 * Psicólogo new age
-* **Bueno (+2) en:** Interpretando a las personas, Charlatanería
+* **Bueno Bueno (+2) en:** Interpretando a las personas, Charlatanería
 * **Malo (-2) en:** Deporte, Conducir
 * **Estrés:** Nada (cae al primer golpe)
 
@@ -283,7 +283,7 @@ Amenazarán con meterlas en un reformatorio, en alejarlas de sus padres y amigos
 Si consiguen aguantar hasta las bofetadas sin rendirse, llegará la caballería a salvarlas. Aun así estarán marcadas y habrán entrado en el radar del plan vampírico.
 
 * Poli corrupto
-* **Bueno (+2) en:** Interrogar, Ocultar sus actividades
+* **Bueno Bueno (+2) en:** Interrogar, Ocultar sus actividades
 * **Malo (-2) en:** Leyes, Moverse en las calles
 * **Estrés:** ◯◯
 
@@ -403,7 +403,7 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y p
   * XXX
   * XXX
   * XXX
-* **Estilos:** Cauto (+0), Furtivo (+2), Ingenioso (+1), Llamativo (+3), Rápido (+2), Vigoroso (+1) 
+* **Estilos:** Cauto (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
   * XXX
   * XXX
@@ -436,7 +436,7 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Estilos:** Cauto (+1), Furtivo (+2), Ingenioso (+2), Llamativo (+1), Rápido (+3), Vigoroso (0) 
+* **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Mediocre (+0) 
 * **Proezas**
   * XXX
   * XXX
@@ -573,7 +573,7 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 ## Personajes pregenerados
 
-Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tiene todos sus aspectos, rellenados para que puedan rellenarlos en partida.
+Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tienen todos sus aspectos rellenados para que puedan rellenarlos en partida.
 
 ### Nuria Ramos
 
@@ -594,10 +594,10 @@ Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extr
 * **Aspectos**
   * **Concepto principal:** Activista junior
   * **Complicación:** Demasiado comprometida
-  * XXX
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+  * Le encantan las series y los libros de abogados
+  * .................................................................................
+  * .................................................................................
+* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (+0) 
 * **Proezas**
   * XXX
   * XXX
@@ -610,9 +610,11 @@ Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extr
 
 ### Amirah Tajdin
 
-_Apodo:_ Buscavidas
+_Apodo:_ Gata
 
 \conc
+
+[![GRAFFITI - DENVER, COLORADO 08 por Trip & Queball with PUNKassPHOTOS](./assests/images/3351954588_3f7971005d_w.jpg "GRAFFITI - DENVER, COLORADO 08 por Trip & Queball with PUNKassPHOTOS")](https://www.flickr.com/photos/punkassphotos/3351954588/ "GRAFFITI - DENVER, COLORADO 08 por Trip & Queball with PUNKassPHOTOS") 
 
 La calle corre por tus venas, conoces a todo el mundo, sabes todos los rumores y no te pueden engañar con ningún truco. Estás más tiempo en la calle que en tu casa y nadie te controla. Tus padres murieron hace años y tu abuela está muy mayor para controlarte.
 
@@ -623,13 +625,13 @@ Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento ino
 * **Aspectos**
   * **Concepto principal:** Tengo calle
   * **Complicación:** Huérfana que vive con su abuela
-  * XXX
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+  * Entrenamiento de carterista
+  * .................................................................................
+  * .................................................................................
+* **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Mediocre (+0) 
 * **Proezas**
-  * XXX
-  * XXX
+  * **Conozco a un tipo:** Debido a que tengo muchos contactos, una vez por partida puedo encontrar un aliado que me ayude en el lugar más oportuno.
+  * **Hablar sin parar:** Debido a que soy una charlatana de primera, gano un +2 para Crear una ventaja de modo Furtivo cuando converso con alguien.
   * XXX
 * **Capacidad de recuperación:** 3
 
@@ -657,9 +659,9 @@ Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante má
   * **Concepto principal:** Líder natural
   * **Complicación:** Dinero por castigo
   * Nervios de acero
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+  * .................................................................................
+  * .................................................................................
+* **Estilos:** Cauto Grande (+3), Furtivo Normal (+1), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Mediocre (+0), Vigoroso Normal (+1) 
 * **Proezas**
   * XXX
   * XXX
@@ -690,11 +692,11 @@ Su principal problema en la vida son sus padres que son tremendamente protectore
   * **Concepto principal:** Cerebrito
   * **Complicación:** Padres muy protectores
   * XXX
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+  * .................................................................................
+  * .................................................................................
+* **Estilos:** Cauto Bueno (+2), Furtivo Mediocre (+0), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
-  * XXX
+  * **La contraseña es 1234:** Debido a mis conocimientos informativos superiores, una vez por partida puedo tener acceso a un dispositivo electrónico con clave, huela, reconocimiento facial, etc.
   * XXX
   * XXX
 * **Capacidad de recuperación:** 3

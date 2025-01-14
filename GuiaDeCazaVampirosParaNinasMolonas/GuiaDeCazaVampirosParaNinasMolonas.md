@@ -144,6 +144,9 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 *Che In Dublin Docklands - Street Art And Graffiti por [William Murphy](https://www.flickr.com/photos/infomatique/4673901682) Creative Commons Attribution-ShareAlike 2.0 Generic License
 * [Raimond Spekking](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg) Creative Commons Attribution-Share Alike 4.0 International license
 * Feria del Barrio del Pilar 2017 por [Gordon Dionne](https://www.flickr.com/photos/myprofe/37918844252/) Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license
+* Blood By [Mephisto123456789](https://www.deviantart.com/mephisto123456789/art/Blood-880245401) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Vampire -edited- By [Valentinepsycho](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908) Creative Commons Attribution-ShareAlike 3.0 License
+* GRAFFITI - DENVER, COLORADO 08 por [Trip & Queball with PUNKassPHOTOS](https://www.flickr.com/photos/punkassphotos/3351954588/) Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic Licenses
 
 \sp
 
