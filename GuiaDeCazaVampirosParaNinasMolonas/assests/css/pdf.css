@@ -36,9 +36,16 @@ section:nth-of-type(10) > div.saltopagina {
   }
 }
 
-@media screen (max-width: 750px) {
+@media screen and (max-width: 750px) {
+  section:first-of-type  {
+    background-size: auto 200%;
+  }
   section:first-of-type img {
     max-width: 25%;
+  }
+  section:first-of-type:before,
+  section:first-of-type:after {
+    display: none;
   }
 }
 
