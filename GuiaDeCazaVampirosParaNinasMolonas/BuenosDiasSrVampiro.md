@@ -606,6 +606,8 @@ La calle corre por tus venas, conoces a todo el mundo, sabes todos los rumores y
 
 Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento inoportuno, la canción en momentos duros. Si nota que alguna amiga está de bajón, su forma le lleva a sacarte una sonrisa.
 
+Amirah adora el barrio, no hay mejor sitio en el mundo. Quiere crecer y vivir en el barrio, disfrutando de sus pequeños placeres. Es donde es más feliz y por nada del mundo permitiría que alguien lo destruyera.
+
 \sc
 
 * **Aspectos**
@@ -618,7 +620,7 @@ Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento ino
 * **Proezas**
   * **Conozco a un tipo:** Debido a que tengo muchos contactos, una vez por partida puedo encontrar un aliado que me ayude en el lugar más oportuno.
   * **Hablar sin parar:** Debido a que soy una charlatana de primera, gano un +2 para Crear una ventaja de modo Furtivo cuando converso con alguien.
-  * XXX
+  * **Parkour:** Debido a tus años haciendo parkour en las calles, ganas una +2 a Superar de modo rápido cuando corres para escapar o perseguir a alguien.
 * **Capacidad de recuperación:** 3
 
 \sp
@@ -649,11 +651,11 @@ Quiere ser abogada medioambientalista y de derechos humanos y es por eso que se 
   * Le encantan las series y los libros de abogados
   * .................................................................................
   * .................................................................................
-* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (+0) 
+* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+1), Llamativo Bueno (+2), Rápido Normal (+2), Vigoroso Mediocre (+0) 
 * **Proezas**
   * **Lenguaje legal:** Debido a que conozco muchos términos y precedentes legales, gano un +2 para Crear una ventaja de modo Cauto cuando converso con alguien.
-  * XXX
-  * XXX
+  * **Trabajo en la protectora:** Debido a qué llevo mucho tiempo trabajando en una protectora de animales, una vez por partida puede conseguir que un animal o un grupo de animales no le ataquen o le protejan de un agresor.
+  * **Protesta ciudadana:** Debido a su experiencia escapando a la carrera de la policia y los antidisturbios, gano un +2 para Crear una ventaja de modo Rápido cuando escapa de un lugar o persona.  
 * **Capacidad de recuperación:** 3
 
 \sp
@@ -685,8 +687,8 @@ Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante má
 * **Estilos:** Cauto Grande (+3), Furtivo Normal (+1), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Mediocre (+0), Vigoroso Normal (+1) 
 * **Proezas**
   * **La VISA de mis padres:** Debido a que tengo una tarjeta de crédito de mis padres para emergencias, una vez por partida puedo pagar lo que sea que necesite, siempre que sea legal y sin pasarme del límite de la tarjeta.
-  * XXX
-  * XXX
+  * **Voz de mando:** Debido a mi tono de voz intimidante, gano un +2 para Atacar de modo Llamativo, cuando discuto con otras personas.
+  * **La más alta de mi clase:** Debido a qué soy más alta que el resto de mi clase, una vez por partida puede hacerse pasar por mayor de edad, mientras no le pidan un documento de identidad.
 * **Capacidad de recuperación:** 3
 
 \sp
@@ -712,14 +714,14 @@ Su principal problema en la vida son sus padres que son tremendamente protectore
 * **Aspectos**
   * **Concepto principal:** Cerebrito
   * **Complicación:** Padres muy protectores
-  * XXX
+  * Muy buena en ciencias
   * .................................................................................
   * .................................................................................
 * **Estilos:** Cauto Bueno (+2), Furtivo Mediocre (+0), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
   * **La contraseña es 1234:** Debido a mis conocimientos informativos superiores, una vez por partida puedo tener acceso a un dispositivo electrónico con clave, huela, reconocimiento facial, etc.
-  * XXX
-  * XXX
+  * **Evadirse del mundo:** Debido a mi capacidad de evadirme del mundo que me rodea, gano un +2 para Defender de modo Cauto cuando tratan de intimidarme o amedrentarme.
+  * **Mezclando esto con esto:** Debido a mis conocimientos en química, gano un +2 a para Atacar de modo ingenioso cuando mezclo productos de limpieza, líquidos corrosivos, combustibles, … para crear algún tipo de explosivo o bomba de humo.
 * **Capacidad de recuperación:** 3
 
 ***
