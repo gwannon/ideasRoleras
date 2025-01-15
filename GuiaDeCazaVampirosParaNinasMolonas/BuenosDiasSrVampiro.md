@@ -166,7 +166,7 @@ _NOCHE_
 
 \conc
 
-El único lugar un poco seguro ahora mismo para Lord Ceballos es su la planta de reciclaje de San Andrés. Se podría esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver dentro de unos meses o años más poderoso y rabioso.
+El único lugar un poco seguro ahora mismo para Lord Ceballos es su la planta de reciclaje de San Andrés. Se podría esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver más poderoso y rabioso dentro de unos meses o años.
 
 XXX
 
@@ -368,7 +368,7 @@ Lord Ceballos lleva con nosotros desde hace más de 200 años. Nacido en una fam
 
 El principal problema hoy en día que tiene el plan vampírico de Lord Ceballos es el propio Lord Ceballos, está demasiado anclado en el pasado e intenta usar trucos muy viejos en un mundo moderno y claramente muchas veces fallan. Aun así sus siervos vampíricos se encargan de modernizar sus trucos al nuevo siglo a escondidas de él. 
 
-Su objetivo principal a día de rol es tu barrio y va a caer como otras zonas de la ciudad, es que no te quepa duda.
+Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otras zonas de la ciudad, es que no te quepa duda.
 
 \conc
 
@@ -379,9 +379,9 @@ Su objetivo principal a día de rol es tu barrio y va a caer como otras zonas de
 * **Aspectos**
   * **Concepto principal:** Lord Vampiro de la ciudad
   * **Complicación:** Anclado en el pasado
-  * XXX
-  * XXX
-  * XXX
+  * Todo el mundo me debe un favor
+  * CEO de la megacorporación Grupo Ceballos
+  * Difícil de matar
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * XXX
@@ -416,7 +416,7 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y p
 * **Aspectos**
   * **Concepto principal:** Vampiro buscavidas
   * **Complicación:** Sed de poder
-  * XXX
+  * Fiestero empedernido
   * XXX
   * XXX
 * **Estilos:** Cauto (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
@@ -449,9 +449,9 @@ XXX
 * **Aspectos**
   * **Concepto principal:** Abogada antisistema
   * **Complicación:** Fichada por la policía y detenida bastantes veces
-  * XXX
-  * XXX
-  * XXX
+  * Defensora de las causas perdidas
+  * Luchadora incansable
+  * Cae bien
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Mediocre (+0) 
 * **Proezas**
   * XXX
