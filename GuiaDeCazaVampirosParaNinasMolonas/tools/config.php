@@ -10,6 +10,7 @@ $tags = [
   'LANZAMIENTO' => "Primer trimestre de 2025",
   'AUTHOR' => "@Gwannon",
   'KEYWORDS' => "juego de rol, fate acelerado, terror, contenido adulto, cazavampiros",
-  'URL' => "https://gwannon.itch.io/guia-de-cazavampiros-para-ninas-molonas",
+  //'URL' => "https://gwannon.itch.io/guia-de-cazavampiros-para-ninas-molonas",
+  'URL' => "https://cazavampiros.gwannon.com/",
   'GITHUB' => "https://github.com/gwannon/ideasRoleras/tree/main/GuiaDeCazaVampirosParaNinasMolonas"
 ];
