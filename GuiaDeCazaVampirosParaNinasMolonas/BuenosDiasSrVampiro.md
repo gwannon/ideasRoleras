@@ -158,6 +158,22 @@ XXX
 
 \sinc
 
+## Le grand finale
+
+> Allí estábamos, en medio de un patio inmenso lleno de chatarra buscando a un Lord Vampiro para darle la muerte final que se merecía y esperando un ataque mortal desde cualquier esquina.
+
+_NOCHE_
+
+\conc
+
+El único lugar un poco seguro ahora mismo para Lord Ceballos es su la planta de reciclaje de San Andrés. Se podría esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver dentro de unos meses o años más poderoso y rabioso.
+
+XXX
+
+\sp
+
+\sinc
+
 ## Mientras tanto …
 
 En este punto puedes encontrar eventos o encuentros que pueden pasar en cualquier momento de la aventura y otros que pueden saltar si lo crees necesario y se dan unas condiciones específicas.
