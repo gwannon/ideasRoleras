@@ -575,36 +575,6 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tienen todos sus aspectos rellenados para que puedan rellenarlos en partida.
 
-### Nuria Ramos
-
-_Apodo:_ Greenpeace
-
-\conc
-
-[![Raymond Spekking](./assests/images/640px-Wandgemälde_Heliosstraße_37,_Köln-Ehrenfeld-1873.jpg "Raimond Spekking")](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg "Raimond Spekking")
-
-Nuria es la más activista del grupo, se apunta a todas las causas del barrio y las apoya con fervor. Si Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.
-
-Nuria es la más sensible de la panda, es su corazón y su brújula moral. Distingue muy bien lo que es legal de lo que es bueno y solo le importa lo que es éticamente justo.
-
-Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extraños y dudosos caminos. Es una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.
-
-\sc
-
-* **Aspectos**
-  * **Concepto principal:** Activista junior
-  * **Complicación:** Demasiado comprometida
-  * Le encantan las series y los libros de abogados
-  * .................................................................................
-  * .................................................................................
-* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (+0) 
-* **Proezas**
-  * XXX
-  * XXX
-  * XXX
-* **Capacidad de recuperación:** 3
-
-\sp
 
 \sinc
 
@@ -639,6 +609,41 @@ Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento ino
 
 \sinc
 
+### Nuria Ramos
+
+_Apodo:_ Greenpeace
+
+\conc
+
+[![Raymond Spekking](./assests/images/640px-Wandgemälde_Heliosstraße_37,_Köln-Ehrenfeld-1873.jpg "Raimond Spekking")](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg "Raimond Spekking")
+
+Nuria es la más activista del grupo, se apunta a todas las causas del barrio y las apoya con fervor. Si Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.
+
+Nuria es la más sensible de la panda, es su corazón y su brújula moral. Distingue muy bien lo que es legal de lo que es bueno y solo le importa lo que es éticamente justo.
+
+Siempre marcará el objetivo justo, aunque a veces tenga que tomar senderos extraños y dudosos caminos. Es una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.
+
+Quiere ser abogada medioambientalista y de derechos humanos y es por eso que se pasa la vida viendo series de abogados y leyendo sentencias de casos contra grandes corporaciones supercontaminantes.
+
+\sc
+
+* **Aspectos**
+  * **Concepto principal:** Activista junior
+  * **Complicación:** Demasiado comprometida
+  * Le encantan las series y los libros de abogados
+  * .................................................................................
+  * .................................................................................
+* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (+0) 
+* **Proezas**
+  * **Lenguaje legal:** Debido a que conozco muchos términos y precedentes legales, gano un +2 para Crear una ventaja de modo Cauto cuando converso con alguien.
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** 3
+
+\sp
+
+\sinc
+
 ### Ana Isabel «Anais» Duran
 
 _Apodo:_ Tocón
@@ -663,7 +668,7 @@ Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante má
   * .................................................................................
 * **Estilos:** Cauto Grande (+3), Furtivo Normal (+1), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Mediocre (+0), Vigoroso Normal (+1) 
 * **Proezas**
-  * XXX
+  * **La VISA de mis padres:** Debido a que tengo una tarjeta de crédito de mis padres para emergencias, una vez por partida puedo pagar lo que sea que necesite, siempre que sea legal y sin pasarme del límite de la tarjeta.
   * XXX
   * XXX
 * **Capacidad de recuperación:** 3

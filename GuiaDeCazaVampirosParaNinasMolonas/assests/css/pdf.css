@@ -33,7 +33,11 @@ section:nth-of-type(10) > div.saltopagina {
     size: A4;
     margin: 0;
   }
-  
+
+  .nopdf {
+    display: none;
+  }
+
   .saltocolumna {
     break-before: column;
     height: 0px;
