@@ -38,17 +38,26 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 \sinc
 
-## Resumen [Aviso Spoiler]
+## Piezas en el tablero
+
+En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballos, … cada una con sus movimientos y su valor. Veamos las más importantes que participan en esta aventura.
+
+* _Lord Ceballos:_ Lord Vampiro de la ciudad. XXX
+* _Alfonse:_ Vampire buscavidas. XXX
+* _Nieve:_ Lugarteniente vampira de Lord Ceballos. XXX
+* _Tito:_ Siervo protector de Lord Ceballos. XXX
+* _Eloise:_ Súcubo vampiro. XXX
+* _Covadonga "Cova":_ XXX. XXX
+* _Catalina Faroes:_ Abogada antisistema. XXX
+* _Samuel:_ Psicólogo new age. XXX
 
 \conc
-
-XXX
 
 \sp
 
 \sinc
 
-## Hasta luego, Maricarmen
+## Its Now or Never
 
 > Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se empeñó en ir al tanatorio para su despedida. Gente que no conoces llorando, otra gente que no conoces hablando y riendo y un tipo que no conocía de nada muy cripi. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
 
@@ -79,13 +88,13 @@ Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas 
 Si consiguen _robarle el móvil_ (+4) verán que envía fotos mensajes a Máster Alfonse poniendo notas sobre quiénes aparecen en las fotos.
 
 * Siempre nervioso
-* **Bueno Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
+* **Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
 * **Malo (-2) en:** Interacciones sociales, Pasar desapercibido
 * **Estrés:** Nada (cae al primer golpe)
 
 \sinc
 
-## Charla especial
+## Don't Be Cruel
 
 > Al día siguiente en el colegio cogieron a todos los alumnos de Maricarmen y los reunieron para una charla sobre el suicidio dado por Samuel, el psicólogo del colegio. Tras la charla Samuel reúne a todas las PJ, ya que las vio en el funeral para hablar sobre el tema.
 
@@ -103,7 +112,7 @@ Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental as�
 ### Samuel, el psicólogo del colegio
 
 * Psicólogo new age
-* **Bueno Bueno (+2) en:** Interpretando a las personas, Charlatanería
+* **Bueno (+2) en:** Interpretando a las personas, Charlatanería
 * **Malo (-2) en:** Deporte, Conducir
 * **Estrés:** Nada (cae al primer golpe)
 
@@ -125,7 +134,7 @@ Como siempre, si todo esto te parece un engorro, puedes hacer que simplemente ha
 
 \sinc
 
-## Una gran herencia
+## Suspicious Minds
 
 > Si Mari Carmen no se había suicidado, quién había sido el asesino, por qué, qué eran esas marcas en su cuello y por qué a nadie le preocupaba. 
 
@@ -146,7 +155,7 @@ XXX
 
 \sinc
 
-## Multiple choices
+## In the Ghetto
 
 > En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a una nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
 
@@ -158,7 +167,79 @@ XXX
 
 \sinc
 
-## Le grand finale
+## Always on My Mind
+
+> XXX
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Can't Help Falling in Love
+
+> XXX
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Burning love
+
+> XXX
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## You're the Devil in Disguise
+
+> XXX
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Heartbreak Hotel
+
+> XXX
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Jailhouse Rock
+
+> XXX
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Viva Las Vegas
 
 > Allí estábamos, en medio de un patio inmenso lleno de chatarra buscando a un Lord Vampiro para darle la muerte final que se merecía y esperando un ataque mortal desde cualquier esquina.
 
@@ -167,6 +248,18 @@ _NOCHE_
 \conc
 
 El único lugar un poco seguro ahora mismo para Lord Ceballos es su la planta de reciclaje de San Andrés. Se podría esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver más poderoso y rabioso dentro de unos meses o años.
+
+XXX
+
+\sp
+
+\sinc
+
+## Blue Suede Shoes
+
+> La amenaza de Lord Ceballos había sido neutralizada. Qué Narices!!!!! Le habíamos dado una paliza a todos los niveles de la existencia y enviado al infierno de una patada en el culo. Pero y ahora qué?
+
+\conc
 
 XXX
 
@@ -299,7 +392,7 @@ Amenazarán con meterlas en un reformatorio, en alejarlas de sus padres y amigos
 Si consiguen aguantar hasta las bofetadas sin rendirse, llegará la caballería a salvarlas. Aun así estarán marcadas y habrán entrado en el radar del plan vampírico.
 
 * Poli corrupto
-* **Bueno Bueno (+2) en:** Interrogar, Ocultar sus actividades
+* **Bueno (+2) en:** Interrogar, Ocultar sus actividades
 * **Malo (-2) en:** Leyes, Moverse en las calles
 * **Estrés:** ◯◯
 
@@ -403,9 +496,9 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 
 XXX
 
-Alfonse seguramente será el vampiro con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras con lo que deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser un digno rival o un socio competente.
+Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras con lo que deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
 
-Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro como él y apoderarse juntos de la ciudad.
+Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro y apoderarse juntos de la ciudad.
 
 \conc
 
@@ -419,12 +512,157 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como él y p
   * Fiestero empedernido
   * XXX
   * XXX
-* **Estilos:** Cauto (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
+* **Estilos:** Cauto Mediocre (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
   * XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** 3
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### Nieve
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### Tito
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** Siervo protector de Lord Ceballos
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### Eloise
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** Súcubo vampiro
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### Covadonga "Cova"
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+
+\sinc
+
+**Sugerencia de interpretación:** XXX
+
+\conc
+
+\sp
+
+\sinc
+
+### XXX
+
+XXX
+
+\conc
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
 
 \sinc
 
@@ -655,7 +893,7 @@ Quiere ser abogada medioambientalista y de derechos humanos y es por eso que se 
 * **Proezas**
   * **Lenguaje legal:** Debido a que conozco muchos términos y precedentes legales, gano un +2 para Crear una ventaja de modo Cauto cuando converso con alguien.
   * **Trabajo en la protectora:** Debido a qué llevo mucho tiempo trabajando en una protectora de animales, una vez por partida puede conseguir que un animal o un grupo de animales no le ataquen o le protejan de un agresor.
-  * **Protesta ciudadana:** Debido a su experiencia escapando a la carrera de la policia y los antidisturbios, gano un +2 para Crear una ventaja de modo Rápido cuando escapa de un lugar o persona.  
+  * **Protesta ciudadana:** Debido a su experiencia escapando a la carrera de la policía y los antidisturbios, gano un +2 para Crear una ventaja de modo Rápido cuando escapa de un lugar o persona.  
 * **Capacidad de recuperación:** 3
 
 \sp

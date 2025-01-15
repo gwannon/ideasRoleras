@@ -338,7 +338,7 @@ Si el vampiro tacha todas las casillas, muere simplemente de hambre. Su cuerpo c
 Para recuperar casillas de sed de sangre deben de beber sangre fresca de humanos. Pueden desde tomar lo justo para sobrevivir ellos y dejar al humano débil, pero no herido, hasta saciarse completamente y matar a su víctima.
 
 * **1 casilla:** La víctima está cansada, pero ha disfrutado del mordisco casi como si hubiera tenido relaciones sexuales consensuadas y placenteras.
-* **2 casillas:** La víctima está débil por la falta de sangre, pero
+* **2 casillas:** La víctima está débil por la falta de sangre y recibe una consecuencia leve por la falta de sangre.
 * **4 casillas:** La víctima recibe una condición que representa daño físico, gran anemia, gran debilidad, … La víctima se lleva una consecuencia moderada.
 * **7 casillas:** La víctima muere y su cadáver desangrado cae al suelo sin vida y con una gran herida de colmillos en el cuello.
 
