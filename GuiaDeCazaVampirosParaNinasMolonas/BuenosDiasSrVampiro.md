@@ -181,7 +181,7 @@ XXX
 
 ## Can’t Help Falling in Love
 
-> XXX
+> La rave iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es las raves se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
 
 \conc
 
@@ -828,7 +828,6 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 ## Personajes pregenerados
 
 Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tienen todos sus aspectos rellenados para que puedan rellenarlos en partida.
-
 
 \sinc
 
