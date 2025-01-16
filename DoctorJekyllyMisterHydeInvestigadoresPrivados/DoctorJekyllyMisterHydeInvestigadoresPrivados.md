@@ -44,13 +44,41 @@ xxx
 
 xxx
 
+## El Londres victoriano
+
+xxx
+
+## La agencia Hyde & Jekyll
+
+xxx
+
+## Scotland Yard
+
+xxx
+
+## Magia y ciencia
+
+xxx
+
 ***
 
 # Archivos de los casos
 
 xxx
 
-## El caso del tigre desaparecido del Zoo
+## El extraño caso del tigre desaparecido del Zoo
+
+xxx
+
+## El extraño caso de la pala del zapador
+
+xxx
+
+## El extraño caso del lingote de oro con la rosa impresa
+
+> El viejo notario Stonewall ha aparecido muerto y lo curioso es que el arma homicida es un lingote de oro con una rosa impresa en su casa superior.
+
+xxx
 
 ***
 
@@ -91,5 +119,9 @@ Aquí tienes las fichas de personajes iniciales. xxx
 ***
 
 # Epílogo
+
+xxx
+
+## Atribuciones
 
 xxx
