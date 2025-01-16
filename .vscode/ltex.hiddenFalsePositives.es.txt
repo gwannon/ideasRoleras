@@ -51,3 +51,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpara crear algún tipo de explosivo o bomba de humo.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QQué Narices!!!!!\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QPero y ahora qué?\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}

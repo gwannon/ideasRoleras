@@ -77,11 +77,11 @@ Además de temas como drogas, alcohol y juego + menores, van a aparecer temas m�
 
 Todos estos elementos son una fantasía que forma parte de una historia donde el bien ganará al mal. Nunca deben salir de la mesa de juego y deben tratarse con el debido respeto y seriedad. 
 
-Si como director de juego o jugador vas a hacer chistes sobre estas duras situaciones que se plantean, te vas a regodear en ellas o buscas disfrutar de ellas más allá del simple juego de rol, que sepas que era una mierda de persona y que te deseo lo peor. Si ves estos comportamientos en tu mesa y no te repugnan y se lo echas en cara, sino que les sigues el juego, también eres una mierda de persona. Si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
+Si como director de juego o jugador vas a hacer chistes sobre estas duras situaciones que se plantean, te vas a regodear en ellas o buscas disfrutar de ellas más allá del simple juego de rol, que sepas que era una mierda de persona y que te deseo lo peor. Si ves estos comportamientos en tu mesa y no te repugnan y se lo echas en cara, sino que les sigues el juego, también eres una mierda de persona. Por último, si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
 
 ### Romanceo y amistad
 
-Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ debería ser otro tema a tratar de forma sería. Estamos interpretando a menores con todo lo que ello ética, moral y legalmente supone. Está claro que tu PJ puede tener un crush por su actor o actriz favorita, por alguien de su clase, etc. pero no debería ir más allá del simple "el DJ te dé un aspecto divertido cuando tu amor platónico está cerca". 
+Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ debería ser otro tema a tratar de forma sería. Estamos interpretando a menores con todo lo que ello ética, moral y legalmente supone. Está claro que tu PJ puede tener un crush por su actor o actriz favorita, por alguien de su clase, etc. pero no debería ir más allá del simple «el DJ te dé un aspecto divertido cuando tu amor platónico está cerca». 
 
 Creo que en lugar del tema del romance puedes optar por llevar temas de amistad. Un parte importante de la ambientación trabaja el tema de la amistad, de amigas para siempre, BBF y creo que puede ser una idea diferente y alternativa al romanceo y que puede dar mucho juego y diversión.  
 
@@ -142,11 +142,11 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Wesker By [MonkeyMu](https://www.deviantart.com/monkeymu/art/Wesker-300376367) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
 * Dorcha By [sokoistrying](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 *Che In Dublin Docklands - Street Art And Graffiti por [William Murphy](https://www.flickr.com/photos/infomatique/4673901682) Creative Commons Attribution-ShareAlike 2.0 Generic License
-* [Raimond Spekking](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg) Creative Commons Attribution-Share Alike 4.0 International license
+* [Raymond Spekking](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg) Creative Commons Attribution-Share Alike 4.0 International license
 * Feria del Barrio del Pilar 2017 por [Gordon Dionne](https://www.flickr.com/photos/myprofe/37918844252/) Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license
 * Blood By [Mephisto123456789](https://www.deviantart.com/mephisto123456789/art/Blood-880245401) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
-* Vampire -edited- By [Valentinepsycho](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908) Creative Commons Attribution-ShareAlike 3.0 License
-* GRAFFITI - DENVER, COLORADO 08 por [Trip & Queball with PUNKassPHOTOS](https://www.flickr.com/photos/punkassphotos/3351954588/) Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic Licenses
+* Vampire —edited— By [Valentinepsycho](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908) Creative Commons Attribution-ShareAlike 3.0 License
+* GRAFFITI - DENVER, COLORADO 08 por [Trip & Queball with PUNKassPHOTOS](https://www.flickr.com/photos/punkassphotos/3351954588/) Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 
 \sp
 
