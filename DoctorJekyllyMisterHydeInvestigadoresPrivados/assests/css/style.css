@@ -1,0 +1,189 @@
+
+:root {
+  --padding: 65px;
+  --main-font: "Open Sans", serif;
+  --title-font: "Smythe", serif;
+  --main-color: black;
+}
+
+*, html {
+  scroll-behavior: smooth !important;
+  font-family: var(--main-font);
+  font-size: 20px;
+}
+
+section {
+  padding-top: var(--padding);
+}
+
+section > * {
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--title-font);
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.7em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+a, a:visited {
+  color: var(--main-color);
+}
+
+/* Portada */
+section:first-of-type {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+/* Interiores */
+section:nth-of-type(2) {
+  height: 100vh;
+}
+
+section:nth-of-type(12) {
+  height: 100vh;
+}
+
+/* Contraportada */
+section:last-of-type {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+}
+
+/* Indice */
+.likeH1,
+.likeH2,
+.likeH3 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 3px 0;
+  text-decoration: none;
+  font-size: 1.1em;
+  max-height: 30px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis; 
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
+.likeH1 span, .likeH2 span, .likeH3 span {
+  display: none;
+  float: right;
+  margin-right: 5px;
+}
+
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 2;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: var(--title-font);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--color-bic);
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 2.5em;
+}
+
+.saltopagina.odd:after {
+  left: 10px;
+  right: auto;
+}
+
+@media screen {
+  .saltopagina { display: block; height: 0; overflow: hidden; }
+
+  section:nth-of-type(2),
+  section:nth-of-type(12) {
+    display: none;
+  }
+}
+
+
+@media print {
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none;
+  }
+
+  .saltopagina + h2,
+  .saltopagina + h3 {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    padding: 0;
+    margin: 0px;
+    opacity: 1; 
+    position: relative;
+  }
+
+  section .saltopagina + * {
+    padding-top: var(--padding);
+  }
+
+  .likeH1 span,
+  .likeH2 span,
+  .likeH3 span {
+    display: block;
+  }
+}

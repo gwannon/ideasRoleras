@@ -115,6 +115,8 @@ Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro mé
   * xxx
 * **Capacidad de recuperación:** X
 
+\sp
+
 ## Mister Hyde
 
 xxx
