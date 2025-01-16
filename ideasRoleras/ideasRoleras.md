@@ -266,11 +266,15 @@ Lo más importante será la pelea final donde tendrás que esquivar sus ataques,
 
 Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
 
+\saltocolumna
+
+### Puteando al Doctor Jekyll y Mister Hyde
+
+Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
+
 ### Repartidor/a de pizza en un dungeon.
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
-
-\saltocolumna
 
 ### RRHH en un Dungeon.
 
