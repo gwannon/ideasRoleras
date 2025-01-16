@@ -8,6 +8,16 @@ Como ocupan el mismo cuerpo tendrán que trabajar en los casos dejándose notas 
 
 ***
 
+# La historia de la agencia Hyde & Jekyll
+
+xxx
+
+## Preludio
+
+xxx
+
+***
+
 # Las reglas
 
 xxx
@@ -88,6 +98,10 @@ Aquí tienes las fichas de personajes iniciales. xxx
 
 ## Doctor Jekyll
 
+xxx
+
+Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas. xxx
+
 * **Aspectos**
   * **Concepto principal:** xxx
   * **Complicación:** xxx
@@ -102,6 +116,10 @@ Aquí tienes las fichas de personajes iniciales. xxx
 * **Capacidad de recuperación:** X
 
 ## Mister Hyde
+
+xxx
+
+Edward es puro instinto animal. Los olores, los xxx
 
 * **Aspectos**
   * **Concepto principal:** xxx
@@ -125,3 +143,19 @@ xxx
 ## Atribuciones
 
 xxx
+
+***
+
+&nbsp;
+
+***
+
+Doctor Jekyll y Mister Hyde: Investigadores privados __para Fate Acelerado__
+
+xxx
+
+* xxx
+* xxx
+* xxx
+
+Creado por [Gwannon](https://linktr.ee/gwannon)
