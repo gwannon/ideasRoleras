@@ -36,7 +36,7 @@ La arena y la tecnología se llevan muy mal, así que habría reglas de como la 
 [Imagen 2](https://www.deviantart.com/rowye/art/Conspiracy-Theories-753992795)
 [Imagen 3](https://www.deviantart.com/thefearmaster/art/Giza-776180932)
 
-El diseño del libro debería ser mezcla del libro de los muertos de La momia, rollo planchas de metal con grabados y jeroglíficos resaltados en neón, además de botones y circuiteria. Bordes externos de las hojas con el nombre de la sección en cartuchos y los bordes internos de las hojas con pesadas bisagras metálicas.
+El diseño del libro debería ser mezcla del libro de los muertos de La momia, rollo planchas de metal con grabados y jeroglíficos resaltados en neón, además de botones y circuitería. Bordes externos de las hojas con el nombre de la sección en cartuchos y los bordes internos de las hojas con pesadas bisagras metálicas.
 
 ### Circunnavegación de un mundo medieval fantástico
 
@@ -180,6 +180,8 @@ Una campaña sería de agentes secretos contra organización mundial que busca d
 * **Flint, agente secreto**
 * **Eggsy de Kingsman** y todos esos superagentes adolescentes como Cody Banks
 
+\saltocolumna
+
 \saltopagina
 
 \sincolumna
@@ -202,6 +204,20 @@ Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew V
 
 Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Heroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
 
+### Graffiti World
+
+Sería una campaña donde juegas con grafitis. Una gran nada blanca (el empleado de mantenimiento que está tapando los grafitis de las paredes de un edificio abandonado con pintura blanca) ha acabado con tu mural/pueblo y te lanzas a la aventura de pararlo.
+
+Te irás moviendo por diferentes zonas/murales y viviendo aventuras en casa sitio. Cada tipo de mural tendría su propio sabor, desde los fieros grafitis del mural activista, hasta los intelectuales y finos del artístico o el de rollo más "Street Art".
+
+Habría rencillas entre los diferentes murales, guerras y los PJ deberán arreglarlos.
+
+La aventura trataría de averiguar qué pasa y encontrar al más viejo de los grafitis y saber qué pasa. Él les dirá que esto ya ha pasado antes. Solo pueden hacer el mural perfecto y llamar la atención de los humanos que pasan delante de ellos todos los días y convencerles de que luchen porque el ayuntamiento no destruya su mundo.
+
+Habría una religión de los grafiteros como seres creadores que hace años que no se aparecen. Quizás hayan muerto o quizás se hayan olvidado de los murales.
+
+Tendría una mezcla de Trolls 2, Tron y La historia interminable.
+
 ### Mad men RPG
 
 Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
@@ -222,6 +238,8 @@ Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojue
 
 Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
 
+\saltopagina
+
 ### Planilandia RPG
 
 Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
@@ -240,8 +258,6 @@ por [Mondriter](https://mastodon.social/@Moonrider_acme)
 
 Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando su partida llama a PNJ S.A. para que le suministren PNJ. 
 
-\saltopagina
-
 Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
 
 Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
@@ -253,6 +269,8 @@ Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mis
 ### Repartidor/a de pizza en un dungeon.
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
+
+\saltocolumna
 
 ### RRHH en un Dungeon.
 
@@ -269,8 +287,6 @@ Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y c
 ### Top secret!
 
 Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
-
-\saltocolumna
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
 
@@ -298,13 +314,9 @@ Emborracharse, pelear y lanzar hechizos estando borracho y reglas de resacas. Co
 
 Siguiendo el tópico del troll de debajo del puente, sería interesante un sistema genérico de creación de encuentros en puentes. Se definiría el tipo de puente, el guardián que lo cuida y la prueba que impone.
 
-Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un cocinero y tienes que comerte todo lo que cocine. Pero puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
+Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un cocinero y tienes que comerte todo lo que cocine. 
 
-### Si algún día viajas al pasado no toques nada
-
-Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
-
-O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+Pero también puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
 
 \saltocolumna
 
@@ -332,10 +344,31 @@ Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya 
 
 \concolumna
 
+### En el Polo Norte
+
+Tabla de generación de aventuras aleatorias centradas en una estación polar. Una tabla para un objeto o persona, otra tabla para quien lo ha llevado al polo y una última tabla donde se determina el objetivo o el porqué del objeto o persona. Luego tocaría darle un poco de sentido y tendríamos cosas.
+
+* Aparece un casco de conquistador español, que dejaron los alienígenas porque montaban combates de gladiadores entre personas de distintas épocas.
+* Aparece un cuerpo congelado de un miembro de la estación polar, el cuerpo viene del futuro enviado por ellos mismos para avisarles de una desgracia.
+
 ### Los 7 misterios
 
 > Se dice que en todos los institutos del mundo existen 7 misterios sin resolver … Y el Furinkan no es una excepción. _Ranma 1/2 - Capítulo 328 - Rumiko Takahashi_
 
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
 
+### Si algún día viajas al pasado no toques nada
+
+Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
+
+O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
 \saltocolumna
+
+\saltopagina
+
+\sincolumna
+
+## En desarrollo
+
+\concolumna
