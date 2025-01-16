@@ -33,7 +33,7 @@ $html = preg_replace_callback("/<p>\|([a-zA-Z]*)\.html\|<\/p>/", function($match
 
 $html = str_replace("<hr />", "<div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "<div class=\"saltopagina\"></div>", $html);
-$html = str_replace("</h1>", "<span></span></h1>\n<div class=\"saltopagina\"></div>", $html); 
+$html = str_replace("</h1>", "<span></span></h1>", $html); 
 $html = str_replace("<table>", "<div><table>", $html); 
 $html = str_replace("</table>", "</table></div>", $html); 
 

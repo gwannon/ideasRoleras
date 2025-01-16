@@ -1,15 +1,24 @@
 
 :root {
   --padding: 65px;
-  --main-font: "Open Sans", serif;
+  --main-font: "Baskervville", serif;
   --title-font: "Smythe", serif;
   --main-color: black;
+  --bgimage: url(../images/old-paper-texture-background.jpg);
 }
 
 *, html {
   scroll-behavior: smooth !important;
   font-family: var(--main-font);
-  font-size: 20px;
+  font-size: 22px;
+}
+
+body {
+  background: #fff var(--bgimage) repeat-y top center;
+  background-size: contain;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 800px;
 }
 
 section {
@@ -24,11 +33,17 @@ section > * {
 
 h1, h2, h3, h4 {
   font-family: var(--title-font);
-  font-size: 2em;
+  font-size: 2.5em;
+  font-weight: 400;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 0px;
 }
 
 h2 {
-  font-size: 1.7em;
+  font-size: 2em;
 }
 
 h3 {
@@ -45,30 +60,44 @@ a, a:visited {
 
 /* Portada */
 section:first-of-type {
+  background: #fff url(../images/contraportada.jpg) repeat-y top center;
+  background-size: contain;
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
 /* Interiores */
 section:nth-of-type(2) {
+  /*background-color: green;*/
   height: 100vh;
+  box-sizing: border-box;
 }
 
 section:nth-of-type(12) {
   height: 100vh;
+  /*background-color: green;*/
+  box-sizing: border-box;
+}
+
+section:nth-of-type(12) > div.saltopagina {
+  display: none;
 }
 
 /* Contraportada */
 section:last-of-type {
+  background: #fff url(../images/contraportada.jpg) repeat-y top center;
+  background-size: contain;
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
@@ -102,7 +131,6 @@ section:last-of-type {
   margin-right: 5px;
 }
 
-
 /* Paginación */
 @counter-style style {
   system: numeric;
@@ -118,7 +146,7 @@ body {
 }
 
 .saltopagina:after {
-  --size: 30px;
+  --size: 20px;
   font-family: var(--title-font);
   display: flex;
   justify-content: center;
@@ -132,7 +160,7 @@ body {
   height: var(--size);
   z-index: 10;
   opacity: 1;
-  font-size: 2.5em;
+  font-size: 1.5em;
 }
 
 .saltopagina.odd:after {
@@ -186,4 +214,106 @@ body {
   .likeH3 span {
     display: block;
   }
+}
+
+/* Propio del libro ----- */
+/* ---------------------- */
+section:first-of-type {
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 40px;
+    margin: 0;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}
+
+section:last-of-type {
+  box-sizing: border-box;
+  padding: 40px;
+  margin: 0;
+  position: relative;
+}
+
+section:first-of-type:before,
+section:last-of-type:before {
+  content: "";
+  display: block;
+  border: 5px solid #836f39;
+  width: calc(100% - 30px);
+  height: calc(100% - 30px);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+section:first-of-type:after,
+section:last-of-type:after {
+  content: "";
+  display: block;
+  border: 10px solid #836f39;
+  width: calc(100% - 60px);
+  height: calc(100% - 60px);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+section:first-of-type *,
+section:last-of-type * {
+  color: #836f39;
+}
+
+section:last-of-type > p {
+  font-family: var(--title-font);
+  font-size: 1.5em;
+}
+
+section:last-of-type > p * {
+  font-size: inherit;
+  font-family: var(--title-font);
+}
+
+section:first-of-type h1 {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 3.6em;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, .3), 1px 0px 0px rgba(255, 255, 255, .3), 0px -1px 0px rgba(0, 0, 0, .7), -1px 0px 0px rgba(0, 0, 0, .7);
+}
+
+section:first-of-type h2 {
+  padding: 20px 0 0 0;
+  margin: 0;
+  text-align: center;
+  font-size: 2.5em;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, .3), 1px 0px 0px rgba(255, 255, 255, .3), 0px -1px 0px rgba(0, 0, 0, .7), -1px 0px 0px rgba(0, 0, 0, .7);
+}
+
+section:first-of-type img:first-of-type {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  width: 150px;
+  padding: 0;
+  margin: 0;
+  filter: drop-shadow(0px 0px 4px #000);
+}
+
+section:first-of-type img:nth-of-type(2) {
+  filter: drop-shadow(0px 0px 4px #000);
+}
+
+section:nth-of-type(2) {
+  position: relative;
+}
+
+section:nth-of-type(2) img:first-of-type {
+  position: absolute;
+  top: 25%;
+  right: calc(50% - 150px);
+  width: 300px;
+  padding: 0;
+  margin: 0;
+  filter: drop-shadow(0px 8px 4px #000);
 }

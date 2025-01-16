@@ -305,3 +305,5 @@ Heliopolis
 maglev
 Utterson
 Fate
+aopsan
+juicy_fish

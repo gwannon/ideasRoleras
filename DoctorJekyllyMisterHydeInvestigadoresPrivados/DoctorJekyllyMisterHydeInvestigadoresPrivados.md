@@ -1,6 +1,6 @@
 # Doctor Jekyll y Mister Hyde: Investigadores privados
 
-"Doctor Jekyll y Mister Hyde: Investigadores privados" es un juego de rol para Fate Acelerado para un director de juego y dos jugadores, pero solo un jugador al mismo. 
+«Doctor Jekyll y Mister Hyde: Investigadores privados» es un juego de rol para Fate Acelerado para un director de juego y dos jugadores, pero solo un jugador al mismo. 
 
 Tras solventar sus diferencias, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano para el abogado y amigo de Doctor Jekyll, Gabriel Utterson. 
 
@@ -39,6 +39,8 @@ Si en partida no hubiera tiempo para escribir el diario, la personalidad que sal
 ## Compartiendo puntos de destino
 
 xxx
+
+\sp
 
 ## Cómo resolver conflicto entre personajes
 
@@ -146,18 +148,21 @@ xxx
 
 xxx
 
+* Hojas interiores por [aopsan](https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm)
+* Portada y contraportada [textura](https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up)
+* Registro de préstamos de [allthatsinteresting.com](https://allthatsinteresting.com/worcester-massachusetts-overdue-library-book)
+* Lupa portada por [juicy_fish](https://www.freepik.com/free-vector/magnifying-glasses-outline-style_255854102.htm)
+
 ***
 
 &nbsp;
 
 ***
 
-Doctor Jekyll y Mister Hyde: Investigadores privados __para Fate Acelerado__
+«Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para _Fate Acelerado_ para jugar un director de juego y dos jugadores, pero solo un jugador al mismo tiempo, ya que interpretarán al Doctor Jekyll y Mister Hyde mientras resuelven crímenes en un Londres Victoriano.
 
-xxx
+Viene con reglas para jugar con el Doctor Jekyll y Mister Hyde y su extraña relación. Incluye 3 casos listos para jugarse.
 
-* xxx
-* xxx
-* xxx
+Solo necesitas _Fate Acelerado_ para poder jugar con este suplemento.
 
 Creado por [Gwannon](https://linktr.ee/gwannon)
