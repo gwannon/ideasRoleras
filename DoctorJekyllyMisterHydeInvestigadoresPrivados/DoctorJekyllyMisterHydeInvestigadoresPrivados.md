@@ -1,8 +1,8 @@
 # Doctor Jekyll y Mister Hyde: Investigadores privados
 
-«Doctor Jekyll y Mister Hyde: Investigadores privados» es un juego de rol para Fate Acelerado para un director de juego y dos jugadores, pero solo un jugador al mismo. 
+«Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero solo un jugador al mismo. 
 
-Tras solventar sus diferencias, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano para el abogado y amigo de Doctor Jekyll, Gabriel Utterson. 
+Tras solventar sus diferencias, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación en Londres y se dedican a resolver crímenes en un Londres victoriano para el abogado y amigo de Doctor Jekyll, Gabriel Utterson. 
 
 Como ocupan el mismo cuerpo tendrán que trabajar en los casos dejándose notas entre sí con los avances en la investigación. De hecho la única comunicación entre jugadores debería ser esas notas. 
 
@@ -26,6 +26,29 @@ xxx
 
 xxx
 
+Las consecuencias y aspectos físicos como heridas y golpes pasan de un personaje a otro. Si Hyde recibe una herida escapando de unos maleantes, cuando se despierte Jekyll, se encontrará con la herida. Si Hyde se pasa con la bebida, al caer inconsciente, Jekyll se levantará con el aspecto «borracho» o con una «resaca de mil demonios».
+
+Las consecuencias mentales o sociales se mueven solamente entre Hyde y Jekyll, pero nunca al revés. De hecho,  la complicación principal de Jekyll es su «alter ego» y las fechorías y felonías que haga mientras manda Hyde. 
+
+xxx
+
+### Cambios corporales
+
+xxx
+
+Realmente no hay cambios físicos entre Jekyll y Hyde. No le creen músculos o se le afilan los dientes, su cuerpo es el mismo, pero hay sutiles cambios que los hacen diferentes, tan diferentes que muchas veces pasarán por personas distintas. Veamos algunos ejemplos:
+
+* Hyde es mejor en peleas, no porque sea más fuerte y rápido, sino porque su lado animal le hace más agresivo, decido y su umbral del dolor es mayor que el de Jekyll.
+
+\sp
+
+* Mientras que Jekyll siempre va estirado, limpio y con un traje impecable, Hyde va encorvado, con ropa que le tape la cara y sin preocuparse mucho de su higiene personal.
+* Mientras que como buen inglés Jekyll tiene una dicción perfecta y un tono de voz medio y amable, Hyde trata de compensar sus complejos con un tono de voz fuerte y xxx
+
+#### Haciéndote pasar por el otro
+
+Puede ser que Hyde necesite comportarse y parecerse a Jekyll y viceversa. 
+
 ### Recurrir a tu otro yo
 
 xxx
@@ -33,6 +56,12 @@ xxx
 ## Paso de una personalidad a otra
 
 xxx
+
+Por último, un jugador puede dejar deliberadamente salir a su otro yo al final de una escena. Simplemente cierra los ojos pone la mente en blanco y deja que entre su «alter ego».
+
+Si desea hacerlo dentro de una escena, deberá xxx. Imaginemos que Jekyll se ha metido en una pelea de taberna en White Chapel, puede interesarle invocar a Hyde para que le saque del apuro. Pero recuerda que muy posiblemente Hyde se despertará sin saber muy bien que pasa, aunque eso nunca le ha preocupado mucho.
+
+\sp
 
 ## Compartiendo información del caso
 
@@ -46,7 +75,7 @@ Si en partida no hubiera tiempo para escribir el diario, la personalidad que sal
 
 xxx
 
-## Cómo resolver conflicto entre personajes
+## Cómo resolver conflicto entre personajes y entre jugadores
 
 xxx
 
@@ -69,6 +98,10 @@ xxx
 xxx
 
 ## Scotland Yard
+
+xxx
+
+### Técnicas de investigación disponibles
 
 xxx
 
@@ -110,7 +143,7 @@ Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro mé
 
 * **Aspectos**
   * **Concepto principal:** xxx
-  * **Complicación:** xxx
+  * **Complicación:** Su «alter ego» Mister Hyde
   * xxx
   * xxx
   * xxx
@@ -129,9 +162,11 @@ xxx
 
 Edward es puro instinto animal. Los olores, los xxx
 
+Hyde sufre de un profundo complejo de inferioridad, debido a que se considera solo una parte de Jekyll. xxx
+
 * **Aspectos**
   * **Concepto principal:** xxx
-  * **Complicación:** xxx
+  * **Complicación:** Complejo de inferioridad
   * xxx
   * xxx
   * xxx
