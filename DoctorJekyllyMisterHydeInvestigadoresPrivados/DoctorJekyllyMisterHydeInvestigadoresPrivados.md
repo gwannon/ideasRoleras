@@ -26,6 +26,10 @@ xxx
 
 xxx
 
+### Recurrir a tu otro yo
+
+xxx
+
 ## Paso de una personalidad a otra
 
 xxx
@@ -36,11 +40,11 @@ xxx
 
 Si en partida no hubiera tiempo para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque y tendrá que seguir a partir de lo que él mismo sabía, sin la ayuda de lo que pudo averiguar Mister Hyde. 
 
+\sp
+
 ## Compartiendo puntos de destino
 
 xxx
-
-\sp
 
 ## Cómo resolver conflicto entre personajes
 
