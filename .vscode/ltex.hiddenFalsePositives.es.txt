@@ -51,3 +51,6 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpara crear algún tipo de explosivo o bomba de humo.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QQué Narices!!!!!\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QPero y ahora qué?\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen cualquier sitio menos en la partida.\\E$"}
+{"rule":"IR_PARTICIPIO_GERUNDIO","sentence":"^\\QMientras que Jekyll siempre va estirado, mostrando su porte de caballero, limpio y con un traje impecable, Hyde va encorvado, con ropa y sombrero que le tape la cara y sin preocuparse mucho de su higiene personal.\\E$"}

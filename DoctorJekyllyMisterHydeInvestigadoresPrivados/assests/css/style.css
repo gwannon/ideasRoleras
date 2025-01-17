@@ -33,29 +33,35 @@ section > * {
 
 h1, h2, h3, h4 {
   font-family: var(--title-font);
-  font-size: 2.5em;
+  font-size: 2.3em;
   font-weight: 400;
+  margin-bottom: 0px;
 }
 
 h1 {
   margin-top: 0;
   padding-top: 0px;
+  text-transform: uppercase;
 }
 
 h2 {
-  font-size: 1.9em;
+  font-size: 1.8em;
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1.4em;
 }
 
-h3 {
+h4 {
   font-size: 1.2em;
 }
 
 a, a:visited {
   color: var(--main-color);
+}
+
+section li {
+  margin-left: 20px;
 }
 
 /* Portada */
@@ -73,14 +79,12 @@ section:first-of-type {
 
 /* Interiores */
 section:nth-of-type(2) {
-  /*background-color: green;*/
   height: 100vh;
   box-sizing: border-box;
 }
 
 section:nth-of-type(12) {
   height: 100vh;
-  /*background-color: green;*/
   box-sizing: border-box;
 }
 
@@ -110,8 +114,8 @@ section:last-of-type {
   cursor: pointer;
   margin: 0 0 3px 0;
   text-decoration: none;
-  font-size: 1.1em;
-  max-height: 30px;
+  font-size: 1em;
+  max-height: 25px;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis; 
@@ -129,6 +133,17 @@ section:last-of-type {
   display: none;
   float: right;
   margin-right: 5px;
+}
+
+/* Imagenes */
+section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:nth-of-type(3) img, section:nth-of-type(12) img, section:last-of-type img) {
+  border: none;
+  max-width: 100%;
+  width: 100%;
+}
+
+p:has(img) {
+  margin-top: 0;
 }
 
 /* Paginación */
