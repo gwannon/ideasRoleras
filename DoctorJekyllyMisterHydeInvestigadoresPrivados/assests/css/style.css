@@ -70,7 +70,7 @@ section li {
 
 /* Portada */
 section:first-of-type {
-  background: #fff url(../images/contraportada.jpg) repeat-y top center;
+  background: #fff url(../images/portada.jpg) repeat-y top center;
   background-size: contain;
   height: 100vh;
   display: flex;

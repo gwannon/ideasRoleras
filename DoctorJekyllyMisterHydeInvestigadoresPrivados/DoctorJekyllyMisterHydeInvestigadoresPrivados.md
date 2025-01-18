@@ -46,7 +46,7 @@ xxx
 
 # Las reglas
 
-Este suplemento trae unas series de reglas extras presentadas en el manual de _Fate Acelerado_ que tienen como objetivo establecer las interacciones entre los dos personajes principales, Jekyll y Hyde.
+Este suplemento trae unas series de reglas extras presentadas en el manual de _Fate Acelerado_ ([reglas completas](https://goo.gl/9wF9SL)) que tienen como objetivo establecer las interacciones entre los dos personajes principales, Jekyll y Hyde.
 
 ## Dos personajes, un cuerpo
 
@@ -88,7 +88,7 @@ Lo que sí has de tener cuenta es que Jekyll tiene moral y ética y los actos de
 
 De hecho, la complicación principal de Jekyll es su «alter ego» y las fechorías y felonías que hace Hyde mientras controla su cuerpo.
 
-Eso no se da la contra, es muy difícil que Jekyll haga algo que pueda influir en social o mentalmente a Hyde de forma grave.
+Eso no se da la contra, es muy difícil que Jekyll haga algo que pueda influir social o mentalmente a Hyde de forma grave.
 
 Pensemos, por ejemplo, que Hyde ha secuestrado y ha torturado a un ladronzuelo para sacarle información. Al día siguiente Jekyll se despierta y ve al criminal atado a una silla, inconsciente, herido, ensangrentado y lleno de moratones. A discreción del máster, Jekyll tendrá que defenderse del shock de la brutalidad que ha hecho su contrapartida animal.
 
@@ -202,7 +202,13 @@ xxx
 
 ## Magia y ciencia
 
-xxx
+Las aventuras de Jekyll y Hyde se encuadran en un mundo como el nuestro, pero con ciertos toques de _Ciencia extraña_. Piensa que los propios protagonistas son fruto de un experimento científico fallido. 
+
+Mi recomendación sería que los inventos locos sean solo detalles que den color a las historias. Tal vez en determinado momento tengan que usar un coche que vaya el doble de rápido que un caballo o que un personaje explore las cloacas usando una linterna eléctrica mucho más potente que los quinqués o las antorchas. 
+
+Otra opción que podría quedarle bien a tus aventuras sería magia negra con exóticos componentes como maldiciones egipcias o hechizos de vudú. Como hemos visto antes, la magia debería ser muy sutil y solo detalles en la trama. Me refiero a villanos con joyas con poderes hipnóticos y venenos, pócimas somníferas y sueros de la verdad hechos con plantas exóticas de la selva o sacados de antiquísimos papiros egipcios perdidos.
+
+«El secreto de la pirámide» es un claro ejemplo de como aplicar la ciencia y magia en las aventuras. Son detalles divertidos y coloridos, pero no son el eje de las partidas. 
 
 ## Y si meto a Sherlock Holmes y al Doctor Watson
 
@@ -210,7 +216,11 @@ xxx
 
 Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quién es mejor detective.  
 
+\sp
+
 Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima.
+
+Y si te sientes creativo también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir.
 
 ***
 
@@ -326,7 +336,7 @@ Si juegas con este suplemento y tienes ideas y posibles mejoras, también puedes
 
 ## Gender flip
 
-En este suplemento hemos sido muy clásicos a la hora de determinar el género y la sexualidad de los protagonistas, pero tus jugadores son libres de dejar libre su imaginación y jugar con versiones femeninas, trans, no binarias de estos personajes clásicos.
+En este suplemento he sido muy clásico a la hora de determinar el género y la sexualidad de los protagonistas, pero tus jugadores son libres de dejar libre su imaginación y jugar con versiones femeninas, trans, no binarias de estos personajes clásicos.
 
 Doctore Jekyll y Miss Hyde es, por ejemplo, una versión perfectamente jugable de este suplemento. Puede tener giros y retos muy divertidos e interesantes. Por ejemplo, el tema de solucionar los cambios de vestuario cuando cambian de personalidad de masculina a femenina en plena y retrógrada época victoriana.
 
@@ -336,9 +346,11 @@ Este suplemento no fue pensado para jugar únicamente 1 máster y 1 jugador, por
 
 ## Conflictos entre jugadores
 
-La propia esencia de este suplemento puede llevar a conflictos entre jugadores por la propia naturaleza de las historias. Puede ser desesperante ser Jekyll y en vez de investigar un caso tengas que arreglar los problemas que cree Hyde durante su sesión y decidas fastidiarle y dejarle una sorpresita para cuando despierte. A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. 
+La propia esencia de este suplemento puede llevar a conflictos entre jugadores por la propia naturaleza de las historias. Puede ser desesperante ser Jekyll y en vez de investigar un caso tengas que arreglar los problemas que cree Hyde durante su sesión y decidas fastidiarle y dejarle una sorpresita para cuando despierte.
 
 \sp
+
+A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. 
 
 Como director debes vigilar esto y cortarlo. Puede ser divertido hacerse pequeñas bromas para fastidiar a tu «alter ego» que se resuelven interpretando unos minutos, pero si escala a fastidiarse todo el rato la partida acabará mal.
 
@@ -360,10 +372,6 @@ Si os ha gustado este suplemento podéis probar otros de mis proyectos para Fate
 [**Guía de Cazavampiros para niñas molonas**](https://cazavampiros.gwannon.com/pdf/) 
 
 El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
-
-\sp
-
-&nbsp;
 
 ***
 
