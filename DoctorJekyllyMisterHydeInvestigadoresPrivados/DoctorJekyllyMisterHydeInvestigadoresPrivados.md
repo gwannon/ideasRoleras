@@ -22,7 +22,7 @@ En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una pe
 
 Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
 
-En la novela de Junior desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado de por acabar con un enemigo del país.
+En la novela de Junior desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado de sus graves delitos por acabar con un enemigo del país.
 
 La historia continua con Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
 
@@ -32,15 +32,34 @@ Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: 
 
 ## Preludio
 
-xxx
+XXX
+
+Tras todos estos sucesos solo hay 3 personas que sepan el secreto de Jekyll y Hyde.
+
+* Gabriel John Utterson.
+* El ayuda de cámara de Jekyll, Mister Poole, al que un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
+* XXX
 
 ## El primer caso
 
-xxx
+XXX
 
 ## La creación de la agencia
 
-xxx
+Tras la exitosa resolución de su primer caso, que salió en las portadas de todos los periódicos de Londres, Utterson propuso a la extraña pareja, usando sus mejores técnicas de abogado,
+crear una agencia de detectives.
+
+Gabriel consideraba que está nueva actividad podría mantener a Hyde en este lado de la ley al ser uno de sus protectores y a Jekyll lejos de sus peligrosos experimentos.
+
+Cómo puedes comprobarse, no se equivocaba, ya que parece que hasta el día de hoy está treta ha funcionado como un reloj de cuco. Además, esperaba tener a un buen equipo de investigadores que le ayudara en sus pleitos y demandas a un coste muy barato.
+
+\sp
+
+Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia. Tras una larga discusión que ocupo montones de notas decidieron dejarlo al azar y la agencia se terminó llamando Hyde & Jekyll. 
+
+El día de la inauguración Utterson les regaló un cuadro pintado por el mismo en que se les ve a los dos investigando una escena de un crimen. Jekyll aparece mirando un mechón de pelo con una lupa, mientras que Hyde tan encorvado olisqueando unos restos de sangre como si fuera un sabueso de caza siguiendo el rastro de un zorro.
+
+Jekyll odia ese cuadro y trata de hacerlo desaparecer siempre que puede. Hyde, sin embargo, lo adora y muchas veces imita la pose de perro rastreador sobre todo cuando está con Utterson. Cada vez que Jekyll lo quita, ahí está Hyde para volver a ponerlo en la pared de la agencia.
 
 ***
 
@@ -56,7 +75,7 @@ Como DJ, tus dos personajes van a habitar el mismo cuerpo y, por tanto, cuando J
 
 Cuando el **personaje activo se duerma o se «deje caer», su jugador abandonará la mesa, y entrará el otro jugador** apareciendo la otra personalidad.
 
-En principio el cambio se da al irse a dormir, digamos que Jekyll es el sueño de Jekyll y Hyde la pesadilla de Jekyll.
+En principio el cambio se da al irse a dormir, digamos que Jekyll es el sueño de Hyde y Hyde la pesadilla de Jekyll.
 
 Los personajes pueden tratar de estar varios días sin dormir para no entregar el control a su otro yo. Pero cada 24 horas de privación del sueño a partir de las 48 primeras sube un nivel todas las dificultades y tiene el aspecto «muerto de sueño».
 
@@ -182,27 +201,59 @@ Las aventuras de Jekyll y Hyde transcurren alrededor de 1890, en plena era victo
 
 ## El Londres victoriano
 
-xxx
+XXX
 
 Otro punto interesante a tener en cuenta es que en estos años los primeros coches empiezan a circular, añadiendo más suciedad, ruido y polución a sus abarrotadas calles.
 
 ## La agencia Hyde & Jekyll
 
-xxx
+La agencia Hyde & Jekyll es una antigua sombrerería del barrio de Belgravia que Jekyll consiguió a muy buen precio. 
+
+Hyde prefería algo más cercano a, como dice él, la acción, en barrios más conflictivos como White Chapel o el East End. Sin embargo, Jekyll no podía consentir que se le relacionará con barrios de baja estofa. Además, sabía que las tabernas, los casinos ilegales y las salas de variedades cercanas serían una distracción constante para Hyde y una fuente de resacas al día siguiente para él.
+
+La sombrerería contaba con una tienda a pie de calle y luego un sótano mal ventilado donde trabajaba el sombrerero y sus ayudantes.
+
+La planta superior tiene una sala principal con un gran escaparate a la calle y la zona de venta que se ha convertido en una recepción con sillas donde esperan los clientes.
+
+\sp
+
+El almacén de la tienda ha sido reconvertido en un despacho donde hacen trabajo de investigación. Hay un mullido sofá que no pocas veces ha sido usado como cama improvisada donde se ha acostado Jekyll y se ha despertado Hyde y viceversa.
+
+Jekyll ha convertido el sótano, al que se accede por unas escaleras desde el despacho, en su laboratorio. Ha traído casi todo el equipamiento científico de su casa y así puede hacer sus investigaciones y pruebas en la agencia en vez de tener que ir hasta su casa.
 
 ## Scotland Yard
 
-xxx
+XXX
 
-### Técnicas de investigación disponibles
+### Inspector Newcomen
 
-xxx
+XXX
+
+### Técnicas de investigación forense disponibles
+
+Las técnicas de investigación forense que Scotland Yard disponía a finales del siglo XIX podían ser las más avanzadas de su época, pero quedan muy lejos de las actuales técnicas forenses que vemos en series como CSI. Así que conocer, aunque sea superficialmente, que podía averiguarse y que no usando los conocimientos forenses de la época es interesante para el desarrollo de tus aventuras. 
+
+
+* Las huellas dactilares tampoco era una prueba usada por la policía, pero si era conocido el concepto de huella dactilar y se jugaba con la posibilidad de que fueran únicas.
+* Los primeros perfiles psicológicos son elaborados en esta época, por ejemplo, para tratar de detener a Jack el destripador.
+* Las pruebas genéticas claramente no existían. Harán falta muchas décadas para que se hagan los primeros tests de ADN.
 
 \sp
+
+* La policía hacía análisis microscópicos de diferentes elementos como cabellos. Con esos análisis podían estimar el sexo y la edad del criminal. También podían estudiar las estrías de las balas y determinar que una arma de fuego había disparado o no una bala.
+* Las autopsias están a la orden del día en caso de muertes violentas y podían determinar con bastante fiabilidad las causas de la muerte y saber la hora del fallecimiento por el rigor mortis.
+* A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como identificar sustancias venenosas, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
+* Empiezan a haber estudio para poder distinguir la sangre de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.
+* Fotografía forense es rara, pero no extraña sobre todo en casos famosos, que atraían el interés del público.
+* Los retratos robot también son usados aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
+
+Una vez conocidos estos puntos principales nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. 
 
 ## Magia y ciencia
 
 Las aventuras de Jekyll y Hyde se encuadran en un mundo como el nuestro, pero con ciertos toques de _Ciencia extraña_. Piensa que los propios protagonistas son fruto de un experimento científico fallido. 
+
+\sp
 
 Mi recomendación sería que los inventos locos sean solo detalles que den color a las historias. Tal vez en determinado momento tengan que usar un coche que vaya el doble de rápido que un caballo o que un personaje explore las cloacas usando una linterna eléctrica mucho más potente que los quinqués o las antorchas. 
 
@@ -215,8 +266,6 @@ Otra opción que podría quedarle bien a tus aventuras sería magia negra con ex
 ¿Y por qué no? Ambas parejas comparten época y lugar, el Londres victoriano, y todos son detectives, con lo que la cooperación o el enfrentamiento es muy factible.
 
 Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quién es mejor detective.  
-
-\sp
 
 Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima.
 
@@ -234,7 +283,7 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 > El pánico corre por las calles de Londres ante la noticia de que un tigre siberiano ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición del tigre. Sea como sea, habrá que encontrarlo, detener a su ladrón y devolverlo al zoo.
 
-xxx
+XXX
 
 \sp
 
@@ -242,7 +291,7 @@ xxx
 
 > Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba su pala. Su esposa cree que no es un accidente y Scotland Yard no le ayuda.
 
-xxx
+XXX
 
 \sp
 
@@ -250,7 +299,7 @@ xxx
 
 > El viejo notario Stonewall ha aparecido muerto y lo curioso es que el arma homicida es un lingote de oro con una rosa impresa en su casa superior.
 
-xxx
+XXX
 
 ***
 
@@ -262,9 +311,9 @@ Tus jugadores también pueden crearse su propio personaje siguiendo las reglas d
 
 ## Doctor Henry Jekyll
 
-xxx
+XXX
 
-Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas. xxx
+Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas. XXX
 
 Como doctor, tiene un buen nivel de vida y el riñón bien cubierto, así que puede acceder sin problema a dinero en efectivo y a créditos si fuera necesario.
 
@@ -287,9 +336,9 @@ Como doctor, tiene un buen nivel de vida y el riñón bien cubierto, así que pu
 
 ## Mister Edward Hyde
 
-xxx
+XXX
 
-Edward es puro instinto animal. Los olores, los xxx
+Edward es puro instinto animal. Los olores, los XXX
 
 Otra de las características de la personalidad de Hyde es que es un hombre de acción y muchas veces se lanza sin pensar contra los obstáculos. Hace planes en segundos y los lleva a cabo sin pensar en las consecuencias. Si funcionan genial y si fallan pasa al siguiente plan. Lo importante es no parar de moverse.
 
