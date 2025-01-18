@@ -20,9 +20,9 @@ Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba el suicidio del d
 
 En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una personalidad a otra involuntariamente sin necesidad de la fórmula secreta. Tras descubrir que no puede replicar el compuesto químico que despertó a Hyde y que no puede controlar sus apariciones, decide suicidarse para acabar con sus problemas y castigar a Hyde que es perseguido por el asesinato sin sentido de Sir Danvers Carew y por el que acabará en el patíbulo si es atrapado.  
 
-Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
+Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson Junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A Junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
 
-En la novela de Junior desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado de sus graves delitos por acabar con un enemigo del país.
+En la novela de Junior se desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
 
 La historia continua con Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
 
@@ -34,15 +34,15 @@ Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: 
 
 XXX
 
+## El primer caso
+
+XXX
+
 Tras todos estos sucesos solo hay 3 personas que sepan el secreto de Jekyll y Hyde.
 
 * Gabriel John Utterson.
 * El ayuda de cámara de Jekyll, Mister Poole, al que un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
 * XXX
-
-## El primer caso
-
-XXX
 
 ## La creación de la agencia
 
