@@ -6,7 +6,7 @@ Tras solventar sus diferencias, el Doctor Jekyll y Mister Hyde han montado una a
 
 Investigar casos no es fácil cuando dos personalidades tan diferentes habitan el mismo cuerpo, pero han encontrado la forma de hacerlo.
 
-Tendrán que trabajar en los casos dejándose en un diario notas y mensajes con los avances en la investigación. De hecho la única comunicación entre jugadores sobre la partida deberían ser esas notas. 
+Tendrán que trabajar en los casos dejándose en un diario notas y mensajes con los avances en la investigación. De hecho, la única comunicación entre jugadores sobre la partida deberían ser esas notas. 
 
 \sp
 
@@ -40,7 +40,7 @@ Este suplemento trae unas series de reglas extras presentadas en el manual de _F
 
 ## Dos personajes, un cuerpo
 
-Cómo DJ, tus dos personajes van a habitar el mismo cuerpo y, por tanto, cuando Jekyll o Hyde están despiertos, su contrapartida está encerrado en lo más profundo de su mente sin saber nada de lo que pasa en el exterior. Para ello cada sesión deberás llevarla a uno solo de tus jugadores, mientras que el otro está fuera de la mesa, en su casa, viendo una peli, … en cualquier sitio menos en la partida.
+Como DJ, tus dos personajes van a habitar el mismo cuerpo y, por tanto, cuando Jekyll o Hyde están despiertos, su contrapartida está encerrado en lo más profundo de su mente sin saber nada de lo que pasa en el exterior. Para ello cada sesión deberás llevarla a uno solo de tus jugadores, mientras que el otro está fuera de la mesa, en su casa, viendo una peli, … en cualquier sitio menos en la partida.
 
 ### Paso de una personalidad a otra
 
@@ -52,11 +52,13 @@ Los personajes pueden tratar de estar varios días sin dormir para no entregar e
 
 #### Dejarse caer
 
-Un jugador puede dejar deliberadamente salir a su otro yo al final de una escena. Simplemente, cierra los ojos pone la mente en blanco y deja que entre su «alter ego».
+Un jugador puede dejar deliberadamente salir a su otro yo al final de una escena. Simplemente, cierra los ojos, pone la mente en blanco y deja que entre su «alter ego».
 
 \sp
 
-Si desea hacerlo dentro de una escena, puede hacerlo, pero deberá gastar un punto de destino que obtendrá automáticamente el otro yo al salir.
+Si desea hacerlo dentro de una escena, puede hacerlo, pero psicológicamente tiene efectos en ellos. Al hacer la transformación de una forma tan brusca están reconociendo que necesitan a su otro yo más de lo que les gustaría reconocer.
+
+Si Jekyll deja salir a Hyde de esta manera, está reconociendo que necesita a Hyde, su instinto animal, su brutalidad y su falta de ética y valores. Hyde aparece entonces con el aspecto temporal «desatado». Jekyll, por su parte, aparece con el aspecto «todo controlado» sabiendo que es mucho mejor que su brutal contrapartida y con mucha más confianza de la normal al saber que está al mando en esta extraña sociedad de dos.
 
 Esto representa el hecho de que en esta forma de ceder el control el otro recién activado tiene cierta mano ancha para hacer lo que desee sin pensar en las consecuencias. 
 
@@ -66,21 +68,30 @@ Pero recuerda que muy posiblemente Hyde se despertará sin saber muy bien qué p
 
 ### Consecuencias
 
-Las consecuencias y aspectos físicos como heridas y golpes pasan de un personaje a otro. Si Jekyll recibe una herida escapando de unos maleantes, cuando Hyde se despierte, se encontrará con la herida limpiada y suturada por el doctor. Si Hyde se pasa con la bebida, al caer inconsciente, Jekyll se levantará con el aspecto «borracho» o con una «resaca de mil demonios».
-
-Las consecuencias mentales o sociales se mueven solamente entre Hyde y Jekyll, pero nunca al revés. De hecho, la complicación principal de Jekyll es su «alter ego» y las fechorías y felonías que hace Hyde mientras controla su cuerpo.
-
-Pensemos, por ejemplo, xxx
+Las **consecuencias y aspectos físicos como heridas y golpes pasan de un personaje a otro**. Si Jekyll recibe una herida escapando de unos maleantes, cuando Hyde se despierte, se encontrará con la herida limpiada y suturada por el doctor. Si Hyde se pasa con la bebida, al caer inconsciente, Jekyll se levantará con el aspecto «borracho» o con una «resaca de mil demonios».
 
 \sp
 
+Las **consecuencias mentales o sociales no se mueven entre Hyde y Jekyll**. Imaginemos que Jekyll adquiere una severa aracnofobia. Al despertar, Hyde podría juguetear con una tarántula sin ningún temor.
+
+Lo que sí has de tener cuenta es que Jekyll tiene moral y ética y los actos de Hyde le pueden afectar y provocarle consecuencias mentales. Hyde tiende a crear situaciones que traumatizan a Jekyll cuando se despierta. 
+
+De hecho, la complicación principal de Jekyll es su «alter ego» y las fechorías y felonías que hace Hyde mientras controla su cuerpo.
+
+Eso no se da la contra, es muy difícil que Jekyll haga algo que pueda influir en social o mentalmente a Hyde de forma grave.
+
+Pensemos, por ejemplo, que Hyde ha secuestrado y ha torturado a un ladronzuelo para sacarle información. Al día siguiente Jekyll se despierta y ve al criminal atado a una silla, inconsciente, herido, ensangrentado y lleno de moratones. A discreción del máster, Jekyll tendrá que defenderse del shock de la brutalidad que ha hecho su contrapartida animal.
+
 ### Cambios corporales
 
-Realmente no hay cambios físicos entre Jekyll y Hyde. No le creen músculos o se le afilan los dientes. Su cuerpo es el mismo, pero hay sutiles cambios que los hacen diferentes, tan diferentes que muchas veces pasarán por personas distintas. Veamos algunos ejemplos:
+Realmente **no hay cambios físicos entre Jekyll y Hyde**. No le creen músculos o se le afilan los dientes. Su cuerpo es el mismo, pero hay sutiles cambios que los hacen diferentes, tan diferentes que muchas veces pasarán por personas distintas. Veamos algunos ejemplos:
 
-* Hyde es mejor en peleas, no porque sea más fuerte y rápido, sino porque su lado animal le hace más agresivo y decidido y su umbral del dolor es mayor que el de Jekyll.
 * Mientras que Jekyll siempre va estirado, mostrando su porte de caballero, limpio y con un traje impecable, Hyde va encorvado, con ropa y sombrero que le tape la cara y sin preocuparse mucho de su higiene personal.
-* Mientras que como buen inglés Jekyll tiene una dicción perfecta y un tono de voz medio y amable, Hyde trata de compensar sus complejos con un tono de voz grave y hablando muy alto casi a gritos.
+
+\sp
+
+* Mientras que como buen inglés Jekyll tiene una dicción perfecta y un tono de voz medio y amable, Hyde trata de compensar sus complejos con un tono de voz grave y hablando muy alto, casi a gritos.
+* Hyde es mejor en peleas, no porque sea más fuerte y rápido, sino porque su lado animal le hace más agresivo y decidido y su umbral del dolor es mayor que el de Jekyll.
 
 Cualquier persona tendrá que pasar una **tirada Buena (+2) para sospechar que Hyde y Jekyll son la misma persona** y que nunca se les ve juntos.
 
@@ -88,33 +99,35 @@ Cualquier persona tendrá que pasar una **tirada Buena (+2) para sospechar que H
 
 Puede ser que en determinados momentos de los casos Hyde necesite comportarse y parecerse a Jekyll y viceversa. 
 
-Si desean hacerse pasar por su otro yo, deberán hacerlo al estilo de su «alter ego», es decir que si Hyde quiere hacerse pasar por Jekyll en un hospital deberá hacer al estilo Cauto, mientras que si Jekyll quiere dar la nota en una taberna, tendrá que ir al estilo Llamativo contra su naturaleza reservada.
+Si desean hacerse pasar por su otro yo, **deberán hacerlo al estilo de su «alter ego»**, es decir que si Hyde quiere hacerse pasar por Jekyll en un hospital deberá hacer al estilo Cauto, mientras que si Jekyll quiere dar la nota en una taberna, tendrá que ir al estilo Llamativo contra su naturaleza reservada.
 
-En cualquier caso el director de juego, tiene la última palabra sobre el estilo a elegir.
-
-\sp
+En cualquier caso, el director de juego, tiene la última palabra sobre el estilo a elegir que tomaría el otro yo en esa situación. También podéis mandar un mensaje y preguntar al otro jugador.
 
 ## Compartiendo información del caso
 
-xxx
+Cuando investigan un caso, Jekyll y Hyde no pueden discutir las pistas descubiertas mientras se toman un té con pastas. Lo que hacen es dejarse notas y llevar un diario del caso donde escriben las cosas que han hecho y la nueva información obtenida para que la lea su otro yo al salir. 
 
-Si en partida no hubiera tiempo para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque y tendrá que seguir a partir de lo que él mismo sabía, sin la ayuda de lo que pudo averiguar Mister Hyde.
+\sp
+
+Los jugadores deben ir escribiendo las notas mientras juegan y lo que haya en las notas y el diario real es lo que habrá en partida. Tampoco deben extenderse mucho, apuntes rápidos de una frase como mucho. El director de juego puede extender esas frases con más información, como si el autor hubiera escrito mucho más y con más detalle, pero no puede contar cosas que no estén escritas.
+
+Si en partida no hubiera tiempo o posibilidad para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque. Tendrá que seguir a partir de lo que él mismo sabía y de los últimos apuntes escritos por Hyde. Jekyll no contará con la ventaja de saber que es lo que pudo averiguar desde la última nota hasta ahora.
 
 ### El diario del caso
 
 El diario del caso es un objeto real dentro de las aventuras que normalmente irá con ellos y que puede ser usado en su contra. Un criminal podría encontrarlo al registrar a Jekyll o podrían robárselo a Hyde durante una de sus borracheras.
 
-Si algún PNJ tiene acceso al diario alguna de las notas sueltas podrá leerlo y hacer uso de esa información para su provecho.
+Si algún PNJ tiene acceso al diario o alguna de las notas sueltas, podrá leerlas y hacer uso de esa información para su provecho.
 
 Si ellos lo pierden, ya no podrán acceder a su contenido y tendrán que empezar un nuevo diario, con la info que recuerden.
 
 Podrían tratar de hacer copias de seguridad o encriptarlo, pero entonces deberían hacerlas ellos mismos como jugadores sobre sus notas.
 
+\sp
+
 ### Otras formas de comunicarse
 
-En este punto entra ya la creatividad de tus jugadores, quizás Jekyll se pinte la frente con carboncillo con el nombre del asesino o Hyde pague a un pilluelo una libra para que le pegue una parada la próxima vez que le vea y le grite una hora y un lugar.
-
-\sp
+En este punto entra ya la creatividad de tus jugadores, quizás Jekyll se pinte en la frente con carboncillo el nombre del asesino o Hyde pague a un pilluelo una libra para que le pegue una parada la próxima vez que le vea y le grite una hora y un lugar.
 
 Puede ser un punto divertido que se fastidien de esa manera, pero deberás controlar que no se les vaya de las manos.
 
@@ -126,15 +139,17 @@ Pongamos que Jekyll tiene 5 puntos Fate y una capacidad de recuperación 3. Se v
 
 Esto trata de reflejar que el trabajo llevado a cabo y las ventajas conseguidas por un jugador investigando permanece de cierta forma en la nueva personalidad.
 
-## Cómo resolver conflicto entre personajes y entre jugadores
+## Cómo resolver conflicto entre personajes
 
 Jekyll y Hyde por la misma naturaleza de su historia van a tener conflictos. Las formas de abordar los casos deberían ser diametralmente distintas, mientras que Jekyll tiene un punto de vista científico y analítico, Hyde saldrá a la calle sacar respuestas rompiendo dientes.
 
-Puede pasar que algún momento una acción de uno interfiera en las de otro. Tal vez hayan interrogado al mismo testigo cada uno a su estilo.
-
-xxx
-
 \sp
+
+Puede pasar que algún momento una acción de uno interfiera en las de otro, sobre todo si hay fallos en la transmisión de la información entre personalidades.
+
+Tal vez hayan interrogado al mismo testigo cada uno a su estilo. Primero le interrogo Jekyll y fue bastante agradable prometiéndole protección policial y algo de dinero. Tras un buen rato le saco un nombre y una dirección. Más tarde apareció Hyde gritando y amenazando al testigo de que va a hacer su vida un infierno. Hyde no solo se enfrenta al aguante del testigo, también a las promesas que le haya hecho Jekyll, lo cual complica el interrogatorio. 
+
+En esta situación, si el segundo jugador usa un estilo diferente al primero, deberá pasar una dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador. Si usan el mismo estilo, algo que pocas veces pasará, solo deberá pasar la dificultad normal.
 
 ## Hitos y su uso
 
@@ -177,11 +192,11 @@ xxx
 
 ## Y si meto a Sherlock Holmes y al Doctor Watson
 
-¿Y por qué no? Ambas parejas comparten época y lugar, el Londres victoriano, y todos son detectives con lo que la cooperación o el enfrentamiento es muy factible.
+¿Y por qué no? Ambas parejas comparten época y lugar, el Londres victoriano, y todos son detectives, con lo que la cooperación o el enfrentamiento es muy factible.
 
 \sp
 
-Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quien es mejor detective.  
+Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quién es mejor detective.  
 
 Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima.
 
@@ -195,7 +210,7 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 ## El extraño caso del tigre desaparecido del Zoo
 
-> El pánico corre por las calles de Londres ante la noticia de que un tigre siberiano ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición del tigre. Sea como sea habrá que encontrarlo, detener a su ladrón y devolverlo al zoo.
+> El pánico corre por las calles de Londres ante la noticia de que un tigre siberiano ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición del tigre. Sea como sea, habrá que encontrarlo, detener a su ladrón y devolverlo al zoo.
 
 xxx
 
@@ -219,23 +234,31 @@ xxx
 
 # Doctor Jekyll y Mister Hyde
 
+Si quieres ponerte a jugar rápidamente, aquí tienes las hojas de personaje del Doctor Jekyll y Mister Hyde. Tus jugadores solo tendrán que rellenar cuando quieran un aspecto y una proeza que se han dejado vacías a propósito para permitir un poco de personalización.
+
+Tus jugadores también pueden crearse su propio personaje siguiendo las reglas de _Fate_ y teniendo en cuenta la idea universal que tenemos de estos personajes.
+
 ## Doctor Henry Jekyll
 
 xxx
 
 Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas. xxx
 
+Como doctor, tiene un buen nivel de vida y el riñón bien cubierto, así que puede acceder sin problema a dinero en efectivo y a créditos si fuera necesario.
+
+\sp
+
 * **Aspectos**
   * **Concepto principal:** xxx
   * **Complicación:** «Alter ego»
   * xxx
-  * xxx
-  * xxx
+  * Acomodado
+  * ..........................................................................................................
 * **Estilos:** Cauto Grande (+3), Furtivo Bueno (+2), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Mediocre (+0)
 * **Proezas**
   * xxx
   * xxx
-  * xxx
+  * ..........................................................................................................
 * **Capacidad de recuperación:** 3
 
 \sp
@@ -246,19 +269,25 @@ xxx
 
 Edward es puro instinto animal. Los olores, los xxx
 
-Hyde sufre de un profundo complejo de inferioridad, debido a que se considera solo una parte de Jekyll. xxx
+Otra de las características de la personalidad de Hyde es que es un hombre de acción y muchas veces se lanza sin pensar contra los obstáculos. Hace planes en segundos y los lleva a cabo sin pensar en las consecuencias. Si funcionan genial y si fallan pasa al siguiente plan. Lo importante es no parar de moverse.
+
+Hyde sufre de un profundo complejo de inferioridad, debido a que se considera solo una parte de Jekyll. Este complejo dicta gran parte de su vida, ya que trata todo el tiempo de autorreafirmarse con sus actos. Por ejemplo, Hyde necesita llamar la atención todo el tiempo porque piensa que si no le miran podría desaparecer para siempre en la mente Jekyll. 
+
+El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avance más que él en las investigaciones. Que Jekyll descubra pistas importantes puede hacer que Hyde se desquicie y empiece a actuar más violentamente para conseguir más pistas.
+
+\sp
 
 * **Aspectos**
   * **Concepto principal:** xxx
   * **Complicación:** Complejo de inferioridad
+  * Hombre de acción.
   * xxx
-  * xxx
-  * xxx
+  * ..........................................................................................................
 * **Estilos:** Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Normal (+1), Llamativo Bueno (+2), Rápido Bueno (+2), Vigoroso Grande (+3) 
 * **Proezas**
   * xxx
   * xxx
-  * xxx
+  * ..........................................................................................................
 * **Capacidad de recuperación:** 3
 
 ***
@@ -293,35 +322,36 @@ Doctore Jekyll y Miss Hyde es, por ejemplo, una versión perfectamente jugable d
 
 Este suplemento no fue pensado para jugar únicamente 1 máster y 1 jugador, porque la gracia está en el control de la información y como transmitirla de un PJ a otro y, por tanto, de un jugador a otro. Pero está claro que la opción de un solo jugador es viable siempre que esté sepa suplir en su interpretación esa falta de información que puede darse entre Jekyll y Hyde al investigar casos.
 
+## Conflictos entre jugadores
+
+La propia esencia de este suplemento puede llevar a conflictos entre jugadores por la propia naturaleza de las historias. Puede ser desesperante ser Jekyll y en vez de investigar un caso tengas que arreglar los problemas que cree Hyde durante su sesión y decidas fastidiarle y dejarle una sorpresita para cuando despierte. A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. 
+
+\sp
+
+Como director debes vigilar esto y cortarlo. Puede ser divertido hacerse pequeñas bromas para fastidiar a tu «alter ego» que se resuelven interpretando unos minutos, pero si escala a fastidiarse todo el rato la partida acabará mal.
+
 ## Atribuciones
 
 No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario o de dominio público. Si hay algún error en la atribución, hacédmelo saber para corregirlo.
 
-\sp
-
 * Hojas interiores por [aopsan](https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm)
 * Textura de portada y contraportada de [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up)
-* Registro de préstamos de [allthatsinteresting.com](https://allthatsinteresting.com/worcester-massachusetts-overdue-library-book)
 * Lupa portada por [juicy_fish](https://www.freepik.com/free-vector/magnifying-glasses-outline-style_255854102.htm)
-* Grabados interiores por [Charles Raymond Macauley](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/38/mode/2up)
+* Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
+* Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
+* Grabados interiores por [Charles Raymond Macauley](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/mode/2up)
 
 ## Otros proyectos que te pueden interesar
 
 Si os ha gustado este suplemento podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
 
-[![Guía de Cazavampiros para niñas molonas](./assests/images/cazavampiros.jpg "Guía de Cazavampiros para niñas molonas")](https://cazavampiros.gwannon.com/pdf/ "Guía de Cazavampiros para niñas molonas")
-
 [**Guía de Cazavampiros para niñas molonas**](https://cazavampiros.gwannon.com/pdf/) 
 
 El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
 
-\sp
-
-&nbsp;
-
 ***
 
-&nbsp;
+![Sello de la biblioteca](./assests/images/lostworldbeingac00doylrich_0004.png)
 
 ***
 
