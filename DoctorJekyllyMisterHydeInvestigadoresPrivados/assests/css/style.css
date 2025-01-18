@@ -337,7 +337,7 @@ section:nth-of-type(2) img:first-of-type {
   position: absolute;
   bottom: var(--padding);
   left: var(--padding);
-  width: 300px;
+  width: 400px;
   padding: 0;
   margin: 0;
 }

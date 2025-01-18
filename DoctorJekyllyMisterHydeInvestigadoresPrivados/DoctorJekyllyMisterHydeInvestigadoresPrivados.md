@@ -16,9 +16,19 @@ Tendrán que trabajar en los casos dejándose en un diario notas y mensajes con 
 
 # La historia de la agencia Hyde & Jekyll
 
-Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba xxx
+Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba el suicidio del doctor dejando una nota que acaba con la frase: «Pongo fin a la vida del infeliz Henry Jekyll». 
 
-Sin embargo, en este suplemento me he tomado la licencia de cambiar el final escrito por el maestro Robert Louis Stevenson.
+En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una personalidad a otra involuntariamente sin necesidad de la fórmula secreta. Tras descubrir que no puede replicar el compuesto químico que despertó a Hyde y que no puede controlar sus apariciones, decide suicidarse para acabar con sus problemas y castigar a Hyde que es perseguido por el asesinato sin sentido de Sir Danvers Carew y por el que acabará en el patíbulo si es atrapado.  
+
+Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
+
+En la novela de Junior desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado de por acabar con un enemigo del país.
+
+La historia continua con Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
+
+\sp
+
+Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: Investigadores privados».
 
 ## Preludio
 
@@ -44,11 +54,11 @@ Como DJ, tus dos personajes van a habitar el mismo cuerpo y, por tanto, cuando J
 
 ### Paso de una personalidad a otra
 
-Cuando el personaje activo se duerma o se «deje caer», su jugador abandonará la mesa, y entrará el otro jugador apareciendo la otra personalidad.
+Cuando el **personaje activo se duerma o se «deje caer», su jugador abandonará la mesa, y entrará el otro jugador** apareciendo la otra personalidad.
 
 En principio el cambio se da al irse a dormir, digamos que Jekyll es el sueño de Jekyll y Hyde la pesadilla de Jekyll.
 
-Los personajes pueden tratar de estar varios días sin dormir para no entregar el control a su otro yo. Pero cada 24 horas de privación del sueño a partir de las 24 primeras sube un nivel todas las dificultades y tiene el aspecto «muerto de sueño».
+Los personajes pueden tratar de estar varios días sin dormir para no entregar el control a su otro yo. Pero cada 24 horas de privación del sueño a partir de las 48 primeras sube un nivel todas las dificultades y tiene el aspecto «muerto de sueño».
 
 #### Dejarse caer
 
@@ -115,7 +125,7 @@ Si en partida no hubiera tiempo o posibilidad para escribir el diario, la person
 
 ### El diario del caso
 
-El diario del caso es un objeto real dentro de las aventuras que normalmente irá con ellos y que puede ser usado en su contra. Un criminal podría encontrarlo al registrar a Jekyll o podrían robárselo a Hyde durante una de sus borracheras.
+El diario del caso es **un objeto real dentro de las aventuras** que normalmente irá con ellos y que puede ser usado en su contra. Un criminal podría encontrarlo al registrar a Jekyll o podrían robárselo a Hyde durante una de sus borracheras.
 
 Si algún PNJ tiene acceso al diario o alguna de las notas sueltas, podrá leerlas y hacer uso de esa información para su provecho.
 
@@ -168,11 +178,13 @@ Por el contrario, Hyde como solo es la parte más animal, instintiva y malvada d
 
 # El Londres de 1890 y sus gentes
 
-xxx
+Las aventuras de Jekyll y Hyde transcurren alrededor de 1890, en plena era victoriana, en un Londres que es centro del mundo y donde lo mejor y lo peor de la sociedad inglesa conviven como pueden.
 
 ## El Londres victoriano
 
 xxx
+
+Otro punto interesante a tener en cuenta es que en estos años los primeros coches empiezan a circular, añadiendo más suciedad, ruido y polución a sus abarrotadas calles.
 
 ## La agencia Hyde & Jekyll
 
@@ -186,6 +198,8 @@ xxx
 
 xxx
 
+\sp
+
 ## Magia y ciencia
 
 xxx
@@ -193,8 +207,6 @@ xxx
 ## Y si meto a Sherlock Holmes y al Doctor Watson
 
 ¿Y por qué no? Ambas parejas comparten época y lugar, el Londres victoriano, y todos son detectives, con lo que la cooperación o el enfrentamiento es muy factible.
-
-\sp
 
 Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quién es mejor detective.  
 
@@ -249,16 +261,16 @@ Como doctor, tiene un buen nivel de vida y el riñón bien cubierto, así que pu
 \sp
 
 * **Aspectos**
-  * **Concepto principal:** xxx
+  * **Concepto principal:** Respetado doctor londinense 
   * **Complicación:** «Alter ego»
-  * xxx
+  * Muy buenos modales
   * Acomodado
-  * ..........................................................................................................
+  * .......................................................................................................... ..........................................................................................................
 * **Estilos:** Cauto Grande (+3), Furtivo Bueno (+2), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Mediocre (+0)
 * **Proezas**
-  * xxx
-  * xxx
-  * ..........................................................................................................
+  * **Genio científico:** Debido a que es un brillante científico, gana un +2 para Superar de modo Cauto cualquier problema que carácter forense y detectivesco como investigar pisadas, estudiar manchas de sangre u otras sustancias, hacer autopsias o buscar venenos.
+  * **Médico avezado:** Debido a que es un experimentado médico, una vez por partida puedo remendar a una persona o a sí mismo y quitarle una consecuencia física tipo heridas, fracturas, enfermedades, etc. sin importar su gravedad.
+  * .......................................................................................................... ..........................................................................................................
 * **Capacidad de recuperación:** 3
 
 \sp
@@ -278,16 +290,16 @@ El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avan
 \sp
 
 * **Aspectos**
-  * **Concepto principal:** xxx
+  * **Concepto principal:** Criatura horrible, violenta y sin remordimiento
   * **Complicación:** Complejo de inferioridad
-  * Hombre de acción.
-  * xxx
-  * ..........................................................................................................
+  * Hombre de acción
+  * Juerguista
+  * .......................................................................................................... ..........................................................................................................
 * **Estilos:** Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Normal (+1), Llamativo Bueno (+2), Rápido Bueno (+2), Vigoroso Grande (+3) 
 * **Proezas**
-  * xxx
-  * xxx
-  * ..........................................................................................................
+  * **Furia animal:** Debido a que puede recurrir a su bestia interior, gana un +2 para Atacar de modo Vigoroso cuando entra en un combate cuerpo a cuerpo.
+  * **Mirada animal:** Debido a que puede mostrar su terrible bestia interior a través de sus ojos, gana un +2 para Atacar de modo Llamativo cuando trata de intimidar y amedrentar a otras personas y animales.
+  * .......................................................................................................... ..........................................................................................................
 * **Capacidad de recuperación:** 3
 
 ***
@@ -348,6 +360,10 @@ Si os ha gustado este suplemento podéis probar otros de mis proyectos para Fate
 [**Guía de Cazavampiros para niñas molonas**](https://cazavampiros.gwannon.com/pdf/) 
 
 El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
+
+\sp
+
+&nbsp;
 
 ***
 
