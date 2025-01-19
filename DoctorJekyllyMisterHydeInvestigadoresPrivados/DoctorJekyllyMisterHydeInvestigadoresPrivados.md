@@ -42,19 +42,29 @@ Pero todavía hay un problema, Hyde es un fugitivo de la justicia. Por suerte, l
 
 A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Robert junior de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
 
-
 \sp
 
 ## El primer caso
 
-XXX
+El resto de la novela trata de un misterio que era un pastiche de un montón de casos de Sherlock Holmes, muy malamente hilvanados y a veces sin ningún tipo de sentido. Todo empieza cuando Gabriel Utterson pide ayuda a Jekyll con unas pruebas médicas para defender a un cliente suyo de acabar ahorcado.
 
-Tras todos estos sucesos solo hay 2 personas que sepan el secreto de Jekyll y Hyde.
+La trama se va enrollando rápidamente y Hyde y Jekyll terminan investigando una trama criminal muy loca y extravagante por todo Londres. Hay persecuciones en carruaje, carreras por tejados, peleas de taberna, autopsias ilegales, pruebas científicas fantasiosas y mensajes con extraños símbolos hindúes. Todos los tropos de las novelas de detectives apretujados en 200 páginas.
 
-* **Gabriel John Utterson.**
-* **Mister Poole.** El ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
+Lo interesante en la trama es que Mr. Utterson descubre que investigar crímenes hace que Jekyll y Hyde se centren y las personalidades sean más estables y puedan funcionar mejor.
+
+La novela acaba con la extraña pareja resolviendo el caso y librando de la cárcel al cliente de Utterson.
+
+Con ello dejan en ridículo al inspector Newcomen y con él a Scotland Yard, ya que había detenido y encarcelado a una persona inocente. Newcomen jura vengarse de Jekyll y Hyde y desde entonces será uno de sus mayores detractores.
+
+En el epílogo de la novela Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Robert junior de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
+
+Es interesante descartar que al final de la novela sigue habiendo solo había 2 personas que saben el secreto de Jekyll y Hyde.
+
+* **Gabriel John Utterson.** Que ya lo sabía desde la novela anterior.
 
 \sp
+
+* **Mister Poole.** El ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
 
 ## La creación de la agencia
 
@@ -215,9 +225,21 @@ Las aventuras de Jekyll y Hyde transcurren alrededor de 1890, en plena era victo
 
 ## El Londres victoriano
 
-XXX
+El Londres de las aventuras detectivescas de Hyde y Jekyll es el Londres victoriano que conocemos de libros, series y películas. Hablamos del Londres de los caballeros con sombrero y bastón que van a su club de caballeros a hablar de sus cosas caballeros, como Phileas Fogg de La vuelta al mundo en 80 días. También es el Londres de robos famosos y asesinatos misteriosos de Sherlock Holmes y el Doctor Watson. 
 
-Otro punto interesante a tener en cuenta es que en estos años los primeros coches empiezan a circular, añadiendo más suciedad, ruido y polución a sus abarrotadas calles.
+Este Londres es la capital de un imperio y todos los días llegan y parten barcos de todas partes del mundo. Los mercados están llenas de productos exóticos de todas las colonias y las calles se llenan de olores a comidas de todo el mundo.
+
+También es el Oliver Twist con pilluelos que se dedican a buscarse la vida en las calles y callejones de los peores barrios de la ciudad. Sin olvidarse del Londres donde las mujeres tienen que prostituirse para sobrevivir y son brutalmente asesinadas por el famoso asesino en serie Jack El destripador.
+
+Solemos olvidarnos que el Londres victoriano también tiene estos elementos menos románticos y novelescos.
+
+* Es el Londres de los ladrones de cadáveres que saquean tumbas para robar los enseres de los muertos o para vender los cuerpos a estudiantes de medicina sin escrúpulos.
+
+\sp
+
+* Las fábricas expulsan sus hediondos humos convirtiendo el aire en irrespirable y creándose el famoso «smog» londinense que mata tanta gente como otras enfermedades infecciosas de la época.
+* El trabajo infantil y las jornadas de trabajo interminables están a la orden del día y el alcoholismo es un problema muy grave entre la clase obrera.
+* Otro punto interesante a tener en cuenta es que en estos años los primeros coches empiezan a circular, añadiendo más suciedad, ruido y polución a sus abarrotadas calles.
 
 ## La agencia Hyde & Jekyll
 
@@ -229,25 +251,33 @@ La sombrerería contaba con una tienda a pie de calle y luego un sótano mal ven
 
 La planta superior tiene una sala principal con un gran escaparate a la calle y la zona de venta que se ha convertido en una recepción con sillas donde esperan los clientes.
 
-\sp
-
 El almacén de la tienda ha sido reconvertido en un despacho donde hacen trabajo de investigación. Hay un mullido sofá que no pocas veces ha sido usado como cama improvisada donde se ha acostado Jekyll y se ha despertado Hyde y viceversa.
+
+\sp
 
 Jekyll ha convertido el sótano, al que se accede por unas escaleras desde el despacho, en su laboratorio. Ha traído casi todo el equipamiento científico de su casa y así puede hacer sus investigaciones y pruebas en la agencia en vez de tener que ir hasta su casa.
 
 ## Scotland Yard
 
-La Policía Metropolitana de Londres, más conocida por todos como Scotland Yard o The Yard, se encarga de investigar todos los crimines en Londres y es un elemento muy importante en estas aventuras, tanto como aliado, enemigo o simple rival para resolver los crímenes.
+La Policía Metropolitana de Londres, más conocida por todos como Scotland Yard o The Yard, se encarga de investigar todos los crímenes en Londres y es un elemento muy importante y recurrente en estas aventuras.
 
-XXX
+Sus hombres siempre estarán vigilando las escenas de los crímenes, los cadáveres de las víctimas serán estudiados en su morgue y los sospechosos serán encerrados e interrogados en sus celdas y salas de interrogatorio.
+
+Todo eso hará que tus jugadores estarán siempre entrando y saliendo de sus dependencias por asuntos oficiales y seguramente que Hyde también por asuntos no oficiales.
+
+Los agentes de calle, los viejos archiveros y los médicos forenses novatos pueden ser perfectos aliados y contactos de tus personajes.
 
 ### Inspector Newcomen
 
-XXX
+El inspector Newcomen debería ser una constante en todas las aventuras apareciendo en cualquier momento y sin dejar nunca de vigilar y perseguir a tus jugadores.
 
-Newcomen puede ser un aliado de tus jugadores, pero sobre todo debería ser un rival que pondrá en duda todas las pistas y deducciones realizadas por tus jugadores. Debería ser la piedrecita en el zapato de Hyde y Jekyll, sobre todo de Hyde al que no le quita ojo desde el asesinato de Sir Carew. Newcomen no cree en que la gente cambie y sabe que Hyde volverá a matar por placer y él estará allí para detenerle y que sea ajusticiado con todo el peso de la ley.
+Newcomen puede en ocasiones ser un aliado de tus jugadores, pero sobre todo debería ser un rival que pondrá en duda todas las pistas y deducciones realizadas por tus jugadores. Debería ser la piedrecita en el zapato de Hyde y Jekyll, sobre todo de Hyde al que no le quita ojo desde el asesinato de Sir Carew. 
 
 \sp
+
+Newcomen no cree en que la gente cambie y sabe que Hyde volverá a matar por placer y él estará allí para detenerle y que sea ajusticiado con todo el peso de la ley.
+
+De todas formas, debes considerar que no es un gran policía y su método policial es pésimo, si no ha descubierto que Jekyll y Hyde son la misma persona.
 
 ### Técnicas de investigación forense disponibles
 
@@ -258,12 +288,12 @@ Las técnicas de investigación forense que Scotland Yard disponía a finales de
 * Las **pruebas genéticas* claramente no existían. Harán falta muchas décadas para que se hagan los primeros tests de ADN.
 * La policía hacía **análisis microscópicos** de diferentes elementos como cabellos. Con esos análisis podían estimar el sexo y la edad del criminal. También podían estudiar las estrías de las balas y determinar que una arma de fuego había disparado o no una bala.
 * Las **autopsias** están a la orden del día en caso de muertes violentas y podían determinar con bastante fiabilidad las causas de la muerte y saber la hora del fallecimiento por el rigor mortis.
-* A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como **identificar sustancias venenosas**, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
 * Empiezan a haber estudios para poder distinguir la **sangre y otros fluidos** de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.
-* La **fotografía forense** es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.
 
 \sp
 
+* A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como **identificar sustancias venenosas**, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
+* La **fotografía forense** es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.
 * Los **retratos robot** también son usados aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
 
 Una vez conocidos estos puntos principales nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. 
@@ -274,11 +304,11 @@ Las aventuras de Jekyll y Hyde se encuadran en un mundo como el nuestro, pero co
 
 Mi recomendación sería que los inventos locos sean solo detalles que den color a las historias. Tal vez en determinado momento tengan que usar un coche que vaya el doble de rápido que un caballo o que un personaje explore las cloacas usando una linterna eléctrica mucho más potente que los quinqués o las antorchas. 
 
+\sp
+
 Otra opción que podría quedarle bien a tus aventuras sería magia negra con exóticos componentes como maldiciones egipcias o hechizos de vudú. Como hemos visto antes, la magia debería ser muy sutil y solo detalles en la trama. Me refiero a villanos con joyas con poderes hipnóticos y venenos, pócimas somníferas y sueros de la verdad hechos con plantas exóticas de la selva o sacados de antiquísimos papiros egipcios perdidos.
 
 «El secreto de la pirámide» es un claro ejemplo de como aplicar la ciencia y magia en las aventuras. Son detalles divertidos y coloridos, pero no son el eje de las partidas. 
-
-\sp
 
 ## Y si meto a Sherlock Holmes y al Doctor Watson
 
@@ -296,45 +326,7 @@ Y si te sientes creativo también puedes hacer que tus jugadores investiguen ext
 
 ***
 
-# Los extraños casos de Hyde & Jekyll
-
-¿Y qué son unos detectives sin caso? Así que aquí hay 3 casos para que tus jugadores puedan disfrutar de sus andanzas detectivescas como Henry Jekyll y Edward Hyde.
-
-No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gusten.
-
-## El extraño caso del tigre desaparecido del Zoo
-
-> El pánico corre por las calles de Londres ante la noticia de que un tigre siberiano ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición del tigre. Sea como sea, habrá que encontrarlo, detener a su ladrón y devolverlo al zoo.
-
-XXX
-
-\sp
-
-## El extraño caso de la pala del zapador
-
-> Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba su pala. Su esposa cree que no es un accidente y Scotland Yard no le ayuda.
-
-XXX
-
-\sp
-
-## El extraño caso del lingote de oro con la rosa impresa
-
-> El viejo notario Stonewall ha aparecido muerto y lo curioso es que el arma homicida es un lingote de oro con una rosa impresa en su casa superior.
-
-XXX
-
-Primeras pistas a seguir:
-
-* Una mañana de bancos y joyerías preguntando por el diseño de la rosa no tendrá ningún éxito, nadie reconoce la marca. El Museo Británico puede ser una mejor opción. XXX
-
-XXX
-
-\sp
-
-[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0147.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/118/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
-
-***
+|LosExtranosCasosDeJekyllYHyde.md|
 
 # Doctor Jekyll y Mister Hyde
 
@@ -449,6 +441,26 @@ La propia esencia de este suplemento puede llevar a conflictos entre jugadores p
 A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. 
 
 Como director debes vigilar esto y cortarlo. Puede ser divertido hacerse pequeñas bromas para fastidiar a tu «alter ego» que se resuelven interpretando unos minutos, pero si escala a fastidiarse todo el rato la partida acabará mal.
+
+## Especialización de los personajes
+
+Otro de los problemas que puedes encontrarte al dirigir este suplemento es la especialización de los personajes. Está claro que Jekyll es el cerebro y Hyde los puños, pero parte de la gracia de las partidas está en que ambos salgan de su zona confort y hagan cosas que no se les dan bien.
+
+Si cada vez que hay que analizar pruebas, sale Jekyll y cuando hay una pelea, sale Hyde, cada jugador se estará quitando una parte de la diversión de la aventura y hará que sea muy monótona. 
+
+Además, la especialización puede hacer que los cambios de personalidad sean muy rápidos con el trastorno que eso supone para el curso de la partida.
+
+Un truco que puede funcionarte es meter límites de tiempo en determinadas escenas que no les permitan hacer el cambio de personaje.
+
+Puede que Jekyll prefiera que Hyde salga corriendo y persiga a un sospechoso entre la multitud, pero deberá perseguirle él mismo. Si invoca a Hyde, este se encontrará en una calle llena de gente sin saber que tiene que hacer y mientras el delincuente huye.
+
+Tampoco les dejes que a la hora de usar sus hitos se especialicen mucho en lo que son buenos y abandonen las habilidades que se les dan mal.
+
+\sp
+
+Qué Jekyll reciba un par de buenas palizas en un oscuro callejón porque no es buen luchador y no quiere llamar a su otro yo, le hará replantearse sus próximos hitos.
+
+Quizás Hyde, inmovilizado por una pierna rota y aburrido hasta la muerte, decida coger y leerse un manual científico de Jekyll y con ello ponerse el aspecto científico amateur.
 
 ## Atribuciones
 
