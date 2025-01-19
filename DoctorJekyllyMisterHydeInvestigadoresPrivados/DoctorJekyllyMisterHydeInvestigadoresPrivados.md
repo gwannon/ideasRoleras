@@ -2,11 +2,9 @@
 
 «Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para _Fate Acelerado_ para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. 
 
-Tras solventar sus diferencias, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación en Londres y se dedican a resolver crímenes en un Londres victoriano para el abogado y amigo del Doctor Jekyll, Gabriel John Utterson. 
+Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. Mientras hacen su trabajo el inspector Newcomen de Scotland Yard no les quitará el ojo del encima, buscando que cometan un error para meter a Hyde en la cárcel.
 
-Investigar casos no es fácil cuando dos personalidades tan diferentes habitan el mismo cuerpo, pero han encontrado la forma de hacerlo.
-
-Tendrán que trabajar en los casos dejándose en un diario notas y mensajes con los avances en la investigación. De hecho, la única comunicación entre jugadores sobre la partida deberían ser esas notas. 
+Investigar casos no es fácil cuando dos personalidades tan diferentes habitan el mismo cuerpo, pero han encontrado la forma de hacerlo. Tus jugadores tendrán que trabajar en los casos dejándose en un diario notas y mensajes con los avances que hayan hecho en la investigación. De hecho, la única comunicación entre jugadores sobre la partida deberían ser esas notas. 
 
 \sp
 
@@ -20,9 +18,9 @@ Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba el suicidio del d
 
 En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una personalidad a otra involuntariamente sin necesidad de la fórmula secreta. Tras descubrir que no puede replicar el compuesto químico que despertó a Hyde y que no puede controlar sus apariciones, decide suicidarse para acabar con sus problemas y castigar a Hyde que es perseguido por el asesinato sin sentido de Sir Danvers Carew y por el que acabará en el patíbulo si es atrapado.  
 
-Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson Junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A Junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
+Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A Robert junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
 
-En la novela de Junior se desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
+En la novela de Robert junior se desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
 
 La historia continua con Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
 
@@ -32,17 +30,31 @@ Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: 
 
 ## Preludio
 
-XXX
+El libro de Robert junior tiene un preludio de unas pocas hijas en las que arregla el final de la novel de su padre para sus intereses.
+
+Hyde se despierta en la fría morgue de Scotland Yard tras haber estado al filo de la muerte durante unas horas. Parece ser que la dosis de veneno que tomo Jekyll solo lo dejo cerca de la muerte, suficiente para que Utterson creyera que había muerto.
+
+Hyde entrará en shock al darse cuenta de que ha estado a punto de morir y que Jekyll tiene un control total sobre su vida y su muerte. Si se ha suicidado una vez y podría hacerlo más veces, mientras que él sería incapaz de tomar esa decisión.
+
+Consigue huir de Scotland Yard y busca un sitio seguro donde quedarse y empieza a escribir y dejar notas para cuando se despierte Jekyll con las que llega a un acuerdo para que ambos sigan vivos. Tras varios días, consiguen llegar un acuerdo en que Hyde promete no matar bajo ningún concepto, pena de que Jekyll acabe con la vida de los dos.
+
+Pero todavía hay un problema, Hyde es un fugitivo de la justicia. Por suerte, la policía descubre el plan de Sir Danvers Carew de matar a la reina e imponer una república en la monárquica Inglaterra. Esto hizo que Hyde pasara de ser un fugitivo buscado por asesinato a casi un héroe de la reina.
+
+A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Robert junior de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
+
+
+\sp
 
 ## El primer caso
 
 XXX
 
-Tras todos estos sucesos solo hay 3 personas que sepan el secreto de Jekyll y Hyde.
+Tras todos estos sucesos solo hay 2 personas que sepan el secreto de Jekyll y Hyde.
 
 * **Gabriel John Utterson.**
 * **Mister Poole.** El ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
-* **El inspector Newcomen.** Newcomen fue el intento de Junior de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
+
+\sp
 
 ## La creación de la agencia
 
@@ -52,8 +64,6 @@ crear una agencia de detectives.
 Gabriel consideraba que está nueva actividad podría mantener a Hyde en este lado de la ley al ser uno de sus protectores y a Jekyll lejos de sus peligrosos experimentos.
 
 Cómo puedes comprobarse, no se equivocaba, ya que parece que hasta el día de hoy está treta ha funcionado como un reloj de cuco. Además, esperaba tener a un buen equipo de investigadores que le ayudara en sus pleitos y demandas a un coste muy barato.
-
-\sp
 
 Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia. Tras una larga discusión que ocupo montones de notas decidieron dejarlo al azar y la agencia se terminó llamando Hyde & Jekyll. 
 
@@ -227,29 +237,34 @@ Jekyll ha convertido el sótano, al que se accede por unas escaleras desde el de
 
 ## Scotland Yard
 
+La Policía Metropolitana de Londres, más conocida por todos como Scotland Yard o The Yard, se encarga de investigar todos los crimines en Londres y es un elemento muy importante en estas aventuras, tanto como aliado, enemigo o simple rival para resolver los crímenes.
+
 XXX
 
 ### Inspector Newcomen
 
 XXX
 
+Newcomen puede ser un aliado de tus jugadores, pero sobre todo debería ser un rival que pondrá en duda todas las pistas y deducciones realizadas por tus jugadores. Debería ser la piedrecita en el zapato de Hyde y Jekyll, sobre todo de Hyde al que no le quita ojo desde el asesinato de Sir Carew. Newcomen no cree en que la gente cambie y sabe que Hyde volverá a matar por placer y él estará allí para detenerle y que sea ajusticiado con todo el peso de la ley.
+
+\sp
+
 ### Técnicas de investigación forense disponibles
 
 Las técnicas de investigación forense que Scotland Yard disponía a finales del siglo XIX podían ser las más avanzadas de su época, pero quedan muy lejos de las actuales técnicas forenses que vemos en series como CSI. Así que conocer, aunque sea superficialmente, que podía averiguarse y que no usando los conocimientos forenses de la época es interesante para el desarrollo de tus aventuras. 
 
-
-* Las huellas dactilares tampoco era una prueba usada por la policía, pero si era conocido el concepto de huella dactilar y se jugaba con la posibilidad de que fueran únicas.
-* Los primeros perfiles psicológicos son elaborados en esta época, por ejemplo, para tratar de detener a Jack el destripador.
-* Las pruebas genéticas claramente no existían. Harán falta muchas décadas para que se hagan los primeros tests de ADN.
+* Las **huellas dactilares** tampoco era una prueba usada por la policía, pero si era conocido el concepto de huella dactilar y se jugaba con la posibilidad de que fueran únicas.
+* Los primeros **perfiles psicológicos** son elaborados en esta época, por ejemplo, para tratar de detener a Jack el destripador.
+* Las **pruebas genéticas* claramente no existían. Harán falta muchas décadas para que se hagan los primeros tests de ADN.
+* La policía hacía **análisis microscópicos** de diferentes elementos como cabellos. Con esos análisis podían estimar el sexo y la edad del criminal. También podían estudiar las estrías de las balas y determinar que una arma de fuego había disparado o no una bala.
+* Las **autopsias** están a la orden del día en caso de muertes violentas y podían determinar con bastante fiabilidad las causas de la muerte y saber la hora del fallecimiento por el rigor mortis.
+* A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como **identificar sustancias venenosas**, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
+* Empiezan a haber estudios para poder distinguir la **sangre y otros fluidos** de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.
+* La **fotografía forense** es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.
 
 \sp
 
-* La policía hacía análisis microscópicos de diferentes elementos como cabellos. Con esos análisis podían estimar el sexo y la edad del criminal. También podían estudiar las estrías de las balas y determinar que una arma de fuego había disparado o no una bala.
-* Las autopsias están a la orden del día en caso de muertes violentas y podían determinar con bastante fiabilidad las causas de la muerte y saber la hora del fallecimiento por el rigor mortis.
-* A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como identificar sustancias venenosas, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
-* Empiezan a haber estudios para poder distinguir la sangre de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.
-* La fotografía forense es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.
-* Los retratos robot también son usados aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
+* Los **retratos robot** también son usados aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
 
 Una vez conocidos estos puntos principales nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. 
 
@@ -257,13 +272,13 @@ Una vez conocidos estos puntos principales nada impide que los personajes hayan 
 
 Las aventuras de Jekyll y Hyde se encuadran en un mundo como el nuestro, pero con ciertos toques de _Ciencia extraña_. Piensa que los propios protagonistas son fruto de un experimento científico fallido. 
 
-\sp
-
 Mi recomendación sería que los inventos locos sean solo detalles que den color a las historias. Tal vez en determinado momento tengan que usar un coche que vaya el doble de rápido que un caballo o que un personaje explore las cloacas usando una linterna eléctrica mucho más potente que los quinqués o las antorchas. 
 
 Otra opción que podría quedarle bien a tus aventuras sería magia negra con exóticos componentes como maldiciones egipcias o hechizos de vudú. Como hemos visto antes, la magia debería ser muy sutil y solo detalles en la trama. Me refiero a villanos con joyas con poderes hipnóticos y venenos, pócimas somníferas y sueros de la verdad hechos con plantas exóticas de la selva o sacados de antiquísimos papiros egipcios perdidos.
 
 «El secreto de la pirámide» es un claro ejemplo de como aplicar la ciencia y magia en las aventuras. Son detalles divertidos y coloridos, pero no son el eje de las partidas. 
+
+\sp
 
 ## Y si meto a Sherlock Holmes y al Doctor Watson
 
@@ -271,9 +286,9 @@ Otra opción que podría quedarle bien a tus aventuras sería magia negra con ex
 
 Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quién es mejor detective.  
 
-Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima.
+Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima. Los inspectores Newcomen y Lestrade seguro que se conocen y estarán encantados de trabajar juntos para desbancar a tus jugadores como los mejores detectives de la ciudad.
 
-Y si te sientes creativo también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir.
+Y si te sientes creativo también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir. O pueden que teman que una nueva personalidad realmente diabólica haya aparecido y haya estado cometiendo unos terribles asesinatos de mujeres en White Chapel. 
 
 \sp
 
