@@ -40,9 +40,9 @@ XXX
 
 Tras todos estos sucesos solo hay 3 personas que sepan el secreto de Jekyll y Hyde.
 
-* Gabriel John Utterson.
-* El ayuda de cámara de Jekyll, Mister Poole, al que un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
-* XXX
+* **Gabriel John Utterson.**
+* **Mister Poole.** El ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
+* **El inspector Newcomen.** Newcomen fue el intento de Junior de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
 
 ## La creación de la agencia
 
@@ -138,13 +138,13 @@ En cualquier caso, el director de juego, tiene la última palabra sobre el estil
 
 ## Compartiendo información del caso
 
-Cuando investigan un caso, Jekyll y Hyde no pueden discutir las pistas descubiertas mientras se toman un té con pastas. Lo que hacen es dejarse notas y llevar un diario del caso donde escriben las cosas que han hecho y la nueva información obtenida para que la lea su otro yo al salir. 
+Cuando investigan un caso, Jekyll y Hyde no pueden discutir las pistas descubiertas mientras se toman un té con pastas. Lo que hacen es **dejarse notas y llevar un diario del caso** donde escriben las cosas que han hecho y la nueva información obtenida para que la lea su otro yo al salir. 
 
 \sp
 
 Los jugadores deben ir escribiendo las notas mientras juegan y lo que haya en las notas y el diario real es lo que habrá en partida. Tampoco deben extenderse mucho, apuntes rápidos de una frase como mucho. El director de juego puede extender esas frases con más información, como si el autor hubiera escrito mucho más y con más detalle, pero no puede contar cosas que no estén escritas.
 
-Si en partida no hubiera tiempo o posibilidad para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque. Tendrá que seguir a partir de lo que él mismo sabía y de los últimos apuntes escritos por Hyde. Jekyll no contará con la ventaja de saber que es lo que pudo averiguar desde la última nota hasta ahora.
+Si en partida **no hubiera tiempo o posibilidad para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información** de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque. Tendrá que seguir a partir de lo que él mismo sabía y de los últimos apuntes escritos por Hyde. Jekyll no contará con la ventaja de saber que es lo que pudo averiguar desde la última nota hasta ahora.
 
 ### El diario del caso
 
@@ -166,7 +166,7 @@ Puede ser un punto divertido que se fastidien de esa manera, pero deberás contr
 
 ## Compartiendo puntos de destino
 
-Cuando sale una nueva personalidad a la palestra, esta recibe todos los puntos Fate de su anterior yo que tuviera por encima de su capacidad de recuperación.
+Cuando sale una nueva personalidad a la palestra, esta **recibe todos los puntos Fate de su anterior yo que tuviera por encima de su capacidad de recuperación**.
 
 Pongamos que Jekyll tiene 5 puntos Fate y una capacidad de recuperación 3. Se va a dormir para de salga Hyde, que tiene una capacidad de recuperación de 3. Eso supone que Hyde empieza con 5 puntos Fate, 3 normales por su capacidad de recuperación más 2 heredados de Jekyll.
 
@@ -182,7 +182,7 @@ Puede pasar que algún momento una acción de uno interfiera en las de otro, sob
 
 Tal vez hayan interrogado al mismo testigo cada uno a su estilo. Primero le interrogo Jekyll y fue bastante agradable prometiéndole protección policial y algo de dinero. Tras un buen rato le saco un nombre y una dirección. Más tarde apareció Hyde gritando y amenazando al testigo de que va a hacer su vida un infierno. Hyde no solo se enfrenta al aguante del testigo, también a las promesas que le haya hecho Jekyll, lo cual complica el interrogatorio. 
 
-En esta situación, si el segundo jugador usa un estilo diferente al primero, deberá pasar una dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador. Si usan el mismo estilo, algo que pocas veces pasará, solo deberá pasar la dificultad normal.
+En esta situación, si el **segundo jugador usa un estilo diferente al primero**, deberá pasar una **dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador**. Si usan el mismo estilo, algo que pocas veces pasará, solo deberá pasar la dificultad normal.
 
 ## Hitos y su uso
 
@@ -247,8 +247,8 @@ Las técnicas de investigación forense que Scotland Yard disponía a finales de
 * La policía hacía análisis microscópicos de diferentes elementos como cabellos. Con esos análisis podían estimar el sexo y la edad del criminal. También podían estudiar las estrías de las balas y determinar que una arma de fuego había disparado o no una bala.
 * Las autopsias están a la orden del día en caso de muertes violentas y podían determinar con bastante fiabilidad las causas de la muerte y saber la hora del fallecimiento por el rigor mortis.
 * A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como identificar sustancias venenosas, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
-* Empiezan a haber estudio para poder distinguir la sangre de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.
-* Fotografía forense es rara, pero no extraña sobre todo en casos famosos, que atraían el interés del público.
+* Empiezan a haber estudios para poder distinguir la sangre de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.
+* La fotografía forense es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.
 * Los retratos robot también son usados aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
 
 Una vez conocidos estos puntos principales nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. 
@@ -309,6 +309,12 @@ XXX
 
 XXX
 
+Primeras pistas a seguir:
+
+* Una mañana de bancos y joyerías preguntando por el diseño de la rosa no tendrá ningún éxito, nadie reconoce la marca. El Museo Británico puede ser una mejor opción. XXX
+
+XXX
+
 \sp
 
 [![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0147.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/118/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
@@ -323,13 +329,21 @@ Tus jugadores también pueden crearse su propio personaje siguiendo las reglas d
 
 ## Doctor Henry Jekyll
 
-XXX
+El Doctor Henry Jekyll es la parte controlada y sensata de la agencia, cauto e ingenioso cuando es necesario y prefiriendo siempre actuar furtivamente, sin llamar la atención.
 
-Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas. XXX
+Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas.
 
-Como doctor, tiene un buen nivel de vida y el riñón bien cubierto, así que puede acceder sin problema a dinero en efectivo y a créditos si fuera necesario.
+Descubre más cosas en su laboratorio que pateando las calles, aunque las interacciones con Hyde han hecho que esté estirado doctor inglés sea capaz de moverse en los bajos fondos con cierta soltura y que entre buenos modales y palabras aduladoras sea capaz de meter amenazas veladas.
+
+Como doctor, los años en la medicina les han conseguido un buen nivel de vida y el riñón bien cubierto, así que puede acceder sin problema a dinero en efectivo y a créditos si fuera necesario.
+
+Realmente el trabajo de la agencia no lo necesita y muchas veces devuelve el dinero a los clientes sin que lo sepa Hyde.
 
 \sp
+
+El principal problema en la vida de Jekyll es Hyde y sus desmanes. Hyde ya no es el ser ultraviolento y salvaje de sus primeras apariciones, pero sigue metiéndose en todo tipo de problemas que luego tiene que arreglar Jekyll.
+
+Los remordimientos que no tiene Hyde los sufre Jekyll a la noche siguiente, además de moratones, manchas de sangre en el traje y terribles resacas. No le gusta reconocerlo, pero el trabajo detectivesco ha mejorado mucho su carácter agresivo y bestial.
 
 * **Aspectos**
   * **Concepto principal:** Respetado doctor londinense 
@@ -348,17 +362,19 @@ Como doctor, tiene un buen nivel de vida y el riñón bien cubierto, así que pu
 
 ## Mister Edward Hyde
 
-XXX
+Definir a Hyde es difícil, ya que nació como una escisión mental del Doctor Jekyll debido al consumo de una fórmula magistral que recogió toda su parte bestial, violenta, amoral e instintiva. No tiene recuerdos del pasado, no tiene familia, no tiene mejores amigos. De hecho, es difícil decir cuántos años tiene o cuándo será su cumpleaños.
 
-Edward es puro instinto animal. Los olores, los XXX
+Vive en la agencia, ya que, según él, odia el olor de la casa de Jekyll. De todas formas tampoco estaría mucho, porque si no está investigando, está en garitos de mala muerte del East End bebiendo, perdiendo dinero y metiéndose en peleas.
 
-Otra de las características de la personalidad de Hyde es que es un hombre de acción y muchas veces se lanza sin pensar contra los obstáculos. Hace planes en segundos y los lleva a cabo sin pensar en las consecuencias. Si funcionan genial y si fallan pasa al siguiente plan. Lo importante es no parar de moverse.
+Edward es puro instinto animal. Los olores, los gestos, las miradas son más importantes para él que todo el buen trabajo policía. Como buen sabueso rabioso cuando capta un rastro no lo pierde y hace lo que sea, literalmente lo que sea, para seguirla hasta descubrir al culpable. Con el tiempo y la interacción con Jekyll ha aprendido a que las pistas que seguir pueden empezar en el fondo de una probeta de laboratorio.
+
+Otra de las características del estilo detectivesco de Hyde es que es un hombre de acción y muchas veces se lanza sin pensar contra los obstáculos. Hace planes en segundos y los lleva a cabo sin pensar en las consecuencias. Si funcionan genial y si fallan pasa al siguiente plan. Lo importante es no parar de moverse.
 
 Hyde sufre de un profundo complejo de inferioridad, debido a que se considera solo una parte de Jekyll. Este complejo dicta gran parte de su vida, ya que trata todo el tiempo de autorreafirmarse con sus actos. Por ejemplo, Hyde necesita llamar la atención todo el tiempo porque piensa que si no le miran podría desaparecer para siempre en la mente Jekyll. 
 
-El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avance más que él en las investigaciones. Que Jekyll descubra pistas importantes puede hacer que Hyde se desquicie y empiece a actuar más violentamente para conseguir más pistas.
-
 \sp
+
+El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avance más que él en las investigaciones. Que Jekyll descubra pistas importantes puede hacer que Hyde se desquicie y empiece a actuar más violentamente para conseguir más pistas.
 
 * **Aspectos**
   * **Concepto principal:** Criatura horrible, violenta y sin remordimiento

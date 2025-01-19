@@ -55,3 +55,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen cualquier sitio menos en la partida.\\E$"}
 {"rule":"IR_PARTICIPIO_GERUNDIO","sentence":"^\\QMientras que Jekyll siempre va estirado, mostrando su porte de caballero, limpio y con un traje impecable, Hyde va encorvado, con ropa y sombrero que le tape la cara y sin preocuparse mucho de su higiene personal.\\E$"}
 {"rule":"EL_TILDE","sentence":"^\\QEl ayuda de cámara de Jekyll, Mister Poole, al que un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QEl ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.\\E$"}
