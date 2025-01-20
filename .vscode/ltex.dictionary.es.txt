@@ -338,3 +338,5 @@ smog
 Phileas
 Fogg
 pulp
+Hickson
+Insurances
