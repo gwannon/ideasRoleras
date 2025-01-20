@@ -406,6 +406,20 @@ El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avan
 
 Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre este suplemento que os podrán ser de ayuda.
 
+## Tono de las aventuras
+
+El tono de este suplemento, a pesar de estar ambientado en época victoriana, es algo más moderno. Es principalmente _pulp_ o esa ha sido mi intención.
+
+La acción debería estar siempre presente, con unos comienzos muy serios de investigación y trabajo detectivesco, para que rápidamente todo se torne en un torbellino de persecuciones, trampas y peleas para poder atrapar al villano.
+
+No debemos olvidar que Hyde es un hombre de acción que habla más con sus actos (por no decir puños) que con sus palabras. Y Hyde no dejará a su vez de meter en problemas a su contrapartida Jekyll.
+
+Los protagonistas vivirán exóticas aventuras con misterios procedentes de todo el mundo. No viajarán ellos a localizaciones lejanas y misteriosas, sino que esas localizaciones vendrán a Londres en barco desde todas las colonias de Inglaterra. Piensa que hacia 1890 Inglaterra controla India, Australia y Nueva Zelanda, una extensa franja de tierra en África desde Egipto a Sudáfrica e islas en la Polinesia y en el Caribe, sin olvidarnos lo que puedan traer los exploradores polares.
+
+Por último, ya hemos hablado de las opciones de meter ciencia extraña y magia oscura sutilmente en las aventuras. Estos también son elementos recurrentes en las ficciones _pulp_ que puedes y deberías explotar.
+
+\sp
+
 ## Define los velos y herramientas de seguridad
 
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
@@ -414,37 +428,31 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 
 Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
-## Participar en el proyecto
-
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
-
-\sp
-
-Si juegas con este suplemento y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
-
 ## Gender flip
 
 En este suplemento he sido muy clásico a la hora de determinar el género y la sexualidad de los protagonistas, pero tus jugadores son libres de dejar libre su imaginación y jugar con versiones femeninas, trans, no binarias de estos personajes clásicos.
 
 Doctore Jekyll y Miss Hyde es, por ejemplo, una versión perfectamente jugable de este suplemento. Puede tener giros y retos muy divertidos e interesantes. Por ejemplo, el tema de solucionar los cambios de vestuario cuando cambian de personalidad de masculina a femenina en plena y retrógrada época victoriana.
 
+\sp
+
 ## Modo un solo jugador
 
-Este suplemento no fue pensado para jugar únicamente 1 máster y 1 jugador, porque la gracia está en el control de la información y como transmitirla de un PJ a otro y, por tanto, de un jugador a otro. Pero está claro que la opción de un solo jugador es viable siempre que esté sepa suplir en su interpretación esa falta de información que puede darse entre Jekyll y Hyde al investigar casos.
+Este suplemento no fue pensado para jugar únicamente 1 máster y 1 jugador, porque la gracia está en el control de la información y como transmitirla de un PJ a otro y, por tanto, de un jugador a otro.
+
+Pero está claro que la opción de un solo jugador es viable siempre que esté sepa suplir en su interpretación esa falta de información que puede darse entre Jekyll y Hyde al investigar casos.
 
 ## Conflictos entre jugadores
 
-La propia esencia de este suplemento puede llevar a conflictos entre jugadores por la propia naturaleza de las historias. Puede ser desesperante ser Jekyll y en vez de investigar un caso tengas que arreglar los problemas que cree Hyde durante su sesión y decidas fastidiarle y dejarle una sorpresita para cuando despierte.
-
-\sp
-
-A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. 
+La propia esencia de este suplemento puede llevar a conflictos entre jugadores por la propia naturaleza de las historias. Puede ser desesperante ser Jekyll y en vez de investigar un caso tengas que arreglar los problemas que cree Hyde durante su sesión y decidas fastidiarle y dejarle una sorpresita para cuando despierte. A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. 
 
 Como director debes vigilar esto y cortarlo. Puede ser divertido hacerse pequeñas bromas para fastidiar a tu «alter ego» que se resuelven interpretando unos minutos, pero si escala a fastidiarse todo el rato la partida acabará mal.
 
 ## Especialización de los personajes
 
 Otro de los problemas que puedes encontrarte al dirigir este suplemento es la especialización de los personajes. Está claro que Jekyll es el cerebro y Hyde los puños, pero parte de la gracia de las partidas está en que ambos salgan de su zona confort y hagan cosas que no se les dan bien.
+
+\sp
 
 Si cada vez que hay que analizar pruebas, sale Jekyll y cuando hay una pelea, sale Hyde, cada jugador se estará quitando una parte de la diversión de la aventura y hará que sea muy monótona. 
 
@@ -456,11 +464,17 @@ Puede que Jekyll prefiera que Hyde salga corriendo y persiga a un sospechoso ent
 
 Tampoco les dejes que a la hora de usar sus hitos se especialicen mucho en lo que son buenos y abandonen las habilidades que se les dan mal.
 
-\sp
-
 Qué Jekyll reciba un par de buenas palizas en un oscuro callejón porque no es buen luchador y no quiere llamar a su otro yo, le hará replantearse sus próximos hitos.
 
 Quizás Hyde, inmovilizado por una pierna rota y aburrido hasta la muerte, decida coger y leerse un manual científico de Jekyll y con ello ponerse el aspecto científico amateur.
+
+## Participar en el proyecto
+
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+
+\sp
+
+Si juegas con este suplemento y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
 
 ## Atribuciones
 

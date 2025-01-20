@@ -8,6 +8,22 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 > El pánico corre por las calles de Londres ante la noticia de que un tigre siberiano ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición del tigre. Sea como sea, habrá que encontrarlo, detener a su ladrón y devolverlo al zoo.
 
+### Resumen del caso
+
+XXX
+
+### Introducción al caso
+
+XXX
+
+### La escena del crimen
+
+XXX
+
+\sp
+
+### Pistas a seguir
+
 XXX
 
 \sp
@@ -15,6 +31,22 @@ XXX
 ## El extraño caso de la pala del zapador
 
 > Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba su pala. Su esposa cree que no es un accidente y Scotland Yard no le ayuda.
+
+### Resumen del caso
+
+XXX
+
+### Introducción al caso
+
+XXX
+
+### La escena del crimen
+
+XXX
+
+\sp
+
+### Pistas a seguir
 
 XXX
 
@@ -27,6 +59,24 @@ XXX
 ## El extraño caso del lingote de oro con la rosa impresa
 
 > El viejo notario Stonewall ha aparecido muerto y lo curioso es que el arma homicida es un lingote de oro con una rosa impresa en su casa superior.
+
+### Resumen del caso
+
+XXX
+
+### Introducción al caso
+
+XXX
+
+### La escena del crimen
+
+XXX
+
+El lingote no se lo puede llevar, aunque Hyde seguramente lo intenté, pero siendo rápidos (xxx) y con papel cebolla y carboncillo pueden obtener una copia muy buena sin que Newcomen o algún policía les vea.
+
+\sp
+
+### Pistas a seguir
 
 XXX
 
