@@ -78,7 +78,7 @@ XXX
 * **Proezas**
   * XXX
   * XXX
-  * XXX
+  * **Entender a los animales:** XXX
 * **Capacidad de recuperación:** 3
 
 #### Sir Roger Corbyn
