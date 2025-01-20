@@ -2,7 +2,7 @@
 
 «Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para _Fate Acelerado_ para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. 
 
-Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. Mientras hacen su trabajo el inspector Newcomen de Scotland Yard no les quitará el ojo del encima, buscando que cometan un error para meter a Hyde en la cárcel.
+Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. Mientras hacen su trabajo, el inspector Newcomen de Scotland Yard no les quitará el ojo del encima, buscando que cometan un error para meter a Hyde en la cárcel.
 
 Investigar casos no es fácil cuando dos personalidades tan diferentes habitan el mismo cuerpo, pero han encontrado la forma de hacerlo. Tus jugadores tendrán que trabajar en los casos dejándose en un diario notas y mensajes con los avances que hayan hecho en la investigación. De hecho, la única comunicación entre jugadores sobre la partida deberían ser esas notas. 
 

@@ -26,6 +26,27 @@ XXX
 
 XXX
 
+* Alimentar a un tigre siberiano no es sencillo y si consultan a algún experto en zoología les dirá que puede comer entre 20 y 40 kilos de carne fresca al día, en cautividad con unos 8 kilos podría subsistir. Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrarán nada. No es un consumo de carne tan grande como para que fuera significativo. Cualquier restaurante cutre compra al día esa cantidad de carne.
+
+### Encerrados en una jaula con un tigre hambriento
+
+XXX
+
+#### Tigre siberiano
+
+* **Aspectos**
+  * **Concepto principal:** Temible tigre siberiano
+  * **Complicación:** Hambriento y asustado 
+  * Buena vista y olfato
+  * Puro músculo
+  * Acechador
+* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Mediocre (0), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
+* **Proezas**
+  * **Rugido aterrador:** XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** 3
+
 \sp
 
 ## El extraño caso de la pala del zapador
@@ -53,6 +74,27 @@ XXX
 * Si consiguen acceso a la pala y pueden estudiarla (tirada Buena +2) verán que pesa un poco más que otras palas del mismo fabricante. Eso es debido a que el interior del palo está relleno de una barra de metal conectada a la parte metálica de la pala. Lo que podría convertirla en un minipararrayos.
 
 XXX
+
+### El combate final
+
+La tormenta eléctrica está en todo su apogeo y los rayos caen por todas partes. Joshua puede usar su pala para controlar los rayos y que parte de las descargas del rayo impacten en Jekyll o Hyde.
+
+XXX
+
+#### Joshua Croft
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** 3
 
 \sp
 
