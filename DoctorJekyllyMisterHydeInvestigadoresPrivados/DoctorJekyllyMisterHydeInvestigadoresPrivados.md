@@ -486,6 +486,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
 * Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
 * Grabados interiores por [Charles Raymond Macauley](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/mode/2up)
+* Natural History in Anecdote - ALFRED H. MILES [Project Guttenberg](https://www.gutenberg.org/files/37959/37959-h/37959-h.htm)
 
 ## Otros proyectos que te pueden interesar
 
