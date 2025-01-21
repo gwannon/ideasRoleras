@@ -121,9 +121,21 @@ XXX
 
 \sp
 
+### El indulto real
+
+XXX
+
+La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
+
+> xxx
+
+Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
+
+\sp
+
 ## El extraño caso de las palas del zapador
 
-> ![Pala de cavar zanjas](./assests/images/pala.png "Pala de cavar zanjas")  Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley & Hickson Insurances que asegura la obra no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.
+> ![Pala de cavar zanjas](./assests/images/pala.png "Pala de cavar zanjas") Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley & Hickson Insurances que asegura la obra no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.
 
 ### Resumen del caso
 
@@ -133,11 +145,9 @@ Su problema es que patentar su idea es muy caro y todo el mundo al que ha acudid
 
 Joshua se ha visto forzado a estafar al seguro de su actual trabajo, las obras del puente de Battersea, haciéndoles creer que está muerto para que su mujer pueda cobrar una pequeña prima y patentar su invento. Con el dinero que saquen de vender su invento, marcharán a Australia buscando una vida mejor.
 
-Para cobrar la prima debe haber un cadáver, el suyo en concreto, y como no puede conseguirlo, su muerte debe ser inequívoca y a la vista de todos.
-
 \sp
 
-Así que mientras trabaja en su hoyo una tarde tormenta con fuerte aparato eléctrico hace caer un rayo al lado suyo con una de sus palas y se protege con la otra repeliéndolo. Deja un montón de cenizas humeantes en su lugar y se escapa mientras la gente se recupera de la explosión y el shock producido por el impacto del rayo.
+Para cobrar la prima debe haber un cadáver, el suyo en concreto, y como no puede conseguirlo, su muerte debe ser inequívoca y a la vista de todos. Así que mientras trabaja en su hoyo una tarde tormenta con fuerte aparato eléctrico hace caer un rayo al lado suyo con una de sus palas y se protege con la otra repeliéndolo. Deja un montón de cenizas humeantes en su lugar y se escapa mientras la gente se recupera de la explosión y el shock producido por el impacto del rayo.
 
 ### Introducción al caso
 
@@ -157,9 +167,9 @@ XXX
 
 **Si consiguen acceso a las palas y pueden estudiarlas** (tirada Buena +2) verán que pesas un poco más que otras palas del mismo fabricante. Eso es debido a que el interior del palo está relleno de una barra de metal conectada a la parte metálica de la pala.
 
-Si analizan la aleación del metal, es rara pero con metales normales. Parece tener propiedades magnéticas. Si lo llevan a un laboratorio, podrán descubrir que una pala atrae los arcos voltaicos y la otra los repele. Con lo que saben, las palas podría convertirse en un es minipararrayos.
-
 \sp
+
+Si analizan la aleación del metal, es rara pero con metales normales. Parece tener propiedades magnéticas. Si lo llevan a un laboratorio, podrán descubrir que una pala atrae los arcos voltaicos y la otra los repele. Con lo que saben, las palas podría convertirse en un es minipararrayos.
 
 **Preguntando a los compañeros** de Joshua es raro llevar dos palas iguales al mismo sitio. Es más práctico llevar una pala y un pico o palas de distintos tamaños para distintos trabajos.
 
@@ -175,9 +185,9 @@ Joshua le dijo que nadie debería ver esos papeles bajo ninguna circunstancia, p
 
 **Consultar con un experto en electricidad y tormentas** debería dejar claro que no es normal que un rayo caiga en un agujero, siempre va al punto más alto de la zona. Algo debería atraerlo poderosamente para que eso ocurriera.
 
-XXX
-
 \sp
+
+XXX
 
 ### Como buscar a un muerto
 
@@ -197,9 +207,9 @@ También pueden dejarle escapar, solo ha engañado a un seguro que gana miles de
 
 El único problema que tiene está opción es que no cobrarás este trabajo y seguramente Stanley & Hickson Insurances no vuelva a requerir tus servicios.
 
-Tanto si es derrotado como si termina rindiéndose, Joshua será condenado a 12 años de cárcel y un comprador anónimo se quedará con los derechos de explotación del invento, dando a señora Croft una suma de dinero que le genera una buena pensión todos los meses.
-
 \sp
+
+Tanto si es derrotado como si termina rindiéndose, Joshua será condenado a 12 años de cárcel y un comprador anónimo se quedará con los derechos de explotación del invento, dando a señora Croft una suma de dinero que le genera una buena pensión todos los meses.
 
 Unas semanas más tarde, recibirán un soplo de un contacto en Scotland Yard, *las palas han sido robadas* del almacén de pruebas. Lo curioso es que nadie parece usar la tecnología de Croft, así que el comprador anónimo se la está guardando para él y, por desgracia, las únicas muestras existentes de la aleación, las palas, han desaparecido.
 
@@ -226,8 +236,7 @@ Joshua puede usar su pala para controlar los rayos y que parte de las descargas 
 
 ## El extraño caso del lingote de oro con la rosa impresa
 
-
-> ![Lingote de oro con una rosa impresa](./assests/images/lingote-rosa.png "Lingote de oro con una rosa impresa") El viejo notario Stonewall ha aparecido muerto. El arma homicida es un lingote de oro con una rosa impresa en su cara superior que se ha encontrado en el suelo manchado de sangre y masa encefálica. Lo que Scotland Yard no consigue comprender es quién mataría a una persona con un lingote de oro lo dejaría en la escena del crimén.
+> ![Lingote de oro con una rosa impresa](./assests/images/lingote-rosa.png "Lingote de oro con una rosa impresa") El viejo notario Stonewall ha aparecido muerto. El arma homicida es un lingote de oro con una rosa impresa en su cara superior que se ha encontrado en el suelo manchado de sangre y masa encefálica. Lo que Scotland Yard no consigue comprender es quién mataría a una persona con un lingote de oro lo dejaría en la escena del crimen.
 
 ### Resumen del caso
 
