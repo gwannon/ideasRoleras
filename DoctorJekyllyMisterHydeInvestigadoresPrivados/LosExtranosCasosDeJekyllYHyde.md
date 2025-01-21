@@ -16,7 +16,7 @@ Kim no sabía que había sido de su compañera, hasta que trabajando de sirvient
 
 \sp
 
-[![Natural History in Anecdote by ALFRED H. MILES](./assests/images/illus-frontispiece.jpg "TNatural History in Anecdote by ALFRED H. MILES")](https://www.gutenberg.org/files/37959/37959-h/37959-h.htm "Natural History in Anecdote by ALFRED H. MILES")
+[![Natural History in Anecdote by ALFRED H. MILES](./assests/images/illus-frontispiece.jpg "Natural History in Anecdote by ALFRED H. MILES")](https://www.gutenberg.org/files/37959/37959-h/37959-h.htm "Natural History in Anecdote by ALFRED H. MILES")
 
 \sp
 
@@ -39,7 +39,6 @@ XXX
 ### La escena del crimen
 
 XXX
-
 
 ### Pistas a seguir
 
@@ -109,7 +108,7 @@ XXX
 
 * **Aspectos**
   * **Concepto principal:** Gran cazador blanco
-  * **Complicación:** XXX
+  * **Complicación:** Cruel y sanguinario
   * XXX
   * XXX
   * XXX
@@ -124,7 +123,7 @@ XXX
 
 ## El extraño caso de las palas del zapador
 
-> Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley & Hickson Insurances que asegura la obra no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.
+> ![Pala de cavar zanjas](./assests/images/pala.png "Pala de cavar zanjas")  Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley & Hickson Insurances que asegura la obra no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.
 
 ### Resumen del caso
 
@@ -227,7 +226,8 @@ Joshua puede usar su pala para controlar los rayos y que parte de las descargas 
 
 ## El extraño caso del lingote de oro con la rosa impresa
 
-> El viejo notario Stonewall ha aparecido muerto y lo curioso es que el arma homicida es un lingote de oro con una rosa impresa en su cara superior que se ha encontrado en el suelo manchado de sangre y masa encefálica.
+
+> ![Lingote de oro con una rosa impresa](./assests/images/lingote-rosa.png "Lingote de oro con una rosa impresa") El viejo notario Stonewall ha aparecido muerto. El arma homicida es un lingote de oro con una rosa impresa en su cara superior que se ha encontrado en el suelo manchado de sangre y masa encefálica. Lo que Scotland Yard no consigue comprender es quién mataría a una persona con un lingote de oro lo dejaría en la escena del crimén.
 
 ### Resumen del caso
 

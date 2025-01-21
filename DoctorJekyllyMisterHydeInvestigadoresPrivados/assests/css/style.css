@@ -351,6 +351,16 @@ section:nth-of-type(12) img:first-of-type {
   margin: 0;
 }
 
+section > blockquote > p > img[alt^=Lingote] {
+  width: 150px !important;
+  float: right;
+}
+
+section > blockquote > p > img[alt^=Pala] {
+  width: 135px !important;
+  float: right;
+}
+
 @media print {
   section:nth-of-type(3) > p:first-child {
     margin-top: 100%;
