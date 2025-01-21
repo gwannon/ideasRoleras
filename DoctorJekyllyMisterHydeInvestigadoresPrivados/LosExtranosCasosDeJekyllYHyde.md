@@ -6,15 +6,13 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 ## El extraño caso de la tigresa desaparecido del Zoo
 
-> El pánico corre por las calles de Londres ante la noticia de que una tigresa de Bengala ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición de la tigresa. Sea como sea, habrá que encontrarlo, detener a su ladrón y devolverlo al zoo.
+> El pánico corre por las calles de Londres ante la noticia de que una tigresa bengalí ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición de la tigresa. Sea como sea, habrá que encontrarla, detener a su ladrón y devolverla al zoo.
 
 ### Resumen del caso
 
 Kim ha recorrido miles y miles de kilómetros desde su Bengala natal para liberar a su amiga Ehbri Khan, una tigresa de Bengala, que está encerrado en el Zoo de Hyde Park. Ehbri Khan y Kim se conocieron de crías (de tigre y de humano) en las selvas de Bangladés y se hicieron compañeras de juego inseparables, hasta que hace unos años, Ehbri Khan fue captura por un rico cazador londinense Sir Roger Corbyn que la trajo a Londres y la dono al zoo de Hyde Park.
 
-Kim no sabía que había sido de su compañera, hasta que trabajando de sirvienta para un rico terrateniente inglés descubrió un viejo ejemplar «The National Geographic» que Ehbri Khan, o como la habían rebautizado en el zoo, Victoria, en honor a la reina, estaba viva y encerrada en un horrible zoo en el lejano Londres. 
-
-XXX
+Kim no sabía que había sido de su compañera, hasta que trabajando de sirvienta para un rico terrateniente inglés descubrió un viejo ejemplar «The National Geographic» que Ehbri Khan (o como la habían rebautizado en el zoo, Victoria, en honor a la reina) estaba viva y encerrada en un horrible zoo en el lejano Londres. 
 
 \sp
 
@@ -22,7 +20,19 @@ XXX
 
 \sp
 
+Tras conseguir un pasaje y pasar meses trabajando en casi esclavitud en un barco inglés, Kim llegó a Londres y sin pensárselo sacó a Ehbri de su cárcel tras dejar sin sentido a uno de los cuidadores.
+
+Ahora mismo están refugiados en el interior del bosquecillo de XXX esperando el momento de poder escapar de Londres.
+
+XXX
+
 ### Introducción al caso
+
+XXX
+
+Según el inspector, el ataque al cuidador y la fuga de la tigresa son pura coincidencia. La tigresa definitivamente se ha escapado.
+
+Robar un animal depredador como ese supone un golpe muy complejo con redes, sedantes, un vehículo de transporte y mucho ruido y no hay pruebas de nada de eso.
 
 XXX
 
@@ -41,9 +51,21 @@ Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrará
 
 \sp
 
+### Los primeros ataques
+
+Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no les queda más remedio que empezar a dar golpes. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor.
+
+Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
+
+La cosa se complica cuando el inspector Newcomen trae a Sir Corbyn de su retiro en la campiña para que de caza y mate a Ehbri.
+
+XXX
+
 ### Encerrado en una jaula con una tigresa hambrienta
 
 XXX
+
+\sp
 
 #### Ehbri Khan
 
@@ -59,7 +81,7 @@ XXX
 * **Proezas**
   * **Rugido aterrador:** XXX
   * XXX
-  * **Entender a los humanos:** XXX
+  * **Entender a los humanos:** Debido a que ha pasado mucho tiempo entre humanos, empieza entender su lenguaje y sus gestos y gana un +2 para Defenderse de modo Rápido cuando quieren tenderla una trampa.
 * **Capacidad de recuperación:** 3
 
 \sp
@@ -71,8 +93,8 @@ XXX
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** XXX
-  * XXX
-  * XXX
+  * Una gran tigresa de Bengala la protege
+  * Ágil como un mono
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
