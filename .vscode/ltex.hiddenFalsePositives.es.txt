@@ -57,3 +57,4 @@
 {"rule":"EL_TILDE","sentence":"^\\QEl ayuda de cámara de Jekyll, Mister Poole, al que un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.\\E$"}
 {"rule":"EL_TILDE","sentence":"^\\QEl ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QJoshua Croft es un simple zapador de obra que abre zanjas y cava hoyos en las obras.\\E$"}
+{"rule":"IRA_TILDE","sentence":"^\\QIra homicida\nDiestro espadachín\nLa caballería inglesa lucha hasta el final\nXXX\nEstilos:\\E$"}

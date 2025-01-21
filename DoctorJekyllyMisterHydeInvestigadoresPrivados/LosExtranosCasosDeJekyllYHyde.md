@@ -74,13 +74,13 @@ XXX
 
 #### Ehbri Khan
 
-XXX
+Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que era una cachorra conoce a su amiga humana Kim, por la que haría lo que fuera. Fue capturada por Sir Corbyn y en viada al zoo de Hyde Park. Estar separada de Kim la sumió en una terrible tristeza, pero cuando vio a Kim abrir la puerta de su celda y ayudarla a escapar de su prisión, se prometió que nunca la alejarían de nuevo de su salvadora. 
 
 * **Aspectos**
   * **Concepto principal:** Temible tigresa de Bengala
   * **Complicación:** Hambrienta y asustada
+  * Amigas para siempre (Kim)
   * Buena vista y olfato
-  * Puro músculo
   * Acechadora
 * **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Mediocre (0), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
 * **Proezas**
@@ -98,7 +98,7 @@ XXX
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** XXX
-  * Una gran tigresa de Bengala la protege
+  * Amigas para siempre (Ehbri Khan)
   * Ágil como un mono
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
@@ -270,7 +270,7 @@ XXX
 
 XXX
 
-La agenda de citas ha desaparecido con lo que es imposible saber a quién tenía que recibir hoy el viejo notario.
+La ***agenda de citas ha desaparecido** con lo que es imposible saber a quién tenía que recibir hoy el viejo notario. Si preguntan en los locales de enfrente o de los lados, nadie vio nada raro o fuera de lo común. Entro la gente normal, tipos ricos que tienen algo que dejar o recibir en herencia o algún chico de recados.
 
 El lingote no se lo pueden llevar, aunque Hyde seguramente lo intenté, pero siendo rápidos (xxx) y con papel cebolla y carboncillo pueden obtener una copia muy buena sin que Newcomen o algún policía les vea.
 
@@ -282,9 +282,9 @@ XXX
 
 Una mañana de **bancos y joyerías** preguntando por el diseño de la rosa no tendrá ningún éxito, nadie reconoce la marca.
 
-El **Museo Británico u otra institución del conocimiento** puede ser una mejor opción para saber de donde proviene ese lingote. Según uno de los profesores, ese símbolo pertenecería a los lingotes de oro que formaban parte de la dote de la princesa Jariba de la India.
-
 \sp
+
+El **Museo Británico u otra institución del conocimiento** puede ser una mejor opción para saber de donde proviene ese lingote. Según uno de los profesores, ese símbolo pertenecería a los lingotes de oro que formaban parte de la dote de la princesa Jariba de la India.
 
 En **Scotland Yard** pueden tratar de buscar casos parecidos en los archivos. Pasando un día entero en los sótanos con los archiveros pueden encontrar dos casos parecidos, alguien mata a alguien en un ataque de pura rabia y había un lingote con un dibujo de una rosa.
 
@@ -304,9 +304,9 @@ Al contrario que Hyde, Jekyll, al tocar el lingote, sentirá la ira y Hyde saldr
 
 Si Hyde quiere pasar a Jekyll tras haber tocado el lingote en la misma escena le será imposible. Controla la ira, pero no puedes deshacerse de ella y traer a Jekyll.
 
-Cualquier otra persona que toque con las manos desnudas un lingote de la dote obtendrá la consecuencia leve «irá homicida» directamente y actuarán como un perro rabioso en un estadillo de furia asesina.
-
 \sp
+
+Cualquier otra persona que toque con las manos desnudas un lingote de la dote obtendrá la consecuencia leve «irá homicida» directamente y actuarán como un perro rabioso en un estadillo de furia asesina.
 
 ### La mansión de la familia Collidge
 
@@ -316,15 +316,15 @@ XXX
 
 #### Maximilian Collidge
 
-Collidge lleva consigo su sable de caballería y un mangual medieval que llevaba décadas colgado encima de la chimenea. Ese despliegue de armamento queda ridículo con el batín de seda y las zapatillas de felpa que llevaba puesto antes de enloquecer.
+Collidge lleva consigo su sable de caballería y un mangual medieval que llevaba décadas colgado encima de la chimenea. Ese despliegue de armamento queda ridículo con el batín de seda y las zapatillas de felpa que llevaba puestas antes de enloquecer.
 
 * **Aspectos**
   * **Concepto principal:** Veterano oficial de caballería
   * **Complicación:** Ira homicida
   * Diestro espadachín
+  * La caballería inglesa lucha hasta el final
   * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Estilos:** Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Mediocre (+0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Enorme (+4)
 * **Proezas**
   * XXX
   * XXX
