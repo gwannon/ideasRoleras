@@ -30,7 +30,7 @@ Como abogado y amigo y benefactor del zoo del Hyde Park, Gabriel Utterson es avi
 
 Cuando lleguen a la zona de los grandes felinos se encontrarán al inspector Newcomen metido dentro de la jaula de la tigresa revisando los barrotes junto a un cartel que pone «No dar de comer a los animales». Que tus jugadores hagan el chiste es cosa suya.
 
-La jaula en un habitáculo de 20x20 metros cuadrados con barrotes en 3 de sus lados y ladrillos con una puerta reforzada cerrada por fuera con un resistente pestillo. No hay cerradura, la puerta da una parte a la que los visitantes no tienen acceso de normal y por seguridad prefieren poder entrar ir salir sin necesidad de usar una llave.
+La jaula en un habitáculo de 20x20 metros cuadrados con barrotes en 3 de sus lados y ladrillos con una puerta reforzada cerrada por fuera con un resistente pestillo. No hay cerradura, la puerta da una parte a la que los visitantes no tienen acceso de normal y por seguridad prefieren poder entrar y salir sin necesidad de usar una llave.
 
 Cómo siempre Newcomen les dirá que no pueden estar allí y que solo estorban. Lo tiene todo controlado y están buscando a un experto para que atrape a Victoria la tigresa.
 
@@ -58,11 +58,13 @@ Es medianamente normal que la gente entre en el zoo por la noche a robar, pero n
 
 Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrarán nada. No es un consumo de carne tan grande como para que fuera significativo. Cualquier restaurante cutre compra al día esa cantidad de carne.
 
+XXX
+
+\sp
+
 ### Los primeros ataques
 
 Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no les queda más remedio que empezar a dar golpes. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor.
-
-\sp
 
 Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
 
@@ -76,13 +78,13 @@ La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa
 
 Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles. Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado.
 
+\sp
+
 Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres. Ya se ve recibiendo una medalla de la reina y como manda disecar a la tigresa y la pone en la sala de audiencias al lado de su trono.
 
 No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero empieza a triangular los ataques de la tigresa alrededor de Hyde Park y monta un puesto de caza móvil encima de un carruaje para detenidos de la policía.
 
-\sp
-
-Además cuenta con su salsa secreta y adobo secreto que aprendió en XXX para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.
+Además, cuenta con su salsa secreta y adobo secreto que aprendió en XXX para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.
 
 Si van de safari urbano con Sir Corbyn de caza verán que empapa siempre la carne de las trampas con un líquido verdoso que echa de una petaca. Y si le preguntan les dirá que son secretos de los grandes cazadores.
 
@@ -96,6 +98,8 @@ XXX
 
 Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que era una cachorra conoce a su amiga humana Kim, por la que haría lo que fuera. Fue capturada por Sir Corbyn y en viada al zoo de Hyde Park. Estar separada de Kim la sumió en una terrible tristeza, pero cuando vio a Kim abrir la puerta de su celda y ayudarla a escapar de su prisión, se prometió que nunca la alejarían de nuevo de su salvadora. 
 
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Temible tigresa de Bengala
   * **Complicación:** Hambrienta y asustada
@@ -103,8 +107,6 @@ Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que
   * Buena vista y olfato
   * Acechadora
 * **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Mediocre (0), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
-
-\sp
 
 * **Proezas**
   * **Rugido aterrador:** XXX
@@ -123,6 +125,9 @@ XXX
   * Ágil como un mono
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+
+\sp
+
 * **Proezas**
   * XXX
   * XXX
@@ -139,9 +144,6 @@ XXX
   * XXX
   * XXX
   * XXX
-
-\sp
-
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
   * XXX
@@ -160,6 +162,9 @@ XXX
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+
+\sp
+
 * **Proezas**
   * XXX
   * XXX
@@ -173,8 +178,6 @@ XXX
 La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
 
 > XXX
-
-\sp
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 

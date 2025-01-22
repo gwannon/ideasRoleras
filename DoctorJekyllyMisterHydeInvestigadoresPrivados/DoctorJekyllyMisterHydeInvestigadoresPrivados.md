@@ -121,15 +121,28 @@ Imaginemos que Jekyll se ha metido en una pelea de taberna en White Chapel, pued
 
 Pero recuerda que muy posiblemente Hyde se despertará sin saber muy bien qué pasa y por qué le golpean, aunque eso nunca le ha preocupado mucho.
 
+#### Regla opcional: Disparadores de cambio
+
+Normalmente, los cambios suponen cortar la partida y quedar otro día con el siguiente jugador. Si tus jugadores pueden estar entrando y saliendo de la partida sin problema, puede ser muy divertido que el jugador inactivo pueda interferir en la historia del jugador activo. Para ello, el jugador que se va puede poner disparadores que le permitirán volver a estar activo.
+
+\sp
+
+Los disparadores pueden de muy diversa índole, pero deben ser bastante específicos. El director de juego tendrá que darles el visto bueno. Veamos algunos ejemplos.
+
+* Hyde lleva días sin meterse en problemas y saldrá siempre que Jekyll reciba daño de una pelea.
+* Jekyll aparecerá si entra en escena Miss Daisy de la que está perdidamente enamorado y a la que no quiere que Hyde la incomode con sus palabras soeces.
+
+Poner un disparador tiene **1 coste de un punto de destino** y puedes poner **hasta 3 disparadores**. La perdida del punto de destino se aplicará si se activa alguno de los disparadores y perderás tantos puntos como disparadores pusiste. En cuanto tu personaje está activo de nuevo tanto porque su otro yo le ha dado paso como porque se ha activado el disparador, estos desaparecen.
+
 ### Consecuencias
 
 Las **consecuencias y aspectos físicos como heridas y golpes pasan de un personaje a otro**. Si Jekyll recibe una herida escapando de unos maleantes, cuando Hyde se despierte, se encontrará con la herida limpiada y suturada por el doctor. Si Hyde se pasa con la bebida, al caer inconsciente, Jekyll se levantará con el aspecto «borracho» o con una «resaca de mil demonios».
 
-\sp
-
 Las **consecuencias mentales o sociales no se mueven entre Hyde y Jekyll**. Imaginemos que Jekyll adquiere una severa aracnofobia. Al despertar, Hyde podría juguetear con una tarántula sin ningún temor.
 
 Lo que sí has de tener cuenta es que Jekyll tiene moral y ética y los actos de Hyde le pueden afectar y provocarle consecuencias mentales. Hyde tiende a crear situaciones que traumatizan a Jekyll cuando se despierta. 
+
+\sp
 
 De hecho, la complicación principal de Jekyll es su «alter ego» y las fechorías y felonías que hace Hyde mientras controla su cuerpo.
 
@@ -143,12 +156,12 @@ Realmente **no hay cambios físicos entre Jekyll y Hyde**. No le creen músculos
 
 * Mientras que Jekyll siempre va estirado, mostrando su porte de caballero, limpio y con un traje impecable, Hyde va encorvado, con ropa y sombrero que le tape la cara y sin preocuparse mucho de su higiene personal.
 
-\sp
-
 * Mientras que como buen inglés Jekyll tiene una dicción perfecta y un tono de voz medio y amable, Hyde trata de compensar sus complejos con un tono de voz grave y hablando muy alto, casi a gritos.
 * Hyde es mejor en peleas, no porque sea más fuerte y rápido, sino porque su lado animal le hace más agresivo y decidido y su umbral del dolor es mayor que el de Jekyll.
 
 Cualquier persona tendrá que pasar una **tirada Buena (+2) para sospechar que Hyde y Jekyll son la misma persona** y que nunca se les ve juntos.
+
+\sp
 
 #### Haciéndote pasar por el otro
 
@@ -162,11 +175,13 @@ En cualquier caso, el director de juego, tiene la última palabra sobre el estil
 
 Cuando investigan un caso, Jekyll y Hyde no pueden discutir las pistas descubiertas mientras se toman un té con pastas. Lo que hacen es **dejarse notas y llevar un diario del caso** donde escriben las cosas que han hecho y la nueva información obtenida para que la lea su otro yo al salir. 
 
-\sp
-
 Los jugadores deben ir escribiendo las notas mientras juegan y lo que haya en las notas y el diario real es lo que habrá en partida. Tampoco deben extenderse mucho, apuntes rápidos de una frase como mucho. El director de juego puede extender esas frases con más información, como si el autor hubiera escrito mucho más y con más detalle, pero no puede contar cosas que no estén escritas.
 
-Si en partida **no hubiera tiempo o posibilidad para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información** de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque. Tendrá que seguir a partir de lo que él mismo sabía y de los últimos apuntes escritos por Hyde. Jekyll no contará con la ventaja de saber que es lo que pudo averiguar desde la última nota hasta ahora.
+Si en partida **no hubiera tiempo o posibilidad para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información** de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque. 
+
+\sp
+
+Tendrá que seguir a partir de lo que él mismo sabía y de los últimos apuntes escritos por Hyde. Jekyll no contará con la ventaja de saber que es lo que pudo averiguar desde la última nota hasta ahora.
 
 ### El diario del caso
 
@@ -178,8 +193,6 @@ Si ellos lo pierden, ya no podrán acceder a su contenido y tendrán que empezar
 
 Podrían tratar de hacer copias de seguridad o encriptarlo, pero entonces deberían hacerlas ellos mismos como jugadores sobre sus notas.
 
-\sp
-
 ### Otras formas de comunicarse
 
 En este punto entra ya la creatividad de tus jugadores, quizás Jekyll se pinte en la frente con carboncillo el nombre del asesino o Hyde pague a un pilluelo una libra para que le pegue una parada la próxima vez que le vea y le grite una hora y un lugar.
@@ -190,6 +203,8 @@ Puede ser un punto divertido que se fastidien de esa manera, pero deberás contr
 
 Cuando sale una nueva personalidad a la palestra, esta **recibe todos los puntos Fate de su anterior yo que tuviera por encima de su capacidad de recuperación**.
 
+\sp
+
 Pongamos que Jekyll tiene 5 puntos Fate y una capacidad de recuperación 3. Se va a dormir para de salga Hyde, que tiene una capacidad de recuperación de 3. Eso supone que Hyde empieza con 5 puntos Fate, 3 normales por su capacidad de recuperación más 2 heredados de Jekyll.
 
 Esto trata de reflejar que el trabajo llevado a cabo y las ventajas conseguidas por un jugador investigando permanece de cierta forma en la nueva personalidad.
@@ -198,13 +213,13 @@ Esto trata de reflejar que el trabajo llevado a cabo y las ventajas conseguidas 
 
 Jekyll y Hyde por la misma naturaleza de su historia van a tener conflictos. Las formas de abordar los casos deberían ser diametralmente distintas, mientras que Jekyll tiene un punto de vista científico y analítico, Hyde saldrá a la calle sacar respuestas rompiendo dientes.
 
-\sp
-
 Puede pasar que algún momento una acción de uno interfiera en las de otro, sobre todo si hay fallos en la transmisión de la información entre personalidades.
 
 Tal vez hayan interrogado al mismo testigo cada uno a su estilo. Primero le interrogo Jekyll y fue bastante agradable prometiéndole protección policial y algo de dinero. Tras un buen rato le saco un nombre y una dirección. Más tarde apareció Hyde gritando y amenazando al testigo de que va a hacer su vida un infierno. Hyde no solo se enfrenta al aguante del testigo, también a las promesas que le haya hecho Jekyll, lo cual complica el interrogatorio. 
 
 En esta situación, si el **segundo jugador usa un estilo diferente al primero**, deberá pasar una **dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador**. Si usan el mismo estilo, algo que pocas veces pasará, solo deberá pasar la dificultad normal.
+
+\sp
 
 ## Hitos y su uso
 
@@ -490,6 +505,12 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Grabados interiores por [Charles Raymond Macauley](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/mode/2up)
 * Natural History in Anecdote - ALFRED H. MILES [Project Guttenberg](https://www.gutenberg.org/files/37959/37959-h/37959-h.htm)
 * Grabado de una pala por [rawpixel.com](https://www.freepik.com/free-vector/garden-set_2824792.htm)
+
+## Agradecimientos
+
+* A [Un Lápiz HB](https://bsky.app/profile/lapizhb.bsky.social) por sus aportaciones que llevaron a hacer la regla de disparadores de transformación.
+
+\sp
 
 ## Otros proyectos que te pueden interesar
 
