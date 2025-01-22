@@ -323,6 +323,10 @@ Mi recomendación sería que los inventos locos sean solo detalles que den color
 
 \sp
 
+[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0099.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/78/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
+
+\sp
+
 Otra opción que podría quedarle bien a tus aventuras sería magia negra con exóticos componentes como maldiciones egipcias o hechizos de vudú. Como hemos visto antes, la magia debería ser muy sutil y solo detalles en la trama. Me refiero a villanos con joyas con poderes hipnóticos y venenos, pócimas somníferas y sueros de la verdad hechos con plantas exóticas de la selva o sacados de antiquísimos papiros egipcios perdidos.
 
 «El secreto de la pirámide» es un claro ejemplo de como aplicar la ciencia y magia en las aventuras. Son detalles divertidos y coloridos, pero no son el eje de las partidas. 
@@ -337,13 +341,11 @@ Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrar
 
 Y si te sientes creativo también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir. O pueden que teman que una nueva personalidad realmente diabólica haya aparecido y haya estado cometiendo unos terribles asesinatos de mujeres en White Chapel. 
 
-\sp
-
-[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0099.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/78/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
-
 ***
 
-|LosExtranosCasosDeJekyllYHyde.md|
+|LosExtranosCasosDeJekyllYHydeUno.md|
+|LosExtranosCasosDeJekyllYHydeDos.md|
+|LosExtranosCasosDeJekyllYHydeTres.md|
 
 # Doctor Jekyll y Mister Hyde
 
