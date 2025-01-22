@@ -381,6 +381,8 @@ Los remordimientos que no tiene Hyde los sufre Jekyll a la noche siguiente, adem
   * **Médico avezado:** Debido a que es un experimentado médico, una vez por partida puedo remendar a una persona o a sí mismo y quitarle una consecuencia física tipo heridas, fracturas, enfermedades, etc. sin importar su gravedad.
   * .......................................................................................................... ..........................................................................................................
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sp
 
@@ -412,6 +414,8 @@ El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avan
   * **Mirada animal:** Debido a que puede mostrar su terrible bestia interior a través de sus ojos, gana un +2 para Atacar de modo Llamativo cuando trata de intimidar y amedrentar a otras personas y animales.
   * .......................................................................................................... ..........................................................................................................
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sp
 
@@ -530,7 +534,7 @@ El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu pa
 
 Contiene reglas para jugar con el Doctor Jekyll y Mister Hyde y su extraña relación. Solo necesitas _Fate Acelerado_ para jugar con este suplemento. Incluye también 3 casos listos para jugarse.
 
-* El extraño caso de la tigresa desaparecido del Zoo
+* El extraño caso de la tigresa desaparecida del Zoo
 * El extraño caso de las palas del zapador
 * El extraño caso del lingote de oro con la rosa impresa
 
