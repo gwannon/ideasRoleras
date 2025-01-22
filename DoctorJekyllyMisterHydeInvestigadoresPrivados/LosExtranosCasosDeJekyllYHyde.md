@@ -10,7 +10,7 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 ### Resumen del caso
 
-Kim ha recorrido miles y miles de kilómetros desde su Bengala natal para liberar a su amiga Ehbri Khan, una tigresa de Bengala, que está encerrado en el Zoo de Hyde Park. Ehbri Khan y Kim se conocieron de crías (de tigre y de humano) en las selvas de Bangladés y se hicieron compañeras de juego inseparables, hasta que hace unos años, Ehbri Khan fue captura por un rico cazador londinense Sir Roger Corbyn que la trajo a Londres y la dono al zoo de Hyde Park.
+Kim ha recorrido miles y miles de kilómetros desde su Bengala natal para liberar a su amiga Ehbri Khan, una tigresa de Bengala, que está encerrada en el zoo de Londres. Ehbri Khan y Kim se conocieron de crías (de tigre y de humano) en las selvas de Bangladés y se hicieron compañeras de juego inseparables, hasta que hace unos años Ehbri Khan fue captura por un rico cazador londinense, Sir Roger Corbyn, que la trajo a Londres y la dono al zoo.
 
 Kim no sabía que había sido de su compañera, hasta que trabajando de sirvienta para un rico terrateniente inglés descubrió un viejo ejemplar «The National Geographic» que Ehbri Khan (o como la habían rebautizado en el zoo, Victoria, en honor a la reina) estaba viva y encerrada en un horrible zoo en el lejano Londres. 
 
@@ -48,11 +48,13 @@ XXX
 
 ### Pistas a seguir
 
-Tras revisar la escena del crimen empieza la labor detectivesca que del puede hacer ir desde el Museo Británico al matadero municipal.
+Tras revisar la escena del crimen empieza la labor detectivesca que puede hacer ir a tus jugadores desde el Museo Británico al matadero municipal.
 
 **Si hablan con Bob, el cuidador del zoo agredido**, no podrá decirles mucho. Estaba de ronda nocturna no muy lejos de las jaulas de los felinos cuando una figura más bajita que él saltó como un mono delante suyo y le dejó inconsciente golpeándole con un palo.
 
 Es medianamente normal que la gente entre en el zoo por la noche a robar, pero nunca habían agredido deliberadamente a un cuidador.
+
+Tampoco falta ningún mono del zoo. 
 
 **Alimentar a un tigre de Bengala no es sencillo** y si consultan a algún experto en zoología les dirá que puede comer entre 20 y 40 kilos de carne fresca al día, en cautividad con unos 8 kilos podría subsistir. 
 
@@ -68,7 +70,7 @@ Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no 
 
 Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
 
-Kim y Ehbri no pueden alejarse mucho del bosquecillo de Hyde Park por medio a ser visto así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Hyde Park. Si ahora buscan carnicerías descubrirán que una niña india está comprando carne lo más barata posible incluso ternera en las carnicerías peores y más baratas, que se supone sagrada.
+Kim y Ehbri no pueden alejarse mucho del bosquecillo de Hyde Park por miedo a ser visto así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Hyde Park. Si ahora buscan carnicerías de la zona descubrirán que una niña india está comprando en las carnicerías peores y más baratas toda la carne que puede, incluso ternera que se supone sagrada para ella.
 
 XXX
 
@@ -120,10 +122,10 @@ XXX
 
 * **Aspectos**
   * **Concepto principal:** XXX
-  * **Complicación:** XXX
+  * **Complicación:** Niña extranjera en Londres
   * Amigas para siempre (Ehbri Khan)
   * Ágil como un mono
-  * XXX
+  * Valiente como un tigre
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 
 \sp
@@ -316,7 +318,7 @@ XXX
 
 La ***agenda de citas ha desaparecido** con lo que es imposible saber a quién tenía que recibir hoy el viejo notario. Si preguntan en los locales de enfrente o de los lados, nadie vio nada raro o fuera de lo común. Entro la gente normal, tipos ricos que tienen algo que dejar o recibir en herencia o algún chico de recados.
 
-El lingote no se lo pueden llevar, aunque Hyde seguramente lo intenté, pero siendo rápidos (xxx) y con papel cebolla y carboncillo pueden obtener una copia muy buena sin que Newcomen o algún policía les vea.
+El lingote no se lo pueden llevar, aunque Hyde seguramente lo intenté, pero siendo rápidos (XXX) y con papel cebolla y carboncillo pueden obtener una copia muy buena sin que Newcomen o algún policía les vea.
 
 Nadie está tocando nada con las manos desnudas. Newcomen está probando una nueva técnica forense, las huellas dactilares y todo el mundo lleva guantes. Espera que está técnica le dé ventaja sobre esos aficionados de Jekyll y Hyde.
 
