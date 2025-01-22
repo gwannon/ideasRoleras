@@ -507,8 +507,10 @@ El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu pa
 
 «Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para _Fate Acelerado_ para jugar 1 director de juego y 2 jugadores, pero no al mismo tiempo, ya que interpretarán al Doctor Jekyll y Mister Hyde mientras resuelven crímenes en un Londres Victoriano.
 
-Contiene reglas para jugar con el Doctor Jekyll y Mister Hyde y su extraña relación. Incluye también 3 casos listos para jugarse.
+Contiene reglas para jugar con el Doctor Jekyll y Mister Hyde y su extraña relación. Solo necesitas _Fate Acelerado_ para jugar con este suplemento. Incluye también 3 casos listos para jugarse.
 
-Solo necesitas _Fate Acelerado_ para jugar con este suplemento.
+* El extraño caso de la tigresa desaparecido del Zoo
+* El extraño caso de las palas del zapador
+* El extraño caso del lingote de oro con la rosa impresa
 
 Creado por [Gwannon](https://linktr.ee/gwannon)

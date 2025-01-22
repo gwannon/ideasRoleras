@@ -288,7 +288,8 @@ section:last-of-type * {
   color: #836f39;
 }
 
-section:last-of-type > p {
+section:last-of-type > p,
+section:last-of-type li {
   font-family: var(--title-font);
   font-size: 1.5em;
 }

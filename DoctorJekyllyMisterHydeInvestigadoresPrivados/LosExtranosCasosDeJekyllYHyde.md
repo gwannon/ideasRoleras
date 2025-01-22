@@ -22,19 +22,25 @@ Kim no sabía que había sido de su compañera, hasta que trabajando de sirvient
 
 Tras conseguir un pasaje y pasar meses trabajando en casi esclavitud en un barco inglés, Kim llegó a Londres y sin pensárselo sacó a Ehbri de su cárcel tras dejar sin sentido a uno de los cuidadores.
 
-Ahora mismo están refugiados en el interior del bosquecillo de XXX esperando el momento de poder escapar de Londres.
-
-XXX
+Ahora mismo están refugiados en el interior del bosquecillo de Regent’s Park esperando el momento de poder escapar de Londres.
 
 ### Introducción al caso
 
-XXX
+Como abogado y amigo y benefactor del zoo del Hyde Park, Gabriel Utterson es avisado de la fuga del tigre y este a su vez pide a sus amigos Jekyll y Hyde que ayuden al zoo a encontrar a la tigresa escapada.
+
+Cuando lleguen a la zona de los grandes felinos se encontrarán al inspector Newcomen metido dentro de la jaula de la tigresa revisando los barrotes junto a un cartel que pone «No dar de comer a los animales». Que tus jugadores hagan el chiste es cosa suya.
+
+La jaula en un habitáculo de 20x20 metros cuadrados con barrotes en 3 de sus lados y ladrillos con una puerta reforzada cerrada por fuera con un resistente pestillo. No hay cerradura, la puerta da una parte a la que los visitantes no tienen acceso de normal y por seguridad prefieren poder entrar ir salir sin necesidad de usar una llave.
+
+Cómo siempre Newcomen les dirá que no pueden estar allí y que solo estorban. Lo tiene todo controlado y están buscando a un experto para que atrape a Victoria la tigresa.
 
 Según el inspector, el ataque al cuidador y la fuga de la tigresa son pura coincidencia. La tigresa definitivamente se ha escapado.
 
 Robar un animal depredador como ese supone un golpe muy complejo con redes, sedantes, un vehículo de transporte y mucho ruido y no hay pruebas de nada de eso.
 
-XXX
+\sp
+
+No les quitará los ojos de encima mientras empiezan a investigar, pero enseguida se llenará de gazetilleros haciendo preguntas. Newcomen y podrán moverse más tranquilamente.
 
 ### La escena del crimen
 
@@ -42,11 +48,13 @@ XXX
 
 ### Pistas a seguir
 
-XXX
+Tras revisar la escena del crimen empieza la labor detectivesca que del puede hacer ir desde el Museo Británico al matadero municipal.
+
+**Si hablan con Bob, el cuidador del zoo agredido**, no podrá decirles mucho. Estaba de ronda nocturna no muy lejos de las jaulas de los felinos cuando una figura más bajita que él saltó como un mono delante suyo y le dejó inconsciente golpeándole con un palo.
+
+Es medianamente normal que la gente entre en el zoo por la noche a robar, pero nunca habían agredido deliberadamente a un cuidador.
 
 **Alimentar a un tigre de Bengala no es sencillo** y si consultan a algún experto en zoología les dirá que puede comer entre 20 y 40 kilos de carne fresca al día, en cautividad con unos 8 kilos podría subsistir. 
-
-\sp
 
 Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrarán nada. No es un consumo de carne tan grande como para que fuera significativo. Cualquier restaurante cutre compra al día esa cantidad de carne.
 
@@ -54,17 +62,29 @@ Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrará
 
 Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no les queda más remedio que empezar a dar golpes. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor.
 
+\sp
+
 Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
 
-La cosa se complica cuando el inspector Newcomen trae a Sir Corbyn de su retiro en la campiña para que de caza y mate a Ehbri.
+Kim y Ehbri no pueden alejarse mucho del bosquecillo de Hyde Park por medio a ser visto así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Hyde Park. Si ahora buscan carnicerías descubrirán que una niña india está comprando carne lo más barata posible incluso ternera en las carnicerías peores y más baratas, que se supone sagrada.
+
+XXX
+
+### Entra Sir Corbyn
+
+La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa para que de caza y mate a Ehbri a petición del inspector Newcomen. Si quieres hacerlo más ridículo diles que lleva unos meses en el lago Ness buscando un monstruo marino.
 
 Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles. Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado.
 
 Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres. Ya se ve recibiendo una medalla de la reina y como manda disecar a la tigresa y la pone en la sala de audiencias al lado de su trono.
 
-No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero empieza a triangular los ataques de la tigresa y monta un puesto de caza móvil encima de un carruaje para detenidos de la policía.
+No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero empieza a triangular los ataques de la tigresa alrededor de Hyde Park y monta un puesto de caza móvil encima de un carruaje para detenidos de la policía.
 
 \sp
+
+Además cuenta con su salsa secreta y adobo secreto que aprendió en XXX para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.
+
+Si van de safari urbano con Sir Corbyn de caza verán que empapa siempre la carne de las trampas con un líquido verdoso que echa de una petaca. Y si le preguntan les dirá que son secretos de los grandes cazadores.
 
 XXX
 
@@ -83,13 +103,14 @@ Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que
   * Buena vista y olfato
   * Acechadora
 * **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Mediocre (0), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
+
+\sp
+
 * **Proezas**
   * **Rugido aterrador:** XXX
   * XXX
   * **Entender a los humanos:** Debido a que ha pasado mucho tiempo entre humanos, empieza entender su lenguaje y sus gestos y gana un +2 para Defenderse de modo Rápido cuando quieren tenderla una trampa.
 * **Capacidad de recuperación:** 3
-
-\sp
 
 #### Kim
 
@@ -118,6 +139,9 @@ XXX
   * XXX
   * XXX
   * XXX
+
+\sp
+
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
   * XXX
@@ -125,7 +149,22 @@ XXX
   * XXX
 * **Capacidad de recuperación:** 3
 
-\sp
+#### Inspector Newcomen
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** 3
 
 ### El indulto real
 
@@ -134,6 +173,8 @@ XXX
 La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
 
 > XXX
+
+\sp
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
