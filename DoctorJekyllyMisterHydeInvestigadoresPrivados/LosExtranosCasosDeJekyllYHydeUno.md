@@ -124,7 +124,7 @@ Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que
 * **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Mediocre (+0), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
 * **Proezas**
   * **Rugido aterrador:** Debido a su rugido aterrador, gana un +2 a Atacar de forma Vigorosa, cuando se enfrenta a un solo atacante.
-  * **XXX:** XXX
+  * **Huida a la desesperada:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo, saltando por los tejados o perdiéndose entre callejones con Kim a la grupa sin que se le pueda seguir corriendo detrás de ella. 
   * **Entender a los humanos:** Debido a que ha pasado mucho tiempo entre humanos, empieza entender su lenguaje y sus gestos y gana un +2 para Defenderse de modo Rápido cuando quieren tenderla una trampa.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -132,22 +132,25 @@ Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que
 
 #### Kim
 
-XXX
+Kim conoce a Ehbri desde que tenía 6 años y se perdió en la selva que rodeaba su casa. Se encontró con una cachorra de tigre huérfana a la que cuidó y alimento como pudo. 
+
+Pasar tanto tiempo en el bosque con Ehbri hizo de ella fuera un poco salvaje, de hecho es una gran escaladora y ágil como un mono. También ha aprendido a hablar con su amiga tigresa y se compenetran perfectamente.
+
+\sp
+
+Cuando Ehbri desapareció, Kim sufrió muchísimo y cuando descubrió que seguía viva en Londres, supo que tenía que ir a buscarla, liberarla y volver juntas a Bengala.
 
 * **Aspectos**
-  * **Concepto principal:** XXX
+  * **Concepto principal:** Aventurera sin miedo
   * **Complicación:** Niña extranjera en Londres
   * Amigas para siempre (Ehbri Khan)
   * Ágil como un mono
   * Valiente como un tigre
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
-
-\sp
-
+* **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Mediocre (+0)
 * **Proezas**
-  * XXX
-  * XXX
-  * **Entender a los animales:** XXX
+  * **Ataque sorpresa:** Debido a su agilidad y sigilo, una vez por partida puede deshacerse de un matón directamente tendiéndole algún tipo de trampa.
+  * **Vida en el bosque:** Debido a haber crecido en el bosque, gana un +2 para Crear una ventaja de modo Cauto cuando esta en bosque, selva o similar.
+  * **Entender a los felinos:** Puede comunicarse con felinos como si fueran PNJ humanos, ten en cuenta que la comprensión del mundo del felino es limitada.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -156,6 +159,8 @@ XXX
 
 La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa para que de caza y mate a Ehbri a petición del inspector Newcomen. Si quieres hacerlo más ridículo diles que lleva unos meses en el lago Ness buscando un monstruo marino.
 
+\sp
+
 Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles. Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado.
 
 Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres. Ya se ve recibiendo una medalla de la reina y como manda disecar a la tigresa y la pone en la sala de audiencias al lado de su trono.
@@ -163,8 +168,6 @@ Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su c
 No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero empieza a triangular los ataques de la tigresa alrededor de Hyde Park y monta un puesto de caza móvil encima de un carruaje para detenidos de la policía.
 
 Además, cuenta con su salsa secreta y adobo secreto que aprendió en Kenia para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.
-
-\sp
 
 Si van de safari urbano con Sir Corbyn verán que empapa siempre la carne de las trampas con un líquido verdoso que echa de una petaca. Y si le preguntan les dirá que son secretos de los grandes cazadores.
 
@@ -180,6 +183,9 @@ XXX
   * Mi fusil de cazar elefantes
   * Puedes huir, pero te encontraré 
   * Modales suaves
+
+\sp
+
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
   * XXX
@@ -194,12 +200,11 @@ XXX
 * Escoria de la policía
 * **Buenos en (+2):** Peleas, Extorsionar a la gente
 * **Malos en (-2):** Hacer trabajo policial, Leyes
+* **Estrés:** ninguno (el primer ataque que le alcance le elimina).
 
 ### Cacería en Regent’s Park
 
 XXX
-
-\sp
 
 #### Encerrado en una jaula con una tigresa hambrienta
 
@@ -212,6 +217,8 @@ XXX
 La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
 
 > XXX
+
+\sp
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
