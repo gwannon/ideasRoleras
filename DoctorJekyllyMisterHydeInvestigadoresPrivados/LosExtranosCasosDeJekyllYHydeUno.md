@@ -99,7 +99,7 @@ Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no 
 
 Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
 
-Kim y Ehbri no pueden alejarse mucho del bosquecillo de Regent’s Park por miedo a ser visto, así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Regent’s Park, pero por lo menos necesitaran 5 asaltos para fijar adecuadamente la zona.
+Kim y Ehbri no pueden alejarse mucho del bosquecillo de Regent’s Park por miedo a ser visto, así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Regent’s Park, pero por lo menos necesitaran 5 asaltos para fijar adecuadamente la zona. Quizás 4 días si hicieron trabajo de mapear los lugares donde podía esconderse un tigre en Londres.
 
 Si ahora buscan carnicerías de la zona descubrirán que una niña india está comprando en las carnicerías peores y más baratas toda la carne que puede, incluso ternera que se supone sagrada para ella.
 
@@ -153,9 +153,9 @@ Cuando Ehbri desapareció, Kim sufrió muchísimo y cuando descubrió que seguí
 
 La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa para que de caza y mate a Ehbri a petición del inspector Newcomen. Si quieres hacerlo más ridículo diles que lleva unos meses en el lago Ness buscando un monstruo marino.
 
-\sp
-
 Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles.
+
+\sp
 
 Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado. Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres.
 
@@ -190,9 +190,7 @@ Este viejo cazador está deseoso de acabar con Ehbri, a la que tuvo que atrapar 
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-#### Ayudantes de Sir Corbyn
-
-Sir Corbyn va acompañado de 4 policías de Scotland Yard que le ayudan a cazar a Victoria.
+**Ayudantes de Sir Corbyn:** Sir Corbyn va acompañado de 4 policías de Scotland Yard que le ayudan a cazar a Victoria.
 
 * Escoria de la policía
 * **Buenos en (+2):** Peleas, Extorsionar a la gente
@@ -203,40 +201,55 @@ Sir Corbyn va acompañado de 4 policías de Scotland Yard que le ayudan a cazar 
 
 ### Cacería en Regent’s Park
 
+Si han conseguido adelantarse a Sir Corbyn en encontrar la ubicación de la guarida de Ehbri y Kim, puede empezar a peinar Regent’s Park o pueden tratar de pillar a Kim cuando vaya a buscar comida y llevársela a Ehbri. También pueden esperar a que salgan a robar a la noche y seguirle cuando entren o salgan. 
+
+Ponerse a buscarlos por los bosques de Regent’s Park sin conocimientos de rastreo es bastante difícil y tienen el problema de que estarían en desventaja con Ehbri que sabe moverse entre los árboles y los matorrales.
+
+Si encuentran a Kim, tendrán que convencerla de que son buenas personas y quieren ayudarlas (sea o no verdad). Esta les conducirá a Ehbri y la tranquilizará y les dirá que no son enemigos.
+
+Si se encuentran con Ehbri, esta se lanzará al ataque y tras un par de rondas aparecerá Kim para negociar. Deberán convencer a Kim y a Ehbri que puede entenderles un poco de que no quieren hacerles daño. Si fallan, atacarán hasta derrotarlos o huirán para desaparecer para siempre o durante mucho tiempo (las secuelas son buenas semillas de aventuras).
+
+Cuando se pongan a planear sus siguientes pasos, llegarán ruidos de fuera de la arboleda. Algo está pasando en el parque, sir Corbyn está preparándose para su cacería.
+
+Si no consiguen adelantarse a Sir Corbyn enseguida verán todo el espectáculo y tendrán que colarse dentro del parque escalando las verjas y esquivando a los policías y soldados y juntarse con Sir Corbyn o intentar infiltrarse en el bosquecillo que está sitiando ahora mismo Sir Corbyn.
+
+\sp
+
+#### Sir Corbyn saca su rifle
+
 Al cabo de 5 días con sus 5 ataques (o antes si tus jugadores descubren la ubicación de la tigresa), Sir Corbyn tendrá claro que su presa está en Regent’s Park. Así que allí irá montando un dispositivo de caza gigantesco. Todas las puertas del parque serán cerradas, se vaciará de viandantes y policías y soldados con rifles estarán vigilando que nada escape del parque.
 
-Ha hecho montar una jaula para retener al tigre cuando sea atrapado, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo.
+Ha hecho montar una jaula para retener al tigre cuando sea atrapado y ha montado su puesto de caza encima, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo.
 
-Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la curiosidad.
+Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la curiosidad y la verdad que sir Corbyn está disfrutando de actuar frente a tan selecto público.
 
 #### Empieza la cacería
 
 XXX
 
-#### Encerrado en una jaula con una tigresa hambrienta
-
-XXX
-
 ### El indulto real
 
-Al empezar el tiroteo los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción.
-
-XXX
-
-La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
+Al empezar el tiroteo los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción. Poco a poco la gente empezará a rodear la jaula para ver el espectáculo, jaleando a unos u otros.  
 
 \sp
 
-> Siempre he pensado que hay un placer mayor que matar, que es dejar vivir y es, por tanto, mi deseo y mi derecho como reina que XXX
+Cuando veas oportuno se abrirá un pasillo entre el público y unos soldados de la guardia de honor real dejarán pasar a la propia reina Victoria que su ropa de montar. Debía estar haciendo su paseo a caballo diario y al ver el gentío ha querido ver que pasaba. 
 
-Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
+Ante su presencia, tus jugadores, Sir Corbyn (que hinca rodilla), Kim y Ehbri se detendrán y esperarán callados a que hable la reina.
+
+> Me entristece ver este terrible espectáculo en el corazón de mi reino, ¡cuán bajo han caído mis súbditos! Siempre he pensado que hay un placer mayor que matar, que es dejar vivir, así al ver aquí a mis súbditos luchando hasta la muerte prefiero que vivan y es, por tanto, mi deseo y mi derecho como reina que todos mis súbditos tanto humanos como tigres dejen de pelear y de matarse entre ellos. 
+
 
 [![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
 
 \sp
 
+Acto seguido, se da la vuelta y se va por donde ha venido. Mientras un par de guardias se llevarán a Sir Corbyn y los otros tratarán de hablar con los jugadores y les ofrecerán las caballerizas reales para que Kim y Ehbri vivan unos días allí mientras preparan las cosas para trasladarlos a Bengala.
+
+Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
+
 ### Unas semanas más tarde
 
-Unas semanas más tarde del fin del indulto de la reina, un bienhechor anonimo, ha pagado el viaje de regreso a Bengala para Kim y Ehbri y ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.
+Unas semanas más tarde del fin del indulto de la reina, un bienhechor anónimo, ha pagado el viaje de regreso a Bengala para Kim y Ehbri. Ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.
 
 Según «The National Geographic» esos estudios podrían ser la base de un futuro lenguaje universal hablado por hombres y bestias. 
