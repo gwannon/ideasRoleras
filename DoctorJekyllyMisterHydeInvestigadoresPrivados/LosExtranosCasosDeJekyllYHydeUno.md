@@ -225,13 +225,23 @@ Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la cur
 
 #### Empieza la cacería
 
-XXX
+Sir Corbyn ha dejado dentro de la jaula un buen pedazo de carne fresca con su salsa especial. Eso volverá loco a Ehbri que en cuanto lo huela saldrá corriendo hacia la trampa.  Es complicado parar a la tigresa pero no imposible.
+
+Cuando Ehbri empiece a devorar la carne, Sir Corbyn bajará y sacará su cuchillo de caza para matar con sus propias manos a la tigresa. Quiere lucirse delante de la gente que acercándose.
+
+La carne está drogada y no deja a Ehbri durmiendo, pero muy tocada (Consecuencia leve Drogada). Kim cuando vea eso saldrá hacia la jaula para ayudar a su amiga y entrará en la jaula por los pelos porque Sir Corbyn ha activado el cierre de la jaula para chulearse de luchar contra un tigre en una jaula.
+
+\sp
+
+Con una tirada Buena (+2) los jugadores entrarán en la jaula por los pelos y ayudar a Kim y Ehbri en la pelea. Pueden intentar si son fuertes evitar que la trampa no llegue a cerrarse con una tirada Grande (+3).
+
+Desde fuera, muy poco se puede hacer, pero si son creativos, igual pueden entrar dentro o ayudar a una de las partes.
+
+En la impensable, pero posible, situación que tus jugadores estén ayudando a Sir Corbyn, les dirán que se queden fuera. No quiere que nadie le robe la fama. Pueden intentar que Kim entre en la jaula, pero poco podrán hacer después, desde fuera de la jaula. Ehbri y Kim se pondrán a pelear a muerte con Sir Corbyn dentro.
 
 ### El indulto real
 
 Al empezar el tiroteo los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción. Poco a poco la gente empezará a rodear la jaula para ver el espectáculo, jaleando a unos u otros.  
-
-\sp
 
 Cuando veas oportuno se abrirá un pasillo entre el público y unos soldados de la guardia de honor real dejarán pasar a la propia reina Victoria que su ropa de montar. Debía estar haciendo su paseo a caballo diario y al ver el gentío ha querido ver que pasaba. 
 
@@ -239,17 +249,20 @@ Ante su presencia, tus jugadores, Sir Corbyn (que hinca rodilla), Kim y Ehbri se
 
 > Me entristece ver este terrible espectáculo en el corazón de mi reino, ¡cuán bajo han caído mis súbditos! Siempre he pensado que hay un placer mayor que matar, que es dejar vivir, así al ver aquí a mis súbditos luchando hasta la muerte prefiero que vivan y es, por tanto, mi deseo y mi derecho como reina que todos mis súbditos tanto humanos como tigres dejen de pelear y de matarse entre ellos. 
 
-
-[![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
-
 \sp
 
 Acto seguido, se da la vuelta y se va por donde ha venido. Mientras un par de guardias se llevarán a Sir Corbyn y los otros tratarán de hablar con los jugadores y les ofrecerán las caballerizas reales para que Kim y Ehbri vivan unos días allí mientras preparan las cosas para trasladarlos a Bengala.
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
+[![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
+
 ### Unas semanas más tarde
 
-Unas semanas más tarde del fin del indulto de la reina, un bienhechor anónimo, ha pagado el viaje de regreso a Bengala para Kim y Ehbri. Ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.
+Una semana más tarde del fin del indulto de la reina, un bienhechor anónimo ha fletado un barco exclusivamente para el viaje de regreso a Bengala para Kim y Ehbri. Ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.
 
-Según «The National Geographic» esos estudios podrían ser la base de un futuro lenguaje universal hablado por hombres y bestias. 
+\sp
+
+Según «The National Geographic» esos estudios podrían ser la base de un futuro lenguaje universal hablado por hombres y bestias.
+
+Si los jugadores se interesan por el estudio, nunca llego a publicarse. Los estudiosos que lo hicieron lo entregaron por Correo y nunca supo nada.

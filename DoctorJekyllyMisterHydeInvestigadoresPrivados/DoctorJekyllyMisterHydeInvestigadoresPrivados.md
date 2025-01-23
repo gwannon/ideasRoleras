@@ -361,9 +361,19 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 \sp
 
-## ¿Cómo continua esto?
+## ¿Cómo continuamos esto?
 
-XXX
+Estas tres aventuras son independientes, pero si las has leído todas acaban unas semanas más tarde con la desaparición de algunas cosas como las palas del zapador, el lingote envenenado o el estudio sobre el habla animal que alguien anónimo pidió.
+
+La idea es que puedas usar estos 3 ganchos para otras aventuras independientes, por ejemplo alguien ahora puede hacer robos imposibles porque puede convencer a los animales que acaten sus órdenes. Quizás haya un nuevo opio superadictivo en las calles que lleva a una terrible violencia a su consumidor. Los tres casos dan esas y más opciones.
+
+Estás semillas puede que caigan todas en una única aventura en la que algún tipo de villano a lo Profesor Moriarty que tiene un malvado plan delictivo en el que intervienen esos tres objetos.
+
+Por último, creo que es fácil adaptar aventuras de misterio a FATE y a las peculiaridades de este suplemento y seguir las aventuras de Jekyll y Hyde.
+
+Y por qué no enfrentarlos a Cultos de adoradores de los primigenios o que viajen en el tiempo con su colega H. G. Wells.
+
+**Las posibilidades son infinitas.**
 
 \sp
 
