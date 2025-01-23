@@ -76,10 +76,6 @@ El único problema que tiene está opción es que no cobrarás este trabajo y se
 
 Tanto si es derrotado como si termina rindiéndose, Joshua será condenado a 12 años de cárcel y un comprador anónimo se quedará con los derechos de explotación del invento, dando a señora Croft una suma de dinero que le genera una buena pensión todos los meses.
 
-Unas semanas más tarde, recibirán un soplo de un contacto en Scotland Yard, *las palas han sido robadas* del almacén de pruebas. Lo curioso es que nadie parece usar la tecnología de Croft, así que el comprador anónimo se la está guardando para él y, por desgracia, las únicas muestras existentes de la aleación, las palas, han desaparecido.
-
-Quizás tus jugadores tengan alguna muestra en su despacho …
-
 #### Joshua Croft
 
 Joshua puede usar su pala para controlar los rayos y que parte de las descargas del rayo impacten en Jekyll o Hyde.
@@ -98,3 +94,9 @@ Joshua puede usar su pala para controlar los rayos y que parte de las descargas 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
+### Unas semanas más tarde
+
+Unas semanas más tarde, recibirán un soplo de un contacto en Scotland Yard, *las palas han sido robadas* del almacén de pruebas. Lo curioso es que nadie parece usar la tecnología de Croft, así que el comprador anónimo se la está guardando para él y, por desgracia, las únicas muestras existentes de la aleación, las palas, han desaparecido.
+
+Quizás tus jugadores tengan alguna muestra en su despacho …

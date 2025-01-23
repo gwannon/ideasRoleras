@@ -225,10 +225,18 @@ XXX
 
 La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
 
-> Siempre he pensado que hay un placer mayor que matar, que es dejar vivir y es, por tanto, mi deseo y mi derecho como reina que XXX
-
 \sp
+
+> Siempre he pensado que hay un placer mayor que matar, que es dejar vivir y es, por tanto, mi deseo y mi derecho como reina que XXX
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
 [![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
+
+\sp
+
+### Unas semanas más tarde
+
+Unas semanas más tarde del fin del indulto de la reina, un bienhechor anonimo, ha pagado el viaje de regreso a Bengala para Kim y Ehbri y ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.
+
+Según «The National Geographic» esos estudios podrían ser la base de un futuro lenguaje universal hablado por hombres y bestias. 

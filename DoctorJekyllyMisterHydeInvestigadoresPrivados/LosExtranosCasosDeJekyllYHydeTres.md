@@ -56,9 +56,18 @@ Tarde o temprano se darán cuenta de que solo pueden saber qué ha pasado si inv
 
 Si Newcomen les niega todo acceso a una prueba del caso, solo tienen una opción, colarse en el despacho de Newcomen y robarle el lingote.
 
+El despacho de Newcomen está cerrado con llave y las únicas posibles entradas son por una ventana del tercer piso que da a la calle principal y la puerta de su despacho que cierra con llave (tirada Buena +2) cuando no está. El resto de la planta está llena de policías de calle y detectives que van y vienen de sus mesas llevando y trayendo detenidos. Otro de los detectives jefe como Newcomen tiene una copia del despacho de Newcomen por si necesitan abrir su despacho.
+
+Sea como sea, llegar al despacho y forzar la cerradura sin ser visto es casi imposible, siempre hay polis en las inmediaciones. Las opciones más sencillas serían:
+
+\sp
+
+* Disfrazarse de personal de limpieza y pedir entrar en el despacho de Newcomen. También pueden intentar hacerse por albañiles o carpinteros que vienen a hacer alguna obra en su despacho.
+* Hacerse pasar por mensajeros que traen un paquete más o menos grande. Cuanto más grande más posibilidades de que les abran el despacho de Newcomen par meterlo dentro.
+
 XXX
 
-### Y si Hyde y Jekyll tocan el lingote
+### Y si Hyde o Jekyll tocan el lingote
 
 Si se diera ese caso, Hyde no sufriría ningún cambio especial. Hyde ya era la ira irracional y asesina y ha aprendido a controlarla, con lo que no notará nada especial.
 
@@ -66,15 +75,21 @@ Al contrario que Hyde, Jekyll, al tocar el lingote, sentirá la ira y Hyde saldr
 
 Si Hyde quiere pasar a Jekyll tras haber tocado el lingote en la misma escena le será imposible. Controla la ira, pero no puedes deshacerse de ella y traer a Jekyll.
 
-\sp
-
 Cualquier otra persona que toque con las manos desnudas un lingote de la dote obtendrá la consecuencia leve «irá homicida» directamente y actuarán como un perro rabioso en un estadillo de furia asesina.
+
+### Todas las pistas apuntan a la familia Collidge
+
+XXX
+
+\sp
 
 ### La mansión de la familia Collidge
 
 Cuando lleguen Hyde o Jekyll a la mansión Collidge, estará totalmente en silencio y sin ningún tipo de iluminación, si llegan de noche. Tus jugadores no lo saben, pero Maximilian está dentro escondido esperando a que llegue alguien para descargar toda la ira sobre él. Lleva tanto tiempo en contacto con el lingote que ya está totalmente desquiciado, una niebla roja cubre su cerebro y solo piensa en matar y destruir al que se atreva a entrar en su casa. 
 
 XXX
+
+Maximilian es casi imposible recuperarlo si sale vivo del enfrentamiento pasará el resto de sus días en una institución mental con una camisa de fuerza en una celda acolchada.
 
 #### Maximilian Collidge
 
@@ -98,6 +113,6 @@ Collidge lleva consigo su sable de caballería y un mangual medieval que llevaba
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-\sp
+### Unas semanas más tarde
 
-[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0147.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/118/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
+Unas semanas más tarde, XXX

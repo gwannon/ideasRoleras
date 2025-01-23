@@ -323,10 +323,6 @@ Mi recomendación sería que los inventos locos sean solo detalles que den color
 
 \sp
 
-[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0099.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/78/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
-
-\sp
-
 Otra opción que podría quedarle bien a tus aventuras sería magia negra con exóticos componentes como maldiciones egipcias o hechizos de vudú. Como hemos visto antes, la magia debería ser muy sutil y solo detalles en la trama. Me refiero a villanos con joyas con poderes hipnóticos y venenos, pócimas somníferas y sueros de la verdad hechos con plantas exóticas de la selva o sacados de antiquísimos papiros egipcios perdidos.
 
 «El secreto de la pirámide» es un claro ejemplo de como aplicar la ciencia y magia en las aventuras. Son detalles divertidos y coloridos, pero no son el eje de las partidas. 
@@ -340,6 +336,10 @@ Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede qu
 Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima. Los inspectores Newcomen y Lestrade seguro que se conocen y estarán encantados de trabajar juntos para desbancar a tus jugadores como los mejores detectives de la ciudad.
 
 Y si te sientes creativo también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir. O pueden que teman que una nueva personalidad realmente diabólica haya aparecido y haya estado cometiendo unos terribles asesinatos de mujeres en White Chapel. 
+
+\sp
+
+[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0099.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/78/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
 
 ***
 
@@ -358,6 +358,16 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 \sp
 
 |LosExtranosCasosDeJekyllYHydeTres.md|
+
+\sp
+
+## ¿Cómo continua esto?
+
+XXX
+
+\sp
+
+[![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0147.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/118/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
 
 ***
 
@@ -525,6 +535,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Grabados interiores por [Charles Raymond Macauley](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/mode/2up)
 * Natural History in Anecdote - ALFRED H. MILES [Project Guttenberg](https://www.gutenberg.org/files/37959/37959-h/37959-h.htm)
 * Grabado de una pala por [rawpixel.com](https://www.freepik.com/free-vector/garden-set_2824792.htm)
+* Portrait of Queen Victoria, 1897, by [Forestier](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier)
+* Field officer of the Prince of Wales's (North Staffordshire Regiment), 1914. [Anne S. K. Brown Military Collection](https://itoldya420.getarchive.net/amp/media/north-staffordshire-regt-field-officer-5f349a)
 
 ## Agradecimientos
 
