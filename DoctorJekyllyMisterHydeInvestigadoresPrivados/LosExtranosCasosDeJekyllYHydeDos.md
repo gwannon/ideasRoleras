@@ -98,5 +98,3 @@ Joshua puede usar su pala para controlar los rayos y que parte de las descargas 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
-
-\sp

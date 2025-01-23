@@ -343,9 +343,23 @@ Y si te sientes creativo también puedes hacer que tus jugadores investiguen ext
 
 ***
 
+# Los extraños casos de Hyde & Jekyll
+
+¿Y qué son unos detectives sin caso? Así que aquí hay 3 casos para que tus jugadores puedan disfrutar de sus andanzas detectivescas como Henry Jekyll y Edward Hyde.
+
+No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gusten.
+
 |LosExtranosCasosDeJekyllYHydeUno.md|
+
+\sp
+
 |LosExtranosCasosDeJekyllYHydeDos.md|
+
+\sp
+
 |LosExtranosCasosDeJekyllYHydeTres.md|
+
+***
 
 # Doctor Jekyll y Mister Hyde
 

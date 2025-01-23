@@ -1,9 +1,3 @@
-# Los extraños casos de Hyde & Jekyll
-
-¿Y qué son unos detectives sin caso? Así que aquí hay 3 casos para que tus jugadores puedan disfrutar de sus andanzas detectivescas como Henry Jekyll y Edward Hyde.
-
-No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gusten.
-
 ## El extraño caso de la tigresa desaparecido del Zoo
 
 > El pánico corre por las calles de Londres ante la noticia de que una tigresa bengalí ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición de la tigresa. Sea como sea, habrá que encontrarla, detener a su ladrón y devolverla al zoo.
@@ -149,7 +143,7 @@ Cuando Ehbri desapareció, Kim sufrió muchísimo y cuando descubrió que seguí
 * **Estilos:** Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Mediocre (+0)
 * **Proezas**
   * **Ataque sorpresa:** Debido a su agilidad y sigilo, una vez por partida puede deshacerse de un matón directamente tendiéndole algún tipo de trampa.
-  * **Vida en el bosque:** Debido a haber crecido en el bosque, gana un +2 para Crear una ventaja de modo Cauto cuando esta en bosque, selva o similar.
+  * **Vida en el bosque:** Debido a haber crecido en el bosque, gana un +2 para Crear una ventaja de modo Cauto cuando está en bosque, selva o similar.
   * **Entender a los felinos:** Puede comunicarse con felinos como si fueran PNJ humanos, ten en cuenta que la comprensión del mundo del felino es limitada.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -161,21 +155,25 @@ La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa
 
 \sp
 
-Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles. Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado.
+Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles.
 
-Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres. Ya se ve recibiendo una medalla de la reina y como manda disecar a la tigresa y la pone en la sala de audiencias al lado de su trono.
+Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado. Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres.
 
-No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero empieza a triangular los ataques de la tigresa alrededor de Hyde Park y monta un puesto de caza móvil encima de un carruaje para detenidos de la policía.
+Ya se ve recibiendo una medalla de la reina y como esta manda disecar a la tigresa y la pone en la sala de audiencias al lado de su trono.
 
-Además, cuenta con su salsa secreta y adobo secreto que aprendió en Kenia para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.
+No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero ha empezado a estudiar los lugares de los ataques y a triangularlos para acotar su zona de caza. Además, ha montado un puesto de caza móvil encima de un carruaje para detenidos de la policía a semejanza de los elefantes que usan en la India para cazar tigres.
+
+No hemos de olvidar que cuenta con su salsa secreta, un adobo secreto que aprendió en Kenia para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.
 
 Si van de safari urbano con Sir Corbyn verán que empapa siempre la carne de las trampas con un líquido verdoso que echa de una petaca. Y si le preguntan les dirá que son secretos de los grandes cazadores.
 
-XXX
-
 #### Sir Roger Corbyn
 
-XXX
+Sir Corbyn vive por y para la caza y como ella es cruel y sanguinaria. Mientras que otros cazadores puede tener un mínimo de respeto por sus presas. Sir Corbyn se ríe de ellas y las desprecia desde su puesto elevado y camuflado cuando ve su cadáver abatido por sus disparos a través de su mira telescópica.
+
+\sp
+
+Este viejo cazador está deseoso de acabar con Ehbri, a la que tuvo que atrapar viva y no tuvo el gusto de matar. Pero está vez no escapará de su rifle de cazar elefantes y acabará decorando alguna sala del palacio de Buckingham.
 
 * **Aspectos**
   * **Concepto principal:** Gran cazador blanco
@@ -183,26 +181,35 @@ XXX
   * Mi fusil de cazar elefantes
   * Puedes huir, pero te encontraré 
   * Modales suaves
-
-\sp
-
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Estilos:** Cauto Normal (+1), Furtivo Bueno (+3), Ingenioso Normal(+1), Llamativo Bueno (+3), Rápido Bueno (+3), Vigoroso Bueno (+3)
 * **Proezas**
-  * XXX
-  * XXX
-  * XXX
+  * **Francotirador:** Debido a su experiencia como cazador, gana un +2 para Atacar en modo Furtivo cuando dispara desde una localización oculta.
+  * **Trampero:** Debido a su experiencia cazando grandes bestias, gana un +2 para Crear ventaja en modo Furtivo cuando monta trampas.
+  * **Historias de caza:** Debido a sus años contando historias de caza falsas, gana un +2 para Superar en modo Llamativo cuando tiene que mentir.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 #### Ayudantes de Sir Corbyn
 
+Sir Corbyn va acompañado de 4 policías de Scotland Yard que le ayudan a cazar a Victoria.
+
 * Escoria de la policía
 * **Buenos en (+2):** Peleas, Extorsionar a la gente
 * **Malos en (-2):** Hacer trabajo policial, Leyes
 * **Estrés:** ninguno (el primer ataque que le alcance le elimina).
 
+\sp
+
 ### Cacería en Regent’s Park
+
+Al cabo de 5 días con sus 5 ataques (o antes si tus jugadores descubren la ubicación de la tigresa), Sir Corbyn tendrá claro que su presa está en Regent’s Park. Así que allí irá montando un dispositivo de caza gigantesco. Todas las puertas del parque serán cerradas, se vaciará de viandantes y policías y soldados con rifles estarán vigilando que nada escape del parque.
+
+Ha hecho montar una jaula para retener al tigre cuando sea atrapado, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo.
+
+Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la curiosidad.
+
+#### Empieza la cacería
 
 XXX
 
@@ -212,14 +219,16 @@ XXX
 
 ### El indulto real
 
+Al empezar el tiroteo los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción.
+
 XXX
 
 La propia Victoria aparecerá de entre el gentío con su guardia de honor y su ropa de montar y soltará un discurso.
 
-> XXX
+> Siempre he pensado que hay un placer mayor que matar, que es dejar vivir y es, por tanto, mi deseo y mi derecho como reina que XXX
 
 \sp
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
-\sp
+[![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
