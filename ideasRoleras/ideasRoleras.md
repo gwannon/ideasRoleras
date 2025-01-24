@@ -1,6 +1,6 @@
 \sincolumna
 
-# Ideas Roleras [Por Gwannon - 24/12/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 24/01/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos, ambientaciones y campañas
 
@@ -385,7 +385,7 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \sincolumna
 
-## En desarrollo
+## Pensando
 
 \concolumna
 
