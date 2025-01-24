@@ -381,10 +381,10 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
 
-Les contratan en peligrosas misiones que solo una mascota puede cumplir como repartir muestras gratis de sangre por la noche en un pueblo de ninjas.
+Les contratan en peligrosas misiones que solo una mascota preparada puede cumplir como repartir muestras gratis de sangre falsa en un baile de vampiros o hacer una campaña de seguridad vial para usar ropa reflectante de noche en un pueblo de ninjas.
 
 \saltocolumna
 
 ### La liga de los críptidos extraordinarios
 
-Hay grupos de personaje de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes en sus hábitats.
+Hay grupos de personaje de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
