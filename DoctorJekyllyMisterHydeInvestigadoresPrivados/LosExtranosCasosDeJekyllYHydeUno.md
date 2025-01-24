@@ -219,7 +219,7 @@ Si no consiguen adelantarse a Sir Corbyn enseguida verán todo el espectáculo y
 
 Al cabo de 5 días con sus 5 ataques (o antes si tus jugadores descubren la ubicación de la tigresa), Sir Corbyn tendrá claro que su presa está en Regent’s Park. Así que allí irá montando un dispositivo de caza gigantesco. Todas las puertas del parque serán cerradas, se vaciará de viandantes y policías y soldados con rifles estarán vigilando que nada escape del parque.
 
-Ha hecho montar una jaula para retener al tigre cuando sea atrapado y ha montado su puesto de caza encima, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo.
+Ha hecho montar una jaula para retener al tigre cuando sea atrapado y ha montado su puesto de caza encima, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo. La jaula está situada casi al borde de la arboleda donde se refugian Ehbri y Kim.
 
 Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la curiosidad y la verdad que sir Corbyn está disfrutando de actuar frente a tan selecto público.
 

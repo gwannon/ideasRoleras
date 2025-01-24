@@ -361,7 +361,7 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 \sp
 
-## ¿Cómo continuamos esto?
+## ¿Cómo puedes continuar?
 
 Estas tres aventuras son independientes, pero si las has leído todas acaban unas semanas más tarde con la desaparición de algunas cosas como las palas del zapador, el lingote envenenado o el estudio sobre el habla animal que alguien anónimo pidió.
 

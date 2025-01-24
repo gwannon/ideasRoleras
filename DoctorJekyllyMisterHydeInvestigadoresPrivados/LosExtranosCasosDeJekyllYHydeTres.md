@@ -4,13 +4,13 @@
 
 ### Resumen del caso
 
-La Dote de la Princesa Jariba son unos 20 lingotes de oro que el marajá de Kapurthala ofreció como parte de la dote de su hija la Princesa Jariba. Hizo ponerles una rosa como marca, ya que era la flor preferida de su hija.
+La oro de la Dote de la Princesa Jariba son unos 40 lingotes de oro que el marajá de Kapurthala ofreció como parte de la dote de su hija la Princesa Jariba. Hizo ponerles una rosa como marca, ya que era la flor preferida de su hija.
 
 La dote fue robada durante su traslado al hogar del futuro marido de Jariba. Este lo tomó como señal de mal augurio y rechazo a la princesa y deshizo la boda.
 
 Desde entonces, llevan como unos 80 años apareciendo y desapareciendo y cada vez que aparece uno de estos lingotes está relacionado con terribles asesinatos.
 
-Estos lingotes están impregnados de una sustancia cerosa que al contacto con el calor como el producido por el cuerpo humano, desprende una toxina que se absorbe por la piel y llega al cerebro provocando una ira irracional y homicida en su víctima.
+Estos lingotes están impregnados de una sustancia cerosa que al contacto con el calor como el producido por el cuerpo humano, desprende una toxina que se absorbe por la piel. Las toxinas al llegar al cerebro provocan una ira irracional y homicida en su víctima.
 
 Esta sustancia la puso el visir del marajá que estaba enamorado de Jariba y cuyo amor no era correspondido. Su idea es que si Jariba no era suya, no fuera de nadie y su futuro marido la matará en la noche de boda al ofrecerle ella su dote antes de consumar el matrimonio.
 
@@ -22,7 +22,9 @@ XXX
 
 ### Introducción al caso
 
-XXX
+Gabriel Utterson acude a tus jugadores apenado y entristecido. Esta mañana había ido a visitar a su amigo y primer jefe John Stonewall y se lo ha encontrado muerto en su pequeña notaría. Tenía un brutal golpe en la cabeza y el arma homicida parece ser un lingote de oro.
+
+Cuando llegan no se puede entrar en la notaría, Wilson, el armario empotrado que Newcomen ha dejado 
 
 ### La escena del crimen
 
@@ -34,38 +36,48 @@ El lingote no se lo pueden llevar, aunque Hyde seguramente lo intenté, pero sie
 
 Nadie está tocando nada con las manos desnudas. Newcomen está probando una nueva técnica forense, las huellas dactilares y todo el mundo lleva guantes. Espera que está técnica le dé ventaja sobre esos aficionados de Jekyll y Hyde.
 
+\sp
+
 ### Pistas a seguir
+
+El caso es muy sencillo y a la vez muy difícil. Usando un diagrama de Venn, el asesino es la persona que esté en el grupo de clientes que visitaron a Stonewall ese día y la de gente relacionada con los lingotes de la dote de la Princesa Jabira. El primer problema es que no saben nada del lingote y el segundo problema es que el libro de citas se lo han llevado. Así que deberán tratar de reconstruir el día de Stonewall y averiguar todo lo que sepan del lingote. 
+
+#### El lingote de oro
+
+Una mañana de **bancos y joyerías** preguntando por el diseño de la rosa no tendrá ningún éxito, nadie reconoce la marca.
+
+El **Museo Británico u otra institución del conocimiento** puede ser una mejor opción para saber de donde proviene ese lingote. Según uno de los profesores, ese símbolo pertenecería a los lingotes de oro que formaban parte de la dote de la princesa Jariba de la India.
+
+En **Scotland Yard** pueden tratar de buscar casos parecidos en los archivos. Pasando un día entero en los sótanos con los archiveros pueden encontrar dos casos parecidos, alguien mata a alguien en un ataque de pura rabia y había un lingote con un dibujo de una rosa. Será igual de útil, mirar en los archivos de algún periódico de tirada nacional.
+
+#### Los clientes de Stonewall
 
 XXX
 
-Una mañana de **bancos y joyerías** preguntando por el diseño de la rosa no tendrá ningún éxito, nadie reconoce la marca.
+\sp
+
+### El gran robo del lingote
+
+Tarde o temprano se darán cuenta de que solo pueden saber qué ha pasado si investigan el lingote directamente. Puede ir al despacho de Newcomen a pedirle permiso, pero a no ser que se rebajen mucho, verán como vuelve a guardar el lingote en un cajón con llave de la mesa de su despacho. 
+
+Si Newcomen les niega todo acceso a una prueba del caso, solo tienen una opción, colarse en el despacho de Newcomen y robarle el lingote.
+
+El despacho de Newcomen está cerrado con llave y las únicas posibles entradas son por una ventana del tercer piso que da a la calle principal y la puerta de su despacho que cierra con llave (tirada Buena +2) cuando no está.
+
+El resto de la planta está llena de policías de calle y detectives que van y vienen de sus mesas llevando y trayendo detenidos. Otro de los detectives jefe como Newcomen tiene una copia del despacho de Newcomen por si necesitan abrir su despacho.
+
+Sea como sea, llegar al despacho y forzar la cerradura sin ser visto es casi imposible, siempre hay polis en las inmediaciones. Las opciones más sencillas serían:
+
+* Disfrazarse de personal de limpieza y pedir entrar en el despacho de Newcomen. También pueden intentar hacerse por albañiles o carpinteros que vienen a hacer alguna obra en su despacho.
+* Hacerse pasar por mensajeros que traen un paquete más o menos grande. Cuanto más grande más posibilidades de que les abran el despacho de Newcomen par meterlo dentro.
+
+XXX
 
 \sp
 
 [![Field officer of the Prince of Wales's (North Staffordshire Regiment), 1914.](./assests/images/north-staffordshire-regt-field-officer-5f349a-1024.jpg "Field officer of the Prince of Wales's (North Staffordshire Regiment), 1914.")](https://itoldya420.getarchive.net/amp/media/north-staffordshire-regt-field-officer-5f349a "Field officer of the Prince of Wales's (North Staffordshire Regiment), 1914.")
 
 \sp
-
-El **Museo Británico u otra institución del conocimiento** puede ser una mejor opción para saber de donde proviene ese lingote. Según uno de los profesores, ese símbolo pertenecería a los lingotes de oro que formaban parte de la dote de la princesa Jariba de la India.
-
-En **Scotland Yard** pueden tratar de buscar casos parecidos en los archivos. Pasando un día entero en los sótanos con los archiveros pueden encontrar dos casos parecidos, alguien mata a alguien en un ataque de pura rabia y había un lingote con un dibujo de una rosa.
-
-### El gran robo del lingote
-
-Tarde o temprano se darán cuenta de que solo pueden saber qué ha pasado si investigan el lingote. Puede ir al despacho de Newcomen a pedirle permiso, pero a no ser que se rebajen mucho, verán como vuelve a guardar el lingote en un cajón con llave de la mesa de su despacho. 
-
-Si Newcomen les niega todo acceso a una prueba del caso, solo tienen una opción, colarse en el despacho de Newcomen y robarle el lingote.
-
-El despacho de Newcomen está cerrado con llave y las únicas posibles entradas son por una ventana del tercer piso que da a la calle principal y la puerta de su despacho que cierra con llave (tirada Buena +2) cuando no está. El resto de la planta está llena de policías de calle y detectives que van y vienen de sus mesas llevando y trayendo detenidos. Otro de los detectives jefe como Newcomen tiene una copia del despacho de Newcomen por si necesitan abrir su despacho.
-
-Sea como sea, llegar al despacho y forzar la cerradura sin ser visto es casi imposible, siempre hay polis en las inmediaciones. Las opciones más sencillas serían:
-
-\sp
-
-* Disfrazarse de personal de limpieza y pedir entrar en el despacho de Newcomen. También pueden intentar hacerse por albañiles o carpinteros que vienen a hacer alguna obra en su despacho.
-* Hacerse pasar por mensajeros que traen un paquete más o menos grande. Cuanto más grande más posibilidades de que les abran el despacho de Newcomen par meterlo dentro.
-
-XXX
 
 ### Y si Hyde o Jekyll tocan el lingote
 
@@ -77,15 +89,17 @@ Si Hyde quiere pasar a Jekyll tras haber tocado el lingote en la misma escena le
 
 Cualquier otra persona que toque con las manos desnudas un lingote de la dote obtendrá la consecuencia leve «irá homicida» directamente y actuarán como un perro rabioso en un estadillo de furia asesina.
 
+Si se preguntan porque Stonewall no se vio afectado, es sencillo de responder. Según su Gabriel Utterson era muy escrupuloso con a limpieza y temía a la suciedad y las enfermedades y siempre tenía puestos los guantes.
+
 ### Todas las pistas apuntan a la familia Collidge
 
 XXX
 
-\sp
-
 ### La mansión de la familia Collidge
 
 Cuando lleguen Hyde o Jekyll a la mansión Collidge, estará totalmente en silencio y sin ningún tipo de iluminación, si llegan de noche. Tus jugadores no lo saben, pero Maximilian está dentro escondido esperando a que llegue alguien para descargar toda la ira sobre él. Lleva tanto tiempo en contacto con el lingote que ya está totalmente desquiciado, una niebla roja cubre su cerebro y solo piensa en matar y destruir al que se atreva a entrar en su casa. 
+
+\sp
 
 XXX
 
@@ -106,9 +120,6 @@ Collidge lleva consigo su sable de caballería y un mangual medieval que llevaba
   * XXX
   * XXX
   * XXX
-
-\sp
-
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6

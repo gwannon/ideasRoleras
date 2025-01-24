@@ -38,7 +38,7 @@ Si analizan la aleación del metal, es rara pero con metales normales. Parece te
 
 **Preguntando a los compañeros** de Joshua es raro llevar dos palas iguales al mismo sitio. Es más práctico llevar una pala y un pico o palas de distintos tamaños para distintos trabajos.
 
-**Si vistan la casa de Joshua,** no verán nada más que es una humilde casucha en un barrio pobre. La viuda, Trinity Croft, llora desconsolada la perdida y maldice a los investigadores porque el seguro le quiere quitar el poco dinero que van a perder de esta desgracia.
+**Si vistan la casa de Joshua,** no verán nada más que es una humilde casucha en un barrio pobre. La viuda, Trinity Croft, llora desconsolada la perdida y maldice a los investigadores porque el seguro le quiere quitar el poco dinero que van a recibir de esta desgracia.
 
 Trinity no miente, ya que no sabe nada del plan de su marido y realmente cree que ha sido calcinado por un rayo.
 
