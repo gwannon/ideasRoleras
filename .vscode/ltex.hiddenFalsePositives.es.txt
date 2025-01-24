@@ -1,2 +1,3 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen cualquier sitio menos en la partida.\\E$"}
 {"rule":"IRA_TILDE","sentence":"^\\QIra homicida\nDiestro espadachín\nLa caballería inglesa lucha hasta el final\nXXX\nEstilos:\\E$"}
+{"rule":"IRA_TILDE","sentence":"^\\QEl contacto continuo con los lingotes ha agravado la consecuencia «Ira homicida» y seguramente que su mente rota no abandones nunca ese estado.\\E$"}

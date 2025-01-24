@@ -83,17 +83,19 @@ Joshua puede usar su pala para controlar los rayos y que parte de las descargas 
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** Desesperado
-  * XXX
+  * Aguantar largas jornadas de trabajo
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
-  * XXX
-  * XXX
-  * XXX
+  * **Pala repele rayos:** Debido a que su pala repele rayos y crea una bóveda estática protectora, recibe un +2 para Defender de modo Rápido cuando alza su pala.
+  * **Pala lanza rayos:** Debido a que su otra pala atrae rayos y los puede enviar a sus enemigos, recibe un +2 para Atacar de modo Rápido cuando te apunta con su pala.
+  * **Científico autodidacta:** Debido a que es un científico autodidacta y sabe un poco de todo, recibe un +2 para Crear una ventaja de modo Cauto cuando tiene unos pocos materiales y algunas herramientas.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
+\sp
 
 ### Unas semanas más tarde
 
