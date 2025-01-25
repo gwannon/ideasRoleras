@@ -20,7 +20,7 @@ Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instit
 6. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
 7. **Te leerás Drácula todos los años**, hay que revisar las bases cada poco tiempo.
 8. **No te fíes de las redes.** Pueden ser útiles, pero ellos las controlan.
-9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
+9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mira Murati organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
 
 ```
@@ -269,33 +269,21 @@ Aquí tienes un listado de jerga más común.
 
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para FATE. Animaros y dadles un poco de cariño.
 
 &nbsp;
 
-[![OPERACIÓN: Tras el mundo perdido](./assests/images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
-
-[**OPERACIÓN: Tras el mundo perdido** - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "UDoctor Jekyll y Mister Hyde: Investigadores privados")](https://cazavampiros.gwannon.com/pdf/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
 &nbsp;
 
-[![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
-
-[**¡Arrr! Cthulhu:** Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)
-
-\conc
-
-\sp
-
-\sinc
-
-[![Mil y Un Ghūles](./assests/images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
-
-[**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
+[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://cazavampiros.gwannon.com/pdf/) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
 
 \conc
 
 ***
+
+\conc
 
 &nbsp;
 

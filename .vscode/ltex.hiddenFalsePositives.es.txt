@@ -56,3 +56,4 @@
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QQué Narices!!!!!\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QPero y ahora qué?\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}

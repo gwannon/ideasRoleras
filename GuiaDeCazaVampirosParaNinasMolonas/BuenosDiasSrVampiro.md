@@ -40,7 +40,7 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 ## Piezas en el tablero
 
-En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballos, … cada una con sus movimientos y su valor. Veamos las más importantes que participan en esta aventura.
+En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballos, … cada una con sus movimientos y su valor. Veamos las más importantes que participan en esta campaña.
 
 * _Lord Ceballos:_ Lord Vampiro de la ciudad. XXX
 * _Alfonse:_ Vampire buscavidas. XXX
