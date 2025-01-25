@@ -22,7 +22,7 @@ Cuando lleguen a la zona de los grandes felinos se encontrarán al inspector New
 
 La jaula en un habitáculo de 20x20 metros cuadrados con barrotes en 3 de sus lados y ladrillos con una puerta reforzada cerrada por fuera con un resistente pestillo. No hay cerradura, la puerta da una parte a la que los visitantes no tienen acceso de normal y por seguridad prefieren poder entrar y salir sin necesidad de usar una llave.
 
-Cómo siempre Newcomen les dirá que no pueden estar allí y que solo estorban. Lo tiene todo controlado y están buscando a un experto para que atrape a Victoria la tigresa.
+Cómo siempre Newcomen les dirá que no pueden estar allí y que solo estorban. Lo tiene todo controlado y están buscando a un experto para que atrape a Victoria, la tigresa.
 
 Según el inspector, el ataque al cuidador y la fuga de la tigresa son pura coincidencia. La tigresa definitivamente se ha escapado.
 
@@ -57,7 +57,7 @@ Newcomen está muy interesado en este caso, puede darle un poco de fama y ayudar
 
 Realmente no hay nada que buscar en la jaula, Kim abrió la puerta, Ehbri se despertó y al oler a su amiga se lanzó a lamerle la cara y tras unos segundos se fueron. Saltaron la verja del zoo y fueron corriendo. De casualidad encontraron el bosquecillo de Regent’s Park y ahí se establecieron.
 
-No hay ni una pista que seguir en la jaula. Kim no tiene nada así que no ha dejado nada olvidado. El acceso a la jaula era de baldosas con lo que no dejó pisadas.
+No hay ni una pista que seguir en la jaula. Kim no tiene nada, así que no ha dejado nada olvidado. El acceso a la jaula era de baldosas con lo que no dejó pisadas.
 
 ### Pistas a seguir
 
@@ -77,7 +77,7 @@ Si deciden confirmarlo, no falta ningún mono del zoo y no hay constancia de que
 
 **La historia de Victoria la tigresa** es de sobra conocida y cualquier persona del zoo o un poco de trabajo en los archivos del zoo les cintará la historia de como la cazó Sir Corbyn y se la regaló a la reina Victoria que la dono al zoo.
 
-**Si quieren hablar con Bob, el cuidador del zoo agredido** está descansando en su casa del golpe. No podrá decirles mucho, estaba de ronda nocturna no muy lejos de las jaulas de los felinos cuando una figura más bajita que él saltó como un mono enfrente de él y le dejó inconsciente golpeándole con un palo.
+**Si quieren hablar con Bob, el cuidador del zoo agredido** está descansando en su casa del golpe. No podrá decirles mucho, estaba de ronda nocturna, no muy lejos de las jaulas de los felinos cuando una figura más bajita que él saltó como un mono enfrente de él y le dejó inconsciente golpeándole con un palo.
 
 Según Bob, ha habido veces en que los bribones han entrado en el zoo por la noche a robar, pero nunca habían agredido deliberadamente a un cuidador.
 
@@ -85,7 +85,7 @@ Según Bob, ha habido veces en que los bribones han entrado en el zoo por la noc
 
 Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrarán nada. No es un consumo de carne tan grande como para que fuera significativo. Cualquier restaurante cutre compra al día esa cantidad de carne.
 
-Pueden montar un **mapa de Londres y marcar los sitios donde se escondería un tigre**. Pero encontrarán montones de parques, incluso puedes haber salido ya de la ciudad. Aun así cuando empiecen los ataques de la tigresa puede serles útil para poner sus localizaciones y los lugares de los ataques.
+Pueden montar un **mapa de Londres y marcar los sitios donde se escondería un tigre**. Pero encontrarán montones de parques, incluso puedes haber salido ya de la ciudad. Aun así, cuando empiecen los ataques de la tigresa puede serles útil para poner sus localizaciones y los lugares de los ataques.
 
 \sp
 
@@ -95,13 +95,13 @@ Pueden montar un **mapa de Londres y marcar los sitios donde se escondería un t
 
 ### Los primeros ataques
 
-Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no les queda más remedio que empezar a dar golpes nocturnos. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor. Harán un ataque al día y volverán con el botín al bosque. Al día siguiente Kim buscará vender lo que pueda y comprar comida para Ehbri.
+Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no les queda más remedio que empezar a dar golpes nocturnos. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor. Harán un ataque al día y volverán con el botín al bosque. Al día siguiente, Kim buscará vender lo que pueda y comprar comida para Ehbri.
 
 Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
 
 Kim y Ehbri no pueden alejarse mucho del bosquecillo de Regent’s Park por miedo a ser visto, así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Regent’s Park, pero por lo menos necesitaran 5 asaltos para fijar adecuadamente la zona. Quizás 4 días si hicieron trabajo de mapear los lugares donde podía esconderse un tigre en Londres.
 
-Si ahora buscan carnicerías de la zona descubrirán que una niña india está comprando en las carnicerías peores y más baratas toda la carne que puede, incluso ternera que se supone sagrada para ella.
+Si ahora buscan carnicerías de la zona, descubrirán que una niña india está comprando en las carnicerías peores y más baratas toda la carne que puede, incluso ternera que se supone sagrada para ella.
 
 #### Ehbri Khan
 
@@ -151,7 +151,7 @@ Cuando Ehbri desapareció, Kim sufrió muchísimo y cuando descubrió que seguí
 
 ### Entra Sir Corbyn
 
-La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa para que de caza y mate a Ehbri a petición del inspector Newcomen. Si quieres hacerlo más ridículo diles que lleva unos meses en el lago Ness buscando un monstruo marino.
+La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa para que de caza y mate a Ehbri a petición del inspector Newcomen. Si quieres hacerlo más ridículo, diles que lleva unos meses en el lago Ness buscando un monstruo marino.
 
 Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles.
 
@@ -173,7 +173,7 @@ Sir Corbyn vive por y para la caza y como ella es cruel y sanguinaria. Mientras 
 
 \sp
 
-Este viejo cazador está deseoso de acabar con Ehbri, a la que tuvo que atrapar viva y no tuvo el gusto de matar. Pero está vez no escapará de su rifle de cazar elefantes y acabará decorando alguna sala del palacio de Buckingham.
+Este viejo cazador está deseoso de acabar con Ehbri, a la que tuvo que atrapar viva y no tuvo el gusto de matar. Pero esta vez no escapará de su rifle de cazar elefantes y acabará decorando alguna sala del palacio de Buckingham.
 
 * **Aspectos**
   * **Concepto principal:** Gran cazador blanco
@@ -225,7 +225,7 @@ Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la cur
 
 #### Empieza la cacería
 
-Sir Corbyn ha dejado dentro de la jaula un buen pedazo de carne fresca con su salsa especial. Eso volverá loco a Ehbri que en cuanto lo huela saldrá corriendo hacia la trampa.  Es complicado parar a la tigresa pero no imposible.
+Sir Corbyn ha dejado dentro de la jaula un buen pedazo de carne fresca con su salsa especial. Eso volverá loco a Ehbri que en cuanto lo huela saldrá corriendo hacia la trampa.  Es complicado parar a la tigresa, pero no imposible.
 
 Cuando Ehbri empiece a devorar la carne, Sir Corbyn bajará y sacará su cuchillo de caza para matar con sus propias manos a la tigresa. Quiere lucirse delante de la gente que acercándose.
 
@@ -241,7 +241,7 @@ En la impensable, pero posible, situación que tus jugadores estén ayudando a S
 
 ### El indulto real
 
-Al empezar el tiroteo los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción. Poco a poco la gente empezará a rodear la jaula para ver el espectáculo, jaleando a unos u otros.  
+Al empezar el tiroteo, los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción. Poco a poco la gente empezará a rodear la jaula para ver el espectáculo, jaleando a unos u otros.  
 
 Cuando veas oportuno se abrirá un pasillo entre el público y unos soldados de la guardia de honor real dejarán pasar a la propia reina Victoria que su ropa de montar. Debía estar haciendo su paseo a caballo diario y al ver el gentío ha querido ver que pasaba. 
 
@@ -251,9 +251,9 @@ Ante su presencia, tus jugadores, Sir Corbyn (que hinca rodilla), Kim y Ehbri se
 
 \sp
 
-Acto seguido, se da la vuelta y se va por donde ha venido. Mientras un par de guardias se llevarán a Sir Corbyn y los otros tratarán de hablar con los jugadores y les ofrecerán las caballerizas reales para que Kim y Ehbri vivan unos días allí mientras preparan las cosas para trasladarlos a Bengala.
+Acto seguido, se da la vuelta y se va por donde ha venido. Mientras, un par de guardias se llevarán a Sir Corbyn y los otros tratarán de hablar con los jugadores y les ofrecerán las caballerizas reales para que Kim y Ehbri vivan unos días allí mientras preparan las cosas para trasladarlos a Bengala.
 
-Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
+Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos, deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
 [![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
 
