@@ -42,13 +42,13 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballos, … cada una con sus movimientos y su valor. Veamos las más importantes que participan en esta campaña.
 
-* _Lord Ceballos:_ Lord Vampiro de la ciudad. XXX
+* _Lord Ceballos:_ Lord Vampiro de la ciudad. La parte principal del plan vampírico.
 * _Alfonse:_ Vampire buscavidas. XXX
 * _Nieve:_ Lugarteniente vampira de Lord Ceballos. XXX
 * _Tito:_ Siervo protector de Lord Ceballos. XXX
 * _Eloise:_ Súcubo vampiro. XXX
 * _Covadonga «Cova»:_ XXX. XXX
-* _Catalina Faroes:_ Abogada antisistema. XXX
+* _Catalina Faroes:_ Abogada antisistema. Aliada y soporte emocional de las cazadoras.
 * _Samuel:_ Psicólogo new age. XXX
 
 \conc
