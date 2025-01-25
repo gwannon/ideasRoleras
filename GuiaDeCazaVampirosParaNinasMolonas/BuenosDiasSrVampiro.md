@@ -181,7 +181,7 @@ XXX
 
 ## Can’t Help Falling in Love
 
-> La rave iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es las raves se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
+> La rave iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
 
 \conc
 
