@@ -47,7 +47,7 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 * _Nieve:_ Lugarteniente vampira de Lord Ceballos. XXX
 * _Tito:_ Siervo protector de Lord Ceballos. XXX
 * _Eloise:_ Súcubo vampiro. XXX
-* _Covadonga "Cova":_ XXX. XXX
+* _Covadonga «Cova»:_ XXX. XXX
 * _Catalina Faroes:_ Abogada antisistema. XXX
 * _Samuel:_ Psicólogo new age. XXX
 
@@ -94,7 +94,7 @@ Si consiguen _robarle el móvil_ (+4) verán que envía fotos mensajes a Máster
 
 \sinc
 
-## Don't Be Cruel
+## Don’t Be Cruel
 
 > Al día siguiente en el colegio cogieron a todos los alumnos de Maricarmen y los reunieron para una charla sobre el suicidio dado por Samuel, el psicólogo del colegio. Tras la charla Samuel reúne a todas las PJ, ya que las vio en el funeral para hablar sobre el tema.
 
@@ -179,9 +179,9 @@ XXX
 
 \sinc
 
-## Can't Help Falling in Love
+## Can’t Help Falling in Love
 
-> XXX
+> La rave iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es las raves se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
 
 \conc
 
@@ -203,7 +203,7 @@ XXX
 
 \sinc
 
-## You're the Devil in Disguise
+## You’re the Devil in Disguise
 
 > XXX
 
@@ -616,7 +616,7 @@ XXX
 
 \sinc
 
-### Covadonga "Cova"
+### Covadonga «Cova»
 
 XXX
 
@@ -828,7 +828,6 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 ## Personajes pregenerados
 
 Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tienen todos sus aspectos rellenados para que puedan rellenarlos en partida.
-
 
 \sinc
 
