@@ -4,8 +4,6 @@
 
 Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vampiros. También puedes usarlas de compañeras de clase o de grupo de apoyo y rescate si tus cazadoras principales fallan. No tienen todos sus aspectos rellenados para que puedan rellenarlos en partida.
 
-\sinc
-
 ### Amirah Tajdin
 
 _Apodo:_ Gata

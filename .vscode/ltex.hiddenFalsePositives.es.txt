@@ -1,16 +1,5 @@
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen cualquier sitio menos en la partida.\\E$"}
-{"rule":"IRA_TILDE","sentence":"^\\QIra homicida\nDiestro espadachín\nLa caballería inglesa lucha hasta el final\nXXX\nEstilos:\\E$"}
-{"rule":"IRA_TILDE","sentence":"^\\QEl contacto continuo con los lingotes ha agravado la consecuencia «Ira homicida» y seguramente que su mente rota no abandones nunca ese estado.\\E$"}
-{"rule":"PHRASE_REPETITION","sentence":"^\\QEn realidad Joshua pensó dejar restos de ropa quemada, pero sería raro entonces que no hubiera carne chamuscada y huesos quemados y como no podía conseguir restos humanos prefirió jugársela a qué creyeran que no había quedado nada de nada de él.\\E$"}
-{"rule":"ES_QUESTION_MARK","sentence":"^\\QQué Narices!!!!!\\E$"}
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qempezarán a jugar al UNO Vergonzoso, la que pierda cada mano debe contar una historia vergonzosa que haya vivido.\\E$"}
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
-{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QSi Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.\\E$"}
-{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEs una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpara crear algún tipo de explosivo o bomba de humo.\\E$"}
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEs una pequeña Robin Hood, que si tiene que saltarse la ley lo hará.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QSi Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QPadres muy protectores\nMuy buena en ciencias\n.................................................................................\\E$"}
-{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qestate segura de que son malditos vampiros.\\E$"}
-{"rule":"ES_QUESTION_MARK","sentence":"^\\QPero y ahora qué?\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
