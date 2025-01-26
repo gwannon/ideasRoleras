@@ -1,4 +1,4 @@
-## El extraño caso de la tigresa desaparecido del Zoo
+## El extraño caso de la tigresa desaparecida del Zoo
 
 > El pánico corre por las calles de Londres ante la noticia de que una tigresa bengalí ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición de la tigresa. Sea como sea, habrá que encontrarla, detener a su ladrón y devolverla al zoo.
 
@@ -75,7 +75,7 @@ Si vuelven a buscar pisadas (tirada Buena +2), esta vez fijándose en las de un 
 
 Si deciden confirmarlo, no falta ningún mono del zoo y no hay constancia de que alguno se escape de su jaula y haga travesuras por las noches.
 
-**La historia de Victoria la tigresa** es de sobra conocida y cualquier persona del zoo o un poco de trabajo en los archivos del zoo les cintará la historia de como la cazó Sir Corbyn y se la regaló a la reina Victoria que la dono al zoo.
+**La historia de Victoria la tigresa** es de sobra conocida y cualquier persona del zoo o un poco de trabajo en los archivos del zoo les contará la historia de como la cazó Sir Corbyn y se la regaló a la reina Victoria que la dono al zoo.
 
 **Si quieren hablar con Bob, el cuidador del zoo agredido** está descansando en su casa del golpe. No podrá decirles mucho, estaba de ronda nocturna, no muy lejos de las jaulas de los felinos cuando una figura más bajita que él saltó como un mono enfrente de él y le dejó inconsciente golpeándole con un palo.
 
