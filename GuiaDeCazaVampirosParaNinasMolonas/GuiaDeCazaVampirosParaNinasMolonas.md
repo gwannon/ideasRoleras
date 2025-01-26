@@ -37,6 +37,16 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. T
 
 |BuenosDiasSrVampiro.md|
 
+|MientrasTanto.md|
+
+|Lugares.md|
+
+|AmigosYEnemigos.md|
+
+|PersonajesPregenerados.md|
+
+***
+
 # Epílogo
 
 \sinc
