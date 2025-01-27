@@ -34,6 +34,9 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 \sp
 
@@ -71,6 +74,9 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y 
   * XXX
   * XXX
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 \sinc
 
@@ -100,6 +106,9 @@ XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 \sinc
 
@@ -129,6 +138,8 @@ XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sinc
 
@@ -158,6 +169,9 @@ XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 \sinc
 
@@ -187,6 +201,9 @@ XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 \sinc
 
@@ -216,6 +233,8 @@ XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sinc
 
@@ -249,6 +268,8 @@ XXX
   * XXX
   * XXX
 * **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sinc
 

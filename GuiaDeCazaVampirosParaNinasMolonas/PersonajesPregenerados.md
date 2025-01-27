@@ -32,6 +32,8 @@ Amirah adora el barrio, no hay mejor sitio en el mundo. Quiere crecer y vivir en
   * **Hablar sin parar:** Debido a que soy una charlatana de primera, gano un +2 para Crear una ventaja de modo Furtivo cuando converso con alguien.
   * **Parkour:** Debido a tus años haciendo parkour en las calles, ganas una +2 a Superar de modo rápido cuando corres para escapar o perseguir a alguien.
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sp
 
@@ -67,6 +69,8 @@ Quiere ser abogada medioambientalista y de derechos humanos y es por eso que se 
   * **Trabajo en la protectora:** Debido a qué llevo mucho tiempo trabajando en una protectora de animales, una vez por partida puede conseguir que un animal o un grupo de animales no le ataquen o le protejan de un agresor.
   * **Protesta ciudadana:** Debido a su experiencia escapando a la carrera de la policía y los antidisturbios, gano un +2 para Crear una ventaja de modo Rápido cuando escapa de un lugar o persona.  
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sp
 
@@ -100,6 +104,8 @@ Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante má
   * **Voz de mando:** Debido a mi tono de voz intimidante, gano un +2 para Atacar de modo Llamativo, cuando discuto con otras personas.
   * **La más alta de mi clase:** Debido a qué soy más alta que el resto de mi clase, una vez por partida puede hacerse pasar por mayor de edad, mientras no le pidan un documento de identidad.
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 \sp
 
@@ -133,3 +139,5 @@ Su principal problema en la vida son sus padres que son tremendamente protectore
   * **Evadirse del mundo:** Debido a mi capacidad de evadirme del mundo que me rodea, gano un +2 para Defender de modo Cauto cuando tratan de intimidarme o amedrentarme.
   * **Mezclando esto con esto:** Debido a mis conocimientos en química, gano un +2 a para Atacar de modo ingenioso cuando mezclo productos de limpieza, líquidos corrosivos, combustibles, … para crear algún tipo de explosivo o bomba de humo.
 * **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
