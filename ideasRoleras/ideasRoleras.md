@@ -38,6 +38,8 @@ La arena y la tecnología se llevan muy mal, así que habría reglas de como la 
 
 El diseño del libro debería ser mezcla del libro de los muertos de La momia, rollo planchas de metal con grabados y jeroglíficos resaltados en neón, además de botones y circuitería. Bordes externos de las hojas con el nombre de la sección en cartuchos y los bordes internos de las hojas con pesadas bisagras metálicas.
 
+Parece que hay algo en [City of Mist](https://cityofmist.co/blogs/news/cairo-neuro-otherscape-rpg-kickstarter-launch)
+
 ### Circunnavegación de un mundo medieval fantástico
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
@@ -389,3 +391,24 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \concolumna
 
+### Geishas VS. ninjas
+
+Siempre nos movemos en la dualidad de Samuráis VS Ninjas, pero nos olvidamos un importante ícono del Japón medieval, las Geishas.
+
+XXX
+
+### Pokedados
+
+Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
+
+Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución. Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
+
+* La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
+* Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al azar de la bola gigante de dados.
+* Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
+
+Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
+
+### Rockeros
+
+XXX
