@@ -6,21 +6,23 @@ Aquí tienes las bíos de los personajes principales de la aventura para que pue
 
 \conc
 
+XXX
+
+\sp
+
 \sinc
 
 ### Lord Ceballos
 
+\conc
+
 Lord Ceballos lleva con nosotros desde hace más de 200 años. Nacido en una familia muy rica de la ciudad, uso sus poderes vampíricos y el dinero familiar para montar una empresa que en pleno siglo XXI es casi una megacorporación muy poderosa, el Grupo Ceballos. Pero Grupo Ceballos es solo una parte (muy importante eso sí) de su gran plan vampírico para controlar toda la ciudad.  
+
+[![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
 
 El principal problema hoy en día que tiene el plan vampírico de Lord Ceballos es el propio Lord Ceballos, está demasiado anclado en el pasado e intenta usar trucos muy viejos en un mundo moderno y claramente muchas veces fallan. Aun así sus siervos vampíricos se encargan de modernizar sus trucos al nuevo siglo a escondidas de él. 
 
 Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otras zonas de la ciudad, es que no te quepa duda.
-
-\conc
-
-[![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
-
-\sc
 
 * **Aspectos**
   * **Concepto principal:** Lord Vampiro de la ciudad
@@ -38,17 +40,15 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
+**Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
+
 \sp
 
 \sinc
 
-**Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
+### Alfonse
 
 \conc
-
-\sinc
-
-### Alfonse
 
 XXX
 
@@ -56,11 +56,7 @@ Alfonse seguramente será le vampire con el que más se van a relacionar, tanto 
 
 Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro y apoderarse juntos de la ciudad.
 
-\conc
-
 [![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
-
-\sc
 
 * **Aspectos**
   * **Concepto principal:** Vampiro buscavidas
@@ -78,11 +74,7 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y 
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-\sinc
-
 **Sugerencia de interpretación:** XXX
-
-\conc
 
 \sp
 
@@ -90,9 +82,9 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y 
 
 ### Nieve
 
-XXX
-
 \conc
+
+XXX
 
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
@@ -110,11 +102,7 @@ XXX
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-\sinc
-
 **Sugerencia de interpretación:** XXX
-
-\conc
 
 \sp
 
@@ -122,9 +110,9 @@ XXX
 
 ### Tito
 
-XXX
-
 \conc
+
+XXX
 
 * **Aspectos**
   * **Concepto principal:** Siervo protector de Lord Ceballos
@@ -141,11 +129,7 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-\sinc
-
 **Sugerencia de interpretación:** XXX
-
-\conc
 
 \sp
 
@@ -153,9 +137,9 @@ XXX
 
 ### Eloise
 
-XXX
-
 \conc
+
+XXX
 
 * **Aspectos**
   * **Concepto principal:** Súcubo vampiro
@@ -173,11 +157,7 @@ XXX
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-\sinc
-
 **Sugerencia de interpretación:** XXX
-
-\conc
 
 \sp
 
@@ -185,9 +165,9 @@ XXX
 
 ### Covadonga «Cova»
 
-XXX
-
 \conc
+
+XXX
 
 * **Aspectos**
   * **Concepto principal:** XXX
@@ -205,21 +185,17 @@ XXX
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-\sinc
-
 **Sugerencia de interpretación:** XXX
-
-\conc
 
 \sp
 
 \sinc
 
-### XXX
-
-XXX
+### Nestor
 
 \conc
+
+XXX
 
 * **Aspectos**
   * **Concepto principal:** XXX
@@ -236,11 +212,7 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-\sinc
-
 **Sugerencia de interpretación:** XXX
-
-\conc
 
 \sp
 
@@ -248,13 +220,11 @@ XXX
 
 ### Catalina Faroes
 
-XXX
-
 \conc
 
-[![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
+XXX
 
-\sc
+[![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
 
 * **Aspectos**
   * **Concepto principal:** Abogada antisistema
@@ -271,10 +241,33 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-\sinc
-
 **Sugerencia de interpretación:** No dejes de sonreír ni en las peores situaciones, porque ya has estado en cosas parecidas y has salido viva. Lo tuyo es el instinto y las decisiones rápidas, antes incluso de que lo hayas pensado ya estás actuando, quizás golpeando un antidisturbios o cantándole la internacional a la cara al nazi que intenta amedrentarte con un bate.
 
+\sp
+
+\sinc
+
+### XXX
+
 \conc
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+  * XXX
+  * XXX
+* **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
+**Sugerencia de interpretación:** XXX
 
 \sp

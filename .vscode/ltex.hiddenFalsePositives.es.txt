@@ -3,3 +3,4 @@
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QSi Nuria apoya una causa, casi casi seguro que es una causa buena que hay que defender.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QPadres muy protectores\nMuy buena en ciencias\n.................................................................................\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qestate segura de que son malditos vampiros.\\E$"}

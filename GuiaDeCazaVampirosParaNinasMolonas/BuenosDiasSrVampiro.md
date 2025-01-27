@@ -193,9 +193,41 @@ XXX
 
 ## Burning love
 
-> XXX
+> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Hasta que llevo Néstor. Con Néstor aprendimos lo que era el auténtico mal.
 
 \conc
+
+XXX
+
+### El plan de Néstor
+
+Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba joder las infraestructuras sociales. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
+
+Si conseguían convertir el barrio en un barco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
+
+El toque maestro será hacer aparecer al Grupo Ceballos como unos benefactores que van a salvar a un barrio deprimido levantándolo con inversiones, puestos de trabajo y nuevas construcciones.
+
+XXX
+
+### El almacén
+
+Néstor tiene varios puntos de venta en el barrio, desde camellos pateando las calles ofreciendo su mercancía hasta dos narcopisos. Pero la cantidad de droga que hay en esos puntos no es muy grave. La mayor parte de la droga la tiene en un almacén. 
+
+El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida.
+
+XXX
+
+### Hasta arriba de mierda
+
+Escapar por las alcantarillas es fácil si no mides ni 1,30 m, pero no es agradable.
+
+A lo «Cadena Perpetua», tus cazadoras deberá romper la cañería central, meterse dentro y arrastrarse entre mierda y porquería con un olor horrible durante unos 200 metros.
+
+La otra opción es acabar muertas tras ser chupada su sangre hasta la última gota por un pederasta de 150 años.
+
+XXX
+
+Volverán y esa vez estarán preparadas. Le darán su merecido a Néstor y se asegurarán de que no vuelva a tocar a ninguna niña, niño o niñe.
 
 XXX
 
@@ -208,6 +240,12 @@ XXX
 > XXX
 
 \conc
+
+XXX
+
+### La casita de chocolate
+
+Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas veces. Van a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
 
 XXX
 
@@ -264,4 +302,3 @@ XXX
 XXX
 
 \sp
-

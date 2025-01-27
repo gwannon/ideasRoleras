@@ -6,9 +6,9 @@ Aquí tienes 4 cazadoras novatas del barrio preparadas para dar guerra a los vam
 
 ### Amirah Tajdin
 
-_Apodo:_ Gata
-
 \conc
+
+_Apodo:_ Gata
 
 [![GRAFFITI - DENVER, COLORADO 08 por Trip & Queball with PUNKassPHOTOS](./assests/images/3351954588_3f7971005d_w.jpg "GRAFFITI - DENVER, COLORADO 08 por Trip & Queball with PUNKassPHOTOS")](https://www.flickr.com/photos/punkassphotos/3351954588/ "GRAFFITI - DENVER, COLORADO 08 por Trip & Queball with PUNKassPHOTOS") 
 
@@ -41,9 +41,9 @@ Amirah adora el barrio, no hay mejor sitio en el mundo. Quiere crecer y vivir en
 
 ### Nuria Ramos
 
-_Apodo:_ Greenpeace
-
 \conc
+
+_Apodo:_ Greenpeace
 
 [![Raymond Spekking](./assests/images/640px-Wandgemälde_Heliosstraße_37,_Köln-Ehrenfeld-1873.jpg "Raimond Spekking")](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg "Raimond Spekking")
 
@@ -78,9 +78,9 @@ Quiere ser abogada medioambientalista y de derechos humanos y es por eso que se 
 
 ### Ana Isabel «Anais» Duran
 
-_Apodo:_ Tocón
-
 \conc
+
+_Apodo:_ Tocón
 
 [![Che In Dublin Docklands - Street Art And Graffiti por William Murphy](./assests/images/4673901682_4679320ba7_w.jpg "Che In Dublin Docklands - Street Art And Graffiti por William Murphy")](https://www.flickr.com/photos/infomatique/4673901682 "Che In Dublin Docklands - Street Art And Graffiti por William Murphy")
 
@@ -113,9 +113,9 @@ Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante má
 
 ### Sabina Castillo
 
-_Apodo:_ Lovelace
-
 \conc
+
+_Apodo:_ Lovelace
 
 [![Mural en honor a Marie Curie en la facultad de ciencias por Víctor Gómez](./assests/images/11345048516_596c93ba63_c.jpg "Mural en honor a Marie Curie en la facultad de ciencias por Víctor Gómez")](https://www.flickr.com/photos/machbel/11345048516 "Mural en honor a Marie Curie en la facultad de ciencias por Víctor Gómez")
 
