@@ -191,7 +191,7 @@ XXX
 
 \sinc
 
-### Nestor
+### Néstor
 
 \conc
 

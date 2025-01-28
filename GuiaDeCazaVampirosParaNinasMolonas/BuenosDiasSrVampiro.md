@@ -48,7 +48,7 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 * _Tito:_ Siervo protector de Lord Ceballos. XXX
 * _Eloise:_ Súcubo vampiro. XXX
 * _Covadonga «Cova»:_ XXX. XXX
-* _Nestor:_ XXX. XXX
+* _Néstor:_ XXX. XXX
 * _Catalina Faroes:_ Abogada antisistema. Aliada y soporte emocional de las cazadoras.
 * _Samuel:_ Psicólogo new age. XXX
 

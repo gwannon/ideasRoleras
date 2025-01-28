@@ -10,3 +10,6 @@
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QBenditas pistolas de agua cargadas de té de ajo o de agua bendita!!!\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QEn qué eres bueno en el cole?\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtodo son ventajas.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QQué Narices!!!!!\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QPero y ahora qué?\\E$"}
