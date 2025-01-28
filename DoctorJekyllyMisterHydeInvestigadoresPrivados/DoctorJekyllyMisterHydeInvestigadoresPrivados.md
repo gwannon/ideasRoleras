@@ -58,30 +58,30 @@ La novela acaba con la extraña pareja resolviendo el caso y librando de la cár
 
 Con ello dejan en ridículo al inspector Newcomen y con él a Scotland Yard, ya que había detenido y encarcelado a una persona inocente. Newcomen jura vengarse de Jekyll y Hyde y desde entonces será uno de sus mayores detractores.
 
-En el epílogo de la novela Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Robert junior de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
+En el epílogo de la novela, Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Robert junior de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
 
 Es interesante descartar que al final de la novela sigue habiendo solo había 2 personas que saben el secreto de Jekyll y Hyde.
 
-* **Gabriel John Utterson.** Que ya lo sabía desde la novela anterior.
+* **Gabriel John Utterson** que ya lo sabía desde la novela anterior.
 
 \sp
 
-* **Mister Poole.** El ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
+* **Mister Poole**, el ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
 
 ## La creación de la agencia
 
 Tras la exitosa resolución de su primer caso, que salió en las portadas de todos los periódicos de Londres, Utterson propuso a la extraña pareja, usando sus mejores técnicas de abogado,
 crear una agencia de detectives.
 
-Gabriel consideraba que está nueva actividad podría mantener a Hyde en este lado de la ley al ser uno de sus protectores y a Jekyll lejos de sus peligrosos experimentos.
+Gabriel consideraba que esta nueva actividad podría mantener a Hyde en este lado de la ley al ser uno de sus protectores y a Jekyll lejos de sus peligrosos experimentos.
 
-Cómo puedes comprobarse, no se equivocaba, ya que parece que hasta el día de hoy está treta ha funcionado como un reloj de cuco. Además, esperaba tener a un buen equipo de investigadores que le ayudara en sus pleitos y demandas a un coste muy barato.
+Cómo puedes comprobarse, no se equivocaba, ya que parece que hasta el día de hoy esta treta ha funcionado como un reloj de cuco. Además, esperaba tener a un buen equipo de investigadores que le ayudara en sus pleitos y demandas a un coste muy barato.
 
-Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia. Tras una larga discusión que ocupo montones de notas decidieron dejarlo al azar y la agencia se terminó llamando Hyde & Jekyll. 
+Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar que el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia. Tras una larga discusión que ocupo montones de notas, decidieron dejarlo al azar y la agencia se terminó llamando Hyde & Jekyll. 
 
-El día de la inauguración Utterson les regaló un cuadro pintado por el mismo en que se les ve a los dos investigando una escena de un crimen. Jekyll aparece mirando un mechón de pelo con una lupa, mientras que Hyde tan encorvado olisqueando unos restos de sangre como si fuera un sabueso de caza siguiendo el rastro de un zorro.
+El día de la inauguración, Utterson les regaló un cuadro pintado por el mismo en que se les ve a los dos investigando una escena de un crimen. Jekyll aparece mirando un mechón de pelo con una lupa, mientras que Hyde tan encorvado olisqueando unos restos de sangre como si fuera un sabueso de caza siguiendo el rastro de un zorro.
 
-Jekyll odia ese cuadro y trata de hacerlo desaparecer siempre que puede. Hyde, sin embargo, lo adora y muchas veces imita la pose de perro rastreador sobre todo cuando está con Utterson. Cada vez que Jekyll lo quita, ahí está Hyde para volver a ponerlo en la pared de la agencia.
+Jekyll odia ese cuadro y trata de hacerlo desaparecer siempre que puede. Hyde, sin embargo, lo adora y muchas veces imita la pose de perro rastreador, sobre todo cuando está con Utterson. Cada vez que Jekyll lo quita, ahí está Hyde para volver a ponerlo en la pared de la agencia.
 
 \sp
 
@@ -130,7 +130,7 @@ Normalmente, los cambios suponen cortar la partida y quedar otro día con el sig
 Los disparadores pueden de muy diversa índole, pero deben ser bastante específicos. El director de juego tendrá que darles el visto bueno. Veamos algunos ejemplos.
 
 * Hyde lleva días sin meterse en problemas y saldrá siempre que Jekyll reciba daño de una pelea.
-* Jekyll aparecerá si entra en escena Miss Daisy de la que está perdidamente enamorado y a la que no quiere que Hyde la incomode con sus palabras soeces.
+* Jekyll aparecerá si entra en escena Miss Daisy, de la que está perdidamente enamorado y a la que no quiere que Hyde la incomode con sus palabras soeces.
 
 Poner un disparador tiene **1 coste de un punto de destino** y puedes poner **hasta 3 disparadores**. La perdida del punto de destino se aplicará si se activa alguno de los disparadores y perderás tantos puntos como disparadores pusiste. En cuanto tu personaje está activo de nuevo tanto porque su otro yo le ha dado paso como porque se ha activado el disparador, estos desaparecen.
 
@@ -225,7 +225,7 @@ En esta situación, si el **segundo jugador usa un estilo diferente al primero**
 
 A la hora de mejorar los personajes son muy distintos. Jekyll, con su personalidad completa, puede gastar los hitos como desee sin ningún tipo de restricción.
 
-Por el contrario, Hyde como solo es la parte más animal, instintiva y malvada de Jekyll no podrá gastar sus hitos como desee.
+Por el contrario, Hyde, como solo es la parte más animal, instintiva y malvada de Jekyll, no podrá gastar sus hitos como desee.
 
 * Los estilos Cauto, Ingenioso y Furtivo no podrán ser mayores que el menor del resto de estilos (Rápido, Llamativo y Vigoroso).
 * No puede crearse proezas en las que intervengan los estilos Cauto, Ingenioso y Furtivo.
@@ -254,7 +254,7 @@ Solemos olvidarnos que el Londres victoriano también tiene estos elementos meno
 
 \sp
 
-* Las fábricas expulsan sus hediondos humos convirtiendo el aire en irrespirable y creándose el famoso «smog» londinense que mata tanta gente como otras enfermedades infecciosas de la época.
+* Las fábricas expulsan sus hediondos humos, convirtiendo el aire en irrespirable y creándose el famoso «smog» londinense que mata tanta gente como otras enfermedades infecciosas de la época.
 * El trabajo infantil y las jornadas de trabajo interminables están a la orden del día y el alcoholismo es un problema muy grave entre la clase obrera.
 * Otro punto interesante a tener en cuenta es que en estos años los primeros coches empiezan a circular, añadiendo más suciedad, ruido y polución a sus abarrotadas calles.
 
@@ -286,9 +286,9 @@ Los agentes de calle, los viejos archiveros y los médicos forenses novatos pued
 
 ### Inspector Newcomen
 
-El inspector Newcomen debería ser una constante en todas las aventuras apareciendo en cualquier momento y sin dejar nunca de vigilar y perseguir a tus jugadores.
+El inspector Newcomen debería ser una constante en todas las aventuras, apareciendo en cualquier momento y sin dejar nunca de vigilar y perseguir a tus jugadores.
 
-Newcomen puede en ocasiones ser un aliado de tus jugadores, pero sobre todo debería ser un rival que pondrá en duda todas las pistas y deducciones realizadas por tus jugadores. Debería ser la piedrecita en el zapato de Hyde y Jekyll, sobre todo de Hyde al que no le quita ojo desde el asesinato de Sir Carew. 
+Newcomen puede en ocasiones ser un aliado de tus jugadores, pero sobre todo debería ser un rival que pondrá en duda todas las pistas y deducciones realizadas por tus jugadores. Debería ser la piedrecita en el zapato de Hyde y Jekyll, sobre todo de Hyde, al que no le quita ojo desde el asesinato de Sir Carew. 
 
 \sp
 
@@ -311,9 +311,9 @@ Las técnicas de investigación forense que Scotland Yard disponía a finales de
 
 * A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como **identificar sustancias venenosas**, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.
 * La **fotografía forense** es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.
-* Los **retratos robot** también son usados aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
+* Los **retratos robot** también son usados, aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.
 
-Una vez conocidos estos puntos principales nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. 
+Una vez conocidos estos puntos principales, nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. 
 
 ## Magia y ciencia
 
@@ -335,7 +335,7 @@ Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede qu
 
 Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima. Los inspectores Newcomen y Lestrade seguro que se conocen y estarán encantados de trabajar juntos para desbancar a tus jugadores como los mejores detectives de la ciudad.
 
-Y si te sientes creativo también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir. O pueden que teman que una nueva personalidad realmente diabólica haya aparecido y haya estado cometiendo unos terribles asesinatos de mujeres en White Chapel. 
+Y si te sientes creativo, también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir. O pueden que teman que una nueva personalidad realmente diabólica haya aparecido y haya estado cometiendo unos terribles asesinatos de mujeres en White Chapel. 
 
 \sp
 
@@ -369,7 +369,7 @@ La idea es que puedas usar estos 3 ganchos para otras aventuras independientes, 
 
 Estás semillas puede que caigan todas en una única aventura en la que algún tipo de villano a lo Profesor Moriarty que tiene un malvado plan delictivo en el que intervienen esos tres objetos.
 
-Por último, creo que es fácil adaptar aventuras de misterio a FATE y a las peculiaridades de este suplemento y seguir las aventuras de Jekyll y Hyde.
+Por último, creo que es fácil adaptar aventuras de misterio a Fate y a las peculiaridades de este suplemento y seguir las aventuras de Jekyll y Hyde.
 
 Y por qué no enfrentarlos a Cultos de adoradores de los primigenios o que viajen en el tiempo con su colega H. G. Wells.
 
@@ -426,7 +426,7 @@ Los remordimientos que no tiene Hyde los sufre Jekyll a la noche siguiente, adem
 
 Definir a Hyde es difícil, ya que nació como una escisión mental del Doctor Jekyll debido al consumo de una fórmula magistral que recogió toda su parte bestial, violenta, amoral e instintiva. No tiene recuerdos del pasado, no tiene familia, no tiene mejores amigos. De hecho, es difícil decir cuántos años tiene o cuándo será su cumpleaños.
 
-Vive en la agencia, ya que, según él, odia el olor de la casa de Jekyll. De todas formas tampoco estaría mucho, porque si no está investigando, está en garitos de mala muerte del East End bebiendo, perdiendo dinero y metiéndose en peleas.
+Vive en la agencia, ya que, según él, odia el olor de la casa de Jekyll. De todas formas tampoco estaría mucho, porque si no está investigando, está en garitos de mala muerte del East End, bebiendo, perdiendo dinero y metiéndose en peleas.
 
 Edward es puro instinto animal. Los olores, los gestos, las miradas son más importantes para él que todo el buen trabajo policía. Como buen sabueso rabioso cuando capta un rastro no lo pierde y hace lo que sea, literalmente lo que sea, para seguirla hasta descubrir al culpable. Con el tiempo y la interacción con Jekyll ha aprendido a que las pistas que seguir pueden empezar en el fondo de una probeta de laboratorio.
 
@@ -471,7 +471,7 @@ La acción debería estar siempre presente, con unos comienzos muy serios de inv
 
 No debemos olvidar que Hyde es un hombre de acción que habla más con sus actos (por no decir puños) que con sus palabras. Y Hyde no dejará a su vez de meter en problemas a su contrapartida Jekyll.
 
-Los protagonistas vivirán exóticas aventuras con misterios procedentes de todo el mundo. No viajarán ellos a localizaciones lejanas y misteriosas, sino que esas localizaciones vendrán a Londres en barco desde todas las colonias de Inglaterra. Piensa que hacia 1890 Inglaterra controla India, Australia y Nueva Zelanda, una extensa franja de tierra en África desde Egipto a Sudáfrica e islas en la Polinesia y en el Caribe, sin olvidarnos lo que puedan traer los exploradores polares.
+Los protagonistas vivirán exóticas aventuras con misterios procedentes de todo el mundo. No viajarán ellos a localizaciones lejanas y misteriosas, sino que esas localizaciones vendrán a Londres en barco desde todas las colonias de Inglaterra. Piensa que hacia 1890 Inglaterra controla India, Australia y Nueva Zelanda, una extensa franja de tierra en África, desde Egipto a Sudáfrica e islas en la Polinesia y en el Caribe, sin olvidarnos lo que puedan traer los exploradores polares.
 
 Por último, ya hemos hablado de las opciones de meter ciencia extraña y magia oscura sutilmente en las aventuras. Estos también son elementos recurrentes en las ficciones _pulp_ que puedes y deberías explotar.
 
@@ -561,7 +561,7 @@ Si os ha gustado este suplemento podéis probar otros de mis proyectos para Fate
 
 [**Guía de Cazavampiros para niñas molonas**](https://cazavampiros.gwannon.com/pdf/) 
 
-El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
+El juego de rol para Fate Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
 
 ***
 

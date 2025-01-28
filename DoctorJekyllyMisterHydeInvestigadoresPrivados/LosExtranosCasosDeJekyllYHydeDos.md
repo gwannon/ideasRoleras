@@ -1,6 +1,6 @@
 ## El extraño caso de las palas del zapador
 
-> ![Pala de cavar zanjas](./assests/images/pala.png "Pala de cavar zanjas") Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley & Hickson Insurances que asegura la obra no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.
+> ![Pala de cavar zanjas](./assests/images/pala.png "Pala de cavar zanjas") Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley & Hickson Insurances, que asegura la obra, no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.
 
 ### Resumen del caso
 
@@ -18,7 +18,7 @@ Para cobrar la prima debe haber un cadáver, el suyo en concreto, y como no pued
 
 Un chico de los recados entrará en la agencia y entregará un mensaje esperando una propina. 
 
-Es de Wilbur MacNichols, pasante de seguros de Stanley & Hickson Insurances. Gabriel Utterson con el que ha trabajado en anteriores circunstancias les pone por las nubes, así que quiere contratar sus servicios porque cree que están intentando estafar al seguro.
+Es de Wilbur MacNichols, pasante de seguros de Stanley & Hickson Insurances. Gabriel Utterson, con el que ha trabajado en anteriores circunstancias, les pone por las nubes, así que quiere contratar sus servicios porque cree que están intentando estafar al seguro.
 
 El mensajero entrega también una copia del informe al seguro. En él se ve a grandes rasgos que un cavador de las obras del nuevo puente de Battersea murió por la caída de un rayo. Como obra pública que es, las obras del puente tenían un seguro que incluía indemnización en caso de muerte de algún obrero. Deben indemnizar a la viuda con una prima modesta pero suficiente para sobrevivir un tiempo.
 
@@ -32,7 +32,7 @@ Es un hoyo de unos 5 o 6 metros de radio por de 2 y medio de hondo con una un su
 
 \sp
 
-En un lateral donde se supone que estaba Joshua cavando hay un gran agujero provocado por el terrible impacto del rayo con restos de materiales geológicos cristalizados por culpa del calor del impacto del rayo.
+En un lateral donde se supone que estaba Joshua cavando, hay un gran agujero provocado por el terrible impacto del rayo con restos de materiales geológicos cristalizados por culpa del calor del impacto del rayo.
 
 El hoyo está cerca del río y como haya una crecida se verá inundado. Lo estaban haciendo como parte de los cimientos del puente. Solo hay barro y más barro y la lluvia lo ha medio inundado todo, así que el agua definitivamente ha estropeado la escena.
 
@@ -119,7 +119,7 @@ La casa está vacía. Lo que no se han llevado los antiguos inquilinos, ha sido 
 
 La entrada al sótano está cerrada dentro. Joshua la puede cerrar y abrir a voluntad y suele entrar y salir por la carbonera.
 
-Joshua escucha desde el sótano Cuando se vea acorralado y crea que lo van a atrapar saldrá del sótano por la antigua carbonera corriendo por el barrizal que rodea la casa, con sus dos palas nuevas que parecen más diapasones gigantes (ha ido mejorando su estos días su diseño anterior).
+Joshua escucha desde el sótano Cuando se vea acorralado y crea que lo van a atrapar, saldrá del sótano por la antigua carbonera corriendo por el barrizal que rodea la casa, con sus dos palas nuevas que parecen más diapasones gigantes (ha ido mejorando su estos días su diseño anterior).
 
 ### El combate final
 

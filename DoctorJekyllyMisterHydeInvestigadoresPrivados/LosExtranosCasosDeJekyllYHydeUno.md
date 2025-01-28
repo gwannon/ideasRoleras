@@ -30,7 +30,7 @@ Robar un animal depredador como ese supone un golpe muy complejo con redes, seda
 
 \sp
 
-No les quitará los ojos de encima mientras empiezan a investigar, pero enseguida se llenará de gazetilleros haciendo preguntas. Newcomen y podrán moverse más tranquilamente.
+No les quitará los ojos de encima mientras empiezan a investigar, pero enseguida se llenará de gacetilleros haciendo preguntas. Newcomen y podrán moverse más tranquilamente.
 
 #### Inspector Newcomen
 
@@ -63,7 +63,7 @@ No hay ni una pista que seguir en la jaula. Kim no tiene nada, así que no ha de
 
 Tras revisar la escena del crimen empieza la labor detectivesca que puede hacerles ir a tus jugadores desde el Museo Británico al matadero municipal.
 
-**Si buscan pisadas** con una tirada Normal (+1) encontrarán las de Ehbri que van hasta el lugar donde saltaron la valla del zoo para perderse en las adoquinadas calles aledañas. Hay cientos de pisadas de los visitantes, así que las de una niña como Kim no se destacan. Además, cuando están juntas Kim va montada en la grupa de Ehbri.
+**Si buscan pisadas** con una tirada Normal (+1) encontrarán las de Ehbri que van hasta el lugar donde saltaron la valla del zoo para perderse en las adoquinadas calles aledañas. Hay cientos de pisadas de los visitantes, así que las de una niña como Kim no se destacan. Además, cuando están juntas, Kim va montada en la grupa de Ehbri.
 
 **Si visitan el lugar donde fue atacado el celador del zoo** encontrarán sin problema el sitio donde aterrizó el «mono». Las huellas son de algo o alguien pequeño y con una tirada Buena (+2) tendrán bastante claro que son humanas. Lo curioso es que son pies humanos descalzos (Kim se quitó los zapatos para trepar mejor al árbol).
 
@@ -77,7 +77,7 @@ Si deciden confirmarlo, no falta ningún mono del zoo y no hay constancia de que
 
 **La historia de Victoria la tigresa** es de sobra conocida y cualquier persona del zoo o un poco de trabajo en los archivos del zoo les contará la historia de como la cazó Sir Corbyn y se la regaló a la reina Victoria que la dono al zoo.
 
-**Si quieren hablar con Bob, el cuidador del zoo agredido** está descansando en su casa del golpe. No podrá decirles mucho, estaba de ronda nocturna, no muy lejos de las jaulas de los felinos cuando una figura más bajita que él saltó como un mono enfrente de él y le dejó inconsciente golpeándole con un palo.
+**Si quieren hablar con Bob, el cuidador del zoo agredido** está descansando en su casa del golpe. No podrá decirles mucho, estaba de ronda nocturna, no muy lejos de las jaulas de los felinos, cuando una figura más bajita que él saltó como un mono enfrente de él y le dejó inconsciente golpeándole con un palo.
 
 Según Bob, ha habido veces en que los bribones han entrado en el zoo por la noche a robar, pero nunca habían agredido deliberadamente a un cuidador.
 
@@ -85,7 +85,7 @@ Según Bob, ha habido veces en que los bribones han entrado en el zoo por la noc
 
 Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrarán nada. No es un consumo de carne tan grande como para que fuera significativo. Cualquier restaurante cutre compra al día esa cantidad de carne.
 
-Pueden montar un **mapa de Londres y marcar los sitios donde se escondería un tigre**. Pero encontrarán montones de parques, incluso puedes haber salido ya de la ciudad. Aun así, cuando empiecen los ataques de la tigresa puede serles útil para poner sus localizaciones y los lugares de los ataques.
+Pueden montar un **mapa de Londres y marcar los sitios donde se escondería un tigre**. Pero encontrarán montones de parques, incluso puedes haber salido ya de la ciudad. Aun así, cuando empiecen los ataques de la tigresa, puede serles útil para poner sus localizaciones y los lugares de los ataques.
 
 \sp
 
@@ -95,7 +95,7 @@ Pueden montar un **mapa de Londres y marcar los sitios donde se escondería un t
 
 ### Los primeros ataques
 
-Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala así que no les queda más remedio que empezar a dar golpes nocturnos. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor. Harán un ataque al día y volverán con el botín al bosque. Al día siguiente, Kim buscará vender lo que pueda y comprar comida para Ehbri.
+Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala, así que no les queda más remedio que empezar a dar golpes nocturnos. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor. Harán un ataque al día y volverán con el botín al bosque. Al día siguiente, Kim buscará vender lo que pueda y comprar comida para Ehbri.
 
 Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.
 

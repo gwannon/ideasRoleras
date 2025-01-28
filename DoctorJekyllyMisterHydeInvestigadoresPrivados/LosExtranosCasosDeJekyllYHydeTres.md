@@ -12,7 +12,7 @@ Desde entonces, llevan como unos 80 años apareciendo y desapareciendo y cada ve
 
 Estos lingotes están impregnados de una sustancia cerosa que al contacto con el calor como el producido por el cuerpo humano, desprende una toxina que se absorbe por la piel. Las toxinas al llegar al cerebro provocan una ira irracional y homicida en su víctima.
 
-Esta sustancia la puso el visir del marajá que estaba enamorado de Jariba y cuyo amor no era correspondido. Su idea es que si Jariba no era suya, no fuera de nadie y su futuro marido la matará en la noche de boda al ofrecerle ella su dote antes de consumar el matrimonio.
+Esta sustancia la puso el visir del marajá, que estaba enamorado de Jariba y cuyo amor no era correspondido. Su idea es que si Jariba no era suya, no fuera de nadie y su futuro marido la matará en la noche de boda al ofrecerle ella su dote antes de consumar el matrimonio.
 
 \sp
 
@@ -161,9 +161,11 @@ La mansión Collidge es la típica mansión victoriana de planta rectangular con
 
 #### Maximilian Collidge
 
-Collidge lleva consigo los dos lingotes de oro que se llevó de la notaría y los blande como armas. Ese despliegue de armamento junto con el batín de seda y las zapatillas de felpa que lleva puesto le hacen quedar totalmente ridículo. Si no fuera por la rabia homicida de sus ojos, sería una escena bastante risible.
+Collidge lleva consigo los dos lingotes de oro que se llevó de la notaría y los blande como armas. Ese despliegue de armamento junto con el batín de seda y las zapatillas de felpa que lleva puesto le hacen quedar totalmente ridículo.
 
 \sp
+
+Si no fuera por la rabia homicida de sus ojos, sería una escena bastante risible.
 
 El contacto continuo con los lingotes ha agravado la consecuencia «Ira homicida». Maximilian es casi imposible recuperarlo. Si sale vivo del enfrentamiento, pasará el resto de sus días en una institución mental con una camisa de fuerza en una celda acolchada.
 
@@ -179,7 +181,7 @@ Tus jugadores pueden pensar que si consiguen que Collidge suelte los lingotes se
 * **Proezas**
   * **La carga de la caballería ligera:** Debido a su experiencia como combatiente, gana un +2 para Atacar en modo Vigoroso cuando carga contra un enemigo.
   * **Nobleza:** Debido a que pertenece a familia noble de tiempos de los sajones y normandos, gana un +2 para Crear una ventaja de modo Llamativo cuando discute con gente de menor rango social.
-  * **Buem jinete:** Debido a que es un jinete excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando se mueve a caballo.
+  * **Buen jinete:** Debido a que es un jinete excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando se mueve a caballo.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6 «Ira homicida»
