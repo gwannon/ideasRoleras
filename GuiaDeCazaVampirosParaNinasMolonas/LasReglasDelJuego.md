@@ -444,7 +444,7 @@ Salvo casos muy especiales, el _rango del vampiro_ debería aparecer en su aspec
 
 Otro aspecto importante puede ser _su forma de ser_, como «sanguinario», «vengativo», «meticuloso y cauto». Como ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.
 
-[![vamp it up By NanFe](./assests/images/vamp_it_up_by_nanfe_ddjnlb2-pre.jpg "vamp it up By NanFe")](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694 "vamp it up By NanFe")
+[![Vamp it up By NanFe](./assests/images/vamp_it_up_by_nanfe_ddjnlb2-pre.jpg "vamp it up By NanFe")](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694 "vamp it up By NanFe")
 
 Su _forma de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
 

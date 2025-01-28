@@ -4,3 +4,9 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QPadres muy protectores\nMuy buena en ciencias\n.................................................................................\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qestate segura de que son malditos vampiros.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa plata puede convertirse en balas o cuchillos, el fuego es fácil de conseguir, el té de ajo y el agua bendita pueden usarse en pistolas y globos de agua y las linternas UV pueden sentirte como una auténtica jedi con su sable de luz a lo Rey Skywalker.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen general material de montaña.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qrecuerdo haber visto en Twitch una navaja de estas con sierra y otra con puntero láser.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QBenditas pistolas de agua cargadas de té de ajo o de agua bendita!!!\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QEn qué eres bueno en el cole?\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtodo son ventajas.\\E$"}
