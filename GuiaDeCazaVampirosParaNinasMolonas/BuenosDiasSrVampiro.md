@@ -46,7 +46,7 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 * _Alfonse:_ Vampire buscavidas. XXX
 * _Nieve:_ Lugarteniente vampira de Lord Ceballos. XXX
 * _Tito:_ Siervo protector de Lord Ceballos. XXX
-* _Eloise:_ Súcubo vampiro. XXX
+* _Eloise:_ Súcubo vampírico. XXX
 * _Covadonga «Cova»:_ XXX. XXX
 * _Néstor:_ XXX. XXX
 * _Catalina Faroes:_ Abogada antisistema. Aliada y soporte emocional de las cazadoras.
@@ -188,7 +188,7 @@ XXX
 
 ## Can’t Help Falling in Love
 
-> La rave iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
+> La _rave_ iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
 
 \conc
 

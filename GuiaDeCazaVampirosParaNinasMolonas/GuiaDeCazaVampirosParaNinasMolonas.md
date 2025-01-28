@@ -280,7 +280,7 @@ Aquí tienes un listado de jerga más común.
 
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para FATE. Animaros y dadles un poco de cariño.
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
 
 &nbsp;
 
@@ -302,7 +302,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para FATE. 
 
 Guía de Cazavampiros para niñas molonas __por Berta de Cantaverno__
 
-Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado. Este libro contiene:
+Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de Fate Acelerado. Este libro contiene:
 
 1. Un montón de información sobre los vampiros y cómo matarlos. Sus puntos fuertes, sus debilidades y cómo aprovecharlas, sus rutinas y en general como funciona todo su oscuro mundo.
 2. Reglas para montar tu grupo de cazadoras de vampiros como enfrentarte a los grandes planos vampíricos que estén desarrollándose en tu barrio.
