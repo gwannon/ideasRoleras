@@ -546,8 +546,9 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Natural History in Anecdote - ALFRED H. MILES [Project Guttenberg](https://www.gutenberg.org/files/37959/37959-h/37959-h.htm)
 * Grabado de una pala por [rawpixel.com](https://www.freepik.com/free-vector/garden-set_2824792.htm)
 * Portrait of Queen Victoria, 1897, by [Forestier](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier)
-* Field officer of the Prince of Wales's (North Staffordshire Regiment), 1914. [Anne S. K. Brown Military Collection](https://itoldya420.getarchive.net/amp/media/north-staffordshire-regt-field-officer-5f349a)
+* Field officer of the Prince of Wales’s (North Staffordshire Regiment), 1914. [Anne S. K. Brown Military Collection](https://itoldya420.getarchive.net/amp/media/north-staffordshire-regt-field-officer-5f349a)
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+* Print made by [John Cleghorn](https://collections.britishart.yale.edu/catalog/tms:41069), active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.
 
 ## Agradecimientos
 

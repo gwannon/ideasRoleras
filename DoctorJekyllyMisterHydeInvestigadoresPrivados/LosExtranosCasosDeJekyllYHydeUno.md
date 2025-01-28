@@ -199,11 +199,15 @@ Este viejo cazador está deseoso de acabar con Ehbri, a la que tuvo que atrapar 
 
 \sp
 
+[![Print made by John Cleghorn, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.](./assests/images/ycba_7e422abb-817a-4927-84b9-daf2bff1f546.png "Print made by John Cleghorn, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.")](https://collections.britishart.yale.edu/catalog/tms:41069 "Print made by John Cleghorn, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.")
+
 ### Cacería en Regent’s Park
 
 Si han conseguido adelantarse a Sir Corbyn en encontrar la ubicación de la guarida de Ehbri y Kim, puede empezar a peinar Regent’s Park o pueden tratar de pillar a Kim cuando vaya a buscar comida y llevársela a Ehbri. También pueden esperar a que salgan a robar a la noche y seguirle cuando entren o salgan. 
 
 Ponerse a buscarlos por los bosques de Regent’s Park sin conocimientos de rastreo es bastante difícil y tienen el problema de que estarían en desventaja con Ehbri que sabe moverse entre los árboles y los matorrales.
+
+\sp
 
 Si encuentran a Kim, tendrán que convencerla de que son buenas personas y quieren ayudarlas (sea o no verdad). Esta les conducirá a Ehbri y la tranquilizará y les dirá que no son enemigos.
 
@@ -213,13 +217,13 @@ Cuando se pongan a planear sus siguientes pasos, llegarán ruidos de fuera de la
 
 Si no consiguen adelantarse a Sir Corbyn enseguida verán todo el espectáculo y tendrán que colarse dentro del parque escalando las verjas y esquivando a los policías y soldados y juntarse con Sir Corbyn o intentar infiltrarse en el bosquecillo que está sitiando ahora mismo Sir Corbyn.
 
-\sp
-
 #### Sir Corbyn saca su rifle
 
 Al cabo de 5 días con sus 5 ataques (o antes si tus jugadores descubren la ubicación de la tigresa), Sir Corbyn tendrá claro que su presa está en Regent’s Park. Así que allí irá montando un dispositivo de caza gigantesco. Todas las puertas del parque serán cerradas, se vaciará de viandantes y policías y soldados con rifles estarán vigilando que nada escape del parque.
 
 Ha hecho montar una jaula para retener al tigre cuando sea atrapado y ha montado su puesto de caza encima, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo. La jaula está situada casi al borde de la arboleda donde se refugian Ehbri y Kim.
+
+\sp
 
 Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la curiosidad y la verdad que sir Corbyn está disfrutando de actuar frente a tan selecto público.
 
@@ -231,13 +235,13 @@ Cuando Ehbri empiece a devorar la carne, Sir Corbyn bajará y sacará su cuchill
 
 La carne está drogada y no deja a Ehbri durmiendo, pero muy tocada (Consecuencia leve Drogada). Kim cuando vea eso saldrá hacia la jaula para ayudar a su amiga y entrará en la jaula por los pelos porque Sir Corbyn ha activado el cierre de la jaula para chulearse de luchar contra un tigre en una jaula.
 
-\sp
-
 Con una tirada Buena (+2) los jugadores entrarán en la jaula por los pelos y ayudar a Kim y Ehbri en la pelea. Pueden intentar si son fuertes evitar que la trampa no llegue a cerrarse con una tirada Grande (+3).
 
 Desde fuera, muy poco se puede hacer, pero si son creativos, igual pueden entrar dentro o ayudar a una de las partes.
 
 En la impensable, pero posible, situación que tus jugadores estén ayudando a Sir Corbyn, les dirán que se queden fuera. No quiere que nadie le robe la fama. Pueden intentar que Kim entre en la jaula, pero poco podrán hacer después, desde fuera de la jaula. Ehbri y Kim se pondrán a pelear a muerte con Sir Corbyn dentro.
+
+\sp
 
 ### El indulto real
 
@@ -249,19 +253,17 @@ Ante su presencia, tus jugadores, Sir Corbyn (que hinca rodilla), Kim y Ehbri se
 
 > Me entristece ver este terrible espectáculo en el corazón de mi reino, ¡cuán bajo han caído mis súbditos! Siempre he pensado que hay un placer mayor que matar, que es dejar vivir, así al ver aquí a mis súbditos luchando hasta la muerte prefiero que vivan y es, por tanto, mi deseo y mi derecho como reina que todos mis súbditos tanto humanos como tigres dejen de pelear y de matarse entre ellos. 
 
+[![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
+
 \sp
 
 Acto seguido, se da la vuelta y se va por donde ha venido. Mientras, un par de guardias se llevarán a Sir Corbyn y los otros tratarán de hablar con los jugadores y les ofrecerán las caballerizas reales para que Kim y Ehbri vivan unos días allí mientras preparan las cosas para trasladarlos a Bengala.
 
 Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos, deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.
 
-[![Portrait of Queen Victoria, by Forestier, 1897](./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png "Portrait of Queen Victoria, by Forestier, 1897")](https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg "Portrait of Queen Victoria, by Forestier, 1897")
-
 ### Unas semanas más tarde
 
 Una semana más tarde del fin del indulto de la reina, un bienhechor anónimo ha fletado un barco exclusivamente para el viaje de regreso a Bengala para Kim y Ehbri. Ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.
-
-\sp
 
 Según «The National Geographic» esos estudios podrían ser la base de un futuro lenguaje universal hablado por hombres y bestias.
 

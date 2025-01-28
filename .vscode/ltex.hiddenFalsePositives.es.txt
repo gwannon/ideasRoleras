@@ -13,3 +13,7 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QQué Narices!!!!!\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QPero y ahora qué?\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAnne S. K. Brown Military Collection\nExlibris de Pergeñado con Inteligencia humana por Ángel G. Ropero\nPrint made by John Cleghorn, active 1840–1881, British, Plan of the Regent's Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen cualquier sitio menos en la partida.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QMister Poole, el ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPrint made by John Cleghorn, active 1840–1881, British, Plan of the Regent's Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.\\E$"}
