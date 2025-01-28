@@ -48,6 +48,7 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 * _Tito:_ Siervo protector de Lord Ceballos. XXX
 * _Eloise:_ Súcubo vampiro. XXX
 * _Covadonga «Cova»:_ XXX. XXX
+* _Nestor:_ XXX. XXX
 * _Catalina Faroes:_ Abogada antisistema. Aliada y soporte emocional de las cazadoras.
 * _Samuel:_ Psicólogo new age. XXX
 
@@ -151,6 +152,12 @@ Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz s
 
 XXX
 
+### El primer encuentro con Alfonse
+
+Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria. Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
+
+XXX
+
 \sp
 
 \sinc
@@ -248,6 +255,8 @@ XXX
 Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas veces. Van a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
 
 XXX
+
+\sc
 
 \sp
 
