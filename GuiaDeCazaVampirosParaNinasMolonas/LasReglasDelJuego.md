@@ -322,7 +322,7 @@ A nivel de juego puedes usar unas tarjetas que encontrarás en el Epílogo para 
 
 \conc
 
-[![Cinderella running by Elizabeth](./assests/images/3737850192_5e9704d97c_c.png "Cinderella running by Elizabeth")](https://www.flickr.com/photos/37217398@N02/3737850192 "Cinderella running by Elizabeth")
+[![Sticker Cinderella running by Elizabeth](./assests/images/3737850192_5e9704d97c_c.png "Cinderella running by Elizabeth")](https://www.flickr.com/photos/37217398@N02/3737850192 "Cinderella running by Elizabeth")
 
 Uno de los grandes problemas cuando eres menor de edad es que no eres totalmente autónoma y estás a expensas de sus padres. Así que muchas veces no vas a poder acudir a las cazas programadas por la panda. El día a día te come, así que si durante alguna ronda de vigilancia una cazavampiros no puede asistir, es una putada, pero es entendible. Todas tenemos nuestros compromisos fuera de la actividad cazavampiros.
 

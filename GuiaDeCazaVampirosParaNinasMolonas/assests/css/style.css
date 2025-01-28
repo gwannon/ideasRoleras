@@ -723,8 +723,15 @@ section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type)
   transform: rotate(2deg);
 }
 
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Sticker]) img {
+  box-shadow: none;
+  transform: rotate(1deg);
+}
+
 section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Pegatina]):before,
-section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Pegatina]):after {
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Pegatina]):after,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Sticker]):before,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Sticker]):after {
   display: none;
 }
 
