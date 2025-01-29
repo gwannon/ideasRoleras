@@ -1,6 +1,6 @@
 \sincolumna
 
-# Ideas Roleras [Por Gwannon - 24/12/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 24/01/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos, ambientaciones y campañas
 
@@ -37,6 +37,8 @@ La arena y la tecnología se llevan muy mal, así que habría reglas de como la 
 [Imagen 3](https://www.deviantart.com/thefearmaster/art/Giza-776180932)
 
 El diseño del libro debería ser mezcla del libro de los muertos de La momia, rollo planchas de metal con grabados y jeroglíficos resaltados en neón, además de botones y circuitería. Bordes externos de las hojas con el nombre de la sección en cartuchos y los bordes internos de las hojas con pesadas bisagras metálicas.
+
+Parece que hay algo en [City of Mist](https://cityofmist.co/blogs/news/cairo-neuro-otherscape-rpg-kickstarter-launch)
 
 ### Circunnavegación de un mundo medieval fantástico
 
@@ -218,6 +220,10 @@ Habría una religión de los grafiteros como seres creadores que hace años que 
 
 Tendría una mezcla de Trolls 2, Tron y La historia interminable.
 
+### La liga de los críptidos extraordinarios
+
+Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
+
 ### Mad men RPG
 
 Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
@@ -232,13 +238,13 @@ Algún becario del departamento de egiptología del British Museum ha desempolva
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
 
+\saltopagina
+
 ### Pac-land
 
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
 
 Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
-
-\saltopagina
 
 ### Planilandia RPG
 
@@ -266,11 +272,13 @@ Lo más importante será la pelea final donde tendrás que esquivar sus ataques,
 
 Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
 
+### Puteando al Doctor Jekyll y Mister Hyde
+
+Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
+
 ### Repartidor/a de pizza en un dungeon.
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
-
-\saltocolumna
 
 ### RRHH en un Dungeon.
 
@@ -288,7 +296,17 @@ Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y c
 
 Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
 
-Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan. 
+Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan.
+
+\saltopagina
+
+### La villa secreta de las mascotas
+
+Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
+
+Les contratan en peligrosas misiones que solo una mascota preparada puede cumplir como repartir muestras gratis de sangre falsa en un baile de vampiros o hacer una campaña de seguridad vial para usar ropa reflectante de noche en un pueblo de ninjas.
+
+\saltocolumna
 
 \saltopagina
 
@@ -369,6 +387,28 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \sincolumna
 
-## En desarrollo
+## Pensando
 
 \concolumna
+
+### Geishas VS. ninjas
+
+Siempre nos movemos en la dualidad de Samuráis VS Ninjas, pero nos olvidamos un importante ícono del Japón medieval, las Geishas.
+
+XXX
+
+### Pokedados
+
+Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
+
+Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución. Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
+
+* La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
+* Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al azar de la bola gigante de dados.
+* Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
+
+Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
+
+### Rockeros
+
+XXX
