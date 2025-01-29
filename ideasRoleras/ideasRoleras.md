@@ -204,7 +204,7 @@ Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew V
 
 ### Crear versiones en LEGO de juegos de rol
 
-Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Heroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
+Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Héroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
 
 ### Graffiti World
 
@@ -244,7 +244,7 @@ En ese momento un grupo de momias se despiertan en el ala de egiptología del mu
 
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
 
-Jugarías con Pac-man, Miss Pac-man, su bebe y otros personajes recurrentes del mundo.
+Jugarías con Pac-Man, Miss Pac-Man, su bebe y otros personajes recurrentes del mundo.
 
 ### Planilandia RPG
 
@@ -393,19 +393,29 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 ### Geishas VS. ninjas
 
-Siempre nos movemos en la dualidad de Samuráis VS Ninjas, pero nos olvidamos un importante ícono del Japón medieval, las Geishas.
+Siempre nos movemos en la dualidad de samuráis VS. ninjas, pero nos olvidamos un importante ícono del Japón medieval, las geishas.
 
-XXX
+Podemos jugar con varias opciones:
+
+* Gremios de geishas guardaespaldas que evitan que sus clientes sean asesinados por ninjas. Vas a aprender a tocar el shamisen y a arrear porrazos con él.
+* Una escuela de geishas rollo Hogwarts con geishas en vez de magos. La escuela tendría secretos y misterios, algunos yokais, profesoras chungas y siempre jugando con la posibilidad de que te expulsen. Además, habría una escuela de ninjas rivales con la que competirían.
+* Algún suplemento para llevar geishas en una ambientación ciberpunk. Con reglas para asistentes virtuales o IA geisha, kinomos con blindaje, protocolo empresarial, ...
+
+\saltocolumna
 
 ### Pokedados
 
 Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
 
-Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución. Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
+Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución.
 
-* La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
-* Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al azar de la bola gigante de dados.
-* Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
+Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
+
+La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
+
+Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al azar de la bola gigante de dados.
+
+Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
 
 Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
 
