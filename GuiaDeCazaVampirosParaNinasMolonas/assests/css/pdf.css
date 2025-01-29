@@ -73,6 +73,12 @@ section:nth-of-type(10) > div.saltopagina {
     margin-top: 0;
     padding-top: 0;
   }
+
+  .saltocolumna + ul,
+  .saltocolumna + ul > li:first-of-type {
+    margin-top: 0;
+    padding-top: 0;
+  }
   
   .saltopagina {
     display: block;

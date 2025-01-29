@@ -11,7 +11,7 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
 # Guía de Cazavampiros para niñas molonas
 
-El juego de rol para FATE Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
+El juego de rol para Fate Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
 
 [Versión PDF](https://bosque.gwannon.com/guiacazadora/)
 

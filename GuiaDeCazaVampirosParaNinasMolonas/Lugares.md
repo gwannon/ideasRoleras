@@ -1,0 +1,117 @@
+\sinc
+
+## Lugares
+
+A continuación he copiado las notas que fui haciendo sobre los distintos lugares donde ocurrió mi aventura para que puedan hacerte una mejor idea. Son, principalmente, guaridas de vampiros, zonas de caza y algún que otro sitio donde hubo encuentros importantes.
+
+### El barrio
+
+\conc
+
+El barrio es una localización especial en esta aventura porque es tu labor definirlo poniéndole unos 4 aspectos. 
+
+Llevas muchos años viviendo en el barrio para que tengas secretos para ti, por lo que el barrio solo tiene aspectos visibles. Los aspectos deben responder a preguntas como:
+
+* ¿Quién vive en el barrio?
+* ¿Es rico o es pobre?
+* ¿Está en el centro o en las afueras?
+* ¿Está bien comunicado?
+* ¿Hay mucha delincuencia? ¿Hay mucha policía? ¿Está abandonado por las instituciones?
+
+\sinc
+
+### Guarida de Lord Ceballos
+
+* **Aspectos visibles:** Altísima seguridad, Guarida perfecta de vampiros
+* **Aspectos ocultos:** Habitación del pánico, Túnel de escape
+
+\conc
+
+Lord Ceballos vive en el ático de un edificio de viviendas de lujo, que es completamente de su propiedad. En ese edificio solo viven sirvientes suyos tanto humanos como vampiros y encima de ellos con la vivienda más lujosa y segura está Lord Ceballos.
+
+Solo hay dos entradas al edificio, la principal, y, como no, la de servicio para repartidores, vigilantes y demás. Ambas tienen arcos de seguridad y escáner de rayos X para las bolsas. 
+
+El ático solo tiene acceso por ascensor privado en el que siempre hay un vigilante que actúa de ascensorista. Todas las paredes están llenas de grandes ventanales que al amanecer se cubren de persianas metálicas reforzadas que no dejan entrar ni la luz, ni las balas.
+
+El ático tiene varios dormitorios con su propio cuarto de baño y un gran salón donde Ceballos celebra sus fiestas. Tiene barra de bar, cómodos sofás, una chimenea y en el lugar principal una especie de sofá unipersonal como si fuera un trono.
+
+Detrás del trono, tras unas cortinas de terciopelo rojo, tiene la puerta a una habitación del pánico donde puede dormir en una especie de sarcófago metálico anti-cazavampiros.
+
+La chimenea se puede mover, pulsando un botón escondido y da acceso a una especie de tobogán que te lleva a las alcantarillas debajo del edificio.
+
+\sp
+
+La seguridad no tiene armas de fuego, solo porras y tasers. Ceballos quiere saber que está protegido, pero no llamar demasiado la atención llevando más protección que el presidente del gobierno.
+
+\sinc
+
+&nbsp;
+
+[![Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy](./assests/images/wetlands-with-marsh-vegetation-mammoth-route-padul-granada-andalusia-spain.jpg "Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy")](https://www.freepik.com/free-photo/wetlands-with-marsh-vegetation-mammoth-route-padul-granada-andalusia-spain_2788654.htm "Wetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy")
+
+### Los humedales
+
+* **Aspectos visibles:** Reserva protegida, Zona pantanosa
+* **Aspectos ocultos:** Intereses inmobiliarios, Fácil de deshacerse de cuerpos y pruebas
+
+\conc
+
+En un extremo del barrio hay una zona pantanosa, unos humedales según la asociación ecologista local. Es una zona de charcas y cañaverales donde se supone que descansan diversas aves migratorias. Además, debe haber un par de especies de ranas protegidas.
+
+Los humedales corren serios problemas debido a, primero, la fundición de San Andrés que supone un riesgo muy importante para el ecosistema de los humedales y, segundo, porque hay muchos intereses inmobiliarios, no solo del grupo Ceballos, en secar esos terrenos y edificar urbanizaciones privadas de lujo.
+
+Se cuentan historias raras del humedal, desde luces extrañas hasta ovnis. Pero lo único cierto es que es un lugar estupendo para deshacerte de cadáveres y otras pruebas incriminatorias. 
+
+\sinc
+
+### La fundición
+
+* **Aspectos visibles:** Vieja y destartalada, Peligro ecológico
+* **Aspectos ocultos:** Controlada en secreto por el Grupo Ceballos, Aislada y lejos de miradas indiscretas
+
+\conc
+
+\sp
+
+\sinc
+
+[![Stove with fire at blacksmith workshop. There are different tools around by fxquadro](./assests/images/stove-with-fire-blacksmith-workshop-there-are-different-tools-around.jpg "Stove with fire at blacksmith workshop. There are different tools around. by fxquadro")](https://www.freepik.com/free-photo/stove-with-fire-blacksmith-workshop-there-are-different-tools-around_26614049.htm "Stove with fire at blacksmith workshop. There are different tools around. by fxquadro")
+
+&nbsp;
+
+\conc
+
+La fundición y planta de reciclaje de San Andrés fue durante muchos años uno de los motores de la economía del barrio, pero hace años que entró en decadencia y está vieja y destartalada fundición de chatarra es más un peligro ecológico que una fuente de riqueza.
+
+Se encuentra al borde de los humedales y no es la primera vez que tiene «fugas accidentales» de productos peligrosos. Su cierre está siendo luchado por las asociaciones de vecinos y ecologistas, pero también da trabajo a unas cuantas familias. Esto lo convierte en un tema de conversación escabroso en las reuniones familiares del barrio.
+
+La fundición cuenta con un edificio de oficinas, la fundición propiamente dicha, varios almacenes donde se guarda el material recuperado y un extensísimo patio donde se almacena a la intemperie la basura metálica a reciclar.
+
+Cada día llegan camiones que traen basura metálica y se llevan metal preparado para su uso industrial.
+
+Los subproductos contaminantes como plomo o mercurio se guardan en balsas estancas a la espera de ser tratadas en otras fábricas.
+
+Lo que nadie sabe es que el grupo Ceballos la compró a través de una serie de empresas fantasmas, algunas fuera del país.
+
+Por las noches para su producción y como está en los humedales, el lugar se convierte en un sitio aislado y lejos de miradas indiscretas, donde los vampiros pueden hacer sus cosas de vampiros sin ser detectados.
+
+\sp
+
+\sinc
+
+### Campo municipal de fútbol 
+
+* **Aspectos visibles:** Grandes Eventos, No cumple las normativas de seguridad actuales
+* **Aspectos ocultos:** Trampa sin escapatoria, Pelotazo inmobiliario
+
+\conc
+
+Este campo de fútbol municipal tiene unos 60 años, construido en los 80 cuando el barrio tuvo un gran crecimiento.
+
+Tiene un aforo de 8.000 personas y es donde juega el equipo local de segunda B.
+
+Uno de sus problemas principales es que no cumple ningún tipo de legislación de espacios públicos, ni accesibilidad, ni seguridad, ni protección civil, … nada de nada. Llevan años con planes de derribarlo y construir un polideportivo que recoja otras actividades deportivas. Sin embargo, todas las administraciones locales por una razón u otra lo han retrasado.
+
+El campo está metido casi en los humedales con lo que solo se puede entrar desde uno de los laterales largos. Si se pone vigilancia en ese lado es muy difícil salir o entrar sin ser visto, ya que no hay accesos de ningún tipo por otros lados.
+
+\sp

@@ -20,7 +20,7 @@ Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instit
 6. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
 7. **Te leerás Drácula todos los años**, hay que revisar las bases cada poco tiempo.
 8. **No te fíes de las redes.** Pueden ser útiles, pero ellos las controlan.
-9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
+9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mira Murati organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
 
 ```
@@ -37,6 +37,16 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. T
 
 |BuenosDiasSrVampiro.md|
 
+|MientrasTanto.md|
+
+|Lugares.md|
+
+|AmigosYEnemigos.md|
+
+|PersonajesPregenerados.md|
+
+***
+
 # Epílogo
 
 \sinc
@@ -47,7 +57,7 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. T
 
 Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics. En cuanto a vampiros y planes tenemos desde los clásicos Tremere con planes dentro de planes de panes hasta famosísimas campañas como Drácula Dossier.
 
-Simplemente, es un divertimento que surgió de un personaje de «Los Green en la ciudad». Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
+Simplemente, es un divertimento que surgió de un personaje de «Los Greens en la ciudad». Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
 
 A partir de ahí pensé que sería divertido jugar con una niña como Andrómeda y una cosa llevo a otra y aquí tienes esta aventura.
 
@@ -77,11 +87,11 @@ Además de temas como drogas, alcohol y juego + menores, van a aparecer temas m�
 
 Todos estos elementos son una fantasía que forma parte de una historia donde el bien ganará al mal. Nunca deben salir de la mesa de juego y deben tratarse con el debido respeto y seriedad. 
 
-Si como director de juego o jugador vas a hacer chistes sobre estas duras situaciones que se plantean, te vas a regodear en ellas o buscas disfrutar de ellas más allá del simple juego de rol, que sepas que era una mierda de persona y que te deseo lo peor. Si ves estos comportamientos en tu mesa y no te repugnan y se lo echas en cara, sino que les sigues el juego, también eres una mierda de persona. Si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
+Si como director de juego o jugador vas a hacer chistes sobre estas duras situaciones que se plantean, te vas a regodear en ellas o buscas disfrutar de ellas más allá del simple juego de rol, que sepas que era una mierda de persona y que te deseo lo peor. Si ves estos comportamientos en tu mesa y no te repugnan y se lo echas en cara, sino que les sigues el juego, también eres una mierda de persona. Por último, si ves que en tu mesa pasa algo de lo escrito anteriormente, mejor sal corriendo de ahí lo antes que puedas.
 
 ### Romanceo y amistad
 
-Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ debería ser otro tema a tratar de forma sería. Estamos interpretando a menores con todo lo que ello ética, moral y legalmente supone. Está claro que tu PJ puede tener un crush por su actor o actriz favorita, por alguien de su clase, etc. pero no debería ir más allá del simple "el DJ te dé un aspecto divertido cuando tu amor platónico está cerca". 
+Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ debería ser otro tema a tratar de forma sería. Estamos interpretando a menores con todo lo que ello ética, moral y legalmente supone. Está claro que tu PJ puede tener un crush por su actor o actriz favorita, por alguien de su clase, etc. pero no debería ir más allá del simple «el DJ te dé un aspecto divertido cuando tu amor platónico está cerca». 
 
 Creo que en lugar del tema del romance puedes optar por llevar temas de amistad. Un parte importante de la ambientación trabaja el tema de la amistad, de amigas para siempre, BBF y creo que puede ser una idea diferente y alternativa al romanceo y que puede dar mucho juego y diversión.  
 
@@ -142,11 +152,12 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Wesker By [MonkeyMu](https://www.deviantart.com/monkeymu/art/Wesker-300376367) Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
 * Dorcha By [sokoistrying](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 *Che In Dublin Docklands - Street Art And Graffiti por [William Murphy](https://www.flickr.com/photos/infomatique/4673901682) Creative Commons Attribution-ShareAlike 2.0 Generic License
-* [Raimond Spekking](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg) Creative Commons Attribution-Share Alike 4.0 International license
+* [Raymond Spekking](https://commons.wikimedia.org/wiki/File:Wandgem%C3%A4lde_Heliosstra%C3%9Fe_37,_K%C3%B6ln-Ehrenfeld-1873.jpg) Creative Commons Attribution-Share Alike 4.0 International license
 * Feria del Barrio del Pilar 2017 por [Gordon Dionne](https://www.flickr.com/photos/myprofe/37918844252/) Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic license
 * Blood By [Mephisto123456789](https://www.deviantart.com/mephisto123456789/art/Blood-880245401) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
-* Vampire -edited- By [Valentinepsycho](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908) Creative Commons Attribution-ShareAlike 3.0 License
-* GRAFFITI - DENVER, COLORADO 08 por [Trip & Queball with PUNKassPHOTOS](https://www.flickr.com/photos/punkassphotos/3351954588/) Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic Licenses
+* Vampire —edited— By [Valentinepsycho](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908) Creative Commons Attribution-ShareAlike 3.0 License
+* GRAFFITI - DENVER, COLORADO 08 por [Trip & Queball with PUNKassPHOTOS](https://www.flickr.com/photos/punkassphotos/3351954588/) Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
+* Cinderella running by [Elizabeth](https://www.flickr.com/photos/37217398@N02/3737850192) Creative Commons Attribution-NonCommercial 2.0 Generic License
 
 \sp
 
@@ -269,33 +280,21 @@ Aquí tienes un listado de jerga más común.
 
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
+Si os ha gustado esta campaña podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
 
 &nbsp;
 
-[![OPERACIÓN: Tras el mundo perdido](./assests/images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
-
-[**OPERACIÓN: Tras el mundo perdido** - Una campaña donde lucharás contra nazis a lomos de dinosaurios.](https://mundoperdido.gwannon.com/pdf/)
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "UDoctor Jekyll y Mister Hyde: Investigadores privados")](https://cazavampiros.gwannon.com/pdf/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
 &nbsp;
 
-[![¡Arrr! Cthulhu](./assests/images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
-
-[**¡Arrr! Cthulhu:** Aventuras de piratas en el Caribe de los Mitos de Cthulhu](https://arrrcthulhu.com/pdf/)
-
-\conc
-
-\sp
-
-\sinc
-
-[![Mil y Un Ghūles](./assests/images/1001ghules.jpg "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")](https://1001ghules.gwannon.com/pdf/ "Aventuras de horror cósmico en los cuentos de las Mil y Una Noches")
-
-[**Mil y Un Ghūles:** Aventuras de horror cósmico en los cuentos de las Mil y Una Noches](https://1001ghules.gwannon.com/pdf/)
+[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://cazavampiros.gwannon.com/pdf/) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
 
 \conc
 
 ***
+
+\conc
 
 &nbsp;
 
@@ -303,7 +302,7 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Savage
 
 Guía de Cazavampiros para niñas molonas __por Berta de Cantaverno__
 
-Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de FATE Acelerado. Este libro contiene:
+Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía definitiva para convertirte en una cazadora de vampiros. Te cuento todo lo que sé sobre los vampiros y sus planes y cómo acabar con ellos y desmantelar sus planes. También te explicaré los mejores trucos del oficio que no podrás encontrar en YouTube ni en Twitch. Para jugar esta ambientación solo necesitas el Reglamento de Fate Acelerado. Este libro contiene:
 
 1. Un montón de información sobre los vampiros y cómo matarlos. Sus puntos fuertes, sus debilidades y cómo aprovecharlas, sus rutinas y en general como funciona todo su oscuro mundo.
 2. Reglas para montar tu grupo de cazadoras de vampiros como enfrentarte a los grandes planos vampíricos que estén desarrollándose en tu barrio.

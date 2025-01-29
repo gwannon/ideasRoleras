@@ -123,6 +123,7 @@ Hay una serie de creencias populares sobre los vampiros que he podido que no son
 * No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataúdes.
 * Los vampiros no tienes poderes mágicos, no lanzan hechizos, ni maldiciones, ni portan objetos mágicos. Como dice Marisa, no dan loteo. Tampoco hacen rituales para invocar a sus dioses.
 * No tienen poderes sobre los animales, como ratas o perros. De hecho, la mayoría de los animales se alejan de ellos.
+* No vomitan todo lo que comen. Pueden fingir que tragan alimento, pero deben vaciar el estómago cuando se llena.
 
 \sp
 

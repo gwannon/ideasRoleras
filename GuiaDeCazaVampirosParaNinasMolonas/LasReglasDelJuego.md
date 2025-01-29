@@ -312,8 +312,28 @@ Es curioso porque lo que para unos supone malro, para los otros supone buenro.
 Es fundamental controlar cuando sale y se pone el sol, así que las apps con esa info son cruciales. Los vampiros no tienen ese problema, saben instintivamente cuando se acerca la mañana o cuando se va a ir el sol.
 
 ```
-A nivel de juego puedes usar las siguientes tarjetas para determinar si es noche o de dia. Al principio de cada escena debes poner el que más se adecue a la hora. Recuerda que si pones las tarjetas de amaneciendo o anocheciendo se supone que al final de la escena se hará de día o de noche respectivamente.
+A nivel de juego puedes usar unas tarjetas que encontrarás en el Epílogo para determinar si es noche o de dia. Al principio de cada escena debes poner el que más se adecue a la hora. Recuerda que si pones las tarjetas de amaneciendo o anocheciendo se supone que al final de la escena se hará de día o de noche respectivamente.
 ```
+\sp
+
+\sinc
+
+## Entrada y salida de las cazas
+
+\conc
+
+[![Sticker Cinderella running by Elizabeth](./assests/images/3737850192_5e9704d97c_c.png "Cinderella running by Elizabeth")](https://www.flickr.com/photos/37217398@N02/3737850192 "Cinderella running by Elizabeth")
+
+Uno de los grandes problemas cuando eres menor de edad es que no eres totalmente autónoma y estás a expensas de sus padres. Así que muchas veces no vas a poder acudir a las cazas programadas por la panda. El día a día te come, así que si durante alguna ronda de vigilancia una cazavampiros no puede asistir, es una putada, pero es entendible. Todas tenemos nuestros compromisos fuera de la actividad cazavampiros.
+
+No es la primera vez que estando de caza, persiguiendo a un esquivo vampiro, he tenido que desaparecer y dejar colgada a mis amigas porque mis padres me habían puesto un toque de queda. Queda raro mirar el reloj y tener que decirles a mis sistars "Mierda chica, me voy. Llego tarde a la cena de cumpleaños del tonto de mi hermano".
+
+Para que las tengas controladas, estas son muchas de las situaciones en las que te verás obligada a abandonar a tus compañeras:
+
+* Toque de queda de los padres por malas notas, por saltarse clases, por contestar descaradamente, ...
+* Compromisos familiares entre los que podemos tener abuelos enfermos, entierros, reuniones familiares como bodas, bautizos y comuniones, ...
+* Actividades familiares como fin de semana en el pueblo, vacaciones, celebraciones de cumpleaños, cenas familiares periódicas como noche de pizza, 
+* Actividades religiosas como misas de los domingos oraciones, Ramadán, Semana Santa, catequesis, ...
 
 \sp
 
@@ -424,7 +444,7 @@ Salvo casos muy especiales, el _rango del vampiro_ debería aparecer en su aspec
 
 Otro aspecto importante puede ser _su forma de ser_, como «sanguinario», «vengativo», «meticuloso y cauto». Como ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.
 
-[![vamp it up By NanFe](./assests/images/vamp_it_up_by_nanfe_ddjnlb2-pre.jpg "vamp it up By NanFe")](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694 "vamp it up By NanFe")
+[![Vamp it up By NanFe](./assests/images/vamp_it_up_by_nanfe_ddjnlb2-pre.jpg "vamp it up By NanFe")](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694 "vamp it up By NanFe")
 
 Su _forma de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
 
