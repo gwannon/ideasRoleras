@@ -111,13 +111,13 @@ Un jugador puede dejar deliberadamente salir a su otro yo al final de una escena
 
 \sp
 
-Si desea hacerlo dentro de una escena, puede hacerlo, pero psicológicamente tiene efectos en ellos. Al hacer la transformación de una forma tan brusca están reconociendo que necesitan a su otro yo más de lo que les gustaría reconocer.
+Si desea hacerlo **dentro de una escena**, puede hacerlo, pero psicológicamente tiene efectos en ellos. Al hacer la transformación de una forma tan brusca están reconociendo que necesitan a su otro yo más de lo que les gustaría reconocer.
 
-Si Jekyll deja salir a Hyde de esta manera, está reconociendo que necesita a Hyde, su instinto animal, su brutalidad y su falta de ética y valores. Hyde aparece entonces con el aspecto temporal «desatado». Jekyll, por su parte, aparece con el aspecto «todo controlado» sabiendo que es mucho mejor que su brutal contrapartida y con mucha más confianza de la normal al saber que está al mando en esta extraña sociedad de dos.
+Si Jekyll deja salir a Hyde de esta manera, está reconociendo que necesita a Hyde, su instinto animal, su brutalidad y su falta de ética y valores. **Hyde aparece entonces con el aspecto temporal «desatado». Jekyll, por su parte, aparece con el aspecto «todo controlado»** sabiendo que es mucho mejor que su brutal contrapartida y con mucha más confianza de la normal al saber que está al mando en esta extraña sociedad de dos.
 
 Esto representa el hecho de que en esta forma de ceder el control el otro recién activado tiene cierta mano ancha para hacer lo que desee sin pensar en las consecuencias. 
 
-Imaginemos que Jekyll se ha metido en una pelea de taberna en White Chapel, puede interesarle invocar a Hyde para que le saque del apuro. Al primer puñetazo que recibe en cara, se «deja caer» y, cuando vuelve la cara, ahí está la maliciosa mirada de Hyde preparado para la bronca.
+Imaginemos que Jekyll se ha metido en una pelea de taberna en White Chapel, puede interesarle invocar a Hyde para que le saque del apuro. Al primer puñetazo que recibe en el rostro, se «deja caer» y, cuando vuelve la cara, ahí está la maliciosa mirada de Hyde preparado para la bronca.
 
 Pero recuerda que muy posiblemente Hyde se despertará sin saber muy bien qué pasa y por qué le golpean, aunque eso nunca le ha preocupado mucho.
 
@@ -155,7 +155,6 @@ Pensemos, por ejemplo, que Hyde ha secuestrado y ha torturado a un ladronzuelo p
 Realmente **no hay cambios físicos entre Jekyll y Hyde**. No le creen músculos o se le afilan los dientes. Su cuerpo es el mismo, pero hay sutiles cambios que los hacen diferentes, tan diferentes que muchas veces pasarán por personas distintas. Veamos algunos ejemplos:
 
 * Mientras que Jekyll siempre va estirado, mostrando su porte de caballero, limpio y con un traje impecable, Hyde va encorvado, con ropa y sombrero que le tape la cara y sin preocuparse mucho de su higiene personal.
-
 * Mientras que como buen inglés Jekyll tiene una dicción perfecta y un tono de voz medio y amable, Hyde trata de compensar sus complejos con un tono de voz grave y hablando muy alto, casi a gritos.
 * Hyde es mejor en peleas, no porque sea más fuerte y rápido, sino porque su lado animal le hace más agresivo y decidido y su umbral del dolor es mayor que el de Jekyll.
 
@@ -195,7 +194,7 @@ Podrían tratar de hacer copias de seguridad o encriptarlo, pero entonces deber�
 
 ### Otras formas de comunicarse
 
-En este punto entra ya la creatividad de tus jugadores, quizás Jekyll se pinte en la frente con carboncillo el nombre del asesino o Hyde pague a un pilluelo una libra para que le pegue una parada la próxima vez que le vea y le grite una hora y un lugar.
+En este punto entra ya la creatividad de tus jugadores, quizás Jekyll se pinte en la frente con carboncillo el nombre del asesino o Hyde pague a un pilluelo una libra para que le pegue una patada la próxima vez que le vea y le grite una hora y un lugar.
 
 Puede ser un punto divertido que se fastidien de esa manera, pero deberás controlar que no se les vaya de las manos.
 
@@ -211,15 +210,17 @@ Esto trata de reflejar que el trabajo llevado a cabo y las ventajas conseguidas 
 
 ## Cómo resolver conflicto entre personajes
 
-Jekyll y Hyde por la misma naturaleza de su historia van a tener conflictos. Las formas de abordar los casos deberían ser diametralmente distintas, mientras que Jekyll tiene un punto de vista científico y analítico, Hyde saldrá a la calle sacar respuestas rompiendo dientes.
+Jekyll y Hyde por la misma naturaleza de su historia van a tener conflictos. Las formas de abordar los casos deberían ser diametralmente distintas, mientras que Jekyll tiene un punto de vista científico y analítico, Hyde saldrá a la calle a sacar respuestas rompiendo dientes.
 
 Puede pasar que algún momento una acción de uno interfiera en las de otro, sobre todo si hay fallos en la transmisión de la información entre personalidades.
 
 Tal vez hayan interrogado al mismo testigo cada uno a su estilo. Primero le interrogo Jekyll y fue bastante agradable prometiéndole protección policial y algo de dinero. Tras un buen rato le saco un nombre y una dirección. Más tarde apareció Hyde gritando y amenazando al testigo de que va a hacer su vida un infierno. Hyde no solo se enfrenta al aguante del testigo, también a las promesas que le haya hecho Jekyll, lo cual complica el interrogatorio. 
 
-En esta situación, si el **segundo jugador usa un estilo diferente al primero**, deberá pasar una **dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador**. Si usan el mismo estilo, algo que pocas veces pasará, solo deberá pasar la dificultad normal.
+En esta situación, si el **segundo jugador usa un estilo diferente al primero**, deberá pasar una **dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador**. Si usan el mismo estilo, algo que pocas veces pasará, solo deberán pasar la dificultad normal.
 
 \sp
+
+Digamos que si Hyde y Jekyll interrogan a un sospechoso usando su fuerza, al usar el mismo estilo, sus acciones no entran en conflicto y la dificultad será en ambos casos solo la resistencia de interrogado.
 
 ## Hitos y su uso
 

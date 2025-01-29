@@ -4,7 +4,7 @@
 
 ### Resumen del caso
 
-La oro de la Dote de la Princesa Jariba son unos 40 lingotes de oro que el marajá de Kapurthala ofreció como parte de la dote de su hija la Princesa Jariba. Hizo ponerles una rosa como marca, ya que era la flor preferida de su hija.
+La oro de la Dote de la princesa Jariba son unos 40 lingotes de oro que el marajá de Kapurthala ofreció como parte de la dote de su hija la princesa Jariba. Hizo ponerles una rosa como marca, ya que era la flor preferida de su hija.
 
 La dote fue robada durante su traslado al hogar del futuro marido de Jariba. Este lo tomó como señal de mal augurio y rechazo a la princesa y deshizo la boda.
 
@@ -71,7 +71,7 @@ Como curiosidad, nadie está tocando nada con las manos desnudas. Si lo pregunta
 
 ### Pistas a seguir
 
-El caso es muy sencillo y a la vez muy difícil. Usando un diagrama de Venn, el asesino es la persona que esté en el grupo de clientes que visitaron a Stonewall ese día y la de gente relacionada con los lingotes de la dote de la Princesa Jariba. El primer problema es que no saben nada del lingote y el segundo problema es que el libro de citas se lo han llevado. Así que deberán tratar de reconstruir el día de Stonewall y averiguar todo lo que sepan del lingote. 
+El caso es muy sencillo y a la vez muy difícil. Usando un diagrama de Venn, el asesino es la persona que esté en el grupo de clientes que visitaron a Stonewall ese día y la de gente relacionada con los lingotes de la dote de la princesa Jariba. El primer problema es que no saben nada del lingote y el segundo problema es que el libro de citas se lo han llevado. Así que deberán tratar de reconstruir el día de Stonewall y averiguar todo lo que sepan del lingote. 
 
 \sp
 
