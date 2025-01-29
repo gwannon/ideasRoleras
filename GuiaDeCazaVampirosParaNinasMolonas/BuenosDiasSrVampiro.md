@@ -146,9 +146,26 @@ _DÍA_
 Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que tiene toda esta historía.
 
 * Si busca al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
+* Puedes buscar en casa de Maricarmen, la policía ha quitado el precinto y si consiguen una llave
 * XXX
 
 Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz saltar la noticia de que los abogados de Ernesto Lujua han pedido a los padres de una de tus PJ que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
+
+\sp
+
+### La morgue
+
+XXX
+
+###  El piso de Maricarmen
+
+XXX
+
+#### El portátil
+
+XXX
+
+### El colegio
 
 XXX
 
@@ -250,9 +267,7 @@ XXX
 
 XXX
 
-### La casita de chocolate
-
-Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas veces. Van a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
+### La noche de los goblins
 
 XXX
 
@@ -267,6 +282,12 @@ XXX
 > XXX
 
 \conc
+
+XXX
+
+### La casita de chocolate
+
+Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas veces. Van a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
 
 XXX
 

@@ -222,13 +222,97 @@ Aquí tienes un listado de jerga más común.
 
 ## Notas
 
+\sinc
+
+|&nbsp;|
+|------|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+
+\conc
+
 \sp
 
 ## Esquema del plan
 
+\sinc
+
+|&nbsp;|
+|------|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+|&nbsp;|
+
+\conc
+
 \sp
 
 ## Dramatis personae
+
+\sinc
+
+|Nombre|Descripción|&nbsp;|
+|------|-----------|------|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+|&nbsp;|&nbsp;|&nbsp;|
+
+\conc
 
 \sp
 
