@@ -146,16 +146,16 @@ _DÍA_
 Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que tiene toda esta historía.
 
 * Si busca al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
-* Puedes buscar en casa de Maricarmen, la policía ha quitado el precinto y si consiguen una llave
-* XXX
+* Puedes buscar en casa de Maricarmen, la policía ha quitado el precinto y si consiguen una llave o se cuelan de alguna otra manera.
+* Por último queda su despacho en el colegio, el problema es que lo compartía con «El Mordor», uno de los peores profesores del colegio.
 
 Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz saltar la noticia de que los abogados de Ernesto Lujua han pedido a los padres de una de tus PJ que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
-
-\sp
 
 ### La morgue
 
 XXX
+
+\sp
 
 ###  El piso de Maricarmen
 
@@ -165,9 +165,22 @@ XXX
 
 XXX
 
-### El colegio
+El portátil tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo.
 
 XXX
+
+### El despacho
+
+XXX
+
+#### «El Mordor»
+
+«El Mordor» es el otro profesor de Ciencias Sociales. Es una horrible persona que odia a los niños y nunca debiera haberse metido en la docencia. Grita a todo el mundo y está todo el tiempo enfadado.
+
+* El profesor más temido del colegio 
+* **Bueno (+2) en:** Intimidar, Historia 
+* **Malo (-2) en:** Vigilar, Encontrar cosas y personas
+* **Estrés:** Nada (cae al primer golpe)
 
 ### El primer encuentro con Alfonse
 
@@ -267,10 +280,6 @@ XXX
 
 XXX
 
-### La noche de los goblins
-
-XXX
-
 \sc
 
 \sp
@@ -288,6 +297,10 @@ XXX
 ### La casita de chocolate
 
 Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas veces. Van a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
+
+XXX
+
+### La noche de los goblins
 
 XXX
 

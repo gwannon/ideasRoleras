@@ -368,11 +368,11 @@ Si os ha gustado esta campaña podéis probar otros de mis proyectos para Fate. 
 
 &nbsp;
 
-[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "UDoctor Jekyll y Mister Hyde: Investigadores privados")](https://cazavampiros.gwannon.com/pdf/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "UDoctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
 &nbsp;
 
-[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://cazavampiros.gwannon.com/pdf/) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
+[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
 
 \conc
 
