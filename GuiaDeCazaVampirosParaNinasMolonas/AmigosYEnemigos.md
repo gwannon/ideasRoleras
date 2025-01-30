@@ -188,6 +188,8 @@ XXX
 
 Covadonga es una de las más antiguas siervas de Lord Ceballos y fue de gran ayuda cuando Lord Ceballos quiso independizarse de su creador, Lord Guzmán, y buscarse un territorio donde hincar sus dientes. Sin su ayuda hacia 1900 los planes para conseguir su actual territorio habrían fracasado y seguramente habría acabado muerto. 
 
+[![Hexerei, Clan Ventrue By IvanValladares](./assests/images/hexerei__clan_ventrue_by_ivanvalladares_duv7i4-375w-2x.jpg "Hexerei, Clan Ventrue By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540 "Hexerei, Clan Ventrue By IvanValladares")
+
 Durante un tiempo la tuvo de su lugarteniente, pero Lord Guzmán empezó a ver que algo fallaba en la mente de su lugarteniente y tuvo que apartarla de su puesto.
 
 Covadonga, a diferencia de sus compañeros vampiros, se quedó estancada en los años 20 del siglo XX y no ha conseguido avanzar desde esa época. Sigue vistiendo y comportándose como en 1920, no consigue comprender los avances de la tecnología y le cuesta relacionarse con la gente de 2020 con lo que su alimentación depende de lo que le proporcione Ceballos. 
@@ -205,6 +207,9 @@ XXX
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+
+\sp
+
 * **Proezas**
   * XXX
   * XXX
@@ -215,8 +220,6 @@ XXX
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** XXX
-
-\sp
 
 \sinc
 
