@@ -154,11 +154,15 @@ XXX
 
 \conc
 
+Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus víctimas con su increíble belleza. XXX
+
+Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que decora su guarida.
+
 XXX
 
 * **Aspectos**
   * **Concepto principal:** Súcubo vampiro
-  * **Complicación:** XXX
+  * **Complicación:** Lujuria
   * XXX
   * XXX
   * XXX
