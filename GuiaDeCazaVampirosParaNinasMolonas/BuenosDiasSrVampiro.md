@@ -145,7 +145,7 @@ _DÍA_
 
 Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que tiene toda esta historía.
 
-* Si busca al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
+* Si buscan al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
 * Puedes buscar en casa de Maricarmen, la policía ha quitado el precinto y si consiguen una llave o se cuelan de alguna otra manera.
 * Por último queda su despacho en el colegio, el problema es que lo compartía con «El Mordor», uno de los peores profesores del colegio.
 
@@ -161,17 +161,21 @@ XXX
 
 XXX
 
+No hay medicamentos fuera de lo normal que hagan pensar que estaba enferma, pero igual había abandonado la medicación. Pero sí veis suplementos de hierro y vitaminas. Alguna cazadora puede que le recuerden que alguien las tomaba por la anemia.
+
 #### El portátil
 
-XXX
+Si no han pasado ni un día desde que la policía retiro el precito, podrán encontrar el portátil de Maricarmen, si tardan más se lo llevará el ayudante de Ernesto Lujua siguiendo sus órdenes.
 
-El portátil tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo.
+El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo. Si consiguen acceso pueden encontrar:
 
-XXX
+* **Historial de navegación:** aparte de noticias, redes y compras online tiene un par de webs de citas y en una de ellas un match con un chico joven Goloso22. Han tonteado un poco y han quedado un par de noches a cenar y toar algo. Luego parece que se pasaron a WhatsApp.
+* **Carpeta documentos:** hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua». No parece que haya pagos de hipotecas o similares.
 
 ### El despacho
 
 XXX
+
 
 #### «El Mordor»
 
@@ -182,11 +186,28 @@ XXX
 * **Malo (-2) en:** Vigilar, Encontrar cosas y personas
 * **Estrés:** Nada (cae al primer golpe)
 
+#### Pistas en el despacho
+
+* El ordenador de Maricarmen tiene clave, pero tiene un post-it con ella escrita en la pantalla. Pueden encontrar lo mismo que en el portátil de su casa.
+* XXX
+
+### Los secretos de Maricarmen
+
+Tus cazadoras ya deben haber empezado a juntar pistas y ver que Maricarmen no se suicidó, sino que un personaje llamado Goloso22 que conoció en internet tuvo que ver mucho con su muerte.
+
+Debía tener pasta, además de su sueldo de Parecía que recibía dinero de un fideicomiso familiar y mucho de ese dinero lo donaba a diferentes ONG. Su hermano el concejal maneja dinero y tiene varias empresas. Igual él usó el dinero de la familia para crear esas empresas, mientras que Maricarmen prefirió trabajar de profesora y donar el dinero de la familia.
+
+XXX
+
+\sp
+
 ### El primer encuentro con Alfonse
 
 Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria. Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
 
 XXX
+
+\sc
 
 \sp
 
