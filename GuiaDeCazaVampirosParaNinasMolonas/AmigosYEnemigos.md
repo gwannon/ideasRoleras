@@ -50,20 +50,29 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 
 \conc
 
-XXX
-
-Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras con lo que deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
-
-Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro y apoderarse juntos de la ciudad.
+Alfonse es le vampire más joven convertido por Lord Ceballos. El viejo Ceballos buscó a alguien que se pudiera introducir en grupos sociales diferentes a los que estaba acostumbrado y se encontró con le fiestere no binario de Alfonse. Viendo que había potencial en elle para ser un vampire lo convirtió y como prueba de fuego lo abandono unas semanas para ver si valía la pena. El paso a vampiro no fue nada traumático, como pensaba Lord Ceballos. Había tenido en su vida problemas mucho mayores que ese y había sobrevivido a ellos.
 
 [![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
 
+Tras esas semanas, lo puso como "noob" al servicio de Néstor, pensando que siendo del mismo tipo de "depravados" (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
+
+Alfonse odia profundamente Néstor y está buscando una forma de acabar con él y quedarse su puesto. Así que muy posiblemente vea a tus cazadoras como una oportunidad de deshacerse de él, para luego traicionarlas luego y ganarse la confianza de Lord Ceballos y obtener el puesto de Néstor.
+
+Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bastante transgresor en sus elecciones de vestuario. XXX
+
+Nuestro vampire en principio no tiene ningún tipo de escrúpulos morales o ético y solo piensa en sí mismo y su supervivencia por lo que solo mira por su interés sin importar quien caiga. De hecho eso es lo que vio Lord Ceballos en elle cuando lo convirtió. Pero hay cosas en las que puede olvidarse de sí mismo y pensar en los demás. No soportará abusos y ataques al colectivo LGTBIQ+, tomándoselo con algo personal e incluso puede que establezca lazos emocionales y de amistad con alguna cazadora del colectivo que vayan más allá de la simple utilidad que puedan tener en sus planes. 
+
+Otra de las debilidades de Alfonse son los buscavides como él. Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro y apoderarse juntos de la ciudad.
+
 * **Aspectos**
   * **Concepto principal:** Vampiro buscavidas
-  * **Complicación:** Sed de poder
+  * **Complicación:** Odia a Néstor
   * Fiestero empedernido
+  * Abiertamente del colectivo
   * XXX
-  * XXX
+
+\sp
+
 * **Estilos:** Cauto Mediocre (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
   * XXX
@@ -75,6 +84,12 @@ Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y 
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** XXX
+
+\sinc
+
+> Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Si sobrevive a sus primeros encuentros y no acaba convertido en un montón cenizas es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras. Deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
+
+\conc
 
 \sp
 
