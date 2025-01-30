@@ -1,6 +1,6 @@
 \sincolumna
 
-# Ideas Roleras [Por Gwannon - 24/01/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 31/01/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos, ambientaciones y campañas
 
@@ -40,13 +40,13 @@ El diseño del libro debería ser mezcla del libro de los muertos de La momia, r
 
 Parece que hay algo en [City of Mist](https://cityofmist.co/blogs/news/cairo-neuro-otherscape-rpg-kickstarter-launch)
 
-### Circunnavegación de un mundo medieval fantástico
-
-Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era Hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
-
 \saltopagina
 
-### Conan VS Cthulhu
+### Circunnavegación de un mundo medieval fantástico
+
+Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
+
+### Conan VS. Cthulhu
 
 Hablamos de una hiboria como la describe Howard, pero con sectas de adoradores de Azatoth, hombres serpientes seguidores de Yig y unos héroes que buscan evitar que Cthulhu se levante de su prisión en la Atlántida.
 
@@ -66,7 +66,7 @@ Se puede plantear como una campaña en que vas recorriendo la ruta 66 o una cole
 
 Podría plantearse también para Delta Green con una unidad de investigadores que vigilan el medio oeste norteamericano.
 
-### D&D VS Westworld
+### D&D VS. Westworld
 
 En un futuro más o menos lejano te quedas atrapado en un planeta entero con más gente como tú que es un parque de atracciones temático de D&D. 
 
@@ -96,9 +96,9 @@ Europa sería un sistema solar donde cada planeta es una potencia europea. El Ca
 
 Habría barcos con motores FTL y velas solares capaces de surcar el espacio. Combates navales, campos de asteroides y agujeros negros en vez de tormentas y ciclones, etc.
 
-La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
-
 \saltopagina
+
+La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
 
 ### Fábulas de Bill Willingham
 
@@ -114,13 +114,23 @@ Se puede hacer muy fantástico con dragones propietarios de minas de oro y el s�
 
 Hay un juego español llamado Steam State y un suplemento de Castillo Falkenstein llamado Sorcery and Six-Gunners
 
+### Geishas VS. ninjas
+
+Siempre nos movemos en la dualidad de samuráis VS. ninjas, pero nos olvidamos de un importante ícono del Japón medieval, las geishas.
+
+Podemos jugar con varias opciones:
+
+* Gremios de geishas guardaespaldas que evitan que sus clientes sean asesinados por ninjas. Vas a aprender a tocar el shamisen y a arrear porrazos con él.
+* Una escuela de geishas rollo Hogwarts con geishas en vez de magos. La escuela tendría secretos y misterios, algunos yokais, profesoras chungas y siempre jugando con la posibilidad de que te expulsen. Además, habría una escuela de ninjas rivales con la que competirían.
+* Algún suplemento para llevar geishas en una ambientación ciberpunk. Con reglas para asistentes virtuales o IA geisha, kinomos con blindaje, protocolo empresarial, …
+
 ### Jungle book
 
 Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomorfizado.
 
 ### Mitología polinesia/hawaiana
 
-Fantasía medieval, pero rollo polinesia, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
+Fantasía medieval, pero rollo polinesio, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
 
 ### Mundo de papel
 
@@ -128,14 +138,12 @@ Un mundo de papel inspiración japonesa medieval, donde todo son figuras de orig
 
 Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
 
-\saltocolumna
-
 ### NIMH
-¿Qué pasó con las ratas de "Señora Frisby y las ratas de NIMH"? Mundo como Mouseguard pero con tecnología.
+¿Qué pasó con las ratas de «Señora Frisby y las ratas de NIMH»? Mundo como Mouseguard pero con tecnología.
 
-### Nemo VS Cthulhu
+### Nemo VS. Cthulhu
 
-Capitán Nemo contra Cthulhu. Nemo deberá encontrar R'lyeh
+Capitán Nemo contra Cthulhu. Nemo deberá encontrar R’lyeh
 
 ### Old ones RPG 
 
@@ -145,24 +153,43 @@ Sería interesante jugar con personajes antiguos en alguna época interesante co
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
+\saltopagina
+
+### Pokedados
+
+Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
+
+Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución.
+
+Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
+
+La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
+
+Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al azar de la bola gigante de dados.
+
+Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
+
+Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
+
 ### Soy leyenda al revés
+
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
 
 ### Ruta de la seda
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
 
+\saltocolumna
+
 ### Todos para Cthulhu y Cthulhu para todos
 
 Tres mosqueteros + Cyrano de Bergerac contra Cthulhu. Ya existe [Claudia Christian’s Musketeers vs. Cthulhu RPG](https://nightfall.games/claudia-christians-musketeers-vs-cthulhu-rpg/).
 
-### Ulises VS Cthulhu
+### Ulises VS. Cthulhu
 
 La Odisea en plan los Mitos de Cthulhu. En vez de Poseidón es Cthulhu y los seres extraños como los cíclopes son gugs, Caribdis y Escila como Dagon e Hydra, etc. Temibles hechiceras como Circe podrían ser líderes de cultos.
 
-\saltopagina
-
-### El viento en los sauces VS Cthulhu 
+### El viento en los sauces VS. Cthulhu 
 
 Hablamos de animales antropomórficos en una era victoriana tardía con los Mitos de Cthulhu.
 
@@ -172,17 +199,15 @@ Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profund
 
 Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
 
-### -007
+### —007
 
 Una campaña sería de agentes secretos contra organización mundial que busca dominar el mundo, pero los personajes llevan copias crutes de James Bond con sus poderes especiales crutes. Por ejemplo:
 
 * **Austin Powers** con superpoder de ligar rollo ¡¡¡Hey, nena!!!!
 * **Gru** y sus minions y sus inventos locos del Doctor Nefario.
-* **Super agente 86**
+* **Superagente 86**
 * **Flint, agente secreto**
 * **Eggsy de Kingsman** y todos esos superagentes adolescentes como Cody Banks
-
-\saltocolumna
 
 \saltopagina
 
@@ -192,9 +217,9 @@ Una campaña sería de agentes secretos contra organización mundial que busca d
 
 \concolumna
 
-### Agatha Christie VS Cthulhu
+### Agatha Christie VS. Cthulhu
 
-Las partidas tienen formato de las novelas y películas de Agatha Christie rollo "Whodunits" como "Puñales por la espalda" o "Asesinato en el Orient Express" con una charla final donde los PJ deberán resolver el asesinato.
+Las partidas tienen formato de las novelas y películas de Agatha Christie rollo «Whodunits» como «Puñales por la espalda» o «Asesinato en el Orient Express» con una charla final donde los PJ deberán resolver el asesinato.
 
 Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 híbridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
 
@@ -210,7 +235,7 @@ Montar reglas para jugar con personajes que sean de LEGO con el rollo de constru
 
 Sería una campaña donde juegas con grafitis. Una gran nada blanca (el empleado de mantenimiento que está tapando los grafitis de las paredes de un edificio abandonado con pintura blanca) ha acabado con tu mural/pueblo y te lanzas a la aventura de pararlo.
 
-Te irás moviendo por diferentes zonas/murales y viviendo aventuras en casa sitio. Cada tipo de mural tendría su propio sabor, desde los fieros grafitis del mural activista, hasta los intelectuales y finos del artístico o el de rollo más "Street Art".
+Te irás moviendo por diferentes zonas/murales y viviendo aventuras en casa sitio. Cada tipo de mural tendría su propio sabor, desde los fieros grafitis del mural activista, hasta los intelectuales y finos del artístico o el de rollo más «Street Art».
 
 Habría rencillas entre los diferentes murales, guerras y los PJ deberán arreglarlos.
 
@@ -258,7 +283,7 @@ Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden def
 Está inspirado en los arquetipos del Nephilim de Chaosium, que serían representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
 Los jugadores podrían cederse dados (mezcla de colores).
 
-por [Mondriter](https://mastodon.social/@Moonrider_acme)
+Por [Mondriter](https://mastodon.social/@Moonrider_acme)
 
 ### PNJ S.A.
 
@@ -390,34 +415,6 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 ## Pensando
 
 \concolumna
-
-### Geishas VS. ninjas
-
-Siempre nos movemos en la dualidad de samuráis VS. ninjas, pero nos olvidamos un importante ícono del Japón medieval, las geishas.
-
-Podemos jugar con varias opciones:
-
-* Gremios de geishas guardaespaldas que evitan que sus clientes sean asesinados por ninjas. Vas a aprender a tocar el shamisen y a arrear porrazos con él.
-* Una escuela de geishas rollo Hogwarts con geishas en vez de magos. La escuela tendría secretos y misterios, algunos yokais, profesoras chungas y siempre jugando con la posibilidad de que te expulsen. Además, habría una escuela de ninjas rivales con la que competirían.
-* Algún suplemento para llevar geishas en una ambientación ciberpunk. Con reglas para asistentes virtuales o IA geisha, kinomos con blindaje, protocolo empresarial, ...
-
-\saltocolumna
-
-### Pokedados
-
-Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
-
-Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución.
-
-Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
-
-La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
-
-Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al azar de la bola gigante de dados.
-
-Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
-
-Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
 
 ### Rockeros
 
