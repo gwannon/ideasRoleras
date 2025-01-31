@@ -169,6 +169,8 @@ Los encuentros para atrapar Pokedados se harían con el DJ sacando un dado al az
 
 Las tiradas de ataque y defensa se harían lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados.
 
+Los d20 se podrían usar como Pokedados legendarios y habría que meter en la bolsa 1 por cada 100 dados.
+
 Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
 
 ### Soy leyenda al revés
