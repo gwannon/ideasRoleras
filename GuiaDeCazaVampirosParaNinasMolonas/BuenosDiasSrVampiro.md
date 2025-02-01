@@ -43,12 +43,12 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballos, … cada una con sus movimientos y su valor. Veamos las más importantes que participan en esta campaña.
 
 * _Lord Ceballos:_ Lord Vampiro de la ciudad. La parte principal del plan vampírico.
-* _Alfonse:_ Vampire buscavidas. XXX
+* _Alfonse:_ Vampire buscavidas. Une vampire más al que cazar o une interesante «amienemigue» para tus cazadoras.
 * _Nieve:_ Lugarteniente vampira de Lord Ceballos. XXX
 * _Tito:_ Siervo protector de Lord Ceballos. XXX
 * _Eloise:_ Súcubo vampírico. XXX
-* _Covadonga «Cova»:_ XXX. XXX
-* _Néstor:_ XXX. XXX
+* _Covadonga «Cova»:_ Amiga, consejera y ex lugarteniente de Lord Ceballos. Con la mente anclada en 1920 e incapaz de asimilar el paso del tiempo.
+* _Néstor:_ Vampiro sirviente de Lord Ceballos. La maldad personalizada, el mal por el mal sin excusas.
 * _Catalina Faroes:_ Abogada antisistema. Aliada y soporte emocional de las cazadoras.
 * _Samuel:_ Psicólogo new age. XXX
 
@@ -219,25 +219,83 @@ Por lo que sea la muerte de Maricarmen ha podido ser un asesinato, pero no hay n
 
 #### La historia real
 
-XXX
+La familia de Ernesto y Maricarmen eran constructores que fueron acumulando pisos desde 1980 y que alquilaba a largo plazo.
 
 \sp
+
+Al morir dejo el negocio de los pisos a su hijo Ernesto y la fortuna familiar en un fideicomiso vitalicio a su hija Maricarmen que le permitiría vivir cómodamente. También puso un montón de reglas que permitían a Maricarmen vetar las decisiones de su hermano con los pisos.
+
+Mientras que Ernesto ascendía en política siendo concejal de urbanismo, su hermana se hizo profesora y donaba una parte importante del fideicomiso a ONG y organizaciones vecinales.
+
+Ernesto siempre se vio coartado en sus negocios por los vetos de su hermana. Y ahora que como concejal podía sacar tajada con sus pisos su hermana seguía siendo un problema.
+
+Entonces apareció el grupo Ceballos con una propuesta y su correspondiente soborno para derribar el campo de fútbol municipal y construir un casino en su lugar y construir un acceso desde la autopista y un parking en los humedales.
+
+Ernesto podía derribar el polideportivo sin problema. Era un peligro público con serios problemas estructurales, y luego vender esos terrenos. Pero lo de los humedales se quedaba fuera de sus competencias aunque daría su voto si compraban a los políticos adecuados.
+
+A cambio quería que se deshiciera de su hermana por ejemplo fingiendo un suicidio. De esa forma él se quedaría con todo el control de los pisos heredados de sus padres.
+
+XXX
+
+Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y ella aceptó y sin saberlo invito a su casa a su asesino, Néstor.
+
+XXX
 
 La policía investigó las conversaciones con Goloso22 y fueron a investigarle. Tenía coartada sólida (pero falsa) para la noche del suicidio.
 
 ### Buscando a Goloso22
 
-El único hilo del que tirar es Goloso 22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas. Pueden enseñar la foto por ahí o acercarse una cuenta en la web de citas, buscarle y XXX
+El único hilo del que tirar es Goloso 22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas.
+
+Pueden enseñar la foto por ahí o hacerse una cuenta en la web de citas, buscarle.
+
+Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo.
+
+Si siguieron al Cripi, ya les Sonora el lugar y las piezas empezarán a encajar.
+
+Alfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de el mismo en otra cuenta para encontrar sexo casual con succión de sangre.
+
+Si se hacen la cuenta en la web de citas y ponen un perfil como el de Maricarmen, no funcionará. Lo de Maricarmen fue un encargo, no entraba en sus gustos.
+
+Si tienen suerte y un buen plan como hacerse un perfil de alguien alternativo de cualquier orientación sexual y le dan un like puede que les conteste.
+
+\sp
+
+Alfonse es muy listo en estos ámbitos y no será fácil engañarle.  Pero al final, si accede, jugará en casa y quedará con las cazadoras en la «Jaula».
+
+Si son más listas que elle pueden tratar de sonsacarle información. Muchas cosas como su trabajo, sus horarios, sus gustos sexuales dirán que solo vive de noche, tiene cierto fetichismo por la sangre, y le gusta fingir que es une vampire que seduce a sus víctimes.
+
+> Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajería.
+
+\sp
+
+\sinc
+
+## Jailhouse Rock
+
+> Teníamos un nombre y un lugar, «Jaula», donde no podíamos entrar a buscar a un posible asesino con un fetichismo por los vampiros y la sangre. Planazo para el finde :)
+
+\conc
+
+Hay varias formas de conseguir llegar a localizar a Alfonse y la «Jaula».
+
+Si intentan la cita, debes dejarles claro que por mucho que quieran no pasan por mayores y aunque lo consiguieran por cosas de sus cazadoras, no le interesará a Alfonse nada con ellas, se reirá un poco de ellas y de si misme y las echará del bar. No es como Néstor y además los niños tienen poca sangre.
+
+Lo normal es que una vez sepan dónde encontrarle, busquen alternativas para colarse en la discoteca y tratar de averiguar más de la muerte de Su profesora.
+
+### Investigaciones previas
 
 XXX
 
 ### El primer encuentro con Alfonse
 
-Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria. Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
-
 XXX
 
-Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y ella aceptó y sin saberlo invito a su casa a su asesino, Néstor.
+Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria.
+
+ Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
+
+XXX
 
 \sp
 
@@ -352,18 +410,6 @@ Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas vec
 XXX
 
 ### La noche de los goblins
-
-XXX
-
-\sp
-
-\sinc
-
-## Jailhouse Rock
-
-> XXX
-
-\conc
 
 XXX
 
