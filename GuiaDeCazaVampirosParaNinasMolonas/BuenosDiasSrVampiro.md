@@ -149,7 +149,7 @@ Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que
 * Puedes buscar en casa de Maricarmen, la policía ha quitado el precinto y si consiguen una llave o se cuelan de alguna otra manera.
 * Por último queda su despacho en el colegio, el problema es que lo compartía con «El Mordor», uno de los peores profesores del colegio.
 
-Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz saltar la noticia de que los abogados de Ernesto Lujua han pedido a los padres de una de tus PJ que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
+Empezarán a haber rumores de que los abogados de Ernesto Lujua están mandando avisos de desahucio a varias personas del barrio. Si ves que no están muy por la labor de investigar qué paso a Maricarmen, haz saltar los padres de una de tus PJ recibirán una carta avisándoles de que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
 
 ### La morgue
 
@@ -165,7 +165,7 @@ Si intentan entrar, el portero no les dejará entrar. Es ilegal la entrada de me
 
 ###  El piso de Maricarmen
 
-El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra forma si desean entrar. 
+El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra forma si desean entrar. La amable anciana que era vecina de Maricarmen tiene una copia de las llaves, pero se la dio a la policía para entrar en la casa. Se lo contará encantado a las cazadoras si la llaman a la puerta y si le dejan hablar y le aguantan la chapa les dirá que dejaron las llaves en el buzón al irse para los familiares.
 
 El piso está bien amueblado y con muebles modernos de calidad, no de Ikea. Hay una cocina moderna, un salón con un sofá comodísimo, una habitación con una cama grandísima y una segunda habitación con material de pintura, madejas de lana y agujas y otros hobbies. 
 
@@ -175,43 +175,59 @@ Si revisan la cama hay manchas de sangre en las sabanas. Si revisan la cocina, e
 
 #### El portátil
 
-Si no han pasado ni un día desde que la policía retiro el precinto, podrán encontrar el portátil de Maricarmen, si tardan más se lo llevará el ayudante de Ernesto Lujua siguiendo sus órdenes.
+Si no han pasado ni un día desde que la policía retiro el precinto, podrán encontrar el portátil de Maricarmen, si tardan más se lo llevará el ayudante de Ernesto Lujua siguiendo sus órdenes y será destruido. Por suerte, hay más o menos lo mismo en el ordenador de su despacho en el colegio y no será formateado hasta que venga su sustituto en unas semanas.
 
 El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo. Si consiguen acceso pueden encontrar:
 
 * **Historial de navegación:** aparte de noticias, redes y compras online tiene un par de webs de citas y en una de ellas un match con un chico joven Goloso22. Han tonteado un poco y han quedado un par de noches a cenar y toar algo. Luego parece que se pasaron a WhatsApp.
 * **Carpeta documentos:** hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua». No parece que haya pagos de hipotecas o similares.
 
+\sp
+
 ### El despacho
 
-XXX
+Maricarmen compartía despacho con «El Mordor», el peor y más malvado profesor del colegio. No se parecían en nada y no debían llevarse muy bien.
 
-Han metido todas sus cosas en una caja de cartón esperando que vengan a buscarlo. No hay nada especial excepto una copia de sus llaves de casa.
+El despacho solo es accesible en horario escolar, así que tendrán que escaquearse de clase en una hora que «El Mordor» tenga clase también. En el recreo «El Mordor» se va al despacho con lo que no pueden hacerlo en ese momento. 
 
-\sp
+La cerradura es muy simple y se puede abrir con trucos sacados de YouTube (tirada mediocre +0). Lo óptimo es un grupo vigilando cada lado del pasillo del despacho y otro entrando al despacho.
+
+Han metido todas sus cosas en una caja de cartón esperando que vengan a buscarlo. No hay nada especial excepto una copia de sus llaves de casa, pero se puede sacar conclusiones.
+
+#### Pistas en el despacho
+
+* El ordenador de Maricarmen tiene clave, pero tiene un post-it con ella escrita en la pantalla. Pueden encontrar lo mismo que en el portátil de su casa.
+* No hay rastro de medicamentos que den a entender que tenía alguna enfermedad.
+* Las cosas de la caja no parecen baratas, no eran de «Todo a 1 euro».
 
 #### «El Mordor»
 
-«El Mordor» es el otro profesor de Ciencias Sociales. Es una horrible persona que odia a los niños y nunca debiera haberse metido en la docencia. Grita a todo el mundo y está todo el tiempo enfadado.
+«El Mordor» es el otro profesor de Ciencias Sociales. Es una horrible persona que odia a los niños y nunca debiera haberse metido en la docencia. Grita a todo el mundo y está todo el tiempo enfadado. No sabe nada especial de la muerte de Maricarmen, pero le molestaba la risa tonta que se le ponía con su nuevo noviete.
 
 * El profesor más temido del colegio 
 * **Bueno (+2) en:** Intimidar, Historia
 * **Malo (-2) en:** Vigilar, Encontrar cosas y personas
 * **Estrés:** Nada (cae al primer golpe)
 
-#### Pistas en el despacho
-
-* El ordenador de Maricarmen tiene clave, pero tiene un post-it con ella escrita en la pantalla. Pueden encontrar lo mismo que en el portátil de su casa.
-* No hay rastro de medicamentos que den a entender que tenía alguna enfermedad.
-* XXX
-
 ### Los secretos de Maricarmen
 
-Tus cazadoras ya deben haber empezado a juntar pistas y ver que Maricarmen no se suicidó, sino que un personaje llamado Goloso22 que conoció en internet tuvo que ver mucho con su muerte. Goloso22 es un jovencito que conoció en una web de citas con el que había quedado y hablaba por teléfono (tras unos cuantos mensajes por chat paso al teléfono).
+Tus cazadoras ya deben haber empezado a juntar pistas y ver que Maricarmen no se suicidó, sino que un personaje llamado Goloso22 que conoció en internet pudo tener que ver mucho con su muerte. Goloso22 es un jovencito que conoció en una web de citas con el que había quedado y hablaba por teléfono (tras unos cuantos mensajes por chat paso al teléfono). Parece por las manchas de sangre en las sabanas que había prácticas sexuales fuera de lo normal y que Goloso22 la tenía encantada.
 
-Parece por las manchas en las sabanas que había cositas
+Maricarmen debía tener pasta, además de su sueldo de maestra, parecía que recibía dinero de un fideicomiso familiar y mucho de ese dinero lo donaba a diferentes ONG. Su hermano el concejal maneja dinero y tiene varias empresas. Igual él usó el dinero de la familia para crear esas empresas, mientras que Maricarmen prefirió trabajar de profesora y donar el dinero de la familia que recibía.
 
-Debía tener pasta, además de su sueldo de maestra, parecía que recibía dinero de un fideicomiso familiar y mucho de ese dinero lo donaba a diferentes ONG. Su hermano el concejal maneja dinero y tiene varias empresas. Igual él usó el dinero de la familia para crear esas empresas, mientras que Maricarmen prefirió trabajar de profesora y donar el dinero de la familia que recibia.
+Por lo que sea la muerte de Maricarmen ha podido ser un asesinato, pero no hay nada concluyente, solo pruebas condicionales.
+
+#### La historia real
+
+XXX
+
+\sp
+
+La policía investigó las conversaciones con Goloso22 y fueron a investigarle. Tenía coartada sólida (pero falsa) para la noche del suicidio.
+
+### Buscando a Goloso22
+
+El único hilo del que tirar es Goloso 22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas. Pueden enseñar la foto por ahí o acercarse una cuenta en la web de citas, buscarle y XXX
 
 XXX
 
@@ -220,6 +236,8 @@ XXX
 Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria. Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
 
 XXX
+
+Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y ella aceptó y sin saberlo invito a su casa a su asesino, Néstor.
 
 \sp
 
