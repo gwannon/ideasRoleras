@@ -161,7 +161,7 @@ Un juego para dar salida a los kilos y kilos de dados que tenemos algunos.
 
 Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución.
 
-Por ejemplo, azul es tipo agua y azul marmoleado tipo agua y tierra y ese tipo de combinaciones. Un d8 sería un Pokedado más evolucionado que d6.
+Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo, el tamaño del dado da su tamaño en el juego y el tipo de dado su nivel de evolución.
 
 La ficha del Pokedado sería el propio dado, ya que marca su tipo y su nivel de poder.
 
