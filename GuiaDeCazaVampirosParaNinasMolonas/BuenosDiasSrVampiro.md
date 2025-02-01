@@ -153,19 +153,29 @@ Si ves que no están muy por la labor de investigar que paso a Maricarmen, haz s
 
 ### La morgue
 
-XXX
+El acceso a la morgue no es público y tiene bastante seguridad, con tarjeta de ID y esas cosas. 
 
 \sp
 
+Queda muy lejos de las habilidades de tus cazadoras, pero si vigilan un par de horas verán entrar al cripi con su tarjeta en una de las puertas de servicio.
+
+Pueden seguir al cripi cuando salga del curro y siempre va a un disco llamada «Jaula» que está en polígono en las afueras del barrio. Parece que lleva y trae bolsas varias como si hiciera los recados para alguien. El cripi está a lo suyo y no sospechará de un grupo de niñas a no ser que hagan algo muy estúpido.
+
+Si intentan entrar, el portero no les dejará entrar. Es ilegal la entrada de menores.
+
 ###  El piso de Maricarmen
 
-XXX
+El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra forma si desean entrar. 
 
-No hay medicamentos fuera de lo normal que hagan pensar que estaba enferma, pero igual había abandonado la medicación. Pero sí veis suplementos de hierro y vitaminas. Alguna cazadora puede que le recuerden que alguien las tomaba por la anemia.
+El piso está bien amueblado y con muebles modernos de calidad, no de Ikea. Hay una cocina moderna, un salón con un sofá comodísimo, una habitación con una cama grandísima y una segunda habitación con material de pintura, madejas de lana y agujas y otros hobbies. 
+
+No hay medicamentos fuera de lo normal que hagan pensar que estaba enferma, pero igual había abandonado la medicación. Pero sí veis suplementos de hierro y vitaminas. Alguna cazadora puede que le recuerden que alguien de su familia las tomaba por la anemia.
+
+Si revisan la cama hay manchas de sangre en las sabanas. Si revisan la cocina, encontrarán unas sabanas guardadas debajo del fregadero que iban a ser usadas como trapos. También tienen manchas de sangre. No grandes manchas, solo pequeñas manchas como si alguna herida pequeña las hubiera manchado. La cuestión es que están en un extremo de las sabanas, o sea es algo en los pies o la cabeza.
 
 #### El portátil
 
-Si no han pasado ni un día desde que la policía retiro el precito, podrán encontrar el portátil de Maricarmen, si tardan más se lo llevará el ayudante de Ernesto Lujua siguiendo sus órdenes.
+Si no han pasado ni un día desde que la policía retiro el precinto, podrán encontrar el portátil de Maricarmen, si tardan más se lo llevará el ayudante de Ernesto Lujua siguiendo sus órdenes.
 
 El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo. Si consiguen acceso pueden encontrar:
 
@@ -176,38 +186,40 @@ El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene 
 
 XXX
 
+Han metido todas sus cosas en una caja de cartón esperando que vengan a buscarlo. No hay nada especial excepto una copia de sus llaves de casa.
+
+\sp
 
 #### «El Mordor»
 
 «El Mordor» es el otro profesor de Ciencias Sociales. Es una horrible persona que odia a los niños y nunca debiera haberse metido en la docencia. Grita a todo el mundo y está todo el tiempo enfadado.
 
 * El profesor más temido del colegio 
-* **Bueno (+2) en:** Intimidar, Historia 
+* **Bueno (+2) en:** Intimidar, Historia
 * **Malo (-2) en:** Vigilar, Encontrar cosas y personas
 * **Estrés:** Nada (cae al primer golpe)
 
 #### Pistas en el despacho
 
 * El ordenador de Maricarmen tiene clave, pero tiene un post-it con ella escrita en la pantalla. Pueden encontrar lo mismo que en el portátil de su casa.
+* No hay rastro de medicamentos que den a entender que tenía alguna enfermedad.
 * XXX
 
 ### Los secretos de Maricarmen
 
-Tus cazadoras ya deben haber empezado a juntar pistas y ver que Maricarmen no se suicidó, sino que un personaje llamado Goloso22 que conoció en internet tuvo que ver mucho con su muerte.
+Tus cazadoras ya deben haber empezado a juntar pistas y ver que Maricarmen no se suicidó, sino que un personaje llamado Goloso22 que conoció en internet tuvo que ver mucho con su muerte. Goloso22 es un jovencito que conoció en una web de citas con el que había quedado y hablaba por teléfono (tras unos cuantos mensajes por chat paso al teléfono).
 
-Debía tener pasta, además de su sueldo de Parecía que recibía dinero de un fideicomiso familiar y mucho de ese dinero lo donaba a diferentes ONG. Su hermano el concejal maneja dinero y tiene varias empresas. Igual él usó el dinero de la familia para crear esas empresas, mientras que Maricarmen prefirió trabajar de profesora y donar el dinero de la familia.
+Parece por las manchas en las sabanas que había cositas
+
+Debía tener pasta, además de su sueldo de maestra, parecía que recibía dinero de un fideicomiso familiar y mucho de ese dinero lo donaba a diferentes ONG. Su hermano el concejal maneja dinero y tiene varias empresas. Igual él usó el dinero de la familia para crear esas empresas, mientras que Maricarmen prefirió trabajar de profesora y donar el dinero de la familia que recibia.
 
 XXX
-
-\sp
 
 ### El primer encuentro con Alfonse
 
 Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria. Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
 
 XXX
-
-\sc
 
 \sp
 
