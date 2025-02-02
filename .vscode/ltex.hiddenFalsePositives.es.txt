@@ -18,3 +18,5 @@
 {"rule":"EL_TILDE","sentence":"^\\QMister Poole, el ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPrint made by John Cleghorn, active 1840–1881, British, Plan of the Regent's Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.\\E$"}
 {"rule":"CONTRACCIONES","sentence":"^\\QAlfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de el mismo en otra cuenta para encontrar sexo casual con succión de sangre.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QDiscoteca de moda, Oscura y ruidosa\nAspectos ocultos:\\E$"}

@@ -151,11 +151,11 @@ Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que
 
 Empezarán a haber rumores de que los abogados de Ernesto Lujua están mandando avisos de desahucio a varias personas del barrio. Si ves que no están muy por la labor de investigar qué paso a Maricarmen, haz saltar los padres de una de tus PJ recibirán una carta avisándoles de que abandonen su casa en 3 meses. ¿Tienen algo que ver la muerte de Maricarmen con este desahucio?
 
+\sp
+
 ### La morgue
 
 El acceso a la morgue no es público y tiene bastante seguridad, con tarjeta de ID y esas cosas. 
-
-\sp
 
 Queda muy lejos de las habilidades de tus cazadoras, pero si vigilan un par de horas verán entrar al cripi con su tarjeta en una de las puertas de servicio.
 
@@ -180,9 +180,10 @@ Si no han pasado ni un día desde que la policía retiro el precinto, podrán en
 El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo. Si consiguen acceso pueden encontrar:
 
 * **Historial de navegación:** aparte de noticias, redes y compras online tiene un par de webs de citas y en una de ellas un match con un chico joven Goloso22. Han tonteado un poco y han quedado un par de noches a cenar y toar algo. Luego parece que se pasaron a WhatsApp.
-* **Carpeta documentos:** hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua». No parece que haya pagos de hipotecas o similares.
 
 \sp
+
+* **Carpeta documentos:** hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua». No parece que haya pagos de hipotecas o similares.
 
 ### El despacho
 
@@ -202,12 +203,22 @@ Han metido todas sus cosas en una caja de cartón esperando que vengan a buscarl
 
 #### «El Mordor»
 
-«El Mordor» es el otro profesor de Ciencias Sociales. Es una horrible persona que odia a los niños y nunca debiera haberse metido en la docencia. Grita a todo el mundo y está todo el tiempo enfadado. No sabe nada especial de la muerte de Maricarmen, pero le molestaba la risa tonta que se le ponía con su nuevo noviete.
+«El Mordor» es el otro profesor de Ciencias Sociales. Es una horrible persona que odia a los niños y nunca debiera haberse metido en la docencia.
+
+[![Hosts of Angband By SpartanK42](./assests/images/hosts_of_angband_by_spartank42_db68ozw-fullview.jpg "Hosts of Angband By SpartanK42")](https://www.deviantart.com/spartank42/art/Hosts-of-Angband-675611276 "Hosts of Angband By SpartanK42")
+
+Grita a todo el mundo y está todo el tiempo enfadado. No sabe nada especial de la muerte de Maricarmen, pero le molestaba la risa tonta que se le ponía con su nuevo noviete.
 
 * El profesor más temido del colegio 
 * **Bueno (+2) en:** Intimidar, Historia
 * **Malo (-2) en:** Vigilar, Encontrar cosas y personas
 * **Estrés:** Nada (cae al primer golpe)
+
+### Familia Lujua
+
+Si se ponen a investigar a la familia Lujua, solo podrán sacar lo de que son propietarios de pisos (por ello los avisos de desahucio). Parece que Ernesto se dedica a la política y que su hermana no tenía ningún interés en el negocio de la familia, pero desde luego su muerte ha dejado vía libre a su hermano en la dirección que toma la empresa de alquileres de piso.
+
+ \sp
 
 ### Los secretos de Maricarmen
 
@@ -221,8 +232,6 @@ Por lo que sea la muerte de Maricarmen ha podido ser un asesinato, pero no hay n
 
 La familia de Ernesto y Maricarmen eran constructores que fueron acumulando pisos desde 1980 y que alquilaba a largo plazo.
 
-\sp
-
 Al morir dejo el negocio de los pisos a su hijo Ernesto y la fortuna familiar en un fideicomiso vitalicio a su hija Maricarmen que le permitiría vivir cómodamente. También puso un montón de reglas que permitían a Maricarmen vetar las decisiones de su hermano con los pisos.
 
 Mientras que Ernesto ascendía en política siendo concejal de urbanismo, su hermana se hizo profesora y donaba una parte importante del fideicomiso a ONG y organizaciones vecinales.
@@ -235,13 +244,17 @@ Ernesto podía derribar el polideportivo sin problema. Era un peligro público c
 
 A cambio quería que se deshiciera de su hermana por ejemplo fingiendo un suicidio. De esa forma él se quedaría con todo el control de los pisos heredados de sus padres.
 
-XXX
+Así que Alfonse fue encargado de seducirla con sus encantos vampíricos. La encontró de casualidad en la web de citas y en un par de contactos quedo con ella en su discoteca y consiguió que la invitara a su casa. En pocas semanas la tenía enganchada a elle y a sus prácticas sexo-vampíricas que la estaban dejando anémica.
 
-Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y ella aceptó y sin saberlo invito a su casa a su asesino, Néstor.
+\sp
 
-XXX
+[![In love with a Vampire By cylonka](./assests/images/in_love_with_a_vampire_by_cylonka_d4s1bzk-375w-2x.jpg "In love with a Vampire By cylonka")](https://www.deviantart.com/cylonka/art/In-love-with-a-Vampire-288956144 "In love with a Vampire By cylonka")
 
-La policía investigó las conversaciones con Goloso22 y fueron a investigarle. Tenía coartada sólida (pero falsa) para la noche del suicidio.
+Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y ella aceptó y sin saberlo invito a su casa a su asesino, Néstor. Este la dejo medio atontada por la perdida de sangre de 2 vampiros chupándole sangre, le hizo tragar las pastillas, puso una nota de suicidio falsa, la metió en la bañera y le corto las venas, mientras Alfonse miraba horrorizado.
+
+Cuando se describió el cadáver, al de 48 horas, se declaró un suicidio. Su hermano tenía una coartada para esos días y Alfonse también. La policía investigó las conversaciones con Goloso22 y fueron a investigarle. Tenía coartada sólida (pero falsa) para la noche del suicidio y además les dijo que habían cortado la noche anterior, eran muy diferentes, ella era mayor y no iba a funcionar.
+
+El cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pudiera descubrir la forense encargada y polis corruptos al servicio de Néstor hicieron lo suyo con las pruebas policiales. Con lo que al final se confirmó el suicidio.
 
 ### Buscando a Goloso22
 
@@ -263,9 +276,9 @@ Si tienen suerte y un buen plan como hacerse un perfil de alguien alternativo de
 
 Alfonse es muy listo en estos ámbitos y no será fácil engañarle.  Pero al final, si accede, jugará en casa y quedará con las cazadoras en la «Jaula».
 
-Si son más listas que elle pueden tratar de sonsacarle información. Muchas cosas como su trabajo, sus horarios, sus gustos sexuales dirán que solo vive de noche, tiene cierto fetichismo por la sangre, y le gusta fingir que es une vampire que seduce a sus víctimes.
+Si son más listas que elle pueden tratar de sonsacarle información. Muchas cosas como su trabajo, sus horarios, sus gustos sexuales dirán que solo vive de noche, tiene cierto fetichismo por la sangre, y le gusta fingir que es une vampire que seduce a sus víctimas.
 
-> Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajería.
+> Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajería durante la semana entre sesión y sesión de juego. El DJ puede hacer tiradas y poniendo el resultado en el chat.
 
 \sp
 
@@ -279,7 +292,7 @@ Si son más listas que elle pueden tratar de sonsacarle información. Muchas cos
 
 Hay varias formas de conseguir llegar a localizar a Alfonse y la «Jaula».
 
-Si intentan la cita, debes dejarles claro que por mucho que quieran no pasan por mayores y aunque lo consiguieran por cosas de sus cazadoras, no le interesará a Alfonse nada con ellas, se reirá un poco de ellas y de si misme y las echará del bar. No es como Néstor y además los niños tienen poca sangre.
+Si intentan la cita, debes dejarles claro que por mucho que quieran no pasan por mayores y aunque lo consiguieran por cosas de sus cazadoras, no le interesará a Alfonse nada con ellas, se reirá un poco de ellas y de sí misme y las echará del bar. No es como Néstor y además los niños tienen poca sangre.
 
 Lo normal es que una vez sepan dónde encontrarle, busquen alternativas para colarse en la discoteca y tratar de averiguar más de la muerte de Su profesora.
 

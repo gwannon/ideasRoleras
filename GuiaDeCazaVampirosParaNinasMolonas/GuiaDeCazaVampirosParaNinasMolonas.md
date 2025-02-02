@@ -159,6 +159,8 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * GRAFFITI - DENVER, COLORADO 08 por [Trip & Queball with PUNKassPHOTOS](https://www.flickr.com/photos/punkassphotos/3351954588/) Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Cinderella running by [Elizabeth](https://www.flickr.com/photos/37217398@N02/3737850192) Creative Commons Attribution-NonCommercial 2.0 Generic License
 * Hexerei, Clan Ventrue By [IvanValladares](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Hosts of Angband By [SpartanK42](https://www.deviantart.com/spartank42/art/Hosts-of-Angband-675611276) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* In love with a Vampire By [cylonka](https://www.deviantart.com/cylonka/art/In-love-with-a-Vampire-288956144) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 
 \sp
 
