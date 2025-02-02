@@ -44,13 +44,19 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 
 * _Lord Ceballos:_ Lord Vampiro de la ciudad. La parte principal del plan vampírico.
 * _Alfonse:_ Vampire buscavidas. Une vampire más al que cazar o une interesante «amienemigue» para tus cazadoras.
-* _Nieve:_ Lugarteniente vampira de Lord Ceballos. XXX
-* _Tito:_ Siervo protector de Lord Ceballos. XXX
-* _Eloise:_ Súcubo vampírico. XXX
+* _Nieve:_ Lugarteniente vampira de Lord Ceballos. Se encarga en hacer realidad y poner en práctica los planes de Lord Ceballos. Es su CTO si hablamos empresarialmente.
+* _Tito:_ Siervo protector de Lord Ceballos. Leal hasta la muerte. Mejor no encontrárselo, porque es duro de narices.
+* _Eloise:_ Súcubo vampírico. Eloise es la herramienta perfecta para conseguir lo que necesitas cuando la fuerza y la intimación no funcionan.
 * _Covadonga «Cova»:_ Amiga, consejera y ex lugarteniente de Lord Ceballos. Con la mente anclada en 1920 e incapaz de asimilar el paso del tiempo.
 * _Néstor:_ Vampiro sirviente de Lord Ceballos. La maldad personalizada, el mal por el mal sin excusas.
 * _Catalina Faroes:_ Abogada antisistema. Aliada y soporte emocional de las cazadoras.
-* _Samuel:_ Psicólogo new age. XXX
+
+### Secundarios
+
+El barrio está poblado de personajes secundarios que tienen sus vidas y sus historias y que pueden ayudarte o entorpecerte en tu lucha contra los vampiros.
+
+* _Samuel:_ Psicólogo new age. Plasta pero bienintencionado.
+* _«El Mordor»:_ El peor profesor de la historia y la prehistoria.
 
 \conc
 
@@ -274,7 +280,7 @@ Si tienen suerte y un buen plan como hacerse un perfil de alguien alternativo de
 
 \sp
 
-Alfonse es muy listo en estos ámbitos y no será fácil engañarle.  Pero al final, si accede, jugará en casa y quedará con las cazadoras en la «Jaula».
+Alfonse es muy listo en estos ámbitos y no será fácil engañarle. Pero al final, si accede, jugará en casa y quedará con las cazadoras en la «Jaula».
 
 Si son más listas que elle pueden tratar de sonsacarle información. Muchas cosas como su trabajo, sus horarios, sus gustos sexuales dirán que solo vive de noche, tiene cierto fetichismo por la sangre, y le gusta fingir que es une vampire que seduce a sus víctimas.
 
@@ -290,13 +296,17 @@ Si son más listas que elle pueden tratar de sonsacarle información. Muchas cos
 
 \conc
 
-Hay varias formas de conseguir llegar a localizar a Alfonse y la «Jaula».
+Hay varias formas de conseguir llegar a localizar a Alfonse en la «Jaula».
 
 Si intentan la cita, debes dejarles claro que por mucho que quieran no pasan por mayores y aunque lo consiguieran por cosas de sus cazadoras, no le interesará a Alfonse nada con ellas, se reirá un poco de ellas y de sí misme y las echará del bar. No es como Néstor y además los niños tienen poca sangre.
 
-Lo normal es que una vez sepan dónde encontrarle, busquen alternativas para colarse en la discoteca y tratar de averiguar más de la muerte de Su profesora.
+Lo normal es que una vez sepan dónde encontrarle, busquen alternativas para colarse en la discoteca y tratar de averiguar más de la muerte de su profesora.
 
 ### Investigaciones previas
+
+XXX
+
+### Entrando «Jaula»
 
 XXX
 
@@ -304,9 +314,11 @@ XXX
 
 XXX
 
-Todas las pistas apuntan a Alfonse así que una visita a su guarida es bastante necesaria.
+### Escapando de «Jaula»
 
- Además, es la forma de poder comprobar la loca teoría de que hay una conspiración vampírica para acabar con vuestro barrio.
+XXX
+
+### Algo muy chungo ocurre en el barrio
 
 XXX
 
@@ -316,31 +328,33 @@ XXX
 
 ## In the Ghetto
 
-> En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a una nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
-
-\conc
-
-XXX
-
-\sp
-
-\sinc
-
-## Always on My Mind
-
 > XXX
 
 \conc
 
 XXX
 
+### Preparándose de la acción
+
+XXX
+
+### La primera caza
+
+XXX
+
+### ¿Qué hacemos con Alfonse?
+
+En este punto de la aventura deberán tomar una decisión importante, matar a Alfonse o aliarse con él. Alfonse está su merced, derrotado en el suelo de la pista de baile VIP, posiblemente con quemaduras de agua de ajo y cortes de cuchillos de plata de la abuela. Está tratando de salvar su vida como solo sabe hacer, negociando y adulando, haciendo tratos que puede que no cumpla, … No es de fiar, pero sabe mucho de este mundo desconocido para tus cazadoras.
+
+XXX
+ 
 \sp
 
 \sinc
 
-## Can’t Help Falling in Love
+## Always on My Mind
 
-> La _rave_ iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
+> En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a una nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
 
 \conc
 
@@ -394,15 +408,13 @@ XXX
 
 \sinc
 
-## You’re the Devil in Disguise
+## Can’t Help Falling in Love
 
-> XXX
+> La _rave_ iba a ser el sitio perfecto para caza a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
 
 \conc
 
 XXX
-
-\sc
 
 \sp
 
@@ -423,6 +435,24 @@ Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas vec
 XXX
 
 ### La noche de los goblins
+
+XXX
+
+### La caída del Grupo Ceballos
+
+XXX
+
+\sc
+
+\sp
+
+\sinc
+
+## You’re the Devil in Disguise
+
+> El asalto final era inminente, iba a ser el capullo vampírico del reino o nosotras. Habíamos ido acabando poco a poco con sus planes, pero si Lord Ceballos seguía vivo con el tiempo volvería montar un nuevo plan y joder nuestro barrio o el de otros. Pero igual que nosotros Lord Ceballos había reunido a todos sus aliados, así que no sería nada facil.
+
+\conc
 
 XXX
 
