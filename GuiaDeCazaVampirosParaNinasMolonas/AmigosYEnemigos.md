@@ -131,8 +131,8 @@ XXX
 
 * **Aspectos**
   * **Concepto principal:** Siervo protector de Lord Ceballos
-  * **Complicación:** XXX
-  * XXX
+  * **Complicación:** Sobreprotector
+  * Experto en MMA
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
@@ -163,7 +163,7 @@ XXX
 * **Aspectos**
   * **Concepto principal:** Súcubo vampiro
   * **Complicación:** Lujuria
-  * XXX
+  * Mirada hipnótica
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
@@ -196,14 +196,14 @@ Covadonga, a diferencia de sus compañeros vampiros, se quedó estancada en los 
 
 Fue creada también por Lord Guzmán y por eso Ceballos la considera una especie de hermana de sangre. Ese sentimiento fraternal, junto a la ayuda que le presto cuando eran jóvenes, hacen que Lord Ceballos la haya mantenido a su lado, a pesar de que con sus problemas para adaptarse a los tiempos suponga más una debilidad que una ventaja.   
 
-Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos. Mientras que sus compañeros más jóvenes propondrían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros. 
+Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos. Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros. 
 
 XXX
 
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** Anclada en 1920
-  * XXX
+  * Pensamiento fuera de la caja
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
@@ -231,8 +231,8 @@ XXX
 
 * **Aspectos**
   * **Concepto principal:** XXX
-  * **Complicación:** XXX
-  * XXX
+  * **Complicación:** Pederasta
+  * Ningún tipo de escrúpulos
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 

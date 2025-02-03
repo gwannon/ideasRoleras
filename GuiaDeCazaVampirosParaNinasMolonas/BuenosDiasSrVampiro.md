@@ -264,13 +264,9 @@ El cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pu
 
 ### Buscando a Goloso22
 
-El único hilo del que tirar es Goloso 22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas.
+El único hilo del que tirar es Goloso22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas. Así que pueden enseñar la foto por ahí o hacerse una cuenta en la web de citas.
 
-Pueden enseñar la foto por ahí o hacerse una cuenta en la web de citas, buscarle.
-
-Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo.
-
-Si siguieron al Cripi, ya les Sonora el lugar y las piezas empezarán a encajar.
+Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo. Si siguieron al Cripi, ya les sonora el lugar y las piezas empezarán a encajar.
 
 Alfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de el mismo en otra cuenta para encontrar sexo casual con succión de sangre.
 
@@ -304,11 +300,33 @@ Lo normal es que una vez sepan dónde encontrarle, busquen alternativas para col
 
 ### Investigaciones previas
 
-XXX
+En un vistazo rápido a la web de «Jaula» sabrán las cosas normales que viene en su página web. Si se ponen a ver sus redes incluso pueden confirmar que Alfonse aparece en el fondo de alguna foto de las fiestas.
 
-### Entrando «Jaula»
+Un vistazo rápido y verán las dos entradas, la principal y la trasera. La principal está siempre vigilada por un par de porteros. 
 
-XXX
+La otra opción es la puerta trasera, que tiene una cerradura con código y una cámara de vigilancia.
+
+De día el sitio está vacío excepto por la seguridad que vigila el exterior del edificio, Alfonse duerme en su guarida y puede que algún empleado aparezca a recoger pedidos de bebida o similar. Con mucha probabilidad el Cripi entré en el edificio para hacer algún recado a su señor.
+
+### Entrando en «Jaula»
+
+#### Puerta principal
+
+Esquivar a los porteros es muy complicado a no ser que consigan distraerlos con un buen espectáculo delante. Si van con carnets falsos no colará, se ve de sobra que son menores. Un buen soborno tampoco funcionará se juegan el curro por una miseria.
+
+#### Puerta trasera
+
+Quizás puedan poner su propia cámara oculta o desde lejos escondidas para tratar de ver el código. Igual algún truco como mirar los números más desgastados les funcione también. El problema es la cámara que vigila puerta. Si pasan más de un par de minutos alguien aparecerá a decirles que se vayan de allí.
+
+\sp
+
+#### Conductos de ventilación 
+
+Si las puertas fallan solo hay una opción, los conductos de ventilación. Son pequeños para un adulto, pero podrán colarse y moverse por ellos sin ser vistas porque el ruido de la música amortiguará sus golpes.
+
+Deben subir al techo por una escalera de emergencia y abrir la salida del conducto de ventilación. Sin herramientas será imposible abrir el conducto.
+
+Orientarse en los conductos exige una tirada Grande (+3) o aparecerán en un sitio al azar de la disco menos en la habitación secreta de Alfonse.
 
 ### El primer encuentro con Alfonse
 
