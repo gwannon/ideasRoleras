@@ -302,7 +302,7 @@ Lo normal es que una vez sepan dónde encontrarle, busquen alternativas para col
 
 En un vistazo rápido a la web de «Jaula» sabrán las cosas normales que viene en su página web. Si se ponen a ver sus redes incluso pueden confirmar que Alfonse aparece en el fondo de alguna foto de las fiestas.
 
-Un vistazo rápido y verán las dos entradas, la principal y la trasera. La principal está siempre vigilada por un par de porteros. 
+Un vistazo rápido y verán las dos entradas, la principal y la trasera. La principal está siempre vigilada por un par de porteros.
 
 La otra opción es la puerta trasera, que tiene una cerradura con código y una cámara de vigilancia.
 
@@ -320,7 +320,7 @@ Quizás puedan poner su propia cámara oculta o desde lejos escondidas para trat
 
 \sp
 
-#### Conductos de ventilación 
+#### Conductos de ventilación
 
 Si las puertas fallan solo hay una opción, los conductos de ventilación. Son pequeños para un adulto, pero podrán colarse y moverse por ellos sin ser vistas porque el ruido de la música amortiguará sus golpes.
 
@@ -328,7 +328,15 @@ Deben subir al techo por una escalera de emergencia y abrir la salida del conduc
 
 Orientarse en los conductos exige una tirada Grande (+3) o aparecerán en un sitio al azar de la disco menos en la habitación secreta de Alfonse.
 
+### Dentro de la disco
+
+Una vez dentro de la disco podrán moverse sin problemas. Si está cerrada porque no hay nadie, aunque deberán esconderse cuando entre algún empleado, un portero o el Cripi.
+
+Mientras está abierta, podrán moverse por la planta baja sin problemas, a nadie le importará que unas niñas estén por ahí. En la planta VIP y en el bar y su almacén deberán ir con cuidado y estar escondidas.
+
 ### El primer encuentro con Alfonse
+
+De noche pueden encontrar a Alfonse en cualquier parte de la disco, desde alimentándose de alguna víctima en una zona reservada de la planta VIP, hasta metiendo cajas de bebida en el bar sin camisetas enseñando tableta.
 
 XXX
 
