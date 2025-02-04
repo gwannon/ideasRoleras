@@ -344,9 +344,23 @@ XXX
 
 XXX
 
+#### Y si todo falla
+
+Si no consiguen escapar, no está todo perdido. Alfonse puede proponerles el mismo trato que les propondrá en el siguiente capítulo de la aventura. Pero en vez de hacerlo suplicando por si no-vida, serán ellas las que estén sujetas con cinta aislante a unas sillas sin ninguna capacidad de negociación.
+
+Deshacerse de unas niñas sin dejar rastro es muy complicado y las comunidades enseguida sacan horcas y antorchas en estas situaciones. Es mejor tener un aliado que aunque no es muy poderoso si pasa desapercibido y que es un señuelo perfecto para atraer a Néstor, su vampiro superior y pederasta, a una trampa.
+
 ### Algo muy chungo ocurre en el barrio
 
-XXX
+Una vez hayan conseguido escapar y este en un lugar seguro deberían hablar de que ha pasado y que van a hacer.
+
+A priori, deberían tener claro que los vampiros existen y parece que hay muchos. También parece que tienen planes para el barrio. No se dedican a cazar y a disfrutar de la eternidad. Comenten asesinatos, sobornan a políticos, compran terrenos, venden droga.
+
+La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria ellos pueden hacer lo que quieran allí.
+
+\sp
+
+Puedes aprovechar está huida de la disco para que encuentren su base de operaciones. Igual se han parado a descansar de su fuga en un almacén abandonado del tren o en un trastero de un garaje de un piso propiedad del banco. Cuando terminen de hablar puedes contarles las ventajas del lugar y lo conviertan en su guarida secreta o dejarles y que empiecen ellos solos a quedar aquí para futuras reuniones.
 
 \sp
 
