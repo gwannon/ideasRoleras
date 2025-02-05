@@ -125,11 +125,15 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 «Jaula» es una discoteca techno situada en un polígono industrial del barrio. Es _-oscura y llena de __zonas reservadas__ fuera de la vista de todos, mientras que la pista es ruidosa, llena de gente bailando frenéticamente y con luces estroboscópicas. 
 
+Las __fiestas de la espuma__ que ocurre en la pista de baile de la planta baja son famosas y fueron una idea de Alfonse como sistema antiincendios y una forma de mojar a todos y a todo el mundo y que sea difícil provocar un incendio. En la segunda planta hay unos __aspersores antiincendios__ para proteger su guarida del fuego.
+
 Todo el polígono se llena los fines de semana de coches con los capós abiertos con su propia música y su propio alcohol para entonarse antes de entrar en «Jaula». Las peleas son normales, pero la seguridad de la discoteca las corta rápido cuando las detecta en sus rondas.
 
 Tiene unas escaleras que dan acceso a una segunda planta con una __zona VIP__, con otra mini pista de baile y un puesto de DJ para sesiones privadas. La pista está rodeada de sofás donde se sientan los invitados VIP mientras toman cócteles que traen del bar del piso interior. 
 
 __Alfonse tiene su guarida__ en una sala anexa, totalmente __insonorizada y aislada__ del exterior. Allí tiene un vestidor y un baño completo donde se prepara todas las noches.
+
+\sp
 
 Las únicas entradas son la puerta principal y otra por detrás que da al almacén del bar. Hay puertas de emergencia pero están alarmadas. La puerta principal tiene a dos gorilas, pero la del almacén no se vigila, pero tiene una cerradura con código y una cámara de vigilancia.
 

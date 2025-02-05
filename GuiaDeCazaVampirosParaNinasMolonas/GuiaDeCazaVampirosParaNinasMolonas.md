@@ -161,6 +161,8 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Hexerei, Clan Ventrue By [IvanValladares](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Hosts of Angband By [SpartanK42](https://www.deviantart.com/spartank42/art/Hosts-of-Angband-675611276) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * In love with a Vampire By [cylonka](https://www.deviantart.com/cylonka/art/In-love-with-a-Vampire-288956144) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* High angle dj woman at control panel by [Freepik](https://www.freepik.com/free-photo/high-angle-dj-woman-control-panel_5854775.htm)
+* Front view young female dj entertaining crowd by [Freepik](https://www.freepik.com/free-photo/front-view-young-female-dj-entertaining-crowd_5854739.htm)
 
 \sp
 

@@ -266,7 +266,7 @@ El cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pu
 
 El único hilo del que tirar es Goloso22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas. Así que pueden enseñar la foto por ahí o hacerse una cuenta en la web de citas.
 
-Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo. Si siguieron al Cripi, ya les sonora el lugar y las piezas empezarán a encajar.
+Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo. Si siguieron al Cripi, ya les sonará el lugar y las piezas empezarán a encajar.
 
 Alfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de el mismo en otra cuenta para encontrar sexo casual con succión de sangre.
 
@@ -274,15 +274,18 @@ Si se hacen la cuenta en la web de citas y ponen un perfil como el de Maricarmen
 
 Si tienen suerte y un buen plan como hacerse un perfil de alguien alternativo de cualquier orientación sexual y le dan un like puede que les conteste.
 
-\sp
 
 Alfonse es muy listo en estos ámbitos y no será fácil engañarle. Pero al final, si accede, jugará en casa y quedará con las cazadoras en la «Jaula».
 
-Si son más listas que elle pueden tratar de sonsacarle información. Muchas cosas como su trabajo, sus horarios, sus gustos sexuales dirán que solo vive de noche, tiene cierto fetichismo por la sangre, y le gusta fingir que es une vampire que seduce a sus víctimas.
-
-> Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajería durante la semana entre sesión y sesión de juego. El DJ puede hacer tiradas y poniendo el resultado en el chat.
-
 \sp
+
+Si son más listas que elle pueden tratar de sonsacarle información. Muchas cosas como su trabajo, sus horarios, sus gustos sexuales dirán que solo vive de noche, tiene cierto fetichismo por la sangre, y le gusta fingir que es une vampire que seduce a sus víctimas. 
+
+Pero por mucho que lo intenten, no dirá nada que pudiera dar a entender que es un vampire o que les vampires existen. Se puede dejar llevar por el jugueteo y el sexting, pero no es tonte. 
+
+```
+Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajería durante la semana entre sesión y sesión de juego. El DJ puede hacer tiradas y poniendo el resultado en el chat.
+```
 
 \sinc
 
@@ -306,7 +309,11 @@ Un vistazo rápido y verán las dos entradas, la principal y la trasera. La prin
 
 La otra opción es la puerta trasera, que tiene una cerradura con código y una cámara de vigilancia.
 
+\sp
+
 De día el sitio está vacío excepto por la seguridad que vigila el exterior del edificio, Alfonse duerme en su guarida y puede que algún empleado aparezca a recoger pedidos de bebida o similar. Con mucha probabilidad el Cripi entré en el edificio para hacer algún recado a su señor.
+
+[![Front view young female dj entertaining crowd by Freepik](./assests/images/front-view-young-female-dj-entertaining-crowd.jpg "Front view young female dj entertaining crowd by Freepik")](https://www.freepik.com/free-photo/front-view-young-female-dj-entertaining-crowd_5854739.htm "Front view young female dj entertaining crowd by Freepik")
 
 ### Entrando en «Jaula»
 
@@ -316,9 +323,9 @@ Esquivar a los porteros es muy complicado a no ser que consigan distraerlos con 
 
 #### Puerta trasera
 
-Quizás puedan poner su propia cámara oculta o desde lejos escondidas para tratar de ver el código. Igual algún truco como mirar los números más desgastados les funcione también. El problema es la cámara que vigila puerta. Si pasan más de un par de minutos alguien aparecerá a decirles que se vayan de allí.
+Quizás puedan poner su propia cámara oculta o desde lejos escondidas para tratar de ver el código. Igual algún truco como mirar los números más desgastados les funcione también.
 
-\sp
+El problema es la cámara que vigila puerta. Si pasan más de un par de minutos alguien aparecerá a decirles que se vayan de allí.
 
 #### Conductos de ventilación
 
@@ -334,15 +341,38 @@ Una vez dentro de la disco podrán moverse sin problemas. Si está cerrada porqu
 
 Mientras está abierta, podrán moverse por la planta baja sin problemas, a nadie le importará que unas niñas estén por ahí. En la planta VIP y en el bar y su almacén deberán ir con cuidado y estar escondidas.
 
+
 ### El primer encuentro con Alfonse
 
 De noche pueden encontrar a Alfonse en cualquier parte de la disco, desde alimentándose de alguna víctima en una zona reservada de la planta VIP, hasta metiendo cajas de bebida en el bar sin camisetas enseñando tableta.
+
+\sp
 
 XXX
 
 ### Escapando de «Jaula»
 
-XXX
+En esta escena lo importante es la rapidez, no les dejes discutir que hacer. Dales segundos para que te digan cuál es su plan y si cada una toma una decisión distinta mucho mejor, el caos es divertido. En ese momento sus únicas vías de escape son.
+
+**Correr como posesas** hasta llegar a la pista de baile y atravesarla para llegar a la salida. Tendrán además que esquivar a los porteros y darles esquinazo porque Alfonse dará la orden de detenerlas si las ven.
+
+Puedes hacer más divertida la escena y cuando empiecen a correr oigan al DJ gritar: ¡Fiesta de la espuma!
+
+Podrán esconderse en ella, pero también sus perseguidores y con el tumulto alguna cazadora puede perderse. Puede ser una divertida escena de jugar al escondite. Recuerda que la espuma llega a la altura del pecho a un adulto y oculta completamente a las cazadoras.
+
+Si quieren montar una distracción rápida, tienen segundos para llevarla a cabo, por ejemplo tirando petardos. Si lo consiguen ya no estarán en la misma zona de la discoteca que Alfonse y según a donde se muevan incluso no las vea.
+
+Otra opción puede ser **lanzarse contra Alfonse** e intentar acabar con él. Tus cazadoras no están preparadas para luchar contra vampiros así que es casi imposible hacerle daño.
+
+[![High angle dj woman at control panel by Freepik](./assests/images/high-angle-dj-woman-control-panel.jpg "High angle dj woman at control panel by Freepik")](https://www.freepik.com/free-photo/high-angle-dj-woman-control-panel_5854775.htm "High angle dj woman at control panel by Freepik")
+
+Que no puedan hacerle daño no quiere decir que no puedan derribarlo e intenten inmovilizarlo. Alfonse no quiere enseñar sus cartas, pero si es sobrepasado empezará a flotar y atacar haciendo pasadas con lo que será muy difícil golpearlo.
+
+Pueden hacer fuego, pero no será una gran llama a no ser que tengan combustible como gasolina o alcohol. Además, el sistema de aspersores se pondrá a funcionar al instante y apagar toda llama que haya.
+
+Al final, seguramente tengan que huir corriendo, pero ahora cansadas y seguramente con garrazos de Alfonse.
+
+\sp
 
 #### Y si todo falla
 
@@ -358,9 +388,15 @@ A priori, deberían tener claro que los vampiros existen y parece que hay muchos
 
 La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria ellos pueden hacer lo que quieran allí.
 
-\sp
+#### Se empieza a forjar una amistad
+
+Tras esta gran primera aventura es hora de que tus jugadoras se conviertan en un grupo de cazadoras de vampiros.
 
 Puedes aprovechar está huida de la disco para que encuentren su base de operaciones. Igual se han parado a descansar de su fuga en un almacén abandonado del tren o en un trastero de un garaje de un piso propiedad del banco. Cuando terminen de hablar puedes contarles las ventajas del lugar y lo conviertan en su guarida secreta o dejarles y que empiecen ellos solos a quedar aquí para futuras reuniones.
+
+También es un buen momento para que se prometan cosas entre ellas, como «O escapamos todas o no escapa ninguna». Estos votos deberían ser la base de las futuras normas de la panda de cazavampiros.
+
+Por último, puede que alguna haya destacado en alguna tarea durante esta primera aventura. Aprovecha a convertir esto en un puesto dentro del grupo.
 
 \sp
 
