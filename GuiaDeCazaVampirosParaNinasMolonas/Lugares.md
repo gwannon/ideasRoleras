@@ -139,4 +139,15 @@ Las únicas entradas son la puerta principal y otra por detrás que da al almac�
 
 «Jaula» está abierta todos los días y hay seguridad las 24 horas, aunque para clientes solo está de las 20:00 a las 6:00 de la mañana.
 
+\sinc
+
+### Mazmorra de Néstor
+
+* **Aspectos visibles:** XXX, XXX
+* **Aspectos ocultos:** XXX, XXX
+
+\conc
+
+XXX
+
 \sp
