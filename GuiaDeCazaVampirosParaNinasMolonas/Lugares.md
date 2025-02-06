@@ -143,8 +143,8 @@ Las únicas entradas son la puerta principal y otra por detrás que da al almac�
 
 ### Mazmorra de Néstor
 
-* **Aspectos visibles:** XXX, XXX
-* **Aspectos ocultos:** XXX, XXX
+* **Aspectos visibles:** Oscura, Da mucho miedo
+* **Aspectos ocultos:** Llena de trampas, Segura como una cárcel
 
 \conc
 
