@@ -421,15 +421,29 @@ Por último, puede que alguna haya destacado en alguna tarea durante esta primer
 
 ## In the Ghetto
 
-> XXX
+> Pues después de descubrir la terrible verdad, había que hacer algo. La cuestión era qué podíamos hacer. Contarlo, nadie nos creería. La otra opción era acabar nosotras mismas con el vampiro. Unas niñas contra un poderoso vampiro, digno de una peli mala ...  
 
 \conc
 
-XXX
+Hasta ahora no sabían qué estaba pasando en el barrio, pero ahora sí saben a qué se enfrentan. Aunque su enemigo es muy peligroso y poderoso, también tiene grandes debilidades que pueden ser fácilmente explotables por unas niñas. Ajo, fuego, plata
+
+### Nadie te creerá
+
+Si deciden contarlo a sus padres, tutores, profesores, ... nadie les va a creer. Eso debe quedarles muy claro, les dirán que dejen de mentir o que son imaginaciones suyas, ... las típicas cosas que le dicen a la protagonista de una peli de miedo al principio.
+
+Si continuan con ello o incluso involucran a la policía, se tendrán que enfrentar a un psicólogo infantil (es uno de los apartados del capítulo Mientras Tanto) y aprenderán que mejor no contarles ciertas cosas a los adultos.
 
 ### Preparándose de la acción
 
+Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poco de vampiros, porque no es un monstruo muy de moda y lo que hay está muy desvirtuado. Piensa en los vampiros brillantes de Crepúsculo. Así que lo que tendrán que hacer es buscar libros y películas sobre vampiros o, mejor, vídeos de chalados en Twitch y YouTube con locas teorías, y muchas veces con cierta base real, sobre vampiros y cómo matarlos. 
+
+> __Invéntate un nombre para__ __el Youtuber__ como «VampireHunterVallekas» y úsalo en frase como «Si recuerdas el último directo de VampireHunterVallekas, la formula para el té de ajo es de una cabeza de ajo por cada litro de agua». Quizás hasta puedan dejarle comentarios en sus directos y que este les responda. 
+
 XXX
+
+Conseguir algunos de los objetos puede ser facil, como el agua bendita o más complicada como objetoss de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
+
+\sp
 
 ### La primera caza
 
