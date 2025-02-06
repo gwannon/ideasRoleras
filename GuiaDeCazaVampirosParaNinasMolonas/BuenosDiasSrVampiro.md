@@ -473,7 +473,7 @@ XXX
 
 ## Burning love
 
-> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Hasta que llevo Néstor. Con Néstor aprendimos lo que era el auténtico mal.
+> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Hasta que llego Néstor. Con Néstor aprendimos lo que era el auténtico mal.
 
 \conc
 
