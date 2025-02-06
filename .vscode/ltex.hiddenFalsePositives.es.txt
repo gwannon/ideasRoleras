@@ -20,3 +20,5 @@
 {"rule":"CONTRACCIONES","sentence":"^\\QAlfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de el mismo en otra cuenta para encontrar sexo casual con succión de sangre.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QDiscoteca de moda, Oscura y ruidosa\nAspectos ocultos:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnadie les va a creer.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlas típicas cosas que le dicen a la protagonista de una peli de miedo al principio.\\E$"}

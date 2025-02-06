@@ -359,11 +359,13 @@ Es muy buene sonsacande vicios prohibidos, fetiches y perversiones de sus vícti
 
 Igual se les ocurre a tus jugadoras cortarle el rollo, pero eso supondría ponerse al descubierto y realmente tendría que hacer algo gordo como activar los aspersores pulsando la alarma antiincendios.
 
-Si quieren seguirle al reservado, la única forma de ver lo que pasa dentro es escabulléndose dentro. 
+Si quieren seguirle al reservado, la única forma de ver lo que pasa dentro es escabulléndose dentro. Desde fuera solo oirán gemidos y suspiros, pero no como los que les han podido oír a sus padres.
 
-La escena del reservado no sería excesivamente rara si no fuera porque Alfonse tiene unos colmillos exageradamente grandes para un humano, está en su forma trash (le gusta dejarse ir) y le gusta de flotar con sus víctimas entre sus brazos.
+La escena del reservado no sería excesivamente rara si no fuera porque Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma trash (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
 
-XXX
+De repente, Alfonse levantará la cabeza de sus víctimas y les verá con sus profundos ojos rojos y empezará a chillar. Podrías pedirles alguna tirada Buena (+2) para evitar chillar de miedo o quedarse petrificada.
+
+Es un buen momento para recordarles que si no han dicho nada, llevan la cara descubierta y Alfonse se las ha visto.
 
 ### Escapando de «Jaula»
 
@@ -375,9 +377,9 @@ Puedes hacer más divertida la escena y cuando empiecen a correr oigan al DJ gri
 
 Podrán esconderse en ella, pero también sus perseguidores y con el tumulto alguna cazadora puede perderse. Puede ser una divertida escena de jugar al escondite. Recuerda que la espuma llega a la altura del pecho a un adulto y oculta completamente a las cazadoras.
 
-Si quieren montar una distracción rápida, tienen segundos para llevarla a cabo, por ejemplo tirando petardos. Si lo consiguen ya no estarán en la misma zona de la discoteca que Alfonse y según a donde se muevan incluso no las vea.
-
 \sp
+
+Si quieren montar una distracción rápida, tienen segundos para llevarla a cabo, por ejemplo tirando petardos. Si lo consiguen ya no estarán en la misma zona de la discoteca que Alfonse y según a donde se muevan incluso no las vea.
 
 Otra opción puede ser **lanzarse contra Alfonse** e intentar acabar con él. Tus cazadoras no están preparadas para luchar contra vampiros así que es casi imposible hacerle daño.
 
@@ -401,9 +403,9 @@ Una vez hayan conseguido escapar y este en un lugar seguro deberían hablar de q
 
 A priori, deberían tener claro que los vampiros existen y parece que hay muchos. También parece que tienen planes para el barrio. No se dedican a cazar y a disfrutar de la eternidad. Comenten asesinatos, sobornan a políticos, compran terrenos, venden droga.
 
-La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria ellos pueden hacer lo que quieran allí.
-
 \sp
+
+La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria ellos pueden hacer lo que quieran allí.
 
 #### Se empieza a forjar una amistad
 
@@ -415,13 +417,11 @@ También es un buen momento para que se prometan cosas entre ellas, como «O esc
 
 Por último, puede que alguna haya destacado en alguna tarea durante esta primera aventura. Aprovecha a convertir esto en un puesto dentro del grupo.
 
-\sp
-
 \sinc
 
 ## In the Ghetto
 
-> Pues después de descubrir la terrible verdad, había que hacer algo. La cuestión era qué podíamos hacer. Contarlo, nadie nos creería. La otra opción era acabar nosotras mismas con el vampiro. Unas niñas contra un poderoso vampiro, digno de una peli mala ...  
+> Pues después de descubrir la terrible verdad, había que hacer algo. La cuestión era qué podíamos hacer. Contarlo, nadie nos creería. La otra opción era acabar nosotras mismas con el vampiro. Unas niñas contra un poderoso vampiro, digno de una peli mala …  
 
 \conc
 
@@ -429,9 +429,11 @@ Hasta ahora no sabían qué estaba pasando en el barrio, pero ahora sí saben a 
 
 ### Nadie te creerá
 
-Si deciden contarlo a sus padres, tutores, profesores, ... nadie les va a creer. Eso debe quedarles muy claro, les dirán que dejen de mentir o que son imaginaciones suyas, ... las típicas cosas que le dicen a la protagonista de una peli de miedo al principio.
+Si deciden contarlo a sus padres, tutores, profesores, … nadie les va a creer. Eso debe quedarles muy claro, les dirán que dejen de mentir o que son imaginaciones suyas, … las típicas cosas que le dicen a la protagonista de una peli de miedo al principio.
 
-Si continuan con ello o incluso involucran a la policía, se tendrán que enfrentar a un psicólogo infantil (es uno de los apartados del capítulo Mientras Tanto) y aprenderán que mejor no contarles ciertas cosas a los adultos.
+Si continúan con ello o incluso involucran a la policía, se tendrán que enfrentar a un psicólogo infantil (es uno de los apartados del capítulo Mientras Tanto) y aprenderán que mejor no contarles ciertas cosas a los adultos.
+
+\sp
 
 ### Preparándose de la acción
 
@@ -441,9 +443,7 @@ Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poc
 
 XXX
 
-Conseguir algunos de los objetos puede ser facil, como el agua bendita o más complicada como objetoss de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
-
-\sp
+Conseguir algunos de los objetos puede ser facil, como el agua bendita o más complicada como objetos de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
 
 ### La primera caza
 
