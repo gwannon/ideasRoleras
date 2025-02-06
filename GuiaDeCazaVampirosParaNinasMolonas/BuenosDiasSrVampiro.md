@@ -311,9 +311,11 @@ La otra opción es la puerta trasera, que tiene una cerradura con código y una 
 
 \sp
 
-De día el sitio está vacío excepto por la seguridad que vigila el exterior del edificio, Alfonse duerme en su guarida y puede que algún empleado aparezca a recoger pedidos de bebida o similar. Con mucha probabilidad el Cripi entré en el edificio para hacer algún recado a su señor.
+De día el sitio está vacío excepto por la seguridad que vigila el exterior del edificio, Alfonse que duerme en su guarida y puede que algún empleado aparezca a recoger pedidos de bebida o similar. Con mucha probabilidad el Cripi entré en el edificio para hacer algún recado a su señor.
 
 [![Front view young female dj entertaining crowd by Freepik](./assests/images/front-view-young-female-dj-entertaining-crowd.jpg "Front view young female dj entertaining crowd by Freepik")](https://www.freepik.com/free-photo/front-view-young-female-dj-entertaining-crowd_5854739.htm "Front view young female dj entertaining crowd by Freepik")
+
+Si montan una vigilancia, verán que Alfonse sale muy poco de su discoteca y normalmente acompañado de alguna víctima. Si está solo, no usa la puerta, prefiere otros métodos menos humanos. Sale a la azotea y flota hasta la calle, cubierto con una capa negra con capucha. Es tremendamente difícil de detectar de noche con ropa oscura, flotando y sin hacer ruido (tirada Grande +4).
 
 ### Entrando en «Jaula»
 
@@ -341,12 +343,25 @@ Una vez dentro de la disco podrán moverse sin problemas. Si está cerrada porqu
 
 Mientras está abierta, podrán moverse por la planta baja sin problemas, a nadie le importará que unas niñas estén por ahí. En la planta VIP y en el bar y su almacén deberán ir con cuidado y estar escondidas.
 
+\sp
 
 ### El primer encuentro con Alfonse
 
 De noche pueden encontrar a Alfonse en cualquier parte de la disco, desde alimentándose de alguna víctima en una zona reservada de la planta VIP, hasta metiendo cajas de bebida en el bar sin camisetas enseñando tableta.
 
-\sp
+De día, estará durmiendo en su habitación del pánico con vestidor y baño. El acceso sin saber el código y la ubicación de la puerta secreta es imposible para las capacidades y herramientas de unas niñas.
+
+Una vez lo localicen, Alfonse se moverá a la zona VIP a no ser que estén ya allí. Alfonse se pondrá en el centro de la zona y escrutará su menú de esa noche. Para acto seguido sentarse sin ningún pudor al lado de su próxima víctima lo más en contacto posible. Si son varias víctimas se meterá en medio sin ningún problema.
+
+Acto seguido, despliega todo su encanto vampírico y sacará un arsenal de drogas de diseño que le suministra su jefe vampírico.
+
+Es muy buene sonsacande vicios prohibidos, fetiches y perversiones de sus víctimas y lo hace encantadoramente. Luego usa está información para atraerte a un reservado donde completa la faena a nivel sexual y hematófago (alimentarse de sangre).
+
+Igual se les ocurre a tus jugadoras cortarle el rollo, pero eso supondría ponerse al descubierto y realmente tendría que hacer algo gordo como activar los aspersores pulsando la alarma antiincendios.
+
+Si quieren seguirle al reservado, la única forma de ver lo que pasa dentro es escabulléndose dentro. 
+
+La escena del reservado no sería excesivamente rara si no fuera porque Alfonse tiene unos colmillos exageradamente grandes para un humano, está en su forma trash (le gusta dejarse ir) y le gusta de flotar con sus víctimas entre sus brazos.
 
 XXX
 
@@ -362,6 +377,8 @@ Podrán esconderse en ella, pero también sus perseguidores y con el tumulto alg
 
 Si quieren montar una distracción rápida, tienen segundos para llevarla a cabo, por ejemplo tirando petardos. Si lo consiguen ya no estarán en la misma zona de la discoteca que Alfonse y según a donde se muevan incluso no las vea.
 
+\sp
+
 Otra opción puede ser **lanzarse contra Alfonse** e intentar acabar con él. Tus cazadoras no están preparadas para luchar contra vampiros así que es casi imposible hacerle daño.
 
 [![High angle dj woman at control panel by Freepik](./assests/images/high-angle-dj-woman-control-panel.jpg "High angle dj woman at control panel by Freepik")](https://www.freepik.com/free-photo/high-angle-dj-woman-control-panel_5854775.htm "High angle dj woman at control panel by Freepik")
@@ -371,8 +388,6 @@ Que no puedan hacerle daño no quiere decir que no puedan derribarlo e intenten 
 Pueden hacer fuego, pero no será una gran llama a no ser que tengan combustible como gasolina o alcohol. Además, el sistema de aspersores se pondrá a funcionar al instante y apagar toda llama que haya.
 
 Al final, seguramente tengan que huir corriendo, pero ahora cansadas y seguramente con garrazos de Alfonse.
-
-\sp
 
 #### Y si todo falla
 
@@ -387,6 +402,8 @@ Una vez hayan conseguido escapar y este en un lugar seguro deberían hablar de q
 A priori, deberían tener claro que los vampiros existen y parece que hay muchos. También parece que tienen planes para el barrio. No se dedican a cazar y a disfrutar de la eternidad. Comenten asesinatos, sobornan a políticos, compran terrenos, venden droga.
 
 La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria ellos pueden hacer lo que quieran allí.
+
+\sp
 
 #### Se empieza a forjar una amistad
 
