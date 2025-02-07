@@ -303,11 +303,11 @@ Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mis
 
 Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
 
-### Repartidor/a de pizza en un dungeon.
+### Repartidor/a de pizza en un dungeon
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 
-### RRHH en un Dungeon.
+### RRHH en un Dungeon
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
 
@@ -372,6 +372,14 @@ Pero también puede salir un vendedor de tablones que te los vende para hacerte 
 ## Mods de juegos, ambientaciones y campañas
 
 \concolumna
+
+### D&D Cowboys
+
+El western tiene dos temas muy usados, las caravanas de colonos hacia nuevos territorios y los cowboys llevando manadas de vacas.
+
+Sería interesante un par de campañas que vayan sobre esos viajes con todos sus típicos ríos que vadear, ataques de bandoleros/indios, enfermedades, hambrunas, carretas/vacas perdidas.
+
+Cómo se mueven por terrenos inexplorados puede haber ruinas abandonadas, guaridas de monstruos, ...
 
 ### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
