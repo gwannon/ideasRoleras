@@ -467,6 +467,14 @@ XXX
 
 XXX
 
+### Explorando el nivel del plan actual
+
+XXX
+
+### Subiendo a un nivel superior del plan
+
+XXX
+ 
 \sp
 
 \sinc
