@@ -431,21 +431,57 @@ Hasta ahora no sabían qué estaba pasando en el barrio, pero ahora sí saben a 
 
 Si deciden contarlo a sus padres, tutores, profesores, … nadie les va a creer. Eso debe quedarles muy claro, les dirán que dejen de mentir o que son imaginaciones suyas, … las típicas cosas que le dicen a la protagonista de una peli de miedo al principio.
 
-Si continúan con ello o incluso involucran a la policía, se tendrán que enfrentar a un psicólogo infantil (es uno de los apartados del capítulo Mientras Tanto) y aprenderán que mejor no contarles ciertas cosas a los adultos.
+Si continúan con ello o incluso involucran a la policía, se tendrán que enfrentar a un psicólogo infantil (en el capítulo Mientras Tanto) y aprenderán que mejor no contarles ciertas cosas a los adultos.
 
 \sp
 
 ### Preparándose de la acción
 
-Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poco de vampiros, porque no es un monstruo muy de moda y lo que hay está muy desvirtuado. Piensa en los vampiros brillantes de Crepúsculo. Así que lo que tendrán que hacer es buscar libros y películas sobre vampiros o, mejor, vídeos de majaretas en Twitch y YouTube con locas teorías, y muchas veces con cierta base real, sobre vampiros y cómo matarlos. 
+Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poco de vampiros, porque no es un monstruo muy de moda y lo que hay está muy desvirtuado. Piensa en los vampiros brillantes de Crepúsculo. Así que lo que tendrán que hacer es buscar libros y películas sobre vampiros o, mejor, vídeos de majaretas en Twitch y YouTube con locas teorías, y muchas veces con cierta base real, sobre vampiros y cómo matarlos.
+
+[![Pro gamer participating in gaming competition all night by DC Studio](./assests/images/pro-gamer-participating-gaming-competition-all-night.jpg "Pro gamer participating in gaming competition all night by DC Studio")](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm "Pro gamer participating in gaming competition all night by DC Studio")
 
 > __Invéntate un nombre para__ __el Youtuber__ como «VanHernanding» «VampireHuntressVallekas» y úsalo en frase como «Si recuerdas el último directo de VampireHuntressVallekas, la formula para el té de ajo es de una cabeza de ajo por cada litro de agua». Quizás hasta puedan dejarle comentarios en sus directos y que este les responda. 
 
-XXX
+En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera   con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
+
+Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo  en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fé, el vampiro se lo quita de las manos y les ataca sin problemas.
 
 Conseguir algunos de los objetos puede ser facil, como el agua bendita o más complicada como objetos de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
 
+Todo el equipo extraño, como rifles de agua, garrafas de té de ajo y de agua bendita, crucifijos, estacas y mazas, deberán guardarlas fuera de casa así que podrían empezar a usar su guarida y quedar allí para compartir información y empezar a montar planes de acción.
+
+#### Se busca
+
+Mientras se preparan para la caza, puedes meter algún encuentro con el Cripi. Alfonse debe buscar a las cazadoras y su mejor agente para temas humanos es el Cripi.
+
+\sp
+
+Así que puedes hacer un par de encuentros en la puerta del cole a la entrada o la salida. No las va encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.
+
 ### La primera caza
+
+> Personalmente como DJ, sea como sea, saquen las tiradas que saquen y hagan lo que hagan, esta primera caza debería ser un éxito. Puede que sea chapucera o una genialidad, pero deberían acabar la caza triunfando sobre el mal, con valiosa información y con un poderoso enemigo derrotado o un aliado muy importante. Ya tendrán tiempo de meter la pata y fracasar. 
+
+XXX
+
+#### El plan de caza
+
+Con toda la información recogida y el equipo preparado tendrán que pensar un plan de acción con una 
+
+Como DJ no deberías dejarles entrar de la misma forma que la primera vez q no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
+
+Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad.
+
+XXX
+
+#### Mucho hablar y poco actuar
+
+Si ves que planean mucho pero no terminan de lanzarse a la acción, puede activar alguna de las opciones del capítulo «Mientras tanto», como las fiestas del barrio. Quizás ese evento especial cambie la visión general de la caza y les anime a lanzarse.
+
+Por ejemplo, las fiestas del barrio pueden hacer que se vacíe o se llene de gente la «Jaula» y eso puede ayudar a que su plan salga mejor y aprovechen a lanzarse a la caza aunque no tengan más que una megapistola de agua.
+
+#### La noche de las cazadoras
 
 XXX
 

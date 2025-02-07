@@ -22,3 +22,4 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QDiscoteca de moda, Oscura y ruidosa\nAspectos ocultos:\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnadie les va a creer.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlas típicas cosas que le dicen a la protagonista de una peli de miedo al principio.\\E$"}
+{"rule":"VOY_INF","sentence":"^\\QNo las va encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.\\E$"}
