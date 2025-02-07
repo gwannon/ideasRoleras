@@ -441,3 +441,5 @@ CTO
 garrazos
 VampireHunterVallekas
 d20
+VampireHuntressVallekas
+VanHernanding
