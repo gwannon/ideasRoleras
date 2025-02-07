@@ -1,10 +1,10 @@
-\sincolumna
+\sinc
 
 # Ideas Roleras [Por Gwannon - 31/01/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos, ambientaciones y campañas
 
-\concolumna
+\conc
 
 ### The borrowers
 
@@ -40,7 +40,7 @@ El diseño del libro debería ser mezcla del libro de los muertos de La momia, r
 
 Parece que hay algo en [City of Mist](https://cityofmist.co/blogs/news/cairo-neuro-otherscape-rpg-kickstarter-launch)
 
-\saltopagina
+\sp
 
 ### Circunnavegación de un mundo medieval fantástico
 
@@ -96,7 +96,7 @@ Europa sería un sistema solar donde cada planeta es una potencia europea. El Ca
 
 Habría barcos con motores FTL y velas solares capaces de surcar el espacio. Combates navales, campos de asteroides y agujeros negros en vez de tormentas y ciclones, etc.
 
-\saltopagina
+\sp
 
 La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
 
@@ -153,7 +153,7 @@ Sería interesante jugar con personajes antiguos en alguna época interesante co
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
-\saltopagina
+\sp
 
 ### Pokedados
 
@@ -181,7 +181,7 @@ Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres 
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
 
-\saltocolumna
+\sc
 
 ### Todos para Cthulhu y Cthulhu para todos
 
@@ -211,13 +211,13 @@ Una campaña sería de agentes secretos contra organización mundial que busca d
 * **Flint, agente secreto**
 * **Eggsy de Kingsman** y todos esos superagentes adolescentes como Cody Banks
 
-\saltopagina
+\sp
 
-\sincolumna
+\sinc
 
 ## Indies
 
-\concolumna
+\conc
 
 ### Agatha Christie VS. Cthulhu
 
@@ -265,7 +265,7 @@ Algún becario del departamento de egiptología del British Museum ha desempolva
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
 
-\saltopagina
+\sp
 
 ### Pac-land
 
@@ -325,7 +325,7 @@ Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan.
 
-\saltopagina
+\sp
 
 ### La villa secreta de las mascotas
 
@@ -333,15 +333,15 @@ Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen
 
 Les contratan en peligrosas misiones que solo una mascota preparada puede cumplir como repartir muestras gratis de sangre falsa en un baile de vampiros o hacer una campaña de seguridad vial para usar ropa reflectante de noche en un pueblo de ninjas.
 
-\saltocolumna
+\sc
 
-\saltopagina
+\sp
 
-\sincolumna
+\sinc
 
 ## Reglas caseras y ayudas
 
-\concolumna
+\conc
 
 ### Clase Isekai/Metajuego
 
@@ -363,15 +363,15 @@ Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un coc
 
 Pero también puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
 
-\saltocolumna
+\sc
 
-\saltopagina
+\sp
 
-\sincolumna
+\sinc
 
 ## Mods de juegos, ambientaciones y campañas
 
-\concolumna
+\conc
 
 ### D&D Cowboys
 
@@ -387,15 +387,15 @@ Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigado
 
 Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
 
-\saltocolumna
+\sc
 
-\saltopagina
+\sp
 
-\sincolumna
+\sinc
 
 ## Semillas e ideas de aventuras
 
-\concolumna
+\conc
 
 ### En el Polo Norte
 
@@ -416,15 +416,15 @@ Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
-\saltocolumna
+\sc
 
-\saltopagina
+\sp
 
-\sincolumna
+\sinc
 
 ## Pensando
 
-\concolumna
+\conc
 
 ### Rockeros
 
