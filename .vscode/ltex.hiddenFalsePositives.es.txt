@@ -23,3 +23,5 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnadie les va a creer.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlas típicas cosas que le dicen a la protagonista de una peli de miedo al principio.\\E$"}
 {"rule":"VOY_INF","sentence":"^\\QNo las va encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QEn la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera   con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QEn la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera   con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error.\\E$"}

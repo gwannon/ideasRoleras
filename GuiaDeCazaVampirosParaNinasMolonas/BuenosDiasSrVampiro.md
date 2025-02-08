@@ -443,9 +443,9 @@ Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poc
 
 > __Invéntate un nombre para__ __el Youtuber__ como «VanHernanding» «VampireHuntressVallekas» y úsalo en frase como «Si recuerdas el último directo de VampireHuntressVallekas, la formula para el té de ajo es de una cabeza de ajo por cada litro de agua». Quizás hasta puedan dejarle comentarios en sus directos y que este les responda. 
 
-En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera   con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
+En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
 
-Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo  en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fé, el vampiro se lo quita de las manos y les ataca sin problemas.
+Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fe, el vampiro se lo quita de las manos y les ataca sin problemas.
 
 Conseguir algunos de los objetos puede ser facil, como el agua bendita o más complicada como objetos de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
 
@@ -479,7 +479,7 @@ XXX
 
 Si ves que planean mucho pero no terminan de lanzarse a la acción, puede activar alguna de las opciones del capítulo «Mientras tanto», como las fiestas del barrio. Quizás ese evento especial cambie la visión general de la caza y les anime a lanzarse.
 
-Por ejemplo, las fiestas del barrio pueden hacer que se vacíe o se llene de gente la «Jaula» y eso puede ayudar a que su plan salga mejor y aprovechen a lanzarse a la caza aunque no tengan más que una megapistola de agua.
+Por ejemplo, las fiestas del barrio pueden hacer que se vacíe o se llene de gente la «Jaula» y eso puede ayudar a que su plan salga mejor y aprovechen a lanzarse a la caza aunque no tengan más que una mega-pistola de agua.
 
 #### La noche de las cazadoras
 
@@ -629,10 +629,25 @@ XXX
 
 ## Blue Suede Shoes
 
-> La amenaza de Lord Ceballos había sido neutralizada. Qué Narices!!!!! Le habíamos dado una paliza a todos los niveles de la existencia y enviado al infierno de una patada en el culo. Pero y ahora qué?
+> La amenaza de Lord Ceballos había sido neutralizada. Qué Narices!!!!! Le habíamos dado una paliza a todos los niveles de la existencia y enviado al infierno de una patada en el culo. Pero y ahora ¿qué? 
 
 \conc
 
-XXX
+Las aventuras de tus cazadoras, no tienen por qué acabarse con la muerte de Lord Ceballos. Pues tenemos muchas opciones.
+
+* El verano se acerca y pueden ir a alguna ciudad con costa donde tengan que enfrentarse a una nueva conspiración vampírica. Hablamos de yates usados como guaridas vampíricas, amaneceres y atardeceres en la playa, vampiros extranjeros con calcetines y sandalias, …
+* Puede que una vez que su barrio esté limpio y seguro, se muevan a otro barrio y extiendan su territorio de caza.
+* Igual tienen que irse de colonias y campamentos y cerca haya un antiguo castillo propiedad de un viejo conde vampiro.
+* Con el vacío de poder de Lord Ceballos puede que algún otro Lord trate de entrar en el barrio.
+
+Además podemos meter nuevos elementos que den juego a tus partidas.
+
+* __¿Quién dijo que tus jugadoras eran las__ __únicas cazadoras de vampiros?__ Quizás se encuentren con otras cazadoras como ellas. Pueden que tengan otros métodos de trabajo o su forma de cazar sea radicalmente opuestas y acaben enfrentadas. También pueden encontrarse con un grupo de viejos cazavampiros que las tomen como becarias y que las entrenen.
+* __Tal vez hay otras clases de vampiros.__ Puede que en otras partes los vampiros sean diferentes con diferentes poderes y debilidades. Se creativo y podrás ofrecerle a tu mesa un nuevo reto completamente original.
+* __¿Y si hay otros no-muertos?__ Si hay vampiros porque no podría haber otros no-muertos. Las posibilidades son muchas. Hablamos de momias que llevan miles de años controlando nuestro mundo, zombis inteligentes devoradores de cerebros, nigromantes que juegan con la muerte y los muertos, …
+
+Y claro tus cazadoras pueden crecer e ir al instituto. Con unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».
+
+Incluso podemos avanzar más y migrar tus personajes a otros juegos como cazadoras de vampiros en World of Darkness o superespías de Agentes de la noche.
 
 \sp
