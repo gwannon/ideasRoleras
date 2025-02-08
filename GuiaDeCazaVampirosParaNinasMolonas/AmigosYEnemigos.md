@@ -266,8 +266,8 @@ XXX
   * Cae bien
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Mediocre (+0) 
 * **Proezas**
-  * XXX
-  * XXX
+  * **Conozco el sistema:** Debido a que ha tenido que moverse por todo el sistema burocrático y legal, gana un +2 para Superar de modo Rápido cualquier traba burocrática o legal.
+  * **Sé defenderme de los abusones:** Como lleva toda la vida enfrentándose a abusones, gana un +2 para Defender de modo Ingenioso cuando se enfrenta a abusones, explotadores, manipuladores y escoria por el estilo.
   * XXX
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3

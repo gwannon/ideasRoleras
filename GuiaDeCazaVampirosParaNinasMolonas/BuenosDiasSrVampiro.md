@@ -648,6 +648,6 @@ Además podemos meter nuevos elementos que den juego a tus partidas.
 
 Y claro tus cazadoras pueden crecer e ir al instituto. Con unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».
 
-Incluso podemos avanzar más y migrar tus personajes a otros juegos como cazadoras de vampiros en World of Darkness o superespías de Agentes de la noche.
+Incluso podemos avanzar más y migrar tus personajes a otros juegos como cazadoras de vampiros en __World of Darkness__ o superespías de __Agentes de la noche__.
 
 \sp
