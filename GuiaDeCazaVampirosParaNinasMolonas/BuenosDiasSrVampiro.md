@@ -435,7 +435,7 @@ Si continúan con ello o incluso involucran a la policía, se tendrán que enfre
 
 \sp
 
-### Preparándose de la acción
+### Preparándose para la acción
 
 Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poco de vampiros, porque no es un monstruo muy de moda y lo que hay está muy desvirtuado. Piensa en los vampiros brillantes de Crepúsculo. Así que lo que tendrán que hacer es buscar libros y películas sobre vampiros o, mejor, vídeos de majaretas en Twitch y YouTube con locas teorías, y muchas veces con cierta base real, sobre vampiros y cómo matarlos.
 

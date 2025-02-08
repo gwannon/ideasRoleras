@@ -379,7 +379,7 @@ El western tiene dos temas muy usados, las caravanas de colonos hacia nuevos ter
 
 Sería interesante un par de campañas que vayan sobre esos viajes con todos sus típicos ríos que vadear, ataques de bandoleros/indios, enfermedades, hambrunas, carretas/vacas perdidas.
 
-Cómo se mueven por terrenos inexplorados puede haber ruinas abandonadas, guaridas de monstruos, ...
+Cómo se mueven por terrenos inexplorados puede haber ruinas abandonadas, guaridas de monstruos, …
 
 ### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
