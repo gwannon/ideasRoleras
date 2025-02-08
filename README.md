@@ -2,6 +2,8 @@
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
+Puedes descargar todas las ideas en [Itch.io](https://gwannon.itch.io/ideas-roleras).
+
 ## Atribuciones 
 
 * Fantasy portal to another world or game level in dark cave with stone walls and glowing gem crystals Cartoon vector magic door or entrance to another dimension in rocky underground cave or dungeon by [upklyak](https://www.freepik.com/free-vector/fantasy-portal-another-world-game-level-dark-cave-with-stone-walls-glowing-gem-crystals-cartoon-vector-magic-door-entrance-another-dimension-rocky-underground-cave-dungeon_73605755.htm)

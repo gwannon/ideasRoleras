@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 31/01/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 07/02/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos, ambientaciones y campañas
 
@@ -373,14 +373,6 @@ Pero también puede salir un vendedor de tablones que te los vende para hacerte 
 
 \conc
 
-### D&D Cowboys
-
-El western tiene dos temas muy usados, las caravanas de colonos hacia nuevos territorios y los cowboys llevando manadas de vacas.
-
-Sería interesante un par de campañas que vayan sobre esos viajes con todos sus típicos ríos que vadear, ataques de bandoleros/indios, enfermedades, hambrunas, carretas/vacas perdidas.
-
-Cómo se mueven por terrenos inexplorados puede haber ruinas abandonadas, guaridas de monstruos, …
-
 ### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
 Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
@@ -397,6 +389,14 @@ Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya 
 
 \conc
 
+### D&D Cowboys
+
+El western tiene dos temas muy usados, las caravanas de colonos hacia nuevos territorios y los cowboys llevando manadas de vacas.
+
+Sería interesante un par de campañas que vayan sobre esos viajes con todos sus típicos ríos que vadear, ataques de bandoleros/indios, enfermedades, hambrunas, carretas/vacas perdidas.
+
+Cómo se mueven por terrenos inexplorados puede haber ruinas abandonadas, guaridas de monstruos, …
+
 ### En el Polo Norte
 
 Tabla de generación de aventuras aleatorias centradas en una estación polar. Una tabla para un objeto o persona, otra tabla para quien lo ha llevado al polo y una última tabla donde se determina el objetivo o el porqué del objeto o persona. Luego tocaría darle un poco de sentido y tendríamos cosas.
@@ -410,13 +410,14 @@ Tabla de generación de aventuras aleatorias centradas en una estación polar. U
 
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
 
+\sc
+
 ### Si algún día viajas al pasado no toques nada
 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
-\sc
 
 \sp
 
