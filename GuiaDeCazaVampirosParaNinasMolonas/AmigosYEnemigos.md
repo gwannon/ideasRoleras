@@ -243,6 +243,7 @@ XXX
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** XXX
 
@@ -254,9 +255,17 @@ XXX
 
 \conc
 
-XXX
+Carolina Faroes es una de las activistas más importante del barrio y no hay causa perdida que no haya defendido y organización social en que participe de activa. Su familia de origen brasileño, se vino a vivir al barrio cuando era una niña y ha crecido en sus calles aprendiendo respetarlas y quererlas.
 
 [![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
+
+Estudio derecho con gran esfuerzo propio y de su familia y entorno cercano y cuando termino la carrera volvió al barrio en vez de quedarse en un  lujoso bufete del centro. Desde entonces se dedica a defender a mujeres víctimas de violencia de género, parar desahucios, defender a inquilinos desprotegidos, …
+
+Catalina no les niega a nadie su ayuda y siempre está en primera línea cuando los antidisturbios se ponen en plan nazi y empiezan a golpear sus porras contra sus escudos sin amedentrarse ni un ápice.
+
+Así que sea el problema que tengas a ambos de la ley, querrás que este de tu lado y te defienda. 
+
+En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el barrio de toda índole y eso no es normal, no pueden ser coincidencia, pero ni de lejos se imagina que hay un grupo de vampiros tratando de acabar con su barrio. Así que si alguien le viene que no ese cuento no lo tomará en serio a no ser que tenga pruebas sólidas e irrefutables. 
 
 * **Aspectos**
   * **Concepto principal:** Abogada antisistema
@@ -269,6 +278,9 @@ XXX
   * **Conozco el sistema:** Debido a que ha tenido que moverse por todo el sistema burocrático y legal, gana un +2 para Superar de modo Rápido cualquier traba burocrática o legal.
   * **Sé defenderme de los abusones:** Como lleva toda la vida enfrentándose a abusones, gana un +2 para Defender de modo Ingenioso cuando se enfrenta a abusones, explotadores, manipuladores y escoria por el estilo.
   * **Tarjeta de salir de la cárcel:** Con su experiencia en temas policiales puede sacar de la cárcel por delitos menores a una persona o a sí misma con diversas triquiñuelas legales.  
+
+\sp
+
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
