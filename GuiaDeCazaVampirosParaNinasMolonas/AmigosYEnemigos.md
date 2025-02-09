@@ -69,31 +69,25 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
   * **Complicación:** Odia a Néstor
   * Fiestero empedernido
   * Abiertamente del colectivo
-  * XXX
+  * .................................................................................
 
 \sp
 
 * **Estilos:** Cauto Mediocre (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
-  * XXX
-  * XXX
-  * XXX
+  * **Dar coba:** Debido a que es un adulador nato y sabe regalarte los oídos, gana un +2 para Crear una ventaja de modo Llamativo cuando trata de seducir a humanos.
+  * **Inmovilizar:** Con su experiencia en prácticas sexuales bizarras, gana un +2 a Atacar de modo vigoroso cuando trata de inmovilizar a sus víctimas.
+  * .................................................................................
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Mientras las jugadoras no te conozcan trata de ser ese vampiro intimidador y poderoso de voz profunda. Una vez que te conozcan y tengas una relación con las cazadoras no pares de hacerles preguntas indiscretas. El cotilleo es tu vida y te encanta sacarles chismes a las cazadoras. Si no responden o crees que se están callando algo sigue insistiendo y obvia el tema del que querían hablar.
 
 \sinc
 
 > Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Si sobrevive a sus primeros encuentros y no acaba convertido en un montón cenizas es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras. Deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
-
-\conc
-
-\sp
-
-\sinc
 
 ### Nieve
 
@@ -101,11 +95,15 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
 
 XXX
 
+\sp
+
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
 
 Como Jefa de operaciones de una gran corporación sufre bastante estrés. El estrés en los vampiros no funciona igual que en los humanos, ya que la parte física no se ve muy afectada por el estrés. Sus cuerpos ya están muertos y no sufren muchos cambios. Así que el efecto en su psique es el doble de grave. 
 
 De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tonterías, pero se ha dejado a veces a víctimas vivas o muertas en el capó del coche durante horas y días.
+
+También se ha vuelto muy sensible a los olores molestándole mucho, de hecho, el olor a ajo la repele muchísimo más que al resto de chupasangres y no puede aguantar estar en una habitación con alguien que ha comido ajo o cebolla.
 
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
@@ -123,7 +121,7 @@ De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tont
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** Bajo tu apariencia profesional y empresarial moderna, escondes un manojo de nervios y estrés acumulado. Deja de hablar durante un par de segundos mirando al infinito, muerdete las puntas de los dedos hasta «hacerte sangre» sin darte cuenta, enseña los colmillos sin razón o rascate picores que no existen. 
+**Sugerencia de interpretación:** Bajo tu apariencia profesional y empresarial moderna, escondes un manojo de nervios y estrés acumulado. Deja de hablar durante un par de segundos mirando al infinito, muérdete las puntas de los dedos hasta «hacerte sangre» sin darte cuenta, enseña los colmillos sin razón o ráscate picores que no existen. 
 
 \sp
 
@@ -143,7 +141,7 @@ XXX
   * **Concepto principal:** Siervo protector de Lord Ceballos
   * **Complicación:** Sobreprotector
   * Experto en MMA
-  * XXX
+  * Cara de póker
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
 * **Proezas**
@@ -154,7 +152,7 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Cruza los brazos sobre el pecho y no hables. Usa solo lenguaje corporal, asiente o niega con la cabeza en las manos, mira aviesamente, encoge los hombros. Solo deberías hablar para dar órdenes claras y precisas.
 
 \sp
 
