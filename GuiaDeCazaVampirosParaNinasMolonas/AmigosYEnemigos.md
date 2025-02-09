@@ -87,7 +87,7 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
 
 \sinc
 
-> Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Si sobrevive a sus primeros encuentros y no acaba convertido en un montón cenizas es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras. Deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
+> Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Si sobrevive a sus primeros encuentros y no acaba convertido en un montón cenizas es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras. De hecho, tiene espacios vacíos para rellenarlos según interactúe con tus jugadoras. Además, deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
 
 ### Nieve
 
