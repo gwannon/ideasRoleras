@@ -163,6 +163,8 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * In love with a Vampire By [cylonka](https://www.deviantart.com/cylonka/art/In-love-with-a-Vampire-288956144) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * High angle dj woman at control panel by [Freepik](https://www.freepik.com/free-photo/high-angle-dj-woman-control-panel_5854775.htm)
 * Front view young female dj entertaining crowd by [Freepik](https://www.freepik.com/free-photo/front-view-young-female-dj-entertaining-crowd_5854739.htm)
+* Joaquina Maya, Clan Ravnos By [IvanValladares](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* [COMMISSION] Cheelu By [aeeriz](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 
 \sp
 

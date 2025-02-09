@@ -319,6 +319,8 @@ Si montan una vigilancia, verán que Alfonse sale muy poco de su discoteca y nor
 
 ### Entrando en «Jaula»
 
+_NOCHE_
+
 #### Puerta principal
 
 Esquivar a los porteros es muy complicado a no ser que consigan distraerlos con un buen espectáculo delante. Si van con carnets falsos no colará, se ve de sobra que son menores. Un buen soborno tampoco funcionará se juegan el curro por una miseria.
@@ -460,6 +462,8 @@ Mientras se preparan para la caza, puedes meter algún encuentro con el Cripi. A
 Así que puedes hacer un par de encuentros en la puerta del cole a la entrada o la salida. No las va encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.
 
 ### La primera caza
+
+_NOCHE_
 
 > Personalmente como DJ, sea como sea, saquen las tiradas que saquen y hagan lo que hagan, esta primera caza debería ser un éxito. Puede que sea chapucera o una genialidad, pero deberían acabar la caza triunfando sobre el mal, con valiosa información y con un poderoso enemigo derrotado o un aliado muy importante. Ya tendrán tiempo de meter la pata y fracasar. 
 

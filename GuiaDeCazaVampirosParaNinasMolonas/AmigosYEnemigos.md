@@ -101,18 +101,20 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
 
 XXX
 
+[![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
+
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
-  * **Complicación:** XXX
+  * **Complicación:** Demasiado estresada
+  * Jefe de operaciones del Grupo Ceballos
   * XXX
   * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Bueno Vigoroso (+2) 
 * **Proezas**
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
@@ -156,6 +158,8 @@ XXX
 
 Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus víctimas con su increíble belleza. XXX
 
+[![[COMMISSION] Cheelu By aeeriz](./assests/images/_commission__cheelu_by_aeeriz_de1pgfp-414w-2x.jpg "[COMMISSION] Cheelu By aeeriz")](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781 "[COMMISSION] Cheelu By aeeriz")
+
 Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que decora su guarida.
 
 XXX
@@ -166,7 +170,7 @@ XXX
   * Mirada hipnótica
   * XXX
   * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo Enorme (+4), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * XXX
   * XXX
@@ -196,17 +200,15 @@ Covadonga, a diferencia de sus compañeros vampiros, se quedó estancada en los 
 
 Fue creada también por Lord Guzmán y por eso Ceballos la considera una especie de hermana de sangre. Ese sentimiento fraternal, junto a la ayuda que le presto cuando eran jóvenes, hacen que Lord Ceballos la haya mantenido a su lado, a pesar de que con sus problemas para adaptarse a los tiempos suponga más una debilidad que una ventaja.   
 
-Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos. Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros. 
-
-XXX
+Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos. Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros.
 
 * **Aspectos**
-  * **Concepto principal:** XXX
+  * **Concepto principal:** Antigua lugarteniente vampira de Lord Ceballos
   * **Complicación:** Anclada en 1920
   * Pensamiento fuera de la caja
+  * Los viejos métodos son los mejores
   * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido Enorme (+4), Vigoroso Enorme (+4)
 
 \sp
 
@@ -214,7 +216,7 @@ XXX
   * XXX
   * XXX
   * XXX
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
