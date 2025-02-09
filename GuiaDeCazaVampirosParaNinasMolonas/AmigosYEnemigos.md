@@ -103,6 +103,10 @@ XXX
 
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
 
+Como Jefa de operaciones de una gran corporación sufre bastante estrés. El estrés en los vampiros no funciona igual que en los humanos, ya que la parte física no se ve muy afectada por el estrés. Sus cuerpos ya están muertos y no sufren muchos cambios. Así que el efecto en su psique es el doble de grave. 
+
+De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tonterías, pero se ha dejado a veces a víctimas vivas o muertas en el capó del coche durante horas y días.
+
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
   * **Complicación:** Demasiado estresada
@@ -119,7 +123,7 @@ XXX
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Bajo tu apariencia profesional y empresarial moderna, escondes un manojo de nervios y estrés acumulado. Deja de hablar durante un par de segundos mirando al infinito, muerdete las puntas de los dedos hasta «hacerte sangre» sin darte cuenta, enseña los colmillos sin razón o rascate picores que no existen. 
 
 \sp
 
@@ -128,6 +132,10 @@ XXX
 ### Tito
 
 \conc
+
+XXX
+
+[![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
 
 XXX
 
