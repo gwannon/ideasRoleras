@@ -158,7 +158,7 @@ XXX
 
 ### La casa de las «Chejas»
 
-* **Aspectos visibles:** Aislado, Ruinoso
+* **Aspectos visibles:** Aislada, Ruinosa
 * **Aspectos ocultos:** XXX, XXX
 \conc
 
