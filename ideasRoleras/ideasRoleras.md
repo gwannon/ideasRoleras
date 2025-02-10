@@ -427,6 +427,12 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \conc
 
+### Arturo Vs. Cthulhu
+
+XXX
+
+Idea a partir de basado en un toot de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
+
 ### Rockeros
 
 XXX
