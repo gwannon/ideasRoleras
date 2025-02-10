@@ -150,4 +150,24 @@ Las únicas entradas son la puerta principal y otra por detrás que da al almac�
 
 XXX
 
+\sinc
+
+&nbsp;
+
+[![Foto de casa de campo en las ruinas de Gurvan Rolland](./assests/images/pexels-gurvan-rolland-2297267-6997250.jpg "Foto de casa de campo en las ruinas de Gurvan  Rolland")](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm "Foto de casa de campo en las ruinas de Gurvan  Rolland")
+
+### La casa de las «Chejas»
+
+* **Aspectos visibles:** XXX, XXX
+* **Aspectos ocultos:** XXX, XXX
+\conc
+
+La casa de las «Chejas» es una antigua y ruinosa casa que hay en los humedales y que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas».
+
+XXX
+
+\sp
+
+También puede ser usada como una guarida secreta por tus cazadoras, aunque siendo sinceras, atravesar medio kilómetro de un camino de tierra muchas veces embarrado no la hace muy atrayente.
+
 \sp

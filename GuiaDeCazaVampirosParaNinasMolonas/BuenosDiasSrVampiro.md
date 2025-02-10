@@ -514,6 +514,16 @@ XXX
 ### Subiendo a un nivel superior del plan
 
 XXX
+
+### Para despistar
+
+XXX
+
+#### La casa de las «Chejas»
+
+La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas».
+
+XXX
  
 \sp
 

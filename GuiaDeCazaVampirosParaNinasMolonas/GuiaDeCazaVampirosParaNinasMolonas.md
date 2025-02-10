@@ -166,6 +166,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Joaquina Maya, Clan Ravnos By [IvanValladares](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * [COMMISSION] Cheelu By [aeeriz](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+* Foto de casa de campo en las ruinas de [Gurvan Rolland](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm)
 
 \sp
 
