@@ -4,14 +4,6 @@
 
 Aquí tienes las bíos de los personajes principales de la aventura para que puedas consultarlos cuando lo necesites.
 
-\conc
-
-XXX
-
-\sp
-
-\sinc
-
 ### Lord Ceballos
 
 \conc
@@ -40,9 +32,9 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
-
 \sp
+
+**Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
 
 \sinc
 
@@ -62,6 +54,8 @@ Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bast
 
 Nuestro vampire en principio no tiene ningún tipo de escrúpulos morales o ético y solo piensa en sí mismo y su supervivencia por lo que solo mira por su interés sin importar quien caiga. De hecho eso es lo que vio Lord Ceballos en elle cuando lo convirtió. Pero hay cosas en las que puede olvidarse de sí mismo y pensar en los demás. No soportará abusos y ataques al colectivo LGTBIQ+, tomándoselo con algo personal e incluso puede que establezca lazos emocionales y de amistad con alguna cazadora del colectivo que vayan más allá de la simple utilidad que puedan tener en sus planes. 
 
+\sp
+
 Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele llevar bien con la gente con calle, con buscavidas como elle y puede que incluso llegue a ofrecer a esos PJ convertirles en vampiro y apoderarse juntos de la ciudad.
 
 * **Aspectos**
@@ -70,9 +64,6 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
   * Fiestero empedernido
   * Abiertamente del colectivo
   * .................................................................................
-
-\sp
-
 * **Estilos:** Cauto Mediocre (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Grande (+3), Rápido Bueno (+2), Vigoroso Normal (+1) 
 * **Proezas**
   * **Dar coba:** Debido a que es un adulador nato y sabe regalarte los oídos, gana un +2 para Crear una ventaja de modo Llamativo cuando trata de seducir a humanos.
@@ -89,13 +80,17 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
 
 > Alfonse seguramente será le vampire con el que más se van a relacionar, tanto en combates y persecuciones, como puede que algunos tratos y planes suicidas. Si sobrevive a sus primeros encuentros y no acaba convertido en un montón cenizas es importante que Alfonse vaya _subiendo de nivel_ con tus cazadoras. De hecho, tiene espacios vacíos para rellenarlos según interactúe con tus jugadoras. Además, deberías subirle los mismos hitos que a tus PJ, principalmente, para que no se quede atrás y pueda ser une digne rivale o une socie competente.
 
+\conc
+
+\sp
+
+\sinc
+
 ### Nieve
 
 \conc
 
 XXX
-
-\sp
 
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
 
@@ -235,15 +230,23 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 
 \conc
 
+Néstor es el hombre del saco, ni sus propios compañeros chupasangres quieren estar a su lado. El aura de maldad y de crueldad que emite incomoda incluso a sus propios sirvientes y a su amo Lord Ceballos. XXX
+
+XXX
+
+Néstor es un pederasta que disfruta primero atemorizando, luego torturando y violando a sus víctimas infantiles, para al final acabar con sus vidas drenándoles toda la sangre. Tiene una mazmorra donde pone en práctica todo este ritual sádico y macabro.
+
+[![Ondolemar doodle By Elleylie](./assests/images/ondolemar_doodle_by_elleylie_d83zx4p-pre.jpg "Ondolemar doodle By Elleylie")](https://www.deviantart.com/elleylie/art/Ondolemar-doodle-490444153 "Ondolemar doodle By Elleylie")
+
 XXX
 
 * **Aspectos**
-  * **Concepto principal:** XXX
+  * **Concepto principal:** Fiel siervo vampiro
   * **Complicación:** Pederasta
   * Ningún tipo de escrúpulos
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+  * Disfruta del miedo de sus víctimas
+  * Hombre del saco
+* **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso Enorme (+4)
 * **Proezas**
   * XXX
   * XXX
@@ -254,6 +257,16 @@ XXX
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** XXX
+
+\sp
+
+\sinc
+
+```
+AVISO: Néstor es eln personaje más extremo de toda esta aventura y debes decidir si tu mesa a va estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus victimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
+```
+
+\conc
 
 \sp
 
@@ -295,8 +308,6 @@ En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el
 
 **Sugerencia de interpretación:** No dejes de sonreír ni en las peores situaciones, porque ya has estado en cosas parecidas y has salido viva. Lo tuyo es el instinto y las decisiones rápidas, antes incluso de que lo hayas pensado ya estás actuando, quizás golpeando un antidisturbios o cantándole la internacional a la cara al nazi que intenta amedrentarte con un bate.
 
-\sp
-
 \sinc
 
 ### XXX
@@ -319,6 +330,7 @@ XXX
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** XXX
 
