@@ -34,8 +34,6 @@ XXX
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
-\sp
-
 Si juegas con este suplemento y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
 
 ## Atribuciones
@@ -44,16 +42,17 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * Hojas interiores por [aopsan](https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm)
 * Textura de portada y contraportada de [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up)
-* Frasco portada por [Freepik](https://www.freepik.com/icon/bottle_12791107)
+* Frasco de portada por [Freepik](https://www.freepik.com/icon/bottle_12791107)
 * Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
 * Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
+
+\sp
+
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 
 ## Agradecimientos
 
-* XXX
-
-\sp
+* A [Gremio Astral](https://www.youtube.com/channel/UCXxra7C7ZpZgcJ0_2w_YnJA) por probar el juego original y ponerlo en su canal.
 
 ## Otros proyectos que te pueden interesar
 
