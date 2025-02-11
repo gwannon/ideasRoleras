@@ -4,6 +4,14 @@
 
 XXX
 
+### Resumen del caso
+
+XXX
+
+### Introducción al caso
+
+XXX
+
 ### T.J. Cobden-Sanderson
 
 XXX

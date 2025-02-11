@@ -36,13 +36,13 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 
 ## Tono e inspiración de las aventuras
 
-XXX
-
 Las inspiraciones para los diferentes casos son bastante dispares, pero creo que merece la pena comentarlas.
 
-* **«El extraño caso de la vendedora de flores desaparecida»** la trama general es el musical My Fair Lady con el giro de que Eliza Doolittle desarrolla una doble personalidad al ser maltratada por su padre y el profesor Henry Higgins. Lo divertido de este caso es que igual que Jekyll y Hyde tiene doble personalidad y eso puede permitir escenas muy divertidas.
+* **«El extraño caso de la violetera secuestrada»** la trama general es el musical My Fair Lady con el giro de que Eliza Doolittle desarrolla una doble personalidad al ser maltratada por su padre y el profesor Henry Higgins. Lo divertido de este caso es que igual que Jekyll y Hyde tiene doble personalidad y eso puede permitir escenas muy divertidas.
 * La fuente de inspiración de **«El extraño caso del afluente del Támesis desaparecido»** me vino con el libro «Los ríos de Londres» de Ben Aaronovitch donde te hablan de los afluentes perdidos del río Támesis que han ido desapareciendo o siendo soterrados según ha crecido la ciudad. 
 * **«El extraño caso del robo de la fuente tipográfica»** se basa en esta [curiosa noticia](https://www.thisiscolossal.com/2024/05/doves-type/) sobre un impresor de libros que hizo desaparecer la fuente que usaba en su imprenta y que años más tarde fue encontrada por un «mudlarking», personas dedicadas a la arqueología que buscan objetos antiguos en el lodo de las riberas del Támesis.
+
+En cuanto al tono siguen siendo historias «pulp», pero mientras que las anteriores tenían cierto toque «Ciencia extraña», estas he preferido quitarles este elemento. Siguen siendo cosas extrañas, pero sin tener que recurrir a fórmulas milagrosas y a inventos increíbles.
 
 \sp
 
@@ -94,7 +94,7 @@ Aventuras de horror cósmico en los cuentos de las Mil y Una Noches
 
 Este suplemento para «Doctor Jekyll y Mister Hyde: Investigadores privados» trae 3 nuevos casos llenos de misterio y acción para que tu mesa siga disfrutando de las aventuras de esta extraña pareja.
 
-* El extraño caso de la vendedora de flores desaparecida
+* El extraño caso de la violetera secuestrada
 * El extraño caso del afluente del Támesis desaparecido
 * El extraño caso del robo de la fuente tipográfica
 

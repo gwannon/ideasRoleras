@@ -1,12 +1,26 @@
-## El extraño caso de la vendedora de flores desaparecida
+## El extraño caso de la violetera secuestrada
 
 > XXX
+
+XXX
+
+### Resumen del caso
+
+XXX
+
+### Introducción al caso
+
+XXX
+
+### Yo a las cabañas bajé, yo a los palacios subí, ...
 
 XXX
 
 ### Lisa Doosmall
 
 XXX
+
+\sp
 
 #### La barriobajera
 
@@ -23,9 +37,6 @@ XXX
   * **XXX:** XXX
   * **XXX:** XXX
 * **Capacidad de recuperación:** 3
-
-\sp
-
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 

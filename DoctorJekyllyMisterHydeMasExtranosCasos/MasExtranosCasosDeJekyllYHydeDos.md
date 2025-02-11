@@ -3,3 +3,11 @@
 > XXX
 
 XXX
+
+### Resumen del caso
+
+XXX
+
+### Introducción al caso
+
+XXX
