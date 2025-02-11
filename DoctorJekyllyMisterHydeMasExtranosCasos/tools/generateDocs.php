@@ -111,7 +111,7 @@ echo "Indice ".count($json)." items\n";
 /* -------------------------------------------------------------- */
 $indice = "";
 foreach ($json as $item) {
-  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
+  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2', 'H3'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
 }
 
 $html = str_replace("|INDICE|", $indice, $html);

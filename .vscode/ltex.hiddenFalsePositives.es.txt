@@ -29,3 +29,4 @@
 {"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QEn la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QEn la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error.\\E$"}
 {"rule":"SPACE_UNITIES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi juegas con este suplemento y tienes ideas y posibles mejoras, también puedes enviármelas.\\E$"}

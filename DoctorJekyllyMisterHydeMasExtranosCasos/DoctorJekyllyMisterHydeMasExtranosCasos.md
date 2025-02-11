@@ -6,7 +6,7 @@ XXX
 
 # Más extraños casos de Hyde & Jekyll
 
-Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a 
+Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a XXX
 
 No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gusten.
 
@@ -39,7 +39,7 @@ Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, 
 Las inspiraciones para los diferentes casos son bastante dispares, pero creo que merece la pena comentarlas.
 
 * **«El extraño caso de la violetera secuestrada»** la trama general es el musical My Fair Lady con el giro de que Eliza Doolittle desarrolla una doble personalidad al ser maltratada por su padre y el profesor Henry Higgins. Lo divertido de este caso es que igual que Jekyll y Hyde tiene doble personalidad y eso puede permitir escenas muy divertidas.
-* La fuente de inspiración de **«El extraño caso del afluente del Támesis desaparecido»** me vino con el libro «Los ríos de Londres» de Ben Aaronovitch donde te hablan de los afluentes perdidos del río Támesis que han ido desapareciendo o siendo soterrados según ha crecido la ciudad. 
+* La fuente de inspiración de **«El extraño caso del afluente del Támesis desaparecido»** me vino con el libro «Los ríos de Londres» de Ben Aaronovitch donde te hablan de los [afluentes perdidos](https://en.wikipedia.org/wiki/Subterranean_rivers_of_London) del río Támesis que han ido desapareciendo o siendo soterrados según ha crecido la ciudad. 
 * **«El extraño caso del robo de la fuente tipográfica»** se basa en esta [curiosa noticia](https://www.thisiscolossal.com/2024/05/doves-type/) sobre un impresor de libros que hizo desaparecer la fuente que usaba en su imprenta y que años más tarde fue encontrada por un «mudlarking», personas dedicadas a la arqueología que buscan objetos antiguos en el lodo de las riberas del Támesis.
 
 En cuanto al tono siguen siendo historias «pulp», pero mientras que las anteriores tenían cierto toque «Ciencia extraña», estas he preferido quitarles este elemento. Siguen siendo cosas extrañas, pero sin tener que recurrir a fórmulas milagrosas y a inventos increíbles.
@@ -62,6 +62,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
 * Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+* Winter’s Night by [William Hole](https://www.oldbookillustrations.com/illustrations/winters-night/)
 
 ## Agradecimientos
 
@@ -71,7 +72,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 ## Otros proyectos que te pueden interesar
 
-Si os ha gustado este suplemento podéis probar otros de mis proyectos para SavageWorlds. Animaros y dadles un poco de cariño.
+Si os ha gustado este suplemento podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
 
 
 **[OPERACIÓN: Tras el mundo perdido](https://mundoperdido.gwannon.com/pdf/)**
