@@ -41,7 +41,7 @@ XXX
 Las inspiraciones para los diferentes casos son bastante dispares, pero creo que merece la pena comentarlas.
 
 * **«El extraño caso de la vendedora de flores desaparecida»** la trama general es el musical My Fair Lady con el giro de que Eliza Doolittle desarrolla una doble personalidad al ser maltratada por su padre y el profesor Henry Higgins. Lo divertido de este caso es que igual que Jekyll y Hyde tiene doble personalidad y eso puede permitir escenas muy divertidas.
-* La fuente de inspiración de **«El extraño caso del afluente desaparecido»** me vino con el libro «Los ríos de Londres» de Ben Aaronovitch donde te hablan de los afluentes desaparecidos del río Támesis que han ido desapareciendo según ha crecido la ciudad. 
+* La fuente de inspiración de **«El extraño caso del afluente del Támesis desaparecido»** me vino con el libro «Los ríos de Londres» de Ben Aaronovitch donde te hablan de los afluentes perdidos del río Támesis que han ido desapareciendo o siendo soterrados según ha crecido la ciudad. 
 * **«El extraño caso del robo de la fuente tipográfica»** se basa en esta [curiosa noticia](https://www.thisiscolossal.com/2024/05/doves-type/) sobre un impresor de libros que hizo desaparecer la fuente que usaba en su imprenta y que años más tarde fue encontrada por un «mudlarking», personas dedicadas a la arqueología que buscan objetos antiguos en el lodo de las riberas del Támesis.
 
 \sp
@@ -73,7 +73,18 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 Si os ha gustado este suplemento podéis probar otros de mis proyectos para SavageWorlds. Animaros y dadles un poco de cariño.
 
-XXX
+
+**[OPERACIÓN: Tras el mundo perdido](https://mundoperdido.gwannon.com/pdf/)**
+
+Una campaña donde lucharás contra nazis a lomos de dinosaurios.
+
+**[¡Arrr! Cthulhu](https://arrrcthulhu.com/pdf/)**
+
+Aventuras de piratas en el Caribe de los Mitos de Cthulhu.
+
+**[Mil y Un Ghūles](https://1001ghules.gwannon.com/pdf/)**
+
+Aventuras de horror cósmico en los cuentos de las Mil y Una Noches
 
 ***
 
@@ -84,7 +95,7 @@ XXX
 Este suplemento para «Doctor Jekyll y Mister Hyde: Investigadores privados» trae 3 nuevos casos llenos de misterio y acción para que tu mesa siga disfrutando de las aventuras de esta extraña pareja.
 
 * El extraño caso de la vendedora de flores desaparecida
-* El extraño caso del afluente desaparecido
+* El extraño caso del afluente del Támesis desaparecido
 * El extraño caso del robo de la fuente tipográfica
 
 Creado por [Gwannon](https://linktr.ee/gwannon)

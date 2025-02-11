@@ -1,4 +1,4 @@
-## El El extraño caso del afluente desaparecido
+## El extraño caso del afluente del Támesis desaparecido
 
 > XXX
 
