@@ -44,7 +44,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * Hojas interiores por [aopsan](https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm)
 * Textura de portada y contraportada de [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up)
-* Lupa portada por [juicy_fish](https://www.freepik.com/free-vector/magnifying-glasses-outline-style_255854102.htm)
+* Frasco portada por [Freepik](https://www.freepik.com/icon/bottle_12791107)
 * Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
 * Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
