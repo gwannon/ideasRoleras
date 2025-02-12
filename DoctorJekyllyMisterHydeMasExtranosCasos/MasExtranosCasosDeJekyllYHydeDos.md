@@ -21,3 +21,43 @@ Toda el agua sobrante la está enviando a la red de alcantarillado que termina e
 XXX
 
 Scotland Yard le ha dicho que ellos no se encargan de desapariciones de ríos y que vaya a preguntar a alguien de la Universidad de Oxford que sepa de esas cosas.
+
+##  Lord James Winthle
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * El más rico terrateniente de Hampstead
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Proezas**
+  * **XXX:** XXX
+  * **XXX:** XXX
+  * **XXX:** XXX
+* **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
+\sp
+
+## Alexia, la vieja bruja del pozo
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * El más rico terrateniente de Hampstead
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Proezas**
+  * **XXX:** XXX
+  * **XXX:** XXX
+  * **XXX:** XXX
+* **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6

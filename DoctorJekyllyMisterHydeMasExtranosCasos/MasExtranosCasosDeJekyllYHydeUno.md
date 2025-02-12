@@ -84,6 +84,7 @@ XXX
   * **Complicación:** XXX
   * XXX
   * XXX
+  * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
   * **XXX:** XXX
@@ -102,6 +103,7 @@ XXX
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** XXX
+  * XXX
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)

@@ -14,7 +14,7 @@ La Casa de la Moneda ha comprado a los herederos del impresor milanés todos los
 
 \sp
 
-Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera leyendo un tratado de biología de un tal Charles Darwin cuando le trajeron una prueba de impresión de los nuevos billetes franceses y vio que usaban exactamente la misma tipo de letra.
+Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera leyendo un tratado de biología de un tal Charles Darwin cuando le trajeron una prueba de impresión de los nuevos billetes franceses y vio que usaban exactamente el mismo tipo de letra.
 
 XXX
 
@@ -23,6 +23,22 @@ XXX
 ## Introducción al caso
 
 XXX
+
+## En la escena del robo
+
+XXX
+
+## Buscando pistas
+
+Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
+
+Si se ponen a indagar entre las imprentas de Londres verán que no parece que hubiera mucho interesado en esa tipografía. Cada taller usa sus propias tipografías y usar las de otros impresores sería delatarse.
+
+Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor pero no tanto. 
+
+XXX
+
+\sp
 
 ## Walt «Tinta China» Sherwood
 
@@ -33,7 +49,8 @@ XXX
   * **Complicación:** Perfeccionista hasta la obsesión
   * XXX
   * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+  * XXX
+* **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX
