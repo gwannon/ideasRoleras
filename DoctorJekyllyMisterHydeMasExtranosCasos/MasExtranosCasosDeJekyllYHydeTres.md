@@ -28,6 +28,8 @@ XXX
 
 XXX
 
+\sp
+
 ## Buscando pistas
 
 Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
@@ -37,8 +39,6 @@ Si se ponen a indagar entre las imprentas de Londres verán que no parece que hu
 Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor pero no tanto. 
 
 XXX
-
-\sp
 
 ## Walt «Tinta China» Sherwood
 
@@ -51,6 +51,9 @@ XXX
   * XXX
   * XXX
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
+
+\sp
+
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX

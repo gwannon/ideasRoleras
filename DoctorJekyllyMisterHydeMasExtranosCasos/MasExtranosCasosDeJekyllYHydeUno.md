@@ -71,6 +71,12 @@ La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y e
 
 XXX
 
+## Aparecen Newcomen
+
+El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
+
+XXX
+
 ## Lisa Doosmall
 
 XXX
@@ -86,6 +92,9 @@ XXX
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+
+\sp
+
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX
@@ -93,8 +102,6 @@ XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
-
-\sp
 
 ### Elsa, la dama de alta sociedad
 

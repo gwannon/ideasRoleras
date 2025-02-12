@@ -18,9 +18,29 @@ Toda el agua sobrante la está enviando a la red de alcantarillado que termina e
 
 ## Introducción al caso
 
+Gabriel XXX y Thomas Mundorf, alcalde de distrito de Hampstead y compañero del ejercito del padre de Gabriel, se presentan en la agencia con un nuevo caso.
+
+XXX
+
+[![Bridge at Midnight by Myles Birket Foster](./assests/images/bridge-midnight-768.png "Bridge at Midnight by Myles Birket Foster")](https://www.oldbookillustrations.com/illustrations/bridge-midnight/ "Bridge at Midnight by Myles Birket Foster")
+
+Gabriel siempre ha sido un apasionado del derecho inmobiliario y, aunque no es su especialidad quiere participar en la investigación.
+
+No es un hombre de acción, pero que demonios iba a pasar en un caso como este, que empape de agua y barro sus nuevos zapatos.
+
 XXX
 
 Scotland Yard le ha dicho que ellos no se encargan de desapariciones de ríos y que vaya a preguntar a alguien de la Universidad de Oxford que sepa de esas cosas.
+
+\sp
+
+## El pozo del pastor
+
+XXX
+
+### El sistema de cavernas
+
+XXX
 
 ##  Lord James Winthle
 
@@ -41,19 +61,25 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-\sp
-
 ## Alexia, la vieja bruja del pozo
 
 XXX
 
+Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y si madre antes que ella y su abuela y su tatarabuela, así quizás hasta tiempos de los romanos.
+
+\sp
+
+La familia de Alexia lleva adorando dios del río desde tiempos ancestrales siguiendo unas tradiciones animistas de las que ella es la última superviviente.
+
+Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad científica, seguramente que se reúnan donaciones para poder arreglar su casa y registrar sus historias para algún estudio histórico de Inglaterra.
+
 * **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
-  * El más rico terrateniente de Hampstead
+  * **Concepto principal:** Vieja bruja del río
+  * **Complicación:** Empieza a estar senil
   * XXX
   * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso XXX (-1)
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX
