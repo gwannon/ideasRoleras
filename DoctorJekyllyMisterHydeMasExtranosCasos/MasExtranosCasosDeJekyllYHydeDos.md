@@ -38,36 +38,11 @@ Scotland Yard le ha dicho que ellos no se encargan de desapariciones de ríos y 
 
 XXX
 
-### El sistema de cavernas
-
-XXX
-
-##  Lord James Winthle
-
-XXX
-
-* **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
-  * El más rico terrateniente de Hampstead
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
-* **Proezas**
-  * **XXX:** XXX
-  * **XXX:** XXX
-  * **XXX:** XXX
-* **Capacidad de recuperación:** 3
-* **Estrés:** 1 | 2 | 3
-* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
-
-## Alexia, la vieja bruja del pozo
+### Alexia, la vieja bruja del pozo
 
 XXX
 
 Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y si madre antes que ella y su abuela y su tatarabuela, así quizás hasta tiempos de los romanos.
-
-\sp
 
 La familia de Alexia lleva adorando dios del río desde tiempos ancestrales siguiendo unas tradiciones animistas de las que ella es la última superviviente.
 
@@ -76,10 +51,39 @@ Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad cientí
 * **Aspectos**
   * **Concepto principal:** Vieja bruja del río
   * **Complicación:** Empieza a estar senil
-  * XXX
+  * Conoce el río como la palma de su mano
   * XXX
   * XXX
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso XXX (-1)
+* **Proezas**
+  * **XXX:** XXX
+  * **XXX:** XXX
+  * **XXX:** XXX
+* **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
+\sp
+
+### El sistema de cavernas
+
+XXX
+
+## La hacienda Winthle
+
+XXX
+
+###  Lord James Winthle
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** Aporofóbico (odio a los pobres)
+  * El más rico terrateniente de Hampstead
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX

@@ -16,7 +16,7 @@ Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera 
 
 \sp
 
-Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose todos los tipos móviles de la Vindica y ahora mismo está imprimiendo billetes de 20 francos franceses falsos muy difíciles de detectar a toda máquina en su guarida en el sótano de una taberna de XXX.
+Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose todos los tipos móviles de la Vindica y ahora mismo está imprimiendo billetes de 20 francos franceses falsos muy difíciles de detectar a toda máquina en su guarida en el sótano de una taberna del East End.
 
 Si todo sale bien este puede ser el golpe de su vida y vivir él y su banda como marqueses en una mansión en la costa.
 
@@ -34,7 +34,7 @@ XXX
 
 Cómo no es de extrañar cuando lleguen al taller estará el inspector Newcomen. Está interrogando a los trabajadores, está convencido que alguno de ellos es el ladrón.
 
-No hay mucho que investigar, la puerta fue abierta con una palanca y entraron, se llevaron las cajas de madera con los tipos de la Vindica y no se llevaron nada más. Las dos cajas con todas las letras mayúsculas, minúsculas, números y signos ortográficos son de plomo y pesan unos 100 kilos.
+No hay mucho que investigar, la puerta fue abierta con una palanca y los ladrones entraron, se llevaron las cajas de madera con los tipos de la Vindica y no se llevaron nada más. Las dos cajas con todas las letras mayúsculas, minúsculas, números y signos ortográficos son de plomo y pesan unos 100 kilos.
 
 Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un papel sobre el que han hecho pruebas a mano de las piezas de la Vindica. Al robar las piezas, los ladrones escribieron «Francs» para ver si se parecía a la prueba de impresión del billete. 
 
@@ -49,6 +49,12 @@ Si se ponen a indagar entre las imprentas de Londres verán que no parece que hu
 \sp
 
 Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor pero no tanto. 
+
+Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quien querría robarla y sobre todo por qué. Las opciones pueden ser:
+
+* Falsificadores
+* Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandsticos.
+* XXX
 
 XXX
 

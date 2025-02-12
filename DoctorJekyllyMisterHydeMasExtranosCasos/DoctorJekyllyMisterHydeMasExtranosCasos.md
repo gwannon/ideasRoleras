@@ -1,8 +1,8 @@
 # Doctor Jekyll y Mister Hyde: Más extraños casos
 
-> Los extraños casos de los que hablan prensa amarilla de Londres han convertido a Jekyll y Hyde en la sensación de la temporada y todos los días aparece gente por su oficina buscando su ayuda para resolver algún asesinato, encontrar un objeto familiar robado o perdido, hallar a una persona desaparecida, ... y Jekyll y Hyde nunca se niegan a intentar resolverlos.
+> Los extraños casos de los que hablan prensa amarilla de Londres han convertido a Jekyll y Hyde en la sensación de la temporada y todos los días aparece gente por su oficina buscando su ayuda para resolver algún asesinato, encontrar un objeto familiar robado o perdido, hallar a una persona desaparecida, … y Jekyll y Hyde nunca se niegan a intentar resolverlos.
 
-Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos. En sus aventuras se moverán desde las altas instancias sociales con bailes de sociedad a visitar los antros más peligrosos de Londres.
+Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos. En sus aventuras se moverán desde las altas instancias sociales teniendo que asistir a fastuosos bailes de sociedad a visitar los antros más peligrosos de Londres de donde tendrán que escapar como puedan.
 
 No hay un orden concreto para jugar estos 3 nuevos casos. Puedes jugarlos en el orden que prefieras, pero quizás debieras primero jugar las aventuras del libro básico para que tus personajes puedan enfrentarse a los nuevos retos que suponen todos estos nuevos misterios.
 
@@ -61,6 +61,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * Winter’s Night by [William Hole](https://www.oldbookillustrations.com/illustrations/winters-night/)
+* Bridge at Midnight by [Myles Birket Foster](https://www.oldbookillustrations.com/illustrations/bridge-midnight/)
+* Hand-Blocking Wallpaper by [Jules Férat](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/)
 
 ## Agradecimientos
 
