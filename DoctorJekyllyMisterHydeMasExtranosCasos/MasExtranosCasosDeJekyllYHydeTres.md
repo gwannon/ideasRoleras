@@ -12,29 +12,41 @@ Además, al estar tan destrozada por el uso le da imperfecciones únicas que la 
 
 La Casa de la Moneda ha comprado a los herederos del impresor milanés todos los tipos móviles que tenía sin saber que había una parte que se vendió a una imprenta inglesa, Cobden-Sanderson Printing Workshop.
 
-\sp
-
 Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera leyendo un tratado de biología de un tal Charles Darwin cuando le trajeron una prueba de impresión de los nuevos billetes franceses y vio que usaban exactamente el mismo tipo de letra.
 
-XXX
+\sp
+
+Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose todos los tipos móviles de la Vindica y ahora mismo está imprimiendo billetes de 20 francos franceses falsos muy difíciles de detectar a toda máquina en su guarida en el sótano de una taberna de XXX.
+
+Si todo sale bien este puede ser el golpe de su vida y vivir él y su banda como marqueses en una mansión en la costa.
 
 [![Hand-Blocking Wallpaper by Jules Férat](./assests/images/hand-block-wallpaper-864.png "Hand-Blocking Wallpaper by Jules Férat")](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/ "Hand-Blocking Wallpaper by Jules Férat")
 
 ## Introducción al caso
 
+Tiberius Fox, propietario de la Cobden-Sanderson Printing Workshop, acude a la agencia Hyde & Jekyll. Hace unos días le robaron en su taller todas las piezas de una de sus colecciones de tipografías, la Vindica. No es un gran robo a nivel monetario, pero es un viejo con sus manías y desea recuperarla.
+
+\sp
+
 XXX
 
 ## En la escena del robo
 
-XXX
+Cómo no es de extrañar cuando lleguen al taller estará el inspector Newcomen. Está interrogando a los trabajadores, está convencido que alguno de ellos es el ladrón.
 
-\sp
+No hay mucho que investigar, la puerta fue abierta con una palanca y entraron, se llevaron las cajas de madera con los tipos de la Vindica y no se llevaron nada más. Las dos cajas con todas las letras mayúsculas, minúsculas, números y signos ortográficos son de plomo y pesan unos 100 kilos.
+
+Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un papel sobre el que han hecho pruebas a mano de las piezas de la Vindica. Al robar las piezas, los ladrones escribieron «Francs» para ver si se parecía a la prueba de impresión del billete. 
+
+XXX
 
 ## Buscando pistas
 
 Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
 
 Si se ponen a indagar entre las imprentas de Londres verán que no parece que hubiera mucho interesado en esa tipografía. Cada taller usa sus propias tipografías y usar las de otros impresores sería delatarse.
+
+\sp
 
 Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor pero no tanto. 
 
@@ -51,9 +63,6 @@ XXX
   * XXX
   * XXX
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
-
-\sp
-
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX

@@ -18,7 +18,7 @@ Toda el agua sobrante la está enviando a la red de alcantarillado que termina e
 
 ## Introducción al caso
 
-Gabriel XXX y Thomas Mundorf, alcalde de distrito de Hampstead y compañero del ejercito del padre de Gabriel, se presentan en la agencia con un nuevo caso.
+Gabriel Utterson y Thomas Mundorf, alcalde de distrito de Hampstead y compañero del ejército del padre de Gabriel, se presentan en la agencia con un nuevo caso.
 
 XXX
 
@@ -26,7 +26,7 @@ XXX
 
 Gabriel siempre ha sido un apasionado del derecho inmobiliario y, aunque no es su especialidad quiere participar en la investigación.
 
-No es un hombre de acción, pero que demonios iba a pasar en un caso como este, que empape de agua y barro sus nuevos zapatos.
+No es un hombre de acción, pero qué demonios iba a pasar en un caso como este, que empape de agua y barro sus nuevos zapatos.
 
 XXX
 
