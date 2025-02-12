@@ -1,8 +1,8 @@
-## El extraño caso del afluente del Támesis desaparecido
+# El extraño caso del afluente del Támesis desaparecido
 
 > El río Tyburn está desapareciendo y el alcalde del burgo Hampstead, en el que nace y por el que discurre este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeño a pesar de estar en plena temporada de lluvias. Si no actúan con celeridad el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río.
 
-### Resumen del caso
+## Resumen del caso
 
 El Tyburn es un afluente del Támesis. Su curso medía unos 11 kilómetros, naciendo en South Hampstead (hoy una zona muy elegante del distrito de Camden). El río desembocaba en el Támesis en la zona de Pimlico, junto al puente de Vauxhall (construido en 1813).
 
@@ -12,11 +12,11 @@ Lord Winthle es el propietario más rico del Hampstead. Está harto de sus vecin
 
 Así que ha construido en sus terrenos un pozo en diagonal que llega al acuífero del Pozo del Pastor y está secándolo con unas bombas. Cuando el agua deje de fluir hacia el Tyburn, este se secará y las habitantes de las casas más pobres tendrán que vender sus casas por una miseria.
 
-Toda el agua sobrante la está enviando a la red de alcantarillado que termina en el Támesis, unos 3 kilómetros más arriba de la desembocadura del Tyburn.
-
 \sp
 
-### Introducción al caso
+Toda el agua sobrante la está enviando a la red de alcantarillado que termina en el Támesis, unos 3 kilómetros más arriba de la desembocadura del Tyburn.
+
+## Introducción al caso
 
 XXX
 

@@ -1,8 +1,8 @@
-## El extraño caso del robo de la fuente tipográfica
+# El extraño caso del robo de la fuente tipográfica
 
 > Un ladrón ha entrado en la imprenta Cobden-Jacobson y ha robado todos los tipos móviles de una antigua fuente que se usa en la imprenta para imprimir libros. Es algo valioso, pero había cosas más interesantes en el taller que la fuente y sobre todo más fáciles de llevarse, porque son miles de piezas de plomo que pueden llegar a pesar hasta unos 100 kilos.
 
-### Resumen del caso
+## Resumen del caso
 
 El tipo de fuente Vindica fue creada hace 200 años en Milán por un maestro impresor llamado Giuseppe Vindicani. Parte de esta fuente fue vendida a una imprenta de Londres que imprimía sobre todo libros científicos de poquísima tirada.
 
@@ -12,19 +12,19 @@ Además, al estar tan destrozada por el uso le da imperfecciones únicas que la 
 
 La Casa de la Moneda ha comprado a los herederos del impresor milanés todos los tipos móviles que tenía sin saber que había una parte que se vendió a una imprenta inglesa, Cobden-Sanderson Printing Workshop.
 
+\sp
+
 Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera leyendo un tratado de biología de un tal Charles Darwin cuando le trajeron una prueba de impresión de los nuevos billetes franceses y vio que usaban exactamente la misma tipo de letra.
 
 XXX
 
-\sp
-
 [![Hand-Blocking Wallpaper by Jules Férat](./assests/images/hand-block-wallpaper-864.png "Hand-Blocking Wallpaper by Jules Férat")](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/ "Hand-Blocking Wallpaper by Jules Férat")
 
-### Introducción al caso
+## Introducción al caso
 
 XXX
 
-### Walt «Tinta China» Sherwood
+## Walt «Tinta China» Sherwood
 
 XXX
 

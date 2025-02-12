@@ -1,14 +1,12 @@
 # Doctor Jekyll y Mister Hyde: Más extraños casos
 
-XXX
+> Los extraños casos de los que hablan prensa amarilla de Londres han convertido a Jekyll y Hyde en la sensación de la temporada y todos los días aparece gente por su oficina buscando su ayuda para resolver algún asesinato, encontrar un objeto familiar robado o perdido, hallar a una persona desaparecida, ... y Jekyll y Hyde nunca se niegan a intentar resolverlos.
+
+Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos. En sus aventuras se moverán desde las altas instancias sociales con bailes de sociedad a visitar los antros más peligrosos de Londres.
+
+No hay un orden concreto para jugar estos 3 nuevos casos. Puedes jugarlos en el orden que prefieras, pero quizás debieras primero jugar las aventuras del libro básico para que tus personajes puedan enfrentarse a los nuevos retos que suponen todos estos nuevos misterios.
 
 ***
-
-# Más extraños casos de Hyde & Jekyll
-
-Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a XXX
-
-No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gusten.
 
 |MasExtranosCasosDeJekyllYHydeUno.md|
 
@@ -22,7 +20,7 @@ No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gust
 
 \sp
 
-## ¿Cómo puedes continuar?
+# ¿Cómo puedes continuar?
 
 XXX
 
@@ -58,7 +56,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 * Hojas interiores por [aopsan](https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm)
 * Textura de portada y contraportada de [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up)
-* Frasco de portada por [Freepik](https://www.freepik.com/icon/bottle_12791107)
+* Frascos de portada por [macrovector](https://www.freepik.com/free-vector/chemistry-tools-hand-drawn-set_3886828.htm)
 * Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
 * Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
