@@ -16,7 +16,7 @@ Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera 
 
 \sp
 
-Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose todos los tipos móviles de la Vindica y ahora mismo está imprimiendo billetes de 20 francos franceses falsos muy difíciles de detectar a toda máquina en su guarida en el sótano de una taberna del East End.
+Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose todos los tipos móviles de la Vindica y ahora mismo está imprimiendo a toda máquina billetes de 20 francos franceses falsos muy difíciles de detectar en su guarida en el sótano de una taberna del East End.
 
 Si todo sale bien este puede ser el golpe de su vida y vivir él y su banda como marqueses en una mansión en la costa.
 
@@ -32,7 +32,7 @@ XXX
 
 ## En la escena del robo
 
-Cómo no es de extrañar cuando lleguen al taller estará el inspector Newcomen. Está interrogando a los trabajadores, está convencido que alguno de ellos es el ladrón.
+Cómo no es de extrañar cuando lleguen al taller estará el inspector Newcomen. Está interrogando a los trabajadores, está convencido que alguno de ellos es el ladrón y no para de molestarles en su trabajo.
 
 No hay mucho que investigar, la puerta fue abierta con una palanca y los ladrones entraron, se llevaron las cajas de madera con los tipos de la Vindica y no se llevaron nada más. Las dos cajas con todas las letras mayúsculas, minúsculas, números y signos ortográficos son de plomo y pesan unos 100 kilos.
 
@@ -53,24 +53,49 @@ Por lo que cuentan los maestros impresores, si las han robado, o las piezas esco
 Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quien querría robarla y sobre todo por qué. Las opciones pueden ser:
 
 * Falsificadores
-* Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandsticos.
+* Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandísticos.
 * XXX
 
 XXX
 
-## Walt «Tinta China» Sherwood
+Otra línea de investigación es que el tipo tenga algún secreto, así que deberían investigar el origen de las piezas móviles. Los archivos de la imprenta son un tremendo lío, pero con un poco de suerte (Normal +1) podrán encontrar una especie de factura de compra de la tipografía a Giuseppe Vindicani de Milán de hace unos 200 años cuando se abrió la imprenta.
 
 XXX
+
+## El East End de Londres
+
+XXX
+
+### Walt «Tinta China» Sherwood
+
+XXX
+
+\sp
+
+Walter, a pesar de sus orígenes humildes, consiguió tener una buena educación y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
+
+Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
 * **Aspectos**
   * **Concepto principal:** Experto falsificador de los barrios bajos de Londres
   * **Complicación:** Perfeccionista hasta la obsesión
-  * XXX
-  * XXX
-  * XXX
+  * Modales finos
+  * Curtido en las calles
+  * Muy buena vista
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX
   * **XXX:** XXX
 * **Capacidad de recuperación:** 3
+
+### La pandilla de «Tinta China»
+
+La pandilla de «Tinta China» es una mezcla de matones y trabajadores de imprenta. Trabajan imprimiendo las falsificaciones de Walter y si es necesario llenan un calcetín de piezas tipográficas de plomo y se lían a tortas con quien haga falta.
+
+\sp
+
+* Criminal de baja estofa
+* **Es Bueno (+2) en:** Trabajo pesado, Pelear
+* **Es Malo (-2) en:** Cultura, Negociar 
+* **Estrés:** ◯◯

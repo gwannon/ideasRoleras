@@ -46,7 +46,7 @@ Cuando llegan no se puede entrar en la notaría. Wilson, el armario empotrado qu
 
 * Policía gigante y tonto
 * **Es Bueno (+2) en:** Usar su gran cuerpo y fuerza, Cosas atléticas
-* **Es Malo(-2) en:** Usar su cerebro, Relacionarse con la gente
+* **Es Malo (-2) en:** Usar su cerebro, Relacionarse con la gente
 * **Estrés:** ◯◯
 
 Newcomen disfrutará desde dentro viendo los intentos de tus jugadores por entrar a la escena del crimen.
