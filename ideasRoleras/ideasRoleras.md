@@ -427,13 +427,6 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \conc
 
-
-### Rockeros
-
-XXX
-
-\sp
-
 ### Los caballeros de la mesa no-euclidiana
 
 No puede ser maña idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
@@ -446,10 +439,12 @@ Y si hay que vencer a un dragón, pues que mejor que la forma física de un lloi
 
 Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
 
-\sc
-
 ### Anarquistas
 
 Creo que a los amantes de la historia y del rol más narrativo les podría gustar una campaña basada en un grupo de anarquistas/sindicalista de finales del XIX y principios del XX.
 
 Tendría la acción y la intriga de los atentados a reyes y políticos y las huelgas y las peleas con rompehuelgas y el rollo interpretativo de largas discusiones políticas en un café y los discursos ante las masas obreras.
+
+### Rockeros
+
+XXX
