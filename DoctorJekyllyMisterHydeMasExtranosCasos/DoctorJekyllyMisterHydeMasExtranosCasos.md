@@ -6,6 +6,8 @@ Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfre
 
 No hay un orden concreto para jugar estos 3 nuevos casos. Puedes jugarlos en el orden que prefieras, pero quizás debieras primero jugar las aventuras del libro básico para que tus personajes puedan enfrentarse a los nuevos retos que suponen todos estos nuevos misterios.
 
+[![Hand drawn classic compass by rawpixel.com](./assests/images/15753.png "Hand drawn classic compass by rawpixel.com")](https://www.freepik.com/free-vector/hand-drawn-classic-compass_2782992.htm "Hand drawn classic compass by rawpixel.com")
+
 ***
 
 |MasExtranosCasosDeJekyllYHydeUno.md|
