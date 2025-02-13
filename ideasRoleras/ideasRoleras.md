@@ -42,10 +42,6 @@ Parece que hay algo en [City of Mist](https://cityofmist.co/blogs/news/cairo-neu
 
 \sp
 
-### Circunnavegación de un mundo medieval fantástico
-
-Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
-
 ### Conan VS. Cthulhu
 
 Hablamos de una hiboria como la describe Howard, pero con sectas de adoradores de Azatoth, hombres serpientes seguidores de Yig y unos héroes que buscan evitar que Cthulhu se levante de su prisión en la Atlántida.
@@ -96,9 +92,9 @@ Europa sería un sistema solar donde cada planeta es una potencia europea. El Ca
 
 Habría barcos con motores FTL y velas solares capaces de surcar el espacio. Combates navales, campos de asteroides y agujeros negros en vez de tormentas y ciclones, etc.
 
-\sp
-
 La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
+
+\sp
 
 ### Fábulas de Bill Willingham
 
@@ -126,7 +122,7 @@ Podemos jugar con varias opciones:
 
 ### Jungle book
 
-Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomorfizado.
+Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomorfizado. Uno llevaría un oso y otro una musaraña, el problema sería compensar las especies y que en las aventuras todos sean importantes.
 
 ### Mitología polinesia/hawaiana
 
@@ -153,13 +149,13 @@ Sería interesante jugar con personajes antiguos en alguna época interesante co
 
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
-\sp
-
 ### Pokedados
 
 Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
 
 Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución.
+
+\sp
 
 Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo, el tamaño del dado da su tamaño en el juego y el tipo de dado su nivel de evolución.
 
@@ -180,8 +176,6 @@ Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres 
 ### Ruta de la seda
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
-
-\sc
 
 ### Todos para Cthulhu y Cthulhu para todos
 
@@ -349,7 +343,9 @@ Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D 
 
 ### Reglas para cocinar
 
-Con recetas normales y exóticas completas y precios. Reglas para concursos de cocina.
+Con recetas normales y exóticas completas y precios. También debería tener reglas para concursos de cocina y reglas sobre cómo poner precio a los platos que hagas.
+
+Siguiendo estos temas, podría haber reglas para hacer alcohol y una lista extendida de licores y vinos con sus precios.
 
 ### Reglas de bebida y borrachera
 
@@ -372,6 +368,10 @@ Pero también puede salir un vendedor de tablones que te los vende para hacerte 
 ## Mods de juegos, ambientaciones y campañas
 
 \conc
+
+### Circunnavegación de un mundo medieval fantástico
+
+Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
 
 ### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
@@ -427,12 +427,29 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \conc
 
-### Los caballeros de la mesa no-euclidiana
-
-XXX
-
-Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
 
 ### Rockeros
 
 XXX
+
+\sp
+
+### Los caballeros de la mesa no-euclidiana
+
+No puede ser maña idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
+
+Desde luego Morgana y Mordred pueden ser adoradores de los viejos dioses, AKA primigenios y dioses exteriores, a los que se enfrentan los jugadores en forma de seguidores de Arturo y su mesa redonda.
+
+Entiendo que los cultos profanos, la magia oscura y las maldiciones pegan con el tono medieval del ciclo artúrico.
+
+Y si hay que vencer a un dragón, pues que mejor que la forma física de un lloigor.
+
+Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
+
+\sc
+
+### Anarquistas
+
+Creo que a los amantes de la historia y del rol más narrativo les podría gustar una campaña basada en un grupo de anarquistas/sindicalista de finales del XIX y principios del XX.
+
+Tendría la acción y la intriga de los atentados a reyes y políticos y las huelgas y las peleas con rompehuelgas y el rollo interpretativo de largas discusiones políticas en un café y los discursos ante las masas obreras.
