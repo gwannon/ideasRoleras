@@ -8,7 +8,7 @@ El tipo de fuente Vindica fue creada hace 200 años en Milán por un maestro imp
 
 Lo que nadie sabe es que la casa de la moneda de París va a empezar a trabajar con la Vindica como parte de su sistema de antifalsificación. Creen que una vieja fuente en desuso desde hace siglos y diseños tan antiguos pondrá más difícil de hacer copias de sus billetes y hará que sean más fácilmente reconocibles.
 
-Además, al estar tan destrozada por el uso le da imperfecciones únicas que la hacen todavía más irreproducible.
+Además, al estar tan destrozada por el uso, le da imperfecciones únicas que la hacen todavía más irreproducible.
 
 La Casa de la Moneda ha comprado a los herederos del impresor milanés todos los tipos móviles que tenía sin saber que había una parte que se vendió a una imprenta inglesa, Cobden-Sanderson Printing Workshop.
 
@@ -18,7 +18,7 @@ Quiso la casualidad que el falsificador Walt «Tinta China» Sherwood estuviera 
 
 Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose todos los tipos móviles de la Vindica y ahora mismo está imprimiendo a toda máquina billetes de 20 francos franceses falsos muy difíciles de detectar en su guarida en el sótano de una taberna del East End.
 
-Si todo sale bien este puede ser el golpe de su vida y vivir él y su banda como marqueses en una mansión en la costa.
+Si todo sale bien, este puede ser el golpe de su vida y vivir él y su banda como marqueses en una mansión en la costa.
 
 [![Hand-Blocking Wallpaper by Jules Férat](./assests/images/hand-block-wallpaper-864.png "Hand-Blocking Wallpaper by Jules Férat")](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/ "Hand-Blocking Wallpaper by Jules Férat")
 
@@ -48,9 +48,9 @@ Si se ponen a indagar entre las imprentas de Londres verán que no parece que hu
 
 \sp
 
-Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor pero no tanto. 
+Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor, pero no tanto. 
 
-Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quien querría robarla y sobre todo por qué. Las opciones pueden ser:
+Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quién querría robarla y sobre todo por qué. Las opciones pueden ser:
 
 * Falsificadores
 * Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandísticos.

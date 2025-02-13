@@ -22,7 +22,7 @@ XXX
 
 Wilfred Doosmall entra en la agencia pidiendo ver a Jekyll y Hyde. Necesita su ayuda para encontrar a su hija que lleva desaparecida desde hace dos meses.
 
-Quién le reciba puede ver qué huele a alcohol barato y Hyde incluso puedes recordar hacerse peleado con él hace semanas en algún tugurio o puede que se deban dinero de alguna partida de cartas.
+Quien le reciba puede ver qué huele a alcohol barato y Hyde incluso puedes recordar hacerse peleado con él hace semanas en algún tugurio o puede que se deban dinero de alguna partida de cartas.
 
 XXX
 
@@ -81,7 +81,7 @@ XXX
 
 XXX
 
-### Lisa, la barriobajera
+### Lisa, la barriobajera vendedora de flores
 
 XXX
 
@@ -103,7 +103,7 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-### Elsa, la dama de alta sociedad
+### Elsa, la estirada dama de alta sociedad
 
 XXX
 

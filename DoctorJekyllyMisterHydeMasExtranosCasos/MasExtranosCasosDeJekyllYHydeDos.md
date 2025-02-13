@@ -1,6 +1,6 @@
 # El extraño caso del afluente del Támesis desaparecido
 
-> El río Tyburn está desapareciendo y el alcalde del burgo Hampstead, en el que nace y por el que discurre este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeño a pesar de estar en plena temporada de lluvias. Si no actúan con celeridad el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río.
+> El río Tyburn está desapareciendo y el alcalde del burgo Hampstead, en el que nace y por el que discurre este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeño a pesar de estar en plena temporada de lluvias. Si no actúan con celeridad, el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río.
 
 ## Resumen del caso
 
@@ -24,7 +24,7 @@ XXX
 
 [![Bridge at Midnight by Myles Birket Foster](./assests/images/bridge-midnight-768.png "Bridge at Midnight by Myles Birket Foster")](https://www.oldbookillustrations.com/illustrations/bridge-midnight/ "Bridge at Midnight by Myles Birket Foster")
 
-Gabriel siempre ha sido un apasionado del derecho inmobiliario y, aunque no es su especialidad quiere participar en la investigación.
+Gabriel siempre ha sido un apasionado del derecho inmobiliario y, aunque no es su especialidad, quiere participar en la investigación.
 
 No es un hombre de acción, pero qué demonios iba a pasar en un caso como este, que empape de agua y barro sus nuevos zapatos.
 
