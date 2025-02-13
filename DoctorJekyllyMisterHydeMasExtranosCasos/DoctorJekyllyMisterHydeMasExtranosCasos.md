@@ -88,6 +88,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Bridge at Midnight by [Myles Birket Foster](https://www.oldbookillustrations.com/illustrations/bridge-midnight/)
 * Hand-Blocking Wallpaper by [Jules Férat](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/)
 * Journey to the Center of the Earth (1864) by [Édouard Riou](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48)
+* Hand drawn classic compass by [rawpixel.com](https://www.freepik.com/free-vector/hand-drawn-classic-compass_2782992.htm)
 
 ## Agradecimientos
 
