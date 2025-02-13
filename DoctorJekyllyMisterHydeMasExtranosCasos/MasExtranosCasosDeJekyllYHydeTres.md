@@ -28,7 +28,7 @@ Tiberius Fox, propietario de la Cobden-Sanderson Printing Workshop, acude a la a
 
 \sp
 
-XXX
+Tiberius quiere pagarles por sus servicios, pero cuando vaya a sacar un sobre con el adelanto, Gabriel se lo impedirá diciéndole que si le permitiese pagar por este trabajo, su padre no se lo perdonaría. Parece ser que el padre de Gabriel tenía una deuda de honor con Tiberius que debió recibir una herida en la guerra por protegerle. Les dejará entender que luego arreglará el tema monetario con ellos.
 
 ## En la escena del robo
 
@@ -44,17 +44,16 @@ XXX
 
 Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
 
-Si se ponen a indagar entre las imprentas de Londres verán que no parece que hubiera mucho interesado en esa tipografía. Cada taller usa sus propias tipografías y usar las de otros impresores sería delatarse.
-
 \sp
+
+Si se ponen a indagar entre las imprentas de Londres verán que no parece que hubiera mucho interesado en esa tipografía. Cada taller usa sus propias tipografías y usar las de otros impresores sería delatarse.
 
 Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor, pero no tanto. 
 
 Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quién querría robarla y sobre todo por qué. Las opciones pueden ser:
 
-* Falsificadores
+* Falsificadores que necesiten equipamiento para sus trabajos.
 * Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandísticos.
-* XXX
 
 XXX
 
@@ -66,11 +65,11 @@ XXX
 
 XXX
 
+\sp
+
 ### Walt «Tinta China» Sherwood
 
 XXX
-
-\sp
 
 Walter, a pesar de sus orígenes humildes, consiguió tener una buena educación y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
 
@@ -89,11 +88,11 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
   * **XXX:** XXX
 * **Capacidad de recuperación:** 3
 
+\sp
+
 ### La pandilla de «Tinta China»
 
 La pandilla de «Tinta China» es una mezcla de matones y trabajadores de imprenta. Trabajan imprimiendo las falsificaciones de Walter y si es necesario llenan un calcetín de piezas tipográficas de plomo y se lían a tortas con quien haga falta.
-
-\sp
 
 * Criminal de baja estofa
 * **Es Bueno (+2) en:** Trabajo pesado, Pelear

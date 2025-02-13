@@ -35,7 +35,7 @@ XXX
 
 ## Primeras pesquisas
 
-Quizás lo más fácil para empezar es ver qué sabe del caso Scotland Yard. Si tienen contactos como XXX podrán saber que no tienen ninguna pista. Una noche desapareció y no se sabe nada más. No ha aparecido ningún cadáver que pudiera ser ella, ni nadie sabe nada.
+Quizás lo más fácil para empezar es ver qué sabe del caso Scotland Yard. Si tienen contactos como el patrullero Wilson (El extraño caso del lingote de oro con la rosa impresa), podrán saber que no tienen ninguna pista. Una noche desapareció y no se sabe nada más. No ha aparecido ningún cadáver que pudiera ser ella, ni nadie sabe nada.
 
 \sp
 
@@ -49,7 +49,7 @@ XXX
 
 ## Yo a las cabañas bajé, …
 
-Una vez hechas las primeras pesquisas habría que hablar con sus compañeras de trabajo. Habrá que esperar a la noche para verlas recoger de la basura las flores desechadas de los mercados de flores o hablar con ellas a la hora de entrada y salida de los teatros y óperas de la zona de XXX.
+Una vez hechas las primeras pesquisas habría que hablar con sus compañeras de trabajo. Habrá que esperar a la noche para verlas recoger de la basura las flores desechadas de los mercados de flores o hablar con ellas a la hora de entrada y salida de los teatros de la zona de Covent Garden.
 
 XXX
  

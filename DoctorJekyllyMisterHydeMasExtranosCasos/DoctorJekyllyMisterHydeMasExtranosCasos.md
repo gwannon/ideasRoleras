@@ -24,6 +24,14 @@ No hay un orden concreto para jugar estos 3 nuevos casos. Puedes jugarlos en el 
 
 XXX
 
+Las posibilidades románticas que tiene otro personaje con personalidad desdoblada pueden ser muy interesantes y Lisa y Elsa. Si quieres explorar esta posibilidad, deberás adaptar las preferencias sexo-afectivas y el género de Lisa Doosmall a tu mesa. 
+
+XXX
+
+Walt «Tinta China» Sherwood es un personaje bastante rencoroso y muy hábil esquivando a la justicia. Así que, si al final del caso de la tipografía robado consigue escapar de la policía, pasará un tiempo en Francia lamiéndose las heridas y seguramente pensando como devolvérsela a Hyde y Jekyll.
+
+Con sus dotes de falsificador puede hacer cualquier tipo de documento y tenderles una trampa. No sería de extrañar que hiciese un testamento falso a nombre de Hyde para atraerle a una trampa en algún sitio remoto de la campiña. Lo divertido será saber que hará tu mesa, ya que Hyde no tiene familia y, por tanto, no tiene parientes de los que puede heredar alguna propiedad.
+
 **Las posibilidades son infinitas.**
 
 ***
