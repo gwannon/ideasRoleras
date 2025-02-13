@@ -71,6 +71,7 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Winter’s Night by [William Hole](https://www.oldbookillustrations.com/illustrations/winters-night/)
 * Bridge at Midnight by [Myles Birket Foster](https://www.oldbookillustrations.com/illustrations/bridge-midnight/)
 * Hand-Blocking Wallpaper by [Jules Férat](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/)
+* Journey to the Center of the Earth (1864) by [Édouard Riou](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48)
 
 ## Agradecimientos
 

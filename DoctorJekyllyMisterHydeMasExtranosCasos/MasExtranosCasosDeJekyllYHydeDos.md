@@ -65,6 +65,10 @@ Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad cientí
 
 \sp
 
+[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
+
+\sp
+
 ### El sistema de cavernas
 
 XXX
