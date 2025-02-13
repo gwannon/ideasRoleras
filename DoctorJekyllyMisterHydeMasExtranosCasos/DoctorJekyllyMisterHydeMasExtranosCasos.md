@@ -22,17 +22,31 @@ No hay un orden concreto para jugar estos 3 nuevos casos. Puedes jugarlos en el 
 
 # ¿Cómo puedes continuar?
 
-XXX
+Todas estas aventuras pueden continuarse de formas bastante interesantes para tu mesa con un poco de trabajo.
 
-Las posibilidades románticas que tiene otro personaje con personalidad desdoblada pueden ser muy interesantes y Lisa y Elsa. Si quieres explorar esta posibilidad, deberás adaptar las preferencias sexo-afectivas y el género de Lisa Doosmall a tu mesa. 
+En el suplemento básico todos los casos tenían un apartado de unas «semanas más tarde» en el que de alguna manera el elemento extraño del caso desaparecía o quedaba en manos de un misterioso personaje. Esto permitía que hubiera algún tipo de villano que intentará dar un golpe criminal con toda esas tecnologías robadas.
 
-XXX
+En estas tres aventuras lo que puede servirte de semilla de aventuras son sus PNJ. Estos permitirán un amplio abanico de posibilidades, desde ser un interés romántico hasta buscar vengarse de los personajes. 
+
+Las posibilidades románticas que tiene otro personaje con personalidad desdoblada pueden ser muy interesantes. Si quieres explorar esta posibilidad, deberás adaptar las preferencias sexo-afectivas y el género de Lisa Doosmall a tu mesa. Recuerda que ya hablamos de que habíamos sido muy clásicos en la orientación sexual de Jekyll y Hyde, pero que podía ser muy interesante un «gender flip» a la hora de jugar,
+
+Alexia, la bruja del Tyburn, es una fuente de misterios perdidos en el tiempo. Puede contar historias de tiempos antiguos que se han trasmitido por tradición oral en su familia durante siglos y embarcar a tu mesa en aventuras en busca de tesoros perdidos.
+
+Quizás puedan encontrar una tumba de algún general romano o de un caudillo britano, a quizás Alexia sea descendiente de druidas y les ayude a encontrar algún objeto «mágico» de tiempos artúricos oculto en alguna ciudad cercana a Londres como Bath u Oxford.
+
+\sp
 
 Walt «Tinta China» Sherwood es un personaje bastante rencoroso y muy hábil esquivando a la justicia. Así que, si al final del caso de la tipografía robado consigue escapar de la policía, pasará un tiempo en Francia lamiéndose las heridas y seguramente pensando como devolvérsela a Hyde y Jekyll.
 
 Con sus dotes de falsificador puede hacer cualquier tipo de documento y tenderles una trampa. No sería de extrañar que hiciese un testamento falso a nombre de Hyde para atraerle a una trampa en algún sitio remoto de la campiña. Lo divertido será saber que hará tu mesa, ya que Hyde no tiene familia y, por tanto, no tiene parientes de los que puede heredar alguna propiedad.
 
-**Las posibilidades son infinitas.**
+**Hay muchas formas de continuar estas aventuras.**
+
+&nbsp;
+
+&nbsp;
+
+[![Bridge at Midnight by Myles Birket Foster](./assests/images/bridge-midnight-768.png "Bridge at Midnight by Myles Birket Foster")](https://www.oldbookillustrations.com/illustrations/bridge-midnight/ "Bridge at Midnight by Myles Birket Foster")
 
 ***
 

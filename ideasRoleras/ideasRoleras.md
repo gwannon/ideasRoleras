@@ -427,7 +427,7 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \conc
 
-### Los caballeros de la mesa no-euclidiana
+### El rey Arturo y sus caballeros de la mesa no-euclidiana
 
 No puede ser maña idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
 
@@ -438,6 +438,8 @@ Entiendo que los cultos profanos, la magia oscura y las maldiciones pegan con el
 Y si hay que vencer a un dragón, pues que mejor que la forma física de un lloigor.
 
 Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
+
+\sc
 
 ### Anarquistas
 

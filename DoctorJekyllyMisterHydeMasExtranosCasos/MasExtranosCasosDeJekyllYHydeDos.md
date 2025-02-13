@@ -22,8 +22,6 @@ Gabriel Utterson y Thomas Mundorf, alcalde de distrito de Hampstead y compañero
 
 XXX
 
-[![Bridge at Midnight by Myles Birket Foster](./assests/images/bridge-midnight-768.png "Bridge at Midnight by Myles Birket Foster")](https://www.oldbookillustrations.com/illustrations/bridge-midnight/ "Bridge at Midnight by Myles Birket Foster")
-
 Gabriel siempre ha sido un apasionado del derecho inmobiliario y, aunque no es su especialidad, quiere participar en la investigación.
 
 No es un hombre de acción, pero qué demonios iba a pasar en un caso como este, que empape de agua y barro sus nuevos zapatos.
