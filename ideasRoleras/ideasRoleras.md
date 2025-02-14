@@ -2,7 +2,7 @@
 
 # Ideas Roleras [Por Gwannon - 07/02/2025](https://gwannon.itch.io/ideas-roleras) 
 
-## Juegos completos, ambientaciones y campañas
+## Juegos completos y ambientaciones
 
 \conc
 
@@ -135,6 +135,7 @@ Un mundo de papel inspiración japonesa medieval, donde todo son figuras de orig
 Se puede jugar con el tema de que las figuras pueden pasar de 3D a 2D y pueden doblarse. Los líquidos y el fuego son los mayores enemigos y pueden ser usados por los _onis_. Pegamento de pasta de arroz para hacer grandes construcciones y papel de oro para las joyas.
 
 ### NIMH
+
 ¿Qué pasó con las ratas de «Señora Frisby y las ratas de NIMH»? Mundo como Mouseguard pero con tecnología.
 
 ### Nemo VS. Cthulhu
@@ -169,13 +170,25 @@ Los d20 se podrían usar como Pokedados legendarios y habría que meter en la bo
 
 Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa de dados y das salida a esos dados que no quieres.
 
-### Soy leyenda al revés
+### El rey Arturo y sus caballeros de la mesa no-euclidiana
 
-Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
+No puede ser maña idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
+
+Desde luego Morgana y Mordred pueden ser adoradores de los viejos dioses, AKA primigenios y dioses exteriores, a los que se enfrentan los jugadores en forma de seguidores de Arturo y su mesa redonda.
+
+Entiendo que los cultos profanos, la magia oscura y las maldiciones pegan con el tono medieval del ciclo artúrico.
+
+Y si hay que vencer a un dragón, pues que mejor que la forma física de un lloigor.
+
+Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
 
 ### Ruta de la seda
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
+
+### Soy leyenda al revés
+
+Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
 
 ### Todos para Cthulhu y Cthulhu para todos
 
@@ -219,6 +232,12 @@ Las partidas tienen formato de las novelas y películas de Agatha Christie rollo
 
 Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 híbridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
 
+### Anarquistas
+
+Creo que a los amantes de la historia y del rol más narrativo les podría gustar una campaña basada en un grupo de anarquistas/sindicalista de finales del XIX y principios del XX.
+
+Tendría la acción y la intriga de los atentados a reyes y políticos y las huelgas y las peleas con rompehuelgas y el rollo interpretativo de largas discusiones políticas en un café y los discursos ante las masas obreras.
+
 ### Animal Crossing Cazavampiros
 
 Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew Valley.
@@ -253,13 +272,13 @@ Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y
 
 Debes entregar un paquete y esquivar los equipos de mercenarios enviados por mega-corporaciones enemigas.
 
+\sp
+
 ### Momias a la fuga
 
 Algún becario del departamento de egiptología del British Museum ha desempolvado el Libro de Amon-Ra (el de La Momia) y ha leído un pasaje al azar. 
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
-
-\sp
 
 ### Pac-land
 
@@ -313,13 +332,13 @@ En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada 
 
 Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y chándal, deben conseguir su calcetín-gorro como rito de iniciación. Deberán llegar a una lavandería y robar de la colada un calcetín cada uno. Debe haber tabla de generación de calcetines.
 
+\sp
+
 ### Top secret!
 
 Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan.
-
-\sp
 
 ### La villa secreta de las mascotas
 
@@ -427,25 +446,11 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \conc
 
-### El rey Arturo y sus caballeros de la mesa no-euclidiana
 
-No puede ser maña idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
-
-Desde luego Morgana y Mordred pueden ser adoradores de los viejos dioses, AKA primigenios y dioses exteriores, a los que se enfrentan los jugadores en forma de seguidores de Arturo y su mesa redonda.
-
-Entiendo que los cultos profanos, la magia oscura y las maldiciones pegan con el tono medieval del ciclo artúrico.
-
-Y si hay que vencer a un dragón, pues que mejor que la forma física de un lloigor.
-
-Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
 
 \sc
 
-### Anarquistas
 
-Creo que a los amantes de la historia y del rol más narrativo les podría gustar una campaña basada en un grupo de anarquistas/sindicalista de finales del XIX y principios del XX.
-
-Tendría la acción y la intriga de los atentados a reyes y políticos y las huelgas y las peleas con rompehuelgas y el rollo interpretativo de largas discusiones políticas en un café y los discursos ante las masas obreras.
 
 ### Rockeros
 
