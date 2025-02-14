@@ -39,13 +39,40 @@ Gabriel siempre ha sido un apasionado del derecho inmobiliario y, aunque no es s
 
 No es un hombre de acción, pero qué demonios iba a pasar en un caso como este, que empape de agua y barro sus nuevos zapatos.
 
-## El barrio se hunde
+## Visitando el barrio
 
 XXX
+
+[![Ilustración del mago de Oz por John R. Neill](./assests/images/193.png "Ilustración del mago de Oz por John R. Neill")](https://etc.usf.edu/lit2go/193/dorothy-and-the-wizard-in-oz/ "Ilustración del mago de Oz por John R. Neill")
+
+### El barrio se hunde
+
+El alcalde Mundorf les enseñará su barrio y les mostrará otro de los problemas que tienen ahora mismo están apareciendo grietas en las paredes de las casas. Por ahora, son cosas estéticas, pero en unos meses pueden hacerse muy graves.
+
+\sp
+
+En un momento dado mientras miran una grieta cercana de un viejo edificio de dos plantas, se oirá un crujido seco y una gigantesca grieta recorrerá toda la fachada del edificio. No hay que ser muy listo para descubrir que el edificio se va a venir abajo en minutos. 
+
+Hay gente dentro que sale a las ventanas ante semejante ruido y otra que grita pidiendo ayuda desde dentro al ver los estragos que hay en su casa por las grietas que acaban de aparecer.
+
+Si el PJ activo se considera un héroe, tendrá que entrar en la casa y ayudar a desalojarla antes de que se derrumbe. Si no se atreve a entrar, le arrastrará Gabriel.
+
+ Estos son 6 de los problemas y situaciones que pueden encontrarse. Escoge 4, uno por cada piso y mano del edificio.
+
+* La grieta ha estropeado el marco de la puerta de un apartamento del segundo piso y se ha atrancado. La familia que vive en ese piso no puede salir y grita desesperada desde el otro lado de la puerta. XXX
+* Una señora muy mayor impedida necesita ayuda para salir de su apartamento. XXX
+* XXX
+* XXX
+* XXX
+* XXX
+
+Cuando terminen y salgan con la última persona rescatada, el edificio colapsará tras de ellos levantando una nube de polvo. Cuando salgan de la nube de polvo, los vecinos arremolinados se pondrán a aplaudir.
 
 ## El Pozo del Pastor
 
 Cuando lleguen a Hampstead se encontrarán con el cauce del río Tyburn medio seco y quedando solo un hilillo de agua. Muchas barcas que se usaban para moverse por el río o cruzarlo están varadas en el fango y el alcalde ha hecho poner unos puentes provisionales con troncos sobre el barro para poder cruzar.
+
+\sp
 
 XXX
 
@@ -56,12 +83,6 @@ XXX
 Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y si madre antes que ella y su abuela y su tatarabuela, así quizás hasta tiempos de los romanos.
 
 La familia de Alexia lleva adorando dios del río desde tiempos ancestrales siguiendo unas tradiciones animistas de las que ella es la última superviviente.
-
-\sp
-
-[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
-
-\sp
 
 Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad científica, seguramente que se reúnan donaciones para poder arreglar su casa y registrar sus historias para algún estudio histórico de Inglaterra.
 
@@ -80,6 +101,12 @@ Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad cientí
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
+\sp
+
+[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
+
+\sp
+
 ### El sistema de cavernas
 
 XXX
@@ -91,8 +118,6 @@ XXX
 ###  Lord James Winthle
 
 XXX
-
-\sp
 
 * **Aspectos**
   * **Concepto principal:** XXX
