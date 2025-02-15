@@ -38,9 +38,11 @@ No hay mucho que investigar, la puerta fue abierta con una palanca y los ladrone
 
 Por suerte, hay una cuantos tipos móviles que estaban usando para una segunda tipografía en otro libro y tienen como unas 10 piezas que no robaron.
 
-Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un papel sobre el que han hecho pruebas a mano de las piezas de la Vindica. Al robar las piezas, los ladrones escribieron «Francs» para ver si se parecía a la prueba de impresión del billete.
+Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un papel sobre el que han hecho pruebas a mano de las piezas de la Vindica. Al robar las piezas, los ladrones escribieron «Francs» para ver si se parecía a la prueba de impresión del billete. Si preguntan por la prueba les dirán que la ha hecho alguien profesional del tema que sabe como juntar las piezas y sujetarlas juntas.
 
 Si interrogan a los trabajadores no estarán muy por la labor. Ya ha aguantado al inspector Newcomen y no tienen más ganas de interrogatorio. Ninguno sabe nada, ni vio nada y sobre todo ninguno tenía una razón clara para robar la fuente.
+
+Si hablan con la gente de los alrededores, nadie vio ni escuchó nada. Si les ves un poco perdido, algún vecino voy días antes un grupo de personas (entre 4 y 6) con malas pintas como vigilando el lugar.
 
 \sp
 
@@ -58,7 +60,7 @@ Por lo que cuentan los maestros impresores, si las han robado, o las piezas esco
 
 Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quién querría robarla y sobre todo por qué. Las opciones pueden ser:
 
-* Falsificadores que necesiten equipamiento para sus trabajos.
+* Falsificadores que necesiten equipamiento para sus trabajos. Si encontraron la prueba en la papelera, podrán sin problema filtrar su búsqueda a falsificadores.
 * Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandísticos.
 
 Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
@@ -73,7 +75,7 @@ Newcomen solo quiere una cosa, estar para las detenciones. Antes de zanjar el ca
 
 Sea como sea tras algunas pistas falsas. Tendrán el nombre de Walt «Tinta China» Sherwood y la taberna de «El trébol».
 
-#### El Frente Anarquista Popular
+#### El Frente Anarquista Popular (FAP)
 
 No tendría gracia que directamente tus jugadores acabaran directamente en «El trébol» y deberías por lo menos ponerle un rastro falso de un grupo anarquista y/o falsificadores.
 
@@ -83,7 +85,14 @@ Han dado varios golpes sonados con bombas en una oficina del fisco y en el minis
 
 XXX
 
+* Anarquistas fanáticos
+* **Es Bueno (+2) en:** Arengar a las masas, Combatir
+* **Es Malo (-2) en:** XXX, XXX 
+* **Estrés:** ◯◯
+
 \sp
+
+El cuartel del FAP está lleno de explosivos conectados a una mecha central que si se enciende los hace explotar y provocan el derrumbe del taller donde se reúnen. Si se enciende la mecha es muy difícil de apagar (Bueno +2) y tendrá un par de turnos para escapar corriendo del taller y saltar fuera mientras una bola de fuego destruye el edificio.
 
 ### La historia de la Vindica
 
@@ -93,7 +102,7 @@ Si preguntan, los trabajadores de la imprenta no notaron nunca nada en las pieza
 
 Pueden llevar las pocas piezas que no fueron robadas a que las analice y solo encontraran plomo. No son de oro o plata y no parece que tengan ningún misterio.
 
-Tarde o temprano esta línea de investigación se investigará, aunque si han descubierto la prueba en las papeleras, podrán hacer la prueba con «Francs» buscando si se descubre algo al poner esos tipos juntos.
+Tarde o temprano esta línea de investigación se extinguirá, aunque puedes estirarla todo lo que quieras. Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
 
 ## El East End de Londres
 
@@ -101,11 +110,11 @@ XXX
 
 Walt tiene su guarida en la bodega de «El Trébol», una de las peores tascas del East End londinense. Es un tugurio de mala muerte donde se bebe mal, se juega mucho y se pelea siempre.  
 
+\sp
+
 Walt tiene su imprenta en la bodega y entra y sale por la carbonera. XXX
 
 XXX
-
-\sp
 
 ### Walt «Tinta China» Sherwood
 
@@ -117,6 +126,8 @@ Así que Walter consiguió tener una buena cultura general y si lo desea puede p
 
 Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Experto falsificador de los barrios bajos de Londres
   * **Complicación:** Perfeccionista hasta la obsesión
@@ -124,9 +135,6 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
   * Curtido en las calles
   * Muy buena vista
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
-
-\sp
-
 * **Proezas**
   * **Colar billetes falsos:** Debido a sus años intentando soltar billetes falsos en todo tipo de negocios, gana un +2 para Superar en modo Rápido cuando tiene que mentir.
   * **Fingir de ser clase alta:** Debido a las enseñanzas de su maestro Gîroc sobre modales, etiqueta y cultura en general, gana un +2 para Crear una ventaja en modo Cauto cuando tiene hacerse pasar por gente clase media/alta.

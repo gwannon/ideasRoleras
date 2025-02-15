@@ -491,3 +491,6 @@ gender
 Bath
 situacion
 Gîroc
+FAP
+Osgo
+AKA
