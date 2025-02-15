@@ -63,7 +63,23 @@ Si a los impresores legales no les interesa la Vindica, deberán buscar impresor
 
 Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
 
-Sin contactos en los bajos fondos, tendrán que conseguir pistas en Scotland Yard. XXX
+\sp
+
+Sin contactos en los bajos fondos, tendrán que conseguir pistas en Scotland Yard. Alguien debería conocer a los falsificadores de la ciudad y por donde suelen moverse.
+
+Puedes ser malvado y que Newcomen empezará como detective de delitos fiscales antes de investigar crímenes y robos. Tendrán que negociar con él para sacarle algunos nombres.
+
+Newcomen solo quiere una cosa, estar para las detenciones. Antes de zanjar el caso deben avisarle para que haga la detención y se apunte un tanto ante sus jefes.
+
+Sea como sea tras algunas pistas falsas. Tendrán el nombre de Walt «Tinta China» Sherwood y la taberna de «El trébol».
+
+#### El Frente Anarquista Popular
+
+No tendría gracia que directamente tus jugadores acabaran directamente en «El trébol» y deberías por lo menos ponerle un rastro falso de un grupo anarquista y/o falsificadores.
+
+El Frente Anarquista Popular es un grupo anarquista que busca la destrucción del gobierno con atentados contra instituciones gubernamentales y monárquicas. Su objetivo son las instituciones de recaudación de impuestos, ya que creen que sin impuestos el gobierno será destruido.
+
+Han dado varios golpes sonados con bombas en una oficina del fisco y en el ministerio de Hacienda.
 
 XXX
 
@@ -89,13 +105,15 @@ Walt tiene su imprenta en la bodega y entra y sale por la carbonera. XXX
 
 XXX
 
+\sp
+
 ### Walt «Tinta China» Sherwood
 
-XXX
+Desde que era muy pequeño Walt sabía que si quería salir del arroyo no podía seguir el camino de su padre, un humilde techador. Así que en cuanto pudo se metió en una de las bandas criminales del su barrio, el East End. Poco ascendió en la banda y allí conoció a su maestro en falsificación, Gîroc, un impresor francés que tuve que huir de Francia por problemas legales.
 
-Walter, a pesar de sus orígenes humildes, consiguió tener una buena educación y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
+Con Gîroc no solo aprendió el fino arte de hacer cosas impresas tremendamente parecidas a otras cosas impresas, también aprendió modales y cultura general. Según su maestro, de nada sirve hacer la mejor falsificación si no no puedes engañar a nadie para que te lo compre. 
 
-\sp
+Así que Walter consiguió tener una buena cultura general y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
 
 Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
@@ -106,10 +124,13 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
   * Curtido en las calles
   * Muy buena vista
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
+
+\sp
+
 * **Proezas**
-  * **XXX:** XXX
-  * **XXX:** XXX
-  * **XXX:** XXX
+  * **Colar billetes falsos:** Debido a sus años intentando soltar billetes falsos en todo tipo de negocios, gana un +2 para Superar en modo Rápido cuando tiene que mentir.
+  * **Fingir de ser clase alta:** Debido a las enseñanzas de su maestro Gîroc sobre modales, etiqueta y cultura en general, gana un +2 para Crear una ventaja en modo Cauto cuando tiene hacerse pasar por gente clase media/alta.
+  * **Burocracia a mí:** Como falsificador conoce muchos documentos y procesos burocráticos, una vez por partida puede montar algún tipo de documento falso que le evite problemas legales no sangrientos.
 * **Capacidad de recuperación:** 3
 
 ### La pandilla de «Tinta China»
