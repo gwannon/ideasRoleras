@@ -172,7 +172,7 @@ Además, cada entrenador deberá cuidar sus Pokedados y llevárselos en su bolsa
 
 ### El rey Arturo y sus caballeros de la mesa no-euclidiana
 
-No puede ser maña idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
+No puede ser mala idea mezclar dos ambientaciones que empiezan igual los Mitos de Cthulhu y los Mitos artúricos.
 
 Desde luego Morgana y Mordred pueden ser adoradores de los viejos dioses, AKA primigenios y dioses exteriores, a los que se enfrentan los jugadores en forma de seguidores de Arturo y su mesa redonda.
 
