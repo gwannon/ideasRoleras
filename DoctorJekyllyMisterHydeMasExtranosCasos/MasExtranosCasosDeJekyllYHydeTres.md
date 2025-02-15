@@ -36,42 +36,66 @@ Cómo no es de extrañar cuando lleguen al taller estará el inspector Newcomen.
 
 No hay mucho que investigar, la puerta fue abierta con una palanca y los ladrones entraron, se llevaron las cajas de madera con los tipos de la Vindica y no se llevaron nada más. Las dos cajas con todas las letras mayúsculas, minúsculas, números y signos ortográficos son de plomo y pesan unos 100 kilos.
 
-Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un papel sobre el que han hecho pruebas a mano de las piezas de la Vindica. Al robar las piezas, los ladrones escribieron «Francs» para ver si se parecía a la prueba de impresión del billete. 
+Por suerte, hay una cuantos tipos móviles que estaban usando para una segunda tipografía en otro libro y tienen como unas 10 piezas que no robaron.
 
-XXX
+Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un papel sobre el que han hecho pruebas a mano de las piezas de la Vindica. Al robar las piezas, los ladrones escribieron «Francs» para ver si se parecía a la prueba de impresión del billete.
+
+Si interrogan a los trabajadores no estarán muy por la labor. Ya ha aguantado al inspector Newcomen y no tienen más ganas de interrogatorio. Ninguno sabe nada, ni vio nada y sobre todo ninguno tenía una razón clara para robar la fuente.
+
+\sp
 
 ## Buscando pistas
 
-Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
+Una vez visitada la escena del robo toca salir a la calle a hacer labor de investigación.
 
-\sp
+Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
 
 Si se ponen a indagar entre las imprentas de Londres verán que no parece que hubiera mucho interesado en esa tipografía. Cada taller usa sus propias tipografías y usar las de otros impresores sería delatarse.
 
 Por lo que cuentan los maestros impresores, si las han robado, o las piezas escondían algún secreto o por alguna razón eran muy valiosas para el ladrón, pero desde luego que el que las robo no buscaba venderlas y sacar dinero. Tienen su valor, pero no tanto. 
+
+### Al otro lado de la ley
 
 Si a los impresores legales no les interesa la Vindica, deberán buscar impresores del otro lado de la ley, pero quién querría robarla y sobre todo por qué. Las opciones pueden ser:
 
 * Falsificadores que necesiten equipamiento para sus trabajos.
 * Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandísticos.
 
+Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
+
+Sin contactos en los bajos fondos, tendrán que conseguir pistas en Scotland Yard. XXX
+
 XXX
 
-Otra línea de investigación es que el tipo tenga algún secreto, así que deberían investigar el origen de las piezas móviles. Los archivos de la imprenta son un tremendo lío, pero con un poco de suerte (Normal +1) podrán encontrar una especie de factura de compra de la tipografía a Giuseppe Vindicani de Milán de hace unos 200 años cuando se abrió la imprenta.
+\sp
 
-XXX
+### La historia de la Vindica
+
+Otra línea de investigación es que las piezas tipográficas tengan algún secreto, así que deberían investigar el origen de las piezas móviles. Los archivos de la imprenta son un tremendo lío, pero con un poco de suerte (Normal +1) podrán encontrar una especie de factura de compra de la tipografía a Giuseppe Vindicani de Milán de hace unos 200 años cuando se abrió la imprenta.
+
+Si preguntan, los trabajadores de la imprenta no notaron nunca nada en las piezas de plomo y durante muchos años las han usado sin problemas.
+
+Pueden llevar las pocas piezas que no fueron robadas a que las analice y solo encontraran plomo. No son de oro o plata y no parece que tengan ningún misterio.
+
+Tarde o temprano esta línea de investigación se investigará, aunque si han descubierto la prueba en las papeleras, podrán hacer la prueba con «Francs» buscando si se descubre algo al poner esos tipos juntos.
 
 ## El East End de Londres
 
 XXX
 
-\sp
+Walt tiene su guarida en la bodega de «El Trébol», una de las peores tascas del East End londinense. Es un tugurio de mala muerte donde se bebe mal, se juega mucho y se pelea siempre.  
+
+Walt tiene su imprenta en la bodega y entra y sale por la carbonera. XXX
+
+XXX
 
 ### Walt «Tinta China» Sherwood
 
 XXX
 
 Walter, a pesar de sus orígenes humildes, consiguió tener una buena educación y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
+
+\sp
 
 Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
@@ -87,8 +111,6 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
   * **XXX:** XXX
   * **XXX:** XXX
 * **Capacidad de recuperación:** 3
-
-\sp
 
 ### La pandilla de «Tinta China»
 
