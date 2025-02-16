@@ -38,7 +38,7 @@ Es un adicto confeso a la azúcar y es raro verlo sin algo azucarado en la mano.
 * **Atributos:** Agilidad d4, Astucia d10, Espíritu d8, Fuerza d6, Vigor d6
 * **Habilidades:** Atletismo d4, Conducir d4, Conocimientos Generales d12, Ciencias d6, Disparar d6, Humanidades d6, Idioma Inglés d10, Interpretar d8, Investigar d8, Notar d8, Pelear d4, Persuadir d4, Sigilo d4, Tácticas d8
 * **Paso:** 6; **Parada:** 4; **Dureza:** 5
-* **Ventajas:** XXX
+* **Ventajas:** Acaparador, Hombre de recursos
 * **Desventajas:** Obligaciones (mayor, ejército), Leal
 * **Equipo:** Uniforme de militar con galones de cabo, pistola reglamentaria, mapas, dosieres, cajas con dulces, taza de té
 
