@@ -1,0 +1,683 @@
+:root {
+  --color-primary: #C2B280;
+  --color-secondary: #FF5733;
+  --padding: 45px;
+}
+
+*, html {
+  scroll-behavior: smooth !important;
+}
+
+@font-face {
+  font-family: 'SpecialElite';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Special_Elite/SpecialElite-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Zeyada';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Zeyada/Zeyada-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ReenieBeanie';
+  font-weight: normal;
+  font-style: normal;
+  src: url('../fonts/Reenie_Beanie/ReenieBeanie-Regular.ttf') format('truetype');
+}
+
+p, li {
+  font-family: "SpecialElite", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  font-size: 1rem;
+  line-height: 120%;
+}
+
+a, a:visited {
+  color: #000;
+}
+
+p {
+  margin-top: 0px;
+}
+
+section {
+  padding-top: var(--padding);
+}
+
+section > * {
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4 {
+  font-family: "SpecialElite", system-ui;
+  font-weight: 700;
+  position: relative;
+}
+
+blockquote {
+  background-color: #fff;
+  border-radius: 10px;
+  padding-top: var(--padding);
+  padding-bottom: var(--padding);
+  position: relative;
+  clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 30px), calc(100% - 60px) 100%, 0% 100%);
+}
+
+blockquote:nth-of-type(even) {
+  rotate: 1deg;
+}
+
+blockquote:nth-of-type(3n) {
+  clip-path: polygon(0% 30px, 60px 0%, 100% 0%, 100% 100%, 0% 100%);
+
+}
+
+
+blockquote:nth-of-type(5n) {
+  rotate: -1deg;
+}
+
+blockquote > p {
+  font-family: "Zeyada", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  font-size: 1.6rem;
+  line-height: 120%;
+  margin: 0;
+  padding: 0;
+  rotate: 0deg;
+}
+
+blockquote:nth-of-type(odd) > p {
+  rotate: -1deg;
+}
+
+blockquote:before {
+  content: "";
+  position: absolute;
+  right: -11px;
+  bottom: -26px;
+  width: 60px;
+  height: 60px;
+  background-color: #e7e7e7;
+  border-top-left-radius: 10px;
+  box-shadow: 0px 4px 6px 1px #0000009e;
+  rotate: 32deg;
+}
+
+blockquote:nth-of-type(3n):before  {
+  right: auto;
+  bottom: auto;
+  left: -15px;
+  top: -29px;
+  rotate: -137deg;
+  box-shadow: 3px -5px 6px 1px #0000009e;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+pre code {
+  color: #002b59;
+  font-size: 1.8rem;
+  font-family: 'ReenieBeanie';
+  display: block;
+  background-color: #fffcfa;
+  border-radius: 5px;
+  padding: calc(var(--padding) / 2);
+  rotate: -1deg;
+  margin-bottom: 30px;
+  position: relative;
+  clip-path: polygon(0% 0%, calc(100% - 30px) 0%, 100% 60px, 100% 100%, 0% 100%);
+  overflow: hidden;
+}
+
+pre code:before {
+  content: "";
+  position: absolute;
+  right: -29px;
+  top: -18px;
+  width: 60px;
+  height: 60px;
+  background-color: #e7e7e7;
+  border-bottom-right-radius: 10px;
+  box-shadow: 3px -3px 6px 1px #0000009e;
+  rotate: 132deg;
+}
+
+pre:nth-of-type(odd) code {
+ rotate: 0.5deg;
+}
+
+section:not(section:first-of-type, section:last-of-type) h1 {
+  /*width: 100%;
+  height: 100vh;
+  color: #fff;
+  background-color: #000;
+  margin-top: calc((var(--padding) * -1) - 1px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;*/
+  width: calc(100% - (var(--padding) * 2));
+  height: calc(100vh - (var(--padding) * 3));
+  color: #fff;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  margin: 0 var(--padding) calc(var(--padding)* 2) ;
+  box-sizing: border-box;
+  rotate: -1deg;
+  box-shadow: -12px 17px 22px -8px #000;
+}
+
+section:not(section:first-of-type, section:last-of-type):nth-of-type(odd) h1 {
+  rotate: 0.8deg;
+}
+
+section:not(section:first-of-type, section:last-of-type):nth-of-type(3n) h1 {
+  rotate: 0deg;
+}
+
+h2 {
+  font-size: 1.7em;
+  display: inline-block;
+  overflow: hidden;
+  padding-bottom: 15px;
+  clear: both;
+}
+
+h2:after,
+h2:before {
+  content: "---------------------------------------------";
+  display: block;
+  position: absolute;
+  bottom: -8px;
+  left: var(--padding);
+  width: calc(100% - 75px);
+  overflow: hidden;
+  height: 25px;
+}
+
+h2:before { 
+  bottom: -14px;
+}
+
+h3 {
+  font-size: 1.5em;
+  display: inline-block;
+  overflow: hidden;
+  padding-bottom: 15px;
+  margin-bottom: 5px;
+  clear: both;
+}
+
+p:has(a img[alt^=Primer]) + h3,
+p:has(a img[alt^=Detalle]) + h3 {
+  padding-left: 0;
+}
+
+section > ul > li,
+section > ul > li > ul > li {
+  list-style: none;
+  padding-left:20px;
+  position: relative;
+  margin-top: 11px;
+}
+
+section > ol > li,
+section > ol > li > ol > li {
+  margin-left:20px;
+  position: relative;
+  margin-top: 11px;
+}
+
+section > ul > li:before {
+  content: "-";
+  display: block;
+  position: absolute;
+  left: 0px;
+}
+
+section div.saltopagina + ul > li:has(ul li):before {
+  display: none;
+}
+
+section > ul > li > ul > li:before {
+  content: "*";
+  display: block;
+  position: absolute;
+  left: 0px;
+}
+
+h3:after {
+  content: "----------------------------------------------";
+  display: block;
+  position: absolute;
+  bottom: -5px;
+  left: var(--padding);
+  width: calc(100% - 75px);
+  overflow: hidden;
+  height: 25px;
+}
+
+p:has(a img[alt^=Primer]) + h3:after,
+p:has(a img[alt^=Detalle]) + h3:after  {
+  left: 0;
+  width: calc(100% - 37px);
+}
+
+section p img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  max-width: 100%;
+  width: 100%;
+  border: 15px solid #fff;
+  rotate: 1deg;
+  box-shadow: -12px 17px 22px -8px #000;
+}
+
+section p:nth-of-type(even) img:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  rotate: -1deg;
+}
+
+a:has(img) {
+  position: relative;
+  display: block;
+}
+
+p.comodirigir {
+  float: right;
+  width: 45%;
+  padding: 20px 20px 15px 20px;
+  font-size: 14px;
+  box-sizing: border-box;
+  background-image: repeating-linear-gradient(226deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px), repeating-linear-gradient(316deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px), repeating-linear-gradient(46deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px), repeating-linear-gradient(136deg, #bf3b3b, #bf3b3b 23px, transparent 23px, transparent 35px, #bf3b3b 35px);
+  background-size: 10px 100%, 100% 10px, 10px 100% , 100% 10px;
+  background-position: 0 0, 0 0, 100% 0, 0 100%;
+  background-repeat: no-repeat;
+  margin-right: var(--padding);
+  margin-left: calc(var(--padding) / 2);
+}
+
+/* ------------- Clip --------------- */
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Dibujo]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Plano]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Imagen]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Recorte]):before,
+section:not(section:first-of-type, section:last-of-type) h1:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 48px;
+  right: -45px;
+  background: transparent url(../images/clip.png) center center no-repeat;
+  background-size: cover;
+  width: 200px;
+  height: 43px;
+  z-index: 10;
+}
+
+section:not(section:first-of-type, section:last-of-type) h1:before {
+  background-image: url(../images/clip-triangulo.png);
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]),
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]),
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Recorte]),
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Primer])  {
+  rotate: -3deg;
+  width: 40%;
+  float: left;
+  margin-right: 57px;
+  margin-bottom: 30px;
+  box-shadow: 7px 10px 22px -8px #000;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Retrato]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Detalle]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Recorte]):before {
+  top: 48px;
+  left: -44px;
+  right: auto;
+  rotate: 188deg;
+}
+
+/* ------------- Cinta adhesiva --------------- */
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Boceto],
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Atlas],
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Ilustración],
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a img[alt^=Estampa] {
+  box-shadow: none;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Estampa]):before,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Estampa]):after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -6px;
+  left: -44px;
+  background: transparent url(../images/cinta.png) center center no-repeat;
+  background-size: cover;
+  width: 274px;
+  height: 92px;
+  z-index: 10;
+  rotate: -21deg;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Atlas]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Ilustración]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Estampa]):after
+ {
+  rotate: -180deg;
+  top: auto;
+  left: auto;
+  bottom: -52px;
+  right: -44px;
+}
+
+/* ------------- Grapas --------------- */
+section p img[alt^=Mapa]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img),
+section p img[alt^=Foto]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img),
+section p img[alt^=Esbozo]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  border: none;
+  box-shadow: -2px 15px 20px 0px #000;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):before, 
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):before, 
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Esbozo]):before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 32px;
+  right: 27px;
+  background: transparent url(../images/grapa.png) center center no-repeat;
+  background-size: contain;
+  width: 80px;
+  height: 32px;
+  z-index: 10;
+  rotate: 9deg;
+}
+
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Mapa]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Foto]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Esbozo]):after,
+section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Primer]):after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 32px;
+  left: 38px;
+  background: transparent url(../images/grapa.png) center center no-repeat;
+  background-size: contain;
+  width: 80px;
+  height: 32px;
+  z-index: 10;
+  rotate: -11deg;
+}
+
+/* ----------- Escala -------------- */
+section p img[alt^=Escala]:not(section:first-of-type img, section:nth-of-type(2) img, section:last-of-type img) {
+  width: 50%;
+  float: left;
+  margin: 0 20px 20px 0;
+  border: none;
+  box-shadow: none;
+  rotate: 0deg;
+}
+
+@media (max-width: 500px) {
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img):before {
+    width: 100px;
+    height: 22px;
+  }
+
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after {
+    width: 173px;
+    height: 46px;
+  }
+
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) p a:has(img[alt^=Boceto]):after {
+    bottom: -23px;
+  }
+}
+
+/* Tablas */
+table {
+  /*border-collapse: collapse;*/
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+div:has(table){
+  overflow-x: auto;
+}
+table tr td,
+table tr th {
+  font-family: "SpecialElite", system-ui;
+  padding: 10px;
+  /*border: 2px solid #000;*/
+}
+
+table tr, table td, table th {
+  position: relative;
+}
+
+table tr:before {
+  content: "--------------------------------------------------------------------------------------------";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  font-size: 2em;
+  width: calc(100% + 10px);
+  height: 24px;
+  overflow: hidden;
+}
+
+table th:before,
+table td:before,
+table tr th:last-of-type:after,
+table tr td:last-of-type:after {
+  content: "|\A|\A|\A|\A|\A|\A|\A|\A|\A|\A|\A|";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  font-size: 1em;
+  width: 10px;
+  height: 100%;
+  overflow: hidden;
+  font-weight: 400;
+}
+
+table th:before {
+  left: -3px;
+}
+
+table tr td:last-of-type:after {
+  right: -10px;
+  left: auto;
+}
+
+table tr th:last-of-type:after {
+  right: -7px;
+  left: auto;
+}
+
+/* secciones */
+section:nth-of-type(4) h1 {
+  background: #000 url(../images/65-millones.jpg) top center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+section:nth-of-type(5) h1 {
+  background: #000 url(../images/65-millones.jpg) top center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+section:nth-of-type(6) h1 {
+  background: #000 url(../images/65-millones.jpg) top center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 20px black;
+}
+
+
+
+
+/* Portada */
+section:first-of-type {
+  max-height: 3507px;
+  background: black url(../images/portada.jpg) center center no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
+
+section:first-of-type > div {
+  text-align: center;
+}
+
+section:first-of-type > div > h1 {
+  font-size: 2em;
+  color: #000;
+  padding: 48px 30px 30px 30px;
+  background-color: #f5f5f5;
+  border-radius: 23px;
+  max-width: 445px;
+  rotate: 2deg;
+  position:º relative;
+}
+
+@media (min-width: 600px) {
+  section:first-of-type > div > h1 {
+    font-size: 4em;
+  }
+}
+section:first-of-type > div > h1:before {
+  content: "";
+  display: block;
+  width: 274px;
+  height: 274px;
+  background: transparent url(../images/top-secret.png) center center no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: -105px;
+  left: -145px;
+  rotate: -41deg;
+}
+
+section:first-of-type h2,
+section:first-of-type h3 {
+  font-size: 1.5em;
+  line-height: 110%;
+  color: #000;
+  max-width: 503px;
+}
+
+/* Indice */
+.likeH1,
+.likeH2,
+.likeH3 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 3px 0;
+  text-decoration: none;
+  font-size: 1.3em;
+  /*max-height: 17px;*/
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-family: "SpecialElite", system-ui;
+}
+
+.likeH1 {
+  font-weight: 700;
+  padding: 0 0 0 0px;
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
+.likeH1 span, .likeH2 span, .likeH3 span {
+  display: none;
+  float: right;
+  margin-right: 5px;
+}
+
+#anchorindice {
+  padding: var(--padding);
+}
+
+/* Contraportada */
+section:last-of-type {
+  max-height: 3507px;
+  background: black url(../images/contraportada.jpg) center center no-repeat;
+  background-size: cover;
+  height: calc(100vh - 61px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  padding: 30px;
+}
+
+section:last-of-type > h4 {
+  font-size: 2em;
+  margin: 0 0 20px 0;
+  text-align: center;
+  display: block;
+}
+
+section:last-of-type > p:first-of-type {
+  font-weight: bold;
+  text-align: center;
+}
+
+section:last-of-type > ol {
+  background-color: #fff;
+  border-radius: 10px;
+  padding-top: var(--padding);
+  padding-bottom: var(--padding);
+}
+
+p:has(a img[title^=Blank]) + p + ul > li:first-of-type { display: inline-block; background-color: red; padding-left: 12px; }
+p:has(a img[title^=Blank]) + p + ul > li:nth-of-type(2) { display: inline-block; background-color: blue; padding-left: 12px; }
+p:has(a img[title^=Blank]) + p + ul > li:nth-of-type(3) { display: inline-block; background-color: green; padding-left: 12px; }
+p:has(a img[title^=Blank]) + p + ul > li:nth-of-type(4) { display: inline-block; background-color: darkgoldenrod; padding-left: 12px; }
