@@ -8,7 +8,7 @@ Todo PNJ con este símbolo (&#x2638;) en su nombre es considerado comodines, con
 
 [![Primer plano de Teniente Arthur Hodgins](./assests/images/hodgins.jpg 'Operation Market Garden - The Battle For Arnhem, September 1944 by Jack E. Barker - Army Film and Photographic Unit')](https://www.iwm.org.uk/collections/item/object/205192044 'Operation Market Garden - The Battle For Arnhem, September 1944 by Jack E. Barker - Army Film and Photographic Unit')
 
-El teniente Hodgins es el hombre perfecto para la inteligencia militar. Listo, educado y perceptivo, fue reclutado para IM según salió de la facultad de Derecho de Oxford y tras unos cuantos trabajos de campo exitosos fue ascendido y se le puso a montar operaciones secretas. Aun así sigue con ganas de volver a la acción. No es tan viejo como para no poder escapar de un camión en marcha o infiltrarse en un castillo en Baviera.
+El teniente Hodgins es el hombre perfecto para la inteligencia militar. Listo, educado y perceptivo, fue reclutado para IM según salió de la facultad de Derecho de Oxford y, tras unos cuantos trabajos de campo exitosos, fue ascendido y le pusieron a montar operaciones secretas desde un despacho. Aun así, sigue con ganas de volver a la acción. No es tan viejo como para no poder escapar de un camión en marcha o infiltrarse en un castillo en Baviera.
 
 Su forma de pensar «fuera de la caja», con sus planes imaginativos y diferentes, es lo que le hace excepcional en su trabajo en la IM. Además, es capaz de hacer planes previendo los movimientos del adversario y adelantándose a ellos de formas eficaces y sobre todo inesperadas.
 

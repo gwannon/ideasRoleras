@@ -3,18 +3,18 @@
 \sp
 
 ```
-Operación: Breakfast tea es una aventura donde un grupo de actores son escogidos por la Inteligencia Militar Brítanica para montar un elaborado plan para engañar a Hitler y que crea que Inglaterra tiene un arma secreta que puede decantar la guerra del lado de Inglaterra. 
+Operación: Breakfast tea es una aventura donde un grupo de actores son escogidos por la Inteligencia Militar Británica para montar un elaborado plan para engañar a Hitler y que crea que Inglaterra tiene un arma secreta que puede decantar la guerra del lado de Inglaterra. 
 ```
 
 La idea de la Inteligencia Militar (IM) es crear una película donde se ve que los británicos han creado un supersoldado y dejar que la encuentren los nazis. El objetivo es que Hitler se obsesione con el film y quiera su propio «ubersoldat». Eso supondrá que con un gasto mínimo de esfuerzo de guerra por parte de los ingleses, los alemanes gastarán preciosos recursos que tendrán que quitar del frente.
 
-Todo esto sería muy facil si no fuera porque IM no quiere rodarlo en un estudio. Los nazis caerán en la trampa si ruedan en localizaciones reales y lo hacen lo más real posible. Que mejor prueba que ver en una película a un supersoldado golpear una pared de roca en un pueblo en un territorio ocupado por los nazis y llegar al lugar y ver el agujero que dejo. 
+Todo esto sería muy fácil si no fuera porque IM no quiere rodarlo en un estudio. Los nazis caerán en la trampa si ruedan en localizaciones reales y lo hacen lo más real posible. Que mejor prueba que ver en una película a un supersoldado golpear una pared de roca en un pueblo en un territorio ocupado por los nazis y llegar al lugar y ver el agujero que dejo. 
 
 IM ha buscado al grupo adecuado de hombres y mujeres para esta misión y son justamente los personajes de la gente de tu mesa de juego.
 
 ## Creando a tu troupe
 
-A priori tus personajes deberían englobarse dentro de uno de estos grupos:
+A priori, tus personajes deberían englobarse dentro de uno de estos grupos:
 
 * **Actores y actrices:** Todos los personajes actores deberían tener «Interpretar» en mayor o menor medida.
 * **Tramoyistas y efectos especiales:** Los tramoyistas y la gente de efectos especiales deberían tener «Reparar» y/o «Electrónica». 
@@ -29,13 +29,13 @@ La mejor distribución es que hubiera un PJ que fuera el o la supersoldado, otro
 
 ## Engañar a los nazis.
 
-Toda esta aventura trata de crear un «mockumental» o falso documental del ejército inglés con una prueba de campo del supersoldado que han creado los científicos aliados. El film irá ganando y perdiendo puntos según actué tu mesa. Al final de la aventura el éxito o fracaso de la misión se decidirá si el film engaña a Hitler o no en un pase privado en Berlín.
+Toda esta aventura trata de crear un «mockumental» o falso documental del ejército inglés con una prueba de campo del supersoldado que han creado los científicos aliados. El film irá ganando y perdiendo puntos según actué tu mesa. Al final de la aventura, el éxito o fracaso de la misión se decidirá si el film engaña a Hitler o no en un pase privado en Berlín.
 
 A lo largo de esta aventura verás titulares con dos cifras, la primera serán los puntos que se obtienen al superar adecuadamente esa parte y la segunda parte serán los obtengan al fracasar.
 
 El marcador empieza en 0 y el mínimo viable que debe cumplir para que el plan funciona es 4 puntos. Con 4 puntos la película tira d4 Espíritu. Por cada dos puntos por encima de 4, el Espíritu del documental sube un nivel de dado, de forma que con 12 puntos tiraría un Espíritu d12.
 
-Si tu mesa hace cosas increíbles y sorprendentes y estas quedan filmadas puedes otorgarle benis a la propia película que podrán usarse en la parte final de la aventura durante el proceso de engaño a Hitler y el alto mando nazi.
+Si tu mesa hace cosas increíbles y sorprendentes y estas quedan filmadas, puedes otorgarle benis a la propia película que podrán usarse en la parte final de la aventura durante el proceso de engaño a Hitler y el alto mando nazi.
 
 > Tú conoces a tu mesa y debes decidir si contarles este sistema o no es mejor para el funcionamiento de la partida.
 
@@ -45,9 +45,11 @@ El teniente Hodgins y el cabo Wilkins, ambos de la IM se presentarán en la casa
 
 XXX
 
-Si algún PJ está en la cárcel o en problemas con la ley, les propondrá un trato que les libre de su problema si aceptan la misión. Si nada de esto les convence, tienen una orden firmada del primer ministro de reclutamiento forzoso.
+Si algún PJ está en la cárcel o en problemas con la ley, les planteará un trato que les libre de su problema si aceptan la misión. Si nada de esto les convence, tienen una orden firmada del primer ministro de reclutamiento forzoso.
 
-Una vez reclutados, serán llevados a unos estudios de cine de las afueras de Londres donde pasarán unos días preparando toda la operación. Si te sientes creativos es buen momento para meter una noche de fiesta loca en Londres antes de partir de misión. Acabar con una resaca terrible y arrepintiéndose de algunas de las cosas que hicieron la noche anterior hará que haya sido una buena juerga.
+Una vez reclutados, serán llevados a unos estudios de cine de las afueras de Londres, donde pasarán unos días preparando toda la operación. Allí pasarán todo el tiempo, dormirán, comerán y trabajarán allí.
+
+Si te sientes creativo, es buen momento para meter una noche de fiesta loca en Londres antes de partir de misión. Acabar con una resaca terrible y arrepintiéndose de algunas de las cosas que hicieron la noche anterior hará que haya sido una buena juerga.
 
 \sp
 
@@ -91,7 +93,7 @@ Un problema principal de la misión es entrar en territorio ocupado por los nazi
 
 XXX
 
-> En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey deberían perder los puntos que recibieron por ellos.
+> En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey, deberían perder los puntos que recibieron por ellos.
 
 
 ## El documental
@@ -102,7 +104,7 @@ XXX
 
 XXX
 
-Uno de los problemas principales en esta parte es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
+Uno de los problemas principales en esta parte es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi, acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
 
 ### El supersoldado en acción
 
@@ -122,7 +124,7 @@ XXX
 
 Unas semanas después de la misión, IM dejará que espías nazis obtengan la película. La película será visionada por alguien de las SS y tendrá que considerar que es digno de pasarlo a sus superiores. Para ello la película deberá pasar una tirada de Espíritu o será guardada en un cajón.
 
-Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Está vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos tendrá un -2 a la tirada.
+Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada.
 
 Una vez pasados los filtros iniciales, la inteligencia nazi montará un visionado del documental para decidir qué hacer con la información descubierta.
 

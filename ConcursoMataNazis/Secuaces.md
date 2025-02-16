@@ -77,5 +77,4 @@ En esta tabla tenemos los vehículos típicos de las películas de la II Guerra 
 |--------|------|----|---|------|-----|
 |Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
 |Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
-|Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
 |VW Typ 82 «Kübelwagen»|3|+1|80 km/h|13(3)|1+4|
