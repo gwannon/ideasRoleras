@@ -67,4 +67,20 @@ Este soldado nazi está especializado en el uso de lanzallamas como arma de comb
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS), Deseo de muerte
 * **Equipo:** Lanzallamas, traje ignífugo (+1), casco nazi (+1 dureza cabeza)
 
+&nbsp;
+
+## Vehículos nazis
+
+En esta tabla tenemos los vehículos típicos de las películas de la II Guerra Mundial como la BMW R-71, la moto con sidecar que persigue al camión donde escapa el comando, o Volkswagen Typ 82, en que vemos al general nazi moviéndose por el campo de batalla mientras lo conduce el espía inglés vestido de soldado alemán. 
+
+|VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
+|--------|------|----|--|------|-----|
+|Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
+|Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
+|Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
+|VW Typ 82 «Kübelwagen»|3|+1|80 km/h|13(3)|1+4|
+|Panzer II|6|+0|65 km/h|24(10)|3-4|
+
+
+
 ***
