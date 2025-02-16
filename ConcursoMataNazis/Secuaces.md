@@ -26,31 +26,7 @@ Hablamos de combatientes de baja graduación de cualquier rama del ejército naz
 * **Paso:** 6; **Parada:** 5; **Dureza:** 6
 * **Ventajas:** Soldado
 * **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
-* **Equipo:** Fusil, bayoneta(FUE+d4), casco (+1 dureza cabeza), 2 granadas
-
-\sp
-
-## Infantería nazi con armamento pesado
-
-Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Su problema es que en cuerpo a cuerpo es torpe y lento.
-
-* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma alemán d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 5
-* **Ventajas:** Soldado, Manos firmes
-* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
-* **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo) y gran cantidad de munición, casco (+1 dureza cabeza)
-
-## Infantería nazi acorazado
-
-La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos, su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente.
-
-* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
-* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma alemán d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
-* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 9(4)
-* **Ventajas:** Soldado, Disparo rápido
-* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
-* **Equipo:** Subfusil de asalto, peto de malla acorazado (+4 dureza), casco (+1 dureza cabeza)
+* **Equipo:** Fusil, bayoneta (FUE+d4), casco (+1 dureza cabeza), 2 granadas
 
 \sp
 
@@ -69,18 +45,37 @@ Este soldado nazi está especializado en el uso de lanzallamas como arma de comb
 
 &nbsp;
 
+## Infantería nazi con armamento pesado
+
+Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Su problema es que en cuerpo a cuerpo es torpe y lento.
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d10, Idioma alemán d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 5
+* **Ventajas:** Soldado, Manos firmes
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
+* **Equipo:** Ametralladora pesada con arnés de sujeción (necesita un turno completo para deshacerse de este equipo) y gran cantidad de munición, casco (+1 dureza cabeza)
+
+\sp
+
+## Infantería nazi acorazado
+
+La idea de este soldado nazi es crear una persona que sea un tanque. Con tanto blindaje encima que no tenga problemas en meterse directamente en la línea de fuego del enemigo con sus armas automáticas. Como en otros casos, su capacidad de movimiento es limitada debido al peso de la armadura y de su armamento. Por todo esto es más fácil evitarlo que enfrentarse a él directamente.
+
+* **Atributos:** Agilidad d6, Astucia d6, Espíritu d4, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d4, Conocimientos Generales d4, Disparar d8, Idioma alemán d6, Pelear d4, Notar d4, Persuadir d4, Sigilo d4
+* **Paso:** 6 (sobrecargado: paso 4 y no puede correr); **Parada:** 4; **Dureza:** 9(4)
+* **Ventajas:** Soldado, Disparo rápido
+* **Desventajas:** Obligaciones (mayor, ejército), Fanático (SS)
+* **Equipo:** Subfusil de asalto, peto de malla acorazado (+4 dureza), casco (+1 dureza cabeza)
+
 ## Vehículos nazis
 
 En esta tabla tenemos los vehículos típicos de las películas de la II Guerra Mundial como la BMW R-71, la moto con sidecar que persigue al camión donde escapa el comando, o Volkswagen Typ 82, en que vemos al general nazi moviéndose por el campo de batalla mientras lo conduce el espía inglés vestido de soldado alemán. 
 
 |VEHÍCULO|TAMAÑO|MANIOBRA.|VEL. MÁX.|DUREZA|TRIPULACIÓN|
-|--------|------|----|--|------|-----|
+|--------|------|----|---|------|-----|
 |Motocicleta BMW R-71|1 (Normal)|+1|125 km/h|8|1+1|
 |Motocicleta BMW R-71 con sidecar|2 (Normal)|+1|95 km/h|8|1+2|
 |Jeep Willys MB|3|+1|95 km/h|14(3)|1+4|
 |VW Typ 82 «Kübelwagen»|3|+1|80 km/h|13(3)|1+4|
-|Panzer II|6|+0|65 km/h|24(10)|3-4|
-
-
-
-***
