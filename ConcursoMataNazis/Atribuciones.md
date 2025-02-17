@@ -1,5 +1,6 @@
 # Atribuciones
 
+> 
 * Portada del capítulo «OPERACIÓN: Breakfast tea» por [Fay Gillon, WAAF intelligence officer who worked with the Dambusters](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
 * Portada del capítulo «Aliados y enemigos» y fotos del Teniente Hodgins y el Cabo Wilkins por [Jack E. Barker - Army Film and Photographic Unit](https://www.iwm.org.uk/collections/item/object/205192044)
 * Foto de Otto Kaufman por [Photo H. Hoffmann - Public Domain](https://en.wikipedia.org/wiki/Dietrich_von_Saucken#/media/File:Dietrich_von_Saucken_1.jpg)
