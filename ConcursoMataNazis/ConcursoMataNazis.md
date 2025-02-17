@@ -3,10 +3,10 @@
 \sp
 
 ```
-Operación: Breakfast tea es una aventura donde un grupo de actores son escogidos por la Inteligencia Militar Británica para montar un elaborado plan para engañar a Hitler y que crea que Inglaterra tiene un arma secreta que puede decantar la guerra del lado de Inglaterra. 
+Operación: Breakfast tea es una aventura donde un grupo de actores son escogidos por la Inteligencia Militar Británica para montar un elaborado plan para engañar a Hitler y que crea que Inglaterra tiene un arma secreta que puede decantar la guerra de su lado. 
 ```
 
-La idea de la Inteligencia Militar (IM) es crear una película donde se ve que los británicos han creado un supersoldado y dejar que la encuentren los nazis. El objetivo es que Hitler se obsesione con el film y quiera su propio «ubersoldat». Eso supondrá que con un gasto mínimo de esfuerzo de guerra por parte de los ingleses, los alemanes gastarán preciosos recursos que tendrán que quitar del frente.
+La idea de la Inteligencia Militar (IM) es crear una película donde se ve que los británicos han creado un supersoldado y dejar que la encuentren los nazis. El objetivo es que Hitler y su alto mando se obsesione con el film y quieran su propio «ubersoldat». Eso supondrá que con un gasto mínimo de esfuerzo de guerra por parte de los ingleses, los alemanes gastarán preciosos recursos que tendrán que quitar del frente.
 
 Todo esto sería muy fácil si no fuera porque IM no quiere rodarlo en un estudio. Los nazis caerán en la trampa si ruedan en localizaciones reales y lo hacen lo más real posible. Que mejor prueba que ver en una película a un supersoldado golpear una pared de roca en un pueblo en un territorio ocupado por los nazis y llegar al lugar y ver el agujero que dejo. 
 
@@ -14,18 +14,18 @@ IM ha buscado al grupo adecuado de hombres y mujeres para esta misión y son jus
 
 ## Creando a tu troupe
 
-A priori, tus personajes deberían englobarse dentro de uno de estos grupos:
+Esta aventura está pensada para 4 jugadores novatos, pero acepta sin problemas más o menos jugadores. A priori, tus personajes deberían englobarse dentro de uno de estos grupos:
 
 * **Actores y actrices:** Todos los personajes actores deberían tener «Interpretar» en mayor o menor medida.
-* **Tramoyistas y efectos especiales:** Los tramoyistas y la gente de efectos especiales deberían tener «Reparar» y/o «Electrónica». 
+* **Tramoyistas y efectos especiales:** Los tramoyistas y la gente de efectos especiales deberían tener «Reparar» y/o «Electrónica». Estas tareas podría hacerlas el cabo Wilkins.
 * **Personal de maquillaje, peluquería, sastrería, etc.**
 * **Guionistas:** Los guionistas necesitarán algo de «Humanidades» para escribir buenas tramas.
-* **Especialistas:** A este grupo no debería faltarles «Atletismo» y seguramente «Conducir»
-* **Producción:** Como encargados de conseguir dinero, recursos, permisos especiales, etc. deberían tener una buena puntuación en «Persuadir». 
-
-La mejor distribución es que hubiera un PJ que fuera el o la supersoldado, otro PJ fuera guionista y otro tramoyista o de efectos especiales. Si juegan más personajes pueden repartirse el resto de puestos o repetir alguno. Recuerda que con ellos irán dos PNJ, el teniente Hodgins y el cabo Wilkins que puedes retocar para que suplan las carencias del grupo de PJ.
+* **Especialistas:** A este grupo no debería faltarles «Atletismo» y seguramente «Conducir» o «Pilotar».
+* **Producción:** Como encargados de conseguir dinero, recursos, permisos especiales, etc. deberían tener una buena puntuación en «Persuadir». Este puesto lo puede suplir el Teniente Hodgins.
 
 \sp
+
+La mejor distribución es que hubiera un PJ que fuera el o la supersoldado, otro PJ fuera guionista y otro tramoyista o de efectos especiales. Si juegan más personajes pueden repartirse el resto de puestos o repetir alguno. Recuerda que con ellos irán dos PNJ, el teniente Hodgins y el cabo Wilkins que puedes retocar para que suplan las carencias del grupo de PJ.
 
 ## Engañar a los nazis.
 
@@ -41,9 +41,13 @@ Si tu mesa hace cosas increíbles y sorprendentes y estas quedan filmadas, puede
 
 ## Reclutamiento inusual
 
-El teniente Hodgins y el cabo Wilkins, ambos de la IM se presentarán en la casa o lugar de trabajo de cada PJ años proponiéndoles servir a su país contra los nazis. 
+El teniente Hodgins y el cabo Wilkins, ambos de la IM se presentarán en la casa o lugar de trabajo de cada PJ, proponiéndoles servir a su país contra los nazis. 
 
-XXX
+Les dirán que los necesitan para una misión secreta de IM por sus singulares características. No les van a mentir tampoco, no será fácil y pueden morir. Pero si triunfan salvarán muchas vidas.
+
+Empezarán con el rollo patriótico, pero puedes tratar de pillarles por otras desventajas como Heroico o Impulsivo.
+
+\sp
 
 Si algún PJ está en la cárcel o en problemas con la ley, les planteará un trato que les libre de su problema si aceptan la misión. Si nada de esto les convence, tienen una orden firmada del primer ministro de reclutamiento forzoso.
 
@@ -51,13 +55,11 @@ Una vez reclutados, serán llevados a unos estudios de cine de las afueras de Lo
 
 Si quieres que interactúen más con el exterior, puedes meterles en un viejo teatro en desuso en el West End londinense. Esto te permitirá más fácilmente que salgan a buscar materiales, que se codeen con sus compañeros de la farándula o incluso tener una noche de fiesta loca en Londres antes de partir de misión.
 
-\sp
-
 Acabar con una resaca terrible, vomitando por la borda de un barco en el canal de la Mancha y arrepintiéndose de algunas de las cosas que hicieron la noche anterior puede ser una bonita forma de empezar la misión.
 
 ## Arreglando el guion
 
-IM ha escrito un guion, pero una lectura rápida deja claro que no tienen idea de teatro y cine. Es aburrido, rígido, poco creíble y sobre todo aburrido, hasta el nombre del supersoldado apesta. Hay que cogerlo y reescribirlo completamente. Que tus jugadores pidan café porque va a ser una noche muy larga.
+IM ha escrito un guion, pero una lectura rápida deja claro que no tienen idea de teatro y cine. Es lento, rígido, poco creíble y sobre todo aburrido, hasta el nombre del supersoldado apesta. Hay que cogerlo y reescribirlo completamente. Que tus jugadores pidan café porque va a ser una noche muy larga.
 
 ### Esto no hay por donde cogerlo (+1/0)
 
@@ -74,6 +76,8 @@ Si quieren asegurarse de que los nazis se creen la historia deberán.
 * El supersoldado es una copia evidente del Capitán América, creado en 1941. Hay que darle otro toque más inglés y como siempre más épico.
 * No hay apenas interacción con fuerzas nazis. Deberían pensar en algún combate intenso.
 
+\sp
+
 ### Y el Óscar es para … (+1/0)
 
 Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
@@ -81,43 +85,88 @@ Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
 * La cámara debería estará fija o la llevará alguien encima mientras se mueve con saltos y desencuadres. Tampoco habrá diferentes planos y cortes. Eso le quita dinamismo a las escenas. Si se les ocurre alguna excusa para poder montar varios planos ganaría muchos puntos.
 * Nadie está pensando en el espectador final del documental, los altos mandos nazis, así que darle un vistazo a sus perfiles psicológicos ayudará a hacer una mejor película. Por ejemplo, seguramente que alguno querrá más sangre y mutilaciones aunque sean de sus propios soldados.
 
-\sp
+Todos estos problemas pueden tratar de solucionarlos a base de tiradas o interpretándolo entre ellos y jugando con sus recursos, contactos y ventajas.
+
+## Preparando los personajes (+1/0)
+
+La película solo tiene 3 personajes, el teniente, el supersoldado y los soldados nazis.
+
+Para los nazis deberían usar las propias fuerzas nazis de la isla. Tenderles una trampa y que parezca que el supersoldado ha acabado con todos. Además, así quedarían unos bonitos cadáveres que reafirmarían lo que cuenta el documental.
+
+El resto de personajes deberán interpretarlos tu mesa y deberán ser convincentes y carismáticos.
+
+### El teniente
+
+Aunque no sea el protagonista, será una pieza fundamental, ya que su misión será presentarnos al supersoldado y convencernos de sus capacidades. Tendrá que ser muy efusivo y a la vez tremendamente serio y militar.
+
+Sus tiradas de Interpretar deberían ser muy buenas para cumplir con su papel.
+
+### El supersoldado
+
+El supersoldado debe ajustarse al diseño que hayan hecho de él. Lo normal es que tenga que ser un tío grande y musculoso, pero esto marcará los poderes que le atribuyan. Y quien dice supersoldado, puede decir superamazona.
+
+Sus tiradas de Interpretar deberían ser normales, ya que no tendrá que decir muchas frases y serán sencillas. Su problema será las escenas de acción donde se jugará el tipo.
 
 ## Preparando el equipo de rodaje
 
-Una vez terminado el guion hay que montar el equipo de grabación y preparar atrezos varios.
+Una vez terminado el guion hay que montar el equipo de grabación y preparar atrezos varios. Los imprescindibles serían:
+
+* Equipo de grabación fácil de usar y transportar.
+* Traje de supersoldado creíble.
+* Trucos de efectos especiales para cada superpoder.
+* Armamento para defenderse.
+
+Puede venirles bien:
+
+* Explosivos.
+* Trajes de soldados y tenientes nazis y armas nazis.
+* Equipo de escalada.
 
 Han de tener en cuenta que se grabará en la isla de Jersey y que deberá ser poco pesado y resistente porque hay que infiltrarse en territorio controlado por los nazis y todo se puede descontrolar en segundos.
 
-> No hace falta que contabilices el peso, simplemente diles que cada miembro de la misión puede llevar un ítem, entendiendo como ítem el equipo de grabación, el traje del supersoldado, cada truco de efectos especiales, ...
+> No hace falta que contabilices el peso, simplemente diles que cada miembro de la misión puede llevar un ítem, entendiendo como ítem el equipo de grabación, el traje del supersoldado, cada truco de efectos especiales, …
+
+Además, dispondrán, sin problemas de peso, de un buen mapa de la isla y una radio para comunicarse con casa y con el submarino para que les saque de la isla.
 
 ### Sastrería (+1/0)
 
-XXX
+A priori, cada actor necesita su traje, pero realmente el complicado de conseguir será el de supersoldado. Tener una idea del traje del supersoldado es facil, lo complicado es cortarlo y coserlo y que parezca «real». Seguramente tendrán que recurrir a artesanos del cuero y de la tela para que les monten las diferentes piezas del disfraz.
+
+Seguramente tendrán moverse por todo Londres para encargan las diferentes piezas del traje a diferentes personas para que nadie sepa como es el traje al completo y puedan sospechar que quieren hacer.
+
+Si deciden que el traje sea hecho a medida para un PJ, le dará un +2 a Interpretar cuando se presente en primer plano al actor, pero si no lo usa ese PJ en concreto porque está indispuesto, el nuevo supersoldado tendrán un -2 cuando aparezca ante la cámara.
+
+\sp
 
 ### Efectos especiales (+1/0)
 
 XXX
 
+Si tienen una idea genial para fingir los poderes que no necesite equipamiento o un equipamiento ridículo, pues mucho mejor para ellos.
+
 ### Equipo de cámaras (+1/0)
 
-XXX
+Cogiendo el equipo de grabación que les proporcione Wilkins, no van a tener muchas posibilidades de lucirse con los planos y el montaje.
 
-Recuérdales que si pierden o se estropea el equipo de grabación, la misión fracasa, igual tienen que plantearse un segundo juego de cámaras.
+Si tienen alguna idea buena para mejorar las cámaras o llevan dos equipos de cámara para tener planos desde diferentes ángulos pueden crear muy buenas secuencias.
 
-## Preparando los personajes (+1/0)
-
-XXX
-
-\sp
+Recuérdales también que si pierden o se estropea el equipo de grabación, la misión fracasa, igual tienen que plantearse un segundo juego de cámaras.
 
 ## Incursión en la isla de Jersey
 
 Una vez terminado el guion y preparado el equipo, el siguiente problema de la misión es entrar en territorio ocupado por los nazis sin ser visto con todo un equipo de filmación. 
 
-XXX
+La marina inglesa va a ceder un submarino que se acercará por la noche lo más posible hasta una cala desierta de la isla y les dejará en una lancha neumática. Tendrán que llegar a remo a la playa y desembarcar sin estropear el equipo.
+
+Al desembarcar, un agente local les espera para llevarlos a un granero abandonado cercano donde organizar todo.
+
+El clima puede ponerles las cosas chungas tanto en el agua como en tierra, ya que cámaras, explosivos y trucos de efectos especiales son bastante sensibles al agua. Así que una simple tormenta puede ponerles las cosas muy chungas.
+
+Unas luces desconocidas o sonidos de motor en la lejanía también debería ponerles en tensión.
 
 > En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey, deberían perder los puntos que recibieron por ellos.
+
+\sp
 
 ### Buscando localizaciones (+1/0)
 
@@ -135,8 +184,6 @@ El documental empieza con un teniente inglés explicando todo el proyecto en alg
 
 XXX
 
-\sp
-
 ### Los poderes del supersoldado (+2/-1)
 
 XXX
@@ -149,27 +196,37 @@ Uno de los problemas principales es hacer desaparecer a las tropas que el supers
 
 ## Volviendo a Inglaterra
 
-XXX
+Una vez terminen la grabación, podrán contactar con el submarino y en 3 horas el submarino estará en las mismas coordenadas donde les dejo. Si no están allí cuando emerjan, se sumergirá de nuevo y se irá. Deben calcular muy bien cuando llamar para poder llegar a tiempo a la cita.
+
+\sp
+
+Por otro lado, si les han descubierto y les persiguen, deberán aguantar 3 horas hasta que les rescaten.
 
 ### Deshacerse del equipo
 
-No es necesario volver con todo el equipo de vuelta. Lo único importante son las cámaras con los negativos de la película. El resto de equipo pueden deshacerse de él. Deberán destruirlo adecuadamente para que los investigadores nazis no lo descubran y puedan descubrir que es falso.
+No es necesario volver con todo el equipo de vuelta. Lo único importante son las cámaras con los negativos de la película. El resto de equipo pueden deshacerse de él, por ejemplo, quemándolo. Deberán destruirlo adecuadamente para que los investigadores nazis no lo descubran y puedan descubrir que es falso.
 
 Otra opción es que aprovechen a dejar objetos falsos para redondear el engaño. Por ejemplo, podrían dejar en una playa cercana el casco del supersoldado con su logo y sus colores, si han hecho un casco con materiales de buenos y no uno de atrezo. Por estos detalles pueden darles también un beni a la película, ya que se la entregarían a Hitler durante el visionado siendo más impactante.
 
 ## El pase privado para el Führer
 
-Unas semanas después de la misión, IM dejará que espías nazis obtengan la película. La película será visionada por alguien de las SS y tendrá que considerar que es digno de pasarlo a sus superiores. Para ello la película deberá pasar una tirada de Espíritu o será guardada en un cajón.
+Unas semanas después de la misión, IM dejará que espías nazis obtengan la película y como habían predicho, el documental empieza su camino hacia Berlín.
 
-Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada.
+### Camino a Berlín
+
+La película será visionada por alguien de las SS y tendrá que considerar que es digno de pasarlo a sus superiores. Para ello la película deberá pasar una tirada de Espíritu o será guardada en un cajón.
+
+Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada y si se puede comprobar que Otto Kaufman y sus hombres murieron de forma extraña en la isla de Jersey obtendrá un +2.
+
+### El pase privado
 
 Una vez pasados los filtros iniciales, la inteligencia nazi montará un visionado del documental para decidir qué hacer con la información descubierta.
-
-\sp
 
 Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen convencer a 3, la misión será un éxito. Si consiguen los 5 será un completo éxito que habrá salvado miles de vidas.
 
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
+
+\sp
 
 * **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
 * **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene está historia así que estará a pasar el rato.
@@ -178,6 +235,8 @@ Cada espectador tiene un Espíritu y para que la película convenza a un especta
 * **Adolfo Hitler (d8):** Hitler es un simple en estos temas, pero le gustan los buenos discursos. Si la charla inicial del documental está trabajada, la película tendrá un +2 a la tirada enfrentada.
 
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
+
+### Éxito o fracaso de la misión
 
 Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
 

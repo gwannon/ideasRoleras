@@ -1,3 +1,5 @@
+ Hay variaciones del soldado nazi clásico con toques muy «pulp» por si tu mesa se aburre de matar simples soldados.
+
 ## Infantería nazi con armamento pesado
 
 Este soldado nazi es por así decirlo una arma de destrucción personal. Tiene una especie de arnés que le permite sostener una ametralladora pesada y moverse (lentamente) con ella. Su problema es que en cuerpo a cuerpo es torpe y lento.

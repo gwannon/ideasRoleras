@@ -2,9 +2,7 @@
 
 \sp
 
-Aquí te presentamos toda una galería de miembros del ejército nazi para que puedas patearles el culo a gusto. Hay variaciones del soldado nazi clásico con toques muy «pulp» por si tu mesa se aburre de matar simples soldados.
-
-Recuerda que muchos de estos PNJ genéricos puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d8 en Conducir en vez del d6 normal y el francotirador tenga un d10 a Disparar en vez de d8.
+Aquí te presentamos toda una galería de miembros del ejército nazi para que puedas patearles el culo a gusto. Recuerda que muchos de estos PNJ puedes personalizarlos con diferentes habilidades y ventajas. Quizás el soldado que lleva un camión puede que tenga un d8 en Conducir en vez del d6 normal y el francotirador tenga un d10 a Disparar en vez de d8.
 
 ## Oficial nazi
 
