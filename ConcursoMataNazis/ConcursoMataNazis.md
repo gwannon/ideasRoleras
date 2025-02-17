@@ -77,7 +77,7 @@ Si quieren asegurarse de que los nazis se creen la historia deberán.
 Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
 
 * La cámara debería estará fija o la llevará alguien encima mientras se mueve con saltos y desencuadres. Tampoco habrá diferentes planos y cortes. Eso le quita dinamismo a las escenas. Si se les ocurre alguna excusa para poder montar varios planos ganaría muchos puntos.
-* XXX
+* Nadie está pensando en el espectador final del documental, los altos mandos nazis, así que darle un vistazo a sus perfiles psicológicos ayudará a hacer una mejor película. Por ejemplo, seguramente que alguno querrá más sangre y mutilaciones aunque sean de sus propios soldados.
 
 ## Preparando el equipo de rodaje
 
@@ -166,16 +166,16 @@ Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen conve
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
 
 * **Eva Braun (dX):** XXX
-* **Hermann Göring (d6):** XXX
+* **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
 * **Heinrich Himmler (d8):** XXX
 * **Joseph Goebbels (d10):** Como genio de la comunicación y propaganda no será facil engañarle en su juego. Espíritu -2, si la película tiene fallos en los efectos especiales.
-* **Adolfo Hitler (d8):** XXX
+* **Adolfo Hitler (d8):** 
 
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
 
-Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
-
 \sp
+
+Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
 
 > También puedes olvidarte de toda esta parte y decidir tú mismo si la misión fracasa o triunfa. Recuerda tu partida tus normas.
 
