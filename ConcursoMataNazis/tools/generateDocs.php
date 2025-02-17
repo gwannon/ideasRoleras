@@ -100,8 +100,8 @@ foreach($lines as $line) {
   }
 }
 
-$metas .= bookMark("Contraportada", 1, $counter);
-$json[] = ["title" => "Contraportada", "page" => $counter];
+/*$metas .= bookMark("Contraportada", 1, $counter);
+$json[] = ["title" => "Contraportada", "page" => $counter];*/
 
 echo "Indice ".count($json)." items\n";
 

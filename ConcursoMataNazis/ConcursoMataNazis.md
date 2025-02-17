@@ -153,9 +153,9 @@ XXX
 
 ### Deshacerse del equipo
 
-No es necesario volver con todo el equipo de vuelta. Lo único importante son las camaras con los negativos de la película. El resto de equipo pueden deshacerse de él.
+No es necesario volver con todo el equipo de vuelta. Lo único importante son las cámaras con los negativos de la película. El resto de equipo pueden deshacerse de él. Deberán destruirlo adecuadamente para que los investigadores nazis no lo descubran y puedan descubrir que es falso.
 
-XXX
+Otra opción es que aprovechen a dejar objetos falsos para redondear el engaño. Por ejemplo, podrían dejar en una playa cercana el casco del supersoldado con su logo y sus colores, si han hecho un casco con materiales de buenos y no uno de atrezo. Por estos detalles pueden darles también un beni a la película, ya que se la entregarían a Hitler durante el visionado siendo más impactante.
 
 ## El pase privado para el Führer
 
@@ -165,11 +165,11 @@ Si la pasa será llevada hasta el cuartel central de las SS, donde será analiza
 
 Una vez pasados los filtros iniciales, la inteligencia nazi montará un visionado del documental para decidir qué hacer con la información descubierta.
 
+\sp
+
 Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen convencer a 3, la misión será un éxito. Si consiguen los 5 será un completo éxito que habrá salvado miles de vidas.
 
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
-
-\sp
 
 * **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
 * **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene está historia así que estará a pasar el rato.
@@ -193,10 +193,11 @@ Si la película funciona y convence a los altos mandos de las SS, se empezará a
 
 ***
 
-## Atribuciones
+# Atribuciones
 
 * Portada del capítulo «OPERACIÓN: Breakfast tea» por [Fay Gillon, WAAF intelligence officer who worked with the Dambusters](https://www.kcl.ac.uk/behind-the-few-the-womens-auxiliary-air-force-and-their-contribution-to-british-intelligence-during-the-second-world-war)
 * Portada del capítulo «Aliados y enemigos» y fotos del Teniente Hodgins y el Cabo Wilkins por [Jack E. Barker - Army Film and Photographic Unit](https://www.iwm.org.uk/collections/item/object/205192044)
 * Foto de Otto Kaufman por [Photo H. Hoffmann - Public Domain](https://en.wikipedia.org/wiki/Dietrich_von_Saucken#/media/File:Dietrich_von_Saucken_1.jpg)
 * Portada del capítulo de «Secuaces» por [Fremke, Heinz / CC-BY-SA 3.0](https://es.wikipedia.org/wiki/Wehrmacht#/media/Archivo:Bundesarchiv_Bild_183-B15023,_Ausbildung_bei_der_Wehrmacht.jpg)
 * Soldado con lanzallamas por [Bundesarchiv, Bild 101I-299-1808-15A / Scheck / CC-BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-299-1808-15A,_Nordfrankreich,_Soldat_mit_Flammenwerfer.jpg)
+* Fuentes usadas de Google Fonts: [SpecialElite-Regular](https://fonts.google.com/specimen/Special+Elite), [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie) y [Zeyada](https://fonts.google.com/specimen/Zeyada)
