@@ -85,10 +85,12 @@ foreach($lines as $line) {
     $json[] = ["title" => $line,"page" => $counter, "tag" => "H1"];
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
+    $line = preg_replace("/\([^)]+\)/", "", $line);
     $metas .= bookMark($line, 2, $counter);
     $json[] = ["title" => $line,"page" => $counter, "tag" => "H2"];
   } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
+    $line = preg_replace("/\([^)]+\)/", "", $line);
     $metas .= bookMark($line, 3, $counter);
     $json[] = ["title" => $line,"page" => $counter, "tag" => "H3"];
   } else if(preg_match("/(<h4>)/", $line)) {
