@@ -42,9 +42,9 @@ Si buscan (Bueno +2) en el taller, en la papelera del taller encontrarán un pap
 
 Si interrogan a los trabajadores no estarán muy por la labor. Ya ha aguantado al inspector Newcomen y no tienen más ganas de interrogatorio. Ninguno sabe nada, ni vio nada y sobre todo ninguno tenía una razón clara para robar la fuente.
 
-Si hablan con la gente de los alrededores, nadie vio ni escuchó nada. Si les ves un poco perdido, algún vecino voy días antes un grupo de personas (entre 4 y 6) con malas pintas como vigilando el lugar.
-
 \sp
+
+Si hablan con la gente de los alrededores, nadie vio ni escuchó nada. Si les ves un poco perdido, algún vecino voy días antes un grupo de personas (entre 4 y 6) con malas pintas como vigilando el lugar.
 
 ## Buscando pistas
 
@@ -63,9 +63,9 @@ Si a los impresores legales no les interesa la Vindica, deberán buscar impresor
 * Falsificadores que necesiten equipamiento para sus trabajos. Si encontraron la prueba en la papelera, podrán sin problema filtrar su búsqueda a falsificadores.
 * Grupos anarquistas y sindicales que necesitaban tipos nuevos para imprimir sus panfletos propagandísticos.
 
-Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
-
 \sp
+
+Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
 
 Sin contactos en los bajos fondos, tendrán que conseguir pistas en Scotland Yard. Alguien debería conocer a los falsificadores de la ciudad y por donde suelen moverse.
 
@@ -85,12 +85,12 @@ Han dado varios golpes sonados con bombas en una oficina del fisco y en el minis
 
 XXX
 
+\sp
+
 * Anarquistas fanáticos
 * **Es Bueno (+2) en:** Arengar a las masas, Combatir
 * **Es Malo (-2) en:** XXX, XXX 
 * **Estrés:** ◯◯
-
-\sp
 
 El cuartel del FAP está lleno de explosivos conectados a una mecha central que si se enciende los hace explotar y provocan el derrumbe del taller donde se reúnen. Si se enciende la mecha es muy difícil de apagar (Bueno +2) y tendrá un par de turnos para escapar corriendo del taller y saltar fuera mientras una bola de fuego destruye el edificio.
 
@@ -104,13 +104,13 @@ Pueden llevar las pocas piezas que no fueron robadas a que las analice y solo en
 
 Tarde o temprano esta línea de investigación se extinguirá, aunque puedes estirarla todo lo que quieras. Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
 
+\sp
+
 ## El East End de Londres
 
 XXX
 
 Walt tiene su guarida en la bodega de «El Trébol», una de las peores tascas del East End londinense. Es un tugurio de mala muerte donde se bebe mal, se juega mucho y se pelea siempre.  
-
-\sp
 
 Walt tiene su imprenta en la bodega y entra y sale por la carbonera. XXX
 
@@ -124,9 +124,9 @@ Con Gîroc no solo aprendió el fino arte de hacer cosas impresas tremendamente 
 
 Así que Walter consiguió tener una buena cultura general y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
 
-Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
-
 \sp
+
+Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
 * **Aspectos**
   * **Concepto principal:** Experto falsificador de los barrios bajos de Londres
@@ -144,6 +144,8 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
 ### La pandilla de «Tinta China»
 
 La pandilla de «Tinta China» es una mezcla de matones y trabajadores de imprenta. Trabajan imprimiendo las falsificaciones de Walter y si es necesario llenan un calcetín de piezas tipográficas de plomo y se lían a tortas con quien haga falta.
+
+\sp
 
 * Criminal de baja estofa
 * **Es Bueno (+2) en:** Trabajo pesado, Pelear
