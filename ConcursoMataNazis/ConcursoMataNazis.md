@@ -63,32 +63,33 @@ Los principales fallos del guion son:
 
 * El título es una chufa, es muy militar, pero no tiene ninguna chispa. Es necesario meterle épica a tope.
 * Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla.
-* XXX
+* Los diálogos son pésimos, son largas parrafadas científicas muy aburridas. Hay que hacerlos mucho más entretenidos.
 
 ### El demonio está en los detalles (+1/0)
 
 Si quieren asegurarse de que los nazis se creen la historia deberán.
 
-* El supersoldado es una copia evidente del Capitán América, creado en 1941. Hay que darle otro toque. XXX
-* XXX
+* El supersoldado es una copia evidente del Capitán América, creado en 1941. Hay que darle otro toque más inglés y como siempre más épico.
+* No hay apenas interacción con fuerzas nazis. Deberían pensar en algún combate intenso.
 
 ### Y el Óscar es para … (+1/0)
 
 Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
 
+* La cámara debería estará fija o la llevará alguien encima mientras se mueve con saltos y desencuadres. Tampoco habrá diferentes planos y cortes. Eso le quita dinamismo a las escenas. Si se les ocurre alguna excusa para poder montar varios planos ganaría muchos puntos.
 * XXX
 
 ## Preparando el equipo de rodaje
 
-Una vez terminado el guion hay hay que montar el equipo de grabación y preparar atrezos varios.
-
-Han de tener en cuenta que se grabará en la isla de Jersey y que deberá ser poco pesado y resistente porque hay que infiltrarse en territorio controlado por los nazis y todo se puede descontrolar en segundos.
+Una vez terminado el guion hay que montar el equipo de grabación y preparar atrezos varios.
 
 \sp
 
-> No hace falta que contabilices el peso, simplemente diles que cada miembro de la misión puede llevar un ítem, entendiendo como ítem el equipo de grabación, el traje del supersoldado o cada truco de efectos especiales.
+Han de tener en cuenta que se grabará en la isla de Jersey y que deberá ser poco pesado y resistente porque hay que infiltrarse en territorio controlado por los nazis y todo se puede descontrolar en segundos.
 
-### Sastreria (+1/0)
+> No hace falta que contabilices el peso, simplemente diles que cada miembro de la misión puede llevar un ítem, entendiendo como ítem el equipo de grabación, el traje del supersoldado, cada truco de efectos especiales, ...
+
+### Sastrería (+1/0)
 
 XXX
 
@@ -124,6 +125,8 @@ XXX
 
 XXX
 
+Recuerda que esta misión es en verano, pero eso no quiere decir que no les llueva. Si crees que les está yendo demasiado bien, la lluvia puede ser un gran problema para sus planes sin que quede forzado en la historia.
+
 ### La presentación (+1/0)
 
 El documental empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico y que el nombre sea verdadero y se parezca a la persona por la que traten de hacerse pasar.
@@ -140,11 +143,15 @@ XXX
 
 Uno de los problemas principales es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
 
+\sp
+
 ## Volviendo a Inglaterra
 
 XXX
 
-\sp
+### Deshacerse del equipo
+
+XXX
 
 ## El pase privado para el Führer
 
@@ -167,6 +174,8 @@ Cada espectador tiene un Espíritu y para que la película convenza a un especta
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
 
 Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
+
+\sp
 
 > También puedes olvidarte de toda esta parte y decidir tú mismo si la misión fracasa o triunfa. Recuerda tu partida tus normas.
 
