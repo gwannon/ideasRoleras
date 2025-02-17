@@ -61,6 +61,7 @@ IM ha escrito un guion, pero una lectura rápida deja claro que no tienen idea d
 
 Los principales fallos del guion son:
 
+* El título es una chufa, es muy militar, pero no tiene ninguna chispa. Es necesario meterle épica a tope.
 * Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla.
 * XXX
 
@@ -77,48 +78,73 @@ Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
 
 * XXX
 
-## Preparando el equipo de rodaje (+1/0)
+## Preparando el equipo de rodaje
+
+Una vez terminado el guion hay hay que montar el equipo de grabación y preparar atrezos varios.
+
+Han de tener en cuenta que se grabará en la isla de Jersey y que deberá ser poco pesado y resistente porque hay que infiltrarse en territorio controlado por los nazis y todo se puede descontrolar en segundos.
+
+\sp
+
+> No hace falta que contabilices el peso, simplemente diles que cada miembro de la misión puede llevar un ítem, entendiendo como ítem el equipo de grabación, el traje del supersoldado o cada truco de efectos especiales.
+
+### Sastreria (+1/0)
 
 XXX
+
+### Efectos especiales (+1/0)
+
+XXX
+
+### Equipo de cámaras (+1/0)
+
+XXX
+
+Recuérdales que si pierden o se estropea el equipo de grabación, la misión fracasa, igual tienen que plantearse un segundo juego de cámaras.
 
 ## Preparando los personajes (+1/0)
 
 XXX
 
-\sp
-
 ## Incursión en la isla de Jersey
 
-Un problema principal de la misión es entrar en territorio ocupado por los nazis sin ser visto con todo un equipo de grabación. 
+Una vez terminado el guion y preparado el equipo, el siguiente problema de la misión es entrar en territorio ocupado por los nazis sin ser visto con todo un equipo de filmación. 
 
 XXX
+
+\sp
 
 > En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey, deberían perder los puntos que recibieron por ellos.
 
-
-## El documental
-
-XXX
-
-### Fingiendo el documental
+### Buscando localizaciones (+1/0)
 
 XXX
 
-Uno de los problemas principales en esta parte es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi, acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
-
-### El supersoldado en acción
+## Filmando el documental
 
 XXX
 
-### Matando nazis
+### La presentación (+1/0)
+
+El documental empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico y que el nombre sea verdadero y se parezca a la persona por la que traten de hacerse pasar.
 
 XXX
 
-\sp
+### Los poderes del supersoldado (+2/-1)
+
+XXX
+
+### El supersoldado en acción (+2/0)
+
+XXX
+
+Uno de los problemas principales es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
 
 ## Volviendo a Inglaterra
 
 XXX
+
+\sp
 
 ## El pase privado para el Führer
 
@@ -141,8 +167,6 @@ Cada espectador tiene un Espíritu y para que la película convenza a un especta
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
 
 Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
-
-\sp
 
 > También puedes olvidarte de toda esta parte y decidir tú mismo si la misión fracasa o triunfa. Recuerda tu partida tus normas.
 
