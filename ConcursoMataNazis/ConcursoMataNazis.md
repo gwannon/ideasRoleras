@@ -23,7 +23,7 @@ A priori, tus personajes deberían englobarse dentro de uno de estos grupos:
 * **Especialistas:** A este grupo no debería faltarles «Atletismo» y seguramente «Conducir»
 * **Producción:** Como encargados de conseguir dinero, recursos, permisos especiales, etc. deberían tener una buena puntuación en «Persuadir». 
 
-La mejor distribución es que hubiera un PJ que fuera el o la supersoldado, otro PJ fuera guionista y otro tramoyista o de efectos especiales. Si juegan más personajes pueden repartirse el resto de puestos o repetir alguno. 
+La mejor distribución es que hubiera un PJ que fuera el o la supersoldado, otro PJ fuera guionista y otro tramoyista o de efectos especiales. Si juegan más personajes pueden repartirse el resto de puestos o repetir alguno. Recuerda que con ellos irán dos PNJ, el teniente Hodgins y el cabo Wilkins que puedes retocar para que suplan las carencias del grupo de PJ.
 
 \sp
 
@@ -49,9 +49,11 @@ Si algún PJ está en la cárcel o en problemas con la ley, les planteará un tr
 
 Una vez reclutados, serán llevados a unos estudios de cine de las afueras de Londres, donde pasarán unos días preparando toda la operación. Allí pasarán todo el tiempo, dormirán, comerán y trabajarán allí.
 
-Si te sientes creativo, es buen momento para meter una noche de fiesta loca en Londres antes de partir de misión. Acabar con una resaca terrible y arrepintiéndose de algunas de las cosas que hicieron la noche anterior hará que haya sido una buena juerga.
+Si quieres que interactúen más con el exterior, puedes meterles en un viejo teatro en desuso en el West End londinense. Esto te permitirá más fácilmente que salgan a buscar materiales, que se codeen con sus compañeros de la farándula o incluso tener una noche de fiesta loca en Londres antes de partir de misión.
 
 \sp
+
+Acabar con una resaca terrible, vomitando por la borda de un barco en el canal de la Mancha y arrepintiéndose de algunas de las cosas que hicieron la noche anterior puede ser una bonita forma de empezar la misión.
 
 ## Arreglando el guion
 
@@ -79,11 +81,11 @@ Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
 * La cámara debería estará fija o la llevará alguien encima mientras se mueve con saltos y desencuadres. Tampoco habrá diferentes planos y cortes. Eso le quita dinamismo a las escenas. Si se les ocurre alguna excusa para poder montar varios planos ganaría muchos puntos.
 * Nadie está pensando en el espectador final del documental, los altos mandos nazis, así que darle un vistazo a sus perfiles psicológicos ayudará a hacer una mejor película. Por ejemplo, seguramente que alguno querrá más sangre y mutilaciones aunque sean de sus propios soldados.
 
+\sp
+
 ## Preparando el equipo de rodaje
 
 Una vez terminado el guion hay que montar el equipo de grabación y preparar atrezos varios.
-
-\sp
 
 Han de tener en cuenta que se grabará en la isla de Jersey y que deberá ser poco pesado y resistente porque hay que infiltrarse en territorio controlado por los nazis y todo se puede descontrolar en segundos.
 
@@ -107,13 +109,13 @@ Recuérdales que si pierden o se estropea el equipo de grabación, la misión fr
 
 XXX
 
+\sp
+
 ## Incursión en la isla de Jersey
 
 Una vez terminado el guion y preparado el equipo, el siguiente problema de la misión es entrar en territorio ocupado por los nazis sin ser visto con todo un equipo de filmación. 
 
 XXX
-
-\sp
 
 > En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey, deberían perder los puntos que recibieron por ellos.
 
@@ -133,6 +135,8 @@ El documental empieza con un teniente inglés explicando todo el proyecto en alg
 
 XXX
 
+\sp
+
 ### Los poderes del supersoldado (+2/-1)
 
 XXX
@@ -143,13 +147,13 @@ XXX
 
 Uno de los problemas principales es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
 
-\sp
-
 ## Volviendo a Inglaterra
 
 XXX
 
 ### Deshacerse del equipo
+
+No es necesario volver con todo el equipo de vuelta. Lo único importante son las camaras con los negativos de la película. El resto de equipo pueden deshacerse de él.
 
 XXX
 
@@ -165,15 +169,15 @@ Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen conve
 
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
 
-* **Eva Braun (dX):** XXX
+\sp
+
 * **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
-* **Heinrich Himmler (d8):** XXX
+* **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene está historia así que estará a pasar el rato.
 * **Joseph Goebbels (d10):** Como genio de la comunicación y propaganda no será facil engañarle en su juego. Espíritu -2, si la película tiene fallos en los efectos especiales.
-* **Adolfo Hitler (d8):** 
+* **Eva Braun (d8):** Eva no quiere ver sangre ni casquería. Si la filmación agrada a Hermann Göring, desagradará a Eva y la filmación tendrá un -2 en la tirada enfrentada.
+* **Adolfo Hitler (d8):** Hitler es un simple en estos temas, pero le gustan los buenos discursos. Si la charla inicial del documental está trabajada, la película tendrá un +2 a la tirada enfrentada.
 
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
-
-\sp
 
 Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
 
