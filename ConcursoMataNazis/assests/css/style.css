@@ -610,7 +610,7 @@ section:first-of-type h3 {
 .likeH3 {
   display: block;
   cursor: pointer;
-  margin: 0 0 3px 0;
+  margin: 0 0 6px 0;
   text-decoration: none;
   font-size: 1.3em;
   /*max-height: 17px;*/
