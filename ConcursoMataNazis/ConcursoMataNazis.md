@@ -194,23 +194,27 @@ El único problema de esta ubicación sería que en caso de que les descubrieran
 
 \sp
 
-Cualquier otra instalación en la isla podría no ser reconocida y, por tanto, no sería 
+Cualquier otra instalación en la isla podría no ser reconocida y, por tanto, no sería tan impactante y se podría dudar de su autenticidad.
 
 ## Filmando el documental
 
-XXX
+Ahora toca lo más complicado rodar el documental que debería tener 3 partes, presentación, demostración de poderes y lo más difícil de todo, el combate con fuerza nazis.
 
 Recuerda que esta misión es en verano, pero eso no quiere decir que no les llueva. Si crees que les está yendo demasiado bien, la lluvia puede ser un gran problema para sus planes sin que quede forzado en la historia.
 
 ### La presentación (+1/0)
 
-El documental empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico y que el nombre sea verdadero y se parezca a la persona por la que traten de hacerse pasar.
+El documental empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico, ya que las SS mirarán todo. Así que el nombre sea verdadero y se parezca a la persona por la que traten de hacerse pasar.
 
-XXX
+Esta va a ser la parte hablada más importante de la grabación así que es importante la interpretación de este personaje. Lo bueno es que en teoría todavía no deberían estar bajo fuego enemigo. Si lo consiguen de forma excepcional, tanto con una tirada de Interpretar como con interpretándolo ellos mismos, puedes darle un beni a la película, además del punto para Espíritu.
 
 ### Los poderes del supersoldado (+2/-1)
 
-XXX
+Tras la introducción del teniente, deberían presentar al supersoldado. Este deberá hacer alarde de sus poderes. 
+
+Aquí entran en juego todos los efectos especiales que hayan preparado. Según lo que hayan montado el actor/especialista tendrá que pasar tiradas de Atletismo, Interpretar, Fuerza, ... Si hacen cortes entre poder y poder no habrá problemas, pero si lo montan todo seguido cada vez será más Complicado. De esta forma la segunda tirada sin cortes tendrá un -2, la tercera un -4, y así sucesivamente.
+
+Si consiguen hacerlo todo sin cortes quedará muchísimo más realista. Este detalle también podría darle un beni a la película.
 
 ### El supersoldado en acción (+2/0)
 
