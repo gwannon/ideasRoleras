@@ -72,14 +72,14 @@ IM ha escrito un guion, pero una lectura rápida deja claro que no tienen idea d
 Los principales fallos del guion son:
 
 * El título es una chufa, es muy militar, pero no tiene ninguna chispa. Es necesario meterle épica a tope.
-* Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla. Los nazis estaban obsesionados con la magia y los poderes psíquicos, así que está puede ser una vía interesante.
+* Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla. Los nazis estaban obsesionados con la magia y los poderes psíquicos, así que esta puede ser una vía interesante.
 * Los diálogos son pésimos, son largas parrafadas científicas muy aburridas. Hay que hacerlos mucho más entretenidos.
 
 \sp
 
 ### El demonio está en los detalles (+1/0)
 
-Si quieren asegurarse de que los nazis se creen la historia deberán.
+Si quieren asegurarse de que los nazis se creen la historia deberán mejorar ciertas partes:
 
 * El supersoldado es una copia evidente del Capitán América, creado en 1941. Hay que darle otro toque más inglés y como siempre más épico.
 * No hay apenas interacción con fuerzas nazis. Deberían pensar en algún combate intenso.
@@ -89,7 +89,7 @@ Si quieren asegurarse de que los nazis se creen la historia deberán.
 Si solucionan algunos de estos detalles, este guion podría optar a un Óscar:
 
 * La cámara debería estará fija o la llevará alguien encima mientras se mueve con saltos y desencuadres. Tampoco habrá diferentes planos y cortes. Eso le quita dinamismo a las escenas. Si se les ocurre alguna excusa para poder montar varios planos ganaría muchos puntos.
-* Nadie está pensando en el espectador final del documental, los altos mandos nazis, así que darle un vistazo a sus perfiles psicológicos ayudará a hacer una mejor película. Por ejemplo, seguramente que alguno querrá más sangre y mutilaciones aunque sean de sus propios soldados.
+* Nadie está pensando en el espectador final del documental, los altos mandos nazis, así que darle un vistazo a sus perfiles psicológicos ayudará a hacer una mejor película. Por ejemplo, seguramente que alguno querrá más sangre y mutilaciones, aunque sean de sus propios soldados.
 
 Todos estos problemas pueden tratar de solucionarlos a base de tiradas o interpretándolo entre ellos y jugando con sus recursos, contactos y ventajas.
 
@@ -140,9 +140,9 @@ Además, dispondrán, sin problemas de peso, de un buen mapa de la isla y una ra
 
 ### Sastrería (+1/0)
 
-A priori, cada actor necesita su traje, pero realmente el complicado de conseguir será el de supersoldado. Tener una idea del traje del supersoldado es facil, lo complicado es cortarlo y coserlo y que parezca «real». Seguramente tendrán que recurrir a artesanos del cuero y de la tela para que les monten las diferentes piezas del disfraz.
+A priori, cada actor necesita su traje, pero realmente el complicado de conseguir será el de supersoldado. Tener una idea del traje del supersoldado es fácil, lo complicado es cortarlo y coserlo y que parezca «real». Seguramente tendrán que recurrir a artesanos del cuero y de la tela para que les monten las diferentes piezas del disfraz.
 
-Seguramente tendrán moverse por todo Londres para encargar las diferentes piezas del traje a diferentes personas para que nadie sepa como es el traje al completo y puedan sospechar que quieren hacer.
+Tendrán moverse por todo Londres para encargar las diferentes piezas del traje a diferentes personas para que nadie sepa como es el traje al completo y puedan sospechar que quieren hacer.
 
 Si deciden que el traje sea hecho a medida para un PJ, le dará un +2 a Interpretar cuando se presente en primer plano al actor, pero si no lo usa ese PJ en concreto porque está indispuesto, el nuevo supersoldado tendrán un -2 cuando aparezca ante la cámara.
 
@@ -162,7 +162,7 @@ Si tienen una idea genial para fingir los poderes que no necesite equipamiento o
 
 Cogiendo el equipo de grabación que les proporcione Wilkins, no van a tener muchas posibilidades de lucirse con los planos y el montaje.
 
-Si tienen alguna idea buena para mejorar las cámaras o llevan dos equipos de cámara para tener planos desde diferentes ángulos pueden crear muy buenas secuencias.
+Si tienen alguna idea buena para mejorar las cámaras o llevan dos equipos de cámara para tener planos desde diferentes ángulos, pueden crear muy buenas secuencias.
 
 Recuérdales también que si pierden o se estropea el equipo de grabación, la misión fracasa, igual tienen que plantearse un segundo juego de cámaras.
 
@@ -206,21 +206,39 @@ Recuerda que esta misión es en verano, pero eso no quiere decir que no les llue
 
 El documental empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico, ya que las SS mirarán todo. Así que el nombre sea verdadero y se parezca a la persona por la que traten de hacerse pasar.
 
-Esta va a ser la parte hablada más importante de la grabación así que es importante la interpretación de este personaje. Lo bueno es que en teoría todavía no deberían estar bajo fuego enemigo. Si lo consiguen de forma excepcional, tanto con una tirada de Interpretar como con interpretándolo ellos mismos, puedes darle un beni a la película, además del punto para Espíritu.
+Esta va a ser la parte hablada más importante de la grabación, así que es fundamental que la interpretación de este personaje sea buena. Lo bueno es que en teoría todavía no deberían estar bajo fuego enemigo. Si lo consiguen de forma excepcional, tanto con una tirada de Interpretar como con interpretándolo ellos mismos, puedes darle un beni a la película, además del punto para Espíritu.
 
 ### Los poderes del supersoldado (+2/-1)
 
 Tras la introducción del teniente, deberían presentar al supersoldado. Este deberá hacer alarde de sus poderes. 
 
-Aquí entran en juego todos los efectos especiales que hayan preparado. Según lo que hayan montado el actor/especialista tendrá que pasar tiradas de Atletismo, Interpretar, Fuerza, ... Si hacen cortes entre poder y poder no habrá problemas, pero si lo montan todo seguido cada vez será más Complicado. De esta forma la segunda tirada sin cortes tendrá un -2, la tercera un -4, y así sucesivamente.
+Aquí entran en juego todos los efectos especiales que hayan preparado. Según lo que hayan montado el actor/especialista tendrá que pasar tiradas de Atletismo, Interpretar, Fuerza, … Si hacen cortes entre poder y poder no habrá problemas, pero si lo montan todo seguido cada vez será más Complicado. De esta forma la segunda tirada sin cortes tendrá un -2, la tercera un -4, y así sucesivamente.
 
 Si consiguen hacerlo todo sin cortes quedará muchísimo más realista. Este detalle también podría darle un beni a la película.
 
 ### El supersoldado en acción (+2/0)
 
-XXX
+Esta parte de documental es la más complicada y puede hacer fallar toda la misión. El supersoldado debe enfrentarse él solo a un grupo de soldados nazis y derrotarlos usando sus poderes.
 
-Uno de los problemas principales es hacer desaparecer a las tropas que el supersoldado mata en el documental. Así que deberán buscar a un grupo de nazi acabar con ellos, quitarles equipo y luego fingir que el supersoldado acaba con ellos y dejar sus cuerpos para que sean encontrados.
+\sp
+
+Esto se puede hacer de 3 formas. La primera sería disfrazarse el resto de nazis y hacer una pantomima. Esto solventa el problema fácilmente, pero queda sospechoso que el supersoldado acabe con una patrulla de soldados y no haya constancia de ello.
+
+También pueden buscar una patrulla, tenderles una trampa y tratar de fingir los poderes del supersoldado mientras combate contra ellos. Esta es la más realista y daría los dos puntos de Espíritu, pero es muy peligrosa.
+
+Es también la más peligrosa y complicada, ya que el resto del equipo no debería poder ayudarle directamente.
+
+La última opción es acabar por las bravas con una patrulla, quedarse su equipo y filmar el combate. Esto lo hace más fácil y sigue siendo bastante realista.
+
+Pero en el combate solo podrán usar armas que simulen los poderes del supersoldado. Por ejemplo, si es superfuerte y da puñetazos no pueden dispararles, las heridas no serían congruentes.
+
+Enrí lleva meses estudiando los movimientos nazis de la isla y se conoce sus recorridos. Una buena tirada de Tácticas les dirá el mejor lugar para emboscarlos.
+
+La patrulla estará compuesta por un oficial con dos soldados en un Kübelwagen y luego tantos soldados en motocicleta BMW R-71 con sidecar como miembros de la expedición. Si queda algún soldado desemparejado, irá en el coche del oficial. 
+
+Es muy fácil que huya alguno en moto si se ven superados, así que deberían tener un plan preparado para este caso o habrá una persecución por los embarrados de la isla.
+
+Una vez derrotada la patrulla, tendrán una hora para rodar todo y largarse u otra patrulla vendrá a ver qué ha pasado.
 
 ## Volviendo a Inglaterra
 
@@ -228,13 +246,13 @@ Una vez terminen la grabación, podrán contactar con el submarino y en 3 horas 
 
 Por otro lado, si les han descubierto y les persiguen, deberán aguantar 3 horas hasta que les rescaten.
 
-\sp
-
 ### Deshacerse del equipo
 
 No es necesario volver con todo el equipo de vuelta. Lo único importante son las cámaras con los negativos de la película. El resto de equipo pueden deshacerse de él, por ejemplo, quemándolo. Deberán destruirlo adecuadamente para que los investigadores nazis no lo descubran y puedan descubrir que es falso.
 
-Otra opción es que aprovechen a dejar objetos falsos para redondear el engaño. Por ejemplo, podrían dejar en una playa cercana el casco del supersoldado con su logo y sus colores, si han hecho un casco con materiales de buenos y no uno de atrezo. Por estos detalles pueden darles también un beni a la película, ya que se la entregarían a Hitler durante el visionado siendo más impactante.
+\sp
+
+Otra opción es que aprovechen a dejar objetos falsos para redondear el engaño. Por ejemplo, podrían dejar en una playa cercana el casco del supersoldado con su logo y sus colores, si han hecho un casco con materiales de buenos y no uno de atrezo. Por estos detalles pueden darles también un beni a la película, ya que se la entregarían a Hitler durante el visionado, siendo más impactante.
 
 ## El pase privado para el Führer
 
@@ -254,13 +272,13 @@ Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen conve
 
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
 
-* **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
+* **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones, la película tendrá un -2 en su tirada enfrentada. 
+* **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene esta historia, así que estará a pasar el rato.
+* **Joseph Goebbels (d10):** Como genio de la comunicación y propaganda, no será fácil engañarle en su juego. Espíritu -2, si la película tiene fallos en los efectos especiales.
+* **Eva Braun (d8):** Eva no quiere ver sangre ni casquería. Si la filmación agrada a Hermann Göring, desagradará a Eva y la filmación tendrá un -2 en la tirada enfrentada.
 
 \sp
 
-* **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene está historia así que estará a pasar el rato.
-* **Joseph Goebbels (d10):** Como genio de la comunicación y propaganda no será facil engañarle en su juego. Espíritu -2, si la película tiene fallos en los efectos especiales.
-* **Eva Braun (d8):** Eva no quiere ver sangre ni casquería. Si la filmación agrada a Hermann Göring, desagradará a Eva y la filmación tendrá un -2 en la tirada enfrentada.
 * **Adolfo Hitler (d8):** Hitler es un simple en estos temas, pero le gustan los buenos discursos. Si la charla inicial del documental está trabajada, la película tendrá un +2 a la tirada enfrentada.
 
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
