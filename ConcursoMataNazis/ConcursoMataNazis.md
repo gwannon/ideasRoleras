@@ -75,14 +75,14 @@ Los principales fallos del guion son:
 * Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla. Los nazis estaban obsesionados con la magia y los poderes psíquicos, así que está puede ser una vía interesante.
 * Los diálogos son pésimos, son largas parrafadas científicas muy aburridas. Hay que hacerlos mucho más entretenidos.
 
+\sp
+
 ### El demonio está en los detalles (+1/0)
 
 Si quieren asegurarse de que los nazis se creen la historia deberán.
 
 * El supersoldado es una copia evidente del Capitán América, creado en 1941. Hay que darle otro toque más inglés y como siempre más épico.
 * No hay apenas interacción con fuerzas nazis. Deberían pensar en algún combate intenso.
-
-\sp
 
 ### Y el Óscar es para … (+1/0)
 
@@ -106,6 +106,8 @@ El resto de personajes deberán interpretarlos tu mesa y deberán ser convincent
 Aunque no sea el protagonista, será una pieza fundamental, ya que su misión será presentarnos al supersoldado y convencernos de sus capacidades. Tendrá que ser muy efusivo y a la vez tremendamente serio y militar.
 
 Sus tiradas de Interpretar deberían ser muy buenas para cumplir con su papel.
+
+\sp
 
 ### El supersoldado
 
@@ -134,6 +136,8 @@ Han de tener en cuenta que se grabará en la isla de Jersey y que deberá ser po
 
 Además, dispondrán, sin problemas de peso, de un buen mapa de la isla y una radio para comunicarse con casa y con el submarino para que les saque de la isla.
 
+\sp
+
 ### Sastrería (+1/0)
 
 A priori, cada actor necesita su traje, pero realmente el complicado de conseguir será el de supersoldado. Tener una idea del traje del supersoldado es facil, lo complicado es cortarlo y coserlo y que parezca «real». Seguramente tendrán que recurrir a artesanos del cuero y de la tela para que les monten las diferentes piezas del disfraz.
@@ -141,8 +145,6 @@ A priori, cada actor necesita su traje, pero realmente el complicado de consegui
 Seguramente tendrán moverse por todo Londres para encargar las diferentes piezas del traje a diferentes personas para que nadie sepa como es el traje al completo y puedan sospechar que quieren hacer.
 
 Si deciden que el traje sea hecho a medida para un PJ, le dará un +2 a Interpretar cuando se presente en primer plano al actor, pero si no lo usa ese PJ en concreto porque está indispuesto, el nuevo supersoldado tendrán un -2 cuando aparezca ante la cámara.
-
-\sp
 
 ### Efectos especiales (+1/0)
 
@@ -164,6 +166,8 @@ Si tienen alguna idea buena para mejorar las cámaras o llevan dos equipos de c�
 
 Recuérdales también que si pierden o se estropea el equipo de grabación, la misión fracasa, igual tienen que plantearse un segundo juego de cámaras.
 
+\sp
+
 ## Incursión en la isla de Jersey
 
 Una vez terminado el guion y preparado el equipo, el siguiente problema de la misión es entrar en territorio ocupado por los nazis sin ser visto con todo un equipo de filmación. 
@@ -178,8 +182,6 @@ Unas luces desconocidas o sonidos de motor en la lejanía también debería pone
 
 > En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey, deberían perder los puntos que recibieron por ellos.
 
-\sp
-
 ### Buscando localizaciones (+1/0)
 
 Una vez establecidos en el granero deberán buscar un lugar seguro donde rodar. Necesitarán un lugar reconocible y aislado. Para encontrarlo pueden ayudarse del mapa y del agente local Enrí Mounte.
@@ -189,6 +191,8 @@ El punto más reconocible de la isla sería el castillo de Mont Orgueil, pero ti
 Una buena tirada de Tácticas, les abrirá la opción de la costa sur de la isla. No es especialmente reconocible, pero en días claros se ve la costa francesa y con suerte partes del «Atlantikwall», el cinturón defensivo costero construido por los nazis. El perfil de la costa y sus instalaciones militares serían fácilmente reconocibles para la inteligencia militar nazi.
 
 El único problema de esta ubicación sería que en caso de que les descubrieran no podrían escapar hacia el mar.
+
+\sp
 
 Cualquier otra instalación en la isla podría no ser reconocida y, por tanto, no sería 
 
@@ -218,9 +222,9 @@ Uno de los problemas principales es hacer desaparecer a las tropas que el supers
 
 Una vez terminen la grabación, podrán contactar con el submarino y en 3 horas el submarino estará en las mismas coordenadas donde les dejo. Si no están allí cuando emerjan, se sumergirá de nuevo y se irá. Deben calcular muy bien cuando llamar para poder llegar a tiempo a la cita.
 
-\sp
-
 Por otro lado, si les han descubierto y les persiguen, deberán aguantar 3 horas hasta que les rescaten.
+
+\sp
 
 ### Deshacerse del equipo
 
@@ -236,7 +240,7 @@ Unas semanas después de la misión, IM dejará que espías nazis obtengan la pe
 
 La película será visionada por alguien de las SS y tendrá que considerar que es digno de pasarlo a sus superiores. Para ello la película deberá pasar una tirada de Espíritu o será guardada en un cajón.
 
-Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada y si se puede comprobar que Otto Kaufman y sus hombres murieron de forma extraña en la isla de Jersey obtendrá un +2.
+Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada y si se puede comprobar que un grupo de soldados con sus oficiales murieron de forma extraña en la isla de Jersey obtendrá un +2.
 
 ### El pase privado
 
@@ -246,9 +250,10 @@ Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen conve
 
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
 
+* **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
+
 \sp
 
-* **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones la película tendrá un -2 en su tirada enfrentada. 
 * **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene está historia así que estará a pasar el rato.
 * **Joseph Goebbels (d10):** Como genio de la comunicación y propaganda no será facil engañarle en su juego. Espíritu -2, si la película tiene fallos en los efectos especiales.
 * **Eva Braun (d8):** Eva no quiere ver sangre ni casquería. Si la filmación agrada a Hermann Göring, desagradará a Eva y la filmación tendrá un -2 en la tirada enfrentada.
