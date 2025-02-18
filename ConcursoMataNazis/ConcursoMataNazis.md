@@ -57,6 +57,12 @@ Si quieres que interactúen más con el exterior, puedes meterles en un viejo te
 
 Acabar con una resaca terrible, vomitando por la borda de un barco en el canal de la Mancha y arrepintiéndose de algunas de las cosas que hicieron la noche anterior puede ser una bonita forma de empezar la misión.
 
+### El papel de Hodgins y Wilkins en la misión
+
+Estos PNJ a pesar de ser los jefes de la misión, deberían ser relegados a un papel más secundario. El peso de las decisiones debería ser tu mesa y ellos solo deberían actuar como consejeros y asesores y, en caso de votaciones, para romper los empates.
+
+También estarán para suplir las carencias de habilidades de tu mesa, haciéndoles los cambios necesarios.
+
 ## Arreglando el guion
 
 IM ha escrito un guion, pero una lectura rápida deja claro que no tienen idea de teatro y cine. Es lento, rígido, poco creíble y sobre todo aburrido, hasta el nombre del supersoldado apesta. Hay que cogerlo y reescribirlo completamente. Que tus jugadores pidan café porque va a ser una noche muy larga.
@@ -66,7 +72,7 @@ IM ha escrito un guion, pero una lectura rápida deja claro que no tienen idea d
 Los principales fallos del guion son:
 
 * El título es una chufa, es muy militar, pero no tiene ninguna chispa. Es necesario meterle épica a tope.
-* Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla.
+* Los poderes del supersoldado son superfuerza, superagilidad y superresistencia. Son poco vistosos y difíciles de mostrar en pantalla. Los nazis estaban obsesionados con la magia y los poderes psíquicos, así que está puede ser una vía interesante.
 * Los diálogos son pésimos, son largas parrafadas científicas muy aburridas. Hay que hacerlos mucho más entretenidos.
 
 ### El demonio está en los detalles (+1/0)
@@ -132,7 +138,7 @@ Además, dispondrán, sin problemas de peso, de un buen mapa de la isla y una ra
 
 A priori, cada actor necesita su traje, pero realmente el complicado de conseguir será el de supersoldado. Tener una idea del traje del supersoldado es facil, lo complicado es cortarlo y coserlo y que parezca «real». Seguramente tendrán que recurrir a artesanos del cuero y de la tela para que les monten las diferentes piezas del disfraz.
 
-Seguramente tendrán moverse por todo Londres para encargan las diferentes piezas del traje a diferentes personas para que nadie sepa como es el traje al completo y puedan sospechar que quieren hacer.
+Seguramente tendrán moverse por todo Londres para encargar las diferentes piezas del traje a diferentes personas para que nadie sepa como es el traje al completo y puedan sospechar que quieren hacer.
 
 Si deciden que el traje sea hecho a medida para un PJ, le dará un +2 a Interpretar cuando se presente en primer plano al actor, pero si no lo usa ese PJ en concreto porque está indispuesto, el nuevo supersoldado tendrán un -2 cuando aparezca ante la cámara.
 
@@ -140,7 +146,13 @@ Si deciden que el traje sea hecho a medida para un PJ, le dará un +2 a Interpre
 
 ### Efectos especiales (+1/0)
 
-XXX
+El principal problema a la hora de pensar los efectos especiales es que deben ser muy creíbles y fácilmente transportables. Deberían ser autónomos y que quepan en un macuto grande. Estamos hablando de:
+
+* Camas elásticas desmontables.
+* Ingenio hidráulico para lanzar cosas.
+* Objetos realistas de cartón desmontables.
+* Materiales inflamables y traje ignífugo.
+* Explosivos y sistemas de detonación varios.
 
 Si tienen una idea genial para fingir los poderes que no necesite equipamiento o un equipamiento ridículo, pues mucho mejor para ellos.
 
@@ -158,7 +170,7 @@ Una vez terminado el guion y preparado el equipo, el siguiente problema de la mi
 
 La marina inglesa va a ceder un submarino que se acercará por la noche lo más posible hasta una cala desierta de la isla y les dejará en una lancha neumática. Tendrán que llegar a remo a la playa y desembarcar sin estropear el equipo.
 
-Al desembarcar, un agente local les espera para llevarlos a un granero abandonado cercano donde organizar todo.
+Al desembarcar, un agente local, Enrí Mounte, les espera para llevarlos a un granero abandonado cercano donde organizar todo.
 
 El clima puede ponerles las cosas chungas tanto en el agua como en tierra, ya que cámaras, explosivos y trucos de efectos especiales son bastante sensibles al agua. Así que una simple tormenta puede ponerles las cosas muy chungas.
 
@@ -170,7 +182,15 @@ Unas luces desconocidas o sonidos de motor en la lejanía también debería pone
 
 ### Buscando localizaciones (+1/0)
 
-XXX
+Una vez establecidos en el granero deberán buscar un lugar seguro donde rodar. Necesitarán un lugar reconocible y aislado. Para encontrarlo pueden ayudarse del mapa y del agente local Enrí Mounte.
+
+El punto más reconocible de la isla sería el castillo de Mont Orgueil, pero tiene el peligro de estar muy cerca de poblaciones. No hay que estar muy cerca del pueblo de Gorey, pero podrían verles.
+
+Una buena tirada de Tácticas, les abrirá la opción de la costa sur de la isla. No es especialmente reconocible, pero en días claros se ve la costa francesa y con suerte partes del «Atlantikwall», el cinturón defensivo costero construido por los nazis. El perfil de la costa y sus instalaciones militares serían fácilmente reconocibles para la inteligencia militar nazi.
+
+El único problema de esta ubicación sería que en caso de que les descubrieran no podrían escapar hacia el mar.
+
+Cualquier otra instalación en la isla podría no ser reconocida y, por tanto, no sería 
 
 ## Filmando el documental
 
