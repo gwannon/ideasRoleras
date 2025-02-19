@@ -77,19 +77,19 @@ Sea como sea tras algunas pistas falsas. Tendrán el nombre de Walt «Tinta Chin
 
 #### El Frente Anarquista Popular (FAP)
 
-No tendría gracia que directamente tus jugadores acabaran directamente en «El trébol» y deberías por lo menos ponerle un rastro falso de un grupo anarquista y/o falsificadores.
+No tendría gracia que directamente tus jugadores acabaran directamente en «El trébol» y deberías por lo menos ponerle un rastro falso de un grupo anarquista a no ser que la prueba de impresión les marque que deben buscar solo falsificadores.
 
 El Frente Anarquista Popular es un grupo anarquista que busca la destrucción del gobierno con atentados contra instituciones gubernamentales y monárquicas. Su objetivo son las instituciones de recaudación de impuestos, ya que creen que sin impuestos el gobierno será destruido.
 
 Han dado varios golpes sonados con bombas en una oficina del fisco y en el ministerio de Hacienda.
 
-XXX
-
 \sp
+
+Su cuartel general está en las Docklands en un almacén con acceso al Támesis. Casi siempre hay unos 4 miembros del FAP imprimiendo panfletos, preparando artefactos explosivos o discutiendo de política.
 
 * Anarquistas fanáticos
 * **Es Bueno (+2) en:** Arengar a las masas, Combatir
-* **Es Malo (-2) en:** XXX, XXX 
+* **Es Malo (-2) en:** Negociar, Ciencias 
 * **Estrés:** ◯◯
 
 El cuartel del FAP está lleno de explosivos conectados a una mecha central que si se enciende los hace explotar y provocan el derrumbe del taller donde se reúnen. Si se enciende la mecha es muy difícil de apagar (Bueno +2) y tendrá un par de turnos para escapar corriendo del taller y saltar fuera mientras una bola de fuego destruye el edificio.
@@ -108,13 +108,31 @@ Tarde o temprano esta línea de investigación se extinguirá, aunque puedes est
 
 ## El East End de Londres
 
-XXX
+Tarde o temprano les pondrán en la pista de Walt «Tinta Cuina» Sherwood y su banda de falsificadores. 
 
 Walt tiene su guarida en la bodega de «El Trébol», una de las peores tascas del East End londinense. Es un tugurio de mala muerte donde se bebe mal, se juega mucho y se pelea siempre.  
 
-Walt tiene su imprenta en la bodega y entra y sale por la carbonera. XXX
+Walt tiene su imprenta en la bodega y entra y sale por la carbonera. Para evitar levantar sospechas de los parroquianos de «El trébol».
+
+### Infiltración 
+
+Tus investigadores necesitarán pruebas de que la fuente robada está en el sótano de «El Trébol», así que deberán infiltrarse y conseguir pruebas, unos puñados de tipos móviles servirán.
 
 XXX
+
+### Detener a la banda
+
+Es muy difícil que tus investigadores detengan a toda la banda ellos solos. Si consiguen ayuda de gente como el patrullero Wilson, la cosa puede ser más fácil, pero nunca sencilla.
+
+Si son inteligentes pueden tener alguna idea brillante como narcotizar la bebida o separarlos de alguna manera y detenerlos de uno en uno.
+
+La opción más lógica es tratar de hablar con Newcomen y que les ayude a detener a todos los falsificadores en su guarida. El problema es que entonces Newcomen se apropiará del caso y se lo adjudicará.
+
+\sp
+
+El inspector Newcomen, si le dan la información sobre la banda y las pruebas del robo, podrá pedir una orden de detención y montará una redada que tomará «El trébol» y detendrá a todos los delincuentes. Newcomen se asegurará de que dos policías, vigilen a tus jugadores y no le dejen acercarse para evitar que le roben la fama.
+
+Si han sido listos y lo saben, no le contarán lo de la salida por la carbonera y podrán ponerse allí para cazar a Sherwood tratando de escapar. Walt intentará huir como sea, pero no dudará en sacar una gran cuchilla de guillotinar papel y en usarla.
 
 ### Walt «Tinta China» Sherwood
 
@@ -124,9 +142,9 @@ Con Gîroc no solo aprendió el fino arte de hacer cosas impresas tremendamente 
 
 Así que Walter consiguió tener una buena cultura general y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
 
-\sp
-
 Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
+
+\sp
 
 * **Aspectos**
   * **Concepto principal:** Experto falsificador de los barrios bajos de Londres
@@ -145,9 +163,17 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
 
 La pandilla de «Tinta China» es una mezcla de matones y trabajadores de imprenta. Trabajan imprimiendo las falsificaciones de Walter y si es necesario llenan un calcetín de piezas tipográficas de plomo y se lían a tortas con quien haga falta.
 
-\sp
-
 * Criminal de baja estofa
 * **Es Bueno (+2) en:** Trabajo pesado, Pelear
 * **Es Malo (-2) en:** Cultura, Negociar 
 * **Estrés:** ◯◯
+
+\sp
+
+### Negro sobre blanco
+
+Si consiguen resolverlo, Tiberius Fox estará tremendamente agradecido y propondrá a los investigadores un trato muy interesante, publicarles en formato folletín sus extraños casos y llevarse una parte de los beneficios.
+
+Si no les ve muy convencidos, les hablará de la inmortalidad de estar en negro sobre blanco, de la fama y si todo va bien de pingües beneficios.
+
+Si no se fían, Utterson revisará el contrato, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
