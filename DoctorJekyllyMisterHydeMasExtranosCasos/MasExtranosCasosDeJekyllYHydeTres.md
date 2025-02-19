@@ -85,7 +85,7 @@ Han dado varios golpes sonados con bombas en una oficina del fisco y en el minis
 
 \sp
 
-Su cuartel general está en las Docklands en un almacén con acceso al Támesis. Casi siempre hay unos 4 miembros del FAP imprimiendo panfletos, preparando artefactos explosivos o discutiendo de política.
+Su cuartel general está en las Docklands en un almacén con una puerta principal y con acceso fluvial al Támesis. Casi siempre hay unos 4 miembros del FAP imprimiendo panfletos, preparando artefactos explosivos o discutiendo de política.
 
 * Anarquistas fanáticos
 * **Es Bueno (+2) en:** Arengar a las masas, Combatir
@@ -102,9 +102,9 @@ Si preguntan, los trabajadores de la imprenta no notaron nunca nada en las pieza
 
 Pueden llevar las pocas piezas que no fueron robadas a que las analice y solo encontraran plomo. No son de oro o plata y no parece que tengan ningún misterio.
 
-Tarde o temprano esta línea de investigación se extinguirá, aunque puedes estirarla todo lo que quieras. Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
-
 \sp
+
+Tarde o temprano esta línea de investigación se extinguirá, aunque puedes estirarla todo lo que quieras. Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
 
 ## El East End de Londres
 
@@ -116,9 +116,15 @@ Walt tiene su imprenta en la bodega y entra y sale por la carbonera. Para evitar
 
 ### Infiltración 
 
-Tus investigadores necesitarán pruebas de que la fuente robada está en el sótano de «El Trébol», así que deberán infiltrarse y conseguir pruebas, unos puñados de tipos móviles servirán.
+Tus investigadores necesitarán pruebas de que la fuente robada está en el sótano de «El Trébol», así que deberán infiltrarse y conseguir pruebas, unos puñados de moldes de letras servirán. Si consiguen pruebas de que están falsificando moneda francesa también estará bien, pero eso exigiría abrir, con una tirada Buena (+2), una caja con candado donde guardan el papel moneda.
 
-XXX
+Siempre hay dos personas trabajando en la imprenta y durante el día puede que haya alguien pasando el rato con esos dos. Por la noche, tras cogerse una buena borrachera en el propio bar, duermen en la bodega en unos camastros improvisados. Deberían atrancar la trampilla de las escaleras, pero la verdad que muchas veces van tan borrachos que ni se enteran.
+
+\sp
+
+La bodega es un cuadrado de unos 20x20 metros sin ningún tipo de separación, solo algunas columnas de contención. No tiene luz natural solo lámparas de aceite y sus únicas entradas son las escaleras que dan detrás del mostrador del bar y una carbonera que ya no se usa para tal fin. Walt suele salir y entrar por la carbonera cuando no quiere ser detectado, pero el resto.  
+
+En un par de días de vigilancia pueden detectar a Walt saliendo por la carbonera, los hábitos de entrada y de salida y lo más importante que casi todas las noches acaban alcoholizados perdidos.
 
 ### Detener a la banda
 
@@ -128,11 +134,11 @@ Si son inteligentes pueden tener alguna idea brillante como narcotizar la bebida
 
 La opción más lógica es tratar de hablar con Newcomen y que les ayude a detener a todos los falsificadores en su guarida. El problema es que entonces Newcomen se apropiará del caso y se lo adjudicará.
 
-\sp
-
 El inspector Newcomen, si le dan la información sobre la banda y las pruebas del robo, podrá pedir una orden de detención y montará una redada que tomará «El trébol» y detendrá a todos los delincuentes. Newcomen se asegurará de que dos policías, vigilen a tus jugadores y no le dejen acercarse para evitar que le roben la fama.
 
-Si han sido listos y lo saben, no le contarán lo de la salida por la carbonera y podrán ponerse allí para cazar a Sherwood tratando de escapar. Walt intentará huir como sea, pero no dudará en sacar una gran cuchilla de guillotinar papel y en usarla.
+Si han sido listos y lo saben, no le contarán lo de la salida por la carbonera y podrán ponerse allí para cazar a Sherwood tratando de escapar. Walt intentará huir como sea, pero no dudará en sacar una gran cuchilla de guillotinar papel y en usarla, si fuera necesario.
+
+\sp
 
 ### Walt «Tinta China» Sherwood
 
@@ -144,8 +150,6 @@ Así que Walter consiguió tener una buena cultura general y si lo desea puede p
 
 Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
-\sp
-
 * **Aspectos**
   * **Concepto principal:** Experto falsificador de los barrios bajos de Londres
   * **Complicación:** Perfeccionista hasta la obsesión
@@ -153,6 +157,9 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
   * Curtido en las calles
   * Muy buena vista
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
+
+\sp
+
 * **Proezas**
   * **Colar billetes falsos:** Debido a sus años intentando soltar billetes falsos en todo tipo de negocios, gana un +2 para Superar en modo Rápido cuando tiene que mentir.
   * **Fingir de ser clase alta:** Debido a las enseñanzas de su maestro Gîroc sobre modales, etiqueta y cultura en general, gana un +2 para Crear una ventaja en modo Cauto cuando tiene hacerse pasar por gente clase media/alta.
@@ -168,12 +175,12 @@ La pandilla de «Tinta China» es una mezcla de matones y trabajadores de impren
 * **Es Malo (-2) en:** Cultura, Negociar 
 * **Estrés:** ◯◯
 
-\sp
-
 ### Negro sobre blanco
 
 Si consiguen resolverlo, Tiberius Fox estará tremendamente agradecido y propondrá a los investigadores un trato muy interesante, publicarles en formato folletín sus extraños casos y llevarse una parte de los beneficios.
 
 Si no les ve muy convencidos, les hablará de la inmortalidad de estar en negro sobre blanco, de la fama y si todo va bien de pingües beneficios.
+
+\sp
 
 Si no se fían, Utterson revisará el contrato, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
