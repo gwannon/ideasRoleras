@@ -437,7 +437,6 @@ Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
-
 \sp
 
 \sinc
@@ -446,11 +445,7 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \conc
 
-
-
 \sc
-
-
 
 ### Rockeros
 

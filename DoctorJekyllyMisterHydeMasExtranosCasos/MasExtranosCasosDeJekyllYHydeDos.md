@@ -12,7 +12,6 @@ Lord Winthle es el propietario más rico del Hampstead. Está harto de sus vecin
 
 Así que ha construido en sus terrenos un pozo en diagonal que llega al acuífero del Pozo del Pastor y está secándolo con unas bombas. Cuando el agua deje de fluir hacia el Tyburn, este se secará y las habitantes de las casas más pobres tendrán que vender sus casas por una miseria.
 
-
 \sp
 
 Toda el agua sobrante la está enviando a la red de alcantarillado que termina en el Támesis, unos 3 kilómetros más arriba de la desembocadura del Tyburn.

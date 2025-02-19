@@ -274,7 +274,6 @@ Si se hacen la cuenta en la web de citas y ponen un perfil como el de Maricarmen
 
 Si tienen suerte y un buen plan como hacerse un perfil de alguien alternativo de cualquier orientación sexual y le dan un like puede que les conteste.
 
-
 Alfonse es muy listo en estos ámbitos y no será fácil engañarle. Pero al final, si accede, jugará en casa y quedará con las cazadoras en la «Jaula».
 
 \sp

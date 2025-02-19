@@ -100,7 +100,6 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 
 Si os ha gustado este suplemento podéis probar otros de mis proyectos para Savage Worlds. Animaros y dadles un poco de cariño.
 
-
 **[OPERACIÓN: Tras el mundo perdido](https://mundoperdido.gwannon.com/pdf/)**
 
 Una campaña donde lucharás contra nazis a lomos de dinosaurios.

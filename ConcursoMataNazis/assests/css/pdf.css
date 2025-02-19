@@ -28,8 +28,6 @@ body {
   counter-increment: primary 1; /* Increment the value of section counter by 1 */
 }
 
-
-
 .saltopagina:after {
   --size: 20px;
   font-family: 'SpecialElite';

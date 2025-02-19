@@ -80,7 +80,6 @@ blockquote:nth-of-type(3n) {
 
 }
 
-
 blockquote:nth-of-type(5n) {
   rotate: -1deg;
 }
@@ -545,9 +544,6 @@ section:nth-of-type(6) h1 {
   background-size: cover;
   text-shadow: 0 0 20px black;
 }
-
-
-
 
 /* Portada */
 section:first-of-type {

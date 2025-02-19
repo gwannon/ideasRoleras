@@ -23,7 +23,6 @@ Aunque es un mediocre, conseguir que Kaufman muera de forma creíble en el docum
 
 **Sugerencia de interpretación:** Eres todo lo que se espera de un general racista, machista, cruel, sádico (de hecho disfrutas con el dolor ajeno y propio) y con un total desprecio por la vida humana. Los fallos los castigas duramente, muy duramente. En cuanto empiezan a salirte mal las cosas, comienzas a chillar a todos y a moverte frenéticamente.
 
-
 * Foto de Otto Kaufman por [Photo H. Hoffmann - Public Domain](https://en.wikipedia.org/wiki/Dietrich_von_Saucken#/media/File:Dietrich_von_Saucken_1.jpg)
 
 ***
