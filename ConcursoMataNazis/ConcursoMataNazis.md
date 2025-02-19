@@ -31,7 +31,7 @@ La mejor distribución es que hubiera un PJ que fuera el o la supersoldado, otro
 
 Toda esta aventura trata de crear un «mockumental» o falso documental del ejército inglés con una prueba de campo del supersoldado que han creado los científicos aliados. El film irá ganando y perdiendo puntos según actué tu mesa. Al final de la aventura, el éxito o fracaso de la misión se decidirá si el film engaña a Hitler o no en un pase privado en Berlín.
 
-A lo largo de esta aventura verás titulares con dos cifras, la primera serán los puntos que se obtienen al superar adecuadamente esa parte y la segunda parte serán los obtengan al fracasar.
+A lo largo de esta aventura verás titulares con dos cifras, la primera serán los puntos que se obtienen al superar adecuadamente esa parte y la segunda parte serán los que obtengan al fracasar.
 
 El marcador empieza en 0 y el mínimo viable que debe cumplir para que el plan funciona es 4 puntos. Con 4 puntos la película tira d4 Espíritu. Por cada dos puntos por encima de 4, el Espíritu del documental sube un nivel de dado, de forma que con 12 puntos tiraría un Espíritu d12.
 
@@ -43,7 +43,7 @@ Si tu mesa hace cosas increíbles y sorprendentes y estas quedan filmadas, puede
 
 El teniente Hodgins y el cabo Wilkins, ambos de la IM se presentarán en la casa o lugar de trabajo de cada PJ, proponiéndoles servir a su país contra los nazis. 
 
-Les dirán que los necesitan para una misión secreta de IM por sus singulares características. No les van a mentir tampoco, no será fácil y pueden morir. Pero si triunfan salvarán muchas vidas.
+Les dirán que los necesitan para una misión secreta de IM por sus singulares características. No les van a mentir tampoco, no será fácil y pueden morir. Pero si triunfan, salvarán muchas vidas.
 
 Empezarán con el rollo patriótico, pero puedes tratar de pillarles por otras desventajas como Heroico o Impulsivo.
 
@@ -55,11 +55,11 @@ Una vez reclutados, serán llevados a unos estudios de cine de las afueras de Lo
 
 Si quieres que interactúen más con el exterior, puedes meterles en un viejo teatro en desuso en el West End londinense. Esto te permitirá más fácilmente que salgan a buscar materiales, que se codeen con sus compañeros de la farándula o incluso tener una noche de fiesta loca en Londres antes de partir de misión.
 
-Acabar con una resaca terrible, vomitando por la borda de un barco en el canal de la Mancha y arrepintiéndose de algunas de las cosas que hicieron la noche anterior puede ser una bonita forma de empezar la misión.
+Acabar con una resaca terrible, vomitando por la borda de una lancha neumática en el canal de la Mancha y arrepintiéndose de algunas de las cosas que hicieron la noche anterior puede ser una bonita forma de empezar la misión.
 
 ### El papel de Hodgins y Wilkins en la misión
 
-Estos PNJ a pesar de ser los jefes de la misión, deberían ser relegados a un papel más secundario. El peso de las decisiones debería ser tu mesa y ellos solo deberían actuar como consejeros y asesores y, en caso de votaciones, para romper los empates.
+Estos PNJ a pesar de ser los jefes de la misión, deberían ser relegados a un papel más secundario. El peso de las decisiones debería caer en tu mesa y los PNJ solo deberían actuar como consejeros y asesores y, en caso de votaciones, para romper los empates.
 
 También estarán para suplir las carencias de habilidades de tu mesa, haciéndoles los cambios necesarios.
 
@@ -176,9 +176,9 @@ La marina inglesa va a ceder un submarino que se acercará por la noche lo más 
 
 Al desembarcar, un agente local, Enrí Mounte, les espera para llevarlos a un granero abandonado cercano donde organizar todo.
 
-El clima puede ponerles las cosas chungas tanto en el agua como en tierra, ya que cámaras, explosivos y trucos de efectos especiales son bastante sensibles al agua. Así que una simple tormenta puede ponerles las cosas muy chungas.
+El clima puede ponerles las cosas complicadas tanto en el agua como en tierra, ya que cámaras, explosivos y trucos de efectos especiales son bastante sensibles al agua. Así que una simple tormenta puede ponerles las cosas muy difíciles.
 
-Unas luces desconocidas o sonidos de motor en la lejanía también debería ponerles en tensión.
+Unas luces desconocidas o sonidos de motor en la lejanía también deberían ponerles en tensión.
 
 > En esta fase pueden perder equipo esencial para el rodaje del documental como el traje del supersoldado o explosivos para los efectos especiales. Si alguno de esos elementos se pierden cuando lleguen a la isla de Jersey, deberían perder los puntos que recibieron por ellos.
 
@@ -200,19 +200,19 @@ Cualquier otra instalación en la isla podría no ser reconocida y, por tanto, n
 
 Ahora toca lo más complicado rodar el documental que debería tener 3 partes, presentación, demostración de poderes y lo más difícil de todo, el combate con fuerza nazis.
 
-Recuerda que esta misión es en verano, pero eso no quiere decir que no les llueva. Si crees que les está yendo demasiado bien, la lluvia puede ser un gran problema para sus planes sin que quede forzado en la historia.
+Recuerda que esta misión es en verano, pero eso no quiere decir que no les llueva como puede pasar en el desembarco. Si crees que les está yendo demasiado bien, la lluvia puede ser un gran problema para sus planes sin que quede forzado en la historia.
 
 ### La presentación (+1/0)
 
-El documental empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico, ya que las SS mirarán todo. Así que el nombre sea verdadero y se parezca a la persona por la que traten de hacerse pasar.
+El documental, siguiendo el esquema clásico, empieza con un teniente inglés explicando todo el proyecto en alguna localización reconocible de la isla. Así que algún PJ o PNJ debe hacerse pasar por el teniente. Deben pasar un escrutinio básico, ya que las SS mirarán todo. Así que el nombre deberá ser verdadero y el actor deberá parecerse a la persona por la que traten de hacerse pasar.
 
-Esta va a ser la parte hablada más importante de la grabación, así que es fundamental que la interpretación de este personaje sea buena. Lo bueno es que en teoría todavía no deberían estar bajo fuego enemigo. Si lo consiguen de forma excepcional, tanto con una tirada de Interpretar como con interpretándolo ellos mismos, puedes darle un beni a la película, además del punto para Espíritu.
+Esta va a ser la parte hablada más importante de la grabación, así que es fundamental que la interpretación de este personaje sea creíble. Lo bueno es que en teoría todavía no deberían estar bajo fuego enemigo. Si lo consiguen de forma excepcional, tanto con una tirada de Interpretar como interpretándolo ellos mismos, puedes darle un beni a la película, además del punto para Espíritu.
 
 ### Los poderes del supersoldado (+2/-1)
 
 Tras la introducción del teniente, deberían presentar al supersoldado. Este deberá hacer alarde de sus poderes. 
 
-Aquí entran en juego todos los efectos especiales que hayan preparado. Según lo que hayan montado el actor/especialista tendrá que pasar tiradas de Atletismo, Interpretar, Fuerza, … Si hacen cortes entre poder y poder no habrá problemas, pero si lo montan todo seguido cada vez será más Complicado. De esta forma la segunda tirada sin cortes tendrá un -2, la tercera un -4, y así sucesivamente.
+Aquí entran en juego todos los efectos especiales que hayan preparado. Según lo que hayan montado el actor/especialista tendrá que pasar tiradas de Atletismo, Interpretar, Fuerza, … Si hacen cortes entre poder y poder no habrá problemas, pero si lo montan todo seguido cada vez será más complicado. De esta forma la segunda tirada sin cortes tendrá un -2, la tercera un -4, y así sucesivamente.
 
 Si consiguen hacerlo todo sin cortes quedará muchísimo más realista. Este detalle también podría darle un beni a la película.
 
@@ -248,38 +248,38 @@ Por otro lado, si les han descubierto y les persiguen, deberán aguantar 3 horas
 
 ### Deshacerse del equipo
 
-No es necesario volver con todo el equipo de vuelta. Lo único importante son las cámaras con los negativos de la película. El resto de equipo pueden deshacerse de él, por ejemplo, quemándolo. Deberán destruirlo adecuadamente para que los investigadores nazis no lo descubran y puedan descubrir que es falso.
+No es necesario volver con todo el equipo de vuelta. Lo único importante son las cámaras con los negativos de la película. El resto de equipo pueden deshacerse de él, por ejemplo, quemándolo. Deberán destruirlo adecuadamente para que los investigadores nazis no lo encuentren y puedan descubrir que es falso.
 
 \sp
 
-Otra opción es que aprovechen a dejar objetos falsos para redondear el engaño. Por ejemplo, podrían dejar en una playa cercana el casco del supersoldado con su logo y sus colores, si han hecho un casco con materiales de buenos y no uno de atrezo. Por estos detalles pueden darles también un beni a la película, ya que se la entregarían a Hitler durante el visionado, siendo más impactante.
+Otra opción es que aprovechen a dejar objetos falsos para redondear el engaño. Por ejemplo, si han hecho un casco de supersoldado con su logo y sus colores con buenos materiales y no uno de atrezo, podrían dejarlo en una playa cercana. Por estos detalles pueden darle también un beni a la película, ya que se la entregarían a Hitler durante el visionado, siendo más impactante.
 
 ## El pase privado para el Führer
 
-Unas semanas después de la misión, IM dejará que espías nazis obtengan la película y como habían predicho, el documental empieza su camino hacia Berlín.
+Unas semanas después de la misión, IM dejará que espías nazis obtengan la película y como habían predicho, el documental empieza su gran viaje.
 
 ### Camino a Berlín
 
 La película será visionada por alguien de las SS y tendrá que considerar que es digno de pasarlo a sus superiores. Para ello la película deberá pasar una tirada de Espíritu o será guardada en un cajón.
 
-Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada y si se puede comprobar que un grupo de soldados con sus oficiales murieron de forma extraña en la isla de Jersey obtendrá un +2.
+Si la pasa será llevada hasta el cuartel central de las SS, donde será analizada de nuevo con más atención. Esta vez deberá pasar una tirada de Espíritu. Si los efectos especiales no están bien hechos, tendrá un -2 a la tirada. Si se puede comprobar que un grupo de soldados con sus oficiales murieron de forma extraña en la isla de Jersey obtendrá un +2.
 
 ### El pase privado
 
 Una vez pasados los filtros iniciales, la inteligencia nazi montará un visionado del documental para decidir qué hacer con la información descubierta.
 
-Asistirán al pase S4 altos mandos y el propio Adolfo Hitler. Si consiguen convencer a 3, la misión será un éxito. Si consiguen los 5 será un completo éxito que habrá salvado miles de vidas.
+Asistirán al pase 4 altos mandos y el propio Adolfo Hitler. Si consiguen convencer a 3, la misión será un éxito. Si consiguen los 5 será un completo éxito que habrá salvado miles de vidas.
 
 Cada espectador tiene un Espíritu y para que la película convenza a un espectador debe pasarse una tirada enfrentada de Espíritu. La tirada de Espíritu de la película puede tener positivos y negativos por cada alto mando según haya unos elementos u otros en ella.
 
 * **Hermann Göring (d6):** Es un sádico que solo disfruta del dolor. Si no hay sangre y mutilaciones, la película tendrá un -2 en su tirada enfrentada. 
-* **Heinrich Himmler (d6):** A Himmler, ni la va ni le viene esta historia, así que estará a pasar el rato.
+* **Heinrich Himmler (d6):** A Himmler, ni le va ni le viene esta historia, así que estará a pasar el rato.
 * **Joseph Goebbels (d10):** Como genio de la comunicación y propaganda, no será fácil engañarle en su juego. Espíritu -2, si la película tiene fallos en los efectos especiales.
 * **Eva Braun (d8):** Eva no quiere ver sangre ni casquería. Si la filmación agrada a Hermann Göring, desagradará a Eva y la filmación tendrá un -2 en la tirada enfrentada.
 
 \sp
 
-* **Adolfo Hitler (d8):** Hitler es un simple en estos temas, pero le gustan los buenos discursos. Si la charla inicial del documental está trabajada, la película tendrá un +2 a la tirada enfrentada.
+* **Adolfo Hitler (d8):** Hitler es muy simple en estos temas, pero le gustan los buenos discursos. Si la charla inicial del documental está trabajada, la película tendrá un +2 a la tirada enfrentada.
 
 Recuerda que la película puede tener benis que tus jugadores podrán usar en todo este proceso.
 
@@ -287,7 +287,7 @@ Recuerda que la película puede tener benis que tus jugadores podrán usar en to
 
 Si la película funciona y convence a los altos mandos de las SS, se empezará a desviar recursos del frente para crear un programa de «ubersoltats» arios. Además, los espías nazis, dejarán de investigar otras operaciones y se centrarán en saber más del supersoldado. En definitiva, tus comandos habrán cumplido su misión y habrán ayudado a ganar la guerra contra el nazismo.
 
-> También puedes olvidarte de toda esta parte y decidir tú mismo si la misión fracasa o triunfa. Recuerda tu partida tus normas.
+> También puedes olvidarte de toda esta parte y decidir tú mismo si la misión fracasa o triunfa. Recuerda, tu partida tus normas.
 
 ***
 
