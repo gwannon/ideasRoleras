@@ -449,7 +449,7 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 ### Los Nabucodonosorcitos RPG
 
-Los Nabucodonosorcitos son unos bichos que viven en la maceta de la ventana de la casa de Epi y Blas de Barrio Sésamo.
+Los Nabucodonosorcitos son una familia de bichos que viven en la maceta de la ventana de la casa de Epi y Blas de Barrio Sésamo.
 
 Tienen aventuras realmente estúpidas como la vez que no sabían cómo salir de casa y la hija dijo que en el colegio les dijeron que usarán la puerta, así que arrancaron la puerta y la usaron de ariete para tirar la pared.
 
@@ -459,8 +459,8 @@ Serían partidas muy cortas con pequeñas tramas totalmente alocadas, donde las 
 
 ### Cyberpunk Hexcrawler
 
-Estaríamos hablando de un Hexcrawler donde, en vez de un grupo de aventureros exploran nuevos territorios, un grupo de hackers/programa explorarían servidores en un sistema en red desconocido.
+Estaríamos hablando de un Hexcrawler donde, en vez de un grupo de aventureros exploran nuevos territorios, un grupo de hackers/programas explorarían servidores en un sistema en red desconocido.
 
-Cada servidor tendría sus propios encuentros y aventuras y permitiría acceder a los servidores adyacentes. Con el tiempo podrían programar sus propios programas en cada servidor para ir infectando el sistema e ir apoderándose de él.
+Cada servidor sería un hexágono y tendría sus propios encuentros y aventuras. Cada servidor permitiría acceder a los servidores adyacentes. Con el tiempo podrían programar sus propios programas en cada servidor para ir infectando el sistema e ir apoderándose de él.
 
 Los monstruos serían cosas como antivirus, firewalls y programas/hackers y los tesoros bases de datos y programas que les permitirán hacer ciertas cosas.
