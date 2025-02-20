@@ -118,7 +118,7 @@ Podemos jugar con varias opciones:
 
 * Gremios de geishas guardaespaldas que evitan que sus clientes sean asesinados por ninjas. Vas a aprender a tocar el shamisen y a arrear porrazos con él.
 * Una escuela de geishas rollo Hogwarts con geishas en vez de magos. La escuela tendría secretos y misterios, algunos yokais, profesoras chungas y siempre jugando con la posibilidad de que te expulsen. Además, habría una escuela de ninjas rivales con la que competirían.
-* Algún suplemento para llevar geishas en una ambientación ciberpunk. Con reglas para asistentes virtuales o IA geisha, kinomos con blindaje, protocolo empresarial, …
+* Algún suplemento para llevar geishas en una ambientación ciberpunk. Con reglas para asistentes virtuales o IA geisha, kimonos con blindaje, protocolo empresarial, …
 
 ### Jungle book
 
@@ -447,6 +447,20 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 \sc
 
-### Rockeros
+### Los Nabucodonosorcitos RPG
 
-XXX
+Los Nabucodonosorcitos son unos bichos que viven en la maceta de la ventana de la casa de Epi y Blas de Barrio Sésamo.
+
+Tienen aventuras realmente estúpidas como la vez que no sabían cómo salir de casa y la hija dijo que en el colegio les dijeron que usarán la puerta, así que arrancaron la puerta y la usaron de ariete para tirar la pared.
+
+Serían partidas muy cortas con pequeñas tramas totalmente alocadas, donde las formas diferentes y más complicadas de solucionar el problema tendrían bonos y las simples y efectivas tendrían negativos.
+
+\sc
+
+### Cyberpunk Hexcrawler
+
+Estaríamos hablando de un Hexcrawler donde, en vez de un grupo de aventureros exploran nuevos territorios, un grupo de hackers/programa explorarían servidores en un sistema en red desconocido.
+
+Cada servidor tendría sus propios encuentros y aventuras y permitiría acceder a los servidores adyacentes. Con el tiempo podrían programar sus propios programas en cada servidor para ir infectando el sistema e ir apoderándose de él.
+
+Los monstruos serían cosas como antivirus, firewalls y programas/hackers y los tesoros bases de datos y programas que les permitirán hacer ciertas cosas.
