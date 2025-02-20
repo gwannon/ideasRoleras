@@ -184,3 +184,9 @@ Si no les ve muy convencidos, les hablará de la inmortalidad de estar en negro 
 \sp
 
 Si no se fían, Utterson revisará el contrato, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
+
+&nbsp;
+
+&nbsp;
+
+[![Hand drawn magnifying glass vector by rawpixel.com](./assests/images/dw21-mynt-08.png "Hand drawn magnifying glass vector by rawpixel.com")](https://www.freepik.com/free-vector/hand-drawn-magnifying-glass-vector_16174045.htm "Hand drawn magnifying glass vector by rawpixel.com")
