@@ -16,7 +16,7 @@ Así que ha construido en sus terrenos un pozo en diagonal que llega al acuífer
 
 Toda el agua sobrante la está enviando a la red de alcantarillado que termina en el Támesis, unos 3 kilómetros más arriba de la desembocadura del Tyburn.
 
-Cuando limpie el barrio de indeseables dejará de vaciar el pozo y el río debería volver a fluir. Lo que no sabe es que el acuífero puede colapsar por vaciarlo descontroladamente y hacer que todo el barrio se hunda en la tierra.
+Cuando limpie el barrio de indeseables dejará de vaciar el pozo y el río debería volver a fluir. Lo que no sabe es que el acuífero puede colapsar por vaciarlo descontroladamente y hacer que todo el barrio se hunda en la tierra. De hecho están empezando a salir grietas en las casas más viejas.
 
 ## Introducción al caso
 
@@ -24,7 +24,7 @@ Gabriel Utterson y Thomas Mundorf, alcalde de distrito de Hampstead y compañero
 
 El río Tyburn ha dejado de fluir hacia el Támesis. Su fuente principal, el Pozo del Pastor, se ha secado y han perdido su principal fuente de agua dulce y una vía fluvial por la que mover las mercancías. Si no recuperan su río el barrio podría estar en peligro.
 
-Ha tratado de que el departamento de Obras Públicas le haga caso, que la Mancomunidad del Támesis les ayude o que lo investigue alguien de la Universidad de Oxford que sepa de estas cosas. Nadie le ha atendido, ni siquiera se han presentado a ver la situacion.
+Ha tratado de que el departamento de Obras Públicas le haga caso, que la Mancomunidad del Támesis les ayude o que lo investigue alguien de la Universidad de Oxford que sepa de estas cosas. Nadie le ha atendido, ni siquiera se han presentado a ver la situación.
 
 Está tan desesperado que ha acudido a Scotland Yard a denunciar el robo del río y un tal inspector Newcomen le dijo que ellos no se encargan de desapariciones de ríos y si quieren que contraten a algún investigador privado.
 
@@ -58,18 +58,22 @@ Si el PJ activo se considera un héroe, tendrá que entrar en la casa y ayudar a
 
 Estos son 6 de los problemas y situaciones que pueden encontrarse. Escoge 4, uno por cada piso y mano del edificio.
 
-* La grieta ha estropeado el marco de la puerta de un apartamento del segundo piso y se ha atrancado. La familia que vive en ese piso no puede salir y grita desesperada desde el otro lado de la puerta. XXX
-* Una señora muy mayor impedida necesita ayuda para salir de su apartamento. XXX
+* La grieta ha estropeado el marco de la puerta de un apartamento del segundo piso y se ha atrancado. La familia que vive en ese piso no puede salir y grita desesperada desde el otro lado de la puerta. Deberán destruir la puerta a golpes o desatrancarla.
+* Una señora muy mayor impedida necesita ayuda para salir de su apartamento. No quieres irse sin su viejo perro, así que o se la llevan a la fuerza o buscan al perro que se ha escondido debajo de la cama.
 * XXX
 * XXX
 * XXX
 * XXX
-
-Cuando terminen y salgan con la última persona rescatada, el edificio colapsará tras de ellos levantando una nube de polvo. Cuando salgan de la nube de polvo, los vecinos arremolinados se pondrán a aplaudir.
 
 \sp
 
+Cuando terminen y salgan con la última persona rescatada, el edificio colapsará tras de ellos levantando una nube de polvo. Cuando salgan de la nube de polvo, los vecinos arremolinados se pondrán a aplaudir.
+
 ## El Pozo del Pastor
+
+Mundorf les llevará a las fuentes del Tyburn, el Pozo del Pastor, un manantial natural que ahora mismo está medio seco.
+
+Mundorf les advertirá que cerca, en una choza ruinosa, vive una vieja pirada llamada Alexia, a la que apodan «la bruja del pozo». Es inofensiva, pero se le va la cabeza, más desde que se secó el manantial. No para de gritar que el demonio está robando el agua.
 
 XXX
 
@@ -83,13 +87,19 @@ La familia de Alexia lleva adorando al dios del río desde tiempos ancestrales s
 
 Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad científica, seguramente que se reúnan donaciones para poder arreglar su casa y registrar sus historias para algún estudio histórico de Inglaterra.
 
+\sp
+
+[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
+
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Vieja bruja del río
   * **Complicación:** Empieza a estar senil
   * Conoce el río como la palma de su mano
-  * XXX
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso XXX (-1)
+  * Folklore local
+  * Dar pena
+* **Estilos:** Cauto Bueno (+2), Furtivo Mediocre (0), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Mediocre (+0), Vigoroso Malo (-1)
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX
@@ -98,15 +108,19 @@ Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad cientí
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-\sp
-
-[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
-
-\sp
-
 ### El sistema de cavernas
 
+El manantial fluye desde una cuevecilla por la que apenas pasa una persona y llega hasta una compleja red de túneles. Alexia les ha dicho que sigan al agua y llegarán hasta el culpable. El problema es que está oscuro y el manantial es apenas un hilillo de agua.
+
 XXX
+
+Si no pierden llegarán a un túnel en el que oirán al otro lado bastante ruido, incluso voces humanas si ponen mucha atención.
+
+Si empiezan a golpear la pared del túnel parece muy débil y si la excavan o aplican fuerza se derrumbará para dar paso a otra galería donde trabajan 4 peones sacando tierra y ampliando la galería.
+
+XXX
+
+\sp
 
 ## La hacienda Winthle
 
