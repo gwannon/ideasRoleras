@@ -56,16 +56,17 @@ Si el PJ activo se considera un héroe, tendrá que entrar en la casa y ayudar a
 
 [![Ilustración del mago de Oz por John R. Neill](./assests/images/193.png "Ilustración del mago de Oz por John R. Neill")](https://etc.usf.edu/lit2go/193/dorothy-and-the-wizard-in-oz/ "Ilustración del mago de Oz por John R. Neill")
 
-Estos son 6 de los problemas y situaciones que pueden encontrarse. Escoge 4, uno por cada piso y mano del edificio.
+Estos son 6 de los problemas y situaciones que pueden encontrarse. Escoge 4, uno por cada piso y mano del edificio. Entre Gabriel y tu jugador deberán poder salvar a todo el mundo en el edificio.
 
 * La grieta ha estropeado el marco de la puerta de un apartamento del segundo piso y se ha atrancado. La familia que vive en ese piso no puede salir y grita desesperada desde el otro lado de la puerta. Deberán destruir la puerta a golpes o desatrancarla.
 * Una señora muy mayor impedida necesita ayuda para salir de su apartamento. No quieres irse sin su viejo perro, así que o se la llevan a la fuerza o buscan al perro que se ha escondido debajo de la cama.
-* XXX
-* XXX
-* XXX
-* XXX
+* La escalera se desploma cuando iba a usarla, tendrá que usar otras formas de subir y/o bajar de la segunda planta.
+* Una lámpara de aceite se ha caído y ha creado un fuego. No es preocupante, pero 
 
 \sp
+
+* Una joven doncella de buen ver o un joven adonis (elige según las preferencias sexuales del personaje) pide ayuda desde una ventana. No lo tenéis claro porque pide ayuda, ya que podría salir por sus propios medios. 
+* Hay un bebe solo en la casa, su madre grita desde la calle que salven a su bebe. Si son listos pedirán a gente que pongan mantas y ropa para poder recoger al bebe que dejara caer por la ventana, si no tendrán que salir y volver a entrar con una perdida de tiempo.
 
 Cuando terminen y salgan con la última persona rescatada, el edificio colapsará tras de ellos levantando una nube de polvo. Cuando salgan de la nube de polvo, los vecinos arremolinados se pondrán a aplaudir.
 
@@ -75,23 +76,21 @@ Mundorf les llevará a las fuentes del Tyburn, el Pozo del Pastor, un manantial 
 
 Mundorf les advertirá que cerca, en una choza ruinosa, vive una vieja pirada llamada Alexia, a la que apodan «la bruja del pozo». Es inofensiva, pero se le va la cabeza, más desde que se secó el manantial. No para de gritar que el demonio está robando el agua.
 
-XXX
+Mientras investigan el lugar aparecerá una anciana encorvada con pelos llenos de hierba y ramas y que se apoya en un cayado. Irá muy lento murmurando en voz baja. 
+
+Se pondrá delante del grupo y empezará a gritarles que están robando el agua, que el agua es la vida y, por tanto, les roban la vida y terminara con «Seguid el manantial y os llevará al ladrón» señalando a una zona con matorrales al lado del manantial.
+
+A partir de ahí solo dirá incongruencias, pero si quieres que se flipen un poco que se lleve al PJ a un lado y le cuchichee al oído «Yo sé vuestro secreto, pero no temáis. Si devolvéis el agua, no se lo diré a nadie».
+
+\sp
 
 ### Alexia, la vieja bruja del pozo
 
-XXX
+Alexia, a la que gente de Hampstead llama «la bruja del pozo», es una anciana que se dedica a hacer ungüentos y pociones a cambio de unas monedas. Todas sus recetas llevan en su familia desde hace siglos y le han permitido ganarse la vida. Eres arisca y borde, pero como te enseño y tu madre nadie regatea ni engaña a una bruja mosqueada.
 
-Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y si madre antes que ella y su abuela y su tatarabuela, así quizás hasta tiempos de los romanos.
-
-La familia de Alexia lleva adorando al dios del río desde tiempos ancestrales siguiendo unas tradiciones animistas de las que ella es la última superviviente.
+Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y su madre antes que ella y su abuela y su tatarabuela, así, quizás, hasta tiempos de los romanos. La familia de Alexia lleva adorando al dios del río desde tiempos ancestrales siguiendo unas tradiciones animistas de las que ella es la última superviviente.
 
 Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad científica, seguramente que se reúnan donaciones para poder arreglar su casa y registrar sus historias para algún estudio histórico de Inglaterra.
-
-\sp
-
-[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
-
-\sp
 
 * **Aspectos**
   * **Concepto principal:** Vieja bruja del río
@@ -101,26 +100,30 @@ Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad cientí
   * Dar pena
 * **Estilos:** Cauto Bueno (+2), Furtivo Mediocre (0), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Mediocre (+0), Vigoroso Malo (-1)
 * **Proezas**
-  * **XXX:** XXX
-  * **XXX:** XXX
-  * **XXX:** XXX
-* **Capacidad de recuperación:** 3
+  * **Cuenta cuento:** Como buena cuentacuentos sabe captar la atención de su público, así que gana un +2 a crear ventajas en modo Llamativo cuando cuenta cuentos y narra historias.
+* **Capacidad de recuperación:** 5
 * **Estrés:** 1 | 2 | 3
-* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Consecuencias:** Leve 2 | Moderado 4 | ~~Grave 6~~ Muy mayor
 
-### El sistema de cavernas
+\sp
 
-El manantial fluye desde una cuevecilla por la que apenas pasa una persona y llega hasta una compleja red de túneles. Alexia les ha dicho que sigan al agua y llegarán hasta el culpable. El problema es que está oscuro y el manantial es apenas un hilillo de agua.
+[![Journey to the Center of the Earth (1864) by Édouard Riou](./assests/images/journey-to-the-center-of-the-earth-by-douard-riou-51.png "Journey to the Center of the Earth (1864) by Édouard Riou")](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48 "Journey to the Center of the Earth (1864) by Édouard Riou")
+
+\sp
+## El sistema de cavernas
+
+Detrás de los matojos y arbustos que señala Alexis, hay una cuevecilla por la que apenas pasa una persona y llega hasta una compleja red de túneles. Alexia les ha dicho que sigan al agua y llegarán hasta el culpable. El problema es que está oscuro y el manantial es apenas un hilillo de agua.
 
 XXX
 
 Si no pierden llegarán a un túnel en el que oirán al otro lado bastante ruido, incluso voces humanas si ponen mucha atención.
 
-Si empiezan a golpear la pared del túnel parece muy débil y si la excavan o aplican fuerza se derrumbará para dar paso a otra galería donde trabajan 4 peones sacando tierra y ampliando la galería.
+Si empiezan a golpear la pared del túnel parece muy débil y si la excavan o aplican fuerza se derrumbará para dar paso a otra galería donde trabajan 4 peones sacando tierra y ampliando la galería que tras superar la sorpresa se lanzarán al ataque con palas y picos en mano.
 
-XXX
-
-\sp
+* Peones cavadores
+* **Es Bueno (+2) en:** Usar la pala, Trabajos de fuerza
+* **Es Malo (-2) en:** Educación general, Labores del hogar
+* **Estrés:** ◯◯
 
 ## La hacienda Winthle
 
@@ -130,13 +133,15 @@ XXX
 
 XXX
 
+\sp
+
 * **Aspectos**
-  * **Concepto principal:** XXX
+  * **Concepto principal:** Caballero inglés de rancio abolengo
   * **Complicación:** Aporofóbico (odio a los pobres)
   * El más rico terrateniente de Hampstead
   * Del equipo de esgrima de Oxford
-  * XXX
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+  * Aspiraciones políticas
+* **Estilos:** Cauto Grande (+3), Furtivo Mediocre (+0), Ingenioso Bueno (+2), Llamativo Enorme (+4), Rápido Bueno (+2), Vigoroso Grande(+3)
 * **Proezas**
   * **XXX:** XXX
   * **XXX:** XXX

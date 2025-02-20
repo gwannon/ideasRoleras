@@ -86,7 +86,7 @@ XXX
 XXX
 
 * **Aspectos**
-  * **Concepto principal:** XXX
+  * **Concepto principal:** Barriobajera vendedora de flores
   * **Complicación:** XXX
   * XXX
   * XXX
@@ -108,7 +108,7 @@ XXX
 XXX
 
 * **Aspectos**
-  * **Concepto principal:** XXX
+  * **Concepto principal:** Estirada dama de alta sociedad
   * **Complicación:** XXX
   * XXX
   * XXX
