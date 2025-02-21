@@ -1,6 +1,6 @@
 # El extraño caso del afluente del Támesis desaparecido
 
-> El río Tyburn está desapareciendo y el alcalde del burgo Hampstead, en el que nace y por el que discurre este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeño a pesar de estar en plena temporada de lluvias. Si no actúan con celeridad, el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río.
+> El río Tyburn está desapareciendo y el alcalde del burgo Hampstead, en el que nace y por el que discurre este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeña. Si no actúan con celeridad, el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río y tengan que irse del barrio.
 
 ## Resumen del caso
 
@@ -125,15 +125,47 @@ Si empiezan a golpear la pared del túnel parece muy débil y si la excavan o ap
 * **Es Malo (-2) en:** Educación general, Labores del hogar
 * **Estrés:** ◯◯
 
+### Perdidos en las cuevas
+
+Si se pierden en las cuevas y tienen que volver, se encontrarán a Alexia en el manantial y les dirá «El agua de mi Tyburn siempre ha fluido hacia el Támesis. Si no es por aquí será por otro cauce, pero siempre acabará en el Támesis».
+
+XXX
+
+\sp
+
+El agua que sale del desagüe hacia el río es muchísima y está bastante limpia, no son aguas fecales normales. Eso de debe a que hay más agua limpia que residuos, así que puedes ser que gran parte del Tyburn salga por este xxx.
+
+Deberán meterse en la cloaca y seguir el agua. XXX.
+
+### Aviso de tormentas
+
+Tanto si están en el pozo como en las cloacas, un trueno muy cercano no será una buena señal. Enseguida ambos conductos se llenarán de agua de lluvia y habrá posibilidades de que mueran ahogados. 
+
+XXX
+
 ## La hacienda Winthle
+
+Mojados y sucios conseguirán llegar a la hacienda Winthle. XXX
+
+XXX
+
+### Batalla legal
+
+Lord Winthle les esperará en la biblioteca. Sus espías en el barrio le avisaron de los investigadores y se esperaba que pudieran dar con él. Así que se ha preparado para un combate legal con ellos. Sobre una mesa tiene un montón de libros de leyes preparados para rebatir sus acusaciones.
 
 XXX
 
 ###  Lord James Winthle
 
-XXX
+Lord James Winthle es un caballero inglés de una buena familia con dinero. Estudio en Oxford donde destacó como atleta y economista. Nunca le ha faltado de nada y ha tenido una vida fácil que él cree que se ha ganado.
+
+Lord James Winthle es una de las peores personas que puedes encontrarte en Londres. Es avaro, cruel, racista, machista, clasista y una larga lista de defectos.
+
+Pero lo peor es que odia a los pobres y ese odio visceral le ha llevado a elaborar un plan para echarlos a todos de Hampstead. De hecho, su odio visceral por la vieja Alexia le llevo a pensar en secar el río.
 
 \sp
+
+Se ha gastado una fortuna en hacer el pozo que saca el agua del acuífero y su canalización, pero lo recuperará con la compraventa de terrenos cuando los pobres tengan que marcharse del barrio.
 
 * **Aspectos**
   * **Concepto principal:** Caballero inglés de rancio abolengo
