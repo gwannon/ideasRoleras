@@ -155,6 +155,8 @@ Lord Winthle les esperará en la biblioteca. Sus espías en el barrio le avisaro
 
 XXX
 
+\sp
+
 ###  Lord James Winthle
 
 Lord James Winthle es un caballero inglés de una buena familia con dinero. Estudio en Oxford donde destacó como atleta y economista. Nunca le ha faltado de nada y ha tenido una vida fácil que él cree que se ha ganado.
@@ -162,8 +164,6 @@ Lord James Winthle es un caballero inglés de una buena familia con dinero. Estu
 Lord James Winthle es una de las peores personas que puedes encontrarte en Londres. Es avaro, cruel, racista, machista, clasista y una larga lista de defectos.
 
 Pero lo peor es que odia a los pobres y ese odio visceral le ha llevado a elaborar un plan para echarlos a todos de Hampstead. De hecho, su odio visceral por la vieja Alexia le llevo a pensar en secar el río.
-
-\sp
 
 Se ha gastado una fortuna en hacer el pozo que saca el agua del acuífero y su canalización, pero lo recuperará con la compraventa de terrenos cuando los pobres tengan que marcharse del barrio.
 
