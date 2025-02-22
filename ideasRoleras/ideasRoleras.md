@@ -280,6 +280,15 @@ Algún becario del departamento de egiptología del British Museum ha desempolva
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
 
+
+### Los Nabucodonosorcitos RPG
+
+Los Nabucodonosorcitos son una familia de bichos que viven en la maceta de la ventana de la casa de Epi y Blas de Barrio Sésamo.
+
+Tienen aventuras realmente estúpidas como la vez que no sabían cómo salir de casa y la hija dijo que en el colegio les dijeron que usarán la puerta, así que arrancaron la puerta y la usaron de ariete para tirar la pared.
+
+Serían partidas muy cortas con pequeñas tramas totalmente alocadas, donde las formas diferentes y más complicadas de solucionar el problema tendrían bonos y las simples y efectivas tendrían negativos.
+
 ### Pac-land
 
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
@@ -320,6 +329,8 @@ Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo co
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 
+\sp
+
 ### RRHH en un Dungeon
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
@@ -332,8 +343,6 @@ En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada 
 
 Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y chándal, deben conseguir su calcetín-gorro como rito de iniciación. Deberán llegar a una lavandería y robar de la colada un calcetín cada uno. Debe haber tabla de generación de calcetines.
 
-\sp
-
 ### Top secret!
 
 Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
@@ -345,8 +354,6 @@ Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
 
 Les contratan en peligrosas misiones que solo una mascota preparada puede cumplir como repartir muestras gratis de sangre falsa en un baile de vampiros o hacer una campaña de seguridad vial para usar ropa reflectante de noche en un pueblo de ninjas.
-
-\sc
 
 \sp
 
@@ -392,6 +399,14 @@ Pero también puede salir un vendedor de tablones que te los vende para hacerte 
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
 
+### Cyberpunk Hexcrawler
+
+Estaríamos hablando de un Hexcrawler donde, en vez de un grupo de aventureros exploran nuevos territorios, un grupo de hackers/programas explorarían servidores en un sistema en red desconocido.
+
+Cada servidor sería un hexágono y tendría sus propios encuentros y aventuras. Cada servidor permitiría acceder a los servidores adyacentes. Con el tiempo podrían programar sus propios programas en cada servidor para ir infectando el sistema e ir apoderándose de él.
+
+Los monstruos serían cosas como antivirus, firewalls y programas/hackers y los tesoros bases de datos y programas que les permitirán hacer ciertas cosas.
+
 ### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
 Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
@@ -436,31 +451,3 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
-
-\sp
-
-\sinc
-
-## Pensando
-
-\conc
-
-\sc
-
-### Los Nabucodonosorcitos RPG
-
-Los Nabucodonosorcitos son una familia de bichos que viven en la maceta de la ventana de la casa de Epi y Blas de Barrio Sésamo.
-
-Tienen aventuras realmente estúpidas como la vez que no sabían cómo salir de casa y la hija dijo que en el colegio les dijeron que usarán la puerta, así que arrancaron la puerta y la usaron de ariete para tirar la pared.
-
-Serían partidas muy cortas con pequeñas tramas totalmente alocadas, donde las formas diferentes y más complicadas de solucionar el problema tendrían bonos y las simples y efectivas tendrían negativos.
-
-\sc
-
-### Cyberpunk Hexcrawler
-
-Estaríamos hablando de un Hexcrawler donde, en vez de un grupo de aventureros exploran nuevos territorios, un grupo de hackers/programas explorarían servidores en un sistema en red desconocido.
-
-Cada servidor sería un hexágono y tendría sus propios encuentros y aventuras. Cada servidor permitiría acceder a los servidores adyacentes. Con el tiempo podrían programar sus propios programas en cada servidor para ir infectando el sistema e ir apoderándose de él.
-
-Los monstruos serían cosas como antivirus, firewalls y programas/hackers y los tesoros bases de datos y programas que les permitirán hacer ciertas cosas.
