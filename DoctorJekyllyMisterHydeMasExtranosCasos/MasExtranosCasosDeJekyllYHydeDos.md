@@ -1,6 +1,6 @@
 # El extraño caso del afluente del Támesis desaparecido
 
-> El río Tyburn está desapareciendo y el alcalde del burgo Hampstead, en el que nace y por el que discurre este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeña. Si no actúan con celeridad, el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río y tengan que irse del barrio.
+> El río Tyburn está desapareciendo. El alcalde del burgo Hampstead, en el que nace este afluente del Támesis, necesita que alguien descubra porque su río cada día es más pequeña. Si no actúan con celeridad, el cauce se secará en unas semanas y puede que sus vecinos pierdan su precioso río y tengan que irse del barrio.
 
 ## Resumen del caso
 
@@ -133,9 +133,9 @@ XXX
 
 \sp
 
-El agua que sale del desagüe hacia el río es muchísima y está bastante limpia, no son aguas fecales normales. Eso de debe a que hay más agua limpia que residuos, así que puedes ser que gran parte del Tyburn salga por este xxx.
+El agua que sale del desagüe hacia el río es muchísima y está bastante limpia, no son aguas fecales normales. Eso de debe a que hay más agua limpia que residuos, así que puedes ser que gran parte del Tyburn salga por este aliviadero.
 
-Deberán meterse en la cloaca y seguir el agua. XXX.
+Deberán meterse en la cloaca y seguir el agua. Como la caverna está oscuro, pero entra algo de luz por alcantarillas y desagües. Seguir el agua es más facil, ya que la cloaca lleva muchísima agua y está más limpia que la del resto de colectores.
 
 ### Aviso de tormentas
 
@@ -145,9 +145,13 @@ XXX
 
 ## La hacienda Winthle
 
-Mojados y sucios conseguirán llegar a la hacienda Winthle. XXX
+Mojados y sucios conseguirán llegar a la hacienda Winthle, y tanto si vienen del pozo como si han subido de las cloacas. La haciendo es un típico palacio inglés de planta rectangular con una gran entrada en su parte central rodeado de bosques y jardines
 
-XXX
+Los jardines y la casa son limpiados y cuidados por sirvientes, jardineros y peones que trabajan muy pronto por la mañana, antes de que se levante Lord Winthle. Lord Winthle solo quiere codearse con la mínima cantidad de personas de menor estatus que él. Cuando han tenido que hacer reformas, ha preferido irse a su casa en el campo antes que tener que ver a sus humildes trabajadores.
+
+Si llaman a la puerta les abrirá una vieja ama de llaves que les mirará raro, por sus pintas. Alguien les vigila desde una ventana y oirán un grito de «Tráelos a la biblioteca».
+
+\sp
 
 ### Batalla legal
 
@@ -155,15 +159,13 @@ Lord Winthle les esperará en la biblioteca. Sus espías en el barrio le avisaro
 
 XXX
 
-\sp
-
 ###  Lord James Winthle
 
 Lord James Winthle es un caballero inglés de una buena familia con dinero. Estudio en Oxford donde destacó como atleta y economista. Nunca le ha faltado de nada y ha tenido una vida fácil que él cree que se ha ganado.
 
-Lord James Winthle es una de las peores personas que puedes encontrarte en Londres. Es avaro, cruel, racista, machista, clasista y una larga lista de defectos.
+Lord James Winthle es una de las peores personas que puedes encontrarte en Londres. Es avaro, cruel, racista, machista, clasista y una larga lista de defectos. Si fuera un personaje de Dickens, le visitarían 3 fantasmas.
 
-Pero lo peor es que odia a los pobres y ese odio visceral le ha llevado a elaborar un plan para echarlos a todos de Hampstead. De hecho, su odio visceral por la vieja Alexia le llevo a pensar en secar el río.
+Pero lo peor es que odia a los pobres y ese odio visceral le ha llevado a elaborar un plan para echarlos a todos de Hampstead. De hecho, su odio visceral por la vieja Alexia le llevo a pensar en secar el río. Disfruta pensando que la vieja morirá cuando se seque el río.
 
 Se ha gastado una fortuna en hacer el pozo que saca el agua del acuífero y su canalización, pero lo recuperará con la compraventa de terrenos cuando los pobres tengan que marcharse del barrio.
 
@@ -173,11 +175,14 @@ Se ha gastado una fortuna en hacer el pozo que saca el agua del acuífero y su c
   * El más rico terrateniente de Hampstead
   * Del equipo de esgrima de Oxford
   * Aspiraciones políticas
+
+\sp
+
 * **Estilos:** Cauto Grande (+3), Furtivo Mediocre (+0), Ingenioso Bueno (+2), Llamativo Enorme (+4), Rápido Bueno (+2), Vigoroso Grande(+3)
 * **Proezas**
-  * **XXX:** XXX
-  * **XXX:** XXX
-  * **XXX:** XXX
+  * **Nobleza:** Debido a que pertenece a familia noble y buena educación, gana un +2 para Atacar de modo Rápido cuando discute con gente de menor rango social o educación.
+  * **Genio de las finanzas:** Debido a sus estudios de economía, gana un +2 para Crear una ventaja en modo Cauto al usar su dinero.
+  * **Corpore sano:** Debido a sus entrenamientos diarios en remo y esgrima, gana +2 para superar en modo Vigoroso cuando hace actividades atléticas  
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
