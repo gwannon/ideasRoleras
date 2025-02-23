@@ -239,3 +239,7 @@ Se ha gastado una fortuna en hacer el pozo que saca el agua del acuífero y su c
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
+&nbsp;
+
+[![Bridge at Midnight by Myles Birket Foster](./assests/images/bridge-midnight-768.png "Bridge at Midnight by Myles Birket Foster")](https://www.oldbookillustrations.com/illustrations/bridge-midnight/ "Bridge at Midnight by Myles Birket Foster")

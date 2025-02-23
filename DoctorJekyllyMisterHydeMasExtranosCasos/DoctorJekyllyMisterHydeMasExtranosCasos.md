@@ -44,12 +44,12 @@ Con sus dotes de falsificador puede hacer cualquier tipo de documento y tenderle
 
 **Hay muchas formas de continuar estas aventuras.**
 
-&nbsp;
+## Más PJ investigando
 
-&nbsp;
+El caso de la violetera puede tener otra continuación muy interesante. Que una segunda pareja de jugadores lleven a Lisa y Elsa siguiendo las mismas reglas que Jekyll y Hyde. Estaríamos ahora ante un director de juego que dirige a 4 jugadores, pero solo 2 al mismo tiempo. 
 
-[![Bridge at Midnight by Myles Birket Foster](./assests/images/bridge-midnight-768.png "Bridge at Midnight by Myles Birket Foster")](https://www.oldbookillustrations.com/illustrations/bridge-midnight/ "Bridge at Midnight by Myles Birket Foster")
-
+Lo divertido es que la relación entre Lisa y Elsa es muy diferente a la de Jekyll y Hyde en algunas cosas, pero también comparten otros elementos. Las combinaciones a la hora de investigar nuevos casos pueden ser muy divertidas y desafiantes. Desde Elsa y Jekyll colándose en una fiesta de la alta sociedad o Lisa y Hyde participando en un concurso de beber, hasta Jekyll tratando de educar a Lisa o Elsa tratando de deshacerse de Hyde.
+ 
 ***
 
 # Unas palabras del autor

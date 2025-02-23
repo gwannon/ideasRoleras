@@ -188,6 +188,6 @@ Si consiguen resolverlo, Tiberius Fox estará tremendamente agradecido y propond
 
 Si no les ve muy convencidos, les hablará de la inmortalidad de estar en negro sobre blanco, de la fama y si todo va bien de pingües beneficios.
 
-Si no se fían, Utterson revisará el contrato, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
+Utterson revisará el contrato, si no se fían, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
 
 [![Hand drawn magnifying glass vector by rawpixel.com](./assests/images/dw21-mynt-08.png "Hand drawn magnifying glass vector by rawpixel.com")](https://www.freepik.com/free-vector/hand-drawn-magnifying-glass-vector_16174045.htm "Hand drawn magnifying glass vector by rawpixel.com")
