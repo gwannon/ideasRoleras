@@ -14,7 +14,7 @@ XXX
 
 \sp
 
-La psique de Lisa rota ya por los abusos de su padre no aguanta más maltratos del profesor Hodgins y crea una segunda personalidad Elsa Crawford.
+La psique de Lisa rota ya por los abusos de su padre no aguanta más maltratos del profesor Hodgins y crea una segunda personalidad, Elsa Crawford.
 
 XXX
 

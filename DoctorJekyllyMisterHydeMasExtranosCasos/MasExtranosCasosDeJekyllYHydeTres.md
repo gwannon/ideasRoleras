@@ -20,13 +20,9 @@ Ni corto ni perezoso organizo a su banda y asaltaron la imprenta llevándose tod
 
 Si todo sale bien, este puede ser el golpe de su vida y vivir él y su banda como marqueses en una mansión en la costa.
 
-[![Hand-Blocking Wallpaper by Jules Férat](./assests/images/hand-block-wallpaper-864.png "Hand-Blocking Wallpaper by Jules Férat")](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/ "Hand-Blocking Wallpaper by Jules Férat")
-
 ## Introducción al caso
 
 Tiberius Fox, propietario de la Cobden-Sanderson Printing Workshop, acude a la agencia Hyde & Jekyll. Hace unos días le robaron en su taller todas las piezas de una de sus colecciones de tipografías, la Vindica. No es un gran robo a nivel monetario, pero es un viejo con sus manías y desea recuperarla.
-
-\sp
 
 Tiberius quiere pagarles por sus servicios, pero cuando vaya a sacar un sobre con el adelanto, Gabriel se lo impedirá diciéndole que si le permitiese pagar por este trabajo, su padre no se lo perdonaría. Parece ser que el padre de Gabriel tenía una deuda de honor con Tiberius que debió recibir una herida en la guerra por protegerle. Les dejará entender que luego arreglará el tema monetario con ellos.
 
@@ -35,6 +31,10 @@ Tiberius quiere pagarles por sus servicios, pero cuando vaya a sacar un sobre co
 Cómo no es de extrañar cuando lleguen al taller estará el inspector Newcomen. Está interrogando a los trabajadores, está convencido que alguno de ellos es el ladrón y no para de molestarles en su trabajo.
 
 No hay mucho que investigar, la puerta fue abierta con una palanca y los ladrones entraron, se llevaron las cajas de madera con los tipos de la Vindica y no se llevaron nada más. Las dos cajas con todas las letras mayúsculas, minúsculas, números y signos ortográficos son de plomo y pesan unos 100 kilos.
+
+\sp
+
+[![Compositor Making Up a Line of Type by Émile Bourdelin](./assests/images/compositor-1200.png "Compositor Making Up a Line of Type by Émile Bourdelin")](https://www.oldbookillustrations.com/illustrations/compositor/ "Compositor Making Up a Line of Type by Émile Bourdelin")
 
 Por suerte, hay una cuantos tipos móviles que estaban usando para una segunda tipografía en otro libro y tienen como unas 10 piezas que no robaron.
 
@@ -48,7 +48,7 @@ Si hablan con la gente de los alrededores, nadie vio ni escuchó nada. Si les ve
 
 ## Buscando pistas
 
-Una vez visitada la escena del robo toca salir a la calle a hacer labor de investigación.
+Una vez visitada la escena del robo, toca salir a la calle a hacer labor de investigación.
 
 Las primeras sospechas deberían caer sobre otros impresores. Nadie más en todo la ciudad le debería interesar unos tipos móviles que a otras imprentas. Quizás no sean los ladrones, pero pueden haber encargado el robo o puede ser que se las hayan ofrecido.
 
@@ -65,7 +65,7 @@ Si a los impresores legales no les interesa la Vindica, deberán buscar impresor
 
 \sp
 
-Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
+Si tienen contactos en los bajos fondos, pueden obtener algunos nombres de anarquistas y falsificadores, entre los que estará el Walt «Tinta China» Sherwood. Puedes hacerles enfrentarse a algún grupo anarquista hasta ponerles sobre la pista de Walt.
 
 Sin contactos en los bajos fondos, tendrán que conseguir pistas en Scotland Yard. Alguien debería conocer a los falsificadores de la ciudad y por donde suelen moverse.
 
@@ -77,7 +77,7 @@ Sea como sea tras algunas pistas falsas. Tendrán el nombre de Walt «Tinta Chin
 
 #### El Frente Anarquista Popular (FAP)
 
-No tendría gracia que directamente tus jugadores acabaran directamente en «El trébol» y deberías por lo menos ponerle un rastro falso de un grupo anarquista a no ser que la prueba de impresión les marque que deben buscar solo falsificadores.
+No tendría gracia que directamente tus jugadores acabaran directamente en «El trébol» y deberías por lo menos ponerle un rastro falso de un grupo anarquista, a no ser que la prueba de impresión les marque que deben buscar solo falsificadores.
 
 El Frente Anarquista Popular es un grupo anarquista que busca la destrucción del gobierno con atentados contra instituciones gubernamentales y monárquicas. Su objetivo son las instituciones de recaudación de impuestos, ya que creen que sin impuestos el gobierno será destruido.
 
@@ -102,9 +102,12 @@ Si preguntan, los trabajadores de la imprenta no notaron nunca nada en las pieza
 
 Pueden llevar las pocas piezas que no fueron robadas a que las analice y solo encontraran plomo. No son de oro o plata y no parece que tengan ningún misterio.
 
+Tarde o temprano esta línea de investigación se extinguirá, aunque puedes estirarla todo lo que quieras. Si tienes una buena idea ponla en práctica.
+
 \sp
 
-Tarde o temprano esta línea de investigación se extinguirá, aunque puedes estirarla todo lo que quieras. Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
+
+Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
 
 ## El East End de Londres
 
@@ -114,15 +117,17 @@ Walt tiene su guarida en la bodega de «El Trébol», una de las peores tascas d
 
 Walt tiene su imprenta en la bodega y entra y sale por la carbonera. Para evitar levantar sospechas de los parroquianos de «El trébol».
 
+[![Hand-Blocking Wallpaper by Jules Férat](./assests/images/hand-block-wallpaper-864.png "Hand-Blocking Wallpaper by Jules Férat")](https://www.oldbookillustrations.com/illustrations/hand-block-wallpaper/ "Hand-Blocking Wallpaper by Jules Férat")
+
+\sp
+
 ### Infiltración 
 
 Tus investigadores necesitarán pruebas de que la fuente robada está en el sótano de «El Trébol», así que deberán infiltrarse y conseguir pruebas, unos puñados de moldes de letras servirán. Si consiguen pruebas de que están falsificando moneda francesa también estará bien, pero eso exigiría abrir, con una tirada Buena (+2), una caja con candado donde guardan el papel moneda.
 
 Siempre hay dos personas trabajando en la imprenta y durante el día puede que haya alguien pasando el rato con esos dos. Por la noche, tras cogerse una buena borrachera en el propio bar, duermen en la bodega en unos camastros improvisados. Deberían atrancar la trampilla de las escaleras, pero la verdad que muchas veces van tan borrachos que ni se enteran.
 
-\sp
-
-La bodega es un cuadrado de unos 20x20 metros sin ningún tipo de separación, solo algunas columnas de contención. No tiene luz natural solo lámparas de aceite y sus únicas entradas son las escaleras que dan detrás del mostrador del bar y una carbonera que ya no se usa para tal fin. Walt suele salir y entrar por la carbonera cuando no quiere ser detectado, pero el resto.  
+La bodega es un cuadrado de unos 20x20 metros sin ningún tipo de separación, solo algunas columnas de contención. No tiene luz natural, solo lámparas de aceite y sus únicas entradas son las escaleras que dan detrás del mostrador del bar y una carbonera que ya no se usa para tal fin. Walt suele salir y entrar por la carbonera cuando no quiere ser detectado, pero el resto.  
 
 En un par de días de vigilancia pueden detectar a Walt saliendo por la carbonera, los hábitos de entrada y de salida y lo más importante que casi todas las noches acaban alcoholizados perdidos.
 
@@ -130,7 +135,9 @@ En un par de días de vigilancia pueden detectar a Walt saliendo por la carboner
 
 Es muy difícil que tus investigadores detengan a toda la banda ellos solos. Si consiguen ayuda de gente como el patrullero Wilson, la cosa puede ser más fácil, pero nunca sencilla.
 
-Si son inteligentes pueden tener alguna idea brillante como narcotizar la bebida o separarlos de alguna manera y detenerlos de uno en uno.
+Si son inteligentes, pueden tener alguna idea brillante como narcotizar la bebida o separarlos de alguna manera y detenerlos de uno en uno.
+
+\sp
 
 La opción más lógica es tratar de hablar con Newcomen y que les ayude a detener a todos los falsificadores en su guarida. El problema es que entonces Newcomen se apropiará del caso y se lo adjudicará.
 
@@ -138,15 +145,15 @@ El inspector Newcomen, si le dan la información sobre la banda y las pruebas de
 
 Si han sido listos y lo saben, no le contarán lo de la salida por la carbonera y podrán ponerse allí para cazar a Sherwood tratando de escapar. Walt intentará huir como sea, pero no dudará en sacar una gran cuchilla de guillotinar papel y en usarla, si fuera necesario.
 
-\sp
-
 ### Walt «Tinta China» Sherwood
 
-Desde que era muy pequeño Walt sabía que si quería salir del arroyo no podía seguir el camino de su padre, un humilde techador. Así que en cuanto pudo se metió en una de las bandas criminales del su barrio, el East End. Poco ascendió en la banda y allí conoció a su maestro en falsificación, Gîroc, un impresor francés que tuve que huir de Francia por problemas legales.
+Desde que era muy pequeño, Walt sabía que si quería salir del arroyo no podía seguir el camino de su padre, un humilde techador. Así que en cuanto pudo se metió en una de las bandas criminales del su barrio, el East End. Poco ascendió en la banda y allí conoció a su maestro en falsificación, Gîroc, un impresor francés que tuve que huir de Francia por problemas legales.
 
 Con Gîroc no solo aprendió el fino arte de hacer cosas impresas tremendamente parecidas a otras cosas impresas, también aprendió modales y cultura general. Según su maestro, de nada sirve hacer la mejor falsificación si no no puedes engañar a nadie para que te lo compre. 
 
 Así que Walter consiguió tener una buena cultura general y si lo desea puede pasar por un personaje de clase media/alta. Esto le viene muy bien cuando tiene que introducir sus falsificaciones en la calle, quién pensaría que ese elegante caballero es un falsificador del East End que trata de colarte 200 libras en billetes falsos.
+
+\sp
 
 Walter posee una vista excepcional para los detalles, nada se escapa a su ojo avizor. Sus años de falsificador le permiten detectar el mínimo detalle en una persona, objeto o estancia. Por poner un ejemplo, para él los trileros mueven los vasos a cámara lenta.
 
@@ -158,13 +165,13 @@ Walter posee una vista excepcional para los detalles, nada se escapa a su ojo av
   * Muy buena vista
 * **Estilos:** Cauto Enorme (+4), Furtivo Bueno (+2), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Grande (+3)
 
-\sp
-
 * **Proezas**
   * **Colar billetes falsos:** Debido a sus años intentando soltar billetes falsos en todo tipo de negocios, gana un +2 para Superar en modo Rápido cuando tiene que mentir.
   * **Fingir de ser clase alta:** Debido a las enseñanzas de su maestro Gîroc sobre modales, etiqueta y cultura en general, gana un +2 para Crear una ventaja en modo Cauto cuando tiene hacerse pasar por gente clase media/alta.
   * **Burocracia a mí:** Como falsificador conoce muchos documentos y procesos burocráticos, una vez por partida puede montar algún tipo de documento falso que le evite problemas legales no sangrientos.
 * **Capacidad de recuperación:** 3
+
+\sp
 
 ### La pandilla de «Tinta China»
 
@@ -181,12 +188,6 @@ Si consiguen resolverlo, Tiberius Fox estará tremendamente agradecido y propond
 
 Si no les ve muy convencidos, les hablará de la inmortalidad de estar en negro sobre blanco, de la fama y si todo va bien de pingües beneficios.
 
-\sp
-
 Si no se fían, Utterson revisará el contrato, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
-
-&nbsp;
-
-&nbsp;
 
 [![Hand drawn magnifying glass vector by rawpixel.com](./assests/images/dw21-mynt-08.png "Hand drawn magnifying glass vector by rawpixel.com")](https://www.freepik.com/free-vector/hand-drawn-magnifying-glass-vector_16174045.htm "Hand drawn magnifying glass vector by rawpixel.com")

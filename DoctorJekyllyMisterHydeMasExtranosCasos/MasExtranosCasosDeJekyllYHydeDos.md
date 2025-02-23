@@ -10,7 +10,7 @@ El arroyo nace en el Pozo del Pastor (Shepherd’s Well) que es la principal fue
 
 Lord Winthle es el propietario más rico del Hampstead. Está harto de sus vecinos más pobres y busca hacer que vendan sus casuchas para comprarlas y construir grandes mansiones para personas ricas como él.
 
-Sus tierras no están sobre el acuifero, así que ha construido en sus terrenos un pozo en diagonal que llega al acuífero del Pozo del Pastor y está secándolo con unas bombas accionadas por un grupo de peones. Según baja el nivel del agua otro grupo excava más profundo y extiende la tubería de la bomba.
+Sus tierras no están sobre el acuífero, así que ha construido en sus terrenos un pozo en diagonal que llega al acuífero del Pozo del Pastor y está secándolo con unas bombas accionadas por un grupo de peones. Según baja el nivel del agua ,otro grupo excava más profundo y extiende la tubería de la bomba.
 
 \sp
 
@@ -18,13 +18,13 @@ Cuando el agua deje de fluir hacia el Tyburn, este se secará y las habitantes d
 
 Toda el agua sobrante la está enviando a la red de alcantarillado que termina en el Támesis, unos 3 kilómetros más arriba de la desembocadura del Tyburn.
 
-Cuando limpie el barrio de indeseables dejará de vaciar el pozo y el río debería volver a fluir. Lo que no sabe es que el acuífero puede colapsar por vaciarlo descontroladamente y hacer que todo el barrio se hunda en la tierra. De hecho están empezando a salir grietas en las casas más viejas.
+Cuando limpie el barrio de indeseables dejará de vaciar el pozo y el río debería volver a fluir. Lo que no sabe es que el acuífero puede colapsar por vaciarlo descontroladamente y hacer que todo el barrio se hunda en la tierra. De hecho, están empezando a salir grietas en las casas más viejas.
 
 ## Introducción al caso
 
 Gabriel Utterson y Thomas Mundorf, alcalde de distrito de Hampstead y compañero del ejército del padre de Gabriel, se presentan en la agencia con un nuevo caso.
 
-El río Tyburn ha dejado de fluir hacia el Támesis. Su fuente principal, el Pozo del Pastor, se ha secado y han perdido su principal fuente de agua dulce y una vía fluvial por la que mover las mercancías. Si no recuperan su río el barrio podría estar en peligro.
+El río Tyburn ha dejado de fluir hacia el Támesis. Su fuente principal, el Pozo del Pastor, se ha secado y han perdido su principal fuente de agua dulce y una vía fluvial por la que mover las mercancías. Si no recuperan su río, el barrio podría estar en peligro.
 
 Ha tratado de que el departamento de Obras Públicas le haga caso, que la Mancomunidad del Támesis les ayude o que lo investigue alguien de la Universidad de Oxford que sepa de estas cosas. Nadie le ha atendido, ni siquiera se han presentado a ver la situación.
 
@@ -48,7 +48,7 @@ Cuando lleguen a Hampstead se encontrarán con el cauce del río Tyburn medio se
 
 El alcalde Mundorf les enseñará su barrio y les mostrará otro de los problemas que tienen ahora mismo están apareciendo grietas en las paredes de las casas. Por ahora, son cosas estéticas, pero en unos meses pueden hacerse muy graves.
 
-En un momento dado mientras miran una grieta cercana de un viejo edificio de dos plantas, se oirá un crujido seco y una gigantesca grieta recorrerá toda la fachada del edificio. No hay que ser muy listo para descubrir que el edificio se va a venir abajo en minutos.
+En un momento dado, mientras miran una grieta cercana de un viejo edificio de dos plantas, se oirá un crujido seco y una gigantesca grieta recorrerá toda la fachada del edificio. No hay que ser muy listo para descubrir que el edificio se va a venir abajo en minutos.
 
 Hay gente dentro que sale a las ventanas ante semejante ruido y otra que grita pidiendo ayuda desde dentro al ver los estragos que hay en su casa por las grietas que acaban de aparecer.
 
@@ -68,7 +68,7 @@ Estos son 6 de los problemas y situaciones que pueden encontrarse. Escoge 4, uno
 
 * Una lámpara de aceite se ha caído y ha creado un fuego. No es preocupante, pero 
 * Una joven doncella de buen ver o un joven adonis (elige según las preferencias sexuales del personaje) pide ayuda desde una ventana. No tenéis claro porque pide ayuda, ya que podría salir por sus propios medios. 
-* Hay un bebe solo en la casa, su madre grita desde la calle que salven a su bebe. Si son listos pedirán a gente que pongan mantas y ropa para poder recoger al bebe que dejara caer por la ventana, si no tendrán que salir y volver a entrar con una perdida de tiempo.
+* Hay un bebe solo en la casa, su madre grita desde la calle que salven a su bebe. Si son listos, pedirán a gente que pongan mantas y ropa para poder recoger al bebe que dejara caer por la ventana, si no tendrán que salir y volver a entrar con una perdida de tiempo.
 
 Cuando terminen y salgan con la última persona rescatada, el edificio colapsará tras de ellos levantando una nube de polvo. Cuando salgan de la nube de polvo, los vecinos arremolinados se pondrán a aplaudir.
 
@@ -78,7 +78,7 @@ Mundorf les llevará a las fuentes del Tyburn, el Pozo del Pastor, un manantial 
 
 Mundorf les advertirá que cerca, en una choza ruinosa, vive una vieja pirada llamada Alexia, a la que apodan «la bruja del pozo». Es inofensiva, pero se le va la cabeza, más desde que se secó el manantial. No para de gritar que el demonio está robando el agua.
 
-Mientras investigan el lugar aparecerá una anciana encorvada con pelos llenos de hierba y ramas y que se apoya en un cayado. Irá muy lento murmurando en voz baja. 
+Mientras investigan el lugar aparecerá una anciana encorvada con pelos llenos de hierba y ramas y que se apoya en un cayado. Irá muy lento, murmurando en voz baja. 
 
 Se pondrá delante del grupo y empezará a gritarles que están robando el agua, que el agua es la vida y, por tanto, les roban la vida y terminara con «Seguid el manantial y os llevará al ladrón» señalando a una zona con matorrales al lado del manantial.
 
@@ -90,7 +90,7 @@ A partir de ahí solo dirá incongruencias, pero si quieres que se flipen un poc
 
 Alexia, a la que gente de Hampstead llama «la bruja del pozo», es una anciana que se dedica a hacer ungüentos y pociones a cambio de unas monedas. Todas sus recetas llevan en su familia desde hace siglos y le han permitido ganarse la vida. Eres arisca y borde, pero como te enseño y tu madre nadie regatea ni engaña a una bruja mosqueada.
 
-Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y su madre antes que ella y su abuela y su tatarabuela, así, quizás, hasta tiempos de los romanos. La familia de Alexia lleva adorando al dios del río desde tiempos ancestrales siguiendo unas tradiciones animistas de las que ella es la última superviviente.
+Alexia lleva viviendo en una choza al lado del Pozo del Pastor toda su vida, y su madre antes que ella y su abuela y su tatarabuela, así, quizás, hasta tiempos de los romanos. La familia de Alexia lleva adorando al dios del río desde tiempos ancestrales, siguiendo unas tradiciones animistas de las que ella es la última superviviente.
 
 Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad científica, seguramente que se reúnan donaciones para poder arreglar su casa y registrar sus historias para algún estudio histórico de Inglaterra.
 
@@ -117,7 +117,7 @@ Alexia es un tesoro antropológico y si hablan de ella a alguna sociedad cientí
 
 Detrás de los matojos y arbustos que señala Alexis, hay una cuevecilla por la que apenas pasa una persona y llega hasta una compleja red de túneles. Alexia les ha dicho que sigan al agua y llegarán hasta el culpable. El problema es que está oscuro y el manantial es apenas un hilillo de agua.
 
-Estás cuevas naturales son un laberinto de galerías y si no tienen una estrategia como marcas el camino terminarán perdidos y andando en círculo. Si se buscan algún tipo de truco podrán moverse por ellas con menos dificultad pasando una tirada Buena (+2).
+Estas cuevas naturales son un laberinto de galerías y si no tienen una estrategia como marcas en el suelo, terminarán perdidos y andando en círculo. Si se buscan algún tipo de truco podrán moverse por ellas con menos dificultad pasando una tirada Buena (+2).
 
 Si no se pierden, llegarán a un túnel en el que oirán al otro lado bastante ruido, incluso voces humanas si ponen mucha atención.
 
@@ -134,13 +134,13 @@ Allí trabajan 4 peones sacando tierra y profundizando la galería, que tras sup
 
 ### Perdidos en las cuevas
 
-Si se pierden en las cuevas y tienen que volver, se encontrarán a Alexia en el manantial y les dirá «El agua de mi Tyburn siempre ha fluido hacia el Támesis. Si no es por aquí será por otro cauce, pero siempre acabará en el Támesis».
+Si se pierden en las cuevas y tienen que volver, se encontrarán a Alexia en el manantial y les dirá «El agua de mi Tyburn siempre ha fluido hacia el Támesis. Si no es por aquí, será por otro cauce, pero siempre acabará en el Támesis».
 
 Así que lo más sencillo es buscar en esta orilla del Támesis alguna canalización que lleve más agua de lo normal. Preguntando a los locales de la ribera, rápidamente les hablarán de un desagüe general de aguas fecales que estás tirando montones de litros de agua. Mucho más de lo normal. De hecho, han hecho chistes de lo mucho que mean por la zona.
 
 El agua que sale del desagüe hacia el río es muchísima y está bastante limpia, no son aguas fecales normales. Eso de debe a que hay más agua limpia que residuos, así que puedes ser que gran parte del Tyburn salga por este aliviadero.
 
-Deberán meterse en la cloaca y seguir el agua. Como la caverna, está oscuro, pero entra algo de luz por alcantarillas y desagües. Seguir el agua es más facil, ya que la cloaca lleva muchísima agua y está más limpia que la del resto de colectores.
+Deberán meterse en la cloaca y seguir el agua. Como la caverna, está oscuro, pero entra algo de luz por alcantarillas y desagües. Seguir el agua es más fácil, ya que la cloaca lleva muchísima agua y está más limpia que la del resto de colectores.
 
 [![Ancient mining on the shores of Lake Superior by Charles Whittlesey](./assests/images/fig6.png "Ancient mining on the shores of Lake Superior by Charles Whittlesey")](https://scienceviews.com/ebooks/ancient_mining/index.html "Ancient mining on the shores of Lake Superior by Charles Whittlesey")
 
@@ -154,7 +154,7 @@ Si baja por el túnel llegarán a una zona donde un grupo de 4 peones accionan u
 
 Tanto si están en el fondo del pozo como en la bomba, un trueno muy cercano no será una buena señal. Enseguida ambos conductos se llenarán de agua de lluvia y habrá posibilidades de que mueran ahogados. 
 
-La galería está muy inclinada y embarrada y el agua entra a raudales. Quién se quede dentro seguramente morirá ahogado. Si son buena gente deberán ayudar a salir a los peones que acaban de derrotar.
+La galería está muy inclinada y embarrada y el agua entra a raudales. Quien se quede dentro seguramente morirá ahogado. Si son buena gente deberán ayudar a salir a los peones que acaban de derrotar.
 
 ## La hacienda Winthle
 
@@ -172,7 +172,7 @@ Lord Winthle les esperará en la biblioteca. Sus espías en el barrio le avisaro
 
 Según sus conocimientos legales, Winthle sabe que no podrá ganar, pero puede alargarlo mucho tiempo, el suficiente para que mucha gente se vaya y él compre sus casas. Está convencido que como mucho recibirá una multa, que por muy grande que sea la compensará con los beneficios de su especulación inmobiliaria. 
 
-El combate legal es un conflicto que se resolverá como otros conflictos pero de forma dialéctica. Recuerda que las consecuencias deberían tener un carácter psicológico, como «perder la confianza en sí mismo» o «dudas sobre el plan». Pueden atacarle tus jugadores y Utterson:
+El combate legal es un conflicto que se resolverá como otros conflictos, pero de forma dialéctica. Recuerda que las consecuencias deberían tener un carácter psicológico, como «perder la confianza en sí mismo» o «dudas sobre el plan». Pueden atacarle tus jugadores y Utterson:
 
 * El pozo se ha metido en terrenos municipales y tendrá que rellenarlo.
 * Está robando el agua a los vecinos de Hampstead.
@@ -182,7 +182,7 @@ El combate legal es un conflicto que se resolverá como otros conflictos pero de
 
 Por otro lado, Lord Winthle puede hacer uso de estos trucos:
 
-* Puede alegar que estaba haciendo para lo que había pedido licencia, hacer un pozo para sacar agua. Aunque ha entrado en terrenos públicos es solo un delito civil y solo supondrá una multa.
+* Puede alegar que estaba haciendo para lo que había pedido licencia, hacer un pozo para sacar agua. Aunque ha entrado en terrenos públicos, es solo un delito civil y solo supondrá una multa.
 
 \sp
 
@@ -200,7 +200,7 @@ Si consiguen derrotarle en este combate legal, se rendirá y reconocerá su odio
 
 Así que olvidará su plan urbanístico y rellenará el pozo para que el Tyburn vuelva a fluir. En uno meses venderá la casa familiar y se marchará de Hampstead.
 
-Por suerte para todos el daño medioambiental no será permanente y las casas no seguirán hundiéndose.
+Por suerte para todos, el daño medioambiental no será permanente y las casas no seguirán hundiéndose.
 
 La noticia del río robado saldrá en la portada y la gente de bien de la ciudad donará dinero para ayudar a arreglar las casas.
 
