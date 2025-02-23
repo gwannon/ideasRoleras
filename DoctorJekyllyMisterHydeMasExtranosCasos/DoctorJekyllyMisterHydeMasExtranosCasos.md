@@ -90,12 +90,9 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Journey to the Center of the Earth (1864) by [Édouard Riou](https://www.wikiart.org/es/edouard-riou/journey-to-the-center-of-the-earth-1864-48)
 * Hand drawn classic compass by [rawpixel.com](https://www.freepik.com/free-vector/hand-drawn-classic-compass_2782992.htm)
 * Hand drawn magnifying glass vector by [rawpixel.com](https://www.freepik.com/free-vector/hand-drawn-magnifying-glass-vector_16174045.htm)
+* Ancient mining on the shores of Lake Superior by [Charles Whittlesey](https://scienceviews.com/ebooks/ancient_mining/index.html)
 
 \sp
-
-## Agradecimientos
-
-* A [Gremio Astral](https://www.youtube.com/channel/UCXxra7C7ZpZgcJ0_2w_YnJA) por probar el juego original y ponerlo en su canal.
 
 ## Otros proyectos que te pueden interesar
 
