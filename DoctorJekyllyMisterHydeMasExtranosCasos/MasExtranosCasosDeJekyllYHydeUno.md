@@ -61,8 +61,6 @@ Quizás lo más fácil para empezar es ver qué sabe del caso Scotland Yard. Si 
 
 Pero saben que su padre era un borracho y un maltratador y en muchos de estos casos la chica desaparece sin dejar rastro para que no las encuentre sus maltratadores. Consiguen un trabajo en otra ciudad y se cambian el nombre o consiguen un novio que se las lleva con ellos.
 
-XXX
-
 ## Yo a las cabañas bajé, …
 
 Una vez hechas las primeras pesquisas habría que hablar con sus compañeras de trabajo. Habrá que esperar a la noche para verlas recoger de la basura las flores desechadas de los mercados de flores o hablar con ellas a la hora de entrada y salida de los teatros de la zona de Covent Garden.
@@ -114,14 +112,14 @@ XXX
 * **Aspectos**
   * **Concepto principal:** Estirada dama de alta sociedad
   * **Complicación:** Amnesia de su vida pasada
-  * XXX
-  * XXX
-  * XXX
+  * Olfato entrenado
+  * Gustos caros
+  * Dicción perfecta y bonita voz
 * **Estilos:** Cauto Bueno (+2), Furtivo (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 * **Proezas**
-  * **Sex appeal:** XXX
-  * **Modales intachables:** XXX
-  * **Vendedora nata:** XXX
+  * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
+  * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
+  * **Vendedora nata:** Sabe todos los trucos de la venta, tanto como violetera como vendedora de perfumes, por ello obtiene un +2 Atacar a modo Rápido cuando trata de convencer a alguien de cosas sencillas. 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -130,16 +128,15 @@ XXX
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
 
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Barriobajera vendedora de flores
   * **Complicación:** Maltratada
+  * Olfato entrenado
   * Mucha calle
   * Puede subsistir con muy poco
-  * XXX
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
-
-\sp
-
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido todo una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.
