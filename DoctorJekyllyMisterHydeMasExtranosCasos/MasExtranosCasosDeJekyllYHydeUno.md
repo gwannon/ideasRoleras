@@ -100,7 +100,7 @@ XXX
 
 #### Charla delante de un té
 
-Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente les invitará a tomar un té mientras charlan sobre por qué están en su casa.
+Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa.
 
 Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
