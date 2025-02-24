@@ -73,31 +73,48 @@ Su padre no denunció su desaparición hasta que se quedó sin dinero y dejaron 
 
 ## Yo a los palacios subí, …
 
-Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno con bigote, bien vestido y con porte elegante.
-
-Covent Garden a la noche se llena de tipos así que van a los teatros. 
+Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno con bigote, bien vestido y con porte elegante. Covent Garden a la noche se llena de tipos así que van a los teatros. 
 
 Pueden intentar un retrato robot, una nueva técnica que está empezando a usar la policía.
 
-XXX
-
-Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas.
-
-Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
+Montar turnos de vigilancia puede funcionar, pero tendrán que ser pacientes. El profesor Hodgins solo va a estudiar a las vendedoras de flores 2 veces al mes. Así que como mínimo deberán estar unas diez noches de vigilancia.
 
 XXX
+
+Sea como sea, Hodgins aparecerá por Covent Garden con su cuaderno donde anota las palabras que usan las violeteras y su pronunciación. Será fácilmente reconocibles, se ajusta a la descripción y va con el cuaderno de notas.
+
+Quizás traten de ver qué escribe, pero o le quitan el cuaderno o será imposible. Es de noche y el cuaderno es pequeño. Quizás puedan pagar a una de las chicas para que lo distraiga con sus encantos, pero desgraciadamente no funcionará.
+
+Lo indicado en este caso será seguirle sigilosamente hasta su casa y averiguar dónde vive. Si la tiene secuestrada, saber dónde vive puede significar saber dónde está y salvarla. Si quieren detenerle o interrogarle, podría escapar y acabar matando a su prisionera para luego desaparecer.
+
+XXX
+
+\sp
+
 
 ### Misión de infiltración
 
-La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y este dice que no sabe nada de ella. Habría que colarse en su casa y saber si dice la verdad o miente y Lisa está retenida contra su voluntad.
+La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Habría que colarse en su casa y saber si dice la verdad o miente y Lisa está retenida contra su voluntad.
+
+XXX
+
+#### Charla delante de un té
+
+Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente les invitará a tomar un té mientras charlan sobre por qué están en su casa.
+
+Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
+
+Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
+
+\sp
+
+Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
 XXX
 
 ## Aparece Newcomen
 
 El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
-
-\sp
 
 XXX
 
@@ -117,6 +134,8 @@ XXX
 
 XXX
 
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Estirada dama de alta sociedad
   * **Complicación:** Amnesia de su vida pasada
@@ -124,9 +143,6 @@ XXX
   * Gustos caros
   * Dicción perfecta y bonita voz
 * **Estilos:** Cauto Bueno (+2), Furtivo (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
-
-\sp
-
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
@@ -145,10 +161,10 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Olfato entrenado
   * Mucha calle
   * Puede subsistir con muy poco
-* **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
 
 \sp
 
+* **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido todo una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.
