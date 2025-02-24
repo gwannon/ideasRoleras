@@ -106,7 +106,6 @@ Tarde o temprano esta línea de investigación se extinguirá, aunque puedes est
 
 \sp
 
-
 Por ejemplo, si han descubierto la prueba en la papelera, podrán hacer la prueba juntando las piezas de «Francs» y buscando si se descubre algo al poner esos tipos juntos.
 
 ## El East End de Londres

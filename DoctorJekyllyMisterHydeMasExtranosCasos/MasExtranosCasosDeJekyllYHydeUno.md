@@ -65,17 +65,25 @@ Pero saben que su padre era un borracho y un maltratador y en muchos de estos ca
 
 Una vez hechas las primeras pesquisas habría que hablar con sus compañeras de trabajo. Habrá que esperar a la noche para verlas recoger de la basura las flores desechadas de los mercados de flores o hablar con ellas a la hora de entrada y salida de los teatros de la zona de Covent Garden.
 
-XXX
+Nadie querrá hablar del tema, pero si ofrecen una buena propina y un té caliente, Mary Peed, una buena amiga, les contará su historia de maltrato y abusos por parte de su padre y como la noche de su desaparición había un extraño y elegante caballero tomando notas por la zona.
+
+Su padre no denunció su desaparición hasta que se quedó sin dinero y dejaron de fiarle en sus bebedores habituales. Fue entonces cuando acudió a Scotland Yard.
  
+\sp
+
 ## Yo a los palacios subí, …
+
+Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno con bigote, bien vestido y con porte elegante.
+
+Covent Garden a la noche se llena de tipos así que van a los teatros. 
+
+Pueden intentar un retrato robot, una nueva técnica que está empezando a usar la policía.
 
 XXX
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas.
 
-\sp
-
-Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría un cavernícola o un tigre.
+Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
 XXX
 
@@ -88,6 +96,8 @@ XXX
 ## Aparece Newcomen
 
 El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
+
+\sp
 
 XXX
 
@@ -103,8 +113,6 @@ XXX
 
 XXX
 
-\sp
-
 ### Elsa, la estirada dama de alta sociedad
 
 XXX
@@ -116,6 +124,9 @@ XXX
   * Gustos caros
   * Dicción perfecta y bonita voz
 * **Estilos:** Cauto Bueno (+2), Furtivo (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
+
+\sp
+
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
@@ -128,8 +139,6 @@ XXX
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
 
-\sp
-
 * **Aspectos**
   * **Concepto principal:** Barriobajera vendedora de flores
   * **Complicación:** Maltratada
@@ -137,6 +146,9 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Mucha calle
   * Puede subsistir con muy poco
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
+
+\sp
+
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido todo una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.

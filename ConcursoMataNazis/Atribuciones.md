@@ -8,5 +8,4 @@
 * Fuentes usadas de Google Fonts: [SpecialElite-Regular](https://fonts.google.com/specimen/Special+Elite), [Reenie Beanie](https://fonts.google.com/specimen/Reenie+Beanie) y [Zeyada](https://fonts.google.com/specimen/Zeyada)
 * Sello de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 
-
 [![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./assests/images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')

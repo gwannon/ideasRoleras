@@ -280,7 +280,6 @@ Algún becario del departamento de egiptología del British Museum ha desempolva
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
 
-
 ### Los Nabucodonosorcitos RPG
 
 Los Nabucodonosorcitos son una familia de bichos que viven en la maceta de la ventana de la casa de Epi y Blas de Barrio Sésamo.
