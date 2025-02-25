@@ -73,19 +73,43 @@ Su padre no denunció su desaparición hasta que se quedó sin dinero y dejaron 
 
 ## Yo a los palacios subí, …
 
-Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno con bigote, bien vestido y con porte elegante. Covent Garden a la noche se llena de tipos así que van a los teatros. 
+Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno con bigote, bien vestido y con porte elegante. Covent Garden a la noche se llena de tipos así que van a los teatros.
 
-Pueden intentar un retrato robot, una nueva técnica que está empezando a usar la policía.
+### Retrato robot
+
+Pueden intentar un retrato robot, una nueva técnica que está empezando a usar la policía. Deberán buscar un ilustrador y que la señorita Peed este un rato describiendo al caballero con el cuaderno de notas. Con o sin retrato hecho deberán decidir por dónde empezar a buscar.
+
+* Los clubs de caballeros podrían ser una buena opción para empezar. El problema es que no los frecuenta y no se estira mucho en estos ambientes. Si consiguen entrar en alguno de muy alto nivel, algún miembro puede reconocerle como el profesor que contrato para que ayudara a alguno de sus hijos con sus problemas de dicción.
+* En la universidad, si pasan por algún departamento de ciencias sociales y humanidades hay posibilidades de que le reconozcan. Ninguno de sus colegas de profesión dirá nada bueno de él.
+* En Scotland Yard también sabrán de él. Ha estado haciendo trabajos para ellos. Tiene la teoría de que por la forma de hablar se puede saber quién es un criminal y quién no. Scotland Yard está buscando nuevas formas de resolver crímenes y está les pareció interesante, así que suelen llamarle a ver qué les dice. Claramente, esto llegará a oídos del inspector Newcomen.
+
+En todos estos casos les podrán dar su dirección e incluso su tarjeta «Doctor Eric Hodgins, profesor de fonética y logopeda»
+
+\sp
+
+En cualquier otro ámbito será totalmente desconocido. Si les ves muy perdidos, puedes hacer que Mary Peed les ayude un poco. Les contará que a una de las violeteras les propuso grabar su voz y ella le rechazó pensando que le estaba ofreciendo dinero por sexo. Eso debería ponerles a buscar entre investigadores y profesores de universidad.
+
+### Vigilancia
 
 Montar turnos de vigilancia puede funcionar, pero tendrán que ser pacientes. El profesor Hodgins solo va a estudiar a las vendedoras de flores 2 veces al mes. Así que como mínimo deberán estar unas diez noches de vigilancia.
-
-XXX
 
 Sea como sea, Hodgins aparecerá por Covent Garden con su cuaderno donde anota las palabras que usan las violeteras y su pronunciación. Será fácilmente reconocibles, se ajusta a la descripción y va con el cuaderno de notas.
 
 Quizás traten de ver qué escribe, pero o le quitan el cuaderno o será imposible. Es de noche y el cuaderno es pequeño. Quizás puedan pagar a una de las chicas para que lo distraiga con sus encantos, pero desgraciadamente no funcionará.
 
 Lo indicado en este caso será seguirle sigilosamente hasta su casa y averiguar dónde vive. Si la tiene secuestrada, saber dónde vive puede significar saber dónde está y salvarla. Si quieren detenerle o interrogarle, podría escapar y acabar matando a su prisionera para luego desaparecer.
+
+### Visita de cortesía
+
+Con un nombre y una dirección podrán averiguar las cosas normales del profesor Hodgins, profesor de universidad, logopeda, soltero y acomodado.
+
+\sp
+
+La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Está claro que para saber qué paso con Lisa habría que colarse en su casa y buscar alguna pista de su paradero. Tus jugadores pueden tratar de hacer una visita preliminar a su domicilio con alguna excusa.
+
+XXX
+
+Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
 XXX
 
@@ -94,21 +118,19 @@ XXX
 
 ### Misión de infiltración
 
-La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Habría que colarse en su casa y saber si dice la verdad o miente y Lisa está retenida contra su voluntad.
+Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea más provechoso. XXX
 
 XXX
 
-#### Charla delante de un té
+### Charla delante de un té
 
 Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa.
 
 Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
-Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
-
 \sp
 
-Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
+Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
 
 XXX
 

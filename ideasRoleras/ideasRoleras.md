@@ -450,3 +450,12 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+
+\sp
+
+### Cuerpo humano RPG
+
+XXX
+
+Mientras pensaba en esta idea, me cruce con este bluit de [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social/post/3livzsxufmc2w) donde ya se ve que se ha explorado esta idea.
