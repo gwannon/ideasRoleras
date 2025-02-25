@@ -14,7 +14,7 @@ Al ver los títulos en las paredes de la casa de Sir Hodgins y los libros gordos
 
 \sp
 
-Sir Hodgins acepta y empieza en ese mismo momento, no da a Lisa ni tiempo a recoger sus cosas, ni avisar a nadie. El problema es que Hodgins es un ser muy obsesivo, un pésimo profesor y tiene una acentuada tendencia bully y poquísima paciencia con lo que empieza a insultar y despreciar a la mínima.
+Sir Hodgins acepta y empieza en ese mismo momento, no da a Lisa ni tiempo a recoger sus cosas, ni avisar a nadie. El problema es que Hodgins es un ser muy obsesivo, un pésimo profesor y tiene una acentuada tendencia bully y poquísima paciencia, con lo que empieza a insultar y despreciar a la mínima.
 
 Para Lisa, las semanas que pasa con Sir Hodgins son una tortura, pero no sabe procesarlo, porque lo considera normal. Es lo ha vivido con su padre durante toda su vida.
 
@@ -26,11 +26,11 @@ El profesor piensa que Lisa ha huido a media noche porque no es capaz de aguanta
 
 Nacida como forma de procesar los abusos del profesor Hodgins, Elsa despliega todo lo que le ha metido a presión en la cabeza de Lisa. Es distinguida, habla de forma perfecta, tienes modales excelentes, una extensa cultura general y una agradable conversación. 
 
-Por su lado, Lisa se queda encerrada en el fondo de su propia mente. Está cansada de abusos y gritos y allí se siente segura, sobre todo con Elsa protegiéndola. Aun así aparece en los sueños de Elsa, que cree que es una especie de pesadilla recurrente.
+Por su lado, Lisa se queda encerrada en el fondo de su propia mente. Está cansada de abusos y gritos y allí se siente segura, sobre todo con Elsa protegiéndola. Aun así, aparece en los sueños de Elsa, que cree que es una especie de pesadilla recurrente.
 
 \sp
 
-[![Winter's Night by William Hole](./assests/images/winters-night-864.png "Winter's Night by William Hole")](https://www.oldbookillustrations.com/illustrations/winters-night/ "Winter's Night by William Hole")
+[![Winter’s Night by William Hole](./assests/images/winters-night-864.png "Winter’s Night by William Hole")](https://www.oldbookillustrations.com/illustrations/winters-night/ "Winter’s Night by William Hole")
 
 \sp
 
@@ -73,15 +73,15 @@ Su padre no denunció su desaparición hasta que se quedó sin dinero y dejaron 
 
 ## Yo a los palacios subí, …
 
-Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno con bigote, bien vestido y con porte elegante. Covent Garden a la noche se llena de tipos así que van a los teatros.
+Primer problema, buscar a alguien en una gran ciudad con una vaga discreción: unos 50 años, estatura media, moreno, con bigote, bien vestido y con porte elegante. Covent Garden a la noche se llena de tipos, así que van a los teatros.
 
 ### Retrato robot
 
 Pueden intentar un retrato robot, una nueva técnica que está empezando a usar la policía. Deberán buscar un ilustrador y que la señorita Peed este un rato describiendo al caballero con el cuaderno de notas. Con o sin retrato hecho deberán decidir por dónde empezar a buscar.
 
 * Los clubs de caballeros podrían ser una buena opción para empezar. El problema es que no los frecuenta y no se estira mucho en estos ambientes. Si consiguen entrar en alguno de muy alto nivel, algún miembro puede reconocerle como el profesor que contrato para que ayudara a alguno de sus hijos con sus problemas de dicción.
-* En la universidad, si pasan por algún departamento de ciencias sociales y humanidades hay posibilidades de que le reconozcan. Ninguno de sus colegas de profesión dirá nada bueno de él.
-* En Scotland Yard también sabrán de él. Ha estado haciendo trabajos para ellos. Tiene la teoría de que por la forma de hablar se puede saber quién es un criminal y quién no. Scotland Yard está buscando nuevas formas de resolver crímenes y está les pareció interesante, así que suelen llamarle a ver qué les dice. Claramente, esto llegará a oídos del inspector Newcomen.
+* En la universidad, si pasan por algún departamento de ciencias sociales y humanidades, hay posibilidades de que le reconozcan. Ninguno de sus colegas de profesión dirá nada bueno de él.
+* En Scotland Yard también sabrán de él. Ha estado haciendo trabajos para ellos. Tiene la teoría de que por la forma de hablar se puede saber quién es un criminal y quién no. Scotland Yard está buscando nuevas formas de resolver crímenes y esta les pareció interesante, así que suelen llamarle a ver qué les dice. Claramente, esto llegará a oídos del inspector Newcomen.
 
 En todos estos casos les podrán dar su dirección e incluso su tarjeta «Doctor Eric Hodgins, profesor de fonética y logopeda»
 
@@ -113,7 +113,7 @@ Si bien es el mejor del mundo, tratar con él es imposible y puede sacar de quic
   * Excesiva confianza en sí mismo
   * Acomodado
   * Único en su especie
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Estilos:** Cauto Grande (+3), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Grande (+3), Rápido Normal (+1), Vigoroso Mediocre (+0)
 * **Proezas**
   * **Por su forma de hablar le conocerás:** Debido a sis estudio en fonética en miles de lenguas y acentos, obtiene +2 a Crear una ventaja en forma Cauta cuando puede estudiar su forma de hablar.
   * **Nota cuando mientes:** Con sus estudios sobre la voz y las mentiras, obtiene un +2 a Superar en modo Cauto cuando le mienten.
@@ -128,7 +128,11 @@ Con un nombre y una dirección podrán averiguar las cosas normales del profesor
 
 \sp
 
-La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Está claro que para saber qué paso con Lisa habría que colarse en su casa y buscar alguna pista de su paradero. Tus jugadores pueden tratar de hacer una visita preliminar a su domicilio con alguna excusa.
+La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Está claro que para saber qué paso con Lisa habría que colarse en su casa y buscar alguna pista de su paradero.
+
+Tus jugadores pueden tratar primero de hacer una visita preliminar a su domicilio con alguna excusa. Con la excusa de conocerle, querer contratarle o incluso entrevistarle o firmarle alguno de sus libros podrían concertar una cita. Recibe bastantes de este tipo de citas y no tendría por qué sospechar nada.
+
+Si llegaron a Hodgins por sus relaciones con Scotland Yard, podrían incluso presentarse como lo que son, investigadores privados que quieren aprender sus técnicas fonéticas. La verdad que este método iría directo contra una de las debilidades del profesor que es su ego.
 
 XXX
 
@@ -138,15 +142,16 @@ XXX
 
 ### Misión de infiltración
 
-Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea más provechoso. XXX
+Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea más provechoso.
 
 XXX
+
+\sp
 
 ### Charla delante de un té
 
 Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa.
 
-\sp
 
 Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
@@ -160,6 +165,8 @@ El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la s
 
 XXX
 
+\sp
+
 ## ¿Dónde está Lisa?
 
 XXX
@@ -172,15 +179,19 @@ XXX
 
 XXX
 
-\sp
-
 Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
 Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. Pero viendo a Elsa en su entorno normal, con sus vestidos y con sus modales y maneras de alta cuna, nadie pensaría que hace unas semanas vendía flores a penique a la salida de los teatros de Covent Garden.
 
 ### Elsa, la estirada dama de alta sociedad
 
-XXX
+Elsa es en lo que debería haberse convertido Lisa con las enseñanzas del profesor Hodgins, pero al romperse la psique de Lisa, afloró esta segunda personalidad que abandonó todo recuerdo de Lisa y su dura vida.
+
+Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
+
+\sp
+
+Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un restaurante, Elsa crece y Lisa desaparece.
 
 * **Aspectos**
   * **Concepto principal:** Estirada dama de alta sociedad
@@ -193,9 +204,6 @@ XXX
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
   * **Vendedora nata:** Sabe todos los trucos de la venta, tanto como violetera como vendedora de perfumes, por ello obtiene un +2 Atacar a modo Rápido cuando trata de convencer a alguien de cosas sencillas. 
-
-\sp
-
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -203,6 +211,8 @@ XXX
 ### Lisa, la barriobajera vendedora de flores
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
+
+\sp
 
 * **Aspectos**
   * **Concepto principal:** Barriobajera vendedora de flores
