@@ -101,21 +101,23 @@ Lo indicado en este caso será seguirle sigilosamente hasta su casa y averiguar 
 
 #### Profesor Eric Hodgins
 
-XXX
+Eric Hodgins es una eminencia mundial en fonética y logopedia. Personalidades de todo el mundo requieren sus servicios para aprender a hablar correctamente como políticos y reyes o nuevos ricos que quieren esconder sus orígenes humildes. 
 
 \sp
 
+Si bien es el mejor del mundo, tratar con él es imposible y puede sacar de quicio hasta al lama del Tíbet más tranquilo y calmado. Es capaz de tenerte repitiendo la misma frase durante horas y días hasta que la hagas a la perfección, y cuando lo consigues pasar a otra frase sin ninguna palabra de ánimo o de estímulo. 
+
 * **Aspectos**
-  * **Concepto principal:** XXX
-  * **Complicación:** XXX
-  * XXX
-  * XXX
-  * XXX
+  * **Concepto principal:** Engreída eminencia mundial sobre fonética
+  * **Complicación:** Obsesivo y sin empatía
+  * Excesiva confianza en sí mismo
+  * Acomodado
+  * Único en su especie
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
-  * **XXX:** XXX
-  * **XXX:** XXX
-  * **XXX:** XXX
+  * **Por su forma de hablar le conocerás:** XXX
+  * **Nota cuando mientes:** XXX
+  * **Desquiciar:** XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -128,9 +130,9 @@ La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y d
 
 XXX
 
-Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
-
 \sp
+
+Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
 XXX
 
@@ -146,11 +148,11 @@ Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas 
 
 Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
+\sp
+
 Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
 
 XXX
-
-\sp
 
 ## Aparece Newcomen
 
@@ -172,9 +174,9 @@ XXX
 
 Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
-Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. Pero viendo a Elsa en su entorno normal, con sus vestidos y con sus modales y maneras de alta cuna, nadie pensaría que hace unas semanas vendía flores a penique a la salida de los teatros de Covent Garden.
-
 \sp
+
+Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. Pero viendo a Elsa en su entorno normal, con sus vestidos y con sus modales y maneras de alta cuna, nadie pensaría que hace unas semanas vendía flores a penique a la salida de los teatros de Covent Garden.
 
 ### Elsa, la estirada dama de alta sociedad
 
