@@ -30,7 +30,7 @@ Por su lado, Lisa se queda encerrada en el fondo de su propia mente. Está cansa
 
 \sp
 
-[![Winter’s Night by William Hole](./assests/images/winters-night-864.png "Winter’s Night by William Hole")](https://www.oldbookillustrations.com/illustrations/winters-night/ "Winter’s Night by William Hole")
+[![Winter's Night by William Hole](./assests/images/winters-night-864.png "Winter's Night by William Hole")](https://www.oldbookillustrations.com/illustrations/winters-night/ "Winter's Night by William Hole")
 
 \sp
 
@@ -103,6 +103,8 @@ Lo indicado en este caso será seguirle sigilosamente hasta su casa y averiguar 
 
 XXX
 
+\sp
+
 * **Aspectos**
   * **Concepto principal:** XXX
   * **Complicación:** XXX
@@ -122,18 +124,15 @@ XXX
 
 Con un nombre y una dirección podrán averiguar las cosas normales del profesor Hodgins, profesor de universidad, logopeda, soltero y acomodado.
 
-\sp
-
 La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Está claro que para saber qué paso con Lisa habría que colarse en su casa y buscar alguna pista de su paradero. Tus jugadores pueden tratar de hacer una visita preliminar a su domicilio con alguna excusa.
 
 XXX
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
-XXX
-
 \sp
 
+XXX
 
 ### Misión de infiltración
 
@@ -147,11 +146,11 @@ Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas 
 
 Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
-\sp
-
 Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
 
 XXX
+
+\sp
 
 ## Aparece Newcomen
 
@@ -171,11 +170,15 @@ XXX
 
 XXX
 
+Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
+
+Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. Pero viendo a Elsa en su entorno normal, con sus vestidos y con sus modales y maneras de alta cuna, nadie pensaría que hace unas semanas vendía flores a penique a la salida de los teatros de Covent Garden.
+
+\sp
+
 ### Elsa, la estirada dama de alta sociedad
 
 XXX
-
-\sp
 
 * **Aspectos**
   * **Concepto principal:** Estirada dama de alta sociedad
@@ -192,6 +195,8 @@ XXX
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
+\sp
+
 ### Lisa, la barriobajera vendedora de flores
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
@@ -202,9 +207,6 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Olfato entrenado
   * Mucha calle
   * Puede subsistir con muy poco
-
-\sp
-
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido todo una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
