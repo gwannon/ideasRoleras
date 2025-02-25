@@ -115,9 +115,9 @@ Si bien es el mejor del mundo, tratar con él es imposible y puede sacar de quic
   * Único en su especie
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
 * **Proezas**
-  * **Por su forma de hablar le conocerás:** XXX
-  * **Nota cuando mientes:** XXX
-  * **Desquiciar:** XXX
+  * **Por su forma de hablar le conocerás:** Debido a sis estudio en fonética en miles de lenguas y acentos, obtiene +2 a Crear una ventaja en forma Cauta cuando puede estudiar su forma de hablar.
+  * **Nota cuando mientes:** Con sus estudios sobre la voz y las mentiras, obtiene un +2 a Superar en modo Cauto cuando le mienten.
+  * **Desquiciar:** Debido a su personalidad obsesiva y sin empatía, obtiene +2 a Atacar de modo Llamativo cuando discute o mantiene una conversación con otras personas.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -126,11 +126,11 @@ Si bien es el mejor del mundo, tratar con él es imposible y puede sacar de quic
 
 Con un nombre y una dirección podrán averiguar las cosas normales del profesor Hodgins, profesor de universidad, logopeda, soltero y acomodado.
 
+\sp
+
 La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Está claro que para saber qué paso con Lisa habría que colarse en su casa y buscar alguna pista de su paradero. Tus jugadores pueden tratar de hacer una visita preliminar a su domicilio con alguna excusa.
 
 XXX
-
-\sp
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
@@ -146,9 +146,9 @@ XXX
 
 Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa.
 
-Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
-
 \sp
+
+Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
 Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
 
@@ -172,9 +172,9 @@ XXX
 
 XXX
 
-Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
-
 \sp
+
+Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
 Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. Pero viendo a Elsa en su entorno normal, con sus vestidos y con sus modales y maneras de alta cuna, nadie pensaría que hace unas semanas vendía flores a penique a la salida de los teatros de Covent Garden.
 
@@ -193,11 +193,12 @@ XXX
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
   * **Vendedora nata:** Sabe todos los trucos de la venta, tanto como violetera como vendedora de perfumes, por ello obtiene un +2 Atacar a modo Rápido cuando trata de convencer a alguien de cosas sencillas. 
+
+\sp
+
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
-
-\sp
 
 ### Lisa, la barriobajera vendedora de flores
 
