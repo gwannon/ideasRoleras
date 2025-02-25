@@ -99,6 +99,25 @@ Quizás traten de ver qué escribe, pero o le quitan el cuaderno o será imposib
 
 Lo indicado en este caso será seguirle sigilosamente hasta su casa y averiguar dónde vive. Si la tiene secuestrada, saber dónde vive puede significar saber dónde está y salvarla. Si quieren detenerle o interrogarle, podría escapar y acabar matando a su prisionera para luego desaparecer.
 
+#### Profesor Eric Hodgins
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** XXX
+  * **Complicación:** XXX
+  * XXX
+  * XXX
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X)
+* **Proezas**
+  * **XXX:** XXX
+  * **XXX:** XXX
+  * **XXX:** XXX
+* **Capacidad de recuperación:** 3
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+
 ### Visita de cortesía
 
 Con un nombre y una dirección podrán averiguar las cosas normales del profesor Hodgins, profesor de universidad, logopeda, soltero y acomodado.
@@ -164,7 +183,7 @@ XXX
   * Olfato entrenado
   * Gustos caros
   * Dicción perfecta y bonita voz
-* **Estilos:** Cauto Bueno (+2), Furtivo (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
+* **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
