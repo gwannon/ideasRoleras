@@ -153,7 +153,7 @@ Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
-Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días que acaban abruptamente y solo pone una escueta nota de "La clienta ha renunciado y no ha vuelto".
+Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días que acaban abruptamente y solo pone una escueta nota de «La clienta ha renunciado y no ha vuelto».
 
 ### Misión de infiltración
 
@@ -193,7 +193,7 @@ XXX
 
 ## Lisa Doosmall
 
-XXX
+Ya hemos hablado mucho de Lisa Doosmall y su «alter ego» Elsa y su historia, pero no hemos hablado de la relación entre ellas.
 
 Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
