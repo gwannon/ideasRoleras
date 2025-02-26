@@ -146,12 +146,14 @@ Podrán escamotearse con excusa de ir al baño o similar y ganar unos minutos de
 
 En la casa con tan poco podrán hacer una de estas dos cosas o las dos si le consigue entretener
 
-* **Buscar señales de que Lisa ha estado allí:** XXX
-* **Revisar la casa para conocerla y poder planear una intrusión nocturna:** XXX
+* **Buscar señales de que Lisa ha estado allí:** No encontrarán nada de Lisa, pero si miran en sus archivos y pasan una tirada Buena (+2), encontrarán entre los archivos del profesor una archivo sobre Lisa.
+* **Revisar la casa para conocerla y poder planear una intrusión nocturna:** Puedes permitirles generar algún aspecto que les ayude en el futuro como «Conozco el lugar».
 
 Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
+
+Si han encontrado el fichero de Lisa, XXX
 
 ### Misión de infiltración
 
@@ -161,7 +163,7 @@ XXX
 
 ### Charla delante de un té
 
-Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales.  Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacía él. 
+Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacía él. Recuerda que para el profesor Hodgins Jekyll y Hyde no son la misma persona, principalmente porque hablan de forma distinta.
 
 \sp
 
