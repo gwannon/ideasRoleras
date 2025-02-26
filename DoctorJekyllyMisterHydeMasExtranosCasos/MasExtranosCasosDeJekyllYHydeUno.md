@@ -153,7 +153,7 @@ Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
-Si han encontrado el fichero de Lisa, XXX
+Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días que acaban abruptamente y solo pone una escueta nota de "La clienta ha renunciado y no ha vuelto".
 
 ### Misión de infiltración
 
@@ -161,11 +161,13 @@ Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea
 
 XXX
 
+\sp
+
 ### Charla delante de un té
 
-Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacía él. Recuerda que para el profesor Hodgins Jekyll y Hyde no son la misma persona, principalmente porque hablan de forma distinta.
+Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales.
 
-\sp
+Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacía él. Recuerda que para el profesor Hodgins Jekyll y Hyde no son la misma persona, principalmente porque hablan de forma distinta.
 
 Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa. Si le preguntan, Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
