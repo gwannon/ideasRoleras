@@ -20,11 +20,11 @@ Para Lisa, las semanas que pasa con Sir Hodgins son una tortura, pero no sabe pr
 
 Hodgins le hace ejercitar su pronunciación hasta quedarse afónica. Le enseña y le obliga a memorizar miles de datos totalmente descontextualizados y sin ninguna lógica. Le quita la comida, si no sigue las reglas de etiqueta en la mesa, que no para de repetirle día y noche a gritos.
 
-Una noche la psique de Lisa, rota ya por los abusos de su padre, no aguanta más maltratos del profesor Hodgins y crea una segunda personalidad, Elsa Crawford. Elsa no tiene recuerdos de antes, pero cree ella es un joven de la alta sociedad que ha sido secuestrada por un malvado caballero para obligarla a casarse con él y la misma noche que despierta escapa de la mansión del profesor. 
+Una noche la psique de Lisa, rota ya por los abusos de su padre, no aguanta más maltratos del profesor Hodgins y crea una segunda personalidad, Elsa Crawford. Elsa no tiene recuerdos de antes, pero cree que ella es un joven de la alta sociedad que ha sido secuestrada por un malvado caballero para obligarla a casarse con él y la misma noche que despierta escapa de la mansión del profesor. 
 
 El profesor piensa que Lisa ha huido a media noche porque no es capaz de aguantar el duro trabajo de cultivarse y se despreocupa. Ve que le falta algo de dinero y algunos ropajes caros que tenía en casa.
 
-Nacida como forma de procesar los abusos del profesor Hodgins, Elsa despliega todo lo que le ha metido a presión en la cabeza de Lisa. Es distinguida, habla de forma perfecta, tienes modales excelentes, una extensa cultura general y una agradable conversación. 
+Nacida como forma de procesar los abusos del profesor Hodgins, Elsa despliega todo lo que le ha metido a presión en la cabeza de Lisa. Es distinguida, habla de forma perfecta, tiene modales excelentes, una extensa cultura general y una agradable conversación. 
 
 Por su lado, Lisa se queda encerrada en el fondo de su propia mente. Está cansada de abusos y gritos y allí se siente segura, sobre todo con Elsa protegiéndola. Aun así, aparece en los sueños de Elsa, que cree que es una especie de pesadilla recurrente.
 
@@ -44,7 +44,7 @@ Quien le reciba puede ver qué huele a alcohol barato y Hyde incluso puedes reco
 
 Wilfred no puede pagar los honorarios que suelen cobrar, pero seguramente que si la rescatan podrá pagar sus servicios limpiando la oficina para ellos o realizando otros tipos de trabajos similares.
 
-Hace dos meses desapareció sin dejar rastro una noche después de vender violetas a la salida de los teatros. Desde entonces nadie sabe nada y nadie la visto. Wilfred lo ha denunciado a Scotland Yard, pero no parecen ni dedicarle mucho tiempo, ni ponerle mucho interés.
+Hace dos meses desapareció sin dejar rastro una noche después de vender violetas a la salida de los teatros. Desde entonces nadie sabe nada y nadie la ha visto. Wilfred lo ha denunciado en Scotland Yard, pero no parecen ni dedicarle mucho tiempo, ni ponerle mucho interés.
 
 ### Wilfred Doosmall
 
@@ -81,7 +81,7 @@ Pueden intentar un retrato robot, una nueva técnica que está empezando a usar 
 
 * Los clubs de caballeros podrían ser una buena opción para empezar. El problema es que no los frecuenta y no se estira mucho en estos ambientes. Si consiguen entrar en alguno de muy alto nivel, algún miembro puede reconocerle como el profesor que contrato para que ayudara a alguno de sus hijos con sus problemas de dicción.
 * En la universidad, si pasan por algún departamento de ciencias sociales y humanidades, hay posibilidades de que le reconozcan. Ninguno de sus colegas de profesión dirá nada bueno de él.
-* En Scotland Yard también sabrán de él. Ha estado haciendo trabajos para ellos. Tiene la teoría de que por la forma de hablar se puede saber quién es un criminal y quién no. Scotland Yard está buscando nuevas formas de resolver crímenes y esta les pareció interesante, así que suelen llamarle a ver qué les dice. Claramente, esto llegará a oídos del inspector Newcomen.
+* En Scotland Yard también sabrán de él. Ha estado haciendo trabajos para ellos. Tiene la teoría de que por la forma de hablar se puede saber quién es un criminal y quién no. Scotland Yard está buscando nuevas formas de resolver crímenes y este método les pareció interesante, así que suelen llamarle a ver qué les dice. Claramente, esto llegará a oídos del inspector Newcomen.
 
 En todos estos casos les podrán dar su dirección e incluso su tarjeta «Doctor Eric Hodgins, profesor de fonética y logopeda»
 
@@ -93,7 +93,7 @@ En cualquier otro ámbito será totalmente desconocido. Si les ves muy perdidos,
 
 Montar turnos de vigilancia puede funcionar, pero tendrán que ser pacientes. El profesor Hodgins solo va a estudiar a las vendedoras de flores 2 veces al mes. Así que como mínimo deberán estar unas diez noches de vigilancia.
 
-Sea como sea, Hodgins aparecerá por Covent Garden con su cuaderno donde anota las palabras que usan las violeteras y su pronunciación. Será fácilmente reconocibles, se ajusta a la descripción y va con el cuaderno de notas.
+Sea como sea, Hodgins aparecerá por Covent Garden con su cuaderno donde anota las palabras que usan las violeteras y su pronunciación. Será fácilmente reconocible, se ajusta a la descripción y va con el cuaderno de notas.
 
 Quizás traten de ver qué escribe, pero o le quitan el cuaderno o será imposible. Es de noche y el cuaderno es pequeño. Quizás puedan pagar a una de las chicas para que lo distraiga con sus encantos, pero desgraciadamente no funcionará.
 
@@ -115,18 +115,22 @@ Si bien es el mejor del mundo, tratar con él es imposible y puede sacar de quic
   * Único en su especie
 * **Estilos:** Cauto Grande (+3), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Grande (+3), Rápido Normal (+1), Vigoroso Mediocre (+0)
 * **Proezas**
-  * **Por su forma de hablar le conocerás:** Debido a sis estudio en fonética en miles de lenguas y acentos, obtiene +2 a Crear una ventaja en forma Cauta cuando puede estudiar su forma de hablar.
+  * **Por su forma de hablar le conocerás:** Debido a sus estudios en fonética en miles de lenguas y acentos, obtiene +2 a Crear una ventaja en forma Cauta cuando puede estudiar la forma de hablar de su interlocutor.
   * **Nota cuando mientes:** Con sus estudios sobre la voz y las mentiras, obtiene un +2 a Superar en modo Cauto cuando le mienten.
   * **Desquiciar:** Debido a su personalidad obsesiva y sin empatía, obtiene +2 a Atacar de modo Llamativo cuando discute o mantiene una conversación con otras personas.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
-### Visita de cortesía
+### Pesquisas previas
 
-Con un nombre y una dirección podrán averiguar las cosas normales del profesor Hodgins, profesor de universidad, logopeda, soltero y acomodado.
+Con un nombre y una dirección podrán averiguar a través de sus vecinos y compañeros de trabajo las cosas normales del profesor Hodgins, profesor de universidad, logopeda, sin antecedentes penales, soltero y acomodado.
 
 \sp
+
+Nadie recuerda que entrarán mujeres en su casa de forma reiterada en los últimos meses, de hecho se rumorea que no le gusta la compañía femenina. Sí se oyen muchas voces femeninas a cualquier hora del día y de la noche que podrían ser de sus grabaciones o de estudiantes.
+
+### Visita de cortesía
 
 La última persona que se conoce que estuvo con Lisa fue el profesor Hodgins y después no se sabe nada más de ella. Está claro que para saber qué paso con Lisa habría que colarse en su casa y buscar alguna pista de su paradero.
 
@@ -134,11 +138,20 @@ Tus jugadores pueden tratar primero de hacer una visita preliminar a su domicili
 
 Si llegaron a Hodgins por sus relaciones con Scotland Yard, podrían incluso presentarse como lo que son, investigadores privados que quieren aprender sus técnicas fonéticas. La verdad que este método iría directo contra una de las debilidades del profesor que es su ego.
 
-XXX
+La visita será normal, Hodgins se presentará rimbombantemente y enseñará su estudio con sus cachivaches de fonética, sus títulos y sus trabajos y menciones. Luego ofrecerá un té y se podrá a hablar sobre el tema de la cita.
+
+Podrán escamotearse con excusa de ir al baño o similar y ganar unos minutos de revisar la casa. Si quieren ganar tiempo, deberán apelar a su ego de investigador y preguntar cosas. Enseguida querrá hacer una demostración y se pondrá a armar sus cachivaches de fonética. Si se excusan en ese momento tendrán más tiempo para investigar su casa.
+
+\sp
+
+En la casa con tan poco podrán hacer una de estas dos cosas o las dos si le consigue entretener
+
+* **Buscar señales de que Lisa ha estado allí:** XXX
+* **Revisar la casa para conocerla y poder planear una intrusión nocturna:** XXX
+
+Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
-
-XXX
 
 ### Misión de infiltración
 
@@ -146,14 +159,13 @@ Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea
 
 XXX
 
-\sp
-
 ### Charla delante de un té
 
-Cuando los sorprenda dentro de su casa, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales. No sabrá qué hacen aquí, pero no cree que sean un peligro para él. Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa.
+Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales.  Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacía él. 
 
+\sp
 
-Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
+Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa. Si le preguntan, Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
 Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
 
@@ -222,7 +234,7 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Puede subsistir con muy poco
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
 * **Proezas**
-  * **Espíritu de feriante:** Ha aprendido todo una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
+  * **Espíritu de feriante:** Ha aprendido toda una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.
   * **Callejera:** Ha pasado toda su vida en las calles y se las conoce. Por eso obtiene un +2 a Superar en modo Furtivo cuando se mueve por las calles de Londres.
 * **Capacidad de recuperación:** 3
