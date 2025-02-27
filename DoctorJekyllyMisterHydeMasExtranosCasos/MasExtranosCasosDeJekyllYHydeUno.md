@@ -65,7 +65,7 @@ Pero saben que su padre era un borracho y un maltratador y en muchos de estos ca
 
 Una vez hechas las primeras pesquisas habría que hablar con sus compañeras de trabajo. Habrá que esperar a la noche para verlas recoger de la basura las flores desechadas de los mercados de flores o hablar con ellas a la hora de entrada y salida de los teatros de la zona de Covent Garden.
 
-Nadie querrá hablar del tema, pero si ofrecen una buena propina y un té caliente, Mary Peed, una buena amiga, les contará su historia de maltrato y abusos por parte de su padre y como la noche de su desaparición había un extraño y elegante caballero tomando notas por la zona.
+Nadie querrá hablar del tema, pero si ofrecen una buena propina y un té caliente, Mary Peed, una buena amiga, les contará su historia de maltrato y abusos por parte de su padre y como la noche de su desaparición había un extraño y elegante caballero tomando notas por la zona. Les puede contar más detalles como sus sueños de trabajar de dependienta en alguna floristería o perfumería.
 
 Su padre no denunció su desaparición hasta que se quedó sin dinero y dejaron de fiarle en sus bebedores habituales. Fue entonces cuando acudió a Scotland Yard.
  
@@ -153,17 +153,17 @@ Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
-Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días que acaban abruptamente y solo pone una escueta nota de «La clienta ha renunciado y no ha vuelto».
+Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas y con excelentes resultados y muy buen progreso, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días que acaban abruptamente y solo pone una escueta nota de «La clienta ha renunciado y no ha vuelto».
 
 ### Misión de infiltración
 
 Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea más provechoso.
 
-El apartamento de Hodgins ocupa toda la segunda y última planta de un edificio en Berkerley Square. El único acceso es por la escalera principal, pero se podría escapar la fachada llena de enredaderas y acceder por una ventana. 
-
 \sp
 
-La calle está bien iluminada y con tráfico, así que para intentar entrar deberían hacerlo bien entrada la noche.
+El apartamento de Hodgins ocupa toda la segunda y última planta de un edificio en Berkerley Square. El único acceso es por la escalera principal, pero se podría escapar la fachada llena de enredaderas y acceder por una ventana. 
+
+La calle está bien iluminada y con tráfico, así que para intentar entrar sin ser visto por los viandantes, deberían hacerlo bien entrada la noche. El problema es que los horarios del profesor son totalmente caóticos y entra y sale a cualquier hora. Pueden intentar entrar cuando no esté en casa o infiltrarse mientras duerme. 
 
 El apartamento es una gran estancia central que sirve de sala de estar, biblioteca, comedor y aula. Y a cada lado de esa gran estancia está la cocina, el despacho, el dormitorio y un trastero que preparo como dormitorio para Lisa y que todavía no ha desmontado.
 
@@ -175,7 +175,11 @@ Si no lo vieron durante la visita de cortesía, podrán encontrar el cuaderno de
 
 No encontrarán señales de sangre, ni sótanos truculentos, ni mazmorras sexuales, ni palas y sacos de cal viva. Hodgins es un tipo especial, pero no parece un psicópata.
 
-XXX
+Si entran cuando no esté en casa aparecerá de repente y les pillará en su casa, puede intentar esconderse en la casa, pero tendrán segundos entren el sonido de las llaves de la puerta y que encienda las luces eléctricas de la casa.
+
+Parecido si se cuelan mientras duermen, se levantará sin previo aviso a tomar algo o a ir al baño y en pocos segundos estará todo iluminado con las luces eléctricas.
+
+\sp
 
 ### Charla delante de un té
 
@@ -183,43 +187,60 @@ Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, 
 
 Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacia él. Recuerda que para el profesor Hodgins Jekyll y Hyde no son la misma persona, principalmente porque hablan de forma distinta.
 
-\sp
-
 Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa. Si le preguntan, Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
+
+Ten en cuenta que Hodgins no considera sus actos obsesivos como maltrato y su historía con Lisa no destilará este punto importante. Aunque un rato hablando con él, les dejara claro que es inaguantable y carece de empatía.
 
 Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, ni la desaparición, ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
 
 Les puedes dejar su cuaderno de notas sobre Lisa y les enseñará el trastero que usaba de habitación, incluso puede ponerles algunas grabaciones con sus progresos fonéticos, pero necesitarían a su padre o a la señorita Peed para reconocer la voz.
 
-Una pista que puede parecer que no, pero que es importantísima, es que el profesor descubrió que Lisa tenía un portentoso olfato, lo que la permitía escoger de entre los restos del mercado de flores las mejores de todas. Lisa vendía más flores que sus compañeras porque eran mejores y sacaba más dinero, el problema era que su padre le quitaba todo el dinero y se lo bebía.
+\sp
+
+Una pista que puede parecer que no, pero que es importantísima, es que el profesor descubrió que Lisa tenía un portentoso olfato, lo que la permitía escoger de entre los restos del mercado de flores las mejores de todas.
+
+Si preguntan a sus compañeras, Lisa vendía más flores que sus compañeras porque sus flores eran mejores y eso lo detectaba con su buen olfato. Así sacaba más dinero, el problema era que su padre le quitaba todo el dinero y se lo bebía.
 
 Otra cosa que podrá contarles es que es tremendamente alérgica a las plumas de pavo real. Se puso toda roja e hinchada el día que le regaló un sombrero con largas plumas de esta ave.
 
 Tras una agradable, les dará su tarjeta y les dirá que está a su completa disposición para lo que necesiten.
 
-\sp
-
 ## ¿Dónde está Lisa?
 
-XXX
+Lisa, en realidad Elsa, tras escapar de casa del profesor Hodgins se ha establecido y ha encontrado trabajo como aprendiz de dependienta en una perfumería. Sus modales y su cultura general, pero sobre todo, su buen olfato, le consiguieron el trabajo y su agudo olfato le ha hecho subir muchos puestos en pocas semanas. Su coquetería y su belleza, le han conseguido el amor del hijo de la propietaria de la perfumería.
 
-Un problema que tienen es que no conocen de cara a Lisa, pueden tirar horas visitando perfumerías que no la reconocerían y mucho menos como Elsa. 
+### Buscando a Lisa
 
-Pueden intentar hacer otro retrato robot que les ayude y que puedan enseñar. Pero no será el elemento que les ayudará en su búsqueda, solo una ayuda.
+Tus jugadores ahora deben juntar las pistas que han conseguido y usarlas para encontrar a Lisa/Elsa:
+
+* Saben que, aunque estuvo poco tiempo, aprendió muchas cosas del profesor Hodgins. Ya no es una paleta inculta, sino una educada joven que pudiera venir de una familia de clase alta.
+
+\sp
+
+* Tiene un olfato soberbio y saben por Mary Peed que quería trabajar en una perfumería. Con sus modales y su olfato seguramente ha encontrado trabajo. Sin trabajo, el dinero se le acabaría en pocos días y habría vuelto a casa de su padre.
+* No debería estar muerta o secuestrada, se fue de casa de Hodgins por su cuenta y nada indica que se mezclara con mala gente.
+
+Con toda esas pistas pueden deducir un perfil que buscar, una aprendiza nueva en perfumerías y floristerías, muy elegante y educada, del que no se sabe mucho de su vida.
+
+Un problema bastante grande que tienen es que no conocen de cara a Lisa, pueden tirar horas visitando perfumerías que no la reconocerían y mucho menos como Elsa. Pueden intentar hacer otro retrato robot que les ayude y que puedan enseñar. Pero no será el elemento que les ayudará en su búsqueda, solo una ayuda.
 
 Otra opción es llevar con ellos durante sus pesquisas a Mary Peed o a Wilfred Doosmall, para ver si la reconocen. Peed tiene que trabajar, así que solo podrá estar pequeños ratos para verificar si la persona que crean que es Lisa lo es o no. Su padre es un borracho maltratador del que seguramente huya nada más verle.
 
-XXX
+Con todo esto pueden empezar a hacer sus pesquisas por la ciudad y patearse sus calles.
 
 ### Aparece Newcomen
 
 El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso. No porque sea importante, chicas como Lisa desaparecen todos los días, sino porque los medios suelen hacer eco de sus casos y los usan como forma de meterse con el trabajo policial de Scotland Yard.
 
-En cualquier momento puedes sacar al inspector Newcomen, tratando de robarles el mérito de su investigación y de paso evitar que Scotland Yard no quede mal.
-
 \sp
 
+En cualquier momento puedes sacar al inspector Newcomen, tratando de robarles el mérito de su investigación y de paso evitar que Scotland Yard no quede mal.
+
 De normal les tiene un poco vigilados y si han acudido a la policía para saber algo más del caso, los tendrá bajo el radar por si descubrieran algo importante.
+
+### Delante de la puerta de la tienda
+
+XXX
 
 ## ¿Sacando a Lisa a la luz?
 
@@ -231,11 +252,11 @@ Realmente, tus jugadores, una vez sepan la verdad, deberían ver qué Elsa tiene
 
 Tus jugadores deberían pensar que está mejor como Elsa que como Lisa y no descubrir quién es. Lo cual será un duro golpe para su ego que tendrá que aguantar a Newcomen recordándoles siempre este caso como un caso no resultó.
 
+\sp
+
 Si ha aparecido Newcomen, este se decantará por resolver el caso, apuntándose un tanto ante un posible ascenso. El problema es que esto supondrá que Elsa sea internada en un psiquiátrico para curarla de su locura y seguramente acabe otra vez en el arroyo y con su padre abusando de ello. 
 
 Todo eso no es algo que le importe a Newcomen al que igual tendrán que sobornar o amenazar para que se calle.
-
-\sp
 
 ## Lisa Doosmall
 
@@ -251,6 +272,8 @@ Elsa es en lo que debería haberse convertido Lisa con las enseñanzas del profe
 
 Como «alter ego», Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
 
+\sp
+
 Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un restaurante, Elsa crece y Lisa desaparece.
 
 * **Aspectos**
@@ -259,9 +282,6 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
   * Olfato entrenado
   * Gustos caros
   * Dicción perfecta y bonita voz
-
-\sp
-
 * **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
@@ -275,6 +295,8 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
 
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Barriobajera vendedora de flores
   * **Complicación:** Maltratada
@@ -282,9 +304,6 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Mucha calle
   * Puede subsistir con muy poco
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
-
-\sp
-
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido toda una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.
