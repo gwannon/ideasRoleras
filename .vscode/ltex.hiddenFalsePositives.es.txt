@@ -35,3 +35,4 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QSu fanatismo por Hitler y su causa es de sobras conocida.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QQuizás puedan encontrar una tumba de algún general romano o de un caudillo britano, a quizás Alexia sea descendiente de druidas y les ayude a encontrar algún objeto «mágico» de tiempos artúricos oculto en alguna ciudad cercana a Londres como Bath u Oxford.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy Jekyll y Hyde nunca se niegan a intentar resolverlos.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QMaltratada\nOlfato entrenado\nMucha calle\nPuede subsistir con muy poco\nEstilos:\\E$"}

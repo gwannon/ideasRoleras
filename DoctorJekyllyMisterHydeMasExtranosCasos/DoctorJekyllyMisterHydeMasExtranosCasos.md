@@ -46,7 +46,7 @@ Con sus dotes de falsificador puede hacer cualquier tipo de documento y tenderle
 
 ## Más PJ investigando
 
-El caso de la violetera puede tener otra continuación muy interesante. Que una segunda pareja de jugadores lleven a Lisa y Elsa siguiendo las mismas reglas que Jekyll y Hyde. Estaríamos ahora ante un director de juego que dirige a 4 jugadores, pero solo 2 al mismo tiempo. 
+El caso de la violetera, Lisa terminará desapareciendo y solo quedará Elsa, pero puede tener otra continuación muy interesante. Que una segunda pareja de jugadores lleven a Lisa y Elsa siguiendo las mismas reglas que Jekyll y Hyde. Estaríamos ahora ante un director de juego que dirige a 4 jugadores, pero solo 2 al mismo tiempo. 
 
 Lo divertido es que la relación entre Lisa y Elsa es muy diferente a la de Jekyll y Hyde en algunas cosas, pero también comparten otros elementos. Las combinaciones a la hora de investigar nuevos casos pueden ser muy divertidas y desafiantes. Desde Elsa y Jekyll colándose en una fiesta de la alta sociedad o Lisa y Hyde participando en un concurso de beber, hasta Jekyll tratando de educar a Lisa o Elsa tratando de deshacerse de Hyde.
  
@@ -81,8 +81,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 * Hojas interiores por [aopsan](https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm)
 * Textura de portada y contraportada de [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up)
 * Frascos de portada por [macrovector](https://www.freepik.com/free-vector/chemistry-tools-hand-drawn-set_3886828.htm)
-* Registro de préstamos de libro por [archive.org](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up)
-* Sello de la biblioteca por [archive.org](https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up)
+* Registro de préstamos de libro por [archive.org](https://archive.org/details/worksofjulesvern00vernuoft/page/n13/mode/2up)
+* Sello de la biblioteca por [archive.org](https://archive.org/details/worksofjulesvern00vernuoft/page/n13/mode/2up)
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * Winter’s Night by [William Hole](https://www.oldbookillustrations.com/illustrations/winters-night/)
 * Bridge at Midnight by [Myles Birket Foster](https://www.oldbookillustrations.com/illustrations/bridge-midnight/)
@@ -112,7 +112,7 @@ Aventuras de horror cósmico en los cuentos de las Mil y Una Noches
 
 ***
 
-![Sello de la biblioteca](./assests/images/lostworldbeingac00doylrich_0004.png)
+![Sello de la biblioteca](./assests/images/worksofjulesvern00vernuoft_0014.png)
 
 ***
 

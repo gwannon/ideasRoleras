@@ -341,7 +341,7 @@ section:nth-of-type(2) img:first-of-type {
   position: absolute;
   bottom: var(--padding);
   left: var(--padding);
-  width: 400px;
+  width: 186px;
   padding: 0;
   margin: 0;
 }
@@ -357,9 +357,9 @@ section:nth-of-type(2) img:nth-of-type(2) {
 
 section:nth-of-type(8) img:first-of-type {
   position: absolute;
-  top: 25px;
-  right: var(--padding);
-  width: 500px;
+  top: 250px;
+  right: calc(50% - 125px);
+  width: 250px;
   padding: 0;
   margin: 0;
 }

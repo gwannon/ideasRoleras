@@ -128,7 +128,7 @@ Con un nombre y una dirección podrán averiguar a través de sus vecinos y comp
 
 \sp
 
-Nadie recuerda que entrarán mujeres en su casa de forma reiterada en los últimos meses, de hecho se rumorea que no le gusta la compañía femenina. Sí se oyen muchas voces femeninas a cualquier hora del día y de la noche que podrían ser de sus grabaciones o de estudiantes.
+Nadie recuerda que entrarán mujeres en su casa de forma reiterada en los últimos meses, de hecho se rumorea que no le gusta la compañía femenina. Aun así, se oyen muchas voces femeninas a cualquier hora del día y de la noche que podrían ser de sus grabaciones o de estudiantes.
 
 ### Visita de cortesía
 
@@ -140,14 +140,14 @@ Si llegaron a Hodgins por sus relaciones con Scotland Yard, podrían incluso pre
 
 La visita será normal, Hodgins se presentará rimbombantemente y enseñará su estudio con sus cachivaches de fonética, sus títulos y sus trabajos y menciones. Luego ofrecerá un té y se podrá a hablar sobre el tema de la cita.
 
-Podrán escamotearse con excusa de ir al baño o similar y ganar unos minutos de revisar la casa. Si quieren ganar tiempo, deberán apelar a su ego de investigador y preguntar cosas. Enseguida querrá hacer una demostración y se pondrá a armar sus cachivaches de fonética. Si se excusan en ese momento tendrán más tiempo para investigar su casa.
+Podrán escamotearse con excusa de ir al baño o similar y ganar unos minutos de revisar la casa. Si quieren ganar tiempo, deberán apelar a su ego de investigador y preguntar cosas. Enseguida querrá hacer una demostración y se pondrá a armar sus cachivaches de fonética. Si se excusan en ese momento, tendrán más tiempo para investigar su casa.
 
 \sp
 
 En la casa con tan poco podrán hacer una de estas dos cosas o las dos si le consigue entretener
 
 * **Buscar señales de que Lisa ha estado allí:** No encontrarán nada de Lisa, pero si miran en sus archivos y pasan una tirada Buena (+2), encontrarán entre los archivos del profesor una archivo sobre Lisa.
-* **Revisar la casa para conocerla y poder planear una intrusión nocturna:** Puedes permitirles generar algún aspecto que les ayude en el futuro como «Conozco el lugar».
+* **Revisar la casa para conocerla y poder planear una intrusión nocturna:** Puedes permitirles generar algún aspecto que les ayude en el futuro, como «Conozco el lugar».
 
 Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
@@ -171,25 +171,43 @@ Si registran el trastero encontrarán señales de que una mujer estuvo allí com
 
 La casa cuenta con corriente y luz eléctrica, un lujo que el profesor se ha dado para poder usar diversos aparatos eléctricos en sus experimentos.
 
+Si no lo vieron durante la visita de cortesía, podrán encontrar el cuaderno de notas sobre Lisa.
+
+No encontrarán señales de sangre, ni sótanos truculentos, ni mazmorras sexuales, ni palas y sacos de cal viva. Hodgins es un tipo especial, pero no parece un psicópata.
+
 XXX
 
 ### Charla delante de un té
 
 Cuando los sorprenda dentro de su casa, si no les conoce de la visita anterior, les hará hablar con preguntas rápidas como quiénes son o qué quieren y si le contestan, ni se preocupará del intruso. Está tan convencido de sus conocimientos de la lengua inglesa, de la fonética y de la antropología que sabe que no son criminales.
 
-Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacía él. Recuerda que para el profesor Hodgins Jekyll y Hyde no son la misma persona, principalmente porque hablan de forma distinta.
-
-Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa. Si le preguntan, Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
+Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenciones criminales hacia él. Recuerda que para el profesor Hodgins Jekyll y Hyde no son la misma persona, principalmente porque hablan de forma distinta.
 
 \sp
 
-Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, ni la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
+Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa. Si le preguntan, Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
+
+Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, ni la desaparición, ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
+
+Les puedes dejar su cuaderno de notas sobre Lisa y les enseñará el trastero que usaba de habitación, incluso puede ponerles algunas grabaciones con sus progresos fonéticos, pero necesitarían a su padre o a la señorita Peed para reconocer la voz.
+
+Una pista que puede parecer que no, pero que es importantísima, es que el profesor descubrió que Lisa tenía un portentoso olfato, lo que la permitía escoger de entre los restos del mercado de flores las mejores de todas. Lisa vendía más flores que sus compañeras porque eran mejores y sacaba más dinero, el problema era que su padre le quitaba todo el dinero y se lo bebía.
+
+Otra cosa que podrá contarles es que es tremendamente alérgica a las plumas de pavo real. Se puso toda roja e hinchada el día que le regaló un sombrero con largas plumas de esta ave.
+
+Tras una agradable, les dará su tarjeta y les dirá que está a su completa disposición para lo que necesiten.
+
+\sp
+
+## ¿Dónde está Lisa?
 
 XXX
 
-Una pista que puede parecer que no, pero que es importantísima, es que el profesor descubrió que Lisa tenía un portentoso olfato lo que la permitía escoger de entre los restos del mercado de flores las mejores de todas. Lisa vendía más flores que sus compañeras porque eran mejores y sacaba más dinero, el problema era que su padre le quitaba todo el dinero y se lo bebía.
+Un problema que tienen es que no conocen de cara a Lisa, pueden tirar horas visitando perfumerías que no la reconocerían y mucho menos como Elsa. 
 
-## ¿Dónde está Lisa?
+Pueden intentar hacer otro retrato robot que les ayude y que puedan enseñar. Pero no será el elemento que les ayudará en su búsqueda, solo una ayuda.
+
+Otra opción es llevar con ellos durante sus pesquisas a Mary Peed o a Wilfred Doosmall, para ver si la reconocen. Peed tiene que trabajar, así que solo podrá estar pequeños ratos para verificar si la persona que crean que es Lisa lo es o no. Su padre es un borracho maltratador del que seguramente huya nada más verle.
 
 XXX
 
@@ -199,17 +217,17 @@ El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la s
 
 En cualquier momento puedes sacar al inspector Newcomen, tratando de robarles el mérito de su investigación y de paso evitar que Scotland Yard no quede mal.
 
-De normal les tiene un poco vigilados y si han acudido a la policía para saber algo más del caso, los tendrá bajo el radar por si descubrieran algo importante.
-
 \sp
+
+De normal les tiene un poco vigilados y si han acudido a la policía para saber algo más del caso, los tendrá bajo el radar por si descubrieran algo importante.
 
 ## ¿Sacando a Lisa a la luz?
 
-Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero desde luego la verán radiante y feliz, cosa que están seguros qué no pasaba antes. 
+Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero desde luego la verán radiante y feliz, cosa que están seguros de qué no pasaba antes. 
 
 En este momento deberán decidir si dejan a Elsa tranquila en su nueva vida o resuelven este extraño caso que puede darles bastantes líneas en los tabloides londinenses y, por consiguiente, nuevos clientes con nuevos e interesantes casos.
 
-Realmente, tus jugadores una vez sepan la verdad, deberían ver qué Elsa tiene una vida mucho mejor que Lisa. Vive feliz, tiene gente que la quiere y la protege y tiene una larga y plena vida por delante. Lisa cada día se hunde más hasta que terminará desapareciendo incluso de sus sueños.
+Realmente, tus jugadores, una vez sepan la verdad, deberían ver qué Elsa tiene una vida mucho mejor que Lisa. Vive feliz, tiene gente que la quiere y la protege y tiene una larga y plena vida por delante. Lisa cada día se hunde más hasta que terminará desapareciendo incluso de sus sueños.
 
 Tus jugadores deberían pensar que está mejor como Elsa que como Lisa y no descubrir quién es. Lo cual será un duro golpe para su ego que tendrá que aguantar a Newcomen recordándoles siempre este caso como un caso no resultó.
 
@@ -217,11 +235,11 @@ Si ha aparecido Newcomen, este se decantará por resolver el caso, apuntándose 
 
 Todo eso no es algo que le importe a Newcomen al que igual tendrán que sobornar o amenazar para que se calle.
 
+\sp
+
 ## Lisa Doosmall
 
 Ya hemos hablado mucho de Lisa Doosmall y su «alter ego» Elsa y su historia, pero no hemos hablado de la relación entre ellas.
-
-\sp
 
 Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
@@ -231,7 +249,7 @@ Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. P
 
 Elsa es en lo que debería haberse convertido Lisa con las enseñanzas del profesor Hodgins, pero al romperse la psique de Lisa, afloró esta segunda personalidad que abandonó todo recuerdo de Lisa y su dura vida.
 
-Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
+Como «alter ego», Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
 
 Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un restaurante, Elsa crece y Lisa desaparece.
 
@@ -241,10 +259,10 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
   * Olfato entrenado
   * Gustos caros
   * Dicción perfecta y bonita voz
-* **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 
 \sp
 
+* **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
