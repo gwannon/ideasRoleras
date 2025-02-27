@@ -159,9 +159,19 @@ Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece
 
 Si la visita de cortesía no da sus frutos, quizás un allanamiento nocturno sea más provechoso.
 
-XXX
+El apartamento de Hodgins ocupa toda la segunda y última planta de un edificio en Berkerley Square. El único acceso es por la escalera principal, pero se podría escapar la fachada llena de enredaderas y acceder por una ventana. 
 
 \sp
+
+La calle está bien iluminada y con tráfico, así que para intentar entrar deberían hacerlo bien entrada la noche.
+
+El apartamento es una gran estancia central que sirve de sala de estar, biblioteca, comedor y aula. Y a cada lado de esa gran estancia está la cocina, el despacho, el dormitorio y un trastero que preparo como dormitorio para Lisa y que todavía no ha desmontado.
+
+Si registran el trastero encontrarán señales de que una mujer estuvo allí como algún vestido viejo o un botecito de perfume gastado.
+
+La casa cuenta con corriente y luz eléctrica, un lujo que el profesor se ha dado para poder usar diversos aparatos eléctricos en sus experimentos.
+
+XXX
 
 ### Charla delante de un té
 
@@ -171,25 +181,33 @@ Si le han visitado antes, no hará las preguntas, ya sabrá que no tienen intenc
 
 Rápidamente, les invitará a tomar un té mientras charlan sobre por qué están en su casa. Si le preguntan, Hodgins explicará, sin problema, toda su historia con Lisa y como se fue una noche con algo de dinero y unos trajes y aunque desconoce que exista Elsa, si les dejará ver qué no era muy psicológicamente estable, cosas que en cierta parte es culpa suya.
 
-Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, no la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
-
-XXX
-
-## Aparece Newcomen
-
-El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
-
-XXX
-
 \sp
 
+Colaborará sin problemas con tus jugadores, dejándoles registrar su casa y respondiendo a todas sus preguntas. Si le preguntan que porque no denunció nada, ni la desaparición ni el robo, les dirá que el hurto no le importaba y estaba convencido de que no volvería a su casa. Seguramente huiría a otra ciudad y buscaría rehacer su vida allí lejos de su padre.
+
+XXX
+
+Una pista que puede parecer que no, pero que es importantísima, es que el profesor descubrió que Lisa tenía un portentoso olfato lo que la permitía escoger de entre los restos del mercado de flores las mejores de todas. Lisa vendía más flores que sus compañeras porque eran mejores y sacaba más dinero, el problema era que su padre le quitaba todo el dinero y se lo bebía.
+
 ## ¿Dónde está Lisa?
+
+XXX
+
+### Aparece Newcomen
+
+El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
 
 XXX
 
 ## ¿Sacando a Lisa a la luz?
 
 XXX
+
+\sp
+
+Realmente, tus jugadores una vez sepan la verdad, deberían ver qué Elsa tiene una vida mucho mejor que Lisa. Vive feliz, tiene gente que la quiere y la protege y tiene una larga y plena vida por delante. Lisa cada día se hunde más hasta que terminará desapareciendo incluso de sus sueños.
+
+Tus jugadores deberían pensar que está mejor como Elsa que como Lisa y no descubrir quién es. Lo cual será un duro golpe para su ego que tendrá que aguantar a Newcomen recordándoles siempre este caso como un caso no resultó.
 
 ## Lisa Doosmall
 
@@ -203,9 +221,9 @@ Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. P
 
 Elsa es en lo que debería haberse convertido Lisa con las enseñanzas del profesor Hodgins, pero al romperse la psique de Lisa, afloró esta segunda personalidad que abandonó todo recuerdo de Lisa y su dura vida.
 
-Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
-
 \sp
+
+Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
 
 Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un restaurante, Elsa crece y Lisa desaparece.
 
@@ -224,11 +242,11 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
+\sp
+
 ### Lisa, la barriobajera vendedora de flores
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
-
-\sp
 
 * **Aspectos**
   * **Concepto principal:** Barriobajera vendedora de flores
