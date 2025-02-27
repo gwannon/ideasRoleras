@@ -195,23 +195,33 @@ XXX
 
 ### Aparece Newcomen
 
-El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
+El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso. No porque sea importante, chicas como Lisa desaparecen todos los días, sino porque los medios suelen hacer eco de sus casos y los usan como forma de meterse con el trabajo policial de Scotland Yard.
 
-XXX
+En cualquier momento puedes sacar al inspector Newcomen, tratando de robarles el mérito de su investigación y de paso evitar que Scotland Yard no quede mal.
+
+De normal les tiene un poco vigilados y si han acudido a la policía para saber algo más del caso, los tendrá bajo el radar por si descubrieran algo importante.
+
+\sp
 
 ## ¿Sacando a Lisa a la luz?
 
-XXX
+Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero desde luego la verán radiante y feliz, cosa que están seguros qué no pasaba antes. 
 
-\sp
+En este momento deberán decidir si dejan a Elsa tranquila en su nueva vida o resuelven este extraño caso que puede darles bastantes líneas en los tabloides londinenses y, por consiguiente, nuevos clientes con nuevos e interesantes casos.
 
 Realmente, tus jugadores una vez sepan la verdad, deberían ver qué Elsa tiene una vida mucho mejor que Lisa. Vive feliz, tiene gente que la quiere y la protege y tiene una larga y plena vida por delante. Lisa cada día se hunde más hasta que terminará desapareciendo incluso de sus sueños.
 
 Tus jugadores deberían pensar que está mejor como Elsa que como Lisa y no descubrir quién es. Lo cual será un duro golpe para su ego que tendrá que aguantar a Newcomen recordándoles siempre este caso como un caso no resultó.
 
+Si ha aparecido Newcomen, este se decantará por resolver el caso, apuntándose un tanto ante un posible ascenso. El problema es que esto supondrá que Elsa sea internada en un psiquiátrico para curarla de su locura y seguramente acabe otra vez en el arroyo y con su padre abusando de ello. 
+
+Todo eso no es algo que le importe a Newcomen al que igual tendrán que sobornar o amenazar para que se calle.
+
 ## Lisa Doosmall
 
 Ya hemos hablado mucho de Lisa Doosmall y su «alter ego» Elsa y su historia, pero no hemos hablado de la relación entre ellas.
+
+\sp
 
 Al aparecer Elsa, el cuerpo de Lisa no sufre ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
@@ -220,8 +230,6 @@ Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. P
 ### Elsa, la estirada dama de alta sociedad
 
 Elsa es en lo que debería haberse convertido Lisa con las enseñanzas del profesor Hodgins, pero al romperse la psique de Lisa, afloró esta segunda personalidad que abandonó todo recuerdo de Lisa y su dura vida.
-
-\sp
 
 Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
 
@@ -234,6 +242,9 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
   * Gustos caros
   * Dicción perfecta y bonita voz
 * **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
+
+\sp
+
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
@@ -241,8 +252,6 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
-
-\sp
 
 ### Lisa, la barriobajera vendedora de flores
 
@@ -255,6 +264,9 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Mucha calle
   * Puede subsistir con muy poco
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
+
+\sp
+
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido toda una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.
