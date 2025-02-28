@@ -153,7 +153,7 @@ Tras esto, dará por terminada la cita y acompañará a la puerta a su invitado.
 
 Si en algún momento, Hodgins habla con Hyde, no será capaz de identificar su acento. Tiene la dicción perfecta de Jekyll, pero con las expresiones barriobajeras que ha aprendido durante sus juergas. Lo que no comprende Hodgins es que el tono y la cadencia de la pronunciación de Hyde vienen de su mente primitiva y animal. Hyde habla como hablaría una mezcla mutante de cavernícola y un tigre.
 
-Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas y con excelentes resultados y muy buen progreso, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días que acaban abruptamente y solo pone una escueta nota de «La clienta ha renunciado y no ha vuelto».
+Si han encontrado el fichero de Lisa, un vistazo rápido les dirá que no parece nada más que otra clienta, una con la que trabajo muchísimas horas y con excelentes resultados y muy buen progreso, pero no hay nada raro. Lo importante serán las fechas de sus anotaciones, que fueron después de desaparecer hasta hace unos días, que acaban abruptamente y solo pone una escueta nota de «La clienta ha renunciado y no ha vuelto».
 
 ### Misión de infiltración
 
@@ -252,7 +252,7 @@ Tendrán que buscarse la vida para que sus testigos estén cerca de ella, sin qu
 
 Ninguna persona podrá certificarlos 100% que es Lisa y si tratan de sonsacarle algo hablando con ella, no conseguirán nada, ella es Elsa y no sabe quién es Lisa.
 
-Realmente la prueba irrefutable de que Elsa la dependienta es Lisa sería comprobar su alergia a las plumas de pavo real. Así que tendrán que buscarse una excusa para probarlo.
+Realmente la prueba irrefutable de que Elsa la dependienta es Lisa, sería comprobar su alergia a las plumas de pavo real. Así que tendrán que buscarse una excusa para probarlo.
 
 Con todo esto podrían decir que han encontrado a la desaparecida Lisa Doosmall, otra cosa es que quieran o no resolver el caso.
 
@@ -262,7 +262,7 @@ Lo único que habrán descubierto es lo de la doble personalidad de Lisa/Elsa. S
 
 ## ¿Sacando a Lisa a la luz?
 
-Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero, desde luego, durante sus investigaciones la verán radiante y feliz, cosa que están seguros de qué no pasaba antes. 
+Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero, desde luego, durante sus investigaciones, la verán radiante y feliz, cosa que están seguros de qué no pasaba antes. 
 
 En este momento deberán decidir si dejan a Elsa tranquila en su nueva vida o resuelven este extraño caso que puede darles bastantes líneas en los tabloides londinenses y, por consiguiente, nuevos clientes con nuevos e interesantes casos.
 

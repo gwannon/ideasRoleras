@@ -185,7 +185,7 @@ La pandilla de «Tinta China» es una mezcla de matones y trabajadores de impren
 
 Si consiguen resolverlo, Tiberius Fox estará tremendamente agradecido y propondrá a los investigadores un trato muy interesante, publicarles en formato folletín sus extraños casos y llevarse una parte de los beneficios.
 
-Si no les ve muy convencidos, les hablará de la inmortalidad de estar en negro sobre blanco, de la fama y si todo va bien de pingües beneficios.
+Si no les ve muy convencidos, les hablará de la inmortalidad, de estar en negro sobre blanco, de la fama y si todo va bien de pingües beneficios.
 
 Utterson revisará el contrato, si no se fían, pero les dirá que va a ser divertido cuando se tengan que presentar los dos a firmar juntos.
 

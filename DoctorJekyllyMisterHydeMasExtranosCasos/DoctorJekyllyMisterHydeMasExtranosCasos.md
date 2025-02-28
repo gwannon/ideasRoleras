@@ -2,7 +2,7 @@
 
 > Los extraños casos de los que hablan prensa amarilla de Londres han convertido a Jekyll y Hyde en la sensación de la temporada y todos los días aparece gente por su oficina buscando su ayuda para resolver algún asesinato, encontrar un objeto familiar robado o perdido, hallar a una persona desaparecida, … y Jekyll y Hyde nunca se niegan a intentar resolverlos.
 
-Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos. En sus aventuras se moverán desde las altas instancias sociales teniendo que asistir a fastuosos bailes de sociedad a visitar los antros más peligrosos de Londres de donde tendrán que escapar como puedan.
+Jekyll y Hyde siguen investigando casos aún más extraños y tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos. En sus aventuras se moverán desde las altas instancias sociales, teniendo que asistir a fastuosos bailes de sociedad a visitar los antros más peligrosos de Londres de donde tendrán que escapar como puedan.
 
 No hay un orden concreto para jugar estos 3 nuevos casos. Puedes jugarlos en el orden que prefieras, pero quizás debieras primero jugar las aventuras del libro básico para que tus personajes puedan enfrentarse a los nuevos retos que suponen todos estos nuevos misterios.
 
@@ -34,7 +34,7 @@ En estas tres aventuras lo que puede servirte de semilla de aventuras son sus PN
 
 Las posibilidades románticas que tiene el personaje con personalidad desdoblada del caso de la violetera pueden ser muy interesantes. Si quieres explorar esta posibilidad, deberás adaptar las preferencias sexo-afectivas y el género de Lisa Doosmall a tu mesa. Recuerda que ya hablamos de que habíamos sido muy clásicos en la orientación sexual de Jekyll y Hyde, pero que podía ser muy interesante un «gender flip» a la hora de jugar.
 
-Otra forma de continuar el caso de la violetera es que el novio y futuro marido de Elsa/Lisa quiera que Jekyll y Hyde investiguen el pasado de su futura mujer que ya le ha confesado que sufre amnesia. Quieres saber de donde viene y porque perdió la memoria. En realidad, tus jugadores ya lo saben, pero si son buena gente tendrán que montar un caso falso con pruebas y documentos falsos para no mantener la mentira de Elsa.
+Otra forma de continuar el caso de la violetera es que el novio y futuro marido de Elsa/Lisa quiera que Jekyll y Hyde investiguen el pasado de su futura mujer, que ya le ha confesado que sufre amnesia. Quieres saber de donde viene y porque perdió la memoria. En realidad, tus jugadores ya lo saben, pero si son buena gente tendrán que montar un caso falso con pruebas y documentos falsos para no mantener la mentira de Elsa.
 
 \sp
 
@@ -116,7 +116,7 @@ Aventuras de piratas en el Caribe de los Mitos de Cthulhu.
 
 **[Mil y Un Ghūles](https://1001ghules.gwannon.com/pdf/)**
 
-Aventuras de horror cósmico en los cuentos de las Mil y Una Noches
+Aventuras de horror cósmico en los cuentos de las Mil y Una Noches.
 
 ***
 
