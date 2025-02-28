@@ -30,23 +30,31 @@ En el suplemento básico todos los casos tenían un apartado de unas «semanas m
 
 En estas tres aventuras lo que puede servirte de semilla de aventuras son sus PNJ. Estos permitirán un amplio abanico de posibilidades, desde ser un interés romántico hasta buscar vengarse de los personajes. 
 
-Las posibilidades románticas que tiene otro personaje con personalidad desdoblada pueden ser muy interesantes. Si quieres explorar esta posibilidad, deberás adaptar las preferencias sexo-afectivas y el género de Lisa Doosmall a tu mesa. Recuerda que ya hablamos de que habíamos sido muy clásicos en la orientación sexual de Jekyll y Hyde, pero que podía ser muy interesante un «gender flip» a la hora de jugar,
+**El extraño caso de la violetera secuestrada**
+
+Las posibilidades románticas que tiene el personaje con personalidad desdoblada del caso de la violetera pueden ser muy interesantes. Si quieres explorar esta posibilidad, deberás adaptar las preferencias sexo-afectivas y el género de Lisa Doosmall a tu mesa. Recuerda que ya hablamos de que habíamos sido muy clásicos en la orientación sexual de Jekyll y Hyde, pero que podía ser muy interesante un «gender flip» a la hora de jugar.
+
+Otra forma de continuar el caso de la violetera es que el novio y futuro marido de Elsa/Lisa quiera que Jekyll y Hyde investiguen el pasado de su futura mujer que ya le ha confesado que sufre amnesia. Quieres saber de donde viene y porque perdió la memoria. En realidad, tus jugadores ya lo saben, pero si son buena gente tendrán que montar un caso falso con pruebas y documentos falsos para no mantener la mentira de Elsa.
+
+\sp
+
+**El extraño caso del afluente del Támesis desaparecido**
 
 Alexia, la bruja del Tyburn, es una fuente de misterios perdidos en el tiempo. Puede contar historias de tiempos antiguos que se han trasmitido por tradición oral en su familia durante siglos y embarcar a tu mesa en aventuras en busca de tesoros perdidos.
 
 Quizás puedan encontrar una tumba de algún general romano o de un caudillo britano, a quizás Alexia sea descendiente de druidas y les ayude a encontrar algún objeto «mágico» de tiempos artúricos oculto en alguna ciudad cercana a Londres como Bath u Oxford.
 
-\sp
+**El extraño caso del robo de la fuente tipográfica**
 
 Walt «Tinta China» Sherwood es un personaje bastante rencoroso y muy hábil esquivando a la justicia. Así que, si al final del caso de la tipografía robado consigue escapar de la policía, pasará un tiempo en Francia lamiéndose las heridas y seguramente pensando como devolvérsela a Hyde y Jekyll. Si es apresado, no estará mucho tiempo en la cárcel y cuando salga lo hará más enfadado de lo normal. 
 
 Con sus dotes de falsificador puede hacer cualquier tipo de documento y tenderles una trampa. No sería de extrañar que hiciese un testamento falso a nombre de Hyde para atraerle a una trampa en algún sitio remoto de la campiña. Lo divertido será saber que hará tu mesa, ya que Hyde no tiene familia y, por tanto, no tiene parientes de los que puede heredar alguna propiedad.
 
-**Hay muchas formas de continuar estas aventuras.**
-
 ## Más PJ investigando
 
-El caso de la violetera, Lisa terminará desapareciendo y solo quedará Elsa, pero puede tener otra continuación muy interesante. Que una segunda pareja de jugadores lleven a Lisa y Elsa siguiendo las mismas reglas que Jekyll y Hyde. Estaríamos ahora ante un director de juego que dirige a 4 jugadores, pero solo 2 al mismo tiempo. 
+En el caso de la violetera, Lisa terminará desapareciendo y solo quedará Elsa, pero puede tener otra continuación muy interesante. Que una segunda pareja de jugadores interpreten a Lisa y Elsa, siguiendo las mismas reglas que Jekyll y Hyde. Estaríamos ahora ante un director de juego que dirige a 4 jugadores, pero solo 2 al mismo tiempo. 
+
+\sp
 
 Lo divertido es que la relación entre Lisa y Elsa es muy diferente a la de Jekyll y Hyde en algunas cosas, pero también comparten otros elementos. Las combinaciones a la hora de investigar nuevos casos pueden ser muy divertidas y desafiantes. Desde Elsa y Jekyll colándose en una fiesta de la alta sociedad o Lisa y Hyde participando en un concurso de beber, hasta Jekyll tratando de educar a Lisa o Elsa tratando de deshacerse de Hyde.
  

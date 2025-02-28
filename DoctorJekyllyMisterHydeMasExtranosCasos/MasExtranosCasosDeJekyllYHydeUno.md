@@ -213,14 +213,14 @@ Lisa, en realidad Elsa, tras escapar de casa del profesor Hodgins se ha establec
 
 Tus jugadores ahora deben juntar las pistas que han conseguido y usarlas para encontrar a Lisa/Elsa:
 
-* Saben que, aunque estuvo poco tiempo, aprendió muchas cosas del profesor Hodgins. Ya no es una paleta inculta, sino una educada joven que pudiera venir de una familia de clase alta.
+* Saben que, aunque estuvo poco tiempo, aprendió muchas cosas del profesor Hodgins. Ya no es una paleta inculta, sino una educada joven que pudiera hacerse pasar por venir de una familia de clase alta.
 
 \sp
 
 * Tiene un olfato soberbio y saben por Mary Peed que quería trabajar en una perfumería. Con sus modales y su olfato seguramente ha encontrado trabajo. Sin trabajo, el dinero se le acabaría en pocos días y habría vuelto a casa de su padre.
 * No debería estar muerta o secuestrada, se fue de casa de Hodgins por su cuenta y nada indica que se mezclara con mala gente.
 
-Con toda esas pistas pueden deducir un perfil que buscar, una aprendiza nueva en perfumerías y floristerías, muy elegante y educada, del que no se sabe mucho de su vida.
+Con todas esas pistas pueden deducir un perfil que buscar, una aprendiza nueva en perfumerías y floristerías, muy elegante y educada, de la que no se sabe mucho de su vida.
 
 Un problema bastante grande que tienen es que no conocen de cara a Lisa, pueden tirar horas visitando perfumerías que no la reconocerían y mucho menos como Elsa. Pueden intentar hacer otro retrato robot que les ayude y que puedan enseñar. Pero no será el elemento que les ayudará en su búsqueda, solo una ayuda.
 
@@ -228,11 +228,15 @@ Otra opción es llevar con ellos durante sus pesquisas a Mary Peed o a Wilfred D
 
 Con todo esto pueden empezar a hacer sus pesquisas por la ciudad y patearse sus calles.
 
+Ponles un par de sitios, donde se hagan pasar por clientes y traten de sacarle información al dueño o los empleados a ver cómo se desenvuelven.
+
 ### Aparece Newcomen
 
-El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso. No porque sea importante, chicas como Lisa desaparecen todos los días, sino porque los medios suelen hacer eco de sus casos y los usan como forma de meterse con el trabajo policial de Scotland Yard.
+El inspector Newcomen se ha enterado de que Jekyll y Hyde están buscando a la señorita Doosmall y, claro, eso ha despertado el interés en este caso.
 
 \sp
+
+No porque sea importante, chicas como Lisa desaparecen todos los días, sino porque los medios suelen hacer eco de sus casos y los usan como forma de meterse con el trabajo policial de Scotland Yard.
 
 En cualquier momento puedes sacar al inspector Newcomen, tratando de robarles el mérito de su investigación y de paso evitar que Scotland Yard no quede mal.
 
@@ -240,11 +244,25 @@ De normal les tiene un poco vigilados y si han acudido a la policía para saber 
 
 ### Delante de la puerta de la tienda
 
-XXX
+Tras días visitando perfumerías de todo Londres y aguantando las críticas de Newcomen, darán con Lisa. Una chica que cumple con la descripción general de Lisa y el perfil que han elaborado de ella.
+
+Pueden llevar a Mary Peed o a Wilfred para que trates de reconocerla desde fuera de la tienda, pero no estarán seguras.
+
+Tendrán que buscarse la vida para que sus testigos estén cerca de ella, sin que ella los vea para que les certifiquen que es ella. Pueden usar mil trucos, como llevar a Peed dentro de la tienda de negro y con un velo de duelo o esperar a que salga del trabajo e intentar cruzarse con ella en el gentío sin que les detecte.
+
+Ninguna persona podrá certificarlos 100% que es Lisa y si tratan de sonsacarle algo hablando con ella, no conseguirán nada, ella es Elsa y no sabe quién es Lisa.
+
+Realmente la prueba irrefutable de que Elsa la dependienta es Lisa sería comprobar su alergia a las plumas de pavo real. Así que tendrán que buscarse una excusa para probarlo.
+
+Con todo esto podrían decir que han encontrado a la desaparecida Lisa Doosmall, otra cosa es que quieran o no resolver el caso.
+
+\sp
+
+Lo único que habrán descubierto es lo de la doble personalidad de Lisa/Elsa. Si cualquiera de tus jugadores tiene una conversación un poco larga con ella podrán hacer una tirada Buena (+2) para descubrir que Elsa es parecida a ellos, sufre un trastorno de doble personalidad.
 
 ## ¿Sacando a Lisa a la luz?
 
-Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero desde luego la verán radiante y feliz, cosa que están seguros de qué no pasaba antes. 
+Elsa no tiene por qué saber quiénes son tus jugadores, ni que hacen, ni que buscan. Su memoria solo es de haces menos de un mes. Pero, desde luego, durante sus investigaciones la verán radiante y feliz, cosa que están seguros de qué no pasaba antes. 
 
 En este momento deberán decidir si dejan a Elsa tranquila en su nueva vida o resuelven este extraño caso que puede darles bastantes líneas en los tabloides londinenses y, por consiguiente, nuevos clientes con nuevos e interesantes casos.
 
@@ -252,11 +270,11 @@ Realmente, tus jugadores, una vez sepan la verdad, deberían ver qué Elsa tiene
 
 Tus jugadores deberían pensar que está mejor como Elsa que como Lisa y no descubrir quién es. Lo cual será un duro golpe para su ego que tendrá que aguantar a Newcomen recordándoles siempre este caso como un caso no resultó.
 
-\sp
-
 Si ha aparecido Newcomen, este se decantará por resolver el caso, apuntándose un tanto ante un posible ascenso. El problema es que esto supondrá que Elsa sea internada en un psiquiátrico para curarla de su locura y seguramente acabe otra vez en el arroyo y con su padre abusando de ello. 
 
 Todo eso no es algo que le importe a Newcomen al que igual tendrán que sobornar o amenazar para que se calle.
+
+\sp
 
 ## Lisa Doosmall
 
@@ -272,8 +290,6 @@ Elsa es en lo que debería haberse convertido Lisa con las enseñanzas del profe
 
 Como «alter ego», Elsa es totalmente lo contrario a lo que Lisa era. A medida que crea su propia vida, mucho mejor que la de Lisa, esta se hunde más en el fondo de su psique hasta que seguramente desaparezca y solo quede Elsa.
 
-\sp
-
 Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un restaurante, Elsa crece y Lisa desaparece.
 
 * **Aspectos**
@@ -282,6 +298,9 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
   * Olfato entrenado
   * Gustos caros
   * Dicción perfecta y bonita voz
+
+\sp
+
 * **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
@@ -295,8 +314,6 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
 
 Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y mucho trabajo terapéutico, pero aquí tienes su hoja de personaje por si algún día quieres sacarla a la luz.
 
-\sp
-
 * **Aspectos**
   * **Concepto principal:** Barriobajera vendedora de flores
   * **Complicación:** Maltratada
@@ -304,6 +321,9 @@ Lisa Doosmall solo saldrá del fondo de su propia mente tras muchos cuidados y m
   * Mucha calle
   * Puede subsistir con muy poco
 * **Estilos:** Cauto Normal (+1), Furtivo Bueno (+2), Ingenioso Mediocre (0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Normal (+1)
+
+\sp
+
 * **Proezas**
   * **Espíritu de feriante:** Ha aprendido toda una serie de trucos de feriante para sobrevivir, lo que le permite tener un +2 a Crear una ventaja en modo Rápido al intentar timar y engañar.  
   * **Esconder:** Teniendo que escamotear dinero y objetos de su padre para que no se gastara en alcohol, obtiene un +2 a Defenderse en modo Rápido al esconderse o esconder cosas.
