@@ -246,6 +246,12 @@ Eres un Cazavampiros en un mundo cozy parecido al de Animal Crossing o Stardew V
 
 Montar reglas para jugar con personajes que sean de LEGO con el rollo de construir lo que sea y luego adaptarlas a diferentes ambientaciones. Sería como esos videojuegos que siguen la trama de películas famosas (ESDLA, Star Wars, DC Héroes etc.), pero juegas con personajes de LEGO en vez de los personajes normales. Cthulhu LEGO, LEGO Symbaroum, etc.
 
+### Cuerpo humano RPG
+
+Un juego de rol donde el mundo es un ser humano y los PJ células, glóbulos blancos, glóbulos rojos, … Sería una mezcla entre Érase una vez la vida, Cells at work y Osmosis Jones. No habría worldbuilding, sino bodybuilding.
+
+Mientras pensaba en esta idea, me cruce con este bluit de [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social/post/3livzsxufmc2w) donde ya se ve que se ha explorado esta idea.
+
 ### Graffiti World
 
 Sería una campaña donde juegas con grafitis. Una gran nada blanca (el empleado de mantenimiento que está tapando los grafitis de las paredes de un edificio abandonado con pintura blanca) ha acabado con tu mural/pueblo y te lanzas a la aventura de pararlo.
@@ -264,6 +270,8 @@ Tendría una mezcla de Trolls 2, Tron y La historia interminable.
 
 Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
 
+\sp
+
 ### Mad men RPG
 
 Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
@@ -271,8 +279,6 @@ Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y
 ### Mensajero/a en bici en ciudad cyberpunk.
 
 Debes entregar un paquete y esquivar los equipos de mercenarios enviados por mega-corporaciones enemigas.
-
-\sp
 
 ### Momias a la fuga
 
@@ -287,6 +293,18 @@ Los Nabucodonosorcitos son una familia de bichos que viven en la maceta de la ve
 Tienen aventuras realmente estúpidas como la vez que no sabían cómo salir de casa y la hija dijo que en el colegio les dijeron que usarán la puerta, así que arrancaron la puerta y la usaron de ariete para tirar la pared.
 
 Serían partidas muy cortas con pequeñas tramas totalmente alocadas, donde las formas diferentes y más complicadas de solucionar el problema tendrían bonos y las simples y efectivas tendrían negativos.
+
+### Ninjas Cutres
+
+Sería un juego indie donde juegas con ninjas pero cutres. Las historias serían las típicas de ninjas con asesinatos, robos o espionaje en un mundo actual.
+
+Los ninjas usarían trucos, herramientas y armas muy cutres. En vez de un kimono negro tendrías un chándal negro de mercadillo, en vez de un ninjato tendrían un cuchillo de cocina, en vez de tetsubishis (abrojos) piezas de lego, en vez de nunchakus 2 salamis unidos por una cuerda, etc.
+
+Se reunirían en el Telepizza para hablar de sus cosas del clan mientras llenan de manchas de salsa de tomate su chándal y se entrenarían con tutoriales de Internet.
+
+Habría clanes de ninjas buenos y clanes de malos y peleas entre ellos por sus territorios.
+
+Tendría el toque cutre y chusco de películas como Fung Fu Sion.
 
 ### Pac-land
 
@@ -314,6 +332,8 @@ Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando 
 
 Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
 
+\sp
+
 Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
 
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
@@ -327,8 +347,6 @@ Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo co
 ### Repartidor/a de pizza en un dungeon
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
-
-\sp
 
 ### RRHH en un Dungeon
 
@@ -451,11 +469,3 @@ Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
-
-\sp
-
-### Cuerpo humano RPG
-
-XXX
-
-Mientras pensaba en esta idea, me cruce con este bluit de [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social/post/3livzsxufmc2w) donde ya se ve que se ha explorado esta idea.
