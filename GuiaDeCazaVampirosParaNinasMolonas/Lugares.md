@@ -159,15 +159,22 @@ XXX
 ### La casa de las «Chejas»
 
 * **Aspectos visibles:** Aislada, Ruinosa
-* **Aspectos ocultos:** XXX, XXX
+* **Aspectos ocultos:** Zona de caza de Néstor
+
 \conc
 
 La casa de las «Chejas» es una antigua y ruinosa casa que hay en los humedales y que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas».
 
-XXX
+De siempre han corrido todo tipo de historias sobre la casa, brujas, fantasmas, asesinatos ovnis, etc. Según pasaban unas modas y venían otras cambiaban las historias. Las historias de brujas pasaron a historias de asesinos con garfios oxidados y después a aliens y ovnis.
 
 \sp
 
-También puede ser usada como una guarida secreta por tus cazadoras, aunque siendo sinceras, atravesar medio kilómetro de un camino de tierra muchas veces embarrado no la hace muy atrayente.
+Hoy en día unos cuantos youtubers con canales de «urbex» (exploración urbana) han visitado la casa y han hecho directos allí.
+
+La mayoría de historias modernas de la casa de las «Chejas» tienen una base de verdad. __Néstor la ha usado para sus macabros juegos homicidas.__ Dejaba a los menores en la casa inconscientes y cuan se despertaban se dedicaba a acosarlos y asustarlos, cuando salían de la casa los cazaba en el pantano, para terminar matándolos y deshaciéndose del cadáver en los propios humedales.
+
+La casa está en ruinas y el techo de la segunda planta está derrumbado con lo que solo se puede estar en la primera planta que era una gran estancia común, la cocina y un baño. Es húmeda, fría y seguramente tendrás que ponerte la vacuna del tétanos tras visitarla, pero nadie la visita. Si tuvieras que deshacerte de alguien o de algo la casa de las Chejas podría ser un buen lugar.
+
+También puede ser usada como una **guarida secreta por tus cazadoras**, aunque siendo sinceras, atravesar medio kilómetro de un camino de tierra muchas veces embarrado no la hace muy atrayente. Aunque como hemos dicho puede haber visitas inesperadas de curiosos, youtubers y lo peor de todo Néstor.
 
 \sp
