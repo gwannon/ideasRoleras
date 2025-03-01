@@ -307,7 +307,7 @@ Cada día de trabajo en la perfumería, cada paseo con su novio, cada cena en un
 * **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Normal (+1), Vigoroso Mediocre (0)
 * **Proezas**
   * **Coquetería:** Con Elsa afloro la confianza y el lado más coqueto de lisa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
-  * **Modales intachables:** Debido a sus finísimos modales. Obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
+  * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
   * **Vendedora nata:** Sabe todos los trucos de la venta, tanto como violetera como vendedora de perfumes, por ello obtiene un +2 Atacar a modo Rápido cuando trata de convencer a alguien de cosas sencillas. 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
