@@ -171,7 +171,9 @@ De siempre han corrido todo tipo de historias sobre la casa, brujas, fantasmas, 
 
 Hoy en día unos cuantos youtubers con canales de «urbex» (exploración urbana) han visitado la casa y han hecho directos allí.
 
-La mayoría de historias modernas de la casa de las «Chejas» tienen una base de verdad. __Néstor la ha usado para sus macabros juegos homicidas.__ Dejaba a los menores en la casa inconscientes y cuan se despertaban se dedicaba a acosarlos y asustarlos, cuando salían de la casa los cazaba en el pantano, para terminar matándolos y deshaciéndose del cadáver en los propios humedales.
+La mayoría de historias modernas de la casa de las «Chejas» tienen una base de verdad. __Néstor la ha usado para sus macabros juegos__ __homicidas.__
+
+Dejaba a los menores en la casa inconscientes y cuan se despertaban se dedicaba a acosarlos y asustarlos, cuando salían de la casa los cazaba en el pantano, para terminar matándolos y deshaciéndose del cadáver en los propios humedales.
 
 La casa está en ruinas y el techo de la segunda planta está derrumbado con lo que solo se puede estar en la primera planta que era una gran estancia común, la cocina y un baño. Es húmeda, fría y seguramente tendrás que ponerte la vacuna del tétanos tras visitarla, pero nadie la visita. Si tuvieras que deshacerte de alguien o de algo la casa de las Chejas podría ser un buen lugar.
 
