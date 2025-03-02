@@ -430,7 +430,13 @@ Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigado
 
 Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
 
-\sc
+### Troupe de artistas para un mundo medieval fantástico 
+
+Montar una campaña donde los PJ son parte de una troupe de artistas que se mueven por todo el mundo haciendo funciones de teatro en cada ciudad del mundo. En cada ciudad habría una aventura con cosas como:
+
+* Son acusados de matar a un noble durante una actuación teatral. 
+* Tienen que escapar de un grupo religioso que considera pecado las actuaciones de los miembros de la troupe.
+* Uno de los miembros de la troupe es el heredero bastardo de algún monarca y quieren acabar con él/ella para que no reclamé sus derechos.
 
 \sp
 
