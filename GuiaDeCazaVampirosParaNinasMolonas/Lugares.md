@@ -148,11 +148,22 @@ Las únicas entradas son la puerta principal y otra por detrás que da al almac�
 
 \conc
 
-XXX
+La mazmorra del Néstor es un espacio subterráneo debajo de la fundición de San Andrés. Eran unos túneles de la Guerra Civil que se cegaron y que descubrió hace unos años, mientras investigaba la compra de la vieja fundición para el Grupo Ceballos. Solo Néstor sabe como se accede a su mazmorra, de hecho, nadie sabe de sus actividades en ella.
+
+Es un largo pasillo con habitaciones 3 habitaciones a cada. Cada habitación es usada como celda, donde puede tener a sus victims durante días sobreviviendo como pueden, ya que no se preocupa de alimentarles y darles agua.
+
+Cada celda tiene una cámara en el techo para vigilarla y suele pasar largas horas cada noche vigilando a los niños y niñas que tiene encerradas. No tienen ningún tipo de conducto, ni ventana, solo puede salirse por la puerta y están cerradas con llave por fuera. Se podría forzar con una tirada Vigorosa Grande (+3) o Rápida (+3) si se tiene algún tipo de cuerda, cable o así para hacer una ganzúa. Suele dejar en las celdas objetos como ropa o peluches de otras víctimas llenas de suciedad y sangre seca.
+
+Cuando sus víctimas están aterrorizadas y/o desesperadas, cosa que él cree que puede oler, aparece para jugar con ellas antes de chuparles toda la sangre y matarlos. Sus juegos son de un sadismo increíble, 
+
+* Normalmente, se presenta como un salvador (un policía o un bombero) que viene a rescatar a la víctima de su captor. Cuando los libera empieza con tocamientos mientras tratan de huir y va aumentando la intensidad de los tocamientos cada vez más sexuales. Para cuando están a punto de escapar, los inmoviliza y los viola, terminando con sus vidas chupándoles toda la sangre.
+* La otra vertiente es presentarse como sí mismo y pedir diferentes favores sexuales que van aumentando de nivel a cambio de pequeños regalos como agua, comida o la promesa de libertad. Los tortura así durante días, hasta que un día deja la celda abierta. En cuanto salen, se dedica a cazarlos hasta que los atrapa y los mata drenándoles la sangre.
+
+Ninguna de sus víctimas tiene ninguna posibilidad ni de escapar, ni de derrotarle, ni de huir de él, pero aun así le excita esa falsa caza. Las únicas formas de salir de su mazmorra es como cadáver o si te traslada a la casa de la «Chejas» para aterrorizarte entre los cañaverales del pantano.
+
+\sp
 
 \sinc
-
-&nbsp;
 
 [![Foto de casa de campo en las ruinas de Gurvan Rolland](./assests/images/pexels-gurvan-rolland-2297267-6997250.jpg "Foto de casa de campo en las ruinas de Gurvan  Rolland")](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm "Foto de casa de campo en las ruinas de Gurvan  Rolland")
 
@@ -167,8 +178,6 @@ La casa de las «Chejas» es una antigua y ruinosa casa que hay en los humedales
 
 De siempre han corrido todo tipo de historias sobre la casa, brujas, fantasmas, asesinatos ovnis, etc. Según pasaban unas modas y venían otras cambiaban las historias. Las historias de brujas pasaron a historias de asesinos con garfios oxidados y después a aliens y ovnis.
 
-\sp
-
 Hoy en día unos cuantos youtubers con canales de «urbex» (exploración urbana) han visitado la casa y han hecho directos allí.
 
 La mayoría de historias modernas de la casa de las «Chejas» tienen una base de verdad. __Néstor la ha usado para sus macabros juegos__ __homicidas.__
@@ -177,6 +186,10 @@ Dejaba a los menores en la casa inconscientes y cuan se despertaban se dedicaba 
 
 La casa está en ruinas y el techo de la segunda planta está derrumbado con lo que solo se puede estar en la primera planta que era una gran estancia común, la cocina y un baño. Es húmeda, fría y seguramente tendrás que ponerte la vacuna del tétanos tras visitarla, pero nadie la visita. Si tuvieras que deshacerte de alguien o de algo la casa de las Chejas podría ser un buen lugar.
 
+\sp
+
 También puede ser usada como una **guarida secreta por tus cazadoras**, aunque siendo sinceras, atravesar medio kilómetro de un camino de tierra muchas veces embarrado no la hace muy atrayente. Aunque como hemos dicho puede haber visitas inesperadas de curiosos, youtubers y lo peor de todo Néstor.
+
+\sc
 
 \sp
