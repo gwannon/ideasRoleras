@@ -175,7 +175,7 @@ El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como 
 
 El piso está bien amueblado y con muebles modernos de calidad, no de Ikea. Hay una cocina moderna, un salón con un sofá comodísimo, una habitación con una cama grandísima y una segunda habitación con material de pintura, madejas de lana y agujas y otros hobbies. 
 
-No hay medicamentos fuera de lo normal que hagan pensar que estaba enferma, pero igual había abandonado la medicación. Pero sí veis suplementos de hierro y vitaminas. Alguna cazadora puede que le recuerden que alguien de su familia las tomaba por la anemia.
+No hay medicamentos fuera de lo normal que hagan pensar que estaba enferma, igual es que había abandonado la medicación. Pero debería de haber medicación contra el dolor o similar. Sí veis suplementos de hierro y vitaminas. Alguna cazadora puede que le recuerden que alguien de su familia las tomaba por la anemia.
 
 Si revisan la cama hay manchas de sangre en las sabanas. Si revisan la cocina, encontrarán unas sabanas guardadas debajo del fregadero que iban a ser usadas como trapos. También tienen manchas de sangre. No grandes manchas, solo pequeñas manchas como si alguna herida pequeña las hubiera manchado. La cuestión es que están en un extremo de las sabanas, o sea es algo en los pies o la cabeza.
 
@@ -248,7 +248,7 @@ Entonces apareció el grupo Ceballos con una propuesta y su correspondiente sobo
 
 Ernesto podía derribar el polideportivo sin problema. Era un peligro público con serios problemas estructurales, y luego vender esos terrenos. Pero lo de los humedales se quedaba fuera de sus competencias aunque daría su voto si compraban a los políticos adecuados.
 
-A cambio quería que se deshiciera de su hermana por ejemplo fingiendo un suicidio. De esa forma él se quedaría con todo el control de los pisos heredados de sus padres.
+A cambio quería que se deshiciera de su hermana, por ejemplo, fingiendo un suicidio. De esa forma él se quedaría con todo el control de los pisos heredados de sus padres.
 
 Así que Alfonse fue encargado de seducirla con sus encantos vampíricos. La encontró de casualidad en la web de citas y en un par de contactos quedo con ella en su discoteca y consiguió que la invitara a su casa. En pocas semanas la tenía enganchada a elle y a sus prácticas sexo-vampíricas que la estaban dejando anémica.
 
@@ -258,7 +258,7 @@ Así que Alfonse fue encargado de seducirla con sus encantos vampíricos. La enc
 
 Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y ella aceptó y sin saberlo invito a su casa a su asesino, Néstor. Este la dejo medio atontada por la perdida de sangre de 2 vampiros chupándole sangre, le hizo tragar las pastillas, puso una nota de suicidio falsa, la metió en la bañera y le corto las venas, mientras Alfonse miraba horrorizado.
 
-Cuando se describió el cadáver, al de 48 horas, se declaró un suicidio. Su hermano tenía una coartada para esos días y Alfonse también. La policía investigó las conversaciones con Goloso22 y fueron a investigarle. Tenía coartada sólida (pero falsa) para la noche del suicidio y además les dijo que habían cortado la noche anterior, eran muy diferentes, ella era mayor y no iba a funcionar.
+Cuando se describió el cadáver, al de 48 horas, se declaró un suicidio. Su hermano tenía una coartada para esos días y Alfonse también. La policía investigó las conversaciones con Goloso22 y fueron a interrogarle siguiendo el protocolo. Tenía coartada sólida (pero falsa) para la noche del suicidio y además les dijo que habían cortado la noche anterior, eran muy diferentes, ella era mayor y no iba a funcionar.
 
 El cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pudiera descubrir la forense encargada y polis corruptos al servicio de Néstor hicieron lo suyo con las pruebas policiales. Con lo que al final se confirmó el suicidio.
 
@@ -444,7 +444,7 @@ Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poc
 
 > __Invéntate un nombre para__ __el Youtuber__ como «VanHernanding» «VampireHuntressVallekas» y úsalo en frase como «Si recuerdas el último directo de VampireHuntressVallekas, la formula para el té de ajo es de una cabeza de ajo por cada litro de agua». Quizás hasta puedan dejarle comentarios en sus directos y que este les responda. 
 
-En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información, deberán aprender por ensayos y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
+En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
 
 Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fe, el vampiro se lo quita de las manos y les ataca sin problemas.
 
@@ -466,15 +466,13 @@ _NOCHE_
 
 > Personalmente como DJ, sea como sea, saquen las tiradas que saquen y hagan lo que hagan, esta primera caza debería ser un éxito. Puede que sea chapucera o una genialidad, pero deberían acabar la caza triunfando sobre el mal, con valiosa información y con un poderoso enemigo derrotado o un aliado muy importante. Ya tendrán tiempo de meter la pata y fracasar. 
 
-XXX
-
 #### El plan de caza
 
-Con toda la información recogida y el equipo preparado tendrán que pensar un plan de acción con una 
+Con toda la información recogida y el equipo preparado tendrán que pensar un plan de acción que solucione un gran problema, el vampiro está avisado, sabe que alguien ha entrado en su «sancta sanctorum» y habrá puesto remedio mejorando la seguridad.
 
 Como DJ no deberías dejarles entrar de la misma forma que la primera vez a no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
 
-Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad.
+Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad o algún tipo de alarma.
 
 XXX
 
@@ -488,12 +486,26 @@ Por ejemplo, las fiestas del barrio pueden hacer que se vacíe o se llene de gen
 
 XXX
 
+\sp
+
 ### ¿Qué hacemos con Alfonse?
 
 En este punto de la aventura deberán tomar una decisión importante, matar a Alfonse o aliarse con él. Alfonse está su merced, derrotado en el suelo de la pista de baile VIP, posiblemente con quemaduras de agua de ajo y cortes de cuchillos de plata de la abuela. Está tratando de salvar su vida como solo sabe hacer, negociando y adulando, haciendo tratos que puede que no cumpla, … No es de fiar, pero sabe mucho de este mundo desconocido para tus cazadoras.
 
-XXX
+#### Acabar con el chupasangre
+
+La solución rápida es darle el «paseo» a Alfonse. Rápido y sencillo. Habría que quedarse con su teléfono y su portátil y poder sacar información útil de ellos para poder seguir cazando vampiros. De estos dispositivos pueden sacar pistas que les permita avanzar en el plan vampírico hacia arriba o hacia los lados en el siguiente capítulo.
+
+Alfonse no es un santo y tus cazadoras no deberían porque sentir piedad por él. Incluso podrían organizar algún tipo de ejecución, rollo abandonarlo a pleno sol, ahogarlo en una bañera de agua con ajo, estacarle el corazón, etc. Las opciones son muchas y si son creativas incluso pueden crear algún aspecto en la comunidad vampírica que puedan explotar.
+
+#### Negociar con el chupasangre
+
+Alfonse es un superviviente de manual y sabe que ahora le toca negociar con unas niñas. Ya sabe que no son unas chicas normales, son unas cazadoras natas. Sin casi experiencia y conocimientos, le han derrotado. Con sus conocimientos y su información pueden acaban con Néstor, su vampiro oldie que le manda, y ocupar su puesto.
+
+Tendrá que suplicar por su vida, prometer servirlas, firmar algún tipo de trato (que cumplirá o no en el futuro) y ofrecerles algo como prueba de buena voluntad. Esta prueba puede servir de pista que les permita avanzar en el plan vampírico hacia arriba o hacia los lados en el siguiente capítulo.
  
+Recuerda que ahora mismo está en inferioridad y que no tiene mucho margen de negociación, además cuando pueda las traicionará y acabará con ellas. Con lo que puede aceptar cualquier cosa que le propongan.
+
 \sp
 
 \sinc

@@ -138,17 +138,19 @@ XXX
 
 XXX
 
+Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios actos violentos incluso en MMA. De hecho,, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años.
+
 * **Aspectos**
   * **Concepto principal:** Siervo protector de Lord Ceballos
   * **Complicación:** Sobreprotector
   * Experto en MMA
   * Cara de póker
-  * XXX
+  * Planificador
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
 * **Proezas**
-  * XXX
-  * XXX
-  * XXX
+  * **Luchador de suelo:** Debido a su experiencia como combatiente de MMA, gana un +2 para Atacar en modo Vigoroso cuando forcejea con su enemigo en el suelo.
+  * **Wheelman:** Debido a que es un conductor excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando conduce un vehículo terrestre.
+    * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir corriendo detrás de él. 
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6

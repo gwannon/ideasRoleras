@@ -38,3 +38,8 @@
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QMaltratada\nOlfato entrenado\nMucha calle\nPuede subsistir con muy poco\nEstilos:\\E$"}
 {"rule":"DIACRITICS_03","sentence":"^\\QEl aura de maldad y de crueldad que emite incomoda incluso a sus propios sirvientes y a su amo Lord Ceballos.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTendría el toque cutre y chusco de películas como Fung Fu Sion.\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QEn la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QEn la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDe día, estará durmiendo en su habitación del pánico con vestidor y baño. El acceso sin saber el código y la ubicación de la puerta secreta es imposible para las capacidades y herramientas de unas niñas.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHasta que llego Néstor.\\E$"}
+{"rule":"AGREEMENT_SUBJECT_VERB_SG_PL","sentence":"^\\QIgual tienen que irse de colonias y campamentos y cerca haya un antiguo castillo propiedad de un viejo conde vampiro.\\E$"}
