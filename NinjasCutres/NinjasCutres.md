@@ -2,7 +2,7 @@
 
 Ninjas Cutres (NC) es un juego de rol en una sola página donde juegas con ninjas cutres, tan cutres que han usado la «Comic Sans» para escribir este juego.
 
-Te embarcarás en misiones estúpidas con más ninjas de clan XXX
+Te embarcarás en misiones estúpidas con más ninjas de clan igual de cutres que tú y podrás hacer lo mismo que has visto en cutres pelis de ninjas, pero más cutre todavía si es posible. XXX
 
 **Nota importante:** Ninjutsu debes pronunciarlo como «nin-ju-chu», nada de «nin-yut-su», «nin-yit-su» o similares. Son así de cutres.
 
@@ -72,3 +72,8 @@ XXX
 ## Aventuras cutres
 
 XXX
+
+
+Máx. 1900 palabras
+
+https://www.freepik.com/free-vector/ninja-character-collection-four_2636979.htm
