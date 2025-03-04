@@ -461,3 +461,6 @@ vampires
 buene
 raves
 misme
+Ninjutsu
+_Ninjutsu
+fancy
