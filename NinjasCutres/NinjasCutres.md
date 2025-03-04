@@ -78,7 +78,7 @@ XXX
 
 XXX 
 
-Las reuniones se realizan en el Telepizza o similar donde podrían hablar de sus cosas del clan mientras llenan de manchas de salsa de tomate su chándal y se entrenarían con tutoriales de Internet.
+Las reuniones se realizan en el Telepizza o similar donde podrían hablar de sus cosas del clan mientras llenan de manchas de salsa de tomate su chándal.
 
 XXX
 
