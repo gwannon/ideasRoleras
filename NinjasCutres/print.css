@@ -163,17 +163,6 @@ table {
 
 }
 
-table:before {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 29px;
-  height: 20px;
-  background: transparent url(./images/tijera.png) center center no-repeat;
-  top: -21px;
-  right: -0px;
-}
-
 table thead tr th {
   text-align: left;
   font-weight: 400;
