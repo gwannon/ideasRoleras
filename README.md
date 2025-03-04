@@ -67,3 +67,11 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 https://www.freepik.com/free-vector/background-with-green-bamboo-woods_6489960.htm
 
 https://www.freepik.com/free-vector/hand-drawn-ninja-element-collection_2562233.htm
+
+https://www.freepik.com/free-vector/cute-ninja-with-donut-box-cartoon-vector-icon-illustration-people-food-icon-concept-isolated-flat_84032108.htm
+
+https://www.freepik.com/free-vector/cute-ninja-throw-pizza-shuriken-cartoon-vector-icon-illustration-people-food-icon-concept-isolated_84607022.htm
+
+https://www.freepik.com/free-vector/cute-ninja-playing-phone-toilet-cartoon-vector-icon-illustration-people-holiday-icon-isolated_61123569.htm
+
+https://www.freepik.com/free-vector/cute-ninja-slash-donut-with-kunai-knife-cartoon-vector-icon-illustration-people-food-isolated-flat_89573413.htm

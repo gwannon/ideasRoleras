@@ -79,18 +79,16 @@ body > *:first-child,
 /* Titulares */
 
 h1 {
-  background: var(--color-black) url(./images/titular.jpg) center center no-repeat;
-  background-size: cover;
+  background: transparent url(./images/titular.png) center bottom no-repeat;
+  background-size: 100% auto;
   font-family: 'Osaka-Sans Serif', sans-serif;
+  color: var(--color-white);
   text-align: center;
-  height: 197px;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
-  align-items: center;
-  justify-content: center;
-  border-radius: 28px;
+  height: 110px;
   font-size: 35px;
+  -webkit-text-stroke: 2px black;
+  margin-bottom: 0px;
+  margin-top: -5px !important;
 }
 
 h1 > a {

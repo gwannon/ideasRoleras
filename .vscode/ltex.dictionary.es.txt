@@ -464,3 +464,5 @@ misme
 Ninjutsu
 _Ninjutsu
 fancy
+shurikens
+sensei
