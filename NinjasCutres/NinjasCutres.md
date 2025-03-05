@@ -8,23 +8,23 @@ Te embarcarás en misiones estúpidas con más ninjas de tu clan igual de cutres
 
 ## Sistema
 
-Este cutre sistema solo usa dados de 6 caras de los cutres, de los blancos que tienen puntitos ⚀ ⚁ ⚂ ⚃ ⚄ ⚅. Está prohibido usar dados chulos con números.
+Este cutre sistema solo usa dados de 6 caras de los cutres, de los blancos que tienen puntitos. Está prohibido usar dados chulos con números.
 
-Las tiradas son sencillas, tiras tantos dados como tu atributo + bonificaciones. Si sacas mínimo un ⚅, consigues la tirada. Si además sacas algún ⚀, lo consigues pero de forma cutre.
+Las tiradas son sencillas, tiras tantos dados como tu atributo + bonificaciones. Si sacas mínimo un 6, consigues la tirada. Si además sacas algún 1, lo consigues pero de forma cutre.
 
-Si no consigues ningún ⚅, fallas la tirada. No existen las pifias, aunque seas un ninja cutre, sigues siendo un ninja y los ninjas no tienen pifias.
+Si no consigues ningún 6, fallas la tirada. No existen las pifias, aunque seas un ninja cutre, sigues siendo un ninja y los ninjas no tienen pifias.
 
 Las acciones falladas no se pueden volver a repetir, los ninjas no hacen segundos intentos. Si fallas la tirada de abrir cerraduras, tendrás que buscarte otra forma de entrar en la habitación.
 
-Veamos un ejemplo de tirada, intentas matar a un guardia por la espalda cortándole la garganta para que no grite. Tiras 4 dados (2 de tu atributo y 2 de tu cuchillo jamonero) y sacas ⚁ ⚄ ⚅ ⚄. Consigues matarlo sin que haga ruido y sin que nadie te oiga.
+Veamos un ejemplo de tirada, intentas matar a un guardia por la espalda cortándole la garganta para que no grite. Tiras 4 dados (2 de tu atributo y 2 de tu cuchillo jamonero) y sacas 2 5 6 5. Consigues matarlo sin que haga ruido y sin que nadie te oiga.
 
-Si hubieras sacado ⚁ ⚄ ⚅ ⚀, también lo matarías sin hacer ruido, pero empieza a echar sangre como un surtidor y te pringas entero de sangre al resbalarte en ella.
+Si hubieras sacado 2 5 6 1, también lo matarías sin hacer ruido, pero empieza a echar sangre como un surtidor y te pringas entero de sangre al resbalarte en ella.
 
-Sacado ⚁ ⚄ ⚂ ⚃, fallas la tirada y no consigues matar al guardia y tendrás que probar otra forma de entrar en la guarida del malo.
+Sacado 2 5 3 4, fallas la tirada y no consigues matar al guardia y tendrás que probar otra forma de entrar en la guarida del malo.
 
 ### Fichas
 
-Este juego es tan cutre que no le hemos dado un nombre rimbombante a sus metamonedas, como puntos de destino, y les llamamos «fichas». Cada sesión empiezas con 3 fichas. Si gasta una ficha, puedes volver a repetir una tirada.
+Este juego es tan cutre que no le hemos dado un nombre rimbombante a sus metamonedas, como puntos de destino, y les llamamos «fichas». Cada sesión empiezas con 3 fichas. Si gastas una ficha, puedes volver a repetir una tirada.
 
 Si obtienes un éxito de forma cutre, puedes gastar una ficha para que lo cutre le pase a cualquier otro ninja al azar que este contigo, amigo o enemigo.
 
@@ -54,7 +54,7 @@ Si declaras «Corto la pizza a lo ninja» podrás tirar Ninjutsu en vez de Cuerp
 
 ### Enfrentamientos
 
-Los enfrentamientos solo se dan entre ninjas y solo se solucionan con tiradas enfrentadas. Gana el que más ⚅ obtiene. Si empatan, no pasa nada. Al ganador del enfrentamiento se le aplica la norma de éxito, pero cutre si saca ⚀ en su tirada.
+Los enfrentamientos solo se dan entre ninjas y solo se solucionan con tiradas enfrentadas. Gana el que más 6 obtiene. Si empatan, no pasa nada. Al ganador del enfrentamiento se le aplica la norma de «éxito, pero cutre», si saca un 1 en su tirada.
 
 Si el enfrentamiento es a muerte, el perdedor resultará que era un maniquí o dos mapaches en un traje ninja o una figura suya en cartón troquelado. El ninja derrotado aparecerá como si nada en la siguiente escena.
 
@@ -72,13 +72,13 @@ Por último, elige **1 arma ninja cutre, 1 vestimenta cutre y 1 truco ninja cutr
 
 ### Técnicas ninjas Cutres
 
-Tu ninja ha aprendido técnicas ninjas de su «sensei», de pelis o series de TV chuscas, de comics o de tutoriales de YouTube con lo que son realmente cutres.
+Tu ninja ha aprendido técnicas ninjas de su «sensei», de pelis o series de TV chuscas, de comics o de tutoriales de YouTube, con lo que son realmente cutres.
 
-Las técnicas ninjas se crean poniéndoles un nombre cutre, una explicación cutre, un disparador y una acción bonificada. Es importantísimo que el nombre y la explicación sean cutres, si no, no valen como técnicas cutres. Cuando usa una técnica siempre tiras Ninjutsu. La acción bonificada recibe un +2 si se cumple el disparador. Veamos un ejemplo: 
+Las técnicas ninjas se crean poniéndoles un nombre cutre, una explicación cutre, un disparador y una acción bonificada. Es importantísimo que el nombre y la explicación sean cutres, si no, no valen como técnicas cutres. Cuando usas una técnica siempre tiras Ninjutsu y la acción bonificada recibe un +2 si se cumple el disparador. Veamos un ejemplo: 
 
 **Técnica secreta de la máquina del gancho de la feria (nombre):** Has pasado tanto tiempo cogiendo peluches en las máquinas del gancho de las barracas (explicación) que cuando usas un gancho con cuerda (disparador) recibes un +2 a atrapar a tu objetivo (acción bonificada).
 
-En una tirada puedes usar tantas técnicas juntas como quieras siempre que el disparador lo permita.
+En una tirada puedes usar tantas técnicas juntas como quieras, siempre que el disparador lo permita.
 
 ### Mejorando tu ninja
 
@@ -95,7 +95,7 @@ Los PN se pueden gastar en:
 
 ## Equipamiento ninja cutre
 
-Los ninjas cutres, como es normal, usan trucos, herramientas y armas muy cutres. En vez de un kimono negro tendrías un chándal negro de mercadillo, en vez de un ninjato tendrían un cuchillo de cocina, en vez de tetsubishis (abrojos) piezas de lego, en vez de nunchakus, 2 salamis unidos por una cuerda, etc.
+Los ninjas cutres, como es normal, usan trucos, herramientas y armas muy cutres. En vez de un kimono negro usas un chándal negro de mercadillo, en vez de un ninjato esgrimes un cuchillo de cocina, en vez de tetsubishis (abrojos) lanzas piezas de lego, en vez de nunchakus usas 2 salamis unidos por una cuerda, etc.
 
 ### Armas cutres
 
@@ -108,7 +108,7 @@ En tu cutre arsenal de armas ninjas puedes tener entre otras las siguientes arma
 
 Lo que debes recordar es que cuanto más daño hace una arma, el ridículo debería ser mayor y las posibilidades de quedar como un cutre son mayores.
 
-También puedes convertir cualquier cosa en un arma ninja, si usas la regla de «a lo ninja». Es decir que añades un ⚀ a tu tirada. Estas armas tienen un +1. Puedes, por ejemplo, acabar con un enemigo lanzándoles zanahorias «a lo ninja» o golpeándole «a lo ninja» con una toalla mojada.
+También puedes convertir cualquier cosa en un arma ninja, si usas la regla de «a lo ninja». Es decir que añades un 1 a tu tirada. Estas armas tienen un +1. Puedes, por ejemplo, acabar con un enemigo lanzándoles zanahorias «a lo ninja» o golpeándole «a lo ninja» con una toalla mojada.
 
 ### Armaduras y vestimentas cutres
 
@@ -133,7 +133,7 @@ Todo el mundo sabe que los ninjas se juntan en clanes. En el caso de los ninjas 
 
 Es por ello que las reuniones se realizan en la cutre pizzería de la esquina o similar, donde podrán hablar de sus cosas del clan mientras se llenan el chándal de manchas de salsa de tomate. Cobran sus trabajos en cupones de descuento y compran el equipo en la teletienda.
 
-Tus ninjas deberán decidir si su clan es de ninjas buenos o ninjas malos. La diferencia principal es que los ninjas malos van de oscuro y los ninjas buenos van de no-oscuro. Ir de oscuro supone que necesitas mancharte dos veces para que se te consideré sucio a la hora de completar una misión.
+Tus ninjas deberán decidir si su clan es de ninjas buenos o de ninjas malos. La diferencia principal es que los ninjas malos van de oscuro y los ninjas buenos van de no-oscuro. Ir de oscuro supone que necesitas mancharte dos veces para que se te consideré sucio a la hora de completar una misión.
 
 Para compensar, los clanes de ninjas buenos tiene una técnica secreta ancestral de clan extra. Todos los miembros del clan deberán tener la misma técnica extra.
 
