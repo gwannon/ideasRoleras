@@ -8,17 +8,17 @@ Te embarcarás en misiones estúpidas con más ninjas de tu clan igual de cutres
 
 ## Sistema
 
-Este cutre sistema solo usa dados de 6 caras de los cutres, de los blancos que tienen puntitos. Está prohibido usar dados chulos con números.
+Este cutre sistema solo usa dados de 6 caras de los cutres, de los blancos que tienen puntitos ⚀ ⚁ ⚂ ⚃ ⚄ ⚅. Está prohibido usar dados chulos con números.
 
-Las tiradas son sencillas, tiras tantos dados como tu atributo + bonificaciones. Si sacas mínimo un 6, consigues la tirada. Si además sacas algún 1, lo consigues pero de forma cutre.
+Las tiradas son sencillas, tiras tantos dados como tu atributo + bonificaciones. Si sacas mínimo un ⚅, consigues la tirada. Si además sacas algún ⚀, lo consigues pero de forma cutre.
 
-Si no consigues ningún 6, fallas la tirada. No existen las pifias, aunque seas un ninja cutre, sigues siendo un ninja y los ninjas no tienen pifias.
+Si no consigues ningún ⚅, fallas la tirada. No existen las pifias, aunque seas un ninja cutre, sigues siendo un ninja y los ninjas no tienen pifias.
 
-Por ejemplo, intentas matar a un guardia por la espalda cortándole la garganta para que no grite. Tiras 4 dados (2 de tu atributo y 2 de tu cuchillo jamonero) y sacas 2, 5, 6 y 5. Consigues matarlo sin que haga ruido y sin que nadie te oiga. Si hubieras sacado 2, 5, 6 y 1, también lo matarías sin hacer ruido, pero empieza a echar sangre como un surtidor y te pringas entero de sangre al resbalarte en ella.
+Por ejemplo, intentas matar a un guardia por la espalda cortándole la garganta para que no grite. Tiras 4 dados (2 de tu atributo y 2 de tu cuchillo jamonero) y sacas ⚁ ⚄ ⚅ ⚄. Consigues matarlo sin que haga ruido y sin que nadie te oiga. Si hubieras sacado ⚁ ⚄ ⚅ ⚀, también lo matarías sin hacer ruido, pero empieza a echar sangre como un surtidor y te pringas entero de sangre al resbalarte en ella.
 
 ### Fichas
 
-Este juego es tan cutre no le hemos dado un nombre rimbombante a sus metamonedas, como puntos de destino, y les llamamos «fichas. Cada sesión empiezas con 3 fichas. Si gasta una ficha, puedes volver a repetir una tirada. 
+Este juego es tan cutre no le hemos dado un nombre rimbombante a sus metamonedas, como puntos de destino, y les llamamos «fichas». Cada sesión empiezas con 3 fichas. Si gasta una ficha, puedes volver a repetir una tirada. 
 
 Como marcadores de fichas se usan ganchitos, patatas fritas o gominolas, a poder ser de marca blanca, nada de «fancy snacks». Cuando usas una ficha, te puedes comer el marcador y si te los comes sin usar la ficha, la pierdes.
 
@@ -52,17 +52,36 @@ XXX
 
 ## Creación de tu ninja cutre
 
-Para crear tu ninja debes decidir su nombre, el nombre de su mentor o mentora ninja o el canal de Youtube donde aprendiste las artes ninjas. 
+Para crear tu ninja debes decidir **su nombre**, el **nombre de su mentor o mentora ninja o el canal de YouTube donde aprendiste las artes ninjas**. 
 
-Luego tendrás que XXX
+Luego tendrás que gastar **5 puntos en Cuerpo y Mente**, con un mínimo de 1 y un máximo de 4.
 
-Además, tendrá 2 técnicas secretas que se explican a continuación.
+Además, tendrá **2 técnicas secretas** que se explican a continuación.
+
+Por último, elige **1 arma ninja cutre, 1 vestimenta cutre y 1 truco ninja cutre**.
 
 ### Técnicas ninjas Cutres
 
 Tu ninja ha aprendido técnicas ninjas de su «sensei», de pelis o series de TV chuscas, de comics o de tutoriales de YouTube con lo que son realmente cutres.
 
-XXX
+Las técnicas ninjas se crean poniéndoles un nombre cutre, una explicación cutre, un disparador y una acción bonificada. Es importantísimo que el nombre y la explicación sean cutres, si no, no valen como técnicas cutres. Cuando usa una técnica siempre tiras Ninjutsu. La acción bonificada recibe un +2 si se cumple el disparador. Veamos un ejemplo: 
+
+**Técnica secreta de la máquina del gancho de la feria (nombre):** Has pasado tanto tiempo cogiendo peluches en las máquinas del gancho de las barracas (explicación) que cuando usas un gancho con cuerda (disparador) recibes un +2 a atrapar a tu objetivo (acción bonificada).
+
+### Mejorando tu ninja
+
+Al final de cada misión completada con éxito, recibes un punto de «ninjitud» (PN). «Completada con éxito» supone que has tenido éxito en la misión y vuelves sin la ropa manchada. 
+
+\sp
+
+Si completas la misión y vienes con el traje ninja sucio, solo recibes medio punto (es un juego tan cutre que damos medio PX).
+
+Los PN se pueden gastar en:
+
+* Por 1 punto puedes aprender una nueva técnica ninja cutre.
+* Por 1 punto puedes conseguir una pieza de equipo cutre.
+* Por 1 punto puedes conseguir una ficha más para siempre.
+* Por 3 puntos puedes subir Cuerpo o Mente y recalcular tu Ninjutsu. 
 
 ## Equipamiento ninja cutre
 
@@ -70,21 +89,23 @@ Los ninjas cutres, como es normal, usan trucos, herramientas y armas muy cutres.
 
 ### Armas cutres
 
-XXX
+En tu cutre arsenal de armas ninjas puedes tener entre otras las siguientes armas.
 
-* **Cuchillo de cocina (Ninjato):** XXX
-* **Embutidos unidos por un cordel (Nunchakus):** XXX. Según el tamaño del embutido hará más o menos daño, +0 para fuets, +1 para chorizos y salchichones y +2 para salamis y mortadelas.
-* **Vajilla de plata (Shurikens):** XXX
+* **Cuchillos de cocina (Ninjato):** Según el tamaño del cuchillo harán más o menos daño. Cuchillo de carne +0, cuchillo XXX +1 y los cuchillos cebolleros o jamoneros +2.
+* **Embutidos unidos por un cordel (Nunchakus):** Según el tamaño del embutido hará más o menos daño, +0 para fuets, +1 para chorizos y salchichones y +2 para salamis y mortadelas.
+* **Cubertería de plata (Shurikens):** Las cucharas hacen +0, los tenedores +1 y los cuchillos +2. Pero una vez los lanzas, los pierdes y tienes que recogerlos después del combate o no tendrás más.
 
-\sp
+Lo que debes recordar es que cuanto más daño hace una arma, el ridículo debería ser mayor y las posibilidades de quedar como un cutre son mayores.
+
+También puedes convertir cualquier cosa en un arma ninja, si usas la regla de «a lo ninja». XXX
 
 ### Armaduras y vestimentas cutres
 
 XXX
 
-* **Disfraz de halloween:** XXX
+* **Disfraz cutre de halloween de ninja:** XXX
 * **Chándal cutre de mercadillo:** XXX
-* **Protecciones de patines:** XXX
+* **Protecciones de patines en línea:** XXX
 
 ### Trucos cutres
 
@@ -117,5 +138,4 @@ XXX
 
 XXX
 
-
-Máx. 1900 palabras
+1306 / 1900 palabras

@@ -466,3 +466,13 @@ _Ninjutsu
 fancy
 shurikens
 sensei
+metamonedas
+NC
+nin
+ju
+chu
+yut
+yit
+PN
+ninjitud
+PX

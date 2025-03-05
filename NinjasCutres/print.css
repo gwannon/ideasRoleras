@@ -13,6 +13,14 @@
 	src: url(./osaka-re.ttf) format('truetype');
 }
 
+@font-face {
+	font-family: 'Comic Sans MS';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(./ComicSansMS.ttf) format('truetype');
+}
+
 body {
   background: var(--color-white) url(./images/bg.png) repeat top center;
   margin: 0;
