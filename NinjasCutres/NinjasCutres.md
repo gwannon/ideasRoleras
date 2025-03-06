@@ -80,17 +80,17 @@ Las técnicas ninjas se crean poniéndoles un nombre cutre, una explicación cut
 
 En una tirada puedes usar tantas técnicas juntas como quieras, siempre que el disparador lo permita.
 
-### Mejorando tu ninja
+## Mejorando tu ninja
 
-Al final de cada misión completada con éxito, recibes un punto de «ninjitud» (PN). «Completada con éxito» supone que has tenido éxito en la misión y vuelves con la ropa limpia. 
+Al final de cada misión completada con éxito, recibes un punto de «ninjitud» (PN). «Completada con éxito» supone que has tenido éxito en la misión y vuelves con la ropa limpia y no has estropeado o perdido tus armas.
 
-Si completas la misión y vienes con el traje ninja sucio, solo recibes medio punto (es un juego tan cutre que damos medio PX).
+Si completas la misión y vienes con el traje ninja sucio, te falta armas o están rotas, solo recibes medio punto (es un juego tan cutre que damos medio PX).
+
+**Importante:** El otro medio punto se lo queda otro de tus ninjas que haya completado también la misión, solo si es responsable de que el primer ninja haya perdido el medio punto por haber actuado de forma cutre. En caso de que haya varios se elige al azar
 
 Los PN se pueden gastar en:
 
-* Por 1 punto puedes **aprender una nueva técnica** ninja cutre.
-* Por 1 punto puedes **conseguir una pieza de equipo** cutre.
-* Por 1 punto puedes **conseguir una ficha más** para siempre.
+* Por 1 punto puedes **aprender una nueva técnica** ninja cutre, **conseguir una pieza de equipo** cutre o **conseguir una ficha más** para siempre.
 * Por 3 puntos puedes **subir Cuerpo o Mente** y recalcular tu Ninjutsu. 
 
 ## Equipamiento ninja cutre
@@ -110,7 +110,7 @@ Lo que debes recordar es que cuanto más daño hace una arma, el ridículo deber
 
 También puedes convertir cualquier cosa en un arma ninja, si usas la regla de «a lo ninja». Es decir que añades un 1 a tu tirada. Estas armas tienen un +1. Puedes, por ejemplo, acabar con un enemigo lanzándoles zanahorias «a lo ninja» o golpeándole «a lo ninja» con una toalla mojada.
 
-### Armaduras y vestimentas cutres
+### Vestimentas cutres
 
 Las vestimentas no dan ninguno ventaja, pero son fundamentales para que tu ninja tenga ese look cutre que el juego pide.
 
@@ -133,10 +133,6 @@ Todo el mundo sabe que los ninjas se juntan en clanes. En el caso de los ninjas 
 
 Es por ello que las reuniones se realizan en la cutre pizzería de la esquina o similar, donde podrán hablar de sus cosas del clan mientras se llenan el chándal de manchas de salsa de tomate. Cobran sus trabajos en cupones de descuento, compran el equipo en la teletienda o en AliExpress y normalmente terminan pegándose contra mascotas de supermercados y establecimientos de comida rápida.
 
-Tus ninjas deberán decidir si su clan es de ninjas buenos o de ninjas malos. La diferencia principal es que los ninjas malos van de oscuro y los ninjas buenos van de no-oscuro. Ir de oscuro supone que necesitas mancharte dos veces para que se te consideré sucio a la hora de completar una misión.
-
-Para compensar, los clanes de ninjas buenos tiene una técnica secreta ancestral de clan extra. Todos los miembros del clan deberán tener la misma técnica extra.
-
-&nbsp;
+Tus ninjas deberán decidir si su clan es de ninjas buenos o de ninjas malos. La diferencia principal es que los ninjas malos van de oscuro y los ninjas buenos van de no-oscuro. Ir de oscuro supone que necesitas mancharte dos veces para que se te consideré sucio a la hora de completar una misión. Para compensar, los clanes de ninjas buenos tiene una técnica secreta ancestral de clan extra. Todos los miembros del clan deberán tener la misma técnica extra.
 
 Creado por [Gwannon](https://linktr.ee/gwannon). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Dibujos de **[freepik](https://www.freepik.com/free-vector/hand-drawn-ninja-element-collection_2562233.htm)** y **[catalyststuff](https://www.freepik.com/author/catalyststuff)**. **[Código fuente](https://github.com/gwannon/ideasRoleras/tree/main/NinjasCutres)**
