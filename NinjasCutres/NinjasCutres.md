@@ -76,7 +76,7 @@ Tu ninja ha aprendido técnicas ninjas de su «sensei», de pelis o series de TV
 
 Las técnicas ninjas se crean poniéndoles un nombre cutre, una explicación cutre, un disparador y una acción bonificada. Es importantísimo que el nombre y la explicación sean cutres, si no, no valen como técnicas cutres. Cuando usas una técnica siempre tiras Ninjutsu y la acción bonificada recibe un +2 si se cumple el disparador. Veamos un ejemplo: 
 
-**Técnica secreta de la máquina del gancho de la feria de RoboNinja69 (nombre):** Has pasado tanto tiempo cogiendo peluches en las máquinas del gancho de las barracas (explicación) que cuando usas un gancho con cuerda (disparador) recibes un +2 a atrapar a tu objetivo (acción bonificada).
+**Técnica secreta de la máquina del gancho de la feria del maestro RoboNinja69 (nombre):** Has pasado tanto tiempo cogiendo peluches en las máquinas del gancho de las barracas (explicación) que cuando usas un gancho con cuerda (disparador) recibes un +2 a atrapar a tu objetivo (acción bonificada).
 
 En una tirada puedes usar tantas técnicas juntas como quieras, siempre que el disparador lo permita.
 
