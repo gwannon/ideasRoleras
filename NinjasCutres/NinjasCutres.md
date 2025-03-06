@@ -1,14 +1,14 @@
 # Ninjas Cutres
 
-Ninjas Cutres (NC) es un juego de rol en una sola página donde juegas con ninjas cutres, tan cutres que han usado la «Comic Sans» para escribir este juego.
+Ninjas Cutres (NC) es un juego de rol en una sola página donde juegas con ninjas cutres, tan cutres que hemos usado la «Comic Sans» para escribir este juego.
 
-Te embarcarás en misiones estúpidas con más ninjas de tu clan igual de cutres que tú y podrás hacer lo mismo que has visto en cutres pelis de ninjas, pero de forma más cutre todavía, si es posible.
+Te embarcarás en misiones estúpidas con más ninjas de tu clan e igual de cutres que tú. Podrás hacer lo mismo que has visto en cutres pelis de ninjas, pero de forma más cutre todavía, si es posible.
 
 **Nota importante:** Ninjutsu debes pronunciarlo como «nin-ju-chu», nada de «nin-yut-su», «nin-yit-su» o similares. Son así de cutres.
 
 ## Sistema
 
-Este cutre sistema solo usa dados de 6 caras de los cutres, de los blancos que tienen puntitos. Está prohibido usar dados chulos con números.
+Este cutre sistema solo usa dados de 6 caras, de los cutres, de los blancos que tienen puntitos. Está prohibido usar dados chulos con números.
 
 Las tiradas son sencillas, tiras tantos dados como tu atributo + bonificaciones. Si sacas mínimo un 6, consigues la tirada. Si además sacas algún 1, lo consigues pero de forma cutre.
 
@@ -50,17 +50,17 @@ El __Ninjutsu__ solo se usa cuando haces cosas de ninjas y/o cosas normales «a 
 
 También puedes tirar Ninjutsu si al declarar una acción en que deberías tirar Cuerpo o Mente, metes un «a lo ninja». En ese caso, tu tirada siempre tendrá un dado extra con un 1, es decir, que lo harás cutre.
 
-Si declaras «Corto la pizza a lo ninja» podrás tirar Ninjutsu en vez de Cuerpo y si pasas la tirada, lanzarás la pizza y la cortarás en el aire, pero acabará de forma cutre, por ejemplo, pringando de tomate el chándal de tus compañeros ninjas.
+Si declaras «Corto la pizza a lo ninja» podrás tirar Ninjutsu en vez de Cuerpo y si pasas la tirada, lanzarás la pizza y la cortarás en el aire, pero acabará de forma cutre, por ejemplo, pringándote de tomate el chándal o pringando a otro si gastas una ficha.
 
 ### Enfrentamientos
 
-Los enfrentamientos solo se dan entre ninjas y solo se solucionan con tiradas enfrentadas. Gana el que más 6 obtiene. Si empatan, no pasa nada. Al ganador del enfrentamiento se le aplica la norma de «éxito, pero cutre», si saca un 1 en su tirada.
+Los enfrentamientos solo se dan entre ninjas y solo se solucionan con tiradas enfrentadas. Gana el que más seises obtiene. Si empatan, no pasa nada. Al ganador del enfrentamiento se le aplica la norma de «éxito, pero cutre», si saca un 1 en su tirada.
 
-Si el enfrentamiento es a muerte, el perdedor resultará que era un maniquí o dos mapaches en un traje ninja o una figura suya en cartón troquelado. El ninja derrotado aparecerá como si nada en la siguiente escena.
+Si el enfrentamiento es a muerte, el perdedor resultará que era un maniquí o dos mapaches en un traje ninja o una figura suya troquelada en cartón. El ninja derrotado aparecerá como si nada en la siguiente escena.
 
 ## Creación de tu ninja cutre
 
-Para crear tu ninja debes decidir **su nombre**, el **nombre de su mentor o mentora ninja o el canal de YouTube donde aprendiste las artes ninjas**. 
+Para crear tu ninja debes decidir **su nombre**, el **nombre de su mentor o mentora ninja o el canal de YouTube donde aprendiste las artes ninjas**. Este segundo nombre servirá para dar nombre a tus técnicas ninjas. 
 
 Luego tendrás que gastar **5 puntos en Cuerpo y Mente**, con un mínimo de 1 y un máximo de 4.
 
@@ -72,11 +72,11 @@ Por último, elige **1 arma ninja cutre, 1 vestimenta cutre y 1 truco ninja cutr
 
 ### Técnicas ninjas Cutres
 
-Tu ninja ha aprendido técnicas ninjas de su «sensei», de pelis o series de TV chuscas, de comics o de tutoriales de YouTube, con lo que son realmente cutres.
+Tu ninja ha aprendido técnicas ninjas de su «sensei», de pelis o series de TV chuscas, de comics viejunos o de tutoriales de YouTube, con lo que son realmente cutres.
 
 Las técnicas ninjas se crean poniéndoles un nombre cutre, una explicación cutre, un disparador y una acción bonificada. Es importantísimo que el nombre y la explicación sean cutres, si no, no valen como técnicas cutres. Cuando usas una técnica siempre tiras Ninjutsu y la acción bonificada recibe un +2 si se cumple el disparador. Veamos un ejemplo: 
 
-**Técnica secreta de la máquina del gancho de la feria (nombre):** Has pasado tanto tiempo cogiendo peluches en las máquinas del gancho de las barracas (explicación) que cuando usas un gancho con cuerda (disparador) recibes un +2 a atrapar a tu objetivo (acción bonificada).
+**Técnica secreta de la máquina del gancho de la feria de RoboNinja69 (nombre):** Has pasado tanto tiempo cogiendo peluches en las máquinas del gancho de las barracas (explicación) que cuando usas un gancho con cuerda (disparador) recibes un +2 a atrapar a tu objetivo (acción bonificada).
 
 En una tirada puedes usar tantas técnicas juntas como quieras, siempre que el disparador lo permita.
 
@@ -121,7 +121,7 @@ Las vestimentas no dan ninguno ventaja, pero son fundamentales para que tu ninja
 
 ### Trucos cutres
 
-Como ninja tienes acceso a montones de trucos chuscos para poder completar tus misiones. Al principio de cada sesión tienes 3 usos entre todos tus trucos y cada uso da un bono de +2 a la acción que marque el truco.
+Como ninja tienes acceso a montones de trucos chuscos para poder completar tus misiones. Al principio de cada sesión tienes 3 usos entre todos tus trucos y cada uso da un bono de +2 a la acción bonificada que marque el truco.
 
 * **Extintor (Bomba de humo):** Un pequeño extintor portátil es la forma perfecta de crear una cortina de humo con la que desaparecer sin ser visto.
 * **Piezas de lego (Tetsubishis/abrojos):** Lanzar las piezas de Lego hace que sea casi imposible seguirte, no sabes lo que duele clavarte una pieza de Lego en la planta de pie.
@@ -131,7 +131,7 @@ Como ninja tienes acceso a montones de trucos chuscos para poder completar tus m
 
 Todo el mundo sabe que los ninjas se juntan en clanes. En el caso de los ninjas cutres, sus clanes son chuscos y de muy bajo presupuesto.
 
-Es por ello que las reuniones se realizan en la cutre pizzería de la esquina o similar, donde podrán hablar de sus cosas del clan mientras se llenan el chándal de manchas de salsa de tomate. Cobran sus trabajos en cupones de descuento y compran el equipo en la teletienda.
+Es por ello que las reuniones se realizan en la cutre pizzería de la esquina o similar, donde podrán hablar de sus cosas del clan mientras se llenan el chándal de manchas de salsa de tomate. Cobran sus trabajos en cupones de descuento, compran el equipo en la teletienda o en AliExpress y normalmente terminan pegándose contra mascotas de supermercados y establecimientos de comida rápida.
 
 Tus ninjas deberán decidir si su clan es de ninjas buenos o de ninjas malos. La diferencia principal es que los ninjas malos van de oscuro y los ninjas buenos van de no-oscuro. Ir de oscuro supone que necesitas mancharte dos veces para que se te consideré sucio a la hora de completar una misión.
 

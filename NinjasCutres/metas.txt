@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: Ninjas Cutres
 
 InfoKey: Subject
-InfoValue: Ninjas Cutres es un juego de rol en una sola página donde juegas con ninjas cutres.
+InfoValue: Ninjas Cutres es un juego de rol en una sola página donde juegas con ninjas cutres. Versión 1.1
 
 InfoKey: Author
 InfoValue: Gwannon
