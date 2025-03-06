@@ -82,7 +82,7 @@ En una tirada puedes usar tantas técnicas juntas como quieras, siempre que el d
 
 ### Mejorando tu ninja
 
-Al final de cada misión completada con éxito, recibes un punto de «ninjitud» (PN). «Completada con éxito» supone que has tenido éxito en la misión y vuelves sin la ropa manchada. 
+Al final de cada misión completada con éxito, recibes un punto de «ninjitud» (PN). «Completada con éxito» supone que has tenido éxito en la misión y vuelves con la ropa limpia. 
 
 Si completas la misión y vienes con el traje ninja sucio, solo recibes medio punto (es un juego tan cutre que damos medio PX).
 
