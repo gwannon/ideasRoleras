@@ -475,3 +475,25 @@ Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
+\sp
+
+### La protectora
+
+Una campaña en algún sistema para jugar en la época actual donde tus PJ tienen una protectora de animales y juegas el día a día.
+
+Tendría rollo de gestión consiguiendo dinero, mejorando las instalaciones, montando ferias de adopción, … y luego una parte de aventuras atrapando gatos escapados, buscando perritos perdidos, investigando a los posibles adoptantes.
+
+Puede tener una vertiente realista o puede tener toques de terror, magia oscura, monstruos que devoran mascotas.
+
+\sc
+
+### Drácula VS la protectora de animales
+
+En la novela de Drácula, cuando el «Deméter» llega a puerto sale un gran perrazo (Drácula transformado en lobo) del barco y desaparece.
+
+La periodista que narra el incidente del «Deméter» cuenta que un grupo de personas de la S. P. C. A. (una asociación de protección de animales) buscan al perro para cuidarlo y buscarle un hogar.
+
+Creo que es una semilla de aventura genial para una campaña en la que combates a Drácula. Jugarías con los socios y socias de la protectora y descubrirías todo el tinglado de Drácula. También es una buena entrada para el «Drácula: Dossier».
+
+> Podéis verlo en el capítulo RECORTE DEL «DAILYGRAPH», 8 DE AGOSTO (Pegado en el diario de Mina Murray)
+

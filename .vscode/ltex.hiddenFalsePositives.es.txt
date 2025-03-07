@@ -43,3 +43,4 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QDe día, estará durmiendo en su habitación del pánico con vestidor y baño. El acceso sin saber el código y la ubicación de la puerta secreta es imposible para las capacidades y herramientas de unas niñas.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QHasta que llego Néstor.\\E$"}
 {"rule":"AGREEMENT_SUBJECT_VERB_SG_PL","sentence":"^\\QIgual tienen que irse de colonias y campamentos y cerca haya un antiguo castillo propiedad de un viejo conde vampiro.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy luego una parte de aventuras atrapando gatos escapados, buscando perritos perdidos, investigando a los posibles adoptantes.\\E$"}
