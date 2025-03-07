@@ -306,6 +306,8 @@ Habría clanes de ninjas buenos y clanes de malos y peleas entre ellos por sus t
 
 Tendría el toque cutre y chusco de películas como Fung Fu Sion.
 
+[Ninjas cutres](https://gwannon.itch.io/ninjas-cutres)
+
 ### Pac-land
 
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
@@ -343,6 +345,8 @@ Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mis
 ### Puteando al Doctor Jekyll y Mister Hyde
 
 Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
+
+[Doctor Jekyll y Mister Hyde: Investigadores privados](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)
 
 ### Repartidor/a de pizza en un dungeon
 
