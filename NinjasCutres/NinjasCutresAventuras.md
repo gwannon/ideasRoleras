@@ -14,8 +14,6 @@ Cuando hablen con Adam para cobrar por su trabajo, no se acordará de haber cont
 
 * **Esterilla de yoga:** Puede usarse como paracaídas o para planear como si fuera una mini aladelta.
 
-\sc
-
 ## La Ninja-Con
 
 > La mayor convención de ninjas ha escogido la ciudad de tus ninjas cutres como la próxima sede y tendrán que enfrentarse al clan de ninjas cutres de «Las Garras del Tigretón» por ser los organizadores de honor.
@@ -26,19 +24,24 @@ _«La organización de la Ninja-Con ha escogido su ciudad para su próximo Ninja
 
 Acto seguido entregará los globos y se irá. Si pinchan algún globo antes de recibir el mensaje cantado, ya lo han perdido y si le dejan inconsciente antes de cantar, fallan la misión porque no se enteran de lo de la convención.
 
-XXX
-
 ### Las Garras del Tigretón
 
+Las Garras del Tigretón es igual de cutre que el clan de tus ninjas, pero de vez en cuando tienen ideas brillantes y se han refugiado con sus globos en el local para celebrar cumpleaños infantiles, el «Chiquicuqui Park».
+
+Se hacen pasar por un cumple de niños disfrazados de ninjas y han comprado montones de globos de helio entre los que han metido los del desafío. Están disfrutando de pizza mala y refrescos de marca blanca mientras planean su ataque contra tus ninjas.
+
 XXX
+
+**Ninja Garra del Tigretón:** Cuerpo 4, Mente 2, Taichí 3
+* **Equipo:** Nunchakus de salami (+2), disfraz de ninja con careta, extintor y piezas de Lego.
+* **Técnica secreta de XXX:** XXX
+* **Técnica secreta de XXX:** XXX
 
 ### Misión completada
 
 Se considera misión completada si consiguen explotar más globos que «Las Garras del Tigretón» y con éxito si no es explotada ninguno de los globos que le hayan asignado.
 
 Como organizadores de honor, si consiguen completar la misión, deberán recibir a los otros ninjas que asistan y lo harán disfrazados de ninjas de dibujos animados, Ninja Hattori, Naruto, etc.  
-
-\sp
 
 ## ¡Mutantes!
 
@@ -54,14 +57,16 @@ Lo que tu clan no sabe es que las geishas yayas también quieren un robot de coc
 
 XXX
 
-\sc
-
-### Yaya geisha
-
-Cuerpo 2, Mente 3, Taichí 2
+**Yaya geisha:** Cuerpo 2, Mente 3, Taichí 2
 * **Equipo:** Cachaba (+2), Chándal y crocs, rulos y bandurria.
 * **Ceremonia de hinchar de comida a los invitados de Conchi la farmacéutica:** Tras años de hinchar a sus invitados con frases como «no vas a dejar eso poco» o «eso no te llega ni para un diente», pueden dejar KO a cualquiera mientras tengan comida que ofrecer.
 * **Ceremonia de gritarle a las nubes de Venancia la del cuarto:** XXX
+
+\sp
+
+&nbsp;
+
+\sc
 
 ### Reglas para jugar con geishas yayas
 
