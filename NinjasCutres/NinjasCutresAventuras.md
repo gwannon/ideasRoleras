@@ -2,25 +2,24 @@
 
 ## Cupidos cutres
 
-> Adam ha mandado borracho un mensaje a su expareja pidiéndole desesperado volver. Por suerte, su ex está en un finde de retiro de yoga y no tiene el móvil encendido. Adam necesita que tus ninjas borren el mensaje antes de que acabe el retiro y lo lea.
+> Adam ha mandado borracho un mensaje a su expareja pidiéndole desesperado volver. Por suerte, su ex está en un finde de retiro de yoga y no tiene el móvil encendido. Adam necesita que tus ninjas borren el mensaje antes de que acabe el retiro y su ex lo lea.
 
 XXX
 
 \sc
 
 ## XXX
+
+> XXX
 
 XXX
 
 \sp
 
-## XXX
-
-XXX
-
-\sc
 
 ## Ninjas cutres VS Geishas cutres
+
+> XXX
 
 XXX
 
@@ -31,7 +30,11 @@ Las geishas funcionan igual que tus ninjas, pero tienen una serie de cambios:
 * En vez de Ninjutsu usan «Geishido».
 * XXX
 
-## Ninjas cutres VS Geishas cutres
+\sc
+
+## Ninjas cutres VS Samuráis cutres
+
+> XXX
 
 XXX
 
