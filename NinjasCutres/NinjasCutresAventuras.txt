@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Aventuras para Ninjas Cutres
+
+InfoKey: Subject
+InfoValue: Aventuras para Ninjas Cutres es un suplemento en una sola página para el juego de rol Ninjas Cutres. Versión 0.1
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, ninjas cutres, one-page, aventuras

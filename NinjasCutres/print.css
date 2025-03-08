@@ -84,6 +84,21 @@ body > *:first-child,
   opacity: 0;
 }
 
+blockquote {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+  margin: 10px 0px;
+  color: white;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+  font-style: italic;
+}
+
 /* Titulares */
 
 h1 {
@@ -97,6 +112,11 @@ h1 {
   -webkit-text-stroke: 2px black;
   margin-bottom: 0px;
   margin-top: -5px !important;
+}
+
+#NinjasCutresAventuras h1 {
+  background-image: url(./images/titular_aventuras.png);
+  height: 150px;
 }
 
 h1 > a {

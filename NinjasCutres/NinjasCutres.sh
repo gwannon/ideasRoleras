@@ -1,7 +1,13 @@
 #!/bin/bash
 
-php ./generateDocs.php
+php ./generateDocs.php NinjasCutres
 chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./NinjasCutres.html
-pdftk './temp.pdf' update_info_utf8 './metas.txt' output '../NinjasCutres.pdf' compress
+pdftk './temp.pdf' update_info_utf8 './NinjasCutres.txt' output '../NinjasCutres.pdf' compress
 rm ./NinjasCutres.html
+rm ./temp.pdf
+
+php ./generateDocs.php NinjasCutresAventuras
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./NinjasCutresAventuras.html
+pdftk './temp.pdf' update_info_utf8 './NinjasCutresAventuras.txt' output '../NinjasCutresAventuras.pdf' compress
+rm ./NinjasCutresAventuras.html
 rm ./temp.pdf
