@@ -13,3 +13,6 @@ Los samuráis funcionan igual que tus ninjas, pero tienen una serie de cambios:
 * XXX
 
 &nbsp;
+
+
+[Geishas yayas](https://www.freepik.com/free-vector/hand-drawn-asian-old-people-illustration_172779718.htm)
