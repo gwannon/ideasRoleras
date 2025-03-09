@@ -1,3 +1,10 @@
+
+## ¡Mutantes!
+
+> Tu clan de ninjas quiere colarse en unos laboratorios médicos para conseguir una fórmula para las almorranas. El problema es que también experimentan con mutágenos y han escapado de sus celdas sus sujetos de experimentos.
+
+XXX
+
 ## Ninjas cutres VS Samuráis paletos
 
 > XXX

@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: Aventuras para Ninjas Cutres
 
 InfoKey: Subject
-InfoValue: Aventuras para Ninjas Cutres es un suplemento en una sola página para el juego de rol Ninjas Cutres. Versión 0.1
+InfoValue: Aventuras para Ninjas Cutres es un suplemento en una sola página para el juego de rol Ninjas Cutres. Versión 1.0
 
 InfoKey: Author
 InfoValue: Gwannon
