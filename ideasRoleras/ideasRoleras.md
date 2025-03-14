@@ -434,6 +434,18 @@ Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigado
 
 Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
 
+### Perdiendo niveles y/o experiencia
+
+Montar una campaña en un juego de rol con niveles en que en vez de subir niveles los bajas. Empiezas con nivel 10 y en cada hito pierdes un nivel, hasta perder todos tus niveles y desaparecer.
+
+Puede ser una maldición, una enfermedad, etc. La manera que más me gusta es que por alguna paradoja temporal las acciones que te dieron experiencia en el pasado no han sucedido o han sucedido de otra manera y, por tanto, vas perdiendo niveles según tus hazañas desaparecen de la historia.
+
+Y claro si tú no mataste al troll, el troll sigue allí o lo ha matado al otro. 
+
+Puedes experimentar si los niveles se pierden por arriba o por abajo. Si desaparece primero cuando mataste al goblin en nivel 1 o si desaparece cuando derrocaste al rey nigromante a nivel 10.
+
+Puede ser interesante con PJ con los que han jugado otra gran campaña donde las cosas que hicieron las conocen de haberlas jugado y no simplemente que sean aventuras inventadas para la campaña.
+
 ### La protectora
 
 Una campaña en algún sistema para jugar en la época actual donde tus PJ tienen una protectora de animales y juegas el día a día.
