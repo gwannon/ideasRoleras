@@ -464,6 +464,22 @@ Montar una campaña donde los PJ son parte de una troupe de artistas que se muev
 
 \sp
 
+### Volcanes
+
+Puede que me equivoque, pero no me suena ninguna campaña o aventura donde la trama principal trate de escapar de un volcán.
+
+La verdad que muchas de las cosas que pueden pasar durante una erupción de un volcán son tan increíbles que dan para aventuras muy chulas.
+
+Pensad que además de lava, proyectiles de piedra y ceniza pueden generar tormentas eléctricas, ácido sulfúrico, convertir el agua en ríos de ácido.
+
+Si, como en las pelis de catástrofes o zombis, metes una némesis humana malvada que, por ejemplo, han excavado buscando oro y eso ha propiciado la erupción o qué la lava usa las minas para aparecer por cualquier sitio, tienes una campaña muy chula.
+
+Me suenan películas como «Dante’s Peak», donde nadie creen a los protagonistas, o «El diablo a las 4», donde tres presos y un sacerdote deben salvar a los pacientes de un hospital de una erupción.
+
+\sc
+
+\sp
+
 \sinc
 
 ## Semillas e ideas de aventuras
