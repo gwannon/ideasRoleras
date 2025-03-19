@@ -37,6 +37,8 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. T
 
 |BuenosDiasSrVampiro.md|
 
+|PorHacer.md|
+
 |MientrasTanto.md|
 
 |Lugares.md|

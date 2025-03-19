@@ -138,7 +138,7 @@ XXX
 
 XXX
 
-Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios actos violentos incluso en MMA. De hecho,, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años.
+Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios actos violentos incluso en MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años.
 
 * **Aspectos**
   * **Concepto principal:** Siervo protector de Lord Ceballos
@@ -271,7 +271,7 @@ XXX
 \sinc
 
 ```
-AVISO: Néstor es eln personaje más extremo de toda esta aventura y debes decidir si tu mesa a va estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus victimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
+AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidir si tu mesa a va estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus victimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
 ```
 
 \conc

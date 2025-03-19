@@ -46,3 +46,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy luego una parte de aventuras atrapando gatos escapados, buscando perritos perdidos, investigando a los posibles adoptantes.\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QSu única arma es su cachaba (Bo, bono +1) y sus horquillas del pelo (Shurikens, +1).\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QSu única arma es su cachaba (Bo, bono +1) y sus horquillas del pelo/agujas de ganchillo (Shurikens, +1).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl viejo Ceballos buscó a alguien que se pudiera introducir en grupos sociales diferentes a los que estaba acostumbrado y se encontró con le fiestere no binario de Alfonse.\\E$"}
