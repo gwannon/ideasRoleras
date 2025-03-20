@@ -133,7 +133,7 @@ XXX
 
 XXX
 
-Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios actos violentos incluso en MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años.
+Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años.
 
 * **Aspectos**
   * **Concepto principal:** Siervo protector de Lord Ceballos
@@ -145,7 +145,7 @@ Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios act
 * **Proezas**
   * **Luchador de suelo:** Debido a su experiencia como combatiente de MMA, gana un +2 para Atacar en modo Vigoroso cuando forcejea con su enemigo en el suelo.
   * **Wheelman:** Debido a que es un conductor excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando conduce un vehículo terrestre.
-    * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir corriendo detrás de él. 
+  * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir corriendo detrás de él. 
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -254,14 +254,14 @@ XXX
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Has de ser todo lo malvado, cabrón, cruel, sádico y pervertido que puedas, pero no tienes que parecer un loco. Nada de gestos histriónicos ni de gritos sin sentido, siempre calmado y pensando las cosas, nada de ataques repentinos de furia. Simplemente disfruta de hacer el mayor mal posible al mayor número de personas durante el mayor tiempo posible. 
 
 \sp
 
 \sinc
 
 ```
-AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidir si tu mesa a va estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus victimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
+AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidir si tu mesa a va a estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus víctimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
 ```
 
 \conc

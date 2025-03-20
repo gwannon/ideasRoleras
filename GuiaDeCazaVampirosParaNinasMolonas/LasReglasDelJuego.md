@@ -270,7 +270,7 @@ Al principio tendréis que reuniros en algún soportal cubierto de un patio inte
 * Quizás haya **una casa abandonada** en el barrio. Es una opción, pero aseguraos de que no hay ni drogatas ni vampiros. No son seguras, así que nada de guardar cosas de valor. 
 
 ```
-Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo, pero también que les de problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
+Las bases secretas de las cazadoras deberían tener aspectos, que les ayuden a su trabajo, pero también que les dé problemas. Al principio deberían tener un par de ellos y según avancen deberían tener más según vayan consiguiendo equipamiento y otras mejoras. Por ejemplo, la casa abandonada sería «poco segura», pero «lejos de miradas indiscretas».
 ```
 
 \sp

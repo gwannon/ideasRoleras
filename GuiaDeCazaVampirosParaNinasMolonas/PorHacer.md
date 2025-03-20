@@ -12,8 +12,6 @@ Como DJ no deberías dejarles entrar de la misma forma que la primera vez a no s
 
 Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad o algún tipo de alarma.
 
-XXX
-
 #### Mucho hablar y poco actuar
 
 Si ves que planean mucho y no terminan de lanzarse a la acción, puede activar alguna de las opciones del capítulo «Mientras tanto», como las fiestas del barrio. Quizás ese evento especial cambie la visión general de la caza y les anime a lanzarse.
@@ -23,6 +21,12 @@ Por ejemplo, las fiestas del barrio pueden hacer que se vacíe o se llene de gen
 #### La noche de las cazadoras
 
 XXX
+
+Si todo ha ido bien y no ha saltado la alarma, le encontrarán con sus víctimas de esa noche. Estará sorprendido, pero desde luego no indefenso.
+
+En caso de hacer saltar la alarma, Alfonse las estará esperando en la zona VIP disfrutando de una víctima, pero sin quitar la vista de la entrada y lo que les rodea. Le pierde el dramatismo y quiere hacerles el numerito del vampiro poderoso.
+
+Has de tener en cuenta, si tus cazadoras son conscientes de si han sido o no descubiertas. Encontrarse a Alfonse preparado para defenderse y contraatacar, cuando pensaban que estaría desconcertado e indefenso.
 
 \sp
 
@@ -90,7 +94,7 @@ XXX
 
 Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba joder las infraestructuras sociales. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
 
-Si conseguían convertir el barrio en un barco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
+Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
 
 El toque maestro será hacer aparecer al Grupo Ceballos como unos benefactores que van a salvar a un barrio deprimido levantándolo con inversiones, puestos de trabajo y nuevas construcciones.
 
