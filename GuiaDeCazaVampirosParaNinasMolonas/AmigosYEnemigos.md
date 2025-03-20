@@ -25,8 +25,6 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * XXX
-  * XXX
-  * XXX
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -111,11 +109,8 @@ También se ha vuelto muy sensible a los olores molestándole mucho, de hecho, e
   * **Complicación:** Demasiado estresada
   * Jefe de operaciones del Grupo Ceballos
   * XXX
-  * XXX
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Bueno Vigoroso (+2) 
 * **Proezas**
-  * XXX
-  * XXX
   * XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -178,11 +173,9 @@ XXX
   * **Complicación:** Lujuria
   * Mirada hipnótica
   * XXX
-  * XXX
 * **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo Enorme (+4), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
-  * XXX
   * XXX
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
@@ -223,7 +216,6 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 
 * **Proezas**
   * XXX
-  * XXX
   * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -256,8 +248,6 @@ XXX
   * Hombre del saco
 * **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso Enorme (+4)
 * **Proezas**
-  * XXX
-  * XXX
   * XXX
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
