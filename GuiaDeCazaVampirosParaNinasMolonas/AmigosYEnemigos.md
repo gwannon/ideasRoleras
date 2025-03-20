@@ -209,14 +209,14 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
   * **Complicación:** Anclada en 1920
   * Pensamiento fuera de la caja
   * Los viejos métodos son los mejores
-  * XXX
+  * Más sabe el diablo por viejo que por diablo
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido Enorme (+4), Vigoroso Enorme (+4)
 
 \sp
 
 * **Proezas**
-  * XXX
   * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
+  * XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
