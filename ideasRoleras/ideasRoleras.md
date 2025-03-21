@@ -314,13 +314,23 @@ Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojue
 
 Jugarías con Pac-Man, Miss Pac-Man, su bebe y otros personajes recurrentes del mundo.
 
+### Pequeños robots, grandes aventuras
+
+En este juego llevarías un pequeño robot de servicio que limpia, lleva paquetes, extermina plagas, todos rollo rumba o similar y deberás avisar a alguien de que está en peligro, buscar a alguien secuestrado, encontrar un preciado objeto perdido.
+
+Los robots tendrán su pequeño mini-mundo con sus problemas de robots, como que falla la batería, mis ruedas están gastadas o todo el mundo me pisa.
+
+Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden hacer y otras para las que necesitará ayuda.
+
 ### Planilandia RPG
 
 Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
 
 Es una sátira de la época victoriana, pero la parte matemática está muy bien pensada y podría dar ideas muy interesantes, sobre todo al pensar en 2d tanto para crear y descubrir el mundo como para moverse e interactuar con él.
 
-### Los plastilinos.
+\sp
+
+### Los plastilinos
 
 Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
 Está inspirado en los arquetipos del Nephilim de Chaosium, que serían representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
