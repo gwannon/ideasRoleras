@@ -344,8 +344,6 @@ Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando 
 
 Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
 
-\sp
-
 Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
 
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
@@ -361,6 +359,8 @@ Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo co
 ### Repartidor/a de pizza en un dungeon
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
+
+\sc
 
 ### RRHH en un Dungeon
 
