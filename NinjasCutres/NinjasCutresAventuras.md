@@ -100,7 +100,7 @@ El último paso será otra carrera hasta la caja para pagar. Las yayas y ninjas 
 **Yaya geisha:** Cuerpo 2, Mente 3, Taichí 2
 * **Equipo:** Cachaba (+2), Chándal y crocs, rulos y bandurria.
 * **Ceremonia de hinchar de comida a los invitados de Conchi la farmacéutica:** Tras años de hinchar a sus invitados con frases como «no vas a dejar eso poco» o «eso no te llega ni para un diente», pueden dejar KO a cualquiera mientras tengan comida que ofrecer.
-* **Ceremonia de hacerte la permanente y los tintes en casa Venancia la del cuarto:** Años de hacerse la permanente y ponerse tintes en casa han hecho que pueda hacer cualquier tipo de mezcla química (incluso explosiva) mientras tenga productos químicos caseros
+* **Ceremonia de hacerte la permanente y los tintes en casa Venancia la del cuarto:** Años de hacerse la permanente y ponerse tintes en casa han hecho que pueda hacer cualquier tipo de mezcla química (incluso explosiva) mientras tenga productos químicos caseros.
 
 ### Reglas para jugar con geishas yayas
 
