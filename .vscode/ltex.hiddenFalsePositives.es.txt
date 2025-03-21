@@ -48,3 +48,4 @@
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QSu única arma es su cachaba (Bo, bono +1) y sus horquillas del pelo/agujas de ganchillo (Shurikens, +1).\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl viejo Ceballos buscó a alguien que se pudiera introducir en grupos sociales diferentes a los que estaba acostumbrado y se encontró con le fiestere no binario de Alfonse.\\E$"}
 {"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente disfruta de hacer el mayor mal posible al mayor número de personas durante el mayor tiempo posible.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QAños de perseguir quesos rodantes colina abajo en las fiestas del pueblo te da un +2 a correr cuando persigues algo o alguien.\\E$"}
