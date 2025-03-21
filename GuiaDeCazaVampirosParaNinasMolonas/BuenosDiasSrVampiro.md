@@ -459,3 +459,74 @@ Mientras se preparan para la caza, puedes meter algún encuentro con el Cripi. A
 \sp
 
 Así que puedes hacer un par de encuentros en la puerta del cole a la entrada o la salida. No las va encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.
+
+### La primera caza
+
+_NOCHE_
+
+> Personalmente como DJ, sea como sea, saquen las tiradas que saquen y hagan lo que hagan, esta primera caza debería ser un éxito. Puede que sea chapucera o una genialidad, pero deberían acabar la caza triunfando sobre el mal, con valiosa información y con un poderoso enemigo derrotado o un aliado muy importante. Ya tendrán tiempo de meter la pata y fracasar. 
+
+#### El plan de caza
+
+Con toda la información recogida y el equipo preparado tendrán que pensar un plan de acción que solucione un gran problema, el vampiro está avisado, sabe que alguien ha entrado en su «sancta sanctorum» y habrá puesto remedio mejorando la seguridad.
+
+Como DJ no deberías dejarles entrar de la misma forma que la primera vez a no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
+
+Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad o algún tipo de alarma.
+
+#### Mucho hablar y poco actuar
+
+Si ves que planean mucho y no terminan de lanzarse a la acción, puede activar alguna de las opciones del capítulo «Mientras tanto», como las fiestas del barrio. Quizás ese evento especial cambie la visión general de la caza y les anime a lanzarse.
+
+Por ejemplo, las fiestas del barrio pueden hacer que se vacíe o se llene de gente la «Jaula» y eso puede ayudar a que su plan salga mejor y aprovechen a lanzarse a la caza aunque no tengan más que una mega-pistola de agua.
+
+#### La noche de las cazadoras
+
+Los planes para cazar a Alfonse puede ser muy diversos, pero recuerda estás normas cuando los ejecuten tus cazadoras.
+
+* Alfonse no saldrá de la «Jaula», mientras no esté seguro. Se acabarán sus cazas en el exterior por una temporada y de salir saldrá a escondidas flotando.
+* La «Jaula» está muy preparada contra incendios, intentar provocar fuegos es perder tiempo.
+* De día es imposible entrar en su cámara secreta.
+* No le interesan las niñas, no pueden tenderle una trampa haciéndose pasar por víctimas.
+
+Si todo ha ido bien y no han saltado ninguna alarma, le encontrarán con sus víctimas de esa noche. Estará sorprendido, pero desde luego no indefenso.
+
+\sp
+
+En caso de hacer saltar la alarma, Alfonse las estará esperando en la zona VIP disfrutando de una víctima, pero sin quitar la vista de la entrada y lo que les rodea. Le pierde el dramatismo y quiere hacerles el numerito del vampiro poderoso.
+
+Has de tener en cuenta si tus cazadoras son conscientes de si han sido o no descubiertas. Pueden encontrarse a Alfonse preparado para defenderse y contraatacar, cuando pensaban que estaría desconcertado y sorprendido.
+
+### Su primer combate
+
+El combate puede ser muy sencillo si le pillan sorprendido y sus armas son eficaces o una pesadilla, si Alfonse está preparado y no tienen las armas adecuadas.
+
+Recuerda que Alfonse tiene su reserva de sangre completa lo que le permite usar todos sus poderes vampíricos a plena potencia.
+
+En este combate es importante que haya mucho diálogo, tiene que tener cierto toque de duelo dialéctico.
+
+Alfonse, si puede, jugará con tus cazadoras, y mientras combate tratará de conseguir información. Nunca se ha enfrentado a cazadoras de vampiros y esto es algo nuevo que puede aprovechar. Si se sale con la suya, puedes darle algún aspecto que pueda usar en la siguiente escena.
+
+Recuerda que no luchará hasta la muerte, no es su estilo, se rendirá si ve que puede llegar a un trato.
+
+\sc
+
+### ¿Qué hacemos con Alfonse?
+
+En este punto de la aventura deberán tomar una decisión importante, matar a Alfonse o aliarse con él. Alfonse está su merced, derrotado en el suelo de la pista de baile VIP, posiblemente con quemaduras de agua de ajo y cortes de cuchillos de plata de la abuela. Está tratando de salvar su vida como solo sabe hacer, negociando y adulando, haciendo tratos que puede que no cumpla, … No es de fiar, pero sabe mucho de este mundo desconocido para tus cazadoras.
+
+#### Acabar con el chupasangre
+
+La solución rápida es darle el «paseo» a Alfonse. Rápido y sencillo. Habría que quedarse con su teléfono y su portátil y poder sacar información útil de ellos para poder seguir cazando vampiros. De estos dispositivos pueden sacar pistas que les permita avanzar en el plan vampírico hacia arriba o hacia los lados en el siguiente capítulo.
+
+Alfonse no es un santo y tus cazadoras no deberían porque sentir piedad por él. Incluso podrían organizar algún tipo de ejecución, rollo abandonarlo a pleno sol, ahogarlo en una bañera de agua con ajo, estacarle el corazón, etc. Las opciones son muchas y si son creativas incluso pueden crear algún aspecto en la comunidad vampírica que puedan explotar.
+
+#### Negociar con el chupasangre
+
+Alfonse es un superviviente de manual y sabe que ahora le toca negociar con unas niñas. Ya sabe que no son unas chicas normales, son unas cazadoras natas. Sin casi experiencia y conocimientos, le han derrotado. Con sus conocimientos y su información pueden acaban con Néstor, su vampiro oldie que le manda, y ocupar su puesto.
+
+\sp
+
+Tendrá que suplicar por su vida, prometer servirlas, firmar algún tipo de trato (que cumplirá o no en el futuro) y ofrecerles algo como prueba de buena voluntad. Esta prueba puede servir de pista que les permita avanzar en el plan vampírico hacia arriba o hacia los lados en el siguiente capítulo.
+ 
+Recuerda que ahora mismo está en inferioridad y que no tiene mucho margen de negociación, además cuando pueda las traicionará y acabará con ellas. Con lo que puede aceptar cualquier cosa que le propongan.
