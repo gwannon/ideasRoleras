@@ -14,6 +14,11 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
+$md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
+  $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
+  return $matches[0];
+}, $md);
+
 //file_put_contents(__DIR__ . "/../todo.md", $md);
 
 $mkd = Markdown::new();

@@ -82,6 +82,10 @@ XXX
 
 XXX
 
+### La noche de los goblins
+
+XXX
+
 \sp
 
 \sinc
@@ -100,11 +104,15 @@ Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas vec
 
 XXX
 
-### La noche de los goblins
+### La caída del Grupo Ceballos
 
 XXX
 
-### La caída del Grupo Ceballos
+#### Pero primero su CTO
+
+XXX
+
+#### Catalina hace lo suyo
 
 XXX
 
@@ -128,7 +136,7 @@ XXX
 
 ## Viva Las Vegas
 
-> Allí estábamos, en medio de un patio inmenso lleno de chatarra buscando a un Lord Vampiro para darle la muerte final que se merecía y esperando un ataque mortal desde cualquier esquina.
+> Allí estábamos, en medio de un patio inmenso lleno de chatarra buscando a un Lord Vampiro para darle la muerte final que se merecía y esperando su ataque mortal desde cualquier esquina.
 
 _NOCHE_
 
@@ -137,32 +145,3 @@ _NOCHE_
 El único lugar un poco seguro ahora mismo para Lord Ceballos es su planta de reciclaje de San Andrés. Se podría esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver más poderoso y rabioso dentro de unos meses o años.
 
 XXX
-
-\sp
-
-\sinc
-
-## Blue Suede Shoes
-
-> La amenaza de Lord Ceballos había sido neutralizada. Qué Narices!!!!! Le habíamos dado una paliza a todos los niveles de la existencia y enviado al infierno de una patada en el culo. Pero y ahora ¿qué? 
-
-\conc
-
-Las aventuras de tus cazadoras, no tienen por qué acabarse con la muerte de Lord Ceballos. Pues tenemos muchas opciones.
-
-* El verano se acerca y pueden ir a alguna ciudad con costa donde tengan que enfrentarse a una nueva conspiración vampírica. Hablamos de yates usados como guaridas vampíricas, amaneceres y atardeceres en la playa, vampiros extranjeros con calcetines y sandalias, …
-* Puede que una vez que su barrio esté limpio y seguro, se muevan a otro barrio y extiendan su territorio de caza.
-* Igual tienen que irse de colonias y campamentos y cerca haya un antiguo castillo propiedad de un viejo conde vampiro.
-* Con el vacío de poder de Lord Ceballos puede que algún otro Lord trate de entrar en el barrio.
-
-Además, podemos meter nuevos elementos que den juego a tus partidas.
-
-* __¿Quién dijo que tus jugadoras eran las__ __únicas cazadoras de vampiros?__ Quizás se encuentren con otras cazadoras como ellas. Pueden que tengan otros métodos de trabajo o su forma de cazar sea radicalmente opuestas y acaben enfrentadas. También pueden encontrarse con un grupo de viejos cazavampiros que las tomen como becarias y que las entrenen.
-* __Tal vez hay otras clases de vampiros.__ Puede que en otras partes los vampiros sean diferentes con diferentes poderes y debilidades. Sé creativo y podrás ofrecerle a tu mesa un nuevo reto completamente original.
-* __¿Y si hay otros no-muertos?__ Si hay vampiros porque no podría haber otros no-muertos. Las posibilidades son muchas. Hablamos de momias que llevan miles de años controlando nuestro mundo, zombis inteligentes devoradores de cerebros, nigromantes que juegan con la muerte y los muertos, …
-
-Y claro tus cazadoras pueden crecer e ir al instituto. Con unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».
-
-Incluso podemos avanzar más y migrar tus personajes a otros juegos como cazadoras de vampiros en __World of Darkness__ o superespías de __Agentes de la noche__.
-
-\sp
