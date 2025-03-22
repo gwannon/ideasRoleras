@@ -71,19 +71,19 @@ Es importante que el momento de inicio del reseteo de cada ninja sea muy cutre. 
 
 También es muy divertido que haya algún tipo de música o canción que marque el reseteo sin necesidad de decirlo. Ponte en el móvil esa canción y cuando quieras hacer un reseteo dale al _Play_. Sería como el «I got you babe» de Sony y Cher en «Atrapado en el tiempo». Si no puedes poner música por lo que sea, usa algún tipo de frase como el «Buenos días, campistas» que haga fácil dar a entender que el día ha vuelto a empezar.
 
-### Locura del viaje en el tiempo
+### Chaladura del viaje en el tiempo
 
-Una vez descubran que están atrapados en el tiempo, cada nuevo reseteo deberán tirar Mente para no caer en la locura del viaje temporal.
+Una vez descubran que están atrapados en el tiempo, cada nuevo reseteo deberán tirar Mente para no caer en la chaladura del viaje temporal.
 
 * Si lo consiguen, no pasará nada.
-* Si lo consiguen a lo cutre, les dará la locura del viaje del tiempo y se pondrán a hacer locuras. Tendrán un -2 a las acciones normales y un +1 a las acciones locas. Por ejemplo, si van con sigilo a matar a un sicario tendrán un -2, si van vestidos de payaso tendrán un +1. Cómo DJ, eliges tú que da bono o penalización.
+* Si lo consiguen a lo cutre, les dará la chaladura del viaje del tiempo y se pondrán a hacer locuras. Tendrán un -2 a las acciones normales y un +1 a las acciones locas. Por ejemplo, si van con sigilo a matar a un sicario tendrán un -2, pero, si van vestidos de payaso, tendrán un +1. Cómo DJ, tú eliges que da bono o penalización.
 * Si fallan, estarán de tal bajón que tendrán un -1 a todas sus tiradas.
 
 ### Aprendiendo de sus errores
 
 Cada nuevo día podrán aprender a hacer perfectamente una tarea, de forma que la próxima vez que tengan que repetirla la harán perfectamente.
 
-Una vez por día, cuando consigan un éxito en una tirada, gastando todas sus fichas (mínimo 1), podrán decir que se han aprendido esa tarea y podrán volver a realizarla el próximo reseteo sin necesidad de tirar dados si son las mismas condiciones o muy similares.
+Una vez por día, cuando consigan un éxito en una tirada, gastando todas sus fichas (mínimo 1), podrán decir que se han aprendido esa tarea y podrán volver a realizarla el próximo reseteo sin necesidad de tirar dados, si se dan las mismas condiciones o muy similares.
 
 ## Ninjas cutres VS Samuráis paletos
 
@@ -101,7 +101,7 @@ Cuando parezca que uno de los dos bandos parezca va a ganar, alguien gritará, b
 
 A partir de ese momento será una batalla de comida y solo podrá usarse comida como arma (valen tus nunchakus de embutido). 
 
-**Samurái paleto:** Cuerpo 4, Mente 1, Bushido 2
+**Samurái paleto:** Cuerpo 4, Mente 2, Bushido 3
 * **Equipo:** Daisho, traje de baturro, cesta de verduras y bota de vino.
 * **El tradicional concurso de lanzamiento a la rana de Alpedrete de Arriba:** Años de entrenamiento jugando y participando en concursos de lanzamiento a la rana, le han hecho un lanzador excepcional y obtiene un +2 cuando lanza cosas con precisión.
 * **La costumbre de perseguir un queso de bola cuestabajo de Villabajo de Más Abajo:** Años de perseguir quesos rodantes colina abajo te da un +2 a correr cuando persigues algo o alguien.
