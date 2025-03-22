@@ -51,3 +51,4 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QAños de perseguir quesos rodantes colina abajo en las fiestas del pueblo te da un +2 a correr cuando persigues algo o alguien.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QAños de perseguir quesos rodantes colina abajo te da un +2 a correr cuando persigues algo o alguien.\\E$"}
 {"rule":"DETRAS_PX","sentence":"^\\QPueden ser usados con armas lanzables (calabacines, melones, etc.) o para distraer a tus enemigos lanzando delante suyo un irresistible chorizo de pueblo.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QEstás chapada a la antigua, hablas como la gente de principios de siglo, con el usted siempre en la boca y con expresiones arcaicas de principios de siglo.\\E$"}

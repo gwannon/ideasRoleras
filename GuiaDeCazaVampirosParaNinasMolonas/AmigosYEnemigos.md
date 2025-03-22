@@ -104,11 +104,14 @@ De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tont
 
 También se ha vuelto muy sensible a los olores molestándole mucho, de hecho, el olor a ajo la repele muchísimo más que al resto de chupasangres y no puede aguantar estar en una habitación con alguien que ha comido ajo o cebolla.
 
+Y si ser el CEO no la estresara lo suficiente, hay que sumarle en que todos creen Nieve será la próxima Lady Vampiresa cuando Ceballos se retire o muera. Eso hace que tenga más poder, pero también más enemigo que quieren su puesto.
+
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
   * **Complicación:** Demasiado estresada
   * Jefe de operaciones del Grupo Ceballos
-  * XXX
+  * Los dato y la planificación aseguran el éxito.
+  * Futura Lady Vampiresa
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Bueno Vigoroso (+2) 
 * **Proezas**
   * XXX
@@ -182,7 +185,9 @@ XXX
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** La intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma y la zalamería. Unas palabras bonitas y aduladoras y tienes a todo el mundo comiendo de tu mano. Para que arrastrar a tus víctimas a tu guarida si puedes engañarles para que entren ellos solos.
+
+
 
 \sp
 
@@ -192,7 +197,7 @@ XXX
 
 \conc
 
-Covadonga es una de las más antiguas siervas de Lord Ceballos y fue de gran ayuda cuando Lord Ceballos quiso independizarse de su creador, Lord Guzmán, y buscarse un territorio donde hincar sus dientes. Sin su ayuda hacia 1900 los planes para conseguir su actual territorio habrían fracasado y seguramente habría acabado muerto. 
+Covadonga es una de las más antiguas siervas de Lord Ceballos y fue de gran ayuda cuando Lord Ceballos quiso independizarse de su creador, Lord Guzmán, y buscarse un territorio donde hincar sus dientes. Sin su ayuda, hacia 1900, los planes para conseguir su actual territorio habrían fracasado y seguramente habría acabado muerto. 
 
 [![Hexerei, Clan Ventrue By IvanValladares](./assests/images/hexerei__clan_ventrue_by_ivanvalladares_duv7i4-375w-2x.jpg "Hexerei, Clan Ventrue By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540 "Hexerei, Clan Ventrue By IvanValladares")
 
@@ -222,7 +227,7 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Estás chapada a la antigua, hablas como la gente de principios de siglo, con el usted siempre en la boca y con expresiones arcaicas de principios de siglo. Siéntete incómoda cuando tengas que relacionarte con gente moderna y extraña que esas estúpidas nuevas tecnologías.
 
 \sinc
 
@@ -230,15 +235,15 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 
 \conc
 
-Néstor es el hombre del saco, ni sus propios compañeros chupasangres quieren estar a su lado. El aura de maldad y de crueldad que emite incomoda incluso a sus propios sirvientes y a su amo Lord Ceballos. XXX
-
-XXX
-
-Néstor es un pederasta que disfruta primero atemorizando, luego torturando y violando a sus víctimas infantiles, para al final acabar con sus vidas drenándoles toda la sangre. Tiene una mazmorra donde pone en práctica todo este ritual sádico y macabro.
+Néstor es el «hombre del saco» del mundo vampírico, ni sus propios compañeros chupasangres quieren estar a su lado. El aura de maldad y de crueldad que emite incomoda incluso a sus propios sirvientes y a su amo Lord Ceballos.
 
 [![Ondolemar doodle By Elleylie](./assests/images/ondolemar_doodle_by_elleylie_d83zx4p-pre.jpg "Ondolemar doodle By Elleylie")](https://www.deviantart.com/elleylie/art/Ondolemar-doodle-490444153 "Ondolemar doodle By Elleylie")
 
+Néstor es un pederasta que disfruta primero atemorizando, luego torturando y violando a sus víctimas infantiles, para, al final, acabar con sus vidas drenándoles toda la sangre. Tiene una mazmorra secreta donde pone en práctica todo este ritual sádico y macabro.
+
 XXX
+
+Es muchos sentidos, es más bestia que persona. Con los años esa bestia ha ido saliendo al exterior y aunque conserva aspecto humano tiene ya algunos rasgos animales incluso en forma crush. Ojos reflectantes como los gatos, colmillos más pronunciados aunque los tenga retraídos, orejas puntiagudas, etc. 
 
 * **Aspectos**
   * **Concepto principal:** Fiel siervo vampiro
@@ -247,16 +252,20 @@ XXX
   * Disfruta del miedo de sus víctimas
   * Hombre del saco
 * **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso Enorme (+4)
+
+\sp
+
 * **Proezas**
-  * XXX
+  * **Acechador:** Es un maestro moviéndose en las sombras, de forma que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.
+  * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de forma que una vez por sesión puede hacer huir de miedo a personajes secundarios. 
+  * **Guerra psicología:** Es un torturador nato y ha podido practicar con decenas de víctimas indefensas, de forma que consigue un +2 a Atacar de forma Ingeniosa a sus torturados.
+  * **Guerra de bandas:** Como jefe de una red de tráfico de drogas conoce muy bien los bajos fondos del barrio, de forma que tiene +2 a Crear ventajas de forma Ingeniosa cuando trata de defender su territorio o atacar en de otras bandas.
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** Has de ser todo lo malvado, cabrón, cruel, sádico y pervertido que puedas, pero no tienes que parecer un loco. Nada de gestos histriónicos ni de gritos sin sentido, siempre calmado y pensando las cosas, nada de ataques repentinos de furia. Simplemente disfruta de hacer el mayor mal posible al mayor número de personas durante el mayor tiempo posible. 
-
-\sp
 
 \sinc
 
