@@ -80,7 +80,19 @@ XXX
 
 \conc
 
+En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de forma diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra forma diferente de afrontar el problema que suponen tus cazadoras.
+
 XXX
+
+### La casita de chocolate
+
+__NOCHE__
+
+Néstor fallo estrepitosamente y Lord Ceballos busca resultados, así que Eloise va a plantear otra estrategia. Va a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
+
+Lord Ceballos quiere acabar con los asesinos de Néstor, pero no quiere que sus mejores siervos se distraigan de su plan que ya ha sufrido importantes retrasos. 
+
+Por eso, va a darle la oportunidad que Eloise lleva años pidiéndole. Quizás sea algo más que una cara bonita.
 
 ### La noche de los goblins
 
@@ -96,19 +108,11 @@ XXX
 
 \conc
 
-XXX
-
-### La casita de chocolate
-
-Los sicarios tienen que llevarle algo a su señor, ya han fallado demasiadas veces. Van a montar una «casita de chocolates» para atrapar a las cazadoras, algo que no se puedan resistir.
+Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe que eso permitiŕa a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
 
 XXX
 
 ### La caída del Grupo Ceballos
-
-XXX
-
-#### Pero primero su CTO
 
 XXX
 
@@ -118,13 +122,21 @@ XXX
 
 #### Las guardaespaldas de Catalina
 
+Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante 48 horas hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
+
 XXX
 
 #### Catalina hace lo suyo
 
 XXX
 
-\sc
+### Y después su CTO
+
+Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
+
+XXX
+
+Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus cazadoras la han estudiado es facil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
 
 \sp
 

@@ -6,7 +6,7 @@ Los vampiros, nosferatus, chupasangres, sanguijuelas, … han estado desde siemp
 
 Ahora veamos como son, de donde vienen y lo que es más importantes como devolverlos al infierno del que salieron reptando.
 
-## De dónde vienen?
+## ¿De dónde vienen?
 
 \conc
 
@@ -29,7 +29,7 @@ Estas son las que veo más probables:
 
 \sinc
 
-## Cómo son?
+## ¿Cómo son?
 
 De normal son guapos a rabiar en lo que he denominado su forma _Crush_. Son seductores, tienen voz de K-Poper y se mueven también como ellos. Puedes de cualquier forma no hay un patrón, pero siempre están más pálidos de lo normal y no suelen tener casi bello corporal y es fácil detectarlo, porque son muy dados a enseñar cacho.
 
@@ -89,7 +89,7 @@ Una víctima de vampirismo suele presentar unos síntomas básicos muy parecidos
 
 Si la víctima no se aleja del vampiro, yéndose, por ejemplo, a otra ciudad, o el vampiro muere (cosas de la que tú deberías encargarte), terminará muriendo por alguna enfermedad común agravada por su anemia vampírica. 
 
-Si muere, el vampiro o sus sirvientes se encargarán de dejar pruebas que expliquen su muerte, desde drogas escondidas en su cuarto a pruebas de una TCA. Son extremadamente creativos en esta mierda y sé que disfrutan mucho con esta parte. PUTOS VAMPIROS!!!!
+Si muere, el vampiro o sus sirvientes se encargarán de dejar pruebas que expliquen su muerte, desde drogas escondidas en su cuarto a pruebas de una TCA. Son extremadamente creativos en esta mierda y sé que disfrutan mucho con esta parte. ¡¡¡¡PUTOS VAMPIROS!!!!
 
 Los vampiros suelen morder en cuello y muñecas, por lo que deberías buscar principalmente en esos sitios marcas de mordiscos. Las muñequeras de pinchos y los chokers de cuero son una buena protección, porque cubren esas 2 zonas.
 
@@ -99,7 +99,7 @@ Sabiendo todo lo anterior es fácil deducir que sus territorios predilectos de c
 
 Si es lo suficientemente rico y poderoso, deja de cazar y simplemente espera en su mansión a sus sirvientes le traigan víctimas que desangrar. Aun así cada cierto tiempo, sienten la necesidad de salir a cazar solos. Les gusta la emoción de la caza y perseguir a su presa. Ese es un buen momento para acabar con las sanguijuelas que están más protegidas.
 
-### Puedes consumir sangre de vampiro?
+### ¿Puedes consumir sangre de vampiro?
 
 Puedes, otra cosa es que debas. Beber sangre de vampiro te da superpoderes a lo Capitana Marvel, eres más fuerte, más rápida, más resistente y puedes flotar. El efecto dura unos minutos donde te sientes la leche.
 
@@ -129,7 +129,7 @@ Hay una serie de creencias populares sobre los vampiros que he podido que no son
 
 \sinc
 
-## Dónde duermen?
+## ¿Dónde duermen?
 
 \conc
 
@@ -185,7 +185,7 @@ Pasarte por las obras de los pisos como los jubilados y dar un vistazo a las lic
 
 \sinc
 
-## Cómo matarlos?
+## ¿Cómo matarlos?
 
 La verdad que para ser seres inmortales y superpoderosos, los vampiros tienen muchas debilidades muy estúpidas que debes aprender a aprovechar si quieres durar muchos años como cazadora.
 
@@ -257,7 +257,7 @@ Las balas de plata serían realmente útiles, pero las menores no tenemos acceso
 
 \sp
 
-> Las cosas bañadas en plata son tan útiles como si fueran de plata y MUCHO MÁS BARATAS!!!!!
+> Las cosas bañadas en plata son tan útiles como si fueran de plata y ¡¡¡¡¡MUCHO MÁS BARATAS!!!!!
 
 Las películas viejas de los abus, esas que son como de cine, están hechas de plata y son geniales para inmovilizar vampiros, son como las bridas que usa la policía para detener mucha gente en las manifas.
 
@@ -297,9 +297,9 @@ Los vampiros tienen una estructura social basada en su poder y antigüedad. Esta
 
 Los de arriba mandan sobre los de abajo y los de abajo cuando pueden acaban con el de arriba y toman su sitio. Aquí nadie se jubila y se va a vivir a la playa LOL así que la única forma de ascender es cargándote a tu jefe (uno de los sueños de mi madre).
 
-__Puedes asociarte con un vampiro para cargarte a otro?__ Puedes, pero ten claro que la siguiente en su lista serás tú.
+__¿Puedes asociarte con un vampiro para cargarte a otro?__ Puedes, pero ten claro que la siguiente en su lista serás tú.
 
-__Intentarán comerte el tarro para que los dejes vivos y vayas a por su jefe?__ Lo intentarán siempre y no te extrañe que dejen pistas falsas que lleven a otro vampiro al que quieren cargarse.
+__¿Intentarán comerte el tarro para que los dejes vivos y vayas a por su jefe?__ Lo intentarán siempre y no te extrañe que dejen pistas falsas que lleven a otro vampiro al que quieren cargarse.
 
 [![Composición del concepto de verdad en un escritorio de detective by freepik](./assests/images/2149051319.jpg "Composición del concepto de verdad en un escritorio de detective by freepik")](https://www.freepik.es/foto-gratis/composicion-concepto-verdad-escritorio-detective_16691262.htm "Composición del concepto de verdad en un escritorio de detective by freepik")
 
@@ -350,7 +350,7 @@ Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barri
 
 [![Vampire Street Art Sticker by Worley Gig](./assests/images/image15.jpg "Vampire Street Art Sticker by Worley Gig")](https://worleygig.com/2013/10/01/vampire-street-art-sticker/ "CVampire Street Art Sticker by Worley Gig")
 
-### Cómo frustrar sus planes?
+### ¿Cómo frustrar sus planes?
 
 La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
 
@@ -390,7 +390,7 @@ Que su gran plan falle es malo para el ego de un Lord Vampiro. Que falle porque 
 
 \sinc
 
-## Cómo puedes defenderte de ellos?
+## ¿Cómo puedes defenderte de ellos?
 
 No solo debes acabar con los vampiros y frustrar sus planes, es importante salir viva y a poder sin recibir daño. Es por ello que debes saber como defenderte de esas malditas sanguijuelas.
 
@@ -438,7 +438,7 @@ La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un
 
 Aparte, quedas muy fachera y recuerda que el estilo está por encima de la sustance.
 
-### Aliados?
+### ¿Aliados?
 
 TUS AMIGAS. No hay más.
 
@@ -446,7 +446,7 @@ TUS AMIGAS. No hay más.
 
 \sinc
 
-## Cómo se defienden?
+## ¿Cómo se defienden?
 
 Se defiende de nosotras de dos formas bien diferenciadas. Primero descrédito social y si eso falla pasan a lo físico.
 
@@ -540,7 +540,7 @@ La verdad que lo mejor es engañarlos, es muchísimo más fácil que enfrentarse
 
 \sinc
 
-## Y si me convierto en vampiro?
+## ¿Y si me convierto en vampiro?
 
 Pues estás jodida y no hay mucho que hacer. Tus sistars deberían darte una muerte digna para recordarte cuando todavía no eras una asquerosa sanguijuela asesina.
 
@@ -548,7 +548,7 @@ Si estás sola, antes de caer, búscate un final que esos cabrones no olviden ja
 
 \conc
 
-### Cómo te transformas en vampiro?
+### ¿Cómo te transformas en vampiro?
 
 Para acabar convertida en un vampiro es importante saber cómo es ese proceso.
 

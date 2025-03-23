@@ -105,13 +105,13 @@ De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tont
 
 También se ha vuelto muy sensible a los olores molestándole mucho, de hecho, el olor a ajo la repele muchísimo más que al resto de chupasangres y no puede aguantar estar en una habitación con alguien que ha comido ajo o cebolla.
 
-Y si ser el CEO no la estresara lo suficiente, hay que sumarle en que todos creen Nieve será la próxima Lady Vampiresa cuando Ceballos se retire o muera. Eso hace que tenga más poder, pero también más enemigo que quieren su puesto.
+Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos creen Nieve será la próxima Lady Vampiresa cuando Ceballos se retire o muera. Eso hace que tenga más poder, pero también más enemigo que quieren su puesto.
 
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
   * **Complicación:** Demasiado estresada
-  * Jefe de operaciones del Grupo Ceballos
-  * Los dato y la planificación aseguran el éxito.
+  * Jefe de operaciones (CTO) del Grupo Ceballos
+  * Los datos y la planificación aseguran el éxito.
   * Futura Lady Vampiresa
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Bueno Vigoroso (+2) 
 * **Proezas**
@@ -204,8 +204,6 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
 
 **Sugerencia de interpretación:** La intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma y la zalamería. Unas palabras bonitas y aduladoras y tienes a todo el mundo comiendo de tu mano. Para que arrastrar a tus víctimas a tu guarida si puedes engañarles para que entren ellos solos.
 
-
-
 \sp
 
 \sinc
@@ -232,12 +230,13 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
   * Pensamiento fuera de la caja
   * Los viejos métodos son los mejores
   * Más sabe el diablo por viejo que por diablo
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido Enorme (+4), Vigoroso Enorme (+4)
+* **Estilos:** Cauto (+4), Furtivo (X), Ingenioso (+2), Llamativo (+2), Rápido Enorme (+4), Vigoroso Enorme (+3)
 
 \sp
 
 * **Proezas**
   * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
+  * **Viejos métodos:** su forma de actuar son métodos viejos, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
   * XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
