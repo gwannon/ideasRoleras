@@ -15,7 +15,7 @@ Pues tras muchos meses de estudio no he podido encontrar una respuesta clara. Ha
 Estas son las que veo más probables:
 
 * **Maldición:** hay varias opciones en cuanto a su época, ~~mesopotopomica~~ mesopotámica, egipcia o etrusca y casi siempre tiene toque bíblico, donde castiga con el vampirismo a un malo malísimo.
-* **Siervos de la Muerte:** otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chaval o Hades el-machista-secuestra-persefones. Esto explicaría por qué la luz del día los mata.
+* **Siervos de la Muerte:** otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chacal o Hades el-machista-secuestra-persefones. Esto explicaría por qué la luz del día los mata.
 * **Aliens:** los vampiros no son de este mundo, vienen del espacio exterior y por eso son tan diferentes a nosotros los humanos. La teoría de los astronautas vampiros ancestrales está muy de moda y pueden escuchar más en muchos de los podcasts que lo tratan.
 * **Mutación/enfermedad:** puede que sean producto de una mutación o enfermedad como en Blade. Igual al principio solo bebían sangre humana por vicio, como mis padres con las morcillas del pueblo, y terminaron cogiendo algo chungo. Casarse entre primos también puede hacer esas cosas, o eso dice mi padre cuando sale el Rey en la tele.
 
@@ -576,7 +576,7 @@ Este listado es abierto. Si conoces algún buen libro o peli, mándamelo a mis r
 
 ### Libros
 
-* **Drácula de Bram Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el 7° mandamiento de la cazavampira molona.
+* **Drácula de Bram Stoker.** PEC El libro texto básico que es recomendable releer cada poco. Recuerda el séptimo mandamiento de la cazavampira molona.
 * **Carmilla de Joseph Sheridan Le Fanu.** PEC Difícil de encontrar y muy corto, necesito una segunda parte ya.
 
 ### Películas

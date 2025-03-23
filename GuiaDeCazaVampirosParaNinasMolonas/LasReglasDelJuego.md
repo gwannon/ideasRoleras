@@ -48,7 +48,7 @@ Alguno de los aspectos de una cazadora podría estar relacionado con su forma de
 
 Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
 
-[![Vampire -edited- By Valentinepsycho](./assests/images/vampire__edited__by_valentinepsycho_d1bspx0-414w-2x.jpg "Vampire -edited- By Valentinepsycho")](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908 "Vampire -edited- By Valentinepsycho")
+[![Vampire —edited— By Valentinepsycho](./assests/images/vampire__edited__by_valentinepsycho_d1bspx0-414w-2x.jpg "Vampire -edited- By Valentinepsycho")](https://www.deviantart.com/valentinepsycho/art/Vampire-edited-80281908 "Vampire -edited- By Valentinepsycho")
 
 Ser buena en matemáticas puede ayudarte a revisar un libro de cuentas y encontrar en que gastan los vampiros su dinero, mientras que ser una máquina en Lengua te permita entender y descifrar el código secreto que usan las sanguijuelas para encriptar sus mensajes. 
 
@@ -318,7 +318,7 @@ A nivel de juego puedes usar unas tarjetas que encontrarás en el Epílogo para 
 
 \sinc
 
-## Entrada y salida de las cazas
+## Entrada y salida durante las cazas
 
 \conc
 
@@ -326,14 +326,14 @@ A nivel de juego puedes usar unas tarjetas que encontrarás en el Epílogo para 
 
 Uno de los grandes problemas cuando eres menor de edad es que no eres totalmente autónoma y estás a expensas de sus padres. Así que muchas veces no vas a poder acudir a las cazas programadas por la panda. El día a día te come, así que si durante alguna ronda de vigilancia una cazavampiros no puede asistir, es una putada, pero es entendible. Todas tenemos nuestros compromisos fuera de la actividad cazavampiros.
 
-No es la primera vez que estando de caza, persiguiendo a un esquivo vampiro, he tenido que desaparecer y dejar colgada a mis amigas porque mis padres me habían puesto un toque de queda. Queda raro mirar el reloj y tener que decirles a mis sistars "Mierda chica, me voy. Llego tarde a la cena de cumpleaños del tonto de mi hermano".
+No es la primera vez que estando de caza, persiguiendo a un esquivo vampiro, he tenido que desaparecer y dejar colgada a mis amigas porque mis padres me habían puesto un toque de queda. Queda raro mirar el reloj y tener que decirles a mis sistars «Mierda chica, me voy. Llego tarde a la cena de cumpleaños del tonto de mi hermano».
 
 Para que las tengas controladas, estas son muchas de las situaciones en las que te verás obligada a abandonar a tus compañeras:
 
-* Toque de queda de los padres por malas notas, por saltarse clases, por contestar descaradamente, ...
-* Compromisos familiares entre los que podemos tener abuelos enfermos, entierros, reuniones familiares como bodas, bautizos y comuniones, ...
+* Toque de queda de los padres por malas notas, por saltarse clases, por contestar descaradamente, …
+* Compromisos familiares entre los que podemos tener abuelos enfermos, entierros, reuniones familiares como bodas, bautizos y comuniones, …
 * Actividades familiares como fin de semana en el pueblo, vacaciones, celebraciones de cumpleaños, cenas familiares periódicas como noche de pizza, 
-* Actividades religiosas como misas de los domingos oraciones, Ramadán, Semana Santa, catequesis, ...
+* Actividades religiosas como misas de los domingos oraciones, Ramadán, Semana Santa, catequesis, …
 
 \sp
 

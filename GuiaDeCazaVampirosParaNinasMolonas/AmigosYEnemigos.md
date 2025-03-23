@@ -22,6 +22,7 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
   * Todo el mundo me debe un favor
   * CEO de la megacorporación Grupo Ceballos
   * Difícil de matar
+  * Nunca rompe una promesa
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * XXX
@@ -171,15 +172,31 @@ Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que deco
 
 XXX
 
+Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans. Se hace llamar Celose y evita toda estética gótica, pero conserva su carisma y elegancia. La mayor parte de sus followers no les importa lo que dice, solo la siguen por como lo dice.
+
+Celose tiene que hacer toda esta actividad a escondidas e incluso se ha alquilado un piso secreto desde donde hace sus directos hablando de sus cosas, comentando desde noticias de política internacional a outfits de la alfombra roja. 
+
+Curiosamente, para ser vampira es una excelente chef con mucho gusto para hacer cocina humana con la que encandilar a sus objetivos. Sabe también de vinos y de protocolo en la mesa y puede organizar eventos sociales con mucho éxito. De hecho, esto último, es de las pocas cosas que Lord Ceballos sobre las que la deja hacer y deshacer a su gusto.
+
+Todo este tema de la cocina hizo que empezara a buscar vídeos en internet y que terminará enganchada a las redes con sus propios canales y, de hecho, las recetas, los modales en la mesa, los concursos de cocina y las críticas culinarias suponen muchas horas de sus directos.
+
+El problema de Eloise con las cazadoras es que fuera de sus poderes vampíricos no puede ejercer ningún tipo de control con las cazadoras, a priori toda su sensualidad y carisma no sirven de nada contra ellas. Quizás si alguien de tu mesa decide tener un «crush» con ella, podría usar sus habilidades, pero ella activamente no debería poder seducir y manipularlas.
+
+Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras vías. En vez de ser la mujer que desean, deberá presentarse como la mujer que desean ser cuando crezcan.
+
+\sp
+
 * **Aspectos**
   * **Concepto principal:** Súcubo vampiro
   * **Complicación:** Lujuria
   * Mirada hipnótica
-  * XXX
+  * Una mente para los negocios y un cuerpo para el pecado
+  * Excelente chef
 * **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo Enorme (+4), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
-  * XXX
+  * **Rubia tonta:** Con los años aprendido a hacerse la «guapa, pero tonta» y obtiene +2 para Crear una ventaja en modo ingenioso cuando finge ser tonta, excéntrica, caprichosa o coqueta.
+  * **Influencer in progress:** Eloise pasa mucho tiempo en redes y empieza a ser conocida en redes, de forma que obtiene un +2 a Crear una ventaja en modo Llamativo cuando está un evento y puede poner mensajes en las redes.
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6

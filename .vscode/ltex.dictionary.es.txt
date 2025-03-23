@@ -513,3 +513,5 @@ lanzable
 shuriken
 tomatina
 Hanabi
+Celose
+Gig
