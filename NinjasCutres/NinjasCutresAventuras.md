@@ -47,13 +47,13 @@ Tus Ninjas reciben el encargo de Adam por su web de Facebook donde colocan sus v
 
 El retiro de yoga se hace en un cure gimnasio de barrio donde los alumnos harán yoga, ayuno y dormirán en sus esterillas. Sería una misión sencilla si no fuera porque la maestra de yoga es una superninja que ha fusionado el Ninjutsu con el Yoga y puede hacer todo lo que quiera. Si consiguen derrotarla podrán, buscar los móviles.
 
-Los móviles se encuentran apagados en una caja de cartón en el despacho de la monitora de yoga. El problema vendrá si no saben cómo es el móvil y si lo saben hay un montón iguales. Cuando tengan la caja, tómate un momento y pregúntales: «¿Alguien sabe cuál es el móvil que necesitáis?»
+Los móviles se encuentran apagados en una caja de cartón en el despacho de la monitora de yoga. El problema vendrá si no saben cómo es el móvil y si lo saben hay un montón igual. Cuando tengan la caja, tómate un momento y pregúntales: «¿Alguien sabe cuál es el móvil que necesitáis?»
 
 Las opciones son varias, desde robar todos, lo cual sería una misión fallida, hasta encenderlos y probar todos. Pueden tratar de usar su mente para ver cuál podría ser el del ex de Adam. Si tratan de contactar con Adam por la web de Facebook no contestará.
 
 **Superninja:** Cuerpo 4, Mente 4, Ninjutsu 4
 * **Equipo:** Pantalones de yoga, camiseta blanca e incienso que puede usar como el extintor.
-* No tiene infinitas técnicas ninjas que puede usar en todas las situaciones, simplemente invéntate un nombre chulo y la acción que hará está bonificada.
+* Tiene infinitas técnicas ninjas que puede usar en todas las situaciones, simplemente invéntate un nombre chulo y la acción que vaya a ejecutar estará bonificada.
 
 ### Misión completada
 
