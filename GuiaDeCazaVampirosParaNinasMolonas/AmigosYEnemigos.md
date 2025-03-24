@@ -23,7 +23,7 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
   * CEO de la megacorporación Grupo Ceballos
   * Difícil de matar
   * Nunca rompe una promesa
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto Enorme (+4), Furtivo Normal (+1), Ingenioso Enorme (+4), Llamativo Enorme (+4), Rápido Excelente (+5), Vigoroso Excelente (+5) 
 * **Proezas**
   * XXX
 * **Capacidad de recuperación:** X
@@ -99,6 +99,8 @@ XXX
 
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
 
+&nbsp;
+
 Como Jefa de operaciones de una gran corporación sufre bastante estrés. El estrés en los vampiros no funciona igual que en los humanos, ya que la parte física no se ve muy afectada por el estrés. Sus cuerpos ya están muertos y no sufren muchos cambios. Así que el efecto en su psique es el doble de grave. 
 
 De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tonterías, pero se ha dejado a veces a víctimas vivas o muertas en el capó del coche durante horas y días.
@@ -113,7 +115,7 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
   * Jefe de operaciones (CTO) del Grupo Ceballos
   * Los datos y la planificación aseguran el éxito.
   * Futura Lady Vampiresa
-* **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Bueno Vigoroso (+2) 
+* **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Bueno (+2) 
 * **Proezas**
   * XXX
 * **Capacidad de recuperación:** 3
@@ -131,13 +133,23 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
 
 \conc
 
-XXX
+Tito es el fiel guardaespaldas de Lord Ceballos. Cualquiera pensaría que el guardaespaldas de un poderoso vampiro sería otro vampiro, pero la verdad es eso solo recalcaría las debilidades de los vampiros, mientras que teniendo un humano como protector, este puede protegerte de día cuando eres más vulnerable.
 
 [![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
 
-XXX
+&nbsp;
 
-Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años.
+Tito lleva más de 10 años sirviendo a su señor como jefe de seguridad. Es un fiel perro guardián, fiel y sacrificado, que dará su vida por su amo sin pensárselo ni un segundo.
+
+Empieza a ser mayor para la lucha directa, pero aún puede derribarte antes de que te des cuenta y ha aprendido con los años todo lo necesario para ser un excelente guardaespaldas.
+
+También ha mejorado su modo de ser y su educación de ser un descerebrado gritón y bravucón sin modales a ser un tipo discreto, callado y observador al que no se le escapa nada.
+
+Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
+
+Lord Ceballos lo atrajo y lo convirtió en su siervo dándole de beber de su sangre para que fuera más fuerte en los combates de MMA. Cuando se empezó a hablar de dopaje en sus peleas y le acusaron de violencia deportiva, abandonó la lucha profesional. Lo curioso es que todos en el mundillo del MMA sabían que se dopaba, pero ningún médico o laboratorio supo como lo hacía. 
+
+A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entregándose en cuerpo y alma.
 
 * **Aspectos**
   * **Concepto principal:** Siervo protector de Lord Ceballos
@@ -145,18 +157,20 @@ Tito tuvo una breve carrera en el circuito de MMA y fue expulsado por varios act
   * Experto en MMA
   * Cara de póker
   * Planificador
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto Bueno (+2), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
+
+\sp
+
 * **Proezas**
   * **Luchador de suelo:** Debido a su experiencia como combatiente de MMA, gana un +2 para Atacar en modo Vigoroso cuando forcejea con su enemigo en el suelo.
   * **Wheelman:** Debido a que es un conductor excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando conduce un vehículo terrestre.
-  * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir corriendo detrás de él. 
+  * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir facilmente corriendo detrás de él. 
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 **Sugerencia de interpretación:** Cruza los brazos sobre el pecho y no hables. Usa solo lenguaje corporal, asiente o niega con la cabeza en las manos, mira aviesamente, encoge los hombros. Solo deberías hablar para dar órdenes claras y precisas.
 
-\sp
 
 \sinc
 
@@ -176,6 +190,8 @@ Una cosa que guarda en secreto para el resto de vampiros es que le encantan las 
 
 Celose tiene que hacer toda esta actividad a escondidas e incluso se ha alquilado un piso secreto desde donde hace sus directos hablando de sus cosas, comentando desde noticias de política internacional a outfits de la alfombra roja. 
 
+\sp
+
 Curiosamente, para ser vampira es una excelente chef con mucho gusto para hacer cocina humana con la que encandilar a sus objetivos. Sabe también de vinos y de protocolo en la mesa y puede organizar eventos sociales con mucho éxito. De hecho, esto último, es de las pocas cosas que Lord Ceballos sobre las que la deja hacer y deshacer a su gusto.
 
 Todo este tema de la cocina hizo que empezara a buscar vídeos en internet y que terminará enganchada a las redes con sus propios canales y, de hecho, las recetas, los modales en la mesa, los concursos de cocina y las críticas culinarias suponen muchas horas de sus directos.
@@ -184,15 +200,13 @@ El problema de Eloise con las cazadoras es que fuera de sus poderes vampíricos 
 
 Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras vías. En vez de ser la mujer que desean, deberá presentarse como la mujer que desean ser cuando crezcan.
 
-\sp
-
 * **Aspectos**
   * **Concepto principal:** Súcubo vampiro
   * **Complicación:** Lujuria
   * Mirada hipnótica
   * Una mente para los negocios y un cuerpo para el pecado
   * Excelente chef
-* **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo Enorme (+4), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto Grande (+3), Furtivo Grande (+3), Ingenioso Grande (+3), Llamativo Grande (+3), Rápido Grande (+3), Vigoroso Grande (+3) 
 * **Proezas**
   * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Rubia tonta:** Con los años aprendido a hacerse la «guapa, pero tonta» y obtiene +2 para Crear una ventaja en modo ingenioso cuando finge ser tonta, excéntrica, caprichosa o coqueta.
@@ -230,7 +244,7 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
   * Pensamiento fuera de la caja
   * Los viejos métodos son los mejores
   * Más sabe el diablo por viejo que por diablo
-* **Estilos:** Cauto (+4), Furtivo (X), Ingenioso (+2), Llamativo (+2), Rápido Enorme (+4), Vigoroso Enorme (+3)
+* **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Grande (+3)
 
 \sp
 
@@ -243,7 +257,7 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** Estás chapada a la antigua, hablas como la gente de principios de siglo, con el usted siempre en la boca y con expresiones arcaicas de principios de siglo. Siéntete incómoda cuando tengas que relacionarte con gente moderna y extraña que esas estúpidas nuevas tecnologías.
+**Sugerencia de interpretación:** Estás chapada a la antigua, hablas como la gente de principios de siglo, con el «usted» siempre en la boca y con expresiones arcaicas del 1900. Siéntete incómoda cuando tengas que relacionarte con gente moderna y extraña que esas estúpidas nuevas tecnologías.
 
 \sinc
 
@@ -257,9 +271,13 @@ Néstor es el «hombre del saco» del mundo vampírico, ni sus propios compañer
 
 Néstor es un pederasta que disfruta primero atemorizando, luego torturando y violando a sus víctimas infantiles, para, al final, acabar con sus vidas drenándoles toda la sangre. Tiene una mazmorra secreta donde pone en práctica todo este ritual sádico y macabro.
 
-XXX
+Sabe mantener encerrados sus demonios mientras está gente normal, aunque a la mayoría de la gente (humanos y vampiro) su instinto primitivo de conservación le dice que se aleje de Néstor. Cuando está solo con sus presas estos salen y hacen lo que quieren sin ningún tipo de línea que no vayan a traspasar.
 
 Es muchos sentidos, es más bestia que persona. Con los años esa bestia ha ido saliendo al exterior y aunque conserva aspecto humano tiene ya algunos rasgos animales incluso en forma crush. Ojos reflectantes como los gatos, colmillos más pronunciados aunque los tenga retraídos, orejas puntiagudas, etc. 
+
+\sp
+
+Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará en la partida es que sabe que es un monstruo y no trata de reprimirlo, ni tratará de pedir perdón, ni de arrepentirse. Nunca bajo ningún concepto se arrepentirá de lo que ha hecho, sino que siempre estará orgulloso de ello, aunque este frente a la muerte definitiva cuando salga el sol (la forma más dolorosa de morir para un vampiro).
 
 * **Aspectos**
   * **Concepto principal:** Fiel siervo vampiro
@@ -267,10 +285,7 @@ Es muchos sentidos, es más bestia que persona. Con los años esa bestia ha ido 
   * Ningún tipo de escrúpulos
   * Disfruta del miedo de sus víctimas
   * Hombre del saco
-* **Estilos:** Cauto (X), Furtivo Enorme (+4), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso Enorme (+4)
-
-\sp
-
+* **Estilos:** Cauto Mediocre (0), Furtivo Enorme (+4), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Enorme (+4)
 * **Proezas**
   * **Acechador:** Es un maestro moviéndose en las sombras, de forma que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.
   * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de forma que una vez por sesión puede hacer huir de miedo a personajes secundarios. 

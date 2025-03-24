@@ -12,7 +12,7 @@ Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instit
 
 ### Decálogo de la cazavampiros
 
-1. **Acabarás con los vampiros** donde se alimenten y duerman. Caza y mata durante el día, ataca y mata cuando sean más débiles.
+1. **Acabarás con los vampiros** donde se alimenten y duerman. Investiga y busca durante el día, ataca y mata de noche.
 2. **Siempre tienen un plan** y si no lo has descubierto es que no has investigado lo suficiente.
 3. Si alguien es mordido por un vampiro, **se convertirá en vampiro y deberás eliminarlo**. A veces será duro porque pueden ser amigas o familiares, pero ya no son humanas, solo sanguijuelas.
 4. **No tengas un crush por un vampiro, vampira, vampire** por guapo que sea. No te quiere a ti, solo tu sangre fresca.
