@@ -164,13 +164,12 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
 * **Proezas**
   * **Luchador de suelo:** Debido a su experiencia como combatiente de MMA, gana un +2 para Atacar en modo Vigoroso cuando forcejea con su enemigo en el suelo.
   * **Wheelman:** Debido a que es un conductor excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando conduce un vehículo terrestre.
-  * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir facilmente corriendo detrás de él. 
+  * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir fácilmente corriendo detrás de él. 
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 **Sugerencia de interpretación:** Cruza los brazos sobre el pecho y no hables. Usa solo lenguaje corporal, asiente o niega con la cabeza en las manos, mira aviesamente, encoge los hombros. Solo deberías hablar para dar órdenes claras y precisas.
-
 
 \sinc
 
@@ -184,13 +183,17 @@ Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus 
 
 Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que decora su guarida.
 
-XXX
+Lord Ceballos la convirtió hacia mediados de los 80, de hecho compro la agencia de modelaje donde trabajaba y la hacía trabajar de azafata en sus eventos. Descubrió que si negociaba con ella cerca sus competidores estaban más distraídos y vio que el escultural cuerpo de Eloise podía mejorarse con las capacidades vampíricas que podía otorgarle.
 
-Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans. Se hace llamar Celose y evita toda estética gótica, pero conserva su carisma y elegancia. La mayor parte de sus followers no les importa lo que dice, solo la siguen por como lo dice.
+A diferencia de otros siervos vampíricos, le pidió permiso y le explico las ventajas, que no los inconvenientes. Eloise aceptó y ese es un error del que se arrepiente todas las noches.
 
-Celose tiene que hacer toda esta actividad a escondidas e incluso se ha alquilado un piso secreto desde donde hace sus directos hablando de sus cosas, comentando desde noticias de política internacional a outfits de la alfombra roja. 
+Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans.
 
 \sp
+
+Se hace llamar Celose y evita toda estética gótica, pero conserva su carisma y elegancia. La mayor parte de sus followers no les importa lo que dice, solo la siguen por como lo dice.
+
+Celose tiene que hacer toda esta actividad a escondidas e incluso se ha alquilado un piso secreto desde donde hace sus directos hablando de sus cosas, comentando desde noticias de política internacional a outfits de la alfombra roja. 
 
 Curiosamente, para ser vampira es una excelente chef con mucho gusto para hacer cocina humana con la que encandilar a sus objetivos. Sabe también de vinos y de protocolo en la mesa y puede organizar eventos sociales con mucho éxito. De hecho, esto último, es de las pocas cosas que Lord Ceballos sobre las que la deja hacer y deshacer a su gusto.
 
