@@ -519,3 +519,10 @@ NoDerivs
 urbex
 permitiŕa
 matagigantes
+Monstruonomicon
+Dragonbane
+Dian
+Fossey
+Kobolds
+gnolls
+cocatriz

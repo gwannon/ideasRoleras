@@ -416,7 +416,13 @@ Puede ser un mago con un acertijo y te fríe a bolas de fuego si fallas o un coc
 
 Pero también puede salir un vendedor de tablones que te los vende para hacerte tu propio puente o un troll que te desafía a un concurso de karaoke.
 
-\sc
+### Bestiarios
+
+Hay varios Bestiarios que usan el tropo de un zoólogo o un cazador de monstruos que escribe un libro con sus aventuras con los monstruos, como el Monstruonomicon de Reinos de hierro, el Zoo imperial de Warhammer o el Bestiario de Dragonbane.
+
+Se le podría dar una vuelta y convertirlos en una revista científica donde cada artículo trata de una bestia. Los artículos serían cada uno de un autor y tendrían el rollo Dian Fossey entre gorilas, con títulos como «Mi vida entre Kobolds» «De los gnolls de montaña». Además, como existe la magia, pues queda creíble porque te polimorfas en lo que sea.
+
+Otra opción es que tuvieran un toque youtuber descerebrado/Cazadores de mitos que prueba leyendas y mitos de las bestias. En plan veamos si realmente la cocatriz tiene poderes petrificantes y pone delante de una cocatriz un goblin con algún tipo de equipo de protección mágica casera a ver si le petrifica. O se pregunta cuánto salta un troll y monta algún tipo de estúpida trampa que obliga a un troll a saltar.
 
 \sp
 
