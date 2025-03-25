@@ -228,6 +228,15 @@ Aquí tienes un listado de jerga más común.
 * **Tryhardear:** No rendirse.
 * **Ubícate:** Si alguien te lo dice, quiere decir que te pongas al día de algo que está pasando ahora mismo.
 
+## Referencias
+
+Aquí tienes algunos posts, películas, libros y comics que te pueden ayudar a dar el tono:
+
+* [Jugando al escondite con el vampiro](https://www.agenteprovocador.es/publicaciones/caza-vampiro-y6gk4) sobre un hecho real de niños enfrentándose a un supuesto vampiro ocurrido en Glasgow en los años 50.
+* El comic [Soy una matagigantes](https://www.astiberri.com/products/soy-una-matagigantes) y versión en película vemos a una niña luchando contra gigantes reales e imaginarios.
+* En la película de Noche de miedo (y su remake de 2012) no son niños, sino más bien adolescentes, pero refleja el rollo de que nadie te crea.
+
+
 \sp
 
 ## Notas
