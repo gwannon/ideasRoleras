@@ -95,7 +95,9 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
 
 \conc
 
-XXX
+Nieve es la última persona a la que ha convertido en Lord Ceballos en vampiro. Lo hizo a principio de los 2000 cuando Nieves, ascendía vertiginosamente por las empresas del grupo Ceballos. En cuanto se convirtió en CTO de una de sus empresas auxiliares más importantes entró en su radar y aunque no la vio al principio como buena candidata para sucederle, si detectó que tenía madera de ser una gran vampira y una muy buena mano derecha.
+
+La convirtió en vampira durante una convención de empresas del grupo (y paso a llamarse Nieve) y la ascendió a ayudante de su CTO en aquellos tiempos. Con el tiempo aprendió todo lo necesario para llevar al grupo empresarial y hacer realidad los planes que el Ceballos tenía en mente. Para 2010 había acabado con su jefe y se había convertido en la nueva CTO del grupo. Lord Ceballos estaba encantado con este cambio, solo tenía que plantearle una idea para que ella la hiciera realidad en pocos meses.
 
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
 
@@ -115,6 +117,9 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
   * Jefe de operaciones (CTO) del Grupo Ceballos
   * Los datos y la planificación aseguran el éxito.
   * Futura Lady Vampiresa
+
+\sp
+
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Bueno (+2) 
 * **Proezas**
   * XXX
@@ -124,8 +129,6 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** Bajo tu apariencia profesional y empresarial moderna, escondes un manojo de nervios y estrés acumulado. Deja de hablar durante un par de segundos mirando al infinito, muérdete las puntas de los dedos hasta «hacerte sangre» sin darte cuenta, enseña los colmillos sin razón o ráscate picores que no existen. 
-
-\sp
 
 \sinc
 
@@ -147,6 +150,8 @@ También ha mejorado su modo de ser y su educación de ser un descerebrado grit�
 
 Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
 
+\sp
+
 Lord Ceballos lo atrajo y lo convirtió en su siervo dándole de beber de su sangre para que fuera más fuerte en los combates de MMA. Cuando se empezó a hablar de dopaje en sus peleas y le acusaron de violencia deportiva, abandonó la lucha profesional. Lo curioso es que todos en el mundillo del MMA sabían que se dopaba, pero ningún médico o laboratorio supo como lo hacía. 
 
 A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entregándose en cuerpo y alma.
@@ -158,9 +163,6 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
   * Cara de póker
   * Planificador
 * **Estilos:** Cauto Bueno (+2), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) 
-
-\sp
-
 * **Proezas**
   * **Luchador de suelo:** Debido a su experiencia como combatiente de MMA, gana un +2 para Atacar en modo Vigoroso cuando forcejea con su enemigo en el suelo.
   * **Wheelman:** Debido a que es un conductor excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando conduce un vehículo terrestre.
@@ -170,6 +172,8 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 **Sugerencia de interpretación:** Cruza los brazos sobre el pecho y no hables. Usa solo lenguaje corporal, asiente o niega con la cabeza en las manos, mira aviesamente, encoge los hombros. Solo deberías hablar para dar órdenes claras y precisas.
+
+\sp
 
 \sinc
 
@@ -253,8 +257,8 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 
 * **Proezas**
   * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
-  * **Viejos métodos:** su forma de actuar son métodos viejos, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
-  * XXX
+  * **Viejos métodos:** Su forma de actuar son métodos viejos, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
+  * **Cero tecnología:** Como no usa ningún tipo de tecnología, legalmente no está viva y los archivos de vida antes de ser vampira no están digitalizados, es imposible rastrearla y sacar información de ella por Internet. 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
