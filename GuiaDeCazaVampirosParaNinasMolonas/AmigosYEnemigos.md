@@ -122,6 +122,7 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
 
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Bueno (+2) 
 * **Proezas**
+  * **Recursos humanos:** Sus años seleccionando personal, tanto para el entramado de empresas del Grupo Ceballos, como para el séquito de Lord Ceballos, la han enseñado a calar a la gente de un vistazo, de forma que obtiene un +2 a Defender en modo Cauto cuando se encuentra en reuniones, discusiones y entrevistas.
   * XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -138,19 +139,17 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
 
 Tito es el fiel guardaespaldas de Lord Ceballos. Cualquiera pensaría que el guardaespaldas de un poderoso vampiro sería otro vampiro, pero la verdad es eso solo recalcaría las debilidades de los vampiros, mientras que teniendo un humano como protector, este puede protegerte de día cuando eres más vulnerable.
 
-[![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
-
-&nbsp;
-
 Tito lleva más de 10 años sirviendo a su señor como jefe de seguridad. Es un fiel perro guardián, fiel y sacrificado, que dará su vida por su amo sin pensárselo ni un segundo.
 
 Empieza a ser mayor para la lucha directa, pero aún puede derribarte antes de que te des cuenta y ha aprendido con los años todo lo necesario para ser un excelente guardaespaldas.
 
 También ha mejorado su modo de ser y su educación de ser un descerebrado gritón y bravucón sin modales a ser un tipo discreto, callado y observador al que no se le escapa nada.
 
-Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
+[![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
 
 \sp
+
+Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
 
 Lord Ceballos lo atrajo y lo convirtió en su siervo dándole de beber de su sangre para que fuera más fuerte en los combates de MMA. Cuando se empezó a hablar de dopaje en sus peleas y le acusaron de violencia deportiva, abandonó la lucha profesional. Lo curioso es que todos en el mundillo del MMA sabían que se dopaba, pero ningún médico o laboratorio supo como lo hacía. 
 
@@ -173,7 +172,6 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
 
 **Sugerencia de interpretación:** Cruza los brazos sobre el pecho y no hables. Usa solo lenguaje corporal, asiente o niega con la cabeza en las manos, mira aviesamente, encoge los hombros. Solo deberías hablar para dar órdenes claras y precisas.
 
-\sp
 
 \sinc
 
@@ -181,19 +179,17 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
 
 \conc
 
-Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus víctimas con su increíble belleza. Podría ser perfectamente una de las novias de «Drácula», una auténtica súcubo sexual que te atrapa y se drena la esencia hasta acabar contigo sin que puedas hacer nada por rechazarla.
-
-[![[COMMISSION] Cheelu By aeeriz](./assests/images/_commission__cheelu_by_aeeriz_de1pgfp-414w-2x.jpg "[COMMISSION] Cheelu By aeeriz")](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781 "[COMMISSION] Cheelu By aeeriz")
-
-Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que decora su guarida.
+Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus víctimas con su increíble belleza. Podría ser perfectamente una de las novias de «Drácula», una auténtica súcubo sexual que te atrapa y se drena la esencia hasta acabar contigo sin que puedas hacer nada por rechazarla. Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que decora su guarida.
 
 Lord Ceballos la convirtió hacia mediados de los 80, de hecho compro la agencia de modelaje donde trabajaba y la hacía trabajar de azafata en sus eventos. Descubrió que si negociaba con ella cerca sus competidores estaban más distraídos y vio que el escultural cuerpo de Eloise podía mejorarse con las capacidades vampíricas que podía otorgarle.
+
+\sp
+
+[![[COMMISSION] Cheelu By aeeriz](./assests/images/_commission__cheelu_by_aeeriz_de1pgfp-414w-2x.jpg "[COMMISSION] Cheelu By aeeriz")](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781 "[COMMISSION] Cheelu By aeeriz")
 
 A diferencia de otros siervos vampíricos, le pidió permiso y le explico las ventajas, que no los inconvenientes. Eloise aceptó y ese es un error del que se arrepiente todas las noches.
 
 Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans.
-
-\sp
 
 Se hace llamar Celose y evita toda estética gótica, pero conserva su carisma y elegancia. La mayor parte de sus followers no les importa lo que dice, solo la siguen por como lo dice.
 
@@ -203,7 +199,9 @@ Curiosamente, para ser vampira es una excelente chef con mucho gusto para hacer 
 
 Todo este tema de la cocina hizo que empezara a buscar vídeos en internet y que terminará enganchada a las redes con sus propios canales y, de hecho, las recetas, los modales en la mesa, los concursos de cocina y las críticas culinarias suponen muchas horas de sus directos.
 
-El problema de Eloise con las cazadoras es que fuera de sus poderes vampíricos no puede ejercer ningún tipo de control con las cazadoras, a priori toda su sensualidad y carisma no sirven de nada contra ellas. Quizás si alguien de tu mesa decide tener un «crush» con ella, podría usar sus habilidades, pero ella activamente no debería poder seducir y manipularlas.
+El problema de Eloise con las cazadoras es que fuera de sus poderes vampíricos no puede ejercer ningún tipo de control con las cazadoras, a priori toda su sensualidad y carisma no sirven de nada contra ellas. 
+
+Quizás si alguien de tu mesa decide tener un «crush» con ella, podría usar sus habilidades, pero ella activamente no debería poder seducir y manipularlas.
 
 Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras vías. En vez de ser la mujer que desean, deberá presentarse como la mujer que desean ser cuando crezcan.
 
@@ -213,6 +211,9 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
   * Mirada hipnótica
   * Una mente para los negocios y un cuerpo para el pecado
   * Excelente chef
+
+\sp
+
 * **Estilos:** Cauto Grande (+3), Furtivo Grande (+3), Ingenioso Grande (+3), Llamativo Grande (+3), Rápido Grande (+3), Vigoroso Grande (+3) 
 * **Proezas**
   * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
@@ -225,8 +226,6 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
 
 **Sugerencia de interpretación:** La intimidación y la fuerza no son tu estilo. Lo tuyo es el carisma y la zalamería. Unas palabras bonitas y aduladoras y tienes a todo el mundo comiendo de tu mano. Para que arrastrar a tus víctimas a tu guarida si puedes engañarles para que entren ellos solos.
 
-\sp
-
 \sinc
 
 ### Covadonga «Cova»
@@ -235,15 +234,19 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
 
 Covadonga es una de las más antiguas siervas de Lord Ceballos y fue de gran ayuda cuando Lord Ceballos quiso independizarse de su creador, Lord Guzmán, y buscarse un territorio donde hincar sus dientes. Sin su ayuda, hacia 1900, los planes para conseguir su actual territorio habrían fracasado y seguramente habría acabado muerto. 
 
+Covadonga, a diferencia de sus compañeros vampiros, se quedó estancada en los años 20 del siglo XX y no ha conseguido avanzar desde esa época. Sigue vistiendo y comportándose como en 1920, no consigue comprender los avances de la tecnología y le cuesta relacionarse con la gente de 2020 con lo que su alimentación depende de lo que le proporcione Ceballos. 
+
 [![Hexerei, Clan Ventrue By IvanValladares](./assests/images/hexerei__clan_ventrue_by_ivanvalladares_duv7i4-375w-2x.jpg "Hexerei, Clan Ventrue By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540 "Hexerei, Clan Ventrue By IvanValladares")
+
+\sp
 
 Durante un tiempo la tuvo de su lugarteniente, pero Lord Guzmán empezó a ver que algo fallaba en la mente de su lugarteniente y tuvo que apartarla de su puesto.
 
-Covadonga, a diferencia de sus compañeros vampiros, se quedó estancada en los años 20 del siglo XX y no ha conseguido avanzar desde esa época. Sigue vistiendo y comportándose como en 1920, no consigue comprender los avances de la tecnología y le cuesta relacionarse con la gente de 2020 con lo que su alimentación depende de lo que le proporcione Ceballos. 
-
 Fue creada también por Lord Guzmán y por eso Ceballos la considera una especie de hermana de sangre. Ese sentimiento fraternal, junto a la ayuda que le presto cuando eran jóvenes, hacen que Lord Ceballos la haya mantenido a su lado, a pesar de que con sus problemas para adaptarse a los tiempos suponga más una debilidad que una ventaja.   
 
-Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos. Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros.
+Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos.
+
+Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros.
 
 * **Aspectos**
   * **Concepto principal:** Antigua lugarteniente vampira de Lord Ceballos
@@ -252,12 +255,10 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
   * Los viejos métodos son los mejores
   * Más sabe el diablo por viejo que por diablo
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Grande (+3)
-
-\sp
-
 * **Proezas**
   * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
-  * **Viejos métodos:** Su forma de actuar son métodos viejos, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
+  * **Viejos métodos:** Su forma de actuar en métodos viejos y en desuso, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
+  * **Pistolera:** Con años de entrenamiento disparando armas de fuego, obtiene +2 a Atacar en modo Rápido usando armas de fuego cortas o medias. 
   * **Cero tecnología:** Como no usa ningún tipo de tecnología, legalmente no está viva y los archivos de vida antes de ser vampira no están digitalizados, es imposible rastrearla y sacar información de ella por Internet. 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -265,6 +266,8 @@ Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el es
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** Estás chapada a la antigua, hablas como la gente de principios de siglo, con el «usted» siempre en la boca y con expresiones arcaicas del 1900. Siéntete incómoda cuando tengas que relacionarte con gente moderna y extraña que esas estúpidas nuevas tecnologías.
+
+\sp
 
 \sinc
 
@@ -282,8 +285,6 @@ Sabe mantener encerrados sus demonios mientras está gente normal, aunque a la m
 
 Es muchos sentidos, es más bestia que persona. Con los años esa bestia ha ido saliendo al exterior y aunque conserva aspecto humano tiene ya algunos rasgos animales incluso en forma crush. Ojos reflectantes como los gatos, colmillos más pronunciados aunque los tenga retraídos, orejas puntiagudas, etc. 
 
-\sp
-
 Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará en la partida es que sabe que es un monstruo y no trata de reprimirlo, ni tratará de pedir perdón, ni de arrepentirse. Nunca bajo ningún concepto se arrepentirá de lo que ha hecho, sino que siempre estará orgulloso de ello, aunque este frente a la muerte definitiva cuando salga el sol (la forma más dolorosa de morir para un vampiro).
 
 * **Aspectos**
@@ -296,6 +297,10 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
 * **Proezas**
   * **Acechador:** Es un maestro moviéndose en las sombras, de forma que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.
   * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de forma que una vez por sesión puede hacer huir de miedo a personajes secundarios. 
+
+\sp
+
+* **Proezas**
   * **Guerra psicología:** Es un torturador nato y ha podido practicar con decenas de víctimas indefensas, de forma que consigue un +2 a Atacar de forma Ingeniosa a sus torturados.
   * **Guerra de bandas:** Como jefe de una red de tráfico de drogas conoce muy bien los bajos fondos del barrio, de forma que tiene +2 a Crear ventajas de forma Ingeniosa cuando trata de defender su territorio o atacar en de otras bandas.
 * **Capacidad de recuperación:** X
@@ -305,15 +310,9 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
 
 **Sugerencia de interpretación:** Has de ser todo lo malvado, cabrón, cruel, sádico y pervertido que puedas, pero no tienes que parecer un loco. Nada de gestos histriónicos ni de gritos sin sentido, siempre calmado y pensando las cosas, nada de ataques repentinos de furia. Simplemente disfruta de hacer el mayor mal posible al mayor número de personas durante el mayor tiempo posible. 
 
-\sinc
-
 ```
 AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidir si tu mesa a va a estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus víctimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
 ```
-
-\conc
-
-\sp
 
 \sinc
 
@@ -323,13 +322,13 @@ AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidi
 
 Carolina Faroes es una de las activistas más importante del barrio y no hay causa perdida que no haya defendido y organización social en que participe de activa. Su familia de origen brasileño, se vino a vivir al barrio cuando era una niña y ha crecido en sus calles aprendiendo respetarlas y quererlas.
 
-[![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
-
 Estudio derecho con gran esfuerzo propio y de su familia y entorno cercano y cuando termino la carrera volvió al barrio en vez de quedarse en un lujoso bufete del centro. Desde entonces se dedica a defender a mujeres víctimas de violencia de género, parar desahucios, defender a inquilinos desprotegidos, …
 
-Catalina no les niega a nadie su ayuda y siempre está en primera línea cuando los antidisturbios se ponen en plan nazi y empiezan a golpear sus porras contra sus escudos sin amedrentarse ni un ápice.
+Catalina no les niega a nadie su ayuda y siempre está en primera línea cuando los antidisturbios se ponen en plan nazi y empiezan a golpear sus porras contra sus escudos sin amedrentarse ni un ápice. Así que sea el problema que tengas a ambos de la ley, querrás que este de tu lado y te defienda. 
 
-Así que sea el problema que tengas a ambos de la ley, querrás que este de tu lado y te defienda. 
+\sp
+
+[![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
 
 En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el barrio de toda índole y eso no es normal, no pueden ser coincidencia, pero ni de lejos se imagina que hay un grupo de vampiros tratando de acabar con su barrio. Así que si alguien le viene que no ese cuento no lo tomará en serio a no ser que tenga pruebas sólidas e irrefutables. 
 
@@ -344,9 +343,6 @@ En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el
   * **Conozco el sistema:** Debido a que ha tenido que moverse por todo el sistema burocrático y legal, gana un +2 para Superar de modo Rápido cualquier traba burocrática o legal.
   * **Sé defenderme de los abusones:** Como lleva toda la vida enfrentándose a abusones, gana un +2 para Defender de modo Ingenioso cuando se enfrenta a abusones, explotadores, manipuladores y escoria por el estilo.
   * **Tarjeta de salir de la cárcel:** Con su experiencia en temas policiales puede sacar de la cárcel por delitos menores a una persona o a sí misma con diversas triquiñuelas legales.  
-
-\sp
-
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
