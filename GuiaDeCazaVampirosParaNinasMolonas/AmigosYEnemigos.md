@@ -175,7 +175,6 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
 
 **Sugerencia de interpretación:** Cruza los brazos sobre el pecho y no hables. Usa solo lenguaje corporal, asiente o niega con la cabeza en las manos, mira aviesamente, encoge los hombros. Solo deberías hablar para dar órdenes claras y precisas.
 
-
 \sinc
 
 ### Eloise

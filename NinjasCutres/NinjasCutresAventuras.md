@@ -1,6 +1,5 @@
 # Aventuras para Ninjas Cutres
 
-
 ## La Ninja-Con
 
 > La mayor convención de ninjas ha escogido la ciudad de tus ninjas cutres como la próxima sede y tendrán que enfrentarse al clan de ninjas cutres de «Las Garras del Tigretón» por ser los organizadores de honor.

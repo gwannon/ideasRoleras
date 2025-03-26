@@ -142,7 +142,6 @@ El inspector Newcomen, si le dan la información sobre la banda y las pruebas de
 
 Si han sido listos y lo saben, no le contarán lo de la salida por la carbonera y podrán ponerse allí para cazar a Sherwood tratando de escapar. Walt intentará huir como sea, pero no dudará en sacar una gran cuchilla de guillotinar papel y en usarla, si fuera necesario.
 
-
 ### La pandilla de «Tinta China»
 
 La pandilla de «Tinta China» es una mezcla de matones y trabajadores de imprenta. Trabajan imprimiendo las falsificaciones de Walter y si es necesario llenan un calcetín de piezas tipográficas de plomo y se lían a tortas con quien haga falta.
@@ -152,13 +151,11 @@ La pandilla de «Tinta China» es una mezcla de matones y trabajadores de impren
 * **Es Malo (-2) en:** Cultura, Negociar 
 * **Estrés:** ◯◯
 
-
 \sp
 
 ### Walt «Tinta China» Sherwood
 
 Desde que era muy pequeño, Walt sabía que si quería salir del arroyo no podía seguir el camino de su padre, un humilde techador. Así que en cuanto pudo se metió en una de las bandas criminales de su barrio, el East End. Poco a poco ascendió en la banda y allí conoció a su maestro en falsificación, Gîroc, un impresor francés que tuve que huir de Francia por problemas legales.
-
 
 Con Gîroc no solo aprendió el fino arte de hacer cosas impresas tremendamente parecidas a otras cosas impresas, también aprendió modales y cultura general. Según su maestro, de nada sirve hacer la mejor falsificación si no no puedes engañar a nadie para que te lo compre. 
 

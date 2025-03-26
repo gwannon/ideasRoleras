@@ -53,7 +53,6 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 * Dirty home concept with dishes pile by [freepik](https://www.freepik.com/free-photo/dirty-home-concept-with-dishes-pile_23591456.htm)
 * Tentacles octopus set underwater animal Kraken or Squid red tentacle cut part isolated on white by [svstudioart](https://www.freepik.com/free-vector/tentacles-octopus-set-underwater-animal-kraken-squid-red-tentacle-cut-part-isolated-white_17191722.htm)
 
-
 ***
 
 # Ninjas cutres
