@@ -526,3 +526,7 @@ Fossey
 Kobolds
 gnolls
 cocatriz
+Stevenson
+ND
+Redraw
+SlyLaika

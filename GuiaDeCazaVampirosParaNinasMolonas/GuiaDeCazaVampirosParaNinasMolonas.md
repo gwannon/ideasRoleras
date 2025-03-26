@@ -235,8 +235,10 @@ Aquí tienes algunos posts, películas, libros y comics que te pueden ayudar a d
 
 * [Jugando al escondite con el vampiro](https://www.agenteprovocador.es/publicaciones/caza-vampiro-y6gk4) sobre un hecho real de niños enfrentándose a un supuesto vampiro ocurrido en Glasgow en los años 50.
 * El comic [Soy una matagigantes](https://www.astiberri.com/products/soy-una-matagigantes) y versión en película vemos a una niña luchando contra gigantes reales e imaginarios.
+* Por el tono en general, la serie de comics de [Leñadoras](https://es.wikipedia.org/wiki/Le%C3%B1adoras) de ND Stevenson.
+* La película Attack the Block, tampoco son niñas y vampiros, sino más bien adolescentes y aliens, pero tiene el rollo «de barrio».
 * En la película de Noche de miedo (y su remake de 2012) no son niños, sino más bien adolescentes, pero refleja el rollo de que nadie te crea.
-
+* Stranger Things por descontado.
 
 \sp
 
