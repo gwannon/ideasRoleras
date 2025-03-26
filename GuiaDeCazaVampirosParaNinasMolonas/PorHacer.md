@@ -8,23 +8,49 @@
 
 XXX
 
+---HABLAR de Néstor---
+
 ### Explorando el nivel del plan actual
+
+Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio diversas acciones.
 
 XXX
 
 ### Subiendo a un nivel superior del plan
 
+Si deciden ascender, todos sus esfuerzos le pondrán en camino a Néstor. 
+
 XXX
 
 ### Para despistar
 
-XXX
+Si ves que la aventura va muy deprisa o quieres despistar las un poco aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
+
+La idea es que, aunque no parezcan importantes, todas estas tramas les serán de ayuda más adelante.
 
 #### La casa de las «Chejas»
 
 La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas».
 
-XXX
+\sp
+
+Todo tipo de historias se cuentan de la casa y pueden oír algo raro sobre el lugar que las incite a explorarla.
+
+La casa es un sitio donde a veces Néstor lleva a sus víctimas y donde disfruta cazando las entre los cañaverales.
+
+Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan seguir y que les sirva de pista. Lo bueno es que __conocerán la casa en caso de que Néstor las atrape y quiera jugar con ellas__.
+
+#### CebaBet
+
+El grupo Ceballos suele inundar los barrios con casas de apuestas en su proceso de degradación y acaba de abrir la primera en el barrio, a pocos metros del colegio de tus cazadoras.
+
+Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser XXX.
+
+Lo interesante de la casa de apuestas «CebaBet» es que es un sitio donde pueden conocer a Catalina Faroes, que está tratando de cerrar la primera que han montado en el barrio.
+
+Catalina ha montado una sentada popular delante y se han organizado para que siempre haya gente del grupo vecinal con pancartas reivindicativas y recogiendo firmas.
+
+Catalina tratará de que la ayuden a recoger firmas y si les ofrecen entrar y jugar que lo graben para tener pruebas.
  
 \sp
 

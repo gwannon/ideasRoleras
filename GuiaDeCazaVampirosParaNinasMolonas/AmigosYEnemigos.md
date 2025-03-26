@@ -26,7 +26,7 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 * **Estilos:** Cauto Enorme (+4), Furtivo Normal (+1), Ingenioso Enorme (+4), Llamativo Enorme (+4), Rápido Excelente (+5), Vigoroso Excelente (+5) 
 * **Proezas**
   * XXX
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
@@ -169,7 +169,7 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
   * **Luchador de suelo:** Debido a su experiencia como combatiente de MMA, gana un +2 para Atacar en modo Vigoroso cuando forcejea con su enemigo en el suelo.
   * **Wheelman:** Debido a que es un conductor excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando conduce un vehículo terrestre.
   * **Huir con su cliente:** Debido a su fuerza y agilidad, una vez por partida puede huir corriendo y saltando estilo parkour con su protegido sin que se le pueda seguir fácilmente corriendo detrás de él. 
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
@@ -221,7 +221,7 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
   * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Rubia tonta:** Con los años aprendido a hacerse la «guapa, pero tonta» y obtiene +2 para Crear una ventaja en modo ingenioso cuando finge ser tonta, excéntrica, caprichosa o coqueta.
   * **Influencer in progress:** Eloise pasa mucho tiempo en redes y empieza a ser conocida en redes, de forma que obtiene un +2 a Crear una ventaja en modo Llamativo cuando está un evento y puede poner mensajes en las redes.
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
@@ -305,7 +305,7 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
 * **Proezas**
   * **Guerra psicología:** Es un torturador nato y ha podido practicar con decenas de víctimas indefensas, de forma que consigue un +2 a Atacar de forma Ingeniosa a sus torturados.
   * **Guerra de bandas:** Como jefe de una red de tráfico de drogas conoce muy bien los bajos fondos del barrio, de forma que tiene +2 a Crear ventajas de forma Ingeniosa cuando trata de defender su territorio o atacar en de otras bandas.
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
@@ -345,10 +345,42 @@ En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el
   * **Conozco el sistema:** Debido a que ha tenido que moverse por todo el sistema burocrático y legal, gana un +2 para Superar de modo Rápido cualquier traba burocrática o legal.
   * **Sé defenderme de los abusones:** Como lleva toda la vida enfrentándose a abusones, gana un +2 para Defender de modo Ingenioso cuando se enfrenta a abusones, explotadores, manipuladores y escoria por el estilo.
   * **Tarjeta de salir de la cárcel:** Con su experiencia en temas policiales puede sacar de la cárcel por delitos menores a una persona o a sí misma con diversas triquiñuelas legales.  
-* **Capacidad de recuperación:** X
+* **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 
 **Sugerencia de interpretación:** No dejes de sonreír ni en las peores situaciones, porque ya has estado en cosas parecidas y has salido viva. Lo tuyo es el instinto y las decisiones rápidas, antes incluso de que lo hayas pensado ya estás actuando, quizás golpeando un antidisturbios o cantándole la internacional a la cara al nazi que intenta amedrentarte con un bate.
+
+\sinc
+
+### Verónica
+
+\conc
+
+Verónica es una veterana doctora de urgencias a la que Néstor transformó en vampira, porque necesitaba a alguien dentro del sistema de salud para qué le ayudará con los planes de Lord Ceballos en el barrio y por propio interés como sociopata.
+
+\sp
+
+[![Your heaven’s a lie By keep-breathing](./assests/images/your_heaven_s_a_lie_by_keep_breathing_d3iyvgd-375w-2x.jpg "Your heaven’s a lie By keep-breathing")](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685 "Your heaven’s a lie By keep-breathing")
+
+Una de las razones por las que Néstor la convirtió en vampira fue que, como doctora de urgencias, podía controlar y manipular a las posibles víctimas de Néstor que hubieran sobrevivido a sus juegos. Si una de sus presas llegaba viva a Urgencias, Verónica podía limpiar pruebas que inculparan a Néstor, falsificar informes y tests e influir en las declaraciones de las víctimas.  
+
+XXX
+
+* **Aspectos**
+  * **Concepto principal:** Doctora experta, vampira novata
+  * **Complicación:** Muy fan de los vampiros
+  * Medicina de urgencias
+  * Acceso a pruebas, informes, drogas y medicamentos
+  * XXX
+* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Proezas**
+  * XXX
+* **Capacidad de recuperación:** X
+* **Estrés:** 1 | 2 | 3
+* **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
+* **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
+
+**Sugerencia de interpretación:** XXX
 
 \sp
