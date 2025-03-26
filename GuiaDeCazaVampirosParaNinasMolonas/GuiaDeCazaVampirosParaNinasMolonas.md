@@ -168,6 +168,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * Foto de casa de campo en las ruinas de [Gurvan Rolland](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm)
 * Ondolemar doodle By [Elleylie](https://www.deviantart.com/elleylie/art/Ondolemar-doodle-490444153) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
+* Sorry I'm Not Made of Sugar (Screenshot Redraw) By [SlyLaika](https://www.deviantart.com/slylaika/art/Sorry-I-m-Not-Made-of-Sugar-Screenshot-Redraw-897706855)
 
 \sp
 

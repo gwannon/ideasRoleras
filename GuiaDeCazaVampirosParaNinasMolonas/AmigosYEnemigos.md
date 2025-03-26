@@ -123,7 +123,10 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Bueno (+2) 
 * **Proezas**
   * **Recursos humanos:** Sus años seleccionando personal, tanto para el entramado de empresas del Grupo Ceballos, como para el séquito de Lord Ceballos, la han enseñado a calar a la gente de un vistazo, de forma que obtiene un +2 a Defender en modo Cauto cuando se encuentra en reuniones, discusiones y entrevistas.
-  * XXX
+  * **Tiburón empresarial:** XXX
+  * **OPA hostil:** XXX
+  * **Dinero negro:** XXX
+  * **Empresas pantalla:** XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6

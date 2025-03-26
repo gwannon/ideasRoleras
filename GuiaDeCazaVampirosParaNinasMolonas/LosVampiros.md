@@ -107,6 +107,8 @@ El problema es que después te deja muy doblada. Y tras unos minutos terminas de
 
 No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosas que otras.
 
+[![Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika](./assests/images/sorry_i_m_not_made_of_sugar__screenshot_redraw__by_slylaika_deugz1j-pre.jpg "Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika")](https://www.deviantart.com/slylaika/art/Sorry-I-m-Not-Made-of-Sugar-Screenshot-Redraw-897706855 "Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika")
+
 ### Falsas creencias
 
 Hay una serie de creencias populares sobre los vampiros que he podido que no son verdad o por lo menos he podido comprobar que las hagan.
@@ -114,12 +116,12 @@ Hay una serie de creencias populares sobre los vampiros que he podido que no son
 * No se transforman en niebla.
 * No se transforman en lobos o murciélagos. Igual sí, pero con los locos de caza igual salen escopeteados.
 * No tienen sentido radar como los murciélagos.
-* Si flotan, pero no son grandes voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores para mirar, todo muy cripi.
-* No tienen problemas con las vías de agua. Pueden pasar encima de ríos sin problemas.
-* No tienen ninguna marca especial, ni estigmas, como mucho no tienen casi nada de bello corporal.
 
 \sp
 
+* Sí flotan, pero no son grandes voladores. Lo justo para escapar de una turba y llegar a las ventanas de los pisos superiores para mirar, todo muy cripi.
+* No tienen problemas con las vías de agua. Pueden pasar encima de ríos sin problemas.
+* No tienen ninguna marca especial, ni estigmas, como mucho no tienen casi nada de bello corporal.
 * No necesitan dormir sobre tierra de su país natal y tampoco tienen que dormir en ataúdes.
 * Los vampiros no tienes poderes mágicos, no lanzan hechizos, ni maldiciones, ni portan objetos mágicos. Como dice Marisa, no dan loteo. Tampoco hacen rituales para invocar a sus dioses.
 * No tienen poderes sobre los animales, como ratas o perros. De hecho, la mayoría de los animales se alejan de ellos.
