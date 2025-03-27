@@ -6,39 +6,51 @@
 
 \conc
 
-XXX
+Tras su primera gran caza de chupasangres, las cosas se complican. Saben que sus problemas son las grandes de lo que pensaban, pero no tienen mucha información de la que tirar.
 
----HABLAR de Néstor---
+### Alfonse puede ser de gran ayuda
+
+Si Alfonse ha sobrevivido, les podrá rápidamente en la pista de Néstor, del que no sabe más que lo necesario, pero tiene pistas que pueden encaminar a tus cazadoras hacia él.
+
+Alfonse no tiene mucho trato con su jefe, pero ni Alfonse ni nadie. Lo ha visto un par de veces cuando Lord Ceballos puso al joven vampiro a su cargo y un par de veces más. Normalmente, se comunican por mensajes de texto y voz y personalmente lo prefiere así porque no soporta su inquietante presencia.
+
+XXX
 
 ### Explorando el nivel del plan actual
 
-Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio diversas acciones.
+Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio con diversas acciones.
+
+* Está cambiando las cita continuamente de personas con problemas de movilidad de forma que sea imposible aparecer al final.
+* Crea citas fantasma para llenar los horarios del personal médico a las que nunca acude nadie.
+
+\sp
+
+* Ha saboteado varios equipos fundamentales como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
+* Hace desaparecer pruebas y resultados para obligar a repetirlas.
+
+Verónica tiene a su servicio un par de celadores de noche que le sirven incondicionalmente.
 
 XXX
 
 ### Subiendo a un nivel superior del plan
 
-Si deciden ascender, todos sus esfuerzos le pondrán en camino a Néstor. 
+Si deciden ascender, todos sus esfuerzos les pondrán en camino a Néstor. 
 
 XXX
 
 ### Para despistar
 
-Si ves que la aventura va muy deprisa o quieres despistar las un poco aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
+Si ves que la aventura va muy deprisa o quieres despistar a tus cazadoras un poco, aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
 
 La idea es que, aunque no parezcan importantes, todas estas tramas les serán de ayuda más adelante.
 
 #### La casa de las «Chejas»
 
-La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas».
-
-\sp
-
-Todo tipo de historias se cuentan de la casa y pueden oír algo raro sobre el lugar que las incite a explorarla.
+La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas». Todo tipo de historias se cuentan de la casa y pueden oír algo raro sobre el lugar que las incite a explorarla.
 
 La casa es un sitio donde a veces Néstor lleva a sus víctimas y donde disfruta cazando las entre los cañaverales.
 
-Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan seguir y que les sirva de pista. Lo bueno es que __conocerán la casa en caso de que Néstor las atrape y quiera jugar con ellas__.
+Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan seguir y que les sirva de pista. Lo bueno es que __conocerán la casa en caso de que Néstor las__ __atrape y quiera jugar con ellas__.
 
 #### CebaBet
 
