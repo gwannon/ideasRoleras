@@ -65,3 +65,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}
 {"rule":"SUPER","sentence":"^\\QCarrera por los pasillos del super\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QAdemás, como existe la magia, pues queda creíble porque te polimorfas en lo que sea.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEs juego indie en la Grecia clásica donde has creado tu propia corriente filosófica griega basada en alguna estupidez como que la gravedad no existe y te enfrentas a otras personas que han creado o siguen otras filosofías igual de estupidas.\\E$"}

@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 07/02/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 28/03/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos y ambientaciones
 
@@ -252,6 +252,18 @@ Un juego de rol donde el mundo es un ser humano y los PJ células, glóbulos bla
 
 Mientras pensaba en esta idea, me cruce con este bluit de [Asaltadoras del Rol](https://bsky.app/profile/cuchi.bsky.social/post/3livzsxufmc2w) donde ya se ve que se ha explorado esta idea.
 
+### Filósofos griegos
+
+Es juego indie en la Grecia clásica donde has creado tu propia corriente filosófica griega basada en alguna estupidez como que la gravedad no existe y te enfrentas a otras personas que han creado o siguen otras filosofías igual de estúpidas.
+
+Discutes en el ágora y te peleas con el xifo en los callejones aledaños en pos de la supremacía de tu filosofía.
+
+Cada corriente te da unas habilidades únicas, basadas en tus creencias, de forma que si crees que la gravedad no existe puedes volar.
+
+Los combates son como los duelos de insultos del Monkeys Island, donde tus palabras y tus teorías filosóficas cortan más que las espadas.
+
+Quizás tengas que hacer pintadas en el templo explicando tu filosofía, dar una charla a tus seguidoras y seguidores u organizar un simposio o una bacanal para tus simpatizantes.
+
 ### Graffiti World
 
 Sería una campaña donde juegas con grafitis. Una gran nada blanca (el empleado de mantenimiento que está tapando los grafitis de las paredes de un edificio abandonado con pintura blanca) ha acabado con tu mural/pueblo y te lanzas a la aventura de pararlo.
@@ -262,6 +274,8 @@ Habría rencillas entre los diferentes murales, guerras y los PJ deberán arregl
 
 La aventura trataría de averiguar qué pasa y encontrar al más viejo de los grafitis y saber qué pasa. Él les dirá que esto ya ha pasado antes. Solo pueden hacer el mural perfecto y llamar la atención de los humanos que pasan delante de ellos todos los días y convencerles de que luchen porque el ayuntamiento no destruya su mundo.
 
+\sp
+
 Habría una religión de los grafiteros como seres creadores que hace años que no se aparecen. Quizás hayan muerto o quizás se hayan olvidado de los murales.
 
 Tendría una mezcla de Trolls 2, Tron y La historia interminable.
@@ -269,8 +283,6 @@ Tendría una mezcla de Trolls 2, Tron y La historia interminable.
 ### La liga de los críptidos extraordinarios
 
 Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
-
-\sp
 
 ### Mad men RPG
 
@@ -320,6 +332,8 @@ En este juego llevarías un pequeño robot de servicio que limpia, lleva paquete
 
 Los robots tendrán su pequeño mini-mundo con sus problemas de robots, como que falla la batería, mis ruedas están gastadas o todo el mundo me pisa.
 
+\sp
+
 Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden hacer y otras para las que necesitará ayuda.
 
 ### Planilandia RPG
@@ -327,8 +341,6 @@ Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden ha
 Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
 
 Es una sátira de la época victoriana, pero la parte matemática está muy bien pensada y podría dar ideas muy interesantes, sobre todo al pensar en 2d tanto para crear y descubrir el mundo como para moverse e interactuar con él.
-
-\sp
 
 ### Los plastilinos
 
@@ -360,8 +372,6 @@ Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo co
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 
-\sc
-
 ### RRHH en un Dungeon
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
@@ -379,6 +389,8 @@ Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y c
 Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan.
+
+\sp
 
 ### La villa secreta de las mascotas
 
