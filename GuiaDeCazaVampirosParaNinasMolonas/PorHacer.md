@@ -14,7 +14,18 @@ Si Alfonse ha sobrevivido, les podrá rápidamente en la pista de Néstor, del q
 
 Alfonse no tiene mucho trato con su jefe, pero ni Alfonse ni nadie. Lo ha visto un par de veces cuando Lord Ceballos puso al joven vampiro a su cargo y un par de veces más. Normalmente, se comunican por mensajes de texto y voz y personalmente lo prefiere así porque no soporta su inquietante presencia.
 
-XXX
+Alfonse puede darle una descripción, números de teléfono, mensajes de texto y sabe a ciencia cierta que se encarga principalmente del tráfico de drogas en el barrio, porque muchas veces le ordena dejar actuar tranquilamente a sus camellos en la «Jaula».
+
+Sabe más cosas, pero se las guarda. Quiere testar a las cazadoras primero y ver cómo se desenvuelven y si Néstor las atrapa y las tortura, no podrán contar mucho.
+
+Cosas que sabe:
+
+* Conoce toda la estructura de poder desde él hasta Lord Ceballos. No conoce otras ramas, pero sí la suya.
+* Tiene muy estudiado a Néstor y sabe también que está detrás de las desapariciones de menores. No tiene detalles concretos, pero sabe de sus abominables apetitos. Las cazadoras son la presa y el depredador perfecto para Néstor.
+
+\sp
+
+* XXX
 
 ### Explorando el nivel del plan actual
 
@@ -22,9 +33,6 @@ Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, 
 
 * Está cambiando las cita continuamente de personas con problemas de movilidad de forma que sea imposible aparecer al final.
 * Crea citas fantasma para llenar los horarios del personal médico a las que nunca acude nadie.
-
-\sp
-
 * Ha saboteado varios equipos fundamentales como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
 * Hace desaparecer pruebas y resultados para obligar a repetirlas.
 
@@ -32,11 +40,23 @@ Verónica tiene a su servicio un par de celadores de noche que le sirven incondi
 
 XXX
 
+Verónica si luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
+
+En la casa de Verónica debería haber suficientes pruebas para acercarse a Néstor.
+
+* XXX
+
 ### Subiendo a un nivel superior del plan
 
 Si deciden ascender, todos sus esfuerzos les pondrán en camino a Néstor. 
 
-XXX
+Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él hay algunas opciones:
+
+* XXX
+* Las desapariciones de menores no son algo público del que se hable en los medios o la calle, pero el patio del colegio si es un tema candente.
+* Está claro que los vampiros se meten en todos los negocios sucios del barrio y las drogas son ahora el principal problema que hay. 
+
+Si siguen alguna de estas pistas, deberían encaminarse a alguna de las XXX.
 
 ### Para despistar
 
@@ -47,6 +67,8 @@ La idea es que, aunque no parezcan importantes, todas estas tramas les serán de
 #### La casa de las «Chejas»
 
 La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas». Todo tipo de historias se cuentan de la casa y pueden oír algo raro sobre el lugar que las incite a explorarla.
+
+\sp
 
 La casa es un sitio donde a veces Néstor lleva a sus víctimas y donde disfruta cazando las entre los cañaverales.
 
