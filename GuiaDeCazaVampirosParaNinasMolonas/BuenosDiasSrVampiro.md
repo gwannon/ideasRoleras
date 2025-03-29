@@ -558,6 +558,18 @@ Sabe más cosas, pero se las guarda. Quiere testar a las cazadoras primero y ver
 
 * Por último, Alfonse sabe que Néstor no comete fallos, es tremendamente metódico y todo sigue un orden concreto testado y revisado. Es una gran fortaleza y su mayor debilidad, no se espera que un grupo de niñas puedan hacerle frente y eso le va a volver loco al desbaratar sus planes.
 
+### Subiendo a un nivel superior del plan
+
+Si deciden ascender, todos sus esfuerzos les pondrán en camino a Néstor. 
+
+Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él hay algunas opciones:
+
+* Si revisan sus restos antes de huir de «Jaula», pueden como mínimo llevarse su teléfono móvil. Si consiguen hackearlo podrán encontrar mensajes con Néstor y las pruebas del tráfico de drogas.
+* Las desapariciones de menores no son algo público del que se hable en los medios o la calle, pero el patio del colegio si es un tema candente. Casi todas las víctimas de Néstor, como mínimo, tonteaban con drogas blandas. Algunos incluso trapicheaban por su cuenta y Néstor aprovecho a quitarse competencia. 
+* Está claro que los vampiros se meten en todos los negocios sucios del barrio y las drogas son ahora el principal problema que hay. 
+
+Si siguen alguna de estas pistas, deberían encaminarse a alguno de los centros de distribución de drogas de Néstor y puedes pasar al siguiente capítulo «Burning Love».
+
 |PorHacer.md|
 
 \sp

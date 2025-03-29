@@ -1,16 +1,3 @@
-
-### Subiendo a un nivel superior del plan
-
-Si deciden ascender, todos sus esfuerzos les pondrán en camino a Néstor. 
-
-Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él hay algunas opciones:
-
-* Si revisan sus restos antes de huir de «Jaula», pueden como mínimo llevarse su teléfono móvil. Si consiguen hackearlo podrán encontrar mensajes con Néstor y las pruebas del tráfico de drogas.
-* Las desapariciones de menores no son algo público del que se hable en los medios o la calle, pero el patio del colegio si es un tema candente.
-* Está claro que los vampiros se meten en todos los negocios sucios del barrio y las drogas son ahora el principal problema que hay. 
-
-Si siguen alguna de estas pistas, deberían encaminarse a alguno de los centros de distribución de drogas de Néstor.
-
 ### Explorando el nivel del plan actual
 
 Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio con diversas acciones.
@@ -22,17 +9,22 @@ Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, 
 
 Verónica tiene a su servicio un par de celadores de noche que le sirven incondicionalmente.
 
+* Celador de noche
+* **Bueno (+2) en:** Vigilar, Mover cosas y levantar pesos
+* **Malo (-2) en:** Tratar con los pacientes, Medicina  
+* **Estrés:** ◯◯◯
+
 XXX
 
-Verónica si luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
+Si tienen que enfrentarse a Verónica, si luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
+
+\sp
 
 En su casa y entre los restos de Verónica debería haber suficientes pruebas para acercarse a Néstor.
 
 * Mensajes en su teléfono pidiéndole que le consiga fármacos y con resúmenes de sus actividades de sabotaje. Necesitarán hackear el móvil para obtener esa información.
 * Informes de sobredosis que ha tratado y ha ocultado para que no salten las alarmas en la policía. Tienen post-its con los cambios que ha hecho para cuando elabora los informes para su señor.
 * XXX
-
-\sp
 
 ### Para despistar
 
