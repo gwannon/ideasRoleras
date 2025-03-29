@@ -531,6 +531,33 @@ Tendrá que suplicar por su vida, prometer servirlas, firmar algún tipo de trat
  
 Recuerda que ahora mismo está en inferioridad y que no tiene mucho margen de negociación, además cuando pueda las traicionará y acabará con ellas. Con lo que puede aceptar cualquier cosa que le propongan.
 
+\sinc
+
+## Always on My Mind
+
+> En este punto de la historia empecé a seguir diferentes pistas y cada pista me fue llevando a una nueva caza y a descubrir una parte del gran plan vampírico. Yo seguí este orden en mis investigaciones, pero tú quizás lo harías en otro orden o de otra manera. Al final lo importante es tener todas las piezas del plan y poder montarlo.
+
+\conc
+
+Tras su primera gran caza de chupasangres, las cosas se complican. Saben que sus problemas son las grandes de lo que pensaban, pero no tienen mucha información de la que tirar.
+
+### Alfonse puede ser de gran ayuda
+
+Si Alfonse ha sobrevivido, les podrá rápidamente en la pista de Néstor, del que no sabe más que lo necesario, pero tiene pistas que pueden encaminar a tus cazadoras hacia él.
+
+Alfonse no tiene mucho trato con su jefe, pero ni Alfonse ni nadie. Lo ha visto un par de veces cuando Lord Ceballos puso al joven vampiro a su cargo y un par de veces más. Normalmente, se comunican por mensajes de texto y voz y personalmente lo prefiere así porque no soporta su inquietante presencia.
+
+Alfonse puede darle una descripción, números de teléfono, mensajes de texto y sabe a ciencia cierta que se encarga principalmente del tráfico de drogas en el barrio, porque muchas veces le ordena dejar actuar tranquilamente a sus camellos en la «Jaula».
+
+Sabe más cosas, pero se las guarda. Quiere testar a las cazadoras primero y ver cómo se desenvuelven y si Néstor las atrapa y las tortura, no podrán contar mucho. Cosas que sabe:
+
+* Conoce toda la estructura de poder desde él hasta Lord Ceballos. No conoce otras ramas, pero sí la suya. Por ejemplo no conoce a Verónica, la otra sierva vampira de Néstor.
+* No tiene muy estudiado a Néstor, pero sabe que está detrás de las desapariciones de menores. No tiene detalles concretos, pero sabe de sus abominables apetitos. Lo importante para Alfonse es que las cazadoras son la presa y el depredador perfecto para Néstor.
+
+\sp
+
+* Por último, Alfonse sabe que Néstor no comete fallos, es tremendamente metódico y todo sigue un orden concreto testado y revisado. Es una gran fortaleza y su mayor debilidad, no se espera que un grupo de niñas puedan hacerle frente y eso le va a volver loco al desbaratar sus planes.
+
 |PorHacer.md|
 
 \sp

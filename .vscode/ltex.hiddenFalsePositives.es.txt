@@ -67,3 +67,5 @@
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QAdemás, como existe la magia, pues queda creíble porque te polimorfas en lo que sea.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEs juego indie en la Grecia clásica donde has creado tu propia corriente filosófica griega basada en alguna estupidez como que la gravedad no existe y te enfrentas a otras personas que han creado o siguen otras filosofías igual de estupidas.\\E$"}
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QQuiere testar a las cazadoras primero y ver cómo se desenvuelven y si Néstor las atrapa y las tortura no podrán contar mucho.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
