@@ -69,3 +69,5 @@
 {"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QQuiere testar a las cazadoras primero y ver cómo se desenvuelven y si Néstor las atrapa y las tortura no podrán contar mucho.\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
+{"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs (https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas , and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)\\E$"}
+{"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs (https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)\\E$"}

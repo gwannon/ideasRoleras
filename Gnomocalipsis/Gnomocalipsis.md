@@ -1,14 +1,12 @@
 # Gnomocalipsis
 
-![Imagen de portada](./images/portada.jpg "Imagen de portada")
-
 Gnomocalipsis es una ambientación en una página para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre una comunidad de gnomos islandeses que debe sobrevivir a un apocalipsis zombi.
 
 ## ¿Qué ha pasado?
 
 El bosque de Hofði en Islandia era un tranquilo lugar donde habitaba una comunidad de gnomos lejos de los ojos de los humanos. Vivían en paz y armonía hasta que un apocalipsis zombi asoló la tierra.
 
-Aunque son  inmunes a la enfermedad zombi, ahora tienen que sobrevivir a los ataques de los caminantes que se adentran en su bosque a devorar su carne.
+Aunque son inmunes a la enfermedad zombi, ahora tienen que sobrevivir a los ataques de los caminantes que se adentran en su bosque a devorar su carne.
 
 Los gnomos eran casi invisibles para los humanos a excepción de algunos niños y niñas, pero, a diferencia de los humanos, los zombis si pueden verlos y cuando se encuentran con una comunidad gnoma, la destruyen y se comen a todos sus habitantes.
 
@@ -26,29 +24,29 @@ Los zombis han acabado con casi toda la fauna y la desaparición de los humanos 
 
 Conseguir comida es el principal problema de la comunidad y cada vez hay que irse más lejos y arriesgar más para conseguir alimentos.
 
-XXX
+Otro problema acuciante es la perdida de la unidad. Empiezan a haber grupos que quieren irse a otros lugares sin importarles los que no pueden valerse solos. También hay los que no comparten sus botines y los que creen que debería disolverse el consejo de los ancianos y ancianas y mandar ellos con puño de hierro.
 
 ## Darse un respiro
 
-Para poder darse un respiro deberán poder acampar y descansar y eso se puede hacer siempre que no haya zombis cerca.
+Para poder darse un respiro deberán **poder acampar y descansar** y eso se puede hacer siempre que no haya **zombis cerca**.
 
 XXX
 
 ## Combatir a los zombis
 
-No hay forma de combatir contra un zombi, son monstruos gigantescos que se mueven lentamente y devoran todo lo que encuentran.
+**No hay forma de combatir contra un zombi,** son monstruos gigantescos que se mueven lentamente y devoran todo lo que encuentran.
 
-Pero si se les puede distraer y llamar su atención hacia otro lado o encerrarlos en alguna sala o inmovilizarlos con alguna trampa.
+Pero si se les puede **distraer** y llamar su atención hacia otro lado o **encerrarlos** en alguna sala o **inmovilizarlos** con alguna trampa.
 
 ### Movimiento y tamaño
 
 Los gnomos son increíblemente rápidos, de forma que no eran casi perceptibles por los humanos. Si a eso le sumas la lentitud de los zombis, para los gnomos es como si se movieran a la velocidad de glaciares.
 
-Esa es la gran ventaja que les permite combatirlos y defenderse de ellos. Esto permite a los gnomos escalar por los zombis e intentar algún plan descabellado.
+Esa es la gran ventaja que les permite combatirlos y defenderse de ellos. Gracias a eso, los gnomos pueden esquivar sus torpes ataques, escalar por sus harapos, correr entre sus pies e intentar algún plan descabellado.
 
 Otra cosa que debes tener en cuenta es la diferencia de tamaño. Un gnomo mide unos 15 cm, unas 12 veces menos que un zombi. Eso supone que cualquier ataque de un zombi es mortal. Si no lo esquivas o si te atrapa, ten claro que acabarás devorado.
 
-Si tus gnomos pierden todo su estrés frente a un zombi, estos serán atrapados y devorados por un zombi.
+Si tus gnomos **pierden todo su estrés frente a un zombi**, estos serán atrapados y **devorados por un zombi**.
 
 ### Defensas y armas
 
@@ -65,6 +63,8 @@ En Gnomocalipsis hay dos tipos de botín:
 
 Los gnomos siempre han considerado la tecnología humana como una ofensa contra la naturaleza, pero en situaciones desesperadas, medidas desesperadas y hay grupos de gnomos que se internan en los edificios humanos abandonados para conseguir tecnología útil.
 
+\sp
+
 La tecnología humana ocupa dos espacios en tu petate, pero es muy útil con los zombis, así que tiene un nivel más a la hora tirar, aunque conservan su nivel normal a la hora de gastarse.
 
 Los **kits médicos** son emplastos e infusiones de hierbas curativas del bosque y **solo se pueden conseguir en el bosque**. Los medicamentos humanos no sirven para gnomos.
@@ -78,3 +78,7 @@ Veamos algunos ejemplos de botines.
 ## Tramas
 
 XXX
+
+## Licencia 
+
+This work is based on Breathless, product of Fari RPGs (https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)

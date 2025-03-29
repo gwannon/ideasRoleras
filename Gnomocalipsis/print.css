@@ -1,0 +1,207 @@
+:root {
+  --padding: 62px; /*Ancho de los bordes de la página*/
+  --color-red: #ad3131;
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+body {
+  background: var(--color-black) url(./images/bg.png) repeat top center;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-white);
+  font-size: 12px;
+}
+
+body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border1.png) top left repeat-y
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border2.png) top left repeat-y;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+  margin: 10px 0px;
+  color: white;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+  font-style: italic;
+}
+
+/* Titulares */
+
+h1 {
+  background: transparent url(./images/portada.jpg) center bottom no-repeat;
+  background-size: auto 100%;
+  font-family: "Creepster", system-ui;
+  color: var(--color-red);
+  text-align: center;
+  height: 212px;
+  font-size: 51px;
+  margin-bottom: 0px;
+  margin-top: -5px !important;
+  padding-top: 12px !important;
+  text-shadow: 0px 0px 11px #000000;
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+  color: var(--color-white);
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3 {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h2 + p, 
+h3 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ul {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-white);
+}
+
+ul {
+  padding-left: 19px;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: '\2744';
+  position: absolute;
+  font-size: 20px;
+  top: -6px;
+  left: -20px;
+  display: block;
+  color: var(--color-white);
+} 
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: 2px dashed var(--color-white);
+  padding: 5px;
+  position: relative;
+
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 400;
+}
+
+table strong {
+  color: var(--color-red);
+  font-family: "Limelight", sans-serif;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
