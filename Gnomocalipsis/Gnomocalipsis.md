@@ -102,9 +102,12 @@ Veamos algunos ejemplos de botines.
 |3-4|**Podrido:** XXX|
 |5|**Sin piernas:** Son muy lentos y puedes huir de ellos fácilmente, pero no son fáciles de distraer y si encuentran un lugar adecuado, pueden quedarse dias delante de la grieta donde te has escondido.|
 
-## Tramas
+## Semillas de aventuras
 
-XXX
+* Un grupo de gnomos recuperadores no han vuelto de su última búsqueda, quizás hayan sido devorados por un zombi, quizás se hayan perdido o están heridos.
+* El cable de acero que usáis en el perímetro de seguridad de la comuna tiene que ser renovado, habrá que ir a la ciudad cercana a conseguir cable nuevo.
+* Una horda zombis se acerca a vuestro bosque, si entran en el bosque arrasarán con todo. Igual se puede hacer funcionar uno de esos ruidosos y pestilentes monstruos metálicos que usaban los humano para moverse y atraer su atención y alejarlos del bosque 
+* Un grupo de exploradores, vuelve con noticias inusuales, fuera de la linde del bosque se ha montado una pequeña comunidad de humanos supervivientes. ¿Qué deben hacer tus gnomos? ¿esconderse, comunicarse con ellos, echarlos de allí?
 
 ## Licencia 
 
