@@ -8,7 +8,7 @@ El bosque de Hofði en Islandia era un tranquilo lugar donde habitaba una comuni
 
 Aunque son inmunes a la enfermedad zombi, ahora tienen que sobrevivir a los ataques de los caminantes que se adentran en su bosque a devorar su carne.
 
-Los gnomos eran casi invisibles para los humanos a excepción de algunos niños y niñas, pero, a diferencia de los humanos, los zombis si pueden verlos y cuando se encuentran con una comunidad gnoma, la destruyen y se comen a todos sus habitantes.
+Los gnomos eran casi invisibles para los humanos a excepción de algunos niños y niñas, pero, a diferencia de los humanos, los zombis si pueden verlos y sobretodo oler su carne fresca. Cuando se encuentran con una comunidad gnoma, la destruyen y se comen a todos sus habitantes.
 
 Y no solo deben enfrentarse a zombis, el clima se ha ido a la mierda y el mundo es un perpetuo inverno que hace muchísimo más difícil la supervivencia.
 
@@ -16,7 +16,7 @@ Y no solo deben enfrentarse a zombis, el clima se ha ido a la mierda y el mundo 
 
 A la hora de crear un gnomo tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Breathless. El estrés de un gnomo es de 4 y tienen dos proezas, una exclusiva para interactuar con los zombis y otra con todo lo demás.
 
-En proporción, son mucho más fuertes que un humano y, por tanto, pueden cargar 4 objetos en su mochila y un kit médico. Además, como son unos excelentes recolectores, empiezan cada aventura con un objeto extra de d8.
+En proporción, son mucho más fuertes que un humano y, por tanto, pueden cargar 4 objetos en su mochila y un kit médico. Además, como son unos excelentes recolectores, empiezan cada aventura con un objeto humano extra de d8.
 
 ## El día a día
 
@@ -66,7 +66,7 @@ En Gnomocalipsis hay dos tipos de botín, del bosque y humano
 
 En el bosque puedes encontrar productos naturales como cascabullos de bellota que puedes usar de casco, yesca para hacer fuego, etc. 
 
-Con un 11-12 en la tirada de botín puedes encontrar un pequeño animal como ratones, topos o gorriones con d6 que puedes usar como equipo y que no ocupan equipo. Si se usan contra zombis, tras la tirada desaparecerán como si se hubieran gastado todos sus usos.
+Con un 11-12 en la tirada de botín puedes encontrar un pequeño animal como ratones, topos o gorriones con d6 que puedes usar como equipo y que no ocupan espacio en tu mochila. Si se usan contra zombis, tras la tirada desaparecerán como si se hubieran gastado todos sus usos.
 
 El botín del bosque solo se encuentra en zonas donde no había humanos.
 
@@ -94,7 +94,13 @@ Veamos algunos ejemplos de botines.
 |Bengalas|Antorchas|
 |Combustible|Yesca seca|
 |Despertador|XXX|
-|
+
+## Tipos de zombies
+|1d8|Tipo de zombi|
+|---|---|
+|1-2|**Fresco:** XXX|
+|3-4|**Podrido:** XXX|
+|5|**Sin piernas:** Son muy lentos y puedes huir de ellos fácilmente, pero no son fáciles de distraer y si encuentran un lugar adecuado, pueden quedarse dias delante de la grieta donde te has escondido.|
 
 ## Tramas
 
