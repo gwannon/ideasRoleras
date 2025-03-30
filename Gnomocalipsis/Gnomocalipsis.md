@@ -8,7 +8,7 @@ El bosque de Hofði en Islandia era un tranquilo lugar donde habitaba una comuni
 
 Aunque son inmunes a la enfermedad zombi, ahora tienen que sobrevivir a los ataques de los caminantes que se adentran en su bosque a devorar su carne.
 
-Los gnomos eran casi invisibles para los humanos a excepción de algunos niños y niñas, pero, a diferencia de los humanos, los zombis si pueden verlos y sobretodo oler su carne fresca. Cuando se encuentran con una comunidad gnoma, la destruyen y se comen a todos sus habitantes.
+Los gnomos eran casi invisibles para los humanos, a excepción de algunos niños y niñas, pero, a diferencia de los humanos, los zombis si pueden verlos y sobre todo oler su carne fresca. Cuando se encuentran con una comunidad gnoma, la destruyen y se comen a todos sus habitantes.
 
 Y no solo deben enfrentarse a zombis, el clima se ha ido a la mierda y el mundo es un perpetuo inverno que hace muchísimo más difícil la supervivencia.
 
@@ -52,7 +52,7 @@ Si tus gnomos **pierden todo su estrés frente a un zombi**, estos serán atrapa
 
 ### Defensas y armas
 
-Como ya hemos dicho las armas no son eficaces contra los zombis, solo contra otras criaturas como pudieran ser ratas rabiosas o gaviotas hambrientas.
+Como ya hemos dicho, las armas no son eficaces contra los zombis, solo contra otras criaturas como pudieran ser ratas rabiosas o gaviotas hambrientas.
 
 Lo único eficaz contra los zombis son las defensas y trampas. Por ejemplo, en Hofði hay un perímetro de seguridad que hace sonar unas latas y campanillas cuando se acerca un zombi. Hay también una serie de trampas de pozo con pincho a donde se les atrae para acabar con ellos.
 
@@ -62,9 +62,21 @@ Lo único eficaz contra los zombis son las defensas y trampas. Por ejemplo, en H
 
 Algo que tienes que tener claro, a la hora de llevar aventuras es que cuando salgan del bosque y se adentren en las ciudades, estarán en un mundo pensado para humanos, tanto para bien como para mal.
 
-Subir una escaleras es un ascenso muy complicado, pero por otro lado, esconderse detrás de un viejo frigorífico es bastante sencillo.
+Subir unas escaleras es un ascenso muy complicado, pero, por otro lado, esconderse detrás de un viejo frigorífico es bastante sencillo.
 
-No debes olvidar nunca esa perspectiva. Para que hagas una idea más visual, un gnomo con su gorro ronda los 20 cm y un escalón tiene de media también unos 20 cm.
+No debes olvidar nunca esa perspectiva. Para que hagas una idea más visual, un gnomo con su gorro ronda los 20 cm y un escalón tiene de media también unos de 20 cm.
+
+## Tipos de zombis (1d12)
+
+**1-4 - Fresco:** Recientemente muertos son tan rápidos como un humano, ya que sus carnes no están podridas o secas y suelen estar completos.
+
+**5-8 - Podrido:** Llevan años moviéndose, están muy resecos y les faltan muchas partes. Son más lentos que un humano, pero su olfato es mejor y su hambre por carne fresca los hace muy peligrosos y obstinados.
+
+**9-10 - Sin piernas:** Son muy lentos y puedes huir de ellos fácilmente, pero no son fáciles de distraer y si encuentran un lugar adecuado, pueden quedarse días delante de la grieta donde te has escondido.
+
+**11 - Fusionado:** Dos zombis que por alguna razón están juntos, quizás se engancharon sus costillas o se enredaron con algún tipo de alambrada, etc. Son peligrosos por tener más brazos y bocas, pero tienes problemas para moverse, ya que cada zombi va en una dirección.
+
+**12 - Otro más:** Hay un zombi adicional. Vuelve a tirar la clase del actual y adicional. Si llegarán a acumularse 3 zombis, esta opción se desactiva.
 
 ## Botín y tecnología humana
 
@@ -105,25 +117,16 @@ Veamos algunos ejemplos de botines.
 |Cerillas|Material para hacer antorchas|
 |Linterna|Madera para hacer barcas|
 |Petardos|Plumas y pelo de animal|
-|Pegamento|Resina de arbol|
-|Envase de plástico|Corteza de arbol|
+|Pegamento|Resina de árbol|
+|Envase de plástico|Corteza de árbol|
 |Navajas y cubiertos|XXX|
-
-## Tipos de zombies
-|1d12|Tipo de zombi|
-|---|---|
-|1-4|**Fresco:** Recientemente muertos son tan rápidos como un humano ya que sus carnes no están podridas o secas y suelen estar completos.|
-|5-8|**Podrido:** Llevan años moviéndose, están muy resecos y les faltan muchas partes. Son más lentos que un humano, pero su olfato es mejor y su hambre por carne fresca los hace muy peligrosos y obstinados.|
-|9-10|**Sin piernas:** Son muy lentos y puedes huir de ellos fácilmente, pero no son fáciles de distraer y si encuentran un lugar adecuado, pueden quedarse dias delante de la grieta donde te has escondido.|
-|11|**Fusionado:** Dos zombis que por alguna razón están juntos, quizás se engancharon sus costillas o se enredaron con algún tipo de alambrada, etc. Son peligrosos por tener más brazos y bocas, pero tienes problemas para moverse ya que cada zombi va en una dirección.|
-|12|**Otro más:** Hay un zombi adicional. Vuelve a tirar la clase del actual y adicional. Si llegarán a acumularse 3 zombis, está opción se desactiva|
 
 ## Semillas de aventuras
 
 * Un grupo de gnomos recuperadores no han vuelto de su última búsqueda, quizás hayan sido devorados por un zombi, quizás se hayan perdido o están heridos.
 * El cable de acero que usáis en el perímetro de seguridad de la comuna tiene que ser renovado, habrá que ir a la ciudad cercana a conseguir cable nuevo.
 * Una horda zombis se acerca a vuestro bosque, si entran en el bosque arrasarán con todo. Igual se puede hacer funcionar uno de esos ruidosos y pestilentes monstruos metálicos que usaban los humano para moverse y atraer su atención y alejarlos del bosque 
-* Un grupo de exploradores, vuelve con noticias inusuales, fuera de la linde del bosque se ha montado una pequeña comunidad de humanos supervivientes. ¿Qué deben hacer tus gnomos? ¿esconderse, comunicarse con ellos, echarlos de allí?
+* Un grupo de exploradores, vuelve con noticias inusuales, fuera de la linde del bosque se ha montado una pequeña comunidad de humanos supervivientes. ¿Qué deben hacer tus gnomos? ¿Esconderse, comunicarse con ellos, echarlos de allí?
 
 ## Licencia 
 

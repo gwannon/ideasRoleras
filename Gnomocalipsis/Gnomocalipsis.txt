@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: Gnomocalipsis
 
 InfoKey: Subject
-InfoValue: Gnomocalipsis es una ambientación en una página para Breathless sobre una comunidad de gnomos islandeses que debe sobrevivir a un apocalipsis zombi. Versión 0.5
+InfoValue: Gnomocalipsis es una ambientación en una página para Breathless sobre una comunidad de gnomos islandeses que debe sobrevivir a un apocalipsis zombi. Versión 1.0
 
 InfoKey: Author
 InfoValue: Gwannon
