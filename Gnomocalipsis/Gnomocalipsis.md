@@ -14,9 +14,9 @@ Y no solo deben enfrentarse a zombis, el clima se ha ido a la mierda y el mundo 
 
 ## Creando tu gnomo
 
-A la hora de crear un gnomo tienes que repartir XXX entre las 6 habilidades. El estrés de un gnomo es de 4 y tienen dos proezas, una exclusiva para interactuar con los zombis y otra con todo lo demás.
+A la hora de crear un gnomo tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Breathless. El estrés de un gnomo es de 4 y tienen dos proezas, una exclusiva para interactuar con los zombis y otra con todo lo demás.
 
-En proporción, son mucho más fuertes que un humano y por tanto pueden cargar 5 objetos en su mochila.
+En proporción, son mucho más fuertes que un humano y, por tanto, pueden cargar 4 objetos en su mochila y un kit médico. Además, como son unos excelentes recolectores, empiezan cada aventura con un objeto extra de d8.
 
 ## El día a día
 
@@ -64,7 +64,11 @@ En Gnomocalipsis hay dos tipos de botín, del bosque y humano
 
 ### Botín del bosque
 
-XXX. El botín del bosque solo se encuentra en zonas donde no había humanos.
+En el bosque puedes encontrar productos naturales como cascabullos de bellota que puedes usar de casco, yesca para hacer fuego, etc. 
+
+Con un 11-12 en la tirada de botín puedes encontrar un pequeño animal como ratones, topos o gorriones con d6 que puedes usar como equipo y que no ocupan equipo. Si se usan contra zombis, tras la tirada desaparecerán como si se hubieran gastado todos sus usos.
+
+El botín del bosque solo se encuentra en zonas donde no había humanos.
 
 ### Botín humano
 
@@ -76,11 +80,11 @@ El botín humano se encuentra en zonas donde había humanos y también en los ca
 
 La tecnología humana ocupa dos espacios en tu petate, pero es muy útil con los zombis, así que tiene un nivel más a la hora tirar, aunque conservan su nivel normal a la hora de gastarse.
 
-### Kit médicos
+### Kits médicos
 
 Los **kits médicos** son emplastos e infusiones de hierbas curativas del bosque y **solo se pueden conseguir en el bosque**. Los medicamentos humanos no sirven para gnomos.
 
-### Ejemplos de botin
+### Ejemplos de botín
 
 Veamos algunos ejemplos de botines.
 
@@ -98,4 +102,6 @@ XXX
 
 ## Licencia 
 
-This work is based on Breathless, product of Fari RPGs (https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de **[freepik](https://www.freepik.com/)** y **[Adobe Stock](https://stock.adobe.com/)**.
