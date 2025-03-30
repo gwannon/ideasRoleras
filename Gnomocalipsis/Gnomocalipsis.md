@@ -91,16 +91,24 @@ Veamos algunos ejemplos de botines.
 |Botín humano|Botín del bosque|
 |---|---|
 |Cordones|Lianas|
-|Bengalas|Antorchas|
+|Bengalas|Miel y cera|
 |Combustible|Yesca seca|
-|Despertador|XXX|
+|Despertador|Bayas y nueces|
+|Cerillas|Material para hacer antorchas|
+|Linterna|Madera para hacer barcas|
+|Petardos|XXX|
+|Pegamento|XXX|
+|Envase de plástico|XXX|
+|Navajas y cubiertos|XXX|
 
 ## Tipos de zombies
-|1d8|Tipo de zombi|
+|1d12|Tipo de zombi|
 |---|---|
-|1-2|**Fresco:** XXX|
-|3-4|**Podrido:** XXX|
-|5|**Sin piernas:** Son muy lentos y puedes huir de ellos fácilmente, pero no son fáciles de distraer y si encuentran un lugar adecuado, pueden quedarse dias delante de la grieta donde te has escondido.|
+|1-4|**Fresco:** Recientemente muertos son tan rápidos como un humano ya que sus carnes no están podridas o secas y suelen estar completos.|
+|5-8|**Podrido:** Llevan años moviéndose, están muy resecos y les faltan muchas partes. Son más lentos que un humano, pero su olfato es mejor y su hambre por carne fresca los hace muy peligrosos y obstinados.|
+|9-10|**Sin piernas:** Son muy lentos y puedes huir de ellos fácilmente, pero no son fáciles de distraer y si encuentran un lugar adecuado, pueden quedarse dias delante de la grieta donde te has escondido.|
+|11|**Fusionado:** Dos zombis que por alguna razón están juntos, quizás se engancharon sus costillas o se enredaron con algún tipo de alambrada, etc. Son peligrosos por tener más brazos y bocas, pero tienes problemas para moverse ya que cada zombi va en una dirección.|
+|12|**Otro más:** Hay un zombi adicional. Vuelve a tirar la clase del actual y adicional. Si llegarán a acumularse 3 zombis, está opción se desactiva|
 
 ## Semillas de aventuras
 
