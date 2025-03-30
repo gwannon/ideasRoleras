@@ -1,4 +1,4 @@
-# Gnomocalipsis
+# Gnomocalipsis [por Gwannon](https://gwannon.itch.io/gnomocalipsis-breathless)
 
 Gnomocalipsis es una ambientación en una página para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre una comunidad de gnomos islandeses que debe sobrevivir a un apocalipsis zombi.
 
@@ -14,13 +14,15 @@ Y no solo deben enfrentarse a zombis, el clima se ha ido a la mierda y el mundo 
 
 ## Creando tu gnomo
 
-XXX
+A la hora de crear un gnomo tienes que repartir XXX entre las 6 habilidades. El estrés de un gnomo es de 4 y tienen dos proezas, una exclusiva para interactuar con los zombis y otra con todo lo demás.
+
+En proporción, son mucho más fuertes que un humano y por tanto pueden cargar 5 objetos en su mochila.
 
 ## El día a día
 
 La vida es muy dura para la comunidad de Hofði. Los ataques de gigantescos zombis son cada vez más frecuentes y conseguir comida es muy complicado. 
 
-Los zombis han acabado con casi toda la fauna y la desaparición de los humanos ha hecho que millones de desastres ecológicos por todo el planeta hayan mandado a la mierda el clima. Los gnomos viven en un invierno continuo, sin ver casi el sol, con lluvia y nieve continua.
+Los zombis han acabado con casi toda la fauna terrestre y la desaparición de los humanos ha hecho que millones de desastres ecológicos por todo el planeta hayan mandado a la mierda el clima. Los gnomos viven en un invierno continuo, sin ver casi el sol, con lluvia y nieve continua.
 
 Conseguir comida es el principal problema de la comunidad y cada vez hay que irse más lejos y arriesgar más para conseguir alimentos.
 
@@ -28,9 +30,7 @@ Otro problema acuciante es la perdida de la unidad. Empiezan a haber grupos que 
 
 ## Darse un respiro
 
-Para poder darse un respiro deberán **poder acampar y descansar** y eso se puede hacer siempre que no haya **zombis cerca**.
-
-XXX
+Para poder darse un respiro deberán **poder acampar y descansar** y eso se puede hacer siempre que no haya **zombis cerca** y encuentren un sitio cubierto y seco donde hacer fuego.
 
 ## Combatir a los zombis
 
@@ -38,11 +38,13 @@ XXX
 
 Pero si se les puede **distraer** y llamar su atención hacia otro lado o **encerrarlos** en alguna sala o **inmovilizarlos** con alguna trampa.
 
+Piénsalo así, un zombi para un gnomo es como si un humano se encuentra con una horda de zombis. No es algo que pueda matar, puede desviarlo de su camino o esquivarlo, pero nunca combatirlo.
+
 ### Movimiento y tamaño
 
 Los gnomos son increíblemente rápidos, de forma que no eran casi perceptibles por los humanos. Si a eso le sumas la lentitud de los zombis, para los gnomos es como si se movieran a la velocidad de glaciares.
 
-Esa es la gran ventaja que les permite combatirlos y defenderse de ellos. Gracias a eso, los gnomos pueden esquivar sus torpes ataques, escalar por sus harapos, correr entre sus pies e intentar algún plan descabellado.
+Esa es la gran ventaja que les permite enfrentarse y defenderse de ellos. Gracias a eso, los gnomos pueden esquivar sus torpes ataques, escalar por sus harapos, correr entre sus pies e intentar algún otro plan descabellado.
 
 Otra cosa que debes tener en cuenta es la diferencia de tamaño. Un gnomo mide unos 15 cm, unas 12 veces menos que un zombi. Eso supone que cualquier ataque de un zombi es mortal. Si no lo esquivas o si te atrapa, ten claro que acabarás devorado.
 
@@ -54,26 +56,41 @@ Como ya hemos dicho las armas no son eficaces contra los zombis, solo contra otr
 
 Lo único eficaz contra los zombis son las defensas y trampas. Por ejemplo, en Hofði hay un perímetro de seguridad que hace sonar unas latas y campanillas cuando se acerca un zombi. Hay también una serie de trampas de pozo con pincho a donde se les atrae para acabar con ellos.
 
+\sp
+
 ## Botín y tecnología humana
 
-En Gnomocalipsis hay dos tipos de botín:
+En Gnomocalipsis hay dos tipos de botín, del bosque y humano
 
-* **Botín del bosque:** XXX. El botín del bosque solo se encuentra en zonas donde no había humanos. 
-* **Botín humano:** XXX. El botín humano se encuentra en zonas donde había humanos y también en los cadáveres de los zombis.
+### Botín del bosque
+
+XXX. El botín del bosque solo se encuentra en zonas donde no había humanos.
+
+### Botín humano
 
 Los gnomos siempre han considerado la tecnología humana como una ofensa contra la naturaleza, pero en situaciones desesperadas, medidas desesperadas y hay grupos de gnomos que se internan en los edificios humanos abandonados para conseguir tecnología útil.
 
-\sp
+Debes pensar que los botines humanos solo son útiles si no usan electricidad o van a pilas. Un despertador a cuerda funciona sin problema y puede programarse para que suene en determinado momento y atraiga a un zombi a una trampa.
+
+El botín humano se encuentra en zonas donde había humanos y también en los cadáveres de los zombis.
 
 La tecnología humana ocupa dos espacios en tu petate, pero es muy útil con los zombis, así que tiene un nivel más a la hora tirar, aunque conservan su nivel normal a la hora de gastarse.
 
+### Kit médicos
+
 Los **kits médicos** son emplastos e infusiones de hierbas curativas del bosque y **solo se pueden conseguir en el bosque**. Los medicamentos humanos no sirven para gnomos.
+
+### Ejemplos de botin
 
 Veamos algunos ejemplos de botines.
 
 |Botín humano|Botín del bosque|
 |---|---|
 |Cordones|Lianas|
+|Bengalas|Antorchas|
+|Combustible|Yesca seca|
+|Despertador|XXX|
+|
 
 ## Tramas
 
