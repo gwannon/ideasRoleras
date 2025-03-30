@@ -58,6 +58,14 @@ Lo único eficaz contra los zombis son las defensas y trampas. Por ejemplo, en H
 
 \sp
 
+## Un mundo para humanos
+
+Algo que tienes que tener claro, a la hora de llevar aventuras es que cuando salgan del bosque y se adentren en las ciudades, estarán en un mundo pensado para humanos, tanto para bien como para mal.
+
+Subir una escaleras es un ascenso muy complicado, pero por otro lado, esconderse detrás de un viejo frigorífico es bastante sencillo.
+
+No debes olvidar nunca esa perspectiva. Para que hagas una idea más visual, un gnomo con su gorro ronda los 20 cm y un escalón tiene de media también unos 20 cm.
+
 ## Botín y tecnología humana
 
 En Gnomocalipsis hay dos tipos de botín, del bosque y humano
@@ -96,9 +104,9 @@ Veamos algunos ejemplos de botines.
 |Despertador|Bayas y nueces|
 |Cerillas|Material para hacer antorchas|
 |Linterna|Madera para hacer barcas|
-|Petardos|XXX|
-|Pegamento|XXX|
-|Envase de plástico|XXX|
+|Petardos|Plumas y pelo de animal|
+|Pegamento|Resina de arbol|
+|Envase de plástico|Corteza de arbol|
 |Navajas y cubiertos|XXX|
 
 ## Tipos de zombies
