@@ -209,7 +209,7 @@ Tras una «agradable» conversación, les dará su tarjeta y les dirá que está
 
 ## ¿Dónde está Lisa?
 
-Lisa, en realidad Elsa, tras escapar de casa del profesor Hodgins ha alquilado una habitación y ha encontrado trabajo como aprendiz de dependienta en una perfumería. Sus modales y su cultura general,  le consiguieron el trabajo y su agudo olfato le ha hecho subir muchos puestos en pocas semanas. Su coquetería y su belleza, le han conseguido el amor del hijo de la propietaria de la perfumería.
+Lisa, en realidad Elsa, tras escapar de casa del profesor Hodgins ha alquilado una habitación y ha encontrado trabajo como aprendiz de dependienta en una perfumería. Sus modales y su cultura general, le consiguieron el trabajo y su agudo olfato le ha hecho subir muchos puestos en pocas semanas. Su coquetería y su belleza, le han conseguido el amor del hijo de la propietaria de la perfumería.
 
 ### Buscando a Lisa
 
@@ -284,7 +284,7 @@ Todo eso no es algo que le importe a Newcomen, así que igual tendrán que sobor
 
 Ya hemos hablado mucho de Lisa Doosmall y su «alter ego» Elsa y su historia, pero no hemos hablado de la relación entre ellas.
 
-Al aparecer Elsa, el cuerpo de Lisa no sufrío ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
+Al aparecer Elsa, el cuerpo de Lisa no sufrió ningún cambio físico, con lo que tiene la misma apariencia que Lisa, pero claro parece otra persona, ya que va perfectamente peinada y maquillada, con ropa limpia y elegante y habla perfectamente sin taras ni fallos.
 
 Viéndole solo la cara cualquiera diría que Elsa y Lisa son la misma persona. Pero viendo a Elsa en su entorno normal, con sus vestidos y con sus modales y maneras de alta cuna, nadie pensaría que hace unas semanas vendía flores a penique a la salida de los teatros de Covent Garden.
 
