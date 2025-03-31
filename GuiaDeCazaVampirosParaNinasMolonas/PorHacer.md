@@ -63,6 +63,8 @@ El grupo Ceballos suele inundar los barrios con casas de apuestas en su proceso 
 
 Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser XXX.
 
+\sp
+
 Lo interesante de la casa de apuestas «CebaBet» es que es un sitio donde pueden conocer a Catalina Faroes, que está tratando de cerrar la primera que han montado en el barrio.
 
 Catalina ha montado una sentada popular delante y se han organizado para que siempre haya gente del grupo vecinal con pancartas reivindicativas y recogiendo firmas.

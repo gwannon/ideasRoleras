@@ -119,7 +119,7 @@ Veamos algunos ejemplos de botines.
 |Petardos|Plumas y pelo de animal|
 |Pegamento|Resina de árbol|
 |Envase de plástico|Corteza de árbol|
-|Navajas y cubiertos|XXX|
+|Navajas y cubiertos|Setas y hongos|
 
 ## Semillas de aventuras
 

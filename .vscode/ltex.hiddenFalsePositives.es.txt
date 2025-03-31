@@ -66,9 +66,7 @@
 {"rule":"SUPER","sentence":"^\\QCarrera por los pasillos del super\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QAdemás, como existe la magia, pues queda creíble porque te polimorfas en lo que sea.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEs juego indie en la Grecia clásica donde has creado tu propia corriente filosófica griega basada en alguna estupidez como que la gravedad no existe y te enfrentas a otras personas que han creado o siguen otras filosofías igual de estupidas.\\E$"}
-{"rule":"AGREEMENT_DET_NOUN","sentence":"^\\QQuiere testar a las cazadoras primero y ver cómo se desenvuelven y si Néstor las atrapa y las tortura no podrán contar mucho.\\E$"}
-{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
-{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
-{"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs (https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas , and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)\\E$"}
-{"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs (https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License (https://creativecommons.org/licenses/by/4.0/)\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QCordones Lianas\nBengalas Miel y cera\nCombustible Yesca seca\nDespertador Bayas y nueces\nCerillas Material para hacer antorchas\nLinterna Madera para hacer barcas\nPetardos Plumas y pelo de animal\nPegamento Resina de árbol\nEnvase de plástico Corteza de árbol\nNavajas y cubiertos Setas y hongos\\E$"}
 {"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
