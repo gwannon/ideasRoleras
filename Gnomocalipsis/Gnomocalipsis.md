@@ -80,7 +80,7 @@ No debes olvidar nunca esa perspectiva. Para que hagas una idea más visual, un 
 
 ## Botín y tecnología humana
 
-En Gnomocalipsis hay dos tipos de botín, del bosque y humano
+En Gnomocalipsis hay dos tipos de botín, del bosque y humano.
 
 ### Botín del bosque
 
