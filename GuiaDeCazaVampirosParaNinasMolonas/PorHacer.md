@@ -26,6 +26,23 @@ En su casa y entre los restos de Verónica debería haber suficientes pruebas pa
 * Informes de sobredosis que ha tratado y ha ocultado para que no salten las alarmas en la policía. Tienen post-its con los cambios que ha hecho para cuando elabora los informes para su señor.
 * XXX
 
+### Subiendo a un nivel superior del plan
+
+Si deciden ascender, todos sus esfuerzos les pondrán en camino a Néstor. 
+
+Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él hay algunas opciones:
+
+* XXX
+* Las desapariciones de menores no son algo público del que se hable en los medios o la calle, pero el patio del colegio si es un tema candente.
+* Está claro que los vampiros se meten en todos los negocios sucios del barrio y las drogas son ahora el principal problema que hay. 
+
+Si siguen alguna de estas pistas, deberían encaminarse a alguna de las XXX.
+
+
+### El plan se reconstruye
+
+XXX
+
 ### Para despistar
 
 Si ves que la aventura va muy deprisa o quieres despistar a tus cazadoras un poco, aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
