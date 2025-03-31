@@ -7,20 +7,32 @@ Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, 
 * Ha saboteado varios equipos fundamentales como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
 * Hace desaparecer pruebas y resultados para obligar a repetirlas.
 
-Verónica tiene a su servicio un par de celadores de noche que le sirven incondicionalmente.
+Verónica tiene a su servicio un par de celadores de noche que le sirven incondicionalmente y que la protegen de día, cuando es más vulnerable.
 
 * Celador de noche
 * **Bueno (+2) en:** Vigilar, Mover cosas y levantar pesos
 * **Malo (-2) en:** Tratar con los pacientes, Medicina  
 * **Estrés:** ◯◯◯
 
-XXX
+#### Descubrir a Verónica 
 
-Si tienen que enfrentarse a Verónica, si luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
+La forma principal de descubrir todo el tinglado de Verónica es tener que ir a urgencias del hospital general del barrio.
 
 \sp
 
-En su casa y entre los restos de Verónica debería haber suficientes pruebas para acercarse a Néstor.
+Puede haber varias formas de acabar en el hospital. Si van a curarse de heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
+
+Tus cazadoras podrán ver que no lleva nada bien el olor ajo que seguramente les impregna o los objetos de cazadoras que porten.
+
+XXX
+
+A partir de ahí, deberán buscar la forma de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
+
+#### Cazar a Verónica
+
+Si tienen que enfrentarse a Verónica, si luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
+
+En su taquilla del hospital, los frigoríficos donde duerme y entre los restos de Verónica debería haber suficientes pruebas para acercarse a Néstor.
 
 * Mensajes en su teléfono pidiéndole que le consiga fármacos y con resúmenes de sus actividades de sabotaje. Necesitarán hackear el móvil para obtener esa información.
 * Informes de sobredosis que ha tratado y ha ocultado para que no salten las alarmas en la policía. Tienen post-its con los cambios que ha hecho para cuando elabora los informes para su señor.
@@ -38,7 +50,6 @@ Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él
 
 Si siguen alguna de estas pistas, deberían encaminarse a alguna de las XXX.
 
-
 ### El plan se reconstruye
 
 XXX
@@ -48,6 +59,8 @@ XXX
 Si ves que la aventura va muy deprisa o quieres despistar a tus cazadoras un poco, aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
 
 La idea es que, aunque no parezcan importantes, todas estas tramas les serán de ayuda más adelante.
+
+\sp
 
 #### La casa de las «Chejas»
 
@@ -62,8 +75,6 @@ Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan segu
 El grupo Ceballos suele inundar los barrios con casas de apuestas en su proceso de degradación y acaba de abrir la primera en el barrio, a pocos metros del colegio de tus cazadoras.
 
 Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser XXX.
-
-\sp
 
 Lo interesante de la casa de apuestas «CebaBet» es que es un sitio donde pueden conocer a Catalina Faroes, que está tratando de cerrar la primera que han montado en el barrio.
 
