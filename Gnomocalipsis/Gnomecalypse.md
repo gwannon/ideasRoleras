@@ -1,6 +1,6 @@
-# Gnomocalypse [by Gwannon](https://gwannon.itch.io/gnomocalipsis-breathless)
+# Gnomecalypse [by Gwannon](https://gwannon.itch.io/gnomocalipsis-breathless)
 
-Gnomocalypse is a one-page setting for [Breathless RPG System](https://fari-rpgs.itch.io/breathless-srd) about a community of Icelandic gnomes who must survive a zombie apocalypse.
+Gnomecalypse is a one-page setting for [Breathless RPG System](https://fari-rpgs.itch.io/breathless-srd) about a community of Icelandic gnomes who must survive a zombie apocalypse.
 
 ## What has happened?
 
@@ -80,7 +80,7 @@ You should never forget that idea. To visualize it, a gnome with his hat is arou
 
 ## Loot and human technology
 
-In Gnomocalypse there are two types of loot, forest and human.
+In Gnomecalypse there are two types of loot, forest and human.
 
 ### Forest loot
 
