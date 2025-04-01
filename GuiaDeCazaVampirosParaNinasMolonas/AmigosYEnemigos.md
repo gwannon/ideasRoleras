@@ -25,15 +25,25 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
   * Nunca rompe una promesa
 * **Estilos:** Cauto Enorme (+4), Furtivo Normal (+1), Ingenioso Enorme (+4), Llamativo Enorme (+4), Rápido Excelente (+5), Vigoroso Excelente (+5) 
 * **Proezas**
-  * XXX
+  * **En la cúspide de la pirámide trófica:** XXX
+  * **Yo hago las reglas:** XXX
+  * **Experiencia con cazavampiros:** Debido a que no ya les ha visto anteriormente con más cazavampiros, XXX
+  * **Este no es mi primer rodeo:** XXX
+  * **Hecho de pesadillas:** Lord Ceballos representa todos elementos que los humanos llevan temiendo desde que vivían en cavernas, XXX
+
+\sp
+
+* **Proezas:**
+  * **Sentidos de depredador:** XXX
+  * **Tentación:** Debido a Lord Ceballos puede cumplir cualquiera de tus deseos y sueños con su poder y su dinero tiene una gran capacidad de tentar a las personas y hacer con ellas lo que quiera. Debido a esto una vez por partida, Lord Ceballos se puede reunir en secreto con un PNJ (a no ser que lo tengan vigilado tus cazadoras) y tentarle para que traicione a tus cazadoras.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-\sp
-
 **Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
+
+\sp
 
 \sinc
 
@@ -147,6 +157,8 @@ Tito lleva más de 10 años sirviendo a su señor como jefe de seguridad. Es un 
 Empieza a ser mayor para la lucha directa, pero aún puede derribarte antes de que te des cuenta y ha aprendido con los años todo lo necesario para ser un excelente guardaespaldas.
 
 También ha mejorado su modo de ser y su educación de ser un descerebrado gritón y bravucón sin modales a ser un tipo discreto, callado y observador al que no se le escapa nada.
+
+\sp
 
 [![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
 
