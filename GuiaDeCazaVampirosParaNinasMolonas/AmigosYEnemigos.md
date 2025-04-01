@@ -12,6 +12,8 @@ Lord Ceballos lleva con nosotros desde hace más de 200 años. Nacido en una fam
 
 [![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
 
+&nbsp;
+
 El principal problema hoy en día que tiene el plan vampírico de Lord Ceballos es el propio Lord Ceballos, está demasiado anclado en el pasado e intenta usar trucos muy viejos en un mundo moderno y claramente muchas veces fallan. Aun así sus siervos vampíricos se encargan de modernizar sus trucos al nuevo siglo a escondidas de él. 
 
 Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otras zonas de la ciudad, es que no te quepa duda.
@@ -25,16 +27,15 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
   * Nunca rompe una promesa
 * **Estilos:** Cauto Enorme (+4), Furtivo Normal (+1), Ingenioso Enorme (+4), Llamativo Enorme (+4), Rápido Excelente (+5), Vigoroso Excelente (+5) 
 * **Proezas**
-  * **En la cúspide de la pirámide trófica:** XXX
-  * **Yo hago las reglas:** XXX
-  * **Experiencia con cazavampiros:** Debido a que no ya les ha visto anteriormente con más cazavampiros, XXX
-  * **Este no es mi primer rodeo:** XXX
-  * **Hecho de pesadillas:** Lord Ceballos representa todos elementos que los humanos llevan temiendo desde que vivían en cavernas, XXX
+  * **En la cúspide de la pirámide trófica:** Lord Ceballos es el depredador supremo, está arriba de pirámide trófica, debido a eso recibe +2 a Atacar en modo Vigoroso cuando se enfrenta en combate a humanos.
 
 \sp
 
 * **Proezas:**
-  * **Sentidos de depredador:** XXX
+  * **Yo hago las reglas:** Lord Ceballos es la máxima autoridad vampírica con potestad de hacer y deshacer a su gusto, debido a eso recibe +2 a Atacaren modo Llamativo cuando se enfrenta socialmente a otros vampiros.
+  * **Experiencia con cazavampiros:** Debido a que ya les ha visto anteriormente con más cazavampiros y conoce sus trucos recibe +2 a Crear ventaja de modo Furtivo cuando se enfrenta a cazavampiros.
+  * **Este no es mi primer rodeo:** No es la primera vez que tratan de matarlo, de forma que recibe un +2 a defenderse de modo cauto de los planes para acabar con su vida.
+  * **Hecho de pesadillas:** Lord Ceballos representa todos elementos que los humanos llevan temiendo desde que vivían en cavernas, una vez por partida puede desplegar todos sus poderes vampiros y hacer que masas de humanos huyan aterrorizados.
   * **Tentación:** Debido a Lord Ceballos puede cumplir cualquiera de tus deseos y sueños con su poder y su dinero tiene una gran capacidad de tentar a las personas y hacer con ellas lo que quiera. Debido a esto una vez por partida, Lord Ceballos se puede reunir en secreto con un PNJ (a no ser que lo tengan vigilado tus cazadoras) y tentarle para que traicione a tus cazadoras.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -42,8 +43,6 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 **Sugerencia de interpretación:** Eres un ser superior que lleva más de dos siglos entre los simples mortales y si tus planes se cumplen, te convertirás en el amo y señor de toda ciudad, así que es normal que consideres como hormigas a todos los que te rodean. Sus vidas son insignificantes para ti, meras herramientas, y no hay problemas en acabar con las vidas de los que te sirven, si sirve a tu causa. Si alto te irrita es que algo no salga como quieres y, en ese caso, alguien tiene que pagarlo.
-
-\sp
 
 \sinc
 
@@ -53,11 +52,15 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 
 Alfonse es le vampire más joven convertido por Lord Ceballos. El viejo Ceballos buscó a alguien que se pudiera introducir en grupos sociales diferentes a los que estaba acostumbrado y se encontró con le fiestere no binario de Alfonse. Viendo que había potencial en elle para ser un vampire lo convirtió y como prueba de fuego lo abandono unas semanas para ver si valía la pena. 
 
-[![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
-
 El paso a vampiro no fue nada traumático, como pensaba Lord Ceballos. Había tenido en su vida problemas mucho mayores que ese y había sobrevivido a ellos.
 
 Tras esas semanas, lo puso como «noob» al servicio de Néstor, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
+
+\sp
+
+[![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
+
+&nbsp;
 
 Alfonse odia profundamente Néstor y está buscando una forma de acabar con él y quedarse su puesto. Así que muy posiblemente vea a tus cazadoras como una oportunidad de deshacerse de él, para luego traicionarlas luego y ganarse la confianza de Lord Ceballos y obtener el puesto de Néstor.
 
@@ -66,8 +69,6 @@ Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bast
 Nuestro vampire en principio no tiene ningún tipo de escrúpulos morales o ético y solo piensa en sí mismo y su supervivencia por lo que solo mira por su interés sin importar quien caiga. De hecho eso es lo que vio Lord Ceballos en elle cuando lo convirtió. 
 
 Pero hay cosas en las que puede olvidarse de sí mismo y pensar en los demás. 
-
-\sp
 
 No soportará abusos y ataques al colectivo LGTBIQ+, tomándoselo con algo personal e incluso puede que establezca lazos emocionales y de amistad con alguna cazadora del colectivo que vayan más allá de la simple utilidad que puedan tener en sus planes. 
 
@@ -84,6 +85,9 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
   * **Dar coba:** Debido a que es un adulador nato y sabe regalarte los oídos, gana un +2 para Crear una ventaja de modo Llamativo cuando trata de seducir a humanos.
   * **Inmovilizar:** Con su experiencia en prácticas sexuales bizarras, gana un +2 a Atacar de modo vigoroso cuando trata de inmovilizar a sus víctimas.
   * .................................................................................
+
+\sp
+
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -97,8 +101,6 @@ Otra de las debilidades de Alfonse son les buscavides como él. Alfonse se suele
 
 \conc
 
-\sp
-
 \sinc
 
 ### Nieve
@@ -109,11 +111,13 @@ Nieve es la última persona a la que ha convertido en Lord Ceballos en vampiro. 
 
 La convirtió en vampira durante una convención de empresas del grupo (y paso a llamarse Nieve) y la ascendió a ayudante de su CTO en aquellos tiempos. Con el tiempo aprendió todo lo necesario para llevar al grupo empresarial y hacer realidad los planes que el Ceballos tenía en mente. Para 2010 había acabado con su jefe y se había convertido en la nueva CTO del grupo. Lord Ceballos estaba encantado con este cambio, solo tenía que plantearle una idea para que ella la hiciera realidad en pocos meses.
 
+Como Jefa de operaciones de una gran corporación sufre bastante estrés. El estrés en los vampiros no funciona igual que en los humanos, ya que la parte física no se ve muy afectada por el estrés. Sus cuerpos ya están muertos y no sufren muchos cambios. Así que el efecto en su psique es el doble de grave. 
+
+\sp
+
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
 
 &nbsp;
-
-Como Jefa de operaciones de una gran corporación sufre bastante estrés. El estrés en los vampiros no funciona igual que en los humanos, ya que la parte física no se ve muy afectada por el estrés. Sus cuerpos ya están muertos y no sufren muchos cambios. Así que el efecto en su psique es el doble de grave. 
 
 De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tonterías, pero se ha dejado a veces a víctimas vivas o muertas en el capó del coche durante horas y días.
 
@@ -121,22 +125,25 @@ También se ha vuelto muy sensible a los olores molestándole mucho, de hecho, e
 
 Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos creen Nieve será la próxima Lady Vampiresa cuando Ceballos se retire o muera. Eso hace que tenga más poder, pero también más enemigo que quieren su puesto.
 
+\sc
+
 * **Aspectos**
   * **Concepto principal:** Lugarteniente vampira de Lord Ceballos
   * **Complicación:** Demasiado estresada
   * Jefe de operaciones (CTO) del Grupo Ceballos
   * Los datos y la planificación aseguran el éxito.
   * Futura Lady Vampiresa
-
-\sp
-
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Enorme (+4), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Bueno (+2) 
 * **Proezas**
   * **Recursos humanos:** Sus años seleccionando personal, tanto para el entramado de empresas del Grupo Ceballos, como para el séquito de Lord Ceballos, la han enseñado a calar a la gente de un vistazo, de forma que obtiene un +2 a Defender en modo Cauto cuando se encuentra en reuniones, discusiones y entrevistas.
-  * **Tiburón empresarial:** XXX
-  * **OPA hostil:** XXX
-  * **Dinero negro:** Debido al dinero sucio que ha generado el Grupo Ceballos, una vez por partida puede sobornar a quien quiera para que mire hacia otro lado cuando intervenga o planee alguna actividad ilegal. No puede sobornar a PNJ o PJ en concreto, sino, más bien, a entidades como la policía, la fiscalía, inspección sanidad, un periódico o un medio, ... 
-  * **Empresas pantalla:** XXX
+  * **Tiburón empresarial:** Es tan agresiva en los negocios que recibe un +2 a Atacar en modo Vigoroso cuando negocia tratos.
+  * **OPA hostil:** Es tan buena negociante que recibe un +2 a Atacar en modo Ingenioso cuando negocia tratos.
+  * **Empresas pantalla:** Debido al entramado de empresas fantasmas del Grupo Ceballos, recibe +2 a Superar en modo Furtivo cuando trata de ocultar sus actividades pocos legales o que no quiere que sean públicas. 
+
+\sp
+
+* **Proezas**
+  * **Dinero negro:** Debido al dinero sucio que ha generado el Grupo Ceballos, una vez por partida puede sobornar a quien quiera para que mire hacia otro lado cuando intervenga o planee alguna actividad ilegal. No puede sobornar a PNJ o PJ en concreto, sino, más bien, a entidades como la policía, la fiscalía, inspección sanidad, un periódico o un medio, … 
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -158,13 +165,11 @@ Empieza a ser mayor para la lucha directa, pero aún puede derribarte antes de q
 
 También ha mejorado su modo de ser y su educación de ser un descerebrado gritón y bravucón sin modales a ser un tipo discreto, callado y observador al que no se le escapa nada.
 
-\sp
+Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
 
 [![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
 
 \sp
-
-Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
 
 Lord Ceballos lo atrajo y lo convirtió en su siervo dándole de beber de su sangre para que fuera más fuerte en los combates de MMA. Cuando se empezó a hablar de dopaje en sus peleas y le acusaron de violencia deportiva, abandonó la lucha profesional. Lo curioso es que todos en el mundillo del MMA sabían que se dopaba, pero ningún médico o laboratorio supo como lo hacía. 
 
@@ -197,13 +202,15 @@ Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus 
 
 Lord Ceballos la convirtió hacia mediados de los 80, de hecho compro la agencia de modelaje donde trabajaba y la hacía trabajar de azafata en sus eventos. Descubrió que si negociaba con ella cerca sus competidores estaban más distraídos y vio que el escultural cuerpo de Eloise podía mejorarse con las capacidades vampíricas que podía otorgarle.
 
+A diferencia de otros siervos vampíricos, le pidió permiso y le explico las ventajas, que no los inconvenientes. Eloise aceptó y ese es un error del que se arrepiente todas las noches.
+
 \sp
+
+Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans.
 
 [![[COMMISSION] Cheelu By aeeriz](./assests/images/_commission__cheelu_by_aeeriz_de1pgfp-414w-2x.jpg "[COMMISSION] Cheelu By aeeriz")](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781 "[COMMISSION] Cheelu By aeeriz")
 
-A diferencia de otros siervos vampíricos, le pidió permiso y le explico las ventajas, que no los inconvenientes. Eloise aceptó y ese es un error del que se arrepiente todas las noches.
-
-Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans.
+&nbsp;
 
 Se hace llamar Celose y evita toda estética gótica, pero conserva su carisma y elegancia. La mayor parte de sus followers no les importa lo que dice, solo la siguen por como lo dice.
 
@@ -225,10 +232,10 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
   * Mirada hipnótica
   * Una mente para los negocios y un cuerpo para el pecado
   * Excelente chef
+* **Estilos:** Cauto Grande (+3), Furtivo Grande (+3), Ingenioso Grande (+3), Llamativo Grande (+3), Rápido Grande (+3), Vigoroso Grande (+3) 
 
 \sp
 
-* **Estilos:** Cauto Grande (+3), Furtivo Grande (+3), Ingenioso Grande (+3), Llamativo Grande (+3), Rápido Grande (+3), Vigoroso Grande (+3) 
 * **Proezas**
   * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Rubia tonta:** Con los años aprendido a hacerse la «guapa, pero tonta» y obtiene +2 para Crear una ventaja en modo ingenioso cuando finge ser tonta, excéntrica, caprichosa o coqueta.
@@ -250,15 +257,17 @@ Covadonga es una de las más antiguas siervas de Lord Ceballos y fue de gran ayu
 
 Covadonga, a diferencia de sus compañeros vampiros, se quedó estancada en los años 20 del siglo XX y no ha conseguido avanzar desde esa época. Sigue vistiendo y comportándose como en 1920, no consigue comprender los avances de la tecnología y le cuesta relacionarse con la gente de 2020 con lo que su alimentación depende de lo que le proporcione Ceballos. 
 
-[![Hexerei, Clan Ventrue By IvanValladares](./assests/images/hexerei__clan_ventrue_by_ivanvalladares_duv7i4-375w-2x.jpg "Hexerei, Clan Ventrue By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540 "Hexerei, Clan Ventrue By IvanValladares")
-
-\sp
-
 Durante un tiempo la tuvo de su lugarteniente, pero Lord Guzmán empezó a ver que algo fallaba en la mente de su lugarteniente y tuvo que apartarla de su puesto.
 
 Fue creada también por Lord Guzmán y por eso Ceballos la considera una especie de hermana de sangre. Ese sentimiento fraternal, junto a la ayuda que le presto cuando eran jóvenes, hacen que Lord Ceballos la haya mantenido a su lado, a pesar de que con sus problemas para adaptarse a los tiempos suponga más una debilidad que una ventaja.   
 
 Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos.
+
+\sp
+
+[![Hexerei, Clan Ventrue By IvanValladares](./assests/images/hexerei__clan_ventrue_by_ivanvalladares_duv7i4-375w-2x.jpg "Hexerei, Clan Ventrue By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540 "Hexerei, Clan Ventrue By IvanValladares")
+
+&nbsp;
 
 Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros.
 
@@ -310,11 +319,11 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
 * **Estilos:** Cauto Mediocre (0), Furtivo Enorme (+4), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Enorme (+4)
 * **Proezas**
   * **Acechador:** Es un maestro moviéndose en las sombras, de forma que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.
-  * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de forma que una vez por sesión puede hacer huir de miedo a personajes secundarios. 
 
 \sp
 
 * **Proezas**
+  * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de forma que una vez por sesión puede hacer huir de miedo a personajes secundarios. 
   * **Guerra psicología:** Es un torturador nato y ha podido practicar con decenas de víctimas indefensas, de forma que consigue un +2 a Atacar de forma Ingeniosa a sus torturados.
   * **Guerra de bandas:** Como jefe de una red de tráfico de drogas conoce muy bien los bajos fondos del barrio, de forma que tiene +2 a Crear ventajas de forma Ingeniosa cuando trata de defender su territorio o atacar en de otras bandas.
 * **Capacidad de recuperación:** 3
@@ -334,15 +343,21 @@ AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidi
 
 \conc
 
-Carolina Faroes es una de las activistas más importante del barrio y no hay causa perdida que no haya defendido y organización social en que participe de activa. Su familia de origen brasileño, se vino a vivir al barrio cuando era una niña y ha crecido en sus calles aprendiendo respetarlas y quererlas.
+Carolina Faroes es una de las activistas más importante del barrio y no hay causa perdida que no haya defendido y organización social en que participe de activa.
+
+Su familia de origen brasileño, se vino a vivir al barrio cuando era una niña y ha crecido en sus calles aprendiendo respetarlas y quererlas.
 
 Estudio derecho con gran esfuerzo propio y de su familia y entorno cercano y cuando termino la carrera volvió al barrio en vez de quedarse en un lujoso bufete del centro. Desde entonces se dedica a defender a mujeres víctimas de violencia de género, parar desahucios, defender a inquilinos desprotegidos, …
 
-Catalina no les niega a nadie su ayuda y siempre está en primera línea cuando los antidisturbios se ponen en plan nazi y empiezan a golpear sus porras contra sus escudos sin amedrentarse ni un ápice. Así que sea el problema que tengas a ambos de la ley, querrás que este de tu lado y te defienda. 
+Catalina no les niega a nadie su ayuda y siempre está en primera línea cuando los antidisturbios se ponen en plan nazi y empiezan a golpear sus porras contra sus escudos sin amedrentarse ni un ápice. 
 
 \sp
 
 [![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
+
+&nbsp;
+
+Así que sea el problema que tengas a ambos de la ley, querrás que este de tu lado y te defienda. 
 
 En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el barrio de toda índole y eso no es normal, no pueden ser coincidencia, pero ni de lejos se imagina que hay un grupo de vampiros tratando de acabar con su barrio. Así que si alguien le viene que no ese cuento no lo tomará en serio a no ser que tenga pruebas sólidas e irrefutables. 
 
@@ -363,6 +378,8 @@ En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el
 
 **Sugerencia de interpretación:** No dejes de sonreír ni en las peores situaciones, porque ya has estado en cosas parecidas y has salido viva. Lo tuyo es el instinto y las decisiones rápidas, antes incluso de que lo hayas pensado ya estás actuando, quizás golpeando un antidisturbios o cantándole la internacional a la cara al nazi que intenta amedrentarte con un bate.
 
+\sp
+
 \sinc
 
 ### Verónica
@@ -370,8 +387,6 @@ En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el
 \conc
 
 Verónica es una veterana doctora de urgencias a la que Néstor transformó en vampira, porque necesitaba a alguien dentro del sistema de salud para qué le ayudará con los planes de Lord Ceballos en el barrio y por propio interés como sociopata.
-
-\sp
 
 [![Your heaven’s a lie By keep-breathing](./assests/images/your_heaven_s_a_lie_by_keep_breathing_d3iyvgd-375w-2x.jpg "Your heaven’s a lie By keep-breathing")](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685 "Your heaven’s a lie By keep-breathing")
 

@@ -70,3 +70,4 @@
 {"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QOPA hostil:\\E$"}
