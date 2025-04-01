@@ -125,7 +125,7 @@ Y si ser el CTO no la estresara lo suficiente, hay que sumarle en que todos cree
   * **Recursos humanos:** Sus años seleccionando personal, tanto para el entramado de empresas del Grupo Ceballos, como para el séquito de Lord Ceballos, la han enseñado a calar a la gente de un vistazo, de forma que obtiene un +2 a Defender en modo Cauto cuando se encuentra en reuniones, discusiones y entrevistas.
   * **Tiburón empresarial:** XXX
   * **OPA hostil:** XXX
-  * **Dinero negro:** XXX
+  * **Dinero negro:** Debido al dinero sucio que ha generado el Grupo Ceballos, una vez por partida puede sobornar a quien quiera para que mire hacia otro lado cuando intervenga o planee alguna actividad ilegal. No puede sobornar a PNJ o PJ en concreto, sino, más bien, a entidades como la policía, la fiscalía, inspección sanidad, un periódico o un medio, ... 
   * **Empresas pantalla:** XXX
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
@@ -363,16 +363,20 @@ Verónica es una veterana doctora de urgencias a la que Néstor transformó en v
 
 [![Your heaven’s a lie By keep-breathing](./assests/images/your_heaven_s_a_lie_by_keep_breathing_d3iyvgd-375w-2x.jpg "Your heaven’s a lie By keep-breathing")](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685 "Your heaven’s a lie By keep-breathing")
 
-Una de las razones por las que Néstor la convirtió en vampira fue que, como doctora de urgencias, podía controlar y manipular a las posibles víctimas de Néstor que hubieran sobrevivido a sus juegos. Si una de sus presas llegaba viva a Urgencias, Verónica podía limpiar pruebas que inculparan a Néstor, falsificar informes y tests e influir en las declaraciones de las víctimas.  
+&nbsp;
 
 XXX
+
+Una de las razones por las que Néstor la convirtió en vampira fue que, como doctora de urgencias, podía controlar y manipular a las posibles víctimas de Néstor que hubieran sobrevivido a sus juegos. Si una de sus presas llegaba viva a Urgencias, Verónica podía limpiar pruebas que inculparan a Néstor, falsificar informes y tests e influir en las declaraciones de las víctimas.  
+
+Verónica está muy enganchada a la vida vampira, ya sentía fascinación antes de ser convertida y ahora todavía. Ha juntado sus conocimientos médicos y cuando tiene un rato libre experimenta con su cuerpo vampírico haciéndose pruebas y tests y usándose como conejillo de indias. Sus conocimientos sobre la fisionomía vampira son superiores al de otros vampiros mucho más antiguos que ella.
 
 * **Aspectos**
   * **Concepto principal:** Doctora experta, vampira novata
   * **Complicación:** Muy fan de los vampiros
   * Medicina de urgencias
   * Acceso a pruebas, informes, drogas y medicamentos
-  * XXX
+  * Experta en biología vampírica
 * **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
 * **Proezas**
   * XXX
