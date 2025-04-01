@@ -392,7 +392,9 @@ Verónica es una veterana doctora de urgencias a la que Néstor transformó en v
 
 &nbsp;
 
-XXX
+A diferencia de sus congéneres, la caza es más una molestia más que una parte importante de su no-vida, así que no ha desarrollado ninguna habilidad relacionada con conseguir su sustento sanguíneo.
+
+Verónica simplemente depreda de los pacientes del hospital. Sabe de qué pacientes beber sin producirles daño, cuáles están sedados y no se enterarán y donde morder para no dejar rastro de sus festines.
 
 Una de las razones por las que Néstor la convirtió en vampira fue que, como doctora de urgencias, podía controlar y manipular a las posibles víctimas de Néstor que hubieran sobrevivido a sus juegos. Si una de sus presas llegaba viva a Urgencias, Verónica podía limpiar pruebas que inculparan a Néstor, falsificar informes y tests e influir en las declaraciones de las víctimas.  
 
@@ -404,14 +406,20 @@ Verónica está muy enganchada a la vida vampira, ya sentía fascinación antes 
   * Medicina de urgencias
   * Acceso a pruebas, informes, drogas y medicamentos
   * Experta en biología vampírica
-* **Estilos:** Cauto (X), Furtivo (X), Ingenioso (X), Llamativo (X), Rápido (X), Vigoroso (X) 
+* **Estilos:** Cauto Bueno (+2), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Bueno (+2) 
 * **Proezas**
-  * XXX
+  * **Puntos débiles:** Sus años en urgencias le han enseñado los puntos más débiles y más peligrosos donde atacar en el cuerpo humano, por lo que recibe un +2 a Atacar en modo Furtivo en combate cuerpo a cuerpo.
+
+\sp
+
+* **Proezas**
+  * **Anatomía humana:** Sus conocimientos de anatomía le permiten alimentarse de forma más eficiente y sin llamar la atención, por lo que recibe un +2 a Superar en modo Rápido cuando se alimenta en el hospital y/o de sus pacientes.
+  * **Acceso a tu cartilla de salud:** Con su acceso a las fichas médicas de la mayoría de gente del barrio puede saber muchas cosas de ti. Debido a eso recibe +2 a Generar una ventaja en modo Ingenioso al buscar información sobre una persona.
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
-**Sugerencia de interpretación:** XXX
+**Sugerencia de interpretación:** Tienes casi una doble personalidad, cuando eres la vampiresa, eres misteriosa, gótica y ambigua, mientras que cuando eres la doctora eres seria y centrada observando todo lo que pasa y dando un diagnóstico.
 
 \sp
