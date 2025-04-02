@@ -616,6 +616,51 @@ En su taquilla del hospital, en los frigoríficos donde duerme y entre los resto
 * Informes de sobredosis que ha tratado y ha ocultado para que no salten las alarmas en la policía. Tienen post-its con los cambios que ha hecho para cuando elabora los informes para su señor.
 * Informes médicos de ataques a menores que ha robado. 
 
+
+### El plan se reconstruye
+
+Recuerda que si Alfonse está muerto, Néstor debería en pocas semanas a buscar a un sustituto, quizás convierta algún siervo humano en vampiro y lo ponga al cargo de «Jaula». Una vez resuelto el problema principal, encargará a su nuevo siervo vampiro cazar a los asesinos de Alfonse.
+
+Si mantienen vivo a Alfonse, para Néstor no hay plan que reconstruir y seguirá como siempre.
+
+\sp
+
+### Para despistar
+
+Si ves que la aventura va muy deprisa o quieres despistar a tus cazadoras un poco, aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
+
+La idea es que, aunque no parezcan importantes, todas estas tramas les serán de ayuda más adelante.
+
+#### La casa de las «Chejas»
+
+La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas». Todo tipo de historias se cuentan de la casa y pueden oír algo raro sobre el lugar que las incite a explorarla.
+
+La casa es un sitio donde a veces Néstor lleva a sus víctimas y donde disfruta cazando las entre los cañaverales.
+
+Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan seguir y que les sirva de pista. Lo bueno es que __conocerán la casa en caso de que Néstor las__ __atrape y quiera jugar con ellas__.
+
+#### CebaBet
+
+El grupo Ceballos suele inundar los barrios con casas de apuestas en su proceso de degradación y acaba de abrir la primera en el barrio, a pocos metros del colegio de tus cazadoras.
+
+Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser haya una fiebre ludópata entre sus compañeros de clase. Parece ser que todo usan estas cosas (drogas, juego, juergas y borracheras, etc.) para deprimir los barrios asi que las casas de apuestas son un buen punto de partida.
+
+Lo interesante de la casa de apuestas «CebaBet» es que es un sitio donde pueden conocer a Catalina Faroes, que está tratando de cerrar la primera que han montado en el barrio.
+
+Catalina ha montado una sentada popular delante y se han organizado para que siempre haya gente del grupo vecinal con pancartas reivindicativas y recogiendo firmas.
+
+Catalina tratará de que la ayuden a recoger firmas y si les ofrecen entrar y jugar que lo graben para tener pruebas.
+
+\sinc
+
+## Burning love
+
+> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Hasta que llego Néstor. Con Néstor aprendimos lo que era el auténtico mal.
+
+\conc
+
+\sp
+
 |PorHacer.md|
 
 \sp

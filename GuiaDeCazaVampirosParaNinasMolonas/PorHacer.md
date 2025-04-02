@@ -1,59 +1,5 @@
-### Subiendo a un nivel superior del plan
 
-Si deciden ascender, todos sus esfuerzos les pondrán en camino a Néstor. 
-
-Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él hay algunas opciones:
-
-* XXX
-
-\sp
-
-* Las desapariciones de menores no son algo público del que se hable en los medios o la calle, pero el patio del colegio si es un tema candente.
-* Está claro que los vampiros se meten en todos los negocios sucios del barrio y las drogas son ahora el principal problema que hay. 
-
-Si siguen alguna de estas pistas, deberían encaminarse a alguna de las XXX.
-
-### El plan se reconstruye
-
-XXX
-
-### Para despistar
-
-Si ves que la aventura va muy deprisa o quieres despistar a tus cazadoras un poco, aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
-
-La idea es que, aunque no parezcan importantes, todas estas tramas les serán de ayuda más adelante.
-
-#### La casa de las «Chejas»
-
-La casa de las «Chejas» es una antigua y ruinosa casa que había en los humedales que se llama así porque la habitaban dos viejas solteronas a las que la gente del barrio llamaba las «Chejas». Todo tipo de historias se cuentan de la casa y pueden oír algo raro sobre el lugar que las incite a explorarla.
-
-La casa es un sitio donde a veces Néstor lleva a sus víctimas y donde disfruta cazando las entre los cañaverales.
-
-Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan seguir y que les sirva de pista. Lo bueno es que __conocerán la casa en caso de que Néstor las__ __atrape y quiera jugar con ellas__.
-
-#### CebaBet
-
-El grupo Ceballos suele inundar los barrios con casas de apuestas en su proceso de degradación y acaba de abrir la primera en el barrio, a pocos metros del colegio de tus cazadoras.
-
-Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser XXX.
-
-Lo interesante de la casa de apuestas «CebaBet» es que es un sitio donde pueden conocer a Catalina Faroes, que está tratando de cerrar la primera que han montado en el barrio.
-
-Catalina ha montado una sentada popular delante y se han organizado para que siempre haya gente del grupo vecinal con pancartas reivindicativas y recogiendo firmas.
-
-Catalina tratará de que la ayuden a recoger firmas y si les ofrecen entrar y jugar que lo graben para tener pruebas.
- 
-\sp
-
-\sinc
-
-## Burning love
-
-> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Hasta que llego Néstor. Con Néstor aprendimos lo que era el auténtico mal.
-
-\conc
-
-XXX
+Tus cazadoras ya saben a lo que se enfrentan, pero en este capítulo todo va a subir de nivel. Néstor debería suponer un antes y un después de lo que puedan pensar y creer de los vampiros y podrán ver que son auténticos monstruos.
 
 ### Si investigan el tráfico de drogas
 
@@ -65,7 +11,7 @@ XXX
 
 ### El plan de Néstor
 
-Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba joder las infraestructuras sociales. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
+Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba gentrificar el barrio y convertirlo en un sitio de fiesta y borrachera y con Verónica joder la sanidad local. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
 
 Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
 
@@ -88,8 +34,6 @@ Escapar por las alcantarillas es fácil si no mides ni 1,30 m, pero no es agra
 A lo «Cadena Perpetua», tus cazadoras deberá romper la cañería central, meterse dentro y arrastrarse entre mierda y porquería con un olor horrible durante unos 200 metros.
 
 La otra opción es acabar muertas tras ser chupada su sangre hasta la última gota por un pederasta de 150 años.
-
-\sp
 
 XXX
 
