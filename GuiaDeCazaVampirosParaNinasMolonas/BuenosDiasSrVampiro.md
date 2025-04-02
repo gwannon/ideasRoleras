@@ -570,6 +570,52 @@ Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él
 
 Si siguen alguna de estas pistas, deberían encaminarse a alguno de los centros de distribución de drogas de Néstor y puedes pasar al siguiente capítulo «Burning Love».
 
+### Explorando el nivel del plan actual
+
+Alfonse no es el único vampiro noob al servicio de Néstor. También tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio con diversas acciones.
+
+* Está cambiando las cita continuamente de personas con problemas de movilidad de forma que sea imposible aparecer al final.
+* Crea citas fantasma para llenar los horarios del personal médico a las que nunca acude nadie.
+* Ha saboteado varios equipos fundamentales como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
+* Hace desaparecer pruebas y resultados para obligar a repetirlas.
+
+Verónica tiene a su servicio un par de celadores de noche que le sirven incondicionalmente y que la protegen de día, cuando es más vulnerable.
+
+* Celador de noche
+* **Bueno (+2) en:** Vigilar, Mover cosas y levantar pesos
+* **Malo (-2) en:** Tratar con los pacientes, Medicina  
+* **Estrés:** ◯◯◯
+
+#### Descubrir a Verónica 
+
+La forma principal de descubrir todo el tinglado de Verónica es tener que ir a urgencias del hospital general del barrio.
+
+\sp
+
+Puede haber varias formas de acabar en el hospital. Si van a curarse heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
+
+Otra forma es que vayan al hospital por alguna razón y la pillen alimentándose de algún paciente. No tiene que ser muy evidente, pero por lo menos sospechoso.
+
+Recuerda también que Verónica está creando muchos problemas en los centros de salud y eso pueda afectar a personas mayores o de salud delicada. Tus cazadoras, tal vez, terminan en urgencias porque su yaya ha tenido un problema, ya que le han retrasado la cita de la diálisis varias veces gracias a Verónica y ha tenido una crisis.
+
+Tanto si les atienda a ellas como si atiende a algún pariente, tus cazadoras podrán ver que no lleva nada bien el olor ajo que seguramente les impregna a ellas y a su ropa o no ven con buenos ojos los objetos de cazadoras que porten.
+
+Deberían tener ya formas de ver si es una vampira, y deberán ingeniárselas para aplicarlas con Verónica sin que se dé cuenta.
+
+Si necesitan excusas para ir al hospital con asiduidad, pueden apuntarse a programas de acompañamiento de mayores solos, o quizas tengan una amiga en la planta de oncología, por poner unos ejemplos. __Sé respetuoso con estos temas y respeta las__ __decisiones de la mesa si no están cómodos.__
+
+Una vez confirmen que es una vampira, deberán buscar la forma de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
+
+#### Cazar a Verónica
+
+Si tienen que enfrentarse a Verónica, ella sí luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor. Recuerda que los celadores la vigilan mientras duerme, así que no está del todo desprotegida de día.
+
+En su taquilla del hospital, en los frigoríficos donde duerme y entre los restos de Verónica debería haber suficientes pruebas para acercarse a Néstor.
+
+* Mensajes en su teléfono pidiéndole que le consiga fármacos y con resúmenes de sus actividades de sabotaje. Necesitarán hackear el móvil para obtener esa información.
+* Informes de sobredosis que ha tratado y ha ocultado para que no salten las alarmas en la policía. Tienen post-its con los cambios que ha hecho para cuando elabora los informes para su señor.
+* Informes médicos de ataques a menores que ha robado. 
+
 |PorHacer.md|
 
 \sp
