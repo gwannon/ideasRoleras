@@ -1,6 +1,6 @@
 ### Explorando el nivel del plan actual
 
-Alfonse no es el único vampiro noob al servicio de Néstor, tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio con diversas acciones.
+Alfonse no es el único vampiro noob al servicio de Néstor. También tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio con diversas acciones.
 
 * Está cambiando las cita continuamente de personas con problemas de movilidad de forma que sea imposible aparecer al final.
 * Crea citas fantasma para llenar los horarios del personal médico a las que nunca acude nadie.
@@ -22,15 +22,21 @@ La forma principal de descubrir todo el tinglado de Verónica es tener que ir a 
 
 Puede haber varias formas de acabar en el hospital. Si van a curarse de heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
 
-Tus cazadoras podrán ver que no lleva nada bien el olor ajo que seguramente les impregna o los objetos de cazadoras que porten.
+Otra forma es que vayan al hospital por alguna razón y la pillen alimentándose de algún paciente. No tiene que ser muy evidente, pero por lo menos sospechoso. Recuerda que Verónica está creando muchos problemas en los centros de salud y eso pueda afectar a personas mayores y XXX.
 
 XXX
 
-A partir de ahí, deberán buscar la forma de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
+Tus cazadoras podrán ver que no lleva nada bien el olor ajo que seguramente les impregna a ellas y a su ropa o no ven con buenos ojos los objetos de cazadoras que porten.
+
+Deberían tener ya formas de ver si es una vampira, y deberán ingeniárselas para aplicarlas con Verónica sin que se dé cuenta.
+
+Si necesitan excusas para ir al hospital con asiduidad, pueden apuntarse a programas de acompañamiento de mayores solos, o tengan una amiga en la planta de oncología, por poner unos ejemplos. __Sé respetuoso con estos temas y respeta las__ __decisiones de la mesa si no están cómodos.__
+
+Una vez confirmen que es una vampira, deberán buscar la forma de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
 
 #### Cazar a Verónica
 
-Si tienen que enfrentarse a Verónica, si luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
+Si tienen que enfrentarse a Verónica, ella sí luchará hasta el final y no hay ninguna posibilidad de que traicione a su señor Néstor.
 
 En su taquilla del hospital, los frigoríficos donde duerme y entre los restos de Verónica debería haber suficientes pruebas para acercarse a Néstor.
 
@@ -48,6 +54,8 @@ Alfonse puede ser de mucha ayuda, como ya hemos visto, pero de no contar con él
 * Las desapariciones de menores no son algo público del que se hable en los medios o la calle, pero el patio del colegio si es un tema candente.
 * Está claro que los vampiros se meten en todos los negocios sucios del barrio y las drogas son ahora el principal problema que hay. 
 
+\sp
+
 Si siguen alguna de estas pistas, deberían encaminarse a alguna de las XXX.
 
 ### El plan se reconstruye
@@ -59,8 +67,6 @@ XXX
 Si ves que la aventura va muy deprisa o quieres despistar a tus cazadoras un poco, aquí tienes algunos callejones sin salida que puedes presentar a tus cazadoras.
 
 La idea es que, aunque no parezcan importantes, todas estas tramas les serán de ayuda más adelante.
-
-\sp
 
 #### La casa de las «Chejas»
 

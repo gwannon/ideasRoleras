@@ -418,7 +418,7 @@ Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía def
 2. Reglas para montar tu grupo de cazadoras de vampiros como enfrentarte a los grandes planos vampíricos que estén desarrollándose en tu barrio.
 3. «Buenos días, señor vampiro», una campaña en la que descubrirás la existencia de vampiros, aprenderás a combatirlos y evitarás que ejecuten sus malvados planes en tu barrio. 
 
-_AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niños_. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
+_AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niñes_. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
 
 Creado por [Gwannon](https://linktr.ee/gwannon)
 
