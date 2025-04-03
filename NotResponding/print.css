@@ -1,12 +1,13 @@
 :root {
   --padding: 62px; /*Ancho de los bordes de la página*/
-  --color-red: #ad3131;
-  --color-white: #fff;
-  --color-black: #000;
+  --color-red: #0f380f;
+  --color-white: #0f380f;
+  --color-black: #cadc9f;
 }
 
 body {
   background: var(--color-black) url(./images/bg.png) repeat top center;
+  background-size: 30% auto;
   margin: 0;
   padding: 0;
   font-family: "Advent Pro", sans-serif;
@@ -67,12 +68,12 @@ body > *:first-child,
 }
 
 blockquote {
-  border: 1px solid black;
+  border: 1px solid var(--color-white);
   padding: 10px;
-  background-color: black;
+  background-color:  var(--color-white);
   border-radius: 5px;
   margin: 10px 0px;
-  color: white;
+  color:  var(--color-black);
 }
 
 blockquote p {
@@ -81,20 +82,23 @@ blockquote p {
   font-style: italic;
 }
 
+blockquote a {
+  color:  var(--color-black);
+}
+
 /* Titulares */
 
 h1 {
-  background: transparent url(./images/portada.jpg) center bottom no-repeat;
-  background-size: auto 100%;
   font-family: "VT323", monospace;
   color: var(--color-red);
-  text-align: center;
-  height: 212px;
   font-size: 51px;
+  /*background: transparent url(./images/portada.jpg) center bottom no-repeat;
+  background-size: auto 100%;
+  height: 212px;
   margin-bottom: 0px;
   margin-top: -5px !important;
   padding-top: 12px !important;
-  text-shadow: 0px 0px 11px #000000;
+  text-shadow: 0px 0px 11px #000000;*/
 }
 
 h1 > a {
@@ -116,7 +120,7 @@ h3 {
   color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 0px;
-  text-shadow: 0px 0px 11px #000000;
+  /*text-shadow: 0px 0px 11px #000000;*/
   margin-top: 5px;
 }
 
@@ -126,6 +130,11 @@ h2 {
 
 h3 {
   font-size: 1.5em;
+}
+
+h2:after,
+h3:after {
+  content: "_";
 }
 
 h2 + p, 
@@ -145,7 +154,7 @@ a {
 }
 
 ul {
-  padding-left: 19px;
+  padding-left: 12px;
 }
 
 ul li {
@@ -154,11 +163,11 @@ ul li {
 }
 
 ul li:before {
-  content: '\2744';
+  content: '\268F';
   position: absolute;
-  font-size: 20px;
-  top: -6px;
-  left: -20px;
+  font-size: 10px;
+  top: 0px;
+  left: -12px;
   display: block;
   color: var(--color-white);
 } 
@@ -175,12 +184,16 @@ table {
 
 table thead tr th {
   text-align: left;
+  font-family: "VT323", monospace;
   font-weight: 700;
+  font-size: 1.5em;
+  background-color: var(--color-white);
+  color: var(--color-black);
 }
 
 table strong {
   color: var(--color-red);
-  font-family: "Limelight", sans-serif;
+  font-family: "VT323", monospace;
 }
 
 @media screen {
