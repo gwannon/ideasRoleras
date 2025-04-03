@@ -12,6 +12,21 @@ XXX
 
 XXX
 
+• Bash: wreck, move, force.
+• Dash: run, jump, climb.
+• Sneak: hide, skulk, lurk.
+• Shoot: track, throw, fire.
+• Think: perceive, analyze, repair.
+• Sway: charm, manipulate, intimidate.
+
+### Tipos de software
+
+* **exe:** XXX
+* **bin:** XXX
+* **sh:** XXX 
+* **bat/bas:** XXX
+* **dat:** XXX 
+
 ### Clases de software
 
 XXX
@@ -36,7 +51,7 @@ XXX
 
 XXX
 
-### Código fuente (Kit médico)
+### &#91;&#x271A;&#93; (Kit médico) 
 
 XXX
 
@@ -44,9 +59,9 @@ XXX
 
 XXX
 
-### ¿Qué está fallando?
+### ¿Qué está fallando? ¯\\&#x5f;(ツ)&#x5f;/¯
 
-XXX
+XXX 
 
 |1d6|Fallo|
 |---|-----|

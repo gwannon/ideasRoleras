@@ -132,8 +132,7 @@ h3 {
   font-size: 1.5em;
 }
 
-h2:after,
-h3:after {
+h2:after {
   content: "_";
 }
 
