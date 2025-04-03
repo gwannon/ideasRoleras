@@ -546,3 +546,7 @@ Gnomocalypse
 They
 Gnomecalypse
 gentrificar
+cronjobs
+Cronjobs
+crons
+quizas

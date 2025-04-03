@@ -79,7 +79,11 @@ blockquote {
 blockquote p {
   padding: 0px;
   margin: 0px;
-  font-style: italic;
+}
+
+blockquote p:before {
+  content: "\0024\0020";
+  font-weight: 700;
 }
 
 blockquote a {
