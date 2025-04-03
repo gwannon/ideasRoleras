@@ -10,32 +10,46 @@ XXX
 
 ## Desarrollando tu software
 
-XXX
+A la hora de crear software tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Breathless.
 
-• Bash: wreck, move, force.
-• Dash: run, jump, climb.
-• Sneak: hide, skulk, lurk.
-• Shoot: track, throw, fire.
-• Think: perceive, analyze, repair.
-• Sway: charm, manipulate, intimidate.
+Aparte puede soportar 4 sectores defectuosos (Stress) y 1 overcloqueo (Stunts).
 
 ### Tu nombre y tu extensión 
 
 XXX
 
+Además debes elegir tu extensión, que te da una ventaja y una desventaja.
+
 * **exe:** XXX
 * **bin:** XXX
 * **sh:** XXX 
 * **bat/bas:** XXX
-* **dat:** XXX 
+* **dat:** Estos grandes ficheros de datos pueden soportar un sector defectuoso que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están XXX
 
 ### Clases de software
 
 XXX
 
-## Backups {Stress}
+* **Código libre:** XXX
+* **Código propietario:** XXX
+* **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. XXX
 
-XXX 
+### Habilidades
+
+Las habilidades de Not Responding se basan en las 6 habilidades de Breathless adaptadas al software.
+
+* **XXX {Bash}:** XXX
+* **XXX {Dash}:** XXX
+* **XXX {Sneak}:** XXX
+* **XXX {Shoot}:** XXX
+* **XXX {Think}:** XXX
+* **XXX {Sway}:** XXX
+
+## &#91;▦&#93; Sectores defectuosos {Stress}
+
+Cada ítem de software puede soportar hasta 4 sectores defectuosos. XXX
+
+Los sectores defectuosos siguen el mismo funcionamiento que el Stress de Breathless.
 
 ## Reseteo {Catch your breath}
 
@@ -43,13 +57,27 @@ XXX
 
 ## Overcloqueo {Stunts}
 
+Hay momentos en que tus ítems de software tendrán que salirse de las capacidades que les otorga su código y tengan que forzar el procesador a trabajar por encima de sus límites seguros de funcionamiento.
+
+Para ello pueden usar un overcloqueo, que siguen las mismas reglas que los Stunts de Breathless.
+
+Los overcloqueos hacen un uso excesivo de procesador y generan mucho calor. Lanza un d10 y si sale 1 o 0 el servidor se recalienta 1 punto.
+
+## &#91;☰&#93; Buscar en los logs {Loot}
+
 XXX
 
-## Recursos del sistema {Loot}
+## &#91;>_&#93; Comandos del sistema {Backpack}
 
-XXX
+Los comandos de sistema funcionan como el Backpack de Breathless.
 
-### &#91;+&#93; {Medical kit} 
+Veamos los comandos que pueden conseguir tus ítems de software cuando buscan recursos.
+
+* **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX
+* **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
+* **XXX:** XXX
+
+### &#91;+&#93; XXX {Medical kit} 
 
 XXX
 
@@ -61,6 +89,10 @@ XXX
 
 XXX
 
+### Directorio /root
+
+XXX
+
 ## El hardware está fallando
 
 XXX
@@ -69,7 +101,7 @@ XXX
 
 Los ordenadores se calientan y cuanta más temperatura, peor funciona. La temperatura del servidor en pieza a 0 y diferentes eventos puedes hacer que suba y baje.
 
-XXX
+Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus softwares podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
 ### ¿Qué está fallando? ¯\\&#x5f;(ツ)&#x5f;/¯
 
@@ -95,17 +127,37 @@ XXX
 
 Las tareas programadas o cronjobs son tareas que el servidor realiza periódicamente, como vaciar todas las noches la papelera de reciclaje o enviar un email del estado del servidor cada hora.
 
+\sp
+
 Así que pueden ser terribles, si vacían la papelera mientras estás dentro o una oportunidad de huida si convences al script de envío de correo de que adjunte al email de estado del servidor.
 
 Para crear tus crons debes definir 3 aspectos:
 
 * **Acción que se realiza:** XXX
 * **Localización del ordenador a la que afecta:** XXX
-* **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como cuando se tomen un número par de reseteos o cuando la temperatura alcance 3.
+* **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como «cuando se tomen un número par de reseteos» o «cuando la temperatura alcance 3».
+
+Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea que debe hacer. Así que deberán poder consultar el listado de tareas programadas que se encuentra en el directorio /root y así podrán saber con lanzar la tarea programada.
+
+> Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. ≥ **updateDatos.sh** 
+
+## Criaturas y horrores en FAT32
+
+Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro.
 
 XXX
 
-> Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. ≥ **updateDatos.sh** 
+### Virus
+
+XXX
+
+### Antivirus
+
+XXX
+
+### Malware
+
+XXX
 
 ## Desbordamiento de pila
 
@@ -127,14 +179,44 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 \sp
 
-\sinc
-
 ## Ficha de software
 
 XXX
 
+**Nombre + extensión:** .......................................
+
+**Tipo:** .....................................................
+
+Bash:
+
+Dash:
+
+Sneak:
+
+Shoot:
+
+Think:
+
+Sway:
+
+**&#91;Overcloqueo&#93;** ◯
+
+**&#91;▦&#93;** ◯ ◯ ◯ ◯
+
+**&#91;☰&#93;** 
+
+**&#91;>_&#93;**
+
+└ .......................... .... ...
+
+└ .......................... .... ...
+
+└ .......................... .... ...
+
+**&#91;+&#93;** ◯
+
+\sc
+
 ## Ficha del servidor
 
 XXX
-
-\conc
