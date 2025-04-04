@@ -436,6 +436,14 @@ Se le podría dar una vuelta y convertirlos en una revista científica donde cad
 
 Otra opción es que tuvieran un toque youtuber descerebrado/Cazadores de mitos que prueba leyendas y mitos de las bestias. En plan veamos si realmente la cocatriz tiene poderes petrificantes y pone delante de una cocatriz un goblin con algún tipo de equipo de protección mágica casera a ver si le petrifica. O se pregunta cuánto salta un troll y monta algún tipo de estúpida trampa que obliga a un troll a saltar.
 
+### Clase de personajes Orgbot
+
+Es un robot que se pone parte orgánicas para conseguir nuevas capacidades que su cuerpo robot. Vamos sería un ciborg al revés, por eso el nombre orgbot, organical robot.
+
+Pueden ser cosas que la tecnología no replica bien como el tacto o cosas que solo afectarían a los humanos como la telepatía.
+
+También cosas que solo tuvieran los seres vivos. Por ejemplo, un mundo donde solo los seres vivos tienen magia porque la magia solo la canaliza la materia viva, un robot se pondría brazos de carne y hueso para lanzar hechizos.
+
 \sp
 
 \sinc
