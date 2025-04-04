@@ -10,9 +10,9 @@ XXX
 
 ## Desarrollando tu software
 
-A la hora de crear software tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Breathless.
+A la hora de crear software tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Not Responding basadas en  Breathless.
 
-Aparte puede soportar 4 sectores defectuosos (Stress) y 1 overcloqueo (Stunts).
+Aparte puedes soportar 4 sectores defectuosos (Stress) y 1 puede realizar un overcloqueo (Stunts).
 
 ### Tu nombre y tu extensión 
 
@@ -22,7 +22,7 @@ Además debes elegir tu extensión, que te da una ventaja y una desventaja.
 
 * **exe:** XXX
 * **bin:** XXX
-* **sh:** XXX 
+* **sh:** XXX. Te desarrollaron para cubrir tu tarea sea como se sea, así que puedes repetir las tiradas de overcloqueo, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de 1 y te quedas con los 0 o los 1 en caso de salir.
 * **bat/bas:** XXX
 * **dat:** Estos grandes ficheros de datos pueden soportar un sector defectuoso que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están XXX
 
@@ -32,24 +32,24 @@ XXX
 
 * **Código libre:** XXX
 * **Código propietario:** XXX
-* **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. XXX
+* **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. Te sientes parte del sistema y te conoces el sistema como si fueran tus bytes. XXX
 
 ### Habilidades
 
 Las habilidades de Not Responding se basan en las 6 habilidades de Breathless adaptadas al software.
 
-* **XXX {Bash}:** XXX
-* **XXX {Dash}:** XXX
-* **XXX {Sneak}:** XXX
-* **XXX {Shoot}:** XXX
-* **XXX {Think}:** XXX
-* **XXX {Sway}:** XXX
+* **XXX {Bash}:** Golpear, destrozar, arrastrar, forzar
+* **Migración {Dash}:** Moverse, correr, saltar, escalar
+* **Encriptación {Sneak}:** Moverse en secreto, esconderse, acechar, husmear
+* **XXX {Shoot}:** Disparar, rastrear, lanzar, apuntar
+* **Procesamiento {Think}:** Pensar, percibir, analizar, reparar
+* **Interfaz {Sway}:** Influenciar, encantar, manipular, intimidar
 
 ## ❲▩❳ Sectores defectuosos {Stress}
 
 Cada ítem de software puede soportar hasta 4 sectores defectuosos. XXX
 
-Los sectores defectuosos siguen el mismo funcionamiento que el Stress de Breathless.
+> Los sectores defectuosos siguen el mismo funcionamiento que el Stress de Breathless.
 
 ## ❲◘❳ Reseteo {Catch your breath}
 
@@ -61,8 +61,6 @@ Hay momentos en que tus ítems de software tendrán que salirse de las capacidad
 
 Para ello pueden usar un overcloqueo, que siguen las mismas reglas que los Stunts de Breathless.
 
-\sc
-
 > Los overcloqueos hacen un uso excesivo de procesador y generan mucho calor. Lanza un d10 y si sale 1 o 0 el servidor se recalienta 1 punto.
 
 ## ❲☰❳ Buscar procesos {Loot}
@@ -71,19 +69,21 @@ XXX
 
 ## ❲>_❳ Comandos del sistema {Backpack}
 
-Los comandos de sistema funcionan como el Backpack de Breathless.
-
-Veamos los comandos que pueden conseguir tus ítems de software cuando buscan recursos.
+Veamos los comandos que pueden conseguir tus ítems de software cuando buscan procesos.
 
 * **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX 
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
 * **XXX:** XXX
 
-### ❲+❳ XXX {Medical kit} 
+> Los comandos de sistema funcionan como el Backpack de Breathless.
 
-XXX
+### ❲+❳ Backup {Medical kit} 
 
-## Localizaciones
+Un backup te permite recuperar la información perdida por los sectores defectuosos y volver a poder funcionar con normalidad. 
+
+> Los backups funcionan como los medical Kits de Breathless.
+
+## ¸.·´¯`·X Localizaciones
 
 XXX
 
@@ -117,6 +117,8 @@ XXX
 
 Como software sabes que el servidor se muere, lo sientes en tu código y antes de que colapse tu instinto de supervivencia te dice que busques un punto de salida. 
 
+\sp
+
 Quizás un viejo módem, quizás un disquete de 5¼ o tal vez te acepten en otro servidor en LAN. Incluso quedarte fijado en una vieja memoria EPROM es mejor que desvanecerse aquí.
 
 > Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. ≥ **MSCalc.exe**
@@ -124,8 +126,6 @@ Quizás un viejo módem, quizás un disquete de 5¼ o tal vez te acepten en otro
 Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
 
 XXX
-
-\sp
 
 ## (¬) Tareas programadas
 
