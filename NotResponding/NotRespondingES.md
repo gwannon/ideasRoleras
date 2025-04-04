@@ -45,29 +45,31 @@ Las habilidades de Not Responding se basan en las 6 habilidades de Breathless ad
 * **XXX {Think}:** XXX
 * **XXX {Sway}:** XXX
 
-## &#91;▩&#93; Sectores defectuosos {Stress}
+## ❲▩❳ Sectores defectuosos {Stress}
 
 Cada ítem de software puede soportar hasta 4 sectores defectuosos. XXX
 
 Los sectores defectuosos siguen el mismo funcionamiento que el Stress de Breathless.
 
-## &#91;◘&#93; Reseteo {Catch your breath}
+## ❲◘❳ Reseteo {Catch your breath}
 
 XXX
 
-## &#91;☈&#93; Overcloqueo {Stunts}
+## ❲☈❳ Overcloqueo {Stunts}
 
 Hay momentos en que tus ítems de software tendrán que salirse de las capacidades que les otorga su código y tengan que forzar el procesador a trabajar por encima de sus límites seguros de funcionamiento.
 
 Para ello pueden usar un overcloqueo, que siguen las mismas reglas que los Stunts de Breathless.
 
+\sc
+
 > Los overcloqueos hacen un uso excesivo de procesador y generan mucho calor. Lanza un d10 y si sale 1 o 0 el servidor se recalienta 1 punto.
 
-## &#91;☰&#93; Buscar en los logs {Loot}
+## ❲☰❳ Buscar procesos {Loot}
 
 XXX
 
-## &#91;>_&#93; Comandos del sistema {Backpack}
+## ❲>_❳ Comandos del sistema {Backpack}
 
 Los comandos de sistema funcionan como el Backpack de Breathless.
 
@@ -77,7 +79,7 @@ Veamos los comandos que pueden conseguir tus ítems de software cuando buscan re
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
 * **XXX:** XXX
 
-### &#91;+&#93; XXX {Medical kit} 
+### ❲+❳ XXX {Medical kit} 
 
 XXX
 
@@ -103,7 +105,7 @@ Los ordenadores se calientan y cuanta más temperatura, peor funciona. La temper
 
 Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus softwares podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
-### ¿Qué está fallando? ¯\\&#x5f;(ツ)&#x5f;/¯
+### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
 XXX 
 
@@ -123,11 +125,11 @@ Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás informa
 
 XXX
 
-## Tareas programadas {Cronjobs}
+\sp
+
+## (¬) Tareas programadas
 
 Las tareas programadas o cronjobs son tareas que el servidor realiza periódicamente, como vaciar todas las noches la papelera de reciclaje o enviar un email del estado del servidor cada hora.
-
-\sp
 
 Así que pueden ser terribles, si vacían la papelera mientras estás dentro o una oportunidad de huida si convences al script de envío de correo de que adjunte al email de estado del servidor.
 
@@ -141,7 +143,7 @@ Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea q
 
 > Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. ≥ **updateDatos.sh** 
 
-## Criaturas y horrores en FAT32
+## ❲◣_◢❳ Criaturas y horrores en FAT32
 
 Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro.
 
@@ -187,4 +189,4 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 ## Ficha del servidor
 
-XXX
+|HojaServidor.html|
