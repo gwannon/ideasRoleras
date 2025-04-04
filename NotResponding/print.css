@@ -185,13 +185,19 @@ table {
 
 }
 
-table thead tr th {
+table thead tr th,
+table tr th {
   text-align: left;
   font-family: "VT323", monospace;
   font-weight: 700;
   font-size: 1.5em;
   background-color: var(--color-white);
   color: var(--color-black);
+}
+
+table.special th,
+table.special td {
+  font-size: 1.3em;
 }
 
 table strong {

@@ -45,23 +45,23 @@ Las habilidades de Not Responding se basan en las 6 habilidades de Breathless ad
 * **XXX {Think}:** XXX
 * **XXX {Sway}:** XXX
 
-## &#91;▦&#93; Sectores defectuosos {Stress}
+## &#91;▩&#93; Sectores defectuosos {Stress}
 
 Cada ítem de software puede soportar hasta 4 sectores defectuosos. XXX
 
 Los sectores defectuosos siguen el mismo funcionamiento que el Stress de Breathless.
 
-## Reseteo {Catch your breath}
+## &#91;◘&#93; Reseteo {Catch your breath}
 
 XXX
 
-## Overcloqueo {Stunts}
+## &#91;☈&#93; Overcloqueo {Stunts}
 
 Hay momentos en que tus ítems de software tendrán que salirse de las capacidades que les otorga su código y tengan que forzar el procesador a trabajar por encima de sus límites seguros de funcionamiento.
 
 Para ello pueden usar un overcloqueo, que siguen las mismas reglas que los Stunts de Breathless.
 
-Los overcloqueos hacen un uso excesivo de procesador y generan mucho calor. Lanza un d10 y si sale 1 o 0 el servidor se recalienta 1 punto.
+> Los overcloqueos hacen un uso excesivo de procesador y generan mucho calor. Lanza un d10 y si sale 1 o 0 el servidor se recalienta 1 punto.
 
 ## &#91;☰&#93; Buscar en los logs {Loot}
 
@@ -73,7 +73,7 @@ Los comandos de sistema funcionan como el Backpack de Breathless.
 
 Veamos los comandos que pueden conseguir tus ítems de software cuando buscan recursos.
 
-* **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX
+* **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX 
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
 * **XXX:** XXX
 
@@ -181,39 +181,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 ## Ficha de software
 
-XXX
-
-**Nombre + extensión:** .......................................
-
-**Tipo:** .....................................................
-
-Bash:
-
-Dash:
-
-Sneak:
-
-Shoot:
-
-Think:
-
-Sway:
-
-**&#91;Overcloqueo&#93;** ◯
-
-**&#91;▦&#93;** ◯ ◯ ◯ ◯
-
-**&#91;☰&#93;** 
-
-**&#91;>_&#93;**
-
-└ .......................... .... ...
-
-└ .......................... .... ...
-
-└ .......................... .... ...
-
-**&#91;+&#93;** ◯
+|HojaPersonaje.html|
 
 \sc
 
