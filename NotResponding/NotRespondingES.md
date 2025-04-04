@@ -205,7 +205,11 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/),
 
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
 
-\sp
+\sinc
+
+&nbsp;
+
+\conc
 
 ## Ficha de software
 
