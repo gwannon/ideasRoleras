@@ -71,3 +71,11 @@
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QOPA hostil:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRecuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_imagenes, borrarImagenes, borrar-imagenes, ...\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRecuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_imagenes, borrarImagenes, borrar-imagenes, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlmacenamiento {Bash}:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGolpear, destrozar, arrastrar, forzar\nMigración {Dash}:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoverse en secreto, esconderse, acechar, husmear\nPuntear {Shoot}:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDisparar, rastrear, lanzar, apuntar\nProcesamiento {Think}:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPensar, percibir, analizar, reparar\nInterfaz {Sway}:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoverse, correr, saltar, escalar\nEncriptación {Sneak}:\\E$"}

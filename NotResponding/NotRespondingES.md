@@ -20,21 +20,21 @@ Aparte puedes soportar 4 sectores defectuosos (Stress) y 1 puede realizar un ove
 
 ### Tu nombre y tu extensión 
 
-Lo segundoo que debes hacer es darle un nombre a tu software. Normalmente son muy descriptivos, pero también pueden ser juegos de palabras y chistes, incluso siglas o no tener sentido.
+Lo segundo que debes hacer es darle un nombre a tu software. Normalmente, son muy descriptivos, pero también pueden ser juegos de palabras y chistes, incluso siglas o no tener sentido.
 
-Recuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_imagenes, borrarImagenes, borrar-imagenes, ...
+Recuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_imagenes, borrarImagenes, borrar-imagenes, …
 
-Además debes elegir tu extensión. La extensión marca un poco tu función dentro del sistema y te da una ventaja y una desventaja en función de esa funcion.
+Además, debes elegir tu extensión. La extensión marca un poco tu función dentro del sistema y te da una ventaja y una desventaja en función de esa función.
 
 * **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables. XXX
 * **sh/bas:** XXX. Te desarrollaron para cumplir tu tarea sea como se sea y sin importar si saturas al servidor. Así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
-* **cfg:** Estos software contiene gran muchas veces contraseñas y claves y saben con esconderla y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado.. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Cómo desventaja serán el objetivo principal de virus y otros depredadores informáticos.
+* **cfg:** Estos software contiene gran muchas veces contraseñas y claves y saben con esconderla y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Cómo desventaja serán el objetivo principal de virus y otros depredadores informáticos.
 * **dat:** Estos grandes ficheros de datos **pueden soportar un sector defectuoso más** que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están se quedan inmóviles e indefensos mientras se ejecuta la defragmentación.
 * **Sin extensión:** XXX
 
 ### Origen del software
 
-El software puede tener diferentes origenes y normalmente los items con el mismo origen se suelen llevar bien y los de diferentes origen se suelen llevar mal.
+El software puede tener diferentes orígenes y normalmente los items con el mismo origen se suelen llevar bien y los de diferentes orígenes se suelen llevar mal.
 
 * **Código libre:** XXX
 * **Código propietario:** XXX
@@ -78,7 +78,7 @@ Hay momentos en que tus ítems de software tendrán que salirse de las capacidad
 
 Cuando tus softwares llegan a una ubicación puede tratar de buscar procesos y comandos ejecutados en esa ubicación que les puedan ayudar en su fuga del servidor.
 
-Las localizaciones donde no se puede recachear tienen el icono de búsqueda de procesos tachado en su título ~~❲☰❳~~.
+Las localizaciones donde no se puede buscar procesos tienen el icono de búsqueda de procesos tachado en su título ~~❲☰❳~~.
 
 Puede haber localizaciones donde las búsquedas estén bonificadas, como la papelera de reciclaje que permite repetir la tirada de búsqueda pero te quedas con la segunda tirada.
 
@@ -223,12 +223,4 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 \sp
 
-# Desbordamiento de pila_
-
-«Desbordamiento de pila» es una partida de un par de sesiones para 4 ítems de software. XXX
-
-XXX
-
-## Software pregenerado
-
-XXX
+|DesbordamientoPilaES.md|

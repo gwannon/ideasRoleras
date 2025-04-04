@@ -558,5 +558,4 @@ defragmentación
 cronjob
 Backpack
 Loot
-borrar_imagenes
-borrarImagenes
+root
