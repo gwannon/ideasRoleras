@@ -88,10 +88,11 @@ Puede haber localizaciones donde las búsquedas estén bonificadas, como la pape
 
 Veamos los comandos que pueden conseguir tus ítems de software cuando buscan procesos.
 
-* **Cat:** XXX
+* **Cat:** Permite visualizar contenido XXX
 * **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX 
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
-* **Tar:** Comprimir permite XXX
+* **Kill -9:** XXX
+* **Tar:** Comprimir permite Manejar grandes bloques de bytes de forma sencilla.
 * **XXX:** XXX
 
 > Los comandos de sistema funcionan como el {Backpack} de Breathless.
@@ -138,7 +139,7 @@ XXX
 
 El servidor puede tener todas las unidades de almacenamiento secundarias.
 
-## El hardware está fallando
+## ❲ERR❳ El hardware está fallando
 
 XXX
 
@@ -148,6 +149,8 @@ Los ordenadores se calientan y cuanta más temperatura, peor funciona. La temper
 
 Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
+> La temperatura del servidor debe ser secreta. Pueden tener una idea, pero tus ítems de software nunca deberían saber la temperatura real. Si necesitan saberla deberán ir a la BIOS. Puede haber eventos que salten con la temperatura y es interesante que sepan que algo puede pasar, pero no cuando.
+
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
 XXX 
@@ -155,8 +158,9 @@ XXX
 |1d6|Fallo|
 |---|-----|
 |1|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Si se arregla un ventilador, baja 1 la temperatura.|
+|6|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
 
-## Puntos de salida
+## ❲@❳Puntos de salida
 
 Como software sabes que el servidor se muere, lo sientes en tu código y antes de que colapse tu instinto de supervivencia te dice que busques un punto de salida. 
 
@@ -170,6 +174,8 @@ Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás informa
 
 XXX
 
+\sp
+
 ## (¬) Tareas programadas
 
 Las tareas programadas o cronjobs son tareas que el servidor realiza periódicamente, como vaciar todas las noches la papelera de reciclaje o enviar un email del estado del servidor cada hora.
@@ -179,9 +185,6 @@ Así que pueden ser terribles, si vacían la papelera mientras estás dentro o u
 Para crear tus crons debes definir 3 aspectos:
 
 * **Acción que se realiza:** puede ser cualquier cosa que se te ocurra, desde vaciar la papelera, con lo que el software que esté dentro deberá salir pitando o recalentar el procesador con la creación de un informe financiero de la contabilidad de la empresa que eleva la temperatura 1 punto.
-
-\sp
-
 * **Localización del ordenador a la que afecta:** Una tarea puede afectar a una o más zonas al mismo y a distintos tiempos. Por ejemplo un cron hace una copia de seguridad del disco duro principal en un disco secundario y vacía todo su contenido del disco duro principal. Tu software podría enfrentarse a un borrado en el disco principal o a una avalancha de datos que colapse el disco secundario.
 * **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como «cuando se tomen un número par de reseteos» o «cuando la temperatura alcance 3».
 
@@ -205,13 +208,24 @@ XXX
 
 Los antivirus son la policía del servidor y controlan el sector de Cuarentena que es su cárcel. XXX
 
+```
+All Antivirus Are Bastards -> HelloWorld.bin
+```
+
+### Firewall
+
+XXX
+
 ### Malware
+
+XXX
+
+### Bucle infinito
 
 XXX
 
 ## Términos que puedes usar
 
-* Bucle infinito
 * Desbordamiento de pila
 * Iteraciones, bucles y condiciones
 * Puerta trasera

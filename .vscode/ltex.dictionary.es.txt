@@ -579,3 +579,4 @@ d12
 &ast
 Not
 Responding_
+descalibrado
