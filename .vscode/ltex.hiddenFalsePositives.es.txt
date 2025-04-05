@@ -79,3 +79,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDisparar, rastrear, lanzar, apuntar\nProcesamiento {Think}:\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPensar, percibir, analizar, reparar\nInterfaz {Sway}:\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoverse, correr, saltar, escalar\nEncriptación {Sneak}:\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QNombre.ext\\E$"}

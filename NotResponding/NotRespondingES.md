@@ -14,11 +14,11 @@ Siempre dices que el servidor no aguantará una nueva actualización del sistema
 
 ## Desarrollando tu software
 
-A la hora de crear items de software tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Not Responding basadas en  Breathless.
+A la hora de crear ítems de software tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Not Responding basadas en Breathless.
 
 Aparte puedes soportar 4 sectores defectuosos (Stress) y 1 puede realizar un overcloqueo (Stunts).
 
-### Tu nombre y tu extensión 
+### Nombre.ext 
 
 Lo segundo que debes hacer es darle un nombre a tu software. Normalmente, son muy descriptivos, pero también pueden ser juegos de palabras y chistes, incluso siglas o no tener sentido.
 
@@ -30,18 +30,18 @@ Además, debes elegir tu extensión. La extensión marca un poco tu función den
 * **sh/bas:** XXX. Te desarrollaron para cumplir tu tarea sea como se sea y sin importar si saturas al servidor. Así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
 * **cfg:** Estos software contiene gran muchas veces contraseñas y claves y saben con esconderla y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Cómo desventaja serán el objetivo principal de virus y otros depredadores informáticos.
 * **dat:** Estos grandes ficheros de datos **pueden soportar un sector defectuoso más** que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están se quedan inmóviles e indefensos mientras se ejecuta la defragmentación.
-* **Sin extensión:** XXX
+* **Sin extensión:** XXX. 
 
-### Origen del software
+### ❲₪❳ Origen del software
 
-El software puede tener diferentes orígenes y normalmente los items con el mismo origen se suelen llevar bien y los de diferentes orígenes se suelen llevar mal.
+El software puede tener diferentes orígenes y normalmente los ítems con el mismo origen se suelen llevar bien y los de diferentes orígenes se suelen llevar mal.
 
 * **Código libre:** XXX
 * **Código propietario:** XXX
 * **Código propietario pirateado:** XXX
 * **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. Te sientes parte del sistema y te conoces el sistema como si fueran tus bytes. XXX
 
-### Habilidades
+### ❲.&ast;❳ Habilidades
 
 Las habilidades de Not Responding se basan en las 6 habilidades de Breathless adaptadas al software.
 
@@ -54,7 +54,7 @@ Las habilidades de Not Responding se basan en las 6 habilidades de Breathless ad
 
 ## ❲▩❳ Sectores defectuosos
 
-Cada ítem de software puede soportar hasta 4 sectores defectuosos. Cuando llegan a ese tope deja de funcionar y seguramente serán purgados del sistema.
+Cada ítem de software puede soportar hasta 4 sectores defectuosos. Cuando llegan a ese tope dejan de funcionar y seguramente serán purgados del sistema.
 
 > Los sectores defectuosos siguen el mismo funcionamiento que el {Stress} de Breathless.
 
@@ -62,7 +62,7 @@ Cada ítem de software puede soportar hasta 4 sectores defectuosos. Cuando llega
 
 Los recacheos permiten a tu software borrar datos viejos y reconstruir nuevos dejando de tener sectores defectuosos.
 
-Para poder recachearse un item de software debe estar en una zona que lo permita y sin amenazas cercanas. Las localizaciones donde no se puede recachear tienen el icono de Recacheo tachado en su título ~~❲◘❳~~.
+Para poder recachearse un ítem de software debe estar en una zona que lo permita y sin amenazas cercanas. Las localizaciones donde no se puede recachear tienen el icono de Recacheo tachado en su título ~~❲◘❳~~.
 
 > El recacheo sigue el mismo funcionamiento que el {Catch your breath} de Breathless.
 
@@ -76,11 +76,11 @@ Hay momentos en que tus ítems de software tendrán que salirse de las capacidad
 
 ## ❲☰❳ Buscar procesos
 
-Cuando tus softwares llegan a una ubicación puede tratar de buscar procesos y comandos ejecutados en esa ubicación que les puedan ayudar en su fuga del servidor.
+Cuando tus ítems de software llegan a una ubicación puede tratar de buscar procesos y comandos ejecutados en esa ubicación que les puedan ayudar en su fuga del servidor.
 
 Las localizaciones donde no se puede buscar procesos tienen el icono de búsqueda de procesos tachado en su título ~~❲☰❳~~.
 
-Puede haber localizaciones donde las búsquedas estén bonificadas, como la papelera de reciclaje que permite repetir la tirada de búsqueda pero te quedas con la segunda tirada.
+Puede haber localizaciones donde las búsquedas estén bonificadas, como la papelera de reciclaje que permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada.
 
 > La búsqueda de procesos funciona como el {Loot Check} de Breathless.
 
@@ -88,6 +88,7 @@ Puede haber localizaciones donde las búsquedas estén bonificadas, como la pape
 
 Veamos los comandos que pueden conseguir tus ítems de software cuando buscan procesos.
 
+* **Cat:** XXX
 * **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX 
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
 * **Tar:** Comprimir permite XXX
@@ -131,7 +132,7 @@ XXX
 
 Los ordenadores se calientan y cuanta más temperatura, peor funciona. La temperatura del servidor en pieza a 0 y diferentes eventos puedes hacer que suba y baje.
 
-Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus softwares podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
+Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
@@ -204,6 +205,8 @@ XXX
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
+
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://fari-rpgs.itch.io/breathless-srd "This game is Breathless")
 
 \sinc
 
