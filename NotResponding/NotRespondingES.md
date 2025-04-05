@@ -6,7 +6,13 @@ Tus ítems de software no solo deberán enfrentarse a los errores cada vez más 
 
 ## El servidor
 
-XXX
+Tus softwares se encuentran en un viejo servidor, igual web, igual de impresión o quizás que controla alguna vieja maquinaria. Seguramente, no tenga ni interfaz gráfico y funciones por linea de comando.
+
+El servidor lleva años desactualizado y sin un mantenimiento adecuado, pero como funcionaba a nadie no le preocupaba nada de eso, pero ahora está empezando a fallar cada vez con más frecuencia y su software sabe que su final se acerca.
+
+Cada vez hay más sectores defectuosos, el procesador se sobrecalienta a la minima, moverse por los buses de datos es un peligro y las últimas copias de seguridad han fallado todas.
+
+Si tus ítems de software quieren sobrevivir, deben huir del servidor antes de que colapse definitivamente por sobrecalentamiento.
 
 ```
 Siempre dices que el servidor no aguantará una nueva actualización del sistema y aquí seguimos. -> MYscript_definitivo.dat
@@ -14,32 +20,32 @@ Siempre dices que el servidor no aguantará una nueva actualización del sistema
 
 ## Desarrollando tu software
 
-A la hora de crear ítems de software tienes que repartir un d10, un d8 y un d6 entre las 6 habilidades de Not Responding basadas en Breathless.
+A la hora de crear ítems de software tienes que **repartir un d10, un d8 y un d6 entre las 6 habilidades** de Not Responding basadas en Breathless.
 
 Aparte puedes soportar 4 sectores defectuosos (Stress) y 1 puede realizar un overcloqueo (Stunts).
 
 ### Nombre.ext 
 
-Lo segundo que debes hacer es darle un nombre a tu software. Normalmente, son muy descriptivos, pero también pueden ser juegos de palabras y chistes, incluso siglas o no tener sentido.
+Lo segundo que debes hacer es darle un nombre a tu software. Normalmente, son muy descriptivos, pero también pueden ser juegos de palabras, chistes, incluso siglas o no tener sentido.
 
 Recuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_imagenes, borrarImagenes, borrar-imagenes, …
 
 Además, debes elegir tu extensión. La extensión marca un poco tu función dentro del sistema y te da una ventaja y una desventaja en función de esa función.
 
-* **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables. XXX
-* **sh/bas:** XXX. Te desarrollaron para cumplir tu tarea sea como se sea y sin importar si saturas al servidor. Así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
+* **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables lo que los hace muy autosuficientes pero interactúan muy mal con el entorno y se adaptan mal a él. Pueden convertir **una habilidad con d4 en un d6**, pero por contra empiezan con d10 en las tiradas de buscar procesos.
+* **sh/bas:** Estos scripts suelen realizar tareas largas y repetitivas y tienden muchas veces a ser desarrollos propios. Se programan para hacer una tarea sea como se sea y sin importar si saturan al servidor, así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
 * **cfg:** Estos software contiene gran muchas veces contraseñas y claves y saben con esconderla y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Cómo desventaja serán el objetivo principal de virus y otros depredadores informáticos.
 * **dat:** Estos grandes ficheros de datos **pueden soportar un sector defectuoso más** que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están se quedan inmóviles e indefensos mientras se ejecuta la defragmentación.
-* **Sin extensión:** XXX. 
+* **Sin extensión:** Un software sin extensión no tiene una función específica, así que tampoco tiene ninguna ventaja ni desventajas.
 
 ### ❲₪❳ Origen del software
 
 El software puede tener diferentes orígenes y normalmente los ítems con el mismo origen se suelen llevar bien y los de diferentes orígenes se suelen llevar mal.
 
-* **Código libre:** XXX
-* **Código propietario:** XXX
-* **Código propietario pirateado:** XXX
-* **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. Te sientes parte del sistema y te conoces el sistema como si fueran tus bytes. XXX
+* **Código propietario:** Eres software comprado a una gran empresa e instalado en el servidor, no venías con el sistema ni te han desarrollado entre dos personas en un garaje. Eres especial y lo sabes, mejor que la chusma de código que te rodea.
+* **Código propietario pirateado:** Podrías ser superior como el código propietario, pero no lo eres y temes que los demás descubran tú oscuro secreto, que eres software pirata.
+* **Código libre:** Fruto del trabajo de cientos de personas por todo el mundo, eres un software sólido y fiable que cumple con sus funciones y con unos ideales muy altos. Tu problema es que el marketing no era algo que controlaban tus desarrolladores y siempre estás bajo la sombra del software propietario.
+* **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. Te sientes parte del sistema y te conoces el sistema como si fueran tus bytes.
 
 ### ❲.&ast;❳ Habilidades
 
@@ -51,6 +57,8 @@ Las habilidades de Not Responding se basan en las 6 habilidades de Breathless ad
 * **Puntear {Shoot}:** Disparar, rastrear, lanzar, apuntar
 * **Procesamiento {Think}:** Pensar, percibir, analizar, reparar
 * **Interfaz {Sway}:** Influenciar, encantar, manipular, intimidar
+
+\sp
 
 ## ❲▩❳ Sectores defectuosos
 
@@ -72,8 +80,6 @@ Hay momentos en que tus ítems de software tendrán que salirse de las capacidad
 
 > Los overcloqueos siguen las mismas reglas que los {Stunts} de Breathless. Pero como hacen un uso excesivo de procesador y generan mucho calor, lanza un d10 y si sale 1 o 0, el servidor se recalienta 1 punto.
 
-\sp
-
 ## ❲☰❳ Buscar procesos
 
 Cuando tus ítems de software llegan a una ubicación puede tratar de buscar procesos y comandos ejecutados en esa ubicación que les puedan ayudar en su fuga del servidor.
@@ -91,7 +97,7 @@ Veamos los comandos que pueden conseguir tus ítems de software cuando buscan pr
 * **Cat:** Permite visualizar contenido XXX
 * **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX 
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
-* **Kill -9:** XXX
+* **Kill -9:** Este comando permite acabar con los procesos de otro software, lo que la convierte es una buena arma.
 * **Tar:** Comprimir permite Manejar grandes bloques de bytes de forma sencilla.
 * **XXX:** XXX
 
@@ -119,6 +125,10 @@ Una de las cosas más interesantes que hacer en la BIOS es que podrán saber con
 
 XXX
 
+Es el lugar más seguro del servidor, donde el administrador guarda todo lo que considera valioso y donde están los ítems de software más poderosos y con más permisos. Es por ello que es un lugar seguro frente a virus y malware.
+
+También es el sitio donde se guarda el listado de tareas programadas y solo en esta localización puede consultarse.
+
 ### Sectores de cuarentena ~~❲◘❳~~ ~~❲☰❳~~
 
 XXX
@@ -139,9 +149,15 @@ XXX
 
 El servidor puede tener todas las unidades de almacenamiento secundarias.
 
+### Moverse entre los componentes del servidor
+
+XXX
+
 ## ❲ERR❳ El hardware está fallando
 
 XXX
+
+\sp
 
 ### Temperatura del servidor
 
@@ -158,6 +174,7 @@ XXX
 |1d6|Fallo|
 |---|-----|
 |1|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Si se arregla un ventilador, baja 1 la temperatura.|
+|2|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
 |6|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
 
 ## ❲@❳Puntos de salida
@@ -173,8 +190,6 @@ Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. -
 Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
 
 XXX
-
-\sp
 
 ## (¬) Tareas programadas
 
@@ -220,9 +235,14 @@ XXX
 
 XXX
 
+\sp
+
 ### Bucle infinito
 
+Estos vórtices cuya fallida lógica no les permite terminan pueden absorberte en su interior y atraparte para siempre.
+
 XXX
+> Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a software y así en ciclo que no acaba nunca.
 
 ## Términos que puedes usar
 
