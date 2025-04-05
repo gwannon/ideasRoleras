@@ -8,6 +8,10 @@ Pero mentira, hay una salida, una única salida. Cuando la temperatura del servi
 
 XXX
 
+## Reglas de la DMZ
+
+La DMZ (Zona desmilitarizada) es una XXX
+
 \sc
 
 ## Software pregenerado

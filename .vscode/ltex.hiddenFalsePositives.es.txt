@@ -80,3 +80,8 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPensar, percibir, analizar, reparar\nInterfaz {Sway}:\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoverse, correr, saltar, escalar\nEncriptación {Sneak}:\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QNombre.ext\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¸.·´¯`·X Localizaciones\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qbin:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qsh/bas:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcfg:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdat:\\E$"}

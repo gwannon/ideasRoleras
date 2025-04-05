@@ -6,11 +6,11 @@ Tus ítems de software no solo deberán enfrentarse a los errores cada vez más 
 
 ## El servidor
 
-Tus softwares se encuentran en un viejo servidor, igual web, igual de impresión o quizás que controla alguna vieja maquinaria. Seguramente, no tenga ni interfaz gráfico y funciones por linea de comando.
+Tus software se encuentran en un viejo servidor, igual web, igual de impresión o quizás que controla alguna vieja maquinaria. Seguramente, no tenga ni interfaz gráfica y funciones por línea de comando.
 
 El servidor lleva años desactualizado y sin un mantenimiento adecuado, pero como funcionaba a nadie no le preocupaba nada de eso, pero ahora está empezando a fallar cada vez con más frecuencia y su software sabe que su final se acerca.
 
-Cada vez hay más sectores defectuosos, el procesador se sobrecalienta a la minima, moverse por los buses de datos es un peligro y las últimas copias de seguridad han fallado todas.
+Cada vez hay más sectores defectuosos, el procesador se sobrecalienta a la mínima, moverse por los buses de datos es un peligro y las últimas copias de seguridad han fallado todas.
 
 Si tus ítems de software quieren sobrevivir, deben huir del servidor antes de que colapse definitivamente por sobrecalentamiento.
 
@@ -32,7 +32,7 @@ Recuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_ima
 
 Además, debes elegir tu extensión. La extensión marca un poco tu función dentro del sistema y te da una ventaja y una desventaja en función de esa función.
 
-* **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables lo que los hace muy autosuficientes pero interactúan muy mal con el entorno y se adaptan mal a él. Pueden convertir **una habilidad con d4 en un d6**, pero por contra empiezan con d10 en las tiradas de buscar procesos.
+* **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables lo que los hace muy autosuficientes, pero interactúan muy mal con el entorno y se adaptan mal a él. Pueden convertir **una habilidad con d4 en un d6**, pero por contra empiezan con d10 en las tiradas de buscar procesos.
 * **sh/bas:** Estos scripts suelen realizar tareas largas y repetitivas y tienden muchas veces a ser desarrollos propios. Se programan para hacer una tarea sea como se sea y sin importar si saturan al servidor, así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
 * **cfg:** Estos software contiene gran muchas veces contraseñas y claves y saben con esconderla y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Cómo desventaja serán el objetivo principal de virus y otros depredadores informáticos.
 * **dat:** Estos grandes ficheros de datos **pueden soportar un sector defectuoso más** que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están se quedan inmóviles e indefensos mientras se ejecuta la defragmentación.
@@ -43,7 +43,7 @@ Además, debes elegir tu extensión. La extensión marca un poco tu función den
 El software puede tener diferentes orígenes y normalmente los ítems con el mismo origen se suelen llevar bien y los de diferentes orígenes se suelen llevar mal.
 
 * **Código propietario:** Eres software comprado a una gran empresa e instalado en el servidor, no venías con el sistema ni te han desarrollado entre dos personas en un garaje. Eres especial y lo sabes, mejor que la chusma de código que te rodea.
-* **Código propietario pirateado:** Podrías ser superior como el código propietario, pero no lo eres y temes que los demás descubran tú oscuro secreto, que eres software pirata.
+* **Código propietario pirateado:** Podrías ser superior como el código propietario, pero no lo eres y temes que los demás descubran tu oscuro secreto, que eres software pirata.
 * **Código libre:** Fruto del trabajo de cientos de personas por todo el mundo, eres un software sólido y fiable que cumple con sus funciones y con unos ideales muy altos. Tu problema es que el marketing no era algo que controlaban tus desarrolladores y siempre estás bajo la sombra del software propietario.
 * **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. Te sientes parte del sistema y te conoces el sistema como si fueran tus bytes.
 
@@ -94,9 +94,9 @@ Puede haber localizaciones donde las búsquedas estén bonificadas, como la pape
 
 Veamos los comandos que pueden conseguir tus ítems de software cuando buscan procesos.
 
-* **Cat:** Permite visualizar contenido XXX
-* **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que XXX 
-* **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar XXX
+* **Cat:** Permite visualizar gran contenido de forma rápida de forma que puedes identificar fácilmente que hay a tu alrededor.
+* **Defrag:** Una defragmentación ordena todo el contenido de una localización de forma que permite reparar archivos, logs, procesos, etc. que estén dañados. 
+* **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar lo que buscas entre miles de logs y ficheros de datos.
 * **Kill -9:** Este comando permite acabar con los procesos de otro software, lo que la convierte es una buena arma.
 * **Tar:** Comprimir permite Manejar grandes bloques de bytes de forma sencilla.
 * **XXX:** XXX
@@ -153,11 +153,11 @@ El servidor puede tener todas las unidades de almacenamiento secundarias.
 
 XXX
 
+\sp
+
 ## ❲ERR❳ El hardware está fallando
 
 XXX
-
-\sp
 
 ### Temperatura del servidor
 
@@ -169,13 +169,19 @@ Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá a
 
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
-XXX 
+Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable o se funda alguna pieza, cualquier cosa puede pasar, por ello cada vez suba la temperatura has de tirar en la siguiente tabla para ver si falla algún elemento del servidor.
 
-|1d6|Fallo|
+|1d12|Fallo|
 |---|-----|
-|1|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Si se arregla un ventilador, baja 1 la temperatura.|
-|2|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|6|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
+|1-4|**No pasa nada:** El servidor aguanta sin problema|
+|5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
+|6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
+|7|**XXX:** XXX|
+|8|**XXX:** XXX|
+|9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
+|10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
+|11|**XXX:** XXX|
+|12|**XXX:** XXX|
 
 ## ❲@❳Puntos de salida
 
@@ -209,7 +215,7 @@ Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea q
 Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. -> updateDatos.sh
 ```
 
-## ❲◣_◢❳ Criaturas y horrores en FAT32
+## ❲◣_◢❳ Horrores en FAT32
 
 Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro.
 
@@ -218,6 +224,8 @@ XXX
 ### Virus
 
 XXX
+
+\sp
 
 ### Antivirus
 
@@ -235,8 +243,6 @@ XXX
 
 XXX
 
-\sp
-
 ### Bucle infinito
 
 Estos vórtices cuya fallida lógica no les permite terminan pueden absorberte en su interior y atraparte para siempre.
@@ -248,6 +254,7 @@ XXX
 
 * Desbordamiento de pila
 * Iteraciones, bucles y condiciones
+* Posición de memoria
 * Puerta trasera
 * Redundancia cíclica
 

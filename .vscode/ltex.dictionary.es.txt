@@ -580,3 +580,7 @@ d12
 Not
 Responding_
 descalibrado
+Cat
+Kill
+ERR
+Fari
