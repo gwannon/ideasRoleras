@@ -86,3 +86,5 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcfg:\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdat:\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamos sería un cíborg al revés, por eso el nombre orgbot, organical robot.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDesbordamiento de pila_\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QGeográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.\\E$"}

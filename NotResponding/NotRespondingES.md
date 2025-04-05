@@ -117,11 +117,15 @@ Cada localización tiene su descripción y sus propias reglas.
 
 ### BIOS
 
+**Descripción:** XXX
+
 XXX
 
 Una de las cosas más interesantes que hacer en la BIOS es que podrán saber con precisión la temperatura del servidor.
 
 ### Directorio /root
+
+**Descripción:** XXX
 
 XXX
 
@@ -129,21 +133,39 @@ Es el lugar más seguro del servidor, donde el administrador guarda todo lo que 
 
 También es el sitio donde se guarda el listado de tareas programadas y solo en esta localización puede consultarse.
 
-### Sectores de cuarentena ~~❲◘❳~~ ~~❲☰❳~~
-
-XXX
-
 ### Papelera de reciclaje
 
+**Descripción:** Es un gran espacio infinito sin ningún tipo de estructura con una montaña de restos de software en el centro. Se entra cayendo dentro desde un círculo de luz que flota sobre la montaña y aterrizas sobre la montaña de código. 
+
 XXX
 
-La papelera de reciclaje te permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada.
+Para poder salir se debe amontonar basura hasta llegar al círculo flotante o aprovechar a adjuntarte a algún software que es recuperado de la papelera. XXX
+
+\sp
+
+> La papelera de reciclaje te permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada siempre.
 
 ### Puertos {COM1, COM2, LPT1}
+
+**Descripción:** Puedes representarlos como túneles o pozos de diferente forma según el tipo de puerto (circulares, rectangulares, triangulares, etc.) Parecen infinitos y emanan una luz de un color diferente al resto del servidor. En caso de que estén cerrados por alguna razón parece que tiene una rejilla de energía que impide salir o entrar.
+
+XXX
+
+### Sectores de cuarentena ~~❲◘❳~~ ~~❲☰❳~~
+
+**Descripción:** XXX
+
+XXX
+
+### Tarjeta de red coaxial/Modem 14.000 bps
+
+**Descripción:** XXX
 
 XXX
 
 ### Unidad de almacenamiento
+
+**Descripción:** XXX
 
 XXX
 
@@ -153,15 +175,13 @@ El servidor puede tener todas las unidades de almacenamiento secundarias.
 
 XXX
 
-\sp
-
 ## ❲ERR❳ El hardware está fallando
 
-XXX
+Como ya hemos comentado antes el servidor donde ocurren las aventuras de Not Responding debe ser un servidor viejo y al borde del fallo total. Si eso pasa no volverá a encender y todo el software de su interior acabará como él.
 
 ### Temperatura del servidor
 
-Los ordenadores se calientan y cuanta más temperatura, peor funciona. La temperatura del servidor en pieza a 0 y diferentes eventos puedes hacer que suba y baje.
+Los ordenadores se calientan y cuanta más temperatura, peor funcionan. La temperatura del servidor empieza a 0 y diferentes eventos puedes hacer que suba y algunas veces que baje.
 
 Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
@@ -169,7 +189,11 @@ Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá a
 
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
-Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable o se funda alguna pieza, cualquier cosa puede pasar, por ello cada vez suba la temperatura has de tirar en la siguiente tabla para ver si falla algún elemento del servidor.
+Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable o se funda alguna pieza. Cualquier cosa puede pasar, por ello, cada vez suba la temperatura has de tirar en la siguiente tabla para ver si falla algún elemento del servidor.
+
+```
+Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo proverbio
+```
 
 |1d12|Fallo|
 |---|-----|
@@ -183,7 +207,7 @@ Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable
 |11|**XXX:** XXX|
 |12|**XXX:** XXX|
 
-## ❲@❳Puntos de salida
+## ❲@❳ Puntos de salida
 
 Como software sabes que el servidor se muere, lo sientes en tu código y antes de que colapse tu instinto de supervivencia te dice que busques un punto de salida. 
 
@@ -202,6 +226,8 @@ XXX
 Las tareas programadas o cronjobs son tareas que el servidor realiza periódicamente, como vaciar todas las noches la papelera de reciclaje o enviar un email del estado del servidor cada hora.
 
 Así que pueden ser terribles, si vacían la papelera mientras estás dentro o una oportunidad de huida si convences al script de envío de correo de que adjunte al email de estado del servidor.
+
+\sp
 
 Para crear tus crons debes definir 3 aspectos:
 
@@ -224,8 +250,6 @@ XXX
 ### Virus
 
 XXX
-
-\sp
 
 ### Antivirus
 
