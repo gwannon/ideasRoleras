@@ -104,17 +104,21 @@ Un backup te permite recuperar la información perdida por los sectores defectuo
 
 ## ¸.·´¯`·X Localizaciones
 
+El servidor tiene una serie de localizaciones básicas donde tu software podrá vivir sus aventuras, pero no son las únicas. Puedes crear las localizaciones extras que quieras o incluso redundar algunas. Recuerda que si creas tu propia localización debería tener un toque de microinformática. Piénsalo así, este juego se maneja en megas, no en gigas.
+
+Cada localización tiene su descripción y sus propias reglas.
+
+### BIOS
+
 XXX
 
-### Puertos {COM1, COM2, LPT1}
-
-XXX
+Una de las cosas más interesantes que hacer en la BIOS es que podrán saber con precisión la temperatura del servidor.
 
 ### Directorio /root
 
 XXX
 
-### Sectores de cuarentena ~~❲◘❳~~
+### Sectores de cuarentena ~~❲◘❳~~ ~~❲☰❳~~
 
 XXX
 
@@ -123,6 +127,16 @@ XXX
 XXX
 
 La papelera de reciclaje te permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada.
+
+### Puertos {COM1, COM2, LPT1}
+
+XXX
+
+### Unidad de almacenamiento
+
+XXX
+
+El servidor puede tener todas las unidades de almacenamiento secundarias.
 
 ## El hardware está fallando
 
@@ -165,10 +179,11 @@ Así que pueden ser terribles, si vacían la papelera mientras estás dentro o u
 Para crear tus crons debes definir 3 aspectos:
 
 * **Acción que se realiza:** puede ser cualquier cosa que se te ocurra, desde vaciar la papelera, con lo que el software que esté dentro deberá salir pitando o recalentar el procesador con la creación de un informe financiero de la contabilidad de la empresa que eleva la temperatura 1 punto.
-* **Localización del ordenador a la que afecta:** Una tarea puede afectar a una o más zonas al mismo y a distintos tiempos. Por ejemplo un cron hace una copia de seguridad del disco duro principal en un disco secundario y vacía todo su contenido del disco duro principal. Tu software podría enfrentarse a un borrado en el disco principal o a una avalancha de datos que colapse el disco secundario.
-* **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como «cuando se tomen un número par de reseteos» o «cuando la temperatura alcance 3».
 
 \sp
+
+* **Localización del ordenador a la que afecta:** Una tarea puede afectar a una o más zonas al mismo y a distintos tiempos. Por ejemplo un cron hace una copia de seguridad del disco duro principal en un disco secundario y vacía todo su contenido del disco duro principal. Tu software podría enfrentarse a un borrado en el disco principal o a una avalancha de datos que colapse el disco secundario.
+* **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como «cuando se tomen un número par de reseteos» o «cuando la temperatura alcance 3».
 
 Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea que debe hacer. Así que deberán poder consultar el listado de tareas programadas que se encuentra en el directorio /root y así podrán saber como lanzar la tarea programada.
 
@@ -188,7 +203,7 @@ XXX
 
 ### Antivirus
 
-XXX
+Los antivirus son la policía del servidor y controlan el sector de Cuarentena que es su cárcel. XXX
 
 ### Malware
 
@@ -196,23 +211,13 @@ XXX
 
 ## Términos que puedes usar
 
-* Desbordamiento de pila.
-* Redundancia cíclica.
-* XXX
+* Bucle infinito
+* Desbordamiento de pila
+* Iteraciones, bucles y condiciones
+* Puerta trasera
+* Redundancia cíclica
 
-## Licencia 
-
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
-
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://fari-rpgs.itch.io/breathless-srd "This game is Breathless")
-
-\sinc
-
-&nbsp;
-
-\conc
+\sp
 
 ## Ficha de software
 
@@ -227,3 +232,15 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 \sp
 
 |DesbordamientoPilaES.md|
+
+\sp
+
+## Licencia 
+
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
+
+&nbsp;
+
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://fari-rpgs.itch.io/breathless-srd "This game is Breathless")
