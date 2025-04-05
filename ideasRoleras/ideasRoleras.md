@@ -438,11 +438,11 @@ Otra opción es que tuvieran un toque youtuber descerebrado/Cazadores de mitos q
 
 ### Clase de personajes Orgbot
 
-Es un robot que se pone parte orgánicas para conseguir nuevas capacidades que su cuerpo robot. Vamos sería un ciborg al revés, por eso el nombre orgbot, organical robot.
+Es un robot que se pone partes orgánicas para conseguir nuevas capacidades que su cuerpo robot no puede tener. Vamos sería un cíborg al revés, por eso el nombre orgbot, organical robot.
 
 Pueden ser cosas que la tecnología no replica bien como el tacto o cosas que solo afectarían a los humanos como la telepatía.
 
-También cosas que solo tuvieran los seres vivos. Por ejemplo, un mundo donde solo los seres vivos tienen magia porque la magia solo la canaliza la materia viva, un robot se pondría brazos de carne y hueso para lanzar hechizos.
+También cosas que solo tuvieran los seres vivos. Por ejemplo, un mundo donde solo los seres vivos tienen magia, ya que la magia solo la canaliza la materia viva, un robot se pondría brazos de carne y hueso para poder lanzar hechizos.
 
 \sp
 

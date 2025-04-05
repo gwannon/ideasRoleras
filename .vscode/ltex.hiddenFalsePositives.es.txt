@@ -85,3 +85,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qsh/bas:\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcfg:\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdat:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamos sería un cíborg al revés, por eso el nombre orgbot, organical robot.\\E$"}
