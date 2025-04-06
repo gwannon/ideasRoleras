@@ -199,7 +199,7 @@ El servidor puede tener todas las unidades de almacenamiento secundarias.
 
 **Descripción:** XXX
 
-Hablamos de unidades ZIP, CD-Roms, XXX
+Hablamos de unidades ZIP, CD-ROM, XXX
 
 XXX
 
@@ -220,9 +220,9 @@ Como ya hemos comentado antes el servidor donde ocurren las aventuras de Not Res
 
 Los ordenadores se calientan y cuanta más temperatura, peor funcionan. La temperatura del servidor empieza a 0 y diferentes eventos puedes hacer que suba y algunas veces que baje.
 
-Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
-
 \sp
+
+Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
 > La temperatura del servidor debe ser secreta. Pueden tener una idea, pero tus ítems de software nunca deberían saber la temperatura real. Si necesitan saberla deberán ir a la BIOS. Puede haber eventos que salten con la temperatura y es interesante que sepan que algo puede pasar, pero no cuando.
 
@@ -308,7 +308,7 @@ XXX
 
 ### Bucle infinito
 
-Estos vórtices cuya fallida lógica no les permite terminan pueden absorberte en su interior y atraparte para siempre.
+Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte en su interior y atraparte para siempre.
 
 XXX
 
