@@ -299,9 +299,9 @@ Te juro que yo estuve en un servidor con una tarea programada que cerraba la tap
 
 Hay una gran variedad de ítems de software procesándose en el servidor y todos ellos tratan de sobrevivir como pueden. 
 
-Los habrá que tratarán de huir como tú software y los que traten de impedírselo. Con todos ellos tendrán que interactuar por las buenas o por las malas, convencerles de que les dejen pasar o intimidarles para que lo hagan, intercambiar comandos o sustraerselos, competir por los recursos o incluso matar sus procesos y saquear sus residuos de información.
+Los habrá que tratarán de huir como tú software y los que traten de impedírselo. Con todos ellos tendrán que interactuar por las buenas o por las malas, convencerles de que les dejen pasar o intimidarles para que lo hagan, intercambiar comandos o sustraérselos, competir por los recursos o incluso matar sus procesos y saquear sus residuos de información.
 
-Puedes crear esos software secundarios, como tus propios items de software o simplemente que sean un obstáculo que deban  superar mediante tiradas.
+Puedes crear esos software secundarios, como tus propios ítems de software o simplemente que sean un obstáculo que deban superar mediante tiradas.
 
 ## ❲◣_◢❳ Horrores en FAT32
 

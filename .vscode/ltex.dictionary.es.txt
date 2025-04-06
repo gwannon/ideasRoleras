@@ -591,3 +591,6 @@ bps
 DIMM
 retroinformática
 containers
+Chmod
+Chown
+Diff
