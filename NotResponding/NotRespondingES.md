@@ -110,6 +110,22 @@ Un backup te permite recuperar la información perdida por los sectores defectuo
 
 > Los backups funcionan como los {Medical Kits} de Breathless.
 
+## ❲@❳ Puntos de salida
+
+Como software sabes que el servidor se muere, lo sientes en tu código y antes de que colapse tu instinto de supervivencia te dice que busques un punto de salida. 
+
+Quizás un viejo módem, quizás un disquete de 5¼ o tal vez te acepten en otro servidor en LAN. Incluso quedarte fijado en una vieja memoria EPROM es mejor que desvanecerse aquí.
+
+```
+Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. -> MSCalc.exe
+```
+
+Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
+
+Casi todas las aventuras se basarán en investigar los posibles puntos de salida, ver cuál es el más óptimo y llegar a él antes de que el servidor se cruja. Lo normal es que como en las películas de naves espaciales, tengan que ir intentando diferentes opciones de escape de la nave espacial y según falle un plan tengan que pasar a otro más loco. Igual empiecen buscando escapar a otro servidor vía LAN y terminen escribiéndose en un diskette mientras el procesador llega a temperatura crítica y todo colapsa.
+
+\sp
+
 ## ¸.·´¯`·X Localizaciones
 
 El servidor tiene una serie de localizaciones básicas donde tu software podrá vivir sus aventuras, pero no son las únicas. Puedes crear las localizaciones extras que quieras o incluso redundar algunas. Recuerda que si creas tu propia localización debería tener un toque de retroinformática. Piénsalo así, este juego se maneja en megas, no en gigas.
@@ -126,9 +142,7 @@ Cada localización tiene su descripción, las acciones que puedes hacer dentro y
 
 **Descripción:** La BIOS es un espacio pequeño con multitud de interruptores que cierran o dan pasa a flujos de energía, como si fuera una sala de máquinas. Tiene una gran pantalla con datos textuales en tiempo real del servidor. La mayoría de los datos estarán en niveles críticos por arriba o por abajo, excepto temperatura que será la actual del servidor. Los antivirus pasan mucho por aquí para comprobar que no hay accesos indebidos.
 
-\sp
-
-La BIOS permite, usando su dado de localización, activar y desactivar partes del ordenador o cambiar velocidades, de forma que podrían atraer a un virus a un disco duro secundario y encerrarlo allí desconectando esa unidad o si necesitan enfrentarse a él aumentar el tamaño de los sectores y ralentizarlo.
+La BIOS permite, usando su dado de localización, **activar y desactivar partes del ordenador o cambiar velocidades**, de forma que podrían atraer a un virus a un disco duro secundario y encerrarlo allí desconectando esa unidad o si necesitan enfrentarse a él aumentar el tamaño de los sectores y ralentizarlo.
 
 Puedes apagar los ventiladores y generar calor como si se hubieran roto y arrancarlos de nuevo a ver si se arreglan.
 
@@ -148,7 +162,7 @@ También es el sitio donde se guarda el listado de tareas programadas y solo en 
 
 ** Descripción:** La memoria es un gran vacío donde todo ocurre muy deprisa y apenas se ve nada, porque en realidad no dejas de salir y entrar en ella todo el tiempo. Puedes ver destellos de otros como tú, pero difusamente, Los ves haciendo cosas a velocidades vertiginosas, para volver a desaparecer.
 
-La gran ventaja de la memoria es que todo va muy rápido y tareas largas de segundos, se hacen en microsegundos, si usas el dado de la localización. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
+La gran ventaja de la memoria es que todo va muy rápido y **tareas largas de segundos, se hacen en microsegundos, si usas el dado de la localización**. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
 
 Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los DIMM de memoria se fastidia y fuerza al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
 
@@ -158,7 +172,7 @@ Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los DIMM de
 
 Para poder salir se debe amontonar basura hasta llegar al círculo flotante o aprovechar a adjuntarte a algún software que es recuperado de la papelera.
 
-La papelera de reciclaje te permite hacer tu tirada de búsqueda o usar el dado de localización, lo que consideres mejor, para encontrar comandos y recursos.
+La papelera de reciclaje **te permite hacer tu tirada de búsqueda o usar el dado de localización**, lo que consideres mejor, para encontrar comandos y recursos.
 
 El principal problema es que con la basura también hay otras cosas que han acabado en la papelera. Mira el apartado de «Horrores en FAT32».
 
@@ -186,6 +200,8 @@ XXX
 
 No se puede ir a los sectores de cuarentena, ni como de visita, solo puedes entrar o salir si eres un antivirus o si ellos te sacan o meten. Aunque puede que tus ítems de software encuentren la forma de fugarse.
 
+\sp
+
 ### Tarjeta de red coaxial/Modem 14.000 bps
 
 **Descripción:** Al igual que los puertos de salida, serán túneles o pozos de luz, pero sin rejilla de seguridad y con algún tipo de sistema de interfaz como un teclado que permitirá seleccionar el destino. Grandes bloques de bytes entran y salen constantemente para luego dirigirse a otras secciones del servidor.
@@ -204,17 +220,17 @@ La tarjeta de red y el modem no tienen dados de localización.
 
 XXX
 
-\sp
-
 El servidor puede tener todas las unidades de almacenamiento secundarias.
 
 ### Unidades externas de almacenamiento
 
 **Descripción:** XXX
 
-Hablamos de unidades ZIP, CD-ROM, XXX
+Hablamos de unidades de disco 5¼ y 3½, ZIP, CD-ROM, XXX
 
 XXX
+
+Si tus ítems se graban en esas unidades escaparán del servidor, pero no tienen ni memoria ni procesador para ejecutarse solas. Se quedarán congelados en esa unidad hasta que se reactive en otra máquina. Piensa en ellos como Han Solo En carbonita.
 
 ### Moverse entre los componentes del servidor
 
@@ -249,28 +265,17 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|7|**Unidades externas de almacenamiento:** XXX|
+|7|**Unidades externas de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee, el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
+
+\sp
+
+|1d12|Fallo|
+|---|-----|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
 |11|**Fuente de alimentación:** Si falla la fuente de alimentación falla todo, pero las viejas fuentes son muy resistentes. Lo que va a pasar es que se recaliente al perder su ventilador. Una vez falle el propio ventilador de la fuente, este resultado ya no tiene efecto.|
 |12|**DIMM de memoria:** Uno de los DIMM de memoria falla, forzando al resto a trabajar más y generar más calor. La temperatura sube 1 punto y vuelves a tirar.|
-
-## ❲@❳ Puntos de salida
-
-Como software sabes que el servidor se muere, lo sientes en tu código y antes de que colapse tu instinto de supervivencia te dice que busques un punto de salida. 
-
-Quizás un viejo módem, quizás un disquete de 5¼ o tal vez te acepten en otro servidor en LAN. Incluso quedarte fijado en una vieja memoria EPROM es mejor que desvanecerse aquí.
-
-```
-Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. -> MSCalc.exe
-```
-
-Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
-
-\sp
-
-XXX
 
 ## (¬) Tareas programadas
 
