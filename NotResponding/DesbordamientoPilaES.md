@@ -1,6 +1,6 @@
 # Desbordamiento de pila_
 
-«Desbordamiento de pila» es una aventura de un par de sesiones para 4 ítems de software.
+**«Desbordamiento de pila» es una aventura de un par de sesiones para 4 ítems de software.**
 
 Tus ítems de software funcionan en un viejo ordenador de un silo nuclear de los años 80/90. El servidor está dentro de una zona DMZ, que evita la salida y entrada de datos y procesos. Geográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.
 

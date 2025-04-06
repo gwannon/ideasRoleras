@@ -1,21 +1,21 @@
-# Not Responding_ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# ❲Not Responding❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
 
-Not Responding es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de escapar de un servidor moribundo.
+**Not Responding es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de escapar de un servidor moribundo.**
 
 Tus ítems de software no solo deberán enfrentarse a los errores cada vez más graves del propio servidor, también a toda una serie de depredadores de software como virus y antivirus y a los imprevistos que pueden generar las tareas programadas por el administrador del sistema.
 
 ## El servidor
 
-Tus software se encuentran en un viejo servidor, igual web, igual de impresión o quizás que controla alguna vieja maquinaria. Seguramente, no tenga ni interfaz gráfica y funciones por línea de comando.
+Tus software se encuentran en un viejo servidor, igual web, igual de impresión o quizás que controla alguna vieja maquinaria. Seguramente, no tenga ni interfaz gráfica y solo funcione por línea de comando.
 
-El servidor lleva años desactualizado y sin un mantenimiento adecuado, pero como funcionaba a nadie no le preocupaba nada de eso, pero ahora está empezando a fallar cada vez con más frecuencia y su software sabe que su final se acerca.
+El servidor lleva años desactualizado y sin un mantenimiento adecuado, pero como funciona nadie se ha preocupado por revisarlo, pero ahora está empezando a fallar cada vez con más frecuencia y su software sabe que su final se acerca. 
 
-Cada vez hay más sectores defectuosos, el procesador se sobrecalienta a la mínima, moverse por los buses de datos es un peligro y las últimas copias de seguridad han fallado todas.
+Los interfaces brillan menos, la frecuencia de datos ha bajado y los ciclos de memoria tienen bajones. Cada vez hay más sectores defectuosos, el procesador se sobrecalienta a la mínima, moverse por los buses de datos es un peligro y las últimas copias de seguridad han fallado todas. Son todo señales del apocalipsis inminente que se acerca.
 
 Si tus ítems de software quieren sobrevivir, deben huir del servidor antes de que colapse definitivamente por sobrecalentamiento.
 
 ```
-Siempre dices que el servidor no aguantará una nueva actualización del sistema y aquí seguimos. -> MYscript_definitivo.dat
+Siempre dices que el servidor no aguantará una nueva actualización del sistema y aquí seguimos desde la 3.1. -> MYscript_definitivo.dat
 ```
 
 ## Desarrollando tu software
@@ -117,7 +117,7 @@ Cada localización tiene su descripción y sus propias reglas.
 
 ### BIOS
 
-**Descripción:** XXX
+**Descripción:** La BIOS es un espacio pequeño con multitud de interruptores que dejan cierra o dan pasa a flujos de energía, como si fuera una sala de máquinas. Tiene una gran pantalla con datos en tiempo real del servidor y la mayoría de los datos estarán en niveles críticos por arriba o por abajo, excepto temperatura que será la actual del servidor. Los antivirus pasan mucho por aquí para comprobar que no hay accesos indebidos.
 
 XXX
 
@@ -133,6 +133,8 @@ Es el lugar más seguro del servidor, donde el administrador guarda todo lo que 
 
 También es el sitio donde se guarda el listado de tareas programadas y solo en esta localización puede consultarse.
 
+\sp
+
 ### Papelera de reciclaje
 
 **Descripción:** Es un gran espacio infinito sin ningún tipo de estructura con una montaña de restos de software en el centro. Se entra cayendo dentro desde un círculo de luz que flota sobre la montaña y aterrizas sobre la montaña de código. 
@@ -140,8 +142,6 @@ También es el sitio donde se guarda el listado de tareas programadas y solo en 
 XXX
 
 Para poder salir se debe amontonar basura hasta llegar al círculo flotante o aprovechar a adjuntarte a algún software que es recuperado de la papelera. XXX
-
-\sp
 
 > La papelera de reciclaje te permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada siempre.
 
@@ -165,7 +165,7 @@ XXX
 
 ### Unidad de almacenamiento
 
-**Descripción:** XXX
+**Descripción:** Esta basta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
 
 XXX
 
@@ -207,6 +207,8 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |11|**XXX:** XXX|
 |12|**XXX:** XXX|
 
+\sp
+
 ## ❲@❳ Puntos de salida
 
 Como software sabes que el servidor se muere, lo sientes en tu código y antes de que colapse tu instinto de supervivencia te dice que busques un punto de salida. 
@@ -226,8 +228,6 @@ XXX
 Las tareas programadas o cronjobs son tareas que el servidor realiza periódicamente, como vaciar todas las noches la papelera de reciclaje o enviar un email del estado del servidor cada hora.
 
 Así que pueden ser terribles, si vacían la papelera mientras estás dentro o una oportunidad de huida si convences al script de envío de correo de que adjunte al email de estado del servidor.
-
-\sp
 
 Para crear tus crons debes definir 3 aspectos:
 
@@ -304,7 +304,7 @@ XXX
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
+Not responding está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
 
 &nbsp;
 
