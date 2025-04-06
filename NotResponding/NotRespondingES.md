@@ -86,7 +86,7 @@ Cuando tus ítems de software llegan a una ubicación puede tratar de buscar pro
 
 Las localizaciones donde no se puede buscar procesos tienen el icono de búsqueda de procesos tachado en su título ~~❲☰❳~~.
 
-Puede haber localizaciones donde las búsquedas estén bonificadas, como la papelera de reciclaje que permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada.
+Puede haber localizaciones donde las búsquedas tengan sus propias reglas, como la papelera de reciclaje que tiene su propia tirada.
 
 > La búsqueda de procesos funciona como el {Loot Check} de Breathless.
 
@@ -111,15 +111,25 @@ Un backup te permite recuperar la información perdida por los sectores defectuo
 
 ## ¸.·´¯`·X Localizaciones
 
-El servidor tiene una serie de localizaciones básicas donde tu software podrá vivir sus aventuras, pero no son las únicas. Puedes crear las localizaciones extras que quieras o incluso redundar algunas. Recuerda que si creas tu propia localización debería tener un toque de microinformática. Piénsalo así, este juego se maneja en megas, no en gigas.
+El servidor tiene una serie de localizaciones básicas donde tu software podrá vivir sus aventuras, pero no son las únicas. Puedes crear las localizaciones extras que quieras o incluso redundar algunas. Recuerda que si creas tu propia localización debería tener un toque de retroinformática. Piénsalo así, este juego se maneja en megas, no en gigas.
 
-Cada localización tiene su descripción y sus propias reglas.
+Las localizaciones permiten hacer cosas específicas y, por tanto, empiezan con un d10 que baja cada vez que se usa.
+
+Para hacer uso de ese dado se debe estar en la ubicación y controlarla. Si estás encerrado en los sectores de cuarentena, estás en la ubicación, pero no tienes ningún control.
+
+Con cada uso de la localización, el dado baja un nivel y cuando baja por debajo de d4 se desconecta y genera 1 de temperatura.
+
+Cada localización tiene su descripción, las acciones que puedes hacer dentro y sus propias reglas especiales.
 
 ### BIOS
 
-**Descripción:** La BIOS es un espacio pequeño con multitud de interruptores que dejan cierra o dan pasa a flujos de energía, como si fuera una sala de máquinas. Tiene una gran pantalla con datos en tiempo real del servidor y la mayoría de los datos estarán en niveles críticos por arriba o por abajo, excepto temperatura que será la actual del servidor. Los antivirus pasan mucho por aquí para comprobar que no hay accesos indebidos.
+**Descripción:** La BIOS es un espacio pequeño con multitud de interruptores que cierran o dan pasa a flujos de energía, como si fuera una sala de máquinas. Tiene una gran pantalla con datos textuales en tiempo real del servidor. La mayoría de los datos estarán en niveles críticos por arriba o por abajo, excepto temperatura que será la actual del servidor. Los antivirus pasan mucho por aquí para comprobar que no hay accesos indebidos.
 
-XXX
+La BIOS permite activar y desactivar partes del ordenador o cambiar velocidades, de forma que podrían atraer a un virus a un disco duro secundario y encerrarlo allí desconectando esa unidad o si necesitan enfrentarse a él aumentar el tamaño de los sectores y ralentizarlo.
+
+\sp
+
+Puedes apagar los ventiladores y generar calor como si se hubieran roto y arrancarlos de nuevo a ver si se arreglan.
 
 Una de las cosas más interesantes que hacer en la BIOS es que podrán saber con precisión la temperatura del servidor.
 
@@ -133,17 +143,29 @@ Es el lugar más seguro del servidor, donde el administrador guarda todo lo que 
 
 También es el sitio donde se guarda el listado de tareas programadas y solo en esta localización puede consultarse.
 
-\sp
+### Memoria ~~❲◘❳~~ ~~❲+❳~~
+
+** Descripción:** La memoria es un gran vacío donde todo ocurre muy deprisa y apenas se ve nada, porque en realidad no dejas de salir y entrar en ella todo el tiempo. Puedes ver destellos de otros como tú, pero difusamente, Los ves haciendo cosas a velocidades vertiginosas, para volver a desaparecer.
+
+La gran ventaja de la memoria es que todo va muy rápido y tareas largas de segundos, se hacen en microsegundos. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
+
+Realizar overcloqueos es peligroso y si sacas 1 en tu tirada un DIMM de memoria puede fastidiarse y forzar al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
 
 ### Papelera de reciclaje
 
-**Descripción:** Es un gran espacio infinito sin ningún tipo de estructura con una montaña de restos de software en el centro. Se entra cayendo dentro desde un círculo de luz que flota sobre la montaña y aterrizas sobre la montaña de código. 
+**Descripción:** Es un gran espacio infinito sin ningún tipo de estructura con una montaña de restos de software en el centro. Se entra cayendo dentro desde un círculo de luz que flota sobre la montaña y aterrizas sobre la montaña de código. A veces asciende algún bloque de software desde la montaña, son datos recuperados.
+
+Para poder salir se debe amontonar basura hasta llegar al círculo flotante o aprovechar a adjuntarte a algún software que es recuperado de la papelera.
+
+La papelera de reciclaje te permite hacer tu tirada de búsqueda o usar el dado de localización de tu propia localización lo que consideres mejor.
+
+El principal problema es que con la basura también hay otras cosas que han acabado en la papelera. Mira el apartado de «Horrores en FAT32».
+
+### Placa base
+
+**Descripción:** XXX
 
 XXX
-
-Para poder salir se debe amontonar basura hasta llegar al círculo flotante o aprovechar a adjuntarte a algún software que es recuperado de la papelera. XXX
-
-> La papelera de reciclaje te permite repetir la tirada de búsqueda, pero te quedas con la segunda tirada siempre.
 
 ### Puertos {COM1, COM2, LPT1}
 
@@ -151,11 +173,13 @@ Para poder salir se debe amontonar basura hasta llegar al círculo flotante o ap
 
 XXX
 
-### Sectores de cuarentena ~~❲◘❳~~ ~~❲☰❳~~
+### Sectores de cuarentena ~~❲☰❳~~
 
 **Descripción:** XXX
 
 XXX
+
+No se puede ir a los sectores de cuarentena, ni como de visita, solo puedes entrar o salir si eres un antivirus o si ellos te sacan o meten. Aunque puede que tus ítems de software encuentren la forma de fugarse.
 
 ### Tarjeta de red coaxial/Modem 14.000 bps
 
@@ -171,7 +195,20 @@ XXX
 
 El servidor puede tener todas las unidades de almacenamiento secundarias.
 
+### Unidades externas de almacenamiento
+
+**Descripción:** XXX
+
+Hablamos de unidades ZIP, CD-Roms, XXX
+
+XXX
+
+
 ### Moverse entre los componentes del servidor
+
+A no ser que el componente diga lo contrario o haya habido algún fallo, tus ítems de software pueden moverse libremente por todas las localizaciones del servidor. Otra cosa es que vayan a propósito u obligados, como cuando te meten en los sectores de cuarentena.
+
+Se puede entrar normalmente o escondidos con una tirada de encriptación exitosa. Una vez dentro podrán hacer las cosas que les permita la localización.
 
 XXX
 
@@ -184,6 +221,8 @@ Como ya hemos comentado antes el servidor donde ocurren las aventuras de Not Res
 Los ordenadores se calientan y cuanta más temperatura, peor funcionan. La temperatura del servidor empieza a 0 y diferentes eventos puedes hacer que suba y algunas veces que baje.
 
 Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
+
+\sp
 
 > La temperatura del servidor debe ser secreta. Pueden tener una idea, pero tus ítems de software nunca deberían saber la temperatura real. Si necesitan saberla deberán ir a la BIOS. Puede haber eventos que salten con la temperatura y es interesante que sepan que algo puede pasar, pero no cuando.
 
@@ -200,14 +239,12 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|7|**XXX:** XXX|
-|8|**XXX:** XXX|
+|7|**Unidades externas de almacenamiento:** XXX|
+|8|**Placa base:** XXX|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
-|11|**XXX:** XXX|
-|12|**XXX:** XXX|
-
-\sp
+|11|**Fuente de alimentación:** XXX|
+|12|**DIMM de memoria:** Uno de los DIMM de memoria falla, forzando al resto a trabajar más y generar más calor. La temperatura sube 1 punto y vuelves a tirar.|
 
 ## ❲@❳ Puntos de salida
 
@@ -241,6 +278,8 @@ Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea q
 Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. -> updateDatos.sh
 ```
 
+\sp
+
 ## ❲◣_◢❳ Horrores en FAT32
 
 Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro.
@@ -272,6 +311,7 @@ XXX
 Estos vórtices cuya fallida lógica no les permite terminan pueden absorberte en su interior y atraparte para siempre.
 
 XXX
+
 > Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a software y así en ciclo que no acaba nunca.
 
 ## Términos que puedes usar
