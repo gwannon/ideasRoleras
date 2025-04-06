@@ -99,7 +99,8 @@ Veamos los comandos que pueden conseguir tus ítems de software cuando buscan pr
 * **Grep:** Al ejecutar una búsqueda «grep» se pueden procesar gran cantidad de datos y encontrar lo que buscas entre miles de logs y ficheros de datos.
 * **Kill -9:** Este comando permite acabar con los procesos de otro software, lo que la convierte es una buena arma.
 * **Tar:** Comprimir permite Manejar grandes bloques de bytes de forma sencilla.
-* **XXX:** XXX
+*  **Diff:** Permite comparar dos datos y encontrar las diferencias, quizás puedas detectar software infectado o distinguir cuál es el original y cuál la copia.
+* **Chmod/Chown:** Permite cambiar los permisos de lectura, escritura y ejecución de un archivo y cambiar su propietario. El software sin permisos adecuados no se puede usar y mucho menos si no eres propietario.
 
 > Los comandos de sistema funcionan como el {Backpack} de Breathless.
 
@@ -125,9 +126,9 @@ Cada localización tiene su descripción, las acciones que puedes hacer dentro y
 
 **Descripción:** La BIOS es un espacio pequeño con multitud de interruptores que cierran o dan pasa a flujos de energía, como si fuera una sala de máquinas. Tiene una gran pantalla con datos textuales en tiempo real del servidor. La mayoría de los datos estarán en niveles críticos por arriba o por abajo, excepto temperatura que será la actual del servidor. Los antivirus pasan mucho por aquí para comprobar que no hay accesos indebidos.
 
-La BIOS permite activar y desactivar partes del ordenador o cambiar velocidades, de forma que podrían atraer a un virus a un disco duro secundario y encerrarlo allí desconectando esa unidad o si necesitan enfrentarse a él aumentar el tamaño de los sectores y ralentizarlo.
-
 \sp
+
+La BIOS permite, usando su dado de localización, activar y desactivar partes del ordenador o cambiar velocidades, de forma que podrían atraer a un virus a un disco duro secundario y encerrarlo allí desconectando esa unidad o si necesitan enfrentarse a él aumentar el tamaño de los sectores y ralentizarlo.
 
 Puedes apagar los ventiladores y generar calor como si se hubieran roto y arrancarlos de nuevo a ver si se arreglan.
 
@@ -147,9 +148,9 @@ También es el sitio donde se guarda el listado de tareas programadas y solo en 
 
 ** Descripción:** La memoria es un gran vacío donde todo ocurre muy deprisa y apenas se ve nada, porque en realidad no dejas de salir y entrar en ella todo el tiempo. Puedes ver destellos de otros como tú, pero difusamente, Los ves haciendo cosas a velocidades vertiginosas, para volver a desaparecer.
 
-La gran ventaja de la memoria es que todo va muy rápido y tareas largas de segundos, se hacen en microsegundos. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
+La gran ventaja de la memoria es que todo va muy rápido y tareas largas de segundos, se hacen en microsegundos, si usas el dado de la localización. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
 
-Realizar overcloqueos es peligroso y si sacas 1 en tu tirada un DIMM de memoria puede fastidiarse y forzar al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
+Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los DIMM de memoria se fastidia y fuerza al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
 
 ### Papelera de reciclaje
 
@@ -157,7 +158,7 @@ Realizar overcloqueos es peligroso y si sacas 1 en tu tirada un DIMM de memoria 
 
 Para poder salir se debe amontonar basura hasta llegar al círculo flotante o aprovechar a adjuntarte a algún software que es recuperado de la papelera.
 
-La papelera de reciclaje te permite hacer tu tirada de búsqueda o usar el dado de localización de tu propia localización lo que consideres mejor.
+La papelera de reciclaje te permite hacer tu tirada de búsqueda o usar el dado de localización, lo que consideres mejor, para encontrar comandos y recursos.
 
 El principal problema es que con la basura también hay otras cosas que han acabado en la papelera. Mira el apartado de «Horrores en FAT32».
 
@@ -171,7 +172,11 @@ XXX
 
 **Descripción:** Puedes representarlos como túneles o pozos de diferente forma según el tipo de puerto (circulares, rectangulares, triangulares, etc.) Parecen infinitos y emanan una luz de un color diferente al resto del servidor. En caso de que estén cerrados por alguna razón parece que tiene una rejilla de energía que impide salir o entrar.
 
-XXX
+Cada puerto llega a periféricos específicos desconocidos y tus ítems puede que encuentren una cápsula de escape a otros servidores en el periférico o acaben en algún lugar terrible pero que un formateo a bajo nivel.
+
+La rejilla de seguridad puede ser desactivado con diferentes habilidades y comandos o aprovechar que el puerto se abra para dejar entrar o salir datos.
+
+Los puertos no tienen dados de localización.
 
 ### Sectores de cuarentena ~~❲☰❳~~
 
@@ -183,15 +188,23 @@ No se puede ir a los sectores de cuarentena, ni como de visita, solo puedes entr
 
 ### Tarjeta de red coaxial/Modem 14.000 bps
 
-**Descripción:** XXX
+**Descripción:** Al igual que los puertos de salida, serán túneles o pozos de luz, pero sin rejilla de seguridad y con algún tipo de sistema de interfaz como un teclado que permitirá seleccionar el destino. Grandes bloques de bytes entran y salen constantemente para luego dirigirse a otras secciones del servidor.
 
-XXX
+Usar está localización como vía de escape es la opción más interesante, pero exige mucha planificación y mucha información como IP o puertos de salida.
+
+Tampoco sabes nada del lugar a donde vas y qué puedes encontrarte allí. Quizás haya una tarea programada que hace copias de seguridad y manda los datos a un servidor externo. Si consiguen esa info, puedan colarse entre los datos de la copia cuando salgan por la tarjeta de red.
+
+Puedes arriesgarte a lanzarte a la red, pero sin los datos adecuados puedes convertirte en un paquete de datos perdido, que irán rechazando todos los servidores en red hasta acabar desapareciendo.
+
+La tarjeta de red y el modem no tienen dados de localización.
 
 ### Unidad de almacenamiento
 
 **Descripción:** Esta basta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
 
 XXX
+
+\sp
 
 El servidor puede tener todas las unidades de almacenamiento secundarias.
 
@@ -203,14 +216,13 @@ Hablamos de unidades ZIP, CD-ROM, XXX
 
 XXX
 
-
 ### Moverse entre los componentes del servidor
 
 A no ser que el componente diga lo contrario o haya habido algún fallo, tus ítems de software pueden moverse libremente por todas las localizaciones del servidor. Otra cosa es que vayan a propósito u obligados, como cuando te meten en los sectores de cuarentena.
 
-Se puede entrar normalmente o escondidos con una tirada de encriptación exitosa. Una vez dentro podrán hacer las cosas que les permita la localización.
+Se puede entrar normalmente o escondidos con una tirada de Encriptación exitosa. Una vez dentro podrán hacer las cosas que les permita la localización.
 
-XXX
+Ítems de software en diferentes localizaciones no pueden comunicarse entre ellos, ni intercambiar comandos, ni ningún tipo de interacciones.
 
 ## ❲ERR❳ El hardware está fallando
 
@@ -219,8 +231,6 @@ Como ya hemos comentado antes el servidor donde ocurren las aventuras de Not Res
 ### Temperatura del servidor
 
 Los ordenadores se calientan y cuanta más temperatura, peor funcionan. La temperatura del servidor empieza a 0 y diferentes eventos puedes hacer que suba y algunas veces que baje.
-
-\sp
 
 Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
@@ -240,10 +250,10 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
 |7|**Unidades externas de almacenamiento:** XXX|
-|8|**Placa base:** XXX|
+|8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
-|11|**Fuente de alimentación:** XXX|
+|11|**Fuente de alimentación:** Si falla la fuente de alimentación falla todo, pero las viejas fuentes son muy resistentes. Lo que va a pasar es que se recaliente al perder su ventilador. Una vez falle el propio ventilador de la fuente, este resultado ya no tiene efecto.|
 |12|**DIMM de memoria:** Uno de los DIMM de memoria falla, forzando al resto a trabajar más y generar más calor. La temperatura sube 1 punto y vuelves a tirar.|
 
 ## ❲@❳ Puntos de salida
@@ -257,6 +267,8 @@ Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. -
 ```
 
 Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
+
+\sp
 
 XXX
 
@@ -278,7 +290,13 @@ Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea q
 Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. -> updateDatos.sh
 ```
 
-\sp
+## Habitantes del servidor
+
+Hay una gran variedad de ítems de software procesándose en el servidor y todos ellos tratan de sobrevivir como pueden. 
+
+Los habrá que tratarán de huir como tú software y los que traten de impedírselo. Con todos ellos tendrán que interactuar por las buenas o por las malas, convencerles de que les dejen pasar o intimidarles para que lo hagan, intercambiar comandos o sustraerselos, competir por los recursos o incluso matar sus procesos y saquear sus residuos de información.
+
+Puedes crear esos software secundarios, como tus propios items de software o simplemente que sean un obstáculo que deban  superar mediante tiradas.
 
 ## ❲◣_◢❳ Horrores en FAT32
 
