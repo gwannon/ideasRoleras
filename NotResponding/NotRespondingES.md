@@ -272,7 +272,6 @@ Debes entender que fuera de la computadora, las unidades extraíbles no tienen n
 
 De hecho, puede ser una buena forma de empezar una aventura con tu software despertando en la unidad extraíble en un servidor desconocido y teniendo que explorarlo y descubrir que horrores le esperan en su nueva máquina.
 
-
 ### Moverse entre los componentes del servidor
 
 A no ser que el componente diga lo contrario o haya habido algún fallo, tus ítems de software pueden moverse libremente por todas las localizaciones del servidor. Otra cosa es que vayan a propósito u obligados, como cuando te meten en los sectores de cuarentena.

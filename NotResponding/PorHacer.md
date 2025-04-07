@@ -4,6 +4,10 @@
 
 XXX
 
+Es el lugar más seguro del servidor, donde el administrador guarda todo lo que considera valioso y donde están los ítems de software más poderosos y con más permisos. Es por ello que es un lugar seguro frente a virus y malware.
+
+También es el sitio donde se guarda el listado de tareas programadas y solo en esta localización puede consultarse.
+
 Recuerda que **el directorio /root es una parte específica de la unidad principal de almacenamiento**, lo que le pase a esta, afectará al directorio /root.
 
 ### Placa base
