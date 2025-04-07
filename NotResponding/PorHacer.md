@@ -4,19 +4,17 @@
 
 XXX
 
+Recuerda que **el directorio /root es una parte específica de la unidad principal de almacenamiento**, lo que le pase a esta, afectará al directorio /root.
+
 ### Placa base
 
-**Descripción:** XXX
+**Descripción:** Esta autopista de infinitos carriles, vías secundarias, cambios de sentido y pasos elevados es recorrida por miles de bytes por cada ciclo de memoria. 
 
 XXX
 
-### Sectores de cuarentena ~~❲☰❳~~
+Tu software puede usar **el dado de localización de la placa base para encontrar rutas desconocidas** para poder colarte en sitios cerrados o en dispositivos colapsados. Quizás haya un pequeño buffer de datos conectado a la memoria que te permita saltarse los controles de seguridad del antivirus o salir rápidamente del disco duro colapsado por una migración masiva de datos.
 
-**Descripción:** XXX
-
-XXX
-
-El dado de localización de los sectores de cuarentena sirve para poder detectar software infectado por un virus, por un lado, y para poder tratar de curar la infección por otro. Una vez la infección se haya extendido completamente solo se podrá usar para eliminar al software infectado y que no extienda su enfermedad al resto.
+La mayoría de los viajes entre localizaciones pasan por la placa base, así que los antivirus podrían montar controles en esas zonas para buscar prófugos del sector de cuarentena o virus y malware moviéndose hacia su objetivo.
 
 ### Virus
 
@@ -26,7 +24,7 @@ XXX
 
 Cuando un ítem de software entra en contacto con un virus y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
 
-Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más çitems de software.
+Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más ítems de software.
 
 XXX
 
@@ -36,8 +34,6 @@ No pongo mi código en sitios donde hayan estado otros códigos. Nunca sabes que
 
 ### Firewall
 
-XXX
-
-### Malware
+Más que un monstruo estamos hablando de un obstáculo, un muro de seguridad extra puesta por el administrador del sistema. Puede afectar a todo el sistema como una DMZ que lo desconecta del resto de la red o protegiendo sectores específicos de la unidad de almacenamiento.
 
 XXX

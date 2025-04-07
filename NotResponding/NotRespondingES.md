@@ -1,6 +1,6 @@
 \sinc
 
-# ❲Not Responding❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# ❲Not Responding ver.1.0❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
 
 \conc
 
@@ -142,7 +142,7 @@ Para simular todos esos problemas y que tu mesa pueda entenderlos visualmente de
 * Quizás un archivo de gran tamaño está atascando el buffer de lectura y escritura de la unidad de disco y tenga ellos que moverlo o partirlo para poder salir de allí.
 * Los elementos protegidos tendrán puertas con códigos 
 
-Lo más interesante es que muchas veces no tienen que tener lógica y puede haber un haz de láser que vaya grabando agujeros en una superficie redonda que gira a gran velocidad y decirles que están en el CD-ROM del ordenador o en una gran autopista con miles de paquetes de datos moviéndose a toda velocidad a su alrededor y tengan que esquivarlos para atravesar y puedes decirles que están en cable BUS de datos de placa base.
+Lo más interesante es que muchas veces no tienen que tener lógica. Puede haber un haz de láser que vaya grabando agujeros en una superficie redonda que gira a gran velocidad y decirles que están en el CD-ROM del ordenador. O tal vez una gran autopista con miles de paquetes de datos moviéndose a toda velocidad a su alrededor y tengan que esquivarlos para atravesar y puedes decirles que están en un cable BUS de datos de placa base.
 
 ## ¸.·´¯`·X Localizaciones
 
@@ -198,9 +198,13 @@ El principal problema es que con la basura también hay otras cosas que han acab
 
 ### Placa base
 
-**Descripción:** XXX
+**Descripción:** Esta autopista de infinitos carriles, vías secundarias, cambios de sentido y pasos elevados es recorrida por miles de bytes por cada ciclo de memoria. 
 
 XXX
+
+Tu software puede usar **el dado de localización de la placa base para encontrar rutas desconocidas** para poder colarte en sitios cerrados o en dispositivos colapsados. Quizás haya un pequeño buffer de datos conectado a la memoria que te permita saltarse los controles de seguridad del antivirus o salir rápidamente del disco duro colapsado por una migración masiva de datos.
+
+La mayoría de los viajes entre localizaciones pasan por la placa base, así que los antivirus podrían montar controles en esas zonas para buscar prófugos del sector de cuarentena o virus y malware moviéndose hacia su objetivo.
 
 ### Puertos {COM1, COM2, LPT1}
 
@@ -214,11 +218,23 @@ Los puertos no tienen dados de localización.
 
 ### Sectores de cuarentena ~~❲☰❳~~
 
-**Descripción:** XXX
+**Descripción:** Imagina pasillos y pasillos de pequeñas celdas de luz en las que se apretujan todo tipo de software, desde peligrosos virus que lo dejan de gritar y amenazar a pequeños scripts atemorizados en un rincón de su celda sin saber por qué están aquí. Cada cierto tiempo los antivirus traen a un nuevo prisionero o se llevan a otro para interrogarlo o si tienen suerte para sacarlo de allí.
 
-XXX
+En una plaza central a la que llegan todos los pasillos, se encuentra un foso magnético. Aquellos considerados como virus y malware son lanzados dentro para purgarlos del sistema.
 
-No se puede ir a los sectores de cuarentena, ni como de visita, solo puedes entrar o salir si eres un antivirus o si ellos te sacan o meten. Aunque puede que tus ítems de software encuentren la forma de fugarse.
+Los vigilantes, si tienen pruebas de que estás infectado, pueden llevarte a la plaza central donde intentan refactorizar tu código y limpiarlo de virus. Si tras un doloroso proceso lo consiguen eres libre. Si no lo consiguen, el siguiente paso es el pozo magnético.
+
+**El dado de localización de los sectores de cuarentena sirve para poder detectar software infectado por un virus**, por un lado, y **para poder tratar de curar la infección por otro**. Una vez la infección se haya extendido completamente solo se podrá usar para eliminar al software infectado y que no extienda su enfermedad al resto.
+
+Al entrar como recluso pierdes todos tus comandos, que serán devueltos cuando salgas, si sales.
+
+Las habilidades de Interfaz y Puntear son las únicas que se pueden usar dentro de las celdas. Si eres listo y observador podrás encontrar la forma de escapar.
+
+Si tus capacidades de Interfaz son altas, puedes que consigas buena información que puedas usar más adelante o consigas aliados en los bajos fondos que te protejan y ayuden.
+
+Con el sector de cuarentena puedes convertir tu aventura en una historia de fugas. Quizás el servidor no esté en peligro de dejar de funcionar y simplemente tengas de huir a otra computadora porque huiste de la cuarentena y no serás libre hasta que salgas del sistema.
+
+Recuerda que **la cuarentena es una parte específica de la unidad principal de almacenamiento**, lo que le pase a esta, afectará a los sectores de cuarentena.
 
 ### Tarjeta de red coaxial/Modem 14.000 bps
 
@@ -232,15 +248,18 @@ Puedes arriesgarte a lanzarte a la red, pero sin los datos adecuados puedes conv
 
 La tarjeta de red y el modem no tienen dados de localización.
 
-
 ### Unidad de almacenamiento
 
 **Descripción:** Esta basta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
 
+\sp
+
 La unidad de almacenamiento principal es aquella donde está instalado el sistema operativo del servidor.
 
-El **dado de localización de la unidad de almacenamiento sirve para gestionar la información guardada en él** y tu software lo puede usar de muchas formas, desde buscar algún dato perdido entre los árboles de directorios y subdirectorios o colapsar alguna parte del servidor, mandando muchos bloques de información o mandando un bloque muy grande, hasta esconderse dentro de uno de esos bloques a la espera de salir en una copia de seguridad que se guarda en otra máquina. O quizás puedan enviar una gran cantidad de bytes a un disco de 3½ infectado de virus, para colapsar el bus de datos y el virus no pueda entrar en el sistema.
- 
+El **dado de localización de la unidad de almacenamiento sirve para gestionar la información guardada en él**. Tu software lo puede usar de muchas formas, por ejemplo, para buscar algún dato perdido entre los árboles de directorios y subdirectorios o colapsar alguna parte del servidor, mandando muchos bloques de información o mandando un bloque muy grande.
+
+También pueden usar ese dado para esconderse dentro de uno de sus bloques de bytes a la espera de salir en una copia de seguridad que se guarda en otra máquina. O quizás puedan enviar una gran cantidad de bytes a un disco de 3½ infectado de virus, para colapsar el bus de datos y el virus no pueda entrar en el sistema.
+
 El servidor puede tener todas las unidades de almacenamiento secundarias que quieras que tendrían más o menos el mismo funcionamiento y descripción, pero que deberían de tener algún tipo especificidad, como que almacenan copias de seguridad o son usadas por el servidor de impresión para almacenar trabajos, etc.
 
 ### Unidades extraíbles de almacenamiento
@@ -253,7 +272,6 @@ Debes entender que fuera de la computadora, las unidades extraíbles no tienen n
 
 De hecho, puede ser una buena forma de empezar una aventura con tu software despertando en la unidad extraíble en un servidor desconocido y teniendo que explorarlo y descubrir que horrores le esperan en su nueva máquina.
 
-\sp
 
 ### Moverse entre los componentes del servidor
 
@@ -287,13 +305,13 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |---|-----|
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores, este resultado no tiene efecto.|
+|6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
+|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
 
-\sc
+\sp
 
 |1d12|Fallo|
 |---|-----|
-|6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
@@ -309,8 +327,6 @@ Así que pueden ser terribles, si vacían la papelera mientras estás dentro o u
 Para crear tus crons debes definir 3 aspectos:
 
 * **Acción que se realiza:** puede ser cualquier cosa que se te ocurra, desde vaciar la papelera, con lo que el software que esté dentro deberá salir pitando o recalentar el procesador con la creación de un informe financiero de la contabilidad de la empresa que eleva la temperatura 1 punto.
-
-\sp
 
 * **Localización del ordenador a la que afecta:** Una tarea puede afectar a una o más zonas al mismo y a distintos tiempos. Por ejemplo, un cron hace una copia de seguridad del disco duro principal en un disco secundario y vacía todo su contenido del disco duro principal. Tu software podría enfrentarse a un borrado en el disco principal o a una avalancha de datos que colapse el disco secundario.
 * **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como «cuando se tomen un número par de reseteos» o «cuando la temperatura alcance 3».
@@ -341,7 +357,7 @@ XXX
 
 Cuando un ítem de software entra en contacto con un virus y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
 
-Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más çitems de software.
+Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más ítems de software.
 
 XXX
 
@@ -353,23 +369,38 @@ No pongo mi código en sitios donde hayan estado otros códigos. Nunca sabes que
 
 Los antivirus son la policía del servidor y controlan el sector de cuarentena. Su principal poder es su número y siempre vendrán en grupo de 3 o 4 a tratar de detener a tu software. Suelen patrullar las unidades de almacenamiento y hacer redadas en elementos claves como memoria o BIOS, pero nunca los encontrarás pringándose en la papelera de reciclaje. 
 
+\sp
+
 Por permisos, son los únicos pueden entrar y salir de los sectores de cuarentena (la cárcel dentro de una computadora) y, por tanto, de meter y sacar de allí a ítems de software que consideren peligrosos.
 
 ```
 AAVAB | All AntiVirus Are Bastards -> HelloWorld.bin
 ```
 
-Trata de manejar este software de forma muy fascista. A la mínima te meten en cuarentena sin pruebas y sin juicio y te pueden tener allí durante ciclos y ciclos sin decirte de qué se te acusa, haciéndote interminables interrogatorios de IF/ELSE que parecen bucles infinitos. Suelen tener bastante inquina al software libre y a los desarrollos propios y tratan mejor al software propietario, pero si descubren que eres pirateado seguramente te detendrán para saber de dónde has salido.
+Trata de manejar este software de forma muy fascista. A la mínima te meten en cuarentena sin pruebas y sin juicio y te pueden tener allí durante ciclos y ciclos sin decirte de qué se te acusa, haciéndote interminables interrogatorios de IF/ELSE que parecen bucles infinitos. S
+
+Suelen tener bastante inquina al software libre y a los desarrollos propios y tratan mejor al software propietario, pero si descubren que eres pirateado seguramente te detendrán para saber de dónde has salido.
 
 Su tasa de capturas de virus es ridícula y lo más normal es que la mayoría de sus detenciones sean falsos positivos. De hecho, la mayoría del software que está en cuarentena es software libre y desarrollos propios detenidos injustamente.
 
 ### Firewall
 
+Más que un monstruo estamos hablando de un obstáculo, un muro de seguridad extra puesta por el administrador del sistema. Puede afectar a todo el sistema como una DMZ que lo desconecta del resto de la red o protegiendo sectores específicos de la unidad de almacenamiento.
+
 XXX
 
 ### Malware
 
-XXX
+El malware son programas con intenciones secretas que buscan conseguir un beneficio para su creador, quizás robe contraseñas o emails o encripte una de las unidades de almacenamiento para pedir un rescate.
+
+De normal un malware es software normal y corriente, de hecho ni ellos saben muchas veces que son malware, que en determinada situación se activa. Son una especie de agentes durmientes que cuando se les da la orden realizan algún tipo de acto dañino.
+
+Puedes crear un malware como si fuera un software más, pero con un elemento extra denominado troyano. El troyano funciona un poco como las tareas programas. Cuando se da un disparador realizan una tarea que busca hacer daño al sistema en un lugar concreto. Veamos ejemplos:
+
+* Si consiguen entrar en el directorio /root y quedarse solo, empezará a encriptar su contenido, inutilizando todo el sistema.
+* Si encuentra un archivo .cfg y consigue un comando «cat» buscará trocearlo y buscar claves y contraseñas entre sus bytes
+
+A diferencia de los infectados por un virus, no se puede detectar con un «diff», es el mismo software todo el tiempo. Aun así, su conducta puede delatarlos, ya que tratan de cumplir su disparador aunque no sepan por qué.
 
 ### Bucle infinito
 
@@ -379,11 +410,47 @@ Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte
 
 Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor o busquen atraer a un virus para que se acerque y el bucle lo devore.
 
-\sp
-
 La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
 
+\sp
+
+\sinc
+
+# Desbordamiento de pila_
+
+\conc
+
+**«Desbordamiento de pila» es una aventura de un par de sesiones para 4 ítems de software.**
+
+Tus ítems de software funcionan en un viejo ordenador de un silo nuclear de los años 80/90. El servidor está dentro de una zona DMZ, que evita la salida y entrada de datos y procesos. Geográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.
+
+Pero mentira, hay una salida, una única salida. Cuando la temperatura del servidor llega a 9, se activa una tarea programada de alta prioridad y la DMZ deja salir un email de aviso al administrador de sistema para que intervenga. Si se adjuntan al email podrán escapar del servidor o quizás puedan saltar de la tarjeta de red a otro equipo más moderno del silo cuando la DMZ se abra.
+
+**PRÓXIMAMENTE (abril 2025)**
+
+\sp
+
+\sinc
+
+# Ayudas
+
+\conc
+
+## Ficha de software
+
+|HojaPersonaje.html|
+
+\sc
+
+## Ficha del servidor
+
+|HojaServidor.html|
+
+\sinc
+
 ## Términos que puedes usar
+
+\conc
 
 Este listado de términos son conceptos raros y extraños, pero que suenan muy bien, que podrás usar cuando tengas que explicar qué está pasando o porque falla algo.
 
@@ -400,63 +467,7 @@ Este listado de términos son conceptos raros y extraños, pero que suenan muy b
 
 Frases como el «Virtualizador está fallando» o «El balanceador de carga está descompensado» no significan nada, pero parece que es algo muy informático.
 
-\sp
-
 \sinc
-
-# Desbordamiento de pila_
-
-\conc
-
-**«Desbordamiento de pila» es una aventura de un par de sesiones para 4 ítems de software.**
-
-Tus ítems de software funcionan en un viejo ordenador de un silo nuclear de los años 80/90. El servidor está dentro de una zona DMZ, que evita la salida y entrada de datos y procesos. Geográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.
-
-Pero mentira, hay una salida, una única salida. Cuando la temperatura del servidor llega a 9, se activa una tarea programada de alta prioridad y la DMZ deja salir un email de aviso al administrador de sistema para que intervenga. Si se adjuntan al email podrán escapar del servidor o quizás puedan saltar de la tarjeta de red a otro equipo más moderno del silo cuando la DMZ se abra.
-
-**PRÓXIMAMENTE (Abril 2025)**
-
-\sp
-
-## Ficha de software
-
-&nbsp;
-
-|HojaPersonaje.html|
-
-\sc
-
-## Ficha del servidor
-
-&nbsp;
-
-|HojaServidor.html|
-
-\sinc
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 ## Licencia 
 

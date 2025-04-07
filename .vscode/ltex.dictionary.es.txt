@@ -596,3 +596,6 @@ Chown
 Diff
 ELSE
 Virtualizador
+refactorizar
+diff
+cat
