@@ -352,7 +352,7 @@ Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte
 
 > Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a más software y así en ciclo que no acaba nunca. Empiezan con un d4 y cada vez que se traguen algo importante suben un nivel de dado. Cuando llegan a d12 comen tantos recursos que generan 1 punto de temperatura.
 
-Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor y busquen atraer a un virus para que se acerque y el bucle lo devore.
+Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor o busquen atraer a un virus para que se acerque y el bucle lo devore.
 
 La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
 
