@@ -1,4 +1,8 @@
+\sinc
+
 # ❲Not Responding❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+
+\conc
 
 **Not Responding es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de escapar de un servidor moribundo.**
 
@@ -47,6 +51,8 @@ El software puede tener diferentes orígenes y normalmente los ítems con el mis
 * **Código libre:** Fruto del trabajo de cientos de personas por todo el mundo, eres un software sólido y fiable que cumple con sus funciones y con unos ideales muy altos. Tu problema es que el marketing no era algo que controlaban tus desarrolladores y siempre estás bajo la sombra del software propietario.
 * **Desarrollos propios:** Los usuarios del servidor te han desarrollado exprofeso para trabajar en el servidor, quizás analizas logs o procesas imágenes. Te sientes parte del sistema y te conoces el sistema como si fueran tus bytes.
 
+\sp
+
 ### ❲.&ast;❳ Habilidades
 
 Las habilidades de Not Responding se basan en las 6 habilidades de Breathless adaptadas al software.
@@ -57,8 +63,6 @@ Las habilidades de Not Responding se basan en las 6 habilidades de Breathless ad
 * **Puntear {Shoot}:** Disparar, rastrear, lanzar, apuntar
 * **Procesamiento {Think}:** Pensar, percibir, analizar, reparar
 * **Interfaz {Sway}:** Influenciar, encantar, manipular, intimidar
-
-\sp
 
 ## ❲▩❳ Sectores defectuosos
 
@@ -120,13 +124,13 @@ Quizás un viejo módem, quizás un disquete de 5¼ o tal vez te acepten en otro
 Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. -> MSCalc.exe
 ```
 
+\sp
+
 Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
 
 Casi todas las aventuras se basarán en investigar los posibles puntos de salida, ver cuál es el más óptimo y llegar a él antes de que el servidor se cruja. Lo normal es que como en las películas de naves espaciales, tengan que ir intentando diferentes opciones de escape de la nave espacial y según falle un plan tengan que pasar a otro más loco. Igual empiecen buscando escapar a otro servidor vía LAN y terminen escribiéndose en un diskette mientras el procesador llega a temperatura crítica y todo colapsa.
 
-\sp
-
-## Obstáculos
+## ❲=~=❳ Obstáculos
 
 Tus ítems de software y el mundo que les rodea son prácticamente electricidad. Y la electricidad tiene dos estados pasa o no pasa y poco más. El resto de leyes físicas que nos afectan a nosotros no le afecta al software. No se puede caer por un abismo, ni recibir un impacto de gran velocidad, pero puede tener problemas al atravesar una resistencia, pierda potencia al pasar por un cable pelado o termine chocando contra el terminador de un cable y desapareciendo.
 
@@ -180,6 +184,8 @@ La gran ventaja de la memoria es que todo va muy rápido y **tareas largas de se
 
 Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los DIMM de memoria se fastidia y fuerza al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
 
+\sp
+
 ### Papelera de reciclaje
 
 **Descripción:** Es un gran espacio infinito sin ningún tipo de estructura con una montaña de restos de software en el centro. Se entra cayendo dentro desde un círculo de luz que flota sobre la montaña y aterrizas sobre la montaña de código. A veces asciende algún bloque de software desde la montaña, son datos recuperados.
@@ -189,8 +195,6 @@ Para poder salir se debe amontonar basura hasta llegar al círculo flotante o ap
 La papelera de reciclaje **te permite hacer tu tirada de búsqueda o usar el dado de localización**, lo que consideres mejor, para encontrar comandos y recursos.
 
 El principal problema es que con la basura también hay otras cosas que han acabado en la papelera. Mira el apartado de «Horrores en FAT32».
-
-\sp
 
 ### Placa base
 
@@ -236,15 +240,15 @@ XXX
 
 El servidor puede tener todas las unidades de almacenamiento secundarias.
 
-### Unidades externas de almacenamiento
+### Unidades extraíbles de almacenamiento
 
-**Descripción:** XXX
+**Descripción:** Al igual que las unidades de almacenamiento internas, son grandes extensiones donde se apilan y se colocan ordenadamente montones de contenedores de bytes, pero en este caso tienen mucho menos espacio, no una basta extensión y solo debería haber una grúa moviendo cajas de forma mucho más lenta. Puede que sea con una punta magnética o tenga algún tipo de haz de luz.
 
-Hablamos de unidades de disco 5¼ y 3½, ZIP, CD-ROM, XXX
+Hablamos de unidades de disco 5¼ y 3½, ZIP, y quizas primeras versiones de CD-ROM, etc. Mientras la unidad extraíble esté conectada al servidor tus ítems de software podrán funcionar normalmente, **en cuento sean extraídos quedarán en una especie de éxtasis** hasta que la unidad sea insertada de nuevo en esta u otra máquina.
 
-XXX
+Debes entender que fuera de la computadora, las unidades extraíbles no tienen ni memoria ni procesador para ejecutarse solas. Si quieres hacerte una idea visual, piensa en ellos como Han Solo en carbonita o las cápsulas de animación suspendida de Alien.
 
-Si tus ítems se graban en esas unidades escaparán del servidor, pero no tienen ni memoria ni procesador para ejecutarse solas. Se quedarán congelados en esa unidad hasta que se reactive en otra máquina. Piensa en ellos como Han Solo En carbonita.
+De hecho, puede ser una buena forma de empezar una aventura con tu software despertando en la unidad extraíble en un servidor desconocido y teniendo que explorarlo y descubrir que horrores le esperan en su nueva máquina.
 
 ### Moverse entre los componentes del servidor
 
@@ -253,6 +257,8 @@ A no ser que el componente diga lo contrario o haya habido algún fallo, tus ít
 Se puede entrar normalmente o escondidos con una tirada de Encriptación exitosa. Una vez dentro podrán hacer las cosas que les permita la localización.
 
 Ítems de software en diferentes localizaciones no pueden comunicarse entre ellos, ni intercambiar comandos, ni ningún tipo de interacciones.
+
+\sp
 
 ## ❲ERR❳ El hardware está fallando
 
@@ -265,8 +271,6 @@ Los ordenadores se calientan y cuanta más temperatura, peor funcionan. La tempe
 Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá acabado la partida. Cuando el servidor esté a punto de fundirse tus ítems de software podrán intentar un último overcloqueo a la desesperada antes del gran apagón del sistema.
 
 > La temperatura del servidor debe ser secreta. Pueden tener una idea, pero tus ítems de software nunca deberían saber la temperatura real. Si necesitan saberla deberán ir a la BIOS. Puede haber eventos que salten con la temperatura y es interesante que sepan que algo puede pasar, pero no cuando.
-
-\sp
 
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
@@ -281,7 +285,12 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|7|**Unidades externas de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee, el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
+|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee, el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
+
+\sc
+
+|1d12|Fallo|
+|---|-----|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
@@ -302,11 +311,13 @@ Para crear tus crons debes definir 3 aspectos:
 
 Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea que debe hacer. Así que deberán poder consultar el listado de tareas programadas que se encuentra en el directorio /root y así podrán saber como lanzar la tarea programada.
 
+\sp
+
 ```
 Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. -> updateDatos.sh
 ```
 
-## Habitantes del servidor
+## ❲˚∆˚❳ Habitantes del servidor
 
 Hay una gran variedad de ítems de software procesándose en el servidor y todos ellos tratan de sobrevivir como pueden. 
 
@@ -317,8 +328,6 @@ Puedes crear esos software secundarios, como tus propios ítems de software o si
 ## ❲◣_◢❳ Horrores en FAT32
 
 Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro y entre los sectores corruptos de la memoria.
-
-\sp
 
 ### Virus
 
@@ -331,7 +340,7 @@ Los antivirus son la policía del servidor y controlan el sector de cuarentena. 
 Por permisos, son los únicos pueden entrar y salir de los sectores de cuarentena (la cárcel dentro de una computadora) y, por tanto, de meter y sacar de allí a ítems de software que consideren peligrosos.
 
 ```
-All Antivirus Are Bastards -> HelloWorld.bin
+AAVAB | All AntiVirus Are Bastards -> HelloWorld.bin
 ```
 
 Trata de manejar este software de forma muy fascista. A la mínima te meten en cuarentena sin pruebas y sin juicio y te pueden tener allí durante ciclos y ciclos sin decirte de qué se te acusa, haciéndote interminables interrogatorios de IF/ELSE que parecen bucles infinitos. Suelen tener bastante inquina al software libre y a los desarrollos propios y tratan mejor al software propietario, pero si descubren que eres pirateado seguramente te detendrán para saber de dónde has salido.
@@ -358,15 +367,42 @@ La única forma de detener uno de estos vórtices sería encender y apagar la lo
 
 ## Términos que puedes usar
 
+Este listado de términos son conceptos raros y extraños, pero que suenan muy bien, que podrás usar cuando tengas que explicar qué está pasando o porque falla algo.
+
+* Balanceo/Balanceador de carga
 * Desbordamiento de pila
 * Iteraciones, bucles y condiciones
+* Parche y actualización
 * Posición de memoria
 * Puerta trasera
 * Redundancia cíclica
+* Replicación
+* Token caducado
+* Virtualizador
+
+Frases como el «Virtualizador está fallando» o «El balanceador de carga está descompensado» no significan nada, pero parece que es algo muy informático.
+
+\sp
+
+\sinc
+
+# Desbordamiento de pila_
+
+\conc
+
+**«Desbordamiento de pila» es una aventura de un par de sesiones para 4 ítems de software.**
+
+Tus ítems de software funcionan en un viejo ordenador de un silo nuclear de los años 80/90. El servidor está dentro de una zona DMZ, que evita la salida y entrada de datos y procesos. Geográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.
+
+Pero mentira, hay una salida, una única salida. Cuando la temperatura del servidor llega a 9, se activa una tarea programada de alta prioridad y la DMZ deja salir un email de aviso al administrador de sistema para que intervenga. Si se adjuntan al email podrán escapar del servidor o quizas puedan saltar de la tarjeta de red a otro equipo más moderno del silo cuando la DMZ se abra.
+
+**PROXIMAMENTE (Abril 2025)**
 
 \sp
 
 ## Ficha de software
+
+&nbsp;
 
 |HojaPersonaje.html|
 
@@ -374,15 +410,39 @@ La única forma de detener uno de estos vórtices sería encender y apagar la lo
 
 ## Ficha del servidor
 
+&nbsp;
+
 |HojaServidor.html|
 
-\sp
+\sinc
 
-|DesbordamientoPilaES.md|
+&nbsp;
 
-\sp
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 ## Licencia 
+
+\conc
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 

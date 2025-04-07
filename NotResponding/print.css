@@ -48,6 +48,10 @@ body > *:first-child,
   padding-top: 0;
 }
 
+.saltopagina + h1 {
+  padding-top: 20px;
+}
+
 .columns {
   columns: 2;
 }
