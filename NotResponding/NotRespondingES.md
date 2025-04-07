@@ -126,6 +126,20 @@ Casi todas las aventuras se basarán en investigar los posibles puntos de salida
 
 \sp
 
+## Obstáculos
+
+Tus ítems de software y el mundo que les rodea son prácticamente electricidad. Y la electricidad tiene dos estados pasa o no pasa y poco más. El resto de leyes físicas que nos afectan a nosotros no le afecta al software. No se puede caer por un abismo, ni recibir un impacto de gran velocidad, pero puede tener problemas al atravesar una resistencia, pierda potencia al pasar por un cable pelado o termine chocando contra el terminador de un cable y desapareciendo.
+
+Para simular todos esos problemas y que tu mesa pueda entenderlos visualmente debes crear versiones visuales de los problemas que tendría la electricidad. Veamos algunos ejemplos:
+
+* Un cable de bus de datos dañado puede simularse con un puente medio derruido con una zona muy estrecha por donde pasar.
+* Muchos elementos como puertos de comunicación, puedes simularlos como pozos donde tendrán que saltar. 
+* Una resistencia puede ser un muro que impide el paso o un precipicio que hay que saltar con la suficiente fuerza.
+* Quizás un archivo de gran tamaño está atascando el buffer de lectura y escritura de la unidad de disco y tenga ellos que moverlo o partirlo para poder salir de allí.
+* Los elementos protegidos tendrán puertas con códigos 
+
+Lo más interesante es que muchas veces no tienen que tener lógica y puede haber un haz de láser que vaya grabando agujeros en una superficie redonda que gira a gran velocidad y decirles que están en el CD-ROM del ordenador o en una gran autopista con miles de paquetes de datos moviéndose a toda velocidad a su alrededor y tengan que esquivarlos para atravesar y puedes decirles que están en cable BUS de datos de placa base.
+
 ## ¸.·´¯`·X Localizaciones
 
 El servidor tiene una serie de localizaciones básicas donde tu software podrá vivir sus aventuras, pero no son las únicas. Puedes crear las localizaciones extras que quieras o incluso redundar algunas. Recuerda que si creas tu propia localización debería tener un toque de retroinformática. Piénsalo así, este juego se maneja en megas, no en gigas.
@@ -176,6 +190,8 @@ La papelera de reciclaje **te permite hacer tu tirada de búsqueda o usar el dad
 
 El principal problema es que con la basura también hay otras cosas que han acabado en la papelera. Mira el apartado de «Horrores en FAT32».
 
+\sp
+
 ### Placa base
 
 **Descripción:** XXX
@@ -199,8 +215,6 @@ Los puertos no tienen dados de localización.
 XXX
 
 No se puede ir a los sectores de cuarentena, ni como de visita, solo puedes entrar o salir si eres un antivirus o si ellos te sacan o meten. Aunque puede que tus ítems de software encuentren la forma de fugarse.
-
-\sp
 
 ### Tarjeta de red coaxial/Modem 14.000 bps
 
@@ -252,6 +266,8 @@ Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá a
 
 > La temperatura del servidor debe ser secreta. Pueden tener una idea, pero tus ítems de software nunca deberían saber la temperatura real. Si necesitan saberla deberán ir a la BIOS. Puede haber eventos que salten con la temperatura y es interesante que sepan que algo puede pasar, pero no cuando.
 
+\sp
+
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
 Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable o se funda alguna pieza. Cualquier cosa puede pasar, por ello, cada vez suba la temperatura has de tirar en la siguiente tabla para ver si falla algún elemento del servidor.
@@ -266,11 +282,6 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
 |7|**Unidades externas de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee, el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
-
-\sp
-
-|1d12|Fallo|
-|---|-----|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
@@ -305,9 +316,9 @@ Puedes crear esos software secundarios, como tus propios ítems de software o si
 
 ## ❲◣_◢❳ Horrores en FAT32
 
-Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro.
+Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro y entre los sectores corruptos de la memoria.
 
-XXX
+\sp
 
 ### Virus
 
@@ -315,11 +326,17 @@ XXX
 
 ### Antivirus
 
-Los antivirus son la policía del servidor y controlan el sector de Cuarentena que es su cárcel. XXX
+Los antivirus son la policía del servidor y controlan el sector de cuarentena. Su principal poder es su número y siempre vendrán en grupo de 3 o 4 a tratar de detener a tu software. Suelen patrullar las unidades de almacenamiento y hacer redadas en elementos claves como memoria o BIOS, pero nunca los encontrarás pringándose en la papelera de reciclaje. 
+
+Por permisos, son los únicos pueden entrar y salir de los sectores de cuarentena (la cárcel dentro de una computadora) y, por tanto, de meter y sacar de allí a ítems de software que consideren peligrosos.
 
 ```
 All Antivirus Are Bastards -> HelloWorld.bin
 ```
+
+Trata de manejar este software de forma muy fascista. A la mínima te meten en cuarentena sin pruebas y sin juicio y te pueden tener allí durante ciclos y ciclos sin decirte de qué se te acusa, haciéndote interminables interrogatorios de IF/ELSE que parecen bucles infinitos. Suelen tener bastante inquina al software libre y a los desarrollos propios y tratan mejor al software propietario, pero si descubren que eres pirateado seguramente te detendrán para saber de dónde has salido.
+
+Su tasa de capturas de virus es ridícula y lo más normal es que la mayoría de sus detenciones sean falsos positivos. De hecho, la mayoría del software que está en cuarentena es software libre y desarrollos propios detenidos injustamente.
 
 ### Firewall
 
@@ -331,11 +348,13 @@ XXX
 
 ### Bucle infinito
 
-Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte en su interior y atraparte para siempre.
+Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte en su interior y atraparte para siempre. Puedes representarlos como tornados de energía que atraen los bytes cercanos y van creciendo según se alimentan. 
 
-XXX
+> Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a más software y así en ciclo que no acaba nunca. Empiezan con un d4 y cada vez que se traguen algo importante suben un nivel de dado. Cuando llegan a d12 comen tantos recursos que generan 1 punto de temperatura.
 
-> Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a software y así en ciclo que no acaba nunca.
+Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor y busquen atraer a un virus para que se acerque y el bucle lo devore.
+
+La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
 
 ## Términos que puedes usar
 
