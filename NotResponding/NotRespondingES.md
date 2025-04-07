@@ -168,23 +168,29 @@ Una de las cosas más interesantes que hacer en la BIOS es que podrán saber con
 
 ### Directorio /root
 
-**Descripción:** XXX
+**Descripción:** Esta sala cerrada a cal y canto, parece una caja fuerte por dentro, con montones scripts brillantes ordenados y clasificados en cajas y estanterías.
 
-XXX
+Es el lugar más seguro del servidor, donde el administrador guarda todo lo que considera valioso y donde están los ítems de software más poderosos y con más permisos. Es por ello que es un lugar seguro frente a virus y malware, a no ser que tu software esté dentro y les dejé entrar.
 
-Es el lugar más seguro del servidor, donde el administrador guarda todo lo que considera valioso y donde están los ítems de software más poderosos y con más permisos. Es por ello que es un lugar seguro frente a virus y malware.
+Los antivirus no pueden entrar dentro, con lo que también es un sitio seguro donde recachear en caso de que te persigan.
+
+A priori, solo con la clave de root se puede acceder a este espacio y no debería estar almacenada en ninguna parte del sistema, pero no siempre es así. También puede haber puertas traseras que te permitan entrar, pero seguramente quién pueda darte esa info esté en la cuarentena, si no ha sido purgado.
+
+**El dado de localización puede servir para buscar comandos y procesos con la ventaja de que no pueden salir resultados malos,** en caso de sacar 4 o menos se repite la tirada.
 
 También es el sitio donde se guarda el listado de tareas programadas y solo en esta localización puede consultarse.
+
+Recuerda que **el directorio /root es una parte específica de la unidad principal de almacenamiento**, lo que le pase a esta, afectará al directorio /root.
 
 ### Memoria ~~❲◘❳~~ ~~❲+❳~~
 
 ** Descripción:** La memoria es un gran vacío donde todo ocurre muy deprisa y apenas se ve nada, porque en realidad no dejas de salir y entrar en ella todo el tiempo. Puedes ver destellos de otros como tú, pero difusamente, Los ves haciendo cosas a velocidades vertiginosas, para volver a desaparecer.
 
+\sp
+
 La gran ventaja de la memoria es que todo va muy rápido y **tareas largas de segundos, se hacen en microsegundos, si usas el dado de la localización**. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
 
 Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los DIMM de memoria se fastidia y fuerza al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
-
-\sp
 
 ### Papelera de reciclaje
 
@@ -198,9 +204,9 @@ El principal problema es que con la basura también hay otras cosas que han acab
 
 ### Placa base
 
-**Descripción:** Esta autopista de infinitos carriles, vías secundarias, cambios de sentido y pasos elevados es recorrida por miles de bytes por cada ciclo de memoria. 
+**Descripción:** Esta autopista de infinitos carriles, vías secundarias, cambios de sentido y pasos elevados es recorrida por miles de bytes por cada ciclo de memoria.
 
-XXX
+Las placas base son muy resistentes y aguantan mucha presión antes de romperse, pero sí pueden empezar a fallar y tener múltiples sistemas rotos antes de colapsar totalmente. Quizás el beeper deje de funcionar o la placa de vídeo integrada tenga fallos a determinada temperatura, pero el tráfico de datos seguirá funcionando a toda velocidad.
 
 Tu software puede usar **el dado de localización de la placa base para encontrar rutas desconocidas** para poder colarte en sitios cerrados o en dispositivos colapsados. Quizás haya un pequeño buffer de datos conectado a la memoria que te permita saltarse los controles de seguridad del antivirus o salir rápidamente del disco duro colapsado por una migración masiva de datos.
 
@@ -242,6 +248,8 @@ Recuerda que **la cuarentena es una parte específica de la unidad principal de 
 
 Usar esta localización como vía de escape es la opción más interesante, pero exige mucha planificación y mucha información como IP o puertos de salida.
 
+\sp
+
 Tampoco sabes nada del lugar a donde vas y qué puedes encontrarte allí. Quizás haya una tarea programada que hace copias de seguridad y manda los datos a un servidor externo. Si consiguen esa info, puedan colarse entre los datos de la copia cuando salgan por la tarjeta de red.
 
 Puedes arriesgarte a lanzarte a la red, pero sin los datos adecuados puedes convertirte en un paquete de datos perdido, que irán rechazando todos los servidores en red hasta acabar desapareciendo.
@@ -251,8 +259,6 @@ La tarjeta de red y el modem no tienen dados de localización.
 ### Unidad de almacenamiento
 
 **Descripción:** Esta basta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
-
-\sp
 
 La unidad de almacenamiento principal es aquella donde está instalado el sistema operativo del servidor.
 
@@ -300,17 +306,14 @@ Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable
 Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo proverbio
 ```
 
+\sp
+
 |1d12|Fallo|
 |---|-----|
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores, este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
 |7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
-
-\sp
-
-|1d12|Fallo|
-|---|-----|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
@@ -348,45 +351,39 @@ Puedes crear esos software secundarios, como tus propios ítems de software o si
 
 Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay horrores acechando en los sectores más oscuros del disco duro y entre los sectores corruptos de la memoria.
 
-### Virus
-
-XXX
-
-#### Software infectado
-
-Cuando un ítem de software entra en contacto con un virus y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
-
-Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más ítems de software.
-
-XXX
-
-```
-No pongo mi código en sitios donde hayan estado otros códigos. Nunca sabes que puedes pillar. -> virtual_desk.bas
-```
-
 ### Antivirus
 
 Los antivirus son la policía del servidor y controlan el sector de cuarentena. Su principal poder es su número y siempre vendrán en grupo de 3 o 4 a tratar de detener a tu software. Suelen patrullar las unidades de almacenamiento y hacer redadas en elementos claves como memoria o BIOS, pero nunca los encontrarás pringándose en la papelera de reciclaje. 
 
+Por permisos, son los únicos pueden entrar y salir de los sectores de cuarentena (la cárcel dentro de una computadora) y, por tanto, de meter y sacar de allí a ítems de software que consideren peligrosos.
+
 \sp
 
-Por permisos, son los únicos pueden entrar y salir de los sectores de cuarentena (la cárcel dentro de una computadora) y, por tanto, de meter y sacar de allí a ítems de software que consideren peligrosos.
+Trata de manejar este software de forma muy fascista. A la mínima te meten en cuarentena sin pruebas y sin juicio y te pueden tener allí durante ciclos y ciclos sin decirte de qué se te acusa, haciéndote interminables interrogatorios de IF/ELSE que parecen bucles infinitos.
 
 ```
 AAVAB | All AntiVirus Are Bastards -> HelloWorld.bin
 ```
 
-Trata de manejar este software de forma muy fascista. A la mínima te meten en cuarentena sin pruebas y sin juicio y te pueden tener allí durante ciclos y ciclos sin decirte de qué se te acusa, haciéndote interminables interrogatorios de IF/ELSE que parecen bucles infinitos. S
-
 Suelen tener bastante inquina al software libre y a los desarrollos propios y tratan mejor al software propietario, pero si descubren que eres pirateado seguramente te detendrán para saber de dónde has salido.
 
 Su tasa de capturas de virus es ridícula y lo más normal es que la mayoría de sus detenciones sean falsos positivos. De hecho, la mayoría del software que está en cuarentena es software libre y desarrollos propios detenidos injustamente.
 
+### Bucle infinito
+
+Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte en su interior y atraparte para siempre. Puedes representarlos como tornados de energía que atraen los bytes cercanos y van creciendo según se alimentan. 
+
+> Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a más software y así en ciclo que no acaba nunca. Empiezan con un d4 y cada vez que se traguen algo importante suben un nivel de dado. Cuando llegan a d12 comen tantos recursos que generan 1 punto de temperatura.
+
+Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor o busquen atraer a un virus para que se acerque y el bucle lo devore.
+
+La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
+
 ### Firewall
 
-Más que un monstruo estamos hablando de un obstáculo, un muro de seguridad extra puesta por el administrador del sistema. Puede afectar a todo el sistema como una DMZ que lo desconecta del resto de la red o protegiendo sectores específicos de la unidad de almacenamiento.
+Más que un monstruo estamos hablando de un obstáculo, un muro de seguridad extra puesta por el administrador del sistema. Puede afectar a todo el sistema como una DMZ que lo desconecta del resto de la red o simplemente una barrera que protege sectores específicos de la unidad de almacenamiento.
 
-XXX
+Al definir un firewall debemos establecer qué protege y cómo se puede atravesar, ya que siempre tienen alguna forma de atravesarlo. Quizás tengas que estar en un listado de scripts permitidos en el directorio /root o solo se abra en determinadas situaciones que tus ítems de software deberán forzar si quieren pasar el software.
 
 ### Malware
 
@@ -399,17 +396,27 @@ Puedes crear un malware como si fuera un software más, pero con un elemento ext
 * Si consiguen entrar en el directorio /root y quedarse solo, empezará a encriptar su contenido, inutilizando todo el sistema.
 * Si encuentra un archivo .cfg y consigue un comando «cat» buscará trocearlo y buscar claves y contraseñas entre sus bytes
 
-A diferencia de los infectados por un virus, no se puede detectar con un «diff», es el mismo software todo el tiempo. Aun así, su conducta puede delatarlos, ya que tratan de cumplir su disparador aunque no sepan por qué.
+> A diferencia de los infectados por un virus, no se puede detectar con un «diff», es el mismo software todo el tiempo. Aun así, su conducta puede delatarlos, ya que tratan de cumplir su disparador aunque no sepan por qué.
 
-### Bucle infinito
+### Virus
 
-Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte en su interior y atraparte para siempre. Puedes representarlos como tornados de energía que atraen los bytes cercanos y van creciendo según se alimentan. 
+Un virus informático es un programa malicioso que se propaga en una computadora para dañarlos o robar información, muy parecido al malware, pero se diferencia en su forma de trabajar. Mientras el malware trata de ocultarse y pasar desapercibido hasta que se activa, el virus busca infectar todo el sistema sigilosamente y una vez tengan suficiente poder descubrirse y hacerse con el control de todo el servidor. 
 
-> Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a más software y así en ciclo que no acaba nunca. Empiezan con un d4 y cada vez que se traguen algo importante suben un nivel de dado. Cuando llegan a d12 comen tantos recursos que generan 1 punto de temperatura.
+#### Software infectado
 
-Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor o busquen atraer a un virus para que se acerque y el bucle lo devore.
+Cuando un ítem de software entra en contacto con un virus o un infectado y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
 
-La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
+Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más ítems de software.
+
+```
+No pongo mi código en sitios donde hayan estado otros códigos. Nunca sabes que puedes pillar. -> virtual_desk.bas
+```
+
+#### Enfrentarse al virus
+
+Cuando el infectado termina su transformación se convierte en el virus. El virus puede mantener su forma normal e infectar más scripts de forma sigilosa o convertirse en un monstruo que buscará activamente corromper más software o destruir el sistema. Tu software no es rival para estos monstruos y mucho menos si la infección se ha extendido.
+
+La forma de combatirlo es con astucia, buenos planes y excepcionales actuaciones, quizas poner un buen cebo en una unidad de almacenamiento secundario y cuando todos los virus entren y colapsar su flujo de entrada con grandes bloques de datos para que no puedan escapar.
 
 \sp
 
