@@ -14,8 +14,36 @@ XXX
 
 La DMZ (Zona desmilitarizada) es una XXX
 
-\sc
+XXX
 
 ## Software pregenerado
 
 XXX
+
+### XXX.XXX (Código libre)
+
+XXX
+
+* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+* **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
+
+### XXX.XXX (Código propietario)
+
+XXX
+
+* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+* **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
+
+### XXX.XXX (Desarrollo propio)
+
+XXX
+
+* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+* **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
+
+### XXX.XXX (Código propietario pirateado)
+
+XXX
+
+* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+* **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳

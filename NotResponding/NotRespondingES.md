@@ -379,7 +379,7 @@ Puede ser que tus ítems de software quieran alimentarlo para que crezca y gener
 
 La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
 
-### Firewall
+### ├┬┴┬┴┬┴┬┴┤ Firewall
 
 Más que un monstruo estamos hablando de un obstáculo, un muro de seguridad extra puesta por el administrador del sistema. Puede afectar a todo el sistema como una DMZ que lo desconecta del resto de la red o simplemente una barrera que protege sectores específicos de la unidad de almacenamiento.
 
@@ -398,7 +398,7 @@ Puedes crear un malware como si fuera un software más, pero con un elemento ext
 
 > A diferencia de los infectados por un virus, no se puede detectar con un «diff», es el mismo software todo el tiempo. Aun así, su conducta puede delatarlos, ya que tratan de cumplir su disparador aunque no sepan por qué.
 
-### Virus
+### ^(;,;)^ Virus
 
 Un virus informático es un programa malicioso que se propaga en una computadora para dañarlos o robar información, muy parecido al malware, pero se diferencia en su forma de trabajar. Mientras el malware trata de ocultarse y pasar desapercibido hasta que se activa, el virus busca infectar todo el sistema sigilosamente y una vez tengan suficiente poder descubrirse y hacerse con el control de todo el servidor. 
 
