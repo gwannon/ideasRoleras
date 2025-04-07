@@ -36,9 +36,9 @@ Recuerda que pueden tener varios sistemas de notaciones, por ejemplo, borrar_ima
 
 Además, debes elegir tu extensión. La extensión marca un poco tu función dentro del sistema y te da una ventaja y una desventaja en función de esa función.
 
-* **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables lo que los hace muy autosuficientes, pero interactúan muy mal con el entorno y se adaptan mal a él. Pueden convertir **una habilidad con d4 en un d6**, pero por contra empiezan con d10 en las tiradas de buscar procesos.
+* **bin:** Los ficheros binarios son programas con todas las de la ley. Están compilados y son ejecutables, lo que los hace muy autosuficientes, pero interactúan muy mal con el entorno y se adaptan mal a él. Pueden convertir **una habilidad con d4 en un d6**, pero por contra empiezan con d10 en las tiradas de buscar procesos.
 * **sh/bas:** Estos scripts suelen realizar tareas largas y repetitivas y tienden muchas veces a ser desarrollos propios. Se programan para hacer una tarea sea como se sea y sin importar si saturan al servidor, así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
-* **cfg:** Estos software contiene gran muchas veces contraseñas y claves y saben con esconderla y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Cómo desventaja serán el objetivo principal de virus y otros depredadores informáticos.
+* **cfg:** Estos software contiene muchas veces contraseñas y claves y saben con esconderlas y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Como desventaja serán el objetivo principal de virus y otros depredadores informáticos.
 * **dat:** Estos grandes ficheros de datos **pueden soportar un sector defectuoso más** que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están se quedan inmóviles e indefensos mientras se ejecuta la defragmentación.
 * **Sin extensión:** Un software sin extensión no tiene una función específica, así que tampoco tiene ninguna ventaja ni desventajas.
 
@@ -86,11 +86,11 @@ Hay momentos en que tus ítems de software tendrán que salirse de las capacidad
 
 ## ❲☰❳ Buscar procesos
 
-Cuando tus ítems de software llegan a una ubicación puede tratar de buscar procesos y comandos ejecutados en esa ubicación que les puedan ayudar en su fuga del servidor.
+Cuando tus ítems de software llegan a una ubicación, pueden tratar de buscar procesos y comandos ejecutados en esa ubicación que les puedan ayudar en su fuga del servidor.
 
 Las localizaciones donde no se puede buscar procesos tienen el icono de búsqueda de procesos tachado en su título ~~❲☰❳~~.
 
-Puede haber localizaciones donde las búsquedas tengan sus propias reglas, como la papelera de reciclaje que tiene su propia tirada.
+Puede haber localizaciones donde las búsquedas tengan sus propias reglas, como la papelera de reciclaje, que tiene su propia tirada.
 
 > La búsqueda de procesos funciona como el {Loot Check} de Breathless.
 
@@ -126,9 +126,9 @@ Llega a un puerto COM1 y salta dentro, nada puede ser peor que quedarse aquí. -
 
 \sp
 
-Pero no será tan facil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizas una dirección IP, un email, una codificación, etc.
+Pero no será tan fácil como llegar a un puerto y lanzarte, necesitarás información para no perderte fuera, quizás una dirección IP, un email, una codificación, etc.
 
-Casi todas las aventuras se basarán en investigar los posibles puntos de salida, ver cuál es el más óptimo y llegar a él antes de que el servidor se cruja. Lo normal es que como en las películas de naves espaciales, tengan que ir intentando diferentes opciones de escape de la nave espacial y según falle un plan tengan que pasar a otro más loco. Igual empiecen buscando escapar a otro servidor vía LAN y terminen escribiéndose en un diskette mientras el procesador llega a temperatura crítica y todo colapsa.
+Casi todas las aventuras se basarán en investigar los posibles puntos de salida, ver cuál es el más óptimo y llegar a él antes de que el servidor se cruja. Lo normal es que, como en las películas de naves espaciales, tengan que ir intentando diferentes opciones de escape de la nave espacial y según falle un plan tengan que pasar a otro más loco. Igual empiecen buscando escapar a otro servidor vía LAN y terminen escribiéndose en un diskette mientras el procesador llega a temperatura crítica y todo colapsa.
 
 ## ❲=~=❳ Obstáculos
 
@@ -137,7 +137,7 @@ Tus ítems de software y el mundo que les rodea son prácticamente electricidad.
 Para simular todos esos problemas y que tu mesa pueda entenderlos visualmente debes crear versiones visuales de los problemas que tendría la electricidad. Veamos algunos ejemplos:
 
 * Un cable de bus de datos dañado puede simularse con un puente medio derruido con una zona muy estrecha por donde pasar.
-* Muchos elementos como puertos de comunicación, puedes simularlos como pozos donde tendrán que saltar. 
+* Muchos elementos, como los puertos de comunicación, puedes simularlos como pozos donde tendrán que saltar. 
 * Una resistencia puede ser un muro que impide el paso o un precipicio que hay que saltar con la suficiente fuerza.
 * Quizás un archivo de gran tamaño está atascando el buffer de lectura y escritura de la unidad de disco y tenga ellos que moverlo o partirlo para poder salir de allí.
 * Los elementos protegidos tendrán puertas con códigos 
@@ -204,7 +204,7 @@ XXX
 
 ### Puertos {COM1, COM2, LPT1}
 
-**Descripción:** Puedes representarlos como túneles o pozos de diferente forma según el tipo de puerto (circulares, rectangulares, triangulares, etc.) Parecen infinitos y emanan una luz de un color diferente al resto del servidor. En caso de que estén cerrados por alguna razón parece que tiene una rejilla de energía que impide salir o entrar.
+**Descripción:** Puedes representarlos como túneles o pozos de diferente forma según el tipo de puerto (circulares, rectangulares, triangulares, etc.) Parecen infinitos y emanan una luz de un color diferente al resto del servidor. En caso de que estén cerrados por alguna razón, parece que tienen una rejilla de energía que impide salir o entrar.
 
 Cada puerto llega a periféricos específicos desconocidos y tus ítems puede que encuentren una cápsula de escape a otros servidores en el periférico o acaben en algún lugar terrible pero que un formateo a bajo nivel.
 
@@ -224,7 +224,7 @@ No se puede ir a los sectores de cuarentena, ni como de visita, solo puedes entr
 
 **Descripción:** Al igual que los puertos de salida, serán túneles o pozos de luz, pero sin rejilla de seguridad y con algún tipo de sistema de interfaz como un teclado que permitirá seleccionar el destino. Grandes bloques de bytes entran y salen constantemente para luego dirigirse a otras secciones del servidor.
 
-Usar está localización como vía de escape es la opción más interesante, pero exige mucha planificación y mucha información como IP o puertos de salida.
+Usar esta localización como vía de escape es la opción más interesante, pero exige mucha planificación y mucha información como IP o puertos de salida.
 
 Tampoco sabes nada del lugar a donde vas y qué puedes encontrarte allí. Quizás haya una tarea programada que hace copias de seguridad y manda los datos a un servidor externo. Si consiguen esa info, puedan colarse entre los datos de la copia cuando salgan por la tarjeta de red.
 
@@ -232,23 +232,28 @@ Puedes arriesgarte a lanzarte a la red, pero sin los datos adecuados puedes conv
 
 La tarjeta de red y el modem no tienen dados de localización.
 
+
 ### Unidad de almacenamiento
 
 **Descripción:** Esta basta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
 
-XXX
+La unidad de almacenamiento principal es aquella donde está instalado el sistema operativo del servidor.
 
-El servidor puede tener todas las unidades de almacenamiento secundarias.
+El **dado de localización de la unidad de almacenamiento sirve para gestionar la información guardada en él** y tu software lo puede usar de muchas formas, desde buscar algún dato perdido entre los árboles de directorios y subdirectorios o colapsar alguna parte del servidor, mandando muchos bloques de información o mandando un bloque muy grande, hasta esconderse dentro de uno de esos bloques a la espera de salir en una copia de seguridad que se guarda en otra máquina. O quizás puedan enviar una gran cantidad de bytes a un disco de 3½ infectado de virus, para colapsar el bus de datos y el virus no pueda entrar en el sistema.
+ 
+El servidor puede tener todas las unidades de almacenamiento secundarias que quieras que tendrían más o menos el mismo funcionamiento y descripción, pero que deberían de tener algún tipo especificidad, como que almacenan copias de seguridad o son usadas por el servidor de impresión para almacenar trabajos, etc.
 
 ### Unidades extraíbles de almacenamiento
 
-**Descripción:** Al igual que las unidades de almacenamiento internas, son grandes extensiones donde se apilan y se colocan ordenadamente montones de contenedores de bytes, pero en este caso tienen mucho menos espacio, no una basta extensión y solo debería haber una grúa moviendo cajas de forma mucho más lenta. Puede que sea con una punta magnética o tenga algún tipo de haz de luz.
+**Descripción:** Al igual que las unidades de almacenamiento internas, son grandes extensiones donde se apilan y se colocan ordenadamente montones de contenedores de bytes, pero en este caso tienen mucho menos espacio, no una vasta extensión y solo debería haber una grúa moviendo cajas de forma mucho más lenta. Puede que sea con una punta magnética o tenga algún tipo de haz de luz.
 
-Hablamos de unidades de disco 5¼ y 3½, ZIP, y quizas primeras versiones de CD-ROM, etc. Mientras la unidad extraíble esté conectada al servidor tus ítems de software podrán funcionar normalmente, **en cuento sean extraídos quedarán en una especie de éxtasis** hasta que la unidad sea insertada de nuevo en esta u otra máquina.
+Hablamos de unidades de disco 5¼ y 3½, ZIP, y quizas primeras versiones de CD-ROM, etc. Mientras la unidad extraíble esté conectada al servidor, tus ítems de software podrán funcionar normalmente, **en cuanto sean extraídos quedarán en una especie de éxtasis** hasta que la unidad sea insertada de nuevo en esta u otra máquina.
 
 Debes entender que fuera de la computadora, las unidades extraíbles no tienen ni memoria ni procesador para ejecutarse solas. Si quieres hacerte una idea visual, piensa en ellos como Han Solo en carbonita o las cápsulas de animación suspendida de Alien.
 
 De hecho, puede ser una buena forma de empezar una aventura con tu software despertando en la unidad extraíble en un servidor desconocido y teniendo que explorarlo y descubrir que horrores le esperan en su nueva máquina.
+
+\sp
 
 ### Moverse entre los componentes del servidor
 
@@ -258,11 +263,9 @@ Se puede entrar normalmente o escondidos con una tirada de Encriptación exitosa
 
 Ítems de software en diferentes localizaciones no pueden comunicarse entre ellos, ni intercambiar comandos, ni ningún tipo de interacciones.
 
-\sp
-
 ## ❲ERR❳ El hardware está fallando
 
-Como ya hemos comentado antes el servidor donde ocurren las aventuras de Not Responding debe ser un servidor viejo y al borde del fallo total. Si eso pasa no volverá a encender y todo el software de su interior acabará como él.
+Como ya hemos comentado antes, el servidor donde ocurren las aventuras de Not Responding debe ser un servidor viejo y al borde del fallo total. Si eso pasa no volverá a encender y todo el software de su interior acabará como él.
 
 ### Temperatura del servidor
 
@@ -283,14 +286,14 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |1d12|Fallo|
 |---|-----|
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
-|5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores este resultado no tiene efecto.|
-|6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee, el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
+|5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores, este resultado no tiene efecto.|
 
 \sc
 
 |1d12|Fallo|
 |---|-----|
+|6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
+|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
@@ -306,12 +309,13 @@ Así que pueden ser terribles, si vacían la papelera mientras estás dentro o u
 Para crear tus crons debes definir 3 aspectos:
 
 * **Acción que se realiza:** puede ser cualquier cosa que se te ocurra, desde vaciar la papelera, con lo que el software que esté dentro deberá salir pitando o recalentar el procesador con la creación de un informe financiero de la contabilidad de la empresa que eleva la temperatura 1 punto.
-* **Localización del ordenador a la que afecta:** Una tarea puede afectar a una o más zonas al mismo y a distintos tiempos. Por ejemplo un cron hace una copia de seguridad del disco duro principal en un disco secundario y vacía todo su contenido del disco duro principal. Tu software podría enfrentarse a un borrado en el disco principal o a una avalancha de datos que colapse el disco secundario.
+
+\sp
+
+* **Localización del ordenador a la que afecta:** Una tarea puede afectar a una o más zonas al mismo y a distintos tiempos. Por ejemplo, un cron hace una copia de seguridad del disco duro principal en un disco secundario y vacía todo su contenido del disco duro principal. Tu software podría enfrentarse a un borrado en el disco principal o a una avalancha de datos que colapse el disco secundario.
 * **Disparador que lo activa:** Aunque los crons son periódicos, como no controlamos el tiempo real dentro del servidor, ponemos disparadores que activan la tarea, como «cuando se tomen un número par de reseteos» o «cuando la temperatura alcance 3».
 
 Igual tus ítems de software necesitan disparar un cronjob y que haga la tarea que debe hacer. Así que deberán poder consultar el listado de tareas programadas que se encuentra en el directorio /root y así podrán saber como lanzar la tarea programada.
-
-\sp
 
 ```
 Te juro que yo estuve en un servidor con una tarea programada que cerraba la tapa del CD-ROM cada 5 minutos para que no la usaran de posavasos. -> updateDatos.sh
@@ -332,6 +336,18 @@ Y si no fuera ya complicado sobrevivir en un servidor a punto de colapsar, hay h
 ### Virus
 
 XXX
+
+#### Software infectado
+
+Cuando un ítem de software entra en contacto con un virus y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
+
+Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más çitems de software.
+
+XXX
+
+```
+No pongo mi código en sitios donde hayan estado otros códigos. Nunca sabes que puedes pillar. -> virtual_desk.bas
+```
 
 ### Antivirus
 
@@ -362,6 +378,8 @@ Estos vórtices, cuya fallida lógica no les permite terminar, pueden absorberte
 > Cada software absorbido hace que suba un nivel de dado del vórtice, con lo que es más poderoso y atrae a su interior a más software y así en ciclo que no acaba nunca. Empiezan con un d4 y cada vez que se traguen algo importante suben un nivel de dado. Cuando llegan a d12 comen tantos recursos que generan 1 punto de temperatura.
 
 Puede ser que tus ítems de software quieran alimentarlo para que crezca y genere más calor en el servidor o busquen atraer a un virus para que se acerque y el bucle lo devore.
+
+\sp
 
 La única forma de detener uno de estos vórtices sería encender y apagar la localización donde esté, por ejemplo en la BIOS, o cortar el acceso a ese punto y que se quede sin software que devorar.
 
@@ -394,9 +412,9 @@ Frases como el «Virtualizador está fallando» o «El balanceador de carga est�
 
 Tus ítems de software funcionan en un viejo ordenador de un silo nuclear de los años 80/90. El servidor está dentro de una zona DMZ, que evita la salida y entrada de datos y procesos. Geográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.
 
-Pero mentira, hay una salida, una única salida. Cuando la temperatura del servidor llega a 9, se activa una tarea programada de alta prioridad y la DMZ deja salir un email de aviso al administrador de sistema para que intervenga. Si se adjuntan al email podrán escapar del servidor o quizas puedan saltar de la tarjeta de red a otro equipo más moderno del silo cuando la DMZ se abra.
+Pero mentira, hay una salida, una única salida. Cuando la temperatura del servidor llega a 9, se activa una tarea programada de alta prioridad y la DMZ deja salir un email de aviso al administrador de sistema para que intervenga. Si se adjuntan al email podrán escapar del servidor o quizás puedan saltar de la tarjeta de red a otro equipo más moderno del silo cuando la DMZ se abra.
 
-**PROXIMAMENTE (Abril 2025)**
+**PRÓXIMAMENTE (Abril 2025)**
 
 \sp
 
