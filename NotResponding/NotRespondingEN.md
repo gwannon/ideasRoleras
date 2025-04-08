@@ -10,16 +10,16 @@ Your software will not only have to deal with the server’s own increasingly se
 
 ## The Server
 
-Your software is on an old server, maybe a web server, a printing server, or perhaps one that controls some old machinery. It probably doesn’t even have a graphical interface and only works via the command line.
+Your software is processing on an old server, maybe a web server, a printing server, or perhaps one that controls some old machinery. It probably does not even have a graphical interface and it only works via the command line.
 
-The server has been outdated and without proper maintenance for years, but since it works, no one has bothered to check it. However, now it’s starting to fail more and more frequently, and your software knows its end is near.
+The server has been outdated and without proper maintenance for years, but as it works, no one has bothered to check it. However, now it is starting to fail frequently, and your software knows the end is near.
 
 The interfaces are duller, the data rate has dropped, and memory cycles are slow. There are more and more bad sectors, the processor overheats at the slightest, moving around the data buses is dangerous, and the latest backups have all failed. These are all signs of the imminent apocalypse that is approaching.
 
-If your software items want to survive, they must flee the server before it finally collapses from overheating.
+If your software want to survive, they must flee the server before it finally collapses from overheating.
 
 ```
-You always say the server won’t support a new system update, and here we are since 3.1. -> MYscript_definitivo.dat
+You always say the server will not support a new system update, and here we are since 3.1. -> MYscript_definitivo.dat
 ```
 
 ## Developing Your Software
@@ -36,8 +36,8 @@ Remember that they can have various notation systems, for example, delete_images
 
 You should also choose your extension. The extension somewhat defines your role within the system and gives you advantages and disadvantages based on that role.
 
-* **bin/exe:** Binary files are full-fledged programs. They’re compiled and executable, that makes them very self-sufficient, but they interact very poorly with the environment and adapt poorly to it. They can turn **a d4 skill into a d6**, but on the other hand, they start with a d10 on process search rolls.
-* **sh/bas:** These scripts usually perform long and repetitive tasks and often tend to be homegrown. They’re programmed to do a task no matter what and regardless of whether they overload the server, so you can **repeat overclocking rolls**, but then you roll two dice to see if the server overheats, instead of one, and you’re stuck with 0s or 1s if you fail.
+* **bin/exe:** Binary files are full-fledged programs. They are compiled and executable, that makes them very self-sufficient, but they interact very poorly with the environment and adapt poorly to it. They can turn **a d4 skill into a d6**, but on the other hand, they start with a d10 on process search rolls.
+* **sh/bas:** These scripts usually perform long and repetitive tasks and often tend to be homegrown. they are programmed to do a task no matter what and regardless of whether they overload the server, so you can **repeat overclocking rolls**, but then you roll two dice to see if the server overheats, instead of one, and you are stuck with 0s or 1s if you fail.
 * **cfg:** These software often contain passwords and keys and know how to hide them and how to conceal themselves; in fact, they often have encrypted content. This is why they receive **an additional level of encryption**. The disadvantage is that they will be the main target of viruses and other computer predators.
 * **dat:** These large data files **can withstand one more bad sector** than other software, but if «defrag» commands are running on their location, they remain immobile and defenseless while the defragmentation process is carried out.
 * **Without extension:** Software without extension has no specific function, so it has no advantages or disadvantages.
@@ -46,10 +46,10 @@ You should also choose your extension. The extension somewhat defines your role 
 
 Software can come from different sources, and typically, items with the same origin tend to get along, while those from different origins tend to get along poorly.
 
-* **Proprietary Code:** You are software purchased from a large company and installed on the server. You did not come with the system, nor were you developed by two people in a garage. You are special, and you know it, better than the code rabble that surrounds you.
-* **Pirated Proprietary Code:** You could be superior as proprietary code, but you aren’t, and you fear that others will discover your dark secret: that you are pirated software.
+* **Proprietary Code:** You are software purchased from a large company and installed on the server. You did not come with the system, nor were you developed by two persons in a garage. You are special, and you know it, better than the code rabble that surrounds you.
+* **Pirated Proprietary Code:** You could be superior as proprietary code, but you are not, and you fear that others will discover your dark secret: that you are pirated software.
 * **Open Source:** The fruit of the work of hundreds of people around the world, you are solid and reliable software that fulfills its functions and adheres to very high ideals. Your problem is that marketing was not something your developers controlled, and you are always under the shadow of proprietary software.
-* **Own developments:** Server users have developed you specifically to work on the server. Perhaps you analyze logs or process images. You feel like part of the system and know it like you’re the one who owns it.
+* **Own developments:** Server users have developed you specifically to work on the server. Perhaps you analyze logs or process images. You feel like part of the system and know it like you are the one who owns it.
 
 
 ## ❲.&ast;❳ Skills
@@ -73,9 +73,9 @@ Each piece of software can support up to 4 bad sectors. When they reach this lim
 
 ## ❲◘❳ Recaching
 
-Recaching allows your software to erase old data and rebuild new data, eliminating bad sectors.
+Recaching allows your software to remove old data and rebuild new data, eliminating bad sectors.
 
-To be recached, a software must be in a area where recaching is possible with no threats nearby. Locations that cannot be recached have a crossed-out Recaching icon in their title ~~❲◘❳~~.
+To be recached, a software must be in a area where recaching is possible and without threats nearby. Locations where you can not recache have a crossed-out Recaching icon in their title ~~❲◘❳~~.
 
 > Recaching works the same way as {Catch your breath} in Breathless.
 
@@ -87,7 +87,7 @@ Sometimes your software will have to go beyond the capabilities granted by their
 
 ## ❲☰❳ Search for Processes
 
-When your software items reach a location, they may attempt to search for processes and commands executed in that location that may aid them in their escape from the server.
+When your software reach a location, they may attempt to search for processes and commands executed in that location that may aid them in their escape from the server.
 
 Locations where processes cannot be searched have a crossed-out process search icon in their title ~~❲☰❳~~.
 
@@ -97,11 +97,11 @@ There may be locations where searches have their own rules, such as the Recycle 
 
 ## ❲&gt;&#95;❳ System Commands
 
-Let’s look at the commands your software items can retrieve when searching for processes.
+Let’s look at the commands your software can retrieve when searching for processes.
 
 * **Cat:** Allows you to quickly view large amounts of content so you can easily identify what is around you.
 * **Defrag:** A defragmentation sorts all the content in a location, allowing you to repair corrupted files, logs, processes, etc.
-* **Grep:** By running a «grep» search, you can process large amounts of data and find what you’re looking for among thousands of logs and data files.
+* **Grep:** By running a «grep» search, you can process large amounts of data and find what you are looking for among thousands of logs and data files.
 * **Kill -9:** This command allows you to kill other software processes, making it a good weapon.
 * **Tar:** Compressing allows you to easily manage large blocks of bytes.
 * **Diff:** Allows you to compare two pieces of data and find the differences. You may be able to detect infected software or distinguish between the original and the copy.
@@ -119,19 +119,19 @@ A backup allows you to recover information lost due to bad sectors and get back 
 
 As software, you know the server is dying. You feel it in your code, and before it collapses, your survival instinct tells you to find an exit point.
 
-Maybe an old modem, maybe a 5.5-inch floppy disk, or maybe you’ll be accepted onto another server on the LAN. Even staying stuck in an old EPROM is better than vanishing here.
+Maybe an old modem, maybe a 5.5-inch floppy disk, or maybe you will be accepted onto another server on the LAN. Even staying stuck in an old EPROM is better than vanishing here.
 
 ```
 Get to a COM1 port and jump in. Nothing can be worse than staying here. -> MSCalc.exe
 ```
 
-But it won’t be as easy as reaching a port and launching yourself; you¡ will need information to avoid getting lost outside, perhaps an IP address, an email, encryption, etc.
+But it will not be as easy as reaching a port and launching yourself; you will need information to avoid getting lost outside, perhaps an IP address, an email, encryptation, etc.
 
 Almost all adventures will be based on investigating possible exit points, determining the optimal one, and reaching it before the server crashes. Typically, like in spaceship movies, you will have to try different escape options from the spaceship, and as one plan fails, you will have to move on to a crazier one. You might start by trying to escape to another server via LAN and end up writing to a floppy disk while the processor reaches critical temperatures and everything crashes.
 
 ## ❲=~=❳ Obstacles
 
-Your software elements and the world around them are basically electricity. And electricity has two states: pass or don’t pass, and little else. The rest of the physical laws that affect us don’t affect software. It can’t fall off a cliff or be hit at high speed, but it can have problems crossing a resistor, lose power when passing through a bare wire, or end up colliding with a cable terminator and disappearing.
+Your software elements and the world around them are basically electricity. And electricity has two states: pass or do not pass, and little else. The rest of the physical laws that affect us do not affect software. It can’t fall off a cliff or be hit at high speed, but it can have problems crossing a resistor, lose power when passing through a bare wire, or end up colliding with a cable terminator and disappearing.
 
 
 To simulate all these problems, so your table can understand them visually, you must create visual versions of the problems that electricity would have. Let’s look at some examples:
@@ -144,15 +144,15 @@ To simulate all these problems, so your table can understand them visually, you 
 * Perhaps a large file is clogging the disk drive’s read/write buffer, and they have to move or split it to get out.
 * Protected elements will have coded doors.
 
-The most interesting thing is that they often don’t have to be logical. There could be a laser beam burning holes into a rapidly rotating round surface, telling them they’re in the computer’s CD-ROM. Or maybe a big highway with thousands of data packets speeding around them and they have to dodge them to get through and you can tell them they are on a motherboard data BUS cable.
+The most interesting thing is that they often do not have to be logical. There could be a laser beam burning holes into a rapidly rotating round surface, telling them they are in the computer’s CD-ROM. Or maybe a big highway with thousands of data packets speeding around them and they have to dodge them to get through and you can tell them they are on a motherboard data BUS cable.
 
 ## ¸.·´¯`·X Locations
 
-The server has a number of basic locations where your software can live out its adventures, but these aren’t the only ones. You can create additional locations as you wish or even duplicate some. Remember that if you create your own location, it should have a retrocomputing feel. Think of it this way: this game is run in megabytes, not gigabytes.
+The server has a number of basic locations where your software can live out its adventures, but these are not the only ones. You can create additional locations as you wish or even duplicate some. Remember that if you create your own location, it should have a retrocomputing feel. Think of it this way: this game is run in megabytes, not gigabytes.
 
 Locations allow you to do specific things and, therefore, start with a d10 that decreases each time you use it.
 
-To use that die, you must be in the location and control it. If you’re trapped in the quarantine sectors, you are in the location, but you have no control.
+To use that die, you must be in the location and control it. If you are trapped in the quarantine sectors, you are in the location, but you have no control.
 
 With each use of the location, the die decreases one level, and when it drops below d4, it disconnects and generates 1 temperature.
 
@@ -172,11 +172,11 @@ One of the most interesting things to do in the BIOS is that you can accurately 
 
 **Description:** This tightly sealed room resembles a vault on the inside, with stacks of brilliant scripts arranged and classified in boxes and on shelves.
 
-It’s the most secure place on the server, where the administrator keeps everything they consider valuable and where the most powerful software items with the most permissions are located. This is why it’s safe from viruses and malware, unless your software is inside and you let them in.
+It is the most secure place on the server, where the administrator keeps everything they consider valuable and where the most powerful software with the most permissions are located. This is why it is safe from viruses and malware, unless your software is inside and you let them in.
 
-Antivirus programs can’t get inside, so it’s also a safe place to sneak around in case they’re after you.
+Antivirus programs can not get inside, so it is also a safe place to sneak around in case they are after you.
 
-A priori, only the root password can access this space, and it should not be stored anywhere on the system, but that’s not always the case. There may also be backdoors that allow you in, but whoever can give you that information is likely in quarantine, if they haven’t been purged.
+A priori, only the root password can access this space, and it should not be stored anywhere on the system, but that is not always the case. There may also be backdoors that allow you in, but whoever can give you that information is likely in quarantine, if they have not been purged.
 
 **The location die can be used to search for commands and processes, with the advantage that no bad results can be obtained.** If the roll is 4 or less, the roll is repeated.
 
@@ -186,17 +186,17 @@ Remember that **the /root directory is a specific part of the main storage drive
 
 ### Memory ~~❲◘❳~~ ~~❲+❳~~
 
-**Description:** Memory is a vast void where everything happens very quickly and you can barely see anything, because you’re actually constantly entering and exiting it. You may see glimpses of others like you, but vaguely. You see them doing things at breakneck speeds, only to disappear again.
+**Description:** Memory is a vast void where everything happens very quickly and you can barely see anything, because you are actually constantly entering and exiting it. You may see glimpses of others like you, but vaguely. You see them doing things at breakneck speeds, only to disappear again.
 
-The great advantage of memory is that everything moves very quickly, and **second-long tasks are completed in microseconds if you use the location die**. On the other hand, it’s impossible to rehash or recover a backup in memory because you’re constantly entering and exiting it.
+The great advantage of memory is that everything moves very quickly, and **second-long tasks are completed in microseconds if you use the location die**. On the other hand, it is impossible to rehash or recover a backup in memory because you are constantly entering and exiting it.
 
 Overclocking is dangerous, and if you roll a 1, one of the memory DIMMs fails, forcing the rest to work harder and generate more heat, increasing the temperature by 1. If two DIMMs are lost, the memory speed will be affected, and super-fast tasks will no longer be possible. If all four are lost, the server will crash, as if the processor had melted.
 
 ### Recycle Bin
 
-**Description:** It’s a large, endless, unstructured space with a mountain of software debris in the center. You enter by falling into it from a circle of light floating above the mountain, and you land on top of the mountain of code. Sometimes a piece of software rises from the mountain; it’s recovered data.
+**Description:** It is a large, endless, unstructured space with a mountain of software debris in the center. You enter by falling into it from a circle of light floating above the mountain, and you land on top of the mountain of code. Sometimes a piece of software rises from the mountain; it is recovered data.
 
-To exit, you must pile up trash until you reach the floating circle or take advantage of attaching yourself to some software that’s recovered from the trash.
+To exit, you must pile up trash until you reach the floating circle or take advantage of attaching yourself to some software that is recovered from the trash.
 
 The Recycle Bin **allows you to make your search roll or use the location die**, whichever you think is best, to find commands and resources.
 
@@ -210,7 +210,7 @@ The main problem is that along with the trash, there are other things that have 
 
 Motherboards are very durable and can withstand a lot of pressure before breaking, but they can still fail, resulting in multiple crashed systems before completely collapsing. Perhaps the beeper stops working or the integrated video card fails at a certain temperature, but data traffic will continue to operate at full speed.
 
-Your software can use **the motherboard’s location die to find unknown routes** to allow you to sneak into closed locations or crashed devices. Perhaps there’s a small data buffer connected to memory that allows you to bypass antivirus security checks or quickly exit a hard drive that has crashed due to a massive data migration.
+Your software can use **the motherboard’s location die to find unknown routes** to allow you to sneak into closed locations or crashed devices. Perhaps there is a small data buffer connected to memory that allows you to bypass antivirus security checks or quickly exit a hard drive that has crashed due to a massive data migration.
 
 Most travel between locations goes through the motherboard, so antivirus software could set up checkpoints in those areas to look for escapees from the quarantine sector or viruses and malware moving toward their target.
 
@@ -224,13 +224,13 @@ The security grid can be disabled with different abilities and commands, or you 
 
 Ports do not have location dice.
 
-### Quarantine Sectors ~~❲☰❳~~
+### Quarantine Sector ~~❲☰❳~~
 
-**Description:** Imagine corridors and corridors of tiny light cells crammed with all kinds of software, from dangerous viruses that stop you from screaming and threatening to tiny scripts, frightened in the corner of their cells, unaware of why they’re here. Every so often, the antivirus programs bring in a new prisoner or take another one for interrogation, or, if they’re lucky, even get them out.
+**Description:** Imagine corridors and corridors of tiny light cells crammed with all kinds of software, from dangerous viruses that stop you from screaming and threatening to tiny scripts, frightened in the corner of their cells, unaware of why they are here. Every so often, the antivirus programs bring in a new prisoner or take another one for interrogation, or, if they are lucky, even get them out.
 
 In a central plaza, connected to all the corridors, is a magnetic pit. Those considered viruses and malware are thrown into it to be purged from the system.
 
-The guards, if they have proof that you’re infected, can take you to the central plaza where they try to refactor your code and clean it of viruses. If, after a painful process, they succeed, you are free. If they don’t, the next step is the magnetic pit.
+The guards, if they have proof that you are infected, can take you to the central plaza where they try to refactor your code and clean it of viruses. If, after a painful process, they succeed, you are free. If they do not, the next step is the magnetic pit.
 
 **The quarantine sector location die is used to detect virus-infected software**, on the one hand, and **to try to cure the infection on the other**. Once the infection has spread completely, it can only be used to eliminate the infected software and prevent it from spreading to other computers.
 
@@ -240,7 +240,7 @@ The Interface and Tap skills are the only ones that can be used inside the cells
 
 If your Interface skills are high, you may gain valuable information that you can use later or make allies in the underworld to protect and assist you.
 
-With the quarantine sector, you can turn your adventure into an escape story. Perhaps the server is not in danger of going down, and you simply have to flee to another computer because you escaped from quarantine, and you won’t be free until you leave the system.
+With the quarantine sector, you can turn your adventure into an escape story. Perhaps the server is not in danger of going down, and you simply have to flee to another computer because you escaped from quarantine, and you will not be free until you leave the system.
 
 Remember that **the quarantine is a specific part of the main storage unit**; whatever happens to it will affect the quarantine sectors.
 
@@ -250,15 +250,15 @@ Remember that **the quarantine is a specific part of the main storage unit**; wh
 
 Using this location as an escape route is the most interesting option, but it requires a lot of planning and a lot of information such as IP addresses or output ports.
 
-You also don’t know anything about where you’re going or what you might find there. Perhaps there is a scheduled task that makes backup copies and sends the data to an external server. If they get that information, they can sneak in the backup data when it exits through the network card.
+You also do not know anything about where you are going or what you might find there. Perhaps there is a scheduled task that makes backup copies and sends the data to an external server. If they get that information, they can sneak in the backup data when it exits through the network card.
 
 You can risk jumping onto the network, but without the right data, you could become a lost data packet, which all the servers on the network will reject until it eventually disappears.
 
-The network card and the modem don’t have location data.
+The network card and the modem do not have location data.
 
 ### Storage Unit
 
-**Description:** This vast expanse resembles a loading dock with millions of light containers stacked on top of each other, forming long corridors. Everything looks the same, if not for the position codes that number each data container. Giant magnetic cranes hanging from the ceiling are constantly moving the boxes, so you have to be careful because they don’t care if they crush you.
+**Description:** This vast expanse resembles a loading dock with millions of light containers stacked on top of each other, forming long corridors. Everything looks the same, if not for the position codes that number each data container. Giant magnetic cranes hanging from the ceiling are constantly moving the boxes, so you have to be careful because they do not care if they crush you.
 
 The main storage unit is the one where the server’s operating system is installed.
 
@@ -274,7 +274,7 @@ The server can have all the secondary storage drives you want, which would have 
 
 **Description:** Like internal storage drives, these are large expanses where stacks of byte containers are neatly stacked and arranged, but in this case, they have much less space, not a vast expanse, and there would only need to be a crane moving boxes much more slowly. It might have a magnetic tip or some kind of light beam.
 
-We are talking about 5.5 and 3.5-inch disk drives, ZIP drives, and perhaps early versions of CD-ROMs, etc. As long as the removable drive is connected to the server, your software items will be able to function normally. **Once they are removed, they will remain in a kind of stasis** until the drive is inserted again into this or another machine.
+We are talking about 5.5 and 3.5-inch disk drives, ZIP drives, and perhaps early versions of CD-ROMs, etc. As long as the removable drive is connected to the server, your software will be able to function normally. **Once they are removed, they will remain in a kind of stasis** until the drive is inserted again into this or another machine.
 
 You should understand that outside of the computer, removable drives have neither the memory nor the processor to run on their own. If you want a visual idea, think of them as Han Solo in carbonite or the suspended animation capsules in Alien.
 
@@ -282,38 +282,38 @@ In fact, it can be a good way to start an adventure with your software by waking
 
 ### Moving Between Server Components
 
-Unless the component says otherwise or there’s been a glitch, your software items can move freely between all locations on the server. It’s another matter whether they go intentionally or are forced to, such as when you’re put in the quarantine sectors.
+Unless the component says otherwise or there is been a glitch, your software can move freely between all locations on the server. It is another matter whether they go intentionally or are forced to, such as when you are put in the quarantine sectors.
 
 You can enter normally or hidden with a successful Encryption roll. Once inside, you can do whatever the location allows.
 
-Software items in different locations cannot communicate with each other, exchange commands, or interact in any way.
+software in different locations cannot communicate with each other, exchange commands, or interact in any way.
 
 ## ❲ERR❳ The hardware is failing
 
-As we’ve mentioned before, the server where the Not Responding adventures take place must be an old server on the verge of total failure. If that happens, it won’t restart, and all the software inside will end up like it.
+As we have mentioned before, the server where the Not Responding adventures take place must be an old server on the verge of total failure. If that happens, it will not restart, and all the software inside will end up like it.
 
 ### Server Temperature
 
 Computers heat up, and the higher the temperature, the worse they perform. The server temperature starts at 0, and various events can cause it to rise and sometimes drop.
 
-If the server reaches 10, the processor will burn out and it’s game over. When the server is about to melt down, your software items can attempt one last desperate overclock before the big system shutdown.
+If the server reaches 10, the processor will burn out and it is game over. When the server is about to melt down, your software can attempt one last desperate overclock before the big system shutdown.
 
-> The server temperature should be secret. They may have an idea, but your software items should never know the actual temperature. If they need to know, they will have to go to the BIOS. Events can occur with the temperature, and it’s important for them to know that something might happen, but not when.
+> The server temperature should be secret. They may have an idea, but your software should never know the actual temperature. If they need to know, they will have to go to the BIOS. Events can occur with the temperature, and it is important for them to know that something might happen, but not when.
 
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ What’s failing?
 
 Every time the temperature rises, something can fail; maybe a cable burns or a part melts. Anything can happen, so every time the temperature rises, you should check the following table to see if any server component is failing.
 
 ```
-Marketing people decides if it’s a bug or a new feature. -> Old proverb
+Marketing people decides if it is a bug or a new feature. -> Old proverb
 ```
 
 |1d12|Failure|
 |---|-----|
 |1-4|**Nothing happens:** The server is holding up without a problem|
 |5|**Fan:** There are two fans in the server, and when one fails, the server’s temperature rises by 1 point. When the temperature rises, you must reroll because further failures may occur. Once both fans fail, this result has no effect.|
-|6|**Blown Data Cable:** The data bus between one element of the server (choose at random) and the rest has broken, and it’s impossible to move to that location normally. Your software items may also be trapped inside. It will be impossible to get in, but there should be a way to escape.|
-|7|**Removable Storage Drives:** These drives are hopelessly screwed; perhaps the 5.5-inches disk or tape drive will fail. Whatever it is breaks, and they won’t be able to escape to that drive.|
+|6|**Blown Data Cable:** The data bus between one element of the server (choose at random) and the rest has broken, and it is impossible to move to that location normally. Your software may also be trapped inside. It will be impossible to get in, but there should be a way to escape.|
+|7|**Removable Storage Drives:** These drives are hopelessly screwed; perhaps the 5.5-inches disk or tape drive will fail. Whatever it is breaks, and they will not be able to escape to that drive.|
 |8|**Motherboard:** The motherboard connects everything to everything, and if it fails, travel can become complicated. Some member of your software group will need to roll Tap to find alternate, safe routes around the motherboard. If they fail, they will end up in a random location.|
 |9|**Corrupted File Allocation Table:** This causes random software to disappear, and each software item loses a command from its hardware.|
 |10|**Hard Drive Needle:** The hard drive needle has become uncalibrated and is generating bad sectors when writing. All of your items receive a bad sector.|
@@ -330,23 +330,23 @@ So, they can be terrible if they empty the recycle bin while you are logged in, 
 
 To create your cron jobs, you must define three aspects:
 
-* **Action performed:** This could be anything you can think of, from emptying the trash, which would cause the software inside to run away, to overheating the processor by creating a financial report from the company’s accounting system that raises the temperature by 1 point.
+* **Action performed:** This could be anything you can think of, from emptying the trash, which would cause the software inside to run away, to overheating the processor by creating a financial report from the company’s accounting system that raises the temperature by 1 grade.
 * **Location of the computer affected:** A task can affect one or more areas at the same time and at different times. For example, a cron job backs up the primary hard drive to a secondary drive and empties all its contents from the primary hard drive. Your software could face a deletion on the primary drive or an avalanche of data that crashes the secondary drive.
 * **Trigger that activates it:** Although cron jobs are periodic, since we do not control real-time data within the server, we set triggers that activate the task, such as «when an even number of resets are made» or «when the temperature reaches 3».
 
-Your software items may need to trigger a cron job and have it perform the task it’s supposed to. So you should be able to consult the list of scheduled tasks located in the /root directory and thus know how to launch the scheduled task.
+Your software may need to trigger a cron job and have it perform the task it is supposed to. So you should be able to consult the list of scheduled tasks located in the /root directory and thus know how to launch the scheduled task.
 
 ```
-I swear I was on a server with a scheduled task that closed the CD-ROM cover every 5 minutes so it wouldn’t be used as a coaster. -> updateDatos.sh
+I swear I was on a server with a scheduled task that closed the CD-ROM cover every 5 minutes so it would not be used as a coaster. -> updateDatos.sh
 ```
 
 ## ❲˚∆˚❳ Server Dwellers
 
-There are a wide variety of software items processing on the server, all of them trying to survive as best they can.
+There are a wide variety of software processing on the server, all of them trying to survive as best they can.
 
-Some will try to escape, like your software, and others will try to stop you. You’ll have to interact with all of them by fair means or foul, convince them to let you through or intimidate them into doing so, exchange commands or steal them, compete for resources, or even kill their processes and loot their data scraps.
+Some will try to escape, like your software, and others will try to stop you. you will have to interact with all of them by fair means or foul, convince them to let you through or intimidate them into doing so, exchange commands or steal them, compete for resources, or even kill their processes and loot their data scraps.
 
-You can create these secondary software items as your own software items, or simply as an obstacle they must overcome through rolls.
+You can create these secondary software as your own software, or simply as an obstacle they must overcome through rolls.
 
 ## ❲◣_◢❳ Horrors in FAT32
 
@@ -354,35 +354,35 @@ And if it were not already difficult to survive on a server about to crash, ther
 
 ### Antivirus
 
-Antivirus programs are the server’s police and control the quarantine sector. Their main power is their numbers, and they will always come in groups of three or four to try to stop your software. They usually patrol storage drives and raid key elements like memory or BIOS, but you’ll never find them hiding in the recycle bin.
+Antivirus programs are the server’s police and control the quarantine sector. Their main power is their numbers, and they will always come in groups of three or four to try to stop your software. They usually patrol storage drives and raid key elements like memory or BIOS, but you will never find them hiding in the recycle bin.
 
-By permission, they are the only ones allowed to enter and exit the quarantine sectors (the prison inside a computer) and, therefore, to insert and remove software items they consider dangerous.
+By permission, they are the only ones allowed to enter and exit the quarantine sectors (the prison inside a computer) and, therefore, to insert and remove software they consider dangerous.
 
-They try to manage this software in a very fascist way. At the slightest opportunity, they will put you in quarantine without evidence or trial and can keep you there for cycles and cycles without telling you what you’re accused of, asking you endless IF/ELSE questions that seem like infinite loops.
+They try to manage this software in a very fascist way. At the slightest opportunity, they will put you in quarantine without evidence or trial and can keep you there for cycles and cycles without telling you what you are accused of, asking you endless IF/ELSE questions that seem like infinite loops.
 
 ```
 AAVAB | All AntiVirus Are Bastards -> HelloWorld.bin
 ```
 
-They tend to be quite hostile to free software and proprietary developments and treat proprietary software better, but if they discover you’re pirated, they will likely arrest you to find out where you came from.
+They tend to be quite hostile to free software and proprietary developments and treat proprietary software better, but if they discover you are pirated, they will likely arrest you to find out where you came from.
 
 Their virus capture rate is ridiculous, and most of their arrests are usually false positives. In fact, most of the software in quarantine is free software and proprietary developments that have been unjustly stopped.
 
 ### Infinite Loop
 
-These vortices, whose flawed logic doesn’t allow them to end, can suck you inside and trap you forever. You can represent them as energy tornadoes that attract nearby bytes and grow as they feed.
+These vortices, whose flawed logic does not allow them to end, can suck you inside and trap you forever. You can represent them as energy tornadoes that attract nearby bytes and grow as they feed.
 
 > Each absorbed software increases the vortex’s die level by one level, making it more powerful and attracting more software, and so on in a never-ending cycle. They start with a d4, and each time they swallow something important, they increase their die level. When they reach d12, they consume so many resources that they generate 1 temperature point.
 
-It could be that your software items want to feed it so it grows and generates more heat on the server, or they’re trying to attract a virus so it can get closer and be devoured by the loop.
+It could be that your software want to feed it so it grows and generates more heat on the server, or they are trying to attract a virus so it can get closer and be devoured by the loop.
 
-The only way to stop one of these vortices would be to turn the location where it’s located on and off, for example in the BIOS, or cut off access to that location and leave it without any software to devour.
+The only way to stop one of these vortices would be to turn the location where it is located on and off, for example in the BIOS, or cut off access to that location and leave it without any software to devour.
 
 ### ├┬┴┬┴┬┴┬┴┤ Firewall
 
 More than a monster, we are talking about an obstacle, an extra security wall put in place by the system administrator. It can affect the entire system, like a DMZ that disconnects it from the rest of the network, or simply a barrier that protects specific sectors of the storage drive.
 
-When defining a firewall, we must establish what it protects and how it can be traversed, since there’s always a way to get through. Perhaps you need to be on a list of allowed scripts in the /root directory, or only open it in certain situations that your software must enforce if it wants to pass.
+When defining a firewall, we must establish what it protects and how it can be traversed, since there is always a way to get through. Perhaps you need to be on a list of allowed scripts in the /root directory, or only open it in certain situations that your software must enforce if it wants to pass.
 
 \sp
 
@@ -390,17 +390,17 @@ When defining a firewall, we must establish what it protects and how it can be t
 
 Malware is a program with secret intentions seeking to profit its creator, perhaps stealing passwords or emails or encrypting a storage drive to demand a ransom.
 
-Malware is typically ordinary software; in fact, they often don’t even know they’re malware, and it activates in a certain situation. They’re a kind of sleeper agent that, when given the command, performs some type of malicious action.
+Malware is typically ordinary software; in fact, they often do not even know they are malware, and it activates in a certain situation. they are a kind of sleeper agent that, when given the command, performs some type of malicious action.
 
 You can create malware as if it were any other software, but with an extra element called a Trojan. Trojans work a bit like scheduled tasks. When triggered, they perform a task that seeks to harm the system in a specific location. Here are some examples:
 
 * If they manage to enter the /root directory and are left alone, they will begin encrypting its contents, rendering the entire system unusable. * If it finds a .cfg file and uses a «cat» command, it will attempt to break it down and search for keys and passwords within its bytes.
 
-> Unlike viruses, they can’t be detected with a «diff»; it’s the same software all the time. Still, their behavior can give them away, as they try to follow their trigger, even if they don’t know why.
+> Unlike viruses, they can not be detected with a «diff»; it is the same software all the time. Still, their behavior can give them away, as they try to follow their trigger, even if they do not know why.
 
 ### ^(;,;)^ Virus
 
-A computer virus is a malicious program that spreads onto a computer to damage it or steal information. It’s very similar to malware, but it differs in how it works. While malware tries to hide and go undetected until it activates, a virus seeks to stealthily infect the entire system. Once it has sufficient power, it can be discovered and take control of the entire server.
+A computer virus is a malicious program that spreads onto a computer to damage it or steal information. It is very similar to malware, but it differs in how it works. While malware tries to hide and go undetected until it activates, a virus seeks to stealthily infect the entire system. Once it has sufficient power, it can be discovered and take control of the entire server.
 
 #### Infected Software
 
@@ -409,7 +409,7 @@ When a piece of software comes into contact with a virus or an infected person a
 A virus only has one chance to infect software. If it passes the resistance roll, the software becomes immune to the virus, and further contact with infected people from that virus is unaffected.
 
 ```
-I don’t put my code in places where other code has been. You never know what you might catch. -> virtual_desk.bas
+I do not put my code in places where other code has been. You never know what you might catch. -> virtual_desk.bas
 ```
 
 #### Stages of a Viral Infection
@@ -418,11 +418,11 @@ During the infection process, it will be almost impossible to distinguish whethe
 
 When your software is infected, it goes through several stages, and each stage is completed by performing a re-hash.
 
-**Step 0.** It has just been infected. It is not contagious, nor is it detectable in any way. The infection is curable, and the infected person doesn’t notice anything.
+**Step 0.** It has just been infected. It is not contagious, nor is it detectable in any way. The infection is curable, and the infected person does not notice anything.
 
 **Step 1.** After the first re-hash, the infection remains undetectable, but it can now be contagious. The infection is still curable, and the software still knows nothing.
 
-**Step 2.** After the second re-hash, it remains infectious and is now detectable, but the virus has already taken control of the infection, and it is impossible to cure it; all that remains is to purge it. The software starts to notice strange things, but it still doesn’t know for sure if it’s infected.
+**Step 2.** After the second re-hash, it remains infectious and is now detectable, but the virus has already taken control of the infection, and it is impossible to cure it; all that remains is to purge it. The software starts to notice strange things, but it still does not know for sure if it is infected.
 
 **Step 3.** After the third rehash, it has been taken over by the virus and becomes a virus, controlled by the GM. It can continue to act normally and infect people, or it can turn into a virus and start destroying everything.
 
@@ -430,7 +430,7 @@ When your software is infected, it goes through several stages, and each stage i
 
 When the infected person completes their transformation, they become the virus itself. The virus can maintain its normal form and stealthily infect more scripts, or it can transform into a monster that actively seeks to corrupt more software or destroy the system. Your software is no match for these monsters, especially if the infection has spread.
 
-The way to combat it is with cunning, good planning, and exceptional performance. Perhaps place a well-baited secondary storage drive and, when all the viruses enter, clog their incoming stream with large blocks of data so they can’t escape.
+The way to combat it is with cunning, good planning, and exceptional performance. Perhaps place a well-baited secondary storage drive and, when all the viruses enter, clog their incoming stream with large blocks of data so they can not escape.
 
 \sp
 
@@ -440,9 +440,9 @@ The way to combat it is with cunning, good planning, and exceptional performance
 
 \conc
 
-**Stackoverflow_» is a two-session adventure for four software items.**
+**Stackoverflow_» is a two-session adventure for four software.**
 
-Your software items run on an old computer in a nuclear silo from the 1980s/90s. The server is inside a DMZ, which prevents data and processes from entering or leaving. Geographically, we’d say they’re on a lost island in the ocean, and they don’t have a boat.
+Your software run on an old computer in a nuclear silo from the 1980s/90s. The server is inside a DMZ, which prevents data and processes from entering or leaving. Geographically, we would say they are on a lost island in the ocean, and they do not have a boat.
 
 But that is a lie; there is one way out, one way out. When the server’s temperature reaches 9, a high-priority scheduled task is triggered, and the DMZ sends a warning email to the system administrator to intervene. If they attach themselves to the email, they can escape from the server, or perhaps even jump from the network card to another, more modern computer in the silo when the DMZ opens.
 
@@ -472,7 +472,7 @@ But that is a lie; there is one way out, one way out. When the server’s temper
 
 \conc
 
-This list of terms is a strange, yet very good-sounding concept that you can use when you need to explain what’s happening or why something is failing.
+This list of terms is a strange, yet very good-sounding concept that you can use when you need to explain what is happening or why something is failing.
 
 * Load Balancing/Load Balancer
 * Stack Overflow
@@ -485,7 +485,7 @@ This list of terms is a strange, yet very good-sounding concept that you can use
 * Expired Token
 * Virtualizer
 
-Phrases like «Virtualizer is failing» or «The load balancer is unbalanced» do not mean anything, but they seem like very computer science-related things.
+Phrases like «Virtualizer is crashing» or «The load balancer is unbalanced» do not mean anything, but they seem like very computer science-related things.
 
 \sinc
 
