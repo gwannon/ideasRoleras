@@ -1,4 +1,8 @@
+\sinc
+
 # Desbordamiento de pila_
+
+\conc
 
 **«Desbordamiento de pila» es una aventura de un par de sesiones para 4 ítems de software.**
 

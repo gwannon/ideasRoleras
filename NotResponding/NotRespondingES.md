@@ -174,7 +174,7 @@ Es el lugar más seguro del servidor, donde el administrador guarda todo lo que 
 
 Los antivirus no pueden entrar dentro, con lo que también es un sitio seguro donde recachear en caso de que te persigan.
 
-A priori, solo con la clave de root se puede acceder a este espacio y no debería estar almacenada en ninguna parte del sistema, pero no siempre es así. También puede haber puertas traseras que te permitan entrar, pero seguramente quién pueda darte esa info esté en la cuarentena, si no ha sido purgado.
+A priori, solo con la clave de root se puede acceder a este espacio y no debería estar almacenada en ninguna parte del sistema, pero no siempre es así. También puede haber puertas traseras que te permitan entrar, pero seguramente quien pueda darte esa info esté en la cuarentena, si no ha sido purgado.
 
 **El dado de localización puede servir para buscar comandos y procesos con la ventaja de que no pueden salir resultados malos,** en caso de sacar 4 o menos se repite la tirada.
 
@@ -226,11 +226,11 @@ Los puertos no tienen dados de localización.
 
 **Descripción:** Imagina pasillos y pasillos de pequeñas celdas de luz en las que se apretujan todo tipo de software, desde peligrosos virus que lo dejan de gritar y amenazar a pequeños scripts atemorizados en un rincón de su celda sin saber por qué están aquí. Cada cierto tiempo los antivirus traen a un nuevo prisionero o se llevan a otro para interrogarlo o si tienen suerte para sacarlo de allí.
 
-En una plaza central a la que llegan todos los pasillos, se encuentra un foso magnético. Aquellos considerados como virus y malware son lanzados dentro para purgarlos del sistema.
+En una plaza central, a la que llegan todos los pasillos, se encuentra un foso magnético. Aquellos considerados como virus y malware son lanzados dentro para purgarlos del sistema.
 
 Los vigilantes, si tienen pruebas de que estás infectado, pueden llevarte a la plaza central donde intentan refactorizar tu código y limpiarlo de virus. Si tras un doloroso proceso lo consiguen eres libre. Si no lo consiguen, el siguiente paso es el pozo magnético.
 
-**El dado de localización de los sectores de cuarentena sirve para poder detectar software infectado por un virus**, por un lado, y **para poder tratar de curar la infección por otro**. Una vez la infección se haya extendido completamente solo se podrá usar para eliminar al software infectado y que no extienda su enfermedad al resto.
+**El dado de localización de los sectores de cuarentena sirve para poder detectar software infectado por un virus**, por un lado, y **para poder tratar de curar la infección por otro**. Una vez la infección se haya extendido completamente, solo se podrá usar para eliminar al software infectado y que no extienda su enfermedad al resto.
 
 Al entrar como recluso pierdes todos tus comandos, que serán devueltos cuando salgas, si sales.
 
@@ -258,7 +258,7 @@ La tarjeta de red y el modem no tienen dados de localización.
 
 ### Unidad de almacenamiento
 
-**Descripción:** Esta basta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
+**Descripción:** Esta vasta extensión parece una zona de carga y descarga con millones de containers de luz apilados unos encima de otros formando largos pasillos. Todo parece igual, si no fuera por los códigos de posición que numeran cada contenedor de datos. Unas grúas magnéticas gigantescas colgadas del techo están continuamente moviendo las cajas, así que debes tener cuidado porque no les importa si te aplastan.
 
 La unidad de almacenamiento principal es aquella donde está instalado el sistema operativo del servidor.
 
@@ -272,7 +272,7 @@ El servidor puede tener todas las unidades de almacenamiento secundarias que qui
 
 **Descripción:** Al igual que las unidades de almacenamiento internas, son grandes extensiones donde se apilan y se colocan ordenadamente montones de contenedores de bytes, pero en este caso tienen mucho menos espacio, no una vasta extensión y solo debería haber una grúa moviendo cajas de forma mucho más lenta. Puede que sea con una punta magnética o tenga algún tipo de haz de luz.
 
-Hablamos de unidades de disco 5¼ y 3½, ZIP, y quizas primeras versiones de CD-ROM, etc. Mientras la unidad extraíble esté conectada al servidor, tus ítems de software podrán funcionar normalmente, **en cuanto sean extraídos quedarán en una especie de éxtasis** hasta que la unidad sea insertada de nuevo en esta u otra máquina.
+Hablamos de unidades de disco 5¼ y 3½, ZIP, y quizás primeras versiones de CD-ROM, etc. Mientras la unidad extraíble esté conectada al servidor, tus ítems de software podrán funcionar normalmente, **en cuanto sean extraídos quedarán en una especie de éxtasis** hasta que la unidad sea insertada de nuevo en esta u otra máquina.
 
 Debes entender que fuera de la computadora, las unidades extraíbles no tienen ni memoria ni procesador para ejecutarse solas. Si quieres hacerte una idea visual, piensa en ellos como Han Solo en carbonita o las cápsulas de animación suspendida de Alien.
 
@@ -300,7 +300,7 @@ Si el servidor llega a 10 de temperatura se quemará el procesador y se habrá a
 
 ### ¯\\&#x5f;(ツ)&#x5f;/¯ ¿Qué está fallando? 
 
-Cada vez que sube la temperatura algo puede fallar, quizas se queme algún cable o se funda alguna pieza. Cualquier cosa puede pasar, por ello, cada vez suba la temperatura has de tirar en la siguiente tabla para ver si falla algún elemento del servidor.
+Cada vez que sube la temperatura algo puede fallar, tal vez se queme algún cable o se funda alguna pieza. Cualquier cosa puede pasar, por ello, cada vez suba la temperatura has de tirar en la siguiente tabla para ver si falla algún elemento del servidor.
 
 ```
 Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo proverbio
@@ -313,7 +313,7 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |1-4|**No pasa nada:** El servidor aguanta sin problema|
 |5|**Ventilador:** Hay dos ventiladores en el servidor y cuando falla uno sube la temperatura del servidor 1 punto. Al subir la temperatura hay que volver a tirar porque puede haber nuevos fallos. Una vez fallen los dos ventiladores, este resultado no tiene efecto.|
 |6|**Cable de datos fundido:** El bus de datos entre un elemento del servidor (elige al azar) y el resto se ha roto y es imposible moverse a esa localización normalmente. También puede que tus ítems de software se queden encerrados dentro. Será imposible entrar, pero debería haber una forma de escapar.|
-|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, quizas se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
+|7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, tal vez se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
 |10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
@@ -396,7 +396,7 @@ Puedes crear un malware como si fuera un software más, pero con un elemento ext
 * Si consiguen entrar en el directorio /root y quedarse solo, empezará a encriptar su contenido, inutilizando todo el sistema.
 * Si encuentra un archivo .cfg y consigue un comando «cat» buscará trocearlo y buscar claves y contraseñas entre sus bytes
 
-> A diferencia de los infectados por un virus, no se puede detectar con un «diff», es el mismo software todo el tiempo. Aun así, su conducta puede delatarlos, ya que tratan de cumplir su disparador aunque no sepan por qué.
+> A diferencia de los infectados por un virus, no se puede detectar con un «diff», es el mismo software todo el tiempo. Aun así, su conducta puede delatarlos, ya que tratan de cumplir su disparador, aunque no sepan por qué.
 
 ### ^(;,;)^ Virus
 
@@ -406,7 +406,7 @@ Un virus informático es un programa malicioso que se propaga en una computadora
 
 Cuando un ítem de software entra en contacto con un virus o un infectado y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
 
-Un virus solo tiene una oportunidad de infectar a un software. Si pasa la tirada de resistencia el software se convierte en inmune al virus y el resto de contactos con infectados de ese virus no le afectan.
+Un virus solo tiene una oportunidad de infectar a un software. Si pasa la tirada de resistencia, el software se convierte en inmune al virus y el resto de contactos con infectados de ese virus no le afectan.
 
 
 
