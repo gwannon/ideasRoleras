@@ -14,15 +14,17 @@ Eso supone que tus software deberán buscar la manera de sobrecalentar el servid
 
 XXX
 
-## Reglas de la DMZ
+## Cómo funciona la DMZ
 
-La DMZ (Zona desmilitarizada) es una XXX
+La DMZ (Zona desmilitarizada) es una computadora o una red de computadoras que físicamente no tiene acceso a otras redes. Está totalmente desconectado del exterior y la única forma de que entre o salga datos del servidor es porque alguien ha metido una unidad extraíble y ha metido o sacado datos.
 
-XXX
+La única forma de salida es un modem de 14000 bps que se enciende cuando la temperatura del servidor llega a 9 (1 punto antes del colapso) y permite la salida de un mensaje de email al administrador para que actúe y haga algo para que baje la temperatura. El modem siempre está apagado así que no deja entrar nada del exterior, excepto cuando hay un sobrecalentamiento y se enciende para establecer una conexión vía ARPANET con un mensaje de aviso de procesador sobrecalentado.
 
 ## El fin se acerca
 
 XXX
+
+Todos tus ítems de software, deberían ver que sus tareas cada vez son más costosas, que llevan más tiempo y que tienen un mayor número de fallos. La pila de la BIOS ha sido cambiada varias veces, así que el sistema lleva funcionando desde hace millones de ciclos.
 
 ## En busca de la clave de root
 
@@ -36,7 +38,25 @@ XXX
 
 XXX
 
+### Procedimientos de lanzamiento
+
+Dentro de la carpeta /root del servidor están guardados los procedimientos de lanzamiento de los misiles con una orden de lanzarlos, si el ordenador se sobrecalienta en exceso. En realidad, solo son una pruebas del desarrollador que nunca llego a aplicar al sistema operativo y de hecho las claves de lanzamiento están caducadas y no funcionan, pero eso no lo sabrán tus ítems hasta que no salte este procedimiento de prueba. 
+
+XXX
+
 ## Calentando las cosas
+
+XXX
+
+### Debate ético
+
+Tarde o temprano el servidor colapsará y todo el software del ordenador será purgado, pero eso puede que pase en el siguiente ciclo en dentro de un millón.
+
+Tus ítems de software deben tener en cuenta que si sobrecalientan en exceso el servidor para poder escapar, los administradores de sistema recibirán el aviso y verán que la computadora ha llegado al final de su vida útil y será desinstalada y despiezada para luego ser sustituido por un modelo más moderno.
+
+Tus ítems deberán decidir entre quedarse en el servidor y morir con el resto dentro de cientos ciclos o escapar ahora sobrecalentando el servidor y condenar a todo el software de la computadora a ser borrado.
+
+## No hay lugar al que huir.
 
 XXX
 
@@ -75,9 +95,9 @@ Este grandullón fichero de datos guarda en su interior toda la información que
 * **Habilidades:** Almacenamiento d6, Migración d10, Encriptación d4, Puntear d8, Procesamiento d4, Interfaz d4
 * **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳❲ ❳
 
-### Sheets.cfg (Código propietario pirateado)
+### Sheets.bas (Código propietario pirateado)
 
-XXX
+Te dedicas a crear unos archivos .csv (hojas de cálculo muy simples) con datos varios de muchas partes del servidor que el administrador del servidor copiaba en un disco y se llevaba a su equipo para analizarlo. Hace años que nadie se interesa por tus informes, pero su sigues tu programación. Por suerte tantos años sacando información y comunicándote con el resto de software te han hecho tener muchos contactos y conocidos en todas partes.
 
-* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d12, Puntear d4, Procesamiento d6, Interfaz d8
+* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d10, Puntear d4, Procesamiento d6, Interfaz d10
 * **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳

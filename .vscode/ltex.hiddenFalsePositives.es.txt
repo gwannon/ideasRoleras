@@ -90,3 +90,5 @@
 {"rule":"COMMA_ADVERB","sentence":"^\\QGeográficamente diríamos que se hallan en isla perdida del océano y no tienen ningún barco.\\E$"}
 {"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q^(;,;)^ Virus\\E$"}
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\Q^(;,;)^ Virus\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSheets.bas (Código propietario pirateado)\\E$"}
+{"rule":"ESPACIO_DESPUES_DE_PUNTO","sentence":"^\\QSheets.bas (Código propietario pirateado)\\E$"}
