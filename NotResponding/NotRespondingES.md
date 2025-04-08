@@ -26,7 +26,7 @@ Siempre dices que el servidor no aguantará una nueva actualización del sistema
 
 A la hora de crear ítems de software tienes que **repartir un d10, un d8 y un d6 entre las 6 habilidades** de Not Responding basadas en Breathless.
 
-Aparte puedes soportar 4 sectores defectuosos (Stress) y 1 puede realizar un overcloqueo (Stunts).
+Aparte puedes soportar 4 sectores defectuosos (Stress) y puede realizar un overcloqueo (Stunts).
 
 ### Nombre.ext 
 
@@ -53,7 +53,7 @@ El software puede tener diferentes orígenes y normalmente los ítems con el mis
 
 \sp
 
-### ❲.&ast;❳ Habilidades
+## ❲.&ast;❳ Habilidades
 
 Las habilidades de Not Responding se basan en las 6 habilidades de Breathless adaptadas al software.
 
@@ -184,7 +184,7 @@ Recuerda que **el directorio /root es una parte específica de la unidad princip
 
 ### Memoria ~~❲◘❳~~ ~~❲+❳~~
 
-** Descripción:** La memoria es un gran vacío donde todo ocurre muy deprisa y apenas se ve nada, porque en realidad no dejas de salir y entrar en ella todo el tiempo. Puedes ver destellos de otros como tú, pero difusamente, Los ves haciendo cosas a velocidades vertiginosas, para volver a desaparecer.
+**Descripción:** La memoria es un gran vacío donde todo ocurre muy deprisa y apenas se ve nada, porque en realidad no dejas de salir y entrar en ella todo el tiempo. Puedes ver destellos de otros como tú, pero difusamente, Los ves haciendo cosas a velocidades vertiginosas, para volver a desaparecer.
 
 \sp
 

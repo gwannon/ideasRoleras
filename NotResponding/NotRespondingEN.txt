@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Not Responding
+
+InfoKey: Subject
+InfoValue: Not Responding is a mini-setting for Breathless about software trying to escape from a dying server. Version 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, survival horror, coding, software, breathless
