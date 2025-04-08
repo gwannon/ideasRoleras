@@ -17,13 +17,23 @@ Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, lo
 
 El toque maestro será hacer aparecer al Grupo Ceballos como unos benefactores que van a salvar a un barrio deprimido levantándolo con inversiones, puestos de trabajo y nuevas construcciones.
 
-XXX
+Mientras que parece que apoyan al barrio, en realidad lo irán comprando y troceando poco a poco y desmontando la estructuras sociales de apoyo que hay montadas.
 
 ### El almacén
 
 Néstor tiene varios puntos de venta en el barrio, desde camellos pateando las calles ofreciendo su mercancía hasta dos narcopisos. Pero la cantidad de droga que hay en esos puntos no es muy grave. La mayor parte de la droga la tiene en un almacén. 
 
-El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida.
+El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida que está bajo el local 
+
+XXX
+
+### El ataque nocturno
+
+XXX
+
+### Atrapadas
+
+Si no han conseguido huir de su trampa, acabarán en la mazmorra de Néstor. 
 
 XXX
 
@@ -31,13 +41,17 @@ XXX
 
 Escapar por las alcantarillas es fácil si no mides ni 1,30 m, pero no es agradable.
 
-A lo «Cadena Perpetua», tus cazadoras deberá romper la cañería central, meterse dentro y arrastrarse entre mierda y porquería con un olor horrible durante unos 200 metros.
+A lo «Cadena Perpetua», tus cazadoras deberán romper la cañería central, meterse dentro y arrastrarse entre mierda y porquería con un olor horrible durante unos 200 metros.
 
-La otra opción es acabar muertas tras ser chupada su sangre hasta la última gota por un pederasta de 150 años.
+Recuérdales que la otra opción es acabar muertas tras ser chupada su sangre hasta la última gota por un pederasta de 150 años.
+
+\sp
+
+### Cazando al pederasta
 
 XXX
 
-Volverán y esa vez estarán preparadas. Le darán su merecido a Néstor y se asegurarán de que no vuelva a tocar a ninguna niña, niño o niñe.
+Volverán y esta vez estarán preparadas. Le darán su merecido a Néstor y se asegurarán de que no vuelva a tocar a ninguna niña, niño o niñe.
 
 XXX
 
