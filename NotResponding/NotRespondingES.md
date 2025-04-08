@@ -1,6 +1,6 @@
 \sinc
 
-# ❲Not Responding ver. 1.0❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# ❲Not Responding ver. 1.1❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
 
 \conc
 
@@ -406,17 +406,35 @@ Un virus informático es un programa malicioso que se propaga en una computadora
 
 Cuando un ítem de software entra en contacto con un virus o un infectado y falla una tirada de Almacenamiento (para rechazar cargar la infección en su código) o Encriptación (para protegerse del intruso), puede ser infectado y poco a poco se convertirá en el propio virus.
 
-Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. Una vez infectado, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del viejo virus buscando infectar a más ítems de software.
+Un virus solo tiene una oportunidad de infectar a un software. Si pasa la tirada de resistencia el software se convierte en inmune al virus y el resto de contactos con infectados de ese virus no le afectan.
+
+
 
 ```
 No pongo mi código en sitios donde hayan estado otros códigos. Nunca sabes que puedes pillar. -> virtual_desk.bas
 ```
 
+#### Estados de la infección vírica
+
+Durante el proceso de infección, será casi imposible distinguir si está o no infectado, solo un comando Diff podría hacerlo. En los primeros estados de la infección, seguirá con su apariencia normal, pero dentro no quedará nada del viejo software, solo la programación del virus buscando infectar a más ítems de software.
+
+Al infectarse tu software pasa por varias fases y el paso de cada fase se hace al hacer un recacheo.
+
+**Fase 0.** Acaba de ser infectado. No es contagioso, ni es detectable de ninguna manera. La infección es curable y el infectado no nota nada.
+
+\sp
+
+**Fase 1.** Tras el primer recacheo, la infección continua sin ser detectable, pero ya puede contagiar. La infección sigue siendo curable y el software sigue sin saber nada.
+
+**Fase 2.** Tras el segundo recacheo, continúa siendo infeccioso y ya es detectable, pero el virus ya controla la infección y es imposible curarle, solo queda purgarlo. El software empieza a notar cosas raras, pero todavía no lo sabe a ciencia cierta si está infectado.
+
+**Fase 3.** Tras el tercer recacheo, ya ha sido tomado por el virus y se convierte en un virus, pasando a ser manejado por el DJ. Puede seguir actuando con normalidad e ir infectando gente o puede pasar a convertirse en virus y empezar a destruir todo.
+
 #### Enfrentarse al virus
 
 Cuando el infectado termina su transformación se convierte en el virus. El virus puede mantener su forma normal e infectar más scripts de forma sigilosa o convertirse en un monstruo que buscará activamente corromper más software o destruir el sistema. Tu software no es rival para estos monstruos y mucho menos si la infección se ha extendido.
 
-La forma de combatirlo es con astucia, buenos planes y excepcionales actuaciones, quizas poner un buen cebo en una unidad de almacenamiento secundario y cuando todos los virus entren y colapsar su flujo de entrada con grandes bloques de datos para que no puedan escapar.
+La forma de combatirlo es con astucia, buenos planes y excepcionales actuaciones. Quizás poner un buen cebo en una unidad de almacenamiento secundario y cuando todos los virus entren y colapsar su flujo de entrada con grandes bloques de datos para que no puedan escapar.
 
 \sp
 
