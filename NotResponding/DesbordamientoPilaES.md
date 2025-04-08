@@ -20,34 +20,64 @@ La DMZ (Zona desmilitarizada) es una XXX
 
 XXX
 
+## El fin se acerca
+
+XXX
+
+## En busca de la clave de root
+
+XXX
+
+#### Colándose en la cuarentena
+
+XXX
+
+## El lugar más seguro del servidor
+
+XXX
+
+## Calentando las cosas
+
+XXX
+
+\sp
+
+\sinc
+
 ## Software pregenerado
 
-XXX
+Aquí tienes 4 ítems de software preparados para cogerlos y empezar ya mismo la aventura «Desbordamiento de pila_».
 
-### XXX.XXX (Código libre)
+&nbsp;
 
-XXX
+\conc
 
-* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+### CPTool.exe (Código propietario)
+
+Este software de encriptación que el gobierno compró e instalo en todos sus servidores, nunca ha sido utilizado, ya que nunca ha salido información encriptada del servidor debido a la DMZ. Es por ello que la odia con toda su alma y nada le haría más feliz que saltarse su férreo control del sistema.
+
+* **Habilidades:** Almacenamiento d4, Migración d6, Encriptación d10, Puntear d4, Procesamiento d8, Interfaz d6
 * **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
 
-### XXX.XXX (Código propietario)
+### diario_proceso.sh (Desarrollo propio)
 
-XXX
+Este pequeño script se dedica a la limpieza sel servidor diariamente, borrando logs viejos vaciando la papelera y cerrando procesos incompletos. No es un gran trabajo, pero alguien tiene que hacerlo y diario_proceso.sh es muy bueno en él.
 
-* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+* **Habilidades:** Almacenamiento d10, Migración d6, Encriptación d4, Puntear d8, Procesamiento d4, Interfaz d4
 * **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
 
-### XXX.XXX (Desarrollo propio)
+\sc
+
+### infoBundle.dat (Código libre)
+
+Este grandullón fichero de datos guarda en su interior toda la información que el administrador del sistema guardo del servidor, características, hardware, software, versiones, etc., pero luego lo dejo muy desactualizada, con lo que infoBundle.dat conoce muchas cosas del sistema, pero a veces falla. No le importaría darse un ciclo por todo el sistema y actualizar su información. 
+
+* **Habilidades:** Almacenamiento d6, Migración d10, Encriptación d4, Puntear d8, Procesamiento d4, Interfaz d4
+* **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳❲ ❳
+
+### Sheets.cfg (Código propietario pirateado)
 
 XXX
 
-* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
-* **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
-
-### XXX.XXX (Código propietario pirateado)
-
-XXX
-
-* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d4, Puntear d4, Procesamiento d4, Interfaz d4
+* **Habilidades:** Almacenamiento d4, Migración d4, Encriptación d12, Puntear d4, Procesamiento d6, Interfaz d8
 * **Sectores defectuosos:** ❲ ❳❲ ❳❲ ❳❲ ❳
