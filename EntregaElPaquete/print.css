@@ -1,0 +1,377 @@
+:root {
+  --padding: 62px; /*Ancho de los bordes de la página*/
+  --color-red: #d800d8;
+  --color-white: #ff9800;
+  --color-black: #353535;
+  --title-font: "Oxanium", sans-serif;
+  --text-font: "Advent Pro", sans-serif;
+}
+
+body {
+  background: var(--color-black) url(./images/bg.png) repeat top center;
+  background-size: 30% auto;
+  margin: 0;
+  padding: 0;
+  font-family: var(--text-font);
+  color: var(--color-white);
+  font-size: 14px;
+}
+
+body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: transparent url(./images/border1.png) top left repeat-y
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: transparent url(./images/border2.png) top left repeat-y;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.saltopagina + h1 {
+  padding-top: 20px;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child:not(h1),
+.saltocolumna + * {
+  margin-top: 0;
+}
+
+.columns > *:first-child:not(h1, pre, blockquote),
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  padding: 28px 10px 10px;
+  background-color: var(--color-white);
+  margin: 10px 0px;
+  color: var(--color-black);
+  position: relative;
+}
+
+blockquote:before {
+  content: "▬ ▼";
+  display: block;
+  width: calc(100% - 6px);
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  position: absolute;
+  color: var(--color-white);
+  background-color: var(--color-black);
+  text-align: right;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+}
+
+blockquote p:before {
+  content: "\0024\0020";
+  font-weight: 700;
+}
+
+blockquote a {
+  color:  var(--color-black);
+}
+
+/* Titulares */
+
+h1 {
+  font-family: var(--title-font);
+  color: var(--color-red);
+  font-size: 2.6em;
+  padding: 20px;
+  margin: 0 0 20px 0;
+  text-align: center;
+  position:relative;
+  border: 5px double var(--color-red);
+}
+
+h1:after,
+table:after {
+  content: "X";
+  display: block;
+  border-bottom: 5px double var(--color-red);
+  border-left: 5px double var(--color-red);
+  position: absolute;
+  top: -2px;
+  right: -2px;
+  font-size: 20px;
+  padding: 3px;
+  background-color: var(--color-black);
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+  color: var(--color-red);
+  font-family: var(--title-font);
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3 {
+  font-family: var(--title-font);
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /*text-shadow: 0px 0px 11px #000000;*/
+  margin-top: 10px;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h2 + p, 
+h3 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ul {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-white);
+}
+
+ul {
+  padding-left: 12px;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: '\268F';
+  position: absolute;
+  font-size: 10px;
+  top: 0px;
+  left: -12px;
+  display: block;
+  color: var(--color-white);
+} 
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: 5px double var(--color-red);
+  padding: 5px;
+  position: relative;
+
+}
+
+table thead tr th,
+table tr th {
+  font-family: var(--title-font);
+  font-weight: 700;
+  font-size: 1.5em;
+  background-color: var(--color-white);
+  color: var(--color-black);
+  clip-path:polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+table.special th,
+table.special td {
+  font-size: 0.8em;
+}
+
+table strong {
+  color: var(--color-red);
+  font-family: var(--title-font);
+}
+
+pre {
+  white-space: pre-wrap;
+  border: 2px solid var(--color-white);
+  padding: 10px 30px 10px 10px;
+  margin: 10px 0px;
+  position: relative;
+}
+ 
+pre:before {
+  content: "▲";
+  white-space: pre;
+  width: 15px;
+  font-size: 15px;
+  border: 2px solid var(--color-white);
+  border-bottom: none;
+  top: 2px;
+  right: 2px;
+  height: calc(100% - 18px);
+  display: block;
+  position: absolute;
+  text-align: center;
+  white-space: pre-wrap;
+}
+
+pre:after {
+  content: "▼";
+  width: 15px;
+  font-size: 15px;
+  border: 2px solid var(--color-white);
+  border-top: none;
+  bottom: 2px;
+  right: 2px;
+  height: 18px;
+  display: block;
+  position: absolute;
+  text-align: center;
+}
+
+pre code {
+  padding: 0px;
+  margin: 0px;
+  color:  var(--color-white);
+  font-family: var(--title-font);
+  font-size: 16px;
+  position: relative;
+  white-space: pre-wrap;
+}
+
+/*del {
+  text-decoration: none;
+  display: inline-block;
+  position: relative;
+}
+
+del:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: var(--color-red);
+  top: 8px;
+  left: 0px;
+  transform: rotate(15deg);
+  position: absolute;
+  transform-origin: center;
+}
+
+del:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: var(--color-red);
+  bottom: 5px;
+  left: 0px;
+  transform: rotate(-15deg);
+  position: absolute;
+  transform-origin: center;
+}*/
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 20px;
+  font-family: var(--title-font);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 20px;
+  right: 50%;
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 1.5em;
+}
