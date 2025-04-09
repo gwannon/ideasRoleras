@@ -12,105 +12,141 @@ En un mundo hipertecnificado, la forma más eficaz para evitar que te hackeen in
 
 En «Entrega el paquete», como buena ambientación ciberpunk, la información es poder y protegerla es fundamental, así que mucha información sensible se guarda en papel o unidades de almacenamiento y se mueve físicamente en vez de electrónicamente.
 
-Es por ello que existen empresas de mensajería y mensajeres independientes que llevan esa información de un lugar a otro arriesgando su cuerpo e incluso sus vidas.
+Es por ello que existen empresas de mensajería y mensakas independientes que llevan esa información de un lugar a otro arriesgando su cuerpo e incluso sus vidas.
 
 ## Empresas de mensajería y mensajeres independientes
 
-Las empresas de mensajería son empresas bastante atípicas en comparación con el sistema capitalista imperante. Suelen ser cooperativas de mensajeres, no empresas como podríamos pensar. Muchas empezaron como grupos de corredores de parkour o skaters que estaban en sus callejones practicando su deporte y que recibían encargos para llevar rápidamente pedidos de comida a domicilio por una buena propina.
+Las empresas de mensajería son empresas bastante atípicas en comparación con el sistema capitalista imperante. Suelen ser cooperativas de mensakas, no empresas como podríamos pensar. Muchas empezaron como grupos de corredores de parkour o skaters que estaban en sus callejones practicando su deporte y que recibían encargos para llevar rápidamente pedidos de comida a domicilio por una buena propina.
 
-Poco a poco se fueron profesionalizando, estableciendo tarifas y ponían una cuota mensual para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Les mensajeres nueves que se apuntan a la cooperativa pagan una cuota de entrada tras ser aceptaba su solicitud de ingreso en la cooperativa y luego una cuota mensual para usar los servicios.
+Poco a poco se fueron profesionalizando, estableciendo tarifas y ponían una cuota mensual para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Les mensakas nueves que se apuntan a la cooperativa pagan una cuota de entrada tras ser aceptaba su solicitud de ingreso en la cooperativa y luego una cuota mensual para usar los servicios.
 
-Les mensajeres independientes suelen ser practicantes de disciplinas como parkour o skating que empiezan a trabajar de mensajeres para monetizar su afición, pero sin convertirlo en un modo de vida. Si quieren dedicarse profesionalmente, suelen unirse a una cooperativa.
-
+Les mensakas independientes suelen ser practicantes de disciplinas como parkour o skating que empiezan a trabajar de mensajeres para monetizar su afición, pero sin convertirlo en un modo de vida. Si quieren dedicarse profesionalmente, suelen unirse a una cooperativa.
+e
 ## Parkour, skaters, BMX y otros estilos
 
-Cada mensajere tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus saltos y sus descensos a toda velocidad y ciclistes con sus ebikes de BMX.
+Cada mensaka tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus saltos y sus descensos a toda velocidad y ciclistes con sus ebikes de BMX.
 
-Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, enfermeres en caso del parkour o mecániques de bicis para los especialistas en BMX.
+Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, enfermeres en caso del parkour o mecániques de bicis para les especialistes en BMX.
 
 \sp
 
+\sinc
+
 ## Sistema 
 
-XXX
+\conc
 
-### Checks
+«Entrega el paquete» usa el sistema Breathless, modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
 
-When there's a challenge that needs to be overcome, you make a check to see how it plays out. You only need to roll if what you are doing is risky.
+### Tiradas
 
-The GM telegraphs the risk of your action, you then pick a skill, and roll the die that matches its rating. If an ally helps you, they also make a check, but share the same risks as you. Take the highest die and interpret the results.
+Cuando hay un desafío que superar, haces una tirada para ver cómo se desarrolla. Solo necesitas tirar si lo que quieres hacer es arriesgado.
 
-- On a 1-2, you fail, and something wrong happens.
-- On a 3-4, you succeed, but at a cost.
-- On a 5+, you succeed. The higher the result, the better the effect.
+Le DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a su puntuación. Si une compañere te ayuda, también realiza una tirada y ambos corréis los mismos riesgos. Le DJ toma la tirada más alta e interpreta el resultado.
 
-Surviving is hard. Everyone who rolled reduces the rating of the skill they used by one level: d12 » d10 » d8 » d6 » d4. Skills cannot go lower than a d4.
+|Tirada|Resultado|
+|---|---|
+|1-2|Fallas y algo malo sucede.|
+|3-4|Lo logras, pero tiene algún tipo de coste.|
+|5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
 
-The GM can disclaim decision-making by testing for luck. To do so, pick a die rating simply based on the odds of a thing happening, roll, and interpret the results.
+Ser mensaka es difícil. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4: d12 » d10 » d8 » d6 » d4
 
-### Catch Your Breath
+Si lo desea le DJ puede dejar una decisión de partida a la suerte. Simplemente elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
-To reset all your skills to their original rating, you can ask to “catch your breath”. This is a brief break in tension. It can be done at any time, even during combat.
-When a character catches their breath, the GM looks at the scene and introduces a new complication to the group.
+### Recuperar el resuello
 
-### Loot Checks
+Para recuperar todas tus habilidades, debes «recuperar el resuello». Se trata de un breve descanso para poder respirar, bajar tus pulsaciones y pensar tu propio paso. Para recuperar el resuello debes **fuera de peligro u oculte** a la vista de enemigues.
 
-When the fiction allows it, you can make a loot check to scavenge for tools, weapons, med kits, etc. Be careful of what is lurking in the shadow.
-When you do a loot check, roll a d20.
+Cuando un personaje recupera el resuello, le DJ observa la situación y presenta una nueva complicación al grupo.
 
-- On a 1, something bad happens.
-- On a 15-16, you find a d6 item.
-- On a 17-18, you find a d8 item.
-- On a 19-20, you find a d10 item —or— a med kit.
+### Tiradas de saqueo
 
-#### Equipo que puedes encontrar
+Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar herramientas, armas, botiquines, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercs.
 
-XXX
+Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
 
-|1d12|Equipo|
+|1d20|Equipo|
+|---|---|
+|1|Pasa algo malo|
+|2-14|No encuentras nada|
+|15-16|1 pieza de equipo de d6|
+|17-18|1 pieza de equipo de d8|
+|19-20|1 pieza de equipo de d10 o 1 PowerWater™|
+
+Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d8 en la siguiente tabla.
+
+\sc
+
+|1d8|Equipo|
 |---|---|
 |1|Protecciones|
 |2|Pegamento|
 |3|Piezas de repuesto|
+|4|Cinta americana|
+|5|Bate o similar|
+|6|XXX|
+|7|XXX|
+|8|Batería|
 
-### Bandolera de mensajere
 
-Items in your backpack can be used in place of your skills. They start with a die rating which decreases after each use. When reduced to a d4, the item either breaks, gets lost, or fades away from the fiction until it’s made relevant again.
+### Bandolera de mensaka
 
-Characters can only carry 3 items and one med kit at once in their backpack.
+Los objetos de tu bandolera pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. Al reducirse a un d4, el objeto se rompe, se pierde o desaparece de la historia.
 
-### Golpe de adrenalina
+Solo se pueden llevar 3 objetos y 1 botiquín la bandolera.
 
-When you pull off a stunt, you use a d12 instead of a skill rating to do a check. Once used, you'll need to "catch your breath" to use it again.
+### Chute de adrenalina
 
-### Esfuerzo
+Cuando todo se complica, puedes intentar recurrir a tu adrenalina y hacer una tirada con un d12 es vez de una tirada con tu rango de habilidad actual.
 
-When you face a consequence as a result of one of your actions, the GM can decide that you take 1 stress. If your character reaches 4 stress, they become “vulnerable”.
+Una vez gastado el golpe de adrenalina, no podrás usarlo de nuevo hasta que **recuperes el resuello**.
 
-When vulnerable, failing a dangerous action could mean being taken out —or— sudden death.
+### Cansancio
 
-#### PowerWater
+Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de estrés. Si tu personaje alcanza 4 niveles de cansancio, estás agotade.
 
-You can use up a med kit to clear 2 stress, or lay low someplace secure awhile to clear 1 stress.
+Cuando estás agotade, fallar una acción peligrosa significa **quedarte atrás**, perderte la entrega y seguramente volver a la base sin haber cumplido la entrega.
 
-### Your Character
+#### PowerWater™
 
-On your character sheet, write down your character’s name and pronouns.
-By default, skills have a d4 rating. Assign a d10, a d8, and a d6 to three skills you think your character is good at.
-Characters have a total of 6 skills:
+Puedes usar una botella de PowerWater™, la mejor bebida energética del mercado, para eliminar 2 puntos de cansancio. Otra opción es esconderte en un lugar seguro por un tiempo para eliminar 1 punto de cansancio.
 
-- Bash: wreck, move, force.
-- Dash: run, jump, climb.
-- Sneak: hide, skulk, lurk.
-- Shoot: track, throw, fire.
-- Think: perceive, analyze, repair.
-- Sway: charm, manipulate, intimidate.
+### Tu mensaka
 
-Think of an item that you got before leaving for your adventure, and add it to your backpack as a d10 item.
+En tu hoja de mensaka, anota el mote, los pronombres de tu personaje y cómo se mueve, parkour, roller, skate, ebike.
+
+Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8 y un d6 a tres habilidades en las que creas que tu personaje destaca.
+
+Los personajes tienen un total de 6 habilidades:
+
+* **Golpear:** Destrozar, empujar, doblar.
+* **Moverse:** Correr, saltar, trepar.
+* **Acechar:** Esconderse, husmear, merodear.
+* **Callejear:** Orientarse, seguir, atajar.
+* **Pensar:** Percibir, analizar, reparar.
+* **Interactuar:** Cautivar, manipular, intimidar.
+
+Al comenzar la entrega, llevarás en tu bandolera una pieza de equipo aleatoria a nivel de d10 
 
 \sp
 
-## Creando misiones
+\sinc
+
+## Las entregas
+
+\conc
+
+Las entregas tienen sus propias reglas que las hacen caóticas y frenéticas.
+
+### El contrato
+
+Todas las entregas empiezan con un contrato. Algunos son muy simples, llevar el paquete del punto A al punto B, y puedes complicarlos tanto como quieras usando 4 vectores:
+
+* El punto de recogida XXX
+* El punto de entrega XXX
+* El limite de tiempo XXX
+* El interés/valor del paquete XXX
 
 XXX
 
@@ -124,39 +160,77 @@ XXX
 
 > Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras.
 
-## Siempre hacia adelante
+### Siempre hacia adelante
 
 XXX
 
-## ¿Quién lleva el paquete?
+### ¿Quién lleva el paquete?
 
 XXX
 
-## Obstáculos
+Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada por los mercs enviados y la megacorp enemiga consigue lo que había dentro.
+
+Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entregsa.
+
+### Obstáculos
+
+Los obstáculos son eventos y situaciones que les menserejes se va a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
+
+|1d10|Obstáculo|
+|---|---|
+|1|**Tiroteo entre dos bandas rivales:** XXX|
+|2|**XXX:** XXX|
+|3|**XXX:** XXX|
+|4|**XXX:** XXX|
+|5|**XXX:** XXX|
+|6|**XXX:** XXX|
+|7|**XXX:** XXX|
+|8|**XXX:** XXX|
+|9|**XXX:** XXX|
+|10|**XXX:** XXX|
+
+### Mercs y megacorps
 
 XXX
 
-## Mercs y megacorps
+### Llamando a los refuerzos
 
 XXX
 
-## Llamando a los refuerzos
+\sinc
+
+## Semillas de entregas
+
+\conc
 
 XXX
 
 \sp
 
-## Hoja de mensajere
+## Hoja de mensaka
 
 |HojaMensajere.html|
 
-## Fuentes
+## Hoja de contrato
 
 XXX
 
-* Luz virtual (Trilogía del puente) de William Gibson
-* Quemando cromo de William Gibson 
-* Mirror's Edge de EA
+## Fuentes
+
+Si deseas inspiración para crear tus tramas, estás son algunas obras que me han servidor de inspiración para desarrollar «Entrega el paquete».
+
+* **Luz virtual (Trilogía del puente) de William Gibson.** Todos persiguen a una mensajera que ha conseguido una gafas de realidad virtual con importante información corporativa.
+* **Quemando cromo de William Gibson.** En esta recopilación de historias cortas tenemos la historia de Johnny Mnemonic que es un mensajero corporativo que lleva en su cerebro relevantes datos de una megacorp.
+* En el videojuego **Mirror’s Edge de EA** una red de corredores, entre ellos el personaje principal, Faith, transmiten mensajes entre elementos rebeldes mientras eluden la vigilancia del gobierno y las corporaciones. 
+
+\sc
+
+## Términos útiles
+
+Este listado de términos en argot te pueden ayudar a ambientar tus entregas.
+
+* **Mensaka:** XXX
+* **XXX:** XXX
 
 ## Licencia 
 

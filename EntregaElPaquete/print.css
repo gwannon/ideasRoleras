@@ -154,7 +154,8 @@ h1 > a {
 }
 
 h2,
-h3 {
+h3,
+h4 {
   font-family: var(--title-font);
   font-weight: 400;
   font-style: normal;
@@ -174,9 +175,21 @@ h3 {
   font-size: 1.4em;
 }
 
-h2 + p, 
-h3 + p {
+h4 {
+  font-size: 1em;
+}
+
+h2 + p,
+h2 + div {
   margin-top: 10px;
+}
+
+h3 + p {
+  margin-top: 5px;
+}
+
+h4 + p {
+  margin-top: 5px;
 }
 
 /* Otros elementos */
@@ -200,7 +213,7 @@ ul li {
 }
 
 ul li:before {
-  content: '\268F';
+  content: '▸';
   position: absolute;
   font-size: 10px;
   top: 0px;
