@@ -1,6 +1,6 @@
 \sinc
 
-# Entrega el paquete [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Entrega el paquete 1.0 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
 \conc
 
@@ -28,29 +28,42 @@ Cada mensajere tiene su forma de moverse por la ciudad rápidamente. Tenemos cor
 
 Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, enfermeres en caso del parkour o mecániques de bicis para los especialistas en BMX.
 
-## No preguntes por el paquete, solo entrégalo
+\sp
+
+## Sistema 
 
 XXX
 
-### No abras el paquete
+### Checks
 
-XXX
+When there's a challenge that needs to be overcome, you make a check to see how it plays out. You only need to roll if what you are doing is risky.
 
-> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, ... Nunca, nunca, nunca lo abras 
+The GM telegraphs the risk of your action, you then pick a skill, and roll the die that matches its rating. If an ally helps you, they also make a check, but share the same risks as you. Take the highest die and interpret the results.
 
-### ¿Quién lleva el paquete?
+- On a 1-2, you fail, and something wrong happens.
+- On a 3-4, you succeed, but at a cost.
+- On a 5+, you succeed. The higher the result, the better the effect.
 
-XXX
+Surviving is hard. Everyone who rolled reduces the rating of the skill they used by one level: d12 » d10 » d8 » d6 » d4. Skills cannot go lower than a d4.
 
-## Obstáculos
+The GM can disclaim decision-making by testing for luck. To do so, pick a die rating simply based on the odds of a thing happening, roll, and interpret the results.
 
-XXX
+### Catch Your Breath
 
-## Mercs y megacorps
+To reset all your skills to their original rating, you can ask to “catch your breath”. This is a brief break in tension. It can be done at any time, even during combat.
+When a character catches their breath, the GM looks at the scene and introduces a new complication to the group.
 
-XXX
+### Loot Checks
 
-## Equipo que puedes encontrar
+When the fiction allows it, you can make a loot check to scavenge for tools, weapons, med kits, etc. Be careful of what is lurking in the shadow.
+When you do a loot check, roll a d20.
+
+- On a 1, something bad happens.
+- On a 15-16, you find a d6 item.
+- On a 17-18, you find a d8 item.
+- On a 19-20, you find a d10 item —or— a med kit.
+
+#### Equipo que puedes encontrar
 
 XXX
 
@@ -60,11 +73,70 @@ XXX
 |2|Pegamento|
 |3|Piezas de repuesto|
 
-### PowerWater
+### Bandolera de mensajere
+
+Items in your backpack can be used in place of your skills. They start with a die rating which decreases after each use. When reduced to a d4, the item either breaks, gets lost, or fades away from the fiction until it’s made relevant again.
+
+Characters can only carry 3 items and one med kit at once in their backpack.
+
+### Golpe de adrenalina
+
+When you pull off a stunt, you use a d12 instead of a skill rating to do a check. Once used, you'll need to "catch your breath" to use it again.
+
+### Esfuerzo
+
+When you face a consequence as a result of one of your actions, the GM can decide that you take 1 stress. If your character reaches 4 stress, they become “vulnerable”.
+
+When vulnerable, failing a dangerous action could mean being taken out —or— sudden death.
+
+#### PowerWater
+
+You can use up a med kit to clear 2 stress, or lay low someplace secure awhile to clear 1 stress.
+
+### Your Character
+
+On your character sheet, write down your character’s name and pronouns.
+By default, skills have a d4 rating. Assign a d10, a d8, and a d6 to three skills you think your character is good at.
+Characters have a total of 6 skills:
+
+- Bash: wreck, move, force.
+- Dash: run, jump, climb.
+- Sneak: hide, skulk, lurk.
+- Shoot: track, throw, fire.
+- Think: perceive, analyze, repair.
+- Sway: charm, manipulate, intimidate.
+
+Think of an item that you got before leaving for your adventure, and add it to your backpack as a d10 item.
+
+\sp
+
+## Creando misiones
 
 XXX
 
-### Golpe de adrenalina
+### No preguntes por el paquete, solo entrégalo
+
+XXX
+
+#### No abras el paquete
+
+XXX
+
+> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras.
+
+## Siempre hacia adelante
+
+XXX
+
+## ¿Quién lleva el paquete?
+
+XXX
+
+## Obstáculos
+
+XXX
+
+## Mercs y megacorps
 
 XXX
 

@@ -79,14 +79,14 @@ body > *:first-child,
 }
 
 blockquote {
-  padding: 28px 10px 10px;
+  padding: 10px;
   background-color: var(--color-white);
   margin: 10px 0px;
   color: var(--color-black);
-  position: relative;
+  font-style: italic;
 }
 
-blockquote:before {
+/*blockquote:before {
   content: "▬ ▼";
   display: block;
   width: calc(100% - 6px);
@@ -97,17 +97,17 @@ blockquote:before {
   color: var(--color-white);
   background-color: var(--color-black);
   text-align: right;
-}
+}*/
 
 blockquote p {
   padding: 0px;
   margin: 0px;
 }
 
-blockquote p:before {
+/*blockquote p:before {
   content: "\0024\0020";
   font-weight: 700;
-}
+}*/
 
 blockquote a {
   color:  var(--color-black);
@@ -272,13 +272,15 @@ table.special td {
 
 pre {
   white-space: pre-wrap;
-  border: 2px solid var(--color-white);
-  padding: 10px 30px 10px 10px;
+  background-color: var(--color-white);
+  background: linear-gradient(125deg, rgba(255,152,0,1) 0%, rgba(216,0,216,1) 50%);
+  padding: 10px;
   margin: 10px 0px;
   position: relative;
+  clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
 }
  
-pre:before {
+/*pre:before {
   content: "▲";
   white-space: pre;
   width: 15px;
@@ -306,12 +308,12 @@ pre:after {
   display: block;
   position: absolute;
   text-align: center;
-}
+}*/
 
 pre code {
   padding: 0px;
   margin: 0px;
-  color:  var(--color-white);
+  color: var(--color-black);
   font-family: var(--title-font);
   font-size: 16px;
   position: relative;
