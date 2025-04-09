@@ -1,10 +1,10 @@
 \sinc
 
-# ❲Not Responding ver. 1.1❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# ❲Not Responding_ ver. 1.1❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
 
 \conc
 
-**Not Responding es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de escapar de un servidor moribundo.**
+**Not Responding_ es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de escapar de un servidor moribundo.**
 
 Tus ítems de software no solo deberán enfrentarse a los errores cada vez más graves del propio servidor, también a toda una serie de depredadores de software como virus y antivirus y a los imprevistos que pueden generar las tareas programadas por el administrador del sistema.
 
@@ -24,7 +24,7 @@ Siempre dices que el servidor no aguantará una nueva actualización del sistema
 
 ## Desarrollando tu software
 
-A la hora de crear ítems de software tienes que **repartir un d10, un d8 y un d6 entre las 6 habilidades** de Not Responding basadas en Breathless.
+A la hora de crear ítems de software tienes que **repartir un d10, un d8 y un d6 entre las 6 habilidades** de Not Responding_ basadas en Breathless.
 
 Aparte puedes soportar 4 sectores defectuosos (Stress) y puede realizar un overcloqueo (Stunts).
 
@@ -40,7 +40,7 @@ Además, debes elegir tu extensión. La extensión marca un poco tu función den
 * **sh/bas:** Estos scripts suelen realizar tareas largas y repetitivas y tienden muchas veces a ser desarrollos propios. Se programan para hacer una tarea sea como se sea y sin importar si saturan al servidor, así que puedes **repetir las tiradas de overcloqueo**, pero entonces tiras dos dados para ver si se calienta el servidor, en vez de uno y te quedas con los 0 o los 1 en caso de salir.
 * **cfg:** Estos software contiene muchas veces contraseñas y claves y saben con esconderlas y como ocultarse ellos mismos, de hecho muchas veces tienen contenido encriptado. Es por ello que reciben **un nivel de dado adicional en Encriptación**. Como desventaja serán el objetivo principal de virus y otros depredadores informáticos.
 * **dat:** Estos grandes ficheros de datos **pueden soportar un sector defectuoso más** que el resto de software, pero si se ejecutan comandos «defrag» en la localización en la que están se quedan inmóviles e indefensos mientras se ejecuta la defragmentación.
-* **Sin extensión:** Un software sin extensión no tiene una función específica, así que tampoco tiene ninguna ventaja ni desventajas.
+* **Sin extensión:** Un software sin extensión no tiene una función específica, así que tampoco tiene ninguna ventaja ni desventaja.
 
 ### ❲₪❳ Origen del software
 
@@ -55,7 +55,7 @@ El software puede tener diferentes orígenes y normalmente los ítems con el mis
 
 ## ❲.&ast;❳ Habilidades
 
-Las habilidades de Not Responding se basan en las 6 habilidades de Breathless adaptadas al software.
+Las habilidades de Not Responding_ se basan en las 6 habilidades de Breathless adaptadas al software.
 
 * **Almacenamiento {Bash}:** Golpear, destrozar, arrastrar, forzar
 * **Migración {Dash}:** Moverse, correr, saltar, escalar
@@ -190,7 +190,7 @@ Recuerda que **el directorio /root es una parte específica de la unidad princip
 
 La gran ventaja de la memoria es que todo va muy rápido y **tareas largas de segundos, se hacen en microsegundos, si usas el dado de la localización**. Por contra, es imposible recachear o recuperar un backup en la memoria debido a que entras y sales continuamente.
 
-Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los DIMM de memoria se fastidia y fuerza al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 DIMM la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
+Realizar overcloqueos es peligroso y si sacas 1 en tu tirada, uno de los chips de memoria se fastidia y fuerza al resto a trabajar más y generar más calor, subiendo 1 la temperatura. Si se pierden 2 chips la velocidad de la memoria se vera afectada y ya no se podrán hacer tareas superrápidas. Si pierde las 4 el servidor colapsará, como si se hubiera fundido el procesador. 
 
 ### Papelera de reciclaje
 
@@ -288,7 +288,7 @@ Se puede entrar normalmente o escondidos con una tirada de Encriptación exitosa
 
 ## ❲ERR❳ El hardware está fallando
 
-Como ya hemos comentado antes, el servidor donde ocurren las aventuras de Not Responding debe ser un servidor viejo y al borde del fallo total. Si eso pasa no volverá a encender y todo el software de su interior acabará como él.
+Como ya hemos comentado antes, el servidor donde ocurren las aventuras de Not Responding_ debe ser un servidor viejo y al borde del fallo total. Si eso pasa no volverá a encender y todo el software de su interior acabará como él.
 
 ### Temperatura del servidor
 
@@ -316,9 +316,9 @@ Los de marketing deciden si es un fallo o una nueva funcionalidad. -> Viejo prov
 |7|**Unidades extraíbles de almacenamiento:** Estas unidades se joden sin remedio, tal vez se estropee el disco de 5¼ o la unidad de cinta. Lo que sea se rompe y no podrán escapar a esa unidad.|
 |8|**Placa base:** La placa base conecta todo con todo y si tiene fallos, los viajes se pueden complicar. Algún ítem de tu grupo de software deberá tirar Puntear para encontrar rutas alternativas y seguras por la placa base. Si fallan acabarán en una localización al azar.|
 |9|**Tabla de asignación de archivos corrompida:** Esto hace que software al azar desaparezca y cada ítem de software pierde un comando de su equipo.|
-|10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso.|
+|10|**La aguja del disco duro:** La aguja del disco duro se ha descalibrado y está generando sectores defectuosos al escribir. Todos tus ítems reciben un sector defectuoso cuando entren a la unidad de almacenamiento.|
 |11|**Fuente de alimentación:** Si falla la fuente de alimentación falla todo, pero las viejas fuentes son muy resistentes. Lo que va a pasar es que se recaliente al perder su ventilador. Una vez falle el propio ventilador de la fuente, este resultado ya no tiene efecto.|
-|12|**DIMM de memoria:** Uno de los DIMM de memoria falla, forzando al resto a trabajar más y generar más calor. La temperatura sube 1 punto y vuelves a tirar.|
+|12|**Chip de memoria:** Uno de los chips de memoria falla, forzando al resto a trabajar más y generar más calor. La temperatura sube 1 punto y vuelves a tirar.|
 
 ## (¬) Tareas programadas
 
@@ -499,7 +499,7 @@ Frases como el «Virtualizador está fallando» o «El balanceador de carga est�
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-Not responding está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
+Not responding_ está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
 
 &nbsp;
 
