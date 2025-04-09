@@ -9,3 +9,6 @@ Ver en [itch.io](https://gwannon.itch.io/entrega-el-paquete-breathless).
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de **[freepik](https://www.freepik.com/)**.
+
+
+* https://www.freepik.com/free-vector/red-black-patterned-background-vector_3463974.htm

@@ -2,14 +2,14 @@
   --padding: 62px; /*Ancho de los bordes de la página*/
   --color-red: #d800d8;
   --color-white: #ff9800;
-  --color-black: #353535;
+  --color-black: #120b1d;
   --title-font: "Oxanium", sans-serif;
   --text-font: "Advent Pro", sans-serif;
 }
 
 body {
-  background: var(--color-black) url(./images/bg.png) repeat top center;
-  background-size: 30% auto;
+  background: var(--color-black) url(./images/bg.png) repeat-y top left;
+  background-size: 120px auto;
   margin: 0;
   padding: 0;
   font-family: var(--text-font);
@@ -17,7 +17,7 @@ body {
   font-size: 14px;
 }
 
-body:before {
+/*body:before {
   content: "";
   display: block;
   width: var(--padding);
@@ -37,7 +37,7 @@ body:after {
   top: 0px;
   right: 0px;
   background: transparent url(./images/border2.png) top left repeat-y;
-}
+}*/
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
