@@ -117,16 +117,16 @@ blockquote a {
 
 h1 {
   font-family: var(--title-font);
-  color: var(--color-red);
+  color: var(--color-black);
   font-size: 2.6em;
   padding: 20px;
   margin: 0 0 20px 0;
   text-align: center;
-  position:relative;
-  border: 5px double var(--color-red);
+  text-shadow: -1px 0px 3px var(--color-red), 1px 0px 3px var(--color-red),
+  -1px 0px 3px var(--color-red), 1px 0px 3px var(--color-red);
 }
 
-h1:after,
+/*h1:after,
 table:after {
   content: "X";
   display: block;
@@ -138,7 +138,7 @@ table:after {
   font-size: 20px;
   padding: 3px;
   background-color: var(--color-black);
-}
+} */
 
 h1 > a {
   display: block;
@@ -146,9 +146,11 @@ h1 > a {
   font-size: 16px;
   width: 100%;
   color: var(--color-red);
-  font-family: var(--title-font);
+  font-family: var(--text-font);
   font-weight: 400;
   text-decoration: none;
+  text-shadow: none;
+  font-style: italic;
 }
 
 h2,
@@ -161,6 +163,7 @@ h3 {
   padding-bottom: 0px;
   /*text-shadow: 0px 0px 11px #000000;*/
   margin-top: 10px;
+  line-height: 100%;
 }
 
 h2 {
@@ -173,7 +176,7 @@ h3 {
 
 h2 + p, 
 h3 + p {
-  margin-top: 0px;
+  margin-top: 10px;
 }
 
 /* Otros elementos */
@@ -210,17 +213,51 @@ table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  border: 5px double var(--color-red);
   padding: 5px;
-  position: relative;
+}
 
+h1,
+table {
+  position:relative;
+  border: 2px solid var(--color-red);
+  background: var(--color-red);
+  background: linear-gradient(167deg, var(--color-black) 53%, var(--color-red) 100%);
+  clip-path: polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 10px 100%, 0% calc(100% - 10px));
+}
+
+h1:before,
+table:before {
+  content: "";
+  display: block;
+  position: absolute;
+  background-color:  var(--color-red);
+  width: 8px;
+  height: 8px;
+  top: -1px;
+  right: -1px;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
+  z-index: 10;
+}
+
+h1:after,
+table:after {
+  content: "";
+  display: block;
+  position: absolute;
+  background-color:  var(--color-red);
+  width: 13px;
+  height: 13px;
+  bottom: -1px;
+  left: -1px;
+  clip-path: polygon(0% 0%, 0% 100%, 100% 100%);
+  z-index: 10;
 }
 
 table thead tr th,
 table tr th {
   font-family: var(--title-font);
   font-weight: 700;
-  font-size: 1.5em;
+  font-size: 0.9em;
   background-color: var(--color-white);
   color: var(--color-black);
   clip-path:polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
@@ -231,11 +268,6 @@ table tr th {
 table.special th,
 table.special td {
   font-size: 0.8em;
-}
-
-table strong {
-  color: var(--color-red);
-  font-family: var(--title-font);
 }
 
 pre {
