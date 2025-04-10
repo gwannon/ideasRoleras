@@ -79,10 +79,10 @@ body > *:first-child,
 }
 
 blockquote {
-  padding: 10px;
   background-color: var(--color-white);
+  padding: 2px;
   margin: 10px 0px;
-  color: var(--color-black);
+  clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
   font-style: italic;
 }
 
@@ -100,8 +100,14 @@ blockquote {
 }*/
 
 blockquote p {
-  padding: 0px;
+  padding: 8px;
   margin: 0px;
+  display: block;
+  color: var(--color-red);
+  background-color: var(--color-white);
+  background: linear-gradient(167deg, var(--color-black) 63%, var(--color-white) 100%);
+  font-family: var(--title-font);
+  clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
 }
 
 /*blockquote p:before {
@@ -286,10 +292,9 @@ table.special td {
 pre {
   white-space: pre-wrap;
   background-color: var(--color-white);
-  background: linear-gradient(125deg, rgba(255,152,0,1) 0%, rgba(216,0,216,1) 50%);
-  padding: 10px;
+  background: linear-gradient(125deg, var(--color-white) 0%, var(--color-red) 50%);
+  padding: 2px;
   margin: 10px 0px;
-  position: relative;
   clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
 }
  
@@ -324,12 +329,15 @@ pre:after {
 }*/
 
 pre code {
-  padding: 0px;
+  padding: 8px;
   margin: 0px;
-  color: var(--color-black);
+  display: block;
+  color: var(--color-white);
+  background-color: var(--color-black);
+  background: linear-gradient(167deg, var(--color-red) 13%, var(--color-black) 53%);
   font-family: var(--title-font);
+  clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
   font-size: 16px;
-  position: relative;
   white-space: pre-wrap;
 }
 

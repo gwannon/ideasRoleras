@@ -4,7 +4,7 @@
 
 \conc
 
-**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://fari-rpgs.itch.io/breathless-srd) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de __mercs__ enviades por mega-corps enemigas para interceptarte.**
+**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://fari-rpgs.itch.io/breathless-srd) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviades por mega-corps enemigas para interceptarte.**
 
 ```
 En un mundo hipertecnificado, la forma más eficaz para evitar que te hackeen información es que esta sea física. Todo dato sensible es mejor tenerlo en papel y moverlo fisicamente. Recuerda, si va por la red es hackeable.
@@ -98,15 +98,15 @@ Solo se pueden llevar 3 objetos y 1 botiquín la bandolera.
 
 ### Chute de adrenalina
 
-Cuando todo se complica, puedes intentar recurrir a tu adrenalina y hacer una tirada con un d12 es vez de una tirada con tu rango de habilidad actual.
+Cuando todo se complica, puedes intentar recurrir a tu adrenalina y hacer una **tirada con un d12** es vez de una tirada con tu rango de habilidad actual.
 
-Una vez gastado el golpe de adrenalina, no podrás usarlo de nuevo hasta que **recuperes el resuello**.
+Una vez gastado el subidón de adrenalina, no podrás usarlo de nuevo hasta que **recuperes el resuello**.
 
 ### Cansancio
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de estrés. Si tu personaje alcanza 4 niveles de cansancio, estás agotade.
+Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de cansancio. Si tu personaje alcanza 4 niveles de cansancio, estás agotade.
 
-Cuando estás agotade, fallar una acción peligrosa significa **quedarte atrás**, perderte la entrega y seguramente volver a la base sin haber cumplido la entrega.
+Cuando estás agotade, fallar una acción peligrosa significa **quedarte atrás, perder el paquete** y seguramente volver a la base **sin haber cumplido la entrega**.
 
 #### PowerWater™
 
@@ -123,7 +123,7 @@ Los personajes tienen un total de 6 habilidades:
 * **Golpear:** Destrozar, empujar, doblar.
 * **Moverse:** Correr, saltar, trepar.
 * **Acechar:** Esconderse, husmear, merodear.
-* **Callejear:** Orientarse, seguir, atajar.
+* **Callejear:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
@@ -145,8 +145,12 @@ Todas las entregas empiezan con un contrato. Algunos son muy simples, llevar el 
 
 * El punto de recogida XXX
 * El punto de entrega XXX
-* El limite de tiempo XXX
+* El límite de tiempo XXX
 * El interés/valor del paquete XXX
+
+XXX
+
+#### Negociar el contrato
 
 XXX
 
@@ -193,6 +197,16 @@ Los obstáculos son eventos y situaciones que les menserejes se va a encontrar e
 
 XXX
 
+En «Entrega el paquete» no existen habilidades de combate, no puedes enfrentarte a eses mercenaries armades hasta los dientes y hasta arriba de ciberimplantes. Solo puedes esquivarles o engañarles y seguir corriendo hasta el punto de entrega.
+
+### Baja tecnología
+
+XXX
+
+### Jerga mensaka
+
+XXX
+
 ### Llamando a los refuerzos
 
 XXX
@@ -229,7 +243,10 @@ Si deseas inspiración para crear tus tramas, estás son algunas obras que me ha
 
 Este listado de términos en argot te pueden ayudar a ambientar tus entregas.
 
+* **Chapas:** Mercenaries hasta arriba de ciberimplantes y armas.
+* **Megacorp:** Megacorporación.
 * **Mensaka:** XXX
+* **Patata caliente:** XXX
 * **XXX:** XXX
 
 ## Licencia 
