@@ -607,3 +607,6 @@ mensaka
 PowerWater
 mensajeres
 mensakas
+ciberimplantes
+megacorp
+megacorps

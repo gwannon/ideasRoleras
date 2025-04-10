@@ -21,12 +21,20 @@ Las empresas de mensajería son empresas bastante atípicas en comparación con 
 Poco a poco se fueron profesionalizando, estableciendo tarifas y ponían una cuota mensual para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Les mensakas nueves que se apuntan a la cooperativa pagan una cuota de entrada tras ser aceptaba su solicitud de ingreso en la cooperativa y luego una cuota mensual para usar los servicios.
 
 Les mensakas independientes suelen ser practicantes de disciplinas como parkour o skating que empiezan a trabajar de mensajeres para monetizar su afición, pero sin convertirlo en un modo de vida. Si quieren dedicarse profesionalmente, suelen unirse a una cooperativa.
-e
+
 ## Parkour, skaters, BMX y otros estilos
 
-Cada mensaka tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus saltos y sus descensos a toda velocidad y ciclistes con sus ebikes de BMX.
+Cada mensaka tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus tablas y patines y ciclistes con sus bicis de BMX.
 
-Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, enfermeres en caso del parkour o mecániques de bicis para les especialistes en BMX.
+Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, fisioterapeutas en caso del parkour o mecániques de bicis para les especialistes en BMX.
+
+## Contratos calientes
+
+La mayoría de las entregas las hace une unique mensaka. Recoge el paquete, lo transporta y lo entrega sin, a priori incidentes. El contrato es estándar y normalmente se hace a través de la web.
+
+Pero de vez en cuando hay contratos calientes. Se denominan contratos calientes a las entregas peligrosas. 
+
+XXX
 
 \sp
 
@@ -56,13 +64,13 @@ Si lo desea le DJ puede dejar una decisión de partida a la suerte. Simplemente 
 
 ### Recuperar el resuello
 
-Para recuperar todas tus habilidades, debes «recuperar el resuello». Se trata de un breve descanso para poder respirar, bajar tus pulsaciones y pensar tu propio paso. Para recuperar el resuello debes **fuera de peligro u oculte** a la vista de enemigues.
+Para recuperar todas tus habilidades, debes «recuperar el resuello». Se trata de un breve descanso para poder respirar, bajar tus pulsaciones y pensar tu siguiente paso. Para recuperar el resuello debes estar **fuera de peligro u oculte a la vista de enemigues**.
 
 Cuando un personaje recupera el resuello, le DJ observa la situación y presenta una nueva complicación al grupo.
 
 ### Tiradas de saqueo
 
-Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar herramientas, armas, botiquines, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercs.
+Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar herramientas, repuestos, botellines de PowerWater™, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercs.
 
 Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
 
@@ -84,17 +92,16 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d8 en la
 |2|Pegamento|
 |3|Piezas de repuesto|
 |4|Cinta americana|
-|5|Bate o similar|
-|6|XXX|
-|7|XXX|
-|8|Batería|
-
+|5|Cuerda de escalada|
+|6|Drogas estimulantes|
+|7|Herramientas|
+|8|Hilo de nylon|
 
 ### Bandolera de mensaka
 
 Los objetos de tu bandolera pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. Al reducirse a un d4, el objeto se rompe, se pierde o desaparece de la historia.
 
-Solo se pueden llevar 3 objetos y 1 botiquín la bandolera.
+Solo se pueden llevar 3 objetos y 1 botella de PowerWater™ la bandolera.
 
 ### Chute de adrenalina
 
@@ -114,13 +121,13 @@ Puedes usar una botella de PowerWater™, la mejor bebida energética del mercad
 
 ### Tu mensaka
 
-En tu hoja de mensaka, anota el mote, los pronombres de tu personaje y cómo se mueve, parkour, roller, skate, ebike.
+En tu hoja de mensaka, anota el mote, los pronombres de tu personaje y cómo se mueve, parkour, roller, skate, bici BMX.
 
 Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8 y un d6 a tres habilidades en las que creas que tu personaje destaca.
 
 Los personajes tienen un total de 6 habilidades:
 
-* **Golpear:** Destrozar, empujar, doblar.
+* **Empujar:** Abrirte paso, doblar, destrozar.
 * **Moverse:** Correr, saltar, trepar.
 * **Acechar:** Esconderse, husmear, merodear.
 * **Callejear:** Orientarse, perseguir, atajar.
@@ -137,7 +144,7 @@ Al comenzar la entrega, llevarás en tu bandolera una pieza de equipo aleatoria 
 
 \conc
 
-Las entregas tienen sus propias reglas que las hacen caóticas y frenéticas.
+En «Entrega el paquete» las aventuras se denominan entregas. Las entregas tienen una serie de reglas propias que las hacen caóticas y frenéticas.
 
 ### El contrato
 
@@ -147,14 +154,34 @@ Todas las entregas empiezan con un contrato. Algunos son muy simples, llevar el 
 * El punto de entrega XXX
 * El límite de tiempo XXX
 * El interés/valor del paquete XXX
+* Número de mensajeres y señuelos.
 
 XXX
+
+```
+Escribir un contrato de entrega es una forma muy rápida de montar una entrega a la que luego solo tienes que meter detalles que le den sabor.
+```
 
 #### Negociar el contrato
 
+> Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
+
 XXX
 
+Aparte de los puntos principales, hay algunos anexos que la megacorp puede intentar imponer antes de firmar el contrato.
+
+* Paquete rastreable.
+* Mensaka sujeto al paquete mediante esposas explosivas o cinchas guillotina.
+* Puntos de control.
+* Seguro de salud y/o vida para el mensaka.
+* Responsabilidad en caso de perder el paquete.
+* Obligaciones y multas en caso de rotura de contrato por ambas partes.
+
 ### No preguntes por el paquete, solo entrégalo
+
+XXX
+
+#### Dimensiones del paquete
 
 XXX
 
@@ -162,11 +189,7 @@ XXX
 
 XXX
 
-> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras.
-
-### Siempre hacia adelante
-
-XXX
+> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras. __HeraGod, mensaka veterana__
 
 ### ¿Quién lleva el paquete?
 
@@ -174,32 +197,54 @@ XXX
 
 Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada por los mercs enviados y la megacorp enemiga consigue lo que había dentro.
 
-Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entregsa.
+Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entrega.
+
+Hay entregas que por contrato exigen que le mensajere lleve sujeto el paquete con algún tipo de artilugio de seguridad, tipo esposas explosivas o cinchas cortadoras.
+
+Le mensajere no podrá pasar el paquete a otros compañeres, pero tampoco podrá perderlo o se lo podrán robar. Solo podrán quitárselo en el punto de entrega con algún código especial. Si se intenta romper o hackear lo más seguro es que pierda la mano, pero a situaciones desesperadas, medidas desesperadas.
+
+> ¿Esto? Esto es papel de aluminio. No será la primera vez que una megacorp me dice que no ha puesto un rastreador y si lo ha puesto. Es un grave incumplimiento de contrato, pero el que se la juega soy yo. __JackRunner, mensaka conspiranoico__
+
+Por defecto, los paquetes no llevan rastreadores, pero pueden exigirlo por contrato. Con un rastreador le contratante puede seguir el paquete y rastrearlo si se pierde, pero se arriesga a que las megacorps enemigas intercepten su señal.
+
+### Siempre hacia adelante
+
+XXX
+
+\sp
 
 ### Obstáculos
 
-Los obstáculos son eventos y situaciones que les menserejes se va a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
+Los obstáculos son eventos y situaciones que les mensejeres se va a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
 
 |1d10|Obstáculo|
 |---|---|
 |1|**Tiroteo entre dos bandas rivales:** XXX|
 |2|**XXX:** XXX|
 |3|**XXX:** XXX|
-|4|**XXX:** XXX|
+|4|**Fila de máquinas de vending:** Puedes hacer una tirada de saqueo. Si sale un 1 repites la tirada.|
 |5|**XXX:** XXX|
-|6|**XXX:** XXX|
+|6|**Procesión:** Algún tipo de secta religiosa está haciendo celebraciones en la calle y está toda la zona colapsada por devotes celebrando sus creencias.|
 |7|**XXX:** XXX|
 |8|**XXX:** XXX|
 |9|**XXX:** XXX|
 |10|**XXX:** XXX|
 
+### Trampas
+
+> Siempre hay trampas. Otra cosa es que tú no la veas. __HeraGod, mensaka veterana__
+
+XXX
+
 ### Mercs y megacorps
 
 XXX
 
-En «Entrega el paquete» no existen habilidades de combate, no puedes enfrentarte a eses mercenaries armades hasta los dientes y hasta arriba de ciberimplantes. Solo puedes esquivarles o engañarles y seguir corriendo hasta el punto de entrega.
+En «Entrega el paquete» no existen habilidades de combate, no puedes enfrentarte a eses mercenaries armades hasta los dientes y con más ciberimplantes que carne. Solo puedes esquivarles o engañarles y seguir avanzando hasta el punto de entrega.
 
 ### Baja tecnología
+
+> Mi viejo siempre decía "el metal se hunde, la carne flota". __Goldmill, entrenador de mensakas__
 
 XXX
 
@@ -207,9 +252,17 @@ XXX
 
 XXX
 
-### Llamando a los refuerzos
+### Llamar a la base
+
+> Llamar a la base es de cobardes, ¿eres une cobarde? __Jeindal, mensaka retirado__
+
+Cuando las cosas están muy muy muy chungas, puedes llamar a la base a pedir ayuda.
 
 XXX
+
+Llamar a la base es una opción excepcional que solo se puede hacer cuando no hay otro recurso. 
+
+Eso supone que todes tus mensakas han gastado sus chutes de adrenalina, no tienen ningún ítem de equipo, ni les queda PowerWater™ y el grupo tiene más del 50% del cansancio total gastado.
 
 \sinc
 
@@ -227,7 +280,7 @@ XXX
 
 ## Hoja de contrato
 
-XXX
+|HojaContrato.html|
 
 ## Fuentes
 
@@ -245,8 +298,12 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas.
 
 * **Chapas:** Mercenaries hasta arriba de ciberimplantes y armas.
 * **Megacorp:** Megacorporación.
-* **Mensaka:** XXX
-* **Patata caliente:** XXX
+* **Mensaka:** Mensajere.
+* **Merc:** Mercenarie.
+* **Palomas:** Drones voladores espías que te siguen.
+* **Patata caliente:** Es un paquete peligroso que todo el mundo quiere conseguir.
+* **Tagueado:** Que lleva un rastreador.
+* **Charlie:** Punto de control, viene de Checkpoint Charlie. 
 * **XXX:** XXX
 
 ## Licencia 

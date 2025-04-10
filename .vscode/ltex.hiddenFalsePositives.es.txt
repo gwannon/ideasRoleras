@@ -93,3 +93,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSheets.bas (Código propietario pirateado)\\E$"}
 {"rule":"ESPACIO_DESPUES_DE_PUNTO","sentence":"^\\QSheets.bas (Código propietario pirateado)\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qbin/exe:\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QTirada Resultado\\E$"}

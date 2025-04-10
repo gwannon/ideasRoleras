@@ -8,8 +8,8 @@
 }
 
 body {
-  background: var(--color-black) url(./images/bg.png) repeat-y top left;
-  background-size: 120px auto;
+  background: var(--color-black) url(./images/bg.jpg) repeat top left;
+  background-size: contain;
   margin: 0;
   padding: 0;
   font-family: var(--text-font);
@@ -339,6 +339,13 @@ pre code {
   clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
   font-size: 16px;
   white-space: pre-wrap;
+  text-shadow: 0px 0px 4px var(--color-black);
+}
+
+blockquote p strong {
+  display: block;
+  text-align: right;
+  text-shadow: 0px 0px 4px var(--color-black);
 }
 
 /*del {
