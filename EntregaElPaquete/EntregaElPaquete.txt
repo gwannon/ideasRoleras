@@ -1,5 +1,5 @@
 InfoKey: Title
-InfoValue: Entrega el paquete
+InfoValue: Entrega el paquete 0.7
 
 InfoKey: Subject
 InfoValue: «Entrega el paquete» en una mini-ambientación ciberpunk para Breathless donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.

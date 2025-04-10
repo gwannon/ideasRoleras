@@ -380,6 +380,12 @@ del:after {
   transform-origin: center;
 }*/
 
+hr  {
+  border: 3px dashed var(--color-white);
+  margin-bottom: 25px;
+  margin-top: -10px;
+}
+
 @media screen {
   .saltopagina {
     border-top: 3px dashed var(--color-white);
