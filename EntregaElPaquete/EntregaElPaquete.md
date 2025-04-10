@@ -241,16 +241,20 @@ Los obstáculos son eventos y situaciones que les mensejeres se va a encontrar e
 
 |1d10|Obstáculo|
 |---|---|
-|1|**Tiroteo entre dos bandas rivales:** Dos bandas rivales estan parapetadas tras varios vehículos a ambos lados de la calle y no paran de intercambiar disparos.|
-|2|**XXX:** XXX|
-|3|**XXX:** XXX|
-|4|**Fila de máquinas de vending:** Puedes hacer una tirada de saqueo. Si sale un 1 repites la tirada.|
-|5|**XXX:** XXX|
+|1|**Tiroteo entre dos bandas rivales:** Dos bandas rivales están parapetadas tras varios vehículos a ambos lados de la calle y no paran de intercambiar disparos.|
+|2|**Tren elevado:** XXX|
+|3|**Paso inundado:** La única forma de cruzar la autopista de 16 carriles es un paso subterráneo que está inundado de aguas sépticas.|
+|4|**Fila de máquinas de vending:** en la calle hay una larguísima fila de máquinas de vending. Puedes hacer una tirada de saqueo. Si sale un 1 repites la tirada.|
+|5|**Ambulancia:** Una ambulancia con las luces puestas va en vuestra dirección si os engancháis a ella u os subís encima podría haceros avanzar mucho.|
 |6|**Procesión:** Algún tipo de secta religiosa está haciendo celebraciones en la calle y está toda la zona colapsada por devotes celebrando sus creencias.|
+
+|1d10|Obstáculo|
+|---|---|
 |7|**Puente sobre el canal:** Un estrecho puente de metal y cable es la única forma de cruzar el canal u otra superficie de agua.|
-|8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no es un callejón sin salida.|
+|8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no, es un callejón sin salida.|
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
-|10|**XXX:** XXX|
+|10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
+|11|**Ciberpsicopata:** Un ciberpsicopata con un lanzallamas de guerra y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de personas.|
 
 ### Trampas
 
@@ -278,6 +282,8 @@ Les mercs no entran en acción desde el minuto uno de la entrega. XXX
 
 La policía está comprada y no es tu amiga, No la llames bajo ningún concepto.
 
+\sp
+
 ### Baja tecnología
 
 > Mi viejo siempre decía «el metal se hunde, la carne flota». __Goldmill, entrenador de mensakas__
@@ -291,8 +297,6 @@ Les mensakas usan su propia jerga, un lenguaje secreto y propio de cada cooperat
 ```
 Déjales que en sus interacciones se inventen poco a poco esa jerga y la integren luego en sus diálogos.
 ```
-
-\sp
 
 ### Llamar a la base
 
