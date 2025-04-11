@@ -266,6 +266,18 @@ Los combates son como los duelos de insultos del Monkeys Island, donde tus palab
 
 Quizás tengas que hacer pintadas en el templo explicando tu filosofía, dar una charla a tus seguidoras y seguidores u organizar un simposio o una bacanal para tus simpatizantes.
 
+### Foodtrucks wars
+
+Un indie donde juegas con el personal de una furgoneta de comida, pero con rollo mafioso y lucha de bandas.
+
+Habría luchas, comerciales y físicas, por los mejores territorios, sabotajes, sobornos a la policía y al ayuntamiento.
+
+Podrías tener que robarle su salsa secreta a la competencia o contratar a empleados de otros Foodtrucks para fastidiarles. Quizás tengas que proteger tu laboratorio ilegal donde haces tu superpicante chili con carne.
+
+En vez de grandes familias mafiosas, habría cárteles por cada tipo de comida, tacos y burritos, wok, perritos calientes, kebabs, ...
+
+\sp
+
 ### Graffiti World
 
 Sería una campaña donde juegas con grafitis. Una gran nada blanca (el empleado de mantenimiento que está tapando los grafitis de las paredes de un edificio abandonado con pintura blanca) ha acabado con tu mural/pueblo y te lanzas a la aventura de pararlo.
