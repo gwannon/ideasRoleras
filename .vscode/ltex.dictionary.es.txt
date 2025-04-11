@@ -616,3 +616,6 @@ mercs
 Mercs
 vending
 ciberpsicopata
+Fernand0FC
+Attribution
+1d20

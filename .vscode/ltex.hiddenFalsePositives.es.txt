@@ -94,3 +94,4 @@
 {"rule":"ESPACIO_DESPUES_DE_PUNTO","sentence":"^\\QSheets.bas (Código propietario pirateado)\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qbin/exe:\\E$"}
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QTirada Resultado\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QQué mejor forma de recuperar el resuello que sorbiendo unos fideos escondido tras las cortinas de un pequeño ramen-ya, mientras fuera te buscan una panda de mercs.\\E$"}

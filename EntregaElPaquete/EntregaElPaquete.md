@@ -26,9 +26,9 @@ Les mensakas independientes suelen ser practicantes de disciplinas como parkour 
 
 Cada mensaka tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus tablas y patines y ciclistes con sus bicis de BMX.
 
-[![Delivery By Fernand0FC](./images/delivery_by_fernand0fc_dd9kr8q-pre.png "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
-
 Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, fisioterapeutas en caso del parkour o mecániques de bicis para les especialistes en BMX.
+
+[![Delivery By Fernand0FC](./images/delivery_by_fernand0fc_dd9kr8q-pre.png "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
 
 ## Contratos calientes
 
@@ -103,9 +103,9 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |11|Lubricante industrial|
 |12|Binoculares|
 |13|Bolas de rodamiento|
-|14|Cortacables|
+|14|Cizallas|
 |15|Cadena|
-|16|XXX|
+|16|Cúter monofilamento|
 |17|Pelota superrebotante|
 |18|Linterna|
 |19|Queso en espray|
@@ -150,11 +150,21 @@ Los personajes tienen un total de 6 habilidades:
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-Al comenzar la entrega, llevarás en tu bandolera una pieza de equipo aleatoria a nivel de d10.
+Por último, tienes una **pieza de equipo especial, que empieza con d10 y que representa la forma de moverte que usas**, pueden ser zapatillas de correr, tu bici, tu tabla de skate, etc.
+
+A diferencia del equipo vuelve a tener un d10 cuando recuperas el resuello, como una habilidad, pero se puede romper, perder o ser robada como una pieza de equipo.
+
+Al comenzar cada entrega, llevarás en tu bandolera una pieza de equipo aleatoria a nivel de d10.
+
+&nbsp;
+
+&nbsp;
 
 \sc
 
+
 [![moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "moar girls form a dystopian future By Fernand0FC")
+
 
 \sinc
 
@@ -186,16 +196,20 @@ Escribir un contrato es una forma muy rápida de montar una entrega a la que lue
 
 > Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
 
+\sc
+
 XXX
 
 Aparte de los puntos principales, hay algunos anexos que la megacorp puede intentar imponer antes de firmar el contrato.
 
 * Paquete rastreable.
 * Mensaka sujeto al paquete mediante esposas explosivas o cinchas guillotina.
-* Puntos de control. Le cliente puede exigir que pases por unos puntos para que controlen que 
+* Puntos de control. Le cliente puede exigir que pases por unos puntos para que controlen tus progresos.
 * Seguro de salud y/o vida para el mensaka.
 * Responsabilidad en caso de perder el paquete.
 * Obligaciones y multas en caso de rotura de contrato por ambas partes.
+* Grabación de carreras con cámara personal para estudiar la entrega y ver quien ha querido interceptar en el envío.
+* Medio de transporte a usar. Pueden pedir que no se vaya en bici o que tenga que ir todos en rollers.
 
 ### No preguntes por el paquete, solo entrégalo
 
@@ -206,6 +220,8 @@ XXX
 #### Dimensiones del paquete
 
 XXX
+
+\sp
 
 #### No abras el paquete
 
@@ -218,8 +234,6 @@ XXX
 XXX
 
 Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada por los mercs enviados y la megacorp enemiga consigue lo que había dentro.
-
-\sp
 
 Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entrega.
 
@@ -235,6 +249,10 @@ Por defecto, los paquetes no llevan rastreadores, pero pueden exigirlo por contr
 
 XXX
 
+#### No hay tiempo de preparación
+
+XXX
+
 ### Obstáculos
 
 Los obstáculos son eventos y situaciones que les mensejeres se van a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
@@ -243,15 +261,15 @@ Los obstáculos son eventos y situaciones que les mensejeres se van a encontrar 
 |---|---|
 |1|**Tiroteo entre dos bandas rivales:** Dos bandas rivales están parapetadas tras varios vehículos a ambos lados de la calle y no paran de intercambiar disparos.|
 |2|**Tren elevado:** XXX|
-|3|**Paso inundado:** La única forma de cruzar la autopista de 16 carriles es un paso subterráneo que está inundado de aguas sépticas.|
-|4|**Fila de máquinas de vending:** en la calle hay una larguísima fila de máquinas de vending. Puedes hacer una tirada de saqueo. Si sale un 1 repites la tirada.|
-|5|**Ambulancia:** Una ambulancia con las luces puestas va en vuestra dirección si os engancháis a ella u os subís encima podría haceros avanzar mucho.|
-|6|**Procesión:** Algún tipo de secta religiosa está haciendo celebraciones en la calle y está toda la zona colapsada por devotes celebrando sus creencias.|
 
 \sc
 
 |1d10|Obstáculo|
 |---|---|
+|3|**Paso inundado:** La única forma de cruzar la autopista de 16 carriles es un paso subterráneo que está inundado de aguas sépticas.|
+|4|**Fila de máquinas de vending:** en la calle hay una larguísima fila de máquinas de vending. Puedes hacer una tirada de saqueo. Si sale un 1 repites la tirada.|
+|5|**Ambulancia:** Una ambulancia con las luces puestas va en vuestra dirección si os engancháis a ella u os subís encima podría haceros avanzar mucho.|
+|6|**Procesión:** Algún tipo de secta religiosa está haciendo celebraciones en la calle y está toda la zona colapsada por devotes celebrando sus creencias.|
 |7|**Puente sobre el canal:** Un estrecho puente de metal y cable es la única forma de cruzar el canal u otra superficie de agua.|
 |8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no, es un callejón sin salida.|
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
@@ -274,11 +292,13 @@ En «Entrega el paquete» no existen habilidades de combate, no puedes enfrentar
 Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan mascaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
 ```
 
+\sp
+
+[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
+
 Si quieres darle más vida, debes definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que son buenos. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
 
 Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninja. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una mascara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja poca opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
-
-\sp
 
 #### Enter mercs
 
@@ -286,7 +306,11 @@ Les mercs no entran en acción desde el minuto uno de la entrega. XXX
 
 Les mercs tiene normalmente 3 formas de actuar.
 
-* **Acción directa:** te buscan hasta dar contigo y usan todo lo que tienen para detenerte.
+* **Acción directa:** Te buscan hasta dar contigo y usan todo lo que tienen para detenerte.
+* **Emboscadas y trampas:** Montan unas emboscadas o te tienden una trampa. Está opción exige tener información extra sobre la entrega que les permita saber por donde vas a pasar. 
+* **Buscar la manera para que tú vayas a ellos:** Pueden desde tratar de sobornarte con ingentes cantidades de chips, hasta secuestrar a algún ser querido o capturar a une compañere que estaba en tu entrega contigo. Buscarán llegar a una negociación que puede o no acabar bien o en traición.
+
+XXX
 
 #### ¿Y si llamo a la policía?
 
@@ -306,7 +330,7 @@ XXX
 
 Las comunicaciones son todas verbales, nada de mensajes o videollamadas, nada que pueda ser hackeado electrónicamente. Usan su jerga de mensakas para «encriptar» sus comunicaciones y XXX.
 
-Si necesitan hablar con la base, tienen chips sueltos para llamar desde una cabina telefonica blindada. Y no es la primera vez que roban un móvil de une descuidade transeúnte mientras escapan corriendo de una panda de mercs.
+Si necesitan hablar con la base, tienen chips sueltos para llamar desde una inter-cabina blindada. Y no es la primera vez que roban un móvil de une descuidade transeúnte mientras escapan corriendo de una panda de mercs.
 
 ### Jerga mensaka
 
@@ -328,9 +352,27 @@ Llamar a la base es una opción excepcional que solo se puede hacer cuando no ha
 
 Eso supone que todes tus mensakas han gastado sus chutes de adrenalina, no tienen ningún ítem de equipo, ni les queda PowerWater™ y el grupo tiene más del 50% del cansancio total gastado.
 
+\sp
+
 Llamar a la base tiene un coste y es que seguramente le **deberéis un favor a alguien** y todo el mundo sabe que en una ambientación ciberpunk deber un favor significa problemas más grandes en el futuro.
 
 Seguro que vuestre benefactore, querrá cobrarse el favor haciendo que entreguéis algo ilegal o que hagáis la entrega en territorio de una megacorp enemiga. Igual transportáis una bomba que explotará cuando se abra. Puede ser cualquier cosa y estás obligade a cumplirlo.
+
+### Toques ciberpunk
+
+Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
+
+* Siempre tiene que **llover en el momento más inoportuno**.
+* **En la ciudad siempre hay mucha acción**, el grupo de mercs que te sigue no es único. El sonido de las UCI móviles militarizadas es constante y a la vuelta de cualquier esquina, puede haber un tiroteo.
+* Las rutas no siempre irán por sitios cutres y sucios, algunas veces **pasarás por lugares elegantes y de mucho dinero**. Quién dice que no puedes acabar en una biblioteca o un museo.
+* Hay **puestos de comida callejera en todas partes** y preparan de todo. Qué mejor forma de recuperar el resuello que sorbiendo unos fideos escondido tras las cortinas de un pequeño ramen-ya, mientras fuera te buscan una panda de mercs.
+* Hay **publicidad en todas partes**, hasta en tu ropa puede haber logos de patrocinadores. Seguramente que la gente de marketing ha aprovechado a meter logos de la megacorp en el paquete por si tu persecución o el tiroteo en que vayas a morir es grabado y sale en la red.
+* Las **drogas son faciles de conseguir**, ilegales unas y legales otras. Es muy facil encontrar alguien que venda las primeras o una máquina que dispense las segundas.
+* **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
+* Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
+* Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
+
+> Podría ser peor, podría llover - __Igor «El jovencito Frankenstein»__
 
 ### Semillas de entregas
 
@@ -362,7 +404,7 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 
 * **Chapas:** Mercenaries hasta arriba de ciberimplantes y armas.
 * **Charlie:** Punto de control, viene de Checkpoint Charlie.
-* **Felices para siempre:** Cuando tienes que llevar un paquete esposados a tu mano.
+* **Felices para siempre:** Cuando tienes que llevar un paquete esposado a tu mano.
 * **Megacorp:** Megacorporación.
 * **Mensaka:** Mensajere.
 * **Merc:** Mercenarie.
@@ -380,7 +422,9 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/),
 * Patrón en el interior de las páginas por [rawpixel.com](https://www.freepik.com/free-vector/red-black-patterned-background-vector_3463974.htm)
 * Game futuristic boxes future technology chests by [upklyak](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm)
 * Delivery By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Delivery-802145258) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
+* Corporate level bodyguard By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * moar girls form a dystopian future By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
+* Algunas ideas han sido sacadas de *[**Repartidores del Apocalipsis**](https://reroll.itch.io/1pag-cotarpg), un juego de una página donde juegas con repartidores en un mundo postapocalíptico. 
 
 &nbsp;
 

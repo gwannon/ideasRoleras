@@ -33,4 +33,13 @@ $html = preg_replace_callback("/<p>\|([a-zA-Z]*)\.html\|<\/p>/", function($match
   return $matches[0];
 }, $html);
 
+$counter = 1;
+$html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
+  global $counter;
+  if ($counter%2 == 0) $matches[0] = '"saltopagina even"';
+  else $matches[0] = '"saltopagina odd"';
+  $counter++;
+  return $matches[0];
+}, $html);
+
 file_put_contents(__DIR__ . "/".$argv[1].".html", $html);

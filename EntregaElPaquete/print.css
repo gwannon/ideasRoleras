@@ -440,10 +440,20 @@ body {
   content: counters(primary, "-", style);
   position: absolute;
   bottom: 20px;
-  right: 50%;
+  right: -40px;
   width: var(--size);
   height: var(--size);
   z-index: 10;
   opacity: 1;
   font-size: 1.5em;
+  padding: 5px 5px 3px;
+  color: var(--color-black);
+  background-color: var(--color-red);
+  clip-path:polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 5px 100%, 0% calc(100% - 5px) );
+}
+
+.saltopagina.even:after {
+  right: auto;
+  left: -40px;
+  background-color: var(--color-white);
 }
