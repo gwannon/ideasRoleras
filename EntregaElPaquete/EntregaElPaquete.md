@@ -1,6 +1,6 @@
 \sinc
 
-# Entrega el paquete 0.7 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Entrega el paquete 0.8 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
 \conc
 
@@ -94,18 +94,18 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |2|Pegamento|
 |3|Piezas de repuesto|
 |4|Cinta americana|
-|5|Cuerda de escalada|
+|5|Cuerda de escalada y mosquetones|
 |6|Drogas estimulantes|
 |7|Multi-herramienta|
 |8|Hilo de nilón|
 |9|Espray de pintura|
 |10|Alambre de espino|
-|11|Lubricante|
+|11|Lubricante industrial|
 |12|Binoculares|
 |13|Bolas de rodamiento|
 |14|Cortacables|
 |15|Cadena|
-|16|Mosquetones|
+|16|XXX|
 |17|Pelota superrebotante|
 |18|Linterna|
 |19|Queso en espray|
@@ -237,7 +237,7 @@ XXX
 
 ### Obstáculos
 
-Los obstáculos son eventos y situaciones que les mensejeres se va a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
+Los obstáculos son eventos y situaciones que les mensejeres se van a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
 
 |1d10|Obstáculo|
 |---|---|
@@ -248,13 +248,15 @@ Los obstáculos son eventos y situaciones que les mensejeres se va a encontrar e
 |5|**Ambulancia:** Una ambulancia con las luces puestas va en vuestra dirección si os engancháis a ella u os subís encima podría haceros avanzar mucho.|
 |6|**Procesión:** Algún tipo de secta religiosa está haciendo celebraciones en la calle y está toda la zona colapsada por devotes celebrando sus creencias.|
 
+\sc
+
 |1d10|Obstáculo|
 |---|---|
 |7|**Puente sobre el canal:** Un estrecho puente de metal y cable es la única forma de cruzar el canal u otra superficie de agua.|
 |8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no, es un callejón sin salida.|
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
 |10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
-|11|**Ciberpsicopata:** Un ciberpsicopata con un lanzallamas de guerra y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de personas.|
+|11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de pasajeres.|
 
 ### Trampas
 
@@ -269,26 +271,42 @@ XXX
 En «Entrega el paquete» no existen habilidades de combate, no puedes enfrentarte a eses mercenaries armades hasta los dientes y con más ciberimplantes que carne. Solo puedes esquivarles o engañarles y seguir avanzando hasta el punto de entrega.
 
 ```
-Las bandas de mercs siempre tienen un nombre y un tema (van de samurais, son calvos o va rapados, llevan mascaras de hockey, etc.)  Ten ambos conceptos preparados, que no parezca que te la acabas de inventar.
+Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan mascaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
 ```
+
+Si quieres darle más vida, debes definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que son buenos. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
+
+Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninja. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una mascara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja poca opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
+
+\sp
 
 #### Enter mercs
 
 Les mercs no entran en acción desde el minuto uno de la entrega. XXX
 
+Les mercs tiene normalmente 3 formas de actuar.
+
+* **Acción directa:** te buscan hasta dar contigo y usan todo lo que tienen para detenerte.
+
 #### ¿Y si llamo a la policía?
 
 > A.C.A.B. All Cops Are Bastards __Graffiti callejero__
 
-La policía está comprada y no es tu amiga, No la llames bajo ningún concepto.
-
-\sp
+La policía está comprada y no es tu amiga, No la llames bajo ningún concepto a no ser que quieras a tener a otro grupo armado detrás tuyo.
 
 ### Baja tecnología
 
 > Mi viejo siempre decía «el metal se hunde, la carne flota». __Goldmill, entrenador de mensakas__
 
+El mundo de la mensajería es un mundo donde la tecnología no ha entrado. Si no te fías de la tecnología para enviar tu información tampoco puedes fiarte de mensajes hasta arriba de ciberimplantes y equipo de alta tecnología.
+
+Les mensakas suelen ser de las personas de la ciudad con menos cromos en el cuerpo, quitando piercings y clavos en los huesos.
+
 XXX
+
+Las comunicaciones son todas verbales, nada de mensajes o videollamadas, nada que pueda ser hackeado electrónicamente. Usan su jerga de mensakas para «encriptar» sus comunicaciones y XXX.
+
+Si necesitan hablar con la base, tienen chips sueltos para llamar desde una cabina telefonica blindada. Y no es la primera vez que roban un móvil de une descuidade transeúnte mientras escapan corriendo de una panda de mercs.
 
 ### Jerga mensaka
 
