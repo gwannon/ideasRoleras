@@ -95,3 +95,7 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qbin/exe:\\E$"}
 {"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QTirada Resultado\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QQué mejor forma de recuperar el resuello que sorbiendo unos fideos escondido tras las cortinas de un pequeño ramen-ya, mientras fuera te buscan una panda de mercs.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QCuando une mensaka recupera el resuello, le DJ observa la situación y presenta una nueva complicación al grupo.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QSi lo desea, le DJ puede dejar una decisión de partida a la suerte.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLe DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a su puntuación. Si une compañere te ayuda, también realiza una tirada y ambos corréis los mismos riesgos.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLe DJ toma la tirada más alta e interpreta el resultado.\\E$"}

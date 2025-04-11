@@ -175,10 +175,38 @@ h4 {
 
 h2 {
   font-size: 1.8em;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--color-red);
+  margin-bottom: 15px;
 }
 
 h3 {
   font-size: 1.4em;
+  position: relative;
+  padding: 5px 10px !important;
+  display: inline-block;
+}
+
+h3:after {
+  content:" ";
+  position: absolute;
+  width: 35px;
+  height: 100%;
+  border: 2px solid var(--color-red);
+  border-left: none;
+  top: -3px;
+  right: 0px;
+}
+
+h3:before {
+  content:" ";
+  position: absolute;
+  width: 35px;
+  height: 100%;
+  border: 2px solid var(--color-red);
+  border-right: none;
+  top: -3px;
+  left: 0px;
 }
 
 h4 {
