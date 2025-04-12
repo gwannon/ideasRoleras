@@ -354,11 +354,13 @@ La policía está comprada y no es tu amiga, No la llames bajo ningún concepto 
 
 > Siempre hay trampas. Otra cosa es que tú no la veas. __HeraGodness, mensaka veterana__
 
-XXX
+Ya hemos dicho que **los mercs puede intentar crear emboscadas y trampas** y como tienen recursos pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero **siempre con una forma de eludirlas o escapar de ellas**. 
 
-**Las trampas van a necesitar equipo** y cuanto más complejas más equipo necesitarás y más gente trabajando en ellas. Una trampa simple puede ser sacar el bote de lubricante mientras corres y rociar el suelo para que tus perseguidores resbalen.
+Pero tus mensakas también van a poder jugar a ese juego, pero con muchísimos menos recursos y muchísimo más simples. Hablamos de bolas de rodamiento, de explosivos caseros y de cosas pesadas que caen del cielo.
 
 \sp
+
+**Las trampas van a necesitar equipo** y cuanto más complejas más equipo necesitarás y más gente trabajando en ellas. Una trampa simple puede ser sacar el bote de lubricante mientras corres y rociar el suelo para que tus perseguidores resbalen.
 
 Una trampa más compleja podría ser que une mensaka vacíe una botella de líquido inflamable debajo de un coche y otro ate una bengala a la puerta del coche para que se encienda al abrir la puerta y prenda todo.
 
@@ -382,7 +384,9 @@ Si necesitan hablar con la base, tienen chips sueltos para llamar desde una inte
 
 ### Jerga mensaka
 
-Les mensakas usan su propia jerga, un lenguaje secreto y propio de cada cooperativa, con él se comunican durante las misiones. No son complicados de entender, cualquier IA entrenada podría descifrarlo, pero lo son suficientemente enrevesadas para que una panda de mercs no sepa qué plan de escape estáis tramando mientras os retienen en un callejón con una lluvia de balas.
+Les mensakas usan su propia jerga, un lenguaje secreto y propio de cada cooperativa, con él se comunican durante las misiones. Se ha ido desarrollando con los años y no para de evolucionar con la gente nueva que entra.
+
+No son términos complicados de entender, con un poco de tiempo cualquier IA entrenada podría descifrarlo, pero lo son suficientemente enrevesadas para que una panda de mercs hasta arriba de sintedrogas de combate no sepa qué plan de escape estáis tramando mientras os retienen en un callejón con una lluvia de balas.
 
 ```
 Déjales que en sus interacciones se inventen poco a poco esa jerga y la integren luego en sus diálogos.
@@ -413,11 +417,11 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 * Las rutas no siempre irán por sitios cutres y sucios, algunas veces **pasarás por lugares elegantes y de mucho dinero**. Quién dice que no puedes acabar en una biblioteca o un museo.
 * Hay **puestos de comida callejera en todas partes** y preparan de todo. Qué mejor forma de recuperar el resuello que sorbiendo unos fideos escondido tras las cortinas de un pequeño ramen-ya, mientras fuera te buscan una panda de mercs.
 * Hay **publicidad en todas partes**, hasta en tu ropa puede haber logos de patrocinadores. Seguramente que la gente de marketing ha aprovechado a meter logos de la megacorp en el paquete por si tu persecución o el tiroteo en que vayas a morir es grabado y sale en la red.
-* Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy facil encontrar alguien que venda las primeras o una máquina que dispense las segundas.
-* **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
 
 \sp
 
+* Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy facil encontrar alguien que venda las primeras o una máquina que dispense las segundas.
+* **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
 * Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
 * Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
 
