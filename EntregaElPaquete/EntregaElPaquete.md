@@ -1,6 +1,6 @@
 \sinc
 
-# Entrega el paquete 0.9 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Entrega el paquete 1.0 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
 \conc
 
@@ -159,7 +159,7 @@ A diferencia del equipo vuelve a tener un d10 cuando recuperas el resuello, como
 
 Al comenzar cada entrega, llevarás en tu bandolera una pieza de equipo aleatoria a nivel de d10.
 
-[![moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "moar girls form a dystopian future By Fernand0FC")
+[![Moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "Moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "Moar girls form a dystopian future By Fernand0FC")
 
 \sinc
 
@@ -202,11 +202,13 @@ Escribir un contrato es una forma muy rápida de montar una entrega a la que lue
 
 La negociación del contrato es algo que puedes hacerlo como DJ fuera de partida y que tus mensakas lo reciban de repente, cojan sus bandoleras y salgan a patearse las calles.
 
-La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permita meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control. 
+La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permita meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control.
+
+Recuerda que la pasta no es importante en partida, solo muestra el valor del contenido del paquete. Por darte una idea, 500 chips es un trabajillo menor, por 10.000 chips se va a montar una buena.
 
 ### No preguntes por el paquete, solo entrégalo
 
-XXX
+El paquete es el eje central de la trama de cada entrega. Es el objeto que todos quieren y tratan de conseguir y lo más divertido es que nadie sabe qué hay dentro. 
 
 [![Game futuristic boxes future technology chests by upklyak](./images/2212.w032.n002.702A.p30.702.png "Game futuristic boxes future technology chests by upklyak")](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm "Game futuristic boxes future technology chests by upklyak")
 
@@ -214,31 +216,33 @@ XXX
 
 Los paquetes pueden tener 3 tamaños:
 
-* **Pequeño como un Chip de datos.** Puedes esconderlo en cualquier parte de tu ropa o de tu cuerpo, incluso tragártelo.
+* **Pequeño como un Chip de datos.** Puedes esconderlo en cualquier parte de tu ropa o de tu cuerpo, incluso tragártelo, si fuera necesario.
 * **Medio como una caza de zapas.** Puedes llevarlo en la bandolera y te ocupa un espacio de bandolera.
 * **Grande como para no entrar en la bandolera.** No entra en tu bandolera y tienes que llevarlo en la mano.
 
 Cuando no entra en la bandolera, tienes que llevarlo en la mano y eso hace que te moleste cuando tratas de moverte. Piensa que es complicado escalar un muro con una sola mano. Quizás puedas hacer un arnés de cuerda o cinta americana o algún otro tipo de trucos.
 
-Para compensar los problemas que supone que no entre en la bandolera, cuando el paquete es grande, se convierte en un objeto que puedes usar en tus entregas con un d10. Puedes usarlo como escudo, porque está blindado, como flotador porque es estanco y flota, como trineo para deslizarte por cuestas, etc. Cuando llega a d4, la caja está tan dañada que no sirve de nada.
+Para compensar los problemas que supone que no entre en la bandolera, cuando el paquete es grande, se convierte en **un objeto que puedes usar en tus entregas con un d10**. Puedes usarlo como escudo porque está blindado, como flotador porque es estanco y flota, como trineo para deslizarte por cuestas, como ariete para tirar una puerta, etc. Cuando llega a d4, la caja está tan dañada que no sirve de nada, pero el contenido sigue a salvo.
 
 #### No abras el paquete
 
-XXX
+Esta regla fundamental de las entregas puede ser un elemento muy interesante para tu aventura y deberías poder jugar con ello durante las entregas.
+
+El paquete zumba, pesa mucho, pesa poco, les mercs lo tratan como si fueran explosivo, etc. Trata de jugar con esto y que cuando estén hasta en cuello tengan ganas de mandarlo todo a la mierda y abrir el paquete para saber por qué están a punto de palmarla.
+
+Abrir en paquete debería ser algo excepcional y casi siempre parte de la trama que hayas diseñado. Así que en situaciones muy chungas, saber lo que hay dentro del paquete puedes darles capacidad de negociación y hacer avanzar la historia, pero desde luego romperá el contrato y eso debería traer consecuencias.
 
 > Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras. __HeraGodness, mensaka veterana__
 
-### ¿Quién lleva el paquete?
+#### ¿Quién lleva el paquete?
 
-XXX
+Le mensaka que lleva el paquete se le suele llamar «ringer», y **es el puesto más peligroso**, ya que el paquete le convierte en el objetivo de todes les enemigues. Puede intentar ocultarlo o que haya otres mensakas con paquetes señuelos para engañar a les mercs. Si tus mensakas son astutes, sabrán aprovechar esta desventaja y usar al ringer para distraer a les mercs mientras el resto de compañeres buscan una salida.
 
-Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada por los mercs enviados y la megacorp enemiga consigue lo que había dentro.
+**Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada** por los mercs enviados y la megacorp enemiga consigue lo que había dentro.
 
 Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entrega.
 
-Hay entregas que por contrato exigen que le mensajere lleve sujeto el paquete con algún tipo de artilugio de seguridad, tipo esposas explosivas o cinchas cortadoras.
-
-Le mensajere no podrá pasar el paquete a otros compañeres, pero tampoco podrá perderlo o se lo podrán robar. Solo podrán quitárselo en el punto de entrega con algún código especial. Si se intenta romper o hackear lo más seguro es que pierda la mano, pero a situaciones desesperadas, medidas desesperadas.
+Hay entregas que por contrato exigen que le mensajere lleve sujeto el paquete con algún tipo de artilugio de seguridad, tipo esposas explosivas o cinchas cortadoras. Le mensajere no podrá pasar el paquete a otros compañeres, pero tampoco podrá perderlo o se lo podrán robar. Solo podrán quitárselo en el punto de entrega con algún código especial. Si se intenta romper o hackear lo más seguro es que pierda la mano, pero a situaciones desesperadas, medidas desesperadas.
 
 > ¿Esto? Esto es papel de aluminio. No será la primera vez que una megacorp me dice que no ha puesto un rastreador y si lo ha puesto. Es un grave incumplimiento de contrato, pero el que se la juega soy yo. __JackRunner, mensaka conspiranoico__
 
@@ -246,7 +250,9 @@ Por defecto, los paquetes no llevan rastreadores, pero pueden exigirlo por contr
 
 ### Siempre hacia adelante, siempre moviéndote
 
-La filosofía principal de este juego es «siempre hacia delante, siempre moviéndote». Tus jugadoras y jugadores deben tratar de ir siempre hacia adelante, nada de pararse a trazar un plan. El plan se hace mientras avanzas. Solo te pueden parar cuando quieras recuperar el resuello.
+La filosofía principal de este juego es «siempre hacia delante, siempre moviéndote». **Tus jugadoras y jugadores deben tratar de ir siempre hacia adelante, nada de pararse a trazar un plan.** El plan se hace mientras avanzas. Solo te pueden parar cuando quieras recuperar el resuello.
+
+\sp
 
 Piénsalo así, incluso cuando te escondes, algo normalmente muy estático, deberías seguir avanzado.
 
@@ -256,13 +262,11 @@ Si te cruzas con una manifestación, robas una chaqueta y una gorra y sigues cam
 Si ves que tus mensakas no pillan esta idea, puedes aplicar la siguiente regla para animarles. Si tiran cualquier dado estando parados, tienen un nivel menos de dado con un mínimo de d4. No hay tiempo de abrir la cerradura con las ganzuas, enrollas el brazo en la chaqueta, rompes el cristal, abres el pestillo y sigues corriendo.
 ```
 
-Incluso en momentos de negociación deberias moverte. Cuando estas dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberias moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.
+Incluso en momentos de negociación deberías moverte. Cuando estás dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberías moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.
 
 #### No hay tiempo de preparación
 
 Los contratos calientes normalmente son rápidos, unos mensajes, unas llamadas y empieza la carrera. Puedes estar tranquilamente en la base en la zona de descanso y de repente vuestre negociadore te pega un post-it en la frente y te dice «Calienta que sales a jugar».
-
-\sp
 
 Aunque hubiera tiempo de planear, no hay información para hacer un plan adecuado. Cuando empieza el curro apenas tienes info. Solo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que puesto le cliente como cinchas cortadoras.
 
@@ -270,11 +274,21 @@ En el punto de recogida, te avisarán de todo lo que necesites y debas saber par
 
 #### Entregas con límite de tiempo
 
-XXX
+Los limites de tiempo son una forma de **complicar las misiones** y meter más presión a tus mensakas. Los límites de tiempo son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos**. 
+
+* Cuando el portador del paquete recibe uno de cansancio, rellenas un quesito.
+* Cuando recupera el resuello, rellenas otro. 
+* Si llamas a la base, rellenas otro quesito. 
+
+Mientras tengas quesitos que rellenar estás dentro del límite de tiempo. En el momento que tengas que **rellenar un quesito y haya no espacio libre, habrás sobrepasado el límite de tiempo** y habrás fracasade.
+
+Un reloj con 4 espacios es muy complicado de cumplir, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la entrega. Si no se especifica, se considera que un trabajo tiene 12 quesitos que es casi como si no hubiera un límite.
+
+A discreción de le DJ, este puede borrar quesitos si las acciones tomadas por les mensakas pueden considerarse que han ahorrado tiempo. Si une mensaka da esquinazo a sus perseguidores tomando un tren en el MetroMagLev que va en su dirección, podría recuperar tiempo perdido y borrar un quesito del reloj. 
 
 ### Toboganes y escaleras
 
-Los toboganes y las escaleras son eventos y situaciones que les mensejeres se van a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
+Los toboganes y las escaleras son eventos y situaciones que les mensajeres se van a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
 
 A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cuestión de perspectiva. Un callejón sin salida puede ser una trampa mortal o, si sabes escalar bien, una forma de dar esquinazo a les perseguidores que quieren interceptar el envío.
 
@@ -289,14 +303,52 @@ A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cu
 |7|**Puente sobre el canal:** Un estrecho puente de metal y cable es la única forma de cruzar el canal u otra superficie de agua.|
 |8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no, es un callejón sin salida.|
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
+|10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
+|11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de pasajeres.|
 
-\sc
+\sp
 
 |1d12|Obstáculo|
 |---|---|
-|10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
-|11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de pasajeres.|
 |12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van los famosos que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus ídolos.|
+
+### Mercs y megacorps
+
+[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
+
+Las bandas de mercs son la gran némesis de tus mensakas, son los que no te darán cuartel y empezaran a disparar en cuanto estés a tiro, y no descansarán hasta conseguir el paquete para sus clientes.
+
+En «Entrega el paquete» **no existen habilidades de combate, no puedes enfrentarte a eses mercenaries** armades hasta los dientes y con más ciberimplantes que carne. Solo puedes esquivarles o engañarles y seguir avanzando hasta el punto de entrega.
+
+Que no tengas armas no quiere decir que no puedas acabar con elles. Si eres buene, igual puedes atraerles a una zona inundada de agua y tirar al agua un cable de alta tensión.
+
+Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una cocina de un restaurante, abrir las espitas de gas de los fuegos para que todo explotará cuando entrarán la panda de mercs que te perseguían 
+
+```
+Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan mascaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
+```
+
+Si quieres darle más vida, debes **definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que no son buenos**. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
+
+Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninjas. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una máscara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja pocas opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
+
+#### Enter the mercs
+
+Les mercs tiene normalmente 3 formas de actuar.
+
+* **Acción directa:** Te buscan hasta dar contigo y usan todo lo que tienen para detenerte.
+* **Emboscadas y trampas:** Montan unas emboscadas o te tienden una trampa. Está opción exige tener información extra sobre la entrega que les permita saber por donde vas a pasar. 
+* **Buscar la manera para que tú vayas a ellos:** Pueden desde tratar de sobornarte con ingentes cantidades de chips, hasta secuestrar a algún ser querido o capturar a une compañere que estaba contigo en la entrega. Buscarán llegar a una negociación que puede o no acabar bien o en traición.
+
+Les mercs no entran en acción desde el minuto uno de la entrega. Los primeros problemas deberían ser toboganes y escaleras, ya habrá tiempo de esquivar balas perforantes y filos monofilamento.
+
+Normalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj i toman las formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de les mercs.
+
+#### ¿Y si llamo a la policía?
+
+> A.C.A.B. All Cops Are Bastards __Graffiti callejero__
+
+La policía está comprada y no es tu amiga, No la llames bajo ningún concepto a no ser que quieras a tener a otro grupo armado detrás de ti.
 
 ### Trampas
 
@@ -304,46 +356,13 @@ A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cu
 
 XXX
 
-### Mercs y megacorps
-
-XXX
-
-En «Entrega el paquete» no existen habilidades de combate, no puedes enfrentarte a eses mercenaries armades hasta los dientes y con más ciberimplantes que carne. Solo puedes esquivarles o engañarles y seguir avanzando hasta el punto de entrega.
-
-Que no tengas armas no quiere decir que no puedas acabar con ellos. Si eres bueno, igual puedes atraerlos a una zona inundada de agua y tira al agua un cable de alta tensión.
-
-Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una cocina de un restaurante, abrir las espitas de gas de los fuegos para que todo explotará cuando entrarán la panda de mercs que te perseguían 
-
-```
-Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan mascaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
-```
-Si quieres darle más vida, debes definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que son buenos. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
+**Las trampas van a necesitar equipo** y cuanto más complejas más equipo necesitarás y más gente trabajando en ellas. Una trampa simple puede ser sacar el bote de lubricante mientras corres y rociar el suelo para que tus perseguidores resbalen.
 
 \sp
 
-Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninjas. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una máscara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja pocas opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
+Una trampa más compleja podría ser que une mensaka vacíe una botella de líquido inflamable debajo de un coche y otro ate una bengala a la puerta del coche para que se encienda al abrir la puerta y prenda todo.
 
-[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
-
-#### Enter the mercs
-
-Les mercs no entran en acción desde el minuto uno de la entrega. Los primeros problemas deberían ser toboganes y escaleras, ya habrá tiempo de esquivar balas perforantes y filos monofilamento.
-
-Les mercs tiene normalmente 3 formas de actuar.
-
-* **Acción directa:** Te buscan hasta dar contigo y usan todo lo que tienen para detenerte.
-* **Emboscadas y trampas:** Montan unas emboscadas o te tienden una trampa. Está opción exige tener información extra sobre la entrega que les permita saber por donde vas a pasar. 
-* **Buscar la manera para que tú vayas a ellos:** Pueden desde tratar de sobornarte con ingentes cantidades de chips, hasta secuestrar a algún ser querido o capturar a une compañere que estaba en tu entrega contigo. Buscarán llegar a una negociación que puede o no acabar bien o en traición.
-
-XXX
-
-\sc
-
-#### ¿Y si llamo a la policía?
-
-> A.C.A.B. All Cops Are Bastards __Graffiti callejero__
-
-La policía está comprada y no es tu amiga, No la llames bajo ningún concepto a no ser que quieras a tener a otro grupo armado detrás de ti.
+Para que la trampa funcione, todas las tiradas de equipo de cada participante deben tener éxito.
 
 ### Baja tecnología
 
@@ -369,8 +388,6 @@ Les mensakas usan su propia jerga, un lenguaje secreto y propio de cada cooperat
 Déjales que en sus interacciones se inventen poco a poco esa jerga y la integren luego en sus diálogos.
 ```
 
-\sp
-
 ### Llamar a la base
 
 > Llamar a la base es de cobardes, ¿eres une cobarde? __Jeindal, mensaka retirado__
@@ -381,7 +398,7 @@ Desde la base se encargarán de que enviar a un grupo de ronins que limpie la zo
 
 Llamar a la base es una opción excepcional que solo se puede hacer cuando no hay otro recurso. 
 
-Eso supone que todes tus mensakas han gastado sus chutes de adrenalina, no tienen ningún ítem de equipo, ni les queda PowerWater™ y el grupo tiene más del 50% del cansancio total gastado.
+Eso supone que **todes tus mensakas han gastado sus chutes de adrenalina, no tienen ningún ítem de equipo, ni les queda PowerWater™ y el grupo tiene más del 50% del cansancio total gastado**.
 
 Llamar a la base tiene un coste y es que seguramente le **deberéis un favor a alguien** y todo el mundo sabe que en una ambientación ciberpunk deber un favor significa problemas más grandes en el futuro.
 
@@ -398,6 +415,9 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 * Hay **publicidad en todas partes**, hasta en tu ropa puede haber logos de patrocinadores. Seguramente que la gente de marketing ha aprovechado a meter logos de la megacorp en el paquete por si tu persecución o el tiroteo en que vayas a morir es grabado y sale en la red.
 * Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy facil encontrar alguien que venda las primeras o una máquina que dispense las segundas.
 * **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
+
+\sp
+
 * Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
 * Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
 
@@ -408,7 +428,7 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 
 * Toda la ciudad está colapsada por el concierto de la superestrella musical DiByne, calles abarrotadas, atascos, gente de fiesta drogada, etc. Y a la CEO de VultureTech no se le ha ocurrido mejor ideas que mandar un paquete muy especial a DiByne, de la que es muy fan. Tendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.  
-* Une compañere mensaka está escondido en un callejón. Tiene una pierna rota y necesita que alguien le sustituya, asi que ha llamado a la base y os envían como refuerzos. Tendréis que rescatarlo, llevarlo a un sitio seguro y terminar la enttega.
+* Une compañere mensaka está escondido en un callejón. Tiene una pierna rota y necesita que alguien le sustituya, así que ha llamado a la base y os envían como refuerzos. Tendréis que rescatarlo, llevarlo a un sitio seguro y terminar la entrega.
 * Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un concurso para encontrar a le mejore mensaka de la ciudad. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
 * El paquete que transportáis hace ruidos extraños y no tiene buena pinta. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizas deberíais abrir el paquete y salir de dudas.
 * Hoy toca entrenar a los nuevos, te acompañarán un grupo de mensakas recién contratados para que les enseñes los trucos. Qué podría salir mal.
