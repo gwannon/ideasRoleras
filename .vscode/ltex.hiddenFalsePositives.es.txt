@@ -99,3 +99,4 @@
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QSi lo desea, le DJ puede dejar una decisión de partida a la suerte.\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLe DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a su puntuación. Si une compañere te ayuda, también realiza una tirada y ambos corréis los mismos riesgos.\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLe DJ toma la tirada más alta e interpreta el resultado.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QTal vez estas semillas de entregas te den ideas para crear las tuyas propias.\\E$"}

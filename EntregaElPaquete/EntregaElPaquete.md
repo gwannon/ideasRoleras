@@ -62,7 +62,9 @@ Le DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges u
 |3-4|Lo logras, pero tiene algún tipo de coste.|
 |5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
 
-Ser mensaka es difícil. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4: d12 ⇾ d10 ⇾ d8 → d6 → d4
+Ser mensaka es difícil. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
+
+**d12 ⇾ d10 ⇾ d8 → d6 → d4**
 
 Si lo desea, le DJ puede dejar una decisión de partida a la suerte. Simplemente elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
@@ -129,11 +131,11 @@ Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ p
 
 Cuando estás agotade, fallar una acción peligrosa significa **quedarte atrás, perder el paquete** y seguramente volver a la base **sin haber cumplido la entrega**.
 
+\sp
+
 #### PowerWater™
 
 Puedes usar una botella de PowerWater™, la mejor bebida energética del mercado, para eliminar 2 puntos de cansancio. Otra opción es esconderte en un lugar seguro por un tiempo para eliminar 1 punto de cansancio.
-
-\sp
 
 ### Tu mensaka
 
@@ -152,19 +154,12 @@ Los personajes tienen un total de 6 habilidades:
 
 Por último, tienes una **pieza de equipo especial, que empieza con d10 y que representa la forma de moverte que usas**, pueden ser zapatillas de correr, tu bici, tu tabla de skate, etc.
 
+\sc
 A diferencia del equipo vuelve a tener un d10 cuando recuperas el resuello, como una habilidad, pero se puede romper, perder o ser robada como una pieza de equipo.
 
 Al comenzar cada entrega, llevarás en tu bandolera una pieza de equipo aleatoria a nivel de d10.
 
-&nbsp;
-
-&nbsp;
-
-\sc
-
-
 [![moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "moar girls form a dystopian future By Fernand0FC")
-
 
 \sinc
 
@@ -218,7 +213,15 @@ XXX
 
 #### Dimensiones del paquete
 
-XXX
+Los paquetes pueden tener 3 tamaños:
+
+* **Pequeño como un Chip de datos.** Puedes esconderlo en cualquier parte de tu ropa o de tu cuerpo, incluso tragártelo.
+* **Medio como una caza de zapas.** Puedes llevarlo en la bandolera y te ocupa un espacio de bandolera.
+* **Grande como para no entrar en la bandolera.** No entra en tu bandolera y tienes que llevarlo en la mano.
+
+Cuando no entra en la bandolera, tienes que llevarlo en la mano y eso hace que te moleste cuando tratas de moverte. Piensa que es complicado escalar un muro con una sola mano. Quizás puedas hacer un arnés de cuerda o cinta americana o algún otro tipo de trucos.
+
+Para compensar los problemas que supone que no entre en la bandolera, cuando el paquete es grande, se convierte en un objeto que puedes usar en tus entregas con un d10. Puedes usarlo como escudo, porque está blindado, como flotador porque es estanco y flota, como trineo para deslizarte por cuestas, etc. Cuando llega a d4, la caja está tan dañada que no sirve de nada.
 
 #### No abras el paquete
 
@@ -260,6 +263,8 @@ Los contratos calientes normalmente son rápidos, unos mensajes, unas llamadas y
 
 Aunque hubiera tiempo de planear, no hay información para hacer un plan adecuado. Cuando empieza el curro apenas tienes info. Solo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que puesto le cliente como cinchas cortadoras.
 
+\sp
+
 En el punto de recogida, te avisarán de todo lo que necesites y debas saber para la entrega.
 
 #### Entregas con límite de tiempo
@@ -271,8 +276,6 @@ XXX
 Los toboganes y las escaleras son eventos y situaciones que les mensejeres se van a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
 
 A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cuestión de perspectiva. Un callejón sin salida puede ser una trampa mortal o, si sabes escalar bien, una forma de dar esquinazo a les perseguidores que quieren interceptar el envío.
-
-\sp
 
 |1d12|Obstáculo|
 |---|---|
@@ -287,6 +290,10 @@ A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cu
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
 |10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
 |11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de pasajeres.|
+\sc
+
+|1d12|Obstáculo|
+|---|---|
 |12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van los famosos que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus ídolos.|
 
 ### Trampas
@@ -308,14 +315,13 @@ Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una coci
 ```
 Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan mascaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
 ```
-
-[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
-
 Si quieres darle más vida, debes definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que son buenos. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
 
 Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninjas. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una máscara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja pocas opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
 
 \sp
+
+[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
 
 #### Enter the mercs
 
@@ -373,6 +379,8 @@ Llamar a la base tiene un coste y es que seguramente le **deberéis un favor a a
 
 Seguro que vuestre benefactore, querrá cobrarse el favor haciendo que entreguéis algo ilegal o que hagáis la entrega en territorio de una megacorp enemiga. Igual transportáis una bomba que explotará cuando se abra. Puede ser cualquier cosa y estás obligade a cumplirlo.
 
+\sp
+
 ### Toques ciberpunk
 
 Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
@@ -382,9 +390,6 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 * Las rutas no siempre irán por sitios cutres y sucios, algunas veces **pasarás por lugares elegantes y de mucho dinero**. Quién dice que no puedes acabar en una biblioteca o un museo.
 * Hay **puestos de comida callejera en todas partes** y preparan de todo. Qué mejor forma de recuperar el resuello que sorbiendo unos fideos escondido tras las cortinas de un pequeño ramen-ya, mientras fuera te buscan una panda de mercs.
 * Hay **publicidad en todas partes**, hasta en tu ropa puede haber logos de patrocinadores. Seguramente que la gente de marketing ha aprovechado a meter logos de la megacorp en el paquete por si tu persecución o el tiroteo en que vayas a morir es grabado y sale en la red.
-
-\sp
-
 * Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy facil encontrar alguien que venda las primeras o una máquina que dispense las segundas.
 * **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
 * Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
@@ -392,9 +397,17 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 
 > Podría ser peor, podría llover - __Igor «El jovencito Frankenstein»__
 
+\sc
+
 ### Semillas de entregas
 
-XXX
+Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
+
+* Toda la ciudad está colapsada por el concierto de la superestrella musical DiByne, calles abarrotadas, atascos, gente de fiesta drogada, etc. Y a la CEO de VultureTech no se le ha ocurrido mejor ideas que mandar un paquete muy especial a DiByne, de la que es muy fan. Tendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.  
+* Une compañere mensaka está escondido en un callejón. Tiene una pierna rota y necesita que alguien le sustituya, asi que ha llamado a la base y os envían como refuerzos. Tendréis que rescatarlo, llevarlo a un sitio seguro y terminar la enttega.
+* Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un concurso para encontrar a le mejore mensaka de la ciudad. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
+* El paquete que transportáis hace ruidos extraños y no tiene buena pinta. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizas deberíais abrir el paquete y salir de dudas.
+* Hoy toca entrenar a los nuevos, te acompañarán un grupo de mensakas recién contratados para que les enseñes los trucos. Qué podría salir mal.
 
 \sp
 
@@ -436,7 +449,7 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-«Entrega el paquete» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es).
+«Entrega el paquete» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/EntregaElPaquete](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
 
 * Patrón en el interior de las páginas por [rawpixel.com](https://www.freepik.com/free-vector/red-black-patterned-background-vector_3463974.htm)
 * Game futuristic boxes future technology chests by [upklyak](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm)
