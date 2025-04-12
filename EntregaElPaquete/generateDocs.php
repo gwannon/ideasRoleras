@@ -43,3 +43,71 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
 }, $html);
 
 file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
+
+
+
+/* Generamos Metas */
+/* -------------------------------------------------------------- */
+$metas = "InfoKey: Title\n";
+$metas .= "InfoValue: Entrega el paquete 1.0.1\n\n";
+$metas .= "InfoKey: Subject\n";
+$metas .= "InfoValue: «Entrega el paquete» en una mini-ambientación ciberpunk para Breathless donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.\n\n";
+$metas .= "InfoKey: Author\n";
+$metas .= "InfoValue: Gwannon\n\n";
+$metas .= "InfoKey: Keywords\n";
+$metas .= "InfoValue: rpg, ttrpg, cyberpunk, breathless\n\n";
+
+/* Generamos indice del PDF */
+/* -------------------------------------------------------------- */
+$doc = new DOMDocument();
+$internalErrors = libxml_use_internal_errors(true);
+$doc->loadHTMLFile(__DIR__ . "/".$argv[1].".html");
+$body = $doc->getElementsByTagName('body');
+$body = $body->item(0);
+$json = [];
+$lines = [];
+
+foreach(explode("\n", removeHtmlComments($doc->savehtml($body))) as $line) {
+  $line = cleanLine($line);
+  if(preg_match("/(<h1>|<h2|<h3|<h4|saltopagina)/", $line)) $lines[] = $line;
+}
+
+$counter = 1;
+foreach($lines as $line) {
+  if(preg_match("/(<h1>)/", $line)) {
+    $line = strip_tags($line);
+    $metas .= bookMark($line, 1, $counter);
+  } else if(preg_match("/(<h2>)/", $line)) {
+    $line = strip_tags($line);
+    $metas .= bookMark($line, 1, $counter);
+  } else if(preg_match("/(<h3>)/", $line)) {
+    $line = strip_tags($line);
+    $metas .= bookMark($line, 2, $counter);
+  } else if(preg_match("/(<h4>)/", $line)) {
+    $line = strip_tags($line);
+    $metas .= bookMark($line, 3, $counter);
+  } else if(preg_match("/saltopagina/", $line)) {
+    $counter++;
+  }
+}
+
+file_put_contents(__DIR__ . "/".$argv[1].".txt", $metas);
+
+/* LIBs */
+/* -------------------------------------------------------------- */
+function cleanLine($line) {
+  return str_replace(array("  ", "   ", "\t", "\n", "\r"), "", $line);
+}
+
+function bookMark($title, $level, $counter) {
+  $title = htmlspecialchars_decode($title);
+  $metas = "BookmarkBegin\n";
+  $metas .= "BookmarkTitle: {$title}\n";
+  $metas .= "BookmarkLevel: {$level}\n";
+  $metas .= "BookmarkPageNumber: {$counter}\n";
+  return $metas;
+}
+
+function removeHtmlComments($content = '') {
+  return preg_replace('/<!--(.|\s)*?-->/', '', $content);
+}

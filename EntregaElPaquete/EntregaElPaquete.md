@@ -1,13 +1,13 @@
 \sinc
 
-# Entrega el paquete 1.0 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Entrega el paquete 1.0.1 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
 \conc
 
 **«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://fari-rpgs.itch.io/breathless-srd) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviades por mega-corps enemigas para interceptarte.**
 
 ```
-En un mundo hipertecnificado, la forma más eficaz para evitar que te hackeen información es que esta sea física. Todo dato sensible es mejor tenerlo en papel y moverlo fisicamente. Recuerda, si va por la red es hackeable.
+En un mundo hipertecnificado, la forma más eficaz para evitar que te hackeen información es que esta sea física. Todo dato sensible es mejor tenerlo en papel y moverlo físicamente. Recuerda, si va por la red es hackeable.
 ```
 
 En «Entrega el paquete», como buena ambientación ciberpunk, la información es poder y protegerla es fundamental, así que mucha información sensible se guarda en papel o unidades de almacenamiento y se mueve físicamente en vez de electrónicamente.
@@ -18,7 +18,7 @@ Es por ello que existen empresas de mensajería y mensakas independientes que ll
 
 Las empresas de mensajería son empresas bastante atípicas en comparación con el sistema capitalista imperante. Suelen ser cooperativas de mensakas, no empresas como podríamos pensar. Muchas empezaron como grupos de corredores de parkour o skaters que estaban en sus callejones practicando su deporte y que recibían encargos para llevar rápidamente pedidos de comida a domicilio por una buena propina.
 
-Poco a poco se fueron profesionalizando, estableciendo tarifas y ponían una cuota mensual para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Les mensakas nueves que se apuntan a la cooperativa pagan una cuota de entrada tras ser aceptaba su solicitud de ingreso en la cooperativa y luego una cuota mensual para usar los servicios.
+Poco a poco se fueron profesionalizando, estableciendo tarifas y ponían una cuota mensual para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Les mensakas novates que se apuntan a la cooperativa pagan una cuota de entrada tras ser aceptada su solicitud de ingreso en la cooperativa y luego una cuota mensual para usar los servicios.
 
 Les mensakas independientes suelen ser practicantes de disciplinas como parkour o skating que empiezan a trabajar de mensajeres para monetizar su afición, pero sin convertirlo en un modo de vida. Si quieren dedicarse profesionalmente, suelen unirse a una cooperativa.
 
@@ -155,7 +155,8 @@ Los personajes tienen un total de 6 habilidades:
 Por último, tienes una **pieza de equipo especial, que empieza con d10 y que representa la forma de moverte que usas**, pueden ser zapatillas de correr, tu bici, tu tabla de skate, etc.
 
 \sc
-A diferencia del equipo vuelve a tener un d10 cuando recuperas el resuello, como una habilidad, pero se puede romper, perder o ser robada como una pieza de equipo.
+
+A diferencia del equipo, vuelve a tener un d10 cuando recuperas el resuello, como una habilidad, pero se puede romper, perder o ser robada como una pieza de equipo.
 
 Al comenzar cada entrega, llevarás en tu bandolera una pieza de equipo aleatoria a nivel de d10.
 
@@ -187,7 +188,7 @@ Aparte de los puntos principales, hay algunos anexos que la megacorp puede inten
 * Seguro de salud y/o vida para el mensaka.
 * Responsabilidad en caso de perder el paquete.
 * Obligaciones y multas en caso de rotura de contrato por ambas partes.
-* Grabación de carreras con cámara personal para estudiar la entrega y ver quien ha querido interceptar en el envío.
+* Grabación de carreras con cámara personal para estudiar la entrega y ver quién ha querido interceptar en el envío.
 * Medio de transporte a usar. Pueden pedir que no se vaya en bici o que tenga que ir todos en rollers.
 
 ```
@@ -196,13 +197,13 @@ Escribir un contrato es una forma muy rápida de montar una entrega a la que lue
 
 #### Negociar el contrato
 
-> Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
+> Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo, todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
 
 \sp
 
 La negociación del contrato es algo que puedes hacerlo como DJ fuera de partida y que tus mensakas lo reciban de repente, cojan sus bandoleras y salgan a patearse las calles.
 
-La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permita meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control.
+La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permitan meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control.
 
 Recuerda que la pasta no es importante en partida, solo muestra el valor del contenido del paquete. Por darte una idea, 500 chips es un trabajillo menor, por 10.000 chips se va a montar una buena.
 
@@ -259,7 +260,7 @@ Piénsalo así, incluso cuando te escondes, algo normalmente muy estático, debe
 Si te cruzas con una manifestación, robas una chaqueta y una gorra y sigues caminando hasta que sales al otro lado de la multitud. Si aprovechas a qué pase un camión de la basura para ocultarte detrás, deberías agarrarte a una de las barras y largarte con él.
 
 ```
-Si ves que tus mensakas no pillan esta idea, puedes aplicar la siguiente regla para animarles. Si tiran cualquier dado estando parados, tienen un nivel menos de dado con un mínimo de d4. No hay tiempo de abrir la cerradura con las ganzuas, enrollas el brazo en la chaqueta, rompes el cristal, abres el pestillo y sigues corriendo.
+Si ves que tus mensakas no pillan esta idea, puedes aplicar la siguiente regla para animarles. Si tiran cualquier dado estando parados, tienen un nivel menos de dado con un mínimo de d4. No hay tiempo de abrir la cerradura con las ganzúas, enrollas el brazo en la chaqueta, rompes el cristal, abres el pestillo y sigues corriendo.
 ```
 
 Incluso en momentos de negociación deberías moverte. Cuando estás dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberías moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.
@@ -274,7 +275,7 @@ En el punto de recogida, te avisarán de todo lo que necesites y debas saber par
 
 #### Entregas con límite de tiempo
 
-Los limites de tiempo son una forma de **complicar las misiones** y meter más presión a tus mensakas. Los límites de tiempo son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos**. 
+Los límites de tiempo son una forma de **complicar las misiones** y meter más presión a tus mensakas. Los límites de tiempo son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos**. 
 
 * Cuando el portador del paquete recibe uno de cansancio, rellenas un quesito.
 * Cuando recupera el resuello, rellenas otro. 
@@ -282,7 +283,7 @@ Los limites de tiempo son una forma de **complicar las misiones** y meter más p
 
 Mientras tengas quesitos que rellenar estás dentro del límite de tiempo. En el momento que tengas que **rellenar un quesito y haya no espacio libre, habrás sobrepasado el límite de tiempo** y habrás fracasade.
 
-Un reloj con 4 espacios es muy complicado de cumplir, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la entrega. Si no se especifica, se considera que un trabajo tiene 12 quesitos que es casi como si no hubiera un límite.
+Un reloj con 4 espacios es muy complicado de cumplir, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la entrega. Si no se especifica, se considera que un trabajo tiene 12 quesitos, que es casi como si no hubiera un límite.
 
 A discreción de le DJ, este puede borrar quesitos si las acciones tomadas por les mensakas pueden considerarse que han ahorrado tiempo. Si une mensaka da esquinazo a sus perseguidores tomando un tren en el MetroMagLev que va en su dirección, podría recuperar tiempo perdido y borrar un quesito del reloj. 
 
@@ -310,7 +311,7 @@ A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cu
 
 |1d12|Obstáculo|
 |---|---|
-|12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van los famosos que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus ídolos.|
+|12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van los famosos que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus «idorus».|
 
 ### Mercs y megacorps
 
@@ -325,7 +326,7 @@ Que no tengas armas no quiere decir que no puedas acabar con elles. Si eres buen
 Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una cocina de un restaurante, abrir las espitas de gas de los fuegos para que todo explotará cuando entrarán la panda de mercs que te perseguían 
 
 ```
-Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan mascaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
+Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan máscaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
 ```
 
 Si quieres darle más vida, debes **definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que no son buenos**. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
@@ -342,7 +343,7 @@ Les mercs tiene normalmente 3 formas de actuar.
 
 Les mercs no entran en acción desde el minuto uno de la entrega. Los primeros problemas deberían ser toboganes y escaleras, ya habrá tiempo de esquivar balas perforantes y filos monofilamento.
 
-Normalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj i toman las formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de les mercs.
+Normalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj, si toman las otras formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de elles.
 
 #### ¿Y si llamo a la policía?
 
@@ -354,7 +355,7 @@ La policía está comprada y no es tu amiga, No la llames bajo ningún concepto 
 
 > Siempre hay trampas. Otra cosa es que tú no la veas. __HeraGodness, mensaka veterana__
 
-Ya hemos dicho que **los mercs puede intentar crear emboscadas y trampas** y como tienen recursos pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero **siempre con una forma de eludirlas o escapar de ellas**. 
+Ya hemos dicho que **los mercs puede intentar crear emboscadas y trampas** y, como tienen recursos, pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero **siempre con una forma de eludirlas o escapar de ellas**. 
 
 Pero tus mensakas también van a poder jugar a ese juego, pero con muchísimos menos recursos y muchísimo más simples. Hablamos de bolas de rodamiento, de explosivos caseros y de cosas pesadas que caen del cielo.
 
@@ -420,7 +421,7 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 
 \sp
 
-* Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy facil encontrar alguien que venda las primeras o una máquina que dispense las segundas.
+* Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy fácil encontrar a alguien que venda las primeras o una máquina que dispense las segundas.
 * **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
 * Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
 * Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
@@ -433,8 +434,8 @@ Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 
 * Toda la ciudad está colapsada por el concierto de la superestrella musical DiByne, calles abarrotadas, atascos, gente de fiesta drogada, etc. Y a la CEO de VultureTech no se le ha ocurrido mejor ideas que mandar un paquete muy especial a DiByne, de la que es muy fan. Tendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.  
 * Une compañere mensaka está escondido en un callejón. Tiene una pierna rota y necesita que alguien le sustituya, así que ha llamado a la base y os envían como refuerzos. Tendréis que rescatarlo, llevarlo a un sitio seguro y terminar la entrega.
-* Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un concurso para encontrar a le mejore mensaka de la ciudad. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
-* El paquete que transportáis hace ruidos extraños y no tiene buena pinta. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizas deberíais abrir el paquete y salir de dudas.
+* Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un concurso para encontrar a le mejor mensaka de la ciudad. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
+* El paquete que transportáis hace ruidos extraños y no tiene buena pinta. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizás deberíais abrir el paquete y salir de dudas.
 * Hoy toca entrenar a los nuevos, te acompañarán un grupo de mensakas recién contratados para que les enseñes los trucos. Qué podría salir mal.
 
 \sp

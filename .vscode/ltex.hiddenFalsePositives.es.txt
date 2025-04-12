@@ -103,3 +103,26 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entrega.\\E$"}
 {"rule":"COMMA_ADVERB","sentence":"^\\QSimplemente elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.\\E$"}
 {"rule":"COMMA_ADVERB","sentence":"^\\QNormalmente es en las oficinas de la megacorp contratante, pero puede ser hasta una taquilla de la estación o recoger algo de la tintorería. Todo vale para despistar a les rivales.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QSolo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que puesto le cliente como cinchas cortadoras.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QA discreción de le DJ, este puede borrar quesitos si las acciones tomadas por les mensakas pueden considerarse que han ahorrado tiempo.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QA discreción de le DJ, este puede borrar quesitos si las acciones tomadas por les mensakas pueden considerarse que han ahorrado tiempo.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QUn callejón sin salida puede ser una trampa mortal o, si sabes escalar bien, una forma de dar esquinazo a les perseguidores que quieren interceptar el envío.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QPueden desde tratar de sobornarte con ingentes cantidades de chips, hasta secuestrar a algún ser querido o capturar a une compañere que estaba contigo en la entrega.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QNormalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj i toman las formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de les mercs.\\E$"}
+{"rule":"LO_LOS","sentence":"^\\QYa hemos dicho que los mercs puede intentar crear emboscadas y trampas y como tienen recursos pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero siempre con una forma de eludirlas o escapar de ellas.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QTendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/EntregaElPaquete\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QLas empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, fisioterapeutas en caso del parkour o mecániques de bicis para les especialistes en BMX.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QPara recuperar el resuello debes estar fuera de peligro u oculte a la vista de enemigues.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QNormalmente es en las oficinas de la megacorp contratante, pero puede ser hasta una taquilla de la estación o recoger algo de la tintorería. Todo vale para despistar a les rivales.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QEn la mayoría de contratos calientes la megacorp paga para que varios mensakas vayan en grupo, de forma que se puedan apoyar y, si cae une, le superviviente continúe con la entrega.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLe cliente puede exigir que pases por unos puntos para que controlen tus progresos.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QPuede intentar ocultarlo o que haya otres mensakas con paquetes señuelos para engañar a les mercs.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QSi tus mensakas son astutes, sabrán aprovechar esta desventaja y usar al ringer para distraer a les mercs mientras el resto de compañeres buscan una salida.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QCuando estás dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberías moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QCuando estás dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberías moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QPueden pedir también mensakas extras que actúen de señuelos, despistando a les mercs enviades.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QY no es la primera vez que roban un móvil de une descuidade transeúnte mientras escapan corriendo de una panda de mercs.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QNormalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj, si toman las otras formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de elles.\\E$"}
+{"rule":"LO_LOS","sentence":"^\\QNunca, nunca, nunca lo abras.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QCon un rastreador le contratante puede seguir el paquete y rastrearlo si se pierde, pero se arriesga a que las megacorps enemigas intercepten su señal.\\E$"}
