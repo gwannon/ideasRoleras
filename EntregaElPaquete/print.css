@@ -419,6 +419,15 @@ hr  {
 }
 
 @media screen {
+  body {
+    background-size: 200%;
+    background-position: center;
+  }
+
+  .columns {
+    columns: auto;
+  }
+
   .saltopagina {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
@@ -439,6 +448,7 @@ hr  {
     margin: 0;
     opacity: 1;
   }
+
 }
 
 img {

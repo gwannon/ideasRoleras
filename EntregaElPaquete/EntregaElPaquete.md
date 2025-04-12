@@ -171,25 +171,13 @@ En «Entrega el paquete» las aventuras se denominan entregas. Las entregas tien
 
 ### El contrato
 
-Todas las entregas empiezan con un contrato. Algunos son muy simples, llevar el paquete del punto A al punto B, y puedes complicarlos tanto como quieras usando 4 vectores:
+Todas las entregas empiezan con un contrato. Algunos son muy simples, llevar el paquete del punto A al punto B, y puedes complicarlos tanto como quieras usando 5 vectores:
 
 * **El punto de recogida.** Normalmente es en las oficinas de la megacorp contratante, pero puede ser hasta una taquilla de la estación o recoger algo de la tintorería. Todo vale para despistar a les rivales.
 * **El punto de entrega.** Claramente otras oficinas de la misma megacorp. Sospecha de cualquier otra opción.
 * **El límite de tiempo.** La megacorp siempre pone un límite de tiempo. La diferencia es cuan ajustado sea. El límite de tiempo puede crear más o menos tensión. Como consejo, las primeras entregas hazlas con límites largos, cuando ya tengáis claro el sistema puedes meter límites de tiempo más cortos.
 * **El interés/valor del paquete.** Cuanto más valioso, más recursos pondrá en juego las megacorp rivales.
 * **Número de mensakas y señuelos.** En la mayoría de contratos calientes la megacorp paga para que varios mensakas vayan en grupo, de forma que se puedan apoyar y, si cae une, le superviviente continúe con la entrega. Pueden pedir también mensakas extras que actúen de señuelos, despistando a les mercs enviades.
-
-XXX
-
-```
-Escribir un contrato es una forma muy rápida de montar una entrega a la que luego solo tienes que meter detalles que le den sabor.
-```
-
-#### Negociar el contrato
-
-> Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
-
-XXX
 
 Aparte de los puntos principales, hay algunos anexos que la megacorp puede intentar imponer antes de firmar el contrato.
 
@@ -199,11 +187,22 @@ Aparte de los puntos principales, hay algunos anexos que la megacorp puede inten
 * Seguro de salud y/o vida para el mensaka.
 * Responsabilidad en caso de perder el paquete.
 * Obligaciones y multas en caso de rotura de contrato por ambas partes.
+* Grabación de carreras con cámara personal para estudiar la entrega y ver quien ha querido interceptar en el envío.
+* Medio de transporte a usar. Pueden pedir que no se vaya en bici o que tenga que ir todos en rollers.
+
+```
+Escribir un contrato es una forma muy rápida de montar una entrega a la que luego solo tienes que meter detalles que le den sabor.
+```
+
+#### Negociar el contrato
+
+> Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
 
 \sp
 
-* Grabación de carreras con cámara personal para estudiar la entrega y ver quien ha querido interceptar en el envío.
-* Medio de transporte a usar. Pueden pedir que no se vaya en bici o que tenga que ir todos en rollers.
+La negociación del contrato es algo que puedes hacerlo como DJ fuera de partida y que tus mensakas lo reciban de repente, cojan sus bandoleras y salgan a patearse las calles.
+
+La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permita meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control. 
 
 ### No preguntes por el paquete, solo entrégalo
 
@@ -257,13 +256,15 @@ Si te cruzas con una manifestación, robas una chaqueta y una gorra y sigues cam
 Si ves que tus mensakas no pillan esta idea, puedes aplicar la siguiente regla para animarles. Si tiran cualquier dado estando parados, tienen un nivel menos de dado con un mínimo de d4. No hay tiempo de abrir la cerradura con las ganzuas, enrollas el brazo en la chaqueta, rompes el cristal, abres el pestillo y sigues corriendo.
 ```
 
+Incluso en momentos de negociación deberias moverte. Cuando estas dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberias moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.
+
 #### No hay tiempo de preparación
 
 Los contratos calientes normalmente son rápidos, unos mensajes, unas llamadas y empieza la carrera. Puedes estar tranquilamente en la base en la zona de descanso y de repente vuestre negociadore te pega un post-it en la frente y te dice «Calienta que sales a jugar».
 
-Aunque hubiera tiempo de planear, no hay información para hacer un plan adecuado. Cuando empieza el curro apenas tienes info. Solo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que puesto le cliente como cinchas cortadoras.
-
 \sp
+
+Aunque hubiera tiempo de planear, no hay información para hacer un plan adecuado. Cuando empieza el curro apenas tienes info. Solo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que puesto le cliente como cinchas cortadoras.
 
 En el punto de recogida, te avisarán de todo lo que necesites y debas saber para la entrega.
 
@@ -288,12 +289,13 @@ A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cu
 |7|**Puente sobre el canal:** Un estrecho puente de metal y cable es la única forma de cruzar el canal u otra superficie de agua.|
 |8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no, es un callejón sin salida.|
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
-|10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
-|11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de pasajeres.|
+
 \sc
 
 |1d12|Obstáculo|
 |---|---|
+|10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
+|11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano llena de pasajeres.|
 |12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van los famosos que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus ídolos.|
 
 ### Trampas
@@ -317,9 +319,9 @@ Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de s
 ```
 Si quieres darle más vida, debes definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que son buenos. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Puedes usar tu habilidad de Interactuar o Pensar para tratar de averiguar si fortaleza y su debilidad.
 
-Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninjas. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una máscara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja pocas opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
-
 \sp
+
+Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninjas. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una máscara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja pocas opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
 
 [![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
 
@@ -335,6 +337,8 @@ Les mercs tiene normalmente 3 formas de actuar.
 
 XXX
 
+\sc
+
 #### ¿Y si llamo a la policía?
 
 > A.C.A.B. All Cops Are Bastards __Graffiti callejero__
@@ -347,9 +351,11 @@ La policía está comprada y no es tu amiga, No la llames bajo ningún concepto 
 
 El mundo de la mensajería es un mundo donde la tecnología no ha entrado. Si no te fías de la tecnología para enviar tu información tampoco puedes fiarte de mensajes hasta arriba de ciberimplantes y equipo de alta tecnología.
 
-Les mensakas suelen ser de las personas de la ciudad con menos cromos en el cuerpo, quitando piercings y clavos en los huesos.
+Les mensakas suelen ser de las personas de la ciudad con menos cromos en el cuerpo, quitando piercings y clavos en los huesos. Los ciberimplantes son hackeables, son rastreables, son detectables, necesitan equipo especializado para repararlos, etc. 
 
-XXX
+Piensa que en un mundo de ciberimplantes, todo está pensado para combatir esta tecnología y les mercs cibermejorades están entrenados para enfrentarse a gente con ellos. Lo que pudiera ser una desventaja muy clara en cierta medida se convierte en una ventaja.
+
+En vez de implantes, puedes considerar que tus mensakas son muy buenos en sus tipos de movimientos y que sustituyen las capacidades extras que los implantes pudieran darles con su astucia y sus instintos de mensaka.
 
 Las comunicaciones son todas verbales, nada de pinganillos, mensajes o videollamadas, nada que pueda ser hackeado electrónicamente. Usan su jerga de mensakas para «encriptar» sus comunicaciones y se gritan las órdenes, los planes y las advertencias.
 
@@ -362,6 +368,8 @@ Les mensakas usan su propia jerga, un lenguaje secreto y propio de cada cooperat
 ```
 Déjales que en sus interacciones se inventen poco a poco esa jerga y la integren luego en sus diálogos.
 ```
+
+\sp
 
 ### Llamar a la base
 
@@ -379,8 +387,6 @@ Llamar a la base tiene un coste y es que seguramente le **deberéis un favor a a
 
 Seguro que vuestre benefactore, querrá cobrarse el favor haciendo que entreguéis algo ilegal o que hagáis la entrega en territorio de una megacorp enemiga. Igual transportáis una bomba que explotará cuando se abra. Puede ser cualquier cosa y estás obligade a cumplirlo.
 
-\sp
-
 ### Toques ciberpunk
 
 Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
@@ -397,8 +403,6 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 
 > Podría ser peor, podría llover - __Igor «El jovencito Frankenstein»__
 
-\sc
-
 ### Semillas de entregas
 
 Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
@@ -411,15 +415,21 @@ Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 
 \sp
 
-## Hoja de mensaka
+\sinc
+
+## Epílogo 
+
+\conc
+
+### Hoja de mensaka
 
 |HojaMensajere.html|
 
-## Hoja de contrato
+### Hoja de contrato
 
 |HojaContrato.html|
 
-## Fuentes
+### Fuentes
 
 Si deseas inspiración para crear tus tramas, estás son algunas obras que me han servidor de inspiración para desarrollar «Entrega el paquete».
 
@@ -429,7 +439,7 @@ Si deseas inspiración para crear tus tramas, estás son algunas obras que me ha
 
 \sc
 
-## Términos útiles
+### Términos útiles
 
 Este listado de términos en argot te pueden ayudar a ambientar tus entregas y que tus mensakas pueden usar para crear la suya.
 
@@ -445,13 +455,13 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 * **Ringer:** Mensaka que porta el tesoro, digo, el paquete.
 * **Tagueado:** Que lleva un rastreador.
 
-## Licencia 
+### Licencia 
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 «Entrega el paquete» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/EntregaElPaquete](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
 
-* Patrón en el interior de las páginas por [rawpixel.com](https://www.freepik.com/free-vector/red-black-patterned-background-vector_3463974.htm)
+* Red and black patterned background vector by [rawpixel.com](https://www.freepik.com/free-vector/red-black-patterned-background-vector_3463974.htm)
 * Game futuristic boxes future technology chests by [upklyak](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm)
 * Delivery By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Delivery-802145258) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * Corporate level bodyguard By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
