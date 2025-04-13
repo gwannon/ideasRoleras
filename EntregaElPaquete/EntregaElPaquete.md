@@ -444,7 +444,7 @@ Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 * Une compañere mensaka está escondide en un callejón. Tiene una **pierna rota y necesita que alguien le sustituya**, así que ha llamado a la base y **os envían como refuerzos**. Tendréis que rescatarlo, llevarlo a un sitio seguro y terminar la entrega.
 * Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un **concurso para encontrar a le mejor mensaka de la ciudad**. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
 * El **paquete que transportáis hace ruidos extraños y no tiene buena pinta**. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizás deberíais abrir el paquete y salir de dudas.
-* Hoy toca **entrenar a los nuevos**, te acompañarán un grupo de mensakas recién contratados para que les enseñes los trucos. Qué podría salir mal.
+* Hoy toca **entrenar a los nuevos**, te acompañarán un grupo de mensakas recién contratades para que les enseñes los trucos. Qué podría salir mal.
 
 
 \sinc
