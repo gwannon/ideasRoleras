@@ -126,3 +126,14 @@
 {"rule":"COMMA_ADVERB","sentence":"^\\QNormalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj, si toman las otras formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de elles.\\E$"}
 {"rule":"LO_LOS","sentence":"^\\QNunca, nunca, nunca lo abras.\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QCon un rastreador le contratante puede seguir el paquete y rastrearlo si se pierde, pero se arriesga a que las megacorps enemigas intercepten su señal.\\E$"}
+{"rule":"LO_LOS","sentence":"^\\QYa hemos dicho que los mercs puede intentar crear emboscadas y trampas y, como tienen recursos, pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero siempre con una forma de eludirlas o escapar de ellas.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QD'hinghara Diner By Dana-Ulama\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QD'hinghara Diner By Dana-Ulama\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QSeguramente las megacorps enemigas mandarán a sus mejores agentes a interceptar a les mensakas y quitarles el paquete de sus frías manos.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLe DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. Si une compañere te ayuda, también realiza una tirada y ambos corréis los mismos riesgos.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QSi le portadore del paquete se agota y se queda atrás, la entrega es interceptada por les mercs enviades y la megacorp enemiga consigue lo que había dentro.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QSolo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que ha puesto le cliente como cinchas cortadoras.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QCuando enfrentas una consecuencia como resultado de una de tus acciones, le DJ puede decidir que recibas 1 nivel de cansancio.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QD'hinghara Diner By Dana-Ulama bajo licencia Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QD'hinghara Diner By Dana-Ulama bajo licencia Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QPiensa que el dinero que cuesta el contrato va a marcar los recursos de les mercs que van a intervenir en la entrega.\\E$"}
