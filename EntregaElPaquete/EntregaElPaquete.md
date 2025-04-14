@@ -237,13 +237,13 @@ Abrir en paquete debería ser algo excepcional y casi siempre parte de la trama 
 
 #### ¿Quién lleva el paquete?
 
-Le mensaka que lleva el paquete se le suele llamar «ringer», y **es el puesto más peligroso**, ya que el paquete le convierte en el objetivo de todes les enemigues. Puede intentar ocultarlo o que haya otres mensakas con paquetes señuelos para engañar a les mercs. Si tus mensakas son astutes, sabrán aprovechar esta desventaja y usar al ringer para distraer a les mercs mientras el resto de compañeres buscan una salida.
+Le mensaka que lleva el paquete se le suele llamar «ringer», y **es el puesto más peligroso**, ya que el paquete le convierte en el objetivo de todes les enemigues. Puede intentar ocultarlo o que haya otres mensakas con paquetes señuelos para engañar a les mercs. Si tus mensakas son astutes, sabrán aprovechar esta desventaja y usar al «ringer» para distraer a les mercs mientras el resto de compañeres buscan una salida.
 
 **Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada** por les mercs enviades y la megacorp enemiga consigue lo que había dentro.
 
 Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entrega.
 
-Hay entregas que por contrato exigen que le mensajere lleve sujeto el paquete con algún tipo de artilugio de seguridad, tipo esposas explosivas o cinchas cortadoras. Le mensajere no podrá pasar el paquete a otros compañeres, pero tampoco podrá perderlo o se lo podrán robar. Solo podrán quitárselo en el punto de entrega con algún código especial. Si se intenta romper o hackear lo más seguro es que pierda la mano, pero a situaciones desesperadas, medidas desesperadas.
+Hay entregas que por contrato exigen que le mensajere lleve sujeto el paquete con algún tipo de artilugio de seguridad, tipo **esposas explosivas o cinchas cortadoras**. Le mensajere no podrá pasar el paquete a otros compañeres, pero tampoco podrá perderlo o se lo podrán robar. Solo podrán quitárselo en el punto de entrega con algún código especial. Si se intenta romper o hackear lo más seguro es que pierda la mano, pero a situaciones desesperadas, medidas desesperadas.
 
 > ¿Esto? Esto es papel de aluminio. No será la primera vez que una megacorp me dice que no ha puesto un rastreador y si lo ha puesto. Es un grave incumplimiento de contrato, pero el que se la juega soy yo. __JackRunner, mensaka conspiranoico__
 
@@ -471,6 +471,8 @@ Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 
 |HojaContrato.html|
 
+&nbsp;
+
 ### Fuentes
 
 Si deseas inspiración para crear tus tramas, estás son algunas obras que me han servidor de inspiración para desarrollar «Entrega el paquete».
@@ -496,6 +498,8 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 * **Pizza fría/caliente:** Pizza caliente es cuando la entrega tiene límite de tiempo en la entrega y fría cuando no lo tiene.
 * **Ringer:** Mensaka que porta el tesoro, digo, el paquete.
 * **Tagueado:** Que lleva un rastreador.
+
+&nbsp;
 
 ### Licencia 
 
