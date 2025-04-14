@@ -1,16 +1,20 @@
 :root {
   --padding: 62px; /*Ancho de los bordes de la página*/
-  --color-red: #000;
+  --color-brown-pale: #ffb66e;
+  --color-brown: #c56229;
+  --color-brown-dark: #6c1511;
+  
   --color-white: #fff;
   --color-black: #000;
+  --color-green: #afeaa6;
   --title-font: "Hanalei Fill", system-ui;
   --subtitle-font: "Kablammo", system-ui;
   --text-font: "Advent Pro", sans-serif;
 }
 
 body {
-  background: var(--color-white) url(./images/bg.jpg) repeat top left;
-  background-size: contain;
+  background: var(--color-green) url(./images/bg.jpg) repeat top left;
+  background-size: 100% auto;
   margin: 0;
   padding: 0;
   font-family: var(--text-font);
@@ -104,7 +108,7 @@ blockquote p {
   padding: 8px;
   margin: 0px;
   display: block;
-  color: var(--color-red);
+  color: var(--color-brown);
   background-color: var(--color-white);
   /*background: linear-gradient(167deg, var(--color-black) 63%, var(--color-white) 100%);*/
   font-family: var(--text-font);
@@ -124,19 +128,21 @@ blockquote a {
 
 h1 {
   font-family: var(--title-font);
-  color: var(--color-black);
-  font-size: 2.6em;
+  color: var(--color-brown);
+  font-size: 3.5em;
+  letter-spacing: 2px;
   padding: 20px;
   margin: 0 0 20px 0;
   text-align: center;
+  font-weight: 400;
 }
 
 /*h1:after,
 table:after {
   content: "X";
   display: block;
-  border-bottom: 5px double var(--color-red);
-  border-left: 5px double var(--color-red);
+  border-bottom: 5px double var(--color-brown);
+  border-left: 5px double var(--color-brown);
   position: absolute;
   top: -2px;
   right: -2px;
@@ -150,7 +156,7 @@ h1 > a {
   text-align: center;
   font-size: 16px;
   width: 100%;
-  color: var(--color-red);
+  color: var(--color-brown);
   font-family: var(--text-font);
   font-weight: 400;
   text-decoration: none;
@@ -162,7 +168,7 @@ h1 > a {
 h2,
 h3,
 h4 {
-  font-family: var(--title-font);
+  font-family: var(--subtitle-font);
   font-weight: 400;
   font-style: normal;
   color: var(--color-black);
@@ -193,7 +199,7 @@ h3 {
   position: absolute;
   width: 35px;
   height: 100%;
-  border: 2px solid var(--color-red);
+  border: 2px solid var(--color-brown);
   border-left: none;
   top: -3px;
   right: 0px;
@@ -204,7 +210,7 @@ h3:before {
   position: absolute;
   width: 35px;
   height: 100%;
-  border: 2px solid var(--color-red);
+  border: 2px solid var(--color-brown);
   border-right: none;
   top: -3px;
   left: 0px;
@@ -268,9 +274,9 @@ table {
 /* h1,
 table {
   position:relative;
-  border: 2px solid var(--color-red);
-  background: var(--color-red);
-  background: linear-gradient(167deg, var(--color-black) 53%, var(--color-red) 100%);
+  border: 2px solid var(--color-brown);
+  background: var(--color-brown);
+  background: linear-gradient(167deg, var(--color-black) 53%, var(--color-brown) 100%);
   clip-path: polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 10px 100%, 0% calc(100% - 10px));
 } */
 
@@ -279,7 +285,7 @@ table:before {
   content: "";
   display: block;
   position: absolute;
-  background-color:  var(--color-red);
+  background-color:  var(--color-brown);
   width: 8px;
   height: 8px;
   top: -1px;
@@ -293,7 +299,7 @@ table:after {
   content: "";
   display: block;
   position: absolute;
-  background-color:  var(--color-red);
+  background-color:  var(--color-brown);
   width: 13px;
   height: 13px;
   bottom: -1px;
@@ -326,7 +332,7 @@ table td {
 pre {
   white-space: pre-wrap;
   background-color: var(--color-white);
-  /*background: linear-gradient(125deg, var(--color-white) 0%, var(--color-red) 50%);*/
+  /*background: linear-gradient(125deg, var(--color-white) 0%, var(--color-brown) 50%);*/
   padding: 2px;
   margin: 10px 0px;
   /*clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );*/
@@ -368,7 +374,7 @@ pre code {
   display: block;
   color: var(--color-white);
   background-color: var(--color-black);
-  /*background: linear-gradient(167deg, var(--color-red) 13%, var(--color-black) 53%);*/
+  /*background: linear-gradient(167deg, var(--color-brown) 13%, var(--color-black) 53%);*/
   font-family: var(--text-font);
   /*clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );*/
   font-size: 16px;
@@ -393,7 +399,7 @@ del:before {
   display: block;
   width: 100%;
   height: 1px;
-  background-color: var(--color-red);
+  background-color: var(--color-brown);
   top: 8px;
   left: 0px;
   transform: rotate(15deg);
@@ -406,7 +412,7 @@ del:after {
   display: block;
   width: 100%;
   height: 1px;
-  background-color: var(--color-red);
+  background-color: var(--color-brown);
   bottom: 5px;
   left: 0px;
   transform: rotate(-15deg);
@@ -488,7 +494,7 @@ body {
   font-size: 1.5em;
   padding: 5px 5px 3px;
   color: var(--color-black);
-  background-color: var(--color-red);
+  background-color: var(--color-brown);
   clip-path:polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 5px 100%, 0% calc(100% - 5px) );
 }
 

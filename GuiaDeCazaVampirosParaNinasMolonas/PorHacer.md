@@ -29,6 +29,8 @@ XXX
 
 ### El ataque nocturno
 
+La lógica dicta que tus cazadoras tratarán de repetir sus éxitos con Verónica y Néstor.
+
 XXX
 
 ### Atrapadas
@@ -49,9 +51,7 @@ Recuérdales que la otra opción es acabar muertas tras ser chupada su sangre ha
 
 ### Cazando al pederasta
 
-XXX
-
-Volverán y esta vez estarán preparadas. Le darán su merecido a Néstor y se asegurarán de que no vuelva a tocar a ninguna niña, niño o niñe.
+Después de la experiencia de la mazmorra, tus cazadoras deberían estar ansiosas de volver   a la guarida de Néstor y esta vez estarán preparadas. Deberían querer darle su merecido a Néstor y asegurarse de que no vuelva a tocar a ninguna niña, niño o niñe.
 
 XXX
 

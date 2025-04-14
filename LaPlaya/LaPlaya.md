@@ -4,7 +4,7 @@
 
 \conc
 
-XXX [Mausritter](https://losing-games.itch.io/mausritter)
+La playa es una aventura para [Mausritter](https://losing-games.itch.io/mausritter) donde un grupo de ratones deberá aplacar la ira de los dioses si quieren que su playa sobreviva a un volcán.
 
 ## La comunidad de Kaona Iole
 
@@ -34,7 +34,7 @@ XXX
 
 XXX
 
-## Pele la diosa del fuego
+## Pele, la diosa del fuego
 
 XXX
 
@@ -46,6 +46,8 @@ XXX
 
 XXX
 
+\sp
+
 ## Licencia
 
 «La Playa» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
@@ -55,16 +57,11 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 
 «La Playa» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
 
+* Flat maori tattoo pattern by [Freepik](https://www.freepik.com/free-vector/flat-maori-tattoo-pattern_29507321.htm)
+
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
-***
-
-Fuentes: 
-https://www.1001fonts.com/naluka-font.html
-
-***
-
-Inscpiración:
+Inspiración:
 
 https://itch.io/c/1521592/mausritter
 
@@ -75,3 +72,7 @@ Diseño:
 Patrones polinesíos -> https://www.freepik.com/search?term=polynesian+pattern
 Tiki -> tiki
 Fondo
+
+https://www.freepik.com/free-vector/flat-maori-tattoo-borders-collection_81101207.htm
+
+\sp
