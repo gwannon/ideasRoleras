@@ -3,13 +3,11 @@
   --color-brown-pale: #ffb66e;
   --color-brown: #c56229;
   --color-brown-dark: #6c1511;
-  
   --color-white: #fff;
   --color-black: #000;
   --color-green: #afeaa6;
-  --title-font: "Hanalei Fill", system-ui;
-  --subtitle-font: "Kablammo", system-ui;
-  --text-font: "Advent Pro", sans-serif;
+  --title-font: "Kablammo", system-ui;
+  --text-font: "Open Sans", sans-serif;
 }
 
 body {
@@ -19,30 +17,8 @@ body {
   padding: 0;
   font-family: var(--text-font);
   color: var(--color-black);
-  font-size: 14px;
+  font-size: 16px;
 }
-
-/*body:before {
-  content: "";
-  display: block;
-  width: var(--padding);
-  height: 100vh;
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  background: transparent url(./images/border1.png) top left repeat-y
-}
-
-body:after {
-  content: "";
-  display: block;
-  width: var(--padding);
-  height: 100vh;
-  position: fixed;
-  top: 0px;
-  right: 0px;
-  background: transparent url(./images/border2.png) top left repeat-y;
-}*/
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -87,38 +63,28 @@ blockquote {
   background-color: var(--color-black);
   padding: 2px;
   margin: 10px 0px;
-  /*clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );*/
-  font-style: italic;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 25px;
+  clip-path: polygon(1% 7%, 15% 0%, 20% 4%, 50% 0%, 97% 0%, 100% 11%, 100% 97%, 97% 100%, 50% 95%, 45% 97%, 2% 100%, 0% 94%);
 }
-
-/*blockquote:before {
-  content: "▬ ▼";
-  display: block;
-  width: calc(100% - 6px);
-  position: absolute;
-  top: 3px;
-  left: 3px;
-  position: absolute;
-  color: var(--color-white);
-  background-color: var(--color-black);
-  text-align: right;
-}*/
 
 blockquote p {
-  padding: 8px;
+  padding: 12px;
   margin: 0px;
   display: block;
-  color: var(--color-brown);
-  background-color: var(--color-white);
-  /*background: linear-gradient(167deg, var(--color-black) 63%, var(--color-white) 100%);*/
+  color: var(--color-black);
+  background: var(--color-brown-dark) url(./images/6654537.jpg) center center no-repeat;
+  background-size: cover;
   font-family: var(--text-font);
-  /*clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );*/
+  border-top-right-radius: 20px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 35px;
+  border-bottom-left-radius: 25px;
+  clip-path: polygon(1% 7%, 15% 0%, 20% 4%, 50% 0%, 97% 0%, 100% 11%, 100% 97%, 97% 100%, 50% 95%, 45% 97%, 2% 100%, 0% 94%);
+  text-shadow: 0px 0px 1px var(--color-brown-dark);
 }
-
-/*blockquote p:before {
-  content: "\0024\0020";
-  font-weight: 700;
-}*/
 
 blockquote a {
   color:  var(--color-black);
@@ -127,97 +93,94 @@ blockquote a {
 /* Titulares */
 
 h1 {
+  background-color: var(--color-brown-dark);
   font-family: var(--title-font);
   color: var(--color-brown);
-  font-size: 3.5em;
+  font-size: 5em;
+  position: relative;
   letter-spacing: 2px;
   padding: 20px;
   margin: 0 0 20px 0;
   text-align: center;
   font-weight: 400;
+  text-shadow: -2px 0px 0px var(--color-brown-dark), 
+    2px 0px 0px var(--color-brown-dark),
+    0px -2px 0px var(--color-brown-dark), 
+    0px 2px 0px var(--color-brown-dark);
+  border-top-right-radius: 50%;
+  border-top-left-radius: 35%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 35%;
+  clip-path: polygon(1% 7%, 15% 0%, 20% 4%, 50% 0%, 97% 0%, 100% 11%, 100% 97%, 97% 100%, 50% 95%, 45% 97%, 2% 100%, 0% 94%,2% 50%);
 }
 
-/*h1:after,
-table:after {
-  content: "X";
-  display: block;
-  border-bottom: 5px double var(--color-brown);
-  border-left: 5px double var(--color-brown);
+h1:before {
+  content: "";
   position: absolute;
-  top: -2px;
-  right: -2px;
-  font-size: 20px;
-  padding: 3px;
-  background-color: var(--color-black);
-} */
+  top: 5px;
+  left: 5px;
+  display: block;
+  width: calc(100% - 10px);
+  height: calc(100% - 10px);
+  background: var(--color-brown-dark) url(./images/6654537.jpg) center center no-repeat;
+  background-size: cover;
+  border-top-right-radius: 50%;
+  border-top-left-radius: 35%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 35%;
+  clip-path: polygon(1% 7%, 15% 0%, 20% 4%, 50% 0%, 97% 0%, 100% 11%, 100% 97%, 97% 100%, 50% 95%, 45% 97%, 2% 100%, 0% 94%,2% 50%);
+  z-index: -1;
+}
 
 h1 > a {
   display: block;
   text-align: center;
-  font-size: 16px;
+  font-size: 0.3em;
   width: 100%;
-  color: var(--color-brown);
-  font-family: var(--text-font);
+  color: var(--color-brown-pale);
+  font-family: var(--title-font);
   font-weight: 400;
   text-decoration: none;
-  text-shadow: none;
-  font-style: italic;
-  font-family: var(--title-font);
+  text-shadow: -2px 0px 0px var(--color-black), 
+    2px 0px 0px var(--color-black),
+    0px -2px 0px var(--color-black), 
+    0px 2px 0px var(--color-black);
 }
 
 h2,
 h3,
 h4 {
-  font-family: var(--subtitle-font);
+  font-family: var(--title-font);
   font-weight: 400;
   font-style: normal;
   color: var(--color-black);
   margin-bottom: 0px;
   padding-bottom: 0px;
-  /*text-shadow: 0px 0px 11px #000000;*/
   margin-top: 10px;
   line-height: 100%;
 }
 
 h2 {
   font-size: 1.8em;
-  /*padding-bottom: 6px;
-  border-bottom: 1px solid var(--color-black);
-  margin-bottom: 15px;*/
+  color: var(--color-brown-pale);
+  font-family: var(--title-font);
+  font-weight: 400;
+  text-decoration: none;
+  text-shadow: -2px 0px 0px var(--color-black), 
+    2px 0px 0px var(--color-black),
+    0px -2px 0px var(--color-black), 
+    0px 2px 0px var(--color-black);
+  letter-spacing: 1px;
 }
 
 h3 {
-  font-family: var(--subtitle-font);
+  color: var(--color-brown-dark);
+  font-family: var(--title-font);
   font-size: 1.4em;
-  /*position: relative;
-  padding: 5px 10px !important;
-  display: inline-block;*/
 }
-
-/*h3:after {
-  content:" ";
-  position: absolute;
-  width: 35px;
-  height: 100%;
-  border: 2px solid var(--color-brown);
-  border-left: none;
-  top: -3px;
-  right: 0px;
-}
-
-h3:before {
-  content:" ";
-  position: absolute;
-  width: 35px;
-  height: 100%;
-  border: 2px solid var(--color-brown);
-  border-right: none;
-  top: -3px;
-  left: 0px;
-} */
 
 h4 {
-  font-family: var(--subtitle-font);
+  font-family: var(--title-font);
   font-size: 1em;
 }
 
@@ -235,7 +198,6 @@ h4 + p {
 }
 
 /* Otros elementos */
-
 p,
 ul {
   margin: 0.45em 0;
@@ -271,53 +233,22 @@ table {
   padding: 5px;
 }
 
-/* h1,
-table {
-  position:relative;
-  border: 2px solid var(--color-brown);
-  background: var(--color-brown);
-  background: linear-gradient(167deg, var(--color-black) 53%, var(--color-brown) 100%);
-  clip-path: polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 10px 100%, 0% calc(100% - 10px));
-} */
-
-/*h1:before,
-table:before {
-  content: "";
-  display: block;
-  position: absolute;
-  background-color:  var(--color-brown);
-  width: 8px;
-  height: 8px;
-  top: -1px;
-  right: -1px;
-  clip-path: polygon(0% 0%, 100% 0%, 100% 100%);
-  z-index: 10;
-}*/
-
-/*h1:after,
-table:after {
-  content: "";
-  display: block;
-  position: absolute;
-  background-color:  var(--color-brown);
-  width: 13px;
-  height: 13px;
-  bottom: -1px;
-  left: -1px;
-  clip-path: polygon(0% 0%, 0% 100%, 100% 100%);
-  z-index: 10;
-}*/
-
 table thead tr th,
 table tr th {
   font-family: var(--title-font);
   font-weight: 700;
-  font-size: 0.9em;
-  background-color: var(--color-white);
-  color: var(--color-black);
-  clip-path:polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );
+  font-size: 1.2em;
+  color: var(--color-brown-pale);
+  background-color: var(--color-brown-dark);
   padding-left: 10px;
   padding-right: 5px;
+}
+table tr:nth-child(odd) {
+  background-color: var(--color-brown);
+}
+
+table tr:nth-child(even) {
+  background-color: var(--color-brown-pale);
 }
 
 table.special th,
@@ -325,48 +256,13 @@ table.special td {
   font-size: 0.8em;
 }
 
-table td {
-  text-shadow: 0px 0px 4px var(--color-black);
-}
-
 pre {
   white-space: pre-wrap;
   background-color: var(--color-white);
-  /*background: linear-gradient(125deg, var(--color-white) 0%, var(--color-brown) 50%);*/
   padding: 2px;
   margin: 10px 0px;
-  /*clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );*/
-}
- 
-/*pre:before {
-  content: "▲";
-  white-space: pre;
-  width: 15px;
-  font-size: 15px;
-  border: 2px solid var(--color-white);
-  border-bottom: none;
-  top: 2px;
-  right: 2px;
-  height: calc(100% - 18px);
-  display: block;
-  position: absolute;
-  text-align: center;
-  white-space: pre-wrap;
 }
 
-pre:after {
-  content: "▼";
-  width: 15px;
-  font-size: 15px;
-  border: 2px solid var(--color-white);
-  border-top: none;
-  bottom: 2px;
-  right: 2px;
-  height: 18px;
-  display: block;
-  position: absolute;
-  text-align: center;
-}*/
 
 pre code {
   padding: 8px;
@@ -374,12 +270,9 @@ pre code {
   display: block;
   color: var(--color-white);
   background-color: var(--color-black);
-  /*background: linear-gradient(167deg, var(--color-brown) 13%, var(--color-black) 53%);*/
   font-family: var(--text-font);
-  /*clip-path:polygon(0% 0%, calc(100% - 20px) 0%, 100% 20px, 100% 100%, 10px 100%, 0% calc(100% - 10px) );*/
   font-size: 16px;
   white-space: pre-wrap;
-  /*text-shadow: 0px 0px 4px var(--color-black);*/
 }
 
 blockquote p strong {
@@ -387,38 +280,6 @@ blockquote p strong {
   text-align: right;
   text-shadow: 0px 0px 4px var(--color-black);
 }
-
-/*del {
-  text-decoration: none;
-  display: inline-block;
-  position: relative;
-}
-
-del:before {
-  content: "";
-  display: block;
-  width: 100%;
-  height: 1px;
-  background-color: var(--color-brown);
-  top: 8px;
-  left: 0px;
-  transform: rotate(15deg);
-  position: absolute;
-  transform-origin: center;
-}
-
-del:after {
-  content: "";
-  display: block;
-  width: 100%;
-  height: 1px;
-  background-color: var(--color-brown);
-  bottom: 5px;
-  left: 0px;
-  transform: rotate(-15deg);
-  position: absolute;
-  transform-origin: center;
-}*/
 
 hr  {
   border: 3px dashed var(--color-white);
@@ -492,14 +353,13 @@ body {
   z-index: 10;
   opacity: 1;
   font-size: 1.5em;
-  padding: 5px 5px 3px;
-  color: var(--color-black);
-  background-color: var(--color-brown);
+  padding: 5px 5px 7px;
+  color: var(--color-brown-pale);
+  background-color: var(--color-brown-dark);
   clip-path:polygon(0% 0%, calc(100% - 5px) 0%, 100% 5px, 100% 100%, 5px 100%, 0% calc(100% - 5px) );
 }
 
 .saltopagina.even:after {
   right: auto;
   left: -40px;
-  background-color: var(--color-white);
 }

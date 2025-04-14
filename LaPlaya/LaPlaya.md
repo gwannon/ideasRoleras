@@ -1,36 +1,47 @@
 \sinc
 
-# La Playa [por Gwannon](https://gwannon.itch.io/la-playa-mausritter)
+# MausTiki [por Gwannon](https://gwannon.itch.io/mausstiki-mausritter)
+
+
+**MausTiki** es una aventura para [Mausritter](https://losing-games.itch.io/mausritter) donde una comunidad de roedores de una isla del Pacífico deberá aplacar la ira de los dioses si quieren que su playa sobreviva a la amenaza del volcán.
+
+&nbsp;
 
 \conc
-
-La playa es una aventura para [Mausritter](https://losing-games.itch.io/mausritter) donde un grupo de ratones deberá aplacar la ira de los dioses si quieren que su playa sobreviva a un volcán.
 
 ## La comunidad de Kaona Iole
 
 XXX
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-```
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### Mapa
 
 XXX
 
-## Cultura polinesia
+### Clima y mareas 
+
+Xxx
+
+Las **mareas son una parte fundamental de la vida del asentamiento** y avisar a sus habitantes de las subidas y bajadas de la marea es una ocupación muy importante.
+
+Las mareas marcan cuando salir a pescar, cuando bajar a la playa a recoger algas, XXX
+
+En cada luna nueva se eligen 5 grupos de 4 miembros, un grupo por cada fase lunar. Cada grupo tiene la obligación de avisar cuando está alta y cuando está baja la marea haciendo sonar un pututu, un caracol gigante de mar, con unas notas para la pleamar y otras para bajamar.
+
+Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando hace sonar el pututu, el siguiente roedor viene a sustituirle y este es libre hasta.
+
+> Existe la creencia de que la marea dicta tu destino y si naces mientras suena el XXX de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
+
+Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
+
+### El mar y las embarcaciones
 
 XXX
 
-## Equipo 
+### Surf
 
 XXX
 
-## Magia
+## El día a día
 
 XXX
 
@@ -42,37 +53,167 @@ XXX
 
 XXX
 
-## Surf
+\sp
+
+\sinc
+
+# Reglas
+
+\conc
+
+XXX
+
+* Las monedas dejan de ser pepitas y pasan a ser conchas.
+
+\sinc
+
+## Trasfondos
+
+|PG+Conchas|Trasfondo|Objeto A|Objeto B|
+|---|---|---|---|
+|11|XXX|XXX|XXX|
+|12|XXX|XXX|XXX|
+|13|XXX|XXX|XXX|
+|14|XXX|XXX|XXX|
+|15|XXX|XXX|XXX|
+|16|XXX|XXX|XXX|
+|21|XXX|XXX|XXX|
+|22|XXX|XXX|XXX|
+|23|XXX|XXX|XXX|
+|24|Pescador|Red|Aguja (ligera, 1d6)|
+|25|XXX|XXX|XXX|
+|26|Bailarín/a de Hula|Traje de hula|XXX|
+|31|XXX|XXX|XXX|
+|32|XXX|XXX|XXX|
+|33|XXX|XXX|XXX|
+|34|XXX|XXX|XXX|
+|35|XXX|XXX|XXX|
+|36|Tatuador|Herramientas de tatuador|Tinta|
+|41|XXX|XXX|XXX|
+|42|XXX|XXX|XXX|
+|43|Surfero|Tabla de surf|Cera|
+|44|XXX|XXX|XXX|
+|45|XXX|XXX|XXX|
+
+
+\sinc
+
+\sp
+
+\sinc
+
+|PG+Pepitas|Trasfondo|Objeto A|Objeto B|
+|---|---|---|---|
+|46|XXX|XXX|XXX|
+|51|XXX|XXX|XXX|
+|52|XXX|XXX|XXX|
+|53|XXX|XXX|XXX|
+|54|Tragafuegos|Antorchas|Parafina|
+|55|XXX|XXX|XXX|
+|56|XXX|XXX|XXX|
+|61|XXX|XXX|XXX|
+|62|XXX|XXX|XXX|
+|63|XXX|XXX|XXX|
+|64|XXX|XXX|XXX|
+|65|XXX|XXX|XXX|
+|66|XXX|XXX|XXX|
+
+&nbsp;
+
+\conc
+
+## Equipo 
 
 XXX
 
 \sp
 
+## Magia tiki
+
+En la época de los sueños los espíritus vivían entre los roedores, pero cuando el sueño se rompió, fueron encerrados dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o lava. Los grandes kahunas aprendieron a crear con esos materiales máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro.
+
+> Si lo deseas puedes usar las máscaras tiki, como si fueran las tablillas de obsidiana del manual básico de Mausritter o usar las reglas especiales para «MausTiki».
+
+### Máscaras espirituales tiki
+
+[![Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak](./images/mascaras-tiki-01.png "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")
+
+Las máscaras tienen una forma u otra según sus poderes y se no se pueden comprar ni vender.
+
+### Usar las máscaras
+
+Para usar los poderes mágicos de los tikis, tu roedor debe ponerse la máscara y decir XXX en voz alta.
+
+Cuando usas la magia del tiki, decides el Poder que usas con un máximo del número de usos que le queden a la máscara.
+
+Tira tantos dados d6 como el Poder usado para lanzarlo. Por cada dado que saque 4-6, marca una casilla de uso en el hechizo.
+
+El hechizo tiene un efecto, que varía dependiendo del número de [DADOS] invertido y la [SUMA] de la tirada.
+
+### Enfadar al espíritu
+
+XXX
+
+### Recargar la máscara
+
+Cuando se marquen todas las casillas de uso de una máscara tiki el espíritu de su interior queda agotado y la máscara pierde sus capacidades mágicas. 
+
+Para restaurar al espíritu de la máscara debes cumplir una condición que devuelve al espíritu todo su poder y a la máscara todas sus casillas de uso.
+
+\sinc
+
+|2d6|Hechizo|Efecto|Recarga|
+|---|---|---|---|
+|2|XXX|XXX|XXX|
+|3|XXX|XXX|XXX|
+|4|XXX|XXX|XXX|
+|5|XXX|XXX|XXX|
+|6|XXX|XXX|XXX|
+|7|XXX|XXX|XXX|
+|8|XXX|XXX|XXX|
+|9|XXX|XXX|XXX|
+|10|XXX|XXX|XXX|
+|11|XXX|XXX|XXX|
+|12|XXX|XXX|XXX|
+
+\conc
+
+\sp
+
+## Surfear olas
+
+XXX
+
+\sp
+
+\sinc
+
+# La playa y el volcán
+
+\conc
+
+XXX
+
+\sc
+
+\sp
+
 ## Licencia
 
-«La Playa» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
+«MausTiki» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
 Se publica bajo la «Licencia a Terceros de Mausritter».
 
 Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryhope (para la edición en castellano).
 
-«La Playa» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
+«MausTiki» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
 
 * Flat maori tattoo pattern by [Freepik](https://www.freepik.com/free-vector/flat-maori-tattoo-pattern_29507321.htm)
+* Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by [upklyak](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm)
+* Tiki masks with scary faces and toothy mouth, decorated with leaves isolated by [upklyak](https://www.freepik.com/free-vector/tiki-masks-with-scary-faces-toothy-mouth-decorated-with-leaves-isolated_12900249.htm)
+* Flat design wood texture illustration by [freepik](https://www.freepik.com/free-vector/flat-design-wood-texture-illustration_22628444.htm)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
-Inspiración:
-
-https://itch.io/c/1521592/mausritter
-
-***
-
-Diseño:
-
-Patrones polinesíos -> https://www.freepik.com/search?term=polynesian+pattern
-Tiki -> tiki
-Fondo
-
-https://www.freepik.com/free-vector/flat-maori-tattoo-borders-collection_81101207.htm
+[Inspiración](https://itch.io/c/1521592/mausritter)
 
 \sp
