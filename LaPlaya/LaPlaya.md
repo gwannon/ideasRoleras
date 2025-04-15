@@ -4,7 +4,7 @@
 
 **MausTiki** es mini-ambientacion para [Mausritter](https://losing-games.itch.io/mausritter) donde se explica como son los roedores de las islas del Pacífico y se describe Kaona Iole, una comunidad de kiores (ratas del Pacífico) situada en una playa de una isla del Pacífico.
 
-Incluye una aventura larga donde tus kiores  deberán aplacar la ira de los dioses si quieren que su playa sobreviva a la amenaza del volcán.
+Incluye una aventura larga donde tus kiores deberán aplacar la ira de los dioses si quieren que su playa sobreviva a la amenaza del volcán.
 
 &nbsp;
 
@@ -60,13 +60,23 @@ XXX
 
 XXX
 
+## Dioses 
+
 ## Depredadores
 
 XXX
 
-## Pele, la diosa del fuego
+## Religión y dioses
+
+XXX
+
+### Pele, la diosa del fuego
 
 Los roedores del enclave adoran a Pele, la diosa del fuego que habita el volcán. Periódicamente les recuerda su poder con alguna erupción explosiva a algún río de lava.
+
+XXX
+
+### Aumakuas, espíritus familiares
 
 XXX
 
@@ -215,6 +225,8 @@ XXX
 ## Criaturas
 
 XXX
+
+
 
 \sp
 

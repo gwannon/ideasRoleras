@@ -288,9 +288,17 @@ blockquote p strong {
 }
 
 hr  {
-  border: 3px dashed var(--color-white);
+  width: calc(100% - 11px);
+  height: 14px;
+  border: none;
+  background: transparent url('./images/ola.png') center center repeat-x;
   margin-bottom: 25px;
-  margin-top: -10px;
+  margin-top: 10px;
+}
+
+.columns hr {
+  background-position: left center;
+  width: calc(100% - 7px);
 }
 
 @media screen {
