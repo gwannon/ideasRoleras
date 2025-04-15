@@ -2,14 +2,21 @@
 
 # MausTiki [por Gwannon](https://gwannon.itch.io/mausstiki-mausritter)
 
+**MausTiki** es mini-ambientacion para [Mausritter](https://losing-games.itch.io/mausritter) donde se explica como son los roedores de las islas del Pacífico y se describe Kaona Iole, una comunidad de kiores (ratas del Pacífico) situada en una playa de una isla del Pacífico.
 
-**MausTiki** es una aventura para [Mausritter](https://losing-games.itch.io/mausritter) donde una comunidad de roedores de una isla del Pacífico deberá aplacar la ira de los dioses si quieren que su playa sobreviva a la amenaza del volcán.
+Incluye una aventura larga donde tus kiores  deberán aplacar la ira de los dioses si quieren que su playa sobreviva a la amenaza del volcán.
 
 &nbsp;
 
 \conc
 
 ## La comunidad de Kaona Iole
+
+XXX
+
+En la comunidad de Kaona Iole principalmente hay kiores o ratas del Pacífico.
+
+### Situación 
 
 XXX
 
@@ -35,9 +42,17 @@ Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en u
 
 ### El mar y las embarcaciones
 
+Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
+
 XXX
 
+\sp
+
 ### Surf
+
+```
+Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas y por eso le veneramos. Sin el surf nuestras vidas estarían vacias y sin hopupu.
+```
 
 XXX
 
@@ -45,7 +60,13 @@ XXX
 
 XXX
 
+## Depredadores
+
+XXX
+
 ## Pele, la diosa del fuego
+
+Los roedores del enclave adoran a Pele, la diosa del fuego que habita el volcán. Periódicamente les recuerda su poder con alguna erupción explosiva a algún río de lava.
 
 XXX
 
@@ -63,7 +84,7 @@ XXX
 
 XXX
 
-* Las monedas dejan de ser pepitas y pasan a ser conchas.
+* Las monedas dejan de ser pepitas y pasan a ser conchas azules.
 
 \sinc
 
@@ -73,28 +94,27 @@ XXX
 |---|---|---|---|
 |11|XXX|XXX|XXX|
 |12|XXX|XXX|XXX|
-|13|XXX|XXX|XXX|
+|13|Cestero/a|XXX|XXX|
 |14|XXX|XXX|XXX|
-|15|XXX|XXX|XXX|
+|15|Productor de lava|Mortero y maja|XXX|
 |16|XXX|XXX|XXX|
-|21|XXX|XXX|XXX|
+|21|Recolector/a de cocos|XXX|XXX|
 |22|XXX|XXX|XXX|
 |23|XXX|XXX|XXX|
-|24|Pescador|Red|Aguja (ligera, 1d6)|
+|24|Pescador/a|Red|Aguja (ligera, 1d6)|
 |25|XXX|XXX|XXX|
 |26|Bailarín/a de Hula|Traje de hula|XXX|
-|31|XXX|XXX|XXX|
+|31|Carpintero/a|XXX|XXX|
 |32|XXX|XXX|XXX|
 |33|XXX|XXX|XXX|
-|34|XXX|XXX|XXX|
+|34|Recolector/a de algas|XXX|XXX|
 |35|XXX|XXX|XXX|
-|36|Tatuador|Herramientas de tatuador|Tinta|
+|36|Tatuador/a|Herramientas de tatuador|Tinta|
 |41|XXX|XXX|XXX|
 |42|XXX|XXX|XXX|
-|43|Surfero|Tabla de surf|Cera|
+|43|Surfero/a|Tabla de surf|Cera|
 |44|XXX|XXX|XXX|
 |45|XXX|XXX|XXX|
-
 
 \sinc
 
@@ -104,7 +124,7 @@ XXX
 
 |PG+Pepitas|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
-|46|XXX|XXX|XXX|
+|46|Tejedor/a de hojas de palma|XXX|XXX|
 |51|XXX|XXX|XXX|
 |52|XXX|XXX|XXX|
 |53|XXX|XXX|XXX|
@@ -122,7 +142,11 @@ XXX
 
 \conc
 
-## Equipo 
+## Inventario
+
+XXX
+
+### Embarcaciones
 
 XXX
 
@@ -130,7 +154,9 @@ XXX
 
 ## Magia tiki
 
-En la época de los sueños los espíritus vivían entre los roedores, pero cuando el sueño se rompió, fueron encerrados dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o lava. Los grandes kahunas aprendieron a crear con esos materiales máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro.
+En la época de los sueños los espíritus vivían entre los roedores, pero cuando el sueño se rompió, fueron encerrados dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
+
+Los grandes kahunas aprendieron a crear con esos materiales unas máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro, pero ese conocimiento se perdió hace mucho tiempo y ahora solo se pueden conseguir buscando en lugares peligrosos y antiguos.
 
 > Si lo deseas puedes usar las máscaras tiki, como si fueran las tablillas de obsidiana del manual básico de Mausritter o usar las reglas especiales para «MausTiki».
 
@@ -138,7 +164,7 @@ En la época de los sueños los espíritus vivían entre los roedores, pero cuan
 
 [![Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak](./images/mascaras-tiki-01.png "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")
 
-Las máscaras tienen una forma u otra según sus poderes y se no se pueden comprar ni vender.
+Las máscaras tienen una forma u otra según su material o sus poderes y no se pueden comprar ni vender, solo se pueden regalar, donar, entregar como dote, etc. Se consideran reliquias familiares que pasan de generación en generación. Su perdida se considera un augurio funesto y encontrar una máscara tiki significa una gran bonanza.
 
 ### Usar las máscaras
 
@@ -160,11 +186,13 @@ Cuando se marquen todas las casillas de uso de una máscara tiki el espíritu de
 
 Para restaurar al espíritu de la máscara debes cumplir una condición que devuelve al espíritu todo su poder y a la máscara todas sus casillas de uso.
 
+\sp
+
 \sinc
 
 |2d6|Hechizo|Efecto|Recarga|
 |---|---|---|---|
-|2|XXX|XXX|XXX|
+|2|Fuego de Pele|XXX|Meterlo en lava|
 |3|XXX|XXX|XXX|
 |4|XXX|XXX|XXX|
 |5|XXX|XXX|XXX|
@@ -181,6 +209,10 @@ Para restaurar al espíritu de la máscara debes cumplir una condición que devu
 \sp
 
 ## Surfear olas
+
+XXX
+
+## Criaturas
 
 XXX
 
@@ -211,6 +243,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by [upklyak](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm)
 * Tiki masks with scary faces and toothy mouth, decorated with leaves isolated by [upklyak](https://www.freepik.com/free-vector/tiki-masks-with-scary-faces-toothy-mouth-decorated-with-leaves-isolated_12900249.htm)
 * Flat design wood texture illustration by [freepik](https://www.freepik.com/free-vector/flat-design-wood-texture-illustration_22628444.htm)
+* Parquet seamless pattern [rawpixel.com](https://www.freepik.com/free-vector/parquet-seamless-pattern_16269492.htm)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
