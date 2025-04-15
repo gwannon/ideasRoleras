@@ -1,6 +1,6 @@
 \sinc
 
-# MausTiki [por Gwannon](https://gwannon.itch.io/mausstiki-mausritter)
+# MausTiki [por Gwannon](https://gwannon.itch.io/maustiki)
 
 **MausTiki** es mini-ambientacion para [Mausritter](https://losing-games.itch.io/mausritter) donde se explica como son los roedores de las islas del Pacífico y se describe Kaona Iole, una comunidad de kiores (ratas del Pacífico) situada en una playa de una isla del Pacífico.
 
@@ -90,15 +90,24 @@ XXX
 
 # Reglas
 
+**MausTiki** modifica ciertas reglas de Mausritter y añade otras nuevas para representar la singularidad de asentamiento de Kaona Iole y las islas del Pacífico.
+
+&nbsp;
+
 \conc
 
-XXX
+### Cambios rápidos de reglas
 
-* Las monedas dejan de ser pepitas y pasan a ser conchas azules.
+Hay pequeños cambios en el reglamento original que te explicamos a continuación.
+
+* Las monedas dejan de ser pepitas y pasan a ser conchas azules (ca).
+* XXX
 
 \sinc
 
 ## Trasfondos
+
+Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
 
 |PG+Conchas|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
@@ -106,7 +115,7 @@ XXX
 |12|XXX|XXX|XXX|
 |13|Cestero/a|XXX|XXX|
 |14|XXX|XXX|XXX|
-|15|Productor de lava|Mortero y maja|XXX|
+|15|Productor de kava|Mortero y maja|XXX|
 |16|XXX|XXX|XXX|
 |21|Recolector/a de cocos|XXX|XXX|
 |22|XXX|XXX|XXX|
@@ -115,13 +124,13 @@ XXX
 |25|XXX|XXX|XXX|
 |26|Bailarín/a de Hula|Traje de hula|XXX|
 |31|Carpintero/a|XXX|XXX|
-|32|XXX|XXX|XXX|
+|32|Pastor/a de pulgas de mar|XXX|XXX|
 |33|XXX|XXX|XXX|
 |34|Recolector/a de algas|XXX|XXX|
 |35|XXX|XXX|XXX|
 |36|Tatuador/a|Herramientas de tatuador|Tinta|
 |41|XXX|XXX|XXX|
-|42|XXX|XXX|XXX|
+|42|Recolector/a de moluscos|Pala|Cubo|
 |43|Surfero/a|Tabla de surf|Cera|
 |44|XXX|XXX|XXX|
 |45|XXX|XXX|XXX|
@@ -132,16 +141,16 @@ XXX
 
 \sinc
 
-|PG+Pepitas|Trasfondo|Objeto A|Objeto B|
+|PG+Conchas|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
 |46|Tejedor/a de hojas de palma|XXX|XXX|
 |51|XXX|XXX|XXX|
-|52|XXX|XXX|XXX|
+|52|Buceador/a|XXX|XXX|
 |53|XXX|XXX|XXX|
 |54|Tragafuegos|Antorchas|Parafina|
 |55|XXX|XXX|XXX|
 |56|XXX|XXX|XXX|
-|61|XXX|XXX|XXX|
+|61|Cuentacuentos|XXX|XXX|
 |62|XXX|XXX|XXX|
 |63|XXX|XXX|XXX|
 |64|XXX|XXX|XXX|
@@ -150,11 +159,37 @@ XXX
 
 &nbsp;
 
-\conc
-
 ## Inventario
 
+\conc
+
 XXX
+
+El metal no es desconocido para los kiores, pero no son buenos herreros, pero sí son buenos carpinteros.
+
+### Armas y armaduras
+
+XXX
+
+#### Armas
+
+XXX
+
+* **Leiomano:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de dientes de tiburón insertados.
+
+#### Armadura
+
+XXX
+
+* Armadura de palma trenzada
+* Armadura de placas de coco
+* Armadura de conchas
+
+### Otros
+
+XXX
+
+* **Kava (XXXca):** La kava es una planta de la que se saca una bebida con efectos XXX
 
 ### Embarcaciones
 
@@ -162,7 +197,11 @@ XXX
 
 \sp
 
+\sinc
+
 ## Magia tiki
+
+\conc
 
 En la época de los sueños los espíritus vivían entre los roedores, pero cuando el sueño se rompió, fueron encerrados dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
 
@@ -188,7 +227,7 @@ El hechizo tiene un efecto, que varía dependiendo del número de [DADOS] invert
 
 ### Enfadar al espíritu
 
-XXX
+Los espíritus de los tikis tienen una serie de tabús o leyes muy antiguos que aún siguen respetando y si los rompes pueden enfadarse contigo. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
 
 ### Recargar la máscara
 
@@ -196,27 +235,46 @@ Cuando se marquen todas las casillas de uso de una máscara tiki el espíritu de
 
 Para restaurar al espíritu de la máscara debes cumplir una condición que devuelve al espíritu todo su poder y a la máscara todas sus casillas de uso.
 
-\sp
-
 \sinc
 
-|2d6|Hechizo|Efecto|Recarga|
-|---|---|---|---|
-|2|Fuego de Pele|XXX|Meterlo en lava|
-|3|XXX|XXX|XXX|
-|4|XXX|XXX|XXX|
-|5|XXX|XXX|XXX|
-|6|XXX|XXX|XXX|
-|7|XXX|XXX|XXX|
-|8|XXX|XXX|XXX|
-|9|XXX|XXX|XXX|
-|10|XXX|XXX|XXX|
-|11|XXX|XXX|XXX|
-|12|XXX|XXX|XXX|
+|2d8|Hechizo|Efecto|Recarga|Tabú|
+|---|---|---|---|---|
+|2|Fuego de Pele|XXX|Meterlo en lava|Debes encender siempre fuego durante un descanso largo o completo.|
+|3|XXX|XXX|XXX|XXX|
+|4|XXX|XXX|XXX|XXX|
+|5|XXX|XXX|XXX|Prohibido tocar un anzuelo|
+|6|XXX|XXX|XXX|XXX|
 
 \conc
 
 \sp
+
+\sinc
+
+|2d8|Hechizo|Efecto|Recarga|Tabú|
+|---|---|---|---|---|
+|7|XXX|XXX|XXX|XXX|
+|8|XXX|XXX|XXX|XXX|
+|9|XXX|XXX|XXX|XXX|
+|10|XXX|XXX|XXX|XXX|
+|11|XXX|XXX|XXX|XXX|
+|12|XXX|XXX|XXX|XXX|
+|13|XXX|XXX|XXX|XXX|
+|14|Don de Hāʻupu|XXX|XXX|Prohibido lanzar piedras|
+|15|XXX|XXX|XXX|XXX|
+|16|XXX|XXX|XXX|XXX|
+
+\conc
+
+\sp
+
+## Condiciones
+
+XXX
+
+### Maldito
+
+XXX
 
 ## Surfear olas
 
@@ -225,8 +283,6 @@ XXX
 ## Criaturas
 
 XXX
-
-
 
 \sp
 
@@ -260,5 +316,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
 [Inspiración](https://itch.io/c/1521592/mausritter)
+
+Buscar Mythic Polynesia - Mythras Roleplaying Game
 
 \sp

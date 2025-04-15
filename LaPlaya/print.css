@@ -252,8 +252,7 @@ table tr:nth-child(even) {
   background-color: var(--color-brown-pale);
 }
 
-table.special th,
-table.special td {
+table td {
   font-size: 0.8em;
 }
 
@@ -264,7 +263,6 @@ pre {
   margin: 10px 0px;
   border-radius: 13px;
 }
-
 
 pre code {
   background: var(--color-brown-pale) url('./images/pdrmpattern3-pattern-boom-05.png') center center repeat;
