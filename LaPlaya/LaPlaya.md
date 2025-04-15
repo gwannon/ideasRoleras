@@ -113,7 +113,7 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
 
-|PG+Conchas|Trasfondo|Objeto A|Objeto B|
+|PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
 |11|XXX|XXX|XXX|
 |12|XXX|XXX|XXX|
@@ -122,12 +122,12 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |15|Productor de kava|Mortero y maja|XXX|
 |16|XXX|XXX|XXX|
 |21|Recolector/a de cocos|XXX|XXX|
-|22|XXX|XXX|XXX|
-|23|XXX|XXX|XXX|
+|22|Carpintero/a|XXX|XXX|
+|23|Buscador de tubérculos|XXX|XXX|
 |24|Pescador/a|Red|Aguja (ligera, 1d6)|
 |25|XXX|XXX|XXX|
 |26|Bailarín/a de Hula|Traje de hula|XXX|
-|31|Carpintero/a|XXX|XXX|
+|31|Leñador|Hacha (mediana, 1d6 / 1d8)|Cordel, rollo|
 |32|Pastor/a de pulgas de mar|XXX|XXX|
 |33|XXX|XXX|XXX|
 |34|Recolector/a de algas|XXX|XXX|
@@ -145,7 +145,7 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 \sinc
 
-|PG+Conchas|Trasfondo|Objeto A|Objeto B|
+|PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
 |46|Tejedor/a de hojas de palma|XXX|XXX|
 |51|XXX|XXX|XXX|
@@ -153,11 +153,11 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |53|XXX|XXX|XXX|
 |54|Tragafuegos|Antorchas|Parafina|
 |55|XXX|XXX|XXX|
-|56|XXX|XXX|XXX|
+|56|Mensajero|Saco de dormir|Daga (ligera, d6)|
 |61|Cuentacuentos|XXX|XXX|
 |62|XXX|XXX|XXX|
-|63|XXX|XXX|XXX|
-|64|XXX|XXX|XXX|
+|63|Extractor de savia|Cubo|Cuñas de madera|
+|64|Apicultor|Tarro de miel|Red|
 |65|XXX|XXX|XXX|
 |66|XXX|XXX|XXX|
 
@@ -243,11 +243,9 @@ Para restaurar al espíritu de la máscara debes cumplir una condición que devu
 
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
-|2|Fuego de Pele|XXX|Meterlo en lava|Debes encender siempre fuego durante un descanso largo o completo.|
+|2|Fuego de Pele|Lanza una bola explosiva hasta 60 cm. Inflige [SUMA] + [DADOS] de daño a todas las criaturas en 15 cm de radio.|Meterlo en lava|Debes encender siempre fuego durante un descanso largo o completo.|
 |3|XXX|XXX|XXX|XXX|
 |4|XXX|XXX|XXX|XXX|
-|5|XXX|XXX|XXX|Prohibido tocar un anzuelo|
-|6|XXX|XXX|XXX|XXX|
 
 \conc
 
@@ -257,14 +255,16 @@ Para restaurar al espíritu de la máscara debes cumplir una condición que devu
 
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
+|5|XXX|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener 3 días en agua de mar|Prohibido tocar un anzuelo|
+|6|XXX|XXX|XXX|XXX|
 |7|XXX|XXX|XXX|XXX|
 |8|XXX|XXX|XXX|XXX|
 |9|XXX|XXX|XXX|XXX|
-|10|XXX|XXX|XXX|XXX|
+|10|Don de Pele|Eres inmune al calor extremo y puedes andar sobre la lava durante [DADOS] turnos|XXX|XXX|
 |11|XXX|XXX|XXX|XXX|
 |12|XXX|XXX|XXX|XXX|
 |13|XXX|XXX|XXX|XXX|
-|14|Don de Hāʻupu|XXX|XXX|Prohibido lanzar piedras|
+|14|Don de Hāʻupu|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña|Prohibido lanzar piedras|
 |15|XXX|XXX|XXX|XXX|
 |16|XXX|XXX|XXX|XXX|
 

@@ -79,13 +79,13 @@ foreach($lines as $line) {
     $metas .= bookMark($line, 1, $counter);
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
-    $metas .= bookMark($line, 1, $counter);
+    $metas .= bookMark($line, 2, $counter);
   } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
-    $metas .= bookMark($line, 2, $counter);
+    $metas .= bookMark($line, 3, $counter);
   } else if(preg_match("/(<h4>)/", $line)) {
     $line = strip_tags($line);
-    $metas .= bookMark($line, 3, $counter);
+    $metas .= bookMark($line, 4, $counter);
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
