@@ -76,6 +76,10 @@ Los roedores del enclave adoran a Pele, la diosa del fuego que habita el volcán
 
 XXX
 
+### Mausi, el héroe tramposo
+
+XXX
+
 ### Aumakuas, espíritus familiares
 
 XXX
