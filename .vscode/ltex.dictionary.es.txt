@@ -686,3 +686,7 @@ Kaona
 Iole
 MausTiki
 kiores
+hula
+1d8
+Hula
+kava

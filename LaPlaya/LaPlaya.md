@@ -26,7 +26,7 @@ XXX
 
 ### Clima y mareas 
 
-Xxx
+XXX
 
 Las **mareas son una parte fundamental de la vida del asentamiento** y avisar a sus habitantes de las subidas y bajadas de la marea es una ocupación muy importante.
 
@@ -60,8 +60,6 @@ XXX
 
 XXX
 
-## Dioses 
-
 ## Depredadores
 
 XXX
@@ -70,9 +68,19 @@ XXX
 
 XXX
 
+## Dioses, héroes o gigantes
+
+XXX
+
+* **Pele.** XXX
+* **Hi’iaka.** XXX
+* **Kū.** XXX
+* **Nā maka.** XXX
+* **Hā ʻupu.** XXX
+
 ### Pele, la diosa del fuego
 
-Los roedores del enclave adoran a Pele, la diosa del fuego que habita el volcán. Periódicamente les recuerda su poder con alguna erupción explosiva a algún río de lava.
+Los roedores del enclave adoran especialmente a Pele, la diosa del fuego que habita el volcán. Periódicamente les recuerda su poder con alguna erupción explosiva a algún río de lava.
 
 XXX
 
@@ -109,7 +117,26 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 \sinc
 
-## Trasfondos
+## Creación de personaje
+
+\conc
+
+XXX
+
+### Marea de nacimiento
+
+En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguiente tabla de marea.
+
+|1d6|Marea|XXX|
+|---|---|---|
+|1-2|Marea subiendo|XXX|
+|3|Pleamar|XXX|
+|4-5|Marea bajando|XXX|
+|6|Bajamar|XXX|
+
+\sinc
+
+### Trasfondos
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
 
@@ -131,13 +158,6 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |32|Pastor/a de pulgas de mar|XXX|XXX|
 |33|XXX|XXX|XXX|
 |34|Recolector/a de algas|XXX|XXX|
-|35|XXX|XXX|XXX|
-|36|Tatuador/a|Herramientas de tatuador|Tinta|
-|41|XXX|XXX|XXX|
-|42|Recolector/a de moluscos|Pala|Cubo|
-|43|Surfero/a|Tabla de surf|Cera|
-|44|XXX|XXX|XXX|
-|45|XXX|XXX|XXX|
 
 \sinc
 
@@ -147,6 +167,13 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
+|35|XXX|XXX|XXX|
+|36|Tatuador/a|Herramientas de tatuador|Tinta|
+|41|XXX|XXX|XXX|
+|42|Recolector/a de moluscos|Pala|Cubo|
+|43|Surfero/a|Tabla de surf|Cera|
+|44|XXX|XXX|XXX|
+|45|XXX|XXX|XXX|
 |46|Tejedor/a de hojas de palma|XXX|XXX|
 |51|XXX|XXX|XXX|
 |52|Buceador/a|XXX|XXX|
@@ -217,11 +244,13 @@ Los grandes kahunas aprendieron a crear con esos materiales unas máscaras tiki 
 
 [![Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak](./images/mascaras-tiki-01.png "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")
 
-Las máscaras tienen una forma u otra según su material o sus poderes y no se pueden comprar ni vender, solo se pueden regalar, donar, entregar como dote, etc. Se consideran reliquias familiares que pasan de generación en generación. Su perdida se considera un augurio funesto y encontrar una máscara tiki significa una gran bonanza.
+Las máscaras tienen una forma u otra según su material o sus poderes y no se pueden comprar ni vender, solo se pueden regalar, donar, entregar como dote, etc. Se consideran reliquias familiares que pasan de generación en generación.
+
+Su perdida se considera un augurio funesto y encontrar una máscara tiki significa una gran bonanza.
 
 ### Usar las máscaras
 
-Para usar los poderes mágicos de los tikis, tu roedor debe ponerse la máscara y decir XXX en voz alta.
+Para usar los poderes mágicos de los tikis, tu roedor debe ponerse la máscara y decir el nombre de la deidad asociada a la máscara en voz alta.
 
 Cuando usas la magia del tiki, decides el Poder que usas con un máximo del número de usos que le queden a la máscara.
 
@@ -231,7 +260,7 @@ El hechizo tiene un efecto, que varía dependiendo del número de [DADOS] invert
 
 ### Enfadar al espíritu
 
-Los espíritus de los tikis tienen una serie de tabús o leyes muy antiguos que aún siguen respetando y si los rompes pueden enfadarse contigo. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
+Los espíritus de los tikis tienen una serie de tabús o leyes muy antiguos que aún siguen respetando y si los rompes pueden enfadarse contigo. El espíritu te vigila incluso cuando está descargado. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
 
 ### Recargar la máscara
 
@@ -239,15 +268,9 @@ Cuando se marquen todas las casillas de uso de una máscara tiki el espíritu de
 
 Para restaurar al espíritu de la máscara debes cumplir una condición que devuelve al espíritu todo su poder y a la máscara todas sus casillas de uso.
 
-\sinc
+### Hechizos
 
-|2d8|Hechizo|Efecto|Recarga|Tabú|
-|---|---|---|---|---|
-|2|Fuego de Pele|Lanza una bola explosiva hasta 60 cm. Inflige [SUMA] + [DADOS] de daño a todas las criaturas en 15 cm de radio.|Meterlo en lava|Debes encender siempre fuego durante un descanso largo o completo.|
-|3|XXX|XXX|XXX|XXX|
-|4|XXX|XXX|XXX|XXX|
-
-\conc
+Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos con el manual básico, tiene otros nuevos adaptados a la vida cerca del mar, como el **Don de Nāmaka** (Respirar bajo el agua), o en la falda de volcanes, como **Bendición de Pele** (Inmunidad calor y fuego).
 
 \sp
 
@@ -255,16 +278,19 @@ Para restaurar al espíritu de la máscara debes cumplir una condición que devu
 
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
-|5|XXX|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener 3 días en agua de mar|Prohibido tocar un anzuelo|
+|2|**Fuego de Pele** (Bola de fuego)|Lanza una bola explosiva hasta 60 cm. Inflige [SUMA] + [DADOS] de daño a todas las criaturas en 15 cm de radio.|Meterlo en lava.|Debes encender siempre fuego durante un descanso largo o completo.|
+|3|**Bendición de Hi’iaka** (Curación)|Cura [SUMA] puntos de FUE y elimina el Estado Herido de una criatura.|Un grupo de danzas hula debe bailar delante de la máscara.|Debes bailar el hula siempre que se celebre algo.|
+|4|**Lanza de Kū** (Proyectil mágico)|Inflige [SUMA] + [DADOS] de daño a una criatura a la vista.|Colgar la máscara durante 3 días de un árbol de ulu (arbol de pan)|No puedes huir de un combate.|
+|5|**Don de Nāmaka** (Respirar bajo el agua)|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener la máscara 3 días en agua de mar.|Prohibido tocar objetos con forma de anzuelo y usar protecciones de concha|
 |6|XXX|XXX|XXX|XXX|
 |7|XXX|XXX|XXX|XXX|
 |8|XXX|XXX|XXX|XXX|
 |9|XXX|XXX|XXX|XXX|
-|10|Don de Pele|Eres inmune al calor extremo y puedes andar sobre la lava durante [DADOS] turnos|XXX|XXX|
-|11|XXX|XXX|XXX|XXX|
-|12|XXX|XXX|XXX|XXX|
+|10|**Luz de Kane** (Luz cegadora)|Obliga a [DADOS] criaturas a pasar una salvación de VOL o quedar aturdidas. Además, puedes crear una luz que brilla como una antorcha durante [SUMA] turnos.|Presenciar la primera luz del alba y la última del ocaso durante tres días.|Usar sombreros, parasoles y similar o taparte la cabeza|
+|11|**Bendición de Pele** (Inmunidad calor y fuego)|Eres inmune al fuego y al calor extremo y puedes andar sobre la lava durante [DADOS] turnos|Hacerte una quemadura de 1d6 de daño de FUE.|XXX|
+|12|**Favor del Mo‘o** (Cambiaformas)|XXX|XXX|XXX|
 |13|XXX|XXX|XXX|XXX|
-|14|Don de Hāʻupu|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña|Prohibido lanzar piedras|
+|14|**Don de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras|
 |15|XXX|XXX|XXX|XXX|
 |16|XXX|XXX|XXX|XXX|
 
@@ -285,6 +311,10 @@ XXX
 XXX
 
 ## Criaturas
+
+XXX
+
+### Mo‘o, lagarto cambiaforma
 
 XXX
 
