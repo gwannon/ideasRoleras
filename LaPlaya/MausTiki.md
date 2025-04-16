@@ -220,7 +220,7 @@ Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar
 
 > Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
 
-Para quitarse la condición de «Maldito» debe XXX
+Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia de para pedir perdón al espíritu.
 
 \sp
 
