@@ -56,9 +56,21 @@ Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas
 
 XXX
 
+> El surf que se representa aquí con trucos, carreras y tablas rápidas nada tiene que ver con el que practicaban los antiguos polinesios. Es más cercano al surf moderno. Nos hemos tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. Puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.
+
 ## El día a día
 
 XXX
+
+### Tatuajes
+
+Los kiores tienden a hacerse tatuajes en el interior de las orejas. XXX. 
+
+No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad.
+
+De normal los koires llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación.
+
+Hacer tatuajes es una profesión muy respetada XXX
 
 ## Depredadores
 
@@ -68,7 +80,7 @@ XXX
 
 XXX
 
-## Dioses, héroes o gigantes
+### Dioses, héroes o gigantes
 
 XXX
 
@@ -102,7 +114,7 @@ XXX
 
 # Reglas
 
-**MausTiki** modifica ciertas reglas de Mausritter y añade otras nuevas para representar la singularidad de asentamiento de Kaona Iole y las islas del Pacífico.
+MausTiki modifica ciertas reglas de Mausritter y añade otras nuevas para representar la singularidad de asentamiento de Kaona Iole y de los roedores de las islas del Pacífico.
 
 &nbsp;
 
@@ -125,7 +137,7 @@ XXX
 
 ### Marea de nacimiento
 
-En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguiente tabla de marea.
+En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguiente tabla de mareas.
 
 |1d6|Marea|XXX|
 |---|---|---|
@@ -143,7 +155,7 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
 |11|XXX|XXX|XXX|
-|12|XXX|XXX|XXX|
+|12|Tejedor/a de lei de flores|XXX|XXX|
 |13|Cestero/a|XXX|XXX|
 |14|XXX|XXX|XXX|
 |15|Productor de kava|Mortero y maja|XXX|
@@ -152,12 +164,12 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |22|Carpintero/a|XXX|XXX|
 |23|Buscador de tubérculos|XXX|XXX|
 |24|Pescador/a|Red|Aguja (ligera, 1d6)|
-|25|XXX|XXX|XXX|
+|25|Tallador/a de madera|Mazo|Cinceles para madera|
 |26|Bailarín/a de Hula|Traje de hula|XXX|
 |31|Leñador|Hacha (mediana, 1d6 / 1d8)|Cordel, rollo|
 |32|Pastor/a de pulgas de mar|XXX|XXX|
-|33|XXX|XXX|XXX|
-|34|Recolector/a de algas|XXX|XXX|
+|33|Carpintero de ribera|XXX|XXX|
+|34|Recolector/a de algas|Orca|Cesta|
 
 \sinc
 
@@ -172,12 +184,12 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |41|XXX|XXX|XXX|
 |42|Recolector/a de moluscos|Pala|Cubo|
 |43|Surfero/a|Tabla de surf|Cera|
-|44|XXX|XXX|XXX|
-|45|XXX|XXX|XXX|
+|44|Picapedrero/a|Maza de piedra XXX|Cuñas de madera|
+|45|Sombrerero/a|XXX|XXX|
 |46|Tejedor/a de hojas de palma|XXX|XXX|
-|51|XXX|XXX|XXX|
+|51|Constructor/a de tablas de surf|XXX|XXX|
 |52|Buceador/a|XXX|XXX|
-|53|XXX|XXX|XXX|
+|53|Tallador/a de piedras|XXX|XXX|
 |54|Tragafuegos|Antorchas|Parafina|
 |55|XXX|XXX|XXX|
 |56|Mensajero|Saco de dormir|Daga (ligera, d6)|
@@ -189,6 +201,16 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |66|XXX|XXX|XXX|
 
 &nbsp;
+
+\conc
+
+La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
+
+Lo mismo pasa con la hoja de palma que también encontramos varias profesiones que la transforman en diferentes elementos como cestas, velas, sombreros, etc.
+
+Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios transfondo a basados en el trabajo de la piedra, tanto para construcción como decorativos.
+
+\sinc
 
 ## Inventario
 
@@ -234,6 +256,8 @@ XXX
 
 \conc
 
+[![Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak](./images/mascaras-tiki-01.png "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")
+
 En la época de los sueños los espíritus vivían entre los roedores, pero cuando el sueño se rompió, fueron encerrados dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
 
 Los grandes kahunas aprendieron a crear con esos materiales unas máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro, pero ese conocimiento se perdió hace mucho tiempo y ahora solo se pueden conseguir buscando en lugares peligrosos y antiguos.
@@ -241,8 +265,6 @@ Los grandes kahunas aprendieron a crear con esos materiales unas máscaras tiki 
 > Si lo deseas puedes usar las máscaras tiki, como si fueran las tablillas de obsidiana del manual básico de Mausritter o usar las reglas especiales para «MausTiki».
 
 ### Máscaras espirituales tiki
-
-[![Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak](./images/mascaras-tiki-01.png "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm "Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by upklyak")
 
 Las máscaras tienen una forma u otra según su material o sus poderes y no se pueden comprar ni vender, solo se pueden regalar, donar, entregar como dote, etc. Se consideran reliquias familiares que pasan de generación en generación.
 
@@ -260,7 +282,19 @@ El hechizo tiene un efecto, que varía dependiendo del número de [DADOS] invert
 
 ### Enfadar al espíritu
 
-Los espíritus de los tikis tienen una serie de tabús o leyes muy antiguos que aún siguen respetando y si los rompes pueden enfadarse contigo. El espíritu te vigila incluso cuando está descargado. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
+Los espíritus de los tikis tienen una serie de leyes llamadas tabús muy antiguas que aún siguen respetando y si las rompes pueden enfadarse contigo. El espíritu te vigila incluso cuando está descargado. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
+
+En la lista de hechizos se da una sugerencia del tabú que impone la máscara, pero puedes variarla, respetando siempre el espíritu de la restricción original, si hay varias máscaras iguales en el grupo o va muy en contra del carácter y personalidad del PJ que la porte. Si el tabú es encender siempre un fuego cuando descansas, otra opción sería que no puedes apagar un fuego del tipo que sea.
+
+### Identificando la máscara
+
+Las mascarás tienes formas y elementos reconocibles de forma que su hechizo y el nombre del dios invocador es facil de averiguar. Los tabús y las formas de recargar cada máscara se explican al entregarla, pero en caso de encontrarse una tiki en una aventura hay que **tirar XXX para averiguar su tabú y su forma de recarga**.
+
+En caso de fallar pueden usarla sin problemas, pero arriesgándote a enfadar al espíritu y sin poder recargarla adecuadamente. 
+
+\sp
+
+Podrán pedir a otra persona que la examine o esperar al siguiente descanso largo para volver a tirar.
 
 ### Recargar la máscara
 
@@ -272,9 +306,9 @@ Para restaurar al espíritu de la máscara debes cumplir una condición que devu
 
 Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos con el manual básico, tiene otros nuevos adaptados a la vida cerca del mar, como el **Don de Nāmaka** (Respirar bajo el agua), o en la falda de volcanes, como **Bendición de Pele** (Inmunidad calor y fuego).
 
-\sp
-
 \sinc
+
+&nbsp;
 
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
@@ -287,6 +321,15 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |8|XXX|XXX|XXX|XXX|
 |9|XXX|XXX|XXX|XXX|
 |10|**Luz de Kane** (Luz cegadora)|Obliga a [DADOS] criaturas a pasar una salvación de VOL o quedar aturdidas. Además, puedes crear una luz que brilla como una antorcha durante [SUMA] turnos.|Presenciar la primera luz del alba y la última del ocaso durante tres días.|Usar sombreros, parasoles y similar o taparte la cabeza|
+
+\conc
+
+\sp
+
+\sinc
+
+|2d8|Hechizo|Efecto|Recarga|Tabú|
+|---|---|---|---|---|
 |11|**Bendición de Pele** (Inmunidad calor y fuego)|Eres inmune al fuego y al calor extremo y puedes andar sobre la lava durante [DADOS] turnos|Hacerte una quemadura de 1d6 de daño de FUE.|XXX|
 |12|**Favor del Mo‘o** (Cambiaformas)|XXX|XXX|XXX|
 |13|XXX|XXX|XXX|XXX|
@@ -307,6 +350,14 @@ XXX
 XXX
 
 ## Surfear olas
+
+XXX
+
+### Competiciones
+
+XXX
+
+### Carreras
 
 XXX
 
@@ -349,8 +400,10 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
+---
+
 [Inspiración](https://itch.io/c/1521592/mausritter)
 
 Buscar Mythic Polynesia - Mythras Roleplaying Game
 
-\sp
+Konane -> juego de damas hawaianas

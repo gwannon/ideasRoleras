@@ -690,3 +690,4 @@ hula
 1d8
 Hula
 kava
+Maustiki
