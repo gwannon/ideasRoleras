@@ -158,21 +158,21 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
-|11|XXX|XXX|XXX|
-|12|Tejedor/a de lei de flores|XXX|XXX|
-|13|Cestero/a|XXX|XXX|
-|14|XXX|XXX|XXX|
-|15|Productor de kava|Mortero y maja|XXX|
-|16|XXX|XXX|XXX|
-|21|Recolector/a de cocos|XXX|XXX|
-|22|Carpintero/a|XXX|XXX|
-|23|Buscador de tubérculos|XXX|XXX|
+|11|Curandero/a|Máscara Tiki: Bendición de Hi’iaka|Hojas de platanero|
+|12|Tejedor/a de lei de flores|Cesta|Cordel de coco, rollo|
+|13|Cestero/a|Tijeras de piedra|Maza de madera|
+|14|Jinete de cangrejos|XXX: Cangrejo|Comida para cangrejos|
+|15|Productor/a de kava|Mortero y maja|Cuencos de barro|
+|16|Salinero/a|Pala|Cubo de cerámica|
+|21|Músico|Tambor Pahu|Baquetas Käla’au|
+|22|Carpintero/a|Hacha de piedra (mediana, 1d6 / 1d8)|Cuerda de medir con nudos|
+|23|Buscador/a de tubérculos|Pala|Cesta|
 |24|Pescador/a|Red|Aguja (ligera, 1d6)|
-|25|Tallador/a de madera|Mazo|Cinceles para madera|
-|26|Bailarín/a de Hula|Traje de hula|XXX|
-|31|Leñador|Hacha (mediana, 1d6 / 1d8)|Cordel, rollo|
-|32|Pastor/a de pulgas de mar|XXX|XXX|
-|33|Carpintero de ribera|XXX|XXX|
+|25|Ebanista|Mazo|Cinceles para madera|
+|26|Bailarín/a de Hula|Traje de hula|Pulseras de madera|
+|31|Leñador/a|Hacha de piedra (mediana, 1d6 / 1d8)|Mochila de hojas de palma|
+|32|Cuidador/a de pulgas de mar|Vara con gancho|Cesto para huevos|
+|33|Carpintero/a de ribera|Hacha de piedra (mediana, 1d6 / 1d8)|Cordel de coco, rollo|
 |34|Recolector/a de algas|Orca|Cesta|
 
 \sinc
@@ -183,26 +183,26 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
-|35|XXX|XXX|XXX|
+|35|Alfarero/a|Hojas afiladas de piedra|Chesca y pedernal|
 |36|Tatuador/a|Herramientas de tatuador|Tinta|
-|41|XXX|XXX|XXX|
+|41|Recolector/a de cocos|Cuerda|Taladro|
 |42|Recolector/a de moluscos|Pala|Cubo|
 |43|Surfero/a|Tabla de surf|Cera|
-|44|Picapedrero/a|Maza de piedra XXX|Cuñas de madera|
-|45|Sombrerero/a|XXX|XXX|
-|46|Tejedor/a de hojas de palma|XXX|XXX|
-|51|Constructor/a de tablas de surf|XXX|XXX|
-|52|Buceador/a|XXX|XXX|
-|53|Tallador/a de piedras|XXX|XXX|
+|44|Picapedrero/a|Maza de piedra (pesada, d10)|Cuñas de madera|
+|45|Sombrerero/a|Cuerda de medir con nudos|Plumas de ave|
+|46|Tejedor/a de hojas de palma|Aguja (ligera, 1d6)|Cordel de coco, rollo|
+|51|Constructor/a de tablas de surf|Hacha de piedra (mediana, 1d6 / 1d8)|Piedra para pulir|
+|52|Buceador/a|Tubo de caña para respirar|Tridente (mediana, 1d6 / 1d8)|
+|53|Tallador/a de piedras|Maza de madera|Cinceles de piedra|
 |54|Tragafuegos|Antorchas|Parafina|
-|55|XXX|XXX|XXX|
+|55|Cocinero/a|Gran olla de barro|Cuchara y tenedor de madera|
 |56|Mensajero|Saco de dormir|Daga (ligera, d6)|
-|61|Cuentacuentos|XXX|XXX|
-|62|XXX|XXX|XXX|
-|63|Extractor de savia|Cubo|Cuñas de madera|
-|64|Apicultor|Tarro de miel|Red|
-|65|XXX|XXX|XXX|
-|66|XXX|XXX|XXX|
+|61|Cuentacuentos|Ropajes vistosos|Tambor de calabaza Ipu|
+|62|Tintorero/a|Mortero y maja|Gran cubo de madera|
+|63|Extractor/a de savia|Cubo|Cuñas de madera|
+|64|Apicultor/a|Tarro de miel|Red|
+|65|Salvavidas|Tabla de surf|Red|
+|66|Buhonero/a|Mochila|Cayado|
 
 &nbsp;
 
@@ -256,6 +256,18 @@ XXX
 
 \sinc
 
+# Exploración
+
+\conc
+
+XXX
+
+\sc
+
+\sp
+
+\sinc
+
 # La playa y el volcán
 
 \conc
@@ -266,7 +278,11 @@ XXX
 
 \sp
 
+\sinc
+
 ## Licencia
+
+\conc
 
 «MausTiki» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
 Se publica bajo la «Licencia a Terceros de Mausritter».
