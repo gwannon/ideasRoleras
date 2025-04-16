@@ -211,12 +211,12 @@ ul {
   padding-left: 24px;
 }
 
-ul li {
+ul > li {
   list-style-type: none;
   position: relative;
 }
 
-ul li:before {
+ul > li:before {
   content: '';
   position: absolute;
   width: 20px;

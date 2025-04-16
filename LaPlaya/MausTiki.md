@@ -161,7 +161,7 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |11|Curandero/a|Máscara Tiki: Bendición de Hi’iaka|Hojas de platanero|
 |12|Tejedor/a de lei de flores|Cesta|Cordel de coco, rollo|
 |13|Cestero/a|Tijeras de piedra|Maza de madera|
-|14|Jinete de cangrejos|XXX: Cangrejo|Comida para cangrejos|
+|14|Jinete de cangrejos|Ayudante: Montura cangrejo|Comida para cangrejos|
 |15|Productor/a de kava|Mortero y maja|Cuencos de barro|
 |16|Salinero/a|Pala|Cubo de cerámica|
 |21|Músico|Tambor Pahu|Baquetas Käla’au|
@@ -296,6 +296,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Tiki masks with scary faces and toothy mouth, decorated with leaves isolated by [upklyak](https://www.freepik.com/free-vector/tiki-masks-with-scary-faces-toothy-mouth-decorated-with-leaves-isolated_12900249.htm)
 * Flat design wood texture illustration by [freepik](https://www.freepik.com/free-vector/flat-design-wood-texture-illustration_22628444.htm)
 * Parquet seamless pattern [rawpixel.com](https://www.freepik.com/free-vector/parquet-seamless-pattern_16269492.htm)
+* Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por [brgfx](https://www.freepik.es/vector-gratis/cangrejo-raiz-manglar-estilo-dibujos-animados-sobre-fondo-blanco_18987431.htm)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
