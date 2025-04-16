@@ -24,7 +24,7 @@ XXX
 
 * Armadura de palma trenzada
 * Armadura de placas de coco
-* Armadura de conchas
+* Armadura de conchas o de cangrejo
 
 ### Otros
 

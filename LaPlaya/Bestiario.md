@@ -2,14 +2,28 @@
 
 # Criaturas
 
-XXX
+Además de las bestias de Mausritter, puedes usar en tus encuentros criaturas específicas de MausTiki. En principio, no existen en las islas del Pacífico las siguientes criaturas: gato, hada y fantasma.
 
-## Mo‘o, lagarto cambiaforma
+&nbsp;
 
 \conc
 
+## Mo‘o, lagarto cambiaforma
+
 XXX
 
+* **PG** X, **FUE** X, **DES** X, **VOL** X
+* **Armadura** X
+* **Ataques:** XXX
+* **XXX**
+  1. **XXX:** XXX
+  2. **XXX:** XXX
+  3. **XXX:** XXX
+  4. **XXX:** XXX
+  5. **XXX:** XXX
+  6. **XXX:** XXX
+
+\sc
 
 ## Cangrejo
 
@@ -21,11 +35,9 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
 * **Armadura** 3
 * **Ataques:** d8 pinzas
 * **Especies de cangrejos**
-  1. **De roca:** XXX
-  2. **Ermitaño:** Pequeño y sabio, viven en conchas, DES 10
-  3. **Caja:** Buenos cavadores y fuertemente acorazados, armadura 5
-  4. **Araña de mar:** Delgados con largas patas, 
-  5. XXX
-  6. XXX
-
-\sc
+  1. **De roca:** De pequeño tamaño, pueden convertirse en animales domésticos que criar, FUE 8, d6 pinzas.
+  2. **Ermitaño:** Pequeño y sabio, viven en conchas, DES 10.
+  3. **Caja:** Buenos cavadores y fuertemente acorazados, armadura 5. Su cáscara es buena para hacer armaduras.
+  4. **Araña de mar:** Delgados con largas patas.
+  5. **De los manglares:** De buen tamaño, viven entre las raíces de las plantas que forman los manglares.
+  6. **Kona:** Fieros luchadores, su carne es muy apreciada para grandes ceremonias.

@@ -297,6 +297,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Flat design wood texture illustration by [freepik](https://www.freepik.com/free-vector/flat-design-wood-texture-illustration_22628444.htm)
 * Parquet seamless pattern [rawpixel.com](https://www.freepik.com/free-vector/parquet-seamless-pattern_16269492.htm)
 * Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por [brgfx](https://www.freepik.es/vector-gratis/cangrejo-raiz-manglar-estilo-dibujos-animados-sobre-fondo-blanco_18987431.htm)
+* PRIMAL SPELLS FOR MAUSRITTER by [Earthpirate](https://earthpirate.itch.io/primal-spells-for-mausritter)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
