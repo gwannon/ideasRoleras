@@ -82,7 +82,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |12|**Favor del Mo‘o** (Cambiaformas)| &nbsp; | &nbsp; | &nbsp; |
 |13|XXX| &nbsp; | &nbsp; | &nbsp; |
 |14|**Don de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras|
-|15|XXX| &nbsp; | &nbsp; | &nbsp; |
+|15|**Fuerza de Mausi** (Superfuerza)|Añade [SUMA] a tu FUE durante [DADOS+1] turnos|Llenar de piedras tu mochila e ir al límite de carga hasta XXX|Debes exagerar todas las historias que cuentes poniéndote de héroe en todas|
 |16|XXX| &nbsp; | &nbsp; | &nbsp; |
 
 \conc
