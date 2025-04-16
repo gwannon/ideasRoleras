@@ -14,4 +14,17 @@
     </section>
   </body>
   <link rel="stylesheet" href="./print.css">
+  <script>
+    //WordCount
+    var cont = document.documentElement.innerHTML;
+    cont = cont.replace(/<[^>]*>/g," ");
+    cont = cont.replace(/\s+/g, ' ');
+    cont = cont.trim();
+    var n = cont.split(" ").length;
+    let words = document.querySelector('section:nth-of-type(3) p:nth-of-type(4) span');
+    console.log(n+" palabras");
+    //PageCount
+    let pages = document.querySelector('section:nth-of-type(3) p:nth-of-type(3) span');
+    console.log((document.querySelectorAll('.saltopagina').length)+" páginas");
+  </script>
 </html>
