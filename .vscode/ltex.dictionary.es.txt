@@ -691,3 +691,5 @@ hula
 Hula
 kava
 Maustiki
+VOL
+kahunas

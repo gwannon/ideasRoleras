@@ -279,13 +279,7 @@ pre code {
   border: 1px solid var(--color-brown-dark);
 }
 
-blockquote p strong {
-  display: block;
-  text-align: right;
-  text-shadow: 0px 0px 4px var(--color-black);
-}
-
-hr  {
+hr {
   width: calc(100% - 11px);
   height: 14px;
   border: none;

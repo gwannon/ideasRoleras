@@ -1,6 +1,8 @@
-# La Playa 
+# MausTiki
 
-XXX
+**MausTiki** es mini-ambientacion para [Mausritter](https://losing-games.itch.io/mausritter) donde se explica como son los roedores de las islas del Pacífico y se describe Kaona Iole, una comunidad de kiores (ratas del Pacífico) situada en una playa de una isla del Pacífico.
+
+Incluye una aventura larga donde tus kiores deberán aplacar la ira de los dioses si quieren que su playa sobreviva a la amenaza del volcán.
 
 ## Licencia
 
