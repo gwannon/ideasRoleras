@@ -46,6 +46,12 @@ Vivir en una playa de una isla significa que el mar es un elemento fundamental d
 
 XXX
 
+```
+Las canoas están seguras en la playa, pero no fue para lo que se crearon.
+```
+
+XXX
+
 \sp
 
 ### Surf
@@ -76,13 +82,13 @@ XXX
 
 ### Tatuajes
 
-Los kiores tienden a hacerse tatuajes en el interior de las orejas. XXX. 
+Los kiores tienden a hacerse tatuajes en el interior de las orejas que tienen muy poco pelo. Los tatuajes tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee el roedor tatuado. 
 
-No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad.
+Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos.
 
-De normal los koires llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación.
+No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad donde viven.
 
-Hacer tatuajes es una profesión muy respetada XXX
+De normal los koires llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
 
 ### Depredadores
 
@@ -118,7 +124,7 @@ XXX
 
 # Reglas
 
-MausTiki modifica ciertas reglas de Mausritter y añade otras nuevas para representar la singularidad de asentamiento de Kaona Iole y de los roedores de las islas del Pacífico.
+MausTiki modifica ciertas reglas de Mausritter y añade otras nuevas para representar la singularidad del asentamiento de Kaona Iole y de los roedores de las islas del Pacífico.
 
 &nbsp;
 
@@ -137,7 +143,7 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 \conc
 
-XXX
+A la hora de crear tu roedor solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento**. Además hay una **tabla completa de Trasfondos**.
 
 ### Marea de nacimiento
 
@@ -210,9 +216,9 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
 
-Lo mismo pasa con la hoja de palma que también encontramos varias profesiones que la transforman en diferentes elementos como cestas, velas, sombreros, etc.
+Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
 
-Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios transfondo a basados en el trabajo de la piedra, tanto para construcción como decorativos.
+Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
 
 ### Condición «Maldito»
 
@@ -220,7 +226,7 @@ Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar
 
 > Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
 
-Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia de para pedir perdón al espíritu.
+Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como quemar algo importante en honor a espíritus de fuego, construir algo de madera o piedra y ofrecerlo a espíritu de tierra o incluso bailar el hula.
 
 \sp
 
@@ -254,53 +260,15 @@ XXX
 
 \sp
 
-\sinc
-
-# Exploración
-
-\conc
-
-XXX
-
-\sc
+|Exploración.md|
 
 \sp
 
-\sinc
-
-# La playa y el volcán
-
-\conc
-
-XXX
-
-\sc
+|PlayaVolcan.md|
 
 \sp
 
-\sinc
-
-## Licencia
-
-\conc
-
-«MausTiki» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
-Se publica bajo la «Licencia a Terceros de Mausritter».
-
-Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryhope (para la edición en castellano).
-
-«MausTiki» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
-
-* Flat maori tattoo pattern by [Freepik](https://www.freepik.com/free-vector/flat-maori-tattoo-pattern_29507321.htm)
-* Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by [upklyak](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm)
-* Tiki masks with scary faces and toothy mouth, decorated with leaves isolated by [upklyak](https://www.freepik.com/free-vector/tiki-masks-with-scary-faces-toothy-mouth-decorated-with-leaves-isolated_12900249.htm)
-* Flat design wood texture illustration by [freepik](https://www.freepik.com/free-vector/flat-design-wood-texture-illustration_22628444.htm)
-* Parquet seamless pattern [rawpixel.com](https://www.freepik.com/free-vector/parquet-seamless-pattern_16269492.htm)
-* Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por [brgfx](https://www.freepik.es/vector-gratis/cangrejo-raiz-manglar-estilo-dibujos-animados-sobre-fondo-blanco_18987431.htm)
-* PRIMAL SPELLS FOR MAUSRITTER by [Earthpirate](https://earthpirate.itch.io/primal-spells-for-mausritter)
-
-[![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
-
+|Licencia.md|
 ---
 
 [Inspiración](https://itch.io/c/1521592/mausritter)
