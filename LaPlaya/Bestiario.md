@@ -41,3 +41,20 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
   4. **Araña de mar:** Delgados con largas patas.
   5. **De los manglares:** De buen tamaño, viven entre las raíces de las plantas que forman los manglares.
   6. **Kona:** Fieros luchadores, su carne es muy apreciada para grandes ceremonias.
+
+\sp
+
+## Tortuga marina
+
+Estás amistosas criaturas siempre están dispuestas a ayudar y a transportarte por el mar sobre su caparazón.
+
+* **PG** X, **FUE** X, **DES** X, **VOL** X
+* **Armadura** X
+* **Ataques:** XXX
+* **XXX**
+  1. **XXX:** XXX
+  2. **XXX:** XXX
+  3. **XXX:** XXX
+  4. **XXX:** XXX
+  5. **XXX:** XXX
+  6. **XXX:** XXX
