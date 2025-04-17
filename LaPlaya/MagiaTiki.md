@@ -66,7 +66,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |5|**Don de Nāmaka** (Respirar bajo el agua)|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener la máscara 3 días en agua de mar.|Prohibido tocar objetos con forma de anzuelo y usar protecciones de concha|
 |6|**Dureza de Kū** (Endurecer madera)|Un arma CaC de madera añade [DADOS] al daño durante [SUMA] turnos. También hace más resistentes objetos principalmente de madera como barcos o puentes.|Meter la máscara 3 días dentro de una caja de madera|No puedes quemar madera|
 |7|**Ira de Lono** (Lanzar cocos)|Debajo de un cocotero, puedes hacer caer [DADOS] cocos a uno o más enemigos. Cada coco hace [SUMA] de daño.|Dejarse caer de un cocotero como un coco, 2d6 daño FUE si caes al suelo o 0 si caes al agua.|No usar cosas de hechas de coco, no comer coco, ni beber agua de coco.|
-|8|**XXX** (Madriguera)| &nbsp; | &nbsp; | &nbsp; |
+|8|**XXX** (Cavar)|Excavas en segundos un túnel en la tierra de [SUMA] x [DADOS] x 2 centimetros de largo| &nbsp; | &nbsp; |
 |9|**Mirada de Mausi** (Miedo)|Impone el Estado Asustado a [DADOS] criaturas.|Escuchar una historia de miedo de un cuentacuentos profesional durante un descanso largo o completo.|No debes recibir la condición Asustado.|
 
 \conc
@@ -77,12 +77,12 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
-|10|**Luz de Kane** (Luz cegadora)|Obliga a [DADOS] criaturas a pasar una salvación de VOL o quedar aturdidas. Además, puedes crear una luz que brilla como una antorcha durante [SUMA] turnos.|Presenciar la primera luz del alba y la última del ocaso durante tres días.|Usar sombreros, parasoles y similar o taparte la cabeza|
+|10|**Luz de Kane** (Luz cegadora)|Obliga a [DADOS] criaturas a pasar una salvación de VOL o quedar aturdidas. Además, puedes crear una luz que brilla como una antorcha durante [SUMA] turnos.|Presenciar la primera luz del alba y la última del ocaso durante tres días.|No debes usar sombreros, parasoles o similares, ni taparte la cabeza|
 |11|**Bendición de Pele** (Inmunidad calor y fuego)|Eres inmune al fuego y al calor extremo y puedes andar sobre la lava durante [DADOS] turnos.|Hacerte una quemadura de 1d6 de daño de FUE.| &nbsp; |
 |12|**Favor del Mo‘o** (Cambiaformas)| &nbsp; | &nbsp; | &nbsp; |
 |13|**XXX** (Enredar)|Crea un área de [SUMA] cm de radio de enredaderas que reduce a la mitad el movimiento durante [DADOS] turnos.|Ata tus manos o pies con enredaderas y mantenlos atados durante toda la noche y el día.| &nbsp; |
 |14|**Don de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras|
 |15|**Fuerza de Mausi** (Superfuerza)|Añade [SUMA] a tu FUE durante [DADOS+1] rondas|Llenar de piedras tu mochila e ir al límite de carga hasta XXX|Debes exagerar todas las historias que cuentes poniéndote de héroe en todas|
-|16|**XXX** (Partir piedra)| &nbsp; | &nbsp; | &nbsp; |
+|16|**XXX** (Partir piedra)| &nbsp; |Meter durante 3 días en una grieta o agujero en la roca|Debes hacer algún tipo de construcción de piedra como un circulo de piedra o una pila de piedra cada descanso largo o completo y dejarlo ahí|
 
 \conc
