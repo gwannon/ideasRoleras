@@ -44,17 +44,21 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
 
 \sp
 
-## Tortuga marina
+## Tortuga
 
 Estás amistosas criaturas siempre están dispuestas a ayudar y a transportarte por el mar sobre su caparazón.
 
-* **PG** X, **FUE** X, **DES** X, **VOL** X
-* **Armadura** X
-* **Ataques:** XXX
-* **XXX**
-  1. **XXX:** XXX
-  2. **XXX:** XXX
-  3. **XXX:** XXX
+Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que hablan hasta la lengua de los kiores.
+
+* **PG** 11, **FUE** 12, **DES** X6, **VOL** 14
+* **Armadura** 6
+* **Ataques:** d8 mordisco
+* **Especies de tortugas**
+  1. **Tortuga laúd:** XXX
+  2. **Tortuga carey:** XXX
+  3. **Tortuga verde:** XXX
   4. **XXX:** XXX
   5. **XXX:** XXX
   6. **XXX:** XXX
+  
+  \sc
