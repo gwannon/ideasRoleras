@@ -269,7 +269,6 @@ XXX
 \sp
 
 |Licencia.md|
-
 ---
 
 [Inspiración](https://itch.io/c/1521592/mausritter)
