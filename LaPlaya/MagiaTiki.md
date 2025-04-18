@@ -83,6 +83,6 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |13|**XXX** (Enredar)|Crea un área de [SUMA] cm de radio de enredaderas que reduce a la mitad el movimiento durante [DADOS] turnos.|Ata tus manos o pies con enredaderas y mantenlos atados durante toda la noche y el día.| &nbsp; |
 |14|**Don de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras|
 |15|**Fuerza de Mausi** (Superfuerza)|Añade [SUMA] a tu FUE durante [DADOS+1] rondas|Llenar de piedras tu mochila e ir al límite de carga hasta XXX|Debes exagerar todas las historias que cuentes poniéndote de héroe en todas|
-|16|**XXX** (Partir piedra)| &nbsp; |Meter durante 3 días en una grieta o agujero en la roca|Debes hacer algún tipo de construcción de piedra como un circulo de piedra o una pila de piedra cada descanso largo o completo y dejarlo ahí|
+|16|**XXX** (Partir piedra)|Destrozas piedras en un radio máximo de [SUMA] x [DADOS]. Si son más grandes no les afecta.|Meter durante 3 días en una grieta o agujero en la roca|Debes hacer algún tipo de construcción de piedra como un circulo de piedra o una pila de piedra cada descanso largo o completo y dejarlo ahí|
 
 \conc
