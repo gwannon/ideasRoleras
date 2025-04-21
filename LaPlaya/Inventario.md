@@ -1,5 +1,7 @@
 \sinc
 
+&nbsp;
+
 ## Inventario
 
 \conc
@@ -22,9 +24,11 @@ XXX
 
 XXX
 
-* Armadura de palma trenzada
-* Armadura de placas de coco
-* Armadura de conchas o de cangrejo
+Todas las armaduras previenen 1 de daño.
+
+* **Armadura de palma trenzada (XXXca).** XXX. Ocupa una casilla de cuerpo. Solo dura una aventura. Al final de la aventura está tan rota que ya no sirve.
+* **Armadura de placas de coco (XXXca).** XXX. Ocupa dos casillas de cuerpo. Flota y no puedes sumergirte.
+* **Armadura de conchas o de cangrejo (XXXca).** XXX. Ocupa dos casillas de cuerpo. Puedes nadar con ella o si quieres sumergirte.
 
 ### Otros
 

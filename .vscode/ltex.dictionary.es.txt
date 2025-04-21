@@ -694,3 +694,5 @@ Maustiki
 VOL
 kahunas
 Chesca
+2d8
+2d6

@@ -374,3 +374,38 @@ body {
   right: auto;
   left: -40px;
 }
+
+/* Recursos */
+
+.resources {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.resources > div {
+  font-size: 1.5em;
+  font-weight: 700;
+  box-sizing: border-box;
+  width: 222px;
+  height: 222px;
+  border: 1px dashed var(--color-black);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: var(--color-white);
+  position: relative;
+}
+
+.resources > div:after {
+  font-size: 0.9em;
+  content: "◯◯◯";
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.resources > div > img {
+  max-height: 160px;
+  /*filter: grayscale(1);*/
+}

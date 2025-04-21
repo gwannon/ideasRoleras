@@ -36,7 +36,7 @@ En cada luna nueva se eligen 5 grupos de 4 miembros, un grupo por cada fase luna
 
 Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando hace sonar el pututu, el siguiente roedor viene a sustituirle y este es libre hasta.
 
-> Existe la creencia de que la marea dicta tu destino y si naces mientras suena el XXX de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
+> Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
 
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
 
@@ -72,51 +72,7 @@ XXX
 
 \sp
 
-\sinc
-
-## El día a día
-
-\conc
-
-XXX
-
-### Tatuajes
-
-Los kiores tienden a hacerse tatuajes en el interior de las orejas que tienen muy poco pelo. Los tatuajes tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee el roedor tatuado. 
-
-Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos.
-
-No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad donde viven.
-
-De normal los koires llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
-
-### Depredadores
-
-XXX
-
-### Religión y dioses
-
-XXX
-
-* **Pele.** XXX
-* **Hi’iaka.** XXX
-* **Kū.** XXX
-* **Nā maka.** XXX
-* **Hā ʻupu.** XXX
-
-### Pele, la diosa del fuego
-
-Los roedores del enclave adoran especialmente a Pele, la diosa del fuego que habita el volcán. Periódicamente les recuerda su poder con alguna erupción explosiva a algún río de lava.
-
-XXX
-
-### Mausi, el héroe tramposo
-
-XXX
-
-### Aumakuas, espíritus familiares
-
-XXX
+|DiaADia.md|
 
 \sp
 
@@ -130,37 +86,41 @@ MausTiki modifica ciertas reglas de Mausritter y añade otras nuevas para repres
 
 \conc
 
-### Cambios rápidos de reglas
+## Cambios rápidos de reglas
 
 Hay pequeños cambios en el reglamento original que te explicamos a continuación.
 
 * Las monedas dejan de ser pepitas y pasan a ser conchas azules (ca).
-* XXX
+* El equipo metálico del manual básico pasa a ser de madera o hueso. Puede haber pequeñas cosas de metal como joyas.
+* Las armaduras ligeras y pesadas no están disponibles, son sustituidas por la de hoja de palma trenzada, la de placas de coco y la de cáscara de cangrejo y/o conchas.
 
-\sinc
+&nbsp;
 
 ## Creación de personaje
 
-\conc
+A la hora de crear tu roedor solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento**. Además, hay una **tabla completa de Trasfondos**.
 
-A la hora de crear tu roedor solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento**. Además hay una **tabla completa de Trasfondos**.
+\sc
 
 ### Marea de nacimiento
 
 En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguiente tabla de mareas.
 
-|1d6|Marea|XXX|
+|1d12|Marea|XXX|
 |---|---|---|
-|1-2|Marea subiendo|XXX|
-|3|Pleamar|XXX|
-|4-5|Marea bajando|XXX|
-|6|Bajamar|XXX|
+|1-3|Marea subiendo|XXX|
+|4-5|Pleamar|XXX|
+|6|Pututu de pleamar|Madera de héroe/heroina o villano/a|
+|7-9|Marea bajando|XXX|
+|10-11|Bajamar|XXX|
+|12|Pututu de bajamar|Madera de héroe/heroina o villano/a|
 
-\sinc
 
 ### Trasfondos
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
+
+\sinc
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
@@ -170,6 +130,15 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |14|Jinete de cangrejos|Ayudante: Montura cangrejo|Comida para cangrejos|
 |15|Productor/a de kava|Mortero y maja|Cuencos de barro|
 |16|Salinero/a|Pala|Cubo de cerámica|
+
+\sinc
+
+\sp
+
+\sinc
+
+|PG+ca|Trasfondo|Objeto A|Objeto B|
+|---|---|---|---|
 |21|Músico|Tambor Pahu|Baquetas Käla’au|
 |22|Carpintero/a|Hacha de piedra (mediana, 1d6 / 1d8)|Cuerda de medir con nudos|
 |23|Buscador/a de tubérculos|Pala|Cesta|
@@ -180,15 +149,6 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |32|Cuidador/a de pulgas de mar|Vara con gancho|Cesto para huevos|
 |33|Carpintero/a de ribera|Hacha de piedra (mediana, 1d6 / 1d8)|Cordel de coco, rollo|
 |34|Recolector/a de algas|Orca|Cesta|
-
-\sinc
-
-\sp
-
-\sinc
-
-|PG+ca|Trasfondo|Objeto A|Objeto B|
-|---|---|---|---|
 |35|Alfarero/a|Hojas afiladas de piedra|Chesca y pedernal|
 |36|Tatuador/a|Herramientas de tatuador|Tinta|
 |41|Recolector/a de cocos|Cuerda|Taladro|
@@ -220,15 +180,15 @@ Lo mismo pasa con la hoja de palma que también encontramos en varias profesione
 
 Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
 
+\sp
+
 ### Condición «Maldito»
 
 Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar «Maldito».
 
-> Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
+Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
 
 Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como quemar algo importante en honor a espíritus de fuego, construir algo de madera o piedra y ofrecerlo a espíritu de tierra o incluso bailar el hula.
-
-\sp
 
 |Inventario.md|
 
@@ -240,13 +200,19 @@ Para quitarse la condición de «Maldito» debe hacerse un descanso completo y h
 
 \sinc
 
-## Surfear olas
+## Surcar los mares, surfear olas
 
 \conc
 
+El mar es un elemento fundamental de la vida de los kiores. Es una fuente de recursos y riqueza, pero también un peligro constante y una frontera que explorar. Es por ello que su exploración debería ser un elemento importante en las aventuras de MausTiki.
+
 XXX
 
-### Competiciones
+### Reglas para nadar, bucear y navegar
+
+XXX
+
+### Competiciones de surf
 
 XXX
 
@@ -260,11 +226,23 @@ XXX
 
 \sp
 
-|Exploración.md|
+|Exploracion.md|
 
 \sp
 
 |PlayaVolcan.md|
+
+\sp
+
+\sinc
+
+# Recursos
+
+## Hechizos
+
+|Hechizos.html|
+
+\conc
 
 \sp
 
@@ -278,3 +256,5 @@ Buscar Mythic Polynesia - Mythras Roleplaying Game
 Konane -> juego de damas hawaianas
 
 https://library.mausritter.com/
+
+[TIKIs](https://www.freepik.com/search?ai=excluded&format=search&last_filter=selection&last_value=1&query=%40upklyak+tiki&selection=1)
