@@ -22,4 +22,6 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Traditional Hawaiian totem tiki mask by [upklyak](https://www.freepik.com/free-vector/traditional-hawaiian-totem-tiki-mask_312702337.htm)
 * Tiki mask cartoon vector illustration set Collection of brightly decorated colored wooden face elements of Hawaiian ethnic tribal peoples Totem traditional decorative cultural statues of aborigines by [upklyak](https://www.freepik.com/free-vector/tiki-mask-cartoon-vector-illustration-set-collection-brightly-decorated-colored-wooden-face-elements-hawaiian-ethnic-tribal-peoples-totem-traditional-decorative-cultural-statues-aborigines_84029397.htm)
 
+* [Half Coconut](https://helmet-heroes.fandom.com/wiki/Half_Coconut) y [Coconut armour](https://helmet-heroes.fandom.com/wiki/Coconut_Armor) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")

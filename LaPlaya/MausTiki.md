@@ -46,13 +46,13 @@ Vivir en una playa de una isla significa que el mar es un elemento fundamental d
 
 XXX
 
+\sp
+
 ```
 Las canoas están seguras en la playa, pero no fue para lo que se crearon.
 ```
 
 XXX
-
-\sp
 
 ### Surf
 
@@ -63,8 +63,6 @@ Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas
 XXX
 
 > El surf que se representa aquí con trucos, carreras y tablas rápidas nada tiene que ver con el que practicaban los antiguos polinesios. Es más cercano al surf moderno. Nos hemos tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. Puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.
-
-\sc
 
 ### El volcán
 
@@ -238,9 +236,37 @@ XXX
 
 # Recursos
 
+&nbsp;
+
 ## Hechizos
 
+&nbsp;
+
 |Hechizos.html|
+
+\conc
+
+\sp
+
+\sinc
+
+## Armas
+
+&nbsp;
+
+|Armas.html|
+
+\conc
+
+\sp
+
+\sinc
+
+## Armaduras
+
+&nbsp;
+
+|Armaduras.html|
 
 \conc
 
