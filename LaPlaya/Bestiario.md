@@ -50,10 +50,10 @@ Estás amistosas criaturas siempre están dispuestas a ayudar y a transportarte 
 
 Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que hablan hasta la lengua de los kiores.
 
-* **PG** 11, **FUE** 12, **DES** X6, **VOL** 14
+* **PG** 11, **FUE** 12, **DES** 6/16*, **VOL** 14
 * **Armadura** 6
 * **Ataques:** d8 mordisco
-* **Especies de tortugas**
+* **Áreas de conocimiento**
   1. **Tortuga laúd:** XXX
   2. **Tortuga carey:** XXX
   3. **Tortuga verde:** XXX
@@ -61,4 +61,25 @@ Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que
   5. **XXX:** XXX
   6. **XXX:** XXX
   
+  * En tierra/en el agua
+  
   \sc
+  
+ ## Kapua menor
+
+Los kapuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
+
+No son grandes espíritus, si no menores con ciertas capacidades mágicas relacionadas con su forma alternativa. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
+
+Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
+
+* **PG** X, **FUE** X, **DES** X, **VOL** X
+* **Armadura** X
+* **Ataques:** XXX
+* **Se transforma**
+  1. **Halcón marino:** XXX
+  2. **Raya:** XXX
+  3. **Tiburón:** XXX
+  4. **XXX:** XXX
+  5. **XXX:** XXX
+  6. **XXX:** XXX
