@@ -30,19 +30,23 @@ El hechizo tiene un efecto, que varía dependiendo del número de [DADOS] invert
 
 ### Enfadar al espíritu
 
-Los espíritus de los tikis tienen una serie de leyes llamadas tabús muy antiguas que aún siguen respetando y si las rompes pueden enfadarse contigo. El espíritu te vigila incluso cuando está descargado. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
+Los espíritus que habitan las máscaras tikis tienen una serie de leyes llamadas tabús muy antiguas que aún siguen respetando y si las rompes pueden enfadarse contigo. El espíritu te vigila incluso cuando está descargado. Debes tirar una **salvación de VOL y si fallas obtienes la condición «Maldito»**.
 
 En la lista de hechizos se da una sugerencia del tabú que impone la máscara, pero puedes variarla, respetando siempre el espíritu de la restricción original, si hay varias máscaras iguales en el grupo o va muy en contra del carácter y personalidad del PJ que la porte. Si el tabú es encender siempre un fuego cuando descansas, otra opción sería que no puedes apagar un fuego del tipo que sea.
 
 ### Identificando la máscara
 
-Las mascarás tienes formas y elementos reconocibles de forma que su hechizo y el nombre del dios invocador es facil de averiguar. Los tabús y las formas de recargar cada máscara se explican al entregarla, pero en caso de encontrarse una tiki en una aventura hay que **tirar VOL para averiguar su tabú y su forma de recarga**.
+Las mascarás tienes formas y elementos reconocibles de forma que su hechizo y el nombre del dios invocador es facil de averiguar. Los tabús y las formas de recargar cada máscara se explican al entregarla y según se te dan el tiki, el espíritu empieza a vigilar que cumplas el tabú.
+
+En caso de encontrarse una tiki en una aventura hay que **tirar VOL para averiguar su tabú y su forma de recarga**.
 
 En caso de fallar pueden usarla sin problemas, pero arriesgándote a enfadar al espíritu y sin poder recargarla adecuadamente. 
 
 \sp
 
 Podrán pedir a otra persona que la examine o esperar al siguiente descanso largo para volver a tirar.
+
+El espíritu empezará a vigilar que cumplas con su tabú a partir del siguiente descanso largo o completo, así que tienes algo de margen con el tabú.
 
 ### Recargar la máscara
 
@@ -66,7 +70,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |5|**Don de Nāmaka** (Respirar bajo el agua)|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener la máscara 3 días en agua de mar.|Prohibido tocar objetos con forma de anzuelo y usar protecciones de concha|
 |6|**Dureza de Kū** (Endurecer madera)|Un arma CaC de madera añade [DADOS] al daño durante [SUMA] turnos. También hace más resistentes objetos principalmente de madera como barcos o puentes.|Meter la máscara 3 días dentro de una caja de madera|No puedes quemar madera|
 |7|**Ira de Lono** (Lanzar cocos)|Debajo de un cocotero, puedes hacer caer [DADOS] cocos a uno o más enemigos. Cada coco hace [SUMA] de daño.|Dejarse caer de un cocotero como un coco, 2d6 daño FUE si caes al suelo o 0 si caes al agua.|No usar cosas de hechas de coco, no comer coco, ni beber agua de coco.|
-|8|**XXX** (Cavar)|Excavas en segundos un túnel en la tierra de [SUMA] x [DADOS] x 2 centimetros de largo| &nbsp; | &nbsp; |
+|8|**Don de Papahānaumoku** (Cavar)|Excavas en segundos un túnel en la tierra de [SUMA] x [DADOS] x 2 centimetros de largo|Dejarlo en el lugar más profundo de una madriguera durante 3 dias|No debes sacar de la tierra cosas enterradas, desde tubérculos hasta tesoros|
 |9|**Mirada de Mausi** (Miedo)|Impone el Estado Asustado a [DADOS] criaturas.|Escuchar una historia de miedo de un cuentacuentos profesional durante un descanso largo o completo.|No debes recibir la condición Asustado.|
 
 \conc
@@ -78,11 +82,11 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
 |10|**Luz de Kane** (Luz cegadora)|Obliga a [DADOS] criaturas a pasar una salvación de VOL o quedar aturdidas. Además, puedes crear una luz que brilla como una antorcha durante [SUMA] turnos.|Presenciar la primera luz del alba y la última del ocaso durante tres días.|No debes usar sombreros, parasoles o similares, ni taparte la cabeza|
-|11|**Bendición de Pele** (Inmunidad calor y fuego)|Eres inmune al fuego y al calor extremo y puedes andar sobre la lava durante [DADOS] turnos.|Hacerte una quemadura de 1d6 de daño de FUE.| &nbsp; |
-|12|**Favor del Mo‘o** (Cambiaformas)| &nbsp; | &nbsp; | &nbsp; |
-|13|**XXX** (Enredar)|Crea un área de [SUMA] cm de radio de enredaderas que reduce a la mitad el movimiento durante [DADOS] turnos.|Ata tus manos o pies con enredaderas y mantenlos atados durante toda la noche y el día.| &nbsp; |
-|14|**Don de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras|
+|11|**Bendición de Pele** (Inmunidad calor y fuego)|Eres inmune al fuego y al calor extremo y puedes andar sobre la lava durante [DADOS] turnos.|Hacerte una quemadura de 1d6 de daño de FUE.|Pasar 3 días cubierto de ceniza y sin lavarte. Tú será más fácil de rastrear.|
+|12|**Favor de los Kapua** (Cambiaformas)|Tomas la apariencia idéntica de cualquier ser vivo (animal, mineral o vegetal) durante [SUMA] x [DADOS+1] minutos. Solo tomas apariencia, no sus capacidades, es solo una ilusion. No puedes tomar una apariencia 5 veces mayor a tu tamaño y no puedes ser más  pequeño.Tú sombra sigue siendo de ratón.|Durante 3 días la máscara debe estar en contacto con algo vegetal, mineral y animal que no seas tú|No hay tabú, pero si se rompe la máscara el kapua se liberará y buscará vengarse de tí.|
+|13|**Enredaderas de Papahānaumoku** (Enredar)|Crea un área de [SUMA] cm de radio de enredaderas que reduce a la mitad el movimiento durante [DADOS] turnos.|Ata tus manos o pies con raíces, lianas y enredaderas y mantenlos atados durante toda la noche y el día.|Debes plantar una semilla en cada descanso largo o completo|
+|14|**Forma de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras|
 |15|**Fuerza de Mausi** (Superfuerza)|Añade [SUMA] a tu FUE durante [DADOS+1] rondas|Llenar de piedras tu mochila e ir al límite de carga hasta XXX|Debes exagerar todas las historias que cuentes poniéndote de héroe en todas|
-|16|**XXX** (Partir piedra)|Destrozas piedras en un radio máximo de [SUMA] x [DADOS]. Si son más grandes no les afecta.|Meter durante 3 días en una grieta o agujero en la roca|Debes hacer algún tipo de construcción de piedra como un circulo de piedra o una pila de piedra cada descanso largo o completo y dejarlo ahí|
+|16|**Don de Hāʻupu** (Partir piedra)|Destrozas piedras en un radio máximo de [SUMA] x [DADOS]. Si son más grandes no les afecta.|Meter durante 3 días en una grieta o agujero en la roca|Debes hacer algún tipo de construcción de piedra como un circulo de piedra o una pila de piedra cada descanso largo o completo y dejarlo ahí|
 
 \conc
