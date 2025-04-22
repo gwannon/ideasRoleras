@@ -238,7 +238,7 @@ XXX
 
 &nbsp;
 
-## Hechizos
+## Máscaras Tiki
 
 &nbsp;
 

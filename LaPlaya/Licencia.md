@@ -26,5 +26,6 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Set of granite stones isolated on white background by [brgfx](https://www.freepik.com/free-vector/set-granite-stones-isolated-white-background_16462226.htm)
 * Stylized Rock Vector Illustration Set by [brgfx](https://www.freepik.com/free-vector/stylized-rock-vector-illustration-set_415827202.htm)
 * Set of brown stones isolated on white by [brgfx](https://www.freepik.com/free-vector/set-brown-stones-isolated-white_13374383.htm)
+* Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
