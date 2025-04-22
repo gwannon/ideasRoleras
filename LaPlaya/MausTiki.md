@@ -256,17 +256,25 @@ XXX
 
 |Armas.html|
 
-\conc
-
-\sp
-
-\sinc
+&nbsp;
 
 ## Armaduras
 
 &nbsp;
 
 |Armaduras.html|
+
+\conc
+
+\sp
+
+\sinc
+
+## Equipo vario
+
+&nbsp;
+
+|EquipoVario.html|
 
 \conc
 
@@ -284,3 +292,6 @@ Konane -> juego de damas hawaianas
 https://library.mausritter.com/
 
 [TIKIs](https://www.freepik.com/search?ai=excluded&format=search&last_filter=selection&last_value=1&query=%40upklyak+tiki&selection=1)
+
+[Armadura](https://drachenmagier.tumblr.com/post/158961522872/mouse-armor-d-a-light-grass-armor-with-bark)
+[Armadura de conchas](https://www.deviantart.com/aliciane/art/Seashell-Steps-733541464)

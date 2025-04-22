@@ -61,7 +61,7 @@ Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que
   5. **XXX:** XXX
   6. **XXX:** XXX
   
-  * En tierra/en el agua
+&ast; En tierra/en el agua
   
   \sc
   
