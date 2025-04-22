@@ -1,6 +1,6 @@
 \sinc
 
-## Licencia
+# Licencia
 
 \conc
 
