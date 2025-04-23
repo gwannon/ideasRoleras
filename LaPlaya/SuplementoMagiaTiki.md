@@ -118,3 +118,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |Hechizos.html|
 
 \conc
+
+\sp
+
+|Licencia.md|
