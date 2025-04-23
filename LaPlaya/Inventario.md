@@ -28,7 +28,7 @@ Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños
 
 Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
 
-#### Tridente (15 ca)
+#### Horca (15 ca)
 
 Este utensilio perfecto para la pesca de pequeños peces y crustáceos puede usarse como una eficaz arma de combate.
 
@@ -46,29 +46,41 @@ Las armaduras están hechas principalmente de materiales naturales de origen ani
 
 En las armaduras siempre ha primado elementos como que sean frescas y se pueda nadar con ellas, frente a que sean duras y resistentes. Es por ello que nos movemos desde hoja de palma hasta conchas y cáscaras de cangrejos, pasando por la dura corteza del coco.
 
-Todas las armaduras previenen 1 de daño.
+> Todas las armaduras previenen 1 de daño independientemente de su construcción. Lo que las diferencias son sus ventajas extras.
 
 #### Protecciones de palma trenzada (50 ca)
 
-Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles. Ocupan una casilla de cuerpo.
+Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles.
 
-Después de cada combate pierden siempre una casilla de uso. También pierdes un uso si nadas o te sumerges con ella. Durante un descanso largo o completo puedes reafirmar y sustituir las fibras y recuperar 1 uso.
+> Ocupan una casilla de cuerpo. Después de cada combate pierden siempre una casilla de uso. También pierdes un uso si nadas o te sumerges con ella. Durante un descanso largo o completo puedes reafirmar y sustituir las fibras y recuperar 1 uso.
 
 #### Armadura de placas de coco (150 ca)
 
-Está armadura aprovecha las fibras del coco para crear un camisote robusto sobre el que se cosen láminas de corteza de coco. Viene acompañado de una rodela hecha de media coco. Ocupa una casilla de cuerpo y pata secundaria. Flota, debido a sus fibras, pero no puedes sumergirte.
+Está armadura aprovecha las fibras del coco para crear un camisote robusto sobre el que se cosen láminas de corteza de coco. Viene acompañado de una rodela hecha de media coco.
+
+> Ocupa una casilla de cuerpo y pata secundaria. Flota, debido a sus fibras, pero no puedes sumergirte.
 
 #### Armadura de conchas (400 ca)
 
-Esta armadura está hecha de las conchas que se encuentran en la playa cosidas mediante fibras de coco. Su diseño aprovecha las formas orgánicas y curvas de las conchas para ajustarse al cuerpo del kiore. Las almejas sirven de placas pectorales, los caracoles de protecciones de codos y rodillas y las lapas son perfectas hombreras y cascos. Ocupa dos casillas de cuerpo. No puedes nadar con ella, se hunde por el peso, pero puedes sumergirte.
+Esta armadura está hecha de las conchas que se encuentran en la playa cosidas mediante fibras de coco. Su diseño aprovecha las formas orgánicas y curvas de las conchas para ajustarse al cuerpo del kiore. Las almejas sirven de placas pectorales, los caracoles de protecciones de codos y rodillas y las lapas son perfectas hombreras y cascos.
+
+> Ocupa dos casillas de cuerpo. No puedes nadar con ella, se hunde por el peso, pero puedes sumergirte.
 
 #### Armadura de cangrejo (500 ca)
 
-XXX. Ocupa dos casillas de cuerpo. Puedes nadar con ella o, si quieres, sumergirte.
+La armadura hecha con piezas de exoesqueleto de cangrejo es la mejor y más avanzada armadura creada por los roedores del Pacífico.
+
+Es ligera, flexible y altamente resistente. Y lo más importante para unos roedores que pasan mucho tiempo en el mar. Se puede nadar con ellas o si quieres sumergirte sin penalización.
+
+Al igual que la de conchas se aprovecha las curvas y las juntas de las piezas del exoesqueleto para hacer las diferentes partes de la armadura. Se usa el caparazón central para las placas pectorales y las pinzas y las articulaciones de las patas para brazos y piernas.
+
+> Ocupa dos casillas de cuerpo. Puedes nadar con ella o, si quieres, sumergirte.
 
 ### Equipo vario
 
 La alimentación de los kiores se basa más en frutos tropicales que en cereales y raíces, con lo que sus raciones de viaje suelen ser principalmente frutas y tubérculos, así como pescados y crustáceos secos.
+
+\sp
 
 #### Kava (5 ca)
 
@@ -80,19 +92,19 @@ El konane es una juego de mesa, muy parecido a las damas o el go. El konane se j
 
 [![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
 
-\sp
+#### Herramientas de tatuaje
 
-#### Herramientas de tatuaje (120 ca)
+Las herramientas de tatuaje consisten en un peine con dientes de hueso o concha de tortuga unidos a un mango de madera. Los dientes estaban empapados en tinta a base de carbón diluido en aceite o agua. El peine se golpean con un palo de madera para pinchar la piel continuamente y meter la tinta en su interior.
 
-XXX
+Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a aprendiz y se aprende a fabricarlas como parte del entrenamiento de tatuador.
 
 #### Tambor de calabaza Ipu (20 ca)
 
-XXX
+Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes hula. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
 ### Embarcaciones
 
-Mientras que otros roedores han dedicado muchos esfuerzos en aprender a escalar árboles y paredes o cavar madrigueras, los kiores se han convertido en diestros y hábiles marineros para los que las azules aguas del mar no tienen secretos.
+Los kiores disponen de gran variedad de embarcaciones, pero principalmente usan diferentes variedades de tablas de surf, canoas y catamaranes.
 
 #### Canoa (120 ca)
 
@@ -102,9 +114,34 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 
 #### Tabla de surf (80 ca)
 
-XXX. Permite una tripulación de 1 kiore.
+Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos kiores consiguen hacer. Permite una tripulación de 1 kiore.
 
 #### Catamarán
 
-XXX. Según el tamaño podría permitir desde 4 a 20 roedores con su equipaje y agua y comida para un largo viaje.
+Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
+Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
+
+\sp
+
+Según el tamaño podría permitir desde 4 a 20 roedores con su equipaje y agua y comida para un largo viaje.
+
+De hecho, son los navíos con los que los kiores han ido explorando todas las islas del Pacífico.
+
+\sc
+
+|Objeto|Precio|
+|---|---|
+|Armadura de cangrejo|500 ca|
+|Armadura de conchas|400 ca|
+|Armadura de placas de coco|150 ca|
+|Canoa|120 ca|
+|Horca|15 ca|
+|Kava|5 ca|
+|Konane|15 ca|
+|Leiomano|50 ca|
+|Protecciones de palma trenzada|50 ca|
+|Tao|40 ca|
+|Remo|5 ca|
+|Tabla de surf|80 ca|
+|Tambor de calabaza Ipu|20 ca|
