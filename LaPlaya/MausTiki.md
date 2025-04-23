@@ -250,15 +250,11 @@ XXX
 
 \sinc
 
-## Armas
+## Armas y armaduras
 
 &nbsp;
 
 |Armas.html|
-
-&nbsp;
-
-## Armaduras
 
 &nbsp;
 

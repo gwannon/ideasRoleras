@@ -11,6 +11,8 @@
       <div class="columns">
         |HTML|
       </div>
+      <p id="words"><b>Palabras:</b> <span></span></p>
+      <p id="pages"><b>Páginas:</b> <span></span></p>
     </section>
   </body>
   <link rel="stylesheet" href="./print.css">
@@ -20,11 +22,10 @@
     cont = cont.replace(/<[^>]*>/g," ");
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
-    var n = cont.split(" ").length;
-    let words = document.querySelector('section:nth-of-type(3) p:nth-of-type(4) span');
-    console.log(n+" palabras");
+    let words = document.querySelector('#words > span');
+    words.innerHTML = cont.split(" ").length;
     //PageCount
-    let pages = document.querySelector('section:nth-of-type(3) p:nth-of-type(3) span');
-    console.log((document.querySelectorAll('.saltopagina').length+1)+" páginas");
+    let pages = document.querySelector('#pages > span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1);
   </script>
 </html>
