@@ -139,3 +139,5 @@
 {"rule":"LES_LAS","sentence":"^\\QPiensa que el dinero que cuesta el contrato va a marcar los recursos de les mercs que van a intervenir en la entrega.\\E$"}
 {"rule":"REP_USO","sentence":"^\\QPara restaurar al espíritu de la máscara debes cumplir una condición que devuelve al espíritu todo su poder y a la máscara todas sus casillas de uso.\\E$"}
 {"rule":"CONCORDANCIA_ADJECTIVOS_NEUTROS","sentence":"^\\QLos grandes kahunas aprendieron a crear con esos materiales máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro.\\E$"}
+{"rule":"REP_USO","sentence":"^\\QDurante un descanso largo o completo puedes reafirmar y sustituir las fibras y recuperar 1 uso.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEsta armadura está hecha de las conchas que se encuentran en la playa cosidas mediante fibras de coco.\\E$"}

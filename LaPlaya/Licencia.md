@@ -29,5 +29,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
 * Kayak canoe design illustration set by [pikisuperstar](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm)
 * Leiomano by [Jen](https://commons.wikimedia.org/wiki/File:Leiomano.jpg) con licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.es) 
+* Seafood Icons Set by [macrovector](https://www.freepik.com/free-vector/seafood-icons-set_3817370.htm)
+* Board game collection by [freepik](https://www.freepik.com/free-vector/board-game-collection_10115170.htm)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")

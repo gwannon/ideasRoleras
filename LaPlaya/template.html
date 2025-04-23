@@ -22,10 +22,10 @@
     cont = cont.replace(/<[^>]*>/g," ");
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
-    let words = document.querySelector('#MausTiki #words > span');
+    let words = document.querySelector('#MausTiki #words');
     words.innerHTML = cont.split(" ").length+" palabras";
     //PageCount
-    let pages = document.querySelector('#MausTiki #pages > span');
+    let pages = document.querySelector('#MausTiki #pages');
     pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1)+" páginas";
   </script>
 </html>

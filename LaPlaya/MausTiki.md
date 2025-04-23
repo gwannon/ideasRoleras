@@ -277,17 +277,14 @@ XXX
 \sp
 
 |Licencia.md|
+
 ---
 
 [Inspiración](https://itch.io/c/1521592/mausritter)
 
 Buscar Mythic Polynesia - Mythras Roleplaying Game
 
-Konane -> juego de damas hawaianas
-
 https://library.mausritter.com/
-
-[TIKIs](https://www.freepik.com/search?ai=excluded&format=search&last_filter=selection&last_value=1&query=%40upklyak+tiki&selection=1)
 
 [Armadura](https://drachenmagier.tumblr.com/post/158961522872/mouse-armor-d-a-light-grass-armor-with-bark)
 [Armadura de conchas](https://www.deviantart.com/aliciane/art/Seashell-Steps-733541464)
