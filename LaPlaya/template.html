@@ -11,8 +11,8 @@
       <div class="columns">
         |HTML|
       </div>
-      <p id="words"><b>Palabras:</b> <span></span></p>
-      <p id="pages"><b>Páginas:</b> <span></span></p>
+      <p id="words"></p>
+      <p id="pages"></p>
     </section>
   </body>
   <link rel="stylesheet" href="./print.css">
@@ -22,10 +22,10 @@
     cont = cont.replace(/<[^>]*>/g," ");
     cont = cont.replace(/\s+/g, ' ');
     cont = cont.trim();
-    let words = document.querySelector('#words > span');
-    words.innerHTML = cont.split(" ").length;
+    let words = document.querySelector('#MausTiki #words > span');
+    words.innerHTML = cont.split(" ").length+" palabras";
     //PageCount
-    let pages = document.querySelector('#pages > span');
-    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1);
+    let pages = document.querySelector('#MausTiki #pages > span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 1)+" páginas";
   </script>
 </html>
