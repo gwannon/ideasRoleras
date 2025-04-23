@@ -14,3 +14,10 @@ pdftk './temp.pdf' update_info_utf8 './SuplementoMagiaTiki.txt' output '../Suple
 rm ./SuplementoMagiaTiki.html
 rm ./SuplementoMagiaTiki.txt
 rm ./temp.pdf
+
+php ./generateDocs.php SuplementoInventario
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./SuplementoInventario.html
+pdftk './temp.pdf' update_info_utf8 './SuplementoInventario.txt' output '../SuplementoInventario.pdf' compress
+rm ./SuplementoInventario.html
+rm ./SuplementoInventario.txt
+rm ./temp.pdf
