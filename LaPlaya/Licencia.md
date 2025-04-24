@@ -32,5 +32,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Seafood Icons Set by [macrovector](https://www.freepik.com/free-vector/seafood-icons-set_3817370.htm)
 * Board game collection by [freepik](https://www.freepik.com/free-vector/board-game-collection_10115170.htm)
 * Medieval weapons by [ddraw](https://www.freepik.es/vector-gratis/armas-medievales_1015205.htm)
+* Sea deep light underwater surface cartoon vector by [upklyak](https://www.freepik.com/free-vector/sea-deep-light-underwater-surface-cartoon-vector_50076492.htm)
+* Vector cartoon sticker crab hand drawn vintage clipart by [rawpixel.com](https://www.freepik.com/free-vector/vector-cartoon-sticker-crab-hand-drawn-vintage-clipart_34100786.htm)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")

@@ -703,3 +703,5 @@ konane
 Konane
 Ipu
 go
+riokes
+rioke

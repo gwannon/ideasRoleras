@@ -6,9 +6,19 @@ Incluye una aventura larga donde tus kiores deberán aplacar la ira de los diose
 
 ## Licencia
 
-«La Playa» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
+«MausTiki» es una obra independiente creada por Jorge Monclús (@Gwannon) y no está afiliada ni a Losing Games ni a El Refugio de Ryhope. 
 Se publica bajo la «Licencia a Terceros de Mausritter».
 
 Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryhope (para la edición en castellano).
 
-«La Playa» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
+«MausTiki» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MausTiki](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
+
+---
+
+[Inspiración](https://itch.io/c/1521592/mausritter)
+
+Buscar Mythic Polynesia - Mythras Roleplaying Game
+
+https://library.mausritter.com/
+
+[Armadura](https://drachenmagier.tumblr.com/post/158961522872/mouse-armor-d-a-light-grass-armor-with-bark)
