@@ -458,6 +458,30 @@ Pueden ser cosas que la tecnología no replica bien como el tacto o cosas que so
 
 También cosas que solo tuvieran los seres vivos. Por ejemplo, un mundo donde solo los seres vivos tienen magia, ya que la magia solo la canaliza la materia viva, un robot se pondría brazos de carne y hueso para poder lanzar hechizos.
 
+### Sistema o escuela de magia basada en parar el tiempo
+
+Había un guerrero de Freezer en DBZ que su único poder era parar el tiempo y algo de telekinesis y me parece que es un poder poco explotado en los sistemas de magia.
+
+Este tipo de magia se basaría en parar el tiempo y los efectos mágicos serían iguales que otros tipos de magia de tu ambientación, pero limitado a lo que puedes hacer mientras paras el tiempo.
+
+Podrías teleportarte porque paras el tiempo y te mueves o hacer daño porque aprovechas los paros temporales para meter puñaladas.
+
+\sp
+
+Según subes de nivel podrías parar más rato el tiempo con lo que podrías hacer hechizos más poderosos. Por ejemplo, a primeros niveles tienes un turno para teleportarte y niveles legendarios varios días.
+
+También tendrías limitaciones, por ejemplo un «mano de mago» para coger las llaves de la celda no funcionaria porque aunque pares el tiempo sigues dentro de la celda y no puedes abrirla.
+
+\sc
+
+### Sistema de magia basado en ondas electromagnéticas
+
+Sería un sistema de magia para una ambientación de fantasía urbana.
+
+La magia se basaría en dar forma a las ondas electromagnéticas de diversas formas, solidificarlas para andar sobre ellas y volar, intensificarlas para hacer daño, escucharlas para poder oír conversaciones lejanas, hacerlas rebotar para buscar cosas.
+
+Por darle una chispa, el poder de tus hechizos lo marcaría, la cobertura de móvil que tengas.
+
 \sp
 
 \sinc
