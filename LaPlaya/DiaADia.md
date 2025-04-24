@@ -14,7 +14,7 @@ Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a
 
 No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad donde viven.
 
-De normal los koires llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
+De normal los kiores llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
 
 ### Depredadores
 
@@ -43,3 +43,13 @@ XXX
 ### Aumakuas, espíritus familiares
 
 XXX
+
+### Surf
+
+```
+Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas y por eso le veneramos. Sin el surf nuestras vidas estarían vacias y sin hopupu.
+```
+
+XXX
+
+> El surf que se representa aquí con trucos, carreras y tablas rápidas es más cercano al surf moderno. Nada tiene que ver con el que practicaban los antiguos polinesios. Nos hemos tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. Puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.

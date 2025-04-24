@@ -12,6 +12,22 @@ XXX
 
 XXX
 
+### El mar y la playa
+
+Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
+
+XXX
+
+```
+Las canoas están seguras en la playa, pero no fue para lo que se crearon.
+```
+
+XXX
+
+### El volcán
+
+XXX
+
 ### Clima y mareas 
 
 XXX
@@ -26,32 +42,6 @@ Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando h
 
 > Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
 
-Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
-
-### El mar y las embarcaciones
-
-Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
-
-XXX
-
 \sp
 
-```
-Las canoas están seguras en la playa, pero no fue para lo que se crearon.
-```
-
-XXX
-
-### Surf
-
-```
-Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas y por eso le veneramos. Sin el surf nuestras vidas estarían vacias y sin hopupu.
-```
-
-XXX
-
-> El surf que se representa aquí con trucos, carreras y tablas rápidas nada tiene que ver con el que practicaban los antiguos polinesios. Es más cercano al surf moderno. Nos hemos tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. Puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.
-
-### El volcán
-
-XXX
+Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.

@@ -141,3 +141,5 @@
 {"rule":"CONCORDANCIA_ADJECTIVOS_NEUTROS","sentence":"^\\QLos grandes kahunas aprendieron a crear con esos materiales máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro.\\E$"}
 {"rule":"REP_USO","sentence":"^\\QDurante un descanso largo o completo puedes reafirmar y sustituir las fibras y recuperar 1 uso.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEsta armadura está hecha de las conchas que se encuentran en la playa cosidas mediante fibras de coco.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpesada, a distancia\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qligera, a distancia\\E$"}

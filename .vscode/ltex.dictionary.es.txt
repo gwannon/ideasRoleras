@@ -705,3 +705,9 @@ Ipu
 go
 riokes
 rioke
+def
+1d10
+Kau
+kau
+hooilo
+Hooilo
