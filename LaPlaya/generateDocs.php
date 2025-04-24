@@ -49,9 +49,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
 $metas = "InfoKey: Title\n";
-$metas .= "InfoValue: MausTiki 0.1\n\n";
+$metas .= "InfoValue: MausTiki 0.4\n\n";
 $metas .= "InfoKey: Subject\n";
-$metas .= "InfoValue: MausTiki es mini-ambientacion para Mausritter donde se explica como son los roedores de las islas del Pacífico.\n\n";
+$metas .= "InfoValue: MausTiki es mini-ambientacion para Mausritter donde se explica cómo son los roedores de las islas del Pacífico.\n\n";
 $metas .= "InfoKey: Author\n";
 $metas .= "InfoValue: Gwannon\n\n";
 $metas .= "InfoKey: Keywords\n";

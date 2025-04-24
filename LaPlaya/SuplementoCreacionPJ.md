@@ -1,10 +1,18 @@
-&nbsp;
 
-## Creación de personaje
+
+\sinc
+
+# Personajes
+
+Suplemento de crear tu aventurero/a kiores (ratas del Pacífico) que puedes usar en aventuras en las islas de la Polinesia para el juego de rol [Mausritter](https://losing-games.itch.io/mausritter).
+
+&nbsp;
 
 A la hora de crear tu roedor solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento**. Además, hay una **tabla completa de Trasfondos**.
 
-### Marea de nacimiento
+&nbsp;
+
+## Marea de nacimiento
 
 En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguiente tabla de mareas.
 
@@ -21,27 +29,31 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 |9|Bajamar de noche|Famoso/a **navegante**|
 |10|Pututu de bajamar|Madera de **héroe/heroina o villano/a**|
 
+&nbsp;
 
-### Trasfondos
+## Trasfondos
+
+\conc
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
 
+La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
+
+\sp
+
+Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
+
+Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
+
 \sinc
+
+&nbsp;
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
 |11|Curandero/a|Máscara Tiki: Bendición de Hi’iaka|Hojas de platanero|
 |12|Tejedor/a de lei de flores|Cesta|Cordel de coco, rollo|
 |13|Cestero/a|Tijeras de piedra|Maza de madera|
-
-\sinc
-
-\sp
-
-\sinc
-
-|PG+ca|Trasfondo|Objeto A|Objeto B|
-|---|---|---|---|
 |14|Jinete de cangrejos|Ayudante: Montura cangrejo|Comida para cangrejos|
 |15|Productor/a de kava|Mortero y maja|Cuencos de barro|
 |16|Salinero/a|Pala|Cubo de cerámica|
@@ -69,6 +81,15 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |54|Tragafuegos|Antorchas|Parafina|
 |55|Cocinero/a|Gran olla de barro|Cuchara y tenedor de madera|
 |56|Mensajero|Saco de dormir|Daga (ligera, d6)|
+
+\conc
+
+\sp
+
+\sinc
+
+|PG+ca|Trasfondo|Objeto A|Objeto B|
+|---|---|---|---|
 |61|Cuentacuentos|Ropajes vistosos|Tambor de calabaza Ipu|
 |62|Tintorero/a|Mortero y maja|Gran cubo de madera|
 |63|Extractor/a de savia|Cubo|Cuñas de madera|
@@ -76,23 +97,8 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |65|Salvavidas|Tabla de surf|Red|
 |66|Buhonero/a|Mochila|Cayado|
 
-&nbsp;
-
 \conc
-
-La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
-
-Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
 
 \sp
 
-Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
-
-
-### Condición «Maldito»
-
-Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar «Maldito».
-
-Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
-
-Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como quemar algo importante en honor a espíritus de fuego, construir algo de madera o piedra y ofrecerlo a espíritu de tierra o incluso bailar el hula.
+|Licencia.md|

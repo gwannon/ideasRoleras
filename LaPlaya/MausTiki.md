@@ -94,23 +94,9 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 |CreacionPersonaje.md|
 
-\sp
-
-### Condición «Maldito»
-
-Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar «Maldito».
-
-Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
-
-Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como quemar algo importante en honor a espíritus de fuego, construir algo de madera o piedra y ofrecerlo a espíritu de tierra o incluso bailar el hula.
-
 |Inventario.md|
 
-\sp
-
 |MagiaTiki.md|
-
-\sp
 
 |SurcarMares.md|
 

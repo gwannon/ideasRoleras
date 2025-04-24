@@ -36,9 +36,9 @@ Este utensilio perfecto para la pesca de pequeños peces y crustáceos puede usa
 
 Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asiarlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
 
-Las armas, sobre todo las grandes de madera, están profusamente decoradas con motivos geométricos y marítimos, convirtiéndolas muchas veces en auténticas obras de arte. También es normal que tengan elementos decorativos como, penachos de plumas u hojas trenzadas de vivos colores.
-
 \sp
+
+Las armas, sobre todo las grandes de madera, están profusamente decoradas con motivos geométricos y marítimos, convirtiéndolas muchas veces en auténticas obras de arte. También es normal que tengan elementos decorativos como, penachos de plumas u hojas trenzadas de vivos colores.
 
 ### Armaduras
 
@@ -76,11 +76,11 @@ Al igual que la de conchas se aprovecha las curvas y las juntas de las piezas de
 
 > Ocupa dos casillas de cuerpo. Puedes nadar con ella o, si quieres, sumergirte.
 
+\sp
+
 ### Equipo vario
 
 La alimentación de los kiores se basa más en frutos tropicales que en cereales y raíces, con lo que sus raciones de viaje suelen ser principalmente frutas y tubérculos, así como pescados y crustáceos secos.
-
-\sp
 
 #### Kava (5 ca)
 
@@ -120,9 +120,9 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 
 Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
-Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
-
 \sp
+
+Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
 
 Según el tamaño podría permitir desde 4 a 20 roedores con su equipaje y agua y comida para un largo viaje.
 
