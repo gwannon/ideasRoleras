@@ -54,7 +54,7 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |31|Leñador/a|Hacha de piedra (mediana, 1d6 / 1d8)|Mochila de hojas de palma|
 |32|Cuidador/a de pulgas de mar|Vara con gancho|Cesto para huevos|
 |33|Carpintero/a de ribera|Hacha de piedra (mediana, 1d6 / 1d8)|Cordel de coco, rollo|
-|34|Recolector/a de algas|Orca|Cesta|
+|34|Recolector/a de algas|Horca (mediana, 1d6 / 1d8)|Cesta|
 |35|Alfarero/a|Hojas afiladas de piedra|Chesca y pedernal|
 |36|Tatuador/a|Herramientas de tatuador|Tinta|
 |41|Recolector/a de cocos|Cuerda|Taladro|
@@ -64,7 +64,7 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |45|Sombrerero/a|Cuerda de medir con nudos|Plumas de ave|
 |46|Tejedor/a de hojas de palma|Aguja (ligera, 1d6)|Cordel de coco, rollo|
 |51|Constructor/a de tablas de surf|Hacha de piedra (mediana, 1d6 / 1d8)|Piedra para pulir|
-|52|Buceador/a|Tubo de caña para respirar|Tridente (mediana, 1d6 / 1d8)|
+|52|Buceador/a|Tubo de caña para respirar|Horca (mediana, 1d6 / 1d8)|
 |53|Tallador/a de piedras|Maza de madera|Cinceles de piedra|
 |54|Tragafuegos|Antorchas|Parafina|
 |55|Cocinero/a|Gran olla de barro|Cuchara y tenedor de madera|

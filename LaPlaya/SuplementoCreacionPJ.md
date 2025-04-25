@@ -4,17 +4,31 @@
 
 # Personajes
 
-Suplemento de crear tu aventurero/a kiores (ratas del Pacífico) que puedes usar en aventuras en las islas de la Polinesia para el juego de rol [Mausritter](https://losing-games.itch.io/mausritter).
+Suplemento de crear tu aventurero/a kiore (ratas del Pacífico) que puedes usar en aventuras en las islas de la Polinesia para el juego de rol [Mausritter](https://losing-games.itch.io/mausritter).
 
 &nbsp;
 
-A la hora de crear tu roedor solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento**. Además, hay una **tabla completa de Trasfondos**.
+A la hora de crear tu kiore solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento** y hay una **tabla completa de Trasfondos** con nuevas profesiones y equipo (Objeto A y Objeto B). En [Suplemento Equipo Polinesia.pdf](https://gwannon.itch.io/maustiki) encontrarás descripciones sobre 
 
 &nbsp;
 
 ## Marea de nacimiento
 
+&nbsp;
+
+\conc
+
+Las **mareas son una parte fundamental de la vida del asentamiento** y avisar a sus habitantes de las subidas y bajadas de la marea es una ocupación muy importante.
+
+Una de las labores más importantes en cada poblado de kiores es avisar de las subidas y bajadas de la marea. Cuando está alta y cuando está baja la marea se hace sonar un pututu, un caracol gigante de mar, con unas notas para la pleamar y otras para bajamar.
+
+> Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
+
 En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguiente tabla de mareas.
+
+\sinc
+
+&nbsp;
 
 |1d10|Marea|Destino|
 |---|---|---|
@@ -29,17 +43,21 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 |9|Bajamar de noche|Famoso/a **navegante**|
 |10|Pututu de bajamar|Madera de **héroe/heroina o villano/a**|
 
-&nbsp;
+\conc
+
+\sp
+
+\sinc
 
 ## Trasfondos
+
+&nbsp;
 
 \conc
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
 
 La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
-
-\sp
 
 Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
 
@@ -66,7 +84,7 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 |31|Leñador/a|Hacha de piedra (mediana, 1d6 / 1d8)|Mochila de hojas de palma|
 |32|Cuidador/a de pulgas de mar|Vara con gancho|Cesto para huevos|
 |33|Carpintero/a de ribera|Hacha de piedra (mediana, 1d6 / 1d8)|Cordel de coco, rollo|
-|34|Recolector/a de algas|Orca|Cesta|
+|34|Recolector/a de algas|Horca (mediana, 1d6 / 1d8)|Cesta|
 |35|Alfarero/a|Hojas afiladas de piedra|Chesca y pedernal|
 |36|Tatuador/a|Herramientas de tatuador|Tinta|
 |41|Recolector/a de cocos|Cuerda|Taladro|
@@ -76,11 +94,6 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 |45|Sombrerero/a|Cuerda de medir con nudos|Plumas de ave|
 |46|Tejedor/a de hojas de palma|Aguja (ligera, 1d6)|Cordel de coco, rollo|
 |51|Constructor/a de tablas de surf|Hacha de piedra (mediana, 1d6 / 1d8)|Piedra para pulir|
-|52|Buceador/a|Tubo de caña para respirar|Tridente (mediana, 1d6 / 1d8)|
-|53|Tallador/a de piedras|Maza de madera|Cinceles de piedra|
-|54|Tragafuegos|Antorchas|Parafina|
-|55|Cocinero/a|Gran olla de barro|Cuchara y tenedor de madera|
-|56|Mensajero|Saco de dormir|Daga (ligera, d6)|
 
 \conc
 
@@ -90,6 +103,11 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
+|52|Buceador/a|Tubo de caña para respirar|Horca (mediana, 1d6 / 1d8)|
+|53|Tallador/a de piedras|Maza de madera|Cinceles de piedra|
+|54|Tragafuegos|Antorchas|Parafina|
+|55|Cocinero/a|Gran olla de barro|Cuchara y tenedor de madera|
+|56|Mensajero|Saco de dormir|Daga (ligera, d6)|
 |61|Cuentacuentos|Ropajes vistosos|Tambor de calabaza Ipu|
 |62|Tintorero/a|Mortero y maja|Gran cubo de madera|
 |63|Extractor/a de savia|Cubo|Cuñas de madera|
