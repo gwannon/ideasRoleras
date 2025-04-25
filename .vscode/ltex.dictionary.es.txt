@@ -711,3 +711,5 @@ Kau
 kau
 hooilo
 Hooilo
+Mausi
+Ratonga

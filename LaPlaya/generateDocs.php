@@ -20,7 +20,7 @@ $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/temp
 $html = str_replace("|ID|", $argv[1], $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
-$html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
+$html = str_replace("<p>\sc</p>", "<p claaSEss=\"saltocolumna\"></p>", $html);
 $html = str_replace("<p>\sinc</p>", "</div>", $html);
 $html = str_replace("<p>\conc</p>", "<div class=\"columns\">", $html);
 $html = str_replace("<div class='columns'>\n</div>", "", $html); 
@@ -36,15 +36,13 @@ $html = preg_replace_callback("/<p>\|([a-zA-Z]*)\.html\|<\/p>/", function($match
 $counter = 1;
 $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   global $counter;
-  if ($counter%2 == 0) $matches[0] = '"saltopagina even"';
-  else $matches[0] = '"saltopagina odd"';
+  if ($counter%2 == 0) $matches[0] = '"saltopagina even" id="anchor'.$counter.'"';
+  else $matches[0] = '"saltopagina odd" id="anchor'.$counter.'"';
   $counter++;
   return $matches[0];
 }, $html);
 
 file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
-
-
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
@@ -77,19 +75,36 @@ foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 1, $counter);
+    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H1"];
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 2, $counter);
+    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H2"];
   } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 3, $counter);
+    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H3"];
   } else if(preg_match("/(<h4>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 4, $counter);
+    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H4"];
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
 }
+
+echo "Indice ".count($json)." items\n";
+
+/* Generamos el Índice HTML */
+/* -------------------------------------------------------------- */
+$indice = "";
+foreach ($json as $item) {
+  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
+}
+
+$html = str_replace("|INDICE|", $indice, $html);
+
+file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 file_put_contents(__DIR__ . "/".$argv[1].".txt", $metas);
 

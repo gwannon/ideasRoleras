@@ -65,9 +65,9 @@ Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que
   
   \sc
   
-## Kapua menor
+## Kupua menor
 
-Los kapuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
+Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
 
 No son grandes espíritus, sino menores con ciertas capacidades mágicas relacionadas con su forma alternativa. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
 

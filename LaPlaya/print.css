@@ -438,3 +438,35 @@ body {
 .resources > div.height2 > img {
   max-height: 160px;
 }
+
+/* Indice */
+#indice:not(#MausTiki #indice) {
+  display: none;
+}
+
+.likeH1,
+.likeH2,
+.likeH3 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 3px 0;
+  text-decoration: none;
+  font-size: 1em;
+  max-height: 25px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis; 
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
+.likeH1 span, .likeH2 span, .likeH3 span {
+  float: right;
+  margin-right: 5px;
+}
