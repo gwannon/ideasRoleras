@@ -27,3 +27,10 @@ pdftk './temp.pdf' update_info_utf8 './SuplementoCreacionPJ.txt' output '../Supl
 rm ./SuplementoCreacionPJ.html
 rm ./SuplementoCreacionPJ.txt
 rm ./temp.pdf
+
+php ./generateDocs.php SuplementoSurcarMares
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./SuplementoSurcarMares.html
+pdftk './temp.pdf' update_info_utf8 './SuplementoSurcarMares.txt' output '../SuplementoSurcarMares.pdf' compress
+rm ./SuplementoSurcarMares.html
+rm ./SuplementoSurcarMares.txt
+rm ./temp.pdf

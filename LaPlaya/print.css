@@ -147,6 +147,10 @@ h1 > a {
     0px 2px 0px var(--color-black);
 }
 
+#SuplementoSurcarMares h1 {
+  font-size: 3em;
+}
+
 h2,
 h3,
 h4 {

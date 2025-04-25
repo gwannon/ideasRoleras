@@ -21,7 +21,6 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 |9|Bajamar de noche|Famoso/a **navegante**|
 |10|Pututu de bajamar|Madera de **héroe/heroina o villano/a**|
 
-
 ### Trasfondos
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
@@ -87,7 +86,6 @@ Lo mismo pasa con la hoja de palma que también encontramos en varias profesione
 \sp
 
 Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
-
 
 ### Condición «Maldito»
 

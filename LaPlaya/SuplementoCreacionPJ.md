@@ -1,10 +1,8 @@
-
-
 \sinc
 
 # Personajes
 
-Suplemento de crear tu aventurero/a kiore (ratas del Pacífico) que puedes usar en aventuras en las islas de la Polinesia para el juego de rol [Mausritter](https://losing-games.itch.io/mausritter).
+Suplemento para crear tu aventurero/a kiore (ratas del Pacífico) que puedes usar en aventuras en las islas de la Polinesia para el juego de rol [Mausritter](https://losing-games.itch.io/mausritter).
 
 &nbsp;
 

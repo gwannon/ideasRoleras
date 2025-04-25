@@ -70,7 +70,13 @@ El invierno (hooilo) va de noviembre a abril. En invierno la temperatura promedi
 
 ### La niebla de Pele
 
+```
+Ves esa niebla oscura que baja de la montaña sagrada y que hace el aire irrespirable, eso quiere decir que Pele tiene un mal día. Cuando nosotros tenemos un mal día pues te aguantas y sigues adelante. Cuando una divinidad tiene un mal día, el resto lo sufrimos.
+```
+
 XXX
+
+> Al principio de cada turno que pases dentro de la niebla debes hacer una tirada de FUE y si fallas durante ese turno, mientras sigas dentro de la niebla, tendrás desventaja a todas las tiradas.
 
 ## Encuentros
 
