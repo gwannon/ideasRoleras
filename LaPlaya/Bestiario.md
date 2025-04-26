@@ -8,20 +8,24 @@ Además de las bestias de Mausritter, puedes usar en tus encuentros criaturas es
 
 \conc
 
-## Mo‘o, lagarto cambiaforma
+## Moʻo, espíritu acuático cambiaforma
 
-XXX
+Las moʻos suelen adoptar la forma de reptiles monstruosos, geckos o riokes. Son veneradas como aumakuas (espíritus familiares) y suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos. 
+
+Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisaje, lo cual explica las extrañas formas que pueden tomar las piedras.
+
+Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus riokes tengan que buscar una moʻo con habilidades especiales que les ayude.
 
 * **PG** X, **FUE** X, **DES** X, **VOL** X
 * **Armadura** X
 * **Ataques:** XXX
-* **XXX**
-  1. **XXX:** XXX
-  2. **XXX:** XXX
+* **Forma actual**
+  1. **Rioke:** XXX
+  2. **Gecko:** XXX
   3. **XXX:** XXX
   4. **XXX:** XXX
   5. **XXX:** XXX
-  6. **XXX:** XXX
+  6. **Dragón (Iguana gigante):** XXX
 
 \sc
 
