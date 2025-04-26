@@ -42,6 +42,9 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 
 \sp
 
+* Tropical volcano island in sea cartoon landscape by [upklyak](https://www.freepik.com/free-vector/tropical-volcano-island-sea-cartoon-landscape_50471227.htm)
+* Night volcano island in ocean cartoon vector background Magma eruption glow on exotic tropical isle beach near palm tree Beautiful volcanic lava steam in forest game design Rock in sea water by [upklyak](https://www.freepik.com/free-vector/night-volcano-island-ocean-cartoon-vector-background-magma-eruption-glow-exotic-tropical-isle-beach-near-palm-tree-beautiful-volcanic-lava-steam-forest-game-design-rock-sea-water_58676039.htm)
 * Falling space comet icon by [studiogstock](https://www.freepik.com/free-vector/falling-space-comet-icon_136481623.htm)
 * Maori fishhook by [Ali Eminov](https://www.flickr.com/photos/aliarda/15824793172) con licencia [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/deed.es)
-
+* Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530498.htm)
+* Polynesian adze (replica), bought 2019 in Yap by [Plenz](https://en.wikipedia.org/wiki/Adze#/media/File:PolynesianAdze.jpg) con licencia [CC 0](https://creativecommons.org/publicdomain/zero/1.0/deed.es)

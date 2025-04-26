@@ -1,5 +1,7 @@
 \sinc
 
+&nbsp;
+
 ## El día a día
 
 \conc
@@ -15,6 +17,8 @@ Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a
 No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad donde viven.
 
 De normal los kiores llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
+
+\sp
 
 ### Depredadores
 

@@ -75,19 +75,19 @@ foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 1, $counter);
-    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H1"];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H1"];
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 2, $counter);
-    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H2"];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H2"];
   } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 3, $counter);
-    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H3"];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H3"];
   } else if(preg_match("/(<h4>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 4, $counter);
-    $json[] = ["title" => $line,"page" => $counter-1, "tag" => "H4"];
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H4"];
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
@@ -99,7 +99,7 @@ echo "Indice ".count($json)." items\n";
 /* -------------------------------------------------------------- */
 $indice = "";
 foreach ($json as $item) {
-  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . $item['page'] . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
+  if(isset($item['tag']) && in_array($item['tag'], ['H1', 'H2'])) $indice .= '<a href="#anchor' . ($item['page']-1) . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
 }
 
 $html = str_replace("|INDICE|", $indice, $html);

@@ -46,7 +46,7 @@ Las armaduras están hechas principalmente de materiales naturales de origen ani
 
 En las armaduras siempre ha primado elementos como que sean frescas y se pueda nadar con ellas, frente a que sean duras y resistentes. Es por ello que nos movemos desde hoja de palma hasta conchas y cáscaras de cangrejos, pasando por la dura corteza del coco.
 
-> Todas las armaduras previenen 1 de daño independientemente de su construcción. Lo que las diferencias son sus ventajas extras.
+**Todas las armaduras previenen 1 de daño** independientemente de su construcción. Lo que las diferencias son sus ventajas extras.
 
 #### Protecciones de palma trenzada (50 ca)
 

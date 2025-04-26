@@ -1,6 +1,10 @@
+\sinc
+
 &nbsp;
 
 ## Creación de personaje
+
+\conc
 
 A la hora de crear tu roedor solo hay dos cambios principales, la tirada en tu signo se cambia por la tirada en la **tabla de la Marea de nacimiento**. Además, hay una **tabla completa de Trasfondos**.
 
@@ -25,6 +29,8 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 
 Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesia y las características de las islas del Pacífico, pero puedes usar si deseas las originales del libro básico por ejemplo para roedores venidos del otro lado del mar que llegan a estas costas.
 
+\sp
+
 \sinc
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
@@ -32,15 +38,6 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 |11|Curandero/a|Máscara Tiki: Bendición de Hi’iaka|Hojas de platanero|
 |12|Tejedor/a de lei de flores|Cesta|Cordel de coco, rollo|
 |13|Cestero/a|Tijeras de piedra|Maza de madera|
-
-\sinc
-
-\sp
-
-\sinc
-
-|PG+ca|Trasfondo|Objeto A|Objeto B|
-|---|---|---|---|
 |14|Jinete de cangrejos|Ayudante: Montura cangrejo|Comida para cangrejos|
 |15|Productor/a de kava|Mortero y maja|Cuencos de barro|
 |16|Salinero/a|Pala|Cubo de cerámica|
@@ -81,9 +78,9 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
 
-Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
-
 \sp
+
+Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
 
 Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
 

@@ -24,9 +24,9 @@ MausTiki modifica ciertas reglas de Mausritter y añade otras nuevas para repres
 
 &nbsp;
 
-\conc
-
 ## Cambios rápidos de reglas
+
+\conc
 
 Hay pequeños cambios en el reglamento original que te explicamos a continuación.
 
