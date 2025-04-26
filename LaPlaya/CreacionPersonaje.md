@@ -92,9 +92,13 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 
 \conc
 
-XXX
+Este listado puede servirte para sacar el nombre de tu personaje o buscar un **nombre al azar (tira 1d10 + 1d6)** para tus PNJ tanto roedores como kupuas, mo'os, tortugas, etc.
+
+Los nombres sirven para personajes femeninos, masculinos y no binarios, como les [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB), un tercer género típico de las sociedades polinesias, que son personas que encarnan tanto el espíritu masculino como el femenino.  
 
 \sinc
+
+&nbsp;
 
 |1d10/1d6|1|2|3|4|5|6|
 |---|---|---|---|---|---|---|
@@ -111,14 +115,20 @@ XXX
 
 &nbsp;
 
-\conc
+## Condición «Maldito»
 
-### Condición «Maldito»
+\conc
 
 Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar «Maldito».
 
 Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
 
-Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como quemar algo importante en honor a espíritus de fuego, construir algo de madera o piedra y ofrecerlo a espíritu de tierra o incluso bailar el hula.
+Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como:
+
+* Quemar algo importante en honor a espíritus de fuego.
+* Construir algo de madera o piedra y ofrecerlo a espíritu de tierra.
+* Bailar el hula para alagar a los espíritus.
+* Hacer una peregrinación.
+* Cumplir alguna penitencia como andar sobre brasas o hacer y cumplir promesas como no cortarse el pelo durante meses. 
 
 \sp

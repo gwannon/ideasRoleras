@@ -36,8 +36,6 @@ Este utensilio perfecto para la pesca de pequeños peces y crustáceos puede usa
 
 Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asiarlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
 
-\sp
-
 Las armas, sobre todo las grandes de madera, están profusamente decoradas con motivos geométricos y marítimos, convirtiéndolas muchas veces en auténticas obras de arte. También es normal que tengan elementos decorativos como, penachos de plumas u hojas trenzadas de vivos colores.
 
 ### Armaduras
@@ -47,6 +45,8 @@ Las armaduras están hechas principalmente de materiales naturales de origen ani
 En las armaduras siempre ha primado elementos como que sean frescas y se pueda nadar con ellas, frente a que sean duras y resistentes. Es por ello que nos movemos desde hoja de palma hasta conchas y cáscaras de cangrejos, pasando por la dura corteza del coco.
 
 **Todas las armaduras previenen 1 de daño** independientemente de su construcción. Lo que las diferencias son sus ventajas extras.
+
+\sp
 
 #### Protecciones de palma trenzada (50 ca)
 
@@ -76,8 +76,6 @@ Al igual que la de conchas se aprovecha las curvas y las juntas de las piezas de
 
 > Ocupa dos casillas de cuerpo. Puedes nadar con ella o, si quieres, sumergirte.
 
-\sp
-
 ### Equipo vario
 
 La alimentación de los kiores se basa más en frutos tropicales que en cereales y raíces, con lo que sus raciones de viaje suelen ser principalmente frutas y tubérculos, así como pescados y crustáceos secos.
@@ -90,7 +88,9 @@ La kava es una planta de la que se saca una bebida con efectos psicoactivos. Pro
 
 El konane es una juego de mesa, muy parecido a las damas o el go. El konane se juega utilizando pequeños trozos de coral blanco y lava negra sobre una gran roca tallada y o un tablón de madera que funcionaba como tablero y mesa. Se considera un juego de roedores inteligentes y las competiciones son de muy alto nivel.
 
-[![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
+\sp
+
+De normal ocupa 1 casilla de inventario, pero los de gran calidad ocupan 2 espacios de inventario, pero pueden ser transportado por dos personajes, uno lleva el tablero y otro las piezas. 
 
 #### Herramientas de tatuaje
 
@@ -120,15 +120,11 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 
 Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
-\sp
-
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
 
 Según el tamaño podría permitir desde 4 a 20 roedores con su equipaje y agua y comida para un largo viaje.
 
 De hecho, son los navíos con los que los kiores han ido explorando todas las islas del Pacífico.
-
-\sc
 
 |Objeto|Precio|
 |---|---|

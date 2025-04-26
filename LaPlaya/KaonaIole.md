@@ -12,6 +12,8 @@ En la comunidad de Kaona Iole principalmente hay kiores o ratas del Pacífico.
 
 XXX
 
+Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interes. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
+
 \sinc
 
 &nbsp;

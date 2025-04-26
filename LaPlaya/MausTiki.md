@@ -38,7 +38,11 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 |Inventario.md|
 
+\sp
+
 |MagiaTiki.md|
+
+\sp
 
 |SurcarMares.md|
 
