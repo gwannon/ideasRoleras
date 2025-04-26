@@ -203,7 +203,7 @@ Lanza 1d20 dos veces en la tabla de tesoros, y 1d20 adicional por cada pregunta 
 |3|Tiputa (camiseta de hojas de palma trenzada) que te hace flotar en el agua|
 |4|Canicas magnetizadas que se mueven para juntarse no importa lo lejos que estén
 |5|Calabaza vaciada que siempre tiene aire dentro que respirar|
-|6|Vara de zahorí para buscar agua|
+|6|Vela que revela la verdadera apariencia de un csambiaformas|
 
 \sc
 
@@ -231,8 +231,8 @@ Lanza 1d20 dos veces en la tabla de tesoros, y 1d20 adicional por cada pregunta 
 |2|Figura de alabastro de kupua (200 ca para un kahuna)|
 |3|Huesos de kiore antiquísimos, perfectos para hacer armas y herramientas (300 ca para un kahuna)|
 |4|Piedra volcánica con un brillo rojizo, quizás pueda tallarse y convertirse en una máscara tiki (2 espacios, 500 ca para un kahuna)|
-|5|XXX|
-|6|XXX|
+|5|Vara de zahorí para buscar agua|
+|6|Tambor ipu ancestral|
 
 \sp
 
