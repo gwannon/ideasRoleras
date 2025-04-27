@@ -56,6 +56,10 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 \sp
 
+|Tesoros.md|
+
+\sp
+
 |PlayaVolcan.md|
 
 \sp

@@ -53,6 +53,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Set of turtle cartoon by [brgfx](https://www.freepik.com/free-vector/set-turtle-cartoon_20424112.htm)
 * Red burning charcoal flat set by [pch.vector](https://www.freepik.com/free-vector/red-burning-charcoal-flat-set_13146632.htm)
 * Conjunto de animales del bosque de dibujos animados por [macrovector](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm)
+* Isolated dry tree cartoon sticker on white background by [brgfx](https://www.freepik.com/free-vector/isolated-dry-tree-cartoon-sticker-white-background_18053366.htm)
 
 \sinc
 
