@@ -94,7 +94,7 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 \sinc
 
-## Equipo vario
+## Equipo de viaje
 
 &nbsp;
 
@@ -111,6 +111,14 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 &nbsp;
 
 |DonesDioses.html|
+
+&nbsp;
+
+## Otros objetos
+
+&nbsp;
+
+|OtrosObjetos.html|
 
 \conc
 

@@ -51,7 +51,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Map Book by [Lux Taggart](https://lux-taggart.itch.io/map-book)
 * Hand drawn cartoon chameleon illustration by [pikisuperstar)](https://www.freepik.com/free-vector/hand-drawn-cartoon-chameleon-illustration_41098866.htm)
 * Set of turtle cartoon by [brgfx](https://www.freepik.com/free-vector/set-turtle-cartoon_20424112.htm)
-
+* Red burning charcoal flat set by [pch.vector](https://www.freepik.com/free-vector/red-burning-charcoal-flat-set_13146632.htm)
 * Conjunto de animales del bosque de dibujos animados por [macrovector](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm)
 
 \sinc

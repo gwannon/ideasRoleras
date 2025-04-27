@@ -201,11 +201,11 @@ Lanza 1d20 dos veces en la tabla de tesoros, y 1d20 adicional por cada pregunta 
 |1d6|Artefactos mágicos|
 |---|---|
 |1|Hacha de piedra que te permite corta madera sin cansarte|
-|2|Trozo de lava que no enfría. Sirve como calefactor o para calentar líquidos|
+|2|Trozo de lava que no se enfría. Sirve como calefactor o para calentar líquidos|
 |3|Tiputa (camiseta de hojas de palma trenzada) que te hace flotar en el agua|
-|4|Canicas magnetizadas que se mueven para juntarse no importa lo lejos que estén
+|4|Canicas magnetizadas que se mueven para juntarse no importa lo lejos que estén (0 espacios)|
 |5|Calabaza vaciada que siempre tiene aire dentro que respirar|
-|6|Vela que revela la verdadera apariencia de un csambiaformas|
+|6|Vela que revela la verdadera apariencia de un cambiaformas bajo su luz|
 
 \sc
 
@@ -214,7 +214,7 @@ Lanza 1d20 dos veces en la tabla de tesoros, y 1d20 adicional por cada pregunta 
 |1|Remo de maderas nobles decorativo (100 ca)|
 |2|Juego de konane de buena calidad (2 espacios, 500 ca)|
 |3|Antiguo juego de herramientas de tatuaje (400 ca)|
-|4|Perla negra gigantesca (1000 ca)|
+|4|Perla negra gigantesca (0 espacios, 1000 ca)|
 |5|Pepita de oro (1000 ca)|
 |6|Juego de konane de materiales nobles (2 espacios, 1500 ca)|
 
