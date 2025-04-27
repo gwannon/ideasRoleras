@@ -106,7 +106,7 @@ Estas nieblas son muy tóxicas y los kiores han aprendido a diferenciarlas de la
 
 Tradicionalmente, se cuenta que la diosa del fuego Pele, que vive en el cráter del volcán, lanza estas nubes asesinas cuando está enfadada con los riokes y si no la aplacan su ira crecerá y hará que su volcán lance piroclastos, expulse ríos de lava y emanen nubes de gas.
 
-La vulcanología dice que las nieblas de Pele son normales en los volcanes del pacífico y típicos  cuando están activos, con lo que es normal que tarde o temprano entren en erupción.
+La vulcanología dice que las nieblas de Pele son normales en los volcanes del pacífico y típicos cuando están activos, con lo que es normal que tarde o temprano entren en erupción.
 
 \sp
 
@@ -146,7 +146,7 @@ Cerca de las faldas de las montañas y de las playas suele haber praderas que lo
 
 ### Encuentros río
 
-Pequeos arroyos y lagos navegables abundan en las islas del Pacífico y son la principal fuente de agua dulce, lo que hace que sea necesario para todo el mundo (depredadores y presas) acudir a estos sitios para conseguir agua dulce. Además mucho kupuas están asociado con estas masas de agua, lo que hace que visitarlos se vuelva una aventura en si misma.
+Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la principal fuente de agua dulce, lo que hace que sea necesario para todo el mundo (depredadores y presas) acudir a estos sitios para conseguir agua dulce. Además, mucho kupuas están asociados con estas masas de agua, lo que hace que visitarlos se vuelva una aventura en sí misma.
 
 |1d6|Encuentro río|
 |---|---|
@@ -175,7 +175,6 @@ Los encuentros en el volcán tienen siempre un carácter mágico y divino, ya qu
 ### Encuentros playa
 
 La playa puede traer cosas sorprendentes con cada pleamar y destapar objetos enterrados con cada bajamar.
-
 
 \sp
 
@@ -215,7 +214,7 @@ Los encuentros en los arrecifes pueden darse tanto cuando están en una ambienta
 
 ### Encuentros islote
 
-En estos pequeños islotes que rodean la isla puedes encontrarte lo que sea, pero sobre todo recursos como comida y cosas traidas por el mar.
+En estos pequeños islotes que rodean la isla puedes encontrarte lo que sea, pero sobre todo recursos como comida y cosas traídas por el mar.
 
 |1d6|Encuentro islote|
 |---|---|

@@ -715,3 +715,5 @@ Mausi
 Ratonga
 geckos
 Gecko
+1d4
+kupuas
