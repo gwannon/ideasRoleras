@@ -48,3 +48,45 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Maori fishhook by [Ali Eminov](https://www.flickr.com/photos/aliarda/15824793172) con licencia [CC BY-NC](https://creativecommons.org/licenses/by-nc/2.0/deed.es)
 * Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530498.htm)
 * Polynesian adze (replica), bought 2019 in Yap by [Plenz](https://en.wikipedia.org/wiki/Adze#/media/File:PolynesianAdze.jpg) con licencia [CC 0](https://creativecommons.org/publicdomain/zero/1.0/deed.es)
+* Map Book by [Lux Taggart](https://lux-taggart.itch.io/map-book)
+* Hand drawn cartoon chameleon illustration by [pikisuperstar)](https://www.freepik.com/free-vector/hand-drawn-cartoon-chameleon-illustration_41098866.htm)
+* Set of turtle cartoon by [brgfx](https://www.freepik.com/free-vector/set-turtle-cartoon_20424112.htm)
+
+* Conjunto de animales del bosque de dibujos animados por [macrovector](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm)
+
+\sinc
+
+&nbsp;
+
+## Otros proyectos que te pueden interesar
+ 
+Si os ha gustado esta suplemento de MausRitter podéis probar otros de mis proyectos. Animaros y dadles un poco de cariño.
+
+&nbsp;
+
+\conc
+
+[![OPERACIÓN: Tras el mundo perdido](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
+
+**[OPERACIÓN: Tras el mundo perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios para SWAE.](https://mundoperdido.gwannon.com/pdf/)**
+
+[![¡Arrr! Cthulhu](./images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
+
+**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu SWAE.](https://arrrcthulhu.com/pdf/)**
+
+
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./images/jekyll.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
+
+**[Doctor Jekyll y Mister Hyde: Investigadores privados para FATE](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

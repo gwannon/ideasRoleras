@@ -10,7 +10,9 @@ Además de las bestias de Mausritter, puedes usar en tus encuentros criaturas es
 
 ## Moʻo, espíritu acuático cambiaforma
 
-Las moʻos suelen adoptar la forma de reptiles monstruosos, geckos o riokes. Son veneradas como aumakuas (espíritus familiares) y suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos. 
+[![Hand drawn cartoon chameleon illustration by pikisuperstar](./images/8857409.png "Hand drawn cartoon chameleon illustration by pikisuperstar")](https://www.freepik.com/free-vector/hand-drawn-cartoon-chameleon-illustration_41098866.htm "Hand drawn cartoon chameleon illustration by pikisuperstar")
+
+Las moʻos suelen adoptar la forma de reptiles monstruosos, geckos o riokes. Por eso se les considera a veces como kupuas, pero son veneradas como aumakuas (espíritus familiares). Suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos. 
 
 Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisaje, lo cual explica las extrañas formas que pueden tomar las piedras.
 
@@ -22,8 +24,8 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Forma actual**
   1. **Rioke:** XXX
   2. **Gecko:** XXX
-  3. **XXX:** XXX
-  4. **XXX:** XXX
+  3. **Camaleón:** XXX
+  4. **Lagarto:** XXX
   5. **XXX:** XXX
   6. **Dragón (Iguana gigante):** XXX
 
@@ -38,6 +40,9 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
 * **PG** 10, **FUE** 12, **DES** 10, **VOL** 9
 * **Armadura** 3
 * **Ataques:** d8 pinzas
+
+\sp
+
 * **Especies de cangrejos**
   1. **De roca:** De pequeño tamaño, pueden convertirse en animales domésticos que criar, FUE 8, d6 pinzas.
   2. **Ermitaño:** Pequeño y sabio, viven en conchas, DES 10.
@@ -46,9 +51,9 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
   5. **De los manglares:** De buen tamaño, viven entre las raíces de las plantas que forman los manglares.
   6. **Kona:** Fieros luchadores, su carne es muy apreciada para grandes ceremonias.
 
-\sp
-
 ## Tortuga
+
+[![Set of turtle cartoon by brgfx](./images/61lk_9glg_200407.png "Set of turtle cartoon by brgfx")](https://www.freepik.com/free-vector/set-turtle-cartoon_20424112.htm "Set of turtle cartoon by brgfx")
 
 Estás amistosas criaturas siempre están dispuestas a ayudar y a transportarte por el mar sobre su caparazón.
 
@@ -84,6 +89,27 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
   1. **Halcón marino:** XXX
   2. **Raya:** XXX
   3. **Tiburón:** XXX
-  4. **XXX:** XXX
-  5. **XXX:** XXX
+  4. **Cerdo salvaje:** XXX
+  5. **Buho:** XXX
   6. **XXX:** XXX
+
+\sp
+
+##  Cerdo salvaje
+
+[![Conjunto de animales del bosque de dibujos animados por macrovector](./images/cerdosalvaje.png "Conjunto de animales del bosque de dibujos animados por macrovector")](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm "Conjunto de animales del bosque de dibujos animados por macrovector")
+
+XXX
+
+Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a buscar aquello que cubre la necesidad. Si tienen sed, buscan agua, si tienen calor, barro donde remojarse, etc. Su ánimo y actitud dependerá de que están buscando.
+
+* **PG** X, **FUE** X, **DES** X, **VOL** X
+* **Armadura** X
+* **Ataques:** XXX
+* **Está buscando**
+  1. **Agua para beber:** XXX
+  2. **Barro para remozarse:** XXX
+  3. **Árbol adecuado para rascarse:** XXX
+  4. **Frutas:** XXX
+  5. **Raíces:** XXX
+  6. **Bronca:** XXX

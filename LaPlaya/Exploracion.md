@@ -131,8 +131,8 @@ Los riokes no suelen adentrarse en la selva, hay seres que se esconden en el fol
 |---|---|
 |1|Frutas silvestres (1 tarjeta de raciones)|
 |2|Murciélagos de la fruta durmiendo entre los árboles|
-|3|Plantas de kava lista para recolectar sus raices|
-|4|Losa de piedra con simbolos|
+|3|Plantas de kava lista para recolectar sus raíces|
+|4|1 cerdo salvaje sale de la espesura|
 |5|Huellas de serpiente|
 |6|Mo'o con la apariencia de alguien conocido|
 

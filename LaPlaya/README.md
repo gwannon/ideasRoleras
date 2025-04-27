@@ -15,7 +15,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 
 ---
 
-[Inspiración](https://itch.io/c/1521592/mausritter)
+[Inspiración](https://itch.io/physical-games/tag-mausritter)
 
 Buscar Mythic Polynesia - Mythras Roleplaying Game
 

@@ -113,7 +113,33 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 |65|Salvavidas|Tabla de surf|Red|
 |66|Buhonero/a|Mochila|Cayado|
 
+&nbsp;
+
+## Nombres
+
 \conc
+
+Este listado puede servirte para sacar el nombre de tu personaje o buscar un **nombre al azar (tira 1d10 + 1d6)** para tus PNJ tanto roedores como kupuas, mo'os, tortugas, etc.
+
+Los nombres sirven para personajes femeninos, masculinos y no binarios, como les [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB), un tercer género típico de las sociedades polinesias, que son personas que encarnan tanto el espíritu masculino como el femenino.  
+
+\sinc
+
+&nbsp;
+
+|1d10/1d6|1|2|3|4|5|6|
+|---|---|---|---|---|---|---|
+|1|Afa|Ariki|Fangatua|Fuleheu|Kauri|Oroiti|
+|2|Afu|Atiu|Fau|Futkefu|Kereteki|Palila|
+|3|Ahio|Eloni|Fauiki|Hika|Kiri|Rewa|
+|4|Ahohako|Ema|Fautave|Hine|Kohia|Tangaroa|
+|5|Ahomana|Emobi|Feilo|Hiriwa|Kupe|Taranga|
+|6|Aisake|Fainga|Fekitoa|Hoku|Lulani|Tawhiri|
+|7|Akolo|Faipa|Feleti|Hori|Mahuru|Tike|
+|8|Alika|Fale|Filimoeika|Ihorangi|Manu|Turi|
+|9|Alipate|Faleaka|Folau|Inas|Matareka|Turua|
+|10|Amanaki|Fangaloka|Fuanilevu|Kaula|Moeata|Whetu|
+
 
 \sp
 
