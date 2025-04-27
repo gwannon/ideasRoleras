@@ -68,25 +68,14 @@ Si os ha gustado esta suplemento de MausRitter podéis probar otros de mis proye
 
 [![OPERACIÓN: Tras el mundo perdido](./images/mundoperdido.jpg "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")](https://mundoperdido.gwannon.com/pdf/ "Una campaña donde lucharás contra nazis a lomos de dinosaurios.")
 
-**[OPERACIÓN: Tras el mundo perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios para SWAE.](https://mundoperdido.gwannon.com/pdf/)**
+**[OPERACIÓN: Tras el mundo perdido - Una campaña donde lucharás contra nazis a lomos de dinosaurios para SWEA.](https://mundoperdido.gwannon.com/pdf/)**
 
 [![¡Arrr! Cthulhu](./images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
 
-**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu SWAE.](https://arrrcthulhu.com/pdf/)**
+**[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu SWEA.](https://arrrcthulhu.com/pdf/)**
 
+\sc
 
 [![Doctor Jekyll y Mister Hyde: Investigadores privados](./images/jekyll.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
 **[Doctor Jekyll y Mister Hyde: Investigadores privados para FATE](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)**
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

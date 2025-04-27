@@ -20,7 +20,7 @@ $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/temp
 $html = str_replace("|ID|", $argv[1], $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
-$html = str_replace("<p>\sc</p>", "<p claaSEss=\"saltocolumna\"></p>", $html);
+$html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
 $html = str_replace("<p>\sinc</p>", "</div>", $html);
 $html = str_replace("<p>\conc</p>", "<div class=\"columns\">", $html);
 $html = str_replace("<div class='columns'>\n</div>", "", $html); 

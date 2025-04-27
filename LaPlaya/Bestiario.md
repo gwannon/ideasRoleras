@@ -29,8 +29,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
   5. **XXX:** XXX
   6. **Dragón (Iguana gigante):** XXX
 
-\sc
-
 ## Cangrejo
 
 [![Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por brgfx](./images/8rhu_dqk9_210504.png "Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por brgfx")](https://www.freepik.es/vector-gratis/cangrejo-raiz-manglar-estilo-dibujos-animados-sobre-fondo-blanco_18987431.htm "Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por brgfx")
@@ -66,13 +64,11 @@ Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que
   1. **Tortuga laúd:** XXX
   2. **Tortuga carey:** XXX
   3. **Tortuga verde:** XXX
-  4. **XXX:** XXX
-  5. **XXX:** XXX
+  4. **Tortuga tora:** La tortuga marina más grande todas. XXX
+  5. **Tortuga paslama:** XXX
   6. **XXX:** XXX
   
 &ast; En tierra/en el agua
-  
-  \sc
   
 ## Kupua menor
 
@@ -93,13 +89,13 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
   5. **Buho:** XXX
   6. **XXX:** XXX
 
-\sp
-
 ##  Cerdo salvaje
 
 [![Conjunto de animales del bosque de dibujos animados por macrovector](./images/cerdosalvaje.png "Conjunto de animales del bosque de dibujos animados por macrovector")](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm "Conjunto de animales del bosque de dibujos animados por macrovector")
 
 XXX
+
+\sp
 
 Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a buscar aquello que cubre la necesidad. Si tienen sed, buscan agua, si tienen calor, barro donde remojarse, etc. Su ánimo y actitud dependerá de que están buscando.
 

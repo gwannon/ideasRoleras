@@ -24,6 +24,8 @@ Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, s
 
 Si viajas con resultados de clima en negrita cada ratón debe pasar una salvación de FUE o quedará Cansado.
 
+\sc
+
 ### Kau
 
 El verano va de mayo a octubre y la temperatura promedio durante el día es de 29 °C a nivel del mar.

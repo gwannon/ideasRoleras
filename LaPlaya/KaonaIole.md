@@ -22,16 +22,39 @@ Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es 
 
 \conc
 
-1. La playa
-2. Los arrecifes
-3. El islote
-4. La selva
-5. El volcán
-6. Atalaya
+### 1. La playa
+
+XXX
+
+### 2. Los arrecifes
+
+XXX
+
+### 3. El islote
 
 XXX
 
 \sp
+
+### 4. La selva
+
+XXX
+
+### 5. El volcán
+
+XXX
+
+### 6. Atalaya
+
+XXX
+
+### 7. Cabo oeste
+
+XXX
+
+### 8. Cabo este
+
+XXX
 
 ### El mar y la playa
 
