@@ -38,7 +38,7 @@ Recuerda que la armadura puede influir a la hora de nadar y bucear, haciendo que
 
 \sinc
 
-[![Sea deep light underwater surface cartoon vector by upklyak](./images/2305.w026.n002.3542B.p1.3542.jpg "Sea deep light underwater surface cartoon vector by upklyak")](https://www.freepik.es/vector-gratis/vector-dibujos-animados-superficie-submarina-luz-profunda-mar_50076492.htm "Sea deep light underwater surface cartoon vector by upklyak")
+[![Sea deep light underwater surface cartoon vector by upklyak](./images/mapa-isla.jpg "Sea deep light underwater surface cartoon vector by upklyak")](https://www.freepik.es/vector-gratis/vector-dibujos-animados-superficie-submarina-luz-profunda-mar_50076492.htm "Sea deep light underwater surface cartoon vector by upklyak")
 
 &nbsp;
 

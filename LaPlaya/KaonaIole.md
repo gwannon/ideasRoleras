@@ -12,13 +12,13 @@ En la comunidad de Kaona Iole principalmente hay kiores o ratas del Pacífico.
 
 XXX
 
-Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interes. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
+Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interéss. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
 
 \sinc
 
 &nbsp;
 
-[![Tropical volcano island in sea cartoon landscape by upklyak](./images/2305.w030.n003.676A.p30.676.jpg "Tropical volcano island in sea cartoon landscape by upklyak")](https://www.freepik.com/free-vector/tropical-volcano-island-sea-cartoon-landscape_50471227.htm "Tropical volcano island in sea cartoon landscape by upklyak")
+[![Tropical volcano island in sea cartoon landscape by upklyak](./images/mapa-isla.jpg "Tropical volcano island in sea cartoon landscape by upklyak")](https://www.freepik.com/free-vector/tropical-volcano-island-sea-cartoon-landscape_50471227.htm "Tropical volcano island in sea cartoon landscape by upklyak")
 
 \conc
 
