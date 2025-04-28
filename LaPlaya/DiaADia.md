@@ -41,9 +41,9 @@ Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas
 
 XXX
 
-\sp
-
 > El surf que se representa aquí con trucos, carreras y tablas rápidas es más cercano al surf moderno. Nada tiene que ver con el que practicaban los antiguos polinesios. Nos hemos tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. Puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.
+
+\sp
 
 ### Conexión con otros asentamientos
 
@@ -67,13 +67,21 @@ XXX
 
 \conc
 
-XXX
+Los riokes rezan a una infinidad de divinidades y espíritus y estos son los principales y más venerados.
 
-* **Pele.** XXX
-* **Hi’iaka.** XXX
-* **Kū.** XXX
-* **Nā maka.** XXX
-* **Hā ʻupu.** XXX
+* **Pele.** Diosa del fuego y los volcanes
+* **Hi’iaka.** Diosa del baile hula, la medicina y la magia.
+* **Kū.** Dios de la guerra, la política, la agricultura y la pesca.
+* **Lono:** Este dios se asocia con la fertilidad, la agricultura, la lluvia, la música y la paz.
+* **Nāmaka.** Diosa del mar y las mareas.
+* **Hāʻupu.** Es el gigante que vivían en esta isla y que fue transformado en piedra creando el islote al oeste de la isla.
+* **Mausi:** Es un semi-dios mitad divinidad mitad kiore, protagonista muchos cuentos donde se dedica a engañar a riokes y dioses.
+* **Kupuas:** Espíritus malignos y engañosos.
+* **Aumakuas:** Espíritus familiares protectores que se encarnan en animales. Cada familia de riokes reza a sus propios aumakuas.
+
+Las forma de adorar es muy variable desde pequeñas ceremonias donde se hacen ofrendas hasta complejos bailes hula. No existe una religión organizada con rituales, ceremonias y lugares de culto.
+
+Los kahunas o sacerdotes son reverenciados por su sabiduría y sus capacidades mágicas y curativas. Suelen ser consejeros del jefe del asentamiento.
 
 ### Pele, la diosa del fuego
 
@@ -91,6 +99,10 @@ XXX
 
 ### Kupuas, espíritus diabólicos
 
-XXX
-
 Los kupuas cubren un amplio espectro de seres mágicos que van desde los simplemente traviesos y burlones, hasta los diabólicos y malvados.
+
+\sp
+
+Normalmente, pueden transformarse en algún tipo de animal que les otorga poderes como nadar muy rápido transformándose en pez espada, cuyo pico puede usar como arma.
+
+También son famosos por ser muy diestros en algún tipo de artesanía, arte u otra actividad. Puede que sea un gran trenzador de hojas de palma, surfista, buscador de agua o escalador.
