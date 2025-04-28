@@ -717,3 +717,4 @@ geckos
 Gecko
 1d4
 kupuas
+Aumakuas

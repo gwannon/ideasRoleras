@@ -23,7 +23,7 @@ Los cocos recolectados de las palmeras cocoteras de la playa son una fuente muy 
 * Las fibras que lo envuelven son perfectas para hacer cuerdas y tejidos resistentes.
 * Su dura cáscara puede usarse para construir casa, embarcaciones, armaduras, etc.
 
-Antiguamente cada familia se dedicaba a recolectar sus cocos para vivir de ellos, pero según fue creciendo el asentamiento y se instauró el trueque y la producción de derivados del coco, se profesionalzo la recolección de cocos. El poblado tiene una especie de cooperativa que trata los cocos en la que trabajan todo aquel rioke que lo desee y luego recibe una parte de los beneficios de los trueques.
+Antiguamente, cada familia se dedicaba a recolectar sus cocos para vivir de ellos, pero según fue creciendo el asentamiento y se instauró el trueque y la producción de derivados del coco, se profesionalizó la recolección de cocos. El poblado tiene una especie de cooperativa que trata los cocos en la que trabajan todo aquel rioke que lo desee y luego recibe una parte de los beneficios de los trueques.
 
 ### Tatuajes
 

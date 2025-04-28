@@ -12,7 +12,7 @@ En la comunidad de Kaona Iole principalmente hay kiores o ratas del Pacífico.
 
 XXX
 
-Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interéss. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
+Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interés. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
 
 \sinc
 
@@ -26,7 +26,7 @@ Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es 
 
 XXX
 
-Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran cantidad de kiores van todos los dias a recolectar cocos para cosneguir comida y materias primas.
+Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran cantidad de kiores van todos los días a recolectar cocos para conseguir comida y materias primas.
 
 \sp
 
