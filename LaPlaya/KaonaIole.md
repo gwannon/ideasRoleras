@@ -26,6 +26,10 @@ Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es 
 
 XXX
 
+Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran cantidad de kiores van todos los dias a recolectar cocos para cosneguir comida y materias primas.
+
+\sp
+
 ### 2. Los arrecifes
 
 XXX
@@ -33,8 +37,6 @@ XXX
 ### 3. El islote
 
 XXX
-
-\sp
 
 ### 4. La selva
 
