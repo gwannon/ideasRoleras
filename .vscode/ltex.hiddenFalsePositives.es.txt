@@ -145,3 +145,5 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qligera, a distancia\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Afa Ariki Fangatua Fuleheu Kauri Oroiti\n2 Afu Atiu Fau Futkefu Kereteki Palila\n3 Ahio Eloni Fauiki Hika Kiri Rewa\n4 Ahohako Ema Fautave Hine Kohia Tangaroa\n5 Ahomana Emobi Feilo Hiriwa Kupe Taranga\n6 Aisake Fainga Fekitoa Hoku Lulani Tawhiri\n7 Akolo Faipa Feleti Hori Mahuru Tike\n8 Alika Fale Filimoeika Ihorangi Manu Turi\n9 Alipate Faleaka Folau Inas Matareka Turua\n10 Amanaki Fangaloka Fuanilevu Kaula Moeata Whetu\\E$"}
 {"rule":"AGREEMENT_VERB_PARTICIPLE","sentence":"^\\QDe normal ocupa 1 casilla de inventario, pero los de gran calidad ocupan 2 espacios de inventario, pero pueden ser transportado por dos personajes, uno lleva el tanlero y el otro la piezas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDiosa del fuego y los volcanes\nHi’iaka.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa añeja Lomar\\E$"}

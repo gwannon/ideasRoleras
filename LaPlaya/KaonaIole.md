@@ -12,6 +12,8 @@ En la comunidad de Kaona Iole principalmente hay kiores o ratas del Pacífico.
 
 ### Situación 
 
+Kaona Iole está situada en la cara sur de la isla, en la playa más grande de la isla, ya que el norte son acantilados y en la costa este y oeste solo hay pequeñas calas.
+
 XXX
 
 Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interés. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
@@ -36,6 +38,8 @@ Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran 
 
 #### 2. Los arrecifes
 
+Una red de arrecifes rodea la playa desde el cabo este al oeste de forma que las aguas alrededor de la playa no dan a mar abierto. Por otro lado, los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan facil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando.
+
 XXX
 
 #### 3. El islote de Hāʻupu
@@ -56,11 +60,13 @@ XXX
 
 #### 6. Atalaya
 
-En el este de la playa hay una gran colina en cuya cima los riokes de Kaona Iole han establecido una atalaya de vigilancia, ya que domina todo el lado este de la isla. 
+Al este de la playa hay una gran colina en cuya cima los riokes de Kaona Iole han establecido una atalaya de vigilancia, ya que domina todo el lado este de la isla. 
 
 En esta atalaya se encuentra un pututu, una concha de caracol de mar gigante, que suena en la pleamar y la bajamar. En caso de ataques enemigos y de depredadores terrestres o marinos también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y bosques cercanos.
 
 XXX
+
+\sp
 
 #### 7. Cabo oeste
 
@@ -69,8 +75,6 @@ XXX
 En el macizo de piedra que forma el cabo oeste hay una red de cavidades naturales, llamadas las «cuevas de los ancestros». En caso de desastre se usan de refugio pero solo las cavidades más externas.
 
 Se suponen que las salas más internas de estas cavernas están habitadas por aumakuas, espíritus de los ancestros. Así que adentrarse en el interior de las cavernas es tabú, está prohibido. Las leyendas hablan de riquezas y magia poderosa en su interior, pero por ahora nadie ha querido adentrarse o sí lo ha hecho ha vuelto para contarlo.
-
-\sp
 
 #### 8. Cabo este
 
@@ -111,5 +115,7 @@ En cada luna nueva se eligen 5 grupos de 4 miembros, un grupo por cada fase luna
 Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando hace sonar el pututu, el siguiente roedor viene a sustituirle y este es libre hasta.
 
 > Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
+
+\sp
 
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.

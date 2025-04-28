@@ -105,4 +105,4 @@ Los kupuas cubren un amplio espectro de seres mágicos que van desde los simplem
 
 Normalmente, pueden transformarse en algún tipo de animal que les otorga poderes como nadar muy rápido transformándose en pez espada, cuyo pico puede usar como arma.
 
-También son famosos por ser muy diestros en algún tipo de artesanía, arte u otra actividad. Puede que sea un gran trenzador de hojas de palma, surfista, buscador de agua o escalador.
+También son famosos por ser muy diestros en algún tipo de artesanía, arte u otra actividad. Puede que sea un gran tejedor de hojas de palma, surfista, buscador de agua o escalador.

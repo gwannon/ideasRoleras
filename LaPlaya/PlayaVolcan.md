@@ -1,12 +1,18 @@
 \sinc
 
-# La playa y el volcán
+# La diosa del volcán
 
 \conc
 
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Problemas en Kaona Iole
+
+\conc
 
 XXX
 
@@ -14,11 +20,15 @@ XXX
 
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Buscando a la añeja Lamor
 
 XXX
 
-La ubicación la añeja Lamor no es fija y tus roedores deberán explorar la costa de la isla para encontrarla.
+La ubicación la añeja Lamor no es fija y tus roedores deberán explorar la costa este de la isla para encontrarla.
 
 ### La añeja Lomar
 
@@ -28,24 +38,74 @@ XXX
 
 ## Camino al volcán
 
+\conc
+
 XXX
+
+\sinc
+
+&nbsp;
 
 ## El suelo es lava
 
+\conc
+
 XXX
+
+\sinc
+
+&nbsp;
 
 ## La diosa airada
 
-XXX
-
-## La gran migración
+\conc
 
 XXX
 
-### La flota
+\sp
+
+\sinc
+
+&nbsp;
+
+## Adentrándose en la cueva de los ancestros
+
+\conc
 
 XXX
 
-## Cómo continuar
+\sinc
+
+&nbsp;
+
+## De vuelta al volcán
+
+\conc
+
+XXX
+
+\sinc
+
+&nbsp;
+
+## Apaciguando a la diosa
+
+\conc
+
+XXX
+
+### Los dones de la diosa
+
+XXX
+
+\sinc
+
+&nbsp;
+
+## Recibimiento como héroes y heroínas
+
+\conc
+
+Tus riokes serán recibidos como si fueran el propio Mausi, con collares eli, con ricos manjares y con bailes hula. Los cuentos estarán ansiosos de escuchar su epopeya para poder añadirlas en su repertorio.
 
 XXX

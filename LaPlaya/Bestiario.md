@@ -109,3 +109,7 @@ Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a bu
   4. **Frutas:** XXX
   5. **Raíces:** XXX
   6. **Bronca:** XXX
+
+## Compañeros
+
+XXX
