@@ -48,6 +48,10 @@ XXX
 
 ### 6. Atalaya
 
+En el este de la playa hay una gran colina en cuya cima los riokes de Kaona Iole han establecido una atalaya de vigilancia, ya que domina todo el lado este de la isla. 
+
+En esta atalaya se encuentra un pututu, una concha de caracol de mar gigante, que suena en la pleamar y la bajamar. En caso de ataques enemigos y de depredadores terrestres o marinos también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y bosques cercanos.
+
 XXX
 
 ### 7. Cabo oeste
@@ -87,5 +91,7 @@ En cada luna nueva se eligen 5 grupos de 4 miembros, un grupo por cada fase luna
 Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando hace sonar el pututu, el siguiente roedor viene a sustituirle y este es libre hasta.
 
 > Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
+
+\sp
 
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.

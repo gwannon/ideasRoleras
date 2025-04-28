@@ -8,12 +8,10 @@
 
 XXX
 
-\sp
-
 ### Cocos
 
 ```
-Del coco se aprovecha todo y algo sobra es que no era un buen coco.
+Del coco se aprovecha todo y si algo sobra es que no era un buen coco.
 ```
 
 Los cocos recolectados de las palmeras cocoteras de la playa son una fuente muy importante de alimento y materias primas. 
@@ -43,13 +41,13 @@ Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas
 
 XXX
 
+\sp
+
 > El surf que se representa aquí con trucos, carreras y tablas rápidas es más cercano al surf moderno. Nada tiene que ver con el que practicaban los antiguos polinesios. Nos hemos tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. Puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.
 
 ### Conexión con otros asentamientos
 
 Kaona Iole es el único asentamiento de la isla, pero no es el único del pequeño archipiélago, sí que cada cierto tiempo se organizan expediciones que venden a otras islas el excedente comercial o se reciben expediciones comerciales de otros islotes para vender su excedente.
-
-\sp
 
 XXX
 
