@@ -142,10 +142,10 @@ Cerca de las faldas de las montañas y de las playas suele haber praderas que lo
 |---|---|
 |1|Taros y batatas perfectas para cosechar (1 tarjeta de raciones)|
 |2|XXX|
-|3|XXX|
+|3|Ruinas de los ancestros|
 |4|Huellas de serpiente|
 |5|Una águila marina sobrevuela la pradera|
-|6|UN cerdo salvaje furioso cargando hacia vosotros|
+|6|Un cerdo salvaje furioso cargando hacia vosotros|
 
 ### Encuentros río
 
@@ -157,7 +157,7 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 |2|XXX|
 |3|XXX|
 |4|XXX|
-|5|XXX|
+|5|Una cueva secreta detrás de una catarata|
 |6|Mo'o en forma de dragón (iguana) toma el sol en una piedra cerca del agua|
 
 ### Encuentros volcán
@@ -224,9 +224,9 @@ En estos pequeños islotes que rodean la isla puedes encontrarte lo que sea, per
 |1|Guijarros adecuados para la honda (1 tarjeta de piedras)|
 |2|XXX|
 |3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|4|Una mantaraya da vueltas alrededor del islote|
+|5|Cueva submarina|
+|6|Un cofre de madera cerrado y cubierto de algas|
 
 ### Encuentros mar abierto
 
@@ -234,11 +234,11 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 
 |1d6|Encuentro mar abierto|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
+|1|Ballena|
+|2|Tortuga marina|
+|3|Embarcación comercial de otra isla|
+|4|Embarcación militar de otra isla|
+|5|Tiburón|
 |6|Restos de una embarcación con alguien encima|
 
 \sinc
@@ -295,7 +295,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |13|Una medusa carabela portuguesa|XXX|XXX|Agua|
 |14|XXX|XXX|XXX|XXX|
 |15|Dunas gigantes|XXX|XXX|Agua|
-|16|Cadáver de tiburón|XXX|XXX|XXX|
+|16|Cadáver de tiburón|XXX|XXX|sargazos|
 |17|Riachuelo que da al mar|XXX|XXX|Agua|
 |18|XXX|Campo de flores|XXX|Aleta de tiburón|
 |19|Tabla de surf rota|XXX|XXX|Agua|
