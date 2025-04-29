@@ -91,7 +91,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 
 ##  Cerdo salvaje
 
-[![Conjunto de animales del bosque de dibujos animados por macrovector](./images/cerdosalvaje.png "Conjunto de animales del bosque de dibujos animados por macrovector")](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm "Conjunto de animales del bosque de dibujos animados por macrovector")
+[![Conjunto de animales del bosque de dibujos animados por macrovector](./images/36192.png "Conjunto de animales del bosque de dibujos animados por macrovector")](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm "Conjunto de animales del bosque de dibujos animados por macrovector")
 
 XXX
 

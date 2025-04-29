@@ -137,12 +137,12 @@ Cerca de las faldas de las montañas y de las playas suele haber praderas que lo
 
 |1d6|Encuentro pradera|
 |---|---|
-|1|XXX|
+|1|Taros y batatas perfectas para cosechar (1 tarjeta de raciones)|
 |2|XXX|
 |3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|4|Huellas de serpiente|
+|5|Una águila marina sobrevuela la pradera|
+|6|UN cerdo salvaje furioso cargando hacia vosotros|
 
 ### Encuentros río
 
@@ -155,7 +155,7 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 |3|XXX|
 |4|XXX|
 |5|XXX|
-|6|XXX|
+|6|Mo'o en forma de dragón (iguana) toma el sol en una piedra cerca del agua|
 
 ### Encuentros volcán
 

@@ -9,7 +9,7 @@ Se publica bajo la «Licencia a Terceros de Mausritter».
 
 Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryhope (para la edición en castellano).
 
-«MausTiki» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
+«MausTiki» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/LaPlaya](https://github.com/gwannon/ideasRoleras/tree/main/LaPlaya)
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
@@ -63,7 +63,7 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 
 ## Otros proyectos que te pueden interesar
  
-Si os ha gustado esta suplemento de MausRitter podéis probar otros de mis proyectos. Animaros y dadles un poco de cariño.
+Si os ha gustado esta suplemento de Mausritter podéis probar otros de mis proyectos. Animaros y dadles un poco de cariño.
 
 &nbsp;
 
