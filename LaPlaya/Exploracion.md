@@ -12,7 +12,7 @@ Por último, tenemos también tablas de clima para simular la climatología de l
 
 ## Exploración terrestre
 
-XXX
+La exploración terrestre sigue exactamente las reglas de Mausritter con la salvedad de que tiene sus MausTiki tiene sus propios tipos de terreno.
 
 |1d6|Tipo|
 |---|---|
@@ -25,8 +25,9 @@ XXX
 
 El océano es un elemento fundamental de la vida de los kiores. Es una fuente de recursos y riqueza, pero también un peligro constante y una frontera que explorar. Es por ello que adentrarse en aguas desconocidas debería ser un elemento importante en las aventuras de MausTiki.
 
-La exploración de zonas marítimas exige tener embarcaciones. 
+La exploración de zonas marítimas exige tener embarcaciones adecuadas. 
 
+* A pie o nadando solo puedes explorar playas.
 * Con tablas de surf solo puedes explorar playas.
 * Con canoas solo playas, islotes y arrecifes. 
 * Para salir a mar abierto necesitas embarcaciones preparadas como un catamarán.
@@ -46,11 +47,11 @@ Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, s
 
 Si viajas con resultados de clima en negrita cada ratón debe pasar una salvación de FUE o quedará Cansado.
 
+\sp
+
 ### Kau
 
 El verano va de mayo a octubre y la temperatura promedio durante el día es de 29 °C a nivel del mar.
-
-\sp
 
 |2d6|Clima|
 |---|---|
@@ -58,7 +59,7 @@ El verano va de mayo a octubre y la temperatura promedio durante el día es de 2
 |3-7|Suave y refrescante brisa|
 |8-9|Día de **sol asfixiante**|
 |10-11|**Lluvia**|
-|12|**Tormenta** con truenos y relampagos|
+|12|**Tormenta** con truenos y relámpagos|
 
 |1d6|Eventos estacionales|
 |---|---|
@@ -76,15 +77,15 @@ El invierno (hooilo) va de noviembre a abril. En invierno la temperatura promedi
 |2d6|Clima|
 |---|---|
 |2|Calma total|
-|3-6|Dia soleado|
+|3-6|Día soleado|
 |7-9|**Lluvia**|
-|10-11|**Tormenta** con truenos y relampagos|
+|10-11|**Tormenta** con truenos y relámpagos|
 |12|**Tifón**|
 
 |1d6|Eventos estacionales|
 |---|---|
 |1|Medusas luminiscentes se acercan a la playa y la iluminan de noche|
-|2|La cima del volcán se llena de nieve, quizás Poliʻahu visite a su hermana Pele|
+|2|La cima del volcán se llena de nieve, quizás Poliʻahu (diosa de la nieve) visite a su hermana Pele|
 |3|Florecen muchísimas flores, es perfecto para hacer collares eli|
 |4|Ave migratoria perdida aterriza en la playa|
 |5|Mareas vivas, el agua llega hasta casi el poblado o se retira muchos metros más de lo normal|
@@ -104,11 +105,13 @@ Estas nieblas son muy tóxicas y los kiores han aprendido a diferenciarlas de la
 
 > Al principio de cada turno que pases dentro de la niebla debes hacer una tirada de FUE y si fallas durante ese turno, mientras sigas dentro de la niebla, tendrás desventaja a todas las tiradas.
 
-Tradicionalmente, se cuenta que la diosa del fuego Pele, que vive en el cráter del volcán, lanza estas nubes asesinas cuando está enfadada con los riokes y si no la aplacan su ira crecerá y hará que su volcán lance piroclastos, expulse ríos de lava y emanen nubes de gas.
-
-La vulcanología dice que las nieblas de Pele son normales en los volcanes del pacífico y típicos cuando están activos, con lo que es normal que tarde o temprano entren en erupción.
+Tradicionalmente, se cuenta que la diosa del fuego Pele, que vive en el cráter del volcán, lanza estas nubes asesinas cuando está enfadada con los riokes.
 
 \sp
+
+Si no la aplacan su ira crecerá y hará que su volcán lance piroclastos, expulse ríos de lava y emanen nubes de gas.
+
+La vulcanología dice que las nieblas de Pele son normales en los volcanes del pacífico y típicos cuando están activos, con lo que es normal que tarde o temprano entren en erupción.
 
 \sinc
 
@@ -150,7 +153,7 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 
 |1d6|Encuentro río|
 |---|---|
-|1|XXX|
+|1|Guijarros adecuados para la honda (1 tarjeta de piedras)|
 |2|XXX|
 |3|XXX|
 |4|XXX|
@@ -162,6 +165,16 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 Los volcanes son los lugares más peligrosos de la isla y solo unos kiores desesperados buscando la ayuda de los dioses osarían siquiera acercarse a su falda.
 
 Los encuentros en el volcán tienen siempre un carácter mágico y divino, ya que el volcán es donde viven los dioses y los kupuas.
+
+\sp
+
+\sinc
+
+[![Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak](./images/4436.jpg "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")
+
+&nbsp;
+
+\conc
 
 |1d6|Encuentro volcán|
 |---|---|
@@ -175,16 +188,6 @@ Los encuentros en el volcán tienen siempre un carácter mágico y divino, ya qu
 ### Encuentros playa
 
 La playa puede traer cosas sorprendentes con cada pleamar y destapar objetos enterrados con cada bajamar.
-
-\sp
-
-\sinc
-
-[![Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak](./images/4436.jpg "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")
-
-&nbsp;
-
-\conc
 
 |1d6|Encuentro playa|
 |---|---|
@@ -210,15 +213,15 @@ Los encuentros en los arrecifes pueden darse tanto cuando están en una ambienta
 |5|Una tortuga laúd contando interesantes historias o un grupo de crías de tortugas|
 |6|1 roedor/a inconsciente con extraños ropajes entre las rocas|
 
-\sc
-
 ### Encuentros islote
 
 En estos pequeños islotes que rodean la isla puedes encontrarte lo que sea, pero sobre todo recursos como comida y cosas traídas por el mar.
 
+\sp
+
 |1d6|Encuentro islote|
 |---|---|
-|1|XXX|
+|1|Guijarros adecuados para la honda (1 tarjeta de piedras)|
 |2|XXX|
 |3|XXX|
 |4|XXX|
@@ -238,9 +241,9 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |5|XXX|
 |6|XXX|
 
-\sp
-
 \sinc
+
+&nbsp;
 
 ### Punto de interés en exploraciones terrestres
 
@@ -248,24 +251,30 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |---|---|---|---|---|---|
 |1|XXX|XXX|XXX|XXX|
 |2|XXX|XXX|XXX|XXX|
-|3|XXX|XXX|XXX|XXX|
-|4|XXX|XXX|XXX|XXX|
+|3|Claro|XXX|XXX|XXX|
+|4|XXX|XXX|Árbol caído que cruza el río|XXX|
 |5|XXX|XXX|XXX|XXX|
 |6|XXX|XXX|XXX|XXX|
 |7|XXX|XXX|XXX|XXX|
 |8|XXX|XXX|XXX|XXX|
 |9|XXX|XXX|XXX|XXX|
-|10|XXX|XXX|XXX|XXX|
+|10|XXX|XXX|Puente de madera en malas condiciones|XXX|
 |11|XXX|XXX|XXX|XXX|
 |12|XXX|XXX|XXX|XXX|
-|13|XXX|XXX|XXX|XXX|
+|13|XXX|Gran piedra plana|XXX|XXX|
 |14|XXX|XXX|XXX|XXX|
 |15|XXX|XXX|XXX|XXX|
-|16|XXX|XXX|XXX|XXX|
+|16|XXX|XXX|Vado|XXX|
 |17|XXX|XXX|XXX|XXX|
 |18|XXX|XXX|XXX|XXX|
 |19|XXX|XXX|XXX|XXX|
-|20|XXX|XXX|XXX|XXX|
+|20|XXX|XXX|Puente de madera|XXX|
+
+\conc
+
+\sp
+
+\sinc
 
 ### Punto de interés en exploraciones marítimas
 

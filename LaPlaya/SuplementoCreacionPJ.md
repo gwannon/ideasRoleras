@@ -30,7 +30,7 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 
 |1d10|Marea|Destino|
 |---|---|---|
-|1|Pututu de pleamar|Madera de **héroe/heroina o villano/a**|
+|1|Pututu de pleamar|Madera de **héroe/heroína o villano/a**|
 |2|Marea subiendo de día|Reputado/a **artesano/a**|
 |3|Pleamar de día|Futuro **jefe/a**|
 |4|Marea bajando de día|Reconocido/a **explorador/a**|
@@ -39,7 +39,7 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 |7|Pleamar de noche|Reverenciado/a **artista**|
 |8|Marea bajando de noche|Misterioso/a **espía**|
 |9|Bajamar de noche|Famoso/a **navegante**|
-|10|Pututu de bajamar|Madera de **héroe/heroina o villano/a**|
+|10|Pututu de bajamar|Madera de **héroe/heroína o villano/a**|
 
 \conc
 
@@ -139,7 +139,6 @@ Los nombres sirven para personajes femeninos, masculinos y no binarios, como les
 |8|Alika|Fale|Filimoeika|Ihorangi|Manu|Turi|
 |9|Alipate|Faleaka|Folau|Inas|Matareka|Turua|
 |10|Amanaki|Fangaloka|Fuanilevu|Kaula|Moeata|Whetu|
-
 
 \sp
 

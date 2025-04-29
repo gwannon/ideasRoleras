@@ -329,7 +329,7 @@ BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: Kau
 BookmarkLevel: 3
-BookmarkPageNumber: 22
+BookmarkPageNumber: 23
 BookmarkBegin
 BookmarkTitle: Hooilo
 BookmarkLevel: 3
@@ -361,7 +361,7 @@ BookmarkPageNumber: 24
 BookmarkBegin
 BookmarkTitle: Encuentros playa
 BookmarkLevel: 3
-BookmarkPageNumber: 24
+BookmarkPageNumber: 25
 BookmarkBegin
 BookmarkTitle: Encuentros arrecifes
 BookmarkLevel: 3
@@ -373,7 +373,7 @@ BookmarkPageNumber: 25
 BookmarkBegin
 BookmarkTitle: Encuentros mar abierto
 BookmarkLevel: 3
-BookmarkPageNumber: 25
+BookmarkPageNumber: 26
 BookmarkBegin
 BookmarkTitle: Punto de interés en exploraciones terrestres
 BookmarkLevel: 3
@@ -381,120 +381,120 @@ BookmarkPageNumber: 26
 BookmarkBegin
 BookmarkTitle: Punto de interés en exploraciones marítimas
 BookmarkLevel: 3
-BookmarkPageNumber: 26
+BookmarkPageNumber: 27
 BookmarkBegin
 BookmarkTitle: Tesoros
 BookmarkLevel: 1
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Dones divinos
 BookmarkLevel: 2
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Anzuelo de Mausi
 BookmarkLevel: 3
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Figura de la canoa de Ratonga
 BookmarkLevel: 3
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Calabaza de Mausi
 BookmarkLevel: 3
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Azuela de Rat'a
 BookmarkLevel: 3
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Sal de Kane
 BookmarkLevel: 3
-BookmarkPageNumber: 27
+BookmarkPageNumber: 28
 BookmarkBegin
 BookmarkTitle: Llama de Pele
 BookmarkLevel: 3
-BookmarkPageNumber: 28
+BookmarkPageNumber: 29
 BookmarkBegin
 BookmarkTitle: La diosa del volcán
 BookmarkLevel: 1
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: Problemas en Kaona Iole
 BookmarkLevel: 2
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: La decisión de los kahunas
 BookmarkLevel: 3
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: Buscando a la añeja Lamor
 BookmarkLevel: 2
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: La añeja Lomar
 BookmarkLevel: 3
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: Camino al volcán
 BookmarkLevel: 2
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: El suelo es lava
 BookmarkLevel: 2
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: La diosa airada
 BookmarkLevel: 2
-BookmarkPageNumber: 29
+BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: Adentrándose en la cueva de los ancestros
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: De vuelta al volcán
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: Apaciguando a la diosa
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: Los dones de la diosa
 BookmarkLevel: 3
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: Recibimiento como héroes y heroínas
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: Recursos
 BookmarkLevel: 1
-BookmarkPageNumber: 31
+BookmarkPageNumber: 32
 BookmarkBegin
 BookmarkTitle: Máscaras Tiki
 BookmarkLevel: 2
-BookmarkPageNumber: 31
+BookmarkPageNumber: 32
 BookmarkBegin
 BookmarkTitle: Armas y armaduras
 BookmarkLevel: 2
-BookmarkPageNumber: 32
+BookmarkPageNumber: 33
 BookmarkBegin
 BookmarkTitle: Equipo de viaje
 BookmarkLevel: 2
-BookmarkPageNumber: 33
+BookmarkPageNumber: 34
 BookmarkBegin
 BookmarkTitle: Dones de los dioses
 BookmarkLevel: 2
-BookmarkPageNumber: 34
+BookmarkPageNumber: 35
 BookmarkBegin
 BookmarkTitle: Otros objetos
 BookmarkLevel: 2
-BookmarkPageNumber: 34
+BookmarkPageNumber: 35
 BookmarkBegin
 BookmarkTitle: Licencia
 BookmarkLevel: 1
-BookmarkPageNumber: 35
+BookmarkPageNumber: 36
 BookmarkBegin
 BookmarkTitle: Otros proyectos que te pueden interesar
 BookmarkLevel: 2
-BookmarkPageNumber: 36
+BookmarkPageNumber: 37

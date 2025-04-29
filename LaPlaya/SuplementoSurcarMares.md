@@ -90,7 +90,6 @@ Cuando ambos **consiguen pillar una ola**, hacen una **tirada opuesta de DES con
 
 Para decidir si van a por la ola o la dejan pasar pueden guardar en su mano un dado rojo (u otro color) cuando van a por ella y uno blanco cuando pasan. Ambos deberán enseñar su dado al mismo tiempo.
 
-
 \sinc
 
 &nbsp;
@@ -100,7 +99,6 @@ Para decidir si van a por la ola o la dejan pasar pueden guardar en su mano un d
 \conc
 
 Las regatas de embarcaciones son muy comunes entre los riokes y suelen ser largos viajes entre islas o alrededor de una. Gana el que llega antes al destino y suelen durar varios días.
-
 
 Con estas carreras buscan entrenar a los más jóvenes del poblado en las artes marineras y el trabajo en equipo. Para temas más individualistas la gente prefiere las competiciones de surf.
 
