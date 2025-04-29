@@ -239,7 +239,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |3|XXX|
 |4|XXX|
 |5|XXX|
-|6|XXX|
+|6|Restos de una embarcación con alguien encima|
 
 \sinc
 
@@ -249,26 +249,26 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 
 |1d20|Selva|Pradera|Río|Volcán|
 |---|---|---|---|---|---|
-|1|XXX|XXX|XXX|XXX|
-|2|XXX|XXX|XXX|XXX|
-|3|Claro|XXX|XXX|XXX|
-|4|XXX|XXX|Árbol caído que cruza el río|XXX|
-|5|XXX|XXX|XXX|XXX|
-|6|XXX|XXX|XXX|XXX|
-|7|XXX|XXX|XXX|XXX|
-|8|XXX|XXX|XXX|XXX|
-|9|XXX|XXX|XXX|XXX|
-|10|XXX|XXX|Puente de madera en malas condiciones|XXX|
-|11|XXX|XXX|XXX|XXX|
-|12|XXX|XXX|XXX|XXX|
-|13|XXX|Gran piedra plana|XXX|XXX|
-|14|XXX|XXX|XXX|XXX|
-|15|XXX|XXX|XXX|XXX|
-|16|XXX|XXX|Vado|XXX|
-|17|XXX|XXX|XXX|XXX|
-|18|XXX|XXX|XXX|XXX|
-|19|XXX|XXX|XXX|XXX|
-|20|XXX|XXX|Puente de madera|XXX|
+|1|XXX|Muro de piedra|XXX|Placas de lava solidificada|
+|2|XXX|Sendero|Estanque|XXX|
+|3|Claro|Manantial|Cataratas|Aguas termales|
+|4|XXX|Tocón|Árbol caído que cruza el río|XXX|
+|5|XXX|XXX|XXX|Fisuras en el suelo que emanan calor|
+|6|Extrañas marcas en los troncos|[Baiano](https://es.wikipedia.org/wiki/Baniano) solitario|XXX|XXX|
+|7|XXX|Arroyo|XXX|XXX|
+|8|XXX|XXX|Rápidos|XXX|
+|9|Árbol derrumbado|XXX|XXX|XXX|
+|10|XXX|XXX|Puente de madera en malas condiciones|Fumarola de vapor sulfúrico|
+|11|Lianas|Hierba muy alta|XXX|XXX|
+|12|XXX|Pozo abandonado|Afluente|XXX|
+|13|Bayas salvajes|Gran piedra plana|XXX|XXX|
+|14|XXX|XXX|Remanso|Géiser|
+|15|XXX|XXX|Juncos y cañas|XXX|
+|16|Madriguera abandonada|XXX|Vado|XXX|
+|17|XXX|[Tamanu](https://es.wikipedia.org/wiki/Calophyllum_inophyllum) solitario|XXX|Fumarola de vapor de agua|
+|18|Antiguas lápidas riokes|XXX|Zona pantanosa|XXX|
+|19|XXX|XXX|Presa natural|XXX|
+|20|Mango lleno de frutos|XXX|Puente de madera|Río de lava|
 
 \conc
 
@@ -278,27 +278,27 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 
 ### Punto de interés en exploraciones marítimas
 
-|1d20|Selva|Pradera|Río|Volcán|
+|1d20|Playa|Arrecife|Islote|Mar abierto|
 |---|---|---|---|---|---|
-|1|XXX|XXX|XXX|XXX|
-|2|XXX|XXX|XXX|XXX|
-|3|XXX|XXX|XXX|XXX|
-|4|XXX|XXX|XXX|XXX|
-|5|XXX|XXX|XXX|XXX|
-|6|XXX|XXX|XXX|XXX|
-|7|XXX|XXX|XXX|XXX|
-|8|XXX|XXX|XXX|XXX|
-|9|XXX|XXX|XXX|XXX|
-|10|XXX|XXX|XXX|XXX|
-|11|XXX|XXX|XXX|XXX|
+|1|Cantos rodados|XXX|XXX|Agua|
+|2|Moluscos enterrados|XXX|XXX|XXX|
+|3|XXX|Restos de catamarán|XXX|Agua|
+|4|Dunas bajas|XXX|XXX|XXX|
+|5|XXX|XXX|XXX|Agua|
+|6|Algas secas|XXX|XXX|XXX|
+|7|Cientos de pequeñas medusas|XXX|XXX|Agua|
+|8|Dunas altas|XXX|XXX|XXX|
+|9|Pozas de marea|Conchas gigantescas|XXX|Agua|
+|10|Canoa rota|XXX|XXX|XXX|
+|11|Redes de pesca abandonada|XXX|XXX|Agua|
 |12|XXX|XXX|XXX|XXX|
-|13|XXX|XXX|XXX|XXX|
+|13|Una medusa carabela portuguesa|XXX|XXX|Agua|
 |14|XXX|XXX|XXX|XXX|
-|15|XXX|XXX|XXX|XXX|
-|16|XXX|XXX|XXX|XXX|
-|17|XXX|XXX|XXX|XXX|
-|18|XXX|XXX|XXX|XXX|
-|19|XXX|XXX|XXX|XXX|
-|20|XXX|XXX|XXX|XXX|
+|15|Dunas gigantes|XXX|XXX|Agua|
+|16|Cadáver de tiburón|XXX|XXX|XXX|
+|17|Riachuelo que da al mar|XXX|XXX|Agua|
+|18|XXX|Campo de flores|XXX|Aleta de tiburón|
+|19|Tabla de surf rota|XXX|XXX|Agua|
+|20|XXX|Madriguera|XXX|XXX|
 
 \conc
