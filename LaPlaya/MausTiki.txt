@@ -1,0 +1,500 @@
+InfoKey: Title
+InfoValue: MausTiki 0.5
+
+InfoKey: Subject
+InfoValue: MausTiki es mini-ambientacion para Mausritter donde se explica cómo son los roedores de las islas del Pacífico.
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, polinesia, mausritter
+
+BookmarkBegin
+BookmarkTitle: MausTiki por Gwannon
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: La comunidad de Kaona Iole
+BookmarkLevel: 2
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Situación
+BookmarkLevel: 3
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: El mapa
+BookmarkLevel: 3
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 1. La playa
+BookmarkLevel: 4
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 2. Los arrecifes
+BookmarkLevel: 4
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 3. El islote de Hāʻupu
+BookmarkLevel: 4
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 4. La selva
+BookmarkLevel: 4
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 5. El volcán
+BookmarkLevel: 4
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 6. Atalaya
+BookmarkLevel: 4
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: 7. Cabo oeste
+BookmarkLevel: 4
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: 8. Cabo este
+BookmarkLevel: 4
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: El mar y la playa
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: El volcán
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Clima
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: Mareas
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
+BookmarkTitle: El día a día
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Cocos
+BookmarkLevel: 3
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Tatuajes
+BookmarkLevel: 3
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Surf
+BookmarkLevel: 3
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Conexión con otros asentamientos
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Depredadores
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Religión y dioses
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Pele, la diosa del fuego
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Mausi, el héroe tramposo
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Aumakuas, espíritus familiares
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Kupuas, espíritus diabólicos
+BookmarkLevel: 3
+BookmarkPageNumber: 6
+BookmarkBegin
+BookmarkTitle: Reglas
+BookmarkLevel: 1
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Cambios rápidos de reglas
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Creación de personaje
+BookmarkLevel: 2
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Marea de nacimiento
+BookmarkLevel: 3
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Trasfondos
+BookmarkLevel: 3
+BookmarkPageNumber: 8
+BookmarkBegin
+BookmarkTitle: Nombres
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Condición «Maldito»
+BookmarkLevel: 2
+BookmarkPageNumber: 10
+BookmarkBegin
+BookmarkTitle: Inventario
+BookmarkLevel: 2
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Armas
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Leiomano (50 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Tao (40 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Horca (15 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Remo (5 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Armaduras
+BookmarkLevel: 3
+BookmarkPageNumber: 11
+BookmarkBegin
+BookmarkTitle: Protecciones de palma trenzada (50 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Armadura de placas de coco (150 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Armadura de conchas (400 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Armadura de cangrejo (500 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Equipo vario
+BookmarkLevel: 3
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Kava (5 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Konane (15 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 12
+BookmarkBegin
+BookmarkTitle: Herramientas de tatuaje
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Tambor de calabaza Ipu (20 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Embarcaciones
+BookmarkLevel: 3
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Canoa (120 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Tabla de surf (80 ca)
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Catamarán
+BookmarkLevel: 4
+BookmarkPageNumber: 13
+BookmarkBegin
+BookmarkTitle: Magia tiki
+BookmarkLevel: 2
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Máscaras espirituales tiki
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Usar las máscaras
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Enfadar al espíritu
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Identificando la máscara
+BookmarkLevel: 3
+BookmarkPageNumber: 14
+BookmarkBegin
+BookmarkTitle: Recargar la máscara
+BookmarkLevel: 3
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Hechizos
+BookmarkLevel: 3
+BookmarkPageNumber: 15
+BookmarkBegin
+BookmarkTitle: Surcar los mares, surfear olas
+BookmarkLevel: 2
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Reglas para nadar y bucear
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Nadar y bucear
+BookmarkLevel: 4
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Aguantar la respiración bajo el agua
+BookmarkLevel: 4
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Navegar
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Competiciones de surf
+BookmarkLevel: 3
+BookmarkPageNumber: 17
+BookmarkBegin
+BookmarkTitle: Carreras
+BookmarkLevel: 3
+BookmarkPageNumber: 18
+BookmarkBegin
+BookmarkTitle: Criaturas
+BookmarkLevel: 1
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Moʻo, espíritu acuático cambiaforma
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Cangrejo
+BookmarkLevel: 2
+BookmarkPageNumber: 19
+BookmarkBegin
+BookmarkTitle: Tortuga
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Kupua menor
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Cerdo salvaje
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkBegin
+BookmarkTitle: Compañeros
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: Exploración
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Exploración terrestre
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Exploración marítima
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Clima
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Kau
+BookmarkLevel: 3
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Hooilo
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: La niebla de Pele
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkBegin
+BookmarkTitle: Encuentros
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Encuentros selva
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Encuentros pradera
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Encuentros río
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Encuentros volcán
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Encuentros playa
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Encuentros arrecifes
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Encuentros islote
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Encuentros mar abierto
+BookmarkLevel: 3
+BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Punto de interés en exploraciones terrestres
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Punto de interés en exploraciones marítimas
+BookmarkLevel: 3
+BookmarkPageNumber: 26
+BookmarkBegin
+BookmarkTitle: Tesoros
+BookmarkLevel: 1
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Dones divinos
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Anzuelo de Mausi
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Figura de la canoa de Ratonga
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Calabaza de Mausi
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Azuela de Rat'a
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Sal de Kane
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: Llama de Pele
+BookmarkLevel: 3
+BookmarkPageNumber: 28
+BookmarkBegin
+BookmarkTitle: La diosa del volcán
+BookmarkLevel: 1
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Problemas en Kaona Iole
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: La decisión de los kahunas
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Buscando a la añeja Lamor
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: La añeja Lomar
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Camino al volcán
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: El suelo es lava
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: La diosa airada
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Adentrándose en la cueva de los ancestros
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: De vuelta al volcán
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Apaciguando a la diosa
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Los dones de la diosa
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Recibimiento como héroes y heroínas
+BookmarkLevel: 2
+BookmarkPageNumber: 30
+BookmarkBegin
+BookmarkTitle: Recursos
+BookmarkLevel: 1
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Máscaras Tiki
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: Armas y armaduras
+BookmarkLevel: 2
+BookmarkPageNumber: 32
+BookmarkBegin
+BookmarkTitle: Equipo de viaje
+BookmarkLevel: 2
+BookmarkPageNumber: 33
+BookmarkBegin
+BookmarkTitle: Dones de los dioses
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Otros objetos
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Licencia
+BookmarkLevel: 1
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Otros proyectos que te pueden interesar
+BookmarkLevel: 2
+BookmarkPageNumber: 36
