@@ -34,21 +34,31 @@ Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es 
 
 XXX
 
+La mayoría de las casas de maderas de los riokes de la isla se encuentran en una pequeña franja de tierra y césped que hay entre la arena de la playa y la selva. A está franja nunca llega la marea y está lo suficientemente alejado de la selva para que nada pueda salir de ella sin ser visto.
+
+Las estructuras temporales se suelen montar ya en la arena donde es más facil fijar estructuras al suelo. Se suelen montar el mercado, los festivales, comidas populares, bodas y demás celebraciones y, aunque normalmente no llega allí el mar, alguna vez ha habido sorpresas con las mareas.
+
+La playa está protegida por dos colinas cubiertas de hierba y palmeras que quitan gran cantidad de viento a la playa. En la colina este es donde se ubica la atalaya (8.).
+
 Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran cantidad de kiores van todos los días a recolectar cocos para conseguir comida y materias primas.
 
 #### 2. Los arrecifes
 
-Una red de arrecifes rodea la playa desde el cabo este al oeste de forma que las aguas alrededor de la playa no dan a mar abierto. Por otro lado, los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan facil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando.
+Una red de arrecifes **rodea la playa desde el cabo este al oeste** de forma que las aguas alrededor de la playa no dan a mar abierto. Por otro lado, los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan facil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando. Además, sirve de defensa frente a otras tribus de riokes que quieran atacar el poblado.
 
-XXX
+Pero también tiene sus problemas, ya que es muy difícil salir de la isla con grandes embarcaciones, ya que los puntos de entradas libres de arrecifes son sinuosos y estrechos.
 
 #### 3. El islote de Hāʻupu
 
 Hāʻupu era un gigante que vivía en estas islas que expulsaba a los intrusos lanzando grandes piedras desde la playa. Fue engañado por Mausi para quedarse quieto en la playa y paso tanto tiempo allí que se convirtió en piedra y formo este islote.
 
-XXX
+\sp
 
-Durante las mareas vivas el agua baja tanto que puede llegarse al islote andando.
+El islote no es un lugar tabú, pero casi lo es. Nadie quiere acercarse ni surfear, ni pescar cerca, ni nada. Se considera que es un lugar de mal agujero, pero nadie conoce ninguna historia que lo verifique, simplemente lo es.
+
+Las crías jóvenes de rioke suelen jugar a ver quien se acerca más al islote nadando y permanece allí más tiempo. Es una especie de prueba de valor y un rito de paso de la niñez a la adolescencia.
+
+Durante las mareas vivas el agua baja tanto que puede llegarse al islote andando, pero como ya hemos dicho nadie se acerca.
 
 #### 4. La selva
 
@@ -65,8 +75,6 @@ Al este de la playa hay una gran colina en cuya cima los riokes de Kaona Iole ha
 En esta atalaya se encuentra un pututu, una concha de caracol de mar gigante, que suena en la pleamar y la bajamar. En caso de ataques enemigos y de depredadores terrestres o marinos también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y bosques cercanos.
 
 XXX
-
-\sp
 
 #### 7. Cabo oeste
 
@@ -106,6 +114,8 @@ XXX
 
 En Kaona Iole solo existen dos estaciones, verano (kau) e invierno (hooilo). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia. El problema es que las tormentas pueden convertirse en tifones que pueden arrasar toda la isla, derribando árboles e inundando terrenos secos.
 
+\sp
+
 Si la tormenta se convierte en tifón, los riokes empacan lo indispensable y huyen a las «cuevas de los ancestros», una red de cavidades en la roca en la punta oeste donde se refugiaron durante siglos los primeros kiores que llegaron a la isla.
 
 ### Mareas 
@@ -119,8 +129,6 @@ En cada luna nueva se eligen 5 grupos de 4 miembros, un grupo por cada fase luna
 Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando hace sonar el pututu, el siguiente roedor viene a sustituirle y este es libre hasta.
 
 > Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
-
-\sp
 
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
 

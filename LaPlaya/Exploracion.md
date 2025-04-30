@@ -141,7 +141,7 @@ Cerca de las faldas de las montañas y de las playas suele haber praderas que lo
 |1d6|Encuentro pradera|
 |---|---|
 |1|Taros y batatas perfectas para cosechar (1 tarjeta de raciones)|
-|2|XXX|
+|2|Un nido de mapuches (gallinas salvajes) con huevos|
 |3|Ruinas de los ancestros|
 |4|Huellas de serpiente|
 |5|Una águila marina sobrevuela la pradera|
@@ -199,7 +199,7 @@ Los encuentros en los arrecifes pueden darse tanto cuando están en una ambienta
 |1|Moluscos frescos (1 tarjeta de raciones)|
 |2|1d4 cangrejo de especie al azar|
 |3|Aleta de tiburón sobresaliendo de la superficie del mar|
-|4|Una raya pasa por debajo|
+|4|Ostra gigante cerrada|
 |5|Una tortuga laúd contando interesantes historias o un grupo de crías de tortugas|
 |6|1 roedor/a inconsciente con extraños ropajes entre las rocas|
 
@@ -239,7 +239,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 
 |1d20|Selva|Pradera|Río|Volcán|
 |---|---|---|---|---|---|
-|1|XXX|Muro de piedra|XXX|Placas de lava solidificada|
+|1|Estructura antigua de madera|Muro de piedra|Piedras de gran tamaño que permiten vadear el río|Placas de lava solidificada|
 |2|XXX|Sendero|Estanque|XXX|
 |3|Claro|Manantial|Cataratas|Aguas termales|
 |4|Madriguera|Tocón|Árbol caído que cruza el río|XXX|
@@ -247,7 +247,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |6|Extrañas marcas en los troncos|[Baiano](https://es.wikipedia.org/wiki/Baniano) solitario|XXX|XXX|
 |7|XXX|Arroyo|XXX|XXX|
 |8|XXX|XXX|Rápidos|XXX|
-|9|Árbol derrumbado|XXX|XXX|XXX|
+|9|Árbol derrumbado|Senda de animales|XXX|XXX|
 |10|XXX|XXX|Puente de madera en malas condiciones|Fumarola de vapor sulfúrico|
 |11|Lianas|Hierba muy alta|XXX|XXX|
 |12|XXX|Pozo abandonado|Afluente|XXX|

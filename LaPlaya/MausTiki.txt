@@ -41,15 +41,15 @@ BookmarkPageNumber: 2
 BookmarkBegin
 BookmarkTitle: 4. La selva
 BookmarkLevel: 4
-BookmarkPageNumber: 2
+BookmarkPageNumber: 3
 BookmarkBegin
 BookmarkTitle: 5. El volcán
 BookmarkLevel: 4
-BookmarkPageNumber: 2
+BookmarkPageNumber: 3
 BookmarkBegin
 BookmarkTitle: 6. Atalaya
 BookmarkLevel: 4
-BookmarkPageNumber: 2
+BookmarkPageNumber: 3
 BookmarkBegin
 BookmarkTitle: 7. Cabo oeste
 BookmarkLevel: 4
@@ -77,7 +77,7 @@ BookmarkPageNumber: 3
 BookmarkBegin
 BookmarkTitle: Mareas
 BookmarkLevel: 3
-BookmarkPageNumber: 3
+BookmarkPageNumber: 4
 BookmarkBegin
 BookmarkTitle: Personalidades
 BookmarkLevel: 3
