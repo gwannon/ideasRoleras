@@ -123,3 +123,13 @@ Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando h
 \sp
 
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
+
+### Personalidades
+
+#### El jefe XXX
+
+XXX
+
+#### Los 3 hermanos kahunas
+
+XXX

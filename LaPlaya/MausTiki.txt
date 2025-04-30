@@ -79,6 +79,18 @@ BookmarkTitle: Mareas
 BookmarkLevel: 3
 BookmarkPageNumber: 3
 BookmarkBegin
+BookmarkTitle: Personalidades
+BookmarkLevel: 3
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: El jefe XXX
+BookmarkLevel: 4
+BookmarkPageNumber: 4
+BookmarkBegin
+BookmarkTitle: Los 3 hermanos kahunas
+BookmarkLevel: 4
+BookmarkPageNumber: 4
+BookmarkBegin
 BookmarkTitle: El día a día
 BookmarkLevel: 2
 BookmarkPageNumber: 5
@@ -433,72 +445,72 @@ BookmarkPageNumber: 30
 BookmarkBegin
 BookmarkTitle: Buscando a la añeja Lamor
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: La añeja Lomar
 BookmarkLevel: 3
-BookmarkPageNumber: 30
+BookmarkPageNumber: 31
 BookmarkBegin
 BookmarkTitle: Camino al volcán
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 32
 BookmarkBegin
 BookmarkTitle: El suelo es lava
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 33
 BookmarkBegin
 BookmarkTitle: La diosa airada
 BookmarkLevel: 2
-BookmarkPageNumber: 30
+BookmarkPageNumber: 34
 BookmarkBegin
 BookmarkTitle: Adentrándose en la cueva de los ancestros
 BookmarkLevel: 2
-BookmarkPageNumber: 31
+BookmarkPageNumber: 35
 BookmarkBegin
 BookmarkTitle: De vuelta al volcán
 BookmarkLevel: 2
-BookmarkPageNumber: 31
+BookmarkPageNumber: 36
 BookmarkBegin
 BookmarkTitle: Apaciguando a la diosa
 BookmarkLevel: 2
-BookmarkPageNumber: 31
+BookmarkPageNumber: 37
 BookmarkBegin
 BookmarkTitle: Los dones de la diosa
 BookmarkLevel: 3
-BookmarkPageNumber: 31
+BookmarkPageNumber: 37
 BookmarkBegin
 BookmarkTitle: Recibimiento como héroes y heroínas
 BookmarkLevel: 2
-BookmarkPageNumber: 31
+BookmarkPageNumber: 37
 BookmarkBegin
 BookmarkTitle: Recursos
 BookmarkLevel: 1
-BookmarkPageNumber: 32
+BookmarkPageNumber: 38
 BookmarkBegin
 BookmarkTitle: Máscaras Tiki
 BookmarkLevel: 2
-BookmarkPageNumber: 32
+BookmarkPageNumber: 38
 BookmarkBegin
 BookmarkTitle: Armas y armaduras
 BookmarkLevel: 2
-BookmarkPageNumber: 33
+BookmarkPageNumber: 39
 BookmarkBegin
 BookmarkTitle: Equipo de viaje
 BookmarkLevel: 2
-BookmarkPageNumber: 34
+BookmarkPageNumber: 40
 BookmarkBegin
 BookmarkTitle: Dones de los dioses
 BookmarkLevel: 2
-BookmarkPageNumber: 35
+BookmarkPageNumber: 41
 BookmarkBegin
 BookmarkTitle: Otros objetos
 BookmarkLevel: 2
-BookmarkPageNumber: 35
+BookmarkPageNumber: 41
 BookmarkBegin
 BookmarkTitle: Licencia
 BookmarkLevel: 1
-BookmarkPageNumber: 36
+BookmarkPageNumber: 42
 BookmarkBegin
 BookmarkTitle: Otros proyectos que te pueden interesar
 BookmarkLevel: 2
-BookmarkPageNumber: 37
+BookmarkPageNumber: 43
