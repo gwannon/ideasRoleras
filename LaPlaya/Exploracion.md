@@ -154,9 +154,9 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 |1d6|Encuentro río|
 |---|---|
 |1|Guijarros adecuados para la honda (1 tarjeta de piedras)|
-|2|XXX|
-|3|XXX|
-|4|XXX|
+|2|Ruinas de una presa de los ancentros|
+|3|Animales bebiendo en la orilla|
+|4|Brillos dorados entre las piedras del fondo del río|
 |5|Una cueva secreta detrás de una catarata|
 |6|Mo'o en forma de dragón (iguana) toma el sol en una piedra cerca del agua|
 
@@ -243,7 +243,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |2|XXX|Sendero|Estanque|XXX|
 |3|Claro|Manantial|Cataratas|Aguas termales|
 |4|Madriguera|Tocón|Árbol caído que cruza el río|XXX|
-|5|XXX|XXX|XXX|Fisuras en el suelo que emanan calor|
+|5|XXX|Maíz salvaje|XXX|Fisuras en el suelo que emanan calor|
 |6|Extrañas marcas en los troncos|[Baiano](https://es.wikipedia.org/wiki/Baniano) solitario|XXX|XXX|
 |7|XXX|Arroyo|XXX|XXX|
 |8|XXX|XXX|Rápidos|XXX|
@@ -252,7 +252,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |11|Lianas|Hierba muy alta|XXX|XXX|
 |12|XXX|Pozo abandonado|Afluente|XXX|
 |13|Bayas salvajes|Gran piedra plana|XXX|XXX|
-|14|XXX|XXX|Remanso|Géiser|
+|14|Cementerio de riokes|XXX|Remanso|Géiser|
 |15|XXX|XXX|Juncos y cañas|XXX|
 |16|Madriguera abandonada|XXX|Vado|XXX|
 |17|XXX|[Tamanu](https://es.wikipedia.org/wiki/Calophyllum_inophyllum) solitario|XXX|Fumarola de vapor de agua|
@@ -283,13 +283,13 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |7|Cientos de pequeñas medusas|XXX|XXX|Agua|
 |8|Dunas altas|XXX|XXX|XXX|
 |9|Pozas de marea|Conchas gigantescas|XXX|Agua|
-|10|Canoa rota|XXX|XXX|XXX|
+|10|Canoa rota para humanos |XXX|XXX|XXX|
 |11|Redes de pesca abandonada|XXX|XXX|Agua|
 |12|XXX|XXX|XXX|XXX|
 |13|Una medusa carabela portuguesa|XXX|XXX|Agua|
 |14|XXX|XXX|XXX|XXX|
 |15|Dunas gigantes|XXX|XXX|Agua|
-|16|Cadáver de tiburón|XXX|XXX|sargazos|
+|16|Cadáver de tiburón|XXX|XXX|Sargazos|
 |17|Riachuelo que da al mar|XXX|XXX|Agua|
 |18|XXX|Campo de flores|XXX|Aleta de tiburón|
 |19|Tabla de surf rota|XXX|XXX|Agua|
