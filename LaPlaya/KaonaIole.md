@@ -98,6 +98,10 @@ XXX
 
 XXX
 
+### Los ancestros
+
+XXX
+
 ### Clima
 
 En Kaona Iole solo existen dos estaciones, verano (kau) e invierno (hooilo). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia. El problema es que las tormentas pueden convertirse en tifones que pueden arrasar toda la isla, derribando árboles e inundando terrenos secos.

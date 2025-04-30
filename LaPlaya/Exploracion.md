@@ -160,21 +160,13 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 |5|Una cueva secreta detrás de una catarata|
 |6|Mo'o en forma de dragón (iguana) toma el sol en una piedra cerca del agua|
 
+\sp
+
 ### Encuentros volcán
 
 Los volcanes son los lugares más peligrosos de la isla y solo unos kiores desesperados buscando la ayuda de los dioses osarían siquiera acercarse a su falda.
 
 Los encuentros en el volcán tienen siempre un carácter mágico y divino, ya que el volcán es donde viven los dioses y los kupuas.
-
-\sp
-
-\sinc
-
-[![Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak](./images/4436.jpg "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")
-
-&nbsp;
-
-\conc
 
 |1d6|Encuentro volcán|
 |---|---|
@@ -193,12 +185,10 @@ La playa puede traer cosas sorprendentes con cada pleamar y destapar objetos ent
 |---|---|
 |1|Algas comestibles (tarjeta de raciones)|
 |2|1d4 cangrejos de especies aleatoria|
-|3|Trozo de madera noble (20 ca)|
+|3|Un grupo de kiores surfistas|
 |4|Almejas de excelente calidad (50 ca)|
 |5|2 gaviotas hambrientas peleándose por un pez muerto|
-|6|1 objeto extraño traído por la marea &ast;|
-
-&ast; Coge algún objeto raro para los riokes, como una botella de cristal o un espejo, de la lista de equipo
+|6|1 objeto extraño traído por la marea (Coge algún objeto raro para los riokes, como una botella de cristal o un espejo, de la lista de equipo)|
 
 ### Encuentros arrecifes
 
@@ -217,13 +207,11 @@ Los encuentros en los arrecifes pueden darse tanto cuando están en una ambienta
 
 En estos pequeños islotes que rodean la isla puedes encontrarte lo que sea, pero sobre todo recursos como comida y cosas traídas por el mar.
 
-\sp
-
 |1d6|Encuentro islote|
 |---|---|
 |1|Guijarros adecuados para la honda (1 tarjeta de piedras)|
-|2|XXX|
-|3|XXX|
+|2|Tortuga marina buscando algo entre las rocas|
+|3|Trozo de madera noble (20 ca)|
 |4|Una mantaraya da vueltas alrededor del islote|
 |5|Cueva submarina|
 |6|Un cofre de madera cerrado y cubierto de algas|
@@ -241,6 +229,8 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |5|Tiburón|
 |6|Restos de una embarcación con alguien encima|
 
+\sp
+
 \sinc
 
 &nbsp;
@@ -252,7 +242,7 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |1|XXX|Muro de piedra|XXX|Placas de lava solidificada|
 |2|XXX|Sendero|Estanque|XXX|
 |3|Claro|Manantial|Cataratas|Aguas termales|
-|4|XXX|Tocón|Árbol caído que cruza el río|XXX|
+|4|Madriguera|Tocón|Árbol caído que cruza el río|XXX|
 |5|XXX|XXX|XXX|Fisuras en el suelo que emanan calor|
 |6|Extrañas marcas en los troncos|[Baiano](https://es.wikipedia.org/wiki/Baniano) solitario|XXX|XXX|
 |7|XXX|Arroyo|XXX|XXX|
@@ -275,6 +265,10 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 \sp
 
 \sinc
+
+[![Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak](./images/4436.jpg "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")
+
+&nbsp;
 
 ### Punto de interés en exploraciones marítimas
 
@@ -299,6 +293,6 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |17|Riachuelo que da al mar|XXX|XXX|Agua|
 |18|XXX|Campo de flores|XXX|Aleta de tiburón|
 |19|Tabla de surf rota|XXX|XXX|Agua|
-|20|XXX|Madriguera|XXX|XXX|
+|20|XXX|Coral morado|XXX|XXX|
 
 \conc

@@ -67,6 +67,10 @@ BookmarkTitle: El volcán
 BookmarkLevel: 3
 BookmarkPageNumber: 3
 BookmarkBegin
+BookmarkTitle: Los ancestros
+BookmarkLevel: 3
+BookmarkPageNumber: 3
+BookmarkBegin
 BookmarkTitle: Clima
 BookmarkLevel: 3
 BookmarkPageNumber: 3
@@ -357,7 +361,7 @@ BookmarkPageNumber: 24
 BookmarkBegin
 BookmarkTitle: Encuentros volcán
 BookmarkLevel: 3
-BookmarkPageNumber: 24
+BookmarkPageNumber: 25
 BookmarkBegin
 BookmarkTitle: Encuentros playa
 BookmarkLevel: 3
@@ -373,7 +377,7 @@ BookmarkPageNumber: 25
 BookmarkBegin
 BookmarkTitle: Encuentros mar abierto
 BookmarkLevel: 3
-BookmarkPageNumber: 26
+BookmarkPageNumber: 25
 BookmarkBegin
 BookmarkTitle: Punto de interés en exploraciones terrestres
 BookmarkLevel: 3
