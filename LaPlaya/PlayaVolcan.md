@@ -24,11 +24,11 @@ Sin previo aviso, el pututu de las mareas sonará con el tono de alerta. Desde e
 
 XXX
 
-### La decisión de los kahunas
+### La decisión de les kahunas
 
 XXX
 
-El jefe del asentamiento XXX pedirá voluntarios para cumplir esta gran misión. Si no llega al cupo de 4 uno de los kahunas, lanzará sus conchas de adivinación y elegirá al resto de tus riokes.
+El jefe del asentamiento XXX pedirá voluntarios para cumplir esta gran misión. Si no llega al cupo de 4 uno de los kahunas, lanzará sus caracolas de adivinación y elegirá al resto de tus riokes.
 
 \sp
 
@@ -110,13 +110,19 @@ XXX
 
 XXX
 
+### La llama de Pele
+
+Mausi robo la llama de Pele y se la dio a los primeros riokes y estos la escondieron en las cuevas de los ancestros. Los aumakuas harán lo que sea para protegerla, así que no será una tarea fácil.
+
+XXX
+
 \sp
 
 \sinc
 
 &nbsp;
 
-## Adentrándose en la cueva de los ancestros
+## Buscando la ofrenda perfecta
 
 \conc
 
@@ -127,6 +133,10 @@ XXX
 !["Mapa temporal"](./images/mapas/mapa-vacio.png "Mapa temporal")
 
 \conc
+
+XXX
+
+### Adentrándose en la cueva de los ancestros
 
 XXX
 
@@ -165,6 +175,8 @@ XXX
 ### Los dones de la diosa
 
 XXX
+
+La diosa ofrecerá a tus riokes una serie de tesoros por devolverle la llama. Para generar el tesoro deberás tirar tantos d20 por cada rioke que haya participado en la aventura. Uno de los d20 debes cambiarlo por un 1 directo de forma que el tesoro tenga un don divino mínimo. Si al tirar el d6 del don divino sale un 6 (Llama de Pele) vuelve a tirar. 
 
 \sinc
 

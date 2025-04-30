@@ -87,7 +87,7 @@ BookmarkTitle: El jefe XXX
 BookmarkLevel: 4
 BookmarkPageNumber: 4
 BookmarkBegin
-BookmarkTitle: Los 3 hermanos kahunas
+BookmarkTitle: Les 3 hermanes kahunas
 BookmarkLevel: 4
 BookmarkPageNumber: 4
 BookmarkBegin
@@ -439,7 +439,7 @@ BookmarkTitle: Problemas en Kaona Iole
 BookmarkLevel: 2
 BookmarkPageNumber: 30
 BookmarkBegin
-BookmarkTitle: La decisión de los kahunas
+BookmarkTitle: La decisión de les kahunas
 BookmarkLevel: 3
 BookmarkPageNumber: 30
 BookmarkBegin
@@ -463,8 +463,16 @@ BookmarkTitle: La diosa airada
 BookmarkLevel: 2
 BookmarkPageNumber: 34
 BookmarkBegin
-BookmarkTitle: Adentrándose en la cueva de los ancestros
+BookmarkTitle: La llama de Pele
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: Buscando la ofrenda perfecta
 BookmarkLevel: 2
+BookmarkPageNumber: 35
+BookmarkBegin
+BookmarkTitle: Adentrándose en la cueva de los ancestros
+BookmarkLevel: 3
 BookmarkPageNumber: 35
 BookmarkBegin
 BookmarkTitle: De vuelta al volcán
@@ -514,3 +522,7 @@ BookmarkBegin
 BookmarkTitle: Otros proyectos que te pueden interesar
 BookmarkLevel: 2
 BookmarkPageNumber: 43
+BookmarkBegin
+BookmarkTitle: Índice
+BookmarkLevel: 1
+BookmarkPageNumber: 44

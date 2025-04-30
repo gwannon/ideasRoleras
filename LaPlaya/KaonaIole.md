@@ -130,6 +130,8 @@ Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en u
 
 XXX
 
-#### Los 3 hermanos kahunas
+#### Les 3 hermanes kahunas
+
+Les 3 hermanes son unes trillizes, masculino uno de elles, femenina otra y [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB) le ultimé. Son les kahunas del poblado. 
 
 XXX
