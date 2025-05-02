@@ -132,7 +132,7 @@ Los riokes no suelen adentrarse en la selva, hay seres que se esconden en el fol
 |3|Plantas de kava lista para recolectar sus raíces|
 |4|1 cerdo salvaje sale de la espesura|
 |5|Huellas de serpiente|
-|6|Mo'o con la apariencia de alguien conocido|
+|6|Moʻo con la apariencia de alguien conocido|
 
 ### Encuentros pradera
 
@@ -154,11 +154,11 @@ Pequeños arroyos y lagos navegables abundan en las islas del Pacífico y son la
 |1d6|Encuentro río|
 |---|---|
 |1|Guijarros adecuados para la honda (1 tarjeta de piedras)|
-|2|Ruinas de una presa de los ancentros|
+|2|Ruinas de una presa de los ancestros con extraños mecanismos|
 |3|Animales bebiendo en la orilla|
 |4|Brillos dorados entre las piedras del fondo del río|
 |5|Una cueva secreta detrás de una catarata|
-|6|Mo'o en forma de dragón (iguana) toma el sol en una piedra cerca del agua|
+|6|Moʻo en forma de dragón (iguana) toma el sol en una piedra cerca del agua|
 
 \sp
 
@@ -233,6 +233,8 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 
 \sinc
 
+## Puntos de interés
+
 &nbsp;
 
 ### Punto de interés en exploraciones terrestres
@@ -240,25 +242,25 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 |1d20|Selva|Pradera|Río|Volcán|
 |---|---|---|---|---|---|
 |1|Estructura antigua de madera|Muro de piedra|Piedras de gran tamaño que permiten vadear el río|Placas de lava solidificada|
-|2|XXX|Sendero|Estanque|XXX|
+|2|Paso de animales|Sendero|Estanque|Zonas de barro burbujeante|
 |3|Claro|Manantial|Cataratas|Aguas termales|
-|4|Madriguera|Tocón|Árbol caído que cruza el río|XXX|
-|5|XXX|Maíz salvaje|XXX|Fisuras en el suelo que emanan calor|
-|6|Extrañas marcas en los troncos|[Baiano](https://es.wikipedia.org/wiki/Baniano) solitario|XXX|XXX|
-|7|XXX|Arroyo|XXX|XXX|
-|8|XXX|XXX|Rápidos|XXX|
-|9|Árbol derrumbado|Senda de animales|XXX|XXX|
-|10|XXX|XXX|Puente de madera en malas condiciones|Fumarola de vapor sulfúrico|
-|11|Lianas|Hierba muy alta|XXX|XXX|
-|12|XXX|Pozo abandonado|Afluente|XXX|
-|13|Bayas salvajes|Gran piedra plana|XXX|XXX|
-|14|Cementerio de riokes|XXX|Remanso|Géiser|
-|15|XXX|XXX|Juncos y cañas|XXX|
-|16|Madriguera abandonada|XXX|Vado|XXX|
-|17|XXX|[Tamanu](https://es.wikipedia.org/wiki/Calophyllum_inophyllum) solitario|XXX|Fumarola de vapor de agua|
-|18|Antiguas lápidas riokes|XXX|Zona pantanosa|XXX|
-|19|XXX|XXX|Presa natural|XXX|
-|20|Mango lleno de frutos|XXX|Puente de madera|Río de lava|
+|4|Madriguera|Tocón|Árbol caído que cruza el río|Fumarola de vapor de agua|
+|5|Claro con una gran piedra en el centro|Maíz salvaje|Aguas termales|Fisuras en el suelo que emanan calor|
+|6|Extrañas marcas en los troncos|[Baiano](https://es.wikipedia.org/wiki/Baniano) solitario|Manglares|Grandes piedras volcánicas con forma de roedor|
+|7|Zona embarrada|Aguas termales|Pantano|Cenizas|
+|8|Piedras con glifos de los ancestros|Gran grieta|Rápidos|Desfiladero con río de lava abajo|
+|9|Árbol derrumbado|Senda de animales|Cauce ancho|Poza de brea|
+|10|Pozo de piedra|Desfiladero|Puente de madera en malas condiciones|Fumarola de vapor sulfúrico|
+|11|Lianas|Hierba muy alta|Arroyuelo|Placas de lava solidificada|
+|12|Aguas termales|Pozo abandonado|Afluente|Río de lava|
+|13|Bayas salvajes|Gran piedra plana|Cauce estrecho|Aguas termales|
+|14|Cementerio de jabalíes|Círculo de piedras|Remanso|Géiser|
+|15|Desfiladero con tronco que lo cruza|Zona embarrada|Juncos y cañas|Placas de lava solidificada|
+|16|Madriguera abandonada|Estructura de piedra de los ancestros|Vado|Desfiladero con estrecho puente de lava sólida|
+|17|Placas de lava solidificada|[Tamanu](https://es.wikipedia.org/wiki/Calophyllum_inophyllum) solitario|Salto de agua|Fumarola de vapor de agua|
+|18|Antiguas lápidas riokes|Arbustos frutales salvajes|Zona pantanosa|Placas sólidas de lava sobre lava liquida|
+|19|Alineamiento de piedras|Antiguo cementerio de los ancestros|Presa natural|Campo de lava laberíntico|
+|20|Mango lleno de frutos|Placas de lava solidificada|Puente de madera|Río de lava|
 
 \conc
 
@@ -266,33 +268,29 @@ Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las t
 
 \sinc
 
-[![Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak](./images/4436.jpg "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")
-
-&nbsp;
-
 ### Punto de interés en exploraciones marítimas
 
 |1d20|Playa|Arrecife|Islote|Mar abierto|
 |---|---|---|---|---|---|
-|1|Cantos rodados|XXX|XXX|Agua|
-|2|Moluscos enterrados|XXX|XXX|XXX|
-|3|XXX|Restos de catamarán|XXX|Agua|
-|4|Dunas bajas|XXX|XXX|XXX|
-|5|XXX|XXX|XXX|Agua|
-|6|Algas secas|XXX|XXX|XXX|
-|7|Cientos de pequeñas medusas|XXX|XXX|Agua|
-|8|Dunas altas|XXX|XXX|XXX|
-|9|Pozas de marea|Conchas gigantescas|XXX|Agua|
-|10|Canoa rota para humanos |XXX|XXX|XXX|
-|11|Redes de pesca abandonada|XXX|XXX|Agua|
-|12|XXX|XXX|XXX|XXX|
-|13|Una medusa carabela portuguesa|XXX|XXX|Agua|
-|14|XXX|XXX|XXX|XXX|
-|15|Dunas gigantes|XXX|XXX|Agua|
-|16|Cadáver de tiburón|XXX|XXX|Sargazos|
-|17|Riachuelo que da al mar|XXX|XXX|Agua|
-|18|XXX|Campo de flores|XXX|Aleta de tiburón|
-|19|Tabla de surf rota|XXX|XXX|Agua|
-|20|XXX|Coral morado|XXX|XXX|
+|1|Cantos rodados|Coral rojo|Pequeño islote|Nueva isla, tira de nuevo en la columna de playa|
+|2|Cueva en uno de los extremos de la playa|Coral muerto|Islote alargado y estrecho en forma de media luna|Agua|
+|3|Zona de anidación de aves marinas|Restos de catamarán entre las rocas|Islote con una gran cabeza de piedra tallada|Cementerio de barcos|
+|4|Dunas bajas|Pecio|Islote de lava solidificada|Agua|
+|5|Marisma|Coral verde|Islote con forma de estrella de 4 puntas|Agua|
+|6|Algas secas cubren toda la playa|Coral naranja|Islote con forma de calavera|Agua|
+|7|Playa con cientos pequeñas medusas|Cueva con agresiva morena dentro|Islote de arena fina|Agua|
+|8|Dunas altas|Zona de agujas de piedra|Pequeño atolón|Agua|
+|9|Pozas de marea|Conchas gigantescas|Costillas de una gigantesca ballena que sobresalen del agua|Islote, tira de nuevo en la columna de islotes|
+|10|Canoa rota para humanos|Coral azul|Islote con forma de tridente|Sargazos|
+|11|Redes de pesca abandonadas y enganchadas a las rocas|Pecio de embarcación muy extraña|Islote con forma de escudo|Isla de restos de madera|
+|12|Esqueleto de ballena|Banco de arena|Islote que solo aparece con la bajamar|Agua|
+|13|Zona de cocoteros|Campo de ostras|Gran atolón con vegetación y palmeras|Zona siempre cubierta de niebla|
+|14|[Flysch](https://es.wikipedia.org/wiki/Flysch)|Rocas que sobresalen del agua cubiertas de algas|Islote con forma de cabeza de mono|Agua|
+|15|Dunas gigantes|Coral rosa|Zona de agujas de piedra|Agua|
+|16|Río de lava solidificada|Pecio de embarcación muy antigua|Islote con forma de ballena|Sargazos|
+|17|Riachuelo que da al mar|Banco de arena|Varios pequeños islotes conectados por puentes de cuerda|Agua|
+|18|Pequeña cala entre acantilados|Campo de flores|Gran piedra donde anidan aves marinas|Islote, tira de nuevo en la columna de islotes|
+|19|Tabla de surf clavada en la arena|Agujero azul|Islote con trozo de selva|Agua|
+|20|Sitio para surfear|Coral morado|Islote que se mueve y resulta ser una tortuga cubierta de algas|Remolino|
 
 \conc

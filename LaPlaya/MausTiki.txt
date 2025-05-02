@@ -121,19 +121,19 @@ BookmarkPageNumber: 6
 BookmarkBegin
 BookmarkTitle: Pele, la diosa del fuego
 BookmarkLevel: 3
-BookmarkPageNumber: 6
+BookmarkPageNumber: 7
 BookmarkBegin
 BookmarkTitle: Mausi, el héroe tramposo
 BookmarkLevel: 3
-BookmarkPageNumber: 6
+BookmarkPageNumber: 7
 BookmarkBegin
 BookmarkTitle: Aumakuas, espíritus familiares
 BookmarkLevel: 3
-BookmarkPageNumber: 6
+BookmarkPageNumber: 7
 BookmarkBegin
 BookmarkTitle: Kupuas, espíritus diabólicos
 BookmarkLevel: 3
-BookmarkPageNumber: 6
+BookmarkPageNumber: 7
 BookmarkBegin
 BookmarkTitle: Reglas
 BookmarkLevel: 1
@@ -390,6 +390,10 @@ BookmarkBegin
 BookmarkTitle: Encuentros mar abierto
 BookmarkLevel: 3
 BookmarkPageNumber: 25
+BookmarkBegin
+BookmarkTitle: Puntos de interés
+BookmarkLevel: 2
+BookmarkPageNumber: 26
 BookmarkBegin
 BookmarkTitle: Punto de interés en exploraciones terrestres
 BookmarkLevel: 3

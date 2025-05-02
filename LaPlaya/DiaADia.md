@@ -1,7 +1,5 @@
 \sinc
 
-&nbsp;
-
 ## El día a día
 
 \conc
@@ -45,6 +43,15 @@ XXX
 
 \sp
 
+\sinc
+
+
+[![Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak](./images/4436.jpg "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm "Sea landscape with shallow with rocks in clean water under fluffy clouds by upklyak")
+
+&nbsp;
+
+\conc
+
 ### Conexión con otros asentamientos
 
 Kaona Iole es el único asentamiento de la isla, pero no es el único del pequeño archipiélago, sí que cada cierto tiempo se organizan expediciones que venden a otras islas el excedente comercial o se reciben expediciones comerciales de otros islotes para vender su excedente.
@@ -79,6 +86,8 @@ Los riokes rezan a una infinidad de divinidades y espíritus y estos son los pri
 * **Kupuas:** Espíritus malignos y engañosos.
 * **Aumakuas:** Espíritus familiares protectores que se encarnan en animales. Cada familia de riokes reza a sus propios aumakuas.
 
+\sp
+
 Las forma de adorar es muy variable desde pequeñas ceremonias donde se hacen ofrendas hasta complejos bailes hula. No existe una religión organizada con rituales, ceremonias y lugares de culto.
 
 Los kahunas o sacerdotes son reverenciados por su sabiduría y sus capacidades mágicas y curativas. Suelen ser consejeros del jefe del asentamiento.
@@ -100,8 +109,6 @@ XXX
 ### Kupuas, espíritus diabólicos
 
 Los kupuas cubren un amplio espectro de seres mágicos que van desde los simplemente traviesos y burlones, hasta los diabólicos y malvados.
-
-\sp
 
 Normalmente, pueden transformarse en algún tipo de animal que les otorga poderes como nadar muy rápido transformándose en pez espada, cuyo pico puede usar como arma.
 
