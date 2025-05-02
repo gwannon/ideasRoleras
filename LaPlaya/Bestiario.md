@@ -18,16 +18,16 @@ Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisa
 
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus riokes tengan que buscar una moʻo con habilidades especiales que les ayude.
 
-* **PG** X, **FUE** X, **DES** X, **VOL** X
+* **PG** 12, **FUE** 14, **DES** 12, **VOL** 12
 * **Armadura** X
-* **Ataques:** XXX
+* **Ataques:** d8, varía según su forma actual
 * **Forma actual**
-  1. **Rioke:** XXX
-  2. **Gecko:** XXX
-  3. **Camaleón:** XXX
+  1. **Rioke:** Suele ser alguien conocido, ataque con algún tipo de arma rioke
+  2. **Gecko:** Trepa por todas partes incluso bocabajo, ataque de mordisco
+  3. **Camaleón:** Nada escapa de su visión, ataque de lengua
   4. **Lagarto:** XXX
-  5. **XXX:** XXX
-  6. **Dragón (Iguana gigante):** XXX
+  5. **Salamandra:** XXX
+  6. **Dragón (Iguana gigante):** PG 24, ataque d10 de mordisco y de cola
 
 ## Cangrejo
 
@@ -35,12 +35,11 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 
 Tienen muchas formas, pero todos son tozudos y agresivos.
 
+\sp
+
 * **PG** 10, **FUE** 12, **DES** 10, **VOL** 9
 * **Armadura** 3
 * **Ataques:** d8 pinzas
-
-\sp
-
 * **Especies de cangrejos**
   1. **De roca:** De pequeño tamaño, pueden convertirse en animales domésticos que criar, FUE 8, d6 pinzas.
   2. **Ermitaño:** Pequeño y sabio, viven en conchas, DES 10.

@@ -16,6 +16,8 @@ Kaona Iole está situada en la cara sur de la isla, en la playa más grande de l
 
 XXX
 
+Kaona Iole es un puerto natural muy seguro para todo tipo de embarcaciones si consigues atravesar sus arrecifes. Incluso durante tormentas y tifones los barcos están bastante seguros, aunque si pueden sufrir daños, pero no ser hundidos.
+
 Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interés. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
 
 \sp
@@ -32,9 +34,9 @@ Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es 
 
 #### 1. La playa
 
-XXX
+La playa es un fantástico arenal de aguas transparentes y azules con unas buenas olas para surfear. La brisa del mar hace que se esté fresco todo el año. La playa ocupa casi toda la cara sur del islote y llegar de una punta a la otra de la playa puede llevarte media jornada de camino.
 
-La mayoría de las casas de maderas de los riokes de la isla se encuentran en una pequeña franja de tierra y césped que hay entre la arena de la playa y la selva. A está franja nunca llega la marea y está lo suficientemente alejado de la selva para que nada pueda salir de ella sin ser visto.
+Como tal, el poblado de Kaona Iole se encuentra en la playa y la mayoría de las casas de maderas de los riokes de la isla se encuentran en una pequeña franja de tierra y césped que hay entre la arena de la playa y la selva. A está franja nunca llega la marea y está lo suficientemente alejado de la selva para que nada pueda salir de ella sin ser visto.
 
 Las estructuras temporales se suelen montar ya en la arena donde es más facil fijar estructuras al suelo. Se suelen montar el mercado, los festivales, comidas populares, bodas y demás celebraciones y, aunque normalmente no llega allí el mar, alguna vez ha habido sorpresas con las mareas.
 
@@ -48,11 +50,11 @@ Una red de arrecifes **rodea la playa desde el cabo este al oeste** de forma que
 
 Pero también tiene sus problemas, ya que es muy difícil salir de la isla con grandes embarcaciones, ya que los puntos de entradas libres de arrecifes son sinuosos y estrechos.
 
+\sp
+
 #### 3. El islote de Hāʻupu
 
 Hāʻupu era un gigante que vivía en estas islas que expulsaba a los intrusos lanzando grandes piedras desde la playa. Fue engañado por Mausi para quedarse quieto en la playa y paso tanto tiempo allí que se convirtió en piedra y formo este islote.
-
-\sp
 
 El islote no es un lugar tabú, pero casi lo es. Nadie quiere acercarse ni surfear, ni pescar cerca, ni nada. Se considera que es un lugar de mal agujero, pero nadie conoce ninguna historia que lo verifique, simplemente lo es.
 
@@ -66,7 +68,13 @@ XXX
 
 #### 5. El volcán
 
-XXX
+En el centro se sitúa un gran volcán en activo. El cráter central del volcán es el punto más alto de la isla y se supone que es lugar donde vive la diosa Pele, diosa del fuego y los volcanes. 
+
+Es un sitio cámbiente y peligroso donde tendrás que enfrentarte a calor infernal, fuego, lava, desprendimientos, gases tóxicos y vapores incandescentes.  
+
+En invierno si no está activo la cumbre se llena de nieve. Se cuenta que los ancestros subían allí a conseguir hielo.
+
+Las faldas del volcán están rodeadas de praderas y desde sus laderas discurren algunos riachuelos que crean cascadas naturales y que llegan hasta el mar.
 
 #### 6. Atalaya
 
@@ -90,6 +98,8 @@ XXX
 
 El cabo este es el mejor lugar de la isla para coger olas gracias al viento del este y los jóvenes surfistas suelen hacer excursiones a esta zona para pillar olas. No es raro si pasas por esta zona encontrarse pequeños campamentos en sus pequeñas calas.
 
+\sp
+
 ### El mar y la playa
 
 Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
@@ -112,9 +122,9 @@ XXX
 
 ### Clima
 
-En Kaona Iole solo existen dos estaciones, verano (kau) e invierno (hooilo). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia. El problema es que las tormentas pueden convertirse en tifones que pueden arrasar toda la isla, derribando árboles e inundando terrenos secos.
+En Kaona Iole solo existen dos estaciones, verano (kau) e invierno (hooilo). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia.
 
-\sp
+El problema es que las tormentas pueden convertirse en tifones que pueden arrasar toda la isla, derribando árboles e inundando terrenos secos.
 
 Si la tormenta se convierte en tifón, los riokes empacan lo indispensable y huyen a las «cuevas de los ancestros», una red de cavidades en la roca en la punta oeste donde se refugiaron durante siglos los primeros kiores que llegaron a la isla.
 
@@ -134,12 +144,16 @@ Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en u
 
 ### Personalidades
 
-#### El jefe XXX
+#### Matai Mahuru
 
-XXX
+Su familia llevan siendo los «matais» (dirigentes) de Kaona Iole por generaciones y, si nada se tuerce, seguirán por muchas más. Mahuru es XXX
 
 #### Les 3 hermanes kahunas
 
-Les 3 hermanes son unes trillizes, masculino uno de elles, femenina otra y [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB) le ultimé. Son les kahunas del poblado. 
+Les 3 hermanes son unes trillizes, masculino uno de elles, femenina otra y [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB) le ultimé. Son les kahunas del poblado. Nadie les llama por sus nombres, solamente les llaman «Kahunas».
 
-XXX
+\sp
+
+Nunca se separan, de hecho siempre llevan sus colas entrelazadas, y normalmente suelen rondar por la playa junto al agua.
+
+Son los únicos que van al islote de Hāʻupu cuando baja mucho la marea y allí hacen sus rituales y sus cosas de kahunas.

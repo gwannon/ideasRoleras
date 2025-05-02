@@ -13,6 +13,8 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 
 [![Compatible con Mausrítter material no oficial](./images/Sello_Compatible-con-Mausritter-Positivo.png "Compatible con Mausrítter material no oficial")](https://www.elrefugioeditorial.com/mausritter-licencia-a-terceros "Compatible con Masurítter material no oficial")
 
+Los mapas han sido creados usando los iconos de [Mausritter hexcrawl tileset](https://marum.itch.io/mausritter-hexcrawl-tileset).
+
 * Flat maori tattoo pattern by [Freepik](https://www.freepik.com/free-vector/flat-maori-tattoo-pattern_29507321.htm)
 * Tiki masks with scary faces and toothy mouth, decorated with leaves isolated by [upklyak](https://www.freepik.com/free-vector/tiki-masks-with-scary-faces-toothy-mouth-decorated-with-leaves-isolated_12900249.htm)
 * Tiki masks, tribal wooden totems, hawaiian or polynesian style attributes, scary faces with toothy mouth by [upklyak](https://www.freepik.com/free-vector/tiki-masks-tribal-wooden-totems-hawaiian-polynesian-style-attributes-scary-faces-with-toothy-mouth_12682481.htm)
@@ -38,10 +40,10 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Vector cartoon sticker crab hand drawn vintage clipart by [rawpixel.com](https://www.freepik.com/free-vector/vector-cartoon-sticker-crab-hand-drawn-vintage-clipart_34100786.htm)
 * Sea landscape with shallow with rocks in clean water under fluffy clouds by [upklyak](https://www.freepik.com/free-vector/sea-landscape-with-shallow-with-rocks-clean-water-fluffy-clouds_11685189.htm)
 * Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
-* Hula calabash by [troy mckaskle](https://commons.wikimedia.org/wiki/File:Hula_calabash.jpg) con licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.es)
 
 \sp
 
+* Hula calabash by [troy mckaskle](https://commons.wikimedia.org/wiki/File:Hula_calabash.jpg) con licencia [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.es)
 * Tropical volcano island in sea cartoon landscape by [upklyak](https://www.freepik.com/free-vector/tropical-volcano-island-sea-cartoon-landscape_50471227.htm)
 * Night volcano island in ocean cartoon vector background Magma eruption glow on exotic tropical isle beach near palm tree Beautiful volcanic lava steam in forest game design Rock in sea water by [upklyak](https://www.freepik.com/free-vector/night-volcano-island-ocean-cartoon-vector-background-magma-eruption-glow-exotic-tropical-isle-beach-near-palm-tree-beautiful-volcanic-lava-steam-forest-game-design-rock-sea-water_58676039.htm)
 * Falling space comet icon by [studiogstock](https://www.freepik.com/free-vector/falling-space-comet-icon_136481623.htm)
@@ -55,6 +57,9 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Conjunto de animales del bosque de dibujos animados por [macrovector](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm)
 * Isolated dry tree cartoon sticker on white background by [brgfx](https://www.freepik.com/free-vector/isolated-dry-tree-cartoon-sticker-white-background_18053366.htm)
 * Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by [macrovector](https://www.freepik.com/free-vector/tropic-rest-flat-icons-set-bungalow-equipment-beach-vacation-isolated-vector-illustration_26765555.htm)
+*
+* Waterfall in mountains cartoon set of decorative elements for video game interface isolated on white background vector illustration by [macrovector](https://www.freepik.com/free-vector/waterfall-mountains-cartoon-set-decorative-elements-video-game-interface-isolated-white-background-vector-illustration_26760591.htm)
+* Forest Elements Concept by [macrovector](https://www.freepik.com/free-vector/forest-elements-concept_9457603.htm)
 
 \sinc
 
