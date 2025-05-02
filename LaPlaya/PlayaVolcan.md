@@ -6,7 +6,7 @@
 
 La diosa Pele que vive en el volcán está enfadada con los habitantes de la isla porque olvidaron poner un tocado de plumas en su última ofrenda.
 
-Como diosa del volcán es colérica e irascible y ya decidido mandar sus nieblas a la playa para castigar a sus XXX fieles.
+Como diosa del volcán es colérica e irascible y ya decidido mandar sus nieblas a la playa para castigar a sus fieles adoradores de la playa.
 
 XXX
 
@@ -28,7 +28,7 @@ XXX
 
 XXX
 
-El jefe del asentamiento XXX pedirá voluntarios para cumplir esta gran misión. Si no llega al cupo de 4 uno de los kahunas, lanzará sus caracolas de adivinación y elegirá al resto de tus riokes.
+Matai Mahuru pedirá voluntarios para cumplir esta gran misión. Si no llega al cupo de 4 uno de los kahunas, les 3 kahunas lanzarán sus caracolas de adivinación y elegirá al resto de tus riokes.
 
 \sp
 
@@ -54,7 +54,7 @@ XXX
 
 ### La añeja Lomar
 
-La añeja Lomar es una gigantesca tortuga laúd de más de 200 años. XXX
+La añeja Lomar es una gigantesca tortuga laúd de más de 200 años. Ha vivido muchas cosas y sabe muchas cosas, incluso se dice que ya era vieja en tiempos de los ancestros.
 
 XXX
 
@@ -213,4 +213,4 @@ Los cuentacuentos estarán ansiosos de escuchar su epopeya para poder añadirlas
 
 Puede darles títulos específicos según sus hazañas en la aventura como «mataserpientes» o «buscatesoros», si lo consideras apropiado.
 
-> Tus riokes han explotado la parte sur de la isla (la playa y la selva hasta la falda del volcán), el cabo este y el cabo oeste y la cara sur y la cima del volcán, pero todavía queda la zona norte con su parte del volcán, de la selva y sus acantilados y calas. Además de del Islote de XXX.
+> Tus riokes han explotado la parte sur de la isla (la playa y la selva hasta la falda del volcán), el cabo este y el cabo oeste y la cara sur y la cima del volcán. Pero todavía queda la zona norte con su parte del volcán, de la selva y sus acantilados y calas. Además también tiene el misterioso islote de Hāʻupu que solo vistan les 3 kahunas.

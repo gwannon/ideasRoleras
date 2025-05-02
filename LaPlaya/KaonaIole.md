@@ -124,13 +124,13 @@ El cabo este es el mejor lugar de la isla para coger olas gracias al viento del 
 
 ### El mar y la playa
 
-Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
-
-XXX
-
 ```
 Las canoas están seguras en la playa, pero no fue para lo que se crearon.
 ```
+
+XXX
+
+Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
 
 XXX
 
