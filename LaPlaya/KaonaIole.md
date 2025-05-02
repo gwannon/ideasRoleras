@@ -4,17 +4,25 @@
 
 \conc
 
-XXX
+En una pequeña isla volcánica del Pacífico existe una pequeña comunidad de roedores llamada Kaona Iole. En el poblado de Kaona Iole está formado kiores o ratas del Pacífico.
 
-En la comunidad de Kaona Iole principalmente hay kiores o ratas del Pacífico.
+### Historia
 
-[![Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector](./images/chozas.png "Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector")](https://www.freepik.com/free-vector/tropic-rest-flat-icons-set-bungalow-equipment-beach-vacation-isolated-vector-illustration_26765555.htm "Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector")
+Estás ratas llegaron hace siglos de otras islas, seguramente en embarcaciones de los humanos,  y se establecieron en las cuevas del cabo oeste. Poco a poco colonizaron la isla y prosperaron hasta crear una gran civilización muy avanzada que construyó estructuras y monumentos por toda la isla.
 
-### Situación 
+Entonces un gran cataclismo sacudió la isla, probablemente un terremoto y/o una erupción volcánica y acabó con toda esa civilización que ahora es conocida como los ancestros.
+
+Los pocos supervivientes se trasladaron a la playa y como pudieron fueron prosperando hasta el día de hoy.
+
+Las familias más poderosas de los supervivientes se convirtieron en «maitis», la clase dirigente de Kaona Iole y hoy en día siguen dirigiendo esta comunidad.
+
+### Localización 
 
 Kaona Iole está situada en la cara sur de la isla, en la playa más grande de la isla, ya que el norte son acantilados y en la costa este y oeste solo hay pequeñas calas.
 
-XXX
+En el asentamiento vivirán unas 40 o 50 familias cada uno con su choza. La comunidad además tiene algunos edificios comunales que se usan de colegio, salas de reuniones, etc. 
+
+Debido al buen tiempo que hay en la isla la mayoría de las actividades sociales son al aire libre en la playa, bailes hula, comidas, juegos, concursos de surf, etc.
 
 Kaona Iole es un puerto natural muy seguro para todo tipo de embarcaciones si consigues atravesar sus arrecifes. Incluso durante tormentas y tifones los barcos están bastante seguros, aunque si pueden sufrir daños, pero no ser hundidos.
 
@@ -36,6 +44,8 @@ Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es 
 
 La playa es un fantástico arenal de aguas transparentes y azules con unas buenas olas para surfear. La brisa del mar hace que se esté fresco todo el año. La playa ocupa casi toda la cara sur del islote y llegar de una punta a la otra de la playa puede llevarte media jornada de camino.
 
+[![Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector](./images/chozas.png "Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector")](https://www.freepik.com/free-vector/tropic-rest-flat-icons-set-bungalow-equipment-beach-vacation-isolated-vector-illustration_26765555.htm "Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector")
+
 Como tal, el poblado de Kaona Iole se encuentra en la playa y la mayoría de las casas de maderas de los riokes de la isla se encuentran en una pequeña franja de tierra y césped que hay entre la arena de la playa y la selva. A está franja nunca llega la marea y está lo suficientemente alejado de la selva para que nada pueda salir de ella sin ser visto.
 
 Las estructuras temporales se suelen montar ya en la arena donde es más facil fijar estructuras al suelo. Se suelen montar el mercado, los festivales, comidas populares, bodas y demás celebraciones y, aunque normalmente no llega allí el mar, alguna vez ha habido sorpresas con las mareas.
@@ -46,11 +56,15 @@ Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran 
 
 #### 2. Los arrecifes
 
-Una red de arrecifes **rodea la playa desde el cabo este al oeste** de forma que las aguas alrededor de la playa no dan a mar abierto. Por otro lado, los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan facil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando. Además, sirve de defensa frente a otras tribus de riokes que quieran atacar el poblado.
+Una red de arrecifes **rodea la playa desde el cabo este al oeste** de forma que las aguas alrededor de la playa no dan a mar abierto. 
 
-Pero también tiene sus problemas, ya que es muy difícil salir de la isla con grandes embarcaciones, ya que los puntos de entradas libres de arrecifes son sinuosos y estrechos.
+Los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan facil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando. 
 
 \sp
+
+Además, sirve de defensa frente a otras tribus de riokes que quieran atacar el poblado.
+
+Pero también tiene sus problemas, ya que es muy difícil salir de la isla con grandes embarcaciones, ya que los puntos de entradas libres de arrecifes son sinuosos y estrechos.
 
 #### 3. El islote de Hāʻupu
 
@@ -64,7 +78,13 @@ Durante las mareas vivas el agua baja tanto que puede llegarse al islote andando
 
 #### 4. La selva
 
-XXX
+El interior de la isla, quitando es volcán es una densa y oscura selva en la que los riokes no suelen adentrarse. Prefieren ir por la costa si necesitan ir a los cabos o al norte de la isla.
+
+En ella habitan todo tipo de depredadores, que no dudarán en atacar y devorar a nuestros héroes. Pero también es fruto de grandes riquezas tanto en forma de materias primas de calidad como de reliquias y objetos maravillosos que se pueden encontrar en sus ruinas ancestrales.
+
+Antaño los ancestros construyeron en ella todo tipo de estructuras, pero si sobrevivieron a cataclismo, ahora no son más que montones de piedras ruinosas y cubiertas de vegetación selvática.
+
+> Gran parte de las aventuras en la isla tendrá que explorar partes de la selva y es interesante que sea algo vivo, que cuando vuelvan a adentrarse en ella, aunque sea un sitio conocido haya cambios. Quizás haya huellas de animales distintos, el vado que usaban para pasar un arroyo haya desaparecido o unas lluvias torrenciales hayan sacado a la luz nuevas ruinas de los ancestros.  
 
 #### 5. El volcán
 
@@ -80,25 +100,27 @@ Las faldas del volcán están rodeadas de praderas y desde sus laderas discurren
 
 Al este de la playa hay una gran colina en cuya cima los riokes de Kaona Iole han establecido una atalaya de vigilancia, ya que domina todo el lado este de la isla. 
 
-En esta atalaya se encuentra un pututu, una concha de caracol de mar gigante, que suena en la pleamar y la bajamar. En caso de ataques enemigos y de depredadores terrestres o marinos también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y bosques cercanos.
+En esta atalaya se encuentra un pututu, una concha de caracol de mar gigante, que suena en la pleamar y la bajamar.
 
-XXX
+\sp
+
+En caso de ataques enemigos y de depredadores terrestres o marinos también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y selvas cercanas.
 
 #### 7. Cabo oeste
 
-XXX
+Esta zona de la isla es poco visitada, debido a su nulo interés comercial o de ocio. Solo es visitado por los riokes en situaciones muy específicas y esas no se dan normalmente.
 
 En el macizo de piedra que forma el cabo oeste hay una red de cavidades naturales, llamadas las «cuevas de los ancestros». En caso de desastre se usan de refugio pero solo las cavidades más externas.
 
-Se suponen que las salas más internas de estas cavernas están habitadas por aumakuas, espíritus de los ancestros. Así que adentrarse en el interior de las cavernas es tabú, está prohibido. Las leyendas hablan de riquezas y magia poderosa en su interior, pero por ahora nadie ha querido adentrarse o sí lo ha hecho ha vuelto para contarlo.
+Se suponen que las salas más internas de estas cavernas están habitadas por los espectros de los ancestros, espíritus de ancestros muertos que protegen los secretos y los tesoros de estas cavernas. Así que adentrarse en el interior de las cavernas es tabú, está prohibido. Las leyendas hablan de riquezas y magia poderosa en su interior, pero por ahora nadie ha querido adentrarse o sí lo ha hecho ha vuelto para contarlo.
 
 #### 8. Cabo este
 
-XXX
+Como es el cabo oeste tampoco es muy transitado, pero es un lugar muy apreciado por surfistas y pescadores con lo que hay algo más de movimiento.
+
+Al estar más abierto
 
 El cabo este es el mejor lugar de la isla para coger olas gracias al viento del este y los jóvenes surfistas suelen hacer excursiones a esta zona para pillar olas. No es raro si pasas por esta zona encontrarse pequeños campamentos en sus pequeñas calas.
-
-\sp
 
 ### El mar y la playa
 
@@ -118,11 +140,19 @@ XXX
 
 ### Los ancestros
 
-XXX
+Los ancestros son los antecesores de los actuales pobladores de la isla. Poco se sabe de ellos y lo que se sabe es que vivían en las cuevas del cabo oeste y crearon construcciones de piedra por toda la isla.
+
+Se supone que tenían una tecnología muy avanzada, incluso que la de los kiores de hoy en día.
+
+Un cataclismo acabó con los ancestros y ya solo quedan de ellos sus ruinosas estructuras, sus extraños objetos y algunos espectros que vigilan sus ruinas.
+
+> Los ancestros son la excusa perfecta para meter todo elemento extraño que desees en tus aventuras. Ruinas perdidas, extraños artilugios, espectros guardianes pueden ser fácilmente explicables como parte delito de los ancestros.
 
 ### Clima
 
 En Kaona Iole solo existen dos estaciones, verano (kau) e invierno (hooilo). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia.
+
+\sp
 
 El problema es que las tormentas pueden convertirse en tifones que pueden arrasar toda la isla, derribando árboles e inundando terrenos secos.
 
@@ -140,19 +170,20 @@ Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando h
 
 > Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
 
+
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
 
 ### Personalidades
 
 #### Matai Mahuru
 
-Su familia llevan siendo los «matais» (dirigentes) de Kaona Iole por generaciones y, si nada se tuerce, seguirán por muchas más. Mahuru es XXX
+Su familia llevan siendo los «matais» (dirigentes) de Kaona Iole por generaciones y, si nada se tuerce, seguirán por muchas más. Mahuru es bastante brusco y malhumorado, pero es bastante sabio y suele tomar la decisión correcta en los momentos oportunos.
+
+Le encantan los cuentos y los relatos épicos y no perderá la oportunidad de escuchar una buena historia, siendo muy generoso con el cuentacuentos.
 
 #### Les 3 hermanes kahunas
 
 Les 3 hermanes son unes trillizes, masculino uno de elles, femenina otra y [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB) le ultimé. Son les kahunas del poblado. Nadie les llama por sus nombres, solamente les llaman «Kahunas».
-
-\sp
 
 Nunca se separan, de hecho siempre llevan sus colas entrelazadas, y normalmente suelen rondar por la playa junto al agua.
 

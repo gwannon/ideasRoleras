@@ -19,7 +19,11 @@ BookmarkTitle: La comunidad de Kaona Iole
 BookmarkLevel: 2
 BookmarkPageNumber: 1
 BookmarkBegin
-BookmarkTitle: Situación
+BookmarkTitle: Historia
+BookmarkLevel: 3
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: Localización
 BookmarkLevel: 3
 BookmarkPageNumber: 1
 BookmarkBegin
@@ -53,11 +57,11 @@ BookmarkPageNumber: 3
 BookmarkBegin
 BookmarkTitle: 7. Cabo oeste
 BookmarkLevel: 4
-BookmarkPageNumber: 3
+BookmarkPageNumber: 4
 BookmarkBegin
 BookmarkTitle: 8. Cabo este
 BookmarkLevel: 4
-BookmarkPageNumber: 3
+BookmarkPageNumber: 4
 BookmarkBegin
 BookmarkTitle: El mar y la playa
 BookmarkLevel: 3
@@ -77,19 +81,19 @@ BookmarkPageNumber: 4
 BookmarkBegin
 BookmarkTitle: Mareas
 BookmarkLevel: 3
-BookmarkPageNumber: 4
+BookmarkPageNumber: 5
 BookmarkBegin
 BookmarkTitle: Personalidades
 BookmarkLevel: 3
-BookmarkPageNumber: 4
+BookmarkPageNumber: 5
 BookmarkBegin
 BookmarkTitle: Matai Mahuru
 BookmarkLevel: 4
-BookmarkPageNumber: 4
+BookmarkPageNumber: 5
 BookmarkBegin
 BookmarkTitle: Les 3 hermanes kahunas
 BookmarkLevel: 4
-BookmarkPageNumber: 4
+BookmarkPageNumber: 5
 BookmarkBegin
 BookmarkTitle: El día a día
 BookmarkLevel: 2
@@ -323,7 +327,11 @@ BookmarkTitle: Cerdo salvaje
 BookmarkLevel: 2
 BookmarkPageNumber: 21
 BookmarkBegin
-BookmarkTitle: Compañeros
+BookmarkTitle: Espectros de los ancestros
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: Facciones
 BookmarkLevel: 2
 BookmarkPageNumber: 22
 BookmarkBegin

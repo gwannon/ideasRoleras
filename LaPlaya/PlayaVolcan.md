@@ -66,7 +66,7 @@ XXX
 
 \conc
 
-El camino al volcán supone atravesar la espesa selva que separa la playa de la falda del volcán. Hay un riachuelo que viene de la montaña y empieza en una cascada. Esa cascada y un remanso más adelante del riachuelo lo frecuenta un Moʻo que suele hacerse pasar por une belle rioke que se baña desnude.
+El camino al volcán supone atravesar la espesa selva que separa la playa de la falda del volcán. Hay un riachuelo que viene de la montaña y empieza en una cascada. Esa cascada y un remanso más adelante del riachuelo lo frecuenta una Moʻo que suele hacerse pasar por une belle rioke que se baña desnude.
 
 \sinc
 
@@ -80,24 +80,20 @@ El camino al volcán supone atravesar la espesa selva que separa la playa de la 
 
 \sinc
 
-|Casilla|Descripción|Casilla|Descripción|
-|---|---|---|---|
-|1|**XXX:** XXX|11|**XXX:** XXX|
-|2|**XXX:** XXX|12|**Cauce ancho del rio**|
-|3|**Tronco sobre el rio**|13|**XXX:** XXX|
-|4|**Remanso del rio**|14|**XXX:** XXX|
-|5|**XXX:** XXX|15|**XXX:** XXX|
-|6|**XXX:** XXX|16|**XXX:** XXX|
-|7|**Claro del bosque con una gran piedra en el centro:** XXX|17|**XXX:** XXX|
-|8|**XXX:** XXX|18|**XXX:** XXX|
-|9|**XXX:** XXX|19|**XXX:** XXX|
-|10|**XXX:** XXX| &nbsp; | &nbsp; |
+|Casilla|Descripción|
+|---|---|
+|3|**Tronco sobre el río**|
+|4|**Remanso del río:** Frecuentado por una Moʻo|
+|7|**Claro del bosque con una gran piedra en el centro:** Encima de la piedra hay un grabado de lo que parece un mapa del tesoro.|
+|8 |***Falda del volcán**|
+|9|**Cascada** Frecuentado por una Moʻo|
+|12|**Cauce ancho del río**|
 
 &nbsp;
 
 \conc
 
-Las casillas vacías (sin número) puedes si quieres rellenarlas con las tablas de puntos de interes, sabiendo que todo esta está zona es selva.
+Las casillas vacías (sin número) puedes si quieres rellenarlas con las tablas de puntos de interés y las tablas de encuentros, sabiendo que toda esta zona es selva.
 
 ### El Moʻo del río
 

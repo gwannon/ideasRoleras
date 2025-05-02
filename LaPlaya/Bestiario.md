@@ -109,6 +109,21 @@ Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a bu
   5. **Raíces:** XXX
   6. **Bronca:** XXX
 
-## Compañeros
+## Espectros de los ancestros
 
 XXX
+
+* **PG** X, **FUE** X, **DES** X, **VOL** X
+* **Armadura** X
+* **Ataques:** XXX
+* **Está buscando**
+  1. **Agua para beber:** XXX
+  2. **Barro para remozarse:** XXX
+  3. **Árbol adecuado para rascarse:** XXX
+  4. **Frutas:** XXX
+  5. **Raíces:** XXX
+  6. **Bronca:** XXX
+
+  ## Facciones
+
+  XXX

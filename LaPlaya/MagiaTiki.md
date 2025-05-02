@@ -4,9 +4,9 @@
 
 \conc
 
-En la época de los sueños los espíritus vivían entre los roedores, pero cuando el sueño se rompió, fueron encerrados dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
+En la época de los ancestros los espíritus vivían entre los roedores, pero cuando ocurrió el cataclismo, se refugiaron dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
 
-Los grandes kahunas aprendieron a crear con esos materiales unas máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro, pero ese conocimiento se perdió hace mucho tiempo y ahora solo se pueden conseguir buscando en lugares peligrosos y antiguos.
+Los grandes kahunas de los ancestros que sobrevivieron aprendieron a crear con esos materiales unas máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro, pero ese conocimiento se perdió hace mucho tiempo y ahora solo se pueden conseguir buscando en lugares peligrosos y antiguos.
 
 > Si lo deseas puedes usar las máscaras tiki, como si fueran las tablillas de obsidiana del manual básico de Mausritter o usar las reglas especiales para «MausTiki».
 
