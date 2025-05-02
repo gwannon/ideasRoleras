@@ -359,7 +359,9 @@ Es una sátira de la época victoriana, pero la parte matemática está muy bien
 ### Los plastilinos
 
 Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
+
 Está inspirado en los arquetipos del Nephilim de Chaosium, que serían representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
+
 Los jugadores podrían cederse dados (mezcla de colores).
 
 Por [Mondriter](https://mastodon.social/@Moonrider_acme)
@@ -382,6 +384,18 @@ Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo co
 
 [Doctor Jekyll y Mister Hyde: Investigadores privados](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)
 
+### Radioaficionados
+
+Esta idea es carne de indie. Sería un juego en solitario de un radioaficionado en un mundo postapocaliptico.
+
+Vas buscando frecuencias y encontrando a otros radioaficionados. Tendrás que tratar con ellos y averiguar que hacían antes y que problemas tienen. 
+
+La idea es que unos oráculos te digan quién es, qué hacía y algunos rasgos de personalidad y además generen un problema que puede acabar con su supervivencia. Quizás está enfermo, quizás una plaga se come su cosecha o simplemente está solo o no habla ti idioma.
+
+Para solucionar su problema tendrás que buscar a otros radioaficionados que igual saben la solución o buscar en libros de bibliotecas y librerías físicas de tu localidad la solución al problema. Recuerda que es postapocaliptico y no hay internet, solo viejos libros abandonados.
+
+Habría una mecánica que te diría si la biblioteca está en pie, si hay libros del tema o si no está plagada de zombis, vampiros, etc.
+
 ### Repartidor/a de pizza en un dungeon
 
 Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
@@ -390,21 +404,27 @@ Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
 
+\sp
+
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
+
+### Slapstick RPG
+
+El slapstick es el género de todas esas películas mudas Chaplin, Buster Keaton, etc. El juego tendría, por un lado, mecánicas para jugar todos los clichés del género como persecuciones, quedar colgado de un lugar alto, mosquear a la policía, golpes, tortazos, resbalones, …
+
+Por otro lado, debería haber unas mecánicas para gestionar que los personajes son mudos y solo hay comunicación escrita. También tendría que marcarse la mímica y la sobreactuación de los personajes.
 
 ### SockQuest
 
 Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y chándal, deben conseguir su calcetín-gorro como rito de iniciación. Deberán llegar a una lavandería y robar de la colada un calcetín cada uno. Debe haber tabla de generación de calcetines.
 
-### Top secret!
+### Top Secret!
 
-Crear una ambientación para jugar aventuras en el mundo de Top secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
+Crear una ambientación para jugar aventuras en el mundo de Top Secret. Un mundo estancado en los 60 donde la resistencia francesa lucha en una Alemania del este muy nazi. Los cantantes rollo Elvis triunfan con sus canciones playeras, las armas automáticas se cargan por el cañón y los disfraces de vaca son muy buenos.
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan.
-
-\sp
 
 ### La villa secreta de las mascotas
 
