@@ -76,11 +76,13 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 \conc
 
-La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera.
+La madera es un elemento fundamental en la vida de los kiores, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes trasfondos especializados en el trabajo de la madera. 
 
 \sp
 
 Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
+
+De hecho **a la hora de construir** no hay cavadores y trabajadores, sino **leñadores/tejedores de hoja de palma y carpinteros**.
 
 Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
 

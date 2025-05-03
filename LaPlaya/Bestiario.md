@@ -124,6 +124,58 @@ XXX
   5. **Raíces:** XXX
   6. **Bronca:** XXX
 
-  ## Facciones
+## Facciones
 
-  XXX
+### Colmillo roto
+
+XXX
+
+#### Recursos
+
+* XXX
+* XXX
+* XXX
+
+#### Objetivos
+
+◯◯◯ XXX
+
+◯◯◯ XXX
+
+◯◯◯ XXX
+
+### XXX
+
+XXX
+
+#### Recursos
+
+* XXX
+* XXX
+* XXX
+
+#### Objetivos
+
+◯◯◯ XXX
+
+◯◯◯ XXX
+
+◯◯◯ XXX
+
+### XXX
+
+XXX
+
+#### Recursos
+
+* XXX
+* XXX
+* XXX
+
+#### Objetivos
+
+◯◯◯ XXX
+
+◯◯◯ XXX
+
+◯◯◯ XXX
