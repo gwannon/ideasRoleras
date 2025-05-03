@@ -19,23 +19,24 @@ Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisa
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus riokes tengan que buscar una moʻo con habilidades especiales que les ayude.
 
 * **PG** 12, **FUE** 14, **DES** 12, **VOL** 12
-* **Armadura** X
+* **Armadura** 2
 * **Ataques:** d8, según su forma actual varía su ataque
 * **Forma actual**
   1. **Rioke:** Suele ser alguien conocido, ataque con algún tipo de arma rioke
   2. **Gecko:** Trepa por todas partes incluso bocabajo, ataque de mordisco
   3. **Camaleón:** Nada escapa de su visión, ataque de lengua
-  4. **Lagarto:** XXX
-  5. **Salamandra:** XXX
-  6. **Dragón (Iguana gigante):** PG 24, ataque d10 de mordisco y de cola
+  4. **Lagarto:** Corren a gran velocidad, ataque de mordisco
+  5. **Salamandra:** Puede respirar bajo el agua y nadar a gran velocidad, coletazo como ataque
+  6. **Dragón (Iguana gigante):** PG 24, armadura de escamas extra 4, ataque d10 de mordisco y de cola
+&nbsp;
 
 ## Cangrejo
 
 [![Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por brgfx](./images/8rhu_dqk9_210504.png "Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por brgfx")](https://www.freepik.es/vector-gratis/cangrejo-raiz-manglar-estilo-dibujos-animados-sobre-fondo-blanco_18987431.htm "Cangrejo de raíz de manglar en estilo de dibujos animados sobre fondo blanco por brgfx")
 
-Tienen muchas formas, pero todos son tozudos y agresivos.
-
 \sp
+
+Tienen muchas formas, pero todos son tozudos y agresivos.
 
 * **PG** 10, **FUE** 12, **DES** 10, **VOL** 9
 * **Armadura** 3
@@ -47,6 +48,8 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
   4. **Araña de mar:** Delgados con largas patas.
   5. **De los manglares:** De buen tamaño, viven entre las raíces de las plantas que forman los manglares.
   6. **Kona:** Fieros luchadores, su carne es muy apreciada para grandes ceremonias.
+
+&nbsp;
 
 ## Tortuga
 
@@ -67,7 +70,9 @@ Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que
   5. **Tortuga paslama:** XXX
   6. **XXX:** XXX
   
-&ast; En tierra/en el agua
+_&ast; En tierra/en el agua_
+
+&nbsp;
   
 ## Kupua menor
 
@@ -88,26 +93,26 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
   5. **Búho:** XXX
   6. **XXX:** XXX
 
+\sp
+
 ##  Cerdo salvaje
 
 [![Conjunto de animales del bosque de dibujos animados por macrovector](./images/36192.png "Conjunto de animales del bosque de dibujos animados por macrovector")](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm "Conjunto de animales del bosque de dibujos animados por macrovector")
 
-XXX
-
-\sp
-
 Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a buscar aquello que cubre la necesidad. Si tienen sed, buscan agua, si tienen calor, barro donde remojarse, etc. Su ánimo y actitud dependerá de que están buscando.
 
-* **PG** X, **FUE** X, **DES** X, **VOL** X
-* **Armadura** X
-* **Ataques:** XXX
+* **PG** 15, **FUE** 15, **DES** 12, **VOL** 8
+* **Armadura** 2
+* **Ataques:** colmillos d6 (d8 si corre y carga) 
 * **Está buscando**
-  1. **Agua para beber:** XXX
+  1. **Agua para beber:** Les pedirá su agua (u otros líquidos) o les atacará. Si les dan agua cada rioke pierde un uso de las raciones.
   2. **Barro para remozarse:** XXX
-  3. **Árbol adecuado para rascarse:** XXX
-  4. **Frutas:** XXX
-  5. **Colmillo roto:** XXX
-  6. **Bronca:** XXX
+  3. **Árbol adecuado para rascarse:** Solo necesita que le rasquen en ese punto que no llega.
+  4. **Frutas:** Si llevan raciones con dibujos de fruta, las olerá y exigirá que se las den o les atacará. Si les dan agua cada rioke pierde un uso de las raciones.
+  5. **Bronca:** Simplemente busca bronca para divertirse, huirá cuando alguna estadística baje de la mitad.
+  6. **Colmillo roto:** Es miembro del Colmillo Roto y atacará a los riokes.
+
+\sc
 
 ## Espectros de los ancestros
 
@@ -124,12 +129,12 @@ XXX
   5. **Raíces:** XXX
   6. **Bronca:** XXX
 
+&nbsp;
+
 ## Facciones
 
 ### Colmillo roto
 
-XXX
-
 #### Recursos
 
 * XXX
@@ -144,27 +149,7 @@ XXX
 
 ◯◯◯ XXX
 
-### XXX
-
-XXX
-
-#### Recursos
-
-* XXX
-* XXX
-* XXX
-
-#### Objetivos
-
-◯◯◯ XXX
-
-◯◯◯ XXX
-
-◯◯◯ XXX
-
-### XXX
-
-XXX
+### Fuego Purificador
 
 #### Recursos
 

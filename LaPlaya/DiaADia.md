@@ -91,6 +91,14 @@ Los cerdos salvajes llegaron a la isla hace tanto tiempo como los riokes, pero a
 
 El colmillo roto es una facción organizada de cerdos salvajes que envidian los logros de los riokes y buscan esclavizarlos y vivir como reyes mientras los roedores trabajan.
 
+#### Fuego Purificador
+
+Los Kupua del Fuego purificador son una facción de kupuas menores que quieren volver a los tiempos anteriores de los ancestros cuando eran dueños y señores de la isla. Casi lo consiguieron al propiciar el gran cataclismo, pero algunos kiores sobrevivieron y prosperaron de nuevo.
+
+Son muy agresivos y atacan a los kiores que se encuentran. Por suerte no suelen salir del volcán donde viven, salvo esporádicamente para crear incendios y dar problemas a los kiores.
+
+\sp
+
 \sinc
 
 ## Religión y dioses
@@ -104,9 +112,6 @@ Los riokes rezan a una infinidad de divinidades y espíritus y estos son los pri
 * **Kū.** Dios de la guerra, la política, la agricultura y la pesca.
 * **Lono:** Este dios se asocia con la fertilidad, la agricultura, la lluvia, la música y la paz.
 * **Nāmaka.** Diosa del mar y las mareas.
-
-\sp
-
 * **Hāʻupu.** Es el gigante que vivían en esta isla y que fue transformado en piedra creando el islote al oeste de la isla.
 * **Mausi:** Es un semi-dios mitad divinidad mitad kiore, protagonista muchos cuentos donde se dedica a engañar a riokes y dioses.
 * **Kupuas:** Espíritus malignos y engañosos.
@@ -140,13 +145,12 @@ Según versiones, es un semidiós, un kupua mayor, un ancestro, un kahuna o un s
 
 A pesar de ser un héroe no encarna ninguna virtud heroica clásica, solo su amor por sus pequeños riokes. Es un granuja pendenciero, fullero, zalamero, embustero y embaucador que a todos molesta y de todos se ríe, desde el humilde pescador hasta la poderosa Pele.
 
+\sp
+
 Entre sus hazañas se cuentan.
 
 * Creó la isla pescándola con su anzuelo mágico y sacándola del agua con su poderosa fuerza o quizás pescó una ballena que se convirtió en una isla o era una tortuga gigante.
 * También engaño al gigante Hāʻupu para que se quedara quieto y de ahí se formó su islote. Se dice que jugaban al escondite en el agua y el gigante debía contar hasta diez, pero las olas le distraían y tenía que empezar de nuevo o igual eran lis tiburones que le mordían los pies. Como sea, paso tanto tiempo así, que se convirtió en piedra.
-
-\sp
-
 * Robo el fuego y se lo dio a los riokes o quizás fue a los ancestros. Igual lo intercambio por algo que la diosa quería y que él no le entregó.
 * Las aventuras sexuales de Mausi con todo tipo de seres de todo tipo de géneros también son legendarias, pero se reservan para cuando los niños se van a dormir.
 
@@ -161,8 +165,6 @@ Muchas veces son referidos en general como espíritus familiares, pero hay rioke
 Toman formas de animales comunes como pajarillos, insectos, caracoles, pequeños crustáceos, etc. y se aparecen en los lugares más insospechados ayudando a tus riokes con pequeños actos.
 
 Quizás un pajarillo cague en los ojos de la serpiente que está a punto de devorar a tus riokes o simplemente un caracol les haya seguido y haya dejado un rastro de baba hasta la salida del laberinto.
-
-\sc
 
 > Los aumakuas pueden llegar a convertirse en auténticos Deus ex machina y debes ser muy cauto a la hora de usarlos. No dejes que tus riokes se metan en líos y esperen que sus familiares les ayuden siempre. Si quieres mecanizarlo, conviértelo en una metamoneda. Cada vez que hagan algo muy valiente apunta en secreto una metamoneda y vete quitando una cada vez que les ayude un familiar.
 

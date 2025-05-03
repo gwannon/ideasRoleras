@@ -60,13 +60,14 @@ Los mapas han sido creados usando los iconos de [Mausritter hexcrawl tileset](ht
 *
 * Waterfall in mountains cartoon set of decorative elements for video game interface isolated on white background vector illustration by [macrovector](https://www.freepik.com/free-vector/waterfall-mountains-cartoon-set-decorative-elements-video-game-interface-isolated-white-background-vector-illustration_26760591.htm)
 * Forest Elements Concept by [macrovector](https://www.freepik.com/free-vector/forest-elements-concept_9457603.htm)
+* Hell landscape with lava for fantasy game vector by [upklyak](https://www.freepik.com/free-vector/hell-landscape-with-lava-fantasy-game-vector_365222226.htm)
+
+\sp
 
 \sinc
 
-&nbsp;
+# Otros proyectos
 
-## Otros proyectos que te pueden interesar
- 
 Si os ha gustado esta suplemento de Mausritter podéis probar otros de mis proyectos. Animaros y dadles un poco de cariño.
 
 &nbsp;
