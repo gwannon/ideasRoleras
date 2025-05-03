@@ -4,7 +4,7 @@
 
 \conc
 
-El día a día del asentamiento no es facil, pero el clima, la naturaleza y el mar ayudan mucho a que la vida sea buena y feliz para los riokes.
+El día a día del asentamiento no es fácil, pero el clima, la naturaleza y el mar ayudan mucho a que la vida sea buena y feliz para los riokes.
 
 En general la vida es muy parecida a otros asentamientos de Mausritter, con recolectores, granjeros y pescadores yendo a sus trabajos y diferentes artesanos en sus talleres. Hay mercados diarios en que se venden frutas, pescados, vegetales, etc. todos ellos fresquísimos.
 
@@ -41,16 +41,16 @@ Antiguamente, cada familia se dedicaba a recolectar sus cocos para vivir de ello
 
 Los kiores tienden a hacerse tatuajes en el interior de las orejas que tienen muy poco pelo. Los tatuajes tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee el roedor tatuado. 
 
-Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos.
+Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos.
 
 No cualquiera es tatuado, ese honor solo sé reserva a los roedores que han hecho cosas importantes para la comunidad donde viven.
 
-De normal los kiores llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
+De normal, los kiores llevan las orejas hacia atrás, pero es bastante común girarlas hacia delante y extenderlas lo máximo para mostrar los tatuajes que hay en ellas, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar a otros roedores.
 
 ### Surf
 
 ```
-Tangaloa nos enseño a construir tablas de surf y a usarlas para surcar las olas y por eso le veneramos. Sin el surf nuestras vidas estarían vacias y sin hopupu.
+Tangaloa nos enseñó a construir tablas de surf y a usarlas para surcar las olas y por eso le veneramos. Sin el surf nuestras vidas estarían vacías y sin hopupu.
 ```
 
 El surf es el deporte más practicado por los riokes. Es tan importante que los y las mejores surfistas son tratados como estrellas y viven simplemente de hacer surf.
@@ -79,9 +79,9 @@ Una de las ventajas de vivir en una isla es la escasa existencia de depredadores
 
 El principal depredador de la isla es la serpiente. Las serpientes pueden encontrarlas en la selva y las zonas de hierba de las praderas. Esto hace que sean sitios que los riokes tratan de evitar.
 
-El otro gran depredador es el águila marina que de normal pesca, pero en momentos de necesidad puede atacar a los riokes pescadores o que estén en la playa.
+El otro gran depredador es el halcón marino, que de normal pesca, pero en momentos de necesidad puede atacar a los riokes pescadores o que estén en la playa.
 
-Los tiburones serían una gran amenaza si no fuera porque los arrecifes que rodean la playa impiden su entrada en ella. Aun así cada temporada se ve alguna aleta sobresaliendo del agua.
+Los tiburones serían una gran amenaza si no fuera porque los arrecifes que rodean la playa impiden su entrada en ella. Aun así, cada temporada se ve alguna aleta sobresaliendo del agua.
 
 Los surfistas que van a las calas del cabo oeste si tienen que tener cuidado con ellos y suele ser normal que mientras hacen surf uno de ellos este en un lugar alto vigilando que no se acerque ningún escualo.
 
@@ -113,17 +113,17 @@ Los riokes rezan a una infinidad de divinidades y espíritus y estos son los pri
 * **Lono:** Este dios se asocia con la fertilidad, la agricultura, la lluvia, la música y la paz.
 * **Nāmaka.** Diosa del mar y las mareas.
 * **Hāʻupu.** Es el gigante que vivían en esta isla y que fue transformado en piedra creando el islote al oeste de la isla.
-* **Mausi:** Es un semi-dios mitad divinidad mitad kiore, protagonista muchos cuentos donde se dedica a engañar a riokes y dioses.
+* **Mausi:** Es un semi-dios, mitad divinidad, mitad kiore, protagonista de muchos cuentos donde se dedica a engañar a riokes y dioses.
 * **Kupuas:** Espíritus malignos y engañosos.
 * **Aumakuas:** Espíritus familiares protectores que se encarnan en animales. Cada familia de riokes reza a sus propios aumakuas.
 
-Las forma de adorar es muy variable desde pequeñas ceremonias donde se hacen ofrendas hasta complejos bailes hula. No existe una religión organizada con rituales, ceremonias y lugares de culto.
+Las forma de adorar es muy variable, desde pequeñas ceremonias donde se hacen ofrendas hasta complejos bailes hula. No existe una religión organizada con rituales, ceremonias y lugares de culto.
 
 Los kahunas o sacerdotes son reverenciados por su sabiduría y sus capacidades mágicas y curativas. Suelen ser consejeros del jefe del asentamiento.
 
 ### Pele, la diosa del fuego
 
-Los roedores del enclave adoran especialmente a Pele, la diosa del fuego que habita el volcán. Periódicamente les recuerda su poder con alguna erupción explosiva a algún río de lava.
+Los roedores del enclave adoran especialmente a Pele, la diosa del fuego que habita el volcán. Periódicamente, les recuerda su poder con alguna erupción explosiva a algún río de lava.
 
 Si algo define a Pele es su ira incontrolable y sus cambios de humor repentinos. Es un ser airado y todas sus actuaciones deberían estar relacionadas con estos rasgos de su personalidad.
 
@@ -133,7 +133,7 @@ A la hora de intervenir en las aventuras debería hacerlo a través del fuego, t
 
 Físicamente, no debería salir del cráter de su volcán y todos sus grandes actos deberían vincularse al volcán y los grandes peligros que este puede desatar.
 
-Pele puede considerarse una divinidad benévola mientras las adoras adecuadamente y les haces los suficientes sacrificios y ofrendas. Pero también es una divinidad malvada y peligrosa si no la rezas adecuadamente o si alguno de sus familiares la saca de sus casillas cosa que pasa casi siempre que la visitan.
+Pele puede considerarse una divinidad benévola mientras las adoras adecuadamente y les haces los suficientes sacrificios y ofrendas. Pero también es una divinidad malvada y peligrosa si no la rezas adecuadamente o si alguno de sus familiares la saca de sus casillas, cosa que pasa casi siempre que la visitan.
 
 Les kahunas de la isla creen que el gran cataclismo que acabo con los ancestros fue cosa de Pele, por algo que hicieron y que enfadó a la diosa.
 
@@ -143,18 +143,18 @@ Mausi es el héroe mitológico de todos los relatos fantásticos que narran a la
 
 Según versiones, es un semidiós, un kupua mayor, un ancestro, un kahuna o un simple rioke.
 
-A pesar de ser un héroe no encarna ninguna virtud heroica clásica, solo su amor por sus pequeños riokes. Es un granuja pendenciero, fullero, zalamero, embustero y embaucador que a todos molesta y de todos se ríe, desde el humilde pescador hasta la poderosa Pele.
+A pesar de ser un héroe, no encarna ninguna virtud heroica clásica, solo su amor por sus pequeños riokes. Es un granuja pendenciero, fullero, zalamero, embustero y embaucador que a todos molesta y de todos se ríe, desde el humilde pescador hasta la poderosa Pele.
 
 \sp
 
 Entre sus hazañas se cuentan.
 
 * Creó la isla pescándola con su anzuelo mágico y sacándola del agua con su poderosa fuerza o quizás pescó una ballena que se convirtió en una isla o era una tortuga gigante.
-* También engaño al gigante Hāʻupu para que se quedara quieto y de ahí se formó su islote. Se dice que jugaban al escondite en el agua y el gigante debía contar hasta diez, pero las olas le distraían y tenía que empezar de nuevo o igual eran lis tiburones que le mordían los pies. Como sea, paso tanto tiempo así, que se convirtió en piedra.
+* También engaño al gigante Hāʻupu para que se quedara quieto y de ahí se formó su islote. Se dice que jugaban al escondite en el agua y el gigante debía contar hasta diez, pero las olas le distraían y tenía que empezar de nuevo o igual eran los tiburones que le mordían los pies. Como sea, paso tanto tiempo así, que se convirtió en piedra.
 * Robo el fuego y se lo dio a los riokes o quizás fue a los ancestros. Igual lo intercambio por algo que la diosa quería y que él no le entregó.
 * Las aventuras sexuales de Mausi con todo tipo de seres de todo tipo de géneros también son legendarias, pero se reservan para cuando los niños se van a dormir.
 
-> Las historias de Mausi son incontables y de todo tipo. Si ves a tu grupo parado sin saber que hacer ante un desafío o enigma puedes darles una pista recordarles alguna de las hazañas rollo «Recordáis que de pequeño vuestra abuela os contaba que Mausi derrotó a un jabalí monstruoso atiborrándolo de mangos con jugo de kaba».
+> Las historias de Mausi son incontables y de todo tipo. Si ves a tu grupo parado sin saber qué hacer ante un desafío o enigma puedes darles una pista, recordarles alguna de las hazañas rollo «Recordáis que de pequeño vuestra abuela os contaba que Mausi derrotó a un jabalí monstruoso atiborrándolo de mangos con jugo de kaba».
 
 ### Aumakuas, espíritus familiares
 
@@ -166,12 +166,12 @@ Toman formas de animales comunes como pajarillos, insectos, caracoles, pequeños
 
 Quizás un pajarillo cague en los ojos de la serpiente que está a punto de devorar a tus riokes o simplemente un caracol les haya seguido y haya dejado un rastro de baba hasta la salida del laberinto.
 
-> Los aumakuas pueden llegar a convertirse en auténticos Deus ex machina y debes ser muy cauto a la hora de usarlos. No dejes que tus riokes se metan en líos y esperen que sus familiares les ayuden siempre. Si quieres mecanizarlo, conviértelo en una metamoneda. Cada vez que hagan algo muy valiente apunta en secreto una metamoneda y vete quitando una cada vez que les ayude un familiar.
+> Los aumakuas pueden llegar a convertirse en auténticos Deus ex machina y debes ser muy cauto a la hora de usarlos. No dejes que tus riokes se metan en líos y esperen que sus familiares les ayuden siempre. Si quieres mecanizarlo, conviértelo en una metamoneda. Cada vez que hagan algo muy valiente, apunta en secreto una metamoneda y vete quitando una cada vez que les ayude un familiar.
 
 ### Kupuas, espíritus diabólicos
 
 Los kupuas cubren un amplio espectro de seres mágicos que van desde los simplemente traviesos y burlones, hasta los diabólicos y malvados.
 
-Normalmente, pueden transformarse en algún tipo de animal que les otorga poderes como nadar muy rápido transformándose en pez espada, cuyo pico puede usar como arma.
+Normalmente, pueden transformarse en algún tipo de animal que les otorga poderes, como nadar muy rápido transformándose en pez espada, cuyo pico puede usar como arma.
 
 También son famosos por ser muy diestros en algún tipo de artesanía, arte u otra actividad. Puede que sea un gran tejedor de hojas de palma, surfista, buscador de agua o escalador.

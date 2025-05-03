@@ -4,7 +4,7 @@
 
 \conc
 
-En la época de los ancestros los espíritus vivían entre los roedores, pero cuando ocurrió el cataclismo, se refugiaron dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
+En la época de los ancestros, los espíritus vivían entre los roedores, pero cuando ocurrió el cataclismo, se refugiaron dentro de diferentes elementos naturales como árboles, piedras, conchas marinas o incluso lava solidificada.
 
 Los grandes kahunas de los ancestros que sobrevivieron aprendieron a crear con esos materiales unas máscaras tiki que tienen poderes mágicos según los espíritus que habitan dentro, pero ese conocimiento se perdió hace mucho tiempo y ahora solo se pueden conseguir buscando en lugares peligrosos y antiguos.
 
@@ -46,7 +46,7 @@ Si el tabú es encender siempre un fuego cuando descansas, otra opción sería q
 
 ### Identificando la máscara
 
-Las mascarás tienes formas y elementos reconocibles de forma que su hechizo y el nombre del dios invocador es facil de averiguar. 
+Las mascarás tienes formas y elementos reconocibles, de forma que su hechizo y el nombre del dios invocador es fácil de averiguar. 
 
 \sp
 
@@ -68,7 +68,7 @@ Para restaurar al espíritu de la máscara debes cumplir una condición que devu
 
 ### Hechizos
 
-Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos con el manual básico, tiene otros nuevos adaptados a la vida cerca del mar, como el **Don de Nāmaka** (Respirar bajo el agua), o en la falda de volcanes, como **Bendición de Pele** (Inmunidad calor y fuego).
+Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos con el manual básico, tiene otros nuevos adaptados a la vida cerca del mar, como el **Don de Nāmaka** (Respirar bajo el agua), o en la falda de volcanes, como **Bendición de Pele** (Inmunidad al calor y al fuego).
 
 \sinc
 

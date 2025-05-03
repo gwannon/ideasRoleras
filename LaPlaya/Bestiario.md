@@ -23,7 +23,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Ataques:** d8, según su forma actual varía su ataque
 * **Forma actual**
   1. **Rioke:** Suele ser alguien conocido, ataque con algún tipo de arma rioke
-  2. **Gecko:** Trepa por todas partes incluso bocabajo, ataque de mordisco
+  2. **Gecko:** Trepa por todas partes, incluso bocabajo, ataque de mordisco
   3. **Camaleón:** Nada escapa de su visión, ataque de lengua
   4. **Lagarto:** Corren a gran velocidad, ataque de mordisco
   5. **Salamandra:** Puede respirar bajo el agua y nadar a gran velocidad, coletazo como ataque
@@ -105,10 +105,10 @@ Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a bu
 * **Armadura** 2
 * **Ataques:** colmillos d6 (d8 si corre y carga) 
 * **Está buscando**
-  1. **Agua para beber:** Les pedirá su agua (u otros líquidos) o les atacará. Si les dan agua cada rioke pierde un uso de las raciones.
-  2. **Barro para remozarse:** XXX
+  1. **Agua para beber:** Les pedirá su agua (u otros líquidos) o les atacará. Si les dan agua, cada rioke pierde un uso de las raciones.
+  2. **Barro para remozarse:** Pasará de largo sin preocuparse de los riokes, lo único que quiere es refrescarse en el barro.
   3. **Árbol adecuado para rascarse:** Solo necesita que le rasquen en ese punto que no llega.
-  4. **Frutas:** Si llevan raciones con dibujos de fruta, las olerá y exigirá que se las den o les atacará. Si les dan agua cada rioke pierde un uso de las raciones.
+  4. **Frutas:** Si llevan raciones con dibujos de fruta, las olerá y exigirá que se las den o les atacará. Si les dan agua, cada rioke pierde un uso de las raciones.
   5. **Bronca:** Simplemente busca bronca para divertirse, huirá cuando alguna estadística baje de la mitad.
   6. **Colmillo roto:** Es miembro del Colmillo Roto y atacará a los riokes.
 

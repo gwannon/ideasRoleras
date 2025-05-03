@@ -80,9 +80,9 @@ La madera es un elemento fundamental en la vida de los kiores, es abundante, fá
 
 \sp
 
-Lo mismo pasa con la hoja de palma que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
+Lo mismo pasa con la hoja de palma,s que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
 
-De hecho **a la hora de construir** no hay cavadores y trabajadores, sino **leñadores/tejedores de hoja de palma y carpinteros**.
+De hecho, **a la hora de construir** no hay cavadores y trabajadores, sino **leñadores/tejedores de hoja de palma y carpinteros**.
 
 Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u hojalatero, no existen. En su lugar tenemos varios trasfondos basados en el trabajo de la piedra, tanto para construcción como decorativos.
 
@@ -123,7 +123,7 @@ Los nombres sirven para personajes femeninos, masculinos y no binarios, como les
 
 Enfadar a los dioses y a los espíritus tiene un precio y tu roedor puede acabar «Maldito».
 
-Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
+Un roedor con la condición **maldito** tiene desventaja en todas las tiradas que haga. Si de normal tuviera ventaja, pierde la ventaja y hace una tirada normal. Las tiradas con desventajas no se modifican.
 
 Para quitarse la condición de «Maldito» debe hacerse un descanso completo y hacer algún tipo de ceremonia para pedir perdón al espíritu. Puede ser cosas como:
 

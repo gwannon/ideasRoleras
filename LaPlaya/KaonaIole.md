@@ -12,7 +12,7 @@ Estas ratas llegaron hace siglos de otras islas, seguramente en embarcaciones de
 
 Entonces un gran cataclismo sacudió la isla, probablemente un terremoto y/o una erupción volcánica y acabó con toda esa civilización que ahora es conocida como los ancestros.
 
-Los pocos supervivientes se trasladaron a la playa y como pudieron fueron prosperando hasta el día de hoy.
+Los pocos supervivientes se trasladaron a la playa y como pudieron, fueron prosperando hasta el día de hoy.
 
 Las familias más poderosas de los supervivientes se convirtieron en «matais», la clase dirigente de Kaona Iole y hoy en día siguen dirigiendo esta comunidad.
 
@@ -20,11 +20,11 @@ Las familias más poderosas de los supervivientes se convirtieron en «matais»,
 
 Kaona Iole está situada en la cara sur de la isla, en la playa más grande de la isla, ya que el norte son acantilados y en la costa este y oeste solo hay pequeñas calas.
 
-En el asentamiento vivirán unas 40 o 50 familias cada uno con su choza. La comunidad además tiene algunos edificios comunales que se usan de colegio, salas de reuniones, etc. 
+En el asentamiento vivirán unas 40 o 50 familias, cada uno con su choza. La comunidad además tiene algunos edificios comunales que se usan de colegio, salas de reuniones, etc. 
 
-Debido al buen tiempo que hay en la isla la mayoría de las actividades sociales son al aire libre en la playa, bailes hula, comidas, juegos, concursos de surf, etc.
+Debido al buen tiempo que hay en la isla, la mayoría de las actividades sociales son al aire libre en la playa, bailes hula, comidas, juegos, concursos de surf, etc.
 
-Kaona Iole es un puerto natural muy seguro para todo tipo de embarcaciones si consigues atravesar sus arrecifes. Incluso durante tormentas y tifones los barcos están bastante seguros, aunque si pueden sufrir daños, pero no ser hundidos.
+Kaona Iole es un puerto natural muy seguro para todo tipo de embarcaciones si consigues atravesar sus arrecifes. Incluso durante tormentas y tifones, los barcos están bastante seguros, aunque si pueden sufrir daños, pero no ser hundidos.
 
 Aunque a los kiores les puedan parecer una isla inmensa, para los humanos no es más que un islote volcánico sin interés. Es por ello que nunca lo han colonizado. Han pasado cerca con sus catamaranes, pero nunca han desembarcado.
 
@@ -46,9 +46,9 @@ La playa es un fantástico arenal de aguas transparentes y azules con unas buena
 
 [![Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector](./images/chozas.png "Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector")](https://www.freepik.com/free-vector/tropic-rest-flat-icons-set-bungalow-equipment-beach-vacation-isolated-vector-illustration_26765555.htm "Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by macrovector")
 
-Como tal, el poblado de Kaona Iole se encuentra en la playa y la mayoría de las casas de maderas de los riokes de la isla se encuentran en una pequeña franja de tierra y césped que hay entre la arena de la playa y la selva. A está franja nunca llega la marea y está lo suficientemente alejado de la selva para que nada pueda salir de ella sin ser visto.
+Como tal, el poblado de Kaona Iole se encuentra en la playa y la mayoría de las casas de maderas de los riokes de la isla se encuentran en una pequeña franja de tierra y césped que hay entre la arena de la playa y la selva. A esta franja nunca llega la marea y está lo suficientemente alejado de la selva para que nada pueda salir de ella sin ser visto.
 
-Las estructuras temporales se suelen montar ya en la arena donde es más facil fijar estructuras al suelo. Se suelen montar el mercado, los festivales, comidas populares, bodas y demás celebraciones y, aunque normalmente no llega allí el mar, alguna vez ha habido sorpresas con las mareas.
+Las estructuras temporales se suelen montar ya en la arena, donde es más fácil fijar estructuras al suelo. Se suelen montar el mercado, los festivales, comidas populares, bodas y demás celebraciones y, aunque normalmente no llega allí el mar, alguna vez ha habido sorpresas con las mareas.
 
 La playa está protegida por dos colinas cubiertas de hierba y palmeras que quitan gran cantidad de viento a la playa. En la colina este es donde se ubica la atalaya (8.).
 
@@ -56,9 +56,9 @@ Al lado este de la playa hay una gran cantidad de palmeras cocoteras donde gran 
 
 #### 2. Los arrecifes
 
-Una red de arrecifes **rodea la playa desde el cabo este al oeste** de forma que las aguas alrededor de la playa no dan a mar abierto. 
+Una red de arrecifes **rodea la playa desde el cabo este al oeste**, de forma que las aguas alrededor de la playa no dan a mar abierto. 
 
-Los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan facil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando. 
+Los arrecifes hacen que el oleaje no entre en la playa con tanta fuerte y que depredadores como tiburones no tengan fácil acercarse al arenal y depredar los riokes que allí estén pescando, recolectando moluscos o simplemente nadando o surfeando. 
 
 \sp
 
@@ -70,21 +70,21 @@ Pero también tiene sus problemas, ya que es muy difícil salir de la isla con g
 
 Hāʻupu era un gigante que vivía en estas islas que expulsaba a los intrusos lanzando grandes piedras desde la playa. Fue engañado por Mausi para quedarse quieto en la playa y paso tanto tiempo allí que se convirtió en piedra y formo este islote.
 
-El islote no es un lugar tabú, pero casi lo es. Nadie quiere acercarse ni surfear, ni pescar cerca, ni nada. Se considera que es un lugar de mal agujero, pero nadie conoce ninguna historia que lo verifique, simplemente lo es.
+El islote no es un lugar tabú, pero casi lo es. Nadie quiere acercarse, ni surfear, ni pescar cerca, ni nada. Se considera que es un lugar de mal agujero, pero nadie conoce ninguna historia que lo verifique, simplemente lo es.
 
-Las crías jóvenes de rioke suelen jugar a ver quien se acerca más al islote nadando y permanece allí más tiempo. Es una especie de prueba de valor y un rito de paso de la niñez a la adolescencia.
+Las crías jóvenes de rioke suelen jugar a ver quién se acerca más al islote nadando y permanece allí más tiempo. Es una especie de prueba de valor y un rito de paso de la niñez a la adolescencia.
 
 Durante las mareas vivas el agua baja tanto que puede llegarse al islote andando, pero como ya hemos dicho nadie se acerca.
 
 #### 4. La selva
 
-El interior de la isla, quitando es volcán es una densa y oscura selva en la que los riokes no suelen adentrarse. Prefieren ir por la costa si necesitan ir a los cabos o al norte de la isla.
+El interior de la isla, quitando es volcán, es una densa y oscura selva en la que los riokes no suelen adentrarse. Prefieren ir por la costa si necesitan ir a los cabos o al norte de la isla.
 
-En ella habitan todo tipo de depredadores, que no dudarán en atacar y devorar a nuestros héroes. Pero también es fruto de grandes riquezas tanto en forma de materias primas de calidad como de reliquias y objetos maravillosos que se pueden encontrar en sus ruinas ancestrales.
+En ella habitan todo tipo de depredadores, que no dudarán en atacar y devorar a nuestros héroes. Pero también es fruto de grandes riquezas, tanto en forma de materias primas de calidad como de reliquias y objetos maravillosos que se pueden encontrar en sus ruinas ancestrales.
 
 Antaño los ancestros construyeron en ella todo tipo de estructuras, pero si sobrevivieron a cataclismo, ahora no son más que montones de piedras ruinosas y cubiertas de vegetación selvática.
 
-> Gran parte de las aventuras en la isla tendrá que explorar partes de la selva y es interesante que sea algo vivo, que cuando vuelvan a adentrarse en ella, aunque sea un sitio conocido haya cambios. Quizás haya huellas de animales distintos, el vado que usaban para pasar un arroyo haya desaparecido o unas lluvias torrenciales hayan sacado a la luz nuevas ruinas de los ancestros.  
+> Gran parte de las aventuras en la isla tendrá que explorar partes de la selva y es interesante que sea algo vivo, que cuando vuelvan a adentrarse en ella, aunque sea un sitio conocido, haya cambios. Quizás haya huellas de animales distintos, el vado que usaban para pasar un arroyo haya desaparecido o unas lluvias torrenciales hayan sacado a la luz nuevas ruinas de los ancestros.  
 
 #### 5. El volcán
 
@@ -92,7 +92,7 @@ En el centro se sitúa un gran volcán en activo. El cráter central del volcán
 
 Es un sitio cámbiente y peligroso donde tendrás que enfrentarte a calor infernal, fuego, lava, desprendimientos, gases tóxicos y vapores incandescentes.  
 
-En invierno si no está activo la cumbre se llena de nieve. Se cuenta que los ancestros subían allí a conseguir hielo.
+En invierno, si no está activo, la cumbre se llena de nieve. Se cuenta que los ancestros subían allí a conseguir hielo.
 
 Las faldas del volcán están rodeadas de praderas y desde sus laderas discurren algunos riachuelos que crean cascadas naturales y que llegan hasta el mar.
 
@@ -104,21 +104,19 @@ En esta atalaya se encuentra un pututu, una concha de caracol de mar gigante, qu
 
 \sp
 
-En caso de ataques enemigos y de depredadores terrestres o marinos también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y selvas cercanas.
+En caso de ataques enemigos y de depredadores terrestres o marinos, también se hace sonar para avisar a la gente del poblado, la gente que esté en la playa e incluso a los que están en las praderas y selvas cercanas.
 
 #### 7. Cabo oeste
 
 Esta zona de la isla es poco visitada, debido a su nulo interés comercial o de ocio. Solo es visitado por los riokes en situaciones muy específicas y esas no se dan normalmente.
 
-En el macizo de piedra que forma el cabo oeste hay una red de cavidades naturales, llamadas las «cuevas de los ancestros». En caso de desastre se usan de refugio pero solo las cavidades más externas.
+En el macizo de piedra que forma el cabo oeste hay una red de cavidades naturales, llamadas las «cuevas de los ancestros». En caso de desastre se usan de refugio, pero solo las cavidades más externas.
 
-Se suponen que las salas más internas de estas cavernas están habitadas por los espectros de los ancestros, espíritus de ancestros muertos que protegen los secretos y los tesoros de estas cavernas. Así que adentrarse en el interior de las cavernas es tabú, está prohibido. Las leyendas hablan de riquezas y magia poderosa en su interior, pero por ahora nadie ha querido adentrarse o sí lo ha hecho ha vuelto para contarlo.
+Se suponen que las salas más internas de estas cavernas están habitadas por los espectros de los ancestros, espíritus de ancestros muertos que protegen los secretos y los tesoros de estas cavernas. Así que adentrarse en el interior de las cavernas es tabú, está prohibido. Las leyendas hablan de riquezas y magia poderosa en su interior, pero por ahora nadie ha querido adentrarse o si lo ha hecho, no ha vuelto para contarlo.
 
 #### 8. Cabo este
 
-Como es el cabo oeste tampoco es muy transitado, pero es un lugar muy apreciado por surfistas y pescadores con lo que hay algo más de movimiento.
-
-Al estar más abierto
+Como es el cabo oeste tampoco es muy transitado, pero es un lugar muy apreciado por surfistas y pescadores, con lo que hay algo más de movimiento. Al estar más abierto sí puede haber ataques de depredadores marinos.
 
 El cabo este es el mejor lugar de la isla para coger olas gracias al viento del este y los jóvenes surfistas suelen hacer excursiones a esta zona para pillar olas. No es raro si pasas por esta zona encontrarse pequeños campamentos en sus pequeñas calas.
 
@@ -128,7 +126,7 @@ El cabo este es el mejor lugar de la isla para coger olas gracias al viento del 
 Las canoas están seguras en la playa, pero no fue para lo que se crearon.
 ```
 
-Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además es un entorno cambiante y lo que ayer estaba en una casilla puede haber desaparecido la siguiente vez.
+Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además, es un entorno cambiante y lo que ayer estaba en una casilla puede haber desaparecido la siguiente vez.
 
 La cercanía del mar hace que la comunidad de Kaona Iole tenga un aire pesquero con redes de pesca por todas partes, embarcaciones en la playa, olor a salitre y pescado, algas secándose al sol y tablas de surf clavadas en la arena.
 
@@ -142,7 +140,7 @@ Quién dice que los ancestros no montaron un motor de energía geotermal para su
 
 \sp
 
-Podemos decir que es una mezcla de Mordor, por el mal que puede expandir por la isla y los peligros que encierra, y del Olimpo, por ser el hogar de la diosa Pele y de otros dioses y diosas de su familia que le visitan. De hecho cuando el volcán está nevado se dice que Poliʻahu está de visita.
+Podemos decir que es una mezcla de Mordor, por el mal que puede expandir por la isla y los peligros que encierra, y del Olimpo, por ser el hogar de la diosa Pele y de otros dioses y diosas de su familia que le visitan. De hecho, cuando el volcán está nevado se dice que Poliʻahu está de visita.
 
 Recuerda que, no es solo el hogar de dioses, también hay infinidad de kupuas menores de todas formas y tamaños que viven en sus laderas y cráteres. Esto permite sacar una gran variedad de enemigos para que tus riokes no se aburran.
 

@@ -28,8 +28,8 @@ El océano es un elemento fundamental de la vida de los kiores. Es una fuente de
 La exploración de zonas marítimas exige tener embarcaciones adecuadas. 
 
 * A pie o nadando solo puedes explorar playas.
-* Con tablas de surf solo puedes explorar playas.
-* Con canoas solo playas, islotes y arrecifes. 
+* Con tablas de surf solo puedes explorar playas y arrecifes.
+* Con canoas, solo playas, islotes y arrecifes. 
 * Para salir a mar abierto necesitas embarcaciones preparadas como un catamarán.
 
 |1d6|Tipo|
@@ -45,7 +45,7 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (k
 
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
-Si viajas con resultados de clima en negrita cada ratón debe pasar una salvación de FUE o quedará Cansado.
+Si viajas con resultados de clima en negrita, cada ratón debe pasar una salvación de FUE o quedará Cansado.
 
 \sp
 
@@ -94,7 +94,7 @@ El invierno (hooilo) va de noviembre a abril. En invierno la temperatura promedi
 ### La niebla de Pele
 
 ```
-Ves esa niebla oscura que baja de la montaña sagrada y que hace el aire irrespirable, eso quiere decir que Pele tiene un mal día. Cuando nosotros tenemos un mal día pues te aguantas y sigues adelante. Cuando una divinidad tiene un mal día, el resto lo sufrimos.
+Ves esa niebla oscura que baja de la montaña sagrada y que hace el aire irrespirable, eso quiere decir que Pele tiene un mal día. Cuando nosotros tenemos un mal día, pues te aguantas y sigues adelante. Cuando una divinidad tiene un mal día, el resto lo sufrimos.
 ```
 
 Los Volcanes, sobre todo los activos, pueden entre muchas otras cosas expulsar diferentes productos sólidos, líquidos y gaseosos. 
@@ -109,7 +109,7 @@ Tradicionalmente, se cuenta que la diosa del fuego Pele, que vive en el cráter 
 
 \sp
 
-Si no la aplacan su ira crecerá y hará que su volcán lance piroclastos, expulse ríos de lava y emanen nubes de gas.
+Si no la aplacan, su ira crecerá y hará que su volcán lance piroclastos, expulse ríos de lava y emanen nubes de gas.
 
 La vulcanología dice que las nieblas de Pele son normales en los volcanes del pacífico y típicos cuando están activos, con lo que es normal que tarde o temprano entren en erupción.
 
@@ -144,7 +144,7 @@ Cerca de las faldas de las montañas y de las playas suele haber praderas que lo
 |2|Un nido de mapuches (gallinas salvajes) con huevos|
 |3|Ruinas de los ancestros|
 |4|Huellas de serpiente|
-|5|Una águila marina sobrevuela la pradera|
+|5|Un halcón marino sobrevuela la pradera|
 |6|Un cerdo salvaje furioso cargando hacia vosotros|
 
 ### Encuentros río
@@ -172,7 +172,7 @@ Los encuentros en el volcán tienen siempre un carácter mágico y divino, ya qu
 |---|---|
 |1|Una caverna que lleva al interior del volcán|
 |2|El terreno sobre vuestros pies salta por los aires, quizás aterrices cerca o puede que acabes en el agua de mar.|
-|3|Un río de lava os corta el camino|
+|3|Un géiser de lava surge delante vuestros, salvación de DES o 1d8 de daño|
 |4|1d4 kupuas danzando y bailando alrededor de una estatua de un tiki desconocido|
 |5|Del suelo sale varios chorros de gas tóxico y corrosivo|
 |6|1d4 kupuas discuten con otro grupo de 1d4 kupuas alrededor de un roedor inconsciente|
@@ -218,7 +218,7 @@ En estos pequeños islotes que rodean la isla puedes encontrarte lo que sea, per
 
 ### Encuentros mar abierto
 
-Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las tormentas y los tifones son muy peligrosos y tu embarcación es una presa facil para tiburones. Pero solo podrás llegar a otras islas y vivir grandes aventuras si sales a mar abierto.
+Si estar preparado el mar abierto puede ser tan peligrosa como un volcán. Las tormentas y los tifones son muy peligrosos y tu embarcación es una presa fácil para tiburones. Pero solo podrás llegar a otras islas y vivir grandes aventuras si sales a mar abierto.
 
 |1d6|Encuentro mar abierto|
 |---|---|

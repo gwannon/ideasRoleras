@@ -14,7 +14,7 @@ Desde su nacimiento, los riokes están relacionados con el mar. La matrona tras 
 
 #### Nadar y bucear
 
-Los riokes son fantásticos nadadores así que en principio nadar y bucear no es una acción arriesgada así que no exige ninguna tirada. En caso de tener que nadar durante mal tiempo o resaca podrías tirar una tirada de salvación de FUE. Si caen al agua, en situaciones muy excepcionales, como grandes tormentas o tifones, tendrán que tirar con desventaja. En casa de fallar la tirada de salvación de FUE reciben 1d6 de daño de fuerza.
+Los riokes son fantásticos nadadores, así que en principio nadar y bucear no es una acción arriesgada por lo que no exige ninguna tirada. En caso de tener que nadar durante mal tiempo o resaca podrías tirar una tirada de salvación de FUE. Si caen al agua, en situaciones muy excepcionales, como grandes tormentas o tifones, tendrán que tirar con desventaja. En casa de fallar la tirada de salvación de FUE reciben 1d6 de daño de fuerza.
 
 A la hora de bucear tampoco tienen problemas. Pueden pescar, recoger coral, etc. sin ningún problema y solo deben tirar si quieren hacer algún tipo de proeza como abrir una ostra para sacar una perla o rescatar algún tesoro hundido.  
 
@@ -66,6 +66,6 @@ Te diviertes con esto, ehhh. Pues has aprobado ... Vamos a hacer surf.
 
 Las regatas de embarcaciones son muy comunes entre los riokes y suelen ser largos viajes entre islas o alrededor de una. Gana el que llega antes al destino y suelen durar varios días.
 
-Con estas carreras buscan entrenar a los más jóvenes del poblado en las artes marineras y el trabajo en equipo. Para temas más individualistas la gente prefiere las competiciones de surf.
+Con estas carreras buscan entrenar a los más jóvenes del poblado en las artes marineras y el trabajo en equipo. Para temas más individualistas, la gente prefiere las competiciones de surf.
 
 No hay reglas ni mecánicas para este tipo de carreras, sino que son propiamente aventuras de exploración y puedes usarlas como semillas de aventura.

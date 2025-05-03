@@ -8,7 +8,7 @@
 
 MausTiki tiene sus propios objetos de inventario, adaptados a las características de las islas del Pacífico, a su clima y a los materiales que en ella se puede encontrar.
 
-Como ya hemos dicho en apartados anteriores puedes hacer uso del equipo del manual básico de Mausritter, sobre todo si metes roedores de más allá del mar en tus aventuras.
+Como ya hemos dicho en apartados anteriores, puedes hacer uso del equipo del manual básico de Mausritter, sobre todo si metes roedores de más allá del mar en tus aventuras.
 
 Un punto importante del equipo es que el metal no es desconocido para los kiores, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera.
 
@@ -56,7 +56,7 @@ Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se
 
 #### Armadura de placas de coco (150 ca)
 
-Está armadura aprovecha las fibras del coco para crear un camisote robusto sobre el que se cosen láminas de corteza de coco. Viene acompañado de una rodela hecha de media coco.
+Esta armadura aprovecha las fibras del coco para crear un camisote robusto sobre el que se cosen láminas de corteza de coco. Viene acompañado de una rodela hecha de media coco.
 
 > Ocupa una casilla de cuerpo y pata secundaria. Flota, debido a sus fibras, pero no puedes sumergirte.
 
@@ -72,7 +72,7 @@ La armadura hecha con piezas de exoesqueleto de cangrejo es la mejor y más avan
 
 Es ligera, flexible y altamente resistente. Y lo más importante para unos roedores que pasan mucho tiempo en el mar. Se puede nadar con ellas o si quieres sumergirte sin penalización.
 
-Al igual que la de conchas se aprovecha las curvas y las juntas de las piezas del exoesqueleto para hacer las diferentes partes de la armadura. Se usa el caparazón central para las placas pectorales y las pinzas y las articulaciones de las patas para brazos y piernas.
+Al igual que la de conchas, se aprovecha las curvas y las juntas de las piezas del exoesqueleto para hacer las diferentes partes de la armadura. Se usa el caparazón central para las placas pectorales y las pinzas y las articulaciones de las patas para brazos y piernas.
 
 > Ocupa dos casillas de cuerpo. Puedes nadar con ella o, si quieres, sumergirte.
 
@@ -108,7 +108,7 @@ Los kiores disponen de gran variedad de embarcaciones, pero principalmente usan 
 
 #### Canoa (120 ca)
 
-Está embarcación tallada del tronco de un árbol, permite una tripulación de 3 kiores, dos remando más un tercer pasajero. 
+Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 kiores, dos remando más un tercer pasajero. 
 
 Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, animales, geométricos o mitológicos. Es el medio de transporte principal y sirve tanto en el mar como en los ríos.
 
@@ -122,7 +122,7 @@ Estos navíos se caracterizan por tener dos o más cascos paralelos y de la mism
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
 
-Según el tamaño podría permitir desde 4 a 20 roedores con su equipaje y agua y comida para un largo viaje.
+Según el tamaño, podría permitir desde 4 a 20 roedores con su equipaje y agua y comida para un largo viaje.
 
 De hecho, son los navíos con los que los kiores han ido explorando todas las islas del Pacífico.
 

@@ -28,7 +28,7 @@ Deberían acabar dentro de la niebla y sufrir sus efectos para que empiecen a pr
 
 ### La decisión de les kahunas
 
-Los riokes se reunirán en la atalaya que quedará por encima de las nieblas. Tras los primeros instantes de desconcierto, matai Mahuru se reunirá con sus consejeres, les 3 kahunas. Tras varias horas de deliberaciones Mahuru se acercará a su pueblo y les dirá solemnemente:
+Los riokes se reunirán en la atalaya que quedará por encima de las nieblas. Tras los primeros instantes de desconcierto, matai Mahuru se reunirá con sus consejeres, les 3 kahunas. Tras varias horas de deliberaciones, Mahuru se acercará a su pueblo y les dirá solemnemente:
 
 ```
 He consultado a los kahunas y hemos deducido que hemos enfadado a la diosa con nuestros actos. Creemos que debemos buscar y consultar a la añeja Lamor para que nos diga que debemos hacer para recuperar el favor de la diosa. Aquellos y aquellas que sean lo suficientemente valientes para intentar esta gesta que den un paso al frente.
@@ -48,7 +48,9 @@ Matai Mahuru pedirá voluntarios para cumplir esta gran misión. Si no llega al 
 
 \conc
 
-Tu grupo de riokes deberá prepararse para el viaje. Les darán víveres para ir y volver al cabo este. Les dirán que la añeja Lamor estará en alguna cala, pero no pueden estar seguro de en cuál. Deberán explorar cada casilla a ver si está Lamor en ellas.
+Tu grupo de riokes deberá prepararse para el viaje. Les darán víveres para ir y volver al cabo este. Les dirán que la añeja Lamor estará en alguna cala, pero no pueden estar seguro de en cuál.
+
+Deberán explorar cada casilla de playa (amarillas) y arrecifes e islotes (azules) a ver si está Lamor en ellas. Necesitarán tablas de surf para las azules, quizás los surfistas se las dejen o tengan que construirse algo.
 
 La ubicación la añeja Lamor no es fija y tus roedores deberán explorar las playas y calas del cabo este de la isla para encontrarla. Deberán llegar hasta una zona de playa y allí explorar esas zonas y tirar en la tabla de encuentros.
 
@@ -58,8 +60,10 @@ La ubicación la añeja Lamor no es fija y tus roedores deberán explorar las pl
 |2|1d4 cangrejos de especies aleatoria|
 |3|Un grupo de kiores surfistas que pueden saber algo, la próxima tirada de encuentro pueden repetirla.|
 |4|Almejas de excelente calidad (50 ca)|
-|5|Águila marina se lanza sobre ellos|
+|5|Halcón marina se lanza sobre ellos|
 |6|La añeja Lamor|
+
+\sc
 
 ### La añeja Lamor
 
@@ -68,7 +72,7 @@ La añeja Lamor es una gigantesca tortuga laúd de más de 200 años. Ha vivido 
 Como tortuga ya habla y reacciona muy lentamente, pero es que además está ya muy mayor y cuando se habla con ella habla todavía más lento hasta ser desesperante.
 
 ```
-Ohhh pequeños riokes, no es la primera ni la ultima vez que enfadaréis a la diosa Pele y por el cambio de estación creo saber que la ha hecho enfadar. Todos los años entre el kau (verano) y el hooilo (invierno) hacéis una ofrenda a la diosa. Seguramente esa ofrenda la ha ofendido de alguna manera. Seguramente el tocado de plumas no ha sido de su gusto. Deberéis y rápido ascender a su volcán, pedirle perdón y ofrecerle alguna satisfacción.
+Ohhh pequeños riokes, no es la primera ni la última vez que enfadaréis a la diosa Pele y por el cambio de estación creo saber que la ha hecho enfadar. Todos los años entre el kau (verano) y el hooilo (invierno) hacéis una ofrenda a la diosa. Seguramente esa ofrenda la ha ofendido de alguna manera. Seguramente el tocado de plumas no ha sido de su gusto. Deberéis y rápido ascender a su volcán, pedirle perdón y ofrecerle alguna satisfacción.
 ```
 
 Tras lo cual se sumergerá de nuevo en el agua para seguir con sus cosas de tortugas.
@@ -78,8 +82,6 @@ Tras lo cual se sumergerá de nuevo en el agua para seguir con sus cosas de tort
 \sinc
 
 ## Camino al volcán
-
-&nbsp;
 
 \conc
 
@@ -91,7 +93,7 @@ Tus riokes **empezarán en la casilla 14** y deberían llegar hasta la **casilla
 
 ### El Moʻo del río
 
-La selva es recorrida por un riachuelo que empieza en una cascada de las faldas del volcan. Esa cascada y un remanso más adelante del riachuelo lo frecuenta 
+La selva es recorrida por un riachuelo que empieza en una cascada de las faldas del volcan. Esa cascada y un remanso más adelante del riachuelo lo frecuenta une Moʻo llamada Iaolone que suele hacerse pasar por une belle rioke que se baña desnude en sus aguas.
 
 Gusta de atraer y seducir a riokes a sus aguas y hacerles perder el tiempo. No tiene malas intenciones, pero es muy vanidose y le gusta tener a roedores alagándole y deleitarles con sus encantos.
 
@@ -109,7 +111,7 @@ Si se la encuentran, no les dejará abandonar la casilla donde se encontraron. D
 
 \conc
 
-El volcán está en plena actividad, el calor el sofocante y mientras estén en el volcán tendrá el estado Cansado a pesar de los descansos. Esste descanso se puede acumular a otros descansos provocados por no descansar lo suficientemente bien.
+El volcán está en plena actividad, el calor el sofocante y mientras estén en el volcán tendrá el estado Cansado a pesar de los descansos. Este descanso se puede acumular a otros descansos provocados por no descansar lo suficientemente bien.
 
 En las zonas grises del mapa puedes usar la tabla de encuentros en el volcán del capítulo de exploración y en las de grieta con lava del centro esta tabla:
 
@@ -117,25 +119,25 @@ En las zonas grises del mapa puedes usar la tabla de encuentros en el volcán de
 
 |1d6|Encuentro en la casa de Pele|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|1|Piedras de obsidiana que al tallarse están superafiladas (200 ca)|
+|2|Empieza a llover cenizas y no se ve nada|
+|3|Un géiser de lava surge delante vuestros, salvación de DES o 1d8 de daño|
+|4|El suelo está lleno de agujas de basalto que no permiten correr|
+|5|Del suelo sale varios chorros de gas tóxico y corrosivo|
+|6|1d4 kupuas rezando a una estatua de un dios desconocido|
 
 \sp
 
 \sinc
 
-## La diosa airada
+## La diosa airada FALTA ORTOGRAFÍA
 
 \conc
 
 La diosa Pele les esperará con un grupo de sirvientes kupuas sentada en un trono de lava incandescente. Al verlos se levantará claramente airada y atronará:
 
 ```
-Bien, veo que habeis entendido el mensaje y habeís venido a pedir perdón. ¿Vosotros pensaisque este cutre tocado de plumas es digno de mí, vuestra diosa? ¿Acaso quereis convertirme en el hazmereir de mi familia?
+Bien, veo que habéis entendido el mensaje y habéis venido a pedir perdón. ¿Vosotros pensaisque este cutre tocado de plumas es digno de mí, vuestra diosa? ¿Acaso quereis convertirme en el hazmereir de mi familia?
 ```
 
 Cogerá el tocado que los kiores le ofrecieron con sus manos y en segundos arderá y se convertirá en cenizas. Continuará con su discurso:
@@ -192,7 +194,7 @@ La ira de Pele ha ido aumentando y con ello la orografía del volcán ha tenido 
 
 Lo único que no cambiará será el punto de entrada y la casilla donde está la diosa Pele
 
-Si no te interesa puede pasar directamente al siguiente apartado. Como otras veces, pueden pasar por el campamento provisional y aprovisionarse de víveres y dar parte de sus avances.
+Si no te interesa puede pasar directamente al siguiente apartado. Como otras veces, pueden pasar por el campamento provisional y aprovisionarse de víveres y dar parte de sus avances. También puede reclutar ayuda, hay riokes jóvenes deseosos de aventuras.
 
 \sinc
 
@@ -208,7 +210,7 @@ El final se acerca solo queda un último paso entregar la llama a Pele y podrán
 
 Antes de llegar ante la diosa Pele, un grupo de kupua del Fuego Purificador que quiere ver la isla destruida y convertida en un infierno tenderán una emboscada final a tu grupo de riokes.
 
-XXX
+Tantos Kupuas como riokes en tu grupo, 
 
 ### Los dones de la diosa
 
@@ -273,7 +275,7 @@ Si lo deseas podrían otorgarles algún tipo de **licencia para montar su choza 
 |3|**Tronco sobre el río**|
 |4|**Remanso del río:** Frecuentado por una Moʻo|
 |7|**Claro del bosque con una gran piedra en el centro:** Encima de la piedra hay un grabado de lo que parece un mapa del tesoro.|
-|8 |***Falda del volcán**|
+|8|***Falda del volcán**|
 |9|**Cascada** Frecuentado por una Moʻo|
 |12|**Cauce ancho del río**|
 |14|**Empiezan aquí**|
@@ -293,12 +295,12 @@ Si lo deseas podrían otorgarles algún tipo de **licencia para montar su choza 
 |Casilla|Descripción|
 |---|---|
 |2|**Trono de Pele**|
-|4|**Rio de lava**|
-|5|**Rio de lava**|
-|6|**Rio de lava**|
-|11|**Rio de lava**|
+|4|**Río de lava**|
+|5|**Río de lava**|
+|6|**Río de lava**|
+|11|**Río de lava**|
 |14|**Empiezan aquí**|
-|17|**Rio de lava**|
+|17|**Río de lava**|
 
 \conc
 
