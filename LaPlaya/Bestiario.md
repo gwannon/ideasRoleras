@@ -63,12 +63,12 @@ Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que
 * **Armadura** 6
 * **Ataques:** d8 mordisco
 * **Áreas de conocimiento**
-  1. **Tortuga laúd:** XXX
-  2. **Tortuga carey:** XXX
-  3. **Tortuga verde:** XXX
-  4. **Tortuga tora:** La tortuga marina más grande todas. XXX
-  5. **Tortuga paslama:** XXX
-  6. **XXX:** XXX
+  1. **Tortuga laúd:** De gran tamaño y muy longevas. Saben mucho de historia y mitología.
+  2. **Tortuga carey:** Su precioso caparazón las hace codiciadas. Saben de arte, música, baile, etc.
+  3. **Tortuga verde:** su zona de conocimiento es todo lo natural
+  4. **Tortuga tora:** La tortuga marina más grande todas. Son buenas escuchando y dando consejos a riokes con problemas.
+  5. **Tortuga paslama:** De las más pequeñas del mar, sabe mucho de secretos y de cosas de espionaje y latrocinio.
+  6. **Tortuga dragón:** Estas fieras tortugas son perfectos maestros de todo tipo de artes marciales y de combate con armas CaC.
   
 _&ast; En tierra/en el agua_
 
@@ -76,24 +76,28 @@ _&ast; En tierra/en el agua_
   
 ## Kupua menor
 
+[![Set of scary tribal tiki masks by freepik](./images/set-scary-tribal-tiki-masks_23-2147660565.png "Set of scary tribal tiki masks by freepik")](https://www.freepik.com/free-vector/set-scary-tribal-tiki-masks_1227673.htm "Set of scary tribal tiki masks by freepik")
+
 Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
 
 No son grandes espíritus, sino menores con ciertas capacidades mágicas relacionadas con su forma alternativa. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
 
+\sp
+
 Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
-* **PG** X, **FUE** X, **DES** X, **VOL** X
-* **Armadura** X
-* **Ataques:** XXX
+* **PG** 10, **FUE** X, **DES** X, **VOL** X
+* **Armadura** 0
+* **Ataques:** ataques variados 1d8, según transformación
 * **Se transforma**
-  1. **Halcón marino:** XXX
-  2. **Raya:** XXX
-  3. **Tiburón:** XXX
-  4. **Cerdo salvaje:** XXX
-  5. **Búho:** XXX
-  6. **Fuego:** XXX
+  1. **Halcón marino:** Vuelo y excelente vista
+  2. **Raya:** Nadar y respirar bajo el agua, cola afilada 1d10
+  3. **Tiburón:** Nadar y respirar bajo el agua, mordisco 1d10
+  4. **Cerdo salvaje:** 20 PG y armadura 2
+  5. **Búho:** Vuelo y visión en la oscuridad.
+  6. **Fuego:** Produce luz y fuego. Hechizo de Fuego de Pele (Bola de fuego).
 
-\sp
+&nbsp;
 
 ##  Cerdo salvaje
 
@@ -112,55 +116,64 @@ Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a bu
   5. **Bronca:** Simplemente busca bronca para divertirse, huirá cuando alguna estadística baje de la mitad.
   6. **Colmillo roto:** Es miembro del Colmillo Roto y atacará a los riokes.
 
-\sc
+&nbsp;
 
-## Espectros de los ancestros
+## Espectro de los ancestros
 
-XXX
+[![Hand drawn flat halloween ghosts collection pikisuperstar](./images/hand-drawn-flat-halloween-ghosts-collection_52683-73561.png "Hand drawn flat halloween ghosts collection pikisuperstar")](https://www.freepik.com/free-vector/hand-drawn-flat-halloween-ghosts-collection_18953697.htm "Hand drawn flat halloween ghosts collection pikisuperstar")
 
-* **PG** X, **FUE** X, **DES** X, **VOL** X
-* **Armadura** X
-* **Ataques:** XXX
-* **XXX**
-  1. **XXX:** XXX
-  2. **XXX:** XXX
-  3. **XXX:** XXX
-  4. **XXX:** XXX
-  5. **XXX:** XXX
-  6. **XXX:** XXX
+Los espectros de los ancestros son seres fantasmales que murieron durante el gran cataclismo y que protegen sus cuevas y ruinas. Tienen una vaga apariencia de rioke y de la apariencia y ropajes de cuando estaban vivos. Son sintientes y puedes hablar con ellos, pero muchas veces sus palabras y acciones no tienen mucho sentido.
+
+\sp
+
+Solo puede ser dañado por armas mágicas, hechizos o armas y munición hecha de sal de roca.
+
+* **PG** 8, **FUE** 8, **DES** 10, **VOL** 12
+* **Armadura** 0
+* **Ataques:** Poderes espectrales/1d8 toque espectral (daña VOL)
+* **Poderes espectrales**
+  1. **Mirada de terror:** Impone el Estado Asustado a una criatura
+  2. **Grito sónico:** 1d8 toque sónico (daña FUE)
+  3. **Crioquinesis:** 1d8 toque gélido (daña DES)
+  4. **Visiones:** Tienen visiones proféticas
+  5. **Vuelo:** No se le puede dañar CaC.
+  6. **Incorpóreo:** Flota a través de una pared o suelo, reaparece en otra parte
+
+\sinc
 
 &nbsp;
 
 ## Facciones
 
+\conc
+
 ### Colmillo roto
 
 #### Recursos
 
-* XXX
-* XXX
-* XXX
+* Brutos y fuertes combatientes
+* Gran número
+* Buenos sentidos
 
 #### Objetivos
 
-◯◯◯ XXX
+◯◯◯ Quedarse con los recursos y las riquezas de los riokes
 
-◯◯◯ XXX
+◯◯◯◯ Esclavizar kiores
 
-◯◯◯ XXX
+\sc
 
 ### Fuego Purificador
 
 #### Recursos
 
-* XXX
-* XXX
-* XXX
+* Poderosa magia
+* Conocimientos secretos
 
 #### Objetivos
 
-◯◯◯ XXX
+◯◯◯◯◯ Acabar con toda la vida en la isla
 
-◯◯◯ XXX
+◯◯◯ Conseguir más poderes mágicos
 
-◯◯◯ XXX
+◯◯ Tener infiltrados entre los kiores
