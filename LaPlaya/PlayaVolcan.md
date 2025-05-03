@@ -137,16 +137,16 @@ En las zonas grises del mapa puedes usar la tabla de encuentros en el volcán de
 La diosa Pele les esperará con un grupo de sirvientes kupuas sentada en un trono de lava incandescente. Al verlos se levantará claramente airada y atronará:
 
 ```
-Bien, veo que habéis entendido el mensaje y habéis venido a pedir perdón. ¿Vosotros pensaisque este cutre tocado de plumas es digno de mí, vuestra diosa? ¿Acaso quereis convertirme en el hazmereir de mi familia?
+Bien, veo que habéis entendido el mensaje y habéis venido a pedir perdón. ¿Vosotros pensáis que este cutre tocado de plumas es digno de mí, vuestra diosa? ¿Acaso queréis convertirme en el hazmerreír de mi familia?
 ```
 
 Cogerá el tocado que los kiores le ofrecieron con sus manos y en segundos arderá y se convertirá en cenizas. Continuará con su discurso:
 
 ```
-Si quereis que os perdonde debeis traerme algo que me fue sustraido hace siglos, mi llama, mi joya más preciada. Ese maldito Mausi me la robo para daserla a vuestros antepasados y ahora quiero recuperarla. Y sabed que si no me traeís mi lava convertirá en cenizas vuestro pueblo y ¡¡¡toda la isla!!!
+Si queréis que os perdone, debéis traerme algo que me fue sustraído hace siglos, mi llama, mi joya más preciada. Ese maldito Mausi me la robo para dársela a vuestros antepasados y ahora quiero recuperarla. Y sabed que si no me lo traéis, mi lava convertirá en cenizas vuestro pueblo y ¡¡¡toda la isla!!!
 ```
 
-Tras esto un río de lava desbordará el cráter y empezará a bajar el volcán camino a la playa. Puedes darles a entender que tienen un tiempo límite antes de que la lava arrase Kaona Iole, si quieres meter más presión al grupo.
+Tras esto, un río de lava desbordará el cráter y empezará a bajar el volcán camino a la playa. Puedes darles a entender que tienen un tiempo límite antes de que la lava arrase Kaona Iole, si quieres meter más presión al grupo.
 
 Si intentan discutirle algo solo conseguirán que todo tiemble por su rabia y que les lance una bola de fuego de 1d6 de daño.
 
@@ -166,7 +166,7 @@ Toca, pues, descender del volcán y poner rumbo a cabo oeste a las cuevas de los
 
 \conc
 
-El cabo oeste es un entorno conocido por tus aventureros así que viajar hasta allí será fácil.
+El cabo oeste es un entorno conocido por tus aventureros, así que viajar hasta allí será fácil.
 
 ### Adentrándose en la cueva de los ancestros
 
@@ -204,7 +204,7 @@ Si no te interesa puede pasar directamente al siguiente apartado. Como otras vec
 
 \conc
 
-El final se acerca solo queda un último paso entregar la llama a Pele y podrán volver a su pueblo con su familia y amistades.
+El final se acerca, solo queda un último paso, entregar la llama a Pele y podrán volver a su pueblo con su familia y amistades.
 
 ### ¡Emboscada!
 
@@ -216,7 +216,7 @@ Tantos Kupuas como riokes en tu grupo,
 
 Tras recuperar su fuego y ver qué sus adoradores la respetan y temen y harían lo que sea por satisfacerla, se calmará y volverá a ser una diosa racional y tranquila. Se colocará la llama como un colgante y se sentará elegantemente sobre su trono de lava líquida.
 
-La diosa ofrecerá a tus riokes una serie de tesoros por devolverle la llama. Para generar el tesoro deberás tirar un d20 por cada rioke que haya participado en la aventura. Uno de los d20 debes cambiarlo por un 1 directo de forma que el tesoro tenga un don divino mínimo. Si al tirar el d6 del don divino, sale un 6 (Llama de Pele) vuelve a tirar.
+La diosa ofrecerá a tus riokes una serie de tesoros por devolverle la llama. Para generar el tesoro deberás tirar un d20 por cada rioke que haya participado en la aventura. Uno de los d20 debes cambiarlo por un 1 directo, de forma que el tesoro tenga un don divino mínimo. Si al tirar el d6 del don divino, sale un 6 (Llama de Pele) vuelve a tirar.
 
 Justo cuando vaya a irse verán como la temperatura baja drásticamente y del cielo descenderá lentamente como la nieve la diosa de las nieves, Poliʻahu.
 
@@ -232,15 +232,15 @@ Tus riokes serán recibidos como si fueran el propio Mausi, con collares eli, co
 
 Los cuentacuentos estarán ansiosos de escuchar su epopeya para poder añadirlas en su repertorio, añadiendo más épica y magia a los relatos, ya de por sí increíbles.
 
-Puede darles **títulos específicos según sus hazañas** en la aventura como «mataserpientes» o «buscatesoros», si lo consideras apropiado.
+Puede darles **títulos específicos según sus hazañas** en la aventura, como «mataserpientes» o «buscatesoros», si lo consideras apropiado.
 
 \sp
 
-Si lo deseas podrían otorgarles algún tipo de **licencia para montar su choza de aventureros** donde vivir y guardar su equipo, tanto en la playa como en cualquier de las otras localizaciones de la isla, incluso el cabo oeste, desde donde podrían explorar las cuevas de los ancestros.
+Si lo deseas, podrían otorgarles algún tipo de **licencia para montar su choza de aventureros** donde vivir y guardar su equipo, tanto en la playa como en cualquier de las otras localizaciones de la isla, incluso el cabo oeste, desde donde podrían explorar las cuevas de los ancestros.
 
 \sc
 
-> Tus riokes han explotado la parte sur de la isla (la playa y la selva hasta la falda del volcán), el cabo este y el cabo oeste y la cara sur y la cima del volcán. Pero todavía queda la zona norte con su parte del volcán, de la selva y sus acantilados y calas. Además también tiene el misterioso islote de Hāʻupu que solo vistan les 3 kahunas.
+> Tus riokes han explotado la parte sur de la isla (la playa y la selva hasta la falda del volcán), el cabo este y el cabo oeste y la cara sur y la cima del volcán. Pero todavía queda la zona norte con su parte del volcán, de la selva y sus acantilados y calas. Además, también tiene el misterioso islote de Hāʻupu que solo visitan les 3 kahunas.
 
 \sp
 

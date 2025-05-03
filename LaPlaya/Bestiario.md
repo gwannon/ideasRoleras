@@ -91,7 +91,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
   3. **Tiburón:** XXX
   4. **Cerdo salvaje:** XXX
   5. **Búho:** XXX
-  6. **XXX:** XXX
+  6. **Fuego:** XXX
 
 \sp
 
@@ -121,13 +121,13 @@ XXX
 * **PG** X, **FUE** X, **DES** X, **VOL** X
 * **Armadura** X
 * **Ataques:** XXX
-* **Está buscando**
-  1. **Agua para beber:** XXX
-  2. **Barro para remozarse:** XXX
-  3. **Árbol adecuado para rascarse:** XXX
-  4. **Frutas:** XXX
-  5. **Raíces:** XXX
-  6. **Bronca:** XXX
+* **XXX**
+  1. **XXX:** XXX
+  2. **XXX:** XXX
+  3. **XXX:** XXX
+  4. **XXX:** XXX
+  5. **XXX:** XXX
+  6. **XXX:** XXX
 
 &nbsp;
 
