@@ -14,7 +14,7 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 
 |1d10|Marea|Destino|
 |---|---|---|
-|1|Pututu de pleamar|Madera de **héroe/heroina o villano/a**|
+|1|Pututu de pleamar|Madera de **héroe/heroína o villano/a**|
 |2|Marea subiendo de día|Reputado/a **artesano/a**|
 |3|Pleamar de día|Futuro **jefe/a**|
 |4|Marea bajando de día|Reconocido/a **explorador/a**|
@@ -23,7 +23,7 @@ En vez de tirar en la tabla de «Signo de nacimiento» debes tirar en la siguien
 |7|Pleamar de noche|Reverenciado/a **artista**|
 |8|Marea bajando de noche|Misterioso/a **espía**|
 |9|Bajamar de noche|Famoso/a **navegante**|
-|10|Pututu de bajamar|Madera de **héroe/heroina o villano/a**|
+|10|Pututu de bajamar|Madera de **héroe/heroína o villano/a**|
 
 ### Trasfondos
 
@@ -35,13 +35,13 @@ Maustiki dispone de su propia tabla de trasfondos adaptada a la cultura polinesi
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
-|11|Curandero/a|Máscara Tiki: Bendición de Hi’iaka|Hojas de platanero|
+|11|Curandero/a|Máscara Tiki: Bendición de Hiʻiaka|Hojas de platanero|
 |12|Tejedor/a de lei de flores|Cesta|Cordel de coco, rollo|
 |13|Cestero/a|Tijeras de piedra|Maza de madera|
 |14|Jinete de cangrejos|Ayudante: Montura cangrejo|Comida para cangrejos|
 |15|Productor/a de kava|Mortero y maja|Cuencos de barro|
 |16|Salinero/a|Pala|Cubo de cerámica|
-|21|Músico|Tambor Pahu|Baquetas Käla’au|
+|21|Músico|Tambor Pahu|Baquetas Kälaʻau|
 |22|Carpintero/a|Hacha de piedra (mediana, 1d6 / 1d8)|Cuerda de medir con nudos|
 |23|Buscador/a de tubérculos|Pala|Cesta|
 |24|Pescador/a|Red|Aguja (ligera, 1d6)|
@@ -92,7 +92,7 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 
 \conc
 
-Este listado puede servirte para sacar el nombre de tu personaje o buscar un **nombre al azar (tira 1d10 + 1d6)** para tus PNJ tanto roedores como kupuas, mo'os, tortugas, etc.
+Este listado puede servirte para sacar el nombre de tu personaje o buscar un **nombre al azar (tira 1d10 + 1d6)** para tus PNJ tanto roedores como kupuas, moʻos, tortugas, etc.
 
 Los nombres sirven para personajes femeninos, masculinos y no binarios, como les [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB), un tercer género típico de las sociedades polinesias, que son personas que encarnan tanto el espíritu masculino como el femenino.  
 

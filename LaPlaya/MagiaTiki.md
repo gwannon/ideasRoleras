@@ -77,7 +77,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
 |2|**Fuego de Pele** (Bola de fuego)|Lanza una bola explosiva hasta 60 cm. Inflige [SUMA] + [DADOS] de daño a todas las criaturas en 15 cm de radio.|Meterlo en lava.|Debes encender siempre fuego durante un descanso largo o completo.|
-|3|**Bendición de Hi’iaka** (Curación)|Cura [SUMA] puntos de FUE y elimina el Estado Herido de una criatura.|Un grupo de danzas hula debe bailar delante de la máscara.|Debes bailar el hula siempre que se celebre algo.|
+|3|**Bendición de Hiʻiaka** (Curación)|Cura [SUMA] puntos de FUE y elimina el Estado Herido de una criatura.|Un grupo de danzas hula debe bailar delante de la máscara.|Debes bailar el hula siempre que se celebre algo.|
 |4|**Lanza de Kū** (Proyectil mágico)|Inflige [SUMA] + [DADOS] de daño a una criatura a la vista.|Colgar la máscara durante 3 días de un árbol de ulu (árbol de pan)|No puedes huir de un combate.|
 |5|**Don de Nāmaka** (Respirar bajo el agua)|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener la máscara 3 días en agua de mar.|Prohibido tocar objetos con forma de anzuelo y usar protecciones de concha.|
 |6|**Dureza de Kū** (Endurecer madera)|Un arma CaC de madera añade [DADOS] al daño durante [SUMA] turnos. También hace más resistentes objetos principalmente de madera como barcos o puentes.|Meter la máscara 3 días dentro de una caja de madera.|No puedes quemar madera.|

@@ -6,7 +6,7 @@
 
 La diosa Pele que vive en el volcán está enfadada con los habitantes de la isla porque olvidaron poner un tocado de plumas en su última ofrenda.
 
-Pronto recibirá a su hermana XXX y quiere lucir sus mejores galas durante la estancia de su hermana.
+Pronto recibirá a su hermana Poliʻahu y quiere lucir sus mejores galas durante la estancia de su hermana.
 
 Como diosa del volcán es colérica e irascible y ha decidido mandar sus nieblas a la playa para castigar a sus fieles adoradores de la playa por su altura imperdonable fallo.
 
@@ -65,7 +65,7 @@ XXX
 
 La añeja Lamor es una gigantesca tortuga laúd de más de 200 años. Ha vivido muchas cosas y sabe muchas cosas, incluso se dice que ya era vieja en tiempos de los ancestros.
 
-Como tortuga ya habla y reacciona muy lentamente, pero es que además está ya muy mayor y cuando se habla con ella XXX
+Como tortuga ya habla y reacciona muy lentamente, pero es que además está ya muy mayor y cuando se habla con ella habla todavía más lento hasta ser desesperante.
 
 XXX
 
@@ -73,7 +73,7 @@ XXX
 
 \sinc
 
-!["Mapa Buscando a la añeja Lamor"](./images/mapas/mapa-busqueda-lamor.png "Mapa Buscando a la añeja Lamor")
+![Mapa Buscando a la añeja Lamor](./images/mapas/mapa-busqueda-lamor.png "Mapa Buscando a la añeja Lamor")
 
 &nbsp;
 
@@ -107,7 +107,7 @@ XXX
 
 \sinc
 
-!["Mapa temporal"](./images/mapas/mapa-camino-volcan.png "Mapa temporal")
+![Mapa Camino al volcán](./images/mapas/mapa-camino-volcan.png "Mapa Camino al volcán")
 
 &nbsp;
 
@@ -139,7 +139,7 @@ XXX
 
 \sinc
 
-!["Mapa temporal"](./images/mapas/mapa-crater.png "Mapa temporal")
+![Mapa El suelo es lava](./images/mapas/mapa-crater.png "Mapa El suelo es lava")
 
 &nbsp;
 
@@ -207,7 +207,7 @@ La ira de Pele ha ido aumentando y con ello la orografía del volcán ha tenido 
 
 \sinc
 
-!["Mapa temporal"](./images/mapas/mapa-volver-crater.png "Mapa temporal")
+![Mapa De vuelta al volcán](./images/mapas/mapa-volver-crater.png "Mapa De vuelta al volcán")
 
 &nbsp;
 

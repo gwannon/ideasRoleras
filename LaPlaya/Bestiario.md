@@ -20,7 +20,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 
 * **PG** 12, **FUE** 14, **DES** 12, **VOL** 12
 * **Armadura** X
-* **Ataques:** d8, varía según su forma actual
+* **Ataques:** d8, según su forma actual varía su ataque
 * **Forma actual**
   1. **Rioke:** Suele ser alguien conocido, ataque con algún tipo de arma rioke
   2. **Gecko:** Trepa por todas partes incluso bocabajo, ataque de mordisco
@@ -52,7 +52,7 @@ Tienen muchas formas, pero todos son tozudos y agresivos.
 
 [![Set of turtle cartoon by brgfx](./images/61lk_9glg_200407.png "Set of turtle cartoon by brgfx")](https://www.freepik.com/free-vector/set-turtle-cartoon_20424112.htm "Set of turtle cartoon by brgfx")
 
-Estás amistosas criaturas siempre están dispuestas a ayudar y a transportarte por el mar sobre su caparazón.
+Estas amistosas criaturas siempre están dispuestas a ayudar y a transportarte por el mar sobre su caparazón.
 
 Algunas son tan antiguas como las propias islas y son muy sabias, tan sabias que hablan hasta la lengua de los kiores.
 
@@ -85,7 +85,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
   2. **Raya:** XXX
   3. **Tiburón:** XXX
   4. **Cerdo salvaje:** XXX
-  5. **Buho:** XXX
+  5. **Búho:** XXX
   6. **XXX:** XXX
 
 ##  Cerdo salvaje
@@ -106,7 +106,7 @@ Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a bu
   2. **Barro para remozarse:** XXX
   3. **Árbol adecuado para rascarse:** XXX
   4. **Frutas:** XXX
-  5. **Raíces:** XXX
+  5. **Colmillo roto:** XXX
   6. **Bronca:** XXX
 
 ## Espectros de los ancestros

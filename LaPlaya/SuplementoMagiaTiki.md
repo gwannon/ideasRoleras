@@ -81,7 +81,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
 |2|**Fuego de Pele** (Bola de fuego)|Lanza una bola explosiva hasta 60 cm. Inflige [SUMA] + [DADOS] de daño a todas las criaturas en 15 cm de radio.|Meterlo en lava.|Debes encender siempre fuego durante un descanso largo o completo.|
-|3|**Bendición de Hi’iaka** (Curación)|Cura [SUMA] puntos de FUE y elimina el Estado Herido de una criatura.|Un grupo de danzas hula debe bailar delante de la máscara.|Debes bailar el hula siempre que se celebre algo.|
+|3|**Bendición de Hiʻiaka** (Curación)|Cura [SUMA] puntos de FUE y elimina el Estado Herido de una criatura.|Un grupo de danzas hula debe bailar delante de la máscara.|Debes bailar el hula siempre que se celebre algo.|
 |4|**Lanza de Kū** (Proyectil mágico)|Inflige [SUMA] + [DADOS] de daño a una criatura a la vista.|Colgar la máscara durante 3 días de un árbol de ulu (árbol de pan)|No puedes huir de un combate.|
 |5|**Don de Nāmaka** (Respirar bajo el agua)|Puedes respirar bajo el agua durante [DADOS] turnos.|Tener la máscara 3 días en agua de mar.|Prohibido tocar objetos con forma de anzuelo y usar protecciones de concha.|
 |6|**Dureza de Kū** (Endurecer madera)|Un arma CaC de madera añade [DADOS] al daño durante [SUMA] turnos. También hace más resistentes objetos principalmente de madera como barcos o puentes.|Meter la máscara 3 días dentro de una caja de madera.|No puedes quemar madera.|
@@ -99,7 +99,7 @@ Maustiki tiene su propio listado de hechizos. Aunque comparte algunos hechizos c
 
 |2d8|Hechizo|Efecto|Recarga|Tabú|
 |---|---|---|---|---|
-|12|**Favor de los Kupua** (Cambiaformas)|Tomas la apariencia idéntica de cualquier ser vivo (animal, mineral o vegetal) durante [SUMA] x [DADOS+1] minutos. Solo tomas apariencia, no sus capacidades, es solo una ilusión. No puedes tomar una apariencia 5 veces mayor a tu tamaño y no puedes ser más pequeño.Tú sombra sigue siendo de ratón.|Durante 3 días la máscara debe estar en contacto con algo vegetal, mineral y animal que no seas tú.|No hay tabú, pero si se rompe la máscara el kupua se liberará y buscará vengarse de ti.|
+|12|**Favor de los Kupua** (Cambiaformas)|Tomas la apariencia idéntica de cualquier ser vivo (animal, mineral o vegetal) durante [SUMA] x [DADOS+1] minutos. Solo tomas apariencia, no sus capacidades, es solo una ilusión. No puedes tomar una apariencia 5 veces mayor a tu tamaño y no puedes ser más pequeño. Tu sombra sigue siendo de ratón.|Durante 3 días la máscara debe estar en contacto con algo vegetal, mineral y animal que no seas tú.|No hay tabú, pero si se rompe la máscara el kupua se liberará y buscará vengarse de ti.|
 |13|**Enredaderas de Papahānaumoku** (Enredar)|Crea un área de [SUMA] cm de radio de enredaderas que reduce a la mitad el movimiento durante [DADOS] turnos.|Ata tus manos o pies con raíces, lianas y enredaderas y mantenlos atados durante toda la noche y el día.|Debes plantar una semilla en cada descanso largo o completo.|
 |14|**Forma de Hāʻupu** (Crecimiento)|Hace crecer a una criatura hasta [DADOS +1] veces su tamaño original durante 1 turno.|Subir a la cima de una montaña.|Prohibido lanzar piedras.|
 |15|**Fuerza de Mausi** (Superfuerza)|Añade [SUMA] a tu FUE durante [DADOS+1] rondas|Llenar de piedras tu mochila (mínimo 1 espacio lleno de piedras) e ir al límite de carga durante 3 días.|Debes exagerar todas las historias que cuentes poniéndote de héroe en todas.|

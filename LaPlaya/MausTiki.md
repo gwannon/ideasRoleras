@@ -12,8 +12,6 @@ Incluye una aventura larga donde tus kiores deberán aplacar la ira de los diose
 
 |KaonaIole.md|
 
-\sp
-
 |DiaADia.md|
 
 \sp

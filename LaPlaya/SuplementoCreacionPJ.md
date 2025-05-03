@@ -67,13 +67,13 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 
 |PG+ca|Trasfondo|Objeto A|Objeto B|
 |---|---|---|---|
-|11|Curandero/a|Máscara Tiki: Bendición de Hi’iaka|Hojas de platanero|
+|11|Curandero/a|Máscara Tiki: Bendición de Hiʻiaka|Hojas de platanero|
 |12|Tejedor/a de lei de flores|Cesta|Cordel de coco, rollo|
 |13|Cestero/a|Tijeras de piedra|Maza de madera|
 |14|Jinete de cangrejos|Ayudante: Montura cangrejo|Comida para cangrejos|
 |15|Productor/a de kava|Mortero y maja|Cuencos de barro|
 |16|Salinero/a|Pala|Cubo de cerámica|
-|21|Músico|Tambor Pahu|Baquetas Käla’au|
+|21|Músico|Tambor Pahu|Baquetas Kälaʻau|
 |22|Carpintero/a|Hacha de piedra (mediana, 1d6 / 1d8)|Cuerda de medir con nudos|
 |23|Buscador/a de tubérculos|Pala|Cesta|
 |24|Pescador/a|Red|Aguja (ligera, 1d6)|
@@ -119,7 +119,7 @@ Sin embargo, desconocen el uso de metales, por lo que trasfondos como herrero u 
 
 \conc
 
-Este listado puede servirte para sacar el nombre de tu personaje o buscar un **nombre al azar (tira 1d10 + 1d6)** para tus PNJ tanto roedores como kupuas, mo'os, tortugas, etc.
+Este listado puede servirte para sacar el nombre de tu personaje o buscar un **nombre al azar (tira 1d10 + 1d6)** para tus PNJ tanto roedores como kupuas, moʻos, tortugas, etc.
 
 Los nombres sirven para personajes femeninos, masculinos y no binarios, como les [māhū](https://es.wikipedia.org/wiki/M%C4%81h%C5%AB), un tercer género típico de las sociedades polinesias, que son personas que encarnan tanto el espíritu masculino como el femenino.  
 

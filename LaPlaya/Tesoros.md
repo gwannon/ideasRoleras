@@ -33,9 +33,9 @@ Ratonga es un semidiós que construyó la primera canoa. Esta figurilla, que sol
 
 Esta calabaza fue usada por Mausi para encerrar a los vientos. Permite encerrar una tormenta o un tifón. Si la calabaza está llena, tendrá que vaciarse antes liberando la tormenta o el tifón para poder volver a meter dentro otra tormenta. Se cuenta que Mausi atrapó un tifón que amenazaba su poblado y luego lo libero sobre una flota de invasores.
 
-### Azuela de Rat'a
+### Azuela de Ratʻa
 
-Esta azuela de carpintero, que perteneció al mítico rey Rat'a, permite construir estructuras de 1 casilla(5 cm) por turno de trabajo y siempre que haya madera cerca. Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, tienes la condición «cansado».
+Esta azuela de carpintero, que perteneció al mítico rey Ratʻa, permite construir estructuras de 1 casilla(5 cm) por turno de trabajo y siempre que haya madera cerca. Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, tienes la condición «cansado».
 
 ### Sal de Kane
 
@@ -113,6 +113,6 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 |1|Anzuelo de Mausi|
 |2|Figura de la canoa de Ratonga|
 |3|Calabaza de Mausi|
-|4|Azuela de Rat'a|
+|4|Azuela de Ratʻa|
 |5|Sal de Kane|
 |6|Llama de Pele|

@@ -8,13 +8,13 @@ En una pequeña isla volcánica del Pacífico existe una pequeña comunidad de r
 
 ### Historia
 
-Estás ratas llegaron hace siglos de otras islas, seguramente en embarcaciones de los humanos,  y se establecieron en las cuevas del cabo oeste. Poco a poco colonizaron la isla y prosperaron hasta crear una gran civilización muy avanzada que construyó estructuras y monumentos por toda la isla.
+Estas ratas llegaron hace siglos de otras islas, seguramente en embarcaciones de los humanos, y se establecieron en las cuevas del cabo oeste. Poco a poco colonizaron la isla y prosperaron hasta crear una gran civilización muy avanzada que construyó estructuras y monumentos por toda la isla.
 
 Entonces un gran cataclismo sacudió la isla, probablemente un terremoto y/o una erupción volcánica y acabó con toda esa civilización que ahora es conocida como los ancestros.
 
 Los pocos supervivientes se trasladaron a la playa y como pudieron fueron prosperando hasta el día de hoy.
 
-Las familias más poderosas de los supervivientes se convirtieron en «maitis», la clase dirigente de Kaona Iole y hoy en día siguen dirigiendo esta comunidad.
+Las familias más poderosas de los supervivientes se convirtieron en «matais», la clase dirigente de Kaona Iole y hoy en día siguen dirigiendo esta comunidad.
 
 ### Localización 
 
@@ -128,15 +128,23 @@ El cabo este es el mejor lugar de la isla para coger olas gracias al viento del 
 Las canoas están seguras en la playa, pero no fue para lo que se crearon.
 ```
 
-XXX
+Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además es un entorno cambiante y lo que ayer estaba en una casilla puede haber desaparecido la siguiente vez.
 
-Vivir en una playa de una isla significa que el mar es un elemento fundamental de la sociedad y la cultura de este enclave. Eso hace también que la construcción, uso y reparación de embarcaciones sea también muy importante.
-
-XXX
+La cercanía del mar hace que la comunidad de Kaona Iole tenga un aire pesquero con redes de pesca por todas partes, embarcaciones en la playa, olor a salitre y pescado, algas secándose al sol y tablas de surf clavadas en la arena.
 
 ### El volcán
 
-XXX
+El volcán de la isla es un volcán activo en constante peligro de erupción. Es una fuente constante de aventuras y de encuentros extremadamente peligrosos, extraños y mágicos. Sin olvidar que como el mar es algo cambiante y dinámico. Cada vez que pasas hay cosas nuevas y hay otras que han desaparecido.
+
+El volcán solo o junto a los ancestros te permiten infinidad de escenarios para tus aventuras.
+
+Quién dice que los ancestros no montaron un motor de energía geotermal para sus cuevas y eso propicio el cataclismo o qué hacían espadas de lava incandescente para sus mejores guerreros y guerreras. O quizás usaban los gases del volcán para hacer artilugios voladores.
+
+\sp
+
+Podemos decir que es una mezcla de Mordor, por el mal que puede expandir por la isla y los peligros que encierra, y del Olimpo, por ser el hogar de la diosa Pele y de otros dioses y diosas de su familia que le visitan. De hecho cuando el volcán está nevado se dice que Poliʻahu está de visita.
+
+Recuerda que, no es solo el hogar de dioses, también hay infinidad de kupuas menores de todas formas y tamaños que viven en sus laderas y cráteres. Esto permite sacar una gran variedad de enemigos para que tus riokes no se aburran.
 
 ### Los ancestros
 
@@ -151,8 +159,6 @@ Un cataclismo acabó con los ancestros y ya solo quedan de ellos sus ruinosas es
 ### Clima
 
 En Kaona Iole solo existen dos estaciones, verano (kau) e invierno (hooilo). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia.
-
-\sp
 
 El problema es que las tormentas pueden convertirse en tifones que pueden arrasar toda la isla, derribando árboles e inundando terrenos secos.
 
@@ -170,6 +176,7 @@ Cada roedor del grupo suele encargarse de vigilar una de las 4 mareas y cuando h
 
 > Existe la creencia de que la marea dicta tu destino y si naces mientras suena el pututu de las mareas, están destinados a hacer grandes cosas, tú decidirás si beneficiosas para el asentamiento o terribles.
 
+\sp
 
 Tu trabajo no solo es avisar de las mareas, también deben hacer de vigías en una talaya en una palmera cercana. Deben avisar de tiburones que pasen el arrecife, de mantas que se acerquen a los pescadores y de tormentas inesperadas.
 
