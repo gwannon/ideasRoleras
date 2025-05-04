@@ -28,6 +28,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
   4. **Lagarto:** Corren a gran velocidad, ataque de mordisco
   5. **Salamandra:** Puede respirar bajo el agua y nadar a gran velocidad, coletazo como ataque
   6. **Dragón (Iguana gigante):** PG 24, armadura de escamas extra 4, ataque d10 de mordisco y de cola
+
 &nbsp;
 
 ## Cangrejo

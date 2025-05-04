@@ -55,7 +55,6 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Conjunto de animales del bosque de dibujos animados por [macrovector](https://www.freepik.es/vector-gratis/conjunto-animales-bosque-dibujos-animados_9509586.htm)
 * Isolated dry tree cartoon sticker on white background by [brgfx](https://www.freepik.com/free-vector/isolated-dry-tree-cartoon-sticker-white-background_18053366.htm)
 * Tropic rest flat icons set of bungalow and equipment for beach vacation isolated vector illustration by [macrovector](https://www.freepik.com/free-vector/tropic-rest-flat-icons-set-bungalow-equipment-beach-vacation-isolated-vector-illustration_26765555.htm)
-*
 * Waterfall in mountains cartoon set of decorative elements for video game interface isolated on white background vector illustration by [macrovector](https://www.freepik.com/free-vector/waterfall-mountains-cartoon-set-decorative-elements-video-game-interface-isolated-white-background-vector-illustration_26760591.htm)
 * Forest Elements Concept by [macrovector](https://www.freepik.com/free-vector/forest-elements-concept_9457603.htm)
 * Hell landscape with lava for fantasy game vector by [upklyak](https://www.freepik.com/free-vector/hell-landscape-with-lava-fantasy-game-vector_365222226.htm)

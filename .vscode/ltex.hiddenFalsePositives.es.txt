@@ -175,3 +175,7 @@
 {"rule":"SINGLE_CHARACTER","sentence":"^\\Q16 Don de Hāʻupu (Partir piedra) Destrozas piedras en un radio máximo de SUMA x DADOS.\\E$"}
 {"rule":"SINGLE_CHARACTER","sentence":"^\\Q8 Don de Papahānaumoku (Cavar) Excavas en segundos un túnel en la tierra de SUMA x DADOS x 2 centímetros de largo Dejarlo en el lugar más profundo de una madriguera durante 3 días.\\E$"}
 {"rule":"SINGLE_CHARACTER","sentence":"^\\Q12 Favor de los Kupua (Cambiaformas) Tomas la apariencia idéntica de cualquier ser vivo (animal, mineral o vegetal) durante SUMA x DADOS+1 minutos.\\E$"}
+{"rule":"AGREEMENT_VERB_PARTICIPLE","sentence":"^\\QDe normal ocupa 1 casilla de inventario, pero los de gran calidad ocupan 2 espacios de inventario, pero pueden ser transportado por dos personajes, uno lleva el tablero y otro las piezas.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QEsa cascada y un remanso más adelante del riachuelo lo frecuenta une Moʻo llamada Iaolone que suele hacerse pasar por une belle rioke que se baña desnude en sus aguas.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QAdemás, también tiene el misterioso islote de Hāʻupu que solo visitan les 3 kahunas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/LaPlaya\\E$"}

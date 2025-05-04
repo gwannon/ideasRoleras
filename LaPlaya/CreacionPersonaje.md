@@ -80,7 +80,7 @@ La madera es un elemento fundamental en la vida de los kiores, es abundante, fá
 
 \sp
 
-Lo mismo pasa con la hoja de palma,s que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
+Lo mismo pasa con la hoja de palma, que también encontramos en varias profesiones que la transforman en diferentes elementos como cestas, velas de barco, sombreros, etc.
 
 De hecho, **a la hora de construir** no hay cavadores y trabajadores, sino **leñadores/tejedores de hoja de palma y carpinteros**.
 
