@@ -34,7 +34,7 @@ Lord Ceballos pensaba cargarse el humedal a través de una chatarrería/fundici�
 
 ### Grupos vecinales
 
-Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con la fuga de mercurio, mientras pensaba hinchar a uno de los grupos a donaciones, e infiltrar a agentes con grandes dotes de persuasión y sex-appel, para sembrar la cizaña hacia dentro y hacia fuera.
+Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con la fuga de mercurio, mientras pensaba hinchar a uno de los grupos a donaciones, e infiltrar a agentes con grandes dotes de persuasión y «sex appel», para sembrar la cizaña hacia dentro y hacia fuera.
 
 \sinc
 
@@ -64,7 +64,7 @@ El barrio está poblado de personajes secundarios que tienen sus vidas y sus his
 
 \sinc
 
-## Its Now or Never
+## It’s Now or Never
 
 > Mi profesora de Ciencias Sociales, Maricarmen, había muerto y mi madre se empeñó en ir al tanatorio para su despedida. Gente que no conoces llorando, otra gente que no conoces hablando y riendo y un tipo que no conocía de nada muy cripi. Solo miraba a los presentes, sacaba fotos a escondidas y tecleaba cosas en el móvil, todo muy sospechoso. 
 
@@ -82,9 +82,9 @@ Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y
 
 De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar Mediocre (+0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
-Lo curioso es que no parece nada afectado, igual alguna se acuerda de una serie de CSI Mediocre (+0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares y aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
+Lo curioso es que no parece nada afectado. Igual alguna se acuerda de una serie de CSI Mediocre (+0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares. Aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
 
-Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únicas niñas de la misma edad, así que seguramente se juntarán para hablar de las cosas raras. Se habrán visto fisgando por el tanatorio y quizás puedan intercambiar info y cotilleos.
+Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únicas niñas de la misma edad, así que seguramente se juntarán para hablar de las cosas raras. Se habrán visto fisgando por el tanatorio y quizás puedan intercambiar información y cotilleos.
 
 \sp
 
@@ -350,7 +350,7 @@ Mientras está abierta, podrán moverse por la planta baja sin problemas, a nadi
 
 De noche pueden encontrar a Alfonse en cualquier parte de la disco, desde alimentándose de alguna víctima en una zona reservada de la planta VIP, hasta metiendo cajas de bebida en el bar sin camisetas enseñando tableta.
 
-De día, estará durmiendo en su habitación del pánico con vestidor y baño. El acceso sin saber el código y la ubicación de la puerta secreta es imposible para las capacidades y herramientas de unas niñas.
+Por el día, estará durmiendo en su habitación del pánico con vestidor y baño. El acceso sin saber el código y la ubicación de la puerta secreta es imposible para las capacidades y herramientas de unas niñas.
 
 Una vez lo localicen, Alfonse se moverá a la zona VIP a no ser que estén ya allí. Alfonse se pondrá en el centro de la zona y escrutará su menú de esa noche. Para acto seguido sentarse sin ningún pudor al lado de su próxima víctima lo más en contacto posible. Si son varias víctimas se meterá en medio sin ningún problema.
 
@@ -362,7 +362,7 @@ Igual se les ocurre a tus jugadoras cortarle el rollo, pero eso supondría poner
 
 Si quieren seguirle al reservado, la única forma de ver lo que pasa dentro es escabulléndose dentro. Desde fuera solo oirán gemidos y suspiros, pero no como los que les han podido oír a sus padres.
 
-La escena del reservado no sería excesivamente rara si no fuera porque Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma trash (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
+La escena del reservado no sería excesivamente rara si no fuera por ciertos detallitos. Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma trash (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
 
 De repente, Alfonse levantará la cabeza de sus víctimas y les verá con sus profundos ojos rojos y empezará a chillar. Podrías pedirles alguna tirada Buena (+2) para evitar chillar de miedo o quedarse petrificada.
 
@@ -602,7 +602,7 @@ Tanto si les atienda a ellas como si atiende a algún pariente, tus cazadoras po
 
 Deberían tener ya formas de ver si es una vampira, y deberán ingeniárselas para aplicarlas con Verónica sin que se dé cuenta.
 
-Si necesitan excusas para ir al hospital con asiduidad, pueden apuntarse a programas de acompañamiento de mayores solos, o quizas tengan una amiga en la planta de oncología, por poner unos ejemplos. __Sé respetuoso con estos temas y respeta las__ __decisiones de la mesa si no están cómodos.__
+Si necesitan excusas para ir al hospital con asiduidad, pueden apuntarse a programas de acompañamiento de mayores solos, o quizás tengan una amiga en la planta de oncología, por poner unos ejemplos. __Sé respetuoso con estos temas y respeta las__ __decisiones de la mesa si no están cómodos.__
 
 Una vez confirmen que es una vampira, deberán buscar la forma de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
 
@@ -643,7 +643,7 @@ Podrán encontrar restos de sangre o ropas infantiles, pero nada que puedan segu
 
 El grupo Ceballos suele inundar los barrios con casas de apuestas en su proceso de degradación y acaba de abrir la primera en el barrio, a pocos metros del colegio de tus cazadoras.
 
-Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser haya una fiebre ludópata entre sus compañeros de clase. Parece ser que todo usan estas cosas (drogas, juego, juergas y borracheras, etc.) para deprimir los barrios asi que las casas de apuestas son un buen punto de partida.
+Si Alfonse es un aliado, puede decirles que sus superiores suelen hacer estás cosas, también puede ser haya una fiebre ludópata entre sus compañeros de clase. Parece ser que todo usan estas cosas (drogas, juego, juergas y borracheras, etc.) para deprimir los barrios, así que las casas de apuestas son un buen punto de partida.
 
 Lo interesante de la casa de apuestas «CebaBet» es que es un sitio donde pueden conocer a Catalina Faroes, que está tratando de cerrar la primera que han montado en el barrio.
 
@@ -660,6 +660,52 @@ Catalina tratará de que la ayuden a recoger firmas y si les ofrecen entrar y ju
 \conc
 
 \sp
+
+Tus cazadoras ya saben a lo que se enfrentan, pero en este capítulo todo va a subir de nivel. Néstor debería suponer un antes y un después de lo que puedan pensar y creer de los vampiros y podrán ver que son auténticos monstruos.
+
+Verónica tiene pistas que van directo a Néstor, el tiempo que perdieron en el hospital ahora lo van a ahorrar.
+
+Por su lado, Alfonse las pondrás en la pista de la lonja, como ya hemos dicho le interesa que tus cazadores se deshagan de él, pero si no está Alfonse o no se fían o no quiere recurrir a elle, tienen otras vías
+
+### Si investigan el tráfico de drogas
+
+Si empiezan a investigar el tema de la droga, si mucho problema les llevarán a la lonja de Néstor. 
+
+Puede que alguno de sus compañeros sea un camello menor o algún familiar este enganchado. Por unos pocos euros cantarán todo lo que necesitan saber para dar con la lonja.
+
+### Si investigan las desapariciones de niñes
+
+Si investigan el tema de las desapariciones, pueden ver que muchos de ellos eran consumidores menores de drogas blandas con lo que al acudir a la lonja entran en su radar. Además sus camellos suelen informarle de este tipo de clientes.
+
+Néstor suele buscar sus víctimas entre esos preadolescentes y adolescentes que consumen drogas. Esto muchas veces supone que vengan de familias desestructuradas y que escapen de casa y desaparezcan sea algo posible.
+
+De esta manera las desapariciones les pondrán en la pista de la droga y esta, a su vez, en la pista de la lonja.
+
+### El plan de Néstor
+
+Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba gentrificar el barrio y convertirlo en un sitio de fiesta y borrachera y con Verónica joder la sanidad local. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
+
+Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
+
+El toque maestro será hacer aparecer al Grupo Ceballos como unos benefactores que van a salvar a un barrio deprimido levantándolo con inversiones, puestos de trabajo y nuevas construcciones.
+
+Mientras que parece que apoyan al barrio, en realidad lo irán comprando y troceando poco a poco y desmontando la estructuras sociales de apoyo que hay montadas.
+
+### El almacén
+
+Néstor tiene varios puntos de venta en el barrio, desde camellos pateando las calles ofreciendo su mercancía hasta dos narcopisos. Pero la cantidad de droga que hay en esos puntos no es muy grave. La mayor parte de la droga la tiene en un almacén. 
+
+El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida que está bajo el local. 
+
+\sp
+
+Además está entrando pequeños camellos todo el tiempo a conseguir más material y entregar dinero. De normal, tanto movimiento atraería la atención de las fuerzas de seguridad si no fuera porque están compradas.
+
+La lonja cuenta con un __cierre centralizado de__ __todas las puertas y ventajas__ __cuyo mando controla Néstor__, de forma que, para bien o para mal, nadie puede entrar y nadie puede salir.
+
+Su guarida es su despacho y la puerta está reforzada, ya que mueve mucho dinero y lo guarda en su despacho hasta que vienen a buscarlo del Grupo Ceballos para blanquearlo.
+
+Como buen vampiro temeroso del fuego, el sistema antiincendios está instalado y funcional. A esta hora tus cazadoras deberían saber que si quieren saber si un local es una guarida vampírica debe tener aspersores con las revisiones pasadas.
 
 |PorHacer.md|
 

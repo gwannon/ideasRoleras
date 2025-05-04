@@ -179,3 +179,10 @@
 {"rule":"PREP_VERB","sentence":"^\\QEsa cascada y un remanso más adelante del riachuelo lo frecuenta une Moʻo llamada Iaolone que suele hacerse pasar por une belle rioke que se baña desnude en sus aguas.\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QAdemás, también tiene el misterioso islote de Hāʻupu que solo visitan les 3 kahunas.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/LaPlaya\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QCan’t Help Falling in Love\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCan’t Help Falling in Love\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QYou’re the Devil in Disguise\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYou’re the Devil in Disguise\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QDon’t Be Cruel\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDon’t Be Cruel\\E$"}
+{"rule":"ES_SIMPLE_REPLACE_VERBS","sentence":"^\\QEs tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.\\E$"}

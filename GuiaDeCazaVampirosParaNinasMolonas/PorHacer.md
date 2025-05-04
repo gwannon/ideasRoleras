@@ -1,35 +1,12 @@
-
-Tus cazadoras ya saben a lo que se enfrentan, pero en este capítulo todo va a subir de nivel. Néstor debería suponer un antes y un después de lo que puedan pensar y creer de los vampiros y podrán ver que son auténticos monstruos.
-
-### Si investigan el tráfico de drogas
-
-XXX
-
-### Si investigan las desapariciones de niñes
-
-XXX
-
-### El plan de Néstor
-
-Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba gentrificar el barrio y convertirlo en un sitio de fiesta y borrachera y con Verónica joder la sanidad local. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
-
-Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
-
-El toque maestro será hacer aparecer al Grupo Ceballos como unos benefactores que van a salvar a un barrio deprimido levantándolo con inversiones, puestos de trabajo y nuevas construcciones.
-
-Mientras que parece que apoyan al barrio, en realidad lo irán comprando y troceando poco a poco y desmontando la estructuras sociales de apoyo que hay montadas.
-
-### El almacén
-
-Néstor tiene varios puntos de venta en el barrio, desde camellos pateando las calles ofreciendo su mercancía hasta dos narcopisos. Pero la cantidad de droga que hay en esos puntos no es muy grave. La mayor parte de la droga la tiene en un almacén. 
-
-El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida que está bajo el local 
-
-XXX
-
 ### El ataque nocturno
 
 La lógica dicta que tus cazadoras tratarán de repetir sus éxitos con Verónica y Néstor.
+
+XXX
+
+#### La captura
+
+Planeen lo que planeen tus cazadoras Néstor es perro viejo y está preparado y, a diferencia de Alfonse, no es vividor que aprecia su no-vida por encima de todo.
 
 XXX
 
@@ -47,13 +24,29 @@ A lo «Cadena Perpetua», tus cazadoras deberán romper la cañería central, me
 
 Recuérdales que la otra opción es acabar muertas tras ser chupada su sangre hasta la última gota por un pederasta de 150 años.
 
-\sp
-
 ### Cazando al pederasta
 
-Después de la experiencia de la mazmorra, tus cazadoras deberían estar ansiosas de volver   a la guarida de Néstor y esta vez estarán preparadas. Deberían querer darle su merecido a Néstor y asegurarse de que no vuelva a tocar a ninguna niña, niño o niñe.
+Después de la experiencia de la mazmorra, tus cazadoras deberían estar ansiosas de volver a la guarida de Néstor y esta vez estarán preparadas. Deberían querer darle su merecido a Néstor y asegurarse de que no vuelva a tocar a ninguna niña, niño o niñe.
+
+Igual que la segunda visita a Alfonse no deberían poder usar con Alfonse la misma entrada que la primera vez y, además, estará preparado para su ataque.
 
 XXX
+
+Néstor irá a saco y sin dar tregua y combatirá como un depredador. Irá bajándose una a una sus enemigas hasta acabar con todas y si puede, y tiene fuerzas, convertirá a la que crea más débil en vampira como castigo y para tener una nueva sierva que humillar.
+
+\sp
+
+### ¿Qué hacemos con la droga?
+
+Una vez derrotado Néstor, tus cazadoras tendrán delante de ellas un palé lleno de drogas de varios tipos. Tus cazadoras deberán decidir que hacen con ello. Las opciones son muchas y con diferentes consecuencias.
+
+* Pueden destruirlo.
+* Pueden esconderlo.
+* Tal vez pueden dárselo a Alfonse a ver si lo vende.
+
+Quizás lo más interesante sea esconderlo y poder usarlo, por ejemplo, para meter en problemas a la Corporación Ceballos en un futuro. Dejar un pale lleno de droga en un local del Grupo puede ser una pesadilla legal para los abogados de Lord Ceballos. 
+
+No es facil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la hora de negociar o de sabotear.
 
 \sp
 
