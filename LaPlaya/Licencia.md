@@ -62,6 +62,8 @@ Los derechos de Mausritter son propiedad de Losing Games y de El Refugio de Ryho
 * Magic game portals set isolated on background  by [upklyak](https://www.freepik.com/free-vector/magic-game-portals-set-isolated-background_133958210.htm)
 * Set of scary tribal tiki masks by [freepik](https://www.freepik.com/free-vector/set-scary-tribal-tiki-masks_1227673.htm)
 * Hand drawn flat halloween ghosts collection [pikisuperstar](https://www.freepik.com/free-vector/hand-drawn-flat-halloween-ghosts-collection_18953697.htm)
+* 168 Ransacked Crypt by [elventower.com](https://www.elventower.com/creative-commons-collection-3/)
+
 
 \sp
 

@@ -122,9 +122,11 @@ Los cerdos son animales de pulsiones y cuando tienen una necesidad se ponen a bu
 
 [![Hand drawn flat halloween ghosts collection pikisuperstar](./images/hand-drawn-flat-halloween-ghosts-collection_52683-73561.png "Hand drawn flat halloween ghosts collection pikisuperstar")](https://www.freepik.com/free-vector/hand-drawn-flat-halloween-ghosts-collection_18953697.htm "Hand drawn flat halloween ghosts collection pikisuperstar")
 
-Los espectros de los ancestros son seres fantasmales que murieron durante el gran cataclismo y que protegen sus cuevas y ruinas. Tienen una vaga apariencia de rioke y de la apariencia y ropajes de cuando estaban vivos. Son sintientes y puedes hablar con ellos, pero muchas veces sus palabras y acciones no tienen mucho sentido.
+Los espectros de los ancestros son seres fantasmales que murieron durante el gran cataclismo y que protegen sus cuevas y ruinas. Tienen una vaga apariencia de rioke y de la apariencia y ropajes de cuando estaban vivos.
 
 \sp
+
+Son sintientes y puedes hablar con ellos, pero muchas veces sus palabras y acciones no tienen mucho sentido.
 
 Solo puede ser dañado por armas mágicas, hechizos o armas y munición hecha de sal de roca.
 

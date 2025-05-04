@@ -130,7 +130,7 @@ En las zonas grises del mapa puedes usar la tabla de encuentros en el volcán de
 
 \sinc
 
-## La diosa airada FALTA ORTOGRAFÍA
+## La diosa airada
 
 \conc
 
@@ -174,11 +174,45 @@ Los primeros niveles de las cuevas también son conocidos, allí se refugian cua
 
 Tus riokes deberán sacar sus antorchas y adentrarse en las cavernas interiores donde un mundo de maravillas les esperan.
 
-Las cuevas de los ancestros están en ruinas, pero aun así siguen siendo impresionantes y hay todavía ciertas cosas que funcionan como parte de la iluminación bioluminiscente por hongos o algunos elementos como elevadores con contrapesos. Imagina que las ruinas de los ancestros tienen un estilo a como te imaginarías los restos de la Atlántida, altos edificios con un cierto toque entre extraterrestre y griego clásico.
+Las cuevas de los ancestros están en ruinas, pero aun así siguen siendo impresionantes y hay todavía ciertas cosas que funcionan como parte de la iluminación bioluminiscente por hongos o algunos elementos como elevadores con contrapesos.
 
 \sp
 
-### Salas
+Imagina que las ruinas de los ancestros tienen un estilo a como te imaginarías los restos de la Atlántida, altos edificios con un cierto toque entre extraterrestre y griego clásico.
+
+En la fogata del último descanso, se les aparecerá Pele para avisarles de que seguramente su llama esté dentro de la tumba de Mausi o alguno de sus descendientes. Deberían buscar la Cripta de los héroes y heroínas, el lugar donde los ancestros enteraban a personajes importantes.
+
+### La Cripta de los héroes y heroínas
+
+XXX
+
+Se puede acceder y escapar de la Cripta de los héroes y heroínas desde dos entradas (7).
+
+#### 1 Sala principal
+
+XXX
+
+#### 2 Capilla
+
+XXX
+
+#### 3 Receptorio
+
+XXX
+
+#### 4 Nichos y túmulos
+
+XXX
+
+#### 5 Nichos y túmulos
+
+XXX
+
+#### 6 Nichos y túmulos
+
+XXX
+
+#### 7 Accesos a las cuevas
 
 XXX
 
@@ -308,8 +342,20 @@ Si lo deseas, podrían otorgarles algún tipo de **licencia para montar su choza
 
 \sinc
 
-### Mapa Buscando la llama
+### Mapa de la Cripta de los héroes y heroínas
 
-**MAPA CUEVAS**
+&nbsp;
+
+[![168 Ransacked Crypt by elventower.com](./images/mapas/168-Ransacked-Crypt-notitle-scaled.jpg "168 Ransacked Crypt by elventower.com")](https://www.elventower.com/creative-commons-collection-3/ "H168 Ransacked Crypt by elventower.com")
+
+|Localización|Descripción|
+|---|---|
+|1|**Sala principal**|
+|2|**Capilla**|
+|3|**Receptorio**|
+|4|**Nichos y túmulos**|
+|5|**Nichos y túmulos**|
+|6|**Nichos y túmulos**|
+|7|**Accesos a las cuevas**|
 
 \conc

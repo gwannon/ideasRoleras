@@ -846,3 +846,4 @@ sintientes
 Crioquinesis
 ghosts
 collection
+Receptorio
