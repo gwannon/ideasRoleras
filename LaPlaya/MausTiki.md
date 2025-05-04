@@ -64,67 +64,11 @@ Hay pequeños cambios en el reglamento original que te explicamos a continuació
 
 \sp
 
-\sinc
-
-# Recursos
-
-&nbsp;
-
-## Máscaras Tiki
-
-&nbsp;
-
-|Hechizos.html|
-
-\conc
+|Mapas.md|
 
 \sp
 
-\sinc
-
-## Armas y armaduras
-
-&nbsp;
-
-|Armas.html|
-
-&nbsp;
-
-|Armaduras.html|
-
-\conc
-
-\sp
-
-\sinc
-
-## Equipo de viaje
-
-&nbsp;
-
-|EquipoVario.html|
-
-\conc
-
-\sp
-
-\sinc
-
-## Dones de los dioses
-
-&nbsp;
-
-|DonesDioses.html|
-
-&nbsp;
-
-## Otros objetos
-
-&nbsp;
-
-|OtrosObjetos.html|
-
-\conc
+|Recursos.md|
 
 \sp
 
