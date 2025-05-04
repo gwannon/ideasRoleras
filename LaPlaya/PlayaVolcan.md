@@ -180,43 +180,68 @@ Las cuevas de los ancestros están en ruinas, pero aun así siguen siendo impres
 
 Imagina que las ruinas de los ancestros tienen un estilo a como te imaginarías los restos de la Atlántida, altos edificios con un cierto toque entre extraterrestre y griego clásico.
 
-En la fogata del último descanso, se les aparecerá Pele para avisarles de que seguramente su llama esté dentro de la tumba de Mausi o alguno de sus descendientes. Deberían buscar la Cripta de los héroes y heroínas, el lugar donde los ancestros enteraban a personajes importantes.
+En la fogata del último descanso, se les aparecerá Pele para avisarles de que seguramente su llama esté dentro de la tumba de Mausi o alguno de sus descendientes. Deberían buscar la cripta, el lugar donde los ancestros enteraban a personajes importantes.
 
-### La Cripta de los héroes y heroínas
+### La cripta
 
-XXX
+Esta parte de las cuevas de los ancestros es fácil de encontrar, en las cuevas encontrarán símbolos de lápidas con flechas que indican que pasillo tomar para llegar hasta la cripta.
 
-Se puede acceder y escapar de la Cripta de los héroes y heroínas desde dos entradas (7).
+Cada vez que abran (salvación de FUE de dos o más riokes) una tumba o un nicho, tira 1d6. 
+
+* Con **1-3 no pasa nada**. 
+* Con **4 sale un espectro exigiéndoles algo** para poder dejarles tranquilos (un uso de raciones, un arma, etc.) o les atacará.
+* Con **5 sale un espectro y les ataca**.
+* Con **6**, si están en la zona 5, encontrarán la **tumba de Mausi con la llama de Pele** entre los restos. Si no están en la zona 5, vuelve a tirar. 
+
+Si son listo, se les ocurrirá tocar las tapas de las tumbas y si notan calor, es que la llama está dentro.
 
 #### 1 Sala principal
 
-XXX
+_Era la sala principal, donde se reunían los visitantes de la cripta. Hay restos muebles de gran calidad y algunos esqueletos._
+
+Está iluminado por setas luminosas.
 
 #### 2 Capilla
 
-XXX
+_Aquí se pedía a los dioses que protegieran a los muertos. Hay una extraña figura de una especie de humano escamoso con alas de murciélago con un pulpo por cabeza_
 
-#### 3 Receptorio
+Está iluminado por setas luminosas.
 
-XXX
+#### 3 Receptoría
 
-#### 4 Nichos y túmulos
+_En esta sala se reunían los familiares antes de los entierros._
 
-XXX
+En las paredes están grabados los nombres de los roedores enterrados en las criptas. No reconocen los nombres, pero por los símbolos podrán ver que hay 3 zonas. Esto puede ayudarles a centrar en el tiro.
 
-#### 5 Nichos y túmulos
+#### 4 Tumbas y nichos de matais y kahunas
 
-XXX
+_Pasadizo con tumbas enclaustradas en los recovecos del camino y nichos excavados en las paredes._
 
-#### 6 Nichos y túmulos
+En este pasillo de la cripta se enterraba a matais y kahunas que hicieron historias durante sus reinados.
 
-XXX
+#### 5 Tumbas y nichos de héroes y heroínas
+
+_Pasadizo con tumbas enclaustradas en los recovecos del camino y nichos excavados en las paredes._
+
+En este pasillo de la cripta se da sepultura a los grandes héroes y heroínas
+
+#### 6 Tumbas y nichos de otras personalidades
+
+_Pasadizo con tumbas enclaustradas en los recovecos del camino y nichos excavados en las paredes._
+
+En este pasillo de la cripta se enterraba a otras personalidades por sus aportes a la sociedad como la inventora del motor de lava.
 
 #### 7 Accesos a las cuevas
 
-XXX
+_Pasadizos tallados en la roca_
+
+Se puede acceder y escapar de la cripta desde estas dos entradas (7). Elige por donde quieres meterlos.
 
 \sp
+
+#### Tesoro
+
+Si han profanado las tumbas cuando salgan quedarán malditos, pero tienen derecho a un tesoro de 4d20. Crea el tesoro antes de que entren y reparte los objetos entre las tumbas. Si el tesoro tiene objetos de Mausi, aprovecha a sacarlos cuando abran su tumba.
 
 \sinc
 

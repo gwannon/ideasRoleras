@@ -62,7 +62,7 @@
 
 \sinc
 
-### Mapa de la Cripta de los héroes y heroínas
+### Mapa de la cripta
 
 &nbsp;
 
@@ -72,10 +72,10 @@
 |---|---|
 |1|**Sala principal**|
 |2|**Capilla**|
-|3|**Receptorio**|
-|4|**Nichos y túmulos**|
-|5|**Nichos y túmulos**|
-|6|**Nichos y túmulos**|
+|3|**Receptoría**|
+|4|**Tumbas y nichos de matais y kahunas**|
+|5|**Tumbas y nichos de héroes y heroínas**|
+|6|**Tumbas y nichos de otras personalidades**|
 |7|**Accesos a las cuevas**|
 
 \conc
