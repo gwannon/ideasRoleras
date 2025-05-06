@@ -288,8 +288,6 @@ Habría rencillas entre los diferentes murales, guerras y los PJ deberán arregl
 
 La aventura trataría de averiguar qué pasa y encontrar al más viejo de los grafitis y saber qué pasa. Él les dirá que esto ya ha pasado antes. Solo pueden hacer el mural perfecto y llamar la atención de los humanos que pasan delante de ellos todos los días y convencerles de que luchen porque el ayuntamiento no destruya su mundo.
 
-\sp
-
 Habría una religión de los grafiteros como seres creadores que hace años que no se aparecen. Quizás hayan muerto o quizás se hayan olvidado de los murales.
 
 Tendría una mezcla de Trolls 2, Tron y La historia interminable.
@@ -333,6 +331,8 @@ Habría clanes de ninjas buenos y clanes de malos y peleas entre ellos por sus t
 Tendría el toque cutre y chusco de películas como Fung Fu Sion.
 
 [Ninjas cutres](https://gwannon.itch.io/ninjas-cutres)
+
+\sp
 
 ### Pac-land
 
