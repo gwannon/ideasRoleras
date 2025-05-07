@@ -9,7 +9,7 @@ $mkd = Markdown::new();
 
 $md = file_get_contents(__DIR__ . "/".$argv[1].".md");
 
-$md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
+$md = preg_replace_callback("/\|([0-9a-zA-Z]*)\.md\|/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/".$matches[1].".md"); 
   return $matches[0];
 }, $md);
