@@ -1,8 +1,8 @@
 :root {
   --padding: 62px; /*Ancho de los bordes de la página*/
-  --color-red: #0f380f;
-  --color-white: #0f380f;
-  --color-black: #cadc9f;
+  --color-red: #d4af37;
+  --color-white: #fff;
+  --color-black: #000;
 }
 
 @font-face {
@@ -13,12 +13,12 @@
 }
 
 body {
-  background: var(--color-black) url(./images/bg.png) repeat top center;
-  background-size: 30% auto;
+  background: var(--color-black) url(./images/paperboard-yellow-texture.jpg) repeat top center;
+  background-size: contain;
   margin: 0;
   padding: 0;
-  font-family: "Advent Pro", sans-serif;
-  color: var(--color-white);
+  font-family: "Goudy Bookletter 1911", serif;
+  color: var(--color-black);
   font-size: 14px;
 }
 
@@ -121,7 +121,7 @@ blockquote a {
 /* Titulares */
 
 h1 {
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
   color: var(--color-red);
   font-size: 2.6em;
   padding: 20px;
@@ -151,14 +151,14 @@ h1 > a {
   font-size: 16px;
   width: 100%;
   color: var(--color-white);
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
   font-weight: 400;
   text-decoration: none;
 }
 
 h2,
 h3 {
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
   font-weight: 400;
   font-style: normal;
   color: var(--color-red);
@@ -189,7 +189,7 @@ ul {
 }
 
 a {
-  color: var(--color-white);
+  color: var(--color-black);
 }
 
 ul {
@@ -223,7 +223,7 @@ table {
 
 table thead tr th,
 table tr th {
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
   font-weight: 700;
   font-size: 1.5em;
   background-color: var(--color-white);
@@ -237,7 +237,7 @@ table.special td {
 
 table strong {
   color: var(--color-red);
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
 }
 
 pre {
@@ -282,7 +282,7 @@ pre code {
   padding: 0px;
   margin: 0px;
   color:  var(--color-white);
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
   font-size: 16px;
   position: relative;
   white-space: pre-wrap;
@@ -363,7 +363,7 @@ body {
 
 .saltopagina:after {
   --size: 20px;
-  font-family: 'Papyrus', Cursive;
+  font-family: 'Papyrus';
   display: flex;
   justify-content: center;
   align-items: center;
