@@ -30,7 +30,7 @@
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-Bandageless, revive, maldice, escapa está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/) y [otras fuentes](#github).
+Bandageless, revive, maldice, escapa está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Imágenes libres de derecho de [freepik](https://www.freepik.com/) y [otras fuentes](https://github.com/gwannon/ideasRoleras/blob/main/Bandageless/README.md).
 
 \sc
 
