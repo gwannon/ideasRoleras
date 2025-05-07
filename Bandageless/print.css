@@ -14,12 +14,12 @@
 
 body {
   background: var(--color-black) url(./images/paperboard-yellow-texture.jpg) repeat top center;
-  background-size: contain;
+  background-size: 100% auto;
   margin: 0;
   padding: 0;
   font-family: "Goudy Bookletter 1911", serif;
   color: var(--color-black);
-  font-size: 14px;
+  font-size: 20px;
 }
 
 body:before {
@@ -84,14 +84,18 @@ body > *:first-child,
 }
 
 blockquote {
-  padding: 28px 10px 10px;
+  padding: 15px;
   background-color: var(--color-white);
   margin: 10px 0px;
   color: var(--color-black);
   position: relative;
+
+  border: 4px double var(--color-red);
+  border-radius: 30px;
+  box-shadow: -1px 1px 3px var(--color-black);s
 }
 
-blockquote:before {
+/*blockquote:before {
   content: "▬ ▼";
   display: block;
   width: calc(100% - 6px);
@@ -102,17 +106,17 @@ blockquote:before {
   color: var(--color-white);
   background-color: var(--color-black);
   text-align: right;
-}
+}*/
 
 blockquote p {
   padding: 0px;
   margin: 0px;
 }
 
-blockquote p:before {
+/*blockquote p:before {
   content: "\0024\0020";
   font-weight: 700;
-}
+}*/
 
 blockquote a {
   color:  var(--color-black);
@@ -122,16 +126,16 @@ blockquote a {
 
 h1 {
   font-family: 'Papyrus';
-  color: var(--color-black);
-  font-size: 2.6em;
+  color: var(--color-red);
+  font-size: 2em;
   padding: 20px;
   margin: 0 0 20px 0;
   text-align: center;
   position:relative;
-  border: 5px double var(--color-red);
+  text-shadow: 1px 1px 1px var(--color-black);
 }
 
-h1:after,
+/*h1:after,
 table:after {
   content: "X";
   display: block;
@@ -143,12 +147,12 @@ table:after {
   font-size: 20px;
   padding: 3px;
   background-color: var(--color-black);
-}
+}*/
 
 h1 > a {
   display: block;
   text-align: center;
-  font-size: 16px;
+  font-size: 0.8em;
   width: 100%;
   color: var(--color-black);
   font-family: 'Papyrus';
@@ -157,29 +161,60 @@ h1 > a {
 }
 
 h2,
-h3 {
+h3,
+h4 {
   font-family: 'Papyrus';
   font-weight: 400;
   font-style: normal;
-  color: var(--color-black);
+  color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 0px;
-  /*text-shadow: 0px 0px 11px #000000;*/
+  text-shadow: 1px 1px 1px var(--color-black);
   margin-top: 10px;
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 1.5em;
+  background-color: var(--color-white);
+}
+
+h2 {
+  border: 4px double var(--color-red);
+  border-radius: 30px;
+  display: inline-block;
+  padding: 3px 10px;
+  position: relative;
+  margin-bottom: 10px;
+  box-shadow: -1px 1px 3px var(--color-black);
+}
+
+h2:after {
+  content: '';
+  position: absolute;
+  right: -8px;
+  width: 0;
+  top: -4px;
+  height: calc(100% + 8px);
+  border-right: 4px double var(--color-red);
+  box-shadow: -1px 1px 3px black;
+}
+
+section > div:has(h2) {
+  text-align: center;
 }
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
-h2 + p, 
+h4 {
+  font-size: 1em;
+}
+
+/*h2 + p, 
 h3 + p {
   margin-top: 0px;
-}
+}*/
 
 /* Otros elementos */
 
@@ -193,31 +228,33 @@ a {
 }
 
 ul {
-  padding-left: 12px;
+  padding-left: 22px;
 }
 
 ul li {
   list-style-type: none;
   position: relative;
+  margin-bottom: 8px;
 }
 
 ul li:before {
-  content: '\268F';
+  content: '☥';
   position: absolute;
   font-size: 10px;
-  top: 0px;
-  left: -12px;
+  top: -6px;
+  left: -25px;
   display: block;
-  color: var(--color-white);
+  color: var(--color-red);
+  font-size: 1.5em;
 } 
 
 table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  border: 5px double var(--color-red);
+  /*border: 5px double var(--color-red);
   padding: 5px;
-  position: relative;
+  position: relative;*/
 
 }
 
@@ -225,19 +262,33 @@ table thead tr th,
 table tr th {
   font-family: 'Papyrus';
   font-weight: 700;
-  font-size: 1.5em;
+  font-size: 1em;
   background-color: var(--color-white);
   color: var(--color-black);
 }
 
-table.special th,
-table.special td {
-  font-size: 0.9em;
+table:not(.special) tr td:first-of-type {
+  text-align: center;
 }
 
 table strong {
-  color: var(--color-red);
+  color: var(--color-black);
   font-family: 'Papyrus';
+}
+
+table:not(.special) tr:nth-of-type(even) {
+  background-color: var(--color-white);
+}
+
+table:not(.special) tr:nth-of-type(odd) {
+  background-color: var(--color-red);
+}
+
+table.special {
+  border: 4px double var(--color-red);
+  border-radius: 30px;
+  box-shadow: -1px 1px 3px var(--color-black);
+  overflow: hidden;
 }
 
 pre {
@@ -248,7 +299,7 @@ pre {
   position: relative;
 }
  
-pre:before {
+/*pre:before {
   content: "▲";
   white-space: pre;
   width: 15px;
@@ -276,7 +327,7 @@ pre:after {
   display: block;
   position: absolute;
   text-align: center;
-}
+}*/
 
 pre code {
   padding: 0px;
@@ -345,6 +396,9 @@ del:after {
 
 img {
   max-width: 100%;
+  border: 4px double var(--color-red);
+  border-radius: 30px;
+  box-shadow: -1px 1px 3px var(--color-black);
 }
 
 /* Paginación */

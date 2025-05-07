@@ -2,9 +2,11 @@
 
 # Bandageless, revive, maldice, escapa [por Gwannon](https://gwannon.itch.io/bandageless-breathless)
 
-\conc
-
 **Bandageless, es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre momias egipcias tratando de escapar de un museo.**
+
+&nbsp;
+
+\conc
 
 |01PorQue.md|
 
@@ -18,11 +20,11 @@
 
 \sp
 
+\sinc
+
 |HojaPersonaje.html|
 
-\sc
-
-\sinc
+&nbsp;
 
 ## Licencia 
 

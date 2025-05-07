@@ -12,3 +12,4 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 
 * paperboard-yellow-texture.jpg https://www.freepik.com/free-photo/paperboard-yellow-texture_5487782.htm
 * Ayudante con mochila por [Boletín informativo de amigos de la egiptología](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf)
+* https://www.flickr.com/photos/jrthibault/49992702476/in/album-72157714654737082/
