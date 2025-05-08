@@ -100,16 +100,16 @@ Puedes elegir una personalización al azar de la siguiente tabla o escoger la qu
 |---|---|
 |1|**Decoración especial:** La sala está muy decorada, igual como una cueva de cavernícolas, una selva, un salón de un castillo, una casa romana.|
 |2|**Carrito de limpieza:** Alguien se ha dejado un carro de la limpieza abandonado.|
-|3|XXX|
+|3|**Experiencia interactivas:** Está lleno de pantallas interactivas que permiten jugar e interactuar con las piezas de la sala.|
 |4|**Claraboya:** Hay una claraboya que permite ver el cielo. Pero está altísima para salir por ella.|
 |5|XXX|
-|6|XXX|
+|6|**Suelo recien pulido:** El pulido hace que esté muy resbaladizo.|
 |7|XXX|
 |8|**Sala cerrada temporalmente:** Está cerrado con llaves, o han puesto algo grande y pesado que no permite entrar, para evitar que la gente entre.|
 |9|XXX|
 |10|XXX|
 |11|**Fiesta o aniversario:** Se ha celebrado algún tipo de fiesta y hay restos de ellas, desde globos a tarta de cumpleaños.|
-|12|**Hay alguien durmiendo:** quizas sea un vigilante o un empleado que se ha tomado un descanso.|
+|12|**Hay alguien durmiendo:** Quizás sea un vigilante o un empleado que se ha tomado un descanso.|
 
 &nbsp;
 
@@ -119,9 +119,9 @@ Puedes elegir una personalización al azar de la siguiente tabla o escoger la qu
 
 La regla fundamental es que no hay que separar el grupo, pero sí se da el caso tendrás que generar nuevos relojes de salas para cada grupo con tantos quesitos rellenados como había antes de separarse.
 
-Cuando un grupo cambia de habitación hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
-
 \sp
+
+Cuando un grupo cambia de habitación hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
 
 ### Alarmas
 
@@ -137,8 +137,6 @@ Este reloj resume un montón de elementos del sistema de seguridad del museo com
 * Cuando consigues un objeto maldito. Aunque no sepan por qué, las personas notan la magia de estos objetos y les ponen más seguridad que al resto de cosas del museo.
 
 > Es importante que tus momias no tengan claro cuando se rellenan los quesitos de las alarmas, solo una breve idea.
-
-\sc
 
 Mientras tengas quesitos que rellenar las alarmas no han saltado. En el momento que tengas que **rellenar un quesito y haya no espacio libre, saltarán las alarmas** y deberás volver a tu sarcófago para escapar otro día o correr hacia la salida y que sea lo que Anubis quiera.
 
