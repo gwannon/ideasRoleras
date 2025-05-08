@@ -121,7 +121,6 @@ Solo se pueden llevar **3 objetos y 1 botella de líquido de embalsamar en la mo
 
 Puede que el personal del museo no lo sepa, pero las vitrinas están llenas de objetos de gran poder mágico y funestas maldiciones que te ayudarán en tu fuga.
 
-Los objetos malditos empiezan con un 1d10 y cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico.
 
 \sp
 
@@ -129,25 +128,28 @@ Los objetos malditos empiezan con un 1d10 y cada uso pierde un nivel de dado has
 
 |1d10|Objetos malditos|
 |---|---|
-|1|**Calavera de Neanderthal con símbolos extraños:** XXX|
-|2|**Calavera de cristal:** XXX|
-|3|**Vasos canopes con sesos de momia:** XXX|
-|4|**Incensario con símbolos demoniacos:** XXX|
-|5|**Tomo antiguo en lengua muerta con encuadernación de piel humana:** XXX|
-|6|**Hacha de verdugo:** XXX|
-|7|**Katana de hoja negra:** XXX|
-|8|**Sombrero de Napoleón:** XXX|
-|9|**Máscara de gas de la I GM:** XXX|
-|10|**Pistola Luger de oficial nazi:** XXX|
+|1|**Calavera de Neanderthal con símbolos extraños:** Invoca una horda de ratas que te sigue y obedecen ciegamente tus órdenes.|
+|2|**Calavera de cristal:** Te permite hablar telepáticamente con los humanos.|
+|3|**Vasos canopes con órganos de momia:** Cura 2 puntos de degradación al consumir parte de los órganos almacenados.|
+|4|**Incensario con símbolos demoniacos:** Crea una densa niebla que llena toda la sala y no permite ver nada.|
+|5|**Tomo antiguo en lengua muerta con encuadernación de piel humana:** Permite levantar zombis a partir de restos mortales de cualquier animal (de pequeños roedores disecados a esqueletos de dinosaurios). Cada zombi puede hacer una tirada d6 para ayudarte.|
+|6|**Hacha de verdugo:** Está sedienta de sangre y si atacas con ella, siempre corta la cabeza.|
+|7|**Katana de hoja negra:** su filo es tan afilado que corta cualquier material por duro que sea.|
+|8|**Mascara de hierro:** su presencia intimidatoria, provoca miedo en las mentes de los humanos.|
+|9|**Máscara de gas de la I GM:** Te hace inmune a todo tipo de gas, venenos, humo, etc.|
+|10|**Pistola Luger de oficial nazi:** Usada para ejecutar persona, si disparas, mata siempre.|
 
 &nbsp;
 
 \conc
 
+Los objetos malditos empiezan con un 1d10 y cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico. Para poder usar sus capacidades mágicas hay que pasar la tirada del objeto.
+
 Cada momia solo puede tener un objeto maldito y no ocupan espacio en la mochila. Son objetos que llevas en la cabeza como tiaras y cascos, colgados del cuello como collares o incluso entre tus vendajes o en las manos y pies.
 
 Puede haber objetos o situaciones, a discreción del DJ, que rellenen de energía tus objetos, por lo que un objeto maldito se puede mantener como equipo a la espera de recargarlo de poder.
 
+\sp
 
 ### Encomendarse a los dioses (Stunts)
 
@@ -157,13 +159,15 @@ Una vez gastada la suplica a tu divinidad protectora, no podrás usarla de nuevo
 
 ### Degradación (Stress)
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de degradación corporal. Si tu momia alcanza 4 niveles de degradación, estás muy degradada, es decir, en un estado de conservación muy malo.
+Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de degradación corporal.
+
+Si tu momia alcanza 4 niveles de degradación, estás muy degradada, es decir, en un estado de conservación muy malo.
 
 Cuando estás degradada, fallar una acción peligrosa significa que tu cuerpo colapsa y solo queda de ti un montón de restos humanos secos y de vendajes viejos y sucios.
 
-\sp
-
 Quizás los restauradores, puedan hacer algo con tus restos en unos años y vuelvas a la vida para volver a intentar escapar del museo.
+
+\sc
 
 ### Líquido de embalsamar (Medikits)
 
@@ -183,6 +187,8 @@ Los personajes tienen un total de 6 habilidades:
 * **Deambular:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
+
+\sp
 
 Al comenzar cada noche de fuga, llevarás también en tu bandolera una pieza de equipo aleatoria (d10) con la que te enterraron y que estaba entre tus vendajes.
 
