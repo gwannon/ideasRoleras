@@ -38,53 +38,53 @@ Cuando tus momias entren en una nueva sala tira, si quieres, en la siguiente tab
 
 \sinc
 
-#### Tabla de temática o función de la sala
+### Tabla de temática o función de la sala
 
 \conc
 
 |1d66|Temática o función|
 |---|---|
 |11|Sala de las escobas|
-|12|XXX|
-|13|Archivos y documentación|
-|14|XXX|
+|12|&#9765; Pintores renacentistas|
+|13|&#9765; Archivos y documentación|
+|14|&#9765; Sala de almacenamiento de objetos sin catalogar o en cuarentena|
 |15|Zona de descanso de los trabajadores con café y máquinas de vending|
-|16|XXX|
+|16|Cafetería|
 |21|Gran salón central|
-|22|Sala de lactancia|
-|23|Sala de estatuas romanas y griegas|
+|22|Sala de recogida y entrega de audioguías|
+|23|&#9765; Sala de estatuas romanas y griegas|
 |24|Sala de arte abstracto|
 |25|Sala de cuadros impresionistas|
 |26|Jardín interior|
 |31|Sala de calderas|
-|32|XXX|
-|33|Cafetería|
+|32|&#9765; Exposición invitada de los guerreros de terracota|
+|33|&#9765; Cámara frigorífica para conservación de objetos especiales|
 |34|Muelle de carga y descarga|
-|35|Biblioteca|
-|36|XXX|
+|35|&#9765; Biblioteca|
+|36|&#9765; Cuarto de objetos perdidos|
 
 \sc
 
 |1d66|Temática o función|
 |---|---|
-|41|Sala de restauraciones|
+|41|&#9765; Sala de restauraciones|
 |42|Guardarropas|
-|43|XXX|
+|43|&#9765; Exposición japonesa del periodo Edo|
 |44|Sala de cine|
-|45|XXX|
-|46|Pinacoteca|
-|51|Sala de recogida y entrega de audioguías|
-|52|Salsa llena de armaduras medievales|
+|45|&#9765; Sala de la I GM|
+|46|Pinacoteca moderna|
+|51|Sala de lactancia|
+|52|&#9765; Salsa llena de armaduras medievales|
 |53|Tienda de regalos|
-|54|Colecciones de conchas y caparazones de animales extintos|
-|55|Sala jurásica con esqueletos de dinosaurios|
-|56|Sala con la pieza más icónica del museo (Mona Lisa, Piedra Roseta, Mascara de Tutankamon, etc.)|
-|61|Exposición de la II GM|
-|63|XXX|
+|54|&#9765; Colecciones de conchas y caparazones de animales extintos|
+|55|&#9765; Sala jurásica con esqueletos de dinosaurios|
+|56|&#9765; Gran estancia con la pieza más icónica del museo (Mona Lisa, Piedra Roseta, Mascara de Tutankamon, etc.)|
+|61|&#9765; Exposición de la II GM|
+|63|&#9765; Objetos de la edad de bronce|
 |62|Zona de administración|
-|64|XXX|
-|65|Nueva instalación del museo con todo envuelto en cartón y plástico de burbujas|
-|66|Exposición itinerante|
+|64|&#9765; Sala de las grandes exploraciones|
+|65|&#9765; Nueva instalación del museo con todo envuelto en cartón y plástico de burbujas|
+|66|&#9765; Exposición itinerante|
 
 \sp
 

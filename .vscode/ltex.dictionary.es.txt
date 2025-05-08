@@ -920,3 +920,15 @@ d4
 Bandageless
 Khopesh
 khopesh
+Ming
+Checks
+Breath
+Your
+Katana
+Luger
+Sejem
+Jepresh
+Medikits
+Tutankamon
+1d66
+ankh

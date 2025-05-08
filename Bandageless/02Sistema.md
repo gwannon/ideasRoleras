@@ -30,7 +30,7 @@ Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente
 
 Para recuperar todas tus habilidades, debes «recolarte los vendajes». Se trata de un breve descanso para poder atar, trenzar y ajustar tus vendajes, lo único que mantiene unido tus ajados restos mortales.
 
-Para recolocarte las vendas funerarias debes estar **fuera de peligro en un lugar tranquilo lejos de la vigilancia de vigilantes y cámaras de seguridad**, pero **lo más importante es tener en el equipo una pieza de tela** (camisetas, alfombras, túnicas, etc.) del material que sea (lino, algodón, poliéster, lana, etc.) con lo que remendar tus vendajes.
+Para recolocarte las vendas funerarias debes estar, primero, **fuera de peligro en un lugar tranquilo lejos de la vigilancia de vigilantes y cámaras de seguridad**. Lo segundo y **más importante es tener en el equipo una pieza de tela** (camisetas, alfombras, túnicas, etc.) del material que sea (lino, algodón, poliéster, lana, etc.) con lo que remendar tus vendajes.
 
 Vale con que una momia del grupo gaste un nivel de dado de la pieza de tela para que todas las momias puedan recolocarse las vendas.
 
@@ -52,8 +52,9 @@ Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tab
 
 |1d20|Equipo|
 |---|---|
-|1|Pasa algo malo|
-|2-14|No encuentras nada|
+|1|Objeto maldito|
+|2|Pasa algo malo|
+|3-14|No encuentras nada|
 |15-16|1 pieza de equipo de d6|
 |17-18|1 pieza de equipo de d8|
 |19-20|1 pieza de equipo de d10 o 1 botella de líquido de embalsamar|
@@ -62,21 +63,21 @@ El equipo que puedes buscar son principalmente objetos de las vitrinas del museo
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 
+No hay objetos malditos en todas las salas del museo, solo en las que haya reliquias, marcadas con un ankh (&#9765;) en la «Tabla de temática o función de la sala».
+
+Si sale un 1 en una sala sin reliquias, vuelve a tirar.
+
 \sinc
 
 &nbsp;
 
 |1d20|Equipo|
 |---|---|
-|1|Camiseta de algodón o sudadera de la tienda del museo|
-|2|XXX|
-|3|XXX|
+|1|Mapa del museo|
+|2|Camiseta de algodón o sudadera de la tienda del museo|
+|3|Lanza con punta de sílex, jabalina, etc.|
 |4|Silbato, cuerno vikingo, tuba romana, etc.|
 |5|Antorcha, linterna, lámpara de aceite, etc.|
-|6|Hacha de bronce, khopesh de bronce, etc.|
-|7|XXX|
-|8|Busto romano, venus paleolítica, etc.|
-|9|Caja de herramientas, kit de reparaciones, etc.|
 
 \conc
 
@@ -86,6 +87,10 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 
 |1d20|Equipo|
 |---|---|
+|6|Hacha de bronce, khopesh de bronce, etc.|
+|7|Honda etrusca, arco recurvo, etc.|
+|8|Busto romano, venus paleolítica, etc.|
+|9|Caja de herramientas, kit de reparaciones, etc.|
 |10|Tote con logo del museo, cesta de mimbre, etc.|
 |11|Fémur de tiranosaurio, costilla de ballena, etc.|
 |12|Alfombra, pieles de animales, etc.|
@@ -95,8 +100,8 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |16|Jarrón Ming, ánfora romana, etc.|
 |17|Túnica ceremonial, sudario, capa de armiño, etc.|
 |18|Canicas de metal, bolas de mármol, etc.|
-|19|XXX|
-|20|Lanza con punta de sílex, jabalina, etc.|
+|19|Extintor, cubo de arena, manta ignífuga, etc.|
+|20|Mapa del museo|
 
 &nbsp;
 
@@ -116,26 +121,33 @@ Solo se pueden llevar **3 objetos y 1 botella de líquido de embalsamar en la mo
 
 Puede que el personal del museo no lo sepa, pero las vitrinas están llenas de objetos de gran poder mágico y funestas maldiciones que te ayudarán en tu fuga.
 
-|1d10|Objetos malditos|
-|---|---|
-|1|XXX|
-|2|XXX|
-|3|**Vasos canopos con sesos de momia:** XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-|7|XXX|
-|8|XXX|
-|9|XXX|
-|10|XXX|
+Los objetos malditos empiezan con un 1d10 y cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico.
 
 \sp
 
-Los objetos malditos empiezan con un 1d10 y cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico.
+\sinc
+
+|1d10|Objetos malditos|
+|---|---|
+|1|**Calavera de Neanderthal con símbolos extraños:** XXX|
+|2|**Calavera de cristal:** XXX|
+|3|**Vasos canopes con sesos de momia:** XXX|
+|4|**Incensario con símbolos demoniacos:** XXX|
+|5|**Tomo antiguo en lengua muerta con encuadernación de piel humana:** XXX|
+|6|**Hacha de verdugo:** XXX|
+|7|**Katana de hoja negra:** XXX|
+|8|**Sombrero de Napoleón:** XXX|
+|9|**Máscara de gas de la I GM:** XXX|
+|10|**Pistola Luger de oficial nazi:** XXX|
+
+&nbsp;
+
+\conc
 
 Cada momia solo puede tener un objeto maldito y no ocupan espacio en la mochila. Son objetos que llevas en la cabeza como tiaras y cascos, colgados del cuello como collares o incluso entre tus vendajes o en las manos y pies.
 
-Puede haber objetos o situaciones a discreción del DJ que rellenen de energía tus objetos, por lo que un objeto maldito se puede mantener como equipo a la espera de recargarlo de poder.
+Puede haber objetos o situaciones, a discreción del DJ, que rellenen de energía tus objetos, por lo que un objeto maldito se puede mantener como equipo a la espera de recargarlo de poder.
+
 
 ### Encomendarse a los dioses (Stunts)
 
@@ -148,6 +160,8 @@ Una vez gastada la suplica a tu divinidad protectora, no podrás usarla de nuevo
 Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de degradación corporal. Si tu momia alcanza 4 niveles de degradación, estás muy degradada, es decir, en un estado de conservación muy malo.
 
 Cuando estás degradada, fallar una acción peligrosa significa que tu cuerpo colapsa y solo queda de ti un montón de restos humanos secos y de vendajes viejos y sucios.
+
+\sp
 
 Quizás los restauradores, puedan hacer algo con tus restos en unos años y vuelvas a la vida para volver a intentar escapar del museo.
 
@@ -164,16 +178,13 @@ Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8
 Los personajes tienen un total de 6 habilidades:
 
 * **Empujar:** Abrirte paso, doblar, destrozar.
-
-\sp
-
 * **Moverse:** Correr, saltar, trepar.
 * **Acechar:** Esconderse, husmear, merodear.
 * **Deambular:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-Al comenzar cada noche de fuga, llevarás también en tu bandolera una pieza de equipo aleatoria a nivel de d10 con la que te enterraron y que estaba entre tus vendajes.
+Al comenzar cada noche de fuga, llevarás también en tu bandolera una pieza de equipo aleatoria (d10) con la que te enterraron y que estaba entre tus vendajes.
 
 \sinc
 
