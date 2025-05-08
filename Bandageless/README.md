@@ -14,3 +14,9 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 * Ayudante con mochila por [Boletín informativo de amigos de la egiptología](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf)
 * https://www.flickr.com/photos/jrthibault/49992702476/in/album-72157714654737082/
 * https://www.freepik.com/free-vector/golden-tutankhamen-beetle_38266663.htm
+* Flat anubis Egyptian god with jackal head and human body by [redgreystock](https://www.freepik.com/free-vector/flat-anubis-egyptian-god-with-jackal-head-human-body_51240814.htm)
+
+
+Probar
+
+https://www.freepik.com/free-vector/egyptian-set-pharaoh-sarcophagus-ancient-gods-other-symbols-culture_3685373.htm

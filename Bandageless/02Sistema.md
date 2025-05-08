@@ -76,7 +76,7 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |6|Hacha de bronce, khopesh de bronce, etc.|
 |7|XXX|
 |8|Busto romano, venus paleolítica, etc.|
-|9|Caja de herramientas, XXX, etc.|
+|9|Caja de herramientas, kit de reparaciones, etc.|
 
 \conc
 
@@ -89,8 +89,8 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |10|Tote con logo del museo, cesta de mimbre, etc.|
 |11|Fémur de tiranosaurio, costilla de ballena, etc.|
 |12|Alfombra, pieles de animales, etc.|
-|13|Bote de pintura en spray|
-|14|Alcohol de quemar, XXX, etc.|
+|13|Lata de pintura, bote de pintura en spray, etc.|
+|14|Alcohol de quemar, queroseno, etc.|
 |15|Casco de la II GM, casco vikingo, etc.|
 |16|Jarrón Ming, ánfora romana, etc.|
 |17|Túnica ceremonial, sudario, capa de armiño, etc.|
