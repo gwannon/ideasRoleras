@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: Bandageless
 
 InfoKey: Subject
-InfoValue: Bandageless, es una mini-ambientación para Breathless sobre momias egipcias tratando de escapar de un museo. Versión 0.1
+InfoValue: Bandageless, es una mini-ambientación para Breathless sobre momias egipcias tratando de escapar de un museo. Versión 0.2
 
 InfoKey: Author
 InfoValue: Gwannon

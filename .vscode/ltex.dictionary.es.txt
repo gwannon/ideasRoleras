@@ -917,3 +917,6 @@ at
 pale
 Cefeteria
 d4
+Bandageless
+Khopesh
+khopesh

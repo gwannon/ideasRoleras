@@ -188,3 +188,4 @@
 {"rule":"ES_SIMPLE_REPLACE_VERBS","sentence":"^\\QEs tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QÉgypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d’un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault\\E$"}
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QÉgypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d’un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QÉgypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d'un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault\\E$"}
