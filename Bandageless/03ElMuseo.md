@@ -146,4 +146,8 @@ Si los grupos se separan el reloj de las alarmas sigue siendo único y ambos gru
 
 #### Cuando suenan las alarmas
 
+Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momias. Deberán decidir si lanzarse a una loca carrera hacia la salida o volver a sus sarcófagos a esperar a la noche siguiente.
+ 
 XXX
+
+Volver al sarcófago tiene sus ventajas, XXX

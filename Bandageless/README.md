@@ -1,6 +1,6 @@
 # Bandageless, revive, maldice, escapa [por Gwannon](https://gwannon.itch.io/bandageless-breathless)
 
-Bandageless, es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre momias egipcias tratando de escapar de un museo.
+«Bandageless, revive, maldice, escapa» es una mini-ambientación para [Breathless](https://farirpgs.com/breathless/creator-kit) sobre momias egipcias tratando de escapar de un museo.
 
 Ver en [itch.io](https://gwannon.itch.io/bandageless-breathless).
 
@@ -10,10 +10,10 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/),
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de **[freepik](https://www.freepik.com/)** y otras fuentes.
 
-* paperboard-yellow-texture.jpg https://www.freepik.com/free-photo/paperboard-yellow-texture_5487782.htm
+* Paperboard Yellow Texture by [efe_madrid](https://www.freepik.com/free-photo/paperboard-yellow-texture_5487782.htm)
 * Ayudante con mochila por [Boletín informativo de amigos de la egiptología](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf)
-* https://www.flickr.com/photos/jrthibault/49992702476/in/album-72157714654737082/
-* https://www.freepik.com/free-vector/golden-tutankhamen-beetle_38266663.htm
+* Égypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d'un ouvrier, Amennakht ou Nebenmaat - [Marie Thérèse Hébert & Jean Robert Thibault](https://www.flickr.com/photos/jrthibault/49992702476/in/album-72157714654737082/)
+* Golden tutankhamen beetle by [jemastock](https://www.freepik.com/free-vector/golden-tutankhamen-beetle_38266663.htm)
 * Flat anubis Egyptian god with jackal head and human body by [redgreystock](https://www.freepik.com/free-vector/flat-anubis-egyptian-god-with-jackal-head-human-body_51240814.htm)
 
 
