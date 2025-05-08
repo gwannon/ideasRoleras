@@ -25,12 +25,23 @@ body {
 body:before {
   content: "";
   display: block;
-  width: var(--padding);
+  border: 4px double var(--color-red);
+  border-radius: 30px;
+  box-shadow: -1px 1px 3px var(--color-black);
+  width: calc(100% - 30px);
+  height: calc(100% - 30px);
+  position: fixed;
+  top: 10px;
+  left: 12px;
+  background: #ffa50057 url(./images/bg.png) center center repeat;
+  background-size: 250px auto;
+
+  /*width: var(--padding);
   height: 100vh;
   position: fixed;
   top: 0px;
   left: 0px;
-  background: transparent url(./images/border1.png) top left repeat-y
+  background: transparent url(./images/border1.png) top left repeat-y;*/
 }
 
 body:after {
@@ -43,6 +54,11 @@ body:after {
   right: 0px;
   background: transparent url(./images/border2.png) top left repeat-y;
 }
+
+ section {
+  position: relative;
+  z-index: 10;
+ }
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -92,7 +108,7 @@ blockquote {
 
   border: 4px double var(--color-red);
   border-radius: 30px;
-  box-shadow: -1px 1px 3px var(--color-black);s
+  box-shadow: -1px 1px 3px var(--color-black);
 }
 
 /*blockquote:before {
@@ -174,11 +190,8 @@ h4 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.6em;
   background-color: var(--color-white);
-}
-
-h2 {
   border: 4px double var(--color-red);
   border-radius: 30px;
   display: inline-block;
@@ -204,11 +217,11 @@ section > div:has(h2) {
 }
 
 h3 {
-  font-size: 1.2em;
+  font-size: 1.4em;
 }
 
 h4 {
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 /*h2 + p, 
@@ -429,10 +442,10 @@ body {
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
-  bottom: 20px;
+  bottom: 30px;
   right: calc(50% - 40px);
-  width: 80px;
-  height: 60px;
+  width: 70px;
+  height: 50px;
   z-index: 10;
   opacity: 1;
   font-size: 1.5em;
