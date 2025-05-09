@@ -121,7 +121,6 @@ Solo se pueden llevar **3 objetos y 1 botella de líquido de embalsamar en la mo
 
 Puede que el personal del museo no lo sepa, pero las vitrinas están llenas de objetos de gran poder mágico y funestas maldiciones que te ayudarán en tu fuga.
 
-
 \sp
 
 \sinc
@@ -134,8 +133,8 @@ Puede que el personal del museo no lo sepa, pero las vitrinas están llenas de o
 |4|**Incensario con símbolos demoniacos:** Crea una densa niebla que llena toda la sala y no permite ver nada.|
 |5|**Tomo antiguo en lengua muerta con encuadernación de piel humana:** Permite levantar zombis a partir de restos mortales de cualquier animal (de pequeños roedores disecados a esqueletos de dinosaurios). Cada zombi puede hacer una tirada d6 para ayudarte.|
 |6|**Hacha de verdugo:** Está sedienta de sangre y si atacas con ella, siempre corta la cabeza.|
-|7|**Katana de hoja negra:** su filo es tan afilado que corta cualquier material por duro que sea.|
-|8|**Mascara de hierro:** su presencia intimidatoria, provoca miedo en las mentes de los humanos.|
+|7|**Sable de caballería de hoja negra:** Su filo es tan afilado que corta cualquier material, por duro que sea.|
+|8|**Mascara de hierro:** Su presencia intimidatoria provoca miedo en las mentes de los humanos.|
 |9|**Máscara de gas de la I GM:** Te hace inmune a todo tipo de gas, venenos, humo, etc.|
 |10|**Pistola Luger de oficial nazi:** Usada para ejecutar persona, si disparas, mata siempre.|
 

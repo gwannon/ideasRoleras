@@ -18,7 +18,6 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 * Ancient egypt hieroglyphics background with flat design [freepik](https://www.freepik.com/free-vector/ancient-egypt-hieroglyphics-background-with-flat-design_2754089.htm)
 * "Egypt Flat Colorful Illustration by [macrovector](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm)
 
-
 Probar
 
 https://www.freepik.com/free-vector/egyptian-set-pharaoh-sarcophagus-ancient-gods-other-symbols-culture_3685373.htm
