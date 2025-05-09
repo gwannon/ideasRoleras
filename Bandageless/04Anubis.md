@@ -18,4 +18,4 @@ XXX
 
 XXX
 
-Los chacales pueden **oler la energía que se desprenden cuando se usan objetos malditos**, de forma que si usas estos objetos pueden detectarte e y encontrarte. Si hay chacales en el museo, debes estar muy segura a la hora de usar tus objetos malditos, porque puede ser tu perdisión. 
+Los chacales pueden **oler la energía que se desprenden cuando se usan objetos malditos**, de forma que si usas estos objetos pueden detectarte e y encontrarte. Si hay chacales en el museo, debes estar muy segura a la hora de usar tus objetos malditos, porque puede ser tu perdición. 
