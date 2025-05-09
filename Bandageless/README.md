@@ -16,8 +16,11 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 * Golden tutankhamen beetle by [jemastock](https://www.freepik.com/free-vector/golden-tutankhamen-beetle_38266663.htm)
 * Flat anubis Egyptian god with jackal head and human body by [redgreystock](https://www.freepik.com/free-vector/flat-anubis-egyptian-god-with-jackal-head-human-body_51240814.htm)
 * Ancient egypt hieroglyphics background with flat design [freepik](https://www.freepik.com/free-vector/ancient-egypt-hieroglyphics-background-with-flat-design_2754089.htm)
+* "Egypt Flat Colorful Illustration by [macrovector](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm)
 
 
 Probar
 
 https://www.freepik.com/free-vector/egyptian-set-pharaoh-sarcophagus-ancient-gods-other-symbols-culture_3685373.htm
+
+https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm

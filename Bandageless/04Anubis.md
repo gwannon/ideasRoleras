@@ -13,4 +13,4 @@ Has quebrantado las leyes de la vida y la muerte y Anubis no está contento con 
 
 XXX
 
-Los chacales pueden oler los objetos malditos, incluso sin energía, y cualquier portador de un objeto maldito se convierten en objetivo de los chacales 
+Los chacales pueden **oler los objetos malditos**, incluso sin energía, y cualquier portador de un objeto maldito se convierten en objetivo de los chacales. 

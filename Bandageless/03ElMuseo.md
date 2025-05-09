@@ -63,6 +63,8 @@ Cuando tus momias entren en una nueva sala tira, si quieres, en la siguiente tab
 |35|&#9765; Biblioteca|
 |36|&#9765; Cuarto de objetos perdidos|
 
+&#9765; puede haber objetos malditos
+
 \sc
 
 |1d66|Temática o función|

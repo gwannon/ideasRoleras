@@ -143,13 +143,15 @@ Puede que el personal del museo no lo sepa, pero las vitrinas están llenas de o
 
 \conc
 
-Los objetos malditos empiezan con un 1d10 y cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico. Para poder usar sus capacidades mágicas hay que pasar la tirada del objeto.
+Los objetos malditos empiezan con un 1d10. Cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico. Para poder usar sus capacidades mágicas hay que pasar la tirada del objeto.
 
 Cada momia solo puede tener un objeto maldito y no ocupan espacio en la mochila. Son objetos que llevas en la cabeza como tiaras y cascos, colgados del cuello como collares o incluso entre tus vendajes o en las manos y pies.
 
 Puede haber objetos o situaciones, a discreción del DJ, que rellenen de energía tus objetos, por lo que un objeto maldito se puede mantener como equipo a la espera de recargarlo de poder.
 
 \sp
+
+[![Egypt Flat Colorful Illustration by macrovector](./images/19714.jpg "Egypt Flat Colorful Illustration by macrovector")](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm "Egypt Flat Colorful Illustration by macrovector")
 
 ### Encomendarse a los dioses (Stunts)
 
@@ -167,8 +169,6 @@ Cuando estás degradada, fallar una acción peligrosa significa que tu cuerpo co
 
 Quizás los restauradores, puedan hacer algo con tus restos en unos años y vuelvas a la vida para volver a intentar escapar del museo.
 
-\sc
-
 ### Líquido de embalsamar (Medikits)
 
 Puedes echarte por encima, en cualquier momento, una botella de líquido de embalsamar para eliminar 2 puntos de degradación. Otra opción es guarecerte en un lugar seguro por unos segundos para tensar tus vendas y eliminar 1 punto de degradación.
@@ -184,11 +184,12 @@ Los personajes tienen un total de 6 habilidades:
 * **Empujar:** Abrirte paso, doblar, destrozar.
 * **Moverse:** Correr, saltar, trepar.
 * **Acechar:** Esconderse, husmear, merodear.
+
+\sp
+
 * **Deambular:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
-
-\sp
 
 Al comenzar cada noche de fuga, llevarás también en tu bandolera una pieza de equipo aleatoria (d10) con la que te enterraron y que estaba entre tus vendajes.
 
