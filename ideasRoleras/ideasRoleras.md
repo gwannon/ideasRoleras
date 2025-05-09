@@ -292,6 +292,22 @@ Habría una religión de los grafiteros como seres creadores que hace años que 
 
 Tendría una mezcla de Trolls 2, Tron y La historia interminable.
 
+### Honoris causa
+
+La ambientación sería una inmensa universidad en un mundo medieval fantástico. Y todo transcurriría en sus aulas y despachos. Sería una mezcla en la «Universidad Invisible» de Mundo Disco y «La Universidad»i de El nombre del viento.
+
+No sería solo de magia, sino de todo tipo de saberes, con arqueólogos que traen momias élficas, científicos que reviven cadáveres de orcos con rayos o profesores de dibujo naturalista que traen Medusas para la clase de retratos.
+
+Habría salas de todo tipo, mágicas, no mágicas, aulas, laboratorios, salas de conferencias, bibliotecas, bibliotecas prohibidas y habría todo tipo de misterios y aventuras entre sus pasillos, desde fantasmas hasta invasiones de plantas carnívoras.
+
+Si te va el rollo Mundo Disco, tendría su punto que hubiera mucha burocracia, a veces exasperante, teniendo que rellenar por triplicado un formulario para pedir financiación para comprar veneno para fumigar a las abejas asesinas gigantes que han creado en el laboratorio de biología.
+
+Incluso podría haber «magos» de la burocracia que saben aprovecharse del sistema para conseguir cosas.
+
+Si lo quieres más serio, podría haber una gran estratificación de la gente de la universidad, con los alumnos como pueblo llano, los profesores como nobles y clérigos y el decano como el rey.
+
+Habría que ascender socialmente ayudando a tus profesores o extorsionándoles.
+
 ### La liga de los críptidos extraordinarios
 
 Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
@@ -309,6 +325,8 @@ Debes entregar un paquete y esquivar los equipos de mercenarios enviados por meg
 Algún becario del departamento de egiptología del British Museum ha desempolvado el Libro de Amon-Ra (el de La Momia) y ha leído un pasaje al azar. 
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
+
+\sp
 
 ### Los Nabucodonosorcitos RPG
 
@@ -332,8 +350,6 @@ Tendría el toque cutre y chusco de películas como Fung Fu Sion.
 
 [Ninjas cutres](https://gwannon.itch.io/ninjas-cutres)
 
-\sp
-
 ### Pac-land
 
 Hacer un _indie_ cortito donde juegas en el mundo de Pac-Land, tanto el videojuego como la serie de dibujos. Con reglas de las píldoras blancas, un bestiario con los 5 fantasmas y las armas que usan como coches retro o pogo-sticks, etc. 
@@ -345,8 +361,6 @@ Jugarías con Pac-Man, Miss Pac-Man, su bebe y otros personajes recurrentes del 
 En este juego llevarías un pequeño robot de servicio que limpia, lleva paquetes, extermina plagas, todos rollo rumba o similar y deberás avisar a alguien de que está en peligro, buscar a alguien secuestrado, encontrar un preciado objeto perdido.
 
 Los robots tendrán su pequeño mini-mundo con sus problemas de robots, como que falla la batería, mis ruedas están gastadas o todo el mundo me pisa.
-
-\sp
 
 Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden hacer y otras para las que necesitará ayuda.
 
@@ -373,6 +387,8 @@ Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando 
 Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
 
 Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
+
+\sp
 
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
 
@@ -404,8 +420,6 @@ Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
 
-\sp
-
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
@@ -430,6 +444,8 @@ Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de 
 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
 
+\sp
+
 Les contratan en peligrosas misiones que solo una mascota preparada puede cumplir como repartir muestras gratis de sangre falsa en un baile de vampiros o hacer una campaña de seguridad vial para usar ropa reflectante de noche en un pueblo de ninjas.
 
 \sp
@@ -443,6 +459,14 @@ Les contratan en peligrosas misiones que solo una mascota preparada puede cumpli
 ### Clase Isekai/Metajuego
 
 Clase de personaje de D&D cuyo poder viene en que jugaba en nuestro mundo a D&D y ahora que está en el mundo de D&D se sabe todo el lore del juego y/o campaña. Rollo Gwenpool de Marvel. Por ejemplo, obtiene bonos porque sabe quién escribió la aventura y siempre pone los mismos monstruos y trampas y esas cosas.
+
+### Escuela de bardo de monólogos
+
+Está escuela bárdica enseña a hacer monólogos y contarlos con gracia.
+
+Tendrían bonos en acciones de burla y provocación. Tendrían penalizadores a la hora de apoyar a compañeros. No pueden evitarlo, les puede la vena tóxica y terminan jodiendo los ánimos con algún chistecito hiriente.
+
+Aparte de sus actuaciones, para ganar dinero, podrían hacer por encargo discursos a personajes importantes.
 
 ### Reglas para cocinar
 
@@ -478,6 +502,8 @@ Pueden ser cosas que la tecnología no replica bien como el tacto o cosas que so
 
 También cosas que solo tuvieran los seres vivos. Por ejemplo, un mundo donde solo los seres vivos tienen magia, ya que la magia solo la canaliza la materia viva, un robot se pondría brazos de carne y hueso para poder lanzar hechizos.
 
+\sp
+
 ### Sistema o escuela de magia basada en parar el tiempo
 
 Había un guerrero de Freezer en DBZ que su único poder era parar el tiempo y algo de telekinesis y me parece que es un poder poco explotado en los sistemas de magia.
@@ -486,13 +512,9 @@ Este tipo de magia se basaría en parar el tiempo y los efectos mágicos serían
 
 Podrías teleportarte porque paras el tiempo y te mueves o hacer daño porque aprovechas los paros temporales para meter puñaladas.
 
-\sp
-
 Según subes de nivel podrías parar más rato el tiempo con lo que podrías hacer hechizos más poderosos. Por ejemplo, a primeros niveles tienes un turno para teleportarte y niveles legendarios varios días.
 
 También tendrías limitaciones, por ejemplo un «mano de mago» para coger las llaves de la celda no funcionaria porque aunque pares el tiempo sigues dentro de la celda y no puedes abrirla.
-
-\sc
 
 ### Sistema de magia basado en ondas electromagnéticas
 
