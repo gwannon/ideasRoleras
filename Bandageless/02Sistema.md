@@ -48,6 +48,8 @@ Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar equipo
 
 Ten cuidado porque puedes encontrarte con cosas que no querías, como un vigilante despistado que venía del servicio o que coger un café de la sala de empleados.
 
+El equipo que puedes buscar son principalmente objetos de las vitrinas del museo y de los armarios de servicio, desde **hachas de bronce** a **fémures de dinosaurios**, pasando por **productos de limpieza** o **herramientas de restauración**.
+
 Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
 
 |1d20|Equipo|
@@ -58,8 +60,6 @@ Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tab
 |15-16|1 pieza de equipo de d6|
 |17-18|1 pieza de equipo de d8|
 |19-20|1 pieza de equipo de d10 o 1 botella de líquido de embalsamar|
-
-El equipo que puedes buscar son principalmente objetos de las vitrinas del museo y de los armarios de servicio, desde **hachas de bronce** a **fémures de dinosaurios**, pasando por **productos de limpieza** o **herramientas de restauración**.
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 

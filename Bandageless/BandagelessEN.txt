@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Bandageless
+
+InfoKey: Subject
+InfoValue: Bandageless is a mini-setting for Breathless about Egyptian mummies trying to escape from a museum.
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, survival horror, mummies, museum, breathless
