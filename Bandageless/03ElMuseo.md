@@ -14,9 +14,15 @@ Imagínate que personas con ropajes raros gritan al verte o te atacan con extra�
 
 ### El personal de seguridad del museo
 
-XXX
+Mientras que de día miles de personas pasean por sus salas aprendiendo y admirando las piezas que en ellos se exponen, todo cambia de noche.
 
-Algo que deben entender las momias es que no pueden hablar con el personal de seguridad, primero porque no tienen cuerdas vocales funcionales y aunque las tuvieran solo sabrían hablar egipcio antiguo. Considera que una momia solo pueden emitir espantosos sonidos guturales.
+Los pasillos se vacían y solo queda el personal de seguridad y algunas personas de la limpieza terminando su trabajo.
+
+Los vigilantes no van a ser duros ex-militares que se van a jugar la vida por defender la Mona Lisa. Van a ser personas normales que cumplen sus horas de trabajo y que ante horrores como momias van a intentar salvar sus vidas y luego proteger las piezas del museo. 
+
+Algunos huirán y otros intentarán hacer frente a tus momias, pero ambos siempre piensan en salvar el pellejo.
+
+Algo que debes entender de la relación entre las momias y la seguridad del museo es que no pueden comunicarse, sobre todo porque las momias no tienen cuerdas vocales funcionales y aunque las tuvieran solo sabrían hablar egipcio antiguo. Considera que una momia solo pueden emitir espantosos sonidos guturales.
 
 #### Luchar o esquivar a los guardas
 
@@ -24,13 +30,13 @@ Para empezar, un humano normal y corriente no es rival para una momia, como much
 
 Ante uno o más vigilantes, tu momia puede lanzarse al combate esgrimiendo sus armas o puede tratar de esquivarlos con sigilo o creando distracciones. Pero también pueden asustarlos y hacer que huyan despavoridos.
 
+\sp
+
 #### Asustar a los vigilantes
 
 Tus momias son eso, momias, y llevamos siglos contando historias de terror sobre estos seres que renacen por medio de magia antigua y poderosa y que siembran el terror allá donde aparecen.
 
 Es por ello que a tus momias les es muy fácil asustar y hacer huir al personal nocturno del museo.
-
-\sp
 
 Hay muchas maneras de asustar al personal de seguridad, con lo que la momia deberá describir cómo lo hace y el DJ dirá que habilidad, de las 6 que hay, debe tirar para intentar asustar a los humanos. 
 
@@ -50,17 +56,13 @@ Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápid
 
 Una vez dentro deberán buscar la manera de atravesar la sala evitando a los guardas y sin activar las alarmas.
 
-#### Mapa del museo
-
-El **mapa del museo** es un objeto muy útil para moverte por sus salas, pero no es fácil de interpretarlo. Son tienen dibujos raros y no conoces sus jeroglíficos.
-
-El mapa, si pasas la tirada, te permite volver a tirar en la «Tabla de temática o función de la sala» y quedarte con la mejor tirada. El mapa puede usarse después de saber que hay en la sala y cuántos vigilantes hay.
-
-Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, manchado, etc.
-
 #### Creando las salas
 
-Cuando tus momias entren en una nueva sala tira, si quieres, en la siguiente tabla para definir sus funciones y su contenido.
+Cuando tus momias entren en una nueva sala tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
+
+#### Personalizando las salas
+
+En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o función, nunca son iguales.
 
 \sp
 
@@ -118,40 +120,50 @@ Cuando tus momias entren en una nueva sala tira, si quieres, en la siguiente tab
 
 \sp
 
-#### Personalizando las salas
-
-En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o función, nunca son iguales.
-
-Por cada nueva sala puedes escoger la personalización de la siguiente tabla o tirar 1d12.
-
 \sinc
 
-&nbsp;
+### Tabla de personalización de la sala
 
 |1d12|Personalización de la sala|
 |---|---|
 |1|**Decoración especial:** La sala está muy decorada, igual como una cueva de cavernícolas, una selva, un salón de un castillo, una casa romana.|
-|2|**Carrito de limpieza:** Alguien se ha dejado un carro de la limpieza abandonado.|
+|2|**Carrito de limpieza:** Alguien se ha dejado un carro de la limpieza abandonado. El carrito puede usarse solo en esta sala y tiene un d8.|
 |3|**Experiencias interactivas:** Está lleno de pantallas interactivas que permiten jugar e interactuar con las piezas de la sala.|
 |4|**Claraboya:** Hay una claraboya que permite ver el cielo. Pero está altísima para salir por ella.|
-|5|**En obras:** la sala está llena de material de obra, herramientas y maquinaria pesada. Si tenía reliquias, ya no los tiene.|
+|5|**En obras:** La sala está llena de material de obra, herramientas y maquinaria pesada. Si tenía reliquias, ya no los tiene.|
 |6|**Suelo recién pulido:** El suelo está muy resbaladizo y refleja mucho.|
 |7|**Antiguo edificio:** La sala aprovecha restos del edificio antiguo del museo, de unas ruinas encontradas al excavar los cimientos o incluso alguna estructura traída piedra a piedra de su localización de origen.|
 |8|**Sala cerrada temporalmente:** Está cerrado con llaves, o han puesto algo grande y pesado que no permite entrar, para evitar que la gente entre.|
-|9|**Fuente:** Según el tamaño de la sala, desde un dispensador de agua fría, hasta una fuente como carpas koi.|
-|10|**Pequeña tienda:** Solo en salas con reliquias, si no, vuelve a tirar. Hay una pequeña tienda con recuerdos específicos del contenido de esa sala.|
+|9|**Fuente:** Según el tamaño de la sala, puede ser desde un dispensador de agua fría, hasta una fuente como carpas koi.|
+|10|**Pequeña tienda:** Solo en salas con reliquias, si no, vuelve a tirar. Hay una pequeña tienda con recuerdos específicos del contenido de esa sala. Puedes repetir la tirada de saqueo, pero debes quedarte el segundo resultado.|
 |11|**Fiesta o aniversario:** Se ha celebrado algún tipo de fiesta y hay restos de ellas, desde globos a tarta de cumpleaños.|
 |12|**Hay alguien durmiendo:** Quizás sea un vigilante o un empleado que se ha tomado un descanso.|
+
+&nbsp;
 
 \conc
 
 \sp
+
+Por cada nueva sala puedes escoger la personalización de «Tabla de personalización de la sala» o tirar 1d12.
+
+#### Mapa del museo
+
+El **mapa del museo** es un objeto muy útil para moverte por sus salas, pero no es fácil de interpretarlo. Son tienen dibujos raros y no conoces sus jeroglíficos.
+
+El mapa, si pasas la tirada, te permite volver a tirar en la «Tabla de temática o función de la sala» y quedarte con la mejor tirada.
+
+El mapa puede usarse después de saber que hay en la sala y cuántos vigilantes hay.
+
+Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, manchado, etc.
 
 #### Separar el grupo
 
 La regla fundamental es que no hay que separar el grupo, pero sí se da el caso tendrás que generar nuevos relojes de salas para cada grupo con tantos quesitos rellenados como había antes de separarse.
 
 Cuando un grupo cambia de habitación hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
+
+\sc
 
 ### Alarmas
 
@@ -163,8 +175,11 @@ Este reloj resume un montón de elementos del sistema de seguridad del museo com
 
 * Cuando recuperan el resuello, rellenas otro.
 * Cada dos veces que entran en una nueva sala y deciden no entrar y buscar otra salida.
-* Al asustar y hacer huir con éxito a personal de seguridad rellenas otro quesito.
 * Cuando consigues un objeto maldito. Aunque no sepan por qué, las personas notan la magia de estos objetos y les ponen más seguridad que al resto de cosas del museo.
+
+\sp
+
+* Al asustar y hacer huir con éxito a personal de seguridad rellenas otro quesito.
 
 > Es importante que tus momias no tengan claro cuando se rellenan los quesitos de las alarmas, solo una breve idea.
 
@@ -172,23 +187,21 @@ Mientras tengas quesitos que rellenar las alarmas no han saltado. En el momento 
 
 Un reloj con 4 espacios es un sistema de seguridad muy complicado evitar, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la fuga. Si no se especifica, se considera que el reloj de las alarmas tiene 12 quesitos, que es casi como si no hubiera un límite.
 
-\sp
-
 Si los grupos se separan el reloj de las alarmas sigue siendo único y ambos grupos meten quesitos en el reloj.
 
 #### Cuando suenan las alarmas
 
 Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momias. Tus momias deberán decidir si lanzarse a una loca carrera hacia la salida o volver a sus sarcófagos a esperar a la noche siguiente.
 
+[![Horseshoe at the museum illustration by macrovector](./images/11071.jpg "Horseshoe at the museum illustration by macrovector")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Horseshoe at the museum illustration by macrovector")
+
 Si no han saltado las alarmas y hay reliquias en la sala (tienen un &#9765; en el nombre), con un 1 en 1d4 (25%), hay un solo vigilante en la sala. Si no hay reliquias, no hay vigilante a no ser que tú, como DJ, lo decida.
 
 Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sala tiene reliquias u objetos de valor con 1-2 en 1d4 (50%) hay guardias. Si no tienen reliquias solo hay guardas con un 1 en 1d4.
 
-\sinc
-
 &nbsp;
 
-|¿Suenan las alarmas?|¿Hay reliquias? &#9765;|1d4|Guardas|
+|¿Suenan alarmas?|&#9765; ¿Hay reliquias?|1d4|Guardas|
 |---|---|---|---|
 |No|No| — | — |
 |No|Sí|1|1|
@@ -197,9 +210,13 @@ Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sa
 
 &nbsp;
 
-\conc
+\sp
 
-Volver al sarcófago tiene sus ventajas, XXX
+Volver al sarcófago tiene sus ventajas, ya que puedes volver a intentar la noche siguiente tu fuga. Eso supone varias cosas para la noche siguiente:
+
+* La ruta de salas de la noche anterior se puede conservar, si se desea. Lo que sí se resetea es el número de guardias en cada habitación. 
+* Pueden guardar uno de sus objetos (incluso malditos) entre sus vendas para la noche siguiente.
+* Las alarmas se resetean.
 
 Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en tu sarcófago o vitrina y arrastrarán tu alma a lo más profundo del más allá.
 

@@ -933,3 +933,4 @@ Tutankamon
 1d66
 ankh
 koi
+Horseshoe
