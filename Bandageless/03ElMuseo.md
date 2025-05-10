@@ -30,9 +30,9 @@ Tus momias son eso, momias, y llevamos siglos contando historias de terror sobre
 
 Es por ello que a tus momias les es muy fácil asustar y hacer huir al personal nocturno del museo.
 
-Hay muchas maneras de asustar al personal de seguridad, con lo que la momia deberá describir cómo lo hace y el DJ dirá que habilidad, de las 6 que hay, debe tirar para intentar asustar a los humanos. 
-
 \sp
+
+Hay muchas maneras de asustar al personal de seguridad, con lo que la momia deberá describir cómo lo hace y el DJ dirá que habilidad, de las 6 que hay, debe tirar para intentar asustar a los humanos. 
 
 Si tienen éxito, el grupo de momias hará huir a la seguridad del museo, pero seguramente hará que den las alarmas.
 
@@ -190,7 +190,7 @@ Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sa
 
 |¿Suenan las alarmas?|¿Hay reliquias? &#9765;|1d4|Guardas|
 |---|---|---|---|
-|No|No| - | - |
+|No|No| — | — |
 |No|Sí|1|1|
 |Sí|No|1|1d6|
 |Sí|Sí|1-2|1d6|
@@ -201,6 +201,12 @@ Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sa
 
 Volver al sarcófago tiene sus ventajas, XXX
 
+Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en tu sarcófago o vitrina y arrastrarán tu alma a lo más profundo del más allá.
+
 ### Conflictos
 
-XXX
+A todo lo anterior puedes meter, si aun cabe, más elementos de conflicto, para aumentar la tensión de la situación. Puedes usar esta tabla como ayuda para sacar ideas para tu aventura.
+
+|Conflicto|Explicación|
+|---|---|
+|XXX|XXX|

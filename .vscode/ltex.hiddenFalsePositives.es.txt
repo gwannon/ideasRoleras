@@ -1,2 +1,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFlat anubis Egyptian god with jackal head and human body by redgreystock\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\Q41 ☥ Sala de restauraciones\n42 Guardarropas\n43 ☥ Exposición japonesa del periodo Edo\n44 Sala de cine\n45 ☥ Sala de la I GM\n46 Pinacoteca moderna\n51 Sala de lactancia\n52 ☥ Salsa llena de armaduras medievales\n53 Tienda de regalos\n54 ☥ Colecciones de conchas y caparazones de animales extintos\n55 ☥ Sala jurásica con esqueletos de dinosaurios\n56 ☥ Gran estancia con la pieza más icónica del museo (Mona Lisa, Piedra Roseta, Mascara de Tutankamon, etc.)\n61 ☥ Exposición de la II GM\n63 ☥ Objetos de la edad de bronce\n62 Zona de administración\n64 ☥ Sala de las grandes exploraciones\n65 ☥ Nueva instalación del museo con todo envuelto en cartón y plástico de burbujas\n66 ☥ Exposición itinerante\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QTirada Resultado\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThe Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch\\E$"}
+{"rule":"COMMA_REPETITION","sentence":"^\\QNo No — —\nNo Sí 1 1\nSí No 1 1d6\nSí Sí 1-2 1d6\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QXXX XXX\\E$"}
