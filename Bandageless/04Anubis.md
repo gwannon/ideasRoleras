@@ -8,7 +8,7 @@
 
 [![Flat anubis Egyptian god with jackal head and human body by redgreystock](./images/anubis.jpg "Flat anubis Egyptian god with jackal head and human body by redgreystock")](https://www.freepik.com/free-vector/flat-anubis-egyptian-god-with-jackal-head-human-body_51240814.htm "Flat anubis Egyptian god with jackal head and human body by redgreystock")
 
-Has quebrantado las leyes de la vida y la muerte y Anubis no está contento con ellos por lo que el dios de la muerte ha enviado a sus chacales para cazarte y traerte ante su presencia.
+Has quebrantado las leyes de la vida y la muerte y Anubis no está contento con ellos, por lo que el dios de la muerte ha enviado a sus chacales para cazarte y traerte ante su presencia.
 
 Los chacales de Anubis tienen el tamaño de un oso con brutales colmillos y garras, pelaje negro como la noche y ojos de fuego. Se dedican a cazar a los que han roto las leyes del más allá y han escapado al mundo de los vivos.
 
@@ -45,7 +45,7 @@ Los chacales pueden **oler la energía que se desprenden cuando se usan objetos 
 
 ### Mecanizar los chacales
 
-Los chacales a priori no tienen mecánicas son algo narrativo, el monstruo que persigue a tus momias y que no puede ser detenido ni destruido, solo se puede escapar de ello.
+Los chacales a priori no tienen mecánicas, son algo narrativo, el monstruo que persigue a tus momias y que no puede ser detenido ni destruido, solo se puede escapar de ello.
 
 Si necesitas mecanizarlo, cuando tus momias interactúen contra chacales, la tabla de éxito cambia radicalmente y es mucho más difícil y con más consecuencias negativas que positivas. 
 

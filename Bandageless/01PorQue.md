@@ -24,6 +24,6 @@ Han estado leyendo pasajes con poderosos hechizos y aquí estás tú, despertand
 
 ### No estás sola
 
-Por suerte no estás, otras momias del museo se han levantado contigo y si os organizáis podéis salir de este horrible lugar donde estáis encerradas.
+Por suerte no estás sola, otras momias del museo se han levantado contigo y si os organizáis podéis salir de este horrible lugar donde estáis encerradas.
 
 Y aunque no es vuestro mundo, fuisteis faraonas, sacerdotisas, consejeros, etc. y todavía tenéis los recursos y las capacidades necesarias para escapar del infierno donde estáis ahora.

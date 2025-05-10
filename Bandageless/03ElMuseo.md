@@ -42,7 +42,7 @@ Hay muchas maneras de asustar al personal de seguridad, con lo que la momia debe
 
 Si tienen éxito, el grupo de momias hará huir a la seguridad del museo, pero seguramente hará que den las alarmas.
 
-En caso de fallo seguramente, los vigilantes sacarán su arma reglamentaria y se liarán a tiros y a porrazos con las momias. Estas recibirán puntos de degradación en forma de agujeros de bala, a discreción del DJ.
+En caso de fallo, seguramente, los vigilantes sacarán su arma reglamentaria y se liarán a tiros y a porrazos con las momias. Estas recibirán puntos de degradación en forma de agujeros de bala, a discreción del DJ.
 
 ### Las salas del museo
 
@@ -54,11 +54,11 @@ Para representar el **tamaño de un museo, tienen relojes de 4, 6, 8 quesitos**.
 
 Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápido y decidir si continúa o busca otro camino. Esto pueden hacerlo las veces que sean, pero tiene su repercusión, como veremos más adelante en el apartado de «Alarmas».
 
-Una vez dentro deberán buscar la manera de atravesar la sala evitando a los guardas y sin activar las alarmas.
+Una vez dentro deberán buscar la manera de atravesar la sala, evitando a los guardas y sin activar las alarmas.
 
 #### Creando las salas
 
-Cuando tus momias entren en una nueva sala tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
+Cuando tus momias entren en una nueva sala, tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
 
 #### Personalizando las salas
 
@@ -153,21 +153,21 @@ El **mapa del museo** es un objeto muy útil para moverte por sus salas, pero no
 
 El mapa, si pasas la tirada, te permite volver a tirar en la «Tabla de temática o función de la sala» y quedarte con la mejor tirada.
 
-El mapa puede usarse después de saber que hay en la sala y cuántos vigilantes hay.
+El mapa puede usarse después de saber qué hay en la sala y cuántos vigilantes hay.
 
 Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, manchado, etc.
 
 #### Separar el grupo
 
-La regla fundamental es que no hay que separar el grupo, pero sí se da el caso tendrás que generar nuevos relojes de salas para cada grupo con tantos quesitos rellenados como había antes de separarse.
+La regla fundamental es que no hay que separar el grupo, pero si se da el caso, tendrás que generar nuevos relojes de salas para cada grupo con tantos quesitos rellenados como había antes de separarse.
 
-Cuando un grupo cambia de habitación hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
+Cuando un grupo cambia de habitación, hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
 
 \sc
 
 ### Alarmas
 
-Las alarmas del museo pueden activarse en cualquier momento y si eso pasa, tendrás que volver a tu vitrina o intentar salir corriendo. Las alarmas no saltan porque sí, sino que lo hacen por una acumulación de muchas acciones. Mientras las alarmas están desactivadas, moverse por el museo es relativamente facil, en cuanto se activan todo se complica.
+Las alarmas del museo pueden activarse en cualquier momento y si eso pasa, tendrás que volver a tu vitrina o intentar salir corriendo. Las alarmas no saltan porque sí, sino que lo hacen por una acumulación de muchas acciones. Mientras las alarmas están desactivadas, moverse por el museo es relativamente fácil, en cuanto se activan todo se complica.
 
 Las alarmas son una forma de **complicar las evasiones** y meter más presión a las momias. Las alarmas son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos** según la seguridad del museo.
 
@@ -183,7 +183,7 @@ Este reloj resume un montón de elementos del sistema de seguridad del museo com
 
 > Es importante que tus momias no tengan claro cuando se rellenan los quesitos de las alarmas, solo una breve idea.
 
-Mientras tengas quesitos que rellenar las alarmas no han saltado. En el momento que tengas que **rellenar un quesito y haya no espacio libre, saltarán las alarmas** y deberás volver a tu sarcófago para escapar otro día o correr hacia la salida y que sea lo que Anubis quiera.
+Mientras tengas quesitos que rellenar, las alarmas no han saltado. En el momento que tengas que **rellenar un quesito y haya no espacio libre, saltarán las alarmas** y deberás volver a tu sarcófago para escapar otro día o correr hacia la salida y que sea lo que Anubis quiera.
 
 Un reloj con 4 espacios es un sistema de seguridad muy complicado evitar, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la fuga. Si no se especifica, se considera que el reloj de las alarmas tiene 12 quesitos, que es casi como si no hubiera un límite.
 
@@ -195,7 +195,7 @@ Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momi
 
 [![Horseshoe at the museum illustration by macrovector](./images/11071.jpg "Horseshoe at the museum illustration by macrovector")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Horseshoe at the museum illustration by macrovector")
 
-Si no han saltado las alarmas y hay reliquias en la sala (tienen un &#9765; en el nombre), con un 1 en 1d4 (25%), hay un solo vigilante en la sala. Si no hay reliquias, no hay vigilante a no ser que tú, como DJ, lo decida.
+Si no han saltado las alarmas y hay reliquias en la sala (tienen un &#9765; en el nombre), con un 1 en 1d4 (25%), hay un solo vigilante en la sala. Si no hay reliquias, no hay vigilante, a no ser que tú, como DJ, lo decidas así.
 
 Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sala tiene reliquias u objetos de valor con 1-2 en 1d4 (50%) hay guardias. Si no tienen reliquias solo hay guardas con un 1 en 1d4.
 
@@ -222,7 +222,7 @@ Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en 
 
 ### Conflictos
 
-A todo lo anterior puedes meter, si aun cabe, más elementos de conflicto, para aumentar la tensión de la situación. Puedes usar esta tabla como ayuda para sacar ideas para tu aventura.
+A todo lo anterior puedes meter, si aún cabe, más elementos de conflicto, para aumentar la tensión de la situación. Puedes usar esta tabla como ayuda para sacar ideas para tu aventura.
 
 |Conflicto|Explicación|
 |---|---|

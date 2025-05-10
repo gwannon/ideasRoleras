@@ -30,7 +30,7 @@ Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente
 
 Para recuperar todas tus habilidades, debes «recolarte los vendajes». Se trata de un breve descanso para poder atar, trenzar y ajustar tus vendajes, lo único que mantiene unido tus ajados restos mortales.
 
-Para recolocarte las vendas funerarias debes estar, primero, **fuera de peligro en un lugar tranquilo lejos de la vigilancia de vigilantes y cámaras de seguridad**. Lo segundo y **más importante es tener en el equipo una pieza de tela** (camisetas, alfombras, túnicas, etc.) del material que sea (lino, algodón, poliéster, lana, etc.) con lo que remendar tus vendajes.
+Para recolocarte las vendas funerarias debes estar, primero, **fuera de peligro en un lugar tranquilo, lejos de la vigilancia de vigilantes y cámaras de seguridad**. Lo segundo y **más importante es tener en el equipo una pieza de tela** (camisetas, alfombras, túnicas, etc.) del material que sea (lino, algodón, poliéster, lana, etc.) con lo que remendar tus vendajes.
 
 Vale con que una momia del grupo gaste un nivel de dado de la pieza de tela para que todas las momias puedan recolocarse las vendas.
 
