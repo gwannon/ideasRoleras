@@ -44,21 +44,23 @@ Los museos suelen ser edificios de tamaño gigantesco con varios pisos, sótanos
 
 No suelen tener ventanas y las que tienen son de seguridad y/o tienen rejas, con lo que solo suele haber unas pocas salidas viables, la entrada principal o el muelle de carga y descarga.
 
-Para representar el tamaño de un museo, tienen relojes de 4, 6, 8 quesitos, que reflejan la distancia de tu sala inicial hasta una puerta al exterior y tu libertad.
+Para representar el **tamaño de un museo, tienen relojes de 4, 6, 8 quesitos**. Cuantos más quesitos, más grande es el museo y mayor es la distancia desde tu sala inicial hasta una puerta al exterior y tu libertad. A la hora de crear tu aventura piensa que cada quesito va a suponer una sala que vas a atravesar.
 
-A la hora de crear tu aventura piensa que cada quesito va a suponer una sala que vas a atravesar.
+Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápido y decidir si continúa o busca otro camino. Esto pueden hacerlo las veces que sean, pero tiene su repercusión, como veremos más adelante en el apartado de «Alarmas».
 
-Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápido y decidir si continúa o busca otro camino. Esto pueden hacerlo las veces que sean, pero tiene su repercusión, como veremos más adelante en el apartado de «Alarmas»
+Una vez dentro deberán buscar la manera de atravesar la sala evitando a los guardas y sin activar las alarmas.
 
-XXX
-
-Cuando tus momias entren en una nueva sala tira, si quieres, en la siguiente tabla para definir sus funciones y su contenido.
+#### Mapa del museo
 
 El **mapa del museo** es un objeto muy útil para moverte por sus salas, pero no es fácil de interpretarlo. Son tienen dibujos raros y no conoces sus jeroglíficos.
 
 El mapa, si pasas la tirada, te permite volver a tirar en la «Tabla de temática o función de la sala» y quedarte con la mejor tirada. El mapa puede usarse después de saber que hay en la sala y cuántos vigilantes hay.
 
-Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, manchado, etc. 
+Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, manchado, etc.
+
+#### Creando las salas
+
+Cuando tus momias entren en una nueva sala tira, si quieres, en la siguiente tabla para definir sus funciones y su contenido.
 
 \sp
 
@@ -118,7 +120,9 @@ Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, man
 
 #### Personalizando las salas
 
-Puedes elegir una personalización al azar de la siguiente tabla o escoger la que más se ajuste a la acción que se está desarrollando.
+En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o función, nunca son iguales.
+
+Por cada nueva sala puedes escoger la personalización de la siguiente tabla o tirar 1d12.
 
 \sinc
 
@@ -131,7 +135,7 @@ Puedes elegir una personalización al azar de la siguiente tabla o escoger la qu
 |3|**Experiencias interactivas:** Está lleno de pantallas interactivas que permiten jugar e interactuar con las piezas de la sala.|
 |4|**Claraboya:** Hay una claraboya que permite ver el cielo. Pero está altísima para salir por ella.|
 |5|**En obras:** la sala está llena de material de obra, herramientas y maquinaria pesada. Si tenía reliquias, ya no los tiene.|
-|6|**Suelo recién pulido:** El pulido hace que esté muy resbaladizo y refleje mucho.|
+|6|**Suelo recién pulido:** El suelo está muy resbaladizo y refleja mucho.|
 |7|**Antiguo edificio:** La sala aprovecha restos del edificio antiguo del museo, de unas ruinas encontradas al excavar los cimientos o incluso alguna estructura traída piedra a piedra de su localización de origen.|
 |8|**Sala cerrada temporalmente:** Está cerrado con llaves, o han puesto algo grande y pesado que no permite entrar, para evitar que la gente entre.|
 |9|**Fuente:** Según el tamaño de la sala, desde un dispensador de agua fría, hasta una fuente como carpas koi.|
@@ -151,7 +155,7 @@ Cuando un grupo cambia de habitación hay posibilidad de que vuelvan a encontrar
 
 ### Alarmas
 
-Las alarmas del museo pueden activarse en cualquier momento y si eso pasa tendrás que volver a tu vitrina o intentar salir corriendo. Antes de que los guardas empiecen a buscarte XXX
+Las alarmas del museo pueden activarse en cualquier momento y si eso pasa, tendrás que volver a tu vitrina o intentar salir corriendo. Las alarmas no saltan porque sí, sino que lo hacen por una acumulación de muchas acciones. Mientras las alarmas están desactivadas, moverse por el museo es relativamente facil, en cuanto se activan todo se complica.
 
 Las alarmas son una forma de **complicar las evasiones** y meter más presión a las momias. Las alarmas son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos** según la seguridad del museo.
 
@@ -168,16 +172,35 @@ Mientras tengas quesitos que rellenar las alarmas no han saltado. En el momento 
 
 Un reloj con 4 espacios es un sistema de seguridad muy complicado evitar, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la fuga. Si no se especifica, se considera que el reloj de las alarmas tiene 12 quesitos, que es casi como si no hubiera un límite.
 
-Si los grupos se separan el reloj de las alarmas sigue siendo único y ambos grupos meten quesitos en el reloj.
-
 \sp
+
+Si los grupos se separan el reloj de las alarmas sigue siendo único y ambos grupos meten quesitos en el reloj.
 
 #### Cuando suenan las alarmas
 
-Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momias. Deberán decidir si lanzarse a una loca carrera hacia la salida o volver a sus sarcófagos a esperar a la noche siguiente.
- 
-Si no han saltado las alarmas, con un 1 en 1d4 (25%), hay un solo vigilante en la sala.
+Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momias. Tus momias deberán decidir si lanzarse a una loca carrera hacia la salida o volver a sus sarcófagos a esperar a la noche siguiente.
 
-Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sala tiene reliquias u objetos de valor (tienen un &#9765; en el nombre) con 1-2 en 1d4 (50%) hay guardias. Si no tienen reliquias solo hay guardas con un 1 en 1d4.
+Si no han saltado las alarmas y hay reliquias en la sala (tienen un &#9765; en el nombre), con un 1 en 1d4 (25%), hay un solo vigilante en la sala. Si no hay reliquias, no hay vigilante a no ser que tú, como DJ, lo decida.
+
+Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sala tiene reliquias u objetos de valor con 1-2 en 1d4 (50%) hay guardias. Si no tienen reliquias solo hay guardas con un 1 en 1d4.
+
+\sinc
+
+&nbsp;
+
+|¿Suenan las alarmas?|¿Hay reliquias? &#9765;|1d4|Guardas|
+|---|---|---|---|
+|No|No| - | - |
+|No|Sí|1|1|
+|Sí|No|1|1d6|
+|Sí|Sí|1-2|1d6|
+
+&nbsp;
+
+\conc
 
 Volver al sarcófago tiene sus ventajas, XXX
+
+### Conflictos
+
+XXX
