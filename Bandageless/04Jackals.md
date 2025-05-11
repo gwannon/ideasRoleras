@@ -1,6 +1,6 @@
 \sinc
 
-## Los chacales de Anubis
+## The jackals of Anubis
 
 &nbsp;
 
@@ -8,58 +8,57 @@
 
 [![By Jeff Dahl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3257647](./images/Anubis_standing.png "By Jeff Dahl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3257647")](https://es.wikipedia.org/wiki/Anubis#/media/Archivo:Anubis_standing.svg "By Jeff Dahl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3257647")
 
-Has quebrantado las leyes de la vida y la muerte y Anubis no está contento con ellos, por lo que el dios de la muerte ha enviado a sus chacales para cazarte y traerte ante su presencia.
+You have broken the laws of life and death, and Anubis isn't happy with them, so the god of death has sent his jackals to hunt you down and bring you before him.
 
-Los chacales de Anubis tienen el tamaño de un oso con brutales colmillos y garras, pelaje negro como la noche y ojos de fuego. Se dedican a cazar a los que han roto las leyes del más allá y han escapado al mundo de los vivos.
+Anubis's jackals are the size of bears with brutal fangs and claws, fur as black as night, and eyes of fire. They hunt those who have broken the laws of the afterlife and escaped to the world of the living.
 
-> Cuando un chaval acaba con una momia, su espíritu es enviado de nuevo al inframundo.
+> When a child kills a mummy, its spirit is sent back to the underworld.
 
-Son excepcionales cazadores, muy inteligentes y con sentidos muy desarrollados. Sin una palabra mejor para definirlos, son el depredador de ultratumba definitivo.
+They are exceptional hunters, highly intelligent and with highly developed senses. Without a better word to define them, they are the ultimate predator of the afterlife.
 
-### Cómo usarlos
+### How to Use Them
 
-Los chacales son una **capa sobrenatural** que puedes añadir a tus partidas. Son cazadores muy poderosos de los que tus momias deben huir, no pueden enfrentarse a ellos y ganar, solo un plan muy elaborado y loco puede permitirte derrotarlo.
+Jackals are a **supernatural layer** you can add to your games. They are very powerful hunters that your mummies must flee from. They can't face them and win; only a very elaborate and crazy plan can allow you to defeat them.
 
-_Piensa en ello como ese alien de Alien³ que caza desde las sombras a los reclusos de la colonia penal y que necesitan hacer un complicadísimo plan para matarlo en la fundición._
+_Think of it like that alien in Alien³ who hunts the inmates of the penal colony from the shadows, and they need to come up with a very complicated plan to kill him in the foundry._
 
 \sp
 
 
 [![The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch](./images/321707300_428981ad22_c.jpg "The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch")](https://www.flickr.com/photos/mharrsch/321707300 "The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch")
 
-Sobre cuando van a salir, realmente cuando tú quieras. Quizás sean lo primero que vean al salir de su sarcófago o tal vez salgan por sorpresa de entre las sombras y se interpongan entre tus momias y la libertad que supone la puerta principal del museo.
+As for when they'll come out, really, whenever you want. Perhaps they'll be the first thing you see when you leave their sarcophagus, or perhaps they'll suddenly emerge from the shadows and stand between your mummies and the freedom that is the museum's main entrance.
 
-Si vas a meter chacales, aconsejo meterlos poco a poco. Tal vez unos ojos de fuego que te miran desde la sala que acabas de abandonar. Quizás unos zarpazos en una estatua o unos telares de la sala en la que acabas de entrar. Para finalmente verlos en todo su terrible esplendor entre ti y la libertad.
+If you're going to introduce jackals, I advise introducing them gradually. Perhaps fiery eyes staring at you from the room you just left. Perhaps claws on a statue or looms from the room you just entered. To finally see them in all their terrible splendor standing between you and freedom.
 
-### Poderes y capacidades de los chacales
+### Jackal Powers and Abilities
 
-Sus brutales garras y colmillos hacen **heridas terribles**, no solo en tus vendas y en tu carne, también en tu alma inmortal.
+Their brutal claws and fangs inflict **terrible wounds**, not only on your bandages and flesh, but also on your immortal soul.
 
-Las heridas que hacen son muy graves y la degradación que suponen no pueden quitarse recolocándote las vendas, solo por medios mágicos. Piensa que no han dañado tus vendas y tu carne reseca, sino que han atacado directamente tu espíritu.
+The wounds they inflict are very serious, and the degradation they cause cannot be removed by re-bandaging, only by magical means. Bear in mind that they haven't damaged your bandages and parched flesh, but rather have directly attacked your spirit.
 
-A pesar de venir del mundo espiritual del inframundo, son muy reales y de hecho tienen una gran fuerza física. No vale con cruzar una mesa delante de una puerta para que no puedan entrar, igual tienes que poner una pesada estatua romana de cuerpo entero.
+Despite coming from the spiritual realm of the underworld, they are very real and indeed possess great physical strength. It's not enough to simply place a table in front of a door to prevent them from entering; you might as well put a heavy, full-length Roman statue in front of them.
 
-Además de muy inteligentes, tienen unos sentidos muy desarrollados, lo que hace que sea **muy difícil engañarles y hacerles caer en trampas**.
+In addition to being highly intelligent, they have highly developed senses, which makes it **very difficult to deceive them and lure them into traps**.
 
-Los chacales pueden **oler la energía que se desprenden cuando se usan objetos malditos**, de forma que si usas estos objetos pueden detectarte y encontrarte. Si hay chacales en el museo, debes estar muy segura a la hora de usar tus objetos malditos, porque puede ser tu perdición.
+Jackals can **smell the energy released when cursed objects are used**, so if you use these objects, they can detect and find you. If there are jackals in the museum, you must be very careful when using your cursed objects, because it could be your downfall.
 
-### Mecanizar los chacales
+### Mechanizing Jackals
 
-Los chacales a priori no tienen mecánicas, son algo narrativo, el monstruo que persigue a tus momias y que no puede ser detenido ni destruido, solo se puede escapar de ello.
+Jackals don't have any mechanics at all; they're a narrative-driven monster that chases your mummies and can't be stopped or destroyed; you can only escape from them.
 
-Si necesitas mecanizarlo, cuando tus momias interactúen contra chacales, la tabla de éxito cambia radicalmente y es mucho más difícil y con más consecuencias negativas que positivas. 
+If you need to mechanize them, when your mummies interact with jackals, the success rate changes radically, making them much more difficult and with more negative consequences than positive.
 
 \sp
 
-|Tirada|Resultado|
+|Check|Results|
 |---|---|
-|1-4|Fallas y algo malo sucede.|
-|5-6|Lo logras, pero tiene algún tipo de coste.|
-|7+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
+|1-4|You fail, and something wrong happens.|
+|5-6|You succeed, but at a cost.|
+|7+|You succeed. The higher the result, the better the effect.|
 
+If you look closely, for example, rolling a skill that's a d4 is always a failure. Rolling a d6 can succeed, but always with consequences. The idea is that you can only beat a jackal at something you're really good at, whether you have magical weapons or rely on your divinity.
 
-Si te fijas bien, por ejemplo, hacer una tirada de una habilidad que está a un d4 es fallo siempre. En caso de un d6, puede tener éxito, pero siempre con consecuencias. La idea es que solo puedas ganar a un chacal en algo en lo que seas realmente bueno, tengas armas mágicas o te encomiendes a tu divinidad.
+You can also make it so they can't take a few seconds to heal a point of degradation when a kid is present in the room. A jackal can use those seconds of respite to extract your soul from your revived mortal remains and return it to the underworld.
 
-También puedes hacer que no puedan tomarse unos segundos para curarse un punto de degradación, cuando un chaval está presente en la sala. Esos segundos de respiro, los puede usar un chacal para extraer tu alma de tus restos mortales revividos y devolverlo al inframundo.
-
-> Si no te quieres liar, puedes meterle un penalizador de -2 a las tiradas y usar la tabla de tiradas básica.
+> If you don't want to get too complicated, you can apply a -2 penalty to the rolls and use the basic roll table.

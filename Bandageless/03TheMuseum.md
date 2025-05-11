@@ -98,7 +98,7 @@ For each new room, you can choose the customization option from the «Table of r
 |35|&#9765; Library|
 |36|&#9765; Lost and found room|
 
-&#9765; there may be doomed objects
+&#9765; there may be doomed items
 
 \sc
 

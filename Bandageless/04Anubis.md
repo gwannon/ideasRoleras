@@ -24,7 +24,6 @@ _Piensa en ello como ese alien de Alien³ que caza desde las sombras a los reclu
 
 \sp
 
-
 [![The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch](./images/321707300_428981ad22_c.jpg "The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch")](https://www.flickr.com/photos/mharrsch/321707300 "The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch")
 
 Sobre cuando van a salir, realmente cuando tú quieras. Quizás sean lo primero que vean al salir de su sarcófago o tal vez salgan por sorpresa de entre las sombras y se interpongan entre tus momias y la libertad que supone la puerta principal del museo.

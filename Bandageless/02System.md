@@ -1,83 +1,83 @@
 \sinc
 
-## Sistema 
+## System 
 
 &nbsp;
 
 \conc
 
-«Bandageless, revive, maldice, escapa» usa el sistema [Breathless](https://fari-rpgs.itch.io/breathless-srd), modificando y ampliando sus reglas para plasmar las aventuras en las que participarán tus momias para escapar del museo.
+«Bandageless, revive, curse, escape» uses the [Breathless](https://fari-rpgs.itch.io/breathless-srd) system, modifying and expanding its rules to capture the adventures your mummies will take part in to escape the museum.
 
-### Tiradas (Checks)
+### Checks
 
-Cuando hay un desafío que superar, haces una tirada para ver cómo se desarrolla. Solo necesitas tirar si lo que quieres hacer es arriesgado.
+When there's a challenge to overcome, you roll to see how it plays out. You only need to roll if what you want to do is risky.
 
-El DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. Si una compañera momia te ayuda, también realiza una tirada y ambas corréis los mismos riesgos. El DJ toma la tirada más alta e interpreta el resultado.
+The GM announces that your action may be risky and dangerous; you then choose a skill and roll the corresponding die. If a fellow mummy helps you, they also roll, and you both run the same risks. The GM takes the highest roll and interprets the result.
 
-|Tirada|Resultado|
+|Check|Results|
 |---|---|
-|1-2|Fallas y algo malo sucede.|
-|3-4|Lo logras, pero tiene algún tipo de coste.|
-|5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
+|1-2|You fail, and something wrong happens.|
+|3-4|You succeed, but at a cost.|
+|5+|You succeed. The higher the result, the better the effect.|
 
-Ser una momia reanimada 3.000 años más tarde de su muerte es difícil. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
+Being a reanimated mummy 3,000 years after its death is difficult. Each roll reduces the skill score used by one level to a minimum of d4:
 
 > **d12 ⇾ d10 ⇾ d8 → d6 → d4**
 
-Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
+If desired, the GM can leave a starting decision up to chance. Simply choose a die based on the probability of something happening, roll, and interpret the result.
 
-### Recolocarse los vendajes (Catch Your Breath)
+### Reset the bandages (Catch Your Breath)
 
-Para recuperar todas tus habilidades, debes «recolarte los vendajes». Se trata de un breve descanso para poder atar, trenzar y ajustar tus vendajes, lo único que mantiene unido tus ajados restos mortales.
+To regain all your skills, you must "catch your breath." This is a short rest so you can tie, braid, and adjust your bandages, the only thing holding your tattered remains together.
 
-Para recolocarte las vendas funerarias debes estar, primero, **fuera de peligro en un lugar tranquilo, lejos de la vigilancia de vigilantes y cámaras de seguridad**. Lo segundo y **más importante es tener en el equipo una pieza de tela** (camisetas, alfombras, túnicas, etc.) del material que sea (lino, algodón, poliéster, lana, etc.) con lo que remendar tus vendajes.
+To catch your breath, you must first be **out of danger in a quiet place, away from the watchful eyes of guards and security cameras**. Second, and most importantly, you must have a piece of cloth** (shirts, rugs, tunics, etc.) of any material (linen, cotton, polyester, wool, etc.) in your gear to patch your bandages.
 
-Vale con que una momia del grupo gaste un nivel de dado de la pieza de tela para que todas las momias puedan recolocarse las vendas.
+A mummy in the group only needs to spend one die level on the cloth piece to allow all mummies to catch their bandages.
 
 \sp
 
-Como el resto del equipo, la pieza de tela se destruye cuando llega a d4. 
+Like the rest of the equipment, the piece of cloth is destroyed when it reaches d4.
 
-Cuando una momia se recoloca los vendajes, el DJ observa la situación y presenta una nueva complicación al grupo.
+When a mummy rewraps its bandages, the GM observes the situation and presents a new complication to the group.
 
-### Saquear (Loot Checks)
+### Loot Checks
 
-Irónicamente vas a tener que saquear el museo en el que estás atrapada para poder escapar; algo que los museos llevan siglos haciendo con las riquezas de tu cultura. 
+Ironically, you'll have to loot the museum you're trapped in to escape; something museums have been doing for centuries with the riches of your culture.
 
-Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar equipo que te ayude en tu fuga.
+When the plot allows, you can make a looting roll to search for equipment that will aid you in your escape.
 
-Ten cuidado porque puedes encontrarte con cosas que no querías, como un vigilante despistado que venía del servicio o que coger un café de la sala de empleados.
+Be careful because you might come across things you didn't want to, such as an inattentive security guard coming from the restroom or grabbing a coffee from the staff lounge.
 
-El equipo que puedes buscar son principalmente objetos de las vitrinas del museo y de los armarios de servicio, desde **hachas de bronce** a **fémures de dinosaurios**, pasando por **productos de limpieza** o **herramientas de restauración**.
+The equipment you can search for is mainly items from the museum's display cases and utility cabinets, from **bronze axes** to **dinosaur femurs**, including **cleaning products** and **restoration tools**.
 
-Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
+To make a looting roll you must roll a d20 and consult the following table.
 
 |1d20|Equipo|
 |---|---|
-|1|Objeto maldito|
-|2|Pasa algo malo|
-|3-14|No encuentras nada|
-|15-16|1 pieza de equipo de d6|
-|17-18|1 pieza de equipo de d8|
-|19-20|1 pieza de equipo de d10 o 1 botella de líquido de embalsamar|
+|1|Doomed item|
+|2|Trouble is here.|
+|3-14|There is nothing.|
+|15-16|Add a d6 item.|
+|17-18|Add a d8 item.|
+|19-20|Add a d10 item or a bottle of embalsing chemicals.|
 
-Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
+If you're not sure what you'll get with the looting roll, you can roll a d20 on the following table.
 
-No hay objetos malditos en todas las salas del museo, solo en las que haya reliquias, marcadas con un ankh (&#9765;) en la «Tabla de temática o función de la sala».
+There are no cursed items in all museum rooms, only those containing relics, marked with an ankh (&#9765;) on the "Room Theme or Function Table."
 
-Si sale un 1 en una sala sin reliquias, vuelve a tirar.
+If you roll a 1 in a room without relics, roll again.
 
 \sinc
 
 &nbsp;
 
-|1d20|Equipo|
+|1d20|Equip|
 |---|---|
-|1|Mapa del museo|
-|2|Camiseta de algodón o sudadera de la tienda del museo|
-|3|Lanza con punta de sílex, jabalina, etc.|
-|4|Silbato, cuerno vikingo, tuba romana, etc.|
-|5|Antorcha, linterna, lámpara de aceite, etc.|
+|1|Museum map|
+|2|Cotton T-shirt or sweatshirt from the museum store|
+|3|Flint-tipped spear, javelin, etc.|
+|4|Whistle, Viking horn, Roman tuba, etc.|
+|5|Torch, lantern, oil lamp, etc.|
 
 \conc
 
@@ -85,23 +85,23 @@ Si sale un 1 en una sala sin reliquias, vuelve a tirar.
 
 \sinc
 
-|1d20|Equipo|
+|1d20|Equip|
 |---|---|
-|6|Hacha de bronce, khopesh de bronce, etc.|
-|7|Honda etrusca, arco recurvo, etc.|
-|8|Busto romano, venus paleolítica, etc.|
-|9|Caja de herramientas, kit de reparaciones, etc.|
-|10|Tote con logo del museo, cesta de mimbre, etc.|
-|11|Fémur de tiranosaurio, costilla de ballena, etc.|
-|12|Alfombra, pieles de animales, etc.|
-|13|Lata de pintura, bote de pintura en spray, etc.|
-|14|Alcohol de quemar, queroseno, etc.|
-|15|Casco de la II GM, casco vikingo, etc.|
-|16|Jarrón Ming, ánfora romana, etc.|
-|17|Túnica ceremonial, sudario, capa de armiño, etc.|
-|18|Canicas de metal, bolas de mármol, etc.|
-|19|Extintor, cubo de arena, manta ignífuga, etc.|
-|20|Mapa del museo|
+|6|Bronze axe, bronze khopesh, etc.|
+|7|Etruscan sling, recurve bow, etc.|
+|8|Roman bust, Paleolithic Venus, etc.|
+|9|Toolbox, repair kit, etc.|
+|10|Tote bag with museum logo, wicker basket, etc.|
+|11|Tyrannosaurus femur, whale rib, etc.|
+|12|Rug, animal skins, etc.|
+|13|Paint can, spray paint can, etc.|
+|14|Rubbing alcohol, kerosene, etc.|
+|15|WWII helmet, Viking helmet, etc.|
+|16|Ming vase, Roman amphora, etc.|
+|17|Ceremonial robe, shroud, ermine cloak, etc.|
+|18|Metal marbles, marble balls, etc.|
+|19|Fire extinguisher, sand bucket, fire blanket, etc.|
+|20|Museum map|
 
 &nbsp;
 
@@ -109,100 +109,100 @@ Si sale un 1 en una sala sin reliquias, vuelve a tirar.
 
 [![Ayudante con mochila por Boletín informativo de amigos de la egiptología](./images/mochila.jpg "Ayudante con mochila por Boletín informativo de amigos de la egiptología")](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf "Ayudante con mochila por Boletín informativo de amigos de la egiptología")
 
-### Mochila (Backpack)
+### Backpack
 
-Los objetos de tu mochila pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. 
+The items in your backpack can be used in place of your skills. They start with a die level that decreases after each use.
 
-Al reducirse a un d4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
+When reduced to a d4, the item breaks, is lost, or simply disappears from history.
 
-Solo se pueden llevar **3 objetos y 1 botella de líquido de embalsamar en la mochila**.
+Only **3 items and 1 bottle of embalming fluid** can be carried in your backpack.
 
-### Objetos malditos 
+### Doomed Items
 
-Puede que el personal del museo no lo sepa, pero las vitrinas están llenas de objetos de gran poder mágico y funestas maldiciones que te ayudarán en tu fuga.
+The museum staff may not know it, but the display cases are filled with items of great magical power and ominous curses that will aid you in your escape.
 
 \sp
 
 \sinc
 
-|1d10|Objetos malditos|
+|1d10|Doomed Items|
 |---|---|
-|1|**Calavera de Neanderthal con símbolos extraños:** Invoca una horda de ratas que te sigue y obedecen ciegamente tus órdenes.|
-|2|**Calavera de cristal:** Te permite hablar telepáticamente con los humanos.|
-|3|**Vasos canopes con órganos de momia:** Cura 2 puntos de degradación al consumir parte de los órganos almacenados.|
-|4|**Incensario con símbolos demoniacos:** Crea una densa niebla que llena toda la sala y no permite ver nada.|
-|5|**Tomo antiguo en lengua muerta con encuadernación de piel humana:** Permite levantar zombis a partir de restos mortales de cualquier animal (de pequeños roedores disecados a esqueletos de dinosaurios). Cada zombi puede hacer una tirada d6 para ayudarte.|
-|6|**Hacha de verdugo:** Está sedienta de sangre y si atacas con ella, siempre corta la cabeza.|
-|7|**Sable de caballería de hoja negra:** Su filo es tan afilado que corta cualquier material, por duro que sea.|
-|8|**Mascara de hierro:** Su presencia intimidatoria provoca miedo en las mentes de los humanos.|
-|9|**Máscara de gas de la I GM:** Te hace inmune a todo tipo de gas, venenos, humo, etc.|
-|10|**Pistola Luger de oficial nazi:** Usada para ejecutar persona, si disparas, mata siempre.|
+|1|**Neanderthal Skull with Strange Symbols:** Summons a horde of rats that follow you and blindly obey your commands.|
+|2|**Crystal Skull:** Allows you to speak telepathically with humans.|
+|3|**Canopic Jars with Mummy Organs:** Cures 2 points of degradation by consuming part of the stored organs.|
+|4|**Censer with Demonic Symbols:** Creates a dense fog that fills the entire room, making it impossible to see anything.|
+|5|**Ancient Tome in a Dead Language Bound with Human Skin:** Allows you to raise zombies from the remains of any animal (from small stuffed rodents to dinosaur skeletons). Each zombie can make a d6 roll to help you.|
+|6|**Executioner's Axe:** It thirsts for blood, and if you attack with it, it always severs the head.|
+|7|**Black-Bladed Cavalry Saber:** Its edge is so sharp it cuts through any material, no matter how hard.|
+|8|**Iron Mask:** Its intimidating presence strikes fear into the minds of humans.|
+|9|**WWI Gas Mask:** Makes you immune to all types of gas, poisons, smoke, etc.|
+|10|**Nazi Officer's Luger Pistol:** Used to execute people; if you shoot, it always kills.|
 
 &nbsp;
 
 \conc
 
-Los objetos malditos empiezan con un 1d10. Cada uso pierde un nivel de dado hasta que llegan a d4 y pierden su poder mágico. Para poder usar sus capacidades mágicas hay que pasar la tirada del objeto.
+Doomed items start with a 1d10. Each use causes them to lose one die level until they reach a d4 and lose their magical power. To use their magical abilities, you must pass the item roll.
 
-Cada momia solo puede tener un objeto maldito y no ocupan espacio en la mochila. Son objetos que llevas en la cabeza como tiaras y cascos, colgados del cuello como collares o incluso entre tus vendajes o en las manos y pies.
+Each mummy can only have one cursed item, and they do not take up space in your backpack. These are items you wear on your head like tiaras and helmets, around your neck like necklaces, or even between your bandages or on your hands and feet.
 
-Puede haber objetos o situaciones, a discreción del DJ, que rellenen de energía tus objetos, por lo que un objeto maldito se puede mantener como equipo a la espera de recargarlo de poder.
+There may be items or situations, at the GM's discretion, that replenish your items with energy, so a cursed item can be kept as equipment while waiting to recharge its power.
 
 \sp
 
 [![Egypt Flat Colorful Illustration by macrovector](./images/19714.jpg "Egypt Flat Colorful Illustration by macrovector")](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm "Egypt Flat Colorful Illustration by macrovector")
 
-### Encomendarse a los dioses (Stunts)
+### Praying to the Gods (Stunts)
 
-Cuando todo se complica, puedes intentar recurrir a los antiguos dioses de Egipto y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
+When things get tough, you can try calling on the ancient gods of Egypt and roll a **d12** instead of a roll at your current skill rank.
 
-Una vez gastada la suplica a tu divinidad protectora, no podrás usarla de nuevo hasta que **te recoloques los vendajes** de nuevo.
+Once you spend the prayer to your patron deity, you can't use it again until you **reapply your bandages**.
 
-### Degradación (Stress)
+### Degradation (Stress)
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de degradación corporal.
+When you face a consequence as a result of one of your actions, the GM may decide that you receive 1 level of bodily degradation.
 
-Si tu momia alcanza 4 niveles de degradación, estás muy degradada, es decir, en un estado de conservación muy malo.
+If your mummy reaches 4 levels of degradation, you are severely degraded, meaning you are in a very poor state of preservation.
 
-Cuando estás degradada, fallar una acción peligrosa significa que tu cuerpo colapsa y solo queda de ti un montón de restos humanos secos y de vendajes viejos y sucios.
+When you are degraded, failing a dangerous action means your body collapses, leaving only a pile of dried human remains and old, dirty bandages.
 
-Quizás los restauradores, puedan hacer algo con tus restos en unos años y vuelvas a la vida para volver a intentar escapar del museo.
+Perhaps the conservators will be able to do something with your remains in a few years, and you will return to life to try to escape the museum again.
 
-### Líquido de embalsamar (Medikits)
+### Embalming Chemicals (Medikits)
 
-Puedes echarte por encima, en cualquier momento, una botella de líquido de embalsamar para eliminar 2 puntos de degradación. Otra opción es guarecerte en un lugar seguro por unos segundos para tensar tus vendas y eliminar 1 punto de degradación.
+You can pour a bottle of embalming chemicals over yourself at any time to remove 2 degradation points. Alternatively, take cover in a safe place for a few seconds to tighten your bandages and remove 1 degradation point.
 
-### Tu momia
+### Your Mummy
 
-En tu hoja de momia, anota tu nombre, tu dinastía, la divinidad protectora a la que te encomiendas y los pronombres de tu personaje.
+On your mummy sheet, write your name, your dynasty, the patron deity you commend yourself to, and your character's pronouns.
 
-Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8 y un d6 a tres habilidades en las que creas que tu personaje destaca.
+All skills are scored on d4, and you must assign a d10, a d8, and a d6 to three skills you think your character excels at.
 
-Los personajes tienen un total de 6 habilidades:
+Characters have a total of 6 skills:
 
-* **Empujar:** Abrirte paso, doblar, destrozar.
-* **Moverse:** Correr, saltar, trepar.
-* **Acechar:** Esconderse, husmear, merodear.
+* **Bash:** wreck, move, force.
+* **Dash:** run, jump, climb.
+* **Sneak:** hide, skulk, lurk.
 
 \sp
 
-* **Deambular:** Orientarse, perseguir, atajar.
-* **Pensar:** Percibir, analizar, reparar.
-* **Interactuar:** Cautivar, manipular, intimidar.
+* **Shoot:** track, throw, fire.
+* **Think:** perceive, analyze, repair.
+* **Sway:** charm, manipulate, intimidate.
 
-Al comenzar cada noche de fuga, llevarás también en tu bandolera una pieza de equipo aleatoria (d10) con la que te enterraron y que estaba entre tus vendajes.
+At the start of each night of escape, you will also carry in your bandolier a random piece of equipment (d10) that you were buried with and that was among your bandages.
 
 \sinc
 
 &nbsp;
 
-|1d20|Pieza de equipo inicial|
+|1d20|Starting Equipment Piece|
 |---|---|
-|1|**[Cetro Sejem](https://es.wikipedia.org/wiki/Cetro_sejem):** Puedes usarla de arma|
-|2|**[Corona Jepresh](https://es.wikipedia.org/wiki/Jepresh):** Puedes usarlo de protección|
-|3|**Mascara funeraria:** Puedes usarlo de protección|
-|4|**Estatuilla de tu divinidad predilecta:** Te permite «Encomendarse a los dioses» una sola vez|
-|5|**[Khopesh](https://es.wikipedia.org/wiki/Khopesh):** Puedes usarla de arma|
-|6|**Hacha de bronce:** Puedes usarla de arma|
+|1|**[Sekhem scepter](https://en.wikipedia.org/wiki/Sekhem_scepter):** You can use it as a weapon|
+|2|**[Khepresh Crown](https://en.wikipedia.org/wiki/Khepresh):** You can use it for protection|
+|3|**Funerary Mask:** You can use it for protection|
+|4|**Statuette of your favorite deity:** Allows you to "Praying to the Gods" once|
+|5|**[Khopesh](https://en.wikipedia.org/wiki/Khopesh):** You can use it as a weapon|
+|6|**Bronze Axe:** You can use it as a weapon|
 
 \conc
