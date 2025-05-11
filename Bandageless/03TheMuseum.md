@@ -1,34 +1,32 @@
 \sinc
 
-## El museo
+## The Museum
 
 &nbsp;
 
 \conc
 
-Los museos son lugares tranquilos, apacibles, silenciosos y seguros. Pero imagínate despertarte de un sueño de 3.000 años en un sitio desconocido, oscuro y solitario, lleno de objetos que reconoces y de muchos otros que no, que tienen formas raras, luces raras y seguro que funciones aún más raras.
+Museums are calm, peaceful, quiet, and safe places. But imagine waking up from a 3,000-year sleep in an unknown, dark, and lonely place, filled with objects you recognize and many others you do not, with strange shapes, strange lights, and surely even stranger functions.
 
-Imagínate que personas con ropajes raros gritan al verte o te atacan con extrañas armas tremendamente ruidosas.
+Imagine people in strange clothing screaming at the sight of you or attacking you with strange, extremely loud weapons.
 
-> Si eres una momia, un museo no es un buen lugar en el que despertar.
+> If you are a mummy, a museum is not a good place to wake up.
 
-### El personal de seguridad del museo
+### The Museum's Security Staff
 
-Mientras que de día miles de personas pasean por sus salas aprendiendo y admirando las piezas que en ellos se exponen, todo cambia de noche.
+While during the day thousands of people stroll through the halls learning about and admiring the pieces on display, everything changes at night.
 
-Los pasillos se vacían y solo queda el personal de seguridad y algunas personas de la limpieza terminando su trabajo.
+The hallways empty out, leaving only the security staff and a few cleaners finishing their work.
 
-Los vigilantes no van a ser duros ex-militares que se van a jugar la vida por defender la Mona Lisa. Van a ser personas normales que cumplen sus horas de trabajo y que ante horrores como momias van a intentar salvar sus vidas y luego proteger las piezas del museo. 
+The security guards are not tough ex-military men risking their lives to defend the Mona Lisa. They are ordinary people working their hours, and when faced with horrors like mummies, they will try to save their lives and then protect the museum's pieces.
 
-Algunos huirán y otros intentarán hacer frente a tus momias, pero ambos siempre piensan en salvar el pellejo.
+Some will flee, and others will try to confront your mummies, but both always think about saving their own skins.
 
-Algo que debes entender de la relación entre las momias y la seguridad del museo es que no pueden comunicarse, sobre todo porque las momias no tienen cuerdas vocales funcionales y aunque las tuvieran solo sabrían hablar egipcio antiguo. Considera que una momia solo pueden emitir espantosos sonidos guturales.
+#### Fighting or flying the Guards
 
-#### Luchar o esquivar a los guardas
+To begin with, an ordinary human is no match for a mummy. At most, they might inflict some damage before fleeing in terror or falling unconscious and/or dead from a mummy's attacks.
 
-Para empezar, un humano normal y corriente no es rival para una momia, como mucho podría causarle algo de degradación antes de huir aterrorizado o caer inconsciente y/o muerto ante los ataques de una momia.
-
-Ante uno o más vigilantes, tu momia puede lanzarse al combate esgrimiendo sus armas o puede tratar de esquivarlos con sigilo o creando distracciones. Pero también pueden asustarlos y hacer que huyan despavoridos.
+Faced with one or more guards, your mummy can rush into combat, brandishing its weapons, or it can try to evade them with stealth or by creating distractions. However, they can also frighten them and cause them to flee in terror.
 
 \sp
 
