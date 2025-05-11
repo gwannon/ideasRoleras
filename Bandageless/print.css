@@ -240,7 +240,7 @@ a {
   color: var(--color-black);
 }
 
-ul {
+ul, ol {
   padding-left: 22px;
 }
 

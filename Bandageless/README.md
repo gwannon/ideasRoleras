@@ -14,12 +14,11 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 * Ayudante con mochila por [Boletín informativo de amigos de la egiptología](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf)
 * Égypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d’un ouvrier, Amennakht ou Nebenmaat - [Marie Thérèse Hébert & Jean Robert Thibault](https://www.flickr.com/photos/jrthibault/49992702476/in/album-72157714654737082/)
 * Golden tutankhamen beetle by [jemastock](https://www.freepik.com/free-vector/golden-tutankhamen-beetle_38266663.htm)
-* Flat anubis Egyptian god with jackal head and human body by [redgreystock](https://www.freepik.com/free-vector/flat-anubis-egyptian-god-with-jackal-head-human-body_51240814.htm)
 * Ancient egypt hieroglyphics background with flat design [freepik](https://www.freepik.com/free-vector/ancient-egypt-hieroglyphics-background-with-flat-design_2754089.htm)
 * Egypt Flat Colorful Illustration by [macrovector](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm)
-* The Jackal god of the dead Anubis wood and paint Late Period Egypt by [Mary Harrsch](https://www.flickr.com/photos/mharrsch/321707300)
+* By [Jeff Dahl - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=3257647)
 * Horseshoe at the museum illustration by [macrovector](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm)
-* Museum with modern artworks at night art gallery interior with contemporary exhibition by [upklyak](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm)
+* [A]drian Evans Photography](https://commons.wikimedia.org/wiki/File:British_Museum_at_night.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 Probar
 

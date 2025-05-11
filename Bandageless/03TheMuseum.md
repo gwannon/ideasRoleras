@@ -28,106 +28,123 @@ To begin with, an ordinary human is no match for a mummy. At most, they might in
 
 Faced with one or more guards, your mummy can rush into combat, brandishing its weapons, or it can try to evade them with stealth or by creating distractions. However, they can also frighten them and cause them to flee in terror.
 
+#### Scare the Security Guards
+
+Your mummies are just that, mummies, and we've been telling horror stories for centuries about these beings who are reborn through ancient and powerful magic, spreading terror wherever they appear.
+
+This is why it's very easy for your mummies to scare the museum's night staff and make them flee.
+
 \sp
 
-[![Horseshoe at the museum illustration by macrovector](./images/11071.jpg "Horseshoe at the museum illustration by macrovector")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Horseshoe at the museum illustration by macrovector")
+[![Museum at night by pxhere.com](./images/light-black-and-white-night-window-museum-darkness-485984-pxhere.com.jpg "Museum at night by pxhere.com")](https://pxhere.com/es/photo/485984 "Museum at night by pxhere.com")
 
-#### Asustar a los vigilantes
 
-Tus momias son eso, momias, y llevamos siglos contando historias de terror sobre estos seres que renacen por medio de magia antigua y poderosa y que siembran el terror allá donde aparecen.
+There are many ways to scare the security staff, so the mummy must describe how they do it, and the GM will decide which of the six skills they should roll to try to scare the humans.
 
-Es por ello que a tus momias les es muy fácil asustar y hacer huir al personal nocturno del museo.
+If they succeed, the group of mummies will make the museum security staff flee, but they will likely raise the alarm.
 
-Hay muchas maneras de asustar al personal de seguridad, con lo que la momia deberá describir cómo lo hace y el DJ dirá que habilidad, de las 6 que hay, debe tirar para intentar asustar a los humanos. 
+If they fail, the guards will likely pull out their service weapons and start shooting and beating the mummies. The mummies will receive degradation points in the form of bullet holes, at the GM's discretion.
 
-Si tienen éxito, el grupo de momias hará huir a la seguridad del museo, pero seguramente hará que den las alarmas.
+### Museum Rooms
 
-En caso de fallo, seguramente, los vigilantes sacarán su arma reglamentaria y se liarán a tiros y a porrazos con las momias. Estas recibirán puntos de degradación en forma de agujeros de bala, a discreción del DJ.
+Museums are usually gigantic buildings with multiple floors, basements, hallways, storage rooms, and countless rooms of all shapes and sizes for all kinds of uses. They are veritable labyrinths that are very difficult to escape from if you don't know the way.
 
-### Las salas del museo
+They usually don't have windows, and the ones they do have are security windows and/or have bars, so there are usually only a few viable exits: the main entrance or the loading and unloading dock.
 
-Los museos suelen ser edificios de tamaño gigantesco con varios pisos, sótanos, pasillos, almacenes e infinidad de salas de todos las formas y tamaños para todo tipo de usos. Son auténticos laberintos de los que es muy difícil salir si no conoces el camino.
+To represent the **size of a museum, they have clocks with 4, 6, or 8 squares.** The more squares, the larger the museum, and the greater the distance from your starting room to an outside door and your freedom. When creating your adventure, keep in mind that each square represents a room you will traverse.
 
-No suelen tener ventanas y las que tienen son de seguridad y/o tienen rejas, con lo que solo suele haber unas pocas salidas viables, la entrada principal o el muelle de carga y descarga.
+When your group of mummies enters a new room, they can take a quick look and decide whether to continue or look for another way. They can do this as many times as they want, but it has repercussions, as we'll see later in the «Alarms» section.
 
-Para representar el **tamaño de un museo, tienen relojes de 4, 6, 8 quesitos**. Cuantos más quesitos, más grande es el museo y mayor es la distancia desde tu sala inicial hasta una puerta al exterior y tu libertad. A la hora de crear tu aventura piensa que cada quesito va a suponer una sala que vas a atravesar.
+Once inside, they must find a way to cross the room, avoiding the guards and without setting off the alarms.
 
-Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápido y decidir si continúa o busca otro camino. Esto pueden hacerlo las veces que sean, pero tiene su repercusión, como veremos más adelante en el apartado de «Alarmas».
+#### Creating Rooms
+
+When your mummies enter a new room, roll, if desired, on the «Table of the room's theme or function» to define its function and content.
+
+#### Customizing Rooms
+
+A lot happens in museums, and even if you visit rooms with the same content or function, they are never the same.
+
+For each new room, you can choose the customization option from the «Table of room personalization» or roll 1d12.
 
 \sp
 
 \sinc
 
-### Tabla de temática o función de la sala
+### Table of the room's theme or function
+
+&nbsp;
 
 \conc
 
-|1d66|Temática o función|
+|1d66|Theme or function|
 |---|---|
-|11|Sala de las escobas|
-|12|&#9765; Pintores renacentistas|
-|13|&#9765; Archivos y documentación|
-|14|&#9765; Sala de almacenamiento de objetos sin catalogar o en cuarentena|
-|15|Zona de descanso de los trabajadores con café y máquinas de vending|
-|16|Cafetería|
-|21|Gran salón central|
-|22|Sala de recogida y entrega de audioguías|
-|23|&#9765; Sala de estatuas romanas y griegas|
-|24|Sala de arte abstracto|
-|25|Sala de cuadros impresionistas|
-|26|Jardín interior|
-|31|Sala de calderas|
-|32|&#9765; Exposición invitada de los guerreros de terracota|
-|33|&#9765; Cámara frigorífica para conservación de objetos especiales|
-|34|Muelle de carga y descarga cerrado a cal y canto|
-|35|&#9765; Biblioteca|
-|36|&#9765; Cuarto de objetos perdidos|
+|11|Broom Room|
+|12|Renaissance Painters|
+|13|Archives and Documentation|
+|14|Storage Room for Uncataloged or Quarantined Objects|
+|15|Workers' Break Area with Coffee and Vending Machines|
+|16|Cafeteria|
+|21|Great Central Hall|
+|22|Audio Guide Collection and Delivery Room|
+|23|Roman and Greek Statue Room|
+|24|Abstract Art Room|
+|25|Impressionist Painting Room|
+|26|Interior Garden|
+|31|Boiler Room|
+|32|Invited Exhibition of Terracotta Warriors|
+|33|&#9765; Cold storage for special objects|
+|34|Tightly sealed loading and unloading dock|
+|35|&#9765; Library|
+|36|&#9765; Lost and found room|
 
-&#9765; puede haber objetos malditos
+&#9765; there may be doomed objects
 
 \sc
 
-|1d66|Temática o función|
+|1d66|Theme or function|
 |---|---|
-|41|&#9765; Sala de restauraciones|
-|42|Guardarropas|
-|43|&#9765; Exposición japonesa del periodo Edo|
-|44|Sala de cine|
-|45|&#9765; Sala de la I GM|
-|46|Pinacoteca moderna|
-|51|Sala de lactancia|
-|52|&#9765; Salsa llena de armaduras medievales|
-|53|Tienda de regalos|
-|54|&#9765; Colecciones de conchas y caparazones de animales extintos|
-|55|&#9765; Sala jurásica con esqueletos de dinosaurios|
-|56|&#9765; Gran estancia con la pieza más icónica del museo (Mona Lisa, Piedra Roseta, Mascara de Tutankamon, etc.)|
-|61|&#9765; Exposición de la II GM|
-|63|&#9765; Objetos de la edad de bronce|
-|62|Zona de administración|
-|64|&#9765; Sala de las grandes exploraciones|
-|65|&#9765; Nueva instalación del museo con todo envuelto en cartón y plástico de burbujas|
-|66|&#9765; Exposición itinerante|
+|41|&#9765; Restoration Room|
+|42|Cloakroom|
+|43|&#9765; Edo Period Japanese Exhibition|
+|44|Movie Theater|
+|45|&#9765; World War I Hall|
+|46|Modern Art Gallery|
+|51|Nursing Room|
+|52|&#9765; Saloon filled with medieval armor|
+|53|Gift Shop|
+|54|&#9765; Collections of shells and carapaces of extinct animals|
+|55|&#9765; Jurassic Room with dinosaur skeletons|
+|56|&#9765; Large room with the museum's most iconic piece (Mona Lisa, Rosetta Stone, Mask of Tutankhamun, etc.)|
+|61|&#9765; World War II Exhibition|
+|63|&#9765; Bronze Age Objects|
+|62|Administration Area|
+|64|&#9765; Hall of Great Explorers|
+|65|&#9765; New museum installation with everything wrapped in cardboard and bubble wrap|
+|66|&#9765; Travelling Exhibit|
 
 \sp
 
 \sinc
 
-### Tabla de personalización de la sala
+### Table of room customizations
 
-|1d12|Personalización de la sala|
+&nbsp;
+
+|1d12|Room customizations|
 |---|---|
-|1|**Decoración especial:** La sala está muy decorada, igual como una cueva de cavernícolas, una selva, un salón de un castillo, una casa romana.|
-|2|**Carrito de limpieza:** Alguien se ha dejado un carro de la limpieza abandonado. El carrito puede usarse solo en esta sala y tiene un d8.|
-|3|**Experiencias interactivas:** Está lleno de pantallas interactivas que permiten jugar e interactuar con las piezas de la sala.|
-|4|**Claraboya:** Hay una claraboya que permite ver el cielo. Pero está altísima para salir por ella.|
-|5|**En obras:** La sala está llena de material de obra, herramientas y maquinaria pesada. Si tenía reliquias, ya no los tiene.|
-|6|**Suelo recién pulido:** El suelo está muy resbaladizo y refleja mucho.|
-|7|**Antiguo edificio:** La sala aprovecha restos del edificio antiguo del museo, de unas ruinas encontradas al excavar los cimientos o incluso alguna estructura traída piedra a piedra de su localización de origen.|
-|8|**Sala cerrada temporalmente:** Está cerrado con llaves, o han puesto algo grande y pesado que no permite entrar, para evitar que la gente entre.|
-|9|**Fuente:** Según el tamaño de la sala, puede ser desde un dispensador de agua fría, hasta una fuente como carpas koi.|
-|10|**Pequeña tienda:** Solo en salas con reliquias, si no, vuelve a tirar. Hay una pequeña tienda con recuerdos específicos del contenido de esa sala. Puedes repetir la tirada de saqueo, pero debes quedarte el segundo resultado.|
-|11|**Fiesta o aniversario:** Se ha celebrado algún tipo de fiesta y hay restos de ellas, desde globos a tarta de cumpleaños.|
-|12|**Conducto de ventilación:** Una gran tubería o conducto recorre la sala de un lado a otro. Tus momias puede meterse dentro para cruzar la sala o para esconderse.|
+|1|**Special Decoration:** The room is highly decorated, reminiscent of a caveman's cave, a jungle, a castle hall, or a Roman house.|
+|2|**Cleaning Cart:** Someone left a cleaning cart behind. The cart can only be used in this room and has a d8.|
+|3|**Interactive Experiences:** It is full of interactive screens that allow you to play and interact with the pieces in the room.|
+|4|**Skylight:** There is a skylight that lets you see the sky. But it is too high to climb out.|
+|5|**Under Construction:** The room is full of construction materials, tools, and heavy machinery. If it had any relics, it no longer has them.|
+|6|**Freshly Polished Floor:** The floor is very slippery and highly reflective.|
+|7|**Old building:** The room uses remains from the museum's old building, ruins found while excavating the foundations, or even a structure brought stone by stone from its original location.|
+|8|**Temporarily closed room:** It is locked, or they have put something large and heavy in the room to prevent people from entering.|
+|9|**Fountain:** Depending on the size of the room, this could be anything from a cold water dispenser to a fountain with koi carp.|
+|10|**Small Shop:** Only in rooms with relics; otherwise, roll again. There is a small shop with souvenirs specific to the room's contents. You may reroll the looting roll, but you must keep the second result.|
+|11|**Party or Anniversary:** Some kind of party has been held, and there are remnants of it, from balloons to birthday cake.|
+|12|**Ventilation Shaft:** A large duct or shaft runs from one side of the room to the other. Your mummies can crawl inside to cross the room or hide.|
 
 &nbsp;
 
@@ -135,108 +152,98 @@ Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápid
 
 \sp
 
-Una vez dentro deberán buscar la manera de atravesar la sala, evitando a los guardas y sin activar las alarmas.
+#### Museum Map
 
-#### Creando las salas
+The **museum map** is a very useful object for navigating through the rooms, but it's not easy to interpret. They have strange drawings and you don't know their hieroglyphics.
 
-Cuando tus momias entren en una nueva sala, tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
+If you pass the roll, the map allows you to reroll on the «Table of the room's theme or function» and keep the best roll.
 
-#### Personalizando las salas
+The map can be used after you know what's in the room and how many guards there are.
 
-En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o función, nunca son iguales.
+When the Map die reaches d4, it becomes unusable; it's torn, bent, stained, etc.
 
-Por cada nueva sala puedes escoger la personalización de «Tabla de personalización de la sala» o tirar 1d12.
+#### Split the party
 
-#### Mapa del museo
+The basic rule is that you don't have to split the party, but if you do, you'll have to create new room clocks for each group with as many filled-in cubes as there were before you broke up.
 
-El **mapa del museo** es un objeto muy útil para moverte por sus salas, pero no es fácil de interpretarlo. Son tienen dibujos raros y no conoces sus jeroglíficos.
+When a party changes rooms, there is a chance they will meet again if they roll the same number of times when using the «Table of room customizations» roll.
 
-El mapa, si pasas la tirada, te permite volver a tirar en la «Tabla de temática o función de la sala» y quedarte con la mejor tirada.
+### Alarms
 
-El mapa puede usarse después de saber qué hay en la sala y cuántos vigilantes hay.
+The museum's alarms can go off at any time, and if that happens, you'll have to return to your display case or try to escape. Alarms don't go off for no reason, but rather due to a series of actions. While the alarms are deactivated, moving around the museum is relatively easy; once they're activated, everything gets more complicated.
 
-Cuando el dado de Mapa llega a d4 se vuelve inservible, está roto, doblado, manchado, etc.
+Alarms are a way to **complicate escapes** and put more pressure on the mummies. Alarms are **clocks you create at the beginning of the delivery with 4, 6, 8, 10, or 12 little cheeses** depending on the museum's security.
 
-#### Separar el grupo
+This clock summarizes a number of elements of the museum's security system, such as guard response time, the number of guards and patrols, the sensitivity and quality of the sensors, etc.
 
-La regla fundamental es que no hay que separar el grupo, pero si se da el caso, tendrás que generar nuevos relojes de salas para cada grupo con tantos quesitos rellenados como había antes de separarse.
+* When they catch their breath, you refill another one.
+* Every other time they enter a new room and decide not to enter and look for another exit.
+* When you acquire a cursed object. Even if they don't know why, people notice the magic of these objects and place more security on them than on the rest of the museum's objects.
+* By successfully scaring and making security personnel flee, you fill in another piece of cheese.
 
-Cuando un grupo cambia de habitación, hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
-
-### Alarmas
-
-Las alarmas del museo pueden activarse en cualquier momento y si eso pasa, tendrás que volver a tu vitrina o intentar salir corriendo. Las alarmas no saltan porque sí, sino que lo hacen por una acumulación de muchas acciones. Mientras las alarmas están desactivadas, moverse por el museo es relativamente fácil, en cuanto se activan todo se complica.
-
-Las alarmas son una forma de **complicar las evasiones** y meter más presión a las momias. Las alarmas son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos** según la seguridad del museo.
-
-Este reloj resume un montón de elementos del sistema de seguridad del museo como el tiempo de repuesta de los vigilantes, el número de vigilantes y las rondas, la sensibilidad y calidad de los sensores, etc.  
+> It's important that your mummies don't know exactly when the alarm dots are filled, just a brief idea.
 
 \sp
 
-* Cuando recuperan el resuello, rellenas otro.
-* Cada dos veces que entran en una nueva sala y deciden no entrar y buscar otra salida.
-* Cuando consigues un objeto maldito. Aunque no sepan por qué, las personas notan la magia de estos objetos y les ponen más seguridad que al resto de cosas del museo.
-* Al asustar y hacer huir con éxito a personal de seguridad rellenas otro quesito.
+As long as you have dots to fill, the alarms haven't gone off. The moment you have to **fill a dot and there's no free space, the alarms will go off** and you'll have to return to your sarcophagus to escape another day or run for the exit and let Anubis do what he wants.
 
-> Es importante que tus momias no tengan claro cuando se rellenan los quesitos de las alarmas, solo una breve idea.
+A timer with 4 slots is a very difficult security system to bypass; with 12, there's no time constraints unless the escape goes seriously awry. If not specified, the alarm clock is considered to have 12 dots, which is almost as if there were no limit.
 
-Mientras tengas quesitos que rellenar, las alarmas no han saltado. En el momento que tengas que **rellenar un quesito y haya no espacio libre, saltarán las alarmas** y deberás volver a tu sarcófago para escapar otro día o correr hacia la salida y que sea lo que Anubis quiera.
+If the groups split up, the alarm clock remains the same, and both groups put dots into the clock.
 
-Un reloj con 4 espacios es un sistema de seguridad muy complicado evitar, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la fuga. Si no se especifica, se considera que el reloj de las alarmas tiene 12 quesitos, que es casi como si no hubiera un límite.
+#### When the alarms go gff
 
-Si los grupos se separan el reloj de las alarmas sigue siendo único y ambos grupos meten quesitos en el reloj.
+When the alarms go off, things are going to get very difficult for your mummies. Your mummies will have to decide whether to make a mad dash for the exit or return to their sarcophagi to wait for the next night.
 
-#### Cuando suenan las alarmas
+If the alarms haven't gone off and there are relics in the room (they have a &#9765; in their name), with a 1 in 1d4 (25%), there is only one guard in the room. If there are no relics, there is no guard, unless you, as the GM, decide otherwise.
 
-Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momias. Tus momias deberán decidir si lanzarse a una loca carrera hacia la salida o volver a sus sarcófagos a esperar a la noche siguiente.
-
-Si no han saltado las alarmas y hay reliquias en la sala (tienen un &#9765; en el nombre), con un 1 en 1d4 (25%), hay un solo vigilante en la sala. Si no hay reliquias, no hay vigilante, a no ser que tú, como DJ, lo decidas así.
-
-Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sala tiene reliquias u objetos de valor con 1-2 en 1d4 (50%) hay guardias. Si no tienen reliquias solo hay guardas con un 1 en 1d4.
+When the alarms go off, there is a chance that there will be 1d6 guards. If the room has relics or valuables, with a 1-2 in 1d4 (50%), there are guards. If there are no relics, there are only guards, with a 1 in 1d4.
 
 &nbsp;
 
-|¿Suenan alarmas?|&#9765; ¿Hay reliquias?|1d4|Guardas|
+|¿Does the alarms go off?|&#9765; Are there relics?|1d4|Guards|
 |---|---|---|---|
 |No|No| — | — |
-|No|Sí|1|1|
-|Sí|No|1|1d6|
-|Sí|Sí|1-2|1d6|
+|No|Yes|1|1|
+|Yes|No|1|1d6|
+|Yes|Yes|1-2|1d6|
+
+Returning to the sarcophagus has its advantages, as you can attempt your escape again the following night. This means several things for the following night:
+
+* The room route from the previous night can be retained, if desired. What does reset is the number of guards in each room.
+* You can store one of your items (even cursed ones) in your bandages for the following night.
+* Your alarms and clock are reset.
+
+Returning to the sarcophagus, if there are jackals nearby, is useless. They will trap you in your sarcophagus or display case and drag your soul to the depths of the afterlife.
 
 \sp
 
 \sinc
 
-[![Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak](./images/9Z_2104.w026.n002.342B.p1.342.jpg "Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak")
+[![Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](./images/British_Museum_at_night.jpg "Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")](https://commons.wikimedia.org/wiki/File:British_Museum_at_night.jpg "Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+
+&nbsp;
 
 \conc
 
-Volver al sarcófago tiene sus ventajas, ya que puedes volver a intentar la noche siguiente tu fuga. Eso supone varias cosas para la noche siguiente:
+### Conflicts
 
-* La ruta de salas de la noche anterior se puede conservar, si se desea. Lo que sí se resetea es el número de guardias en cada habitación. 
-* Pueden guardar uno de sus objetos (incluso malditos) entre sus vendas para la noche siguiente.
-* Las alarmas y su reloj se resetean.
+In addition to all of the above, if possible, you can add more elements of conflict to increase the tension of the situation. You can use this table to help you come up with ideas for your adventure.
 
-Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en tu sarcófago o vitrina y arrastrarán tu alma a lo más profundo del más allá.
-
-### Conflictos
-
-A todo lo anterior puedes meter, si aún cabe, más elementos de conflicto, para aumentar la tensión de la situación. Puedes usar esta tabla como ayuda para sacar ideas para tu aventura.
-
-1. **La sala no tiene salida:** Llegas a una sala sin salida y debe volver por donde has venido. Tendrás que volver a enfrentarte a lo que había en la sala anterior y deberás borrar el último quesito del reloj de salas.
-2. **Hay un grupo de ladrones de guante blanco:** Deberéis esquivar a los vigilantes y también a los ladrones y las alarmas podrían sonar en cualquier momento.
-3. **Situación de rehenes:** Os despertáis en medio de una situación de rehenes. No hay vigilantes, pero hay ex-militares entrenados con potentes armas de fuego.
-4. **Incendio:** Un terrible incendio está devorando el museo, deberás esquivar el humo, el fuego y los bomberos. Recuerda que es escapar o morir calcinado.
-5. **Gravemente herido:** Tienes que huir llevándote contigo alguna compañera momia gravemente deteriorada por el tiempo o herida gravemente por un chacal.
+1. **There is a group of white-collar thieves:** You must avoid the guards and the thieves, and the alarms could go off at any moment.
+2. **Hostage Situation:** You wake up in the middle of a hostage situation. There are no guards, but there are trained ex-military personnel with powerful firearms.
+3. **Fire:** A terrible fire is devouring the museum. You must avoid the smoke, the fire, and the firefighters. Remember, it's escape or burn to death.
+4. **Seriously Wounded:** You must flee, taking with you a fellow mummy who has been severely damaged by time or seriously injured by a jackal.
+5. **Strikes and Pickets:** The museum workers are on strike and have taken over the museum. There are pickets everywhere, people sleeping in sleeping bags, etc.
 
 \sp
 
-6. **Huelgas y piquetes:** Los trabajadores del museo están de huelga y han tomado el museo. Hay piquetes por todas partes, gente durmiendo en sacos de dormir, etc.
+6. **The room has no exit:** You reach a room with no exit and must return the way you came. You'll have to face what was in the previous room again and you'll have to erase the last checkmark from the room clock.
 
-### Misiones
+### Missions
 
-A priori, la misión principal es escapar del museo, pero puede haber otras opciones, si deseas modificar esto.
+A priori, the main mission is to escape the museum, but there may be other options if you wish to modify this.
 
-1. **Conseguir el «El libro de la vida y de la muerte»:** Con él podrás librarte de Anubis y sus chacales, incluso restaurar tu cuerpo a su forma humana.
-2. **Otra momia está siendo acechada por un chacal:** Deberás ayudar a otra momia despertada, que por alguna razón está siendo perseguida por un chacal.
-3. **Hablar con alguien del departamento de egiptología:** Quizás alguna persona del departamento de egiptología sepa qué hacer contigo.
+1. **Obtain the «Book of Life and Death»:** With it, you can free yourself from Anubis and his jackals, and even restore your body to human form.
+2. **Another mummy is being stalked by a jackal:** You must help another awakened mummy, who for some reason is being chased by a jackal.
+3. **Talk to someone in the Egyptology department:** Perhaps someone in the Egyptology department will know what to do with you.

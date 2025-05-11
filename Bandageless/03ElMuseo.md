@@ -32,7 +32,7 @@ Ante uno o más vigilantes, tu momia puede lanzarse al combate esgrimiendo sus a
 
 \sp
 
-[![Horseshoe at the museum illustration by macrovector](./images/11071.jpg "Horseshoe at the museum illustration by macrovector")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Horseshoe at the museum illustration by macrovector")
+[![Museum at night by pxhere.com](./images/light-black-and-white-night-window-museum-darkness-485984-pxhere.com.jpg "Museum at night by pxhere.com")](https://pxhere.com/es/photo/485984 "Museum at night by pxhere.com")
 
 #### Asustar a los vigilantes
 
@@ -55,6 +55,8 @@ No suelen tener ventanas y las que tienen son de seguridad y/o tienen rejas, con
 Para representar el **tamaño de un museo, tienen relojes de 4, 6, 8 quesitos**. Cuantos más quesitos, más grande es el museo y mayor es la distancia desde tu sala inicial hasta una puerta al exterior y tu libertad. A la hora de crear tu aventura piensa que cada quesito va a suponer una sala que vas a atravesar.
 
 Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápido y decidir si continúa o busca otro camino. Esto pueden hacerlo las veces que sean, pero tiene su repercusión, como veremos más adelante en el apartado de «Alarmas».
+
+Una vez dentro deberán buscar la manera de atravesar la sala, evitando a los guardas y sin activar las alarmas.
 
 \sp
 
@@ -137,8 +139,6 @@ Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápid
 
 \sp
 
-Una vez dentro deberán buscar la manera de atravesar la sala, evitando a los guardas y sin activar las alarmas.
-
 #### Creando las salas
 
 Cuando tus momias entren en una nueva sala, tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
@@ -209,7 +209,7 @@ Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sa
 
 \sinc
 
-[![Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak](./images/9Z_2104.w026.n002.342B.p1.342.jpg "Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak")
+[![Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](./images/British_Museum_at_night.jpg "Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")](https://commons.wikimedia.org/wiki/File:British_Museum_at_night.jpg "Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 \conc
 
@@ -225,15 +225,15 @@ Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en 
 
 A todo lo anterior puedes meter, si aún cabe, más elementos de conflicto, para aumentar la tensión de la situación. Puedes usar esta tabla como ayuda para sacar ideas para tu aventura.
 
-1. **La sala no tiene salida:** Llegas a una sala sin salida y debe volver por donde has venido. Tendrás que volver a enfrentarte a lo que había en la sala anterior y deberás borrar el último quesito del reloj de salas.
-2. **Hay un grupo de ladrones de guante blanco:** Deberéis esquivar a los vigilantes y también a los ladrones y las alarmas podrían sonar en cualquier momento.
-3. **Situación de rehenes:** Os despertáis en medio de una situación de rehenes. No hay vigilantes, pero hay ex-militares entrenados con potentes armas de fuego.
-4. **Incendio:** Un terrible incendio está devorando el museo, deberás esquivar el humo, el fuego y los bomberos. Recuerda que es escapar o morir calcinado.
-5. **Gravemente herido:** Tienes que huir llevándote contigo alguna compañera momia gravemente deteriorada por el tiempo o herida gravemente por un chacal.
+1. **Hay un grupo de ladrones de guante blanco:** Deberéis esquivar a los vigilantes y también a los ladrones y las alarmas podrían sonar en cualquier momento.
+2. **Situación de rehenes:** Os despertáis en medio de una situación de rehenes. No hay vigilantes, pero hay ex-militares entrenados con potentes armas de fuego.
 
 \sp
 
-6. **Huelgas y piquetes:** Los trabajadores del museo están de huelga y han tomado el museo. Hay piquetes por todas partes, gente durmiendo en sacos de dormir, etc.
+3. **Incendio:** Un terrible incendio está devorando el museo, deberás esquivar el humo, el fuego y los bomberos. Recuerda que es escapar o morir calcinado.
+4. **Gravemente herido:** Tienes que huir llevándote contigo alguna compañera momia gravemente deteriorada por el tiempo o herida gravemente por un chacal.
+5. **Huelgas y piquetes:** Los trabajadores del museo están de huelga y han tomado el museo. Hay piquetes por todas partes, gente durmiendo en sacos de dormir, etc.
+6. **La sala no tiene salida:** Llegas a una sala sin salida y debe volver por donde has venido. Tendrás que volver a enfrentarte a lo que había en la sala anterior y deberás borrar el último quesito del reloj de salas.
 
 ### Misiones
 
