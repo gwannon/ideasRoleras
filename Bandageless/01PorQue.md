@@ -14,9 +14,9 @@ No sabes dónde estás, pero está claro que esto no es la otra vida que te prom
 
 ### ¿Por qué has despertado?
 
-Tú no lo sabes, pero unas jóvenes investigadoras han estado jugando con un objeto maldito de los fondos del museo, El libro de la vida y de la muerte.
+Tú no lo sabes, pero alguna persona del museo han estado jugando con un objeto maldito de los fondos del museo, El libro de la vida y de la muerte.
 
-Han estado leyendo pasajes con poderosos hechizos y aquí estás tú, despertando de la muerte 3.000 años después de morir y ser momificado.
+Ha estado leyendo pasajes con poderosos hechizos y aquí estás tú, despertando de la muerte 3.000 años después de morir y ser momificado.
 
 \sc
 

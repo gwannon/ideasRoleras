@@ -417,6 +417,7 @@ img {
   border: 4px double var(--color-red);
   border-radius: 30px;
   box-shadow: -1px 1px 3px var(--color-black);
+  box-sizing: border-box;
 }
 
 /* Paginación */

@@ -4,23 +4,21 @@
 
 **Bandageless is a mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit) about Egyptian mummies trying to escape from a museum.**
 
-&nbsp;
-
 \conc
 
-|01PorQue.md|
+|01Why.md|
 
 \sp
 
-|02Sistema.md|
+|02System.md|
 
 \sp
 
-|03ElMuseo.md|
+|03TheMuseum.md|
 
 \sp
 
-|04Anubis.md|
+|04Jackals.md|
 
 \sp
 

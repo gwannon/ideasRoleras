@@ -32,6 +32,8 @@ Ante uno o más vigilantes, tu momia puede lanzarse al combate esgrimiendo sus a
 
 \sp
 
+[![Horseshoe at the museum illustration by macrovector](./images/11071.jpg "Horseshoe at the museum illustration by macrovector")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Horseshoe at the museum illustration by macrovector")
+
 #### Asustar a los vigilantes
 
 Tus momias son eso, momias, y llevamos siglos contando historias de terror sobre estos seres que renacen por medio de magia antigua y poderosa y que siembran el terror allá donde aparecen.
@@ -53,16 +55,6 @@ No suelen tener ventanas y las que tienen son de seguridad y/o tienen rejas, con
 Para representar el **tamaño de un museo, tienen relojes de 4, 6, 8 quesitos**. Cuantos más quesitos, más grande es el museo y mayor es la distancia desde tu sala inicial hasta una puerta al exterior y tu libertad. A la hora de crear tu aventura piensa que cada quesito va a suponer una sala que vas a atravesar.
 
 Cuando tu grupo de momias entra en una nueva sala, puede echar un vistazo rápido y decidir si continúa o busca otro camino. Esto pueden hacerlo las veces que sean, pero tiene su repercusión, como veremos más adelante en el apartado de «Alarmas».
-
-Una vez dentro deberán buscar la manera de atravesar la sala, evitando a los guardas y sin activar las alarmas.
-
-#### Creando las salas
-
-Cuando tus momias entren en una nueva sala, tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
-
-#### Personalizando las salas
-
-En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o función, nunca son iguales.
 
 \sp
 
@@ -137,13 +129,23 @@ En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o
 |9|**Fuente:** Según el tamaño de la sala, puede ser desde un dispensador de agua fría, hasta una fuente como carpas koi.|
 |10|**Pequeña tienda:** Solo en salas con reliquias, si no, vuelve a tirar. Hay una pequeña tienda con recuerdos específicos del contenido de esa sala. Puedes repetir la tirada de saqueo, pero debes quedarte el segundo resultado.|
 |11|**Fiesta o aniversario:** Se ha celebrado algún tipo de fiesta y hay restos de ellas, desde globos a tarta de cumpleaños.|
-|12|**Hay alguien durmiendo:** Quizás sea un vigilante o un empleado que se ha tomado un descanso.|
+|12|**Conducto de ventilación:** Una gran tubería o conducto recorre la sala de un lado a otro. Tus momias puede meterse dentro para cruzar la sala o para esconderse.|
 
 &nbsp;
 
 \conc
 
 \sp
+
+Una vez dentro deberán buscar la manera de atravesar la sala, evitando a los guardas y sin activar las alarmas.
+
+#### Creando las salas
+
+Cuando tus momias entren en una nueva sala, tira, si quieres, en la «Tabla de temática o función de la sala» para definir su función y contenido.
+
+#### Personalizando las salas
+
+En los museos pasan muchas cosas y aunque visites salas con el mismo contenido o función, nunca son iguales.
 
 Por cada nueva sala puedes escoger la personalización de «Tabla de personalización de la sala» o tirar 1d12.
 
@@ -163,8 +165,6 @@ La regla fundamental es que no hay que separar el grupo, pero si se da el caso, 
 
 Cuando un grupo cambia de habitación, hay posibilidad de que vuelvan a encontrarse si sacan la misma tirada a la hora de tirar «Tabla de temática o función de la sala».
 
-\sc
-
 ### Alarmas
 
 Las alarmas del museo pueden activarse en cualquier momento y si eso pasa, tendrás que volver a tu vitrina o intentar salir corriendo. Las alarmas no saltan porque sí, sino que lo hacen por una acumulación de muchas acciones. Mientras las alarmas están desactivadas, moverse por el museo es relativamente fácil, en cuanto se activan todo se complica.
@@ -173,12 +173,11 @@ Las alarmas son una forma de **complicar las evasiones** y meter más presión a
 
 Este reloj resume un montón de elementos del sistema de seguridad del museo como el tiempo de repuesta de los vigilantes, el número de vigilantes y las rondas, la sensibilidad y calidad de los sensores, etc.  
 
+\sp
+
 * Cuando recuperan el resuello, rellenas otro.
 * Cada dos veces que entran en una nueva sala y deciden no entrar y buscar otra salida.
 * Cuando consigues un objeto maldito. Aunque no sepan por qué, las personas notan la magia de estos objetos y les ponen más seguridad que al resto de cosas del museo.
-
-\sp
-
 * Al asustar y hacer huir con éxito a personal de seguridad rellenas otro quesito.
 
 > Es importante que tus momias no tengan claro cuando se rellenan los quesitos de las alarmas, solo una breve idea.
@@ -193,8 +192,6 @@ Si los grupos se separan el reloj de las alarmas sigue siendo único y ambos gru
 
 Cuando suenan las alarmas, las cosas se van a poner muy difíciles para tus momias. Tus momias deberán decidir si lanzarse a una loca carrera hacia la salida o volver a sus sarcófagos a esperar a la noche siguiente.
 
-[![Horseshoe at the museum illustration by macrovector](./images/11071.jpg "Horseshoe at the museum illustration by macrovector")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Horseshoe at the museum illustration by macrovector")
-
 Si no han saltado las alarmas y hay reliquias en la sala (tienen un &#9765; en el nombre), con un 1 en 1d4 (25%), hay un solo vigilante en la sala. Si no hay reliquias, no hay vigilante, a no ser que tú, como DJ, lo decidas así.
 
 Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sala tiene reliquias u objetos de valor con 1-2 en 1d4 (50%) hay guardias. Si no tienen reliquias solo hay guardas con un 1 en 1d4.
@@ -208,15 +205,19 @@ Cuando saltan las alarmas hay posibilidades de que haya 1d6 vigilantes. Si la sa
 |Sí|No|1|1d6|
 |Sí|Sí|1-2|1d6|
 
-&nbsp;
-
 \sp
+
+\sinc
+
+[![Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak](./images/9Z_2104.w026.n002.342B.p1.342.jpg "Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak")](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm "Museum with modern artworks at night art gallery interior with contemporary exhibition by upklyak")
+
+\conc
 
 Volver al sarcófago tiene sus ventajas, ya que puedes volver a intentar la noche siguiente tu fuga. Eso supone varias cosas para la noche siguiente:
 
 * La ruta de salas de la noche anterior se puede conservar, si se desea. Lo que sí se resetea es el número de guardias en cada habitación. 
 * Pueden guardar uno de sus objetos (incluso malditos) entre sus vendas para la noche siguiente.
-* Las alarmas se resetean.
+* Las alarmas y su reloj se resetean.
 
 Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en tu sarcófago o vitrina y arrastrarán tu alma a lo más profundo del más allá.
 
@@ -224,6 +225,20 @@ Volver al sarcófago, si hay chacales cerca, no sirve de nada. Te atraparán en 
 
 A todo lo anterior puedes meter, si aún cabe, más elementos de conflicto, para aumentar la tensión de la situación. Puedes usar esta tabla como ayuda para sacar ideas para tu aventura.
 
-|Conflicto|Explicación|
-|---|---|
-|XXX|XXX|
+1. **La sala no tiene salida:** Llegas a una sala sin salida y debe volver por donde has venido. Tendrás que volver a enfrentarte a lo que había en la sala anterior y deberás borrar el último quesito del reloj de salas.
+2. **Hay un grupo de ladrones de guante blanco:** Deberéis esquivar a los vigilantes y también a los ladrones y las alarmas podrían sonar en cualquier momento.
+3. **Situación de rehenes:** Os despertáis en medio de una situación de rehenes. No hay vigilantes, pero hay ex-militares entrenados con potentes armas de fuego.
+4. **Incendio:** Un terrible incendio está devorando el museo, deberás esquivar el humo, el fuego y los bomberos. Recuerda que es escapar o morir calcinado.
+5. **Gravemente herido:** Tienes que huir llevándote contigo alguna compañera momia gravemente deteriorada por el tiempo o herida gravemente por un chacal.
+
+\sp
+
+6. **Huelgas y piquetes:** Los trabajadores del museo están de huelga y han tomado el museo. Hay piquetes por todas partes, gente durmiendo en sacos de dormir, etc.
+
+### Misiones
+
+A priori, la misión principal es escapar del museo, pero puede haber otras opciones, si deseas modificar esto.
+
+1. **Conseguir el «El libro de la vida y de la muerte»:** Con él podrás librarte de Anubis y sus chacales, incluso restaurar tu cuerpo a su forma humana.
+2. **Otra momia está siendo acechada por un chacal:** Deberás ayudar a otra momia despertada, que por alguna razón está siendo perseguida por un chacal.
+3. **Hablar con alguien del departamento de egiptología:** Quizás alguna persona del departamento de egiptología sepa qué hacer contigo.
