@@ -30,9 +30,9 @@ Faced with one or more guards, your mummy can rush into combat, brandishing its 
 
 #### Scare the Security Guards
 
-Your mummies are just that, mummies, and we've been telling horror stories for centuries about these beings who are reborn through ancient and powerful magic, spreading terror wherever they appear.
+Your mummies are just that, mummies, and we have been telling horror stories for centuries about these beings who are reborn through ancient and powerful magic, spreading terror wherever they appear.
 
-This is why it's very easy for your mummies to scare the museum's night staff and make them flee.
+This is why it is very easy for your mummies to scare the museum's night staff and make them flee.
 
 \sp
 
@@ -47,13 +47,13 @@ If they fail, the guards will likely pull out their service weapons and start sh
 
 ### Museum Rooms
 
-Museums are usually gigantic buildings with multiple floors, basements, hallways, storage rooms, and countless rooms of all shapes and sizes for all kinds of uses. They are veritable labyrinths that are very difficult to escape from if you don't know the way.
+Museums are usually gigantic buildings with multiple floors, basements, hallways, storage rooms, and countless rooms of all shapes and sizes for all kinds of uses. They are veritable labyrinths that are very difficult to escape from if you do not know the way.
 
-They usually don't have windows, and the ones they do have are security windows and/or have bars, so there are usually only a few viable exits: the main entrance or the loading and unloading dock.
+They usually do not have windows, and the ones they do have are security windows and/or have bars, so there are usually only a few viable exits: the main entrance or the loading and unloading dock.
 
 To represent the **size of a museum, they have clocks with 4, 6, or 8 squares.** The more squares, the larger the museum, and the greater the distance from your starting room to an outside door and your freedom. When creating your adventure, keep in mind that each square represents a room you will traverse.
 
-When your group of mummies enters a new room, they can take a quick look and decide whether to continue or look for another way. They can do this as many times as they want, but it has repercussions, as we'll see later in the «Alarms» section.
+When your group of mummies enters a new room, they can take a quick look and decide whether to continue or look for another way. They can do this as many times as they want, but it has repercussions, as we will see later in the «Alarms» section.
 
 Once inside, they must find a way to cross the room, avoiding the guards and without setting off the alarms.
 
@@ -83,7 +83,7 @@ For each new room, you can choose the customization option from the «Table of r
 |12|Renaissance Painters|
 |13|Archives and Documentation|
 |14|Storage Room for Uncataloged or Quarantined Objects|
-|15|Workers' Break Area with Coffee and Vending Machines|
+|15|Break Area for workers with coffee and vending machines|
 |16|Cafeteria|
 |21|Great Central Hall|
 |22|Audio Guide Collection and Delivery Room|
@@ -154,23 +154,23 @@ For each new room, you can choose the customization option from the «Table of r
 
 #### Museum Map
 
-The **museum map** is a very useful object for navigating through the rooms, but it's not easy to interpret. They have strange drawings and you don't know their hieroglyphics.
+The **museum map** is a very useful object for navigating through the rooms, but it is not easy to interpret. They have strange drawings and you do not know their hieroglyphics.
 
 If you pass the roll, the map allows you to reroll on the «Table of the room's theme or function» and keep the best roll.
 
 The map can be used after you know what's in the room and how many guards there are.
 
-When the Map die reaches d4, it becomes unusable; it's torn, bent, stained, etc.
+When the Map die reaches d4, it becomes unusable; it is torn, bent, stained, etc.
 
 #### Split the party
 
-The basic rule is that you don't have to split the party, but if you do, you'll have to create new room clocks for each group with as many filled-in cubes as there were before you broke up.
+The basic rule is that you do not have to split the party, but if you do, you will have to create new room clocks for each group with as many filled-in cubes as there were before you broke up.
 
 When a party changes rooms, there is a chance they will meet again if they roll the same number of times when using the «Table of room customizations» roll.
 
 ### Alarms
 
-The museum's alarms can go off at any time, and if that happens, you'll have to return to your display case or try to escape. Alarms don't go off for no reason, but rather due to a series of actions. While the alarms are deactivated, moving around the museum is relatively easy; once they're activated, everything gets more complicated.
+The museum's alarms can go off at any time, and if that happens, you will have to return to your display case or try to escape. Alarms do not go off for no reason, but rather due to a series of actions. While the alarms are deactivated, moving around the museum is relatively easy; once they are activated, everything gets more complicated.
 
 Alarms are a way to **complicate escapes** and put more pressure on the mummies. Alarms are **clocks you create at the beginning of the delivery with 4, 6, 8, 10, or 12 little cheeses** depending on the museum's security.
 
@@ -178,16 +178,16 @@ This clock summarizes a number of elements of the museum's security system, such
 
 * When they catch their breath, you refill another one.
 * Every other time they enter a new room and decide not to enter and look for another exit.
-* When you acquire a cursed object. Even if they don't know why, people notice the magic of these objects and place more security on them than on the rest of the museum's objects.
+* When you acquire a cursed object. Even if they do not know why, people notice the magic of these objects and place more security on them than on the rest of the museum's objects.
 * By successfully scaring and making security personnel flee, you fill in another piece of cheese.
 
-> It's important that your mummies don't know exactly when the alarm dots are filled, just a brief idea.
+> It is important that your mummies do not know exactly when the alarm dots are filled, just a brief idea.
 
 \sp
 
-As long as you have dots to fill, the alarms haven't gone off. The moment you have to **fill a dot and there's no free space, the alarms will go off** and you'll have to return to your sarcophagus to escape another day or run for the exit and let Anubis do what he wants.
+As long as you have dots to fill, the alarms have not gone off. The moment you have to **fill a dot and there is no free space, the alarms will go off** and you will have to return to your sarcophagus to escape another day or run for the exit and let Anubis do what he wants.
 
-A timer with 4 slots is a very difficult security system to bypass; with 12, there's no time constraints unless the escape goes seriously awry. If not specified, the alarm clock is considered to have 12 dots, which is almost as if there were no limit.
+A timer with 4 slots is a very difficult security system to bypass; with 12, there is no time constraints unless the escape goes seriously awry. If not specified, the alarm clock is considered to have 12 dots, which is almost as if there were no limit.
 
 If the groups split up, the alarm clock remains the same, and both groups put dots into the clock.
 
@@ -195,7 +195,7 @@ If the groups split up, the alarm clock remains the same, and both groups put do
 
 When the alarms go off, things are going to get very difficult for your mummies. Your mummies will have to decide whether to make a mad dash for the exit or return to their sarcophagi to wait for the next night.
 
-If the alarms haven't gone off and there are relics in the room (they have a &#9765; in their name), with a 1 in 1d4 (25%), there is only one guard in the room. If there are no relics, there is no guard, unless you, as the GM, decide otherwise.
+If the alarms have not gone off and there are relics in the room (they have a &#9765; in their name), with a 1 in 1d4 (25%), there is only one guard in the room. If there are no relics, there is no guard, unless you, as the GM, decide otherwise.
 
 When the alarms go off, there is a chance that there will be 1d6 guards. If the room has relics or valuables, with a 1-2 in 1d4 (50%), there are guards. If there are no relics, there are only guards, with a 1 in 1d4.
 
@@ -232,13 +232,13 @@ In addition to all of the above, if possible, you can add more elements of confl
 
 1. **There is a group of white-collar thieves:** You must avoid the guards and the thieves, and the alarms could go off at any moment.
 2. **Hostage Situation:** You wake up in the middle of a hostage situation. There are no guards, but there are trained ex-military personnel with powerful firearms.
-3. **Fire:** A terrible fire is devouring the museum. You must avoid the smoke, the fire, and the firefighters. Remember, it's escape or burn to death.
+3. **Fire:** A terrible fire is devouring the museum. You must avoid the smoke, the fire, and the firefighters. Remember, it is escape or burn to death.
 4. **Seriously Wounded:** You must flee, taking with you a fellow mummy who has been severely damaged by time or seriously injured by a jackal.
 5. **Strikes and Pickets:** The museum workers are on strike and have taken over the museum. There are pickets everywhere, people sleeping in sleeping bags, etc.
 
 \sp
 
-6. **The room has no exit:** You reach a room with no exit and must return the way you came. You'll have to face what was in the previous room again and you'll have to erase the last checkmark from the room clock.
+6. **The room has no exit:** You reach a room with no exit and must return the way you came. You will have to face what was in the previous room again and you will have to erase the last checkmark from the room clock.
 
 ### Missions
 

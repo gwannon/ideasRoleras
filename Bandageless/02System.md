@@ -10,7 +10,7 @@
 
 ### Checks
 
-When there's a challenge to overcome, you roll to see how it plays out. You only need to roll if what you want to do is risky.
+When there is a challenge to overcome, you roll to see how it plays out. You only need to roll if what you want to do is risky.
 
 The GM announces that your action may be risky and dangerous; you then choose a skill and roll the corresponding die. If a fellow mummy helps you, they also roll, and you both run the same risks. The GM takes the highest roll and interprets the result.
 
@@ -42,11 +42,11 @@ When a mummy rewraps its bandages, the GM observes the situation and presents a 
 
 ### Loot Checks
 
-Ironically, you'll have to loot the museum you're trapped in to escape; something museums have been doing for centuries with the riches of your culture.
+Ironically, you will have to loot the museum you are trapped in to escape; something museums have been doing for centuries with the riches of your culture.
 
 When the plot allows, you can make a looting roll to search for equipment that will aid you in your escape.
 
-Be careful because you might come across things you didn't want to, such as an inattentive security guard coming from the restroom or grabbing a coffee from the staff lounge.
+Be careful because you might come across things you did not want to, such as an inattentive security guard coming from the restroom or grabbing a coffee from the staff lounge.
 
 The equipment you can search for is mainly items from the museum's display cases and utility cabinets, from **bronze axes** to **dinosaur femurs**, including **cleaning products** and **restoration tools**.
 
@@ -61,7 +61,7 @@ To make a looting roll you must roll a d20 and consult the following table.
 |17-18|Add a d8 item.|
 |19-20|Add a d10 item or a bottle of embalsing chemicals.|
 
-If you're not sure what you'll get with the looting roll, you can roll a d20 on the following table.
+If you are not sure what you will get with the looting roll, you can roll a d20 on the following table.
 
 There are no cursed items in all museum rooms, only those containing relics, marked with an ankh (&#9765;) on the "Room Theme or Function Table."
 
@@ -156,7 +156,7 @@ There may be items or situations, at the GM's discretion, that replenish your it
 
 When things get tough, you can try calling on the ancient gods of Egypt and roll a **d12** instead of a roll at your current skill rank.
 
-Once you spend the prayer to your patron deity, you can't use it again until you **reapply your bandages**.
+Once you spend the prayer to your patron deity, you can not use it again until you **reapply your bandages**.
 
 ### Degradation (Stress)
 
