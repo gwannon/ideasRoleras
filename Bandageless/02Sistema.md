@@ -6,7 +6,7 @@
 
 \conc
 
-«Bandageless, revive, maldice, escapa» usa el sistema [Breathless](https://fari-rpgs.itch.io/breathless-srd), modificando y ampliando sus reglas para plasmar las aventuras en las que participarán tus momias para escapar del museo.
+«Bandageless, revive, maldice, escapa» usa el sistema [Breathless](https://farirpgs.com/breathless/creator-kit), modificando y ampliando sus reglas para plasmar las aventuras en las que participarán tus momias para escapar del museo.
 
 ### Tiradas (Checks)
 
@@ -50,16 +50,16 @@ Ten cuidado porque puedes encontrarte con cosas que no querías, como un vigilan
 
 El equipo que puedes buscar son principalmente objetos de las vitrinas del museo y de los armarios de servicio, desde **hachas de bronce** a **fémures de dinosaurios**, pasando por **productos de limpieza** o **herramientas de restauración**.
 
-Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
+Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tabla.
 
-|1d20|Equipo|
+|1d12|Equipo|
 |---|---|
-|1|Objeto maldito|
-|2|Pasa algo malo|
-|3-14|No encuentras nada|
-|15-16|1 pieza de equipo de d6|
-|17-18|1 pieza de equipo de d8|
-|19-20|1 pieza de equipo de d10 o 1 botella de líquido de embalsamar|
+|1-2|Pasa algo malo|
+|3-4|Algo malo se acerca|
+|5-6|1 pieza de equipo de d6|
+|7-8|1 pieza de equipo de d8|
+|9-10|1 pieza de equipo de d10 o 1 botella de líquido de embalsamar|
+|11-12|1 objeto maldito d10 o 1 botella de líquido de embalsamar|
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 

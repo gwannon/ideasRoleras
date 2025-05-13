@@ -6,7 +6,7 @@
 
 \conc
 
-«Bandageless, revive, curse, escape» uses the [Breathless](https://fari-rpgs.itch.io/breathless-srd) system, modifying and expanding its rules to capture the adventures your mummies will take part in to escape the museum.
+«Bandageless, revive, curse, escape» uses the [Breathless](https://farirpgs.com/breathless/creator-kit) system, modifying and expanding its rules to capture the adventures your mummies will take part in to escape the museum.
 
 ### Checks
 
@@ -50,16 +50,17 @@ Be careful because you might come across things you did not want to, such as an 
 
 The equipment you can search for is mainly items from the museum's display cases and utility cabinets, from **bronze axes** to **dinosaur femurs**, including **cleaning products** and **restoration tools**.
 
-To make a looting roll you must roll a d20 and consult the following table.
+To make a looting roll you must roll a d12 and consult the following table.
 
-|1d20|Equipo|
+|1d12|Equipo|
 |---|---|
-|1|Doomed item|
-|2|Trouble is here.|
-|3-14|There is nothing.|
-|15-16|Add a d6 item.|
-|17-18|Add a d8 item.|
-|19-20|Add a d10 item or a bottle of embalsing chemicals.|
+|1-2|Doomed item|
+|1-2|Trouble is here…|
+|3-4|There’s trouble ahead…|
+|5-6|Add a d6 item.|
+|7-8|Add a d8 item.|
+|9-10|Add a d10 item or a bottle of embalsing chemicals.|
+|11-12|Add a d10 doomed object or a bottle of embalsing chemicals.|
 
 If you are not sure what you will get with the looting roll, you can roll a d20 on the following table.
 
