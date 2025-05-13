@@ -1,40 +1,40 @@
 \sinc
 
-# Entrega el paquete 1.0.1 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Deliver the package 1.0.1 [by Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
 \conc
 
-**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://fari-rpgs.itch.io/breathless-srd) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviados por mega-corps enemigas para interceptarte.**
+**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://farirpgs.com/breathless/creator-kit) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviados por mega-corps enemigas para interceptarte.**
 
 ```
-En un mundo hipertecnificado, la forma más eficaz para evitar que te hackeen información es que esta sea física y moverla físicamente. Recuerda, si va por la red es hackeable.
+In a hyper-technological world, the most effective way to prevent your information from being hacked is to keep it physical and basically move it. Remember, if it's online, it's hackable.
 ```
 
-En «Entrega el paquete», como buena ambientación ciberpunk, la información es poder y protegerla es fundamental, así que mucha información sensible se guarda en papel o unidades de almacenamiento y se mueve físicamente en vez de electrónicamente.
+In "Deliver the Package", like any cyberpunk setting, information is power, and protecting it is essential, so much sensitive information is stored on paper or storage drives and it is moved physically rather than electronically.
 
-Es por ello que existen empresas de mensajería y mensakas independientes que llevan esa información de un lugar a otro arriesgando su cuerpo e incluso sus vidas.
+That's why there are courier companies and independent messengers who transport this information from one place to another, risking their lives and even their bodies.
 
-## Empresas de mensajería y mensajeres independientes
+## Courier companies and independent messengers
 
-Las empresas de mensajería son empresas bastante atípicas en comparación con el sistema capitalista imperante. Suelen ser cooperativas de mensakas, no empresas como podríamos pensar. Muchas empezaron como grupos de corredores de parkour o skaters que estaban en sus callejones practicando su deporte y que recibían encargos para llevar rápidamente pedidos de comida a domicilio por una buena propina.
+Courier companies are quite atypical businesses compared to the prevailing capitalist system. They are usually co-ops of messengers, not businesses as we might think. Many began as groups of parkour riders or skaters practicing their sport in their alleys and receiving orders to quickly deliver food orders for a good tip.
 
-Poco a poco se fueron profesionalizando, estableciendo tarifas y ponían una cuota mensual para alquilar un habitáculo donde descansar, guardar su equipo y montar una oficina donde recibir los encargos. Les mensakas novates que se apuntan a la cooperativa pagan una cuota de entrada tras ser aceptada su solicitud de ingreso en la cooperativa y luego una cuota mensual para usar los servicios.
+Little by little, they became more professional, establishing rates and charging a monthly fee to rent a space where they could rest, store their equipment, and set up an office to receive orders. New messengers who join the cooperative pay an entry fee after their application to join the cooperative is accepted, and then a monthly fee to use the services.
 
-Les mensakas independientes suelen ser practicantes de disciplinas como parkour o skating que empiezan a trabajar de mensajeres para monetizar su afición, pero sin convertirlo en un modo de vida. Si quieren dedicarse profesionalmente, suelen unirse a una cooperativa.
+Independent messengers are usually practitioners of disciplines such as parkour or skating who begin working as couriers to monetize their hobby, but without making it a way of life. If they want to pursue a profesionl career, they usually join a co-op.
 
-## Parkour, skaters, BMX y otros estilos
+## Parkour, skaters, BMX and other styles
 
-Cada mensaka tiene su forma de moverse por la ciudad rápidamente. Tenemos corredores que hacen parkour, skaters y rollers con sus tablas y patines y ciclistes con sus bicis de BMX.
+Each messenger has its own way of moving quickly through the city. We have runners who practice parkour, skateboarders and inline skaters on their boards and skates, and cyclists on BMX bikes.
 
-Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, fisioterapeutas en caso del parkour o mecániques de bicis para les especialistes en BMX.
+Companies often specialize in one type of movement and purchase equipment and hire professionals specialized in working in those disciplines, for example, physical therapists in the case of parkour or bicycle mechanics for BMX specialists.
 
 [![Delivery By Fernand0FC](./images/delivery_by_fernand0fc_dd9kr8q-pre.png "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
 
-## Contratos calientes
+## Hot contracts
 
-La mayoría de las entregas las hace une unique mensaka. Recoge el paquete, lo transporta y lo entrega sin, a priori, incidentes. El contrato es estándar y normalmente se hace a través de la web.
+Most deliveries are made by a single messenger. They pick up the package, transport it, and deliver it without incident. The contract is standard and is usually done online.
 
-Pero de vez en cuando hay contratos calientes. Se denominan contratos calientes a las entregas peligrosas. Normalmente, se negocian cara a cara, se pagan buenas sumas y se exige la intervención de varies mensakas. Seguramente las megacorps enemigas mandarán a sus mejores agentes a interceptar a les mensakas y quitarles el paquete de sus frías manos. 
+But occasionally, hot contracts arise. Dangerous deliveries are called hot contracts. They are usually negotiated face-to-face, pay large sums, and require the intervention of several messengers. Enemy megacorps will surely send their best agents to intercept the messengers and take the package from their cold hands.
 
 ```
 Estas son las entregas que vas a poder vivir gracias a este pequeño juego, esos contratos calientes que pueden hacerte ganar chips como nunca has visto o simplemente matarte y que tu cadáver acabe en un callejón rodeado de sarnosas y hambrientas ratas.
@@ -48,7 +48,7 @@ Estas son las entregas que vas a poder vivir gracias a este pequeño juego, esos
 
 \conc
 
-«Entrega el paquete» usa el sistema [Breathless](https://fari-rpgs.itch.io/breathless-srd), modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
+«Entrega el paquete» usa el sistema [Breathless](https://farirpgs.com/breathless/creator-kit), modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
 
 ### Tiradas
 
@@ -78,15 +78,16 @@ Cuando une mensaka recupera el resuello, le DJ observa la situación y presenta 
 
 Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar herramientas, repuestos, botellines de PowerWater™, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercs.
 
-Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
+Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tabla.
 
-|1d20|Equipo|
+|1d12|Loot|
 |---|---|
-|1|Pasa algo malo|
-|2-14|No encuentras nada|
-|15-16|1 pieza de equipo de d6|
-|17-18|1 pieza de equipo de d8|
-|19-20|1 pieza de equipo de d10 o 1 PowerWater™|
+|1-2|Trouble is here…|
+|3-4|There’s trouble ahead…|
+|5-6|Add a d6 item.|
+|7-8|Add a d8 item.|
+|9-10|Add a d10 item or 1 PowerWater™|
+|11-12|Add a d12 item or 1 PowerWater™|
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 
@@ -125,7 +126,7 @@ Cuando todo se complica, puedes intentar recurrir a tu adrenalina y hacer una **
 
 Una vez gastado el subidón de adrenalina, no podrás usarlo de nuevo hasta que **recuperes el resuello**.
 
-### Cansancio
+### Fatigue
 
 Cuando enfrentas una consecuencia como resultado de una de tus acciones, le DJ puede decidir que recibas 1 nivel de cansancio. Si tu personaje alcanza 4 niveles de cansancio, estás agotade.
 
@@ -145,12 +146,12 @@ Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8
 
 Los personajes tienen un total de 6 habilidades:
 
-* **Empujar:** Abrirte paso, doblar, destrozar.
-* **Moverse:** Correr, saltar, trepar.
-* **Acechar:** Esconderse, husmear, merodear.
-* **Callejear:** Orientarse, perseguir, atajar.
-* **Pensar:** Percibir, analizar, reparar.
-* **Interactuar:** Cautivar, manipular, intimidar.
+* **Bash:** wreck, move, force.
+* **Dash:** run, jump, climb.
+* **Sneak:** hide, skulk, lurk.
+* **Wander:**  orient, pursue, shortcut.
+* **Think:** perceive, analyze, repair.
+* **Sway:** charm, manipulate, intimidate.
 
 Por último, tienes una **pieza de equipo especial, que empieza con d10 y que representa la forma de moverte que usas**, pueden ser zapatillas de correr, tu bici, tu tabla de skate, etc.
 
@@ -459,27 +460,27 @@ Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 
 \sinc
 
-## Epílogo 
+## Epilogue
 
 \conc
 
-### Hoja de mensaka
+### Messenger sheet
 
-|HojaMensajere.html|
+|MessengerSheet.html|
 
-### Hoja de contrato
+### Contract sheet
 
-|HojaContrato.html|
+|ContractSheet.html|
 
 &nbsp;
 
-### Fuentes
+### Sources
 
-Si deseas inspiración para crear tus tramas, estás son algunas obras que me han servidor de inspiración para desarrollar «Entrega el paquete».
+If you're looking for inspiration for your plots, these are some of the works that inspired me to develop "Deliver the Package".
 
-* **Luz virtual (Trilogía del puente) de William Gibson.** Todos persiguen a una mensajera que ha conseguido una gafas de realidad virtual con importante información corporativa.
-* **Quemando cromo de William Gibson.** En esta recopilación de historias cortas tenemos la historia de Johnny Mnemonic que es un mensajero corporativo que lleva en su cerebro relevantes datos de una megacorp.
-* En el videojuego **Mirror’s Edge de EA** una red de corredores, entre ellos el personaje principal, Faith, transmiten mensajes entre elementos rebeldes mientras eluden la vigilancia del gobierno y las corporaciones. 
+* **Virtual Light (The Bridge Trilogy) by William Gibson.** Everyone is chasing a messenger who has obtained a virtual reality headset containing important corporate information.
+* **Burning Chrome by William Gibson.** In this collection of short stories, we find the story of Johnny Mnemonic, a corporate courier who carries important data about a megacorp in his brain.
+* In the video game **Mirror's Edge by EA**, a network of runners, including the main character, Faith, transmit messages between rebel elements while evading government and corporate surveillance.
 
 \sc
 
@@ -501,11 +502,11 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 
 &nbsp;
 
-### Licencia 
+### License 
 
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-«Entrega el paquete» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/EntregaElPaquete](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
+«Deliver the package» is developed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.en) license. All the source code can be found at [GitHub/ideasRoleras/EntregaElPaquete](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
 
 * Red and black patterned background vector by [rawpixel.com](https://www.freepik.com/free-vector/red-black-patterned-background-vector_3463974.htm)
 * Game futuristic boxes future technology chests by [upklyak](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm)
@@ -517,4 +518,4 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/),
 
 &nbsp;
 
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://fari-rpgs.itch.io/breathless-srd "This game is Breathless")
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
