@@ -133,7 +133,7 @@ For each new room, you can choose the customization option from the «Table of r
 
 |1d12|Room customizations|
 |---|---|
-|1|**Special Decoration:** The room is highly decorated, reminiscent of a caveman's cave, a jungle, a castle hall, or a Roman house.|
+|1|**Special Decoration:** The room is highly decorated, reminiscent of a caveman's cavern, a jungle, a castle hall, or a Roman house.|
 |2|**Cleaning Cart:** Someone left a cleaning cart behind. The cart can only be used in this room and has a d8.|
 |3|**Interactive Experiences:** It is full of interactive screens that allow you to play and interact with the pieces in the room.|
 |4|**Skylight:** There is a skylight that lets you see the sky. But it is too high to climb out.|
@@ -158,7 +158,7 @@ The **museum map** is a very useful object for navigating through the rooms, but
 
 If you pass the roll, the map allows you to reroll on the «Table of the room's theme or function» and keep the best roll.
 
-The map can be used after you know what's in the room and how many guards there are.
+The map can be used after you know what is in the room and how many guards there are.
 
 When the Map die reaches d4, it becomes unusable; it is torn, bent, stained, etc.
 

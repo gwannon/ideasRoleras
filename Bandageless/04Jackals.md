@@ -10,7 +10,7 @@
 
 You have broken the laws of life and death, and Anubis is not happy with them, so the god of death has sent his jackals to hunt you down and bring you before him.
 
-Anubis's jackals are the size of bears with brutal fangs and claws, fur as black as night, and eyes of fire. They hunt those who have broken the laws of the afterlife and escaped to the world of the living.
+Anubis's jackals are the size of bears with brutal fangs and claws, fur as black as night and eyes of fire. They hunt those who have broken the laws of the afterlife and escaped to the world of the living.
 
 > When a jackal kills a mummy, their spirit is sent back to the underworld.
 
@@ -29,7 +29,7 @@ _Think of it like that alien in Alien³ who hunts the inmates of the penal colon
 
 As for when they will come out, really, whenever you want. Perhaps they will be the first thing you see when you leave their sarcophagus, or perhaps they will suddenly emerge from the shadows and stand between your mummies and the freedom that is the museum's main entrance.
 
-If you're going to introduce jackals, you must introduce them gradually. Perhaps fiery eyes staring at you from the room you just left. Perhaps claws on a statue or tapestry from the room you just entered. To finally see them in all their terrible splendor standing between you and freedom.
+If you are going to introduce jackals, you must introduce them gradually. Perhaps fiery eyes staring at you from the room you just left. Perhaps claws on a statue or tapestry from the room you just entered. To finally see them in all their terrible splendor standing between you and freedom.
 
 ### Jackal Powers and Abilities
 
@@ -41,7 +41,7 @@ Despite coming from the spiritual realm of the underworld, they are very real an
 
 In addition to being highly intelligent, they have highly developed senses, which makes it **very difficult to deceive them and lure them into traps**.
 
-Jackals can **smell the energy released when cursed objects are used**, so if you use these objects, they can detect and find you. If there are jackals in the museum, you must be very careful when using your cursed objects, because it could be your downfall.
+Jackals can **smell the energy released when cursed objects are used**, so if you use these items, they can detect and find you. If there are jackals in the museum, you must be very careful when using your cursed objects, because it could be your doom.
 
 ### Mechanizing Jackals
 
