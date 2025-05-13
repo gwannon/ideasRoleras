@@ -169,17 +169,18 @@ At the start of each delivery, you'll also carry a random piece of equipment at 
 
 \conc
 
-En «Entrega el paquete» las aventuras se denominan entregas. Las entregas tienen una serie de reglas propias que las hacen caóticas y frenéticas.
 
-### El contrato
+In "Deliver the Package," adventures are called deliveries. Deliveries have their own set of rules that make them chaotic and frantic.
 
-Todas las entregas empiezan con un contrato. Algunos son muy simples, llevar el paquete del punto A al punto B, y puedes complicarlos tanto como quieras usando estos 5 vectores:
+### The contract
 
-* **El punto de recogida.** Normalmente es en las oficinas de la megacorp contratante, pero puede ser hasta una taquilla de la estación o recoger algo de la tintorería. Todo vale para despistar a les rivales.
-* **El punto de entrega.** Claramente otras oficinas de la misma megacorp. Sospecha de cualquier otra opción.
-* **El límite de tiempo.** La megacorp siempre pone un límite de tiempo. La diferencia es cuan ajustado sea. El límite de tiempo puede crear más o menos tensión. Como consejo, las primeras entregas hazlas con límites largos, cuando ya tengáis claro el sistema puedes meter límites de tiempo más cortos.
-* **El interés/valor del paquete.** Cuanto más valioso, más recursos pondrá en juego las megacorp rivales.
-* **Número de mensakas y señuelos.** En la mayoría de contratos calientes la megacorp paga para que varios mensakas vayan en grupo, de forma que se puedan apoyar y, si cae une, le superviviente continúe con la entrega. Pueden pedir también mensakas extras que actúen de señuelos, despistando a les mercs enviades.
+All deliveries start with a contract. Some are very simple, getting the package from point A to point B, and you can make them as complicated as you like using these five vectors:
+
+* **The pickup point.** This is usually at the offices of the contracting megacorp, but it can even be a locker at the station or picking up something from the dry cleaners. Anything goes to throw off your rivals.
+* **The drop-off point.** Clearly other offices of the same megacorp. Be suspicious of any other option.
+* **The time limit.** The megacorp always sets a time limit. The difference is how tight it is. The time limit can create more or less tension. As a tip, make your first deliveries with long deadlines; once you've got the system down, you can set shorter time limits.
+* **The interest/value of the package.** The more valuable it is, the more resources rival megacorps will put into play.
+* **Number of messengers and decoys.** In most hot contracts, the megacorp pays for several messengers to go in groups so they can support each other and, if one falls, the surviving one can continue the delivery. They can also ask for extra messengers to act as decoys, confusing the sent mercs.
 
 Aparte de los puntos principales, hay algunos anexos que la megacorp puede intentar imponer antes de firmar el contrato.
 
