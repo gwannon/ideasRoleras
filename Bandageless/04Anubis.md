@@ -12,7 +12,7 @@ Has quebrantado las leyes de la vida y la muerte y Anubis no está contento con 
 
 Los chacales de Anubis tienen el tamaño de un oso con brutales colmillos y garras, pelaje negro como la noche y ojos de fuego. Se dedican a cazar a los que han roto las leyes del más allá y han escapado al mundo de los vivos.
 
-> Cuando un chaval acaba con una momia, su espíritu es enviado de nuevo al inframundo.
+> Cuando un chacal acaba con una momia, su espíritu es enviado de nuevo al inframundo.
 
 Son excepcionales cazadores, muy inteligentes y con sentidos muy desarrollados. Sin una palabra mejor para definirlos, son el depredador de ultratumba definitivo.
 
@@ -58,6 +58,6 @@ Si necesitas mecanizarlo, cuando tus momias interactúen contra chacales, la tab
 
 Si te fijas bien, por ejemplo, hacer una tirada de una habilidad que está a un d4 es fallo siempre. En caso de un d6, puede tener éxito, pero siempre con consecuencias. La idea es que solo puedas ganar a un chacal en algo en lo que seas realmente bueno, tengas armas mágicas o te encomiendes a tu divinidad.
 
-También puedes hacer que no puedan tomarse unos segundos para curarse un punto de degradación, cuando un chaval está presente en la sala. Esos segundos de respiro, los puede usar un chacal para extraer tu alma de tus restos mortales revividos y devolverlo al inframundo.
+También puedes hacer que no puedan tomarse unos segundos para curarse un punto de degradación, cuando un chacal está presente en la sala. Esos segundos de respiro, los puede usar un chacal para extraer tu alma de tus restos mortales revividos y devolverlo al inframundo.
 
 > Si no te quieres liar, puedes meterle un penalizador de -2 a las tiradas y usar la tabla de tiradas básica.
