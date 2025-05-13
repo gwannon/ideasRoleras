@@ -4,7 +4,7 @@
 
 \conc
 
-**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://farirpgs.com/breathless/creator-kit) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviados por mega-corps enemigas para interceptarte.**
+**«Deliver the package» in a cyberpunk mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit), where you are a messenger who must deliver a package and dodge merc teams sent by enemy mega-corps to intercept you.**
 
 ```
 In a hyper-technological world, the most effective way to prevent your information from being hacked is to keep it physical and basically move it. Remember, if it's online, it's hackable.
@@ -37,48 +37,48 @@ Most deliveries are made by a single messenger. They pick up the package, transp
 But occasionally, hot contracts arise. Dangerous deliveries are called hot contracts. They are usually negotiated face-to-face, pay large sums, and require the intervention of several messengers. Enemy megacorps will surely send their best agents to intercept the messengers and take the package from their cold hands.
 
 ```
-Estas son las entregas que vas a poder vivir gracias a este pequeño juego, esos contratos calientes que pueden hacerte ganar chips como nunca has visto o simplemente matarte y que tu cadáver acabe en un callejón rodeado de sarnosas y hambrientas ratas.
+These are the deliveries you'll be able to experience thanks to this little game, those hot contracts that can earn you chips like you've never seen before or simply kill you and leave your corpse in an alley surrounded by mangy, hungry rats.
 ```
 
 \sp
 
 \sinc
 
-## Sistema 
+## System
 
 \conc
 
-«Entrega el paquete» usa el sistema [Breathless](https://farirpgs.com/breathless/creator-kit), modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
+«Deliver the Package» uses the [Breathless](https://farirpgs.com/breathless/creator-kit) system, modifying and expanding its rules to capture the crazy races you'll participate in to deliver the package to its destination.
 
-### Tiradas
+### hecks
 
-Cuando hay un desafío que superar, haces una tirada para ver cómo se desarrolla. Solo necesitas tirar si lo que quieres hacer es arriesgado.
+When there's a challenge to overcome, you roll to see how it plays out. You only need to roll if what you want to do is risky.
 
-Le DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. Si une compañere te ayuda, también realiza una tirada y ambos corréis los mismos riesgos. Le DJ toma la tirada más alta e interpreta el resultado.
+The GM announces that your action may be risky and dangerous; you then choose a skill and roll the corresponding die. If a teammate helps you, they also roll, and you both take the same risks. The GM takes the highest roll and interprets the result.
 
-|Tirada|Resultado|
+|Check|Result|
 |---|---|
-|1-2|Fallas y algo malo sucede.|
-|3-4|Lo logras, pero tiene algún tipo de coste.|
-|5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
+|1-2|You fail, and there’s an additional complication.|
+|3-4|You succeed, but there’s a complication.|
+|5+|You succeed. The higher the result, the better the effect.|
 
-Ser mensaka es difícil. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
+Being a messenger is difficult. Each roll reduces the skill score used by one level to a minimum of d4:
 
 **d12 ⇾ d10 ⇾ d8 → d6 → d4**
 
-Si lo desea, le DJ puede dejar una decisión de partida a la suerte. Simplemente elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
+If desired, the GM can leave a game decision up to chance. Simply choose a die based on the probability of something happening, roll, and interpret the result.
 
-### Recuperar el resuello
+### Catch your Breath
 
-Para recuperar todas tus habilidades, debes «recuperar el resuello». Se trata de un breve descanso para poder respirar, bajar tus pulsaciones y pensar tu siguiente paso. Para recuperar el resuello debes estar **fuera de peligro u oculte a la vista de enemigues**.
+To regain all your abilities, you must "catch your breath." This is a short rest to breathe, lower your heart rate, and consider your next move. To catch your breath, you must be **out of danger or hidden from enemies**.
 
-Cuando une mensaka recupera el resuello, le DJ observa la situación y presenta una nueva complicación al grupo.
+When a mensaka catches his breath, the GM observes the situation and presents a new complication to the group.
 
-### Tiradas de saqueo
+### Loot Checks
 
-Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar herramientas, repuestos, botellines de PowerWater™, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercs.
+When the plot allows, you can make a looting roll to search for tools, spare parts, PowerWater™ bottles, etc. Be careful because you might come across things you didn't want, such as a group of mercs.
 
-Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tabla.
+To make a looting roll, roll a d12 and consult the following table.
 
 |1d12|Loot|
 |---|---|
@@ -89,62 +89,62 @@ Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tab
 |9-10|Add a d10 item or 1 PowerWater™|
 |11-12|Add a d12 item or 1 PowerWater™|
 
-Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
+If you are not sure what you get with the looting roll, you can roll a d20 on the following table.
 
-|1d20|Equipo|
+|1d20|Equip|
 |---|---|
-|1|Protecciones|
-|2|Pegamento|
-|3|Piezas de repuesto|
-|4|Cinta americana|
-|5|Cuerda de escalada y mosquetones|
-|6|Drogas estimulantes|
-|7|Multi-herramienta|
-|8|Hilo de nilón|
-|9|Espray de pintura|
-|10|Alambre de espino|
-|11|Lubricante industrial|
-|12|Binoculares|
-|13|Bolas de rodamiento|
-|14|Cizallas|
-|15|Cadena|
-|16|Cúter monofilamento|
-|17|Pelota superrebotante|
-|18|Linterna|
-|19|Queso en espray|
-|20|Extintor de mano|
+|1|Protective Gear|
+|2|Glue|
+|3|Spare Parts|
+|4|Duct Tape|
+|5|Climbing Rope and Carabiners|
+|6|Stimulant Drugs|
+|7|Multi-Tool|
+|8|Nylon Thread|
+|9|Spray Paint|
+|10|Barbed Wire|
+|11|Industrial Lubricant|
+|12|Binoculars|
+|13|Ball Bearings|
+|14|Shears|
+|15|Chain|
+|16|Steel Cutter|
+|17|Bouncy Ball|
+|18|Flashlight|
+|19|Spray Cheese|
+|20|Handheld Fire Extinguisher|
 
-### Bandolera de mensaka
+### Messenger bag
 
-Los objetos de tu bandolera pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. Al reducirse a un d4, el objeto se rompe, se pierde o desaparece de la historia.
+The items in your bandolier can be used in place of your skills. They start with a die level that decreases after each use. Once reduced to a d4, the item breaks, is lost, or disappears from history.
 
-Solo se pueden llevar **3 objetos y 1 botella de PowerWater™ en la bandolera**.
+Only **3 items and 1 bottle of PowerWater™ can be carried in the bandolier**.
 
-### Chute de adrenalina
+### Adrenaline rush
 
-Cuando todo se complica, puedes intentar recurrir a tu adrenalina y hacer una **tirada con un d12** es vez de una tirada con tu rango de habilidad actual.
+When things get tough, you can try tapping into your adrenaline rush and **rolling with a d12** instead of using your current skill rank.
 
-Una vez gastado el subidón de adrenalina, no podrás usarlo de nuevo hasta que **recuperes el resuello**.
+Once the adrenaline rush is spent, you can't use it again until you **catch your breath**.
 
 ### Fatigue
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, le DJ puede decidir que recibas 1 nivel de cansancio. Si tu personaje alcanza 4 niveles de cansancio, estás agotade.
+When you face a consequence as a result of one of your actions, the GM may decide that you receive 1 level of fatigue. If your character reaches 4 levels of fatigue, you are exhausted.
 
-Cuando estás agotade, fallar una acción peligrosa significa desde **quedarte atrás, perder el paquete** y seguramente volver a la base **sin haber cumplido la entrega**, hasta acabar **muerto en un callejón**.
+When you are exhausted, failing a dangerous action can range from **falling behind, losing the package** and possibly returning to base **without completing the delivery** to ending up **dead in an alley**.
 
 \sp
 
 #### PowerWater™
 
-Puedes usar una botella de PowerWater™, la mejor bebida energética del mercado, para eliminar 2 puntos de cansancio. Otra opción es esconderte en un lugar seguro por un tiempo para eliminar 1 punto de cansancio.
+You can use a bottle of PowerWater™, the best energy drink on the market, to remove 2 fatigue points. Another option is to hide in a safe place for a while to remove 1 fatigue point.
 
-### Tu mensaka
+### Your messenger
 
-En tu hoja de mensaka, anota el mote, los pronombres de tu personaje y cómo se mueve, parkour, roller, skate, bici BMX.
+On your character sheet, write down your character's nickname, pronouns, and how they move (parkour, inline, skateboarding, BMX).
 
-Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8 y un d6 a tres habilidades en las que creas que tu personaje destaca.
+All skills are scored on d4, and you should assign a d10, a d8, and a d6 to three skills you think your character excels at.
 
-Los personajes tienen un total de 6 habilidades:
+Characters have a total of six skills:
 
 * **Bash:** wreck, move, force.
 * **Dash:** run, jump, climb.
@@ -153,13 +153,13 @@ Los personajes tienen un total de 6 habilidades:
 * **Think:** perceive, analyze, repair.
 * **Sway:** charm, manipulate, intimidate.
 
-Por último, tienes una **pieza de equipo especial, que empieza con d10 y que representa la forma de moverte que usas**, pueden ser zapatillas de correr, tu bici, tu tabla de skate, etc.
+Finally, you have a **special piece of equipment, which starts with a d10 and represents your mode of movement**. This could be running shoes, your bike, your skateboard, etc.
 
 \sc
 
-A diferencia del equipo, vuelve a tener un d10 cuando recuperas el resuello y no ocupa espacio en la bandolera, como una habilidad, pero se puede romper, perder o ser robada como una pieza de equipo.
+Unlike equipment, it returns to a d10 roll when you catch your breath and doesn't take up space in your bandolier, like a skill, but it can be broken, lost, or stolen like a piece of equipment.
 
-Al comenzar cada entrega, llevarás también en tu bandolera una pieza de equipo aleatoria a nivel de d10.
+At the start of each delivery, you'll also carry a random piece of equipment at d10 level in your bandolier.
 
 [![Moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "Moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "Moar girls form a dystopian future By Fernand0FC")
 
@@ -513,7 +513,7 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), 
 * Delivery By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Delivery-802145258) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * Corporate level bodyguard By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * moar girls form a dystopian future By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
-* Algunas ideas han sido sacadas de *[**Repartidores del Apocalipsis**](https://reroll.itch.io/1pag-cotarpg), un juego de una página donde juegas con repartidores en un mundo postapocalíptico. 
+* Some ideas have been taken from *[**Apocalyptic Delivery Men**](https://reroll.itch.io/1pag-cotarpg), a one-page game where you play with delivery men in a post-apocalyptic world.
 * D'hinghara Diner By [Dana-Ulama](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505) bajo licencia [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es)
 
 &nbsp;
