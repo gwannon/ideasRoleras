@@ -433,19 +433,19 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 * Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
 * Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
 
-> Podría ser peor, podría llover - __Igor «El jovencito Frankenstein»__
+> It could be worse, it could rain. - __Igor «Young Frankenstein»__
 
 \sc
 
-### Semillas de entregas
+### Delivery seeds
 
-Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
+Maybe these delivery seeds will give you ideas to create your own.
 
-* Toda la **ciudad está colapsada por el concierto de la superestrella musical DiByne**, calles abarrotadas, atascos, gente de fiesta drogada, etc. Y a la CEO de VultureTech no se le ha ocurrido mejor ideas que mandar un paquete muy especial a DiByne, de la que es muy fan. Tendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.  
-* Une compañere mensaka está escondide en un callejón. Tiene una **pierna rota y necesita que alguien le sustituya**, así que ha llamado a la base y **os envían como refuerzos**. Tendréis que rescatarle, llevarle a un sitio seguro y terminar la entrega.
-* Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un **concurso para encontrar a le mejor mensaka de la ciudad**. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
-* El **paquete que transportáis hace ruidos extraños y no tiene buena pinta**. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizás deberíais abrir el paquete y salir de dudas.
-* Hoy toca **entrenar a los nuevos**, te acompañarán un grupo de mensakas recién contratades para que les enseñes los trucos. Qué podría salir mal.
+* The entire **city is in a state of chaos for musical superstar DiByne's concert**: crowded streets, traffic jams, drugged-up partygoers, etc. And the CEO of VultureTech hasn't come up with a better idea than to send a very special package to DiByne, of whom she's a huge fan. You'll have to get to the stadium and sneak backstage to make the delivery, evading the fans and their bodyguards.
+* A fellow messenger is hiding in an alley. He has a **broken leg and needs someone to replace him**, so he's called base, and they're sending you in as reinforcements. You'll have to rescue him, take him to a safe place, and complete the delivery.
+* Every year around this time, "The Race" takes place. DelivaTeam, one of the biggest companies in the delivery industry, is holding **a competition to find the best messenger in town**. There are several scoring tests that simulate a very hot delivery, and the highest score wins. The suspicion of a scam is always present, as DelivaTeam messengers always win.
+* The **package you're carrying is making strange noises and doesn't look right.** The contract negotiation was already weird, and this doesn't make it any better. It could be a bomb or some other kind of trap. Or maybe it's something alive. The truth is, you don't know, but maybe you should open the package and clear up any doubts.
+* Today it's **training for the newcomers**. You'll be accompanied by a group of newly hired messengers so you can show them the ropes. What could go wrong?
 
 
 \sinc
