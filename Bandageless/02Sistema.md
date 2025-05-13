@@ -52,10 +52,10 @@ El equipo que puedes buscar son principalmente objetos de las vitrinas del museo
 
 Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tabla.
 
-|1d12|Equipo|
+|1d12|Saqueo|
 |---|---|
-|1-2|Pasa algo malo|
-|3-4|Algo malo se acerca|
+|1-2|Pasa algo malo…|
+|3-4|Algo malo se acerca…|
 |5-6|1 pieza de equipo de d6|
 |7-8|1 pieza de equipo de d8|
 |9-10|1 pieza de equipo de d10 o 1 botella de líquido de embalsamar|

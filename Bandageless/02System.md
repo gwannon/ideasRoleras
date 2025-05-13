@@ -52,9 +52,8 @@ The equipment you can search for is mainly items from the museum's display cases
 
 To make a looting roll you must roll a d12 and consult the following table.
 
-|1d12|Equipo|
+|1d12|Loot|
 |---|---|
-|1-2|Doomed item|
 |1-2|Trouble is here…|
 |3-4|There’s trouble ahead…|
 |5-6|Add a d6 item.|
