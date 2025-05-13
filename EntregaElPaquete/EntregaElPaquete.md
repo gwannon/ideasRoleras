@@ -4,7 +4,7 @@
 
 \conc
 
-**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://fari-rpgs.itch.io/breathless-srd) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviados por mega-corps enemigas para interceptarte.**
+**«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://farirpgs.com/breathless/creator-kit) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviados por mega-corps enemigas para interceptarte.**
 
 ```
 En un mundo hipertecnificado, la forma más eficaz para evitar que te hackeen información es que esta sea física y moverla físicamente. Recuerda, si va por la red es hackeable.
@@ -48,7 +48,7 @@ Estas son las entregas que vas a poder vivir gracias a este pequeño juego, esos
 
 \conc
 
-«Entrega el paquete» usa el sistema [Breathless](https://fari-rpgs.itch.io/breathless-srd), modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
+«Entrega el paquete» usa el sistema [Breathless](https://farirpgs.com/breathless/creator-kit), modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
 
 ### Tiradas
 
@@ -78,15 +78,16 @@ Cuando une mensaka recupera el resuello, le DJ observa la situación y presenta 
 
 Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar herramientas, repuestos, botellines de PowerWater™, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercs.
 
-Para hacer una tirada de saqueo debes lanzar un d20 y consultar la siguiente tabla.
+Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tabla.
 
-|1d20|Equipo|
+|1d12|Saqueo|
 |---|---|
-|1|Pasa algo malo|
-|2-14|No encuentras nada|
-|15-16|1 pieza de equipo de d6|
-|17-18|1 pieza de equipo de d8|
-|19-20|1 pieza de equipo de d10 o 1 PowerWater™|
+|1-2|Pasa algo malo…|
+|3-4|Algo malo se acerca…|
+|5-6|1 pieza de equipo de d6|
+|7-8|1 pieza de equipo de d8|
+|9-10|1 pieza de equipo de d10 o 1 PowerWater™|
+|11-12|1 pieza de equipo de d12 o 1 PowerWater™|
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 
@@ -503,7 +504,7 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 
 ### Licencia 
 
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 «Entrega el paquete» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/EntregaElPaquete](https://github.com/gwannon/ideasRoleras/tree/main/EntregaElPaquete)
 
@@ -517,4 +518,4 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/),
 
 &nbsp;
 
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://fari-rpgs.itch.io/breathless-srd "This game is Breathless")
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
