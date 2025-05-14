@@ -373,66 +373,62 @@ Una trampa más compleja podría ser que une mensaka vacíe una botella de líqu
 
 Para que la trampa funcione, **todas las tiradas de equipo de cada participante deben tener éxito**.
 
-### Baja tecnología
+### Low tech
 
-> Mi vieja siempre decía «el metal se hunde, la carne flota». __Goldmill, entrenador de mensakas__
+> My mother always said «metal sinks, flesh floats». __Goldmill, messengers trainer__
 
-El mundo de la mensajería es un mundo donde la tecnología no ha entrado. Si no te fías de la tecnología para enviar tu información tampoco puedes fiarte de mensajes hasta arriba de ciberimplantes y equipo de alta tecnología.
+The world of courier service is a world where technology has not entered. If you don't trust technology to send your information, you also can't trust messages filled with cyber implants and high-tech equipment.
 
-Les mensakas suelen ser de las personas de la ciudad con menos cromos en el cuerpo, quitando piercings y clavos en los huesos. Los ciberimplantes son hackeables, son rastreables, son detectables, necesitan equipo especializado para repararlos, etc. 
+The mensakas tend to be the people in the city with the least chromes on their bodies, removing piercings and nails from the bones. Cyberimplants are hackable, they are traceable, they are detectable, they need specialized equipment to repair them, etc. 
 
-Piensa que en un mundo de ciberimplantes, todo está pensado para combatir esta tecnología y les mercs cibermejorades están entrenados para enfrentarse a gente con ellos. Lo que pudiera ser una desventaja muy clara en cierta medida se convierte en una ventaja.
+Think that in a world of cyberimplants, everything is designed to combat this technology and the mercenaries cybernetically enhanced are trained to confront people with them. What could be a very clear disadvantage to some extent becomes an advantage.
 
-En vez de implantes, puedes considerar que tus mensakas son excepcionales en sus tipos de movimientos y que sustituyen las capacidades extras que los implantes pudieran darles con su astucia y sus instintos de mensaka.
+Instead of implants, you can consider that your couriers are exceptional in their types of movements and that they replace the extra abilities that cybernetycs could give them with their cunning instincts.
 
-Las comunicaciones son todas verbales, nada de pinganillos, mensajes o videollamadas, nada que pueda ser hackeado electrónicamente. Usan su jerga de mensakas para «encriptar» sus comunicaciones y se gritan las órdenes, los planes y las advertencias.
+Communications are verbal, no earpieces, messages or video calls, nothing that can be hacked electronically. They use their mensaka slang to “encrypt” their communications and shout orders, plans and warnings to each other.
 
-Si necesitan hablar con la base, tienen chips sueltos para llamar desde una inter-cabina blindada. Y no es la primera vez que roban un móvil de une descuidade transeúnte mientras escapan corriendo de una panda de mercs.
+If they need to talk to the base, they have loose chips to call from an armored inter-cabin. And it is not the first time that they steal a cell phone from a careless passer-by while running away from a gang of mercs.
 
-#### Jerga mensaka
+#### Messenger slang
 
-Como ya hemos dicho, les mensakas usan su propia jerga, un lenguaje secreto y propio de cada cooperativa, con él se comunican durante las misiones. Se ha ido desarrollando con los años y no para de evolucionar con la gente nueva que entra.
+As we have already said, the mensakas use their own slang, a secret language specific to each cooperative, with which they communicate during missions. It has been developing over the years and does not stop evolving with the new people who enter.
 
-No son términos complicados de entender, con un poco de tiempo cualquier IA entrenada podría descifrarlo, pero lo son suficientemente enrevesadas para que una panda de mercs hasta arriba de sintedrogas de combate no sepa qué plan de escape estáis tramando mientras os retienen en un callejón con una lluvia de balas.
+They are not complicated terms to understand, with a little time any trained AI could decipher them, but they are convoluted enough that a bunch of mercs full of combat synthdrugs will not know what escape plan you are plotting while they hold you in an alley with a rain of bullets.
 
 ```
-Déjales que en sus interacciones se inventen poco a poco esa jerga y la integren luego en sus diálogos.
+Let them gradually invent that jargon in their interactions and then integrate it into their dialogues.
 ```
 
-### Llamar a la base
+### Call the base
 
-> Llamar a la base es de cobardes, ¿eres une cobarde? __Jeindal, mensaka retirado__
+> Calling the base is for cowards. Are you a coward? __Jeindal, retired messenger__
 
-Cuando las cosas están muy muy muy chungas, puedes llamar a la base a pedir ayuda.
+When the situation is terrific, you can call the base for help.
 
-Desde la base se encargarán de enviar a un grupo de ronins que limpie la zona, una bandada de drones que os abran camino o incluso un girojet que os saque de allí y os dejé a salvo en una azotea cercana.
+From the base they will be in charge of sending a group of ronins to clean the area, a flock of drones to clear the way for you, or even a gyrojet to take you out of there and leave you safe on a nearby rooftop.
 
-Llamar a la base es una opción excepcional que solo se puede hacer cuando no hay otro recurso. 
+Calling base is an exceptional option that can only be done when there is no other recourse. 
 
-Eso supone que **todes tus mensakas han gastado sus chutes de adrenalina, no tienen ningún ítem de equipo, ni les queda PowerWater™ y el grupo tiene más del 50% del cansancio total gastado**.
+This assumes that **all of your mensakas have spent their adrenaline shots, have no equipment items, have no PowerWater™ left, and the group has more than 50% of their total fatigue spent**.
 
-Llamar a la base tiene un coste y es que seguramente le **deberéis un favor a alguien** y todo el mundo sabe que en una ambientación ciberpunk deber un favor significa problemas más grandes en el futuro.
+Calling the base has a cost and that is that you will surely **owe someone a favor** and everyone knows that in a cyberpunk setting owing a favor means bigger problems in the future.
 
-Seguro que vuestre benefactore, querrá cobrarse el favor haciendo que entreguéis algo ilegal o que hagáis la entrega en territorio de una megacorp enemiga. Igual transportáis una bomba que explotará cuando se abra. Puede ser cualquier cosa y estás obligade a cumplirlo.
+### Cyberpunk hints
 
-Seguramente este favor os hará pedir otro y este otro y así hasta el infinito. Es por ello que llamar a la base debe ser la ultimísima opción.
+Here are some cyberpunk hints that can help set the mood for your deliveries.
 
-### Toques ciberpunk
-
-Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
-
-* Siempre tiene que **llover en el momento más inoportuno**.
-* **En la ciudad siempre hay mucha acción**, el grupo de mercs que te sigue no es único. El sonido de las UCI móviles militarizadas es constante y a la vuelta de cualquier esquina, puede haber un tiroteo.
-* Las rutas no siempre irán por sitios cutres y sucios, algunas veces **pasarás por lugares elegantes y de mucho dinero**. Quién dice que no puedes acabar en una biblioteca o un museo.
+* It always has to **rain at the most inopportune moment**.
+* **There's always a lot of action in the city**, and the group of mercs following you isn't unique. The sound of militarized mobile ICUs is constant, and around any corner, there could be a shootout.
+* The routes won't always go through dark, dirty places; sometimes you'll **go through elegant, expensive places**. Who says you can't end up in a library or a museum?
 
 \sp
 
-* Hay **puestos de comida callejera en todas partes** y preparan de todo. Qué mejor forma de recuperar el resuello que sorbiendo unos fideos escondido tras las cortinas de un pequeño ramen-ya, mientras fuera te buscan una panda de mercs.
-* Hay **publicidad en todas partes**, hasta en tu ropa puede haber logos de patrocinadores. Seguramente que la gente de marketing ha aprovechado a meter logos de la megacorp en el paquete por si tu persecución o el tiroteo en que vayas a morir es grabado y sale en la red.
-* Las **drogas son fáciles de conseguir**, ilegales unas y legales otras. Es muy fácil encontrar a alguien que venda las primeras o una máquina que dispense las segundas.
-* **Todo está en obras.** La calle que ayer era transitable, hoy es un hoyo en el suelo. Es imposible que en una manzana no haya un edificio con un andamio que no te permita subir a la azotea para huir del peligro (y encontrarte con otro nuevo).
-* Siempre habrá **algo a lo que agarrarse para seguir avanzando**. Una tubería por la que bajar, cables por los que descolgarse o farolas a las que saltar para luego aterrizar en el suelo sano y salvo.
-* Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
+* There are **street food stands everywhere** and they cook everything. What better way to catch your breath than slurping some noodles hidden behind the curtains of a small ramen-ya, while a bunch of mercs are looking for you outside.
+* There are **ads and comercials everywhere**, even on your clothes there may be sponsor logos. Surely the marketing people have taken the opportunity to put Megacorp logos on the package in case your chase or the shootout in which you are going to die is recorded and appears on the Internet.
+* **Drugs are easy to get**, some illegal and others legal. It is very easy to find someone who sells the legal ones or a vending machine that dispenses the illegals.
+* **Everything is under construction.** The street that was walkable yesterday is a hole in the ground today. It is impossible that on a block there is not a building with a scaffolding that does not allow you to climb to the roof to escape danger (and find a new one).
+* There will always **a way to hold onto to keep moving forward**. A pipe to go down, cables to climb down, or streetlights to jump over and then land safely on the ground.
+* The **booths and vending machines** are bulletproofed, so they are a **perfect shelter** for your messengers. In addition, they weigh a ton so moving or pushing them, even with a vehicle, is complicated.
 
 > It could be worse, it could rain. - __Igor «Young Frankenstein»__
 
