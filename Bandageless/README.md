@@ -6,9 +6,11 @@ Ver en [itch.io](https://gwannon.itch.io/bandageless-breathless).
 
 ## Licencia 
 
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de **[freepik](https://www.freepik.com/)** y otras fuentes.
+«Bandageless, revive, maldice, escapa» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es).  Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Bandageless](https://github.com/gwannon/ideasRoleras/tree/main/Bandageless).
+
+Imágenes libres de derecho de [freepik](https://www.freepik.com/) y [otras fuentes](https://github.com/gwannon/ideasRoleras/blob/main/Bandageless/README.md).
 
 * Paperboard Yellow Texture by [efe_madrid](https://www.freepik.com/free-photo/paperboard-yellow-texture_5487782.htm)
 * Ayudante con mochila por [Boletín informativo de amigos de la egiptología](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf)
@@ -18,8 +20,6 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 * Egypt Flat Colorful Illustration by [macrovector](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm)
 * By [Jeff Dahl - Own work, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=3257647)
 * Horseshoe at the museum illustration by [macrovector](https://www.freepik.com/free-vector/horseshoe-museum-illustration_3834874.htm)
-* [A]drian Evans Photography](https://commons.wikimedia.org/wiki/File:British_Museum_at_night.jpg), CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+* [Adrian Evans Photography](https://commons.wikimedia.org/wiki/File:British_Museum_at_night.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
-Probar
-
-https://www.freepik.com/free-vector/egyptian-set-pharaoh-sarcophagus-ancient-gods-other-symbols-culture_3685373.htm
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")

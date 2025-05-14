@@ -50,7 +50,7 @@ These are the deliveries you'll be able to experience thanks to this little game
 
 «Deliver the Package» uses the [Breathless](https://farirpgs.com/breathless/creator-kit) system, modifying and expanding its rules to capture the crazy races you'll participate in to deliver the package to its destination.
 
-### hecks
+### Checks
 
 When there's a challenge to overcome, you roll to see how it plays out. You only need to roll if what you want to do is risky.
 
@@ -177,24 +177,24 @@ In "Deliver the Package," adventures are called deliveries. Deliveries have thei
 All deliveries start with a contract. Some are very simple, getting the package from point A to point B, and you can make them as complicated as you like using these five vectors:
 
 * **The pickup point.** This is usually at the offices of the contracting megacorp, but it can even be a locker at the station or picking up something from the dry cleaners. Anything goes to throw off your rivals.
-* **The drop-off point.** Clearly other offices of the same megacorp. Be suspicious of any other option.
+* **The delivery point.** Clearly other offices of the same megacorp. Be suspicious of any other option.
 * **The time limit.** The megacorp always sets a time limit. The difference is how tight it is. The time limit can create more or less tension. As a tip, make your first deliveries with long deadlines; once you've got the system down, you can set shorter time limits.
 * **The interest/value of the package.** The more valuable it is, the more resources rival megacorps will put into play.
-* **Number of messengers and decoys.** In most hot contracts, the megacorp pays for several messengers to go in groups so they can support each other and, if one falls, the surviving one can continue the delivery. They can also ask for extra messengers to act as decoys, confusing the sent mercs.
+* **Number of messengers and baits.** In most hot contracts, the megacorp pays for several messengers to go in groups so they can support each other and, if one falls, the surviving one can continue the delivery. They can also ask for extra messengers to act as baits, confusing the sent mercs.
 
-Aparte de los puntos principales, hay algunos anexos que la megacorp puede intentar imponer antes de firmar el contrato.
+Aside from the previous points, there are some addendums the megacorp may try to impose before signing the contract.
 
-* Paquete rastreable.
-* Mensaka sujeto al paquete mediante esposas explosivas o cinchas guillotina.
-* Puntos de control. Le cliente puede exigir que pases por unos puntos para que controlen tus progresos.
-* Seguro de salud y/o vida para el mensaka.
-* Responsabilidad en caso de perder el paquete.
-* Obligaciones y multas en caso de rotura de contrato por ambas partes.
-* Grabación de carreras con cámara personal para estudiar la entrega y ver quién ha querido interceptar el envío.
-* Medio de transporte a usar. Pueden pedir que no se vaya en bici o que tenga que ir todos en rollers.
+* Traceable package.
+* Messenger secured to the package using explosive handcuffs or guillotine straps.
+* Checkpoints. The client may require you to pass through certain checkpoints so they can monitor your progress.
+* Health and/or life insurance for the messenger.
+* Liability in case of loss of the package.
+* Obligations and fines in case of breaking the contract by both parties.
+* Recording of races with a personal camera to study the delivery and determine who attempted to intercept the shipment.
+* Mode of movement to be used. They may request that you not ride bikes or that everyone ride on roller skates.
 
 ```
-Escribir un contrato es una forma muy rápida de montar una entrega a la que luego solo tienes que meter detalles que le den sabor.
+Writing a contract is a very quick way to put together a delivery that you then just need to add the details to give it flavor.
 ```
 
 #### Negociar el contrato
@@ -485,21 +485,20 @@ If you're looking for inspiration for your plots, these are some of the works th
 
 \sc
 
-### Términos útiles
+### Useful Terms
 
-Este listado de términos en argot te pueden ayudar a ambientar tus entregas y que tus mensakas pueden usar para crear la suya.
+This list of slang terms can help you set the mood for your messengers and can be used by your couriers to create their own.
 
-* **Chapas:** Mercenaries hasta arriba de ciberimplantes y armas.
-* **Charlie:** Punto de control, viene de Checkpoint Charlie.
-* **Felices para siempre:** Cuando tienes que llevar un paquete esposado a tu mano.
-* **Megacorp:** Megacorporación.
-* **Mensaka:** Mensajere.
-* **Merc:** Mercenarie.
-* **Palomas:** Drones voladores espías que te siguen.
-* **Patata caliente:** Es un paquete peligroso que todo el mundo quiere conseguir.
-* **Pizza fría/caliente:** Pizza caliente es cuando la entrega tiene límite de tiempo en la entrega y fría cuando no lo tiene.
-* **Ringer:** Mensaka que porta el tesoro, digo, el paquete.
-* **Tagueado:** Que lleva un rastreador.
+* **Plates:** Mercenaries loaded with cyber implants and weapons.
+* **Charlie:** Checkpoint, comes from Checkpoint Charlie.
+* **Happily Ever After:** When you have to carry a package handcuffed to your hand.
+* **Megacorp:** Megacorporation.
+* **Merc:** Mercenary.
+* **Pigeons:** Flying spy drones that follow you.
+* **Hot Potato:** A dangerous package that everyone wants to get their hands on.
+* **Cold/Hot Pizza:** Hot pizza is when the delivery has a time limit, and cold pizza is when it doesn't.
+* **Ringer:** A messenger who carries the treasure, I mean, the package.
+* **Tagged:** Wearing a tracker.
 
 &nbsp;
 
