@@ -209,93 +209,75 @@ The other option is for your table to negotiate the contract with you. This nego
 
 Remember that money isn't important in a game; it only shows the value of the package's contents. To give you an idea, 500 chips is a minor job; 10,000 chips will be a real mess.
 
+### Don't ask about the package, just deliver it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### No preguntes por el paquete, solo entrégalo
-
-El paquete es el eje central de la trama de cada entrega. Es el objeto que todos quieren y tratan de conseguir y lo más divertido es que nadie sabe qué hay dentro. 
+The package is the central plot point of each delivery. It's the object everyone wants and tries to get, and the funniest thing is that no one knows what's inside.
 
 [![Game futuristic boxes future technology chests by upklyak](./images/2212.w032.n002.702A.p30.702.png "Game futuristic boxes future technology chests by upklyak")](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm "Game futuristic boxes future technology chests by upklyak")
 
-#### Dimensiones del paquete
+#### Pack Dimensions
 
-Los paquetes pueden tener 3 tamaños:
+Packs come in three sizes:
 
-* **Pequeño como un Chip de datos.** Puedes esconderlo en cualquier parte de tu ropa o de tu cuerpo, incluso tragártelo, si fuera necesario.
-* **Medio como una caza de zapas.** Puedes llevarlo en la bandolera y te ocupa un espacio de bandolera.
-* **Grande como para no entrar en la bandolera.** No entra en tu bandolera y tienes que llevarlo en la mano.
+* **Small enough to fit into a data chip.** You can hide it anywhere on your clothing or body, even swallow it if necessary.
+* **Medium enough to fit into a shoehorn.** You can carry it in your shoulder bag and it takes up some space in your shoulder bag.
+* **Big enough to fit into your shoulder bag.** It doesn't fit into your shoulder bag and you have to carry it in your hand.
 
-Cuando no entra en la bandolera, tienes que llevarlo en la mano y eso hace que te moleste cuando tratas de moverte. Piensa que es complicado escalar un muro con una sola mano. Quizás puedas hacer un arnés de cuerda o cinta americana o algún otro tipo de trucos.
+When it doesn't fit into your shoulder bag, you have to carry it in your hand, and that gets in the way when you're trying to move. Just think, it's hard to climb a wall with one hand. Maybe you can make a rope harness or duct tape or some other trick.
 
-Para compensar los problemas que supone que no entre en la bandolera, cuando el paquete es grande, se convierte en **un objeto que puedes usar en tus entregas con un d10**. Puedes usarlo como escudo porque está blindado, como flotador porque es estanco y flota, como trineo para deslizarte por cuestas, como ariete para tirar una puerta, etc. Cuando llega a d4, la caja está tan dañada que no sirve de nada, pero el contenido sigue a salvo.
+To compensate for the problems with not fitting into the bandolier, when the package is large, it becomes **an item you can use in your deliveries with a d10 roll**. You can use it as a shield because it's armored, as a float because it's watertight and floats, as a sled to slide down slopes, as a battering ram to knock down a door, etc. By the time it reaches d4, the box is so damaged it's useless, but the contents are still safe.
 
-#### No abras el paquete
 
-Esta regla fundamental de las entregas puede ser un elemento muy interesante para tu aventura y deberías poder jugar con ello durante las entregas.
 
-El paquete zumba, pesa mucho, pesa poco, les mercs lo tratan como si fueran explosivo, etc. Trata de jugar con esto y que cuando estén hasta en cuello tengan ganas de mandarlo todo a la mierda y abrir el paquete para saber por qué están a punto de palmarla.
 
-Abrir en paquete debería ser algo excepcional y casi siempre parte de la trama que hayas diseñado. Así que en situaciones muy chungas, saber lo que hay dentro del paquete puedes darles capacidad de negociación y hacer avanzar la historia, pero desde luego romperá el contrato y eso debería traer consecuencias.
 
-> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras. __HeraGodness, veteran messenger__
 
-#### ¿Quién lleva el paquete?
 
-Le mensaka que lleva el paquete se le suele llamar «ringer», y **es el puesto más peligroso**, ya que el paquete le convierte en el objetivo de todes les enemigues. Puede intentar ocultarlo o que haya otres mensakas con paquetes señuelos para engañar a les mercs. Si tus mensakas son astutes, sabrán aprovechar esta desventaja y usar al «ringer» para distraer a les mercs mientras el resto de compañeres buscan una salida.
 
-**Si le portadore del paquete se agota y se queda atrás, la entrega es interceptada** por les mercs enviades y la megacorp enemiga consigue lo que había dentro.
 
-Si no ha gastado su chute de adrenalina, le portadore puede gastarlo para pasárselo a otre mensaka y que este siga la entrega.
 
-Hay entregas que por contrato exigen que le mensajere lleve sujeto el paquete con algún tipo de artilugio de seguridad, tipo **esposas explosivas o cinchas cortadoras**. Le mensajere no podrá pasar el paquete a otros compañeres, pero tampoco podrá perderlo o se lo podrán robar. Solo podrán quitárselo en el punto de entrega con algún código especial. Si se intenta romper o hackear lo más seguro es que pierda la mano, pero a situaciones desesperadas, medidas desesperadas.
 
-> ¿Esto? Esto es papel de aluminio. No será la primera vez que una megacorp me dice que no ha puesto un rastreador y si lo ha puesto. Es un grave incumplimiento de contrato, pero el que se la juega soy yo. __JackRunner, mensaka conspiranoico__
+#### Don't Open the Package
 
-Por defecto, los paquetes no llevan rastreadores, pero pueden exigirlo por contrato. Con un rastreador le contratante puede seguir el paquete y rastrearlo si se pierde, pero se arriesga a que las megacorps enemigas intercepten su señal.
+This fundamental rule of deliveries can be a very interesting element to your adventure, and you should be able to play with it during deliveries.
 
-### Siempre hacia adelante, siempre moviéndote
+The package buzzes, it's heavy, it's light, the mercs treat it like it's explosive, etc. Try to play with this so that when they're up to their necks, they'll want to say shit and open the package to find out why they're about to die.
 
-La filosofía principal de este juego es «siempre hacia delante, siempre moviéndote». **Tus jugadoras y jugadores deben tratar de ir siempre hacia adelante, nada de pararse a trazar un plan.** El plan se hace mientras avanzas. Solo te pueden parar cuando quieras recuperar el resuello.
+Opening a package should be a rare occurrence and almost always part of the plot you've designed. So in really bad situations, knowing what's inside the package can give them negotiating leverage and move the story forward, but it will definitely break the contract, and that should have consequences.
+
+> Under no circumstances open the package, don't even think about it, don't even dream about it... Never, never, never open it.__HeraGodness, veteran messenger__
+
+#### Who's Carrying the Package?
+
+The messenger carrying the package is often called a "ringer," and it's the most dangerous position, as the package makes them a target for all enemies. They may try to hide it, or they may have other messengers carrying decoy packages to fool the mercs. If your messengers are clever, they'll know how to take advantage of this disadvantage and use the "ringer" to distract the mercs while the rest of their teammates look for an exit.
+
+If the package carrier tires and falls behind, the delivery is intercepted by the sent mercs, and the enemy megacorp gets what was inside.
+
+If they haven't used up their adrenaline rush, the carrier can spend it to pass it to another messenger so they can continue the delivery.
+
+There are deliveries that contractually require the messenger to secure the package with some kind of security device, such as **explosive handcuffs or cutting straps**. The messenger won't be able to pass the package to other colleagues, but they also can't lose it or have it stolen. They can only take it from them at the delivery point with a special code. If someone tries to break it or hack it, they'll most likely lose their hand, but in desperate situations, desperate measures are called for.
+
+> This? This is aluminum foil. It wouldn't be the first time a megacorp tells me they didn't install a tracker, but they did. It's a serious breach of contract, but I'm the one taking the risk. __JackRunner, conspiracy theorist messenger__
+
+By default, packages don't have trackers, but they can require it by contract. With a tracker, the contractor can track the package and trace it if it gets lost, but risks having their signal intercepted by enemy megacorps.
+
+### Always Forward, Always Moving
+
+The main philosophy of this game is «always forward, always moving». **Your players should always try to move forward, not stop and make a plan.** The plan is made as you move forward. You can only be stopped when you want to catch your breath.
 
 \sp
 
-Piénsalo así, incluso cuando te escondes, algo normalmente muy estático, deberías seguir avanzado.
+Think of it this way: even when you're hiding, which is usually very static, you should keep moving forward.
 
-Si te cruzas con una manifestación, robas una chaqueta y una gorra, te camuflas entre la gente y sigues caminando hasta que sales al otro lado de la multitud. Si aprovechas a qué pase un camión de la basura para ocultarte detrás, deberías agarrarte a una de las barras y largarte con él.
+If you come across a demonstration, steal a jacket and a cap, camouflage yourself among the people, and keep walking until you emerge on the other side of the crowd. If you take advantage of a garbage truck passing by to hide behind it, you should grab one of the bars and take off with it.
 
 ```
-Si ves que tus mensakas no pillan esta idea, puedes aplicar la siguiente regla para animarles. Si tiran cualquier dado estando parados, tienen un nivel menos de dado con un mínimo de d4. No hay tiempo de abrir la cerradura con las ganzúas, enrollas el brazo en la chaqueta, rompes el cristal, abres el pestillo y sigues corriendo.
+If you see that your messengers don't get this idea, you can apply the following rule to encourage them. If they roll any die while standing still, they have one less die level with a minimum of d4. There's no time to pick the lock, so you wrap your arm in your jacket, break the glass, open the latch, and keep running.
 ```
 
-Incluso en momentos de negociación deberías moverte. Cuando estás dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberías moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.
+Even in moments of negotiation, you should move. When you're inside a conveni and shouting at the boss of the mercs surrounding the place, you should move to set up the smoke bomb with cleaning products to try to give them the slip.
 
-
-
-
-
-
-
-
-
-
-
-
-
-#### There's no preparation time.
+#### No time for preparation.
 
 Hot contractss are usually quick: a few texts, a few calls, and the race is on. You can be sitting quietly at the base in the rest zone, and suddenly your negotiator sticks a Post-it note on your forehead and says, "Get ready, you're the next."
 
@@ -336,12 +318,9 @@ Sometimes they help, and other times they become an obstacle to overcome. It's a
 |9|**Chinese New Year:** The street is filled with pedestrians watching a group of performers moving a giant Chinese dragon puppet.|
 |10|**Major Fire:** Firefighters have blocked off traffic and are evacuating the area. There's a fire at a chemical plant that could break out at any moment.|
 |11|**Cyberpsychopath:** A cyberpsychopath with a combat flamethrower and an explosive vest has blocked the street and is holding a nearby bus full of passengers hostage.|
+|12|**Red Carpet:** You come across an «idorus» event. The street is lined with armored limousines carrying celebrities who stop for a few minutes on the red carpet to stroll down it. The rest of the street is filled with people looking for selfies with their «idorus».|
 
 \sp
-
-|1d12|Obstacle|
-|---|---|
-|12|**Red Carpet:** You come across an «idorus» event. The street is lined with armored limousines carrying celebrities who stop for a few minutes on the red carpet to stroll down it. The rest of the street is filled with people looking for selfies with their «idorus».|
 
 ### Mercs and megacorps
 
@@ -389,13 +368,13 @@ The police are bought and are not your friends. Do not call them under any circu
 
 We've already said that **the mercs can try to set up ambushes and traps** and, since they have the resources, they can be as complex and expensive as you want with spy drones, sensors, gyrojets, snipers, automatic position weapons, whatever you want, but **always with a way to evade or escape from them**.
 
-\sp
-
 Think that the money that the contract costs will determine the resources of the merchants that will intervene in the delivery.
 
-But your mensakas will also be able to play that game, but with much fewer resources and in a much simpler way. We talk about ball bearings, homemade explosives and heavy things falling from the sky.
+But your messengers will also be able to play that game, but with much fewer resources and in a much simpler way. We talk about ball bearings, homemade explosives and heavy things falling from the sky.
 
 **The traps are going to need equipment** and the more complex they are, the more equipment you will need and the more people working on them. A simple trap can be to take out the bottle of lube while running and spray it on the ground to make your pursuers slip.
+
+\sp
 
 A more complex trap could be that one messenger empties a bottle of flammable liquid under a car and another ties a flare to the car door so that it lights up when the door is opened and lights everything up.
 
@@ -450,12 +429,12 @@ Here are some cyberpunk hints that can help set the mood for your deliveries.
 * The routes won't always go through dark, dirty places; sometimes you'll **go through elegant, expensive places**. Who says you can't end up in a library or a museum?
 * There are **street food stands everywhere** and they cook everything. What better way to catch your breath than slurping some noodles hidden behind the curtains of a small ramen-ya, while a bunch of mercs are looking for you outside.
 * There are **ads and comercials everywhere**, even on your clothes there may be sponsor logos. Surely the marketing people have taken the opportunity to put Megacorp logos on the package in case your chase or the shootout in which you are going to die is recorded and appears on the Internet.
-
-\sp
-
 * **Drugs are easy to get**, some illegal and others legal. It is very easy to find someone who sells the legal ones or a vending machine that dispenses the illegals.
 * **Everything is under construction.** The street that was walkable yesterday is a hole in the ground today. It is impossible that on a block there is not a building with a scaffolding that does not allow you to climb to the roof to escape danger (and find a new one).
 * There will always **a way to hold onto to keep moving forward**. A pipe to go down, cables to climb down, or streetlights to jump over and then land safely on the ground.
+
+\sp
+
 * The **booths and vending machines** are bulletproofed, so they are a **perfect shelter** for your messengers. In addition, they weigh a ton so moving or pushing them, even with a vehicle, is complicated.
 
 > It could be worse, it could rain. - __Igor «Young Frankenstein»__
