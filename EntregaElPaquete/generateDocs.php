@@ -48,14 +48,27 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-$metas = "InfoKey: Title\n";
-$metas .= "InfoValue: Entrega el paquete 1.0.1\n\n";
-$metas .= "InfoKey: Subject\n";
-$metas .= "InfoValue: «Entrega el paquete» en una mini-ambientación ciberpunk para Breathless donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.\n\n";
-$metas .= "InfoKey: Author\n";
-$metas .= "InfoValue: Gwannon\n\n";
-$metas .= "InfoKey: Keywords\n";
-$metas .= "InfoValue: rpg, ttrpg, cyberpunk, breathless\n\n";
+if($argv[1] == 'EntregaElPaquete') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: Entrega el paquete 1.0.1\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: «Entrega el paquete» en una mini-ambientación ciberpunk para Breathless donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, cyberpunk, breathless\n\n";
+}
+
+if($argv[1] == 'EntregaElPaquete') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: Entrega el paquete 1.0.1\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: «Entrega el paquete» en una mini-ambientación ciberpunk para Breathless donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, cyberpunk, breathless\n\n";
+}
 
 /* Generamos indice del PDF */
 /* -------------------------------------------------------------- */

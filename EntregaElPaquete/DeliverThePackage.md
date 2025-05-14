@@ -72,7 +72,7 @@ If desired, the GM can leave a game decision up to chance. Simply choose a die b
 
 To regain all your abilities, you must "catch your breath." This is a short rest to breathe, lower your heart rate, and consider your next move. To catch your breath, you must be **out of danger or hidden from enemies**.
 
-When a mensaka catches his breath, the GM observes the situation and presents a new complication to the group.
+When a messenger catches his breath, the GM observes the situation and presents a new complication to the group.
 
 ### Loot Checks
 
@@ -165,7 +165,7 @@ At the start of each delivery, you'll also carry a random piece of equipment at 
 
 \sinc
 
-## Las entregas
+## The deliveries
 
 \conc
 
@@ -196,6 +196,23 @@ Aside from the previous points, there are some addendums the megacorp may try to
 ```
 Writing a contract is a very quick way to put together a delivery that you then just need to add the details to give it flavor.
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Negociar el contrato
 
@@ -363,15 +380,40 @@ Ya hemos dicho que **los mercs puede intentar crear emboscadas y trampas** y, co
 
 \sp
 
-Piensa que el dinero que cuesta el contrato va a marcar los recursos de les mercs que van a intervenir en la entrega.
 
-Pero tus mensakas también van a poder jugar a ese juego, pero con muchísimos menos recursos y de una forma muchísimo más simple. Hablamos de bolas de rodamiento, de explosivos caseros y de cosas pesadas que caen del cielo.
 
-**Las trampas van a necesitar equipo** y cuanto más complejas más equipo necesitarás y más gente trabajando en ellas. Una trampa simple puede ser sacar el bote de lubricante mientras corres y rociar el suelo para que tus perseguidores resbalen.
 
-Una trampa más compleja podría ser que une mensaka vacíe una botella de líquido inflamable debajo de un coche y otro ate una bengala a la puerta del coche para que se encienda al abrir la puerta y prenda todo.
 
-Para que la trampa funcione, **todas las tiradas de equipo de cada participante deben tener éxito**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think that the money that the contract costs will determine the resources of the merchants that will intervene in the delivery.
+
+But your mensakas will also be able to play that game, but with much fewer resources and in a much simpler way. We talk about ball bearings, homemade explosives and heavy things falling from the sky.
+
+**The traps are going to need equipment** and the more complex they are, the more equipment you will need and the more people working on them. A simple trap can be to take out the bottle of lube while running and spray it on the ground to make your pursuers slip.
+
+A more complex trap could be that one messenger empties a bottle of flammable liquid under a car and another ties a flare to the car door so that it lights up when the door is opened and lights everything up.
+
+For the trap to work, **all of each participant's equipment rolls must be successful**.
 
 ### Low tech
 
@@ -379,19 +421,19 @@ Para que la trampa funcione, **todas las tiradas de equipo de cada participante 
 
 The world of courier service is a world where technology has not entered. If you don't trust technology to send your information, you also can't trust messages filled with cyber implants and high-tech equipment.
 
-The mensakas tend to be the people in the city with the least chromes on their bodies, removing piercings and nails from the bones. Cyberimplants are hackable, they are traceable, they are detectable, they need specialized equipment to repair them, etc. 
+The messengers tend to be the people in the city with the least chromes on their bodies, removing piercings and nails from the bones. Cyberimplants are hackable, they are traceable, they are detectable, they need specialized equipment to repair them, etc. 
 
 Think that in a world of cyberimplants, everything is designed to combat this technology and the mercenaries cybernetically enhanced are trained to confront people with them. What could be a very clear disadvantage to some extent becomes an advantage.
 
 Instead of implants, you can consider that your couriers are exceptional in their types of movements and that they replace the extra abilities that cybernetycs could give them with their cunning instincts.
 
-Communications are verbal, no earpieces, messages or video calls, nothing that can be hacked electronically. They use their mensaka slang to “encrypt” their communications and shout orders, plans and warnings to each other.
+Communications are verbal, no earpieces, messages or video calls, nothing that can be hacked electronically. They use their messenger slang to “encrypt” their communications and shout orders, plans and warnings to each other.
 
 If they need to talk to the base, they have loose chips to call from an armored inter-cabin. And it is not the first time that they steal a cell phone from a careless passer-by while running away from a gang of mercs.
 
 #### Messenger slang
 
-As we have already said, the mensakas use their own slang, a secret language specific to each cooperative, with which they communicate during missions. It has been developing over the years and does not stop evolving with the new people who enter.
+As we have already said, the messengers use their own slang, a secret language specific to each cooperative, with which they communicate during missions. It has been developing over the years and does not stop evolving with the new people who enter.
 
 They are not complicated terms to understand, with a little time any trained AI could decipher them, but they are convoluted enough that a bunch of mercs full of combat synthdrugs will not know what escape plan you are plotting while they hold you in an alley with a rain of bullets.
 
@@ -409,7 +451,7 @@ From the base they will be in charge of sending a group of ronins to clean the a
 
 Calling base is an exceptional option that can only be done when there is no other recourse. 
 
-This assumes that **all of your mensakas have spent their adrenaline shots, have no equipment items, have no PowerWater™ left, and the group has more than 50% of their total fatigue spent**.
+This assumes that **all of your messengers have spent their adrenaline shots, have no equipment items, have no PowerWater™ left, and the group has more than 50% of their total fatigue spent**.
 
 Calling the base has a cost and that is that you will surely **owe someone a favor** and everyone knows that in a cyberpunk setting owing a favor means bigger problems in the future.
 
@@ -443,7 +485,6 @@ Maybe these delivery seeds will give you ideas to create your own.
 * Every year around this time, "The Race" takes place. DelivaTeam, one of the biggest companies in the delivery industry, is holding **a competition to find the best messenger in town**. There are several scoring tests that simulate a very hot delivery, and the highest score wins. The suspicion of a scam is always present, as DelivaTeam messengers always win.
 * The **package you're carrying is making strange noises and doesn't look right.** The contract negotiation was already weird, and this doesn't make it any better. It could be a bomb or some other kind of trap. Or maybe it's something alive. The truth is, you don't know, but maybe you should open the package and clear up any doubts.
 * Today it's **training for the newcomers**. You'll be accompanied by a group of newly hired messengers so you can show them the ropes. What could go wrong?
-
 
 \sinc
 
