@@ -56,14 +56,14 @@ if($argv[1] == 'EntregaElPaquete') {
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, cyberpunk, breathless\n\n";
+  $metas .= "InfoValue: rpg, ttrpg, ciberpunk, breathless\n\n";
 }
 
-if($argv[1] == 'EntregaElPaquete') {
+if($argv[1] == 'DeliverThePackage') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Entrega el paquete 1.0.1\n\n";
+  $metas .= "InfoValue: Deliver the package 1.0.1\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: «Entrega el paquete» en una mini-ambientación ciberpunk para Breathless donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.\n\n";
+  $metas .= "InfoValue: «Deliver the package» in a cyberpunk mini-setting for Breathless, where you are a messenger who must deliver a package and dodge merc teams sent by enemy mega-corps to intercept you.\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";

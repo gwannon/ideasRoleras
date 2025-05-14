@@ -197,34 +197,33 @@ Aside from the previous points, there are some addendums the megacorp may try to
 Writing a contract is a very quick way to put together a delivery that you then just need to add the details to give it flavor.
 ```
 
+#### Negotiating the contract
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Negociar el contrato
-
-> Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo, todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
+> Negotiating a contract with those bastards of the megacorps is tough and dangerous. The messengers just run and jump. If I don't do my job right, everything goes to shit. I can make a suicidal delivery turn into a walk in the park. __Durante, contract negotiator__
 
 \sp
 
-La negociación del contrato es algo que puedes hacerlo como DJ fuera de partida y que tus mensakas lo reciban de repente, cojan sus bandoleras y salgan a patearse las calles.
+Contract negotiation is something you can do as a GM outside of a game, and your messengers might suddenly receive it, grab their bandoliers, and hit the streets.
 
-La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permitan meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control.
+The other option is for your table to negotiate the contract with you. This negotiation can **work like a zero session**, where your table will help you create the game they want to play. However, try to leave things out that allow you to introduce unexpected elements. For example, you decide there will be checkpoints, but include a clause that they'll tell you the next one at each checkpoint, and reserve the option to surprise them with each checkpoint.
 
-Recuerda que la pasta no es importante en partida, solo muestra el valor del contenido del paquete. Por darte una idea, 500 chips es un trabajillo menor, por 10.000 chips se va a montar una buena.
+Remember that money isn't important in a game; it only shows the value of the package's contents. To give you an idea, 500 chips is a minor job; 10,000 chips will be a real mess.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### No preguntes por el paquete, solo entrégalo
 
@@ -252,7 +251,7 @@ El paquete zumba, pesa mucho, pesa poco, les mercs lo tratan como si fueran expl
 
 Abrir en paquete debería ser algo excepcional y casi siempre parte de la trama que hayas diseñado. Así que en situaciones muy chungas, saber lo que hay dentro del paquete puedes darles capacidad de negociación y hacer avanzar la historia, pero desde luego romperá el contrato y eso debería traer consecuencias.
 
-> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras. __HeraGodness, mensaka veterana__
+> Bajo ningún concepto mires que hay dentro del paquete, ni lo pienses, ni sueñes con hacerlo, … Nunca, nunca, nunca lo abras. __HeraGodness, veteran messenger__
 
 #### ¿Quién lleva el paquete?
 
@@ -284,126 +283,113 @@ Si ves que tus mensakas no pillan esta idea, puedes aplicar la siguiente regla p
 
 Incluso en momentos de negociación deberías moverte. Cuando estás dentro en un convini y hablas a gritos con le jefe de les mercs que rodean el local, deberías moverte para montar la bomba de humo con productos de limpieza con la que intentarás darles esquinazo.
 
-#### No hay tiempo de preparación
 
-Los contratos calientes normalmente son rápidos, unos mensajes, unas llamadas y empieza la carrera. Puedes estar tranquilamente en la base en la zona de descanso y de repente vuestre negociadore te pega un post-it en la frente y te dice «Calienta que sales a jugar».
 
-Aunque hubiera tiempo de planear, no hay información para hacer un plan adecuado. Cuando empieza el curro apenas tienes info. Solo una dirección y cuatro cosas básicas: quién te acompaña, si el bulto es grande y alguna regla especial que ha puesto le cliente como cinchas cortadoras.
 
-En el punto de recogida, te avisarán de todo lo que necesites y debas saber para la entrega.
 
-#### Entregas con límite de tiempo
 
-Los límites de tiempo son una forma de **complicar las misiones** y meter más presión a tus mensakas. Los límites de tiempo son **relojes que creas al principio de la entrega con 4, 6, 8, 10 o 12 quesitos**. 
 
-* Cuando el portador del paquete recibe uno de cansancio, rellenas un quesito.
-* Cuando recupera el resuello, rellenas otro. 
-* Si llamas a la base, rellenas otro quesito. 
 
-Mientras tengas quesitos que rellenar estás dentro del límite de tiempo. En el momento que tengas que **rellenar un quesito y haya no espacio libre, habrás sobrepasado el límite de tiempo** y habrás fracasade.
 
-Un reloj con 4 espacios es muy complicado de cumplir, con 12 no hay ningún problema de tiempo a no ser que se tuerza mucho la entrega. Si no se especifica, se considera que un trabajo tiene 12 quesitos, que es casi como si no hubiera un límite.
 
-A discreción de le DJ, este puede borrar quesitos si las acciones tomadas por les mensakas pueden considerarse que han ahorrado tiempo. Si une mensaka da esquinazo a sus perseguidores tomando un tren en el MetroMagLev que va en su dirección, podría recuperar tiempo perdido y borrar un quesito del reloj. 
 
-### Toboganes y escaleras
 
-Los toboganes y las escaleras son eventos y situaciones que les mensajeres se van a encontrar en su camino y tendrán que afrontar si quieren realizar la entrega.
 
-A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cuestión de perspectiva. Un callejón sin salida puede ser una trampa mortal o, si sabes escalar bien, una forma de dar esquinazo a les perseguidores que quieren interceptar el envío.
+#### There's no preparation time.
 
-|1d12|Obstáculo|
+Hot contractss are usually quick: a few texts, a few calls, and the race is on. You can be sitting quietly at the base in the rest zone, and suddenly your negotiator sticks a Post-it note on your forehead and says, "Get ready, you're the next."
+
+Even if there was time to plan, there's no information to make a proper plan. When the work starts, you have almost no information. Just an address and four basic things: who's accompanying you, whether the package is large, and any special rules the client has set, such as cutting straps.
+
+At the pickup point, they'll let you know everything you need to know for the delivery.
+
+#### Deliveries wih time limit
+
+Deliveries wih time limit are a way to **make missions more complicated** and put more pressure on your mesenagers. Deliveries wih time limit are **clocks you create at the beginning of the delivery with 4, 6, 8, 10, or 12 wedges**.
+
+* When the package carrier receives one due to fatigue, you fill a spaces.
+* When they catch their breath, you fill another.
+* If you call base, you fill another cheese.
+
+As long as you have spaces to fill, you're within the time limit. The moment **you have to fill a space and there's no free space, you've exceeded the time limit and failed**.
+
+A clock with 4 spaces for wedges is very difficult to meet; with 12, there's no time problem unless the delivery goes seriously awry. If not specified, a job is considered to have 12 queues, which is almost as if there were no time limit.
+
+At the GM's discretion, they may delete wedge if the actions taken by the messengers can be considered time-saving. If a messenger eludes their pursuers by taking a MetroMagLev train headed in their direction, they could make up for lost time and delete a wedge from the clock.
+
+### Ladders and slides
+
+Ladders and slides are events and situations that couriers will encounter along the way and will have to overcome if they want to make the delivery.
+
+Sometimes they help, and other times they become an obstacle to overcome. It's all a matter of perspective. A dead end can be a deadly trap or, if you know how to climb well, a way to escape from pursuers who want to intercept the delivery.
+
+|1d12|Obstacle|
 |---|---|
-|1|**Tiroteo entre dos bandas rivales:** Dos bandas rivales están parapetadas tras varios vehículos a ambos lados de la calle y no paran de intercambiar disparos.|
-|2|**Tren elevado:** Un tren elevado se acerca a tu posición, quizás puedas saltar encima y huir, quizás te dé unos segundos de ocultación mientras huyes o tal vez puedas engañar a tus enemigues y hacer que el tren les arrolle.|
-|3|**Paso inundado:** La única forma de cruzar la autopista de 16 carriles es un paso subterráneo que está inundado de aguas sépticas.|
-|4|**Fila de máquinas de vending:** En la calle hay una larguísima fila de máquinas de vending. Puedes hacer una tirada de saqueo. Si sale un 1 repites la tirada.|
-|5|**Ambulancia:** Una ambulancia con las luces puestas va en vuestra dirección. Si os engancháis a ella u os subís encima podría haceros avanzar mucho.|
-|6|**Procesión:** Algún tipo de secta religiosa está haciendo celebraciones en la calle y está toda la zona colapsada por devotes celebrando sus creencias.|
-|7|**Puente sobre el canal:** Un estrecho puente de metal y cable es la única forma de cruzar el canal u otra superficie de agua.|
-|8|**Callejón:** Creías que el camino que habías cogido tenía salida, pero no, es un callejón sin salida.|
-|9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
-|10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
-|11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano lleno de pasajeres.|
+|1|**Shootout between two rival gangs:** Two rival gangs are holed up behind several vehicles on both sides of the street, exchanging fire.|
+|2|**Elevated train:** An elevated train is approaching your position. Perhaps you can jump on top of it and flee, perhaps it will give you a few seconds of concealment while you flee, or perhaps you can trick your enemies and have the train run over them.|
+|3|**Flooded passage:** The only way to cross the 16-lane highway is through an underpass that is flooded with septic water.|
+|4|**Row of vending machines:** There is a very long row of vending machines in the street. You can make a looting roll. If you roll a 1, you repeat the roll.|
+|5|**Ambulance:** An ambulance with its lights on is heading towards you. If you hook onto it or climb on top of it, it could take you a long way.|
+|6|**Procession:** Some sort of religious sect is holding celebrations in the street, and the entire area is jammed with devotees celebrating their beliefs.|
+|7|**Bridge over the canal:** A narrow metal and cable bridge is the only way to cross the canal or other body of water.|
+|8|**Alley:** You thought the path you took had a way out, but no, it's a dead end.|
+|9|**Chinese New Year:** The street is filled with pedestrians watching a group of performers moving a giant Chinese dragon puppet.|
+|10|**Major Fire:** Firefighters have blocked off traffic and are evacuating the area. There's a fire at a chemical plant that could break out at any moment.|
+|11|**Cyberpsychopath:** A cyberpsychopath with a combat flamethrower and an explosive vest has blocked the street and is holding a nearby bus full of passengers hostage.|
 
 \sp
 
-|1d12|Obstáculo|
+|1d12|Obstacle|
 |---|---|
-|12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van les famoses que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus «idorus».|
+|12|**Red Carpet:** You come across an «idorus» event. The street is lined with armored limousines carrying celebrities who stop for a few minutes on the red carpet to stroll down it. The rest of the street is filled with people looking for selfies with their «idorus».|
 
-### Mercs y megacorps
+### Mercs and megacorps
 
 [![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
 
-Las bandas de mercs son la gran némesis de tus mensakas, son las que no te darán cuartel y empezaran a disparar en cuanto estés a tiro, y no descansarán hasta conseguir el paquete para sus clientes.
+Merc groups are your messengers' greatest nemesis. They'll give you no quarter and start shooting as soon as you're within range, and they won't rest until they get the package for their clients.
 
-En «Entrega el paquete» **no existen habilidades de combate, no puedes enfrentarte a eses mercenaries** armades hasta los dientes y con más ciberimplantes que carne. Solo puedes esquivarles o engañarles y seguir avanzando hasta el punto de entrega.
+In «Deliver the Package», there are no combat skills; you can't face these heavily armed mercenaries, who are more equipped with cyber implants than flesh. You can only dodge or trick them and continue advancing to the delivery point.
 
-Que no tengas armas no quiere decir que no puedas acabar con elles. Si eres buene, igual puedes atraerles a una zona inundada de agua y tirar al agua un cable de alta tensión.
+Just because you don't have weapons doesn't mean you can't take them out. If you're good, you can lure them to a flooded area and throw a power line into the water.
 
-Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una cocina de un restaurante, abrir las espitas de gas de los fuegos para que todo explotará cuando entrarán la panda de mercs que te perseguían 
+And who's to say it didn't occur to you, while escaping through a restaurant kitchen, to turn on the gas vents on the stove so everything would explode when the gang of mercs chasing you entered?
 
-#### Creando bandas de mercs
+#### Creating Merc Bands
 
 ```
-Las bandas de mercs siempre tienen un nombre, un tema (van de samurais, van de super profesionales, etc.) y por último una estética (son calvos o van rapados, llevan máscaras de hockey, etc.)  Ten los 3 conceptos preparados, que no parezca que te la acabas de inventar.
+Merc bands always have a name, a theme (they're samurai, they're super professionals, etc.) and finally an aesthetic (they're bald or shaved, they wear hockey masks, etc.) Have the 3 concepts ready, so it doesn't look like you just made it up.
 ```
 
-Si quieres darle más vida, debes **definir una fortaleza, algo en lo que son buenos, y una debilidad, algo en lo que no son buenos**. Tus mensakas no pondrán ganarles enfrentándose a su fortaleza y pueden usar su debilidad para librarse de ellos. Pueden usar su habilidad de Interactuar o Pensar para tratar de averiguar su fortaleza y su debilidad.
+If you want to give it more life, you should **define a strength, something they're good at, and a weakness, something they're not good at**. Your messengers won't be able to defeat them by facing their strength and can use their weakness to get rid of them. They can use their Interact or Think ability to try to figure out their strength and weakness.
 
-Las Sombras de Plata son un equipo de mercs que van de rollo asesinos ninjas. Viste ropajes tácticos de color negro y cubren su cara con una capucha y una máscara plateada. Cómo buenos ninjas son muy buenos haciendo emboscadas, pero solo combaten cuerpo a cuerpo, con lo que huir de ellos les deja pocas opciones. Si no te detienen en el primer golpe, podrás escapar de ellos.
+The Silver Shadows are a team of mercs who act like ninja assassins. They wear black tactical gear and cover their faces with a hood and silver mask. As good ninjas, they're very good at ambushing, but they only fight in close combat, so running away from them leaves them few options. If they don't stop you with the first hit, you'll be able to escape them.
 
 #### Enter the mercs
 
-Les mercs tiene normalmente 3 formas de actuar.
+Mercs typically have three modes of action.
 
-* **Acción directa:** Te buscan hasta dar contigo y usan todo lo que tienen para detenerte.
-* **Emboscadas y trampas:** Montan unas emboscadas o te tienden una trampa. Está opción exige tener información extra sobre la entrega que les permita saber por donde vas a pasar. 
-* **Buscar la manera para que tú vayas a ellos:** Pueden desde tratar de sobornarte con ingentes cantidades de chips, hasta secuestrar a algún ser querido o capturar a une compañere que estaba contigo en la entrega. Buscarán llegar a una negociación que puede o no acabar bien o en traición.
+* **Direct Action:** They hunt you down and use everything they have to stop you.
+* **Ambushes and Traps:** They set up ambushes or trap you. This option requires additional information about the delivery that allows them to know where you will be passing through.
+* **Finding a Way for You to Come to Them:** They can do anything from trying to bribe you with huge amounts of chips to kidnapping a loved one or capturing a comrade who was with you on the delivery. They will try to arrange a negotiation that may or may not end well or in betrayal.
 
-Les mercs no entran en acción desde el minuto uno de la entrega. Los primeros problemas deberían ser toboganes y escaleras, ya habrá tiempo de esquivar balas perforantes y filos monofilamento.
+Mercs don't go into action from the first minute of the delivery. The first problems should be ladders and slides; there will be time to dodge armor-piercing bullets and monofilament blades later.
 
-Normalmente deberían empezar a aparecer a un tercio del reloj si buscan la acción directa y a partir de la mitad del reloj, si toman las otras formas de acción. A partir de ese momento podrían ir y venir a no ser que consideres que tus mensakas se han deshecho de elles.
+They should normally start appearing about a third of the way through the clock if they are looking for direct action, and about halfway through the clock if they are taking other forms of action. From that moment on they could come and go unless you consider that your messages have gotten rid of them.
 
-#### ¿Y si llamo a la policía?
+#### What if I call the police?
 
-> A.C.A.B. All Cops Are Bastards __Graffiti callejero__
+> A.C.A.B. All Cops Are Bastards __Street graffiti__
 
-La policía está comprada y no es tu amiga, No la llames bajo ningún concepto a no ser que quieras a tener a otro grupo armado detrás de ti.
+The police are bought and are not your friends. Do not call them under any circumstances unless you want another armed group after you.
 
-### Trampas
+### Traps
 
-> Siempre hay trampas. Otra cosa es que tú no la veas. __HeraGodness, mensaka veterana__
+> There are always traps. Another thing is that you don't see it. __HeraGodness, veteran messenger__
 
-Ya hemos dicho que **los mercs puede intentar crear emboscadas y trampas** y, como tienen recursos, pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero **siempre con una forma de eludirlas o escapar de ellas**. 
+We've already said that **the mercs can try to set up ambushes and traps** and, since they have the resources, they can be as complex and expensive as you want with spy drones, sensors, gyrojets, snipers, automatic position weapons, whatever you want, but **always with a way to evade or escape from them**.
 
 \sp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Think that the money that the contract costs will determine the resources of the merchants that will intervene in the delivery.
 
@@ -462,19 +448,17 @@ Here are some cyberpunk hints that can help set the mood for your deliveries.
 * It always has to **rain at the most inopportune moment**.
 * **There's always a lot of action in the city**, and the group of mercs following you isn't unique. The sound of militarized mobile ICUs is constant, and around any corner, there could be a shootout.
 * The routes won't always go through dark, dirty places; sometimes you'll **go through elegant, expensive places**. Who says you can't end up in a library or a museum?
+* There are **street food stands everywhere** and they cook everything. What better way to catch your breath than slurping some noodles hidden behind the curtains of a small ramen-ya, while a bunch of mercs are looking for you outside.
+* There are **ads and comercials everywhere**, even on your clothes there may be sponsor logos. Surely the marketing people have taken the opportunity to put Megacorp logos on the package in case your chase or the shootout in which you are going to die is recorded and appears on the Internet.
 
 \sp
 
-* There are **street food stands everywhere** and they cook everything. What better way to catch your breath than slurping some noodles hidden behind the curtains of a small ramen-ya, while a bunch of mercs are looking for you outside.
-* There are **ads and comercials everywhere**, even on your clothes there may be sponsor logos. Surely the marketing people have taken the opportunity to put Megacorp logos on the package in case your chase or the shootout in which you are going to die is recorded and appears on the Internet.
 * **Drugs are easy to get**, some illegal and others legal. It is very easy to find someone who sells the legal ones or a vending machine that dispenses the illegals.
 * **Everything is under construction.** The street that was walkable yesterday is a hole in the ground today. It is impossible that on a block there is not a building with a scaffolding that does not allow you to climb to the roof to escape danger (and find a new one).
 * There will always **a way to hold onto to keep moving forward**. A pipe to go down, cables to climb down, or streetlights to jump over and then land safely on the ground.
 * The **booths and vending machines** are bulletproofed, so they are a **perfect shelter** for your messengers. In addition, they weigh a ton so moving or pushing them, even with a vehicle, is complicated.
 
 > It could be worse, it could rain. - __Igor «Young Frankenstein»__
-
-\sc
 
 ### Delivery seeds
 

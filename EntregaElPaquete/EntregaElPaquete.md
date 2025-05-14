@@ -324,7 +324,7 @@ En «Entrega el paquete» **no existen habilidades de combate, no puedes enfrent
 
 Que no tengas armas no quiere decir que no puedas acabar con elles. Si eres buene, igual puedes atraerles a una zona inundada de agua y tirar al agua un cable de alta tensión.
 
-Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una cocina de un restaurante, abrir las espitas de gas de los fuegos para que todo explotará cuando entrarán la panda de mercs que te perseguían 
+Y quién dice que no se te pudo ocurrir, mientras escapabas atravesando una cocina de un restaurante, abrir las espitas de gas de los fuegos para que todo explotará cuando entrarán la panda de mercs que te perseguían.
 
 #### Creando bandas de mercs
 
