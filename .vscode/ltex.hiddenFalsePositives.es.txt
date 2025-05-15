@@ -15,3 +15,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
 {"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis game is Breathless\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSkech of Skull isolated on white background with urban city skyline Vector Illustration by Rochak Shukla\\E$"}

@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: El río, una historia de Breathless
+
+InfoKey: Subject
+InfoValue: XXX
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, survival horror, breathless

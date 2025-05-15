@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Cheddar Gothic Stencil';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./CheddarGothic-Stencil.otf') format('opentype');
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  columns: 2;
+}
+
+a,
+a:visited,
+a:active {
+    color: black;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Cheddar Gothic Stencil';
+  font-weight: 700;  
+  letter-spacing: 1;
+}
+
+h1 {
+    font-size: 5em;
+
+    text-align: center;
+}
+
+h1 a {
+    display: block;
+    text-align: center;
+    font-size: 0.6em;
+    text-decoration: none;
+}
+
+table tr th {
+  text-align: left;
+  align: top;
+}
+
+img {
+    max-width: 100%;
+}
