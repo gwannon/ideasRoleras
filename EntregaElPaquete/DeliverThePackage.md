@@ -52,9 +52,9 @@ These are the deliveries you'll be able to experience thanks to this little game
 
 ### Checks
 
-When there's a challenge to overcome, you roll to see how it plays out. You only need to roll if what you want to do is risky.
+When doing something challenging, you make a check to see how it plays out. You only need to roll if what you are doing is risky. The GM first telegraphs the risk of your action. You then pick a skill or item, and roll the die that matches its rating.
 
-The GM announces that your action may be risky and dangerous; you then choose a skill and roll the corresponding die. If a teammate helps you, they also roll, and you both take the same risks. The GM takes the highest roll and interprets the result.
+If an ally helps you, they also make a check, but share the same risks as you. Take the highest die and interpret the result.
 
 |Check|Result|
 |---|---|
@@ -62,17 +62,17 @@ The GM announces that your action may be risky and dangerous; you then choose a 
 |3-4|You succeed, but there’s a complication.|
 |5+|You succeed. The higher the result, the better the effect.|
 
-Being a messenger is difficult. Each roll reduces the skill score used by one level to a minimum of d4:
+Being a messenger is hard. Everyone who rolled reduces the rating of the skill they used by one step. Skills cannot go lower than a d4.
 
 **d12 ⇾ d10 ⇾ d8 → d6 → d4**
 
-If desired, the GM can leave a game decision up to chance. Simply choose a die based on the probability of something happening, roll, and interpret the result.
+The GM can also disclaim decision-making by testing for luck. To do so, pick a die rating simply based on the odds of a thing happening, roll, and interpret the result as you see fit.
 
 ### Catch your Breath
 
 To regain all your abilities, you must "catch your breath." This is a short rest to breathe, lower your heart rate, and consider your next move. To catch your breath, you must be **out of danger or hidden from enemies**.
 
-When a messenger catches his breath, the GM observes the situation and presents a new complication to the group.
+When a messenger catches his breath, the GM looks at the scene and introduces a new complication for the group.
 
 ### Loot Checks
 
@@ -122,7 +122,7 @@ Only **3 items and 1 bottle of PowerWater™ can be carried in the bandolier**.
 
 ### Adrenaline rush
 
-When things get tough, you can try tapping into your adrenaline rush and **rolling with a d12** instead of using your current skill rank.
+When things goes bad, you can use your adrenaline rush and **rolling with a d12** instead of using your current skill rank.
 
 Once the adrenaline rush is spent, you can't use it again until you **catch your breath**.
 
@@ -140,20 +140,20 @@ You can use a bottle of PowerWater™, the best energy drink on the market, to r
 
 ### Your messenger
 
-On your character sheet, write down your character's nickname, pronouns, and how they move (parkour, inline, skateboarding, BMX).
+On your character sheet, fill your character's nickname, pronouns, and how they move (parkour, inline, skateboarding, BMX).
 
-All skills are scored on d4, and you should assign a d10, a d8, and a d6 to three skills you think your character excels at.
+By default, skills have a d4 rating. Assign a d10, a d8, and a d6 to three skills you think your courier is good at.
 
 Characters have a total of six skills:
 
 * **Bash:** wreck, move, force.
 * **Dash:** run, jump, climb.
 * **Sneak:** hide, skulk, lurk.
-* **Wander:**  orient, pursue, shortcut.
+* **Wander:** orient, pursue, shortcut.
 * **Think:** perceive, analyze, repair.
 * **Sway:** charm, manipulate, intimidate.
 
-Finally, you have a **special piece of equipment, which starts with a d10 and represents your mode of movement**. This could be running shoes, your bike, your skateboard, etc.
+Finally, you have a **special piece of equipment, which starts with a d10 and represents your mode of movement**. This could be your running shoes, your bike, your skateboard, etc.
 
 \sc
 
@@ -169,12 +169,33 @@ At the start of each delivery, you'll also carry a random piece of equipment at 
 
 \conc
 
-
 In "Deliver the Package," adventures are called deliveries. Deliveries have their own set of rules that make them chaotic and frantic.
 
 ### The contract
 
-All deliveries start with a contract. Some are very simple, getting the package from point A to point B, and you can make them as complicated as you like using these five vectors:
+All deliveries start with a contract. Some are very simple, like transport a package from point A to point B, and you can make them as complicated as you like using these five vectors:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * **The pickup point.** This is usually at the offices of the contracting megacorp, but it can even be a locker at the station or picking up something from the dry cleaners. Anything goes to throw off your rivals.
 * **The delivery point.** Clearly other offices of the same megacorp. Be suspicious of any other option.
@@ -215,7 +236,7 @@ The package is the central plot point of each delivery. It's the object everyone
 
 [![Game futuristic boxes future technology chests by upklyak](./images/2212.w032.n002.702A.p30.702.png "Game futuristic boxes future technology chests by upklyak")](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm "Game futuristic boxes future technology chests by upklyak")
 
-#### Pack Dimensions
+#### Package size
 
 Packs come in three sizes:
 
@@ -225,7 +246,7 @@ Packs come in three sizes:
 
 When it doesn't fit into your shoulder bag, you have to carry it in your hand, and that gets in the way when you're trying to move. Just think, it's hard to climb a wall with one hand. Maybe you can make a rope harness or duct tape or some other trick.
 
-To compensate for the problems with not fitting into the bandolier, when the package is large, it becomes **an item you can use in your deliveries with a d10 roll**. You can use it as a shield because it's armored, as a float because it's watertight and floats, as a sled to slide down slopes, as a battering ram to knock down a door, etc. By the time it reaches d4, the box is so damaged it's useless, but the contents are still safe.
+To compensate for the problems with not fitting into the bandolier, when the package is large, it becomes **an item you can use in your deliveries with a d10 roll**. You can use it as a shield because it's armored, as a float because it's waterproof and floats, as a sled to slide down slides, as a battering ram to knock down a door, etc. By the time it reaches d4, the box is so damaged it's useless, but the contents are still safe.
 
 
 
@@ -444,7 +465,7 @@ Here are some cyberpunk hints that can help set the mood for your deliveries.
 Maybe these delivery seeds will give you ideas to create your own.
 
 * The entire **city is in a state of chaos for musical superstar DiByne's concert**: crowded streets, traffic jams, drugged-up partygoers, etc. And the CEO of VultureTech hasn't come up with a better idea than to send a very special package to DiByne, of whom she's a huge fan. You'll have to get to the stadium and sneak backstage to make the delivery, evading the fans and their bodyguards.
-* A fellow messenger is hiding in an alley. He has a **broken leg and needs someone to replace him**, so he's called base, and they're sending you in as reinforcements. You'll have to rescue him, take him to a safe place, and complete the delivery.
+* A fellow messenger is hiding in an alley. They have a **broken leg and needs someone to replace them**, so they've called base, and they're sending you in as reinforcements. You'll have to rescue them, take them to a safe place, and complete the delivery.
 * Every year around this time, "The Race" takes place. DelivaTeam, one of the biggest companies in the delivery industry, is holding **a competition to find the best messenger in town**. There are several scoring tests that simulate a very hot delivery, and the highest score wins. The suspicion of a scam is always present, as DelivaTeam messengers always win.
 * The **package you're carrying is making strange noises and doesn't look right.** The contract negotiation was already weird, and this doesn't make it any better. It could be a bomb or some other kind of trap. Or maybe it's something alive. The truth is, you don't know, but maybe you should open the package and clear up any doubts.
 * Today it's **training for the newcomers**. You'll be accompanied by a group of newly hired messengers so you can show them the ropes. What could go wrong?
@@ -477,7 +498,7 @@ Maybe these delivery seeds will give you ideas to create your own.
 
 ### Sources
 
-If you're looking for inspiration for your plots, these are some of the works that inspired me to develop "Deliver the Package".
+If you're looking for inspiration for your deliveries, these are some of the works that help me to develop "Deliver the Package".
 
 * **Virtual Light (The Bridge Trilogy) by William Gibson.** Everyone is chasing a messenger who has obtained a virtual reality headset containing important corporate information.
 * **Burning Chrome by William Gibson.** In this collection of short stories, we find the story of Johnny Mnemonic, a corporate courier who carries important data about a megacorp in his brain.
