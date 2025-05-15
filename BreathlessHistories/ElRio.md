@@ -47,8 +47,6 @@ Si tenéis problemas, tendréis que buscar la manera de llegar hasta la barcaza 
 ### Por la ribera
 
 Según desembarcáis y se aleja la lancha neumática, empiezan los problemas.
- 
-\sinc
 
 |1d6|Complicación por la ribera del río|
 |---|---|
@@ -59,15 +57,13 @@ Según desembarcáis y se aleja la lancha neumática, empiezan los problemas.
 |5|**Ruidos metálicos** se acercan a vosotros. No sabéis qué puede ser, pero no suena bien. Os preparáis para lo peor, para ver que algún gracioso ha atado latas a un «crawler» y este las hace sonar al moverse.|
 |6|Hay **un contenedor marítimo con las puertas soldadas**, quizás haya algo muy bueno o muy malo. No hay ni mensajes escritos ni pintadas en su superficie y no parece que salgan sonidos.|
  
-\conc
-
 ### Problemas en los muelles
  
 Una vez conseguís llegar a los muelles toca explorar si el sitio es seguro. Si es seguro, podréis hacer señales a la barcaza para que atraque. Si hay problemas, tendréis enfrentaros al problema (crawlers, bandidos, residuos tóxicos, etc.) o darle esquinazo a lo que hayáis encontrado y buscar algo que flote para huir de los muelles y alcanzar la barcaza.
  
 |1d6|Complicación en los muelles|
 |---|---|
-|1|**¡¡¡Crawlers!!!** Una gran manada de «crawlers» se quedó encerrada en un dique seco de los muelles. Están todos parados en su sitio, pero si os detectan, se volverán agresivos y podrían intentar salir y atacaros. Habrá que buscar la forma de acabar con todos ellos, quizás quemarlos, quizás dejar que el río entre al dique abriendo las esclusas.|
+|1|**¡¡¡Crawlers!!!** Una gran manada de «crawlers» se quedó encerrada en un dique seco de los muelles. Están todos parados en su sitio, pero si os detectan, se volverán agresivos y podrían intentar salir y atacaros. Habrá que buscar la manera de acabar con todos ellos, quizás quemarlos, quizás dejar que el río entre al dique abriendo las esclusas.|
 |2|**¡¡Crawlers!!** A pesar de estar completos y sanos, esta manada de 5 «crawlers» van a 4 patas y enseñando los colmillos como perros.|
 |3|**¡Crawler!** Un crawler disfrazado de pollo de una famosa cadena de pollo frito, se mueve sin sentido y el disfraz no le deja corre, pero le da cierta protección. Arrastra de una mano un pesado hacha de bombero que hace un ruido horrible al rozar con el cemento.|
 |4|Un grupo de **mapaches rabiosos y enfermos** por comer carne de «crawlers» ha tomado el muelle como su refugio. Parecen muy agresivos y hambrientos.|
@@ -86,7 +82,7 @@ No debería ser una trampa, nadie gastaría preciada electricidad para atraer a 
 
 Como ribereños que sois, os toca investigar las luces. El plan el sencillo, mientras la barcaza avanza por el meandro del río, vosotros atravesaréis la ciudad, pasando por el edificio iluminado, y os recogerán al otro lado de la curva que da el río.
 
-![Mapa de la misión](./images/mapa.jpg "Mapa de la misión")
+[![By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo](./images/mapa.jpg "By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo")](https://commons.wikimedia.org/w/index.php?curid=78147515 "By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo")
 
 _**Línea roja:** Ruta de la barcaza_
 
@@ -96,7 +92,7 @@ _**Línea verde:** Ruta de tus exploradores_
 
 XXX
 
-Hay muchas formas de llegar al rascacielos y todas tienen ventajas y desventajas.
+Hay muchas maneras de llegar al rascacielos y todas tienen ventajas y desventajas.
 
 * **Calles principales.** XXX
 * **Calles secundarias.** XXX
@@ -107,9 +103,36 @@ Hay muchas formas de llegar al rascacielos y todas tienen ventajas y desventajas
 
 XXX
 
+|1d6|Complicaciones en el edificio de Braintech|
+|---|---|
+|1|**¡¡¡Crawlers!!!** Llegáis a un piso donde habían montado un gimnasio. Está lleno de «crawlers» con ropa de gimnasio deambulando entre las máquinas de ejercicio. Se activan según os detectan.|
+|2|**¡¡Crawlers!!** XXX |
+|3|**¡Crawler!** Nadie sabe cómo, pero hay un «crawlers» dentro de una vending. Pasaríais de largo si no fuera porque en la máquina hay pastelitos de nata que con los conservantes que tienen todavía estarán frescos y deliciosos.|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
 ### La azotea
 
-XXX
+La azotea es un único habitáculo que ocupa 2 pisos y toda la planta del edificio. Gigantescos ventanales cubren toda la estancia y solo uno de los lados está sin cortinajes que no dejan salir la luz.
+
+En el centro de la gran sala desde el suelo hasta el techo hay una torre que parece un gigantesco superordenador, con luces LED, cables, interruptores, etc. De la torre salen gruesos cables que acaban injertados en las cabezas de «crawlers».
+
+Los cristales de los ventanales por donde salía la luz están rotos por el impacto de un dron volador que se encuentra en mitad de la estancia rodeado de cristales rotos.
+
+Parece algún tipo de dron militar con uno de sus cohetes todavía sin haber sido lanzado. No parece muy dañado, pero es muy grande para cargar con él. Si tiene batería igual podéis encenderlo y controlarlo.
+
+Cuando entráis en la sala, los «crawlers» se activan, os miran y se lanzan al ataque. Mientras, todas las luces de la torre electrónica empiezan a brillar con intensidad.
+
+De las manos de los «crawlers» enchufados saltan chispas y arcos eléctricos y sus golpes son como si te dieran una descarga de un táser.
+
+Si consiguen derrotar a los «crawlers», una cara pixelada aparecerá en una pantalla de luces LED y gritará a tus supervivientes.
+
+```
+- Necesito mis cuerpos. Sin mis cuerpos moriré. ¡¡¡Me habéis condenado!!!
+```
+
+Toda la estructura empezará a recalentarse y echar humo. Mejor que salgáis corriendo del edificio.
 
 ## Regreso al río
 

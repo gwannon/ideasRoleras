@@ -8,6 +8,9 @@
 body {
   font-family: "Lato", sans-serif;
   font-size: 14px;
+}
+
+.columns {
   columns: 2;
 }
 
@@ -27,7 +30,6 @@ h3 {
 
 h1 {
     font-size: 5em;
-
     text-align: center;
 }
 
@@ -38,11 +40,58 @@ h1 a {
     text-decoration: none;
 }
 
-table tr th {
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table tr th,
+table tr td {
   text-align: left;
-  align: top;
+  vertical-align: top;
+  padding: 3px;
+}
+
+table tr:nth-of-type(even) {
+  background-color: #cecece;
 }
 
 img {
     max-width: 100%;
+}
+
+ul, ol {
+  margin-left: -20px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+pre code {
+  background-color: #cecece;
+  font-family: "Lato", sans-serif;
+  padding: 10px;
+  display: block;
+}
+
+blockquote {
+  border: 1px solid black;
+  margin: 0px;
+  padding: 10px;
+}
+
+blockquote p:first-of-type {
+  margin-top: 0px;
+}
+
+blockquote p:last-of-type {
+  margin-bottom: 0px;
 }
