@@ -11,3 +11,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QÉgypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d’un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMuseum with modern artworks at night art gallery interior with contemporary exhibition by upklyak\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QMuseum with modern artworks at night art gallery interior with contemporary exhibition by upklyak\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis game is Breathless\\E$"}
