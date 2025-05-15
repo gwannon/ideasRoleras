@@ -6,6 +6,7 @@ Esta aventura está hecha bajo licencia [CC BY 4.0](https://creativecommons.org/
 
 * Scary zombie cartoon character by [brgfx](https://www.freepik.com/free-vector/scary-zombie-cartoon-character_30028067.htm)
 * Post apocalypse design concept with wreckage of building and fence with danger sign near surviving telephone box cartoon by [macrovector](https://www.freepik.com/free-vector/post-apocalypse-design-concept-with-wreckage-building-fence-with-danger-sign-near-surviving-telephone-box-cartoon_16409943.htm)
+* Skech of Skull isolated on white background with urban city skyline Vector Illustration by [Rochak Shukla](https://www.freepik.com/free-vector/skech-skull-isolated-white-background-with-urban-city-skyline-vector-illustration_31348226.htm)
 
 &nbsp;
 
