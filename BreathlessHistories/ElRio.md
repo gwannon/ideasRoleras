@@ -1,5 +1,3 @@
-[![Skech of Skull isolated on white background with urban city skyline Vector Illustration by Rochak Shukla](./images/calavera.png "Skech of Skull isolated on white background with urban city skyline Vector Illustration by Rochak Shukla")](https://www.freepik.com/free-vector/skech-skull-isolated-white-background-with-urban-city-skyline-vector-illustration_31348226.htm "Skech of Skull isolated on white background with urban city skyline Vector Illustration by Rochak Shukla")
-
 # El río, una historia de Breathless [por Gwannon](https://gwannon.itch.io/breathless-histories)
 
 Los días se alargan y las noches se acortan lo cual es bueno, ya que los horrores sobre todo atacan de noche.
@@ -8,7 +6,7 @@ El frescor del río os recuerda a cuando disfrutabais de vuestro aire acondicion
 
 En vuestra última aventura conseguisteis una barcaza de río y os habéis estado moviendo con ella. Podéis dormir en ella, es fácil de defender y puede llevaros a todos con vuestro equipo.
 
-Tu grupo se acerca a una nueva parte del río, con suerte habrá pocos «crawlers» y mucho que saquear.
+Tu grupo se acerca a una nueva parte del río, con suerte habrá pocos «crawlers» y esperemos que mucho que saquear, porque las reservas se están acabando.
 
 ## La barcaza
 
@@ -30,8 +28,6 @@ El timón está en un pequeño habitáculo en la popa del barco y tenéis una pe
 
 El puerto parece desierto, pero nunca lo están. Es fácil veros llegar desde lejos y no es la primera vez que quieren daros la «bienvenida» cuando atracáis en los muelles. Ese es el momento en que sois más vulnerables.
 
-\sp
-
 Así que habéis cogido la costumbre de desembarcar a un grupo medio kilometro antes del punto de atraque para que busquen posibles problemas.
 
 Si todo está bien, hacéis una señal desde el muelle y la barcaza desembarca.
@@ -42,9 +38,9 @@ Curiosamente, tu grupo de supervivientes son los que está vez van a explorar la
 
 No es fácil ser los «ribereños», arriesgas tu vida y si algo va mal la barcaza no se acercará a salvarte. Estará un día en el centro del río y si no aparecéis, se irá sin vosotros.
 
-Si tenéis problemas, tendréis que buscar la manera de llegar hasta la barcaza mientras evitáis a «crawlers» y los piratas del río.
+Si tenéis problemas, tendréis que buscar la manera de llegar hasta la barcaza mientras evitáis a «crawlers» y los piratas del río. Es duro, pero así es la supervivencia en este mundo.
 
-> Es duro, pero así es la supervivencia en este mundo.
+\sp
 
 ### Por la ribera
 
@@ -61,17 +57,16 @@ Según desembarcáis y se aleja la lancha neumática, empiezan los problemas.
  
 ### Problemas en los muelles
  
-Una vez conseguís llegar a los muelles toca explorar si el sitio es seguro. Si es seguro, podréis hacer señales a la barcaza para que atraque. Si hay problemas, tendréis enfrentaros al problema (crawlers, bandidos, residuos tóxicos, etc.) o darle esquinazo a lo que hayáis encontrado y buscar algo que flote para huir de los muelles y alcanzar la barcaza.
+Una vez conseguís llegar a los muelles toca explorar si el sitio es seguro. Si es seguro, podréis hacer señales a la barcaza para que atraque.
+
+Si hay problemas, tendréis enfrentaros al problema (crawlers, bandidos, residuos tóxicos, etc.) o darle esquinazo a lo que hayáis encontrado y buscar algo que flote para huir de los muelles y alcanzar la barcaza.
  
+\sc
+
 |1d6|Complicación en los muelles|
 |---|---|
 |1|**¡¡¡Crawlers!!!** Una gran manada de «crawlers» se quedó encerrada en un dique seco de los muelles. Están todos parados en su sitio, pero si os detectan, se volverán agresivos y podrían intentar salir y atacaros. Habrá que buscar la manera de acabar con todos ellos, quizás quemarlos, quizás dejar que el río entre al dique abriendo las esclusas.|
 |2|**¡¡Crawlers!!** A pesar de estar completos y sanos, esta manada de 5 «crawlers» van a 4 patas y enseñando los colmillos como perros.|
-
-\sp
- 
-|1d6|Complicación en los muelles|
-|---|---|
 |3|**¡Crawler!** Un crawler disfrazado de pollo de una famosa cadena de pollo frito, se mueve sin sentido y el disfraz no le deja corre, pero le da cierta protección. Arrastra de una mano un pesado hacha de bombero que hace un ruido horrible al rozar con el cemento.|
 |4|Un grupo de **mapaches rabiosos y enfermos** por comer carne de «crawlers» ha tomado el muelle como su refugio. Parecen muy agresivos y hambrientos.|
 |5|Una de las **cápsulas de gas** con las que le ejercito bombardeo la ciudad flota está intacta entre los restos de basura que se acumulan en el muelle. Si la barcaza se acerca podrían activarla y hacerla explotar. Habría que sacarla de alguna manera del muelle y que la corriente se la lleve.|
@@ -83,11 +78,17 @@ Está oscureciendo y tanto si la barcaza atraca como si se queda en mitad del r�
 
 Cuando anochece veis, algo que no habíais visto en años, luz eléctrica. El lado de la azotea que mira hacia vuestra parte del río de uno de los edificios de la ciudad está completamente iluminada.
 
+\sp
+
 No sabéis que significa, pero merece la pena investigarlo. Si hay más personas podrían unirse a la comunidad. Si hay algún tipo de generador funcionando, sería un buen hallazgo. 
 
 No debería ser una trampa, nadie gastaría preciada electricidad para atraer a incautos a los que robar y matar.
 
 Como ribereños que sois, os toca investigar las luces. El plan el sencillo, mientras la barcaza avanza por el meandro del río, vosotros atravesaréis la ciudad, pasando por el edificio iluminado, y os recogerán al otro lado de la curva que da el río.
+
+Estiman que tardarán toda la mañana para llegar al otro lado del meandro. Os esperarán allí hasta la mañana siguiente y si no habéis llegado, se irán sin vosotros.
+
+> **Con un día hay tiempo de sobra, para hacer la misión**, pero si quieres meter presión a tus supervivientes, haz como que apuntas las horas cada vez hacen un descanso y así crean que hay un límite de tiempo.
 
 [![By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo](./images/mapa.jpg "By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo")](https://commons.wikimedia.org/w/index.php?curid=78147515 "By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo")
 
@@ -97,27 +98,47 @@ _**Línea verde:** Ruta de tus exploradores_
 
 ### Camino al rascacielos
 
-XXX
-
 Hay muchas maneras de llegar al rascacielos y todas tienen ventajas y desventajas.
 
-* **Calles principales.** XXX
-* **Calles secundarias.** XXX
-* **Alcantarillado y túneles del metro.** Habrá «crawlers» y ratas, eso es seguro, pero no esperéis nada más.
+* **Calles principales.** Es el camino más rápido, pero también es el que más probabilidades tiene de que encontrar problemas en forma de crawlers y bandidos que quieran robaros.
+* **Calles secundarias.** Quizás la opción con mejor relación de tiempo y seguridad, pero podéis acabar perdidos y el tiempo es importante.
+* **Alcantarillado y túneles del metro.** Puede que haya «crawlers» y seguro que muchísimas ratas, pero no esperéis nada más y el camino es muy rápido.
 * **Tren elevado.** Seguir las vías del tren elevado no sería mala opción, si no fuera porque os deja sin opciones. Solo podéis seguir adelante o retroceder. Además, montaros una trampa sería muy fácil.
+
+|1d6|Complicación en la ciudad|
+|---|---|
+|1|**¡¡¡Crawlers!!!** XXX|
+|2|**¡¡Crawlers!!** XXX|
+|3|**¡Crawler!** XXX|
+|4|XXX|
+|5|XXX|
+|6|Es vuestro día de suerte, el camino está limpio.|
 
 ### La ascensión
 
-XXX
+Cuando os acercáis al edificio, veis que tiene los logotipos de una gran corporación llamada BrainTech y parece, por los carteles de la fachada, que se dedicaban a medicina y cibernética. Parece ser que la sede estaba en los pisos superiores.
+
+Las grandes puertas de cristal están rotas todo el hall principal parece haber sido saqueado, pero nunca se sabe. 
+
+El edificio se divide en 4 partes:
+
+* **Hall de entrada:** Seguridad y control de acceso al resto del edificio. Además, hay pequeñas tiendas de comida, kioscos de prensa y regalos, boutiques de moda, etc.
+* **Plantas inferiores:** Oficinas, despachos y zonas de esparcimiento de los empleados.
+* **Plantas medias:** Laboratorios y comedores.
+* **Plantas superiores:** Viviendas de superlujo para directivos de la empresa. 
 
 \sp
 
-|1d6|Complicaciones en el edificio de Braintech|
+En cada parte del parte podréis hacer un descanso y saquear. Lo que se saquee tiene que ser consecuente con la zona en la que se esté.
+
+La única forma de subir a la azotea es por las escaleras. Los ascensores están destrozados en el hall. Debieron tener algún tipo de accidente y no se puede acceder al hueco de los ascensores.
+
+|1d6|Complicaciones en Braintech|
 |---|---|
 |1|**¡¡¡Crawlers!!!** Llegáis a un piso donde habían montado un gimnasio. Está lleno de «crawlers» con ropa de gimnasio deambulando entre las máquinas de ejercicio. Se activan según os detectan.|
-|2|**¡¡Crawlers!!** XXX |
+|2|**¡¡Crawlers!!** XXX|
 |3|**¡Crawler!** Nadie sabe cómo, pero hay un «crawlers» dentro de una vending. Pasaríais de largo si no fuera porque en la máquina hay pastelitos de nata que con los conservantes que tienen todavía estarán frescos y deliciosos.|
-|4|XXX|
+|4|**Barricada:** Alguien puso algo de gran tamaño, como un armario metálico, en mitad de las escaleras de ascenso. No es tan fácil de mover debido a su gran peso. Otra opción es sortearla escalando por el hueco de la escalera.|
 |5|XXX|
 |6|XXX|
 
@@ -129,25 +150,37 @@ En el centro de la gran sala desde el suelo hasta el techo hay una torre que par
 
 Los cristales de los ventanales por donde salía la luz están rotos por el impacto de un dron volador que se encuentra en mitad de la estancia rodeado de cristales rotos.
 
-Parece algún tipo de dron militar con uno de sus cohetes todavía sin haber sido lanzado. No parece muy dañado, pero es muy grande para cargar con él. Si tiene batería igual podéis encenderlo y controlarlo.
+Parece algún tipo de dron militar con uno de sus cohetes todavía sin haber sido lanzado. No parece muy dañado, pero es muy grande para cargar con él. Si tiene batería igual podéis encenderlo y controlarlo. No queda claro si el dron es parte de un ataque o de las defensas del edificio.
 
 Cuando entráis en la sala, los «crawlers» se activan, os miran y se lanzan al ataque. Mientras, todas las luces de la torre electrónica empiezan a brillar con intensidad.
 
-De las manos de los «crawlers» enchufados saltan chispas y arcos eléctricos y sus golpes son como si te dieran una descarga de un táser.
+De las manos de los «crawlers» enchufados saltan chispas y arcos eléctricos y sus golpes son como si te dieran una descarga de un táser. Si cortan los cables, los «crawlers» dejarán de estar controlados por el superordenador y de lanzar descargas eléctricas, pero siguen siendo agresivos y os atacarán.
 
-Si consiguen derrotar a los «crawlers», una cara pixelada aparecerá en una pantalla de luces LED y gritará a tus supervivientes.
+Si consiguen derrotar a los «crawlers», una cara pixelada aparecerá en una pantalla de luces LED y gritará enfadada a tus supervivientes.
 
 ```
 - Necesito mis cuerpos. Sin mis cuerpos moriré. ¡¡¡Me habéis condenado!!!
 ```
 
-Toda la estructura empezará a recalentarse y echar humo. Mejor que salgáis corriendo del edificio.
+Toda la estructura electrónica empezará a recalentarse y echar humo. Mejor que salgáis corriendo del edificio.
+
+Cuando estéis fuera del edificio, veréis que la azotea está en llamas y que el dron sale volando con dificultades de la azotea, si no ha sido destruido o saqueado.
+
+> **Semilla de aventura:** Ahora una IA enfadada y un poco loca que controla un dron militar con un misil funcional puede perseguir a tus supervivientes por toda la ciudad.
 
 ## Regreso al río
 
-XXX
+No siempre se gana y está vez, no habéis sacado nada de valor de vuestra incursión, pero seguís vivos y eso en este mundo es mucho.
+
+\sp
+
+Esta parte de la aventura es esencialmente la misma que el tramo de la ribera del río al edificio de BrainTech. Las formas de moverse son las mismas (calles principales, secundarias, etc.) y los encuentros pueden ser los mismos.
+
+> Como DJ, en este capítulo puedes jugar con el tiempo que les queda a tus supervivientes para meterles presión y hacerles ir por los caminos rápidos y menos seguros.
 
 ### Piratas de río
+
+Cuando se lancen al agua con su bote, verán que otra barcaza está doblando el meandro y están acelerando para, seguramente, embestir a vuestra barcaza.
 
 XXX
 

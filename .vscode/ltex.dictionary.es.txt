@@ -5,3 +5,13 @@ crawler
 Crawler
 táser
 Braintech
+vending
+1d6
+BrainTech
+sp
+sc
+sinc
+conc
+Quasipalm
+Gwannon
+Breathless

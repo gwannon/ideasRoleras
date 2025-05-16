@@ -17,3 +17,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis game is Breathless\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSkech of Skull isolated on white background with urban city skyline Vector Illustration by Rochak Shukla\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLos cristales de los ventanales por donde salía la luz están rotos por el impacto de un dron volador que se encuentra en mitad de la estancia rodeado de cristales rotos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/BreathlessHistories\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFuente Cheddar Gothic Stencil\nGeneric NYC map by Quasipalm CC BY-SA 2.5\nBy Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home - Wikimedia CC BY-SA 3.0 igo\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBy Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo\\E$"}
