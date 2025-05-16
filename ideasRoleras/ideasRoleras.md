@@ -532,6 +532,14 @@ Por darle una chispa, el poder de tus hechizos lo marcaría, la cobertura de mó
 
 \conc
 
+### Camino de Santiago
+
+Situar aventuras en el Camino de Santiago puede ser interesante y dar mucho juego, sobre todo si lo enclavamos en nuestra época, pero cuando no era tan famoso, hacia los años 80, cuando empezada el movimiento de primeros primigenios.
+
+Daría para algo de horror rural donde unos peregrinos huyen de alguna aldea perdida donde viven caníbales o adoradores del demonio.
+
+También podría hacerse algún tipo de intriga dentro del grupo de peregrinos.
+
 ### Circunnavegación de un mundo medieval fantástico
 
 Expedición circunnavegación de un mundo medieval fantástico rollo Juan Sebastián Elcano. Debería ser un mundo con poca magia y no muy poderosa, rollo era hiboria de Conan o Poniente de Juego de Tronos, para que el viaje sea una epopeya.
@@ -570,6 +578,8 @@ Tendría rollo de gestión consiguiendo dinero, mejorando las instalaciones, mon
 
 Puede tener una vertiente realista o puede tener toques de terror, magia oscura, monstruos que devoran mascotas.
 
+\sp
+
 ### Troupe de artistas para un mundo medieval fantástico 
 
 Montar una campaña donde los PJ son parte de una troupe de artistas que se mueven por todo el mundo haciendo funciones de teatro en cada ciudad del mundo. En cada ciudad habría una aventura con cosas como:
@@ -578,7 +588,13 @@ Montar una campaña donde los PJ son parte de una troupe de artistas que se muev
 * Tienen que escapar de un grupo religioso que considera pecado las actuaciones de los miembros de la troupe.
 * Uno de los miembros de la troupe es el heredero bastardo de algún monarca y quieren acabar con él/ella para que no reclamé sus derechos.
 
-\sp
+### Silicon Valley
+
+Una aventura situada en Silicon Valley en los 90/2000 con las grandes tecnológicas creándose podría dar mucho juego.
+
+Podrían tratarse cosas como el espionaje industrial, fugas de talento, sabotajes, peleas y juegos sucio entre empresas.
+
+También tendría su punto, enmarcarlo en algo de fantasía rollo «Agentes de la noche», con Drácula controlando el mundo con los ordenadores o de sectarios/tecnócratas que quieren levantar a los primigenios en la red.
 
 ### Volcanes
 
@@ -591,8 +607,6 @@ Pensad que además de lava, proyectiles de piedra y ceniza pueden generar tormen
 Si, como en las pelis de catástrofes o zombis, metes una némesis humana malvada que, por ejemplo, han excavado buscando oro y eso ha propiciado la erupción o qué la lava usa las minas para aparecer por cualquier sitio, tienes una campaña muy chula.
 
 Me suenan películas como «Dante’s Peak», donde nadie creen a los protagonistas, o «El diablo a las 4», donde tres presos y un sacerdote deben salvar a los pacientes de un hospital de una erupción.
-
-\sc
 
 \sp
 
@@ -638,13 +652,3 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
-
-\sp
-
-### Silicon valley
-
-Una aventura situada en Silicon Valley en los 90/2000 con las grandes tecnológicas creándose podría dar mucho juego.
-
-Podrían tratarse cosas como el espionaje que industrial, fugas de talento, peleas y juegos sucio entre empresas.
-
-También tendría su punto, enmarcarlo en algo de fantasía rollo «Agentes de la noche», con Drácula controlando el mundo con los ordenadores o de sectarios/tecnócratas que quieren levantar a los primigenios en la red.
