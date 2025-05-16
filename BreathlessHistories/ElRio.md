@@ -67,7 +67,7 @@ Si hay problemas, tendréis enfrentaros al problema (crawlers, bandidos, residuo
 |---|---|
 |1|**¡¡¡Crawlers!!!** Una gran manada de «crawlers» se quedó encerrada en un dique seco de los muelles. Están todos parados en su sitio, pero si os detectan, se volverán agresivos y podrían intentar salir y atacaros. Habrá que buscar la manera de acabar con todos ellos, quizás quemarlos, quizás dejar que el río entre al dique abriendo las esclusas.|
 |2|**¡¡Crawlers!!** A pesar de estar completos y sanos, esta manada de 5 «crawlers» van a 4 patas y enseñando los colmillos como perros.|
-|3|**¡Crawler!** Un crawler disfrazado de pollo de una famosa cadena de pollo frito, se mueve sin sentido y el disfraz no le deja corre, pero le da cierta protección. Arrastra de una mano un pesado hacha de bombero que hace un ruido horrible al rozar con el cemento.|
+|3|**¡Crawler!** Un crawler disfrazado de pollo de una famosa cadena de pollo frito, se mueve sin sentido y el disfraz no le deja correr, pero le da cierta protección. Arrastra de una mano un pesado hacha de bombero que hace un ruido horrible al rozar con el cemento.|
 |4|Un grupo de **mapaches rabiosos y enfermos** por comer carne de «crawlers» ha tomado el muelle como su refugio. Parecen muy agresivos y hambrientos.|
 |5|Una de las **cápsulas de gas** con las que le ejercito bombardeo la ciudad flota está intacta entre los restos de basura que se acumulan en el muelle. Si la barcaza se acerca podrían activarla y hacerla explotar. Habría que sacarla de alguna manera del muelle y que la corriente se la lleve.|
 |6|Es vuestro día de suerte, el muelle está limpio.|
@@ -100,6 +100,8 @@ _**Línea verde:** Ruta de tus exploradores_
 
 Hay muchas maneras de llegar al rascacielos y todas tienen ventajas y desventajas.
 
+\sc
+
 * **Calles principales.** Es el camino más rápido, pero también es el que más probabilidades tiene de que encontrar problemas en forma de crawlers y bandidos que quieran robaros.
 * **Calles secundarias.** Quizás la opción con mejor relación de tiempo y seguridad, pero podéis acabar perdidos y el tiempo es importante.
 * **Alcantarillado y túneles del metro.** Puede que haya «crawlers» y seguro que muchísimas ratas, pero no esperéis nada más y el camino es muy rápido.
@@ -107,12 +109,18 @@ Hay muchas maneras de llegar al rascacielos y todas tienen ventajas y desventaja
 
 |1d6|Complicación en la ciudad|
 |---|---|
-|1|**¡¡¡Crawlers!!!** XXX|
-|2|**¡¡Crawlers!!** XXX|
-|3|**¡Crawler!** XXX|
-|4|XXX|
-|5|XXX|
+|1|**¡¡¡Crawlers!!!** Pasáis al lado de un parking público de varios pisos y empiezan a caer «crawlers» de los pisos, algunos mueren en el impacto contra el suelo, pero otros se levantan y se lanzan a por vosotros.|
+|2|**¡¡Crawlers!!** Media docena de «crawlers» salen de una puerta giratoria de una gran superficie, de alguna obra publica en la calzada o de algún conducto que se interna en el subsuelo de la ciudad.|
+|3|**¡Crawler!** Hay un «crawler» encerrado en una cabina de teléfonos que no puede salir. Lo que no veis es que alguien ha puesto un cable de nilón que si alguien pisa, abre la puerta de la cabina y libera al «crawler». No es una trampa problemática, pero podría haber más. De hecho puede que hayáis visto cosas parecidas.|
+|4|Un **grupo de supervivientes** como vosotros avanza en vuestra dirección vosotros, pero se paran al detectaros. No debéis parecer de fiar o ellos están preparando algo.|
+|5|Un **vehículo avanza rápidamente hasta vosotros** y no parece que vaya a frenar ni esquivaros. Si están en las alcantarillas o el metro, una inmensa masa de agua avanza por el túnel.|
 |6|Es vuestro día de suerte, el camino está limpio.|
+
+\sp
+
+&nbsp;
+
+> **Semilla de aventura:** Hay un trampero que se dedica a montar trampas en la ciudad usando «crawlers». Habría que investigar quién es y donde está y detenerle.
 
 ### La ascensión
 
@@ -127,20 +135,18 @@ El edificio se divide en 4 partes:
 * **Plantas medias:** Laboratorios y comedores.
 * **Plantas superiores:** Viviendas de superlujo para directivos de la empresa. 
 
-\sp
-
 En cada parte del parte podréis hacer un descanso y saquear. Lo que se saquee tiene que ser consecuente con la zona en la que se esté.
 
-La única forma de subir a la azotea es por las escaleras. Los ascensores están destrozados en el hall. Debieron tener algún tipo de accidente y no se puede acceder al hueco de los ascensores.
+La única manera de subir a la azotea es por las escaleras. Los ascensores están destrozados en el hall. Debieron tener algún tipo de accidente y no se puede acceder al hueco de los ascensores.
 
 |1d6|Complicaciones en Braintech|
 |---|---|
 |1|**¡¡¡Crawlers!!!** Llegáis a un piso donde habían montado un gimnasio. Está lleno de «crawlers» con ropa de gimnasio deambulando entre las máquinas de ejercicio. Se activan según os detectan.|
-|2|**¡¡Crawlers!!** XXX|
+|2|**¡¡Crawlers!!** En una cabina atascada entre plantas hay media docena de «crawlers». Sacan sus extremidades por el poco espacio que hay entre el suelo del ascensor y el quicio de la puerta. Cuando os acercáis, el ascensor cruje y cae unos metros hacia abajo, así que los «crawlers» pueden ahora salir del ascensor. |
 |3|**¡Crawler!** Nadie sabe cómo, pero hay un «crawlers» dentro de una vending. Pasaríais de largo si no fuera porque en la máquina hay pastelitos de nata que con los conservantes que tienen todavía estarán frescos y deliciosos.|
-|4|**Barricada:** Alguien puso algo de gran tamaño, como un armario metálico, en mitad de las escaleras de ascenso. No es tan fácil de mover debido a su gran peso. Otra opción es sortearla escalando por el hueco de la escalera.|
-|5|XXX|
-|6|XXX|
+|4|Alguien puso algo de gran tamaño, como un armario metálico, en mitad de las escaleras de ascenso **a modo de barricada improvisada**. No es tan fácil de mover debido a su gran peso. Otra opción es sortearla escalando por el hueco de la escalera.|
+|5|Al abrir un piso encontráis **equipo de acampada y víveres para semanas**. Por los mapas y las guías parece que los propietarios se iban varias semanas por diferentes parques nacionales. Pueden tirar el contenido de sus mochilas y meter latas de comida que vendrán muy bien a las exiguas reservas de la barcaza.|
+|6|Una **puerta de seguridad** os impide avanzar, la cerradura parece complicada y tiene pinta de aguantar muchos golpes. Liarse a hachazos haría mucho ruido y podría atraer complicaciones.|
 
 ### La azotea
 
@@ -149,6 +155,8 @@ La azotea es un único habitáculo que ocupa 2 pisos y toda la planta del edific
 En el centro de la gran sala desde el suelo hasta el techo hay una torre que parece un gigantesco superordenador, con luces LED, cables, interruptores, etc. De la torre salen gruesos cables que acaban injertados en las cabezas de «crawlers».
 
 Los cristales de los ventanales por donde salía la luz están rotos por el impacto de un dron volador que se encuentra en mitad de la estancia rodeado de cristales rotos.
+
+\sp
 
 Parece algún tipo de dron militar con uno de sus cohetes todavía sin haber sido lanzado. No parece muy dañado, pero es muy grande para cargar con él. Si tiene batería igual podéis encenderlo y controlarlo. No queda claro si el dron es parte de un ataque o de las defensas del edificio.
 
@@ -172,9 +180,7 @@ Cuando estéis fuera del edificio, veréis que la azotea está en llamas y que e
 
 No siempre se gana y está vez, no habéis sacado nada de valor de vuestra incursión, pero seguís vivos y eso en este mundo es mucho.
 
-\sp
-
-Esta parte de la aventura es esencialmente la misma que el tramo de la ribera del río al edificio de BrainTech. Las formas de moverse son las mismas (calles principales, secundarias, etc.) y los encuentros pueden ser los mismos.
+Esta parte de la aventura es esencialmente la misma que el tramo de la ribera del río al edificio de BrainTech. Las maneras de moverse son las mismas (calles principales, secundarias, etc.) y los encuentros pueden ser los mismos.
 
 > Como DJ, en este capítulo puedes jugar con el tiempo que les queda a tus supervivientes para meterles presión y hacerles ir por los caminos rápidos y menos seguros.
 
@@ -182,8 +188,28 @@ Esta parte de la aventura es esencialmente la misma que el tramo de la ribera de
 
 Cuando se lancen al agua con su bote, verán que otra barcaza está doblando el meandro y están acelerando para, seguramente, embestir a vuestra barcaza.
 
-XXX
+Llevan un gran ariete en forma de arpón en la proa y se golpean con él a vuestra barcaza, será imposible separarse y huir río arriba o abajo.
+
+Hay que actuar rápido o vuestros compañeros caerán ante vuestros ojos. La ventaja es que nadie sabe que estáis allí, los piratas están demasiado centrados en su objetivo para detectaros.
+
+Algunas opciones que podéis intentar es **hacer caer una de las gigantescas grúas** del puerto sobre la barcaza pirata.
+
+Hay **depósitos de residuos de gran tamaño** en la ribera, quizás podáis verter su contenido en el agua y retrasar el avance de los piratas. Con un poco de suerte podría ser algo inflamable y tóxico.
+
+Podéis **conseguir alguna lancha y lanzarla contra su ariete**. No detendríais su avance, pero inutilizaríais su arma principal.
+
+Quizás una **columna de contenedores marítimos puede ser derribada en el agua** y hacer que la barcaza pirata tenga que esquivarlas y pierda potencia de empuje y un precioso tiempo.
+
+Y si pasan un **cable de acero hasta la otra orilla** y así los piratas se quedan enganchados en él. O lo atan al muelle y lo enredan a la barcaza enemiga como si fuera un AT-AT.
 
 \sp
+
+Si tuvisteis tiempo de rapiñar el **misil del dron**, quizás podáis programarlo y lanzarlo a los piratas de río.
+
+> Piensa en las cosas de gran tamaño que no se pueden saquear que podría haber en un puerto/astillero y déjales usarlas contra los piratas.
+
+Si detenéis el ataque, podréis reuniros con vuestro grupo y contarles vuestra aventura. Vuestra hazaña será contada durante años alrededor del bidón de gasolina ardiendo que usáis para calentaros en las noches frías.
+
+Si la barcaza cae ante los piratas, tendréis que huir de allí a toda velocidad. Toca empezar de nuevo y buscaros una nueva comunidad de supervivientes.
 
 |Licencia.md|
