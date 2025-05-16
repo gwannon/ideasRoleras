@@ -20,3 +20,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/BreathlessHistories\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFuente Cheddar Gothic Stencil\nGeneric NYC map by Quasipalm CC BY-SA 2.5\nBy Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home - Wikimedia CC BY-SA 3.0 igo\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBy Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QTambién tendría su punto, enmarcarlo en algo de fantasía rollo agentes de la noche, con Drácula controlando el mundo con los ordenadores o de sectarios/tecnócratas que quieren levantar a la s primigenios en la red.\\E$"}

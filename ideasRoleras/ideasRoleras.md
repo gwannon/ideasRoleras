@@ -638,3 +638,13 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+\sp
+
+### Silicon valley
+
+Una aventura situada en Silicon Valley en los 90/2000 con las grandes tecnológicas creándose podría dar mucho juego.
+
+Podrían tratarse cosas como el espionaje que industrial, fugas de talento, peleas y juegos sucio entre empresas.
+
+También tendría su punto, enmarcarlo en algo de fantasía rollo «Agentes de la noche», con Drácula controlando el mundo con los ordenadores o de sectarios/tecnócratas que quieren levantar a los primigenios en la red.
