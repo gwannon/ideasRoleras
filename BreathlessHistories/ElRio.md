@@ -30,6 +30,8 @@ El timón está en un pequeño habitáculo en la popa del barco y tenéis una pe
 
 El puerto parece desierto, pero nunca lo están. Es fácil veros llegar desde lejos y no es la primera vez que quieren daros la «bienvenida» cuando atracáis en los muelles. Ese es el momento en que sois más vulnerables.
 
+\sp
+
 Así que habéis cogido la costumbre de desembarcar a un grupo medio kilometro antes del punto de atraque para que busquen posibles problemas.
 
 Si todo está bien, hacéis una señal desde el muelle y la barcaza desembarca.
@@ -65,6 +67,11 @@ Una vez conseguís llegar a los muelles toca explorar si el sitio es seguro. Si 
 |---|---|
 |1|**¡¡¡Crawlers!!!** Una gran manada de «crawlers» se quedó encerrada en un dique seco de los muelles. Están todos parados en su sitio, pero si os detectan, se volverán agresivos y podrían intentar salir y atacaros. Habrá que buscar la manera de acabar con todos ellos, quizás quemarlos, quizás dejar que el río entre al dique abriendo las esclusas.|
 |2|**¡¡Crawlers!!** A pesar de estar completos y sanos, esta manada de 5 «crawlers» van a 4 patas y enseñando los colmillos como perros.|
+
+\sp
+ 
+|1d6|Complicación en los muelles|
+|---|---|
 |3|**¡Crawler!** Un crawler disfrazado de pollo de una famosa cadena de pollo frito, se mueve sin sentido y el disfraz no le deja corre, pero le da cierta protección. Arrastra de una mano un pesado hacha de bombero que hace un ruido horrible al rozar con el cemento.|
 |4|Un grupo de **mapaches rabiosos y enfermos** por comer carne de «crawlers» ha tomado el muelle como su refugio. Parecen muy agresivos y hambrientos.|
 |5|Una de las **cápsulas de gas** con las que le ejercito bombardeo la ciudad flota está intacta entre los restos de basura que se acumulan en el muelle. Si la barcaza se acerca podrían activarla y hacerla explotar. Habría que sacarla de alguna manera del muelle y que la corriente se la lleve.|
@@ -102,6 +109,8 @@ Hay muchas maneras de llegar al rascacielos y todas tienen ventajas y desventaja
 ### La ascensión
 
 XXX
+
+\sp
 
 |1d6|Complicaciones en el edificio de Braintech|
 |---|---|
@@ -141,5 +150,7 @@ XXX
 ### Piratas de río
 
 XXX
+
+\sp
 
 |Licencia.md|

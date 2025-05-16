@@ -5,13 +5,34 @@
   src: url('./CheddarGothic-Stencil.otf') format('opentype');
 }
 
+:root {
+  --padding: 50px; /*Ancho de los bordes de la página*/
+}
+
 body {
   font-family: "Lato", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
 }
 
 .columns {
   columns: 2;
+}
+
+.columns > *:first-child:not(h1),
+.saltocolumna + * {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
 }
 
 a,
@@ -29,7 +50,7 @@ h3 {
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 4em;
     text-align: center;
 }
 
@@ -94,4 +115,67 @@ blockquote p:first-of-type {
 
 blockquote p:last-of-type {
   margin-bottom: 0px;
+}
+
+
+
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+
+
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  font-family: 'Cheddar Gothic Stencil';
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 30px;
+  right: calc(50% - 35px);
+  width: 70px;
+  height: 50px;
+  z-index: 10;
+  opacity: 1;
+  font-size: 1.5em;
+  background-size: contain;
 }

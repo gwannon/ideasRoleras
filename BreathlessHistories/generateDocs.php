@@ -24,8 +24,6 @@ $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
 $html = str_replace("<p>\sinc</p>", "</div>", $html);
 $html = str_replace("<p>\conc</p>", "<div class=\"columns\">", $html);
 $html = str_replace("<div class='columns'>\n</div>", "", $html); 
-$html = str_replace("<h2>", "<div><h2>", $html);
-$html = str_replace("</h2>", "</h2></div>", $html); 
 
 /*$html = str_replace("<p>|HojaPersonaje.html|</p>", file_get_contents(__DIR__ . "/HojaPersonaje.html"), $html);
 $html = str_replace("<p>|HojaServidor.html|</p>", file_get_contents(__DIR__ . "/HojaServidor.html"), $html);*/

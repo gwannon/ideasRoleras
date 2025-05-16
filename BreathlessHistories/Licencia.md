@@ -8,6 +8,4 @@ Esta aventura está hecha bajo licencia [CC BY 4.0](https://creativecommons.org/
 * Skech of Skull isolated on white background with urban city skyline Vector Illustration by [Rochak Shukla](https://www.freepik.com/free-vector/skech-skull-isolated-white-background-with-urban-city-skyline-vector-illustration_31348226.htm)
 * By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home - [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=78147515) [CC BY-SA 3.0 igo](https://creativecommons.org/licenses/by-sa/3.0/igo/deed.es)
 
-&nbsp;
-
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
