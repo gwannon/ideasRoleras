@@ -22,9 +22,9 @@ En el centro hay una zona libre donde todos se reúnen cuando hace mal tiempo. S
 
 Defensivamente, el río actúa como el foso de un castillo y hay repartidas hachas de abordaje y machetes por toda la cubierta para rechazar ataques y cortar cuerdas que pudieran usarse en abordajes.
 
-En caso de armas de fuego te puedes proteger bajo cubierta o detrás de las barandas metálicas que forman la borda.
+If the enemies have firearmas, you can cover under deck or behind the bulwarks.
 
-El timón está en un pequeño habitáculo en la popa del barco y tenéis una pequeña lancha neumática que usáis en vuestros desembarcos.
+The helm is in a small cabin in the stern of the barge and you have a inflatable boat to disembark. 
 
 ## The docks
 
@@ -51,39 +51,39 @@ As soon as you disembark and the inflatable boat moves away, the problems begin.
 
 |1d6|Complication along the riverbank|
 |---|---|
-|1|**Crawlers!!!** Una horda de crawlers viene por una calle lateral a hacia vosotros. Son demasiados para acabar con ellos.|
+|1|**Crawlers!!!** A horde of crawlers is coming down from a side street toward you. There are too many of them to take out.|
 |2|**Crawlers!!** Una docena de crawlers enredados en aparejos de barco, os cierran el paso. Son lentos y desorganizados porque unos tiran de las cuerdas y redes donde están enganchados otros, pero son muchos y todos juntos.|
 |3|**Crawler!** Hay un crawler colgado de una cuerda, parece que ha caído en algún **tipo de trampa**. Deberíais tener cuidado, tal vez haya más trampas sin saltar.|
 |4|**El puente que necesitáis pasar está en muy malas condiciones.** Hay partes caídas y otras se mantienen como pueden. Si no lo cruzáis, tendréis que dejar la ribera del río y adentraros en la ciudad. Eso supondría nuevas complicaciones lejos de vuestro objetivo.|
-|5|**Ruidos metálicos** se acercan a vosotros. No sabéis qué puede ser, pero no suena bien. Os preparáis para lo peor, para ver que algún gracioso ha atado latas a un crawler y este las hace sonar al moverse.|
-|6|Hay **un contenedor marítimo con las puertas soldadas**, quizás haya algo muy bueno o muy malo. No hay ni mensajes escritos ni pintadas en su superficie y no parece que salgan sonidos.|
+|5|**Metallic noises** come to you. You don't know what it could be, but it doesn't sound good. You prepare for the worst, but some joker have attached cans to a crawler, and it rattles them as it moves.|
+|6|There's a **container with its doors welded**. Perhaps there is something very good or very bad inside. No written or painted messages on its surface and you don't listen anything inside it.|
  
 ### Problems at the docks
  
-Una vez conseguís llegar a los muelles, toca explorar si el sitio es seguro. Si es seguro, podréis hacer señales a la barcaza para que atraque.
+Once you reach the docks, it's time to explore to know if the place is safe. If it is, you can wave up the barge to dock.
 
-Si hay problemas, tendréis que enfrentaros al problema (crawlers, bandidos, residuos tóxicos, etc.) o darle esquinazo a lo que hayáis encontrado y buscar algo que flote para huir de los muelles y alcanzar la barcaza.
+If there are troubles, you'll have to overcome them (crawlers, bandits, toxic waste, etc.) or dodge them and look for a vessel to reach the barge.
  
 \sc
 
 |1d6|Complicaction at the docks|
 |---|---|
 |1|**Crawlers!!!** Una gran manada de crawlers se quedó encerrada en un dique seco de los muelles. Están todos parados en su sitio, pero si os detectan, se volverán agresivos y podrían intentar salir y atacaros. Habrá que buscar la manera de acabar con todos ellos, quizás quemarlos, quizás dejar que el río entre al dique abriendo las esclusas.|
-|2|**Crawlers!!** A pesar de estar completos y sanos, esta manada de 5 crawlers van a 4 patas y enseñando los colmillos como perros.|
+|2|**Crawlers!!** Despite being whole and well preserved, this pack of five crawlers walk on all fours, baring their fangs like dogs.|
 |3|**Crawler!** Un crawler disfrazado de pollo de una famosa cadena de pollo frito, se mueve sin sentido y el disfraz no le deja correr, pero le da cierta protección. Arrastra de una mano un pesado hacha de bombero que hace un ruido horrible al rozar con el cemento.|
-|4|Un grupo de **mapaches rabiosos y enfermos** por comer carne de crawlers ha tomado el muelle como su refugio. Parecen muy agresivos y hambrientos.|
+|4|A **group of raccoons with rabies**, sickened by eating crawler meat, have taken over the pier. They are aggressive and hungry.|
 |5|Una de las **cápsulas de gas** con las que le ejercito bombardeo la ciudad flota intacta en el agua entre los restos de basura que se acumulan en el muelle. Si la barcaza se acerca podría activarla y hacerla explotar. Habría que sacarla de alguna manera del muelle y que la corriente se la lleve.|
 |6|It's your lucky day, the docks are clear.|
 
-Está oscureciendo y tanto si la barcaza atraca como si se queda en mitad del río, tendréis que hacer noche en la zona.  
+It's getting dark, and whether the barge docks or stays in the middle of the river, you'll have to pass the night here.
 
 ## The light
 
 Cuando anochece veis algo que no habíais visto en años, luz eléctrica. El lado de la azotea que mira hacia vuestra parte del río de uno de los edificios de la ciudad está completamente iluminada.
 
-\sp
-
 No sabéis que significa, pero merece la pena investigarlo. Si hay más personas podrían unirse a la comunidad. Si hay algún tipo de generador funcionando, sería un buen hallazgo. 
+
+\sp
 
 No debería ser una trampa, nadie gastaría preciada electricidad para atraer a incautos a los que robar y matar.
 
@@ -103,8 +103,6 @@ _**Green line:** Your route_
 
 There are many ways to reach the skyscraper and each one has its pros and cons.
 
-\sc
-
 * **Main streets.** Es el camino más rápido, pero también es el que más probabilidades tiene de que encontrar problemas en forma de crawlers y bandidos que quieran robaros.
 * **Secondary routes.** It can be the option with the best time/security ratio, but you can lost and time is important.
 * **Sewer system and underground tunnels.** Puede que haya crawlers y seguro que muchísimas ratas, pero no esperéis nada más y el camino es muy rápido.
@@ -119,9 +117,11 @@ There are many ways to reach the skyscraper and each one has its pros and cons.
 |5|Un **vehículo avanza rápidamente hasta vosotros** y no parece que vaya a frenar ni esquivaros. Si están en las alcantarillas o el metro, una inmensa masa de agua avanza por el túnel.|
 |6|It's your lucky day, the route is clear.|
 
-\sp
+&nbsp;
 
 > **Adventure seed:** Hay un trampero que se dedica a montar trampas en la ciudad usando crawlers. Habría que investigar quién es y donde está y detenerle.
+
+\sp
 
 ### Going up
 
@@ -157,9 +157,9 @@ En el centro de la gran sala, desde el suelo hasta el techo, hay una torre que p
 
 Los cristales de los ventanales por donde salía la luz están rotos por el impacto de un dron volador que se encuentra en mitad de la estancia rodeado de cristales rotos.
 
-\sp
-
 Parece algún tipo de dron militar con uno de sus cohetes todavía sin haber sido lanzado. No parece muy dañado, pero es muy grande para cargar con él. Si tiene batería igual podéis encenderlo y controlarlo. No queda claro si el dron es parte de un ataque o de las defensas del edificio.
+
+\sp
 
 Cuando entráis en la sala, los crawlers se activan, os miran y se lanzan al ataque. Mientras, todas las luces de la torre electrónica empiezan a brillar con intensidad.
 
@@ -179,17 +179,17 @@ Cuando estéis fuera del edificio, veréis que la azotea está en llamas. De rep
 
 ## Return to the river
 
-No siempre se gana y esta vez no habéis sacado nada de valor de vuestra incursión, pero seguís vivos y eso en este mundo es mucho.
+You don't always win, and this time you haven't gained anything valuable from your incursion, but you're still alive, and that's a lot in this world.
 
 Esta parte de la aventura es esencialmente la misma que el tramo de la ribera del río al edificio de BrainTech. Las maneras de moverse son las mismas (calles principales, secundarias, etc.) y los encuentros pueden ser los mismos.
 
-> Como DJ, en este capítulo puedes jugar con el tiempo que les queda a tus supervivientes para meterles presión y hacerles ir por los caminos rápidos y menos seguros.
+> As the GM, in this part you can play with the time limit to pressure them and force them to take the fastest and least safe paths.
 
 ### River pirates
 
-Cuando os acercáis al punto del encuentro establecido, veis que otra barcaza está doblando el meandro y están acelerando para, seguramente, embestir a vuestra barcaza.
+As you approach the meeting point, you see another barge rounding the meander and speeding up, likely to ram your vessel.
 
-Llevan un gran ariete en forma de arpón en la proa y se golpean con él a vuestra barcaza, será imposible separarse y huir río arriba o abajo.
+Their vessel carries a harpoon-shaped naval ram and, if they stick it in your barge, it will be impossible to separate and escape river up or down.
 
 Hay que actuar rápido o vuestros compañeros caerán ante vuestros ojos. La ventaja es que nadie sabe que estáis allí, los piratas están demasiado centrados en su objetivo para detectaros.
 
@@ -197,17 +197,17 @@ Algunas opciones que podéis intentar es **hacer caer una de las gigantescas gr�
 
 Hay **depósitos de residuos de gran tamaño** en la ribera, quizás podáis verter su contenido en el agua y retrasar el avance de los piratas. Con un poco de suerte podría ser algo inflamable y/o tóxico.
 
-Podéis **conseguir alguna lancha y lanzarla contra su ariete**. No detendríais su avance, pero inutilizaríais su arma principal.
+You can **get a boat and crash it against their naval ram**. You wouldn't stop their advance, but you would disable their main weapon.
 
 Quizás una **columna de contenedores marítimos puede ser derribada en el agua** y hacer que la barcaza pirata tenga que esquivarlas y pierda potencia de empuje y un precioso tiempo.
 
 ¿Y si pasáis un **cable de acero hasta la otra orilla** y así los piratas se quedan enganchados en él? O lo atan al muelle y lo enredan a la barcaza enemiga como si fuera un AT-AT.
 
-\sp
-
 Si tuvisteis tiempo de rapiñar el **misil del dron**, quizás podáis programarlo y lanzarlo a los piratas de río.
 
 > Piensa en las cosas de gran tamaño que no se pueden saquear y que podría haber en un puerto/astillero y déjales usarlas contra los piratas.
+
+\sp
 
 Si detenéis el ataque, podréis reuniros con vuestro grupo y contarles vuestra aventura. Vuestra hazaña será contada durante años alrededor del bidón de gasolina ardiendo que usáis para calentaros en las noches frías.
 

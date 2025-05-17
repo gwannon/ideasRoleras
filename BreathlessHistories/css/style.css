@@ -213,7 +213,7 @@ body > section > h1:first-of-type {
   position: relative;
 }
 
-body > section > h1:first-of-type {
+body:is(#TheRiver, #ElRio) > section > h1:first-of-type {
   background: black url(../images/concrete-wall-with-paint-dripping-bricks.jpg) center center;
   background-size: cover;
   text-shadow: 0 0 11px #9e9e9e;
