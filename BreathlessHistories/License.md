@@ -1,6 +1,6 @@
 \sinc
 
-## Licencia
+## License
 
 \conc
 
@@ -10,7 +10,7 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), 
 
 \sc
 
-Esta aventura está hecha bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/BreathlessHistories](https://github.com/gwannon/ideasRoleras/tree/main/BreathlessHistories)
+This adventure is developed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es) license. All the source code can be found in [GitHub/ideasRoleras/BreathlessHistories](https://github.com/gwannon/ideasRoleras/tree/main/BreathlessHistories).
 
 * Fuente [Cheddar Gothic Stencil](https://es.fontriver.com/font/cheddar_gothic_stencil/)
 * Generic NYC map by [Quasipalm](https://commons.wikimedia.org/wiki/File:New_York_City_Map.png) [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.es)

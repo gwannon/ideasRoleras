@@ -214,4 +214,4 @@ Si la barcaza cae ante los piratas, tendréis que huir de allí a toda velocidad
 
 \sp
 
-|Licencia.md|
+|License.md|
