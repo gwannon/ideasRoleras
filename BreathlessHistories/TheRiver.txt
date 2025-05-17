@@ -1,5 +1,5 @@
 InfoKey: Title
-InfoValue: Hasta el río, una historia de Breathless
+InfoValue: Down to the river, a Breathless story
 
 InfoKey: Subject
 InfoValue: Aventura corta para Breathless

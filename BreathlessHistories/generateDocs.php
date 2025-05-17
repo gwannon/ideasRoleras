@@ -18,11 +18,16 @@ $mkd->setContent($md);
 
 if($argv[1] == 'ElRio') {
   $title = 'Hasta el río<br>Una historia de Breathless';
+  $author = 'por Gwannon';
+} else if($argv[1] == 'TheRiver') {
+  $title = 'Down to the river<br>A Breathless story';
+  $author = 'by Gwannon';
 }
 
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
 $html = str_replace("|ID|", $argv[1], $html);
 $html = str_replace("|TITLE|", $title, $html); 
+$html = str_replace("|AUTHOR|", $author, $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
 $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
