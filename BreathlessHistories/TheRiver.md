@@ -12,7 +12,7 @@ You're approaching a new part of the river. Hopefully, there will be few crawler
 
 Vuestra vieja barcaza está oxidada y vieja, pero su funcionamiento es muy básico, con lo que el mantenimiento es muy sencillo. Un motor de combustión muy simple y un timón mecánico. Nada de ordenadores, nada de electricidad, solo gasolina y parchear las fugas en el casco.
 
-La barcaza puede llevar a unas 20 personas, con su equipo y sus enseres de cada día. 
+The barge can carry about 20 people, with their equipment and belongings.
 
 El espacio de carga bajo cubierta se ha dividido con paneles y telas en cubículos donde vive cada superviviente. No es muy íntimo, pero es un lujo en este mundo.
 
@@ -38,7 +38,8 @@ If everything is OK, you wave up from the dock and the barge disembarks.
 
 Curiosamente, vosotros sois los que esta vez van a explorar la ribera antes de que la barcaza atraque.
 
-No es fácil ser los «ribereños», arriesgas tu vida y si algo va mal la barcaza no se acercará a salvarte. Estará un día en el centro del río y si no aparecéis, se irá sin vosotros.
+It's not easy to be a riparian, you risk your life and, id something goes bad, the barge doesn't try to safe you. It will wait a day in the middle of the river and if you dont appear, it will departure without you.
+
 
 Si tenéis problemas, tendréis que buscar la manera de llegar hasta la barcaza mientras evitáis a crawlers y piratas del río. Es duro, pero así es la supervivencia en este mundo.
 
@@ -46,11 +47,11 @@ Si tenéis problemas, tendréis que buscar la manera de llegar hasta la barcaza 
 
 ### Along the riverbank
 
-Según desembarcáis y se aleja la lancha neumática, empiezan los problemas.
+As soon as you disembark and the inflatable boat moves away, the problems begin.
 
 |1d6|Complication along the riverbank|
 |---|---|
-|1|**Crawlers!!!** Una horda de crawlers viene por una calle lateral a hacia vosotros, son demasiados para acabar con ellos.|
+|1|**Crawlers!!!** Una horda de crawlers viene por una calle lateral a hacia vosotros. Son demasiados para acabar con ellos.|
 |2|**Crawlers!!** Una docena de crawlers enredados en aparejos de barco, os cierran el paso. Son lentos y desorganizados porque unos tiran de las cuerdas y redes donde están enganchados otros, pero son muchos y todos juntos.|
 |3|**Crawler!** Hay un crawler colgado de una cuerda, parece que ha caído en algún **tipo de trampa**. Deberíais tener cuidado, tal vez haya más trampas sin saltar.|
 |4|**El puente que necesitáis pasar está en muy malas condiciones.** Hay partes caídas y otras se mantienen como pueden. Si no lo cruzáis, tendréis que dejar la ribera del río y adentraros en la ciudad. Eso supondría nuevas complicaciones lejos de vuestro objetivo.|
@@ -105,7 +106,7 @@ There are many ways to reach the skyscraper and each one has its pros and cons.
 \sc
 
 * **Main streets.** Es el camino más rápido, pero también es el que más probabilidades tiene de que encontrar problemas en forma de crawlers y bandidos que quieran robaros.
-* **Secondary routes.** Quizás la opción con mejor relación de tiempo y seguridad, pero podéis acabar perdidos y el tiempo es importante.
+* **Secondary routes.** It can be the option with the best time/security ratio, but you can lost and time is important.
 * **Sewer system and underground tunnels.** Puede que haya crawlers y seguro que muchísimas ratas, pero no esperéis nada más y el camino es muy rápido.
 * **Elevated trains.** Seguir las vías del tren elevado no sería mala opción, si no fuera porque os deja sin opciones. Solo podéis seguir adelante o retroceder. Además, montaros una trampa sería muy fácil.
 
@@ -135,11 +136,11 @@ The building is divided in 4 zones:
 * **Middle floors** Laboratories and dinning rooms.
 * **Upper floors:** Super-luxury aparments for company executives.
 
-En cada parte del parte podréis hacer un descanso y saquear. Lo que se saquee tiene que ser consecuente con la zona en la que se esté.
+In each zone you can rest and loot. The things that you loot must be adequated to the characteristics of the zone.
 
 La única manera de subir a la azotea es por las escaleras. Los ascensores están destrozados en el hall. Debieron tener algún tipo de accidente y no se puede acceder al hueco de los ascensores.
 
-|1d6|Complicacion in BrainTech|
+|1d6|Complication in BrainTech|
 |---|---|
 |1|**Crawlers!!!** Llegáis a un piso donde habían montado un gimnasio. Está lleno de crawlers con ropa de gimnasio deambulando entre las máquinas de ejercicio. Se activan según os detectan.|
 |2|**Crawlers!!** En una cabina atascada entre plantas hay media docena de crawlers. Sacan sus extremidades por el poco espacio que hay entre el suelo del ascensor y el quicio de la puerta. Cuando os acercáis, el ascensor cruje y cae unos metros hacia abajo, así que los crawlers pueden ahora salir del ascensor. |
@@ -164,17 +165,15 @@ Cuando entráis en la sala, los crawlers se activan, os miran y se lanzan al ata
 
 De las manos de los crawlers enchufados saltan chispas y arcos eléctricos y sus golpes son como si te dieran una descarga de un táser. Si cortáis los cables, los crawlers dejarán de estar controlados por el superordenador y de lanzar descargas eléctricas, pero siguen siendo agresivos y os atacarán.
 
-Si conseguís derrotar a los crawlers, una cara pixelada aparecerá en una pantalla de luces LED y gritará enfadada a tus supervivientes.
-
 If you defeat the crawlers, a pixelated face will appear on a LED screen y it begin to shout out.
 
 ```
 - I need my bodies. I will die without my bodies. You have sentence me to disappear!!!
 ```
 
-Toda la estructura electrónica empezará a recalentarse y echar humo. Mejor que salgáis corriendo del edificio.
+All the electronic structure will begin to overheat and smoke. You better get out of the building quickly.
 
-Cuando estéis fuera del edificio, veréis que la azotea está en llamas y que el dron sale volando con dificultades de la azotea, si no ha sido destruido o saqueado.
+Cuando estéis fuera del edificio, veréis que la azotea está en llamas. De repente, el dron sale volando con dificultades de la azotea, si no ha sido destruido o saqueado.
 
 > **Adventure seed:** Ahora una IA enfadada y un poco loca que controla un dron militar con un misil funcional puede perseguir a tus supervivientes por toda la ciudad.
 
@@ -212,7 +211,7 @@ Si tuvisteis tiempo de rapiñar el **misil del dron**, quizás podáis programar
 
 Si detenéis el ataque, podréis reuniros con vuestro grupo y contarles vuestra aventura. Vuestra hazaña será contada durante años alrededor del bidón de gasolina ardiendo que usáis para calentaros en las noches frías.
 
-Si la barcaza cae ante los piratas, tendréis que huir de allí a toda velocidad. Toca empezar de nuevo y buscaros una nueva comunidad de supervivientes.
+If the pirates take the barge, you'll have to flee as fast as possible. You'll have to start over and find find a new community of survivors.
 
 \sp
 

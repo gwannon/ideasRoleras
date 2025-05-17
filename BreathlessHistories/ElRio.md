@@ -50,7 +50,7 @@ Según desembarcáis y se aleja la lancha neumática, empiezan los problemas.
 
 |1d6|Complicación por la ribera del río|
 |---|---|
-|1|**¡¡¡Crawlers!!!** Una horda de crawlers viene por una calle lateral a hacia vosotros, son demasiados para acabar con ellos.|
+|1|**¡¡¡Crawlers!!!** Una horda de crawlers viene por una calle lateral a hacia vosotros. Son demasiados para acabar con ellos.|
 |2|**¡¡Crawlers!!** Una docena de crawlers enredados en aparejos de barco, os cierran el paso. Son lentos y desorganizados porque unos tiran de las cuerdas y redes donde están enganchados otros, pero son muchos y todos juntos.|
 |3|**¡Crawler!** Hay un «crawler» colgado de una cuerda, parece que ha caído en algún **tipo de trampa**. Deberíais tener cuidado, tal vez haya más trampas sin saltar.|
 |4|**El puente que necesitáis pasar está en muy malas condiciones.** Hay partes caídas y otras se mantienen como pueden. Si no lo cruzáis, tendréis que dejar la ribera del río y adentraros en la ciudad. Eso supondría nuevas complicaciones lejos de vuestro objetivo.|
@@ -135,7 +135,7 @@ El edificio se divide en 4 partes:
 * **Plantas medias:** Laboratorios y comedores.
 * **Plantas superiores:** Viviendas de superlujo para directivos de la empresa. 
 
-En cada parte del parte podréis hacer un descanso y saquear. Lo que se saquee tiene que ser consecuente con la zona en la que se esté.
+En cada parte del edificio podréis hacer un descanso y saquear. Lo que se saquee tiene que ser consecuente con la zona en la que se esté.
 
 La única manera de subir a la azotea es por las escaleras. Los ascensores están destrozados en el hall. Debieron tener algún tipo de accidente y no se puede acceder al hueco de los ascensores.
 
@@ -172,7 +172,7 @@ Si conseguís derrotar a los «crawlers», una cara pixelada aparecerá en una p
 
 Toda la estructura electrónica empezará a recalentarse y echar humo. Mejor que salgáis corriendo del edificio.
 
-Cuando estéis fuera del edificio, veréis que la azotea está en llamas y que el dron sale volando con dificultades de la azotea, si no ha sido destruido o saqueado.
+Cuando estéis fuera del edificio, veréis que la azotea está en llamas. De repente, el dron sale volando con dificultades de la azotea, si no ha sido destruido o saqueado.
 
 > **Semilla de aventura:** Ahora una IA enfadada y un poco loca que controla un dron militar con un misil funcional puede perseguir a tus supervivientes por toda la ciudad.
 
