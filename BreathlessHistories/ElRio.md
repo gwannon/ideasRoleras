@@ -96,7 +96,7 @@ Estiman que tardarán toda la mañana para llegar al otro lado del meandro. Os e
 
 _**Línea roja:** Ruta de la barcaza_
 
-_**Línea verde:** Ruta de tus exploradores_
+_**Línea verde:** Vuestra ruta_
 
 ### Camino al rascacielos
 
@@ -139,7 +139,7 @@ En cada parte del parte podréis hacer un descanso y saquear. Lo que se saquee t
 
 La única manera de subir a la azotea es por las escaleras. Los ascensores están destrozados en el hall. Debieron tener algún tipo de accidente y no se puede acceder al hueco de los ascensores.
 
-|1d6|Complicaciones en Braintech|
+|1d6|Complicación en BrainTech|
 |---|---|
 |1|**¡¡¡Crawlers!!!** Llegáis a un piso donde habían montado un gimnasio. Está lleno de «crawlers» con ropa de gimnasio deambulando entre las máquinas de ejercicio. Se activan según os detectan.|
 |2|**¡¡Crawlers!!** En una cabina atascada entre plantas hay media docena de «crawlers». Sacan sus extremidades por el poco espacio que hay entre el suelo del ascensor y el quicio de la puerta. Cuando os acercáis, el ascensor cruje y cae unos metros hacia abajo, así que los «crawlers» pueden ahora salir del ascensor. |
