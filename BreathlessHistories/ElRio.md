@@ -1,4 +1,4 @@
-# Hasta el río, una historia de Breathless [|AUTHOR|](https://gwannon.itch.io/breathless-histories)
+# Hasta el río, una historia de Breathless [|AUTHOR|](https://gwannon.itch.io/down-to-the-river-hasta-el-rio)
 
 Los días se alargan y las noches se acortan, lo cual es bueno, ya que los horrores sobre todo atacan de noche.
 
@@ -142,7 +142,7 @@ La única manera de subir a la azotea es por las escaleras. Los ascensores está
 |1d6|Complicación en BrainTech|
 |---|---|
 |1|**¡¡¡Crawlers!!!** Llegáis a un piso donde habían montado un gimnasio. Está lleno de «crawlers» con ropa de gimnasio deambulando entre las máquinas de ejercicio. Se activan según os detectan.|
-|2|**¡¡Crawlers!!** En una cabina atascada entre plantas hay media docena de «crawlers». Sacan sus extremidades por el poco espacio que hay entre el suelo del ascensor y el quicio de la puerta. Cuando os acercáis, el ascensor cruje y cae unos metros hacia abajo, así que los «crawlers» pueden ahora salir del ascensor. |
+|2|**¡¡Crawlers!!** En una cabina de ascensor atascada entre plantas hay media docena de «crawlers». Sacan sus extremidades por el poco espacio que hay entre el suelo del ascensor y el quicio de la puerta. Cuando os acercáis, el ascensor cruje y cae unos metros hacia abajo, así que los «crawlers» pueden ahora salir del ascensor. |
 |3|**¡Crawler!** Nadie sabe cómo, pero hay un «crawler» dentro de una máquina de vending. Pasaríais de largo si no fuera porque en la máquina hay pastelitos de nata que con los conservantes que tienen todavía estarán frescos y deliciosos.|
 |4|Alguien puso algo de gran tamaño, como un armario metálico, en mitad de las escaleras de ascenso **a modo de barricada improvisada**. No es tan fácil de mover debido a su gran peso. Otra opción es sortearla escalando por el hueco de la escalera.|
 |5|Al abrir una vivienda encontráis **equipo de acampada y víveres para semanas**. Por los mapas y las guías parece que los propietarios se iban varias semanas por diferentes parques nacionales. Podéis tirar el contenido de vuestras mochilas y meter latas de comida que vendrán muy bien a las exiguas reservas de la barcaza.|
@@ -172,7 +172,7 @@ Si conseguís derrotar a los «crawlers», una cara pixelada aparecerá en una p
 
 Toda la estructura electrónica empezará a recalentarse y echar humo. Mejor que salgáis corriendo del edificio.
 
-Cuando estéis fuera del edificio, veréis que la azotea está en llamas. De repente, el dron sale volando con dificultades de la azotea, si no ha sido destruido o saqueado.
+Cuando estáis fuera del edificio, veis que la azotea está en llamas. De repente, el dron sale volando con dificultades, si no ha sido destruido o saqueado.
 
 > **Semilla de aventura:** Ahora una IA enfadada y un poco loca que controla un dron militar con un misil funcional puede perseguir a tus supervivientes por toda la ciudad.
 
