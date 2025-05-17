@@ -15,3 +15,6 @@ Esta aventura está hecha bajo licencia [CC BY 4.0](https://creativecommons.org/
 * Fuente [Cheddar Gothic Stencil](https://es.fontriver.com/font/cheddar_gothic_stencil/)
 * Generic NYC map by [Quasipalm](https://commons.wikimedia.org/wiki/File:New_York_City_Map.png) [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.es)
 * By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home - [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=78147515) [CC BY-SA 3.0 igo](https://creativecommons.org/licenses/by-sa/3.0/igo/deed.es)
+
+
+https://www.freepik.com/free-photo/concrete-wall-with-paint-dripping-bricks_6415013.htm

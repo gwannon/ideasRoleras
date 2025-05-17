@@ -1,4 +1,4 @@
-# El río, una historia de Breathless [por Gwannon](https://gwannon.itch.io/breathless-histories)
+# Hasta el río, una historia de Breathless [por Gwannon](https://gwannon.itch.io/breathless-histories)
 
 Los días se alargan y las noches se acortan lo cual es bueno, ya que los horrores sobre todo atacan de noche.
 
@@ -15,6 +15,8 @@ Vuestra vieja barcaza está oxidada y vieja, pero su funcionamiento es muy bási
 La barcaza puede llevar a unas 20 personas, con su equipo y sus enseres de cada día. 
 
 El espacio de carga bajo cubierta se ha dividido con paneles y telas en cubículos donde vive cada superviviente. No es muy íntimo, pero es un lujo en este mundo.
+
+\sc
 
 En el centro hay una zona libre donde todos se reúnen cuando hace mal tiempo. Si hace buen tiempo toda la vida se traslada a la cubierta.
 
@@ -118,8 +120,6 @@ Hay muchas maneras de llegar al rascacielos y todas tienen ventajas y desventaja
 
 \sp
 
-&nbsp;
-
 > **Semilla de aventura:** Hay un trampero que se dedica a montar trampas en la ciudad usando «crawlers». Habría que investigar quién es y donde está y detenerle.
 
 ### La ascensión
@@ -152,7 +152,7 @@ La única manera de subir a la azotea es por las escaleras. Los ascensores está
 
 La azotea es un único habitáculo que ocupa 2 pisos y toda la planta del edificio. Gigantescos ventanales cubren toda la estancia y solo uno de los lados está sin cortinajes que no dejan salir la luz.
 
-En el centro de la gran sala desde el suelo hasta el techo hay una torre que parece un gigantesco superordenador, con luces LED, cables, interruptores, etc. De la torre salen gruesos cables que acaban injertados en las cabezas de «crawlers».
+En el centro de la gran sala desde el suelo hasta el techo hay una torre que parece un gigantesco superordenador, con luces LED, cables, interruptores, etc. De la torre salen gruesos cables que acaban injertados en las cabezas de los «crawlers».
 
 Los cristales de los ventanales por donde salía la luz están rotos por el impacto de un dron volador que se encuentra en mitad de la estancia rodeado de cristales rotos.
 

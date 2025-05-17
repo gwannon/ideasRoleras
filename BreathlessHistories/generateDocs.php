@@ -16,9 +16,14 @@ $md = preg_replace_callback("/\|([0-9a-zA-Z]*)\.md\|/", function($matches) {
 
 $mkd->setContent($md);
 
+if($argv[1] == 'ElRio') {
+  $title = 'Hasta el río<br>Una historia de Breathless';
+}
+
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
-$html = str_replace("|ID|", $argv[1], $html); 
-$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
+$html = str_replace("|ID|", $argv[1], $html);
+$html = str_replace("|TITLE|", $title, $html); 
+//$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
 $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
 $html = str_replace("<p>\sinc</p>", "</div>", $html);
