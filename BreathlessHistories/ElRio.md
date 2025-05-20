@@ -90,7 +90,7 @@ Como ribereños que sois, os toca investigar las luces. El plan es sencillo, mie
 
 Estiman que tardarán toda la mañana para llegar al otro lado del meandro. Os esperarán allí hasta la mañana siguiente y si no habéis llegado, se irán sin vosotros.
 
-> **Con un día hay tiempo de sobra, para hacer la misión**, pero si quieres meter presión a tus supervivientes, haz como que apuntas las horas cada vez hacen un descanso y así crean que hay un límite de tiempo.
+> **Con un día hay tiempo de sobra, para hacer la misión**, pero si quieres meter presión a tus supervivientes, haz como que apuntas las horas, cada vez que hacen un descanso y así crean que hay un límite de tiempo.
 
 [![By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo](./images/mapa.jpg "By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo")](https://commons.wikimedia.org/w/index.php?curid=78147515 "By Copernicus Sentinel-2, ESA - https://scihub.copernicus.eu/dhus/#/home, CC BY-SA 3.0 igo")
 

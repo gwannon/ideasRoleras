@@ -22,7 +22,7 @@ Defensively, the river acts like a castle moat, and boarding axes and machetes a
 
 If the enemies have firearms, you can cover under deck or behind the bulwarks.
 
-The helm is in a small cabin in the stern of the barge and you have a inflatable boat to disembark. 
+The helm is in a small cabin in the stern of the barge, and you have an inflatable boat to disembark. 
 
 ## The docks
 
@@ -36,7 +36,7 @@ If everything is OK, you wave up from the dock and the barge disembarks.
 
 Interestingly, you are the ones who will explore the riverbank this time before the barge docks.
 
-It's not easy to be a riparian, you risk your life and, id something goes bad, the barge doesn't try to safe you. It will wait a day in the middle of the river and if you don't appear, it will departure without you.
+It's not easy to be a riparian, you risk your life and, if something goes bad, the barge doesn't try to save you. It will wait a day in the middle of the river and if you don't appear, it will depart without you.
 
 If you run into trouble, you'll have to find a way to reach the barge while dodging crawlers and river pirates. It's hard, but the survival in this world is it.
 
@@ -52,8 +52,8 @@ As soon as you disembark and the inflatable boat moves away, the problems begin.
 |2|**Crawlers!!** A dozen of crawlers tangled in ship's rigging block your way. They're slows and clumsies, some pulling at the ropes and nets to which others are snagged, but there are many of them.|
 |3|**Crawler!** There's a crawler hanging from a rope; it looks like it's fallen into a trap. You should be careful; there might be more hidden traps.|
 |4|**The bridge you need to cross is in very poor condition.** Some parts have collapsed, while others are holding up as best they can. If you don't cross it, you'll have to leave the riverbank and go deeper into the city. That would mean further complications, far from your objective.|
-|5|**Metallic noises** come to you. You don't know what it could be, but it doesn't sound good. You prepare for the worst, but some joker have attached cans to a crawler, and it rattles them as it moves.|
-|6|There's a **container with its doors welded**. Perhaps there is something very good or very bad inside. No written or painted messages on its surface and you don't listen anything inside it.|
+|5|**Metallic noises** come to you. You don't know what it could be, but it doesn't sound good. You prepare for the worst, but some joker has attached cans to a crawler, and it rattles them as it moves.|
+|6|There's a **container with its doors welded**. Perhaps there is something very good or very bad inside. No written or painted messages on its surface, and you don't listen anything inside it.|
  
 ### Problems at the docks
  
@@ -61,11 +61,11 @@ Once you reach the docks, it's time to explore to know if the place is safe. If 
 
 If there are troubles, you'll have to overcome them (crawlers, bandits, toxic waste, etc.) or dodge them and look for a vessel to reach the barge.
 
-|1d6|Complicaction at the docks|
+|1d6|Complication at the docks|
 |---|---|
 |1|**Crawlers!!!** A large mass of crawlers has become trapped in a dry dock. They're all standing still, but if they detect you, they'll become aggressive and might try to break out and attack you. You'll have to find a way to exterminate them. Some options can be scorch them or opening the locks to allow the water to enter the dock.|
-|2|**Crawlers!!** Despite being whole and well preserved, this pack of five crawlers walk on all fours, baring their fangs like dogs.|
-|3|**Crawler!** A crawler disguised as a chicken from a famous fried chicken franchise moves ramdomly. The costume doesn't let him run, but it provides protection. He drags a heavy hachet in one hand, which makes a horrible noise as it scrapes against the floor.|
+|2|**Crawlers!!** Despite being whole and well-preserved, this pack of five crawlers walk on all fours, baring their fangs like dogs.|
+|3|**Crawler!** A crawler disguised as a chicken from a famous fried chicken franchise moves randomly. The costume doesn't let him run, but it provides protection. He drags a heavy hatchet in one hand, which makes a horrible noise as it scrapes against the floor.|
 |4|A **group of raccoons with rabies**, sickened by eating crawler meat, have taken over the pier. They are aggressive and hungry.|
 |5|One of the **gas capsules** used to bomb the city floats intact in the water among the garbage on the dock. If the barge gets close, it could activate it and explode. It would have to be somehow pulled from the dock to the current take it away.|
 |6|It's your lucky day, the docks are clear.|
@@ -80,7 +80,7 @@ You don't know can be this electric light, but it can be interesting to investig
 
 It can be a trap; but no one would waste precious electricity to attract people to rob and kill them.
 
-As riparians, it's your duty investigate the lights. The plan is simple: as the barge navigates the meander, you'll cross the city, exploring the illuminated building, and be picked up on the other side of the bend in the river.
+As riparians, it's your duty to investigate the lights. The plan is simple: as the barge navigates the meander, you'll cross the city, exploring the illuminated building, and be picked up on the other side of the bend in the river.
 
 \sp
 
@@ -96,12 +96,12 @@ _**Green line:** Your route_
 
 ### Walk to the skyscraper
 
-There are many ways to reach the skyscraper and each one has its pros and cons.
+There are many ways to reach the skyscraper, and each one has its pros and cons.
 
 * **Main streets.** It's the fastest route, but it's also the most risky road.
-* **Secondary streets.** It can be the option with the best time/security ratio, but you can lost and time is important.
-* **Sewer system and underground tunnels.** There may be crawlers and certainly lots of rats, but don't expect anything else and the route is very fast.
-* **Elevated trains.** Following the train tracks wouldn't be a bad option, if it weren't for the fact that it leaves you with no options. You can only go forward or backward and setting you a trap is very easy.
+* **Secondary streets.** It can be the option with the best time/security ratio, but you can lose and time is important.
+* **Sewer system and underground tunnels.** There may be crawlers and certainly lots of rats, but don't expect anything else, and the route is very fast.
+* **Elevated trains.** Following the train tracks wouldn't be a bad option, if it weren't for the fact that it leaves you with no options. You can only go forward or backward, and setting you a trap is very easy.
 
 |1d6|Complication in the city|
 |---|---|
@@ -129,9 +129,9 @@ The building is divided in 4 zones:
 * **Main hall:** Security and access control for the rest of the building. In addition, there are a food court, newsstands, gift shops, fashion boutiques, etc.
 * **Lower floors** Offices and spare zones for employees.
 * **Middle floors** Laboratories and dinning rooms.
-* **Upper floors:** Super-luxury aparments for company executives.
+* **Upper floors:** Super-luxury apartments for company executives.
 
-In each zone you can rest and loot. The things that you loot must be adequated to the characteristics of the zone.
+In each zone you can rest and loot. The things that you loot must be adequate to the characteristics of the zone.
 
 The only way to get to the roof is by stairs. The elevators in the main hall are broken. They must have had some kind of accident, and the elevator shaft is inaccessible.
 
@@ -141,8 +141,8 @@ The only way to get to the roof is by stairs. The elevators in the main hall are
 |2|**Crawlers!!** In a elevator stuck between floors, there are half a dozen crawlers. They stick their limbs out through the narrow space between the elevator floor and the door frame. As you approach, the elevator cracks and drops a few meters, so the crawlers can now exit the elevator.|
 |3|**Crawler!** No one knows how, but there's a crawler inside a vending machine. You'd walk right past it if it weren't for the fact that the machine contains cream pastries, which, thanks to the preservatives, will still be fresh and delicious.|
 |4|Someone placed something large, like a metal cabinet, in the middle of the stairs **as a improvised barricade**. It's not easy to move due to its heavy weight. Another option is to get around it by climbing up the stairwell.|
-|5|When you open an aparment, you'll find **camping gear and supplies for weeks**. Viewing the maps and guidebooks over the table, it seems the owners were away for several weeks camping in different national parks. You can dump the contents of your backpacks and pack canned food, which will be very useful for the low supplies on the barge.|
-|6|A **security door** is blocking your way; the lock looks complicated and could take a lot of lockpicking. Destroying the door would make a lot of noise and could brings crawlers.|
+|5|When you open an apartment, you'll find **camping gear and supplies for weeks**. Viewing the maps and guidebooks over the table, it seems the owners were away for several weeks camping in different national parks. You can dump the contents of your backpacks and pack canned food, which will be very useful for the low supplies on the barge.|
+|6|A **security door** is blocking your way; the lock looks complicated and could take a lot of lockpicking. Destroying the door would make a lot of noise and could bring crawlers.|
 
 ### The roof
 
@@ -162,17 +162,17 @@ If you cut the plugged-in cables, the crawlers will no longer be controlled by t
 
 \sp
 
-If you defeat the crawlers, a pixelated face will appear on a LED screen and it begin to shout out.
+If you defeat the crawlers, a pixelated face will appear on a LED screen, and it begins to shout out.
 
 ```
-- I need my bodies. I will die without my bodies. You have sentence me to disappear!!!
+- I need my bodies. I will die without my bodies. You have sentenced me to disappear!!!
 ```
 
 All the electronic structure will begin to overheat and smoke. You better get out of the building quickly.
 
 Once you're outside the building, you see that the roof is on fire. Suddenly, the drone flies off with difficulty, unless it has been destroyed or looted.
 
-> **Adventure seed:** Now an angry, crazy AI that controls a military drone with a unlaunched missile chases your survivors all over the city.
+> **Adventure seed:** Now an angry, crazy AI that controls a military drone with an unlaunched missile chases your survivors all over the city.
 
 ## Return to the river
 
@@ -186,7 +186,7 @@ This part of the adventure is essentially the same as the stretch from the river
 
 As you approach the meeting point, you see another barge rounding the meander and speeding up, likely to ram your vessel.
 
-Their vessel carries a harpoon-shaped naval ram and, if they stick it in your barge, it will be impossible to separate and escape river up or down.
+Their vessel carries a harpoon-shaped naval ram and, if they stick it in your barge, it will be impossible to separate and escape the river up or down.
 
 You have to act quickly, or your friends will be killed by the pirates. Your advantage is that no one knows you're there; the pirates are too focused on their target to detect you.
 
