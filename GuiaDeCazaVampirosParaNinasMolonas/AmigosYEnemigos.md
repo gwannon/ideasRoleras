@@ -316,6 +316,7 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
   * Ningún tipo de escrúpulos
   * Disfruta del miedo de sus víctimas
   * Hombre del saco
+  * Child's play
 * **Estilos:** Cauto Mediocre (0), Furtivo Enorme (+4), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Enorme (+4)
 * **Proezas**
   * **Acechador:** Es un maestro moviéndose en las sombras, de forma que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.

@@ -616,7 +616,6 @@ En su taquilla del hospital, en los frigoríficos donde duerme y entre los resto
 * Informes de sobredosis que ha tratado y ha ocultado para que no salten las alarmas en la policía. Tienen post-its con los cambios que ha hecho para cuando elabora los informes para su señor.
 * Informes médicos de ataques a menores que ha robado. 
 
-
 ### El plan se reconstruye
 
 Recuerda que si Alfonse está muerto, Néstor debería en pocas semanas a buscar a un sustituto, quizás convierta algún siervo humano en vampiro y lo ponga al cargo de «Jaula». Una vez resuelto el problema principal, encargará a su nuevo siervo vampiro cazar a los asesinos de Alfonse.
@@ -706,6 +705,25 @@ La lonja cuenta con un __cierre centralizado de__ __todas las puertas y ventajas
 Su guarida es su despacho y la puerta está reforzada, ya que mueve mucho dinero y lo guarda en su despacho hasta que vienen a buscarlo del Grupo Ceballos para blanquearlo.
 
 Como buen vampiro temeroso del fuego, el sistema antiincendios está instalado y funcional. A esta hora tus cazadoras deberían saber que si quieren saber si un local es una guarida vampírica debe tener aspersores con las revisiones pasadas.
+
+### El ataque nocturno
+
+La lógica dicta que tus cazadoras tratarán de repetir sus éxitos con Verónica y Néstor. Así que se preparan y buscarán la manera de entrar en el local de Néstor. Quizás lo estudien un par de días o incluso intenten verlo por dentro. Alguna información puede sacar, pero nada claro. La idea es que vayan más envalentonadas de sus éxitos que preparadas.
+
+* Pueden tener un boceto del plano del local y alguna pista de dónde está la guarida del vampiro.
+* Pueden saber que de noche hay menos movimiento, ya que no venden droga a esas horas, pero la seguridad es la misma. Los vasallos de Néstor siempre están ahí.
+* No tienen ni idea de lo loco que está Néstor, seguramente lo verán como un vividor como Alfonse o una gótica obsesionada como Veronica, no saben lo zumbado que está y lo que puede llegar a hacer.
+* Tendrán certezas ya muy claras de que usar contra vampiro como ajo y estacas, pero Néstor tiene contramedidas de todo.
+
+#### La captura
+
+Planeen lo que planeen tus cazadoras caerán ante Néstor. Para empezar si Alfonse o Verónica han muerto, él ya sabrá que alguien está cazando vampiros en el barrio. Si Alfonse solo le ha traicionado, sigue siendo lo suficientemente paranoico como no dejas puertas sin cablear y esquinas sin cubrir sin cámaras. Néstor es perro viejo y está preparado y, a diferencia de Alfonse, no es vividor que aprecia su no-vida por encima de todo.
+
+Néstor, mientras está en el local, no para de mirar las cámaras de seguridad y en cuanto tus cazadoras pongan un pie dentro las tendrá fichadas. Acto seguido se pondrá su traje EPI negro que evita que el ajo y el agua bendita le topen y empezará a flotar por el techo del local, entre en cableado y los conductos de ventilación.
+
+> Piensa en Néstor como en un alien de película, las seguirá flotando en la oscuridad, las acechará y en cuanto una se descuide se la llevará y volverá a por el resto.
+
+\sp
 
 |PorHacer.md|
 

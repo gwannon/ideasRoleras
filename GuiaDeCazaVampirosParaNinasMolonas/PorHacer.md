@@ -1,14 +1,9 @@
-### El ataque nocturno
+Posibles trampas y trucos que puede hacerlas para capturarlas:
 
-La lógica dicta que tus cazadoras tratarán de repetir sus éxitos con Verónica y Néstor.
 
-XXX
+* XXX
 
-#### La captura
-
-Planeen lo que planeen tus cazadoras Néstor es perro viejo y está preparado y, a diferencia de Alfonse, no es vividor que aprecia su no-vida por encima de todo.
-
-XXX
+> Recuerda que Néstor tiene unos aspectos muy útiles cuando se enfrenta a menores como depredador sexual que es. Deberías aprovecharlos siempre que puedas.
 
 ### Atrapadas
 
@@ -40,8 +35,6 @@ XXX
 
 XXX
 
-\sp
-
 #### Ponerle una trampa
 
 Quizás sea la opción más interesante, ya que aúna sorpresa con que Néstor no juegue en casa como en su mazmorra o su guarida.
@@ -49,6 +42,8 @@ Quizás sea la opción más interesante, ya que aúna sorpresa con que Néstor n
 XXX
 
 Sea como sea, Néstor irá a saco y sin dar tregua y combatirá como un depredador. Irá bajándose una a una sus enemigas hasta acabar con todas y si puede, y tiene fuerzas, convertirá a la que crea más débil en vampira como castigo y para tener una nueva sierva que humillar.
+
+\sp
 
 ### ¿Qué hacemos con la droga?
 
@@ -58,6 +53,6 @@ Una vez derrotado Néstor, tus cazadoras tendrán delante de ellas un palé llen
 * Pueden esconderlo.
 * Tal vez pueden dárselo a Alfonse a ver si lo vende.
 
-Quizás lo más interesante sea esconderlo y poder usarlo, por ejemplo, para meter en problemas a la Corporación Ceballos en un futuro. Dejar un pale lleno de droga en un local del Grupo puede ser una pesadilla legal para los abogados de Lord Ceballos. 
+Quizás lo más interesante sea esconderlo y poder usarlo, por ejemplo, para meter en problemas a la Corporación Ceballos en un futuro. Dejar un palé lleno de droga en un local del Grupo puede ser una pesadilla legal para los abogados de Lord Ceballos. 
 
-No es facil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la hora de negociar o de sabotear.
+No es fácil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la hora de negociar o de sabotear.
