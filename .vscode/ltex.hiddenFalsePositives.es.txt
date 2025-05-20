@@ -24,3 +24,4 @@
 {"rule":"CONSEQUENT","sentence":"^\\QLo que se saquee tiene que ser consecuente con la zona en la que se esté.\\E$"}
 {"rule":"FORM","sentence":"^\\QEs el camino más rápido, pero también es el que más probabilidades tiene de que encontrar problemas en forma de crawlers y bandidos que quieran robaros.\\E$"}
 {"rule":"FORM","sentence":"^\\QLlevan un gran ariete en forma de arpón en la proa y se golpean con él a vuestra barcaza, será imposible separarse y huir río arriba o abajo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHasta el río, una historia de Breathless |AUTHOR|\\E$"}

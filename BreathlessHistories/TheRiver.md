@@ -20,7 +20,7 @@ In the center, there's a free area where everyone shelters during bad weather. I
 
 Defensively, the river acts like a castle moat, and boarding axes and machetes are scattered throughout the deck to repel attacks and cut ropes that could be used during boardings.
 
-If the enemies have firearmas, you can cover under deck or behind the bulwarks.
+If the enemies have firearms, you can cover under deck or behind the bulwarks.
 
 The helm is in a small cabin in the stern of the barge and you have a inflatable boat to disembark. 
 
@@ -36,7 +36,7 @@ If everything is OK, you wave up from the dock and the barge disembarks.
 
 Interestingly, you are the ones who will explore the riverbank this time before the barge docks.
 
-It's not easy to be a riparian, you risk your life and, id something goes bad, the barge doesn't try to safe you. It will wait a day in the middle of the river and if you dont appear, it will departure without you.
+It's not easy to be a riparian, you risk your life and, id something goes bad, the barge doesn't try to safe you. It will wait a day in the middle of the river and if you don't appear, it will departure without you.
 
 If you run into trouble, you'll have to find a way to reach the barge while dodging crawlers and river pirates. It's hard, but the survival in this world is it.
 
@@ -49,7 +49,7 @@ As soon as you disembark and the inflatable boat moves away, the problems begin.
 |1d6|Complication along the riverbank|
 |---|---|
 |1|**Crawlers!!!** A horde of crawlers is coming down from a side street toward you. There are too many of them to take out.|
-|2|**Crawlers!!** A dozen of crawlers tangled in ship's rigging block your way. They're slow and clumsy, some pulling at the ropes and nets to which others are snagged, but there are many of them.|
+|2|**Crawlers!!** A dozen of crawlers tangled in ship's rigging block your way. They're slows and clumsies, some pulling at the ropes and nets to which others are snagged, but there are many of them.|
 |3|**Crawler!** There's a crawler hanging from a rope; it looks like it's fallen into a trap. You should be careful; there might be more hidden traps.|
 |4|**The bridge you need to cross is in very poor condition.** Some parts have collapsed, while others are holding up as best they can. If you don't cross it, you'll have to leave the riverbank and go deeper into the city. That would mean further complications, far from your objective.|
 |5|**Metallic noises** come to you. You don't know what it could be, but it doesn't sound good. You prepare for the worst, but some joker have attached cans to a crawler, and it rattles them as it moves.|
@@ -114,11 +114,11 @@ There are many ways to reach the skyscraper and each one has its pros and cons.
 
 &nbsp;
 
-> **Adventure seed:** There's a trapper who sets traps in the city using crawlers. you should investigate because it can be a problem in the future.
+> **Adventure seed:** There's a trapper who sets traps in the city using crawlers. You should investigate because it can be a problem in the future.
 
 ### Going up
 
-As you arraive to the building, you see the logos of a megacorporation called BrainTech, and viewing the signs on the facade, it appears they were dedicated to medicine and cybernetics. It seems their headquarters were on the upper floors.
+As you arrive to the building, you see the logos of a megacorporation called BrainTech, and viewing the signs on the facade, it appears they were dedicated to medicine and cybernetics. It seems their headquarters were on the upper floors.
 
 The large glass doors are broken and the main hall has been looted, but you never know.
 
@@ -162,7 +162,7 @@ If you cut the plugged-in cables, the crawlers will no longer be controlled by t
 
 \sp
 
-If you defeat the crawlers, a pixelated face will appear on a LED screen y it begin to shout out.
+If you defeat the crawlers, a pixelated face will appear on a LED screen and it begin to shout out.
 
 ```
 - I need my bodies. I will die without my bodies. You have sentence me to disappear!!!
@@ -202,11 +202,11 @@ What if you ran a **steel cable to the other side** so the pirates would get cau
 
 If you had time to loot the **drone missile**, you might be able to program it and launch it at the river pirates.
 
-> Think of the large uncarryable items that might be in a port/shipyard and let them use them against the pirates.
+> Think about huge items that might be in a port/shipyard and let them use them against the pirates.
 
 If you stop the attack, you can reunite with your group and tell them about your adventure. Your history will be told for years around the fire bin you use to warm yourselves on cold nights.
 
-If the pirates take the barge, you'll have to flee as fast as possible. You'll have to start over and find find a new community of survivors.
+If the pirates take the barge, you'll have to flee as fast as possible. You'll have to start over and find a new community of survivors.
 
 \sp
 
