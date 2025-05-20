@@ -16,6 +16,13 @@ Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near fut
 
 Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. Seguiría la esencia del comic de Lumberjanes.
 
+
+### Cthulhung-fu
+
+Reconozco que empezó como un chiste malo de que arte marcial practican los profundos, pero una ambientación wuxia contra los mitos tendría su gracia.
+
+Jugarías con investigadores/artistas marciales enviados por el propio emperador. Derrotarías con vuestro Ki a dragones/lloigors, profundos del Yangtse o cultistas tsotso, … Mientras recorres toda China y zonas fronterizas interesantes como Tíbet, Mongolia. O si no, tramas más urbanas en Pekín.
+
 ### CyberIsis
 
 Una ambientación cyberpunk, pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
@@ -32,6 +39,8 @@ Las armas y armaduras de combate tendrían una estética rollo StarGate, vibro K
 
 Heliopolis está rodeada de desierto y solo se accede por aire (aunque durante las tormentas de arena es muy difícil), por el río y por trenes maglev que llegan de otras grandes ciudades.
 
+\sp
+
 La arena y la tecnología se llevan muy mal, así que habría reglas de como la arena arrasa con todo y como las dunas se van comiendo la ciudad.
 
 [Imagen 1](https://www.deviantart.com/mohamedsaberartist/art/Egypt-3000-908713398)
@@ -41,8 +50,6 @@ La arena y la tecnología se llevan muy mal, así que habría reglas de como la 
 El diseño del libro debería ser mezcla del libro de los muertos de La momia, rollo planchas de metal con grabados y jeroglíficos resaltados en neón, además de botones y circuitería. Bordes externos de las hojas con el nombre de la sección en cartuchos y los bordes internos de las hojas con pesadas bisagras metálicas.
 
 Parece que hay algo en [City of Mist](https://cityofmist.co/blogs/news/cairo-neuro-otherscape-rpg-kickstarter-launch)
-
-\sp
 
 ### Conan VS. Cthulhu
 
@@ -92,11 +99,11 @@ La idea sería montar una Europa con estética de 1720 pero con capacidad de via
 
 Europa sería un sistema solar donde cada planeta es una potencia europea. El Caribe y los nuevos territorios americanos serían planetas perdidos en la galaxia con ruinas o últimos reductos de otras civilizaciones, que recuerden a Mayas y Aztecas.
 
+\sp
+
 Habría barcos con motores FTL y velas solares capaces de surcar el espacio. Combates navales, campos de asteroides y agujeros negros en vez de tormentas y ciclones, etc.
 
 La inspiración principal sería El planeta del tesoro trataría de ampliar ese mundillo. Se acerca mucho a Space 1888, pero la estética sería con barcos que parecen de madera, piratas y planetas selváticos.
-
-\sp
 
 ### Fábulas de Bill Willingham
 
@@ -150,6 +157,8 @@ Siempre he visto a los antiguos muy parecidos mental, cultural y socialmente a l
 
 Sería interesante jugar con personajes antiguos en alguna época interesante como la guerra contra las semillas estelares de Cthulhu o la rebelión de shoggoths.
 
+\sp
+
 También como si fueran investigadores que tienen que evitar que un primigenio se levante, pero en vez de humanos, son antiguos.
 
 ### Pokedados
@@ -157,8 +166,6 @@ También como si fueran investigadores que tienen que evitar que un primigenio s
 Un juego para dar salida a los kilos y kilos de dados que tenemos algunos. 
 
 Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo y el tipo de dado su nivel de evolución.
-
-\sp
 
 Es una especie de juego de Pokémon, donde los dados representan Pokémons. El color es su tipo, el tamaño del dado da su tamaño en el juego y el tipo de dado su nivel de evolución.
 
@@ -214,11 +221,17 @@ Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdic
 
 Una campaña sería de agentes secretos contra organización mundial que busca dominar el mundo, pero los personajes llevan copias crutes de James Bond con sus poderes especiales crutes. Por ejemplo:
 
-* **Austin Powers** con superpoder de ligar rollo ¡¡¡Hey, nena!!!!
-* **Gru** y sus minions y sus inventos locos del Doctor Nefario.
-* **Superagente 86**
-* **Flint, agente secreto**
-* **Eggsy de Kingsman** y todos esos superagentes adolescentes como Cody Banks
+\sp
+
+**Austin Powers** con superpoder de ligar rollo ¡¡¡Hey, nena!!!!
+
+**Gru** y sus minions y sus inventos locos del Doctor Nefario.
+
+**Superagente 86**
+
+**Flint, agente secreto**
+
+**Eggsy de Kingsman** y todos esos superagentes adolescentes como Cody Banks
 
 \sp
 
@@ -552,6 +565,16 @@ Cada servidor sería un hexágono y tendría sus propios encuentros y aventuras.
 
 Los monstruos serían cosas como antivirus, firewalls y programas/hackers y los tesoros bases de datos y programas que les permitirán hacer ciertas cosas.
 
+### GUARDS
+
+La gente de Off_rol tiene una campaña que se llama Waterdeep 99, coña de la serie de humor/policiaca Brooklyn 99.
+
+La verdad que jugar con guardias de una gran ciudad del medieval fantástico tiene su punto. Desde Waterdeep hasta Minas Tirith, pasando por Barovia, Tyr, etc.
+
+Dónde tienes que acabar con peleas de taberna y no empezarlas, donde recibes soborno y no los das, donde no puedes beber en horas de servicio o eso dice el capitán.
+
+Podrás hacer cosas como pelotear a los jefes para conseguir ascensos, rellenar informes, comer roscas enanas, etc.
+
 ### Las máscaras de Draculathotep o los Mitos de Cthalcula
 
 Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigadores vampiros, licántropos, momias, etc. en vez de simples humanos. Aviso que esto lo intenté y no salió bien.
@@ -570,6 +593,8 @@ Puedes experimentar si los niveles se pierden por arriba o por abajo. Si desapar
 
 Puede ser interesante con PJ con los que han jugado otra gran campaña donde las cosas que hicieron las conocen de haberlas jugado y no simplemente que sean aventuras inventadas para la campaña.
 
+\sp
+
 ### La protectora
 
 Una campaña en algún sistema para jugar en la época actual donde tus PJ tienen una protectora de animales y juegas el día a día.
@@ -577,8 +602,6 @@ Una campaña en algún sistema para jugar en la época actual donde tus PJ tiene
 Tendría rollo de gestión consiguiendo dinero, mejorando las instalaciones, montando ferias de adopción, … y luego una parte de aventuras atrapando gatos escapados, buscando perritos perdidos, investigando a los posibles adoptantes.
 
 Puede tener una vertiente realista o puede tener toques de terror, magia oscura, monstruos que devoran mascotas.
-
-\sp
 
 ### Troupe de artistas para un mundo medieval fantástico 
 
