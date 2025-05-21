@@ -8,10 +8,10 @@ Cosas que debe tener en cuenta.
 Las vías de escape posible son:
 
 * XXX
-* Las camaras tienen un punto ciego todas, pegadas a una esquina. Si todas las cazadoras desaparecen al mismo tiempo y no se mueven harán que Ńéstor se vuelva loco y vaya a ver que pasa. Recuerda que solo podrá ir si es de noche.
+* Las cámaras tienen un punto ciego todas, pegadas a una esquina. Si todas las cazadoras desaparecen al mismo tiempo y no se mueven harán que Néstor se vuelva loco y vaya a ver que pasa. Recuerda que solo podrá ir si es de noche.
 * Si Néstor abre una celda podrían esconderse detrás de la puerta y darle esquinazo.
 
-Tus cazadoras no lo saben, pero intentar apelar a la bondad de Néstor haciendose las enfeermas o que tienen problemas, no van a funcionar, solo disfrutará más.
+Tus cazadoras no lo saben, pero intentar apelar a la bondad de Néstor haciéndose las enfermas o que tienen problemas, no van a funcionar, solo disfrutará más.
 
 #### El equipo y las pistolas de agua
 
@@ -25,7 +25,7 @@ Quiere ver la cara de las cazadoras cuando cojan las armas y al usarla contra é
 
 Lo que no sabe es que las pistolas que han comprado tus cazadoras tienen dos depósitos separados para mejorar su presión y distancia y para poder meter aguas con diferentes tintes y solo ha vaciado y rellenado uno.
 
-> Juega con este hecho a la hora de que las cazadoras y Néstor se enfrenten en los pasillos de la mazmorra. Es una cuestión todo de lo que saben y de lo que no saben y de la realidad. Tómalo como un extraño duelo en que los duelistas creen que tiene las de ganar y actuán en consecuencia, pero a la vez la información que tienen es falsa.
+> Juega con este hecho a la hora de que las cazadoras y Néstor se enfrenten en los pasillos de la mazmorra. Es una cuestión todo de lo que saben y de lo que no saben y de la realidad. Tómalo como un extraño duelo en que los duelistas creen que tiene las de ganar y actúan en consecuencia, pero a la vez la información que tienen es falsa.
 
 \sp
 

@@ -88,7 +88,7 @@ Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únic
 
 \sp
 
-### El cripi
+### El Cripi
 
 Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas más grandes, no para de moverse nerviosamente y no deja de mirar a todas partes. Es uno de los siervos más incompetentes de Alfonse (ver más adelante). Este vampiro le ha mandado observar qué pasa en el velatorio y comunicárselo.
 
@@ -151,7 +151,7 @@ _DÍA_
 
 Pueden empezar a investigar por su cuenta o en conjunto alguno de los flecos que tiene toda esta historía.
 
-* Si buscan al cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
+* Si buscan al Cripi, terminarán encontrándolo, trabaja de celador en el IML (Instituto de Medicina Legal), vamos la morgue. Podría haber interferido en la autopsia.
 * Puedes buscar en casa de Maricarmen, la policía ha quitado el precinto y si consiguen una llave o se cuelan de alguna otra manera.
 * Por último queda su despacho en el colegio, el problema es que lo compartía con «El Mordor», uno de los peores profesores del colegio.
 
@@ -163,15 +163,15 @@ Empezarán a haber rumores de que los abogados de Ernesto Lujua están mandando 
 
 El acceso a la morgue no es público y tiene bastante seguridad, con tarjeta de ID y esas cosas. 
 
-Queda muy lejos de las habilidades de tus cazadoras, pero si vigilan un par de horas verán entrar al cripi con su tarjeta en una de las puertas de servicio.
+Queda muy lejos de las habilidades de tus cazadoras, pero si vigilan un par de horas verán entrar al Cripi con su tarjeta en una de las puertas de servicio.
 
-Pueden seguir al cripi cuando salga del curro y siempre va a un disco llamada «Jaula» que está en polígono en las afueras del barrio. Parece que lleva y trae bolsas varias como si hiciera los recados para alguien. El cripi está a lo suyo y no sospechará de un grupo de niñas a no ser que hagan algo muy estúpido.
+Pueden seguir al Cripi cuando salga del curro y siempre va a un disco llamada «Jaula» que está en polígono en las afueras del barrio. Parece que lleva y trae bolsas varias como si hiciera los recados para alguien. El Cripi está a lo suyo y no sospechará de un grupo de niñas a no ser que hagan algo muy estúpido.
 
 Si intentan entrar, el portero no les dejará entrar. Es ilegal la entrada de menores.
 
 ###  El piso de Maricarmen
 
-El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra forma si desean entrar. La amable anciana que era vecina de Maricarmen tiene una copia de las llaves, pero se la dio a la policía para entrar en la casa. Se lo contará encantado a las cazadoras si la llaman a la puerta y si le dejan hablar y le aguantan la chapa les dirá que dejaron las llaves en el buzón al irse para los familiares.
+El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra manera, si desean entrar. La amable anciana que era vecina de Maricarmen tiene una copia de las llaves, pero se la dio a la policía para entrar en la casa. Se lo contará encantado a las cazadoras si la llaman a la puerta y si le dejan hablar y le aguantan la chapa les dirá que dejaron las llaves en el buzón al irse para los familiares.
 
 El piso está bien amueblado y con muebles modernos de calidad, no de Ikea. Hay una cocina moderna, un salón con un sofá comodísimo, una habitación con una cama grandísima y una segunda habitación con material de pintura, madejas de lana y agujas y otros hobbies. 
 
@@ -248,7 +248,7 @@ Entonces apareció el grupo Ceballos con una propuesta y su correspondiente sobo
 
 Ernesto podía derribar el polideportivo sin problema. Era un peligro público con serios problemas estructurales, y luego vender esos terrenos. Pero lo de los humedales se quedaba fuera de sus competencias aunque daría su voto si compraban a los políticos adecuados.
 
-A cambio quería que se deshiciera de su hermana, por ejemplo, fingiendo un suicidio. De esa forma él se quedaría con todo el control de los pisos heredados de sus padres.
+A cambio quería que se deshiciera de su hermana, por ejemplo, fingiendo un suicidio. De esa manera él se quedaría con todo el control de los pisos heredados de sus padres.
 
 Así que Alfonse fue encargado de seducirla con sus encantos vampíricos. La encontró de casualidad en la web de citas y en un par de contactos quedo con ella en su discoteca y consiguió que la invitara a su casa. En pocas semanas la tenía enganchada a elle y a sus prácticas sexo-vampíricas que la estaban dejando anémica.
 
@@ -260,7 +260,7 @@ Alfonse le propuso un trío con un amigo suyo con los mismos gustos sexuales y e
 
 Cuando se describió el cadáver, al de 48 horas, se declaró un suicidio. Su hermano tenía una coartada para esos días y Alfonse también. La policía investigó las conversaciones con Goloso22 y fueron a interrogarle siguiendo el protocolo. Tenía coartada sólida (pero falsa) para la noche del suicidio y además les dijo que habían cortado la noche anterior, eran muy diferentes, ella era mayor y no iba a funcionar.
 
-El cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pudiera descubrir la forense encargada y polis corruptos al servicio de Néstor hicieron lo suyo con las pruebas policiales. Con lo que al final se confirmó el suicidio.
+El Cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pudiera descubrir la forense encargada y polis corruptos al servicio de Néstor hicieron lo suyo con las pruebas policiales. Con lo que al final se confirmó el suicidio.
 
 ### Buscando a Goloso22
 

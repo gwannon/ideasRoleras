@@ -53,3 +53,19 @@
 {"rule":"FORM","sentence":"^\\QLas fiestas de la espuma que ocurre en la pista de baile de la planta baja son famosas y fueron una idea de Alfonse como sistema antiincendios y una forma de mojar a todos y a todo el mundo y que sea difícil provocar un incendio.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire —edited— By Valentinepsycho\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIt’s Now or Never\\E$"}
+{"rule":"PRESENT","sentence":"^\\QLa difunta está de cuerpo presente y ninguna ha visto nunca un muerto.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl DJ debería poder mirar esas hojas solo si algún adulto tiene acceso al móvil de la forma que sea.\\E$"}
+{"rule":"FORM","sentence":"^\\QAsí que Néstor ha vaciado las pistolas de agua (si habían llevado a la caza) y las ha vuelto a llenar de agua normal, de forma que son totalmente inofensivas para él.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QDon’t Be Cruel\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDon’t Be Cruel\\E$"}
+{"rule":"CARTOON","sentence":"^\\QHan metido todas sus cosas en una caja de cartón esperando que vengan a buscarlo.\\E$"}
+{"rule":"SCHOLAR","sentence":"^\\QEl despacho solo es accesible en horario escolar, así que tendrán que escaquearse de clase en una hora que «El Mordor» tenga clase también.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHosts of Angband By SpartanK42\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFront view young female dj entertaining crowd by Freepik\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEs tremendamente difícil de detectar de noche con ropa oscura, flotando y sin hacer ruido (tirada Grande +4).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIn the Ghetto\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPro gamer participating in gaming competition all night by DC Studio\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlways on My Mind\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBurning love\\E$"}
