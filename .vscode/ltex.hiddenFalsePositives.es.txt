@@ -26,3 +26,29 @@
 {"rule":"FORM","sentence":"^\\QLlevan un gran ariete en forma de arpón en la proa y se golpean con él a vuestra barcaza, será imposible separarse y huir río arriba o abajo.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHasta el río, una historia de Breathless |AUTHOR|\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPintada vanpiro esiten\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCan’t Help Falling in Love\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHeartbreak Hotel\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYou’re the Devil in Disguise\\E$"}
+{"rule":"FORM","sentence":"^\\QEn este capítulo se van a enfrentar a Eloise y Eloise va a actuar de forma diferente a lo que puedan esperar tus cazadoras.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFeria del Barrio del Pilar 2017 por Gordon Dionne\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qempezarán a jugar al UNO Vergonzoso, la que pierda cada mano debe contar una historia vergonzosa que haya vivido.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los NashB, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLas noticias del concierto serán una semana antes y podrían coincidir con decisiones burocráticas importantes como el permiso de derribo del campo de fútbol o los permisos de construcción en los humedales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCuando se vayan los periodistas «serios», vendrán los «otros» periodistas, conspiranoicos, youtubers, buleros, buscando views y likes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRecuerden ACAB All Cops Are Bastards\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qgraffiti, Santiago by duncan cumming\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStove with fire at blacksmith workshop.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFoto de casa de campo en las ruinas de Gurvan Rolland\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThere are different tools around by fxquadro\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QThere are different tools around by fxquadro\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QDiscoteca de moda, Oscura y ruidosa\nAspectos ocultos:\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QDiscoteca de moda, Oscura y ruidosa\nAspectos ocultos:\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEs _-oscura y llena de zonas reservadas fuera de la vista de todos, mientras que la pista es ruidosa, llena de gente bailando frenéticamente y con luces estroboscópicas.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QOscura, Da mucho miedo\nAspectos ocultos:\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QGrandes Eventos, No cumple las normativas de seguridad actuales\nAspectos ocultos:\\E$"}
+{"rule":"FABRIC","sentence":"^\\QLos subproductos contaminantes como plomo o mercurio se guardan en balsas estancas a la espera de ser tratadas en otras fábricas.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas fiestas de la espuma que ocurre en la pista de baile de la planta baja son famosas y fueron una idea de Alfonse como sistema antiincendios y una forma de mojar a todos y a todo el mundo y que sea difícil provocar un incendio.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire —edited— By Valentinepsycho\\E$"}

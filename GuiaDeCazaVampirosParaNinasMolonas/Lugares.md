@@ -41,7 +41,7 @@ La chimenea se puede mover, pulsando un botón escondido y da acceso a una espec
 
 \sp
 
-La seguridad no tiene armas de fuego, solo porras y tasers. Ceballos quiere saber que está protegido, pero no llamar demasiado la atención llevando más protección que el presidente del gobierno.
+La seguridad no tiene armas de fuego, solo porras y pistolas táser. Ceballos quiere saber que está protegido, pero no llamar demasiado la atención llevando más protección que el presidente del gobierno.
 
 \sinc
 
@@ -150,7 +150,7 @@ Las únicas entradas son la puerta principal y otra por detrás que da al almac�
 
 La mazmorra del Néstor es un espacio subterráneo debajo de la fundición de San Andrés. Eran unos túneles de la Guerra Civil que se cegaron y que descubrió hace unos años, mientras investigaba la compra de la vieja fundición para el Grupo Ceballos. Solo Néstor sabe como se accede a su mazmorra, de hecho, nadie sabe de sus actividades en ella.
 
-Es un largo pasillo con habitaciones 3 habitaciones a cada. Cada habitación es usada como celda, donde puede tener a sus victims durante días sobreviviendo como pueden, ya que no se preocupa de alimentarles y darles agua.
+Es un largo pasillo con habitaciones 3 habitaciones a cada. Cada habitación es usada como celda, donde puede tener a sus víctimas durante días sobreviviendo como pueden, ya que no se preocupa de alimentarles y darles agua.
 
 Cada celda tiene una cámara en el techo para vigilarla y suele pasar largas horas cada noche vigilando a los niños y niñas que tiene encerradas. No tienen ningún tipo de conducto, ni ventana, solo puede salirse por la puerta y están cerradas con llave por fuera. Se podría forzar con una tirada Vigorosa Grande (+3) o Rápida (+3) si se tiene algún tipo de cuerda, cable o así para hacer una ganzúa. Suele dejar en las celdas objetos como ropa o peluches de otras víctimas llenas de suciedad y sangre seca.
 
@@ -159,7 +159,7 @@ Cuando sus víctimas están aterrorizadas y/o desesperadas, cosa que él cree qu
 * Normalmente, se presenta como un salvador (un policía o un bombero) que viene a rescatar a la víctima de su captor. Cuando los libera empieza con tocamientos mientras tratan de huir y va aumentando la intensidad de los tocamientos cada vez más sexuales. Para cuando están a punto de escapar, los inmoviliza y los viola, terminando con sus vidas chupándoles toda la sangre.
 * La otra vertiente es presentarse como sí mismo y pedir diferentes favores sexuales que van aumentando de nivel a cambio de pequeños regalos como agua, comida o la promesa de libertad. Los tortura así durante días, hasta que un día deja la celda abierta. En cuanto salen, se dedica a cazarlos hasta que los atrapa y los mata drenándoles la sangre.
 
-Ninguna de sus víctimas tiene ninguna posibilidad ni de escapar, ni de derrotarle, ni de huir de él, pero aun así le excita esa falsa caza. Las únicas formas de salir de su mazmorra es como cadáver o si te traslada a la casa de la «Chejas» para aterrorizarte entre los cañaverales del pantano.
+Ninguna de sus víctimas tiene ninguna posibilidad ni de escapar, ni de derrotarle, ni de huir de él, pero aun así le excita esa falsa caza. Los únicos modos de salir de su mazmorra es como cadáver o si te traslada a la casa de la «Chejas» para aterrorizarte entre los cañaverales del pantano.
 
 \sp
 

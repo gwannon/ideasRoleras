@@ -6,9 +6,9 @@
 
 \conc
 
-En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de forma diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra forma diferente de afrontar el problema que suponen tus cazadoras.
+En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de forma diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra manera de afrontar el problema que suponen tus cazadoras.
 
-A partir de ahora la línea general de la aventura va a cambiar, ya no van a tener que investigar y descubrir el plan vampírico para poder desbaratarla. El plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá en forma de Nieve y finalmente de lord Ceballos. 
+A partir de ahora la línea general de la aventura va a cambiar, ya no van a tener que investigar y descubrir el plan vampírico para poder desbaratarla. El plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos. 
 
 ### La casita de chocolate
 
@@ -38,7 +38,7 @@ XXX
 
 \conc
 
-Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe que eso permitiŕa a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
+Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe que eso permitirá a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
 
 XXX
 
@@ -86,7 +86,7 @@ Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda
 
 XXX
 
-Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus cazadoras la han estudiado es facil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
+Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
 
 \sp
 
@@ -94,7 +94,7 @@ Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus
 
 ## You’re the Devil in Disguise
 
-> El asalto final era inminente, iba a ser el capullo vampírico del reino o nosotras. Habíamos ido acabando poco a poco con sus planes, pero si Lord Ceballos seguía vivo con el tiempo volvería montar un nuevo plan y joder nuestro barrio o el de otros. Pero igual que nosotros Lord Ceballos había reunido a todos sus aliados, así que no sería nada facil.
+> El asalto final era inminente, iba a ser el capullo vampírico del reino o nosotras. Habíamos ido acabando poco a poco con sus planes, pero si Lord Ceballos seguía vivo con el tiempo volvería montar un nuevo plan y joder nuestro barrio o el de otros. Pero igual que nosotros Lord Ceballos había reunido a todos sus aliados, así que no sería nada fácil.
 
 \conc
 

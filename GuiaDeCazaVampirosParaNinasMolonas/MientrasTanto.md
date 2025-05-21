@@ -68,7 +68,7 @@ Se hará _en la plaza grande_ del barrio porque la productora de los NashB, no c
 
 El concierto _será de noche_ y el barrio estará lleno hasta la bandera, coches aparcados en cualquier sitio, buses y metro colapsados, barras sirviendo alcohol en las calles, … 
 
-Es una noche perfecta para un desastre y quizás te interese para tu partida una noche de caos en que un par de vampiros jóvenes random de otras zonas de la ciudad salgan a divertirse. La poli estará sobrepasada, habrá mucho alcohol, las ambulancias no pueden pasar por los coches mal aparcados, un caos total.
+Es una noche perfecta para un desastre y quizás te interese para tu partida una noche de caos en que un par de vampiros jóvenes desconocidos de otras zonas de la ciudad salgan a divertirse. La poli estará sobrepasada, habrá mucho alcohol, las ambulancias no pueden pasar por los coches mal aparcados, un caos total.
 
 También puedes ser una noche en que tus cazadoras planeen un gran golpe a los vampiros y el concierto les dé la cobertura necesaria. Un incendio más no se va a notar.
 
@@ -116,7 +116,7 @@ Enseguida un par de polis comprados por Ceballos entrará en acción en cuanto o
 
 Lo primero que harán los dos polis será atar las manos a la espalda con unas bridas. No es que crean que pueden con ellos, es para intimidarlas creando el aspecto «retenidas».
 
-Las primeras preguntas parecerán normales, sobre sus nombres, donde viven y quiénes son sus padres, pero rápidamente se centrarán en el plan vampírico y el Grupo Ceballos. Serán preguntas realizadas con un tono más intimidatorio sobre que saben de los últimos acontecimientos, dónde estaban cuando ocurrió tal o cual evento importante. 
+Las primeras preguntas parecerán normales, sobre sus nombres, donde viven y quiénes son sus padres, pero rápidamente se centrarán en el plan vampírico y el Grupo Ceballos. Serán preguntas hechas con un tono más intimidatorio sobre que saben de los últimos acontecimientos, dónde estaban cuando ocurrió tal o cual evento importante. 
 
 Pueden mentir, pero los polis son experto en eso y juegan en casa. También pueden callarse, pero también sabe hacerte hablar.
 
@@ -166,7 +166,7 @@ Está dispuesta a escuchar, aunque sin pruebas muy muy sólidas todo lo que le d
 
 \conc
 
-Puedes hacer saltar este evento como forma de meter más presión a tu mesa. Un nuevo elemento va a obligar a tus cazadoras a tener que ser muy cuidadosas o sus actividades serán descubiertas.
+Puedes hacer saltar este evento como un modo de meter más presión a tu mesa. Un nuevo elemento va a obligar a tus cazadoras a tener que ser muy cuidadosas o sus actividades serán descubiertas.
 
 El barrio se va a llenar de furgonetas de TV y de periodistas de investigación buscando pruebas de la célula terrorista. 
 
