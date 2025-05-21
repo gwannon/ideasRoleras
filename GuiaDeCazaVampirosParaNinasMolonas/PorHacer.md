@@ -1,6 +1,23 @@
+
 ### Atrapadas
 
-Si no han conseguido huir de su trampa, acabarán en la mazmorra de Néstor. 
+Si no han conseguido huir de su trampa, acabarán en la mazmorra de Néstor, descrita en el apartado Lugares para más información.
+
+\sc
+
+```
+A partir de este punto la historia tiene momentos muy duros. Estate atento a las reacciones de tu mesa porque puede ser bastante intenso.
+```
+
+Néstor debería poder dejarlas inconscientes durante su captura. Así que despertarán esposadas y con una capucha en la cabeza, cada una en su propia celda de la mazmorra.
+
+XXX
+
+#### Las pistolas de agua
+
+Néstor juega muy duro y ha vaciado las pistolas de agua y las ha vuelto a llenar de agua normal, de forma que son totalmente inofensivas para él. Quiere ver la cara de las cazadoras cuando cojan las armas y al usarla contra él no le hagan nada. Lo que no sabe es que pistolas que han comprado tienen dos depósitos separados para mejorar su presión y distancia y para poder meter aguas con diferentes tintes y solo ha vaciado y rellenado uno.
+
+Juega con este hecho a la hora de que las cazadoras y Néstor se enfrenten en los pasillos de la mazmorra. Es una cuestión todo de lo que saben y de lo que no saben y de la realidad.
 
 XXX
 

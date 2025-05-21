@@ -150,7 +150,7 @@ Las únicas entradas son la puerta principal y otra por detrás que da al almac�
 
 La mazmorra del Néstor es un espacio subterráneo debajo de la fundición de San Andrés. Eran unos túneles de la Guerra Civil que se cegaron y que descubrió hace unos años, mientras investigaba la compra de la vieja fundición para el Grupo Ceballos. Solo Néstor sabe como se accede a su mazmorra, de hecho, nadie sabe de sus actividades en ella.
 
-Es un largo pasillo con habitaciones 3 habitaciones a cada. Cada habitación es usada como celda, donde puede tener a sus víctimas durante días sobreviviendo como pueden, ya que no se preocupa de alimentarles y darles agua.
+Es un largo pasillo con habitaciones, 3 habitaciones a cada lado. Cada habitación es usada como celda, donde puede tener a sus víctimas durante días sobreviviendo como pueden, ya que no se preocupa de alimentarles y darles agua.
 
 Cada celda tiene una cámara en el techo para vigilarla y suele pasar largas horas cada noche vigilando a los niños y niñas que tiene encerradas. No tienen ningún tipo de conducto, ni ventana, solo puede salirse por la puerta y están cerradas con llave por fuera. Se podría forzar con una tirada Vigorosa Grande (+3) o Rápida (+3) si se tiene algún tipo de cuerda, cable o así para hacer una ganzúa. Suele dejar en las celdas objetos como ropa o peluches de otras víctimas llenas de suciedad y sangre seca.
 
@@ -163,7 +163,13 @@ Ninguna de sus víctimas tiene ninguna posibilidad ni de escapar, ni de derrotar
 
 \sp
 
+Las únicas salidas posibles es por la puerta que da a la fundación y también por un desagüe general a la que se puede acceder desde una alcantarilla en el pasillo central. La puerta está blindadísima y tiene una cerradura electrónica de última generación por fuera y solo Néstor tiene el mando que lo abre.
+
+El desagüe da a los Humedales, pero hay que arrastrase unos cientos de metros por la tubería para salir. El aire está viciado y el olor es insoportable, así que deberías pedir algún tipo de tirada para superar estos problemas.
+
 \sinc
+
+&nbsp;
 
 [![Foto de casa de campo en las ruinas de Gurvan Rolland](./assests/images/pexels-gurvan-rolland-2297267-6997250.jpg "Foto de casa de campo en las ruinas de Gurvan  Rolland")](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm "Foto de casa de campo en las ruinas de Gurvan  Rolland")
 
@@ -182,14 +188,12 @@ Hoy en día unos cuantos youtubers con canales de «urbex» (exploración urbana
 
 La mayoría de historias modernas de la casa de las «Chejas» tienen una base de verdad. __Néstor la ha usado para sus macabros juegos__ __homicidas.__
 
+\sp
+
 Dejaba a los menores en la casa inconscientes y cuan se despertaban se dedicaba a acosarlos y asustarlos, cuando salían de la casa los cazaba en el pantano, para terminar matándolos y deshaciéndose del cadáver en los propios humedales.
 
 La casa está en ruinas y el techo de la segunda planta está derrumbado con lo que solo se puede estar en la primera planta que era una gran estancia común, la cocina y un baño. Es húmeda, fría y seguramente tendrás que ponerte la vacuna del tétanos tras visitarla, pero nadie la visita. Si tuvieras que deshacerte de alguien o de algo la casa de las Chejas podría ser un buen lugar.
 
-\sp
-
 También puede ser usada como una **guarida secreta por tus cazadoras**, aunque siendo sinceras, atravesar medio kilómetro de un camino de tierra muchas veces embarrado no la hace muy atrayente. Aunque como hemos dicho puede haber visitas inesperadas de curiosos, youtubers y lo peor de todo Néstor.
-
-\sc
 
 \sp
