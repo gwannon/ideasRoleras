@@ -725,6 +725,16 @@ Néstor, mientras está en el local, no para de mirar las cámaras de seguridad 
 
 \sp
 
+Posibles trampas y trucos que puede usar para capturarlas:
+
+* Si el grupo se separa, irá a por el más pequeño.
+* Tiene acceso al material de caza que usa en sus cacerías, como cloroformo, cinchas, cuerdas.
+* Imita muy bien las voces infantiles. Puede pedir auxilio como si fuera un niño asustado en la oscuridad y atraer a sus víctimas.
+* El EPI le hace que inmune a ajo y agua bendita y le da un aspecto terrorífico. Imagínate ver una máscara de gas completamente negra y solo ver los ojos relucientes de Néstor.
+* Una vez atrape a la primera cazadora, puede empezar a usarla de cebo e incluso a amenazar con matarla si no rinden.
+* El espacio del local de venta de drogas es muy sencillo, pero puedes crear zonas independientes a tu gusto mediante palés de materiales y equipo almacenado. Lo interesante es que entraron pensando que es una zona simple y diáfana (según los planos) y estos elementos van a actuar como paredes convirtiéndolo en laberinto de cajas, estanterías y palés. Néstor al flotar no sufre ese problema y se va a mover mucho más rápido por el local.
+* Recuerda que Néstor tiene unos aspectos muy útiles cuando se enfrenta a menores como depredador sexual que es. Deberías aprovecharlos siempre que puedas.
+
 |PorHacer.md|
 
 \sp

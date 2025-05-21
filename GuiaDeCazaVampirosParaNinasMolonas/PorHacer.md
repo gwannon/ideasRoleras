@@ -1,15 +1,10 @@
-Posibles trampas y trucos que puede hacerlas para capturarlas:
-
-
-* XXX
-
-> Recuerda que Néstor tiene unos aspectos muy útiles cuando se enfrenta a menores como depredador sexual que es. Deberías aprovecharlos siempre que puedas.
-
 ### Atrapadas
 
 Si no han conseguido huir de su trampa, acabarán en la mazmorra de Néstor. 
 
 XXX
+
+\sp
 
 ### Hasta arriba de mierda
 
@@ -42,8 +37,6 @@ Quizás sea la opción más interesante, ya que aúna sorpresa con que Néstor n
 XXX
 
 Sea como sea, Néstor irá a saco y sin dar tregua y combatirá como un depredador. Irá bajándose una a una sus enemigas hasta acabar con todas y si puede, y tiene fuerzas, convertirá a la que crea más débil en vampira como castigo y para tener una nueva sierva que humillar.
-
-\sp
 
 ### ¿Qué hacemos con la droga?
 
