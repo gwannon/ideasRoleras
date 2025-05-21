@@ -52,3 +52,4 @@
 {"rule":"FABRIC","sentence":"^\\QLos subproductos contaminantes como plomo o mercurio se guardan en balsas estancas a la espera de ser tratadas en otras fábricas.\\E$"}
 {"rule":"FORM","sentence":"^\\QLas fiestas de la espuma que ocurre en la pista de baile de la planta baja son famosas y fueron una idea de Alfonse como sistema antiincendios y una forma de mojar a todos y a todo el mundo y que sea difícil provocar un incendio.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire —edited— By Valentinepsycho\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
