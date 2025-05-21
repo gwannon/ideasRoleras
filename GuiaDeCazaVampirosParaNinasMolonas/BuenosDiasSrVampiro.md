@@ -723,9 +723,9 @@ Néstor, mientras está en el local, no para de mirar las cámaras de seguridad 
 
 > Piensa en Néstor como en un alien de película, las seguirá flotando en la oscuridad, las acechará y en cuanto una se descuide se la llevará y volverá a por el resto.
 
-\sp
-
 Posibles trampas y trucos que puede usar para capturarlas:
+
+\sp
 
 * Si el grupo se separa, irá a por el más pequeño.
 * Tiene acceso al material de caza que usa en sus cacerías, como cloroformo, cinchas, cuerdas.
@@ -734,6 +734,30 @@ Posibles trampas y trucos que puede usar para capturarlas:
 * Una vez atrape a la primera cazadora, puede empezar a usarla de cebo e incluso a amenazar con matarla si no rinden.
 * El espacio del local de venta de drogas es muy sencillo, pero puedes crear zonas independientes a tu gusto mediante palés de materiales y equipo almacenado. Lo interesante es que entraron pensando que es una zona simple y diáfana (según los planos) y estos elementos van a actuar como paredes convirtiéndolo en laberinto de cajas, estanterías y palés. Néstor al flotar no sufre ese problema y se va a mover mucho más rápido por el local.
 * Recuerda que Néstor tiene unos aspectos muy útiles cuando se enfrenta a menores como depredador sexual que es. Deberías aprovecharlos siempre que puedas.
+
+### Atrapadas
+
+_Día_
+
+Si no han conseguido huir de su trampa, acabarán en la mazmorra de Néstor, descrita en el apartado Lugares para más información.
+
+\sc
+
+```
+A partir de este punto la historia tiene momentos muy duros. Estate atento a las reacciones de tu mesa porque puede ser bastante intenso.
+```
+
+Néstor debería poder dejarlas inconscientes durante su captura. Así que despertarán esposadas y con una capucha en la cabeza, cada una en su propia celda de la mazmorra.
+
+[![Light from an open door by rawpixel.com](./assests/images/light-from-open-door.jpg "Light from an open door by rawpixel.com")](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm "Light from an open door by rawpixel.com")
+
+&nbsp;
+
+Néstor las registrará pero sin mucha intensidad. Su podrido cerebro quiere reservarse los tocamientos para un mejor momento. Así que cosas muy escondidas como unos dientes de ajos en las botas o alguna capsula de agua bendita no las detectará. Lo mismo con objetos pequeños de plata.
+
+Néstor las quiere dejar un día completo en el «dungeon» macabro antes de empezar con sus juegos. Las vigila desde su guarida y puede llegar allí en 5 minutos si es de noche. Si es de día o está anocheciendo, tendrá que esperar a que anochezca, pero está convencido que estarán tan atemorizadas que ni se moverán.
+
+\sp
 
 |PorHacer.md|
 
