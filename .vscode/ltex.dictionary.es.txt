@@ -67,3 +67,5 @@ Sororidad
 MoonGirl
 brgfx
 pililla
+factoria
+garrazos

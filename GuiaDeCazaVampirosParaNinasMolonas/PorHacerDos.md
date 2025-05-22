@@ -82,6 +82,28 @@ _NOCHE_
 
 \conc
 
-El único lugar un poco seguro ahora mismo para Lord Ceballos es su planta de reciclaje de San Andrés. Se podría esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver más poderoso y rabioso dentro de unos meses o años.
+El único lugar un poco seguro ahora mismo para Lord Ceballos es su planta de reciclaje de San Andrés. 
+
+Tus cazadoras podrían esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver más poderoso y rabioso dentro de unos meses o años. Tienen que remendar sus heridas, juntar el poco equipo que les quede e ir ahora mismo a la fundición a la caza final.
+
+La fundación es un lugar perfecto para una gran batalla final y puede tener dos modos según la historia. Si esta **cerrada por el derrame de productos tóxicos**, será un sitio oscuro, con óxido y herrumbre por todas partes y sombras tenebrosas allá donde mires. Si está _en funcionamiento_ es un infierno de calor, fuego y metal líquido.
 
 XXX
+
+### La factoría vacía
+
+XXX
+
+### La factoria en funcionamiento
+
+XXX
+
+### Lord Ceballos en combate
+
+Tus cazadoras han acabado con todos sus sicarios, humanos y vampíricos. Así que sabe que son duras de pelar y tremendamente capaces, así que si quiere salir vivo debe ser listo y planificador. Lord Ceballos va a tratar de usar la fundición en su beneficio. 
+
+* Los techos altos son un lugar hasta donde flotar y donde guarecerse y moverse sin ser visto. Puede subir y bajar del techo para atacar a tus cazadoras.
+* Su infravisión le permite ver mejor que tus cazadoras, mientras que ellas solo ven donde apuntan con sus linternas o lo que ilumina los fuegos y el metal burbujeante.
+* No dudará en coger a una cazadora y lanzarla dentro de una cubeta de metal fundido.
+
+Una vez entre en combate directo, ya se dejará lleva por sus instintos depredadores y ya no podrá planear nada, solo lanzar garrazos y mordiscos.
