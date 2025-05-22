@@ -69,3 +69,12 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPro gamer participating in gaming competition all night by DC Studio\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlways on My Mind\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBurning love\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFoto de llama por wisetock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWide shot of a modern and busy city with dark clouds and orange sky by wisetock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSticker Cinderella running by Elizabeth\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire Anatomy 1 By DanielGovar\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamp it up By NanFe\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTextura de graffiti de pared en blanco y negro por vector_corp\\E$"}

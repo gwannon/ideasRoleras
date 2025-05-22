@@ -20,7 +20,7 @@ Y hazme caso, _necesitas este cuaderno_ si quieres salir viva y llegar al instit
 6. **No te creas ninguna de las explicaciones de los mayores,** son todas mentiras. Están todos manipulados por los vampiros o directamente les sirven.
 7. **Te leerás Drácula todos los años**, hay que revisar las bases cada poco tiempo.
 8. **No te fíes de las redes.** Pueden ser útiles, pero ellos las controlan.
-9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mira Murati organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
+9. **Organiza y pasa a limpio todos tus apuntes.** Recuerda que se descubrió el plan de Drácula porque Mina Murray organizó y pasó a limpio las notas, cartas y apuntes de sus compis. Además, nadie puede hackearte lo que tengas en papel.
 10. ~~Sororidad~~ **Confía en tus amigas**, ellas son tu fuerza. Nunca te separes de tu panda.
 
 ```
@@ -55,7 +55,7 @@ AVISO: Este juego es sobre niñas que cazan vampiros, pero no es para menores. T
 
 \conc
 
-Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics. En cuanto a vampiros y planes tenemos desde los clásicos Tremere con planes dentro de planes de panes hasta famosísimas campañas como Drácula Dossier.
+Como habrás podido ver, este suplemento rolero no es nada original y aventuras de niños y niñas que se enfrentan a monstruos hay muchas y buenas, no solo en el mundo del rol, sino también en libros, películas, series y comics. En cuanto a vampiros y planes tenemos desde los clásicos Tremere con planes dentro de planes dentro de planes hasta famosísimas campañas como Drácula Dossier.
 
 Simplemente, es un divertimento que surgió de un personaje de «Los Greens en la ciudad». Andrómeda, la mejor amiga de Tilly, es una niña friki de las conspiraciones, cree en los hombres lagarto, en los vampiros, etc. Y pensé que si algún día jugaba a la campaña de Drácula Dossier mi PJ sería como Andrómeda. 
 
@@ -81,6 +81,8 @@ Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](ht
 
 ## Interpretando a personajes menores de edad
 
+\conc
+
 En esta aventura vais a jugar con PJ que son niñas cazavampiros, concepto que creo que puede ser muy interesante y divertido, pero hay que ser cuidadoso al tratar ciertos temas que van a aparecer en la trama de la aventura. 
 
 Además de temas como drogas, alcohol y juego + menores, van a aparecer temas más duros como maltrato y abuso infantil. Vuestras cazadoras de vampiros se van a enfrentarse a situaciones muy complicadas como maltrato por parte de policías corruptos, tendrán que enfrentarse a pederastas, peleas a muerte como todo tipo de seres de la más baja estofa donde recibirán daño o incluso podrán morir, torturas para sacarles información, etc.
@@ -95,13 +97,17 @@ Por otro lado, el romanceo y relaciones sexuales entre PJ y entre PJ y PNJ deber
 
 Creo que en lugar del tema del romance puedes optar por llevar temas de amistad. Un parte importante de la ambientación trabaja el tema de la amistad, de amigas para siempre, BBF y creo que puede ser una idea diferente y alternativa al romanceo y que puede dar mucho juego y diversión.  
 
+\sinc
+
+&nbsp;
+
 ## Participar en el proyecto
+
+\conc
 
 Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
 
 Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
-
-\conc
 
 \sp
 
@@ -170,6 +176,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Ondolemar doodle By [Elleylie](https://www.deviantart.com/elleylie/art/Ondolemar-doodle-490444153) Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License
 * Sorry I'm Not Made of Sugar (Screenshot Redraw) By [SlyLaika](https://www.deviantart.com/slylaika/art/Sorry-I-m-Not-Made-of-Sugar-Screenshot-Redraw-897706855)
 * Your heaven’s a lie By [keep-breathing](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685)
+* Light from an open door by [rawpixel.com](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm)
 
 \sp
 
