@@ -753,11 +753,37 @@ Néstor debería poder dejarlas inconscientes durante su captura. Así que despe
 
 &nbsp;
 
-Néstor las registrará pero sin mucha intensidad. Su podrido cerebro quiere reservarse los tocamientos para un mejor momento. Así que cosas muy escondidas como unos dientes de ajos en las botas o alguna capsula de agua bendita no las detectará. Lo mismo con objetos pequeños de plata.
+Néstor las registrará pero sin mucha intensidad. Su podrido cerebro quiere reservarse los tocamientos para un mejor momento. Así que cosas muy escondidas como unos dientes de ajos en las botas, alguna cápsula de agua bendita, petardos y redomitas de sangre de vampiro no las detectará. Lo mismo con objetos pequeños de plata. Móviles fuera, eso será lo primero que buscará.
 
-Néstor las quiere dejar un día completo en el «dungeon» macabro antes de empezar con sus juegos. Las vigila desde su guarida y puede llegar allí en 5 minutos si es de noche. Si es de día o está anocheciendo, tendrá que esperar a que anochezca, pero está convencido que estarán tan atemorizadas que ni se moverán.
+Néstor las quiere dejar un día completo en el «dungeon» macabro antes de empezar con sus juegos. Las vigila desde su guarida y puede llegar allí en 5 minutos si es de noche. 
 
 \sp
+
+Si es de día o está anocheciendo, tendrá que esperar a que anochezca, pero está convencido que estarán tan atemorizadas que ni se moverán.
+
+Cosas que debe tener en cuenta.
+
+* Néstor tiene experiencia reteniendo niñes y eso le da cierta ventaja porque sabe como van a actuar y razonar. Pero eso también es una gran debilidad, porque ve a tus cazadoras como niñas y no como experimentadas cazadoras con sus trucos.
+* Tus cazadoras pueden hablar a gritos entre ellas, pero todo lo podrá registrar Néstor con su sistema de vigilancia.
+* La cámara de vigilancia se ve perfectamente. De hecho está puesta así a propósito. Es muy difícil desactivarla, es muy resistente y está muy alta.
+* Ha grabado los gritos de víctimas anteriores y los reproduce en una de las celdas desocupadas aleatoriamente. La idea es aterrorizar y no dejar dormir a sus prisioneros. Eso puede confundir a tus cazadoras, pero también pueden usar esos gritos para enmascarar el ruido que hagan.
+* Néstor deja objetos sucios y ensangrentados de víctimas anteriores, así que si tus cazadoras están muy perdidas puedes darles algo de equipo como cinturones, cables de móviles, cordones, etc.
+
+Unas vías de escape posibles son:
+
+* Las cámaras tienen un punto ciego todas, pegadas a la esquina no se ve al recluso. Si todas las cazadoras desaparecen al mismo tiempo y no se mueven harán que Néstor se vuelva loco y vaya a ver que pasa. Recuerda que solo podrá ir si es de noche.
+* Otro problema que desconoce Néstor de las cámaras es que están tan bien ancladas que pueden servir de punto de anclaje para diferentes trampas. Podrían poner una trampa de lazo con cordones y cables que haga que se enrede solo y quede anclado al soporte de la cámara. No durará mucho tiempo atado, unos segundos, pero suficiente para salir y abrir la celda de otra compañera.
+* Si Néstor abre una celda no puedes esconderse detrás de la puerta porque se abren hacia afuera para no tener puntos ciegos cuando las abre.  Los reflejos de Néstor son sobrehumanos, así que tendrán que montar una distracción o tener los mismos reflejos si quieren esquivarle y salir al pasillo. Para ventaja de tus cazadoras que se abran hacia afuera hace que se sean más fácil de abrir por fuerza bruta.
+* Unos petardos no romperán la puerta, pero la pueden dañar o doblar lo suficiente, para que ayude a la hora de abrirla a la puerta o quizás estropeen el mecanismo de cierre y se abran solas. 
+* Una redomita de sangre de vampiro podría dar capacidades extras para las que Néstor no ha pensado, como flotar o suficiente fuerza para forzar una puerta.
+* Las celdas desde fuera son fáciles de abrir, solo hay que tirar de la manija. Así que, si sale una cazadora, podrá sacar al resto fácilmente.
+* Normalmente solo tiene una víctima al mismo tiempo. Con tantas cazadoras, Néstor sin querer las ha puesto en celdas contiguas y hay unos agujeros de ventilación que las conectan y por donde podrán pasarse cosas pequeñas, que quepan en la mano.
+
+\sp
+
+Tus cazadoras no lo saben, pero intentar apelar a la bondad de Néstor haciéndose las enfermas o que tienen problemas, no van a funcionar, solo disfrutará más.
+
+Si ves que la trama no avanza puedes hacer que sea de noche ya y aparezca Néstor para torturarlas. Ahí tendrán toda una serie de nuevas oportunidades de huir. 
 
 |PorHacer.md|
 
