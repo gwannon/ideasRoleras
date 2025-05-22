@@ -1,5 +1,3 @@
-\sp
-
 \sinc
 
 ## Heartbreak Hotel
@@ -48,7 +46,9 @@ XXX
 
 \sp
 
-Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto. Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
+Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
+
+Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
 
 ### Y después su CTO
 

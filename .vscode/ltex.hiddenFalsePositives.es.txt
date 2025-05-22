@@ -78,3 +78,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire Anatomy 1 By DanielGovar\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamp it up By NanFe\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTextura de graffiti de pared en blanco y negro por vector_corp\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEl problema es que se va a oler la trampa casi fijo, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.\\E$"}

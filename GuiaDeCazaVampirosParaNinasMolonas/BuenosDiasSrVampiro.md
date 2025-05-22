@@ -824,7 +824,11 @@ Esto supone que tendrán que encontrar la otra vía de escape de la mazmorra, un
 
 Lo primero será localizar la tapa de alcantarilla, que está cubierta de cemento, pero es fácilmente detectable. Usando algún tipo herramienta, un tubo arrancado, una pata de la mesa metálica, etc. podrán sacar la tapa y acceder a la tubería. 
 
-Escapar por el desagüe es fácil si no mides ni 1,30 m, pero no es agradable. A lo «Cadena Perpetua», tus cazadoras deberán romper la cañería, meterse dentro y arrastrarse entre mierda y porquería con un olor horrible durante unos 200 metros. Recuérdales que la otra opción es acabar muertas tras semanas sin comer y ni beber.
+Escapar por el desagüe es fácil si no mides ni 1,30 m, pero no es agradable. A lo «Cadena Perpetua», tus cazadoras deberán romper la cañería, meterse dentro y arrastrarse entre mierda y porquería con un olor horrible durante unos 200 metros.
+
+Es bueno recordarles que la otra opción es acabar muertas tras semanas sin comer y ni beber o porque un vampiro las ha dejado sin una gota de sangre.
+
+\sc
 
 ### Cazando al pederasta
 
@@ -835,6 +839,54 @@ En caso de que haya conseguido escapar o no haya podido evitar la fuga porque to
 Pueden afrontar esto de varias maneras, atacarle directamente con todo lo que tengan en su local, intentar cazarle en su mazmorra o ponerle alguna trampa.
 
 Sea como sea, Néstor irá a saco y sin dar tregua y combatirá como un depredador. Irá bajándose una a una sus enemigas hasta acabar con todas y si puede, y tiene fuerzas, convertirá a la que crea más débil en vampira como castigo y para tener una nueva sierva que humillar.
+
+#### Atacar su guarida
+
+Igual que en la segunda visita a Alfonse no deberían poder usar con Néstor la misma entrada que la primera vez porque ya falló antes y además Néstor estará preparado para su ataque.
+
+El ataque a Néstor debe principalmente buscar la manera de solucionar el tema del EPI. La idea más sencilla es destruirlo con fuego o ácido.
+
+El propio EPI podría ser una ventaja si tus cazadoras saben aprovecharlo. Por ejemplo, al ser estanco si conseguís meter té de ajo, agua bendita o fuego dentro del traje, será mucho más efectivo y no podrá quitárselo fácilmente.
+
+\sp
+
+Pueden tener más éxito si consigue tener a sus esbirros distraídos con una pelea de adictos o una redada de la policía (aunque difícil por los vampiros controlan a la policía).
+
+Un incendio no acabará con Néstor, recordemos su sistema antiincendios, pero puede atraer a bomberos y policía y muchos mirones. Néstor preferirá huir a sus otras guaridas como la casa de las «Chejas» y ahí podrían cazarlo.
+
+#### Atacar su mazmorra
+
+Esta opción es la más inútil de las 3. Néstor no va a la mazmorra más que cuando tiene víctimas y ahora mismo no tiene. Así que sus visitas a su sala de torturas no deberían darse mientras tenga el problema de las cazadoras sin resolver y no se dedique a saciar sus bajos instintos. 
+
+#### Ponerle una trampa
+
+Quizás sea la opción más interesante, ya que aúna el factor sorpresa con que Néstor no juegue en casa como en su mazmorra o su guarida.
+
+El problema es que se va a oler la trampa casi fijo, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.
+
+Algunas ideas básicas podrían ser:
+
+* Tratar de negociar en algún lugar donde preparen algún tipo de trampa. Desde luego, Néstor no irá desprotegido. Si consiguen pruebas de sus crímenes pueden forzarle a negociar a sacarlas a la luz. 
+* Dejarle pistas falsas sobre alguna de las cazadoras para que pueda atraparla y atraerle a una trampa.
+* Néstor no se fía de Alfonse de normal y menos después del tema de las cazadoras. De hecho, está seguro que puede estar ayudándolas para quitarle el puesto, pero puede ser una manera de atraerle a una emboscada o darle información falsa.
+
+```
+Tus cazadoras puede que quieran aprovecharse de Néstor como pederasta para cazarlo y, por ejemplo, tenderle una trampa con material sexual de ellas mismas. No deberias permitir que se trivialice este tema o parecidos. Tienes que pensar y recalcar el asco y la rabia que deben sentir al tener que hacer esto para evitar que siga matando. 
+```
+
+#### ¿Qué hacemos con la droga?
+
+Una vez derrotado Néstor, tus cazadoras tendrán delante de ellas un palé lleno de drogas de varios tipos. Tus cazadoras deberán decidir que hacen con ello. Las opciones son muchas y con diferentes consecuencias.
+
+* Pueden destruirlo.
+* Pueden esconderlo.
+* Tal vez pueden dárselo a Alfonse a ver si lo vende.
+
+\sp
+
+Quizás lo más interesante sea esconderlo y poder usarlo, por ejemplo, para meter en problemas a la Corporación Ceballos en un futuro. Dejar un palé lleno de droga en un local del Grupo puede ser una pesadilla legal para los abogados de Lord Ceballos. 
+
+No es fácil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la hora de negociar o de sabotear.
 
 |PorHacer.md|
 
