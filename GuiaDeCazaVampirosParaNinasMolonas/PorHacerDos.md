@@ -22,17 +22,21 @@ _NOCHE_
 
 Lord Ceballos ha huido al único lugar un poco seguro ahora mismo, su planta de reciclaje de San Andrés. Sabe que Néstor tenía algún tipo de refugio allí. Debe encontrarlo y refugiarse en él. Si consigue pasar el día podrá salir del país, reorganizarse con los fondos que tiene y volver a empezar.
 
-Pero antes tiene que _cerrar el ciclo_. Así mandará un mensaje a las cazadoras para enfrentarse a ellas en la fundición.
+Pero antes tiene que _cerrar el ciclo_. Así mandará un mensaje a las cazadoras para enfrentarse a ellas en la fundición. Quizás, mientras huye de su guarida, les lance el reto a gritos o hace que alguien ponga una pintada en algún sitio importante para que la lean tus cazadoras.
 
 Tus cazadoras podrían esperar a la mañana y buscarlo a plena luz del día, pero entonces seguro que alguno de sus pocos siervos vivos lo sacaría de allí antes del amanecer y se escondería para volver más poderoso y rabioso dentro de unos meses o años. Tienen que remendar sus heridas, juntar el poco equipo que les quede e ir ahora mismo a la fundición a la caza final.
 
-La fundación es un lugar perfecto para una gran batalla final y puede tener dos modos según la historia. Si esta **cerrada por el derrame de productos tóxicos**, será un sitio oscuro, con óxido y herrumbre por todas partes y sombras tenebrosas allá donde mires. Si está _en funcionamiento_ es un infierno de calor, fuego y metal líquido.
+La fundación es un lugar perfecto para una gran batalla final y puede tener dos modos según la historia. Si está **cerrada por el derrame de productos tóxicos**, será un sitio oscuro, con óxido y herrumbre por todas partes y sombras tenebrosas allá donde mires. Si está _en funcionamiento_ es un infierno de calor, fuego y metal líquido.
 
 ### La factoría vacía
 
 XXX
 
 ### La factoria en funcionamiento
+
+La factoria de noche funciona, pero con un mínimo de personal, al que Lord seguramente haya echado/asustado. No habrán tenido tiempo de apagar las máquinas, así que todos los hornos estarán en funcionamiento. 
+
+Tus cazadoras podrán cosas del entorno para buscar y en combate. Por ejemplo, tendrán soldadores a su disposición, cascos de seguridad, ...
 
 XXX
 
