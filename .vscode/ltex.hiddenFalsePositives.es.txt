@@ -79,3 +79,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamp it up By NanFe\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTextura de graffiti de pared en blanco y negro por vector_corp\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEl problema es que se va a oler la trampa casi fijo, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAún con luz, de noche es un sitio oscuro con montones de sitio en sombras desde los que saltar y atacar.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe forma que se pueden usar como trampas, como armas o como tus cazadoras vean.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSi está cerrada por el derrame de productos tóxicos, será un sitio oscuro, con óxido y herrumbre por todas partes y sombras tenebrosas allá donde mires.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAún con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.\\E$"}
