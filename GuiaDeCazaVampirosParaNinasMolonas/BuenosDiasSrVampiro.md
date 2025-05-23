@@ -890,6 +890,18 @@ Dejar un palé lleno de droga en un local del Grupo puede ser una pesadilla lega
 
 No es fácil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la hora de negociar o de sabotear.
 
+\sinc
+
+## Can’t Help Falling in Love
+
+> La _rave_ iba a ser el sitio perfecto para cazar a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
+
+\conc
+
+En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de forma diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra manera de afrontar el problema que suponen tus cazadoras.
+
+> A partir de ahora la línea general de la aventura va a cambiar, ya no van a tener que investigar y descubrir el plan vampírico para poder desbaratarla. El plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos. 
+
 |PorHacer.md|
 
 \sp
