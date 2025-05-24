@@ -177,6 +177,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Sorry I'm Not Made of Sugar (Screenshot Redraw) By [SlyLaika](https://www.deviantart.com/slylaika/art/Sorry-I-m-Not-Made-of-Sugar-Screenshot-Redraw-897706855)
 * Your heaven’s a lie By [keep-breathing](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685)
 * Light from an open door by [rawpixel.com](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm)
+* Breathtaking shot of a sunset along the street in the middle of a modern city by [wirestock](https://www.freepik.com/free-photo/breathtaking-shot-sunset-along-street-middle-modern-city_9932265.htm)
 
 \sp
 

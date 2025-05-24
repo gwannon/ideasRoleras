@@ -942,6 +942,14 @@ Lord Ceballos estará más dispuesto a tender trampas y emboscadas en esta situa
 
 \sp
 
+\sinc
+
+[![Breathtaking shot of a sunset along the street in the middle of a modern city by wirestock](./assests/images/breathtaking-shot-sunset-along-street-middle-modern-city.jpg "Breathtaking shot of a sunset along the street in the middle of a modern city by wirestock")](https://www.freepik.com/free-photo/breathtaking-shot-sunset-along-street-middle-modern-city_9932265.htm "Breathtaking shot of a sunset along the street in the middle of a modern city by wirestock")
+
+&nbsp;
+
+\conc
+
 ### La factoria en funcionamiento
 
 La factoria de noche funciona, pero con un mínimo de personal, al que Lord Ceballos seguramente haya echado/asustado. No habrán tenido tiempo de apagar las máquinas, así que todos los hornos estarán en funcionamiento.
