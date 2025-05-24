@@ -175,3 +175,15 @@
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSorry I’m Not Made of Sugar (Screenshot Redraw) By SlyLaika\\E$"}
 {"rule":"REAL","sentence":"^\\QSi encuentras una iglesia con agua bendita real, tienes un tesoro porque son muy raras.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QComposición del concepto de verdad en un escritorio de detective by freepik\\E$"}
+{"rule":"FORM","sentence":"^\\QTodo esto no solo va a marcar tu forma de vida, sino también tu ética y tu relación con la ley.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi el vampiro le quedan solo dos casillas sin tachar, está muy hambriento y pasa a su forma más brutal y animal, la forma Trash.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi el vampiro le quedan solo dos casillas sin tachar, está muy hambriento y pasa a su forma más brutal y animal, la forma Trash.\\E$"}
+{"rule":"FORM","sentence":"^\\QYa hemos hablado de que los vampiros tienen dos formas que llamo Crush y Trash.\\E$"}
+{"rule":"FORM","sentence":"^\\QPueden volver a Crush al final de la escena, excepto si pasaron a forma Trash por una consecuencia debida a la luz del Sol.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas garras y colmillos de un vampiro son unas poderosas armas, pero salen cuando pasan a su forma Trash.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn su forma Crush, sus colmillos y sus uñas apenas traspasan la piel, lo justo para hacerte sangrar y alimentarse.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas garras y colmillos de la forma Trash te dan +1 a la gravedad del daño cuando atacas con estas armas naturales.\\E$"}
+{"rule":"FORM","sentence":"^\\QAhí no podrán volver a su forma Crush hasta curar esa consecuencia.\\E$"}
+{"rule":"FORM","sentence":"^\\QOtro aspecto importante puede ser su forma de ser, como «sanguinario», «vengativo», «meticuloso y cauto».\\E$"}
+{"rule":"FORM","sentence":"^\\QComo ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.\\E$"}
+{"rule":"EL_TILDE","sentence":"^\\QSiervos de la Muerte: otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chacal o Hades el-machista-secuestra-persefones.\\E$"}

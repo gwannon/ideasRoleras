@@ -297,7 +297,7 @@ Para entender los planes de los vampiros debemos entender primero su sociedad. C
 
 Los vampiros tienen una estructura social basada en su poder y antigüedad. Estando los newbies o más débiles abajo y arriba el Lord Vampiro, con un par de niveles intermedios.
 
-Los de arriba mandan sobre los de abajo y los de abajo cuando pueden acaban con el de arriba y toman su sitio. Aquí nadie se jubila y se va a vivir a la playa LOL así que la única forma de ascender es cargándote a tu jefe (uno de los sueños de mi madre).
+Los de arriba mandan sobre los de abajo y los de abajo cuando pueden acaban con el de arriba y toman su sitio. Aquí nadie se jubila y se va a vivir a la playa LOL así que el único modo de ascender es cargándote a tu jefe (uno de los sueños de mi madre).
 
 __¿Puedes asociarte con un vampiro para cargarte a otro?__ Puedes, pero ten claro que la siguiente en su lista serás tú.
 
@@ -362,7 +362,7 @@ Frustrar planes grandes o pequeños no implica acaban con el enemigo que lo llev
 
 Por ejemplo, evitar que se cierre un centro de salud, puede granjearte la amistad de la jefa del laboratorio, que seguramente hará pruebas y análisis a las muestras que envía el anónimo salvador de su centro.
 
-> Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar las estructuras sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una forma de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
+> Recuerda que sus planes suelen ser muy mundanos y muchas veces basados en minar las estructuras sociales de ayuda, así que apoyar a los diferentes grupos que trabajan día para mejorar tu ciudad es una manera de prevención contra las actividades de los vampiros. Ir un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros. 
 
 ### Los grandes vampiros y sus grandes planes
 

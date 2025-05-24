@@ -20,7 +20,7 @@ Uno de tus tres aspectos secundarios debería ser _Soy una niña_, que refleja n
 
 Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vida en el barrio. Todo esto no solo va a marcar tu forma de vida, sino también tu ética y tu relación con la ley.
 
-**Pides la paga:** Pides a tus padres la paga todas las semanas. Es menos dinero que el resto de formas, pero es dinero muy fácil.
+**Pides la paga:** Pides a tus padres la paga todas las semanas. Es menos dinero que el resto de métodos, pero es dinero muy fácil.
 
 **Haciendo recados:** Te dedicas a hacer recados por una propina. Cargas con paquetes, llevas mensajes, etc. siempre corriendo arriba y abajo de las calles y callejuelas.
 
@@ -86,7 +86,7 @@ Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el ver
 
 **La versión vampírica de las granadas.** Estos 2 céntimos de plástico son devastadores en esos asquerosos bichejos si consigues impactarles. El problema es que son grandes y pesados y bastante frágiles. 
 
-Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con globos de agua y buscarás la forma llevar un globo con el agua de tu pistola.
+Si eres lista y hábil, sabrás adaptar tu pistola de agua para recargarla con globos de agua y buscarás la manera llevar un globo con el agua de tu pistola.
 
 \sp
 
@@ -376,7 +376,7 @@ Los poderes vampíricos son proezas propias de todos los vampíricos que normalm
 
 #### Flotar
 
-Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena forma de escapar de los peligros.
+Por __un punto de sangre__ el chupasangre puede __flotar por los aires durante una escena__. No es muy rápido flotando, va a velocidad de paseo, pero puede ponerse fuera de alcance y llegar a sitios como ventanas en el segundo o tercer piso. También es una buena manera de escapar de los peligros.
 
 #### Resistencia y velocidad vampírica
 
@@ -412,7 +412,7 @@ Los vampiros pueden ver perfectamente independientemente de las condiciones de l
 
 ### Debilidades vampíricas
 
-Pero los vampiros también tienes debilidades que son las únicas formas de hacerles daño.
+Pero los vampiros también tienes debilidades que son la única manera de hacerles daño.
 
 \sp
 
@@ -446,7 +446,7 @@ Otro aspecto importante puede ser _su forma de ser_, como «sanguinario», «ven
 
 [![Vamp it up By NanFe](./assests/images/vamp_it_up_by_nanfe_ddjnlb2-pre.jpg "vamp it up By NanFe")](https://www.deviantart.com/nanfe/art/vamp-it-up-819073694 "vamp it up By NanFe")
 
-Su _forma de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
+Su _método de liderazgo/tiranía_ también puede dar buenos aspectos a tu vampiro, frases como «solo me vas a fallar una vez» o «soy generoso con los que me sirven bien» vendrían al pelo.
 
 Suelen haber vivido muchos años, así que _algo de su pasado_ puede ser interesante, desde «veterano de la Guerra Civil» a «conquistador de la cuenca del Ucayali».
 
