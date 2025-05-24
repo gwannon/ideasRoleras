@@ -187,3 +187,27 @@
 {"rule":"FORM","sentence":"^\\QOtro aspecto importante puede ser su forma de ser, como «sanguinario», «vengativo», «meticuloso y cauto».\\E$"}
 {"rule":"FORM","sentence":"^\\QComo ya hemos visto, su forma de ser también influye en la forma de sus planes y en su ejecución.\\E$"}
 {"rule":"EL_TILDE","sentence":"^\\QSiervos de la Muerte: otra teoría es que son algún tipo de siervos de algún dios de la Muerte y el inframundo, rollo Anubis el Chacal o Hades el-machista-secuestra-persefones.\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^$"}
+{"rule":"WHITESPACE_RULE","sentence":"^$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGoat (Greatest Of All Time):\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhan estado desde siempre entre nosotros.\\E$"}
+{"rule":"FORM","sentence":"^\\QHas de ser rápida al desmantelar planes porque pueden volver a aparecer o cambiar de forma en poco tiempo, sobre todo si el vampiro te descubre y/o escapa a tu caza.\\E$"}
+{"rule":"HA_A","sentence":"^\\QDebes ser rápida porque los planes como los vampiros regeneran y, en pocas semanas, el plan desbaratado ha respawneado con una nueva skin.\\E$"}
+{"rule":"FORM","sentence":"^\\QIr un día a trabajar al huerto urbano de tu barrio, hacer carteles contra una protesta por la tala de árboles en el parque o servir comida en el comedor social son formas también de luchar contra los vampiros.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qy participarán los personajes más cripis que puedas imaginar.\\E$"}
+{"rule":"FORM","sentence":"^\\QSe defiende de nosotras de dos formas bien diferenciadas.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QPrimero descrédito social y si eso falla pasan a lo físico.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QAtaques físicos\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCuando empiezas a adentrarte en sus planes desbaratándolos y dándole problemas, es decir, cuando empiezas a truncar sus planes medios, suelen pasar al plano físico y periódicamente pueden enviar a alguien para acabar contigo.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QUna cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto.\\E$"}
+{"rule":"FORM","sentence":"^\\QSiempre que sea posible un chupasangre no se manchará las manos de sangre no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian, además se ven como pensadores maquiavélicos, no picadoras de carne.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QNo hay un patrón fijo para los chupones, pueden ser de cualquier estrato social, tener cualquier físico, cualquier profesión y cualquier ideología.\\E$"}
+{"rule":"FORM","sentence":"^\\QMuchas veces ni saben que son forma de un plan, ni que trabajan para los chupasangres.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDrácula de Bram Stoker.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCarmilla de Joseph Sheridan Le Fanu.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMuchos audiolibros de libros clásicos como Drácula de Bram Stoker.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtododevampiros.com.\\E$"}
+{"rule":"REAL","sentence":"^\\QDe todas formas, como nos enseñó Mónica del punto morado del barrio, todos caen, si aciertas en los pendientes reales.\\E$"}
+{"rule":"FORM","sentence":"^\\QDe todas formas, como nos enseñó Mónica del punto morado del barrio, todos caen, si aciertas en los pendientes reales.\\E$"}
+{"rule":"FORM","sentence":"^\\QTambién pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte a buscar una forma de conseguir dinero en vez de cazar vampiros.\\E$"}
+{"rule":"FORM","sentence":"^\\QTambién pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte a buscar una manera de conseguir dinero en vez de cazar vampiros.\\E$"}

@@ -354,7 +354,7 @@ Pero no, un vampiro tiene que cargarse las infraestructuras sociales de un barri
 
 ### ¿Cómo frustrar sus planes?
 
-La forma de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
+El modo de frustrar sus planes es avanzar poco a poco hasta llegar a su cima y al Lord Vampiro o socavarlo desde abajo para que el Lord Vampiro salga a la luz cuando su castillo de naipes empiece a caerse.
 
 Debes ser rápida porque los planes como los vampiros regeneran y, en pocas semanas, el plan desbaratado ha respawneado con una nueva skin.
 
@@ -436,7 +436,7 @@ Mi consejo es que aprendas _autodefensa_ _personal_ con el _grupo feminista de t
 
 ### Gafas de sol
 
-La forma más eficiente de no caer bajo el influjo de la mirada hipnótica de un vampiro es no mirarles a los ojos. Pero como es complicado muchas veces para matarlos, unas gafas de sol pueden ayudar.
+La manera más eficiente de no caer bajo el influjo de la mirada hipnótica de un vampiro es no mirarles a los ojos. Pero como es complicado muchas veces para matarlos, unas gafas de sol pueden ayudar.
 
 Aparte, quedas muy fachera y recuerda que el estilo está por encima de la sustance.
 
@@ -462,7 +462,7 @@ Veamos algunas tácticas:
 
 * Pueden convencer a los abusones del patio de que se ceben contigo y te cambies de colegio por otro más lejos.
 * Mover hilos para despedir o cambiar de lugar de trabajo a tus padres o tutores y que tengas que abandonar el barrio.
-* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte a buscar una forma de conseguir dinero en vez de cazar vampiros.
+* También pueden intentar quitarte las ayudas sociales que puedas estar recibiendo como forma de obligarte a buscar una manera de conseguir dinero en vez de cazar vampiros.
 * Lanzarte hate desde redes, troles de internet, cuentas e imágenes fake, incluso hacerte pornoIA.
 * Quizás hagan que te sigan peña cripi, solo para atemorizarte y tenerte en tensión.
 
