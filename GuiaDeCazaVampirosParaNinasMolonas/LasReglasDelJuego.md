@@ -44,7 +44,7 @@ Un aspecto definitorio de ti como tu joven cazavampiros es como te buscas la vid
 Alguno de los aspectos de una cazadora podría estar relacionado con su forma de ganarse la vida. Si la forma de ganarse la vida de alguien de tu mesa no se ajusta a ninguna de estas opciones, puedes evaluarla y decidir si la permites, pero no deberías aceptar aquellas que vayan en contra de los derechos de la infancia como prostitución infantil.
 ```
 
-#### En qué eres bueno en el cole?
+#### ¿En qué eres bueno en el cole?
 
 Quizás definir en que eres buena en el colegio te sirva para establecer otro de tus aspectos secundarios.
 
@@ -72,7 +72,7 @@ No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porqu
 
 ### Pistolas de agua
 
-Benditas pistolas de agua cargadas de té de ajo o de agua bendita!!! _Son tu arma más poderosa_, además de tu cerebro, contra los vampiros. Encima, cientos de personas de todo el mundo gastan un estúpido número de horas en mejorarlas y hacen tutoriales de ello :)
+¡¡¡Benditas pistolas de agua cargadas de té de ajo o de agua bendita!!! _Son tu arma más poderosa_, además de tu cerebro, contra los vampiros. Encima, cientos de personas de todo el mundo gastan un estúpido número de horas en mejorarlas y hacen tutoriales de ello :)
 
 Hay cientos de vídeos explicando como hacer más efectiva tus pistolas, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampírica que amenaza nuestros barrios y ciudades.
 

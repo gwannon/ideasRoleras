@@ -62,7 +62,7 @@ Tras esas semanas, lo puso como «noob» al servicio de Néstor, pensando que si
 
 &nbsp;
 
-Alfonse odia profundamente Néstor y está buscando una forma de acabar con él y quedarse su puesto. Así que muy posiblemente vea a tus cazadoras como una oportunidad de deshacerse de él, para luego traicionarlas luego y ganarse la confianza de Lord Ceballos y obtener el puesto de Néstor.
+Alfonse odia profundamente Néstor y está buscando una manera de acabar con él y quedarse su puesto. Así que muy posiblemente vea a tus cazadoras como una oportunidad de deshacerse de él, para luego traicionarlas luego y ganarse la confianza de Lord Ceballos y obtener el puesto de Néstor.
 
 Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bastante transgresor en sus elecciones de vestuario. Como persona no binaria juega con ello en su forma de vestir buscando siempre crear outfits rompedores y chocantes.
 
@@ -165,7 +165,7 @@ Empieza a ser mayor para la lucha directa, pero aún puede derribarte antes de q
 
 También ha mejorado su modo de ser y su educación de ser un descerebrado gritón y bravucón sin modales a ser un tipo discreto, callado y observador al que no se le escapa nada.
 
-Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA donde Lord Ceballos se lo encontró hace unos 15 años. 
+Tito tuvo una breve carrera en el circuito de MMA y fue «invitado a irse» por varios actos violentos incluso para la MMA. De hecho, fue en una gala de MMA, donde Lord Ceballos se lo encontró hace unos 15 años. 
 
 [![Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily](./assests/images/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_627829-6834.jpg "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")](https://www.freepik.com/free-photo/portrait-retro-1920s-english-arabian-business-man-wearing-dark-suit-tie-flat-cap_26284579.htm "Portrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily")
 
@@ -237,9 +237,9 @@ Si desea controlarla como hace con otras de sus víctimas, deberá buscar otras 
 \sp
 
 * **Proezas**
-  * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de forma que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
+  * **Exuda confianza:** Eloise es una consumada conquistadora sexual o amorosa, de manera que obtiene +2 a Superar de modo Llamativo cuando se relaciona con otras personas en situaciones amorosas.
   * **Rubia tonta:** Con los años aprendido a hacerse la «guapa, pero tonta» y obtiene +2 para Crear una ventaja en modo ingenioso cuando finge ser tonta, excéntrica, caprichosa o coqueta.
-  * **Influencer in progress:** Eloise pasa mucho tiempo en redes y empieza a ser conocida en redes, de forma que obtiene un +2 a Crear una ventaja en modo Llamativo cuando está un evento y puede poner mensajes en las redes.
+  * **Influencer in progress:** Eloise pasa mucho tiempo en redes y empieza a ser conocida en redes, de modo que obtiene un +2 a Crear una ventaja en modo Llamativo cuando está un evento y puede poner mensajes en las redes.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -298,7 +298,7 @@ Mientras que sus compañeros más jóvenes recomendarían sobornar a un polític
 
 \conc
 
-Néstor es el «hombre del saco» del mundo vampírico, ni sus propios compañeros chupasangres quieren estar a su lado. El aura de maldad y de crueldad que emite incomoda incluso a sus propios sirvientes y a su amo Lord Ceballos.
+Néstor es el «hombre del saco» del mundo vampírico, ni sus propios compañeros chupasangres quieren estar a su lado. El aura de maldad y de crueldad que emite incómoda incluso a sus propios sirvientes y a su amo Lord Ceballos.
 
 [![Ondolemar doodle By Elleylie](./assests/images/ondolemar_doodle_by_elleylie_d83zx4p-pre.jpg "Ondolemar doodle By Elleylie")](https://www.deviantart.com/elleylie/art/Ondolemar-doodle-490444153 "Ondolemar doodle By Elleylie")
 
@@ -319,14 +319,14 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
   * Child's play
 * **Estilos:** Cauto Mediocre (0), Furtivo Enorme (+4), Ingenioso Grande (+3), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Enorme (+4)
 * **Proezas**
-  * **Acechador:** Es un maestro moviéndose en las sombras, de forma que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.
+  * **Acechador:** Es un maestro moviéndose en las sombras, de manera que obtiene +2 al Atacar en modo Furtivo mientras está escondido especialmente entre las sombras.
 
 \sp
 
 * **Proezas**
-  * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de forma que una vez por sesión puede hacer huir de miedo a personajes secundarios. 
+  * **Atemorizador.** Con los años ha mejorado su habilidad de infundir miedo, de modo que una vez por sesión puede hacer huir de miedo a personajes secundarios. 
   * **Guerra psicología:** Es un torturador nato y ha podido practicar con decenas de víctimas indefensas, de forma que consigue un +2 a Atacar de forma Ingeniosa a sus torturados.
-  * **Guerra de bandas:** Como jefe de una red de tráfico de drogas conoce muy bien los bajos fondos del barrio, de forma que tiene +2 a Crear ventajas de forma Ingeniosa cuando trata de defender su territorio o atacar en de otras bandas.
+  * **Guerra de bandas:** Como jefe de una red de tráfico de drogas conoce muy bien los bajos fondos del barrio, de manera que tiene +2 a Crear ventajas de modo Ingenioso cuando trata de defender su territorio o atacar en de otras bandas.
 * **Capacidad de recuperación:** 3
 * **Estrés:** 1 | 2 | 3
 * **Consecuencias:** Leve 2 | Moderado 4 | Grave 6
@@ -414,7 +414,7 @@ Verónica está muy enganchada a la vida vampira, ya sentía fascinación antes 
 \sp
 
 * **Proezas**
-  * **Anatomía humana:** Sus conocimientos de anatomía le permiten alimentarse de forma más eficiente y sin llamar la atención, por lo que recibe un +2 a Superar en modo Rápido cuando se alimenta en el hospital y/o de sus pacientes.
+  * **Anatomía humana:** Sus conocimientos de anatomía le permiten alimentarse de modo más eficiente y sin llamar la atención, por lo que recibe un +2 a Superar en modo Rápido cuando se alimenta en el hospital y/o de sus pacientes.
   * **Acceso a tu cartilla de salud:** Con su acceso a las fichas médicas de la mayoría de gente del barrio puede saber muchas cosas de ti. Debido a eso recibe +2 a Generar una ventaja en modo Ingenioso al buscar información sobre una persona.
 * **Capacidad de recuperación:** X
 * **Estrés:** 1 | 2 | 3

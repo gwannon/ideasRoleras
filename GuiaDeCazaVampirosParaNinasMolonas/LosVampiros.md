@@ -107,7 +107,7 @@ El problema es que después te deja muy doblada. Y tras unos minutos terminas de
 
 No lo tengo estudiado (es puto desagradable andar haciendo pruebas), pero seguramente habrá sangres de vampiro más poderosas que otras.
 
-[![Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika](./assests/images/sorry_i_m_not_made_of_sugar__screenshot_redraw__by_slylaika_deugz1j-pre.jpg "Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika")](https://www.deviantart.com/slylaika/art/Sorry-I-m-Not-Made-of-Sugar-Screenshot-Redraw-897706855 "Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika")
+[![Sorry I’m Not Made of Sugar (Screenshot Redraw) By SlyLaika](./assests/images/sorry_i_m_not_made_of_sugar__screenshot_redraw__by_slylaika_deugz1j-pre.jpg "Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika")](https://www.deviantart.com/slylaika/art/Sorry-I-m-Not-Made-of-Sugar-Screenshot-Redraw-897706855 "Sorry I'm Not Made of Sugar (Screenshot Redraw) By SlyLaika")
 
 ### Falsas creencias
 
@@ -139,7 +139,7 @@ La imagen clásica del vampiro en un ataúd con tierra de su país de origen est
 
 Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad, tienen montado en el local un despacho donde duermen, o quizás tengan una tienda alquilada en eternas reformas en el centro comercial por donde se mueven.
 
-Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios y el hecho que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
+Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios. El hecho que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
 
 \sinc
 

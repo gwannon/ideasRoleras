@@ -14,7 +14,7 @@ _Apodo:_ Gata
 
 La calle corre por tus venas, conoces a todo el mundo, sabes todos los rumores y no te pueden engañar con ningún truco. Estás más tiempo en la calle que en tu casa y nadie te controla. Tus padres murieron hace años y tu abuela está muy mayor para controlarte.
 
-Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento inoportuno, la canción en momentos duros. Si nota que alguna amiga está de bajón, su forma le lleva a sacarte una sonrisa.
+Amirah es la alegría del grupo, es la que da vidilla, la risa en el momento inoportuno, la canción en momentos duros. Si nota que alguna amiga está de bajón, su forma de ser le lleva a sacarle una sonrisa.
 
 Amirah adora el barrio, no hay mejor sitio en el mundo. Quiere crecer y vivir en el barrio, disfrutando de sus pequeños placeres. Es donde es más feliz y por nada del mundo permitiría que alguien lo destruyera.
 
@@ -76,7 +76,7 @@ Quiere ser abogada medioambientalista y de derechos humanos y es por eso que se 
 
 \sinc
 
-### Ana Isabel «Anais» Duran
+### Ana Isabel «Anaís» Duran
 
 \conc
 
@@ -84,9 +84,9 @@ _Apodo:_ Tocón
 
 [![Che In Dublin Docklands - Street Art And Graffiti por William Murphy](./assests/images/4673901682_4679320ba7_w.jpg "Che In Dublin Docklands - Street Art And Graffiti por William Murphy")](https://www.flickr.com/photos/infomatique/4673901682 "Che In Dublin Docklands - Street Art And Graffiti por William Murphy")
 
-Anais es la mayor (por unos meses, pero cuando tienes doce años es mucho) y a la vez la líder. Ella escucha a sus compañeras tiene en cuenta los pros y los contras valorando la experiencia de cada una en el tema y toma una decisión, normalmente acertada, pero alguna vez no ha estado centrada y ha supuesto un problema para el grupo.
+Anaís es la mayor (por unos meses, pero cuando tienes doce años es mucho) y a la vez la líder. Ella escucha a sus compañeras tiene en cuenta los pros y los contras valorando la experiencia de cada una en el tema y toma una decisión, normalmente acertada, pero alguna vez no ha estado centrada y ha supuesto un problema para el grupo.
 
-Anais es la que tiene los pies más en a tierra, el ahora y el aquí son lo importante. Ni sueña con un mundo mejor como Nuria, ni tampoco flipa con la tecnología y sus aplicaciones como Sabina y desde luego no está tan centrada en la calle como Amirah. Para ella los problemas están aquí y ahora y es aquí y ahora donde deben resolverse.
+Anaís es la que tiene los pies más en a tierra, el ahora y el aquí son lo importante. Ni sueña con un mundo mejor como Nuria, ni tampoco flipa con la tecnología y sus aplicaciones como Sabina y desde luego no está tan centrada en la calle como Amirah. Para ella los problemas están aquí y ahora y es aquí y ahora donde deben resolverse.
 
 Sus madres son profesionales libres (doctora y arquitecta) y tienen bastante más dinero que el resto de la gente del Barrio. Eso no sería ningún problema si no fuese porque nunca sabe si sus amigos y amigas lo son de verdad o solo por su dinero. Eso le crea bastantes inseguridades que compensa con su carácter de líder fuerte.
 

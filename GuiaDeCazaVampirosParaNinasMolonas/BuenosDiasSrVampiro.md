@@ -448,7 +448,7 @@ En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que
 
 Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fe, el vampiro se lo quita de las manos y les ataca sin problemas.
 
-Conseguir algunos de los objetos puede ser facil, como el agua bendita o más complicada como objetos de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
+Conseguir algunos de los objetos puede ser fácil, como el agua bendita o más complicada como objetos de plata. Es tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.
 
 Todo el equipo extraño, como rifles de agua, garrafas de té de ajo y de agua bendita, crucifijos, estacas y mazas, deberán guardarlas fuera de casa así que podrían empezar a usar su guarida y quedar allí para compartir información y empezar a montar planes de acción.
 

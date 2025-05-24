@@ -1,3 +1,8 @@
+
+### Las investigaciones de Eloise
+
+XXX
+
 ### La casita de chocolate
 
 __NOCHE__
@@ -9,6 +14,8 @@ Lord Ceballos quiere acabar con los asesinos de Néstor, pero no quiere que sus 
 Por eso, va a darle la oportunidad que Eloise lleva años pidiéndole. Quizás sea algo más que una cara bonita.
 
 XXX
+
+\sp
 
 ### La noche de los goblins
 
