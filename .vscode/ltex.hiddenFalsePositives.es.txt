@@ -250,3 +250,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBugeado (Bugueado):\\E$"}
 {"rule":"REAL","sentence":"^\\QJugando al escondite con el vampiro sobre un hecho real de niños enfrentándose a un supuesto vampiro ocurrido en Glasgow en los años 50.\\E$"}
 {"rule":"FORM","sentence":"^\\QForma de decir que estás de acuerdo con algo tipo Ok.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QCuando las noticias de la muerte de Néstor y puede ser de varios días incluso semanas según como y donde haya muerto, Lord Ceballos toma medidas.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QCuando las noticias de la muerte de Néstor lleguen, y puede ser de varios días incluso semanas según como y donde haya muerto, Lord Ceballos toma medidas.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación primero dialéctica y luego a muerte.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte.\\E$"}

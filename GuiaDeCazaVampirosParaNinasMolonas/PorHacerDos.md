@@ -1,6 +1,6 @@
 \sinc
 
-## Heartbreak Hotel
+## Heartbreak Hotel 
 
 > El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
 
@@ -69,3 +69,33 @@ Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus
 \conc
 
 XXX
+
+### ¿Con qué cuenta Lord Ceballos?
+
+Como activos principales Lord Ceballos ya solo dispone de Tito y de Cova. Como secundarios, Lord Ceballos todavía cuenta con sus siervos, tanto ayudantes como guardaespaldas, y suficiente dinero para comprar equipo y algunas voluntades.
+
+XXX
+
+### Ayuda del barrio
+
+Sin el apoyo del barrio, la caza del Ceballos es imposible. Tus cazadoras necesitarán el apoyo de los colectivos del barrio, encabezados por nuestra abogada de derechos civiles preferida, Catalina. 
+
+XXX
+
+### Preparando el asalto
+
+XXX
+
+### El asalto
+
+Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto final. Puedes montar una especie de «dungeon» en el que tus cazadoras avance sala a sala acabando con lo que les echen por delante hasta llegar a la guarida de Lord Ceballos. La otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte. Por un lado tus cazadoras, por el otro Lord Ceballos, Tito y Cova.
+
+> Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
+
+Si vas a jugar todo el asalto, deberías por lo menos tratar de que por lo menos tengan que superar 3 desafíos.
+
+* **La entrada principal o de servicio:** XXX
+* **Los ascensores:** XXX
+* **La antesala a la gran sala del ático:** XXX
+
+XXX 
