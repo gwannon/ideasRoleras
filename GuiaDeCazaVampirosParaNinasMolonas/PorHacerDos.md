@@ -92,6 +92,8 @@ Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto f
 
 > Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
 
+\sp
+
 Si vas a jugar todo el asalto, deberías por lo menos tratar de que por lo menos tengan que superar 3 desafíos.
 
 * **La entrada principal o de servicio:** XXX
