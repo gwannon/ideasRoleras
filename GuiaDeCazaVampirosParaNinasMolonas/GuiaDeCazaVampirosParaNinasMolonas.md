@@ -204,7 +204,7 @@ Aquí tienes un listado de jerga más común.
 * **Crush:** Se refiere tanto a un amor platónico como a la persona que te gusta.
 * **Cringe:** Algo te genera vergüenza ajena o bochorno.
 * **Cute:** Mono en referencia a bonito, achuchable, … También puede usarse la versión japonesa kawai.
-* **De chill:** Ha sustituido al “de tranqui”.
+* **De chill:** Ha sustituido al «de tranqui».
 * **Dejar en leído:** No responderte a los mensajes.
 * **Evento canónico (Es canon):** Significa que es un momento de tu vida que no puedes cambiar y que te define para siempre.
 * **Exposear:** Alguien exposeado es alguien expuesto, que le han pillado en una situación comprometida.
@@ -233,7 +233,7 @@ Aquí tienes un listado de jerga más común.
 * **Servir coño:** Cuando alguien que ha hecho algo muy bien.
 * **Shippeo:** Imaginar y querer que dos personas mantengan una relación amorosa.
 * **Siete veinticuatro:** Todo el rato. 24 horas al día, 7 días a la semana.
-* **Stalkear:** Revisar de forma obsesiva y oculta los perfiles en redes de otra persona.
+* **Stalkear:** Revisar de manera obsesiva y oculta los perfiles en redes de otra persona.
 * **Traer té:** Tener algo interesante que contar.
 * **Tryhardear:** No rendirse.
 * **Ubícate:** Si alguien te lo dice, quiere decir que te pongas al día de algo que está pasando ahora mismo.

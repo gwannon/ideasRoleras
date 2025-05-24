@@ -55,7 +55,7 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 
 El barrio está poblado de personajes secundarios que tienen sus vidas y sus historias y que pueden ayudarte o entorpecerte en tu lucha contra los vampiros.
 
-* _Samuel:_ Psicólogo new age. Plasta pero bienintencionado.
+* _Samuel:_ Psicólogo «new age». Plasta pero bienintencionado.
 * _«El Mordor»:_ El peor profesor de la historia y la prehistoria.
 
 \conc
@@ -118,7 +118,7 @@ Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental as�
 
 ### Samuel, el psicólogo del colegio
 
-* Psicólogo new age
+* Psicólogo «new age»
 * **Bueno (+2) en:** Interpretando a las personas, Charlatanería
 * **Malo (-2) en:** Deporte, Conducir
 * **Estrés:** Nada (cae al primer golpe)
@@ -189,7 +189,7 @@ El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene 
 
 \sp
 
-* **Carpeta documentos:** hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua». No parece que haya pagos de hipotecas o similares.
+* **Carpeta de documentos:** hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua». No parece que haya pagos de hipotecas o similares.
 
 ### El despacho
 
@@ -268,7 +268,7 @@ El único hilo del que tirar es Goloso22 y lo único que tienen de Goloso22 es u
 
 Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo. Si siguieron al Cripi, ya les sonará el lugar y las piezas empezarán a encajar.
 
-Alfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de el mismo en otra cuenta para encontrar sexo casual con succión de sangre.
+Alfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de él mismo en otra cuenta para encontrar sexo casual con succión de sangre.
 
 Si se hacen la cuenta en la web de citas y ponen un perfil como el de Maricarmen, no funcionará. Lo de Maricarmen fue un encargo, no entraba en sus gustos.
 
@@ -294,7 +294,7 @@ Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajer�
 
 \conc
 
-Hay varias formas de conseguir llegar a localizar a Alfonse en la «Jaula».
+Hay varias maneras de conseguir llegar a localizar a Alfonse en la «Jaula».
 
 Si intentan la cita, debes dejarles claro que por mucho que quieran no pasan por mayores y aunque lo consiguieran por cosas de sus cazadoras, no le interesará a Alfonse nada con ellas, se reirá un poco de ellas y de sí misme y las echará del bar. No es como Néstor y además los niños tienen poca sangre.
 
@@ -444,7 +444,7 @@ Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poc
 
 > __Invéntate un nombre para__ __el Youtuber__ como «VanHernanding» «VampireHuntressVallekas» y úsalo en frase como «Si recuerdas el último directo de VampireHuntressVallekas, la formula para el té de ajo es de una cabeza de ajo por cada litro de agua». Quizás hasta puedan dejarle comentarios en sus directos y que este les responda. 
 
-En la sección «Cómo matarlos?» tienes todas las formas de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
+En la sección «Cómo matarlos?» tienes todos los modos de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
 
 Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fe, el vampiro se lo quita de las manos y les ataca sin problemas.
 
@@ -458,7 +458,7 @@ Mientras se preparan para la caza, puedes meter algún encuentro con el Cripi. A
 
 \sp
 
-Así que puedes hacer un par de encuentros en la puerta del cole a la entrada o la salida. No las va encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.
+Así que puedes hacer un par de encuentros en la puerta del cole a la entrada o la salida. No las van a encontrar porque tiene muy pocas pistas, pero es bueno para añadir tensión, que se sientan acorraladas y tengan que actuar.
 
 ### La primera caza
 
@@ -470,7 +470,7 @@ _NOCHE_
 
 Con toda la información recogida y el equipo preparado tendrán que pensar un plan de acción que solucione un gran problema, el vampiro está avisado, sabe que alguien ha entrado en su «sancta sanctorum» y habrá puesto remedio mejorando la seguridad.
 
-Como DJ no deberías dejarles entrar de la misma forma que la primera vez a no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
+Como DJ no deberías dejarles entrar del mismo modo que la primera vez a no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
 
 Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad o algún tipo de alarma.
 
@@ -574,7 +574,7 @@ Si siguen alguna de estas pistas, deberían encaminarse a alguno de los centros 
 
 Alfonse no es el único vampiro noob al servicio de Néstor. También tiene a Verónica, una doctora de urgencias nocturnas que tiene la capacidad de meter mano en los ambulatorios y están saboteando los dos centros médicos del barrio con diversas acciones.
 
-* Está cambiando las cita continuamente de personas con problemas de movilidad de forma que sea imposible aparecer al final.
+* Está cambiando las cita continuamente de personas con problemas de movilidad, de forma que sea imposible aparecer al final.
 * Crea citas fantasma para llenar los horarios del personal médico a las que nunca acude nadie.
 * Ha saboteado varios equipos fundamentales como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
 * Hace desaparecer pruebas y resultados para obligar a repetirlas.
@@ -588,13 +588,13 @@ Verónica tiene a su servicio un par de celadores de noche que le sirven incondi
 
 #### Descubrir a Verónica 
 
-La forma principal de descubrir todo el tinglado de Verónica es tener que ir a urgencias del hospital general del barrio.
+La manera principal de descubrir todo el tinglado de Verónica es tener que ir a urgencias del hospital general del barrio.
 
 \sp
 
 Puede haber varias formas de acabar en el hospital. Si van a curarse heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
 
-Otra forma es que vayan al hospital por alguna razón y la pillen alimentándose de algún paciente. No tiene que ser muy evidente, pero por lo menos sospechoso.
+Otra manera es que vayan al hospital por alguna razón y la pillen alimentándose de algún paciente. No tiene que ser muy evidente, pero por lo menos sospechoso.
 
 Recuerda también que Verónica está creando muchos problemas en los centros de salud y eso pueda afectar a personas mayores o de salud delicada. Tus cazadoras, tal vez, terminan en urgencias porque su yaya ha tenido un problema, ya que le han retrasado la cita de la diálisis varias veces gracias a Verónica y ha tenido una crisis.
 
@@ -604,7 +604,7 @@ Deberían tener ya formas de ver si es una vampira, y deberán ingeniárselas pa
 
 Si necesitan excusas para ir al hospital con asiduidad, pueden apuntarse a programas de acompañamiento de mayores solos, o quizás tengan una amiga en la planta de oncología, por poner unos ejemplos. __Sé respetuoso con estos temas y respeta las__ __decisiones de la mesa si no están cómodos.__
 
-Una vez confirmen que es una vampira, deberán buscar la forma de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
+Una vez confirmen que es una vampira, deberán buscar la manera de seguirla y espiarla por el hospital hasta encontrar donde tiene su guarida, un almacén en el sótano donde guardan cámara frigoríficas viejas que solo usan en caso de quedarse sin sitio en la morgue.
 
 #### Cazar a Verónica
 
@@ -654,7 +654,7 @@ Catalina tratará de que la ayuden a recoger firmas y si les ofrecen entrar y ju
 
 ## Burning love
 
-> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Hasta que llego Néstor. Con Néstor aprendimos lo que era el auténtico mal.
+> Hasta ahora nuestra historia había sido una típica aventura de película infantil, carreras, escaramuzas, mentir a padres y profesores y escapar de los malos para hacérselo pagar con creces. Con Néstor aprendimos lo que era el auténtico mal.
 
 \conc
 
@@ -682,7 +682,7 @@ De esta manera las desapariciones les pondrán en la pista de la droga y esta, a
 
 ### El plan de Néstor
 
-Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba gentrificar el barrio y convertirlo en un sitio de fiesta y borrachera y con Verónica joder la sanidad local. Pero su plan es más amplio y también está llenando el barrio de droga, con su consecuente delincuencia y violencia.
+Néstor tiene una misión, deprimir el barrio y echar a sus vecinos. Con Alfonse buscaba gentrificar el barrio y convertirlo en un sitio de fiesta y borrachera y con Verónica joder la sanidad local. Pero su plan es más amplio y también está llenando el barrio de droga, con su consiguiente delincuencia y violencia.
 
 Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, los precios de la vivienda bajarán y él podrá comprar edificios enteros. 
 
@@ -712,7 +712,7 @@ La lógica dicta que tus cazadoras tratarán de repetir sus éxitos con Verónic
 
 * Pueden tener un boceto del plano del local y alguna pista de dónde está la guarida del vampiro.
 * Pueden saber que de noche hay menos movimiento, ya que no venden droga a esas horas, pero la seguridad es la misma. Los vasallos de Néstor siempre están ahí.
-* No tienen ni idea de lo loco que está Néstor, seguramente lo verán como un vividor como Alfonse o una gótica obsesionada como Veronica, no saben lo zumbado que está y lo que puede llegar a hacer.
+* No tienen ni idea de lo loco que está Néstor, seguramente lo verán como un vividor como Alfonse o una gótica obsesionada como Verónica, no saben lo zumbado que está y lo que puede llegar a hacer.
 * Tendrán certezas ya muy claras de que usar contra vampiro como ajo y estacas, pero Néstor tiene contramedidas de todo.
 
 #### La captura
@@ -976,7 +976,7 @@ Una vez entre en combate directo, ya se dejará lleva por sus instintos depredad
 
 ## Blue Suede Shoes
 
-> La amenaza de Lord Ceballos había sido neutralizada. Qué Narices!!!!! Le habíamos dado una paliza a todos los niveles de la existencia y enviado al infierno de una patada en el culo. Pero y ahora ¿qué? 
+> La amenaza de Lord Ceballos había sido neutralizada. ¡¡¡¡¡Qué Narices!!!!! Le habíamos dado una paliza a todos los niveles de la existencia y enviado al infierno de una patada en el culo. Pero y ahora ¿qué? 
 
 \conc
 
@@ -989,7 +989,7 @@ Las aventuras de tus cazadoras, no tienen por qué acabarse con la muerte de Lor
 
 Además, podemos meter nuevos elementos que den juego a tus partidas.
 
-* __¿Quién dijo que tus jugadoras eran las__ __únicas cazadoras de vampiros?__ Quizás se encuentren con otras cazadoras como ellas. Pueden que tengan otros métodos de trabajo o su forma de cazar sea radicalmente opuestas y acaben enfrentadas. También pueden encontrarse con un grupo de viejos cazavampiros que las tomen como becarias y que las entrenen.
+* __¿Quién dijo que tus jugadoras eran las__ __únicas cazadoras de vampiros?__ Quizás se encuentren con otras cazadoras como ellas. Pueden que tengan otros métodos de trabajo o sus métodos de cazar sea radicalmente opuestas y acaben enfrentadas. También pueden encontrarse con un grupo de viejos cazavampiros que las tomen como becarias y que las entrenen.
 * __Tal vez hay otras clases de vampiros.__ Puede que en otras partes los vampiros sean diferentes con diferentes poderes y debilidades. Sé creativo y podrás ofrecerle a tu mesa un nuevo reto completamente original.
 * __¿Y si hay otros no-muertos?__ Si hay vampiros porque no podría haber otros no-muertos. Las posibilidades son muchas. Hablamos de momias que llevan miles de años controlando nuestro mundo, zombis inteligentes devoradores de cerebros, nigromantes que juegan con la muerte y los muertos, …
 
