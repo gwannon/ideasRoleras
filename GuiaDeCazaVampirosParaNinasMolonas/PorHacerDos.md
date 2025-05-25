@@ -80,6 +80,10 @@ XXX
 
 Sin el apoyo del barrio, la caza del Ceballos es imposible. Tus cazadoras necesitarán el apoyo de los colectivos del barrio, encabezados por nuestra abogada de derechos civiles preferida, Catalina. 
 
+Algunas asociaciones a las que pueden haber ayudado:
+
+* Grupos vecinales antidrogas.
+
 XXX
 
 ### Preparando el asalto
