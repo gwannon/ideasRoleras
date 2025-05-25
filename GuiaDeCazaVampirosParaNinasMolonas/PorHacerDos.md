@@ -101,3 +101,15 @@ Si vas a jugar todo el asalto, deberías por lo menos tratar de que por lo menos
 * **La antesala a la gran sala del ático:** XXX
 
 XXX 
+
+Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante el asalto y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
+
+XXX
+
+Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
+
+Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
+
+Lord Ceballos solo quiere disfrutar del espectáculo, sentado en su trono. XXX
+
+XXX

@@ -254,3 +254,4 @@
 {"rule":"NOTICE","sentence":"^\\QCuando las noticias de la muerte de Néstor lleguen, y puede ser de varios días incluso semanas según como y donde haya muerto, Lord Ceballos toma medidas.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación primero dialéctica y luego a muerte.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoney, money\\E$"}

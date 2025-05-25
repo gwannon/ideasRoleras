@@ -672,6 +672,12 @@ Si empiezan a investigar el tema de la droga, si mucho problema les llevarán a 
 
 Puede que alguno de sus compañeros sea un camello menor o algún familiar este enganchado. Por unos pocos euros cantarán todo lo que necesitan saber para dar con la lonja.
 
+También pueden hablar con los colectivos antidroga del barrio que les hablarán de la increíble subida del consumo de drogas en el barrio en muy pocos años.
+
+Por su experiencia no es algo normal y está claro que hay intereses ocultos en llenar las calles de drogas.
+
+Puede ser un buen momento en que empiecen a ver a Catalina Faroes y que les vaya sonando su cara.
+
 ### Si investigan las desapariciones de niñes
 
 Si investigan el tema de las desapariciones, pueden ver que muchos de ellos eran consumidores menores de drogas blandas con lo que al acudir a la lonja entran en su radar. Además sus camellos suelen informarle de este tipo de clientes.
@@ -688,15 +694,16 @@ Si conseguían convertir el barrio en un narco barrio, la gente querrá irse, lo
 
 El toque maestro será hacer aparecer al Grupo Ceballos como unos benefactores que van a salvar a un barrio deprimido levantándolo con inversiones, puestos de trabajo y nuevas construcciones.
 
+\sp
+
 Mientras que parece que apoyan al barrio, en realidad lo irán comprando y troceando poco a poco y desmontando la estructuras sociales de apoyo que hay montadas.
+
 
 ### El almacén
 
 Néstor tiene varios puntos de venta en el barrio, desde camellos pateando las calles ofreciendo su mercancía hasta dos narcopisos. Pero la cantidad de droga que hay en esos puntos no es muy grave. La mayor parte de la droga la tiene en un almacén. 
 
 El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida que está bajo el local. 
-
-\sp
 
 Además está entrando pequeños camellos todo el tiempo a conseguir más material y entregar dinero. De normal, tanto movimiento atraería la atención de las fuerzas de seguridad si no fuera porque están compradas.
 
@@ -717,15 +724,17 @@ La lógica dicta que tus cazadoras tratarán de repetir sus éxitos con Verónic
 
 #### La captura
 
-Planeen lo que planeen tus cazadoras caerán ante Néstor. Para empezar si Alfonse o Verónica han muerto, él ya sabrá que alguien está cazando vampiros en el barrio. Si Alfonse solo le ha traicionado, sigue siendo lo suficientemente paranoico como no dejas puertas sin cablear y esquinas sin cubrir sin cámaras. Néstor es perro viejo y está preparado y, a diferencia de Alfonse, no es vividor que aprecia su no-vida por encima de todo.
+Planeen lo que planeen tus cazadoras caerán ante Néstor. Para empezar si Alfonse o Verónica han muerto, él ya sabrá que alguien está cazando vampiros en el barrio. 
+
+Si Alfonse solo le ha traicionado, sigue siendo lo suficientemente paranoico como no dejas puertas sin cablear y esquinas sin cubrir sin cámaras. Néstor es perro viejo y está preparado y, a diferencia de Alfonse, no es vividor que aprecia su no-vida por encima de todo.
+
+\sp
 
 Néstor, mientras está en el local, no para de mirar las cámaras de seguridad y en cuanto tus cazadoras pongan un pie dentro las tendrá fichadas. Acto seguido se pondrá su traje EPI negro que evita que el ajo y el agua bendita le topen y empezará a flotar por el techo del local, entre en cableado y los conductos de ventilación.
 
 > Piensa en Néstor como en un alien de película, las seguirá flotando en la oscuridad, las acechará y en cuanto una se descuide se la llevará y volverá a por el resto.
 
 Posibles trampas y trucos que puede usar para capturarlas:
-
-\sp
 
 * Si el grupo se separa, irá a por el más pequeño.
 * Tiene acceso al material de caza que usa en sus cacerías, como cloroformo, cinchas, cuerdas.
@@ -735,29 +744,25 @@ Posibles trampas y trucos que puede usar para capturarlas:
 * El espacio del local de venta de drogas es muy sencillo, pero puedes crear zonas independientes a tu gusto mediante palés de materiales y equipo almacenado. Lo interesante es que entraron pensando que es una zona simple y diáfana (según los planos) y estos elementos van a actuar como paredes convirtiéndolo en laberinto de cajas, estanterías y palés. Néstor al flotar no sufre ese problema y se va a mover mucho más rápido por el local.
 * Recuerda que Néstor tiene unos aspectos muy útiles cuando se enfrenta a menores como depredador sexual que es. Deberías aprovecharlos siempre que puedas.
 
+[![Light from an open door by rawpixel.com](./assests/images/light-from-open-door.jpg "Light from an open door by rawpixel.com")](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm "Light from an open door by rawpixel.com")
+
 ### Atrapadas
 
 _Día_
 
 Si no han conseguido huir de su trampa, acabarán en la mazmorra de Néstor, descrita en el apartado Lugares para más información.
 
-\sc
-
 ```
 A partir de este punto la historia tiene momentos muy duros. Estate atento a las reacciones de tu mesa porque puede ser bastante intenso.
 ```
 
+\sp
+
 Néstor debería poder dejarlas inconscientes durante su captura. Así que _despertarán_ _esposadas y con una capucha en la cabeza_, cada una en su propia celda de la mazmorra.
-
-[![Light from an open door by rawpixel.com](./assests/images/light-from-open-door.jpg "Light from an open door by rawpixel.com")](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm "Light from an open door by rawpixel.com")
-
-&nbsp;
 
 Néstor las registrará pero sin mucha intensidad. Su podrido cerebro quiere reservarse los tocamientos para un mejor momento. Así que **cosas muy escondidas** como unos dientes de ajos en las botas, alguna cápsula de agua bendita, petardos y redomitas de sangre de vampiro **no las detectará**. Lo mismo con objetos pequeños de plata. Móviles fuera, eso será lo primero que buscará.
 
 Néstor las quiere dejar un día completo en el «dungeon» macabro antes de empezar con sus juegos. Las vigila desde su guarida y puede llegar allí en 5 minutos si es de noche. 
-
-\sp
 
 Si es de día o está anocheciendo, tendrá que esperar a que anochezca, pero está convencido que estarán tan atemorizadas que ni se moverán.
 
@@ -774,12 +779,13 @@ Unas vías de escape posibles son:
 * Las cámaras tienen un punto ciego todas, pegadas a la esquina no se ve al recluso. Si todas las cazadoras desaparecen al mismo tiempo y no se mueven harán que Néstor se vuelva loco y vaya a ver que pasa. Recuerda que solo podrá ir si es de noche.
 * Otro problema que desconoce Néstor de las cámaras es que están tan bien ancladas que pueden servir de punto de anclaje para diferentes trampas. Podrían poner una trampa de lazo con cordones y cables que haga que se enrede solo y quede anclado al soporte de la cámara. No durará mucho tiempo atado, unos segundos, pero suficiente para salir y abrir la celda de otra compañera.
 * Si Néstor abre una celda no puedes esconderse detrás de la puerta porque se abren hacia afuera para no tener puntos ciegos cuando las abre.  Los reflejos de Néstor son sobrehumanos, así que tendrán que montar una distracción o tener los mismos reflejos si quieren esquivarle y salir al pasillo. Para ventaja de tus cazadoras que se abran hacia afuera hace que se sean más fácil de abrir por fuerza bruta.
+
+\sp
+
 * Unos petardos no romperán la puerta, pero la pueden dañar o doblar lo suficiente, para que ayude a la hora de abrirla a la puerta o quizás estropeen el mecanismo de cierre y se abran solas. 
 * Una redomita de sangre de vampiro podría dar capacidades extras para las que Néstor no ha pensado, como flotar o suficiente fuerza para forzar una puerta.
 * Las celdas desde fuera son fáciles de abrir, solo hay que tirar de la manija. Así que, si sale una cazadora, podrá sacar al resto fácilmente.
 * Normalmente solo tiene una víctima al mismo tiempo. Con tantas cazadoras, Néstor sin querer las ha puesto en celdas contiguas y hay unos agujeros de ventilación que las conectan y por donde podrán pasarse cosas pequeñas, que quepan en la mano.
-
-\sp
 
 Tus cazadoras no lo saben, pero intentar apelar a la bondad de Néstor haciéndose las enfermas o que tienen problemas, no van a funcionar, solo disfrutará más.
 
@@ -804,13 +810,13 @@ Suele usarlo como pruebas/trampas a sus víctimas. Les deja robarle algo de equi
 
 Así que _Néstor ha vaciado las pistolas de agua_ (si habían llevado a la caza) y las ha vuelto a llenar de agua normal, de forma que son totalmente inofensivas para él.
 
+\sp
+
 Quiere ver la cara de las cazadoras cuando cojan las armas y al usarla contra él no le hagan nada. De hecho, esto hará que vaya sin su EPI, lo cual le hará vulnerable a ataques con agua bendita y ajo.
 
 Lo que no sabe es que las pistolas que han comprado tus cazadoras tienen dos depósitos separados para mejorar su presión y distancia y para poder meter aguas con diferentes tintes y solo ha vaciado y rellenado uno.
 
 > Juega con este hecho a la hora de que las cazadoras y Néstor se enfrenten en los pasillos de la mazmorra. Es una cuestión todo de lo que saben y de lo que no saben y de la realidad. Tómalo como un extraño duelo en que los duelistas creen que tiene las de ganar y actúan en consecuencia, pero a la vez la información que tienen es falsa.
-
-\sp
 
 Otras cosas que pueden fallarle son linternas de rayos UV. Si no pone claramente en la linterna que son UV, lo dejará como equipo inocuo y tus cazadoras podrán cogerlo de la mesa.
 
@@ -828,13 +834,13 @@ Escapar por el desagüe es fácil si no mides ni 1,30 m, pero no es agradable.
 
 Es bueno recordarles que la otra opción es acabar muertas tras semanas sin comer y ni beber o porque un vampiro las ha dejado sin una gota de sangre.
 
-\sc
-
 ### Cazando al pederasta
 
 Después de la experiencia de la mazmorra, puede que tus cazadoras hayan matado a Néstor o puede que no. 
 
 En caso de que haya conseguido escapar o no haya podido evitar la fuga porque todavía era de noche y no podía salir de su guarida, tus cazadoras deberían estar ansiosas de volver a la guarida de Néstor y esta vez estarán preparadas. Deberían querer darle su merecido a Néstor y asegurarse de que no vuelva a tocar a ninguna niña, niño o niñe.
+
+\sp
 
 Pueden afrontar esto de varias maneras, atacarle directamente con todo lo que tengan en su local, intentar cazarle en su mazmorra o ponerle alguna trampa.
 
@@ -848,15 +854,11 @@ El ataque a Néstor debe principalmente buscar la manera de solucionar el tema d
 
 El propio EPI podría ser una ventaja si tus cazadoras saben aprovecharlo. Por ejemplo, al ser estanco si conseguís meter té de ajo, agua bendita o fuego dentro del traje, será mucho más efectivo y no podrá quitárselo fácilmente.
 
-\sp
-
 Pueden tener más éxito si consigue tener a sus esbirros distraídos con una pelea de adictos o una redada de la policía (aunque difícil por los vampiros controlan a la policía).
 
 Un incendio no acabará con Néstor, recordemos su sistema antiincendios, pero puede atraer a bomberos y policía y muchos mirones. Néstor preferirá huir a sus otras guaridas como la casa de las «Chejas» y ahí podrían cazarlo.
 
-#### Atacar su mazmorra
 
-Esta opción es la más inútil de las 3. Néstor no va a la mazmorra más que cuando tiene víctimas y ahora mismo no tiene. Así que sus visitas a su sala de torturas no deberían darse mientras tenga el problema de las cazadoras sin resolver y no se dedique a saciar sus bajos instintos. 
 
 #### Ponerle una trampa
 
@@ -864,19 +866,34 @@ Quizás sea la opción más interesante, ya que aúna el factor sorpresa con que
 
 El problema es que se va a oler la trampa casi fijo, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.
 
-Algunas ideas básicas podrían ser:
-
-* Tratar de negociar en algún lugar donde preparen algún tipo de trampa. Desde luego, Néstor no irá desprotegido. Si consiguen pruebas de sus crímenes pueden forzarle a negociar a sacarlas a la luz. 
-* Dejarle pistas falsas sobre alguna de las cazadoras para que pueda atraparla y atraerle a una trampa.
-* Néstor no se fía de Alfonse de normal y menos después del tema de las cazadoras. De hecho, está seguro que puede estar ayudándolas para quitarle el puesto, pero puede ser una manera de atraerle a una emboscada o darle información falsa.
-
 ```
 Tus cazadoras puede que quieran aprovecharse de Néstor como pederasta para cazarlo y, por ejemplo, tenderle una trampa con material sexual de ellas mismas. No deberias permitir que se trivialice este tema o parecidos. Tienes que pensar y recalcar el asco y la rabia que deben sentir al tener que hacer esto para evitar que siga matando. 
 ```
 
-#### ¿Qué hacemos con la droga?
+Algunas ideas básicas podrían ser:
 
-Una vez derrotado Néstor, tus cazadoras tendrán delante de ellas un palé lleno de drogas de varios tipos. Tus cazadoras deberán decidir que hacen con ello. Las opciones son muchas y con diferentes consecuencias.
+* Tratar de negociar en algún lugar donde preparen algún tipo de trampa. Desde luego, Néstor no irá desprotegido. Si consiguen pruebas de sus crímenes pueden forzarle a negociar a sacarlas a la luz. 
+* Néstor no se fía de Alfonse de normal y menos después del tema de las cazadoras. De hecho, está seguro que puede estar ayudándolas para quitarle el puesto, pero puede ser una manera de atraerle a una emboscada o darle información falsa.
+
+\sp
+
+\sinc
+
+[![Marcha contra narcos y tratantes por Pulso Cristiano](./assests/images/28400999812_9f8fc04a76_c.jpg "Marcha contra narcos y tratantes por Pulso Cristiano")](https://www.flickr.com/photos/pulsocristiano/28400999812/ "Marcha contra narcos y tratantes por Pulso Cristiano")
+
+&nbsp;
+
+\conc
+
+* Dejarle pistas falsas sobre alguna de las cazadoras para que pueda atraparla y atraerle a una trampa.
+
+#### Atacar su mazmorra
+
+Esta opción es la más inútil de las 3. Néstor no va a la mazmorra más que cuando tiene víctimas y ahora mismo no tiene. Así que sus visitas a su sala de torturas no deberían darse mientras tenga el problema de las cazadoras sin resolver y no se dedique a saciar sus bajos instintos. 
+
+### ¿Qué hacemos con la droga?
+
+Una vez derrotado Néstor, tus cazadoras puede que tengan delante de ellas un palé lleno de drogas de varios tipos. Tus cazadoras deberán decidir que hacen con ello. Las opciones son muchas y con diferentes consecuencias.
 
 * Pueden destruirlo.
 * Pueden esconderlo.
@@ -884,11 +901,19 @@ Una vez derrotado Néstor, tus cazadoras tendrán delante de ellas un palé llen
 
 Quizás lo más interesante sea esconderlo y poder usarlo, por ejemplo, para meter en problemas a la Corporación Ceballos en un futuro.
 
-\sp
-
 Dejar un palé lleno de droga en un local del Grupo puede ser una pesadilla legal para los abogados de Lord Ceballos. 
 
 No es fácil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la hora de negociar o de sabotear.
+
+### Money, money
+
+Si son rápidas también tendrán acceso a una buena cantidad de dinero del tráfico de dinero. Puedes dejar en la mazmorra o en la lonja algún maletín lleno de dinero. Este maletín, mientras tenga dinero, puede proporcionarles algún aspecto grupal de «bien aprovisionadas» o «buen equipo».
+
+\sp
+
+Otra opción, y quizás la más justa, es actuar de Robin Hood y hacer una donación a alguna asociación antidrogas local. Tendrán que buscarse alguna excusa para entregar el dinero, como que han hecho alguna recogida en redes o es el premio de un concurso o han organizado un mercadillo.
+
+Es importante que den la cara porque en el futuro necesitaran el apoyo de esta organización y de otras para continuar con su caza y queda más lógico que ya las conozcan y sepan que son buena gente.
 
 \sinc
 

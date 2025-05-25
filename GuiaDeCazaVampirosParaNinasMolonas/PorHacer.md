@@ -5,11 +5,11 @@ Cuando las noticias de la muerte de Néstor lleguen, y puede ser de varios días
 
 No sabe muy bien qué ha pasado y no quiere desperdiciar a sus mejores agentes en quimeras. Así que dará una oportunidad a Eloise. Ceballos sabe que el «florero de sus fiestas» es lista y le va a dar la ocasión de demostrar que de que puede ser algo más que un una cara bonita con la que distraer a la gente.
 
-Eloise conoce a grandes rasgos las implicaciones del gran vampirico para el barrio de tus cazadoras, pero no tiene muchos detalles. Es por ello, que con ella en juego el plan ni avanzará ni se retrasará.
-
-Eloise va a usar su alter ego en internet, Celose, para tratar de investigar que ha pasado con Néstor y luego para atraer a algún tipo de trampa a sus asesinas.
+Eloise conoce a grandes rasgos las implicaciones del gran plan vampírico para el barrio de tus cazadoras, pero no tiene muchos detalles. Es por ello, que con ella en juego el plan ni avanzará ni se retrasará.
 
 \sp
+
+Eloise va a usar su alter ego en internet, Celose, para tratar de investigar que ha pasado con Néstor y luego para atraer a algún tipo de trampa a sus asesinas.
 
 Celose, empezará a pagar en publicidad para salir en los TL de las redes de los vecinos del barrio. Será casi imposible buscar algo en internet sin que salga Celose. 
 
@@ -37,17 +37,17 @@ XXX
 
 Como ya hemos dicho, Alfonse, si está vivo, avanzará con cada paso que den tus cazadoras. Lord Ceballos lo pondrá al cargo de los negocios de Néstor y bajo las órdenes de Eloise.
 
-El poder de Alfonse aumenta y ahora tiene línea directa con los jefazos. Néstor siempre había evitado que Alfonse tuviera contacto con Lord Ceballos y otros vampires de alto nivel, de hecho Néstor le había amenazado que si contactaba con sus superiores, se encargaría de matarlo con sus propias manos.
+El poder de Alfonse aumenta y ahora tiene _línea directa con los jefazos_. Néstor siempre había evitado que Alfonse tuviera contacto con Lord Ceballos y otros vampires de alto nivel, de hecho Néstor le había amenazado que si contactaba con sus superiores, se encargaría de matarlo con sus propias manos.
 
-Pero esa restricción ha desaparecido y ahora estará al tanto de los planes de Eloise. Alfonse XXX
+Pero esa restricción ha desaparecido y ahora estará al tanto de los planes de Eloise. Alfonse puede decidir hacerse el tonto y ver por donde van las aguas o ayudar a tus cazadoras. No puede darles mucha información, sabe que Eloise es lista y se daría cuenta de sus chivatazos, además no suelta mucha prenda de sus planes. Así que solo dará pistas sutiles, no podrá dar datos exactos.
 
 Las tradiciones vampíricas dictán que Alfonse deje de ser un noob, para ser un veterano y claramente, Lord Ceballos le dejará caer que debe buscarse un siervo vampiro que ocupe su lugar y de Verónica si tus cazadoras han acabado con ella. Puede que Alfonse, empiece a pensarse en convertir a alguna de tus cazadoras. 
 
-Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que relación tenga y a quien quiera tener cerca como su sierva.
-
 \sp
 
-Si Alfonse está muerto, Lord Ceballos empezará a probar a Verónica como sustituta, lo cual será un desastre completo, o puede empezar a buscar algún sustituto, lo cual no es nada rápido y fácil.
+Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que relación tenga y a quien quiera tener cerca como su sierva.
+
+Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como sustituta_, lo cual será un desastre completo, o puede empezar a buscar algún sustituto, lo cual no es nada rápido y fácil.
 
 ### La casita de chocolate
 
