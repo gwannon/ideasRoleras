@@ -18,15 +18,15 @@ XXX
 
 En el capítulo Lugares tienes una descripción del edificio de Lord Ceballos.
 
-En cuanto a los sistemas de protección y seguridad tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáners corporales, una llamada y los tiene. 
+En cuanto a los sistemas de protección y seguridad tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáneres corporales, una llamada y los tiene. 
 
 Puede conseguir lo que quieras sin problemas. Todavía le deben favores y sabe secretos de mucha gente.
 
 Es importante que, mientras preparan el asalto, vean que el edificio de Lord Ceballos es lo que es, una fortaleza inexpugnable y que tus cazadoras no pueden tomarla ellas solas.
 
-La idea es que tus cazadoras tengan que plantearse formas diferentes a todo lo anterior para llegar al ático. Deberán pensar fuera de la caja del jugadores medies y usar algo que no hayan usado hasta ahora, pero que han ido creando con sus aventuras.
+La idea es que tus cazadoras tengan que plantearse maneras diferentes a todo lo anterior para llegar al ático. Deberán pensar fuera de la caja del jugador medio y usar algo que no hayan usado hasta ahora, pero que han ido creando con sus aventuras.
 
-> Cuando vayan explicando su plan deberías ponerles muchos problemas y pegas y explicarles que guardaespaldas, seguridad y vigilancia son del máximo nivel y los accesos son pocos y muy seguros. Si ves que se frustan déjales que caer no están solas, tienen al barrio de su parte.
+> Cuando vayan explicando su plan deberías ponerles muchos problemas y pegas y explicarles que guardaespaldas, seguridad y vigilancia son del máximo nivel y los accesos son pocos y muy seguros. Si ves que se frustran déjales que caer no están solas, tienen al barrio de su parte.
 
 \sp
 
@@ -61,7 +61,7 @@ Los grupos más radicales están preparando cócteles molotov, tirachinas, honda
 
 XXX
 
-Algo importante para la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algo más ideas son:
+Algo importante para la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algunas ideas son:
 
 * **Colar un coctel molotov en el ático.** Plan simple, ejecución difícil. Lanzar una botella hasta tanta altura no es fácil.
 * **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
