@@ -6,7 +6,7 @@
 
 \conc
 
-XXX
+Destruido su imperio, ya solo queda ir a por el propio Lord Ceballos. Mientras no le sea destruido, un vampiro puede volver a reconstruir sus planes. Digamos que tiempo les sobra y se aburren más cho en su no-vida.
 
 ### ¿Con qué cuenta Lord Ceballos?
 
@@ -16,13 +16,21 @@ XXX
 
 ### Preparando el asalto
 
-XXX
+En el capítulo Lugares tienes una descripción del edificio de Lord Ceballos.
 
-#### Ayuda del barrio
+En cuanto a los sistemas de protección y seguridad tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáners corporales, una llamada y los tiene. 
+
+Puede conseguir lo que quieras sin problemas. Todavía le deben favores y sabe secretos de mucha gente.
 
 Es importante que, mientras preparan el asalto, vean que el edificio de Lord Ceballos es lo que es, una fortaleza inexpugnable y que tus cazadoras no pueden tomarla ellas solas.
 
-> Cuando vayan explicando su plan deberías ponerles muchos problemas y pegas y explicarles que guardaespaldas, seguridad y del máximo nivel y los accesos son pocos y muy seguros. No deberían valer las cosas que intentaron en otras ocasiones.
+La idea es que tus cazadoras tengan que plantearse formas diferentes a todo lo anterior para llegar al ático. Deberán pensar fuera de la caja del jugadores medies y usar algo que no hayan usado hasta ahora, pero que han ido creando con sus aventuras.
+
+> Cuando vayan explicando su plan deberías ponerles muchos problemas y pegas y explicarles que guardaespaldas, seguridad y vigilancia son del máximo nivel y los accesos son pocos y muy seguros. Si ves que se frustan déjales que caer no están solas, tienen al barrio de su parte.
+
+\sp
+
+#### Ayuda del barrio
 
 Necesitarán que pase algo muy gordo y que intervenga mucha gente para desbaratar toda la seguridad del edificio. Así que deberían empezar a cobrarse favores entre los colectivos que han ayudado.
 
@@ -33,16 +41,19 @@ Catalina Faroes, nuestra simpática abogada defensora de derechos civiles, será
 Algunas asociaciones a las que pueden haber ayudado y a las que pedir ayuda:
 
 * **Grupos vecinales antidrogas.** La caída de Néstor supuso una importante desaparición de problemas de drogadicción en las calles y puede que tus cazadoras apoyarán a estos grupos con el dinero de la droga. Así que si les piden favores estarán dispuestos a ayudar.
-
-\sp
-
 * **Grupos deportivos** que se habrían visto afectados por el derribo del estadio. XXX
 * **Organizaciones ecologistas** de defensa de los humedales. XXX
 * XXX
 
 XXX
 
-### La gran sentada
+### La sentada
+
+Mientras los tribunales estudian todos los delitos del Grupo Ceballos, puede ser interesante montar un campamento protesta delante de la casa donde vive Lord Ceballos y una de las sedes del Grupo.
+
+XXX
+
+> Proponles inventar el nombre de la sentada/campamento y sé generoso con los puntos de destino si es nombre es bueno.
 
 XXX
 
@@ -53,12 +64,14 @@ XXX
 Algo importante para la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algo más ideas son:
 
 * **Colar un coctel molotov en el ático.** Plan simple, ejecución difícil. Lanzar una botella hasta tanta altura no es fácil.
-* **Poner algunas pancartas con mensajes que mosqueen al gran vampiro.** Déjales ser creativas.
+* **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
 * **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
 
 XXX
 
 El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios.
+
+\sp
 
 > Cuando aparezcan los antidisturbios y vaya a empezar la gran batalla, creo que es un buen momento para dejar que alguna de tus cazadoras arengue a las tropas a lo Aragorn en las puertas de Mordor.
 
@@ -69,8 +82,6 @@ XXX
 Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto final. Puedes montar una especie de «dungeon» en el que tus cazadoras avance sala a sala acabando con lo que les echen por delante hasta llegar a la guarida de Lord Ceballos. La otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte. Por un lado, tus cazadoras, por el otro Lord Ceballos, Tito y Cova.
 
 > Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
-
-\sp
 
 Si vas a jugar todo el asalto, deberías por lo menos tratar de que por lo menos tengan que superar 3 desafíos.
 
