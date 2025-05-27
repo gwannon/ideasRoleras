@@ -101,4 +101,10 @@ Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en sho
 
 Lord Ceballos solo quiere disfrutar del espectáculo, sentado en su trono. XXX
 
-XXX
+#### La huida
+
+Si las cazadoras consiguen derrotar a sus dos principales defensas, Cova y Tito, Lord Ceballos huirá por la salida secreta de la chimenea cerca de su trono. Las cazadoras escapan a su comprensión y ahora sí que está solo, como hacía desde hace decenios. 
+
+\sp
+
+> La idea principal es que Ceballos huya y la lucha final sea en la planta de reciclaje, pero si tus cazadoras se lo montan excepcionalmente bien, pueden acabar allí mismo, en el ático, con su mayor enemigo. 
