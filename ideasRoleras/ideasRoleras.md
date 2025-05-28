@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 28/03/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 30/05/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos y ambientaciones
 
@@ -16,7 +16,6 @@ Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near fut
 
 Campamento de verano con personajes niños y toda una colección de personajes locos que son sus monitores y las gentes que viven cerca del campamento. Se mezclaría con monstruos mitológicos y competición el campamento rival del otro lado del lago. Seguiría la esencia del comic de Lumberjanes.
 
-
 ### Cthulhung-fu
 
 Reconozco que empezó como un chiste malo de que arte marcial practican los profundos, pero una ambientación wuxia contra los mitos tendría su gracia.
@@ -25,7 +24,9 @@ Jugarías con investigadores/artistas marciales enviados por el propio emperador
 
 ### CyberIsis
 
-Una ambientación cyberpunk, pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio. Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
+Una ambientación cyberpunk, pero rollo Egipto antiguo. Los dioses tienen megacorporaciones que se dedican a su dominio.
+
+Por ejemplo Sechmet tiene una corporación médica y Ra controla los paneles solares que dan energía a Heliópolis, la mega ciudad donde trascurren las aventuras.
 
 No hay rascacielos, hay pirámides de cristal. En vez de grandes anuncios en pantallas, estatuas gigantescas con jeroglíficos de neón. El gran río Nilo fluye a través de la ciudad y es navegable.
 
@@ -136,6 +137,8 @@ Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomor
 ### Mitología polinesia/hawaiana
 
 Fantasía medieval, pero rollo polinesio, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
+
+[Maustiki](https://gwannon.itch.io/maustiki) es una ambientación para Mausritter en las islas del Pacífico.
 
 ### Mundo de papel
 
@@ -415,13 +418,13 @@ Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo co
 
 ### Radioaficionados
 
-Esta idea es carne de indie. Sería un juego en solitario de un radioaficionado en un mundo postapocaliptico.
+Esta idea es carne de indie. Sería un juego en solitario de un radioaficionado en un mundo postapocalíptico.
 
 Vas buscando frecuencias y encontrando a otros radioaficionados. Tendrás que tratar con ellos y averiguar que hacían antes y que problemas tienen. 
 
 La idea es que unos oráculos te digan quién es, qué hacía y algunos rasgos de personalidad y además generen un problema que puede acabar con su supervivencia. Quizás está enfermo, quizás una plaga se come su cosecha o simplemente está solo o no habla ti idioma.
 
-Para solucionar su problema tendrás que buscar a otros radioaficionados que igual saben la solución o buscar en libros de bibliotecas y librerías físicas de tu localidad la solución al problema. Recuerda que es postapocaliptico y no hay internet, solo viejos libros abandonados.
+Para solucionar su problema tendrás que buscar a otros radioaficionados que igual saben la solución o buscar en libros de bibliotecas y librerías físicas de tu localidad la solución al problema. Recuerda que es postapocalíptico y no hay internet, solo viejos libros abandonados.
 
 Habría una mecánica que te diría si la biblioteca está en pie, si hay libros del tema o si no está plagada de zombis, vampiros, etc.
 
@@ -675,3 +678,19 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+\sp
+
+### Mecánicas de opening y ending
+
+Si vas a jugar juegos con temática manga o anime, se podrían hacer unas mecánicas para que tus PJ participen en el opening/ending de la partida/serie y ganen alguna ventaja en partida. Se podrían hacer un opening para sesión, aventura y campaña.
+
+La idea seria generar escenas en ese opening que luego si jugadores o masters quieren se puedan invocar durante la partida. Por ejemplo, si en el opening un PJ lanza un espadazo y rompe el arma del enemigo final, pues cuando se enfrenten a el podrán invocar esa escena del opening.
+
+Y al revés, si el grupo aparece derrotado en el suelo rodeados de enemigos, que el DJ pueda invocar esa escena y ganar una batalla por bien que les fuera a los PJ.
+
+Algunas partes no tienen porque ser muy no tienen porqué ser muy especificas, rollo todos subiendo unas escaleras superdeprisa.
+
+Los endings podrían dejarse para temas más sociales, de amistad, amoríos, etc.
+
+\sc
