@@ -494,6 +494,12 @@ Siguiendo estos temas, podría haber reglas para hacer alcohol y una lista exten
 
 Emborracharse, pelear y lanzar hechizos estando borracho y reglas de resacas. Concursos y juegos de beber.
 
+### Reglas de banquetes y comilonas
+
+Hay algo muy clásico de muchos mangas y animes y son las comilonas de los protagonistas antes o despues de grandes sucesos. Crear nas reglas para esas escenas sería divertido. Podriamos movernos entre varias opciones, reglas para concursos de ver quién como más, reglas para ver quien no acaba con dolor de barriga y vomitando, reglas de comer cosas picantes o asquerosas.
+
+Podría ser muy divertidas reglas para combatir entre varios PJ por alguna pieza suculenta de comida, rollo que se combaten con palillos por la última gamba rebozada y acaban todos montando un follón en el restaurante tirándose unos encima de otros.
+
 ### Tablas de encuentros en puentes
 
 Siguiendo el tópico del troll de debajo del puente, sería interesante un sistema genérico de creación de encuentros en puentes. Se definiría el tipo de puente, el guardián que lo cuida y la prueba que impone.
@@ -510,6 +516,8 @@ Se le podría dar una vuelta y convertirlos en una revista científica donde cad
 
 Otra opción es que tuvieran un toque youtuber descerebrado/Cazadores de mitos que prueba leyendas y mitos de las bestias. En plan veamos si realmente la cocatriz tiene poderes petrificantes y pone delante de una cocatriz un goblin con algún tipo de equipo de protección mágica casera a ver si le petrifica. O se pregunta cuánto salta un troll y monta algún tipo de estúpida trampa que obliga a un troll a saltar.
 
+\sp
+
 ### Clase de personajes Orgbot
 
 Es un robot que se pone partes orgánicas para conseguir nuevas capacidades que su cuerpo robot no puede tener. Vamos sería un cíborg al revés, por eso el nombre orgbot, organical robot.
@@ -518,7 +526,17 @@ Pueden ser cosas que la tecnología no replica bien como el tacto o cosas que so
 
 También cosas que solo tuvieran los seres vivos. Por ejemplo, un mundo donde solo los seres vivos tienen magia, ya que la magia solo la canaliza la materia viva, un robot se pondría brazos de carne y hueso para poder lanzar hechizos.
 
-\sp
+### Mecánicas de opening y ending
+
+Si vas a jugar juegos con temática manga o anime, se podrían hacer unas mecánicas para que tus PJ participen en el opening/ending de la partida/serie y ganen alguna ventaja en partida. Se podrían hacer un opening para sesión, aventura y campaña.
+
+La idea seria generar escenas en ese opening que luego si jugadores o masters quieren se puedan invocar durante la partida. Por ejemplo, si en el opening un PJ lanza un espadazo y rompe el arma del enemigo final, pues cuando se enfrenten a el podrán invocar esa escena del opening.
+
+Y al revés, si el grupo aparece derrotado en el suelo rodeados de enemigos, que el DJ pueda invocar esa escena y ganar una batalla por bien que les fuera a los PJ.
+
+Algunas partes no tienen porque ser muy no tienen porqué ser muy especificas, rollo todos subiendo unas escaleras superdeprisa.
+
+Los endings podrían dejarse para temas más sociales, de amistad, amoríos, etc.
 
 ### Sistema o escuela de magia basada en parar el tiempo
 
@@ -678,19 +696,3 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
-
-\sp
-
-### Mecánicas de opening y ending
-
-Si vas a jugar juegos con temática manga o anime, se podrían hacer unas mecánicas para que tus PJ participen en el opening/ending de la partida/serie y ganen alguna ventaja en partida. Se podrían hacer un opening para sesión, aventura y campaña.
-
-La idea seria generar escenas en ese opening que luego si jugadores o masters quieren se puedan invocar durante la partida. Por ejemplo, si en el opening un PJ lanza un espadazo y rompe el arma del enemigo final, pues cuando se enfrenten a el podrán invocar esa escena del opening.
-
-Y al revés, si el grupo aparece derrotado en el suelo rodeados de enemigos, que el DJ pueda invocar esa escena y ganar una batalla por bien que les fuera a los PJ.
-
-Algunas partes no tienen porque ser muy no tienen porqué ser muy especificas, rollo todos subiendo unas escaleras superdeprisa.
-
-Los endings podrían dejarse para temas más sociales, de amistad, amoríos, etc.
-
-\sc
