@@ -220,7 +220,7 @@ Curiosamente, para ser vampira es una excelente chef con mucho gusto para hacer 
 
 Todo este tema de la cocina hizo que empezara a buscar vídeos en internet y que terminará enganchada a las redes con sus propios canales y, de hecho, las recetas, los modales en la mesa, los concursos de cocina y las críticas culinarias suponen muchas horas de sus directos.
 
-El problema de Eloise con las cazadoras es que fuera de sus poderes vampíricos no puede ejercer ningún tipo de control con las cazadoras, a priori toda su sensualidad y carisma no sirven de nada contra ellas. 
+El problema de Eloise con las cazadoras es que fuera de sus poderes vampíricos, no puede ejercer ningún tipo de control con las cazadoras. A priori, toda su sensualidad y carisma no sirven de nada contra ellas. 
 
 Quizás si alguien de tu mesa decide tener un «crush» con ella, podría usar sus habilidades, pero ella activamente no debería poder seducir y manipularlas.
 
