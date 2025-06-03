@@ -858,7 +858,7 @@ Pueden tener más éxito si consigue tener a sus esbirros distraídos con una pe
 
 Un incendio no acabará con Néstor, recordemos su sistema antiincendios, pero puede atraer a bomberos y policía y muchos mirones. Néstor preferirá huir a sus otras guaridas como la casa de las «Chejas» y ahí podrían cazarlo.
 
-
+\sc
 
 #### Ponerle una trampa
 
