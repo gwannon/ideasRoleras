@@ -62,12 +62,11 @@ Los grupos más radicales están preparando cócteles molotov, tirachinas, honda
 
 XXX
 
-Algo importante para la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algunas ideas son:
-
-* **Colar un coctel molotov en el ático.** Plan simple, ejecución difícil. Lanzar una botella hasta tanta altura no es fácil.
-
 \sp
 
+Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algunas ideas son:
+
+* **Colar un coctel molotov en el ático.** Plan simple, ejecución difícil. Lanzar una botella hasta tanta altura no es fácil.
 * **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
 * **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
 
@@ -97,9 +96,9 @@ Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudi
 
 XXX
 
-Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
-
 \sp
+
+Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
 
 Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
 
