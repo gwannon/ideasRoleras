@@ -696,3 +696,13 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+\sp
+
+### Samuráis VS. Marcianos
+
+En Usagi Yojimbo hay una historia corta titulada «Senso» que mezcla el Japón medieval del siglo XVII con marcianos de H. G. Wells y sus robots trípode.
+
+La verdad que me parece un mundo muy divertido para un juego. Tiene el rollo samuráis, el rollo marcianos vintage y al final un rollo steampunk, cuando los samuráis roban la tecnología de los trípodes y se crean robots gigantes de vapor y bambú.
+
+Además, como los terrestres van perdiendo la guerra, tiene un rollo postapocalíptico que añade variedad al mundo.
