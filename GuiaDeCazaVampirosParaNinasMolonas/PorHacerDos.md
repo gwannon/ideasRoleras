@@ -40,10 +40,11 @@ Catalina Faroes, nuestra simpática abogada defensora de derechos civiles, será
 
 Algunas asociaciones a las que pueden haber ayudado y a las que pedir ayuda:
 
-* **Grupos vecinales antidrogas.** La caída de Néstor supuso una importante desaparición de problemas de drogadicción en las calles y puede que tus cazadoras apoyarán a estos grupos con el dinero de la droga. Así que si les piden favores estarán dispuestos a ayudar.
-* **Grupos deportivos** que se habrían visto afectados por el derribo del estadio. XXX
-* **Organizaciones ecologistas** de defensa de los humedales. XXX
-* XXX
+* **Grupos vecinales.** El grupo Ceballos ha estado provocando mucho daño en el barrio, desde pisos turísticos a casa de apuestas y zonas de fiesta descontroladas. Seguramente que tienen buenas razones para protestar ante su sede, sobre todo ahora que todos sus trapos sucios están saliendo a la luz.
+* **Grupos antidrogas.** La caída de Néstor supuso una importante desaparición de problemas de drogadicción en las calles y puede que tus cazadoras apoyarán a estos grupos con el dinero de la droga. Así que si les piden favores estarán dispuestos a ayudar.
+* **Grupos deportivos** que se habrían visto afectados por el derribo del estadio. Seguramente tengan ganas de montarle un scratch a Lord Ceballos. Hay que tener cuidado, porque hay individuos muy violentos en sus filas, que si se controlan pueden ser muy útiles, pero que, si no se controlan, pueden ser un problema.
+* **Organizaciones ecologistas** de defensa de los humedales. Los grupos ecologistas han estado en el centro de las manipulaciones del grupo Ceballos y han sufrido sus acciones. Así que casi se presentarán a las puertas de las cazadoras a la mínima que sepan que se monta algo contra el Grupo Ceballos. Tienen experiencia en la lucha contra grandes grupos empresariales y escucharles puede darte muy buenas ideas.
+* **XXX:** XXX
 
 XXX
 
@@ -64,14 +65,15 @@ XXX
 Algo importante para la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algunas ideas son:
 
 * **Colar un coctel molotov en el ático.** Plan simple, ejecución difícil. Lanzar una botella hasta tanta altura no es fácil.
+
+\sp
+
 * **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
 * **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
 
 XXX
 
 El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios.
-
-\sp
 
 > Cuando aparezcan los antidisturbios y vaya a empezar la gran batalla, creo que es un buen momento para dejar que alguna de tus cazadoras arengue a las tropas a lo Aragorn en las puertas de Mordor.
 
@@ -97,6 +99,8 @@ XXX
 
 Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
 
+\sp
+
 Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
 
 Lord Ceballos solo quiere disfrutar del espectáculo, sentado en su trono. XXX
@@ -104,7 +108,5 @@ Lord Ceballos solo quiere disfrutar del espectáculo, sentado en su trono. XXX
 #### La huida
 
 Si las cazadoras consiguen derrotar a sus dos principales defensas, Cova y Tito, Lord Ceballos huirá por la salida secreta de la chimenea cerca de su trono. Las cazadoras escapan a su comprensión y ahora sí que está solo, como hacía desde hace decenios. 
-
-\sp
 
 > La idea principal es que Ceballos huya y la lucha final sea en la planta de reciclaje, pero si tus cazadoras se lo montan excepcionalmente bien, pueden acabar allí mismo, en el ático, con su mayor enemigo. 
