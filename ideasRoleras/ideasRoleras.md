@@ -706,3 +706,16 @@ En Usagi Yojimbo hay una historia corta titulada «Senso» que mezcla el Japón 
 La verdad que me parece un mundo muy divertido para un juego. Tiene el rollo samuráis, el rollo marcianos vintage y al final un rollo steampunk, cuando los samuráis roban la tecnología de los trípodes y se crean robots gigantes de vapor y bambú.
 
 Además, como los terrestres van perdiendo la guerra, tiene un rollo postapocalíptico que añade variedad al mundo.
+
+\sc
+
+### Mundo Primate
+
+Siempre se ha dicho que DC tiene una obsesión con los primates. Hay ciudades de gorilas, chimpancés detectives y toda una galería de villanos simios. Lo curioso es que los comics de «El planeta de los simios» se publicaron en Marvel. Pues me parece una buena idea convertir cualquier juego de rol en una versión simia.
+
+Por poner un ejemplo, tiene que ser divertido jugar a las Máscaras de Nyarlathotep en un universo donde todos son simios, chimpancés, orangutanes, gorilas, etc. Las ciudades, tramas, y localizaciones son las mismas, pero adaptadas a primates. Por ejemplo, la persecución a pie por las calles de El Cairo, sería en este mundo deslizándose con lianas. Tu detective privada es una gorila con sombrero fedora que fuma puros y dispara su subfusil thompson, a tu historiador es un chimpancé con pajarita y chaleco que siempre tiene un libro en las manos. 
+
+La figurilla de Cthulhu es la de simio con cabeza de pulpo y alas de dragón y los profundos serían híbridos de primates e igual se parecen más a focas o nutrias que a sapos o peces. 
+
+Es un cambio estético refrescante, pero también puede incluir mecánicas curiosas como golpearse el techo para ganar intimidar o reglas de persecuciones entre árboles o lo más importante usar los pies como manos. Habría especies de primates a la hora de crear PJ, cada una con sus propias características. También sería un mundo con mucha más vegetación y seguramente menos civilizado.
+
