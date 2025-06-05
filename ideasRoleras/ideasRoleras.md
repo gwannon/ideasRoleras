@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 30/05/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 06/06/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos y ambientaciones
 
