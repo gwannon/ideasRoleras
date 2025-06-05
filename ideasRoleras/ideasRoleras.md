@@ -198,6 +198,14 @@ Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
 
+### Samuráis VS. Marcianos
+
+En Usagi Yojimbo hay una historia corta titulada «Senso» que mezcla el Japón medieval del siglo XVII con marcianos de H. G. Wells y sus robots trípode.
+
+La verdad que me parece un mundo muy divertido para un juego. Tiene el rollo samuráis, el rollo marcianos vintage y al final un rollo steampunk, cuando los samuráis roban la tecnología de los trípodes y se crean robots gigantes de vapor y bambú.
+
+Además, como los terrestres van perdiendo la guerra, tiene un rollo postapocalíptico que añade variedad al mundo.
+
 ### Soy leyenda al revés
 
 Un mundo rollo Soy leyenda (el libro, postapocalíptico con vampiros) pero eres un comando de chupasangres que persiguen a grupos humanos que se dedican a matar vampiros indefensos.
@@ -220,11 +228,11 @@ Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profund
 
 Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
 
+\sp
+
 ### —007
 
 Una campaña sería de agentes secretos contra organización mundial que busca dominar el mundo, pero los personajes llevan copias crutes de James Bond con sus poderes especiales crutes. Por ejemplo:
-
-\sp
 
 **Austin Powers** con superpoder de ligar rollo ¡¡¡Hey, nena!!!!
 
@@ -678,6 +686,16 @@ Creo que es una semilla de aventura genial para una campaña en la que combates 
 
 > Podéis verlo en el capítulo RECORTE DEL «DAILYGRAPH», 8 DE AGOSTO (Pegado en el diario de Mina Murray)
 
+### Mundo Primate
+
+Siempre se ha dicho que DC tiene una obsesión con los primates. Hay ciudades de gorilas, chimpancés detectives y toda una galería de villanos simios. Lo curioso es que los comics de «El planeta de los simios» se publicaron en Marvel. Pues me parece una buena idea convertir cualquier juego de rol en una versión simia.
+
+Por poner un ejemplo, tiene que ser divertido jugar a las Máscaras de Nyarlathotep en un universo donde todos son simios, chimpancés, orangutanes, gorilas, etc. Las ciudades, tramas, y localizaciones son las mismas, pero adaptadas a primates. Por ejemplo, la persecución a pie por las calles de El Cairo, sería en este mundo deslizándose con lianas. Tu detective privada es una gorila con sombrero fedora que fuma puros y dispara su subfusil thompson, a tu historiador es un chimpancé con pajarita y chaleco que siempre tiene un libro en las manos. 
+
+La figurilla de Cthulhu es la de simio con cabeza de pulpo y alas de dragón y los profundos serían híbridos de primates e igual se parecen más a focas o nutrias que a sapos o peces. 
+
+Es un cambio estético refrescante, pero también puede incluir mecánicas curiosas como golpearse el techo para ganar intimidar o reglas de persecuciones entre árboles o lo más importante usar los pies como manos. Habría especies de primates a la hora de crear PJ, cada una con sus propias características. También sería un mundo con mucha más vegetación y seguramente menos civilizado.
+
 ### En el Polo Norte
 
 Tabla de generación de aventuras aleatorias centradas en una estación polar. Una tabla para un objeto o persona, otra tabla para quien lo ha llevado al polo y una última tabla donde se determina el objetivo o el porqué del objeto o persona. Luego tocaría darle un poco de sentido y tendríamos cosas.
@@ -691,31 +709,10 @@ Tabla de generación de aventuras aleatorias centradas en una estación polar. U
 
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
 
+\sp
+
 ### Si algún día viajas al pasado no toques nada
 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
-
-\sp
-
-### Samuráis VS. Marcianos
-
-En Usagi Yojimbo hay una historia corta titulada «Senso» que mezcla el Japón medieval del siglo XVII con marcianos de H. G. Wells y sus robots trípode.
-
-La verdad que me parece un mundo muy divertido para un juego. Tiene el rollo samuráis, el rollo marcianos vintage y al final un rollo steampunk, cuando los samuráis roban la tecnología de los trípodes y se crean robots gigantes de vapor y bambú.
-
-Además, como los terrestres van perdiendo la guerra, tiene un rollo postapocalíptico que añade variedad al mundo.
-
-\sc
-
-### Mundo Primate
-
-Siempre se ha dicho que DC tiene una obsesión con los primates. Hay ciudades de gorilas, chimpancés detectives y toda una galería de villanos simios. Lo curioso es que los comics de «El planeta de los simios» se publicaron en Marvel. Pues me parece una buena idea convertir cualquier juego de rol en una versión simia.
-
-Por poner un ejemplo, tiene que ser divertido jugar a las Máscaras de Nyarlathotep en un universo donde todos son simios, chimpancés, orangutanes, gorilas, etc. Las ciudades, tramas, y localizaciones son las mismas, pero adaptadas a primates. Por ejemplo, la persecución a pie por las calles de El Cairo, sería en este mundo deslizándose con lianas. Tu detective privada es una gorila con sombrero fedora que fuma puros y dispara su subfusil thompson, a tu historiador es un chimpancé con pajarita y chaleco que siempre tiene un libro en las manos. 
-
-La figurilla de Cthulhu es la de simio con cabeza de pulpo y alas de dragón y los profundos serían híbridos de primates e igual se parecen más a focas o nutrias que a sapos o peces. 
-
-Es un cambio estético refrescante, pero también puede incluir mecánicas curiosas como golpearse el techo para ganar intimidar o reglas de persecuciones entre árboles o lo más importante usar los pies como manos. Habría especies de primates a la hora de crear PJ, cada una con sus propias características. También sería un mundo con mucha más vegetación y seguramente menos civilizado.
-
