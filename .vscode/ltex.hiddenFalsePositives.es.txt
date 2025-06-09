@@ -255,3 +255,4 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación primero dialéctica y luego a muerte.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QLa otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoney, money\\E$"}
+{"rule":"REALIZE","sentence":"^\\QPrepárate a derribar cazas enemigos, a realizar todo tipo de proezas y acrobacias dentro y fuera de vuestro avíon y de enfrentaros a todo tipo de monstruos de los Mitos de Cthilhu.\\E$"}

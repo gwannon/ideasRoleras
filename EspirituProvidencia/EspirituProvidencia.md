@@ -2,7 +2,11 @@
 
 \sp
 
-XXX
+```
+«El espíritu de la providencia» es una aventura de unas 3 0 4 sesiones para SWAE ambientada en un bombardero inglés durante la II GM en misión de ataque sobre Alemania. Tu mesa será parte de la tripulación y su objetivo será sobrevivir a la misíon y a los extraños sucesos que estan ocurriendo durante el vuelo.
+```
+
+Esta aventura mezcla las aventuras bélicas de la II GM, los mitos de Cthulhu y el tono «pulp» que tiene el sistema de Savage Worlds. Prepárate a derribar cazas enemigos, a realizar todo tipo de proezas y acrobacias dentro y fuera de vuestro avión y de enfrentaros a todo tipo de monstruos de los Mitos de Cthulhu.
 
 ## Sinopsis
 
@@ -20,9 +24,9 @@ A medida que escuadrón de combate vaya perdiendo naves por los ataques de los c
 
 Lo interesante de todo esto es que Lakhum deberá defender el bombardero de los ataques nazis con lo que usará sus poderes mágicos contra ellos también.
 
-> Tu mesa deberá primero averiguar lo que está pasando, o todo lo que puedan, y luego detener a Lakhum y en la medida de lo posible cumplir una misión especial de bombardeo de unas coordenadas específicas que les han asignado a ellos solos.
-
 \sp
+
+> Tu mesa deberá primero averiguar lo que está pasando, o todo lo que puedan, y luego detener a Lakhum y en la medida de lo posible cumplir una misión especial de bombardeo de unas coordenadas específicas que les han asignado a ellos solos.
 
 ## La misión
 
@@ -52,9 +56,13 @@ El Spirit of Providence (El espíritu de la providencia) es un bombardero «Avro
 
 XXX
 
-[![Pictured is aircraft from the Battle of Britain Memorial Flight (BBMF) in the skies above Lincolnshire. Lancaster PA474 wearing 460 Squadron (RAAF)](./assests/images/Battle_of_Britain_Memorial_flight_Avro_Lancaster.jpg 'By Photo: Cpl Phil Major ABIPP/MOD, OGL v1.0, https://commons.wikimedia.org/w/index.php?curid=92469814')](https://commons.wikimedia.org/wiki/File:Battle_of_Britain_Memorial_flight_Avro_Lancaster_(cropped).jpg 'By Photo: Cpl Phil Major ABIPP/MOD, OGL v1.0, https://commons.wikimedia.org/w/index.php?curid=92469814')
+[![Foto Pictured is aircraft from the Battle of Britain Memorial Flight (BBMF) in the skies above Lincolnshire. Lancaster PA474 wearing 460 Squadron (RAAF)](./assests/images/Battle_of_Britain_Memorial_flight_Avro_Lancaster.jpg 'By Photo: Cpl Phil Major ABIPP/MOD, OGL v1.0, https://commons.wikimedia.org/w/index.php?curid=92469814')](https://commons.wikimedia.org/wiki/File:Battle_of_Britain_Memorial_flight_Avro_Lancaster_(cropped).jpg 'By Photo: Cpl Phil Major ABIPP/MOD, OGL v1.0, https://commons.wikimedia.org/w/index.php?curid=92469814')
 
-https://commons.wikimedia.org/wiki/File:Avro_Lancaster_3-view_line_drawings.png
+\sp
+
+[![Dibujo esquemático de Avro Lancaster.](./assests/images/Avro_Lancaster_3-view_line_drawings.jpg 'Por Emoscopes - Treballo de qui la cargó, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=3845679')](https://an.wikipedia.org/wiki/Avro_Lancaster#/media/Imachen:Avro_Lancaster_3-view_line_drawings.png 'Por Emoscopes - Treballo de qui la cargó, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=3845679')
+
+\sp
 
 ## Los siervos de XXX
 
@@ -82,7 +90,19 @@ XXX
 
 Sus principales poderes son de invocación de seres de los Mitos y los usará para crear problemas en la escuadrilla de aviones.
 
-También es muy bueno creando ilusiones, tan bueno que puede llevar a una persona a la locura.
+También es muy bueno creando ilusiones, tan bueno que puede llevar a una persona a la locura. XXX
+
+Por último puede insertar en tu memoria recuerdos de manera muy convincente. XXX
+
+|1d8|Recuerdo|
+|---|---|
+|1|XXX|
+
+***
+
+# Bestiario
+
+\sp
 
 ## Noctivago demacrado (secuaz)
 

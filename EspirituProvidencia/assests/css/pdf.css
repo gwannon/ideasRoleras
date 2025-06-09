@@ -81,12 +81,12 @@ body {
   section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Retrato]):before,
   section:not(section:first-of-type, section:last-of-type) h1:before {
     rotate: -92deg;
-    top: 28px;
+    top: 36px;
   }
 
   section:not(section:first-of-type, section:last-of-type):nth-of-type(odd) h1:before {
     rotate: -88deg;
-    top: 23px;
+    top: 28px;
   }
 
   p.comodirigir {
