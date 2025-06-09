@@ -1,5 +1,7 @@
 # El espíritu de la providencia
 
+\sp
+
 XXX
 
 ## Sinopsis
@@ -18,7 +20,9 @@ A medida que escuadrón de combate vaya perdiendo naves por los ataques de los c
 
 Lo interesante de todo esto es que Lakhum deberá defender el bombardero de los ataques nazis con lo que usará sus poderes mágicos contra ellos también.
 
-Tu mesa deberá primero averiguar lo que está pasando, o todo lo que puedan, y luego detener a Lakhum y en la medida de lo posible cumplir una misión especial de bombardeo de unas coordenadas específicas que les han asignado a ellos solos.
+> Tu mesa deberá primero averiguar lo que está pasando, o todo lo que puedan, y luego detener a Lakhum y en la medida de lo posible cumplir una misión especial de bombardeo de unas coordenadas específicas que les han asignado a ellos solos.
+
+\sp
 
 ## La misión
 
@@ -54,10 +58,21 @@ Los siervos de XXX es una secta de adoradores de XXX
 
 XXX
 
+\sp
 
-## PNJ
+## Tópicos que usar en la aventura
 
-### Lakhum / XXX
+* Puedes estropear la radio y que tengan que comunicarse de otras maneras con el resto de la escuadrilla.
+* Hacer un picado para apagar el fuego del motor.
+* Mucha altura necesitan oxígeno. Si no pueden matar a Lakhum, quizás puedan dejarlo inconsciente con la falta de oxígeno.
+
+***
+
+# PNJ
+
+\sp
+
+## Lakhum / XXX
 
 XXX
 
@@ -65,10 +80,8 @@ Sus principales poderes son de invocación de seres de los Mitos y los usará pa
 
 También es muy bueno creando ilusiones, tan bueno que puede llevar a una persona a la locura.
 
-## Tópicos que usar en la aventura
+***
 
-* Puedes estropear la radio y que tengan que comunicarse de otras maneras con el resto de la escuadrilla.
-* Hacer un picado para apagar el fuego del motor.
-* Mucha altura necesitan oxígeno. Si no pueden matar a Lakhum, quizás puedan dejarlo inconsciente con la falta de oxígeno.
+Contraportada
 
 

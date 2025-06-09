@@ -1,0 +1,97 @@
+.saltopagina {
+  display: none;
+}
+
+li.saltopagina {
+  display: list-item;
+}
+
+body {
+  background: #fff url(../images/bg.jpg) repeat-y top center;
+  background-size: contain;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 800px;
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 20px;
+  font-family: 'SpecialElite';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--color-bic);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - 30px);
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 1.5em;
+}
+
+.saltopagina:first-of-type:after {
+  display: none;
+}
+
+@media print {
+
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 1px;
+    background-color: transparent;
+    opacity: o;
+  }
+
+  section .saltopagina + * {
+    padding-top: var(--padding);
+  }
+
+  .likeH1 span,
+  .likeH2 span,
+  .likeH3 span {
+    display: block;
+  }
+  
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Dibujo]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Plano]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Imagen]):before,
+  section:not(section:first-of-type, section:nth-of-type(2), section:last-of-type) .saltopagina + p a:has(img[alt^=Retrato]):before,
+  section:not(section:first-of-type, section:last-of-type) h1:before {
+    rotate: -92deg;
+    top: 28px;
+  }
+
+  section:not(section:first-of-type, section:last-of-type):nth-of-type(odd) h1:before {
+    rotate: -88deg;
+    top: 23px;
+  }
+
+  p.comodirigir {
+    border: 8px dashed #bf3b3b;
+    background: none;
+  }
+
+}
