@@ -44,11 +44,15 @@ XXX
 
 XXX
 
+\sp
+
 ## Bombardero Avro 683 Lancaster
 
 El Spirit of Providence (El espíritu de la providencia) es un bombardero «Avro 683 Lancaster» de la RAF (Royal Air Force). XXX
 
 XXX
+
+[![Pictured is aircraft from the Battle of Britain Memorial Flight (BBMF) in the skies above Lincolnshire. Lancaster PA474 wearing 460 Squadron (RAAF)](./assests/images/Battle_of_Britain_Memorial_flight_Avro_Lancaster.jpg 'By Photo: Cpl Phil Major ABIPP/MOD, OGL v1.0, https://commons.wikimedia.org/w/index.php?curid=92469814')](https://commons.wikimedia.org/wiki/File:Battle_of_Britain_Memorial_flight_Avro_Lancaster_(cropped).jpg 'By Photo: Cpl Phil Major ABIPP/MOD, OGL v1.0, https://commons.wikimedia.org/w/index.php?curid=92469814')
 
 https://commons.wikimedia.org/wiki/File:Avro_Lancaster_3-view_line_drawings.png
 
@@ -68,7 +72,7 @@ XXX
 
 ***
 
-# PNJ
+# Aliados y enemigos
 
 \sp
 
@@ -79,6 +83,27 @@ XXX
 Sus principales poderes son de invocación de seres de los Mitos y los usará para crear problemas en la escuadrilla de aviones.
 
 También es muy bueno creando ilusiones, tan bueno que puede llevar a una persona a la locura.
+
+## Noctivago demacrado (secuaz)
+
+Los noctivagos son unos seres con unas grandes alas de murciélago y colas con pinchos afilados. Tiene tentáculos en vez de extremidades y cuernos en lo que sería su cabeza. Su piel es oscura y de una textura entre gomosa y aceitosa. Recuerdan a demonios o gárgolas.
+
+Son bastante apacibles y nada agresivos, pero es difícil negociar con ellos, si han recibido una orden la cumplen sin preguntarse por qué.
+
+Sirven principalmente al dios Nodens y tienen buenas relaciones con los gules. Proceden de las Tierras de los Sueños y se sabe, aunque no muy bien, que pueden moverse entre la Tierra de los Sueños y nuestro mundo. 
+
+Aunque tienen poderosos tentáculos y una cola afilada, normalmente reducen a sus enemigos con cosquillas. 
+
+Puede que parte de los antiguos mitos de demonios alados y de gárgolas sean fruto de estos seres.
+
+* **Atributos:** Agilidad d8, Astucia d4, Espíritu d6, Fuerza d8, Vigor d6
+* **Habilidades:** Atletismo d10, Notar d6, Pelear d8, Sigilo d8
+* **Paso:** 6; **Parada:** 6; **Dureza:** 7(2)
+* **Ventajas:** Rápido
+* **Capacidades especiales:**
+    * **Armadura +2:** Su piel gomosa y es bastante resistente.
+    * **Volar:** Paso volando 12.
+    * **Cosquillas:** Los noctivagos pueden intentar hacer una acción de Presa con su cola. En caso de conseguir inmovilizarla, como acción gratuita, puede hacer cosquillas con la cola a su presa. Si la presa falla estará aturdido 1d6 turnos debido a que se ríe descontroladamente. Pasado esos turnos la presa puede tratar de escapar y el noctivago volver a hacerle cosquillas. Normalmente, cuando consigue aturdir a la víctima, toman altura y lo dejan caer.
 
 ***
 
