@@ -44,15 +44,17 @@ Algunas asociaciones a las que pueden haber ayudado y a las que pedir ayuda:
 * **Grupos antidrogas.** La caída de Néstor supuso una importante desaparición de problemas de drogadicción en las calles y puede que tus cazadoras apoyarán a estos grupos con el dinero de la droga. Así que si les piden favores estarán dispuestos a ayudar.
 * **Grupos deportivos** que se habrían visto afectados por el derribo del estadio. Seguramente tengan ganas de montarle un scratch a Lord Ceballos. Hay que tener cuidado, porque hay individuos muy violentos en sus filas, que si se controlan pueden ser muy útiles, pero que, si no se controlan, pueden ser un problema.
 * **Organizaciones ecologistas** de defensa de los humedales. Los grupos ecologistas han estado en el centro de las manipulaciones del grupo Ceballos y han sufrido sus acciones. Así que casi se presentarán a las puertas de las cazadoras a la mínima que sepan que se monta algo contra el Grupo Ceballos. Tienen experiencia en la lucha contra grandes grupos empresariales y escucharles puede darte muy buenas ideas.
-* **XXX:** XXX
+* **Grupo de jubilados:** La gentrificación del barrio causada por el Grupo Ceballos ha echado a mucha gente a la calle y varios grupos de jubilados y jubiladas se han organizado contra los desalojos. No son jóvenes, pero tienen experiencia, pueden estar 24 horas en la sentada y no tienen ya mucho que perder. 
 
-XXX
+En general cualquier grupo medianamente organizado ha sufrido con los tejemanejes del grupo en el barrio, así que puedes meter lo que te guste, grupo de cosplayers al que compraron su local donde hacían sus disfraces, grupos corales que perdieron su local ensayo, …
 
 ### La sentada
 
 Mientras los tribunales estudian todos los delitos del Grupo Ceballos, puede ser interesante montar un campamento protesta delante de la casa donde vive Lord Ceballos y una de las sedes del Grupo.
 
 XXX
+
+\sp
 
 > Proponles inventar el nombre de la sentada/campamento y sé generoso con los puntos de destino si es nombre es bueno.
 
@@ -61,8 +63,6 @@ XXX
 Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
 
 XXX
-
-\sp
 
 Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algunas ideas son:
 
@@ -84,6 +84,8 @@ Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto f
 
 > Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
 
+\sp
+
 Si vas a jugar todo el asalto, deberías por lo menos tratar de que por lo menos tengan que superar 3 desafíos.
 
 * **La entrada principal o de servicio:** XXX
@@ -95,8 +97,6 @@ XXX
 Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante el asalto y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
 
 XXX
-
-\sp
 
 Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
 
