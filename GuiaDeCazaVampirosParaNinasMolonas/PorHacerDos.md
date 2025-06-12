@@ -16,7 +16,7 @@ XXX
 
 ### Preparando el asalto
 
-En el capítulo Lugares tienes una descripción del edificio de Lord Ceballos.
+En el capítulo «Lugares» tienes una descripción del edificio de Lord Ceballos.
 
 En cuanto a los sistemas de protección y seguridad tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáneres corporales, una llamada y los tiene. 
 
@@ -86,15 +86,21 @@ Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto f
 
 \sp
 
-Si vas a jugar todo el asalto, deberías por lo menos tratar de que por lo menos tengan que superar 3 desafíos.
+Si vas a jugar todo el asalto, deberías tratar de que por lo menos tengan que superar 3 desafíos.
 
-* **La entrada principal o de servicio:** XXX
-* **Los ascensores:** XXX
+* **La entrada principal o de servicio:** Pueden entrar a saco y empezar a repartir candela, pero si son inteligentes, tus cazadoras deberían poder hacer que los guardas salgan fuera a apoyar a los antidisturbios o que los manifestantes entren dentro.
+* **Los ascensores:** El ascensor solo funciona con un código, así que deberán robarlo, hackearlo o sacárselo a algún guarda del edificio.
 * **La antesala a la gran sala del ático:** XXX
 
-XXX 
+__Guardia del edificio__
 
-Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante el asalto y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
+* **Bueno (+2) en:** Pelear, cachear y buscar cosas escondidas
+* **Malo (-2) en:** Persuadir gente, leyes 
+* **Estrés:** ◯
+
+Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante los anteriores encuentros y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
+
+### Combate en la cumbre
 
 XXX
 
