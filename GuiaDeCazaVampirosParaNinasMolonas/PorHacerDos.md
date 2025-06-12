@@ -1,79 +1,59 @@
 \sinc
 
-## You’re the Devil in Disguise
+## Heartbreak Hotel 
 
-> El asalto final era inminente, iba a ser el capullo vampírico del reino o nosotras. Habíamos ido acabando poco a poco con sus planes, pero si Lord Ceballos seguía vivo con el tiempo volvería montar un nuevo plan y joder nuestro barrio o el de otros. Pero igual que nosotros Lord Ceballos había reunido a todos sus aliados, así que no sería nada fácil.
+> El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
 
 \conc
 
-Destruido su imperio, ya solo queda ir a por el propio Lord Ceballos. Mientras no le sea destruido, un vampiro puede volver a reconstruir sus planes. Digamos que tiempo les sobra y se aburren más cho en su no-vida.
-
-### ¿Con qué cuenta Lord Ceballos?
-
-Como activos principales Lord Ceballos ya solo dispone de Tito y de Cova. Como secundarios, Lord Ceballos todavía cuenta con sus siervos, tanto ayudantes como guardaespaldas, y suficiente dinero para comprar equipo y algunas voluntades.
+Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe que eso permitirá a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
 
 XXX
 
-### Preparando el asalto
+### La corporación toma iniciativa
 
-En el capítulo «Lugares» tienes una descripción del edificio de Lord Ceballos.
+El Grupo Ceballos dirigida por su CTO Nieve debe mover ficha y debe ser un movimiento resolutivo, necesita empezar a construir el casino y para ello debe forzar el derrame contaminante en los humedales y demoler el estadio para empezar las obras de New Vegas.
 
-En cuanto a los sistemas de protección y seguridad tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáneres corporales, una llamada y los tiene. 
+Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación, pero no es necesario triunfar. Lo único importante es que consigan pruebas suficientes de que el grupo Ceballos este detrás y pasárselas a Catalina.
 
-Puede conseguir lo que quieras sin problemas. Todavía le deben favores y sabe secretos de mucha gente.
+XXX
 
-Es importante que, mientras preparan el asalto, vean que el edificio de Lord Ceballos es lo que es, una fortaleza inexpugnable y que tus cazadoras no pueden tomarla ellas solas.
+### Derrame tóxico
 
-La idea es que tus cazadoras tengan que plantearse maneras diferentes a todo lo anterior para llegar al ático. Deberán pensar fuera de la caja del jugador medio y usar algo que no hayan usado hasta ahora, pero que han ido creando con sus aventuras.
+XXX
 
-> Cuando vayan explicando su plan deberías ponerles muchos problemas y pegas y explicarles que guardaespaldas, seguridad y vigilancia son del máximo nivel y los accesos son pocos y muy seguros. Si ves que se frustran déjales que caer no están solas, tienen al barrio de su parte.
+### Demolición del estadio
 
-\sp
+XXX
 
-#### Ayuda del barrio
+### La caída del Grupo Ceballos
 
-Necesitarán que pase algo muy gordo y que intervenga mucha gente para desbaratar toda la seguridad del edificio. Así que deberían empezar a cobrarse favores entre los colectivos que han ayudado.
+XXX
 
-Casi todos los grupos vecinales han tenido problemas con el grupo Ceballos, así que hablar y ponerlos en contra del Grupo Ceballos será mediante fácil, sobre todo si les han ayudado directamente.
+#### Hablando con Catalina
 
-Catalina Faroes, nuestra simpática abogada defensora de derechos civiles, será una baza importante contra grupos menos interesados en participar.
+XXX
 
-Algunas asociaciones a las que pueden haber ayudado y a las que pedir ayuda:
+#### Las guardaespaldas de Catalina
 
-* **Grupos vecinales.** El grupo Ceballos ha estado provocando mucho daño en el barrio, desde pisos turísticos a casa de apuestas y zonas de fiesta descontroladas. Seguramente que tienen buenas razones para protestar ante su sede, sobre todo ahora que todos sus trapos sucios están saliendo a la luz.
-* **Grupos antidrogas.** La caída de Néstor supuso una importante desaparición de problemas de drogadicción en las calles y puede que tus cazadoras apoyarán a estos grupos con el dinero de la droga. Así que si les piden favores estarán dispuestos a ayudar.
-* **Grupos deportivos** que se habrían visto afectados por el derribo del estadio. Seguramente tengan ganas de montarle un scratch a Lord Ceballos. Hay que tener cuidado, porque hay individuos muy violentos en sus filas, que si se controlan pueden ser muy útiles, pero que, si no se controlan, pueden ser un problema.
-* **Organizaciones ecologistas** de defensa de los humedales. Los grupos ecologistas han estado en el centro de las manipulaciones del grupo Ceballos y han sufrido sus acciones. Así que casi se presentarán a las puertas de las cazadoras a la mínima que sepan que se monta algo contra el Grupo Ceballos. Tienen experiencia en la lucha contra grandes grupos empresariales y escucharles puede darte muy buenas ideas.
-* **Grupo de jubilados:** La gentrificación del barrio causada por el Grupo Ceballos ha echado a mucha gente a la calle y varios grupos de jubilados y jubiladas se han organizado contra los desalojos. No son jóvenes, pero tienen experiencia, pueden estar 24 horas en la sentada y no tienen ya mucho que perder. 
+Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante 48 horas hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
 
-En general cualquier grupo medianamente organizado ha sufrido con los tejemanejes del grupo en el barrio, así que puedes meter lo que te guste, grupo de cosplayers al que compraron su local donde hacían sus disfraces, grupos corales que perdieron su local ensayo, …
+XXX
 
-### La sentada
-
-Mientras los tribunales estudian todos los delitos del Grupo Ceballos, puede ser interesante montar un campamento protesta delante de la casa donde vive Lord Ceballos y una de las sedes del Grupo.
+#### Catalina hace lo suyo
 
 XXX
 
 \sp
 
-> Proponles inventar el nombre de la sentada/campamento y sé generoso con los puntos de destino si es nombre es bueno.
+Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
+
+Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
+
+### Y después su CTO
+
+Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
 
 XXX
 
-Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
-
-XXX
-
-Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios. Algunas ideas son:
-
-* **Colar un coctel molotov en el ático.** Plan simple, ejecución difícil. Lanzar una botella hasta tanta altura no es fácil.
-* **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
-* **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
-
-XXX
-
-El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios.
-
-> Cuando aparezcan los antidisturbios y vaya a empezar la gran batalla, creo que es un buen momento para dejar que alguna de tus cazadoras arengue a las tropas a lo Aragorn en las puertas de Mordor.
-
-XXX
+Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
