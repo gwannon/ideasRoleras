@@ -444,7 +444,7 @@ Lo primero debería ser informarse. Como preadolescentes puede que sepan muy poc
 
 > __Invéntate un nombre para__ __el Youtuber__ como «VanHernanding» «VampireHuntressVallekas» y úsalo en frase como «Si recuerdas el último directo de VampireHuntressVallekas, la formula para el té de ajo es de una cabeza de ajo por cada litro de agua». Quizás hasta puedan dejarle comentarios en sus directos y que este les responda. 
 
-En la sección «Cómo matarlos?» tienes todos los modos de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
+En la sección «¿Cómo matarlos?» tienes todos los modos de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error. Que no tengan toda la información y que tengan que jugársela sin saber 100% si lo que hacen es fiable le dará un punto interesante a los encuentros con vampiros.
 
 Por ejemplo, diles que parece que las cruces y el ajo repelen a los vampiros. El ajo siempre y las cruces solo si tienes fe. Si van con una ristra de ajos y crucifijo en el cuello, el vampiro ni se les acercará, pero no sabrán si es por el ajo, la cruz o ambos. Igual la próxima vez no tienen ajo y se arriesgan con el crucifijo y como su portadora no tiene fe, el vampiro se lo quita de las manos y les ataca sin problemas.
 
@@ -680,7 +680,7 @@ Puede ser un buen momento en que empiecen a ver a Catalina Faroes y que les vaya
 
 ### Si investigan las desapariciones de niñes
 
-Si investigan el tema de las desapariciones, pueden ver que muchos de ellos eran consumidores menores de drogas blandas con lo que al acudir a la lonja entran en su radar. Además sus camellos suelen informarle de este tipo de clientes.
+Si investigan el tema de las desapariciones, pueden ver que muchos de ellos eran consumidores menores de drogas blandas con lo que al acudir a la lonja entran en su radar. Además, sus camellos suelen informarle de este tipo de clientes.
 
 Néstor suele buscar sus víctimas entre esos preadolescentes y adolescentes que consumen drogas. Esto muchas veces supone que vengan de familias desestructuradas y que escapen de casa y desaparezcan sea algo posible.
 
@@ -705,7 +705,7 @@ Néstor tiene varios puntos de venta en el barrio, desde camellos pateando las c
 
 El lugar está vigilado por varios de sus sirvientes que no solo cuidan la droga, también vigilan su guarida que está bajo el local. 
 
-Además está entrando pequeños camellos todo el tiempo a conseguir más material y entregar dinero. De normal, tanto movimiento atraería la atención de las fuerzas de seguridad si no fuera porque están compradas.
+Además, está entrando pequeños camellos todo el tiempo a conseguir más material y entregar dinero. De normal, tanto movimiento atraería la atención de las fuerzas de seguridad si no fuera porque están compradas.
 
 La lonja cuenta con un __cierre centralizado de__ __todas las puertas y ventajas__ __cuyo mando controla Néstor__, de forma que, para bien o para mal, nadie puede entrar y nadie puede salir.
 
@@ -785,7 +785,7 @@ Unas vías de escape posibles son:
 * Unos petardos no romperán la puerta, pero la pueden dañar o doblar lo suficiente, para que ayude a la hora de abrirla a la puerta o quizás estropeen el mecanismo de cierre y se abran solas. 
 * Una redomita de sangre de vampiro podría dar capacidades extras para las que Néstor no ha pensado, como flotar o suficiente fuerza para forzar una puerta.
 * Las celdas desde fuera son fáciles de abrir, solo hay que tirar de la manija. Así que, si sale una cazadora, podrá sacar al resto fácilmente.
-* Normalmente solo tiene una víctima al mismo tiempo. Con tantas cazadoras, Néstor sin querer las ha puesto en celdas contiguas y hay unos agujeros de ventilación que las conectan y por donde podrán pasarse cosas pequeñas, que quepan en la mano.
+* Normalmente, solo tiene una víctima al mismo tiempo. Con tantas cazadoras, Néstor sin querer las ha puesto en celdas contiguas y hay unos agujeros de ventilación que las conectan y por donde podrán pasarse cosas pequeñas, que quepan en la mano.
 
 Tus cazadoras no lo saben, pero intentar apelar a la bondad de Néstor haciéndose las enfermas o que tienen problemas, no van a funcionar, solo disfrutará más.
 
@@ -985,6 +985,54 @@ Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como su
 
 |PorHacerDos.md|
 
+### El asalto
+
+Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto final. Puedes montar una especie de «dungeon» en el que tus cazadoras avance sala a sala acabando con lo que les echen por delante hasta llegar a la guarida de Lord Ceballos. La otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte. Por un lado, tus cazadoras, por el otro Lord Ceballos, Tito y Cova.
+
+> Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
+
+\sp
+
+Si vas a jugar todo el asalto, deberías tratar de que por lo menos tengan que superar 3 desafíos.
+
+* **La entrada principal o de servicio:** Pueden entrar a saco y empezar a repartir candela, pero si son inteligentes, tus cazadoras deberían poder hacer que los guardas salgan fuera a apoyar a los antidisturbios o que los manifestantes entren dentro.
+* **Los ascensores:** El ascensor solo funciona con un código, así que deberán robarlo, hackearlo o sacárselo a algún guarda del edificio.
+* **La antesala a la gran sala del ático:** Sinceramente, aquí puedes meter lo que quieras. Sé creativo. Lord Ceballos tiene dinero para comprar lo que quiera y debería ser capaz de pagar lo que sea que tu imaginación se le ocurra.
+
+__Guardia del edificio__
+
+* **Bueno (+2) en:** Pelear, cachear y buscar cosas escondidas
+* **Malo (-2) en:** Persuadir gente, leyes 
+* **Estrés:** ◯
+
+Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante los anteriores encuentros y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
+
+### Combate en la cumbre
+
+_NOCHE_
+
+Lord Ceballos esperará sentado en su trono a tus cazadoras con Cova y Tito, uno a cada lado. Lord Ceballos solo quiere disfrutar del espectáculo, sentado en su sillón. Quiere ver como sufren las causantes de todos sus problemas. A medida que vea como sus aliados caen, se irá poniéndose más nervioso, incluso levantándose y con intención de meterse en la pelea.
+
+Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
+
+Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
+
+> Si ves que la pelea resulta demasiado sencilla para tus cazadoras, puede hacer que Lord Ceballos entre un par de turnos a combatir. En cuanto se quede solo o reciba daño considerable, huirá. Podría enfrentarse a tus cazadoras, pero ver caer a su gente le ha dejado en shock y se le ha metido el miedo en el cuerpo para ser realmente efectivo en combate. Además, así no enseña todas sus cartas y deja alguna sorpresa para la batalla final.
+
+\sp
+
+#### La huida
+
+Si las cazadoras consiguen derrotar a sus dos principales defensas, Cova y Tito, Lord Ceballos huirá por la salida secreta de la chimenea cerca de su trono. Las cazadoras escapan a su comprensión y ahora sí que está solo, como no hacía desde hace decenios. 
+
+Si decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna forma poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena. Una vez cerrada la salida secreta está se sellará por dentro y será imposible abrirla. Aunque pudieran hacerlo porque llevan un soplete o similar, para cuando hubiera cortado las placas Lord Ceballos habrá huido lejos. 
+
+> La idea principal es que Ceballos huya y la lucha final sea en la planta de reciclaje, pero si tus cazadoras se lo montan excepcionalmente bien, pueden acabar allí mismo, en el ático, con su mayor enemigo. 
+
+Si alguna cazadora, consigue colarse en la salida secreta antes de ser selladas, quedará a completa merced del viejo vampiro. Puedes ser creativo con esa situación, desde que la use en el siguiente capítulo como señuelo a que la convierta en vampire y sea su aliada, frente a las 
+
+En esta situación, creo que es mejor que llegues a un consenso con la persona que lleva a la cazadora sobre como irán las cosas en el futuro. Podría rebelarse en el último momento contra Ceballos y sacrificarse y retenerle hasta que salga el sol. La búsqueda de una cura del vampirismo puede ser una buena forma de continuar las aventuras de tus cazadoras una vez terminada la campaña.
+
 \sp
 
 \sinc
@@ -1013,7 +1061,7 @@ Tus cazadoras podrán usar cosas del entorno para buscar y en combate. Por ejemp
 
 Si la factoría ha sido clausura, llevará días apagada y vacía. Intentar encender los hornos es una misión imposible sin conocimientos y las llaves adecuadas y si lo deseas la luz estará cortada con lo que será imposible encender la luces de las instalaciones.
 
-Aún con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.
+Aun con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.
 
 Lord Ceballos estará más dispuesto a tender trampas y emboscadas en esta situación, usando su flotabilidad y la poca visibilidad en su beneficio.
 
