@@ -1039,6 +1039,14 @@ En general cualquier grupo medianamente organizado ha sufrido con los tejemaneje
 
 \sp
 
+\sinc
+
+[![sentada barcelona por vdevivienda](./assests/images/243035023_ae40357f9c_o.jpg "sentada barcelona por vdevivienda")](https://www.flickr.com/photos/vdevivienda/243035023/ "sentada barcelona por vdevivienda")
+
+&nbsp;
+
+\conc
+
 ### La sentada
 
 Mientras los tribunales estudian todos los delitos del Grupo Ceballos, puede ser interesante montar un campamento protesta delante de la casa donde vive Lord Ceballos y una de las sedes del Grupo.
@@ -1050,6 +1058,8 @@ En una horas la plaza delante del edificio de Lord Ceballos se llenará de tiend
 > Proponles inventar el nombre de la sentada/campamento y sé generoso con los puntos de destino si es nombre es bueno.
 
 Déjales disfrutar del ambiente festivo de la sentada, habrá bailes, canciones, comida y «bebida». Deberían ver las cosas por las que están luchando y ver el poder de la comunidad.
+
+\sp
 
 En general tus cazadoras tendrán acceso en lasentada de todo tipo de habilidades y equipo, así que cualquier plan que tengan es posible llevarse a cabo. Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
 
@@ -1063,8 +1073,6 @@ Si consiguen desquiciar a Lord Ceballos varias furgonetas de antidisturbios se p
 
 El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios. Asi que deberán seguir presionando a Lord Ceballos mientras esquivan pelotas antidisturbios.
 
-\sp
-
 > Cuando aparezcan los antidisturbios y vaya a empezar la gran batalla, creo que es un buen momento para dejar que alguna de tus cazadoras arengue a las tropas a lo Aragorn en las puertas de Mordor.
 
 En cuanto Lord Ceballos envie a sus guardias para ayudar a los policias tus cazadoras tendrán via libre para entrar en la guarida del gran vampiro.
@@ -1075,11 +1083,12 @@ Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto f
 
 La otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte. Por un lado, tus cazadoras, por el otro Lord Ceballos, Tito y Cova.
 
-> Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
-
 Si vas a jugar todo el asalto, deberías tratar de que por lo menos tengan que superar 3 desafíos.
 
 * **La entrada principal o de servicio:** Pueden entrar a saco y empezar a repartir candela, pero si son inteligentes, tus cazadoras deberían poder hacer que los guardas salgan fuera a apoyar a los antidisturbios o que los manifestantes entren dentro.
+
+\sp
+
 * **Los ascensores:** El ascensor solo funciona con un código, así que deberán robarlo, hackearlo o sacárselo a algún guarda del edificio.
 * **La antesala a la gran sala del ático:** Sinceramente, aquí puedes meter lo que quieras. Sé creativo. Lord Ceballos tiene dinero para comprar lo que quiera y debería ser capaz de pagar lo que sea que tu imaginación se le ocurra.
 
@@ -1089,9 +1098,10 @@ __Guardia del edificio__
 * **Malo (-2) en:** Persuadir gente, leyes 
 * **Estrés:** ◯
 
-Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante los anteriores encuentros y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
 
-\sp
+> Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
+
+Si no vas a llevar todo el asalto, simplemente quítales algo de equipo que pudieran haber perdido durante los anteriores encuentros y ponlas al otro lado de la puerta de la sala del ático de Lord Ceballos.
 
 ### Combate en la cumbre
 
@@ -1103,7 +1113,9 @@ Cova, a diferencia de otres vampires con los que se han enfrentado, no va a conf
 
 Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
 
-> Si ves que la pelea resulta demasiado sencilla para tus cazadoras, puede hacer que Lord Ceballos entre un par de turnos a combatir. En cuanto se quede solo o reciba daño considerable, huirá. Podría enfrentarse a tus cazadoras, pero ver caer a su gente le ha dejado en shock y se le ha metido el miedo en el cuerpo para ser realmente efectivo en combate. Además, así no enseña todas sus cartas y deja alguna sorpresa para la batalla final.
+Si ves que la pelea resulta demasiado sencilla para tus cazadoras, puede hacer que Lord Ceballos entre un par de turnos a combatir, pero sin ser muy efectivo ni definitivo. En cuanto se quede solo o reciba daño considerable, huirá. Podría enfrentarse a tus cazadoras, pero ver caer a su gente le ha dejado en shock y se le ha metido el miedo en el cuerpo para ser realmente efectivo en combate. Además, así no enseña todas sus cartas y deja alguna sorpresa para la batalla final.
+
+\sp
 
 #### La huida
 
@@ -1113,7 +1125,7 @@ Si decides que huya, no deberías dejar a tus cazadores más que un turno para i
 
 > La idea principal es que Ceballos huya y la lucha final sea en la planta de reciclaje, pero si tus cazadoras se lo montan excepcionalmente bien, pueden acabar allí mismo, en el ático, con su mayor enemigo. 
 
-\sp
+\sc
 
 Si alguna cazadora, consigue colarse en la salida secreta antes de ser selladas, quedará a completa merced del viejo vampiro. Puedes ser creativo con esa situación, desde que la use en el siguiente capítulo como señuelo a que la convierta en vampire y sea su aliada, frente a las 
 

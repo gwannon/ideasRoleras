@@ -182,6 +182,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 \sp
 
 * Marcha contra narcos y tratantes por [Pulso Cristiano](https://www.flickr.com/photos/pulsocristiano/28400999812/) Creative Commons Atribución-Compartir Igual 2.0 Genérica
+* sentada barcelona por [vdevivienda](https://www.flickr.com/photos/vdevivienda/243035023/) Creative Commons Atribución-NoComercial-CompartirIgual 2.0 Genérica
 
 \sp
 

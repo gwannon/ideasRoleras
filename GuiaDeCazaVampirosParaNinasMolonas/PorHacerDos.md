@@ -36,15 +36,19 @@ XXX
 
 #### Las guardaespaldas de Catalina
 
-Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante 48 horas hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
+Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante 48 horas del fin de semana hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
 
-XXX
+La idea principal que es tu cazadoras busquen la manera de quedarse el fin de semana con Catalina XXX
 
-#### Catalina hace lo suyo
+Otra opción, si tienen dinero, es que contraten algun habitación de hotel o similar donde pasar el sabado y domingo. Es mucho más seguro, sobre todo, si lo haces a escondidas, pero exige dinero y tendrán que tener una buena excusa para convencer a Catalina.
 
 XXX
 
 \sp
+
+#### Catalina hace lo suyo
+
+XXX
 
 Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
 
