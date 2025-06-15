@@ -4,17 +4,15 @@
 
 [![Pintada vanpiro esiten](./assests/images/vanpiro-esiten.jpg "Pintada vanpiro esisten")](# "Pintada vanpiro esiten")
 
-&nbsp;
-
-Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio de su amenaza. Tu historia podría ser igual o ser totalmente diferente.
+> Esta es mi historia, de como me convertí en cazavampiros y libré a mi barrio de su amenaza. Tu historia podría totalmente diferente.
 
 ## El gran plan
 
 \conc
 
-Veamos primero cuál era el gran plan contra el que debía luchar.
+Veamos primero cuál era el gran plan contra el que deberán luchar tus cazadoras.
 
-Lord Ceballos quería montar una ciudad de juego, bebida y descontrol en mi barrio. Le gusta pasear por sus dominios y observar la miseria humana que traería el megalocal que iba a montar, New Las Vegas.
+Lord Ceballos quería montar una ciudad de juego, bebida y descontrol en el barrio. Le gusta pasear por sus dominios y observar la miseria humana que traería el megalocal que iba a montar, New Las Vegas.
 
 De hecho, se frotaba las manos pensando en como iba a pasear por la capilla de boda llena de símbolos religiosos sin qué le afectarán. 
 
@@ -24,19 +22,21 @@ Para ello tenía que conseguir que le permitieran derribar el campo de fútbol l
 
 El tema de los permisos de derribo y construcción iba a conseguirlo proporcionando a algunos concejales sus deseos más sucios y depravados y luego chantajeándolos a cambio de votar a favor de sus proyectos.
 
-Tendrían que conseguir, drogas, menores, bastante dinero y un asesinato que pareciera natural. Nada fuera de lo normal, de lo que hacía siempre.
-
 \sp
+
+Tendrían que conseguir, drogas, sexo y prostitución, bastante dinero y un asesinato que pareciera natural. Nada fuera de lo normal, de lo que hacía siempre.
 
 ### Ecodiversidad
 
-Lord Ceballos pensaba cargarse el humedal a través de una chatarrería/fundición cercana que tendría una fuga de mercurio y destruiría el ecosistema de la rana. Con lo que no habría nada que proteger. Además, así tendría un malo contra el que se manifestarían y lucharían los ecologistas y otros grupos sociales.
+Lord Ceballos pensaba cargarse el humedal a través de una planta de reciclaje/chatarrería/fundición cercana que tendría una fuga de mercurio y destruiría el ecosistema de la rana. Con lo que no habría nada que proteger. Además, así tendría un malo contra el que se manifestarían y lucharían los ecologistas y otros grupos sociales.
 
 ### Grupos vecinales
 
 Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con la fuga de mercurio, mientras pensaba hinchar a uno de los grupos a donaciones, e infiltrar a agentes con grandes dotes de persuasión y «sex appel», para sembrar la cizaña hacia dentro y hacia fuera.
 
-\sinc
+### Otras actividades
+
+Adicionalmente iba a gentrificar el barrio, llenarlo de casa de apuestas, de pisos turisticos, de ocio de borrachera, de droga barata y destruir servicios sociales como los centros sanitarios.
 
 ## Piezas en el tablero
 
@@ -57,8 +57,6 @@ El barrio está poblado de personajes secundarios que tienen sus vidas y sus his
 
 * _Samuel:_ Psicólogo «new age». Plasta pero bienintencionado.
 * _«El Mordor»:_ El peor profesor de la historia y la prehistoria.
-
-\conc
 
 \sp
 

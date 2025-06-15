@@ -18,6 +18,14 @@ Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación,
 
 XXX
 
+#### El tiempo es importante.
+
+Nieve tiene que poner en funcionamiento todo el plan vampirico y tiene mucha prisa. El plan ha tenido muchos retrasos las últimas semanas y cada día que pasa se pierde un monetón de dinero. Es por ello que Nieve tiene un calendario y nada va a parar ese calendario. Es por ello que esta parte de la campaña tengan más control del tiempo y que tus cazadoras lo noten. 
+
+Desde que tu decidas que Nieve empieza a trabajar a cada uno de los puntos siguientes (Derrame tóxico y Demolición del estadio) va a pasara una semana (7 dias con sus 7 noches) y si tus cazadoras no lo paran ese en ese tiempo será una derrota para ellas y si logras desbaratar los siguientes eventos será una victoria para tus cazadoras.
+
+Aun asi lo importante no es evitar el derrame o el derribo, lo importante es tener pruebas de esas actividades para que Catalina monte un caso contra el Grupo Ceballods.
+
 ### Derrame tóxico
 
 XXX
@@ -34,17 +42,25 @@ XXX
 
 XXX
 
-#### Las guardaespaldas de Catalina
-
-Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante 48 horas del fin de semana hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
-
-La idea principal que es tu cazadoras busquen la manera de quedarse el fin de semana con Catalina XXX
-
-Otra opción, si tienen dinero, es que contraten algun habitación de hotel o similar donde pasar el sabado y domingo. Es mucho más seguro, sobre todo, si lo haces a escondidas, pero exige dinero y tendrán que tener una buena excusa para convencer a Catalina.
+Tus cazadoras pueden demostrar que el grupo Ceballos esta detrás de la muerte de la Maricarmen Lujua para cosneguir el voto del concejal Ernesto Lujua. Si pueden completar esto con otras actividades como que son responsables del derribo del estadio o del derrame tóxico en los humedales, podrán montar un caso contra la corporación. Si tienen pruebas de que metian droga en el barrio u otras actividades criminales, mucho mejor.
 
 XXX
 
+#### Las guardaespaldas de Catalina
+
+Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante las 48 horas del fin de semana hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
+
+Catalina ya tiene toda la causa contra el grupo Ceballos y solo necesita ir a los archivos municipales y pedir acceso a diferentes archivos. Con eso archivos en mano podrá poner la denuncuia y desmontar a la corporación.
+
+La primera tarea será que tus cazadoras busquen la manera de quedarse el fin de semana con Catalina y poder protegerla. En principio podrían intentar montar una especie de pijamada con Catalina. 
+
 \sp
+
+Catalina es muy mayor para estos temas, pero pueden plantearselo como alguna convivencia/quedada donde Catalina les explique temas importantes de feminismo, racismo y/o anticapitalismo.
+
+Pueden tratar de pasar el finde en alguna sede de alguna organización con la que colabora Catalina. Otra opción, si tienen dinero, es que contraten algun tipo habitación de hotel o similar donde pasar el sabado y domingo. Es mucho más seguro, sobre todo, si lo haces a escondidas, pero exige dinero y tendrán que tener una buena excusa para convencer a Catalina.
+
+XXX
 
 #### Catalina hace lo suyo
 
