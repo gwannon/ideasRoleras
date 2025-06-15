@@ -260,3 +260,6 @@
 {"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QEn la sección «¿Cómo matarlos?» tienes todos los modos de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error.\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSentada Barcelona por vdevivienda\\E$"}
+{"rule":"FORM","sentence":"^\\QSi decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna forma poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAun con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.\\E$"}

@@ -36,7 +36,7 @@ Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con 
 
 ### Otras actividades
 
-Adicionalmente iba a gentrificar el barrio, llenarlo de casa de apuestas, de pisos turisticos, de ocio de borrachera, de droga barata y destruir servicios sociales como los centros sanitarios.
+Adicionalmente iba a gentrificar el barrio, llenarlo de casa de apuestas, de pisos turísticos, de ocio de borrachera, de droga barata y destruir servicios sociales como los centros sanitarios.
 
 ## Piezas en el tablero
 
@@ -1039,7 +1039,7 @@ En general cualquier grupo medianamente organizado ha sufrido con los tejemaneje
 
 \sinc
 
-[![sentada barcelona por vdevivienda](./assests/images/243035023_ae40357f9c_o.jpg "sentada barcelona por vdevivienda")](https://www.flickr.com/photos/vdevivienda/243035023/ "sentada barcelona por vdevivienda")
+[![Sentada Barcelona por vdevivienda](./assests/images/243035023_ae40357f9c_o.jpg "Sentada Barcelona por vdevivienda")](https://www.flickr.com/photos/vdevivienda/243035023/ "Sentada Barcelona por vdevivienda")
 
 &nbsp;
 
@@ -1051,7 +1051,7 @@ Mientras los tribunales estudian todos los delitos del Grupo Ceballos, puede ser
 
 La sentada puede ser la distracción que tu grupo necesita para poder asaltar la guarida de Lord Ceballos.
 
-En una horas la plaza delante del edificio de Lord Ceballos se llenará de tiendas de campaña, de ollas popularers, de gente haciendo carteles y banderolas, grupos de debate, batucadas, etc. Sera algo caoticamrente organizado donde tus cazadoras podrán encontrar de todo y haya gente que sepa hacer de todo, desde electricistas a limpicristales en altura, desde gente de cocina que pueda hacer té de ajo hasta guerrilleros urbanos que mejores sus pistolas de agua y sus tirachinas.
+En unas horas la plaza delante del edificio de Lord Ceballos se llenará de tiendas de campaña, de ollas populares, de gente haciendo carteles y banderolas, grupos de debate, batucadas, etc. Será algo caóticamente organizado donde tus cazadoras podrán encontrar de todo y haya gente que sepa hacer de todo, desde electricistas a limpiacristales en altura, desde gente de cocina que pueda hacer té de ajo hasta guerrilleros urbanos que mejores sus pistolas de agua y sus tirachinas.
 
 > Proponles inventar el nombre de la sentada/campamento y sé generoso con los puntos de destino si es nombre es bueno.
 
@@ -1059,7 +1059,7 @@ Déjales disfrutar del ambiente festivo de la sentada, habrá bailes, canciones,
 
 \sp
 
-En general tus cazadoras tendrán acceso en lasentada de todo tipo de habilidades y equipo, así que cualquier plan que tengan es posible llevarse a cabo. Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
+En general tus cazadoras tendrán acceso en la sentada de todo tipo de habilidades y equipo, así que cualquier plan que tengan es posible llevarse a cabo. Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
 
 Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios y se monte la distracción que necesitan tus cazadoras. Algunas ideas son:
 
@@ -1067,13 +1067,13 @@ Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, e
 * **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
 * **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
 
-Si consiguen desquiciar a Lord Ceballos varias furgonetas de antidisturbios se presentaran en la sentada para dispersarla. Enseguida se formará el caos y puede hacer alguna escena de tus cazadoras enfrentandose a los antidisturbios salvando a alguna persona indifensa de sus porrazos.
+Si consiguen desquiciar a Lord Ceballos varias furgonetas de antidisturbios se presentaran en la sentada para dispersarla. Enseguida se formará el caos y puede hacer alguna escena de tus cazadoras enfrentándose a los antidisturbios salvando a alguna persona indefensa de sus porrazos.
 
-El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios. Asi que deberán seguir presionando a Lord Ceballos mientras esquivan pelotas antidisturbios.
+El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios. Así que deberán seguir presionando a Lord Ceballos mientras esquivan pelotas antidisturbios.
 
 > Cuando aparezcan los antidisturbios y vaya a empezar la gran batalla, creo que es un buen momento para dejar que alguna de tus cazadoras arengue a las tropas a lo Aragorn en las puertas de Mordor.
 
-En cuanto Lord Ceballos envie a sus guardias para ayudar a los policias tus cazadoras tendrán via libre para entrar en la guarida del gran vampiro.
+En cuanto Lord Ceballos envíe a sus guardias para ayudar a los policías tus cazadoras tendrán vía libre para entrar en la guarida del gran vampiro.
 
 ### El asalto
 
@@ -1127,7 +1127,7 @@ Si decides que huya, no deberías dejar a tus cazadores más que un turno para i
 
 Si alguna cazadora, consigue colarse en la salida secreta antes de ser selladas, quedará a completa merced del viejo vampiro. Puedes ser creativo con esa situación, desde que la use en el siguiente capítulo como señuelo a que la convierta en vampire y sea su aliada, frente a las 
 
-En esta situación, creo que es mejor que llegues a un consenso con la persona que lleva a la cazadora sobre como irán las cosas en el futuro. Podría rebelarse en el último momento contra Ceballos y sacrificarse y retenerle hasta que salga el sol. La búsqueda de una cura del vampirismo puede ser una buena forma de continuar las aventuras de tus cazadoras una vez terminada la campaña.
+En esta situación, creo que es mejor que llegues a un consenso con la persona que lleva a la cazadora sobre como irán las cosas en el futuro. Podría rebelarse en el último momento contra Ceballos y sacrificarse y retenerle hasta que salga el sol. La búsqueda de una cura del vampirismo puede ser una buena manera de continuar las aventuras de tus cazadoras una vez terminada la campaña.
 
 \sp
 
