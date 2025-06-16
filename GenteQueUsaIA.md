@@ -12,6 +12,11 @@ https://pelgranepress.com/2023/03/07/legions-of-carcosa-ai-art/
 
 https://rolerodelamancha.wordpress.com/2024/05/03/resena-rolera-legions-of-carcose-o-porque-me-repelen-las-ilustraciones-por-ia/
 
+
+### Editorial Shadowlands
+
+https://x.com/Shadowlandsed/status/1834666574856466761
+
 ## Creadores independientes
 
 ### ATHOSIRART
