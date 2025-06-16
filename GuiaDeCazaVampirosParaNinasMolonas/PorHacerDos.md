@@ -38,6 +38,8 @@ XXX
 
 XXX
 
+\sp
+
 #### Hablando con Catalina
 
 XXX
@@ -53,8 +55,6 @@ Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazador
 Catalina ya tiene toda la causa contra el grupo Ceballos y solo necesita ir a los archivos municipales y pedir acceso a diferentes archivos. Con esos archivos en mano podrá poner la denuncia y desmontar a la corporación.
 
 La primera tarea será que tus cazadoras busquen la manera de quedarse el fin de semana con Catalina y poder protegerla. En principio podrían intentar montar una especie de pijamada con Catalina. 
-
-\sp
 
 Catalina es muy mayor para estos temas, pero pueden planteárselo como alguna convivencia/quedada donde Catalina les explique temas importantes de feminismo, racismo y/o anticapitalismo.
 
