@@ -96,6 +96,18 @@ Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sind
 
 Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
 
-XXX
+En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad. Lanzará terribles aullidos 
 
-Pelear con Nieve es difícil, es bastante poderosa y va bien armada. Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
+Empezará a recorrer el barrio como algún tipo de bestia salvaje que ira atacando a los peatones. La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
+
+Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas».
+
+Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
+
+\sp
+
+Tras un para intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe que hay en pistolas de agua y globos de agua, como sabe quien puede ser una creyente, etc. 
+
+No es fácil sorprenderla y se mantendrá fuera del alcance de las pistolas, escondiéndose en las sobras y saliendo solo a atacar a cazadoras desprevenidas.
+
+Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.

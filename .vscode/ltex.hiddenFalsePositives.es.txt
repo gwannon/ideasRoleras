@@ -263,3 +263,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSentada Barcelona por vdevivienda\\E$"}
 {"rule":"FORM","sentence":"^\\QSi decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna forma poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena.\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QAun con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.\\E$"}
+{"rule":"FORM","sentence":"^\\QAun así no abandonara su forma «trash».\\E$"}
+{"rule":"FORM","sentence":"^\\QEntrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad.\\E$"}
