@@ -728,3 +728,20 @@ El personaje del antiguo egipcio se enfrenta al misterio cara a cara y puede dej
 No necesariamente tiene que morir puede la momia, puede sobrevivir a un intento de asesinato, o un golpe militar, etc. y morir muchos años despues pero tener secuelas en el cuerpo o dejar papiros y objetos con pistas.
 
 Todo esto vino a partir de esta pregunta de [Ainu No Oni](https://bsky.app/profile/gwannon.com/post/3laqibumcxa2j)
+
+### Huir del demonio
+
+Un tópico de los libros y las peliculas, es un huir del demonio, bien porque le debes tu alma, bien porque has escapado del infierno. La idea sería un juego indie o solitario donde tienes que huir del demonio como sea.
+
+Puede ser un play to lose y al final el demonio te va a atrapar y llevarte de vuetla al infierno. Tambien puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafisosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendriamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compesen tus malos actos.
+
+Tener o no tener poderes demoniacos/infernales tambiéns ería un punto importante a definir.
+
+### La extraordinaria liga de ayudantes
+
+Sería una aventura donde llevas a los ayudantes de personajes de ficción famosos. Watson de Sherlock Holmes, XXX
+
+### Burócrata como clase de personaje
+
+Estamos hablando de personaje que se conoce las leyes y tiene los contactos necesarios para usar la burocracia y XXX
+
