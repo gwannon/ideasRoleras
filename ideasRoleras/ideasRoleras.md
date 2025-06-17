@@ -723,19 +723,21 @@ O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que
 
 Creo que sería divertido hacer una historia en paralelo en que juegas con dos personajes, un PJ en el Egipto antiguo y otro PJ rollo egiptólogo en la actualidad que descubre el misterio del primero.
 
-El personaje del antiguo egipcio se enfrenta al misterio cara a cara y puede dejar pistas en su momia y el egiptologo debe investigar su tumba, su tesoro y su momia para descubrir qué le paso.
+El personaje del antiguo egipcio se enfrenta al misterio cara a cara y puede dejar pistas en su momia y el egiptólogo debe investigar su tumba, su tesoro y su momia para descubrir qué le paso.
 
-No necesariamente tiene que morir puede la momia, puede sobrevivir a un intento de asesinato, o un golpe militar, etc. y morir muchos años despues pero tener secuelas en el cuerpo o dejar papiros y objetos con pistas.
+No necesariamente tiene que morir puede la momia, puede sobrevivir a un intento de asesinato, o un golpe militar, etc. y morir muchos años después pero tener secuelas en el cuerpo o dejar papiros y objetos con pistas.
 
 Todo esto vino a partir de esta pregunta de [Ainu No Oni](https://bsky.app/profile/gwannon.com/post/3laqibumcxa2j)
 
+\sc
+
 ### Huir del demonio
 
-Un tópico de los libros y las peliculas, es un huir del demonio, bien porque le debes tu alma, bien porque has escapado del infierno. La idea sería un juego indie o solitario donde tienes que huir del demonio como sea.
+Un tópico de los libros y las películas, es un huir del demonio, bien porque le debes tu alma, bien porque has escapado del infierno. La idea sería un juego indie o solitario donde tienes que huir del demonio como sea.
 
-Puede ser un play to lose y al final el demonio te va a atrapar y llevarte de vuetla al infierno. Tambien puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafisosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendriamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compesen tus malos actos.
+Puede ser un «play to lose» y al final el demonio te va a atrapar y llevarte de vuelta al infierno. También puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafiosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendríamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compensen tus malos actos.
 
-Tener o no tener poderes demoniacos/infernales tambiéns ería un punto importante a definir.
+Tener o no tener poderes demoniacos/infernales también sería un punto importante a definir.
 
 ### La extraordinaria liga de ayudantes
 
