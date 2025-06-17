@@ -716,3 +716,15 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
+
+\sp
+
+### Se ha escrito un papiro
+
+Creo que sería divertido hacer una historia en paralelo en que juegas con dos personajes, un PJ en el Egipto antiguo y otro PJ rollo egiptólogo en la actualidad que descubre el misterio del primero.
+
+El personaje del antiguo egipcio se enfrenta al misterio cara a cara y puede dejar pistas en su momia y el egiptologo debe investigar su tumba, su tesoro y su momia para descubrir qué le paso.
+
+No necesariamente tiene que morir puede la momia, puede sobrevivir a un intento de asesinato, o un golpe militar, etc. y morir muchos años despues pero tener secuelas en el cuerpo o dejar papiros y objetos con pistas.
+
+Todo esto vino a partir de esta pregunta de [Ainu No Oni](https://bsky.app/profile/gwannon.com/post/3laqibumcxa2j)
