@@ -265,3 +265,7 @@
 {"rule":"OBSCURE","sentence":"^\\QAun con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.\\E$"}
 {"rule":"FORM","sentence":"^\\QAun así no abandonara su forma «trash».\\E$"}
 {"rule":"FORM","sentence":"^\\QEntrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa oportunidad aparece en forma de baile de disfraces.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QPlantea esta escena como una especie de robo de guante blanco o de fuga donde hay cosas extrañas, como gente disfrazada, bailes, fuegos artificiales, perversiones en los oscuros rincones y objetos que puede que sean falsos.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa persona a la que quieren interrogar en une artiste y la mejor forma de entrar en contacto con elle y estar a solas es hacerse pasar por une modele artistique.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn juegos cyberpunk no hay nada como un puesto callejero en un olvidado callejón donde tus personajes discutan sus problemas, mientras sorbe un cuenco de fideos.\\E$"}
