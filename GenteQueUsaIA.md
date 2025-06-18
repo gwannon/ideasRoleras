@@ -17,6 +17,12 @@ https://rolerodelamancha.wordpress.com/2024/05/03/resena-rolera-legions-of-carco
 
 https://x.com/Shadowlandsed/status/1834666574856466761
 
+### Duelbooks
+
+https://duelbooks.com/
+
+https://www.verkami.com/projects/37148-descubre-duelbooks-el-juego-de-combates-epicos-con-libros
+
 ## Creadores independientes
 
 ### ATHOSIRART
@@ -45,7 +51,7 @@ Lo único bueno que puedo decir de la revista [Sinergia magazine](http://www.sin
 
 ## Declaraciones varias a favor de la IA
 
-
+https://www.youtube.com/watch?v=66da-tSKK0s
 
 
 ---
