@@ -747,3 +747,14 @@ Sería una aventura donde llevas a los ayudantes de personajes de ficción famos
 
 Estamos hablando de personaje que se conoce las leyes y tiene los contactos necesarios para usar la burocracia y XXX
 
+### Agente inmobiliario medieval fantástico
+
+Eres un agente inmobiliario en un mundo medieval fantástico y debes vender los peores inmuebles posibles. Casa al lado de Mordor, vecinos Uruk-hai, XXX y, como no, ratas gigantes en el sótano.
+
+Los clientes podrían ser de todo tipo desde PJ de nivel 1 a señores del mal que buscan tener su propia mazmorra.
+
+Tendrás que limpiar el inmueble, hornear galletas para el día de visita y evitar que se los coman los goblins, pasar el limo ácido para que limpie suelos, techos y paredes, poner flores (algunas veces carnívoras) y colocar cuadros familiares (a veces de familias descuartizadas). 
+
+Subirías de dinero en plan OSR, en función de la comisión de ventas que consigas.
+
+XXX
