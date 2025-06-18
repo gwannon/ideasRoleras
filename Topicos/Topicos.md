@@ -9,6 +9,8 @@ Primero deberán conseguir entrar en la subasta, así que deberán conseguir una
 
 Seguramente terminen robando la pieza y saliendo a la carrera porque no podrán pagar la pieza que han comprado.
 
+***
+
 **Género:** Varios
 
 **Título:** La fiesta de disfraces
@@ -22,6 +24,8 @@ Dentro de la fiesta de disfraces puedes meter bailes, concursos tontos o picante
 
 Plantea esta escena como una especie de robo de guante blanco o de fuga donde hay cosas extrañas, como gente disfrazada, bailes, fuegos artificiales, perversiones en los oscuros rincones y objetos que puede que sean falsos.
 
+***
+
 **Género:** Varios
 
 **Título:** Modelos artísticos
@@ -29,12 +33,16 @@ Plantea esta escena como una especie de robo de guante blanco o de fuga donde ha
 **Escena:**
 La persona a la que quieren interrogar en une artiste y la mejor forma de entrar en contacto con elle y estar a solas es hacerse pasar por une modele artistique. Tendrán que posar para un cuadro o una escultura o participar en algún otro tipo de montaje artístico. Durante ese tiempo podrán sonsacarle información.
 
+***
+
 **Género:** Varios
 
 **Título:** Protestas
 
 **Escena:** Tu mesa necesita acceder a determinado lugar y para su desgracia el lugar es el centro de una protestas. Quizás tengan que acceder a un astillero donde sus trabajadores están en huelga y se han atrincherado en las instalaciones. Puede que algunos ecologistas se han encadenado a unas máquinas y no permiten el paso del vehículo de les personajes.
 XXX
+
+***
 
 **Género:** Varios
 
