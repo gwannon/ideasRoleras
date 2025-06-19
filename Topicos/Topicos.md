@@ -28,7 +28,7 @@ Plantea esta escena como una especie de robo de guante blanco o de fuga donde ha
 
 **Género:** Varios
 
-**Título:** Modelos artísticos
+**Título:** Posando artísticamente
 
 **Escena:**
 La persona a la que quieren interrogar en une artiste y la mejor forma de entrar en contacto con elle y estar a solas es hacerse pasar por une modele artistique. Tendrán que posar para un cuadro o una escultura o participar en algún otro tipo de montaje artístico. Durante ese tiempo podrán sonsacarle información.
@@ -100,6 +100,18 @@ Hace 15 años, durante una gran hambruna, Mamá Claire, sacó su olla de estofad
 El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida a nadie. La gente trae lo poco que les sobra para echarlo en la olla y Mamá Claire lo reparte entre las personas más desfavorecidas de la ciudad.
 
 Tus personajes quizás cojan un plato y se pongan a la cola para recibir una generosa ración de estofado y tal vez debieran mirar en sus petates porque seguro que tienen algo que echar a la olla popular.
+
+***
+
+**Género:** Investigación
+
+**Título:** Diógenes
+
+**Escena:**
+
+Tus investigadores se han quedado sin pistas, todas dan a callejones sin salida. Por suerte, en el barrio donde ha sucedido el crimen que investigan tus personajes hay une recolectore/acaparadore que guarda en su casa todo tipo de trastos que saca de la basura de sus vecinos. Puede que tenga pruebas del crimen, pero seguro que están bajo toneladas de basura y porquería.
+
+No será fácil, primero tendrán que convencerle de que les deje entrar a rebuscar y segundo tendrán que encontrar algo útil entre las montañas de basura, suciedad, porquería y trastos rotos. El olor será horrible y las posibilidades de coger alguna enfermedad o sufrir un accidente muy altas, pero no hay otra salida.
 
 ***
 
