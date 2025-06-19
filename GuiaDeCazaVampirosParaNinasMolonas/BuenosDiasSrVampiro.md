@@ -983,6 +983,36 @@ Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como su
 
 |PorHacerDos.md|
 
+#### Catalina hace lo suyo
+
+A las 8:30 de la mañana, cuando abra el registro municipal, Catalina entrará y empezará a pedir registros e informes, haciendo fotocopias y compulsándolas, para guardarlo todo en su maletín de cuero de abogada sería. En un par de horas, estará en los juzgados con poniendo una denuncia, haciendo caer la primera pieza de dominó que llevará a la destrucción de la corporación Ceballos.
+
+Tus cazadoras pueden ir con ella como guardaespaldas o seguirla en la distancia vigilando que nadie sospechoso se le acerque con malas intenciones. Sea como sea, nadie molestará a Catalina mientras pone las denuncias. A pleno día y en sitios públicos no sería buena idea. 
+
+Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
+
+Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
+
+\sp
+
+### Y después su CTO
+
+Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
+
+En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad. Lanzará terribles aullidos 
+
+Empezará a recorrer el barrio como algún tipo de bestia salvaje que ira atacando a los peatones. La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
+
+Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas».
+
+Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
+
+Tras un para intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe que hay en pistolas de agua y globos de agua, como sabe quien puede ser una creyente, etc. 
+
+No es fácil sorprenderla y se mantendrá fuera del alcance de las pistolas, escondiéndose en las sobras y saliendo solo a atacar a cazadoras desprevenidas.
+
+Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
+
 \sp
 
 \sinc
@@ -1095,7 +1125,6 @@ __Guardia del edificio__
 * **Bueno (+2) en:** Pelear, cachear y buscar cosas escondidas
 * **Malo (-2) en:** Persuadir gente, leyes 
 * **Estrés:** ◯
-
 
 > Mi consejo es que pases de preludios y una vez consigan movilizar al barrio y estén preparadas, pases a la escena final del asalto. Ir habitación por habitación acabando con todos los enemigos o infiltrándose en secreto por trampillas, montacargas y conductos de ventilación ya lo han hecho muchas veces.
 

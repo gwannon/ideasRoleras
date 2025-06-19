@@ -269,3 +269,4 @@
 {"rule":"OBSCURE","sentence":"^\\QPlantea esta escena como una especie de robo de guante blanco o de fuga donde hay cosas extrañas, como gente disfrazada, bailes, fuegos artificiales, perversiones en los oscuros rincones y objetos que puede que sean falsos.\\E$"}
 {"rule":"FORM","sentence":"^\\QLa persona a la que quieren interrogar en une artiste y la mejor forma de entrar en contacto con elle y estar a solas es hacerse pasar por une modele artistique.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn juegos cyberpunk no hay nada como un puesto callejero en un olvidado callejón donde tus personajes discutan sus problemas, mientras sorbe un cuenco de fideos.\\E$"}
+{"rule":"HABER_DE_INFINITIVO","sentence":"^\\QSegún a que se dedique la asociación, puede haber de todo en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc.\\E$"}

@@ -80,34 +80,8 @@ Para agentes mortales, usa un gran número siervos humanos con características 
 
 Seguramente el local donde pasen el fin de semana no será el lugar más seguro, pero hay algunas medidas de seguridad que pueden implementar tus cazadoras que podrían darles ventaja durante los ataques.
 
-* Por muy poco dinero pueden poner cámaras WIFI con sensor de movimiento que avise al móvil. Evitará que sean sorprendidas por intrusos que intenten colarse.
-* Repartir armas por todo el local, como globos de té de ajo y bates de beisbol, les permitirá armarse estén donde estén y poder dar una respuesta rápida que seguro que no se esperan los incursores.
-* XXX
-
-#### Catalina hace lo suyo
-
-XXX
-
-Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
-
-Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
-
-### Y después su CTO
-
-Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
-
-En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad. Lanzará terribles aullidos 
-
-Empezará a recorrer el barrio como algún tipo de bestia salvaje que ira atacando a los peatones. La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
-
-Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas».
-
-Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
-
-\sp
-
-Tras un para intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe que hay en pistolas de agua y globos de agua, como sabe quien puede ser una creyente, etc. 
-
-No es fácil sorprenderla y se mantendrá fuera del alcance de las pistolas, escondiéndose en las sobras y saliendo solo a atacar a cazadoras desprevenidas.
-
-Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es muy frágil, si la desquician cometerá errores y podrán usarlos para acabar con ella.
+* Por muy poco dinero pueden poner _cámaras WIFI_ con sensor de movimiento que avise al móvil. Evitará que sean sorprendidas por intrusos que intenten colarse.
+* _Repartir armas por todo el local_, como globos de té de ajo y bates de beisbol, les permitirá armarse estén donde estén y poder dar una respuesta rápida que seguro que no se esperan los incursores.
+* Si consiguen algún tipo de _local parroquial_, podrían tener crucifijos y agua bendita sin problemas y seguro que los vampiros no les gusta pisar suelo sagrado.
+* _No tienen protección del hogar_, ya que es un local público y los vampiros pueden entrar sin ser invitados, pero estos locales sueles tener robos y suelen estar _bien cerrados y protegidos_ con rejas en ventajas, puertas con cadenas y candados. Algo es algo.
+* Según a que se dedique la asociación, _puede haber de todo_ en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc. 
