@@ -95,9 +95,9 @@ Les personajes le encontrarán en las calles y le reconocerán y está metide en
 
 Mientras avanzan por las calles un delicioso olor llena las fosas nasales (si tienen) de les personajes. No habían olido algo tan delicioso desde que dejaron su hogar.
 
-Hace 15 años, durante una gran hambruna, Mamá Claire, sacó su olla de estofado a la y empezó a repartir platos de comida a sus vecinos. Cada uno trajo lo que pudo y Mamá siguió cocinando estofando.
+Hace 15 años, durante una gran hambruna, Mamá Claire, sacó su olla de estofado a la calle y empezó a repartir platos de comida a sus vecines. Cada une trajo lo que pudo y Mamá siguió cocinando estofando.
 
-El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida a nadie. La gente trae lo poco que les sobra para echarlo en la olla y Mamá Claire lo reparte entre los más desfavorecidos de la ciudad.
+El fuego de su cocina lleva sin apagarse desde entonces y nunca le ha negado un plato de comida a nadie. La gente trae lo poco que les sobra para echarlo en la olla y Mamá Claire lo reparte entre las personas más desfavorecidas de la ciudad.
 
 Tus personajes quizás cojan un plato y se pongan a la cola para recibir una generosa ración de estofado y tal vez debieran mirar en sus petates porque seguro que tienen algo que echar a la olla popular.
 
