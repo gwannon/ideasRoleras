@@ -332,6 +332,14 @@ Si lo quieres más serio, podría haber una gran estratificación de la gente de
 
 Habría que ascender socialmente ayudando a tus profesores o extorsionándoles.
 
+### Huir del demonio
+
+Un tópico de los libros y las películas, es un huir del demonio, bien porque le debes tu alma, bien porque has escapado del infierno. La idea sería un juego indie o solitario donde tienes que huir del demonio como sea.
+
+Puede ser un «play to lose» y al final el demonio te va a atrapar y llevarte de vuelta al infierno. También puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafiosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendríamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compensen tus malos actos.
+
+Tener o no tener poderes demoniacos/infernales también sería un punto importante a definir.
+
 ### La liga de los críptidos extraordinarios
 
 Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
@@ -339,6 +347,8 @@ Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), d
 ### Mad men RPG
 
 Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
+
+\sp
 
 ### Mensajero/a en bici en ciudad cyberpunk.
 
@@ -349,8 +359,6 @@ Debes entregar un paquete y esquivar los equipos de mercenarios enviados por meg
 Algún becario del departamento de egiptología del British Museum ha desempolvado el Libro de Amon-Ra (el de La Momia) y ha leído un pasaje al azar. 
 
 En ese momento un grupo de momias se despiertan en el ala de egiptología del museo. Deberán averiguar dónde están, por qué están allí y conseguir el libro y escapar del museo, evitando sistemas de seguridad y a los vigilantes.
-
-\sp
 
 ### Los Nabucodonosorcitos RPG
 
@@ -400,6 +408,8 @@ Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden def
 
 Está inspirado en los arquetipos del Nephilim de Chaosium, que serían representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
 
+\sp
+
 Los jugadores podrían cederse dados (mezcla de colores).
 
 Por [Mondriter](https://mastodon.social/@Moonrider_acme)
@@ -411,8 +421,6 @@ Trabajas en una empresa que suministra PNJ a DJ. Cuándo un DJ está preparando 
 Los de RRHH te pasan la aventura y tú tienes que preparar la escena, como pintar chapas de dorado para hacer el tesoro, montar una marioneta gigante de un monstruo o crear un decorado de un pueblo hobbit.
 
 Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de profundo o un piloto espacial y te toca ser un enano minero.
-
-\sp
 
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
 
@@ -448,9 +456,21 @@ Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
 
+### Se ha escrito un papiro
+
+Creo que sería divertido hacer una historia en paralelo en que juegas con dos personajes, un PJ en el Egipto antiguo y otro PJ rollo egiptólogo en la actualidad que descubre el misterio del primero.
+
+El personaje del antiguo egipcio se enfrenta al misterio cara a cara y puede dejar pistas en su momia y el egiptólogo debe investigar su tumba, su tesoro y su momia para descubrir qué le paso.
+
+No necesariamente tiene que morir puede la momia, puede sobrevivir a un intento de asesinato, o un golpe militar, etc. y morir muchos años después pero tener secuelas en el cuerpo o dejar papiros y objetos con pistas.
+
+Todo esto vino a partir de esta pregunta de [Ainu No Oni](https://bsky.app/profile/gwannon.com/post/3laqibumcxa2j)
+
 ### Slapstick RPG
 
 El slapstick es el género de todas esas películas mudas Chaplin, Buster Keaton, etc. El juego tendría, por un lado, mecánicas para jugar todos los clichés del género como persecuciones, quedar colgado de un lugar alto, mosquear a la policía, golpes, tortazos, resbalones, …
+
+\sp
 
 Por otro lado, debería haber unas mecánicas para gestionar que los personajes son mudos y solo hay comunicación escrita. También tendría que marcarse la mímica y la sobreactuación de los personajes.
 
@@ -467,8 +487,6 @@ Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de 
 ### La villa secreta de las mascotas
 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
-
-\sp
 
 Les contratan en peligrosas misiones que solo una mascota preparada puede cumplir como repartir muestras gratis de sangre falsa en un baile de vampiros o hacer una campaña de seguridad vial para usar ropa reflectante de noche en un pueblo de ninjas.
 
@@ -718,26 +736,6 @@ Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
 \sp
-
-### Se ha escrito un papiro
-
-Creo que sería divertido hacer una historia en paralelo en que juegas con dos personajes, un PJ en el Egipto antiguo y otro PJ rollo egiptólogo en la actualidad que descubre el misterio del primero.
-
-El personaje del antiguo egipcio se enfrenta al misterio cara a cara y puede dejar pistas en su momia y el egiptólogo debe investigar su tumba, su tesoro y su momia para descubrir qué le paso.
-
-No necesariamente tiene que morir puede la momia, puede sobrevivir a un intento de asesinato, o un golpe militar, etc. y morir muchos años después pero tener secuelas en el cuerpo o dejar papiros y objetos con pistas.
-
-Todo esto vino a partir de esta pregunta de [Ainu No Oni](https://bsky.app/profile/gwannon.com/post/3laqibumcxa2j)
-
-\sc
-
-### Huir del demonio
-
-Un tópico de los libros y las películas, es un huir del demonio, bien porque le debes tu alma, bien porque has escapado del infierno. La idea sería un juego indie o solitario donde tienes que huir del demonio como sea.
-
-Puede ser un «play to lose» y al final el demonio te va a atrapar y llevarte de vuelta al infierno. También puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafiosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendríamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compensen tus malos actos.
-
-Tener o no tener poderes demoniacos/infernales también sería un punto importante a definir.
 
 ### Agente inmobiliario medieval fantástico
 
