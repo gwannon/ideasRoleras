@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 06/06/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 27/06/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos y ambientaciones
 
@@ -758,3 +758,7 @@ Sería una aventura donde llevas a los ayudantes de personajes de ficción famos
 ### Burócrata como clase de personaje
 
 Estamos hablando de personaje que se conoce las leyes y tiene los contactos necesarios para usar la burocracia y XXX
+
+### Mujercitas
+
+XXX
