@@ -69,6 +69,7 @@ Durante esas 48 horas deberían sufrir por los menos dos intentos de secuestro/a
 \sp
 
 * XXX
+* Si piden comida a domicilio, porque tendrán que comer en algún momento de las 48 horas, los sicarios de Nieve se podrían hacer pasar por repartidores para colarse dentro del local y atacar. Como solo puede entrar uno, sería un pequeño caballo de Troya que investiga el lugar y saca info o facilita la entrada de otros dejando alguna puerta abierta o similar. Incluso podría dejar alguna cámara espía o micrófonos.  
 
 Puedes usar como inspiración para el ataque nocturno una de estas situaciones.
 
@@ -83,5 +84,5 @@ Seguramente el local donde pasen el fin de semana no será el lugar más seguro,
 * Por muy poco dinero pueden poner _cámaras WIFI_ con sensor de movimiento que avise al móvil. Evitará que sean sorprendidas por intrusos que intenten colarse.
 * _Repartir armas por todo el local_, como globos de té de ajo y bates de beisbol, les permitirá armarse estén donde estén y poder dar una respuesta rápida que seguro que no se esperan los incursores.
 * Si consiguen algún tipo de _local parroquial_, podrían tener crucifijos y agua bendita sin problemas y seguro que los vampiros no les gusta pisar suelo sagrado.
-* _No tienen protección del hogar_, ya que es un local público y los vampiros pueden entrar sin ser invitados, pero estos locales sueles tener robos y suelen estar _bien cerrados y protegidos_ con rejas en ventajas, puertas con cadenas y candados. Algo es algo.
+* _No tienen protección del hogar_, ya que es un local público y los vampiros pueden entrar sin ser invitados, pero estos locales sueles tener robos y suelen estar _bien cerrados y_ _protegidos_ con rejas en ventajas, puertas con cadenas y candados. Algo es algo.
 * Según a que se dedique la asociación, _puede haber de todo_ en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc. 

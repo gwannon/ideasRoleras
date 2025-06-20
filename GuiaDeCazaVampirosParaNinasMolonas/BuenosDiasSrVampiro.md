@@ -989,11 +989,11 @@ A las 8:30 de la mañana, cuando abra el registro municipal, Catalina entrará y
 
 Tus cazadoras pueden ir con ella como guardaespaldas o seguirla en la distancia vigilando que nadie sospechoso se le acerque con malas intenciones. Sea como sea, nadie molestará a Catalina mientras pone las denuncias. A pleno día y en sitios públicos no sería buena idea. 
 
+\sp
+
 Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
 
 Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
-
-\sp
 
 ### Y después su CTO
 
