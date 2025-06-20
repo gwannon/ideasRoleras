@@ -270,3 +270,7 @@
 {"rule":"FORM","sentence":"^\\QLa persona a la que quieren interrogar en une artiste y la mejor forma de entrar en contacto con elle y estar a solas es hacerse pasar por une modele artistique.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QEn juegos cyberpunk no hay nada como un puesto callejero en un olvidado callejón donde tus personajes discutan sus problemas, mientras sorbe un cuenco de fideos.\\E$"}
 {"rule":"HABER_DE_INFINITIVO","sentence":"^\\QSegún a que se dedique la asociación, puede haber de todo en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi tus cazadoras no quieren acudir a Catalina, Catalina acudirá a ellas.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDeben considerar que Catalina es muy escéptica en temas sobrenaturales, así que sin buenas pruebas físicas (como Alfonse o Nieve), en esta parte de la trama será casi imposible convencerla de la existencia del plan vampírico.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDeben considerar que Catalina es muy escéptica en temas sobrenaturales, así que sin buenas pruebas físicas (como Alfonse o Eloise), en esta parte de la trama será casi imposible convencerla de la existencia del plan vampírico.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCatalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas.\\E$"}

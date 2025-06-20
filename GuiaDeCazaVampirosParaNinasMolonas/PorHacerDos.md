@@ -40,17 +40,29 @@ XXX
 
 ### La caída del Grupo Ceballos
 
-XXX
+El paso lógico a seguir con todo lo que saben tus cazadoras es denunciar las ilegalidades del grupo Ceballos y que el peso de la justicia caiga sobre la corporación.
+
+Deberían desconfiar de las fuerzas de la ley, no han sido de ayuda hasta ahora, pero quizás es que no han llamado a las puertas adecuadas.
 
 #### Hablando con Catalina
 
-XXX
+A estas alturas deberían conocer a Catalina y saber que es de fiar. Está claro que dará batalla legal y tiene el apoyo del barrio así que sus denuncias podrían llegar lejos. 
+
+Catalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas. Tus cazadoras pueden darle todo eso acompañado de pruebas si es que se han molestado en recogerlas.
 
 Tus cazadoras pueden demostrar que el grupo Ceballos está detrás de la muerte de la Maricarmen Lujua para conseguir el voto del concejal Ernesto Lujua. Si pueden completar esto con otras actividades como que son responsables del derribo del estadio o del vertido tóxico en los humedales, podrán montar un caso contra la corporación. Si tienen pruebas de que metían droga en el barrio u otras actividades criminales, mucho mejor.
 
-XXX
+Si tus cazadoras no quieren acudir a Catalina, Catalina acudirá a ellas. Seguramente que las haya visto en algún vídeo de internet y querrá interrogarlas para empezar a crear un caso contra el Grupo Ceballos. De modo que las buscará y las entrevistará. Es en ese momento en que debería ganarse su confianza si no la tenía.
+
+Durante toda una semana (de lunes a viernes), investigará por las mañanas y se reunirá con tus cazadoras por las tardes para entrevistarlas y ellas deberán decidir que le cuentan y que no. En cuanto llegue el fin de semana Catalina no puede investigar mucho más (archivos, oficinas públicas y demás cerradas), así que tiene pensado organizar todo el papeleo para hacer las denuncias el lunes a primera hora tras conseguir ciertas pruebas.
+
+Deben considerar que Catalina es muy escéptica en temas sobrenaturales, así que sin buenas pruebas físicas (como Alfonse o Eloise), en esta parte de la trama será casi imposible convencerla de la existencia del plan vampírico. 
 
 #### Las guardaespaldas de Catalina
+
+Las indagaciones de Catalina han hecho saltar las alarmas de la abogacía de la corporación Ceballos y rápidamente llegarán informes a la mesa de Nieve sobre una abogada independiente del barrio que está haciendo demasiadas preguntas. 
+
+\sp
 
 Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante las 48 horas del fin de semana hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
 
@@ -66,23 +78,9 @@ En ambos casos los vampiros no necesitarán pedir permiso para entrar. Pero ser�
 
 Durante esas 48 horas deberían sufrir por los menos dos intentos de secuestro/asesinato de Catalina, uno de noche con agentes vampíricos y otro de día. Estas pueden ser algunas ideas para el día:
 
-\sp
-
 * XXX
 * Si piden comida a domicilio, porque tendrán que comer en algún momento de las 48 horas, los sicarios de Nieve se podrían hacer pasar por repartidores para colarse dentro del local y atacar. Como solo puede entrar uno, sería un pequeño caballo de Troya que investiga el lugar y saca info o facilita la entrada de otros dejando alguna puerta abierta o similar. Incluso podría dejar alguna cámara espía o micrófonos.  
 
 Puedes usar como inspiración para el ataque nocturno una de estas situaciones.
 
 * XXX
-
-Para los agentes vampíricos, puedes poner algún vampiro noob con las características de Alfonse o Verónica que estén sirviendo a Nieve en otras partes del plan.
-
-Para agentes mortales, usa un gran número siervos humanos con características como los polis corruptos de la comisaría de policía del barrio, «el cripi» o los bedeles que sirven a Verónica.
-
-Seguramente el local donde pasen el fin de semana no será el lugar más seguro, pero hay algunas medidas de seguridad que pueden implementar tus cazadoras que podrían darles ventaja durante los ataques.
-
-* Por muy poco dinero pueden poner _cámaras WIFI_ con sensor de movimiento que avise al móvil. Evitará que sean sorprendidas por intrusos que intenten colarse.
-* _Repartir armas por todo el local_, como globos de té de ajo y bates de beisbol, les permitirá armarse estén donde estén y poder dar una respuesta rápida que seguro que no se esperan los incursores.
-* Si consiguen algún tipo de _local parroquial_, podrían tener crucifijos y agua bendita sin problemas y seguro que los vampiros no les gusta pisar suelo sagrado.
-* _No tienen protección del hogar_, ya que es un local público y los vampiros pueden entrar sin ser invitados, pero estos locales sueles tener robos y suelen estar _bien cerrados y_ _protegidos_ con rejas en ventajas, puertas con cadenas y candados. Algo es algo.
-* Según a que se dedique la asociación, _puede haber de todo_ en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc. 

@@ -12,7 +12,7 @@ Lord Ceballos cree en segundas oportunidades, pero no en terceras. Eloise ha fal
 
 XXX
 
-### Nieve como aliada
+### Eloise como aliada
 
 Si tus cazadoras dejaron escapar a Alfonse como aliado, puede ser interesante darle la opción de aliarse con Nieve de alguna manera. Piensa que es, dentro de la pirámide vampírica y junto a Alfonse, uno de los personajes más humano y más cercanos a ellos.
 
