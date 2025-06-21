@@ -274,3 +274,5 @@
 {"rule":"PHYSICIAN","sentence":"^\\QDeben considerar que Catalina es muy escéptica en temas sobrenaturales, así que sin buenas pruebas físicas (como Alfonse o Nieve), en esta parte de la trama será casi imposible convencerla de la existencia del plan vampírico.\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QDeben considerar que Catalina es muy escéptica en temas sobrenaturales, así que sin buenas pruebas físicas (como Alfonse o Eloise), en esta parte de la trama será casi imposible convencerla de la existencia del plan vampírico.\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QCatalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas.\\E$"}
+{"rule":"FORM","sentence":"^\\QDespués de cada sesión donde hubo una escena musical puedes mejorar tu PJ musical de una de las siguientes formas:\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QAcrobacias: refleja actividades físicas que exijan más fuerza que destreza.\\E$"}

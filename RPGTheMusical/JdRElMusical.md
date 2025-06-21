@@ -1,4 +1,4 @@
-# JdR El musical [Por Gwannon - Ver. 1.0](https://gwannon.itch.io/rpg-the-musical) 
+# JdR El musical [Por Gwannon - Ver. 1.0.1](https://gwannon.itch.io/rpg-the-musical) 
 
 JdR El Musical (JdREM) es una **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego. Desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 
@@ -8,7 +8,7 @@ El sistema de JdREM usa dados de seis caras y puedes usar tokens para representa
 
 Lo primero es convertir a tu PJ normal en su versión para musicales. La conversión es proceso muy rápido que puedes hacer como jugadore o que puedes hacer en un momento como DJ para entregárselo por sorpresa en mitad de la aventura a tus jugadores.
 
-Primero debes definir tu PJ dentro del musical con una simple frase. Un PJ en un musical no es un Bárbaro de nivel 8, es un _poderose bárbaro que busca ser una máquina de picar carne_ o no eres une detective con 90% en Investigar, eres une _detective alcohólique que quiere abandonar el pozo de miseria en que está metide_.
+Primero debes definir tu PJ dentro del musical con una simple frase. Un PJ en un musical no es une Bárbare de nivel 8, es un _poderose bárbare que busca ser una máquina de picar carne_ o no eres une detective con 90% en Investigar, eres une _detective alcohólique que quiere abandonar el pozo de miseria en que está metide_.
 
 Luego **debes elegir 3 canciones que pueden ser o no de musicales** que definan quién eres, de donde vienes y a dónde vas. Por decirlo de forma sencilla: _tu presente, tu pasado y tu futuro_.
 
@@ -32,7 +32,7 @@ Tiras **tantos d6 como el valor de atributo**. Cada **5 o 6 es un éxito**. Cuan
 
 ### Canciones
 
-Tus canciones funcionan de forma parecida a los aspectos de otros juegos, tanto el tono como la letra pueden ser usados en partida. Puedes usar _Es la noche del amor_ de _El Rey León_ para tener ventaja al intentar seducir o cantar _Money, Money_ de _Cabaret_ para sacar más dinero en un trato, o directamente hacer llover con _Cantando bajo la lluvia_.
+Tus canciones funcionan de manera parecida a los aspectos de otros juegos, tanto el tono como la letra pueden ser usados en partida. Puedes usar _Es la noche del amor_ de _El Rey León_ para tener ventaja al intentar seducir o cantar _Money, Money_ de _Cabaret_ para sacar más dinero en un trato, o directamente hacer llover con _Cantando bajo la lluvia_.
 
 Veamos los usos de las canciones. 
 
@@ -91,7 +91,7 @@ En las escenas en solitario **aquelles que no tengan foco solo podrán hacer de 
 
 No existen los combates como tal con ataques y daño, solo duelos de canto, baile o acrobacias entre tus PJ y sus némesis que se resuelven con tiradas enfrentadas.
 
-Les enemigues tienen una única ficha para todes con los 3 atributos (repartidas como quieras) y una sola canción y las 3 notas.
+Les enemigues tienen una única hoja de personaje para todes con los 3 atributos (repartidas como quieras), una sola canción y las 3 notas.
 
 El atributo que vayas a usar lo marca el tono del enfrentamiento. Por ejemplo, un duelo de baile normal tipo _West Side Story_ será Bailar, un duelo de ingenios _Cantar_ y si se enfrentan a espadazos volando tipo _Peter Pan_ sería Acrobacias.
 
@@ -99,7 +99,7 @@ El atributo que vayas a usar lo marca el tono del enfrentamiento. Por ejemplo, u
 
 En una escena musical puedes ayudar a las tiradas de le soliste de la escena haciendo de coro. **Haces tiradas de los atributos que no usa le protagoniste de la escena.** Es decir, que si alguien está cantando para convencer al guarda de que le deje entrar, puedes ayudarle bailando y haciendo acrobacias por detrás. Si tienes éxito en tu tirada de ayuda, la persona a la que apoyas puede volver a tirar uno de sus dados si lo necesita.
 
-Por ejemplo, si le soliste canta lo difícil que es encontrar y aprenderse un hechizo para expulsar a Nyarlathotep de nuestra dimensión, el coro puede bailar para traerle libros y ponérselos delante suyo o hacer acrobacias para saltar por las escaleras de la biblioteca para conseguir los tomos de lo más alto de las estanterías.
+Por ejemplo, si le soliste canta lo difícil que es encontrar y aprenderse un hechizo para expulsar a Nyarlathotep de nuestra dimensión, el coro puede bailar para traerle libros y ponérselos delante de elles o hacer acrobacias para saltar por las escaleras de la biblioteca para conseguir los tomos de lo más alto de las estanterías.
 
 ### Volviendo a la realidad
 
@@ -109,7 +109,7 @@ En las escenas de enfrentamiento, elle que pierda desaparecerá del escenario o 
 
 ## Mejorando
 
-Después de cada sesión puedes mejorar tu PJ musical de una de las siguientes formas:
+Después de cada sesión donde hubo una escena musical puedes mejorar tu PJ musical de una de las siguientes formas:
 
 * Subir un punto de un atributo. Ningún atributo puede ser dos o más puntos mayor que el siguiente atributo de más valor. No puedes tener, por ejemplo, atributos 4-2-2, tendrá que ser 3-3-2. No puedes elegir esta opción dos veces seguidas. 
 * Cambiar una de tus canciones permanentemente.
