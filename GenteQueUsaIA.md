@@ -23,6 +23,10 @@ https://duelbooks.com/
 
 https://www.verkami.com/projects/37148-descubre-duelbooks-el-juego-de-combates-epicos-con-libros
 
+### Bastión de mundos
+
+Animar a usar IA en tus partidas de Oscuria https://bsky.app/profile/umijenova.bsky.social/post/3ls45bzkjvc2z
+
 ## Creadores independientes
 
 ### ATHOSIRART
@@ -38,6 +42,32 @@ En el caso de [Athosiart](https://www.patreon.com/ATHOSIRART) tenemos un IAbro d
 Todas las imágenes de los múltiples suplementos de [Agencia especial](https://htpublishers.es/agencia-especial/) están hechos con IA. 
 
 Lo curioso es que hubo una persona que descargó todo el material de su patreon y lo puso en una conocida página de material rolero pirata y anduvo llorando porque le habían robado su trabajo.
+
+### Diego López «Darokin»
+
+La mayoria del trabajo tiene parte o la totalidad de imágenes con IA.
+
+https://bibliotecadarokin.es
+
+### Óscar Iglesias
+
+Mucho de su último trabajo está ilustrado con IA.
+
+http://psilan.net/
+
+### Rol o barbarie
+
+Su juego más famoso Bahía Gris usa imágenes de IA.
+
+https://www.rolobarbarie.com/
+
+https://rolerodelamancha.wordpress.com/2024/03/18/resena-rolera-bahia-gris/
+
+### The Tapadera Vineyard
+
+https://thetapaderavineyard.blogspot.com/
+
+https://thetapaderavineyard.blogspot.com/2024/12/octavo-cumpleanos-de-tapadera-vineyard.html?m=1
 
 ## Otros
 
