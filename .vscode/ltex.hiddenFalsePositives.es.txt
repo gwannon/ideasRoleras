@@ -277,3 +277,5 @@
 {"rule":"FORM","sentence":"^\\QDespués de cada sesión donde hubo una escena musical puedes mejorar tu PJ musical de una de las siguientes formas:\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QAcrobacias: refleja actividades físicas que exijan más fuerza que destreza.\\E$"}
 {"rule":"FORM","sentence":"^\\QSu parte animal y su sed de sangre les posee más que al resto de chupasangres, de manera que consigue un +2 a Atacar de forma Vigorosa a humanos que puedan ser sus presas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCreado para la Mermelada Rolera 2025 organizada por Rolerøs No Representativøs\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMermelada Rolera 2025\\E$"}
