@@ -1,4 +1,4 @@
-# Fincas&Inmuebles [Por Gwannon - Ver. 0.1](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.2](https://gwannon.itch.io/fincas-e-inmuebles)
 
 Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
 
@@ -35,7 +35,7 @@ Los tokens de la «verdad» representan las veces que has distorsionado la reali
 
 XXX
 
-## Conversión de personajes
+## Creación de personajes
 
 XXX
 
@@ -77,6 +77,10 @@ XXX
 
 XXX
 
+* **Hablar rápido y mover los brazos:** XXX
+
+\sp
+
 ## Inmuebles y fincas
 
 XXX
@@ -87,10 +91,12 @@ No fue la mejor idea del Conde Stradh, pero desde luego las vistas eran increíb
 
 XXX
 
+\sc
+
 ## Licencia
 
 Creado para la [Mermelada Rolera 2025](https://itch.io/jam/mermelada-rolera-rnr-2025) organizada por [Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/)
 
 [![Mermelada Rolera 2025](./images/mermelada-rolera.png "Mermelada Rolera 2025")](https://itch.io/jam/mermelada-rolera-rnr-2025 "Mermelada Rolera 2025")
 
-Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de **[freepik](https://www.freepik.com/)**.
+Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de [freepik](https://www.freepik.com/): [castillo gótico](https://www.freepik.es/vector-gratis/iconos-dibujos-animados-castillo-medieval-personas-antorchas-mazmorras-ilustraciones-vectoriales-aisladas_37366209.htm), [señal se vende](https://www.freepik.es/vector-gratis/coleccion-carteles-venta-inmobiliaria_9914038.htm), [bordes piedra](https://www.freepik.com/free-vector/set-seamless-pattern-old-gray-stone-border_11140421.htm) y [fondo de piedra](https://www.freepik.com/free-vector/stone-wall-texture_957408.htm).

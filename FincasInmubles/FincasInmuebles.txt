@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Fincas & Inmuebles
+
+InfoKey: Subject
+InfoValue: XXX. Creado para la Mermelada Rolera 2025. Versión 0.2
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, ninjas cutres, one-page
