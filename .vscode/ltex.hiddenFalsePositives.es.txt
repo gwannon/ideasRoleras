@@ -276,3 +276,4 @@
 {"rule":"PHYSICIAN","sentence":"^\\QCatalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas.\\E$"}
 {"rule":"FORM","sentence":"^\\QDespués de cada sesión donde hubo una escena musical puedes mejorar tu PJ musical de una de las siguientes formas:\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QAcrobacias: refleja actividades físicas que exijan más fuerza que destreza.\\E$"}
+{"rule":"FORM","sentence":"^\\QSu parte animal y su sed de sangre les posee más que al resto de chupasangres, de manera que consigue un +2 a Atacar de forma Vigorosa a humanos que puedan ser sus presas.\\E$"}
