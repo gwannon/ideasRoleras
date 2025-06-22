@@ -81,22 +81,36 @@ XXX
 
 \sp
 
-## Inmuebles y fincas
+## Inmuebles, fincas y compradores
 
-XXX
+En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas.
 
 ### El castillo en la playa de Stradh
 
-No fue la mejor idea del Conde Stradh, pero desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas.
+El comprarse un pequeño castillo en Benidorovia no fue la mejor idea del Conde Stradh, pero desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas.
+
+> **Ubicación 4 | Espacio 3 | Corrupción 2 | Precio X**
+
+> XXX
+
+### Zigurat de Kaklak
+
+El zigurat del difunto rey hechicero Kaklak puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado y tiene unas vistas estupendas del estadio de gladiadores y eso se paga.
+
+Y recuerda la mejor mampostería solo la consigues con mano de obra esclava enana.
+
+> **Ubicación 5 | Espacio 5 | Corrupción 5 | Precio X**
+
+> XXX
+
+### XXX
 
 XXX
 
+> **Negociar X | Observar X**
+
+> **Ubicación X | Espacio X | Corrupción X**
+
 \sc
 
-## Licencia
-
-Creado para la [Mermelada Rolera 2025](https://itch.io/jam/mermelada-rolera-rnr-2025) organizada por [Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/)
-
-[![Mermelada Rolera 2025](./images/mermelada-rolera.png "Mermelada Rolera 2025")](https://itch.io/jam/mermelada-rolera-rnr-2025 "Mermelada Rolera 2025")
-
-Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de [freepik](https://www.freepik.com/): [castillo gótico](https://www.freepik.es/vector-gratis/iconos-dibujos-animados-castillo-medieval-personas-antorchas-mazmorras-ilustraciones-vectoriales-aisladas_37366209.htm), [señal se vende](https://www.freepik.es/vector-gratis/coleccion-carteles-venta-inmobiliaria_9914038.htm), [bordes piedra](https://www.freepik.com/free-vector/set-seamless-pattern-old-gray-stone-border_11140421.htm) y [fondo de piedra](https://www.freepik.com/free-vector/stone-wall-texture_957408.htm).
+|Licencia.md|

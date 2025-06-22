@@ -75,6 +75,7 @@ blockquote {
   border-radius: 5px;
   margin: 10px 0px;
   color: white;
+  text-align: center;
 }
 
 blockquote p {
