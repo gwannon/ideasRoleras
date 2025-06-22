@@ -16,8 +16,6 @@ El Grupo Ceballos dirigida por su CTO Nieve debe mover ficha y debe ser un movim
 
 Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación, pero no es necesario triunfar. Lo único importante es que consigan pruebas suficientes de que el grupo Ceballos este detrás y pasárselas a Catalina.
 
-XXX
-
 #### El tiempo es importante.
 
 Nieve tiene que poner en funcionamiento todo el plan vampírico y tiene mucha prisa. El plan ha tenido muchos retrasos las últimas semanas y cada día que pasa se pierde un montón de dinero. Es por ello que Nieve tiene un calendario y nada va a parar ese calendario. Es por ello que esta parte de la campaña tengan más control del tiempo y que tus cazadoras lo noten. 
@@ -36,7 +34,22 @@ XXX
 
 ### Demolición del estadio
 
+De la noche a la mañana, el estadio de futbol del barrio será cerrado por problemas estructurales y en una semana será derruido. En los documentos oficiales se relatan los graves fallos estructurales del polideportivo. No se propone que se construirá en su lugar en ningún tipo esa documentación. 
+
+Buscando en las actas municipales su demolición fue votada en sesión especial cuando el concejal de obras públicas e infraestructuras, Diego Villal, presento un informe recalcando los graves problemas estructurales del estadio. Todo lo que se expone en el informe es verdad, pero en vez de pedir su derribo inmediato, podría haberse pedido su cierre y reparación.
+
+Diego Villal tomó la decisión de tirar abajo el estadio por chantajes (droga y prostitución) que recibe de Nieve y está buscando la fórmula legal que permita construir el casino del Grupo Ceballos y tiene varias opciones:
+
+* Traerá trabajo y dinero a un barrio deprimido y lleno de droga (droga que el propio grupo ha metido en las calles).
+* XXX
+
 XXX
+
+#### No nos moveran
+
+XXX
+
+Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte la noche del concierto.
 
 ### La caída del Grupo Ceballos
 
@@ -52,6 +65,8 @@ Catalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero
 
 Tus cazadoras pueden demostrar que el grupo Ceballos está detrás de la muerte de la Maricarmen Lujua para conseguir el voto del concejal Ernesto Lujua. Si pueden completar esto con otras actividades como que son responsables del derribo del estadio o del vertido tóxico en los humedales, podrán montar un caso contra la corporación. Si tienen pruebas de que metían droga en el barrio u otras actividades criminales, mucho mejor.
 
+\sp
+
 Si tus cazadoras no quieren acudir a Catalina, Catalina acudirá a ellas. Seguramente que las haya visto en algún vídeo de internet y querrá interrogarlas para empezar a crear un caso contra el Grupo Ceballos. De modo que las buscará y las entrevistará. Es en ese momento en que debería ganarse su confianza si no la tenía.
 
 Durante toda una semana (de lunes a viernes), investigará por las mañanas y se reunirá con tus cazadoras por las tardes para entrevistarlas y ellas deberán decidir que le cuentan y que no. En cuanto llegue el fin de semana Catalina no puede investigar mucho más (archivos, oficinas públicas y demás cerradas), así que tiene pensado organizar todo el papeleo para hacer las denuncias el lunes a primera hora tras conseguir ciertas pruebas.
@@ -61,8 +76,6 @@ Deben considerar que Catalina es muy escéptica en temas sobrenaturales, así qu
 #### Las guardaespaldas de Catalina
 
 Las indagaciones de Catalina han hecho saltar las alarmas de la abogacía de la corporación Ceballos y rápidamente llegarán informes a la mesa de Nieve sobre una abogada independiente del barrio que está haciendo demasiadas preguntas. 
-
-\sp
 
 Catalina puede caer en las garras de Nieve y su gente, eso exige que tus cazadoras la vigilen y la protejan durante las 48 horas del fin de semana hasta que abran los archivos municipales y obtenga las pruebas que necesita para armar la causa con el Grupo Ceballos.
 
@@ -79,6 +92,9 @@ En ambos casos los vampiros no necesitarán pedir permiso para entrar. Pero ser�
 Durante esas 48 horas deberían sufrir por los menos dos intentos de secuestro/asesinato de Catalina, uno de noche con agentes vampíricos y otro de día. Estas pueden ser algunas ideas para el día:
 
 * XXX
+
+\sp
+
 * Si piden comida a domicilio, porque tendrán que comer en algún momento de las 48 horas, los sicarios de Nieve se podrían hacer pasar por repartidores para colarse dentro del local y atacar. Como solo puede entrar uno, sería un pequeño caballo de Troya que investiga el lugar y saca info o facilita la entrada de otros dejando alguna puerta abierta o similar. Incluso podría dejar alguna cámara espía o micrófonos.  
 
 Puedes usar como inspiración para el ataque nocturno una de estas situaciones.
