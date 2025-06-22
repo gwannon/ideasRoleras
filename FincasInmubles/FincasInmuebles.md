@@ -12,9 +12,22 @@ XXX
 
 Cada inmueble tiene 3 características
 
-* Ubicación
-* Espacio
-* Corrupción
+* **Ubicación.** Indica si su ubicación es buena. Con 1 está en Mordor y con 5 en la Comarca.
+* **Espacio.** Marca el tamaño del inmueble. Quizas un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
+* **Corrupción.** Indica la magia y la corrupción que destila el lugar. Con uno, Nurgle estaría en su salsa, con 5 XXX.
+
+Lo curioso es que las puntuaciones son buenas o malas según el cliente. Por ejemplo, a un orco la ubicación 1 es perfecta porque está al lado de su trabajo y es XXX.
+
+Como los precios varían de mundo fantástico en mundo fantástico, el **precio de salida** viene expresado en espadas mágicas que costaría comprarlo. Si una cueva de los trolls vale 5, habría que pagar el coste en ese plano de 5 espadas mágicas básicas.
+
+### Los compradores
+
+Tiene 2 atributos:
+
+* **Negociar:** Es la capacidad de hacer tratos, regatear y sacar ventajas mientras se negocia una venta.
+* **Observar:** Es la capacidad de buscar fallos y detectar la verdad o la «verdad».
+
+Tiene además un inmueble con los 3 atributos de inmueble que muestran su casa soñada. Un Uruk-hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín XXX
 
 ### Tokens de la «verdad»
 
@@ -42,7 +55,9 @@ XXX
 
 XXX
 
-#### Día de trampas desactivadas (aka de puertas abiertas)
+#### Día de trampas desactivadas
+
+Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
 
 XXX
 
@@ -50,7 +65,7 @@ XXX
 
 XXX
 
-### Entregar las llaves
+### Entregar las llaves y pago
 
 XXX
 
@@ -79,6 +94,3 @@ Creado para la [Mermelada Rolera 2025](https://itch.io/jam/mermelada-rolera-rnr-
 [![Mermelada Rolera 2025](./images/mermelada-rolera.png "Mermelada Rolera 2025")](https://itch.io/jam/mermelada-rolera-rnr-2025 "Mermelada Rolera 2025")
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Imágenes libres de derecho de **[freepik](https://www.freepik.com/)**.
-
-
-https://bsky.app/profile/anquises.bsky.social/post/3ls7akhvcjk2j
