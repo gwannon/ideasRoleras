@@ -115,10 +115,12 @@ No será fácil, primero tendrán que convencerle de que les deje entrar a rebus
 
 ***
 
-**Género:** Niñes
+**Género:** Niñes, Fantasía
 
 **Título:** La rayuela
 
 **Escena:**
 
-XXX
+La única forma de pasar al otro lado donde se encuentra lo que buscas es saltar sin fallo en una especie de rayuela arcana que aparece mágicamente cada cierto tiempo en algún callejón perdido. Es casi un mito, una leyenda urbana, nadie sabe quien la dibujo la primera vez, pero todos juran haberla visto alguna vez, aunque ningune se atrevió a saltarla.
+
+Lo primero será encontrar la piedra de lanzar adecuada y luego estudiar su forma para hacer los saltos necesarios. Porque si alguna de esas dos cosas falla quién sabe donde puedes acabar.
