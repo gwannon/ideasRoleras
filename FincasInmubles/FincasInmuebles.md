@@ -1,4 +1,4 @@
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.2](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.3](https://gwannon.itch.io/fincas-e-inmuebles)
 
 Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
 
@@ -9,6 +9,11 @@ Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo, 
 XXX
 
 ### Inmuebles y fincas
+
+```
+Yo traje el gotelé a Rivendel.
+```
+Benito y compañía
 
 Cada inmueble tiene 4 características
 
@@ -23,21 +28,28 @@ Lo importante es la diferencia entre los atributos del inmueble y, como veremos 
 
 ### Los compradores
 
-Tiene 3 atributos:
+Para empezar necesitas definir en una frase al comprador y lo que busca, como poderosa jefa tribal orca en busca de una cabaña digna de su gloria u hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago. Aparte tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
 
 * **Negociar:** Es la capacidad de hacer tratos, regatear y sacar ventajas mientras se negocia una venta.
 * **Observar:** Es la capacidad de buscar fallos y taras en el inmueble y detectar la verdad o la «verdad».
 * **Crédito:** Es la capacidad económica del comprador. XXX
 
-Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Uruk-hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín XXX
+Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín XXX
 
 ### Tokens de la «verdad»
 
+```
+Naturalmente, pero existe la verdad y «la verdaaaaaad».
+```
+Lionel Hutz
+
 Los tokens de la «verdad» representan las veces que has distorsionado la realidad para convertir una ponzoñosa mazmorra habitada por un liche en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad.
 
-Estos tokens tiene dos colores y sirven para representar si han mentido poniendole atributos a una casa que no tiene (con color rojo) o si has mentido quitandole cosas que si tiene (con color azul en este caso).
+Estos tokens tiene tres colores y sirven para representar si han mentido poniéndole o quitándole atributos a la vivienda, rojo para ubicación, azul para espacio y verde para corrupción.
 
-Por ejemplo, si 
+Por ejemplo, si usan su charlatanería para convencer al comprador de que los horribles grabados de las paredes representando a dioses primigenios del caos y la sangre están ahora mismo de moda y serán la sensación en sus reuniones, el DJ se quedará con un token verde (de Corrupción) para su uso más tarde.
+
+#### Uso de los tokens
 
 XXX
 
@@ -65,6 +77,8 @@ XXX
 
 XXX
 
+\sp
+
 #### Día de trampas desactivadas
 
 Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
@@ -72,6 +86,11 @@ Puedes organizar un día de trampas desactivadas, también conocido como día de
 XXX
 
 ### Negociar la venta
+
+```
+No seas ni un prestatario ni un prestamista
+```
+Polonio, Hamlet
 
 XXX
 
@@ -89,38 +108,36 @@ XXX
 
 * **Hablar rápido y mover los brazos:** XXX
 
-\sp
-
 ## Inmuebles, fincas y compradores
 
 En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas.
 
 ### El castillo en la playa de Stradh
 
-El comprarse un pequeño castillo en Benidorovia no fue la mejor idea del Conde Stradh, pero desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas.
+Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una casita de vacaciones en la no-nublosa Benidorovia, donde hacer barbacoas con otros señores del mal. Pero comprarse un pequeño castillo en Benidorovia no fue la mejor idea del conde. Desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas por su alergia mortal al sol.
 
 > **Ubicación 4 | Espacio 3 | Corrupción 2 | Precio X**
 
-> XXX
+> Ruinoso y pequeño castillo en un acantilado con vistas al mar.
 
-### Zigurat de Kaklak
+### Zigurat piloto de Kaklak
 
-El zigurat del difunto rey hechicero Kaklak puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado y tiene unas vistas estupendas del estadio de gladiadores y eso se paga.
+Antes de construir su zigurat, el difunto rey hechicero Kaklak pidió a sus templarios que le construyeran un zigurat piloto para ver si le gustaba o se montaba una pirámide. 
 
-Y recuerda la mejor mampostería solo la consigues con mano de obra esclava enana.
+Puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado en el barrio de los nobles y tiene unas vistas maravillosas al propio zigurat y eso se paga.
+
+Los constructores aprendieron mucho en la construcción del zigurat piloto y decidieron que pintarlo con la sangre de los esclavos no daba buena imagen del rey hechicero, así que el zigurat definitivo está pintado con los vivos colores del arcoíris.
 
 > **Ubicación 5 | Espacio 5 | Corrupción 5 | Precio X**
 
-> XXX
+> Replica a menor escala de un zigurat con pésima decoración interior, paredes de gotelé y pintado de un terrible rojo sangre.
 
 ### XXX
 
 XXX
 
-> **Negociar X | Observar X**
+> **Negociar X | Observar X | Credito X**
 
-> **Ubicación X | Espacio X | Corrupción X**
-
-\sc
+> **Ubicación X | Espacio X | Corrupción X | Precio X**
 
 |Licencia.md|

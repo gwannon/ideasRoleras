@@ -2,10 +2,10 @@ InfoKey: Title
 InfoValue: Fincas & Inmuebles
 
 InfoKey: Subject
-InfoValue: XXX. Creado para la Mermelada Rolera 2025. Versión 0.2
+InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 0.3
 
 InfoKey: Author
 InfoValue: Gwannon
 
 InfoKey: Keywords
-InfoValue: rpg, ttrpg, ninjas cutres, one-page
+InfoValue: rpg, ttrpg, parodia, D&D
