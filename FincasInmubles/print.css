@@ -87,17 +87,20 @@ blockquote p {
 /* Titulares */
 
 h1 {
-  background: transparent url(./images/titular.jpg) center bottom no-repeat;
+  background: transparent url(./images/titular.jpg) center center no-repeat;
   background-size: 100% auto;
   font-family: "Eagle Lake", serif;
   color: var(--color-white);
   text-align: center;
-  height: 54px;
-  font-size: 1.4em;
+  height: 59px;
+  font-size: 1.6em;
   margin-bottom: 0px;
-  margin-top: -25px !important;
-  padding-top: 159px !important;
+  margin-top: 0px !important;
+  padding-top: 130px !important;
   text-shadow: 0px 0px 4px var(--color-black);
+  line-height: 120%;
+  border: 2px solid var(--color-red);
+  border-radius: 3px;
 }
 
 h1 > a {
