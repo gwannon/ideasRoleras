@@ -1,10 +1,18 @@
+\sinc
+
 # Fincas & Inmuebles [Por Gwannon - Ver. 0.3](https://gwannon.itch.io/fincas-e-inmuebles)
+
+&nbsp;
 
 Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
 
 Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo, azul y verde).
 
 ## Reglas
+
+&nbsp;
+
+\conc
 
 XXX
 
@@ -47,17 +55,31 @@ Los tokens de la «verdad» representan las veces que has distorsionado la reali
 
 Estos tokens tiene tres colores y sirven para representar si han mentido poniéndole o quitándole atributos a la vivienda, rojo para ubicación, azul para espacio y verde para corrupción.
 
+\sp
+
 Por ejemplo, si usan su charlatanería para convencer al comprador de que los horribles grabados de las paredes representando a dioses primigenios del caos y la sangre están ahora mismo de moda y serán la sensación en sus reuniones, el DJ se quedará con un token verde (de Corrupción) para su uso más tarde.
 
 #### Uso de los tokens
 
 XXX
 
+\sinc
+
 ## Creación de personajes
+
+&nbsp;
+
+\conc
 
 XXX
 
+\sinc
+
 ## Fases de la operación
+
+&nbsp;
+
+\conc
 
 XXX
 
@@ -76,8 +98,6 @@ XXX
 ### Enseñar el inmueble
 
 XXX
-
-\sp
 
 #### Día de trampas desactivadas
 
@@ -98,7 +118,13 @@ XXX
 
 XXX
 
+\sinc
+
 ## Trucos de vendedor
+
+&nbsp;
+
+\conc
 
 XXX
 
@@ -108,7 +134,14 @@ XXX
 
 * **Hablar rápido y mover los brazos:** XXX
 
+
+\sinc
+
 ## Inmuebles, fincas y compradores
+
+&nbsp;
+
+\conc
 
 En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas.
 
@@ -123,6 +156,8 @@ Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una ca
 ### Zigurat piloto de Kaklak
 
 Antes de construir su zigurat, el difunto rey hechicero Kaklak pidió a sus templarios que le construyeran un zigurat piloto para ver si le gustaba o se montaba una pirámide. 
+
+\sp
 
 Puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado en el barrio de los nobles y tiene unas vistas maravillosas al propio zigurat y eso se paga.
 
@@ -139,5 +174,7 @@ XXX
 > **Negociar X | Observar X | Credito X**
 
 > **Ubicación X | Espacio X | Corrupción X | Precio X**
+
+\sp
 
 |Licencia.md|

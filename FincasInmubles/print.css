@@ -115,16 +115,16 @@ pre + p {
 /* Titulares */
 
 h1 {
-  background: transparent url(./images/titular.jpg) center center no-repeat;
+  background: transparent url(./images/titular.jpg) top center no-repeat;
   background-size: 100% auto;
   font-family: "Eagle Lake", serif;
   color: var(--color-white);
   text-align: center;
-  height: 59px;
+  height: 139px;
   font-size: 1.6em;
   margin-bottom: 0px;
   margin-top: 0px !important;
-  padding-top: 130px !important;
+  padding-top: 190px !important;
   text-shadow: 0px 0px 4px var(--color-black);
   line-height: 120%;
   border: 2px solid var(--color-red);
@@ -257,4 +257,37 @@ img {
     margin: 0;
     opacity: 1;
   }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: var(--title-font);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - (var(--size) / 2));
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 1.9em;
+  padding: 5px 5px 3px;
+  color: var(--color-black);
 }
