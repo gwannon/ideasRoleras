@@ -21,7 +21,7 @@ XXX
 ```
 Yo traje el gotelé a Rivendel.
 ```
-Benito y compañía
+Benito Gamyi
 
 Cada inmueble tiene 4 características
 
