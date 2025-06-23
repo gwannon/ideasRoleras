@@ -38,6 +38,8 @@ Lo importante es la diferencia entre los atributos del inmueble y, como veremos 
 
 Para empezar necesitas definir en una frase al comprador y lo que busca, como poderosa jefa tribal orca en busca de una cabaña digna de su gloria u hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago. Aparte tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
 
+\sp
+
 * **Negociar:** Es la capacidad de hacer tratos, regatear y sacar ventajas mientras se negocia una venta.
 * **Observar:** Es la capacidad de buscar fallos y taras en el inmueble y detectar la verdad o la «verdad».
 * **Crédito:** Es la capacidad económica del comprador. XXX
@@ -54,8 +56,6 @@ Lionel Hutz
 Los tokens de la «verdad» representan las veces que has distorsionado la realidad para convertir una ponzoñosa mazmorra habitada por un liche en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad.
 
 Estos tokens tiene tres colores y sirven para representar si han mentido poniéndole o quitándole atributos a la vivienda, rojo para ubicación, azul para espacio y verde para corrupción.
-
-\sp
 
 Por ejemplo, si usan su charlatanería para convencer al comprador de que los horribles grabados de las paredes representando a dioses primigenios del caos y la sangre están ahora mismo de moda y serán la sensación en sus reuniones, el DJ se quedará con un token verde (de Corrupción) para su uso más tarde.
 
@@ -114,6 +114,8 @@ Polonio, Hamlet
 
 XXX
 
+\sp
+
 ### Entregar las llaves y pago
 
 XXX
@@ -133,7 +135,6 @@ XXX
 XXX
 
 * **Hablar rápido y mover los brazos:** XXX
-
 
 \sinc
 
@@ -156,8 +157,6 @@ Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una ca
 ### Zigurat piloto de Kaklak
 
 Antes de construir su zigurat, el difunto rey hechicero Kaklak pidió a sus templarios que le construyeran un zigurat piloto para ver si le gustaba o se montaba una pirámide. 
-
-\sp
 
 Puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado en el barrio de los nobles y tiene unas vistas maravillosas al propio zigurat y eso se paga.
 

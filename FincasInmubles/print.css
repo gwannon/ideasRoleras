@@ -9,7 +9,7 @@ body {
   background: var(--color-white) url(./images/bg.png) repeat top center;
   margin: 0;
   padding: 0;
-  font-family: "Lancelot", serif;
+  font-family: "Open Sans", sans-serif;
   color: var(--color-black);
   font-size: 16px;
 }
@@ -99,7 +99,7 @@ pre:after {
 
 
 pre * {
-  font-family: "Lancelot", serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 1em;
   margin: 0px;
   padding: 0px;
@@ -137,7 +137,7 @@ h1 > a {
   font-size: 18px;
   width: 100%;
   color: var(--color-white);
-  font-family: "Lancelot", serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   text-decoration: none;
 }
@@ -274,7 +274,7 @@ body {
 }
 
 .saltopagina:after {
-  --size: 30px;
+  --size: 20px;
   font-family: var(--title-font);
   display: flex;
   justify-content: center;
@@ -287,7 +287,7 @@ body {
   height: var(--size);
   z-index: 10;
   opacity: 1;
-  font-size: 1.9em;
+  font-size: calc(var(--size) * 0.8px);
   padding: 5px 5px 3px;
   color: var(--color-black);
 }
