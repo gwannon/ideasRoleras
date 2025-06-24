@@ -63,6 +63,8 @@ Por ejemplo, si usan su charlatanería para convencer al comprador de que los ho
 
 XXX
 
+\sp
+
 \sinc
 
 ## Creación de personajes
@@ -72,6 +74,8 @@ XXX
 \conc
 
 XXX
+
+\sp
 
 \sinc
 
@@ -114,11 +118,11 @@ Polonio, Hamlet
 
 XXX
 
-\sp
-
 ### Entregar las llaves y pago
 
 XXX
+
+\sp
 
 \sinc
 
