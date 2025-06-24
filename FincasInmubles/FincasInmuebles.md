@@ -136,6 +136,8 @@ XXX
 
 * **Hablar rápido y mover los brazos:** XXX
 
+\sp
+
 \sinc
 
 ## Inmuebles, fincas y compradores
@@ -148,6 +150,8 @@ En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter 
 
 ### El castillo en la playa de Stradh
 
+[![El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak](./images/a587f316-704f-4289-bcc0-852db0d4b1c1.jpg "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")](https://www.freepik.es/vector-gratis/castillo-cuentos-hadas-colina-sobre-mar-noche-tormentosa_152129994.htm "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")
+
 Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una casita de vacaciones en la no-nublosa Benidorovia, donde hacer barbacoas con otros señores del mal. Pero comprarse un pequeño castillo en Benidorovia no fue la mejor idea del conde. Desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas por su alergia mortal al sol.
 
 > **Ubicación 4 | Espacio 3 | Corrupción 2 | Precio X**
@@ -156,7 +160,11 @@ Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una ca
 
 ### Zigurat piloto de Kaklak
 
+[![By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335](./images/zigurat.jpg "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")](https://commons.wikimedia.org/wiki/File:Zigurat.png "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")
+
 Antes de construir su zigurat, el difunto rey hechicero Kaklak pidió a sus templarios que le construyeran un zigurat piloto para ver si le gustaba o se montaba una pirámide. 
+
+\sc
 
 Puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado en el barrio de los nobles y tiene unas vistas maravillosas al propio zigurat y eso se paga.
 

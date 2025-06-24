@@ -238,6 +238,12 @@ table strong {
 
 img {
   width: 100%;
+  border: 2px solid var(--color-red);
+  border-radius: 3px;
+}
+
+h3 + p img {
+  margin-top: 10px;
 }
 
 @media screen {
