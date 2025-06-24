@@ -29,4 +29,5 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * [bordes piedra](https://www.freepik.com/free-vector/set-seamless-pattern-old-gray-stone-border_11140421.htm)
 * [castillo en la costa de noche](https://www.freepik.es/vector-gratis/castillo-cuentos-hadas-colina-sobre-mar-noche-tormentosa_152129994.htm)
 * [zigurat](https://commons.wikimedia.org/wiki/File:Zigurat.png)
-* [fondo de piedra](https://www.freepik.com/free-vector/stone-wall-texture_957408.htm).
+* [fondo de piedra](https://www.freepik.com/free-vector/stone-wall-texture_957408.htm)
+* [cueva en el pantano](https://www.freepik.com/free-vector/mystical-forest-cave-entrance_149955609.htm)

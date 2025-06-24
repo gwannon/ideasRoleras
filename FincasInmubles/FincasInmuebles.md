@@ -25,9 +25,11 @@ Yo traje el gotelé a Rivendel.
 ```
 Benito Gamyi
 
-Los inmuebles vienen definidos por una simple descripción que puede usarse como un aspecto. Los elementos de esta descripción pueden invocarse y dan un dado extra. 
+Los inmuebles vienen definidos por una simple descripción que puede usarse como un conjunto de aspectos. Los elementos de esta descripción pueden **invocarse y dan un dado extra**. 
 
-Si la descripción dice que las ruinas malditas tienen XXX y voy a vendérselo a un XXX puedo invocar ese aspecto como y conseguir un dado extra. Si puedo invocar más elementos de la descripción puedo conseguir más dados.
+Si la descripción dice que las ruinas malditas tienen grabados de primigenios y voy a vendérselo a un cultista puedo invocar ese aspecto y conseguir 1 dado extra a Negociar. Si puedo invocar más elementos de la descripción puedo conseguir más dados. 
+
+Esto también puede **usarlo el DJ para sus clientes**. Si la descripción dice que es muy luminoso y soleado el vampiro que busca cripta puede obtener un dado extra a la hora de negociar el precio.
 
 Además, cada inmueble tiene 4 características que lo definen.
 
@@ -39,7 +41,7 @@ Además, cada inmueble tiene 4 características que lo definen.
 * **Corrupción.** Indica la magia oscura y la corrupción que destila el lugar. Con 1 casi no hay corrupción, aun así, un señor de los altos elfos te diría que ni de coña dormiría en ese sucio antro de corrupción. Con 5 los nurgletes crecen solos y los esqueletos se levantan solos.
 * **Precio:** Indica el precio de la vivienda. Un goblin cojito y tuerto podría comprarse una choza de precio 1 y solo un antiguo liche que lleva siglos acumulando los tesoros de los aventureros que mata podría pagar una mazmorra de precio 5.
 
-Lo curioso es que las puntuaciones son buenas o malas según el cliente. Por ejemplo, a un orco la ubicación 1 es perfecta porque está al lado de su trabajo y es XXX.
+Lo curioso es que **las puntuaciones de los tributos del inmueble son buenas o malas según el cliente**. Por ejemplo, a un orco la ubicación 1 es perfecta porque está al lado de su trabajo en Karad-zum y es malísima para un halfling porque tiene que andar durante tres películas para llegar.
 
 Lo importante es la diferencia entre los atributos del inmueble y, como veremos más adelante, los atributos del inmueble deseado por los posibles clientes. 
 
@@ -58,7 +60,7 @@ Aparte tienen 3 atributos que representan sus capacidades más importantes a la 
 * **Observar:** Es la capacidad de buscar fallos y taras en el inmueble y detectar la verdad o la «verdad».
 * **Crédito:** Es la capacidad económica del comprador. Un goblin cojo con muletita tiene un crédito de 1 y un conde elector tiene 5.
 
-Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín XXX
+Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín del bien no pisara nada que tenga más de Ubicación 3, Espacio 3 (con establo para su caballo), Corrupción 1.
 
 ### Tokens de la «verdad»
 
@@ -170,27 +172,39 @@ En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter 
 
 [![El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak](./images/a587f316-704f-4289-bcc0-852db0d4b1c1.jpg "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")](https://www.freepik.es/vector-gratis/castillo-cuentos-hadas-colina-sobre-mar-noche-tormentosa_152129994.htm "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")
 
-Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una casita de vacaciones en la no-nublosa Benidorovia, donde hacer barbacoas con otros señores del mal. Pero comprarse un pequeño castillo en Benidorovia no fue la mejor idea del conde. Desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas por su alergia mortal al sol.
-
 > **Ubicación 4 | Espacio 3 | Corrupción 2 | Precio X**
 
 > Ruinoso y pequeño castillo en un acantilado con vistas al mar.
+
+Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una casita de vacaciones en la no-nublosa Benidorovia, donde hacer barbacoas con otros señores del mal. Pero comprarse un pequeño castillo en Benidorovia no fue la mejor idea del conde.
+
+Desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas por su alergia mortal al sol.
 
 ### Zigurat piloto de Kaklak
 
 [![By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335](./images/zigurat.jpg "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")](https://commons.wikimedia.org/wiki/File:Zigurat.png "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")
 
-Antes de construir su zigurat, el difunto rey hechicero Kaklak pidió a sus templarios que le construyeran un zigurat piloto para ver si le gustaba o se montaba una pirámide. 
+> **Ubicación 5 | Espacio 5 | Corrupción 5 | Precio X**
+
+> Replica a menor escala de un zigurat con pésima decoración interior, paredes de gotelé y pintado de un terrible rojo sangre.
 
 \sc
+
+Antes de construir su zigurat, el difunto rey hechicero Kaklak pidió a sus templarios que le construyeran un zigurat piloto para ver si le gustaba o se montaba una pirámide. 
 
 Puede que este poseído por las almas en pena de los esclavos que murieron en su construcción, pero está en el centro de la ciudad estado en el barrio de los nobles y tiene unas vistas maravillosas al propio zigurat y eso se paga.
 
 Los constructores aprendieron mucho en la construcción del zigurat piloto y decidieron que pintarlo con la sangre de los esclavos no daba buena imagen del rey hechicero, así que el zigurat definitivo está pintado con los vivos colores del arcoíris.
 
-> **Ubicación 5 | Espacio 5 | Corrupción 5 | Precio X**
+### Sucia cueva de goblins
 
-> Replica a menor escala de un zigurat con pésima decoración interior, paredes de gotelé y pintado de un terrible rojo sangre.
+[![Mystical forest cave entrance brgfx](./images/4efc2509-5d3b-4cc0-9264-9d4f5b269f81.jpg "Mystical forest cave entrance brgfx")](https://www.freepik.com/free-vector/mystical-forest-cave-entrance_149955609.htm "Mystical forest cave entrance brgfx")
+
+> **Ubicación X | Espacio X | Corrupción X | Precio X**
+
+> XXX
+
+XXX
 
 ### XXX
 

@@ -238,7 +238,7 @@ table strong {
 }
 
 img {
-  width: 100%;
+  width: calc(100% - 4px);
   border: 2px solid var(--color-red);
   border-radius: 3px;
 }
@@ -301,4 +301,15 @@ body {
   font-size: calc(var(--size) * 0.8px);
   padding: 5px 5px 3px;
   color: var(--color-black);
+}
+
+
+p:has(img) + blockquote {
+  border: 2px solid var(--color-red);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-top: 0px solid black;
+  margin-top: -14px;
+  position: relative;
+  z-index: 10;
 }
