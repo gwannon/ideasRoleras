@@ -14,7 +14,9 @@ Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo, 
 
 \conc
 
-XXX
+El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, tiras tantos dados de 6 como el atributo adecuado. Los 5 y 6 son éxitos y cuantos más éxitos mejor lo haces.
+
+Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas tiran ambos participantes y gana el que más éxitos consiga. En caso de empates gana el defensor. Si no se consiguen éxitos, el defensor gana.
 
 ### Inmuebles y fincas
 
@@ -23,12 +25,19 @@ Yo traje el gotelé a Rivendel.
 ```
 Benito Gamyi
 
-Cada inmueble tiene 4 características
+Los inmuebles vienen definidos por una simple descripción que puede usarse como un aspecto. Los elementos de esta descripción pueden invocarse y dan un dado extra. 
+
+Si la descripción dice que las ruinas malditas tienen XXX y voy a vendérselo a un XXX puedo invocar ese aspecto como y conseguir un dado extra. Si puedo invocar más elementos de la descripción puedo conseguir más dados.
+
+Además, cada inmueble tiene 4 características que lo definen.
 
 * **Ubicación.** Indica si su ubicación es buena. Con 1 está en Mordor y con 5 en la Comarca.
 * **Espacio.** Marca el tamaño del inmueble. Quizas un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
-* **Corrupción.** Indica la magia y la corrupción que destila el lugar. Con 1, los nurgletes creen solos y las cucarachas te saludan por tu nombre, con 5 un señor de los altos elfos, aun así, te diría que ni de coña dormiría en ese sucio antro de corrupción.
-* **Precio:** Indica el precio de la vivienda. XXX
+
+\sp
+
+* **Corrupción.** Indica la magia oscura y la corrupción que destila el lugar. Con 1 casi no hay corrupción, aun así, un señor de los altos elfos te diría que ni de coña dormiría en ese sucio antro de corrupción. Con 5 los nurgletes crecen solos y los esqueletos se levantan solos.
+* **Precio:** Indica el precio de la vivienda. Un goblin cojito y tuerto podría comprarse una choza de precio 1 y solo un antiguo liche que lleva siglos acumulando los tesoros de los aventureros que mata podría pagar una mazmorra de precio 5.
 
 Lo curioso es que las puntuaciones son buenas o malas según el cliente. Por ejemplo, a un orco la ubicación 1 es perfecta porque está al lado de su trabajo y es XXX.
 
@@ -36,13 +45,18 @@ Lo importante es la diferencia entre los atributos del inmueble y, como veremos 
 
 ### Los compradores
 
-Para empezar necesitas definir en una frase al comprador y lo que busca, como poderosa jefa tribal orca en busca de una cabaña digna de su gloria u hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago. Aparte tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
+```
+Bueno, un trato es un trato, ¿no? Claro. Nos vemos luego. Buena suerte. Que lo disfrutes. Me largo.
+```
+Stan S. Stanman
 
-\sp
+Para empezar necesitas definir en una frase al comprador y lo que busca, como «poderosa jefa tribal orca en busca de una cabaña digna de su gloria» u «hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago». 
+
+Aparte tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
 
 * **Negociar:** Es la capacidad de hacer tratos, regatear y sacar ventajas mientras se negocia una venta.
 * **Observar:** Es la capacidad de buscar fallos y taras en el inmueble y detectar la verdad o la «verdad».
-* **Crédito:** Es la capacidad económica del comprador. XXX
+* **Crédito:** Es la capacidad económica del comprador. Un goblin cojo con muletita tiene un crédito de 1 y un conde elector tiene 5.
 
 Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín XXX
 

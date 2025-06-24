@@ -1,1 +1,2 @@
 {"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QReplica a menor escala de un zigurat con pésima decoración interior con resto de esclavos y pintado de un terrible rojo sangre.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QIndica la magia oscura y la corrupción que destila el lugar.\\E$"}
