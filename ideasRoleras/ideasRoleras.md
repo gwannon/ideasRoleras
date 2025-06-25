@@ -749,6 +749,14 @@ Subirías de dinero en plan OSR, en función de la comisión de ventas que consi
 
 Como guiño a Los Simpsons y al capítulo en que Marge se hace agente inmobiliario, metería una regla llamada. - Existe la verdad y «la verdad», Marge.
 
+### Mujercitas en el oeste
+
+Una aventura rollo Mujercitas, con las hijas de una familia March, pero en vez de una zona civilizada como Massachusetts, algo más en el salvaje oeste. 
+
+Se podrían crear 4 arquetipos según cada hermana March con sus fortalezas y sus defectos. Habría también un montón de tablas para crear la familia, con cosas como riqueza, parientes ricos o pobres, criados, casa familiar, ... 
+
+Mientras vives las experiencias del paso a la madurez como las primeras relaciones románticas, los primeros trabajos, etc. buscas ganado perdido, rescatas colonos en apuros y combates a desertores de la guerra de secesión que quieren robarte tu dinero.
+
 ### La extraordinaria liga de ayudantes
 
 Sería una aventura donde llevas a los ayudantes de personajes de ficción famosos. Watson de Sherlock Holmes, XXX
@@ -756,11 +764,3 @@ Sería una aventura donde llevas a los ayudantes de personajes de ficción famos
 ### Burócrata como clase de personaje
 
 Estamos hablando de personaje que se conoce las leyes y tiene los contactos necesarios para usar la burocracia y XXX
-
-### Mujercitas en el oeste
-
-Una aventura rollo Mujercitas, con las hijas de una familia March, pero en vez de una zona civilizada como Massachusetts, algo más en el salvaje oeste. 
-
-Se podrían crear 4 arquetipos según cada hermana March con sus fortalezas y sus defectos.  
-
-Mientras vives las experiencias del paso a la madurez como las primeras relaciones románticas, los primeros trabajos, etc. buscas ganado perdido, rescatas colonos en apuros y combates a desertores de la guerra de secesión que quieren robarte tu dinero.
