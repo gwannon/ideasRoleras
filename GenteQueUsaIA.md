@@ -87,3 +87,10 @@ https://www.youtube.com/watch?v=66da-tSKK0s
 ---
 
 https://www.youtube.com/watch?v=mWZ4fS5fcGU
+
+
+## Empresas que se han declarado anti IA
+
+### Sugaar Editorial
+
+https://sugaareditorial.com/responsabilidad-social-empresarial/
