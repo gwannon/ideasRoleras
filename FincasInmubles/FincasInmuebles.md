@@ -18,7 +18,7 @@ El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, **ti
 
 Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas tiran ambos participantes y gana el que más éxitos consiga.
 
-En caso de empates gana el defensor. Si no se consiguen éxitos por ninguna aprte, el defensor también gana.
+En caso de empates gana el defensor. Si no se consiguen éxitos por ninguna parte, el defensor también gana.
 
 ### Inmuebles y fincas
 
@@ -140,18 +140,18 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 \sp
 
-**Tokens azul y verde: XXX**
+**Tokens azul y verde: Batalla legal**
 
 |1d6|Efecto|
 |---|---|
-|1| |
+|1|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
 |2| |
 |3| |
 |4| |
 |5| |
 |6| |
 
-**Tokens verde y rojo: XXX**
+**Tokens verde y rojo: Vecinos molestos**
 
 |1d6|Efecto|
 |---|---|
@@ -198,10 +198,6 @@ XXX
 \conc
 
 XXX
-
-Al principio de la partida colocas 3 filas de tokens verdes con tantos tokens como Ubicación, Espacio y Corrupción. Esa será la casa actual.
-
-En el momento que las puntuaciones de la casa soñada del comprador y tu casa con todos sus tokens de la «verdad» coincidan habrá una posible venta. 
 
 ### Redactar el anuncio
 
@@ -294,7 +290,7 @@ Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, a
 
 * **¿Lo escuchas? Eso se llaman silencio:** XXX
 * **Y tiene su propio círculo de invocación:** XXX
-* **Galletas recién horneadas:** Invocas unas deliciosas galletas recién horneadas de Mornenkainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
+* **Galletas recién horneadas:** Invocas unas deliciosas galletas recién horneadas de Mordenkainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
 * **XXX:** XXX
 
 \sp
@@ -307,7 +303,7 @@ Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, a
 
 \conc
 
-En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas. Desde cuevas sucias y logrebas que solo unos goblisn desesperados querrían comprar a castillo comprados por un capricho y sin mirar las cosnecuencias.
+En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas. Desde cuevas sucias y lóbregas que solo unos goblins desesperados querrían comprar a castillos comprados por un capricho y sin mirar las consecuencias.
 
 \sinc
 
@@ -367,7 +363,7 @@ Los constructores aprendieron mucho en la construcción del zigurat piloto y dec
 
 > **Ubicación 1 | Espacio 2 | Corrupción 3 | Precio 1**
 
-> Sucio agujero en el suelo, frío y húmedo en un pantano embrujado aun más frio y húmedo.
+> Sucio agujero en el suelo, frío y húmedo en un pantano embrujado aún más frío y húmedo.
 
 \sc
 
@@ -391,7 +387,7 @@ Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo,
 
 > **Ubicación 1 | Espacio 4 | Corrupción 3 | Precio 1**
 
-Este clan de goblins lleva meses vagabundeando desde que un grupo de aventureros los masacraron y echaron de su cueva para robarles las pocas monedas de cobre que habían conseguido ahorrar con mucho esfuerzo matando a otros pobres grupos de aventureros y así en un ciclo sin finde muerte y avaricia. 
+Este clan de goblins lleva meses vagabundeando desde que un grupo de aventureros los masacraron y echaron de su cueva para robarles las pocas monedas de cobre que habían conseguido ahorrar con mucho esfuerzo matando a otros pobres grupos de aventureros … Y así en un ciclo sin finde muerte y avaricia. 
 
 Buscan un hogar lúgubre y sucio que puedan pagar con sus escasos recursos y a poder ser en un lugar horrible y húmedo que mantenga su piel viscosa e hidratada. 
 
