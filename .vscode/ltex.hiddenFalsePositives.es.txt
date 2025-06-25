@@ -1,2 +1,5 @@
 {"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QReplica a menor escala de un zigurat con pésima decoración interior con resto de esclavos y pintado de un terrible rojo sangre.\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QIndica la magia oscura y la corrupción que destila el lugar.\\E$"}
+{"rule":"REAL","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}

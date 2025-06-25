@@ -66,26 +66,112 @@ Aparte tienen 3 atributos que representan sus capacidades más importantes a la 
 
 Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín del bien no pisará nada que tenga menos de Ubicación 3 y Espacio 3 (con establo para su caballo), Corrupción 4.
 
-### Tokens de la «verdad»
+### La «verdad» y sus tokens
 
 ```
 Naturalmente, pero existe la verdad y «la verdaaaaaad».
 ```
 Lionel Hutz
 
-Si quieres vender el inmueble, debes conseguir que la casa que quieres verder, sea igual a la casa soñada del cliente de forma que deberás mentir, engañar, esconder, ocultar, remodelar y remozar lo que sea, cuando sea y como sea para que esto suceda. Y cada vez que lo haces generas un token de la «verdad».
+Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual a la casa soñada del cliente. Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
 
-Los tokens de la «verdad» representan las veces que has distorsionado la realidad para convertir una ponzoñosa mazmorra habitada por un liche en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad.
+Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
 
 \sp
 
-Estos tokens tiene tres colores y sirven para representar si han mentido poniéndole o quitándole atributos a la vivienda, rojo para Ubicación, azul para Espacio y verde para Corrupción.
+La «verdad» solo puede usarse cuando el cliente descubre un problema en alguno de los atributos de tu inmueble haciendo una tirada de Observar. Si detecta un defecto puedes tratar de arreglarlo (si es posible) o puedes distorsionar la realidad con la «verdad» y darle la vuelta al fallo. Para ello debes elaborar una excusa creíble y hacer una tirada XXX y sacar más éxitos que la tirada de Observar. Si lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.
 
-Por ejemplo, si usan su charlatanería (Negociar) para convencer al comprador de que los horribles grabados de las paredes representando a dioses primigenios del caos y la sangre están ahora mismo de moda y serán la sensación en sus reuniones, el DJ se quedará con un token verde (de Corrupción) para su uso más tarde y podrás modificar los atributos
+Estás vendiendo una torre fortificada al lado de una grieta interdimensional al infierno (Ubicación 1) y el grupo de clérigos legales buenos que buscan un nuevo refugio para su orden se dan cuentan de ello y te lo hacen notar. Los monjes quieren algo menos cerca del infierno (Ubicación 3) así que será difícil venderles la torre.
+
+Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras XXX y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
+
+Tiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
+
+Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ, rojo si es Ubicación, azul si es Espacio y verde si Corrupción.
 
 #### Uso de los tokens
 
-XXX
+El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según los tokens o combinaciones de tokens que gasten puede tirar en una u otra tabla.
+
+**Token rojo: Problemas en el vecindario**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
+
+**Token azul: Defectos de construcción**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
+
+**Token verde: Maldiciones**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
+
+
+**Tokens rojo y azul: XXX**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
+
+\sp
+
+**Tokens azul y verde: XXX**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
+
+**Tokens verde y rojo: XXX**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
+
+**Tokens rojo, azul y verde: Catástrofes**
+
+|1d6|Efecto|
+|---|---|
+|1| |
+|2| |
+|3| |
+|4| |
+|5| |
+|6| |
 
 \sinc
 
@@ -125,13 +211,15 @@ XXX
 
 XXX
 
-### Enseñar el inmueble
-
-XXX
-
 #### Día de trampas desactivadas
 
 Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
+
+Durante este día puedes principalmente conocer a los posibles clientes y averiguar a grandes rasgos como es su casa soñada. XXX 
+
+XXX
+
+### Enseñar el inmueble
 
 XXX
 
@@ -206,6 +294,7 @@ Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, a
 
 * **¿Lo escuchas? Eso se llaman silencio:** XXX
 * **Y tiene su propio círculo de invocación:** XXX
+* **Galletas recién horneadas:** Invocas unas deliciosas galletas recién horneadas de Mornenkainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
 * **XXX:** XXX
 
 \sp
