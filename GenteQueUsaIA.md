@@ -25,6 +25,8 @@ https://www.verkami.com/projects/37148-descubre-duelbooks-el-juego-de-combates-e
 
 ### Bastión de mundos
 
+https://bastiondemundos.es/
+
 Animar a usar IA en tus partidas de Oscuria https://bsky.app/profile/umijenova.bsky.social/post/3ls45bzkjvc2z
 
 ## Creadores independientes
@@ -94,3 +96,7 @@ https://www.youtube.com/watch?v=mWZ4fS5fcGU
 ### Sugaar Editorial
 
 https://sugaareditorial.com/responsabilidad-social-empresarial/
+
+### Mongoose
+
+https://forum.mongoosepublishing.com/threads/traveller-tas-and-ai.125749/

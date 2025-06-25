@@ -18,7 +18,7 @@ El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, **ti
 
 Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas tiran ambos participantes y gana el que más éxitos consiga.
 
-En caso de empates gana el defensor. Si no se consiguen éxitos, el defensor gana.
+En caso de empates gana el defensor. Si no se consiguen éxitos por ninguna aprte, el defensor también gana.
 
 ### Inmuebles y fincas
 
@@ -54,15 +54,17 @@ Bueno, un trato es un trato, ¿no? Claro. Nos vemos luego. Buena suerte. Que lo 
 ```
 Stan S. Stanman
 
-Para empezar necesitas definir en una frase al comprador y lo que busca, como «poderosa jefa tribal orca en busca de una cabaña digna de su gloria» u «hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago». 
+Para empezar necesitas definir en una frase al comprador y lo que busca, como «poderosa jefa tribal orca en busca de una cabaña digna de su gloria» u «hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago».
+
+La descripción del comprador también se puede usar como aspecto que dan un dado extra a las tiradas. Si puedo invocar más elementos de la descripción puedo conseguir más dados.
 
 Aparte tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
 
 * **Negociar:** Es la capacidad de hacer tratos, regatear y sacar ventajas mientras se negocia una venta.
 * **Observar:** Es la capacidad de buscar fallos y taras en el inmueble y detectar la verdad o la «verdad».
-* **Crédito:** Es la capacidad económica del comprador. Un goblin cojo con muletita tiene un crédito de 1 y un conde elector tiene 5.
+* **Crédito:** Es la capacidad económica del comprador. Un goblin cojo, tuerto y con un gancho en vez de mano tiene un crédito de 1 y un conde elector del reino tiene 5.
 
-Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín del bien no pisara nada que tenga más de Ubicación 3, Espacio 3 (con establo para su caballo), Corrupción 1.
+Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín del bien no pisará nada que tenga menos de Ubicación 3 y Espacio 3 (con establo para su caballo), Corrupción 4.
 
 ### Tokens de la «verdad»
 
@@ -71,19 +73,25 @@ Naturalmente, pero existe la verdad y «la verdaaaaaad».
 ```
 Lionel Hutz
 
+Si quieres vender el inmueble, debes conseguir que la casa que quieres verder, sea igual a la casa soñada del cliente de forma que deberás mentir, engañar, esconder, ocultar, remodelar y remozar lo que sea, cuando sea y como sea para que esto suceda. Y cada vez que lo haces generas un token de la «verdad».
+
 Los tokens de la «verdad» representan las veces que has distorsionado la realidad para convertir una ponzoñosa mazmorra habitada por un liche en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad.
 
-Estos tokens tiene tres colores y sirven para representar si han mentido poniéndole o quitándole atributos a la vivienda, rojo para ubicación, azul para espacio y verde para corrupción.
+\sp
 
-Por ejemplo, si usan su charlatanería para convencer al comprador de que los horribles grabados de las paredes representando a dioses primigenios del caos y la sangre están ahora mismo de moda y serán la sensación en sus reuniones, el DJ se quedará con un token verde (de Corrupción) para su uso más tarde.
+Estos tokens tiene tres colores y sirven para representar si han mentido poniéndole o quitándole atributos a la vivienda, rojo para Ubicación, azul para Espacio y verde para Corrupción.
+
+Por ejemplo, si usan su charlatanería (Negociar) para convencer al comprador de que los horribles grabados de las paredes representando a dioses primigenios del caos y la sangre están ahora mismo de moda y serán la sensación en sus reuniones, el DJ se quedará con un token verde (de Corrupción) para su uso más tarde y podrás modificar los atributos
 
 #### Uso de los tokens
 
 XXX
 
-\sp
-
 \sinc
+
+&nbsp;
+
+&nbsp;
 
 ## Creación de personajes
 
@@ -140,25 +148,65 @@ XXX
 
 XXX
 
+\sc
+
 \sp
 
 \sinc
 
-## Trucos de vendedor
+## Trucos sucios de vendedor
 
 &nbsp;
 
 \conc
 
-XXX
+Como ya hemos visto en la creación de PJ podemos convertir los poderes, capacidades y destrezas especiales en trucos sucios de vendedor que aplicaremos podremos poner en práctica durante la venta. 
 
-### Trucos sucios de vendedor
+En general todos los trucos dan 1 dado extra a la tirada, aunque hay excepciones que vienen explicadas en el propio truco. Para poder usar el truco debe tener sentido en la escena. No podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.
 
-XXX
+Puedes ponerte el que más te guste, pero los hemos dividido en 4 grupos que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos. 
 
-* **Hablar rápido y mover los brazos:** XXX
-* **Esto es bueno:** Tras golpear algo con fuerza y decir «Esto es bueno bueno» consigues XXX
+Además, cada truco viene con la característica del inmueble en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
+
+#### Para PJ diestros
+
+Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y velocidad.
+
+* **Las trampas están recién revisadas:** XXX
+* **XXX:** XXX
+* **XXX:** XXX
+
+#### Para PJ fuertes
+
+Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
+
+* **Esto es bueno bueno:** Tras golpear algo con fuerza y decir «Toca, toca. Esto es bueno bueno.» consigues XXX
+* **Si tiras con fuerza:** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo»
+* **La ley me obliga a decirle que aquí ha muerto gente:** XXX
+
+#### Para PJ inteligentes
+
+Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una ventaja importante.
+
+* **Su valor no deja de subir:** XXX
+* **Esto es mejor que tener tus monedas de oro en el banco:** XXX
+* **Mi padre siempre decía que invirtiera en castillos:** XXX
+
+#### Para PJ carismáticos
+
+Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y labia.
+
 * **No hemos reparado en gastos:** XXX
+* **Esto está hecho para durar:** XXX
+* **Hablar rápido y mover los brazos:** XXX. Puede hacerse en cualquier situación, pero, si fallas la tirada, XXX 
+
+#### Para PJ con capacidades mágicas
+
+Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, alquimistas, etc.
+
+* **¿Lo escuchas? Eso se llaman silencio:** XXX
+* **Y tiene su propio círculo de invocación:** XXX
+* **XXX:** XXX
 
 \sp
 
