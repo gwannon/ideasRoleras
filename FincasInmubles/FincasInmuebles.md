@@ -14,9 +14,11 @@ Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo, 
 
 \conc
 
-El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, tiras tantos dados de 6 como el atributo adecuado. Los 5 y 6 son éxitos y cuantos más éxitos mejor lo haces.
+El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, **tiras tantos dados de 6 como el atributo adecuado**. Los **5 y 6 son éxitos** y cuantos más éxitos mejor lo haces.
 
-Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas tiran ambos participantes y gana el que más éxitos consiga. En caso de empates gana el defensor. Si no se consiguen éxitos, el defensor gana.
+Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas tiran ambos participantes y gana el que más éxitos consiga.
+
+En caso de empates gana el defensor. Si no se consiguen éxitos, el defensor gana.
 
 ### Inmuebles y fincas
 
@@ -34,10 +36,10 @@ Esto también puede **usarlo el DJ para sus clientes**. Si la descripción dice 
 Además, cada inmueble tiene 4 características que lo definen.
 
 * **Ubicación.** Indica si su ubicación es buena. Con 1 está en Mordor y con 5 en la Comarca.
-* **Espacio.** Marca el tamaño del inmueble. Quizas un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
 
 \sp
 
+* **Espacio.** Marca el tamaño del inmueble. Quizas un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
 * **Corrupción.** Indica la magia oscura y la corrupción que destila el lugar. Con 1 casi no hay corrupción, aun así, un señor de los altos elfos te diría que ni de coña dormiría en ese sucio antro de corrupción. Con 5 los nurgletes crecen solos y los esqueletos se levantan solos.
 * **Precio:** Indica el precio de la vivienda. Un goblin cojito y tuerto podría comprarse una choza de precio 1 y solo un antiguo liche que lleva siglos acumulando los tesoros de los aventureros que mata podría pagar una mazmorra de precio 5.
 
@@ -155,6 +157,8 @@ XXX
 XXX
 
 * **Hablar rápido y mover los brazos:** XXX
+* **Esto es bueno:** Tras golpear algo con fuerza y decir «Esto es bueno bueno» consigues XXX
+* **No hemos reparado en gastos:** XXX
 
 \sp
 

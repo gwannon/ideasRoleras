@@ -8,6 +8,10 @@
 
 Creado para la [Mermelada rolera RnR 2025](https://itch.io/jam/mermelada-rolera-rnr-2025) organizada por [Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/)
 
+* **Ingredientes mecánicos:** Uso de tokens.
+* **Ingredientes temáticos (elige uno):** Profesiones comunes.
+
+
 \sc
 
 [![Mermelada rolera RnR 2025](./images/mermelada-rolera.jpg "Mermelada rolera RnR 2025")](https://itch.io/jam/mermelada-rolera-rnr-2025 "Mermelada rolera RnR 2025")
