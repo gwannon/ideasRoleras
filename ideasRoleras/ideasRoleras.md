@@ -757,6 +757,10 @@ Sería una aventura donde llevas a los ayudantes de personajes de ficción famos
 
 Estamos hablando de personaje que se conoce las leyes y tiene los contactos necesarios para usar la burocracia y XXX
 
-### Mujercitas
+### Mujercitas en el oeste
 
-XXX
+Una aventura rollo Mujercitas, con las hijas de una familia March, pero en vez de una zona civilizada como Massachusetts, algo más en el salvaje oeste. 
+
+Se podrían crear 4 arquetipos según cada hermana March con sus fortalezas y sus defectos.  
+
+Mientras vives las experiencias del paso a la madurez como las primeras relaciones románticas, los primeros trabajos, etc. buscas ganado perdido, rescatas colonos en apuros y combates a desertores de la guerra de secesión que quieren robarte tu dinero.
