@@ -1,6 +1,6 @@
 \sinc
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.3](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.4](https://gwannon.itch.io/fincas-e-inmuebles)
 
 &nbsp;
 
@@ -164,15 +164,21 @@ XXX
 
 \sinc
 
-## Inmuebles, fincas y compradores
+## Inmuebles y fincas
 
 &nbsp;
 
 \conc
 
-En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas.
+En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas. Desde cuevas sucias y logrebas que solo unos goblisn desesperados querrían comprar a castillo comprados por un capricho y sin mirar las cosnecuencias.
+
+\sinc
 
 ### El castillo en la playa de Stradh
+
+&nbsp;
+
+\conc
 
 [![El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak](./images/a587f316-704f-4289-bcc0-852db0d4b1c1.jpg "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")](https://www.freepik.es/vector-gratis/castillo-cuentos-hadas-colina-sobre-mar-noche-tormentosa_152129994.htm "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")
 
@@ -180,11 +186,21 @@ En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter 
 
 > Ruinoso y pequeño castillo en un acantilado con vistas al mar.
 
-Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una casita de vacaciones en la no-nublosa Benidorovia, donde hacer barbacoas con otros señores del mal. Pero comprarse un pequeño castillo en Benidorovia no fue la mejor idea del conde.
+\sc
 
-Desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas por su alergia mortal al sol.
+Queriendo chulearse de dinero, el conde vampiro Stradh decidió comprarse una casita de vacaciones en la no-nublosa Benidorovia, donde hacer barbacoas con otros señores del mal.
+
+Pero adquirir un pequeño castillo en la perla de la Costa Oscura de Barovia no fue la mejor idea del conde. Desde luego las vistas eran increíbles, pena que el conde vampiro siempre tenga las cortinas corridas por su alergia mortal al sol.
+
+\sinc
+
+&nbsp;
 
 ### Zigurat piloto de Kaklak
+
+&nbsp;
+
+\conc
 
 [![By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335](./images/zigurat.jpg "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")](https://commons.wikimedia.org/wiki/File:Zigurat.png "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")
 
@@ -200,23 +216,51 @@ Puede que este poseído por las almas en pena de los esclavos que murieron en su
 
 Los constructores aprendieron mucho en la construcción del zigurat piloto y decidieron que pintarlo con la sangre de los esclavos no daba buena imagen del rey hechicero, así que el zigurat definitivo está pintado con los vivos colores del arcoíris.
 
+\sp
+
+\sinc
+
 ### Sucia cueva de goblins
+
+&nbsp;
+
+\conc
 
 [![Mystical forest cave entrance brgfx](./images/4efc2509-5d3b-4cc0-9264-9d4f5b269f81.jpg "Mystical forest cave entrance brgfx")](https://www.freepik.com/free-vector/mystical-forest-cave-entrance_149955609.htm "Mystical forest cave entrance brgfx")
 
-> **Ubicación X | Espacio X | Corrupción X | Precio X**
+> **Ubicación 1 | Espacio 2 | Corrupción 3 | Precio 1**
 
-> XXX
+> Sucio agujero en el suelo, frío y húmedo en un pantano embrujado aun más frio y húmedo.
 
-XXX
+\sc
 
-### XXX
+Nadie en su sano juicio viviría aquí y mucho menos pagaría dinero, pero oye, pones el anuncio y si parece alguien, pues genial.
 
-XXX
+Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo, decorarlo y adecentarlo al gusto de sus posibles compradores.
 
-> **Negociar X | Observar X | Credito X**
+\sp
 
-> **Ubicación X | Espacio X | Corrupción X | Precio X**
+\sinc
+
+## Compradores
+
+&nbsp;
+
+\conc
+
+### Clan de goblins apaleados
+
+> **Negociar 4 | Observar 1 | Crédito 1**
+
+> **Ubicación 1 | Espacio 4 | Corrupción 3 | Precio 1**
+
+Este clan de goblins lleva meses vagabundeando desde que un grupo de aventureros los masacraron y echaron de su cueva para robarles las pocas monedas de cobre que habían conseguido ahorrar con mucho esfuerzo matando a otros pobres grupos de aventureros y así en un ciclo sin finde muerte y avaricia. 
+
+Buscan un hogar lúgubre y sucio que puedan pagar con sus escasos recursos y a poder ser en un lugar horrible y húmedo que mantenga su piel viscosa e hidratada. 
+
+No sabrán negociar, los cabrones, pero te ponen esos ojillos de cachorro grandes y brillantes y no te puedes negar. Tienen hasta un goblincito cojo con muletas que no para de toser y de decir que tiene hambre. 
+
+\sc
 
 \sp
 
