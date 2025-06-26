@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: Fincas & Inmuebles
 
 InfoKey: Subject
-InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 0.4
+InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 0.5
 
 InfoKey: Author
 InfoValue: Gwannon

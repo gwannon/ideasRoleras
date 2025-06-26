@@ -1,6 +1,6 @@
 \sinc
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.4](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.5](https://gwannon.itch.io/fincas-e-inmuebles)
 
 &nbsp;
 
@@ -136,12 +136,12 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 |1d6|Efecto|
 |---|---|
-|1|Expropiación para construir XXX|
-|2|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
+|1|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
+|2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato/residencia viejos aventureros.|
 |3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
-|4|La recalificación del terreno os deja sin parte de las tierras de la finca|
+|4|La recalificación del terreno hace que parte de la finca sea terreno rural y debería tener un bosque.|
 |5| XXX |
-|6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave|
+|6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
 &nbsp;
 
@@ -154,9 +154,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |3| XXX |
 |4|En el terreno colindante aparece una espada mágica clavada en la piedra y se llena de aspirantes a rey y de curiosos que quieren probar suerte, y claro de vendedores de souvenirs y de comida rápida.|
 |5| XXX |
-|6| XXX |
-
-\sc
+|6|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
 
 **Tokens verde y rojo: Vecinos molestos**
 
@@ -182,11 +180,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5| XXX |
 |6| XXX |
 
+\sp
+
 \sinc
-
-&nbsp;
-
-&nbsp;
 
 ## Creación de personajes
 
@@ -195,8 +191,6 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 \conc
 
 XXX
-
-\sp
 
 \sinc
 
