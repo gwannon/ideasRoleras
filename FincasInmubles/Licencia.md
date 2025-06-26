@@ -9,8 +9,7 @@
 Creado para la [Mermelada rolera RnR 2025](https://itch.io/jam/mermelada-rolera-rnr-2025) organizada por [Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/)
 
 * **Ingredientes mecánicos:** Uso de tokens.
-* **Ingredientes temáticos (elige uno):** Profesiones comunes.
-
+* **Ingredientes temáticos:** Profesiones comunes.
 
 \sc
 
@@ -24,7 +23,7 @@ Creado para la [Mermelada rolera RnR 2025](https://itch.io/jam/mermelada-rolera-
 
 \conc
 
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/FincasInmubles). Imágenes libres de derecho de [freepik](https://www.freepik.com/).
+Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/FincasInmubles). Imágenes libres de derecho de diferentes fuentes.
 
 \sc
 

@@ -83,7 +83,7 @@ La «verdad» solo puede usarse cuando el cliente descubre un problema en alguno
 
 Estás vendiendo una torre fortificada al lado de una grieta interdimensional al infierno (Ubicación 1) y el grupo de clérigos legales buenos que buscan un nuevo refugio para su orden se dan cuentan de ello y te lo hacen notar. Los monjes quieren algo menos cerca del infierno (Ubicación 3) así que será difícil venderles la torre.
 
-Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras XXX y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
+Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además, ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras XXX y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
 
 Tiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
 
@@ -97,81 +97,90 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 |1d6|Efecto|
 |---|---|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1| XXX |
+|2| XXX |
+|3| XXX |
+|4| XXX |
+|5| XXX |
+|6| XXX |
+
+&nbsp;
 
 **Token azul: Defectos de construcción**
 
 |1d6|Efecto|
 |---|---|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1| XXX |
+|2| XXX |
+|3| XXX |
+|4| XXX |
+|5| XXX |
+|6| XXX |
+
+&nbsp;
 
 **Token verde: Maldiciones**
 
 |1d6|Efecto|
 |---|---|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
-
-
-**Tokens rojo y azul: XXX**
-
-|1d6|Efecto|
-|---|---|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1| XXX |
+|2| XXX |
+|3| XXX |
+|4| XXX |
+|5| XXX |
+|6| XXX |
 
 \sp
 
-**Tokens azul y verde: Batalla legal**
+**Tokens rojo y azul: Batalla legal**
 
 |1d6|Efecto|
 |---|---|
-|1|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1|Expropiación para construir XXX|
+|2|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
+|3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
+|4|La recalificación del terreno os deja sin parte de las tierras de la finca|
+|5| XXX |
+|6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave|
+
+&nbsp;
+
+**Tokens azul y verde: Eventos mágicos**
+
+|1d6|Efecto|
+|---|---|
+|1|En teoría, parte de la construcción está en tierra feérica y las hadas no paran de raptar a todo aquel que se acerca a ver el inmueble.|
+|2| XXX |
+|3| XXX |
+|4|En el terreno colindante aparece una espada mágica clavada en la piedra y se llena de aspirantes a rey y de curiosos que quieren probar suerte, y claro de vendedores de souvenirs y de comida rápida.|
+|5| XXX |
+|6| XXX |
+
+\sc
 
 **Tokens verde y rojo: Vecinos molestos**
 
 |1d6|Efecto|
 |---|---|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1| XXX |
+|2| XXX |
+|3|Topos infernales están excavando en la zona y los cimientos parecen que van a ceder.|
+|4| XXX |
+|5| XXX |
+|6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo cerca.|
+
+&nbsp;
 
 **Tokens rojo, azul y verde: Catástrofes**
 
 |1d6|Efecto|
 |---|---|
-|1| |
-|2| |
-|3| |
-|4| |
-|5| |
-|6| |
+|1| XXX |
+|2|La finca o el inmueble ya no está en nuestro plano.|
+|3| XXX |
+|4| XXX |
+|5| XXX |
+|6| XXX |
 
 \sinc
 
@@ -205,7 +214,11 @@ XXX
 
 ### Adecentar la mazmorra y sacar cadáveres
 
+En esta fase podrán decidir como arreglar los problemas o carencias
+
 XXX
+
+Puede que algún evento generado por el uso de tokens les obligue a volver a esta fase, para, por ejemplo, resolver los destrozos generados por una horda de bárbaros que asoló la región o tengan que pagar a un clérigo para que exorcice los fantasmas de los antiguos propietarios que quieren vengarse de tus PJ porque fueron los culpables de su muerte.
 
 #### Día de trampas desactivadas
 
@@ -232,8 +245,6 @@ XXX
 
 XXX
 
-\sc
-
 \sp
 
 \sinc
@@ -244,9 +255,9 @@ XXX
 
 \conc
 
-Como ya hemos visto en la creación de PJ podemos convertir los poderes, capacidades y destrezas especiales en trucos sucios de vendedor que aplicaremos podremos poner en práctica durante la venta. 
+Como ya hemos visto en la creación de PJ podemos **convertir los poderes, capacidades y destrezas especiales en trucos sucios de vendedor** que aplicaremos podremos poner en práctica durante la venta. 
 
-En general todos los trucos dan 1 dado extra a la tirada, aunque hay excepciones que vienen explicadas en el propio truco. Para poder usar el truco debe tener sentido en la escena. No podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.
+En general **todos los trucos dan 1 dado extra** a la tirada, aunque hay excepciones que vienen explicadas en el propio truco. Para poder usar el truco debe tener sentido en la escena. No podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.
 
 Puedes ponerte el que más te guste, pero los hemos dividido en 4 grupos que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos. 
 
@@ -256,42 +267,43 @@ Además, cada truco viene con la característica del inmueble en que puede usars
 
 Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y velocidad.
 
-* **Las trampas están recién revisadas:** XXX
-* **XXX:** XXX
+* **Las trampas están recién revisadas (Ubicación o Espacio):** Lanzas a un compañero (algo indispensable) y ves como de las paredes salen hojas cortantes o flechas envenenadas que deberá esquivar para demostrar que todo funciona. Y terminas con un «Esto es lo que pasaría a un sucio aventurero que quisiera saquear su tumba».
+* **Esto es mejor que tener tus monedas de oro en el banco y no te pueden robar (Precio):** XXX
 * **XXX:** XXX
 
 #### Para PJ fuertes
 
 Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
 
-* **Esto es bueno bueno:** Tras golpear algo con fuerza y decir «Toca, toca. Esto es bueno bueno.» consigues XXX
-* **Si tiras con fuerza:** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo»
+* **Esto es bueno bueno (Espacio):** Tras golpear algo con fuerza y decir «Toca, toca. Esto es bueno bueno.» consigues XXX
+* **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo»
 * **La ley me obliga a decirle que aquí ha muerto gente:** XXX
 
 #### Para PJ inteligentes
 
 Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una ventaja importante.
 
-* **Su valor no deja de subir:** XXX
-* **Esto es mejor que tener tus monedas de oro en el banco:** XXX
-* **Mi padre siempre decía que invirtiera en castillos:** XXX
+* **Su valor no deja de subir (Precio):** XXX
+* **Mi padre siempre decía que invirtiera en castillos (Espacio):** XXX
+* **Hay que compra con cabeza:** XXX
 
 #### Para PJ carismáticos
 
 Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y labia.
 
-* **No hemos reparado en gastos:** XXX
-* **Esto está hecho para durar:** XXX
-* **Hablar rápido y mover los brazos:** XXX. Puede hacerse en cualquier situación, pero, si fallas la tirada, XXX 
+* **No hemos reparado en gastos (Espacio):** XXX
+* **Esto está hecho para durar (Espacio):** XXX
+* **Hablar rápido y mover los brazos:** Ya está, es así de fácil, no paras de hablar y de mover las manos. Esto creo un efecto hipnótico que nubla la mente del posible comprador. Puede hacerse en cualquier situación y con cualquier atributo, pero, si fallas la tirada el DJ se lleva un token del color del atributo adecuado. 
+
+\sp
 
 #### Para PJ con capacidades mágicas
 
 Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, alquimistas, etc.
 
-* **¿Lo escuchas? Eso se llaman silencio:** XXX
-* **Y tiene su propio círculo de invocación:** XXX
-* **Galletas recién horneadas:** Invocas unas deliciosas galletas recién horneadas de Mordenkainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
-* **XXX:** XXX
+* **¿Lo escuchas? Eso que escuchas se llama silencio (Ubicación):** Si el comprador dice que está muy alejado, que no hay servicios de matasanos en las inmediaciones o que no hay buenos colegios de magia en la vecindad, puedes usar este sucio truco.
+* **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo. XXX
+* **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
 
 \sp
 
