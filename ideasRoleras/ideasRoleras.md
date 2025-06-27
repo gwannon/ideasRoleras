@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 27/06/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 04/07/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos y ambientaciones
 
@@ -258,6 +258,18 @@ Las partidas tienen formato de las novelas y películas de Agatha Christie rollo
 
 Veamos un ejemplo. En una secta de adoradores de Cthulhu alguien ha matado al gran maestre justo antes de la gran ceremonia de advenimiento en un perdido castillo en una isla de la costa inglesa. El propio Cthulhu envía a 3 híbridos de profundos que son los PJ. Deberán averiguar quién, cómo y por qué han matado al gran maestre.
 
+### Agente inmobiliario medieval fantástico
+
+Eres un agente inmobiliario en un mundo medieval fantástico y debes vender los peores inmuebles posibles. Casa al lado de Mordor, vecinos Uruk-hai, ático infestado de xenomorfos y, como no, ratas gigantes en el sótano.
+
+Los clientes podrían ser de todo tipo desde PJ de nivel 1 a señores del mal que buscan tener su propia mazmorra.
+
+Tendrás que limpiar el inmueble, hornear galletas para el día de visita y evitar que se los coman los goblins, pasar el limo ácido para que limpie suelos, techos y paredes, poner flores (algunas veces carnívoras) y colocar cuadros familiares (a veces de familias descuartizadas). 
+
+Subirías de dinero en plan OSR, en función de la comisión de ventas que consigas y cuanto mayor es el nivel, más complicada de vender serían las casas y mayor comisión te darán.
+
+Como guiño a Los Simpsons y al capítulo en que Marge se hace agente inmobiliario, metería una regla llamada. - Existe la verdad y «la verdad», Marge.
+
 ### Anarquistas
 
 Creo que a los amantes de la historia y del rol más narrativo les podría gustar una campaña basada en un grupo de anarquistas/sindicalista de finales del XIX y principios del XX.
@@ -288,6 +300,8 @@ Cada corriente te da unas habilidades únicas, basadas en tus creencias, de form
 
 Los combates son como los duelos de insultos del Monkeys Island, donde tus palabras y tus teorías filosóficas cortan más que las espadas.
 
+\sp
+
 Quizás tengas que hacer pintadas en el templo explicando tu filosofía, dar una charla a tus seguidoras y seguidores u organizar un simposio o una bacanal para tus simpatizantes.
 
 ### Foodtrucks wars
@@ -299,8 +313,6 @@ Habría luchas, comerciales y físicas, por los mejores territorios, sabotajes, 
 Podrías tener que robarle su salsa secreta a la competencia o contratar a empleados de otros Foodtrucks para fastidiarles. Quizás tengas que proteger tu laboratorio ilegal donde haces tu superpicante chili con carne.
 
 En vez de grandes familias mafiosas, habría cárteles por cada tipo de comida, tacos y burritos, wok, perritos calientes, kebabs, ...
-
-\sp
 
 ### Graffiti World
 
@@ -338,6 +350,8 @@ Un tópico de los libros y las películas, es un huir del demonio, bien porque l
 
 Puede ser un «play to lose» y al final el demonio te va a atrapar y llevarte de vuelta al infierno. También puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafiosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendríamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compensen tus malos actos.
 
+\sp
+
 Tener o no tener poderes demoniacos/infernales también sería un punto importante a definir.
 
 ### La liga de los críptidos extraordinarios
@@ -347,8 +361,6 @@ Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), d
 ### Mad men RPG
 
 Un _indie_ donde jugar con tu propio Don Draper y tener que diseñar campañas y convencer a tu cliente y tus jefes de hacerla usando todo tipo de trucos sucios y bebiendo cócteles de bourbon.
-
-\sp
 
 ### Mensajero/a en bici en ciudad cyberpunk.
 
@@ -396,6 +408,8 @@ Los robots tendrán su pequeño mini-mundo con sus problemas de robots, como que
 
 Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden hacer y otras para las que necesitará ayuda.
 
+\sp
+
 ### Planilandia RPG
 
 Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
@@ -407,8 +421,6 @@ Es una sátira de la época victoriana, pero la parte matemática está muy bien
 Los jugadores llevan personajes de plastilina (a lo Toy Story) que se pueden deformar y juntar.
 
 Está inspirado en los arquetipos del Nephilim de Chaosium, que serían representados por los colores de la plastilina, y en el Immortal: The Invisible War (la parte de habilidades/creación del personaje).
-
-\sp
 
 Los jugadores podrían cederse dados (mezcla de colores).
 
@@ -456,6 +468,8 @@ Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
 
+\sp
+
 ### Se ha escrito un papiro
 
 Creo que sería divertido hacer una historia en paralelo en que juegas con dos personajes, un PJ en el Egipto antiguo y otro PJ rollo egiptólogo en la actualidad que descubre el misterio del primero.
@@ -469,8 +483,6 @@ Todo esto vino a partir de esta pregunta de [Ainu No Oni](https://bsky.app/profi
 ### Slapstick RPG
 
 El slapstick es el género de todas esas películas mudas Chaplin, Buster Keaton, etc. El juego tendría, por un lado, mecánicas para jugar todos los clichés del género como persecuciones, quedar colgado de un lugar alto, mosquear a la policía, golpes, tortazos, resbalones, …
-
-\sp
 
 Por otro lado, debería haber unas mecánicas para gestionar que los personajes son mudos y solo hay comunicación escrita. También tendría que marcarse la mímica y la sobreactuación de los personajes.
 
@@ -628,9 +640,19 @@ Dos opciones, jugar las Máscaras u otras aventuras de los Mitos con investigado
 
 Jugar aventuras y campañas de los Mitos adaptando la aventura para que no haya un primigenio al que despertar/invocar sino Drácula.
 
+### Mujercitas en el oeste
+
+Una aventura rollo Mujercitas, con las hijas de una familia March, pero en vez de una zona civilizada como Massachusetts, algo más en el salvaje oeste. 
+
+Se podrían crear 4 arquetipos según cada hermana March con sus fortalezas y sus defectos. Habría también un montón de tablas para crear la familia, con cosas como riqueza, parientes ricos o pobres, criados, casa familiar, ... 
+
+Mientras vives las experiencias del paso a la madurez como las primeras relaciones románticas, los primeros trabajos, etc. buscas ganado perdido, rescatas colonos en apuros y combates a desertores de la guerra de secesión que quieren robarte tu dinero.
+
 ### Perdiendo niveles y/o experiencia
 
 Montar una campaña en un juego de rol con niveles en que en vez de subir niveles los bajas. Empiezas con nivel 10 y en cada hito pierdes un nivel, hasta perder todos tus niveles y desaparecer.
+
+\sp
 
 Puede ser una maldición, una enfermedad, etc. La manera que más me gusta es que por alguna paradoja temporal las acciones que te dieron experiencia en el pasado no han sucedido o han sucedido de otra manera y, por tanto, vas perdiendo niveles según tus hazañas desaparecen de la historia.
 
@@ -639,8 +661,6 @@ Y claro si tú no mataste al troll, el troll sigue allí o lo ha matado al otro.
 Puedes experimentar si los niveles se pierden por arriba o por abajo. Si desaparece primero cuando mataste al goblin en nivel 1 o si desaparece cuando derrocaste al rey nigromante a nivel 10.
 
 Puede ser interesante con PJ con los que han jugado otra gran campaña donde las cosas que hicieron las conocen de haberlas jugado y no simplemente que sean aventuras inventadas para la campaña.
-
-\sp
 
 ### La protectora
 
@@ -736,26 +756,6 @@ Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
 
 \sp
-
-### Agente inmobiliario medieval fantástico
-
-Eres un agente inmobiliario en un mundo medieval fantástico y debes vender los peores inmuebles posibles. Casa al lado de Mordor, vecinos Uruk-hai, ático infestado de xenomorfos y, como no, ratas gigantes en el sótano.
-
-Los clientes podrían ser de todo tipo desde PJ de nivel 1 a señores del mal que buscan tener su propia mazmorra.
-
-Tendrás que limpiar el inmueble, hornear galletas para el día de visita y evitar que se los coman los goblins, pasar el limo ácido para que limpie suelos, techos y paredes, poner flores (algunas veces carnívoras) y colocar cuadros familiares (a veces de familias descuartizadas). 
-
-Subirías de dinero en plan OSR, en función de la comisión de ventas que consigas y cuanto mayor es el nivel, más complicada de vender serían las casas y mayor comisión te darán.
-
-Como guiño a Los Simpsons y al capítulo en que Marge se hace agente inmobiliario, metería una regla llamada. - Existe la verdad y «la verdad», Marge.
-
-### Mujercitas en el oeste
-
-Una aventura rollo Mujercitas, con las hijas de una familia March, pero en vez de una zona civilizada como Massachusetts, algo más en el salvaje oeste. 
-
-Se podrían crear 4 arquetipos según cada hermana March con sus fortalezas y sus defectos. Habría también un montón de tablas para crear la familia, con cosas como riqueza, parientes ricos o pobres, criados, casa familiar, ... 
-
-Mientras vives las experiencias del paso a la madurez como las primeras relaciones románticas, los primeros trabajos, etc. buscas ganado perdido, rescatas colonos en apuros y combates a desertores de la guerra de secesión que quieren robarte tu dinero.
 
 ### La extraordinaria liga de ayudantes
 
