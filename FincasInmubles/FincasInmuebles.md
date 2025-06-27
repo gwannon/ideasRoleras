@@ -93,6 +93,8 @@ Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ
 
 El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según los tokens o combinaciones de tokens que gasten puede tirar en una u otra tabla.
 
+&nbsp;
+
 **Token rojo: Problemas en el vecindario**
 
 |1d6|Efecto|
@@ -101,7 +103,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2| XXX |
 |3| XXX |
 |4| XXX |
-|5| XXX |
+|5|Topos infernales están excavando en la zona y las vibraciones hacen que los cimientos cedan poco a poco.|
 |6| XXX |
 
 &nbsp;
@@ -110,16 +112,16 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 |1d6|Efecto|
 |---|---|
-|1| XXX |
+|1|El tejado o los techos tienen filtraciones o goteras, el problema es que no es agua lo qu filtran. XXX|
 |2| XXX |
 |3| XXX |
-|4| XXX |
+|4|Las vigas principales tiene carcoma, carcoma élfica que solo come maderas nobles y es inmune a la magia.|
 |5| XXX |
-|6| XXX |
+|6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
 
-&nbsp;
+\sp
 
-**Token verde: Maldiciones**
+**Token verde: Maldiciones y posesiones**
 
 |1d6|Efecto|
 |---|---|
@@ -127,10 +129,10 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2| XXX |
 |3| XXX |
 |4| XXX |
-|5| XXX |
+|5|La cocina está poseída por los fantasmas de una «troupe» de artistas y no paran de organizar números musicales con el menaje de cocina.|
 |6| XXX |
 
-\sp
+&nbsp;
 
 **Tokens rojo y azul: Batalla legal**
 
@@ -140,41 +142,43 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato/residencia viejos aventureros.|
 |3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
 |4|La recalificación del terreno hace que parte de la finca sea terreno rural y debería tener un bosque.|
-|5| XXX |
+|5|Nadie escapa de la muerte y los impuestos. Quizas de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
 |6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
-&nbsp;
+\sc
 
 **Tokens azul y verde: Eventos mágicos**
 
 |1d6|Efecto|
 |---|---|
 |1|En teoría, parte de la construcción está en tierra feérica y las hadas no paran de raptar a todo aquel que se acerca a ver el inmueble.|
-|2| XXX |
-|3| XXX |
+|2|El último artesano que vino a la casa tenía una especie de destornillador raro que zumbaba mucho y ahora la casa es mucho más grande por fuera que por dentro.|
+|3|Todas las superficies reflectantes desde espejos hasta escudos de metal bruñidos muestras los momentos más vergonzosos de aquellos que se reflejan.| 
 |4|En el terreno colindante aparece una espada mágica clavada en la piedra y se llena de aspirantes a rey y de curiosos que quieren probar suerte, y claro de vendedores de souvenirs y de comida rápida.|
-|5| XXX |
-|6|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
+|5|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
+|6|Las escaleras han pasado a estado cuántico y ahora bajan cuando quieres subir, suben cuando quieres bajar o te llevan al mismo nivel en que estabas.|
+
+\sp
 
 **Tokens verde y rojo: Vecinos molestos**
 
 |1d6|Efecto|
 |---|---|
-|1| XXX |
-|2| XXX |
-|3|Topos infernales están excavando en la zona y los cimientos parecen que van a ceder.|
-|4| XXX |
-|5| XXX |
-|6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo cerca.|
+|1|El círculo de druidas local deja vuestro inmueble lleno de cascos botellas de sidra y dan gritos y hacen cánticos hasta las tantas cuando hacen sus reuniones las noches de luna nueva.|
+|2|el puerto de barcos voladores gnomos pasa por encima de vuestra finca, metiendo muchísimo ruido, dejando caer cosas peligrosas o incluso estrellándose.|
+|3|La bruja comeniños cercana ha puesto su casita de chocolate en venta y atrae a todos los clientes, nadie quiere vuestro edificio, cuando puede comprar uno de chocolate y caramelo.|
+|4|La cervecera enana local tiene fugas en el riachuelo local, eso hace que el agua sea alcohol puro y el cielo este lleno de humos.|
+|5|Una medusa, minotauro u otro monstruo similar aparece con un contrato de trabajo firmado y fechado para vigilar en la mazmorra y acabar con cualquier aventurero que entre. El problema es que intenta matar a las visitas y quiere cobrar a fin de mes.|
+|6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo en la finca.|
 
-&nbsp;
+\sc
 
 **Tokens rojo, azul y verde: Catástrofes**
 
 |1d6|Efecto|
 |---|---|
 |1| XXX |
-|2|La finca o el inmueble ya no está en nuestro plano.|
+|2|La finca o el inmueble ya no está en nuestro plano, quizás esté en un plano demoniaco o celestial o de gente churro. La cuestión es que como mínimo ya no existen los posibles clientes que teníais.|
 |3| XXX |
 |4| XXX |
 |5| XXX |
