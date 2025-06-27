@@ -90,6 +90,10 @@ https://www.youtube.com/watch?v=66da-tSKK0s
 
 https://www.youtube.com/watch?v=mWZ4fS5fcGU
 
+https://ojoaldado.blogspot.com/
+
+---
+
 
 ## Empresas que se han declarado anti IA
 
