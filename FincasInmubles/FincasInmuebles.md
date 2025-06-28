@@ -1,12 +1,12 @@
 \sinc
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.5](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.6](https://gwannon.itch.io/fincas-e-inmuebles)
 
 &nbsp;
 
 Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
 
-Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo, azul y verde).
+Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo &#128308;, azul &#128309; y verde &#128994;).
 
 ## Reglas
 
@@ -87,7 +87,7 @@ Decides usar la «verdad», porque no hay artesano que arregle eso de la fractur
 
 Tiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
 
-Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ, rojo si es Ubicación, azul si es Espacio y verde si Corrupción.
+Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ, rojo &#128308; si es Ubicación, azul &#128309; si es Espacio y verde &#128994; si Corrupción.
 
 #### Uso de los tokens
 
@@ -95,46 +95,56 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 &nbsp;
 
-**Token rojo: Problemas en el vecindario**
+**Token &#128308;: Problemas en el vecindario**
 
 |1d6|Efecto|
 |---|---|
-|1| XXX |
-|2| XXX |
-|3| XXX |
-|4| XXX |
+|1|Los vecinos se pasan el día llamando a la guardia acusándoos de ruido, de obras ilegales, etc.|
+|2|La cocatriz de los vecinos canta todos los días al amanecer y eso no gusta a los compradores que no quieren madrugar.|
+|3|El círculo de druidas nudistas local suelen pasearse por la zona para hacer sus cosas de druidas.|
+|4|Están talando el bosque que rodea el inmueble, quieren montar una megataberna con chiquimazmorra para los niños y cafetería élfica gourmet.|
 |5|Topos infernales están excavando en la zona y las vibraciones hacen que los cimientos cedan poco a poco.|
-|6| XXX |
+|6|Un clan orco ha oído que el inmueble está vacío y quiere darle un vistazo, el problema es que cada orco quiere cosas distintas.|
 
 &nbsp;
 
-**Token azul: Defectos de construcción**
+**Token &#128309;: Defectos de construcción**
 
 |1d6|Efecto|
 |---|---|
-|1|El tejado o los techos tienen filtraciones o goteras, el problema es que no es agua lo qu filtran. XXX|
-|2| XXX |
-|3| XXX |
-|4|Las vigas principales tiene carcoma, carcoma élfica que solo come maderas nobles y es inmune a la magia.|
-|5| XXX |
-|6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
+|1|El tejado o los techos tienen filtraciones o goteras, el problema es que no es agua lo que se filtra.|
+|2|El limo ácido que se encargaba de comerse la basura, trastos, cadáveres, … se ha hecho vegano.|
 
 \sp
 
-**Token verde: Maldiciones y posesiones**
-
 |1d6|Efecto|
 |---|---|
-|1| XXX |
-|2| XXX |
-|3| XXX |
-|4| XXX |
-|5|La cocina está poseída por los fantasmas de una «troupe» de artistas y no paran de organizar números musicales con el menaje de cocina.|
-|6| XXX |
+|3|Las vigas principales tienen carcoma, carcoma élfica que solo come maderas nobles y es inmune a la magia.|
+|4|Un albañil os dice que tenemos peste de golem de piedra en las paredes y eso es un problema caro.|
+|5|Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumoso o roja sangre y vísceras según a quien vayáis a venderlo.|
+|6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
 
 &nbsp;
 
-**Tokens rojo y azul: Batalla legal**
+**Token &#128994;: Maldiciones y posesiones**
+
+|1d6|Efecto|
+|---|---|
+|1|Las insalubres condiciones del inmueble traen enfermedades, sarna de goblin, picazón axilar de enano o ronchas pálidas de elfo oscuro.|
+|2|Todos grifos del inmueble dan la sangre de la tierra, vino tinto. El problema es que todo el mundo, desde aventureros y clientes hasta artesanos acaban ebrios.|
+|3|Un montón de objetos se han convertido en mímicos y la verdad nadie quiere hacer sus necesidades en una taza de váter mímica.|
+|4|Plaga de gremlins, que más hay que decir. Todos hemos visti las pelis.|
+|5|La cocina está poseída por los fantasmas de una «troupe» de artistas y no paran de organizar números musicales con el menaje de cocina.|
+
+\sc
+
+|1d6|Efecto|
+|---|---|
+|6|Habéis airado de alguna manera a los dioses y todos los personajes cambian de cuerpo entre sí y con los clientes y los artesanos. Quizas haya que devolver alguna estatuilla antigua o hacer algún tipo de ritual o hechizo.|
+
+&nbsp;
+
+**Tokens &#128308; &#128309;: Batalla legal**
 
 |1d6|Efecto|
 |---|---|
@@ -145,9 +155,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Nadie escapa de la muerte y los impuestos. Quizas de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
 |6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
-\sc
+\sp
 
-**Tokens azul y verde: Eventos mágicos**
+**Tokens &#128309; &#128994;: Eventos mágicos**
 
 |1d6|Efecto|
 |---|---|
@@ -158,9 +168,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
 |6|Las escaleras han pasado a estado cuántico y ahora bajan cuando quieres subir, suben cuando quieres bajar o te llevan al mismo nivel en que estabas.|
 
-\sp
+&nbsp;
 
-**Tokens verde y rojo: Vecinos molestos**
+**Tokens &#128994; &#128308;: Vecinos molestos**
 
 |1d6|Efecto|
 |---|---|
@@ -171,9 +181,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Una medusa, minotauro u otro monstruo similar aparece con un contrato de trabajo firmado y fechado para vigilar en la mazmorra y acabar con cualquier aventurero que entre. El problema es que intenta matar a las visitas y quiere cobrar a fin de mes.|
 |6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo en la finca.|
 
-\sc
+\sp
 
-**Tokens rojo, azul y verde: Catástrofes**
+**Tokens &#128308; &#128309; &#128994;: Catástrofes**
 
 |1d6|Efecto|
 |---|---|
@@ -182,7 +192,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |3| XXX |
 |4| XXX |
 |5| XXX |
-|6| XXX |
+|6|Un señor del bosque gigantesco, un primigenio o un dragón está arrasando la zona lo que desgraciadamente está haciendo bajar los precios de los inmuebles de la zona.|
+
+\sc
 
 \sp
 

@@ -2,3 +2,13 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qconsigues XXX\nSi tiras con fuerza:\\E$"}
 {"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QReplica a menor escala de un zigurat con pésima decoración interior, paredes de gotelé y pintado de un terrible rojo sangre.\\E$"}
 {"rule":"FORM","sentence":"^\\Q5 Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\Q1 Las insalubres condiciones del inmueble traen enfermedades sarna de goblin, picazón axilar de enano o ronchas pálidas de elfo oscuro.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QIndica la magia oscura y la corrupción que destila el lugar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMystical forest cave entrance brgfx\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QMystical forest cave entrance brgfx\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBy vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QPero adquirir un pequeño castillo en la perla de la Costa Oscura de Barovia no fue la mejor idea del conde.\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}
+{"rule":"REAL","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
+{"rule":"REAL","sentence":"^\\Q6 No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.\\E$"}
