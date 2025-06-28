@@ -12,3 +12,4 @@
 {"rule":"REAL","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
 {"rule":"FORM","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
 {"rule":"REAL","sentence":"^\\Q6 No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSleepy Cave Dragon By Alexander-Werner-Jr\\E$"}

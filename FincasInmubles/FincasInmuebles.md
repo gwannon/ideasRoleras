@@ -175,7 +175,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |1d6|Efecto|
 |---|---|
 |1|El círculo de druidas local deja vuestro inmueble lleno de cascos botellas de sidra y dan gritos y hacen cánticos hasta las tantas cuando hacen sus reuniones las noches de luna nueva.|
-|2|el puerto de barcos voladores gnomos pasa por encima de vuestra finca, metiendo muchísimo ruido, dejando caer cosas peligrosas o incluso estrellándose.|
+|2|El puerto de barcos voladores gnomos pasa por encima de vuestra finca, metiendo muchísimo ruido, dejando caer cosas peligrosas o incluso estrellándose.|
 |3|La bruja comeniños cercana ha puesto su casita de chocolate en venta y atrae a todos los clientes, nadie quiere vuestro edificio, cuando puede comprar uno de chocolate y caramelo.|
 |4|La cervecera enana local tiene fugas en el riachuelo local, eso hace que el agua sea alcohol puro y el cielo este lleno de humos.|
 |5|Una medusa, minotauro u otro monstruo similar aparece con un contrato de trabajo firmado y fechado para vigilar en la mazmorra y acabar con cualquier aventurero que entre. El problema es que intenta matar a las visitas y quiere cobrar a fin de mes.|
@@ -273,6 +273,8 @@ Puedes ponerte el que más te guste, pero los hemos dividido en 4 grupos que rep
 
 Además, cada truco viene con la característica del inmueble en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
 
+\sp
+
 #### Para PJ diestros
 
 Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y velocidad.
@@ -304,8 +306,6 @@ Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y la
 * **No hemos reparado en gastos (Espacio):** XXX
 * **Esto está hecho para durar (Espacio):** XXX
 * **Hablar rápido y mover los brazos:** Ya está, es así de fácil, no paras de hablar y de mover las manos. Esto creo un efecto hipnótico que nubla la mente del posible comprador. Puede hacerse en cualquier situación y con cualquier atributo, pero, si fallas la tirada el DJ se lleva un token del color del atributo adecuado. 
-
-\sp
 
 #### Para PJ con capacidades mágicas
 
@@ -393,6 +393,38 @@ Nadie en su sano juicio viviría aquí y mucho menos pagaría dinero, pero oye, 
 
 Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo, decorarlo y adecentarlo al gusto de sus posibles compradores.
 
+
+
+
+\sinc
+
+&nbsp;
+
+### Cueva de pequeño dragón
+
+&nbsp;
+
+\conc
+
+[![Sleepy Cave Dragon By Alexander-Werner-Jr](./images/sleepy_cave_dragon_by_alexander_werner_jr_deoz3hd-pre.jpg "Sleepy Cave Dragon By Alexander-Werner-Jr")](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721 "Sleepy Cave Dragon By Alexander-Werner-Jr")
+
+> **Ubicación 2 | Espacio 3 | Corrupción 1&ast; | Precio X**
+
+> Gran cueva con pequeño dragón XXX
+
+\sc
+
+Fuisteis a esa cueva a matar a un malvado dragón y a quedaros con su tesoro, pero solo había este pequeñín que os quemo los cordones de las botas con su pequeño aliento de fuego. Lo adoptasteis, pero ya os dijeron que estas cosas se hacen grandes, pero no les habéis hecho caso.
+
+Su tesoro apenas era unas monedas de cobre, así que tenéis que vender o alquilar su cueva, para pagar los gastos y el pienso de dragón que come.
+
+XXX
+
+_* La corrupción aumenta un punto según crece el dragoncito y este crece cada vez que el DJ hace un gasto de token._ 
+
+
+
+
 \sp
 
 \sinc
@@ -404,6 +436,8 @@ Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo,
 \conc
 
 ### Clan de goblins apaleados
+
+[![Goblin's Pike - The Goblin Tribe By Alexander-Werner-Jr](./images/goblin_s_pike___the_goblin_tribe_by_alexander_werner_jr_deoz2nq-pre.jpg "MGoblin's Pike - The Goblin Tribe By Alexander-Werner-Jr")](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-The-Goblin-Tribe-888473654 "Goblin's Pike - The Goblin Tribe By Alexander-Werner-Jr")
 
 > **Negociar 4 | Observar 1 | Crédito 1**
 

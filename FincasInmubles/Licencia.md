@@ -34,3 +34,5 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * [zigurat](https://commons.wikimedia.org/wiki/File:Zigurat.png)
 * [fondo de piedra](https://www.freepik.com/free-vector/stone-wall-texture_957408.htm)
 * [cueva en el pantano](https://www.freepik.com/free-vector/mystical-forest-cave-entrance_149955609.htm)
+* [cueva de dragón](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721)
+* [tribu de goblins](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-The-Goblin-Tribe-888473654)

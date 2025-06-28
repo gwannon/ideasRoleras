@@ -235,6 +235,10 @@ table thead tr th {
   padding-left: 4px;
 }
 
+table tbody tr:nth-child(even) {
+  background-color: rgba(241, 2, 2, 0.3);
+}
+
 img {
   width: calc(100% - 4px);
   border: 2px solid var(--color-red);
