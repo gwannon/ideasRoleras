@@ -13,3 +13,6 @@
 {"rule":"FORM","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
 {"rule":"REAL","sentence":"^\\Q6 No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSleepy Cave Dragon By Alexander-Werner-Jr\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QGoblin's Pike - The Goblin Tribe By Alexander-Werner-Jr\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGoblin's Pike - The Goblin Tribe By Alexander-Werner-Jr\\E$"}

@@ -75,9 +75,9 @@ Lionel Hutz
 
 Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual a la casa soñada del cliente. Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
 
-Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
-
 \sp
+
+Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
 
 La «verdad» solo puede usarse cuando el cliente descubre un problema en alguno de los atributos de tu inmueble haciendo una tirada de Observar. Si detecta un defecto puedes tratar de arreglarlo (si es posible) o puedes distorsionar la realidad con la «verdad» y darle la vuelta al fallo. Para ello debes elaborar una excusa creíble y hacer una tirada XXX y sacar más éxitos que la tirada de Observar. Si lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.
 
@@ -106,7 +106,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Topos infernales están excavando en la zona y las vibraciones hacen que los cimientos cedan poco a poco.|
 |6|Un clan orco ha oído que el inmueble está vacío y quiere darle un vistazo, el problema es que cada orco quiere cosas distintas.|
 
-&nbsp;
+\sp
 
 **Token &#128309;: Defectos de construcción**
 
@@ -114,17 +114,12 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |---|---|
 |1|El tejado o los techos tienen filtraciones o goteras, el problema es que no es agua lo que se filtra.|
 |2|El limo ácido que se encargaba de comerse la basura, trastos, cadáveres, … se ha hecho vegano.|
-
-\sp
-
-|1d6|Efecto|
-|---|---|
 |3|Las vigas principales tienen carcoma, carcoma élfica que solo come maderas nobles y es inmune a la magia.|
 |4|Un albañil os dice que tenemos peste de golem de piedra en las paredes y eso es un problema caro.|
 |5|Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumoso o roja sangre y vísceras según a quien vayáis a venderlo.|
 |6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
 
-&nbsp;
+\sc
 
 **Token &#128994;: Maldiciones y posesiones**
 
@@ -135,14 +130,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |3|Un montón de objetos se han convertido en mímicos y la verdad nadie quiere hacer sus necesidades en una taza de váter mímica.|
 |4|Plaga de gremlins, que más hay que decir. Todos hemos visti las pelis.|
 |5|La cocina está poseída por los fantasmas de una «troupe» de artistas y no paran de organizar números musicales con el menaje de cocina.|
-
-\sc
-
-|1d6|Efecto|
-|---|---|
 |6|Habéis airado de alguna manera a los dioses y todos los personajes cambian de cuerpo entre sí y con los clientes y los artesanos. Quizas haya que devolver alguna estatuilla antigua o hacer algún tipo de ritual o hechizo.|
 
-&nbsp;
+\sp
 
 **Tokens &#128308; &#128309;: Batalla legal**
 
@@ -155,7 +145,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Nadie escapa de la muerte y los impuestos. Quizas de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
 |6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
-\sp
+\sc
 
 **Tokens &#128309; &#128994;: Eventos mágicos**
 
@@ -168,7 +158,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
 |6|Las escaleras han pasado a estado cuántico y ahora bajan cuando quieres subir, suben cuando quieres bajar o te llevan al mismo nivel en que estabas.|
 
-&nbsp;
+\sp
 
 **Tokens &#128994; &#128308;: Vecinos molestos**
 
@@ -181,20 +171,18 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Una medusa, minotauro u otro monstruo similar aparece con un contrato de trabajo firmado y fechado para vigilar en la mazmorra y acabar con cualquier aventurero que entre. El problema es que intenta matar a las visitas y quiere cobrar a fin de mes.|
 |6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo en la finca.|
 
-\sp
+\sc
 
 **Tokens &#128308; &#128309; &#128994;: Catástrofes**
 
 |1d6|Efecto|
 |---|---|
-|1| XXX |
+|1|Algún dios o diosa se ha cabreado y ha mandado un diluvio. Lo bueno es que las humedades y las goteras ya no son un problema.|
 |2|La finca o el inmueble ya no está en nuestro plano, quizás esté en un plano demoniaco o celestial o de gente churro. La cuestión es que como mínimo ya no existen los posibles clientes que teníais.|
-|3| XXX |
-|4| XXX |
-|5| XXX |
+|3|La respuesta es 42|
+|4|La magia del mundo colapsa súbitamente así que todos los elementos mágicos de la finca empiezan a fallar. El problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble y habrá que sustituir todo lo que no funciona.|
+|5|El inspector de vivienda deja un aviso de que hará una visita en 3 días. Si no cumple los mínimos de seguridad lo clausurará.|
 |6|Un señor del bosque gigantesco, un primigenio o un dragón está arrasando la zona lo que desgraciadamente está haciendo bajar los precios de los inmuebles de la zona.|
-
-\sc
 
 \sp
 
@@ -228,7 +216,7 @@ En esta fase podrán decidir como arreglar los problemas o carencias
 
 XXX
 
-Puede que algún evento generado por el uso de tokens les obligue a volver a esta fase, para, por ejemplo, resolver los destrozos generados por una horda de bárbaros que asoló la región o tengan que pagar a un clérigo para que exorcice los fantasmas de los antiguos propietarios que quieren vengarse de tus PJ porque fueron los culpables de su muerte.
+Puede que algún evento generado por el uso de tokens les obligue a volver a esta fase. Por ejemplo, para resolver los destrozos generados por una horda de bárbaros que asoló la región o tengan que pagar a un clérigo para que exorcice los fantasmas de los antiguos propietarios que quieren vengarse de tus PJ porque fueron los culpables de su muerte.
 
 #### Día de trampas desactivadas
 
@@ -269,11 +257,13 @@ Como ya hemos visto en la creación de PJ podemos **convertir los poderes, capac
 
 En general **todos los trucos dan 1 dado extra** a la tirada, aunque hay excepciones que vienen explicadas en el propio truco. Para poder usar el truco debe tener sentido en la escena. No podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.
 
-Puedes ponerte el que más te guste, pero los hemos dividido en 4 grupos que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos. 
+Además, un truco **solo puede ser usado contra un mismo cliente en la misma fase**.
 
-Además, cada truco viene con la característica del inmueble en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
+Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos.
 
-\sp
+Además, **cada truco viene con el atributo del inmueble** en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
+
+Los trucos **pueden adaptarse a cada situación si es necesario**, por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
 
 #### Para PJ diestros
 
@@ -281,15 +271,16 @@ Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y
 
 * **Las trampas están recién revisadas (Ubicación o Espacio):** Lanzas a un compañero (algo indispensable) y ves como de las paredes salen hojas cortantes o flechas envenenadas que deberá esquivar para demostrar que todo funciona. Y terminas con un «Esto es lo que pasaría a un sucio aventurero que quisiera saquear su tumba».
 * **Esto es mejor que tener tus monedas de oro en el banco y no te pueden robar (Precio):** XXX
-* **XXX:** XXX
+* **Ya sabes como son estos sitios tan viejos:** XXX
 
 #### Para PJ fuertes
 
 Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
 
 * **Esto es bueno bueno (Espacio):** Tras golpear algo con fuerza y decir «Toca, toca. Esto es bueno bueno.» consigues XXX
-* **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo»
-* **La ley me obliga a decirle que aquí ha muerto gente:** XXX
+* **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
+* **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.
+* **Así entrenas el cardio:** XXX
 
 #### Para PJ inteligentes
 
@@ -297,14 +288,17 @@ Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una
 
 * **Su valor no deja de subir (Precio):** XXX
 * **Mi padre siempre decía que invirtiera en castillos (Espacio):** XXX
-* **Hay que compra con cabeza:** XXX
+
+\sp
+
+* **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
 
 #### Para PJ carismáticos
 
 Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y labia.
 
-* **No hemos reparado en gastos (Espacio):** XXX
-* **Esto está hecho para durar (Espacio):** XXX
+* **No hemos reparado en gastos (Espacio):** Puedes decirlo después de enseñar algo que parece cutre y barato y hacerlo parecer de calidad y caro.
+* **Esto está hecho para durar (Espacio):** Decirlo mientras golpeas algo interesante del inmueble con tu arma predilecta, tu bastón mágico o tus puños mortales. Tira 1d6, con 1 lo rompes delante del cliente y quedas como el culo. De 2-6 obtienes dos dados extras.
 * **Hablar rápido y mover los brazos:** Ya está, es así de fácil, no paras de hablar y de mover las manos. Esto creo un efecto hipnótico que nubla la mente del posible comprador. Puede hacerse en cualquier situación y con cualquier atributo, pero, si fallas la tirada el DJ se lleva un token del color del atributo adecuado. 
 
 #### Para PJ con capacidades mágicas
@@ -312,7 +306,7 @@ Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y la
 Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, alquimistas, etc.
 
 * **¿Lo escuchas? Eso que escuchas se llama silencio (Ubicación):** Si el comprador dice que está muy alejado, que no hay servicios de matasanos en las inmediaciones o que no hay buenos colegios de magia en la vecindad, puedes usar este sucio truco.
-* **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo. XXX
+* **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo lo que tú buscas. Quizás puedas invocar a entes interdimensionales para comprar la finca.
 * **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
 
 \sp
@@ -393,9 +387,6 @@ Nadie en su sano juicio viviría aquí y mucho menos pagaría dinero, pero oye, 
 
 Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo, decorarlo y adecentarlo al gusto de sus posibles compradores.
 
-
-
-
 \sinc
 
 &nbsp;
@@ -410,7 +401,7 @@ Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo,
 
 > **Ubicación 2 | Espacio 3 | Corrupción 1&ast; | Precio X**
 
-> Gran cueva con pequeño dragón XXX
+> Gran cueva con dragoncillo
 
 \sc
 
@@ -422,9 +413,6 @@ XXX
 
 _* La corrupción aumenta un punto según crece el dragoncito y este crece cada vez que el DJ hace un gasto de token._ 
 
-
-
-
 \sp
 
 \sinc
@@ -435,7 +423,17 @@ _* La corrupción aumenta un punto según crece el dragoncito y este crece cada 
 
 \conc
 
+Si necesitas ejemplos o inspiración para hacer a tus clientes, aquí tienes algunos ejemplos. Desde goblins a grandes señores liche con extraños gustos. 
+
+Algunos de ellos tienen reglas especiales para darles algo de vidilla y que no sean un simple bloque de estadísticas.
+
+\sinc
+
 ### Clan de goblins apaleados
+
+&nbsp;
+
+\conc
 
 [![Goblin's Pike - The Goblin Tribe By Alexander-Werner-Jr](./images/goblin_s_pike___the_goblin_tribe_by_alexander_werner_jr_deoz2nq-pre.jpg "MGoblin's Pike - The Goblin Tribe By Alexander-Werner-Jr")](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-The-Goblin-Tribe-888473654 "Goblin's Pike - The Goblin Tribe By Alexander-Werner-Jr")
 
@@ -443,13 +441,13 @@ _* La corrupción aumenta un punto según crece el dragoncito y este crece cada 
 
 > **Ubicación 1 | Espacio 4 | Corrupción 3 | Precio 1**
 
+\sc
+
 Este clan de goblins lleva meses vagabundeando desde que un grupo de aventureros los masacraron y echaron de su cueva para robarles las pocas monedas de cobre que habían conseguido ahorrar con mucho esfuerzo matando a otros pobres grupos de aventureros … Y así en un ciclo sin finde muerte y avaricia. 
 
 Buscan un hogar lúgubre y sucio que puedan pagar con sus escasos recursos y a poder ser en un lugar horrible y húmedo que mantenga su piel viscosa e hidratada. 
 
 No sabrán negociar, los cabrones, pero te ponen esos ojillos de cachorro grandes y brillantes y no te puedes negar. Tienen hasta un goblincito cojo con muletas que no para de toser y de decir que tiene hambre. 
-
-\sc
 
 \sp
 
