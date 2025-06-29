@@ -380,7 +380,7 @@ Algunos de ellos tienen reglas especiales para darles algo de vidilla y que no s
 
 \sinc
 
-### Clan de goblins apaleados
+### Clan de goblins apaleados que buscan un lugar donde vivir
 
 &nbsp;
 
@@ -399,6 +399,36 @@ Este clan de goblins lleva meses vagabundeando desde que un grupo de aventureros
 Buscan un hogar lúgubre y sucio que puedan pagar con sus escasos recursos y a poder ser en un lugar horrible y húmedo que mantenga su piel viscosa e hidratada. 
 
 No sabrán negociar, los cabrones, pero te ponen esos ojillos de cachorro grandes y brillantes y no te puedes negar. Tienen hasta un goblincito cojo con muletas que no para de toser y de decir que tiene hambre. 
+
+\sinc
+
+&nbsp;
+
+### Liche buscando encontrarse a sí mismo y darle una vuelta a su no-vida
+
+&nbsp;
+
+\conc
+
+[![Soul Harvest By Naxeras](./images/soul_harvest_by_naxeras_djyave2-pre.jpg "Soul Harvest By Naxeras")](https://www.deviantart.com/naxeras/art/Soul-Harvest-1206471530 "Soul Harvest By Naxeras")
+
+> **Negociar 2 | Observar 4 | Crédito 4**
+
+> **Ubicación 3 | Espacio 2 | Corrupción 1&ast; | Precio 3**
+
+\sc
+
+Llevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido. Necesitas un cambio, tiene que haber algo más que levantar no-muertos y liderar ejercitos de ellos. Llega un momento en que te aburres de abrir las puertas del más-allá.
+
+Así que te fuiste a la sección de autoayuda de la gran biblioteca de la Universidad Invisible y te sacaste un libro de un tal Benito Gamyi titulado «Mejora tu vida mejorando tu agujero hobbit».
+
+\sp
+
+Tenía muy buena pinta (aparecía un tipo feliz en la portada) y estás poniendo en práctica sus consejos. Hay un concepto que te ha gustado mucho y que quieres poner en práctica, el agujero hobbit del que habla el título, así que toca buscar nueva casa.
+
+Lo de la hierba de los medianos te intriga, pero siendo una calavera está complicado. ¿Y qué es eso del café?
+
+_* Aunque no quiera el liche atrae la corrupción y los no-muertos, así que la corrupción aumenta un punto cada vez que el DJ hace un gasto de token._ 
 
 \sp
 
