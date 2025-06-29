@@ -14,18 +14,22 @@ Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo &
 
 \conc
 
+```
+Yo traje el gotelé a Rivendel.
+```
+Benito Gamyi
+
 El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, **tiras tantos dados de 6 como el atributo adecuado**. Los **5 y 6 son éxitos** y cuantos más éxitos mejor lo haces.
 
 Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas, tiran ambos participantes y gana el que más éxitos consiga.
 
 En caso de empates gana el defensor. Si no se consiguen éxitos por ninguna parte, el defensor también gana.
 
-### Inmuebles y fincas
+Tus compañeros **pueden ayudarte** y en vez de hacer tu tirada pueden darte **un dado extra**.
 
-```
-Yo traje el gotelé a Rivendel.
-```
-Benito Gamyi
+\sc
+
+### Inmuebles y fincas
 
 Los inmuebles vienen definidos por una simple descripción que puede usarse como un conjunto de aspectos. Los elementos de esta descripción pueden **invocarse y dan un dado extra**. 
 
@@ -33,12 +37,11 @@ Si la descripción dice que las ruinas malditas tienen grabados de primigenios y
 
 Esto también puede **usarlo el DJ para sus clientes**. Si la descripción dice que es muy luminoso y soleado, el vampiro que busca cripta puede obtener un dado extra a la hora de negociar el precio.
 
+\sp
+
 Además, cada inmueble tiene 4 características que lo definen.
 
 * **Ubicación.** Indica si su ubicación es buena. Con 1 está en Mordor y con 5 en la Comarca.
-
-\sp
-
 * **Espacio.** Marca el tamaño del inmueble. Quizás un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
 * **Corrupción.** Indica la magia oscura y la corrupción que destila el lugar. Con 1 casi no hay corrupción, aun así, un señor de los altos elfos te diría que ni de coña dormiría en ese sucio antro de corrupción. Con 5 los nurgletes crecen solos y los esqueletos se levantan solos.
 * **Precio:** Indica el precio de la vivienda. Un goblin cojito y tuerto podría comprarse una choza de precio 1 y solo un antiguo liche que lleva siglos acumulando los tesoros de los aventureros que mata podría pagar una mazmorra de precio 5.
@@ -79,13 +82,15 @@ Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, s
 
 Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
 
-La «verdad» solo puede usarse cuando el cliente descubre un problema en alguno de los atributos de tu inmueble haciendo una tirada de Observar. Si detecta un defecto puedes tratar de arreglarlo (si es posible) o puedes distorsionar la realidad con la «verdad» y darle la vuelta al fallo. Para ello debes elaborar una excusa creíble y hacer una tirada XXX y sacar más éxitos que la tirada de Observar. Si lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.
+La «verdad» solo puede usarse cuando **el cliente descubre un problema** en alguno de los atributos de tu inmueble **haciendo una tirada de Observar**. Si detecta un defecto puedes tratar de arreglarlo (si es posible) o puedes distorsionar la realidad con la «verdad» y darle la vuelta al fallo.
+
+Para ello debes elaborar una excusa creíble y hacer una tirada Charlatanería o buscar la manera de esconder el fallo y hacer una tirada de Ocultar y sacar más éxitos que la tirada de Observar. Si lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.
 
 Estás vendiendo una torre fortificada al lado de una grieta interdimensional al infierno (Ubicación 1) y el grupo de clérigos legales buenos que buscan un nuevo refugio para su orden se dan cuentan de ello y te lo hacen notar. Los monjes quieren algo menos cerca del infierno (Ubicación 3) así que será difícil venderles la torre.
 
-Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además, ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras XXX y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
+Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además, ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras Charlatanería y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
 
-Tiras los dados y tienes éxito en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
+Tiras los dados y obtienes más éxitos en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
 
 Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ, rojo &#128308; si es Ubicación, azul &#128309; si es Espacio y verde &#128994; si Corrupción.
 
@@ -234,8 +239,8 @@ Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárb
 
 Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una ventaja importante.
 
-* **Su valor no deja de subir (Precio):** XXX
-* **Mi padre siempre decía que invirtiera en castillos (Espacio):** XXX
+* **Su valor no deja de subir (Precio):** Si puedes apoyarlo con unos gráficos en papel que muestras unos segundos mucho mejor. No tiene por qué ser del precio de la vivienda, igual es cobro de impuestos o de la correlación entre el descenso de número de goblins y el aumento del precio de las salchichas. 
+* **Mi padre siempre decía que invirtiera en castillos (Espacio):** Te acercas al cliente le rodeas con tu brazo y se lo sueltas susurrándolo como si fuera un secreto familiar que nadie más conoce. Puede fallar con gente como los elfos que son muy celosos con su espacio personal o si no te has duchado en semanas, que también puede ser.
 * **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
 
 #### Para PJ carismáticos
@@ -251,6 +256,9 @@ Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y la
 Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, alquimistas, etc.
 
 * **¿Lo escuchas? Eso que escuchas se llama silencio (Ubicación):** Si el comprador dice que está muy alejado, que no hay servicios de matasanos en las inmediaciones o que no hay buenos colegios de magia en la vecindad, puedes usar este sucio truco.
+
+\sp
+
 * **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo lo que tú buscas. Quizás puedas invocar a entes interdimensionales para comprar la finca.
 * **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
 

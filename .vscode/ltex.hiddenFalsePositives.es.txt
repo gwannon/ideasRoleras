@@ -22,3 +22,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble y habrá que sustituir todo lo que no funciona.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QEsto es bueno bueno (Espacio):\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QSirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico.\\E$"}
+{"rule":"INFINITIVO_LA","sentence":"^\\Q5 Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumosa o roja sangre y vísceras según a quien vayáis a venderlo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QEsto es bueno bueno».\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y tienes éxito en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y obtienes más éxitos en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}

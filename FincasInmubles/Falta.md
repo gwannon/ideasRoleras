@@ -8,6 +8,14 @@
 
 XXX
 
+Tus personajes tienen 4 atributos:
+
+* **Reparar:** XXX. Las reparaciones son costosas. Apunta todas las tiradas de reparar y cada 5 tiradas resta 1 a los beneficios finales. 
+* **Charlatanería:** XXX
+* **Ocultar:** XXX
+
+XXX
+
 \sinc
 
 ## Fases de la operación
@@ -16,9 +24,23 @@ XXX
 
 \conc
 
+Las aventuras que se van a jugar en F&I casi siempre tienen la misma estructura, pero cambian los actores y el inmueble. Así que vamos a ver la secuencia que sigue la venta.
+
+Como ya hemos comentado antes, la aventura empieza cuando tus aventureros terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos los impuestos, las sanaciones y demás al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo.
+
+**Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
+
+### Tasar el inmueble y redactar el anuncio
+
+El primer paso en esta aventura es tasar el inmueble y redactar el anuncio.
+
+#### La tasación
+
+El primer paso es tasar la finca, para saber que pros y contras tiene (descripción) y una estimación de sus atributos. 
+
 XXX
 
-### Redactar el anuncio
+#### Redactar el anuncio
 
 XXX
 
