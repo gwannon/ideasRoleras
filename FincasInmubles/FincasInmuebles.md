@@ -16,7 +16,7 @@ Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo &
 
 El sistema es muy sencillo, cuando vas a hacer algo que sea posible fallar, **tiras tantos dados de 6 como el atributo adecuado**. Los **5 y 6 son éxitos** y cuantos más éxitos mejor lo haces.
 
-Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas tiran ambos participantes y gana el que más éxitos consiga.
+Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se considera una tirada enfrentada. En caso de tiradas enfrentadas, tiran ambos participantes y gana el que más éxitos consiga.
 
 En caso de empates gana el defensor. Si no se consiguen éxitos por ninguna parte, el defensor también gana.
 
@@ -29,9 +29,9 @@ Benito Gamyi
 
 Los inmuebles vienen definidos por una simple descripción que puede usarse como un conjunto de aspectos. Los elementos de esta descripción pueden **invocarse y dan un dado extra**. 
 
-Si la descripción dice que las ruinas malditas tienen grabados de primigenios y voy a vendérselo a un cultista puedo invocar ese aspecto y conseguir 1 dado extra a Negociar. Si puedo invocar más elementos de la descripción puedo conseguir más dados. 
+Si la descripción dice que las ruinas malditas tienen grabados de primigenios y voy a vendérselo a un cultista puedo invocar ese aspecto y conseguir 1 dado extra a Negociar. Si puedo invocar más elementos de la descripción, puedo conseguir más dados. 
 
-Esto también puede **usarlo el DJ para sus clientes**. Si la descripción dice que es muy luminoso y soleado el vampiro que busca cripta puede obtener un dado extra a la hora de negociar el precio.
+Esto también puede **usarlo el DJ para sus clientes**. Si la descripción dice que es muy luminoso y soleado, el vampiro que busca cripta puede obtener un dado extra a la hora de negociar el precio.
 
 Además, cada inmueble tiene 4 características que lo definen.
 
@@ -39,7 +39,7 @@ Además, cada inmueble tiene 4 características que lo definen.
 
 \sp
 
-* **Espacio.** Marca el tamaño del inmueble. Quizas un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
+* **Espacio.** Marca el tamaño del inmueble. Quizás un halfling solo necesita 1, pero Smaug necesita 5. El tamaño también supone más problemas al limpiar y adecentar el inmueble.
 * **Corrupción.** Indica la magia oscura y la corrupción que destila el lugar. Con 1 casi no hay corrupción, aun así, un señor de los altos elfos te diría que ni de coña dormiría en ese sucio antro de corrupción. Con 5 los nurgletes crecen solos y los esqueletos se levantan solos.
 * **Precio:** Indica el precio de la vivienda. Un goblin cojito y tuerto podría comprarse una choza de precio 1 y solo un antiguo liche que lleva siglos acumulando los tesoros de los aventureros que mata podría pagar una mazmorra de precio 5.
 
@@ -56,9 +56,9 @@ Stan S. Stanman
 
 Para empezar necesitas definir en una frase al comprador y lo que busca, como «poderosa jefa tribal orca en busca de una cabaña digna de su gloria» u «hogareño mago elfo que busca un sitio tranquilo donde hacer sus cosas de mago».
 
-La descripción del comprador también se puede usar como aspecto que dan un dado extra a las tiradas. Si puedo invocar más elementos de la descripción puedo conseguir más dados.
+La descripción del comprador también se puede usar como aspecto que dan un dado extra a las tiradas. Si puedo invocar más elementos de la descripción, puedo conseguir más dados.
 
-Aparte tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
+Aparte, tienen 3 atributos que representan sus capacidades más importantes a la hora de comprar un inmueble:
 
 * **Negociar:** Es la capacidad de hacer tratos, regatear y sacar ventajas mientras se negocia una venta.
 * **Observar:** Es la capacidad de buscar fallos y taras en el inmueble y detectar la verdad o la «verdad».
@@ -85,13 +85,13 @@ Estás vendiendo una torre fortificada al lado de una grieta interdimensional al
 
 Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además, ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras XXX y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
 
-Tiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
+Tiras los dados y tienes éxito en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
 
 Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ, rojo &#128308; si es Ubicación, azul &#128309; si es Espacio y verde &#128994; si Corrupción.
 
 #### Uso de los tokens
 
-El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según los tokens o combinaciones de tokens que gasten puede tirar en una u otra tabla.
+El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según los tokens o combinaciones de tokens que gasten, puede tirar en una u otra tabla.
 
 &nbsp;
 
@@ -116,7 +116,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2|El limo ácido que se encargaba de comerse la basura, trastos, cadáveres, … se ha hecho vegano.|
 |3|Las vigas principales tienen carcoma, carcoma élfica que solo come maderas nobles y es inmune a la magia.|
 |4|Un albañil os dice que tenemos peste de golem de piedra en las paredes y eso es un problema caro.|
-|5|Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumoso o roja sangre y vísceras según a quien vayáis a venderlo.|
+|5|Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumosa o roja sangre y vísceras según a quien vayáis a venderlo.|
 |6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
 
 \sc
@@ -126,11 +126,11 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |1d6|Efecto|
 |---|---|
 |1|Las insalubres condiciones del inmueble traen enfermedades, sarna de goblin, picazón axilar de enano o ronchas pálidas de elfo oscuro.|
-|2|Todos grifos del inmueble dan la sangre de la tierra, vino tinto. El problema es que todo el mundo, desde aventureros y clientes hasta artesanos acaban ebrios.|
+|2|Todos grifos del inmueble dan la sangre de la tierra, vino tinto. El problema es que todo el mundo, desde aventureros y clientes hasta artesanos, acaban ebrios.|
 |3|Un montón de objetos se han convertido en mímicos y la verdad nadie quiere hacer sus necesidades en una taza de váter mímica.|
-|4|Plaga de gremlins, que más hay que decir. Todos hemos visti las pelis.|
+|4|Plaga de gremlins, que más hay que decir. Todos hemos visto las pelis y te sabes las reglas.|
 |5|La cocina está poseída por los fantasmas de una «troupe» de artistas y no paran de organizar números musicales con el menaje de cocina.|
-|6|Habéis airado de alguna manera a los dioses y todos los personajes cambian de cuerpo entre sí y con los clientes y los artesanos. Quizas haya que devolver alguna estatuilla antigua o hacer algún tipo de ritual o hechizo.|
+|6|Habéis airado de alguna manera a los dioses y todos los personajes cambian de cuerpo entre sí y con los clientes y los artesanos. Quizás haya que devolver alguna estatuilla antigua o hacer algún tipo de ritual o hechizo.|
 
 \sp
 
@@ -142,7 +142,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato/residencia viejos aventureros.|
 |3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
 |4|La recalificación del terreno hace que parte de la finca sea terreno rural y debería tener un bosque.|
-|5|Nadie escapa de la muerte y los impuestos. Quizas de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
+|5|Nadie escapa de la muerte y los impuestos. Tal vez de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
 |6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
 \sc
@@ -153,8 +153,8 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |---|---|
 |1|En teoría, parte de la construcción está en tierra feérica y las hadas no paran de raptar a todo aquel que se acerca a ver el inmueble.|
 |2|El último artesano que vino a la casa tenía una especie de destornillador raro que zumbaba mucho y ahora la casa es mucho más grande por fuera que por dentro.|
-|3|Todas las superficies reflectantes desde espejos hasta escudos de metal bruñidos muestras los momentos más vergonzosos de aquellos que se reflejan.| 
-|4|En el terreno colindante aparece una espada mágica clavada en la piedra y se llena de aspirantes a rey y de curiosos que quieren probar suerte, y claro de vendedores de souvenirs y de comida rápida.|
+|3|Todas las superficies reflectantes, desde espejos hasta escudos de metal bruñidos, muestras los momentos más vergonzosos de aquellos que se reflejan.| 
+|4|En el terreno colindante aparece una espada mágica clavada en la piedra y se llena de aspirantes a rey y de curiosos que quieren probar suerte, y claro, de vendedores de souvenirs y de comida rápida.|
 |5|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
 |6|Las escaleras han pasado a estado cuántico y ahora bajan cuando quieres subir, suben cuando quieres bajar o te llevan al mismo nivel en que estabas.|
 
@@ -164,7 +164,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 |1d6|Efecto|
 |---|---|
-|1|El círculo de druidas local deja vuestro inmueble lleno de cascos botellas de sidra y dan gritos y hacen cánticos hasta las tantas cuando hacen sus reuniones las noches de luna nueva.|
+|1|El círculo de druidas local deja vuestro inmueble lleno de cascos de botellas de sidra y dan gritos y hacen cánticos hasta las tantas cuando hacen sus reuniones las noches de luna nueva.|
 |2|El puerto de barcos voladores gnomos pasa por encima de vuestra finca, metiendo muchísimo ruido, dejando caer cosas peligrosas o incluso estrellándose.|
 |3|La bruja comeniños cercana ha puesto su casita de chocolate en venta y atrae a todos los clientes, nadie quiere vuestro edificio, cuando puede comprar uno de chocolate y caramelo.|
 |4|La cervecera enana local tiene fugas en el riachuelo local, eso hace que el agua sea alcohol puro y el cielo este lleno de humos.|
@@ -180,68 +180,13 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |1|Algún dios o diosa se ha cabreado y ha mandado un diluvio. Lo bueno es que las humedades y las goteras ya no son un problema.|
 |2|La finca o el inmueble ya no está en nuestro plano, quizás esté en un plano demoniaco o celestial o de gente churro. La cuestión es que como mínimo ya no existen los posibles clientes que teníais.|
 |3|La respuesta es 42|
-|4|La magia del mundo colapsa súbitamente así que todos los elementos mágicos de la finca empiezan a fallar. El problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble y habrá que sustituir todo lo que no funciona.|
+|4|La magia del mundo colapsa súbitamente, así que todos los elementos mágicos de la finca empiezan a fallar. El problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble y habrá que sustituir todo lo que no funciona.|
 |5|El inspector de vivienda deja un aviso de que hará una visita en 3 días. Si no cumple los mínimos de seguridad lo clausurará.|
-|6|Un señor del bosque gigantesco, un primigenio o un dragón está arrasando la zona lo que desgraciadamente está haciendo bajar los precios de los inmuebles de la zona.|
+|6|Un señor del bosque gigantesco, un primigenio o un dragón está arrasando la zona, lo que desgraciadamente está haciendo bajar los precios de los inmuebles de la zona.|
 
 \sp
 
-\sinc
-
-## Creación de personajes
-
-&nbsp;
-
-\conc
-
-XXX
-
-\sinc
-
-## Fases de la operación
-
-&nbsp;
-
-\conc
-
-XXX
-
-### Redactar el anuncio
-
-XXX
-
-### Adecentar la mazmorra y sacar cadáveres
-
-En esta fase podrán decidir como arreglar los problemas o carencias
-
-XXX
-
-Puede que algún evento generado por el uso de tokens les obligue a volver a esta fase. Por ejemplo, para resolver los destrozos generados por una horda de bárbaros que asoló la región o tengan que pagar a un clérigo para que exorcice los fantasmas de los antiguos propietarios que quieren vengarse de tus PJ porque fueron los culpables de su muerte.
-
-#### Día de trampas desactivadas
-
-Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
-
-Durante este día puedes principalmente conocer a los posibles clientes y averiguar a grandes rasgos como es su casa soñada. XXX 
-
-XXX
-
-### Enseñar el inmueble
-
-XXX
-
-### Negociar la venta
-
-```
-No seas ni un prestatario ni un prestamista
-```
-Polonio, Hamlet
-
-XXX
-
-### Entregar las llaves y pago
-
-XXX
+|Falta.md|
 
 \sp
 
@@ -270,17 +215,20 @@ Los trucos **pueden adaptarse a cada situación si es necesario**, por ejemplo, 
 Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y velocidad.
 
 * **Las trampas están recién revisadas (Ubicación o Espacio):** Lanzas a un compañero (algo indispensable) y ves como de las paredes salen hojas cortantes o flechas envenenadas que deberá esquivar para demostrar que todo funciona. Y terminas con un «Esto es lo que pasaría a un sucio aventurero que quisiera saquear su tumba».
-* **Esto es mejor que tener tus monedas de oro en el banco y no te pueden robar (Precio):** XXX
-* **Ya sabes como son estos sitios tan viejos:** XXX
+* **Esto es mejor que tener tus monedas de oro en el banco y no te lo pueden robar (Precio):** La verdad que si te pueden robar un inmueble o destruirlo que es igual que robarlo, pero tienes que recoger los restos. Al tema, si tú no lo dices nosotros tampoco.
+* **Ya sabes como son estos sitios tan viejos:** Puedes usarlo, mientras tratas de hacer que funcione algo roto o hay algún defecto o tara debida al tiempo. Esta excusa sirve para cualquier atributo, pero tiene que ser en un inmueble muy viejo. Tal vez los jeroglíficos de tu pirámide tengan escenas eróticas fuera de lugar (puedes decir «un hombre salva a una mujer de caer al río Tigris») o haya una maldición grabada en la pared en rúnico que te convierte en pollo de goma si la lees.
 
 #### Para PJ fuertes
 
 Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
 
-* **Esto es bueno bueno (Espacio):** Tras golpear algo con fuerza y decir «Toca, toca. Esto es bueno bueno.» consigues XXX
+* **Esto es bueno bueno (Espacio):** Puedes coger algo y moverlo delante del cliente de un lado a otro para que no pueda cogerlo, mientras dices «Toca, toca. Esto es bueno bueno». 
 * **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
+
+\sp
+
 * **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.
-* **Así entrenas el cardio:** XXX
+* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
 
 #### Para PJ inteligentes
 
@@ -288,10 +236,7 @@ Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una
 
 * **Su valor no deja de subir (Precio):** XXX
 * **Mi padre siempre decía que invirtiera en castillos (Espacio):** XXX
-
-\sp
-
-* **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
+* **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
 
 #### Para PJ carismáticos
 
@@ -299,7 +244,7 @@ Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y la
 
 * **No hemos reparado en gastos (Espacio):** Puedes decirlo después de enseñar algo que parece cutre y barato y hacerlo parecer de calidad y caro.
 * **Esto está hecho para durar (Espacio):** Decirlo mientras golpeas algo interesante del inmueble con tu arma predilecta, tu bastón mágico o tus puños mortales. Tira 1d6, con 1 lo rompes delante del cliente y quedas como el culo. De 2-6 obtienes dos dados extras.
-* **Hablar rápido y mover los brazos:** Ya está, es así de fácil, no paras de hablar y de mover las manos. Esto creo un efecto hipnótico que nubla la mente del posible comprador. Puede hacerse en cualquier situación y con cualquier atributo, pero, si fallas la tirada el DJ se lleva un token del color del atributo adecuado. 
+* **Hablar rápido y mover los brazos:** Ya está, es así de fácil, no paras de hablar y de mover las manos. Esto creo un efecto hipnótico que nubla la mente del posible comprador. Puede hacerse en cualquier situación y con cualquier atributo, pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. 
 
 #### Para PJ con capacidades mágicas
 
@@ -331,7 +276,7 @@ En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter 
 
 [![El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak](./images/a587f316-704f-4289-bcc0-852db0d4b1c1.jpg "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")](https://www.freepik.es/vector-gratis/castillo-cuentos-hadas-colina-sobre-mar-noche-tormentosa_152129994.htm "El castillo de cuentos de hadas en la colina sobre el mar de la noche tormentosa por upklyak")
 
-> **Ubicación 4 | Espacio 3 | Corrupción 2 | Precio X**
+> **Ubicación 4 | Espacio 3 | Corrupción 2 | Precio 5**
 
 > Ruinoso y pequeño castillo en un acantilado con vistas al mar.
 
@@ -353,7 +298,7 @@ Pero adquirir un pequeño castillo en la perla de la Costa Oscura de Barovia no 
 
 [![By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335](./images/zigurat.jpg "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")](https://commons.wikimedia.org/wiki/File:Zigurat.png "By vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335")
 
-> **Ubicación 5 | Espacio 5 | Corrupción 5 | Precio X**
+> **Ubicación 5 | Espacio 5 | Corrupción 5 | Precio 4**
 
 > Replica a menor escala de un zigurat con pésima decoración interior, paredes de gotelé y pintado de un terrible rojo sangre.
 
@@ -399,17 +344,15 @@ Ya solo atravesar el pantano y encontrarlo es una misión, imagínate limpiarlo,
 
 [![Sleepy Cave Dragon By Alexander-Werner-Jr](./images/sleepy_cave_dragon_by_alexander_werner_jr_deoz3hd-pre.jpg "Sleepy Cave Dragon By Alexander-Werner-Jr")](https://www.deviantart.com/alexander-werner-jr/art/Sleepy-Cave-Dragon-888474721 "Sleepy Cave Dragon By Alexander-Werner-Jr")
 
-> **Ubicación 2 | Espacio 3 | Corrupción 1&ast; | Precio X**
+> **Ubicación 2 | Espacio 3 | Corrupción 1&ast; | Precio 2**
 
-> Gran cueva con dragoncillo
+> Gran cueva bajo la montaña con adorable dragoncillo
 
 \sc
 
-Fuisteis a esa cueva a matar a un malvado dragón y a quedaros con su tesoro, pero solo había este pequeñín que os quemo los cordones de las botas con su pequeño aliento de fuego. Lo adoptasteis, pero ya os dijeron que estas cosas se hacen grandes, pero no les habéis hecho caso.
+Fuisteis a esa cueva a matar a un malvado dragón y a quedaros con su tesoro, pero solo había este pequeñín que os quemo los cordones de las botas con su pequeño aliento de fuego. Lo adoptasteis, aunque os dijeron que estas cosas se hacen grandes y suelen romperlo todo. En fin, eso es un problema de vuestros yos del futuro.
 
-Su tesoro apenas era unas monedas de cobre, así que tenéis que vender o alquilar su cueva, para pagar los gastos y el pienso de dragón que come.
-
-XXX
+Su tesoro apenas era unas monedas de cobre, así que tenéis que vender o alquilar su cueva, para pagar los gastos de la expedición y el pienso de dragón que come.
 
 _* La corrupción aumenta un punto según crece el dragoncito y este crece cada vez que el DJ hace un gasto de token._ 
 
