@@ -113,18 +113,20 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 \sp
 
+\sinc
+
 **Token &#128309;: Defectos de construcción**
 
 |1d6|Efecto|
 |---|---|
 |1|El tejado o los techos tienen filtraciones o goteras, el problema es que no es agua lo que se filtra.|
 |2|El limo ácido que se encargaba de comerse la basura, trastos, cadáveres, … se ha hecho vegano.|
-|3|Las vigas principales tienen carcoma, carcoma élfica que solo come maderas nobles y es inmune a la magia.|
+|3|Las vigas principales tienen carcoma élfica que solo come maderas nobles y es inmune a la magia.|
 |4|Un albañil os dice que tenemos peste de golem de piedra en las paredes y eso es un problema caro.|
 |5|Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumosa o roja sangre y vísceras según a quien vayáis a venderlo.|
 |6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
 
-\sc
+&nbsp;
 
 **Token &#128994;: Maldiciones y posesiones**
 
@@ -137,20 +139,29 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|La cocina está poseída por los fantasmas de una «troupe» de artistas y no paran de organizar números musicales con el menaje de cocina.|
 |6|Habéis airado de alguna manera a los dioses y todos los personajes cambian de cuerpo entre sí y con los clientes y los artesanos. Quizás haya que devolver alguna estatuilla antigua o hacer algún tipo de ritual o hechizo.|
 
-\sp
+&nbsp;
 
 **Tokens &#128308; &#128309;: Batalla legal**
 
 |1d6|Efecto|
 |---|---|
 |1|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
-|2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato/residencia viejos aventureros.|
+|2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato.|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d6|Efecto|
+|---|---|
 |3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
 |4|La recalificación del terreno hace que parte de la finca sea terreno rural y debería tener un bosque.|
 |5|Nadie escapa de la muerte y los impuestos. Tal vez de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
 |6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
-\sc
+&nbsp;
 
 **Tokens &#128309; &#128994;: Eventos mágicos**
 
@@ -163,7 +174,7 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
 |6|Las escaleras han pasado a estado cuántico y ahora bajan cuando quieres subir, suben cuando quieres bajar o te llevan al mismo nivel en que estabas.|
 
-\sp
+&nbsp;
 
 **Tokens &#128994; &#128308;: Vecinos molestos**
 
@@ -173,10 +184,19 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2|El puerto de barcos voladores gnomos pasa por encima de vuestra finca, metiendo muchísimo ruido, dejando caer cosas peligrosas o incluso estrellándose.|
 |3|La bruja comeniños cercana ha puesto su casita de chocolate en venta y atrae a todos los clientes, nadie quiere vuestro edificio, cuando puede comprar uno de chocolate y caramelo.|
 |4|La cervecera enana local tiene fugas en el riachuelo local, eso hace que el agua sea alcohol puro y el cielo este lleno de humos.|
+
+\conc
+
+\sp
+
+\sinc
+
+|1d6|Efecto|
+|---|---|
 |5|Una medusa, minotauro u otro monstruo similar aparece con un contrato de trabajo firmado y fechado para vigilar en la mazmorra y acabar con cualquier aventurero que entre. El problema es que intenta matar a las visitas y quiere cobrar a fin de mes.|
 |6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo en la finca.|
 
-\sc
+&nbsp;
 
 **Tokens &#128308; &#128309; &#128994;: Catástrofes**
 
@@ -189,7 +209,60 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |5|El inspector de vivienda deja un aviso de que hará una visita en 3 días. Si no cumple los mínimos de seguridad lo clausurará.|
 |6|Un señor del bosque gigantesco, un primigenio o un dragón está arrasando la zona, lo que desgraciadamente está haciendo bajar los precios de los inmuebles de la zona.|
 
+&nbsp;
+
+## Creación de personajes
+
+&nbsp;
+
+\conc
+
+Cuando hablamos de creación de personajes, deberíamos hablar de conversión de personajes, ya que la idea es convertir a los PJ de otro juego de fantasía que acaban de terminar su aventura/campaña en PJ jugables en F&I.
+
+Lo primero es definir que profesión tenían antes de ser aventureros (granjeros, porqueros, cazarratas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual. Esto nos dirá las tiradas de reparación que puede realizar. 
+
+Por ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría, arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».
+
 \sp
+
+Tus personajes tienen 4 atributos y reparten 10 puntos con un mínimo de 1 y un máximo de 5. Si su personaje era fuerte, quizas reparar deba ser su mayor atributo. Si era diestro y furtivo, Ocultar. Carismático con charlatanería. Por último con poderes mágicos o inteligente, Arcano. 
+
+### Reparar
+
+Reparar no solo cubre cosas como carpintería o albañilería, cubre también cosas como trato con animales para sacar los enjambres de ciempiés y cucarachas de algunas salas. U Hortelano y puedes adecentar los jardines del castillo.
+
+Hay actividades genéricas como sacar cadáveres o limpiar chorretones de sangre, tuya o de tus enemigos casi siempre, que puede hacer cualquiera sin tener la profesión adecuada.
+
+### Charlatanería
+
+Poco hay que decir, está es la habilidad que usarás para ~~mentir al cliente y endosarle una mierda de casa por un precio desorbitadamente alto y decir que es el mercado~~ para ofrecer un punto de vista diferente sobre una cualidad que bien pudiera ser un defecto o una oportunidad y por la que va a pagar un montón de pasta.
+
+Además muchas de las tiradas para usar la «verdad» se harán con Charlatanería.
+
+Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a los que tu verborrea, tu buena apariencia y tus halagos no les afecten. En esos casos, es mejor un buen hacha para cortar leña y encender el horno para hacer galletas en él para el próximo cliente. Nadie dijo que el sector inmobiliario fuera justo.
+
+### Arcano
+
+Tu Arcano muestra lo bueno que eres aplicando la magia y/o los objetos mágicos en la venta de inmuebles. De hecho no tienes que ser lanzador de conjuros para tener un buen atributo Arcano. Un guerrero con una espada +1 puede que sepa usarla puede
+
+Los seres inmunes a la Charlatanería solo pueden ser ~~engañados~~ convencidos con el uso de las energías mágicas elementales del universo y si no pues Bola de fuego y siguiente cliente.
+
+Hay reparaciones que solo pueden hacerse con Arcano como devolver un inmueble a nuestro plano, exorcizar moho fantasma o desatascar el agujero dimensional que usáis para lanzar la basura. No hay fontanero que pueda reparar que el demonio Gólgota que atasca los baños del templo de Kellogs, dios halfling de los productos ricos en fibra.
+
+### Ocultar
+
+Si Charlatanería servía para esconder defectos bajo un montón de frases con poco sentido, Ocultar supone esconder los defectos de un inmueble bajo un montón de pintura, cemento, cuadros, etc. de la forma más barata posible.
+
+Cuando toca adecentar la casa, puedes repararla, cosa que cuesta dinero, u ocultar sus fallos que no suele costar nada. Con Ocultar podrás hacer todo tipo de trucos para que los defectos del inmueble no sean visibles. Quizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso. Tal vez, le pongas caretas a los árboles para convencer al druida de que son ents o les haces hablar con tus dotes de bardo ventrílocuo.
+
+### Toques finales
+
+Por último, ponle nombre y esas cosas y que diseñe su propia casa soñada. La casa soñada del PJ supone dos cosas.
+
+\sp
+
+* Si hay dos o menos puntos de diferencia entre su casa soñada y la que quieren vender, se convierte en un posible cliente. 
+* Si su casa soñada tiene los mismos atributos que la casa soñada de un cliente es que está en sintonía con ese cliente y sus gustos y tira un dado extra cuando interactúa con él, ya que comprende sus gustos y necesidades.
 
 |Falta.md|
 
