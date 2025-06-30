@@ -251,7 +251,7 @@ Hay reparaciones que solo pueden hacerse con Arcano como devolver un inmueble a 
 
 ### Ocultar
 
-Si Charlatanería servía para esconder defectos bajo un montón de frases con poco sentido, Ocultar supone esconder los defectos de un inmueble bajo un montón de pintura, cemento, cuadros, etc. de la forma más barata posible.
+Si Charlatanería servía para esconder defectos bajo un montón de frases con poco sentido, Ocultar supone esconder los defectos de un inmueble bajo un montón de pintura, cemento, cuadros, etc. de la manera más barata posible.
 
 Cuando toca adecentar la casa, puedes repararla, cosa que cuesta dinero, u ocultar sus fallos que no suele costar nada. Con Ocultar podrás hacer todo tipo de trucos para que los defectos del inmueble no sean visibles. Quizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso. Tal vez, le pongas caretas a los árboles para convencer al druida de que son ents o les haces hablar con tus dotes de bardo ventrílocuo.
 
@@ -263,6 +263,23 @@ Por último, ponle nombre y esas cosas y que diseñe su propia casa soñada. La 
 
 * Si hay dos o menos puntos de diferencia entre su casa soñada y la que quieren vender, se convierte en un posible cliente. 
 * Si su casa soñada tiene los mismos atributos que la casa soñada de un cliente es que está en sintonía con ese cliente y sus gustos y tira un dado extra cuando interactúa con él, ya que comprende sus gustos y necesidades.
+
+\sinc
+
+&nbsp;
+
+
+## Fases de la operación
+
+&nbsp;
+
+\conc
+
+Las aventuras que se van a jugar en F&I casi siempre tienen la misma estructura, pero cambian los actores y el inmueble. Así que vamos a ver la secuencia que sigue la venta.
+
+Como ya hemos comentado antes, la aventura empieza cuando tus aventureros terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos, los impuestos sobre el botín, las sanaciones y demás al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo.
+
+**Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
 
 |Falta.md|
 
@@ -286,7 +303,7 @@ Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que
 
 Además, **cada truco viene con el atributo del inmueble** en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
 
-Los trucos **pueden adaptarse a cada situación si es necesario**, por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
+Los trucos **pueden adaptarse a cada situación si es necesario**. Por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
 
 #### Para PJ diestros
 
@@ -502,6 +519,36 @@ Tenía muy buena pinta (aparecía un tipo feliz en la portada) y estás poniendo
 Lo de la hierba de los medianos te intriga, pero siendo una calavera está complicado. ¿Y qué es eso del café?
 
 _* Aunque no quiera el liche atrae la corrupción y los no-muertos, así que la corrupción aumenta un punto cada vez que el DJ hace un gasto de token._ 
+
+\sinc
+
+&nbsp;
+
+### Un bárbaro, un arquero, una acróbata, un par de magos y un caballero
+
+&nbsp;
+
+\conc
+
+[![Dungeon and dragons fan art By selene713](./images/dungeon_and_dragons_fan_art_by_selene713_d26q307-fullview.jpg "Dungeon and dragons fan art By selene713")](https://www.deviantart.com/selene713/art/Dungeon-and-dragons-fan-art-132226999 "Dungeon and dragons fan art By selene713")
+
+> **Negociar 3 | Observar 3 | Crédito 3**
+
+> **No tienen casa soñada, solo quieren volver a la suya en su mundo.**
+
+\sc
+
+Llegaron a un mundo fantástico, lleno de seres extraños. 
+
+El amo del calabozo, les dio poderes a todos. 
+
+Uno el bárbaro, otro el arquero, acróbata, magos y el caballero.
+
+Dragones y mazmorras, un mundo infernal. 
+
+Se oculta entre las sombras la fuerza del mal.
+
+_Si algún PJ canta la canción, el DJ coge un token del color que quiera._
 
 \sp
 

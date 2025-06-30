@@ -1,24 +1,8 @@
-
-\sinc
-
-&nbsp;
-
-
-## Fases de la operación
-
-&nbsp;
-
-\conc
-
-Las aventuras que se van a jugar en F&I casi siempre tienen la misma estructura, pero cambian los actores y el inmueble. Así que vamos a ver la secuencia que sigue la venta.
-
-Como ya hemos comentado antes, la aventura empieza cuando tus aventureros terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos, los impuestos sobre el botín, las sanaciones y demás al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo.
-
-**Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
-
 ### Tasar el inmueble y redactar el anuncio
 
 El primer paso en esta aventura es tasar el inmueble y redactar el anuncio.
+
+XXX
 
 #### La tasación
 

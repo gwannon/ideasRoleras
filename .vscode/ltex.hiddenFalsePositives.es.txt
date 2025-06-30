@@ -30,3 +30,7 @@
 {"rule":"ACTUAL","sentence":"^\\QLo primero es definir que profesión tenían antes de ser aventureros (granjeros, porqueros, cazarratas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual.\\E$"}
 {"rule":"REALIZE","sentence":"^\\QEsto nos dirá las tiradas de reparación que puede realizar.\\E$"}
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPoco hay que decir, está es la habilidad que usarás para mentir al cliente y endosarle una mierda de casa por un precio desorbitadamente alto y decir que es el mercado para ofrecer un punto de vista diferente sobre una cualidad que bien pudiera ser un defecto o una oportunidad y por la que va a pagar un montón de pasta.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSoul Harvest By Naxeras\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDungeon and dragons fan art By selene713\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QDungeon and dragons fan art By selene713\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLlevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido.\\E$"}
