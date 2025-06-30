@@ -1,6 +1,6 @@
 \sinc
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.6](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.7](https://gwannon.itch.io/fincas-e-inmuebles)
 
 &nbsp;
 
