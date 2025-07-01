@@ -34,3 +34,9 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDungeon and dragons fan art By selene713\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QDungeon and dragons fan art By selene713\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QLlevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcastillo gótico entre nubes\nseñal SE VENDE\nbordes piedra\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\Qcastillo gótico entre nubes\nseñal SE VENDE\nbordes piedra\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\Qfondo de piedra\ncastillo en la costa de noche\nzigurat\ncueva en el pantano\ncueva de dragón\ntribu de goblins\nliche invocando almas\npersonajes Dragones y Mazmorras\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl código fuente puedes encontrarlo en GitHub/IdeasRoleras.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMermelada rolera RnR 2025\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCreado para la Mermelada rolera RnR 2025 organizada por Rolerøs No Representativøs\\E$"}
