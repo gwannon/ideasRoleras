@@ -14,7 +14,7 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-$md = file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
 
 $mkd->setContent($md);
 
@@ -54,7 +54,7 @@ if($argv[1] == 'FincasInmuebles') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: Fincas & Inmuebles\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 0.7\n\n";
+  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 0.8\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";

@@ -12,6 +12,8 @@ XXX
 
 #### Redactar el anuncio
 
+Una vez tus PJ tengan su tasación, habrá que poner un anuncio en los tablones de anuncios de los pueblos cercanos, difundirlo entre los pregoneros de la zona o incluso contratar a un médium para que le hable a los espíritus de la gran oferta que es vuestro cementerio. 
+
 XXX
 
 ### Adecentar la mazmorra y sacar cadáveres
@@ -21,9 +23,15 @@ He aprendido que son los detalles cotidianos, los gestos de la gente corriente l
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
 
-En esta fase podrán decidir como arreglar los problemas o carencias
+En esta fase podrán decidir como arreglar los problemas o carencias que pudiera tener la casa. Recuerda que los problemas de un inmueble para unos, pueden ser los alicientes de compra para otros, así que las reparaciones de ciertos elementos solo suponen subir y bajar atributos.
+
+Si desean cambiar (subir o bajar) algún atributo, simplemente busca un problema estúpido y ponles a tratar de resolverlo. Si, por ejemplo, quieren mejorar su ubicación puedes decirles que quizas deban poner una queja en el ayuntamiento para que vuelvan a enterrar a los zombis del cementerio cercano que un nigromante borracho levantó en Año Nuevo. Podrías recordarles que esos zombis tiene familias y esas familias se mosquearán si decapitan a sus tatarabuelos.
 
 XXX
+
+Este es un buen momento para gastar los tokens y meterles nuevos problemas al azar que les obliguen a hacer nuevas reparaciones o, cuando vengan las visitas, ocultarlas o a usar la «verdad».
+
+\sp
 
 Las reparaciones son costosas. Apunta todas las tiradas de reparar y cada 5 tiradas resta 1 a los beneficios finales.
 
@@ -38,9 +46,7 @@ Chandalf, el mago loco de las gangas inmobiliarias
 
 Enseñar los inmuebles quizás sea la parte más complicada y divertida de la venta, porque puede pasar de todo y casi siempre con humorístico resultado, sobre todo si el DJ usa sus tokens para generar eventos. Quizas tengan que ir a buscar a su posible comprador a la casita de chocolate de la bruja vecina, o tenéis una plaga de mímicos y cada vez que abrís un armario se comen a alguien.
 
-\sp
-
-Lo importante de esta parte es como en las anteriores, tus jugadores deberán usar sus habilidades de negociación y ventas para solventar los problemas. En el mundo inmobiliario el sajaraja no es aceptable, estás sajando y rajando a posibles clientes, tanto para vender como para comprar.
+Lo importante de esta parte es, como en las anteriores, tus jugadores deberán usar sus habilidades de negociación y ventas para solventar los problemas. En el mundo inmobiliario el sajaraja no es aceptable, estás sajando y rajando a posibles clientes, tanto para vender como para comprar.
 
 Recuerda desde el humilde goblin al poderoso señor de la guerra enano necesitan un hogar y que casualidad que el hogar perfecto que buscan es tu inmueble.
 
@@ -60,14 +66,5 @@ XXX
 No he vencido a los impuestos y a la burocracia municipal para intercambiar falacias con un gusano sarnoso.
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
-
-XXX
-
-### Entregar las llaves y pago
-
-```
-No seas ni un prestatario ni un prestamista
-```
-Polonio, Hamlet
 
 XXX

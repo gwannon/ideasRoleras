@@ -1,6 +1,6 @@
 \sinc
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.7](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.8](https://gwannon.itch.io/fincas-e-inmuebles)
 
 &nbsp;
 
@@ -282,6 +282,17 @@ Como ya hemos comentado antes, la aventura empieza cuando tus aventureros termin
 **Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
 
 |Falta.md|
+
+### Entregar las llaves y pago
+
+```
+Un mago de las gangas inmobiliarias nunca paga de más, Benito Gamyi, ni de menos. Paga exactamente lo que había previsto.
+```
+Chandalf, el mago loco de las gangas inmobiliarias
+
+El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal vez sean cofres de monedas de oro, títulos nobiliarios, objetos únicos, deseos mágicos, etc. 
+
+Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
 
 \sp
 
