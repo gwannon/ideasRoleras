@@ -69,6 +69,8 @@ Aparte, tienen 3 atributos que representan sus capacidades más importantes a la
 
 Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín del bien no pisará nada que tenga menos de Ubicación 3 y Espacio 3 (con establo para su caballo), Corrupción 4.
 
+Los atributos de la **casa soñada es secreta**, puedes darles una idea en general, pero nunca números exactos. A lo largo de la partida darles pistas en partida para que puedan hacerse una idea más clara de la casa soñada.
+
 ### La «verdad» y sus tokens
 
 ```
@@ -76,9 +78,11 @@ Naturalmente, pero existe la verdad y «la verdaaaaaad».
 ```
 Lionel Hutz
 
-Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual a la casa soñada del cliente. Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
+Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual o, por lo menos, muy parecida a la casa soñada del cliente.
 
 \sp
+
+Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
 
 Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
 
@@ -294,6 +298,8 @@ El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal
 
 Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
 
+El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.
+
 \sp
 
 \sinc
@@ -308,7 +314,7 @@ Como ya hemos visto en la creación de PJ podemos **convertir los poderes, capac
 
 En general **todos los trucos dan 1 dado extra** a la tirada, aunque hay excepciones que vienen explicadas en el propio truco. Para poder usar el truco debe tener sentido en la escena. No podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.
 
-Además, un truco **solo puede ser usado contra un mismo cliente en la misma fase**.
+Además, un truco **solo puede ser usado una sola vez contra un mismo cliente en la misma fase**. En el caso de los **trucos de Precio solo podrán usarse en la negociación**.
 
 Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos.
 
@@ -327,14 +333,14 @@ Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y
 #### Para PJ fuertes
 
 Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
-
-* **Esto es bueno bueno (Espacio):** Puedes coger algo y moverlo delante del cliente de un lado a otro para que no pueda cogerlo, mientras dices «Toca, toca. Esto es bueno bueno». 
-* **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
+* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
 
 \sp
 
+* **Esto es bueno bueno (Espacio):** Puedes coger algo y moverlo delante del cliente de un lado a otro para que no pueda cogerlo, mientras dices «Toca, toca. Esto es bueno bueno». 
+* **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
 * **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.
-* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
+
 
 #### Para PJ inteligentes
 
@@ -358,10 +364,13 @@ Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, a
 
 * **¿Lo escuchas? Eso que escuchas se llama silencio (Ubicación):** Si el comprador dice que está muy alejado, que no hay servicios de matasanos en las inmediaciones o que no hay buenos colegios de magia en la vecindad, puedes usar este sucio truco.
 
+* **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo lo que tú buscas. Quizás puedas invocar a entes interdimensionales para comprar la finca.
+
 \sp
 
-* **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo lo que tú buscas. Quizás puedas invocar a entes interdimensionales para comprar la finca.
 * **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
+
+\sc
 
 \sp
 
@@ -491,7 +500,7 @@ Algunos de ellos tienen reglas especiales para darles algo de vidilla y que no s
 
 > **Negociar 4 | Observar 1 | Crédito 1**
 
-> **Ubicación 1 | Espacio 4 | Corrupción 3 | Precio 1**
+> **Ubicación 1 | Espacio 4 | Corrupción 3**
 
 \sc
 
@@ -515,7 +524,7 @@ No sabrán negociar, los cabrones, pero te ponen esos ojillos de cachorro grande
 
 > **Negociar 2 | Observar 4 | Crédito 4**
 
-> **Ubicación 3 | Espacio 2 | Corrupción 1&ast; | Precio 3**
+> **Ubicación 3 | Espacio 2 | Corrupción 1&ast;**
 
 \sc
 

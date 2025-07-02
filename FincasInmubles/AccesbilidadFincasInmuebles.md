@@ -55,6 +55,8 @@ Aparte, tienen 3 atributos que representan sus capacidades más importantes a la
 
 Tiene además un inmueble soñado con los 4 atributos de inmueble que muestran su casa soñada. Un Kuru-Hai buscará una casa Ubicación 2, Espacio 2 y Corrupción 4, mientras que un paladín del bien no pisará nada que tenga menos de Ubicación 3 y Espacio 3 (con establo para su caballo), Corrupción 4.
 
+Los atributos de la **casa soñada es secreta**, puedes darles una idea en general, pero nunca números exactos. A lo largo de la partida darles pistas en partida para que puedan hacerse una idea más clara de la casa soñada.
+
 ### La «verdad» y sus tokens
 
 ```
@@ -62,7 +64,9 @@ Naturalmente, pero existe la verdad y «la verdaaaaaad».
 ```
 Lionel Hutz
 
-Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual a la casa soñada del cliente. Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
+Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual o, por lo menos, muy parecida a la casa soñada del cliente.
+Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
+
 Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
 
 La «verdad» solo puede usarse cuando **el cliente descubre un problema** en alguno de los atributos de tu inmueble **haciendo una tirada de Observar**. Si detecta un defecto puedes tratar de arreglarlo (si es posible) o puedes distorsionar la realidad con la «verdad» y darle la vuelta al fallo.
@@ -263,7 +267,18 @@ No he vencido a los impuestos y a la burocracia municipal para intercambiar fala
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
 
-XXX### Entregar las llaves y pago
+Una vez que a base de reparar, ocultar y tergiversar la realidad, has convencido al alquimista loco de que el mausoleo perdido en el bosque que un antiguo culto de violinistas satánicos es el lugar perfecto para trasladar su laboratorio de pociones, llega la hora de hablar de las monedas de oro.
+
+Para que se empiece a negociar la venta los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
+
+Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. Está claro que si el comprador no quiere babosas gigantes comecarne en su jardín, pues no las quiere y será más difícil negociar el precio.
+Por su lado los jugadores, podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. También pueden hacer uso de las descripciones de los proveedores y de los inmuebles para ganar dados extras, pero si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
+
+Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
+
+Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Credito del comprador.
+
+Lo curioso es que perdiendo la tirada de Negocias puede que saques más dinero porque en realidad el comprador tenía más crédito que el precio de la casa, así que te interesa tratar de averiguar si el Crédito es alto o bajo, y tratar de perder la tirada en vez de ganarla.### Entregar las llaves y pago
 
 ```
 Un mago de las gangas inmobiliarias nunca paga de más, Benito Gamyi, ni de menos. Paga exactamente lo que había previsto.
@@ -272,13 +287,15 @@ Chandalf, el mago loco de las gangas inmobiliarias
 
 El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal vez sean cofres de monedas de oro, títulos nobiliarios, objetos únicos, deseos mágicos, etc. 
 
-Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.## Trucos sucios de vendedor
+Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
+
+El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.## Trucos sucios de vendedor
 
 Como ya hemos visto en la creación de PJ podemos **convertir los poderes, capacidades y destrezas especiales en trucos sucios de vendedor** que aplicaremos podremos poner en práctica durante la venta. 
 
 En general **todos los trucos dan 1 dado extra** a la tirada, aunque hay excepciones que vienen explicadas en el propio truco. Para poder usar el truco debe tener sentido en la escena. No podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.
 
-Además, un truco **solo puede ser usado contra un mismo cliente en la misma fase**.
+Además, un truco **solo puede ser usado una sola vez contra un mismo cliente en la misma fase**. En el caso de los **trucos de Precio solo podrán usarse en la negociación**.
 
 Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos.
 
@@ -297,13 +314,10 @@ Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y
 #### Para PJ fuertes
 
 Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
-
+* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
 * **Esto es bueno bueno (Espacio):** Puedes coger algo y moverlo delante del cliente de un lado a otro para que no pueda cogerlo, mientras dices «Toca, toca. Esto es bueno bueno». 
 * **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
-* **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.
-* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
-
-#### Para PJ inteligentes
+* **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.#### Para PJ inteligentes
 
 Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una ventaja importante.
 
@@ -324,8 +338,11 @@ Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y la
 Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, alquimistas, etc.
 
 * **¿Lo escuchas? Eso que escuchas se llama silencio (Ubicación):** Si el comprador dice que está muy alejado, que no hay servicios de matasanos en las inmediaciones o que no hay buenos colegios de magia en la vecindad, puedes usar este sucio truco.
+
 * **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo lo que tú buscas. Quizás puedas invocar a entes interdimensionales para comprar la finca.
-* **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.## Inmuebles y fincas
+* **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
+
+## Inmuebles y fincas
 
 En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas. Desde cuevas sucias y lóbregas que solo unos goblins desesperados querrían comprar a castillos comprados por un capricho y sin mirar las consecuencias.
 ### El castillo en la playa de Stradh
@@ -383,7 +400,7 @@ Algunos de ellos tienen reglas especiales para darles algo de vidilla y que no s
 
 > **Negociar 4 | Observar 1 | Crédito 1**
 
-> **Ubicación 1 | Espacio 4 | Corrupción 3 | Precio 1**
+> **Ubicación 1 | Espacio 4 | Corrupción 3**
 Este clan de goblins lleva meses vagabundeando desde que un grupo de aventureros los masacraron y echaron de su cueva para robarles las pocas monedas de cobre que habían conseguido ahorrar con mucho esfuerzo matando a otros pobres grupos de aventureros … Y así en un ciclo sin finde muerte y avaricia. 
 
 Buscan un hogar lúgubre y sucio que puedan pagar con sus escasos recursos y a poder ser en un lugar horrible y húmedo que mantenga su piel viscosa e hidratada. 
@@ -396,7 +413,7 @@ No sabrán negociar, los cabrones, pero te ponen esos ojillos de cachorro grande
 
 > **Negociar 2 | Observar 4 | Crédito 4**
 
-> **Ubicación 3 | Espacio 2 | Corrupción 1&ast; | Precio 3**
+> **Ubicación 3 | Espacio 2 | Corrupción 1&ast;**
 Llevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido. Necesitas un cambio, tiene que haber algo más que levantar no-muertos y liderar ejercitos de ellos. Llega un momento en que te aburres de abrir las puertas del más-allá.
 
 Así que te fuiste a la sección de autoayuda de la gran biblioteca de la Universidad Invisible y te sacaste un libro de un tal Benito Gamyi titulado «Mejora tu vida mejorando tu agujero hobbit».
