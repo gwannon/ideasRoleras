@@ -171,7 +171,7 @@ Hay actividades genéricas como sacar cadáveres o limpiar chorretones de sangre
 
 Poco hay que decir, está es la habilidad que usarás para ~~mentir al cliente y endosarle una mierda de casa por un precio desorbitadamente alto y decir que es el mercado~~ para ofrecer un punto de vista diferente sobre una cualidad que bien pudiera ser un defecto o una oportunidad y por la que va a pagar un montón de pasta.
 
-Además muchas de las tiradas para usar la «verdad» se harán con Charlatanería.
+Además, muchas de las tiradas para usar la «verdad» se harán con Charlatanería.
 
 Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a los que tu verborrea, tu buena apariencia y tus halagos no les afecten. En esos casos, es mejor un buen hacha para cortar leña y encender el horno para hacer galletas en él para el próximo cliente. Nadie dijo que el sector inmobiliario fuera justo.
 
@@ -179,7 +179,7 @@ Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a
 
 Tu Arcano muestra lo bueno que eres aplicando la magia y/o los objetos mágicos en la venta de inmuebles. De hecho no tienes que ser lanzador de conjuros para tener un buen atributo Arcano. Un guerrero con una espada +1 puede que sepa usarla puede
 
-Los seres inmunes a la Charlatanería solo pueden ser ~~engañados~~ convencidos con el uso de las energías mágicas elementales del universo y si no pues Bola de fuego y siguiente cliente.
+Los seres inmunes a la Charlatanería solo pueden ser ~~engañados~~ convencidos con el uso de las energías mágicas elementales del universo y si no, pues Bola de fuego y siguiente cliente.
 
 Hay reparaciones que solo pueden hacerse con Arcano como devolver un inmueble a nuestro plano, exorcizar moho fantasma o desatascar el agujero dimensional que usáis para lanzar la basura. No hay fontanero que pueda reparar que el demonio Gólgota que atasca los baños del templo de Kellogs, dios halfling de los productos ricos en fibra.
 
@@ -271,12 +271,12 @@ Una vez que a base de reparar, ocultar y tergiversar la realidad, has convencido
 
 Para que se empiece a negociar la venta los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
 
-Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. Está claro que si el comprador no quiere babosas gigantes comecarne en su jardín, pues no las quiere y será más difícil negociar el precio.
+Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. Está claro que si el comprador no quiere babosas gigantes come-carne en su jardín, pues no las quiere y será más difícil negociar el precio.
 Por su lado los jugadores, podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. También pueden hacer uso de las descripciones de los proveedores y de los inmuebles para ganar dados extras, pero si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
 
 Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
 
-Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Credito del comprador.
+Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Crédito del comprador.
 
 Lo curioso es que perdiendo la tirada de Negocias puede que saques más dinero porque en realidad el comprador tenía más crédito que el precio de la casa, así que te interesa tratar de averiguar si el Crédito es alto o bajo, y tratar de perder la tirada en vez de ganarla.### Entregar las llaves y pago
 
@@ -289,7 +289,7 @@ El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal
 
 Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
 
-El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.## Trucos sucios de vendedor
+El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.## Trucos sucios de vendedor
 
 Como ya hemos visto en la creación de PJ podemos **convertir los poderes, capacidades y destrezas especiales en trucos sucios de vendedor** que aplicaremos podremos poner en práctica durante la venta. 
 

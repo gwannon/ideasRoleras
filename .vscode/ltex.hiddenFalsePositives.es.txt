@@ -40,3 +40,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl código fuente puedes encontrarlo en GitHub/IdeasRoleras.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMermelada rolera RnR 2025\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCreado para la Mermelada rolera RnR 2025 organizada por Rolerøs No Representativøs\\E$"}
+{"rule":"SI_AFIRMACION2","sentence":"^\\QSi, por ejemplo, quieren mejorar su ubicación puedes decirles que quizas deban poner una queja en el ayuntamiento para que vuelvan a enterrar a los zombis del cementerio cercano que un nigromante borracho levantó en Año Nuevo.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi era diestro y furtivo, Ocultar.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QQuizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QPor ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno.\\E$"}

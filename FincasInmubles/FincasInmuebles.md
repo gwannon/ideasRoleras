@@ -241,7 +241,7 @@ Hay actividades genéricas como sacar cadáveres o limpiar chorretones de sangre
 
 Poco hay que decir, está es la habilidad que usarás para ~~mentir al cliente y endosarle una mierda de casa por un precio desorbitadamente alto y decir que es el mercado~~ para ofrecer un punto de vista diferente sobre una cualidad que bien pudiera ser un defecto o una oportunidad y por la que va a pagar un montón de pasta.
 
-Además muchas de las tiradas para usar la «verdad» se harán con Charlatanería.
+Además, muchas de las tiradas para usar la «verdad» se harán con Charlatanería.
 
 Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a los que tu verborrea, tu buena apariencia y tus halagos no les afecten. En esos casos, es mejor un buen hacha para cortar leña y encender el horno para hacer galletas en él para el próximo cliente. Nadie dijo que el sector inmobiliario fuera justo.
 
@@ -249,7 +249,7 @@ Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a
 
 Tu Arcano muestra lo bueno que eres aplicando la magia y/o los objetos mágicos en la venta de inmuebles. De hecho no tienes que ser lanzador de conjuros para tener un buen atributo Arcano. Un guerrero con una espada +1 puede que sepa usarla puede
 
-Los seres inmunes a la Charlatanería solo pueden ser ~~engañados~~ convencidos con el uso de las energías mágicas elementales del universo y si no pues Bola de fuego y siguiente cliente.
+Los seres inmunes a la Charlatanería solo pueden ser ~~engañados~~ convencidos con el uso de las energías mágicas elementales del universo y si no, pues Bola de fuego y siguiente cliente.
 
 Hay reparaciones que solo pueden hacerse con Arcano como devolver un inmueble a nuestro plano, exorcizar moho fantasma o desatascar el agujero dimensional que usáis para lanzar la basura. No hay fontanero que pueda reparar que el demonio Gólgota que atasca los baños del templo de Kellogs, dios halfling de los productos ricos en fibra.
 
@@ -298,7 +298,7 @@ El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal
 
 Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
 
-El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.
+El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.
 
 \sp
 
