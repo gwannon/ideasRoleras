@@ -44,3 +44,5 @@
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi era diestro y furtivo, Ocultar.\\E$"}
 {"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QQuizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso.\\E$"}
 {"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QPor ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QUna vez que a base de reparar, ocultar y tergiversar la realidad, has convencido al alquimista loco de que el mausoleo perdido en el bosque que tenía un antiguo culto de violinistas satánicos es el lugar perfecto para trasladar su laboratorio de pociones, llega la hora de hablar de las monedas de oro.\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\QDurante esta visita pueden tratar de ver que clientes son los mejores y a cuales vender mejor la finca.\\E$"}

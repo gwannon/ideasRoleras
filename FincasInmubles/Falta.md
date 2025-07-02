@@ -51,34 +51,3 @@ Lo importante de esta parte es, como en las anteriores, tus jugadores deberán u
 Recuerda desde el humilde goblin al poderoso señor de la guerra enano necesitan un hogar y que casualidad que el hogar perfecto que buscan es tu inmueble.
 
 XXX
-
-#### Día de trampas desactivadas
-
-Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
-
-Durante este día puedes principalmente conocer a los posibles clientes y averiguar a grandes rasgos como es su casa soñada. XXX 
-
-XXX
-
-### Negociar la venta
-
-```
-No he vencido a los impuestos y a la burocracia municipal para intercambiar falacias con un gusano sarnoso.
-```
-Chandalf, el mago loco de las gangas inmobiliarias
-
-Una vez que a base de reparar, ocultar y tergiversar la realidad, has convencido al alquimista loco de que el mausoleo perdido en el bosque que un antiguo culto de violinistas satánicos es el lugar perfecto para trasladar su laboratorio de pociones, llega la hora de hablar de las monedas de oro.
-
-Para que se empiece a negociar la venta los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
-
-Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. Está claro que si el comprador no quiere babosas gigantes come-carne en su jardín, pues no las quiere y será más difícil negociar el precio.
-
-\sp
-
-Por su lado los jugadores, podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. También pueden hacer uso de las descripciones de los proveedores y de los inmuebles para ganar dados extras, pero si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
-
-Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
-
-Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Crédito del comprador.
-
-Lo curioso es que perdiendo la tirada de Negocias puede que saques más dinero porque en realidad el comprador tenía más crédito que el precio de la casa, así que te interesa tratar de averiguar si el Crédito es alto o bajo, y tratar de perder la tirada en vez de ganarla.
