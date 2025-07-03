@@ -1,6 +1,6 @@
 
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.8](https://gwannon.itch.io/fincas-e-inmuebles)Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.8](https://gwannon.itch.io/fincas-e-inmuebles)Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde vivirán auténticas y épicas aventuras inmobiliarias en pos de la riqueza que pueden ganar con la transacción de bienes inmuebles ganando con ello una plusvaláa. En resumen, que deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
 
 Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo &#128308;, azul &#128309; y verde &#128994;).
 
@@ -156,9 +156,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 
 Cuando hablamos de creación de personajes, deberíamos hablar de conversión de personajes, ya que la idea es convertir a los PJ de otro juego de fantasía que acaban de terminar su aventura/campaña en PJ jugables en F&I.
 
-Lo primero es definir que profesión tenían antes de ser aventureros (granjeros, porqueros, cazarratas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual. Esto nos dirá las tiradas de reparación que puede realizar. 
+Lo primero es definir que profesión tenían antes de ser aventureros ~~(labradores, porqueros, cazarratas, …)~~ (terratenientes, criadores de ganado porcino, exterminadores de plagas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual. Esto nos dirá las tiradas de reparación que puede realizar. 
 
-Por ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría, arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».
+Por ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».
 Tus personajes tienen 4 atributos y reparten 10 puntos con un mínimo de 1 y un máximo de 5. Si su personaje era fuerte, quizas reparar deba ser su mayor atributo. Si era diestro y furtivo, Ocultar. Carismático con charlatanería. Por último con poderes mágicos o inteligente, Arcano. 
 
 ### Reparar
@@ -185,7 +185,7 @@ Hay reparaciones que solo pueden hacerse con Arcano como devolver un inmueble a 
 
 ### Ocultar
 
-Si Charlatanería servía para esconder defectos bajo un montón de frases con poco sentido, Ocultar supone esconder los defectos de un inmueble bajo un montón de pintura, cemento, cuadros, etc. de la manera más barata posible.
+Si Charlatanería servía para esconder defectos bajo un montón de frases con poco sentido, Ocultar supone esconder los ~~ terribles fallos~~ pequeños defectos de un inmueble bajo un montón de pintura, cemento, cuadros, etc. de la manera más barata posible.
 
 Cuando toca adecentar la casa, puedes repararla, cosa que cuesta dinero, u ocultar sus fallos que no suele costar nada. Con Ocultar podrás hacer todo tipo de trucos para que los defectos del inmueble no sean visibles. Quizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso. Tal vez, le pongas caretas a los árboles para convencer al druida de que son ents o les haces hablar con tus dotes de bardo ventrílocuo.
 
@@ -197,7 +197,7 @@ Por último, ponle nombre y esas cosas y que diseñe su propia casa soñada. La 
 
 Las aventuras que se van a jugar en F&I casi siempre tienen la misma estructura, pero cambian los actores y el inmueble. Así que vamos a ver la secuencia que sigue la venta.
 
-Como ya hemos comentado antes, la aventura empieza cuando tus aventureros terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos, los impuestos sobre el botín, las sanaciones y demás al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo.
+Como ya hemos comentado antes, la aventura empieza cuando tus aventureros ~~masacran a sus enemigos y algunos inocentes por el camino~~ terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos, los impuestos sobre el botín, las sanaciones y demás al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo final.
 
 **Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
 
@@ -211,13 +211,20 @@ XXX
 
 El primer paso es tasar la finca, para saber qué pros y contras tiene (descripción) y una estimación de sus atributos. 
 
-XXX
+En esta parte puedes describirles el edificio que seguramente que ya conocen, pero que **no han visto de un punto de vista inmobiliario**. ¿Quién tiene tiempo de ver los detalles de marquetería de los ventanales góticos de la sala principal de un castillo mientras esquivas hechizos mortales lanzados por el anterior propietario? 
+
+Lo mejor es recorrerlo, **ver sus posibles problemas** (u oportunidades que todos sabemos lo que se escriben igual es chino) y que vayan pensando como arreglarlos. Además de lo que apunten durante el paseo visitando su nueva propiedad, deberás darle la **tasación oficial que constará de los 4 atributos del inmueble**.
+
+Es importante que se den cuenta de que sus actos tienen consecuencias y que hacer explotar las calderas de las cocinas para acabar con una horda de zombis con machetes carniceros repercutirá en sus futuros beneficios. Recuérdales que explorar mazmorras y matar enemigos es bueno, destruir el mobiliario y los elementos estructural es malo. Así que, si lo deseas, hazles un repaso de su aventura anterior recordándoles todas y cada una de las estupideces que cometieron. 
 
 #### Redactar el anuncio
 
 Una vez tus PJ tengan su tasación, habrá que poner un anuncio en los tablones de anuncios de los pueblos cercanos, difundirlo entre los pregoneros de la zona o incluso contratar a un médium para que le hable a los espíritus de la gran oferta que es vuestro cementerio. 
 
+Para empezar y queriendo ser puñeteros y cizañeros el anuncio solo podrá redactarlo quien sepa escribir y además conozca el idioma local del mundo de fantasía. Así que los bárbaros y guerreros iletrados que se abstengan de intentarlo, puede que el clérigo, bardo o mago del grupo escriban lo que diga el grupo o lo que ellos prefieran.
+
 XXX
+Si nadie sabe escribir ni conoce el idioma local, y eso puede pasar fácilmente, tendrán que recurrir a algún externo al grupo como el clérigo o el tabernero local, que puede poner lo que quiera según les caigan los PJ bien o mal. Sea como sea esto supondrá **un dado menos en las tiradas para atraer compradores**.
 
 ### Adecentar la mazmorra y sacar cadáveres
 
@@ -233,6 +240,7 @@ Si desean cambiar (subir o bajar) algún atributo, simplemente busca un problema
 XXX
 
 Este es un buen momento para gastar los tokens y meterles nuevos problemas al azar que les obliguen a hacer nuevas reparaciones o, cuando vengan las visitas, ocultarlas o a usar la «verdad».
+
 Las reparaciones son costosas. Apunta todas las tiradas de reparar y cada 5 tiradas resta 1 a los beneficios finales.
 
 Puede que algún evento generado por el uso de tokens les obligue a volver a esta fase. Por ejemplo, para resolver los destrozos generados por una horda de bárbaros que asoló la región o tengan que pagar a un clérigo para que exorcice los fantasmas de los antiguos propietarios que quieren vengarse de tus PJ porque fueron los culpables de su muerte.
@@ -255,7 +263,6 @@ XXX
 #### Día de trampas desactivadas
 
 Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
-
 Durante este día puedes principalmente conocer a los posibles clientes y tratar de averiguar a grandes rasgos como es su casa soñada. Lo normal es que crees un cliente por cada PJ y cada uno que se dedique a enseñar el inmueble a su cliente asignado.
 
 Durante esta visita pueden tratar de ver que clientes son los mejores y a cuales vender mejor la finca. Es importante que recuerdes que las visitas son al mismo tiempo, con lo que afecte a uno de los clientes puede afectar a todos. Imagínate que un PJ oculta el río de lava a su cliente humano ocultando la puerta del sótano detrás de un armario. Esto hará que otro PJ que quiera enseñar a un cliente tiefling no pueda enseñarle el increíble SPA de lava fundida con el que cuenta esta mágica casa.
@@ -270,6 +277,7 @@ No he vencido a los impuestos y a la burocracia municipal para intercambiar fala
 Chandalf, el mago loco de las gangas inmobiliarias
 
 Una vez que a base de reparar, ocultar y tergiversar la realidad, has convencido al alquimista loco de que el mausoleo perdido en el bosque que tenía un antiguo culto de violinistas satánicos es el lugar perfecto para trasladar su laboratorio de pociones, llega la hora de hablar de las monedas de oro.
+
 Para que se empiece a negociar la venta los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
 
 Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. Está claro que si el comprador no quiere babosas gigantes come-carne en su jardín, pues no las quiere y será más difícil negociar el precio.
@@ -288,12 +296,13 @@ Lo curioso es que perdiendo la tirada de Negociar puede que saques más dinero. 
 Un mago de las gangas inmobiliarias nunca paga de más, Benito Gamyi, ni de menos. Paga exactamente lo que había previsto.
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
-
 El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal vez sean cofres de monedas de oro, títulos nobiliarios, objetos únicos, deseos mágicos, etc. 
 
 Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
 
-El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.## Trucos sucios de vendedor
+El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.
+
+## Trucos sucios de vendedor
 
 Como ya hemos visto en la creación de PJ podemos **convertir los poderes, capacidades y destrezas especiales en trucos sucios de vendedor** que aplicaremos podremos poner en práctica durante la venta. 
 
@@ -321,7 +330,9 @@ Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárb
 * **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
 * **Esto es bueno bueno (Espacio):** Puedes coger algo y moverlo delante del cliente de un lado a otro para que no pueda cogerlo, mientras dices «Toca, toca. Esto es bueno bueno». 
 * **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
-* **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.#### Para PJ inteligentes
+* **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.
+
+#### Para PJ inteligentes
 
 Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una ventaja importante.
 
@@ -333,8 +344,8 @@ Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una
 
 Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y labia.
 
-* **No hemos reparado en gastos (Espacio):** Puedes decirlo después de enseñar algo que parece cutre y barato y hacerlo parecer de calidad y caro.
 * **Esto está hecho para durar (Espacio):** Decirlo mientras golpeas algo interesante del inmueble con tu arma predilecta, tu bastón mágico o tus puños mortales. Tira 1d6, con 1 lo rompes delante del cliente y quedas como el culo. De 2-6 obtienes dos dados extras.
+* **No hemos reparado en gastos (Espacio):** Puedes decirlo después de enseñar algo que parece cutre y barato y hacerlo parecer de calidad y caro.
 * **Hablar rápido y mover los brazos:** Ya está, es así de fácil, no paras de hablar y de mover las manos. Esto creo un efecto hipnótico que nubla la mente del posible comprador. Puede hacerse en cualquier situación y con cualquier atributo, pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. 
 
 #### Para PJ con capacidades mágicas
@@ -342,11 +353,8 @@ Hablamos en PJ como bardos y nobles que basan sus capacidades en su carisma y la
 Cualquiera que tenga poderes mágicos o similares, magos, druidas, psíquicos, alquimistas, etc.
 
 * **¿Lo escuchas? Eso que escuchas se llama silencio (Ubicación):** Si el comprador dice que está muy alejado, que no hay servicios de matasanos en las inmediaciones o que no hay buenos colegios de magia en la vecindad, puedes usar este sucio truco.
-
 * **Y tiene su propio círculo de invocación (Corrupción):** Otra cosa es que puedas invocar con ese círculo lo que tú buscas. Quizás puedas invocar a entes interdimensionales para comprar la finca.
-* **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.
-
-## Inmuebles y fincas
+* **Galletas recién horneadas de Mordenchainen:** Invocas unas deliciosas galletas recién horneadas de Mordenchainen y todos los asistentes al día de trampas desactivadas pierden un dado de Observar. Huele demasiado bien para fijarse en otras cosas.## Inmuebles y fincas
 
 En este apartado encontrarás ejemplos de inmuebles y clientes que puedes meter en tus partidas. Desde cuevas sucias y lóbregas que solo unos goblins desesperados querrían comprar a castillos comprados por un capricho y sin mirar las consecuencias.
 ### El castillo en la playa de Stradh
