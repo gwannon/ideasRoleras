@@ -18,13 +18,14 @@ Si la acción que voy a hacer supone interactuar con otro PJ o un cliente, se co
 En caso de empates gana el defensor. Si no se consiguen éxitos por ninguna parte, el defensor también gana.
 
 Tus compañeros **pueden ayudarte** y en vez de hacer tu tirada pueden darte **un dado extra**.
+
 ### Inmuebles y fincas
 
 Los inmuebles vienen definidos por una simple descripción que puede usarse como un conjunto de aspectos. Los elementos de esta descripción pueden **invocarse y dan un dado extra**. 
 
-Si la descripción dice que las ruinas malditas tienen grabados de primigenios y voy a vendérselo a un cultista puedo invocar ese aspecto y conseguir 1 dado extra a Negociar. Si puedo invocar más elementos de la descripción, puedo conseguir más dados. 
-
+Si la descripción dice que las ruinas malditas tienen grabados de primigenios y voy a vendérselo a un cultista puedo invocar ese aspecto y conseguir 1 dado extra a Negociar. Si puedo invocar más elementos de la descripción, puedo conseguir más dados. [![Ancient dark arena for gladiator battles by upklyak](./images/c2e019c3-9652-438f-b3fa-b689d2775283.jpg "Ancient dark arena for gladiator battles by upklyak")](https://www.freepik.com/free-vector/ancient-dark-arena-gladiator-battles_379400616.htm "Ancient dark arena for gladiator battles by upklyak")
 Esto también puede **usarlo el DJ para sus clientes**. Si la descripción dice que es muy luminoso y soleado, el vampiro que busca cripta puede obtener un dado extra a la hora de negociar el precio.
+
 Además, cada inmueble tiene 4 características que lo definen.
 
 * **Ubicación.** Indica si su ubicación es buena. Con 1 está en Mordor y con 5 en la Comarca.
@@ -65,6 +66,7 @@ Naturalmente, pero existe la verdad y «la verdaaaaaad».
 Lionel Hutz
 
 Si quieres vender el inmueble, debes conseguir que la casa que quieres vender, sea igual o, por lo menos, muy parecida a la casa soñada del cliente.
+
 Para conseguir eso puedes hacer remodelaciones y reparaciones en el inmueble que son costosas, largas y cansadas (ver «Adecentar la mazmorra y sacar cadáveres») o puedes usar la «verdad» que principalmente es como mentir, pero diciendo cosas verdaderas.
 
 Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con su ejército de esqueletos puede convertirse en un rústico hogar para personas que quieren disfrutar de la no-vida en toda su inmortalidad junto a sus siervos con exceso de calcio en su organismo.
@@ -78,7 +80,6 @@ Estás vendiendo una torre fortificada al lado de una grieta interdimensional al
 Decides usar la «verdad», porque no hay artesano que arregle eso de la fractura interplanar y le das la vuelta diciendo que así están más cerca de los demonios y las almas descarriadas a los que deben purificar. Además, ahorrarán un dineral en raciones de viaje que pueden dar de limosna a los pobres. Tiras Charlatanería y aprovechas el aspecto de que son beatorros que dan limosna para conseguir un dado extra. 
 
 Tiras los dados y obtienes más éxitos en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.
-
 Cada vez que usas la «verdad», tengas éxito o no, generas un token para el DJ, rojo &#128308; si es Ubicación, azul &#128309; si es Espacio y verde &#128994; si Corrupción.
 
 #### Uso de los tokens
@@ -92,7 +93,8 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |3|El círculo de druidas nudistas local suelen pasearse por la zona para hacer sus cosas de druidas.|
 |4|Están talando el bosque que rodea el inmueble, quieren montar una megataberna con chiquimazmorra para los niños y cafetería élfica gourmet.|
 |5|Topos infernales están excavando en la zona y las vibraciones hacen que los cimientos cedan poco a poco.|
-|6|Un clan orco ha oído que el inmueble está vacío y quiere darle un vistazo, el problema es que cada orco quiere cosas distintas.|**Token &#128309;: Defectos de construcción**
+|6|Un clan orco ha oído que el inmueble está vacío y quiere darle un vistazo, el problema es que cada orco quiere cosas distintas.|
+**Token &#128309;: Defectos de construcción**
 
 |1d6|Efecto|
 |---|---|
@@ -101,7 +103,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |3|Las vigas principales tienen carcoma élfica que solo come maderas nobles y es inmune a la magia.|
 |4|Un albañil os dice que tenemos peste de golem de piedra en las paredes y eso es un problema caro.|
 |5|Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumosa o roja sangre y vísceras según a quien vayáis a venderlo.|
-|6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|**Token &#128994;: Maldiciones y posesiones**
+|6|Las cañerías del váter están obstruidas y no tragan o lo que es peor, no existen y solo era un pozo al que le pusieron encima una taza del váter y se ha llenado.|
+
+**Token &#128994;: Maldiciones y posesiones**
 
 |1d6|Efecto|
 |---|---|
@@ -116,9 +120,6 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |---|---|
 |1|El legítimo propietario del inmueble vuelve de la muerte con el título de propiedad bajo el brazo.|
 |2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato.|
-
-|1d6|Efecto|
-|---|---|
 |3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
 |4|La recalificación del terreno hace que parte de la finca sea terreno rural y debería tener un bosque.|
 |5|Nadie escapa de la muerte y los impuestos. Tal vez de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
@@ -128,6 +129,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |---|---|
 |1|En teoría, parte de la construcción está en tierra feérica y las hadas no paran de raptar a todo aquel que se acerca a ver el inmueble.|
 |2|El último artesano que vino a la casa tenía una especie de destornillador raro que zumbaba mucho y ahora la casa es mucho más grande por fuera que por dentro.|
+
+|1d6|Efecto|
+|---|---|
 |3|Todas las superficies reflectantes, desde espejos hasta escudos de metal bruñidos, muestras los momentos más vergonzosos de aquellos que se reflejan.| 
 |4|En el terreno colindante aparece una espada mágica clavada en la piedra y se llena de aspirantes a rey y de curiosos que quieren probar suerte, y claro, de vendedores de souvenirs y de comida rápida.|
 |5|Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.|
@@ -139,9 +143,6 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |2|El puerto de barcos voladores gnomos pasa por encima de vuestra finca, metiendo muchísimo ruido, dejando caer cosas peligrosas o incluso estrellándose.|
 |3|La bruja comeniños cercana ha puesto su casita de chocolate en venta y atrae a todos los clientes, nadie quiere vuestro edificio, cuando puede comprar uno de chocolate y caramelo.|
 |4|La cervecera enana local tiene fugas en el riachuelo local, eso hace que el agua sea alcohol puro y el cielo este lleno de humos.|
-
-|1d6|Efecto|
-|---|---|
 |5|Una medusa, minotauro u otro monstruo similar aparece con un contrato de trabajo firmado y fechado para vigilar en la mazmorra y acabar con cualquier aventurero que entre. El problema es que intenta matar a las visitas y quiere cobrar a fin de mes.|
 |6|Las finales del campeonato piedraball para gigantes de las colinas se celebran cerca y las piedras están cayendo en la finca.|**Tokens &#128308; &#128309; &#128994;: Catástrofes**
 
@@ -149,6 +150,9 @@ El DJ puede usar los tokens para meter a sus PJ en nuevas complicaciones. Según
 |---|---|
 |1|Algún dios o diosa se ha cabreado y ha mandado un diluvio. Lo bueno es que las humedades y las goteras ya no son un problema.|
 |2|La finca o el inmueble ya no está en nuestro plano, quizás esté en un plano demoniaco o celestial o de gente churro. La cuestión es que como mínimo ya no existen los posibles clientes que teníais.|
+
+|1d6|Efecto|
+|---|---|
 |3|La respuesta es 42|
 |4|La magia del mundo colapsa súbitamente, así que todos los elementos mágicos de la finca empiezan a fallar. El problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble y habrá que sustituir todo lo que no funciona.|
 |5|El inspector de vivienda deja un aviso de que hará una visita en 3 días. Si no cumple los mínimos de seguridad lo clausurará.|
@@ -159,6 +163,7 @@ Cuando hablamos de creación de personajes, deberíamos hablar de conversión de
 Lo primero es definir que profesión tenían antes de ser aventureros ~~(labradores, porqueros, cazarratas, …)~~ (terratenientes, criadores de ganado porcino, exterminadores de plagas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual. Esto nos dirá las tiradas de reparación que puede realizar. 
 
 Por ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».
+
 Tus personajes tienen 4 atributos y reparten 10 puntos con un mínimo de 1 y un máximo de 5. Si su personaje era fuerte, quizas reparar deba ser su mayor atributo. Si era diestro y furtivo, Ocultar. Carismático con charlatanería. Por último con poderes mágicos o inteligente, Arcano. 
 
 ### Reparar
@@ -170,10 +175,11 @@ Hay actividades genéricas como sacar cadáveres o limpiar chorretones de sangre
 ### Charlatanería
 
 Poco hay que decir, está es la habilidad que usarás para ~~mentir al cliente y endosarle una mierda de casa por un precio desorbitadamente alto y decir que es el mercado~~ para ofrecer un punto de vista diferente sobre una cualidad que bien pudiera ser un defecto o una oportunidad y por la que va a pagar un montón de pasta.
-
 Además, muchas de las tiradas para usar la «verdad» se harán con Charlatanería.
 
 Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a los que tu verborrea, tu buena apariencia y tus halagos no les afecten. En esos casos, es mejor un buen hacha para cortar leña y encender el horno para hacer galletas en él para el próximo cliente. Nadie dijo que el sector inmobiliario fuera justo.
+
+[![Old wizard character working magic by upklyak](./images/9ff5e167-5eae-4c5f-97b2-9f07d7dfc797.jpg "Old wizard character working magic by upklyak")](https://www.freepik.com/free-vector/old-wizard-character-working-magic_149961814.htm "Old wizard character working magic by upklyak")
 
 ### Arcano
 
@@ -192,6 +198,7 @@ Cuando toca adecentar la casa, puedes repararla, cosa que cuesta dinero, u ocult
 ### Toques finales
 
 Por último, ponle nombre y esas cosas y que diseñe su propia casa soñada. La casa soñada del PJ supone dos cosas.
+
 * Si hay dos o menos puntos de diferencia entre su casa soñada y la que quieren vender, se convierte en un posible cliente. 
 * Si su casa soñada tiene los mismos atributos que la casa soñada de un cliente es que está en sintonía con ese cliente y sus gustos y tira un dado extra cuando interactúa con él, ya que comprende sus gustos y necesidades.## Fases de la operación
 
@@ -259,10 +266,10 @@ Lo importante de esta parte es, como en las anteriores, tus jugadores deberán u
 Recuerda desde el humilde goblin al poderoso señor de la guerra enano necesitan un hogar y que casualidad que el hogar perfecto que buscan es tu inmueble.
 
 XXX
-
 #### Día de trampas desactivadas
 
 Puedes organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
+
 Durante este día puedes principalmente conocer a los posibles clientes y tratar de averiguar a grandes rasgos como es su casa soñada. Lo normal es que crees un cliente por cada PJ y cada uno que se dedique a enseñar el inmueble a su cliente asignado.
 
 Durante esta visita pueden tratar de ver que clientes son los mejores y a cuales vender mejor la finca. Es importante que recuerdes que las visitas son al mismo tiempo, con lo que afecte a uno de los clientes puede afectar a todos. Imagínate que un PJ oculta el río de lava a su cliente humano ocultando la puerta del sótano detrás de un armario. Esto hará que otro PJ que quiera enseñar a un cliente tiefling no pueda enseñarle el increíble SPA de lava fundida con el que cuenta esta mágica casa.
@@ -287,7 +294,6 @@ Por su lado los jugadores, podrán usar sus trucos sucios de Precio para consegu
 Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
 
 Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Crédito del comprador.
-
 Lo curioso es que perdiendo la tirada de Negociar puede que saques más dinero. Esto se debe a que en realidad el comprador tenía más crédito que el precio de la casa, así que te interesa tratar de averiguar si el Crédito es alto o bajo, y tratar de perder la tirada en vez de ganarla.
 
 ### Entregar las llaves y pago
@@ -296,6 +302,7 @@ Lo curioso es que perdiendo la tirada de Negociar puede que saques más dinero. 
 Un mago de las gangas inmobiliarias nunca paga de más, Benito Gamyi, ni de menos. Paga exactamente lo que había previsto.
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
+
 El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal vez sean cofres de monedas de oro, títulos nobiliarios, objetos únicos, deseos mágicos, etc. 
 
 Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
@@ -315,7 +322,6 @@ Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que
 Además, **cada truco viene con el atributo del inmueble** en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
 
 Los trucos **pueden adaptarse a cada situación si es necesario**. Por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
-
 #### Para PJ diestros
 
 Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y velocidad.
@@ -474,3 +480,6 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * [tribu de goblins](https://www.deviantart.com/alexander-werner-jr/art/Goblin-s-Pike-The-Goblin-Tribe-888473654)
 * [liche invocando almas](https://www.deviantart.com/naxeras/art/Soul-Harvest-1206471530)
 * [personajes Dragones y Mazmorras](https://www.deviantart.com/selene713/art/Dungeon-and-dragons-fan-art-132226999)
+* [puertas de mazmorras](https://www.freepik.com/free-vector/ancient-dark-arena-gladiator-battles_379400616.htm)
+* [mago conjurando rayo](https://www.freepik.com/free-vector/old-wizard-character-working-magic_149961814.htm)
+
