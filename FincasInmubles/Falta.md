@@ -1,30 +1,24 @@
-### Tasar el inmueble y redactar el anuncio
-
-El primer paso en esta aventura es tasar el inmueble y redactar el anuncio.
-
-XXX
-
-#### La tasación
-
-El primer paso es tasar la finca, para saber qué pros y contras tiene (descripción) y una estimación de sus atributos. 
-
-En esta parte puedes describirles el edificio que seguramente que ya conocen, pero que **no han visto de un punto de vista inmobiliario**. ¿Quién tiene tiempo de ver los detalles de marquetería de los ventanales góticos de la sala principal de un castillo mientras esquivas hechizos mortales lanzados por el anterior propietario? 
-
-Lo mejor es recorrerlo, **ver sus posibles problemas** (u oportunidades que todos sabemos lo que se escriben igual es chino) y que vayan pensando como arreglarlos. Además de lo que apunten durante el paseo visitando su nueva propiedad, deberás darle la **tasación oficial que constará de los 4 atributos del inmueble**.
-
-Es importante que se den cuenta de que sus actos tienen consecuencias y que hacer explotar las calderas de las cocinas para acabar con una horda de zombis con machetes carniceros repercutirá en sus futuros beneficios. Recuérdales que explorar mazmorras y matar enemigos es bueno, destruir el mobiliario y los elementos estructural es malo. Así que, si lo deseas, hazles un repaso de su aventura anterior recordándoles todas y cada una de las estupideces que cometieron. 
-
 #### Redactar el anuncio
 
 Una vez tus PJ tengan su tasación, habrá que poner un anuncio en los tablones de anuncios de los pueblos cercanos, difundirlo entre los pregoneros de la zona o incluso contratar a un médium para que le hable a los espíritus de la gran oferta que es vuestro cementerio. 
 
-Para empezar y queriendo ser puñeteros y cizañeros el anuncio solo podrá redactarlo quien sepa escribir y además conozca el idioma local del mundo de fantasía. Así que los bárbaros y guerreros iletrados que se abstengan de intentarlo, puede que el clérigo, bardo o mago del grupo escriban lo que diga el grupo o lo que ellos prefieran.
-
-XXX
+Para empezar y queriendo ser puñeteros y cizañeros el anuncio solo podrá redactarlo quien sepa escribir y además conozca el idioma local del mundo de fantasía.
 
 \sp
 
+Así que los bárbaros y guerreros iletrados que se abstengan de intentarlo, puede que el clérigo, bardo o mago del grupo escriban lo que diga el grupo o lo que ellos prefieran.
+
+Una vez escrito el anuncio (sí hay que coger lápiz y papel) el DJ podrá leerlo les podrá hacer una lista de las principales tareas de reparación u ocultación que tendrán que llevar a cabo para que su mazmorra se parezca mínimamente a su anuncio. Hablamos de cosas:
+
+* Limpiar la sangre o poner más sangre.
+* Sacar cadáveres o robar algunos del cementerio local y meterlos.
+* Pasar un limo ácido para que limpie todo y luego sacarlo o dejarlo, que un limo siempre decora mucho.
+* Acabar con plagas de ratas, cucarachas, etc. y cegar esos agujeros por las que salian.
+* Desactivar las trampas o ponerlas de nuevo a punto. 
+
 Si nadie sabe escribir ni conoce el idioma local, y eso puede pasar fácilmente, tendrán que recurrir a algún externo al grupo como el clérigo o el tabernero local, que puede poner lo que quiera según les caigan los PJ bien o mal. Sea como sea esto supondrá **un dado menos en las tiradas para atraer compradores**.
+
+Una vez redactado hay que darle publicidad, déjales que sean creativos y si son divertidos y ocurrentes dales dados extras en la tirada de atraer compradores que vemos a delante. Quizas un explorador quiere usar su compañero animal águila para tirar octavillas, o un artífice, haga unos fuegos artificiales que escriban "Se vende mazmorra" en el cielo nocturno. Tal vez, sea un buen momento de tirar de contactos y hacer un par de llamadas con la bola de cristal del mago. Y nunca está de más que el druida en forma animal haga malabares con un cartel de "En venta" en el camino cercano a vuestro inmueble.
 
 ### Adecentar la mazmorra y sacar cadáveres
 
@@ -38,6 +32,8 @@ En esta fase podrán decidir como arreglar los problemas o carencias que pudiera
 Si desean cambiar (subir o bajar) algún atributo, simplemente busca un problema estúpido y ponles a tratar de resolverlo. Si, por ejemplo, quieren mejorar su ubicación puedes decirles que quizas deban poner una queja en el ayuntamiento para que vuelvan a enterrar a los zombis del cementerio cercano que un nigromante borracho levantó en Año Nuevo. Podrías recordarles que esos zombis tiene familias y esas familias se mosquearán si decapitan a sus tatarabuelos.
 
 XXX
+
+\sp
 
 Este es un buen momento para gastar los tokens y meterles nuevos problemas al azar que les obliguen a hacer nuevas reparaciones o, cuando vengan las visitas, ocultarlas o a usar la «verdad».
 
@@ -56,6 +52,10 @@ Enseñar los inmuebles quizás sea la parte más complicada y divertida de la ve
 
 Lo importante de esta parte es, como en las anteriores, tus jugadores deberán usar sus habilidades de negociación y ventas para solventar los problemas. En el mundo inmobiliario el sajaraja no es aceptable, estás sajando y rajando a posibles clientes, tanto para vender como para comprar.
 
-Recuerda desde el humilde goblin al poderoso señor de la guerra enano necesitan un hogar y que casualidad que el hogar perfecto que buscan es tu inmueble.
+Recuerda que desde el humilde goblin al poderoso señor de la guerra enano necesitan un hogar y que casualidad que el hogar perfecto que buscan es tu inmueble.
+
+Pero lo primero es ver si la gente ha visto vuestro anuncio y está dispuesto a darle una oportunidad a vuestra casa. Para ello.
 
 XXX
+
+\sp

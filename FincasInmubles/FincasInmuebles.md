@@ -1,6 +1,6 @@
 \sinc
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 0.8](https://gwannon.itch.io/fincas-e-inmuebles)
+# Fincas & Inmuebles [Por Gwannon - Ver. 0.9](https://gwannon.itch.io/fincas-e-inmuebles)
 
 &nbsp;
 
@@ -299,9 +299,23 @@ Como ya hemos comentado antes, la aventura empieza cuando tus aventureros ~~masa
 
 **Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
 
-|Falta.md|
+### Tasar el inmueble y redactar el anuncio
 
-\sp
+El primer paso en esta aventura es tasar el inmueble y redactar el anuncio. Parece una tarea banal, pero tiene su gracia, sobre porque puede usarlo para ~~abroncar a tus jugadores con las cosas que hicieron terriblemente mal mientras explroaban la mazmorra que tan genialmente habías creado y que se cargó la partida~~ hacerles ver a tus jugadores los puntos de mejora en su forma de juego durante la exploración de la mazmorra, templo, castillo, ruinas, etc.
+
+#### La tasación
+
+El primer paso es tasar la finca, para saber qué pros y contras tiene (descripción) y una estimación de sus atributos. 
+
+En esta parte puedes describirles el edificio que seguramente que ya conocen, pero que **no han visto de un punto de vista inmobiliario**. ¿Quién tiene tiempo de ver los detalles de marquetería de los ventanales góticos de la sala principal de un castillo mientras esquivas hechizos mortales lanzados por el anterior propietario? 
+
+Lo mejor es recorrerlo, **ver sus posibles problemas** (u oportunidades que todos sabemos lo que se escriben igual es chino) y que vayan pensando como arreglarlos. Además de lo que apunten durante el paseo visitando su nueva propiedad, deberás darle la **tasación oficial que constará de los 4 atributos del inmueble**.
+
+Es importante que se den cuenta de que sus actos tienen consecuencias y que hacer explotar las calderas de las cocinas para acabar con una horda de zombis con machetes carniceros repercutirá en sus futuros beneficios.
+
+Recuérdales que explorar mazmorras y matar enemigos es bueno, destruir el mobiliario y los elementos estructural es malo. Así que, si lo deseas, hazles un repaso de su aventura anterior recordándoles todas y cada una de las estupideces que cometieron. 
+
+|Falta.md|
 
 #### Día de trampas desactivadas
 
@@ -328,11 +342,11 @@ Cada punto de diferencia entre la casa real y la soñada le dará un dado extra 
 
 Por su lado los jugadores, podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. También pueden hacer uso de las descripciones de los proveedores y de los inmuebles para ganar dados extras. Si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
 
+\sp
+
 Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
 
 Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Crédito del comprador.
-
-\sp
 
 Lo curioso es que perdiendo la tirada de Negociar puede que saques más dinero. Esto se debe a que en realidad el comprador tenía más crédito que el precio de la casa, así que te interesa tratar de averiguar si el Crédito es alto o bajo, y tratar de perder la tirada en vez de ganarla.
 
@@ -369,9 +383,9 @@ Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que
 
 Además, **cada truco viene con el atributo del inmueble** en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
 
-Los trucos **pueden adaptarse a cada situación si es necesario**. Por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
-
 \sp
+
+Los trucos **pueden adaptarse a cada situación si es necesario**. Por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
 
 #### Para PJ diestros
 
@@ -393,12 +407,12 @@ Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárb
 
 Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una ventaja importante.
 
-* **Su valor no deja de subir (Precio):** Si puedes apoyarlo con unos gráficos en papel que muestras unos segundos mucho mejor. No tiene por qué ser del precio de la vivienda, igual es cobro de impuestos o de la correlación entre el descenso de número de goblins y el aumento del precio de las salchichas. 
-* **Mi padre siempre decía que invirtiera en castillos (Espacio):** Te acercas al cliente le rodeas con tu brazo y se lo sueltas susurrándolo como si fuera un secreto familiar que nadie más conoce. Puede fallar con gente como los elfos que son muy celosos con su espacio personal o si no te has duchado en semanas, que también puede ser.
+* **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
 
 \sp
 
-* **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
+* **Su valor no deja de subir (Precio):** Si puedes apoyarlo con unos gráficos en papel que muestras unos segundos mucho mejor. No tiene por qué ser del precio de la vivienda, igual es cobro de impuestos o de la correlación entre el descenso de número de goblins y el aumento del precio de las salchichas. 
+* **Mi padre siempre decía que invirtiera en castillos (Espacio):** Te acercas al cliente le rodeas con tu brazo y se lo sueltas susurrándolo como si fuera un secreto familiar que nadie más conoce. Puede fallar con gente como los elfos que son muy celosos con su espacio personal o si no te has duchado en semanas, que también puede ser.
 
 #### Para PJ carismáticos
 
