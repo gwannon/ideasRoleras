@@ -54,7 +54,7 @@ if($argv[1] == 'FincasInmuebles') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: Fincas & Inmuebles\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 0.9\n\n";
+  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 1.0\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
