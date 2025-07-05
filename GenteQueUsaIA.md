@@ -57,6 +57,10 @@ Mucho de su último trabajo está ilustrado con IA.
 
 http://psilan.net/
 
+### SYAT
+
+https://syatrolworlds.itch.io/
+
 ### Rol o barbarie
 
 Su juego más famoso Bahía Gris usa imágenes de IA.
