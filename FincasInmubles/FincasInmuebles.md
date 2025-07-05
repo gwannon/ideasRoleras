@@ -385,7 +385,7 @@ En ese momento les llegarán al azar cada una de las visitas a no ser que hagan 
 
 La visita es muy sencilla y al mismo tiempo parte del meollo principal de la trama. Rolea una pequeña presentación con el comprador para que puedan tratar de pensar como es su casa soñada.
 
-A partir de ahí divide el inmueble en varias partes y en cada parte el comprador podrá tirar parar encontrar fallos que han sido ocultados o para encontrar otros nuevos y ellos deberán tratar de solucionarlos al vuelo, bien ocultándolos o usando la «verdad».
+A partir de ahí divide el inmueble en varias partes, el primero sería la vecindad. En cada parte el comprador podrá tirar parar encontrar fallos que han sido ocultados o para encontrar otros nuevos y ellos deberán tratar de solucionarlos al vuelo, bien ocultándolos o usando la «verdad».
 
 Recuerda que los tokens que consigas puedes ir gastándolo ya para meterle en más problemas.
 
@@ -410,13 +410,13 @@ Una vez que a base de reparar, ocultar y tergiversar la realidad, has convencido
 
 Para que se empiece a negociar la venta los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
 
-Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. Está claro que si el comprador no quiere babosas gigantes come-carne en su jardín, pues no las quiere y será más difícil negociar el precio.
+Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. También le dará dados extras cada problema que hayan encontrado y no haya podido solucionar tus PJ. Está claro que si el comprador no quiere babosas gigantes come-carne en su jardín, pues no las quiere y será más difícil negociar el precio.
 
 Por su lado los jugadores, podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. 
 
 \sp
 
-También pueden hacer uso de las descripciones de los proveedores y de los inmuebles para ganar dados extras. Si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
+También pueden hacer uso de las descripciones de los clientes y de los inmuebles para ganar dados extras. Si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
 
 Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
 

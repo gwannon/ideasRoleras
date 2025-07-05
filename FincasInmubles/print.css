@@ -35,7 +35,7 @@ body:after {
   top: 0px;
   right: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(./images/border2.png) top left repeat-y;
+  background: transparent url(./images/border2.png) top right repeat-y;
 }
 
 body > * {
