@@ -93,7 +93,7 @@ Por ejemplo, con la «verdad» una ponzoñosa mazmorra que habitada un liche con
 
 La «verdad» solo puede usarse cuando **el cliente descubre un problema** en alguno de los atributos de tu inmueble **haciendo una tirada de Observar**. Si detecta un defecto puedes tratar de arreglarlo (si es posible) o puedes distorsionar la realidad con la «verdad» y darle la vuelta al fallo.
 
-Para ello debes elaborar una excusa creíble y hacer una tirada Charlatanería o buscar la manera de esconder el fallo y hacer una tirada de Ocultar y sacar más éxitos que la tirada de Observar. Si lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.
+Para ello debes elaborar una excusa creíble y hacer una tirada Charlatanería o buscar la manera de esconder el fallo y hacer una tirada de Ocultar y sacar más éxitos que la tirada de Observar. Si lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador, de manera que se acerque a las estadísticas reales del inmueble.
 
 Estás vendiendo una torre fortificada al lado de una grieta interdimensional al infierno (Ubicación 1) y el grupo de clérigos legales buenos que buscan un nuevo refugio para su orden se dan cuentan de ello y te lo hacen notar. Los monjes quieren algo menos cerca del infierno (Ubicación 3) así que será difícil venderles la torre.
 
@@ -168,7 +168,7 @@ El DJ empieza la partida con 3 tokens al azar y puede usar los tokens para meter
 |2|Un aviso parece clavado en vuestra puerta, van a expropiar por 4 monedas de oro el inmueble para construir un orfanato.|
 |3|Los archivos municipales dicen que vuestro inmueble es un molino y un molino tiene que tener, buscaros la vida.|
 |4|La recalificación del terreno hace que parte de la finca sea terreno rural y debería tener un bosque.|
-|5|Nadie escapa de la muerte y los impuestos. Tal vez de la muerte sí, pero del montón de impuestos municipales que el anterior dueño dejo sin pagar no.|
+|5|Nadie escapa de la muerte y los impuestos. Tal vez de la muerte sí, pero no del montón de impuestos municipales que el anterior dueño dejo sin pagar.|
 |6|No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.|
 
 &nbsp;
@@ -240,15 +240,15 @@ Cuando hablamos de creación de personajes, deberíamos hablar de conversión de
 
 Lo primero es definir que profesión tenían antes de ser aventureros ~~(labradores, porqueros, cazarratas, …)~~ (terratenientes, criadores de ganado porcino, exterminadores de plagas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual. Esto nos dirá las tiradas de reparación que puede realizar. 
 
-Por ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».
+Por ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quién ha derramado y no miro a nadie».
 
-Tus personajes tienen 4 atributos y reparten 10 puntos con un mínimo de 1 y un máximo de 5. Si su personaje era fuerte, quizas reparar deba ser su mayor atributo. Si era diestro y furtivo, Ocultar. Carismático con charlatanería. Por último con poderes mágicos o inteligente, Arcano. 
+Tus personajes tienen 4 atributos y reparten 10 puntos con un mínimo de 1 y un máximo de 5. Si su personaje era fuerte, quizás reparar deba ser su mayor atributo. Si era diestro y furtivo, Ocultar. Carismático con charlatanería. Por último, con poderes mágicos o inteligente, Arcano. 
 
 ### Reparar
 
 Reparar no solo cubre cosas como carpintería o albañilería, cubre también cosas como trato con animales para sacar los enjambres de ciempiés y cucarachas de algunas salas. U Hortelano y puedes adecentar los jardines del castillo.
 
-Hay actividades genéricas como sacar cadáveres o limpiar chorretones de sangre, tuya o de tus enemigos casi siempre, que puede hacer cualquiera sin tener la profesión adecuada.
+Hay actividades genéricas como sacar cadáveres o limpiar chorretones de sangre, algunas veces tuya y casi siempre de tus enemigos, que puede hacer cualquiera sin tener la profesión adecuada.
 
 ### Charlatanería
 
@@ -264,17 +264,17 @@ Puedes que te encuentres con seres inmunes a la Charlatanería, como los ents, a
 
 ### Arcano
 
-Tu Arcano muestra lo bueno que eres aplicando la magia y/o los objetos mágicos en la venta de inmuebles. De hecho no tienes que ser lanzador de conjuros para tener un buen atributo Arcano. Un guerrero con una espada +1 puede que sepa usarla puede
+Tu Arcano muestra lo bueno que eres aplicando la magia y/o los objetos mágicos en la venta de inmuebles. De hecho, no tienes que ser lanzador de conjuros para tener un buen atributo Arcano. Un guerrero con una espada +1 puede que sepa usarla puede
 
 Los seres inmunes a la Charlatanería solo pueden ser ~~engañados~~ convencidos con el uso de las energías mágicas elementales del universo y si no, pues Bola de fuego y siguiente cliente.
 
-Hay reparaciones que solo pueden hacerse con Arcano como devolver un inmueble a nuestro plano, exorcizar moho fantasma o desatascar el agujero dimensional que usáis para lanzar la basura. No hay fontanero que pueda reparar que el demonio Gólgota que atasca los baños del templo de Kellogs, dios halfling de los productos ricos en fibra.
+Hay reparaciones que solo pueden hacerse con Arcano, como devolver un inmueble a nuestro plano, exorcizar moho fantasma o desatascar el agujero dimensional que usáis para lanzar la basura. No hay fontanero que pueda reparar que el demonio Gólgota que atasca los baños del templo de Kellogs, dios halfling de los productos ricos en fibra.
 
 ### Ocultar
 
 Si Charlatanería servía para esconder defectos bajo un montón de frases con poco sentido, Ocultar supone esconder los ~~terribles fallos~~ pequeños defectos de un inmueble bajo un montón de pintura, cemento, cuadros, etc. de la manera más barata posible.
 
-Cuando toca adecentar la casa, puedes repararla, cosa que cuesta dinero, u ocultar sus fallos que no suele costar nada. Con Ocultar podrás hacer todo tipo de trucos para que los defectos del inmueble no sean visibles. Quizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso. Tal vez, le pongas caretas a los árboles para convencer al druida de que son ents o les haces hablar con tus dotes de bardo ventrílocuo.
+Cuando toca adecentar la casa, puedes repararla, cosa que cuesta dinero, u ocultar sus fallos que no suele costar nada. Con Ocultar podrás hacer todo tipo de trucos para que los defectos del inmueble no sean visibles. Quizás pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso. Tal vez, le pongas caretas a los árboles para convencer al druida de que son ents o les haces hablar con tus dotes de bardo ventrílocuo.
 
 ### Toques finales
 
@@ -295,9 +295,9 @@ Por último, ponle nombre y esas cosas y que diseñe su propia casa soñada. La 
 
 Las aventuras que se van a jugar en F&I casi siempre tienen la misma estructura, pero cambian los actores y el inmueble. Así que vamos a ver la secuencia que sigue la venta. 
 
-Como preparación de la aventura lo primero sería crear el inmueble que van a vender (basándose en lo que haya terminado de jugar en su campaña habitual) y unos 3 o 4 clientes potenciales. Es algo tremendamente fácil y rápido, pero por si te falta inspiración, al final, tienes algunos ejemplos de clientes e inmuebles para que pilles el tono o que directamente puedes usar.
+Como preparación de la aventura, lo primero sería crear el inmueble que van a vender (basándose en lo que haya terminado de jugar en su campaña habitual) y unos 3 o 4 clientes potenciales. Es algo tremendamente fácil y rápido, pero por si te falta inspiración, al final, tienes algunos ejemplos de clientes e inmuebles para que pilles el tono o que directamente puedes usar.
 
-Como ya hemos comentado antes, la aventura empieza cuando tus aventureros ~~masacran a sus enemigos y algunos inocentes por el camino~~ terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos, los impuestos sobre el botín, las sanaciones y demás al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo final.
+Como ya hemos comentado antes, la aventura empieza cuando tus aventureros ~~masacran a sus enemigos y algunos inocentes por el camino~~ terminan su gran campaña y pasan a ser propietarios de la mazmorra del liche, el castillo del vampiro, la pirámide de la momia, etc. Con los gastos, los impuestos sobre el botín, las sanaciones y demás, al final no queda nada del tesoro y la única manera de sacar dinero es vender la guarida del malo final.
 
 **Y aquí empieza la aventura inmobiliaria de vuestros personajes.**
 
@@ -315,7 +315,7 @@ Lo mejor es recorrerlo, **ver sus posibles problemas** (u oportunidades que todo
 
 Es importante que se den cuenta de que sus actos tienen consecuencias y que hacer explotar las calderas de las cocinas para acabar con una horda de zombis con machetes carniceros repercutirá en sus futuros beneficios.
 
-Recuérdales que explorar mazmorras y matar enemigos es bueno, destruir el mobiliario y los elementos estructural es malo. Así que, si lo deseas, hazles un repaso de su aventura anterior recordándoles todas y cada una de las estupideces que cometieron. 
+Recuérdales que explorar mazmorras y matar enemigos es bueno, destruir el mobiliario y los elementos estructural es malo. Así que, si lo deseas, hazles un repaso de su aventura anterior, recordándoles todas y cada una de las estupideces que cometieron. 
 
 \sp
 
@@ -337,7 +337,7 @@ Una vez escrito el anuncio (sí hay que coger lápiz y papel) el DJ podrá leerl
 
 Si nadie sabe escribir ni conoce el idioma local, y eso puede pasar fácilmente, tendrán que recurrir a algún externo al grupo como el clérigo o el tabernero local, que puede poner lo que quiera según les caigan los PJ bien o mal. Sea como sea esto supondrá **un dado menos en las tiradas para atraer compradores**.
 
-Una vez redactado hay que darle publicidad, déjales que sean creativos y si son divertidos y ocurrentes dales dados extras en la tirada de atraer compradores que vemos a delante. Quizas un explorador quiere usar su compañero animal águila para tirar octavillas, o un artífice, haga unos fuegos artificiales que escriban «Se vende mazmorra» en el cielo nocturno. Tal vez, sea un buen momento de tirar de contactos y hacer un par de llamadas con la bola de cristal del mago. Y nunca está de más que el druida en forma animal haga malabares con un cartel de «En venta» en el camino cercano a vuestro inmueble.
+Una vez redactado hay que darle publicidad, déjales que sean creativos y si son divertidos y ocurrentes dales dados extras en la tirada de atraer compradores que vemos a delante. Tal vez un explorador quiere usar su compañero animal águila para tirar octavillas, o un artífice, haga unos fuegos artificiales que escriban «Se vende mazmorra» en el cielo nocturno. Tal vez, sea un buen momento de tirar de contactos y hacer un par de llamadas con la bola de cristal del mago. Y nunca está de más que el druida en forma animal haga malabares con un cartel de «En venta» en el camino cercano a vuestro inmueble.
 
 ### Adecentar la mazmorra y sacar cadáveres
 
@@ -352,7 +352,7 @@ Para ponerles en faena simplemente busca un problema estúpido de los del paso a
 
 \sp
 
-Si, por ejemplo, quieren mejorar su ubicación puedes decirles que quizas deban poner una queja en el ayuntamiento para que vuelvan a enterrar a los zombis del cementerio cercano que un nigromante borracho levantó en Año Nuevo. Podrías recordarles que esos zombis tiene familias y esas familias se mosquearán si decapitan a sus tatarabuelos.
+Si, por ejemplo, quieren mejorar su ubicación, puedes decirles que quizás deban poner una queja en el ayuntamiento para que vuelvan a enterrar a los zombis del cementerio cercano que un nigromante borracho levantó en Año Nuevo. Podrías recordarles que esos zombis tiene familias y esas familias se mosquearán si decapitan a sus tatarabuelos.
 
 Por cada problema deberán buscar una solución ingeniosa y usar sus habilidades de Reparar, Charlatanería, Arcano y Ocultar. Muchas veces será cosas tan sencillas como Reparar lo estropeado, pero otros problemas serán más complicados y exigirán superar tiradas también de Arcano, Ocultación y Charlatanería para superar cada parte del problema que les plantees.
 
@@ -369,7 +369,7 @@ Puede que algún evento generado por el uso de tokens les obligue a volver a est
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
 
-Enseñar los inmuebles quizás sea la parte más complicada y divertida de la venta, porque puede pasar de todo y casi siempre con humorístico resultado, sobre todo si el DJ usa sus tokens para generar eventos. Quizas tengan que ir a buscar a su posible comprador a la casita de chocolate de la bruja vecina, o tenéis una plaga de mímicos y cada vez que abrís un armario se comen a alguien.
+Enseñar los inmuebles quizás sea la parte más complicada y divertida de la venta, porque puede pasar de todo y casi siempre con humorístico resultado, sobre todo si el DJ usa sus tokens para generar eventos. Quizás tengan que ir a buscar a su posible comprador a la casita de chocolate de la bruja vecina, o tenéis una plaga de mímicos y cada vez que abrís un armario se comen a alguien.
 
 Lo importante de esta parte es, como en las anteriores, tus jugadores deberán usar sus habilidades de negociación y ventas para solventar los problemas. En el mundo inmobiliario el sajaraja no es aceptable, estás sajando y rajando a posibles clientes, tanto para vender como para comprar.
 
@@ -377,7 +377,7 @@ Recuerda que desde el humilde goblin al poderoso señor de la guerra enano neces
 
 Pero lo primero es ver si la gente ha visto vuestro anuncio y está dispuesto a darle una oportunidad a vuestra casa. Para ello lanza dos dados y suma 1 dado extra si fueron ingeniosos en el anuncio y en la forma de difundirlo. Cada éxito supone un cliente que quiera visitar el inmueble de los que preparaste.
 
-En ese momento les llegarán al azar cada una de las visitas a no ser que hagan un día de trampas desactivadas que como veremos más tarde hará que vengan todos el mismo día. Con cada visita dales una pequeña descripción de los compradores para que se preparen alguna cosilla o deshagan alguna reparación u ocultación. Quizas limpiaron el icor verde radioactivo del suelo y deberían volver a llenarlo todo para el alquimista loco.
+En ese momento les llegarán al azar cada una de las visitas a no ser que hagan un día de trampas desactivadas que como veremos más tarde hará que vengan todos el mismo día. Con cada visita dales una pequeña descripción de los compradores para que se preparen alguna cosilla o deshagan alguna reparación u ocultación. Tal vez limpiaron el icor verde radioactivo del suelo y deberían volver a llenarlo todo para el alquimista loco.
 
 \sp
 
@@ -385,7 +385,7 @@ En ese momento les llegarán al azar cada una de las visitas a no ser que hagan 
 
 La visita es muy sencilla y al mismo tiempo parte del meollo principal de la trama. Rolea una pequeña presentación con el comprador para que puedan tratar de pensar como es su casa soñada.
 
-A partir de ahí divide el inmueble en varias partes, el primero sería la vecindad. En cada parte el comprador podrá tirar parar encontrar fallos que han sido ocultados o para encontrar otros nuevos y ellos deberán tratar de solucionarlos al vuelo, bien ocultándolos o usando la «verdad».
+A partir de ahí divide el inmueble en varias partes, el primero sería la vecindad. En cada parte el comprador podrá tirar para encontrar fallos que han sido ocultados o para encontrar otros nuevos y ellos deberán tratar de solucionarlos al vuelo, bien ocultándolos o usando la «verdad».
 
 Recuerda que los tokens que consigas puedes ir gastándolo ya para meterle en más problemas.
 
@@ -393,7 +393,7 @@ Recuerda que los tokens que consigas puedes ir gastándolo ya para meterle en m�
 
 Si el anuncio falla (no hay ningún éxito) o lo prefieren hacer así por las risas, pueden organizar un día de trampas desactivadas, también conocido como día de puertas abiertas, donde la gente de las cercanías podrá ver el inmueble que quieres vender e informarse o incluso hacer ofertas.
 
-Lo normal es que crees un cliente por cada PJ y cada uno que se dedique a enseñar el inmueble a su cliente asignado como en el punto anterior. Durante esta visita pueden tratar de ver que clientes son los mejores y a cuales vender mejor la finca.
+Lo normal es que crees un cliente por cada PJ y cada uno que se dedique a enseñar el inmueble a su cliente asignado como en el punto anterior. Durante esta visita pueden tratar de ver qué clientes son los mejores y a cuáles vender mejor la finca.
 
 Es importante que recuerdes que las visitas son al mismo tiempo, con lo que afecte a uno de los clientes puede afectar a todos. Imagínate que un PJ oculta el río de lava a su cliente humano ocultando la puerta del sótano detrás de un armario. Esto hará que otro PJ que quiera enseñar a un cliente tiefling no pueda enseñarle el increíble SPA de lava fundida con el que cuenta esta mágica casa.
 
@@ -408,17 +408,17 @@ Chandalf, el mago loco de las gangas inmobiliarias
 
 Una vez que a base de reparar, ocultar y tergiversar la realidad, has convencido al alquimista loco de que el mausoleo perdido en el bosque que tenía un antiguo culto de violinistas satánicos es el lugar perfecto para trasladar su laboratorio de pociones, llega la hora de hablar de las monedas de oro.
 
-Para que se empiece a negociar la venta los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
+Para que se empiece a negociar la venta, los atributos del inmueble deberán ser los mismos que los de la casa soñada del comprador. En caso de no fueran iguales, se permite un máximo de 3 puntos de diferencia en Ubicación, Espacio y Corrupción. Si mi casa soñada tiene Ubicación 5, Espacio 3 y Corrupción 1 y la casa que me ofrecen Ubicación 3, Espacio 4 y Corrupción 3, hay 5 puntos de diferencia y no estará interesado. 
 
 Cada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio. También le dará dados extras cada problema que hayan encontrado y no haya podido solucionar tus PJ. Está claro que si el comprador no quiere babosas gigantes come-carne en su jardín, pues no las quiere y será más difícil negociar el precio.
 
-Por su lado los jugadores, podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. 
+Por su lado, los jugadores podrán usar sus trucos sucios de Precio para conseguir dados extras en la tirada de Negociar. 
 
 \sp
 
 También pueden hacer uso de las descripciones de los clientes y de los inmuebles para ganar dados extras. Si tus PJ hacen uso de esos aspectos, como DJ también puedes hacer uso de ellas y darles dados extras a tus compradores si hay partes de la descripción que pueden ayudarles.
 
-Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un negocio millonario excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
+Una vez con todos los dados en la mano por parte del DJ y del PJ con más Negociar (nadie pone al más inepto a negociar un trato millonario, excepto que los PJ vengan de un indie raro de esos), deberán hacer una tirada enfrentada.
 
 Si gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Crédito del comprador.
 
@@ -435,7 +435,7 @@ El final está cerca, de alguna manera tus PJ y el comprador harán el pago. Tal
 
 Puedes cerrar ya el trato o gastar tus últimos tokens en algún desastre que pueda mandar al traste el trato y que les mande a la casilla de salida. Eso ya es cosa tuya como DJ y de tu sádico sentido del humor.
 
-El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.
+El precio final pactado, puedes convertirlo en elementos del juego que prefiera. Por ejemplo, por un precio de 5 quizás te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno. Si eres como cogerás la caja sorpresa del tesoro aleatorio, pero hay gente que prefiere la pasta y gastarla como quiera.
 
 \sinc
 
@@ -466,13 +466,13 @@ Los trucos **pueden adaptarse a cada situación si es necesario**. Por ejemplo, 
 Hablamos de pícaros, exploradores, monjes, etc. gente que se basa en destreza y velocidad.
 
 * **Las trampas están recién revisadas (Ubicación o Espacio):** Lanzas a un compañero (algo indispensable) y ves como de las paredes salen hojas cortantes o flechas envenenadas que deberá esquivar para demostrar que todo funciona. Y terminas con un «Esto es lo que pasaría a un sucio aventurero que quisiera saquear su tumba».
-* **Esto es mejor que tener tus monedas de oro en el banco y no te lo pueden robar (Precio):** La verdad que si te pueden robar un inmueble o destruirlo que es igual que robarlo, pero tienes que recoger los restos. Al tema, si tú no lo dices nosotros tampoco.
+* **Esto es mejor que tener tus monedas de oro en el banco y no te lo pueden robar (Precio):** La verdad que si te pueden robar un inmueble o destruirlo que es igual que robarlo, pero tienes que recoger los restos. Al tema, si tú no lo dices, nosotros tampoco.
 * **Ya sabes como son estos sitios tan viejos:** Puedes usarlo, mientras tratas de hacer que funcione algo roto o hay algún defecto o tara debida al tiempo. Esta excusa sirve para cualquier atributo, pero tiene que ser en un inmueble muy viejo. Tal vez los jeroglíficos de tu pirámide tengan escenas eróticas fuera de lugar (puedes decir «un hombre salva a una mujer de caer al río Tigris») o haya una maldición grabada en la pared en rúnico que te convierte en pollo de goma si la lees.
 
 #### Para PJ fuertes
 
 Incluirían a personajes fuertes y resistentes, como guerreros, paladines, bárbaros, etc.
-* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
+* **Así entrenas el cardio:** Tras subir las escaleras de la torre del mago o subir la empinada cuesta que lleva al templo en las nubes, puedes usar este viejo truco si no estás echando los pulmones por la boca. Sirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico. Poco cardio va a entrenar un ser de luz extraplanar. 
 * **Esto es bueno bueno (Espacio):** Puedes coger algo y moverlo delante del cliente de un lado a otro para que no pueda cogerlo, mientras dices «Toca, toca. Esto es bueno bueno». 
 * **Tú tira con fuerza que al final abre (Espacio):** Golpeas o tiras con fuerza algo atrancado como una puerta y dices «Está un poco duro, pero se aflojará con el tiempo».
 * **La ley me obliga a decirle que aquí ha muerto gente (Corrupción):** Como mínimo los que mataste tú, pero eso no estás obligado a contarlo. Lo bueno es que distrae al cliente, mientras esconder algún cadáver debajo de una cama o dentro de una despensa.
@@ -485,7 +485,7 @@ Hablamos de magos y alquimistas y otras profesiones donde ser inteligente es una
 
 * **Hay que comprar con cabeza:** Puedes usar este truco en cualquier situación y con cualquier atributo. Golpeas tu sien con tu dedo índice y sueltas un «Hay que comprar con cabeza», pero, si fallas la tirada, el DJ se lleva un token del color del atributo adecuado. No puede ser utilizado con clientes sin cabeza, como fantasmas decapitados, cubos gelatinosos inteligentes y con línea de crédito (si eso existe), seres de energía/luz o cosas similares. 
 * **Su valor no deja de subir (Precio):** Si puedes apoyarlo con unos gráficos en papel que muestras unos segundos mucho mejor. No tiene por qué ser del precio de la vivienda, igual es cobro de impuestos o de la correlación entre el descenso de número de goblins y el aumento del precio de las salchichas. 
-* **Mi padre siempre decía que invirtiera en castillos (Espacio):** Te acercas al cliente le rodeas con tu brazo y se lo sueltas susurrándolo como si fuera un secreto familiar que nadie más conoce. Puede fallar con gente como los elfos que son muy celosos con su espacio personal o si no te has duchado en semanas, que también puede ser.
+* **Mi padre siempre decía que invirtiera en castillos (Espacio):** Te acercas al cliente, le rodeas con tu brazo y se lo sueltas susurrándolo como si fuera un secreto familiar que nadie más conoce. Puede fallar con gente como los elfos que son muy celosos con su espacio personal o si no te has duchado en semanas, que también puede ser.
 
 #### Para PJ carismáticos
 
@@ -659,7 +659,7 @@ No sabrán negociar, los cabrones, pero te ponen esos ojillos de cachorro grande
 
 \sc
 
-Llevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido. Necesitas un cambio, tiene que haber algo más que levantar no-muertos y liderar ejercitos de ellos. Llega un momento en que te aburres de abrir las puertas del más-allá.
+Llevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido. Necesitas un cambio, tiene que haber algo más que levantar no-muertos y liderar ejércitos de ellos. Llega un momento en que te aburres de abrir las puertas del más-allá.
 
 Así que te fuiste a la sección de autoayuda de la gran biblioteca de la Universidad Invisible y te sacaste un libro de un tal Benito Gamyi titulado «Mejora tu vida mejorando tu agujero hobbit».
 
