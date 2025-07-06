@@ -57,3 +57,18 @@
 {"rule":"ACTUAL","sentence":"^\\QLo primero es definir que profesión tenían antes de ser aventureros (labradores, porqueros, cazarratas, …) (terratenientes, criadores de ganado porcino, exterminadores de plagas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual.\\E$"}
 {"rule":"FORM","sentence":"^\\QParece una tarea banal, pero tiene su gracia, sobre porque puede usarlo para abroncar a tus jugadores con las cosas que hicieron terriblemente mal mientras exploraban la mazmorra que tan genialmente habías creado y que se cargó la partida hacerles ver a tus jugadores los puntos de mejora en su forma de juego durante la exploración de la mazmorra, templo, castillo, ruinas, etc.\\E$"}
 {"rule":"FORM","sentence":"^\\QY nunca está de más que el druida en forma animal haga malabares con un cartel de «En venta» en el camino cercano a vuestro inmueble.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYou’re the Devil in Disguise\\E$"}
+{"rule":"FORM","sentence":"^\\QAun así no abandonara su forma «trash».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVisitando la APCHUM\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe hecho puede presentar cuentas de que llevan meses ayudando a la asociación de protección y conservación de los humedales «APCHUM».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPintada vanpiro esiten\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPsicólogo «new age».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIt’s Now or Never\\E$"}
+{"rule":"PRESENT","sentence":"^\\QLa difunta está de cuerpo presente y ninguna ha visto nunca un muerto.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QJailhouse Rock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFront view young female dj entertaining crowd by Freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIn love with a Vampire By cylonka\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHigh angle dj woman at control panel by Freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPro gamer participating in gaming competition all night by DC Studio\\E$"}

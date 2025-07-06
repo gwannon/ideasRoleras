@@ -1025,6 +1025,8 @@ Aun así lo importante no es evitar el derrame o el derribo, lo _importante es t
 
 |PorHacerDos.md|
 
+\sp
+
 ### La caída del Grupo Ceballos
 
 El paso lógico a seguir con todo lo que saben tus cazadoras es denunciar las ilegalidades del grupo Ceballos y que el peso de la justicia caiga sobre la corporación.
@@ -1038,8 +1040,6 @@ A estas alturas deberían conocer a Catalina y saber que es de fiar. Está claro
 Catalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas. Tus cazadoras pueden darle todo eso acompañado de pruebas si es que se han molestado en recogerlas.
 
 Tus cazadoras pueden demostrar que el grupo Ceballos está detrás de la muerte de la Maricarmen Lujua para conseguir el voto del concejal Ernesto Lujua. Si pueden completar esto con otras actividades como que son responsables del derribo del estadio o del vertido tóxico en los humedales, podrán montar un caso contra la corporación. Si tienen pruebas de que metían droga en el barrio u otras actividades criminales, mucho mejor.
-
-\sp
 
 Si tus cazadoras no quieren acudir a Catalina, Catalina acudirá a ellas. Seguramente que las haya visto en algún vídeo de internet y querrá interrogarlas para empezar a crear un caso contra el Grupo Ceballos. De modo que las buscará y las entrevistará. Es en ese momento en que debería ganarse su confianza si no la tenía.
 
@@ -1057,6 +1057,8 @@ Catalina ya tiene toda la causa contra el grupo Ceballos y solo necesita ir a lo
 
 La primera tarea será que tus cazadoras busquen la manera de quedarse el fin de semana con Catalina y poder protegerla. En principio podrían intentar montar una especie de pijamada con Catalina. 
 
+\sp
+
 Catalina es muy mayor para estos temas, pero pueden planteárselo como alguna convivencia/quedada donde Catalina les explique temas importantes de feminismo, racismo y/o anticapitalismo en algún centro social del barrio.
 
 Pueden tratar de pasar el finde en alguna sede de alguna organización con la que colabora Catalina. Otra opción, si tienen dinero, es que contraten algún tipo habitación de hotel o similar donde pasar el sábado y domingo. Es mucho más seguro, sobre todo, si lo haces a escondidas, pero exige dinero y tendrán que tener una buena excusa para convencer a Catalina. 
@@ -1066,9 +1068,6 @@ En ambos casos los vampiros no necesitarán pedir permiso para entrar. Pero ser�
 Durante esas 48 horas deberían sufrir por los menos dos intentos de secuestro/asesinato de Catalina, uno de noche con agentes vampíricos y otro de día. Estas pueden ser algunas ideas para el día:
 
 * La opción más simple sería una entrada a la fuerza en el local con trajes negros y pasamontañas y una furgoneta en la puerta para secuestrar a Catalina.
-
-\sp
-
 * Gente disfrazada de policía podrían intentar entrar en el local por avisos de ruidos extraños, música alta, gritos de ayuda, … No será una pelea, pero si consiguen engañar a tus cazadoras y llevarse a Catalina esposada, no la volverán a ver.
 * Si piden comida a domicilio, porque tendrán que comer en algún momento de las 48 horas, los sicarios de Nieve se podrían hacer pasar por repartidores para colarse dentro del local y atacar. Como solo puede entrar uno, sería un pequeño caballo de Troya que investiga el lugar y saca info o facilita la entrada de otros dejando alguna puerta abierta o similar. Incluso podría dejar alguna cámara espía o micrófonos.
 * Intentar algún tipo de distracción como fuegos o escapes de gas, generaría un caos tan grande que podría servir para llevarse a Catalina. No deberían perderla de vista mientras los bomberos y protección civil hacen lo suyo.
@@ -1084,6 +1083,9 @@ Puedes usar a Verónica y Alfonse como ejemplos de vampiros o también algo más
   * **Complicación:** Muy novate
   * Brutal
   * Sin conciencia
+
+\sp
+
 * **Estilos:** Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Mediocre (+0), Llamativo Mediocre (+0), Rápido Bueno (+2), Vigoroso Grande (+3) 
 * **Proezas**
   * **Sed de sangre:** Su parte animal y su sed de sangre le posee más que al resto de chupasangres, de manera que consigue un +2 a Atacar de forma Vigorosa a humanos que puedan ser sus presas.
@@ -1096,8 +1098,6 @@ Puedes usar a Verónica y Alfonse como ejemplos de vampiros o también algo más
 Para los agentes vampíricos, puedes poner algún vampiro noob con las características de Alfonse o Verónica que estén sirviendo a Nieve en otras partes del plan.
 
 Para agentes mortales, usa un gran número siervos humanos con características como los polis corruptos de la comisaría de policía del barrio, «el cripi» o los bedeles que sirven a Verónica.
-
-\sp
 
 Seguramente el local donde pasen el fin de semana no será el lugar más seguro, pero hay algunas medidas de seguridad que pueden implementar tus cazadoras que podrían darles ventaja durante los ataques.
 
@@ -1113,6 +1113,8 @@ A las 8:30 de la mañana, cuando abra el registro municipal, Catalina entrará y
 
 Tus cazadoras pueden ir con ella como guardaespaldas o seguirla en la distancia vigilando que nadie sospechoso se le acerque con malas intenciones. Sea como sea, nadie molestará a Catalina mientras pone las denuncias. A pleno día y en sitios públicos no sería buena idea. 
 
+\sp
+
 Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
 
 Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
@@ -1124,8 +1126,6 @@ Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda
 En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad. Lanzará terribles aullidos 
 
 Empezará a recorrer el barrio como algún tipo de bestia salvaje que ira atacando a los peatones. La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
-
-\sp
 
 Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas».
 
