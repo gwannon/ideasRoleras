@@ -169,7 +169,7 @@ Si intentan entrar, el portero no les dejará entrar. Es ilegal la entrada de me
 
 ###  El piso de Maricarmen
 
-El piso de Maricarmen es un ático y la única forma de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra manera, si desean entrar. La amable anciana que era vecina de Maricarmen tiene una copia de las llaves, pero se la dio a la policía para entrar en la casa. Se lo contará encantado a las cazadoras si la llaman a la puerta y si le dejan hablar y le aguantan la chapa les dirá que dejaron las llaves en el buzón al irse para los familiares.
+El piso de Maricarmen es un ático y la única manera de entrar sin llaves, como es el caso, sería subir al tejado por una claraboya y descolgarse al balcón (tirada normal +1). Es bastante peligroso, pero no hay otra manera, si desean entrar. La amable anciana que era vecina de Maricarmen tiene una copia de las llaves, pero se la dio a la policía para entrar en la casa. Se lo contará encantado a las cazadoras si la llaman a la puerta y si le dejan hablar y le aguantan la chapa les dirá que dejaron las llaves en el buzón al irse para los familiares.
 
 El piso está bien amueblado y con muebles modernos de calidad, no de Ikea. Hay una cocina moderna, un salón con un sofá comodísimo, una habitación con una cama grandísima y una segunda habitación con material de pintura, madejas de lana y agujas y otros hobbies. 
 
@@ -598,7 +598,7 @@ Recuerda también que Verónica está creando muchos problemas en los centros de
 
 Tanto si les atienda a ellas como si atiende a algún pariente, tus cazadoras podrán ver que no lleva nada bien el olor ajo que seguramente les impregna a ellas y a su ropa o no ven con buenos ojos los objetos de cazadoras que porten.
 
-Deberían tener ya formas de ver si es una vampira, y deberán ingeniárselas para aplicarlas con Verónica sin que se dé cuenta.
+Deberían tener ya maneras de ver si es una vampira, y deberán ingeniárselas para aplicarlas con Verónica sin que se dé cuenta.
 
 Si necesitan excusas para ir al hospital con asiduidad, pueden apuntarse a programas de acompañamiento de mayores solos, o quizás tengan una amiga en la planta de oncología, por poner unos ejemplos. __Sé respetuoso con estos temas y respeta las__ __decisiones de la mesa si no están cómodos.__
 

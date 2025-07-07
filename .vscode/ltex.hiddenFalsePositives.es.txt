@@ -72,3 +72,24 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIn love with a Vampire By cylonka\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHigh angle dj woman at control panel by Freepik\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPro gamer participating in gaming competition all night by DC Studio\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamp it up By NanFe\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWide shot of a modern and busy city with dark clouds and orange sky by wisetock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFoto de llama por wisetock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSticker Cinderella running by Elizabeth\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVersatile Red Swiss Army Knife by brgfx\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPegatina Roller Derby Girl By malvarisco21\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIn the Ghetto\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlways on My Mind\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi siguen alguna de estas pistas, deberían encaminarse a alguno de los centros de distribución de drogas de Néstor y puedes pasar al siguiente capítulo «Burning Love».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPsicólogo «new age»\nBueno (+2) en:\\E$"}
+{"rule":"CARPET","sentence":"^\\QCarpeta de documentos: hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHosts of Angband By SpartanK42\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLight from an open door by rawpixel.com\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDorcha By sokoistrying\\E$"}
+{"rule":"SPACE_UNITIES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCOMMISSION Cheelu By aeeriz\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHexerei, Clan Ventrue By IvanValladares\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOndolemar doodle By Elleylie\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPainting sketch By ArthurHenri\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}

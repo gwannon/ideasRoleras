@@ -308,7 +308,7 @@ Sabe mantener encerrados sus demonios mientras está gente normal, aunque a la m
 
 Es muchos sentidos, es más bestia que persona. Con los años esa bestia ha ido saliendo al exterior y aunque conserva aspecto humano tiene ya algunos rasgos animales incluso en forma crush. Ojos reflectantes como los gatos, colmillos más pronunciados aunque los tenga retraídos, orejas puntiagudas, etc. 
 
-Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará en la partida es que sabe que es un monstruo y no trata de reprimirlo, ni tratará de pedir perdón, ni de arrepentirse. Nunca bajo ningún concepto se arrepentirá de lo que ha hecho, sino que siempre estará orgulloso de ello, aunque este frente a la muerte definitiva cuando salga el sol (la forma más dolorosa de morir para un vampiro).
+Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará en la partida es que sabe que es un monstruo y no trata de reprimirlo, ni tratará de pedir perdón, ni de arrepentirse. Nunca bajo ningún concepto se arrepentirá de lo que ha hecho, sino que siempre estará orgulloso de ello, aunque este frente a la muerte definitiva cuando salga el sol (la manera más dolorosa de morir para un vampiro).
 
 * **Aspectos**
   * **Concepto principal:** Fiel siervo vampiro
