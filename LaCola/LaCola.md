@@ -2,9 +2,9 @@
 
 **El juego de rol de hacer colas para jugar mientras haces una cola.**
 
-En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de un actriz famosa o lo peor, de un influencer de internet.
+En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de un influencer de internet.
 
-Para jugar necesitarás, papel, lapiz y dados d12 y d6.
+Para jugar necesitarás, papel, lápiz y dados d12 y d8.
 
 ## Creación de tu FLJ
 
@@ -13,11 +13,11 @@ Tu fan loco jugable (FLJ) va a tener 4 habilidades entre las que repartirá un +
 * **Barditud:** sirve para negociar, encandilar o embaucar a otras personas de la cola.
 * **Wikitud:** representa tus conocimientos wikipédicos de lo que eres fans. También sirve para tasar objetos, detectar falsificaciones y falsos fans que solo quieren la firma para venderla.
 * **Ninjitud:** sirve para moverte sin ser visto, robar, juegos de manos, en general todo lo delictivo dentro de la cola.
-* **Cuerpitud:** representa tus capacidades físicas, como lo que puedes levantar o lo rápido que te mueves. También representa tu resistencia a frío, calor, sed, hambre, ...
+* **Cuerpitud:** representa tus capacidades físicas, como lo que puedes levantar o lo rápido que te mueves. También representa tu resistencia a frío, calor, sed, hambre, …
 
 Aparte podrás escoger **2 piezas de equipo** que te darán capacidades especiales y **4 objetos que quieres que te firmen**. No sois muy listos y os habéis preocupado más de que os van a firmar y menos de que vais a necesitar en las largas horas de cola.
 
-Los objetos para firmar (comics, libros, postérs, etc.) funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma. Además, podrán ser usados en los tratos y negociaciones que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
+Los objetos para firmar (comics, libros, pósteres, etc.) funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma. Además, podrán ser usados en los tratos y negociaciones que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
 
 Por último tienes un **contador de Desesperación** que empieza en 0 y que representa lo loco y desesperado que te vas volviendo al hacer una interminable cola. 
 
@@ -35,20 +35,20 @@ En caso de que no haya otro grupo al que enfrentarte, como en tiradas de hambre 
 
 Cada tirada que falles, sumará 1 punto a Desesperación y cada tirada de pases, restará 1 punto. No se puede tener menos de 0.
 
-Cuando la Desesperación llega a 10, pierdes toda esperanza y abandonas la fila. El DJ puede dejarte hacer un último acto desesperado que puede ir desde quitarte la ropa y correr desnudo imitando a una gallina para distraer a todos y que tus colegas se cuelen a coger carrerilla y saltarte la valla de seguridad intentando llegar hasta el autor para que te estampe su firma en tu pecho.
+Cuando la Desesperación llega a 10, pierdes toda esperanza y abandonas la fila. El DJ puede dejarte hacer un último acto desesperado. Puede ir desde quitarte la ropa y correr desnudo imitando a una gallina para distraer a todos y que tus colegas se cuelen a coger carrerilla y saltarte la valla de seguridad intentando llegar hasta el autor para que te estampe su firma en tu pecho.
 
 ## Equipo
 
 El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a alguna habilidad en alguna situación especial. 
 
-* **Silla plegable.** Te proporcionará descanso y algo de comfort. __Te hace inmune a cansancio y sueño.__
-* **Saco de dormir.** Perfecto para pasar la noche calentito y cómodo. __Te hace inmune a sueño y frio.__
-* **Ganchitos y patatas fritas.** la base de tu alimentación de fan y lo único que se te ha ocurrido coger en el supermercado de camino a la firma. __Te hace inmune a hambre y puede usarse en tratos como un objeto firmable.__
+* **Silla plegable.** Te proporcionará descanso y algo de confort. __Te hace inmune a cansancio y sueño.__
+* **Saco de dormir.** Perfecto para pasar la noche calentito y cómodo. __Te hace inmune a sueño y frío.__
+* **Ganchitos y patatas fritas.** La base de tu alimentación de fan y lo único que se te ha ocurrido coger en el supermercado de camino a la firma. __Te hace inmune a hambre y puede usarse en tratos como un objeto firmable.__
 * **Botellones de agua y refrescos.** Os mantendrán hidratados y cuando se acaben podrán usarse para mear dentro. __Te hace inmune a sed y mear.__
-* **Cosplay adecuado a la temática de la cola:** Literalmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer. __Te da un bono de +1 a Frikitud cuando haces duelos y te hace inmune a algo a tu elección. La inmunidad debe estar relacionada con el disfraz, un disfraz de wookie te hace inmune al frío.__
-* **Cosplay NO adecuado a la temática de la cola:** Como el anterior pero de un frikismo erroneo, como ir a una convención de Star Wars con un pijama de Spock. __Te da inmunidad a dos peligros cualesquiera, pero te da un penalizador de -1 a Frikitud. Como en el item de equipo anterior, la inmunidad debe estar relacionada con el disfraz.__
+* **Cosplay adecuado a la temática de la cola:** Literalmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer. __Te da un bono de +1 a Wikitud cuando haces duelos y te hace inmune a algo a tu elección. La inmunidad debe estar relacionada con el disfraz, un disfraz de wookie te hace inmune al frío.__
+* **Cosplay NO adecuado a la temática de la cola:** Como el anterior pero de un frikismo erróneo, como ir a una convención de Star Wars con un pijama de Spock. __Te da inmunidad a dos peligros cualesquiera, pero te da un penalizador de -1 a Wikitud. Como en el ítem de equipo anterior, la inmunidad debe estar relacionada con el disfraz.__
 
-Puedes usar este equipamiento como ejemplo para crear tus propios items de equipo.
+Puedes usar este equipamiento como ejemplo para crear tus propios ítems de equipo.
 
 ## Duelos de frikitud
 
@@ -60,9 +60,9 @@ En «La cola» no hay aventuras hay colas. Cada cola es única y especial y tien
 
 Para empezar hay que definir quién firma y que tipo de frikismo va a haber en la cola. Aquí cabe de todo, desde starfans, trekkies, potterheads, etc. hasta lectores de libros de Sherlock Holmes, seguidores de Trump o imitadores de Elvis.
 
-Seguidamente, debes definir su dificultad con relojes de X sectores 3, sería muy fácil y más 10 muy imposible. Los sector puede significar cosas distintas desde horas o noches de espera a gente por delante tuyo hasta llegar a estar dentro de los 50 primeros a los que forman. 
+Seguidamente, debes definir su dificultad con relojes de X sectores. 3 sería muy fácil y más 10 muy difícil. Los sectores puede significar cosas distintas desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
 
-Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar  un sector.
+Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un sector.
 
 Cuando tachen todos los sectores estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 

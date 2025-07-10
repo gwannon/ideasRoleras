@@ -93,3 +93,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOndolemar doodle By Elleylie\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPainting sketch By ArthurHenri\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCuerpitud: representa tus capacidades físicas, como lo que puedes levantar o lo rápido que te mueves.\\E$"}
+{"rule":"CARTOON","sentence":"^\\QLiteralmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer.\\E$"}
