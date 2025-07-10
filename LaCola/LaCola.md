@@ -50,10 +50,6 @@ El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a
 
 Puedes usar este equipamiento como ejemplo para crear tus propios ítems de equipo.
 
-## Duelos de frikitud
-
-Los dueños de frikitud son duelos en los que se demuestra quien es más fan entre dos personas que hacen cola. XXX
-
 ## Creando la cola
 
 En «La cola» no hay aventuras hay colas. Cada cola es única y especial y tiene sus propias reglas, pero el premio siempre es el mismo la deseada firma.
@@ -98,11 +94,11 @@ Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y ti
 |1|Uberfriki|XXX|XXX|
 |2|Madre/Padre con 1d6 menores a su cargo|XXX|Problemas de vejiga, colon irritable|
 |3|Cazafirmas profesional|XXX|XXX|
-|4|Fan con disfraz cutre|XXX|XXX|
+|4|Fan con disfraz cutre|Abuela que te trae tapers|XXX|
 |5|Alguien exactamente igual que uno de los FLJ|XXX|XXX|
-|6|Señora o señor mayor que se ha equivocado de fila|XXX||
+|6|Señora o señor mayor que se ha equivocado de fila|XXX|XXX|
 |7|Fan muy bien disfrazado|XXX|XXX|
-|8|XXX|XXX|XXX|
+|8|Espera colas a sueldo|XXX|XXX|
 
 #### Avanzar en la cola y defender tu sitio
 
