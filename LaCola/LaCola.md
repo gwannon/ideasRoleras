@@ -39,9 +39,7 @@ Cuando la Desesperación llega a 10, pierdes toda esperanza y abandonas la fila.
 
 ## Equipo
 
-XXX
-
-El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a algún atributo en alguna situación especial.
+El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a alguna habilidad en alguna situación especial. 
 
 * **Silla plegable.** Te proporcionará descanso y algo de comfort. __Te hace inmune a cansancio y sueño.__
 * **Saco de dormir.** Perfecto para pasar la noche calentito y cómodo. __Te hace inmune a sueño y frio.__
@@ -49,6 +47,8 @@ El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a
 * **Botellones de agua y refrescos.** Os mantendrán hidratados y cuando se acaben podrán usarse para mear dentro. __Te hace inmune a sed y mear.__
 * **Cosplay adecuado a la temática de la cola:** Literalmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer. __Te da un bono de +1 a Frikitud cuando haces duelos y te hace inmune a algo a tu elección. La inmunidad debe estar relacionada con el disfraz, un disfraz de wookie te hace inmune al frío.__
 * **Cosplay NO adecuado a la temática de la cola:** Como el anterior pero de un frikismo erroneo, como ir a una convención de Star Wars con un pijama de Spock. __Te da inmunidad a dos peligros cualesquiera, pero te da un penalizador de -1 a Frikitud. Como en el item de equipo anterior, la inmunidad debe estar relacionada con el disfraz.__
+
+Puedes usar este equipamiento como ejemplo para crear tus propios items de equipo.
 
 ## Duelos de frikitud
 
@@ -60,7 +60,11 @@ En «La cola» no hay aventuras hay colas. Cada cola es única y especial y tien
 
 Para empezar hay que definir quién firma y que tipo de frikismo va a haber en la cola. Aquí cabe de todo, desde starfans, trekkies, potterheads, etc. hasta lectores de libros de Sherlock Holmes, seguidores de Trump o imitadores de Elvis.
 
-XXX
+Seguidamente, debes definir su dificultad con relojes de X sectores 3, sería muy fácil y más 10 muy imposible. Los sector puede significar cosas distintas desde horas o noches de espera a gente por delante tuyo hasta llegar a estar dentro de los 50 primeros a los que forman. 
+
+Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar  un sector.
+
+Cuando tachen todos los sectores estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 
 ### Las reglas de la cola
 
@@ -100,18 +104,20 @@ Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y ti
 |7|Fan muy bien disfrazado|XXX|XXX|
 |8|XXX|XXX|XXX|
 
-#### Avanzar en la cola
+#### Avanzar en la cola y defender tu sitio
 
 XXX
 
 ### Otros peligros de la cola
 
-Como DJ, cuando creas conveniente puedes sacar alguno de estos peligros a los que deberán enfrentarse los FLJ.
+Como DJ, cuando creas conveniente o, si quieres mecanizarlo, cuando la Desesperación total de todos los FLJ sea múltiplo de 3, puedes sacar alguno de estos peligros típicos de cola a los que deberán enfrentarse los FLJ. El peligro puede afectar a todos, como el calor, o a un FLJ en concreto, como una vejiga débil. 
 
-* **Cansancio:** XXX
-* **Sueño:** XXX
-* **Hambre:** XXX
-* **Sed:** XXX
-* **Mear:** XXX
-* **Cagar:** XXX
-* **Mal tiempo:** No es un único peligro. Puede venir en varios formatos, como calor, frío, lluvia, etc. XXX
+* **Cansancio.**
+* **Sueño.**
+* **Hambre.**
+* **Sed.**
+* **Mear.**
+* **Cagar.**
+* **Mal tiempo:** No es un único peligro. Puede venir en varios formatos, como calor, frío, lluvia, etc.
+
+Recuerda que estos peligros no son simples tiradas, tendrán, por ejemplo, que buscar algo que beber si tienen sed e igual tienen que intercambiar un objeto firmable por un refresco con los delante.
