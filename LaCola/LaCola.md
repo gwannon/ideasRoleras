@@ -1,22 +1,25 @@
-# La Cola
+# La Cola [por Gwannon](https://gwannon.itch.io/la-cola)
 
-El juego de rol de hacer colas para jugar mientras haces una cola.
+**El juego de rol de hacer colas para jugar mientras haces una cola.**
 
-En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de una influencer de internet.
+En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de un actriz famosa o lo peor, de un influencer de internet.
+
+Para jugar necesitarás, papel, lapiz y dados d12 y d6.
 
 ## Creación de tu FLJ
 
-Tu fan loco jugable (FJ) va a tener 3 habilidades entre las que repartirá un +3, +2 y 0.
+Tu fan loco jugable (FLJ) va a tener 4 habilidades entre las que repartirá un +3, +2, +1 y 0.
 
 * **Barditud:** sirve para negociar, encandilar o embaucar a otras personas de la cola.
-* **Wikitud:** representa tus conocimientos wikipédicos son lo que sois fans. También sirve para tasar objetos, detectar falsificaciones y falsos fans que solo quieren la firma para venderla.
+* **Wikitud:** representa tus conocimientos wikipédicos de lo que eres fans. También sirve para tasar objetos, detectar falsificaciones y falsos fans que solo quieren la firma para venderla.
 * **Ninjitud:** sirve para moverte sin ser visto, robar, juegos de manos, en general todo lo delictivo dentro de la cola.
+* **Cuerpitud:** representa tus capacidades físicas, como lo que puedes levantar o lo rápido que te mueves. También representa tu resistencia a frío, calor, sed, hambre, ...
 
-Aparte podrás escoger **2 piezas de equipo** que te darán capacidades especiales y **4 objetos que quieren que te firmen**. No sois muy listos y os habéis preocupado más de que os van a firmar y menos de que vais a necesitar en las largas horas de cola.
+Aparte podrás escoger **2 piezas de equipo** que te darán capacidades especiales y **4 objetos que quieres que te firmen**. No sois muy listos y os habéis preocupado más de que os van a firmar y menos de que vais a necesitar en las largas horas de cola.
 
-Los objetos para firmar podrán ser usados como dinero en los tratos que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
+Los objetos para firmar (comics, libros, postérs, etc.) funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma. Además, podrán ser usados en los tratos y negociaciones que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
 
-También funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma.
+Por último tienes un **contador de Desesperación** que empieza en 0 y que representa lo loco y desesperado que te vas volviendo al hacer una interminable cola. 
 
 ## Reglas
 
@@ -24,13 +27,91 @@ Las tiradas son fáciles. Para empezar todas son enfrentadas, ya que solo tendr�
 
 Se tira un 1d12 y se le suma la habilidad correspondiente y se compara con la tirada del grupo con el que interactúas. En caso de empate gana siempre el otro grupo.
 
+Si tus FLJ tiene buenas ideas a la hora de enfrentarse a los retos que implican tiradas puedes darles ventaja que supone tirar 2d12 y quedarse con el resultado que quieran. Usar los objetos firmables en las tiradas también da ventaja. Como usar esos objetos puede ser muy variable desde meterlo como parte de los tratos hasta lanzarlos al aire para distraer a la gente mientras te cuelas.
+
+### La Desesperación
+
+En caso de que no haya otro grupo al que enfrentarte, como en tiradas de hambre o calor, la tirada enfrentada será contra tu Desesperación. Tú harás tu tirada normal y el DJ tirará 1d12 y le sumará tu Desesperación.
+
+Cada tirada que falles, sumará 1 punto a Desesperación y cada tirada de pases, restará 1 punto. No se puede tener menos de 0.
+
+Cuando la Desesperación llega a 10, pierdes toda esperanza y abandonas la fila. El DJ puede dejarte hacer un último acto desesperado que puede ir desde quitarte la ropa y correr desnudo imitando a una gallina para distraer a todos y que tus colegas se cuelen a coger carrerilla y saltarte la valla de seguridad intentando llegar hasta el autor para que te estampe su firma en tu pecho.
+
 ## Equipo
 
-* Silla plegable
-* Saco de dormir
-* Ganchitos y patatas fritas.
-* Botellas de agua y refrescos. Os mantendrán hidratados y cuando se acaben podrán usarse para mear dentro.
+XXX
+
+El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a algún atributo en alguna situación especial.
+
+* **Silla plegable.** Te proporcionará descanso y algo de comfort. __Te hace inmune a cansancio y sueño.__
+* **Saco de dormir.** Perfecto para pasar la noche calentito y cómodo. __Te hace inmune a sueño y frio.__
+* **Ganchitos y patatas fritas.** la base de tu alimentación de fan y lo único que se te ha ocurrido coger en el supermercado de camino a la firma. __Te hace inmune a hambre y puede usarse en tratos como un objeto firmable.__
+* **Botellones de agua y refrescos.** Os mantendrán hidratados y cuando se acaben podrán usarse para mear dentro. __Te hace inmune a sed y mear.__
+* **Cosplay adecuado a la temática de la cola:** Literalmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer. __Te da un bono de +1 a Frikitud cuando haces duelos y te hace inmune a algo a tu elección. La inmunidad debe estar relacionada con el disfraz, un disfraz de wookie te hace inmune al frío.__
+* **Cosplay NO adecuado a la temática de la cola:** Como el anterior pero de un frikismo erroneo, como ir a una convención de Star Wars con un pijama de Spock. __Te da inmunidad a dos peligros cualesquiera, pero te da un penalizador de -1 a Frikitud. Como en el item de equipo anterior, la inmunidad debe estar relacionada con el disfraz.__
 
 ## Duelos de frikitud
 
-Los dueños de frikitud son duelos en los que se demuestra quien es más fan entre dos personas que hacen cola. 
+Los dueños de frikitud son duelos en los que se demuestra quien es más fan entre dos personas que hacen cola. XXX
+
+## Creando la cola
+
+En «La cola» no hay aventuras hay colas. Cada cola es única y especial y tiene sus propias reglas, pero el premio siempre es el mismo la deseada firma.
+
+Para empezar hay que definir quién firma y que tipo de frikismo va a haber en la cola. Aquí cabe de todo, desde starfans, trekkies, potterheads, etc. hasta lectores de libros de Sherlock Holmes, seguidores de Trump o imitadores de Elvis.
+
+XXX
+
+### Las reglas de la cola
+
+Al empezar a hacer cola el DJ dice las normas de la cola que las ha establecido la organización. Saltarse las colas hará que el resto de gente de la cola te denuncie a la organización y debas enfrentarte a ellos por mantener tu sitio. Veamos algunos ejemplos de reglas de la cola.
+
+1. No se abandona la cola. El que se va pierde su puesto.
+2. No se guardan sitios. 
+3. Una firma por persona.
+4. Solo los X primeros tendrán firma.
+5. Nada de fumar, comer o beber en la cola.
+6. El cordón de seguridad marca como va la fila.
+
+### El orden en la cola
+
+XXX
+
+#### La gente de delante
+
+XXX
+
+#### La gente de detrás
+
+XXX
+
+#### Creando gente de la cola
+
+Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla.
+
+|1d6|Descripción|Ventaja (+2)|Desventaja (-2)|
+|---|---|---|---|
+|1|Uberfriki|XXX|XXX|
+|2|Madre/Padre con 1d6 menores a su cargo|XXX|Problemas de vejiga, colon irritable|
+|3|Cazafirmas profesional|XXX|XXX|
+|4|Fan con disfraz cutre|XXX|XXX|
+|5|Alguien exactamente igual que uno de los FLJ|XXX|XXX|
+|6|Señora o señor mayor que se ha equivocado de fila|XXX||
+|7|Fan muy bien disfrazado|XXX|XXX|
+|8|XXX|XXX|XXX|
+
+#### Avanzar en la cola
+
+XXX
+
+### Otros peligros de la cola
+
+Como DJ, cuando creas conveniente puedes sacar alguno de estos peligros a los que deberán enfrentarse los FLJ.
+
+* **Cansancio:** XXX
+* **Sueño:** XXX
+* **Hambre:** XXX
+* **Sed:** XXX
+* **Mear:** XXX
+* **Cagar:** XXX
+* **Mal tiempo:** No es un único peligro. Puede venir en varios formatos, como calor, frío, lluvia, etc. XXX
