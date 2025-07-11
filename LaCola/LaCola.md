@@ -87,18 +87,20 @@ XXX
 
 #### Creando gente de la cola
 
-Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla.
+Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.
 
 |1d6|Descripción|Ventaja (+2)|Desventaja (-2)|
 |---|---|---|---|
-|1|Uberfriki|XXX|XXX|
-|2|Madre/Padre con 1d6 menores a su cargo|XXX|Problemas de vejiga, colon irritable|
-|3|Cazafirmas profesional|XXX|XXX|
-|4|Fan con disfraz cutre|Abuela que te trae tapers|XXX|
-|5|Alguien exactamente igual que uno de los FLJ|XXX|XXX|
-|6|Señora o señor mayor que se ha equivocado de fila|XXX|XXX|
-|7|Fan muy bien disfrazado|XXX|XXX|
-|8|Espera colas a sueldo|XXX|XXX|
+|1|Uberfriki|Entrenamiento militar|Terraplanista, conspiranoico, antivacunas, ...|
+|2|Madre/Padre con 1d6 menores a su cargo|Se comería lo que vomitaría una cabra|Vejiga pequeña, solo puede cagar en su casa|
+|3|Cazafirmas profesional|Mochila como el bolsillo de Doraemon|Sin nada preparado|
+|4|Fan con disfraz cutre|Abuela que te trae tapers|Recasa mortal|
+|5|Alguien exactamente igual que uno de los FLJ|Amigos en la organización|Batallitas friki|
+|6|Señora o señor mayor que se ha equivocado de fila|Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma|Hipersensible a la luz|
+|7|Fan muy bien disfrazado|Suerte del enano|Estoy viejo para esta mierda|
+|8|Esperacolas a sueldo|Danza lucha|Ubercuñado|
+
+Si quieres, dales un objeto firmable y un ítem de equipo que pueden usar y que será el botín que pueden llevarse tus FLJ, si los derrotan.
 
 #### Avanzar en la cola y defender tu sitio
 
