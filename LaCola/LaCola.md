@@ -1,10 +1,6 @@
 # La Cola [por Gwannon](https://gwannon.itch.io/la-cola)
 
-**El juego de rol de hacer colas para jugar mientras haces una cola.**
-
-En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de un influencer de internet.
-
-Para jugar necesitarás, papel, lápiz y dados d12 y d8.
+**El juego de rol de hacer colas para jugar mientras haces una cola.** En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de un influencer de internet.
 
 ## Creación de tu FLJ
 
@@ -17,7 +13,9 @@ Tu fan loco jugable (FLJ) va a tener 4 habilidades entre las que repartirá un +
 
 Aparte podrás escoger **2 piezas de equipo** que te darán capacidades especiales y **4 objetos que quieres que te firmen**. No sois muy listos y os habéis preocupado más de que os van a firmar y menos de que vais a necesitar en las largas horas de cola.
 
-Los objetos para firmar (comics, libros, pósteres, etc.) funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma. Además, podrán ser usados en los tratos y negociaciones que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
+Los objetos para firmar (comics, libros, pósteres, etc.) funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma.
+
+Además, podrán ser usados en los tratos y negociaciones que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
 
 Por último tienes un **contador de Desesperación** que empieza en 0 y que representa lo loco y desesperado que te vas volviendo al hacer una interminable cola. 
 
@@ -60,6 +58,8 @@ Seguidamente, debes definir su dificultad con relojes de X sectores. 3 sería mu
 
 Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un sector.
 
+\sp
+
 Cuando tachen todos los sectores estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 
 ### Las reglas de la cola
@@ -85,16 +85,18 @@ XXX
 
 XXX
 
+\sc
+
 #### Creando gente de la cola
 
 Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.
 
-|1d6|Descripción|Ventaja (+2)|Desventaja (-2)|
+|1d8|Descripción|Ventaja (+2)|Desventaja (-2)|
 |---|---|---|---|
-|1|Uberfriki|Entrenamiento militar|Terraplanista, conspiranoico, antivacunas, ...|
+|1|Uberfriki|Entrenamiento militar|Terraplanista, conspiranoico, antivacunas, …|
 |2|Madre/Padre con 1d6 menores a su cargo|Se comería lo que vomitaría una cabra|Vejiga pequeña, solo puede cagar en su casa|
 |3|Cazafirmas profesional|Mochila como el bolsillo de Doraemon|Sin nada preparado|
-|4|Fan con disfraz cutre|Abuela que te trae tapers|Recasa mortal|
+|4|Fan con disfraz cutre|Abuela que te trae tapers|Resaca mortal|
 |5|Alguien exactamente igual que uno de los FLJ|Amigos en la organización|Batallitas friki|
 |6|Señora o señor mayor que se ha equivocado de fila|Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma|Hipersensible a la luz|
 |7|Fan muy bien disfrazado|Suerte del enano|Estoy viejo para esta mierda|
@@ -119,3 +121,15 @@ Como DJ, cuando creas conveniente o, si quieres mecanizarlo, cuando la Desespera
 * **Mal tiempo:** No es un único peligro. Puede venir en varios formatos, como calor, frío, lluvia, etc.
 
 Recuerda que estos peligros no son simples tiradas, tendrán, por ejemplo, que buscar algo que beber si tienen sed e igual tienen que intercambiar un objeto firmable por un refresco con los delante.
+
+## Licencias
+
+Creado por [Gwannon](https://linktr.ee/gwannon). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**.
+
+### Imágenes
+
+* [Different people stand in queue characters row by upklyak](https://www.freepik.com/free-vector/different-people-stand-queue-characters-row_29084635.htm)
+* [Author Brandon Sanderson signing one of this book by Ceridwen](https://commons.wikimedia.org/wiki/File:Brandon_Sanderson_sign.jpg)
+* [De cerca o retrato de un lindo cerdo negro by freepik](https://www.freepik.es/foto-gratis/cerca-o-retrato-lindo-cerdo-negro_20257376.htm)
+* [Personajes en kigurumi, personas con disfraces de animales en fiesta de pijamas by upklyak](https://www.freepik.es/vector-gratis/personajes-kigurumi-personas-disfraces-animales-fiesta-pijamas-conjunto-dibujos-animados-vector-hombres-mujeres-felices-pijamas-divertidos-vaca-gato-murcielago-panda-aislado-sobre-fondo-blanco_21473337.htm)
+* [Colección de elementos de personajes de videojuegos dibujados a mano by pikisuperstar](https://www.freepik.es/vector-gratis/coleccion-elementos-personajes-videojuegos-dibujados-mano_38687266.htm)
