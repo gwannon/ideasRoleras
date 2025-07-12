@@ -57,9 +57,6 @@ Para empezar hay que definir quién firma y que tipo de frikismo va a haber en l
 Seguidamente, debes definir su dificultad con relojes de X sectores. 3 sería muy fácil y más 10 muy difícil. Los sectores puede significar cosas distintas desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
 
 Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un sector.
-
-\sp
-
 Cuando tachen todos los sectores estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 
 ### Las reglas de la cola
@@ -88,9 +85,6 @@ XXX
 #### Avanzar en la cola y defender tu sitio
 
 XXX
-
-\sc
-
 #### Creando gente de la cola
 
 Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.

@@ -6,7 +6,12 @@ require __DIR__ . '/../vendor/autoload.php';
 /* -------------------------------------------------------------- */
 use FastVolt\Helper\Markdown;
 $mkd = Markdown::new();
-$mkd->setContent(file_get_contents(__DIR__ . "/".$argv[1].".md"));
+
+$md = file_get_contents(__DIR__ . "/".$argv[1].".md");
+
+file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+
+$mkd->setContent($md);
 
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
 $html = str_replace("|ID|", $argv[1], $html); 

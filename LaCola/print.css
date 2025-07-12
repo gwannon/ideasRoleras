@@ -146,11 +146,11 @@ ul {
 }
 
 a {
-  color: var(--color-white);
+  color: var(--color-black);
 }
 
 ul, ol {
-  padding-left: 19px;
+  padding-left: 9px;
 }
 
 ul li {
@@ -159,11 +159,11 @@ ul li {
 }
 
 ul li:before {
-  content: '\2744';
+  content: '\a9';
   position: absolute;
-  font-size: 20px;
-  top: -6px;
-  left: -20px;
+  font-size: 10px;
+  top: 1px;
+  left: -10px;
   display: block;
   color: var(--color-white);
 } 
@@ -176,6 +176,10 @@ table {
   padding: 5px;
   position: relative;
 
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #ff000047;
 }
 
 table thead tr th {
