@@ -1,11 +1,11 @@
 InfoKey: Title
-InfoValue: Gnomocalipsis
+InfoValue: La Cola
 
 InfoKey: Subject
-InfoValue: Gnomocalipsis es una ambientación en una página para Breathless sobre una comunidad de gnomos islandeses que debe sobrevivir a un apocalipsis zombi. Versión 1.0
+InfoValue: El juego de rol de hacer colas para jugar mientras haces una cola. Versión 1.0
 
 InfoKey: Author
 InfoValue: Gwannon
 
 InfoKey: Keywords
-InfoValue: rpg, ttrpg, gnomos, zombis, survival horror
+InfoValue: rpg, ttrpg, cola, firmas, una pagina rpg

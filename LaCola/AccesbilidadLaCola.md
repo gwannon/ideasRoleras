@@ -25,7 +25,7 @@ Las tiradas son fáciles. Para empezar todas son enfrentadas, ya que solo tendr�
 
 Se tira un 1d12 y se le suma la habilidad correspondiente y se compara con la tirada del grupo con el que interactúas. En caso de empate gana siempre el otro grupo.
 
-Si tus FLJ tiene buenas ideas a la hora de enfrentarse a los retos que implican tiradas puedes darles ventaja que supone tirar 2d12 y quedarse con el resultado que quieran. Usar los objetos firmables en las tiradas también da ventaja. Como usar esos objetos puede ser muy variable desde meterlo como parte de los tratos hasta lanzarlos al aire para distraer a la gente mientras te cuelas.
+Si tus FLJ tiene buenas ideas a la hora de enfrentarse a los retos que implican tiradas, puedes darles ventaja que supone tirar 2d12 y quedarse con el resultado que quieran. Usar los objetos firmables en las tiradas también da ventaja. Como usar esos objetos puede ser muy variable, desde meterlo como parte de los tratos hasta lanzarlos al aire para distraer a la gente mientras te cuelas.
 
 ### La Desesperación
 
@@ -50,46 +50,57 @@ Puedes usar este equipamiento como ejemplo para crear tus propios ítems de equi
 
 ## Creando la cola
 
-En «La cola» no hay aventuras hay colas. Cada cola es única y especial y tiene sus propias reglas, pero el premio siempre es el mismo la deseada firma.
+En «La cola» no hay aventuras, hay colas. Cada cola es única y especial y tiene sus propias reglas, pero el premio siempre es el mismo la deseada firma.
 
 Para empezar hay que definir quién firma y que tipo de frikismo va a haber en la cola. Aquí cabe de todo, desde starfans, trekkies, potterheads, etc. hasta lectores de libros de Sherlock Holmes, seguidores de Trump o imitadores de Elvis.
 
-Seguidamente, debes definir su dificultad con relojes de X sectores. 3 sería muy fácil y más 10 muy difícil. Los sectores puede significar cosas distintas desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
+Seguidamente, debes definir su dificultad con relojes de X sectores. 3 sería muy fácil y más 10 muy difícil. Los sectores puede significar cosas distintas, desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
 
 Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un sector.
 Cuando tachen todos los sectores estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 
 ### Las reglas de la cola
 
-Al empezar a hacer cola el DJ dice las normas de la cola que las ha establecido la organización. Saltarse las colas hará que el resto de gente de la cola te denuncie a la organización y debas enfrentarte a ellos por mantener tu sitio. Veamos algunos ejemplos de reglas de la cola.
+Al empezar a hacer cola, el DJ dice las normas de la cola que las ha establecido la organización. Saltarse las normas hará que el resto de gente de la cola te denuncie a la organización y debas enfrentarte a ellos por mantener tu sitio. Veamos algunos ejemplos de reglas de la cola.
 
 1. No se abandona la cola. El que se va pierde su puesto.
 2. No se guardan sitios. 
 3. Una firma por persona.
-4. Solo los X primeros tendrán firma.
-5. Nada de fumar, comer o beber en la cola.
-6. El cordón de seguridad marca como va la fila.
+4. Nada de fumar, comer o beber en la cola.
+5. El cordón de seguridad marca como va la fila.
+
+Lo importante es que cada regla se pueda ser saltada con una habilidad. «No abandonar tu sitio» con Ninjitud, «Nada de comer en la fila» con Cuerpitud, etc. La idea es que las reglas se puedan saltar por lo menos una forma lógica.
 
 ### El orden en la cola
 
-XXX
+El objetivo del juego es robarles el sitio a los de delante y defenderse de los intentos de colarse de los de detrás. Así que tus FLJ deberían poder saber quien esta detrás y delante para defenderse de unos y atacarles a otros.
+
+Si hay límite de firmas, pueden contar cuanta gente hay delante en la fila y a cuantos grupos tienen que eliminar o colarse para conseguir su firma. Pueden tirar Wikitud para sacar información sobre esos grupos.
 
 #### La gente de delante
 
-XXX
+Esta es la gente a la que debes eliminar. Las formas son variadas. Tal vez puedas engañarlas para que se vayan, quizas puedas intimidarlos y que se vayan o puede que puedas negociar con ellos un trato.
+
+Si fuera necesario la desesperación de este grupo siempre será un punto menos de la menor desesperación de tu grupo de FLJ.
 
 #### La gente de detrás
 
-XXX
+Esta gente son tus enemigos directos, quieren lo que tú ya tienes y pasarte por encima les podrá más cerca de su ansiada firma.
+
+Si fuera necesario la desesperación de este grupo siempre será un punto más de la mayor desesperación de tu grupo de FLJ.
 
 #### Avanzar en la cola y defender tu sitio
 
 XXX
+
 #### Creando gente de la cola
 
 Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.
 
-|1d8|Descripción|Ventaja|Desventaja|
+Las ventajas darán +2 a la tirada si es aplicable en la situación y dará un +s a los FLJ si lo conocen y pueden explotarlo de alguna manera.
+
+Si quieres, dales un objeto firmable y un ítem de equipo que pueden usar y que será el botín que pueden llevarse tus FLJ, si los derrotan.
+|1d10|Descripción|Ventaja|Desventaja|
 |---|---|---|---|
 |1|Uberfriki|Entrenamiento militar|Terraplanista, conspiranoico, antivacunas, …|
 |2|Madre/Padre con 1d6 menores a su cargo|Se comería lo que vomitaría una cabra|Vejiga pequeña, solo puede cagar en su casa|
@@ -99,10 +110,8 @@ Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y ti
 |6|Señora o señor mayor que se ha equivocado de fila|Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma|Hipersensible a la luz|
 |7|Fan muy bien disfrazado|Suerte del enano|Estoy viejo para esta mierda|
 |8|Esperacolas a sueldo|Danza lucha|Ubercuñado|
-
-Las ventajas darán +2 a la tirada si es aplicable en la situación y dará un +s a los FLJ si lo conocen y pueden explotarlo de alguna manera.
-
-Si quieres, dales un objeto firmable y un ítem de equipo que pueden usar y que será el botín que pueden llevarse tus FLJ, si los derrotan.
+|9|Un famoso o famosa fan del que está firmando|Mirada inspiradora|Eventos familiar en unas horas|
+|10|Organizador infiltrado|Furgo camperizada|Adictos a los juegos de mesa, cartas, etc.|
 
 ### Otros peligros de la cola
 
