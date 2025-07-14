@@ -2,20 +2,20 @@
 
 **The tabletop role-playing game of queuing to play while you queue.** In «La Queue» you will be a group of fans who queue to get the signature of a book author, a famous actress or, worst of all, an internet influencer.
 
-## Creating Your CPF
+## Creating your CPF
 
-Your crazy playable fan (CPF) will have four skills, each of which will distribute +3, +2, +1, and +0.
+Your crazy playable fan (CPF) will have four skills. You distribute +3, +2, +1, and +0.
 
-* **Barditude:** This is used to negotiate, charm, or trick other people in the queue.
+* **Barditude:** This is used to negotiate, charm, or lie other people in the queue.
 * **Wikitude:** This represents your Wikipedian knowledge of what you are a fan of. It is also used to appraise items, detect counterfeits, and fake fans who just want the signature to sell.
 * **Ninjitude:** This is used to move unseen, steal, sleight of hand, and generally anything criminal within the queue.
-* **Bodytude:** This represents your physical abilities, such as how much you can lift or how fast you move. It also represents your resistance to cold, heat, thirst, hunger, and more.
+* **Bodytude:** This represents your physical abilities, such as how much you can lift or how fast you move. It also represents your resistance to cold, heat, thirst, hunger, etc.
 
 You can also choose **2 pieces of equipment** that will give you special abilities and **4 items to be signed**. You are not very smart, and you have been worrying more about what you will get signed than what you will need during the long lines.
 
-The signable items (comics, books, posters, etc.) function as a kind of life point. If you run out of signable objects, you will have to leave the queue and go home crying because you will never get that coveted signature again.
+The signable items (comics, books, posters, etc.) function as a kind of points of life. If you run out of signable objects, you will have to leave the queue and go home crying because you will never get that desired signature again.
 
-They can also be used in deals and negotiations, but remember to keep at least one to get them signed.
+They can also be used in deals and negotiations, but remember to keep at least one to get it signed.
 
 Finally, you have a **Hopelessness counter** that starts at 0 and represents how crazy and desperate you are becoming while waiting in an endless queue.
 
@@ -25,7 +25,7 @@ The rolls are easy. To start, they are all opposed, since you will only have to 
 
 Roll 1d12, add the corresponding skill, and compare it with the roll of the group you are interacting with. In the event of a tie, the other group always wins.
 
-If your PFCs have good ideas when facing challenges that involve rolls, you can give them an advantage, which means they can roll 2d12 and keep whatever result they want. Using signable objects in rolls also gives you an advantage. The use of these objects can vary greatly, from including them as part of deals to throwing them in the air to distract people while you sneak in.
+If your CPFs have good ideas when facing challenges that involve rolls, you can give them an advantage, which means they can roll 2d12 and keep whatever result they want. Using signable objects in rolls also gives you an advantage. The use of these objects can vary greatly, from including them as part of deals to throwing them in the air to distract people while you sneak in.
 
 ### Hopelessness
 
@@ -33,9 +33,9 @@ If there is no other group to oppose, such as with Hunger or Heat rolls, the opp
 
 Each failed roll adds 1 point to Hopelessness, and each Pass roll subtracts 1 point. You can not have less than 0.
 
-When Hopelessness reaches 10, you lose all hope and leave the queue. The GM may allow you to perform one last desperate act. This can range from stripping off your clothes and running naked, imitating a chicken, to distract everyone so your colleagues can sneak in, to running fast and jumping the security fence in an attempt to reach the perpetrator so they can sign your name on your chest.
+When Hopelessness reaches 10, you lose all hope and leave the queue. The GM may allow you to perform one last desperate act. This can range from stripping off your clothes and running naked, imitating a chicken, to distract everyone so your friends can sneak in, to running fast and jumping the security fence in an attempt to reach famous person so she/he can sign on your chest.
 
-## Equipment
+## Equip
 
 Equipment will primarily give you immunity to certain things or a +1 bonus to a skill in a special situation.
 
@@ -72,11 +72,11 @@ At the start of the queue, the GM will announce the rules of the queue, which ha
 4. No smoking, eating, or drinking in the queue.
 5. The security cordon marks the line.
 
-The important thing is that each rule can be broken with a skill. «No leaving the queue» with Ninjitude, «No eating in the queue» with Corpitude, etc. The idea is that the rules can be broken in at least one logical way.
+Important hint: each rule can be broken with a skill. «No leaving the queue» with Ninjitude, «No eating in the queue» with Corpitude, etc. The idea is that the rules can be broken in at least one logical way.
 
 ### The Order in the Line
 
-The objective of the game is to steal the spot from those in front and defend against attempts to cut in from those behind. So your PFCs should be able to tell who is in front and behind in order to defend against one and attack the other.
+The objective of the game is to steal the spot from those in front and defend against attempts to cut in from those behind. So your CPFs should be able to tell who is in front and behind in order to defend against one and attack the other.
 
 If there is a signature limit, they can count how many people are in front of them in the line and how many groups they have to eliminate or cut in front of them to get their signature. They can use Wikitude to gather information about those groups.
 
@@ -84,7 +84,7 @@ If there is a signature limit, they can count how many people are in front of th
 
 These are the people you should eliminate. There are a variety of ways. You might be able to trick them into leaving, maybe you can intimidate them into leaving, or maybe you can negotiate a deal with them.
 
-If necessary, the Hopelessness of this group will always be one point lower than the least Hopelessness of your PFC group. They are ahead, and they clearly have a few more hopes of winning.
+If necessary, the Hopelessness of this group will always be one point lower than the least Hopelessness of your CPF group. They are ahead, and they clearly have a few more hopes of winning.
 
 #### The People Behind You
 
@@ -98,9 +98,13 @@ The main objective of the game will be to defend against attacks from those behi
 
 As they say, all is fair in love and war, so any tactic is good: seduction, intimidation, bribery, deception, even geeky duels in which the one who knows the most about the signature issue.
 
+#### The Organizers
+
+The organizers are practically gods in the queue. They do as they please, and only true heroes would dare and succeed in deceiving them.
+
 #### Creating Queue People
 
-To create queue people, you must divide 6 points between the 4 skills and roll 1d8 in each column of this table to give them some personality.
+To create queue people, you must divide 6 points between the 4 skills and roll 1d10 in each column of this table to give them some personality.
 
 Advantages will give a +2 to the roll if applicable to the situation and a +2 to the CPFs if they know it and can exploit it in some way.
 
@@ -121,7 +125,7 @@ If you like, give them a signable object and an item of equipment they can use, 
 
 ### Other rislks in the queue
 
-As a GM, whenever you see fit, or if you want to automate it, when the total Hopelessness of all PFCs is a multiple of 3, you can bring out one of these typical queue hazards that PFCs will have to face. The hazard can affect everyone, like heat, or a specific PFC, like a weak bladder.
+As a GM, whenever you see fit, or if you want to automate it, when the total Hopelessness of all CPFs is a multiple of 3, you can bring out one of these typical queue hazards that CPFs will have to face. The hazard can affect everyone, like heat, or a specific CPF, like a weak bladder.
 
 * **Bad Weather:** It is not a single hazard. It can come in various forms, such as heat, cold, rain, etc.
 * **Tiredness:** Hours of standing have their cost.

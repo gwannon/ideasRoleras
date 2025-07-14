@@ -93,11 +93,15 @@ Si fuera necesario la desesperación de este grupo siempre será un punto más d
 
 El objetivo principal de la partida será defenderse de los ataques de los que están detrás y fastidiar a los de delante para colarte o para hacer que se vayan. Cada puesto ganado es un paso hacia la victoria (y seguramente un rellenarás un quesito)
 
-Como se dice todo vale en el amor y la guerra, así que cualquier táctica es buena, seducción, intimidación, soborno, engaño, incluso duelos de frikismo en el que más sabe del tema de la firma.   
+Como se dice todo vale en el amor y la guerra, así que cualquier táctica es buena, seducción, intimidación, soborno, engaño, incluso duelos de frikismo en el que más sabe del tema de la firma.  
+
+#### Los organizadores
+
+Los organizadores son casi dioses en la cola, Hacen y deshacen a su gusto, y solo auténticos héroes osarían y conseguirían engañarlas.
 
 #### Creando gente de la cola
 
-Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.
+Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d10 en cada columna de esta tabla para darles un poco de personalidad.
 
 Las ventajas darán +2 a la tirada si es aplicable en la situación y las desventajas darán un +2 a los FLJ si las conocen y pueden explotarlas de alguna manera.
 
