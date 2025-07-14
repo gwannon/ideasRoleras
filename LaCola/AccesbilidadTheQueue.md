@@ -1,6 +1,6 @@
-# La Cola [por Gwannon](https://gwannon.itch.io/the-queue-la-cola)
+# The Queue [by Gwannon](https://gwannon.itch.io/the-queue-la-cola)
 
-**El juego de rol de hacer colas para jugar mientras haces una cola.** En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de un influencer de internet.
+**The tabletop role-playing game of queuing to play while you queue.** In «La Queue» you will be a group of fans who queue to get the signature of a book author, a famous actress or, worst of all, an internet influencer.
 
 ## Creación de tu FLJ
 
@@ -129,13 +129,13 @@ Como DJ, cuando creas conveniente o, si quieres mecanizarlo, cuando la Desespera
 
 Recuerda que estos peligros no son simples tiradas, tendrán, por ejemplo, que buscar algo que beber si tienen sed e igual tienen que intercambiar un objeto firmable por un refresco con los delante.
 
-## Licencias
+## Licenses
 
-Creado por [Gwannon](https://linktr.ee/gwannon). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Creado para la **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
+Created by [Gwannon](https://linktr.ee/gwannon). Devoleped under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. You have all the source code in **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** so you can do whatever you want with it. Created for **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
 
-### Imágenes
+### Images
 
-Todas las imágenes son de uso libre y aquí puedes encontrarlas.
+All images are free rights and you can find them here.
 
 * [Different people stand in queue characters row by upklyak](https://www.freepik.com/free-vector/different-people-stand-queue-characters-row_29084635.htm)
 * [Author Brandon Sanderson signing one of this book by Ceridwen](https://commons.wikimedia.org/wiki/File:Brandon_Sanderson_sign.jpg)

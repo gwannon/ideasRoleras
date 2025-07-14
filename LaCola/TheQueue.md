@@ -1,6 +1,6 @@
-# La Cola [por Gwannon](https://gwannon.itch.io/the-queue-la-cola)
+# The Queue [by Gwannon](https://gwannon.itch.io/the-queue-la-cola)
 
-**El juego de rol de hacer colas para jugar mientras haces una cola.** En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de un influencer de internet.
+**The tabletop role-playing game of queuing to play while you queue.** In «La Queue» you will be a group of fans who queue to get the signature of a book author, a famous actress or, worst of all, an internet influencer.
 
 ## Creación de tu FLJ
 
@@ -57,6 +57,9 @@ Para empezar hay que definir quién firma y que tipo de frikismo va a haber en l
 Seguidamente, debes definir su dificultad con círculos (también llamados relojes) de X quesitos. 3 sería muy fácil y más 10 muy difícil. Los quesitos puede significar cosas distintas, desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
 
 Cuando consigan algo importante, rellena un quesito. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un quesito.
+
+\sp
+
 Cuando tachen todos los quesitos estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 
 ### Las reglas de la cola
@@ -102,6 +105,9 @@ Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y ti
 Las ventajas darán +2 a la tirada si es aplicable en la situación y dará un +s a los FLJ si lo conocen y pueden explotarlo de alguna manera.
 
 Si quieres, dales un objeto firmable y un ítem de equipo que pueden usar y que será el botín que pueden llevarse tus FLJ, si los derrotan.
+
+\sc
+
 |1d10|Descripción|Ventaja|Desventaja|
 |---|---|---|---|
 |1|Uberfriki|Entrenamiento militar|Terraplanista, conspiranoico, antivacunas, …|
@@ -129,13 +135,13 @@ Como DJ, cuando creas conveniente o, si quieres mecanizarlo, cuando la Desespera
 
 Recuerda que estos peligros no son simples tiradas, tendrán, por ejemplo, que buscar algo que beber si tienen sed e igual tienen que intercambiar un objeto firmable por un refresco con los delante.
 
-## Licencias
+## Licenses
 
-Creado por [Gwannon](https://linktr.ee/gwannon). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Creado para la **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
+Created by [Gwannon](https://linktr.ee/gwannon). Devoleped under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. You have all the source code in **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** so you can do whatever you want with it. Created for **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
 
-### Imágenes
+### Images
 
-Todas las imágenes son de uso libre y aquí puedes encontrarlas.
+All images are free rights and you can find them here.
 
 * [Different people stand in queue characters row by upklyak](https://www.freepik.com/free-vector/different-people-stand-queue-characters-row_29084635.htm)
 * [Author Brandon Sanderson signing one of this book by Ceridwen](https://commons.wikimedia.org/wiki/File:Brandon_Sanderson_sign.jpg)
