@@ -102,7 +102,7 @@ Como se dice todo vale en el amor y la guerra, así que cualquier táctica es bu
 
 Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.
 
-Las ventajas darán +2 a la tirada si es aplicable en la situación y dará un +s a los FLJ si lo conocen y pueden explotarlo de alguna manera.
+Las ventajas darán +2 a la tirada si es aplicable en la situación y las desventajas darán un +2 a los FLJ si las conocen y pueden explotarlas de alguna manera.
 
 Si quieres, dales un objeto firmable y un ítem de equipo que pueden usar y que será el botín que pueden llevarse tus FLJ, si los derrotan.
 

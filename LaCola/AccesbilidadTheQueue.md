@@ -2,132 +2,133 @@
 
 **The tabletop role-playing game of queuing to play while you queue.** In «La Queue» you will be a group of fans who queue to get the signature of a book author, a famous actress or, worst of all, an internet influencer.
 
-## Creación de tu FLJ
+## Creating Your CPF
 
-Tu fan loco jugable (FLJ) va a tener 4 habilidades entre las que repartirá un +3, +2, +1 y 0.
+Your crazy playable fan (CPF) will have four skills, each of which will distribute +3, +2, +1, and +0.
 
-* **Barditud:** sirve para negociar, encandilar o embaucar a otras personas de la cola.
-* **Wikitud:** representa tus conocimientos wikipédicos de lo que eres fans. También sirve para tasar objetos, detectar falsificaciones y falsos fans que solo quieren la firma para venderla.
-* **Ninjitud:** sirve para moverte sin ser visto, robar, juegos de manos, en general todo lo delictivo dentro de la cola.
-* **Cuerpitud:** representa tus capacidades físicas, como lo que puedes levantar o lo rápido que te mueves. También representa tu resistencia a frío, calor, sed, hambre, …
+* **Barditude:** This is used to negotiate, charm, or trick other people in the queue.
+* **Wikitude:** This represents your Wikipedian knowledge of what you are a fan of. It is also used to appraise items, detect counterfeits, and fake fans who just want the signature to sell.
+* **Ninjitude:** This is used to move unseen, steal, sleight of hand, and generally anything criminal within the queue.
+* **Bodytude:** This represents your physical abilities, such as how much you can lift or how fast you move. It also represents your resistance to cold, heat, thirst, hunger, and more.
 
-Aparte podrás escoger **2 piezas de equipo** que te darán capacidades especiales y **4 objetos que quieres que te firmen**. No sois muy listos y os habéis preocupado más de que os van a firmar y menos de que vais a necesitar en las largas horas de cola.
+You can also choose **2 pieces of equipment** that will give you special abilities and **4 items you want signed**. You are not very smart, and you have been worrying more about what you will get signed than what you will need during the long lines.
 
-Los objetos para firmar (comics, libros, pósteres, etc.) funcionan como una especie de puntos de vida. Si te quedas sin objetos firmables, tendrás que abandonar la cola e irte a llorar a casa porque nunca podrás conseguir de nuevo tu ansiada firma.
+The signable items (comics, books, posters, etc.) function as a kind of life point. If you run out of signable objects, you will have to leave the queue and go home crying because you will never get that coveted signature again.
 
-Además, podrán ser usados en los tratos y negociaciones que hagas, pero recuerda que debes conservar por lo menos uno para que te lo puedan firmar. 
+They can also be used in deals and negotiations, but remember to keep at least one to get them signed.
 
-Por último tienes un **contador de Desesperación** que empieza en 0 y que representa lo loco y desesperado que te vas volviendo al hacer una interminable cola. 
+Finally, you have a **Hopelessness counter** that starts at 0 and represents how crazy and desperate you are becoming while waiting in an endless queue.
 
-## Reglas
+## Rules
 
-Las tiradas son fáciles. Para empezar todas son enfrentadas, ya que solo tendrás que lidiar con la gente delante de ti, de detrás de ti y de la organización. El resto del mundo no existe. Para ti, ahora, solo existe la cola.
+The rolls are easy. To start, they are all opposed, since you will only have to deal with the people in front of you, behind you, and the organization. The rest of the world does not exist. For you, now, only the queue exists.
 
-Se tira un 1d12 y se le suma la habilidad correspondiente y se compara con la tirada del grupo con el que interactúas. En caso de empate gana siempre el otro grupo.
+Roll 1d12, add the corresponding skill, and compare it with the roll of the group you are interacting with. In the event of a tie, the other group always wins.
 
-Si tus FLJ tiene buenas ideas a la hora de enfrentarse a los retos que implican tiradas, puedes darles ventaja que supone tirar 2d12 y quedarse con el resultado que quieran. Usar los objetos firmables en las tiradas también da ventaja. Como usar esos objetos puede ser muy variable, desde meterlo como parte de los tratos hasta lanzarlos al aire para distraer a la gente mientras te cuelas.
+If your PFCs have good ideas when facing challenges that involve rolls, you can give them an advantage, which means they can roll 2d12 and keep whatever result they want. Using signable objects in rolls also gives you an advantage. The use of these objects can vary greatly, from including them as part of deals to throwing them in the air to distract people while you sneak in.
 
-### La Desesperación
+### Hopelessness
 
-En caso de que no haya otro grupo al que enfrentarte, como en tiradas de hambre o calor, la tirada enfrentada será contra tu Desesperación. Tú harás tu tirada normal y el DJ tirará 1d12 y le sumará tu Desesperación.
+If there is no other group to oppose, such as with Hunger or Heat rolls, the opposed roll will be against your Hopelessness. You will make your normal roll, and the GM will roll 1d12 and add your Hopelessness to it.
 
-Cada tirada que falles, sumará 1 punto a Desesperación y cada tirada de pases, restará 1 punto. No se puede tener menos de 0.
+Each failed roll adds 1 point to Hopelessness, and each Pass roll subtracts 1 point. You can not have less than 0.
 
-Cuando la Desesperación llega a 10, pierdes toda esperanza y abandonas la fila. El DJ puede dejarte hacer un último acto desesperado. Puede ir desde quitarte la ropa y correr desnudo imitando a una gallina para distraer a todos y que tus colegas se cuelen a coger carrerilla y saltarte la valla de seguridad intentando llegar hasta el autor para que te estampe su firma en tu pecho.
+When Hopelessness reaches 10, you lose all hope and leave the queue. The GM may allow you to perform one last desperate act. This can range from stripping off your clothes and running naked, imitating a chicken, to distract everyone so your colleagues can sneak in, to running fast and jumping the security fence in an attempt to reach the perpetrator so they can sign your name on your chest.
 
-## Equipo
+## Equipment
 
-El equipo principalmente te va a dar inmunidad a ciertas cosas o un bono de +1 a alguna habilidad en alguna situación especial. 
+Equipment will primarily give you immunity to certain things or a +1 bonus to a skill in a special situation.
 
-* **Silla plegable.** Te proporcionará descanso y algo de confort. __Te hace inmune a cansancio y sueño.__
-* **Saco de dormir.** Perfecto para pasar la noche calentito y cómodo. __Te hace inmune a sueño y frío.__
-* **Ganchitos y patatas fritas.** La base de tu alimentación de fan y lo único que se te ha ocurrido coger en el supermercado de camino a la firma. __Te hace inmune a hambre y puede usarse en tratos como un objeto firmable.__
-* **Botellones de agua y refrescos.** Os mantendrán hidratados y cuando se acaben podrán usarse para mear dentro. __Te hace inmune a sed y mear.__
-* **Cosplay adecuado a la temática de la cola:** Literalmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer. __Te da un bono de +1 a Wikitud cuando haces duelos y te hace inmune a algo a tu elección. La inmunidad debe estar relacionada con el disfraz, un disfraz de wookie te hace inmune al frío.__
-* **Cosplay NO adecuado a la temática de la cola:** Como el anterior pero de un frikismo erróneo, como ir a una convención de Star Wars con un pijama de Spock. __Te da inmunidad a dos peligros cualesquiera, pero te da un penalizador de -1 a Wikitud. Como en el ítem de equipo anterior, la inmunidad debe estar relacionada con el disfraz.__
+* **Foldable Chair.** It will provide you with rest and some comfort. __Makes you immune to fatigue and sleep.__
+* **Sleeping Bag.** Perfect for spending the night warm and comfortable. __Makes you immune to sleep and cold.__
+* **Snacks and Chips.** The basis of your fan diet and the only thing you thought to pick up at the supermarket on the way to the fan event. __Makes you immune to hunger and can be used in deals as a signable object.__
+* **Water Bottles and Sodas.** They will keep you hydrated and when they run out, they can be used to pee inside. __Makes you immune to thirst and peeing.__
+* **Cosplay appropriate to the queue theme:** It can literally be anything, from furry pajamas to complex cardboard cutouts that make you look like a Transformer. __It gives you a +1 bonus to Witness when dueling and makes you immune to one thing of your choice. The immunity must be related to the cosplay; a Wookiee costume makes you immune to cold.__
+* **Cosplay NOT appropriate for the queue theme:** Like the above, but with a misguided geeky feel, like going to a Star Wars convention in Spock pajamas. __It grants you immunity to any two hazards, but gives you a -1 penalty to Wikititude. As with the previous gear item, the immunity must be related to the costume.__
 
-Puedes usar este equipamiento como ejemplo para crear tus propios ítems de equipo.
+You can use these items as an example to create your own equip items.
 
-## Creando la cola
+## Creating the Queue
 
-En «La cola» no hay aventuras, hay colas. Cada cola es única y especial y tiene sus propias reglas, pero el premio siempre es el mismo la deseada firma.
+In "The Queue," there are no adventures, there are queues. Each queue is unique and special and has its own rules, but the prize is always the same: the signature of your idol.
 
-Para empezar hay que definir quién firma y que tipo de frikismo va a haber en la cola. Aquí cabe de todo, desde starfans, trekkies, potterheads, etc. hasta lectores de libros de Sherlock Holmes, seguidores de Trump o imitadores de Elvis.
+To start, you need to define who will be signing and what kind of geeks will be in the queue. This includes everything from star fans, trekkies, potterheads, etc. to Sherlock Holmes readers, Trump followers, or Elvis impersonators.
 
-Seguidamente, debes definir su dificultad con círculos (también llamados relojes) de X quesitos. 3 sería muy fácil y más 10 muy difícil. Los quesitos puede significar cosas distintas, desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
+Next, you must define the difficulty with a circle (also called clocks) of X wedges. 3 would be very easy, and 10 would be very difficult. Wedges can mean different things, from hours or nights of waiting to people ahead of you to even being in the top 50 of those in the queue.
 
-Cuando consigan algo importante, rellena un quesito. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un quesito.
-Cuando tachen todos los quesitos estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
+When they achieve something important, check a wedge. For example, getting the group in front of them to leave can be an important milestone that requires fill a wedge.
+When they cross off all the little cheeses, they will be standing in front of their beloved author, their beloved cartoonist, or about to kiss the papal ring.
 
-### Las reglas de la cola
+### The Rules of the Queue
 
-Al empezar a hacer cola, el DJ dice las normas de la cola que las ha establecido la organización. Saltarse las normas hará que el resto de gente de la cola te denuncie a la organización y debas enfrentarte a ellos por mantener tu sitio. Veamos algunos ejemplos de reglas de la cola.
+At the start of the queue, the GM will announce the rules of the queue, which have been established by the organizers. Breaking the rules will result in the other people in the queue reporting you to the organizers, and you will have to fight them to keep your spot. Let's look at some examples of queue rules.
 
-1. No se abandona la cola. El que se va pierde su puesto.
-2. No se guardan sitios. 
-3. Una firma por persona.
-4. Nada de fumar, comer o beber en la cola.
-5. El cordón de seguridad marca como va la fila.
+1. No leaving the queue. Anyone who leaves loses their spot.
+2. No saving seats.
+3. One signature per person.
+4. No smoking, eating, or drinking in the queue.
+5. The security cordon marks the line.
 
-Lo importante es que cada regla se pueda ser saltada con una habilidad. «No abandonar tu sitio» con Ninjitud, «Nada de comer en la fila» con Cuerpitud, etc. La idea es que las reglas se puedan saltar por lo menos una forma lógica.
+The important thing is that each rule can be broken with a skill. «No leaving the queue» with Ninjitude, «No eating in the queue» with Corpitude, etc. The idea is that the rules can be broken in at least one logical way.
 
-### El orden en la cola
+### The Order in the Line
 
-El objetivo del juego es robarles el sitio a los de delante y defenderse de los intentos de colarse de los de detrás. Así que tus FLJ deberían poder saber quien está detrás y delante para defenderse de unos y atacarles a otros.
+The objective of the game is to steal the spot from those in front and defend against attempts to cut in from those behind. So your PFCs should be able to tell who is in front and behind in order to defend against one and attack the other.
 
-Si hay límite de firmas, pueden contar cuanta gente hay delante en la fila y a cuantos grupos tienen que eliminar o colarse para conseguir su firma. Pueden tirar Wikitud para sacar información sobre esos grupos.
+If there is a signature limit, they can count how many people are in front of them in the line and how many groups they have to eliminate or cut in front of them to get their signature. They can use Wikitude to gather information about those groups.
 
-#### La gente de delante
+#### The People in Front
 
-Esta es la gente a la que debes eliminar. Las formas son variadas. Tal vez puedas engañarlas para que se vayan, quizas puedas intimidarlos y que se vayan o puede que puedas negociar con ellos un trato.
+These are the people you should eliminate. There are a variety of ways. You might be able to trick them into leaving, maybe you can intimidate them into leaving, or maybe you can negotiate a deal with them.
 
-Si fuera necesario la desesperación de este grupo siempre será un punto menos de la menor desesperación de tu grupo de FLJ. Están por delante y está claro que tienen algunas esperanzas más de conseguir.
+If necessary, the Hopelessness of this group will always be one point lower than the least Hopelessness of your PFC group. They are ahead, and they clearly have a few more hopes of winning.
 
-#### La gente de detrás
+#### The People Behind You
 
-Esta gente son tus enemigos directos, quieren lo que tú ya tienes y pasarte por encima les podrá más cerca de su ansiada firma.
+These people are your direct enemies. They want what you already have, and overcoming you will bring them closer to their coveted signature.
 
-Si fuera necesario la desesperación de este grupo siempre será un punto más de la mayor desesperación de tu grupo de FLJ. Como mínimo tienen que estar un poco más desesperados que tu grupo FLJ.
+If necessary, the Hopelessness of this group will always be one point higher than the greatest Hopelessness of your CPF group. At the very least, they have to be a little more desperate than your CPF group.
 
-#### Avanzar en la cola y defender tu sitio
+#### Advance in the queue and defend your spot
 
-El objetivo principal de la partida será defenderse de los ataques de los que están detrás y fastidiar a los de delante para colarte o para hacer que se vayan. Cada puesto ganado es un paso hacia la victoria (y seguramente un rellenarás un quesito)
+The main objective of the game will be to defend against attacks from those behind and annoy those in front to either sneak in or force them to leave. Every spot gained is a step towards victory (and you will probably get a little bit of a kick out of it).
 
-Como se dice todo vale en el amor y la guerra, así que cualquier táctica es buena, seducción, intimidación, soborno, engaño, incluso duelos de frikismo en el que más sabe del tema de la firma.   
+As they say, all is fair in love and war, so any tactic is good: seduction, intimidation, bribery, deception, even geeky duels in which the one who knows the most about the signature issue.
 
-#### Creando gente de la cola
+#### Creating Queue People
 
-Para crear gente de la cola debes repartir 6 puntos entre las 4 habilidades y tirar 1d8 en cada columna de esta tabla para darles un poco de personalidad.
+To create queue people, you must divide 6 points between the 4 skills and roll 1d8 in each column of this table to give them some personality.
 
-Las ventajas darán +2 a la tirada si es aplicable en la situación y dará un +s a los FLJ si lo conocen y pueden explotarlo de alguna manera.
+Advantages will give a +2 to the roll if applicable to the situation and a +2 to the CPFs if they know it and can exploit it in some way.
 
-Si quieres, dales un objeto firmable y un ítem de equipo que pueden usar y que será el botín que pueden llevarse tus FLJ, si los derrotan.
-|1d10|Descripción|Ventaja|Desventaja|
+If you like, give them a signable object and an item of equipment they can use, which will be the loot your CPFs can take if they defeat them.
+
+|1d10|Description|Advantage|Disadvantage|
 |---|---|---|---|
-|1|Uberfriki|Entrenamiento militar|Terraplanista, conspiranoico, antivacunas, …|
-|2|Madre/Padre con 1d6 menores a su cargo|Se comería lo que vomitaría una cabra|Vejiga pequeña, solo puede cagar en su casa|
-|3|Cazafirmas profesional|Mochila como el bolsillo de Doraemon|Sin nada preparado|
-|4|Fan con disfraz cutre|Abuela que te trae tapers|Resaca mortal|
-|5|Alguien exactamente igual que uno de los FLJ|Amigos en la organización|Batallitas friki|
-|6|Señora o señor mayor que se ha equivocado de fila|Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma|Hipersensible a la luz|
-|7|Fan muy bien disfrazado|Suerte del enano|Estoy viejo para esta mierda|
-|8|Esperacolas a sueldo|Danza lucha|Ubercuñado|
-|9|Un famoso o famosa fan del que está firmando|Mirada inspiradora|Eventos familiar en unas horas|
-|10|Organizador infiltrado|Furgo camperizada|Adictos a los juegos de mesa, cartas, etc.|
+|1|Uber-geek|Military training|Flat-earther, conspiracy theorist, anti-vaccine, ...|
+|2|Mother/Father with 1d6 children in their care|Would eat anything a goat would throw up|Small bladder, can only defecate at home|
+|3|Professional signature hunter|Backpack like Doraemon's pocket|Nothing prepared|
+|4|Fan in a tacky cosplay|Grandma who brings you Tupperware|Deadly hangover|
+|5|Someone exactly like one of the CPF|Friends in the organization|Nerdy stories|
+|6|Older lady or gentleman who got in the wrong line|Stuck in time and must repeat the queue until they get their signature|Hypersensitive to light|
+|7|Well-disguised fan|Luck of the dwarf|I am too old for this shit|
+|8|Paid queue waiter|Dance-fighting|Ultra-brother-in-law|
+|9|A famous male or female fan of the person signing|Inspiring look|Family events in a few hours|
+|10|Infiltrated organizer|Camperized van|Addicts to board games, cards, etc.|
 
-### Otros peligros de la cola
+### Other rislks in the queue
 
-Como DJ, cuando creas conveniente o, si quieres mecanizarlo, cuando la Desesperación total de todos los FLJ sea múltiplo de 3, puedes sacar alguno de estos peligros típicos de cola a los que deberán enfrentarse los FLJ. El peligro puede afectar a todos, como el calor, o a un FLJ en concreto, como una vejiga débil. 
+As a GM, whenever you see fit, or if you want to automate it, when the total Hopelessness of all PFCs is a multiple of 3, you can bring out one of these typical queue hazards that PFCs will have to face. The hazard can affect everyone, like heat, or a specific PFC, like a weak bladder.
 
-* **Mal tiempo:** No es un único peligro. Puede venir en varios formatos, como calor, frío, lluvia, etc.
-* **Cansancio.** Horas de pie tienen su coste.
-* **Sueño.** Si vas a hacer cola durante días dormir es importante.
-* **Hambre.** No solo de frikismo vive el friki.
-* **Sed.** La hidratación es la base de la belleza.
-* **Mear.** El canario necesita que le cambies el agua.
-* **Cagar.** Problemón si eres una persona de un solo trono.
+* **Bad Weather:** It is not a single hazard. It can come in various forms, such as heat, cold, rain, etc.
+* **Tiredness:** Hours of standing have their cost.
+* **Sleep:** If you are going to be queuing for days, sleep is important.
+* **Hunger:** A geek does not live on geekdom alone.
+* **Thirst:** Hydration is the basis of beauty.
+* **Peeing:** The canary needs its water changed.
+* **Shitting:** A big problem if you have the shy bladder syndrome.
 
-Recuerda que estos peligros no son simples tiradas, tendrán, por ejemplo, que buscar algo que beber si tienen sed e igual tienen que intercambiar un objeto firmable por un refresco con los delante.
+Remember that these dangers are not simple rolls; you will have to, for example, find something to drink if you are thirsty, and you might have to exchange a signable object for a soft drink with the people in front of you.
 
 ## Licenses
 
