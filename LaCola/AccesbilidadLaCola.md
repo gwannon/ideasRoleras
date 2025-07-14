@@ -54,10 +54,10 @@ En «La cola» no hay aventuras, hay colas. Cada cola es única y especial y tie
 
 Para empezar hay que definir quién firma y que tipo de frikismo va a haber en la cola. Aquí cabe de todo, desde starfans, trekkies, potterheads, etc. hasta lectores de libros de Sherlock Holmes, seguidores de Trump o imitadores de Elvis.
 
-Seguidamente, debes definir su dificultad con relojes de X sectores. 3 sería muy fácil y más 10 muy difícil. Los sectores puede significar cosas distintas, desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
+Seguidamente, debes definir su dificultad con círculos (también llamados relojes) de X quesitos. 3 sería muy fácil y más 10 muy difícil. Los quesitos puede significar cosas distintas, desde horas o noches de espera a gente por delante de ti hasta llegar a estar dentro de los 50 primeros a los que forman. 
 
-Cuando consigan algo importante rellenar el sector. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un sector.
-Cuando tachen todos los sectores estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
+Cuando consigan algo importante, rellena un quesito. Por ejemplo, conseguir que se vaya el grupo de delante puede ser un hito importante que haga tachar un quesito.
+Cuando tachen todos los quesitos estarán delante de su querido autor, su amada dibujante o a punto de besar el anillo papal.
 
 ### Las reglas de la cola
 
@@ -73,7 +73,7 @@ Lo importante es que cada regla se pueda ser saltada con una habilidad. «No aba
 
 ### El orden en la cola
 
-El objetivo del juego es robarles el sitio a los de delante y defenderse de los intentos de colarse de los de detrás. Así que tus FLJ deberían poder saber quien esta detrás y delante para defenderse de unos y atacarles a otros.
+El objetivo del juego es robarles el sitio a los de delante y defenderse de los intentos de colarse de los de detrás. Así que tus FLJ deberían poder saber quien está detrás y delante para defenderse de unos y atacarles a otros.
 
 Si hay límite de firmas, pueden contar cuanta gente hay delante en la fila y a cuantos grupos tienen que eliminar o colarse para conseguir su firma. Pueden tirar Wikitud para sacar información sobre esos grupos.
 
@@ -81,17 +81,19 @@ Si hay límite de firmas, pueden contar cuanta gente hay delante en la fila y a 
 
 Esta es la gente a la que debes eliminar. Las formas son variadas. Tal vez puedas engañarlas para que se vayan, quizas puedas intimidarlos y que se vayan o puede que puedas negociar con ellos un trato.
 
-Si fuera necesario la desesperación de este grupo siempre será un punto menos de la menor desesperación de tu grupo de FLJ.
+Si fuera necesario la desesperación de este grupo siempre será un punto menos de la menor desesperación de tu grupo de FLJ. Están por delante y está claro que tienen algunas esperanzas más de conseguir.
 
 #### La gente de detrás
 
 Esta gente son tus enemigos directos, quieren lo que tú ya tienes y pasarte por encima les podrá más cerca de su ansiada firma.
 
-Si fuera necesario la desesperación de este grupo siempre será un punto más de la mayor desesperación de tu grupo de FLJ.
+Si fuera necesario la desesperación de este grupo siempre será un punto más de la mayor desesperación de tu grupo de FLJ. Como mínimo tienen que estar un poco más desesperados que tu grupo FLJ.
 
 #### Avanzar en la cola y defender tu sitio
 
-XXX
+El objetivo principal de la partida será defenderse de los ataques de los que están detrás y fastidiar a los de delante para colarte o para hacer que se vayan. Cada puesto ganado es un paso hacia la victoria (y seguramente un rellenarás un quesito)
+
+Como se dice todo vale en el amor y la guerra, así que cualquier táctica es buena, seducción, intimidación, soborno, engaño, incluso duelos de frikismo en el que más sabe del tema de la firma.   
 
 #### Creando gente de la cola
 
