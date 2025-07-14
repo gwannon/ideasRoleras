@@ -11,7 +11,7 @@ Your crazy playable fan (CPF) will have four skills, each of which will distribu
 * **Ninjitude:** This is used to move unseen, steal, sleight of hand, and generally anything criminal within the queue.
 * **Bodytude:** This represents your physical abilities, such as how much you can lift or how fast you move. It also represents your resistance to cold, heat, thirst, hunger, and more.
 
-You can also choose **2 pieces of equipment** that will give you special abilities and **4 items you want signed**. You are not very smart, and you have been worrying more about what you will get signed than what you will need during the long lines.
+You can also choose **2 pieces of equipment** that will give you special abilities and **4 items to be signed**. You are not very smart, and you have been worrying more about what you will get signed than what you will need during the long lines.
 
 The signable items (comics, books, posters, etc.) function as a kind of life point. If you run out of signable objects, you will have to leave the queue and go home crying because you will never get that coveted signature again.
 
