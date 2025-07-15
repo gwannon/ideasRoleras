@@ -9,7 +9,7 @@ $mkd = Markdown::new();
 
 $md = file_get_contents(__DIR__ . "/".$argv[1].".md");
 
-file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
 
 $mkd->setContent($md);
 

@@ -56,10 +56,10 @@ To start, you need to define who will be signing and what kind of geeks will be 
 
 Next, you must define the difficulty with a circle (also called clocks) of X wedges. 3 would be very easy, and 10 would be very difficult. Wedges can mean different things, from hours or nights of waiting to people ahead of you to even being in the top 50 of those in the queue.
 
-When they achieve something important, check a wedge. For example, getting the group in front of them to leave can be an important milestone that requires fill a wedge.
+When they achieve something important, fill a wedge. For example, getting the group in front of them to leave can be an important milestone that requires fill a wedge.
 When they cross off all the little cheeses, they will be standing in front of their beloved author, their beloved cartoonist, or about to kiss the papal ring.
 
-### The Rules of the Queue
+### The rules of the queue
 
 At the start of the queue, the GM will announce the rules of the queue, which have been established by the organizers. Breaking the rules will result in the other people in the queue reporting you to the organizers, and you will have to fight them to keep your spot. Let's look at some examples of queue rules.
 
@@ -69,7 +69,7 @@ At the start of the queue, the GM will announce the rules of the queue, which ha
 4. No smoking, eating, or drinking in the queue.
 5. The security cordon marks the line.
 
-Important hint: each rule can be broken with a skill. «No leaving the queue» with Ninjitude, «No eating in the queue» with Corpitude, etc. The idea is that the rules can be broken in at least one logical way.
+Important hint: each rule can be broken with a skill. «No leaving the queue» with Ninjitude, «No eating in the queue» with Bodytude, etc. The idea is that the rules can be broken in at least one logical way.
 
 ### The Order in the Line
 
@@ -114,11 +114,11 @@ If you like, give them a signable object and an item of equipment they can use, 
 |3|Professional signature hunter|Backpack like Doraemon's pocket|Nothing prepared|
 |4|Fan in a tacky cosplay|Grandma who brings you Tupperware|Deadly hangover|
 |5|Someone exactly like one of the CPF|Friends in the organization|Nerdy stories|
-|6|Older lady or gentleman who got in the wrong line|Stuck in time and must repeat the queue until they get their signature|Hypersensitive to light|
+|6|Old person who got in the wrong line|Stuck in time and must repeat the queue until they get their signature|Hypersensitive to light|
 |7|Well-disguised fan|Luck of the dwarf|I am too old for this shit|
-|8|Paid queue waiter|Dance-fighting|Ultra-brother-in-law|
-|9|A famous male or female fan of the person signing|Inspiring look|Family events in a few hours|
-|10|Infiltrated organizer|Camperized van|Addicts to board games, cards, etc.|
+|8|Paid queue waiter|Dance-fighting|One-upper|
+|9|A famous male or female fan of the person signing|Smoldering Intensity|Family reunion in a few hours|
+|10|Cover-up organizer|Camperized van|Addicts to board games, cards, etc.|
 
 ### Other rislks in the queue
 
@@ -129,8 +129,8 @@ As a GM, whenever you see fit, or if you want to automate it, when the total Hop
 * **Sleep:** If you are going to be queuing for days, sleep is important.
 * **Hunger:** A geek does not live on geekdom alone.
 * **Thirst:** Hydration is the basis of beauty.
-* **Peeing:** The canary needs its water changed.
-* **Shitting:** A big problem if you have the shy bladder syndrome.
+* **Peeing:** A big problem if you have the shy bladder syndrome.
+* **Shitting:** Your are the head chef on the S.S. Diarrhea.
 
 Remember that these dangers are not simple rolls; you will have to, for example, find something to drink if you are thirsty, and you might have to exchange a signable object for a soft drink with the people in front of you.
 
