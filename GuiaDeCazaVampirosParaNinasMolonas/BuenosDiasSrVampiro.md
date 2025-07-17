@@ -973,7 +973,7 @@ Pero esa restricción ha desaparecido y ahora estará al tanto de los planes de 
 
 Las tradiciones vampíricas dictán que Alfonse deje de ser un noob, para ser un veterano y claramente, Lord Ceballos le dejará caer que debe buscarse un siervo vampiro que ocupe su lugar y de Verónica si tus cazadoras han acabado con ella. Puede que Alfonse, empiece a pensarse en convertir a alguna de tus cazadoras. 
 
-Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que relación tenga y a quien quiera tener cerca como su sierva.
+Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que tenga alguna relación y a quien quiera tener cerca como su sierva.
 
 Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como sustituta_, lo cual será un desastre completo, o puede empezar a buscar algún sustituto, lo cual no es nada rápido y fácil.
 
