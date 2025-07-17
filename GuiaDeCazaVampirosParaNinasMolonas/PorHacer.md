@@ -22,24 +22,27 @@ XXX
 
 #### Combate en la casita de chocolate
 
-El combate final debería ser en la casita de chocolate, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podŕia ser en cualquier parte de la fiesta. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.  
+El combate final debería ser en la casita de chocolate, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte de la fiesta. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.  
 
 Lo primero vamos a definir la casita de chocolate
 
-Estos son algunos de los aspectos de los que podrás tiras en el combate:
+Estos son algunos de los aspectos de los que podrás tirar en el combate:
 
-* **Pegajoso:** Todo está pegajoso y es dificil moverse.
-* **Derretiendose:** Del techo caen goterones de chocolate fundido. Alguna cazadora hasta podría lanzar chocolate a los ojos de su enemigo apra cegarlo.
+* **Pegajoso:** Todo está pegajoso y es difícil moverse.
+* **Derritiéndose:** Del techo caen goterones de chocolate fundido. Alguna cazadora hasta podría lanzar chocolate a los ojos de su enemigo para cegarlo.
 
 \sp
 
-* **Inestable:** Tratar de apoyarse contra la pared, de subirse a alguna cosa es casi imposible, todo se derrumba y te queda pegado.
-* **Resbaldizo:** El chocolate fundido del suelo está resbaladizo y es complicado mantener la verticalidad. Además, si te empujan te mueves más de lo normal.
+* **Inestable:** Tratar de apoyarse contra la pared, de subirse a alguna cosa es casi imposible, todo se derrumba, se deshace y te quedas pegado.
+* **Resbaladizo:** El chocolate fundido del suelo está resbaladizo y es complicado mantener la verticalidad. Además, si te empujan te mueves más de lo normal.
 * **XXX:** XXX
 
 Aquí tenemos algunas ideas para hacer el combate más entretenido:
 
+* **Combate de bastones de caramelos:** Parte de la estructura está hecha de bastones de caramelo gigantes con un lado en forma de gancho y pueden ser arrancados y usados como armas. Aunque no podrán hacerle daño a Eloise, podrían engancharla e inmovilizarla o atraerla hacia ellas. Si intentan empalarla con un bastón afilado, a tu gusto si funciona o no.
 * **XXX:** XXX
+
+Eloise, como vampira, puede flotar, así que puede evitar mucho de los problemas de la casita de chocolate, pero el techo hace que no pueda ponerse fuera del alcance de las cazadoras. Además, no quiere manchar su modelito de chocolate y caramelo y va a estar más interesada en proteger su bolso Gucci y sus Manolos, que de acabar con las cazadoras.
 
 ### La noche de los goblins
 
