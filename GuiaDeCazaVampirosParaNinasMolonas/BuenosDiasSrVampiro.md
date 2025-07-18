@@ -987,6 +987,8 @@ Comprende a los humanos mucho mejor que el resto y está a la última y puedes h
 
 Como Alfonse si deciden dejarla con vida, podría ser una buena aliada. Pero a diferencia de Alfonse, Eloise no podrá seguir dentro del plan vampírico. Se trasladará a vivir a su estudio de influencer y seguirá como influencer mientras cuenta a las cazadoras lo que sabe del grupo Ceballos y del plan vampírico.
 
+\sp
+
 También puede ser una poderosa aliada en combate, aunque solo sea por sus poderes vampíricos. Y también como espía o guardaespaldas.
 
 > Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.

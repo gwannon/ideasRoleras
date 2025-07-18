@@ -22,17 +22,16 @@ XXX
 
 #### Combate en la casita de chocolate
 
-El combate final debería ser en la casita de chocolate, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte de la fiesta. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.  
+El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte de la fiesta. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.  
 
-Lo primero vamos a definir la casita de chocolate
+La casita de chocolate tiene una serie de características que debes tener en cuenta en el combate. Es un entorno cerrado y pequeño unos 12 metros cuadrados (3x4 m) y unos 3 altos en la parte más alta. XXX
 
 Estos son algunos de los aspectos de los que podrás tirar en el combate:
 
-* **Pegajoso:** Todo está pegajoso y es difícil moverse.
-* **Derritiéndose:** Del techo caen goterones de chocolate fundido. Alguna cazadora hasta podría lanzar chocolate a los ojos de su enemigo para cegarlo.
-
 \sp
 
+* **Pegajoso:** Todo está pegajoso y es difícil moverse.
+* **Derritiéndose:** Del techo caen goterones de chocolate fundido. Alguna cazadora hasta podría lanzar chocolate a los ojos de su enemigo para cegarlo.
 * **Inestable:** Tratar de apoyarse contra la pared, de subirse a alguna cosa es casi imposible, todo se derrumba, se deshace y te quedas pegado.
 * **Resbaladizo:** El chocolate fundido del suelo está resbaladizo y es complicado mantener la verticalidad. Además, si te empujan te mueves más de lo normal.
 * **XXX:** XXX
@@ -40,6 +39,7 @@ Estos son algunos de los aspectos de los que podrás tirar en el combate:
 Aquí tenemos algunas ideas para hacer el combate más entretenido:
 
 * **Combate de bastones de caramelos:** Parte de la estructura está hecha de bastones de caramelo gigantes con un lado en forma de gancho y pueden ser arrancados y usados como armas. Aunque no podrán hacerle daño a Eloise, podrían engancharla e inmovilizarla o atraerla hacia ellas. Si intentan empalarla con un bastón afilado, a tu gusto si funciona o no.
+* **Batalla de bolas de helado:** Dentro de la casita de chocolate hay varios depósitos de helado que pueden ser usados para hacer bolas de helado y lanzarlos. Daño no hacen, pero pueden distraer y desde luego es cómico.
 * **XXX:** XXX
 
 Eloise, como vampira, puede flotar, así que puede evitar mucho de los problemas de la casita de chocolate, pero el techo hace que no pueda ponerse fuera del alcance de las cazadoras. Además, no quiere manchar su modelito de chocolate y caramelo y va a estar más interesada en proteger su bolso Gucci y sus Manolos, que de acabar con las cazadoras.
