@@ -40,9 +40,12 @@ Aquí tenemos algunas ideas para hacer el combate más entretenido:
 
 * **Combate de bastones de caramelos:** Parte de la estructura está hecha de bastones de caramelo gigantes con un lado en forma de gancho y pueden ser arrancados y usados como armas. Aunque no podrán hacerle daño a Eloise, podrían engancharla e inmovilizarla o atraerla hacia ellas. Si intentan empalarla con un bastón afilado, a tu gusto si funciona o no.
 * **Batalla de bolas de helado:** Dentro de la casita de chocolate hay varios depósitos de helado que pueden ser usados para hacer bolas de helado y lanzarlos. Daño no hacen, pero pueden distraer y desde luego es cómico.
+* **A lo depredador:** Tus cazadoras pueden embadurnarse a propósito de chocolate. Para empezar debería ser más fácil esconderse dentro de la casita. Esta estrategia también podría darles ciertas ventajas, como que sean resbaladizas y Eloise no pueda hacerles una presa fácilmente (aparte de que no quiera ensuciar su traje).
 * **XXX:** XXX
 
 Eloise, como vampira, puede flotar, así que puede evitar mucho de los problemas de la casita de chocolate, pero el techo hace que no pueda ponerse fuera del alcance de las cazadoras. Además, no quiere manchar su modelito de chocolate y caramelo y va a estar más interesada en proteger su bolso Gucci y sus Manolos, que de acabar con las cazadoras.
+
+Recuerda que si tratan de escapar o de irse en sigilo será imposible, dejarán un rastro de chocolate que las delatará.
 
 ### La noche de los goblins
 
