@@ -408,7 +408,7 @@ Sus increíbles poderes de regeneración hace que __se curen de todo daño tras 
 
 #### Visión en la oscuridad
 
-Los vampiros pueden ver perfectamente independientemente de las condiciones de luz, pueden incluso ver en plena oscuridad sin ninguna fuente de luz.
+Los vampiros tienen visión térmica y pueden ver perfectamente independientemente de las condiciones de luz, pueden incluso ver en plena oscuridad sin ninguna fuente de luz.
 
 ### Debilidades vampíricas
 

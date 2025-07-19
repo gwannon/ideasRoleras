@@ -976,24 +976,37 @@ Las tradiciones vampíricas dictán que Alfonse deje de ser un noob, para ser un
 Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que tenga alguna relación y a quien quiera tener cerca como su sierva.
 
 Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como sustituta_, lo cual será un desastre completo, o puede empezar a buscar algún sustituto, lo cual no es nada rápido y fácil.
+### La casita de chocolate
 
-|PorHacer.md|
+__NOCHE__
 
-### Eloise como aliada
+Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo que no se puedan resistir.
 
-Si tus cazadoras dejaron escapar a Alfonse como aliado, puede ser interesante darle la opción de aliarse con Nieve de alguna manera. Piensa que es, dentro de la pirámide vampírica y junto a Alfonse, uno de los personajes más humano y más cercanos a ellos.
+La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
-Comprende a los humanos mucho mejor que el resto y está a la última y puedes hacer que con los años de streamer/influencer haya aprendido a verlos como algo distinto a simples presas e incluso tenga amistades online importantes para ella.
+Tus cazadoras recibirán una visita inesperada a la salida de clase, un chambelán, un grupo de mariachis, un tragafuegos, etc. excentricidades de youtuber que les entregarán una invitación a la fiesta de cumpleaños de Celose.
 
-Como Alfonse si deciden dejarla con vida, podría ser una buena aliada. Pero a diferencia de Alfonse, Eloise no podrá seguir dentro del plan vampírico. Se trasladará a vivir a su estudio de influencer y seguirá como influencer mientras cuenta a las cazadoras lo que sabe del grupo Ceballos y del plan vampírico.
+Les entregará una invitación escrita personalmente por Celose y una bolsa regalo con entre otras cosas un **cheque regalo de una lujosa** **tienda de ropa del centro** y una **autorización que** **deberán firmar sus padres**.
+
+El resto de objetos de la bolsa ponles lo que quieras. Pero que sea caro y lujoso y que puedan chulear frente a sus amistades de esas cosas. Si quieres paranoia, algo personalizado para cada cazadora, para que piensen que las conoce muy bien, quizás demasiado bien.
+
+El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, pero nada cómoda para escalar, correr, pelear, etc. Pero si permite esconder fácilmente equipo.
+
+Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
+
+Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. Y todos sus compañeros de clase les habrán inundado de mensajes.
 
 \sp
 
-También puede ser una poderosa aliada en combate, aunque solo sea por sus poderes vampíricos. Y también como espía o guardaespaldas.
+Tus cazadoras deberán conseguir que sus padres firmen la autorización. Quizás tengan buenas notas y nadie sepa de sus actividades nocturnas y sus padres se las firmen encantados.
 
-> Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.
+También puede ser que sus padres crean que esa fiesta no sea bueno para ellas y se nieguen a firmar, con lo que tendrán que falsificar la firma y escaparse para asistir a la fiesta.
 
-Si alguna de tus cazadoras tienen destaca por su belleza, su carisma y tiene gusto por la moda y se interesa del famoseo, podrá atraer la atención de Eloise y esta podría trabar una amistad más profunda con ella y, como siempre, ofrecerle convertirla en un chupasangre.
+Sea como sea Celose, se ha asegurado de que nadie pueda poner pegas a firmar la autorización. Es una fiesta sin humo y alcohol, con seguridad y con responsables del cuidado de menores y una psicóloga por si hubiera problemas.
+
+El día que vayan de compras con el cheque regalo, puedes hacerles una escena divertida de compras con dependientes haciéndoles la pelota y probándose toda suerte de trajes. Quizás puedas aplicar alguna de las sugerencias de las pijamadas como poner motes a partir de contar historias vergonzosas.
+
+|PorHacer.md|
 
 \sp
 
