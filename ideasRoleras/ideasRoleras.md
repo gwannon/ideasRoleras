@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 04/07/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 18/07/2025](https://gwannon.itch.io/ideas-roleras) 
 
 ## Juegos completos y ambientaciones
 
@@ -496,6 +496,16 @@ Crear una ambientación para jugar aventuras en el mundo de Top Secret. Un mundo
 
 Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de la celda y encerrarte dentro, abren la puerta y te sacan.
 
+### Reunión de vecinos
+
+Estaríamos hablando de un JdR indie de humor que simularía una reunión de vecinos rollo Aquí no hay quien viva. Cada jugador sería un vecino y el DJ sería el administrador de fincas.
+
+Cada vecino sería el típico arquetipo de vecino, rollo el moroso, el cotilla, el escaqueado, el ruidoso, … y cada sesión sería un problema en la comunidad que hay que resolver.
+
+El presidente tendría poderes especiales de presidente y los vecinos deberían averiguar chismes de otros vecinos para chantajearlos y voten como ellos quieran. También podría, hacerse sobornos, amenazas, tonteo y seducción, …
+
+Cuando presidente vote en una derrama y pierde, tendrá que hacerse unas nuevas votaciones para elegir al nuevo presidente.
+
 ### La villa secreta de las mascotas
 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
@@ -678,6 +688,10 @@ Montar una campaña donde los PJ son parte de una troupe de artistas que se muev
 * Tienen que escapar de un grupo religioso que considera pecado las actuaciones de los miembros de la troupe.
 * Uno de los miembros de la troupe es el heredero bastardo de algún monarca y quieren acabar con él/ella para que no reclamé sus derechos.
 
+### Detectives Txikiteros
+
+Un hack de Brindlewood Bay donde se juega con un grupo de txikiteros, que resuelven casos y evitas horrores primigenios. Los txikiteros son grupos de amigos de toda la vida que se van de txikiteo, es decir, van de bar en bar tomando txikitos (una medida de vino muy pequeña). Hacen siempre la misma ronda de bares y en ellos a veces cantan canciones tradicionales y hacen siempre los mismos chistes. Suelen ser grupos de gente mayor y es algo como muy icónico de los bares de Bilbao. 
+
 ### Silicon Valley
 
 Una aventura situada en Silicon Valley en los 90/2000 con las grandes tecnológicas creándose podría dar mucho juego.
@@ -754,13 +768,3 @@ El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
 
 O recoger las manzanas del manzano sobre las que hecho la siesta Newton para que no se quede tonto y en vez de descubrir solo la gravedad, descubra también como viajar a la velocidad de la luz.
-
-\sp
-
-### La extraordinaria liga de ayudantes
-
-Sería una aventura donde llevas a los ayudantes de personajes de ficción famosos. Watson de Sherlock Holmes, XXX
-
-### Burócrata como clase de personaje
-
-Estamos hablando de personaje que se conoce las leyes y tiene los contactos necesarios para usar la burocracia y XXX
