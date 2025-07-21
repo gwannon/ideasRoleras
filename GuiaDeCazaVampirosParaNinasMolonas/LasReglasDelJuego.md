@@ -314,6 +314,7 @@ Es fundamental controlar cuando sale y se pone el sol, así que las apps con esa
 ```
 A nivel de juego puedes usar unas tarjetas que encontrarás en el Epílogo para determinar si es noche o de dia. Al principio de cada escena debes poner el que más se adecue a la hora. Recuerda que si pones las tarjetas de amaneciendo o anocheciendo se supone que al final de la escena se hará de día o de noche respectivamente.
 ```
+
 \sp
 
 \sinc
