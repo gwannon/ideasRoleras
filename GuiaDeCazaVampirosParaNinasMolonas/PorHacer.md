@@ -51,7 +51,47 @@ Si tus cazadoras no le ponen fácil la huida, puedes colapsar la estructura de l
 
 ### La noche de los goblins
 
-Lord Ceballos cree en segundas oportunidades, pero no en terceras. Eloise ha fallado en su primera oportunidad y solo tiene una y única segunda oportunidad. Así que esta ve tiene que poner toda la carne en el asador.
+Eloise ha fallado en su primera oportunidad y Lord Ceballos se está impacientando ante su falta de éxitos. Así que solo tiene una y única segunda oportunidad. Esta vez va a tener que poner toda la carne en el asador.
+
+Tus cazadoras ya deberían saber que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, debería saber quien son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas.
+
+Eloise va a volver a montar otro evento, esta vez una especie de rave ilegal. La va a empezar promocionar muchísimo y creará un tremendo FOMO con ella. Espera que las cazadoras acudan para matarla, ya que ella como Celose será el centro todo el evento.
+
+XXX
+
+#### Buscando la hora y el lugar
+
+XXX
+
+#### Llamando a los goblins
+
+Colarse en la rave será fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
+
+El principal problema es que ellas solas entre gente mucho más mayor darán en cante enseguida y serán detectadas en cuanto pongan un pie dentro del polígono abandonado. Así que necesitarán una distracción. Los fuegos, las alarmas y otras formas de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
+
+Pero y si llenan la rave de niños y niñas como ellas. Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos saltando y corriendo por todas partes.
+
+Cuando vean que sus planes no son viables puedes proponerles que consulten con algún experto (o mejor pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos. O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención de Papa Noeles.
+
+\sp
+
+> Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
+
+#### Llamando a los goblins
+
+XXX
+
+Algunas ideas interesantes que pueden tener:
+
+* Decirle a sus amigos que vayan con máscaras para no ser identificados.
+* Decirles que lo normal es llevar ropas oscuras y luces fluorescentes, así ellas no destacarán entre el resto de menores. 
+* XXX
+
+#### La rave
+
+XXX
+
+#### ¿Por qué parece el principio de Blade?
 
 XXX
 
