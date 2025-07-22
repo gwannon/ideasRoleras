@@ -592,6 +592,7 @@ No puedes pedir cualquier cosa (sueño con unas gafas de visión nocturna) porqu
 Hay cientos de vídeos explicando como hacer más efectiva tus pistolas, rifles y cañones de agua sin saber que han ayudado a parar la plaga vampírica que amenaza nuestros barrios y ciudades.
 
 [![Pistola agua Xiaomi](./assests/images/pistola-agua.jpg "Pistola agua Xiaomi")](https://m.media-amazon.com/images/I/71aOczXzPvL._AC_SX679_.jpg "Pistola agua Xiaomi")
+
 Puedes pillarte algo normalito durante todo el año, pero en cuanto llega el verano y las tiendas de juguetes se llenan de flotadores, colchonetas y churros de piscina, coge uno de sus catálogos y disfruta pensando cuál vas a comprarte para tu próxima misión.
 
 ### Globos de agua
@@ -1149,7 +1150,7 @@ Grita a todo el mundo y está todo el tiempo enfadado. No sabe nada especial de 
 
 Si se ponen a investigar a la familia Lujua, solo podrán sacar lo de que son propietarios de pisos (por ello los avisos de desahucio). Parece que Ernesto se dedica a la política y que su hermana no tenía ningún interés en el negocio de la familia, pero desde luego su muerte ha dejado vía libre a su hermano en la dirección que toma la empresa de alquileres de piso.
 
- 
+ \sp
 
 ### Los secretos de Maricarmen
 
@@ -2602,6 +2603,7 @@ Aquí tienes las bíos de los personajes principales de la aventura para que pue
 Lord Ceballos lleva con nosotros desde hace más de 200 años. Nacido en una familia muy rica de la ciudad, uso sus poderes vampíricos y el dinero familiar para montar una empresa que en pleno siglo XXI es casi una megacorporación muy poderosa, el Grupo Ceballos. Pero Grupo Ceballos es solo una parte (muy importante eso sí) de su gran plan vampírico para controlar toda la ciudad.  
 
 [![Wesker By MonkeyMu](./assests/images/wesker_by_monkeymu_d4yu3vz-375w-2x.jpg "Wesker By MonkeyMu")](https://www.deviantart.com/monkeymu/art/Wesker-300376367 "Wesker By MonkeyMu")
+
 El principal problema hoy en día que tiene el plan vampírico de Lord Ceballos es el propio Lord Ceballos, está demasiado anclado en el pasado e intenta usar trucos muy viejos en un mundo moderno y claramente muchas veces fallan. Aun así sus siervos vampíricos se encargan de modernizar sus trucos al nuevo siglo a escondidas de él. 
 
 Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otras zonas de la ciudad, es que no te quepa duda.
@@ -2639,6 +2641,7 @@ El paso a vampiro no fue nada traumático, como pensaba Lord Ceballos. Había te
 Tras esas semanas, lo puso como «noob» al servicio de Néstor, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
 
 [![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
+
 Alfonse odia profundamente Néstor y está buscando una manera de acabar con él y quedarse su puesto. Así que muy posiblemente vea a tus cazadoras como una oportunidad de deshacerse de él, para luego traicionarlas luego y ganarse la confianza de Lord Ceballos y obtener el puesto de Néstor.
 
 Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bastante transgresor en sus elecciones de vestuario. Como persona no binaria juega con ello en su forma de vestir buscando siempre crear outfits rompedores y chocantes.
@@ -2681,6 +2684,7 @@ La convirtió en vampira durante una convención de empresas del grupo (y paso a
 Como Jefa de operaciones de una gran corporación sufre bastante estrés. El estrés en los vampiros no funciona igual que en los humanos, ya que la parte física no se ve muy afectada por el estrés. Sus cuerpos ya están muertos y no sufren muchos cambios. Así que el efecto en su psique es el doble de grave. 
 
 [![Joaquina Maya, Clan Ravnos By IvanValladares](./assests/images/joaquina_maya__clan_ravnos_by_ivanvalladares_d1hycdc-414w-2x.jpg "Joaquina Maya, Clan Ravnos By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Joaquina-Maya-Clan-Ravnos-90621984 "Joaquina Maya, Clan Ravnos By IvanValladares")
+
 De esta manera, Nieve sufre despistes y lapsus de memoria. Normalmente, son tonterías, pero se ha dejado a veces a víctimas vivas o muertas en el capó del coche durante horas y días.
 
 También se ha vuelto muy sensible a los olores molestándole mucho, de hecho, el olor a ajo la repele muchísimo más que al resto de chupasangres y no puede aguantar estar en una habitación con alguien que ha comido ajo o cebolla.
@@ -2755,6 +2759,7 @@ A diferencia de otros siervos vampíricos, le pidió permiso y le explico las ve
 Una cosa que guarda en secreto para el resto de vampiros es que le encantan las redes sociales donde sus encantos pueden llegar más lejos y a más gente. De unos años a esta parte ha conseguido ser una influencer menor, pero con seguidores muy fans.
 
 [![[COMMISSION] Cheelu By aeeriz](./assests/images/_commission__cheelu_by_aeeriz_de1pgfp-414w-2x.jpg "[COMMISSION] Cheelu By aeeriz")](https://www.deviantart.com/aeeriz/art/COMMISSION-Cheelu-849393781 "[COMMISSION] Cheelu By aeeriz")
+
 Se hace llamar Celose y evita toda estética gótica, pero conserva su carisma y elegancia. La mayor parte de sus followers no les importa lo que dice, solo la siguen por como lo dice.
 
 Celose tiene que hacer toda esta actividad a escondidas e incluso se ha alquilado un piso secreto desde donde hace sus directos hablando de sus cosas, comentando desde noticias de política internacional a outfits de la alfombra roja. 
@@ -2801,6 +2806,7 @@ Fue creada también por Lord Guzmán y por eso Ceballos la considera una especie
 Aun así, «Cova» tiene una ventaja frente a sus compañeros. Digamos que el estancamiento en 1920 hace que piense fuera de la caja de la época actual. Cuando se plantea un problema aplica su mente de 1920 con un mundo sin casi tecnología y propone planes sencillos y directos que no se basan en las modernidades que proponen el resto de servidores de Lord Ceballos.
 
 [![Hexerei, Clan Ventrue By IvanValladares](./assests/images/hexerei__clan_ventrue_by_ivanvalladares_duv7i4-375w-2x.jpg "Hexerei, Clan Ventrue By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Hexerei-Clan-Ventrue-51844540 "Hexerei, Clan Ventrue By IvanValladares")
+
 Mientras que sus compañeros más jóvenes recomendarían sobornar a un político con criptomonedas, cuentas en paraísos fiscales y una pantalla de empresas falsas, «Cova» siempre será más de ofrecerle 2 lingotes de oro y un cuadro valorado en miles de euros.
 
 * **Aspectos**
@@ -2873,6 +2879,7 @@ Estudio derecho con gran esfuerzo propio y de su familia y entorno cercano y cua
 Catalina no les niega a nadie su ayuda y siempre está en primera línea cuando los antidisturbios se ponen en plan nazi y empiezan a golpear sus porras contra sus escudos sin amedrentarse ni un ápice. 
 
 [![Painting sketch By ArthurHenri](./assests/images/painting_sketch_by_arthurhenri_dctgtac-414w-2x.jpg "Painting sketch By ArthurHenri")](https://www.deviantart.com/arthurhenri/art/Painting-sketch-775087428 "Painting sketch By ArthurHenri")
+
 Así que sea el problema que tengas a ambos de la ley, querrás que este de tu lado y te defienda. 
 
 En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el barrio de toda índole y eso no es normal, no pueden ser coincidencia, pero ni de lejos se imagina que hay un grupo de vampiros tratando de acabar con su barrio. Así que si alguien le viene que no ese cuento no lo tomará en serio a no ser que tenga pruebas sólidas e irrefutables. 
@@ -2899,6 +2906,7 @@ En los últimos meses, está notando que empiezan a pasar demasiadas cosas en el
 Verónica es una veterana doctora de urgencias a la que Néstor transformó en vampira, porque necesitaba a alguien dentro del sistema de salud para qué le ayudará con los planes de Lord Ceballos en el barrio y por propio interés como sociopata.
 
 [![Your heaven’s a lie By keep-breathing](./assests/images/your_heaven_s_a_lie_by_keep_breathing_d3iyvgd-375w-2x.jpg "Your heaven’s a lie By keep-breathing")](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685 "Your heaven’s a lie By keep-breathing")
+
 A diferencia de sus congéneres, la caza es más una molestia más que una parte importante de su no-vida, así que no ha desarrollado ninguna habilidad relacionada con conseguir su sustento sanguíneo.
 
 Verónica simplemente depreda de los pacientes del hospital. Sabe de qué pacientes beber sin producirles daño, cuáles están sedados y no se enterarán y donde morder para no dejar rastro de sus festines.
@@ -3293,12 +3301,15 @@ Aquí tienes algunos posts, películas, libros y comics que te pueden ayudar a d
 ### Día
 
 [![Token Día](./assests/images/icono-dia.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
 ### Anochecer
 
 [![Token Día](./assests/images/icono-anochecer.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
 ### Noche
 
 [![Token Día](./assests/images/icono-noche.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
+
 ### Amanecer
 
 [![Token Día](./assests/images/icono-amanecer.jpg "Token Día")](https://www.freepik.com/free-vector/set-sun-moon_2958644.htm "Token Día")
@@ -3310,7 +3321,9 @@ Aquí tienes algunos posts, películas, libros y comics que te pueden ayudar a d
 ## Otros proyectos que te pueden interesar
 
 Si os ha gustado esta campaña podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
+
 [![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
+
 [**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
 
 [**Doctor Jekyll y Mister Hyde: Más extraños casos**](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-mas-extranos-casos) trae 3 nuevos casos para el juego de rol para Fate Acelerado «Doctor Jekyll y Mister Hyde: Investigadores privados», donde tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos.

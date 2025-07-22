@@ -19,7 +19,7 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/../AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\sp", "\sc", "\sinc", "\conc", "\n\n&nbsp;\n"], "", $md)));
+file_put_contents(__DIR__ . "/../AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\n\n\sp", "\n\n\sc", "\n\n\sinc", "\n\n\conc", "\n\n&nbsp;"], "", $md)));
 
 //file_put_contents(__DIR__ . "/../todo.md", $md);
 
