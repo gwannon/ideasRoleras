@@ -1914,6 +1914,10 @@ XXX
 
 XXX
 
+En última instancia, Celose publicará un vídeo dando la hora y el lugar. Pero no será un mensaje sin más, sino un pequeño acertijo que solo tus cazadoras podrán descifrar, ya que tienen info que solo sabe ellas, como datos que solo ellas deberían saber de Néstor.
+
+XXX
+
 #### Llamando a los goblins
 
 Colarse en la rave será fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
@@ -1922,7 +1926,9 @@ El principal problema es que ellas solas entre gente mucho más mayor darán en 
 
 Pero y si llenan la rave de niños y niñas como ellas. Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos saltando y corriendo por todas partes.
 
-Cuando vean que sus planes no son viables puedes proponerles que consulten con algún experto (o mejor pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos. O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención de Papa Noeles.
+Cuando vean que sus planes no son viables puedes proponerles que consulten con algún experto (o mejor pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
+
+O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención de Papa Noeles.
 
 > Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
 
