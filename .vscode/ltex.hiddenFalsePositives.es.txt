@@ -1,0 +1,105 @@
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QNo podemos usar «Esto es bueno bueno» que va de demostrar que la casa es de buenos materiales cuando hablamos de ubicación.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qconsigues XXX\nSi tiras con fuerza:\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QReplica a menor escala de un zigurat con pésima decoración interior, paredes de gotelé y pintado de un terrible rojo sangre.\\E$"}
+{"rule":"FORM","sentence":"^\\Q5 Los árboles toman conciencia y les salen caras y hablan, los hongos de la mazmorra se convierten en seres sintientes con forma humanoide o los vegetales del huerto crecen desmesuradamente y pueden hablar y moverse.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\Q1 Las insalubres condiciones del inmueble traen enfermedades sarna de goblin, picazón axilar de enano o ronchas pálidas de elfo oscuro.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QIndica la magia oscura y la corrupción que destila el lugar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMystical forest cave entrance brgfx\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QMystical forest cave entrance brgfx\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBy vi:User:Mth - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=94966335\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QPero adquirir un pequeño castillo en la perla de la Costa Oscura de Barovia no fue la mejor idea del conde.\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y tienes éxito en la tirada con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}
+{"rule":"REAL","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi lo logras puedes modificar un punto hacia arriba o hacia el atributo del defecto de la casa soñada del comprador de forma que se acerque a las estadísticas reales del inmueble.\\E$"}
+{"rule":"REAL","sentence":"^\\Q6 No tenéis permisos de obra de ninguna de las reformas y eso es una infracción muy grave de las ordenanzas reales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSleepy Cave Dragon By Alexander-Werner-Jr\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble.\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QGoblin's Pike - The Goblin Tribe By Alexander-Werner-Jr\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGoblin's Pike - The Goblin Tribe By Alexander-Werner-Jr\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qse ha hecho vegano.\\E$"}
+{"rule":"INFINITIVO_LA","sentence":"^\\Q5 Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumoso o roja sangre y vísceras según a quien vayáis a venderlo.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\Q1 Las insalubres condiciones del inmueble traen enfermedades, sarna de goblin, picazón axilar de enano o ronchas pálidas de elfo oscuro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl problema es que ha pillado a tus clientes en el teleportador que va de una parte a otra del inmueble y habrá que sustituir todo lo que no funciona.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QEsto es bueno bueno (Espacio):\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QSirve para cualquier atributo siempre que haya que hacer esfuerzos grandes y si el cliente tiene cuerpo físico.\\E$"}
+{"rule":"INFINITIVO_LA","sentence":"^\\Q5 Hay que hacer la lechada de todos los espacios del inmueble, igual hay que hacerla blanca inmaculada, verde grumosa o roja sangre y vísceras según a quien vayáis a venderlo.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QEsto es bueno bueno».\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y tienes éxito en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}
+{"rule":"REAL","sentence":"^\\QTiras los dados y obtienes más éxitos en la tirada, con lo que consigues que la casa soñada de los monjes pase de Ubicación 3 a 2, con lo que estás más cerca de los atributos casa real y de poder vendérsela.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPor ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría, arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLo primero es definir que profesión tenían antes de ser aventureros (granjeros, porqueros, cazarratas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QEsto nos dirá las tiradas de reparación que puede realizar.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPoco hay que decir, está es la habilidad que usarás para mentir al cliente y endosarle una mierda de casa por un precio desorbitadamente alto y decir que es el mercado para ofrecer un punto de vista diferente sobre una cualidad que bien pudiera ser un defecto o una oportunidad y por la que va a pagar un montón de pasta.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSoul Harvest By Naxeras\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDungeon and dragons fan art By selene713\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QDungeon and dragons fan art By selene713\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLlevas toda la vida jugando con la muerte y dominando los oscuros poderes de la nigromancia y ya estás aburrido.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcastillo gótico entre nubes\nseñal SE VENDE\nbordes piedra\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\Qcastillo gótico entre nubes\nseñal SE VENDE\nbordes piedra\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\Qfondo de piedra\ncastillo en la costa de noche\nzigurat\ncueva en el pantano\ncueva de dragón\ntribu de goblins\nliche invocando almas\npersonajes Dragones y Mazmorras\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl código fuente puedes encontrarlo en GitHub/IdeasRoleras.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMermelada rolera RnR 2025\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCreado para la Mermelada rolera RnR 2025 organizada por Rolerøs No Representativøs\\E$"}
+{"rule":"SI_AFIRMACION2","sentence":"^\\QSi, por ejemplo, quieren mejorar su ubicación puedes decirles que quizas deban poner una queja en el ayuntamiento para que vuelvan a enterrar a los zombis del cementerio cercano que un nigromante borracho levantó en Año Nuevo.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi era diestro y furtivo, Ocultar.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QQuizas pongas una manta cubierta de ramas sobre un agujero de disformidad que hay en el patio o pongas diademas con cuernos a las ratas del sótano y dices que son cabras de interior para conseguir leche para hacer queso.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QPor ejemplo, por un precio de 5 quizas te den 5 tiradas de tesoro aleatorio, 5 espadas mágicas o directamente 5 cofres con 5000 monedas de oro en cada uno.\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QUna vez que a base de reparar, ocultar y tergiversar la realidad, has convencido al alquimista loco de que el mausoleo perdido en el bosque que tenía un antiguo culto de violinistas satánicos es el lugar perfecto para trasladar su laboratorio de pociones, llega la hora de hablar de las monedas de oro.\\E$"}
+{"rule":"CUAL_CON_TILDE","sentence":"^\\QDurante esta visita pueden tratar de ver que clientes son los mejores y a cuales vender mejor la finca.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAncient dark arena for gladiator battles by upklyak\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPor ejemplo, un guerrero que era aprendiz de carpintero y reparaba armas podría arreglar el rastrillo de la fortaleza roto por «vete tú a saber quién y no miro a nadie» o poner suelo nuevo a la sala del trono empapado de vete tú a saber de mezcla de fluidos corporales e icores varios que «vete tú a saber quien ha derramado y no miro a nadie».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOld wizard character working magic by upklyak\\E$"}
+{"rule":"REAL","sentence":"^\\QCada punto de diferencia entre la casa real y la soñada le dará un dado extra al comprador a la tirada de Negociar el precio.\\E$"}
+{"rule":"REAL","sentence":"^\\QSi gana el vendedor se vende al precio de la casa real y si gana el comprador se venderá al valor del Crédito del comprador.\\E$"}
+{"rule":"ES_SIMPLE_REPLACE_VERBS","sentence":"^\\QRolea una pequeña presentación con el comprador para que puedan tratar de pensar como es su casa soñada.\\E$"}
+{"rule":"FORM","sentence":"^\\QPara ello lanza dos dados y suma 1 dado extra si fueron ingeniosos en el anuncio y en la forma de difundirlo.\\E$"}
+{"rule":"FORM","sentence":"^\\QParece una tarea banal, pero tiene su gracia, sobre porque puede usarlo para abroncar a tus jugadores con las cosas que hicieron terriblemente mal mientras explroaban la mazmorra que tan genialmente habías creado y que se cargó la partida hacerles ver a tus jugadores los puntos de mejora en su forma de juego durante la exploración de la mazmorra, templo, castillo, ruinas, etc.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QLo primero es definir que profesión tenían antes de ser aventureros (labradores, porqueros, cazarratas, …) (terratenientes, criadores de ganado porcino, exterminadores de plagas, …), su profesión actual (los guerreros suelen ser armeros y herreros, los bardos escribanos y cartógrafos, los magos alquimistas, …) y su clase actual.\\E$"}
+{"rule":"FORM","sentence":"^\\QParece una tarea banal, pero tiene su gracia, sobre porque puede usarlo para abroncar a tus jugadores con las cosas que hicieron terriblemente mal mientras exploraban la mazmorra que tan genialmente habías creado y que se cargó la partida hacerles ver a tus jugadores los puntos de mejora en su forma de juego durante la exploración de la mazmorra, templo, castillo, ruinas, etc.\\E$"}
+{"rule":"FORM","sentence":"^\\QY nunca está de más que el druida en forma animal haga malabares con un cartel de «En venta» en el camino cercano a vuestro inmueble.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYou’re the Devil in Disguise\\E$"}
+{"rule":"FORM","sentence":"^\\QAun así no abandonara su forma «trash».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVisitando la APCHUM\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe hecho puede presentar cuentas de que llevan meses ayudando a la asociación de protección y conservación de los humedales «APCHUM».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPintada vanpiro esiten\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcada una con sus movimientos y su valor.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPsicólogo «new age».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIt’s Now or Never\\E$"}
+{"rule":"PRESENT","sentence":"^\\QLa difunta está de cuerpo presente y ninguna ha visto nunca un muerto.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmás siendo un político cuya imagen puede verse comprometida.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QJailhouse Rock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFront view young female dj entertaining crowd by Freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIn love with a Vampire By cylonka\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHigh angle dj woman at control panel by Freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPro gamer participating in gaming competition all night by DC Studio\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVamp it up By NanFe\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWide shot of a modern and busy city with dark clouds and orange sky by wisetock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFoto de llama por wisetock\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSticker Cinderella running by Elizabeth\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVersatile Red Swiss Army Knife by brgfx\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPegatina Roller Derby Girl By malvarisco21\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIn the Ghetto\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlways on My Mind\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi siguen alguna de estas pistas, deberían encaminarse a alguno de los centros de distribución de drogas de Néstor y puedes pasar al siguiente capítulo «Burning Love».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPsicólogo «new age»\nBueno (+2) en:\\E$"}
+{"rule":"CARPET","sentence":"^\\QCarpeta de documentos: hay muchos recibos de donaciones a ONG varios y avisos de banco unos 2.500 € cada mes de una entidad con nombre «Fideicomiso Lujua».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHosts of Angband By SpartanK42\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLight from an open door by rawpixel.com\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDorcha By sokoistrying\\E$"}
+{"rule":"SPACE_UNITIES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCOMMISSION Cheelu By aeeriz\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHexerei, Clan Ventrue By IvanValladares\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOndolemar doodle By Elleylie\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPainting sketch By ArthurHenri\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCuerpitud: representa tus capacidades físicas, como lo que puedes levantar o lo rápido que te mueves.\\E$"}
+{"rule":"CARTOON","sentence":"^\\QLiteralmente puede ser cualquier cosa, desde disfraces furros a complejas estructuras de cartón que te hacen parecer un Transformer.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\Q2 Madre/Padre con 1d6 menores a su cargo Se comería lo que vomitaría una cabra Vejiga pequeña, solo puede cagar en su casa\n3 Cazafirmas profesional Mochila como el bolsillo de Doraemon Sin nada preparado\n4 Fan con disfraz cutre Abuela que te trae tapers Resaca mortal\n5 Alguien exactamente igual que uno de los FLJ Amigos en la organización Batallitas friki\n6 Señora o señor mayor que se ha equivocado de fila Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma Hipersensible a la luz\n7 Fan muy bien disfrazado Suerte del enano Estoy viejo para esta mierda\n8 Esperacolas a sueldo Danza lucha Ubercuñado\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDifferent people stand in queue characters row by upklyak\nAuthor Brandon Sanderson signing one of this book by Ceridwen\nDe cerca o retrato de un lindo cerdo negro by freepik\nPersonajes en kigurumi, personas con disfraces de animales en fiesta de pijamas by upklyak\nColección de elementos de personajes de videojuegos dibujados a mano by pikisuperstar\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCreado para la One-Page RPG Jam 2025.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas formas son variadas.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa idea es que las reglas se puedan saltar por lo menos una forma lógica.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q2 Madre/Padre con 1d6 menores a su cargo Se comería lo que vomitaría una cabra Vejiga pequeña, solo puede cagar en su casa\n3 Cazafirmas profesional Mochila como el bolsillo de Doraemon Sin nada preparado\n4 Fan con disfraz cutre Abuela que te trae tapers Resaca mortal\n5 Alguien exactamente igual que uno de los FLJ Amigos en la organización Batallitas friki\n6 Señora o señor mayor que se ha equivocado de fila Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma Hipersensible a la luz\n7 Fan muy bien disfrazado Suerte del enano Estoy viejo para esta mierda\n8 Esperacolas a sueldo Danza lucha Ubercuñado\n9 Un famoso o famosa fan del que está firmando Mirada inspiradora Eventos familiar en unas horas\n10 Organizador infiltrado Furgo camperizada Adictos a los juegos de mesa, cartas, etc.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\Q2 Madre/Padre con 1d6 menores a su cargo Se comería lo que vomitaría una cabra Vejiga pequeña, solo puede cagar en su casa\n3 Cazafirmas profesional Mochila como el bolsillo de Doraemon Sin nada preparado\n4 Fan con disfraz cutre Abuela que te trae tapers Resaca mortal\n5 Alguien exactamente igual que uno de los FLJ Amigos en la organización Batallitas friki\n6 Señora o señor mayor que se ha equivocado de fila Atrapado en el tiempo y debe repetir la cola hasta conseguir la firma Hipersensible a la luz\n7 Fan muy bien disfrazado Suerte del enano Estoy viejo para esta mierda\n8 Esperacolas a sueldo Danza lucha Ubercuñado\n9 Un famoso o famosa fan del que está firmando Mirada inspiradora Eventos familiar en unas horas\n10 Organizador infiltrado Furgo camperizada Adictos a los juegos de mesa, cartas, etc.\\E$"}
+{"rule":"FORM","sentence":"^\\QParte de la estructura está hecha de bastones de caramelo gigantes con un lado en forma de gancho y pueden ser arrancados y usados como armas.\\E$"}

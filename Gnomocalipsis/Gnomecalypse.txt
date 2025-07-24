@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Gnomecalypse
+
+InfoKey: Subject
+InfoValue: Gnomecalypse is a one-page Breathless setting about a community of Icelandic gnomes who must survive a zombie apocalypse. Version 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, gnomos, zombis, survival horror

@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Hasta el río, una historia de Breathless
+
+InfoKey: Subject
+InfoValue: Aventura corta para Breathless
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, survival horror, breathless

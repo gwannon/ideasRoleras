@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: The Queue
+
+InfoKey: Subject
+InfoValue: The tabletop role-playing game of queuing to play while you queue. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, queue, signs, one-page rpg

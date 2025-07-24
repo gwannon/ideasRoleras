@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: La Cola
+
+InfoKey: Subject
+InfoValue: El juego de rol de hacer colas para jugar mientras haces una cola. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, cola, firmas, una pagina rpg

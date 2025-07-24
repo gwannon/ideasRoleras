@@ -1,0 +1,847 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0089ff">
+    <meta name="google-site-verification" content="XjYYpisg3ePb5JXgkfy7ACv6FoYjnIJxPnJTZ6ZKsDc">
+    <title>Doctor Jekyll y Mister Hyde: Investigadores privados</title>
+    <meta name="description" content="Doctor Jekyll y Mister Hyde: Investigadores privados es un juego de rol para Fate Acelerado para un director de juego y dos jugadores, pero solo un jugador al mismo. Versión 1.0.1">
+    <meta property="og:title" content="Doctor Jekyll y Mister Hyde: Investigadores privados">
+    <meta property="og:description" content="Doctor Jekyll y Mister Hyde: Investigadores privados es un juego de rol para Fate Acelerado para un director de juego y dos jugadores, pero solo un jugador al mismo. Versión 1.0.1">
+    <link href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Smythe&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <section>
+      <h1 class="noindex">Doctor Jekyll y Mister Hyde: Investigadores privados</h1 >
+      <h2 class="noindex">por Robert Louis Stevenson <span>jr.</span></h2>
+      <img src="./assests/images/Powered-by-Fate.png" alt="">
+      <img src="./assests/images/lupa.png" alt="">
+    </section>
+    <section>
+      <img src="./assests/images/strangecaseofdr00stevuoft_0239.png" alt="">
+      <img src="./assests/images/pergenado.png" alt="">
+    </section>
+    <section>
+      <p><b>Primera edición:</b> enero 2025</p>
+      <p><b>Versión:</b> 1.0.1</p>
+      <p><b>Páginas:</b> <span></span></p>
+      <p><b>Palabras:</b> <span></span></p>
+      <div class="saltopagina even" id="anchor4"></div>
+      <h2 class="noindex">Licencia de uso</h2>
+      <p style="word-break: break-word;">La presente obra se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0) (<a href="https://creativecommons.org/licenses/by/4.0/deed.es">https://creativecommons.org/licenses/by/4.0/deed.es</a>). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:</p>
+      <blockquote style="word-break: break-word;"><p>Este trabajo está basado en la ambientación para FATE Doctor Jekyll y Mister Hyde: Investigadores privados creada por Jorge Monclús Fernández (@Gwannon) y está disponible de forma gratuita en <a href="https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados">https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados</a> y el código original puede obtenerse en <a href="https://github.com/gwannon/ideasRoleras/tree/main/DoctorJekyllyMisterHydeInvestigadoresPrivados">https://github.com/gwannon/ideasRoleras/tree/main/DoctorJekyllyMisterHydeInvestigadoresPrivados</a>. Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en <a href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>.
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+          <img alt="Licencia de Creative Commons" style="border-width:0; display: block; margin: 15px auto 0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+        </a>
+      </p></blockquote>
+      <p>This work is based on Fate Core System and Fate Accelerated Edition (found at <a href="https://www.faterpg.com/">https://www.faterpg.com/</a>), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license(<a href="https://creativecommons.org/licenses/by/3.0/">https://creativecommons.org/licenses/by/3.0/</a>).</p>
+      <p>Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.</p>
+      <div class="saltopagina odd" id="anchor5"></div>
+    </section>
+    <section>
+      <div><a href="#anchor6" class="likeH1"><span>6</span>Doctor Jekyll y Mister Hyde: Investigadores privados</a><a href="#anchor8" class="likeH1"><span>8</span>La historia de la agencia Hyde &amp; Jekyll</a><a href="#anchor9" class="likeH2"><span>9</span>Preludio</a><a href="#anchor10" class="likeH2"><span>10</span>El primer caso</a><a href="#anchor11" class="likeH2"><span>11</span>La creación de la agencia</a><a href="#anchor13" class="likeH1"><span>13</span>Las reglas</a><a href="#anchor13" class="likeH2"><span>13</span>Dos personajes, un cuerpo</a><a href="#anchor17" class="likeH2"><span>17</span>Compartiendo información del caso</a><a href="#anchor18" class="likeH2"><span>18</span>Compartiendo puntos de destino</a><a href="#anchor19" class="likeH2"><span>19</span>Cómo resolver conflicto entre personajes</a><a href="#anchor20" class="likeH2"><span>20</span>Hitos y su uso</a><a href="#anchor22" class="likeH1"><span>22</span>El Londres de 1890 y sus gentes</a><a href="#anchor22" class="likeH2"><span>22</span>El Londres victoriano</a><a href="#anchor23" class="likeH2"><span>23</span>La agencia Hyde &amp; Jekyll</a><a href="#anchor24" class="likeH2"><span>24</span>Scotland Yard</a><a href="#anchor26" class="likeH2"><span>26</span>Magia y ciencia</a><a href="#anchor27" class="likeH2"><span>27</span>Y si meto a Sherlock Holmes y al Doctor Watson</a><a href="#anchor29" class="likeH1"><span>29</span>Los extraños casos de Hyde &amp; Jekyll</a><a href="#anchor29" class="likeH2"><span>29</span>El extraño caso de la tigresa desaparecida del Zoo</a><a href="#anchor45" class="likeH2"><span>45</span>El extraño caso de las palas del zapador</a><a href="#anchor54" class="likeH2"><span>54</span>El extraño caso del lingote de oro con la rosa impresa</a><a href="#anchor66" class="likeH2"><span>66</span>¿Cómo puedes continuar?</a><a href="#anchor68" class="likeH1"><span>68</span>Doctor Jekyll y Mister Hyde</a><a href="#anchor68" class="likeH2"><span>68</span>Doctor Henry Jekyll</a><a href="#anchor70" class="likeH2"><span>70</span>Mister Edward Hyde</a><a href="#anchor73" class="likeH1"><span>73</span>Unas palabras del autor</a><a href="#anchor73" class="likeH2"><span>73</span>Tono de las aventuras</a><a href="#anchor74" class="likeH2"><span>74</span>Define los velos y herramientas de seguridad</a><a href="#anchor74" class="likeH2"><span>74</span>Gender flip</a><a href="#anchor75" class="likeH2"><span>75</span>Modo un solo jugador</a><a href="#anchor75" class="likeH2"><span>75</span>Conflictos entre jugadores</a><a href="#anchor75" class="likeH2"><span>75</span>Especialización de los personajes</a><a href="#anchor76" class="likeH2"><span>76</span>Participar en el proyecto</a><a href="#anchor77" class="likeH2"><span>77</span>Atribuciones</a><a href="#anchor77" class="likeH2"><span>77</span>Agradecimientos</a><a href="#anchor78" class="likeH2"><span>78</span>Otros proyectos que te pueden interesar</a></div>
+      <div class="saltopagina even" id="anchor6"></div>
+    </section>
+    <section>
+      <h1>Doctor Jekyll y Mister Hyde: Investigadores privados<span></span></h1>
+<p>«Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para <i>Fate Acelerado</i> para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. </p>
+<p>Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson.</p>
+<p>Mientras hacen su trabajo, el inspector Newcomen de Scotland Yard no les quitará el ojo del encima, buscando que cometan un error para meter a Hyde en la cárcel.</p>
+<p>Investigar casos no es fácil cuando dos personalidades tan diferentes habitan el mismo cuerpo, pero han encontrado la forma de hacerlo. Tus jugadores tendrán que trabajar en los casos dejándose en un diario notas y mensajes con los avances que hayan hecho en la investigación. De hecho, la única comunicación entre jugadores sobre la partida deberían ser esas notas. </p>
+<div class="saltopagina odd" id="anchor7"></div>
+<p><a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/38/mode/2up" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley"><img src="./assests/images/strangecaseofdr00stevuoft_0051.png" alt="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" /></a></p>
+<div class="saltopagina even" id="anchor8"></div>
+</section>
+<section>
+<h1>La historia de la agencia Hyde &amp; Jekyll<span></span></h1>
+<p>Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba el suicidio del doctor dejando una nota que acaba con la frase: «Pongo fin a la vida del infeliz Henry Jekyll». </p>
+<p>En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una personalidad a otra involuntariamente sin necesidad de la fórmula secreta. Tras descubrir que no puede replicar el compuesto químico que despertó a Hyde y que no puede controlar sus apariciones, decide suicidarse para acabar con sus problemas y castigar a Hyde que es perseguido por el asesinato sin sentido de Sir Danvers Carew y por el que acabará en el patíbulo si es atrapado.  </p>
+<p>Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A Robert junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.</p>
+<p>En la novela de Robert junior se desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.</p>
+<p>La historia continua con Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.</p>
+<div class="saltopagina odd" id="anchor9"></div>
+<p>Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: Investigadores privados».</p>
+<h2>Preludio</h2>
+<p>El libro de Robert junior tiene un preludio de unas pocas hijas en las que arregla el final de la novel de su padre para sus intereses.</p>
+<p>Hyde se despierta en la fría morgue de Scotland Yard tras haber estado al filo de la muerte durante unas horas. Parece ser que la dosis de veneno que tomo Jekyll solo lo dejo cerca de la muerte, suficiente para que Utterson creyera que había muerto.</p>
+<p>Hyde entrará en shock al darse cuenta de que ha estado a punto de morir y que Jekyll tiene un control total sobre su vida y su muerte. Si se ha suicidado una vez y podría hacerlo más veces, mientras que él sería incapaz de tomar esa decisión.</p>
+<p>Consigue huir de Scotland Yard y busca un sitio seguro donde quedarse y empieza a escribir y dejar notas para cuando se despierte Jekyll con las que llega a un acuerdo para que ambos sigan vivos. Tras varios días, consiguen llegar un acuerdo en que Hyde promete no matar bajo ningún concepto, pena de que Jekyll acabe con la vida de los dos.</p>
+<p>Pero todavía hay un problema, Hyde es un fugitivo de la justicia. Por suerte, la policía descubre el plan de Sir Danvers Carew de matar a la reina e imponer una república en la monárquica Inglaterra. Esto hizo que Hyde pasara de ser un fugitivo buscado por asesinato a casi un héroe de la reina.</p>
+<p>A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Robert junior de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.</p>
+<div class="saltopagina even" id="anchor10"></div>
+<h2>El primer caso</h2>
+<p>El resto de la novela trata de un misterio que era un pastiche de un montón de casos de Sherlock Holmes, muy malamente hilvanados y a veces sin ningún tipo de sentido. Todo empieza cuando Gabriel Utterson pide ayuda a Jekyll con unas pruebas médicas para defender a un cliente suyo de acabar ahorcado.</p>
+<p>La trama se va enrollando rápidamente y Hyde y Jekyll terminan investigando una trama criminal muy loca y extravagante por todo Londres. Hay persecuciones en carruaje, carreras por tejados, peleas de taberna, autopsias ilegales, pruebas científicas fantasiosas y mensajes con extraños símbolos hindúes. Todos los tropos de las novelas de detectives apretujados en 200 páginas.</p>
+<p>Lo interesante en la trama es que Mr. Utterson descubre que investigar crímenes hace que Jekyll y Hyde se centren y las personalidades sean más estables y puedan funcionar mejor.</p>
+<p>La novela acaba con la extraña pareja resolviendo el caso y librando de la cárcel al cliente de Utterson.</p>
+<p>Con ello dejan en ridículo al inspector Newcomen y con él a Scotland Yard, ya que había detenido y encarcelado a una persona inocente. Newcomen jura vengarse de Jekyll y Hyde y desde entonces será uno de sus mayores detractores.</p>
+<p>En el epílogo de la novela, Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Robert junior de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.</p>
+<p>Es interesante descartar que al final de la novela sigue habiendo solo había 2 personas que saben el secreto de Jekyll y Hyde.</p>
+<ul>
+<li><strong>Gabriel John Utterson</strong> que ya lo sabía desde la novela anterior.</li>
+</ul>
+<div class="saltopagina odd" id="anchor11"></div>
+<ul>
+<li><strong>Mister Poole</strong>, el ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.</li>
+</ul>
+<h2>La creación de la agencia</h2>
+<p>Tras la exitosa resolución de su primer caso, que salió en las portadas de todos los periódicos de Londres, Utterson propuso a la extraña pareja, usando sus mejores técnicas de abogado,
+crear una agencia de detectives.</p>
+<p>Gabriel consideraba que esta nueva actividad podría mantener a Hyde en este lado de la ley al ser uno de sus protectores y a Jekyll lejos de sus peligrosos experimentos.</p>
+<p>Cómo puedes comprobarse, no se equivocaba, ya que parece que hasta el día de hoy esta treta ha funcionado como un reloj de cuco. Además, esperaba tener a un buen equipo de investigadores que le ayudara en sus pleitos y demandas a un coste muy barato.</p>
+<p>Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar que el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia. Tras una larga discusión que ocupo montones de notas, decidieron dejarlo al azar y la agencia se terminó llamando Hyde &amp; Jekyll. </p>
+<p>El día de la inauguración, Utterson les regaló un cuadro pintado por el mismo en que se les ve a los dos investigando una escena de un crimen. Jekyll aparece mirando un mechón de pelo con una lupa, mientras que Hyde tan encorvado olisqueando unos restos de sangre como si fuera un sabueso de caza siguiendo el rastro de un zorro.</p>
+<p>Jekyll odia ese cuadro y trata de hacerlo desaparecer siempre que puede. Hyde, sin embargo, lo adora y muchas veces imita la pose de perro rastreador, sobre todo cuando está con Utterson. Cada vez que Jekyll lo quita, ahí está Hyde para volver a ponerlo en la pared de la agencia.</p>
+<div class="saltopagina even" id="anchor12"></div>
+<p><a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/62/mode/2up" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley"><img src="./assests/images/strangecaseofdr00stevuoft_0079.png" alt="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" /></a></p>
+<div class="saltopagina odd" id="anchor13"></div>
+</section>
+<section>
+<h1>Las reglas<span></span></h1>
+<p>Este suplemento trae unas series de reglas extras presentadas en el manual de <i>Fate Acelerado</i> (<a href="https://goo.gl/9wF9SL">reglas completas</a>) que tienen como objetivo establecer las interacciones entre los dos personajes principales, Jekyll y Hyde.</p>
+<h2>Dos personajes, un cuerpo</h2>
+<p>Como DJ, tus dos personajes van a habitar el mismo cuerpo y, por tanto, cuando Jekyll o Hyde están despiertos, su contrapartida está encerrado en lo más profundo de su mente sin saber nada de lo que pasa en el exterior. Para ello cada sesión deberás llevarla a uno solo de tus jugadores, mientras que el otro está fuera de la mesa, en su casa, viendo una peli, … en cualquier sitio menos en la partida.</p>
+<h3>Paso de una personalidad a otra</h3>
+<p>Cuando el <strong>personaje activo se duerma o se «deje caer», su jugador abandonará la mesa, y entrará el otro jugador</strong> apareciendo la otra personalidad.</p>
+<p>En principio el cambio se da al irse a dormir, digamos que Jekyll es el sueño de Hyde y Hyde la pesadilla de Jekyll.</p>
+<p>Los personajes pueden tratar de estar varios días sin dormir para no entregar el control a su otro yo. Pero cada 24 horas de privación del sueño a partir de las 48 primeras sube un nivel todas las dificultades y tiene el aspecto «muerto de sueño».</p>
+<h4>Dejarse caer</h4>
+<p>Un jugador puede dejar deliberadamente salir a su otro yo al final de una escena. Simplemente, cierra los ojos, pone la mente en blanco y deja que entre su «alter ego».</p>
+<div class="saltopagina even" id="anchor14"></div>
+<p>Si desea hacerlo <strong>dentro de una escena</strong>, puede hacerlo, pero psicológicamente tiene efectos en ellos. Al hacer la transformación de una forma tan brusca están reconociendo que necesitan a su otro yo más de lo que les gustaría reconocer.</p>
+<p>Si Jekyll deja salir a Hyde de esta manera, está reconociendo que necesita a Hyde, su instinto animal, su brutalidad y su falta de ética y valores. <strong>Hyde aparece entonces con el aspecto temporal «desatado». Jekyll, por su parte, aparece con el aspecto «todo controlado»</strong> sabiendo que es mucho mejor que su brutal contrapartida y con mucha más confianza de la normal al saber que está al mando en esta extraña sociedad de dos.</p>
+<p>Esto representa el hecho de que en esta forma de ceder el control el otro recién activado tiene cierta mano ancha para hacer lo que desee sin pensar en las consecuencias. </p>
+<p>Imaginemos que Jekyll se ha metido en una pelea de taberna en White Chapel, puede interesarle invocar a Hyde para que le saque del apuro. Al primer puñetazo que recibe en el rostro, se «deja caer» y, cuando vuelve la cara, ahí está la maliciosa mirada de Hyde preparado para la bronca.</p>
+<p>Pero recuerda que muy posiblemente Hyde se despertará sin saber muy bien qué pasa y por qué le golpean, aunque eso nunca le ha preocupado mucho.</p>
+<h4>Regla opcional: Disparadores de cambio</h4>
+<p>Normalmente, los cambios suponen cortar la partida y quedar otro día con el siguiente jugador. Si tus jugadores pueden estar entrando y saliendo de la partida sin problema, puede ser muy divertido que el jugador inactivo pueda interferir en la historia del jugador activo. Para ello, el jugador que se va puede poner disparadores que le permitirán volver a estar activo.</p>
+<div class="saltopagina odd" id="anchor15"></div>
+<p>Los disparadores pueden de muy diversa índole, pero deben ser bastante específicos. El director de juego tendrá que darles el visto bueno. Veamos algunos ejemplos.</p>
+<ul>
+<li>Hyde lleva días sin meterse en problemas y saldrá siempre que Jekyll reciba daño de una pelea.</li>
+<li>Jekyll aparecerá si entra en escena Miss Daisy, de la que está perdidamente enamorado y a la que no quiere que Hyde la incomode con sus palabras soeces.</li>
+</ul>
+<p>Poner un disparador tiene <strong>1 coste de un punto de destino</strong> y puedes poner <strong>hasta 3 disparadores</strong>. La perdida del punto de destino se aplicará si se activa alguno de los disparadores y perderás tantos puntos como disparadores pusiste. En cuanto tu personaje está activo de nuevo tanto porque su otro yo le ha dado paso como porque se ha activado el disparador, estos desaparecen.</p>
+<h3>Consecuencias</h3>
+<p>Las <strong>consecuencias y aspectos físicos como heridas y golpes pasan de un personaje a otro</strong>. Si Jekyll recibe una herida escapando de unos maleantes, cuando Hyde se despierte, se encontrará con la herida limpiada y suturada por el doctor. Si Hyde se pasa con la bebida, al caer inconsciente, Jekyll se levantará con el aspecto «borracho» o con una «resaca de mil demonios».</p>
+<p>Las <strong>consecuencias mentales o sociales no se mueven entre Hyde y Jekyll</strong>. Imaginemos que Jekyll adquiere una severa aracnofobia. Al despertar, Hyde podría juguetear con una tarántula sin ningún temor.</p>
+<p>Lo que sí has de tener cuenta es que Jekyll tiene moral y ética y los actos de Hyde le pueden afectar y provocarle consecuencias mentales. Hyde tiende a crear situaciones que traumatizan a Jekyll cuando se despierta. </p>
+<div class="saltopagina even" id="anchor16"></div>
+<p>De hecho, la complicación principal de Jekyll es su «alter ego» y las fechorías y felonías que hace Hyde mientras controla su cuerpo.</p>
+<p>Eso no se da la contra, es muy difícil que Jekyll haga algo que pueda influir social o mentalmente a Hyde de forma grave.</p>
+<p>Pensemos, por ejemplo, que Hyde ha secuestrado y ha torturado a un ladronzuelo para sacarle información. Al día siguiente Jekyll se despierta y ve al criminal atado a una silla, inconsciente, herido, ensangrentado y lleno de moratones. A discreción del máster, Jekyll tendrá que defenderse del shock de la brutalidad que ha hecho su contrapartida animal.</p>
+<h3>Cambios corporales</h3>
+<p>Realmente <strong>no hay cambios físicos entre Jekyll y Hyde</strong>. No le creen músculos o se le afilan los dientes. Su cuerpo es el mismo, pero hay sutiles cambios que los hacen diferentes, tan diferentes que muchas veces pasarán por personas distintas. Veamos algunos ejemplos:</p>
+<ul>
+<li>Mientras que Jekyll siempre va estirado, mostrando su porte de caballero, limpio y con un traje impecable, Hyde va encorvado, con ropa y sombrero que le tape la cara y sin preocuparse mucho de su higiene personal.</li>
+<li>Mientras que como buen inglés Jekyll tiene una dicción perfecta y un tono de voz medio y amable, Hyde trata de compensar sus complejos con un tono de voz grave y hablando muy alto, casi a gritos.</li>
+<li>Hyde es mejor en peleas, no porque sea más fuerte y rápido, sino porque su lado animal le hace más agresivo y decidido y su umbral del dolor es mayor que el de Jekyll.</li>
+</ul>
+<p>Cualquier persona tendrá que pasar una <strong>tirada Buena (+2) para sospechar que Hyde y Jekyll son la misma persona</strong> y que nunca se les ve juntos.</p>
+<div class="saltopagina odd" id="anchor17"></div>
+<h4>Haciéndote pasar por el otro</h4>
+<p>Puede ser que en determinados momentos de los casos Hyde necesite comportarse y parecerse a Jekyll y viceversa. </p>
+<p>Si desean hacerse pasar por su otro yo, <strong>deberán hacerlo al estilo de su «alter ego»</strong>, es decir que si Hyde quiere hacerse pasar por Jekyll en un hospital deberá hacer al estilo Cauto, mientras que si Jekyll quiere dar la nota en una taberna, tendrá que ir al estilo Llamativo contra su naturaleza reservada.</p>
+<p>En cualquier caso, el director de juego, tiene la última palabra sobre el estilo a elegir que tomaría el otro yo en esa situación. También podéis mandar un mensaje y preguntar al otro jugador.</p>
+<h2>Compartiendo información del caso</h2>
+<p>Cuando investigan un caso, Jekyll y Hyde no pueden discutir las pistas descubiertas mientras se toman un té con pastas. Lo que hacen es <strong>dejarse notas y llevar un diario del caso</strong> donde escriben las cosas que han hecho y la nueva información obtenida para que la lea su otro yo al salir. </p>
+<p>Los jugadores deben ir escribiendo las notas mientras juegan y lo que haya en las notas y el diario real es lo que habrá en partida. Tampoco deben extenderse mucho, apuntes rápidos de una frase como mucho. El director de juego puede extender esas frases con más información, como si el autor hubiera escrito mucho más y con más detalle, pero no puede contar cosas que no estén escritas.</p>
+<p>Si en partida <strong>no hubiera tiempo o posibilidad para escribir el diario, la personalidad que salga a la luz no tendrá ninguna información</strong> de lo que la otra personalidad ha estado haciendo. Por ejemplo, si Mister Hyde es atrapado y encerrado en una celda sin forma de dejar un mensaje al Doctor Jekyll, cuando este se despierte se encontrará en esa celda sin saber como ni porque. </p>
+<div class="saltopagina even" id="anchor18"></div>
+<p>Tendrá que seguir a partir de lo que él mismo sabía y de los últimos apuntes escritos por Hyde. Jekyll no contará con la ventaja de saber que es lo que pudo averiguar desde la última nota hasta ahora.</p>
+<h3>El diario del caso</h3>
+<p>El diario del caso es <strong>un objeto real dentro de las aventuras</strong> que normalmente irá con ellos y que puede ser usado en su contra. Un criminal podría encontrarlo al registrar a Jekyll o podrían robárselo a Hyde durante una de sus borracheras.</p>
+<p>Si algún PNJ tiene acceso al diario o alguna de las notas sueltas, podrá leerlas y hacer uso de esa información para su provecho.</p>
+<p>Si ellos lo pierden, ya no podrán acceder a su contenido y tendrán que empezar un nuevo diario, con la info que recuerden.</p>
+<p>Podrían tratar de hacer copias de seguridad o encriptarlo, pero entonces deberían hacerlas ellos mismos como jugadores sobre sus notas.</p>
+<h3>Otras formas de comunicarse</h3>
+<p>En este punto entra ya la creatividad de tus jugadores, quizás Jekyll se pinte en la frente con carboncillo el nombre del asesino o Hyde pague a un pilluelo una libra para que le pegue una patada la próxima vez que le vea y le grite una hora y un lugar.</p>
+<p>Puede ser un punto divertido que se fastidien de esa manera, pero deberás controlar que no se les vaya de las manos.</p>
+<h2>Compartiendo puntos de destino</h2>
+<p>Cuando sale una nueva personalidad a la palestra, esta <strong>recibe todos los puntos Fate de su anterior yo que tuviera por encima de su capacidad de recuperación</strong>.</p>
+<div class="saltopagina odd" id="anchor19"></div>
+<p>Pongamos que Jekyll tiene 5 puntos Fate y una capacidad de recuperación 3. Se va a dormir para de salga Hyde, que tiene una capacidad de recuperación de 3. Eso supone que Hyde empieza con 5 puntos Fate, 3 normales por su capacidad de recuperación más 2 heredados de Jekyll.</p>
+<p>Esto trata de reflejar que el trabajo llevado a cabo y las ventajas conseguidas por un jugador investigando permanece de cierta forma en la nueva personalidad.</p>
+<h2>Cómo resolver conflicto entre personajes</h2>
+<p>Jekyll y Hyde por la misma naturaleza de su historia van a tener conflictos. Las formas de abordar los casos deberían ser diametralmente distintas, mientras que Jekyll tiene un punto de vista científico y analítico, Hyde saldrá a la calle a sacar respuestas rompiendo dientes.</p>
+<p>Puede pasar que algún momento una acción de uno interfiera en las de otro, sobre todo si hay fallos en la transmisión de la información entre personalidades.</p>
+<p>Tal vez hayan interrogado al mismo testigo cada uno a su estilo. Primero le interrogo Jekyll y fue bastante agradable prometiéndole protección policial y algo de dinero. Tras un buen rato le saco un nombre y una dirección. Más tarde apareció Hyde gritando y amenazando al testigo de que va a hacer su vida un infierno. Hyde no solo se enfrenta al aguante del testigo, también a las promesas que le haya hecho Jekyll, lo cual complica el interrogatorio. </p>
+<p>En esta situación, si el <strong>segundo jugador usa un estilo diferente al primero</strong>, deberá pasar una <strong>dificultad igual a la dificultad normal de interrogatorio más los éxitos que consiguió el primer jugador</strong>. Si usan el mismo estilo, algo que pocas veces pasará, solo deberán pasar la dificultad normal.</p>
+<div class="saltopagina even" id="anchor20"></div>
+<p>Digamos que si Hyde y Jekyll interrogan a un sospechoso usando su fuerza, al usar el mismo estilo, sus acciones no entran en conflicto y la dificultad será en ambos casos solo la resistencia de interrogado.</p>
+<h2>Hitos y su uso</h2>
+<p>A la hora de mejorar los personajes son muy distintos. Jekyll, con su personalidad completa, puede gastar los hitos como desee sin ningún tipo de restricción.</p>
+<p>Por el contrario, Hyde, como solo es la parte más animal, instintiva y malvada de Jekyll, no podrá gastar sus hitos como desee.</p>
+<ul>
+<li>Los estilos Cauto, Ingenioso y Furtivo no podrán ser mayores que el menor del resto de estilos (Rápido, Llamativo y Vigoroso).</li>
+<li>No puede crearse proezas en las que intervengan los estilos Cauto, Ingenioso y Furtivo.</li>
+</ul>
+<div class="saltopagina odd" id="anchor21"></div>
+<p><a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/140/mode/2up" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley"><img src="./assests/images/strangecaseofdr00stevuoft_0173.png" alt="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" /></a></p>
+<div class="saltopagina even" id="anchor22"></div>
+</section>
+<section>
+<h1>El Londres de 1890 y sus gentes<span></span></h1>
+<p>Las aventuras de Jekyll y Hyde transcurren alrededor de 1890, en plena era victoriana, en un Londres que es centro del mundo y donde lo mejor y lo peor de la sociedad inglesa conviven como pueden.</p>
+<h2>El Londres victoriano</h2>
+<p>El Londres de las aventuras detectivescas de Hyde y Jekyll es el Londres victoriano que conocemos de libros, series y películas. Hablamos del Londres de los caballeros con sombrero y bastón que van a su club de caballeros a hablar de sus cosas caballeros, como Phileas Fogg de La vuelta al mundo en 80 días. También es el Londres de robos famosos y asesinatos misteriosos de Sherlock Holmes y el Doctor Watson. </p>
+<p>Este Londres es la capital de un imperio y todos los días llegan y parten barcos de todas partes del mundo. Los mercados están llenas de productos exóticos de todas las colonias y las calles se llenan de olores a comidas de todo el mundo.</p>
+<p>También es el Oliver Twist con pilluelos que se dedican a buscarse la vida en las calles y callejones de los peores barrios de la ciudad. Sin olvidarse del Londres donde las mujeres tienen que prostituirse para sobrevivir y son brutalmente asesinadas por el famoso asesino en serie Jack El destripador.</p>
+<p>Solemos olvidarnos que el Londres victoriano también tiene estos elementos menos románticos y novelescos.</p>
+<ul>
+<li>Es el Londres de los ladrones de cadáveres que saquean tumbas para robar los enseres de los muertos o para vender los cuerpos a estudiantes de medicina sin escrúpulos.</li>
+</ul>
+<div class="saltopagina odd" id="anchor23"></div>
+<ul>
+<li>Las fábricas expulsan sus hediondos humos, convirtiendo el aire en irrespirable y creándose el famoso «smog» londinense que mata tanta gente como otras enfermedades infecciosas de la época.</li>
+<li>El trabajo infantil y las jornadas de trabajo interminables están a la orden del día y el alcoholismo es un problema muy grave entre la clase obrera.</li>
+<li>Otro punto interesante a tener en cuenta es que en estos años los primeros coches empiezan a circular, añadiendo más suciedad, ruido y polución a sus abarrotadas calles.</li>
+</ul>
+<h2>La agencia Hyde &amp; Jekyll</h2>
+<p>La agencia Hyde &amp; Jekyll es una antigua sombrerería del barrio de Belgravia que Jekyll consiguió a muy buen precio. </p>
+<p>Hyde prefería algo más cercano a, como dice él, la acción, en barrios más conflictivos como White Chapel o el East End. Sin embargo, Jekyll no podía consentir que se le relacionará con barrios de baja estofa. Además, sabía que las tabernas, los casinos ilegales y las salas de variedades cercanas serían una distracción constante para Hyde y una fuente de resacas al día siguiente para él.</p>
+<p>La sombrerería contaba con una tienda a pie de calle y luego un sótano mal ventilado donde trabajaba el sombrerero y sus ayudantes.</p>
+<p>La planta superior tiene una sala principal con un gran escaparate a la calle y la zona de venta que se ha convertido en una recepción con sillas donde esperan los clientes.</p>
+<p>El almacén de la tienda ha sido reconvertido en un despacho donde hacen trabajo de investigación. Hay un mullido sofá que no pocas veces ha sido usado como cama improvisada donde se ha acostado Jekyll y se ha despertado Hyde y viceversa.</p>
+<div class="saltopagina even" id="anchor24"></div>
+<p>Jekyll ha convertido el sótano, al que se accede por unas escaleras desde el despacho, en su laboratorio. Ha traído casi todo el equipamiento científico de su casa y así puede hacer sus investigaciones y pruebas en la agencia en vez de tener que ir hasta su casa.</p>
+<h2>Scotland Yard</h2>
+<p>La Policía Metropolitana de Londres, más conocida por todos como Scotland Yard o The Yard, se encarga de investigar todos los crímenes en Londres y es un elemento muy importante y recurrente en estas aventuras.</p>
+<p>Sus hombres siempre estarán vigilando las escenas de los crímenes, los cadáveres de las víctimas serán estudiados en su morgue y los sospechosos serán encerrados e interrogados en sus celdas y salas de interrogatorio.</p>
+<p>Todo eso hará que tus jugadores estarán siempre entrando y saliendo de sus dependencias por asuntos oficiales y seguramente que Hyde también por asuntos no oficiales.</p>
+<p>Los agentes de calle, los viejos archiveros y los médicos forenses novatos pueden ser perfectos aliados y contactos de tus personajes.</p>
+<h3>Inspector Newcomen</h3>
+<p>El inspector Newcomen debería ser una constante en todas las aventuras, apareciendo en cualquier momento y sin dejar nunca de vigilar y perseguir a tus jugadores.</p>
+<p>Newcomen puede en ocasiones ser un aliado de tus jugadores, pero sobre todo debería ser un rival que pondrá en duda todas las pistas y deducciones realizadas por tus jugadores. Debería ser la piedrecita en el zapato de Hyde y Jekyll, sobre todo de Hyde, al que no le quita ojo desde el asesinato de Sir Carew. </p>
+<div class="saltopagina odd" id="anchor25"></div>
+<p>Newcomen no cree en que la gente cambie y sabe que Hyde volverá a matar por placer y él estará allí para detenerle y que sea ajusticiado con todo el peso de la ley.</p>
+<p>De todas formas, debes considerar que no es un gran policía y su método policial es pésimo, si no ha descubierto que Jekyll y Hyde son la misma persona.</p>
+<h3>Técnicas de investigación forense disponibles</h3>
+<p>Las técnicas de investigación forense que Scotland Yard disponía a finales del siglo XIX podían ser las más avanzadas de su época, pero quedan muy lejos de las actuales técnicas forenses que vemos en series como CSI. Así que conocer, aunque sea superficialmente, que podía averiguarse y que no usando los conocimientos forenses de la época es interesante para el desarrollo de tus aventuras. </p>
+<ul>
+<li>Las <strong>huellas dactilares</strong> tampoco era una prueba usada por la policía, pero si era conocido el concepto de huella dactilar y se jugaba con la posibilidad de que fueran únicas.</li>
+<li>Los primeros <strong>perfiles psicológicos</strong> son elaborados en esta época, por ejemplo, para tratar de detener a Jack el destripador.</li>
+<li>Las *<i>pruebas genéticas</i> claramente no existían. Harán falta muchas décadas para que se hagan los primeros tests de ADN.</li>
+<li>La policía hacía <strong>análisis microscópicos</strong> de diferentes elementos como cabellos. Con esos análisis podían estimar el sexo y la edad del criminal. También podían estudiar las estrías de las balas y determinar que una arma de fuego había disparado o no una bala.</li>
+<li>Las <strong>autopsias</strong> están a la orden del día en caso de muertes violentas y podían determinar con bastante fiabilidad las causas de la muerte y saber la hora del fallecimiento por el rigor mortis.</li>
+<li>Empiezan a haber estudios para poder distinguir la <strong>sangre y otros fluidos</strong> de otras sustancias y se empieza a estudiar las salpicaduras de sangre para averiguar más datos de los asesinatos.</li>
+</ul>
+<div class="saltopagina even" id="anchor26"></div>
+<ul>
+<li>A pesar de los avances científicos, seguían teniendo bastantes problemas en cosas como <strong>identificar sustancias venenosas</strong>, aunque empezaban a haber pruebas para detectar sustancias como el arsénico. De hecho, en el siglo XIX fueron muy famosos los envenenamientos porque no se detectaban en las autopsias y los venenos no estaban controlados y su acceso era muy sencillo.</li>
+<li>La <strong>fotografía forense</strong> es rara, pero no es extraña para Scotland Yard, sobre todo en casos famosos, que atraían el interés del público.</li>
+<li>Los <strong>retratos robot</strong> también son usados, aunque a veces podían hacer más mal que bien, llevando al populacho a linchar a personas inocentes.</li>
+</ul>
+<p>Una vez conocidos estos puntos principales, nada impide que los personajes hayan oído a hablar de novedosas pruebas forenses y traten de utilizarlas en sus casos, sobre todo Jekyll con su gusto por la ciencia y los descubrimientos científicos. No sería de extrañar que pudiera aplicar en sus pruebas forenses los últimos hallazgos científicos y médicos publicados en la Gaceta Médica o Revista Entomológica Británica. </p>
+<h2>Magia y ciencia</h2>
+<p>Las aventuras de Jekyll y Hyde se encuadran en un mundo como el nuestro, pero con ciertos toques de <i>Ciencia extraña</i>. Piensa que los propios protagonistas son fruto de un experimento científico fallido. </p>
+<p>Mi recomendación sería que los inventos locos sean solo detalles que den color a las historias. Tal vez en determinado momento tengan que usar un coche que vaya el doble de rápido que un caballo o que un personaje explore las cloacas usando una linterna eléctrica mucho más potente que los quinqués o las antorchas. </p>
+<div class="saltopagina odd" id="anchor27"></div>
+<p>Otra opción que podría quedarle bien a tus aventuras sería magia negra con exóticos componentes como maldiciones egipcias o hechizos de vudú. Como hemos visto antes, la magia debería ser muy sutil y solo detalles en la trama. Me refiero a villanos con joyas con poderes hipnóticos y venenos, pócimas somníferas y sueros de la verdad hechos con plantas exóticas de la selva o sacados de antiquísimos papiros egipcios perdidos.</p>
+<p>«El secreto de la pirámide» es un claro ejemplo de como aplicar la ciencia y magia en las aventuras. Son detalles divertidos y coloridos, pero no son el eje de las partidas. </p>
+<h2>Y si meto a Sherlock Holmes y al Doctor Watson</h2>
+<p>¿Y por qué no? Ambas parejas comparten época y lugar, el Londres victoriano, y todos son detectives, con lo que la cooperación o el enfrentamiento es muy factible.</p>
+<p>Pueden ser que sus agencias estén enfrentadas y se roben los clientes. Puede que luchen por aparecer en los periódicos con los asombrosos relatos de sus casos. Quizás un rico noble haya montado un concurso para ver quién es mejor detective.  </p>
+<p>Rizando el rizo, podría darse el caso de que Holmes y Hyde tengan que infiltrarse en la guarida del asesino o que Watson y Jekyll tengan que hacer una autopsia juntos al cadáver de una víctima. Los inspectores Newcomen y Lestrade seguro que se conocen y estarán encantados de trabajar juntos para desbancar a tus jugadores como los mejores detectives de la ciudad.</p>
+<p>Y si te sientes creativo, también puedes hacer que tus jugadores investiguen extraños asesinatos donde las víctimas tienen dos heridas en el cuello y son desangrados hasta morir. O pueden que teman que una nueva personalidad realmente diabólica haya aparecido y haya estado cometiendo unos terribles asesinatos de mujeres en White Chapel. </p>
+<div class="saltopagina even" id="anchor28"></div>
+<p><a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/78/mode/2up" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley"><img src="./assests/images/strangecaseofdr00stevuoft_0099.png" alt="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" /></a></p>
+<div class="saltopagina odd" id="anchor29"></div>
+</section>
+<section>
+<h1>Los extraños casos de Hyde &amp; Jekyll<span></span></h1>
+<p>¿Y qué son unos detectives sin caso? Así que aquí hay 3 casos para que tus jugadores puedan disfrutar de sus andanzas detectivescas como Henry Jekyll y Edward Hyde.</p>
+<p>No hay un orden concreto para jugar los casos. Puedes jugarlos como más te gusten.</p>
+<h2>El extraño caso de la tigresa desaparecida del Zoo</h2>
+<blockquote>
+<p>El pánico corre por las calles de Londres ante la noticia de que una tigresa bengalí ha escapado del zoo. Sin embargo, uno de sus cuidadores fue atacado por desconocidos la noche de la desaparición de la tigresa. Sea como sea, habrá que encontrarla, detener a su ladrón y devolverla al zoo.</p>
+</blockquote>
+<h3>Resumen del caso</h3>
+<p>Kim ha recorrido miles y miles de kilómetros desde su Bengala natal para liberar a su amiga Ehbri Khan, una tigresa de Bengala, que está encerrada en el zoo de Londres. Ehbri Khan y Kim se conocieron de crías (de tigre y de humano) en las selvas de Bangladés y se hicieron compañeras de juego inseparables, hasta que hace unos años Ehbri Khan fue captura por un rico cazador londinense, Sir Roger Corbyn, que la trajo a Londres y la dono al zoo.</p>
+<p>Kim no sabía que había sido de su compañera, hasta que trabajando de sirvienta para un rico terrateniente inglés descubrió en un viejo ejemplar «The National Geographic» que Ehbri Khan (o como la habían rebautizado en el zoo, Victoria, en honor a la reina) estaba viva y encerrada en un horrible zoo en el lejano Londres. </p>
+<div class="saltopagina even" id="anchor30"></div>
+<p>Tras conseguir un pasaje y pasar meses trabajando en casi esclavitud en un barco inglés, Kim llegó a Londres y sin pensárselo se coló en el zoo y sacó a Ehbri de su cárcel tras dejar sin sentido a uno de los cuidadores.</p>
+<p>Ahora mismo están refugiados en el interior del bosquecillo de Regent’s Park esperando el momento de poder escapar de Londres.</p>
+<h3>Introducción al caso</h3>
+<p>Como abogado y amigo y benefactor del zoo de Londres, Gabriel Utterson es avisado de la fuga del tigre y este a su vez pide a sus amigos Jekyll y Hyde que ayuden al zoo a encontrar a la tigresa escapada.</p>
+<p>Cuando lleguen a la zona de los grandes felinos se encontrarán al inspector Newcomen metido dentro de la jaula de la tigresa revisando los barrotes junto a un cartel que pone «No dar de comer a los animales». Que tus jugadores hagan el chiste es cosa suya.</p>
+<p>La jaula en un habitáculo de 20x20 metros cuadrados con barrotes en 3 de sus lados y ladrillos con una puerta reforzada cerrada por fuera con un resistente pestillo. No hay cerradura, la puerta da una parte a la que los visitantes no tienen acceso de normal y por seguridad prefieren poder entrar y salir sin necesidad de usar una llave.</p>
+<p>Cómo siempre Newcomen les dirá que no pueden estar allí y que solo estorban. Lo tiene todo controlado y están buscando a un experto para que atrape a Victoria, la tigresa.</p>
+<p>Según el inspector, el ataque al cuidador y la fuga de la tigresa son pura coincidencia. La tigresa definitivamente se ha escapado.</p>
+<p>Robar un animal depredador como ese supone un golpe muy complejo con redes, sedantes, un vehículo de transporte y mucho ruido y no hay pruebas de nada de eso.</p>
+<div class="saltopagina odd" id="anchor31"></div>
+<p>No les quitará los ojos de encima mientras empiezan a investigar, pero enseguida se llenará de gacetilleros haciendo preguntas. Newcomen y podrán moverse más tranquilamente.</p>
+<h4>Inspector Newcomen</h4>
+<p>Newcomen está muy interesado en este caso, puede darle un poco de fama y ayudarle en su carrera. Sabe que el caso va a ir directo a las portadas de los periódicos sensacionalistas y su nombre aparecerá como junto a palabras como «héroe» o «protector». Además, está encantado de sacar el gran cazador que tiene dentro y poder disparar a ese gran felino.</p>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Inspector de Scotland Yard</li>
+<li><strong>Complicación:</strong> Obsesionado con Hyde</li>
+<li>Muchos años pateando las calles</li>
+<li>Duro como un clavo en un ataúd</li>
+<li>Acostumbrado a las vigilancias</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Mediocre (+0), Furtivo Bueno (+2), Ingenioso Normal (+1), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Grande (+3)</li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Lenguaje legal:</strong> Debido a que conoce muchos términos y precedentes legales, gana un +2 para Crear una ventaja de modo Rápido cuando conversa con sospechosos, abogados, jueces y otras gentes del sistema policial y penal.</li>
+<li><strong>Voz intimidatoria:</strong> Debido a su tono de voz intimidante, gana un +2 para Atacar de modo Llamativo, cuando interroga a delincuentes y criminales.</li>
+<li><strong>Juegos de manos:</strong> Debido a que le encantan los trucos de magia y los juegos de manos, gana un +2 a superar de modo Rápido, cuando trata de escamotear algún objeto pequeño.</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<div class="saltopagina even" id="anchor32"></div>
+<h3>La escena del crimen</h3>
+<p>Realmente no hay nada que buscar en la jaula, Kim abrió la puerta, Ehbri se despertó y al oler a su amiga se lanzó a lamerle la cara y tras unos segundos se fueron. Saltaron la verja del zoo y fueron corriendo. De casualidad encontraron el bosquecillo de Regent’s Park y ahí se establecieron.</p>
+<p>No hay ni una pista que seguir en la jaula. Kim no tiene nada, así que no ha dejado nada olvidado. El acceso a la jaula era de baldosas con lo que no dejó pisadas.</p>
+<h3>Pistas a seguir</h3>
+<p>Tras revisar la escena del crimen empieza la labor detectivesca que puede hacerles ir a tus jugadores desde el Museo Británico al matadero municipal.</p>
+<p><strong>Si buscan pisadas</strong> con una tirada Normal (+1) encontrarán las de Ehbri que van hasta el lugar donde saltaron la valla del zoo para perderse en las adoquinadas calles aledañas. Hay cientos de pisadas de los visitantes, así que las de una niña como Kim no se destacan. Además, cuando están juntas, Kim va montada en la grupa de Ehbri.</p>
+<p><strong>Si visitan el lugar donde fue atacado el celador del zoo</strong> encontrarán sin problema el sitio donde aterrizó el «mono». Las huellas son de algo o alguien pequeño y con una tirada Buena (+2) tendrán bastante claro que son humanas. Lo curioso es que son pies humanos descalzos (Kim se quitó los zapatos para trepar mejor al árbol).</p>
+<p>En el árbol desde que debió saltar había ramas rotas, así que debió subirse allí y estar un rato hasta atacar al vigilante.</p>
+<p>Si vuelven a buscar pisadas (tirada Buena +2), esta vez fijándose en las de un niño descalzo les llevará hasta la jaula de Victoria. </p>
+<div class="saltopagina odd" id="anchor33"></div>
+<p>Si deciden confirmarlo, no falta ningún mono del zoo y no hay constancia de que alguno se escape de su jaula y haga travesuras por las noches.</p>
+<p><strong>La historia de Victoria la tigresa</strong> es de sobra conocida y cualquier persona del zoo o un poco de trabajo en los archivos del zoo les contará la historia de como la cazó Sir Corbyn y se la regaló a la reina Victoria que la dono al zoo.</p>
+<p><strong>Si quieren hablar con Bob, el cuidador del zoo agredido</strong> está descansando en su casa del golpe. No podrá decirles mucho, estaba de ronda nocturna, no muy lejos de las jaulas de los felinos, cuando una figura más bajita que él saltó como un mono enfrente de él y le dejó inconsciente golpeándole con un palo.</p>
+<p>Según Bob, ha habido veces en que los bribones han entrado en el zoo por la noche a robar, pero nunca habían agredido deliberadamente a un cuidador.</p>
+<p><strong>Alimentar a un tigre de Bengala no es sencillo</strong> y si consultan a algún experto en zoología les dirá que puede comer entre 20 y 40 kilos de carne fresca al día, en cautividad con unos 8 kilos podría subsistir. </p>
+<p>Si buscan en los mercados de abastos y carnicerías de la ciudad, no encontrarán nada. No es un consumo de carne tan grande como para que fuera significativo. Cualquier restaurante cutre compra al día esa cantidad de carne.</p>
+<p>Pueden montar un <strong>mapa de Londres y marcar los sitios donde se escondería un tigre</strong>. Pero encontrarán montones de parques, incluso puedes haber salido ya de la ciudad. Aun así, cuando empiecen los ataques de la tigresa, puede serles útil para poner sus localizaciones y los lugares de los ataques.</p>
+<div class="saltopagina even" id="anchor34"></div>
+<p><a href="https://www.gutenberg.org/files/37959/37959-h/37959-h.htm" title="Natural History in Anecdote by ALFRED H. MILES"><img src="./assests/images/illus-frontispiece.jpg" alt="Natural History in Anecdote by ALFRED H. MILES" title="Natural History in Anecdote by ALFRED H. MILES" /></a></p>
+<div class="saltopagina odd" id="anchor35"></div>
+<h3>Los primeros ataques</h3>
+<p>Kim necesita dinero para poder alimentar a Ehbri y volver a Bengala, así que no les queda más remedio que empezar a dar golpes nocturnos. Mientras que Ehbri los asusta hasta que se desmayan o los deja inconscientes de un par de golpes, Kim les roba la cartera y los objetos de valor. Harán un ataque al día y volverán con el botín al bosque. Al día siguiente, Kim buscará vender lo que pueda y comprar comida para Ehbri.</p>
+<p>Scotland Yard sigue con sus teorías de la fuga porque aunque falten dinero y joyas, es algo normal que la gente saquee a las víctimas antes de llamar a la policía.</p>
+<p>Kim y Ehbri no pueden alejarse mucho del bosquecillo de Regent’s Park por miedo a ser visto, así que los asaltos se concentrarán en esa zona de Londres. Cualquiera con un poco de cabeza verá que el epicentro de todo es Regent’s Park, pero por lo menos necesitaran 5 asaltos para fijar adecuadamente la zona. Quizás 4 días si hicieron trabajo de mapear los lugares donde podía esconderse un tigre en Londres.</p>
+<p>Si ahora buscan carnicerías de la zona, descubrirán que una niña india está comprando en las carnicerías peores y más baratas toda la carne que puede, incluso ternera que se supone sagrada para ella.</p>
+<h4>Ehbri Khan</h4>
+<p>Ehbri es una esbelta y poderosa tigresa de bengala nacida en libertad. Desde que era una cachorra conoce a su amiga humana Kim, por la que haría lo que fuera. Fue capturada por Sir Corbyn y enviada al zoo de Londres. Estar separada de Kim la sumió en una terrible tristeza, pero cuando vio a Kim abrir la puerta de su celda y ayudarla a escapar de su prisión, se prometió que nunca la alejarían de nuevo de su salvadora. </p>
+<div class="saltopagina even" id="anchor36"></div>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Temible tigresa de Bengala</li>
+<li><strong>Complicación:</strong> Hambrienta y asustada</li>
+<li>Amigas para siempre (Kim)</li>
+<li>Buena vista y olfato</li>
+<li>Acechadora</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Mediocre (+0), Llamativo Normal (+1), Rápido Grande (+3), Vigoroso Enorme (+4) </li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Rugido aterrador:</strong> Debido a su rugido aterrador, gana un +2 a Atacar de forma Vigorosa, cuando se enfrenta a un solo atacante.</li>
+<li><strong>Huida a la desesperada:</strong> Debido a su fuerza y agilidad, una vez por partida puede huir corriendo, saltando por los tejados o perdiéndose entre callejones con Kim a la grupa sin que se le pueda seguir corriendo detrás de ella. </li>
+<li><strong>Entender a los humanos:</strong> Debido a que ha pasado mucho tiempo entre humanos, empieza entender su lenguaje y sus gestos y gana un +2 para Defenderse de modo Rápido cuando quieren tenderla una trampa.</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<h4>Kim</h4>
+<p>Kim conoce a Ehbri desde que tenía 6 años y se perdió en la selva que rodeaba su casa. Se encontró con una cachorra de tigre huérfana a la que cuidó y alimento como pudo. </p>
+<p>Pasar tanto tiempo en el bosque con Ehbri hizo de ella fuera un poco salvaje, de hecho es una gran escaladora y ágil como un mono. También ha aprendido a hablar con su amiga tigresa y se compenetran perfectamente.</p>
+<div class="saltopagina odd" id="anchor37"></div>
+<p>Cuando Ehbri desapareció, Kim sufrió muchísimo y cuando descubrió que seguía viva en Londres, supo que tenía que ir a buscarla, liberarla y volver juntas a Bengala.</p>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Aventurera sin miedo</li>
+<li><strong>Complicación:</strong> Niña extranjera en Londres</li>
+<li>Amigas para siempre (Ehbri Khan)</li>
+<li>Ágil como un mono</li>
+<li>Valiente como un tigre</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Normal (+1), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Bueno (+2), Vigoroso Mediocre (+0)</li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Ataque sorpresa:</strong> Debido a su agilidad y sigilo, una vez por partida puede deshacerse de un matón directamente tendiéndole algún tipo de trampa.</li>
+<li><strong>Vida en el bosque:</strong> Debido a haber crecido en el bosque, gana un +2 para Crear una ventaja de modo Cauto cuando está en bosque, selva o similar.</li>
+<li><strong>Entender a los felinos:</strong> Puede comunicarse con felinos como si fueran PNJ humanos, ten en cuenta que la comprensión del mundo del felino es limitada.</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<h3>Entra Sir Corbyn</h3>
+<p>La cosa se complica cuando Sir Corbyn llega de su retiro en la campiña escocesa para que de caza y mate a Ehbri a petición del inspector Newcomen. Si quieres hacerlo más ridículo, diles que lleva unos meses en el lago Ness buscando un monstruo marino.</p>
+<p>Sir Corbyn montará un equipo de caza con los peores policías de a pie de Scotland Yard y empezará a patearse las calles.</p>
+<div class="saltopagina even" id="anchor38"></div>
+<p>Igual que Kim y Ehbri se siente fuera de lugar, pero a diferencia de ellas no está asustado. Está disfrutando cada segundo de esta nueva caza y de cómo va a fardar en su club de caballeros de ser el cazador que dio muerte al tigre devorado-hombres de Londres.</p>
+<p>Ya se ve recibiendo una medalla de la reina y como esta manda disecar a la tigresa y la pone en la sala de audiencias al lado de su trono.</p>
+<p>No puede seguir muchos rastros en el duro adoquín, ni llevar un elefante por las calles de Londres desde el que disparar a su presa, pero ha empezado a estudiar los lugares de los ataques y a triangularlos para acotar su zona de caza. Además, ha montado un puesto de caza móvil encima de un carruaje para detenidos de la policía a semejanza de los elefantes que usan en la India para cazar tigres.</p>
+<p>No hemos de olvidar que cuenta con su salsa secreta, un adobo secreto que aprendió en Kenia para echar a la carne fresca. La hace irresistible para los felinos que además pueden olerla desde grandes distancias.</p>
+<p>Si van de safari urbano con Sir Corbyn verán que empapa siempre la carne de las trampas con un líquido verdoso que echa de una petaca. Y si le preguntan les dirá que son secretos de los grandes cazadores.</p>
+<h4>Sir Roger Corbyn</h4>
+<p>Sir Corbyn vive por y para la caza y como ella es cruel y sanguinaria. Mientras que otros cazadores puede tener un mínimo de respeto por sus presas. Sir Corbyn se ríe de ellas y las desprecia desde su puesto elevado y camuflado cuando ve su cadáver abatido por sus disparos a través de su mira telescópica.</p>
+<div class="saltopagina odd" id="anchor39"></div>
+<p>Este viejo cazador está deseoso de acabar con Ehbri, a la que tuvo que atrapar viva y no tuvo el gusto de matar. Pero esta vez no escapará de su rifle de cazar elefantes y acabará decorando alguna sala del palacio de Buckingham.</p>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Gran cazador blanco</li>
+<li><strong>Complicación:</strong> Cruel y sanguinario</li>
+<li>Mi fusil de cazar elefantes</li>
+<li>Puedes huir, pero te encontraré </li>
+<li>Modales suaves</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Normal (+1), Furtivo Bueno (+3), Ingenioso Normal(+1), Llamativo Bueno (+3), Rápido Bueno (+3), Vigoroso Bueno (+3)</li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Francotirador:</strong> Debido a su experiencia como cazador, gana un +2 para Atacar en modo Furtivo cuando dispara desde una localización oculta.</li>
+<li><strong>Trampero:</strong> Debido a su experiencia cazando grandes bestias, gana un +2 para Crear ventaja en modo Furtivo cuando monta trampas.</li>
+<li><strong>Historias de caza:</strong> Debido a sus años contando historias de caza falsas, gana un +2 para Superar en modo Llamativo cuando tiene que mentir.</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<p><strong>Ayudantes de Sir Corbyn:</strong> Sir Corbyn va acompañado de 4 policías de Scotland Yard que le ayudan a cazar a Victoria.</p>
+<ul>
+<li>Escoria de la policía</li>
+<li><strong>Buenos en (+2):</strong> Peleas, Extorsionar a la gente</li>
+<li><strong>Malos en (-2):</strong> Hacer trabajo policial, Leyes</li>
+<li><strong>Estrés:</strong> ninguno (el primer ataque que le alcance le elimina).</li>
+</ul>
+<div class="saltopagina even" id="anchor40"></div>
+<p><a href="https://collections.britishart.yale.edu/catalog/tms:41069" title="Print made by John Cleghorn, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808."><img src="./assests/images/ycba_7e422abb-817a-4927-84b9-daf2bff1f546.png" alt="Print made by John Cleghorn, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808." title="Print made by John Cleghorn, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808." /></a></p>
+<h3>Cacería en Regent’s Park</h3>
+<p>Si han conseguido adelantarse a Sir Corbyn en encontrar la ubicación de la guarida de Ehbri y Kim, puede empezar a peinar Regent’s Park o pueden tratar de pillar a Kim cuando vaya a buscar comida y llevársela a Ehbri. También pueden esperar a que salgan a robar a la noche y seguirle cuando entren o salgan. </p>
+<p>Ponerse a buscarlos por los bosques de Regent’s Park sin conocimientos de rastreo es bastante difícil y tienen el problema de que estarían en desventaja con Ehbri que sabe moverse entre los árboles y los matorrales.</p>
+<div class="saltopagina odd" id="anchor41"></div>
+<p>Si encuentran a Kim, tendrán que convencerla de que son buenas personas y quieren ayudarlas (sea o no verdad). Esta les conducirá a Ehbri y la tranquilizará y les dirá que no son enemigos.</p>
+<p>Si se encuentran con Ehbri, esta se lanzará al ataque y tras un par de rondas aparecerá Kim para negociar. Deberán convencer a Kim y a Ehbri que puede entenderles un poco de que no quieren hacerles daño. Si fallan, atacarán hasta derrotarlos o huirán para desaparecer para siempre o durante mucho tiempo (las secuelas son buenas semillas de aventuras).</p>
+<p>Cuando se pongan a planear sus siguientes pasos, llegarán ruidos de fuera de la arboleda. Algo está pasando en el parque, sir Corbyn está preparándose para su cacería.</p>
+<p>Si no consiguen adelantarse a Sir Corbyn enseguida verán todo el espectáculo y tendrán que colarse dentro del parque escalando las verjas y esquivando a los policías y soldados y juntarse con Sir Corbyn o intentar infiltrarse en el bosquecillo que está sitiando ahora mismo Sir Corbyn.</p>
+<h4>Sir Corbyn saca su rifle</h4>
+<p>Al cabo de 5 días con sus 5 ataques (o antes si tus jugadores descubren la ubicación de la tigresa), Sir Corbyn tendrá claro que su presa está en Regent’s Park. Así que allí irá montando un dispositivo de caza gigantesco. Todas las puertas del parque serán cerradas, se vaciará de viandantes y policías y soldados con rifles estarán vigilando que nada escape del parque.</p>
+<p>Ha hecho montar una jaula para retener al tigre cuando sea atrapado y ha montado su puesto de caza encima, pero es pura fachada, quiere matar a su pieza, nada de capturarlo vivo. La jaula está situada casi al borde de la arboleda donde se refugian Ehbri y Kim.</p>
+<div class="saltopagina even" id="anchor42"></div>
+<p>Las calles adyacentes estarán llenas de mirones atraídos por el morbo y la curiosidad y la verdad que sir Corbyn está disfrutando de actuar frente a tan selecto público.</p>
+<h4>Empieza la cacería</h4>
+<p>Sir Corbyn ha dejado dentro de la jaula un buen pedazo de carne fresca con su salsa especial. Eso volverá loco a Ehbri que en cuanto lo huela saldrá corriendo hacia la trampa.  Es complicado parar a la tigresa, pero no imposible.</p>
+<p>Cuando Ehbri empiece a devorar la carne, Sir Corbyn bajará y sacará su cuchillo de caza para matar con sus propias manos a la tigresa. Quiere lucirse delante de la gente que acercándose.</p>
+<p>La carne está drogada y no deja a Ehbri durmiendo, pero muy tocada (Consecuencia leve Drogada). Kim cuando vea eso saldrá hacia la jaula para ayudar a su amiga y entrará en la jaula por los pelos porque Sir Corbyn ha activado el cierre de la jaula para chulearse de luchar contra un tigre en una jaula.</p>
+<p>Con una tirada Buena (+2) los jugadores entrarán en la jaula por los pelos y ayudar a Kim y Ehbri en la pelea. Pueden intentar si son fuertes evitar que la trampa no llegue a cerrarse con una tirada Grande (+3).</p>
+<p>Desde fuera, muy poco se puede hacer, pero si son creativos, igual pueden entrar dentro o ayudar a una de las partes.</p>
+<p>En la impensable, pero posible, situación que tus jugadores estén ayudando a Sir Corbyn, les dirán que se queden fuera. No quiere que nadie le robe la fama. Pueden intentar que Kim entre en la jaula, pero poco podrán hacer después, desde fuera de la jaula. Ehbri y Kim se pondrán a pelear a muerte con Sir Corbyn dentro.</p>
+<div class="saltopagina odd" id="anchor43"></div>
+<h3>El indulto real</h3>
+<p>Al empezar el tiroteo, los mirones y curiosos han derribado una parte de la verja y están entrando en masa al parque. Y acercándose a donde está la acción. Poco a poco la gente empezará a rodear la jaula para ver el espectáculo, jaleando a unos u otros.  </p>
+<p>Cuando veas oportuno se abrirá un pasillo entre el público y unos soldados de la guardia de honor real dejarán pasar a la propia reina Victoria que su ropa de montar. Debía estar haciendo su paseo a caballo diario y al ver el gentío ha querido ver que pasaba. </p>
+<p>Ante su presencia, tus jugadores, Sir Corbyn (que hinca rodilla), Kim y Ehbri se detendrán y esperarán callados a que hable la reina.</p>
+<blockquote>
+<p>Me entristece ver este terrible espectáculo en el corazón de mi reino, ¡cuán bajo han caído mis súbditos! Siempre he pensado que hay un placer mayor que matar, que es dejar vivir, así al ver aquí a mis súbditos luchando hasta la muerte prefiero que vivan y es, por tanto, mi deseo y mi derecho como reina que todos mis súbditos tanto humanos como tigres dejen de pelear y de matarse entre ellos. </p>
+</blockquote>
+<p><a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier,_1897_Wellcome_L0002438.jpg" title="Portrait of Queen Victoria, by Forestier, 1897"><img src="./assests/images/Portrait_of_Queen_Victoria__by_Forestier__1897_Wellcome_L0002438.png" alt="Portrait of Queen Victoria, by Forestier, 1897" title="Portrait of Queen Victoria, by Forestier, 1897" /></a></p>
+<div class="saltopagina even" id="anchor44"></div>
+<p>Acto seguido, se da la vuelta y se va por donde ha venido. Mientras, un par de guardias se llevarán a Sir Corbyn y los otros tratarán de hablar con los jugadores y les ofrecerán las caballerizas reales para que Kim y Ehbri vivan unos días allí mientras preparan las cosas para trasladarlos a Bengala.</p>
+<p>Como consecuencia de todo esto, no solo Ehbri, sino todos los tigres y tigresas de todos los zoos y circos de Inglaterra y sus colonias son declarados súbditos de la reina y si no han cometido delitos, deberán de ser devueltos a su lugar de origen. Además, como ciudadanos no podrán ser cazados en ninguna parte, solo detenidos y ajusticiados en caso de matar a seres humanos.</p>
+<h3>Unas semanas más tarde</h3>
+<p>Una semana más tarde del fin del indulto de la reina, un bienhechor anónimo ha fletado un barco exclusivamente para el viaje de regreso a Bengala para Kim y Ehbri. Ha contratado a un especialista en lenguaje y a un zoólogo para que les acompañen y documenten durante el viaje todo lo que puedan sobre la capacidad de comunicarse que tienen las dos amigas.</p>
+<p>Según «The National Geographic» esos estudios podrían ser la base de un futuro lenguaje universal hablado por hombres y bestias.</p>
+<p>Si los jugadores se interesan por el estudio, nunca llego a publicarse. Los estudiosos que lo hicieron lo entregaron por Correo y nunca supo nada.</p>
+<div class="saltopagina odd" id="anchor45"></div>
+<h2>El extraño caso de las palas del zapador</h2>
+<blockquote>
+<p><img src="./assests/images/pala.png" alt="Pala de cavar zanjas" title="Pala de cavar zanjas" /> Joshua Croft estaba trabajando en las obras del nuevo Puente de Battersea cuando cayó un rayo en el hoyo de cimentación en el que trabajaba. Cuando sus compañeros se acercaron solo quedaba las palas con las que trabajaba y un montón de cenizas humeantes. Scotland Yard da por cerrado el caso, pero la compañía Stanley &amp; Hickson Insurances, que asegura la obra, no está del todo de acuerdo con pagar a la viuda una prima por la muerte de su marido.</p>
+</blockquote>
+<h3>Resumen del caso</h3>
+<p>Joshua Croft es un simple zapador de obra que abre zanjas y hace hoyos en las obras. Pero por las noches en el pequeño sótano de su casa se dedica a estudiar física y química tratando de sacar a su familia de la miseria. Gracias a su genio o su suerte ha descubierto una aleación de metales que desvía o atrae la electricidad según los porcentajes de metales. Si consigue patentar su descubrimiento podría darle a su familia la vida que se merece.</p>
+<p>Su problema es que patentar su idea es muy caro y todo el mundo al que ha acudido se ha reído en su cara y no le han prestado el dinero. Ninguno cree que un simple zapador puede haber hecho el descubrimiento que dice que ha hecho.</p>
+<p>Joshua se ha visto forzado a estafar al seguro de su actual trabajo, las obras del puente de Battersea, haciéndoles creer que está muerto para que su mujer pueda cobrar una pequeña prima y patentar su invento. Con el dinero que saquen de vender su invento, marcharán a Australia buscando una vida mejor.</p>
+<div class="saltopagina even" id="anchor46"></div>
+<p>Para cobrar la prima debe haber un cadáver, el suyo en concreto, y como no puede conseguirlo, su muerte debe ser inequívoca y a la vista de todos. Así que mientras trabaja en su hoyo, una tarde de tormenta con fuerte aparato eléctrico hace caer un rayo al lado suyo con una de sus palas y se protege con la otra repeliéndolo. En cuanto puede, escapa hacia el río mientras la gente se recupera de la explosión y el shock producido por el impacto del rayo.</p>
+<h3>Introducción al caso</h3>
+<p>Un chico de los recados entrará en la agencia y entregará un mensaje esperando una propina. </p>
+<p>Es de Wilbur MacNichols, pasante de seguros de Stanley &amp; Hickson Insurances. Gabriel Utterson, con el que ha trabajado en anteriores circunstancias, les pone por las nubes, así que quiere contratar sus servicios porque cree que están intentando estafar al seguro.</p>
+<p>El mensajero entrega también una copia del informe al seguro. En él se ve a grandes rasgos que un cavador de las obras del nuevo puente de Battersea murió por la caída de un rayo. Como obra pública que es, las obras del puente tenían un seguro que incluía indemnización en caso de muerte de algún obrero. Deben indemnizar a la viuda con una prima modesta pero suficiente para sobrevivir un tiempo.</p>
+<p>Scotland Yard lo ha declarado un accidente y ha cerrado el caso. Pero el seguro no se fía y quiere investigar y ahorrarse la indemnización.</p>
+<h3>La escena del accidente</h3>
+<p>La escena del accidente ha sido más o menos preservada por la constructora a petición del seguro. Nadie ha trabajado en ella, pero la lluvia seguro que la ha estropeado. </p>
+<p>Es un hoyo de unos 5 o 6 metros de radio por de 2 y medio de hondo con una un surco que baja hasta el fondo para salir y entrar.</p>
+<div class="saltopagina odd" id="anchor47"></div>
+<p>En un lateral donde se supone que estaba Joshua cavando, hay un gran agujero provocado por el terrible impacto del rayo con restos de materiales geológicos cristalizados por culpa del calor del impacto del rayo.</p>
+<p>El hoyo está cerca del río y como haya una crecida se verá inundado. Lo estaban haciendo como parte de los cimientos del puente. Solo hay barro y más barro y la lluvia lo ha medio inundado todo, así que el agua definitivamente ha estropeado la escena.</p>
+<p>En el agujero que hizo el rayo <strong>no encuentran restos</strong> de ningún tipo de Joshua, ni restos óseos, ni piel, ni restos de carne. Tampoco encuentran restos de ropa, solo queda sus palas un poco maltratadas. El resto del hoyo tampoco hay restos. El rayo debe haber desintegrado al pobre zapador.</p>
+<p>En realidad Joshua pensó dejar restos de ropa quemada, pero sería raro entonces que no hubiera carne chamuscada y huesos quemados y como no podía conseguir restos humanos, prefirió jugársela a qué creyeran que no había quedado nada de él.</p>
+<p><strong>Si buscan huellas de pisadas</strong>, está todo el barro lleno de pisadas medio borradas de los compañeros de trabajo que bajaron a ver que había pasado con Joshua. Es imposible sacar alguna información.</p>
+<p><strong>El testimonio de los testigos</strong> es muy parecido entre sí. El charlatán Tony Wilson, compañero de tajo, vio a Joshua bajar a su hoyo a cavar cuando de repente cayó un rayo. Cuando se recuperaron del impacto del rayo se acercaron al hoyo y solo había un socavón humeante y sus palas tiradas al lado.</p>
+<h3>Pistas a seguir</h3>
+<p>Tras revisar la escena del crimen, tus jugadores pueden empezar a hacer investigaciones, porque la verdad que la escena del accidente no aporta mucho.</p>
+<div class="saltopagina even" id="anchor48"></div>
+<p><strong>Si consiguen acceso a las palas y pueden estudiarlas</strong> (tirada Buena +2) verán que pesas un poco más que otras palas del mismo fabricante. Eso es debido a que el interior del palo está relleno de una barra de metal conectada a la parte metálica de la pala.</p>
+<p>Si analizan la aleación del metal (tirada Grande +3), es rara pero con metales normales. Parece tener propiedades magnéticas, pero no pueden saber nada más. Tendrán que buscar ayuda especializada.</p>
+<p><strong>Preguntando a los compañeros</strong> de Joshua es raro llevar dos palas iguales al mismo sitio. Es más práctico llevar una pala y un pico o palas de distintos tamaños para distintos trabajos.</p>
+<p><strong>Si vistan la casa de Joshua,</strong> no verán nada más que es una humilde casucha en un barrio pobre. La viuda, Trinity Croft, llora desconsolada la perdida y maldice a los investigadores porque el seguro le quiere quitar el poco dinero que van a recibir de esta desgracia.</p>
+<p>Trinity no miente, ya que no sabe nada del plan de su marido y realmente cree que ha sido calcinado por un rayo.</p>
+<p>Si bajan al sótano, lo encontrarán vacío, pero está claro que hace pocos días había muchas cosas en ese sótano. ¿Por qué está ahora vacío? ¿Por qué saco sus cosas Croft y dónde están? </p>
+<p>Trinity les dirá que hay estaba su taller donde hacía sus cosas raras de ciencia. A ella le hizo un soporte mágico para los cuchillos. Si la ven es una ingeniosa tira de imán clavaba a la pared que sujeta los cuchillos sin que se caigan. Es una idea muy ingeniosa que delata a una mente muy despierta.</p>
+<p><strong>¿Hay un testamento?</strong> Más o menos. Joshua dejó a su mujer unas notas en un sobre lacrado con como patentar su invento usando el dinero de la prima del seguro y los esquemas de fabricación incluidos. Con la venta de la patente podría cumplir con el sueño de la pareja, ir a Australia y comprar una granja.</p>
+<div class="saltopagina odd" id="anchor49"></div>
+<p>Joshua le dijo que nadie debería ver esos papeles bajo ninguna circunstancia, pero Trinity miente fatal y se nota que hay algo. Se encuentra sola y desamparada y aunque quiera seguir las órdenes de su marido siendo convincente y pareciendo legal, se la puede llegar a convencer de que muestre la ultimas voluntades de Joshua.</p>
+<p><strong>Consultar con un experto en electricidad y tormentas</strong> como el Doctor en física Simón Waller, debería dejar claro que no es normal que un rayo caiga en un agujero, siempre va al punto más alto de la zona. Algo debería atraerlo poderosamente para que eso ocurriera.</p>
+<p>Por otro lado, es totalmente imposible que un rayo fulmine a una persona y no quede nada de ella. Simón dirán a tus jugadores que es casi imposible no dejar ningún resto humano o de su ropa, pero no tiene la total certeza, porque las circunstancias son especiales.</p>
+<p>Aprovechará a fardar delante de ellos enseñándoles sus cacharros eléctricos que ponen los pelos de punta al tocarlos y un generador de arcos voltaicos.</p>
+<p>Si le enseñan las palas, querrá probarlas con su arco voltaico y verán que efectivamente atraen o repelen el arco voltaico. Los accidentes de laboratorio quedan a tu elección.</p>
+<p>Si no saben que las palas son magnéticas y las llevan durante la reunión con el Doctor Simón, cuando encienda sus trastos eléctricos se llevarán un Buen (+2) impacto eléctrico al ir hacia ellos el arco voltaico.</p>
+<p>De una forma dolorosa averiguarán los poderes de las palas y su funcionamiento. Tras unas pruebas rápidas sabrán que una atrae la electricidad y la otra la repele.</p>
+<p>El Doctor Wilson quiere estudiarlas más en profundidad y también, pero no lo dice, patentarlas a su nombre y ganar mucho dinero.</p>
+<div class="saltopagina even" id="anchor50"></div>
+<h3>Como buscar a un muerto</h3>
+<p>En el momento que descubran suficientes pistas llegarán a la conclusión de que la muerte es claramente una estafa al seguro.</p>
+<p>Entonces tendrán que dar el siguiente paso, encontrar a Joshua Croft vivito y coleando para poder demostrar sus teorías.</p>
+<p>Joshua está escondido en casa abandonada cercana a las obras del puente. Se compró con los terrenos de la obra y se desahució a sus inquilinos. Cuando se termine el puente, será derribada y se construirán casas nuevas, pero de mientras su sótano sirve de refugio de Joshua y su laboratorio.</p>
+<p>Joshua lleva semanas llevando su equipo tecnológico al sótano de su guarida secreta y ha hecho algunos ingenios de luz y sonido para convencer a los vecinos que está encantada.</p>
+<h4>Labor detectivesca</h4>
+<p>Está claro que Joshua tiene alguna guarida secreta donde se esconde y donde tiene su equipo de laboratorio. Tus jugadores deberán encontrarla y solo lo harán haciendo buena labor detectivesca. Pueden sacar a priori varias deducciones sobre donde se esconde Joshua y luego buscar lugares así y examinarlos.</p>
+<ul>
+<li>Tiene que ser un sitio abandonado. Los Croft no pueden permitirse el gasto de alquilar un local.</li>
+<li>Aislado para que nadie vea entrar y salir a Joshua.</li>
+<li>Seguramente cerca de su casa o de la obra, para no cargar con el material o para no tener que recorrer mucho terreno cuando huyó de las obras del puente.</li>
+<li>La rumología puede decirles sitios vacíos con actividad extraña los últimos días.</li>
+</ul>
+<p>Cuando quieras, en sus visitas de sitios abandonados, llegarán a la casa abandonada donde se esconde Joshua.</p>
+<div class="saltopagina odd" id="anchor51"></div>
+<h4>Explorando la guarida</h4>
+<p>La casa está en una explanada llena de barro cerca de las obras del puente. Tiene dos pisos y la puerta principal está abierta. </p>
+<p>Cuando se acerquen tus jugadores empezará una tormenta bastante fuerte después de varios días de lluvia.</p>
+<p>La casa está vacía. Lo que no se han llevado los antiguos inquilinos, ha sido robado. Pero si llegan al ático encontrarán los artilugios para hacer efectos sonoros y luminosos.</p>
+<p>La entrada al sótano está cerrada dentro. Joshua la puede cerrar y abrir a voluntad y suele entrar y salir por la carbonera.</p>
+<p>Joshua escucha desde el sótano Cuando se vea acorralado y crea que lo van a atrapar, saldrá del sótano por la antigua carbonera corriendo por el barrizal que rodea la casa, con sus dos palas nuevas que parecen más diapasones gigantes (ha ido mejorando su estos días su diseño anterior).</p>
+<h3>El combate final</h3>
+<p>La tormenta eléctrica está en todo su apogeo y los rayos caen por todas partes. Estáis un barrizal resbaladizo y con grandes charcos y cuesta moverse con rapidez y agilidad. La visibilidad es reducida por la lluvia, así que las armas de fuego tendrán desventaja.</p>
+<p>Joshua no piensa ir a la cárcel, su hermano murió de cólera en una de ellas y prefiere morir aquí y ahora que agonizar durante años en una sucia celda. Así que tratar de convencerle de que se rinda es casi imposible, a no ser que se le ofrezca un trato que le permita a su mujer y su hija vivir dignamente.</p>
+<p>Seguramente ya sabrán que Joshua es un gran inventor que con dinero y equipo podría ser aún mejor. Pueden pensar en asociarse con él como socios capitalistas y tratar de negociar con el seguro que no le denuncien.</p>
+<div class="saltopagina even" id="anchor52"></div>
+<p>Como última acción podría atraer varios rayos y autocarbonizarse, de forma que no quede nada de él. Sin un cuerpo y sin Joshua vivo para confesar, el seguro tendrá que terminar pagando la prima.</p>
+<p>También pueden dejarle escapar, solo ha engañado a un seguro que gana miles de soberanos al año. Que una aseguradora pierda el dinero de una pequeña prima para que una familia que no ha hecho mal a nadie pueda empezar una nueva vida en Australia, tampoco es tan malo.</p>
+<p>El único problema que tiene esta opción es que no cobrarás este trabajo y seguramente Stanley &amp; Hickson Insurances no vuelva a requerir tus servicios.</p>
+<p>Si no se autoinmola, tanto si es derrotado como si termina rindiéndose, Joshua será condenado a 12 años de cárcel y un comprador anónimo se quedará con los derechos de explotación del invento, dando a señora Croft una suma de dinero que le genera una buena pensión todos los meses hasta que su marido salga de la cárcel.</p>
+<p>Si intentan luchar contra Joshua con sus palas no serán muy eficaces, apenas entienden como funciona y seguro que se hacen ellos más daño que a Joshua.</p>
+<h4>Joshua Croft</h4>
+<p>Nuestro científico amateur está desesperado en este momento y puede tomar cualquier decisión y no tiene por qué tener ninguna lógica lo que haya.</p>
+<p>Joshua puede usar su pala para controlar los rayos y que parte de las descargas del rayo impacten en Jekyll o Hyde y la otra para protegerse de esos rayos. Si pierde la que repele recibirá el mismo daño que haga a su objetivo, si pierde la que atrae los rayos no podrá atacar y tendrá que enzarzarse al cuerpo a cuerpo en el barro. Tampoco podrá autoincinerarse si no puede atraer los rayos.</p>
+<div class="saltopagina odd" id="anchor53"></div>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Pobre inventor autodidacta</li>
+<li><strong>Complicación:</strong> Desesperado</li>
+<li>Duras e interminables jornadas de trabajo</li>
+<li>De los barrios chungos</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Grande (+3), Furtivo Normal (+1), Ingenioso Grande (+3), Llamativo Mediocre (+0), Rápido Normal (+1), Vigoroso Grande (+3)</li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Pala repele rayos:</strong> Debido a que su pala repele rayos y crea una bóveda estática protectora, recibe un +2 para Defender de modo Rápido cuando alza su pala.</li>
+<li><strong>Pala lanza rayos:</strong> Debido a que su otra pala atrae rayos y los puede enviar a sus enemigos, recibe un +2 para Atacar de modo Rápido cuando te apunta con su pala.</li>
+<li><strong>Aprendiz de todo:</strong> Debido a que es un científico autodidacta y sabe un poco de todo, recibe un +2 para Crear una ventaja de modo Cauto cuando tiene unos pocos materiales y algunas herramientas.</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<h3>Unas semanas más tarde</h3>
+<p>Unas semanas más tarde, recibirán un soplo de un contacto en Scotland Yard, <i>las palas han sido robadas</i> del lugar donde estuvieran almacenadas, menos su oficina o la casa de Jekyll. Lo curioso es que nadie parece usar la tecnología de Croft, así que el comprador anónimo se la está guardando para él y, por desgracia, las únicas muestras existentes de la aleación, las palas, han desaparecido.</p>
+<div class="saltopagina even" id="anchor54"></div>
+<h2>El extraño caso del lingote de oro con la rosa impresa</h2>
+<blockquote>
+<p><img src="./assests/images/lingote-rosa.png" alt="Lingote de oro con una rosa impresa" title="Lingote de oro con una rosa impresa" /> El viejo notario Stonewall ha aparecido muerto. El arma homicida es un lingote de oro con una rosa impresa en su cara superior que se ha encontrado en el suelo manchado de sangre y masa encefálica. Lo que Scotland Yard no consigue comprender es quién mataría a una persona con un lingote de oro lo dejaría en la escena del crimen.</p>
+</blockquote>
+<h3>Resumen del caso</h3>
+<p>La oro de la Dote de la princesa Jariba son unos 40 lingotes de oro que el marajá de Kapurthala ofreció como parte de la dote de su hija la princesa Jariba. Hizo ponerles una rosa como marca, ya que era la flor preferida de su hija.</p>
+<p>La dote fue robada durante su traslado al hogar del futuro marido de Jariba. Este lo tomó como señal de mal augurio y rechazo a la princesa y deshizo la boda.</p>
+<p>Desde entonces, llevan como unos 80 años apareciendo y desapareciendo y cada vez que aparece uno de estos lingotes está relacionado con terribles asesinatos.</p>
+<p>Estos lingotes están impregnados de una sustancia cerosa que al contacto con el calor como el producido por el cuerpo humano, desprende una toxina que se absorbe por la piel. Las toxinas al llegar al cerebro provocan una ira irracional y homicida en su víctima.</p>
+<p>Esta sustancia la puso el visir del marajá, que estaba enamorado de Jariba y cuyo amor no era correspondido. Su idea es que si Jariba no era suya, no fuera de nadie y su futuro marido la matará en la noche de boda al ofrecerle ella su dote antes de consumar el matrimonio.</p>
+<div class="saltopagina odd" id="anchor55"></div>
+<p>Su última víctima ha sido John Stonewall, notario y albacea testamentario de la rica familia Collidge.</p>
+<p>El último cliente del día era Capitán Maximilian Collidge, último descendiente de la familia Collidge, de rancio abolengo pero en decadencia los últimos años. </p>
+<p>Stonewall era el albacea testamentario de Jeremy Collidge, hermano menor del padre de Maximiliano y soldado como él.</p>
+<p>Tras leer sus últimas voluntades, Stonewall le hace entrega de unos títulos de propiedad de unas tierras de labranza y tres lingotes de oro, metidos en una caja de madera de sándalo.</p>
+<p>Al entrar en contacto con los lingotes, la ira se apodera de él y mata de un certero golpe Stonewall en la cabeza con el lingote que había cogido.</p>
+<p>Cuando el subidón de adrenalina y toxinas remite, se da cuenta de lo que ha pasado y huye de la notaría con los títulos, los dos lingotes metidos en la caja y el libro de citas con su nombre apuntado.</p>
+<p>Maximilian, como muchos veteranos de guerra, tiene estrés postraumático y ha desarrollado cierta fobia a la sangre, ya que le recuerda a las carnicerías que protagonizó por todo el mundo con el ejército inglés.</p>
+<p>Es por eso que no puede ni acercarse al lingote y huye de la escena del crimen, dejando allí el arma del delito.</p>
+<p>Algo que hay que tener en cuenta es que los profesionales del oro no tocan los lingotes de oro directamente. Se coloca sobre toallas y <strong>se manipula con guantes</strong>. El oro es un metal muy blando y cualquier cosa como un anillo o un golpe puede rayarlo y hacerle perder material, que por poco que sea tiene un gran valor. Además, la suciedad de las manos pueden hacer variar su peso y estarías pagando grasa a precio de oro.</p>
+<div class="saltopagina even" id="anchor56"></div>
+<p>Por último, estima que un lingote estándar pesa unos 12 kilos, por si tus jugadores quieren coger 3 o 4 y salir corriendo alegremente.</p>
+<h3>Introducción al caso</h3>
+<p>Gabriel Utterson acude a tus jugadores apenado y entristecido. Esta mañana había ido a visitar a su amigo y primer jefe John Stonewall y se lo ha encontrado muerto en su pequeña notaría. Tenía un brutal golpe en la cabeza y el arma homicida parece ser un lingote de oro.</p>
+<p>Cuando llegan no se puede entrar en la notaría. Wilson, el armario empotrado que Newcomen ha dejado al cargo de la entrada, no les deja entrar. No es muy listo, pero sabe seguir órdenes muy bien.</p>
+<ul>
+<li>Policía gigante y tonto</li>
+<li><strong>Es Bueno (+2) en:</strong> Usar su gran cuerpo y fuerza, Cosas atléticas</li>
+<li><strong>Es Malo(-2) en:</strong> Usar su cerebro, Relacionarse con la gente</li>
+<li><strong>Estrés:</strong> ◯◯</li>
+</ul>
+<p>Newcomen disfrutará desde dentro viendo los intentos de tus jugadores por entrar a la escena del crimen.</p>
+<p>Los jugadores le caerán bien a Wilson a pesar de lo que hagan y los seguirá (si tú como DJ quieres) durante sus investigaciones a todas partes como un perrito faldero. Puede que crean que lo envía Newcomen, pero es iniciativa propia, quiere aprender sus métodos detectivescos para ser mejor policía.</p>
+<h3>La escena del crimen</h3>
+<p>Cuando entren, si han tenido problemas en saltarse a Wilson, El inspector les mirará y les entregará unos guantes blancos, diciéndoles con sorna: <i>Usen esto no quiero que me ensucien la escena del crimen. Por cierto, buen chico ese Wilson. Le auguro una brillante carrera en Scotland Yard.</i></p>
+<div class="saltopagina odd" id="anchor57"></div>
+<p>Si burlan a Wilson sin problemas, les dirá airado: <i>Usen esto no quiero que me ensucien la escena del crimen. Veo que han conocido a Wilson. Sinceramente, no le auguro una brillante carrera en Scotland Yard.</i></p>
+<p>Por el <i>rigor mortis</i>, <strong>Stonewall murió el día anterior a última hora de la tarde</strong>, así que muy posiblemente su asesino fue su último cliente. Está claro que murió de un tremendo golpe en la cabeza que le partió el cráneo.</p>
+<p>El arma homicida es el lingote de oro que está caído al lado del cuerpo lleno de sangre y masa encefálica. El lingote no se lo pueden llevar, aunque Hyde seguramente lo intenté, pero siendo rápidos (Tirada Buena +2) y con papel y carboncillo del despacho pueden obtener una copia muy buena sin que Newcomen o algún policía les vea. Wilson simplemente les mirará y se quedará asombrado al ver la copia en papel de la rosa.</p>
+<p>La <strong>agenda de citas ha desaparecido</strong>, con lo que es imposible saber a quién tenía que recibir ayer el viejo notario. Si preguntan en los locales de enfrente o de los lados, nadie vio nada raro o fuera de lo común. Entro la gente normal, tipos ricos que tienen algo que dejar o recibir en herencia o algún chico de recados.</p>
+<p>Como curiosidad, nadie está tocando nada con las manos desnudas. Si lo preguntan, Newcomen está probando una nueva técnica forense, las huellas dactilares y todo el mundo lleva guantes. Espera que esta técnica le dé ventaja sobre esos aficionados de Jekyll y Hyde.</p>
+<h3>Pistas a seguir</h3>
+<p>El caso es muy sencillo y a la vez muy difícil. Usando un diagrama de Venn, el asesino es la persona que esté en el grupo de clientes que visitaron a Stonewall ese día y la de gente relacionada con los lingotes de la dote de la princesa Jariba. El primer problema es que no saben nada del lingote y el segundo problema es que el libro de citas se lo han llevado. Así que deberán tratar de reconstruir el día de Stonewall y averiguar todo lo que sepan del lingote. </p>
+<div class="saltopagina even" id="anchor58"></div>
+<h4>El lingote de oro</h4>
+<p>Una mañana de <strong>bancos y joyerías</strong> preguntando por el diseño de la rosa no tendrá ningún éxito, nadie reconoce la marca.</p>
+<p>El <strong>Museo Británico u otra institución del conocimiento</strong> puede ser una mejor opción para saber de donde proviene ese lingote. Según uno de los profesores, ese símbolo pertenecería a los lingotes de oro que formaban parte de la dote de la princesa Jariba de la India. Más o menos podrán explicar la historia, pero desconocen la parte del visir. Se considera que los efectos de la toxina son parte de la maldición.</p>
+<p>En <strong>Scotland Yard</strong> pueden tratar de buscar casos parecidos en los archivos. Pasando un día entero en los sótanos con los archiveros pueden encontrar dos casos parecidos, alguien mata a alguien en un ataque de pura rabia y había un lingote con un dibujo de una rosa. Será igual de útil, mirar en los archivos de algún periódico de tirada nacional.</p>
+<h4>Los clientes de Stonewall</h4>
+<p>Puede haber varios métodos, pero quizás el más eficaz es puro trabajo de archivo. Sería cotejar las esquelas de gente rica muerta recientemente y la documentación que tenía Stonewall en sus archivos. Si ha muerto y tiene archivos, sus herederos pudiera que le visitarán el día de su muerte.</p>
+<p>La dificultad es Enorme (+4) y cada mediodía baja un grado. Si lo superan, encuentran unos 5 posibles clientes, entre los que está la familia Collidge. Si llegan a cero no encontrarán nada. Recuerda la regla de dormir, si solo busca una de las personalidades.</p>
+<div class="saltopagina odd" id="anchor59"></div>
+<h3>El gran robo del lingote</h3>
+<p>Tarde o temprano se darán cuenta de que solo pueden saber qué ha pasado si investigan el lingote directamente. Puede ir al despacho de Newcomen a pedirle permiso, pero a no ser que se rebajen mucho, verán como vuelve a guardar el lingote en un cajón con llave de la mesa de su despacho.</p>
+<p>Si Newcomen les niega todo acceso a una prueba del caso, solo tienen una opción, colarse en el despacho de Newcomen y robarle el lingote.</p>
+<p>El despacho de Newcomen está cerrado con llave y las únicas posibles entradas son por una ventana del tercer piso que da a la calle principal y la puerta de su despacho que cierra con llave (tirada Buena +2) cuando no está.</p>
+<p>El resto de la planta está llena de policías de calle y detectives que van y vienen de sus mesas llevando y trayendo detenidos. Otro de los detectives jefe como Newcomen tiene una copia del despacho de Newcomen por si necesitan abrir su despacho.</p>
+<p>Sea como sea, llegar al despacho y forzar la cerradura sin ser visto es casi imposible, siempre hay polis en las inmediaciones. Las opciones más sencillas serían:</p>
+<ul>
+<li>Disfrazarse de personal de limpieza y pedir entrar en el despacho de Newcomen. También pueden intentar hacerse por albañiles o carpinteros que vienen a hacer alguna obra en su despacho.</li>
+<li>Hacerse pasar por mensajeros que traen un paquete más o menos grande. Cuanto más grande, más posibilidades de que les abran el despacho de Newcomen para meterlo dentro.</li>
+<li>Si consiguen una distracción en la planta, podrían abrir las cerraduras y llevarse el lingote. Pero deberán ser muy rápidos y acabar antes de que se acabe la distracción.</li>
+</ul>
+<div class="saltopagina even" id="anchor60"></div>
+<p><a href="https://itoldya420.getarchive.net/amp/media/north-staffordshire-regt-field-officer-5f349a" title="Field officer of the Prince of Wales’s (North Staffordshire Regiment), 1914."><img src="./assests/images/north-staffordshire-regt-field-officer-5f349a-1024.jpg" alt="Field officer of the Prince of Wales’s (North Staffordshire Regiment), 1914." title="Field officer of the Prince of Wales’s (North Staffordshire Regiment), 1914." /></a></p>
+<div class="saltopagina odd" id="anchor61"></div>
+<p>Sea el plan que sea, debes saber que la cerradura de la puerta de su despacho es Buena (+2) y la del cajón es Normal (+1). Los policías que ululan por la comisaría son Normales (+1) detectando mentiras y delitos.</p>
+<h4>Analizando el lingote</h4>
+<p>Para empezar el peso de los lingotes es muy exacto y este pesa unos gramos de más. Así que puede tener algo extra que a simple vista no se ve. Si consultan a un joyero o leen libros sobre el tema, la cera que se nota sobre la barra de oro no es algo normal. Tras analizarla (Bueno +2) está claro que es alguna sustancia o veneno que afecta al cerebro cuando se absorbe por la piel y parece que crear una ira inhumana en su víctima. Puede que les interese quedarse alguna muestra de la cera para futuros experimentos.</p>
+<h4>Devolver el lingote</h4>
+<p>En este momento deberán decidir si devuelven el lingote sin que Newcomen se dé cuenta, se lo devuelvan y le dejen en ridículo mostrando que lo había perdido, devolverlo de forma anónima de forma que pueda evitar que se sepa que lo ha perdido o directamente quedárselo. No trates de buscarles consecuencias legales, esta parte debería servir para marcar o reafirmar su relación con Newcomen.</p>
+<h3>Y si Hyde o Jekyll tocan el lingote</h3>
+<p>Si se diera ese caso, Hyde no sufriría ningún cambio especial. Hyde ya era la ira irracional y asesina y ha aprendido a controlarla, con lo que no notará nada especial.</p>
+<p>Al contrario que Hyde, Jekyll, al tocar el lingote, sentirá la ira y Hyde saldrá automáticamente aunque Jekyll no quiera.</p>
+<div class="saltopagina even" id="anchor62"></div>
+<p>Si Hyde quiere pasar a Jekyll tras haber tocado el lingote en la misma escena, le será imposible. Controla la ira, pero no puedes deshacerse de ella y traer a Jekyll.</p>
+<p>Cualquier otra persona que toque con las manos desnudas un lingote de la dote obtendrá la consecuencia leve «irá homicida» directamente y actuarán como un perro rabioso en un estadillo de furia asesina.</p>
+<p>Si se preguntan porque Stonewall no se vio afectado, es sencillo de responder. Según su Gabriel Utterson, era muy escrupuloso con a limpieza y temía a la suciedad y las enfermedades y siempre tenía puestos los guantes.</p>
+<h3>La intersección</h3>
+<p>Ahora que saben casi todo del lingote y tienen un número reducido de sospechosos, deben buscar algo que los una el lingote con el sospechoso. Pueden llegar a dar con la familia Collidge de varias formas.</p>
+<p>Normalmente, <strong>los ingleses van a la India por negocios o como parte del ejército</strong>, si preguntan en la cámara de comercio, no parece que ninguno de los sospechosos tuviera negocios en India, pero como algunos son militares, pueden consultar los archivos del ejército. Pueden descubrir con buen trabajo de investigación que un Collidge recientemente muerto sirvió en la India en las fechas adecuadas y fue licenciado con deshonor. No tiene permiso al expediente del suceso, pero igual algo de dinero lo permite. Así podrán saber que fue por una pelea con un compañero al que casi mata.</p>
+<p>Pueden ir a la <strong>biblioteca o la hemeroteca, y encontrarán en el Times de Bombay</strong> que el tío de Maximilian sirvió en la India en la época del robo de la dote. Fue expulsado por agredir brutalmente a un camarada durante una partida de cartas en la que se jugaban grandes sumas de dinero. El problema es que es mucho más material a buscar que en los métodos anteriores.</p>
+<div class="saltopagina odd" id="anchor63"></div>
+<p>Tras todas estas investigaciones, el resto de sospechosos no tendrán ninguna relación con los lingotes o tendrán relaciones con el oro de la dote mucho menos fuertes. </p>
+<p>También pueden ir poco a poco interrogando a los sospechosos, bien directamente como detectives o haciéndose pasar por periodistas que quieren escribir por el recientemente finado. Tarde o temprano pasarán por casa de los Collidge y verán que algo raro pasa.</p>
+<h3>La mansión de la familia Collidge</h3>
+<p>Cuando lleguen Hyde o Jekyll a la mansión Collidge, estará totalmente en silencio y sin ningún tipo de iluminación, si llegan de noche. Tus jugadores no lo saben, pero Maximilian está dentro escondido esperando a que llegue alguien para descargar toda la ira sobre él. Lleva tanto tiempo en contacto con el lingote que ya está totalmente desquiciado, una niebla roja cubre su cerebro y solo piensa en matar y destruir al que se atreva a entrar en su casa. </p>
+<p>La mansión, como la familia Collidge, está en plena decadencia. No se cae a cachos, pero se nota su falta de mantenimiento, por ejemplo, los jardines de la mansión están descuidados y asalvajados o los cristales están sucios y alguno roto.</p>
+<p>La mansión Collidge es la típica mansión victoriana de planta rectangular con dos pisos, Habitaciones en la planta superior y comedor, biblioteca, sala de estar, cocinas y estancias de la servidumbre en la inferior. Tiene unas caballerizas en un edificio adyacente, pero están vacías.</p>
+<h4>Maximilian Collidge</h4>
+<p>Collidge lleva consigo los dos lingotes de oro que se llevó de la notaría y los blande como armas. Ese despliegue de armamento junto con el batín de seda y las zapatillas de felpa que lleva puesto le hacen quedar totalmente ridículo.</p>
+<div class="saltopagina even" id="anchor64"></div>
+<p>Si no fuera por la rabia homicida de sus ojos, sería una escena bastante risible.</p>
+<p>El contacto continuo con los lingotes ha agravado la consecuencia «Ira homicida». Maximilian es casi imposible recuperarlo. Si sale vivo del enfrentamiento, pasará el resto de sus días en una institución mental con una camisa de fuerza en una celda acolchada.</p>
+<p>Tus jugadores pueden pensar que si consiguen que Collidge suelte los lingotes se tranquilizara, pero no vale de nada. Aunque será divertido verles intentarlo.</p>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Veterano oficial de caballería</li>
+<li><strong>Complicación:</strong> Estrés postraumático </li>
+<li>Diestro combatiente</li>
+<li>La caballería inglesa lucha hasta el final</li>
+<li>Noble de rancio abolengo</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Mediocre (+0), Llamativo Bueno (+2), Rápido Grande (+3), Vigoroso Enorme (+4)</li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>La carga de la caballería ligera:</strong> Debido a su experiencia como combatiente, gana un +2 para Atacar en modo Vigoroso cuando carga contra un enemigo.</li>
+<li><strong>Nobleza:</strong> Debido a que pertenece a familia noble de tiempos de los sajones y normandos, gana un +2 para Crear una ventaja de modo Llamativo cuando discute con gente de menor rango social.</li>
+<li><strong>Buen jinete:</strong> Debido a que es un jinete excepcional, recibo un +2 para Crear una ventaja de modo Rápido cuando se mueve a caballo.</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6 «Ira homicida»</li>
+</ul>
+<div class="saltopagina odd" id="anchor65"></div>
+<h3>Unas semanas más tarde</h3>
+<p>Unas semanas más tarde, se hará público un robo en el almacén de Scotland Yard. Entre las cosas robadas está unos lingotes de oro guardados allí como pruebas de un caso de asesinato. Si quieren investigarlo, no llegarán a ninguna parte, pero les quedará claro que el objetivo eran los lingotes y el resto de robos son una tapadera. </p>
+<div class="saltopagina even" id="anchor66"></div>
+<h2>¿Cómo puedes continuar?</h2>
+<p>Estas tres aventuras son independientes, pero si las has leído todas acaban unas semanas más tarde con la desaparición de algunas cosas como las palas del zapador, el lingote envenenado o el estudio sobre el habla animal que alguien anónimo pidió.</p>
+<p>La idea es que puedas usar estos 3 ganchos para otras aventuras independientes, por ejemplo alguien ahora puede hacer robos imposibles porque puede convencer a los animales que acaten sus órdenes. Quizás haya un nuevo opio superadictivo en las calles que lleva a una terrible violencia a su consumidor. Los tres casos dan esas y más opciones.</p>
+<p>Estás semillas puede que caigan todas en una única aventura en la que algún tipo de villano a lo Profesor Moriarty que tiene un malvado plan delictivo en el que intervienen esos tres objetos.</p>
+<p>Por último, creo que es fácil adaptar aventuras de misterio a Fate y a las peculiaridades de este suplemento y seguir las aventuras de Jekyll y Hyde.</p>
+<p>Y por qué no enfrentarlos a Cultos de adoradores de los primigenios o que viajen en el tiempo con su colega H. G. Wells.</p>
+<p><strong>Las posibilidades son infinitas.</strong></p>
+<div class="saltopagina odd" id="anchor67"></div>
+<p><a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/118/mode/2up" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley"><img src="./assests/images/strangecaseofdr00stevuoft_0147.png" alt="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" /></a></p>
+<div class="saltopagina even" id="anchor68"></div>
+</section>
+<section>
+<h1>Doctor Jekyll y Mister Hyde<span></span></h1>
+<p>Si quieres ponerte a jugar rápidamente, aquí tienes las hojas de personaje del Doctor Jekyll y Mister Hyde. Tus jugadores solo tendrán que rellenar cuando quieran un aspecto y una proeza que se han dejado vacías a propósito para permitir un poco de personalización.</p>
+<p>Tus jugadores también pueden crearse su propio personaje siguiendo las reglas de <i>Fate</i> y teniendo en cuenta la idea universal que tenemos de estos personajes.</p>
+<h2>Doctor Henry Jekyll</h2>
+<p>El Doctor Henry Jekyll es la parte controlada y sensata de la agencia, cauto e ingenioso cuando es necesario y prefiriendo siempre actuar furtivamente, sin llamar la atención.</p>
+<p>Jekyll es un hombre de ciencia y como tal, su modo de investigación es puro método científico, ensayo y error y pruebas y más pruebas.</p>
+<p>Descubre más cosas en su laboratorio que pateando las calles, aunque las interacciones con Hyde han hecho que esté estirado doctor inglés sea capaz de moverse en los bajos fondos con cierta soltura y que entre buenos modales y palabras aduladoras sea capaz de meter amenazas veladas.</p>
+<p>Como doctor, los años en la medicina les han conseguido un buen nivel de vida y el riñón bien cubierto, así que puede acceder sin problema a dinero en efectivo y a créditos si fuera necesario.</p>
+<p>Realmente el trabajo de la agencia no lo necesita y muchas veces devuelve el dinero a los clientes sin que lo sepa Hyde.</p>
+<div class="saltopagina odd" id="anchor69"></div>
+<p>El principal problema en la vida de Jekyll es Hyde y sus desmanes. Hyde ya no es el ser ultraviolento y salvaje de sus primeras apariciones, pero sigue metiéndose en todo tipo de problemas que luego tiene que arreglar Jekyll.</p>
+<p>Los remordimientos que no tiene Hyde los sufre Jekyll a la noche siguiente, además de moratones, manchas de sangre en el traje y terribles resacas. No le gusta reconocerlo, pero el trabajo detectivesco ha mejorado mucho su carácter agresivo y bestial.</p>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Respetado doctor londinense </li>
+<li><strong>Complicación:</strong> «Alter ego»</li>
+<li>Muy buenos modales</li>
+<li>Acomodado</li>
+<li>.......................................................................................................... ..........................................................................................................</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Grande (+3), Furtivo Bueno (+2), Ingenioso Bueno (+2), Llamativo Normal (+1), Rápido Normal (+1), Vigoroso Mediocre (+0)</li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Genio científico:</strong> Debido a que es un brillante científico, gana un +2 para Superar de modo Cauto cualquier problema que carácter forense y detectivesco como investigar pisadas, estudiar manchas de sangre u otras sustancias, hacer autopsias o buscar venenos.</li>
+<li><strong>Médico avezado:</strong> Debido a que es un experimentado médico, una vez por partida puedo remendar a una persona o a sí mismo y quitarle una consecuencia física tipo heridas, fracturas, enfermedades, etc. sin importar su gravedad.</li>
+<li>.......................................................................................................... ..........................................................................................................</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<div class="saltopagina even" id="anchor70"></div>
+<h2>Mister Edward Hyde</h2>
+<p>Definir a Hyde es difícil, ya que nació como una escisión mental del Doctor Jekyll debido al consumo de una fórmula magistral que recogió toda su parte bestial, violenta, amoral e instintiva. No tiene recuerdos del pasado, no tiene familia, no tiene mejores amigos. De hecho, es difícil decir cuántos años tiene o cuándo será su cumpleaños.</p>
+<p>Vive en la agencia, ya que, según él, odia el olor de la casa de Jekyll. De todas formas tampoco estaría mucho, porque si no está investigando, está en garitos de mala muerte del East End, bebiendo, perdiendo dinero y metiéndose en peleas.</p>
+<p>Edward es puro instinto animal. Los olores, los gestos, las miradas son más importantes para él que todo el buen trabajo policía. Como buen sabueso rabioso cuando capta un rastro no lo pierde y hace lo que sea, literalmente lo que sea, para seguirla hasta descubrir al culpable. Con el tiempo y la interacción con Jekyll ha aprendido a que las pistas que seguir pueden empezar en el fondo de una probeta de laboratorio.</p>
+<p>Otra de las características del estilo detectivesco de Hyde es que es un hombre de acción y muchas veces se lanza sin pensar contra los obstáculos. Hace planes en segundos y los lleva a cabo sin pensar en las consecuencias. Si funcionan genial y si fallan pasa al siguiente plan. Lo importante es no parar de moverse.</p>
+<p>Hyde sufre de un profundo complejo de inferioridad, debido a que se considera solo una parte de Jekyll. Este complejo dicta gran parte de su vida, ya que trata todo el tiempo de autorreafirmarse con sus actos. Por ejemplo, Hyde necesita llamar la atención todo el tiempo porque piensa que si no le miran podría desaparecer para siempre en la mente Jekyll. </p>
+<div class="saltopagina odd" id="anchor71"></div>
+<p>El complejo también le lleva a ser muy competitivo y no soporta que Jekyll avance más que él en las investigaciones. Que Jekyll descubra pistas importantes puede hacer que Hyde se desquicie y empiece a actuar más violentamente para conseguir más pistas.</p>
+<ul>
+<li><strong>Aspectos</strong>
+<ul>
+<li><strong>Concepto principal:</strong> Criatura horrible, violenta y sin remordimiento</li>
+<li><strong>Complicación:</strong> Complejo de inferioridad</li>
+<li>Hombre de acción</li>
+<li>Juerguista</li>
+<li>.......................................................................................................... ..........................................................................................................</li>
+</ul></li>
+<li><strong>Estilos:</strong> Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Normal (+1), Llamativo Bueno (+2), Rápido Bueno (+2), Vigoroso Grande (+3) </li>
+<li><strong>Proezas</strong>
+<ul>
+<li><strong>Furia animal:</strong> Debido a que puede recurrir a su bestia interior, gana un +2 para Atacar de modo Vigoroso cuando entra en un combate cuerpo a cuerpo.</li>
+<li><strong>Mirada animal:</strong> Debido a que puede mostrar su terrible bestia interior a través de sus ojos, gana un +2 para Atacar de modo Llamativo cuando trata de intimidar y amedrentar a otras personas y animales.</li>
+<li>.......................................................................................................... ..........................................................................................................</li>
+</ul></li>
+<li><strong>Capacidad de recuperación:</strong> 3</li>
+<li><strong>Estrés:</strong> 1 | 2 | 3</li>
+<li><strong>Consecuencias:</strong> Leve 2 | Moderado 4 | Grave 6</li>
+</ul>
+<div class="saltopagina even" id="anchor72"></div>
+<p><a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/178/mode/2up" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley"><img src="./assests/images/strangecaseofdr00stevuoft_0215.png" alt="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" title="The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley" /></a></p>
+<div class="saltopagina odd" id="anchor73"></div>
+</section>
+<section>
+<h1>Unas palabras del autor<span></span></h1>
+<p>Seguramente nadie llegue a leer este apartado, pero aquí os dejo información, ideas y consejos sobre este suplemento que os podrán ser de ayuda.</p>
+<h2>Tono de las aventuras</h2>
+<p>El tono de este suplemento, a pesar de estar ambientado en época victoriana, es algo más moderno. Es principalmente <i>pulp</i> o esa ha sido mi intención.</p>
+<p>La acción debería estar siempre presente, con unos comienzos muy serios de investigación y trabajo detectivesco, para que rápidamente todo se torne en un torbellino de persecuciones, trampas y peleas para poder atrapar al villano.</p>
+<p>No debemos olvidar que Hyde es un hombre de acción que habla más con sus actos (por no decir puños) que con sus palabras. Y Hyde no dejará a su vez de meter en problemas a su contrapartida Jekyll.</p>
+<p>Los protagonistas vivirán exóticas aventuras con misterios procedentes de todo el mundo. No viajarán ellos a localizaciones lejanas y misteriosas, sino que esas localizaciones vendrán a Londres en barco desde todas las colonias de Inglaterra. Piensa que hacia 1890 Inglaterra controla India, Australia y Nueva Zelanda, una extensa franja de tierra en África, desde Egipto a Sudáfrica e islas en la Polinesia y en el Caribe, sin olvidarnos lo que puedan traer los exploradores polares.</p>
+<p>Por último, ya hemos hablado de las opciones de meter ciencia extraña y magia oscura sutilmente en las aventuras. Estos también son elementos recurrentes en las ficciones <i>pulp</i> que puedes y deberías explotar.</p>
+<div class="saltopagina even" id="anchor74"></div>
+<h2>Define los velos y herramientas de seguridad</h2>
+<blockquote>
+<p>Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
+Por <a href="https://twitter.com/FaustoRolero">FaustoRolero</a></p>
+</blockquote>
+<p>Aquí tienes algunas otras herramientas de seguridad que puedes usar: <a href="https://devir.es/herramientas-seguridad-rol">DEVIR</a> y <a href="https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/">NetCon</a></p>
+<h2>Gender flip</h2>
+<p>En este suplemento he sido muy clásico a la hora de determinar el género y la sexualidad de los protagonistas, pero tus jugadores son libres de dejar libre su imaginación y jugar con versiones femeninas, trans, no binarias de estos personajes clásicos.</p>
+<p>Doctore Jekyll y Miss Hyde es, por ejemplo, una versión perfectamente jugable de este suplemento. Puede tener giros y retos muy divertidos e interesantes. Por ejemplo, el tema de solucionar los cambios de vestuario cuando cambian de personalidad de masculina a femenina en plena y retrógrada época victoriana.</p>
+<div class="saltopagina odd" id="anchor75"></div>
+<h2>Modo un solo jugador</h2>
+<p>Este suplemento no fue pensado para jugar únicamente 1 máster y 1 jugador, porque la gracia está en el control de la información y como transmitirla de un PJ a otro y, por tanto, de un jugador a otro.</p>
+<p>Pero está claro que la opción de un solo jugador es viable siempre que esté sepa suplir en su interpretación esa falta de información que puede darse entre Jekyll y Hyde al investigar casos.</p>
+<h2>Conflictos entre jugadores</h2>
+<p>La propia esencia de este suplemento puede llevar a conflictos entre jugadores por la propia naturaleza de las historias. Puede ser desesperante ser Jekyll y en vez de investigar un caso tengas que arreglar los problemas que cree Hyde durante su sesión y decidas fastidiarle y dejarle una sorpresita para cuando despierte. A partir de ahí puede empezar una guerra de jugarretas que seguramente no acabará bien. </p>
+<p>Como director debes vigilar esto y cortarlo. Puede ser divertido hacerse pequeñas bromas para fastidiar a tu «alter ego» que se resuelven interpretando unos minutos, pero si escala a fastidiarse todo el rato la partida acabará mal.</p>
+<h2>Especialización de los personajes</h2>
+<p>Otro de los problemas que puedes encontrarte al dirigir este suplemento es la especialización de los personajes. Está claro que Jekyll es el cerebro y Hyde los puños, pero parte de la gracia de las partidas está en que ambos salgan de su zona confort y hagan cosas que no se les dan bien.</p>
+<div class="saltopagina even" id="anchor76"></div>
+<p>Si cada vez que hay que analizar pruebas, sale Jekyll y cuando hay una pelea, sale Hyde, cada jugador se estará quitando una parte de la diversión de la aventura y hará que sea muy monótona. </p>
+<p>Además, la especialización puede hacer que los cambios de personalidad sean muy rápidos con el trastorno que eso supone para el curso de la partida.</p>
+<p>Un truco que puede funcionarte es meter límites de tiempo en determinadas escenas que no les permitan hacer el cambio de personaje.</p>
+<p>Puede que Jekyll prefiera que Hyde salga corriendo y persiga a un sospechoso entre la multitud, pero deberá perseguirle él mismo. Si invoca a Hyde, este se encontrará en una calle llena de gente sin saber que tiene que hacer y mientras el delincuente huye.</p>
+<p>Tampoco les dejes que a la hora de usar sus hitos se especialicen mucho en lo que son buenos y abandonen las habilidades que se les dan mal.</p>
+<p>Qué Jekyll reciba un par de buenas palizas en un oscuro callejón porque no es buen luchador y no quiere llamar a su otro yo, le hará replantearse sus próximos hitos.</p>
+<p>Quizás Hyde, inmovilizado por una pierna rota y aburrido hasta la muerte, decida coger y leerse un manual científico de Jekyll y con ello ponerse el aspecto científico amateur.</p>
+<h2>Participar en el proyecto</h2>
+<p>Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este <a href="https://github.com/gwannon/ideasRoleras/tree/main/DoctorJekyllyMisterHydeInvestigadoresPrivados">proyecto</a>. Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales <a href="https://linktr.ee/gwannon">@Gwannon</a> y hablamos.</p>
+<div class="saltopagina odd" id="anchor77"></div>
+<p>Si juegas con este suplemento y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. </p>
+<h2>Atribuciones</h2>
+<p>No soy propietario de ninguna de las imágenes de este documento. Estoy usando imágenes con licencia CC y atribuyéndola a su propietario o de dominio público. Si hay algún error en la atribución, hacédmelo saber para corregirlo.</p>
+<ul>
+<li>Hojas interiores por <a href="https://www.freepik.com/free-photo/old-paper-texture-background_1273381.htm">aopsan</a></li>
+<li>Textura de portada y contraportada de <a href="https://archive.org/details/lostworldbeingac00doylrich/page/n343/mode/1up">archive.org</a></li>
+<li>Lupa portada por <a href="https://www.freepik.com/free-vector/magnifying-glasses-outline-style_255854102.htm">juicy_fish</a></li>
+<li>Registro de préstamos de libro por <a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/n219/mode/2up">archive.org</a></li>
+<li>Sello de la biblioteca por <a href="https://archive.org/details/lostworldbeingac00doylrich/page/n3/mode/1up">archive.org</a></li>
+<li>Grabados interiores por <a href="https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/mode/2up">Charles Raymond Macauley</a></li>
+<li>Natural History in Anecdote - ALFRED H. MILES <a href="https://www.gutenberg.org/files/37959/37959-h/37959-h.htm">Project Guttenberg</a></li>
+<li>Grabado de una pala por <a href="https://www.freepik.com/free-vector/garden-set_2824792.htm">rawpixel.com</a></li>
+<li>Portrait of Queen Victoria, 1897, by <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Queen_Victoria,_by_Forestier">Forestier</a></li>
+<li>Field officer of the Prince of Wales’s (North Staffordshire Regiment), 1914. <a href="https://itoldya420.getarchive.net/amp/media/north-staffordshire-regt-field-officer-5f349a">Anne S. K. Brown Military Collection</a></li>
+<li>Exlibris de Pergeñado con Inteligencia humana por <a href="https://bsky.app/profile/angelgropero.bsky.social">Ángel G. Ropero</a></li>
+<li>Print made by <a href="https://collections.britishart.yale.edu/catalog/tms:41069">John Cleghorn</a>, active 1840–1881, British, Plan of the Regent’s Park, 1827, Etching on moderately thick, slightly textured, beige laid paper, Yale Center for British Art, Paul Mellon Collection, B1977.14.14808.</li>
+</ul>
+<h2>Agradecimientos</h2>
+<ul>
+<li>A <a href="https://bsky.app/profile/lapizhb.bsky.social">Un Lápiz HB</a> por sus aportaciones que llevaron a hacer la regla de disparadores de transformación.</li>
+</ul>
+<div class="saltopagina even" id="anchor78"></div>
+<h2>Otros proyectos que te pueden interesar</h2>
+<p>Si os ha gustado este suplemento podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.</p>
+<p><a href="https://cazavampiros.gwannon.com/pdf/"><strong>Guía de Cazavampiros para niñas molonas</strong></a> </p>
+<p>El juego de rol para Fate Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.</p>
+<div class="saltopagina odd" id="anchor79"></div>
+</section>
+<section>
+<p><img src="./assests/images/lostworldbeingac00doylrich_0004.png" alt="Sello de la biblioteca" /></p>
+<div class="saltopagina even" id="anchor80"></div>
+</section>
+<section>
+<p>«Doctor Jekyll y Mister Hyde: Investigadores privados» es un suplemento para <i>Fate Acelerado</i> para jugar 1 director de juego y 2 jugadores, pero no al mismo tiempo, ya que interpretarán al Doctor Jekyll y Mister Hyde mientras resuelven crímenes en un Londres Victoriano.</p>
+<p>Contiene reglas para jugar con el Doctor Jekyll y Mister Hyde y su extraña relación. Solo necesitas <i>Fate Acelerado</i> para jugar con este suplemento. Incluye también 3 casos listos para jugarse.</p>
+<ul>
+<li>El extraño caso de la tigresa desaparecida del Zoo</li>
+<li>El extraño caso de las palas del zapador</li>
+<li>El extraño caso del lingote de oro con la rosa impresa</li>
+</ul>
+<p>Creado por <a href="https://linktr.ee/gwannon">Gwannon</a></p>
+    </section>
+  </body>
+  <link rel="stylesheet" href="./assests/css/style.css?ver=1.0.1&hash=2025012923">
+  <link rel="stylesheet" href="./assests/css/pdf.css?ver=1.0.1&hash=2025012923">
+  <script>
+    //WordCount
+    var cont = document.documentElement.innerHTML;
+    cont = cont.replace(/<[^>]*>/g," ");
+    cont = cont.replace(/\s+/g, ' ');
+    cont = cont.trim();
+    var n = cont.split(" ").length;
+    let words = document.querySelector('section:nth-of-type(3) p:nth-of-type(4) span');
+    words.innerHTML = n+" palabras";
+    //PageCount
+    let pages = document.querySelector('section:nth-of-type(3) p:nth-of-type(3) span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 3)+" páginas";
+  </script>
+</html>

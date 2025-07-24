@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0089ff">
+    <meta name="google-site-verification" content="XjYYpisg3ePb5JXgkfy7ACv6FoYjnIJxPnJTZ6ZKsDc">
+    <title>|TITLE|</title>
+    <meta name="description" content="|DESCRIPTION| Versión |VERSION|">
+    <meta property="og:title" content="|TITLE|">
+    <meta property="og:description" content="|DESCRIPTION| Versión |VERSION|">
+    <link href="https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Smythe&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <section>
+      <h1 class="noindex">|TITLE|</h1 >
+      <h2 class="noindex">|SHORTDESCRIPTION|</h2>
+      <img src="./assests/images/Powered-by-Fate.png" alt="">
+      <img src="./assests/images/lupa.png" alt="">
+    </section>
+    <section>
+      <img src="./assests/images/strangecaseofdr00stevuoft_0239.png" alt="">
+      <img src="./assests/images/pergenado.png" alt="">
+    </section>
+    <section>
+      <p><b>Primera edición:</b> |LANZAMIENTO|</p>
+      <p><b>Versión:</b> |VERSION|</p>
+      <p><b>Páginas:</b> <span></span></p>
+      <p><b>Palabras:</b> <span></span></p>
+      <div class="saltopagina"></div>
+      <h2 class="noindex">Licencia de uso</h2>
+      <p style="word-break: break-word;">La presente obra se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0) (<a href="https://creativecommons.org/licenses/by/4.0/deed.es">https://creativecommons.org/licenses/by/4.0/deed.es</a>). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:</p>
+      <blockquote style="word-break: break-word;"><p>Este trabajo está basado en la ambientación para FATE |TITLE| creada por Jorge Monclús Fernández (|AUTHOR|) y está disponible de forma gratuita en <a href="|URL|">|URL|</a> y el código original puede obtenerse en <a href="|GITHUB|">|GITHUB|</a>. Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en <a href="https://creativecommons.org/licenses/by/4.0/legalcode.es">https://creativecommons.org/licenses/by/4.0/legalcode.es</a>.
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+          <img alt="Licencia de Creative Commons" style="border-width:0; display: block; margin: 15px auto 0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png">
+        </a>
+      </p></blockquote>
+      <p>This work is based on Fate Core System and Fate Accelerated Edition (found at <a href="https://www.faterpg.com/">https://www.faterpg.com/</a>), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license(<a href="https://creativecommons.org/licenses/by/3.0/">https://creativecommons.org/licenses/by/3.0/</a>).</p>
+      <p>Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.</p>
+      <div class="saltopagina"></div>
+    </section>
+    <section>
+      <div>|INDICE|</div>
+      <div class="saltopagina"></div>
+    </section>
+    <section>
+      |HTML|
+    </section>
+  </body>
+  <link rel="stylesheet" href="./assests/css/style.css?ver=|VERSION|&hash=|HASH|">
+  <link rel="stylesheet" href="./assests/css/pdf.css?ver=|VERSION|&hash=|HASH|">
+  <script>
+    //WordCount
+    var cont = document.documentElement.innerHTML;
+    cont = cont.replace(/<[^>]*>/g," ");
+    cont = cont.replace(/\s+/g, ' ');
+    cont = cont.trim();
+    var n = cont.split(" ").length;
+    let words = document.querySelector('section:nth-of-type(3) p:nth-of-type(4) span');
+    words.innerHTML = n+" palabras";
+    //PageCount
+    let pages = document.querySelector('section:nth-of-type(3) p:nth-of-type(3) span');
+    pages.innerHTML = (document.querySelectorAll('.saltopagina').length + 3)+" páginas";
+  </script>
+</html>

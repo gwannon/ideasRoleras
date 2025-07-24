@@ -1,0 +1,749 @@
+:root {
+  --color-bic: #5980d4;
+  --color-bic-red: red;
+  --color-white: #fff;
+  --color-black: #000;
+  --padding: 65px;
+}
+
+*, html {
+  scroll-behavior: smooth !important;
+}
+
+body {
+  background-color: var(--color-black); 
+  font-family: "Delicious Handrawn", serif;
+  font-size: 20px;
+  background: #fff url(../images/bg.jpg) repeat-y top center;
+  background-size: contain;
+  margin: 0 auto;
+  padding: 0;
+  max-width: 800px;
+}
+
+p, li {
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-bic);
+  line-height: 120%;
+}
+
+a, a:visited {
+  color: var(--color-bic);
+}
+
+p {
+  margin-top: 0px;
+}
+
+section {
+  padding-top: var(--padding);
+}
+
+section > * {
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  box-sizing: border-box;
+}
+
+h1 {
+  font-weight: 400;
+  position: relative;
+}
+
+h2, h3, h4 {
+  color: var(--color-bic-red);
+  font-weight: 400;
+  position: relative;
+  margin-bottom: 5px;
+  padding-bottom: 0px;
+}
+
+h2:not(section:first-of-type h2) {
+  margin-bottom: 10px;
+  font-size: 1.7em;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+.columns > h3:first-child,
+.columns > h2:first-child,
+.saltocolumna + h3,
+.saltocolumna + h4 {
+  margin-top: 0px;
+}
+
+/*h2:after {
+  position: absolute;
+  content: "----------------------------------------------------------------------------------------------";
+  display: inline-block;
+  top: 14px;
+  left: var(--padding);
+  width: calc(100% -(var(--padding)* 2));
+}*/
+
+blockquote {
+  background-color: var(--color-secondary);
+  border-radius: 10px;
+  padding: calc(var(--padding) / 2);
+  margin-bottom: 0px;
+}
+
+.columns blockquote {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 3px;
+}
+
+h2 + blockquote,
+h3 + blockquote {
+  margin-top: 0px;
+  padding-top: 10px;
+}
+
+blockquote > p {
+  font-family: "Delicious Handrawn", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-bic);
+  font-size: 1.2em;
+  line-height: 120%;
+  margin: 0;
+  padding: 30px;
+  border: 2px solid var(--color-bic);
+  border-top: none;
+  border-radius: 30px;
+  border-bottom-right-radius: 20%;
+  border-top-left-radius: 14%;
+  position: relative;
+}
+
+blockquote > p:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -3px;
+  left: 22px;
+  width: 60%;
+  height: 60px;
+  border-top: 2px solid var(--color-bic);
+  border-top-left-radius: 33%;
+  border-top-right-radius: 40%;
+}
+
+.columns blockquote > p:before {
+  left: 12px;
+}
+
+blockquote > p:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -3px;
+  right: -1px;
+  width: 60%;
+  height: 60px;
+  border-top: 2px solid var(--color-bic);
+  border-top-left-radius: 45%;
+  border-top-right-radius: 30px;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+pre code {
+  color: var(--color-bic-red);
+  font-size: 1.2em;
+  font-family: "Delicious Handrawn", serif;
+  display: block;
+  padding: calc(var(--padding) / 2);
+  position: relative;
+}
+
+pre code:before,
+pre code:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 10%;
+  width: 100%;
+  background-color: var(--color-bic-red);
+  clip-path: polygon(0% 99%, 1% 100%, 2% 25%, 48% 18%, 61% 22%, 91% 21%, 99% 8%, 99% 100%, 100% 100%, 100% -1%, 7% 1%, 1% 0%, 1% 35%);
+}
+
+pre code:after {
+  top: auto;
+  bottom: 0px;
+  left: 0px;
+  clip-path: polygon(0% 0%, 1% 100%, 35% 99%, 53% 99%, 76% 99%, 91% 96%, 99% 99%, 98% 99%, 99% 9%, 96% 0%, 96% 74%, 39% 79%, 13% 77%, 2% 83%, 1% 18%);
+
+}
+
+section:not(section:first-of-type, section:last-of-type) > h1 {
+  width: 100%;
+  height: 100vh;
+  color: var(--color-bic-red);
+  margin-top: calc((var(--padding) * -1) - 1px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 3em;
+}
+
+section:not(section:first-of-type, section:last-of-type) > h1 > span {
+  content: "";
+  display: block;
+  clip-path: polygon(1% 48%, 100% 38%, 98% 47%, 16% 57%, 10% 62%);
+  width: 80%;
+  height: 56px;
+  background-color: var(--color-bic-red);
+  transform: rotate(-3deg);
+}
+
+strong, i {
+  font-weight: 400;
+  display: inline-block;
+  position: relative;
+  color: #05329d;
+}
+
+strong:before {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: -3px;
+  width: calc(100% + 6px);
+  background-color: #c3ff0063;
+  height: 1em;
+  transform: skew(-17deg, 0.5deg);
+}
+
+i:before {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: -3px;
+  width: calc(100% + 6px);
+  background-color: #ff004063;
+  height: 1em;
+  transform: skew(17deg, 1deg);
+}
+
+section ul {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+section > ul {
+  padding-left: var(--padding);
+  padding-right: var(--padding);
+  box-sizing: border-box;
+}
+
+p + ol {
+  margin-top: 0px;
+}
+
+section ul li ul {
+  padding-left: 0;
+  padding-right: 0;
+  box-sizing: border-box;
+}
+
+ul > li,
+ul > li > ul > li {
+  list-style-type: none;
+  margin-left:20px;
+  position: relative;
+  margin-top: 11px;
+}
+
+ul > li:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 12px;
+  height: 20px;
+  top: 3px;
+  left: -16px;
+  clip-path: polygon(9% 15%, 36% 46%, 7% 75%, 18% 82%, 44% 56%, 61% 68%, 69% 58%, 55% 46%, 84% 19%, 75% 10%, 43% 39%, 16% 10%);
+  background-color: var(--color-bic-red);
+}
+
+ul > li > ul > li:after {
+	height: 10px;
+	width: 10px;
+	top: 7px;
+	clip-path: polygon(
+		38% 11%,
+		25% 18%,
+		15% 31%,
+		12% 44%,
+		14% 60%,
+		18% 76%,
+		26% 86%,
+		40% 91%,
+		53% 93%,
+		69% 88%,
+		84% 82%,
+		92% 71%,
+		96% 62%,
+		97% 46%,
+		97% 33%,
+		94% 23%,
+		86% 17%,
+		73% 11%,
+		58% 8%,
+		55% 18%,
+		66% 22%,
+		79% 31%,
+		86% 44%,
+		85% 59%,
+		78% 72%,
+		64% 76%,
+		52% 80%,
+		38% 77%,
+		28% 69%,
+		24% 56%,
+		23% 43%,
+		26% 32%,
+		33% 27%,
+		43% 22%
+	);
+}
+
+ul > li:nth-child(even):after {
+	transform: scaleY(-1);
+}
+
+ul > li:nth-child(3n + 3):after {
+	transform: scaleX(-1);
+}
+
+section > ol > li,
+section > ol > li > ol > li {
+  margin-left:20px;
+  position: relative;
+  margin-top: 11px;
+}
+
+section div.saltopagina + ul > li:before {
+  display: none;
+}
+
+a:has(img) {
+  position: relative;
+  display: block;
+}
+
+/* Tablas */
+table {
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+div:has(table){
+  overflow-x: auto;
+}
+table tr td,
+table tr th {
+  padding: 10px;
+  border: none;
+  color: var(--color-bic-red);
+}
+
+table tr td {
+  color: var(--color-bic);
+}
+
+table tbody tr {
+  position: relative;
+}
+
+table tbody tr:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 21px;
+  border-top: 2px solid var(--color-bic);
+  border-radius: 50%;
+}
+
+table tbody tr:nth-of-type(even):after {
+  border-top: none;
+  border-bottom: 2px solid var(--color-bic);
+  border-radius: 35%;
+  border-bottom-left-radius: 0%;
+  top: -18px;
+}
+
+/* Portada */
+section:first-of-type {
+  /*background: #0089ff url(../images/espiral1.png) top left repeat-y;*/
+  /*background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) top left no-repeat;
+  background-size: 100% auto;
+  /*border-top-right-radius: 24px;
+  border-bottom-right-radius: 24px;*/
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+section:first-of-type:after,
+section:first-of-type:before {
+  content: "";
+  top: 0px;
+  left: 70px;
+  display: block;
+  position: absolute;
+  height: 100vh;
+  width: 5px;
+  background-color: var(--color-white);
+}
+
+section:first-of-type:before {
+  left: 85px;
+}
+
+section:first-of-type h1 {
+  font-size: 2em;
+  line-height: 110%;
+  color: white;
+  padding: 0 var(--padding) 0 var(--padding);
+  margin: 0 auto;
+  text-align: center;
+  max-width: 700px;
+}
+
+@media (min-width: 600px) {
+  section:first-of-type  h1 {
+    font-size: 3em;
+  }
+}
+
+section:first-of-type h2 {
+  font-size: 2em;
+  line-height: 110%;
+  color: white;
+  text-align: center;
+  font-family: "Delicious Handrawn", serif;
+}
+
+section:first-of-type p {
+  font-size: 1.5em;
+  line-height: 110%;
+  color:  var(--color-black);
+  max-width: 503px;
+  color: var(--color-bic);
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, .3), 0px -1px 0px rgba(0, 0, 0, .7);
+  max-width: 460px;
+  text-align: center;
+}
+
+section:first-of-type img:first-of-type {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  width: 150px;
+  padding: 0;
+  margin: 0;
+}
+
+section:first-of-type img:nth-of-type(2) {
+  position: absolute;
+  top: 20px;
+  right: 120px;
+  width: 250px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(15deg);
+  z-index: 10;
+}
+
+section:first-of-type img:nth-of-type(3) {
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  width: 280px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(-10deg);
+  z-index: 10;
+}
+
+section:first-of-type img:nth-of-type(4) {
+  position: absolute;
+  bottom: 20px;
+  left: 70px;
+  width: 280px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(-2deg);
+  z-index: 10;
+  border-radius: 20px;
+  box-shadow: 0px 0px 4px var(--color-black);
+}
+
+section:first-of-type img:nth-of-type(5) {
+  position: absolute;
+  bottom: 170px;
+  right: 70px;
+  width: 250px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(-20deg);
+  z-index: 10;
+}
+
+/* Indice */
+.likeH1,
+.likeH2,
+.likeH3 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 3px 0;
+  text-decoration: none;
+  font-size: 1.1em;
+  max-height: 24px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  
+}
+
+.likeH2 {
+  padding: 0 0 0 15px;
+}
+
+.likeH3 {
+  padding: 0 0 0 30px;
+}
+
+.likeH1 span, .likeH2 span, .likeH3 span {
+  display: none;
+  float: right;
+  margin-right: 5px;
+}
+
+/* Interiores */
+
+section:nth-of-type(2) {
+  height: 100vh;
+  /*background: #0089ff url(../images/espiral2.png) top right repeat-y;
+  background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) bottom left no-repeat;
+  background-size: 100% auto;
+  box-sizing: border-box;
+}
+
+section:nth-of-type(3) p:is(p:nth-child(1), p:nth-child(2), p:nth-child(3), p:nth-child(4)) {
+  font-size: 1.5em;
+}
+
+section:nth-of-type(10) {
+  height: 100vh;
+  /*background: #0089ff url(../images/espiral1.png) top left repeat-y;
+  background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) top left no-repeat;
+  background-size: 100% auto;
+  box-sizing: border-box;
+}
+
+/* Contraportada */
+section:last-of-type {
+  /*background: #0089ff url(../images/espiral2.png) top right repeat-y;
+  background-size: 33px auto;*/
+  background: #0089ff url(../images/cartulina.jpg) bottom left no-repeat;
+  background-size: 100% auto;
+  /*border-top-right-radius: 24px;
+  border-bottom-right-radius: 24px;*/
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+section:last-of-type * {
+  color: white;
+}
+
+section:last-of-type > p:first-of-type,
+section:last-of-type > p:last-of-type {
+  font-size: 2em;
+  margin: 0 0 20px 0;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+section:last-of-type img:nth-of-type(1) {
+  position: absolute;
+  top: 50px;
+  right: 120px;
+  width: 250px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(15deg);
+  z-index: 10;
+}
+
+section:last-of-type img:nth-of-type(2) {
+  position: absolute;
+  bottom: 50px;
+  left: 120px;
+  width: 250px;
+  padding: 0;
+  margin: 0;
+  transform: rotate(-4deg);
+  z-index: 10;
+  border-radius: 20px;
+  border: 10px solid pink;
+  box-shadow: 0px 0px 4px var(--color-black);
+
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 2;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: "Delicious Handrawn", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--color-bic);
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 2.5em;
+}
+
+.saltopagina.odd:after {
+  left: 10px;
+  right: auto;
+}
+
+/* Imagenes */
+
+section p img:not(section:first-of-type img, section:nth-of-type(3) img, section:last-of-type img) {
+  border: none;
+  box-shadow: -2px 15px 20px 0px #000;
+  rotate: -1deg;
+  max-width: 100%;
+  width: 100%;
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img):before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 16px;
+  right: 27px;
+  background: transparent url(../images/grapa.png) center center no-repeat;
+  background-size: contain;
+  width: 80px;
+  height: 32px;
+  z-index: 10;
+  rotate: 9deg;
+  filter: drop-shadow(0px 0px 4px #000);
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p:nth-of-type(3n) a:has(img):before {
+  transform: rotate(76deg);
+  top: 32px;
+  right: 15px;
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img):after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 16px;
+  left: 38px;
+  background: transparent url(../images/grapa.png) center center no-repeat;
+  background-size: contain;
+  width: 80px;
+  height: 32px;
+  z-index: 10;
+  rotate: -11deg;
+  filter: drop-shadow(0px 0px 4px #000);
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p:nth-of-type(3n) a:has(img):after {
+  display: none;
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) .columns p a:has(img):before,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) .columns p a:has(img):after {
+  width: 50px;
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Pegatina]) img {
+  border-radius: 20px;
+  border: 10px solid pink;
+  box-shadow: 0px 0px 4px var(--color-black);
+  box-sizing: border-box;
+  transform: rotate(2deg);
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Sticker]) img {
+  box-shadow: none;
+  transform: rotate(1deg);
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Pegatina]):before,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Pegatina]):after,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Sticker]):before,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Sticker]):after {
+  display: none;
+}
+
+section p a:has(img[alt^=Token]) img:not(section:first-of-type img, section:nth-of-type(3) img, section:last-of-type img) {
+  box-shadow: none;
+  rotate: 0deg;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Token]):before,
+section:not(section:first-of-type, section:nth-of-type(3), section:last-of-type) p a:has(img[alt^=Token]):after {
+  display: none;
+}
+

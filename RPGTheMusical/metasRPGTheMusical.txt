@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: RPG The musical
+
+InfoKey: Subject
+InfoValue: RPG The musical (RpgTM) is a one-sheet role-playing aid for playing musical scenes in your roleplaying sessions. Version 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, musical, one-page

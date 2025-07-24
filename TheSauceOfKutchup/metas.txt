@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: The Sauce of Kutchup
+
+InfoKey: Subject
+InfoValue: The Sauce of Kutchup (SoK) es un juego de rol para jugar partidas de horror cosmico-alimenticio mientras cocinas. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, cthulhu, one-page

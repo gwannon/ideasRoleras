@@ -1,0 +1,270 @@
+:root {
+  --padding: 62px; /*Ancho de los bordes de la página*/
+  --color-red: #8b0909;
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+body {
+  background: var(--color-white) url(./images/bg.jpg) repeat top center;
+  background-size: 100% auto;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Slab", serif;
+  color: var(--color-black);
+  font-size: 14px;
+}
+
+/*body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: transparent url(./images/border1.png) top left repeat-y
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: transparent url(./images/border2.png) top left repeat-y;
+}*/
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+/* Titulares */
+
+h1 {
+  background: var(--color-black) url(./images/titular.jpg) center bottom no-repeat;
+  background-size: cover;
+  font-family: "Orbitron", serif;
+  text-align: center;
+  height: 230px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+  color: var(--color-white);
+  padding: 0 50px;
+  text-shadow: 0px 0px 3px #000;
+  margin: 0px;
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 0.4em;
+  width: 100%;
+  color: var(--color-white);
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3,
+h4 {
+  font-family: "Orbitron", serif;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.8em;
+  text-align: center;
+  border-bottom: 1px solid var(--color-red);
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1m;
+}
+
+h2 + p, 
+h3 + p, 
+h4 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+pre {
+  white-space: pre-wrap;
+}
+
+blockquote {
+  margin: 0;
+}
+
+pre > code,
+blockquote > p {
+  display: block;
+  font-family: "Orbitron", serif;
+  background-color: var(--color-white);
+  font-size: 1em;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+p,
+ul,
+ol {
+  margin: 0.45em 0;
+}
+
+p i {
+  color: var(--color-red);
+  /*text-shadow: -1px 0px 1px #1bc7af;*/
+}
+
+a {
+  color: var(--color-black);
+}
+
+ul,
+ol {
+  padding-left: 19px;
+}
+
+ol li {
+  list-style-type: upper-roman;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: "\26E7";
+  position: absolute;
+  font-size: 22px;
+  top: -15px;
+  left: -23px;
+  display: block;
+  color: var(--color-red);
+} 
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: 2px dashed var(--color-black);
+  padding: 5px;
+  position: relative;
+
+}
+
+table thead tr th {
+  font-family: "Orbitron", serif;
+  text-align: left;
+  font-weight: 700;
+}
+
+table thead tr,
+table tbody tr:nth-child(even) {
+  background-color: var(--color-red);
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-red);
+    border-bottom:  3px dashed var(--color-red);
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: "Orbitron", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  color: var(--red-color);
+  position: absolute;
+  bottom: 11px;
+  right: -10px;
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+}
+
+.saltopagina.even:after {
+  right: auto;
+  left: -10px;
+}

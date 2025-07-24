@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: JdR El Musical
+
+InfoKey: Subject
+InfoValue: JdR El Musical (JdREM) es una ayuda rolera en una sola hoja para jugar escenas musicales en tus partidas. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, musical, one-page

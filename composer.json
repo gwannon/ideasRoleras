@@ -1,0 +1,11 @@
+{
+  "repositories": [
+      {
+          "type": "vcs",
+          "url": "git@github.com:fastvolt/markdown.git"
+      }
+  ],
+  "require": {
+      "fastvolt/markdown": "dev-master"
+  }
+}
