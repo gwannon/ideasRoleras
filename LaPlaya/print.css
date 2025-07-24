@@ -329,6 +329,7 @@ hr {
   font-family: 'Kablammo';
   font-size: 30px;
   text-decoration: none;
+  z-index: 100;
 }
 
 
