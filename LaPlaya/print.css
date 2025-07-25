@@ -332,6 +332,11 @@ hr {
   z-index: 100;
 }
 
+.pdf:nth-of-type(2) {
+  right: auto;
+  left: 0px;
+}
+
 
 @media print {
   @page {
