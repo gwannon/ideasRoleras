@@ -188,6 +188,25 @@ table strong {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
   }
+
+  .columns {
+    columns: 1;
+}
+}
+
+.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
 }
 
 @media print {
@@ -203,5 +222,9 @@ table strong {
     padding: 0;
     margin: 0;
     opacity: 1;
+  }
+
+  .pdf {
+    display: none;
   }
 }
