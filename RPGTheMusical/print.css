@@ -178,10 +178,33 @@ table strong {
   font-family: "Limelight", sans-serif;
 }
 
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Limelight", sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+a.pdf:nth-of-type(2) {
+  bottom: auto;
+  top: 0px;
+}
+
 @media screen {
   .saltopagina {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
+  }
+  .columns {
+      columns: 1;
   }
 }
 
@@ -189,6 +212,10 @@ table strong {
   @page {
     size: A4;
     margin: 0;
+  }
+
+    .pdf {
+    display: none;
   }
 
   .saltopagina {
@@ -200,3 +227,4 @@ table strong {
     opacity: 1;
   }
 }
+
