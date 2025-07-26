@@ -469,6 +469,10 @@ body {
   body:before {
     display: none;
   }
+
+  table.special {
+    display: none;
+  }
 }
 
 @media print {
