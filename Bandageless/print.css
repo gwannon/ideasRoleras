@@ -389,10 +389,41 @@ del:after {
   transform-origin: center;
 }*/
 
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+      font-family: 'Papyrus';
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+a.pdf:nth-of-type(2) {
+  bottom: auto;
+  top: 0px;
+}
+
 @media screen {
   .saltopagina {
-    border-top: 3px dashed var(--color-white);
-    border-bottom:  3px dashed var(--color-white);
+    display: none;
+  }
+
+  .saltocolumna {
+    display: none;
+  }
+
+  .columns {
+    columns: 1;
+  }
+
+  body:before {
+    display: none;
   }
 }
 
@@ -400,6 +431,10 @@ del:after {
   @page {
     size: A4;
     margin: 0;
+  }
+
+  .pdf {
+    display: none;
   }
 
   .saltopagina {
