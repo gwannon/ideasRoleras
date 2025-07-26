@@ -409,44 +409,7 @@ a.pdf:nth-of-type(2) {
   top: 0px;
 }
 
-@media screen {
-  .saltopagina {
-    display: none;
-  }
 
-  .saltocolumna {
-    display: none;
-  }
-
-  .columns {
-    columns: 1;
-  }
-
-  body:before {
-    display: none;
-  }
-}
-
-@media print {
-  @page {
-    size: A4;
-    margin: 0;
-  }
-
-  .nopdf {
-    display: none !important;
-    visibility: hidden !important;
-  }
-
-  .saltopagina {
-    display: block;
-    page-break-before: always;
-    height: 0;
-    padding: 0;
-    margin: 0;
-    opacity: 1;
-  }
-}
 
 img {
   max-width: 100%;
@@ -488,4 +451,43 @@ body {
   font-size: 1.5em;
   background: transparent url(./images/jema_lh_057_04.png) center center no-repeat;
   background-size: contain;
+}
+
+@media screen {
+  .saltopagina {
+    display: none;
+  }
+
+  .saltocolumna {
+    display: none;
+  }
+
+  .columns {
+    columns: 1;
+  }
+
+  body:before {
+    display: none;
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
 }
