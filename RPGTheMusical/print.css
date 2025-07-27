@@ -193,7 +193,7 @@ a.pdf {
     z-index: 100;
 }
 
-a.pdf:nth-of-type(2) {
+a.pdf:nth-of-type(1) {
   bottom: auto;
   top: 0px;
 }
