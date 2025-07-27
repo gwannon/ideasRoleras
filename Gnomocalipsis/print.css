@@ -229,7 +229,7 @@ a.pdf:nth-of-type(2) {
     opacity: 1;
   }
 
-  .pdf {
-    display: none;
+  .nopdf {
+    display: none !important;
   }
 }
