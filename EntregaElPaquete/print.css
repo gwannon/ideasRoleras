@@ -434,10 +434,36 @@ hr  {
   }
 }
 
+
+a.pdf {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  background-color: var(--color-red);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: var(--title-font);
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}
+
 @media print {
   @page {
     size: A4;
     margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
   }
 
   .saltopagina {
