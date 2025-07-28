@@ -14,6 +14,8 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+
 $mkd->setContent($md);
 
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template".$argv[1].".html")); 

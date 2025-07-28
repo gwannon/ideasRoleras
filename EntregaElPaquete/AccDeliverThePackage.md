@@ -1,5 +1,6 @@
-# Deliver the package 1.0.1 [by Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
+
+# Deliver the package 1.0.1 [by Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 **«Deliver the package» in a cyberpunk mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit), where you are a messenger who must deliver a package and dodge merc teams sent by enemy mega-corps to intercept you.**
 
 ```
@@ -24,6 +25,8 @@ Each messenger has its own way of moving quickly through the city. We have runne
 
 Companies often specialize in one type of movement and purchase equipment and hire professionals specialized in working in those disciplines, for example, physical therapists in the case of parkour or bicycle mechanics for BMX specialists.
 
+[![Delivery By Fernand0FC](./images/delivery_by_fernand0fc_dd9kr8q-pre.png "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
+
 ## Hot contracts
 
 Most deliveries are made by a single messenger. They pick up the package, transport it, and deliver it without incident. The contract is standard and is usually done online.
@@ -32,10 +35,7 @@ But occasionally, hot contracts arise. Dangerous deliveries are called hot contr
 
 ```
 These are the deliveries you'll be able to experience thanks to this little game, those hot contracts that can earn you chips like you've never seen before or simply kill you and leave your corpse in an alley surrounded by mangy, hungry rats.
-```
-
-## System
-
+```## System
 «Deliver the Package» uses the [Breathless](https://farirpgs.com/breathless/creator-kit) system, modifying and expanding its rules to capture the crazy races you'll participate in to deliver the package to its destination.
 
 ### Checks
@@ -119,7 +119,6 @@ Once the adrenaline rush is spent, you can't use it again until you **catch your
 When you face a consequence as a result of one of your actions, the GM may decide that you receive 1 level of fatigue. If your character reaches 4 levels of fatigue, you are exhausted.
 
 When you are exhausted, failing a dangerous action can range from **falling behind, losing the package** and possibly returning to base **without completing the delivery** to ending up **dead in an alley**.
-
 #### PowerWater™
 
 You can use a bottle of PowerWater™, the best energy drink on the market, to remove 2 fatigue points. Another option is to hide in a safe place for a while to remove 1 fatigue point.
@@ -140,20 +139,17 @@ Characters have a total of six skills:
 * **Sway:** charm, manipulate, intimidate.
 
 Finally, you have a **special piece of equipment, which starts with a d10 and represents your mode of movement**. This could be your running shoes, your bike, your skateboard, etc.
-
 Unlike equipment, it returns to a d10 roll when you catch your breath and doesn't take up space in your bandolier, like a skill, but it can be broken, lost, or stolen like a piece of equipment.
 
 At the start of each delivery, you'll also carry a random piece of equipment at d10 level in your bandolier.
 
+[![Moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "Moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "Moar girls form a dystopian future By Fernand0FC")
 ## The deliveries
-
 In "Deliver the Package," adventures are called deliveries. Deliveries have their own set of rules that make them chaotic and frantic.
 
 ### The contract
 
-All deliveries start with a contract. Some are very simple, like transport a package from point A to point B, and you can make them as complicated as you like using these five vectors:
-
-* **The pickup point.** This is usually at the offices of the contracting megacorp, but it can even be a locker at the station or picking up something from the dry cleaners. Anything goes to throw off your rivals.
+All deliveries start with a contract. Some are very simple, like transport a package from point A to point B, and you can make them as complicated as you like using these five vectors:* **The pickup point.** This is usually at the offices of the contracting megacorp, but it can even be a locker at the station or picking up something from the dry cleaners. Anything goes to throw off your rivals.
 * **The delivery point.** Clearly other offices of the same megacorp. Be suspicious of any other option.
 * **The time limit.** The megacorp always sets a time limit. The difference is how tight it is. The time limit can create more or less tension. As a tip, make your first deliveries with long deadlines; once you've got the system down, you can set shorter time limits.
 * **The interest/value of the package.** The more valuable it is, the more resources rival megacorps will put into play.
@@ -177,7 +173,6 @@ Writing a contract is a very quick way to put together a delivery that you then 
 #### Negotiating the contract
 
 > Negotiating a contract with those bastards of the megacorps is tough and dangerous. The messengers just run and jump. If I don't do my job right, everything goes to shit. I can make a suicidal delivery turn into a walk in the park. __Durante, contract negotiator__
-
 Contract negotiation is something you can do as a GM outside of a game, and your messengers might suddenly receive it, grab their bandoliers, and hit the streets.
 
 The other option is for your table to negotiate the contract with you. This negotiation can **work like a zero session**, where your table will help you create the game they want to play. However, try to leave things out that allow you to introduce unexpected elements. For example, you decide there will be checkpoints, but include a clause that they'll tell you the next one at each checkpoint, and reserve the option to surprise them with each checkpoint.
@@ -187,6 +182,8 @@ Remember that money isn't important in a game; it only shows the value of the pa
 ### Don't ask about the package, just deliver it.
 
 The package is the central plot point of each delivery. It's the object everyone wants and tries to get, and the funniest thing is that no one knows what's inside.
+
+[![Game futuristic boxes future technology chests by upklyak](./images/2212.w032.n002.702A.p30.702.png "Game futuristic boxes future technology chests by upklyak")](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm "Game futuristic boxes future technology chests by upklyak")
 
 #### Package size
 
@@ -198,9 +195,7 @@ Packs come in three sizes:
 
 When it doesn't fit into your shoulder bag, you have to carry it in your hand, and that gets in the way when you're trying to move. Just think, it's hard to climb a wall with one hand. Maybe you can make a rope harness or duct tape or some other trick.
 
-To compensate for the problems with not fitting into the bandolier, when the package is large, it becomes **an item you can use in your deliveries with a d10 roll**. You can use it as a shield because it's armored, as a float because it's waterproof and floats, as a sled to slide down slides, as a battering ram to knock down a door, etc. By the time it reaches d4, the box is so damaged it's useless, but the contents are still safe.
-
-#### Don't Open the Package
+To compensate for the problems with not fitting into the bandolier, when the package is large, it becomes **an item you can use in your deliveries with a d10 roll**. You can use it as a shield because it's armored, as a float because it's waterproof and floats, as a sled to slide down slides, as a battering ram to knock down a door, etc. By the time it reaches d4, the box is so damaged it's useless, but the contents are still safe.#### Don't Open the Package
 
 This fundamental rule of deliveries can be a very interesting element to your adventure, and you should be able to play with it during deliveries.
 
@@ -227,7 +222,6 @@ By default, packages don't have trackers, but they can require it by contract. W
 ### Always Forward, Always Moving
 
 The main philosophy of this game is «always forward, always moving». **Your players should always try to move forward, not stop and make a plan.** The plan is made as you move forward. You can only be stopped when you want to catch your breath.
-
 Think of it this way: even when you're hiding, which is usually very static, you should keep moving forward.
 
 If you come across a demonstration, steal a jacket and a cap, camouflage yourself among the people, and keep walking until you emerge on the other side of the crowd. If you take advantage of a garbage truck passing by to hide behind it, you should grab one of the bars and take off with it.
@@ -280,9 +274,10 @@ Sometimes they help, and other times they become an obstacle to overcome. It's a
 |10|**Major Fire:** Firefighters have blocked off traffic and are evacuating the area. There's a fire at a chemical plant that could break out at any moment.|
 |11|**Cyberpsychopath:** A cyberpsychopath with a combat flamethrower and an explosive vest has blocked the street and is holding a nearby bus full of passengers hostage.|
 |12|**Red Carpet:** You come across an «idorus» event. The street is lined with armored limousines carrying celebrities who stop for a few minutes on the red carpet to stroll down it. The rest of the street is filled with people looking for selfies with their «idorus».|
-
 ### Mercs and megacorps
-f
+
+[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
+
 Merc groups are your messengers' greatest nemesis. They'll give you no quarter and start shooting as soon as you're within range, and they won't rest until they get the package for their clients.
 
 In «Deliver the Package», there are no combat skills; you can't face these heavily armed mercenaries, who are more equipped with cyber implants than flesh. You can only dodge or trick them and continue advancing to the delivery point.
@@ -330,7 +325,6 @@ Think that the money that the contract costs will determine the resources of the
 But your messengers will also be able to play that game, but with much fewer resources and in a much simpler way. We talk about ball bearings, homemade explosives and heavy things falling from the sky.
 
 **The traps are going to need equipment** and the more complex they are, the more equipment you will need and the more people working on them. A simple trap can be to take out the bottle of lube while running and spray it on the ground to make your pursuers slip.
-
 A more complex trap could be that one messenger empties a bottle of flammable liquid under a car and another ties a flare to the car door so that it lights up when the door is opened and lights everything up.
 
 For the trap to work, **all of each participant's equipment rolls must be successful**.
@@ -401,16 +395,22 @@ Maybe these delivery seeds will give you ideas to create your own.
 * The **package you're carrying is making strange noises and doesn't look right.** The contract negotiation was already weird, and this doesn't make it any better. It could be a bomb or some other kind of trap. Or maybe it's something alive. The truth is, you don't know, but maybe you should open the package and clear up any doubts.
 * Today it's **training for the newcomers**. You'll be accompanied by a group of newly hired messengers so you can show them the ropes. What could go wrong?
 
-## Epilogue
+[![D'hinghara Diner By Dana-Ulama](./images/deswid5-6dbe3f18-e6ae-4e6c-868f-2a82ce167323.jpg "D'hinghara Diner By Dana-Ulama")](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505 "D'hinghara Diner By Dana-Ulama")
 
-### Sources
+## Epilogue
+### Messenger sheet
+
+|MessengerSheet.html|
+
+### Contract sheet
+
+|ContractSheet.html|### Sources
 
 If you're looking for inspiration for your deliveries, these are some of the works that help me to develop "Deliver the Package".
 
 * **Virtual Light (The Bridge Trilogy) by William Gibson.** Everyone is chasing a messenger who has obtained a virtual reality headset containing important corporate information.
 * **Burning Chrome by William Gibson.** In this collection of short stories, we find the story of Johnny Mnemonic, a corporate courier who carries important data about a megacorp in his brain.
 * In the video game **Mirror's Edge by EA**, a network of runners, including the main character, Faith, transmit messages between rebel elements while evading government and corporate surveillance.
-
 ### Useful Terms
 
 This list of slang terms can help you set the mood for your messengers and can be used by your couriers to create their own.
@@ -424,9 +424,7 @@ This list of slang terms can help you set the mood for your messengers and can b
 * **Hot Potato:** A dangerous package that everyone wants to get their hands on.
 * **Cold/Hot Pizza:** Hot pizza is when the delivery has a time limit, and cold pizza is when it doesn't.
 * **Ringer:** A messenger who carries the treasure, I mean, the package.
-* **Tagged:** Wearing a tracker.
-
-### License 
+* **Tagged:** Wearing a tracker.### License 
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
@@ -438,5 +436,4 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), 
 * Corporate level bodyguard By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * moar girls form a dystopian future By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * Some ideas have been taken from *[**Apocalyptic Delivery Men**](https://reroll.itch.io/1pag-cotarpg), a one-page game where you play with delivery men in a post-apocalyptic world.
-* D'hinghara Diner By [Dana-Ulama](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505) bajo licencia [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es)
-
+* D'hinghara Diner By [Dana-Ulama](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505) bajo licencia [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es)[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")

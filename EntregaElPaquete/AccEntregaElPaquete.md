@@ -1,5 +1,6 @@
-# Entrega el paquete 1.0.1 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 
+
+# Entrega el paquete 1.0.1 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
 **«Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://farirpgs.com/breathless/creator-kit) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercs enviados por mega-corps enemigas para interceptarte.**
 
 ```
@@ -24,6 +25,8 @@ Cada mensaka tiene su forma de moverse por la ciudad rápidamente. Tenemos corre
 
 Las empresas suelen especializarse en un tipo de movimiento y comprar equipo y contratar profesionales especializados en trabajar en esas disciplinas, por ejemplo, fisioterapeutas en caso del parkour o mecániques de bicis para les especialistes en BMX.
 
+[![Delivery By Fernand0FC](./images/delivery_by_fernand0fc_dd9kr8q-pre.png "Delivery By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Delivery-802145258 "Delivery By Fernand0FC")
+
 ## Contratos calientes
 
 La mayoría de las entregas las hace une unique mensaka. Recoge el paquete, lo transporta y lo entrega sin, a priori, incidentes. El contrato es estándar y normalmente se hace a través de la web.
@@ -32,10 +35,7 @@ Pero de vez en cuando hay contratos calientes. Se denominan contratos calientes 
 
 ```
 Estas son las entregas que vas a poder vivir gracias a este pequeño juego, esos contratos calientes que pueden hacerte ganar chips como nunca has visto o simplemente matarte y que tu cadáver acabe en un callejón rodeado de sarnosas y hambrientas ratas.
-```
-
-## Sistema 
-
+```## Sistema 
 «Entrega el paquete» usa el sistema [Breathless](https://farirpgs.com/breathless/creator-kit), modificando y ampliando sus reglas para plasmar las locas carreras en las que participarás para entregar el paquete en su punto de destino.
 
 ### Tiradas
@@ -119,7 +119,6 @@ Una vez gastado el subidón de adrenalina, no podrás usarlo de nuevo hasta que 
 Cuando enfrentas una consecuencia como resultado de una de tus acciones, le DJ puede decidir que recibas 1 nivel de cansancio. Si tu personaje alcanza 4 niveles de cansancio, estás agotade.
 
 Cuando estás agotade, fallar una acción peligrosa significa desde **quedarte atrás, perder el paquete** y seguramente volver a la base **sin haber cumplido la entrega**, hasta acabar **muerto en un callejón**.
-
 #### PowerWater™
 
 Puedes usar una botella de PowerWater™, la mejor bebida energética del mercado, para eliminar 2 puntos de cansancio. Otra opción es esconderte en un lugar seguro por un tiempo para eliminar 1 punto de cansancio.
@@ -140,13 +139,12 @@ Los personajes tienen un total de 6 habilidades:
 * **Interactuar:** Cautivar, manipular, intimidar.
 
 Por último, tienes una **pieza de equipo especial, que empieza con d10 y que representa la forma de moverte que usas**, pueden ser zapatillas de correr, tu bici, tu tabla de skate, etc.
-
 A diferencia del equipo, vuelve a tener un d10 cuando recuperas el resuello y no ocupa espacio en la bandolera, como una habilidad, pero se puede romper, perder o ser robada como una pieza de equipo.
 
 Al comenzar cada entrega, llevarás también en tu bandolera una pieza de equipo aleatoria a nivel de d10.
 
+[![Moar girls form a dystopian future By Fernand0FC](./images/moar_girls_form_a_dystopian_future_by_fernand0fc_db9jcb8-414w-2x.png "Moar girls form a dystopian future By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900 "Moar girls form a dystopian future By Fernand0FC")
 ## Las entregas
-
 En «Entrega el paquete» las aventuras se denominan entregas. Las entregas tienen una serie de reglas propias que las hacen caóticas y frenéticas.
 
 ### El contrato
@@ -177,7 +175,6 @@ Escribir un contrato es una forma muy rápida de montar una entrega a la que lue
 #### Negociar el contrato
 
 > Negociar un contrato con eses cabrones de las megacorps sí que es duro y peligroso. Les mensakas solo corren y dan saltitos. Si yo no hago bien mi trabajo, todo se va a la mierda. Yo consigo que una entrega suicida se convierta en un paseo por el parque. __Durante, negociadore de contratos__
-
 La negociación del contrato es algo que puedes hacerlo como DJ fuera de partida y que tus mensakas lo reciban de repente, cojan sus bandoleras y salgan a patearse las calles.
 
 La otra opción es que tu mesa negocie el contrato en conjunto contigo. Esta negociación puede **funcionar como una sesión 0**, donde tu mesa va a ayudarte a crear la partida que quieren jugar, aun así trata de dejar cosas fuera que te permitan meter elementos inesperados. Por ejemplo, decidís que haya puntos de control, pero mete tu cláusula de que en cada punto te dirán el siguiente y resérvate la opción de sorprenderles con cada punto de control.
@@ -187,6 +184,8 @@ Recuerda que la pasta no es importante en partida, solo muestra el valor del con
 ### No preguntes por el paquete, solo entrégalo
 
 El paquete es el eje central de la trama de cada entrega. Es el objeto que todos quieren y tratan de conseguir y lo más divertido es que nadie sabe qué hay dentro. 
+
+[![Game futuristic boxes future technology chests by upklyak](./images/2212.w032.n002.702A.p30.702.png "Game futuristic boxes future technology chests by upklyak")](https://www.freepik.com/free-vector/game-futuristic-boxes-future-technology-chests_37077179.htm "Game futuristic boxes future technology chests by upklyak")
 
 #### Dimensiones del paquete
 
@@ -227,7 +226,6 @@ Por defecto, los paquetes no llevan rastreadores, pero pueden exigirlo por contr
 ### Siempre hacia adelante, siempre moviéndote
 
 La filosofía principal de este juego es «siempre hacia delante, siempre moviéndote». **Tus jugadoras y jugadores deben tratar de ir siempre hacia adelante, nada de pararse a trazar un plan.** El plan se hace mientras avanzas. Solo te pueden parar cuando quieras recuperar el resuello.
-
 Piénsalo así, incluso cuando te escondes, algo normalmente muy estático, deberías seguir avanzado.
 
 Si te cruzas con una manifestación, robas una chaqueta y una gorra, te camuflas entre la gente y sigues caminando hasta que sales al otro lado de la multitud. Si aprovechas a qué pase un camión de la basura para ocultarte detrás, deberías agarrarte a una de las barras y largarte con él.
@@ -279,9 +277,13 @@ A veces ayudarán y otras se convertirán en un obstáculo a superar. Todo es cu
 |9|**Año nuevo chino:** La calle está llena de viandantes observando a un grupo de artistas que hacen moverse una gigantesca marioneta de un dragón chino.|
 |10|**Gran incendio:** Los bomberos han cortado el paso y está evacuando la zona, hay un incendio en una planta química y puede estallar en cualquier momento.|
 |11|**Ciberpsicopata:** Une ciberpsicopate con un lanzallamas de combate y un chaleco de explosivos ha cortado la calle y usa de rehenes un bus cercano lleno de pasajeres.|
+|1d12|Obstáculo|
+|---|---|
 |12|**Alfombra roja:** Te encuentras con un evento de «idorus». La calle está llena de limusinas blindadas donde van les famoses que paran unos minutos en la alfombra roja para que se paseen por ella. El resto de la calle está lleno de gente buscando selfies con sus «idorus».|
 
 ### Mercs y megacorps
+
+[![Corporate level bodyguard By Fernand0FC](./images/corporate_level_bodyguard_by_fernand0fc_ddafhmc-pre.png "Corporate level bodyguard By Fernand0FC")](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124 "Corporate level bodyguard By Fernand0FC")
 
 Las bandas de mercs son la gran némesis de tus mensakas, son las que no te darán cuartel y empezaran a disparar en cuanto estés a tiro, y no descansarán hasta conseguir el paquete para sus clientes.
 
@@ -324,7 +326,6 @@ La policía está comprada y no es tu amiga, No la llames bajo ningún concepto 
 > Siempre hay trampas. Otra cosa es que tú no la veas. __HeraGodness, mensaka veterana__
 
 Ya hemos dicho que **los mercs puede intentar crear emboscadas y trampas** y, como tienen recursos, pueden ser todo lo complejas y caras que quieras con drones espías, sensores, girojets, francotiradores, armas de posición automáticas, lo que quieras, pero **siempre con una forma de eludirlas o escapar de ellas**. 
-
 Piensa que el dinero que cuesta el contrato va a marcar los recursos de les mercs que van a intervenir en la entrega.
 
 Pero tus mensakas también van a poder jugar a ese juego, pero con muchísimos menos recursos y de una forma muchísimo más simple. Hablamos de bolas de rodamiento, de explosivos caseros y de cosas pesadas que caen del cielo.
@@ -394,27 +395,30 @@ Aquí van algunos toques ciberpunks que pueden ayudar a ambientar tus entregas.
 * Las **cabinas y las máquinas de vending** tiene blindaje antibalas, así que son un **parapeto perfecto** para tu mensaka. Además, pesan una tonelada con lo que moverlas o empujarlas, incluso con un vehículo, es complicado.
 
 > Podría ser peor, podría llover - __Igor «El jovencito Frankenstein»__
-
 ### Semillas de entregas
 
 Tal vez estas semillas de entregas te den ideas para crear las tuyas propias.
 
-* Toda la **ciudad está colapsada por el concierto de la superestrella musical DiByne**, calles abarrotadas, atascos, gente de fiesta drogada, etc. Y a la CEO de VultureTech no se le ha ocurrido mejor ideas que mandar un paquete muy especial a DiByne, de la que es muy fan. Tendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.
+* Toda la **ciudad está colapsada por el concierto de la superestrella musical DiByne**, calles abarrotadas, atascos, gente de fiesta drogada, etc. Y a la CEO de VultureTech no se le ha ocurrido mejor ideas que mandar un paquete muy especial a DiByne, de la que es muy fan. Tendrás que llegar al estadio y colarte en el backstage para hacer la entrega, eludiendo a les fans y a sus guardaespaldas.  
 * Une compañere mensaka está escondide en un callejón. Tiene una **pierna rota y necesita que alguien le sustituya**, así que ha llamado a la base y **os envían como refuerzos**. Tendréis que rescatarle, llevarle a un sitio seguro y terminar la entrega.
 * Todos los años por estas fechas se hace «La carrera». DelivaTeam, una de las grandes del sector de las entregas, organiza un **concurso para encontrar a le mejor mensaka de la ciudad**. Son varias pruebas puntuables que simulan una entrega muy caliente y gana la mejor puntuación. La sospecha de tongo siempre está presente, ya que siempre ganan les mensakas de DelivaTeam. 
 * El **paquete que transportáis hace ruidos extraños y no tiene buena pinta**. La negociación del contrato ya fue rara y esto no lo mejora. Puede ser una bomba o algún otro tipo de trampa. O quizás es algo vivo. La verdad es que no lo sabéis, pero quizás deberíais abrir el paquete y salir de dudas.
-* Hoy toca **entrenar a los nuevos**, te acompañarán un grupo de mensakas recién contratades para que les enseñes los trucos. Qué podría salir mal.
+* Hoy toca **entrenar a los nuevos**, te acompañarán un grupo de mensakas recién contratades para que les enseñes los trucos. Qué podría salir mal.[![D'hinghara Diner By Dana-Ulama](./images/deswid5-6dbe3f18-e6ae-4e6c-868f-2a82ce167323.jpg "D'hinghara Diner By Dana-Ulama")](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505 "D'hinghara Diner By Dana-Ulama")
 
 ## Epílogo 
+### Hoja de mensaka
 
-### Fuentes
+|HojaMensajere.html|
+
+### Hoja de contrato
+
+|HojaContrato.html|### Fuentes
 
 Si deseas inspiración para crear tus tramas, estás son algunas obras que me han servidor de inspiración para desarrollar «Entrega el paquete».
 
 * **Luz virtual (Trilogía del puente) de William Gibson.** Todos persiguen a una mensajera que ha conseguido una gafas de realidad virtual con importante información corporativa.
 * **Quemando cromo de William Gibson.** En esta recopilación de historias cortas tenemos la historia de Johnny Mnemonic que es un mensajero corporativo que lleva en su cerebro relevantes datos de una megacorp.
 * En el videojuego **Mirror’s Edge de EA** una red de corredores, entre ellos el personaje principal, Faith, transmiten mensajes entre elementos rebeldes mientras eluden la vigilancia del gobierno y las corporaciones. 
-
 ### Términos útiles
 
 Este listado de términos en argot te pueden ayudar a ambientar tus entregas y que tus mensakas pueden usar para crear la suya.
@@ -429,9 +433,7 @@ Este listado de términos en argot te pueden ayudar a ambientar tus entregas y q
 * **Patata caliente:** Es un paquete peligroso que todo el mundo quiere conseguir.
 * **Pizza fría/caliente:** Pizza caliente es cuando la entrega tiene límite de tiempo en la entrega y fría cuando no lo tiene.
 * **Ringer:** Mensaka que porta el tesoro, digo, el paquete.
-* **Tagueado:** Que lleva un rastreador.
-
-### Licencia 
+* **Tagueado:** Que lleva un rastreador.### Licencia 
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
@@ -443,5 +445,4 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), 
 * Corporate level bodyguard By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/Corporate-level-bodyguard-803579124) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * moar girls form a dystopian future By [Fernand0FC](https://www.deviantart.com/fernand0fc/art/moar-girls-form-a-dystopian-future-681146900) bajo licencia [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/deed.es)
 * Algunas ideas han sido sacadas de *[**Repartidores del Apocalipsis**](https://reroll.itch.io/1pag-cotarpg), un juego de una página donde juegas con repartidores en un mundo postapocalíptico. 
-* D'hinghara Diner By [Dana-Ulama](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505) bajo licencia [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es)
-
+* D'hinghara Diner By [Dana-Ulama](https://www.deviantart.com/dana-ulama/art/D-hinghara-Diner-895072505) bajo licencia [Creative Commons Attribution-NonCommercial-No Derivatives Works 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.es)[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
