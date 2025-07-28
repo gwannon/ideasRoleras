@@ -19,22 +19,22 @@ body:before {
   content: "";
   display: block;
   height: var(--padding);
-  width: 100vh;
+  width: 100%;
   position: fixed;
   top: 0px;
   left: 0px;
-  background: transparent url(./images/border1.png) top left repeat-x;
+  background: transparent url(./images/border1.png) top center repeat-x;
 }
 
 body:after {
   content: "";
   display: block;
   height: var(--padding);
-  width: 100vh;
+  width: 100%;
   position: fixed;
   bottom: 0px;
   left: 0px;
-  background: transparent url(./images/border2.png) bottom left repeat-x;
+  background: transparent url(./images/border2.png) bottom center repeat-x;
 }
 
 body > * {
@@ -199,10 +199,49 @@ table strong {
   font-family: "Limelight", sans-serif;
 }
 
+a.pdf {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  background-color: var(--color-red);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: "Slackey", sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}
+
 @media screen {
   .saltopagina {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
+  }
+  .saltocolumna {
+    display: none !important;
+  }
+  .columns {
+    columns: 1;
+  }
+
+  h1 {
+        justify-content: center;
+  }
+
+  h1 > a {
+    text-align: center;
+  }
+
+  body:before,
+  body:after {
+    opacity: 0;
   }
 }
 
@@ -210,6 +249,11 @@ table strong {
   @page {
     size: A4;
     margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
   }
 
   .saltopagina {
@@ -220,4 +264,5 @@ table strong {
     margin: 0;
     opacity: 1;
   }
+
 }
