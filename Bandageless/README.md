@@ -1,8 +1,8 @@
-# Bandageless, revive, maldice, escapa [por Gwannon](https://gwannon.itch.io/bandageless-breathless)
+# Bandageless, revive, maldice, escapa [por Gwannon](https://gwannon.com)
 
 «Bandageless, revive, maldice, escapa» es una mini-ambientación para [Breathless](https://farirpgs.com/breathless/creator-kit) sobre momias egipcias tratando de escapar de un museo.
 
-Ver en [itch.io](https://gwannon.itch.io/bandageless-breathless).
+Ver en [https://bandageless.gwannon.com/](https://bandageless.gwannon.com/BandagelessES.html).
 
 ## Licencia 
 

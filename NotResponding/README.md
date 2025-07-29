@@ -1,8 +1,8 @@
-# Not Responding_ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# Not Responding_ [por Gwannon](https://gwannon.com)
 
 Not Responding_ es una ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de sobrevivir en un servidor moribundo.
 
-Ver en [itch.io](https://gwannon.itch.io/not-responding-breathless).
+Ver en [web](https://notresponding.gwannon.com/NotRespondingES.html).
 
 ## Licencia 
 

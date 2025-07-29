@@ -1,6 +1,6 @@
 
 
-# MausTiki [por Gwannon](https://gwannon.itch.io/maustiki)
+# MausTiki [por Gwannon](https://gwannon.com/)
 
 **MausTiki** es mini-ambientación para [Mausritter](https://losing-games.itch.io/mausritter) donde se explica como son los roedores de las islas del Pacífico y se describe Kaona Iole, una comunidad de kiores (ratas del Pacífico) situada en una playa de una isla del Pacífico.
 
@@ -1503,6 +1503,6 @@ Si os ha gustado esta suplemento de Mausritter podéis probar otros de mis proye
 [![¡Arrr! Cthulhu](./images/arrrcthulhu.jpg "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")](https://arrrcthulhu.com/pdf/ "Aventuras de piratas en el Caribe de los Mitos de Cthulhu")
 
 **[¡Arrr! Cthulhu: Aventuras de piratas en el Caribe de los Mitos de Cthulhu SWEA.](https://arrrcthulhu.com/pdf/)**
-[![Doctor Jekyll y Mister Hyde: Investigadores privados](./images/jekyll.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./images/jekyll.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://jekyllhyde.gwannon.com/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
-**[Doctor Jekyll y Mister Hyde: Investigadores privados para FATE](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)**
+**[Doctor Jekyll y Mister Hyde: Investigadores privados para FATE](https://jekyllhyde.gwannon.com/)**

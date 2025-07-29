@@ -1,8 +1,8 @@
-# Bandageless, revive, curse, escape [by Gwannon](https://gwannon.itch.io/bandageless-breathless)
 
-**Bandageless is a mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit) about Egyptian mummies trying to escape from a museum.**
 
-## You open your eyes and everything is dark…
+# Bandageless, revive, curse, escape [by Gwannon](https://gwannon.com/)
+
+**Bandageless is a mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit) about Egyptian mummies trying to escape from a museum.**## You open your eyes and everything is dark…
 
 It seems like you are inside your sarcophagus, but when you try to get up, you crash into an invisible wall.
 
@@ -15,14 +15,13 @@ You do not know where you are, but it is clear this is not the promised afterlif
 You do not know it, but someone at the museum has been playing with a cursed object from the museum’s collection, The Book of Life and Death.
 
 They have been reading passages with powerful spells, and here you are, awakening from death 3,000 years after dying and being mummified.
+[![Égypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d’un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault](./images/anubis-tending-to-a-mummy-12664.jpg "Égypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d'un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault")](https://www.flickr.com/photos/jrthibault/49992702476/in/album-72157714654737082/ "Égypte, Al Qarana (nécropole thébaine), Deir el-Medina, Tombeau d'un ouvrier, Amennakht ou Nebenmaat - Marie Thérèse Hébert & Jean Robert Thibault")
 
 ### You are not alone
 
 Luckily, you are not alone. Other mummies in the museum have risen with you, and if you organize yourselves, you can escape this horrible place you are imprisoned in.
 
-And although it is not your world, you were pharaohs, priestesses, counselors, etc., and you still have the resources and skills necessary to escape from the hell you are in just now.
-
-## System 
+And although it is not your world, you were pharaohs, priestesses, counselors, etc., and you still have the resources and skills necessary to escape from the hell you are in just now.## System 
 
 «Bandageless, revive, curse, escape» uses the [Breathless](https://farirpgs.com/breathless/creator-kit) system, modifying and expanding its rules to capture the adventures your mummies will take part in to escape the museum.
 
@@ -51,7 +50,6 @@ To regain all your skills, you must "catch your breath." This is a short rest so
 To catch your breath, you must first be **out of danger in a quiet place, away from the watchful eyes of guards and security cameras**. Second, and most importantly, you must have a piece of cloth** (shirts, rugs, tunics, etc.) of any material (linen, cotton, polyester, wool, etc.) in your gear to patch your bandages.
 
 A mummy in the group only needs to spend one die level on the cloth piece to allow all mummies to catch their bandages.
-
 Like the rest of the equipment, the piece of cloth is destroyed when it reaches d4.
 
 When a mummy rewraps its bandages, the GM observes the situation and presents a new complication to the group.
@@ -90,6 +88,9 @@ If you roll a 1 in a room without relics, roll again.
 |3|Flint-tipped spear, javelin, etc.|
 |4|Whistle, Viking horn, Roman tuba, etc.|
 |5|Torch, lantern, oil lamp, etc.|
+
+|1d20|Equip|
+|---|---|
 |6|Bronze axe, bronze khopesh, etc.|
 |7|Etruscan sling, recurve bow, etc.|
 |8|Roman bust, Paleolithic Venus, etc.|
@@ -106,6 +107,8 @@ If you roll a 1 in a room without relics, roll again.
 |19|Fire extinguisher, sand bucket, fire blanket, etc.|
 |20|Museum map|
 
+[![Ayudante con mochila por Boletín informativo de amigos de la egiptología](./images/mochila.jpg "Ayudante con mochila por Boletín informativo de amigos de la egiptología")](https://egiptologia.com/wp-content/uploads/2010/01/BIAE62.pdf "Ayudante con mochila por Boletín informativo de amigos de la egiptología")
+
 ### Backpack
 
 The items in your backpack can be used in place of your skills. They start with a die level that decreases after each use.
@@ -116,9 +119,7 @@ Only **3 items and 1 bottle of embalming fluid** can be carried in your backpack
 
 ### Doomed Items
 
-The museum staff may not know it, but the display cases are filled with items of great magical power and ominous curses that will aid you in your escape.
-
-|1d10|Doomed Items|
+The museum staff may not know it, but the display cases are filled with items of great magical power and ominous curses that will aid you in your escape.|1d10|Doomed Items|
 |---|---|
 |1|**Neanderthal Skull with Strange Symbols:** Summons a horde of rats that follow you and blindly obey your commands.|
 |2|**Crystal Skull:** Allows you to speak telepathically with humans.|
@@ -136,6 +137,7 @@ Doomed items start with a 1d10. Each use causes them to lose one die level until
 Each mummy can only have one cursed item, and they do not take up space in your backpack. These are items you wear on your head like tiaras and helmets, around your neck like necklaces, or even between your bandages or on your hands and feet.
 
 There may be items or situations, at the GM's discretion, that replenish your items with energy, so a cursed item can be kept as equipment while waiting to recharge its power.
+[![Egypt Flat Colorful Illustration by macrovector](./images/19714.jpg "Egypt Flat Colorful Illustration by macrovector")](https://www.freepik.com/free-vector/egypt-flat-colorful-illustration_4358617.htm "Egypt Flat Colorful Illustration by macrovector")
 
 ### Praying to the Gods (Stunts)
 
@@ -181,9 +183,7 @@ At the start of each night of escape, you will also carry in your bandolier a ra
 |3|**Funerary Mask:** You can use it for protection|
 |4|**Statuette of your favorite deity:** Allows you to "Praying to the Gods" once|
 |5|**[Khopesh](https://en.wikipedia.org/wiki/Khopesh):** You can use it as a weapon|
-|6|**Bronze Axe:** You can use it as a weapon|
-
-## The Museum
+|6|**Bronze Axe:** You can use it as a weapon|## The Museum
 
 Museums are calm, peaceful, quiet, and safe places. But imagine waking up from a 3,000-year sleep in an unknown, dark, and lonely place, filled with objects you recognize and many others you do not, with strange shapes, strange lights, and surely even stranger functions.
 
@@ -212,8 +212,7 @@ Faced with one or more guards, your mummy can rush into combat, brandishing its 
 Your mummies are just that, mummies, and we have been telling horror stories for centuries about these beings who are reborn through ancient and powerful magic, spreading terror wherever they appear.
 
 This is why it is very easy for your mummies to scare the museum's night staff and make them flee.
-
-There are many ways to scare the security staff, so the mummy must describe how they do it, and the GM will decide which of the six skills they should roll to try to scare the humans.
+[![Museum at night by pxhere.com](./images/light-black-and-white-night-window-museum-darkness-485984-pxhere.com.jpg "Museum at night by pxhere.com")](https://pxhere.com/es/photo/485984 "Museum at night by pxhere.com")There are many ways to scare the security staff, so the mummy must describe how they do it, and the GM will decide which of the six skills they should roll to try to scare the humans.
 
 If they succeed, the group of mummies will make the museum security staff flee, but they will likely raise the alarm.
 
@@ -239,9 +238,7 @@ When your mummies enter a new room, roll, if desired, on the «Table of the room
 
 A lot happens in museums, and even if you visit rooms with the same content or function, they are never the same.
 
-For each new room, you can choose the customization option from the «Table of room personalization» or roll 1d12.
-
-### Table of the room's theme or function
+For each new room, you can choose the customization option from the «Table of room personalization» or roll 1d12.### Table of the room's theme or function
 
 |1d66|Theme or function|
 |---|---|
@@ -263,6 +260,10 @@ For each new room, you can choose the customization option from the «Table of r
 |34|Tightly sealed loading and unloading dock|
 |35|&#9765; Library|
 |36|&#9765; Lost and found room|
+
+&#9765; there may be doomed items
+|1d66|Theme or function|
+|---|---|
 |41|&#9765; Restoration Room|
 |42|Cloakroom|
 |43|&#9765; Edo Period Japanese Exhibition|
@@ -280,13 +281,7 @@ For each new room, you can choose the customization option from the «Table of r
 |62|Administration Area|
 |64|&#9765; Hall of Great Explorers|
 |65|&#9765; New museum installation with everything wrapped in cardboard and bubble wrap|
-|66|&#9765; Travelling Exhibit|
-
-&#9765; there may be doomed items
-
-### Table of room customizations
-
-|1d12|Room customizations|
+|66|&#9765; Travelling Exhibit|### Table of room customizations|1d12|Room customizations|
 |---|---|
 |1|**Special Decoration:** The room is highly decorated, reminiscent of a caveman's cavern, a jungle, a castle hall, or a Roman house.|
 |2|**Cleaning Cart:** Someone left a cleaning cart behind. The cart can only be used in this room and has a d8.|
@@ -300,7 +295,6 @@ For each new room, you can choose the customization option from the «Table of r
 |10|**Small Shop:** Only in rooms with relics; otherwise, roll again. There is a small shop with souvenirs specific to the room's contents. You may reroll the looting roll, but you must keep the second result.|
 |11|**Party or Anniversary:** Some kind of party has been held, and there are remnants of it, from balloons to birthday cake.|
 |12|**Ventilation Shaft:** A large duct or shaft runs from one side of the room to the other. Your mummies can crawl inside to cross the room or hide.|
-
 #### Museum Map
 
 The **museum map** is a very useful object for navigating through the rooms, but it is not easy to interpret. They have strange drawings and you do not know their hieroglyphics.
@@ -331,22 +325,19 @@ This clock summarizes a number of elements of the museum's security system, such
 * By successfully scaring and making security personnel flee, you fill in another piece of cheese.
 
 > It is important that your mummies do not know exactly when the alarm dots are filled, just a brief idea.
-
 As long as you have dots to fill, the alarms have not gone off. The moment you have to **fill a dot and there is no free space, the alarms will go off** and you will have to return to your sarcophagus to escape another day or run for the exit and let Anubis do what he wants.
 
 A timer with 4 slots is a very difficult security system to bypass; with 12, there is no time constraints unless the escape goes seriously awry. If not specified, the alarm clock is considered to have 12 dots, which is almost as if there were no limit.
 
 If the groups split up, the alarm clock remains the same, and both groups put dots into the clock.
 
-#### When the alarms go off
+#### When the alarms go gff
 
 When the alarms go off, things are going to get very difficult for your mummies. Your mummies will have to decide whether to make a mad dash for the exit or return to their sarcophagi to wait for the next night.
 
 If the alarms have not gone off and there are relics in the room (they have a &#9765; in their name), with a 1 in 1d4 (25%), there is only one guard in the room. If there are no relics, there is no guard, unless you, as the GM, decide otherwise.
 
-When the alarms go off, there is a chance that there will be 1d6 guards. If the room has relics or valuables, with a 1-2 in 1d4 (50%), there are guards. If there are no relics, there are only guards, with a 1 in 1d4.
-
-|¿Does the alarms go off?|&#9765; Are there relics?|1d4|Guards|
+When the alarms go off, there is a chance that there will be 1d6 guards. If the room has relics or valuables, with a 1-2 in 1d4 (50%), there are guards. If there are no relics, there are only guards, with a 1 in 1d4.|¿Does the alarms go off?|&#9765; Are there relics?|1d4|Guards|
 |---|---|---|---|
 |No|No| — | — |
 |No|Yes|1|1|
@@ -359,7 +350,7 @@ Returning to the sarcophagus has its advantages, as you can attempt your escape 
 * You can store one of your items (even cursed ones) in your bandages for the following night.
 * Your alarms and clock are reset.
 
-Returning to the sarcophagus, if there are jackals nearby, is useless. They will trap you in your sarcophagus or display case and drag your soul to the depths of the afterlife.
+Returning to the sarcophagus, if there are jackals nearby, is useless. They will trap you in your sarcophagus or display case and drag your soul to the depths of the afterlife.[![Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons](./images/British_Museum_at_night.jpg "Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")](https://commons.wikimedia.org/wiki/File:British_Museum_at_night.jpg "Adrian Evans Photography, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 ### Conflicts
 
@@ -378,9 +369,9 @@ A priori, the main mission is to escape the museum, but there may be other optio
 
 1. **Obtain the «Book of Life and Death»:** With it, you can free yourself from Anubis and his jackals, and even restore your body to human form.
 2. **Another mummy is being stalked by a jackal:** You must help another awakened mummy, who for some reason is being chased by a jackal.
-3. **Talk to someone in the Egyptology department:** Perhaps someone in the Egyptology department will know what to do with you.
+3. **Talk to someone in the Egyptology department:** Perhaps someone in the Egyptology department will know what to do with you.## The jackals of Anubis
 
-## The jackals of Anubis
+[![By Jeff Dahl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3257647](./images/Anubis_standing.png "By Jeff Dahl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3257647")](https://es.wikipedia.org/wiki/Anubis#/media/Archivo:Anubis_standing.svg "By Jeff Dahl - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=3257647")
 
 You have broken the laws of life and death, and Anubis is not happy with them, so the god of death has sent his jackals to hunt you down and bring you before him.
 
@@ -395,6 +386,8 @@ They are exceptional hunters, highly intelligent and with highly developed sense
 Jackals are a **supernatural layer** you can add to your adventures. They are very powerful hunters that your mummies must flee from. They can not face them and win; only a very elaborate and crazy plan can allow you to defeat them.
 
 _Think of it like that alien in Alien³ who hunts the inmates of the penal colony from the shadows, and they need to come up with a very complicated plan to kill him in the foundry._
+
+[![The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch](./images/321707300_428981ad22_c.jpg "The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch")](https://www.flickr.com/photos/mharrsch/321707300 "The Jackal god of the dead Anubis wood and paint Late Period Egypt by Mary Harrsch")
 
 As for when they will come out, really, whenever you want. Perhaps they will be the first thing you see when you leave their sarcophagus, or perhaps they will suddenly emerge from the shadows and stand between your mummies and the freedom that is the museum's main entrance.
 
@@ -417,7 +410,6 @@ Jackals can **smell the energy released when cursed objects are used**, so if yo
 Jackals do not have any mechanics at all; they are a narrative-driven monster that chases your mummies and can not be stopped or destroyed; you can only escape from them.
 
 If you need to mechanize them, when your mummies interact with jackals, the success rate changes radically, making them much more difficult and with more negative consequences than positive.
-
 |Check|Results|
 |---|---|
 |1-4|You fail, and something wrong happens.|
@@ -428,12 +420,11 @@ If you look closely, for example, rolling a skill that is a d4 is always a failu
 
 You can also make it so they can not take a few seconds to heal a point of degradation when a jackal is present in the room. A jackal can use those seconds of respite to extract your soul from your revived mortal remains and return it to the underworld.
 
-> If you do not want to get too complicated, you can apply a -2 penalty to the rolls and use the basic checks table.
-
-## License
+> If you do not want to get too complicated, you can apply a -2 penalty to the rolls and use the basic checks table.|CharacterSheet.html|## License
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 "Bandageless, revive, curse, escape» is developed under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es) license. All the source code can be found at [GitHub/ideasRoleras/Bandageless](https://github.com/gwannon/ideasRoleras/tree/main/Bandageless).
-
 Royalty-free images from [freepik](https://www.freepik.com/) and [other sources](https://github.com/gwannon/ideasRoleras/blob/main/Bandageless/README.md).
+
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")

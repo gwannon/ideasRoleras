@@ -1,4 +1,4 @@
-# The Sauce of Kutchup: Guía del chef [Por Gwannon - Ver. 1.0](https://gwannon.itch.io/the-sauce-of-kutchup) 
+# The Sauce of Kutchup: Guía del chef [Por Gwannon - Ver. 1.0](https://gwannon.com/) 
 
 > _Ph'nglui mglw'nafh Kutchup K'itchen wgah'nagl fhtagn._ En su nevera, al fondo del estante, el muerto Kutchup espera soñando. __Por James L. Kraft__
 

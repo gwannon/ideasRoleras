@@ -1,6 +1,6 @@
 
 
-# Deliver the package 1.0.1 [by Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Deliver the package 1.0.1 [by Gwannon](https://gwannon.com/)
 **«Deliver the package» in a cyberpunk mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit), where you are a messenger who must deliver a package and dodge merc teams sent by enemy mega-corps to intercept you.**
 
 ```

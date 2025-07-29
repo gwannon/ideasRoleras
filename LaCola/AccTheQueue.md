@@ -1,4 +1,4 @@
-# The Queue [by Gwannon](https://gwannon.itch.io/the-queue-la-cola)
+# The Queue [by Gwannon](https://gwannon.com/)
 
 **The tabletop role-playing game of queuing to play while you queue.** In «La Queue» you will be a group of fans who queue to get the signature of a book author, a famous actress or, worst of all, an internet influencer.
 

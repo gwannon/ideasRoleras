@@ -16,7 +16,7 @@ Además, añade reglas para jugar con __Yayas Geishas__.
 
 ***
 
-Descargar en [itch.io](https://gwannon.itch.io/ninjas-cutres).
+Descargar en [web](https://ninjascutres.gwannon.com/).
 
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). 
 

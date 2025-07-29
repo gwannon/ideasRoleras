@@ -1,8 +1,8 @@
-# Entrega el paquete [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Entrega el paquete [por Gwannon](https://gwannon.com/)
 
 «Entrega el paquete» en una mini-ambientación ciberpunk para [Breathless](https://farirpgs.com/breathless/creator-kit) donde eres une mensajere que debe entregar un paquete y esquivar a los equipos de mercenarios enviados por mega-corporaciones enemigas para interceptarte.
 
-Ver en [itch.io](https://gwannon.itch.io/entrega-el-paquete-breathless).
+Ver en [web](https://deliver.gwannon.com/EntregaElPaquete.html).
 
 ## Licencia 
 

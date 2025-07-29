@@ -1,6 +1,6 @@
 
 
-# Fincas & Inmuebles [Por Gwannon - Ver. 1.0](https://gwannon.itch.io/fincas-e-inmuebles)Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde vivirán auténticas y épicas aventuras inmobiliarias en pos de la riqueza que pueden ganar con la transacción de bienes inmuebles ganando con ello una plusvalía. En resumen, que deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
+# Fincas & Inmuebles [Por Gwannon - Ver. 1.0](https://gwannon.com/)Fincas&Inmuebles (F&I) es un juego de rol para 1 DJ y un grupo de PJ donde vivirán auténticas y épicas aventuras inmobiliarias en pos de la riqueza que pueden ganar con la transacción de bienes inmuebles ganando con ello una plusvalía. En resumen, que deberán vender la mazmorra, castillo, torre de mago, etc. que acaban de explorar para pagar los gastos de la aventura y tratar de sacar beneficios.
 
 Para jugar necesitarás dados de 6 caras y fichas de 3 colores distintos (rojo &#128308;, azul &#128309; y verde &#128994;).
 

@@ -1,6 +1,6 @@
 \sinc
 
-# Ideas Roleras [Por Gwannon - 18/07/2025](https://gwannon.itch.io/ideas-roleras) 
+# Ideas Roleras [Por Gwannon - 18/07/2025](https://gwannon.com/) 
 
 ## Juegos completos y ambientaciones
 
@@ -10,7 +10,7 @@
 
 Mezcla de Los diminutos con el Éxodo de los gnomos. Igual en un mundo _near future_.  O puede tener terror kaiju con humanos o mascotas gigantescas y alta tecnología diminuta. ¿¿¿Gnomzilla???
 
-[Gnomocalipsis](https://gwannon.itch.io/gnomocalipsis-breathless)
+[Gnomocalipsis](https://gnomecalypse.gwannon.com/Gnomocalipsis.html)
 
 ### Campamento de Verano
 
@@ -138,7 +138,7 @@ Animales de la selva que hablan a lo Libro de la selva pero sin estar antropomor
 
 Fantasía medieval, pero rollo polinesio, [viajes en catamarán](https://mapasmilhaud.com/mapas-historicos/la-colonizacion-de-la-polinesia-2008/) e islas misteriosas inexploradas.
 
-[Maustiki](https://gwannon.itch.io/maustiki) es una ambientación para Mausritter en las islas del Pacífico.
+[Maustiki](https://maustiki.gwannon.com/) es una ambientación para Mausritter en las islas del Pacífico.
 
 ### Mundo de papel
 
@@ -392,7 +392,7 @@ Habría clanes de ninjas buenos y clanes de malos y peleas entre ellos por sus t
 
 Tendría el toque cutre y chusco de películas como Fung Fu Sion.
 
-[Ninjas cutres](https://gwannon.itch.io/ninjas-cutres)
+[Ninjas cutres](https://ninjascutres.gwannon.com/)
 
 ### Pac-land
 
@@ -442,7 +442,7 @@ Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mis
 
 Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
 
-[Doctor Jekyll y Mister Hyde: Investigadores privados](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)
+[Doctor Jekyll y Mister Hyde: Investigadores privados](https://jekyllhyde.gwannon.com/)
 
 ### Radioaficionados
 

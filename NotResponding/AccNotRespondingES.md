@@ -1,6 +1,6 @@
 
 
-# ❲Not Responding_ ver. 1.1❳ [por Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# ❲Not Responding_ ver. 1.1❳ [por Gwannon](https://gwannon.com/)
 **Not Responding_ es una mini-ambientación para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre software tratando de escapar de un servidor moribundo.**
 
 Tus ítems de software no solo deberán enfrentarse a los errores cada vez más graves del propio servidor, también a toda una serie de depredadores de software como virus y antivirus y a los imprevistos que pueden generar las tareas programadas por el administrador del sistema.

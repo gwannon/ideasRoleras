@@ -10,6 +10,6 @@ $tags = [
   'LANZAMIENTO' => "enero 2025",
   'AUTHOR' => "@Gwannon",
   'KEYWORDS' => "juego de rol, fate acelerado, detectivas, victoriano, investigación",
-  'URL' => "https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados",
+  'URL' => "https://jekyllhyde.gwannon.com/",
   'GITHUB' => "https://github.com/gwannon/ideasRoleras/tree/main/DoctorJekyllyMisterHydeInvestigadoresPrivados"
 ];

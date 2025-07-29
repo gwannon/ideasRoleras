@@ -3328,11 +3328,11 @@ Aquí tienes algunos posts, películas, libros y comics que te pueden ayudar a d
 
 Si os ha gustado esta campaña podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
 
-[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://jekyllhyde.gwannon.com/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
-[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
+[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://jekyllhyde.gwannon.com/) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
 
-[**Doctor Jekyll y Mister Hyde: Más extraños casos**](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-mas-extranos-casos) trae 3 nuevos casos para el juego de rol para Fate Acelerado «Doctor Jekyll y Mister Hyde: Investigadores privados», donde tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos.
+[**Doctor Jekyll y Mister Hyde: Más extraños casos**](https://jekyllhydemas.gwannon.com/) trae 3 nuevos casos para el juego de rol para Fate Acelerado «Doctor Jekyll y Mister Hyde: Investigadores privados», donde tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos.
 
 ***
 
