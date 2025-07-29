@@ -677,3 +677,24 @@ p:has(a img[title^=Blank]) + p + ul > li:first-of-type { display: inline-block; 
 p:has(a img[title^=Blank]) + p + ul > li:nth-of-type(2) { display: inline-block; background-color: blue; padding-left: 12px; }
 p:has(a img[title^=Blank]) + p + ul > li:nth-of-type(3) { display: inline-block; background-color: green; padding-left: 12px; }
 p:has(a img[title^=Blank]) + p + ul > li:nth-of-type(4) { display: inline-block; background-color: darkgoldenrod; padding-left: 12px; }
+
+
+a.pdf {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  background-color: var(--color-secondary);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: 'SpecialElite';
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}

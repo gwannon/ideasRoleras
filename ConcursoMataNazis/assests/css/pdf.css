@@ -94,4 +94,9 @@ body {
     background: none;
   }
 
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
 }

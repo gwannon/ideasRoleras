@@ -2,7 +2,7 @@
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
-Puedes descargar todas las ideas en [Itch.io](https://gwannon.itch.io/ideas-roleras).
+Puedes ver todas las ideas en [web](https://ideasroleras.gwannon.com/).
 
 ## Atribuciones 
 
@@ -15,11 +15,9 @@ Puedes descargar todas las ideas en [Itch.io](https://gwannon.itch.io/ideas-role
 
 El juego de rol para Fate Acelerado donde aprenderás a cazar vampiros con tu panda del barrio y podrás acabar con la trama vampírica que domina tu ciudad.
 
-[Versión PDF](https://bosque.gwannon.com/guiacazadora/)
+[Versión PDF](https://cazavampiros.gwannon.com/pdf/)
 
-[Versión web](https://bosque.gwannon.com/guiacazadora/GuiaDeCazaVampirosParaNinasMolonas.html)
-
-[Itch.io](https://gwannon.itch.io/guia-de-cazavampiros-para-ninas-molonas)
+[Versión web](hhttps://cazavampiros.gwannon.com/)
 
 ***
 
@@ -27,7 +25,7 @@ El juego de rol para Fate Acelerado donde aprenderás a cazar vampiros con tu pa
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
-[Ver en itch.io](https://gwannon.itch.io/rpg-the-musical)
+[Ver en web](https://rpgthemusical.gwannon.com/JdRElMusical.html)
 
 ## Atribuciones de RPG The Musical
 
@@ -41,7 +39,7 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
-[Ver en itch.io](https://gwannon.itch.io/the-sauce-of-kutchup)
+[Ver en itch.io](https://kutchup.gwannon.com/)
 
 ## Atribuciones The Sauce of Kutchup
 
@@ -59,7 +57,7 @@ Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 
 Contenido bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)
 
-[Ver en itch.io](https://gwannon.itch.io/ninjas-cutres)
+[Ver en web](https://ninjascutres.gwannon.com/)
 
 ## Atribuciones Ninjas cutres
 
