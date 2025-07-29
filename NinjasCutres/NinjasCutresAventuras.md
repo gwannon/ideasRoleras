@@ -121,4 +121,4 @@ Las geishas yayas funcionan igual que tus ninjas, pero tienen una serie de cambi
 
 &nbsp;
 
-Creado por [Gwannon](https://linktr.ee/gwannon). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Dibujos de **[freepik](https://www.freepik.com/free-vector/hand-drawn-ninja-element-collection_2562233.htm)** y **[catalyststuff](https://www.freepik.com/author/catalyststuff)**. **[Código fuente](https://github.com/gwannon/ideasRoleras/tree/main/NinjasCutres)**
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Dibujos de **[freepik](https://www.freepik.com/free-vector/hand-drawn-ninja-element-collection_2562233.htm)** y **[catalyststuff](https://www.freepik.com/author/catalyststuff)**. **[Código fuente](https://github.com/gwannon/ideasRoleras/tree/main/NinjasCutres)**

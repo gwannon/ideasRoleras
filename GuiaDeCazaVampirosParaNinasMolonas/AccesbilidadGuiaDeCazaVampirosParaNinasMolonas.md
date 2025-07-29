@@ -3095,7 +3095,7 @@ Creo que en lugar del tema del romance puedes optar por llevar temas de amistad.
 
 ## Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://gwannon.com) y hablamos.
 
 Si juegas la campaña y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
 
@@ -3348,7 +3348,7 @@ Soy Beta de Cantaverno y he escrito este libro. Tienes en tus manos la guía def
 
 _AVISO:_ Este juego es sobre niñas que cazan vampiros, pero _no es para niñes_. Tiene temas adultos, situaciones escabrosas y violencia en la que se verán enredados menores, así que deberías avisar a tu mesa de lo que se va a encontrar durante las partidas.
 
-Creado por [Gwannon](https://linktr.ee/gwannon)
+Creado por [Gwannon](https://gwannon.com)
 
 ![](./assests/images/prohibido.png)
 ![](./assests/images/0wum_0ffy_211014.jpg)

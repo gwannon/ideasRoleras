@@ -136,7 +136,7 @@ Remember that these dangers are not simple rolls; you will have to, for example,
 
 ## Licenses
 
-Created by [Gwannon](https://linktr.ee/gwannon). Devoleped under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. You have all the source code in **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** so you can do whatever you want with it. Created for **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
+Created by [Gwannon](https://gwannon.com). Devoleped under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. You have all the source code in **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** so you can do whatever you want with it. Created for **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
 
 ### Images
 

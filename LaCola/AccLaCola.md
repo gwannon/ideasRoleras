@@ -135,7 +135,7 @@ Recuerda que estos peligros no son simples tiradas, tendrán, por ejemplo, que b
 
 ## Licencias
 
-Creado por [Gwannon](https://linktr.ee/gwannon). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Creado para la **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/LaCola)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Creado para la **[One-Page RPG Jam 2025](https://itch.io/jam/one-page-rpg-jam-2025)**.
 
 ### Imágenes
 

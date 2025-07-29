@@ -528,7 +528,7 @@ Quizás Hyde, inmovilizado por una pierna rota y aburrido hasta la muerte, decid
 
 ## Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://gwannon.com) y hablamos.
 
 \sp
 
@@ -579,4 +579,4 @@ Contiene reglas para jugar con el Doctor Jekyll y Mister Hyde y su extraña rela
 * El extraño caso de las palas del zapador
 * El extraño caso del lingote de oro con la rosa impresa
 
-Creado por [Gwannon](https://linktr.ee/gwannon)
+Creado por [Gwannon](https://gwannon.com)

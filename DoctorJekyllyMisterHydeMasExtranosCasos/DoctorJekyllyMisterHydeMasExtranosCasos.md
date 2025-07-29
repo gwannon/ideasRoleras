@@ -78,7 +78,7 @@ En cuanto al tono, siguen siendo historias «pulp», pero mientras que las anter
 
 ## Participar en el proyecto
 
-Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://linktr.ee/gwannon) y hablamos.
+Si te gusta el proyecto, quieres participar y sabes de Git, puedes hacerlo a través de GitHub en este [proyecto](|GITHUB|). Si no estás familiarizado con Git, pues me mandas un DM en mis redes sociales [@Gwannon](https://gwannon.com) y hablamos.
 
 Si juegas con este suplemento y tienes ideas y posibles mejoras, también puedes enviármelas. Estaré encantado de estudiarlas y poneros como beta-testers en los créditos. 
 
@@ -130,4 +130,4 @@ Este suplemento para «Doctor Jekyll y Mister Hyde: Investigadores privados» tr
 * El extraño caso del afluente del Támesis desaparecido
 * El extraño caso del robo de la fuente tipográfica
 
-Creado por [Gwannon](https://linktr.ee/gwannon)
+Creado por [Gwannon](https://gwannon.com)
