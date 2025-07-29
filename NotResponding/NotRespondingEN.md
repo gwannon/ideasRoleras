@@ -1,6 +1,6 @@
 \sinc
 
-# ❲Not Responding_ ver. 1.1❳ [by Gwannon](https://gwannon.itch.io/not-responding-breathless)
+# ❲Not Responding_ ver. 1.1❳ [by Gwannon](https://gwannon.com/)
 
 \conc
 

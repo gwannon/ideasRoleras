@@ -1,4 +1,4 @@
-# Down to the river, a Breathless story [|AUTHOR|](https://gwannon.itch.io/down-to-the-river-hasta-el-rio)
+# Down to the river, a Breathless story [|AUTHOR|](https://gwannon.com/)
 
 The days are longer and the nights are shorter, which is a good thing, since the horrors mostly attack at night.
 

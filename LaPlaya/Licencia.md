@@ -86,6 +86,6 @@ Si os ha gustado esta suplemento de Mausritter podéis probar otros de mis proye
 
 \sc
 
-[![Doctor Jekyll y Mister Hyde: Investigadores privados](./images/jekyll.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados "Doctor Jekyll y Mister Hyde: Investigadores privados")
+[![Doctor Jekyll y Mister Hyde: Investigadores privados](./images/jekyll.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://jekyllhyde.gwannon.com/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
-**[Doctor Jekyll y Mister Hyde: Investigadores privados para FATE](https://gwannon.itch.io/doctor-jekyll-y-mister-hyde-investigadores-privados)**
+**[Doctor Jekyll y Mister Hyde: Investigadores privados para FATE](https://jekyllhyde.gwannon.com/)**

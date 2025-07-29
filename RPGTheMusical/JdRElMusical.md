@@ -1,4 +1,4 @@
-# JdR El musical [Por Gwannon - Ver. 1.0.1](https://gwannon.itch.io/rpg-the-musical) 
+# JdR El musical [Por Gwannon - Ver. 1.0.1](https://gwannon.com/) 
 
 JdR El Musical (JdREM) es una **ayuda rolera de una sola hoja para meter escenas musicales en tus aventuras** independientemente del sistema de juego. Desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
 

@@ -1,6 +1,6 @@
 \sinc
 
-# MausTiki [por Gwannon](https://gwannon.itch.io/maustiki)
+# MausTiki [por Gwannon](https://gwannon.com/)
 
 **MausTiki** es mini-ambientación para [Mausritter](https://losing-games.itch.io/mausritter) donde se explica como son los roedores de las islas del Pacífico y se describe Kaona Iole, una comunidad de kiores (ratas del Pacífico) situada en una playa de una isla del Pacífico.
 

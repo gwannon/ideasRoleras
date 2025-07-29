@@ -1,6 +1,6 @@
 \sinc
 
-# Entrega el paquete 1.0.1 [por Gwannon](https://gwannon.itch.io/entrega-el-paquete-breathless)
+# Entrega el paquete 1.0.1 [por Gwannon](https://gwannon.com/)
 
 \conc
 

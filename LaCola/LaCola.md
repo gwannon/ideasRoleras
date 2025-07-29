@@ -1,4 +1,4 @@
-# La Cola [por Gwannon](https://gwannon.itch.io/the-queue-la-cola)
+# La Cola [por Gwannon](https://gwannon.com/)
 
 **El juego de rol de hacer colas para jugar mientras haces una cola.** En «La Cola» seréis un grupo de fans que hacen cola para conseguir la firma de alguna autora de libros, de una actriz famosa o lo peor, de un influencer de internet.
 

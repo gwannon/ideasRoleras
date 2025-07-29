@@ -1,4 +1,4 @@
-# Hasta el río, una historia de Breathless [|AUTHOR|](https://gwannon.itch.io/down-to-the-river-hasta-el-rio)
+# Hasta el río, una historia de Breathless [|AUTHOR|](https://gwannon.com/)
 
 Los días se alargan y las noches se acortan, lo cual es bueno, ya que los horrores sobre todo atacan de noche.
 

@@ -1,6 +1,6 @@
 \sinc
 
-# Bandageless, revive, curse, escape [by Gwannon](https://gwannon.itch.io/bandageless-breathless)
+# Bandageless, revive, curse, escape [by Gwannon](https://gwannon.com/)
 
 **Bandageless is a mini-setting for [Breathless](https://farirpgs.com/breathless/creator-kit) about Egyptian mummies trying to escape from a museum.**
 

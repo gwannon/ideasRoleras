@@ -1,4 +1,4 @@
-# Gnomecalypse [by Gwannon](https://gwannon.itch.io/gnomocalipsis-breathless)
+# Gnomecalypse [by Gwannon](https://gwannon.com/)
 
 Gnomecalypse is a one-page setting for [Breathless RPG System](https://fari-rpgs.itch.io/breathless-srd) about a community of Icelandic gnomes who must survive a zombie apocalypse.
 

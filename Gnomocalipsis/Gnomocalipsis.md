@@ -1,4 +1,4 @@
-# Gnomocalipsis [por Gwannon](https://gwannon.itch.io/gnomocalipsis-breathless)
+# Gnomocalipsis [por Gwannon](https://gwannon.com/)
 
 Gnomocalipsis es una ambientación en una página para [Breathless](https://fari-rpgs.itch.io/breathless-srd) sobre una comunidad de gnomos islandeses que debe sobrevivir a un apocalipsis zombi.
 
