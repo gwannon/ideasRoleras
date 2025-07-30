@@ -210,10 +210,28 @@ table tbody tr:nth-child(even) {
   background-color: var(--color-red);
 }
 
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: var(--color-black);
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Orbitron", serif;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
 @media screen {
   .saltopagina {
     border-top: 3px dashed var(--color-red);
     border-bottom:  3px dashed var(--color-red);
+  }
+  .columns {
+    columns: 1;
   }
 }
 
@@ -221,6 +239,11 @@ table tbody tr:nth-child(even) {
   @page {
     size: A4;
     margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
   }
 
   .saltopagina {
