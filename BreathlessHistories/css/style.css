@@ -132,6 +132,27 @@ blockquote p:last-of-type {
   margin-bottom: 0px;
 }
 
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: #60871c;
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: 'Cheddar Gothic Stencil';
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+a.pdf:nth-of-type(2) {
+  bottom: auto;
+  top: 0px;
+}
+
+
 @media print {
   @page {
     size: A4;
@@ -145,6 +166,11 @@ blockquote p:last-of-type {
     padding: 0;
     margin: 0;
     opacity: 1;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
   }
 
 

@@ -14,6 +14,8 @@ $md = preg_replace_callback("/\|([0-9a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+
 $mkd->setContent($md);
 
 if($argv[1] == 'ElRio') {
@@ -24,7 +26,7 @@ if($argv[1] == 'ElRio') {
   $author = 'by Gwannon';
 }
 
-$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
+$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template".$argv[1].".html")); 
 $html = str_replace("|ID|", $argv[1], $html);
 $html = str_replace("|TITLE|", $title, $html); 
 $html = str_replace("|AUTHOR|", $author, $html); 
