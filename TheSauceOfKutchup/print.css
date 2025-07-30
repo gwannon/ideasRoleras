@@ -225,10 +225,39 @@ table tbody tr:nth-child(even) {
   background-color: var(--color-green);
 }
 
+a.pdf {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  background-color: var(--color-green);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: "Metal Mania", serif;
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}
+
 @media screen {
   .saltopagina {
     border-top: 3px dashed var(--color-green);
     border-bottom:  3px dashed var(--color-green);
+  }
+
+  .saltocolumna {
+    display: none;
+  }
+
+
+  .columns {
+    columns: 1;
   }
 }
 
@@ -236,6 +265,11 @@ table tbody tr:nth-child(even) {
   @page {
     size: A4;
     margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
   }
 
   .saltopagina {
