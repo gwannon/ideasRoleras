@@ -207,7 +207,21 @@ table thead tr th {
 
 table strong {
   color: var(--color-red);
-  font-family: "Limelight", sans-serif;
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: var(--color-white);
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: 'Osaka-Sans Serif';
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
 }
 
 @media screen {
@@ -215,12 +229,20 @@ table strong {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
   }
+  .columns {
+    columns: 1;
+  }
 }
 
 @media print {
   @page {
     size: A4;
     margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
   }
 
   .saltopagina {
