@@ -116,7 +116,7 @@ pre + p {
 /* Titulares */
 
 h1 {
-  background: transparent url(./images/titular.jpg) top center no-repeat;
+  background: #201c37 url(./images/titular.jpg) bottom center no-repeat;
   background-size: 100% auto;
   font-family: "Eagle Lake", serif;
   color: var(--color-white);
