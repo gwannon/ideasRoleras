@@ -232,6 +232,11 @@ a.pdf {
   .columns {
     columns: 1;
   }
+
+  h1 {
+    min-height: 170px;
+    background-size: auto 300px;
+  }
 }
 
 @media print {
