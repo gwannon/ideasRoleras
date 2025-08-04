@@ -40,7 +40,6 @@ La persona a la que quieren interrogar en une artiste y la mejor forma de entrar
 **Título:** Protestas
 
 **Escena:** Tu mesa necesita acceder a determinado lugar y para su desgracia el lugar es el centro de una protestas. Quizás tengan que acceder a un astillero donde sus trabajadores están en huelga y se han atrincherado en las instalaciones. Puede que algunos ecologistas se han encadenado a unas máquinas y no permiten el paso del vehículo de les personajes.
-XXX
 
 ***
 
