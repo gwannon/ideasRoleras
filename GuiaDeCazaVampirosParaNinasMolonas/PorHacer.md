@@ -67,11 +67,11 @@ En última instancia, Celose publicará un vídeo dando la hora y el lugar. Pero
 
 XXX
 
-#### Llamando a los goblins
+#### Infiltración
 
 Colarse en la rave será fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
 
-El principal problema es que ellas solas entre gente mucho más mayor darán en cante enseguida y serán detectadas en cuanto pongan un pie dentro del polígono abandonado. Así que necesitarán una distracción. Los fuegos, las alarmas y otras formas de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
+El principal problema es que ellas solas entre gente mucho más mayor darán en cante enseguida y serán detectadas en cuanto pongan un pie dentro del polígono abandonado. Así que necesitarán una distracción. Los fuegos, las alarmas y otras maneras de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
 
 Pero y si llenan la rave de niños y niñas como ellas. Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos saltando y corriendo por todas partes.
 
@@ -87,11 +87,14 @@ O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la polic�
 
 XXX
 
-Algunas ideas interesantes que pueden tener:
+Algunas ideas interesantes que pueden tener y que deberían darles positivos podrían ser:
 
 * Decirle a sus amigos que vayan con máscaras para no ser identificados.
+* Hacer correr entre sus compañeros la historia de que la rave va rollo Blade/vampiros y podrían encontrarse equipo como estacas y ajos, ya que los menores han entrado en la rave como cazavampiros.
 * Decirles que lo normal es llevar ropas oscuras y luces fluorescentes, así ellas no destacarán entre el resto de menores. 
-* XXX
+* La música estará altísima y más con miles de goblins arriba y abajo. Quizás tapones y aprender lenguaje de símbolos o las señales que hacen maderos/marines en las películas.
+
+Las posibilidades son muy amplias así que tus cazadoras pueden salir por cualquier lado.
 
 #### La rave
 
@@ -110,6 +113,8 @@ Comprende a los humanos mucho mejor que el resto y está a la última y puedes h
 Como Alfonse, si deciden dejarla con vida, podría ser **una buena aliada**. Pero a diferencia de Alfonse, Eloise no podrá seguir dentro del plan vampírico. Se trasladará a vivir a su estudio de influencer y seguirá como influencer mientras cuenta a las cazadoras lo que sabe del grupo Ceballos y del plan vampírico.
 
 También puede ser una poderosa aliada en combate, aunque solo sea por sus poderes vampíricos. Y también como espía o guardaespaldas.
+
+\sp
 
 > Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.
 
