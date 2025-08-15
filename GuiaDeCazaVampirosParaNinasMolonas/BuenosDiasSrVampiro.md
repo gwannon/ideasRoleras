@@ -1013,28 +1013,6 @@ El día que vayan de compras con el cheque regalo, puedes hacerles una escena di
 
 \sinc
 
-## Heartbreak Hotel 
-
-> El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
-
-\conc
-
-Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe que eso permitirá a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
-
-### La corporación toma iniciativa
-
-El Grupo Ceballos dirigida por su CTO Nieve debe mover ficha y debe ser un movimiento resolutivo, necesita empezar a construir el casino y para ello debe forzar el derrame contaminante en los humedales y demoler el estadio para empezar las obras de New Vegas.
-
-Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación, pero no es necesario triunfar. Lo único importante es que consigan pruebas suficientes de que el grupo Ceballos este detrás y pasárselas a Catalina.
-
-#### El tiempo es importante.
-
-Nieve tiene que poner en funcionamiento todo el plan vampírico y tiene mucha prisa. El plan ha tenido muchos retrasos las últimas semanas y cada día que pasa se pierde un montón de dinero. Es por ello que Nieve tiene un calendario y nada va a parar ese calendario. Es por ello que esta parte de la campaña tengan más control del tiempo y que tus cazadoras lo noten. 
-
-Desde que tú decidas que Nieve empieza a trabajar en cada uno de los puntos siguientes (Vertido tóxico y Demolición del estadio) va a pasar una semana (7 días con sus 7 noches). Si tus cazadoras no lo paran ese en ese tiempo será una derrota para ellas y si logras desbaratar los siguientes eventos será una victoria para tus cazadoras.
-
-Aun así lo importante no es evitar el derrame o el derribo, lo _importante es tener pruebas_ de esas actividades para que Catalina monte un caso contra el Grupo Ceballos.
-
 |PorHacerDos.md|
 
 \sp
