@@ -1829,7 +1829,7 @@ Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como su
 
 __NOCHE__
 
-Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo que no se puedan resistir.
+Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo a lo que no se puedan resistir.
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
@@ -1843,21 +1843,49 @@ El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, 
 
 Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
 
-Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. Y todos sus compañeros de clase les habrán inundado de mensajes.
+Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. 
+
+Y todos sus compañeros de clase les habrán inundado de mensajes.
 
 Tus cazadoras deberán conseguir que sus padres firmen la autorización. Quizás tengan buenas notas y nadie sepa de sus actividades nocturnas y sus padres se las firmen encantados.
 
 También puede ser que sus padres crean que esa fiesta no sea bueno para ellas y se nieguen a firmar, con lo que tendrán que falsificar la firma y escaparse para asistir a la fiesta.
 
-Sea como sea Celose, se ha asegurado de que nadie pueda poner pegas a firmar la autorización. Es una fiesta sin humo y alcohol, con seguridad y con responsables del cuidado de menores y una psicóloga por si hubiera problemas.
+Sea como sea, Celose se ha asegurado de que nadie pueda poner pegas a firmar la autorización. Es una fiesta sin humo y alcohol, con seguridad y con responsables del cuidado de menores y una psicóloga por si hubiera problemas.
 
 El día que vayan de compras con el cheque regalo, puedes hacerles una escena divertida de compras con dependientes haciéndoles la pelota y probándose toda suerte de trajes. Quizás puedas aplicar alguna de las sugerencias de las pijamadas como poner motes a partir de contar historias vergonzosas.
 
 #### El fiestón
 
+Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado.
+
+Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o a supervisado el trabajo del resto del equipo de maquillaje.
+
+En el centro del set, tras seguir un oscuro camino dando vueltas en espiral por el bosque, está la casa de chocolate, hecha de chocolate, de hecho, toda la casa es comestible.
+
 XXX
 
+Celose, como ya hemos dicho es bastante humana en su forma de ser y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
+
+XXX
+
+Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a proposito para limitar sus capacidades.
+
 #### Detectar a Eloise como vampira
+
+Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
+
+Recuerda que su disfraz de bruja es muy «Wicked» y como la protagonista está muy tapada, salvo manos y cara donde hay pintura verde, con lo que tratar hacer pruebas será muy complicado. 
+
+* El disfraz y el maquillaje no permiten ver ninguno de sus posibles rasgos vampíricos como palidez.
+* Como buena cocinera, el ajo lo soporta bastante bien, mientras no entre en contacto con él o lo ingiera.
+* El maquillaje verde que lleva encima hace que no les afecte la luz ultravioleta. Necesitaría una exposición de más de 10 segundos para que le haga daño. La luz del día sigue siendo igual de mortal.
+* Se ha hartado de sangre y la visión de sangre puede controlarlo sin problema.
+
+Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
+
+* Estropear su evento, del que se siente muy orgullosa. Solo hay que ver el número de visionados que hay en el directo.
+* Robarle el foco y que los seguidores empiecen a hablar más de las invitadas que de ella.
 
 XXX
 

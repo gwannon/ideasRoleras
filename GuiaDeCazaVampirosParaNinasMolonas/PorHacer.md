@@ -1,8 +1,37 @@
 #### El fiestón
 
+Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado.
+
+Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o a supervisado el trabajo del resto del equipo de maquillaje.
+
+En el centro del set, tras seguir un oscuro camino dando vueltas en espiral por el bosque, está la casa de chocolate, hecha de chocolate, de hecho, toda la casa es comestible.
+
 XXX
 
+Celose, como ya hemos dicho es bastante humana en su forma de ser y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
+
+XXX
+
+Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a proposito para limitar sus capacidades.
+
 #### Detectar a Eloise como vampira
+
+
+Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
+
+\sp
+
+Recuerda que su disfraz de bruja es muy «Wicked» y como la protagonista está muy tapada, salvo manos y cara donde hay pintura verde, con lo que tratar hacer pruebas será muy complicado. 
+
+* El disfraz y el maquillaje no permiten ver ninguno de sus posibles rasgos vampíricos como palidez.
+* Como buena cocinera, el ajo lo soporta bastante bien, mientras no entre en contacto con él o lo ingiera.
+* El maquillaje verde que lleva encima hace que no les afecte la luz ultravioleta. Necesitaría una exposición de más de 10 segundos para que le haga daño. La luz del día sigue siendo igual de mortal.
+* Se ha hartado de sangre y la visión de sangre puede controlarlo sin problema.
+
+Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
+
+* Estropear su evento, del que se siente muy orgullosa. Solo hay que ver el número de visionados que hay en el directo.
+* Robarle el foco y que los seguidores empiecen a hablar más de las invitadas que de ella.
 
 XXX
 
@@ -43,11 +72,11 @@ Cuando veas que Eloise tiene problemas, haz que huya. La capacidad de flotar se 
 
 Cuando Eloise huya, aparecerán los bomberos por el aviso de fuego. Se empeñarán en ver las cazadoras estén bien, así que no podrán perseguir a Eloise. Jugar con la paranoia de que los bomberos pueden ser sicarios puede ser divertido mientras las examinan, las limpian de chocolate y les preguntan por lo que hacían allí. Pero recuerda los malos suelen los polis que reprimen manifas, no los bomberos que se niegan a participar en desahucios.
 
-\sp
-
 Alguna cazadora puede que quiera explotar a los bomberos en sus redes para ganar popularidad y tratar de combatir a Celose/Eloise en su terreno. Estos estarán encantados de sacarse fotos e incluso bailes con las cazadoras. También pueden hacer chistes de chocoterapia o que les limpien el chocolate usando el agua de las mangueras.
 
 Si tus cazadoras no le ponen fácil la huida, puedes colapsar la estructura de la casita sobre ellas y enterrarlas en chocolate. Se despertarán cuando los bomberos las saquen de entre los restos de chocolate fundido.
+
+\sp
 
 ### La noche de los goblins
 
@@ -77,9 +106,9 @@ Pero y si llenan la rave de niños y niñas como ellas. Y si distribuyen entre s
 
 Cuando vean que sus planes no son viables puedes proponerles que consulten con algún experto (o mejor pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
 
-\sp
-
 O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención de Papa Noeles.
+
+\sp
 
 > Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
 
@@ -114,8 +143,8 @@ Como Alfonse, si deciden dejarla con vida, podría ser **una buena aliada**. Per
 
 También puede ser una poderosa aliada en combate, aunque solo sea por sus poderes vampíricos. Y también como espía o guardaespaldas.
 
-\sp
-
 > Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.
+
+\sp
 
 Si alguna de tus cazadoras tienen destaca por su belleza, su carisma y tiene gusto por la moda y se interesa del famoseo, podrá atraer la atención de Eloise y esta podría trabar una amistad más profunda con ella y, como siempre, ofrecerle convertirla en un chupasangre.

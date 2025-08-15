@@ -979,7 +979,7 @@ Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como su
 
 __NOCHE__
 
-Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo que no se puedan resistir.
+Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo a lo que no se puedan resistir.
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
@@ -993,15 +993,17 @@ El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, 
 
 Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
 
-Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. Y todos sus compañeros de clase les habrán inundado de mensajes.
+Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. 
 
 \sp
+
+Y todos sus compañeros de clase les habrán inundado de mensajes.
 
 Tus cazadoras deberán conseguir que sus padres firmen la autorización. Quizás tengan buenas notas y nadie sepa de sus actividades nocturnas y sus padres se las firmen encantados.
 
 También puede ser que sus padres crean que esa fiesta no sea bueno para ellas y se nieguen a firmar, con lo que tendrán que falsificar la firma y escaparse para asistir a la fiesta.
 
-Sea como sea Celose, se ha asegurado de que nadie pueda poner pegas a firmar la autorización. Es una fiesta sin humo y alcohol, con seguridad y con responsables del cuidado de menores y una psicóloga por si hubiera problemas.
+Sea como sea, Celose se ha asegurado de que nadie pueda poner pegas a firmar la autorización. Es una fiesta sin humo y alcohol, con seguridad y con responsables del cuidado de menores y una psicóloga por si hubiera problemas.
 
 El día que vayan de compras con el cheque regalo, puedes hacerles una escena divertida de compras con dependientes haciéndoles la pelota y probándose toda suerte de trajes. Quizás puedas aplicar alguna de las sugerencias de las pijamadas como poner motes a partir de contar historias vergonzosas.
 
