@@ -1008,6 +1008,97 @@ Sea como sea, Celose se ha asegurado de que nadie pueda poner pegas a firmar la 
 
 El día que vayan de compras con el cheque regalo, puedes hacerles una escena divertida de compras con dependientes haciéndoles la pelota y probándose toda suerte de trajes. Quizás puedas aplicar alguna de las sugerencias de las pijamadas como poner motes a partir de contar historias vergonzosas.
 
+#### El fiestón
+
+Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado. 
+
+Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados y caracterizados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo es demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
+
+Es fácil para los actores esconderse entre los árboles y sorprender a los invitados, bien para darles terribles sustos o bien para aparecer como mágicos seres. Los actores tienen un guion que contar y la idea es entretener a las invitadas y hacerlas avanzar por el camino dispuesto en forma de espiral que lleva al centro del bosque. Allí está la casita de la bruja, hecha de chocolate y guirlache. De hecho, toda la casa es comestible.
+
+Fuera de la casa de chocolate hay una mesa gigantesca para unas 30 comensales decorada como si fuera la mesa donde toma el té el sombrerero loco en Alicia en el país de las maravillas. Allí les dará una merienda mientras charla con ellas.
+
+\sp
+
+Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a propósito para limitar sus capacidades.
+
+Celose, como ya hemos dicho siente fascinación por las cosas de los mortales incluso los aprecia, aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
+
+Mientras avanza por el bosque las vigilará por las cámaras de seguridad del complejo y verá sus reacciones. Cuando ya esté con ellas en persona tratará de sonsacarles información.
+
+Puedes ser creativo poniéndoles en el paseo por el bosque algunos dilemas morales o acertijos, usando los personajes de cuento para ello. Cuando lleguen a la mesa del té, Celose directamente buscará sacarles información.
+
+#### Detectar a Eloise como vampira
+
+Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen como Celose. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
+
+Está claro, que tus cazadoras deben ya saber que todo esto huele mucho a plan vampiro, pero deben caer en la trampa para poder seguir como sigue la historia, así lo primero debería saber es conocer a su próximo objetivo y saber de qué va. Es por ello que la fiesta es la manera principal de saber si Celose es una vampira.
+
+Recuerda que su disfraz de bruja es de «Wicked» y como la protagonista está muy tapada, salvo manos y cara donde hay pintura verde, con lo que tratar hacer pruebas será muy complicado. 
+
+* El disfraz y el maquillaje no permiten ver ninguno de sus posibles rasgos vampíricos como palidez.
+* Como buena cocinera, el ajo lo soporta bastante bien, mientras no entre en contacto con él o lo ingiera.
+* El maquillaje verde que lleva encima hace que no les afecte la luz ultravioleta. Necesitaría una exposición de más de 10 segundos para que le haga daño. La luz del día sigue siendo igual de mortal.
+* Se ha hartado de sangre y la visión de sangre puede controlarlo sin problema.
+
+Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
+
+* Estropear su evento, del que se siente muy orgullosa. Solo hay que ver el número de visionados que hay en el directo.
+* Robarle el foco y que los seguidores empiecen a hablar más de las invitadas que de ella.
+
+\sp
+
+> Lo curioso de esta escena es que mientras se celebra la fiesta, Eloise y tus cazadoras estarán observándose en busca de pruebas que confirmen sus sospechas. Esto puede crear unas situaciones muy divertidas mientras se mueven en un mundo de seres mágicos, música pop moderna y dulces por todos los lados.
+
+#### Combate en la casita de chocolate
+
+El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte del bosque si ellas lo buscan. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo. 
+
+Cuando las cazadoras cojan la tarta, Eloise activará un mando a distancia y la bomba incendiaria del interior de la tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse el chocolate de la casa.
+
+Las alarmas de fuego empezarán a sonar y todo el mundo tratará de salir del polígono. En principio, de un vistazo verán que los actores y la gente de seguridad están sacando a las niñas de la merienda, así que deberían poder centrarse en su enemiga. Pero siempre puedes usar alguna niña atrapada bajo un árbol de fibra de vidrio para que Eloise pueda escapar o que la use de rehén. 
+
+La casita de chocolate tiene una serie de características que debes tener en cuenta en el combate. Es un entorno cerrado y pequeño unos 12 metros cuadrados (3x4 m) y unos 3 altos en la parte más alta.
+
+El interior está completamente vacío y las entradas y salidas son la puerta principal, una ventana de cristal de guirlache en las otras paredes y una chimenea de turrón. Puedes hacer dos zonas dentro la casita para temas de contacto, la entrada y el fondo de la casita.
+
+Estos son algunos de los aspectos de los que podrás tirar en el combate:
+
+* **Pegajoso:** Todo está pegajoso y es difícil moverse.
+* **Derritiéndose:** Del techo caen goterones de chocolate fundido. Alguna cazadora hasta podría lanzar chocolate a los ojos de su enemigo para cegarlo.
+* **Inestable:** Tratar de apoyarse contra la pared, de subirse a alguna cosa es casi imposible, todo se derrumba, se deshace y te quedas pegado.
+* **Resbaladizo:** El chocolate fundido del suelo está resbaladizo y es complicado mantener la verticalidad. Además, si te empujan te mueves más de lo normal.
+
+Aquí tenemos algunas ideas para hacer el combate más entretenido:
+
+\sp
+
+* **Combate de bastones de caramelos:** Parte de la estructura está hecha de bastones de caramelo gigantes con un lado en forma de gancho y pueden ser arrancados y usados como armas. Aunque no podrán hacerle daño a Eloise, podrían engancharla e inmovilizarla o atraerla hacia ellas. Si intentan empalarla con un bastón afilado, a tu gusto si funciona o no.
+* **Batalla de bolas de helado:** Dentro de la casita de chocolate hay varios depósitos de helado que pueden ser usados para hacer bolas de helado y lanzarlos. Daño no hacen, pero pueden distraer y desde luego es cómico.
+* **A lo depredador:** Tus cazadoras pueden embadurnarse a propósito de chocolate a lo depredador podrían convertirse en invisible para la visión térmica de los vampiros. Además, debería ser más fácil esconderse dentro de la casita y «fundirse con el entorno». Esta estrategia también podría darles ciertas ventajas, como que sean resbaladizas y Eloise no pueda hacerles una presa fácilmente (aparte de que no quiera ensuciar su traje).
+
+Eloise, como vampira, puede flotar, así que puede evitar mucho de los problemas de la casita de chocolate, pero el techo hace que no pueda ponerse fuera del alcance de las cazadoras. Además, no quiere manchar su modelito de chocolate y caramelo y va a estar más interesada en proteger su bolso Gucci y sus Manolos, que de acabar con las cazadoras.
+
+Recuerda que si tratan de escapar o de irse en sigilo será imposible, dejarán un rastro de chocolate que las delatará.
+
+#### Evitando el combate
+
+Una opción interesante que puede evitar un combate es convencer a Eloise de que si acaba con ellas, Celose deberá desaparecer, ya que será la responsable de sus muertes y perderá todo lo que ha creado con los años. Eloise, a priori, está decidida a sacrificar a Celose para ascender en la escala de poder vampírica, pero su decisión no es tan firme como ella cree.
+
+Esto puede que desemboque huya sin combatir y en que en el siguiente capítulo en que Eloise traicione a Lord Ceballos y se una a ellas, sobre todo si Alfonse ha muerto.
+
+#### Abandonando la fiesta elegantemente
+
+Cuando veas que Eloise tiene problemas, haz que huya. La capacidad de flotar se lo tendría que hacer fácil y con su fuerza puede hacer un agujero en el techo sin problemas o salir por la chimenea de turrón. No debería haber nadie, ya que las alarmas anti incendio han hecho salir a todo el mundo del local. Así que no delatará sus poderes a nadie.
+
+Cuando Eloise huya, aparecerán los bomberos por el aviso de fuego. Se empeñarán en ver las cazadoras estén bien, así que no podrán perseguir a Eloise. Jugar con la paranoia de que los bomberos pueden ser sicarios puede ser divertido mientras las examinan, las limpian de chocolate y les preguntan por lo que hacían allí. Pero recuerda los malos suelen los polis que reprimen manifas, no los bomberos que se niegan a participar en desahucios.
+
+\sp
+
+Alguna cazadora puede que quiera explotar a los bomberos en sus redes para ganar popularidad y tratar de combatir a Celose/Eloise en su terreno. Estos estarán encantados de sacarse fotos e incluso bailes con las cazadoras. También pueden hacer chistes de chocoterapia o que les limpien el chocolate usando el agua de las mangueras.
+
+Si tus cazadoras no le ponen fácil la huida, puedes colapsar la estructura de la casita sobre ellas y enterrarlas en chocolate. Se despertarán cuando los bomberos las saquen de entre los restos de chocolate fundido.
+
 |PorHacer.md|
 
 \sp

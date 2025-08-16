@@ -1860,19 +1860,23 @@ El día que vayan de compras con el cheque regalo, puedes hacerles una escena di
 
 Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado. 
 
-Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados y caracterizados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
+Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados y caracterizados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo es demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
 
-Es fácil para los actores esconderse entre los árboles y sorprender a los invitados, bien para darles terribles sustos o bien para aparecer como mágicos seres. Los actores tienen un guion que contar y la idea es hacer entretener a las invitadas y hacerlas avanzar por el camino dispuesto en forma de espiral que lleva al centro del bosque. Allí está la casita de la bruja, hecha de chocolate y guirlache, de hecho, toda la casa es comestible.
-
-Celose, como ya hemos dicho siente fascinación por las cosas de los mortales incluso los aprecia aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
+Es fácil para los actores esconderse entre los árboles y sorprender a los invitados, bien para darles terribles sustos o bien para aparecer como mágicos seres. Los actores tienen un guion que contar y la idea es entretener a las invitadas y hacerlas avanzar por el camino dispuesto en forma de espiral que lleva al centro del bosque. Allí está la casita de la bruja, hecha de chocolate y guirlache. De hecho, toda la casa es comestible.
 
 Fuera de la casa de chocolate hay una mesa gigantesca para unas 30 comensales decorada como si fuera la mesa donde toma el té el sombrerero loco en Alicia en el país de las maravillas. Allí les dará una merienda mientras charla con ellas.
 
 Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a propósito para limitar sus capacidades.
 
+Celose, como ya hemos dicho siente fascinación por las cosas de los mortales incluso los aprecia, aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
+
+Mientras avanza por el bosque las vigilará por las cámaras de seguridad del complejo y verá sus reacciones. Cuando ya esté con ellas en persona tratará de sonsacarles información.
+
+Puedes ser creativo poniéndoles en el paseo por el bosque algunos dilemas morales o acertijos, usando los personajes de cuento para ello. Cuando lleguen a la mesa del té, Celose directamente buscará sacarles información.
+
 #### Detectar a Eloise como vampira
 
-Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
+Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen como Celose. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
 
 Está claro, que tus cazadoras deben ya saber que todo esto huele mucho a plan vampiro, pero deben caer en la trampa para poder seguir como sigue la historia, así lo primero debería saber es conocer a su próximo objetivo y saber de qué va. Es por ello que la fiesta es la manera principal de saber si Celose es una vampira.
 
@@ -1890,19 +1894,13 @@ Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefu
 
 > Lo curioso de esta escena es que mientras se celebra la fiesta, Eloise y tus cazadoras estarán observándose en busca de pruebas que confirmen sus sospechas. Esto puede crear unas situaciones muy divertidas mientras se mueven en un mundo de seres mágicos, música pop moderna y dulces por todos los lados.
 
-#### Descubrir la trampa
-
-XXX
-
-Una opción interesante que puede evitar un combate es convencer a Eloise de que si acaba con ellas, Celose deberá desaparecer, ya que será la responsable de sus muertes y perderá todo lo que ha creado con los años. Eloise, a priori, está decidida a sacrificar a Celose para ascender en la escala de poder vampírica, pero su decisión no es tan firme como ella cree.
-
-Esto puede que desemboque en el siguiente capítulo en que Eloise traicione a Lord Ceballos y se una a ellas, sobre todo si Alfonse ha muerto.
-
 #### Combate en la casita de chocolate
 
 El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte del bosque si ellas lo buscan. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo. 
 
-Cuando las cazadoras cojan la tarta, Eloise activará un mando a distancia y la bomba incendiaria del interior dela tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse.
+Cuando las cazadoras cojan la tarta, Eloise activará un mando a distancia y la bomba incendiaria del interior de la tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse el chocolate de la casa.
+
+Las alarmas de fuego empezarán a sonar y todo el mundo tratará de salir del polígono. En principio, de un vistazo verán que los actores y la gente de seguridad están sacando a las niñas de la merienda, así que deberían poder centrarse en su enemiga. Pero siempre puedes usar alguna niña atrapada bajo un árbol de fibra de vidrio para que Eloise pueda escapar o que la use de rehén. 
 
 La casita de chocolate tiene una serie de características que debes tener en cuenta en el combate. Es un entorno cerrado y pequeño unos 12 metros cuadrados (3x4 m) y unos 3 altos en la parte más alta.
 
@@ -1924,6 +1922,12 @@ Aquí tenemos algunas ideas para hacer el combate más entretenido:
 Eloise, como vampira, puede flotar, así que puede evitar mucho de los problemas de la casita de chocolate, pero el techo hace que no pueda ponerse fuera del alcance de las cazadoras. Además, no quiere manchar su modelito de chocolate y caramelo y va a estar más interesada en proteger su bolso Gucci y sus Manolos, que de acabar con las cazadoras.
 
 Recuerda que si tratan de escapar o de irse en sigilo será imposible, dejarán un rastro de chocolate que las delatará.
+
+#### Evitando el combate
+
+Una opción interesante que puede evitar un combate es convencer a Eloise de que si acaba con ellas, Celose deberá desaparecer, ya que será la responsable de sus muertes y perderá todo lo que ha creado con los años. Eloise, a priori, está decidida a sacrificar a Celose para ascender en la escala de poder vampírica, pero su decisión no es tan firme como ella cree.
+
+Esto puede que desemboque huya sin combatir y en que en el siguiente capítulo en que Eloise traicione a Lord Ceballos y se una a ellas, sobre todo si Alfonse ha muerto.
 
 #### Abandonando la fiesta elegantemente
 

@@ -357,3 +357,5 @@ Fratelli
 Noeles
 FOMO
 Wicked
+jugadore
+directore
