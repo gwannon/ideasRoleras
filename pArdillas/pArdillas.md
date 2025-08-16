@@ -1,6 +1,6 @@
 \sinc
 
-# Ardillas❲pardillas ver. 0.1❳ [por Gwannon](https://gwannon.com/)
+# pArdillas ver. 0.2 [por Gwannon](https://gwannon.com/)
 
 \conc
 
@@ -12,12 +12,16 @@ Cuando digamos «cacahuete» nos referimos a una vaina de cacahuete y cuando hab
 
 A la hora de crear tu ardilla, debes elegir simplemente el color del pelaje del cuerpo (cabeza y espalda), de las orejas, de la tripa y de la cola. Solo se puede repetir un color una vez. Esto te dará una serie de ventajas en juego.
 
+\sinc
+
 |&nbsp;|Blanco|Negro|Rojo|Gris|
 |---|---|---|---|---|
 |Cuerpo|XXX|Puedes devolver un cacahuete que acabas de coger al moverte sin ser visto.|XXX|XXX|
 |Orejas|XXX|XXX|XXX|XXX|
 |Tripa|XXX|XXX|XXX|XXX|
 |Cola|Eres tan adorable que los humanos no pueden apartar la vista de ti si tienes éxito en una tirada.|Los depredadores crees que eres una especie de mofeta raquítica y huyen si consigues una tirada exitosa.|XXX|XXX|
+
+\conc
 
 No puede haber nunca dos ardillas con la misma combinación de colores y partes del cuerpo.
 
