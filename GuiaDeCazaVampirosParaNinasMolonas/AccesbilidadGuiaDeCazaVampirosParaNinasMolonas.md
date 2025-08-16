@@ -1825,6 +1825,7 @@ Las tradiciones vampíricas dictán que Alfonse deje de ser un noob, para ser un
 Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que tenga alguna relación y a quien quiera tener cerca como su sierva.
 
 Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como sustituta_, lo cual será un desastre completo, o puede empezar a buscar algún sustituto, lo cual no es nada rápido y fácil.
+
 ### La casita de chocolate
 
 __NOCHE__
@@ -1832,6 +1833,8 @@ __NOCHE__
 Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo a lo que no se puedan resistir.
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
+
+[![Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2](./assests/images/LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")
 
 Tus cazadoras recibirán una visita inesperada a la salida de clase, un chambelán, un grupo de mariachis, un tragafuegos, etc. excentricidades de youtuber que les entregarán una invitación a la fiesta de cumpleaños de Celose.
 
@@ -1843,9 +1846,7 @@ El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, 
 
 Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
 
-Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. 
-
-Y todos sus compañeros de clase les habrán inundado de mensajes.
+Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. Y todos sus compañeros de clase les habrán inundado de mensajes.
 
 Tus cazadoras deberán conseguir que sus padres firmen la autorización. Quizás tengan buenas notas y nadie sepa de sus actividades nocturnas y sus padres se las firmen encantados.
 
@@ -1857,25 +1858,27 @@ El día que vayan de compras con el cheque regalo, puedes hacerles una escena di
 
 #### El fiestón
 
-Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado.
+Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado. 
 
-Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o a supervisado el trabajo del resto del equipo de maquillaje.
+Es facil para los actores esconderse entre los arboles y sorprender a los 
 
-En el centro del set, tras seguir un oscuro camino dando vueltas en espiral por el bosque, está la casa de chocolate, hecha de chocolate, de hecho, toda la casa es comestible.
+Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
+
+En el centro del set, tras seguir un oscuro camino dando vueltas en espiral por el bosque, está la casita de la bruja, hecha de chocolate y guirlache, de hecho, toda la casa es comestible.
+
+Celose, como ya hemos dicho siente fascinación por las cosas de los mortales incluso los aprecia aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
 
 XXX
 
-Celose, como ya hemos dicho es bastante humana en su forma de ser y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
-
-XXX
-
-Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a proposito para limitar sus capacidades.
+Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a propósito para limitar sus capacidades.
 
 #### Detectar a Eloise como vampira
 
 Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
 
-Recuerda que su disfraz de bruja es muy «Wicked» y como la protagonista está muy tapada, salvo manos y cara donde hay pintura verde, con lo que tratar hacer pruebas será muy complicado. 
+Está claro, que tus cazadoras deben ya saber que todo esto huele mucho a plan vampiro, pero deben caer en la trampa para poder seguir como sigue la historia, así lo primero debería saber es conocer a su próximo objetivo y saber de qué va. Es por ello que la fiesta es la manera principal de saber si Celose es una vampira.
+
+Recuerda que su disfraz de bruja es de «Wicked» y como la protagonista está muy tapada, salvo manos y cara donde hay pintura verde, con lo que tratar hacer pruebas será muy complicado. 
 
 * El disfraz y el maquillaje no permiten ver ninguno de sus posibles rasgos vampíricos como palidez.
 * Como buena cocinera, el ajo lo soporta bastante bien, mientras no entre en contacto con él o lo ingiera.
@@ -1887,11 +1890,13 @@ Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefu
 * Estropear su evento, del que se siente muy orgullosa. Solo hay que ver el número de visionados que hay en el directo.
 * Robarle el foco y que los seguidores empiecen a hablar más de las invitadas que de ella.
 
-XXX
+> Lo curioso de esta escena es que mientras se celebra la fiesta, Eloise y tus cazadoras estarán observándose en busca de pruebas que confirmen sus sospechas. Esto puede crear unas situaciones muy divertidas mientras se mueven en un mundo de seres mágicos, música pop moderna y dulces por todos los lados.
 
 #### Descubrir la trampa
 
 XXX
+
+Una opción interesante que puede evitar un combate es convencer a Eloise de que si acaba con ellas, Celose deberá desaparecer, ya que será la responsable de sus muertes y perderá todo lo que ha creado con los años. Eloise, a priori, está decidida a sacrificar a Celose para ascender en la escala de poder vampírica, pero su decisión no es tan firme como ella cree.
 
 #### Combate en la casita de chocolate
 
@@ -3191,6 +3196,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Your heaven’s a lie By [keep-breathing](https://www.deviantart.com/keep-breathing/art/Your-heaven-s-a-lie-213258685)
 * Light from an open door by [rawpixel.com](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm)
 * Breathtaking shot of a sunset along the street in the middle of a modern city by [wirestock](https://www.freepik.com/free-photo/breathtaking-shot-sunset-along-street-middle-modern-city_9932265.htm)
+* Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by [LA2](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg)
 
 * Marcha contra narcos y tratantes por [Pulso Cristiano](https://www.flickr.com/photos/pulsocristiano/28400999812/) Creative Commons Atribución-Compartir Igual 2.0 Genérica
 * sentada barcelona por [vdevivienda](https://www.flickr.com/photos/vdevivienda/243035023/) Creative Commons Atribución-NoComercial-CompartirIgual 2.0 Genérica

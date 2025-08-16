@@ -975,6 +975,7 @@ Las tradiciones vampíricas dictán que Alfonse deje de ser un noob, para ser un
 Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que tenga alguna relación y a quien quiera tener cerca como su sierva.
 
 Si _Alfonse está muerto_, Lord Ceballos empezará a probar a _Verónica como sustituta_, lo cual será un desastre completo, o puede empezar a buscar algún sustituto, lo cual no es nada rápido y fácil.
+
 ### La casita de chocolate
 
 __NOCHE__
@@ -982,6 +983,8 @@ __NOCHE__
 Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo a lo que no se puedan resistir.
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
+
+[![Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2](./assests/images/LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")
 
 Tus cazadoras recibirán una visita inesperada a la salida de clase, un chambelán, un grupo de mariachis, un tragafuegos, etc. excentricidades de youtuber que les entregarán una invitación a la fiesta de cumpleaños de Celose.
 
@@ -991,13 +994,11 @@ El resto de objetos de la bolsa ponles lo que quieras. Pero que sea caro y lujos
 
 El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, pero nada cómoda para escalar, correr, pelear, etc. Pero si permite esconder fácilmente equipo.
 
-Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
-
-Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. 
-
 \sp
 
-Y todos sus compañeros de clase les habrán inundado de mensajes.
+Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
+
+Habrá un equipo de grabación que hará video de todo y Celose publicará a la noche etiquetando sus perfiles (si los tienen). Cuando se despierten por la mañana tendrán miles de likes y seguidores nuevos. Y todos sus compañeros de clase les habrán inundado de mensajes.
 
 Tus cazadoras deberán conseguir que sus padres firmen la autorización. Quizás tengan buenas notas y nadie sepa de sus actividades nocturnas y sus padres se las firmen encantados.
 
