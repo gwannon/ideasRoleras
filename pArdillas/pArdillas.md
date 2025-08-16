@@ -31,14 +31,14 @@ Cuando empiece la partida, debéis meter en un cuenco profundo o algún tipo de 
 
 |Semillas|Resultado|
 |---|---|
-|1|Fallo|
-|2|Éxito con consecuencia|
-|3|Éxito completo|
-|4 o más|Éxito crítico|
+|1|**Fallo:** XXX|
+|2|**Éxito con consecuencia:** XXX|
+|3|**Éxito sin consecuencias:** XXX|
+|4 o más|**Éxito crítico:** XXX. Si consigues 5 semillas puedes guardar 1 y sigue siendo un crítico.|
 
 Cualquier resultado se puede modificar si te metes las semillas que no necesitas en el papo como las ardillas y lo sacas cuando te convenga. 
 
-Si entre las semillas hay alguna pocha es siempre una pifia. Puedes evitar la pifia comiéndotela junto a todas las semillas que tengas en los papos o abazones. Recuerda que las ardillas hacen estas cosas.
+Si entre las semillas hay alguna pocha, es siempre una pifia. Puedes evitar la pifia comiéndotela junto a todas las semillas que tengas en los papos o abazones. Recuerda que las ardillas hacen estas cosas. Una **pifia supone que todo lo que pudiera ir mal irá mal**, así que sé creativo con lo que le pasa a la desgraciada ardilla.
 
 Se pueden hacer trampas tratando de coger los cacahuetes más grandes, pero recuerda que a medida que avance la partida solo quedarán cáscaras con menos semillas. 
 
@@ -53,7 +53,7 @@ Si hay personas alérgicas a los cacahuetes, puede usar un d10 y mira la tabla:
 |1|Pifia|
 |2-4|Fallo|
 |5-6|Éxito con consecuencia|
-|7-9|Éxito completo|
+|7-9|Éxito sin consecuencias|
 |10|Éxito crítico|
 
 ## Chasquidos, silbidos y chillidos
