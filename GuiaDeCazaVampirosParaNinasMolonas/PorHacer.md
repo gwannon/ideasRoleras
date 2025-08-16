@@ -2,15 +2,13 @@
 
 Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado. 
 
-Es facil para los actores esconderse entre los arboles y sorprender a los 
+Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados y caracterizados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
 
-Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo tenga una sonrisa demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
-
-En el centro del set, tras seguir un oscuro camino dando vueltas en espiral por el bosque, está la casita de la bruja, hecha de chocolate y guirlache, de hecho, toda la casa es comestible.
+Es fácil para los actores esconderse entre los árboles y sorprender a los invitados, bien para darles terribles sustos o bien para aparecer como mágicos seres. Los actores tienen un guion que contar y la idea es hacer entretener a las invitadas y hacerlas avanzar por el camino dispuesto en forma de espiral que lleva al centro del bosque. Allí está la casita de la bruja, hecha de chocolate y guirlache, de hecho, toda la casa es comestible.
 
 Celose, como ya hemos dicho siente fascinación por las cosas de los mortales incluso los aprecia aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
 
-XXX
+Fuera de la casa de chocolate hay una mesa gigantesca para unas 30 comensales decorada como si fuera la mesa donde toma el té el sombrerero loco en Alicia en el país de las maravillas. Allí les dará una merienda mientras charla con ellas.
 
 \sp
 
@@ -44,9 +42,13 @@ XXX
 
 Una opción interesante que puede evitar un combate es convencer a Eloise de que si acaba con ellas, Celose deberá desaparecer, ya que será la responsable de sus muertes y perderá todo lo que ha creado con los años. Eloise, a priori, está decidida a sacrificar a Celose para ascender en la escala de poder vampírica, pero su decisión no es tan firme como ella cree.
 
+Esto puede que desemboque en el siguiente capítulo en que Eloise traicione a Lord Ceballos y se una a ellas, sobre todo si Alfonse ha muerto.
+
 #### Combate en la casita de chocolate
 
-El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte de la fiesta. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.  
+El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte del bosque si ellas lo buscan. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo. 
+
+Cuando las cazadoras cojan la tarta, Eloise activará un mando a distancia y la bomba incendiaria del interior dela tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse.
 
 La casita de chocolate tiene una serie de características que debes tener en cuenta en el combate. Es un entorno cerrado y pequeño unos 12 metros cuadrados (3x4 m) y unos 3 altos en la parte más alta.
 
@@ -150,4 +152,4 @@ También puede ser una poderosa aliada en combate, aunque solo sea por sus poder
 
 > Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.
 
-Si alguna de tus cazadoras tienen destaca por su belleza, su carisma y tiene gusto por la moda y se interesa del famoseo, podrá atraer la atención de Eloise y esta podría trabar una amistad más profunda con ella y, como siempre, ofrecerle convertirla en un chupasangre.
+Si alguna de tus cazadoras destaca por su belleza, su carisma y tiene gusto por la moda y se interesa del famoseo, podrá atraer la atención de Eloise y esta podría trabar una amistad más profunda con ella y, como siempre, ofrecerle convertirla en una chupasangre.
