@@ -17,9 +17,9 @@ A la hora de crear tu ardilla, debes elegir simplemente el color del pelaje del 
 |&nbsp;|Blanco|Negro|Rojo|Gris|
 |---|---|---|---|---|
 |Cuerpo|XXX|Puedes devolver un cacahuete que acabas de coger al moverte sin ser visto.|XXX|XXX|
-|Orejas|XXX|XXX|XXX|XXX|
+|Orejas|Si lo deseas puedes conseguir un éxito sin consecuencias al seducir a otros rodeores.|Si lo deseas puedes conseguir un éxito sin consecuencias al mentir a otros roedores.|Si lo deseas puedes conseguir un éxito sin consecuencias al escuchar.|Si lo deseas puedes conseguir un éxito sin consecuencias al negociar con otros roedores.|
 |Tripa|XXX|XXX|XXX|XXX|
-|Cola|Eres tan adorable que los humanos no pueden apartar la vista de ti si tienes éxito en una tirada.|Los depredadores crees que eres una especie de mofeta raquítica y huyen si consigues una tirada exitosa.|XXX|XXX|
+|Cola|Eres tan adorable que los humanos no pueden apartar la vista de ti si tienes éxito en una tirada.|Los depredadores creen que eres una especie de mofeta raquítica y huyen si consigues una tirada exitosa.|XXX|XXX|
 
 \conc
 
