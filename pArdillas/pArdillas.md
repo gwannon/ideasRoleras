@@ -1,12 +1,18 @@
 \sinc
 
-# pArdillas ver. 0.2 [por Gwannon](https://gwannon.com/)
+# pArdillas ver. 0.3 [por Gwannon](https://gwannon.com/)
 
 \conc
 
+
+«pArdillas» es un juego de rol de una página donde serás una alocada ardilla que vive en un parque de una gran ciudad. Tus aventuras consistirán en conseguir comida de les paseantes del parque y evitar los peligros como perros, gatos o humanos.
 XXX
 
-Cuando digamos «cacahuete» nos referimos a una vaina de cacahuete y cuando hablamos de «semillas» nos referimos a cada semilla que hay dentro de cada cacahuete.
+Cuando se diga «cacahuete», se hace referencia a una vaina de cacahuete y cuando se habla de «semillas» se refiere a cada semilla que hay dentro de cada cacahuete.
+
+## El mundo de pArdillas
+
+XXX
 
 ## Creando tu ardilla
 
@@ -16,8 +22,8 @@ A la hora de crear tu ardilla, debes elegir simplemente el color del pelaje del 
 
 |&nbsp;|Blanco|Negro|Rojo|Gris|
 |---|---|---|---|---|
-|Cuerpo|XXX|Puedes devolver un cacahuete que acabas de coger al moverte sin ser visto.|XXX|XXX|
-|Orejas|Si lo deseas puedes conseguir un éxito sin consecuencias al seducir a otros rodeores.|Si lo deseas puedes conseguir un éxito sin consecuencias al mentir a otros roedores.|Si lo deseas puedes conseguir un éxito sin consecuencias al escuchar.|Si lo deseas puedes conseguir un éxito sin consecuencias al negociar con otros roedores.|
+|Cuerpo|Puedes devolver un cacahuete que acabas de coger antes de abrirlo XXX|Puedes devolver un cacahuete que acabas de coger antes de abrirlo al moverte sin ser visto.|Puedes devolver un cacahuete que acabas de coger antes de abrirlo XXX|Puedes devolver un cacahuete que acabas de coger antes de abrirlo al saltar y trepar|
+|Orejas|Puedes conseguir un éxito sin consecuencias al seducir a otros roedores sin coger un cacahuete.|Puedes conseguir un éxito sin consecuencias al mentir a otros roedores sin coger un cacahuete.|Puedes conseguir un éxito sin consecuencias al escuchar sin coger un cacahuete.|Puedes conseguir un éxito sin consecuencias al negociar con otros roedores sin coger un cacahuete.|
 |Tripa|XXX|XXX|XXX|XXX|
 |Cola|Eres tan adorable que los humanos no pueden apartar la vista de ti si tienes éxito en una tirada.|Los depredadores creen que eres una especie de mofeta raquítica y huyen si consigues una tirada exitosa.|XXX|XXX|
 
@@ -26,6 +32,8 @@ A la hora de crear tu ardilla, debes elegir simplemente el color del pelaje del 
 No puede haber nunca dos ardillas con la misma combinación de colores y partes del cuerpo.
 
 ## Sistema de juego
+
+### Tiradas
 
 Cuando empiece la partida, debéis meter en un cuenco profundo o algún tipo de saco un montón de cacahuetes. Cada vez que haya que hacer una tirada le jugadore/directore deberá coger un cacahuete al azar y abrirlo. El número de semillas que haya dentro dictará el valor de la tirada.
 
@@ -56,7 +64,7 @@ Si hay personas alérgicas a los cacahuetes, puede usar un d10 y mira la tabla:
 |7-9|Éxito sin consecuencias|
 |10|Éxito crítico|
 
-## Chasquidos, silbidos y chillidos
+### Chasquidos, silbidos y chillidos
 
 Tu mesa no puede hablar normalmente cuando interpreten a sus ardillas, solo podrán chasquear la lengua, silbar y emitir pequeños chillidos. El lenguaje ardilla es muy sencillo. Aquí tienes sus bases principales.
 
@@ -70,3 +78,27 @@ Tu mesa no puede hablar normalmente cuando interpreten a sus ardillas, solo podr
 Si mientras chasquean o chillan pierdes semillas de tus abazones, perdidos están.
 
 Además podrán hacer mímica para comunicarse entre ellas como hacen las ardillas de dibujos animados. XXX
+
+### Miedo y daño
+
+Las ardillas son criaturas asustadizas y frágiles, así que cuando se asusten o reciban daño salen corriendo y se ocultan en su refugio en un árbol hasta pasada una escena completa. Es decir, si un gato casero, asusta a tu ardilla, no podrás actuar en la siguiente escena donde tratan de robar las llaves del puesto ambulante de snacks del vendedor callejero y volverá para cuando intenten robar todos los paquetes de nueces del carrito.
+
+XXX
+
+## Peligros del parque
+
+XXX
+
+## Semillas de aventuras
+
+XXX
+
+* No sabéis por qué, pero, desde que pusieron unas placas metálicas en el parque, los humanos os dan menos comida. Quizas el consejo de cuervos de la gran pradera de pícnic sepan qué pasa.
+* Una prima del bosque ha venido para parar unos días, pero no está preparada para la vida en el parque y no deja de meterse e en problemas.
+
+## Licencia
+
+pArdillas está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Se han usado imágenes libres de derecho y pasamos a atribuirlas.
+
+* Set of cute squirrels with various pose and emotion cartoon vector by [johnstocker](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm)
+* City park with wooden picnic table and firework display at night. vector cartoon illustration of holiday celebration with summer landscape of public garden, town buildings and firecrackers by [upklyak](https://www.freepik.com/free-vector/city-park-with-wooden-picnic-table-firework-display-night-vector-cartoon-illustration-holiday-celebration-with-summer-landscape-public-garden-town-buildings-firecrackers_23356526.htm)
