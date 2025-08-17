@@ -110,7 +110,7 @@ Estas gigantescas criaturas se mueven erráticamente por el parque haciendo sus 
 
 Estos cazadores diurnos con excelente olfato se vuelven locos por las ardillas y casi siempre van atados a une paseante.
 
-> Si están sueltos no dejarán de perseguir a la pArdilla que detecten.
+> Si están sueltos, no dejarán de perseguir a la pArdilla que detecten.
 
 ## Semillas de aventuras
 
