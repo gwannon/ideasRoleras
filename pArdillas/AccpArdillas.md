@@ -4,7 +4,7 @@
 
 ## El parque de tus pArdillas
 
-En este juego interpretarás una pArdilla (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte.
+En este juego interpretarás a una pArdilla (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte.
 
 [![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-2.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
 
@@ -20,7 +20,7 @@ Para jugar a pArdillas solo necesitas **lápiz, papel y una bolsa de cacahuetes*
 
 ### Tiradas
 
-Cuando empiece la partida, debéis meter en un cuenco profundo o algún tipo de saco un buen puñado de cacahuetes (15 o 20 cacahuetes). Cada vez que haya que hacer una tirada le jugadore/directore deberá coger un cacahuete al azar y abrirlo. El número de semillas que haya dentro dictará el valor de la tirada.
+Cuando empiece la partida, debéis meter en un cuenco profundo o algún tipo de saco un buen puñado de cacahuetes (15 o 20 cacahuetes). Cada vez que haya que hacer una tirada, le jugadore/directore deberá coger un cacahuete al azar y abrirlo. El número de semillas que haya dentro dictará el valor de la tirada.
 
 |Semillas|Resultado|
 |---|---|
@@ -32,7 +32,7 @@ Les jugadores pueden modificar cualquiera de sus tiradas, si se meten las semill
 
 Si entre las semillas hay alguna pocha, es siempre una pifia. Puedes evitar la pifia comiéndotela junto a todas las semillas que tengas en los papos o abazones. Recuerda que las ardillas hacen estas cosas. Una **pifia supone que todo lo que pudiera ir mal irá mal**, así que sé creativo con lo que le pasa a la desgraciada pArdilla.
 
-Cuando se acaben los cacahuetes del cuenco se mete un nuevo puñado. Claramente se pueden hacer trampas tratando de coger los cacahuetes más grandes, pero recuerda que a medida que avance la partida solo quedarán cacahuetes más pequeños y por extensión con menos semillas. 
+Cuando se acaben los cacahuetes del cuenco se mete un nuevo puñado. Claramente, se pueden hacer trampas tratando de coger los cacahuetes más grandes, pero recuerda que a medida que avance la partida solo quedarán cacahuetes más pequeños y por extensión con menos semillas. 
 
 > Las semillas que sobren de las tiradas y no estén chupadas y podéis dejarlas en otro cuenco para que se las coma le directore de juego. 
 
@@ -48,9 +48,9 @@ Es decir, si un gato casero, asusta a tu pArdilla, no podrás actuar en la sigui
 
 ### Chasquidos, silbidos y chillidos
 
-Tu mesa no puede hablar normalmente cuando interpreten a sus pArdillas y hablen entre ellas, **solo podrán chasquear la lengua, silbar y emitir pequeños chillidos**. Pero si podrán hablar normal cuando se dirijan a le directore y le expliquen que quieren hacer.
+Tu mesa no puede hablar normalmente cuando interpreten a sus pArdillas y hablen entre ellas, **solo podrán chasquear la lengua, silbar y emitir pequeños chillidos**. Pero si podrán hablar normal cuando se dirijan a le directore y le expliquen qué quieren hacer.
 
-El lenguaje de las ardilla es muy sencillo. Aquí tienes sus bases principales.
+El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
 
 * **1 chasquido:** Sí
 * **2 chasquidos:** No
@@ -62,7 +62,7 @@ El lenguaje de las ardilla es muy sencillo. Aquí tienes sus bases principales.
 * **1 chillido + 1 silbido:** Bajar del árbol
 * **1 silbido + 1 chasquido:** No te muevas
 
-Si mientras chasquean o chillan pierdes semillas de tus abazones, perdidos están.
+Si mientras chasquean, silban o chillan pierden semillas de tus abazones, perdidos están.
 
 Podrán **hacer mímica para comunicarse entre ellas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
 ## Creando tu pArdilla
@@ -116,7 +116,7 @@ Estos cazadores diurnos con excelente olfato se vuelven locos por las ardillas y
 
 Este listado de semillas de aventuras pueden servirte como base para tus aventuras.
 
-* No sabéis por qué, pero, desde que pusieron unas placas metálicas en el parque, les paseantes os dan menos comida. Quizas el consejo de cuervos de la gran pradera de pícnics sepan qué pasa.
+* No sabéis por qué, pero, desde que pusieron unas placas metálicas en el parque, les paseantes os dan menos comida. Quizás el consejo de cuervos de la gran pradera de pícnics sepan qué pasa.
 * Una prima del bosque ha venido para parar unos días, pero no está preparada para la vida en el parque y no deja de meterse en problemas.
 * Hay un montón de paseantes con ropas raras, peleándose por unas nueces blancas gigantes (una pachanga dominguera del deporte que quieras). Si tus pArdillas roban una de esas nueces, tendrán comida durante semanas.
 
