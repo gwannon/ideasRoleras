@@ -108,3 +108,15 @@
 {"rule":"OBSCURE","sentence":"^\\QEn el centro del set, tras seguir un oscuro camino danto vueltas en espiral por el bosque, está la casa de chocolate, hecha de chocolate, de hecho, toda la casa es comestible.\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QEn el centro del set, tras seguir un oscuro camino dando vueltas en espiral por el bosque, está la casa de chocolate, hecha de chocolate, de hecho, toda la casa es comestible.\\E$"}
 {"rule":"FORM","sentence":"^\\QCelose, como ya hemos dicho es bastante humana en su forma de ser y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QTus aventuras consistirán en conseguir comida de les paseantes del parque y evitar los peligros como perros, gatos o humanos.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QLes jugadores pueden modificar cualquiera de sus tiradas, si se meten las semillas que no necesitan en el papo como las ardillas y lo sacan cuando les convenga.\\E$"}
+{"rule":"FORM","sentence":"^\\QCuando una ardilla recibe una consecuencia, esta puede tener varias formas, desde perder algo importante o que la detecten depredadores hasta recibir daño o ser asustado.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVoulez-vous coucher avec moi (ce soir) ?\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qal tratar de entender lo que hacen les paseantes.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qles paseantes no pueden apartar la vista de ti de lo adorable que eres.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\QNo sabéis por qué, pero, desde que pusieron unas placas metálicas en el parque, les paseantes os dan menos comida.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSet of cute squirrels with various pose and emotion cartoon vector by johnstocker\nCity park with wooden picnic table and firework display at night.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qvector cartoon illustration of holiday celebration with summer landscape of public garden, town buildings and firecrackers by upklyak\nPeanut icon by Freepik\nTop view artificial grass soccer field background texture by jcomp\nSet of seamless border old gray rock and grass by valadzionak_volha\nRealistic bushes green hedges set isolated on white background vector illustration by macrovector\nFuente Logger por Typographer Mediengestaltung\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVector cartoon illustration of holiday celebration with summer landscape of public garden, town buildings and firecrackers by upklyak\nPeanut icon by Freepik\nTop view artificial grass soccer field background texture by jcomp\nSet of seamless border old gray rock and grass by valadzionak_volha\nRealistic bushes green hedges set isolated on white background vector illustration by macrovector\nFuente Logger por Typographer Mediengestaltung\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qentender los símbolos que ponen les paseantes en el parque.\\E$"}
+{"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qusar algún artilugio sencillo de les paseantes que hayan visto usar.\\E$"}

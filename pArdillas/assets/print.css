@@ -19,7 +19,7 @@ body {
   padding: 0;
   font-family: "PT Sans Narrow", sans-serif;
   color: var(--color-black);
-  font-size: 12px;
+  font-size: 12.5px;
 }
 
 body:before {
@@ -30,7 +30,7 @@ body:before {
   position: fixed;
   top: 0px;
   left: 0px;
-  background: transparent url(./images/border1.png) top center repeat-x;
+  background: transparent url(./images/realistic-bushes-green-hedges-set-isolated-white-background-vector-illustration_1284-83613.png) top center repeat-x;
 }
 
 body:after {
@@ -41,7 +41,7 @@ body:after {
   position: fixed;
   bottom: 0px;
   left: 0px;
-  background: transparent url(./images/border2.png) bottom center repeat-x;
+  background: transparent url(./images/set-seamless-border-old-gray-rock-grass_105738-1209.png) bottom center repeat-x;
 }
 
 body > * {
@@ -87,6 +87,10 @@ blockquote p {
   padding: 0px;
   margin: 0px;
   font-style: italic;
+}
+
+img  {
+  width: 100%;
 }
 
 /* Titulares */
@@ -143,13 +147,16 @@ h2 {
   text-transform: uppercase;
   font-size: 1.6em;
 }
+*:is(p,ul,ol) + *:is(h2,h3,h4) {
+  margin-top: 10px;
+}
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.1em;
 }
 
 h4 {
-  color: var(--color-black);
+  color: var(--color-red);
   font-size: 1em;
 }
 
@@ -191,7 +198,6 @@ ul li:before {
   color: var(--color-white);
   background: transparent url(./images/peanut_1412557.png) center center no-repeat;
   background-size: 10px 10px;
-
 } 
 
 table {
@@ -201,7 +207,7 @@ table {
   border: 2px dashed var(--color-red);
   padding: 5px;
   position: relative;
-
+  font-size: 12px;
 }
 
 table tbody tr:nth-child(odd) {

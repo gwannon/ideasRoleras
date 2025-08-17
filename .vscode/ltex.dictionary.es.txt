@@ -360,3 +360,6 @@ Wicked
 jugadore
 directore
 pArdillas
+JdR
+pecanas
+pArdilla
