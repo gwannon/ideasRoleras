@@ -1,0 +1,282 @@
+:root {
+  --padding: 62px; /*Ancho de los bordes de la página*/
+  --color-red: #c56229;
+  --color-white: #afeaa6;
+  --color-black: #000;
+}
+
+@font-face {
+  font-family: 'Logger';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./logger/Logger.ttf') format('truetype');
+}
+
+body {
+  background: var(--color-white) url(./images/top-view-artificial-grass-soccer-field-background-texture.jpg) repeat top center;
+  background-size: contain;
+  margin: 0;
+  padding: 0;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: var(--color-black);
+  font-size: 12px;
+}
+
+body:before {
+  content: "";
+  display: block;
+  height: var(--padding);
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: transparent url(./images/border1.png) top center repeat-x;
+}
+
+body:after {
+  content: "";
+  display: block;
+  height: var(--padding);
+  width: 100%;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  background: transparent url(./images/border2.png) bottom center repeat-x;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+  margin: 10px 0px;
+  color: white;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+  font-style: italic;
+}
+
+/* Titulares */
+
+h1 {
+  background: transparent url(./images/2201.w023.n001.1648B.p1.1648.jpg) center bottom no-repeat;
+  background-size: auto 100%;
+  font-family: 'Logger', sans-serif;
+  color: var(--color-red);
+  height: 100px;
+  font-size: 32px;
+  margin-bottom: 0px;
+  margin-top: 5px !important;
+  padding: 20px !important;
+  text-shadow: 0px 2px 4px #000000, 0px -2px 4px #000000, 2px 0px 4px #000000, -2px 0px 4px #000000;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  align-items: flex-end;
+  align-content: flex-end;
+  font-weight: 400;
+}
+
+h1 > strong {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+h1 > a {
+  text-align: right;
+  font-size: 16px;
+  width: 100%;
+  color: var(--color-white);
+  font-family: 'Logger', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3, 
+h4 {
+  font-family: 'Logger', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  /*text-shadow: 0px 0px 11px #000000;*/
+  margin-top: 5px;
+  text-shadow: 0px 1px 1px #000000, 0px -1px 12px #000000, 1px 0px 1px #000000, -1px 0px 1px #000000;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.4em;
+}
+
+h4 {
+  color: var(--color-black);
+  font-size: 1em;
+}
+
+h2 + p, 
+h3 + p,
+h4 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ul {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-black);
+}
+
+ul, ol {
+  padding-left: 12px;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 10px;
+  height: 10px;
+  top: 3px;
+  left: -12px;
+  display: block;
+  color: var(--color-white);
+  background: transparent url(./images/peanut_1412557.png) center center no-repeat;
+  background-size: 10px 10px;
+
+} 
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: 2px dashed var(--color-red);
+  padding: 5px;
+  position: relative;
+
+}
+
+table tbody tr:nth-child(odd) {
+  background-color: #ff000047;
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 700;
+}
+
+a.pdf {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  background-color: var(--color-red);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: 'Logger', sans-serif;
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+  .saltocolumna {
+    display: none !important;
+  }
+  .columns {
+    columns: 1;
+  }
+
+  h1 {
+        justify-content: center;
+  }
+
+  h1 > a {
+    text-align: center;
+  }
+
+  body:before,
+  body:after {
+    opacity: 0;
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+
+}

@@ -72,9 +72,6 @@ A la hora de crear tu ardilla, debes elegir simplemente el color del pelaje del 
 |**Cola:** Si consigues una tirada exitosa, …|… los humanos no pueden apartar la vista de ti de lo adorable que eres.|… los depredadores creen que eres una especie de mofeta raquítica y huyen.|… XXX|… XXX|
 
 No puede haber nunca dos ardillas con la misma combinación de colores y partes del cuerpo.
-
-\sp
-
 ## Peligros del parque
 
 XXX
