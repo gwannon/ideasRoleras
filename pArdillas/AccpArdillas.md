@@ -73,10 +73,10 @@ A la hora de crear tu pArdilla, debes elegir simplemente el color del pelaje del
 
 |&nbsp;|Blanco|Negro|Rojo|Gris|
 |---|---|---|---|---|
-|**Cuerpo:** Puedes devolver un cacahuete que acabas de coger antes de abrirlo al …|… esquivar depredadores|… moverte sin ser visto.|… tratar de entender lo que hacen les paseantes.|… saltar y trepar|
-|**Orejas:** Puedes conseguir un éxito sin consecuencias sin coger un cacahuete al …|… seducir a otros roedores.|… mentir a otros roedores.|… escuchar.|… negociar con otros roedores.|
-|**Tripa:** Si te tragas todos los cacahuetes de tus abazones (mínimo uno), hasta el final de la escena puedes …|… hablar normal al resto de tu mesa.|… entender los símbolos que ponen les paseantes en el parque.|… comunicarte con no roedores.|… usar algún artilugio sencillo de les paseantes que hayas visto usar.|
-|**Cola:** Si consigues una tirada exitosa, …|… les paseantes no pueden apartar la vista de ti de lo adorable que eres.|… los depredadores creen que eres una especie de mofeta raquítica y huyen.|… puedes nadar grandes distancias e incluso sumergirte para recuperar objetos bajo el agua.|… puedes acercarte al fuego, incluso coger algún rescoldo o atravesar una llama.|
+|**Cuerpo:** Puedes devolver un cacahuete que acabas de coger antes de abrirlo al …|esquivar depredadores|moverte sin ser visto.|tratar de entender lo que hacen les paseantes.|saltar y trepar|
+|**Orejas:** Puedes conseguir un éxito sin consecuencias sin coger un cacahuete al …|seducir a otros roedores.|mentir a otros roedores.|escuchar.| negociar con otros roedores.|
+|**Tripa:** Si te tragas todos los cacahuetes de tus abazones (mínimo uno), hasta el final de la escena puedes …|hablar normal al resto de tu mesa.|entender los símbolos que ponen les paseantes en el parque.|comunicarte con no roedores.|usar algún artilugio sencillo de les paseantes que hayas visto usar.|
+|**Cola:** Si consigues una tirada exitosa, …|les paseantes no pueden apartar la vista de ti de lo adorable que eres.|los depredadores creen que eres una especie de mofeta raquítica y huyen.|puedes nadar grandes distancias e incluso sumergirte para recuperar objetos bajo el agua.|puedes acercarte al fuego, incluso coger algún rescoldo o atravesar una llama.|
 
 > No puede haber nunca dos pArdillas con la misma combinación de colores y partes del cuerpo.
 
@@ -92,7 +92,7 @@ Estas negras aves son realmente sabias, sobre todo cuantas más se reúnen. Sabe
 
 ### Fuego y electricidad
 
-Hablamos desde barbacoas a espectáculos de tragafuegos y cables tirados por el viento.
+Las pArdillas no se acercan a estos peligros. Hablamos desde barbacoas a espectáculos de tragafuegos y cables tirados por el viento.
 
 > Siempre que se enfrenten al fuego y/o la electricidad, las consecuencias serán que recibirán daño o serán asustadas.
 

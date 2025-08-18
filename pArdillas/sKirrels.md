@@ -4,13 +4,13 @@
 
 ## Your sKirrels' park
 
-En este juego interpretarás a una sKirrel (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte, etc.
+In this game, you'll play as a sKirrel who lives in a huge park in a large city. The park is vast, with paths, meadows, gardens, lakes with boats, fountains, greenhouses, street food carts, sports fields, and more.
 
 [![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-2.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
 
-Las aventuras que se vivirán allí estarán casi siempre basadas en conseguir comida, muchas veces robándola a les paseantes (las personas que vagan por el parque). Otras veces a escapar de peligros como gatos domésticos o perros o incluso evitar incendios. Por último, podrían tener que enfrentarse a las cosas raras y locas que a veces hacen la gente que visita el parque. 
+The adventures you'll experience there will almost always be about getting food, often by stealing it from walkers (people wandering through the park). Other times, they'll have to escape dangers like domestic cats or dogs, or even prevent fires. Finally, you might have to deal with the weird and crazy things that people visiting the park sometimes do.
 
-> Si quieres ambientar bien tu partida, puedes buscar algún mapa de un parque famoso como el Retiro de Madrid, el parque Güell de Barcelona, Central Park de Nueva York o Hyde Park en Londres y usarlo en tus aventuras. 
+> If you want to set the mood for your game, you can find a map of a famous park like the Retiro Park in Madrid, Park Güell in Barcelona, Central Park in New York, or Hyde Park in London and use it in your adventures.
 
 ## Game system
 
@@ -20,40 +20,40 @@ To play sKirrels you only need **pencil, paper and a bag of in-shell peanuts**.
 
 ### Rolls
 
-Cuando empiece la partida, debéis meter en un cuenco profundo o algún tipo de saco un buen puñado de cacahuetes (15 o 20 cacahuetes). Cada vez que haya que hacer una tirada, le jugadore/directore deberá coger un cacahuete al azar y abrirlo. El número de semillas que haya dentro dictará el valor de la tirada.
+When the game begins, you must place a good handful of peanuts (15 or 20) in a deep bowl or some kind of sack. Each time a roll is made, the player/GM must randomly take a peanut and crack it open. The number of seeds inside will determine the value of the roll.
 
 |Seeds|Result|
 |---|---|
-|1|**Fallo:** Lo que intentabas hacer falla y ese fallo tiene consecuencias.|
-|2|**Éxito con consecuencia:** Lo que intentabas hacer tiene éxito, pero tiene consecuencias.|
-|3|**Éxito sin consecuencias:** Lo que intentabas hacer tiene éxito.|
-|4 o más|**Éxito crítico:** Lo que intentabas hacer tiene éxito excepcional y deberías obtener alguna ventaja. Si consigues 5 semillas puedes guardar 1 y sigue siendo un crítico.|
+|1|**Failure:** What you were trying to do fails, and that failure has consequences.|
+|2|**Success with Consequence:** What you were trying to do succeeds, but has consequences.|
+|3|**Success without Consequence:** What you were trying to do succeeds.|
+|4 or more|**Critical Success:** What you were trying to do succeeds exceptionally, and you should gain some advantage. If you collect 5 seeds, you can save 1, and it's still a critical.|
 
 \sc
 
-Les jugadores pueden modificar cualquiera de sus tiradas, si se meten las semillas que no necesitan en el papo como las ardillas y lo sacan cuando les convenga. Esto no está permitido a le directore.
+Players can modify any of their rolls by stuffing the seeds they don't need into the cheek pouches like squirrels and removing them whenever it suits them. The GM is not allowed to do this.
 
-Si entre las semillas hay alguna pocha, es siempre una pifia. Puedes evitar la pifia comiéndotela junto a todas las semillas que tengas en los papos o abazones. Recuerda que las ardillas hacen estas cosas. Una **pifia supone que todo lo que pudiera ir mal irá mal**, así que sé creativo con lo que le pasa a la desgraciada sKirrel.
+If there are any spoiled seeds among the seeds, it's always a botch. You can avoid botching them by eating them along with all the seeds you have in your cheek pouches. Remember, squirrels do these things. A **botch means that everything that could go wrong will go wrong**, so be creative with what happens to the unfortunate squirrel.
 
-Cuando se acaben los cacahuetes del cuenco se mete un nuevo puñado. Claramente, se pueden hacer trampas tratando de coger los cacahuetes más grandes, pero recuerda que a medida que avance la partida solo quedarán cacahuetes más pequeños y por extensión con menos semillas. 
+When the bag runs out of peanuts, put a new handful in. Obviously, you can cheat by trying to grab the largest peanuts, but remember that as the game progresses, only smaller peanuts will remain, and therefore, with fewer seeds.
 
-> Las semillas que sobren de las tiradas y no estén chupadas podéis dejarlas en otro cuenco para que se las coma le directore de juego. 
+> Any seeds left over from the throws that are not sucked up can be left in another bowl for the game director to eat.
 
 ### Consequences, fear and damage
 
-Cuando una sKirrel recibe una consecuencia, esta puede tener varias formas, desde perder algo importante o que la detecten depredadores hasta recibir daño o ser asustado. Las consecuencias deben tener lógica dentro de la acción que se ha intentado. 
+When a sKirrel receives a consequence, it can take several forms, from losing something important or being spotted by predators to being harmed or scared. The consequences must be logical within the current action.
 
-Las ardillas son criaturas asustadizas y frágiles, así que cuando le directore decida que **las consecuencias que reciben es que se asustan o que sufran daño**, salen corriendo y se ocultan en su madriguera hasta pasada una escena completa. Durante esa **escena perdida** se tranquilizarán o se curarán de sus heridas y estarán preparadas para la siguiente escena.
+Squirrels are skittish and fragile creatures, so when the director decides that **the consequences they receive are being scared or hurt**, they run away and hide in their burrow for a full scene. During that **lost scene**, they will calm down or heal from their injuries and be ready for the next scene.
 
-Es decir, si un gato casero, asusta a tu sKirrel, no podrás actuar en la siguiente escena donde tratan de robar las llaves del puesto de snacks del parque, pero volverá para la siguiente escena cuando intenten usar la llave para birlar las nueces pecanas del puesto.
+Therefore, if a house cat scares your sKirrel, you won't be able to act in the next scene where they try to steal the keys of the park snack cart, but they will return for the next scene when they try to use the key to steal the pecan nuts from the cart.
 
-> Mientras tu sKirrel descansa en su madriguera se come todas las semillas que tenga en el papo. Así que tendrá sus abazones cuando empiece en la siguiente escena.
+> While your sKirrel rests in its burrow, it eats all the seeds in its mouth. So it will have its cheek pouches when it starts the next scene.
 
 ### Tongue click, hisses and squeaks
 
-Tu mesa no puede hablar normalmente cuando interpreten a sus sKirrels y hablen entre ellas, **solo podrán chasquear la lengua, silbar y emitir pequeños chillidos**. Pero si podrán hablar normal cuando se dirijan a le directore y le expliquen qué quieren hacer.
+Your game table can't speak normally when they're playing their sKirrels and talking to each other; **they can only click their tongues, hisses, and make small squeaks**. However, they can speak normally when they address the GM and explain what they want to do.
 
-El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
+Squirrel language is very simple. Here are its basic principles.
 
 * **1 tongue click:** Yes
 * **2 tongue clicks:** No
@@ -65,32 +65,26 @@ El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
 * **1 squeak + 1 hiss:** Tree down
 * **1 hiss + 1 click:** Don't move
 
-Si mientras chasquean, silban o chillan pierden semillas de tus abazones, perdidos están.
+If a sKirrel lose seeds from the cheek pouches while clicking, hissing or squeaking, they can't be recovered.
 
-Podrán **hacer mímica para comunicar ideas más complejas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
+A sKirrel can use mime to communicate more complex ideas, like cartoon squirrels do. You have two or three attempts to make yourself understood, and if you are unsuccessful, you must stop miming and let your treemates act.
 
 \sp
 
 ## Creating your sKirrel
 
-A la hora de crear tu sKirrel, debes elegir simplemente el color del pelaje del cuerpo (cabeza y espalda), de las orejas, de la tripa y de la cola. Solo se puede repetir un color una vez. Esto te dará una serie de ventajas en juego.
+When creating your sKirrel, you only need to choose the color of the fur on its body (head and back), ears, belly and tail. You can only repeat a color once. This will give you several advantages in the game.
 
 [![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-1.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
 
 |&nbsp;|White|Black|Red|Grey|
 |---|---|---|---|---|
-|**Body:** Puedes devolver un cacahuete que acabas de coger antes de abrirlo al …|… esquivar depredadores|… moverte sin ser visto.|… tratar de entender lo que hacen les paseantes.|… saltar y trepar|
-|**Ears:** Puedes conseguir un éxito sin consecuencias sin coger un cacahuete al …|… seducir a otros roedores.|… mentir a otros roedores.|… escuchar.|… negociar con otros roedores.|
-|**Belly:** Si te tragas todos los cacahuetes de tus abazones (mínimo uno), hasta el final de la escena puedes …|… hablar normal al resto de tu mesa.|… entender los símbolos que ponen les paseantes en el parque.|… comunicarte con no roedores.|… usar algún artilugio sencillo de les paseantes que hayas visto usar.|
-|**Tail:** Si consigues una tirada exitosa, …|… les paseantes no pueden apartar la vista de ti de lo adorable que eres.|… los depredadores creen que eres una especie de mofeta raquítica y huyen.|… puedes nadar grandes distancias e incluso sumergirte para recuperar objetos bajo el agua.|… puedes acercarte al fuego, incluso coger algún rescoldo o atravesar una llama.|
+|**Body:** You can return a peanut you just picked up before opening it by …|dodging predators.|moving unseen.|trying to understand what the walker are doing.|jumping and climbing.|
+|**Ears:** You can achieve success without consequences without taking a peanut when …|seducing other rodents.|lying to other rodents.|listening.| negotiating with other rodents.|
+|**Belly:** If you swallow all the peanuts in your cheek pouches (at least one), you can … until the end of the scene.|speak normally to the rest of sKirrels|understand the symbols that the walkers put in the park|communicate with non-rodents|use a simple gadget that the walkers you've seen using|
+|**Tail:** If you roll successfully, …|walkers can't take their eyes off you because you are so adorable.|predators think you're some kind of stunted skunk and run away.|you can swim great distances and even dive to get underwater items.|you can get close to the fire, even pick up some briquettes or walk through a flame.|
 
-
-
-
-
-
-
->There can never be two sKirrels with the same combination of colors and body parts.
+> There can never be two sKirrels with the same combination of colors and body parts.
 
 ## Hazards in the park
 
@@ -116,7 +110,7 @@ These diurnal hunters with an excellent sense of smell go crazy for squirrels an
 
 ### Fire and electricity
 
-It can be barbecues, fire-eating shows, forest fires and electric cables broken by the wind.
+sKirrels do not approach these dangers.It can be barbecues, fire-eating shows, forest fires and/or electric cables broken by the wind.
 
 > Whenever they face fire and/or electricity, the consequences will be that they will take damage or be scared.
 
