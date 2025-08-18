@@ -2,7 +2,7 @@ InfoKey: Title
 InfoValue: pArdillas
 
 InfoKey: Subject
-InfoValue: El juego de rol donde eres una ardilla y vives aventuras en un parque y usaras cacahuetes como dados.
+InfoValue: El juego de rol donde eres una ardilla y vives aventuras en un parque usando cacahuetes como dados.
 
 InfoKey: Author
 InfoValue: Gwannon

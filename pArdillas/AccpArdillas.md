@@ -4,11 +4,11 @@
 
 ## El parque de tus pArdillas
 
-En este juego interpretarás a una pArdilla (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte.
+En este juego interpretarás a una pArdilla (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte, etc.
 
 [![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-2.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
 
-Las aventuras que vivirán estarán casi siempre basadas en conseguir comida, muchas veces robándola a les paseantes (las personas que vagan por el parque). Otras veces a escapar de peligros como gatos domésticos o perros o incluso evitar incendios. Por último, podrían tener que enfrentarse a las cosas raras y locas que a veces hacen la gente que visita el parque. 
+Las aventuras que se vivirán allí estarán casi siempre basadas en conseguir comida, muchas veces robándola a les paseantes (las personas que vagan por el parque). Otras veces a escapar de peligros como gatos domésticos o perros o incluso evitar incendios. Por último, podrían tener que enfrentarse a las cosas raras y locas que a veces hacen la gente que visita el parque. 
 
 > Si quieres ambientar bien tu partida, puedes buscar algún mapa de un parque famoso como el Retiro de Madrid, el parque Güell de Barcelona, Central Park de Nueva York o Hyde Park en Londres y usarlo en tus aventuras. 
 

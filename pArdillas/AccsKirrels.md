@@ -1,14 +1,14 @@
 # s**K**irrels [by Gwannon](https://gwannon.com/)
 
-«sKirrels» es un **juego de rol de una hoja** donde serás una alocada ardilla que vive en un parque de una gran ciudad. Tus aventuras consistirán en conseguir comida de les paseantes del parque y evitar los peligros como perros, gatos o el fuego.
+«sKirrels» is a **one-page RPG** where you will be a crazy squirrel who lives in a park of a big city. Your adventures will consist of getting food from walkers in the park and avoiding dangers such as dogs, cats or fire.
 
-## El parque de tus sKirrels
+## Your sKirrels' park
 
-En este juego interpretarás a una sKirrel (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte.
+En este juego interpretarás a una sKirrel (personaje Ardilla) que vive en un inmenso parque de una gran ciudad. El parque es inmenso, con caminos, praderas, jardines, lagos con botes, fuentes, invernaderos, puestos de comida ambulantes, campos de deporte, etc.
 
 [![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-2.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
 
-Las aventuras que vivirán estarán casi siempre basadas en conseguir comida, muchas veces robándola a les paseantes (las personas que vagan por el parque). Otras veces a escapar de peligros como gatos domésticos o perros o incluso evitar incendios. Por último, podrían tener que enfrentarse a las cosas raras y locas que a veces hacen la gente que visita el parque. 
+Las aventuras que se vivirán allí estarán casi siempre basadas en conseguir comida, muchas veces robándola a les paseantes (las personas que vagan por el parque). Otras veces a escapar de peligros como gatos domésticos o perros o incluso evitar incendios. Por último, podrían tener que enfrentarse a las cosas raras y locas que a veces hacen la gente que visita el parque. 
 
 > Si quieres ambientar bien tu partida, puedes buscar algún mapa de un parque famoso como el Retiro de Madrid, el parque Güell de Barcelona, Central Park de Nueva York o Hyde Park en Londres y usarlo en tus aventuras. 
 
@@ -65,7 +65,7 @@ El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
 Si mientras chasquean, silban o chillan pierden semillas de tus abazones, perdidos están.
 
 Podrán **hacer mímica para comunicar ideas más complejas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
-## Creando tu sKirrel
+## Creating your sKirrel
 
 A la hora de crear tu sKirrel, debes elegir simplemente el color del pelaje del cuerpo (cabeza y espalda), de las orejas, de la tripa y de la cola. Solo se puede repetir un color una vez. Esto te dará una serie de ventajas en juego.
 
@@ -80,13 +80,13 @@ A la hora de crear tu sKirrel, debes elegir simplemente el color del pelaje del 
 
 > No puede haber nunca dos sKirrels con la misma combinación de colores y partes del cuerpo.
 
-## Peligros del parque
+## Hazards in the park
 
-Estos son algunos de los desafíos que puedes encontrar en el parque.
+These are some of the risks you can find in the park.
 
 ### Cats
 
-Cazadores letales y nocturnos, pero pierden el interés rápido.
+Deadly nocturnal hunters, but they lose interest quickly.
 
 > Siempre que se enfrenten a gatos, las consecuencias serán que recibirán daño o serán asustadas.
 
@@ -116,9 +116,9 @@ Estas gigantescas criaturas se mueven erráticamente por el parque haciendo sus 
 
 ### Other rodents
 
-Hablamos de ratas, ratones, hámster e incluso conejos.
+We are talking about rats, mouses, hamsters and even rabbits.
 
-> Considéralos como ardillas que no se suben a los árboles.
+> They are like squirrels that don't climb trees.
 
 ## Adventure seeds
 
