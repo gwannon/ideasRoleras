@@ -46,7 +46,7 @@ Therefore, if a house cat scares your sKirrel, you won't be able to act in the n
 
 > While your sKirrel rests in its burrow, it eats all the seeds in its mouth. So it will have its cheek pouches when it starts the next scene.
 
-### Tongue click, hisses and squeaks
+### Tongue clicks, hisses and squeaks
 
 Your game table can't speak normally when they're playing their sKirrels and talking to each other; **they can only click their tongues, hisses, and make small squeaks**. However, they can speak normally when they address the GM and explain what they want to do.
 
