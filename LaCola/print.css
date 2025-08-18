@@ -243,6 +243,15 @@ a.pdf:nth-of-type(1) {
   body:after {
     opacity: 0;
   }
+
+  body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
 }
 
 @media print {

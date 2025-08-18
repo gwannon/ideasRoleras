@@ -191,7 +191,16 @@ table strong {
 
   .columns {
     columns: 1;
-}
+  }
+  
+  body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
 }
 
 a.pdf {

@@ -432,6 +432,15 @@ hr  {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);
   }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
 }
 
 
