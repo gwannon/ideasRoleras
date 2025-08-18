@@ -67,7 +67,7 @@ El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
 
 Si mientras chasquean, silban o chillan pierden semillas de tus abazones, perdidos están.
 
-Podrán **hacer mímica para comunicarse entre ellas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
+Podrán **hacer mímica para comunicar ideas más complejas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
 
 \sp
 
@@ -90,29 +90,17 @@ A la hora de crear tu sKirrel, debes elegir simplemente el color del pelaje del 
 
 Estos son algunos de los desafíos que puedes encontrar en el parque.
 
-### Crows and ravens
-
-Estas negras aves son realmente sabias, sobre todo cuantas más se reúnen. Saben hablar con todo tipo de criaturas.
-
-> Siempre piden algo a cambio por sus servicios, comida, cosas brillantes, etc.
-
-### Fire and electricity
-
-Hablamos desde barbacoas a espectáculos de tragafuegos y cables tirados por el viento.
-
-> Siempre que se enfrenten al fuego y/o la electricidad, las consecuencias serán que recibirán daño o serán asustadas.
-
 ### Cats
 
 Cazadores letales y nocturnos, pero pierden el interés rápido.
 
 > Siempre que se enfrenten a gatos, las consecuencias serán que recibirán daño o serán asustadas.
 
-### Paseantes
+### Crows and ravens
 
-Estas gigantescas criaturas se mueven erráticamente por el parque haciendo sus cosas raras. No trates de comprender lo que hacen, no tiene mucho sentido.
+Estas negras aves son realmente sabias, sobre todo cuantas más se reúnen. Saben hablar con todo tipo de criaturas.
 
-> Las consecuencias de tratar con paseantes no tienen por qué tener ninguna lógica.
+> Siempre piden algo a cambio por sus servicios, comida, cosas brillantes, etc.
 
 ### Dogs
 
@@ -120,17 +108,35 @@ Estos cazadores diurnos con excelente olfato se vuelven locos por las ardillas y
 
 > Si están sueltos, no dejarán de perseguir a la sKirrel que detecten.
 
+### Fire and electricity
+
+Hablamos desde barbacoas a espectáculos de tragafuegos y cables tirados por el viento.
+
+> Siempre que se enfrenten al fuego y/o la electricidad, las consecuencias serán que recibirán daño o serán asustadas.
+
+### Walkers
+
+Estas gigantescas criaturas se mueven erráticamente por el parque haciendo sus cosas raras. No trates de comprender lo que hacen, no tiene mucho sentido.
+
+> Las consecuencias de tratar con paseantes no tienen por qué tener ninguna lógica.
+
+### Other rodents
+
+Hablamos de ratas, ratones, hámster e incluso conejos.
+
+> Considéralos como ardillas que no se suben a los árboles.
+
 ## Adventure seeds
 
-Este listado de semillas de aventuras pueden servirte como base para tus aventuras.
+This list of ideas can be used as a basis for your adventures.
 
-* No sabéis por qué, pero, desde que pusieron unas placas metálicas en el parque, les paseantes os dan menos comida. Quizás el consejo de cuervos de la gran pradera de pícnics sepan qué pasa.
-* Una prima del bosque ha venido para parar unos días, pero no está preparada para la vida en el parque y no deja de meterse en problemas.
-* Hay un montón de paseantes con ropas raras, peleándose por unas nueces blancas gigantes (una pachanga dominguera del deporte que quieras). Si tus sKirrels roban una de esas nueces, tendrán comida durante semanas.
+* You don't know why, but since they put some metal plates in the park, walkers give you less food. Maybe the Crow Council of the Great Picnic Prairie will know what's up.
+* A cousin from the forest has come to spend a few days with you, but she is not prepared for life in the park and keeps getting into trouble.
+* There are a lot of walkers with strange clothes, fighting for giant white walnuts (a sunday morning party of whatever sport you want). If your sKirrels steal one of those nuts, they'll have food for weeks.
 
 ## License
 
-sKirrels está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Se han usado imágenes y fuentes libres de derecho y pasamos a atribuirlas.
+sKirrels is developed under license [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Royalty-free images and sources have been used and we will attribute them.
 
 * Set of cute squirrels with various pose and emotion cartoon vector by [johnstocker](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm)
 * City park with wooden picnic table and firework display at night. Vector cartoon illustration of holiday celebration with summer landscape of public garden, town buildings and firecrackers by [upklyak](https://www.freepik.com/free-vector/city-park-with-wooden-picnic-table-firework-display-night-vector-cartoon-illustration-holiday-celebration-with-summer-landscape-public-garden-town-buildings-firecrackers_23356526.htm)
@@ -138,6 +144,6 @@ sKirrels está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licen
 * Top view artificial grass soccer field background texture by [jcomp](https://www.freepik.com/free-photo/top-view-artificial-grass-soccer-field-background-texture_7810030.htm)
 * Set of seamless border old gray rock and grass by [valadzionak_volha](https://www.freepik.com/free-vector/set-seamless-border-old-gray-rock-grass_15754394.htm)
 * Realistic bushes green hedges set isolated on white background vector illustration by [macrovector](https://www.freepik.com/free-vector/realistic-bushes-green-hedges-set-isolated-white-background-vector-illustration_58574804.htm)
-* Fuente Logger por [Typographer Mediengestaltung](https://www.1001fonts.com/logger-font.html)
+* Logger font by [Typographer Mediengestaltung](https://www.1001fonts.com/logger-font.html)
 
 > **SAFETY ADVISE.** Before you play this RPG, make sure there are no peanut allergies among your players.

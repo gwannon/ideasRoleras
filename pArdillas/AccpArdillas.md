@@ -64,10 +64,12 @@ El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
 
 Si mientras chasquean, silban o chillan pierden semillas de tus abazones, perdidos están.
 
-Podrán **hacer mímica para comunicarse entre ellas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
+Podrán **hacer mímica para comunicar ideas más complejas** como hacen las ardillas de dibujos animados. Tienes como dos o tres intentos para hacerte entender y si no lo has conseguido, deberás parar tu mímica y dejar hablar a tus compañeras.
 ## Creando tu pArdilla
 
-A la hora de crear tu pArdilla, debes elegir simplemente el color del pelaje del cuerpo (cabeza y espalda), de las orejas, de la tripa y de la cola. Solo se puede repetir un color una vez. Esto te dará una serie de ventajas en juego.[![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-1.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
+A la hora de crear tu pArdilla, debes elegir simplemente el color del pelaje del cuerpo (cabeza y espalda), de las orejas, de la tripa y de la cola. Solo se puede repetir un color una vez. Esto te dará una serie de ventajas en juego.
+
+[![Set of cute squirrels with various pose and emotion cartoon vector by johnstocker](./assets/images/pardillas-1.png "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")](https://www.freepik.com/free-vector/set-cute-squirrels-with-various-pose-emotion-cartoon-vector_33905925.htm "Set of cute squirrels with various pose and emotion cartoon vector by johnstocker")
 
 |&nbsp;|Blanco|Negro|Rojo|Gris|
 |---|---|---|---|---|
@@ -100,6 +102,12 @@ Cazadores letales y nocturnos, pero pierden el interés rápido.
 
 > Siempre que se enfrenten a gatos, las consecuencias serán que recibirán daño o serán asustadas.
 
+### Otros roedores
+
+Hablamos de ratas, ratones, hámster e incluso conejos.
+
+> Considéralos como ardillas que no se suben a los árboles.
+
 ### Paseantes
 
 Estas gigantescas criaturas se mueven erráticamente por el parque haciendo sus cosas raras. No trates de comprender lo que hacen, no tiene mucho sentido.
@@ -117,7 +125,7 @@ Estos cazadores diurnos con excelente olfato se vuelven locos por las ardillas y
 Este listado de semillas de aventuras pueden servirte como base para tus aventuras.
 
 * No sabéis por qué, pero, desde que pusieron unas placas metálicas en el parque, les paseantes os dan menos comida. Quizás el consejo de cuervos de la gran pradera de pícnics sepan qué pasa.
-* Una prima del bosque ha venido para parar unos días, pero no está preparada para la vida en el parque y no deja de meterse en problemas.
+* Una prima del bosque ha venido para pasar unos días, pero no está preparada para la vida en el parque y no deja de meterse en problemas.
 * Hay un montón de paseantes con ropas raras, peleándose por unas nueces blancas gigantes (una pachanga dominguera del deporte que quieras). Si tus pArdillas roban una de esas nueces, tendrán comida durante semanas.
 
 ## Licencia
