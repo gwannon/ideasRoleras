@@ -1,6 +1,6 @@
 # p**A**rdillas [por Gwannon](https://gwannon.com/)
 
-«pArdillas» es un **juego de rol de una hoja** donde serás una alocada ardilla que vive en un parque de una gran ciudad. Tus aventuras consistirán en conseguir comida de les paseantes del parque y evitar los peligros como perros, gatos o humanos.
+«pArdillas» es un **juego de rol de una hoja** donde serás una alocada ardilla que vive en un parque de una gran ciudad. Tus aventuras consistirán en conseguir comida de les paseantes del parque y evitar los peligros como perros, gatos o el fuego.
 
 ## El parque de tus pArdillas
 
@@ -14,7 +14,7 @@ Las aventuras que vivirán estarán casi siempre basadas en conseguir comida, mu
 
 ## Sistema de juego
 
-Cuando se diga «cacahuete», se hace referencia a una vaina de cacahuete y cuando se habla de «semillas» se refiere a cada semilla que hay dentro de cada cacahuete.
+Cuando se diga «cacahuete», se hace referencia a una vaina de cacahuete y cuando se habla de «semillas», se refiere a cada semilla que hay dentro de cada cacahuete.
 
 Para jugar a pArdillas solo necesitas **lápiz, papel y una bolsa de cacahuetes**.
 
@@ -37,7 +37,7 @@ Si entre las semillas hay alguna pocha, es siempre una pifia. Puedes evitar la p
 
 Cuando se acaben los cacahuetes del cuenco se mete un nuevo puñado. Claramente, se pueden hacer trampas tratando de coger los cacahuetes más grandes, pero recuerda que a medida que avance la partida solo quedarán cacahuetes más pequeños y por extensión con menos semillas. 
 
-> Las semillas que sobren de las tiradas y no estén chupadas y podéis dejarlas en otro cuenco para que se las coma le directore de juego. 
+> Las semillas que sobren de las tiradas y no estén chupadas podéis dejarlas en otro cuenco para que se las coma le directore de juego. 
 
 ### Consecuencias, miedo y daño
 
