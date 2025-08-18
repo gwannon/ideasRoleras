@@ -36,7 +36,7 @@ Cuando se acaben los cacahuetes del cuenco se mete un nuevo puñado. Claramente,
 
 > Las semillas que sobren de las tiradas y no estén chupadas podéis dejarlas en otro cuenco para que se las coma le directore de juego. 
 
-### Consecuencias, miedo y daño
+### Consequences, fear and damage
 
 Cuando una sKirrel recibe una consecuencia, esta puede tener varias formas, desde perder algo importante o que la detecten depredadores hasta recibir daño o ser asustado. Las consecuencias deben tener lógica dentro de la acción que se ha intentado. 
 
@@ -46,21 +46,21 @@ Es decir, si un gato casero, asusta a tu sKirrel, no podrás actuar en la siguie
 
 > Mientras tu sKirrel descansa en su madriguera se come todas las semillas que tenga en el papo. Así que tendrá sus abazones cuando empiece en la siguiente escena.
 
-### Chasquidos, silbidos y chillidos
+### Tongue click, hisses and squeaks
 
 Tu mesa no puede hablar normalmente cuando interpreten a sus sKirrels y hablen entre ellas, **solo podrán chasquear la lengua, silbar y emitir pequeños chillidos**. Pero si podrán hablar normal cuando se dirijan a le directore y le expliquen qué quieren hacer.
 
 El lenguaje de las ardillas es muy sencillo. Aquí tienes sus bases principales.
 
-* **1 chasquido:** Sí
-* **2 chasquidos:** No
-* **1 chillido:** Peligro
-* **2 chillidos:** Comida
-* **1 silbido:** ¿Estudias o trabajas?
-* **2 silbidos:** Voulez-vous coucher avec moi (ce soir) ?
-* **1 chasquido + 1 chillido:** Subir al árbol
-* **1 chillido + 1 silbido:** Bajar del árbol
-* **1 silbido + 1 chasquido:** No te muevas
+* **1 tongue click:** Yes
+* **2 tongue clicks:** No
+* **1 squeak:** Danger
+* **2 squeaks:** Food
+* **1 hiss:** Well, here I am. What are your other two wishes?
+* **2 hisses:** Voulez-vous coucher avec moi (ce soir) ?
+* **1 click + 1 squeak:** Tree up
+* **1 squeak + 1 hiss:** Tree down
+* **1 hiss + 1 click:** Don't move
 
 Si mientras chasquean, silban o chillan pierden semillas de tus abazones, perdidos están.
 
@@ -78,7 +78,7 @@ A la hora de crear tu sKirrel, debes elegir simplemente el color del pelaje del 
 |**Belly:** Si te tragas todos los cacahuetes de tus abazones (mínimo uno), hasta el final de la escena puedes …|… hablar normal al resto de tu mesa.|… entender los símbolos que ponen les paseantes en el parque.|… comunicarte con no roedores.|… usar algún artilugio sencillo de les paseantes que hayas visto usar.|
 |**Tail:** Si consigues una tirada exitosa, …|… les paseantes no pueden apartar la vista de ti de lo adorable que eres.|… los depredadores creen que eres una especie de mofeta raquítica y huyen.|… puedes nadar grandes distancias e incluso sumergirte para recuperar objetos bajo el agua.|… puedes acercarte al fuego, incluso coger algún rescoldo o atravesar una llama.|
 
-> No puede haber nunca dos sKirrels con la misma combinación de colores y partes del cuerpo.
+>There can never be two sKirrels with the same combination of colors and body parts.
 
 ## Hazards in the park
 
@@ -88,31 +88,31 @@ These are some of the risks you can find in the park.
 
 Deadly nocturnal hunters, but they lose interest quickly.
 
-> Siempre que se enfrenten a gatos, las consecuencias serán que recibirán daño o serán asustadas.
+> Whenever they confront cats, the consequences will be that they will receive damage or be scared.
 
 ### Crows and ravens
 
-Estas negras aves son realmente sabias, sobre todo cuantas más se reúnen. Saben hablar con todo tipo de criaturas.
+These black birds are very wise, especially a court of crows. They know how to talk to all kinds of creatures.
 
-> Siempre piden algo a cambio por sus servicios, comida, cosas brillantes, etc.
+> They always demand a payment their services, as food, shiny things, etc.
 
 ### Dogs
 
-Estos cazadores diurnos con excelente olfato se vuelven locos por las ardillas y casi siempre van atados a une paseante.
+These diurnal hunters with an excellent sense of smell go crazy for squirrels and are almost always tied to a walker.
 
-> Si están sueltos, no dejarán de perseguir a la sKirrel que detecten.
+> If they are loose, they will not stop chasing the sKirrel that they detect.
 
 ### Fire and electricity
 
-Hablamos desde barbacoas a espectáculos de tragafuegos y cables tirados por el viento.
+It can be barbecues, fire-eating shows, forest fires and electric cables broken by the wind.
 
-> Siempre que se enfrenten al fuego y/o la electricidad, las consecuencias serán que recibirán daño o serán asustadas.
+> Whenever they face fire and/or electricity, the consequences will be that they will take damage or be scared.
 
 ### Walkers
 
-Estas gigantescas criaturas se mueven erráticamente por el parque haciendo sus cosas raras. No trates de comprender lo que hacen, no tiene mucho sentido.
+These huge creatures move erratically around the park doing their weird things. Don't try to understand what they do, it doesn't make much sense.
 
-> Las consecuencias de tratar con paseantes no tienen por qué tener ninguna lógica.
+> The consequences of dealing with walkers do not have to have any logic.
 
 ### Other rodents
 
