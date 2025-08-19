@@ -12,7 +12,7 @@ El Grupo Ceballos dirigida por su CTO Nieve debe mover ficha y debe ser un movim
 
 Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación, pero no es necesario triunfar. Lo único importante es que consigan pruebas suficientes de que el grupo Ceballos este detrás y pasárselas a Catalina.
 
-#### El tiempo es importante.
+#### El tiempo es importante
 
 Nieve tiene que poner en funcionamiento todo el plan vampírico y tiene mucha prisa. El plan ha tenido muchos retrasos las últimas semanas y cada día que pasa se pierde un montón de dinero. Es por ello que Nieve tiene un calendario y nada va a parar ese calendario. Es por ello que esta parte de la campaña tengan más control del tiempo y que tus cazadoras lo noten. 
 

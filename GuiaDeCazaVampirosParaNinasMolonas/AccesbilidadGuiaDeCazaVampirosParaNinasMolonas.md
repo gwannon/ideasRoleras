@@ -1834,6 +1834,8 @@ Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casi
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
+Recuerda que los vampiros siempre montan planes complicados y ostentosos, solo pueden actuar de noche y no pueden entrar en casa si no están invitados con lo que una fiesta/trampa como esta entra dentro de sus rebuscada forma de pensar.
+
 [![Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2](./assests/images/LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")
 
 Tus cazadoras recibirán una visita inesperada a la salida de clase, un chambelán, un grupo de mariachis, un tragafuegos, etc. excentricidades de youtuber que les entregarán una invitación a la fiesta de cumpleaños de Celose.
@@ -2018,7 +2020,7 @@ El Grupo Ceballos dirigida por su CTO Nieve debe mover ficha y debe ser un movim
 
 Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación, pero no es necesario triunfar. Lo único importante es que consigan pruebas suficientes de que el grupo Ceballos este detrás y pasárselas a Catalina.
 
-#### El tiempo es importante.
+#### El tiempo es importante
 
 Nieve tiene que poner en funcionamiento todo el plan vampírico y tiene mucha prisa. El plan ha tenido muchos retrasos las últimas semanas y cada día que pasa se pierde un montón de dinero. Es por ello que Nieve tiene un calendario y nada va a parar ese calendario. Es por ello que esta parte de la campaña tengan más control del tiempo y que tus cazadoras lo noten. 
 

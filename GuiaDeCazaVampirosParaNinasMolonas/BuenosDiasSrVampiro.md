@@ -984,6 +984,8 @@ Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casi
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
+Recuerda que los vampiros siempre montan planes complicados y ostentosos, solo pueden actuar de noche y no pueden entrar en casa si no están invitados con lo que una fiesta/trampa como esta entra dentro de sus rebuscada forma de pensar.
+
 [![Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2](./assests/images/LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")
 
 Tus cazadoras recibirán una visita inesperada a la salida de clase, un chambelán, un grupo de mariachis, un tragafuegos, etc. excentricidades de youtuber que les entregarán una invitación a la fiesta de cumpleaños de Celose.
@@ -992,9 +994,9 @@ Les entregará una invitación escrita personalmente por Celose y una bolsa rega
 
 El resto de objetos de la bolsa ponles lo que quieras. Pero que sea caro y lujoso y que puedan chulear frente a sus amistades de esas cosas. Si quieres paranoia, algo personalizado para cada cazadora, para que piensen que las conoce muy bien, quizás demasiado bien.
 
-El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, pero nada cómoda para escalar, correr, pelear, etc. Pero si permite esconder fácilmente equipo.
-
 \sp
+
+El cheque-regalo es de una tienda de ropa superexclusiva. Es ropa muy elegante, pero nada cómoda para escalar, correr, pelear, etc. Pero si permite esconder fácilmente equipo.
 
 Eloise quiere con este regalo adularlas y que se confíen y segundo que sean una presa más fácil. Si pudieron con Néstor, no son unas simples niñas y llevar zapatitos de charol en vez de deportivas pueden hacer que su plan sea un éxito o un fracaso.
 
