@@ -179,6 +179,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Light from an open door by [rawpixel.com](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm)
 * Breathtaking shot of a sunset along the street in the middle of a modern city by [wirestock](https://www.freepik.com/free-photo/breathtaking-shot-sunset-along-street-middle-modern-city_9932265.htm)
 * Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by [LA2](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg)
+* Teenager in the light of movie projector by [freepik](https://www.freepik.com/free-photo/teenager-light-movie-projector_28888761.htm)
 
 \sp
 

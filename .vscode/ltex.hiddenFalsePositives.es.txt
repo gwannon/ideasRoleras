@@ -120,3 +120,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVector cartoon illustration of holiday celebration with summer landscape of public garden, town buildings and firecrackers by upklyak\nPeanut icon by Freepik\nTop view artificial grass soccer field background texture by jcomp\nSet of seamless border old gray rock and grass by valadzionak_volha\nRealistic bushes green hedges set isolated on white background vector illustration by macrovector\nFuente Logger por Typographer Mediengestaltung\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qentender los símbolos que ponen les paseantes en el parque.\\E$"}
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qusar algún artilugio sencillo de les paseantes que hayan visto usar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTeenager in the light of movie projector by freepik\\E$"}
