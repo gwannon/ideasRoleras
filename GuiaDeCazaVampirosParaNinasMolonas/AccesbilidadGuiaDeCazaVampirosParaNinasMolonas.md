@@ -1898,9 +1898,13 @@ Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefu
 
 #### Combate en la casita de chocolate
 
-El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte del bosque si ellas lo buscan. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo. 
+El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte del bosque si ellas lo buscan. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.
 
-Cuando las cazadoras cojan la tarta, Eloise activará un mando a distancia y la bomba incendiaria del interior de la tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse el chocolate de la casa.
+Eloise pedirá a las cazadoras que entren con ella en la casita y le ayuden a sacar la gigantesca tarta de cumpleaños, para poder splar la verlas y comerla con el resto de invitadas en la gran mesa de fuera.
+
+Huele muchísimo a trampa y sobre todo si ya tienen claro el vampirismo de Celose, pero también es una oportunidad de estar a solas con ella y de hablar, negociar o sacar las estacas de madera. 
+
+Cuando las cazadoras cojan la tarta (o estén relativamente cerca), Eloise activará un mando a distancia y la bomba incendiaria del interior de la tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse el chocolate de la casa.
 
 Las alarmas de fuego empezarán a sonar y todo el mundo tratará de salir del polígono. En principio, de un vistazo verán que los actores y la gente de seguridad están sacando a las niñas de la merienda, así que deberían poder centrarse en su enemiga. Pero siempre puedes usar alguna niña atrapada bajo un árbol de fibra de vidrio para que Eloise pueda escapar o que la use de rehén. 
 
@@ -1913,6 +1917,7 @@ Estos son algunos de los aspectos de los que podrás tirar en el combate:
 * **Pegajoso:** Todo está pegajoso y es difícil moverse.
 * **Derritiéndose:** Del techo caen goterones de chocolate fundido. Alguna cazadora hasta podría lanzar chocolate a los ojos de su enemigo para cegarlo.
 * **Inestable:** Tratar de apoyarse contra la pared, de subirse a alguna cosa es casi imposible, todo se derrumba, se deshace y te quedas pegado.
+
 * **Resbaladizo:** El chocolate fundido del suelo está resbaladizo y es complicado mantener la verticalidad. Además, si te empujan te mueves más de lo normal.
 
 Aquí tenemos algunas ideas para hacer el combate más entretenido:
