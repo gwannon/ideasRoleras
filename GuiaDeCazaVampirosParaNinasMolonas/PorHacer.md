@@ -45,7 +45,7 @@ Está claro que la rave será de noche y empezará al anochecer cuando los vampi
 
 #### Llamando a los goblins
 
-Podrían pasar la dirección a sus amigas y esperar que estás se las pasen a otras amigas y así hasta que todo el barrio lo sepa, pero se arriesgan a que en las pocas horas antes de la rave el mensaje no llegue a suficientes amigas y amigos y no obtengan la cobertura y el caos que buscan. 
+Podrían pasar la dirección a sus amigas y esperar que estás se las pasen a otras amigas y así hasta que todo el barrio lo sepa. El problema es que se arriesgan a que en las pocas horas antes de la rave el mensaje no llegue a suficientes amigas y amigos y no obtengan la cobertura y el caos que buscan. 
 
 \sp
 
@@ -62,9 +62,10 @@ Algunas ideas interesantes que pueden tener y que deberían darles positivos pod
 * Decirles que lo normal es llevar ropas oscuras y luces fluorescentes, así ellas no destacarán entre el resto de menores. 
 * La música estará altísima y más con miles de goblins arriba y abajo. Quizás tapones y aprender lenguaje de símbolos o las señales que hacen maderos/marines en las películas.
 
-Las posibilidades son muy amplias así que tus cazadoras pueden salir por cualquier lado.
 
 #### La rave
+
+Una vez distribuido el lugar y la fecha, las posibilidades son muy amplias así que tus cazadoras y los goblins pueden colarse por cualquier lado.
 
 XXX
 
