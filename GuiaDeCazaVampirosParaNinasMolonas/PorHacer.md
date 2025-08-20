@@ -85,6 +85,11 @@ Esta vez sí, la pelea debería ser a muerte. Eloise se pondrá en modo trash y 
 
 XXX
 
+* Siervos/seguridad
+* **Bueno (+2) en:** Vigilar, Retener personas
+* **Malo (-2) en:** Mezclarse entre la multitud y pasar desapercibidos, Organizarse y crear estrategias y planes
+* **Estrés:** ◯◯
+
 \sp
 
 Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía duran.

@@ -582,7 +582,7 @@ Verónica tiene a su servicio un par de celadores de noche que le sirven incondi
 * Celador de noche
 * **Bueno (+2) en:** Vigilar, Mover cosas y levantar pesos
 * **Malo (-2) en:** Tratar con los pacientes, Medicina  
-* **Estrés:** ◯◯◯
+* **Estrés:** ◯◯
 
 #### Descubrir a Verónica 
 
