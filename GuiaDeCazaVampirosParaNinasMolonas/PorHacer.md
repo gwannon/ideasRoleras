@@ -10,7 +10,6 @@ Recuerda que intentar cazar directamente a Eloise puede ser muy complicado, las 
 
 [![Teenager in the light of movie projector by freepik](./assests/images/teenager-light-movie-projector.jpg "Teenager in the light of movie projector by freepik")](https://www.freepik.com/free-photo/teenager-light-movie-projector_28888761.htm "Teenager in the light of movie projector by freepik")
 
-
 #### Infiltración
 
 Colarse en la rave será fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
@@ -62,10 +61,13 @@ Algunas ideas interesantes que pueden tener y que deberían darles positivos pod
 * Decirles que lo normal es llevar ropas oscuras y luces fluorescentes, así ellas no destacarán entre el resto de menores. 
 * La música estará altísima y más con miles de goblins arriba y abajo. Quizás tapones y aprender lenguaje de símbolos o las señales que hacen maderos/marines en las películas.
 
+\sc
 
 #### La rave
 
-Una vez distribuido el lugar y la fecha, solo queda entrar en la rave y montar un buen follón. Para tus cazadoras no debería ser muy complicado, pero deberán buscar la forma de meter a los goblins si quieren que su plan tenga éxito.
+Una vez distribuido el lugar y la fecha, solo queda entrar en la rave y montar un buen follón. Para tus cazadoras no debería ser muy complicado, pero deberán buscar la manera de meter a los goblins si quieren que su plan tenga éxito.
+
+Toda la chavalada está en las calles y campas adyacentes al edificio así que si abrís una vía de entrada enseguida se correrá la voz para entrar todos.
 
 El viejo matadero donde se va está montando la rave, lleva años abandonado. Las puertas y ventanas están cerradas con maderos clavados y solo se ha abierto la entrada principal donde un par de miembros del equipo de seguridad controla la entrada. En principio, cualquier mayor de edad (o que lo parezca) puede entrar por esa puerta. 
 
@@ -73,28 +75,34 @@ Tus cazadoras y el resto de goblins tendrán que buscarse otras vías. Veamos al
 
 * Con una buena palanca deberían poder abrir alguna ventana o puerta secundaría y entrar por ella.
 * Si suben al techo (solo hay un piso) hay unas escaleras que dan acceso al interior.
-* El matadero tenía una zona de carga y descarga 
+* El matadero tenía una zona de carga y descarga donde hay persianas y rejas oxidadas que pueden ser forzadas.
 
-XXX
+Una vez dentro han vaciado todo el interior y solo hay algunas columnas llenas de altavoces y equipos de iluminación. 
+
+Hay unas entre 90 y 100 personas bailando desenfrenadamente por todo el matadero a lo que hay que sumar los goblins que están entrando por todas partes.
+
+\sp
+
+En el centro hay un podio de gran tamaño en donde un DJ pincha su música en una gran mesa de mezcla. Junto a él Eloise baila y anima la fiesta. En un de los lados hay una mesa con refrescos y botellines de agua.
+
+Las drogas corren entre los asistentes y muchos todavía están conscientes, pero en un rato irán bastante ciegos y no se enterarán de nada, solo seguirán la música y las luces.
 
 #### Blade es un «pringao»
 
 Para empezar, no hay mejor momento que este para poner el [tema de la rave de Blade](https://www.youtube.com/watch?v=cNOP2t9FObw) en bucle.
 
-Esta vez sí, la pelea debería ser a muerte. Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans) la ayudan.
-
 XXX
+
+Esta vez sí, la pelea debería ser a muerte. Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
 
 * Siervos/seguridad
 * **Bueno (+2) en:** Vigilar, Retener personas
 * **Malo (-2) en:** Mezclarse entre la multitud y pasar desapercibidos, Organizarse y crear estrategias y planes
 * **Estrés:** ◯◯
 
-\sp
-
 Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía duran.
 
-* Para mover las grandes piezas de carne hay un sistema de carriles y poleas, viejo y oxidado pero todavía funcional. Podrían usarlo para alcanzar a Eloise, si se pone a flotar. También podrían usarlo como forma de atarla para que no escape.
+* Para mover las grandes piezas de carne hay un sistema de carriles y poleas, viejo y oxidado pero todavía funcional. Podrían usarlo para alcanzar a Eloise, si se pone a flotar. También podrían usarlo como una manera de atarla para que no escape.
 * No queda anda del material de despiece como cuchillos y machetes, pero pueden encontrar barras de hierro y tuberías de plomo antiguas que usar como armas.
 * Si las estacas escasean, puede ser sencillo hacerlas de los tablones con que han cegado puertas y ventajas. Es madera vieja y los clavos muchas veces han abierto rajas a lo largo del tablero, con lo que se pueden conseguir de forma fácil piezas larga y puntiagudas de madera.
 * El potente equipo de luz y sonido es muy valioso, pero poco útil en combate. Aunque si tus cazadoras son ingeniosos podrían usarlo para deslumbrar a los siervos (y si lo hacen mal a ellas mismas).
@@ -105,6 +113,8 @@ Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer us
 Si tus cazadoras dejaron escapar a Alfonse como aliado, **puede ser interesante darle la** **opción de aliarse con Eloise** de alguna manera. Piensa que es, dentro de la pirámide vampírica y junto a Alfonse, uno de los personajes más humano y más cercanos a ellos.
 
 Comprende a los humanos mucho mejor que el resto y está a la última y puedes hacer que con los años de streamer/influencer haya aprendido a verlos como algo distinto a simples presas e incluso tenga amistades online importantes para ella.
+
+\sp
 
 Como Alfonse, si deciden dejarla con vida, podría ser **una buena aliada**. Pero a diferencia de Alfonse, Eloise no podrá seguir dentro del plan vampírico. Se trasladará a vivir a su estudio de influencer y seguirá como influencer mientras cuenta a las cazadoras lo que sabe del grupo Ceballos y del plan vampírico.
 

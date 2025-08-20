@@ -365,3 +365,5 @@ pecanas
 pArdilla
 abandanado
 Theme
+chavalada
+pringao

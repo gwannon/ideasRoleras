@@ -122,3 +122,4 @@
 {"rule":"PRONOMBRE_SIN_VERBO","sentence":"^\\Qusar algún artilugio sencillo de les paseantes que hayan visto usar.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTeenager in the light of movie projector by freepik\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHeartbreak Hotel\\E$"}
+{"rule":"FORM","sentence":"^\\QEs madera vieja y los clavos muchas veces han abierto rajas a lo largo del tablero, con lo que se pueden conseguir de forma fácil piezas larga y puntiagudas de madera.\\E$"}
