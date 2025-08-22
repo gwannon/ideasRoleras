@@ -1138,6 +1138,8 @@ O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la polic�
 
 #### Buscando la hora y el lugar
 
+__ANOCHECER__
+
 Las reglas de las rave son muy simples, son secretas y la hora y el lugar no se publica hasta el último momento. Eso les da muy poco margen para hacerla llegar a sus goblins y si fallan todo el plan se irá al garete.
 
 En última instancia, Celose publicará un vídeo dando la hora y el lugar. Pero no será un mensaje sin más, sino un pequeño acertijo que solo tus cazadoras podrán descifrar, ya que tienen info que solo sabe ellas, como datos que solo ellas deberían como cazavampiros.
@@ -1170,6 +1172,8 @@ Algunas ideas interesantes que pueden tener y que deberían darles positivos pod
 * La música estará altísima y más con miles de goblins arriba y abajo. Quizás tapones y aprender lenguaje de símbolos o las señales que hacen maderos/marines en las películas.
 
 #### La rave
+
+__NOCHE__
 
 Una vez distribuido el lugar y la fecha, solo queda entrar en la rave y montar un buen follón. Para tus cazadoras no debería ser muy complicado, pero deberán buscar la manera de meter a los goblins si quieren que su plan tenga éxito.
 

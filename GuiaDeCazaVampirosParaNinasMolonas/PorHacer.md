@@ -55,6 +55,12 @@ XXX
 
 Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte la noche del concierto.
 
+\sinc
+
+[![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
+
+\conc
+
 ### Vertido tóxico
 
 XXX
