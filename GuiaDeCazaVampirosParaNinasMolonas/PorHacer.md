@@ -1,125 +1,62 @@
-### La noche de los goblins
+## Heartbreak Hotel 
 
-Eloise ha fallado en su primera oportunidad y Lord Ceballos se está impacientando ante su falta de éxitos. Así que solo tiene una y única segunda oportunidad. Esta vez va a tener que poner toda la carne en el asador.
+> El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
 
-Tus cazadoras ya deberían saber que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, debería saber quien son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas.
+\conc
 
-Eloise va a volver a montar otro evento, esta vez una especie de rave ilegal. La va a empezar promocionar muchísimo y creará un tremendo FOMO con ella. Espera que las cazadoras acudan para matarla, ya que ella como Celose será el centro todo el evento.
-
-Recuerda que intentar cazar directamente a Eloise puede ser muy complicado, las anteriores veces sabían físicamente donde encontrarla. Pero ahora mismo solo saben de ella lo que marque su presencia online. Así que si quieren cazarla deben seguir sus redes y acudir a los eventos que organice o a los que vaya a acudir.
-
-[![Teenager in the light of movie projector by freepik](./assests/images/teenager-light-movie-projector.jpg "Teenager in the light of movie projector by freepik")](https://www.freepik.com/free-photo/teenager-light-movie-projector_28888761.htm "Teenager in the light of movie projector by freepik")
-
-#### Infiltración
-
-Colarse en la rave será fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
-
-El principal problema es que ellas solas __entre gente mucho más mayor darán el__ __cante enseguida__ y serán detectadas en cuanto pongan un pie dentro del polígono abandonado. Así que necesitarán una distracción. Los fuegos, las alarmas y otras maneras de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
+Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe es que eso permitirá a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
 
 \sp
 
-¿Pero y si llenan la rave de niños y niñas como ellas? ¿Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos saltando y corriendo por todas partes?
+### La corporación toma iniciativa
 
-Cuando vean que sus planes no son viables puedes proponerles que consulten con algún experto (o mejor pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
+El Grupo Ceballos dirigida por su CTO Nieve debe mover ficha y debe ser un movimiento resolutivo, necesita empezar a construir el casino y para ello debe forzar el derrame contaminante en los humedales y demoler el estadio para empezar las obras de New Vegas.
 
-O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención de Papa Noeles.
+Tus cazadoras deben tratar de evitar una o ambas iniciativas de la corporación, pero no es necesario triunfar. Lo único importante es que consigan pruebas suficientes de que el grupo Ceballos este detrás y pasárselas a Catalina.
 
-> Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
+#### El tiempo es importante
 
-#### Buscando la hora y el lugar
+Nieve tiene que poner en funcionamiento todo el plan vampírico y tiene mucha prisa. El plan ha tenido muchos retrasos las últimas semanas y cada día que pasa se pierde un montón de dinero. Es por ello que Nieve tiene un calendario y nada va a parar ese calendario. Es por ello que esta parte de la campaña tengan más control del tiempo y que tus cazadoras lo noten. 
 
-Las reglas de las rave son muy simples, son secretas y la hora y el lugar no se publica hasta el último momento. Eso les da muy poco margen para hacerla llegar a sus goblins y si fallan todo el plan se irá al garete.
+Desde que tú decidas que Nieve empieza a trabajar en cada uno de los puntos siguientes (Vertido tóxico y Demolición del estadio) va a pasar una semana (7 días con sus 7 noches). Si tus cazadoras no lo paran ese en ese tiempo será una derrota para ellas y si logras desbaratar los siguientes eventos será una victoria para tus cazadoras.
 
-En última instancia, Celose publicará un vídeo dando la hora y el lugar. Pero no será un mensaje sin más, sino un pequeño acertijo que solo tus cazadoras podrán descifrar, ya que tienen info que solo sabe ellas, como datos que solo ellas deberían como cazavampiros.
-
-Eloise solo quiere que las cazadoras sepan la ubicación de la rave, no quiere extraños en la fiesta. El resto de personas que van a ir a la rave son gente de confianza de Celose.
-
-Este puede ser el acertijo, pero puedes montar cualquier otra prueba si crees puede cuadrar mejor en tu grupo.
-
-```
-Si fueras un vampiro, podrías asistir a la rave y, hablando de vampiros, Blade puede daros una pista.
-```
-
-Está claro que la rave será de noche y empezará al anochecer cuando los vampiros pueden acudir. El problema es la ubicación. Un poco de lógica, un rato en YouTube y alguna búsqueda en internet y verán que la escena de inicio de Blade de la rave es un matadero. No hay mataderos ahora mismo en el barrio, pero si hay un viejo edificio abandonado que en los 60 y 70 fue un matadero. Está en un estado ruinoso, pero está apartado y es espacioso. 
-
-#### Llamando a los goblins
-
-Podrían pasar la dirección a sus amigas y esperar que estás se las pasen a otras amigas y así hasta que todo el barrio lo sepa. El problema es que se arriesgan a que en las pocas horas antes de la rave el mensaje no llegue a suficientes amigas y amigos y no obtengan la cobertura y el caos que buscan. 
-
-\sp
-
-Así que deberían buscar un sistema para pasarlo en el último momento, pero que puedan controlar quien acceder. Veamos algunas opciones.
-
-* Si tienen conocimientos informativos, montar un website con registro de algún tipo con el que puedan filtrar quien entra y quien no y una hora antes de la rave envíen la info por correo.
-* Montar una lista de amistades a las que mandar los mensajes y de suficiente confianza para que solo se lo pasen a otros menores.
-* Buscar canales en las redes donde solo haya menores del barrio y lanzar en el chat la ubicación de la rave. Una manera más analógica sería poner carteles con la info en sitios que solo vayan menores.
-
-Algunas ideas interesantes que pueden tener y que deberían darles positivos podrían ser:
-
-* Decirle a sus amigos que vayan con máscaras para no ser identificados.
-* Hacer correr entre sus compañeros la historia de que la rave va rollo Blade/vampiros y podrían encontrarse equipo como estacas y ajos, ya que los menores han entrado en la rave como cazavampiros.
-* Decirles que lo normal es llevar ropas oscuras y luces fluorescentes, así ellas no destacarán entre el resto de menores. 
-* La música estará altísima y más con miles de goblins arriba y abajo. Quizás tapones y aprender lenguaje de símbolos o las señales que hacen maderos/marines en las películas.
+Aun así lo importante no es evitar el derrame o el derribo, lo _importante es tener pruebas_ de esas actividades para que Catalina monte un caso contra el Grupo Ceballos.
 
 \sc
 
-#### La rave
+### Demolición del estadio
 
-Una vez distribuido el lugar y la fecha, solo queda entrar en la rave y montar un buen follón. Para tus cazadoras no debería ser muy complicado, pero deberán buscar la manera de meter a los goblins si quieren que su plan tenga éxito.
+De la noche a la mañana, el estadio de futbol del barrio será cerrado por problemas estructurales y en una semana será derruido. En los documentos oficiales se relatan los graves fallos estructurales del polideportivo. No se propone que se construirá en su lugar en ningún tipo esa documentación. 
 
-Toda la chavalada está en las calles y campas adyacentes al edificio así que si abrís una vía de entrada enseguida se correrá la voz para entrar todos.
+Tus cazadoras llevan unas semanas sin mucha acción desde sus aventuras con Eloise y estarán hambrientas de acción. En cuanto les des esta pista deberán empezar a sospechar que los vampiros están detrás de toda esta movida del campo de fútbol. Si no son muy avispadas Alfonse y/o Eloise podrían ponerlas en la pista.
 
-El viejo matadero donde se va está montando la rave, lleva años abandonado. Las puertas y ventanas están cerradas con maderos clavados y solo se ha abierto la entrada principal donde un par de miembros del equipo de seguridad controla la entrada. En principio, cualquier mayor de edad (o que lo parezca) puede entrar por esa puerta. 
+Buscando en las actas municipales su demolición fue votada en sesión especial cuando el concejal de obras públicas e infraestructuras, Diego Villal, presento un informe recalcando los graves problemas estructurales del estadio. Todo lo que se expone en el informe es verdad, pero en vez de pedir su derribo inmediato, podría haberse pedido su cierre y reparación.
 
-Tus cazadoras y el resto de goblins tendrán que buscarse otras vías. Veamos algunas opciones.
+Diego Villal tomó la decisión de tirar abajo el estadio por chantajes (droga y prostitución) que recibe de Nieve y está buscando la fórmula legal y económica que permita construir el casino del Grupo Ceballos y tiene varias opciones:
 
-* Con una buena palanca deberían poder abrir alguna ventana o puerta secundaría y entrar por ella.
-* Si suben al techo (solo hay un piso) hay unas escaleras que dan acceso al interior.
-* El matadero tenía una zona de carga y descarga donde hay persianas y rejas oxidadas que pueden ser forzadas.
-
-Una vez dentro han vaciado todo el interior y solo hay algunas columnas llenas de altavoces y equipos de iluminación. 
-
-Hay unas entre 90 y 100 personas bailando desenfrenadamente por todo el matadero a lo que hay que sumar los goblins que están entrando por todas partes.
+* Traerá trabajo y dinero a un barrio deprimido y lleno de droga (droga que el propio grupo ha metido en las calles).
+* Junto con el casino se va a crear instalaciones deportivas como squash o golf, deportes de ricos que solo practicará una minoría. Además son deportes que podrán vender con el paquete de lujo del hotel del casino.
 
 \sp
 
-En el centro hay un podio de gran tamaño en donde un DJ pincha su música en una gran mesa de mezcla. Junto a él Eloise baila y anima la fiesta. En un de los lados hay una mesa con refrescos y botellines de agua.
-
-Las drogas corren entre los asistentes y muchos todavía están conscientes, pero en un rato irán bastante ciegos y no se enterarán de nada, solo seguirán la música y las luces.
-
-#### Blade es un «pringao»
-
-Para empezar, no hay mejor momento que este para poner el [tema de la rave de Blade](https://www.youtube.com/watch?v=cNOP2t9FObw) en bucle.
+* El grupo Ceballos como empresa que gestiona el futuro casino se compromete a donar parte de sus beneficios a una asociación conservacionista que proteja los humedales. De hecho puede presentar cuentas de que llevan meses ayudando a la asociación de protección y conservación de los humedales «APCHUM».
 
 XXX
 
-Esta vez sí, la pelea debería ser a muerte. Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
+#### Visitando la APCHUM
 
-* Siervos/seguridad
-* **Bueno (+2) en:** Vigilar, Retener personas
-* **Malo (-2) en:** Mezclarse entre la multitud y pasar desapercibidos, Organizarse y crear estrategias y planes
-* **Estrés:** ◯◯
+XXX
 
-Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía duran.
+No hace falta tirar para darse cuenta de que están renovando todo el local de la asociación. Sillas nuevas, ordenadores nuevos, equipo de oficina nueva y una cafetera digna de uno de esos sitios pijos del centro de a 5 € el café.
 
-* Para mover las grandes piezas de carne hay un sistema de carriles y poleas, viejo y oxidado pero todavía funcional. Podrían usarlo para alcanzar a Eloise, si se pone a flotar. También podrían usarlo como una manera de atarla para que no escape.
-* No queda anda del material de despiece como cuchillos y machetes, pero pueden encontrar barras de hierro y tuberías de plomo antiguas que usar como armas.
-* Si las estacas escasean, puede ser sencillo hacerlas de los tablones con que han cegado puertas y ventajas. Es madera vieja y los clavos muchas veces han abierto rajas a lo largo del tablero, con lo que se pueden conseguir de forma fácil piezas larga y puntiagudas de madera.
-* El potente equipo de luz y sonido es muy valioso, pero poco útil en combate. Aunque si tus cazadoras son ingeniosos podrían usarlo para deslumbrar a los siervos (y si lo hacen mal a ellas mismas).
-* Aparte de eso no debería haber mucho más, son muchos años de saqueo de los objetos valiosos.
+#### No nos moverán
 
-### Eloise como aliada
+XXX
 
-Si tus cazadoras dejaron escapar a Alfonse como aliado, **puede ser interesante darle la** **opción de aliarse con Eloise** de alguna manera. Piensa que es, dentro de la pirámide vampírica y junto a Alfonse, uno de los personajes más humano y más cercanos a ellos.
+Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte la noche del concierto.
 
-Comprende a los humanos mucho mejor que el resto y está a la última y puedes hacer que con los años de streamer/influencer haya aprendido a verlos como algo distinto a simples presas e incluso tenga amistades online importantes para ella.
+### Vertido tóxico
 
-\sp
+XXX
 
-Como Alfonse, si deciden dejarla con vida, podría ser **una buena aliada**. Pero a diferencia de Alfonse, Eloise no podrá seguir dentro del plan vampírico. Se trasladará a vivir a su estudio de influencer y seguirá como influencer mientras cuenta a las cazadoras lo que sabe del grupo Ceballos y del plan vampírico.
-
-También puede ser una poderosa aliada en combate, aunque solo sea por sus poderes vampíricos. Y también como espía o guardaespaldas.
-
-> Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.
-
-Si alguna de tus cazadoras destaca por su belleza, su carisma y tiene gusto por la moda y se interesa del famoseo, podrá atraer la atención de Eloise y esta podría trabar una amistad más profunda con ella y, como siempre, ofrecerle convertirla en una chupasangre.
+> A pesar del problema del tiempo, si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarla en la preparación y durante la gran sentada que se montará en capítulos posteriores.

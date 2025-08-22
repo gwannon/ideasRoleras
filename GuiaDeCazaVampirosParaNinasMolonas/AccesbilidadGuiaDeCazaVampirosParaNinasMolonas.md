@@ -1948,27 +1948,29 @@ Si tus cazadoras no le ponen fácil la huida, puedes colapsar la estructura de l
 
 ### La noche de los goblins
 
-Eloise ha fallado en su primera oportunidad y Lord Ceballos se está impacientando ante su falta de éxitos. Así que solo tiene una y única segunda oportunidad. Esta vez va a tener que poner toda la carne en el asador.
+Eloise ha fallado en su primera intentona y Lord Ceballos se está impacientando ante su falta de éxitos. Así que solo tiene una y única segunda oportunidad. Esta vez va a tener que poner toda la carne en el asador.
 
-Tus cazadoras ya deberían saber que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, debería saber quien son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas.
+Tus cazadoras ya deberían tener muy claro que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, ella debería saber quien son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas. Sea como sea, ambas partes saben que tienen que enfrentarse y solo debería sobrevivir una de las partes.
 
-Eloise va a volver a montar otro evento, esta vez una especie de rave ilegal. La va a empezar promocionar muchísimo y creará un tremendo FOMO con ella. Espera que las cazadoras acudan para matarla, ya que ella como Celose será el centro todo el evento.
+Eloise va a volver a montar otro evento, esta vez una especie de rave «ilegal». La va a empezar promocionar muchísimo y creará un tremendo FOMO con ella. Espera que las cazadoras acudan para matarla, ya que ella como Celose será el centro todo el evento.
 
-Recuerda que intentar cazar directamente a Eloise puede ser muy complicado, las anteriores veces sabían físicamente donde encontrarla. Pero ahora mismo solo saben de ella lo que marque su presencia online. Así que si quieren cazarla deben seguir sus redes y acudir a los eventos que organice o a los que vaya a acudir.
+Recuerda que intentar cazar directamente a Eloise puede ser muy complicado. Las anteriores veces que mataron a vampiros sabían físicamente donde encontrarlo. Pero ahora mismo solo saben de ella lo que marque su presencia online. Así que si quieren cazarla deben seguir sus redes y acudir a los eventos que organice o a los que vaya a acudir.
 
 [![Teenager in the light of movie projector by freepik](./assests/images/teenager-light-movie-projector.jpg "Teenager in the light of movie projector by freepik")](https://www.freepik.com/free-photo/teenager-light-movie-projector_28888761.htm "Teenager in the light of movie projector by freepik")
 
 #### Infiltración
 
-Colarse en la rave será fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
+Colarse en la rave debería ser fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
 
-El principal problema es que ellas solas __entre gente mucho más mayor darán el__ __cante enseguida__ y serán detectadas en cuanto pongan un pie dentro del polígono abandonado. Así que necesitarán una distracción. Los fuegos, las alarmas y otras maneras de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
+El principal problema es que ellas solas __entre gente mucho más mayor darán el__ __cante enseguida__ y serán detectadas en cuanto pongan un pie dentro del edificio abandonado donde se celebrará la rave. Así que necesitarán una distracción.
 
-¿Pero y si llenan la rave de niños y niñas como ellas? ¿Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos saltando y corriendo por todas partes?
+Los fuegos, las alarmas y otras maneras de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
 
-Cuando vean que sus planes no son viables puedes proponerles que consulten con algún experto (o mejor pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
+¿Pero y si llenan la rave de niños y niñas como ellas? ¿Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos, saltando y corriendo por todas partes?
 
-O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención de Papa Noeles.
+Cuando vean que sus planes no son viables, puedes proponerles que consulten con algún experto (o mejor dicho pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
+
+O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención/maratón de Papa Noeles.
 
 > Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
 
@@ -1980,13 +1982,11 @@ En última instancia, Celose publicará un vídeo dando la hora y el lugar. Pero
 
 Eloise solo quiere que las cazadoras sepan la ubicación de la rave, no quiere extraños en la fiesta. El resto de personas que van a ir a la rave son gente de confianza de Celose.
 
-Este puede ser el acertijo, pero puedes montar cualquier otra prueba si crees puede cuadrar mejor en tu grupo.
+En el vídeo Celose sale bailando delante de un fondo blanco con la música de la fiesta de vampiro de Blade. Lleva una camiseta blanca y con letras de sangres se puede leer __«Si fueras__ __Néstor, sabrías a qué hora empieza rave»__ y en la espalda se puede ver unos __colmillos mordiendo__ __una cuchilla__.
 
-```
-Si fueras un vampiro, podrías asistir a la rave y, hablando de vampiros, Blade puede daros una pista.
-```
+Está claro que la rave será de noche y empezará al anochecer cuando los vampiros como Néstor pueden acudir. El problema es la ubicación. Un poco de lógica, un rato en YouTube y alguna búsqueda en internet y verán que la escena de inicio de Blade de la rave es un matadero.
 
-Está claro que la rave será de noche y empezará al anochecer cuando los vampiros pueden acudir. El problema es la ubicación. Un poco de lógica, un rato en YouTube y alguna búsqueda en internet y verán que la escena de inicio de Blade de la rave es un matadero. No hay mataderos ahora mismo en el barrio, pero si hay un viejo edificio abandonado que en los 60 y 70 fue un matadero. Está en un estado ruinoso, pero está apartado y es espacioso. 
+No hay mataderos ahora mismo en el barrio, pero si hay un viejo edificio abandonado que en los 60 y 70 fue un matadero. Está en un estado ruinoso, pero está apartado y es espacioso. 
 
 #### Llamando a los goblins
 
@@ -2031,16 +2031,18 @@ Las drogas corren entre los asistentes y muchos todavía están conscientes, per
 
 Para empezar, no hay mejor momento que este para poner el [tema de la rave de Blade](https://www.youtube.com/watch?v=cNOP2t9FObw) en bucle.
 
-XXX
+Celose no va a moverse de la mesa de mezcla a la espera de las cazadoras. Tus cazadoras tendrán que hacer el esfuerzo de subir al podium y enfrentarse a ella.
 
-Esta vez sí, la pelea debería ser a muerte. Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
+Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
 
 * Siervos/seguridad
 * **Bueno (+2) en:** Vigilar, Retener personas
 * **Malo (-2) en:** Mezclarse entre la multitud y pasar desapercibidos, Organizarse y crear estrategias y planes
 * **Estrés:** ◯◯
 
-Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía duran.
+Los asistentes o están muy pasados o realmente se tomarán todo como una performance de Celose para dar el espectáculo, así que la mayoría de los que sean conscientes de lo que pasa se pondrán a grabarlo y a subirlo a sus redes. Los likes se dispararán y esos vídeos se viralizarán con lo que empezará a acercarse mucha gente al matadero al compartir la ubicación.
+
+Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía hay.
 
 * Para mover las grandes piezas de carne hay un sistema de carriles y poleas, viejo y oxidado pero todavía funcional. Podrían usarlo para alcanzar a Eloise, si se pone a flotar. También podrían usarlo como una manera de atarla para que no escape.
 * No queda anda del material de despiece como cuchillos y machetes, pero pueden encontrar barras de hierro y tuberías de plomo antiguas que usar como armas.
@@ -2066,7 +2068,7 @@ Si alguna de tus cazadoras destaca por su belleza, su carisma y tiene gusto por 
 
 > El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
 
-Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe que eso permitirá a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
+Tus cazadoras ya han acabado con Alfonse, Néstor y Eloise, así que Lord Ceballos no tiene más opción que poner a solucionar el problema de las cazadoras a Nieve, su mano derecha, su CTO. Lo que el gran vampiro no sabe es que eso permitirá a las cazadoras y sus aliadas a hundir el Grupo Ceballos.
 
 ### La corporación toma iniciativa
 
@@ -2094,6 +2096,7 @@ Diego Villal tomó la decisión de tirar abajo el estadio por chantajes (droga y
 
 * Traerá trabajo y dinero a un barrio deprimido y lleno de droga (droga que el propio grupo ha metido en las calles).
 * Junto con el casino se va a crear instalaciones deportivas como squash o golf, deportes de ricos que solo practicará una minoría. Además son deportes que podrán vender con el paquete de lujo del hotel del casino.
+
 * El grupo Ceballos como empresa que gestiona el futuro casino se compromete a donar parte de sus beneficios a una asociación conservacionista que proteja los humedales. De hecho puede presentar cuentas de que llevan meses ayudando a la asociación de protección y conservación de los humedales «APCHUM».
 
 XXX

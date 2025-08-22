@@ -1106,13 +1106,135 @@ Alguna cazadora puede que quiera explotar a los bomberos en sus redes para ganar
 
 Si tus cazadoras no le ponen fácil la huida, puedes colapsar la estructura de la casita sobre ellas y enterrarlas en chocolate. Se despertarán cuando los bomberos las saquen de entre los restos de chocolate fundido.
 
-|PorHacer.md|
+### La noche de los goblins
+
+Eloise ha fallado en su primera intentona y Lord Ceballos se está impacientando ante su falta de éxitos. Así que solo tiene una y única segunda oportunidad. Esta vez va a tener que poner toda la carne en el asador.
+
+Tus cazadoras ya deberían tener muy claro que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, ella debería saber quien son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas. Sea como sea, ambas partes saben que tienen que enfrentarse y solo debería sobrevivir una de las partes.
+
+Eloise va a volver a montar otro evento, esta vez una especie de rave «ilegal». La va a empezar promocionar muchísimo y creará un tremendo FOMO con ella. Espera que las cazadoras acudan para matarla, ya que ella como Celose será el centro todo el evento.
+
+Recuerda que intentar cazar directamente a Eloise puede ser muy complicado. Las anteriores veces que mataron a vampiros sabían físicamente donde encontrarlo. Pero ahora mismo solo saben de ella lo que marque su presencia online. Así que si quieren cazarla deben seguir sus redes y acudir a los eventos que organice o a los que vaya a acudir.
+
+[![Teenager in the light of movie projector by freepik](./assests/images/teenager-light-movie-projector.jpg "Teenager in the light of movie projector by freepik")](https://www.freepik.com/free-photo/teenager-light-movie-projector_28888761.htm "Teenager in the light of movie projector by freepik")
+
+#### Infiltración
+
+Colarse en la rave debería ser fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
+
+El principal problema es que ellas solas __entre gente mucho más mayor darán el__ __cante enseguida__ y serán detectadas en cuanto pongan un pie dentro del edificio abandonado donde se celebrará la rave. Así que necesitarán una distracción.
 
 \sp
 
+Los fuegos, las alarmas y otras maneras de desviar la atención podrían montar una avalancha de gente y haber muertos, así que en principio todos los planes que intenten montar puedes desmontarlos fácilmente.
+
+¿Pero y si llenan la rave de niños y niñas como ellas? ¿Y si distribuyen entre sus amistades el lugar y la hora de la rave y aquello se convierte en un caos de menores desfasados e incluso borrachos, saltando y corriendo por todas partes?
+
+Cuando vean que sus planes no son viables, puedes proponerles que consulten con algún experto (o mejor dicho pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
+
+O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención/maratón de Papa Noeles.
+
+> Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
+
+#### Buscando la hora y el lugar
+
+Las reglas de las rave son muy simples, son secretas y la hora y el lugar no se publica hasta el último momento. Eso les da muy poco margen para hacerla llegar a sus goblins y si fallan todo el plan se irá al garete.
+
+En última instancia, Celose publicará un vídeo dando la hora y el lugar. Pero no será un mensaje sin más, sino un pequeño acertijo que solo tus cazadoras podrán descifrar, ya que tienen info que solo sabe ellas, como datos que solo ellas deberían como cazavampiros.
+
+Eloise solo quiere que las cazadoras sepan la ubicación de la rave, no quiere extraños en la fiesta. El resto de personas que van a ir a la rave son gente de confianza de Celose.
+
+En el vídeo Celose sale bailando delante de un fondo blanco con la música de la fiesta de vampiro de Blade. Lleva una camiseta blanca y con letras de sangres se puede leer __«Si fueras__ __Néstor, sabrías a qué hora empieza rave»__ y en la espalda se puede ver unos __colmillos mordiendo__ __una cuchilla__.
+
+Está claro que la rave será de noche y empezará al anochecer cuando los vampiros como Néstor pueden acudir. El problema es la ubicación. Un poco de lógica, un rato en YouTube y alguna búsqueda en internet y verán que la escena de inicio de Blade de la rave es un matadero.
+
+No hay mataderos ahora mismo en el barrio, pero si hay un viejo edificio abandonado que en los 60 y 70 fue un matadero. Está en un estado ruinoso, pero está apartado y es espacioso. 
+
+\sp
+
+#### Llamando a los goblins
+
+Podrían pasar la dirección a sus amigas y esperar que estás se las pasen a otras amigas y así hasta que todo el barrio lo sepa. El problema es que se arriesgan a que en las pocas horas antes de la rave el mensaje no llegue a suficientes amigas y amigos y no obtengan la cobertura y el caos que buscan. 
+
+Así que deberían buscar un sistema para pasarlo en el último momento, pero que puedan controlar quien acceder. Veamos algunas opciones.
+
+* Si tienen conocimientos informativos, montar un website con registro de algún tipo con el que puedan filtrar quien entra y quien no y una hora antes de la rave envíen la info por correo.
+* Montar una lista de amistades a las que mandar los mensajes y de suficiente confianza para que solo se lo pasen a otros menores.
+* Buscar canales en las redes donde solo haya menores del barrio y lanzar en el chat la ubicación de la rave. Una manera más analógica sería poner carteles con la info en sitios que solo vayan menores.
+
+Algunas ideas interesantes que pueden tener y que deberían darles positivos podrían ser:
+
+* Decirle a sus amigos que vayan con máscaras para no ser identificados.
+* Hacer correr entre sus compañeros la historia de que la rave va rollo Blade/vampiros y podrían encontrarse equipo como estacas y ajos, ya que los menores han entrado en la rave como cazavampiros.
+* Decirles que lo normal es llevar ropas oscuras y luces fluorescentes, así ellas no destacarán entre el resto de menores. 
+* La música estará altísima y más con miles de goblins arriba y abajo. Quizás tapones y aprender lenguaje de símbolos o las señales que hacen maderos/marines en las películas.
+
+#### La rave
+
+Una vez distribuido el lugar y la fecha, solo queda entrar en la rave y montar un buen follón. Para tus cazadoras no debería ser muy complicado, pero deberán buscar la manera de meter a los goblins si quieren que su plan tenga éxito.
+
+Toda la chavalada está en las calles y campas adyacentes al edificio así que si abrís una vía de entrada enseguida se correrá la voz para entrar todos.
+
+El viejo matadero donde se va está montando la rave, lleva años abandonado. Las puertas y ventanas están cerradas con maderos clavados y solo se ha abierto la entrada principal donde un par de miembros del equipo de seguridad controla la entrada. En principio, cualquier mayor de edad (o que lo parezca) puede entrar por esa puerta. 
+
+Tus cazadoras y el resto de goblins tendrán que buscarse otras vías. Veamos algunas opciones.
+
+* Con una buena palanca deberían poder abrir alguna ventana o puerta secundaría y entrar por ella.
+* Si suben al techo (solo hay un piso) hay unas escaleras que dan acceso al interior.
+* El matadero tenía una zona de carga y descarga donde hay persianas y rejas oxidadas que pueden ser forzadas.
+
+\sp
+
+Una vez dentro han vaciado todo el interior y solo hay algunas columnas llenas de altavoces y equipos de iluminación. 
+
+Hay unas entre 90 y 100 personas bailando desenfrenadamente por todo el matadero a lo que hay que sumar los goblins que están entrando por todas partes.
+
+En el centro hay un podio de gran tamaño en donde un DJ pincha su música en una gran mesa de mezcla. Junto a él Eloise baila y anima la fiesta. En un de los lados hay una mesa con refrescos y botellines de agua.
+
+Las drogas corren entre los asistentes y muchos todavía están conscientes, pero en un rato irán bastante ciegos y no se enterarán de nada, solo seguirán la música y las luces.
+
+#### Blade es un «pringao»
+
+Para empezar, no hay mejor momento que este para poner el [tema de la rave de Blade](https://www.youtube.com/watch?v=cNOP2t9FObw) en bucle.
+
+Celose no va a moverse de la mesa de mezcla a la espera de las cazadoras. Tus cazadoras tendrán que hacer el esfuerzo de subir al podium y enfrentarse a ella.
+
+Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
+
+* Siervos/seguridad
+* **Bueno (+2) en:** Vigilar, Retener personas
+* **Malo (-2) en:** Mezclarse entre la multitud y pasar desapercibidos, Organizarse y crear estrategias y planes
+* **Estrés:** ◯◯
+
+Los asistentes o están muy pasados o realmente se tomarán todo como una performance de Celose para dar el espectáculo, así que la mayoría de los que sean conscientes de lo que pasa se pondrán a grabarlo y a subirlo a sus redes. Los likes se dispararán y esos vídeos se viralizarán con lo que empezará a acercarse mucha gente al matadero al compartir la ubicación.
+
+Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía hay.
+
+* Para mover las grandes piezas de carne hay un sistema de carriles y poleas, viejo y oxidado pero todavía funcional. Podrían usarlo para alcanzar a Eloise, si se pone a flotar. También podrían usarlo como una manera de atarla para que no escape.
+* No queda anda del material de despiece como cuchillos y machetes, pero pueden encontrar barras de hierro y tuberías de plomo antiguas que usar como armas.
+* Si las estacas escasean, puede ser sencillo hacerlas de los tablones con que han cegado puertas y ventajas. Es madera vieja y los clavos muchas veces han abierto rajas a lo largo del tablero, con lo que se pueden conseguir de forma fácil piezas larga y puntiagudas de madera.
+* El potente equipo de luz y sonido es muy valioso, pero poco útil en combate. Aunque si tus cazadoras son ingeniosos podrían usarlo para deslumbrar a los siervos (y si lo hacen mal a ellas mismas).
+* Aparte de eso no debería haber mucho más, son muchos años de saqueo de los objetos valiosos.
+
+\sp
+
+### Eloise como aliada
+
+Si tus cazadoras dejaron escapar a Alfonse como aliado, **puede ser interesante darle la** **opción de aliarse con Eloise** de alguna manera. Piensa que es, dentro de la pirámide vampírica y junto a Alfonse, uno de los personajes más humano y más cercanos a ellos.
+
+Comprende a los humanos mucho mejor que el resto y está a la última y puedes hacer que con los años de streamer/influencer haya aprendido a verlos como algo distinto a simples presas e incluso tenga amistades online importantes para ella.
+
+Como Alfonse, si deciden dejarla con vida, podría ser **una buena aliada**. Pero a diferencia de Alfonse, Eloise no podrá seguir dentro del plan vampírico. Se trasladará a vivir a su estudio de influencer y seguirá como influencer mientras cuenta a las cazadoras lo que sabe del grupo Ceballos y del plan vampírico.
+
+También puede ser una poderosa aliada en combate, aunque solo sea por sus poderes vampíricos. Y también como espía o guardaespaldas.
+
+> Al estar fuera del mundo vampírico, Eloise es mucho más libre que Alfonse. No está tan bien informada y con tan buenos contactos, pero podrá meterse en todos los fregados con ellas.
+
+Si alguna de tus cazadoras destaca por su belleza, su carisma y tiene gusto por la moda y se interesa del famoseo, podrá atraer la atención de Eloise y esta podría trabar una amistad más profunda con ella y, como siempre, ofrecerle convertirla en una chupasangre.
+
 \sinc
 
-|PorHacerDos.md|
+|PorHacer.md|
 
 \sp
 
