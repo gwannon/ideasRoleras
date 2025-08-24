@@ -127,3 +127,4 @@
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QScientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QScientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QCatalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas.\\E$"}
+{"rule":"FORM","sentence":"^\\QPero déjales intentarlo, es una forma de que pierdan tiempo consultando abogados y juristas.\\E$"}

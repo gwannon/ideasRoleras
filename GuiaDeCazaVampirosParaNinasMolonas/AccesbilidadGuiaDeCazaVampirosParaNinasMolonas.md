@@ -2145,6 +2145,16 @@ XXX
 
 Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte durante las movilizaciones y tengan que buscar que la gente no les abandone.
 
+Celose podría usar sus contactos en las redes sociales para dar más viralidad a las protestas y muchos de sus locos seguidores se unirán a las movilizaciones o harán donaciones online.
+
+#### Otras opciones
+
+Las movilizaciones son la única manera de parar efectivamente el derribo, el resto de opciones solo pueden dar más tiempo a tus cazadoras, pero no evitarán el derribo.
+
+* Sabotear el derribo solo alargará el problema en el tiempo, si se ha votado el derribo un sabotaje no frenará a la maquinaria burocrática.
+* No hay dinero y gente interesada en levantar una serie de demandas contra el ayuntamiento.
+* Tampoco hay tiempo ni contactos para informar a otras empresas y que le planten cara al Grupo Ceballos.
+
 [![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
 
 ### Vertido tóxico
@@ -2152,6 +2162,8 @@ Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se mon
 Mientras que la demolición del campo de futbol puede ser detenida, el vertido tóxico es muy difícil de detener porque tus cazadoras no van a tener ninguna pista de cuando y donde. 
 
 Pueden que ya sepan que la planta de reciclaje de San Andrés, pertenece al Grupo Ceballos, pero no deberían tener pistas de la jugada de Nieve y el grupo Ceballos. Por suerte, el derrame no es algo que va a pasar en una noche, será algo que pasará durante 7 noches. Si bien no van a evitar las primeras noches si podrán evitar que se convierta en un gran desastre si pueden pararlo en las primeras noches.
+
+La idea de Nieve es que con el casino en marcha y los humedales destrozados, será fácil presentar un proyecto de construcción de la autopista de acceso y del parking del casino y que sea aprobado.
 
 XXX
 
