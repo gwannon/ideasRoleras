@@ -123,3 +123,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTeenager in the light of movie projector by freepik\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHeartbreak Hotel\\E$"}
 {"rule":"FORM","sentence":"^\\QEs madera vieja y los clavos muchas veces han abierto rajas a lo largo del tablero, con lo que se pueden conseguir de forma fácil piezas larga y puntiagudas de madera.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBreathtaking shot of a sunset along the street in the middle of a modern city by wirestock\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QScientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QScientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCatalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas.\\E$"}
