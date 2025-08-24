@@ -186,6 +186,7 @@ Creative Commons Attribution-NonCommercial-NoDerivs 2.0 Generic License
 * Marcha contra narcos y tratantes por [Pulso Cristiano](https://www.flickr.com/photos/pulsocristiano/28400999812/) Creative Commons Atribución-Compartir Igual 2.0 Genérica
 * sentada barcelona por [vdevivienda](https://www.flickr.com/photos/vdevivienda/243035023/) Creative Commons Atribución-NoComercial-CompartirIgual 2.0 Genérica
 * Scientist exploring territory emission area polluted water man in protective suit by [ArtPhoto_studio](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm)
+* Vampire V20 Spain illustration 4th inks By [IvanValladares](https://www.deviantart.com/ivanvalladares/art/Vampire-V20-Spain-illustration-4th-inks-843703016)
 
 \sp
 
