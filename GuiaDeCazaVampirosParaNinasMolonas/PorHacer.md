@@ -79,11 +79,22 @@ Esta visita también les dirá que no deben fiarse de la APCHUM en temas del ver
 
 #### No nos moverán
 
+No es fácil montar una sentada/recogida de firmas/manifestación en tan poco tiempo, pero deberán buscar la manera de movilizar a unos cientos o miles de personas para que monten un evento reivindicativo en favor de conservar el estadio. La idea es atraer los medios y que la gente empiece a hacer preguntas al alcalde.
+
+Algunas opciones para conseguir manifestantes son:
+
+* Pueden tratar de convencer a sus compañeros de clase.
+* Si están en algún tipo de equipo deportivo que usaba las instalaciones podrían convencer a sus compañeros de equipo y entrenadores.
+* Convencer a personas desocupadas como jubilados o estudiantes es relativamente fácil si encuentran el punto de unión. Quizas algún grupo de jubilados usaba las instalaciones del estadio para su gimnasia geriátrica.
+* Las peñas deportivas del equipo del barrio pueden ser una buena opción donde conseguir gente.
+
 XXX
 
 Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte durante las movilizaciones y tengan que buscar que la gente no les abandone.
 
 Celose podría usar sus contactos en las redes sociales para dar más viralidad a las protestas y muchos de sus locos seguidores se unirán a las movilizaciones o harán donaciones online.
+
+\sp
 
 #### Otras opciones
 
@@ -98,8 +109,6 @@ Las movilizaciones son la única manera de parar efectivamente el derribo, el re
 \sinc
 
 [![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
-
-&nbsp;
 
 \conc
 

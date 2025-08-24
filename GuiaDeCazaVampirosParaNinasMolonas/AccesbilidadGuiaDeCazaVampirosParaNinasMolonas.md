@@ -2141,6 +2141,15 @@ Esta visita también les dirá que no deben fiarse de la APCHUM en temas del ver
 
 #### No nos moverán
 
+No es fácil montar una sentada/recogida de firmas/manifestación en tan poco tiempo, pero deberán buscar la manera de movilizar a unos cientos o miles de personas para que monten un evento reivindicativo en favor de conservar el estadio. La idea es atraer los medios y que la gente empiece a hacer preguntas al alcalde.
+
+Algunas opciones para conseguir manifestantes son:
+
+* Pueden tratar de convencer a sus compañeros de clase.
+* Si están en algún tipo de equipo deportivo que usaba las instalaciones podrían convencer a sus compañeros de equipo y entrenadores.
+* Convencer a personas desocupadas como jubilados o estudiantes es relativamente fácil si encuentran el punto de unión. Quizas algún grupo de jubilados usaba las instalaciones del estadio para su gimnasia geriátrica.
+* Las peñas deportivas del equipo del barrio pueden ser una buena opción donde conseguir gente.
+
 XXX
 
 Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte durante las movilizaciones y tengan que buscar que la gente no les abandone.
@@ -2255,15 +2264,19 @@ Está claro que una simple denuncia por grave que sea no puede hacer caer una gr
 
 Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
 
+[![Vampire V20 Spain illustration 4th inks By IvanValladares](./assests/images/vampire_v20_spain_illustration_4th_inks_by_ivanvalladares_ddybhew-pre.jpg "Vampire V20 Spain illustration 4th inks By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Vampire-V20-Spain-illustration-4th-inks-843703016 "Vampire V20 Spain illustration 4th inks By IvanValladares")
+
 ### Y después su CTO
 
-Si Nieve es incapaz de controlar el estrés de normal con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
+Si Nieve es incapaz de controlar el estrés de normal, con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
 
-En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y saldrá a las calles en busca de tus cazadoras, corriendo a cuatro patas y dando grandes saltos gracias a su flotabilidad. Lanzará terribles aullidos 
+En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y destrozará su oficina. Totalmente fuera de sí, saldrá a las calles en busca de tus cazadoras.
 
-Empezará a recorrer el barrio como algún tipo de bestia salvaje que ira atacando a los peatones. La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
+Empezará a recorrer el barrio como algún tipo de bestia salvaje corriendo a cuatro patas que ira atacando a los peatones. Lanzará terribles aullidos y dará grandes saltos gracias a su fuerza y capacidad de flotar.
 
-Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas».
+La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
+
+Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas». Recuerda que incluso totalmente ida, una vampira no puede entrar en aquellos sitios donde no haya sido invitada, pero los transeúntes pueden ser víctimas de sus ataques.
 
 Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
 
