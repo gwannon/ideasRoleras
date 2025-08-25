@@ -590,7 +590,7 @@ La manera principal de descubrir todo el tinglado de Verónica es tener que ir a
 
 \sp
 
-Puede haber varias formas de acabar en el hospital. Si van a curarse heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
+Puede haber varias maneras de acabar en el hospital. Si van a curarse heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
 
 Otra manera es que vayan al hospital por alguna razón y la pillen alimentándose de algún paciente. No tiene que ser muy evidente, pero por lo menos sospechoso.
 
@@ -1319,6 +1319,8 @@ Antes de que se den cuenta, las habrán despachado con folletos con consejos eco
 
 Esta visita también les dirá que no deben fiarse de la APCHUM en temas del vertido tóxico que está desarrollándose al mismo tiempo. De hecho si hablan con otras asociaciones ecologistas, les dirán que son unos «vendidos al dinero» del grupo Ceballos.
 
+\sc
+
 #### No nos moverán
 
 No es fácil montar una sentada/recogida de firmas/manifestación en tan poco tiempo, pero deberán buscar la manera de movilizar a unos cientos o miles de personas para que monten un evento reivindicativo en favor de conservar el estadio. La idea es atraer los medios y que la gente empiece a hacer preguntas al alcalde.
@@ -1347,15 +1349,7 @@ Las movilizaciones son la única manera de parar efectivamente el derribo, el re
 * Sabotear el derribo solo alargará el problema en el tiempo, si se ha votado el derribo un sabotaje no frenará a la maquinaria burocrática.
 * No hay dinero y gente interesada en levantar una serie de demandas contra el ayuntamiento.
 * Tampoco hay tiempo ni contactos para informar a otras empresas y que le planten cara al Grupo Ceballos.
-* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiendose de todo.
-
-\sp
-
-\sinc
-
-[![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
-
-\conc
+* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiéndose de todo.
 
 |PorHacer.md|
 

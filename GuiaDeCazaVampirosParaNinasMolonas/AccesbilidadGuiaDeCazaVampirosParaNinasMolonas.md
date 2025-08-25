@@ -1480,7 +1480,7 @@ Verónica tiene a su servicio un par de celadores de noche que le sirven incondi
 
 La manera principal de descubrir todo el tinglado de Verónica es tener que ir a urgencias del hospital general del barrio.
 
-Puede haber varias formas de acabar en el hospital. Si van a curarse heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
+Puede haber varias maneras de acabar en el hospital. Si van a curarse heridas de combate, Verónica les atenderá y reconocerá ese tipo de heridas. Las ha visto muchas veces en las víctimas de Néstor.
 
 Otra manera es que vayan al hospital por alguna razón y la pillen alimentándose de algún paciente. No tiene que ser muy evidente, pero por lo menos sospechoso.
 
@@ -2165,9 +2165,7 @@ Las movilizaciones son la única manera de parar efectivamente el derribo, el re
 * Sabotear el derribo solo alargará el problema en el tiempo, si se ha votado el derribo un sabotaje no frenará a la maquinaria burocrática.
 * No hay dinero y gente interesada en levantar una serie de demandas contra el ayuntamiento.
 * Tampoco hay tiempo ni contactos para informar a otras empresas y que le planten cara al Grupo Ceballos.
-* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiendose de todo.
-
-[![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
+* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiéndose de todo.
 
 ### Vertido tóxico
 
@@ -2176,6 +2174,34 @@ Mientras que la demolición del campo de futbol puede ser detenida, el vertido t
 Pueden que ya sepan que la planta de reciclaje de San Andrés, pertenece al Grupo Ceballos, pero no deberían tener pistas de la jugada de Nieve y el grupo Ceballos. Por suerte, el derrame no es algo que va a pasar en una noche, será algo que pasará durante 7 noches. Si bien no van a evitar las primeras noches si podrán evitar que se convierta en un gran desastre si pueden pararlo en las primeras noches.
 
 La idea de Nieve es que con el casino en marcha y los humedales destrozados, será fácil presentar un proyecto de construcción de la autopista de acceso y del parking del casino y que sea aprobado.
+
+#### El plan de Nieve
+
+El casino que el Grupo quiere montar no sirve de nada sin unos buenos terrenos donde montar una autopista de acceso y un buen parking y para ellos hay que coger terrenos de los humadeles. Así que lo mejor es cargarse los humedales y toda la biodiversidad que hay en ellos.
+
+La idea es que tras un desastre ecológico, se presentarán como revitalizadores del barrio y se comprometerán a limpiar todos los humedales a cambio de una parte donde construir las instalaciones que necesitan. 
+
+[![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
+
+Han comprado a la APCHUM para que cuando salten todo tipo de alarmas o problemas ellos, como asociación ecologista del barrio, les laven la cara frente a la opinión pública.
+
+Para montar su vertido tóxico hace unos años, cuando Lord Ceballos empezó a dar forma al plan vampírico para quedarse con el barrio, compró la fundición de San Andrés a través de varias empresas pantalla. Han ido probando métodos de hacer vertidos destructivos en los humedales y más o menos tienen un sistema funcional que no pueda ser detectado fácilmente y saldrá como un accidente que como un acto predeterminado.
+
+XXX
+
+#### Los primeros escapes
+
+XXX
+
+#### Buscando la fuente de los vertidos
+
+__ANOCHECER__
+
+XXX
+
+#### Pruebas gráficas
+
+__NOCHE__
 
 XXX
 

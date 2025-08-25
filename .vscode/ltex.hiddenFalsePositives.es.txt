@@ -128,3 +128,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QScientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QCatalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas.\\E$"}
 {"rule":"FORM","sentence":"^\\QPero déjales intentarlo, es una forma de que pierdan tiempo consultando abogados y juristas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSuspicious Minds\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCon unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».\\E$"}
+{"rule":"AGREEMENT_SUBJECT_VERB_SG_PL","sentence":"^\\QIgual tienen que irse de colonias y campamentos y cerca haya un antiguo castillo propiedad de un viejo conde vampiro.\\E$"}
