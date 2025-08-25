@@ -2110,7 +2110,7 @@ Diego Villal tomó la decisión de tirar abajo el estadio por chantajes (droga y
 
 Si consiguen derribar el estadio, solo quedará un solar vacío sin mucho valor por estar cerca de los humedales y no tener ningún tipo de infraestructura decente cerca. Será fácil presentar el proyecto del casino y conseguir que el ayuntamiento lo acepte y el precio debería ser muy bajo. 
 
-Si la gente supiese que por otro lado el humedal va a ser destruido y construida una autopista de acceso, el precio del solar se dispararía y otras empresas se interesarían por él. Por eso el tiempo es fundamental para Nieve y el Grupo Ceballos, deben actuar antes de despertar intereses de la competencia.
+Si la gente supiese que, por otro lado, el humedal va a ser destruido y construida una autopista de acceso, el precio del solar se dispararía y otras empresas se interesarían por él. Por eso el tiempo es fundamental para Nieve y el Grupo Ceballos, deben actuar antes de despertar intereses de la competencia.
 
 #### Burocracia central
 
@@ -2120,14 +2120,14 @@ El proyecto de creación del casino ha sido convenientemente ocultado troceándo
 
 Si no son mayores de edad no podrán consultar esos documentos, así que deberán buscarse la manera de que alguien mayor los consulte. Está claro que si alguien pide esos documentos, saltarán alarmas en las oficinas del Grupo Ceballos. Se han encargado bien de untar a la gente del registro del ayuntamiento, para recibir un aviso en caso de que se soliciten ciertos documentos.
 
-Quizas engañen a alguien «random» para que les haga la petición o puedan simular que un adulto está haciendo las peticiones. Pueden tratar de conseguir que Catalina (ya deberían haber conocido) les ayude, pero déjales claro que la pondrían en peligro, mejor dejarlo para cuando tengan más pruebas. 
+Quizas engañen a alguien «random» para que les haga la petición o puedan simular que un adulto está haciendo las peticiones. Pueden tratar de conseguir que Catalina (ya deberían haber conocido) les ayude, pero déjales claro que la pondrían una diana en la espalda, mejor dejarlo para cuando tengan más pruebas. 
 
 Con todos los documentos delante, pueden seguir algunas vías de acción:
 
 * Ver que pasa con la asociación ecologista del proyecto puede ser interesante y les ayudará con el vertido tóxico.
 
-* No pueden deshacer las votaciones municipales y no tienen tiempo de preparar alguna estrategia legal para parar el derribo. Pero déjales intentarlo, es una forma de que pierdan tiempo consultando abogados y juristas.
-* Pueden montar una manifas o unas sentadas populares. Estos actos pueden atraer la opinión pública y pueden obligar al ayuntamiento a parar el derribo. 
+* No pueden deshacer las votaciones municipales y no tienen tiempo de preparar alguna estrategia legal para parar el derribo. Pero déjales intentarlo, es una forma de que pierdan tiempo consultando abogados y juristas y se desesperen al tratar de montar el siguiente punto.
+* Pueden montar unas manifas o unas sentadas populares. Estos actos pueden atraer la opinión pública y pueden obligar al ayuntamiento a parar el derribo. 
 
 #### Visitando la APCHUM
 
@@ -2149,12 +2149,14 @@ Algunas opciones para conseguir manifestantes son:
 * Si están en algún tipo de equipo deportivo que usaba las instalaciones podrían convencer a sus compañeros de equipo y entrenadores.
 * Convencer a personas desocupadas como jubilados o estudiantes es relativamente fácil si encuentran el punto de unión. Quizas algún grupo de jubilados usaba las instalaciones del estadio para su gimnasia geriátrica.
 * Las peñas deportivas del equipo del barrio pueden ser una buena opción donde conseguir gente.
+* Celose podría usar sus contactos en las redes sociales para dar más viralidad a las protestas y muchos de sus locos seguidores se unirán a las movilizaciones o harán donaciones online.
 
-XXX
+__No es necesario llevar la cuenta__ __de cuanta gente está llegando__ a las movilizaciones con cada acto, simplemente dales unos números con cada nuevo intento. Cuando veas que se lo han currado lo suficiente, aparecerá Lidia Beltrán, política en la oposición en el ayuntamiento. Se presentará en el estadio prometiendo parar el derribo y crear una comisión de investigación para depurar responsabilidades.
 
-Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte durante las movilizaciones y tengan que buscar que la gente no les abandone.
+Puedes hacer que el evento de «Mientras tanto» titulado «La boy band» se monte durante las movilizaciones y tengan que buscar que la 
+gente no les abandone por el concierto.
 
-Celose podría usar sus contactos en las redes sociales para dar más viralidad a las protestas y muchos de sus locos seguidores se unirán a las movilizaciones o harán donaciones online.
+> Lo importante de estas escenas no es parar el derribo, sino encontrar la documentación que demuestra que el derribo es intencionado para facilitar la construcción del nuevo Casino y como ha sido ocultado a propósito.
 
 #### Otras opciones
 
@@ -2163,6 +2165,7 @@ Las movilizaciones son la única manera de parar efectivamente el derribo, el re
 * Sabotear el derribo solo alargará el problema en el tiempo, si se ha votado el derribo un sabotaje no frenará a la maquinaria burocrática.
 * No hay dinero y gente interesada en levantar una serie de demandas contra el ayuntamiento.
 * Tampoco hay tiempo ni contactos para informar a otras empresas y que le planten cara al Grupo Ceballos.
+* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiendose de todo.
 
 [![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
 
