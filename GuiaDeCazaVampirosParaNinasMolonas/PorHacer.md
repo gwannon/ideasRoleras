@@ -39,11 +39,14 @@ __ANOCHECER__
 
 XXX
 
+Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeina y vbebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero prodría pueda dormir y recuperar sueño perdido.
+
 #### Pruebas gráficas
 
 __NOCHE__
 
 XXX
 
+\sp
 
 > A pesar del problema del tiempo y el cansancio acumulado, si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarlas en la preparación y durante la gran sentada que se montará en capítulos posteriores.
