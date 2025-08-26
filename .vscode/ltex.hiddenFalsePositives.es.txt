@@ -131,3 +131,19 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSuspicious Minds\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QCon unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».\\E$"}
 {"rule":"AGREEMENT_SUBJECT_VERB_SG_PL","sentence":"^\\QIgual tienen que irse de colonias y campamentos y cerca haya un antiguo castillo propiedad de un viejo conde vampiro.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDeben considerar que Catalina es muy escéptica en temas sobrenaturales, así que sin buenas pruebas físicas (como Alfonse o Eloise), en esta parte de la trama será casi imposible convencerla de la existencia del plan vampírico.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QDon’t Be Cruel\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDon’t Be Cruel\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFull-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire V20 Spain illustration 4th inks By IvanValladares\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBlue Suede Shoes\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIncluso podemos avanzar más y migrar tus personajes a otros juegos como cazadoras de vampiros en World of Darkness o superespías de Agentes de la noche.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMoney, money\\E$"}
+{"rule":"REAL","sentence":"^\\QLa historia real\\E$"}
+{"rule":"FORM","sentence":"^\\QAlfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma trash (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.\\E$"}
+{"rule":"FORM","sentence":"^\\QTambién podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnadie les va a creer.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlas típicas cosas que le dicen a la protagonista de una peli de miedo al principio.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBurning love\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QCan’t Help Falling in Love\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCan’t Help Falling in Love\\E$"}

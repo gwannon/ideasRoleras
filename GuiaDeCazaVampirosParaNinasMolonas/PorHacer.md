@@ -35,6 +35,8 @@ El primer de la semana las redes de la gente del barrio se llenarán de vídeos 
 
 El equipo municipal de limpieza se encargará de limpiar lo que pueda de fauna muerta y al día siguiente se repetirá la misma situación. Enseguida todos los ojos mirarán a la fundición San Andrés que ya ha tenido problemas parecidos otras veces y serían una de las pocas opciones contaminantes de la zona.
 
+\sp
+
 En cuanto se monte revuelo en las redes, habrá un comunicado de la APCHUM (apoyado por otros grupos ecologistas) desmiento esa posibilidad, ya que los tanques y fosos de almacenamiento de productos tóxicos están lejos de los lugares de donde hubo las muertes masivas de fauna. De haberse roto o haberse hecho filtraciones, los tóxicos habrían afectado a la fauna cercana a la empresa.
 
 Entre este suceso y el derribo del estadio municipal, situación se va a calentar en el barrio. Discusiones a gritos entre vecinos a favor y en contra de ambos eventos, gente recogiendo animales muertos de los humedales, periodistas y curiosos, etc.
@@ -52,8 +54,6 @@ Las vigilancias diurnas no van a dar ningún resultado en cuanto a los vertidos,
 XXX
 
 Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeína y bebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero podría pueda dormir y recuperar sueño perdido.
-
-\sp
 
 #### Pruebas gráficas
 

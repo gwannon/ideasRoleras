@@ -55,8 +55,10 @@ En el tablero que es esta partida hay muchas piezas, rey, reina, torres, caballo
 
 El barrio está poblado de personajes secundarios que tienen sus vidas y sus historias y que pueden ayudarte o entorpecerte en tu lucha contra los vampiros.
 
+* _Verónica:_ Vampira noob al servicio de Néstor para acabar con la sanidad en el barrio.
 * _Samuel:_ Psicólogo «new age». Plasta pero bienintencionado.
 * _«El Mordor»:_ El peor profesor de la historia y la prehistoria.
+* _Ernesto Lujua y Diego Villal:_ Concejales corruptos vendidos al grupo Ceballos.
 
 \sp
 
@@ -72,15 +74,15 @@ _DÍA_
 
 Todas las madres, padres o tutores de tus PJ han tenido la misma idea, ir al tanatorio a despedirse de su profesora. Nadie les hace caso, los adultos como siempre están en sus cosas y tus futuras cazadoras están juntas en una esquina. La difunta está de cuerpo presente y ninguna ha visto nunca un muerto.
 
-Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos Mediocre (+0). El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
+Pueden _echarle un vistazo al cadáver_ si se quitan de encima las miradas de los adultos Fácil (+0). El maquillaje es muy bueno y parece que está viva, pero llama la atención que le han puesto unos guantes largos negros y en el cuello tiene dos heriditas, como dos pinchazos.
 
-Si se ponen a _fisgonear entre los adultos_ Mediocre (+0), podrán enterarse de que Maricarmen se debió suicidar en su casa y se preocuparon cuando no apareció por el colegio al día siguiente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
+Si se ponen a _fisgonear entre los adultos_ Fácil (+0), podrán enterarse de que Maricarmen se debió suicidar en su casa y se preocuparon cuando no apareció por el colegio al día siguiente. Debía estar medicada para la depresión y no debía estar muy bien de salud. Alguna madre recuerda verla muy pálida en las últimas reuniones.
 
 Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. Si se acercan mucho e intentan hablar con él, responderá con monosílabos y huirá a los baños. 
 
-De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar Mediocre (+0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
+De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar Fácil (+0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
-Lo curioso es que no parece nada afectado. Igual alguna se acuerda de una serie de CSI Mediocre (+0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares. Aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
+Lo curioso es que no parece nada afectado. Igual alguna se acuerda de una serie de CSI Fácil (+0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares. Aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
 
 Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únicas niñas de la misma edad, así que seguramente se juntarán para hablar de las cosas raras. Se habrán visto fisgando por el tanatorio y quizás puedan intercambiar información y cotilleos.
 
@@ -90,7 +92,7 @@ Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únic
 
 Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas más grandes, no para de moverse nerviosamente y no deja de mirar a todas partes. Es uno de los siervos más incompetentes de Alfonse (ver más adelante). Este vampiro le ha mandado observar qué pasa en el velatorio y comunicárselo.
 
-Si consiguen _robarle el móvil_ (+4) verán que envía fotos mensajes a Máster Alfonse poniendo notas sobre quiénes aparecen en las fotos.
+Si consiguen _robarle el móvil_ (Extremadamente difícil +4) verán que envía fotos mensajes a Máster Alfonse poniendo notas sobre quiénes aparecen en las fotos.
 
 * Siempre nervioso
 * **Bueno (+2) en:** Observando y apuntando cosas, Cavar hoyos
@@ -195,7 +197,7 @@ Maricarmen compartía despacho con «El Mordor», el peor y más malvado profeso
 
 El despacho solo es accesible en horario escolar, así que tendrán que escaquearse de clase en una hora que «El Mordor» tenga clase también. En el recreo «El Mordor» se va al despacho con lo que no pueden hacerlo en ese momento. 
 
-La cerradura es muy simple y se puede abrir con trucos sacados de YouTube (tirada mediocre +0). Lo óptimo es un grupo vigilando cada lado del pasillo del despacho y otro entrando al despacho.
+La cerradura es muy simple y se puede abrir con trucos sacados de YouTube (tirada Fácil +0). Lo óptimo es un grupo vigilando cada lado del pasillo del despacho y otro entrando al despacho.
 
 Han metido todas sus cosas en una caja de cartón esperando que vengan a buscarlo. No hay nada especial excepto una copia de sus llaves de casa, pero se puede sacar conclusiones.
 
@@ -238,9 +240,9 @@ La familia de Ernesto y Maricarmen eran constructores que fueron acumulando piso
 
 Al morir dejo el negocio de los pisos a su hijo Ernesto y la fortuna familiar en un fideicomiso vitalicio a su hija Maricarmen que le permitiría vivir cómodamente. También puso un montón de reglas que permitían a Maricarmen vetar las decisiones de su hermano con los pisos.
 
-Mientras que Ernesto ascendía en política siendo concejal de urbanismo, su hermana se hizo profesora y donaba una parte importante del fideicomiso a ONG y organizaciones vecinales.
+Mientras que Ernesto ascendía en política siendo concejal del ayuntamiento, su hermana se hizo profesora y donaba una parte importante del fideicomiso a ONG y organizaciones vecinales.
 
-Ernesto siempre se vio coartado en sus negocios por los vetos de su hermana. Y ahora que como concejal podía sacar tajada con sus pisos su hermana seguía siendo un problema.
+Ernesto siempre se vio coartado en sus negocios por los vetos de su hermana. Y ahora que como concejal podía sacar tajada con sus pisos, su hermana seguía siendo un problema.
 
 Entonces apareció el grupo Ceballos con una propuesta y su correspondiente soborno para derribar el campo de fútbol municipal y construir un casino en su lugar y construir un acceso desde la autopista y un parking en los humedales.
 
@@ -312,7 +314,7 @@ De día el sitio está vacío excepto por la seguridad que vigila el exterior de
 
 [![Front view young female dj entertaining crowd by Freepik](./assests/images/front-view-young-female-dj-entertaining-crowd.jpg "Front view young female dj entertaining crowd by Freepik")](https://www.freepik.com/free-photo/front-view-young-female-dj-entertaining-crowd_5854739.htm "Front view young female dj entertaining crowd by Freepik")
 
-Si montan una vigilancia, verán que Alfonse sale muy poco de su discoteca y normalmente acompañado de alguna víctima. Si está solo, no usa la puerta, prefiere otros métodos menos humanos. Sale a la azotea y flota hasta la calle, cubierto con una capa negra con capucha. Es tremendamente difícil de detectar de noche con ropa oscura, flotando y sin hacer ruido (tirada Grande +4).
+Si montan una vigilancia, verán que Alfonse sale muy poco de su discoteca y normalmente acompañado de alguna víctima. Si está solo, no usa la puerta, prefiere otros métodos menos humanos. Sale a la azotea y flota hasta la calle, cubierto con una capa negra con capucha. Es tremendamente difícil de detectar de noche con ropa oscura, flotando y sin hacer ruido (tirada Extremadamente difícil +4).
 
 ### Entrando en «Jaula»
 
@@ -358,11 +360,11 @@ Es muy buene sonsacando vicios prohibidos, fetiches y perversiones de sus vícti
 
 Igual se les ocurre a tus jugadoras cortarle el rollo, pero eso supondría ponerse al descubierto y realmente tendría que hacer algo gordo como activar los aspersores pulsando la alarma antiincendios.
 
-Si quieren seguirle al reservado, la única forma de ver lo que pasa dentro es escabulléndose dentro. Desde fuera solo oirán gemidos y suspiros, pero no como los que les han podido oír a sus padres.
+Si quieren seguirle al reservado, la única manera de ver lo que pasa dentro es escabulléndose dentro. Desde fuera solo oirán gemidos y suspiros, pero no como los que les han podido oír a sus padres.
 
-La escena del reservado no sería excesivamente rara si no fuera por ciertos detallitos. Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma trash (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
+La escena del reservado no sería excesivamente rara si no fuera por ciertos detallitos. Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma «trash» (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
 
-De repente, Alfonse levantará la cabeza de sus víctimas y les verá con sus profundos ojos rojos y empezará a chillar. Podrías pedirles alguna tirada Buena (+2) para evitar chillar de miedo o quedarse petrificada.
+De repente, Alfonse levantará la cabeza de sus víctimas y les verá con sus profundos ojos rojos y empezará a chillar. Podrías pedirles alguna tirada Moderadamente difícil (+2) para evitar chillar de miedo o quedarse petrificada.
 
 Es un buen momento para recordarles que si no han dicho nada, llevan la cara descubierta y Alfonse se las ha visto.
 
@@ -984,7 +986,7 @@ Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casi
 
 La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
-Recuerda que los vampiros siempre montan planes complicados y ostentosos, solo pueden actuar de noche y no pueden entrar en casa si no están invitados con lo que una fiesta/trampa como esta entra dentro de sus rebuscada forma de pensar.
+Recuerda que los vampiros siempre montan planes complicados y ostentosos, solo pueden actuar de noche y no pueden entrar en casa si no están invitados con lo que una fiesta/trampa como esta entra dentro de su rebuscada forma de pensar.
 
 [![Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2](./assests/images/LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")](https://commons.wikimedia.org/wiki/File:LA2_Milda_pepparkakshus_2009_framsida.jpg "Full-size gingerbread house made by Milda, a margarine and cream products producer, seen at front in Stockholm Central Station by LA2")
 
@@ -1032,7 +1034,7 @@ Puedes ser creativo poniéndoles en el paseo por el bosque algunos dilemas moral
 
 #### Detectar a Eloise como vampira
 
-Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen como Celose. Así que debería ser difícil (Enorme +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
+Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen como Celose. Así que debería ser difícil (Extremadamente difícil +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
 
 Está claro, que tus cazadoras deben ya saber que todo esto huele mucho a plan vampiro, pero deben caer en la trampa para poder seguir como sigue la historia, así lo primero debería saber es conocer a su próximo objetivo y saber de qué va. Es por ello que la fiesta es la manera principal de saber si Celose es una vampira.
 
@@ -1043,7 +1045,7 @@ Recuerda que su disfraz de bruja es de «Wicked» y como la protagonista está m
 * El maquillaje verde que lleva encima hace que no les afecte la luz ultravioleta. Necesitaría una exposición de más de 10 segundos para que le haga daño. La luz del día sigue siendo igual de mortal.
 * Se ha hartado de sangre y la visión de sangre puede controlarlo sin problema.
 
-Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
+Realmente la mejor prueba, sería sacar su forma «trash». Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
 
 * Estropear su evento, del que se siente muy orgullosa. Solo hay que ver el número de visionados que hay en el directo.
 * Robarle el foco y que los seguidores empiecen a hablar más de las invitadas que de ella.
@@ -1056,7 +1058,7 @@ Realmente la mejor prueba, sería sacar su forma trash. Sería una prueba irrefu
 
 El combate final debería ser en la casita de chocolate que hay en mitad de la fiesta, pero no es algo necesario, este enfrentamiento entre Eloise y tus cazadoras podría ser en cualquier parte del bosque si ellas lo buscan. Sin embargo, creo que puede ser un combate divertido y diferente hacerlo dentro de una casita de chocolate que se está derritiendo.
 
-Eloise pedirá a las cazadoras que entren con ella en la casita y le ayuden a sacar la gigantesca tarta de cumpleaños, para poder splar la verlas y comerla con el resto de invitadas en la gran mesa de fuera.
+Eloise pedirá a las cazadoras que entren con ella en la casita y le ayuden a sacar la gigantesca tarta de cumpleaños, para poder soplar las velas y comerla con el resto de invitadas en la gran mesa de fuera.
 
 Huele muchísimo a trampa y sobre todo si ya tienen claro el vampirismo de Celose, pero también es una oportunidad de estar a solas con ella y de hablar, negociar o sacar las estacas de madera. 
 
@@ -1203,7 +1205,7 @@ Para empezar, no hay mejor momento que este para poner el [tema de la rave de Bl
 
 Celose no va a moverse de la mesa de mezcla a la espera de las cazadoras. Tus cazadoras tendrán que hacer el esfuerzo de subir al podium y enfrentarse a ella.
 
-Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise se pondrá en modo trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
+Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise se pondrá en modo «trash» y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
 
 * Siervos/seguridad
 * **Bueno (+2) en:** Vigilar, Retener personas
@@ -1533,7 +1535,7 @@ En general cualquier grupo medianamente organizado ha sufrido con los tejemaneje
 
 \sinc
 
-[![Sentada Barcelona por vdevivienda](./assests/images/243035023_ae40357f9c_o.jpg "Sentada Barcelona por vdevivienda")](https://www.flickr.com/photos/vdevivienda/243035023/ "Sentada Barcelona por vdevivienda")
+[![Sentada Barcelona por la vivienda](./assests/images/243035023_ae40357f9c_o.jpg "Sentada Barcelona por la vivienda")](https://www.flickr.com/photos/vdevivienda/243035023/ "Sentada Barcelona por la vivienda")
 
 &nbsp;
 
