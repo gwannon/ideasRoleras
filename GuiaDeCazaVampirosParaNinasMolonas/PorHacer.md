@@ -31,13 +31,23 @@ XXX
 
 #### Los primeros escapes
 
-El primer de la semana las redes de la gente del barrio se llenarán de vídeos de diferente fauna muerta en los humedales, hablamos de ranas y peces. 
+El primer de la semana las redes de la gente del barrio se llenarán de vídeos de diferente fauna muerta en los humedales, hablamos de ranas y peces. Las muertes no han sido solo por envenenamiento, hay muchos con fuertes quemaduras químicas es decir que estuvieron en contacto directo con los tóxicos cuando fueron vertidos y estos les produjeron las quemaduras.
+
+El equipo municipal de limpieza se encargará de limpiar lo que pueda de fauna muerta y al día siguiente se repetirá la misma situación. Enseguida todos los ojos mirarán a la fundición San Andrés que ya ha tenido problemas parecidos otras veces y serían una de las pocas opciones contaminantes de la zona.
+
+En cuanto se monte revuelo en las redes, habrá un comunicado de la APCHUM (apoyado por otros grupos ecologistas) desmiento esa posibilidad, ya que los tanques y fosos de almacenamiento de productos tóxicos están lejos de los lugares de donde hubo las muertes masivas de fauna. De haberse roto o haberse hecho filtraciones, los tóxicos habrían afectado a la fauna cercana a la empresa.
+
+Entre este suceso y el derribo del estadio municipal, situación se va a calentar en el barrio. Discusiones a gritos entre vecinos a favor y en contra de ambos eventos, gente recogiendo animales muertos de los humedales, periodistas y curiosos, etc.
 
 XXX
 
 #### Buscando la fuente de los vertidos
 
 __ANOCHECER__
+
+Si tus cazadoras empiezan a investigar la fundición, se toparán con un muro empresas, algunas fueras del país que les harán imposible, llegar hasta la empresa propietaria final. 
+
+Las vigilancias diurnas no van a dar ningún resultado en cuanto a los vertidos, pero si son listas (Moderadamente difícil +2) verán que es mucha casualidad que todas las empresas que dan servicios a la fundición son del Grupo Ceballos. Desde la empresa que trae el material para reciclar, hasta los rellenan las máquinas de refrescos y de sandwiches son parte del Grupo Ceballos. 
 
 XXX
 

@@ -706,7 +706,7 @@ Además, está entrando pequeños camellos todo el tiempo a conseguir más mater
 
 La lonja cuenta con un __cierre centralizado de__ __todas las puertas y ventajas__ __cuyo mando controla Néstor__, de forma que, para bien o para mal, nadie puede entrar y nadie puede salir.
 
-Su guarida es su despacho y la puerta está reforzada, ya que mueve mucho dinero y lo guarda en su despacho hasta que vienen a buscarlo del Grupo Ceballos para blanquearlo.
+Su guarida es su despacho y la puerta está reforzada, ya que mueve mucho dinero y lo guarda en su despacho hasta que vienen a buscarlo una empresa de seguridad perteneciente al Grupo Ceballos para blanquearlo.
 
 Como buen vampiro temeroso del fuego, el sistema antiincendios está instalado y funcional. A esta hora tus cazadoras deberían saber que si quieren saber si un local es una guarida vampírica debe tener aspersores con las revisiones pasadas.
 
