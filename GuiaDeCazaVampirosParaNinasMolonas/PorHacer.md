@@ -23,13 +23,15 @@ La idea es que tras un desastre ecológico, se presentarán como revitalizadores
 
 \conc
 
-Han comprado a la APCHUM para que cuando salten todo tipo de alarmas o problemas ellos, como asociación ecologista del barrio, les laven la cara frente a la opinión pública.
+Han comprado a la APCHUM para que cuando salten todo tipo de alarmas o problemas, ellos, como asociación ecologista del barrio, les laven la cara frente a la opinión pública.
 
-Para montar su vertido tóxico hace unos años, cuando Lord Ceballos empezó a dar forma al plan vampírico para quedarse con el barrio, compró la fundición de San Andrés a través de varias empresas pantalla. Han ido probando métodos de hacer vertidos destructivos en los humedales y más o menos tienen un sistema funcional que no pueda ser detectado fácilmente y saldrá como un accidente que como un acto predeterminado.
+Para montar su vertido tóxico hace unos años, cuando Lord Ceballos empezó a dar forma al plan vampírico para quedarse con el barrio, compró la fundición de San Andrés a través de varias empresas pantalla. Han ido probando métodos de hacer vertidos destructivos en los humedales y más o menos tienen un sistema funcional que no puede ser detectado fácilmente y saldrá más como un accidente que como un acto predeterminado.
 
 XXX
 
 #### Los primeros escapes
+
+El primer de la semana las redes de la gente del barrio se llenarán de vídeos de diferente fauna muerta en los humedales, hablamos de ranas y peces. 
 
 XXX
 
@@ -41,12 +43,12 @@ XXX
 
 Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeína y bebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero podría pueda dormir y recuperar sueño perdido.
 
+\sp
+
 #### Pruebas gráficas
 
 __NOCHE__
 
 XXX
-
-\sp
 
 > A pesar del problema del tiempo y el cansancio acumulado, si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarlas en la preparación y durante la gran sentada que se montará en capítulos posteriores.
