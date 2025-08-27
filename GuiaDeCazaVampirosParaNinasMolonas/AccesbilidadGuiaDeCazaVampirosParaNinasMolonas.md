@@ -982,11 +982,11 @@ Lord Ceballos pensaba cargarse el humedal a través de una planta de reciclaje/c
 
 ### Grupos vecinales
 
-Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con la fuga de mercurio, mientras pensaba hinchar a uno de los grupos a donaciones, e infiltrar a agentes con grandes dotes de persuasión y «sex appel», para sembrar la cizaña hacia dentro y hacia fuera.
+Tenía pensado destruirlos desde dentro. Por un lado, los tenía distraído con la fuga de mercurio, mientras pensaba hinchar a uno de los grupos a donaciones, e infiltrar a agentes con grandes dotes de persuasión y «sex appeal», para sembrar la cizaña hacia dentro y hacia fuera.
 
 ### Otras actividades
 
-Adicionalmente iba a gentrificar el barrio, llenarlo de casa de apuestas, de pisos turísticos, de ocio de borrachera, de droga barata y destruir servicios sociales como los centros sanitarios.
+Adicionalmente, iba a gentrificar el barrio, llenarlo de casa de apuestas, de pisos turísticos, de ocio de borrachera, de droga barata y destruir servicios sociales como los centros sanitarios.
 
 ## Piezas en el tablero
 
@@ -1731,7 +1731,7 @@ Un incendio no acabará con Néstor, recordemos su sistema antiincendios, pero p
 
 Quizás sea la opción más interesante, ya que aúna el factor sorpresa con que Néstor no juegue en casa como en su mazmorra o su guarida.
 
-El problema es que se va a oler la trampa casi fijo, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.
+El problema es que seguro que se va a oler la trampa, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.
 
 ```
 Tus cazadoras puede que quieran aprovecharse de Néstor como pederasta para cazarlo y, por ejemplo, tenderle una trampa con material sexual de ellas mismas. No deberias permitir que se trivialice este tema o parecidos. Tienes que pensar y recalcar el asco y la rabia que deben sentir al tener que hacer esto para evitar que siga matando. 
@@ -2297,7 +2297,7 @@ Seguramente el local donde pasen el fin de semana no será el lugar más seguro,
 * _Repartir armas por todo el local_, como globos de té de ajo y bates de beisbol, les permitirá armarse estén donde estén y poder dar una respuesta rápida que seguro que no se esperan los incursores.
 * Si consiguen algún tipo de _local parroquial_, podrían tener crucifijos y agua bendita sin problemas y seguro que los vampiros no les gusta pisar suelo sagrado.
 * _No tienen protección del hogar_, ya que es un local público y los vampiros pueden entrar sin ser invitados, pero estos locales sueles tener robos y suelen estar _bien cerrados y_ _protegidos_ con rejas en ventajas, puertas con cadenas y candados. Algo es algo.
-* Según a que se dedique la asociación, _puede haber de todo_ en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc. 
+* Según a que se dedique la asociación, _puede haber cualquier cosa_ en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc. 
 
 #### Catalina hace lo suyo
 
@@ -2317,7 +2317,7 @@ Si Nieve es incapaz de controlar el estrés de normal, con la avalancha de mierd
 
 En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y destrozará su oficina. Totalmente fuera de sí, saldrá a las calles en busca de tus cazadoras.
 
-Empezará a recorrer el barrio como algún tipo de bestia salvaje corriendo a cuatro patas que ira atacando a los peatones. Lanzará terribles aullidos y dará grandes saltos gracias a su fuerza y capacidad de flotar.
+Empezará a recorrer el barrio como algún tipo de bestia salvaje corriendo a cuatro patas que irá atacando a los peatones. Lanzará terribles aullidos y dará grandes saltos gracias a su fuerza y capacidad de flotar.
 
 La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
 
@@ -2325,7 +2325,7 @@ Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshab
 
 Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
 
-Tras un para intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe que hay en pistolas de agua y globos de agua, como sabe quien puede ser una creyente, etc. 
+Tras un para intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe qué hay en las pistolas de agua y los globos de agua, sabe quién puede ser una creyente, etc. 
 
 No es fácil sorprenderla y se mantendrá fuera del alcance de las pistolas, escondiéndose en las sobras y saliendo solo a atacar a cazadoras desprevenidas.
 
@@ -2397,7 +2397,7 @@ Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, e
 * **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
 * **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
 
-Si consiguen desquiciar a Lord Ceballos varias furgonetas de antidisturbios se presentaran en la sentada para dispersarla. Enseguida se formará el caos y puede hacer alguna escena de tus cazadoras enfrentándose a los antidisturbios salvando a alguna persona indefensa de sus porrazos.
+Si consiguen desquiciar a Lord Ceballos varias furgonetas de antidisturbios se presentarán en la sentada para dispersarla. Enseguida se formará el caos y puede hacer alguna escena de tus cazadoras enfrentándose a los antidisturbios salvando a alguna persona indefensa de sus porrazos.
 
 El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios. Así que deberán seguir presionando a Lord Ceballos mientras esquivan pelotas antidisturbios.
 
@@ -2409,7 +2409,7 @@ En cuanto Lord Ceballos envíe a sus guardias para ayudar a los policías tus ca
 
 Como DJ conoces a tu mesa y tendrás que decidir como vas a montar este asalto final. Puedes montar una especie de «dungeon» en el que tus cazadoras avance sala a sala acabando con lo que les echen por delante hasta llegar a la guarida de Lord Ceballos.
 
-La otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, primero dialéctica y luego a muerte. Por un lado, tus cazadoras, por el otro Lord Ceballos, Tito y Cova.
+La otra opción es pasar de todo y ponerlos a todos juntos en una gran confrontación, al principio dialéctica y luego a muerte. Por un lado, tus cazadoras, por el otro Lord Ceballos, Tito y Cova.
 
 Si vas a jugar todo el asalto, deberías tratar de que por lo menos tengan que superar 3 desafíos.
 

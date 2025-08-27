@@ -12,7 +12,6 @@ El casino que el Grupo quiere montar no sirve de nada sin unos buenos terrenos d
 
 La idea es que tras un desastre ecológico, se presentarán como revitalizadores del barrio y se comprometerán a limpiar todos los humedales a cambio de una parte donde construir las instalaciones que necesitan. 
 
-
 \sp
 
 \sinc

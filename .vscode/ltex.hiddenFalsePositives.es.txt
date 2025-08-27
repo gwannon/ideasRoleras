@@ -147,3 +147,7 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBurning love\\E$"}
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QCan’t Help Falling in Love\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCan’t Help Falling in Love\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QEn la sección «¿Cómo matarlos?» tienes todos los modos de matarlos, así que puedes darles parte de la información verdadera con mitos clásicos que no funcionan y juega con esa información. Deberán aprender mediante ensayo y error.\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
+{"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
+{"rule":"VOSEO","sentence":"^\\QMuy novate\nBrutal\nSin conciencia\\E$"}
