@@ -58,6 +58,16 @@ Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cans
 
 __NOCHE__
 
+Una vez descubierta toda la trama de los vertidos necesitarán pruebas, pero lo primero deberán saber que deben recoger para tener pruebas decentes de todo esto. Quizás una consulta a internet les dé alguna idea, pero lo mejor sería hablar con una abogada como Catalina para saber qué buscar.
+
+En principio deberían conseguir cosas como estas.
+
+* _Fotos y vídeos de calidad de los vertidos._ Recuerda que todo esto es de noche y necesitarán conseguir equipo de calidad.
+* _Muestras de los productos tóxicos vertidos._ Una muestras en algún tipo de recipiente de laboratorio servirá con algún vídeo en que se las vea recogiendo la muestra.
+* _Muestras que demuestren que los productos_ _tóxicos provienen de la fundición._ Deberán entrar en la fundición y coger muestras de los depósitos de residuos para demostrar que el origen de los contaminantes son la planta de reciclaje de San Andrés.
+
+\sp
+
 XXX
 
 > A pesar del problema del tiempo y el cansancio acumulado, si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarlas en la preparación y durante la gran sentada que se montará en capítulos posteriores.
