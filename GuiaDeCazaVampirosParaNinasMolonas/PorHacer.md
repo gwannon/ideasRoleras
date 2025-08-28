@@ -24,13 +24,17 @@ La idea es que tras un desastre ecológico, se presentarán como revitalizadores
 
 Han comprado a la APCHUM para que cuando salten todo tipo de alarmas o problemas, ellos, como asociación ecologista del barrio, les laven la cara frente a la opinión pública.
 
-Para montar su vertido tóxico hace unos años, cuando Lord Ceballos empezó a dar forma al plan vampírico para quedarse con el barrio, compró la fundición de San Andrés a través de varias empresas pantalla. Han ido probando métodos de hacer vertidos destructivos en los humedales y más o menos tienen un sistema funcional que no puede ser detectado fácilmente y saldrá más como un accidente que como un acto predeterminado.
+Para montar su vertido tóxico hace unos años, cuando Lord Ceballos empezó a dar forma al plan vampírico para quedarse con el barrio, compró la fundición de San Andrés a través de varias empresas pantalla. Han ido probando métodos de hacer vertidos destructivos en los humedales y más o menos tienen un sistema funcional que no puede ser detectado fácilmente y no debería asociarse a la fundición.
+
+Durante los meses anteriores han ido dejando en los vertederos ilegales que la gente ha creado en los humedales bidones de productos tóxicos camuflándolos dentro de neveras o lavadoras viejas.
+
+Así que cada noche, un grupito de siervos de Nieve, se acerca a un vertedero ilegal y agujerea los bidones escondidos y dejan que el contenido se derrame, para acto seguido llevarse el bidón y deshacerse de él en los hornos de la fundición. 
 
 XXX
 
 #### Los primeros escapes
 
-El primer de la semana las redes de la gente del barrio se llenarán de vídeos de diferente fauna muerta en los humedales, hablamos de ranas y peces. Las muertes no han sido solo por envenenamiento, hay muchos con fuertes quemaduras químicas es decir que estuvieron en contacto directo con los tóxicos cuando fueron vertidos y estos les produjeron las quemaduras.
+El primer día de esta semana infernal que van a vivir tus cazadoras las redes de la gente del barrio se llenarán de vídeos de diferente fauna muerta en los humedales, hablamos principalmente de ranas y peces. Las muertes no han sido solo por envenenamiento, hay muchos con fuertes quemaduras químicas es decir que estuvieron en contacto directo con los tóxicos cuando fueron vertidos y estos les produjeron las quemaduras.
 
 El equipo municipal de limpieza se encargará de limpiar lo que pueda de fauna muerta y al día siguiente se repetirá la misma situación. Enseguida todos los ojos mirarán a la fundición San Andrés que ya ha tenido problemas parecidos otras veces y serían una de las pocas opciones contaminantes de la zona.
 
