@@ -35,6 +35,9 @@ Animar a usar IA en tus partidas de Oscuria https://bsky.app/profile/umijenova.b
 
 En el caso de [Athosiart](https://www.patreon.com/ATHOSIRART) tenemos un IAbro de tomo y lomo como se puede ver en esta [entrevista](https://www.youtube.com/watch?v=K7tDeTHG3Cw).
 
+https://www.youtube.com/watch?v=cF3Y1jwiMq8&t=5785s
+https://www.youtube.com/watch?v=cF3Y1jwiMq8&t=6240s
+
 ### Dr. Alban
 
 [Hermanos de la costa](http://www.sinergiaderol.com/juegosgratuitos/j-hermanosdelacosta.html) fue un proyecto fallido de crowfunding de juego de rol que su creador decidió terminar con imágenes de IA y entregar a los participantes. Tendría hasta excusa, si hubiera sido algo puntual y no hubiera seguido igual haciendo más material con IA.
