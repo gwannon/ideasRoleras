@@ -153,3 +153,28 @@
 {"rule":"VOSEO","sentence":"^\\QMuy novate\nBrutal\nSin conciencia\\E$"}
 {"rule":"SCHOLAR","sentence":"^\\QNo sera deficil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella).\\E$"}
 {"rule":"SCHOLAR","sentence":"^\\QNo será difícil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella).\\E$"}
+{"rule":"FORM","sentence":"^\\QEl DJ debería poder mirar esas hojas solo si algún adulto tiene acceso al móvil de la forma que sea.\\E$"}
+{"rule":"SCHOLAR","sentence":"^\\QEl despacho solo es accesible en horario escolar, así que tendrán que escaquearse de clase en una hora que «El Mordor» tenga clase también.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QHistorial de navegación: aparte de noticias, redes y compras online tiene un par de webs de citas y en una de ellas un match con un chico joven Goloso22.\\E$"}
+{"rule":"CARTOON","sentence":"^\\QHan metido todas sus cosas en una caja de cartón esperando que vengan a buscarlo.\\E$"}
+{"rule":"FORM","sentence":"^\\QAlfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma «trash» (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.\\E$"}
+{"rule":"REAL","sentence":"^\\QAsí que lo que tendrán que hacer es buscar libros y películas sobre vampiros o, mejor, vídeos de majaretas en Twitch y YouTube con locas teorías, y muchas veces con cierta base real, sobre vampiros y cómo matarlos.\\E$"}
+{"rule":"ES_SIMPLE_REPLACE_VERBS","sentence":"^\\QEs tu decisión si lo rolean un poco la escena o que lo consigan con alguna tirada.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QExplorando el nivel del plan actual\\E$"}
+{"rule":"FORM","sentence":"^\\QEstá cambiando las cita continuamente de personas con problemas de movilidad, de forma que sea imposible aparecer al final.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEs tremendamente difícil de detectar de noche con ropa oscura, flotando y sin hacer ruido (tirada Extremadamente difícil +4).\\E$"}
+{"rule":"NOTICE","sentence":"^\\QCuando las noticias de la muerte de Néstor lleguen, y puede ser de varios días incluso semanas según como y donde haya muerto, Lord Ceballos toma medidas.\\E$"}
+{"rule":"FORM","sentence":"^\\QEl plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QMoverse en sigilo, Manejar materiales peligrosos y tóxicos\nMalo (-2) en:\\E$"}
+{"rule":"FORM","sentence":"^\\QLas únicas formas de detenerlos, por lo menos las últimas noches, es:\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAun con luz, de noche es un sitio oscuro con montones de zonas en sombras y penumbras desde los que saltar y atacar.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QSi está cerrada por el derrame de productos tóxicos, será un sitio oscuro, con óxido y herrumbre por todas partes y sombras tenebrosas allá donde mires.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QYou’re the Devil in Disguise\\E$"}
+{"rule":"FORM","sentence":"^\\QSu parte animal y su sed de sangre le posee más que al resto de chupasangres, de manera que consigue un +2 a Atacar de forma Vigorosa a humanos que puedan ser sus presas.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa lonja cuenta con un cierre centralizado de todas las puertas y ventajas cuyo mando controla Néstor, de forma que, para bien o para mal, nadie puede entrar y nadie puede salir.\\E$"}
+{"rule":"FORM","sentence":"^\\QRecuerda que los vampiros siempre montan planes complicados y ostentosos, solo pueden actuar de noche y no pueden entrar en casa si no están invitados con lo que una fiesta/trampa como esta entra dentro de su rebuscada forma de pensar.\\E$"}
+{"rule":"FORM","sentence":"^\\QLos actores tienen un guion que contar y la idea es entretener a las invitadas y hacerlas avanzar por el camino dispuesto en forma de espiral que lleva al centro del bosque.\\E$"}
+{"rule":"VOSEO","sentence":"^\\QMuy novate\nBrutal\nSin conciencia\nEstilos:\\E$"}
+{"rule":"FORM","sentence":"^\\QEntrará en forma «trash» y destrozará su oficina.\\E$"}
+{"rule":"FORM","sentence":"^\\QRealmente la mejor prueba, sería sacar su forma «trash».\\E$"}
+{"rule":"FORM","sentence":"^\\QSeguramente todo será muy rápido a partir de este punto, sobre todo si está Néstor, y estas son las cosas que pueden conseguir de forma rápida.\\E$"}

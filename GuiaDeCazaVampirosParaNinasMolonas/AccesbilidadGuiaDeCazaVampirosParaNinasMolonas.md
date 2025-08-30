@@ -972,7 +972,7 @@ Para ello tenía que conseguir que le permitieran derribar el campo de fútbol l
 
 ### Permisos de construcción 
 
-El tema de los permisos de derribo y construcción iba a conseguirlo proporcionando a algunos concejales sus deseos más sucios y depravados y luego chantajeándolos a cambio de votar a favor de sus proyectos.
+El tema de los permisos de derribo y construcción iba a conseguirlo, proporcionando a algunos concejales sus deseos más sucios y depravados y luego chantajeándolos a cambio de votar a favor de sus proyectos.
 
 Tendrían que conseguir, drogas, sexo y prostitución, bastante dinero y un asesinato que pareciera natural. Nada fuera de lo normal, de lo que hacía siempre.
 
@@ -1024,7 +1024,7 @@ Si se ponen a _fisgonear entre los adultos_ Fácil (+0), podrán enterarse de qu
 
 Entre los asistentes hay un _personaje muy cripi_ _sacando fotos a escondidas_ y escribiendo en su móvil. Si se acercan mucho e intentan hablar con él, responderá con monosílabos y huirá a los baños. 
 
-De repente habrá algo de revuelo un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar Fácil (+0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
+De repente habrá algo de revuelo, un concejal del ayuntamiento entrará en el tanatorio, dejará su tarjeta, escribirá en el libro de visitas y se pondrá a hablar con los asistentes. Si se acercan a escuchar Fácil (+0), será charla política intrascendente. Tanto mirando el libro de visitas como escuchándole verán que es Ernesto Lujua Martínez y por los apellidos debía ser hermano de Maricarmen.
 
 Lo curioso es que no parece nada afectado. Igual alguna se acuerda de una serie de CSI Fácil (+0), los suicidas son normalmente muertes sorpresa que afectan mucho a los familiares. Aunque no tuvieras simpatía por el muerto, te afecta la sorpresa y el qué pensaran los demás, cómo no se dieron cuenta, seguro que no se veían, … más siendo un político cuya imagen puede verse comprometida.
 
@@ -1032,7 +1032,7 @@ Cuando empiece el funeral, les dejarán fuera con algunos adultos. Son las únic
 
 ### El Cripi
 
-Este personaje alto delgado y desgarbado que parece que lleva un traje 4 tallas más grandes, no para de moverse nerviosamente y no deja de mirar a todas partes. Es uno de los siervos más incompetentes de Alfonse (ver más adelante). Este vampiro le ha mandado observar qué pasa en el velatorio y comunicárselo.
+Este personaje alto, delgado y desgarbado que parece que lleva un traje 4 tallas más grandes, no para de moverse nerviosamente y no deja de mirar a todas partes. Es uno de los siervos más incompetentes de Alfonse (ver más adelante). Este vampiro le ha mandado observar qué pasa en el velatorio y comunicárselo.
 
 Si consiguen _robarle el móvil_ (Extremadamente difícil +4) verán que envía fotos mensajes a Máster Alfonse poniendo notas sobre quiénes aparecen en las fotos.
 
@@ -1047,7 +1047,7 @@ Si consiguen _robarle el móvil_ (Extremadamente difícil +4) verán que envía 
 
 _DÍA_
 
-Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental así que les dirá que pueden preguntarle todo lo que quieran y sabe bastante.
+Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental, así que les dirá que pueden preguntarle todo lo que quieran y sabe bastante.
 
 * Se tomó un montón de medicamentos, se cortó las venas por las muñecas y se metió en la bañera.
 * Nadie en claustro había percibido nada, de hecho parecía que estaba conociendo a alguien y parecía ilusionada.
@@ -1071,7 +1071,7 @@ La idea es que tengan una hoja que simule su chat donde escriban los mensajes un
 
 El DJ debería poder mirar esas hojas solo si algún adulto tiene acceso al móvil de la forma que sea. Igual sus padres se lo revisan buscando pruebas de que drogan o quizás un hacker se lo haya pirateado. Si borran el chat, se guarda el papel y se saca uno nuevo, para simular que no hay acceso a las conversaciones anteriores.
 
-Podrías hacerlo también con un chat de WhatsApp o Telegram, pero la hoja de papel evita que cuando cojan el móvil se pongan con otros chats. Además, me gusta el impacto dramático de arrancar la hoja de las manos por sorpresa como si fueras sus padres o un malo y sin miedo a romper el móvil. También permite cotillear la hoja sin que ellos lo sepan que les han hackeado o que han fisgado su móvil.
+Podrías hacerlo también con un chat de WhatsApp o Telegram, pero la hoja de papel evita que cuando cojan el móvil se pongan con otros chats. Además, me gusta el impacto dramático de arrancar la hoja de las manos por sorpresa, como si fueras sus padres o un malo y sin miedo a romper el móvil. También permite cotillear la hoja sin que ellos lo sepan, que les han hackeado o que han fisgado su móvil.
 
 Como siempre, si todo esto te parece un engorro, puedes hacer que simplemente hablen entre ellas, 
 
@@ -1681,7 +1681,7 @@ Al salir de las celdas podrán ver su equipo al final del pasillo en una mesita 
 
 Suele usarlo como pruebas/trampas a sus víctimas. Les deja robarle algo de equipo, para que sientan cierta sensación de triunfo. Eso les da falsas esperanzas y Néstor disfruta viendo el horror en sus caras cuando ven que lo que creían que era su salvación, no sirve de nada y van a morir igual.
 
-Así que _Néstor ha vaciado las pistolas de agua_ (si habían llevado a la caza) y las ha vuelto a llenar de agua normal, de forma que son totalmente inofensivas para él.
+Así que _Néstor ha vaciado las pistolas de agua_ (si habían llevado a la caza) y las ha vuelto a llenar de agua normal, de manera que son totalmente inofensivas para él.
 
 Quiere ver la cara de las cazadoras cuando cojan las armas y al usarla contra él no le hagan nada. De hecho, esto hará que vaya sin su EPI, lo cual le hará vulnerable a ataques con agua bendita y ajo.
 
@@ -1776,7 +1776,7 @@ Es importante que den la cara porque en el futuro necesitaran el apoyo de esta o
 
 > La _rave_ iba a ser el sitio perfecto para cazar a nuestro vampiro. El problema es que las _raves_ se avisan en el último momento y por mensajes. Eso no nos permitía buscar una excusa para salir de casa sin levantar sospechas y encima necesitamos conseguir que alguien nos diera los datos de hora y lugar.
 
-En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de forma diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra manera de afrontar el problema que suponen tus cazadoras.
+En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de manera diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra manera de afrontar el problema que suponen tus cazadoras.
 
 > A partir de ahora la línea general de la aventura va a cambiar, ya no van a tener que investigar y descubrir el plan vampírico para poder desbaratarla. El plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos. 
 
@@ -2128,7 +2128,7 @@ Con todos los documentos delante, pueden seguir algunas vías de acción:
 
 * Ver que pasa con la asociación ecologista del proyecto puede ser interesante y les ayudará con el vertido tóxico.
 
-* No pueden deshacer las votaciones municipales y no tienen tiempo de preparar alguna estrategia legal para parar el derribo. Pero déjales intentarlo, es una forma de que pierdan tiempo consultando abogados y juristas y se desesperen al tratar de montar el siguiente punto.
+* No pueden deshacer las votaciones municipales y no tienen tiempo de preparar alguna estrategia legal para parar el derribo. Pero déjales intentarlo, es una manera de que pierdan tiempo consultando abogados y juristas y se desesperen al tratar de montar el siguiente punto.
 * Pueden montar unas manifas o unas sentadas populares. Estos actos pueden atraer la opinión pública y pueden obligar al ayuntamiento a parar el derribo. 
 
 #### Visitando la APCHUM
@@ -2475,7 +2475,7 @@ Si ves que la pelea resulta demasiado sencilla para tus cazadoras, puede hacer q
 
 Si las cazadoras consiguen derrotar a sus dos principales defensas, Cova y Tito, Lord Ceballos huirá por la salida secreta de la chimenea cerca de su trono. Las cazadoras escapan a su comprensión y ahora sí que está solo, como no hacía desde hace decenios. 
 
-Si decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna forma poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena. Una vez cerrada la salida secreta está se sellará por dentro y será imposible abrirla. Aunque pudieran hacerlo porque llevan un soplete o similar, para cuando hubiera cortado las placas Lord Ceballos habrá huido lejos. 
+Si decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna manera poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena. Una vez cerrada la salida secreta está se sellará por dentro y será imposible abrirla. Aunque pudieran hacerlo porque llevan un soplete o similar, para cuando hubiera cortado las placas Lord Ceballos habrá huido lejos. 
 
 > La idea principal es que Ceballos huya y la lucha final sea en la planta de reciclaje, pero si tus cazadoras se lo montan excepcionalmente bien, pueden acabar allí mismo, en el ático, con su mayor enemigo. 
 
@@ -2499,7 +2499,7 @@ La fundación es un lugar perfecto para una gran batalla final y puede tener dos
 
 Tus cazadoras podrán usar cosas del entorno para buscar y en combate. Por ejemplo, tendrán soldadores a su disposición, cascos de seguridad, herramientas pesadas de hierro.
 
- La planta está llena de poleas y cadenas que se pueden mover por raíles que van por el techo. De forma que se pueden usar como trampas, como armas o como tus cazadoras vean. 
+ La planta está llena de poleas y cadenas que se pueden mover por raíles que van por el techo. De manera que se pueden usar como trampas, como armas o como tus cazadoras vean. 
 
 ### La factoría vacía
 
