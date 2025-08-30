@@ -1353,9 +1353,107 @@ Las movilizaciones son la única manera de parar efectivamente el derribo, el re
 * Tampoco hay tiempo ni contactos para informar a otras empresas y que le planten cara al Grupo Ceballos.
 * La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiéndose de todo.
 
-|PorHacer.md|
+### Vertido tóxico
+
+Mientras que la demolición del campo de futbol puede ser detenida, el vertido tóxico es muy difícil de detener porque tus cazadoras no van a tener ninguna pista de cuando y donde. 
+
+Pueden que ya sepan que la planta de reciclaje de San Andrés, pertenece al Grupo Ceballos, pero no deberían tener pistas de la jugada de Nieve y el grupo Ceballos. Por suerte, el derrame no es algo que va a pasar en una noche, será algo que pasará durante 7 noches. Si bien no van a evitar las primeras noches si podrán evitar que se convierta en un gran desastre si pueden pararlo en las primeras noches.
+
+La idea de Nieve es que con el casino en marcha y los humedales destrozados, será fácil presentar un proyecto de construcción de la autopista de acceso y del parking del casino y que sea aprobado.
+
+#### El plan de Nieve
+
+El casino que el Grupo quiere montar no sirve de nada sin unos buenos terrenos donde montar una autopista de acceso y un buen parking y para ellos hay que coger terrenos de los humadeles. Así que lo mejor es cargarse los humedales y toda la biodiversidad que hay en ellos.
+
+La idea es que tras un desastre ecológico, se presentarán como revitalizadores del barrio y se comprometerán a limpiar todos los humedales a cambio de una parte donde construir las instalaciones que necesitan. 
 
 \sp
+
+\sinc
+
+[![Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio](./assests/images/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit.jpg "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")](https://www.freepik.com/free-photo/scientist-exploring-territory-emission-area-polluted-water-man-protective-suit_27070551.htm "Scientist exploring territory emission area polluted water man in protective suit by ArtPhoto_studio")
+
+&nbsp;
+
+\conc
+
+Han comprado a la APCHUM para que cuando salten todo tipo de alarmas o problemas, ellos, como asociación ecologista del barrio, les laven la cara frente a la opinión pública.
+
+Para montar su vertido tóxico hace unos años, cuando Lord Ceballos empezó a dar forma al plan vampírico para quedarse con el barrio, compró la fundición de San Andrés a través de varias empresas pantalla. Han ido probando métodos de hacer vertidos destructivos en los humedales y más o menos tienen un sistema funcional que no puede ser detectado fácilmente y no debería asociarse a la fundición.
+
+Durante los meses anteriores han ido dejando en los vertederos ilegales que la gente ha creado en los humedales bidones de productos tóxicos camuflándolos dentro de neveras o lavadoras viejas.
+
+Así que cada noche, un grupito de siervos de Nieve, se acerca a un vertedero ilegal y agujerea los bidones escondidos y dejan que el contenido se derrame, para acto seguido llevarse el bidón y deshacerse de él en los hornos de la fundición. 
+
+#### Los primeros escapes
+
+El primer día de esta semana infernal que van a vivir tus cazadoras las redes de la gente del barrio se llenarán de vídeos de diferente fauna muerta en los humedales, hablamos principalmente de ranas y peces. Las muertes no han sido solo por envenenamiento, hay muchos con fuertes quemaduras químicas es decir que estuvieron en contacto directo con los tóxicos cuando fueron vertidos y estos les produjeron las quemaduras.
+
+\sp
+
+El equipo municipal de limpieza se encargará de limpiar lo que pueda de fauna muerta y al día siguiente se repetirá la misma situación. Enseguida todos los ojos mirarán a la fundición San Andrés que ya ha tenido problemas parecidos otras veces y serían una de las pocas opciones contaminantes de la zona.
+
+En cuanto se monte revuelo en las redes, habrá un comunicado de la APCHUM (apoyado por otros grupos ecologistas) desmiento esa posibilidad, ya que los tanques y fosos de almacenamiento de productos tóxicos están lejos de los lugares de donde hubo las muertes masivas de fauna. De haberse roto o haberse hecho filtraciones, los tóxicos habrían afectado a la fauna cercana a la empresa.
+
+Entre este suceso y el derribo del estadio municipal, situación se va a calentar en el barrio. Discusiones a gritos entre vecinos a favor y en contra de ambos eventos, gente recogiendo animales muertos de los humedales, periodistas y curiosos, etc.
+
+Cada noche se volverá a dar un nuevo vertido en una nueva zona y se repetirán los vídeos en redes, las quejas y las limpiezas de cuerpos de animales muertos. Algunos grupos ecologistas que sean la APCHUM empezarán a organizarse para limpiar y a moverse para buscar la causa. Las fuerzas del orden no van a actuar más ya allá de recoger algunas pruebas y mandarlas a los laboratorios que tardarán semanas en dar resultados.
+
+Tus cazadoras pueden unirse a grupos ecologistas para poder tener una excusa de moverse por los humedales sin llamar la atención. Además, pueden usar estos grupos para darles pistas si están muy perdidas.
+
+A la tercera noche algunos medios grandes hablarán unos segundos de los vertidos, pero muy por encima y quizas algún equipo informativo se persone en los humedales para hacer algún mini-reportaje.
+
+#### Buscando la fuente de los vertidos
+
+Las investigaciones de los primeros vertidos serán bastante estériles. No hay pistas de nada en la zona, quizas pisadas y ruedas de un vehículo, si el agua de los humedales no se las ha llevado. La única similitud será que cerca hay un vertedero ilegal con neveras y lavadoras oxidadas, armarios viejos, calentadores rotos, restos de obras, etc. Son basura que la gente del barrio ha tirado en estos sitios sin preocuparse por el impacto ecológico.
+
+Si empiezan a buscar otros vertederos ilegales, finalmente encontrarán los bidones tóxicos escondidos. No será fácil y les llevará varios días, ya que de noche es imposible buscar en el humedal. Esto debería crearle tensión y agobio por tener que al mismo tiempo que trabajar en el tema del estadio.
+
+Si no encuentran ellas los bidones, podrías sacar alguna compañera de clase que está ayudando en las limpiezas del humedal y ha encontrado los bidones escondidos y sabe que ellas suelen investigar estas cosas y prefiere decírselo a ellas que hablar con mayores o con la APCHUM.
+
+Con una localización de los bidones encontrada podrían vigilarla de noche a ver qué pasa. Si consiguen pasar desapercibidas podrán ver todo el proceso de vertido. No será difícil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella). Si pueden seguirles cuando abandonen el lugar en su vehículo podrán verles volver a la fundición.
+
+\sp
+
+Si tus cazadoras empiezan a investigar la fundición (tanto porque es el principal sospechoso como si han visto como hacen los vertidos), se toparán con un muro empresas, algunas fueras del país que les harán imposible, llegar hasta la empresa propietaria final. 
+
+Las vigilancias diurnas no van a dar ningún resultado en cuanto a los vertidos, pero si son listas (Moderadamente difícil +2) verán que es mucha casualidad que todas las empresas que dan servicios a la fundición son del Grupo Ceballos. Desde la empresa que trae el material para reciclar, hasta los rellenan las máquinas de refrescos y de sandwiches son parte del Grupo Ceballos. 
+
+Las vigilancias nocturnas les darán la entrada y salida de un vehículo a muy entrada la noche y su regreso horas más tarde. Si ya saben que hacen en esa hora, podrían detectar que descargan a la vuelta bidones y se deshacen de ellos en el horno. Si no saben nada de los bidones escondidos, las salidas del vehículo son extrañas, pero tampoco son muy raras, ya que la fundición funciona 24 horas en turnos de 8 horas. 
+
+Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeína y bebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero podría pueda dormir y recuperar sueño perdido.
+
+#### Pruebas gráficas
+
+__NOCHE__
+
+Una vez descubierta toda la trama de los vertidos necesitarán pruebas, pero lo primero deberán saber que deben recoger para tener pruebas decentes de todo esto. Quizás una consulta a internet les dé alguna idea, pero lo mejor sería hablar con una abogada como Catalina para saber qué buscar.
+
+En principio deberían conseguir cosas como estas.
+
+* _Fotos y vídeos de calidad de los vertidos._ Recuerda que todo esto es de noche y necesitarán conseguir equipo de calidad.
+* _Muestras de los productos tóxicos vertidos._ Una muestras en algún tipo de recipiente de laboratorio servirá con algún vídeo en que se las vea recogiendo la muestra.
+* _Muestras que demuestren que los productos_ _tóxicos provienen de la fundición._ La opción más sencilla es seguir a los sicarios de Nieve y ver como se deshacen de los bidones en sus hornos. Otra opción es entrar en la fundición y coger muestras de los depósitos de residuos para demostrar que el origen de los contaminantes son la planta de reciclaje de San Andrés.
+
+Si son descubiertas mientras consiguen las pruebas, los siervos de Nieve tratarán de quitárselas y antes de que puedan acudir a la policía y se pongan a investigar habrán hecho desaparecer los pocos contenedores que queden sin usar. Ten en cuenta que durante una semana va a haber vertidos, para cuando quieran reaccionar y tengan alguna pista pueden haber pasado 4 o 5 noches.
+
+\sp
+
+* Siervos de Nieve
+* **Bueno (+2) en:** Moverse en sigilo, Manejar materiales peligrosos y tóxicos
+* **Malo (-2) en:** Mentir, Orientación
+* **Estrés:** ◯◯
+
+Algo importante es seguir a los siervos tras sus actividades contaminantes y ver hasta donde llegan para poder seguir la investigación. Si consiguen rastrear el todoterreno que usan los contaminadores verán que llegan hasta la fundación San Andrés donde se deshacen de los bidones.
+
+Las pruebas no van a detener los vertidos. Las únicas formas de detenerlos, por lo menos las últimas noches, es:
+
+* Podrían encontrar los bidones que quedan y deshacerse de ellos de manera que no puedan usarse para nuevos vertidos. Esto supone mucho trabajo de día en los humedales y tener alga manera de mover los bidones como un vehículo o animal de tiro, algo que puede ser muy complicado para tus cazadoras.
+* Detener a los grupos de saboteadores cada noche. Recuerda que Nieve dispone de mucha gente y si acaban con un grupo tendrá otro para la siguiente noche.
+
+> Si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarlas en la preparación y durante la gran sentada que se montará en capítulos posteriores.
+
+\sc
 
 ### La caída del Grupo Ceballos
 
@@ -1370,6 +1468,8 @@ A estas alturas deberían conocer a Catalina y saber que es de fiar. Está claro
 Catalina tiene un dosier muy grande de las ilegalidades del Grupo Ceballos, pero son todo especulaciones y rumores, no hay pruebas físicas. Tus cazadoras pueden darle todo eso acompañado de pruebas si es que se han molestado en recogerlas.
 
 Tus cazadoras pueden demostrar que el grupo Ceballos está detrás de la muerte de la Maricarmen Lujua para conseguir el voto del concejal Ernesto Lujua. Si pueden completar esto con otras actividades como que son responsables del derribo del estadio o del vertido tóxico en los humedales, podrán montar un caso contra la corporación. Si tienen pruebas de que metían droga en el barrio u otras actividades criminales, mucho mejor.
+
+\sp
 
 Si tus cazadoras no quieren acudir a Catalina, Catalina acudirá a ellas. Seguramente que las haya visto en algún vídeo de internet y querrá interrogarlas para empezar a crear un caso contra el Grupo Ceballos. De modo que las buscará y las entrevistará. Es en ese momento en que debería ganarse su confianza si no la tenía.
 
@@ -1387,8 +1487,6 @@ Catalina ya tiene toda la causa contra el grupo Ceballos y solo necesita ir a lo
 
 La primera tarea será que tus cazadoras busquen la manera de quedarse el fin de semana con Catalina y poder protegerla. En principio podrían intentar montar una especie de pijamada con Catalina. 
 
-\sp
-
 Catalina es muy mayor para estos temas, pero pueden planteárselo como alguna convivencia/quedada donde Catalina les explique temas importantes de feminismo, racismo y/o anticapitalismo en algún centro social del barrio.
 
 Pueden tratar de pasar el finde en alguna sede de alguna organización con la que colabora Catalina. Otra opción, si tienen dinero, es que contraten algún tipo habitación de hotel o similar donde pasar el sábado y domingo. Es mucho más seguro, sobre todo, si lo haces a escondidas, pero exige dinero y tendrán que tener una buena excusa para convencer a Catalina. 
@@ -1396,6 +1494,8 @@ Pueden tratar de pasar el finde en alguna sede de alguna organización con la qu
 En ambos casos los vampiros no necesitarán pedir permiso para entrar. Pero será difícil convencer a Catalina, pero no imposible, que pase el finde en casa de la familia del alguna de tus cazadoras, este o no la familia en la casa.
 
 Durante esas 48 horas deberían sufrir por los menos dos intentos de secuestro/asesinato de Catalina, uno de noche con agentes vampíricos y otro de día. Estas pueden ser algunas ideas para el día:
+
+\sp
 
 * La opción más simple sería una entrada a la fuerza en el local con trajes negros y pasamontañas y una furgoneta en la puerta para secuestrar a Catalina.
 * Gente disfrazada de policía podrían intentar entrar en el local por avisos de ruidos extraños, música alta, gritos de ayuda, … No será una pelea, pero si consiguen engañar a tus cazadoras y llevarse a Catalina esposada, no la volverán a ver.
@@ -1413,9 +1513,6 @@ Puedes usar a Verónica y Alfonse como ejemplos de vampiros o también algo más
   * **Complicación:** Muy novate
   * Brutal
   * Sin conciencia
-
-\sp
-
 * **Estilos:** Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Mediocre (+0), Llamativo Mediocre (+0), Rápido Bueno (+2), Vigoroso Grande (+3) 
 * **Proezas**
   * **Sed de sangre:** Su parte animal y su sed de sangre le posee más que al resto de chupasangres, de manera que consigue un +2 a Atacar de forma Vigorosa a humanos que puedan ser sus presas.
@@ -1427,6 +1524,16 @@ Puedes usar a Verónica y Alfonse como ejemplos de vampiros o también algo más
 
 Para los agentes vampíricos, puedes poner algún vampiro noob con las características de Alfonse o Verónica que estén sirviendo a Nieve en otras partes del plan.
 
+\sp
+
+\sinc
+
+[![Vampire V20 Spain illustration 4th inks By IvanValladares](./assests/images/vampire_v20_spain_illustration_4th_inks_by_ivanvalladares_ddybhew-pre.jpg "Vampire V20 Spain illustration 4th inks By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Vampire-V20-Spain-illustration-4th-inks-843703016 "Vampire V20 Spain illustration 4th inks By IvanValladares")
+
+&nbsp;
+
+\conc
+
 Para agentes mortales, usa un gran número siervos humanos con características como los polis corruptos de la comisaría de policía del barrio, «el cripi» o los bedeles que sirven a Verónica.
 
 Seguramente el local donde pasen el fin de semana no será el lugar más seguro, pero hay algunas medidas de seguridad que pueden implementar tus cazadoras que podrían darles ventaja durante los ataques.
@@ -1437,25 +1544,17 @@ Seguramente el local donde pasen el fin de semana no será el lugar más seguro,
 * _No tienen protección del hogar_, ya que es un local público y los vampiros pueden entrar sin ser invitados, pero estos locales sueles tener robos y suelen estar _bien cerrados y_ _protegidos_ con rejas en ventajas, puertas con cadenas y candados. Algo es algo.
 * Según a que se dedique la asociación, _puede haber cualquier cosa_ en estos locales, desde herramientas a maquinaria pesada a material de manualidades, cocinas equipadas con bombonas de gas y aceite, etc. 
 
+\sp
+
 #### Catalina hace lo suyo
 
 A las 8:30 de la mañana, cuando abra el registro municipal, Catalina entrará y empezará a pedir registros e informes, haciendo fotocopias y compulsándolas, para guardarlo todo en su maletín de cuero de abogada sería. En un par de horas, estará en los juzgados con poniendo una denuncia, haciendo caer la primera pieza de dominó que llevará a la destrucción de la corporación Ceballos.
 
 Tus cazadoras pueden ir con ella como guardaespaldas o seguirla en la distancia vigilando que nadie sospechoso se le acerque con malas intenciones. Sea como sea, nadie molestará a Catalina mientras pone las denuncias. A pleno día y en sitios públicos no sería buena idea. 
 
-\sp
-
 Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
 
 Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
-
-\sinc
-
-&nbsp;
-
-[![Vampire V20 Spain illustration 4th inks By IvanValladares](./assests/images/vampire_v20_spain_illustration_4th_inks_by_ivanvalladares_ddybhew-pre.jpg "Vampire V20 Spain illustration 4th inks By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Vampire-V20-Spain-illustration-4th-inks-843703016 "Vampire V20 Spain illustration 4th inks By IvanValladares")
-
-\conc
 
 ### Y después su CTO
 
@@ -1468,8 +1567,6 @@ Empezará a recorrer el barrio como algún tipo de bestia salvaje corriendo a cu
 La policía intentará pararla sin éxito. Las redes se llenarán con imágenes borrosas de Nieve y tus cazadoras deberían poder descifrar a que se enfrentan y trazar un plan de ataque.
 
 Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas». Recuerda que incluso totalmente ida, una vampira no puede entrar en aquellos sitios donde no haya sido invitada, pero los transeúntes pueden ser víctimas de sus ataques.
-
-\sp
 
 Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
 

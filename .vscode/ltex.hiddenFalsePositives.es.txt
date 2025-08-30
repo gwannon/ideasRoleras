@@ -151,3 +151,5 @@
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan el tráfico de drogas\\E$"}
 {"rule":"SI_AFIRMACION","sentence":"^\\QSi investigan las desapariciones de niñes\\E$"}
 {"rule":"VOSEO","sentence":"^\\QMuy novate\nBrutal\nSin conciencia\\E$"}
+{"rule":"SCHOLAR","sentence":"^\\QNo sera deficil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella).\\E$"}
+{"rule":"SCHOLAR","sentence":"^\\QNo será difícil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella).\\E$"}

@@ -2211,19 +2211,21 @@ A la tercera noche algunos medios grandes hablarán unos segundos de los vertido
 
 #### Buscando la fuente de los vertidos
 
-__ANOCHECER__
+Las investigaciones de los primeros vertidos serán bastante estériles. No hay pistas de nada en la zona, quizas pisadas y ruedas de un vehículo, si el agua de los humedales no se las ha llevado. La única similitud será que cerca hay un vertedero ilegal con neveras y lavadoras oxidadas, armarios viejos, calentadores rotos, restos de obras, etc. Son basura que la gente del barrio ha tirado en estos sitios sin preocuparse por el impacto ecológico.
 
-XXX
+Si empiezan a buscar otros vertederos ilegales, finalmente encontrarán los bidones tóxicos escondidos. No será fácil y les llevará varios días, ya que de noche es imposible buscar en el humedal. Esto debería crearle tensión y agobio por tener que al mismo tiempo que trabajar en el tema del estadio.
 
-Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeína y bebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero podría pueda dormir y recuperar sueño perdido.
+Si no encuentran ellas los bidones, podrías sacar alguna compañera de clase que está ayudando en las limpiezas del humedal y ha encontrado los bidones escondidos y sabe que ellas suelen investigar estas cosas y prefiere decírselo a ellas que hablar con mayores o con la APCHUM.
 
-XXX
+Con una localización de los bidones encontrada podrían vigilarla de noche a ver qué pasa. Si consiguen pasar desapercibidas podrán ver todo el proceso de vertido. No será difícil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella). Si pueden seguirles cuando abandonen el lugar en su vehículo podrán verles volver a la fundición.
 
-Si tus cazadoras empiezan a investigar la fundición, se toparán con un muro empresas, algunas fueras del país que les harán imposible, llegar hasta la empresa propietaria final. 
+Si tus cazadoras empiezan a investigar la fundición (tanto porque es el principal sospechoso como si han visto como hacen los vertidos), se toparán con un muro empresas, algunas fueras del país que les harán imposible, llegar hasta la empresa propietaria final. 
 
 Las vigilancias diurnas no van a dar ningún resultado en cuanto a los vertidos, pero si son listas (Moderadamente difícil +2) verán que es mucha casualidad que todas las empresas que dan servicios a la fundición son del Grupo Ceballos. Desde la empresa que trae el material para reciclar, hasta los rellenan las máquinas de refrescos y de sandwiches son parte del Grupo Ceballos. 
 
-Las vigilancias nocturnas les darán la entrada y salida de un vehículo a muy entrada la noche y su regreso horas más tarde. No es muy normal, pero tampoco raro, ya que la fundición funciona 24 horas en turnos de 8 horas. Podrían detectar que descargan a la vuelta bidones, pero tampoco es algo muy raro.
+Las vigilancias nocturnas les darán la entrada y salida de un vehículo a muy entrada la noche y su regreso horas más tarde. Si ya saben que hacen en esa hora, podrían detectar que descargan a la vuelta bidones y se deshacen de ellos en el horno. Si no saben nada de los bidones escondidos, las salidas del vehículo son extrañas, pero tampoco son muy raras, ya que la fundición funciona 24 horas en turnos de 8 horas. 
+
+Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeína y bebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero podría pueda dormir y recuperar sueño perdido.
 
 #### Pruebas gráficas
 
@@ -2251,7 +2253,7 @@ Las pruebas no van a detener los vertidos. Las únicas formas de detenerlos, por
 * Podrían encontrar los bidones que quedan y deshacerse de ellos de manera que no puedan usarse para nuevos vertidos. Esto supone mucho trabajo de día en los humedales y tener alga manera de mover los bidones como un vehículo o animal de tiro, algo que puede ser muy complicado para tus cazadoras.
 * Detener a los grupos de saboteadores cada noche. Recuerda que Nieve dispone de mucha gente y si acaban con un grupo tendrá otro para la siguiente noche.
 
-> A pesar del problema del tiempo y el cansancio acumulado, si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarlas en la preparación y durante la gran sentada que se montará en capítulos posteriores.
+> Si tus cazadoras ayudan en los trabajos de limpieza del vertido, deberías recompensarlas en la preparación y durante la gran sentada que se montará en capítulos posteriores.
 
 ### La caída del Grupo Ceballos
 
@@ -2307,7 +2309,6 @@ Puedes usar a Verónica y Alfonse como ejemplos de vampiros o también algo más
   * **Complicación:** Muy novate
   * Brutal
   * Sin conciencia
-
 * **Estilos:** Cauto Mediocre (+0), Furtivo Normal (+1), Ingenioso Mediocre (+0), Llamativo Mediocre (+0), Rápido Bueno (+2), Vigoroso Grande (+3) 
 * **Proezas**
   * **Sed de sangre:** Su parte animal y su sed de sangre le posee más que al resto de chupasangres, de manera que consigue un +2 a Atacar de forma Vigorosa a humanos que puedan ser sus presas.
@@ -2318,6 +2319,8 @@ Puedes usar a Verónica y Alfonse como ejemplos de vampiros o también algo más
 * **Sed de sangre:** 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 Para los agentes vampíricos, puedes poner algún vampiro noob con las características de Alfonse o Verónica que estén sirviendo a Nieve en otras partes del plan.
+
+[![Vampire V20 Spain illustration 4th inks By IvanValladares](./assests/images/vampire_v20_spain_illustration_4th_inks_by_ivanvalladares_ddybhew-pre.jpg "Vampire V20 Spain illustration 4th inks By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Vampire-V20-Spain-illustration-4th-inks-843703016 "Vampire V20 Spain illustration 4th inks By IvanValladares")
 
 Para agentes mortales, usa un gran número siervos humanos con características como los polis corruptos de la comisaría de policía del barrio, «el cripi» o los bedeles que sirven a Verónica.
 
@@ -2338,8 +2341,6 @@ Tus cazadoras pueden ir con ella como guardaespaldas o seguirla en la distancia 
 Está claro que una simple denuncia por grave que sea no puede hacer caer una gran empresa, pero las acciones de tus cazadoras y Catalina es la pieza de dominó que hizo caer el resto.
 
 Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sindicatos, grupos vecinales, … En unas semanas las acciones del grupo caen a niveles históricos y se declara en bancarrota para tratar de salvar algo.
-
-[![Vampire V20 Spain illustration 4th inks By IvanValladares](./assests/images/vampire_v20_spain_illustration_4th_inks_by_ivanvalladares_ddybhew-pre.jpg "Vampire V20 Spain illustration 4th inks By IvanValladares")](https://www.deviantart.com/ivanvalladares/art/Vampire-V20-Spain-illustration-4th-inks-843703016 "Vampire V20 Spain illustration 4th inks By IvanValladares")
 
 ### Y después su CTO
 
@@ -2883,7 +2884,7 @@ Alfonse es le vampire más joven convertido por Lord Ceballos. El viejo Ceballos
 
 El paso a vampiro no fue nada traumático, como pensaba Lord Ceballos. Había tenido en su vida problemas mucho mayores que ese y había sobrevivido a ellos.
 
-Tras esas semanas, lo puso como «noob» al servicio de Néstor, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
+Tras unos días de transición junto a Lord Ceballos, lo puso como «noob» al servicio de Néstor y se olvido de él, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
 
 [![Dorcha By sokoistrying](./assests/images/dorcha_by_sokoistrying_dgkxsyf-375w-2x.jpg "Dorcha By sokoistrying")](https://www.deviantart.com/sokoistrying/art/Dorcha-1002628311 "Dorcha By sokoistrying")
 

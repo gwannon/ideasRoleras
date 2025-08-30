@@ -54,7 +54,7 @@ Alfonse es le vampire más joven convertido por Lord Ceballos. El viejo Ceballos
 
 El paso a vampiro no fue nada traumático, como pensaba Lord Ceballos. Había tenido en su vida problemas mucho mayores que ese y había sobrevivido a ellos.
 
-Tras esas semanas, lo puso como «noob» al servicio de Néstor, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
+Tras unos días de transición junto a Lord Ceballos, lo puso como «noob» al servicio de Néstor y se olvido de él, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
 
 \sp
 
