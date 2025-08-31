@@ -66,7 +66,7 @@ Alfonse odia profundamente Néstor y está buscando una manera de acabar con él
 
 Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bastante transgresor en sus elecciones de vestuario. Como persona no binaria juega con ello en su forma de vestir buscando siempre crear outfits rompedores y chocantes.
 
-Nuestro vampire en principio no tiene ningún tipo de escrúpulos morales o ético y solo piensa en sí mismo y su supervivencia por lo que solo mira por su interés sin importar quien caiga. De hecho eso es lo que vio Lord Ceballos en elle cuando lo convirtió. 
+Nuestro vampire en principio no tiene ningún tipo de escrúpulos morales o ético y solo piensa en sí mismo y su supervivencia por lo que solo mira por su interés sin importar quien caiga. De hecho, eso es lo que vio Lord Ceballos en elle cuando lo convirtió. 
 
 Pero hay cosas en las que puede olvidarse de sí mismo y pensar en los demás. 
 
@@ -200,7 +200,7 @@ A partir de ese momento se dedicó a servir a Lord Ceballos en exclusiva entreg�
 
 Eloise es el epítome de la vampiresa seductora que atrae a la perdición a sus víctimas con su increíble belleza. Podría ser perfectamente una de las novias de «Drácula», una auténtica súcubo sexual que te atrapa y se drena la esencia hasta acabar contigo sin que puedas hacer nada por rechazarla. Desgraciadamente para ella, Lord Ceballos solo la tiene como un florero que decora su guarida.
 
-Lord Ceballos la convirtió hacia mediados de los 80, de hecho compro la agencia de modelaje donde trabajaba y la hacía trabajar de azafata en sus eventos. Descubrió que si negociaba con ella cerca sus competidores estaban más distraídos y vio que el escultural cuerpo de Eloise podía mejorarse con las capacidades vampíricas que podía otorgarle.
+Lord Ceballos la convirtió hacia mediados de los 80, de hecho, compro la agencia de modelaje donde trabajaba y la hacía trabajar de azafata en sus eventos. Descubrió que si negociaba con ella cerca sus competidores estaban más distraídos y vio que el escultural cuerpo de Eloise podía mejorarse con las capacidades vampíricas que podía otorgarle.
 
 A diferencia de otros siervos vampíricos, le pidió permiso y le explico las ventajas, que no los inconvenientes. Eloise aceptó y ese es un error del que se arrepiente todas las noches.
 

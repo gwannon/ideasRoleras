@@ -112,7 +112,7 @@ _DÍA_
 Samuel cree que la sinceridad y no ocultar cosas a los niños es fundamental, así que les dirá que pueden preguntarle todo lo que quieran y sabe bastante.
 
 * Se tomó un montón de medicamentos, se cortó las venas por las muñecas y se metió en la bañera.
-* Nadie en claustro había percibido nada, de hecho parecía que estaba conociendo a alguien y parecía ilusionada.
+* Nadie en claustro había percibido nada, de hecho, parecía que estaba conociendo a alguien y parecía ilusionada.
 * Ha sido incinerada como pedía en su nota de suicidio.
 * Eso ya lo sabían ellas, pero lo confirma Samuel, llevaba unas semanas muy débil y anémica. Se dormía en todas partes y estaba muy pálida. Creen que igual tenía un cáncer y había preferido no sufrir.
 
@@ -138,31 +138,6 @@ El DJ debería poder mirar esas hojas solo si algún adulto tiene acceso al móv
 Podrías hacerlo también con un chat de WhatsApp o Telegram, pero la hoja de papel evita que cuando cojan el móvil se pongan con otros chats. Además, me gusta el impacto dramático de arrancar la hoja de las manos por sorpresa, como si fueras sus padres o un malo y sin miedo a romper el móvil. También permite cotillear la hoja sin que ellos lo sepan, que les han hackeado o que han fisgado su móvil.
 
 Como siempre, si todo esto te parece un engorro, puedes hacer que simplemente hablen entre ellas, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \sinc
 
@@ -210,7 +185,7 @@ Si no han pasado ni un día desde que la policía retiro el precinto, podrán en
 
 El ordenador parece bastante caro y nuevo y, por desgracia, al encenderlo tiene contraseña, no es complicada de hackear, si puedes llevarte el ordenador, pero si tienes prisa es un gran obstáculo. Si consiguen acceso pueden encontrar:
 
-* **Historial de navegación:** aparte de noticias, redes y compras online tiene un par de webs de citas y en una de ellas un match con un chico joven Goloso22. Han tonteado un poco y han quedado un par de noches a cenar y toar algo. Luego parece que se pasaron a WhatsApp.
+* **Historial de navegación:** aparte de noticias, redes y compras online, tiene un par de webs de citas y en una de ellas un match con un chico joven Goloso22. Han tonteado un poco y han quedado un par de noches a cenar y toar algo. Luego parece que se pasaron a WhatsApp.
 
 \sp
 
@@ -291,7 +266,7 @@ El Cripi se encargó de falsificar la autopsia y eliminar las cosas raras que pu
 
 El único hilo del que tirar es Goloso22 y lo único que tienen de Goloso22 es una foto de un jovencito con una imagen bastante alternativa y queer y que tiene una cuenta en una web de citas. Así que pueden enseñar la foto por ahí o hacerse una cuenta en la web de citas.
 
-Si preguntan por ahí y el plan para buscarle es bueno obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo. Si siguieron al Cripi, ya les sonará el lugar y las piezas empezarán a encajar.
+Si preguntan por ahí y el plan para buscarle es bueno, obtendrán el nombre de un lugar, «Jaula». Una discoteca con gancho en el barrio, de la que corren varias historias turbias de actos violentos, rituales de sangre y cosas por el estilo. Si siguieron al Cripi, ya les sonará el lugar y las piezas empezarán a encajar.
 
 Alfonse borró la cuenta de Tinder tras el trabajo, pero sigue usando otra foto de él mismo en otra cuenta para encontrar sexo casual con succión de sangre.
 
@@ -308,7 +283,7 @@ Si son más listas que elle pueden tratar de sonsacarle información. Muchas cos
 Pero por mucho que lo intenten, no dirá nada que pudiera dar a entender que es un vampire o que les vampires existen. Se puede dejar llevar por el jugueteo y el sexting, pero no es tonte. 
 
 ```
-Si a tu mesa le apetece quizás puedas hacer esta parte por una app de mensajería durante la semana entre sesión y sesión de juego. El DJ puede hacer tiradas y poniendo el resultado en el chat.
+Si a tu mesa le apetece, quizás puedas hacer esta parte por una app de mensajería durante la semana entre sesión y sesión de juego. El DJ puede hacer tiradas y poniendo el resultado en el chat.
 ```
 
 \sinc
@@ -353,7 +328,7 @@ Esquivar a los porteros es muy complicado a no ser que consigan distraerlos con 
 
 Quizás puedan poner su propia cámara oculta o desde lejos escondidas para tratar de ver el código. Igual algún truco como mirar los números más desgastados les funcione también.
 
-El problema es la cámara que vigila puerta. Si pasan más de un par de minutos alguien aparecerá a decirles que se vayan de allí.
+El problema es la cámara que vigila puerta. Si pasan más de un par de minutos, alguien aparecerá a decirles que se vayan de allí.
 
 #### Conductos de ventilación
 
@@ -361,7 +336,7 @@ Si las puertas fallan solo hay una opción, los conductos de ventilación. Son p
 
 Deben subir al techo por una escalera de emergencia y abrir la salida del conducto de ventilación. Sin herramientas será imposible abrir el conducto.
 
-Orientarse en los conductos exige una tirada Grande (+3) o aparecerán en un sitio al azar de la disco menos en la habitación secreta de Alfonse.
+Orientarse en los conductos exige una tirada Grande (+3) o aparecerán en un sitio al azar de la disco, menos en la habitación secreta de Alfonse.
 
 ### Dentro de la disco
 
@@ -381,7 +356,7 @@ Una vez lo localicen, Alfonse se moverá a la zona VIP a no ser que estén ya al
 
 Acto seguido, despliega todo su encanto vampírico y sacará un arsenal de drogas de diseño que le suministra su jefe vampírico.
 
-Es muy buene sonsacando vicios prohibidos, fetiches y perversiones de sus víctimas y lo hace encantadoramente. Luego usa está información para atraerte a un reservado donde completa la faena a nivel sexual y hematófago (alimentarse de sangre).
+Es muy buene sonsacando vicios prohibidos, fetiches y perversiones de sus víctimas y lo hace encantadoramente. Luego usa esta información para atraerte a un reservado donde completa la faena a nivel sexual y hematófago (alimentarse de sangre).
 
 Igual se les ocurre a tus jugadoras cortarle el rollo, pero eso supondría ponerse al descubierto y realmente tendría que hacer algo gordo como activar los aspersores pulsando la alarma antiincendios.
 
@@ -405,13 +380,13 @@ Podrán esconderse en ella, pero también sus perseguidores y con el tumulto alg
 
 \sp
 
-Si quieren montar una distracción rápida, tienen segundos para llevarla a cabo, por ejemplo tirando petardos. Si lo consiguen ya no estarán en la misma zona de la discoteca que Alfonse y según a donde se muevan incluso no las vea.
+Si quieren montar una distracción rápida, tienen segundos para llevarla a cabo, por ejemplo, tirando petardos. Si lo consiguen ya no estarán en la misma zona de la discoteca que Alfonse y según a donde se muevan incluso no las vea.
 
-Otra opción puede ser **lanzarse contra Alfonse** e intentar acabar con él. Tus cazadoras no están preparadas para luchar contra vampiros así que es casi imposible hacerle daño.
+Otra opción puede ser **lanzarse contra Alfonse** e intentar acabar con él. Tus cazadoras no están preparadas para luchar contra vampiros, así que es casi imposible hacerle daño.
 
 [![High angle dj woman at control panel by Freepik](./assests/images/high-angle-dj-woman-control-panel.jpg "High angle dj woman at control panel by Freepik")](https://www.freepik.com/free-photo/high-angle-dj-woman-control-panel_5854775.htm "High angle dj woman at control panel by Freepik")
 
-Que no puedan hacerle daño no quiere decir que no puedan derribarlo e intenten inmovilizarlo. Alfonse no quiere enseñar sus cartas, pero si es sobrepasado empezará a flotar y atacar haciendo pasadas con lo que será muy difícil golpearlo.
+Que no puedan hacerle daño no quiere decir que no puedan derribarlo e intenten inmovilizarlo. Alfonse no quiere enseñar sus cartas, pero si es sobrepasado empezará a flotar y atacar haciendo pasadas, con lo que será muy difícil golpearlo.
 
 Pueden hacer fuego, pero no será una gran llama a no ser que tengan combustible como gasolina o alcohol. Además, el sistema de aspersores se pondrá a funcionar al instante y apagar toda llama que haya.
 
@@ -431,7 +406,7 @@ A priori, deberían tener claro que los vampiros existen y parece que hay muchos
 
 \sp
 
-La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria ellos pueden hacer lo que quieran allí.
+La idea general que les debe quedar clara es que los vampiros son una especie de cáncer que se enquista en una comunidad y hace que todo empeore hasta destruir esa comunidad. Cuando la comunidad es un pozo de miseria, ellos pueden hacer lo que quieran allí.
 
 #### Se empieza a forjar una amistad
 
@@ -495,7 +470,7 @@ _NOCHE_
 
 Con toda la información recogida y el equipo preparado tendrán que pensar un plan de acción que solucione un gran problema, el vampiro está avisado, sabe que alguien ha entrado en su «sancta sanctorum» y habrá puesto remedio mejorando la seguridad.
 
-Como DJ no deberías dejarles entrar del mismo modo que la primera vez a no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
+Como DJ no deberías dejarles entrar del mismo modo que la primera vez, a no ser que fueran muy cuidadosas y no dejarán ninguna pista, pero seguro que salen en alguna cámara o se dejaron algún acceso sin cerrar. 
 
 Por ejemplo, si entraron por la ventilación, se dejarían las tapas desatornilladas y cuando vuelvan habrá un candado de seguridad o algún tipo de alarma.
 
@@ -526,7 +501,7 @@ Has de tener en cuenta si tus cazadoras son conscientes de si han sido o no desc
 
 El combate puede ser muy sencillo si le pillan sorprendido y sus armas son eficaces o una pesadilla, si Alfonse está preparado y no tienen las armas adecuadas.
 
-Recuerda que Alfonse tiene su reserva de sangre completa lo que le permite usar todos sus poderes vampíricos a plena potencia.
+Recuerda que Alfonse tiene su reserva de sangre completa, lo que le permite usar todos sus poderes vampíricos a plena potencia.
 
 En este combate es importante que haya mucho diálogo, tiene que tener cierto toque de duelo dialéctico.
 
@@ -544,7 +519,7 @@ En este punto de la aventura deberán tomar una decisión importante, matar a Al
 
 La solución rápida es darle el «paseo» a Alfonse. Rápido y sencillo. Habría que quedarse con su teléfono y su portátil y poder sacar información útil de ellos para poder seguir cazando vampiros. De estos dispositivos pueden sacar pistas que les permita avanzar en el plan vampírico hacia arriba o hacia los lados en el siguiente capítulo.
 
-Alfonse no es un santo y tus cazadoras no deberían porque sentir piedad por él. Incluso podrían organizar algún tipo de ejecución, rollo abandonarlo a pleno sol, ahogarlo en una bañera de agua con ajo, estacarle el corazón, etc. Las opciones son muchas y si son creativas incluso pueden crear algún aspecto en la comunidad vampírica que puedan explotar.
+Alfonse no es un santo y tus cazadoras no deberían porque sentir piedad por él. Incluso podrían organizar algún tipo de ejecución, rollo abandonarlo a pleno sol, ahogarlo en una bañera de agua con ajo, estacarle el corazón, etc. Las opciones son muchas y si son creativas, incluso pueden crear algún aspecto en la comunidad vampírica que puedan explotar.
 
 #### Negociar con el chupasangre
 
@@ -576,12 +551,12 @@ Alfonse puede darle una descripción, números de teléfono, mensajes de texto y
 
 Sabe más cosas, pero se las guarda. Quiere testar a las cazadoras primero y ver cómo se desenvuelven y si Néstor las atrapa y las tortura, no podrán contar mucho. Cosas que sabe:
 
-* Conoce toda la estructura de poder desde él hasta Lord Ceballos. No conoce otras ramas, pero sí la suya. Por ejemplo no conoce a Verónica, la otra sierva vampira de Néstor.
+* Conoce toda la estructura de poder, desde él hasta Lord Ceballos. No conoce otras ramas, pero sí la suya. Por ejemplo, no conoce a Verónica, la otra sierva vampira de Néstor.
 * No tiene muy estudiado a Néstor, pero sabe que está detrás de las desapariciones de menores. No tiene detalles concretos, pero sabe de sus abominables apetitos. Lo importante para Alfonse es que las cazadoras son la presa y el depredador perfecto para Néstor.
 
 \sp
 
-* Por último, Alfonse sabe que Néstor no comete fallos, es tremendamente metódico y todo sigue un orden concreto testado y revisado. Es una gran fortaleza y su mayor debilidad, no se espera que un grupo de niñas puedan hacerle frente y eso le va a volver loco al desbaratar sus planes.
+* Por último, Alfonse sabe que Néstor no comete fallos, es tremendamente metódico y todo sigue un orden concreto, testado y revisado. Es una gran fortaleza y su mayor debilidad, no se espera que un grupo de niñas puedan hacerle frente y eso le va a volver loco al desbaratar sus planes.
 
 ### Subiendo a un nivel superior del plan
 
@@ -601,7 +576,7 @@ Alfonse no es el único vampiro noob al servicio de Néstor. También tiene a Ve
 
 * Está cambiando las cita continuamente de personas con problemas de movilidad, de forma que sea imposible aparecer al final.
 * Crea citas fantasma para llenar los horarios del personal médico a las que nunca acude nadie.
-* Ha saboteado varios equipos fundamentales como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
+* Ha saboteado varios equipos fundamentales, como máquinas de diálisis o de resonancias, para hacer las largas listas de espera más largas todavía.
 * Hace desaparecer pruebas y resultados para obligar a repetirlas.
 
 Verónica tiene a su servicio un par de celadores de noche que le sirven incondicionalmente y que la protegen de día, cuando es más vulnerable.
@@ -705,7 +680,7 @@ Puede ser un buen momento en que empiecen a ver a Catalina Faroes y que les vaya
 
 ### Si investigan las desapariciones de niñes
 
-Si investigan el tema de las desapariciones, pueden ver que muchos de ellos eran consumidores menores de drogas blandas con lo que al acudir a la lonja entran en su radar. Además, sus camellos suelen informarle de este tipo de clientes.
+Si investigan el tema de las desapariciones, pueden ver que muchos de ellos eran consumidores menores de drogas blandas, con lo que al acudir a la lonja entran en su radar. Además, sus camellos suelen informarle de este tipo de clientes.
 
 Néstor suele buscar sus víctimas entre esos preadolescentes y adolescentes que consumen drogas. Esto muchas veces supone que vengan de familias desestructuradas y que escapen de casa y desaparezcan sea algo posible.
 
@@ -765,7 +740,7 @@ Posibles trampas y trucos que puede usar para capturarlas:
 * Imita muy bien las voces infantiles. Puede pedir auxilio como si fuera un niño asustado en la oscuridad y atraer a sus víctimas.
 * El EPI le hace que inmune a ajo y agua bendita y le da un aspecto terrorífico. Imagínate ver una máscara de gas completamente negra y solo ver los ojos relucientes de Néstor.
 * Una vez atrape a la primera cazadora, puede empezar a usarla de cebo e incluso a amenazar con matarla si no rinden.
-* El espacio del local de venta de drogas es muy sencillo, pero puedes crear zonas independientes a tu gusto mediante palés de materiales y equipo almacenado. Lo interesante es que entraron pensando que es una zona simple y diáfana (según los planos) y estos elementos van a actuar como paredes convirtiéndolo en laberinto de cajas, estanterías y palés. Néstor al flotar no sufre ese problema y se va a mover mucho más rápido por el local.
+* El espacio del local de venta de drogas es muy sencillo, pero puedes crear zonas independientes a tu gusto mediante palés de materiales y equipo almacenado. Lo interesante es que entraron pensando que es una zona simple y diáfana (según los planos) y estos elementos van a actuar como paredes, convirtiéndolo en un laberinto de cajas, estanterías y palés. Néstor al flotar no sufre ese problema y se va a mover mucho más rápido por el local.
 * Recuerda que Néstor tiene unos aspectos muy útiles cuando se enfrenta a menores como depredador sexual que es. Deberías aprovecharlos siempre que puedas.
 
 [![Light from an open door by rawpixel.com](./assests/images/light-from-open-door.jpg "Light from an open door by rawpixel.com")](https://www.freepik.com/free-photo/light-from-open-door_19139608.htm "Light from an open door by rawpixel.com")
@@ -794,13 +769,13 @@ Cosas que debe tener en cuenta.
 
 * Néstor tiene experiencia reteniendo niñes y eso le da cierta ventaja porque sabe como van a actuar y razonar. Pero eso también es una gran debilidad, porque ve a tus cazadoras como niñas y no como experimentadas cazadoras con sus trucos.
 * Tus cazadoras pueden hablar a gritos entre ellas, pero todo lo podrá registrar Néstor con su sistema de vigilancia.
-* La cámara de vigilancia se ve perfectamente. De hecho está puesta así a propósito. Es muy difícil desactivarla, es muy resistente y está muy alta.
+* La cámara de vigilancia se ve perfectamente. De hecho, está puesta así a propósito. Es muy difícil desactivarla, es muy resistente y está muy alta.
 * Ha grabado los gritos de víctimas anteriores y los reproduce en una de las celdas desocupadas aleatoriamente. La idea es aterrorizar y no dejar dormir a sus prisioneros. Eso puede confundir a tus cazadoras, pero también pueden usar esos gritos para enmascarar el ruido que hagan.
 * Néstor deja objetos sucios y ensangrentados de víctimas anteriores, así que si tus cazadoras están muy perdidas puedes darles algo de equipo como cinturones, cables de móviles, cordones, etc.
 
 Unas vías de escape posibles son:
 
-* Las cámaras tienen un punto ciego todas, pegadas a la esquina no se ve al recluso. Si todas las cazadoras desaparecen al mismo tiempo y no se mueven harán que Néstor se vuelva loco y vaya a ver que pasa. Recuerda que solo podrá ir si es de noche.
+* Las cámaras tienen un punto ciego todas, pegadas a la esquina, no se ve al recluso. Si todas las cazadoras desaparecen al mismo tiempo y no se mueven, harán que Néstor se vuelva loco y vaya a ver que pasa. Recuerda que solo podrá ir si es de noche.
 * Otro problema que desconoce Néstor de las cámaras es que están tan bien ancladas que pueden servir de punto de anclaje para diferentes trampas. Podrían poner una trampa de lazo con cordones y cables que haga que se enrede solo y quede anclado al soporte de la cámara. No durará mucho tiempo atado, unos segundos, pero suficiente para salir y abrir la celda de otra compañera.
 * Si Néstor abre una celda no puedes esconderse detrás de la puerta porque se abren hacia afuera para no tener puntos ciegos cuando las abre.  Los reflejos de Néstor son sobrehumanos, así que tendrán que montar una distracción o tener los mismos reflejos si quieren esquivarle y salir al pasillo. Para ventaja de tus cazadoras que se abran hacia afuera hace que se sean más fácil de abrir por fuerza bruta.
 
@@ -824,7 +799,7 @@ Si es de día, aún podrán intentar escapar y dejar la caza de Néstor para otr
 * Puede intentar arrancar algún tubo o hierro de las paredes y usarlo de arma.
 * Hay cristales rotos en el suelo que puede convertir en cuchillos si los envuelven en alguna tela y lo usan como mango.
 * Hay latas casi vacías de productos industriales y limpieza y alguno puede ser inflamable. No hay casi nada, pero para un buen chorro de tragafuegos ya tienen.
-* Por último al final del pasillo junto a la puerta de salida hay una mesa metálica con parte de su equipo.
+* Por último, al final del pasillo, junto a la puerta de salida hay una mesa metálica con parte de su equipo.
 
 #### El equipo y las pistolas de agua
 
@@ -876,7 +851,7 @@ Igual que en la segunda visita a Alfonse no deberían poder usar con Néstor la 
 
 El ataque a Néstor debe principalmente buscar la manera de solucionar el tema del EPI. La idea más sencilla es destruirlo con fuego o ácido.
 
-El propio EPI podría ser una ventaja si tus cazadoras saben aprovecharlo. Por ejemplo, al ser estanco si conseguís meter té de ajo, agua bendita o fuego dentro del traje, será mucho más efectivo y no podrá quitárselo fácilmente.
+El propio EPI podría ser una ventaja si tus cazadoras saben aprovecharlo. Por ejemplo, al ser estanco, si conseguís meter té de ajo, agua bendita o fuego dentro del traje, será mucho más efectivo y no podrá quitárselo fácilmente.
 
 Pueden tener más éxito si consigue tener a sus esbirros distraídos con una pelea de adictos o una redada de la policía (aunque difícil por los vampiros controlan a la policía).
 
@@ -896,7 +871,7 @@ Tus cazadoras puede que quieran aprovecharse de Néstor como pederasta para caza
 
 Algunas ideas básicas podrían ser:
 
-* Tratar de negociar en algún lugar donde preparen algún tipo de trampa. Desde luego, Néstor no irá desprotegido. Si consiguen pruebas de sus crímenes pueden forzarle a negociar a sacarlas a la luz. 
+* Tratar de negociar en algún lugar donde preparen algún tipo de trampa. Desde luego, Néstor no irá desprotegido. Si consiguen pruebas de sus crímenes pueden forzarle a negociar o sacarlas a la luz. 
 * Néstor no se fía de Alfonse de normal y menos después del tema de las cazadoras. De hecho, está seguro que puede estar ayudándolas para quitarle el puesto, pero puede ser una manera de atraerle a una emboscada o darle información falsa.
 
 \sp
@@ -931,7 +906,7 @@ No es fácil ni esconderlo, ni moverlo, pero puede ser una baza muy potente a la
 
 ### Money, money
 
-Si son rápidas también tendrán acceso a una buena cantidad de dinero del tráfico de dinero. Puedes dejar en la mazmorra o en la lonja algún maletín lleno de dinero. Este maletín, mientras tenga dinero, puede proporcionarles algún aspecto grupal de «bien aprovisionadas» o «buen equipo».
+Si son rápidas, también tendrán acceso a una buena cantidad de dinero del tráfico de dinero. Puedes dejar en la mazmorra o en la lonja algún maletín lleno de dinero. Este maletín, mientras tenga dinero, puede proporcionarles algún aspecto grupal de «bien aprovisionadas» o «buen equipo».
 
 \sp
 
@@ -949,11 +924,11 @@ Es importante que den la cara porque en el futuro necesitaran el apoyo de esta o
 
 En este capítulo se van a enfrentar a Eloise y Eloise va a actuar de manera diferente a lo que puedan esperar tus cazadoras. Néstor ha caído y era muy bueno en su estilo de juego, así que ella buscará otra manera de afrontar el problema que suponen tus cazadoras.
 
-> A partir de ahora la línea general de la aventura va a cambiar, ya no van a tener que investigar y descubrir el plan vampírico para poder desbaratarla. El plan vampiro vendrá a ellas en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos. 
+> A partir de ahora la línea general de la aventura va a cambiar, ya no van a tener que investigar y descubrir el plan vampírico para poder desbaratarla. El plan vampiro vendrá a ellas, en este caso en forma de Eloise, pero luego vendrá como Nieve y finalmente de lord Ceballos. 
 
 ### El debut de Eloise
 
-Cuando las noticias de la muerte de Néstor lleguen, y puede ser de varios días incluso semanas según como y donde haya muerto, Lord Ceballos toma medidas. 
+Cuando las noticias de la muerte de Néstor lleguen, y puede ser de varios días, incluso semanas según como y donde haya muerto, Lord Ceballos toma medidas. 
 
 No sabe muy bien qué ha pasado y no quiere desperdiciar a sus mejores agentes en quimeras. Así que dará una oportunidad a Eloise. Ceballos sabe que el «florero de sus fiestas» es lista y le va a dar la ocasión de demostrar que puede ser algo más que ser una cara bonita con la que distraer a la gente.
 
@@ -991,13 +966,13 @@ Si ellas no van a Celose, Celose terminará encontrando alguien que las ponga en
 
 Como ya hemos dicho, Alfonse, si está vivo, avanzará con cada paso que den tus cazadoras. Lord Ceballos lo pondrá al cargo de los negocios de Néstor y bajo las órdenes de Eloise.
 
-El poder de Alfonse aumenta y ahora tiene _línea directa con los jefazos_. Néstor siempre había evitado que Alfonse tuviera contacto con Lord Ceballos y otros vampires de alto nivel, de hecho Néstor le había amenazado que si contactaba con sus superiores, se encargaría de matarlo con sus propias manos.
+El poder de Alfonse aumenta y ahora tiene _línea directa con los jefazos_. Néstor siempre había evitado que Alfonse tuviera contacto con Lord Ceballos y otros vampires de alto nivel, de hecho, Néstor le había amenazado que si contactaba con sus superiores, se encargaría de matarlo con sus propias manos.
 
 \sp
 
 Pero esa restricción ha desaparecido y ahora estará al tanto de los planes de Eloise. Alfonse puede decidir hacerse el tonto y ver por donde van las aguas o ayudar a tus cazadoras. No puede darles mucha información, sabe que Eloise es lista y se daría cuenta de sus chivatazos, además no suelta mucha prenda de sus planes. Así que solo dará pistas sutiles, no podrá dar datos exactos.
 
-Las tradiciones vampíricas dictán que Alfonse deje de ser un noob, para ser un veterano y claramente, Lord Ceballos le dejará caer que debe buscarse un siervo vampiro que ocupe su lugar y de Verónica si tus cazadoras han acabado con ella. Puede que Alfonse, empiece a pensarse en convertir a alguna de tus cazadoras. 
+Las tradiciones vampíricas dictan que Alfonse deje de ser un noob, para ser un veterano y claramente, Lord Ceballos le dejará caer que debe buscarse un siervo vampiro que ocupe su lugar y de Verónica si tus cazadoras han acabado con ella. Puede que Alfonse, empiece a pensarse en convertir a alguna de tus cazadoras. 
 
 Puede que le «tire los tejos» a alguna de ellas con el rollo vampírico, la vida inmortal, etc. Si hay alguna de ellas con tendencias callejeras y buscavidas, debería ser con la que tenga alguna relación y a quien quiera tener cerca como su sierva.
 
@@ -1009,7 +984,7 @@ __NOCHE__
 
 Eloise va a plantearse tender una trampa a las cazadoras. Va a montar una «casita de chocolates» para atraparlas, algo a lo que no se puedan resistir.
 
-La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
+La idea es montar una especie de fiesta para su cumpleaños. Sería una fiesta privada, pero, como quiere atraer a las niñas, su idea es montar un evento libre de alcohol y drogas donde literalmente quiere montar una casita de chocolate y golosinas. De hecho, ella va a disfrazarse de bruja malvada, pero no arrugada y vieja, sino moderna y empoderada.
 
 Recuerda que los vampiros siempre montan planes complicados y ostentosos, solo pueden actuar de noche y no pueden entrar en casa si no están invitados con lo que una fiesta/trampa como esta entra dentro de su rebuscada forma de pensar.
 
@@ -1039,7 +1014,7 @@ El día que vayan de compras con el cheque regalo, puedes hacerles una escena di
 
 #### El fiestón
 
-Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado a veces muy colorido y otras veces bastante tétrico según este iluminado. 
+Como diría John Hammond en Parque Jurásico, «No hemos reparado en gastos». Celose ha alquilado un polígono industrial en las afueras del barrio y ha hecho venir a los mejores especialistas en diseño de escenarios de películas. Estos han creado un bosque encantado, a veces muy colorido y otras veces bastante tétrico según este iluminado. 
 
 Actores y actrices contratados se mueven por el set haciendo de diferentes personajes de cuento, pero todos han sido maquillados y caracterizados para dar cierto mal rollo con detalles inquietantes. Quizás el gato con gotas tenga unos colmillos demasiado afilados o la sonrisa de la reina del hielo es demasiado exagerada. De hecho, muchos de los disfraces has sido retocados por Eloise y ella misma ha hecho algunos de los maquillajes o ha supervisado el trabajo del resto del equipo de maquillaje.
 
@@ -1051,7 +1026,7 @@ Fuera de la casa de chocolate hay una mesa gigantesca para unas 30 comensales de
 
 Junto a las cazadoras, y para no levantar sospechas, ha invitado a unas 30 niñas más de entre sus seguidoras. Así que tus cazadoras deberían tener en cuenta que no pueden hacer cualquier cosa porque podrían poner sus vidas en peligro. Celose lo ha hecho a propósito para limitar sus capacidades.
 
-Celose, como ya hemos dicho siente fascinación por las cosas de los mortales incluso los aprecia, aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
+Celose, como ya hemos dicho, siente fascinación por las cosas de los mortales, incluso los aprecia, aunque sea por la adoración que recibe en las redes y no quiere lanzarse a por las cazadoras según traspasen la puerta de la fiesta. Realmente le caen bien las cazadoras y **necesita confirmar todas sus sospechas** antes de tratar de acabar con ellas.
 
 Mientras avanza por el bosque las vigilará por las cámaras de seguridad del complejo y verá sus reacciones. Cuando ya esté con ellas en persona tratará de sonsacarles información.
 
@@ -1059,7 +1034,7 @@ Puedes ser creativo poniéndoles en el paseo por el bosque algunos dilemas moral
 
 #### Detectar a Eloise como vampira
 
-Eloise como Celose parece totalmente humana. De hecho es tan humana que sus jefes y compañeros vampíricos no la reconocen como Celose. Así que debería ser difícil (Extremadamente difícil +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
+Eloise como Celose parece totalmente humana. De hecho, es tan humana que sus jefes y compañeros vampíricos no la reconocen como Celose. Así que debería ser difícil (Extremadamente difícil +4) detectar si es vampira y si se desea hacerlo, tus cazadoras deberán montar alguna prueba.
 
 Está claro, que tus cazadoras deben ya saber que todo esto huele mucho a plan vampiro, pero deben caer en la trampa para poder seguir como sigue la historia, así lo primero debería saber es conocer a su próximo objetivo y saber de qué va. Es por ello que la fiesta es la manera principal de saber si Celose es una vampira.
 
@@ -1087,11 +1062,11 @@ Eloise pedirá a las cazadoras que entren con ella en la casita y le ayuden a sa
 
 Huele muchísimo a trampa y sobre todo si ya tienen claro el vampirismo de Celose, pero también es una oportunidad de estar a solas con ella y de hablar, negociar o sacar las estacas de madera. 
 
-Cuando las cazadoras cojan la tarta (o estén relativamente cerca), Eloise activará un mando a distancia y la bomba incendiaria del interior de la tarta estallará dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse el chocolate de la casa.
+Cuando las cazadoras cojan la tarta (o estén relativamente cerca), Eloise activará un mando a distancia y la bomba incendiaria del interior de la tarta estallará, dejándolas noqueadas y vulnerables a los ataques de Eloise. Algunos elementos de la decoración se prenderán fuego y empezarán a derretirse el chocolate de la casa.
 
 Las alarmas de fuego empezarán a sonar y todo el mundo tratará de salir del polígono. En principio, de un vistazo verán que los actores y la gente de seguridad están sacando a las niñas de la merienda, así que deberían poder centrarse en su enemiga. Pero siempre puedes usar alguna niña atrapada bajo un árbol de fibra de vidrio para que Eloise pueda escapar o que la use de rehén. 
 
-La casita de chocolate tiene una serie de características que debes tener en cuenta en el combate. Es un entorno cerrado y pequeño unos 12 metros cuadrados (3x4 m) y unos 3 altos en la parte más alta.
+La casita de chocolate tiene una serie de características que debes tener en cuenta en el combate. Es un entorno cerrado y pequeño, unos 12 metros cuadrados (3x4 m) y unos 3 altos en la parte más alta.
 
 El interior está completamente vacío y las entradas y salidas son la puerta principal, una ventana de cristal de guirlache en las otras paredes y una chimenea de turrón. Puedes hacer dos zonas dentro la casita para temas de contacto, la entrada y el fondo de la casita.
 
@@ -1147,7 +1122,7 @@ Recuerda que intentar cazar directamente a Eloise puede ser muy complicado. Las 
 
 #### Infiltración
 
-Colarse en la rave debería ser fácil, de hecho la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
+Colarse en la rave debería ser fácil, de hecho, la idea de Celose es dejar a tus cazadoras vía libre para entrar. Lo difícil será acercarse a ella sin ser visto y eludiendo la seguridad que seguramente las estará buscando. 
 
 El principal problema es que ellas solas __entre gente mucho más mayor darán el__ __cante enseguida__ y serán detectadas en cuanto pongan un pie dentro del edificio abandonado donde se celebrará la rave. Así que necesitarán una distracción.
 
@@ -1159,9 +1134,9 @@ Los fuegos, las alarmas y otras maneras de desviar la atención podrían montar 
 
 Cuando vean que sus planes no son viables, puedes proponerles que consulten con algún experto (o mejor dicho pirado) de internet. Seguramente ya conozcan a alguno de cuando empezaron a ser cazadoras al principio de la aventura. Este les dará la idea de llenar la rave de menores hiperactivos.
 
-O quizas vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención/maratón de Papa Noeles.
+O quizás vean el principio Los Goonies cuando Mamá Fratelli escapa de la policía metiéndose dentro de una carrera de todoterrenos o vean la típica historia de robos donde el ladrón se esconde disfrazado de Papa Noel en una convención/maratón de Papa Noeles.
 
-> Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. La idea de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
+> Si proponen un plan viable y que pueden llevar a cabo con sus propios medios, déjales desarrollarlo. El plan de la noche de los goblins es muy divertida, pero no coartes sus buenas ideas.
 
 #### Buscando la hora y el lugar
 
@@ -1185,7 +1160,7 @@ No hay mataderos ahora mismo en el barrio, pero si hay un viejo edificio abandon
 
 Podrían pasar la dirección a sus amigas y esperar que estás se las pasen a otras amigas y así hasta que todo el barrio lo sepa. El problema es que se arriesgan a que en las pocas horas antes de la rave el mensaje no llegue a suficientes amigas y amigos y no obtengan la cobertura y el caos que buscan. 
 
-Así que deberían buscar un sistema para pasarlo en el último momento, pero que puedan controlar quien acceder. Veamos algunas opciones.
+Así que deberían buscar un sistema para pasarlo en el último momento, pero que puedan controlar quién accede. Veamos algunas opciones.
 
 * Si tienen conocimientos informativos, montar un website con registro de algún tipo con el que puedan filtrar quien entra y quien no y una hora antes de la rave envíen la info por correo.
 * Montar una lista de amistades a las que mandar los mensajes y de suficiente confianza para que solo se lo pasen a otros menores.
@@ -1204,7 +1179,7 @@ __NOCHE__
 
 Una vez distribuido el lugar y la fecha, solo queda entrar en la rave y montar un buen follón. Para tus cazadoras no debería ser muy complicado, pero deberán buscar la manera de meter a los goblins si quieren que su plan tenga éxito.
 
-Toda la chavalada está en las calles y campas adyacentes al edificio así que si abrís una vía de entrada enseguida se correrá la voz para entrar todos.
+Toda la chavalada está en las calles y campas adyacentes al edificio, así que si abrís una vía de entrada enseguida se correrá la voz para entrar todos.
 
 El viejo matadero donde se va está montando la rave, lleva años abandonado. Las puertas y ventanas están cerradas con maderos clavados y solo se ha abierto la entrada principal donde un par de miembros del equipo de seguridad controla la entrada. En principio, cualquier mayor de edad (o que lo parezca) puede entrar por esa puerta. 
 
@@ -1237,14 +1212,14 @@ Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise 
 * **Malo (-2) en:** Mezclarse entre la multitud y pasar desapercibidos, Organizarse y crear estrategias y planes
 * **Estrés:** ◯◯
 
-Los asistentes o están muy pasados o realmente se tomarán todo como una performance de Celose para dar el espectáculo, así que la mayoría de los que sean conscientes de lo que pasa se pondrán a grabarlo y a subirlo a sus redes. Los likes se dispararán y esos vídeos se viralizarán con lo que empezará a acercarse mucha gente al matadero al compartir la ubicación.
+Los asistentes o están muy pasados o realmente se tomarán todo como una performance de Celose para dar el espectáculo, así que la mayoría de los que sean conscientes de lo que pasa se pondrán a grabarlo y a subirlo a sus redes. Los likes se dispararán y esos vídeos se viralizarán, con lo que empezará a acercarse mucha gente al matadero al compartir la ubicación.
 
 Recuerda que es un matadero abandonado, así que tus cazadoras podrían hacer uso de algunos de estos elementos que todavía hay.
 
 * Para mover las grandes piezas de carne hay un sistema de carriles y poleas, viejo y oxidado pero todavía funcional. Podrían usarlo para alcanzar a Eloise, si se pone a flotar. También podrían usarlo como una manera de atarla para que no escape.
 * No queda anda del material de despiece como cuchillos y machetes, pero pueden encontrar barras de hierro y tuberías de plomo antiguas que usar como armas.
 * Si las estacas escasean, puede ser sencillo hacerlas de los tablones con que han cegado puertas y ventajas. Es madera vieja y los clavos muchas veces han abierto rajas a lo largo del tablero, con lo que se pueden conseguir de forma fácil piezas larga y puntiagudas de madera.
-* El potente equipo de luz y sonido es muy valioso, pero poco útil en combate. Aunque si tus cazadoras son ingeniosos podrían usarlo para deslumbrar a los siervos (y si lo hacen mal a ellas mismas).
+* El potente equipo de luz y sonido es muy valioso, pero poco útil en combate. Aunque, si tus cazadoras son ingeniosos, podrían usarlo para deslumbrar a los siervos (y si lo hacen mal a ellas mismas).
 * Aparte de eso no debería haber mucho más, son muchos años de saqueo de los objetos valiosos.
 
 \sp
@@ -1267,7 +1242,7 @@ Si alguna de tus cazadoras destaca por su belleza, su carisma y tiene gusto por 
 
 ## Heartbreak Hotel 
 
-> El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
+> El grupo Ceballos debía caer, si queríamos desmantelar los planes de Lord Ceballos. Y aunque parezca increíble, un grupito de niñas cazadoras de vampiros tenían el poder de acabar con una multinacional que facturaba millones de euros.
 
 \conc
 
@@ -1299,7 +1274,7 @@ Recuerda que por el día deberán luchar por evitar el derribo del estadio y por
 
 De la noche a la mañana, el estadio de futbol del barrio será cerrado por problemas estructurales y en una semana será derruido. En los documentos oficiales se relatan los graves fallos estructurales del polideportivo. No se propone que se construirá en su lugar en ningún tipo esa documentación. 
 
-Tus cazadoras llevan unas semanas sin mucha acción desde sus aventuras con Eloise y estarán hambrientas de acción. En cuanto les des esta pista deberán empezar a sospechar que los vampiros están detrás de toda esta movida del campo de fútbol. Si no son muy avispadas Alfonse y/o Eloise podrían ponerlas en la pista.
+Tus cazadoras llevan unas semanas sin mucha acción desde sus aventuras con Eloise y estarán hambrientas de acción. En cuanto les des esta pista deberán empezar a sospechar que los vampiros están detrás de toda esta movida del campo de fútbol. Si no son muy avispadas, Alfonse y/o Eloise podrían ponerlas en la pista.
 
 Buscando en las actas municipales su demolición fue votada en sesión especial cuando el concejal de obras públicas e infraestructuras, Diego Villal, presento un informe recalcando los graves problemas estructurales del estadio. Todo lo que se expone en el informe es verdad, pero en vez de pedir su derribo inmediato, podría haberse pedido su cierre y reparación.
 
@@ -1308,8 +1283,8 @@ Buscando en las actas municipales su demolición fue votada en sesión especial 
 Diego Villal tomó la decisión de tirar abajo el estadio por chantajes (droga y prostitución) que recibe de Nieve y ha encontrado la fórmula legal y económica que permita construir el casino del Grupo Ceballos:
 
 * Traerá trabajo y dinero a un barrio deprimido y lleno de droga (droga que el propio grupo ha metido en las calles).
-* Junto con el casino se va a crear nuevas instalaciones deportivas como squash o golf, pero son deportes de ricos que solo practicará una minoría. Además son deportes que podrán vender con el paquete de lujo del hotel del casino.
-* El grupo Ceballos como empresa que gestiona el futuro casino se compromete a donar parte de sus beneficios a una asociación conservacionista que proteja los humedales. De hecho puede presentar cuentas de que llevan meses ayudando a la Asociación de protección y conservación de los humedales «APCHUM».
+* Junto con el casino se va a crear nuevas instalaciones deportivas como squash o golf, pero son deportes de ricos que solo practicará una minoría. Además, son deportes que podrán vender con el paquete de lujo del hotel del casino.
+* El grupo Ceballos, como empresa que gestiona el futuro casino, se compromete a donar parte de sus beneficios a una asociación conservacionista que proteja los humedales. De hecho, puede presentar cuentas de que llevan meses ayudando a la Asociación de protección y conservación de los humedales «APCHUM».
 
 Si consiguen derribar el estadio, solo quedará un solar vacío sin mucho valor por estar cerca de los humedales y no tener ningún tipo de infraestructura decente cerca. Será fácil presentar el proyecto del casino y conseguir que el ayuntamiento lo acepte y el precio debería ser muy bajo. 
 
@@ -1325,7 +1300,7 @@ El proyecto de creación del casino ha sido convenientemente ocultado troceándo
 
 Si no son mayores de edad no podrán consultar esos documentos, así que deberán buscarse la manera de que alguien mayor los consulte. Está claro que si alguien pide esos documentos, saltarán alarmas en las oficinas del Grupo Ceballos. Se han encargado bien de untar a la gente del registro del ayuntamiento, para recibir un aviso en caso de que se soliciten ciertos documentos.
 
-Quizas engañen a alguien «random» para que les haga la petición o puedan simular que un adulto está haciendo las peticiones. Pueden tratar de conseguir que Catalina (ya deberían haber conocido) les ayude, pero déjales claro que la pondrían una diana en la espalda, mejor dejarlo para cuando tengan más pruebas. 
+Tal vez engañen a alguien «random» para que les haga la petición o puedan simular que un adulto está haciendo las peticiones. Pueden tratar de conseguir que Catalina (ya deberían haber conocido) les ayude, pero déjales claro que la pondrían una diana en la espalda, mejor dejarlo para cuando tengan más pruebas. 
 
 Con todos los documentos delante, pueden seguir algunas vías de acción:
 
@@ -1344,7 +1319,7 @@ Sin embargo, no hay ni rastro de carteles reivindicativos, planes de movilizacio
 
 Antes de que se den cuenta, las habrán despachado con folletos con consejos ecologistas cutres y manidos, camisetas con su logo y el Grupo Ceballos. Cualquiera vería que ahora no son más que un engranaje más del sistema de propaganda del grupo Ceballos.
 
-Esta visita también les dirá que no deben fiarse de la APCHUM en temas del vertido tóxico que está desarrollándose al mismo tiempo. De hecho si hablan con otras asociaciones ecologistas, les dirán que son unos «vendidos al dinero» del grupo Ceballos.
+Esta visita también les dirá que no deben fiarse de la APCHUM en temas del vertido tóxico que está desarrollándose al mismo tiempo. De hecho, si hablan con otras asociaciones ecologistas, les dirán que son unos «vendidos al dinero» del grupo Ceballos.
 
 \sc
 
@@ -1355,8 +1330,8 @@ No es fácil montar una sentada/recogida de firmas/manifestación en tan poco ti
 Algunas opciones para conseguir manifestantes son:
 
 * Pueden tratar de convencer a sus compañeros de clase.
-* Si están en algún tipo de equipo deportivo que usaba las instalaciones podrían convencer a sus compañeros de equipo y entrenadores.
-* Convencer a personas desocupadas como jubilados o estudiantes es relativamente fácil si encuentran el punto de unión. Quizas algún grupo de jubilados usaba las instalaciones del estadio para su gimnasia geriátrica.
+* Si están en algún tipo de equipo deportivo que usaba las instalaciones, podrían convencer a sus compañeros de equipo y entrenadores.
+* Convencer a personas desocupadas como jubilados o estudiantes es relativamente fácil si encuentran el punto de unión. Tal vez algún grupo de jubilados usaba las instalaciones del estadio para su gimnasia geriátrica.
 * Las peñas deportivas del equipo del barrio pueden ser una buena opción donde conseguir gente.
 * Celose podría usar sus contactos en las redes sociales para dar más viralidad a las protestas y muchos de sus locos seguidores se unirán a las movilizaciones o harán donaciones online.
 
@@ -1376,19 +1351,19 @@ Las movilizaciones son la única manera de parar efectivamente el derribo, el re
 * Sabotear el derribo solo alargará el problema en el tiempo, si se ha votado el derribo un sabotaje no frenará a la maquinaria burocrática.
 * No hay dinero y gente interesada en levantar una serie de demandas contra el ayuntamiento.
 * Tampoco hay tiempo ni contactos para informar a otras empresas y que le planten cara al Grupo Ceballos.
-* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos como Néstor indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiéndose de todo.
+* La única otra vía de investigación viable sería descubrir los chantajes de Nieve al concejal Diego Villal. Pero volvemos al problema de siempre, esto necesita un tiempo que no tienen. Si ves que no están teniendo mucho éxito en conseguir seguidores, puedes echarles una mano y que descubran entre los archivos que tengan de diferentes vampiros muertos, como Néstor, indicios del chantaje. Incluso Alfonse podría decirles que vio al concejal en su local metiéndose de todo.
 
 ### Vertido tóxico
 
 Mientras que la demolición del campo de futbol puede ser detenida, el vertido tóxico es muy difícil de detener porque tus cazadoras no van a tener ninguna pista de cuando y donde. 
 
-Pueden que ya sepan que la planta de reciclaje de San Andrés, pertenece al Grupo Ceballos, pero no deberían tener pistas de la jugada de Nieve y el grupo Ceballos. Por suerte, el derrame no es algo que va a pasar en una noche, será algo que pasará durante 7 noches. Si bien no van a evitar las primeras noches si podrán evitar que se convierta en un gran desastre si pueden pararlo en las primeras noches.
+Pueden que ya sepan que la planta de reciclaje de San Andrés, pertenece al Grupo Ceballos, pero no deberían tener pistas de la jugada de Nieve y el grupo Ceballos. Por suerte, el derrame no es algo que va a pasar en una noche, será algo que pasará durante 7 noches. Si bien no van a evitar las primeras noches, si podrán evitar que se convierta en un gran desastre, si pueden pararlo rápidamente.
 
 La idea de Nieve es que con el casino en marcha y los humedales destrozados, será fácil presentar un proyecto de construcción de la autopista de acceso y del parking del casino y que sea aprobado.
 
 #### El plan de Nieve
 
-El casino que el Grupo quiere montar no sirve de nada sin unos buenos terrenos donde montar una autopista de acceso y un buen parking y para ellos hay que coger terrenos de los humadeles. Así que lo mejor es cargarse los humedales y toda la biodiversidad que hay en ellos.
+El casino que el Grupo quiere montar no sirve de nada sin unos buenos terrenos donde montar una autopista de acceso y un buen parking y para ellos hay que coger terrenos de los humedales. Así que lo mejor es cargarse los humedales y toda la biodiversidad que hay en ellos.
 
 La idea es que tras un desastre ecológico, se presentarán como revitalizadores del barrio y se comprometerán a limpiar todos los humedales a cambio de una parte donde construir las instalaciones que necesitan. 
 
@@ -1426,17 +1401,17 @@ Cada noche se volverá a dar un nuevo vertido en una nueva zona y se repetirán 
 
 Tus cazadoras pueden unirse a grupos ecologistas para poder tener una excusa de moverse por los humedales sin llamar la atención. Además, pueden usar estos grupos para darles pistas si están muy perdidas.
 
-A la tercera noche algunos medios grandes hablarán unos segundos de los vertidos, pero muy por encima y quizas algún equipo informativo se persone en los humedales para hacer algún mini-reportaje.
+A la tercera noche algunos medios grandes hablarán unos segundos de los vertidos, pero muy por encima y quizás algún equipo informativo se persone en los humedales para hacer algún mini-reportaje.
 
 #### Buscando la fuente de los vertidos
 
-Las investigaciones de los primeros vertidos serán bastante estériles. No hay pistas de nada en la zona, quizas pisadas y ruedas de un vehículo, si el agua de los humedales no se las ha llevado. La única similitud será que cerca hay un vertedero ilegal con neveras y lavadoras oxidadas, armarios viejos, calentadores rotos, restos de obras, etc. Son basura que la gente del barrio ha tirado en estos sitios sin preocuparse por el impacto ecológico.
+Las investigaciones de los primeros vertidos serán bastante estériles. No hay pistas de nada en la zona, tal vez pisadas y ruedas de un vehículo, si el agua de los humedales no se las ha llevado. La única similitud será que cerca hay un vertedero ilegal con neveras y lavadoras oxidadas, armarios viejos, calentadores rotos, restos de obras, etc. Son basura que la gente del barrio ha tirado en estos sitios sin preocuparse por el impacto ecológico.
 
 Si empiezan a buscar otros vertederos ilegales, finalmente encontrarán los bidones tóxicos escondidos. No será fácil y les llevará varios días, ya que de noche es imposible buscar en el humedal. Esto debería crearle tensión y agobio por tener que al mismo tiempo que trabajar en el tema del estadio.
 
 Si no encuentran ellas los bidones, podrías sacar alguna compañera de clase que está ayudando en las limpiezas del humedal y ha encontrado los bidones escondidos y sabe que ellas suelen investigar estas cosas y prefiere decírselo a ellas que hablar con mayores o con la APCHUM.
 
-Con una localización de los bidones encontrada podrían vigilarla de noche a ver qué pasa. Si consiguen pasar desapercibidas podrán ver todo el proceso de vertido. No será difícil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizas hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella). Si pueden seguirles cuando abandonen el lugar en su vehículo podrán verles volver a la fundición.
+Con una localización de los bidones encontrada podrían vigilarla de noche a ver qué pasa. Si consiguen pasar desapercibidas podrán ver todo el proceso de vertido. No será difícil ver que los contaminadores usan equipo parecido al que han visto en la fundición (quizás hayan ido en una excursión escolar o algún familiar o vecino trabaje en ella). Si pueden seguirles cuando abandonen el lugar en su vehículo, podrán verles volver a la fundición.
 
 \sp
 
@@ -1525,7 +1500,7 @@ Durante esas 48 horas deberían sufrir por los menos dos intentos de secuestro/a
 * La opción más simple sería una entrada a la fuerza en el local con trajes negros y pasamontañas y una furgoneta en la puerta para secuestrar a Catalina.
 * Gente disfrazada de policía podrían intentar entrar en el local por avisos de ruidos extraños, música alta, gritos de ayuda, … No será una pelea, pero si consiguen engañar a tus cazadoras y llevarse a Catalina esposada, no la volverán a ver.
 * Si piden comida a domicilio, porque tendrán que comer en algún momento de las 48 horas, los sicarios de Nieve se podrían hacer pasar por repartidores para colarse dentro del local y atacar. Como solo puede entrar uno, sería un pequeño caballo de Troya que investiga el lugar y saca info o facilita la entrada de otros dejando alguna puerta abierta o similar. Incluso podría dejar alguna cámara espía o micrófonos.
-* Intentar algún tipo de distracción como fuegos o escapes de gas, generaría un caos tan grande que podría servir para llevarse a Catalina. No deberían perderla de vista mientras los bomberos y protección civil hacen lo suyo.
+* Intentar algún tipo de distracción, como fuegos o escapes de gas, generaría un caos tan grande que podría servir para llevarse a Catalina. No deberían perderla de vista mientras los bomberos y protección civil hacen lo suyo.
 
 El ataque nocturno tiene que ser más brutal y más cercana a una escena de peli de terror. Debería ser un ataque total contra tus cazadoras. Algunos vampiros novatos al servicio de Nieve van a atacar a saco el local donde estén. No les importará ni el ruido y los rastros que dejen. Su orden es matar a Catalina, lo que dejen detrás ya lo limpiarán otros.
 
@@ -1593,9 +1568,9 @@ La policía intentará pararla sin éxito. Las redes se llenarán con imágenes 
 
 Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas». Recuerda que incluso totalmente ida, una vampira no puede entrar en aquellos sitios donde no haya sido invitada, pero los transeúntes pueden ser víctimas de sus ataques.
 
-Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así no abandonara su forma «trash».
+Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así, no abandonara su forma «trash».
 
-Tras un para intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe qué hay en las pistolas de agua y los globos de agua, sabe quién puede ser una creyente, etc. 
+Tras un par de intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe qué hay en las pistolas de agua y los globos de agua, sabe quién puede ser una creyente, etc. 
 
 No es fácil sorprenderla y se mantendrá fuera del alcance de las pistolas, escondiéndose en las sobras y saliendo solo a atacar a cazadoras desprevenidas.
 
@@ -1607,7 +1582,7 @@ Pero si tus cazadoras la han estudiado es fácil darse cuenta de que su mente es
 
 ## You’re the Devil in Disguise
 
-> El asalto final era inminente, iba a ser el capullo vampírico del reino o nosotras. Habíamos ido acabando poco a poco con sus planes, pero si Lord Ceballos seguía vivo con el tiempo volvería montar un nuevo plan y joder nuestro barrio o el de otros. Pero igual que nosotros Lord Ceballos había reunido a todos sus aliados, así que no sería nada fácil.
+> El asalto final era inminente, iba a ser el capullo vampírico del reino o nosotras. Habíamos ido acabando poco a poco con sus planes, pero si Lord Ceballos seguía vivo con el tiempo volvería montar un nuevo plan y joder nuestro barrio o el de otros. Pero igual que nosotros, Lord Ceballos había reunido a todos sus aliados, así que no sería nada fácil.
 
 \conc
 
@@ -1615,15 +1590,15 @@ Destruido su imperio, ya solo queda ir a por el propio Lord Ceballos. Mientras n
 
 ### ¿Con qué cuenta Lord Ceballos?
 
-Como activos principales Lord Ceballos ya solo dispone de Tito y de Cova. Como secundarios, Lord Ceballos todavía cuenta con sus siervos, tanto ayudantes como guardaespaldas, y suficiente dinero para comprar equipo y algunas voluntades.
+Como activos principales, Lord Ceballos ya solo dispone de Tito y de Cova. Como secundarios, Lord Ceballos todavía cuenta con sus siervos, tanto ayudantes como guardaespaldas, y suficiente dinero para comprar equipo y algunas voluntades.
 
-> Recuerda que está ambientación es muy de barrio. Por dinero puedes meter perros entrenados, explosivos, detectores de movimientos, incluso drones militares, pero ahí debería estar el límite. Nada de láseres, robots y cacharritos de espía.
+> Recuerda que esta ambientación es muy de barrio. Por dinero puedes meter perros entrenados, explosivos, detectores de movimientos, incluso drones militares, pero ahí debería estar el límite. Nada de láseres, robots y cacharritos de espía.
 
 ### Preparando el asalto
 
 En el capítulo «Lugares» tienes una descripción del edificio de Lord Ceballos.
 
-En cuanto a los sistemas de protección y seguridad tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáneres corporales, una llamada y los tiene. 
+En cuanto a los sistemas de protección y seguridad, tiene lo último de lo último. Si necesitas drones de vigilancia, los tienes. Quieres escáneres corporales, una llamada y los tiene. 
 
 Puede conseguir lo que quieras sin problemas. Todavía le deben favores y sabe secretos de mucha gente.
 
@@ -1651,7 +1626,7 @@ Algunas asociaciones a las que pueden haber ayudado y a las que pedir ayuda:
 * **Organizaciones ecologistas** de defensa de los humedales. Los grupos ecologistas han estado en el centro de las manipulaciones del grupo Ceballos y han sufrido sus acciones. Así que casi se presentarán a las puertas de las cazadoras a la mínima que sepan que se monta algo contra el Grupo Ceballos. Tienen experiencia en la lucha contra grandes grupos empresariales y escucharles puede darte muy buenas ideas.
 * **Grupo de jubilados:** La gentrificación del barrio causada por el Grupo Ceballos ha echado a mucha gente a la calle y varios grupos de jubilados y jubiladas se han organizado contra los desalojos. No son jóvenes, pero tienen experiencia, pueden estar 24 horas en la sentada y no tienen ya mucho que perder. 
 
-En general cualquier grupo medianamente organizado ha sufrido con los tejemanejes del grupo en el barrio, así que puedes meter lo que te guste, grupo de cosplayers al que compraron su local donde hacían sus disfraces, grupos corales que perdieron su local ensayo, …
+En general, cualquier grupo medianamente organizado ha sufrido con los tejemanejes del grupo en el barrio, así que puedes meter lo que te guste, grupo de cosplayers al que compraron su local donde hacían sus disfraces, grupos corales que perdieron su local ensayo, …
 
 \sp
 
@@ -1677,7 +1652,7 @@ Déjales disfrutar del ambiente festivo de la sentada, habrá bailes, canciones,
 
 \sp
 
-En general tus cazadoras tendrán acceso en la sentada de todo tipo de habilidades y equipo, así que cualquier plan que tengan es posible llevarse a cabo. Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
+En general, tus cazadoras tendrán acceso en la sentada de todo tipo de habilidades y equipo, así que cualquier plan que tengan es posible llevarse a cabo. Los grupos más radicales están preparando cócteles molotov, tirachinas, hondas, bates de madera, así que podrán equiparse de todo ese equipo.
 
 Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, eso hará que pierda el control y tire de contactos para hacer venir a los antidisturbios y se monte la distracción que necesitan tus cazadoras. Algunas ideas son:
 
@@ -1685,13 +1660,13 @@ Algo importante para que la sentada funcione es poner furioso a Lord Ceballos, e
 * **Poner algunas pancartas con mensajes** **que mosqueen al gran vampiro.** Déjales ser creativas.
 * **Cortar su suministro de presas.** Lord Ceballos hace venir a sus presas, si le ponen difícil alimentarse se pondrá furioso. Pueden vigilar las entradas y hacer que las chicas que hace traer no puedan entrar.
 
-Si consiguen desquiciar a Lord Ceballos varias furgonetas de antidisturbios se presentarán en la sentada para dispersarla. Enseguida se formará el caos y puede hacer alguna escena de tus cazadoras enfrentándose a los antidisturbios salvando a alguna persona indefensa de sus porrazos.
+Si consiguen desquiciar a Lord Ceballos, varias furgonetas de antidisturbios se presentarán en la sentada para dispersarla. Enseguida se formará el caos y puede hacer alguna escena de tus cazadoras enfrentándose a los antidisturbios salvando a alguna persona indefensa de sus porrazos.
 
 El momento oportuno para asaltar el edificio es cuando empiecen las cargas policiales y la seguridad del edificio reciba la orden desde arriba de salir a apoyar a los antidisturbios. Así que deberán seguir presionando a Lord Ceballos mientras esquivan pelotas antidisturbios.
 
 > Cuando aparezcan los antidisturbios y vaya a empezar la gran batalla, creo que es un buen momento para dejar que alguna de tus cazadoras arengue a las tropas a lo Aragorn en las puertas de Mordor.
 
-En cuanto Lord Ceballos envíe a sus guardias para ayudar a los policías tus cazadoras tendrán vía libre para entrar en la guarida del gran vampiro.
+En cuanto Lord Ceballos envíe a sus guardias para ayudar a los policías, tus cazadoras tendrán vía libre para entrar en la guarida del gran vampiro.
 
 ### El asalto
 
@@ -1726,7 +1701,7 @@ Lord Ceballos esperará sentado en su trono a tus cazadoras con Cova y Tito, uno
 
 Cova, a diferencia de otres vampires con los que se han enfrentado, no va a confiar en sus habilidades vampíricas, tendrá un par de armas de fuego preparadas para acabar con tus cazadoras. Tus cazadoras tendrán que esquivar sus ráfagas de fuego detrás de sofás, mesas, paredes y demás y atacarla cuando recargue.
 
-Tito, el guardaespaldas es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
+Tito, el guardaespaldas, es más de cuerpo a cuerpo, pero su cerebro está en shock, ya que no se ve enfrascado en un combate de MMA con una niña. Realmente no sabe como reaccionar y va a esperar a que le ataquen a él o a Lord Ceballos.
 
 Si ves que la pelea resulta demasiado sencilla para tus cazadoras, puede hacer que Lord Ceballos entre un par de turnos a combatir, pero sin ser muy efectivo ni definitivo. En cuanto se quede solo o reciba daño considerable, huirá. Podría enfrentarse a tus cazadoras, pero ver caer a su gente le ha dejado en shock y se le ha metido el miedo en el cuerpo para ser realmente efectivo en combate. Además, así no enseña todas sus cartas y deja alguna sorpresa para la batalla final.
 
@@ -1736,7 +1711,7 @@ Si ves que la pelea resulta demasiado sencilla para tus cazadoras, puede hacer q
 
 Si las cazadoras consiguen derrotar a sus dos principales defensas, Cova y Tito, Lord Ceballos huirá por la salida secreta de la chimenea cerca de su trono. Las cazadoras escapan a su comprensión y ahora sí que está solo, como no hacía desde hace decenios. 
 
-Si decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna manera poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena. Una vez cerrada la salida secreta está se sellará por dentro y será imposible abrirla. Aunque pudieran hacerlo porque llevan un soplete o similar, para cuando hubiera cortado las placas Lord Ceballos habrá huido lejos. 
+Si decides que huya, no deberías dejar a tus cazadores más que un turno para intentar de alguna manera poder rastrearle, como colándole un «tag» en un bolsillo, o hacerle daño que no debería recuperar para la siguiente escena. Una vez cerrada la salida secreta, esta se sellará por dentro y será imposible abrirla. Aunque pudieran hacerlo porque llevan un soplete o similar, para cuando hubiera cortado las placas Lord Ceballos habrá huido lejos. 
 
 > La idea principal es que Ceballos huya y la lucha final sea en la planta de reciclaje, pero si tus cazadoras se lo montan excepcionalmente bien, pueden acabar allí mismo, en el ático, con su mayor enemigo. 
 
@@ -1831,7 +1806,7 @@ Además, podemos meter nuevos elementos que den juego a tus partidas.
 * __Tal vez hay otras clases de vampiros.__ Puede que en otras partes los vampiros sean diferentes con diferentes poderes y debilidades. Sé creativo y podrás ofrecerle a tu mesa un nuevo reto completamente original.
 * __¿Y si hay otros no-muertos?__ Si hay vampiros porque no podría haber otros no-muertos. Las posibilidades son muchas. Hablamos de momias que llevan miles de años controlando nuestro mundo, zombis inteligentes devoradores de cerebros, nigromantes que juegan con la muerte y los muertos, …
 
-Y claro tus cazadoras pueden crecer e ir al instituto. Con unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».
+Y claro, tus cazadoras pueden crecer e ir al instituto. Con unos pocos cambios y modificaciones puedes jugar aventuras en el instituto mientras resuelven los típicos problemas de series como «Física o Química».
 
 Incluso podemos avanzar más y migrar tus personajes a otros juegos como cazadoras de vampiros en __World of Darkness__ o superespías de __Agentes de la noche__.
 

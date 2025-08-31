@@ -104,7 +104,7 @@ Esta navaja con multitud de opciones te permite cortar, destornillar, cortar cab
 
 _Cuantas más opciones mejor_, pero las básicas ya son muy útiles y muy escondibles y tampoco es tan raro ver una niña con una pequeña navaja multiusos. 
 
-Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, … en general material de montaña.
+Un par de escapadas al monte con el grupo de montaña del barrio y puedes conseguir que te compren una navaja suiza. También sirve de excusa para conseguir cuerdas, ganchos y mosquetones, … en general, material de montaña.
 
 Me puse a ver todos los programas de MasterChef Junior, a ver si conseguía que me comprarán un juego de cuchillos, pero no funciono. Quizás con unos padres menos responsables puedes conseguirlo.
 

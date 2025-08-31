@@ -79,7 +79,7 @@ Son muy buenos ocultando sus mordiscos en público y la verdad que pueden parece
 
 #### Víctimas
 
-Las víctimas de un vampiro pueden ser de cualquier tipo y condición, sobre todo cuando están hambrientos, pero en general su ego les lleva a escoger a aquellas víctimas masculinas y femeninas muy guapas y fit.
+Las víctimas de un vampiro pueden ser de cualquier tipo y condición, sobre todo cuando están hambrientos, pero, en general, su ego les lleva a escoger a aquellas víctimas masculinas y femeninas muy guapas y fit.
 
 Es un rollo marichulo de «soy un alfa» y mis bros no me pueden ver con una víctima que sea menos que yo. No os podéis imaginar la de vampiro que hay adictos a los vídeos de ShitTubers como el Llados.
 
