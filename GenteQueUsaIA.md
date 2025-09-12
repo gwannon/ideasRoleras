@@ -78,6 +78,10 @@ https://thetapaderavineyard.blogspot.com/
 
 https://thetapaderavineyard.blogspot.com/2024/12/octavo-cumpleanos-de-tapadera-vineyard.html?m=1
 
+### Estruch / Medievo oscuro
+
+https://www.youtube.com/watch?v=G9K49ybqkK0&t=3420s
+
 ## Otros
 
 ### ROLEplus.app
