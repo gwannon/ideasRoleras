@@ -44,7 +44,7 @@ Squirrels are skittish and fragile creatures, so when the director decides that 
 
 Therefore, if a house cat scares your sKirrel, you won't be able to act in the next scene where they try to steal the keys of the park snack cart, but they will return for the next scene when they try to use the key to steal the pecan nuts from the cart.
 
-> While your sKirrel rests in its burrow, it eats all the seeds in its mouth. So it will have its cheek pouches when it starts the next scene.
+> While your sKirrel rests in its burrow, it eats all the seeds in its mouth. So it will have its cheek pouches empties when it starts the next scene.
 
 ### Tongue clicks, hisses and squeaks
 

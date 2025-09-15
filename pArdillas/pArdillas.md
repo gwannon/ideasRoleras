@@ -47,7 +47,7 @@ Las ardillas son criaturas asustadizas y frágiles, así que cuando le directore
 
 Es decir, si un gato casero, asusta a tu pArdilla, no podrás actuar en la siguiente escena donde tratan de robar las llaves del puesto de snacks del parque, pero volverá para la siguiente escena cuando intenten usar la llave para birlar las nueces pecanas del puesto.
 
-> Mientras tu pArdilla descansa en su madriguera se come todas las semillas que tenga en el papo. Así que tendrá sus abazones cuando empiece en la siguiente escena.
+> Mientras tu pArdilla descansa en su madriguera se come todas las semillas que tenga en el papo. Así que tendrá sus abazones vacíos cuando empiece en la siguiente escena.
 
 ### Chasquidos, silbidos y chillidos
 
