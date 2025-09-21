@@ -111,7 +111,13 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 
 XXX
 
+### Pleamar y bajamar, día y noche
+
+XXX
+
 ### Objetos mágicos
+
+XXX
 
 #### Anzuelo de Maui
 
@@ -123,7 +129,7 @@ Hilo es una semidivinidad que construyó la primera canoa. Esta figurilla, que t
 
 #### Calabaza de Maui
 
-Esta calabaza fue usada por Maui para encerrar a los vientos. Permite encerrar una tormenta o un tifón. Si la calabaza está llena, tendrá que vaciarse antes liberando la tormenta o el tifón para poder volver a meter dentro otra tormenta. Se cuenta que Maui atrapó un tifón que amenazaba su poblado y luego lo libero sobre una flota de invasores.
+Esta calabaza fue usada por _Maui_ para encerrar a los vientos. Permite encerrar una tormenta o un tifón. Si la calabaza está llena, tendrá que vaciarse antes liberando la tormenta o el tifón para poder volver a meter dentro otra tormenta. Se cuenta que _Maui_ atrapó un tifón que amenazaba su poblado y luego lo libero sobre una flota de invasores.
 
 #### Azuela de Ratʻa
 
