@@ -17,9 +17,6 @@ _Makai_ y _mauka_ son unas de las palabras más útiles que puedes aprender. Est
 ### Pono
 
 _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con todo lo que te rodea. Esta palabra engloba moralidad, rectitud, y vida ética, todo a la vez. Cuando se describe algo como _pono_, están diciendo que es correcto en todos los niveles.
-
-\sp
-
 ## Equipo
 
 XXX
@@ -76,9 +73,6 @@ XXX
 El _konane_ es una juego de mesa, muy parecido a las damas o el go. El _konane_ se juega utilizando pequeños trozos de coral blanco y lava negra sobre una gran roca tallada y o un tablón de madera que funcionaba como tablero y mesa. Se considera un juego de roedores inteligentes y las competiciones son de muy alto nivel.
 
 De normal, un _konane_ de viaje tiene tamaño 3, pero de normal los que se tienen en las casas y son de mejor calidad ocupan tamaño 5.
-
-\sp
-
 #### Herramientas de tatuaje
 
 Las herramientas de tatuaje consisten en un peine con dientes de hueso o concha de tortuga unidos a un mango de madera. Los dientes estaban empapados en tinta a base de carbón diluido en aceite o agua. El peine se golpean con un palo de madera para pinchar la piel continuamente y meter la tinta en su interior.
@@ -106,9 +100,6 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 |Objeto|Precio|
 |---|---|
 |XXX|XXX|
-
-\sp
-
 ## Magia
 
 XXX
@@ -168,9 +159,6 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 * _Tiputa_ (camiseta de hojas de palma trenzada) que te hace flotar en el agua
 * Calabaza vaciada que siempre tiene aire dentro que respirar
 * Vela dentro de cáscara de coco que revela la verdadera apariencia de un cambiaformas bajo su luz
-
-\sp
-
 ## Viajar
 
 XXX
@@ -206,9 +194,6 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
 XXX
-
-\sp
-
 ## Bestiario
 
 XXX
@@ -220,9 +205,6 @@ XXX
 ### Kupua, espíritus diabólicos y vengativos
 
 XXX
-
-\sp
-
 ## Epílogo
 
 [Terminología](https://preply.com/es/blog/palabras-hawaianas/)
