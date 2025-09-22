@@ -18,6 +18,10 @@ _Makai_ y _mauka_ son unas de las palabras más útiles que puedes aprender. Est
 
 _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con todo lo que te rodea. Esta palabra engloba moralidad, rectitud, y vida ética, todo a la vez. Cuando se describe algo como _pono_, están diciendo que es correcto en todos los niveles.
 
+\sp
+
+&nbsp;
+
 ***
 
 # Equipo
@@ -69,11 +73,11 @@ XXX
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
 
+\sp
+
 ## Objetos comunes
 
 XXX
-
-\sp
 
 ### Konane
 
@@ -108,6 +112,10 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 |Objeto|Precio|
 |---|---|
 |XXX|XXX|
+
+\sp
+
+&nbsp;
 
 ***
 
@@ -159,11 +167,11 @@ Esta azuela de carpintero, que perteneció al mítico rey Ratʻa, permite constr
 
 El dios creador Kane, salo el mal para purificarlo y la sal que le quedo la guardo en una bolsa de hojas de palmas. La bolsa nunca se queda sin sal y donde se esparce la sal no puede entrar o pasar kupuas y otros espíritus demoniacos. Tiene 3 usos diarios y cada uso permite purificar 6 casillas (30 cm). La protección dura 1 día hasta la misma marea que ahora.
 
+\sp
+
 ### Llama de Pele
 
 Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve de las montañas y prende cualquier cosa inflamable en una ronda. Si se le pone un mango de algo que no prenda como piedra o metal puede usarse como arma muy eficaz.
-
-\sp
 
 ### Objetos mágicos menores
 
@@ -172,6 +180,10 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 * _Tiputa_ (camiseta de hojas de palma trenzada) que te hace flotar en el agua
 * Calabaza vaciada que siempre tiene aire dentro que respirar
 * Vela dentro de cuenco de cáscara de coco que revela la verdadera apariencia de un cambiaformas bajo su luz
+
+\sp
+
+&nbsp;
 
 ***
 
@@ -241,4 +253,6 @@ Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas 
 
 En cumplimiento de las licencias de uso del material de este documento este es el listado de atribución de ese material.
 
-* [Terminología por Preply](https://preply.com/es/blog/palabras-hawaianas/)
+* Terminología por [Preply](https://preply.com/es/blog/palabras-hawaianas/)
+* Hand drawn zen doodle pattern illustration by [freepik](https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-illustration_65393567.htm)
+* https://www.freepik.com/free-vector/black-white-pattern-design_893508.htm

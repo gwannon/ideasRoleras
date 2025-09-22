@@ -1,38 +1,65 @@
 :root {
-  --padding: 62px; /*Ancho de los bordes de la página*/
-  --color-brown-pale: #ffb66e;
-  --color-brown: #c56229;
-  --color-brown-dark: #6c1511;
+  --padding: 70px; /*Ancho de los bordes de la página*/
+  --color-brown-pale: #6bf15f;
+  --color-brown: #24941a;
+  --color-brown-dark: #094104;
   --color-white: #fff;
   --color-black: #000;
-  --color-green: #afeaa6;
   --title-font: "Kablammo", system-ui;
   --text-font: "Open Sans", sans-serif;
 }
 
 body {
-  background: var(--color-white) url(./images/bg.jpg) repeat top left;
+  background: var(--color-white) none repeat top left;
   background-size: 100% auto;
   margin: 0;
   padding: 0;
   font-family: var(--text-font);
   color: var(--color-black);
-  font-size: 16px;
+  font-size: 18px;
 }
 
-body > * {
-  padding: 0 0 calc(var(--padding) / 3) 0;
-  margin: 0 var(--padding);
+section {
+  padding: var(--padding) var(--padding) 0 var(--padding);
+  margin: 0;
 }
 
-body > *:first-child,
+body > section:nth-child(3) {
+  background: var(--color-white) url(./images/bg-mundo.jpg) repeat top left;
+  background-size: 100% auto;
+}
+
+body > section:nth-child(4) {
+  background: var(--color-white) url(./images/bg-equipo.jpg) repeat top left;
+  background-size: 100% auto;
+}
+
+body > section:nth-child(5) {
+  background: var(--color-white) url(./images/bg-magia.jpg) repeat top left;
+  background-size: 100% auto;
+}
+
+body > section:nth-child(6) {
+  background: var(--color-white) url(./images/bg-viaje.jpg) repeat bottom left;
+  background-size: 100% auto;
+  --color-brown-pale: #3696f0;
+  --color-brown: #411ec0;
+  --color-brown-dark: #1c0961;
+}
+
+body > section:nth-child(7) {
+  background: var(--color-white) url(./images/bg-bestiario.jpg) repeat top left;
+  background-size: 100% auto;
+}
+
+body > section:nth-child(8) {
+  background: var(--color-white) url(./images/bg-epilogo.jpg) repeat top left;
+  background-size: 100% auto;
+}
+
 .saltopagina + * {
   margin-top: var(--padding);
   padding-top: 0;
-}
-
-.saltopagina + h1 {
-  padding-top: 20px;
 }
 
 .columns {
@@ -118,10 +145,6 @@ h1 > a {
     2px 0px 0px var(--color-black),
     0px -2px 0px var(--color-black), 
     0px 2px 0px var(--color-black);
-}
-
-#SuplementoSurcarMares h1 {
-  font-size: 3em;
 }
 
 h2,
@@ -297,13 +320,12 @@ hr {
 
   section {
     max-width: 700px;
-    margin: auto;
   }
 }
 
-section > .columns:first-of-type  {
+/*section > .columns:first-of-type  {
   margin-top: var(--padding);
-}
+}*/
 
 .pdf {
   position: fixed;
@@ -380,7 +402,7 @@ body {
   height: var(--size);
   z-index: 10;
   opacity: 1;
-  font-size: 1.5em;
+  font-size: 1.2em;
   padding: 5px 5px 7px;
   color: var(--color-brown-pale);
   background-color: var(--color-brown-dark);

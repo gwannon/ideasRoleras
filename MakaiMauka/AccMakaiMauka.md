@@ -70,10 +70,10 @@ XXX
 ### Kava
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
-
 ## Objetos comunes
 
 XXX
+
 ### Konane
 
 El _konane_ es una juego de mesa, muy parecido a las damas o el go. El _konane_ se juega utilizando pequeños trozos de coral blanco y lava negra sobre una gran roca tallada y o un tablón de madera que funcionaba como tablero y mesa. Se considera un juego de roedores inteligentes y las competiciones son de muy alto nivel.
@@ -157,10 +157,10 @@ Esta azuela de carpintero, que perteneció al mítico rey Ratʻa, permite constr
 ### Sal de Kane
 
 El dios creador Kane, salo el mal para purificarlo y la sal que le quedo la guardo en una bolsa de hojas de palmas. La bolsa nunca se queda sin sal y donde se esparce la sal no puede entrar o pasar kupuas y otros espíritus demoniacos. Tiene 3 usos diarios y cada uso permite purificar 6 casillas (30 cm). La protección dura 1 día hasta la misma marea que ahora.
-
 ### Llama de Pele
 
 Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve de las montañas y prende cualquier cosa inflamable en una ronda. Si se le pone un mango de algo que no prenda como piedra o metal puede usarse como arma muy eficaz.
+
 ### Objetos mágicos menores
 
 * Hacha de piedra que te permite corta madera sin cansarte
@@ -237,4 +237,6 @@ Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas 
 
 En cumplimiento de las licencias de uso del material de este documento este es el listado de atribución de ese material.
 
-* [Terminología por Preply](https://preply.com/es/blog/palabras-hawaianas/)
+* Terminología por [Preply](https://preply.com/es/blog/palabras-hawaianas/)
+* Hand drawn zen doodle pattern illustration by [freepik](https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-illustration_65393567.htm)
+* https://www.freepik.com/free-vector/black-white-pattern-design_893508.htm
