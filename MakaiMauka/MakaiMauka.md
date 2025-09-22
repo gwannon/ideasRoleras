@@ -249,7 +249,7 @@ XXX
 
 «Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:
 
-__Este trabajo está basado en la ambientación para Savage Worlds ¡Arrr! Cthulhu creada por Jorge Monclús y está disponible de forma gratuita en [https://ryuutama.gwannon.com](https://ryuutama.gwannon.com) y el código original puede obtenerse en [https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka). Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en [https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia) de Creative Commons__
+__Este trabajo está basado en la ambientación para el juego de rol Ryuutama «Makai Mauka» creada por Jorge Monclús y está disponible de forma gratuita en [https://ryuutama.gwannon.com](https://ryuutama.gwannon.com) y el código original puede obtenerse en [https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka). Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en [https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia) de Creative Commons__
 
 Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
 
