@@ -37,16 +37,25 @@ body > section:nth-child(1) {
 body > section:nth-child(3) {
   background: var(--color-white) url(./images/bg-mundo.jpg) repeat top left;
   background-size: 100% auto;
+  --color-brown-pale: #4af9fc;
+  --color-brown: #0fa4a7;
+  --color-brown-dark: #127779;
 }
 
 body > section:nth-child(4) {
   background: var(--color-white) url(./images/bg-equipo.jpg) repeat top left;
   background-size: 100% auto;
+  --color-brown-pale: #f34646;
+  --color-brown: #c92828;
+  --color-brown-dark: #8b0c0c;
 }
 
 body > section:nth-child(5) {
   background: var(--color-white) url(./images/bg-magia.jpg) repeat top left;
   background-size: 100% auto;
+  --color-brown-pale: #70dd41;
+  --color-brown: #4abb1a;
+  --color-brown-dark: #277307;
 }
 
 body > section:nth-child(6) {
@@ -60,11 +69,32 @@ body > section:nth-child(6) {
 body > section:nth-child(7) {
   background: var(--color-white) url(./images/bg-bestiario.jpg) repeat top left;
   background-size: 100% auto;
+  --color-brown-pale: #fcf942;
+  --color-brown: #dbd813;
+  --color-brown-dark: #adaa03;
 }
 
 body > section:nth-child(8) {
   background: var(--color-white) url(./images/bg-epilogo.jpg) repeat top left;
   background-size: 100% auto;
+  --color-brown-pale: #df8df3;
+  --color-brown: #e01fe0;
+  --color-brown-dark: #c91bbd;
+}
+
+body > section:nth-child(9) {
+  min-height: calc(100vh - var(--padding));
+  background: var(--color-white) url(./images/dbyrznp-1a413623-1468-4f62-aca8-d8988754111e.jpg) repeat top right;
+  background-size: auto 100%;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: center;
+}
+
+body > section:nth-child(9) *:is(p, li){
+  color: white;
+  font-size: 1.2em;
 }
 
 .saltopagina + * {
@@ -140,8 +170,10 @@ h1 {
 }
 
 body > section:nth-child(1) h1 {
-  margin-top: 600px;
+  margin: 600px auto 30px;
   color: #b41e28;
+  max-width: 300px;
+  line-height: 120%;
 }
 
 body > section:nth-child(1) h1 + p {
@@ -425,7 +457,7 @@ body {
 }
 
 section:nth-child(1) .saltopagina:after {
-  display: none;
+  visibility: hidden;
 }
 
 /* Recursos */

@@ -2,6 +2,10 @@
 
 XXX
 
+## Las ballenas
+
+XXX
+
 ## Términos
 
 XXX
@@ -69,11 +73,11 @@ Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se
 
 XXX
 
+\sp
+
 ### Kava
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
-
-\sp
 
 ## Objetos comunes
 
@@ -107,15 +111,13 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
 
+\sp
+
 ## Tabla de precios
 
 |Objeto|Precio|
 |---|---|
 |XXX|XXX|
-
-\sp
-
-&nbsp;
 
 ***
 
@@ -245,7 +247,11 @@ XXX
 
 ## Licencia
 
-«Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
+«Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:
+
+__Este trabajo está basado en la ambientación para Savage Worlds ¡Arrr! Cthulhu creada por Jorge Monclús y está disponible de forma gratuita en [https://ryuutama.gwannon.com](https://ryuutama.gwannon.com) y el código original puede obtenerse en [https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka). Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en [https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia) de Creative Commons__
+
+Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
 
 Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas que ha establecido el autor en su [página web](https://kotohi.com/ryuutama/licensing/).
 
@@ -258,7 +264,23 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Black and white pattern design by [0melapics](https://www.freepik.com/free-vector/black-white-pattern-design_893508.htm)
 * Flat design lattice pattern by [freepik](https://www.freepik.com/free-vector/flat-design-lattice-pattern_31085871.htm)
 * Flat design lattice pattern by [freepik](https://www.freepik.com/free-vector/flat-design-lattice-pattern_31085878.htm)
-* https://www.freepik.com/free-vector/prehistoric-planet-landscape-set-with-volcano_32230538.htm
-* https://www.deviantart.com/raphtor/art/Fairy-shark-790661741
-* https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-design_69124915.htm
-* https://www.freepik.com/free-vector/flat-design-maori-tattoo-pattern-design_28492105.htm
+* Fairy shark By [RAPHTOR](https://www.deviantart.com/raphtor/art/Fairy-shark-790661741)
+* Hand drawn zen doodle pattern design by [freepik](https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-design_69124915.htm)
+* Flat design maori tattoo pattern design by [freepik](https://www.freepik.com/free-vector/flat-design-maori-tattoo-pattern-design_28492105.htm)
+* Monument By [Bear1037](https://www.deviantart.com/bear1037/art/Monument-723540805)
+
+***
+
+\sinc
+
+## Makai Mauka 
+
+«Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.
+
+Este suplemento contiene:
+
+1. XXX
+2. XXX
+3. XXX
+
+\conc
