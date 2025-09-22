@@ -15,14 +15,15 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
 }, $md);
 
 
-file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", "# Makai y mauka\n\n".$md));
 
 $mkd->setContent($md);
 
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
 $html = str_replace("|ID|", $argv[1], $html); 
-$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section><div class='columns'>", $html); 
-$html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
+$html = str_replace("<hr />", "</div>\n<div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
+$html = str_replace("</h1>", "</h1>\n<div class=\"saltopagina\"></div>\n<div class='columns'>", $html); 
+$html = str_replace("<p>\sp</p>", "</div>\n<div class=\"saltopagina\"></div>\n<div class='columns'>", $html);
 $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
 $html = str_replace("<p>\sinc</p>", "</div>", $html);
 $html = str_replace("<p>\conc</p>", "<div class=\"columns\">", $html);
@@ -50,9 +51,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
 $metas = "InfoKey: Title\n";
-$metas .= "InfoValue: MakaiMauka 0.1\n\n";
+$metas .= "InfoValue: Makai Mauka 0.1\n\n";
 $metas .= "InfoKey: Subject\n";
-$metas .= "InfoValue: MakaiMauka es mini-ambientacion para Ryuutama en un mundo muy parecido a los mitos polinesios.\n\n";
+$metas .= "InfoValue: «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.\n\n";
 $metas .= "InfoKey: Author\n";
 $metas .= "InfoValue: Gwannon\n\n";
 $metas .= "InfoKey: Keywords\n";

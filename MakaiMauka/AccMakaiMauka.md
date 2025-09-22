@@ -1,5 +1,7 @@
 # Makai y mauka
 
+«Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.
+
 XXX
 
 ## Términos
@@ -142,7 +144,7 @@ Este anzuelo tallado de un hueso, atrapa cualquier cosa que esté en el fondo de
 
 ### Figura de la canoa de Hilo
 
-Hilo es una semidivinidad que construyó la primera canoa. Esta figurilla, que te cabe en la mano (tamaño 1), se convierte es una canoa con remos cuando se echa al agua y vuelve a su tamaño original cuando se saca del agua.
+_Hilo_ es una semidivinidad que construyó la primera canoa. Esta figurilla, que te cabe en la mano (tamaño 1), se convierte es una canoa con remos cuando se echa al agua y vuelve a su tamaño original cuando se saca del agua.
 
 ### Calabaza de Maui
 
@@ -165,7 +167,7 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 * Trozo de lava que no se enfría. Sirve como calefactor o para calentar líquidos
 * _Tiputa_ (camiseta de hojas de palma trenzada) que te hace flotar en el agua
 * Calabaza vaciada que siempre tiene aire dentro que respirar
-* Vela dentro de cáscara de coco que revela la verdadera apariencia de un cambiaformas bajo su luz
+* Vela dentro de cuenco de cáscara de coco que revela la verdadera apariencia de un cambiaformas bajo su luz
 
 ***
 
@@ -223,4 +225,16 @@ XXX
 
 # Epílogo
 
-[Terminología](https://preply.com/es/blog/palabras-hawaianas/)
+XXX
+
+## Licencia
+
+«MakaiMauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
+
+Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas que ha establecido el autor en su [página web](https://kotohi.com/ryuutama/licensing/).
+
+## Atribución de contenidos
+
+En cumplimiento de las licencias de uso del material de este documento este es el listado de atribución de ese material.
+
+* [Terminología por Preply](https://preply.com/es/blog/palabras-hawaianas/)

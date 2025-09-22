@@ -93,44 +93,17 @@ blockquote a {
 /* Titulares */
 
 h1 {
-  background-color: var(--color-brown-dark);
   font-family: var(--title-font);
   color: var(--color-brown);
   font-size: 5em;
-  position: relative;
   letter-spacing: 2px;
-  padding: 20px;
-  margin: 0 0 20px 0;
   text-align: center;
   font-weight: 400;
   text-shadow: -2px 0px 0px var(--color-brown-dark), 
     2px 0px 0px var(--color-brown-dark),
     0px -2px 0px var(--color-brown-dark), 
     0px 2px 0px var(--color-brown-dark);
-  border-top-right-radius: 50%;
-  border-top-left-radius: 35%;
-  border-bottom-right-radius: 50%;
-  border-bottom-left-radius: 35%;
-  clip-path: polygon(1% 7%, 15% 0%, 20% 4%, 50% 0%, 97% 0%, 100% 11%, 100% 97%, 97% 100%, 50% 95%, 45% 97%, 2% 100%, 0% 94%,2% 50%);
-}
-
-h1:before {
-  content: "";
-  position: absolute;
-  top: 5px;
-  left: 5px;
-  display: block;
-  width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  background: var(--color-brown-dark) url(./images/6654537.jpg) center center no-repeat;
-  background-size: cover;
-  border-top-right-radius: 50%;
-  border-top-left-radius: 35%;
-  border-bottom-right-radius: 50%;
-  border-bottom-left-radius: 35%;
-  clip-path: polygon(1% 7%, 15% 0%, 20% 4%, 50% 0%, 97% 0%, 100% 11%, 100% 97%, 97% 100%, 50% 95%, 45% 97%, 2% 100%, 0% 94%,2% 50%);
-  z-index: -1;
-}
+  }
 
 h1 > a {
   display: block;
@@ -301,6 +274,8 @@ hr {
   width: calc(100% - 7px);
 }
 
+
+
 @media screen {
   body {
     background-size: 200%;
@@ -324,6 +299,10 @@ hr {
     max-width: 700px;
     margin: auto;
   }
+}
+
+section > .columns:first-of-type  {
+  margin-top: var(--padding);
 }
 
 .pdf {
