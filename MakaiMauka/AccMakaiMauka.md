@@ -8,7 +8,7 @@ XXX
 
 XXX
 
-### Huaka
+### Hauka
 
 _Hauka_ se refiere tanto a la persona como al grupo que está realizando un viaje. XXX
 
@@ -30,7 +30,7 @@ Un punto importante del equipo es que el metal no es desconocido para las gentes
 
 ## Armas
 
-Tus _hauku_ disponen de una gran variedad de lanzas de todos los tamaños (pequeñas, medidas y pesadas) y tanto de cuerpo a cuerpo como a distancia.
+Tus _hauka_ disponen de una gran variedad de lanzas de todos los tamaños (pequeñas, medidas y pesadas) y tanto de cuerpo a cuerpo como a distancia.
 
 Las armas, sobre todo las grandes de madera, están profusamente decoradas con motivos geométricos y marítimos, convirtiéndolas muchas veces en auténticas obras de arte. También es normal que tengan elementos decorativos como, penachos de plumas u hojas trenzadas de vivos colores.
 
@@ -152,11 +152,11 @@ Esta calabaza fue usada por _Maui_ para encerrar a los vientos. Permite encerrar
 
 ### Azuela de Ratʻa
 
-Esta azuela de carpintero, que perteneció al mítico rey Ratʻa, permite construir estructuras de 1 casilla(5 cm) por turno de trabajo y siempre que haya madera cerca. Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, tienes la condición «cansado».
+Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 1 casilla(5 cm) por turno de trabajo y siempre que haya madera cerca. Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, tienes la condición «cansado».
 
 ### Sal de Kane
 
-El dios creador Kane, salo el mal para purificarlo y la sal que le quedo la guardo en una bolsa de hojas de palmas. La bolsa nunca se queda sin sal y donde se esparce la sal no puede entrar o pasar kupuas y otros espíritus demoniacos. Tiene 3 usos diarios y cada uso permite purificar 6 casillas (30 cm). La protección dura 1 día hasta la misma marea que ahora.
+El dios creador _Kane_, salo el mal para purificarlo y la sal que le quedo la guardo en una bolsa de hojas de palmas. La bolsa nunca se queda sin sal y donde se esparce la sal no puede entrar o pasar kupuas y otros espíritus demoniacos. La protección dura 1 día hasta la misma marea que ahora.
 ### Llama de Pele
 
 Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve de las montañas y prende cualquier cosa inflamable en una ronda. Si se le pone un mango de algo que no prenda como piedra o metal puede usarse como arma muy eficaz.
@@ -229,7 +229,7 @@ XXX
 
 ## Licencia
 
-«MakaiMauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
+«Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
 
 Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas que ha establecido el autor en su [página web](https://kotohi.com/ryuutama/licensing/).
 
@@ -239,4 +239,10 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 
 * Terminología por [Preply](https://preply.com/es/blog/palabras-hawaianas/)
 * Hand drawn zen doodle pattern illustration by [freepik](https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-illustration_65393567.htm)
-* https://www.freepik.com/free-vector/black-white-pattern-design_893508.htm
+* Black and white pattern design by [0melapics](https://www.freepik.com/free-vector/black-white-pattern-design_893508.htm)
+* Flat design lattice pattern by [freepik](https://www.freepik.com/free-vector/flat-design-lattice-pattern_31085871.htm)
+* Flat design lattice pattern by [freepik](https://www.freepik.com/free-vector/flat-design-lattice-pattern_31085878.htm)
+* https://www.freepik.com/free-vector/prehistoric-planet-landscape-set-with-volcano_32230538.htm
+* https://www.deviantart.com/raphtor/art/Fairy-shark-790661741
+* https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-design_69124915.htm
+* https://www.freepik.com/free-vector/flat-design-maori-tattoo-pattern-design_28492105.htm

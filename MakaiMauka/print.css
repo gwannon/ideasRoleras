@@ -24,6 +24,16 @@ section {
   margin: 0;
 }
 
+/*body > section:nth-child(1) {
+  background: #e7d3b6 url(./images/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb.jpg) no-repeat top left;
+  background-size: 100% auto;
+}*/
+
+body > section:nth-child(1) {
+  background: #e7d3b6 url(./images/fairy_shark_by_raphtor_dd2qmi5-fullview.jpg) no-repeat top left;
+  background-size: 100% auto;
+}
+
 body > section:nth-child(3) {
   background: var(--color-white) url(./images/bg-mundo.jpg) repeat top left;
   background-size: 100% auto;
@@ -126,25 +136,24 @@ h1 {
   letter-spacing: 2px;
   text-align: center;
   font-weight: 400;
-  text-shadow: -2px 0px 0px var(--color-brown-dark), 
-    2px 0px 0px var(--color-brown-dark),
-    0px -2px 0px var(--color-brown-dark), 
-    0px 2px 0px var(--color-brown-dark);
-  }
+  text-shadow: -2px 0px 0px #b1c8dc, 2px 0px 0px #071a4e, 0px -2px 0px #071a4e, 0px 2px 0px #071a4e;
+}
 
-h1 > a {
-  display: block;
+body > section:nth-child(1) h1 {
+  margin-top: 600px;
+  color: #b41e28;
+}
+
+body > section:nth-child(1) h1 + p {
+  font-weight: 700;
   text-align: center;
-  font-size: 0.3em;
-  width: 100%;
-  color: var(--color-brown-pale);
-  font-family: var(--title-font);
-  font-weight: 400;
-  text-decoration: none;
-  text-shadow: -2px 0px 0px var(--color-black), 
+  font-size: 1.7em;
+  line-height: 120%;
+  text-shadow:-2px 0px 0px var(--color-black), 
     2px 0px 0px var(--color-black),
     0px -2px 0px var(--color-black), 
     0px 2px 0px var(--color-black);
+      color: #b41e28;
 }
 
 h2,
@@ -413,6 +422,10 @@ body {
 .saltopagina.even:after {
   right: auto;
   left: -40px;
+}
+
+section:nth-child(1) .saltopagina:after {
+  display: none;
 }
 
 /* Recursos */

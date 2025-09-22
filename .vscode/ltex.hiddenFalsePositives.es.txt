@@ -179,3 +179,4 @@
 {"rule":"FORM","sentence":"^\\QRealmente la mejor prueba, sería sacar su forma «trash».\\E$"}
 {"rule":"FORM","sentence":"^\\QSeguramente todo será muy rápido a partir de este punto, sobre todo si está Néstor, y estas son las cosas que pueden conseguir de forma rápida.\\E$"}
 {"rule":"FIGURE","sentence":"^\\QFigura de la canoa de Hilo\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/MakaiMauka\\E$"}
