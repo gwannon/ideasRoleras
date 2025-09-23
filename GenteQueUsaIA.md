@@ -92,9 +92,17 @@ https://www.youtube.com/watch?v=G9K49ybqkK0&t=3420s
 
 Lo único bueno que puedo decir de la revista [Sinergia magazine](http://www.sinergiaderol.com/revistasfanzines/sinergiamagazine.html) es que por lo menos no lo esconden, lo dejan claro en sus primeras páginas.
 
+## Asociación Pórtico
+
+Le dio el premio a mejor web 2025 a una página que claramente usaba IA.
+
+https://elyunquedehefesto.com/
+
 ## Declaraciones varias a favor de la IA
 
 https://www.youtube.com/watch?v=66da-tSKK0s
+
+
 
 
 ---
