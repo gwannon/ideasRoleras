@@ -229,14 +229,13 @@ XXX
 # Epílogo
 
 XXX
-
 ## Licencia
 
 «Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:
 
-__Este trabajo está basado en la ambientación para Savage Worlds ¡Arrr! Cthulhu creada por Jorge Monclús y está disponible de forma gratuita en [https://ryuutama.gwannon.com](https://ryuutama.gwannon.com) y el código original puede obtenerse en [https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka). Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en [https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia) de Creative Commons__
+ > _Este trabajo está basado en la ambientación para el juego de rol Ryuutama «Makai Mauka» creada por Jorge Monclús y está disponible de forma gratuita en [https://ryuutama.gwannon.com](https://ryuutama.gwannon.com) y el código original puede obtenerse en [https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka). Está licenciada para nuestro uso bajo una licencia Creative Commons Atribución 4.0 Internacional cuyo texto legal puede verse en [https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia](https://creativecommons.org/licenses/by/4.0/legalcode.es.Licencia) de Creative Commons_
 
-Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/MakaiMauka](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
+Todo el código fuente puedes encontrarlo en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/MakaiMauka)
 
 Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas que ha establecido el autor en su [página web](https://kotohi.com/ryuutama/licensing/).
 
@@ -252,10 +251,17 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Fairy shark By [RAPHTOR](https://www.deviantart.com/raphtor/art/Fairy-shark-790661741)
 * Hand drawn zen doodle pattern design by [freepik](https://www.freepik.com/free-vector/hand-drawn-zen-doodle-pattern-design_69124915.htm)
 * Flat design maori tattoo pattern design by [freepik](https://www.freepik.com/free-vector/flat-design-maori-tattoo-pattern-design_28492105.htm)
-* Monument By [Bear1037](https://www.deviantart.com/bear1037/art/Monument-723540805)
+* Jungle Swamp By [Bear1037](https://www.deviantart.com/bear1037/art/Jungle-Swamp-482759290)
+* Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
+
+## Agradecimientos
+
+Quiero dar agradecimiento a:
+
+* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus cosnejos de diseño en la portada.
 
 ***
-## Makai Mauka 
+Makai Mauka 
 
 «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.
 
