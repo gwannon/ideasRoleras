@@ -61,10 +61,12 @@ body > section:nth-child(6) {
   --color-brown-dark: #1c0961;
 }
 
+body > section:nth-child(5) h1,
 body > section:nth-child(6) h1 {
   position: relative;
 }
 
+body > section:nth-child(5) h1:after,
 body > section:nth-child(6) h1:after {
   position: absolute;
   content: "";
@@ -75,6 +77,12 @@ body > section:nth-child(6) h1:after {
   background: transparent url(./images/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb.jpg) center center no-repeat;
   background-size: cover;
 }
+
+body > section:nth-child(5) h1:after {
+  background-image: url(images/tikiwhakapakoko-626d5d.jpg);
+  background-size: contain;
+}
+
 
 body > section:nth-child(7) {
   background: var(--color-white) url(./images/bg-bestiario.jpg) repeat top left;

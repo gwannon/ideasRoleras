@@ -49,15 +49,18 @@ XXX
 ### Armas de Asta
 
 **_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
-**Horca:** Este utensilio perfecto para la pesca de pequeños peces y crustáceos puede usarse como una eficaz arma de combate.
+
+**Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
 
 ### Hachas
 
 **_Leiomano_:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños dientes de tiburón insertados.
 
-#### Arcos
+### Arcos y ondas
 
-Como dato importante diremos que son diestros con la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
+XXX
+
+Como dato importante diremos que la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
 
 ## Armaduras
 
@@ -253,12 +256,13 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Flat design maori tattoo pattern design by [freepik](https://www.freepik.com/free-vector/flat-design-maori-tattoo-pattern-design_28492105.htm)
 * Jungle Swamp By [Bear1037](https://www.deviantart.com/bear1037/art/Jungle-Swamp-482759290)
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
+* Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 
 ## Agradecimientos
 
 Quiero dar agradecimiento a:
 
-* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus cosnejos de diseño en la portada.
+* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
 
 ***
 Makai Mauka 
@@ -267,7 +271,7 @@ Makai Mauka
 
 Este suplemento contiene:
 
-1. XXX
-2. XXX
-3. XXX
+1. Una ambientación completa 
+2. Nuevas profesiones, hechizos, equipo y terrenos adaptados a los mitos polinesios
+3. Una aventura introductoria a la ambientación 
 
