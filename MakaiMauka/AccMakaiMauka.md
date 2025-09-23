@@ -44,7 +44,7 @@ XXX
 
 ### Hojas
 
-**Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asiarlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
+**Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asirlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
 
 ### Armas de Asta
 
@@ -124,19 +124,19 @@ XXX
 
 XXX
 
-### Bajamar diurna (Primavera)
+### Bajamar diurna (primavera)
 
 XXX
 
-### Pleamar diurna (Verano)
+### Pleamar diurna (verano)
 
 XXX
 
-### Bajamar nocturna (Otoño)
+### Bajamar nocturna (otoño)
 
 XXX
 
-### Pleamar nocturna (Invierno)
+### Pleamar nocturna (invierno)
 
 XXX
 
