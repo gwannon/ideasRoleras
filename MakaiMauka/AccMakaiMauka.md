@@ -30,7 +30,13 @@ _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con
 
 XXX
 
-Un punto importante del equipo es que el metal no es desconocido para las gentes de las islas, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera.
+## Materiales
+
+Un punto importante del equipo es que el metal es conocido por las gentes de las islas, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera. 
+
+Esto supone que el equipo típico de metal, como una cantimplora, tendrá su contrapartida en madera y productos naturales, por ejemplo, una calabaza vaciada, secada y pulida con un corcho puede ser un perfecto recipiente para el agua.  
+
+XXX
 
 ## Armas
 
@@ -69,10 +75,10 @@ XXX
 ### Protecciones de palma trenzada
 
 Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles
-
 ## Plantas medicinales
 
 XXX
+
 ### Kava
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
@@ -104,16 +110,25 @@ Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de f
 Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 _hauka_, dos remando más un tercer pasajero.
 
 Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, animales, geométricos o mitológicos. Es el medio de transporte principal y sirve tanto en el mar como en los ríos.
-
 ### Tabla de surf
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
-## Tabla de precios
+
+## Tabla de precios especiales
 
 |Objeto|Precio|
 |---|---|
-|XXX|XXX|
-
+|Remo|XXX|
+|Tao|XXX|
+|Horca|XXX|
+|Leiomano|XXX|
+|Protecciones de palma trenzada|XXX|
+|Kava|XXX|
+|Konane|XXX|
+|Herramientas de tatuaje|XXX|
+|Tambor de calabaza Ipu|XXX|
+|Canoa|XXX|
+|Tabla de surf|XXX|
 ***
 
 # Magia
