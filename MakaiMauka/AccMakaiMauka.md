@@ -198,7 +198,7 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 
 XXX
 
-## Moverse por tierra
+## Terrenos
 
 XXX
 
@@ -232,7 +232,7 @@ XXX
 |---|---|
 |XXX|XXX|
 
-## Moverse por agua
+## Masas de agua
 
 XXX
 
@@ -251,6 +251,12 @@ XXX
 ### Mar abierto
 
 XXX
+
+### Tabla de masas de agua
+
+|Masa de agua|Dificultad|
+|---|---|
+|XXX|XXX|
 
 ## Clima
 
@@ -274,11 +280,11 @@ XXX
 
 XXX
 
-***
+## Taniwha, XXX
+
+XXX***
 
 # Epílogo
-
-XXX
 ## Licencia
 
 «Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:
