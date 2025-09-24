@@ -467,7 +467,7 @@ body {
   }
 
   body:before {
-    display: none;
+    visibility: hidden;
   }
 
   table.special {
