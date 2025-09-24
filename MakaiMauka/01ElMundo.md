@@ -4,7 +4,19 @@
 
 XXX
 
+## Hua Tarakona
+
+XXX
+
 ## Las ballenas
+
+[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
+
+XXX
+
+## Razones para viajar
+
+En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
 XXX
 

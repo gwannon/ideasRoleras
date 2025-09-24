@@ -92,6 +92,16 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
 
+### Catamarán
+
+Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
+
+Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
+
+Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
+
+De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
+
 ## Tabla de precios especiales
 
 |Objeto|Precio|
@@ -107,5 +117,4 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 |Tambor de calabaza Ipu|XXX|
 |Canoa|XXX|
 |Tabla de surf|XXX|
-
-\sc
+|Catamarán|XXX|

@@ -22,6 +22,12 @@
 
 \sinc
 
+## Planteamiento de las aventuras
+
+Las aventuras en el mundo de _Hua Tarakona_ puedes plantearlo de maneras diferentes. Por un lado como un mundo independiente en el que tus _hauka_ corren aventuras en ellas.
+
+Pero quizas ya tengas tu propio mundo con sus propias reglas y con tu grupo de personajes ya creados. En ese caso puede plantearlo como una parte de tu mundo, las lejanas islas al otro lado del mar. Tus personajes serán unos bárbaros extranjeros cubiertos de metal que no saben nadar ni guiarse por las estrellas.
+
 ## Licencia
 
 «Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:
@@ -35,6 +41,21 @@ Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas 
 &nbsp;
 
 \conc
+
+## Inspiración
+
+Muchos de los elementos de esta ambientación están basados en un proyecto anterior que desarrolle para [MausRitter](https://losing-games.itch.io/mausritter).
+
+Así que si te ha gustado este «setting» para Ryuutama, quizás debieras darle un vistazo a [MausTiki](https://maustiki.gwannon.com/), para llevar tus aventuras ratoniles a las islas del Pacífico.
+
+## Agradecimientos
+
+Quiero dar agradecimiento a:
+
+* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
+* [@dangordillo.itch.io](https://bsky.app/profile/dangordillo.itch.io) por sus ideas para nombres del mundo.
+
+\sp
 
 ## Atribución de contenidos
 
@@ -51,18 +72,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Jungle Swamp By [Bear1037](https://www.deviantart.com/bear1037/art/Jungle-Swamp-482759290)
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
-
-## Agradecimientos
-
-Quiero dar agradecimiento a:
-
-* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
-
-\sp
-
-## Inspiración
-
-Muchos de los elementos de esta ambientación están basados en un proyecto anterior que desarrolle para [MausRitter](https://losing-games.itch.io/mausritter. Así que si te ha gustado este setting para Ryuutama, quizás debieras darle un vistazo a [MausTiki](https://maustiki.gwannon.com/), para llevar tus aventuras ratoniles a las islas del Pacífico.
+* Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
 
 \sp
 

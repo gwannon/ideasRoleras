@@ -6,7 +6,19 @@
 
 XXX
 
+## Hua Tarakona
+
+XXX
+
 ## Las ballenas
+
+[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
+
+XXX
+
+## Razones para viajar
+
+En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
 XXX
 
@@ -116,6 +128,16 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
 
+### Catamarán
+
+Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
+
+Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
+
+Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
+
+De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
+
 ## Tabla de precios especiales
 
 |Objeto|Precio|
@@ -131,6 +153,8 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 |Tambor de calabaza Ipu|XXX|
 |Canoa|XXX|
 |Tabla de surf|XXX|
+|Catamarán|XXX|
+
 ***
 
 # Magia
@@ -198,6 +222,33 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 
 XXX
 
+## Animales acompañantes
+
+Debido a que _Hua Tarakona_ es un archipiélago, el mar es un elemento muy importante que marca muchos aspectos de los viajes. En el caso de los animales acompañantes debemos dividirlos en animales terrestres y acuáticos a la hora de establecer.
+
+### Terrestres
+
+No existen grandes animales herbívoros que sirvan de carga o de monta como caballos, burros o alpacas. Pero si hay grandes cerdos salvajes domesticados a los que pueden ponerse alforjas para transportar equipo y mercancías. 
+
+XXX
+
+Reglas para los animales en entornos márinos
+
+* Los __animales terrestres gastan 1 de comida y agua al día en terrenos acuáticos__ como lo hacen en Desiertos o Alta Montaña.
+* Saben nadar, pero no pueden hacerlo durante mucho tiempo, quizas lo suficiente para atravesar un río llegar desde la playa a un islote cercano. Por ello, como tus _hauka_, solo podrán __viajar por mar en embarcaciones__.
+
+### Acuáticos
+
+Dentro de los animales acuáticos que pueden acompañarte tenemos:
+
+* Tortugas marinas. 
+* Delfines.
+* XXX
+
+Estos animales no pueden ser montados, pero pueden tirar de una embarcación como canoas y catamaranes.
+
+XXX
+
 ## Terrenos
 
 XXX
@@ -243,7 +294,6 @@ XXX
 ### Rio navegable
 
 XXX
-
 ### Arrecifes
 
 XXX
@@ -272,19 +322,65 @@ XXX
 
 XXX
 
-## Moʻo, espíritu acuático cambiaforma
-
-XXX
-
 ## Kupua, espíritus diabólicos y vengativos
 
 XXX
 
-## Taniwha, XXX
+* **Nivel:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
+* **Terreno habitual:** XXX
+* **Estación:** XX
 
-XXX***
+## Moʻo, espíritu acuático cambiaforma
+
+Las _moʻos_ suelen adoptar la forma de reptiles monstruosos, de humanos y hasta de pequeños gecos. Por eso se les considera a veces como kupuas, pero son veneradas como _aumakuas_ (espíritus familiares). Suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos.
+
+Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisaje, lo cual explica las extrañas formas que pueden tomar las piedras.
+
+Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus _hauka_ tengan que buscar una _moʻo_ con habilidades especiales que les ayude.
+
+* **Nivel:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Habilidad excepcional:** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
+* **Terreno habitual:** XXX
+* **Estación:** XXX
+* **Botín:** XXX
+
+## Taniwha, dragón protector
+
+XXX
+
+* **Nivel:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
+* **Terreno habitual:** XXX
+* **Estación:** XX
+
+***
 
 # Epílogo
+## Planteamiento de las aventuras
+
+Las aventuras en el mundo de _Hua Tarakona_ puedes plantearlo de maneras diferentes. Por un lado como un mundo independiente en el que tus _hauka_ corren aventuras en ellas.
+
+Pero quizas ya tengas tu propio mundo con sus propias reglas y con tu grupo de personajes ya creados. En ese caso puede plantearlo como una parte de tu mundo, las lejanas islas al otro lado del mar. Tus personajes serán unos bárbaros extranjeros cubiertos de metal que no saben nadar ni guiarse por las estrellas.
+
 ## Licencia
 
 «Makai Mauka» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas el siguiente texto de atribución:
@@ -295,6 +391,18 @@ Todo el código fuente puedes encontrarlo en [GitHub](https://github.com/gwannon
 
 Esta ambientación se ha desarrollado tratando de seguir los preceptos y normas que ha establecido el autor en su [página web](https://kotohi.com/ryuutama/licensing/).
 
+## Inspiración
+
+Muchos de los elementos de esta ambientación están basados en un proyecto anterior que desarrolle para [MausRitter](https://losing-games.itch.io/mausritter).
+
+Así que si te ha gustado este «setting» para Ryuutama, quizás debieras darle un vistazo a [MausTiki](https://maustiki.gwannon.com/), para llevar tus aventuras ratoniles a las islas del Pacífico.
+
+## Agradecimientos
+
+Quiero dar agradecimiento a:
+
+* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
+* [@dangordillo.itch.io](https://bsky.app/profile/dangordillo.itch.io) por sus ideas para nombres del mundo.
 ## Atribución de contenidos
 
 En cumplimiento de las licencias de uso del material de este documento este es el listado de atribución de ese material.
@@ -310,15 +418,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Jungle Swamp By [Bear1037](https://www.deviantart.com/bear1037/art/Jungle-Swamp-482759290)
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
-
-## Agradecimientos
-
-Quiero dar agradecimiento a:
-
-* [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
-## Inspiración
-
-Muchos de los elementos de esta ambientación están basados en un proyecto anterior que desarrolle para [MausRitter](https://losing-games.itch.io/mausritter. Así que si te ha gustado este setting para Ryuutama, quizás debieras darle un vistazo a [MausTiki](https://maustiki.gwannon.com/), para llevar tus aventuras ratoniles a las islas del Pacífico.
+* Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
 
 ***
 Makai Mauka 

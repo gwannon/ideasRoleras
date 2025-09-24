@@ -22,6 +22,7 @@ body {
 section {
   padding: var(--padding) var(--padding) 0 var(--padding);
   margin: 0;
+  overflow: hidden;
 }
 
 body > section:nth-child(1) {
@@ -398,7 +399,7 @@ pre code {
 
 .pdf {
   position: fixed;
-  top: 0px;
+  bottom: 0px;
   left: 0px;
   color: white;
   background-color: #2e8f28;
@@ -412,8 +413,8 @@ pre code {
 }
 
 .pdf:nth-of-type(2) {
-  top: auto;
-  bottom: 0px;
+  left: auto;
+  right: 0px;
 }
 
 @media print {
@@ -578,7 +579,7 @@ section:nth-child(1) .saltopagina:after {
   margin-right: 5px;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   :root {
     --padding: 35px;
   }
@@ -596,6 +597,15 @@ section:nth-child(1) .saltopagina:after {
   section:last-of-type p:first-of-type {
     font-size: 2em;  
   }
+
+  body > section:nth-child(1) h1 {
+    margin-top: 60vh;
+  }
+
+  body > section:nth-child(1) h1 + p {
+    font-size: 1.2em;
+  }
+
   h2{
     font-size: 1.6em;
   }
