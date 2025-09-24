@@ -398,8 +398,8 @@ pre code {
 
 .pdf {
   position: fixed;
-  bottom: 0px;
-  right: 0px;
+  top: 0px;
+  left: 0px;
   color: white;
   background-color: #2e8f28;
   display: block;
@@ -412,8 +412,8 @@ pre code {
 }
 
 .pdf:nth-of-type(2) {
-  right: auto;
-  left: 0px;
+  top: auto;
+  bottom: 0px;
 }
 
 @media print {
@@ -576,6 +576,16 @@ section:nth-child(1) .saltopagina:after {
 .likeH1 span, .likeH2 span, .likeH3 span {
   float: right;
   margin-right: 5px;
+}
+
+@media (max-width: 900px) {
+  :root {
+    --padding: 35px;
+  }
+  h1,
+  section:last-of-type p:first-of-type {
+    font-size: 3em;  
+  }
 }
 
 @media (max-width: 450px) {
