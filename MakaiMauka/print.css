@@ -341,10 +341,6 @@ pre code {
 }
 
 @media screen {
-  body {
-    background-size: 200%;
-    background-position: center;
-  }
 
   .columns {
     columns: auto;
@@ -361,7 +357,43 @@ pre code {
 
   section {
     max-width: 700px;
+    margin: 0 auto;
   }
+
+  section:nth-child(3),
+  section:nth-child(4),
+  section:nth-child(5),
+  section:nth-child(6),
+  section:nth-child(7),
+  section:nth-child(8) {
+    background-size: 0% auto !important;  
+  }
+
+  body > section:nth-child(5) h1:after,
+  body > section:nth-child(6) h1:after {
+    width: 0px;
+  }
+
+  .saltopagina {
+    visibility: hidden;
+    height: 0px;
+  }
+
+  body > section:nth-child(1) h1 + p {
+    padding-bottom: 100px;
+  }
+
+  .likeH1 span,
+  .likeH2 span,
+  .likeH3 span {
+    visibility: hidden;
+  }
+
+  #indice > p {
+    display: none;
+  }
+
+
 }
 
 .pdf {

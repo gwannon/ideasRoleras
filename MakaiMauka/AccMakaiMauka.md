@@ -1,5 +1,7 @@
 # Makai y mauka
 
+# El mundo
+
 «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.
 
 XXX
