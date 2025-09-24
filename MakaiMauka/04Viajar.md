@@ -85,6 +85,14 @@ XXX
 
 XXX
 
+### Eventos durante el viaje en el mar
+
+XXX
+
+|Evento|Condiciones|Severidad|
+|---|---|---|
+|XXX|XXX|XXX|
+
 ### Tabla de masas de agua
 
 |Masa de agua|Dificultad|
