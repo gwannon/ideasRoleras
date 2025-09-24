@@ -198,11 +198,15 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 
 XXX
 
-## Terrenos
+## Moverse por tierra
 
 XXX
 
 ### Selva
+
+XXX
+
+### Playa
 
 XXX
 
@@ -219,6 +223,32 @@ XXX
 XXX
 
 ### Volcán
+
+XXX
+
+### Tabla de terrenos
+
+|Terreno|Dificultad|
+|---|---|
+|XXX|XXX|
+
+## Moverse por agua
+
+XXX
+
+### Playa
+
+XXX
+
+### Rio navegable
+
+XXX
+
+### Arrecifes
+
+XXX
+
+### Mar abierto
 
 XXX
 
