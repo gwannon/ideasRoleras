@@ -278,6 +278,9 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 Quiero dar agradecimiento a:
 
 * [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
+## Inspiración
+
+Muchos de los elementos de esta ambientación están basados en un proyecto anterior que desarrolle para [MausRitter](https://losing-games.itch.io/mausritter. Así que si te ha gustado este setting para Ryuutama, quizás debieras darle un vistazo a [MausTiki](https://maustiki.gwannon.com/), para llevar tus aventuras ratoniles a las islas del Pacífico.
 
 ***
 Makai Mauka 
