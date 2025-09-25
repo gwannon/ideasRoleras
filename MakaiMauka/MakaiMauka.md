@@ -24,7 +24,7 @@
 
 ## Planteamiento de las aventuras
 
-Las aventuras en el mundo de _Hua Tarakona_ puedes plantearlo de maneras diferentes. Por un lado como un mundo independiente en el que tus _hauka_ corren aventuras en ellas.
+Las aventuras en el mundo de _Hua Tarakona_ puedes plantearlo de maneras diferentes. Por un lado, como un mundo independiente en el que tus _hauka_ corren aventuras en ellas.
 
 Pero quizas ya tengas tu propio mundo con sus propias reglas y con tu grupo de personajes ya creados. En ese caso puede plantearlo como una parte de tu mundo, las lejanas islas al otro lado del mar. Tus personajes serán unos bárbaros extranjeros cubiertos de metal que no saben nadar ni guiarse por las estrellas.
 
@@ -73,6 +73,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
+* https://www.oldbookillustrations.com/illustrations/rainforest/
 
 \sp
 
@@ -90,6 +91,7 @@ Este suplemento contiene:
 
 1. Una ambientación completa 
 2. Nuevas profesiones, hechizos, equipo y terrenos adaptados a los mitos polinesios
-3. Una aventura introductoria a la ambientación 
+3. Monstruos basados en la mitología de toda la polinesia
+4. Una aventura introductoria a la ambientación 
 
 \conc

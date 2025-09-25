@@ -1,10 +1,16 @@
 # Bestiario
 
-XXX
+El mundo de _Hua Tarakona_ es un mundo peligroso plagado de seres extraños, poderosos y a veces peligrosos y agresivos.
+
+Los monstruos de esta ambientación no tienen una estación, en su lugar XXX
 
 ## Kupua, espíritus diabólicos y vengativos
 
-XXX
+Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
+
+No son grandes espíritus, sino menores con ciertas capacidades mágicas relacionadas con su forma alternativa. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
+
+Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
 * **Nivel:** XXX
 * **PM/PG:** X / X
@@ -15,7 +21,8 @@ XXX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **Estación:** XX
+* **XXX:** XX
+* **Botín:** XXX
 
 ## Moʻo, espíritu acuático cambiaforma
 
@@ -33,8 +40,11 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional:** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
+
+\sp
+
 * **Terreno habitual:** XXX
-* **Estación:** XXX
+* **XXX:** XXX
 * **Botín:** XXX
 
 ## Taniwha, dragón protector
@@ -50,4 +60,9 @@ XXX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **Estación:** XX
+* **XXX:** XXX
+* **Botín:** XXX
+
+\sp
+
+&nbsp;

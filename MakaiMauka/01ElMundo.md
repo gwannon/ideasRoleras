@@ -20,6 +20,10 @@ En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gent
 
 XXX
 
+## Aumakuas, kupuas y semidioses
+
+XXX
+
 ## Términos
 
 XXX

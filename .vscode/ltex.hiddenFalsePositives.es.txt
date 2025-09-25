@@ -185,3 +185,9 @@
 {"rule":"SEPARADO","sentence":"^\\QTerminología por Preply\nHand drawn zen doodle pattern illustration by freepik\nBlack and white pattern design by 0melapics\nFlat design lattice pattern by freepik\nFlat design lattice pattern by freepik\nFairy shark By RAPHTOR\nHand drawn zen doodle pattern design by freepik\nFlat design maori tattoo pattern design by freepik\nJungle Swamp By Bear1037\nSketch of Fijian outrigger canoe with lateen sail by Museum of New Zealand\nTikiwhakapakoko by John White\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPor eso se les considera a veces como kupuas, pero son veneradas como aumakuas (espíritus familiares).\\E$"}
 {"rule":"FORM","sentence":"^\\QLas moʻos suelen adoptar la forma de reptiles monstruosos, de humanos y hasta de pequeños gecos.\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QPero quizas ya tengas tu propio mundo con sus propias reglas y con tu grupo de personajes ya creados.\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|01ElMundo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|02Equipo.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|03Magia.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|04Viajar.md|\\E$"}
+{"rule":"SEPARADO","sentence":"^\\Q|05Bestiario.md|\\E$"}

@@ -22,6 +22,10 @@ En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gent
 
 XXX
 
+## Aumakuas, kupuas y semidioses
+
+XXX
+
 ## Términos
 
 XXX
@@ -302,6 +306,14 @@ XXX
 
 XXX
 
+### Eventos durante el viaje en el mar
+
+XXX
+
+|Evento|Condiciones|Severidad|
+|---|---|---|
+|XXX|XXX|XXX|
+
 ### Tabla de masas de agua
 
 |Masa de agua|Dificultad|
@@ -320,11 +332,17 @@ XXX
 
 # Bestiario
 
-XXX
+El mundo de _Hua Tarakona_ es un mundo peligroso plagado de seres extraños, poderosos y a veces peligrosos y agresivos.
+
+Los monstruos de esta ambientación no tienen una estación, en su lugar XXX
 
 ## Kupua, espíritus diabólicos y vengativos
 
-XXX
+Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
+
+No son grandes espíritus, sino menores con ciertas capacidades mágicas relacionadas con su forma alternativa. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
+
+Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
 * **Nivel:** XXX
 * **PM/PG:** X / X
@@ -335,7 +353,8 @@ XXX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **Estación:** XX
+* **XXX:** XX
+* **Botín:** XXX
 
 ## Moʻo, espíritu acuático cambiaforma
 
@@ -354,7 +373,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional:** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** XXX
-* **Estación:** XXX
+* **XXX:** XXX
 * **Botín:** XXX
 
 ## Taniwha, dragón protector
@@ -370,14 +389,15 @@ XXX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **Estación:** XX
+* **XXX:** XXX
+* **Botín:** XXX
 
 ***
 
 # Epílogo
 ## Planteamiento de las aventuras
 
-Las aventuras en el mundo de _Hua Tarakona_ puedes plantearlo de maneras diferentes. Por un lado como un mundo independiente en el que tus _hauka_ corren aventuras en ellas.
+Las aventuras en el mundo de _Hua Tarakona_ puedes plantearlo de maneras diferentes. Por un lado, como un mundo independiente en el que tus _hauka_ corren aventuras en ellas.
 
 Pero quizas ya tengas tu propio mundo con sus propias reglas y con tu grupo de personajes ya creados. En ese caso puede plantearlo como una parte de tu mundo, las lejanas islas al otro lado del mar. Tus personajes serán unos bárbaros extranjeros cubiertos de metal que no saben nadar ni guiarse por las estrellas.
 
@@ -419,6 +439,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
+* https://www.oldbookillustrations.com/illustrations/rainforest/
 
 ***
 Makai Mauka 
@@ -429,5 +450,6 @@ Este suplemento contiene:
 
 1. Una ambientación completa 
 2. Nuevas profesiones, hechizos, equipo y terrenos adaptados a los mitos polinesios
-3. Una aventura introductoria a la ambientación 
+3. Monstruos basados en la mitología de toda la polinesia
+4. Una aventura introductoria a la ambientación 
 
