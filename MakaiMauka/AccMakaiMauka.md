@@ -334,7 +334,9 @@ XXX
 
 El mundo de _Hua Tarakona_ es un mundo peligroso plagado de seres extraños, poderosos y a veces peligrosos y agresivos.
 
-Los monstruos de esta ambientación no tienen una estación, en su lugar XXX
+Los monstruos terrestres de esta ambientación no tienen una estación predilecta ya que no casi no hay cmabios entre _kau_ (verano)) y _hooilo_ (invierno), en su lugar XXX.
+
+Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
 
 ## Kupua, espíritus diabólicos y vengativos
 
@@ -344,7 +346,7 @@ No son grandes espíritus, sino menores con ciertas capacidades mágicas relacio
 
 Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
-* **Nivel:** XXX
+* **Nivel/Tipo:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -353,7 +355,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **XXX:** XX
+* **XXX/Marea:** XXX
 * **Botín:** XXX
 
 ## Moʻo, espíritu acuático cambiaforma
@@ -364,7 +366,7 @@ Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisa
 
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus _hauka_ tengan que buscar una _moʻo_ con habilidades especiales que les ayude.
 
-* **Nivel:** XXX
+* **Nivel/Tipo:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -373,14 +375,14 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional:** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** XXX
-* **XXX:** XXX
+* **XXX/Marea:** XXX
 * **Botín:** XXX
 
 ## Taniwha, dragón protector
 
 XXX
 
-* **Nivel:** XXX
+* **Nivel/Tipo:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -389,7 +391,7 @@ XXX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **XXX:** XXX
+* **XXX/Marea:** XXX
 * **Botín:** XXX
 
 ***
