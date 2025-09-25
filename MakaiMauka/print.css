@@ -63,26 +63,38 @@ body > section:nth-child(6) {
 }
 
 body > section:nth-child(5) h1,
-body > section:nth-child(6) h1 {
+body > section:nth-child(6) h1,
+body > section:nth-child(8) h1 {
   position: relative;
 }
 
 body > section:nth-child(5) h1:after,
-body > section:nth-child(6) h1:after {
+body > section:nth-child(6) h1:after,
+body > section:nth-child(8) h1:after {
   position: absolute;
   content: "";
   top: 150px;
   display: block;
   width: 100%;
   height: 500px;
-  background: transparent url(./images/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb.jpg) center center no-repeat;
-  background-size: cover;
+  background: transparent none center center no-repeat;
 }
 
 body > section:nth-child(5) h1:after {
   background-image: url(images/tikiwhakapakoko-626d5d.jpg);
   background-size: contain;
 }
+
+body > section:nth-child(6) h1:after {
+  background-image: url(./images/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb.jpg);
+  background-size: cover;
+}
+
+body > section:nth-child(8) h1:after {
+  background-image: url(./images/rainforest-768.jpg);
+  background-size: contain;
+}
+
 
 
 body > section:nth-child(7) {
@@ -371,7 +383,8 @@ pre code {
   }
 
   body > section:nth-child(5) h1:after,
-  body > section:nth-child(6) h1:after {
+  body > section:nth-child(6) h1:after,
+  body > section:nth-child(8) h1:after {
     width: 0px;
   }
 

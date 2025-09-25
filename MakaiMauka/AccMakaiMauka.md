@@ -441,7 +441,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
-* https://www.oldbookillustrations.com/illustrations/rainforest/
+* "Selva," or South American rainforest by [Bayard, Émile](https://www.oldbookillustrations.com/illustrations/rainforest/)
 
 ***
 Makai Mauka 
