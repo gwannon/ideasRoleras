@@ -191,3 +191,4 @@
 {"rule":"SEPARADO","sentence":"^\\Q|03Magia.md|\\E$"}
 {"rule":"SEPARADO","sentence":"^\\Q|04Viajar.md|\\E$"}
 {"rule":"SEPARADO","sentence":"^\\Q|05Bestiario.md|\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCommission:\\E$"}

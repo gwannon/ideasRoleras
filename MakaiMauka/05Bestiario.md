@@ -6,7 +6,13 @@ Los monstruos terrestres de esta ambientación no tienen una estación predilect
 
 Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
 
+\sinc
+
+&nbsp;
+
 ## Kupua, espíritus diabólicos y vengativos
+
+\conc
 
 Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
 
@@ -26,11 +32,19 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 * **XXX/Marea:** XXX
 * **Botín:** XXX
 
+\sinc
+
+&nbsp;
+
 ## Moʻo, espíritu acuático cambiaforma
+
+\conc
 
 Las _moʻos_ suelen adoptar la forma de reptiles monstruosos, de humanos y hasta de pequeños gecos. Por eso se les considera a veces como kupuas, pero son veneradas como _aumakuas_ (espíritus familiares). Suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos.
 
 Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisaje, lo cual explica las extrañas formas que pueden tomar las piedras.
+
+\sp
 
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus _hauka_ tengan que buscar una _moʻo_ con habilidades especiales que les ayude.
 
@@ -38,9 +52,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
-
-\sp
-
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
@@ -49,9 +60,15 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **XXX/Marea:** XXX
 * **Botín:** XXX
 
-## Nanaue, escualiantropos 
+\sinc
 
-A este monstruo se le describe como un hombre con la boca de un tiburón en la espalda que puede transformarse en un tiburón gigante y nadar grandes distancias a mucha velocidad. Siente una tremenda ansía por la carne humana, por lo que siempre andan por caminos cercanos a la costa a la caza de _hauku_ solitarios a los que cazar.
+&nbsp;
+
+## Nanaue, escualiántropos 
+
+\conc
+
+A este monstruo se le describe como un hombre con la boca de un tiburón en la espalda que puede transformarse en un tiburón gigante y nadar grandes distancias a mucha velocidad. Siente una tremenda ansía por la carne humana, por lo que siempre andan por caminos cercanos a la costa a la caza de _hauka_ solitarios a los que cazar.
 
 Tiene predilección por la carne podrida y se dice que matan a sus víctimas y dejan sus cuerpos en cuevas y cavidades para darse un festín cuando la carne se pudre.
 
