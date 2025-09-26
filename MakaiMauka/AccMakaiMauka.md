@@ -54,6 +54,8 @@ Un punto importante del equipo es que el metal es conocido por las gentes de las
 
 Esto supone que el equipo típico de metal, como una cantimplora, tendrá su contrapartida en madera y productos naturales, por ejemplo, una calabaza vaciada, secada y pulida con un corcho puede ser un perfecto recipiente para el agua.  
 
+Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el balasto son muy abundante y los artesanos isleños son diestros en su manufactura en forma de utensilios y armas.
+ 
 XXX
 
 ## Armas
@@ -85,7 +87,6 @@ XXX
 XXX
 
 Como dato importante diremos que la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
-
 ## Armaduras
 
 XXX
@@ -93,6 +94,7 @@ XXX
 ### Protecciones de palma trenzada
 
 Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles
+
 ## Plantas medicinales
 
 XXX
@@ -120,7 +122,6 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 ### Tambor de calabaza Ipu
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
-
 ## Embarcaciones
 
 ### Canoa
@@ -128,6 +129,7 @@ Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de f
 Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 _hauka_, dos remando más un tercer pasajero.
 
 Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, animales, geométricos o mitológicos. Es el medio de transporte principal y sirve tanto en el mar como en los ríos.
+
 ### Tabla de surf
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
@@ -334,7 +336,7 @@ XXX
 
 El mundo de _Hua Tarakona_ es un mundo peligroso plagado de seres extraños, poderosos y a veces peligrosos y agresivos.
 
-Los monstruos terrestres de esta ambientación no tienen una estación predilecta ya que no casi no hay cmabios entre _kau_ (verano)) y _hooilo_ (invierno), en su lugar XXX.
+Los monstruos terrestres de esta ambientación no tienen una estación predilecta, ya que casi no hay cambios entre _kau_ (verano) y _hooilo_ (invierno), en su lugar XXX.
 
 Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
 
@@ -373,13 +375,34 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Habilidad excepcional:** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
+* **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 * **Botín:** XXX
 
-## Taniwha, dragón protector
+## Nanaue, escualiantropos 
 
+A este monstruo se le describe como un hombre con la boca de un tiburón en la espalda que puede transformarse en un tiburón gigante y nadar grandes distancias a mucha velocidad. Siente una tremenda ansía por la carne humana, por lo que siempre andan por caminos cercanos a la costa a la caza de _hauku_ solitarios a los que cazar.
+
+Tiene predilección por la carne podrida y se dice que matan a sus víctimas y dejan sus cuerpos en cuevas y cavidades para darse un festín cuando la carne se pudre.
+
+La gran boca de tiburón en su espalda es lo único que los identifica como _nanaues_, por lo que siempre llevan ropa, como una capa, una camisa o una _tiputa_, para taparla.
+
+XXX
+
+* **Nivel/Tipo:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Grandes nadadores.** Pueden cubrir grandísimas distancias (unos 200 km) en 1 día.
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+* **Botín:** XXX[![Commission: Taniwha By Dream-Piper](./images/commission__taniwha_by_dream_piper_dgn4f6h-fullview.jpg "Commission: Taniwha By Dream-Piper")](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281 "Commission: Taniwha By Dream-Piper")
+
+## Taniwha, dragón protector
 XXX
 
 * **Nivel/Tipo:** XXX
@@ -392,9 +415,7 @@ XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
-* **Botín:** XXX
-
-***
+* **Botín:** XXX***
 
 # Epílogo
 ## Planteamiento de las aventuras
@@ -442,6 +463,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
 * "Selva," or South American rainforest by [Bayard, Émile](https://www.oldbookillustrations.com/illustrations/rainforest/)
+* Commission: Taniwha By [Dream-Piper](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281)
 
 ***
 Makai Mauka 

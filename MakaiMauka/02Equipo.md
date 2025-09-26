@@ -8,6 +8,8 @@ Un punto importante del equipo es que el metal es conocido por las gentes de las
 
 Esto supone que el equipo típico de metal, como una cantimplora, tendrá su contrapartida en madera y productos naturales, por ejemplo, una calabaza vaciada, secada y pulida con un corcho puede ser un perfecto recipiente para el agua.  
 
+Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el balasto son muy abundante y los artesanos isleños son diestros en su manufactura en forma de utensilios y armas.
+ 
 XXX
 
 ## Armas
@@ -40,6 +42,8 @@ XXX
 
 Como dato importante diremos que la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
 
+\sp
+
 ## Armaduras
 
 XXX
@@ -47,8 +51,6 @@ XXX
 ### Protecciones de palma trenzada
 
 Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles
-
-\sp
 
 ## Plantas medicinales
 
@@ -78,6 +80,8 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
+\sp
+
 ## Embarcaciones
 
 ### Canoa
@@ -85,8 +89,6 @@ Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de f
 Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 _hauka_, dos remando más un tercer pasajero.
 
 Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, animales, geométricos o mitológicos. Es el medio de transporte principal y sirve tanto en el mar como en los ríos.
-
-\sp
 
 ### Tabla de surf
 

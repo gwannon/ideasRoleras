@@ -74,6 +74,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
 * "Selva," or South American rainforest by [Bayard, Émile](https://www.oldbookillustrations.com/illustrations/rainforest/)
+* Commission: Taniwha By [Dream-Piper](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281)
 
 \sp
 
