@@ -67,6 +67,10 @@ XXX
 
 XXX
 
+### Acantilados
+
+XXX
+
 ### Playa
 
 XXX

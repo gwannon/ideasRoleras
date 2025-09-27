@@ -64,12 +64,14 @@ body > section:nth-child(6) {
 
 body > section:nth-child(5) h1,
 body > section:nth-child(6) h1,
+body > section:nth-child(7) h1,
 body > section:nth-child(8) h1 {
   position: relative;
 }
 
 body > section:nth-child(5) h1:after,
 body > section:nth-child(6) h1:after,
+body > section:nth-child(7) h1:after,
 body > section:nth-child(8) h1:after {
   position: absolute;
   content: "";
@@ -90,12 +92,15 @@ body > section:nth-child(6) h1:after {
   background-size: cover;
 }
 
+body > section:nth-child(7) h1:after {
+  background-image: url(./images/Pounamu_9.png);
+  background-size: contain;
+}
+
 body > section:nth-child(8) h1:after {
   background-image: url(./images/rainforest-768.jpg);
   background-size: contain;
 }
-
-
 
 body > section:nth-child(7) {
   background: var(--color-white) url(./images/bg-bestiario.jpg) repeat top left;
@@ -453,6 +458,7 @@ pre code {
 
 img {
   max-width: 100%;
+  width: 100%;
 }
 
 /* Paginación */

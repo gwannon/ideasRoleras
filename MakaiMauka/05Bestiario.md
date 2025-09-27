@@ -6,6 +6,8 @@ Los monstruos terrestres de esta ambientación no tienen una estación predilect
 
 Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
 
+Los monstruos de esta ambientación pueden ser terrestres, acuáticos o anfibios. Este dato viene marcado por su tipo.
+
 \sinc
 
 &nbsp;
@@ -14,13 +16,53 @@ Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo
 
 \conc
 
-Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. Se asemejarían a demonios europeos.
+Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. No son grandes espíritus, sino menores con aspecto y ciertas capacidades mágicas relacionadas con su forma alternativa. 
 
-No son grandes espíritus, sino menores con ciertas capacidades mágicas relacionadas con su forma alternativa. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
+Hay kupuas de todo tipo de formas, desde animales como perros o jabalíes a plantas o incluso nubes y rocas. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
 
 Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
+### Kupua de agua
+
+Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos.
+
 * **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Forma acuática:** Pueden respirar bajo el agua y nada a gran velocidad.
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua de aire
+
+Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+
+\sp
+
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma animal.
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua de XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -30,9 +72,78 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
+
+### Kupua de XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX
 * **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua de XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua de XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua de XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+\sp
 
 \sinc
+
+&nbsp;
+
+[![ProjChim: Chimera Forms Close-Up By Dream-Piper](./images/dbd9sj7-173260c7-757c-4190-a54c-dda5ee4a1dd6.jpg "ProjChim: Chimera Forms Close-Up By Dream-Piper")](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827 "ProjChim: Chimera Forms Close-Up By Dream-Piper")
 
 &nbsp;
 
@@ -40,15 +151,18 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 
 \conc
 
-Las _moʻos_ suelen adoptar la forma de reptiles monstruosos, de humanos y hasta de pequeños gecos. Por eso se les considera a veces como kupuas, pero son veneradas como _aumakuas_ (espíritus familiares). Suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos.
+Las _moʻos_ son entidades multimorfas y suelen adoptar la forma de reptiles gran tamaño, de humanos y hasta de pequeños gecos. Por eso se les considera a veces como kupuas, pero son veneradas como _aumakuas_ (espíritus familiares). Las más antiguas y poderos suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos.
 
 Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisaje, lo cual explica las extrañas formas que pueden tomar las piedras.
 
-\sp
+Suelen ser espíritus burlones y vividores que disfruta de la vida y gustan de relacionarse con los _hauka_ que visitan las cascadas y ríos donde suelen vivir. Llegan incluso a coquetear e incluso seducir y mantener relaciones con los _hauka_ que las visitan. 
 
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus _hauka_ tengan que buscar una _moʻo_ con habilidades especiales que les ayude.
 
+\sp
+
 * **Nivel/Tipo:** XXX
+* **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -58,7 +172,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
-* **Botín:** XXX
 
 \sinc
 
@@ -68,25 +181,27 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 
 \conc
 
-A este monstruo se le describe como un hombre con la boca de un tiburón en la espalda que puede transformarse en un tiburón gigante y nadar grandes distancias a mucha velocidad. Siente una tremenda ansía por la carne humana, por lo que siempre andan por caminos cercanos a la costa a la caza de _hauka_ solitarios a los que cazar.
+[![Nanau by Knightkamia](./images/Nanaue.webp "Nanau by Knightkamia")](https://mythus.fandom.com/wiki/Nanaue "Nanau by Knightkamia")
 
-Tiene predilección por la carne podrida y se dice que matan a sus víctimas y dejan sus cuerpos en cuevas y cavidades para darse un festín cuando la carne se pudre.
+A este monstruo se le describe como un hombre con la boca de un tiburón en la espalda que puede transformarse en un tiburón gigante y nadar grandes distancias a mucha velocidad.
+
+Siente una tremenda ansía por la carne humana, por lo que siempre andan como tiburones en la costa vigilando a los pescadores o como humanos por caminos cercanos a la costa a la caza de _hauka_ solitarios. Tiene predilección por la carne podrida y se dice que matan a sus víctimas y dejan sus cuerpos en cuevas y cavidades para darse un festín cuando la carne se pudre.
+
+Sus ansias de cazar aumentan durante su marea, la pleamar nocturna, con lo que suelen atacar de noche a las presas que han vigilado y seguido durante el día. Debido a ser un cambiaformas prefiere intentar engañar a sus víctimas haciéndose pasar un viajero buscando un fuego donde pasar la noche.
 
 La gran boca de tiburón en su espalda es lo único que los identifica como _nanaues_, por lo que siempre llevan ropa, como una capa, una camisa o una _tiputa_, para taparla.
 
-XXX
-
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** 7 / Anfibio
+* **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **FUE/DES/INT/ESP:** 8 / 8 / 6 / 8
+* **Impactar/Daño:** d8+d8 / d8
+* **Defensa:** 4
 * **Habilidad especial:** **Grandes nadadores.** Pueden cubrir grandísimas distancias (unos 200 km) en 1 día.
 * **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-* **Botín:** XXX
+* **Marea:** Pleamar nocturna
 
 \sp
 
@@ -98,9 +213,42 @@ XXX
 
 \conc
 
+Los _taniwha_ son grandes seres sobrenaturales multimorfo anfibios. Cuando están en tierra tienen forma de reptil gigantesco con rasgos dragonescos. Cuando están en el agua suelen parecerse más a plesiosaurios principalmente con aletas como extremidades.
+
+Viven en pozas profundas de ríos, cuevas oscuras o en el mar, especialmente en lugares con corrientes peligrosas u olas gigantes.
+
+Suelen ser considerados _kaitiaki_ (guardianes protectores) muy respetados, pero hay algunos peligrosos y malvados, que, por ejemplo, secuestran personas para que les sirvan.
+
+Algunos llegan a tener un gran tamaño de forma que tus _hauka_ pueden viajar en su espalda, si fuera necesario.
+
+Son grandes, cavadores pudiendo crear canales acuáticos, abriendo cuevas incluso creando puertos. Se sabe de _taniwha_ que han creado puertos para las comunidades que protegen o castigado a otras desviando ríos del que vivían dichas comunidades.
+
+\sp
+
+Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte del paisaje pudiendo formar incluso islote o grandes monolitos de piedra.
+
+* **Nivel/Tipo:** 7 / Anfibio
+* **Botín:** XXX
+* **PM/PG:** 16 / 40
+* **Iniciativa:** 8
+* **Salud:** 12
+* **FUE/DES/INT/ESP:** 10 / 8 / 6 / 8
+* **Impactar/Daño:** d10+d8 / d10
+* **Defensa:** 4
+* **Habilidad especial:** **Capacidades mágicas.** Pueden usar todos los Conjuros de Magia de su marea predilecta.
+* **Terreno habitual:** Acantilados, Mar abierto, Playa, Río navegable
+* **Marea:** Cada _taniwha_ tiene su marea predilecta.
+
+## Animales
+
+XXX
+
+### Tiburón
+
 XXX
 
 * **Nivel/Tipo:** XXX
+* **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -110,4 +258,36 @@ XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
+
+### Mantarraya
+
+XXX
+
+Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
+
+* **Nivel/Tipo:** XXX/Acuático
 * **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Cola venenosa** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+## Monstruos del manual básico
+
+Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algnso ejmeplos:
+
+* Los _piedremonios Moai_, podrian tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
+* Los XXX
+
+Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
+
+\sp
+
+Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes recordar a la hora de describirlos que no deberían portar útiles, armas y armaduras de metal.
+
+Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.  

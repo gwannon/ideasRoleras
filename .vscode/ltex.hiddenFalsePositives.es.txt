@@ -192,3 +192,5 @@
 {"rule":"SEPARADO","sentence":"^\\Q|04Viajar.md|\\E$"}
 {"rule":"SEPARADO","sentence":"^\\Q|05Bestiario.md|\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCommission:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QChimera Forms Close-Up By Dream-Piper\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QViven en pozas profundas de ríos, cuevas oscuras o en el mar, especialmente en lugares con corrientes peligrosas u olas gigantes.\\E$"}
