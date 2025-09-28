@@ -219,7 +219,13 @@ body > section:nth-child(1) h1 + p {
     2px 0px 0px var(--color-black),
     0px -2px 0px var(--color-black), 
     0px 2px 0px var(--color-black);
-      color: #b41e28;
+  color: #c0e3d7;
+  background: #2A7B9B;
+  background: linear-gradient(147deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  margin: 0 calc(var(--padding)*-1) 0;
+  padding: 15px var(--padding);
+  border-top: 1px var(--color-white) solid;
+  border-bottom: 1px var(--color-white) solid;
 }
 
 h2,
@@ -399,7 +405,7 @@ pre code {
   }
 
   body > section:nth-child(1) h1 + p {
-    padding-bottom: 100px;
+    margin-bottom: 100px;
   }
 
   .likeH1 span,

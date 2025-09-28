@@ -427,25 +427,9 @@ Pueden transformarse en águilas y halcones de gran tamaño con terribles garras
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua de XXX
+### Kupua de Fuego
 
-XXX
-
-* **Nivel/Tipo:** XXX
-* **Botín:** XXX
-* **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
-* **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-
-### Kupua de XXX
-
-XXX
+Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca al rojo vivo y/o lava.
 
 * **Nivel/Tipo:** XXX
 * **Botín:** XXX
@@ -459,25 +443,9 @@ XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua de XXX
+### Kupua de Nube
 
-XXX
-
-* **Nivel/Tipo:** XXX
-* **Botín:** XXX
-* **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
-* **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-
-### Kupua de XXX
-
-XXX
+Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos
 
 * **Nivel/Tipo:** XXX
 * **Botín:** XXX
@@ -487,15 +455,17 @@ XXX
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
+* **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua de XXX
+### Kupua plantas
 
-XXX
+Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidado como eran antes y como destransformarse. Normalmente, juegan malas pasadas a los _hauka_, por ejemplo, con frutos de pinta deliciosa y sabor horrible o robando armas y equipo a los viajeros que acampan cerca. 
 
-* **Nivel/Tipo:** XXX
+Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
+
+* **Nivel/Tipo:** Terrestre*
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -503,9 +473,11 @@ XXX
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
+* **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
+
+_*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 [![ProjChim: Chimera Forms Close-Up By Dream-Piper](./images/dbd9sj7-173260c7-757c-4190-a54c-dda5ee4a1dd6.jpg "ProjChim: Chimera Forms Close-Up By Dream-Piper")](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827 "ProjChim: Chimera Forms Close-Up By Dream-Piper")## Moʻo, espíritu acuático cambiaforma
 Las _moʻos_ son entidades multimorfas y suelen adoptar la forma de reptiles gran tamaño, de humanos y hasta de pequeños gecos. Por eso se les considera a veces como kupuas, pero son veneradas como _aumakuas_ (espíritus familiares). Las más antiguas y poderos suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos.
 
@@ -575,7 +547,7 @@ Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte d
 
 ## Animales
 
-XXX
+Las islas no tienen grandes animales terrestres que pudieran ser un problema para tus _hauka_, pero todo eso cambia en el mar, donde tiburones, morenas o mantarrayas pueden ser muy peligrosos.
 
 ### Tiburón
 
@@ -615,13 +587,24 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 
 Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algnso ejmeplos:
 
-* Los _piedremonios Moai_, podrian tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
-* Los XXX
+* Casi todas las plantas fantasma pueden ser usada con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
+* Los _piedremonios Moai_, podrían tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
 
 Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
+
 Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes recordar a la hora de describirlos que no deberían portar útiles, armas y armaduras de metal.
 
-Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.  ***
+Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.
+
+No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
+
+* Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
+* El **kabuto Mmximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
+* Dama Lechera XXX
+* La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
+* Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
+
+***
 
 # Epílogo
 ## Planteamiento de las aventuras
@@ -652,6 +635,16 @@ Quiero dar agradecimiento a:
 
 * [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
 * [@dangordillo.itch.io](https://bsky.app/profile/dangordillo.itch.io) por sus ideas para nombres del mundo.
+## Define los velos y herramientas de seguridad
+
+> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+
+> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
+
+> Por [FaustoRolero](https://twitter.com/FaustoRolero)
+
+Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
+
 ## Atribución de contenidos
 
 En cumplimiento de las licencias de uso del material de este documento este es el listado de atribución de ese material.

@@ -57,25 +57,9 @@ Pueden transformarse en águilas y halcones de gran tamaño con terribles garras
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua de XXX
+### Kupua de Fuego
 
-XXX
-
-* **Nivel/Tipo:** XXX
-* **Botín:** XXX
-* **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
-* **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-
-### Kupua de XXX
-
-XXX
+Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca al rojo vivo y/o lava.
 
 * **Nivel/Tipo:** XXX
 * **Botín:** XXX
@@ -89,25 +73,9 @@ XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua de XXX
+### Kupua de Nube
 
-XXX
-
-* **Nivel/Tipo:** XXX
-* **Botín:** XXX
-* **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
-* **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-
-### Kupua de XXX
-
-XXX
+Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos
 
 * **Nivel/Tipo:** XXX
 * **Botín:** XXX
@@ -117,15 +85,17 @@ XXX
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
+* **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua de XXX
+### Kupua plantas
 
-XXX
+Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidado como eran antes y como destransformarse. Normalmente, juegan malas pasadas a los _hauka_, por ejemplo, con frutos de pinta deliciosa y sabor horrible o robando armas y equipo a los viajeros que acampan cerca. 
 
-* **Nivel/Tipo:** XXX
+Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
+
+* **Nivel/Tipo:** Terrestre*
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -133,9 +103,11 @@ XXX
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
+* **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
+
+_*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 
 \sp
 
@@ -241,7 +213,7 @@ Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte d
 
 ## Animales
 
-XXX
+Las islas no tienen grandes animales terrestres que pudieran ser un problema para tus _hauka_, pero todo eso cambia en el mar, donde tiburones, morenas o mantarrayas pueden ser muy peligrosos.
 
 ### Tiburón
 
@@ -281,13 +253,22 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 
 Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algnso ejmeplos:
 
-* Los _piedremonios Moai_, podrian tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
-* Los XXX
-
-Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
+* Casi todas las plantas fantasma pueden ser usada con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
 
 \sp
 
+* Los _piedremonios Moai_, podrían tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
+
+Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
+
 Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes recordar a la hora de describirlos que no deberían portar útiles, armas y armaduras de metal.
 
-Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.  
+Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.
+
+No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
+
+* Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
+* El **kabuto Mmximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
+* Dama Lechera XXX
+* La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
+* Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
