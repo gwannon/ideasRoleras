@@ -16,6 +16,26 @@ XXX
 
 XXX
 
+## Cultura y sociedad
+
+XXX
+
+### Tatuajes
+Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
+
+Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos, hasta encontrar un sitio donde establecerse.
+
+No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hecho cosas importantes para la comunidad donde viven. Es por ello que en situaciones sociales o de combate la gente con tatuajes trata de enseñarlos lo máximo posible, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar o impresionar a humanos y monstruos de las islas.
+
+### Surf
+
+Tangaloa enseñó a construir tablas de surf y a usarlas para surcar las olas y por eso se le venera. Sin el surf nuestras vidas estarían vacías y sin hopupu.
+
+El surf es el deporte más practicado por los habitantes de _Hua Tarakona_. Es tan importante que los y las mejores surfistas son tratados como estrellas y viven simplemente de hacer surf.
+Las competiciones son eventos importantes y los premios que se ofrecen pueden permitir a un buen surfista sobrevivir todo el año. Es por ello que no es raro encontrarse grupo de surfistas que viajan de asentamiento en asentamiento participando en diferentes pruebas y competiciones para ganarse la vida y poder seguir viajando practicando su deporte favorito.
+
+No es extrañar llegar a una cala perdida y encontrarse con un círculo de tablas de surf clavadas en la arena y en su interior a surfistas descansando junto al fuego.
+
 ## Razones para viajar
 
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
@@ -38,6 +58,10 @@ XXX
 
 _Hauka_ se refiere tanto a la persona como al grupo que está realizando un viaje. XXX
 
+### Hopupu
+
+XXX
+
 ### Makai y mauka
 
 _Makai_ y _mauka_ son unas de las palabras más útiles que puedes aprender. Estos términos direccionales te ayudarán a orientarte en las islas. _Makai_ te dirige «hacia el mar», mientras que _mauka_ te envía «hacia las montañas», un sistema perfecto para la vida en la isla. Nunca tendrás que preocuparte por dónde está el norte cuando tengas estos puntos de referencia naturales como guía.
@@ -45,6 +69,17 @@ _Makai_ y _mauka_ son unas de las palabras más útiles que puedes aprender. Est
 ### Pono
 
 _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con todo lo que te rodea. Esta palabra engloba moralidad, rectitud, y vida ética, todo a la vez. Cuando se describe algo como _pono_, están diciendo que es correcto en todos los niveles.
+## Nuevas clases, profesiones y arquetipos
+
+XXX
+
+### Tatuador
+
+XXX
+
+### Surfista
+
+XXX
 
 ***
 
@@ -263,7 +298,7 @@ XXX
 
 Las islas de _Hua Tarakona_ suponen nuevos tipos de terrenos como playas o volcanes, pero teniendo en cuenta que los viajes también se hacen por mar, tenemos nuevos terrenos acuáticos o masas de aguas con algunas reglas especiales. 
 
-Hay una serie de terrenos que no deberían entrar en tus aventuras, pero eres libre de meterlo si deseas. Hay miles de islas en _Hua Tarakona_ y pueden haber de todo.
+Hay una serie de terrenos que no deberían entrar en tus aventuras, pero eres libre de meterlos si lo deseas. Ten en cuenta que hay miles de islas en _Hua Tarakona_ y puede haber todo de tipo de terrenos.
 
 * **Desiertos, pedregales y yermos:** Todos son sustituidos por terrenos muy parecidos, los campos de lava y los volcanes.
 * **Bosques, bosques primarios y junglas:** Son sustituidos por selvas y selvas vírgenes.
@@ -295,36 +330,38 @@ No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitio
 
 ### Playa
 
-Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante facil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
+Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante fácil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
 
 XXX
 
-### Pradera
+### Selva/Selva virgen
 
 XXX
 
-### Selva
+### Volcán/Volcán activo
 
-XXX
-
-### Volcán
-
-XXX
+La inmensa mayoría de las islas de _Hua Tarakona_ son de origen volcánico y bastantes de ellas tienen un volcán, pero muy pocas de ellas tienen un volcán activo. 
 
 Moverse en una zona volcánica es muy complicado, no hay casi recursos y los pocos que puedas encontrar pueden ser peligrosos, pero se vuelve mucho peor cuando el volcán está activo. 
 
 Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corrimientos de tierras e incluso alguna pequeña grieta llena de borboteante lava. Si el volcán está expulsando ríos de lava, gases sulfúricos y piroclastos es imposible viajar a través de él y seguramente acabarás muerto si intentas moverte por esa zona.
-### Tabla de terrenos
+### Tabla de nuevos terrenos
 
 |Terreno|Dificultad|
 |---|---|
-|Pradera, Cauce de un río, Playa|6|
+|Cauce de un río, Playa|6|
 |Selva, Acantilados litorales|8|
 |Montaña, Selva profunda|10|
 |Volcán|12|
 |Volcán activo|14|
 
 ## Masas de agua
+
+El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además, es un entorno cambiante y lo que ayer estaba en un lugar puede haber desaparecido la siguiente vez.
+
+Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
+
+### Reglas para los viajes
 
 XXX
 
@@ -353,12 +390,9 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 ### Eventos durante el viaje en el mar
 
 XXX
-
 |Evento|Condiciones|Severidad|
 |---|---|---|
-|XXX|XXX|XXX|
-
-### Tabla de masas de agua
+|XXX|XXX|XXX|### Tabla de masas de agua
 
 |Masa de agua|Dificultad|
 |---|---|
@@ -407,7 +441,7 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Forma acuática:** Pueden respirar bajo el agua y nada a gran velocidad.
+* **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nada a gran velocidad.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
@@ -439,8 +473,8 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
+* **Habilidad especial:** **Lava como sangre.** Son seres de lava y rocas incandescentes, así que son inmunes al fuego y sus ataques hacen XXX extra de daño de fuego.
+* **Terreno habitual:** Volcanes
 * **XXX/Marea:** XXX
 
 ### Kupua de Nube
@@ -455,7 +489,7 @@ Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangible
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables.
+* **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
@@ -486,6 +520,22 @@ Cuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisa
 Suelen ser espíritus burlones y vividores que disfruta de la vida y gustan de relacionarse con los _hauka_ que visitan las cascadas y ríos donde suelen vivir. Llegan incluso a coquetear e incluso seducir y mantener relaciones con los _hauka_ que las visitan. 
 
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus _hauka_ tengan que buscar una _moʻo_ con habilidades especiales que les ayude.
+### Humanoide
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Gran lagarto
+
 * **Nivel/Tipo:** XXX
 * **Botín:** XXX
 * **PM/PG:** X / X
@@ -508,7 +558,6 @@ Siente una tremenda ansía por la carne humana, por lo que siempre andan como ti
 Sus ansias de cazar aumentan durante su marea, la pleamar nocturna, con lo que suelen atacar de noche a las presas que han vigilado y seguido durante el día. Debido a ser un cambiaformas prefiere intentar engañar a sus víctimas haciéndose pasar un viajero buscando un fuego donde pasar la noche.
 
 La gran boca de tiburón en su espalda es lo único que los identifica como _nanaues_, por lo que siempre llevan ropa, como una capa, una camisa o una _tiputa_, para taparla.
-
 * **Nivel/Tipo:** 7 / Anfibio
 * **Botín:** XXX
 * **PM/PG:** X / X
@@ -519,7 +568,8 @@ La gran boca de tiburón en su espalda es lo único que los identifica como _nan
 * **Defensa:** 4
 * **Habilidad especial:** **Grandes nadadores.** Pueden cubrir grandísimas distancias (unos 200 km) en 1 día.
 * **Terreno habitual:** XXX
-* **Marea:** Pleamar nocturna[![Commission: Taniwha By Dream-Piper](./images/commission__taniwha_by_dream_piper_dgn4f6h-fullview.jpg "Commission: Taniwha By Dream-Piper")](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281 "Commission: Taniwha By Dream-Piper")
+* **Marea:** Pleamar nocturna
+[![Commission: Taniwha By Dream-Piper](./images/commission__taniwha_by_dream_piper_dgn4f6h-fullview.jpg "Commission: Taniwha By Dream-Piper")](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281 "Commission: Taniwha By Dream-Piper")
 
 ## Taniwha, dragón protector
 Los _taniwha_ son grandes seres sobrenaturales multimorfo anfibios. Cuando están en tierra tienen forma de reptil gigantesco con rasgos dragonescos. Cuando están en el agua suelen parecerse más a plesiosaurios principalmente con aletas como extremidades.
@@ -527,10 +577,10 @@ Los _taniwha_ son grandes seres sobrenaturales multimorfo anfibios. Cuando está
 Viven en pozas profundas de ríos, cuevas oscuras o en el mar, especialmente en lugares con corrientes peligrosas u olas gigantes.
 
 Suelen ser considerados _kaitiaki_ (guardianes protectores) muy respetados, pero hay algunos peligrosos y malvados, que, por ejemplo, secuestran personas para que les sirvan.
-
 Algunos llegan a tener un gran tamaño de forma que tus _hauka_ pueden viajar en su espalda, si fuera necesario.
 
 Son grandes, cavadores pudiendo crear canales acuáticos, abriendo cuevas incluso creando puertos. Se sabe de _taniwha_ que han creado puertos para las comunidades que protegen o castigado a otras desviando ríos del que vivían dichas comunidades.
+
 Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte del paisaje pudiendo formar incluso islote o grandes monolitos de piedra.
 
 * **Nivel/Tipo:** 7 / Anfibio
@@ -579,16 +629,31 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Cola venenosa** XXX
+* **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+### Almeja gigante
+
+XXX
+
+* **Nivel/Tipo:** XXX/Acuático
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
 ## Monstruos del manual básico
 
-Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algnso ejmeplos:
+Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algunos ejemplos:
 
-* Casi todas las plantas fantasma pueden ser usada con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
-* Los _piedremonios Moai_, podrían tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
+* Casi todas las plantas fantasma pueden ser usadas con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
+* Los _piedremonios Moai_, podrían tener forma de tótem _tiki_ en vez de caras de la isla de Pascua.
 
 Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
 
@@ -599,11 +664,14 @@ Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua
 No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
 
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
-* El **kabuto Mmximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
+* El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
 * Dama Lechera XXX
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
+> Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
+
+> Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 ***
 
 # Epílogo
@@ -635,15 +703,11 @@ Quiero dar agradecimiento a:
 
 * [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
 * [@dangordillo.itch.io](https://bsky.app/profile/dangordillo.itch.io) por sus ideas para nombres del mundo.
-## Define los velos y herramientas de seguridad
+## Surf
 
-> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+El surf que se representa aquí con trucos, carreras y tablas rápidas es más cercano al surf moderno competitivo. Nada tiene que ver con el que practicaban los antiguos polinesios. Me he tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. También me parecía que era una buena excusa para que tus _hauka_ se embarcaran en un viaje. Suena bastante bien que vayas de isla en isla buscando la ola perfecta y sintiendo como te embarga el _hopupu_.
 
-> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
-
-> Por [FaustoRolero](https://twitter.com/FaustoRolero)
-
-Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
+Pero desde luego esto está muy lejos de la realidad de los primeros tiempos del surf en la polinesia y tiene unos toques muy eurocentrista. Es por ello que puedes obviar toda esta parte y dejarlo como un mero divertimento y un medio de transporte.
 
 ## Atribución de contenidos
 
@@ -666,7 +730,15 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * ProjChim: Chimera Forms Close-Up By [Dream-Piper](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827)
 * Nanaue by [Knightkamia](https://mythus.fandom.com/wiki/Nanaue)
 * Manaia pounamu carving by [Sarang](https://en.wikipedia.org/wiki/Manaia_(mythological_creature)#/media/File:Pounamu_9.jpg)
+## Define los velos y herramientas de seguridad
 
+> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+
+> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
+
+> Por [FaustoRolero](https://twitter.com/FaustoRolero)
+
+Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 ***
 Makai Mauka 
 

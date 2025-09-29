@@ -34,7 +34,7 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Forma acuática:** Pueden respirar bajo el agua y nada a gran velocidad.
+* **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nada a gran velocidad.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
@@ -69,8 +69,8 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
+* **Habilidad especial:** **Lava como sangre.** Son seres de lava y rocas incandescentes, así que son inmunes al fuego y sus ataques hacen XXX extra de daño de fuego.
+* **Terreno habitual:** Volcanes
 * **XXX/Marea:** XXX
 
 ### Kupua de Nube
@@ -85,7 +85,7 @@ Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangible
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables.
+* **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
@@ -133,6 +133,22 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 
 \sp
 
+### Humanoide
+
+* **Nivel/Tipo:** XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Gran lagarto
+
 * **Nivel/Tipo:** XXX
 * **Botín:** XXX
 * **PM/PG:** X / X
@@ -163,6 +179,8 @@ Sus ansias de cazar aumentan durante su marea, la pleamar nocturna, con lo que s
 
 La gran boca de tiburón en su espalda es lo único que los identifica como _nanaues_, por lo que siempre llevan ropa, como una capa, una camisa o una _tiputa_, para taparla.
 
+\sp
+
 * **Nivel/Tipo:** 7 / Anfibio
 * **Botín:** XXX
 * **PM/PG:** X / X
@@ -174,8 +192,6 @@ La gran boca de tiburón en su espalda es lo único que los identifica como _nan
 * **Habilidad especial:** **Grandes nadadores.** Pueden cubrir grandísimas distancias (unos 200 km) en 1 día.
 * **Terreno habitual:** XXX
 * **Marea:** Pleamar nocturna
-
-\sp
 
 \sinc
 
@@ -191,11 +207,11 @@ Viven en pozas profundas de ríos, cuevas oscuras o en el mar, especialmente en 
 
 Suelen ser considerados _kaitiaki_ (guardianes protectores) muy respetados, pero hay algunos peligrosos y malvados, que, por ejemplo, secuestran personas para que les sirvan.
 
+\sp
+
 Algunos llegan a tener un gran tamaño de forma que tus _hauka_ pueden viajar en su espalda, si fuera necesario.
 
 Son grandes, cavadores pudiendo crear canales acuáticos, abriendo cuevas incluso creando puertos. Se sabe de _taniwha_ que han creado puertos para las comunidades que protegen o castigado a otras desviando ríos del que vivían dichas comunidades.
-
-\sp
 
 Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte del paisaje pudiendo formar incluso islote o grandes monolitos de piedra.
 
@@ -245,19 +261,34 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Cola venenosa** XXX
+* **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+\sp
+
+### Almeja gigante
+
+XXX
+
+* **Nivel/Tipo:** XXX/Acuático
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
 ## Monstruos del manual básico
 
-Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algnso ejmeplos:
+Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algunos ejemplos:
 
-* Casi todas las plantas fantasma pueden ser usada con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
-
-\sp
-
-* Los _piedremonios Moai_, podrían tener forma de _totem tiki_ en vez de caras de la isla de Pascua.
+* Casi todas las plantas fantasma pueden ser usadas con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
+* Los _piedremonios Moai_, podrían tener forma de tótem _tiki_ en vez de caras de la isla de Pascua.
 
 Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
 
@@ -268,7 +299,20 @@ Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua
 No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
 
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
-* El **kabuto Mmximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
+* El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
 * Dama Lechera XXX
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
+
+\sp
+
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
+
+> Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
+
+> Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
+
+\sc
+
+\sp
+
+&nbsp;

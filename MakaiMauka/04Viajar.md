@@ -33,7 +33,7 @@ XXX
 
 Las islas de _Hua Tarakona_ suponen nuevos tipos de terrenos como playas o volcanes, pero teniendo en cuenta que los viajes también se hacen por mar, tenemos nuevos terrenos acuáticos o masas de aguas con algunas reglas especiales. 
 
-Hay una serie de terrenos que no deberían entrar en tus aventuras, pero eres libre de meterlo si deseas. Hay miles de islas en _Hua Tarakona_ y pueden haber de todo.
+Hay una serie de terrenos que no deberían entrar en tus aventuras, pero eres libre de meterlos si lo deseas. Ten en cuenta que hay miles de islas en _Hua Tarakona_ y puede haber todo de tipo de terrenos.
 
 * **Desiertos, pedregales y yermos:** Todos son sustituidos por terrenos muy parecidos, los campos de lava y los volcanes.
 * **Bosques, bosques primarios y junglas:** Son sustituidos por selvas y selvas vírgenes.
@@ -68,21 +68,17 @@ No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitio
 
 ### Playa
 
-Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante facil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
+Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante fácil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
 
 XXX
 
-### Pradera
+### Selva/Selva virgen
 
 XXX
 
-### Selva
+### Volcán/Volcán activo
 
-XXX
-
-### Volcán
-
-XXX
+La inmensa mayoría de las islas de _Hua Tarakona_ son de origen volcánico y bastantes de ellas tienen un volcán, pero muy pocas de ellas tienen un volcán activo. 
 
 Moverse en una zona volcánica es muy complicado, no hay casi recursos y los pocos que puedas encontrar pueden ser peligrosos, pero se vuelve mucho peor cuando el volcán está activo. 
 
@@ -90,17 +86,23 @@ Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corri
 
 \sp
 
-### Tabla de terrenos
+### Tabla de nuevos terrenos
 
 |Terreno|Dificultad|
 |---|---|
-|Pradera, Cauce de un río, Playa|6|
+|Cauce de un río, Playa|6|
 |Selva, Acantilados litorales|8|
 |Montaña, Selva profunda|10|
 |Volcán|12|
 |Volcán activo|14|
 
 ## Masas de agua
+
+El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además, es un entorno cambiante y lo que ayer estaba en un lugar puede haber desaparecido la siguiente vez.
+
+Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
+
+### Reglas para los viajes
 
 XXX
 
@@ -130,9 +132,15 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 XXX
 
+\sinc
+
 |Evento|Condiciones|Severidad|
 |---|---|---|
 |XXX|XXX|XXX|
+
+\conc
+
+\sp
 
 ### Tabla de masas de agua
 
@@ -151,3 +159,7 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
 XXX
+
+\sp
+
+&nbsp;
