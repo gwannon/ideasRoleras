@@ -109,15 +109,20 @@ XXX
 
 ### Hojas
 
+[![Kayak canoe design illustration set by pikisuperstar](./images/remo.jpg "Kayak canoe design illustration set by pikisuperstar")](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm "Kayak canoe design illustration set by pikisuperstar")
+
 **Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asirlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
 
 ### Armas de Asta
 
-**_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
+[![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
+
+**_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.[![Leiomano by Jen](./images/horca.jpg "Leiomano by Jen")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Leiomano by Jen")
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
-
 ### Hachas
+
+[![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
 
 **_Leiomano_:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños dientes de tiburón insertados.
 
@@ -126,6 +131,7 @@ XXX
 XXX
 
 Como dato importante diremos que la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
+
 ## Armaduras
 
 XXX
@@ -146,12 +152,13 @@ La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. P
 
 XXX
 
+[![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
+
 ### Konane
 
 El _konane_ es una juego de mesa, muy parecido a las damas o el go. El _konane_ se juega utilizando pequeños trozos de coral blanco y lava negra sobre una gran roca tallada y o un tablón de madera que funcionaba como tablero y mesa. Se considera un juego de roedores inteligentes y las competiciones son de muy alto nivel.
 
 De normal, un _konane_ de viaje tiene tamaño 3, pero de normal los que se tienen en las casas y son de mejor calidad ocupan tamaño 5.
-
 ### Herramientas de tatuaje
 
 Las herramientas de tatuaje consisten en un peine con dientes de hueso o concha de tortuga unidos a un mango de madera. Los dientes estaban empapados en tinta a base de carbón diluido en aceite o agua. El peine se golpean con un palo de madera para pinchar la piel continuamente y meter la tinta en su interior.
@@ -161,7 +168,12 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 ### Tambor de calabaza Ipu
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
+
 ## Embarcaciones
+
+XXX
+
+[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
 
 ### Canoa
 
@@ -178,7 +190,6 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
-
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
 
 De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
@@ -199,7 +210,6 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Canoa|XXX|
 |Tabla de surf|XXX|
 |Catamarán|XXX|
-
 ***
 
 # Magia
@@ -730,6 +740,17 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * ProjChim: Chimera Forms Close-Up By [Dream-Piper](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827)
 * Nanaue by [Knightkamia](https://mythus.fandom.com/wiki/Nanaue)
 * Manaia pounamu carving by [Sarang](https://en.wikipedia.org/wiki/Manaia_(mythological_creature)#/media/File:Pounamu_9.jpg)
+* Tótem tiki hawaiano amarillo [vexels](https://es.vexels.com/png-svg/vista-previa/220378/totem-tiki-hawaiano-amarillo)
+* Leiomano by [Jen](https://commons.wikimedia.org/wiki/File:Leiomano.jpg)
+* Board game collection by [freepik](https://www.freepik.com/free-vector/board-game-collection_10115170.htm)
+* Medieval weapons by [ddraw](https://www.freepik.es/vector-gratis/armas-medievales_1015205.htm)
+* Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
+* Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
+* Kayak canoe design illustration set by [pikisuperstar](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm)
+* Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
+* Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
+* Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
+
 ## Define los velos y herramientas de seguridad
 
 > Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.

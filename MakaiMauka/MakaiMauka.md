@@ -84,6 +84,17 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * ProjChim: Chimera Forms Close-Up By [Dream-Piper](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827)
 * Nanaue by [Knightkamia](https://mythus.fandom.com/wiki/Nanaue)
 * Manaia pounamu carving by [Sarang](https://en.wikipedia.org/wiki/Manaia_(mythological_creature)#/media/File:Pounamu_9.jpg)
+* Tótem tiki hawaiano amarillo [vexels](https://es.vexels.com/png-svg/vista-previa/220378/totem-tiki-hawaiano-amarillo)
+* Leiomano by [Jen](https://commons.wikimedia.org/wiki/File:Leiomano.jpg)
+* Board game collection by [freepik](https://www.freepik.com/free-vector/board-game-collection_10115170.htm)
+* Medieval weapons by [ddraw](https://www.freepik.es/vector-gratis/armas-medievales_1015205.htm)
+* Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
+* Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
+* Kayak canoe design illustration set by [pikisuperstar](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm)
+* Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
+* Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
+* Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
+
 
 \sp
 

@@ -24,15 +24,27 @@ XXX
 
 ### Hojas
 
+[![Kayak canoe design illustration set by pikisuperstar](./images/remo.jpg "Kayak canoe design illustration set by pikisuperstar")](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm "Kayak canoe design illustration set by pikisuperstar")
+
 **Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asirlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
 
 ### Armas de Asta
 
+[![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
+
 **_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
+
+&nbsp;
+
+[![Leiomano by Jen](./images/horca.jpg "Leiomano by Jen")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Leiomano by Jen")
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
 
+\sp
+
 ### Hachas
+
+[![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
 
 **_Leiomano_:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños dientes de tiburón insertados.
 
@@ -41,8 +53,6 @@ XXX
 XXX
 
 Como dato importante diremos que la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
-
-\sp
 
 ## Armaduras
 
@@ -64,11 +74,15 @@ La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. P
 
 XXX
 
+[![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
+
 ### Konane
 
 El _konane_ es una juego de mesa, muy parecido a las damas o el go. El _konane_ se juega utilizando pequeños trozos de coral blanco y lava negra sobre una gran roca tallada y o un tablón de madera que funcionaba como tablero y mesa. Se considera un juego de roedores inteligentes y las competiciones son de muy alto nivel.
 
 De normal, un _konane_ de viaje tiene tamaño 3, pero de normal los que se tienen en las casas y son de mejor calidad ocupan tamaño 5.
+
+\sp
 
 ### Herramientas de tatuaje
 
@@ -80,9 +94,11 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
-\sp
-
 ## Embarcaciones
+
+XXX
+
+[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
 
 ### Canoa
 
@@ -99,6 +115,8 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
+
+\sp
 
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
 
@@ -120,3 +138,9 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Canoa|XXX|
 |Tabla de surf|XXX|
 |Catamarán|XXX|
+
+\sc
+
+\sp
+
+&nbsp;
