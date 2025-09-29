@@ -92,11 +92,11 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
 * Kayak canoe design illustration set by [pikisuperstar](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm)
 * Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
-* Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
-* Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
-
 
 \sp
+
+* Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
+* Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
 
 ## Define los velos y herramientas de seguridad
 
@@ -106,9 +106,9 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 
 > Por [FaustoRolero](https://twitter.com/FaustoRolero)
 
-Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
-
 \sc
+
+Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
 ***
 
