@@ -2,6 +2,10 @@
 
 XXX
 
+## Moneda y trueque
+
+XXX
+
 ## Materiales
 
 Un punto importante del equipo es que el metal es conocido por las gentes de las islas, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
@@ -141,6 +145,7 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Tambor de calabaza Ipu|XXX|
 |Canoa|XXX|
 |Tabla de surf|XXX|
+|Canoa multicasco|XXX|
 |Catamarán|XXX|
 
 \sp
