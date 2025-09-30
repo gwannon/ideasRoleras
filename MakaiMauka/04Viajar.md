@@ -128,19 +128,24 @@ Las comunidades del interior suelen crecer alrededor de estos ríos tanto por lo
 
 Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, un terreno muy distintos en el que tus canoas no valen para nada.
 
+\sp
+
 ### Eventos durante el viaje en el mar
 
-XXX
+En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
 
-\sinc
-
-|Evento|Condiciones|Severidad|
-|---|---|---|
-|XXX|XXX|XXX|
-
-\conc
-
-\sp
+|Evento|Condiciones|
+|---|---|
+|Golpes contra los aparejos o el mástil|Herido (４)|
+|Mareos|Mareado (４)|
+|Comida o bebida en mal estado|Envenenado (４)|
+|Insolación|Enfermo (４)|
+|XXX|Cansado (４)|
+|Caída desde mástil o el velamen|Herido (6)|
+|XXX|Mareado (6)|
+|XXX|Envenenado (6)|
+|XXX|Enfermo (6)|
+|XXX|Cansado (6)|
 
 ### Tabla de masas de agua
 

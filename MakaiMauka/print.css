@@ -58,7 +58,7 @@ body > section:nth-child(6) {
   background: var(--color-white) url(./images/bg-viaje.jpg) repeat bottom left;
   background-size: 100% auto;
   --color-brown-pale: #3696f0;
-  --color-brown: #411ec0;
+  --color-brown: #7186d2;
   --color-brown-dark: #1c0961;
 }
 
@@ -92,7 +92,7 @@ body > section:nth-child(3) h1:after {
 }
 
 body > section:nth-child(4) h1:after {
-  /*background-image: url(images/56577c334bbcad749a38b2908e19aad7-totem-tiki-hawaiano-amarillo.webp);*/
+  background-image: url(images/pd109-pdobj01949-image.png);
   background-size: contain;
 }
 
@@ -352,7 +352,7 @@ table tr:nth-child(even) {
 }
 
 table td {
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 pre {

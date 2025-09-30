@@ -64,7 +64,9 @@ Como dato importante diremos que la onda que es usada como arma de guerra, mient
 
 ## Armaduras
 
-XXX
+Los combatientes en _Hua Tarakona_ no llegan pesadas armaduras de metal. Como ya sabemos no son duchos en la forja del metal, pero además las armaduras son un lastre tremendo en el mar y el calor hace que no se puedan llevar mucho tiempo seguido sin acabar extenuado.
+
+Aun así, como buenos tejedores de hojas de palma, saben hacer buenas protecciones frescas y ligeras, que les dan cierta protección en el combate.
 
 ### Protecciones de palma trenzada
 
@@ -78,11 +80,11 @@ XXX
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
 
+\sp
+
 ## Objetos comunes
 
-XXX
-
-\sp
+Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseño geométricos o figuras tribuales de animales, personas, dioses y monstruos.
 
 [![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
 
@@ -112,13 +114,13 @@ XXX
 
 Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 _hauka_, dos remando más un tercer pasajero.
 
+\sp
+
 Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, animales, geométricos o mitológicos. Es el medio de transporte principal y sirve tanto en el mar como en los ríos.
 
 ### Tabla de surf
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
-
-\sp
 
 ### Catamarán y canoa multicasco
 

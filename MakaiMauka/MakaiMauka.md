@@ -92,11 +92,14 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
 * Kayak canoe design illustration set by [pikisuperstar](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm)
 * Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
+* Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
 
 \sp
 
-* Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
 * Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
+* Vector de ilustración de cesta de viaje vintage, remezclado de la obra de arte de Vincent P. Rosel por [rawpixel.com](https://www.freepik.es/vector-gratis/vector-ilustracion-cesta-viaje-vintage-remezclado-obra-arte-vincent-p-rosel_16335422.htm)
+
+\sc
 
 ## Define los velos y herramientas de seguridad
 
@@ -105,8 +108,6 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 
 > Por [FaustoRolero](https://twitter.com/FaustoRolero)
-
-\sc
 
 Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
