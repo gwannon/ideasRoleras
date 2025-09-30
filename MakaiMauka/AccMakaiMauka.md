@@ -89,11 +89,15 @@ XXX
 
 ## Materiales
 
-Un punto importante del equipo es que el metal es conocido por las gentes de las islas, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera. 
+Un punto importante del equipo es que el metal es conocido por las gentes de las islas, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
 
-Esto supone que el equipo típico de metal, como una cantimplora, tendrá su contrapartida en madera y productos naturales, por ejemplo, una calabaza vaciada, secada y pulida con un corcho puede ser un perfecto recipiente para el agua.  
+La madera es un elemento fundamental en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc.
 
-Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el balasto son muy abundante y los artesanos isleños son diestros en su manufactura en forma de utensilios y armas.
+Lo mismo pasa con la hoja de palma, que también encontramos en varias artesanías, como cesteros, techadores, fabricantes de velas, etc. que la transforman en diferentes elementos como cestas, velas de barco, sombreros, cuerdas y correas, etc.
+
+El equipo típico de metal, como una cantimplora, tendrá su contrapartida en madera y productos naturales, por ejemplo, una calabaza vaciada, secada y pulida con un corcho puede ser un perfecto recipiente para el agua.  
+
+Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el basalto son muy abundantes y los artesanos isleños también son diestros en su manufactura en forma de utensilios y armas.
  
 XXX
 
@@ -112,7 +116,6 @@ XXX
 [![Kayak canoe design illustration set by pikisuperstar](./images/remo.jpg "Kayak canoe design illustration set by pikisuperstar")](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm "Kayak canoe design illustration set by pikisuperstar")
 
 **Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asirlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
-
 ### Armas de Asta
 
 [![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
@@ -120,6 +123,7 @@ XXX
 **_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.[![Leiomano by Jen](./images/horca.jpg "Leiomano by Jen")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Leiomano by Jen")
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
+
 ### Hachas
 
 [![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
@@ -151,7 +155,6 @@ La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. P
 ## Objetos comunes
 
 XXX
-
 [![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
 
 ### Konane
@@ -159,6 +162,7 @@ XXX
 El _konane_ es una juego de mesa, muy parecido a las damas o el go. El _konane_ se juega utilizando pequeños trozos de coral blanco y lava negra sobre una gran roca tallada y o un tablón de madera que funcionaba como tablero y mesa. Se considera un juego de roedores inteligentes y las competiciones son de muy alto nivel.
 
 De normal, un _konane_ de viaje tiene tamaño 3, pero de normal los que se tienen en las casas y son de mejor calidad ocupan tamaño 5.
+
 ### Herramientas de tatuaje
 
 Las herramientas de tatuaje consisten en un peine con dientes de hueso o concha de tortuga unidos a un mango de madera. Los dientes estaban empapados en tinta a base de carbón diluido en aceite o agua. El peine se golpean con un palo de madera para pinchar la piel continuamente y meter la tinta en su interior.
@@ -184,12 +188,12 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 ### Tabla de surf
 
 Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
-
-### Catamarán
+### Catamarán y canoa multicasco
 
 Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
+
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
 
 De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
@@ -210,6 +214,7 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Canoa|XXX|
 |Tabla de surf|XXX|
 |Catamarán|XXX|
+
 ***
 
 # Magia
@@ -758,8 +763,8 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 > No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
 
 > Por [FaustoRolero](https://twitter.com/FaustoRolero)
-
 Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
+
 ***
 Makai Mauka 
 
