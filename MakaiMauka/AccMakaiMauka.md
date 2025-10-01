@@ -295,11 +295,11 @@ Debido a que _Hua Tarakona_ es un archipiélago, el mar es un elemento muy impor
 
 ### Terrestres
 
-No existen grandes animales herbívoros que sirvan de carga o de monta como caballos, burros o alpacas. Pero si hay grandes cerdos salvajes domesticados a los que pueden ponerse alforjas para transportar equipo y mercancías. 
+No existen grandes animales herbívoros que sirvan de carga o de monta como caballos, burros o alpacas. Pero si hay grandes cerdos salvajes domesticados a los que pueden ponerse alforjas para transportar equipo y mercancías.
 
-XXX
+Con los siglos, se han seleccionado y domesticado las iguanas de mayor tamaño por su carne y sus huevos. Hoy en día las iguanas gigantes llegan a medir a 2 metros y también se usan como animales de carga, aunque no pueden ser utilizados para montar.
 
-Reglas para los animales en entornos márinos
+Reglas para los animales en entornos marinos:
 
 * Los __animales terrestres gastan 1 de comida y agua al día en terrenos acuáticos__ como lo hacen en Desiertos o Alta Montaña.
 * Saben nadar, pero no pueden hacerlo durante mucho tiempo, quizas lo suficiente para atravesar un río llegar desde la playa a un islote cercano. Por ello, como tus _hauka_, solo podrán __viajar por mar en embarcaciones__.
@@ -308,11 +308,11 @@ Reglas para los animales en entornos márinos
 
 Dentro de los animales acuáticos que pueden acompañarte tenemos:
 
-* Tortugas marinas. 
-* Delfines.
-* XXX
+* **Delfines.** Bastante inteligentes y rápidos, pero no siempre dispuestos a trabajar, prefieren jugar y holgazanear. 
+* **Tortugas marinas.** Debido a su longevidad hay tortugas que han sido acompañantes de varias generaciones de isleños.
+* **Tiburones «herbívoros».** Hablamos de grandes tiburones no agresivos. No se alimentan cazando otros peces, sino que comen plancton y otros pequeños crustáceos.   
 
-Estos animales no pueden ser montados, pero pueden tirar de una embarcación como canoas y catamaranes.
+Estos animales no pueden ser montados, pero pueden tirar de una embarcación como canoas y catamaranes permitiendo llevar más carga o ir más rápido, incluso cuando hay «calma chicha».
 
 XXX
 
@@ -321,11 +321,11 @@ XXX
 Las islas de _Hua Tarakona_ suponen nuevos tipos de terrenos como playas o volcanes, pero teniendo en cuenta que los viajes también se hacen por mar, tenemos nuevos terrenos acuáticos o masas de aguas con algunas reglas especiales. 
 
 Hay una serie de terrenos que no deberían entrar en tus aventuras, pero eres libre de meterlos si lo deseas. Ten en cuenta que hay miles de islas en _Hua Tarakona_ y puede haber todo de tipo de terrenos.
-
 * **Desiertos, pedregales y yermos:** Todos son sustituidos por terrenos muy parecidos, los campos de lava y los volcanes.
 * **Bosques, bosques primarios y junglas:** Son sustituidos por selvas y selvas vírgenes.
 * **Montañas:** Las montañas, por su origen volcánico, son muy peligrosas y no son fáciles de atravesar. 
 * **Alta montaña:** No hay grandes montañas ni cordilleras, y aunque algunas montañas son altas y pueden tener nieve, lo normal es rodear las islas por la costa.  
+
 Las praderas, las colinas y los pantanos se quedan como están.
 
 ### Acantilados litorales
@@ -359,7 +359,6 @@ XXX
 ### Selva/Selva virgen
 
 XXX
-
 ### Volcán/Volcán activo
 
 La inmensa mayoría de las islas de _Hua Tarakona_ son de origen volcánico y bastantes de ellas tienen un volcán, pero muy pocas de ellas tienen un volcán activo. 
@@ -367,6 +366,7 @@ La inmensa mayoría de las islas de _Hua Tarakona_ son de origen volcánico y ba
 Moverse en una zona volcánica es muy complicado, no hay casi recursos y los pocos que puedas encontrar pueden ser peligrosos, pero se vuelve mucho peor cuando el volcán está activo. 
 
 Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corrimientos de tierras e incluso alguna pequeña grieta llena de borboteante lava. Si el volcán está expulsando ríos de lava, gases sulfúricos y piroclastos es imposible viajar a través de él y seguramente acabarás muerto si intentas moverte por esa zona.
+
 ### Tabla de nuevos terrenos
 
 |Terreno|Dificultad|
@@ -404,10 +404,10 @@ XXX
 ### Río navegable
 
 En las islas más grandes hay ríos navegables que los locales han aprendido a surcar con sus canoas. Estos ríos suelen ser tranquilos y fáciles de navegar. 
-
 Las comunidades del interior suelen crecer alrededor de estos ríos tanto por los recursos que ofrecen, como por las posibilidades de transporte y comunicación que ofrecen.
 
 Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, un terreno muy distintos en el que tus canoas no valen para nada.
+
 ### Eventos durante el viaje en el mar
 
 En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
