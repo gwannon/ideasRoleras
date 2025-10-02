@@ -1,10 +1,10 @@
 # Viajar
 
-XXX
+Viajar es el _leitmotiv_ de las aventuras de Ryuutama y también lo es el de esta ambientación. Pero en «Makai Mauka» a ser un mundo que es un gigantesco archipiélago el viajar se complica, ya que exigirá muchas veces trayectos por mar. Este tipo de viajes no están reflejados en las reglas del manual básico y es por ello que se han creado reglas específicas para estas situaciones. 
 
 ## Animales acompañantes
 
-Debido a que _Hua Tarakona_ es un archipiélago, el mar es un elemento muy importante que marca muchos aspectos de los viajes. En el caso de los animales acompañantes debemos dividirlos en animales terrestres y acuáticos a la hora de establecer.
+La presencia de grandes masas de agua en _Hua Tarakona_ hace que, en el caso de los animales acompañantes, debemas dividirlos en animales terrestres y acuáticos a la hora de establecer como se alimentan y viajan o qué tipos de animales pueden llevar tus _hauka_.
 
 ### Terrestres
 
@@ -29,13 +29,13 @@ Estos animales no pueden ser montados, pero pueden tirar de una embarcación com
 
 XXX
 
+\sp
+
 ## Terrenos
 
 Las islas de _Hua Tarakona_ suponen nuevos tipos de terrenos como playas o volcanes, pero teniendo en cuenta que los viajes también se hacen por mar, tenemos nuevos terrenos acuáticos o masas de aguas con algunas reglas especiales. 
 
 Hay una serie de terrenos que no deberían entrar en tus aventuras, pero eres libre de meterlos si lo deseas. Ten en cuenta que hay miles de islas en _Hua Tarakona_ y puede haber todo de tipo de terrenos.
-
-\sp
 
 * **Desiertos, pedregales y yermos:** Todos son sustituidos por terrenos muy parecidos, los campos de lava y los volcanes.
 * **Bosques, bosques primarios y junglas:** Son sustituidos por selvas y selvas vírgenes.
@@ -66,6 +66,8 @@ XXX
 
 No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitios peligrosos debido a su origen volcánico. Puede haber abruptos precipicios y estrechos pasos originados por temblores, muros de lava solidificada o laderas llenas de puntiagudas piedras basálticas.
 
+\sp
+
 ### Playa
 
 Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante fácil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
@@ -75,8 +77,6 @@ XXX
 ### Selva/Selva virgen
 
 XXX
-
-\sp
 
 ### Volcán/Volcán activo
 
@@ -102,6 +102,8 @@ El mar siempre debería estar presente en las aventuras. Es una fuente interesan
 
 Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
 
+\sp
+
 ### Reglas para los viajes
 
 XXX
@@ -123,8 +125,6 @@ XXX
 ### Río navegable
 
 En las islas más grandes hay ríos navegables que los locales han aprendido a surcar con sus canoas. Estos ríos suelen ser tranquilos y fáciles de navegar. 
-
-\sp
 
 Las comunidades del interior suelen crecer alrededor de estos ríos tanto por los recursos que ofrecen, como por las posibilidades de transporte y comunicación que ofrecen.
 
@@ -157,6 +157,8 @@ En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. En
 |Arrecifes|12|
 |Mar abierto|14|
 
+\sp
+
 ## Clima
 
 En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_kau_) e invierno (_hooilo_). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia.
@@ -164,7 +166,3 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
 XXX
-
-\sp
-
-&nbsp;
