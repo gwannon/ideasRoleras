@@ -295,9 +295,11 @@ La presencia de grandes masas de agua en _Hua Tarakona_ hace que, en el caso de 
 
 ### Terrestres
 
-No existen grandes animales herbívoros que sirvan de carga o de monta como caballos, burros o alpacas. Pero si hay grandes cerdos salvajes domesticados a los que pueden ponerse alforjas para transportar equipo y mercancías.
+No existen grandes animales herbívoros que sirvan de carga o de monta como caballos, burros o alpacas. Pero si hay grandes **cerdos salvajes** domesticados a los que pueden ponerse alforjas para transportar equipo y mercancías.
 
-Con los siglos, se han seleccionado y domesticado las iguanas de mayor tamaño por su carne y sus huevos. Hoy en día las iguanas gigantes llegan a medir a 2 metros y también se usan como animales de carga, aunque no pueden ser utilizados para montar.
+Con los siglos, se han seleccionado y domesticado las **iguanas de mayor tamaño** por su carne y sus huevos. Hoy en día las iguanas gigantes llegan a medir a 2 metros y también se usan como animales de carga, aunque no pueden ser utilizados para montar.
+
+Un proceso muy parecido lo tuvieron las **tortugas terrestres** (y también marinas). Se empezaron a domesticar por su carne, sus huevos y su caparazón y hoy en día se han convertido en animales de carga que permiten con una especie de silla de madera que se ajusta a su caparazón transportar cargas pesadas. No son los animales más rápidos, pero son fuertes, dóciles, resistentes y no escapan ante depredadores, solo se refugian en sus caparazones. 
 
 Reglas para los animales en entornos marinos:
 
@@ -315,6 +317,11 @@ Dentro de los animales acuáticos que pueden acompañarte tenemos:
 Estos animales no pueden ser montados, pero pueden tirar de una embarcación como canoas y catamaranes permitiendo llevar más carga o ir más rápido, incluso cuando hay «calma chicha».
 
 XXX
+
+## Tecnología
+
+Inventos como la rueda, XXX
+
 ## Terrenos
 
 Las islas de _Hua Tarakona_ suponen nuevos tipos de terrenos como playas o volcanes, pero teniendo en cuenta que los viajes también se hacen por mar, tenemos nuevos terrenos acuáticos o masas de aguas con algunas reglas especiales. 
@@ -345,10 +352,10 @@ Debido a la orografía de las islas, los riachuelos son la manera más rápida d
 El único problema es salvar los saltos de agua. Mientras más cerca se está de la cima de las montañas más grandes suelen ser. Esos saltos de agua son peligroso tanto al bajarlos como al subirlos.
 
 XXX
-
 ### Montaña
 
 No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitios peligrosos debido a su origen volcánico. Puede haber abruptos precipicios y estrechos pasos originados por temblores, muros de lava solidificada o laderas llenas de puntiagudas piedras basálticas.
+
 ### Playa
 
 Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante fácil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
@@ -380,8 +387,8 @@ Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corri
 ## Masas de agua
 
 El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además, es un entorno cambiante y lo que ayer estaba en un lugar puede haber desaparecido la siguiente vez.
-
 Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
+
 ### Reglas para los viajes
 
 XXX
@@ -410,21 +417,20 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 ### Eventos durante el viaje en el mar
 
-En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
+En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
 
 |Evento|Condiciones|
 |---|---|
 |Golpes contra los aparejos o el mástil|Herido (４)|
-|Mareos|Mareado (４)|
+|Oleaje|Mareado (４)|
 |Comida o bebida en mal estado|Envenenado (４)|
 |Insolación|Enfermo (４)|
-|XXX|Cansado (４)|
+|Día sin viento|Cansado (４)|
 |Caída desde mástil o el velamen|Herido (6)|
-|XXX|Mareado (6)|
-|XXX|Envenenado (6)|
-|XXX|Enfermo (6)|
-|XXX|Cansado (6)|
-
+|Gran oleaje|Mareado (6)|
+|Picadura venenosa de medusa o mantarraya|Envenenado (6)|
+|Bebida en mal estado|Enfermo (6)|
+|Corrientes fuertes|Cansado (6)|
 ### Tabla de masas de agua
 
 |Masa de agua|Dificultad|
