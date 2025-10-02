@@ -59,7 +59,11 @@ XXX
 
 ### Campos de lava
 
-XXX
+Estos terrenos son lugares en los que hace años, si no siglos o milenios, paso una lengua de lava y cuando se solidificó se convirtió en un extraño lugar con estructuras de formas insólitas. Las formas que ha dejado la lava pueden crear enrevesados laberintos de piedra, dunas de roca, etc.
+
+Con los años la naturaleza ha ido tomando el lugar. Ya se empieza a ver flora y fauna, aunque normalmente han tomado exóticas vías de evolución para adaptarse a este terreno.
+
+\sp
 
 ### Riachuelos
 
@@ -68,8 +72,6 @@ Debido a la orografía de las islas, los riachuelos son la manera más rápida d
 El único problema es salvar los saltos de agua. Mientras más cerca se está de la cima de las montañas más grandes suelen ser. Esos saltos de agua son peligroso tanto al bajarlos como al subirlos.
 
 XXX
-
-\sp
 
 ### Montaña
 
@@ -103,11 +105,11 @@ Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corri
 |Volcán|12|
 |Volcán activo|14|
 
+\sp
+
 ## Masas de agua
 
 El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además, es un entorno cambiante y lo que ayer estaba en un lugar puede haber desaparecido la siguiente vez.
-
-\sp
 
 Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
 
@@ -141,6 +143,8 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
 
+\sp
+
 |Evento|Condiciones|
 |---|---|
 |Golpes contra los aparejos o el mástil|Herido (４)|
@@ -153,8 +157,6 @@ En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. De
 |Picadura venenosa de medusa o mantarraya|Envenenado (6)|
 |Bebida en mal estado|Enfermo (6)|
 |Corrientes fuertes|Cansado (6)|
-
-\sp
 
 ### Tabla de masas de agua
 
