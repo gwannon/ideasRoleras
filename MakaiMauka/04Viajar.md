@@ -32,13 +32,13 @@ Dentro de los animales acuáticos que pueden acompañarte tenemos:
 * **Tortugas marinas.** Debido a su longevidad hay tortugas que han sido acompañantes de varias generaciones de isleños.
 * **Tiburones «herbívoros».** Hablamos de grandes tiburones no agresivos. No se alimentan cazando otros peces, sino que comen plancton y otros pequeños crustáceos.   
 
-Estos animales no pueden ser montados, pero pueden tirar de una embarcación como canoas y catamaranes permitiendo llevar más carga o ir más rápido, incluso cuando hay «calma chicha».
+Reglas para los animales acuáticos
 
-XXX
+* Estos animales **no pueden ser montados**, pero puedes agarrarte a ellos para que te lleven en trayectos cortos.
+* Pueden **tirar de una embarcación** como canoas y catamaranes permitiendo llevar más carga o ir más rápido, incluso cuando hay «calma chicha».
+* Dentro del agua los animales acuáticos **no generan gastos de comida y agua**. Si acaso, en situaciones especiales como mares muertos podrían suponer un gasto en comida.
 
-## Tecnología
-
-Inventos como la rueda, XXX
+Aunque algunos de los animales anteriores son anfibios, normalmente tendrán un ambiente al que estarán mejor adaptados. Por ejemplo, las tortugas marinas salen a la playa a desovar, pero no es su medio natural, por lo que son lentas y torpes.
 
 ## Terrenos
 
@@ -57,15 +57,15 @@ Las praderas, las colinas y los pantanos se quedan como están.
 
 Las zonas de la costa que no son playas suelen ser acantilados poblados de aves marinas con las olas chocando violentamente contra ellos. Con las mareas bajas suelen descubrirse cuevas y zonas con charcas donde pescar y recolectar crustáceos y bivalvos en las charcas que quedan al retirarse la marea.
 
-XXX
+\sp
+
+Pero hay que tener cuidado y vigilar las mareas o puedes quedarte encerrado o incluso ahogarte porque ha subido la marea y las olas te empujen a las afiladas rocas del acantilado.
 
 ### Campos de lava
 
-Estos terrenos son lugares en los que hace años, si no siglos o milenios, paso una lengua de lava y cuando se solidificó se convirtió en un extraño lugar con estructuras de formas insólitas. Las formas que ha dejado la lava pueden crear enrevesados laberintos de piedra, dunas de roca, etc.
+Estos terrenos son lugares en los que hace años, si no siglos o milenios, paso una lengua de lava y cuando se solidificó se convirtió en un extraño lugar con estructuras de formas insólitas. Las figuras que ha dejado la lava pueden crear enrevesados laberintos de piedra, dunas de roca, etc.
 
 Con los años la naturaleza ha ido tomando el lugar. Ya se empieza a ver flora y fauna, aunque normalmente han tomado exóticas vías de evolución para adaptarse a este terreno.
-
-\sp
 
 ### Riachuelos
 
@@ -73,21 +73,25 @@ Debido a la orografía de las islas, los riachuelos son la manera más rápida d
 
 El único problema es salvar los saltos de agua. Mientras más cerca se está de la cima de las montañas más grandes suelen ser. Esos saltos de agua son peligroso tanto al bajarlos como al subirlos.
 
-XXX
-
 ### Montaña
 
 No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitios peligrosos debido a su origen volcánico. Puede haber abruptos precipicios y estrechos pasos originados por temblores, muros de lava solidificada o laderas llenas de puntiagudas piedras basálticas.
 
+En los más altos puede haber incluso nieve en abundancia en invierno y neveros el resto del año. No son extrañas historias de valientes _hauka_ que emprender un viaje para conocer la nieve y ganarse la gracia de Poliʻahu, la diosa de las cimas nieves.
+
 ### Playa
 
-Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante fácil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos. La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de playa, especialmente si están guarecidas de las corrientes y el oleaje.  
+Las playas de las islas son una maravilla para la vista. Largas y de arena fina con palmeras cocoteras donde las que conseguir alimento y bebida es bastante fácil, pero también otros materiales como hojas de palma para hacer tejidos, algas para medicinas o espinas y dientes de tiburón para hacer armas y anzuelos.
 
-XXX
+La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuentran cerca de la playa, especialmente si están guarecidas de las corrientes y el oleaje.  
 
 ### Selva/Selva virgen
 
-XXX
+Los interiores de la mayoría de las islas de _Hua Tarakona_ son selvas, áreas boscosas llenas de altos árboles y mucha vegetación por debajo de estos. Se pueden sacar importantes recursos de todo tipo de las selvas, pero hay que ser cuidadosos porque siempre hay algún peligro.
+
+\sp
+
+En las zonas interiores, los árboles son tan frondosos que la luz del sol casi no entra. Estas partes no suelen ser visitadas por los isleños, incluso hay partes en las que los humanos no han pisado. Estas selvas vírgenes pueden suponer grandes peligros en forma de bestias salvajes, trampas y enfermedades, pero esconden también recompensas en forma de tesoros escondidos en templos perdidos cubiertos de vegetación.
 
 ### Volcán/Volcán activo
 
@@ -107,8 +111,6 @@ Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corri
 |Volcán|12|
 |Volcán activo|14|
 
-\sp
-
 ## Masas de agua
 
 El mar siempre debería estar presente en las aventuras. Es una fuente interesante de aventuras tanto por peligroso e inexplorado como por las cosas que puede dejar la marea en la playa. Además, es un entorno cambiante y lo que ayer estaba en un lugar puede haber desaparecido la siguiente vez.
@@ -118,6 +120,8 @@ Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un g
 ### Reglas para los viajes
 
 XXX
+
+\sp
 
 ### Arrecifes
 
@@ -145,8 +149,6 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
 
-\sp
-
 |Evento|Condiciones|
 |---|---|
 |Golpes contra los aparejos o el mástil|Herido (４)|
@@ -170,7 +172,7 @@ En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. De
 |Arrecifes|12|
 |Mar abierto|14|
 
-\sc
+\sp
 
 ## Clima
 
@@ -179,3 +181,11 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
 XXX
+
+## Tecnología
+
+Inventos como la rueda, XXX
+
+\sp
+
+&nbsp;
