@@ -4,7 +4,7 @@ Viajar es el _leitmotiv_ de las aventuras de Ryuutama y también lo es el de est
 
 ## Animales acompañantes
 
-La presencia de grandes masas de agua en _Hua Tarakona_ hace que, en el caso de los animales acompañantes, debemas dividirlos en animales terrestres y acuáticos a la hora de establecer como se alimentan y viajan o qué tipos de animales pueden llevar tus _hauka_.
+La presencia de grandes masas de agua en _Hua Tarakona_ hace que, en el caso de los animales acompañantes, debemos dividirlos en animales terrestres y acuáticos a la hora de establecer como se alimentan y viajan o qué tipos de animales pueden llevar tus _hauka_.
 
 ### Terrestres
 
@@ -12,7 +12,9 @@ No existen grandes animales herbívoros que sirvan de carga o de monta como caba
 
 Con los siglos, se han seleccionado y domesticado las **iguanas de mayor tamaño** por su carne y sus huevos. Hoy en día las iguanas gigantes llegan a medir a 2 metros y también se usan como animales de carga, aunque no pueden ser utilizados para montar.
 
-Un proceso muy parecido lo tuvieron las **tortugas terrestres** (y también marinas). Se empezaron a domesticar por su carne, sus huevos y su caparazón y hoy en día se han convertido en animales de carga que permiten con una especie de silla de madera que se ajusta a su caparazón transportar cargas pesadas. No son los animales más rápidos, pero son fuertes, dóciles, resistentes y no escapan ante depredadores, solo se refugian en sus caparazones. 
+Un proceso muy parecido lo tuvieron las **tortugas terrestres** (y también marinas). Se empezaron a domesticar por su carne, sus huevos y su caparazón y hoy en día se han convertido en animales de carga que permiten con una especie de silla de madera que se ajusta a su caparazón transportar cargas pesadas. No son los animales más rápidos, pero son fuertes, dóciles, resistentes y no escapan ante depredadores, solo se refugian en sus caparazones.
+
+Se sabe que en islas recónditas del archipiélago sus habitantes usan **cangrejos rojos gigantes** para transportar carga, pero no es un sistema muy eficiente de las zonas donde habitan los cangrejos rojos. 
 
 Reglas para los animales en entornos marinos:
 
@@ -23,11 +25,11 @@ Reglas para los animales en entornos marinos:
 
 Dentro de los animales acuáticos que pueden acompañarte tenemos:
 
-* **Delfines.** Bastante inteligentes y rápidos, pero no siempre dispuestos a trabajar, prefieren jugar y holgazanear. 
-* **Tortugas marinas.** Debido a su longevidad hay tortugas que han sido acompañantes de varias generaciones de isleños.
+* **Delfines.** Bastante inteligentes y rápidos, pero no siempre dispuestos a trabajar, prefieren jugar y holgazanear.
 
 \sp
 
+* **Tortugas marinas.** Debido a su longevidad hay tortugas que han sido acompañantes de varias generaciones de isleños.
 * **Tiburones «herbívoros».** Hablamos de grandes tiburones no agresivos. No se alimentan cazando otros peces, sino que comen plancton y otros pequeños crustáceos.   
 
 Estos animales no pueden ser montados, pero pueden tirar de una embarcación como canoas y catamaranes permitiendo llevar más carga o ir más rápido, incluso cuando hay «calma chicha».
