@@ -175,7 +175,7 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 |Masa de agua|Dificultad|
 |---|---|
-|Playa, Río navegable|6|
+|Río navegable|6|
 |Costa cubierta|8|
 |Costa expuesta|10|
 |Arrecifes|12|
@@ -185,7 +185,7 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. 
 
-En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
+La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en las travesías para darles variedad y emoción.
 
 \sp
 
@@ -204,11 +204,24 @@ En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como
 
 ### Reglas para los viajes
 
-XXX
+Los viajes por mar son muy diferentes a los viajes por tierra que propone el manual básico. Es por ello que tienen reglas especiales que puedes aplicar en tus aventuras en _Hua Tarakona_. XXX
 
+* La tirada de Acampar se convierte en la tirada de XXX
 * El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
 
-El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+Sobre las velocidades, en un día de buen tiempo y con viento un catamarán podría recorrer 60 km, es decir 2 casillas, pero si no hay buen tiempo, solo 30 km. En casos de que no haya viento, no avanzará nada a no ser que se saquen los remos con lo que avanzarán 30 km (1 casilla), con lo que al día siguiente estarán bastante cansados (4).
+
+En caso de tormenta no podrán avanzar nada, tendrán suficiente con mantenerse a flote y pasar la tormenta. Pasar un día entero luchando contra la tormenta mojado y sin poder descansar ni comer supone un gran esfuerzo lo que supone que tras la tormenta estarán tremendamente cansados (6).
+
+En las zonas de arrecifes deberán quitar la velas y ponerse a remar para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará cansado (4).
+
+Los ciclones no son eventos que deberían aparecer aleatoriamente, sino parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse para superarlo. Veamos algunas ideas:
+
+* XXX
+
+Un ciclón pude terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+
+\sp
 
 * Aparecerán en una playa desierta donde no parece que haya civilización cerca.
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
@@ -226,13 +239,14 @@ XXX
 
 La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a que objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
 
-Inventos como la rueda, XXX
+\sc
 
-\sp
+**La rueda no está desarrollada**. Los isleños hacen rodar troncos para mover objetos pesados como canoas y catamaranes, pero no lo han aplicado en la creación de carros, en parte debido a la falta de fuertes animales de tiro.
+La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
 
-La brújula, tan útil en la navegación, es una desconocida para los isleños. XXX
+Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
-Las embarcaciones son totalmente de madera, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
+Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a comoda ropa, pasando por fuertes cestas y mochillas
 
 \sp
 

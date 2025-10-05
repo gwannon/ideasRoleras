@@ -429,7 +429,7 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 |Masa de agua|Dificultad|
 |---|---|
-|Playa, Río navegable|6|
+|Río navegable|6|
 |Costa cubierta|8|
 |Costa expuesta|10|
 |Arrecifes|12|
@@ -439,7 +439,7 @@ Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, 
 
 En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. 
 
-En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
+La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en las travesías para darles variedad y emoción.
 |Evento|Condiciones|
 |---|---|
 |Golpes contra los aparejos o el mástil|Herido (４)|
@@ -455,12 +455,22 @@ En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como
 
 ### Reglas para los viajes
 
-XXX
+Los viajes por mar son muy diferentes a los viajes por tierra que propone el manual básico. Es por ello que tienen reglas especiales que puedes aplicar en tus aventuras en _Hua Tarakona_. XXX
 
+* La tirada de Acampar se convierte en la tirada de XXX
 * El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
 
-El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+Sobre las velocidades, en un día de buen tiempo y con viento un catamarán podría recorrer 60 km, es decir 2 casillas, pero si no hay buen tiempo, solo 30 km. En casos de que no haya viento, no avanzará nada a no ser que se saquen los remos con lo que avanzarán 30 km (1 casilla), con lo que al día siguiente estarán bastante cansados (4).
 
+En caso de tormenta no podrán avanzar nada, tendrán suficiente con mantenerse a flote y pasar la tormenta. Pasar un día entero luchando contra la tormenta mojado y sin poder descansar ni comer supone un gran esfuerzo lo que supone que tras la tormenta estarán tremendamente cansados (6).
+
+En las zonas de arrecifes deberán quitar la velas y ponerse a remar para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará cansado (4).
+
+Los ciclones no son eventos que deberían aparecer aleatoriamente, sino parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse para superarlo. Veamos algunas ideas:
+
+* XXX
+
+Un ciclón pude terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
 * Aparecerán en una playa desierta donde no parece que haya civilización cerca.
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
 * Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
@@ -476,11 +486,12 @@ XXX
 ## Tecnología
 
 La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a que objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
+**La rueda no está desarrollada**. Los isleños hacen rodar troncos para mover objetos pesados como canoas y catamaranes, pero no lo han aplicado en la creación de carros, en parte debido a la falta de fuertes animales de tiro.
+La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
 
-Inventos como la rueda, XXX
-La brújula, tan útil en la navegación, es una desconocida para los isleños. XXX
+Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
-Las embarcaciones son totalmente de madera, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
+Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a comoda ropa, pasando por fuertes cestas y mochillas
 
 ***
 
@@ -497,15 +508,15 @@ Los monstruos de esta ambientación pueden ser terrestres, acuáticos o anfibios
 ## Kupua, espíritus diabólicos y vengativos
 Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. No son grandes espíritus, sino menores con aspecto y ciertas capacidades mágicas relacionadas con su forma alternativa. 
 
-Hay kupuas de todo tipo de formas, desde animales como perros o jabalíes a plantas o incluso nubes y rocas. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
+Hay kupuas de todo tipo, desde animales como perros o jabalíes a plantas o incluso nubes y rocas. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
 
 Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
 ### Kupua de agua
 
-Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos.
+Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos. Se dice que no pueden abandonar el agua y por lo menos una de sus extremidades tiene que estar en contacto con el agua.
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Acuáticos
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -514,14 +525,14 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nada a gran velocidad.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Playas, ríos navegables y riachuelos 
 * **XXX/Marea:** XXX
 
 ### Kupua de aire
 
 Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -529,15 +540,15 @@ Pueden transformarse en águilas y halcones de gran tamaño con terribles garras
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma animal.
-* **Terreno habitual:** XXX
+* **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma de ave.
+* **Terreno habitual:** Montañas y acantilados de los litorales
 * **XXX/Marea:** XXX
 
 ### Kupua de Fuego
 
 Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca al rojo vivo y/o lava.
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -553,7 +564,7 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 
 Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -562,7 +573,7 @@ Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangible
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Montañas y mar abierto
 * **XXX/Marea:** XXX
 
 ### Kupua plantas
@@ -571,7 +582,7 @@ Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidad
 
 Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
 
-* **Nivel/Tipo:** Terrestre*
+* **Nivel/Tipo:** XXX / Terrestre*
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -580,7 +591,7 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Selvas virgenes
 * **XXX/Marea:** XXX
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
@@ -594,7 +605,7 @@ Suelen ser espíritus burlones y vividores que disfruta de la vida y gustan de r
 Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen extraordinariamente bien, quizás sean unas surfistas increíbles, grandes artesanas o excepcionales cantantes. Puede que tus _hauka_ tengan que buscar una _moʻo_ con habilidades especiales que les ayude.
 ### Humanoide
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -603,12 +614,12 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Riachuelos
 * **XXX/Marea:** XXX
 
 ### Gran lagarto
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Anfibio
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -617,7 +628,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Riachuelos
 * **XXX/Marea:** XXX
 
 ## Nanaue, escualiántropos 
@@ -664,7 +675,7 @@ Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte d
 * **Impactar/Daño:** d10+d8 / d10
 * **Defensa:** 4
 * **Habilidad especial:** **Capacidades mágicas.** Pueden usar todos los Conjuros de Magia de su marea predilecta.
-* **Terreno habitual:** Acantilados, Mar abierto, Playa, Río navegable
+* **Terreno habitual:** Acantilados, mar abierto, playas y ríos navegables
 * **Marea:** Cada _taniwha_ tiene su marea predilecta.
 
 ## Animales
@@ -675,7 +686,7 @@ Las islas no tienen grandes animales terrestres que pudieran ser un problema par
 
 XXX
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -693,7 +704,7 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 
 Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
 
-* **Nivel/Tipo:** XXX/Acuático
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -708,7 +719,7 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 
 No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
 
-* **Nivel/Tipo:** XXX/Acuático
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX

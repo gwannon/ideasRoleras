@@ -18,15 +18,15 @@ Los monstruos de esta ambientación pueden ser terrestres, acuáticos o anfibios
 
 Los kupuas son espíritus normalmente diabólicos y vengativos con poderes de cambiaformas. No son grandes espíritus, sino menores con aspecto y ciertas capacidades mágicas relacionadas con su forma alternativa. 
 
-Hay kupuas de todo tipo de formas, desde animales como perros o jabalíes a plantas o incluso nubes y rocas. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
+Hay kupuas de todo tipo, desde animales como perros o jabalíes a plantas o incluso nubes y rocas. Si se transforma en ave puede volar y tiene garras terribles, si se transforma en tiburón puede nadar como un pez y tiene terribles dientes.
 
 Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si tienen que atacar lo harán sin dudar.
 
 ### Kupua de agua
 
-Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos.
+Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos. Se dice que no pueden abandonar el agua y por lo menos una de sus extremidades tiene que estar en contacto con el agua.
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Acuáticos
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -35,14 +35,14 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nada a gran velocidad.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Playas, ríos navegables y riachuelos 
 * **XXX/Marea:** XXX
 
 ### Kupua de aire
 
 Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -53,15 +53,15 @@ Pueden transformarse en águilas y halcones de gran tamaño con terribles garras
 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma animal.
-* **Terreno habitual:** XXX
+* **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma de ave.
+* **Terreno habitual:** Montañas y acantilados de los litorales
 * **XXX/Marea:** XXX
 
 ### Kupua de Fuego
 
 Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca al rojo vivo y/o lava.
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -77,7 +77,7 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 
 Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -86,7 +86,7 @@ Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangible
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Montañas y mar abierto
 * **XXX/Marea:** XXX
 
 ### Kupua plantas
@@ -95,7 +95,7 @@ Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidad
 
 Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
 
-* **Nivel/Tipo:** Terrestre*
+* **Nivel/Tipo:** XXX / Terrestre*
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -104,7 +104,7 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Selvas virgenes
 * **XXX/Marea:** XXX
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
@@ -135,7 +135,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 
 ### Humanoide
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -144,12 +144,12 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Riachuelos
 * **XXX/Marea:** XXX
 
 ### Gran lagarto
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Anfibio
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -158,7 +158,7 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Riachuelos
 * **XXX/Marea:** XXX
 
 \sinc
@@ -224,7 +224,7 @@ Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte d
 * **Impactar/Daño:** d10+d8 / d10
 * **Defensa:** 4
 * **Habilidad especial:** **Capacidades mágicas.** Pueden usar todos los Conjuros de Magia de su marea predilecta.
-* **Terreno habitual:** Acantilados, Mar abierto, Playa, Río navegable
+* **Terreno habitual:** Acantilados, mar abierto, playas y ríos navegables
 * **Marea:** Cada _taniwha_ tiene su marea predilecta.
 
 ## Animales
@@ -235,7 +235,7 @@ Las islas no tienen grandes animales terrestres que pudieran ser un problema par
 
 XXX
 
-* **Nivel/Tipo:** XXX
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -253,7 +253,7 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 
 Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
 
-* **Nivel/Tipo:** XXX/Acuático
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -271,7 +271,7 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 
 No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
 
-* **Nivel/Tipo:** XXX/Acuático
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
