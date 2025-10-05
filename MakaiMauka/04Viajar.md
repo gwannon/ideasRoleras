@@ -59,6 +59,12 @@ Las zonas de la costa que no son playas suelen ser acantilados poblados de aves 
 
 \sp
 
+\sinc
+
+[![Tropical island cartoon poster with rising sun above sea vector illustration by macrovector](./images/2211_i126_021_F_m005_c9_tropical_island.jpg "Tropical island cartoon poster with rising sun above sea vector illustration by macrovector")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Tropical island cartoon poster with rising sun above sea vector illustration by macrovector")
+
+\conc
+
 Pero hay que tener cuidado y vigilar las mareas o puedes quedarte encerrado o incluso ahogarte porque ha subido la marea y las olas te empujen a las afiladas rocas del acantilado.
 
 ### Campos de lava
@@ -77,6 +83,14 @@ El único problema es salvar los saltos de agua. Mientras más cerca se está de
 
 No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitios peligrosos debido a su origen volcánico. Puede haber abruptos precipicios y estrechos pasos originados por temblores, muros de lava solidificada o laderas llenas de puntiagudas piedras basálticas.
 
+\sp
+
+\sinc
+
+[![Volcanic lava erupt landscape prehistoric volcano by upklyak](./images/a00270e5-6997-4c08-972e-eb2dcf051fb0.jpg "Volcanic lava erupt landscape prehistoric volcano by upklyak")](https://www.freepik.com/free-vector/volcanic-lava-erupt-landscape-prehistoric-volcano_375731237.htm "Volcanic lava erupt landscape prehistoric volcano by upklyak")
+
+\conc
+
 En los más altos puede haber incluso nieve en abundancia en invierno y neveros el resto del año. No son extrañas historias de valientes _hauka_ que emprender un viaje para conocer la nieve y ganarse la gracia de Poliʻahu, la diosa de las cimas nieves.
 
 ### Playa
@@ -89,8 +103,6 @@ La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuent
 
 Los interiores de la mayoría de las islas de _Hua Tarakona_ son selvas, áreas boscosas llenas de altos árboles y mucha vegetación por debajo de estos. Se pueden sacar importantes recursos de todo tipo de las selvas, pero hay que ser cuidadosos porque siempre hay algún peligro.
 
-\sp
-
 En las zonas interiores, los árboles son tan frondosos que la luz del sol casi no entra. Estas partes no suelen ser visitadas por los isleños, incluso hay partes en las que los humanos no han pisado. Estas selvas vírgenes pueden suponer grandes peligros en forma de bestias salvajes, trampas y enfermedades, pero esconden también recompensas en forma de tesoros escondidos en templos perdidos cubiertos de vegetación.
 
 ### Volcán/Volcán activo
@@ -98,6 +110,8 @@ En las zonas interiores, los árboles son tan frondosos que la luz del sol casi 
 La inmensa mayoría de las islas de _Hua Tarakona_ son de origen volcánico y bastantes de ellas tienen un volcán, pero muy pocas de ellas tienen un volcán activo. 
 
 Moverse en una zona volcánica es muy complicado, no hay casi recursos y los pocos que puedas encontrar pueden ser peligrosos, pero se vuelve mucho peor cuando el volcán está activo. 
+
+\sp
 
 Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corrimientos de tierras e incluso alguna pequeña grieta llena de borboteante lava. Si el volcán está expulsando ríos de lava, gases sulfúricos y piroclastos es imposible viajar a través de él y seguramente acabarás muerto si intentas moverte por esa zona.
 
@@ -117,25 +131,37 @@ El mar siempre debería estar presente en las aventuras. Es una fuente interesan
 
 Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
 
-### Reglas para los viajes
-
-XXX
-
-\sp
-
 ### Arrecifes
 
-XXX
+Los arrecifes son rocas, banco de arena, o cualquier otro elemento que yace a pocos metros de la superficie o incluso sobre la superficie del agua durante marea baja. Los arrecifes son un gran peligro para las embarcaciones, ya que pueden encallar o destrozarlas, pero también son una buena defensa natural contra intrusos que lleguen por mar.
+
+Cuando hablamos de arrecifes no nos referimos a una masa de arrecifes sino a zonas grandes del mar donde hay gran cantidad de arrecifes.
+
+Los arrecifes suelen estar cerca de la costa, ya que en mar abierto la profundidad es demasiada para que las rocas del fondo sean un problema. No es raro encontrarse onas de arrecifes que rodean total o parcialmente una isla o islote.
 
 ### Mar abierto
 
-XXX
+Una vez dejas de ver tierra firme entras en la gran nada que significa el mar abierto, solo hay agua a tu alrededor y eso será lo único que verás en día. Aquí tus _hauka_ están solos a merced del agua y del viento. No hay ayuda posible y los encuentros con otras embarcaciones pueden ser peligrosas. 
+
+Las cosas pueden cambiar drásticamente en mar abierto pasando de estar el agua como plato sin pizca de aire a vientos fuertísimos, lluvia torrencial y olas terribles. 
+
+\sp
+
+\sinc
+
+[![River in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak](./images/2305.w026.n002.3635B.p1.3635.jpg "River in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak")](https://www.freepik.com/free-vector/river-jungle-forest-vector-tropical-landscape-background-lake-water-cartoon-nature-illustration-with-grass-creeper-wild-amazon-scenery-rainforest-game-scene-design-with-beautiful-valley_61914186.htm "River in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak")
+
+\conc
+
+No querrás estar en mar abierto una noche de tormenta, porque normalmente
+
+La gente del mar de _Hua Tarakona_ no suelen adentrarse en mar abierto, prefieren ir de isla en isla, ya que aunque sea más lento es mucho más seguro.
 
 ### Costa
 
-En el momento que dejas de ver tierra entras en mar abierto. Aquí tus _hauka_ están solos a merced del agua y del viento. No hay ayuda posible y los encuentros con otras embarcaciones pueden ser peligrosas.
+Mientras veas tierra podemos hablar de que estás en la costa y en caso de peligro podrás refugiarte en tierra firme.
 
-XXX
+La costa puede ser abierta con lo que todo el oleaje del mar os den de lleno y los lance contra las rocas de la costa o de costa cubierta, zonas protegidas del oleaje donde poder fondear durante la tormenta de forma segura.
 
 ### Río navegable
 
@@ -145,9 +171,23 @@ Las comunidades del interior suelen crecer alrededor de estos ríos tanto por lo
 
 Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, un terreno muy distintos en el que tus canoas no valen para nada.
 
+### Tabla de masas de agua
+
+|Masa de agua|Dificultad|
+|---|---|
+|Playa, Río navegable|6|
+|Costa cubierta|8|
+|Costa expuesta|10|
+|Arrecifes|12|
+|Mar abierto|14|
+
 ### Eventos durante el viaje en el mar
 
-En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
+En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. 
+
+En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
+
+\sp
 
 |Evento|Condiciones|
 |---|---|
@@ -162,17 +202,17 @@ En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. De
 |Bebida en mal estado|Enfermo (6)|
 |Corrientes fuertes|Cansado (6)|
 
-### Tabla de masas de agua
+### Reglas para los viajes
 
-|Masa de agua|Dificultad|
-|---|---|
-|Playa, Río navegable|6|
-|Costa cubierta|8|
-|Costa expuesta|10|
-|Arrecifes|12|
-|Mar abierto|14|
+XXX
 
-\sp
+* El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
+
+El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+
+* Aparecerán en una playa desierta donde no parece que haya civilización cerca.
+* Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
+* Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
 
 ## Clima
 
@@ -184,7 +224,15 @@ XXX
 
 ## Tecnología
 
+La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a que objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
+
 Inventos como la rueda, XXX
+
+\sp
+
+La brújula, tan útil en la navegación, es una desconocida para los isleños. XXX
+
+Las embarcaciones son totalmente de madera, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
 \sp
 

@@ -339,7 +339,7 @@ Las praderas, las colinas y los pantanos se quedan como están.
 
 ### Acantilados litorales
 
-Las zonas de la costa que no son playas suelen ser acantilados poblados de aves marinas con las olas chocando violentamente contra ellos. Con las mareas bajas suelen descubrirse cuevas y zonas con charcas donde pescar y recolectar crustáceos y bivalvos en las charcas que quedan al retirarse la marea.
+Las zonas de la costa que no son playas suelen ser acantilados poblados de aves marinas con las olas chocando violentamente contra ellos. Con las mareas bajas suelen descubrirse cuevas y zonas con charcas donde pescar y recolectar crustáceos y bivalvos en las charcas que quedan al retirarse la marea.[![Tropical island cartoon poster with rising sun above sea vector illustration by macrovector](./images/2211_i126_021_F_m005_c9_tropical_island.jpg "Tropical island cartoon poster with rising sun above sea vector illustration by macrovector")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Tropical island cartoon poster with rising sun above sea vector illustration by macrovector")
 Pero hay que tener cuidado y vigilar las mareas o puedes quedarte encerrado o incluso ahogarte porque ha subido la marea y las olas te empujen a las afiladas rocas del acantilado.
 
 ### Campos de lava
@@ -356,8 +356,7 @@ El único problema es salvar los saltos de agua. Mientras más cerca se está de
 
 ### Montaña
 
-No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitios peligrosos debido a su origen volcánico. Puede haber abruptos precipicios y estrechos pasos originados por temblores, muros de lava solidificada o laderas llenas de puntiagudas piedras basálticas.
-
+No hay grandes montañas en las islas de _Hua Tarakona_, pero aun así son sitios peligrosos debido a su origen volcánico. Puede haber abruptos precipicios y estrechos pasos originados por temblores, muros de lava solidificada o laderas llenas de puntiagudas piedras basálticas.[![Volcanic lava erupt landscape prehistoric volcano by upklyak](./images/a00270e5-6997-4c08-972e-eb2dcf051fb0.jpg "Volcanic lava erupt landscape prehistoric volcano by upklyak")](https://www.freepik.com/free-vector/volcanic-lava-erupt-landscape-prehistoric-volcano_375731237.htm "Volcanic lava erupt landscape prehistoric volcano by upklyak")
 En los más altos puede haber incluso nieve en abundancia en invierno y neveros el resto del año. No son extrañas historias de valientes _hauka_ que emprender un viaje para conocer la nieve y ganarse la gracia de Poliʻahu, la diosa de las cimas nieves.
 
 ### Playa
@@ -369,6 +368,7 @@ La mayoría de las comunidades (poblados, pueblos e incluso ciudades) se encuent
 ### Selva/Selva virgen
 
 Los interiores de la mayoría de las islas de _Hua Tarakona_ son selvas, áreas boscosas llenas de altos árboles y mucha vegetación por debajo de estos. Se pueden sacar importantes recursos de todo tipo de las selvas, pero hay que ser cuidadosos porque siempre hay algún peligro.
+
 En las zonas interiores, los árboles son tan frondosos que la luz del sol casi no entra. Estas partes no suelen ser visitadas por los isleños, incluso hay partes en las que los humanos no han pisado. Estas selvas vírgenes pueden suponer grandes peligros en forma de bestias salvajes, trampas y enfermedades, pero esconden también recompensas en forma de tesoros escondidos en templos perdidos cubiertos de vegetación.
 
 ### Volcán/Volcán activo
@@ -376,7 +376,6 @@ En las zonas interiores, los árboles son tan frondosos que la luz del sol casi 
 La inmensa mayoría de las islas de _Hua Tarakona_ son de origen volcánico y bastantes de ellas tienen un volcán, pero muy pocas de ellas tienen un volcán activo. 
 
 Moverse en una zona volcánica es muy complicado, no hay casi recursos y los pocos que puedas encontrar pueden ser peligrosos, pero se vuelve mucho peor cuando el volcán está activo. 
-
 Activo supone que un volcán puede expulsar gases nocivos, hay temblores y corrimientos de tierras e incluso alguna pequeña grieta llena de borboteante lava. Si el volcán está expulsando ríos de lava, gases sulfúricos y piroclastos es imposible viajar a través de él y seguramente acabarás muerto si intentas moverte por esa zona.
 
 ### Tabla de nuevos terrenos
@@ -395,22 +394,28 @@ El mar siempre debería estar presente en las aventuras. Es una fuente interesan
 
 Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un gran archipiélago como el de _Hua Tarakona_ los viajes a en barco bordeando las islas o en abierto para moverte de grupo de islas en grupo de islas son muy comunes. Es por ello que tenemos nuevos terrenos, en realidad masas de agua, para estos tipos de viajes.
 
-### Reglas para los viajes
-
-XXX
 ### Arrecifes
 
-XXX
+Los arrecifes son rocas, banco de arena, o cualquier otro elemento que yace a pocos metros de la superficie o incluso sobre la superficie del agua durante marea baja. Los arrecifes son un gran peligro para las embarcaciones, ya que pueden encallar o destrozarlas, pero también son una buena defensa natural contra intrusos que lleguen por mar.
+
+Cuando hablamos de arrecifes no nos referimos a una masa de arrecifes sino a zonas grandes del mar donde hay gran cantidad de arrecifes.
+
+Los arrecifes suelen estar cerca de la costa, ya que en mar abierto la profundidad es demasiada para que las rocas del fondo sean un problema. No es raro encontrarse onas de arrecifes que rodean total o parcialmente una isla o islote.
 
 ### Mar abierto
 
-XXX
+Una vez dejas de ver tierra firme entras en la gran nada que significa el mar abierto, solo hay agua a tu alrededor y eso será lo único que verás en día. Aquí tus _hauka_ están solos a merced del agua y del viento. No hay ayuda posible y los encuentros con otras embarcaciones pueden ser peligrosas. 
+
+Las cosas pueden cambiar drásticamente en mar abierto pasando de estar el agua como plato sin pizca de aire a vientos fuertísimos, lluvia torrencial y olas terribles. [![River in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak](./images/2305.w026.n002.3635B.p1.3635.jpg "River in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak")](https://www.freepik.com/free-vector/river-jungle-forest-vector-tropical-landscape-background-lake-water-cartoon-nature-illustration-with-grass-creeper-wild-amazon-scenery-rainforest-game-scene-design-with-beautiful-valley_61914186.htm "River in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak")
+No querrás estar en mar abierto una noche de tormenta, porque normalmente
+
+La gente del mar de _Hua Tarakona_ no suelen adentrarse en mar abierto, prefieren ir de isla en isla, ya que aunque sea más lento es mucho más seguro.
 
 ### Costa
 
-En el momento que dejas de ver tierra entras en mar abierto. Aquí tus _hauka_ están solos a merced del agua y del viento. No hay ayuda posible y los encuentros con otras embarcaciones pueden ser peligrosas.
+Mientras veas tierra podemos hablar de que estás en la costa y en caso de peligro podrás refugiarte en tierra firme.
 
-XXX
+La costa puede ser abierta con lo que todo el oleaje del mar os den de lleno y los lance contra las rocas de la costa o de costa cubierta, zonas protegidas del oleaje donde poder fondear durante la tormenta de forma segura.
 
 ### Río navegable
 
@@ -420,10 +425,21 @@ Las comunidades del interior suelen crecer alrededor de estos ríos tanto por lo
 
 Cuando el río deja de ser navegable, es porque se ha convertido en riachuelos, un terreno muy distintos en el que tus canoas no valen para nada.
 
+### Tabla de masas de agua
+
+|Masa de agua|Dificultad|
+|---|---|
+|Playa, Río navegable|6|
+|Costa cubierta|8|
+|Costa expuesta|10|
+|Arrecifes|12|
+|Mar abierto|14|
+
 ### Eventos durante el viaje en el mar
 
-En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
+En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. Desde días sin viento que exigen sacar los remos y ponerse a remar a caídas y golpes al moverse por la embarcación. 
 
+En la siguiente tabla encontrarás situaciones y sus Condiciones asociadas. Como DJ puedes usarlas en las travesías para darles variedad y emoción.
 |Evento|Condiciones|
 |---|---|
 |Golpes contra los aparejos o el mástil|Herido (４)|
@@ -437,15 +453,18 @@ En el mar pueden pasar de muchas cosas que escapan al control de los _hauka_. De
 |Bebida en mal estado|Enfermo (6)|
 |Corrientes fuertes|Cansado (6)|
 
-### Tabla de masas de agua
+### Reglas para los viajes
 
-|Masa de agua|Dificultad|
-|---|---|
-|Playa, Río navegable|6|
-|Costa cubierta|8|
-|Costa expuesta|10|
-|Arrecifes|12|
-|Mar abierto|14|
+XXX
+
+* El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
+
+El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+
+* Aparecerán en una playa desierta donde no parece que haya civilización cerca.
+* Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
+* Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
+
 ## Clima
 
 En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_kau_) e invierno (_hooilo_). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia.
@@ -456,7 +475,12 @@ XXX
 
 ## Tecnología
 
+La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a que objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
+
 Inventos como la rueda, XXX
+La brújula, tan útil en la navegación, es una desconocida para los isleños. XXX
+
+Las embarcaciones son totalmente de madera, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
 ***
 
@@ -615,7 +639,7 @@ La gran boca de tiburón en su espalda es lo único que los identifica como _nan
 * **Impactar/Daño:** d8+d8 / d8
 * **Defensa:** 4
 * **Habilidad especial:** **Grandes nadadores.** Pueden cubrir grandísimas distancias (unos 200 km) en 1 día.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Playa, costa y acantilados litorales
 * **Marea:** Pleamar nocturna
 [![Commission: Taniwha By Dream-Piper](./images/commission__taniwha_by_dream_piper_dgn4f6h-fullview.jpg "Commission: Taniwha By Dream-Piper")](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281 "Commission: Taniwha By Dream-Piper")
 
@@ -665,7 +689,7 @@ XXX
 
 ### Mantarraya
 
-XXX
+Estos increíbles peces emparentados con los tiburones se caracterizan por su extraña forma aplanada y su cola con un aguijón venenoso. 
 
 Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
 
@@ -678,11 +702,11 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Costa y arrecifes
+* **Marea:** Pleamar diurna
 ### Almeja gigante
 
-XXX
+No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
 
 * **Nivel/Tipo:** XXX/Acuático
 * **Botín:** XXX
@@ -693,8 +717,8 @@ XXX
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Costa y arrecifes
+* **Marea:** Pleamar nocturna
 
 ## Monstruos del manual básico
 
@@ -751,6 +775,15 @@ Quiero dar agradecimiento a:
 
 * [@Rataunderground](https://mastorol.es/@Rataunderground@neopaquita.es) por sus consejos de diseño en la portada.
 * [@dangordillo.itch.io](https://bsky.app/profile/dangordillo.itch.io) por sus ideas para nombres del mundo.
+## Define los velos y herramientas de seguridad
+
+> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
+
+> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
+
+> Por [FaustoRolero](https://twitter.com/FaustoRolero)
+
+Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 ## Surf
 
 El surf que se representa aquí con trucos, carreras y tablas rápidas es más cercano al surf moderno competitivo. Nada tiene que ver con el que practicaban los antiguos polinesios. Me he tomado la licencia de meter esos elementos para darle más importancia y acción y poder hacer escena de tensión sobre tablas de surf. También me parecía que era una buena excusa para que tus _hauka_ se embarcaran en un viaje. Suena bastante bien que vayas de isla en isla buscando la ola perfecta y sintiendo como te embarga el _hopupu_.
@@ -783,21 +816,13 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Board game collection by [freepik](https://www.freepik.com/free-vector/board-game-collection_10115170.htm)
 * Medieval weapons by [ddraw](https://www.freepik.es/vector-gratis/armas-medievales_1015205.htm)
 * Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
-* Model of outrigger canoe from Hawai‘i by [Joel Abroad](https://www.flickr.com/photos/40295335@N00/10010587593) con licencia [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/deed.es)
 * Kayak canoe design illustration set by [pikisuperstar](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm)
 * Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
 * Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
+* Tropical island cartoon poster with rising sun above sea vector illustration by [macrovector](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm)
+* Volcanic lava erupt landscape prehistoric volcano by [upklyak](https://www.freepik.com/free-vector/volcanic-lava-erupt-landscape-prehistoric-volcano_375731237.htm)
 * Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
 * Vector de ilustración de cesta de viaje vintage, remezclado de la obra de arte de Vincent P. Rosel por [rawpixel.com](https://www.freepik.es/vector-gratis/vector-ilustracion-cesta-viaje-vintage-remezclado-obra-arte-vincent-p-rosel_16335422.htm)
-## Define los velos y herramientas de seguridad
-
-> Antes de iniciar la aventura, todos los miembros de la mesa debéis definir las herramientas de seguridad que queráis utilizar y los temas o escenas que deben evitarse durante la partida para que nadie se sienta incómodo durante la sesión de juego. Podéis escoger los elementos que no queráis incluir durante la partida previamente o podéis utilizar un mecanismo de seguridad cuando estos aparezcan.
-
-> No importa cuál sea la herramienta de seguridad o el tipo de mecanismo utilicéis, pero es importante recordad que el rol es un juego y todos deben pasarlo bien. En caso de que consideréis entre todos que no necesitáis una herramienta de seguridad tampoco pasa nada, pero en ese caso es necesario que el director de juego se asegure de forma más activa de que ningún miembro de la mesa se sienta incómodo o lo esté pasando mal.
-
-> Por [FaustoRolero](https://twitter.com/FaustoRolero)
-
-Aquí tienes algunas otras herramientas de seguridad que puedes usar: [DEVIR](https://devir.es/herramientas-seguridad-rol) y [NetCon](https://www.netconplay.com/guia-de-buenas-practicas/herramientas-en-la-mesa/)
 
 ***
 Makai Mauka 

@@ -195,3 +195,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QChimera Forms Close-Up By Dream-Piper\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QViven en pozas profundas de ríos, cuevas oscuras o en el mar, especialmente en lugares con corrientes peligrosas u olas gigantes.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QTerreno Dificultad\\E$"}
+{"rule":"PRESENT","sentence":"^\\QEl mar siempre debería estar presente en las aventuras.\\E$"}

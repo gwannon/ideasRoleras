@@ -190,7 +190,7 @@ La gran boca de tiburón en su espalda es lo único que los identifica como _nan
 * **Impactar/Daño:** d8+d8 / d8
 * **Defensa:** 4
 * **Habilidad especial:** **Grandes nadadores.** Pueden cubrir grandísimas distancias (unos 200 km) en 1 día.
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Playa, costa y acantilados litorales
 * **Marea:** Pleamar nocturna
 
 \sinc
@@ -249,7 +249,7 @@ XXX
 
 ### Mantarraya
 
-XXX
+Estos increíbles peces emparentados con los tiburones se caracterizan por su extraña forma aplanada y su cola con un aguijón venenoso. 
 
 Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
 
@@ -262,14 +262,14 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Costa y arrecifes
+* **Marea:** Pleamar diurna
 
 \sp
 
 ### Almeja gigante
 
-XXX
+No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
 
 * **Nivel/Tipo:** XXX/Acuático
 * **Botín:** XXX
@@ -280,8 +280,8 @@ XXX
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Costa y arrecifes
+* **Marea:** Pleamar nocturna
 
 ## Monstruos del manual básico
 
@@ -300,11 +300,11 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
 * El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
-* Dama Lechera XXX
-* La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 
 \sp
 
+* Dama Lechera XXX
+* La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
