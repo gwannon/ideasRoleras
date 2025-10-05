@@ -42,15 +42,14 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 
 Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
 
+\sp
+
 * **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
 * **FUE/DES/INT/ESP:** X / X / X / X
-
-\sp
-
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma de ave.
@@ -75,7 +74,7 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 
 ### Kupua de Nube
 
-Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos
+Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
 
 * **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
@@ -103,11 +102,62 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
+
+\sp
+
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
 * **Terreno habitual:** Selvas virgenes
 * **XXX/Marea:** XXX
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
+
+### Kupua XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX / XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **XXX.** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX / XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **XXX.** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua XXX
+
+XXX
+
+* **Nivel/Tipo:** XXX / XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **XXX.** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
 
 \sp
 
@@ -312,7 +362,3 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 
 \sc
-
-\sp
-
-&nbsp;
