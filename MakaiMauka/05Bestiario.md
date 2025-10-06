@@ -277,7 +277,11 @@ Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte d
 * **Terreno habitual:** Acantilados, mar abierto, playas y ríos navegables
 * **Marea:** Cada _taniwha_ tiene su marea predilecta.
 
+\sinc
+
 ## Animales
+
+\conc
 
 Las islas no tienen grandes animales terrestres que pudieran ser un problema para tus _hauka_, pero todo eso cambia en el mar, donde tiburones, morenas o mantarrayas pueden ser muy peligrosos.
 
@@ -312,10 +316,11 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
-* **Terreno habitual:** Costa y arrecifes
-* **Marea:** Pleamar diurna
 
 \sp
+
+* **Terreno habitual:** Costa y arrecifes
+* **Marea:** Pleamar diurna
 
 ### Almeja gigante
 
@@ -333,7 +338,13 @@ No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar nocturna
 
+\sinc
+
+&nbsp;
+
 ## Monstruos del manual básico
+
+ \conc
 
 Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algunos ejemplos:
 
@@ -348,17 +359,18 @@ Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua
 
 No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
 
-* Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
-* El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
-
 \sp
 
-* Dama Lechera XXX
+* Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
+* El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
+* La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como Hina-ika, madre de Maui, o simplemente **sirenas**.
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
 
+\sc
+
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 
-\sc
+

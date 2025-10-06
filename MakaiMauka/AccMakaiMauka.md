@@ -723,9 +723,7 @@ Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte d
 * **Habilidad especial:** **Capacidades mágicas.** Pueden usar todos los Conjuros de Magia de su marea predilecta.
 * **Terreno habitual:** Acantilados, mar abierto, playas y ríos navegables
 * **Marea:** Cada _taniwha_ tiene su marea predilecta.
-
 ## Animales
-
 Las islas no tienen grandes animales terrestres que pudieran ser un problema para tus _hauka_, pero todo eso cambia en el mar, donde tiburones, morenas o mantarrayas pueden ser muy peligrosos.
 
 ### Tiburón
@@ -761,6 +759,7 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar diurna
+
 ### Almeja gigante
 
 No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
@@ -779,6 +778,8 @@ No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se
 
 ## Monstruos del manual básico
 
+ 
+
 Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hua Tarakona_, pero deberías, por lo menos, hacer algunos cambios estéticos para adaptarlos a esta ambientación. Veamos algunos ejemplos:
 
 * Casi todas las plantas fantasma pueden ser usadas con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
@@ -791,15 +792,13 @@ Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes rec
 Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.
 
 No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
-
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
 * El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
-* Dama Lechera XXX
+* La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como Hina-ika, madre de Maui, o simplemente **sirenas**.
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
-
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 
 ***
@@ -881,6 +880,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Volcanic lava erupt landscape prehistoric volcano by [upklyak](https://www.freepik.com/free-vector/volcanic-lava-erupt-landscape-prehistoric-volcano_375731237.htm)
 * Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
 * Vector de ilustración de cesta de viaje vintage, remezclado de la obra de arte de Vincent P. Rosel por [rawpixel.com](https://www.freepik.es/vector-gratis/vector-ilustracion-cesta-viaje-vintage-remezclado-obra-arte-vincent-p-rosel_16335422.htm)
+* Silueta de niña hawaiana de diseño plano de [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112452.htm)
 
 ***
 Makai Mauka 
