@@ -2,7 +2,12 @@
 
 XXX
 
+
+\sinc
+
 ## Magia de las mareas (Estacional)
+
+\conc
 
 XXX
 
@@ -22,9 +27,13 @@ XXX
 
 XXX
 
+\sinc
+
 ## Objetos mágicos
 
-XXX
+\conc
+
+A diferencia de otros mundos, los objetos mágicos de esta ambientación no son legendarias armas, orbes de adivinación, ni anillos de poder. Suelen ser más objetos más cotidianos con capacidades mágicas que ayudan a su propietario a hacer la tarea que le ha encomendado el destino. Vamos desde anzuelos que pescan lo que quieres, incluso islas, hasta calabazas que atrapan ciclones.
 
 ### Anzuelo de Maui
 
@@ -40,13 +49,15 @@ Esta calabaza fue usada por _Maui_ para encerrar a los vientos. Permite encerrar
 
 ### Azuela de Ratʻa
 
-Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 1 casilla(5 cm) por turno de trabajo y siempre que haya madera cerca. Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, tienes la condición «cansado».
+Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 25m por mañana o tarde de trabajo y siempre que haya madera cerca.
+
+Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, estarás cansado (4).
+
+\sp
 
 ### Sal de Kane
 
 El dios creador _Kane_, salo el mal para purificarlo y la sal que le quedo la guardo en una bolsa de hojas de palmas. La bolsa nunca se queda sin sal y donde se esparce la sal no puede entrar o pasar kupuas y otros espíritus demoniacos. La protección dura 1 día hasta la misma marea que ahora.
-
-\sp
 
 ### Llama de Pele
 
