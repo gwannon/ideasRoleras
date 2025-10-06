@@ -287,7 +287,7 @@ Las islas no tienen grandes animales terrestres que pudieran ser un problema par
 
 ### Tiburón
 
-XXX
+Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y tamaños desde el tiburón ballena que se alimenta pequeños crustáceos a los agresivos tiburón toro. Solo los más afresivos son un problema para tus _hauka_ y mejor no caigan al agua si estos merodean cerca.
 
 * **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
@@ -311,14 +311,14 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **Botín:** XXX
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
+
+\sp
+
 * **Salud:** XXX
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
-
-\sp
-
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar diurna
 
@@ -357,9 +357,9 @@ Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes rec
 
 Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.
 
-No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
-
 \sp
+
+No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
 
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
 * El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
@@ -368,9 +368,6 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
-
-\sc
-
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 
 

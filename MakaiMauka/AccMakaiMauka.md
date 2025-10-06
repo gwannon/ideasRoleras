@@ -728,7 +728,7 @@ Las islas no tienen grandes animales terrestres que pudieran ser un problema par
 
 ### Tiburón
 
-XXX
+Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y tamaños desde el tiburón ballena que se alimenta pequeños crustáceos a los agresivos tiburón toro. Solo los más afresivos son un problema para tus _hauka_ y mejor no caigan al agua si estos merodean cerca.
 
 * **Nivel/Tipo:** XXX / Acuático
 * **Botín:** XXX
@@ -790,8 +790,8 @@ Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáti
 Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes recordar a la hora de describirlos que no deberían portar útiles, armas y armaduras de metal.
 
 Los **no-muertos como zombis o vampiros no son normales como monstruos** en _Hua Tarakona_, los muertos suelen ser reverenciados como _aumakuas_ (espíritus familiares). Los cadáveres no se levantan y atacan a los vivos, sino que suelen aparecerse como fantasma para aconsejar o atormentar a los descendientes que se lo merecen.
-
 No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero hay toda una serie de monstruos que podrían tener su versión acuática en _Hua Tarakona_.
+
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
 * El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
 * La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como Hina-ika, madre de Maui, o simplemente **sirenas**.
