@@ -133,7 +133,7 @@ Viajar por el mar es algo que el manual Básico no se ve reflejado, pero en un g
 
 ### Arrecifes
 
-Los arrecifes son rocas, banco de arena, o cualquier otro elemento que yace a pocos metros de la superficie o incluso sobre la superficie del agua durante marea baja. Los arrecifes son un gran peligro para las embarcaciones, ya que pueden encallar o destrozarlas, pero también son una buena defensa natural contra intrusos que lleguen por mar.
+Los arrecifes son rocas, bancos de arena, o cualquier otro elemento que yace a pocos metros de la superficie o incluso sobre la superficie del agua durante marea baja. Los arrecifes son un gran peligro para las embarcaciones, ya que pueden encallar o destrozarlas, pero también son una buena defensa natural contra intrusos que lleguen por mar.
 
 Cuando hablamos de arrecifes no nos referimos a una masa de arrecifes sino a zonas grandes del mar donde hay gran cantidad de arrecifes.
 
@@ -204,28 +204,17 @@ La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en 
 
 ### Reglas para los viajes
 
-Los viajes por mar son muy diferentes a los viajes por tierra que propone el manual básico. Es por ello que tienen reglas especiales que puedes aplicar en tus aventuras en _Hua Tarakona_. XXX
+Los viajes por mar son muy diferentes a los viajes por tierra que propone el manual básico. Es por ello que tenemos reglas especiales que puedes aplicar en tus aventuras en _Hua Tarakona_ o en tus propias aventuras cuando viajes por mar.
 
 * La tirada de Acampar se convierte en la tirada de XXX
 * El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
 
-Sobre las velocidades, en un día de buen tiempo y con viento un catamarán podría recorrer 60 km, es decir 2 casillas, pero si no hay buen tiempo, solo 30 km. En casos de que no haya viento, no avanzará nada a no ser que se saquen los remos con lo que avanzarán 30 km (1 casilla), con lo que al día siguiente estarán bastante cansados (4).
+Sobre las velocidades, **en un día de buen tiempo** y con viento un catamarán podría **recorrer 60 km, es decir 2 casillas**, pero si no hay buen tiempo, solo 30 km. En casos de que **no haya viento, no avanzará nada** a no ser que se saquen los **remos con lo que avanzarán 30 km (1 casilla)**, con lo que al día siguiente estarán bastante **cansados (4)**.
 
-En caso de tormenta no podrán avanzar nada, tendrán suficiente con mantenerse a flote y pasar la tormenta. Pasar un día entero luchando contra la tormenta mojado y sin poder descansar ni comer supone un gran esfuerzo lo que supone que tras la tormenta estarán tremendamente cansados (6).
+En caso de **tormenta no podrán avanzar nada**, tendrán suficiente con mantenerse a flote y pasar la tormenta. Pasar un día entero luchando contra la tormenta, mojado y sin poder descansar ni comer supone un gran esfuerzo, por lo que tras la tormenta estarán tremendamente **cansados (6)**.
 
-En las zonas de arrecifes deberán quitar la velas y ponerse a remar para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará cansado (4).
+En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.
 
-Los ciclones no son eventos que deberían aparecer aleatoriamente, sino parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse para superarlo. Veamos algunas ideas:
-
-* XXX
-
-Un ciclón pude terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
-
-\sp
-
-* Aparecerán en una playa desierta donde no parece que haya civilización cerca.
-* Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
-* Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
 
 ## Clima
 
@@ -233,21 +222,36 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
+\sp
+
 XXX
+
+Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. Veamos algunas ideas que puedes aplicar:
+
+* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
+* Puede que tengan algún objeto mágico o les deba un favor algún favor alguna criatura o divinidad marina. Este sería un buen momento para cobrárselo. XXX
+* Si tratan de salvar a otros tripulantes, XXX
+* Quizás quieran salvar algo importante que lleven a bordo. En ese caso XXX
+* Puede que traten de montar algo que flote XXX
+* Si están cerca de la costa tendrán que tratar de evitar los acantilados a los que las olas les están llevando. XXX
+
+Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+
+* Aparecerán en una playa desierta donde no parece que haya civilización cerca. Estarán cansados (6) y desorientados y deshidratados (enfermos 4)
+* Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
+* Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
+
 
 ## Tecnología
 
-La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a que objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
-
-\sc
+La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a qué objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
 
 **La rueda no está desarrollada**. Los isleños hacen rodar troncos para mover objetos pesados como canoas y catamaranes, pero no lo han aplicado en la creación de carros, en parte debido a la falta de fuertes animales de tiro.
+
+\sp
+
 La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
 
 Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
-Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a comoda ropa, pasando por fuertes cestas y mochillas
-
-\sp
-
-&nbsp;
+Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas
