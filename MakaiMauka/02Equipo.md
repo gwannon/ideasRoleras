@@ -2,27 +2,57 @@
 
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Moneda y trueque
+
+\conc
 
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Materiales
 
-Un punto importante del equipo es que el metal es conocido por las gentes de las islas, pero es escaso y no son hábiles forjando el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
+\conc
 
-La madera es un elemento fundamental en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc.
+Un punto importante del equipo es que el **metal es conocido** por las gentes de las islas, pero **es escaso y no son hábiles forjando** el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
 
-Lo mismo pasa con la hoja de palma, que también encontramos en varias artesanías, como cesteros, techadores, fabricantes de velas, etc. que la transforman en diferentes elementos como cestas, velas de barco, sombreros, cuerdas y correas, etc.
+La **madera es un elemento fundamental** en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc.
+
+Lo mismo pasa con la **hoja de palma**, que también encontramos en varias artesanías, como cesteros, techadores, fabricantes de velas, etc. que la transforman en diferentes elementos como cestas, velas de barco, sombreros, cuerdas y correas, etc.
 
 El equipo típico de metal, como una cantimplora, tendrá su contrapartida en madera y productos naturales, por ejemplo, una calabaza vaciada, secada y pulida con un corcho puede ser un perfecto recipiente para el agua.  
 
 Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el basalto son muy abundantes y los artesanos isleños también son diestros en su manufactura en forma de utensilios y armas.
+
+Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación.
  
+\sinc
+
+&nbsp;
+
 ## Tecnología
+
+\conc
 
 XXX
 
+Si no quieres complicarte, puedes dejar el equipo normal de juego de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
+
+\sp
+
+\sinc
+
+&nbsp;
+
 ## Armas
+
+\conc
 
 Tus _hauka_ disponen de una gran variedad de lanzas de todos los tamaños (pequeñas, medidas y pesadas) y tanto de cuerpo a cuerpo como a distancia.
 
@@ -30,21 +60,19 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 
 ### Hojas cortas
 
-Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la _koa_ con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo en forma de sierra.
-
-\sp
+Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la _koa_ con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo en como si fuera una sierra.
 
 Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
 
 ### Hojas
 
-[![Two kotiate made of whalebone by Rudolph89](./images/Kotiate_11a.png "Two kotiate made of whalebone by Rudolph89")](https://en.wikipedia.org/wiki/Kotiate#/media/File:Kotiate_11a.jpg "Two kotiate made of whalebone by Rudolph89")
-
-**Kotiate:** XXX
-
 [![Kayak canoe design illustration set by pikisuperstar](./images/remo.jpg "Kayak canoe design illustration set by pikisuperstar")](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm "Kayak canoe design illustration set by pikisuperstar")
 
 **Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asirlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
+
+[![Two kotiate made of whalebone by Rudolph89](./images/Kotiate_11a.png "Two kotiate made of whalebone by Rudolph89")](https://en.wikipedia.org/wiki/Kotiate#/media/File:Kotiate_11a.jpg "Two kotiate made of whalebone by Rudolph89")
+
+**Kotiate:** Es una maza corta normalmente hueso de ballena. Parece una especie de evolución del remo al que se le hicieron modificaciones para ser más mortal.
 
 ### Armas de Asta
 
@@ -58,6 +86,8 @@ Otra opción, son los huesos de ballena tallados que permiten crear hojas ligera
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
 
+\sp
+
 ### Hachas
 
 [![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
@@ -66,23 +96,39 @@ Otra opción, son los huesos de ballena tallados que permiten crear hojas ligera
 
 ### Arcos y ondas
 
-XXX
+Los isleños son diestros arqueros y honderos. Como dato importante diremos que la onda (Maʻa) es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
 
-Como dato importante diremos que la onda que es usada como arma de guerra, mientras que el arco y las flechas se reservan normalmente para la caza.
+A nivel de juego, tanto el arco como la honda son exactamente, solo son diferentes a nivel estético.
 
-## Armaduras
+\sinc
+
+&nbsp;
+
+## Armaduras y escudos
+
+\conc
 
 Los combatientes en _Hua Tarakona_ no llegan pesadas armaduras de metal. Como ya sabemos no son duchos en la forja del metal, pero además las armaduras son un lastre tremendo en el mar y el calor hace que no se puedan llevar mucho tiempo seguido sin acabar extenuado.
 
-Aun así, como buenos tejedores de hojas de palma, saben hacer buenas protecciones frescas y ligeras, que les dan cierta protección en el combate.
+Aun así, como buenos tejedores de **hojas de palma**, saben hacer buenas **protecciones frescas y ligeras**, que les dan cierta protección en el combate.
 
-\sp
+Tradicionalmente, los combatientes **no han usado escudos**, aun así tus _hauka_ bien podrían hacer algún escudo ligero de madera y hojas de palma trenzadas.
 
-### Protecciones de palma trenzada
+### Protecciones de palma trenzada (ligera)
 
 Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles
 
+> En esta ambientación, salvo situaciones excepcionales, tus _hauka_ no deberían poseer armaduras media y pesadas y escudos pesados.
+
+\sp
+
+\sinc
+
+&nbsp;
+
 ## Plantas medicinales
+
+\conc
 
 XXX
 
@@ -90,7 +136,12 @@ XXX
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
 
+
+\sinc
+
 ## Objetos comunes
+
+\conc
 
 Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseño geométricos o figuras tribuales de animales, personas, dioses y monstruos.
 
@@ -156,16 +207,10 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 
 |Objeto|Precio|
 |---|---|
-|Remo|XXX|
-|Tao|XXX|
-|Horca|XXX|
-|Leiomano|XXX|
-|Protecciones de palma trenzada|XXX|
-|Kava|XXX|
-|Konane|XXX|
-|Herramientas de tatuaje|XXX|
-|Tambor de calabaza Ipu|XXX|
-|Canoa|XXX|
-|Tabla de surf|XXX|
-|Canoa multicasco|XXX|
-|Catamarán|XXX|
+|Konane|500|
+|Herramientas de tatuaje|1500|
+|Tambor de calabaza Ipu|400|
+|Canoa|3000|
+|Tabla de surf|500|
+|Canoa multicasco|5000|
+|Catamarán|90000|
