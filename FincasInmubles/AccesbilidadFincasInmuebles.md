@@ -248,7 +248,7 @@ Una vez redactado hay que darle publicidad, déjales que sean creativos y si son
 ### Adecentar la mazmorra y sacar cadáveres
 
 ```
-He aprendido que son los detalles cotidianos, los gestos de la gente corriente los que mantienen el precio de los inmuebles altos. Los actos sencillos de avariacia.
+He aprendido que son los detalles cotidianos, los gestos de la gente corriente los que mantienen el precio de los inmuebles altos. Los actos sencillos de avaricia.
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
 
@@ -343,7 +343,7 @@ En general **todos los trucos dan 1 dado extra** a la tirada, aunque hay excepci
 Además, un truco **solo puede ser usado una sola vez contra un mismo cliente en la misma fase**. En el caso de los **trucos de Precio solo podrán usarse en la negociación**.
 
 Puedes ponerte el que más te guste, pero los hemos **dividido en 4 grupos** que representan más o menos todos los tipos generales de PJ en los juegos medieval-fantásticos.
-Además, **cada truco viene con el atributo del inmueble** en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llaman silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
+Además, **cada truco viene con el atributo del inmueble** en que puede usarse preferentemente. Por ejemplo, «Su valor no deja de subir» es perfecta cuando se negocia un Precio y «¿Lo escuchas? Eso se llama silencio» puedes usarlo cuando el comprador pone pegas a la Ubicación.
 
 Los trucos **pueden adaptarse a cada situación si es necesario**. Por ejemplo, en «Mi padre siempre decía que invirtiera en castillos» puede ser «La mente maestra siempre decía que invirtiera en mazmorras» o «La verruga peluda de la espalda del troll de la que nací siempre decía que invirtiera en pirámides invertidas».
 
