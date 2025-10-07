@@ -114,7 +114,13 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
+\sinc
+
+&nbsp;
+
 ## Embarcaciones
+
+\conc
 
 XXX
 
@@ -142,7 +148,11 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 
 \sp
 
+\sinc
+
 ## Tabla de precios especiales
+
+\conc
 
 |Objeto|Precio|
 |---|---|

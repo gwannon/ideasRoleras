@@ -187,7 +187,6 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
 ## Embarcaciones
-
 XXX
 
 [![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
@@ -210,9 +209,7 @@ Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya 
 
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
 
-De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
-## Tabla de precios especiales
-
+De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.## Tabla de precios especiales
 |Objeto|Precio|
 |---|---|
 |Remo|XXX|
