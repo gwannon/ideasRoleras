@@ -197,3 +197,5 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QTerreno Dificultad\\E$"}
 {"rule":"PRESENT","sentence":"^\\QEl mar siempre debería estar presente en las aventuras.\\E$"}
 {"rule":"FORM","sentence":"^\\QNo son grandes espíritus, sino menores con aspecto y ciertas capacidades mágicas relacionadas con su forma alternativa.\\E$"}
+{"rule":"COMMA_ADVERB","sentence":"^\\QPerfectamente tus hauka podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa Dama Lechera es una vaca submarina, pero como los rumiantes no son conocidos en las islas de Hua Tarakona, puedes sustituirlo algún tipo de deidad marina femenina como Hina-ika, madre de Maui, o simplemente sirenas.\\E$"}

@@ -103,6 +103,8 @@ El equipo típico de metal, como una cantimplora, tendrá su contrapartida en ma
 
 Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el basalto son muy abundantes y los artesanos isleños también son diestros en su manufactura en forma de utensilios y armas.
  
+## Tecnología
+
 XXX
 
 ## Armas
@@ -113,18 +115,24 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 
 ### Hojas cortas
 
-XXX
+Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la _koa_ con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo en forma de sierra.
+Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
 
 ### Hojas
+
+[![Two kotiate made of whalebone by Rudolph89](./images/Kotiate_11a.png "Two kotiate made of whalebone by Rudolph89")](https://en.wikipedia.org/wiki/Kotiate#/media/File:Kotiate_11a.jpg "Two kotiate made of whalebone by Rudolph89")
+
+**Kotiate:** XXX
 
 [![Kayak canoe design illustration set by pikisuperstar](./images/remo.jpg "Kayak canoe design illustration set by pikisuperstar")](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm "Kayak canoe design illustration set by pikisuperstar")
 
 **Remo:** Estas contundentes herramientas de madera tienen lados afilados en la parte de la pala y buenos mangos para asirlos bien y dar golpes contundentes, así que son unos utensilios muy útiles tanto para navegar como para combatir.
+
 ### Armas de Asta
 
 [![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
 
-**_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.[![Leiomano by Jen](./images/horca.jpg "Leiomano by Jen")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Leiomano by Jen")
+**_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.[![Neanderthal primitive rock weapon flat set by pch.vector](./images/horca.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
 
@@ -145,7 +153,6 @@ Como dato importante diremos que la onda que es usada como arma de guerra, mient
 Los combatientes en _Hua Tarakona_ no llegan pesadas armaduras de metal. Como ya sabemos no son duchos en la forja del metal, pero además las armaduras son un lastre tremendo en el mar y el calor hace que no se puedan llevar mucho tiempo seguido sin acabar extenuado.
 
 Aun así, como buenos tejedores de hojas de palma, saben hacer buenas protecciones frescas y ligeras, que les dan cierta protección en el combate.
-
 ### Protecciones de palma trenzada
 
 Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles
@@ -157,6 +164,7 @@ XXX
 ### Kava
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
+
 ## Objetos comunes
 
 Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseño geométricos o figuras tribuales de animales, personas, dioses y monstruos.
@@ -174,7 +182,6 @@ De normal, un _konane_ de viaje tiene tamaño 3, pero de normal los que se tiene
 Las herramientas de tatuaje consisten en un peine con dientes de hueso o concha de tortuga unidos a un mango de madera. Los dientes estaban empapados en tinta a base de carbón diluido en aceite o agua. El peine se golpean con un palo de madera para pinchar la piel continuamente y meter la tinta en su interior.
 
 Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a aprendiz y se aprende a fabricarlas como parte del entrenamiento de tatuador.
-
 ### Tambor de calabaza Ipu
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
@@ -188,6 +195,7 @@ XXX
 ### Canoa
 
 Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 _hauka_, dos remando más un tercer pasajero.
+
 Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, animales, geométricos o mitológicos. Es el medio de transporte principal y sirve tanto en el mar como en los ríos.
 
 ### Tabla de surf
@@ -203,7 +211,6 @@ Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya 
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
 
 De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
-
 ## Tabla de precios especiales
 
 |Objeto|Precio|
@@ -220,14 +227,11 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Canoa|XXX|
 |Tabla de surf|XXX|
 |Canoa multicasco|XXX|
-|Catamarán|XXX|
-
-***
+|Catamarán|XXX|***
 
 # Magia
 
 XXX
-
 ## Magia de las mareas (Estacional)
 XXX
 
@@ -740,7 +744,7 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Marea:** XXX
 
 ### Mantarraya
 

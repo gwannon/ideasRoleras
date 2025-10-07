@@ -299,7 +299,7 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Marea:** XXX
 
 ### Mantarraya
 

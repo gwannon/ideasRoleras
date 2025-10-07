@@ -2,7 +2,6 @@
 
 XXX
 
-
 \sinc
 
 ## Magia de las mareas (Estacional)
