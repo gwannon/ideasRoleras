@@ -27,6 +27,8 @@ XXX
 
 XXX
 
+\sp
+
 \sinc
 
 ## Objetos mágicos
@@ -53,8 +55,6 @@ Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite cons
 
 Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, estarás cansado (4).
 
-\sp
-
 ### Sal de Kane
 
 El dios creador _Kane_, salo el mal para purificarlo y la sal que le quedo la guardo en una bolsa de hojas de palmas. La bolsa nunca se queda sin sal y donde se esparce la sal no puede entrar o pasar kupuas y otros espíritus demoniacos. La protección dura 1 día hasta la misma marea que ahora.
@@ -63,6 +63,8 @@ El dios creador _Kane_, salo el mal para purificarlo y la sal que le quedo la gu
 
 Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve de las montañas y prende cualquier cosa inflamable en una ronda. Si se le pone un mango de algo que no prenda como piedra o metal puede usarse como arma muy eficaz.
 
+\sp
+
 ### Objetos mágicos menores
 
 * Hacha de piedra que te permite corta madera sin cansarte
@@ -70,7 +72,3 @@ Esta llama eterna no se puede apagar, te mantiene caliente incluso en la nieve d
 * _Tiputa_ (camiseta de hojas de palma trenzada) que te hace flotar en el agua
 * Calabaza vaciada que siempre tiene aire dentro que respirar
 * Vela dentro de cuenco de cáscara de coco que revela la verdadera apariencia de un cambiaformas bajo su luz
-
-\sp
-
-&nbsp;
