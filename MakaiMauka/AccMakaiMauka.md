@@ -36,6 +36,12 @@ Las competiciones son eventos importantes y los premios que se ofrecen pueden pe
 
 No es extrañar llegar a una cala perdida y encontrarse con un círculo de tablas de surf clavadas en la arena y en su interior a surfistas descansando junto al fuego.
 
+### Māhū
+
+_Māhū_ se usa para denominar a las personas pertenecientes a un tercer género. Se considera que encarnan tanto el espíritu masculino como el femenino.
+
+Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.
+
 ## Razones para viajar
 
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
@@ -85,9 +91,6 @@ XXX
 
 # Equipo
 
-XXX
-
-## Moneda y trueque
 XXX
 
 ## Materiales
@@ -158,9 +161,10 @@ Tradicionalmente, los combatientes **no han usado escudos**, aun así tus _hauka
 
 Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se crean protecciones para diferentes partes del cuerpo. No son especialmente resistentes, pero son baratas, fáciles de fabricar, ligeras y flexibles
 
-> En esta ambientación, salvo situaciones excepcionales, tus _hauka_ no deberían poseer armaduras media y pesadas y escudos pesados.
-## Plantas medicinales
-XXX
+> En esta ambientación, salvo situaciones excepcionales, tus _hauka_ no deberían poseer armaduras media y pesadas y escudos pesados.## Plantas medicinales
+Los _kahunas_ de cada asentamiento dominan la búsqueda de plantas medicinales y su uso curativo. Pueden hacer infusiones, emplastos y cataplasmas, cremas o prepararlas para su consumo.
+
+La selva es el lugar donde se encuentran la mayoría de las hierbas medicinales, pero también recorren las playas y acantilados en busca de algas con propiedades medicinales.
 
 ### Kava
 
@@ -186,11 +190,10 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
-## Embarcaciones
-XXX
-
 [![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
 
+## Embarcaciones
+XXX
 ### Canoa
 
 Esta embarcación tallada del tronco de un árbol, permite una tripulación de 3 _hauka_, dos remando más un tercer pasajero.
@@ -206,10 +209,13 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
+Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje. De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
 
-Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
+## Moneda y trueque
+XXX
 
-De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.## Tabla de precios especiales
+### Tabla de precios especiales
+
 |Objeto|Precio|
 |---|---|
 |Konane|500|
@@ -218,7 +224,9 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Canoa|3000|
 |Tabla de surf|500|
 |Canoa multicasco|5000|
-|Catamarán|90000|***
+|Catamarán|90000|
+
+***
 
 # Magia
 
@@ -425,7 +433,7 @@ La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en 
 |Oleaje|Mareado (４)|
 |Comida o bebida en mal estado|Envenenado (４)|
 |Insolación|Enfermo (４)|
-|Viento de frente que hace más dificil la navegación|Cansado (４)|
+|Viento de frente que hace más difícil la navegación|Cansado (４)|
 |Caída desde mástil o el velamen|Herido (6)|
 |Gran oleaje|Mareado (6)|
 |Picadura venenosa de medusa o mantarraya|Envenenado (6)|

@@ -204,7 +204,7 @@ La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en 
 |Oleaje|Mareado (４)|
 |Comida o bebida en mal estado|Envenenado (４)|
 |Insolación|Enfermo (４)|
-|Viento de frente que hace más dificil la navegación|Cansado (４)|
+|Viento de frente que hace más difícil la navegación|Cansado (４)|
 |Caída desde mástil o el velamen|Herido (6)|
 |Gran oleaje|Mareado (6)|
 |Picadura venenosa de medusa o mantarraya|Envenenado (6)|

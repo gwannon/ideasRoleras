@@ -6,16 +6,6 @@ XXX
 
 &nbsp;
 
-## Moneda y trueque
-
-\conc
-
-XXX
-
-\sinc
-
-&nbsp;
-
 ## Materiales
 
 \conc
@@ -124,20 +114,21 @@ Estas protecciones están hechas de varias capas de hojas de palma trenzadas. Se
 
 \sinc
 
-&nbsp;
-
 ## Plantas medicinales
 
 \conc
 
-XXX
+Los _kahunas_ de cada asentamiento dominan la búsqueda de plantas medicinales y su uso curativo. Pueden hacer infusiones, emplastos y cataplasmas, cremas o prepararlas para su consumo.
+
+La selva es el lugar donde se encuentran la mayoría de las hierbas medicinales, pero también recorren las playas y acantilados en busca de algas con propiedades medicinales.
 
 ### Kava
 
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
 
-
 \sinc
+
+&nbsp;
 
 ## Objetos comunes
 
@@ -169,13 +160,15 @@ Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de f
 
 &nbsp;
 
+[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
+
 ## Embarcaciones
 
 \conc
 
 XXX
 
-[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
+
 
 ### Canoa
 
@@ -193,17 +186,21 @@ Estos navíos se caracterizan por tener dos o más cascos paralelos y de la mism
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
 
-Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje.
-
-De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
-
 \sp
+
+Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje. De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
 
 \sinc
 
-## Tabla de precios especiales
+&nbsp;
+
+## Moneda y trueque
 
 \conc
+
+XXX
+
+### Tabla de precios especiales
 
 |Objeto|Precio|
 |---|---|
@@ -214,3 +211,9 @@ De hecho, son los navíos con los que los humanos han ido explorando todas las i
 |Tabla de surf|500|
 |Canoa multicasco|5000|
 |Catamarán|90000|
+
+\sc
+
+\sp
+
+&nbsp;
