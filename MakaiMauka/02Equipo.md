@@ -20,6 +20,8 @@ El equipo típico de metal, como una cantimplora, tendrá su contrapartida en ma
 
 Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el basalto son muy abundantes y los artesanos isleños también son diestros en su manufactura en forma de utensilios y armas.
 
+La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
+
 Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación.
  
 \sinc
@@ -195,6 +197,18 @@ Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua
 \sinc
 
 &nbsp;
+
+## Ropas y calzado
+
+\conc
+
+Las ropas de abrigo son muy poco comunes, recuerda que las temperaturas nunca bajan de 20 °C, salvo en los picos nevados de algunas montañas. Pero la ropa contra el viento y la lluvia es bastante común.
+
+Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.
+
+\sp
+
+\sinc
 
 ## Moneda y trueque
 

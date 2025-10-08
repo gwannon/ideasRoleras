@@ -51,7 +51,7 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
 $metas = "InfoKey: Title\n";
-$metas .= "InfoValue: Makai Mauka 0.2\n\n";
+$metas .= "InfoValue: Makai Mauka 0.3\n\n";
 $metas .= "InfoKey: Subject\n";
 $metas .= "InfoValue: «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.\n\n";
 $metas .= "InfoKey: Author\n";

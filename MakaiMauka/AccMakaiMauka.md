@@ -104,6 +104,8 @@ El equipo típico de metal, como una cantimplora, tendrá su contrapartida en ma
 
 Debido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el basalto son muy abundantes y los artesanos isleños también son diestros en su manufactura en forma de utensilios y armas.
 
+La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
+
 Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación.
  
 ## Tecnología
@@ -216,7 +218,10 @@ Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya 
 
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje. De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
 
-## Moneda y trueque
+## Ropas y calzado
+Las ropas de abrigo son muy poco comunes, recuerda que las temperaturas nunca bajan de 20 °C, salvo en los picos nevados de algunas montañas. Pero la ropa contra el viento y la lluvia es bastante común.
+
+Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.## Moneda y trueque
 XXX
 
 ### Tabla de precios especiales
@@ -488,9 +493,11 @@ En caso de **tormenta no podrán avanzar nada**, tendrán suficiente con mantene
 
 Pasar un día entero luchando contra la tormenta, mojado y sin poder descansar ni comer supone un gran esfuerzo, por lo que tras la tormenta estarán tremendamente **cansados (6)**.
 
-En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.### Precios de trayectos en barco
+En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.
 
-Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar conél, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
+### Precios de trayectos en barco
+
+Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
 * **Viaje siguiendo la costa (80 mo):** XXX
 * **Viaje entre islas del mismo archipiélago (100 mo):** XXX
 * **Viaje entre archipiélagos atravesando mar abierto (150 mo):** XXX
@@ -530,7 +537,8 @@ Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en ca
 
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
 
-Por último, las herramientas de **óptica tampoco está disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.***
+Por último, las herramientas de **óptica tampoco está disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
+***
 
 # Bestiario
 

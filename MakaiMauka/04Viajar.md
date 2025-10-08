@@ -263,10 +263,9 @@ Pasar un día entero luchando contra la tormenta, mojado y sin poder descansar n
 
 En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.
 
-
 ### Precios de trayectos en barco
 
-Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar conél, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
+Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
 
 \sp
 
@@ -328,6 +327,3 @@ Han convertido el tejido de las hojas de palma en un arte que les permite crear 
 
 Por último, las herramientas de **óptica tampoco está disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
 
-\sp
-
-&nbsp;
