@@ -284,6 +284,19 @@ a.pdf {
   }
 }
 
+@media screen and (max-width: 840px) {
+
+  body {
+    padding: 0 10px;
+  }
+
+  body:after,
+  body:before {
+    opacity: 0;
+  }
+
+}
+
 @media print {
   @page {
     size: A4;
