@@ -209,7 +209,7 @@ La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en 
 |Gran oleaje|Mareado (6)|
 |Picadura venenosa de medusa o mantarraya|Envenenado (6)|
 |Bebida en mal estado|Enfermo (6)|
-|Corrientes fuertes que obligan a remar en contra|Cansado (6)|
+|Corrientes fuertes en contra|Cansado (6)|
 
 \sc
 
@@ -227,20 +227,57 @@ La siguiente tabla muestra situaciones y condiciones que como DJ puedes usar en 
 
 Los viajes por mar son muy diferentes a los viajes por tierra que propone el manual básico. Es por ello que tenemos reglas especiales que puedes aplicar en tus aventuras en _Hua Tarakona_ o en tus propias aventuras cuando viajes por mar.
 
-* La tirada de Acampar se convierte en la tirada de XXX
-* El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
+#### Labores en el barco (Marcha)
+
+La tirada de Marcha se convierte en la tirada de Labores del barco. Hablamos desde pilotar y soltar y recoger vela, a achicar agua o limpiar la cubierta. 
+
+Una pifia por parte de alguno de los tripulantes supone problemas que se va a arrastrar la embarcación. Es por ello que **una pifia en esta tirada supone un -1 a la tirada de Fondear**.
+
+Esta tirada **solo tienen que hacerlas las personas que hagan alguna labor en el barco**, los pasajeros no tienen que hacerla, ya que no están haciendo un esfuerzo real para mantener el barco a flote y en movimiento. 
+
+\sp
+
+#### Fondear (Acampar)
+
+La tirada de Acampar se convierte en la tirada de Fondear. No es lo mismo fondear en una playa protegido del oleaje (Costa cubierta) a hacerlo en alta mar a merced de las olas y el viento. La tirada de Fondear deben hacerla por lo menos dos tripulantes y pueden ayudarles otros dos.
+
+El resultado final es la media de las dos tiradas, pero si hay una pifia o un crítico se lo quedan directamente. En caso de salir un crítico y una pifia, gana el crítico.
+
+Pasar muchos días en el mar sin acercarse a la costa complica la navegación, asi que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
+
+#### Atracar y desembarcar
+
+El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
+
+#### Volver sobre tus pasos en el mar
+
+La opción de volver sobre tus pasos no sirve en mar abierto. Las travesías marítimas no siguen senderos, ni caminos, de hecho, no hay una ruta precisa prefijada. La tripulación se guía por el sol y las estrellas para seguir una ruta marítima más o menos amplia. Sin embargo en el resto de masas de aguas esta opción es perfectamente posible.
+
+#### Movimiento
 
 Sobre las velocidades, **en un día de buen tiempo** y con viento un catamarán podría **recorrer 60 km, es decir 2 casillas**, pero si no hay buen tiempo, solo 30 km. En casos de que **no haya viento, no avanzará nada** a no ser que se saquen los **remos con lo que avanzarán 30 km (1 casilla)**, con lo que al día siguiente estarán bastante **cansados (4)**.
 
 En caso de **tormenta no podrán avanzar nada**, tendrán suficiente con mantenerse a flote y pasar la tormenta. 
 
-\sp
-
 Pasar un día entero luchando contra la tormenta, mojado y sin poder descansar ni comer supone un gran esfuerzo, por lo que tras la tormenta estarán tremendamente **cansados (6)**.
 
 En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.
 
+
+### Precios de trayectos en barco
+
+Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar conél, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
+
+\sp
+
+* **Viaje siguiendo la costa (80 mo):** XXX
+* **Viaje entre islas del mismo archipiélago (100 mo):** XXX
+* **Viaje entre archipiélagos atravesando mar abierto (150 mo):** XXX
+* **Viaje a lo desconocido:** Estas grandes aventuras no tienen un precio fijo y quedan a discreción del DJ. Quizas tengan un patrón que sufraga los gastos o tus _hauka_ con sus familias y amigos tengan que abandonar su isla por una erupción volcánica y lanzarse al mar. 
+
 \sinc
+
+&nbsp;
 
 ## Clima
 
@@ -255,9 +292,6 @@ XXX
 Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. Veamos algunas ideas que puedes aplicar:
 
 * En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
-
-\sc
-
 * Puede que tengan algún objeto mágico o les deba un favor algún favor alguna criatura o divinidad marina. Este sería un buen momento para cobrárselo. XXX
 * Si tratan de salvar a otros tripulantes, XXX
 * Quizás quieran salvar algo importante que lleven a bordo. En ese caso XXX
@@ -266,10 +300,9 @@ Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que debe
 
 Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
 
-* Aparecerán en una playa desierta donde no parece que haya civilización cerca. Estarán cansados (6) y desorientados y deshidratados (enfermos 4)
-
 \sp
 
+* Aparecerán en una playa desierta donde no parece que haya civilización cerca. Estarán cansados (6) y desorientados y deshidratados (enfermos 4)
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
 * Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
 
@@ -294,3 +327,7 @@ Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en ca
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
 
 Por último, las herramientas de **óptica tampoco está disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
+
+\sp
+
+&nbsp;

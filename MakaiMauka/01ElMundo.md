@@ -27,7 +27,7 @@ No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hech
 
 ### Surf
 
-Tangaloa enseñó a construir tablas de surf y a usarlas para surcar las olas y por eso se le venera. Sin el surf nuestras vidas estarían vacías y sin hopupu.
+_Tangaloa_ enseñó a construir tablas de surf y a usarlas para surcar las olas y por eso se le venera. Sin el surf nuestras vidas estarían vacías y sin hopupu.
 
 El surf es el deporte más practicado por los habitantes de _Hua Tarakona_. Es tan importante que los y las mejores surfistas son tratados como estrellas y viven simplemente de hacer surf.
 
