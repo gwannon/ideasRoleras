@@ -1,6 +1,6 @@
 # Equipo
 
-XXX
+Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_ para darle color, hablamos de armas de madera, XXX
 
 \sinc
 
@@ -229,7 +229,3 @@ XXX
 |Catamarán|90000|
 
 \sc
-
-\sp
-
-&nbsp;
