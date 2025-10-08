@@ -369,6 +369,8 @@ Puede que algún evento generado por el uso de tokens les obligue a volver a est
 ```
 Chandalf, el mago loco de las gangas inmobiliarias
 
+\sc
+
 Enseñar los inmuebles quizás sea la parte más complicada y divertida de la venta, porque puede pasar de todo y casi siempre con humorístico resultado, sobre todo si el DJ usa sus tokens para generar eventos. Quizás tengan que ir a buscar a su posible comprador a la casita de chocolate de la bruja vecina, o tenéis una plaga de mímicos y cada vez que abrís un armario se comen a alguien.
 
 Lo importante de esta parte es, como en las anteriores, tus jugadores deberán usar sus habilidades de negociación y ventas para solventar los problemas. En el mundo inmobiliario el sajaraja no es aceptable, estás sajando y rajando a posibles clientes, tanto para vender como para comprar.
