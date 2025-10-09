@@ -44,10 +44,10 @@ Les māhū son particularmente respetados como maestres, generalmente de danza h
 ## Razones para viajar
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
-Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas ayudados por las ballenas creadoras y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose que habrá más allá del horizonte.
-Cuando un individuo no está a gusto en su comunidad coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
+Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
+Cuando un individuo **no está a gusto en su comunidad** coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
 
-También es algo normal lanzarse a viajar en busca de fortuna y mejores oportunidades. Y como en el caso anterior tampoco se ve mal. XXX
+También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal. XXX
 
 XXX
 
@@ -510,23 +510,26 @@ Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, s
 
 XXX
 
+### Ciclones
+
 Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. Veamos algunas ideas que puedes aplicar:
 
 * En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
 
-* Puede que tengan algún objeto mágico o les deba un favor algún favor alguna criatura o divinidad marina. Este sería un buen momento para cobrárselo. XXX
-* Si tratan de salvar a otros tripulantes, XXX
-* Quizás quieran salvar algo importante que lleven a bordo. En ese caso XXX
-* Puede que traten de montar algo que flote XXX
-* Si están cerca de la costa tendrán que tratar de evitar los acantilados a los que las olas les están llevando. XXX
+* Si tratan de **salvar a otros tripulantes que haya caído al agua** y se estén ahogando con una tirada de FUE+DES. Si tuvieran que sumergirse para sacarlos a flote podría ser una de FUE+ESP. Se puede ayudar si se lanza al agua.
+* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la forma de usar el objeto mágico de invocar al ser marino.
+* Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen alguna forma de hacer que flote o se irá al fondo del mar.
+* Puede tratar de **montar algo que flote** a base de restos de la nave con una tirada de FUE+INT con un penalizador de -1 por cada pasajero por encima de 2 _(Aquí Jack sí que cabe en la tabla)_. En este caso se puede también ayudar. 
+* Si están cerca de la costa, tendrán que tratar de **evitar los acantilados** a los que las olas les están llevando. Necesitarán FUE+ESP para poder nadar a pesar del cansancio sorteándolos y llegando sanos y salvos a la playa. Si van en la misma embarcación o en restos de ella se podrá ayudar, pero si nadan es muy difícil que alguien pueda ayudarte, ya tienen suficiente con mantenerse a flote. Eso sí, pueden intentar rescatarte.
 
 Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
-
-* Aparecerán en una playa desierta donde no parece que haya civilización cerca. Estarán cansados (6) y desorientados y deshidratados (enfermos 4)
+* Aparecerán en una playa desierta donde no parece que haya civilización cerca. Estarán cansados (6) y desorientados y deshidratados (enfermos 4).
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
 * Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
 
-Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.## Tecnología
+Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
+
+## Tecnología
 La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a qué objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
 
 **La rueda no está desarrollada**. Los isleños hacen rodar troncos para mover objetos pesados como canoas y catamaranes, pero no lo han aplicado en la creación de carros, en parte debido a la falta de fuertes animales de tiro.
