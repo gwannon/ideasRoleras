@@ -76,13 +76,13 @@ Les māhū son particularmente respetados como maestres, generalmente de danza h
 
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
-Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas ayudados por las ballenas creadoras y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose que habrá más allá del horizonte.
+Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
 
 \sp
 
-Cuando un individuo no está a gusto en su comunidad coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
+Cuando un individuo **no está a gusto en su comunidad** coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
 
-También es algo normal lanzarse a viajar en busca de fortuna y mejores oportunidades. Y como en el caso anterior tampoco se ve mal. XXX
+También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal. XXX
 
 XXX
 
