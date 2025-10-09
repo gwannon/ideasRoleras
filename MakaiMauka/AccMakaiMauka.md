@@ -7,24 +7,22 @@
 XXX
 
 ## Hua Tarakona
+XXX
+
+### Un gran archipiélago
 
 XXX
 
 ## Las ballenas
-
-[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
-
-XXX
+[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")XXX
 
 ## Cultura y sociedad
-
 XXX
 
 ### Tatuajes
 Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
 
 Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos, hasta encontrar un sitio donde establecerse.
-
 No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hecho cosas importantes para la comunidad donde viven. Es por ello que en situaciones sociales o de combate la gente con tatuajes trata de enseñarlos lo máximo posible, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar o impresionar a humanos y monstruos de las islas.
 
 ### Surf
@@ -32,6 +30,7 @@ No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hech
 _Tangaloa_ enseñó a construir tablas de surf y a usarlas para surcar las olas y por eso se le venera. Sin el surf nuestras vidas estarían vacías y sin _hopupu_.
 
 El surf es el deporte más practicado por los habitantes de _Hua Tarakona_. Es tan importante que los y las mejores surfistas son tratados como estrellas y viven simplemente de hacer surf.
+
 Las competiciones son eventos importantes y los premios que se ofrecen pueden permitir a un buen surfista sobrevivir todo el año. Es por ello que no es raro encontrarse grupo de surfistas que viajan de asentamiento en asentamiento participando en diferentes pruebas y competiciones para ganarse la vida y poder seguir viajando practicando su deporte favorito.
 
 No es extrañar llegar a una cala perdida y encontrarse con un círculo de tablas de surf clavadas en la arena y en su interior a surfistas descansando junto al fuego.
@@ -43,21 +42,22 @@ _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género
 Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.
 
 ## Razones para viajar
-
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
+
+Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas ayudados por las ballenas creadoras y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose que habrá más allá del horizonte.
+Cuando un individuo no está a gusto en su comunidad coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
+
+También es algo normal lanzarse a viajar en busca de fortuna y mejores oportunidades. Y como en el caso anterior tampoco se ve mal. XXX
 
 XXX
 
 ## Tabú
-
 XXX
 
 ## Aumakuas, kupuas y semidioses
-
 XXX
 
 ## Términos
-
 XXX
 
 ### Hauka
@@ -76,7 +76,6 @@ _Makai_ y _mauka_ son unas de las palabras más útiles que puedes aprender. Est
 
 _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con todo lo que te rodea. Esta palabra engloba moralidad, rectitud, y vida ética, todo a la vez. Cuando se describe algo como _pono_, están diciendo que es correcto en todos los niveles.
 ## Nuevas clases, profesiones y arquetipos
-
 XXX
 
 ### Tatuador
@@ -91,7 +90,7 @@ XXX
 
 # Equipo
 
-XXX
+Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_ para darle color, hablamos de armas de madera, XXX
 
 ## Materiales
 Un punto importante del equipo es que el **metal es conocido** por las gentes de las islas, pero **es escaso y no son hábiles forjando** el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
@@ -476,7 +475,7 @@ La tirada de Acampar se convierte en la tirada de Fondear. No es lo mismo fondea
 
 El resultado final es la media de las dos tiradas, pero si hay una pifia o un crítico se lo quedan directamente. En caso de salir un crítico y una pifia, gana el crítico.
 
-Pasar muchos días en el mar sin acercarse a la costa complica la navegación, asi que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
+Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
 
 #### Atracar y desembarcar
 
@@ -484,7 +483,7 @@ El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por 
 
 #### Volver sobre tus pasos en el mar
 
-La opción de volver sobre tus pasos no sirve en mar abierto. Las travesías marítimas no siguen senderos, ni caminos, de hecho, no hay una ruta precisa prefijada. La tripulación se guía por el sol y las estrellas para seguir una ruta marítima más o menos amplia. Sin embargo en el resto de masas de aguas esta opción es perfectamente posible.
+La opción de volver sobre tus pasos no sirve en mar abierto. Las travesías marítimas no siguen senderos, ni caminos, de hecho, no hay una ruta precisa prefijada. La tripulación se guía por el sol y las estrellas para seguir una ruta marítima más o menos amplia. Sin embargo, en el resto de masas de aguas esta opción es perfectamente posible.
 
 #### Movimiento
 
@@ -499,12 +498,10 @@ En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para t
 ### Precios de trayectos en barco
 
 Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
-* **Viaje siguiendo la costa (80 mo):** XXX
-* **Viaje entre islas del mismo archipiélago (100 mo):** XXX
-* **Viaje entre archipiélagos atravesando mar abierto (150 mo):** XXX
+* **Viaje siguiendo la costa (80 mo):** A veces la forma más sencillas de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en l centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
+* **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3o 4 casillas), pero raramente se adentran en mar abierto.
+* **Viaje entre archipiélagos atravesando mar abierto (150 mo):** Las distancias se acrecentan, ya que abandonamos un archipiélago para llegar a otro. Estos viajes tienen ya sus riesgos y no todo el mundo puede afrontarlos. Suponen una mayor preparación y mejores embarcaciones al estar varios días en alta mar.
 * **Viaje a lo desconocido:** Estas grandes aventuras no tienen un precio fijo y quedan a discreción del DJ. Quizas tengan un patrón que sufraga los gastos o tus _hauka_ con sus familias y amigos tengan que abandonar su isla por una erupción volcánica y lanzarse al mar. 
-
-[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
 
 ## Clima
 En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_kau_) e invierno (_hooilo_). Las temperaturas no varían muchos entre estaciones (de 25 a 30 °C). La única diferencia entre ellas es la cantidad de lluvia.
@@ -515,7 +512,8 @@ XXX
 
 Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. Veamos algunas ideas que puedes aplicar:
 
-* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
+* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+
 * Puede que tengan algún objeto mágico o les deba un favor algún favor alguna criatura o divinidad marina. Este sería un buen momento para cobrárselo. XXX
 * Si tratan de salvar a otros tripulantes, XXX
 * Quizás quieran salvar algo importante que lleven a bordo. En ese caso XXX
@@ -528,19 +526,18 @@ Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El 
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
 * Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
 
-Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
-
-## Tecnología
+Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.## Tecnología
 La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a qué objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
 
 **La rueda no está desarrollada**. Los isleños hacen rodar troncos para mover objetos pesados como canoas y catamaranes, pero no lo han aplicado en la creación de carros, en parte debido a la falta de fuertes animales de tiro.
 
 La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
+
 Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
 
-Por último, las herramientas de **óptica tampoco está disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.***
+Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.***
 
 # Bestiario
 

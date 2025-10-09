@@ -4,17 +4,40 @@
 
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Hua Tarakona
 
+\conc
+
 XXX
+
+### Un gran archipiélago
+
+XXX
+
+\sinc
+
+&nbsp;
 
 ## Las ballenas
 
+\conc
+
 [![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
+
 
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Cultura y sociedad
+
+\conc
 
 XXX
 
@@ -23,6 +46,8 @@ Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, inclu
 
 Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos, hasta encontrar un sitio donde establecerse.
 
+\sp
+
 No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hecho cosas importantes para la comunidad donde viven. Es por ello que en situaciones sociales o de combate la gente con tatuajes trata de enseñarlos lo máximo posible, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar o impresionar a humanos y monstruos de las islas.
 
 ### Surf
@@ -30,8 +55,6 @@ No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hech
 _Tangaloa_ enseñó a construir tablas de surf y a usarlas para surcar las olas y por eso se le venera. Sin el surf nuestras vidas estarían vacías y sin _hopupu_.
 
 El surf es el deporte más practicado por los habitantes de _Hua Tarakona_. Es tan importante que los y las mejores surfistas son tratados como estrellas y viven simplemente de hacer surf.
-
-\sp
 
 Las competiciones son eventos importantes y los premios que se ofrecen pueden permitir a un buen surfista sobrevivir todo el año. Es por ello que no es raro encontrarse grupo de surfistas que viajan de asentamiento en asentamiento participando en diferentes pruebas y competiciones para ganarse la vida y poder seguir viajando practicando su deporte favorito.
 
@@ -43,21 +66,53 @@ _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género
 
 Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.
 
+\sinc
+
+&nbsp;
+
 ## Razones para viajar
+
+\conc
 
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
+Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas ayudados por las ballenas creadoras y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose que habrá más allá del horizonte.
+
+\sp
+
+Cuando un individuo no está a gusto en su comunidad coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
+
+También es algo normal lanzarse a viajar en busca de fortuna y mejores oportunidades. Y como en el caso anterior tampoco se ve mal. XXX
+
 XXX
+
+\sinc
+
+&nbsp;
 
 ## Tabú
 
+\conc
+
 XXX
+
+\sinc
+
+&nbsp;
 
 ## Aumakuas, kupuas y semidioses
 
+\conc
+
 XXX
 
+\sinc
+
+&nbsp;
+
 ## Términos
+
+\conc
 
 XXX
 
@@ -79,7 +134,13 @@ _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con
 
 \sp
 
+\sinc
+
+&nbsp;
+
 ## Nuevas clases, profesiones y arquetipos
+
+\conc
 
 XXX
 
@@ -90,3 +151,7 @@ XXX
 ### Surfista
 
 XXX
+
+\sp
+
+&nbsp;

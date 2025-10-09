@@ -243,7 +243,7 @@ La tirada de Acampar se convierte en la tirada de Fondear. No es lo mismo fondea
 
 El resultado final es la media de las dos tiradas, pero si hay una pifia o un crítico se lo quedan directamente. En caso de salir un crítico y una pifia, gana el crítico.
 
-Pasar muchos días en el mar sin acercarse a la costa complica la navegación, asi que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
+Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
 
 #### Atracar y desembarcar
 
@@ -251,7 +251,7 @@ El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por 
 
 #### Volver sobre tus pasos en el mar
 
-La opción de volver sobre tus pasos no sirve en mar abierto. Las travesías marítimas no siguen senderos, ni caminos, de hecho, no hay una ruta precisa prefijada. La tripulación se guía por el sol y las estrellas para seguir una ruta marítima más o menos amplia. Sin embargo en el resto de masas de aguas esta opción es perfectamente posible.
+La opción de volver sobre tus pasos no sirve en mar abierto. Las travesías marítimas no siguen senderos, ni caminos, de hecho, no hay una ruta precisa prefijada. La tripulación se guía por el sol y las estrellas para seguir una ruta marítima más o menos amplia. Sin embargo, en el resto de masas de aguas esta opción es perfectamente posible.
 
 #### Movimiento
 
@@ -269,16 +269,14 @@ Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, tam
 
 \sp
 
-* **Viaje siguiendo la costa (80 mo):** XXX
-* **Viaje entre islas del mismo archipiélago (100 mo):** XXX
-* **Viaje entre archipiélagos atravesando mar abierto (150 mo):** XXX
+* **Viaje siguiendo la costa (80 mo):** A veces la forma más sencillas de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en l centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
+* **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3o 4 casillas), pero raramente se adentran en mar abierto.
+* **Viaje entre archipiélagos atravesando mar abierto (150 mo):** Las distancias se acrecentan, ya que abandonamos un archipiélago para llegar a otro. Estos viajes tienen ya sus riesgos y no todo el mundo puede afrontarlos. Suponen una mayor preparación y mejores embarcaciones al estar varios días en alta mar.
 * **Viaje a lo desconocido:** Estas grandes aventuras no tienen un precio fijo y quedan a discreción del DJ. Quizas tengan un patrón que sufraga los gastos o tus _hauka_ con sus familias y amigos tengan que abandonar su isla por una erupción volcánica y lanzarse al mar. 
 
 \sinc
 
 &nbsp;
-
-[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
 
 ## Clima
 
@@ -296,6 +294,14 @@ Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que debe
 
 \sp
 
+\sinc
+
+[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+
+&nbsp;
+
+\conc
+
 * Puede que tengan algún objeto mágico o les deba un favor algún favor alguna criatura o divinidad marina. Este sería un buen momento para cobrárselo. XXX
 * Si tratan de salvar a otros tripulantes, XXX
 * Quizás quieran salvar algo importante que lleven a bordo. En ese caso XXX
@@ -310,9 +316,9 @@ Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El 
 
 Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
 
-\sinc
+\sp
 
-&nbsp;
+\sinc
 
 ## Tecnología
 
@@ -324,10 +330,8 @@ La tecnología que van a poder tus _hauka_ en esta ambientación es bastante dif
 
 La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
 
-\sp
-
 Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
 
-Por último, las herramientas de **óptica tampoco está disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
+Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
