@@ -98,9 +98,16 @@ Le dio el premio a mejor web 2025 a una página que claramente usaba IA.
 
 https://elyunquedehefesto.com/
 
+## Friki Vetusto
+
+https://www.youtube.com/watch?v=Nct3T0Z8h54
+https://www.youtube.com/watch?v=G9K49ybqkK0
+
 ## Declaraciones varias a favor de la IA
 
 https://www.youtube.com/watch?v=66da-tSKK0s
+
+https://bsky.app/profile/legendoflua.bsky.social/post/3m2r2t5dh7s22
 
 ---
 
