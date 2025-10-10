@@ -9,3 +9,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRiver in jungle forest vector tropical landscape background lake water cartoon nature illustration with grass creeper and wild amazon scenery rainforest game scene design with beautiful valley by upklyak\\E$"}
 {"rule":"FORM","sentence":"^\\QLa costa puede ser abierta con lo que todo el oleaje del mar os den de lleno y los lance contra las rocas de la costa o de costa cubierta, zonas protegidas del oleaje donde poder fondear durante la tormenta de forma segura.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTropical island cartoon poster with rising sun above sea vector illustration by macrovector\\E$"}
+{"rule":"BILLET","sentence":"^\\QEn Hua Tarakona no existen ni las monedas, ni los billetes de curso legal, ni tampoco letras de cambio, pagarés y otras figuras similares.\\E$"}

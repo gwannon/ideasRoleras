@@ -1,6 +1,6 @@
 # Equipo
 
-Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_ para darle color, hablamos de armas de madera, XXX
+Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_. Con este equipo tus _hauka_ podrá empreder sus viajes y enfrentarse a todos los problemas y desafios que como DJ les pongas por delante. 
 
 \sinc
 
@@ -34,9 +34,9 @@ Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades
 
 XXX
 
-Si no quieres complicarte, puedes dejar el equipo normal de juego de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
-
 \sp
+
+Si no quieres complicarte, puedes dejar el equipo normal de juego de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
 
 \sinc
 
@@ -72,13 +72,11 @@ Otra opción, son los huesos de ballena tallados que permiten crear hojas ligera
 
 **_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
 
-&nbsp;
+\sp
 
 [![Neanderthal primitive rock weapon flat set by pch.vector](./images/horca.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
-
-\sp
 
 ### Hachas
 
@@ -214,7 +212,27 @@ Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma t
 
 \conc
 
-XXX
+En _Hua Tarakona_ no existen ni las monedas, ni los billetes de curso legal, ni tampoco letras de cambio, pagarés y otras figuras similares. Tampoco son abundantes los metales y las piedras preciosas. Así que **el trueque impera en todo el archipiélago**. 
+
+Cada comunidad tiene ya establecidas unas tasas de cambio de manera que, por ejemplo, lo normal es conseguir 1 docena de huevos por 3 kilos de cocos.
+
+Estas tasas son más o menos universales. Igual en una zona con muchas palmeras cocoteras tengas que dar 3 kilos y medio o durante la anidación de las aves tengas que poner 1 docena y media de huevos. Pero en general, es una diferencia despreciable de la que no deberías preocuparte.
+
+Todo esto supone que tus _hauka_ viajar con sus mochilas y bolsas llenas de objetos de artesanía y materias primas para intercambiar. 
+
+Puede haber eventos que echen a perder los materiales que van a intercambiar, como que se moje una mochila y se eche a perder el grano de arroz que llevaban para trocar. Pero este tipo de cosas no deberían ser normales, solo deberían ser motores de aventura. Quizás sus posesiones se han podrido al estar muchos días perdidos en un húmedo pantano y tengan que aceptar algún trabajo para conseguir el dinero perdido.
+
+A nivel de juego el dinero va a funcionar igual que en el manual básico salvo por dos excepciones. Primero, **el dinero va a suponer peso extra** que tus _hauka_ van a tener que tener en cuenta al calcular su carga.
+
+**Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De forma que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
+
+Los objetos para trocar solo cuentan como objetos cargados, nunca, salvo excepciones como joyas y abalorios caros, podrían tomarse como objetos equipados. Por ejemplo, las perlas sí son cómodas de transportar y aceptadas en todas partes. Podrían llevarse un par de miles de monedas de oro en un colgante y tomarse como un objeto equipado.
+
+En caso de llevarlo como objetos cargados, el peso cambia de manera que ocupan 1 de tamaño por cada 5.000 mo. Quizás puedan aligerar el peso bastante, cambiando sus posesiones por perlas, pero, por ejemplo, no podrán comprar con ellas cosas baratas como unas raciones de viaje o un sombrero de palma.
+
+\sp
+
+La otra excepción a las reglas básicas que puedes aplicar es que **los objetos al venderse no pierden la mitad de su valor**. Es normal intercambiar objetos de segunda mano mientras estén en buenas condiciones, así que no tienen pérdida de valor al venderlas.
 
 ### Tabla de precios especiales
 
@@ -228,4 +246,6 @@ XXX
 |Canoa multicasco|5000|
 |Catamarán|90000|
 
-\sc
+\sp
+
+&nbsp;
