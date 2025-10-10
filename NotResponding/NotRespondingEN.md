@@ -446,7 +446,7 @@ Your software run on an old computer in a nuclear silo from the 1980s/90s. The s
 
 But that is a lie; there is one way out, one way out. When the server’s temperature reaches 9, a high-priority scheduled task is triggered, and the DMZ sends a warning email to the system administrator to intervene. If they attach themselves to the email, they can escape from the server, or perhaps even jump from the network card to another, more modern computer in the silo when the DMZ opens.
 
-**COMING SOON (April 2025)**
+**COMING SOON**
 
 \sp
 

@@ -378,6 +378,24 @@ a.pdf:nth-of-type(1) {
   }
 }
 
+@media screen and (max-width: 840px) {
+  body {
+    padding: 0 var(--padding);
+  }
+  div:has(table.special) {
+    overflow: auto;
+  }
+
+  h1 {
+        word-wrap: break-word;
+  }
+
+
+  .saltopagina {
+    opacity: 0;
+  }
+}
+
 img {
   max-width: 100%;
 }
