@@ -10,3 +10,6 @@
 {"rule":"FORM","sentence":"^\\QLa costa puede ser abierta con lo que todo el oleaje del mar os den de lleno y los lance contra las rocas de la costa o de costa cubierta, zonas protegidas del oleaje donde poder fondear durante la tormenta de forma segura.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTropical island cartoon poster with rising sun above sea vector illustration by macrovector\\E$"}
 {"rule":"BILLET","sentence":"^\\QEn Hua Tarakona no existen ni las monedas, ni los billetes de curso legal, ni tampoco letras de cambio, pagarés y otras figuras similares.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHand drawn tropical sunset background by freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCartoon stormy seascape rainfall and lightning by upklyak\\E$"}
+{"rule":"REAL","sentence":"^\\QEsta tirada solo tienen que hacerlas las personas que hagan alguna labor en el barco, los pasajeros no tienen que hacerla, ya que no están haciendo un esfuerzo real para mantener el barco a flote y en movimiento.\\E$"}

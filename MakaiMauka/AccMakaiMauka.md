@@ -11,18 +11,21 @@ XXX
 
 ### Un gran archipiélago
 
-XXX
+XXX[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
 
 ## Las ballenas
-[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")XXX
+Según las leyendas, dos grandes ballenas, Batú y Mautu, crearon todas las islas de _Hua Tarakona_. XXX 
 
-## Cultura y sociedad
+Sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de noche y su inhalación la bajamar de día. Al exhalar Mautu crea la pleamar de día y al inhalar se genera la bajamar de noche.
+
+XXX## Cultura y sociedad
 XXX
 
 ### Tatuajes
 Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
 
 Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos, hasta encontrar un sitio donde establecerse.
+
 No cualquiera es tatuado, ese honor solo sé reserva a las personas que han hecho cosas importantes para la comunidad donde viven. Es por ello que en situaciones sociales o de combate la gente con tatuajes trata de enseñarlos lo máximo posible, bien como forma de mostrar su importancia y valor o como forma de intimidación. Una buena cantidad de tatuajes podría dar ventaja a la hora de intimidar o impresionar a humanos y monstruos de las islas.
 
 ### Surf
@@ -39,12 +42,11 @@ No es extrañar llegar a una cala perdida y encontrarse con un círculo de tabla
 
 _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género. Se considera que encarnan tanto el espíritu masculino como el femenino.
 
-Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.
-
-## Razones para viajar
+Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.## Razones para viajar
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
 Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
+
 Cuando un individuo **no está a gusto en su comunidad** coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
 
 También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal. XXX
@@ -55,9 +57,7 @@ XXX
 XXX
 
 ## Aumakuas, kupuas y semidioses
-XXX
-
-## Términos
+XXX## Términos
 XXX
 
 ### Hauka
@@ -522,9 +522,9 @@ En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para t
 
 Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
 
-* **Viaje corto (20 m0):** Cortosimo viajes para cruzar la bahía, llegar a un islote cercano, cruzar un río, no debería ser más allá de una hora. seguramente hay un servicio que hace el trayecto con frecuencia o se puede pagar a un pescador local para hacerlo.
-* **Viaje siguiendo la costa (80 mo):** A veces la forma más sencillas de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en l centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
-* **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3o 4 casillas), pero raramente se adentran en mar abierto.
+* **Viaje corto (20 mo):** Cortísimo viajes para cruzar la bahía, llegar a un islote cercano, cruzar un río, no debería ser más allá de una hora. Seguramente hay un servicio que hace el trayecto con frecuencia o se puede pagar a un pescador local para hacerlo.
+* **Viaje siguiendo la costa (80 mo):** A veces la manera más sencilla de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en el centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
+* **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3 o 4 casillas), pero raramente se adentran en mar abierto.
 * **Viaje entre archipiélagos atravesando mar abierto (150 mo):** Las distancias se acrecentan, ya que abandonamos un archipiélago para llegar a otro. Estos viajes tienen ya sus riesgos y no todo el mundo puede afrontarlos. Suponen una mayor preparación y mejores embarcaciones al estar varios días en alta mar.
 * **Viaje a lo desconocido:** Estas grandes aventuras no tienen un precio fijo y quedan a discreción del DJ. Quizas tengan un patrón que sufraga los gastos o tus _hauka_ con sus familias y amigos tengan que abandonar su isla por una erupción volcánica y lanzarse al mar. 
 
@@ -541,9 +541,9 @@ Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que debe
 
 * En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
 * Si tratan de **salvar a otros tripulantes que haya caído al agua** y se estén ahogando con una tirada de FUE+DES. Si tuvieran que sumergirse para sacarlos a flote podría ser una de FUE+ESP. Se puede ayudar si se lanza al agua.
-* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la forma de usar el objeto mágico de invocar al ser marino.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la manera de usar el objeto mágico o de invocar al ser marino.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
 
-* Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen alguna forma de hacer que flote o se irá al fondo del mar.
+* Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen algún método de hacer que flote o se irá al fondo del mar.
 * Si están cerca de la costa, tendrán que tratar de **evitar los acantilados** a los que las olas les están llevando. Necesitarán FUE+ESP para poder nadar a pesar del cansancio sorteándolos y llegando sanos y salvos a la playa. Si van en la misma embarcación o en restos de ella se podrá ayudar, pero si nadan es muy difícil que alguien pueda ayudarte, ya tienen suficiente con mantenerse a flote. Eso sí, pueden intentar rescatarte.
 * Puede tratar de **montar algo que flote** a base de restos de la nave con una tirada de FUE+INT con un penalizador de -1 por cada pasajero por encima de 2 _(Aquí Jack sí que cabe en la tabla)_. En este caso se puede también ayudar. 
 

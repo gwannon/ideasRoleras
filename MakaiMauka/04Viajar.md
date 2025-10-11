@@ -281,9 +281,9 @@ En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para t
 
 Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
 
-* **Viaje corto (20 m0):** Cortosimo viajes para cruzar la bahía, llegar a un islote cercano, cruzar un río, no debería ser más allá de una hora. seguramente hay un servicio que hace el trayecto con frecuencia o se puede pagar a un pescador local para hacerlo.
-* **Viaje siguiendo la costa (80 mo):** A veces la forma más sencillas de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en l centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
-* **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3o 4 casillas), pero raramente se adentran en mar abierto.
+* **Viaje corto (20 mo):** Cortísimo viajes para cruzar la bahía, llegar a un islote cercano, cruzar un río, no debería ser más allá de una hora. Seguramente hay un servicio que hace el trayecto con frecuencia o se puede pagar a un pescador local para hacerlo.
+* **Viaje siguiendo la costa (80 mo):** A veces la manera más sencilla de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en el centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
+* **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3 o 4 casillas), pero raramente se adentran en mar abierto.
 
 \sp
 
@@ -310,7 +310,7 @@ Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que debe
 
 * En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
 * Si tratan de **salvar a otros tripulantes que haya caído al agua** y se estén ahogando con una tirada de FUE+DES. Si tuvieran que sumergirse para sacarlos a flote podría ser una de FUE+ESP. Se puede ayudar si se lanza al agua.
-* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la forma de usar el objeto mágico de invocar al ser marino.
+* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la manera de usar el objeto mágico o de invocar al ser marino.
 
 \sp
 
@@ -322,7 +322,7 @@ Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que debe
 
 \conc
 
-* Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen alguna forma de hacer que flote o se irá al fondo del mar.
+* Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen algún método de hacer que flote o se irá al fondo del mar.
 * Si están cerca de la costa, tendrán que tratar de **evitar los acantilados** a los que las olas les están llevando. Necesitarán FUE+ESP para poder nadar a pesar del cansancio sorteándolos y llegando sanos y salvos a la playa. Si van en la misma embarcación o en restos de ella se podrá ayudar, pero si nadan es muy difícil que alguien pueda ayudarte, ya tienen suficiente con mantenerse a flote. Eso sí, pueden intentar rescatarte.
 * Puede tratar de **montar algo que flote** a base de restos de la nave con una tirada de FUE+INT con un penalizador de -1 por cada pasajero por encima de 2 _(Aquí Jack sí que cabe en la tabla)_. En este caso se puede también ayudar. 
 
