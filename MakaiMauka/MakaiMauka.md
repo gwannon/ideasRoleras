@@ -94,7 +94,6 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
-* "Selva," or South American rainforest by [Bayard, Émile](https://www.oldbookillustrations.com/illustrations/rainforest/)
 * Commission: Taniwha By [Dream-Piper](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281)
 * ProjChim: Chimera Forms Close-Up By [Dream-Piper](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827)
 * Nanaue by [Knightkamia](https://mythus.fandom.com/wiki/Nanaue)
@@ -108,14 +107,15 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Flat candelaria tamales collection by [freepik](https://www.freepik.com/free-vector/flat-candelaria-tamales-collection_21530497.htm)
 * Neanderthal primitive rock weapon flat set by [pch.vector](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm)
 * Tropical island cartoon poster with rising sun above sea vector illustration by [macrovector](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm)
+* Volcanic lava erupt landscape prehistoric volcano by [upklyak](https://www.freepik.com/free-vector/volcanic-lava-erupt-landscape-prehistoric-volcano_375731237.htm)
 
 \sc
 
-* Volcanic lava erupt landscape prehistoric volcano by [upklyak](https://www.freepik.com/free-vector/volcanic-lava-erupt-landscape-prehistoric-volcano_375731237.htm)
 * Silueta de niña hawaiana de diseño plano por [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112447.htm)
 * Vector de ilustración de cesta de viaje vintage, remezclado de la obra de arte de Vincent P. Rosel por [rawpixel.com](https://www.freepik.es/vector-gratis/vector-ilustracion-cesta-viaje-vintage-remezclado-obra-arte-vincent-p-rosel_16335422.htm)
 * Silueta de niña hawaiana de diseño plano de [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112452.htm)
 * Cartoon stormy seascape rainfall and lightning by [upklyak](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm)
+* Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
 
 ***
 

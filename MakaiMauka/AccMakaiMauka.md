@@ -504,6 +504,10 @@ El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por 
 
 La opción de volver sobre tus pasos no sirve en mar abierto. Las travesías marítimas no siguen senderos, ni caminos, de hecho, no hay una ruta precisa prefijada. La tripulación se guía por el sol y las estrellas para seguir una ruta marítima más o menos amplia. Sin embargo, en el resto de masas de aguas esta opción es perfectamente posible.
 
+#### Conseguir comida y agua
+
+Durante un viaje por mar se puede conseguir comida pescando igual que se hace en tierra, pero no agua dulce. La única fuente de agua es la lluvia. Si tus _hauka_ tienen la precaución de recoger agua los días de lluvia podrías darles algunas raciones de agua extra.
+
 #### Movimiento
 
 Sobre las velocidades, **en un día de buen tiempo** y con viento un catamarán podría **recorrer 60 km, es decir 2 casillas**, pero si no hay buen tiempo, solo 30 km. En casos de que **no haya viento, no avanzará nada** a no ser que se saquen los **remos con lo que avanzarán 30 km (1 casilla)**, con lo que al día siguiente estarán bastante **cansados (4)**.
@@ -512,11 +516,13 @@ En caso de **tormenta no podrán avanzar nada**, tendrán suficiente con mantene
 
 Pasar un día entero luchando contra la tormenta, mojado y sin poder descansar ni comer supone un gran esfuerzo, por lo que tras la tormenta estarán tremendamente **cansados (6)**.
 
-En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.
+En las zonas de **arrecifes deberán recoger la velas y ponerse a remar** para tener más control de la navegación y no encallar en las rocas. En un día solo se podrá atravesar una casilla de arrecifes y además se acabará **cansado (4)**.[![Hand drawn tropical sunset background by freepik](./images/9426773.jpg "Hand drawn tropical sunset background by freepik")](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm "Hand drawn tropical sunset background by freepik")
 
 ### Precios de trayectos en barco
 
 Tus _hauka_ no necesitan siempre comprar un barco y lanzarse al mar con él, también puedo contratar a un capitán con barco y tripulación y hacer un viaje por el mar, pero tiene un precio y no es barato. Los precios son por casilla recorrida por tripulante.
+
+* **Viaje corto (20 m0):** Cortosimo viajes para cruzar la bahía, llegar a un islote cercano, cruzar un río, no debería ser más allá de una hora. seguramente hay un servicio que hace el trayecto con frecuencia o se puede pagar a un pescador local para hacerlo.
 * **Viaje siguiendo la costa (80 mo):** A veces la forma más sencillas de ir de una punta a otra de una isla es rodearla en barco, sobre todo si en l centro hay una gran cordillera sin pasos de montaña. Son viajes rápidos (1 casilla o dos) y baratos que siguen la costa y salvo arrecifes no suelen tener problemas. 
 * **Viaje entre islas del mismo archipiélago (100 mo):** Los diferentes mini archipiélagos que forman el gran archipiélago de _Hua Tarakona_ están formados de islas, normalmente, muy cercanas entre sí. Moverse por el cada conjunto de islas es muy fácil y sencillo si se va de isla en isla. Son viajes algo más largos (3o 4 casillas), pero raramente se adentran en mar abierto.
 * **Viaje entre archipiélagos atravesando mar abierto (150 mo):** Las distancias se acrecentan, ya que abandonamos un archipiélago para llegar a otro. Estos viajes tienen ya sus riesgos y no todo el mundo puede afrontarlos. Suponen una mayor preparación y mejores embarcaciones al estar varios días en alta mar.
@@ -533,19 +539,19 @@ XXX
 
 Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. Veamos algunas ideas que puedes aplicar:
 
-* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
-
+* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
 * Si tratan de **salvar a otros tripulantes que haya caído al agua** y se estén ahogando con una tirada de FUE+DES. Si tuvieran que sumergirse para sacarlos a flote podría ser una de FUE+ESP. Se puede ayudar si se lanza al agua.
-* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la forma de usar el objeto mágico de invocar al ser marino.
+* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la forma de usar el objeto mágico de invocar al ser marino.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+
 * Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen alguna forma de hacer que flote o se irá al fondo del mar.
-* Puede tratar de **montar algo que flote** a base de restos de la nave con una tirada de FUE+INT con un penalizador de -1 por cada pasajero por encima de 2 _(Aquí Jack sí que cabe en la tabla)_. En este caso se puede también ayudar. 
 * Si están cerca de la costa, tendrán que tratar de **evitar los acantilados** a los que las olas les están llevando. Necesitarán FUE+ESP para poder nadar a pesar del cansancio sorteándolos y llegando sanos y salvos a la playa. Si van en la misma embarcación o en restos de ella se podrá ayudar, pero si nadan es muy difícil que alguien pueda ayudarte, ya tienen suficiente con mantenerse a flote. Eso sí, pueden intentar rescatarte.
+* Puede tratar de **montar algo que flote** a base de restos de la nave con una tirada de FUE+INT con un penalizador de -1 por cada pasajero por encima de 2 _(Aquí Jack sí que cabe en la tabla)_. En este caso se puede también ayudar. 
 
 Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
+
 * Aparecerán en una playa desierta donde no parece que haya civilización cerca. Estarán cansados (6) y desorientados y deshidratados (enfermos 4).
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
 * Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
-
 Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
 
 ## Tecnología
@@ -559,7 +565,9 @@ Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en ca
 
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
 
-Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.***
+Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
+
+***
 
 # Bestiario
 
@@ -930,7 +938,6 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Sketch of Fijian outrigger canoe with lateen sail by [Museum of New Zealand](https://picryl.com/media/sketch-of-fijian-outrigger-canoe-with-lateen-sail-eeedcb)
 * Tikiwhakapakoko by [John White](https://picryl.com/media/tikiwhakapakoko-626d5d)
 * Humpback whale watercolor painting in watercolor banner vector by [rawpixel.com](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm)
-* "Selva," or South American rainforest by [Bayard, Émile](https://www.oldbookillustrations.com/illustrations/rainforest/)
 * Commission: Taniwha By [Dream-Piper](https://www.deviantart.com/dream-piper/art/Commission-Taniwha-1006296281)
 * ProjChim: Chimera Forms Close-Up By [Dream-Piper](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827)
 * Nanaue by [Knightkamia](https://mythus.fandom.com/wiki/Nanaue)
@@ -949,6 +956,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Vector de ilustración de cesta de viaje vintage, remezclado de la obra de arte de Vincent P. Rosel por [rawpixel.com](https://www.freepik.es/vector-gratis/vector-ilustracion-cesta-viaje-vintage-remezclado-obra-arte-vincent-p-rosel_16335422.htm)
 * Silueta de niña hawaiana de diseño plano de [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112452.htm)
 * Cartoon stormy seascape rainfall and lightning by [upklyak](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm)
+* Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
 
 ***
 Makai Mauka 
