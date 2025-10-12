@@ -239,12 +239,12 @@ La otra excepción a las reglas básicas que puedes aplicar es que **los objetos
 |Objeto|Precio|
 |---|---|
 |Konane|500|
-|Herramientas de tatuaje|1500|
+|Herramientas de tatuaje|1.500|
 |Tambor de calabaza Ipu|400|
-|Canoa|3000|
+|Canoa|3.000|
 |Tabla de surf|500|
-|Canoa multicasco|5000|
-|Catamarán|90000|
+|Canoa multicasco|5.000|
+|Catamarán|90.000|
 
 \sp
 
