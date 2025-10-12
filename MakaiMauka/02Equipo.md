@@ -1,6 +1,6 @@
 # Equipo
 
-Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_. Con este equipo tus _hauka_ podrá empreder sus viajes y enfrentarse a todos los problemas y desafios que como DJ les pongas por delante. 
+Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_. Con este equipo tus _hauka_ podrá emprender sus viajes y enfrentarse a todos los problemas y desafíos que como DJ les pongas por delante. 
 
 \sinc
 
@@ -22,7 +22,7 @@ Debido a la intensa actividad volcánica de las islas, los materiales como la ob
 
 La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
 
-Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación.
+Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como hueso de ancestros o de ballena.
  
 \sinc
 
@@ -52,7 +52,7 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 
 ### Hojas cortas
 
-Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la _koa_ con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo en como si fuera una sierra.
+Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
 
 Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
 

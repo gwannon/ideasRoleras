@@ -15,3 +15,11 @@
 {"rule":"REAL","sentence":"^\\QEsta tirada solo tienen que hacerlas las personas que hagan alguna labor en el barco, los pasajeros no tienen que hacerla, ya que no están haciendo un esfuerzo real para mantener el barco a flote y en movimiento.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHumpback whale watercolor painting in watercolor banner vector by rawpixel.com\\E$"}
 {"rule":"REALIZE","sentence":"^\\QHauka se refiere tanto a la persona como al grupo que está realizando un viaje.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QKayak canoe design illustration set by pikisuperstar\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTwo kotiate made of whalebone by Rudolph89\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNeanderthal primitive rock weapon flat set by pch.vector\\E$"}
+{"rule":"A_NIVEL_DE","sentence":"^\\QA nivel de juego, tanto el arco como la honda son exactamente, solo son diferentes a nivel estético.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLeiomano by Jen\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBoard game collection by freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QModel of outrigger canoe from Hawai‘i by Joel Abroad\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QModel of outrigger canoe from Hawai‘i by Joel Abroad\\E$"}
