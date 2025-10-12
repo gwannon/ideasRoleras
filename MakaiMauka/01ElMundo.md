@@ -113,15 +113,17 @@ XXX
 
 \conc
 
-XXX
+Una forma de entrar en el mundo de _Hua Tarakona_ es usar sus palabras. Es por ello que aquí tienes unos cuantos términos que podrías usar en tus partidas tanto de director como jugador.
 
 ### Hauka
 
-_Hauka_ se refiere tanto a la persona como al grupo que está realizando un viaje. XXX
+_Hauka_ se refiere tanto a la persona como al grupo que está realizando un viaje. Podría traducirse como viajero, pero una traducción más exacta sería peregrino, un viajero que no solo busca llegar a un destino, si no, además, cumplir una misión.
 
 ### Hopupu
 
-XXX
+_Hoppupu_ se refiere a un estado de entusiasmo o emoción por algo. Por ejemplo, es muy usado en ámbito surfero para describir la emoción que se siente ante la posibilidad de coger algunas olas.
+
+Tus _hauka_ deberían sentir el _hopupu_ ante la proximidad de un viaje, la excitación ante madrugar, coger tus bártulos y lanzarte al camino o soltar amarras y dejarte llevar por el viento.
 
 ### Makai y mauka
 
@@ -143,13 +145,72 @@ _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con
 
 XXX
 
-### Tatuador
+### Artistas
+
+Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. XXX
+
+* **Ejemplos de profesiones:** Tatuador, Bailarín Hula, XXX
+* **Ejemplos de acciones:** XXX
+
+#### XXX
 
 XXX
 
-### Surfista
+* **Efecto de la Habilidad:** XXX
+* **Prerrequisitos:** XXX
+* **Características:** XXX
+* **Número objetivo:** XXX
+
+#### XXX
 
 XXX
+
+* **Efecto de la Habilidad:** XXX
+* **Prerrequisitos:** XXX
+* **Características:** XXX
+* **Número objetivo:** XXX
+
+#### XXX
+
+XXX
+
+* **Efecto de la Habilidad:** XXX
+* **Prerrequisitos:** XXX
+* **Características:** XXX
+* **Número objetivo:** XXX
+
+### Marino
+
+XXX
+
+* **Ejemplos de profesiones:** Pescador, Surfista, XXX
+* **Ejemplos de acciones:** XXX
+
+#### XXX
+
+XXX
+
+* **Efecto de la Habilidad:** XXX
+* **Prerrequisitos:** XXX
+* **Características:** XXX
+* **Número objetivo:** XXX
+
+#### Adiestrar
+
+Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estas en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos. Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
+
+* **Efecto de la Habilidad:** XXX
+* **Prerrequisitos:** XXX
+* **Características:** XXX
+* **Número objetivo:** XXX
+
+#### XXX
+
+XXX
+
+* **Efecto de la Habilidad:** XXX
+* **Prerrequisitos:** XXX
+* **Características:** XXX
 
 \sp
 
