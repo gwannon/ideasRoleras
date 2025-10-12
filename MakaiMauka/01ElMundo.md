@@ -45,7 +45,7 @@ XXX
 XXX
 
 ### Tatuajes
-Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen formas geométricas y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
+Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen patrones geométricos y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
 
 Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos, hasta encontrar un sitio donde establecerse.
 
@@ -113,7 +113,7 @@ XXX
 
 \conc
 
-Una forma de entrar en el mundo de _Hua Tarakona_ es usar sus palabras. Es por ello que aquí tienes unos cuantos términos que podrías usar en tus partidas tanto de director como jugador.
+Una manera de entrar en el mundo de _Hua Tarakona_ es usar sus palabras. Es por ello que aquí tienes unos cuantos términos que podrías usar en tus partidas tanto de director como jugador.
 
 ### Hauka
 
@@ -121,7 +121,7 @@ _Hauka_ se refiere tanto a la persona como al grupo que está realizando un viaj
 
 ### Hopupu
 
-_Hoppupu_ se refiere a un estado de entusiasmo o emoción por algo. Por ejemplo, es muy usado en ámbito surfero para describir la emoción que se siente ante la posibilidad de coger algunas olas.
+_Hopupu_ se refiere a un estado de entusiasmo o emoción por algo. Por ejemplo, es muy usado en ámbito surfero para describir la emoción que se siente ante la posibilidad de coger algunas olas.
 
 Tus _hauka_ deberían sentir el _hopupu_ ante la proximidad de un viaje, la excitación ante madrugar, coger tus bártulos y lanzarte al camino o soltar amarras y dejarte llevar por el viento.
 
@@ -181,37 +181,30 @@ XXX
 
 ### Marino
 
-XXX
+Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. XXX
 
-* **Ejemplos de profesiones:** Pescador, Surfista, XXX
-* **Ejemplos de acciones:** XXX
+* **Ejemplos de profesiones:** Pescador, Surfista, Marinero
+* **Ejemplos de acciones:** pescar, nadar, surfear, navegar
 
-#### XXX
+#### Agua salada en tus venas
 
-XXX
+El mar es parte de tu vida y el agua salada corre por tus venas.
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+* **Efecto de la Habilidad:** +2 a las tiradas de Marcha/Labores del mar, Orientación/Navegación y Acampada/Fondear, mientras estas en Masas de agua y en terrenos cercanos al mar y ríos (playa, acantilados litorales y riachuelos).
 
 #### Adiestrar
 
 Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estas en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos. Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
-
-#### XXX
-
-XXX
-
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
+* **Efecto de la Habilidad:** Permite que tus animales sean acuáticos y te permite tener un animal acuático extra de un total de 2.
 
 \sp
 
-&nbsp;
+#### Pescar
+
+Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marinos. Puedes usar esta Habilidad justo antes de una tirada de Acampada/Fondear. Sin embargo, si decides pararte a sacar tu red de pesca o de sumergirte con tu tridente, no puedes ayudar a montar el campamento o fondear la embarcación. Cuanto más alto sea el resultado, más piezas pescas.
+
+* **Efecto de la Habilidad:** Consigues un número de raciones igual a (resultado de la tirada – número objetivo), pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** las hace sabrosas y **pifia** te da una condición (Cansado 6).
+* **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados.
+* **Características:** DES+INT
+* **Número objetivo:** Topografía

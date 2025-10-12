@@ -441,3 +441,6 @@ acrecentan
 mo
 ESP
 INT
+Batú
+Mautu
+valorades

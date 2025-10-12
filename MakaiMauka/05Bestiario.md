@@ -327,7 +327,7 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
 
 * **Nivel/Tipo:** XXX / Acuático
-* **Botín:** XXX
+* **Botín:** Perla gigante (5.000 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
