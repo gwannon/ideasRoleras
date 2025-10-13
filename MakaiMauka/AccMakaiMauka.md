@@ -143,7 +143,7 @@ Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marin
 
 # Equipo
 
-Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_. Con este equipo tus _hauka_ podrá empreder sus viajes y enfrentarse a todos los problemas y desafios que como DJ les pongas por delante. 
+Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hua Tarakona_. Con este equipo tus _hauka_ podrá emprender sus viajes y enfrentarse a todos los problemas y desafíos que como DJ les pongas por delante. 
 
 ## Materiales
 Un punto importante del equipo es que el **metal es conocido** por las gentes de las islas, pero **es escaso y no son hábiles forjando** el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
@@ -158,11 +158,11 @@ Debido a la intensa actividad volcánica de las islas, los materiales como la ob
 
 La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
 
-Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación.
+Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como «hueso de ancestros» o «de ballena».
  
 ## Tecnología
 XXX
-Si no quieres complicarte, puedes dejar el equipo normal de juego de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
+Si no quieres complicarte, puedes dejar el equipo normal de juegos de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
 
 ## Armas
 Tus _hauka_ disponen de una gran variedad de lanzas de todos los tamaños (pequeñas, medidas y pesadas) y tanto de cuerpo a cuerpo como a distancia.
@@ -171,7 +171,7 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 
 ### Hojas cortas
 
-Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la _koa_ con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo en como si fuera una sierra.
+Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
 
 Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
 
@@ -246,17 +246,14 @@ Las herramientas de tatuaje ni se compran ni se venden, se pasan de maestro a ap
 
 Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de fibras de coco, sirve para marcar el ritmo de los bailes _hula_. La superficie se pule con arena y como es muy frágil no se graba nada en su superficie. En su lugar se cubren con una red y se decora la red con coloridos elementos florales.
 
-[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
-
 ## Embarcaciones
 Los isleños son increíbles navegantes. Llevan el mar en la sangre y este no tiene secretos para ellos. Con ellas pueden viajar cientos de kilómetros familias enteras con todas sus pertenencias y animales de granja para establecerse en una nueva isla.
 
 Sus embarcaciones pueden parecer frágiles y arcaicas, pero están perfectamente adaptadas a su mar y su meteorología. Poe ejemplo, tras una terrible tormenta, es muy fácil la tripulación parar en alguna pequeña isla y con unas herramientas mínimas hacer las reparaciones necesarias para poder continuar su travesía. Naves mucho más modernas y complejas tendrían que estar semanas carenando y en diques secos para hacer las reparaciones.
 
-Otra característica importante es que estas embarcaciones no viajan solas, suelen hacerlo en convoyes donde se ayudan entre ellas en todo lo que pueden. si una tiene problema el resto pueden prestar ayuda y si alguna está a punto de hundirse, sus tripulantes se pueden trasladarse a otras embarcaciones y continuar el viaje.
-### Tabla de surf
+Otra característica importante es que estas embarcaciones no viajan solas, suelen hacerlo en convoyes donde se ayudan entre ellas en todo lo que pueden. Si una tiene problema el resto pueden prestar ayuda y si alguna está a punto de hundirse, sus tripulantes se pueden trasladarse a otras embarcaciones y continuar el viaje.
 
-Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
+[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
 
 ### Canoa
 
@@ -266,16 +263,43 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 
 ### Catamarán y canoa multicasco
 
-Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
+Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. 
+La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
 
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje. De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
 
+### Tabla de surf
+
+Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
+
 ## Ropas y calzado
 Las ropas de abrigo son muy poco comunes, recuerda que las temperaturas nunca bajan de 20 °C, salvo en los picos nevados de algunas montañas. Pero la ropa contra el viento y la lluvia es bastante común.
 
-Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.## Moneda y trueque
+Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además, en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.
+
+## Útiles de pesca
+XXX
+
+### Redes
+
+La forma más común de pesca es usando redes y recogiéndolas, bien desde la orilla o desde canoas. XXX
+
+### Aparejos
+
+Los aparejos constan de varios elementos, anzuelos de hueso, boyas de madera y cuerda resistente tejida con fibra de coco y un invento con el soltar o recoger el sedal. No es tan eficaz como las redes, pero permite capturar mayores piezas que de otra manera romperían la red y escaparían. 
+
+Como con la red, se puede usar desde la orilla o desde una embarcación y en cada sitio se obtienen piezas diferentes.
+Mucha gente se toma esta forma de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.
+
+### Tridente y lanza
+
+XXX
+
+En caso de necesidad se podría usar de arma, pero no está pensada para ser utilizada en combate, sino para pescar, por lo que no debería ni ser muy útil, ni hace mucho daño, ni tener mucha resistencia.
+
+## Moneda y trueque
 En _Hua Tarakona_ no existen ni las monedas, ni los billetes de curso legal, ni tampoco letras de cambio, pagarés y otras figuras similares. Tampoco son abundantes los metales y las piedras preciosas. Así que **el trueque impera en todo el archipiélago**. 
 
 Cada comunidad tiene ya establecidas unas tasas de cambio de manera que, por ejemplo, lo normal es conseguir 1 docena de huevos por 3 kilos de cocos.
@@ -289,23 +313,25 @@ Puede haber eventos que echen a perder los materiales que van a intercambiar, co
 A nivel de juego el dinero va a funcionar igual que en el manual básico salvo por dos excepciones. Primero, **el dinero va a suponer peso extra** que tus _hauka_ van a tener que tener en cuenta al calcular su carga.
 
 **Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De forma que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
-
 Los objetos para trocar solo cuentan como objetos cargados, nunca, salvo excepciones como joyas y abalorios caros, podrían tomarse como objetos equipados. Por ejemplo, las perlas sí son cómodas de transportar y aceptadas en todas partes. Podrían llevarse un par de miles de monedas de oro en un colgante y tomarse como un objeto equipado.
 
 En caso de llevarlo como objetos cargados, el peso cambia de manera que ocupan 1 de tamaño por cada 5.000 mo. Quizás puedan aligerar el peso bastante, cambiando sus posesiones por perlas, pero, por ejemplo, no podrán comprar con ellas cosas baratas como unas raciones de viaje o un sombrero de palma.
-La otra excepción a las reglas básicas que puedes aplicar es que **los objetos al venderse no pierden la mitad de su valor**. Es normal intercambiar objetos de segunda mano mientras estén en buenas condiciones, así que no tienen pérdida de valor al venderlas.
 
+La otra excepción a las reglas básicas que puedes aplicar es que **los objetos al venderse no pierden la mitad de su valor**. Es normal intercambiar objetos de segunda mano mientras estén en buenas condiciones, así que no tienen pérdida de valor al venderlas.
 ### Tabla de precios especiales
 
 |Objeto|Precio|
 |---|---|
 |Konane|500|
-|Herramientas de tatuaje|1500|
+|Herramientas de tatuaje|1.500|
 |Tambor de calabaza Ipu|400|
-|Canoa|3000|
+|Red de pesca|200|
+|Aparejo|30|
+|Tridente de pesca|100|
+|Canoa|3.000|
 |Tabla de surf|500|
-|Canoa multicasco|5000|
-|Catamarán|90000|
+|Canoa multicasco|5.000|
+|Catamarán|90.000|
 
 ***
 

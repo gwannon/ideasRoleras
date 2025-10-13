@@ -23,3 +23,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBoard game collection by freepik\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QModel of outrigger canoe from Hawai‘i by Joel Abroad\\E$"}
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QModel of outrigger canoe from Hawai‘i by Joel Abroad\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QIgual en una zona con muchas palmeras cocoteras tengas que dar 3 kilos y medio o durante la anidación de las aves tengas que poner 1 docena y media de huevos.\\E$"}
+{"rule":"ESPACIO_DESPUES_DE_PUNTO","sentence":"^\\QNeanderthal primitive rock weapon flat set by pch.vector\\E$"}
+{"rule":"COMILLAS_APOSTROFO","sentence":"^\\QModel of outrigger canoe from Hawai‘i by Joel Abroad\\E$"}

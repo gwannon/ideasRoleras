@@ -22,7 +22,7 @@ Debido a la intensa actividad volcánica de las islas, los materiales como la ob
 
 La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
 
-Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como hueso de ancestros o de ballena.
+Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como «hueso de ancestros» o «de ballena».
  
 \sinc
 
@@ -36,7 +36,7 @@ XXX
 
 \sp
 
-Si no quieres complicarte, puedes dejar el equipo normal de juego de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
+Si no quieres complicarte, puedes dejar el equipo normal de juegos de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
 
 \sinc
 
@@ -134,7 +134,7 @@ La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. P
 
 \conc
 
-Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseño geométricos o figuras tribuales de animales, personas, dioses y monstruos.
+Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseños geométricos o figuras tribales de animales, personas, dioses y monstruos.
 
 [![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
 
@@ -160,8 +160,6 @@ Este tambor hecho con calabazas vaciadas, secadas y juntadas con una cuerda de f
 
 &nbsp;
 
-[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
-
 ## Embarcaciones
 
 \conc
@@ -170,13 +168,9 @@ Los isleños son increíbles navegantes. Llevan el mar en la sangre y este no ti
 
 Sus embarcaciones pueden parecer frágiles y arcaicas, pero están perfectamente adaptadas a su mar y su meteorología. Poe ejemplo, tras una terrible tormenta, es muy fácil la tripulación parar en alguna pequeña isla y con unas herramientas mínimas hacer las reparaciones necesarias para poder continuar su travesía. Naves mucho más modernas y complejas tendrían que estar semanas carenando y en diques secos para hacer las reparaciones.
 
-Otra característica importante es que estas embarcaciones no viajan solas, suelen hacerlo en convoyes donde se ayudan entre ellas en todo lo que pueden. si una tiene problema el resto pueden prestar ayuda y si alguna está a punto de hundirse, sus tripulantes se pueden trasladarse a otras embarcaciones y continuar el viaje.
+Otra característica importante es que estas embarcaciones no viajan solas, suelen hacerlo en convoyes donde se ayudan entre ellas en todo lo que pueden. Si una tiene problema el resto pueden prestar ayuda y si alguna está a punto de hundirse, sus tripulantes se pueden trasladarse a otras embarcaciones y continuar el viaje.
 
-\sp
-
-### Tabla de surf
-
-Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
+[![Model of outrigger canoe from Hawai‘i by Joel Abroad](./images/canoa.jpg "Model of outrigger canoe from Hawai‘i by Joel Abroad")](https://www.flickr.com/photos/40295335@N00/10010587593 "Model of outrigger canoe from Hawai‘i by Joel Abroad")
 
 ### Canoa
 
@@ -186,11 +180,19 @@ Puedes ser muy simples o estar profusamente decoradas con motivos vegetales, ani
 
 ### Catamarán y canoa multicasco
 
-Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. La cubierta se crea con redes y tablas sobre los cascos y los troncos.
+Estos navíos se caracterizan por tener dos o más cascos paralelos y de la misma longitud. Los cascos están unidos por troncos que también soporta el palo del velamen. 
+
+\sp
+
+La cubierta se crea con redes y tablas sobre los cascos y los troncos.
 
 Es el navío perfecto para viajes largos entre islas y para pesca de altura, ya que son rápidos, estables y de poco calado para evitar los arrecifes de corral. Además, tienen una gran cantidad de espacio habitable donde pueden estar sus tripulantes y su carga.
 
 Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua y comida para un largo viaje. De hecho, son los navíos con los que los humanos han ido explorando todas las islas del Pacífico.
+
+### Tabla de surf
+
+Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulante o la fuerza de las olas. No son fáciles de maniobrar y se necesitan años de práctica poder usarlas y hacer las acrobacias que algunos consiguen hacer. Permite una tripulación de 1 _hauka_.
 
 \sinc
 
@@ -202,11 +204,41 @@ Según el tamaño, podría permitir desde 4 a 20 personas con su equipaje y agua
 
 Las ropas de abrigo son muy poco comunes, recuerda que las temperaturas nunca bajan de 20 °C, salvo en los picos nevados de algunas montañas. Pero la ropa contra el viento y la lluvia es bastante común.
 
-Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.
+Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además, en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.
+
+\sinc
+
+&nbsp;
+
+## Útiles de pesca
+
+\conc
+
+XXX
+
+### Redes
+
+La forma más común de pesca es usando redes y recogiéndolas, bien desde la orilla o desde canoas. XXX
+
+### Aparejos
+
+Los aparejos constan de varios elementos, anzuelos de hueso, boyas de madera y cuerda resistente tejida con fibra de coco y un invento con el soltar o recoger el sedal. No es tan eficaz como las redes, pero permite capturar mayores piezas que de otra manera romperían la red y escaparían. 
+
+Como con la red, se puede usar desde la orilla o desde una embarcación y en cada sitio se obtienen piezas diferentes.
 
 \sp
 
+Mucha gente se toma esta forma de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.
+
+### Tridente y lanza
+
+XXX
+
+En caso de necesidad se podría usar de arma, pero no está pensada para ser utilizada en combate, sino para pescar, por lo que no debería ni ser muy útil, ni hace mucho daño, ni tener mucha resistencia.
+
 \sinc
+
+&nbsp;
 
 ## Moneda y trueque
 
@@ -226,13 +258,15 @@ A nivel de juego el dinero va a funcionar igual que en el manual básico salvo p
 
 **Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De forma que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
 
+\sp
+
 Los objetos para trocar solo cuentan como objetos cargados, nunca, salvo excepciones como joyas y abalorios caros, podrían tomarse como objetos equipados. Por ejemplo, las perlas sí son cómodas de transportar y aceptadas en todas partes. Podrían llevarse un par de miles de monedas de oro en un colgante y tomarse como un objeto equipado.
 
 En caso de llevarlo como objetos cargados, el peso cambia de manera que ocupan 1 de tamaño por cada 5.000 mo. Quizás puedan aligerar el peso bastante, cambiando sus posesiones por perlas, pero, por ejemplo, no podrán comprar con ellas cosas baratas como unas raciones de viaje o un sombrero de palma.
 
-\sp
-
 La otra excepción a las reglas básicas que puedes aplicar es que **los objetos al venderse no pierden la mitad de su valor**. Es normal intercambiar objetos de segunda mano mientras estén en buenas condiciones, así que no tienen pérdida de valor al venderlas.
+
+\sc
 
 ### Tabla de precios especiales
 
@@ -241,6 +275,9 @@ La otra excepción a las reglas básicas que puedes aplicar es que **los objetos
 |Konane|500|
 |Herramientas de tatuaje|1.500|
 |Tambor de calabaza Ipu|400|
+|Red de pesca|200|
+|Aparejo|30|
+|Tridente de pesca|100|
 |Canoa|3.000|
 |Tabla de surf|500|
 |Canoa multicasco|5.000|
