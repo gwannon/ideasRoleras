@@ -205,6 +205,6 @@ Has interactuado durante mucho tiempo animales marino y has podido adiestrar a u
 Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marinos. Puedes usar esta Habilidad justo antes de una tirada de Acampada/Fondear. Sin embargo, si decides pararte a sacar tu red de pesca o de sumergirte con tu tridente, no puedes ayudar a montar el campamento o fondear la embarcación. Cuanto más alto sea el resultado, más piezas pescas.
 
 * **Efecto de la Habilidad:** Consigues un número de raciones igual a (resultado de la tirada – número objetivo), pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** las hace sabrosas y **pifia** te da una condición (Cansado 6).
-* **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados.
+* **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados. Se necesita algún tipo de útil de pesca.
 * **Características:** DES+INT
 * **Número objetivo:** Topografía

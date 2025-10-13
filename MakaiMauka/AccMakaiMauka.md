@@ -137,7 +137,7 @@ Has interactuado durante mucho tiempo animales marino y has podido adiestrar a u
 Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marinos. Puedes usar esta Habilidad justo antes de una tirada de Acampada/Fondear. Sin embargo, si decides pararte a sacar tu red de pesca o de sumergirte con tu tridente, no puedes ayudar a montar el campamento o fondear la embarcación. Cuanto más alto sea el resultado, más piezas pescas.
 
 * **Efecto de la Habilidad:** Consigues un número de raciones igual a (resultado de la tirada – número objetivo), pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** las hace sabrosas y **pifia** te da una condición (Cansado 6).
-* **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados.
+* **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados. Se necesita algún tipo de útil de pesca.
 * **Características:** DES+INT
 * **Número objetivo:** Topografía***
 
@@ -227,7 +227,7 @@ La selva es el lugar donde se encuentran la mayoría de las hierbas medicinales,
 La _kava_ es una planta de la que se saca una bebida con efectos psicoactivos. Produce relajación muscular, somnolencia y ganas de hablar. Se ha utilizado tradicionalmente para tratar para aliviar infecciones, dolores, estrés e insomnio. La raíz se muele con un trozo de coral y se le añade agua fría para poder beberla.
 
 ## Objetos comunes
-Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseño geométricos o figuras tribuales de animales, personas, dioses y monstruos.
+Los artesanos isleños son capaces de crear desde toscas y sencillas herramientas y útiles cotidianos a bellas y artísticas obras de arte. Muchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseños geométricos o figuras tribales de animales, personas, dioses y monstruos.
 
 [![Board game collection by freepik](./images/konane.png "Board game collection by freepik")](https://www.freepik.com/free-vector/board-game-collection_10115170.htm "Board game collection by freepik")
 
@@ -574,6 +574,8 @@ La tirada de Acampar se convierte en la tirada de Fondear. No es lo mismo fondea
 El resultado final es la media de las dos tiradas, pero si hay una pifia o un crítico se lo quedan directamente. En caso de salir un crítico y una pifia, gana el crítico.
 
 Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
+
+Las habilidades como el Cazar del XXX no se podrán usar durante Acampar XXX (REVISAR)
 
 #### Atracar y desembarcar
 

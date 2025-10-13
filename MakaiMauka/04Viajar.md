@@ -245,6 +245,8 @@ El resultado final es la media de las dos tiradas, pero si hay una pifia o un cr
 
 Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
 
+Las habilidades como el Cazar del XXX no se podrán usar durante Acampar XXX (REVISAR)
+
 #### Atracar y desembarcar
 
 El paso del mar a la tierra solo se puede hacer por zonas de playa. Hacerlo por zonas de acantilado exigirá unas buenas tiradas de navegación y/o escalada. 
