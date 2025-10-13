@@ -202,6 +202,8 @@ Estas tablas de madera pulida se deslizan usando la fuerza motriz de su tripulan
 
 \conc
 
+Las ropas en las islas son ligeras, frescas y muy coloridas con motivos florales, tribales y geométricos. Los motivos suelen ser típicos de una comunidad o isla y puedes reconocerla a la gente por sus vestimentas, pero a no es una ciencia exacta y hay modas que viajan por todas las islas.
+
 Las ropas de abrigo son muy poco comunes, recuerda que las temperaturas nunca bajan de 20 °C, salvo en los picos nevados de algunas montañas. Pero la ropa contra el viento y la lluvia es bastante común.
 
 Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma trenzada. No hay necesidad de calzado que proteja del frío y el agua. Además, en ambientes marinos y metiéndose mucho en el agua, el calzado ligero y barato es mucho más práctico.
@@ -214,11 +216,19 @@ Todo el calzado se reduce a sandalias y chanclas, normalmente de hoja de palma t
 
 \conc
 
-XXX
+En las islas de archipiélago la pesca es una de las formas más comunes de conseguir alimento, pero es algo más, para mucha gente es una parte importante de su vida.
+
+Las técnicas de pesca son primitivas, pero consiguen el suficiente alimento para alimentar a las comunidades sin agotar los bancos de peces.
 
 ### Redes
 
-La forma más común de pesca es usando redes y recogiéndolas, bien desde la orilla o desde canoas. XXX
+Hechas de cuerdas de fibra de coco, son capaces de cubrir varios metros cuadrados y de soportar bastantes kilos de pesca antes de romperse.
+
+\sp
+
+La técnica más común de pesca es usando redes y recogiéndolas, bien desde la orilla o desde canoas. se pesca mucho, pero sin control y a veces puedes sacar del agua problemas en vez de peces.
+
+El principal problema es que son bastante frágiles y exigen reparaciones constantes. No es raro encontrarse a gente en las playas remendando los agujeros que los peces han hecho en sus redes.
 
 ### Aparejos
 
@@ -226,9 +236,8 @@ Los aparejos constan de varios elementos, anzuelos de hueso, boyas de madera y c
 
 Como con la red, se puede usar desde la orilla o desde una embarcación y en cada sitio se obtienen piezas diferentes.
 
-\sp
-
 Mucha gente se toma esta forma de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.
+
 
 ### Tridente y lanza
 
@@ -250,6 +259,8 @@ Cada comunidad tiene ya establecidas unas tasas de cambio de manera que, por eje
 
 Estas tasas son más o menos universales. Igual en una zona con muchas palmeras cocoteras tengas que dar 3 kilos y medio o durante la anidación de las aves tengas que poner 1 docena y media de huevos. Pero en general, es una diferencia despreciable de la que no deberías preocuparte.
 
+\sp
+
 Todo esto supone que tus _hauka_ viajar con sus mochilas y bolsas llenas de objetos de artesanía y materias primas para intercambiar. 
 
 Puede haber eventos que echen a perder los materiales que van a intercambiar, como que se moje una mochila y se eche a perder el grano de arroz que llevaban para trocar. Pero este tipo de cosas no deberían ser normales, solo deberían ser motores de aventura. Quizás sus posesiones se han podrido al estar muchos días perdidos en un húmedo pantano y tengan que aceptar algún trabajo para conseguir el dinero perdido.
@@ -258,15 +269,11 @@ A nivel de juego el dinero va a funcionar igual que en el manual básico salvo p
 
 **Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De forma que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
 
-\sp
-
 Los objetos para trocar solo cuentan como objetos cargados, nunca, salvo excepciones como joyas y abalorios caros, podrían tomarse como objetos equipados. Por ejemplo, las perlas sí son cómodas de transportar y aceptadas en todas partes. Podrían llevarse un par de miles de monedas de oro en un colgante y tomarse como un objeto equipado.
 
 En caso de llevarlo como objetos cargados, el peso cambia de manera que ocupan 1 de tamaño por cada 5.000 mo. Quizás puedan aligerar el peso bastante, cambiando sus posesiones por perlas, pero, por ejemplo, no podrán comprar con ellas cosas baratas como unas raciones de viaje o un sombrero de palma.
 
 La otra excepción a las reglas básicas que puedes aplicar es que **los objetos al venderse no pierden la mitad de su valor**. Es normal intercambiar objetos de segunda mano mientras estén en buenas condiciones, así que no tienen pérdida de valor al venderlas.
-
-\sc
 
 ### Tabla de precios especiales
 
