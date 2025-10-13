@@ -232,7 +232,7 @@ Mucha gente se toma esta forma de pesca como una especie de meditación y descan
 
 ### Tridente y lanza
 
-XXX
+Esta sencilla herramienta permite cazar peces y pequeños crustáceos en las orillas del mar de una forma bastante eficaz, pero no sirve de nada dentro del agua o sumergido.
 
 En caso de necesidad se podría usar de arma, pero no está pensada para ser utilizada en combate, sino para pescar, por lo que no debería ni ser muy útil, ni hace mucho daño, ni tener mucha resistencia.
 
