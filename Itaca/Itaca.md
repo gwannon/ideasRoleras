@@ -14,7 +14,7 @@ Ha prometido que elegirá a un nuevo esposo y se casará al terminar el tapiz y 
 
 Cuando hay un desafío que superar, haces una tirada para ver cómo se desarrolla. Solo necesitas tirar si lo que quieres hacer es arriesgado.
 
-El DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. 
+La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. 
 
 |Tirada|Resultado|
 |---|---|
@@ -26,7 +26,7 @@ Ser Penélope es difícil. Cada tirada reduce la puntuación de la habilidad usa
 
 > **d12 ⇾ d10 ⇾ d8 → d6 → d4**
 
-Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
+Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
 ### XXX (Catch Your Breath)
 
@@ -36,9 +36,9 @@ Para XXX debes estar, primero, **fuera de peligro en un lugar tranquilo, lejos d
 
 Cuando Penélope se XXX, el DJ observa la situación y presenta una nueva complicación al grupo.
 
-### XXX (Loot Checks)
+### Tiradas de saqueo (Loot Checks)
 
-Según vayas avanzando por las salas podrás conseguir objetos que te ayuden a llegar al tapiz y deshacer el trabajo realizado.
+Según vayas avanzando por las salas de tu palacio podrás conseguir objetos que te ayuden a llegar al tapiz y deshacer el trabajo realizado.
 
 Cuando la trama lo permita, puedes hacer una tirada de saqueo para buscar equipo que te ayude en tu fuga.
 
@@ -54,8 +54,8 @@ Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tab
 |3-4|Algo malo se acerca…|
 |5-6|1 pieza de equipo de d6|
 |7-8|1 pieza de equipo de d8|
-|9-10|1 pieza de equipo de d10 o 1 tinaja de XXX|
-|11-12|1 pieza de equipo de d12 o 1 tinaja de XXX|
+|9-10|1 pieza de equipo de d10 o 1 tinaja de ambrosía|
+|11-12|1 pieza de equipo de d12 o 1 tinaja de ambrosía|
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 
@@ -63,29 +63,31 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |---|---|
 |1|Ouzo|
 |2|XXX|
-|3|XXX|
+|3|Espejo de metal pulido|
 |4|XXX|
-|5|XXX|
+|5|Antorcha|
 |6|XXX|
-|7|XXX|
+|7|Cuerda|
 |8|XXX|
 |9|XXX|
-|10|XXX|
+|10|Tinaja de aceite|
 |11|XXX|
-|12|XXX|
+|12|Cera de abeja|
 |13|XXX|
-|14|XXX|
+|14|Máscara de teatro|
 |15|XXX|
-|16|XXX|
+|16|Vasija de miel|
 |18|XXX|
 |19|XXX|
-|20|XXX|
+|20|Kopis|
 
 #### Equipo especial
 
 Aparte de las típicas cosas que podrías encontrar en una casa griega de la antigüedad hay ciertos objetos especiales que deberías tener en cuenta y que pueden ser usados de formas muy creativas.
 
 * **Ouzo:** este aguardiente fuertísimo es la bebida alcohólica preferida de los pretendientes. Sirve tanto para emborracharlos como para distraerlos. Ninguno perderá la ocasión de coger una jarra de ouzo y tomársela en algún sitio tranquilo. El ouzo es famoso por dejar importantes lagunas en la memoria al día siguiente, así que es otra de sus capacidades a la que puede recurrir en caso de necesidad. 
+* **Aceite:** El aceite tiene muchos usos. Desde tirarlo al suelo para que la gente resbale o usarlo de combustible y quemar algo hasta embadurnarte con él para pasar por sitios estrechos.
+* **Cera de abeja:** XXX
 * **XXX:** XXX
 
 ### Capazo (Backpack)
@@ -94,13 +96,13 @@ Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan co
 
 Al reducirse a un d4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
 
-Solo se pueden llevar **3 objetos y 1 tinaja de XXX en tu capazo**.
+Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
 
-### XXX (Stunts)
+### Entrenamiento espartano (Stunts)
 
-Cuando todo se complica, puedes intentar recurrir a XXX y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
+Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
 
-Una vez gastada la XXX, no podrás usarla de nuevo hasta que **XXX** de nuevo.
+Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que **XXX** de nuevo.
 
 ### XXX (Stress)
 
@@ -108,17 +110,30 @@ Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ p
 
 Si Penélope alcanza 4 niveles de XXX, estás XXX. Cuando estás XXX, fallar una acción peligrosa significa que XXX.
 
-### XXX (Medikits)
+### Ambrosía (Medikits)
 
-Puedes echarte por encima, en cualquier momento, una tinaja de XXX para eliminar 2 puntos de XXX. Otra opción es guarecerte en un lugar seguro por unos segundos para XXX y eliminar 1 punto de XXX.
+Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía para eliminar 2 puntos de XXX. Otra opción es guarecerte en un lugar seguro por unos segundos para XXX y eliminar 1 punto de XXX.
 
 ### Recurrir a tus criadas
 
+Penélope es la reina de Ítaca y como reina todo súbdito y en especial sus sirvientas la tiene que obedecer. 
+
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden. XXX
+
+[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]
+
+|d6|Sirvienta|
+|---|---|
+|1|Sirvienta con una gran tinaja de ouzo|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|Joven con gran bandeja de comida|
 
 ### Habladurías
 
-XXX
+La gente habla y comenta a tus espaldas y las habladurías pueden ser y tan peligrosas como las heridas de un kopis. XXX
 
 ## Creando a tu Penélope 
 
@@ -135,16 +150,16 @@ Los personajes tienen un total de 6 habilidades:
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria (d10) que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
+Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel d10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
 
 |d6|Pieza de equipo inicial|
 |---|---|
-|1|XXX|
+|1|Kopis|
 |2|XXX|
 |3|XXX|
-|4|XXX|
+|4|Pequeño espejo de metal pulido|
 |5|XXX|
-|6|XXX|
+|6|Ouzo|
 
 ## Los pretendientes
 
@@ -181,6 +196,8 @@ XXX
 |6|**XXX:** XXX|
 
 ### La sala del trono
+
+La sala del trono es donde se ubica el telar donde todos los días trabaja Penélope tejiendo. El objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
 XXX
 

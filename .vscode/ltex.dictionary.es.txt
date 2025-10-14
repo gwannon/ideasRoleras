@@ -451,3 +451,13 @@ koa
 Maʻa
 Kotiate
 Ítaca
+d10
+Checks
+Loot
+d20
+Backpack
+Stunts
+Stress
+Medikits
+kopis
+Kopis

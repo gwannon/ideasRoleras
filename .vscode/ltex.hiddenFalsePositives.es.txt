@@ -26,3 +26,6 @@
 {"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QIgual en una zona con muchas palmeras cocoteras tengas que dar 3 kilos y medio o durante la anidación de las aves tengas que poner 1 docena y media de huevos.\\E$"}
 {"rule":"ESPACIO_DESPUES_DE_PUNTO","sentence":"^\\QNeanderthal primitive rock weapon flat set by pch.vector\\E$"}
 {"rule":"COMILLAS_APOSTROFO","sentence":"^\\QModel of outrigger canoe from Hawai‘i by Joel Abroad\\E$"}
+{"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/Itaca.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
