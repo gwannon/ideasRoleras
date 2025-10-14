@@ -4,7 +4,7 @@
 
 Cada día Penélope teje un tapiz y cada noche debe escabullirse sigilosamente y enredar a los pretendientes que rondan por el palacio o esquivarlos y deshacer todo el trabajo que ha hecho durante el día.
 
-Ha prometido que elegirá a un nuevo esposo y se casará al terminar el tapiz y si la atrapan, descubrirán su treta y tendrá que desposarse.
+Ha prometido que elegirá a un nuevo esposo y se casará al terminar el tapiz. Si la atrapan, descubrirán su treta y tendrá que desposarse.
 
 ## Sistema
 
@@ -16,25 +16,25 @@ Cuando hay un desafío que superar, haces una tirada para ver cómo se desarroll
 
 La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. 
 
-|Tirada|Resultado|
+|Dado|Resultado|
 |---|---|
 |1-2|Fallas y algo malo sucede.|
 |3-4|Lo logras, pero tiene algún tipo de coste.|
 |5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
 
-Ser Penélope es difícil. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
+La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
 
 > **d12 ⇾ d10 ⇾ d8 → d6 → d4**
 
 Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
-### XXX (Catch Your Breath)
+### Parar y respirar (Catch Your Breath)
 
-Para recuperar todas tus habilidades, debes «XXX». Se trata de un breve descanso para XXX. 
+Para recuperar todas tus habilidades, debes «parar y respirar». Se trata de un breve descanso para tranquilizarse, mirar la situación, bajar las pulsaciones y volver a la misión a tope. 
 
-Para XXX debes estar **fuera de peligro en un lugar tranquilo, lejos de la vista de los pretendientes**.
+Para parar y respirar debes estar **fuera de peligro en un lugar tranquilo, lejos de la vista de los pretendientes**.
 
-Cuando Penélope se XXX, el DJ observa la situación y presenta una nueva complicación al grupo.
+Cuando Penélope se toma un respiro, el DJ observa la situación y presenta una nueva complicación al grupo.
 
 ### Aprovisionamiento (Loot Checks)
 
@@ -103,17 +103,19 @@ Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
 
 Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
 
-Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que **XXX** de nuevo.
+Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que **se pare y respire** de nuevo.
 
-### XXX (Stress)
+### Agotamiento (Stress)
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de XXX.
+Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de agotamiento.
 
-Si Penélope alcanza 4 niveles de XXX, estás XXX. Cuando estás XXX, fallar una acción peligrosa significa que XXX.
+Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener que hacer todas las noches lo mismo esperando a un marido que no sabes si está vivo o muerto o si está intentando volver o no tiene intención. Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
 
 ### Ambrosía (Medikits)
 
-Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía para eliminar 2 puntos de XXX. Otra opción es guarecerte en un lugar seguro por unos segundos para XXX y eliminar 1 punto de XXX.
+Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía. La bebida de los dioses tiene efectos revigorizantes y rejuvenecedores que te van a ayudar y te van a permitir eliminar 2 puntos de agotamiento.
+
+Otra opción es guarecerte en un lugar seguro por unos segundos para replantearte la situación y eliminar 1 punto de agotamiento. Esto solo podrás hacerlo una vez por noche.
 
 ### Recurrir a tus criadas
 
