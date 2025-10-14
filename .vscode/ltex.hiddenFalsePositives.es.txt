@@ -29,3 +29,9 @@
 {"rule":"SIGLAS","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/Itaca.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"PRESENT","sentence":"^\\QEl equipo que puedes buscar son principalmente objetos cotidianos de una casa de la época, pero también armas de tus ancestros, tesoros familiares e incluso objetos que han dejado olvidados los pretendientes, desde su casco de guerra hasta un espejo de bronce pulido que ha traído como presente para ti.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qd12 Saqueo\\E$"}
+{"rule":"REALIZE","sentence":"^\\QSegún vayas avanzando por las salas de tu palacio podrás aprovisionarte de objetos que te ayuden a llegar al tapiz y deshacer el trabajo realizado.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis game is Breathless\\E$"}
+{"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QPenélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una tirada con un d12 en vez de una tirada con tu rango de habilidad actual.\\E$"}

@@ -1,0 +1,387 @@
+:root {
+  --padding: 65px; /*Ancho de los bordes de la página*/
+  --color-red: #1980e4;
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+@font-face {
+  font-family: 'Caesar Dressing';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./CaesarDressing-Regular.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./OpenSans-Regular.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./OpenSans-Bold.ttf) format('woff2');
+}
+
+body {
+  background: var(--color-white) url(./images/bg.png) repeat top center;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-black);
+  font-size: 18px;
+}
+
+body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border1.png) top left repeat-y
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border2.png) top right repeat-y;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+  margin: 10px 0px;
+  color: white;
+  text-align: center;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+  font-style: italic;
+}
+
+pre {
+  white-space: pre-wrap;
+  padding: 0px;
+}
+
+pre:before {
+  content: "\201C";
+}
+
+pre:after {
+  content: "\201D";
+}
+
+
+pre * {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1em;
+  margin: 0px;
+  padding: 0px;
+}
+
+pre + p {
+  font-style: italic;
+  font-weight: 700;
+  text-align: right;
+  margin-top: -10px;
+  font-family: "Caesar Dressing", system-ui;
+}
+
+/* Titulares */
+
+h1 {
+  background: #201c37 url(./images/titular.jpg) bottom center no-repeat;
+  background-size: 100% auto;
+  font-family: "Caesar Dressing", system-ui;
+  color: var(--color-white);
+  text-align: center;
+  
+  font-size: 2.5em;
+  margin-bottom: 0px;
+  margin-top: 0px !important;
+  padding: 110px 0px !important;
+  text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
+  line-height: 120%;
+  border: 2px solid var(--color-red);
+  border-radius: 3px;
+  width: calc(100% - 4px);
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+  color: var(--color-white);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3,
+h4 {
+  font-family: "Caesar Dressing", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  line-height: 120%;
+}
+
+h2 {
+  font-size: 2em;
+  text-align: center;
+  color: var(--color-white);
+  text-shadow: 3px 0px 3px var(--color-red), 0px 3px 3px var(--color-red), -3px 0px 3px var(--color-red), 0px -3px 3px var(--color-red);
+}
+
+h2:before {
+  content: "\2014";
+}
+
+h2:after {
+  content: "\2014";
+}
+
+h3 {
+  font-size: 1.6em;
+  text-shadow: 2px 0px 2px var(--color-white), 0px 2px 2px var(--color-white), -2px 0px 2px var(--color-white), 0px -2px 2px var(--color-white);
+}
+
+h4 {
+  font-size: 1.3em;
+  color: var(--color-black);
+}
+
+h2 + p, 
+h3 + p,
+h4 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ul {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-black);
+}
+
+ul {
+  padding-left: 19px;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: '🛡';
+  position: absolute;
+  font-size: 16px;
+  top: 0px;
+  left: -19px;
+  display: block;
+  color: var(--color-black);
+} 
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: 2px dashed var(--color-red);
+  padding: 5px;
+  position: relative;
+
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 400;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  padding-left: 4px;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #cdfbff;
+}
+
+img {
+  width: calc(100% - 4px);
+  border: 2px solid var(--color-red);
+  border-radius: 3px;
+}
+
+h3 + p img {
+  margin-top: 10px;
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Caesar Dressing", system-ui;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+
+  .columns {
+    columns: auto;
+  }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 840px) {
+
+  body {
+    padding: 0 10px;
+  }
+
+  body:after,
+  body:before {
+    opacity: 0;
+  }
+
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 20px;
+  font-family: var(--title-font);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - (var(--size) / 2));
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: calc(var(--size) * 0.8px);
+  padding: 5px 5px 3px;
+  color: var(--color-black);
+}
+
+
+p:has(img) + blockquote {
+  border: 2px solid var(--color-red);
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-top: 0px solid black;
+  margin-top: -14px;
+  position: relative;
+  z-index: 10;
+}

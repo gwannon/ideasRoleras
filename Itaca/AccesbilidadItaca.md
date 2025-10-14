@@ -33,9 +33,6 @@ Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente
 Para recuperar todas tus habilidades, debes «parar y respirar». Se trata de un breve descanso para tranquilizarse, mirar la situación, bajar las pulsaciones y volver a la misión a tope. 
 
 Para parar y respirar debes estar **fuera de peligro en un lugar tranquilo, lejos de la vista de los pretendientes**.
-
-\sp
-
 Cuando Penélope se toma un respiro, el DJ observa la situación y presenta una nueva complicación al grupo.
 
 ### Aprovisionamiento (Loot Checks)
@@ -86,9 +83,6 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 #### Equipo especial
 
 Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una casa griega de la antigüedad hay ciertos objetos especiales que deberías tener en cuenta y que pueden ser usados de maneras muy creativas.
-
-\sp
-
 * **Ouzo:** este aguardiente fuertísimo es la bebida alcohólica preferida de los pretendientes. Sirve tanto para emborracharlos como para distraerlos. Ninguno perderá la ocasión de coger una jarra de ouzo y tomársela en algún sitio tranquilo. El ouzo es famoso por dejar importantes lagunas en la memoria al día siguiente, así que es otra de sus capacidades a la que puede recurrir en caso de necesidad. 
 * **Aceite:** El aceite tiene muchos usos. Desde tirarlo al suelo para que la gente resbale o usarlo de combustible y quemar algo hasta embadurnarte con él para pasar por sitios estrechos.
 * **Cera de abeja:** Puedes usarlo para sellar objetos y saber si han sido abiertos. También como pegamento e incluso para sacar moldes de objetos.
@@ -114,9 +108,6 @@ Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que
 Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de agotamiento.
 
 Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener que hacer todas las noches lo mismo esperando a un marido que no sabes si está vivo o muerto o si está intentando volver o no tiene intención.
-
-\sp
-
 Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
 
 ### Ambrosía (Medikits)
@@ -157,9 +148,6 @@ Los personajes tienen un total de 6 habilidades:
 * **Empujar:** Abrirte paso, doblar, destrozar.
 * **Moverse:** Correr, saltar, trepar.
 * **Acechar:** Esconderse, husmear, merodear.
-
-\sp
-
 * **Deambular:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
@@ -214,9 +202,6 @@ XXX
 La sala del trono es donde se ubica el telar donde todos los días trabaja Penélope tejiendo. El objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
 XXX
-
-\sp
-
 ## Licencia
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
