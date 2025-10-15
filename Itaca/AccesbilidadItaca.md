@@ -118,7 +118,6 @@ Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ p
 Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener que hacer todas las noches lo mismo esperando a un marido que no sabes si está vivo o muerto o si está intentando volver o no tiene intención.
 
 Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
-
 ### Ambrosía (Medikits)
 
 Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía. La bebida de los dioses tiene efectos revigorizantes y rejuvenecedores que te van a ayudar y te van a permitir eliminar 2 puntos de agotamiento.
@@ -131,18 +130,15 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden. XXX
 
+|d6|¿Qué está haciendo?|
+|---|---|
+|1|Sirviendo ouzo de una gran tinaja|
+|2|Echando leña a las chimeneas y fuegos|
+|3|Tocando un instrumento musical|
+|4|Limpiando los suelos de restos de comida y bebida|
+|5|Rellenando las lámparas de aceite o encendiendo las antorchas apagadas|
+|6|Sirviendo comida de una gran bandeja de bronce|
 [La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]
-
-|d6|Sirvienta|
-|---|---|
-|1|Sirvienta con una gran tinaja de ouzo|
-|2|XXX|
-|3|Doncella con instrumento musical|
-|d6|Sirvienta|
-|---|---|
-|4|XXX|
-|5|Criada que va rellenando las lámparas de aceite o encendiendo las antorchas apagadas|
-|6|Joven con gran bandeja de comida|
 
 ### Habladurías
 
@@ -168,8 +164,8 @@ Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo alea
 |d6|Pieza de equipo inicial|
 |---|---|
 |1|Kopis|
-|2|XXX|
-|3|XXX|
+|2|Escudo de bronce|
+|3|Ovillo de lana|
 |4|Pequeño espejo de metal pulido|
 |5|Joyas|
 |6|Ouzo|
@@ -185,12 +181,19 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 
 |d6|Evento|
 |---|---|
-|1|**Bacanal:** XXX|
-|2|**XXX:** XXX|
-|3|**XXX:** XXX|
-|4|**XXX:** XXX|
-|5|**XXX:** XXX|
-|6|**XXX:** XXX|
+|1|Noche tranquila|
+|2|Bacanal|
+|3|Festín|
+|4|Concierto de música y/o festival de poesía|
+|5|Combates de lucha libre|
+|6|Duelos a muerte|
+
+* **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. No hay pretendientes despiertos más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona.
+* **Bacanal:** XXX
+* **Festín:** XXX
+* **Concierto de música y/o festival de poesía:** XXX
+* **Combates de lucha libre:** XXX
+* **Duelos a muerte:** XXX
 
 ## Las salas del palacio
 
