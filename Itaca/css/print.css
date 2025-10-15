@@ -30,7 +30,7 @@
 }
 
 body {
-  background: var(--color-white) url(./images/bg.png) repeat top center;
+  background-color: var(--color-white);
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
@@ -41,25 +41,25 @@ body {
 body:before {
   content: "";
   display: block;
-  width: var(--padding);
-  height: 100vh;
+  width: 100%;
+  height: var(--padding);
   position: fixed;
   top: 0px;
   left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(./images/border1.png) top left repeat-y
+  background: transparent url(../images/border1.jpg) top right repeat-x;
 }
 
 body:after {
   content: "";
   display: block;
-  width: var(--padding);
-  height: 100vh;
+  width: 100%;
+  height: var(--padding);
   position: fixed;
-  top: 0px;
-  right: 0px;
+  bottom: 0px;
+  left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(./images/border2.png) top right repeat-y;
+  background: transparent url(../images/border2.jpg) bottom right repeat-x;
 }
 
 body > * {
@@ -140,7 +140,7 @@ pre + p {
 /* Titulares */
 
 h1 {
-  background: #201c37 url(./images/titular.jpg) bottom center no-repeat;
+  background: #201c37 url(../images/titular.jpg) bottom center no-repeat;
   background-size: 100% auto;
   font-family: "Caesar Dressing", system-ui;
   color: var(--color-white);
@@ -181,19 +181,19 @@ h4 {
 }
 
 h2 {
-  font-size: 2em;
-  text-align: center;
+  font-size: 2.1em;
+  /*text-align: center;*/
   color: var(--color-white);
   text-shadow: 3px 0px 3px var(--color-red), 0px 3px 3px var(--color-red), -3px 0px 3px var(--color-red), 0px -3px 3px var(--color-red);
 }
 
-h2:before {
+/*h2:before {
   content: "\2014";
 }
 
 h2:after {
   content: "\2014";
-}
+}*/
 
 h3 {
   font-size: 1.6em;
@@ -245,8 +245,9 @@ table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  border: 2px dashed var(--color-red);
-  padding: 5px;
+  border-top: 6px double var(--color-red);
+  border-bottom: 6px double var(--color-red);
+  padding: 5px 0px;
   position: relative;
 
 }
@@ -357,22 +358,25 @@ body {
 }
 
 .saltopagina:after {
-  --size: 20px;
-  font-family: var(--title-font);
+  --size: 18px;
+  font-family: 'Caesar Dressing';
   display: flex;
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
-  bottom: 20px;
-  right: calc(50% - (var(--size) / 2));
+  bottom: 16px;
+  right: calc(50% - 22px);
   width: var(--size);
   height: var(--size);
   z-index: 10;
   opacity: 1;
   font-size: calc(var(--size) * 0.8px);
-  padding: 5px 5px 3px;
+  padding: 4px 5px 5px;
   color: var(--color-black);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-red);
+  border-radius: 50%;
 }
 
 

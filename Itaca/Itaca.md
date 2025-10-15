@@ -127,7 +127,7 @@ Otra opción es guarecerte en un lugar seguro por unos segundos para replanteart
 
 ### Recurrir a tus criadas
 
-Penélope es la reina de Ítaca y como reina todo súbdito y en especial sus sirvientas la tiene que obedecer. 
+Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus sirvientas la tienen que obedecer. 
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden. XXX
 
@@ -156,10 +156,10 @@ Los personajes tienen un total de 6 habilidades:
 
 * **Empujar:** Abrirte paso, doblar, destrozar.
 * **Moverse:** Correr, saltar, trepar.
-* **Acechar:** Esconderse, husmear, merodear.
 
 \sp
 
+* **Acechar:** Esconderse, husmear, merodear.
 * **Deambular:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
@@ -217,10 +217,22 @@ XXX
 
 \sp
 
+\sinc
+
 ## Licencia
 
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+&nbsp;
+
+\conc
 
 «Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+
+\sc
+
+Se han usado imágenes libres de derecho y pasamos a atribuirlas.
+
+* Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)

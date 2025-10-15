@@ -118,7 +118,7 @@ Otra opción es guarecerte en un lugar seguro por unos segundos para replanteart
 
 ### Recurrir a tus criadas
 
-Penélope es la reina de Ítaca y como reina todo súbdito y en especial sus sirvientas la tiene que obedecer. 
+Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus sirvientas la tienen que obedecer. 
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden. XXX
 
@@ -201,11 +201,13 @@ XXX
 
 La sala del trono es donde se ubica el telar donde todos los días trabaja Penélope tejiendo. El objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
-XXX
-## Licencia
-
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+XXX## Licencia
 
 «Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+Se han usado imágenes libres de derecho y pasamos a atribuirlas.
+
+* Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
