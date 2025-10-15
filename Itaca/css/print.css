@@ -46,6 +46,7 @@ body:before {
   position: fixed;
   top: 0px;
   left: 0px;
+  z-index: 10;
   /*Aqui gestionamos el diseño del borde*/
   background: transparent url(../images/border1.jpg) top right repeat-x;
 }
@@ -112,30 +113,13 @@ blockquote p {
 pre {
   white-space: pre-wrap;
   padding: 0px;
+  text-align: center
 }
-
-pre:before {
-  content: "\201C";
-}
-
-pre:after {
-  content: "\201D";
-}
-
 
 pre * {
-  font-family: "Open Sans", sans-serif;
-  font-size: 1em;
+  font-family: "Caesar Dressing", system-ui;
   margin: 0px;
   padding: 0px;
-}
-
-pre + p {
-  font-style: italic;
-  font-weight: 700;
-  text-align: right;
-  margin-top: -10px;
-  font-family: "Caesar Dressing", system-ui;
 }
 
 /* Titulares */
@@ -379,4 +363,11 @@ body {
   background-color: var(--color-white);
   border: 1px solid var(--color-red);
   border-radius: 50%;
+}
+
+
+@media screen {
+  .saltopagina:after {
+    opacity: 0;
+  }
 }

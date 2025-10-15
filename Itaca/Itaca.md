@@ -106,6 +106,7 @@ Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una
 * **Aceite:** El aceite tiene muchos usos. Desde tirarlo al suelo para que la gente resbale o usarlo de combustible y quemar algo hasta embadurnarte con él para pasar por sitios estrechos.
 * **Cera de abeja:** Puedes usarlo para sellar objetos y saber si han sido abiertos. También como pegamento e incluso para sacar moldes de objetos.
 * **Canicas de mármol:** Este juguete infantil, que seguro que perteneció a Telémaco o a uno de sus amigos, puede usarse como abrojos, como proyectil o para lanzarlo y distraer a un guardia o vigía.
+* **Ropajes:** Los diferentes ropajes te permitirán principalmente disfrazarte, pero, por ejemplo, también puedes usarse para hacer vendas o atarlos y descolgarte por una ventana.
 * **Siringa:** Esta flauta tiene un sonido fácilmente reconocible y suele ser muy normal en celebraciones y juergas. Seguro que cualquier pretendiente que la oiga buscará dónde se está celebrando esa fiesta que se está perdiendo. Y recuerda que la música amansa a las fieras y algunos pretendientes han traído sus mejores sabuesos de caza.
 
 ### Capazo (Backpack)
@@ -114,9 +115,9 @@ Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan co
 
 Al reducirse a un d4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
 
-Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
-
 \sp
+
+Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
 
 ### Entrenamiento espartano (Stunts)
 
@@ -144,7 +145,7 @@ Otra opción es guarecerte en un lugar seguro por unos segundos para replanteart
 
 Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus sirvientas la tienen que obedecer. 
 
-Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden. XXX
+Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
 |d6|¿Qué está haciendo?|
 |---|---|
@@ -156,6 +157,8 @@ Durante toda la noche tus criadas no dejan de moverse por todo el palacio hacien
 |6|Sirviendo comida de una gran bandeja de bronce|
 
 \sp
+
+XXX
 
 [La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]
 
@@ -250,7 +253,7 @@ XXX
 
 «Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
 
@@ -260,3 +263,5 @@ Se han usado imágenes libres de derecho y pasamos a atribuirlas.
 
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
+
+
