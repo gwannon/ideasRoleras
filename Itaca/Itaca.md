@@ -253,3 +253,4 @@ This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), 
 Se han usado imágenes libres de derecho y pasamos a atribuirlas.
 
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
+* Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
