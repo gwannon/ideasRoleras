@@ -93,13 +93,14 @@ body > *:first-child,
 }
 
 blockquote {
-  border: 1px solid black;
+  border-top: 7px double var(--color-red);
+  border-bottom: 7px double var(--color-red);
   padding: 10px;
-  background-color: black;
-  border-radius: 5px;
+  background-color: var(--color-white);
   margin: 10px 0px;
-  color: white;
+  color: var(--color-black);
   text-align: center;
+  font-family: "Caesar Dressing", system-ui;
 }
 
 blockquote p {
@@ -258,6 +259,7 @@ table thead tr th {
   background-color: var(--color-red);
   color: var(--color-white);
   padding-left: 4px;
+  font-family: "Caesar Dressing", system-ui;
 }
 
 table tbody tr:nth-child(even) {
@@ -359,7 +361,7 @@ body {
 
 .saltopagina:after {
   --size: 17px;
-  font-family: 'Caesar Dressing';
+  font-family: "Caesar Dressing", system-ui;
   display: flex;
   justify-content: center;
   align-items: center;
