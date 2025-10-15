@@ -358,15 +358,15 @@ body {
 }
 
 .saltopagina:after {
-  --size: 18px;
+  --size: 17px;
   font-family: 'Caesar Dressing';
   display: flex;
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
-  bottom: 16px;
-  right: calc(50% - 22px);
+  bottom: 14px;
+  right: calc(50% - 21px);
   width: var(--size);
   height: var(--size);
   z-index: 10;
