@@ -1,3 +1,5 @@
+
+
 # Ítaca 
 
 Ítaca es un juego de rol basado en **[Breathless](https://farirpgs.com/breathless/creator-kit)** para **una jugadora y una directora** donde la jugadora interpretará al personaje mitológico griego de Penélope.
@@ -5,6 +7,10 @@
 Cada día Penélope teje un tapiz y cada noche debe escabullirse sigilosamente y enredar a los pretendientes que rondan por el palacio o esquivarlos y deshacer todo el trabajo que ha hecho durante el día.
 
 Ha prometido que elegirá a un nuevo esposo y se casará al terminar el tapiz. Si la atrapan, descubrirán su treta y tendrá que desposarse.
+
+```
+Escapa de tus aposentos, esquiva a tus pretendientes y deshaz tu tapiz.
+```
 
 ## Sistema
 
@@ -25,7 +31,6 @@ La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges u
 La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
 
 > **d12 ⇾ d10 ⇾ d8 → d6 → d4**
-
 Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
 ### Parar y respirar (Catch Your Breath)
@@ -33,6 +38,7 @@ Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente
 Para recuperar todas tus habilidades, debes «parar y respirar». Se trata de un breve descanso para tranquilizarse, mirar la situación, bajar las pulsaciones y volver a la misión a tope. 
 
 Para parar y respirar debes estar **fuera de peligro en un lugar tranquilo, lejos de la vista de los pretendientes**.
+
 Cuando Penélope se toma un respiro, el DJ observa la situación y presenta una nueva complicación al grupo.
 
 ### Aprovisionamiento (Loot Checks)
@@ -67,6 +73,8 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |5|Antorcha/lámpara de aceite|
 |6|Siringa (flauta de Pan)|
 |7|Cuerda|
+|d20|Objeto|
+|---|---|
 |8|Ricos ropajes de pretendiente|
 |9|Canicas de mármol|
 |10|Tinaja de aceite|
@@ -83,6 +91,7 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 #### Equipo especial
 
 Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una casa griega de la antigüedad hay ciertos objetos especiales que deberías tener en cuenta y que pueden ser usados de maneras muy creativas.
+
 * **Ouzo:** este aguardiente fuertísimo es la bebida alcohólica preferida de los pretendientes. Sirve tanto para emborracharlos como para distraerlos. Ninguno perderá la ocasión de coger una jarra de ouzo y tomársela en algún sitio tranquilo. El ouzo es famoso por dejar importantes lagunas en la memoria al día siguiente, así que es otra de sus capacidades a la que puede recurrir en caso de necesidad. 
 * **Aceite:** El aceite tiene muchos usos. Desde tirarlo al suelo para que la gente resbale o usarlo de combustible y quemar algo hasta embadurnarte con él para pasar por sitios estrechos.
 * **Cera de abeja:** Puedes usarlo para sellar objetos y saber si han sido abiertos. También como pegamento e incluso para sacar moldes de objetos.
@@ -96,7 +105,6 @@ Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan co
 Al reducirse a un d4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
 
 Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
-
 ### Entrenamiento espartano (Stunts)
 
 Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
@@ -108,6 +116,7 @@ Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que
 Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de agotamiento.
 
 Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener que hacer todas las noches lo mismo esperando a un marido que no sabes si está vivo o muerto o si está intentando volver o no tiene intención.
+
 Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
 
 ### Ambrosía (Medikits)
@@ -129,6 +138,8 @@ Durante toda la noche tus criadas no dejan de moverse por todo el palacio hacien
 |1|Sirvienta con una gran tinaja de ouzo|
 |2|XXX|
 |3|Doncella con instrumento musical|
+|d6|Sirvienta|
+|---|---|
 |4|XXX|
 |5|Criada que va rellenando las lámparas de aceite o encendiendo las antorchas apagadas|
 |6|Joven con gran bandeja de comida|
@@ -168,7 +179,6 @@ Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo alea
 XXX
 
 En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
-
 ## Cada noche…
 
 Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiestas pueden poner más fácil en unas cosas y más difícil en otras la misión de Penélope.
