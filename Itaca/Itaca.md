@@ -216,7 +216,7 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 * **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
 * **Bacanal:** XXX
 * **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
-* **Concierto de música y/o festival de poesía:** XXX
+* **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oido y todas las **tiradas donde es importante no ser oido son un rango mayor**. Normalmente estos eventos se dan en jardines y patios abiertos aprovechando la fresca de la noche.
 * **Combates de lucha libre:** XXX
 * **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
@@ -230,7 +230,7 @@ El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo d
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
-|d10|Sala|
+|d12|Sala|
 |---|---|
 |1|Jardín|
 |2|Cocinas|
@@ -242,6 +242,8 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 |8|Sala de armas|
 |9|Establos|
 |10|Baños|
+|11|Patios internos|
+|12|Peristilo|
 
 Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
 
@@ -286,6 +288,18 @@ XXX
 ### Baños
 
 Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas.
+
+XXX
+
+### Patios internos
+
+ Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos.
+
+XXX
+
+### Peristilo
+
+El Peristilo es la galería de columnas que rodea un edificio. 
 
 XXX
 
