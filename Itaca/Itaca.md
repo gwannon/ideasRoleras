@@ -220,22 +220,74 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 * **Combates de lucha libre:** XXX
 * **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
+> El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
+
 ## Las salas del palacio
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
 
+\sp
+
+Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
+
+|d10|Sala|
+|---|---|
+|1|Jardín|
+|2|Cocinas|
+|3|Despensas|
+|4|Bodegas|
+|5|Comedores|
+|6|Aposentos de los invitados|
+|7|Aposentos del servicio|
+|8|Sala de armas|
+|9|Establos|
+|10|Baños|
+
+Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
+
+Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar 
+
+### Jardín
+
 XXX
 
-|d6|Sala|
-|---|---|
-|1|**Jardín:** XXX|
-|2|**Cocinas:** XXX|
-|3|**Despensas:** XXX|
-|4|**Bodegas:** XXX|
-|5|**Comedores:** XXX|
-|6|**XXX:** XXX|
+### Cocinas
 
-\sp
+XXX
+
+### Despensas
+
+XXX
+
+### Bodegas
+
+XXX
+
+### Comedores
+
+XXX
+
+### Aposentos de los invitados
+
+XXX
+
+### Aposentos del servicio
+
+XXX
+
+### Sala de armas
+
+XXX
+
+### Establos
+
+XXX
+
+### Baños
+
+Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas.
+
+XXX
 
 ### La sala del trono
 
@@ -243,14 +295,20 @@ La sala del trono es donde se ubica el telar donde todos los días trabaja Pené
 
 XXX
 
-### Otras tramas
+\sp
+
+## Otras tramas
 
 La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
 
-* Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo.
-* Un pretendiente ha «sobrepasado» las normas de hospitalidad y quizás aparezca muerto en su lecho.
-* Has detectado una fuerte rivalidad entre varios pretendientes. Quizás puedas hacer algo como dejar un objeto valioso de un pretendiente en la habitación del otro o XXX
-* XXX
+* Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo a ella o tomar las medidas necesarias.
+* Un pretendiente ha «sobrepasado» las normas de hospitalidad con una de tus doncellas y quizás aparezca muerto en su lecho o tal vez tenga un accidente a caballo porque se han «roto» las cinchas de su silla de montar mientras iba a galope.
+* Has detectado una fuerte rivalidad entre varios pretendientes. Quizás puedas hacer algo como dejar un objeto valioso de un pretendiente en la habitación del otro o conseguir que las sirvientas les den bebida hasta emborracharlos para que se peleen.
+* Los pretendientes han encontrado la bodega secreta de palacio y quieres rescatar unas botellas que guardabas del día de tu boda antes de que se las beban.
+* Has ido contando que el palacio está encantado por el fantasma de tu «difunto» marido y vas a tratar de convencerles de que ocurren cosas extrañas por la noche para que los pretendientes más cobardes se vayan.
+* Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
+
+\sc
 
 \sp
 
@@ -274,5 +332,9 @@ Se han usado imágenes libres de derecho y pasamos a atribuirlas.
 
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
+
+&nbsp;
+
+&nbsp;
 
 
