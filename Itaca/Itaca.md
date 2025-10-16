@@ -214,10 +214,11 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |6|Duelos a muerte|
 
 * **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
-* **Bacanal:** XXX
+
+* **Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de practicas sexuales con el servicio y otro pretendientes. XXX
 * **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
 * **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oido y todas las **tiradas donde es importante no ser oido son un rango mayor**. Normalmente estos eventos se dan en jardines y patios abiertos aprovechando la fresca de la noche.
-* **Combates de lucha libre:** XXX
+* **Combates de lucha libre:** Las peleas exigen grandes zonas para montar los ringa, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
 * **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
