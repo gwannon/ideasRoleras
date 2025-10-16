@@ -214,11 +214,13 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |6|Duelos a muerte|
 
 * **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
-
-* **Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de practicas sexuales con el servicio y otro pretendientes. XXX
+* **Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. XXX
 * **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
-* **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oido y todas las **tiradas donde es importante no ser oido son un rango mayor**. Normalmente estos eventos se dan en jardines y patios abiertos aprovechando la fresca de la noche.
-* **Combates de lucha libre:** Las peleas exigen grandes zonas para montar los ringa, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
+* **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Normalmente estos eventos se dan en jardines y patios abiertos aprovechando la fresca de la noche.
+* **Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
+
+\sp
+
 * **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
@@ -226,8 +228,6 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 ## Las salas del palacio
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
-
-\sp
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
@@ -270,6 +270,8 @@ XXX
 
 XXX
 
+\sp
+
 ### Aposentos de los invitados
 
 XXX
@@ -310,8 +312,6 @@ La sala del trono es donde se ubica el telar donde todos los días trabaja Pené
 
 XXX
 
-\sp
-
 ## Otras tramas
 
 La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
@@ -319,6 +319,9 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 * Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo a ella o tomar las medidas necesarias.
 * Un pretendiente ha «sobrepasado» las normas de hospitalidad con una de tus doncellas y quizás aparezca muerto en su lecho o tal vez tenga un accidente a caballo porque se han «roto» las cinchas de su silla de montar mientras iba a galope.
 * Has detectado una fuerte rivalidad entre varios pretendientes. Quizás puedas hacer algo como dejar un objeto valioso de un pretendiente en la habitación del otro o conseguir que las sirvientas les den bebida hasta emborracharlos para que se peleen.
+
+\sp
+
 * Los pretendientes han encontrado la bodega secreta de palacio y quieres rescatar unas botellas que guardabas del día de tu boda antes de que se las beban.
 * Has ido contando que el palacio está encantado por el fantasma de tu «difunto» marido y vas a tratar de convencerles de que ocurren cosas extrañas por la noche para que los pretendientes más cobardes se vayan.
 * Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
