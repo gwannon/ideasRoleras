@@ -213,12 +213,12 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |5|Combates de lucha libre|
 |6|Duelos a muerte|
 
-* **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. No hay pretendientes despiertos más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona.
+* **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
 * **Bacanal:** XXX
-* **Festín:** XXX
+* **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
 * **Concierto de música y/o festival de poesía:** XXX
 * **Combates de lucha libre:** XXX
-* **Duelos a muerte:** XXX
+* **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
 ## Las salas del palacio
 
@@ -230,16 +230,27 @@ XXX
 |---|---|
 |1|**Jardín:** XXX|
 |2|**Cocinas:** XXX|
-|3|**XXX:** XXX|
-|4|**XXX:** XXX|
-|5|**XXX:** XXX|
+|3|**Despensas:** XXX|
+|4|**Bodegas:** XXX|
+|5|**Comedores:** XXX|
 |6|**XXX:** XXX|
+
+\sp
 
 ### La sala del trono
 
 La sala del trono es donde se ubica el telar donde todos los días trabaja Penélope tejiendo. El objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
 XXX
+
+### Otras tramas
+
+La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
+
+* Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo.
+* Un pretendiente ha «sobrepasado» las normas de hospitalidad y quizás aparezca muerto en su lecho.
+* Has detectado una fuerte rivalidad entre varios pretendientes. Quizás puedas hacer algo como dejar un objeto valioso de un pretendiente en la habitación del otro o XXX
+* XXX
 
 \sp
 
