@@ -168,7 +168,7 @@ La gente habla y comenta a tus espaldas y las habladurías pueden ser y tan peli
 
 ## Creando a tu Penélope 
 
-Para empezar, en tu hoja de personaje anota los pronombres que quieres que usen con tu Penélope.
+Para empezar, en tu hoja de personaje anota el apodo y los pronombres que quieres que usen con tu Penélope.
 
 Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8 y un d6 a tres habilidades en las que creas que tu personaje destaca.
 
@@ -327,6 +327,14 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 * Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
 
 \sc
+
+\sp
+
+\sinc
+
+|HojaPersonaje.html|
+
+\conc
 
 \sp
 

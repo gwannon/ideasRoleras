@@ -256,6 +256,23 @@ img {
   border-radius: 3px;
 }
 
+table.special th {
+    font-family: "Caesar Dressing", system-ui;
+    font-size: 1.8em;
+    color: var(--color-red);
+    text-align: left;
+    padding: 15px 10px;
+}
+
+table.special td {
+  font-size: 1.3em;
+  padding: 15px 10px;
+}
+
+table.special th[colspan="4"] {
+  text-align: center;
+}
+
 h3 + p img {
   margin-top: 10px;
 }
