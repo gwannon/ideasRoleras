@@ -28,10 +28,10 @@ La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges u
 |3-4|Lo logras, pero tiene algún tipo de coste.|
 |5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
 
-La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de d4:
+La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de δ4:
 
-> **d12 ⇾ d10 ⇾ d8 → d6 → d4**
-Si lo desea, el DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
+> **δ12 ⇾ δ10 ⇾ δ8 → δ6 → δ4**
+Si lo desea, la DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
 ### Parar y respirar (Catch Your Breath)
 
@@ -39,7 +39,7 @@ Para recuperar todas tus habilidades, debes «parar y respirar». Se trata de un
 
 Para parar y respirar debes estar **fuera de peligro en un lugar tranquilo, lejos de la vista de los pretendientes**.
 
-Cuando Penélope se toma un respiro, el DJ observa la situación y presenta una nueva complicación al grupo.
+Cuando Penélope se toma un respiro, la DJ observa la situación y presenta una nueva complicación al grupo.
 
 ### Aprovisionamiento (Loot Checks)
 
@@ -51,16 +51,16 @@ Ten cuidado porque puedes encontrarte con cosas que no querías, como un pretend
 
 El equipo que puedes buscar son principalmente objetos cotidianos de una casa de la época, pero también armas de tus ancestros, tesoros familiares e incluso objetos que han dejado olvidados los pretendientes, desde su casco de guerra hasta un espejo de bronce pulido que ha traído como presente para ti.
 
-Para hacer una tirada de saqueo debes lanzar un d12 y consultar la siguiente tabla.
+Para hacer una tirada de saqueo debes lanzar un δ12 y consultar la siguiente tabla.
 
-|d12|Saqueo|
+|δ12|Saqueo|
 |---|---|
 |1-2|Pasa algo malo…|
 |3-4|Algo malo se acerca…|
-|5-6|1 pieza de equipo de d6|
-|7-8|1 pieza de equipo de d8|
-|9-10|1 pieza de equipo de d10 o 1 tinaja de ambrosía|
-|11-12|1 pieza de equipo de d12 o 1 tinaja de ambrosía|
+|5-6|1 pieza de equipo de δ6|
+|7-8|1 pieza de equipo de δ8|
+|9-10|1 pieza de equipo de δ10 o 1 tinaja de ambrosía|
+|11-12|1 pieza de equipo de δ12 o 1 tinaja de ambrosía|
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 
@@ -103,18 +103,18 @@ Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una
 
 Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. 
 
-Al reducirse a un d4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
+Al reducirse a un δ4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
 Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
 
 ### Entrenamiento espartano (Stunts)
 
-Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
+Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un δ12** en vez de una tirada con tu rango de habilidad actual.
 
 Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que **se pare y respire** de nuevo.
 
 ### Agotamiento (Stress)
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de agotamiento.
+Cuando enfrentas una consecuencia como resultado de una de tus acciones, la DJ puede decidir que Penélope reciba 1 nivel de agotamiento.
 
 Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener que hacer todas las noches lo mismo esperando a un marido que no sabes si está vivo o muerto o si está intentando volver o no tiene intención.
 
@@ -131,7 +131,7 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-|d6|¿Qué está haciendo?|
+|δ6|¿Qué está haciendo?|
 |---|---|
 |1|Sirviendo ouzo de una gran tinaja|
 |2|Echando leña a las chimeneas y fuegos|
@@ -145,13 +145,34 @@ XXX
 
 ### Habladurías
 
-La gente habla y comenta a tus espaldas y las habladurías pueden ser y tan peligrosas como las heridas de un kopis. XXX
+No es «normal y decente» que una reina deambule por el palacio bien entrada la noche, haciendo cosas extrañas, rondando pasillos y peristilos y entrando en aposentos de pretendientes y servicios. 
+
+La gente empieza a comentar esas actividades nocturnas a tus espaldas y corren  habladurías sobre ti por todo el palacio. Estos chismes pueden ser tan peligrosos como las heridas de un kopis.
+
+Es por ellos que la DJ puede decidir que una de las consecuencias de fallar una tirada sea que se genere 1 punto de habladurías. Cuando se llega a 3, los rumores sobre la reina son tantos que tienes que abortar su misión y volver a su habitación, sabiendo que no ha deshecho su trabajo y está más cerca de tener que escoger un futuro marido.
+
+Algunos ejemplos de situaciones que generen habladurías:
+
+* Alguien ve a Penélope enXXX
+
+Como los puntos de habladurías no se puede quitar, siempre deberías dar la oportunidad a tu Penélope de intentar arreglar la situación de alguna manera.
+
+* Tal vez pueda hacer un soborno.
+* Amenazarle, si es un súbdito.
+* Ofrecer un futuro favor que, además, permitirá una futura trama cuando vengan a cobrarlo.
+* Chantajear al testigo con algún secreto que conozca de él.
+* Podría seducirlo.
+* O incluso matarlo.
+
+En general tiene segundos para reaccionar, así que su plan para acallar las habladurías no puede ser muy complicado y solo dispondrá de su equipo y lo que haya en la sala de palacio actual.
+
+Puede usar su **entrenamiento espartano** en estas situaciones.
 
 ## Creando a tu Penélope 
 
 Para empezar, en tu hoja de personaje anota el apodo y los pronombres que quieres que usen con tu Penélope.
 
-Todas las habilidades tienen una puntuación de d4 y debes asignar un d10, un d8 y un d6 a tres habilidades en las que creas que tu personaje destaca.
+Todas las habilidades tienen una puntuación de δ4 y debes asignar un δ10, un δ8 y un δ6 a tres habilidades en las que creas que tu personaje destaca.
 
 Los personajes tienen un total de 6 habilidades:
 
@@ -162,9 +183,9 @@ Los personajes tienen un total de 6 habilidades:
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel d10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
+Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel δ10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
 
-|d6|Pieza de equipo inicial|
+|δ6|Pieza de equipo inicial|
 |---|---|
 |1|Kopis|
 |2|Escudo de bronce|
@@ -178,11 +199,12 @@ Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo alea
 XXX
 
 En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
+
 ## Cada noche…
 
 Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiestas pueden poner más fácil en unas cosas y más difícil en otras la misión de Penélope.
 
-|d6|Evento|
+|δ6|Evento|
 |---|---|
 |1|Noche tranquila|
 |2|Bacanal|
@@ -194,7 +216,7 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 * **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
 * **Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. XXX
 * **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
-* **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Normalmente estos eventos se dan en jardines y patios abiertos aprovechando la fresca de la noche.
+* **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche.
 * **Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
 * **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
@@ -205,8 +227,7 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
-
-|d12|Sala|
+|δ12|Sala|
 |---|---|
 |1|Jardín|
 |2|Cocinas|
@@ -244,6 +265,7 @@ XXX
 ### Comedores
 
 XXX
+
 ### Aposentos de los invitados
 
 XXX
@@ -268,15 +290,14 @@ XXX
 
 ### Patios internos
 
- Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos.
+Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos.
 
 XXX
 
 ### Peristilo
 
-El Peristilo es la galería de columnas que rodea un edificio. 
-
-XXX
+El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
+Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
 
 ### La sala del trono
 
@@ -294,14 +315,13 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 * Los pretendientes han encontrado la bodega secreta de palacio y quieres rescatar unas botellas que guardabas del día de tu boda antes de que se las beban.
 * Has ido contando que el palacio está encantado por el fantasma de tu «difunto» marido y vas a tratar de convencerles de que ocurren cosas extrañas por la noche para que los pretendientes más cobardes se vayan.
 * Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
-
-|HojaPersonaje.html|
+* Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.|HojaPersonaje.html|
 
 ## Licencia
 
 «Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
-Se han usado imágenes libres de derecho y pasamos a darlesmsu justa atribución.
+Se han usado imágenes libres de derecho y pasamos a darles su justa atribución.
 
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)

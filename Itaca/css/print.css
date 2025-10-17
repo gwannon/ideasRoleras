@@ -256,12 +256,24 @@ img {
   border-radius: 3px;
 }
 
+table.special {
+      border-collapse: collapse;
+}
+
 table.special th {
     font-family: "Caesar Dressing", system-ui;
     font-size: 1.8em;
     color: var(--color-red);
     text-align: left;
-    padding: 15px 10px;
+    padding: 14px 10px;
+
+}
+
+table.special span {
+  font-family: "Caesar Dressing", system-ui;
+  font-size: 1.35em;
+  color: var(--color-red);
+  font-weight: bold;
 }
 
 table.special td {
