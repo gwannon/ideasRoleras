@@ -286,9 +286,15 @@ Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cua
 
 ### Cocinas
 
-XXX
+### Cocinas
 
-Las cocinas es el lugar con las posibilidades de encontrar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, desde la gente que se levanta pronto para encender fuegos y hornos y preparar el pan, hasta los que recogen los restos de los banquetes hasta altas horas de la noche.
+
+Puedes encontrar todo tipo de cuchillos, machetes, pinchos, mazos, etc. así como aceite de quemar y de cocinar, cuerdas, telas y paños.
+
+Las cocinas, al ser muchas veces boticas y enfermerías, es el lugar con más posibilidades de encontrar vendas y material que puedas usar para primeros auxilios, sin olvidar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+
+A las ventanas de las cocinas acuden mendigos a recoger las sobras y quizás puedan hacerte algún favor por unos chuscos de pan y algo de panceta.
 
 ### Despensas
 
