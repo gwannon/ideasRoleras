@@ -227,21 +227,51 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |5|Combates de lucha libre|
 |6|Duelos a muerte|
 
-**Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
+### Noche tranquila
+
+Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. 
+
+Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
 
 \sp
 
-**Orgia/Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados. Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto no podrán generarse puntos de habladurías. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
+### Orgía/Bacanal
 
-**Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
+Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados.
 
-**Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche.
+Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto **no podrán generarse puntos de habladurías**. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
 
-**Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
+### Festín
 
-**Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
+Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos y licores.
+
+Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango** son altas (2 rangos adicionales). En estos lugares siempre habrá servicio con bandejas de comida.
+
+Emborrachar, drogar o envenenar es bastante fácil durante los festines, mucha comida, mucha bebida y poco control.
+
+### Concierto de música y/o festival de poesía
+
+Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos.
+
+Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**.
+
+Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche, pero pueden darse en cualquier sitio, las musas pueden visitarte en cualquier sitio.
+
+### Combates de lucha libre
+
+Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. Todas estas salas las posibilidades de encontrar pretendientes suben un rango.
 
 \sp
+
+La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
+
+### Duelo a muerte
+
+Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. 
+
+
+**Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
+
 
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
 
@@ -274,6 +304,8 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 
 Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
 
+\sp
+
 ### Jardín
 
 XXX
@@ -283,8 +315,6 @@ Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cua
 ### Cocinas
 
 A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, desde la gente que se levanta pronto para encender fuegos y hornos y preparar el pan, hasta los que recogen los restos de los banquetes hasta altas horas de la noche.
-
-\sp
 
 Puedes encontrar todo tipo de cuchillos, machetes, pinchos, mazos, etc. así como aceite de quemar y de cocinar, cuerdas, telas y paños.
 
@@ -306,15 +336,15 @@ Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que
 
 De normal están cerradas con llave, pero, claro, Penélope, como reina, debería disponer de ellas. Seguramente sea un sitio perfecto para «pararse a respirar» y quitarse todo el agotamiento que hemos acumulado.
 
+\sp
+
 ### Comedores
 
 Los comedores son de las estancias más grandes del palacio. Están llenas de largas mesas con bancos corridos y suelen tener varios accesos desde los que entran los invitados o el servicio con viandas y libaciones.
 
-XXX
+Cuchillos, platos y bandejas de metal son cosas que puedes encontrarte aquí y también alimentos y bebidas, manteles, servilletas, etc. y también buenos chuletones y huesos de vaca para lanzárselo a los perros que vigilan el palacio.
 
 Son el lugar de reunión principal de los pretendientes y normalmente todas las fiestas y todas las peleas empiezan entre sus mesas. Tampoco es de extrañar que ronden por de bajo de las mesas las mascotas de la casa.
-
-\sp
 
 ### Aposentos de los invitados
 
@@ -336,11 +366,13 @@ XXX
 
 ### Baños
 
-Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas.
+Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas. El jabón, los aceites corporales y las toallas son cosas útiles que puedes encontrar.
 
-XXX
+Los baños pueden ofrecer un lugar donde hacerte curas. Es un sitio limpio, hay telas que puedes usar de vendas y agua para limpiar las heridas. También puedes llenar los baños de vaho usando las aguas termales que te permitirán escabullirte sin ser vista.
 
 En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como veneno o drogas para atontar o dormir a una persona.
+
+\sp
 
 ### Patios internos
 
@@ -355,8 +387,6 @@ La opción de enterrar es posible, pero solo de cosas pequeñas como armas incri
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
 
 Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
-
-\sp
 
 ### La sala del trono
 
