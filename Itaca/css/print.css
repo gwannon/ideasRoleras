@@ -1,6 +1,6 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
-  --color-red: #1980e4;
+  --color-red: #0054d0;
   --color-white: #fff;
   --color-black: #000;
 }
@@ -78,8 +78,8 @@ body > *:first-child,
   columns: 2;
 }
 
-.columns > *:first-child,
-.saltocolumna + * {
+.columns > *:is(h2,h3):first-child,
+.saltocolumna + *:is(h2,h3) {
   margin-top: 0;
   padding-top: 0;
 }
@@ -167,9 +167,9 @@ h4 {
 
 h2 {
   font-size: 2.1em;
-  /*text-align: center;*/
   color: var(--color-white);
-  text-shadow: 3px 0px 3px var(--color-red), 0px 3px 3px var(--color-red), -3px 0px 3px var(--color-red), 0px -3px 3px var(--color-red);
+  text-shadow: -2px 0px 1px var(--color-red), 0px 2px 1px var(--color-red), 2px 0px 1px var(--color-red), 0px -2px 1px var(--color-red);
+  letter-spacing: 2px;
 }
 
 /*h2:before {
@@ -230,11 +230,33 @@ table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  border-top: 6px double var(--color-red);
-  border-bottom: 6px double var(--color-red);
-  padding: 5px 0px;
+  /**/
+  padding: 0;
   position: relative;
+  margin: 55px 0;
+}
 
+table:not(.special):before {
+  content: "";
+  display: block;
+  width: calc(100% - 4px);
+  height: 40px;
+  background: transparent url(../images/table-up.jpg) top left repeat-x;
+  position: absolute;
+  top: -39px;
+  left: 2px;
+}
+
+
+table:not(.special):after {
+  content: "";
+  display: block;
+  width: calc(100% - 4px);
+  height: 40px;
+  background: transparent url(../images/table-down.jpg) top left repeat-x;
+  position: absolute;
+  bottom: -38px;
+  left: 2px;
 }
 
 table thead tr th {
@@ -257,8 +279,11 @@ img {
 }
 
 table.special {
-      border-collapse: collapse;
-      font-family: "Caesar Dressing", system-ui;
+  border-collapse: collapse;
+  font-family: "Caesar Dressing", system-ui;
+  border-top: 6px double var(--color-red);
+  border-bottom: 6px double var(--color-red);
+  margin: 0px;
 }
 
 table.special th {

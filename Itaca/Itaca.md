@@ -32,11 +32,11 @@ La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges u
 |3-4|Lo logras, pero tiene algún tipo de coste.|
 |5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
 
-La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de D4:
-
-> **D12 ⇾ D10 ⇾ D8 → D6 → D4**
+La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de D4.
 
 \sp
+
+> **D12 ⇾ D10 ⇾ D8 → D6 → D4**
 
 Si lo desea, la DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
 
@@ -69,7 +69,9 @@ Para hacer una tirada de saqueo debes lanzar un D12 y consultar la siguiente tab
 |9-10|1 pieza de equipo de D10 o 1 tinaja de ambrosía|
 |11-12|1 pieza de equipo de D12 o 1 tinaja de ambrosía|
 
-Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
+Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla o consultar, más adelante, las cosas más comunes en cada tipo de sala en esté Penélope.
+
+\sp
 
 |d20|Objeto|
 |---|---|
@@ -80,11 +82,6 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |5|Antorcha/lámpara de aceite|
 |6|Siringa (flauta de Pan)|
 |7|Cuerda|
-
-\sp
-
-|d20|Objeto|
-|---|---|
 |8|Ricos ropajes de pretendiente|
 |9|Canicas de mármol|
 |10|Tinaja de aceite|
@@ -109,13 +106,13 @@ Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una
 * **Ropajes:** Los diferentes ropajes te permitirán principalmente disfrazarte, pero, por ejemplo, también puedes usarse para hacer vendas o atarlos y descolgarte por una ventana.
 * **Siringa:** Esta flauta tiene un sonido fácilmente reconocible y suele ser muy normal en celebraciones y juergas. Seguro que cualquier pretendiente que la oiga buscará dónde se está celebrando esa fiesta que se está perdiendo. Y recuerda que la música amansa a las fieras y algunos pretendientes han traído sus mejores sabuesos de caza.
 
+\sp
+
 ### Capazo (Backpack)
 
 Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. 
 
 Al reducirse a un D4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
-
-\sp
 
 Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
 
@@ -133,8 +130,6 @@ Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener 
 
 Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
 
-\sc
-
 ### Ambrosía (Medikits)
 
 Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía. La bebida de los dioses tiene efectos revigorizantes y rejuvenecedores que te van a ayudar y te van a permitir eliminar 2 puntos de agotamiento.
@@ -147,6 +142,10 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
+XXX _[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]_
+
+\sp
+
 |d6|¿Qué está haciendo?|
 |---|---|
 |1|Sirviendo ouzo de una gran tinaja|
@@ -155,10 +154,6 @@ Durante toda la noche tus criadas no dejan de moverse por todo el palacio hacien
 |4|Limpiando los suelos de restos de comida y bebida|
 |5|Rellenando las lámparas de aceite o encendiendo las antorchas apagadas|
 |6|Sirviendo comida de una gran bandeja de bronce|
-
-\sp
-
-XXX _[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]_
 
 ### Habladurías
 
@@ -190,11 +185,11 @@ En general tiene segundos para reaccionar, así que su plan para acallar las hab
 
 Puede usar su **entrenamiento espartano** en estas situaciones.
 
+\sp
+
 ## Creando a tu Penélope 
 
 Para empezar, en tu hoja de personaje anota el apodo y los pronombres que quieres que usen con tu Penélope.
-
-\sp
 
 Todas las habilidades tienen una puntuación de D4 y debes asignar un D10, un D8 y un D6 a tres habilidades en las que creas que tu personaje destaca.
 
@@ -207,8 +202,6 @@ Los personajes tienen un total de 6 habilidades:
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel D10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
-
 |d6|Pieza de equipo inicial|
 |---|---|
 |1|Kopis|
@@ -217,6 +210,8 @@ Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo alea
 |4|Pequeño espejo de metal pulido|
 |5|Joyas|
 |6|Veneno|
+
+Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel D10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
 
 ## Los pretendientes
 
@@ -237,15 +232,21 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |5|Combates de lucha libre|
 |6|Duelos a muerte|
 
-* **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
-* **Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. XXX
+**Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. 
 
 \sp
 
-* **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
-* **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche.
-* **Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
-* **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
+El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
+
+**Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. XXX
+
+**Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
+
+**Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche.
+
+**Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
+
+**Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
 
@@ -253,9 +254,9 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
 
-Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
-
 \sp
+
+Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
 |d12|Sala|
 |---|---|
@@ -304,11 +305,11 @@ XXX
 
 XXX
 
+\sp
+
 ### Aposentos del servicio
 
 Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
-
-\sp
 
 El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
 
@@ -390,6 +391,7 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
+* Blue mosaic tiles by [alvaro_cabrera](https://www.freepik.com/free-vector/blue-mosaic-tiles_869806.htm)
 
 \sc
 
