@@ -51,9 +51,9 @@ Ten cuidado porque puedes encontrarte con cosas que no querías, como un pretend
 
 El equipo que puedes buscar son principalmente objetos cotidianos de una casa de la época, pero también armas de tus ancestros, tesoros familiares e incluso objetos que han dejado olvidados los pretendientes, desde su casco de guerra hasta un espejo de bronce pulido que ha traído como presente para ti.
 
-Para hacer una tirada de saqueo debes lanzar un D12 y consultar la siguiente tabla.
+Para hacer una tirada de aprovisionamiento debes lanzar un D12 y consultar la siguiente tabla.
 
-|d12|Saqueo|
+|D12|Aprovisionamiento|
 |---|---|
 |1-2|Pasa algo malo…|
 |3-4|Algo malo se acerca…|
@@ -62,8 +62,8 @@ Para hacer una tirada de saqueo debes lanzar un D12 y consultar la siguiente tab
 |9-10|1 pieza de equipo de D10 o 1 tinaja de ambrosía|
 |11-12|1 pieza de equipo de D12 o 1 tinaja de ambrosía|
 
-Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla o consultar, más adelante, las cosas más comunes en cada tipo de sala en esté Penélope.
-|d20|Objeto|
+Si no tienes claro que obtienes con la tirada de aprovisionamiento puedes tirar un d20 en la siguiente tabla o consultar, más adelante, las cosas más comunes en cada tipo de sala en que esté Penélope.
+|D20|Objeto|
 |---|---|
 |1|Ouzo|
 |2|Cuchillo|
@@ -129,8 +129,8 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-XXX _[Suplen al resto de PJ de la party normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Ppción de que estén sobornados por los pretendientes para espiarte y chivarse]_
-|d6|¿Qué está haciendo?|
+XXX _[Suplen al resto de PJ de la party normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Opción de que estén sobornados por los pretendientes para espiarte y chivarse]_
+|D6|¿Qué está haciendo?|
 |---|---|
 |1|Sirviendo ouzo de una gran tinaja|
 |2|Echando leña a las chimeneas y fuegos|
@@ -184,7 +184,7 @@ Los personajes tienen un total de 6 habilidades:
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-|d6|Pieza de equipo inicial|
+|D6|Pieza de equipo inicial|
 |---|---|
 |1|Kopis|
 |2|Escudo de bronce|
@@ -195,17 +195,11 @@ Los personajes tienen un total de 6 habilidades:
 
 Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel D10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
 
-## Los pretendientes
-
-XXX
-
-En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
-
 ## Cada noche…
 
 Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiestas pueden poner más fácil en unas cosas y más difícil en otras la misión de Penélope.
 
-|d6|Evento|
+|D6|Evento|
 |---|---|
 |1|Noche tranquila|
 |2|Bacanal|
@@ -214,9 +208,7 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |5|Combates de lucha libre|
 |6|Duelos a muerte|
 
-**Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. 
-Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
-
+**Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
 **Orgia/Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados. Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto no podrán generarse puntos de habladurías. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
 
 **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
@@ -228,13 +220,19 @@ Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encend
 **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
 
+## Los pretendientes
+
+XXX
+
+En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
+
 ## Las salas del palacio
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
-|d12|Sala|
+|D12|Sala|
 |---|---|
 |1|Jardín|
 |2|Cocinas|
@@ -251,21 +249,17 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 
 Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
 
-Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar. XXX
-
 ### Jardín
 
 XXX
 
-Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cualquier parte del palacio desde cualquier otra pasando por ellos. La gran desventaja es que están vigilado por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
-
-### Cocinas
+Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cualquier parte del palacio desde cualquier otra pasando por ellos. La gran desventaja es que están vigilados por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
 
 ### Cocinas
 
 A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, desde la gente que se levanta pronto para encender fuegos y hornos y preparar el pan, hasta los que recogen los restos de los banquetes hasta altas horas de la noche.
-
 Puedes encontrar todo tipo de cuchillos, machetes, pinchos, mazos, etc. así como aceite de quemar y de cocinar, cuerdas, telas y paños.
+
 Las cocinas, al ser muchas veces boticas y enfermerías, es el lugar con más posibilidades de encontrar vendas y material que puedas usar para primeros auxilios, sin olvidar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
 
 A las ventanas de las cocinas acuden mendigos a recoger las sobras y quizás puedan hacerte algún favor por unos chuscos de pan y algo de panceta.
@@ -286,8 +280,11 @@ De normal están cerradas con llave, pero, claro, Penélope, como reina, deberí
 
 ### Comedores
 
+Los comedores son de las estancias más grandes del palacio. Están llenas de largas mesas con bancos corridos y suelen tener varios accesos desde los que entran los invitados o el servicio con viandas y libaciones.
+
 XXX
 
+Son el lugar de reunión principal de los pretendientes y normalmente todas las fiestas y todas las peleas empiezan entre sus mesas. Tampoco es de extrañar que ronden por de bajo de las mesas las mascotas de la casa.
 ### Aposentos de los invitados
 
 XXX
@@ -295,6 +292,7 @@ XXX
 ### Aposentos del servicio
 
 Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
+
 El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
 
 ### Sala de armas
@@ -326,13 +324,13 @@ La opción de enterrar es posible, pero solo de cosas pequeñas como armas incri
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
 
 Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
-
 ### La sala del trono
 
 La sala del trono es donde se ubica el telar donde todos los días trabaja Penélope tejiendo. El objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
-XXX## Otras tramas
+Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar su misión. XXX
 
+XXX## Otras tramas
 La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
 
 * Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo a ella o tomar las medidas necesarias.
@@ -341,10 +339,7 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 * Los pretendientes han encontrado la bodega secreta de palacio y quieres rescatar unas botellas que guardabas del día de tu boda antes de que se las beban.
 * Has ido contando que el palacio está encantado por el fantasma de tu «difunto» marido y vas a tratar de convencerles de que ocurren cosas extrañas por la noche para que los pretendientes más cobardes se vayan.
 * Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
-* Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.|HojaPersonaje.html|
-
-## Licencia
-
+* Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.## Licencia
 «Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
 Se han usado imágenes libres de derecho y pasamos a darles su justa atribución.
@@ -355,4 +350,4 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 > This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
-
+|HojaPersonaje.html|

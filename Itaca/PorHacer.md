@@ -22,11 +22,7 @@ Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar. 
 
 XXX
 
-### Cocinas
-
-XXX
-
-Las cocinas es el lugar con las posibilidades de encontrar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cualquier parte del palacio desde cualquier otra pasando por ellos. La gran desventaja es que están vigilado por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
 
 ### Comedores
 
