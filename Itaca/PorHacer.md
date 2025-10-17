@@ -4,7 +4,7 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-XXX _[Suplen al resto de PJ de una aprty normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Ppción de que estén sobornados por los pretendientes para espiarte y chivarse]_
+XXX _[Suplen al resto de PJ de una aprty normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Opción de que estén sobornados por los pretendientes para espiarte y chivarse]_
 
 ***
 
@@ -13,12 +13,6 @@ XXX _[Suplen al resto de PJ de una aprty normal ayudando a Penélope. Sería com
 XXX
 
 En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
-
-***
-
-**Orgia/Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados. Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto no podrán generarse puntos de habladurias. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
-
-**Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. La testorena buye en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
 
 ***
 

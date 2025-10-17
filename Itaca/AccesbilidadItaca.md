@@ -215,23 +215,23 @@ Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiesta
 |6|Duelos a muerte|
 
 **Noche tranquila:** Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. 
-El resto estará durmiendo en sus aposentos. Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas.
+Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
 
-**Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. XXX
+**Orgia/Bacanal:** Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados. Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto no podrán generarse puntos de habladurías. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
 
 **Festín:** Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos. Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango**. En estos lugares siempre habrá servicio con bandejas de comida.
 
 **Concierto de música y/o festival de poesía:** Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos. Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**. Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche.
 
-**Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. XXX
+**Combates de lucha libre:** Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
 
 **Duelo a muerte:** Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
-
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
 
 ## Las salas del palacio
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
+
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
 |d12|Sala|
@@ -257,11 +257,18 @@ Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar. 
 
 XXX
 
+Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cualquier parte del palacio desde cualquier otra pasando por ellos. La gran desventaja es que están vigilado por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
+
 ### Cocinas
 
-XXX
+### Cocinas
 
-Las cocinas es el lugar con las posibilidades de encontrar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, desde la gente que se levanta pronto para encender fuegos y hornos y preparar el pan, hasta los que recogen los restos de los banquetes hasta altas horas de la noche.
+
+Puedes encontrar todo tipo de cuchillos, machetes, pinchos, mazos, etc. así como aceite de quemar y de cocinar, cuerdas, telas y paños.
+Las cocinas, al ser muchas veces boticas y enfermerías, es el lugar con más posibilidades de encontrar vendas y material que puedas usar para primeros auxilios, sin olvidar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+
+A las ventanas de las cocinas acuden mendigos a recoger las sobras y quizás puedan hacerte algún favor por unos chuscos de pan y algo de panceta.
 
 ### Despensas
 
@@ -274,6 +281,7 @@ Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas
 Las bodegas son como las despensas pero todavía más oscuras y más cerradas. De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
 
 Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que se puede emborrachar o sobornar a alguien con una buena jarra de espirituosos de la bodega.
+
 De normal están cerradas con llave, pero, claro, Penélope, como reina, debería disponer de ellas. Seguramente sea un sitio perfecto para «pararse a respirar» y quitarse todo el agotamiento que hemos acumulado.
 
 ### Comedores
@@ -287,7 +295,6 @@ XXX
 ### Aposentos del servicio
 
 Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
-
 El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
 
 ### Sala de armas
@@ -313,6 +320,7 @@ Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse 
 Como la mayoría de salas del palacio dan a patios interiores no son sitios lejos de miradas indiscretas y normalmente todo lo que pasa en ellos es conocido por todo el mundo a no ser que se sea muy cuidadoso.
 
 La opción de enterrar es posible, pero solo de cosas pequeñas como armas incriminatorias o frascos de veneno. Intentar enterrar un cadáver llevaría mucho tiempo y se notaría fácilmente la tierra removida.
+
 ### Peristilo
 
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.

@@ -36,3 +36,4 @@
 {"rule":"SUBJUNTIVO_PASADO","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QPenélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una tirada con un d12 en vez de una tirada con tu rango de habilidad actual.\\E$"}
 {"rule":"REALIZE","sentence":"^\\QLos aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otro pretendientes.\\E$"}
+{"rule":"MAS","sentence":"^\\QMientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.\\E$"}
