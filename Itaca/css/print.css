@@ -258,6 +258,7 @@ img {
 
 table.special {
       border-collapse: collapse;
+      font-family: "Caesar Dressing", system-ui;
 }
 
 table.special th {

@@ -32,9 +32,9 @@ La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges u
 |3-4|Lo logras, pero tiene algún tipo de coste.|
 |5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
 
-La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de δ4:
+La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de D4:
 
-> **δ12 ⇾ δ10 ⇾ δ8 → δ6 → δ4**
+> **D12 ⇾ D10 ⇾ D8 → D6 → D4**
 
 \sp
 
@@ -58,16 +58,16 @@ Ten cuidado porque puedes encontrarte con cosas que no querías, como un pretend
 
 El equipo que puedes buscar son principalmente objetos cotidianos de una casa de la época, pero también armas de tus ancestros, tesoros familiares e incluso objetos que han dejado olvidados los pretendientes, desde su casco de guerra hasta un espejo de bronce pulido que ha traído como presente para ti.
 
-Para hacer una tirada de saqueo debes lanzar un δ12 y consultar la siguiente tabla.
+Para hacer una tirada de saqueo debes lanzar un D12 y consultar la siguiente tabla.
 
-|δ12|Saqueo|
+|d12|Saqueo|
 |---|---|
 |1-2|Pasa algo malo…|
 |3-4|Algo malo se acerca…|
-|5-6|1 pieza de equipo de δ6|
-|7-8|1 pieza de equipo de δ8|
-|9-10|1 pieza de equipo de δ10 o 1 tinaja de ambrosía|
-|11-12|1 pieza de equipo de δ12 o 1 tinaja de ambrosía|
+|5-6|1 pieza de equipo de D6|
+|7-8|1 pieza de equipo de D8|
+|9-10|1 pieza de equipo de D10 o 1 tinaja de ambrosía|
+|11-12|1 pieza de equipo de D12 o 1 tinaja de ambrosía|
 
 Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en la siguiente tabla.
 
@@ -96,7 +96,7 @@ Si no tienes claro que obtienes con la tirada de saqueo puedes tirar un d20 en l
 |16|Vasija de miel|
 |18|Ropa agricultora/jardinera|
 |19|Horca|
-|20|Kopis|
+|20|Veneno|
 
 #### Equipo especial
 
@@ -113,7 +113,7 @@ Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una
 
 Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. 
 
-Al reducirse a un δ4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
+Al reducirse a un D4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
 
 \sp
 
@@ -121,7 +121,7 @@ Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
 
 ### Entrenamiento espartano (Stunts)
 
-Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un δ12** en vez de una tirada con tu rango de habilidad actual.
+Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un D12** en vez de una tirada con tu rango de habilidad actual.
 
 Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que **se pare y respire** de nuevo.
 
@@ -147,7 +147,7 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-|δ6|¿Qué está haciendo?|
+|d6|¿Qué está haciendo?|
 |---|---|
 |1|Sirviendo ouzo de una gran tinaja|
 |2|Echando leña a las chimeneas y fuegos|
@@ -158,25 +158,28 @@ Durante toda la noche tus criadas no dejan de moverse por todo el palacio hacien
 
 \sp
 
-XXX
-
-[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]
+XXX _[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]_
 
 ### Habladurías
 
 No es «normal y decente» que una reina deambule por el palacio bien entrada la noche, haciendo cosas extrañas, rondando pasillos y peristilos y entrando en aposentos de pretendientes y servicios. 
 
-La gente empieza a comentar esas actividades nocturnas a tus espaldas y corren  habladurías sobre ti por todo el palacio. Estos chismes pueden ser tan peligrosos como las heridas de un kopis.
+La gente empieza a comentar esas actividades nocturnas a tus espaldas y corren habladurías sobre ti por todo el palacio. Estos chismes pueden ser tan peligrosos como las heridas de un kopis.
 
-Es por ellos que la DJ puede decidir que una de las consecuencias de fallar una tirada sea que se genere 1 punto de habladurías. Cuando se llega a 3, los rumores sobre la reina son tantos que tienes que abortar su misión y volver a su habitación, sabiendo que no ha deshecho su trabajo y está más cerca de tener que escoger un futuro marido.
+Es por ellos que la DJ puede decidir que una de las consecuencias de fallar una tirada sea que alguien te vea y hable de ello con otras personas. Esto hace que se genere 1 punto de habladurías y, cuando se llega a 3, los rumores sobre la reina son tantos que tiene que abortar su misión y volver a su habitación, sabiendo que no ha deshecho su trabajo y está más cerca de tener que escoger un futuro marido.
 
 Algunos ejemplos de situaciones que generen habladurías:
 
-* Alguien ve a Penélope enXXX
+* Penélope entrando en aposentos de pretendientes.
+* Deshaciéndose de un cadáver.
+* Empujando a un pretendiente por una ventana.
+* Espiando detrás de las columnas.
+* Manipulando la comida o bebida de alguien. 
+* XXX
 
 Como los puntos de habladurías no se puede quitar, siempre deberías dar la oportunidad a tu Penélope de intentar arreglar la situación de alguna manera.
 
-* Tal vez pueda hacer un soborno.
+* Tal vez pueda negociar un soborno.
 * Amenazarle, si es un súbdito.
 * Ofrecer un futuro favor que, además, permitirá una futura trama cuando vengan a cobrarlo.
 * Chantajear al testigo con algún secreto que conozca de él.
@@ -191,30 +194,29 @@ Puede usar su **entrenamiento espartano** en estas situaciones.
 
 Para empezar, en tu hoja de personaje anota el apodo y los pronombres que quieres que usen con tu Penélope.
 
-Todas las habilidades tienen una puntuación de δ4 y debes asignar un δ10, un δ8 y un δ6 a tres habilidades en las que creas que tu personaje destaca.
+\sp
+
+Todas las habilidades tienen una puntuación de D4 y debes asignar un D10, un D8 y un D6 a tres habilidades en las que creas que tu personaje destaca.
 
 Los personajes tienen un total de 6 habilidades:
 
 * **Empujar:** Abrirte paso, doblar, destrozar.
 * **Moverse:** Correr, saltar, trepar.
-
-\sp
-
 * **Acechar:** Esconderse, husmear, merodear.
 * **Deambular:** Orientarse, perseguir, atajar.
 * **Pensar:** Percibir, analizar, reparar.
 * **Interactuar:** Cautivar, manipular, intimidar.
 
-Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel δ10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
+Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel D10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
 
-|δ6|Pieza de equipo inicial|
+|d6|Pieza de equipo inicial|
 |---|---|
 |1|Kopis|
 |2|Escudo de bronce|
 |3|Ovillo de lana|
 |4|Pequeño espejo de metal pulido|
 |5|Joyas|
-|6|Ouzo|
+|6|Veneno|
 
 ## Los pretendientes
 
@@ -226,7 +228,7 @@ En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_P
 
 Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiestas pueden poner más fácil en unas cosas y más difícil en otras la misión de Penélope.
 
-|δ6|Evento|
+|d6|Evento|
 |---|---|
 |1|Noche tranquila|
 |2|Bacanal|
@@ -255,7 +257,7 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 
 \sp
 
-|δ12|Sala|
+|d12|Sala|
 |---|---|
 |1|Jardín|
 |2|Cocinas|
@@ -272,7 +274,7 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 
 Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
 
-Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar 
+Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar. XXX
 
 ### Jardín
 
@@ -282,9 +284,13 @@ XXX
 
 XXX
 
+Las cocinas es el lugar con las posibilidades de encontrar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+
 ### Despensas
 
-XXX
+Las antaño repletas despensas del palacio cada vez están más vacías debido a los excesos continuos de los pretendientes. Aun así todavía sigue habiendo comida, pero los pequeños lujos de los que disfrutaba Penélope ya han desaparecido de sus estanterías y alacenas.
+
+Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario. Lo malo, que puede entrar cualquiera en cualquier momento y pillarte con las manos en la masa.
 
 ### Bodegas
 
@@ -300,7 +306,11 @@ XXX
 
 ### Aposentos del servicio
 
-XXX
+Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
+
+\sp
+
+El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
 
 ### Sala de armas
 
@@ -316,6 +326,8 @@ Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría
 
 XXX
 
+En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como veneno o drogas para atontar o dormir a una persona.
+
 ### Patios internos
 
 Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos.
@@ -326,8 +338,6 @@ XXX
 
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
 
-\sp
-
 Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
 
 ### La sala del trono
@@ -336,7 +346,15 @@ La sala del trono es donde se ubica el telar donde todos los días trabaja Pené
 
 XXX
 
+\sp
+
+\sinc
+
 ## Otras tramas
+
+&nbsp;
+
+\conc
 
 La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
 
