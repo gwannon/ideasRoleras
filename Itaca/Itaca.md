@@ -282,6 +282,8 @@ Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar. 
 
 XXX
 
+Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cualquier parte del palacio desde cualquier otra pasando por ellos. La gran desventaja es que están vigilado por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
+
 ### Cocinas
 
 XXX
