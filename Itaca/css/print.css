@@ -273,6 +273,10 @@ table.special th[colspan="4"] {
   text-align: center;
 }
 
+div:has(table.special) {
+  overflow: auto;
+}
+
 h3 + p img {
   margin-top: 10px;
 }
