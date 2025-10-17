@@ -129,7 +129,7 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-XXX _[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]_
+XXX _[Suplen al resto de PJ de la party normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Ppción de que estén sobornados por los pretendientes para espiarte y chivarse]_
 |d6|¿Qué está haciendo?|
 |---|---|
 |1|Sirviendo ouzo de una gran tinaja|
@@ -152,9 +152,10 @@ Algunos ejemplos de situaciones que generen habladurías:
 * Penélope entrando en aposentos de pretendientes.
 * Deshaciéndose de un cadáver.
 * Empujando a un pretendiente por una ventana.
-* Espiando detrás de las columnas.
+* Espiando o escabulléndose detrás de las columnas.
 * Manipulando la comida o bebida de alguien. 
-* XXX
+* Coqueteando con alguna persona.
+* Escondiendo algún arma u objeto peligroso entre sus ropajes.
 
 Como los puntos de habladurías no se puede quitar, siempre deberías dar la oportunidad a tu Penélope de intentar arreglar la situación de alguna manera.
 
@@ -270,7 +271,10 @@ Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas
 
 ### Bodegas
 
-XXX
+Las bodegas son como las despensas pero todavía más oscuras y más cerradas. De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
+
+Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que se puede emborrachar o sobornar a alguien con una buena jarra de espirituosos de la bodega.
+De normal están cerradas con llave, pero, claro, Penélope, como reina, debería disponer de ellas. Seguramente sea un sitio perfecto para «pararse a respirar» y quitarse todo el agotamiento que hemos acumulado.
 
 ### Comedores
 
@@ -279,6 +283,7 @@ XXX
 ### Aposentos de los invitados
 
 XXX
+
 ### Aposentos del servicio
 
 Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
@@ -303,10 +308,11 @@ En los baños, como en las cocinas, hay diferentes compuestos que se podrían us
 
 ### Patios internos
 
-Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos.
+Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos. En estos patios pueden encontrar fuentes, maceteros gigantes, árboles frutales, setos altos, que permiten esconderse bien. Si bien lo normal es encontrarse con gente de paso, también puede haber algún paseante que aproveche el fresco de la noche.
 
-XXX
+Como la mayoría de salas del palacio dan a patios interiores no son sitios lejos de miradas indiscretas y normalmente todo lo que pasa en ellos es conocido por todo el mundo a no ser que se sea muy cuidadoso.
 
+La opción de enterrar es posible, pero solo de cosas pequeñas como armas incriminatorias o frascos de veneno. Intentar enterrar un cadáver llevaría mucho tiempo y se notaría fácilmente la tierra removida.
 ### Peristilo
 
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.

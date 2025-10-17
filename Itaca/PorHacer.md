@@ -4,18 +4,7 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-XXX _[La idea a desarrollar es que suplan al resto de PJ ayudando a Penélope, ya que solo hay una PJ. Sería algo que saqueas en cada sala y va perdiendo valor su dado según lo usas. Estudiar la opción de que estén sobornados por los pretendientes para espiarte y chivándose de tus actividades]_
-
-***
-
-Algunos ejemplos de situaciones que generen habladurías:
-
-* Penélope entrando en aposentos de pretendientes.
-* Deshaciéndose de un cadáver.
-* Empujando a un pretendiente por una ventana.
-* Espiando detrás de las columnas.
-* Manipulando la comida o bebida de alguien. 
-* XXX
+XXX _[Suplen al resto de PJ de una aprty normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Ppción de que estén sobornados por los pretendientes para espiarte y chivarse]_
 
 ***
 
@@ -45,10 +34,6 @@ XXX
 
 Las cocinas es el lugar con las posibilidades de encontrar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
 
-### Bodegas
-
-XXX
-
 ### Comedores
 
 XXX
@@ -72,12 +57,6 @@ Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría
 XXX
 
 En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como veneno o drogas para atontar o dormir a una persona.
-
-### Patios internos
-
-Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos.
-
-XXX
 
 ### La sala del trono
 
