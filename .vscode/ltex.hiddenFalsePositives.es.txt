@@ -41,3 +41,12 @@
 {"rule":"OBSCURE","sentence":"^\\QLo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QEn general tiene segundos para reaccionar, así que su plan para acallar las habladurías no puede ser muy complicado y solo dispondrá de su equipo y lo que haya en la sala de palacio actual.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWatercolor greek border by freepik\nPenelope and the Suitors by John William Waterhouse\nBlue mosaic tiles by alvaro_cabrera\\E$"}
+{"rule":"FORM","sentence":"^\\QTienen muchas formas y tamaño y pueden estar impolutos hasta ser auténticas cochiqueras con basura y resto de comida y bebida por todas partes.\\E$"}
+{"rule":"HABER_DE_INFINITIVO","sentence":"^\\QAparte de una cama, un escritorio y un armario puede haber de todo.\\E$"}
+{"rule":"REAL","sentence":"^\\QA pesar de lo que se pueda pensar los establos reales no solo tienen caballos, también hay vacas, cerdos y ovejas.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes.\\E$"}
+{"rule":"REAL","sentence":"^\\QPor suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto no podrán generarse puntos de habladurías.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QPenélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una tirada con un D12 en vez de una tirada con tu rango de habilidad actual.\\E$"}
+{"rule":"REAL","sentence":"^\\QLos pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín.\\E$"}
+{"rule":"REAL","sentence":"^\\QEn esta estancia se acumulan los años de historia de la familia real.\\E$"}
+{"rule":"REAL","sentence":"^\\QLas paredes están cubiertas con ricos tapices que representan las grandes hazañas de la familia real.\\E$"}
