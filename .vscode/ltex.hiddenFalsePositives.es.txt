@@ -40,3 +40,4 @@
 {"rule":"OBSCURE","sentence":"^\\QLas bodegas son como las despensas pero todavía más oscuras y más cerradas.\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QLo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QEn general tiene segundos para reaccionar, así que su plan para acallar las habladurías no puede ser muy complicado y solo dispondrá de su equipo y lo que haya en la sala de palacio actual.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWatercolor greek border by freepik\nPenelope and the Suitors by John William Waterhouse\nBlue mosaic tiles by alvaro_cabrera\\E$"}

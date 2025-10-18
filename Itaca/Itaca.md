@@ -142,7 +142,7 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-XXX _[Suplen al resto de PJ de la party normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Opción de que estén sobornados por los pretendientes para espiarte y chivarse]_
+XXX _[Suplen al resto de PJ del grupo normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Opción de que estén sobornados por los pretendientes para espiarte y chivarse]_
 
 \sp
 
@@ -269,9 +269,7 @@ La testorena bulle en el ambiente debido a la competencia y los pretendientes es
 
 Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. 
 
-
 **Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
-
 
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
 
@@ -308,9 +306,13 @@ Cada sala viene con una descripción, posibles problemas, objetos que puedes rec
 
 ### Jardín
 
-XXX
+Los jardines de palacio son grandes, con mucha hierba, rosales y arbustos, árboles frutales, maceteros de flores y sendas de tierra y piedra por las que moverse. Por suerte, no están iluminados, excepto las noches de luna llena.
 
-Los jardines tienen la ventaja de que rodean el palacio y permiten acceder a cualquier parte del palacio desde cualquier otra pasando por ellos. La gran desventaja es que están vigilados por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
+Los jardines tienen la ventaja de que rodean el palacio y **permiten acceder a cualquier parte del palacio desde cualquier otra** pasando por ellos. La gran desventaja es que están vigilados por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
+
+La opción de enterrar es posible, pero solo de cosas pequeñas como armas incriminatorias o frascos de veneno. Intentar enterrar un cadáver llevaría mucho tiempo y se notaría fácilmente la tierra removida.
+
+No hay muchos objetos que recoger, pero siempre puede haber alguna herramienta de jardinería y cuerda que se han dejado los jardineros.
 
 ### Cocinas
 
@@ -328,6 +330,8 @@ Las antaño repletas despensas del palacio cada vez están más vacías debido a
 
 Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario. Lo malo, que puede entrar cualquiera en cualquier momento y pillarte con las manos en la masa.
 
+\sp
+
 ### Bodegas
 
 Las bodegas son como las despensas pero todavía más oscuras y más cerradas. De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
@@ -335,8 +339,6 @@ Las bodegas son como las despensas pero todavía más oscuras y más cerradas. D
 Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que se puede emborrachar o sobornar a alguien con una buena jarra de espirituosos de la bodega.
 
 De normal están cerradas con llave, pero, claro, Penélope, como reina, debería disponer de ellas. Seguramente sea un sitio perfecto para «pararse a respirar» y quitarse todo el agotamiento que hemos acumulado.
-
-\sp
 
 ### Comedores
 
@@ -348,7 +350,20 @@ Son el lugar de reunión principal de los pretendientes y normalmente todas las 
 
 ### Aposentos de los invitados
 
-XXX
+Estos aposentos han sido tomados por los pretendientes y son el elemento más caótico del palacio. Tienen muchas formas y tamaño y pueden estar impolutos hasta ser auténticas cochiqueras con basura y resto de comida y bebida por todas partes. 
+
+Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende del pretendiente y su profesión y aficiones.
+
+|D6|Pretendiente|
+|---|---|
+|1|**Estudioso:** Papiros y material de escritura, productos químicos y herramientas de medición|
+|2|**Artista:** Material de pintura, herramientas de escultura, papiros y pinturas|
+|3|**Atleta:** Material deportivo como discos o jabalinas, pesas y aceites corporales|
+|4|**Músico/Poeta:** Instrumentos musicales de todo tipo, tinta y pergamino y ropajes llamativos|
+|5|**Fiestero:** Bebidas alcohólicas, equipo fetichista y aceites y esencias|
+|6|**Guerrero:** Armas, armaduras, yelmos y escudos|
+
+\sp
 
 ### Aposentos del servicio
 
@@ -358,63 +373,67 @@ El día duro de trabajo hace que los que estén en estas salas duerman profundam
 
 ### Sala de armas
 
-En esta estancia se acumulan los años de historia de la familia real.   Es una especie de museo donde se guardan armas y armaduras de los antepasados, botines de guerra, trofeos, distinciones, etc.
+En esta estancia se acumulan los años de historia de la familia real. Es una especie de museo donde se guardan armas y armaduras de los antepasados, botines de guerra, trofeos, distinciones, etc.
 
 Los diferentes objetos están expuestos en hornacinas, en estanterías, perchas y pedestales. Las paredes están cubiertas con ricos tapices que representan las grandes hazañas de la familia real.
 
-En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de todo tipo, pero ten en cuenta que no vas a poder romperlas ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
+En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de todo tipo, pero ten en cuenta que no vas a poder romperlas, ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
 
 La sala suele estar cerrada y vigilada por las riquezas que contiene. Así que no será fácil entrar y atravesarla.
 
 ### Establos
 
-A pesar de lo que se pueda pensar los Establos reales no solo tienen caballos, también hay vacas, cerdos y ovejas.
+A pesar de lo que se pueda pensar los establos reales no solo tienen caballos, también hay vacas, cerdos y ovejas.
 
-Está lleno de aperos de granja como horcas para dar de comer a los animales, hozes y guadalas para cortar, palas, cuerdas y redes.
+Está lleno de aperos de granja como horcas para dar de comer a los animales, **hoces y guadañas para cortar, palas, cuerdas y redes**.
 
-También puedes encontrar un pequeño taller con herramientas donde fabricar y arreglar las herramientas del campo, las sillas de montar, los arreos, los yugos de los bueyes, etc.
+También puedes encontrar un pequeño taller con **herramientas donde fabricar y arreglar los utensilios del campo, las sillas de montar, los arreos, los yugos de los bueyes, etc.
 
-A la noche no hay mucha actividad humana, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, ... Y se puede montar un jaleo muy grande, que atraerá a la gente.
+A la noche no hay mucha actividad humana, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, … Y se puede montar un jaleo muy grande, que atraerá a la gente.
 
 ### Baños
 
 Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas. El jabón, los aceites corporales y las toallas son cosas útiles que puedes encontrar.
 
-Los baños pueden ofrecer un lugar donde hacerte curas. Es un sitio limpio, hay telas que puedes usar de vendas y agua para limpiar las heridas. También puedes llenar los baños de vaho usando las aguas termales que te permitirán escabullirte sin ser vista.
-
-En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como veneno o drogas para atontar o dormir a una persona.
+Los baños pueden ofrecer **un lugar donde hacerte curas**. Es un sitio limpio, hay telas que puedes usar de vendas y agua para limpiar las heridas. 
 
 \sp
+
+También puedes llenar los baños de vaho usando las aguas termales que te permitirán escabullirte sin ser vista.
+
+En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como **veneno o drogas** para atontar o dormir a una persona.
 
 ### Patios internos
 
 Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos. En estos patios pueden encontrar fuentes, maceteros gigantes, árboles frutales, setos altos, que permiten esconderse bien. Si bien lo normal es encontrarse con gente de paso, también puede haber algún paseante que aproveche el fresco de la noche.
 
-Como la mayoría de salas del palacio dan a patios interiores no son sitios lejos de miradas indiscretas y normalmente todo lo que pasa en ellos es conocido por todo el mundo a no ser que se sea muy cuidadoso.
+Como la mayoría de salas del palacio dan a patios interiores no son sitios lejos de miradas indiscretas y normalmente **todo lo que pasa en ellos es conocido por todo el mundo** a no ser que se sea muy cuidadoso.
 
-La opción de enterrar es posible, pero solo de cosas pequeñas como armas incriminatorias o frascos de veneno. Intentar enterrar un cadáver llevaría mucho tiempo y se notaría fácilmente la tierra removida.
+Como en los jardines hay tierra suficiente como para poder **enterrar cosas pequeñas** que podrías recuperar en el futuro.
 
 ### Peristilo
 
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
 
+\sc
+
 Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
+
+> Todas las anteriores salas son solo ejemplos, pero siéntete libre de crear tus propias salas como un gimnasio, una sala de audiencias, una armaría, etc.
 
 ### La sala del trono
 
-La sala del trono es donde se ubica el telar donde todos los días trabaja Penélope tejiendo. El objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
+La sala del trono es la más impresionante estancia pedes entrar, con el trono del reino desaparecido y la reina Penélope. Esta sala es única, no hay otra igual en todo el palacio. Aquí se ubica el telar donde todos los días trabaja Penélope tejiendo. 
 
-Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar su misión. XXX
+Como ya sabes, el objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
-XXX
+Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar su misión. Pero necesitará **hacer que el salón del trono quede libre de pretendientes** para destejer el tapiz.
+
+Hay eventos que dejan el trono casi vacío, pero los hay que lo llenan de gente. Penélope deberá superar este último reto para poder volver a sus aposentos.
 
 \sp
 
-\sinc
-
 ## Otras tramas
-
-\conc
 
 La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
 
@@ -428,6 +447,7 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 
 * Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
 * Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.
+
 
 \sp
 
@@ -450,7 +470,6 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 > This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
-
 
 \sp
 
