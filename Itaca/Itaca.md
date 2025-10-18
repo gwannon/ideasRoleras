@@ -358,7 +358,13 @@ El día duro de trabajo hace que los que estén en estas salas duerman profundam
 
 ### Sala de armas
 
-XXX
+En esta estancia se acumulan los años de historia de la familia real.   Es una especie de museo donde se guardan armas y armaduras de los antepasados, botines de guerra, trofeos, distinciones, etc.
+
+Los diferentes objetos están expuestos en hornacinas, en estanterías, perchas y pedestales. Las paredes están cubiertas con ricos tapices que representan las grandes hazañas de la familia real.
+
+En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de todo tipo, pero ten en cuenta que no vas a poder romperlas ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
+
+La sala suele estar cerrada y vigilada por las riquezas que contiene. Así que no será fácil entrar y atravesarla.
 
 ### Establos
 
