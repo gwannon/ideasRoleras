@@ -368,7 +368,13 @@ La sala suele estar cerrada y vigilada por las riquezas que contiene. Así que n
 
 ### Establos
 
-XXX
+A pesar de lo que se pueda pensar los Establos reales no solo tienen caballos, también hay vacas, cerdos y ovejas.
+
+Está lleno de aperos de granja como horcas para dar de comer a los animales, hozes y guadalas para cortar, palas, cuerdas y redes.
+
+También puedes encontrar un pequeño taller con herramientas donde fabricar y arreglar las herramientas del campo, las sillas de montar, los arreos, los yugos de los bueyes, etc.
+
+A la noche no hay mucha actividad humana, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, ... Y se puede montar un jaleo muy grande, que atraerá a la gente.
 
 ### Baños
 
