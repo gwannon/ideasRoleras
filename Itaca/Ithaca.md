@@ -48,7 +48,7 @@ Para parar y respirar debes estar **fuera de peligro en un lugar tranquilo, lejo
 
 Cuando Penélope se toma un respiro, la DJ observa la situación y presenta una nueva complicación al grupo.
 
-### Aprovisionamiento (Loot Checks)
+### Provisioning (Loot Checks)
 
 Según vayas avanzando por las salas de tu palacio podrás aprovisionarte de objetos que te ayuden a llegar al tapiz y deshacer el trabajo realizado.
 
@@ -73,7 +73,7 @@ Si no tienes claro que obtienes con la tirada de aprovisionamiento puedes tirar 
 
 \sp
 
-|D20|Objeto|
+|D20|Item|
 |---|---|
 |1|Ouzo|
 |2|Cuchillo|
@@ -108,7 +108,7 @@ Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una
 
 \sp
 
-### Capazo (Backpack)
+### Basket (Backpack)
 
 Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. 
 
@@ -130,7 +130,7 @@ Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener 
 
 Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
 
-### Ambrosía (Medikits)
+### Ambrosia (Medikits)
 
 Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía. La bebida de los dioses tiene efectos revigorizantes y rejuvenecedores que te van a ayudar y te van a permitir eliminar 2 puntos de agotamiento.
 
@@ -186,7 +186,7 @@ Ten en cuenta que si Penélope trata bien y con respeto a la criada sobornada, e
 
 Trata de dar pistas al describir a la criada sobornada, para que puedan intentar hacer algo ante esta situación.
 
-### Habladurías
+### Gossips
 
 No es «normal y decente» que una reina deambule por el palacio bien entrada la noche, haciendo cosas extrañas, rondando pasillos y peristilos y entrando en aposentos de pretendientes y servicios. 
 
@@ -223,16 +223,16 @@ Puede usar su **entrenamiento espartano** en estas situaciones.
 
 Para empezar, en tu hoja de personaje anota el apodo y los pronombres que quieres que usen con tu Penélope.
 
-Todas las habilidades tienen una puntuación de D4 y debes asignar un D10, un D8 y un D6 a tres habilidades en las que creas que tu personaje destaca.
+All skills are scored on d4, and you must assign a d10, a d8, and a d6 to three skills you think your character excels at.
 
-Los personajes tienen un total de 6 habilidades:
+Characters have a total of 6 skills:
 
-* **Empujar:** Abrirte paso, doblar, destrozar.
-* **Moverse:** Correr, saltar, trepar.
-* **Acechar:** Esconderse, husmear, merodear.
-* **Deambular:** Orientarse, perseguir, atajar.
-* **Pensar:** Percibir, analizar, reparar.
-* **Interactuar:** Cautivar, manipular, intimidar.
+* **Bash:** wreck, move, force.
+* **Dash:** run, jump, climb.
+* **Sneak:** hide, skulk, lurk.
+* **Wander:** orient, pursue, shortcut.
+* **Think:** perceive, analyze, repair.
+* **Sway:** charm, manipulate, intimidate.
 
 |D6|Pieza de equipo inicial|
 |---|---|
@@ -245,7 +245,7 @@ Los personajes tienen un total de 6 habilidades:
 
 Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel D10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
 
-## Cada noche…
+## Every night…
 
 Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiestas pueden poner más fácil en unas cosas y más difícil en otras la misión de Penélope.
 
@@ -333,7 +333,7 @@ Cada sala viene con una descripción, posibles problemas, objetos que puedes rec
 
 \sp
 
-### Jardín
+### Garden
 
 Los jardines de palacio son grandes, con mucha hierba, rosales y arbustos, árboles frutales, maceteros de flores y sendas de tierra y piedra por las que moverse. Por suerte, no están iluminados, excepto las noches de luna llena.
 
@@ -343,7 +343,7 @@ La opción de enterrar es posible, pero solo de cosas pequeñas como armas incri
 
 No hay muchos objetos que recoger, pero siempre puede haber alguna herramienta de jardinería y cuerda que se han dejado los jardineros.
 
-### Cocinas
+### Kitchens
 
 A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, desde la gente que se levanta pronto para encender fuegos y hornos y preparar el pan, hasta los que recogen los restos de los banquetes hasta altas horas de la noche.
 
@@ -361,7 +361,7 @@ Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas
 
 \sp
 
-### Bodegas
+### Cellars
 
 Las bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendiente). De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
 
@@ -410,7 +410,7 @@ En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de
 
 La sala suele estar cerrada y vigilada por las riquezas que contiene. Debido a esto baja un rango el dado de encontrar a un pretendiente. Así que no será fácil entrar y atravesarla.
 
-### Establos
+### Stables
 
 A pesar de lo que se pueda pensar los establos reales no solo tienen caballos, también hay vacas, cerdos y ovejas.
 
@@ -503,11 +503,11 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 
 \sinc
 
-## Licencia
+## License
 
 \conc
 
-«Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
+«Íthaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
 Se han usado imágenes libres de derecho y pasamos a darles su justa atribución.
 
