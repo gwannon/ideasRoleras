@@ -287,9 +287,9 @@ All the furniture in the throne room has been cleared, and the suitors have set 
 > The goal of these events is to give each night a different flavor. As the DJ, you are free to deviate from these rules or create your own events.
 ## The palace rooms
 
-El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
+The palace of Ithaca is immense and has thousands of rooms and halls with all kinds of uses. Penelope must navigate through them, dodging suitors until she reaches the throne room, where the loom is located where she weaves the tapestry during the day.
 
-Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
+That's why here's a simple system so you can quickly map out the route of the rooms Penelope will navigate through to reach the throne room.
 
 |D12|Room|
 |---|---|
@@ -306,68 +306,67 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 |11|Internal courtyards|
 |12|Peristyle|
 
-Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
-
+Each room comes with a description, possible problems, items you can collect, and maids you can encounter.
 ### Gardens
 
-Los jardines de palacio son grandes, con mucha hierba, rosales y arbustos, árboles frutales, maceteros de flores y sendas de tierra y piedra por las que moverse. Por suerte, no están iluminados, excepto las noches de luna llena.
+The palace gardens are large, with plenty of grass, rose bushes and shrubs, fruit trees, flower boxes, and dirt and stone paths to navigate. Fortunately, they are not lit, except on nights with a full moon.
 
-Los jardines tienen la ventaja de que rodean el palacio y **permiten acceder a cualquier parte del palacio desde cualquier otra** pasando por ellos. La gran desventaja es que están vigilados por la guardia y por sus perros de presa y a estos últimos es difícil persuadirlos, intimidarlos o seducirlos.
+The gardens have the advantage of surrounding the palace and **allowing access to any part of the palace from any other by passing through them**. The major disadvantage is that they are guarded by guards and their hunting dogs, and the latter are difficult to persuade, intimidate, or seduce.
 
-La opción de enterrar es posible, pero solo de cosas pequeñas como armas incriminatorias o frascos de veneno. Intentar enterrar un cadáver llevaría mucho tiempo y se notaría fácilmente la tierra removida.
+Burying is possible, but only for small items like incriminating weapons or bottles of poison. Attempting to bury a corpse would take a long time, and the disturbed earth would be easily noticeable.
 
-No hay muchos objetos que recoger, pero siempre puede haber alguna herramienta de jardinería y cuerda que se han dejado los jardineros.
+There aren't many items to collect, but there might always be some gardening tools and string left behind by the gardeners.
 
 ### Kitchens
 
-A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, desde la gente que se levanta pronto para encender fuegos y hornos y preparar el pan, hasta los que recogen los restos de los banquetes hasta altas horas de la noche.
+Unlike other parts of the palace, the kitchens are always bustling with activity, from people who get up early to light fires and ovens and prepare bread, to those who clear away leftovers from banquets late into the night.
 
-Puedes encontrar todo tipo de cuchillos, machetes, pinchos, mazos, etc. así como aceite de quemar y de cocinar, cuerdas, telas y paños.
-Las cocinas, al ser muchas veces boticas y enfermerías, es el lugar con más posibilidades de encontrar vendas y material que puedas usar para primeros auxilios, sin olvidar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
+You can find all kinds of knives, machetes, skewers, mallets, etc., as well as cooking and burning oil, rope, cloth, and rags.
+The kitchens, often serving as apothecaries and infirmaries, are the most likely places to find bandages and supplies you can use for first aid, not to mention products you can use as poison, such as poisonous mushrooms, and also food and drink that can be poisoned.
 
-A las ventanas de las cocinas acuden mendigos a recoger las sobras y quizás puedan hacerte algún favor por unos chuscos de pan y algo de panceta.
+Beggars come to the kitchen windows to collect leftovers and may be able to do you a favor for a few loaves of bread and some bacon.
 
 ### Larders
 
-Las antaño repletas despensas del palacio cada vez están más vacías debido a los excesos continuos de los pretendientes. Aun así todavía sigue habiendo comida, pero los pequeños lujos de los que disfrutaba Penélope ya han desaparecido de sus estanterías y alacenas.
+The once-full palace pantries are increasingly empty due to the suitors' constant excesses. Even so, there is still food, but the small luxuries Penelope enjoyed have disappeared from the shelves and cupboards.
 
-Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario. Lo malo, que puede entrar cualquiera en cualquier momento y pillarte con las manos en la masa.
+The good thing about pantries is that they are usually dark, closed, with no windows to the outside, and no one usually wanders around them, except on special occasions such as when new items are brought in or an inventory is taken. The bad thing is that anyone can walk in at any time and catch you red-handed.
 
 ### Cellars
 
-Las bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendiente). De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
+Cellars are like larders, but even darker and more enclosed (the chance of finding a suitor drops by one rank). In fact, some are underground, and at most, there are small windows in the ceiling.
 
-Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que se puede emborrachar o sobornar a alguien con una buena jarra de espirituosos de la bodega.
+Usually, there's only wine and ouzo, but it's of the highest quality, and you can definitely get drunk or bribe someone with a good jug of spirits from the cellar.
 
-De normal están cerradas con llave, pero, claro, Penélope, como reina, debería disponer de ellas. Seguramente sea un sitio perfecto para «pararse a respirar» y quitarse todo el agotamiento que hemos acumulado.
+They're normally locked, but of course, Penelope, as queen, should have access to them. It's probably a perfect place to "stop and breathe" and get rid of all the accumulated exhaustion.
 
 ### Dining rooms
 
-Los comedores son de las estancias más grandes del palacio. Están llenas de largas mesas con bancos corridos y suelen tener varios accesos desde los que entran los invitados o el servicio con viandas y libaciones.
+The dining rooms are among the largest rooms in the palace. They are filled with long tables with benches and usually have several entrances from which guests or staff enter with food and libations.
 
-Cuchillos, platos y bandejas de metal son cosas que puedes encontrarte aquí y también alimentos y bebidas, manteles, servilletas, etc. y también buenos chuletones y huesos de vaca para lanzárselo a los perros que vigilan el palacio.
+Knives, plates, and metal trays can be found here, as well as food and drinks, tablecloths, napkins, etc., as well as good steaks and beef bones to throw to the dogs guarding the palace.
 
-Son el lugar de reunión principal de los pretendientes y normalmente todas las fiestas y todas las peleas empiezan entre sus mesas. Tampoco es de extrañar que ronden por de bajo de las mesas las mascotas de la casa.
+They are the main gathering place for the suitors, and usually all the parties and fights start at their tables. It's also not surprising that the household pets prowl around under the tables.
+
 ### Servants' quarters
 
-Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
-
-El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
+They are usually either large communal rooms where several maids sleep, separated by curtains, or small private rooms for higher-ranking maids. In both cases, there aren't many things you can use, just the servants' simple personal belongings and little else.
+A hard day's work means those in these rooms sleep soundly, and if they are awakened by any noise, they believe it's a colleague who has gone to the bathroom or gotten up early to do their chores.
 
 ### Guest quarters
 
-Estos aposentos han sido tomados por los pretendientes y son el elemento más caótico del palacio. Tienen muchas formas y tamaño y pueden estar impolutos hasta ser auténticas cochiqueras con basura y resto de comida y bebida por todas partes. 
+These chambers have been taken over by the suitors and are the most chaotic element of the palace. They come in many shapes and sizes and can be spotless to the point of being pigpens with garbage and leftover food and drink everywhere.
 
-Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende del pretendiente y su profesión y aficiones.
+Apart from a bed, a desk, and a wardrobe, there may be anything. This depends on the suitor and their profession and hobbies.
 
-|D6|Pretendiente|
+|D6|Suitor|
 |---|---|
-|1|**Estudioso:** Papiros y material de escritura, productos químicos y herramientas de medición|
-|2|**Artista:** Material de pintura, herramientas de escultura, papiros y pinturas|
-|3|**Atleta:** Material deportivo como discos o jabalinas, pesas y aceites corporales|
-|4|**Músico/Poeta:** Instrumentos musicales de todo tipo, tinta y pergamino y ropajes llamativos|
-|5|**Fiestero:** Bebidas alcohólicas, equipo fetichista y aceites y esencias|
-|6|**Guerrero:** Armas, armaduras, yelmos y escudos|
+|1|**Scholar:** Papyrus and writing materials, chemicals, and measuring tools|
+|2|**Artist:** Painting materials, sculpting tools, papyrus and paints|
+|3|**Athlete:** Sports equipment such as discus or javelins, weights, and body oils|
+|4|**Musician/Poet:** Musical instruments of all kinds, ink and parchment, and flamboyant robes|
+|5|**Partygoer:** Alcoholic beverages, fetish equipment, and oils and essences|
+|6|**Warrior:** Weapons, armor, helmets and shields|
 
 ### Treasure Room
 
@@ -376,39 +375,39 @@ This room contains years of history for the royal family. It's a kind of museum 
 The various objects are displayed in niches, on shelves, hangers, and pedestals. The walls are covered with rich tapestries depicting the royal family's great deeds.
 
 In this room, you can find very interesting items such as **weapons and armor of all kinds**, but keep in mind that **you won't be able to break them**, as their absence would be noticeable, and you'd have to return them at the end of the night. Any item taken here should not be lower than a D6, or it will be obvious it's been used.
+
 The room is usually **locked and guarded** because of the riches it contains. Because of this, the die for finding a suitor is lowered by one rank. So, entering and passing through it won't be easy.
 
 ### Stables
 
-A pesar de lo que se pueda pensar los establos reales no solo tienen caballos, también hay vacas, cerdos y ovejas.
+Despite what you might think, the royal stables don't just house horses; there are also cows, pigs, and sheep.
+It's full of farm implements such as forks for feeding the animals, **sickles and scythes for cutting crops, shovels, ropes, and nets**.
 
-Está lleno de aperos de granja como horcas para dar de comer a los animales, **hoces y guadañas para cortar, palas, cuerdas y redes**.
+You can also find a small workshop with tools for making and repairing farm implements, such as saddles, tack, oxen yokes, etc.
 
-También puedes encontrar un pequeño taller con **herramientas donde fabricar y arreglar los utensilios del campo, las sillas de montar, los arreos, los yugos de los bueyes, etc.
-
-A la noche no hay mucha actividad humana, por lo que baja un rango el dado de encontrar a un pretendiente, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, … Y se puede montar un jaleo muy grande, que atraerá a la gente.
+At night, there isn't much human activity, so the die for finding a suitor drops one rank, but there is animal activity. If you're not stealthy, the horses will start neighing, the cows will moo, the sheep will bleat, and so on. And it can cause quite a commotion, which will attract people.
 
 ### Bathrooms
 
-Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas. El jabón, los aceites corporales y las toallas son cosas útiles que puedes encontrar.
+From simple latrines to majestic hot springs with hot and cold tubs, massage tables, and benches where you can rest and chat with others. Soap, body oils, and towels are useful items you can find.
 
-Los baños pueden ofrecer **un lugar donde hacerte curas**. Es un sitio limpio, hay telas que puedes usar de vendas y agua para limpiar las heridas. También puedes llenar los baños de vaho usando las aguas termales que te permitirán escabullirte sin ser vista.
+The baths can offer a **place to treat injuries yourself**. It's a clean place, with cloths you can use as bandages and water to clean wounds. You can also fill the baths with steam using the hot spring waters, which will allow you to sneak away unseen.
 
-En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como **veneno o drogas** para atontar o dormir a una persona.
+In the baths, as in the kitchens, there are different **compounds that could be used as poisons or drugs** to stupefy or put a person to sleep.
 
 ### Internal courtyards
 
-Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos. En estos patios pueden encontrar fuentes, maceteros gigantes, árboles frutales, setos altos, que permiten esconderse bien. Si bien lo normal es encontrarse con gente de paso, también puede haber algún paseante que aproveche el fresco de la noche.
+They are the heart of every Greek mansion and palace. It's impossible to move around the palace without passing through them. In these courtyards, you can find fountains, giant flowerpots, fruit trees, and tall hedges, which provide good hiding places. While it's common to encounter people passing by, there may also be some strollers taking advantage of the cool evening air.
 
-Como la mayoría de salas del palacio dan a patios interiores no son sitios lejos de miradas indiscretas y normalmente **todo lo que pasa en ellos es conocido por todo el mundo** a no ser que se sea muy cuidadoso.
+Since most of the palace's rooms overlook interior courtyards, they are not far from prying eyes, and usually **everything that happens in them is known to everyone** unless you're very careful.
 
-Como en los jardines hay tierra suficiente como para poder **enterrar cosas pequeñas** que podrías recuperar en el futuro.
+Since there's enough soil in the gardens to **bury small things** that you could recover in the future.
+
 ### Peristyle
 
 The Peristyle is the gallery of columns that surrounds a building. They're more decorative than rooms to stay in, but they're perfect because no one is ever around and the columns provide good cover.
 
 However, it shouldn't be unusual to find two passionate lovers hiding behind the columns or a group of conspirators hiding from the rest of the suitors.
-
 > All of the above rooms are just examples, but feel free to create your own rooms, such as a gymnasium, an audience chamber, an armory, etc.
 
 ### The Throne Room
@@ -434,10 +433,7 @@ Normally, to determine if the room where Penelope enters has suitors, you can **
 
 Suitors are a unique unit, and their number doesn't matter. Whether there's one suitor or a dozen at the game level, they're simply a complication. The number only matters when figuring out how to resolve the complication. Perhaps Penelope tries to knock out or seduce a suitor, but has to intimidate or evade a large group of suitors.
 
- 
-
 Taking out suitors could be a good consequence to use in quests. If Penelope falls from the roof into the inner courtyard while trying to reach the throne room, a couple of suitors may appear, having heard the noises on the roof and gone out into the inner courtyard to see what's happening. Penelope will have to hide, run away, or try to convince them that she also heard something strange while pretending that her leg hurts from the fall and that her tunic is torn.
-
 The suitors are the main enemy, but not the only one. Many other things can happen during the night, such as enemies of Ithaca entering and trying to kill Penelope, or drunken suitors starting a fire, and they have to flee the palace or rescue servants and/or royal treasures.
 
 [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) has a list of suitors in case you need names.
