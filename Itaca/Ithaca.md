@@ -6,224 +6,227 @@
 
 \conc
 
-Ítaca es un juego de rol basado en **[Breathless](https://farirpgs.com/breathless/creator-kit)** para **una jugadora y una directora** donde la jugadora interpretará al personaje mitológico griego de Penélope.
+Ithaca is a role-playing game based on **[Breathless](https://farirpgs.com/breathless/creator-kit)** for **one player and one gamemaster** where the player plays the Greek mythological character of Penelope.
 
-Cada día Penélope teje un tapiz y cada noche debe escabullirse sigilosamente y enredar a los pretendientes que rondan por el palacio o esquivarlos y deshacer todo el trabajo que ha hecho durante el día.
+Every day Penelope weaves a tapestry, and each night she must stealthily sneak around and entangle the suitors who prowl the palace, or evade them and undo all the work she has done during the day.
 
-Ha prometido que elegirá a un nuevo esposo y se casará al terminar el tapiz. Si la atrapan, descubrirán su treta y tendrá que desposarse.
+She has promised to choose a new husband and marry once the tapestry is finished. If she is caught, her ruse will be discovered, and she will have to marry.
 
 ```
-Escapa de tus aposentos, esquiva a tus pretendientes y deshaz tu tapiz.
+Escape from your chambers, evade your suitors, and undo your tapestry.
 ```
 
-## Sistema
+## System
 
-«Ítaca» usa el sistema [Breathless](https://farirpgs.com/breathless/creator-kit), modificando y ampliando sus reglas para plasmar las aventuras en las que participará Penélope.
+«Ithaca» uses the [Breathless](https://farirpgs.com/breathless/creator-kit) system, modifying and expanding its rules to capture the adventures in which Penelope will participate.
 
-### Tiradas (Checks)
+### Checks
 
-Cuando hay un desafío que superar, haces una tirada para ver cómo se desarrolla. Solo necesitas tirar si lo que quieres hacer es arriesgado.
+When doing something challenging, you make a check to see how it plays out. You only need to roll if what you are doing is risky. The GM first telegraphs the risk of your action. You then pick a skill or item, and roll the die that matches its rating.
 
-La DJ anuncia que tu acción puede ser arriesgada y peligrosa; entonces eliges una habilidad y tiras el dado correspondiente a tu puntuación. 
+If an ally helps you, they also make a check, but share the same risks as you. Take the highest die and interpret the result.
 
-|Dado|Resultado|
+|Check|Result|
 |---|---|
-|1-2|Fallas y algo malo sucede.|
-|3-4|Lo logras, pero tiene algún tipo de coste.|
-|5+|Tienes éxito. Cuánto mayor es el resultado, el efecto es mejor.|
-
-La vida de Penélope no es fácil a pesar de ser la reina de Ítaca. Cada tirada reduce la puntuación de la habilidad usada en un nivel hasta un mínimo de D4.
+|1-2|You fail, and there’s an additional complication.|
+|3-4|You succeed, but there’s a complication.|
+|5+|You succeed. The higher the result, the better the effect.|
 
 \sp
 
+Penelope's life is not easy despite being the queen of Ithaca. Everyone who rolled reduces the rating of the skill they used by one step. Skills cannot go lower than a D4.
+
 > **D12 ⇾ D10 ⇾ D8 → D6 → D4**
 
-Si lo desea, la DJ puede dejar una decisión de partida a la suerte. Simplemente, elige un dado basándote en la probabilidad de que algo suceda, tira e interpreta el resultado.
+The GM can also disclaim decision-making by testing for luck. To do so, pick a die rating simply based on the odds of a thing happening, roll, and interpret the result as you see fit.
 
-### Parar y respirar (Catch Your Breath)
+### Stop and take a breathe (Catch Your Breath)
 
-Para recuperar todas tus habilidades, debes «parar y respirar». Se trata de un breve descanso para tranquilizarse, mirar la situación, bajar las pulsaciones y volver a la misión a tope. 
+To regain all your abilities, you must "stop and take a breathe." This is a short break to calm down, review the situation, lower your heart rate, and return to the mission at full speed.
 
-Para parar y respirar debes estar **fuera de peligro en un lugar tranquilo, lejos de la vista de los pretendientes**.
+To stop and take a breathe, you must be **out of danger in a quiet place, away from the sight of the suitors**.
 
-Cuando Penélope se toma un respiro, la DJ observa la situación y presenta una nueva complicación al grupo.
+When Penelope stops and takes a breathe, the GM observes the situation and presents a new complication to the group.
 
 ### Provisioning (Loot Checks)
 
-Según vayas avanzando por las salas de tu palacio podrás aprovisionarte de objetos que te ayuden a llegar al tapiz y deshacer el trabajo realizado.
+As you progress through the halls of your palace, you can stock up on items that will help you reach the tapestry and undo the work you've done.
 
-Cuando la trama lo permita, puedes hacer una tirada de aprovisionamiento para buscar equipo que te ayude en tu misión.
+When the history allows, you can 
 
-Ten cuidado porque puedes encontrarte con cosas que no querías, como un pretendiente borracho que venía de los baños o uno de los sabuesos de caza que ha traído algún aspirante a conseguir tu mano.
+\sc
 
-El equipo que puedes buscar son principalmente objetos cotidianos de una casa de la época, pero también armas de tus ancestros, tesoros familiares e incluso objetos que han dejado olvidados los pretendientes, desde su casco de guerra hasta un espejo de bronce pulido que ha traído como presente para ti.
+make a provisioning roll to find equipment that will help you in your quest.
 
-Para hacer una tirada de aprovisionamiento debes lanzar un D12 y consultar la siguiente tabla.
+Be careful because you may encounter things you didn't want, such as a drunken suitor coming from the baths or one of the hunting hounds brought by a suitor seeking your hand.
 
-|D12|Aprovisionamiento|
+The equipment you can search for is primarily everyday objects from a period house, but also weapons belonging to your ancestors, family treasures, and even items left behind by suitors, from their war helmet to a polished bronze mirror they brought as a gift for you.
+
+To make a provisioning roll, you must roll a D12 and consult the following table.
+
+|D12|Provisioning|
 |---|---|
-|1-2|Pasa algo malo…|
-|3-4|Algo malo se acerca…|
-|5-6|1 pieza de equipo de D6|
-|7-8|1 pieza de equipo de D8|
-|9-10|1 pieza de equipo de D10 o 1 tinaja de ambrosía|
-|11-12|1 pieza de equipo de D12 o 1 tinaja de ambrosía|
+|1-2|Trouble is here…|
+|3-4|There’s trouble ahead…|
+|5-6|Add a D6 item|
+|7-8|Add a D8 item|
+|9-10|Add a D10 item or a jar of ambrosia|
+|11-12|Add a D12 item or a jar of ambrosia|
 
-Si no tienes claro que obtienes con la tirada de aprovisionamiento puedes tirar un d20 en la siguiente tabla o consultar, más adelante, las cosas más comunes en cada tipo de sala en que esté Penélope.
+If you're not sure what you'll get with the provisioning roll, you can roll a d20 on the following table or look up the most common items in each type of room where Penelope is later.
 
 \sp
 
 |D20|Item|
 |---|---|
 |1|Ouzo|
-|2|Cuchillo|
-|3|Espejo de metal pulido|
-|4|Cubertería de metal|
-|5|Antorcha/lámpara de aceite|
-|6|Siringa (flauta de Pan)|
-|7|Cuerda|
-|8|Ricos ropajes de pretendiente|
-|9|Canicas de mármol|
-|10|Tinaja de aceite|
-|11|Hoz de mano|
-|12|Cera de abeja|
-|13|Casco|
-|14|Máscara de teatro|
-|15|Ropas de sirvienta|
-|16|Vasija de miel|
-|18|Ropa agricultora/jardinera|
-|19|Horca|
-|20|Veneno|
+|2|Knife|
+|3|Polished Metal Mirror|
+|4|Metal Cutlery|
+|5|Torch/Oil Lamp|
+|6|Syrinx (Pan's Flute)|
+|7|Rope|
+|8|Rich Suitor's Garments|
+|9|Marble Marbles|
+|10|Oil Jar|
+|11|Hand Sickle|
+|12|Beeswax|
+|13|Helmet|
+|14|Theater Mask|
+|15|Maid's Clothes|
+|16|Honey Pot|
+|18|Farmer's/Gardener's Clothes|
+|19|Pitchfork|
+|20|Poison|
 
-#### Equipo especial
+#### Featured items
 
-Aparte de las típicas cosas con sus típicos usos que podrías encontrar en una casa griega de la antigüedad hay ciertos objetos especiales que deberías tener en cuenta y que pueden ser usados de maneras muy creativas.
+Aside from the typical things with their typical uses that you might find in an ancient Greek home, there are certain special objects you should keep in mind that can be used in very creative ways.
 
-* **Ouzo:** este aguardiente fuertísimo es la bebida alcohólica preferida de los pretendientes. Sirve tanto para emborracharlos como para distraerlos. Ninguno perderá la ocasión de coger una jarra de ouzo y tomársela en algún sitio tranquilo. El ouzo es famoso por dejar importantes lagunas en la memoria al día siguiente, así que es otra de sus capacidades a la que puede recurrir en caso de necesidad. 
-* **Aceite:** El aceite tiene muchos usos. Desde tirarlo al suelo para que la gente resbale o usarlo de combustible y quemar algo hasta embadurnarte con él para pasar por sitios estrechos.
-* **Cera de abeja:** Puedes usarlo para sellar objetos y saber si han sido abiertos. También como pegamento e incluso para sacar moldes de objetos.
-* **Canicas de mármol:** Este juguete infantil, que seguro que perteneció a Telémaco o a uno de sus amigos, puede usarse como abrojos, como proyectil o para lanzarlo y distraer a un guardia o vigía.
-* **Ropajes:** Los diferentes ropajes te permitirán principalmente disfrazarte, pero, por ejemplo, también puedes usarse para hacer vendas o atarlos y descolgarte por una ventana.
-* **Siringa:** Esta flauta tiene un sonido fácilmente reconocible y suele ser muy normal en celebraciones y juergas. Seguro que cualquier pretendiente que la oiga buscará dónde se está celebrando esa fiesta que se está perdiendo. Y recuerda que la música amansa a las fieras y algunos pretendientes han traído sus mejores sabuesos de caza.
+* **Ouzo:** This very strong spirit is the favorite alcoholic drink of suitors. It serves both to get them drunk and to distract them. No one will miss the opportunity to grab a jug of ouzo and drink it somewhere quiet. Ouzo is famous for leaving significant memory lapses the next day, so it's another of its abilities that can be called upon in a pinch.
+* **Oil:** Oil has many uses. From throwing it on the floor to make people slip or using it as fuel to burn something, to smearing yourself with it to get through tight spaces.
+* **Beeswax:** You can use it to seal objects and determine if they've been opened. You can also use it as glue and even to make molds of objects.
+* **Marble Marbles:** This children's toy, which surely belonged to Telemachus or one of his friends, can be used as caltrops, as a projectile, or to throw to distract a guard or lookout.
+* **Clothing:** The different clothing options will primarily allow you to disguise yourself, but, for example, you can also use it to make bandages or tie yourself up and lower yourself out of a window.
+* **Syrinx:** This flute has an easily recognizable sound and is usually very common at celebrations and revelries. Any suitor who hears it will surely look for the location of that party he's been missing. And remember, music tames wild beasts, and some suitors have brought their best hunting hounds.
 
 \sp
 
 ### Basket (Backpack)
 
-Los objetos de tu capazo pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. 
+The items in your basket can be used in place of your skills. They start with a die level that decreases after each use.
 
-Al reducirse a un D4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
+When reduced to a D4, the item breaks, is lost, or simply disappears from history.
 
-Solo se pueden llevar **3 objetos y 1 tinaja de ambrosía en tu capazo**.
+Only **3 items and 1 jar of ambrosia may be carried in your basket**.
 
-### Entrenamiento espartano (Stunts)
+### Spartan training (Stunts)
 
-Penélope es hija del rey de Esparta y cuando todo se complica, puedes intentar recurrir a tu entrenamiento espartano (sí, en este juego las mujeres espartanas reciben entrenamiento militar como los hombres) y hacer una **tirada con un D12** en vez de una tirada con tu rango de habilidad actual.
+Penelope is the daughter of the King of Sparta, and when things get tough, you can try calling on your Spartan training (yes, in this game, Spartan women receive military training like men) and **roll a D12** instead of your current skill rank.
 
-Una vez gastado tu entrenamiento espartano, no podrás usarlo de nuevo hasta que **se pare y respire** de nuevo.
+Once your Spartan training is used up, **you can't use it again until you stop and take a breathe again**.
 
-### Agotamiento (Stress)
+### Exhaustion (Stress)
 
-Cuando enfrentas una consecuencia como resultado de una de tus acciones, la DJ puede decidir que Penélope reciba 1 nivel de agotamiento.
+When you face a consequence as a result of one of your actions, the GM may decide that Penelope receives 1 level of exhaustion.
 
-Si Penélope alcanza 4 niveles de agotamiento, está agotada y cansada de tener que hacer todas las noches lo mismo esperando a un marido que no sabes si está vivo o muerto o si está intentando volver o no tiene intención.
+If Penelope reaches 4 levels of exhaustion, she's exhausted and tired of having to do the same thing every night, waiting for a husband you don't know if he's alive or dead, or if he's trying to come back or not.
 
-Cuando estás agotada, fallar una acción peligrosa significa que desistes de tu misión y posiblemente termines el tapiz y elijas un pretendiente como todos desean.
+When you're exhausted, failing a dangerous action means you give up on your quest and possibly finish the tapestry and choose a suitor as everyone desires.
 
 ### Ambrosia (Medikits)
 
-Puedes, en cualquier momento, beberte todo el contenido de una tinaja de ambrosía. La bebida de los dioses tiene efectos revigorizantes y rejuvenecedores que te van a ayudar y te van a permitir eliminar 2 puntos de agotamiento.
+You can, at any time, drink the entire contents of a vat of ambrosia. The drink of the gods has invigorating and rejuvenating effects that will help you and allow you to remove 2 exhaustion points.
 
-Otra opción es guarecerte en un lugar seguro por unos segundos para replantearte la situación y eliminar 1 punto de agotamiento. Esto solo podrás hacerlo una vez por noche.
+Alternatively, take cover in a safe place for a few seconds to rethink the situation and remove 1 exhaustion point. You can only do this once per night.
 
-### Recurrir a tus criadas
+### Calling on maidens
 
-Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus sirvientas la tienen que obedecer. 
+Penelope is the queen of Ithaca, and as queen, all citizen, and especially her maidens, must obey her.
 
-Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
+Throughout the night, your handmaids move around the palace, performing their duties and attending to the suitors, so you can call on them for help.
 
-El servicio **funciona de manera similar al equipo**. Cada sirvienta *tiene un dado que se baja de rango hasta llegar por debajo de D4** y desaparecer, pero en este caso Penélope no conoce su rango inicial ni actual, solo la DJ lo sabe.
+Service **works similarly to equipment**. Each handmaid *has a die that decreases in rank until it drops below D4** and disappears. However, in this case, Penelope doesn't know her initial or current rank; only the GM knows.
 
-\sp
-
-Cuando entras en una sala, la DJ tira un D12 y describe la sirvienta que se encuentra. Ten también en cuenta que puede haber eventos que te marquen que una sala está vacía o que es más fácil encontrar gente y salas que siempre están vacías. Por ejemplo, la bodega está siempre vacía y no debería haber nadie, pero si el evento nocturno es un banquete, las criadas estarán continuamente entrando y saliendo de la bodega.
-
-Al describir a la sirvienta, trata de dar datos que ayuden a estimar su rango actual de dado. Por ejemplo, «se la ve cansada y sucia de trabajar todo el día en los establos» podría ser un d4, «mueve vigorosa y rápidamente los montones de heno» podría ser un d10.
-
-|D12|Criada|
-|---|---|
-|1-2|Criada comprada por un pretendiente de d6|
-|3-4|No hay criada|
-|5-6|Criada de D4|
-|7-8|Criada de D6|
-|9-10|Criada de D8|
-|11|Criada de D10|
-|12|Criada de D12|
-
-Penélope solo puede ser acompañada por una criada y para seguir a Penélope deberá pasar las mismas tiradas que esta. Si Penélope tiene que escalar por unas enredaderas, su sirvienta también y si falla, esto tendrá consecuencias para ambas y si la criada obtiene una de agotamiento, desaparecerá como si se hubiera acabado su dado. Por último, si Penélope para un momento y se toma un respiro, la criada que la acompañe también recupera su dado completo.
-
-Si te encuentras una criada en las cocinas, pues estará preparando comida, pero si la encuentras en un patio puedes tirar en la siguiente tabla para decidir que estaba haciendo.
-
-|D6|¿Qué está haciendo?|
-|---|---|
-|1|Sirviendo ouzo de una gran tinaja|
-|2|Echando leña a las chimeneas y fuegos|
-|3|Tocando un instrumento musical|
-|4|Limpiando los suelos de restos de comida y bebida|
-|5|Rellenando las lámparas de aceite o encendiendo las antorchas apagadas|
-|6|Sirviendo comida de una gran bandeja de bronce|
-
-Las **criadas sobornadas** son un problema que puedes usar en cualquier momento, sobre todo cuando desaparecen. Las opciones son variadas.
-
-* Quizás genere un punto de habladurías cuando desaparezca.
+When you enter a room, the GM rolls a D12 and describes the maid she encounters. Also keep in mind that there may be events that indicate a room is empty, or that it's easier to find people and rooms that are always empty. 
 
 \sp
 
-* Quizas falle a propósito una tirada de sigilo para que descubran a tu Penélope.
-* Podría avisar al pretendiente que le ha sobornado para que tienda una trampa a nuestra PJ.
+For example, the wine cellar is always empty and shouldn't be home, but if the evening event is a banquet, maids will be constantly entering and leaving the wine cellar.
 
-Ten en cuenta que si Penélope trata bien y con respeto a la criada sobornada, esta podría ponerse del lado de Penélope y no traicionarla. 
+When describing the maid, try to provide information that helps estimate her current die range. For example, "She looks tired and dirty from working all day in the stables" could be a D4, "She moves the haystacks vigorously and quickly" could be a D10.
 
-Trata de dar pistas al describir a la criada sobornada, para que puedan intentar hacer algo ante esta situación.
+|D12|Maiden|
+|---|---|
+|1-2|Maid with a d6 bribed by a suitor|
+|3-4|No maid|
+|5-6|Maid with a D4|
+|7-8|Maid with a D6|
+|9-10|Maid with a D8|
+|11|Maid with a D10|
+|12|Maid with a D12|
+
+Penelope can only be accompanied by one maid, and to follow Penelope, she must make the same rolls as her. If Penelope has to climb some vines, her maid must also make them. If she fails, this will have consequences for both of them. If the maid rolls an exhaustion roll, she will disappear as if her die had run out. Finally, if Penelope stops for a moment and takes a break, the maid accompanying her also recovers her full die.
+
+If you encounter a maid in the kitchens, she will be preparing food, but if you encounter her in a courtyard, you can roll on the following table to determine what she was doing.
+
+|D6|What is she doing?|
+|---|---|
+|1|Pouring ouzo from a large jar|
+|2|Adding wood to the fireplaces and fires|
+|3|Playing a musical instrument|
+|4|Cleaning the floors of food and drink remnants|
+|5|Refilling oil lamps or lighting unlit torches|
+|6|Serving food from a large bronze platter|
+
+**Bribed maids** are a problem you can use at any time, especially when they disappear. The options are varied.
+
+* Perhaps she'll generate a gossips point when she disappears.
+* Perhaps she'll intentionally fail a Stealth check so your Penelope will be discovered.
+* She could warn the suitor who bribed her to set a trap for our PC.
+
+Keep in mind that if Penelope treats the bribed maid well and with respect, she might side with Penelope and not betray her.
+
+\sp
+
+Try to give clues when describing the bribed maid so they can try to do something about this situation.
 
 ### Gossips
 
-No es «normal y decente» que una reina deambule por el palacio bien entrada la noche, haciendo cosas extrañas, rondando pasillos y peristilos y entrando en aposentos de pretendientes y servicios. 
+It's not «normal and decent» for a queen to wander around the palace late at night, doing strange things, wandering through corridors and peristyles, and entering suitors' and servants' quarters.
 
-La gente empieza a comentar esas actividades nocturnas a tus espaldas y corren habladurías sobre ti por todo el palacio. Estos chismes pueden ser tan peligrosos como las heridas de un kopis.
+People begin to discuss these nocturnal activities behind your back, and rumors about you spread throughout the palace. This gossip can be as dangerous as a kopis wound.
 
-Es por ellos que la DJ puede decidir que una de las consecuencias de fallar una tirada sea que alguien te vea y hable de ello con otras personas. Esto hace que se genere 1 punto de habladurías y, cuando se llega a 3, los rumores sobre la reina son tantos que tiene que abortar su misión y volver a su habitación, sabiendo que no ha deshecho su trabajo y está más cerca de tener que escoger un futuro marido.
+Because of this, the GM may decide that one of the consequences of failing a roll is that someone sees you and tells others about it. This generates 1 gossips point, and when it reaches 3, the rumors about the queen become so widespread that she has to abort her mission and return to her room, knowing that she hasn't undone her work and is closer to having to choose a future husband.
 
-Algunos ejemplos de situaciones que generen habladurías:
+Some examples of situations that generate gossips:
 
-* Penélope entrando en aposentos de pretendientes.
-* Deshaciéndose de un cadáver.
-* Empujando a un pretendiente por una ventana.
-* Espiando o escabulléndose detrás de las columnas.
-* Manipulando la comida o bebida de alguien. 
-* Coqueteando con alguna persona.
-* Escondiendo algún arma u objeto peligroso entre sus ropajes.
+* Penelope entering the suitors' chambers.
+* Disposing of a corpse.
+* Pushing a suitor out a window.
+* Spying or sneaking behind columns.
+* Tampering with someone's food or drink.
+* Flirting with someone.
+* Hiding a weapon or dangerous object in her clothing.
 
-Como los puntos de habladurías no se puede quitar, siempre deberías dar la oportunidad a tu Penélope de intentar arreglar la situación de alguna manera.
+Since gossips points cannot be removed, you should always give your Penelope the opportunity to try to fix the situation in some way.
 
-* Tal vez pueda negociar un soborno.
-* Amenazarle, si es un súbdito.
-* Ofrecer un futuro favor que, además, permitirá una futura trama cuando vengan a cobrarlo.
-* Chantajear al testigo con algún secreto que conozca de él.
-* Podría seducirlo.
-* O incluso matarlo.
+* Perhaps she can negotiate a bribe.
+* Threatening him, if he's a subject.
+* Offering a future favor that will also enable a future plot when they come to collect it.
+* Blackmailing the witness with some secret she knows about him.
+* She could seduce him.
+* Or even kill him.
 
-En general tiene segundos para reaccionar, así que su plan para acallar las habladurías no puede ser muy complicado y solo dispondrá de su equipo y lo que haya en la sala de palacio actual.
+He usually has seconds to react, so his plan to quell the rumors can't be too complicated, and he'll only have his equipment and whatever's in the current palace room at his disposal.
 
-Puede usar su **entrenamiento espartano** en estas situaciones.
+He can use his **Spartan training** in these situations.
 
-\sp
+## Creating Your Penelope
 
-## Creando a tu Penélope 
+To begin, on your character sheet, write down the nickname and pronouns you want your Penelope to use.
 
-Para empezar, en tu hoja de personaje anota el apodo y los pronombres que quieres que usen con tu Penélope.
-
-All skills are scored on d4, and you must assign a d10, a d8, and a d6 to three skills you think your character excels at.
+All skills are scored on D4, and you must assign a D10, a D8, and a D6 to three skills you think your character excels at.
 
 Characters have a total of 6 skills:
 
@@ -231,109 +234,112 @@ Characters have a total of 6 skills:
 * **Dash:** run, jump, climb.
 * **Sneak:** hide, skulk, lurk.
 * **Wander:** orient, pursue, shortcut.
+
+\sp
+
 * **Think:** perceive, analyze, repair.
 * **Sway:** charm, manipulate, intimidate.
 
-|D6|Pieza de equipo inicial|
+|D6|Initial piece of equipment|
 |---|---|
 |1|Kopis|
-|2|Escudo de bronce|
-|3|Ovillo de lana|
-|4|Pequeño espejo de metal pulido|
-|5|Joyas|
-|6|Veneno|
+|2|Bronze shield|
+|3|Ball of Wool|
+|4|Small polished metal mirror|
+|5|Jewelry|
+|6|Poison
 
-Al comenzar cada noche, llevarás también en tu capazo una pieza de equipo aleatoria a nivel D10 que has podido escamotear sin ser vista y que tienes escondida en tu habitación.
+Every night, you'll also carry in your basket a random piece of D10 item of equipment that you've managed to sneak unnoticed and have hidden in your room.
 
 ## Every night…
 
-Cada noche los pretendientes montan algún tipo de fiesta o evento. Estas fiestas pueden poner más fácil en unas cosas y más difícil en otras la misión de Penélope.
+Every night the suitors throw some kind of party or event.
 
-|D6|Evento|
+|D6|Event|
 |---|---|
-|1|Noche tranquila|
-|2|Bacanal|
-|3|Festín|
-|4|Concierto de música y/o festival de poesía|
-|5|Combates de lucha libre|
-|6|Duelos a muerte|
+|1|Quiet Night|
+|2|Orgy/Bacchanal|
+|3|Feast|
+|4|Music concert and/or poetry festival|
+|5|Wrestling matches|
+|6|Deathduel|
 
-### Noche tranquila
+These parties can make Penelope's mission easier in some ways and more difficult in others.
 
-Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse temprano para cazar o pescar. **No hay pretendientes despiertos** más que alguno que levante esporádicamente para ir al baño, comer algo o meterse en la habitación de otra persona. 
+### Quiet Night
 
-Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
+The suitors have gone to bed early, perhaps waking up early to hunt or fish. **There are no suitors awake** other than the occasional one who gets up to go to the bathroom, eat something, or sneak into someone else's room.
 
-\sp
+You'll only find maids keeping the lamps and fireplaces lit. The rest will be asleep in their chambers. 
 
-### Orgía/Bacanal
+### Orgy/Bacchanal
 
-Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes (sube un rango las posibilidades de encontrarse a un pretendiente). Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados (baja un rango las posibilidades de encontrarse a un pretendiente).
+Everything has gotten out of hand, and in just a few minutes, a bacchanal of alcohol and sex has erupted. The guest and servants' quarters and the bathrooms are filled with suitors engaging in all sorts of sexual practices with the servants and other suitors (the chances of finding a suitor increase by one rank). Meanwhile, the rest of the rooms are empty, and only moans and muffled screams can be heard (the chances of finding a suitor decrease by one rank).
 
-Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto **no podrán generarse puntos de habladurías**. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
-
-### Festín
-
-Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos y licores.
-
-Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas son altas (2 rangos adicionales a la tirada de encontrarse con pretendientes)**. En estos lugares siempre habrá servicio con bandejas de comida.
-
-Emborrachar, drogar o envenenar es bastante fácil durante los festines, mucha comida, mucha bebida y poco control.
-
-### Concierto de música y/o festival de poesía
-
-Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos y siringas y han montado un concierto improvisado. Otros han empezado a cantar y reclamar poesías. Enseguida se ha montado una competición poético musical, donde gana el que recibe más aplausos.
-
-Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**.
-
-Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche (con lo que sube un rango la tirada de encontrar pretendientes), pero pueden encontrarse en cualquier sitio, las musas pueden visitarte en cualquier sitio. 
-
-### Combates de lucha libre
-
-Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. 
+Luckily for Penelope, barring very serious matters like murder or royal fornication, the gossip will focus on the people participating in the orgy, and therefore **no gossip points can be generated**. No one will care about the queen's eccentric nocturnal activities right now.
 
 \sp
 
-Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. 
+### Feast
 
-En todas estas salas las posibilidades de encontrar pretendientes suben un rango.
+The suitors have raided the royal pantries and cellars and have prepared a grand feast. The kitchens and dining rooms are bustling with activity, with suitors fighting over the best dishes and liquors.
 
-La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
+The chances of suitors being found in **kitchens, dining rooms, cellars, and pantries are high (2 additional ranks on the roll to encounter suitors)**. In these places, there will always be service with trays of food.
 
-### Duelo a muerte
+Getting drunk, drugging, or poisoning is fairly easy during feasts; there is a lot of food, a lot of drink, and little control.
 
-Se han apartado todos los muebles de la sala del trono y los pretendientes han montado un ring improvisado donde dos de ellos van a batirse en duelo a muerte. 
+### Music concert and/or poetry festival
 
-**Fuera del salón del trono** no hay casi pretendientes y las **posibilidades de encontrarse a un futuro esposo bajan 2 rangos** de dado. Si Penélope quiere esperar a que acabe el duelo, los amigos del ganador, montarán una bacanal.
+As if nothing had happened, the suitors have taken out their harps, reed pipes, and syringes and put on an impromptu concert. Others have begun to sing and demand poetry. A poetry competition soon breaks out, where the winner is the one who receives the most applause.
 
-> El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
+The better part of these nights is that the music and singing are so loud that it's easy to move around without being heard, and all the **rolls where it's important not to be heard are a higher rank**.
 
-## Las salas del palacio
+These events usually take place in gardens and open courtyards, taking advantage of the cool night air (which raises the roll to find suitors by one rank), but they can be found anywhere; the muses can visit you anywhere.
+
+### Wrestling matches
+
+Fights require large areas to set up the rings, so the dining rooms and weapons rooms have been taken over by suitors.
+
+The bathrooms too, where they are washed and oiled to make them difficult to grab in wrestling matches.
+
+In all these rooms, the chances of finding suitors increase by a notch.
+
+The atmosphere is buzzing with competition, and the suitors are more aggressive than usual. Meanwhile, the staff, who are already familiar with these situations, take refuge in pantries, kitchens, and their chambers, trying to remain as inconspicuous as possible.
+
+### Deathduel
+
+All the furniture in the throne room has been cleared, and the suitors have set up a makeshift ring where two of them will duel to the death.
+
+**Outside the throne room** there are almost no suitors, and the **chances of meeting a future husband drop by 2 die ranks**. If Penelope wants to wait until the duel is over, the winner's friends will throw a bacchanal.
+
+> The goal of these events is to give each night a different flavor. As the DJ, you are free to deviate from these rules or create your own events.
+
+\sp
+
+## The palace rooms
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
-|D12|Sala|Criada|
+|D12|Room|
 |---|---|
-|1|Jardín|
-|2|Cocinas|
-|3|Despensas|
-|4|Bodegas|
-|5|Comedores|
-|6|Aposentos del servicio|
-|7|Aposentos de los invitados|
-|8|Sala de armas|
-|9|Establos|
-|10|Baños|
-|11|Patios internos|
-|12|Peristilo|
+|1|Gardens|
+|2|Kitchens|
+|3|Larders|
+|4|Cellars|
+|5|Dining rooms|
+|6|Servants' quarters|
+|7|Guest quarters|
+|8|Treasure Room|
+|9|Stables|
+|10|Bathrooms|
+|11|Internal courtyards|
+|12|Peristyle|
 
 Cada sala viene con una descripción, posibles problemas, objetos que puedes recoger y sirvientas que puedes encontrarte.
 
-\sp
-
-### Garden
+### Gardens
 
 Los jardines de palacio son grandes, con mucha hierba, rosales y arbustos, árboles frutales, maceteros de flores y sendas de tierra y piedra por las que moverse. Por suerte, no están iluminados, excepto las noches de luna llena.
 
@@ -349,17 +355,17 @@ A diferencias de otras partes de palacio, las cocinas siempre tienen actividad, 
 
 Puedes encontrar todo tipo de cuchillos, machetes, pinchos, mazos, etc. así como aceite de quemar y de cocinar, cuerdas, telas y paños.
 
+\sp
+
 Las cocinas, al ser muchas veces boticas y enfermerías, es el lugar con más posibilidades de encontrar vendas y material que puedas usar para primeros auxilios, sin olvidar productos que puedas usar como veneno, como setas venenosas, y también alimentos y bebidas que envenenar.
 
 A las ventanas de las cocinas acuden mendigos a recoger las sobras y quizás puedan hacerte algún favor por unos chuscos de pan y algo de panceta.
 
-### Despensas
+### Larders
 
 Las antaño repletas despensas del palacio cada vez están más vacías debido a los excesos continuos de los pretendientes. Aun así todavía sigue habiendo comida, pero los pequeños lujos de los que disfrutaba Penélope ya han desaparecido de sus estanterías y alacenas.
 
 Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario. Lo malo, que puede entrar cualquiera en cualquier momento y pillarte con las manos en la masa.
-
-\sp
 
 ### Cellars
 
@@ -369,7 +375,7 @@ Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que
 
 De normal están cerradas con llave, pero, claro, Penélope, como reina, debería disponer de ellas. Seguramente sea un sitio perfecto para «pararse a respirar» y quitarse todo el agotamiento que hemos acumulado.
 
-### Comedores
+### Dining rooms
 
 Los comedores son de las estancias más grandes del palacio. Están llenas de largas mesas con bancos corridos y suelen tener varios accesos desde los que entran los invitados o el servicio con viandas y libaciones.
 
@@ -377,19 +383,19 @@ Cuchillos, platos y bandejas de metal son cosas que puedes encontrarte aquí y t
 
 Son el lugar de reunión principal de los pretendientes y normalmente todas las fiestas y todas las peleas empiezan entre sus mesas. Tampoco es de extrañar que ronden por de bajo de las mesas las mascotas de la casa.
 
-### Aposentos del servicio
+\sp
+
+### Servants' quarters
 
 Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
 
 El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
 
-### Aposentos de los invitados
+### Guest quarters
 
 Estos aposentos han sido tomados por los pretendientes y son el elemento más caótico del palacio. Tienen muchas formas y tamaño y pueden estar impolutos hasta ser auténticas cochiqueras con basura y resto de comida y bebida por todas partes. 
 
 Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende del pretendiente y su profesión y aficiones.
-
-\sp
 
 |D6|Pretendiente|
 |---|---|
@@ -400,15 +406,17 @@ Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende
 |5|**Fiestero:** Bebidas alcohólicas, equipo fetichista y aceites y esencias|
 |6|**Guerrero:** Armas, armaduras, yelmos y escudos|
 
-### Sala de armas
+### Treasure Room
 
-En esta estancia se acumulan los años de historia de la familia real. Es una especie de museo donde se guardan armas y armaduras de los antepasados, botines de guerra, trofeos, distinciones, etc.
+This room contains years of history for the royal family. It's a kind of museum where ancestral weapons and armor, war spoils, trophies, awards, and more are kept.
 
-Los diferentes objetos están expuestos en hornacinas, en estanterías, perchas y pedestales. Las paredes están cubiertas con ricos tapices que representan las grandes hazañas de la familia real.
+The various objects are displayed in niches, on shelves, hangers, and pedestals. The walls are covered with rich tapestries depicting the royal family's great deeds.
 
-En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de todo tipo, pero ten en cuenta que no vas a poder romperlas, ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
+In this room, you can find very interesting items such as **weapons and armor of all kinds**, but keep in mind that **you won't be able to break them**, as their absence would be noticeable, and you'd have to return them at the end of the night. Any item taken here should not be lower than a D6, or it will be obvious it's been used.
 
-La sala suele estar cerrada y vigilada por las riquezas que contiene. Debido a esto baja un rango el dado de encontrar a un pretendiente. Así que no será fácil entrar y atravesarla.
+\sp
+
+The room is usually **locked and guarded** because of the riches it contains. Because of this, the die for finding a suitor is lowered by one rank. So, entering and passing through it won't be easy.
 
 ### Stables
 
@@ -420,9 +428,7 @@ También puedes encontrar un pequeño taller con **herramientas donde fabricar y
 
 A la noche no hay mucha actividad humana, por lo que baja un rango el dado de encontrar a un pretendiente, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, … Y se puede montar un jaleo muy grande, que atraerá a la gente.
 
-\sp
-
-### Baños
+### Bathrooms
 
 Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas. El jabón, los aceites corporales y las toallas son cosas útiles que puedes encontrar.
 
@@ -430,7 +436,7 @@ Los baños pueden ofrecer **un lugar donde hacerte curas**. Es un sitio limpio, 
 
 En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como **veneno o drogas** para atontar o dormir a una persona.
 
-### Patios internos
+### Internal courtyards
 
 Son el corazón de todas las mansiones y palacios griegos. Es imposible moverse por el palacio sin pasar por ellos. En estos patios pueden encontrar fuentes, maceteros gigantes, árboles frutales, setos altos, que permiten esconderse bien. Si bien lo normal es encontrarse con gente de paso, también puede haber algún paseante que aproveche el fresco de la noche.
 
@@ -438,66 +444,61 @@ Como la mayoría de salas del palacio dan a patios interiores no son sitios lejo
 
 Como en los jardines hay tierra suficiente como para poder **enterrar cosas pequeñas** que podrías recuperar en el futuro.
 
-### Peristilo
-
-El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
-
-Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
-
-> Todas las anteriores salas son solo ejemplos, pero siéntete libre de crear tus propias salas como un gimnasio, una sala de audiencias, una armaría, etc.
-
-### La sala del trono
-
-La sala del trono es la más impresionante estancia pedes entrar, con el trono del reino desaparecido y la reina Penélope. Esta sala es única, no hay otra igual en todo el palacio. Aquí se ubica el telar donde todos los días trabaja Penélope tejiendo. 
-
-Como ya sabes, el objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
-
 \sp
 
-Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar su misión. Pero necesitará **hacer que el salón del trono quede libre de pretendientes** para destejer el tapiz.
+### Peristyle
 
-Hay eventos que dejan el trono casi vacío, pero los hay que lo llenan de gente. Penélope deberá superar este último reto para poder volver a sus aposentos.
+The Peristyle is the gallery of columns that surrounds a building. They're more decorative than rooms to stay in, but they're perfect because no one is ever around and the columns provide good cover.
 
-## Los pretendientes
+However, it shouldn't be unusual to find two passionate lovers hiding behind the columns or a group of conspirators hiding from the rest of the suitors.
 
-Los pretendientes son el gran antagonista de este juego. Pululan por todo el palacio de día y de noche haciendo de todo, desde disparando con sus arcos hasta componiendo epopeyas o lanzando el disco olímpico.
+> All of the above rooms are just examples, but feel free to create your own rooms, such as a gymnasium, an audience chamber, an armory, etc.
 
-De normal para saber si la estancia a la que entra Penélope **hay pretendientes puedes tirar D6 y mirar la siguiente tabla**. Recuerda que ya hemos visto que hay situaciones y eventos que modifican ese dado y hay estancias en las que no debería haber pretendientes (a no ser que tú como DJ quieras).
+### The Throne Room
 
-|D6|Pretendiente|
+The throne room is the most impressive room you can enter, home to the throne of the missing king and queen Penelope. This room is unique; there is no other like it in the entire palace. Here is the loom where Penelope weaves every day.
+
+As you already know, the goal is to reach this loom and undo the work you've done during the day, while preventing the suitors from forcing you to choose one of them.
+
+When you see fit, Penelope will enter the throne room to complete her mission. But she will need to **clear the throne room of suitors** to unweave the tapestry.
+
+Some events leave the throne room almost empty, but others fill it with people. Penelope must overcome this final challenge to return to her chambers.
+
+## The suitors
+
+The suitors are the main antagonist of this game. They swarm throughout the palace day and night, doing everything from shooting their bows to composing epic poems to throwing the Olympic discus.
+
+Normally, to determine if the room where Penelope enters has suitors, you can **roll a D6 and look at the following table**. Remember that we've already seen that there are situations and events that modify this check, and there are rooms where there shouldn't be suitors (unless you, as the GM, want them to).
+
+|D6|Suitor|
 |---|---|
-|1-3|No hay pretendientes|
-|4+|Hay pretendientes|
+|1-3|There are no suitors|
+|4+|There are suitors|
 
-Los pretendientes son una única unidad y no importa su número. Da lo mismo que entre un pretendiente o una docena a nivel de juego, simplemente son una complicación. El número solo influye a la hora de buscar la manera de solucionar la complicación. Quizas Penélope trate de dejar inconsciente o seducir a un pretendiente, pero tenga que intimidar o esquivar a un grupo numeroso de pretendientes.
+Suitors are a unique unit, and their number doesn't matter. Whether there's one suitor or a dozen at the game level, they're simply a complication. The number only matters when figuring out how to resolve the complication. Perhaps Penelope tries to knock out or seduce a suitor, but has to intimidate or evade a large group of suitors.
 
-Sacar pretendientes podría ser una buena consecuencia que usar en las misiones. Si Penélope se cae del tejado al patio interior al intentar llegar a la sala del trono, quizas aparezcan un par de pretendientes que han escuchado los ruidos en el techo y han salido al patio interior a ver que pasa. Penélope tendrá que esconderse, salir corriendo o tratar de convencerles de que ella también ha oído algo raro mientras disimula que le duele la pierna por la caída y que tiene rasgada su túnica.
+ \sp
 
-Los pretendientes son el enemigo principal, pero no único. Puede pasar muchas otras cosas durante la noche como que entren enemigos de Ítaca a intentar matar Penélope o
-que unos pretendientes borrachos inicien un incendio y haya que huir del palacio o poner a salvo a sirvientas y/o tesoros reales.
+Taking out suitors could be a good consequence to use in quests. If Penelope falls from the roof into the inner courtyard while trying to reach the throne room, a couple of suitors may appear, having heard the noises on the roof and gone out into the inner courtyard to see what's happening. Penelope will have to hide, run away, or try to convince them that she also heard something strange while pretending that her leg hurts from the fall and that her tunic is torn.
 
-En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
+The suitors are the main enemy, but not the only one. Many other things can happen during the night, such as enemies of Ithaca entering and trying to kill Penelope, or drunken suitors starting a fire, and they have to flee the palace or rescue servants and/or royal treasures.
 
-\sp
+[Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) has a list of suitors in case you need names.
 
-\sinc
+## Secondary plots
 
-## Otras tramas
+The main plot of Ithaca is reaching the loom to undone your diary work, but you can include secondary plots or subplots in your nocturnal adventures.
 
-\conc
-
-La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
-
-* Un pretendiente ha «sobrepasado» las normas de hospitalidad con una de tus doncellas y quizás aparezca muerto en su lecho o tal vez tenga un accidente a caballo porque se han «roto» las cinchas de su silla de montar mientras iba a galope.
-* Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo a ella o tomar las medidas necesarias.
-* Has detectado una fuerte rivalidad entre varios pretendientes. Quizás puedas hacer algo como dejar un objeto valioso de un pretendiente en la habitación del otro o conseguir que las sirvientas les den bebida hasta emborracharlos para que se peleen.
-* Los pretendientes han encontrado la bodega secreta de palacio y quieres rescatar unas botellas que guardabas del día de tu boda antes de que se las beban.
-* Has ido contando que el palacio está encantado por el fantasma de tu «difunto» marido y vas a tratar de convencerles de que ocurren cosas extrañas por la noche para que los pretendientes más cobardes se vayan.
+* A suitor has «overstepped» the rules of hospitality with one of your maids and may be found dead in her bed, or perhaps he has a horse-riding accident because his saddle girths «broke» while he was galloping.
 
 \sc
 
-* Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
-* Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.
+* A suitor has taken a young maiden to his chamber. It would be good to make sure nothing bad happens to her or take the necessary measures.
+* You have detected a strong rivalry between several suitors. Perhaps you can do something like leave a valuable item from one suitor in the other's chamber or get the maids to give them drinks until they get drunk enough to fight.
+* The suitors have found the secret palace wine cellar, and you want to rescue some bottles you were saving from your wedding day before they drink them.
+* You've been telling them that the palace is haunted by the ghost of your husband, and you're going to try to convince them that strange things happen at night so that the more cowardly suitors will leave.
+* You've undone all the work you've done during the day, and upon returning to your chambers, you hear a scream. Perhaps you should go and find out what happened.
+* The plots are designed to be played at night, but it can be a fun change of pace to do it during the day with all the palace activity in full swing, but where many of your actions aren't seen as strange.
 
 \sp
 
@@ -507,9 +508,9 @@ La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes met
 
 \conc
 
-«Íthaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
+«Íthaca» is developed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es) license. All source code can be found at [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
-Se han usado imágenes libres de derecho y pasamos a darles su justa atribución.
+Royalty-free images have been used, and we hereby give them due credit.
 
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
@@ -523,16 +524,16 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 
 \sinc
 
-## Epílogo
+## Epílogue
 
 \conc
 
-Al crear este juego he tenido una serie de ideas y pensamientos que me gustaría expresar aquí.
+While creating this game, I had some ideas and thoughts that I'd like to express here.
 
-* El juego se basa en un mito clásico y trabaja con relaciones heterosexuales. Siéntete totalmente libre de convertirlo todo en una aventura sáfica o aquilea, de hecho, el uso de pronombres en la creación de personaje no solo respeta los deseos del creador del sistema, también permite montarte las relaciones sexo-afectivas y de género que más se acerque a tu mesa.
-* Mientras creaba este juego, alguien me hizo notar que muchas de las situaciones que se iban a dar en este juego son algo común que las mujeres sufren todos los días. Como hombre espero que cuando dirijas o juegues a este juego seas respetuoso con este tema y que recapacites, aunque sea unos minutos, sobre estos temas.
-* Quería reivindicar un personaje secundario que es un ejemplo clásico de paciencia, fidelidad y de esposa agnegada y convertirlo en un personaje central de su propia historia que decide sobre su destino y lucha por hacerlo realidad. De hecho, durante todo el juego he evitado usar el nombre del marido desaparecido de Penélope para no quitarle importancia a Penélope.
-* Como siempre puede que me haya equivocado en como he enfocado los puntos anteriores y estaré encantado de recibir críticas constructivas y hacer los cambios necesarios.
+* The game is based on a classical myth and deals with heterosexual relationships. Feel completely free to turn the whole game into a Sapphic or Aquileian adventure. In fact, the use of pronouns in character creation not only respects the wishes of the system's creator, but also allows you to create the sexual-affective and gender relationships that best fit your table.
+* While creating this game, someone pointed out to me that many of the situations that would arise in this game are common ones that women experience every day. As a man, I hope that when you master or play this game, you will be respectful of this topic and that you reflect, even if only for a few minutes, on these issues.
+* I wanted to highlight a secondary character who is a classic example of patience, fidelity, and a devoted wife, and make her a central character in her own story, deciding her destiny and fighting to make it happen. In fact, throughout the game, I've avoided using the name of Penelope's stranded husband so as not to diminish Penelope's importance.
+* As always, I may have made mistakes in how I approached the above points, and I'm happy to receive constructive criticism and make any necessary changes.
 
 \sp
 

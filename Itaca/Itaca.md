@@ -148,11 +148,11 @@ El servicio **funciona de manera similar al equipo**. Cada sirvienta *tiene un d
 
 Cuando entras en una sala, la DJ tira un D12 y describe la sirvienta que se encuentra. Ten también en cuenta que puede haber eventos que te marquen que una sala está vacía o que es más fácil encontrar gente y salas que siempre están vacías. Por ejemplo, la bodega está siempre vacía y no debería haber nadie, pero si el evento nocturno es un banquete, las criadas estarán continuamente entrando y saliendo de la bodega.
 
-Al describir a la sirvienta, trata de dar datos que ayuden a estimar su rango actual de dado. Por ejemplo, «se la ve cansada y sucia de trabajar todo el día en los establos» podría ser un d4, «mueve vigorosa y rápidamente los montones de heno» podría ser un d10.
+Al describir a la sirvienta, trata de dar datos que ayuden a estimar su rango actual de dado. Por ejemplo, «se la ve cansada y sucia de trabajar todo el día en los establos» podría ser un D4, «mueve vigorosa y rápidamente los montones de heno» podría ser un D10.
 
 |D12|Criada|
 |---|---|
-|1-2|Criada comprada por un pretendiente de d6|
+|1-2|Criada comprada por un pretendiente de D6|
 |3-4|No hay criada|
 |5-6|Criada de D4|
 |7-8|Criada de D6|
@@ -314,7 +314,7 @@ El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo d
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
-|D12|Sala|Criada|
+|D12|Sala|
 |---|---|
 |1|Jardín|
 |2|Cocinas|
@@ -323,7 +323,7 @@ Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente
 |5|Comedores|
 |6|Aposentos del servicio|
 |7|Aposentos de los invitados|
-|8|Sala de armas|
+|8|Sala del tesoro|
 |9|Establos|
 |10|Baños|
 |11|Patios internos|
@@ -400,15 +400,15 @@ Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende
 |5|**Fiestero:** Bebidas alcohólicas, equipo fetichista y aceites y esencias|
 |6|**Guerrero:** Armas, armaduras, yelmos y escudos|
 
-### Sala de armas
+### Sala del tesoro
 
 En esta estancia se acumulan los años de historia de la familia real. Es una especie de museo donde se guardan armas y armaduras de los antepasados, botines de guerra, trofeos, distinciones, etc.
 
 Los diferentes objetos están expuestos en hornacinas, en estanterías, perchas y pedestales. Las paredes están cubiertas con ricos tapices que representan las grandes hazañas de la familia real.
 
-En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de todo tipo, pero ten en cuenta que no vas a poder romperlas, ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
+En esta sala puedes conseguir objetos muy interesantes como **armas y armaduras de todo tipo**, pero ten en cuenta que **no vas a poder romperlas**, ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
 
-La sala suele estar cerrada y vigilada por las riquezas que contiene. Debido a esto baja un rango el dado de encontrar a un pretendiente. Así que no será fácil entrar y atravesarla.
+La sala suele estar **cerrada y vigilada** por las riquezas que contiene. Debido a esto baja un rango el dado de encontrar a un pretendiente. Así que no será fácil entrar y atravesarla.
 
 ### Establos
 
@@ -448,7 +448,7 @@ Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados es
 
 ### La sala del trono
 
-La sala del trono es la más impresionante estancia pedes entrar, con el trono del reino desaparecido y la reina Penélope. Esta sala es única, no hay otra igual en todo el palacio. Aquí se ubica el telar donde todos los días trabaja Penélope tejiendo. 
+La sala del trono es la más impresionante estancia pedes entrar, con el trono del rey desaparecido y la reina Penélope. Esta sala es única, no hay otra igual en todo el palacio. Aquí se ubica el telar donde todos los días trabaja Penélope tejiendo. 
 
 Como ya sabes, el objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
 
