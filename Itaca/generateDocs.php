@@ -14,11 +14,11 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
 
 $mkd->setContent($md);
 
-$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
+$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template".$argv[1].".html")); 
 $html = str_replace("|ID|", $argv[1], $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
@@ -54,11 +54,20 @@ if($argv[1] == 'Itaca') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: Ítaca\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 1.0\n\n";
+  $metas .= "InfoValue: Ítaca es un juego de rol basado en Breathless para una jugadora y una directora donde la jugadora interpretará al personaje mitológico griego de Penélope. Versión 1.0\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, parodia, D&D\n\n";
+  $metas .= "InfoValue: rpg, ttrpg, Breathless, mitología griega\n\n";
+} else if($argv[1] == 'Ithaca') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: Ithaca\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: Ithaca is a Breathless-based role-playing game for one master and one player where the player plays the greek mythological character Penelope. Version 1.0\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, Breathless, greek mythology\n\n";
 }
 
 /* Generamos indice del PDF */
