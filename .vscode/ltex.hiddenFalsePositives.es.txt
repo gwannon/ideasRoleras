@@ -50,3 +50,11 @@
 {"rule":"REAL","sentence":"^\\QLos pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín.\\E$"}
 {"rule":"REAL","sentence":"^\\QEn esta estancia se acumulan los años de historia de la familia real.\\E$"}
 {"rule":"REAL","sentence":"^\\QLas paredes están cubiertas con ricos tapices que representan las grandes hazañas de la familia real.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QCada sirvienta tiene un dado que se baja de rango hasta llegar por debajo de D4* y desaparecer, pero en este caso Penélope no conoce su rango inicial ni actual, solo la DJ lo sabe.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QAl describir a la sirvienta, trata de dar datos que ayuden a estimar su rango actual de dado.\\E$"}
+{"rule":"REAL","sentence":"^\\Qque unos pretendientes borrachos inicien un incendio y haya que huir del palacio o poner a salvo a sirvientas y/o tesoros reales.\\E$"}
+{"rule":"REAL","sentence":"^\\QPuede pasar muchas otras cosas durante la noche como que entren enemigos de Ítaca a intentar matar Penélope o que unos pretendientes borrachos inicien un incendio y haya que huir del palacio o poner a salvo a sirvientas y/o tesoros reales.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes (sube un rango las posibilidades de encontrarse a un pretendiente).\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLas bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendientes).\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLas bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendiente).\\E$"}
+{"rule":"A_NIVEL_DE","sentence":"^\\QDa lo mismo que entre un pretendiente o una docena a nivel de juego, simplemente son una complicación.\\E$"}

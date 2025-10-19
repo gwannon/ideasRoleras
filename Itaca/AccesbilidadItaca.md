@@ -129,7 +129,25 @@ Penélope es la reina de Ítaca y como reina todo súbdito y, en especial, sus s
 
 Durante toda la noche tus criadas no dejan de moverse por todo el palacio haciendo sus tareas y atendiendo a los pretendientes, así que puedes recurrir a ellas para que te ayuden.
 
-XXX _[Suplen al resto de PJ del grupo normal ayudando a Penélope. Sería como equipo que va perdiendo valor su dado según lo usas. Opción de que estén sobornados por los pretendientes para espiarte y chivarse]_
+El servicio **funciona de manera similar al equipo**. Cada sirvienta *tiene un dado que se baja de rango hasta llegar por debajo de D4** y desaparecer, pero en este caso Penélope no conoce su rango inicial ni actual, solo la DJ lo sabe.
+Cuando entras en una sala, la DJ tira un D12 y describe la sirvienta que se encuentra. Ten también en cuenta que puede haber eventos que te marquen que una sala está vacía o que es más fácil encontrar gente y salas que siempre están vacías. Por ejemplo, la bodega está siempre vacía y no debería haber nadie, pero si el evento nocturno es un banquete, las criadas estarán continuamente entrando y saliendo de la bodega.
+
+Al describir a la sirvienta, trata de dar datos que ayuden a estimar su rango actual de dado. Por ejemplo, «se la ve cansada y sucia de trabajar todo el día en los establos» podría ser un d4, «mueve vigorosa y rápidamente los montones de heno» podría ser un d10.
+
+|D12|Criada|
+|---|---|
+|1-2|Criada comprada por un pretendiente de d6|
+|3-4|No hay criada|
+|5-6|Criada de D4|
+|7-8|Criada de D6|
+|9-10|Criada de D8|
+|11|Criada de D10|
+|12|Criada de D12|
+
+Penélope solo puede ser acompañada por una criada y para seguir a Penélope deberá pasar las mismas tiradas que esta. Si Penélope tiene que escalar por unas enredaderas, su sirvienta también y si falla, esto tendrá consecuencias para ambas y si la criada obtiene una de agotamiento, desaparecerá como si se hubiera acabado su dado. Por último, si Penélope para un momento y se toma un respiro, la criada que la acompañe también recupera su dado completo.
+
+Si te encuentras una criada en las cocinas, pues estará preparando comida, pero si la encuentras en un patio puedes tirar en la siguiente tabla para decidir que estaba haciendo.
+
 |D6|¿Qué está haciendo?|
 |---|---|
 |1|Sirviendo ouzo de una gran tinaja|
@@ -138,6 +156,16 @@ XXX _[Suplen al resto de PJ del grupo normal ayudando a Penélope. Sería como e
 |4|Limpiando los suelos de restos de comida y bebida|
 |5|Rellenando las lámparas de aceite o encendiendo las antorchas apagadas|
 |6|Sirviendo comida de una gran bandeja de bronce|
+
+Las **criadas sobornadas** son un problema que puedes usar en cualquier momento, sobre todo cuando desaparecen. Las opciones son variadas.
+
+* Quizás genere un punto de habladurías cuando desaparezca.
+* Quizas falle a propósito una tirada de sigilo para que descubran a tu Penélope.
+* Podría avisar al pretendiente que le ha sobornado para que tienda una trampa a nuestra PJ.
+
+Ten en cuenta que si Penélope trata bien y con respeto a la criada sobornada, esta podría ponerse del lado de Penélope y no traicionarla. 
+
+Trata de dar pistas al describir a la criada sobornada, para que puedan intentar hacer algo ante esta situación.
 
 ### Habladurías
 
@@ -215,7 +243,7 @@ Los pretendientes se han ido pronto a dormir, quizas vayan a despertarse tempran
 Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encendidas. El resto estará durmiendo en sus aposentos. 
 ### Orgía/Bacanal
 
-Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes. Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados.
+Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes (sube un rango las posibilidades de encontrarse a un pretendiente). Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados (baja un rango las posibilidades de encontrarse a un pretendiente).
 
 Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto **no podrán generarse puntos de habladurías**. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
 
@@ -223,7 +251,7 @@ Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real
 
 Los pretendientes han asaltado las despensas y las bodegas reales y se han montado un gran festín. Las cocinas y los comedores están llenos de actividad y de pretendientes peleándose por los mejores platos y licores.
 
-Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas aumenta un rango** son altas (2 rangos adicionales). En estos lugares siempre habrá servicio con bandejas de comida.
+Las posibilidades de que haya pretendientes en **cocinas, comedores, bodegas y despensas son altas (2 rangos adicionales a la tirada de encontrarse con pretendientes)**. En estos lugares siempre habrá servicio con bandejas de comida.
 
 Emborrachar, drogar o envenenar es bastante fácil durante los festines, mucha comida, mucha bebida y poco control.
 
@@ -233,11 +261,15 @@ Como quién no quiere la cosa los pretendientes han sacado sus arpas, caramillos
 
 Lo bueno de estas noches es que la música y los cantos son tan altos que es fácil moverse sin ser oído y todas las **tiradas donde es importante no ser oído son un rango mayor**.
 
-Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche, pero pueden darse en cualquier sitio, las musas pueden visitarte en cualquier sitio.
+Estos eventos se suelen dar en jardines y patios abiertos aprovechando la fresca de la noche (con lo que sube un rango la tirada de encontrar pretendientes), pero pueden encontrarse en cualquier sitio, las musas pueden visitarte en cualquier sitio. 
 
 ### Combates de lucha libre
 
-Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. Todas estas salas las posibilidades de encontrar pretendientes suben un rango.
+Las peleas exigen grandes zonas para montar los rings, así que los comedores y las salas de arma han sido tomadas por los pretendientes. 
+Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en los combates de lucha libre. 
+
+En todas estas salas las posibilidades de encontrar pretendientes suben un rango.
+
 La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
 
 ### Duelo a muerte
@@ -248,27 +280,21 @@ Se han apartado todos los muebles de la sala del trono y los pretendientes han m
 
 > El objetivo de estos eventos es darle un sabor distinto a cada noche. Eres, como DJ, libre de pasar de estas reglas o de montar tus propios eventos.
 
-## Los pretendientes
-
-XXX
-
-En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.
-
 ## Las salas del palacio
 
 El palacio de Ítaca es inmenso y tiene miles de salas y salones con todo tipo de usos. Penélope deberá moverse por ellos esquivando pretendientes hasta llegar a la sala del trono donde está el telar en que por el día teje el tapiz.
 
 Es por ello aquí tienes un sistema sencillo para que puedas montar rápidamente la ruta de las estancias por las que va a moverse Penélope para llegar al salón del Trono.
 
-|D12|Sala|
+|D12|Sala|Criada|
 |---|---|
 |1|Jardín|
 |2|Cocinas|
 |3|Despensas|
 |4|Bodegas|
 |5|Comedores|
-|6|Aposentos de los invitados|
-|7|Aposentos del servicio|
+|6|Aposentos del servicio|
+|7|Aposentos de los invitados|
 |8|Sala de armas|
 |9|Establos|
 |10|Baños|
@@ -303,7 +329,7 @@ Las antaño repletas despensas del palacio cada vez están más vacías debido a
 Lo bueno de las despensas es que normalmente son oscuras, cerradas, sin ventanas al exterior y no suele rondar gente de paso por ellas, más que en ocasiones especiales como cuando se mete género nuevo o se hace inventario. Lo malo, que puede entrar cualquiera en cualquier momento y pillarte con las manos en la masa.
 ### Bodegas
 
-Las bodegas son como las despensas pero todavía más oscuras y más cerradas. De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
+Las bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendiente). De hecho, algunas están bajo tierra y como mucho hay pequeños ventanucos en el techo. 
 
 Lo normal es que solo haya vino y ouzo, pero es de la mejor calidad y seguro que se puede emborrachar o sobornar a alguien con una buena jarra de espirituosos de la bodega.
 
@@ -317,12 +343,17 @@ Cuchillos, platos y bandejas de metal son cosas que puedes encontrarte aquí y t
 
 Son el lugar de reunión principal de los pretendientes y normalmente todas las fiestas y todas las peleas empiezan entre sus mesas. Tampoco es de extrañar que ronden por de bajo de las mesas las mascotas de la casa.
 
+### Aposentos del servicio
+
+Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
+
+El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
+
 ### Aposentos de los invitados
 
 Estos aposentos han sido tomados por los pretendientes y son el elemento más caótico del palacio. Tienen muchas formas y tamaño y pueden estar impolutos hasta ser auténticas cochiqueras con basura y resto de comida y bebida por todas partes. 
 
 Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende del pretendiente y su profesión y aficiones.
-
 |D6|Pretendiente|
 |---|---|
 |1|**Estudioso:** Papiros y material de escritura, productos químicos y herramientas de medición|
@@ -331,11 +362,6 @@ Aparte de una cama, un escritorio y un armario puede haber de todo. Esto depende
 |4|**Músico/Poeta:** Instrumentos musicales de todo tipo, tinta y pergamino y ropajes llamativos|
 |5|**Fiestero:** Bebidas alcohólicas, equipo fetichista y aceites y esencias|
 |6|**Guerrero:** Armas, armaduras, yelmos y escudos|
-### Aposentos del servicio
-
-Suelen ser, bien, grandes salas comunales donde duermen varias sirvientas separadas por cortinajes o, bien, pequeñas habitaciones privadas para sirvientas de nivel más alto. En ambos casos no hay muchas cosas que puedas usar, solo los sencillos objetos personales de los sirvientes y poco más.
-
-El día duro de trabajo hace que los que estén en estas salas duerman profundamente y que si se despierten por algún ruido crean que son compañeros que han ido al baño o se han levantado temprano a hacer sus tareas.
 
 ### Sala de armas
 
@@ -345,7 +371,7 @@ Los diferentes objetos están expuestos en hornacinas, en estanterías, perchas 
 
 En esta sala puedes conseguir objetos muy interesantes como armas y armaduras de todo tipo, pero ten en cuenta que no vas a poder romperlas, ya que se notaría su falta y deberías devolverlas al final de la noche. Ningún objeto cogido aquí debería de bajar de D6 o se notará que ha sido usado.
 
-La sala suele estar cerrada y vigilada por las riquezas que contiene. Así que no será fácil entrar y atravesarla.
+La sala suele estar cerrada y vigilada por las riquezas que contiene. Debido a esto baja un rango el dado de encontrar a un pretendiente. Así que no será fácil entrar y atravesarla.
 
 ### Establos
 
@@ -355,14 +381,12 @@ Está lleno de aperos de granja como horcas para dar de comer a los animales, **
 
 También puedes encontrar un pequeño taller con **herramientas donde fabricar y arreglar los utensilios del campo, las sillas de montar, los arreos, los yugos de los bueyes, etc.
 
-A la noche no hay mucha actividad humana, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, … Y se puede montar un jaleo muy grande, que atraerá a la gente.
-
+A la noche no hay mucha actividad humana, por lo que baja un rango el dado de encontrar a un pretendiente, pero sí animal. Si no eres sigiloso, los caballos empezarán a relinchar, las vacas a mugir, las ovejas a balar, … Y se puede montar un jaleo muy grande, que atraerá a la gente.
 ### Baños
 
 Desde unas simples letrinas a unas majestuosas termas con bañeras de agua fría y caliente, mesas de masajes y bancadas donde descansar y charlar con otras personas. El jabón, los aceites corporales y las toallas son cosas útiles que puedes encontrar.
 
-Los baños pueden ofrecer **un lugar donde hacerte curas**. Es un sitio limpio, hay telas que puedes usar de vendas y agua para limpiar las heridas. 
-También puedes llenar los baños de vaho usando las aguas termales que te permitirán escabullirte sin ser vista.
+Los baños pueden ofrecer **un lugar donde hacerte curas**. Es un sitio limpio, hay telas que puedes usar de vendas y agua para limpiar las heridas. También puedes llenar los baños de vaho usando las aguas termales que te permitirán escabullirte sin ser vista.
 
 En los baños, como en las cocinas, hay diferentes compuestos que se podrían usar como **veneno o drogas** para atontar o dormir a una persona.
 
@@ -377,6 +401,7 @@ Como en los jardines hay tierra suficiente como para poder **enterrar cosas pequ
 ### Peristilo
 
 El Peristilo es la galería de columnas que rodea un edificio. Son elementos más decorativos que estancias en las que estar, pero son perfectas, porque nunca hay nadie y las columnas dan buena cobertura.
+
 Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados escondidos tras las columnas o un grupo de conspiradores ocultándose del resto de pretendientes. 
 
 > Todas las anteriores salas son solo ejemplos, pero siéntete libre de crear tus propias salas como un gimnasio, una sala de audiencias, una armaría, etc.
@@ -386,22 +411,38 @@ Sin embargo, no debería ser extraño encontrarse con dos amantes apasionados es
 La sala del trono es la más impresionante estancia pedes entrar, con el trono del reino desaparecido y la reina Penélope. Esta sala es única, no hay otra igual en todo el palacio. Aquí se ubica el telar donde todos los días trabaja Penélope tejiendo. 
 
 Como ya sabes, el objetivo es llegar sin ser vista hasta este tapiz y deshacer el trabajo que has hecho durante el día y evitar que los pretendientes te obliguen a elegir a uno de ellos.
-
 Cuando lo creas oportuna Penélope accederá a la sala del trono para terminar su misión. Pero necesitará **hacer que el salón del trono quede libre de pretendientes** para destejer el tapiz.
 
 Hay eventos que dejan el trono casi vacío, pero los hay que lo llenan de gente. Penélope deberá superar este último reto para poder volver a sus aposentos.
-## Otras tramas
 
+## Los pretendientes
+
+Los pretendientes son el gran antagonista de este juego. Pululan por todo el palacio de día y de noche haciendo de todo, desde disparando con sus arcos hasta componiendo epopeyas o lanzando el disco olímpico.
+
+De normal para saber si la estancia a la que entra Penélope **hay pretendientes puedes tirar D6 y mirar la siguiente tabla**. Recuerda que ya hemos visto que hay situaciones y eventos que modifican ese dado y hay estancias en las que no debería haber pretendientes (a no ser que tú como DJ quieras).
+
+|D6|Pretendiente|
+|---|---|
+|1-3|No hay pretendientes|
+|4+|Hay pretendientes|
+
+Los pretendientes son una única unidad y no importa su número. Da lo mismo que entre un pretendiente o una docena a nivel de juego, simplemente son una complicación. El número solo influye a la hora de buscar la manera de solucionar la complicación. Quizas Penélope trate de dejar inconsciente o seducir a un pretendiente, pero tenga que intimidar o esquivar a un grupo numeroso de pretendientes.
+
+Sacar pretendientes podría ser una buena consecuencia que usar en las misiones. Si Penélope se cae del tejado al patio interior al intentar llegar a la sala del trono, quizas aparezcan un par de pretendientes que han escuchado los ruidos en el techo y han salido al patio interior a ver que pasa. Penélope tendrá que esconderse, salir corriendo o tratar de convencerles de que ella también ha oído algo raro mientras disimula que le duele la pierna por la caída y que tiene rasgada su túnica.
+
+Los pretendientes son el enemigo principal, pero no único. Puede pasar muchas otras cosas durante la noche como que entren enemigos de Ítaca a intentar matar Penélope o
+que unos pretendientes borrachos inicien un incendio y haya que huir del palacio o poner a salvo a sirvientas y/o tesoros reales.
+
+En la [Wikipedia](https://es.wikipedia.org/wiki/Pen%C3%A9lope#Pretendientes_de_Pen%C3%A9lope) tienes un listado de pretendientes en caso de que necesites nombres.## Otras tramas
 La trama principal de Ítaca es llegar al telar para deshacerlo, pero puedes meter otras tramas o subtramas en tus aventuras nocturnas.
 
-* Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo a ella o tomar las medidas necesarias.
 * Un pretendiente ha «sobrepasado» las normas de hospitalidad con una de tus doncellas y quizás aparezca muerto en su lecho o tal vez tenga un accidente a caballo porque se han «roto» las cinchas de su silla de montar mientras iba a galope.
+* Un pretendiente se ha llevado a una joven doncella a su habitación. Estaría bien asegurarse de que no le pasa nada malo a ella o tomar las medidas necesarias.
 * Has detectado una fuerte rivalidad entre varios pretendientes. Quizás puedas hacer algo como dejar un objeto valioso de un pretendiente en la habitación del otro o conseguir que las sirvientas les den bebida hasta emborracharlos para que se peleen.
 * Los pretendientes han encontrado la bodega secreta de palacio y quieres rescatar unas botellas que guardabas del día de tu boda antes de que se las beban.
 * Has ido contando que el palacio está encantado por el fantasma de tu «difunto» marido y vas a tratar de convencerles de que ocurren cosas extrañas por la noche para que los pretendientes más cobardes se vayan.
 * Has deshecho todo el trabajo que has hecho durante el día y al volver a tus estancias oyes un grito. Quizas deberías acercarte a averiguar qué ha pasado.
-* Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.
-## Licencia
+* Las tramas están pensadas para ser jugadas de noche, pero puede ser un cambio divertido tener que hacerlo de día con toda la actividad del palacio en plena ebullición, pero donde muchos de tus actos no sean vistos como algo extraño.## Licencia
 «Ítaca» está desarrollado bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Todo el código fuente puedes encontrarlo en [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
 Se han usado imágenes libres de derecho y pasamos a darles su justa atribución.
@@ -411,4 +452,11 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 * Blue mosaic tiles by [alvaro_cabrera](https://www.freepik.com/free-vector/blue-mosaic-tiles_869806.htm)
 > This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")|HojaPersonaje.html|
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+## Epílogo
+Al crear este juego he tenido una serie de ideas y pensamientos que me gustaría expresar aquí.
+
+* El juego se basa en un mito clásico y trabaja con relaciones heterosexuales. Siéntete totalmente libre de convertirlo todo en una aventura sáfica o aquilea, de hecho, el uso de pronombres en la creación de personaje no solo respeta los deseos del creador del sistema, también permite montarte las relaciones sexo-afectivas y de género que más se acerque a tu mesa.
+* Mientras creaba este juego, alguien me hizo notar que muchas de las situaciones que se iban a dar en este juego son algo común que las mujeres sufren todos los días. Como hombre espero que cuando dirijas o juegues a este juego seas respetuoso con este tema y que recapacites, aunque sea unos minutos, sobre estos temas.
+* Quería reivindicar un personaje secundario que es un ejemplo clásico de paciencia, fidelidad y de esposa agnegada y convertirlo en un personaje central de su propia historia que decide sobre su destino y lucha por hacerlo realidad. De hecho, durante todo el juego he evitado usar el nombre del marido desaparecido de Penélope para no quitarle importancia a Penélope.
+* Como siempre puede que me haya equivocado en como he enfocado los puntos anteriores y estaré encantado de recibir críticas constructivas y hacer los cambios necesarios.|HojaPersonaje.html|
