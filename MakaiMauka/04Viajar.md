@@ -243,7 +243,7 @@ La tirada de Acampar se convierte en la tirada de Fondear. No es lo mismo fondea
 
 El resultado final es la media de las dos tiradas, pero si hay una pifia o un crítico se lo quedan directamente. En caso de salir un crítico y una pifia, gana el crítico.
 
-Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta más el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
+Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta mar, el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
 
 Las habilidades como el Cazar del XXX no se podrán usar durante Acampar XXX (REVISAR)
 
@@ -304,15 +304,26 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
+Lo importante que debes tener sobre el clima en las islas es que **el clima es muy cambiante** y en un mismo día puede haber muchos eventos climáticos. En otros sitios puede haber un día lluvioso que tenga rato en que no llueva, pero en el archipiélago puede amanecer un día soleado, a medio día hacer un calor insoportable y acabar con una terrible tormenta a la noche.
+
+Esto hace que tengas que elegir 3 climas al día, mañana, tarde y noche. El clima afectará a las tiradas que se hagan en cada fase del día. XXX
+
+### Viento
+
 XXX
+
+### Modificador por clima
+
+|Clima|Mod.|
+|---|---|
+|Despejado / Nublado|0|
+|Llovizna / Viento / Neblina / Calor|１|
+|Lluvia / Niebla|３|
+|Tormenta|５|
 
 ### Ciclones
 
-Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. Veamos algunas ideas que puedes aplicar:
-
-* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
-* Si tratan de **salvar a otros tripulantes que haya caído al agua** y se estén ahogando con una tirada de FUE+DES. Si tuvieran que sumergirse para sacarlos a flote podría ser una de FUE+ESP. Se puede ayudar si se lanza al agua.
-* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la manera de usar el objeto mágico o de invocar al ser marino.
+Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. 
 
 \sp
 
@@ -324,8 +335,16 @@ Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que debe
 
 \conc
 
+Veamos algunas ideas que puedes aplicar:
+
+* En principio, si son buenos marinos podrían tratar de sobrevivir al ciclón, pero si lo has metido en partida, no creo que sea para que se libren de él simplemente navegando habilidosamente. Por muy bien que lo hagan, la embarcación debería empezar a desmoronarse ante los embates de las olas y los furiosos vientos.
+* Si tratan de **salvar a otros tripulantes que haya caído al agua** y se estén ahogando con una tirada de FUE+DES. Si tuvieran que sumergirse para sacarlos a flote podría ser una de FUE+ESP. Se puede ayudar si se lanza al agua.
+* Puede que tengan **algún objeto mágico** o les deba un **favor algún favor alguna criatura o divinidad marina**. Este sería un buen momento para cobrárselo. La tirada la marcará la manera de usar el objeto mágico o de invocar al ser marino.
 * Quizás quieran **salvar algo importante** que lleven a bordo. En ese caso puedes pedir una tirada FUE+DES para moverse en un barco hundiéndose mientras arrecia el temporal. Puedes meter penalizadores si es muy grande y exigirles que busquen algún método de hacer que flote o se irá al fondo del mar.
 * Si están cerca de la costa, tendrán que tratar de **evitar los acantilados** a los que las olas les están llevando. Necesitarán FUE+ESP para poder nadar a pesar del cansancio sorteándolos y llegando sanos y salvos a la playa. Si van en la misma embarcación o en restos de ella se podrá ayudar, pero si nadan es muy difícil que alguien pueda ayudarte, ya tienen suficiente con mantenerse a flote. Eso sí, pueden intentar rescatarte.
+
+\sp
+
 * Puede tratar de **montar algo que flote** a base de restos de la nave con una tirada de FUE+INT con un penalizador de -1 por cada pasajero por encima de 2 _(Aquí Jack sí que cabe en la tabla)_. En este caso se puede también ayudar. 
 
 Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El naufragio no debería ser el fin de un viaje, solo una etapa inesperada. En caso de naufragio puedes aplicar como quieras estas ideas:
@@ -334,9 +353,9 @@ Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El 
 * Pierden todo el equipo que no llevarán encima a excepción de un objeto de tamaño 2 que pudieron rescatar en el último momento y que aparecerá a su lado cuando despierten.
 * Llegarán a la playa objetos de todos (o que pudiera haber en la embarcación) tus _hauka_ por un tamaño máximo de 4, es decir uno 3 y otro de 1, 2 de tamaño 2, etc.
 
-\sp
+Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un _tsunami_ podría tener los mismos efectos.
 
-Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un tsunami podría tener los mismos efectos. _Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
+_Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
 
 \sinc
 
@@ -352,12 +371,14 @@ La tecnología que van a poder tus _hauka_ en esta ambientación es bastante dif
 
 La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
 
-Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
-
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
+
+\sp
+
+Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
 Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
 
-\sp
+\sc
 
 &nbsp;

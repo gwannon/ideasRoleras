@@ -64,3 +64,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWatercolor greek border by freepik\nPenelope and the Suitors by John William Waterhouse\nBlue mosaic tiles by alvaro_cabrera\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWatercolor greek border by freepik\nPenelope and the Suitors by John William Waterhouse\nBlue mosaic tiles by alvaro_cabrera\\E$"}
+{"rule":"CONCORDANCIAS_ATRIBUTO","sentence":"^\\QLos arrecifes son rocas, bancos de arena, o cualquier otro elemento que yace a pocos metros de la superficie o incluso sobre la superficie del agua durante marea baja.\\E$"}
+{"rule":"LES_LAS","sentence":"^\\QTradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.\\E$"}
+{"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QDES+INT\nNúmero objetivo:\\E$"}

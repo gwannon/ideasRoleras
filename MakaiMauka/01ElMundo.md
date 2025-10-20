@@ -65,7 +65,7 @@ No es extrañar llegar a una cala perdida y encontrarse con un círculo de tabla
 
 _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género. Se considera que encarnan tanto el espíritu masculino como el femenino.
 
-Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.
+Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
 
 \sp
 
@@ -137,20 +137,36 @@ _Pono_ es el equilibrio perfecto entre hacer lo correcto y vivir en armonía con
 
 \sinc
 
-&nbsp;
-
-## Nuevas clases, profesiones y arquetipos
+## Nuevas clases
 
 \conc
 
-XXX
+Esta ambientación propone dos nuevas clases de personaje, muy ligadas al archipiélago de _Hua Tarakona_, pero que pueden ser usados en otras ambientaciones con algunas modificaciones: artistas y marinos.
+
+También hay nuevas profesiones y acciones que puedes añadir a las clases actuales.
+
+\sinc
+
+|Clase|Profesión|Acciones|
+|---|---|---|
+|**Trovador**|Bailarín Hula, XXX|Bailar hula, XXX|
+|**Mercader**|XXX|XXX|
+|**Cazador**|XXX|XXX|
+|**Sanador**|XXX|XXX|
+|**Granjero**|Recolector de algas, Recolector de cocos, Criador de cerdos|XXX|
+|**Artesano**|Carpintero, Carpintero naval, Tejedor de hoja de palma|talar, vaciar troncos, trenzar hojas, XXX|
+|**Noble**|XXX|XXX|
+
+&nbsp;
+
+\conc
 
 ### Artistas
 
 Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. XXX
 
-* **Ejemplos de profesiones:** Tatuador, Bailarín Hula, XXX
-* **Ejemplos de acciones:** XXX
+* **Ejemplos de profesiones:** Tatuador, Escultor de _tikis_, Ebanista/Tallador
+* **Ejemplos de acciones:** tatuar, esculpir, tallar madera, 
 
 #### XXX
 
@@ -186,19 +202,19 @@ Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. XXX
 * **Ejemplos de profesiones:** Pescador, Surfista, Marinero
 * **Ejemplos de acciones:** pescar, nadar, surfear, navegar
 
+\sp
+
 #### Agua salada en tus venas
 
 El mar es parte de tu vida y el agua salada corre por tus venas.
 
-* **Efecto de la Habilidad:** +2 a las tiradas de Marcha/Labores del mar, Orientación/Navegación y Acampada/Fondear, mientras estas en Masas de agua y en terrenos cercanos al mar y ríos (playa, acantilados litorales y riachuelos).
+* **Efecto de la Habilidad:** +2 a las tiradas de Marcha/Labores del mar, Orientación/Navegación y Acampada/Fondear, mientras estás en Masas de agua y en terrenos cercanos al mar y ríos (playa, acantilados litorales y riachuelos).
 
 #### Adiestrar
 
-Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estas en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos. Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
+Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estás en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos. Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
 
 * **Efecto de la Habilidad:** Permite que tus animales sean acuáticos y te permite tener un animal acuático extra de un total de 2.
-
-\sp
 
 #### Pescar
 

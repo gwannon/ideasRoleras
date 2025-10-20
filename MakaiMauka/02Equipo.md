@@ -34,15 +34,21 @@ Lo mismo pasa con los productos de la ballena, salvo que en este caso y por la v
 
 \conc
 
-El nivel tecnológico que tu mesa puede esperar en esta ambientación es mucho menor que la podrían encontrar en el manual básico. No hay brújulas, metalurgia, el cristal y la óptica, la moneda, alquimia avanzada, etc.
+El nivel tecnológico que tu mesa puede esperar en esta ambientación no es mucho menor que el que podrían encontrar en el manual básico, simplemente es diferente, con elementos más retrasados y otros más avanzados, pero al final pueden hacer las mismas cosas. 
 
-Puede parecer que estamos hablando de una cultura que está en la Edad de piedra, aunque realmente no lo está. Son pueblos perfectamente adaptados a su entorno, que no han necesitado, por ejemplo, desarrollar la metalurgia, pero que son grandísimos navegantes que recorren miles y miles de millas por el vasto océano, mientras otras culturas no sabían qué había al otro lado de su pequeño mar.
+Puede parecer que estamos hablando de una cultura que está en la Edad de piedra, aunque realmente no lo está. Son pueblos perfectamente adaptados a su entorno, que no han necesitado, por ejemplo, desarrollar la metalurgia, pero que son grandísimos navegantes que recorren miles y miles de millas por el vasto océano, mientras otras culturas «más avanzadas» no sabían qué había al otro lado de su pequeño mar.
 
-XXX
+Pongamos algunos ejemplos: 
 
-Estas diferencias tecnológicas pueden ser una ventaja interesante para ti como DJ, ya que puedes sacar de manera sencilla objetos más avanzados tecnológicamente y ofrecerlos como objetos mágicos. Una brújula es un elemento desconocido en las islas, pero algún kahuna podría haber inventado y regalárselo a tus _hauka_. En juego no es una gran ventaja, pero seguramente que podría ser un buen _macguffin_ sobre el que basara una aventura.
+* No hay brújulas, ni relojes, ni óptica, elementos muy útiles en la navegación. Esto lo suplen con un conocimiento superior de las corrientes y el clima y de los animales acuáticos, tanto su biología como sus costumbres migratorias. Por último, sus conocimientos de astronomía les permiten orientarse sin problemas sin necesidad de tener brújulas.
+* La metalurgia o el trabajo del cristal, no son importante para su forma de vida. Sin embargo, los niveles a los que han llegado en la artesanía de la madera o de las hojas de palma, suple esas carencias.
+* Sus conocimientos en herbología y botánica (tanto terrestre como acuática) les permite estar a la altura de la química y la medicina de otras culturas.
 
-De todas formas, si no quieres complicarte, puedes dejar el equipo normal de juegos de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
+Estas diferencias tecnológicas pueden ser una ventaja interesante para ti como DJ, ya que puedes sacar de manera sencilla objetos avanzados tecnológicamente y ofrecerlos como objetos mágicos.
+
+Una brújula es un elemento desconocido en las islas, pero algún _kahuna_ podría haber inventado y regalárselo a tus _hauka_. En juego no es una gran ventaja porque ya son grandes navegantes, pero seguramente que podría ser un buen _MacGuffin_ sobre el que basar una aventura.
+
+> Si no quieres complicarte con estas diferencias, puedes dejar el equipo normal de juegos de fantasía medieval y darle una estética más natural con equipo hecho de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
 
 \sp
 
@@ -234,7 +240,7 @@ Hechas de cuerdas de fibra de coco, son capaces de cubrir varios metros cuadrado
 
 \sp
 
-La técnica más común de pesca es usando redes y recogiéndolas, bien desde la orilla o desde canoas. se pesca mucho, pero sin control y a veces puedes sacar del agua problemas en vez de peces.
+La técnica más común de pesca es usando redes y recogiéndolas, bien desde la orilla o desde canoas. Se pesca mucho, pero sin control y a veces puedes sacar del agua problemas en vez de peces.
 
 El principal problema es que son bastante frágiles y exigen reparaciones constantes. No es raro encontrarse a gente en las playas remendando los agujeros que los peces han hecho en sus redes.
 
@@ -297,7 +303,3 @@ La otra excepción a las reglas básicas que puedes aplicar es que **los objetos
 |Tabla de surf|500|
 |Canoa multicasco|5.000|
 |Catamarán|90.000|
-
-\sp
-
-&nbsp;
