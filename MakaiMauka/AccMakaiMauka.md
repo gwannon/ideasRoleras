@@ -592,6 +592,8 @@ La tirada de Marcha se convierte en la tirada de Labores del barco. Hablamos des
 Una pifia por parte de alguno de los tripulantes supone problemas que se va a arrastrar la embarcación. Es por ello que **una pifia en esta tirada supone un -1 a la tirada de Fondear**.
 
 Esta tirada **solo tienen que hacerlas las personas que hagan alguna labor en el barco**, los pasajeros no tienen que hacerla, ya que no están haciendo un esfuerzo real para mantener el barco a flote y en movimiento. 
+
+Los sanadores no puede Forrajear antes de empezar las Labores en el barco, cuando a la noche anterior se ha fondeado en mar abierto.
 #### Fondear (Acampar)
 
 La tirada de Acampar se convierte en la tirada de Fondear. No es lo mismo fondear en una playa protegido del oleaje (Costa cubierta) a hacerlo en alta mar a merced de las olas y el viento. La tirada de Fondear deben hacerla por lo menos dos tripulantes y pueden ayudarles otros dos.
@@ -600,7 +602,7 @@ El resultado final es la media de las dos tiradas, pero si hay una pifia o un cr
 
 Pasar muchos días en el mar sin acercarse a la costa complica la navegación, así que cada 3 días en mar abierto la tirada de Fondear obtiene un -1. Si vuelven a tocar la costa el penalizador desaparece. Por ejemplo, si se tiran 7 días en alta mar, el séptimo día tendrán un -2, que desaparecerá al acercarse a tierra.
 
-Las habilidades como el Cazar del XXX no se podrán usar durante Acampar XXX (REVISAR)
+Las habilidades de Cazar del Cazador no se podrá usar, cuando se ha fondeado en mar abierto.
 
 #### Atracar y desembarcar
 
@@ -643,11 +645,18 @@ Lo importante que debes tener sobre el clima en las islas es que **el clima es m
 
 Esto hace que puedas y muchas veces debas elegir 3 climas al día, uno para la mañana, otro para la tarde y otro para la noche. El clima afectará a las tiradas que se hagan en cada fase del día. Por ejemplo, la tirada de Marcha y Orientación se puede ver afectado por la lluvia de la mañana, la tirada de Acampar y Cazar por el calor de la noche y si tienen un enfrentamiento nocturno la Tormenta debería afectar al combate. 
 
-> Si no quieres complicarte sigue el sistema normal de un clima cada día, pero es aconsejable que de vez en cuando y sin previo aviso, les hagas estos cambios de clima extremo.
+|Clima|Mod.|
+|---|---|
+|Despejado / Nublado|0|
+|Llovizna / Viento / Neblina / Calor|１|
+|Lluvia / Niebla|３|
+|Tormenta|５|
 
+> Si no quieres complicarte sigue el sistema normal de un clima cada día, pero es aconsejable que alguna vez sin previo aviso, hagas estos cambios de clima.[![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
 ### Viento
 
-Mientras que en tierra el viento es un elemento climático más que no afecta mucho a la situación de tus _hauka_, en el mar es el motor de tus naves. [![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+Mientras que en tierra el viento es un elemento climático más que no afecta mucho a la situación de tus _hauka_, en el mar es el motor de tus naves. 
+
 Es por ello que durante los viajes por mar, además de definir el clima, deberás definir el viento.
 
 Hay elementos climatológicos que ya dan una idea del viento que va a soplar, por ejemplo, una tormenta supone siempre un gran viento y un día caluroso normalmente supone que no haya nada de brisa. Pero un día soleado o un día de lluvia no tiene por qué ser específicamente más o menos ventosos. 
@@ -655,15 +664,6 @@ Hay elementos climatológicos que ya dan una idea del viento que va a soplar, po
 Lo normal es que siempre haga viento para navegar, pero puedes decidir que no haya para meter dramatismo a los viajes sobre todo si hay una límite temporal. Nada va a desesperar más a tus _hauka_ que tener que llegar a una isla antes de la luna llena para salvar a alguien cercano y no avanzar porque no sopla el viento.
 
 Además, recuerda que la falta de viento es un evento que puede crear condiciones en tus jugadores, como que tengan que remar y acaben cansados.
-
-### Modificador por clima
-
-|Clima|Mod.|
-|---|---|
-|Despejado / Nublado|0|
-|Llovizna / Viento / Neblina / Calor|１|
-|Lluvia / Niebla|３|
-|Tormenta|５|
 
 ### Ciclones
 
