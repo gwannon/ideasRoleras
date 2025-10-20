@@ -116,6 +116,8 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Silueta de niña hawaiana de diseño plano de [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112452.htm)
 * Cartoon stormy seascape rainfall and lightning by [upklyak](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm)
 * Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
+* Shark's tooth knife by [Australian Museum](https://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg)
+
 
 ***
 

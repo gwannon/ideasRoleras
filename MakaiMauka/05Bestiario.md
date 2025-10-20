@@ -111,25 +111,9 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 
-### Kupua XXX
+### Kupua de conchas
 
-XXX
-
-* **Nivel/Tipo:** XXX / XXX
-* **Botín:** XXX
-* **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
-* **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-
-### Kupua XXX
-
-XXX
+Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -143,9 +127,9 @@ XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua XXX
+### Kupua de flores
 
-XXX
+Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de formas variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -158,6 +142,22 @@ XXX
 * **Habilidad especial:** **XXX.** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
+
+### Kupua banco de peces
+
+Este kupua no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
+
+* **Nivel/Tipo:** XXX / XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **XXX.** XXX
+* **Terreno habitual:** XXX
+* **Marea:** XXX
 
 \sp
 

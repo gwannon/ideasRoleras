@@ -158,7 +158,7 @@ Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hu
 ## Materiales
 Un punto importante del equipo es que el **metal es conocido** por las gentes de las islas, pero **es escaso y no son hábiles forjando** el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
 
-La **madera es un elemento fundamental** en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc.
+La **madera es un elemento fundamental** en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc. Y no debemos olvidar de otro gran material vegetal como el bambú que se usa mucho en construcción y naves.
 
 Lo mismo pasa con la **hoja de palma**, que también encontramos en varias artesanías, como cesteros, techadores, fabricantes de velas, etc. que la transforman en diferentes elementos como cestas, velas de barco, sombreros, cuerdas y correas, etc.
 
@@ -169,8 +169,8 @@ Debido a la intensa actividad volcánica de las islas, los materiales como la ob
 La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
 
 Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como «hueso de ancestros» o «de ballena». Los huesos de ancestros, como el anzuelo de Maui, tienen propiedades mágicas y los objetos hechos con este material pueden hacer cosas fabulosas.
-
-Lo mismo pasa con los productos de la ballena, salvo que en este caso y por la veneración hacia las ballenas, suelen ser regalos que estas hacen a los humanos. ## Tecnología
+Lo mismo pasa con los productos de la ballena, salvo que en este caso y por la veneración hacia las ballenas, suelen ser regalos que estas hacen a los humanos.
+ ## Tecnología
 El nivel tecnológico que tu mesa puede esperar en esta ambientación no es mucho menor que el que podrían encontrar en el manual básico, simplemente es diferente, con elementos más retrasados y otros más avanzados, pero al final pueden hacer las mismas cosas. 
 
 Puede parecer que estamos hablando de una cultura que está en la Edad de piedra, aunque realmente no lo está. Son pueblos perfectamente adaptados a su entorno, que no han necesitado, por ejemplo, desarrollar la metalurgia, pero que son grandísimos navegantes que recorren miles y miles de millas por el vasto océano, mientras otras culturas «más avanzadas» no sabían qué había al otro lado de su pequeño mar.
@@ -192,9 +192,14 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 
 ### Hojas cortas
 
-Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
+Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón.
+
+También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
 
 Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
+
+[![Shark's tooth knife by Australian Museum](./images/H000111-_Shark%27s_tooth_knife.jpg "Shark's tooth knife by Australian Museum")](ttps://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg "Shark's tooth knife by Australian Museum")
+
 ### Hojas
 
 [![Kayak canoe design illustration set by pikisuperstar](./images/remo.jpg "Kayak canoe design illustration set by pikisuperstar")](https://www.freepik.com/free-vector/kayak-canoe-design-illustration-set_18274734.htm "Kayak canoe design illustration set by pikisuperstar")
@@ -205,20 +210,20 @@ Otra opción, son los huesos de ballena tallados que permiten crear hojas ligera
 
 **Kotiate:** Es una maza corta normalmente hueso de ballena. Parece una especie de evolución del remo al que se le hicieron modificaciones para ser más mortal.
 
-### Armas de Asta
-
-[![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
-
-**_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
-[![Neanderthal primitive rock weapon flat set by pch.vector](./images/horca.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
-
-**Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
-
 ### Hachas
 
 [![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
 
 **_Leiomano_:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños dientes de tiburón insertados.
+### Armas de Asta
+
+[![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
+
+**_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
+
+[![Neanderthal primitive rock weapon flat set by pch.vector](./images/horca.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
+
+**Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
 
 ### Arcos y ondas
 
@@ -799,25 +804,9 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 
-### Kupua XXX
+### Kupua de conchas
 
-XXX
-
-* **Nivel/Tipo:** XXX / XXX
-* **Botín:** XXX
-* **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
-* **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
-
-### Kupua XXX
-
-XXX
+Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -831,9 +820,25 @@ XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
 
-### Kupua XXX
+### Kupua de flores
 
-XXX
+Podemos considerarlos una subespecie de los kupuas de plantas, ya que estan formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de formas variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes polenes con efectos narcóticos, veneosos, alucinogenos, etc.
+
+* **Nivel/Tipo:** XXX / XXX
+* **Botín:** XXX
+* **PM/PG:** X / X
+* **Iniciativa:** XXX
+* **Salud:** XXX
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** XXX
+* **Habilidad especial:** **XXX.** XXX
+* **Terreno habitual:** XXX
+* **XXX/Marea:** XXX
+
+### Kupua banco de peces
+
+Este kupua no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -1087,8 +1092,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Silueta de niña hawaiana de diseño plano de [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112452.htm)
 * Cartoon stormy seascape rainfall and lightning by [upklyak](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm)
 * Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
-
-***
+* Shark's tooth knife by [Australian Museum](https://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg)***
 Makai Mauka 
 
 «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.

@@ -12,7 +12,7 @@ Te presentamos toda una serie de nuevos objetos para usar en tus partidas en _Hu
 
 Un punto importante del equipo es que el **metal es conocido** por las gentes de las islas, pero **es escaso y no son hábiles forjando** el metal. Sin embargo, sí son buenos trabajando la madera y trenzando las hojas de palma.
 
-La **madera es un elemento fundamental** en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc.
+La **madera es un elemento fundamental** en la vida de las islas, es abundante, fácil de trabajar, duradera, resistente y flota. Por eso encontrarás bastantes artesanos especializados en el trabajo de la madera, no deberías de hablar de carpinteros en general, sino de ebanistas, carpinteros navales, constructores de chozas, tallistas, etc. Y no debemos olvidar de otro gran material vegetal como el bambú que se usa mucho en construcción y naves.
 
 Lo mismo pasa con la **hoja de palma**, que también encontramos en varias artesanías, como cesteros, techadores, fabricantes de velas, etc. que la transforman en diferentes elementos como cestas, velas de barco, sombreros, cuerdas y correas, etc.
 
@@ -24,9 +24,9 @@ La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes
 
 Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como «hueso de ancestros» o «de ballena». Los huesos de ancestros, como el anzuelo de Maui, tienen propiedades mágicas y los objetos hechos con este material pueden hacer cosas fabulosas.
 
-Lo mismo pasa con los productos de la ballena, salvo que en este caso y por la veneración hacia las ballenas, suelen ser regalos que estas hacen a los humanos.
-
 \sp
+
+Lo mismo pasa con los productos de la ballena, salvo que en este caso y por la veneración hacia las ballenas, suelen ser regalos que estas hacen a los humanos.
  
 \sinc
 
@@ -64,11 +64,13 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 
 ### Hojas cortas
 
-Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
+Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón.
+
+También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
 
 Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
 
-\sc
+[![Shark's tooth knife by Australian Museum](./images/H000111-_Shark%27s_tooth_knife.jpg "Shark's tooth knife by Australian Museum")](ttps://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg "Shark's tooth knife by Australian Museum")
 
 ### Hojas
 
@@ -80,23 +82,23 @@ Otra opción, son los huesos de ballena tallados que permiten crear hojas ligera
 
 **Kotiate:** Es una maza corta normalmente hueso de ballena. Parece una especie de evolución del remo al que se le hicieron modificaciones para ser más mortal.
 
+### Hachas
+
+[![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
+
+**_Leiomano_:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños dientes de tiburón insertados.
+
+\sp
+
 ### Armas de Asta
 
 [![Neanderthal primitive rock weapon flat set by pch.vector](./images/lanza1.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
 
 **_Tao_:** Lanza de madera normalmente con una punta hecha del pincho de un pez espada o de los afilados huesos de la cola de una raya.
 
-\sp
-
 [![Neanderthal primitive rock weapon flat set by pch.vector](./images/horca.jpg "Neanderthal primitive rock weapon flat set by pch.vector")](https://www.freepik.com/free-vector/neanderthal-primitive-rock-weapon-flat-set_12291204.htm "Neanderthal primitive rock weapon flat set by pch.vector")
 
 **Horca:** Este utensilio perfecto para la pesca de peces y crustáceos puede usarse como una eficaz arma de combate.
-
-### Hachas
-
-[![Leiomano by Jen](./images/leiomano.jpg "Leiomano by Jen")](https://commons.wikimedia.org/wiki/File:Leiomano.jpg "Leiomano by Jen")
-
-**_Leiomano_:** Esta arma similar a una pala de jugar a pelota tiene el borde lleno de pequeños dientes de tiburón insertados.
 
 ### Arcos y ondas
 
