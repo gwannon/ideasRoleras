@@ -58,3 +58,9 @@
 {"rule":"OBSCURE","sentence":"^\\QLas bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendientes).\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QLas bodegas son como las despensas, pero todavía más oscuras y más cerradas (baja un rango el dado de encontrar a un pretendiente).\\E$"}
 {"rule":"A_NIVEL_DE","sentence":"^\\QDa lo mismo que entre un pretendiente o una docena a nivel de juego, simplemente son una complicación.\\E$"}
+{"rule":"HABER_DE_INFINITIVO","sentence":"^\\QAparte de una cama, un escritorio y un armario puede haber de todo.\\E$"}
+{"rule":"HABER_DE_INFINITIVO","sentence":"^\\QAparte de una cama, un escritorio y un armario puede haber de todo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTodo el código fuente puedes encontrarlo en GitHub/ideasRoleras/Itaca.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWatercolor greek border by freepik\nPenelope and the Suitors by John William Waterhouse\nBlue mosaic tiles by alvaro_cabrera\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThis work is based on Breathless, product of Fari RPGs, developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the Creative Commons Attribution 4.0 License.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWatercolor greek border by freepik\nPenelope and the Suitors by John William Waterhouse\nBlue mosaic tiles by alvaro_cabrera\\E$"}

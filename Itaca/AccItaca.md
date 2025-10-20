@@ -160,7 +160,7 @@ Si te encuentras una criada en las cocinas, pues estará preparando comida, pero
 Las **criadas sobornadas** son un problema que puedes usar en cualquier momento, sobre todo cuando desaparecen. Las opciones son variadas.
 
 * Quizás genere un punto de habladurías cuando desaparezca.
-* Quizas falle a propósito una tirada de sigilo para que descubran a tu Penélope.
+* Quizás falle a propósito una tirada de sigilo para que descubran a tu Penélope.
 * Podría avisar al pretendiente que le ha sobornado para que tienda una trampa a nuestra PJ.
 
 Ten en cuenta que si Penélope trata bien y con respeto a la criada sobornada, esta podría ponerse del lado de Penélope y no traicionarla. 
@@ -245,7 +245,7 @@ Solo se encontrarán sirvientas manteniendo las lámparas y las chimeneas encend
 
 Todo se ha salido de madre y en pocos minutos se ha montado una bacanal de alcohol y sexo. Los aposentos de invitados y sirvientes y los baños están llenos de pretendientes realizando todo tipo de prácticas sexuales con el servicio y otros pretendientes (sube un rango las posibilidades de encontrarse a un pretendiente). Mientras, el resto de salas están vacías y solo se oyen gemidos y gritos ahogados (baja un rango las posibilidades de encontrarse a un pretendiente).
 
-Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y por tanto **no podrán generarse puntos de habladurías**. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
+Por suerte para Penélope, salvo cosas muy graves como asesinato o fornicio real, las habladurías se van a centrar en la gente que está participando en la orgía y, por tanto, **no podrán generarse puntos de habladurías**. A nadie le va a importar las excéntricas actividades nocturnas de la reina en estos momentos.
 
 ### Festín
 
@@ -270,7 +270,7 @@ Los baños también, donde se lavan y aceitan para ser difíciles de agarrar en 
 
 En todas estas salas las posibilidades de encontrar pretendientes suben un rango.
 
-La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo mas desapercibidos posibles.
+La testorena bulle en el ambiente debido a la competencia y los pretendientes están más agresivos de lo normal. Mientras el servicio que ya conoce estas situaciones se refugia en despensas, cocinas y sus aposentos tratando de pasar lo más desapercibidos posible.
 
 ### Duelo a muerte
 
@@ -450,10 +450,10 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
 * Blue mosaic tiles by [alvaro_cabrera](https://www.freepik.com/free-vector/blue-mosaic-tiles_869806.htm)
-> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+* Exlibris de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+[![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
-## Epílogo
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")## Epílogo
 Al crear este juego he tenido una serie de ideas y pensamientos que me gustaría expresar aquí.
 
 * El juego se basa en un mito clásico y trabaja con relaciones heterosexuales. Siéntete totalmente libre de convertirlo todo en una aventura sáfica o aquilea, de hecho, el uso de pronombres en la creación de personaje no solo respeta los deseos del creador del sistema, también permite montarte las relaciones sexo-afectivas y de género que más se acerque a tu mesa.

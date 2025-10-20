@@ -278,6 +278,11 @@ img {
   border-radius: 3px;
 }
 
+img[alt^='Pergeñado'] {
+  width: 150px;
+  border: none;
+}
+
 table.special {
   border-collapse: collapse;
   font-family: "Caesar Dressing", system-ui;
