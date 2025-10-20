@@ -22,25 +22,31 @@ Debido a la intensa actividad volcánica de las islas, los materiales como la ob
 
 La **lana es desconocida**, sin embargo, las **prendas de plumas son muy comunes** y normalmente asociadas a personas de alto standing y poder adquisitivo. Los gorros y las capas de tejidas con vistosos colores de plumas de aves selváticas son un signo de distinción entre los isleños.
 
-Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como «hueso de ancestros» o «de ballena».
+Por último, los metales como el **Oricalco** y el **Mythril** (ambas cualidades) **no pueden usarse** en esta ambientación. Quizas puedas usar materiales parecidos como «hueso de ancestros» o «de ballena». Los huesos de ancestros, como el anzuelo de Maui, tienen propiedades mágicas y los objetos hechos con este material pueden hacer cosas fabulosas.
+
+Lo mismo pasa con los productos de la ballena, salvo que en este caso y por la veneración hacia las ballenas, suelen ser regalos que estas hacen a los humanos.
+
+\sp
  
 \sinc
-
-&nbsp;
 
 ## Tecnología
 
 \conc
 
+El nivel tecnológico que tu mesa puede esperar en esta ambientación es mucho menor que la podrían encontrar en el manual básico. No hay brújulas, metalurgia, el cristal y la óptica, la moneda, alquimia avanzada, etc.
+
+Puede parecer que estamos hablando de una cultura que está en la Edad de piedra, aunque realmente no lo está. Son pueblos perfectamente adaptados a su entorno, que no han necesitado, por ejemplo, desarrollar la metalurgia, pero que son grandísimos navegantes que recorren miles y miles de millas por el vasto océano, mientras otras culturas no sabían qué había al otro lado de su pequeño mar.
+
 XXX
+
+Estas diferencias tecnológicas pueden ser una ventaja interesante para ti como DJ, ya que puedes sacar de manera sencilla objetos más avanzados tecnológicamente y ofrecerlos como objetos mágicos. Una brújula es un elemento desconocido en las islas, pero algún kahuna podría haber inventado y regalárselo a tus _hauka_. En juego no es una gran ventaja, pero seguramente que podría ser un buen _macguffin_ sobre el que basara una aventura.
+
+De todas formas, si no quieres complicarte, puedes dejar el equipo normal de juegos de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
 
 \sp
 
-Si no quieres complicarte, puedes dejar el equipo normal de juegos de fantasía medieval y darle una estética más natural hechos de madera, hojas de palma, coco, barro cocido, huesos de animales, pieles, etc.
-
 \sinc
-
-&nbsp;
 
 ## Armas
 
@@ -55,6 +61,8 @@ Las armas, sobre todo las grandes de madera, están profusamente decoradas con m
 Las armas de filo cortas como cuchillos o dagas no son muy comunes. En su lugar, tenemos pequeños garrotes de maderas duras como la koa con pinchos o dientes de tiburón. También son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.
 
 Otra opción, son los huesos de ballena tallados que permiten crear hojas ligeras y bastante afiladas para usarla en el día a día y en combate.
+
+\sc
 
 ### Hojas
 
