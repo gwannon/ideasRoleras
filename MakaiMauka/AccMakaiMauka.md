@@ -639,13 +639,22 @@ En la mayoría de las islas del Pacífico solo existen dos estaciones, verano (_
 
 Las únicas zonas donde las temperaturas son bajas, incluso puede haber nieve, son en las cimas de las montañas donde la temperatura puede bajar a casi 0 °C.
 
-Lo importante que debes tener sobre el clima en las islas es que **el clima es muy cambiante** y en un mismo día puede haber muchos eventos climáticos. En otros sitios puede haber un día lluvioso que tenga rato en que no llueva, pero en el archipiélago puede amanecer un día soleado, a medio día hacer un calor insoportable y acabar con una terrible tormenta a la noche.
+Lo importante que debes tener sobre el clima en las islas es que **el clima es muy cambiante** y en un mismo día puede haber muchos eventos climáticos muy variados. En otros sitios puede haber un día lluvioso (Lluvia) que tenga rato en que no llueva (Nublado) o que llueva menos (Llovizna), pero en el archipiélago puede amanecer un día soleado, a medio día hacer un calor insoportable y acabar con una terrible tormenta a la noche.
 
-Esto hace que tengas que elegir 3 climas al día, mañana, tarde y noche. El clima afectará a las tiradas que se hagan en cada fase del día. XXX
+Esto hace que puedas y muchas veces debas elegir 3 climas al día, uno para la mañana, otro para la tarde y otro para la noche. El clima afectará a las tiradas que se hagan en cada fase del día. Por ejemplo, la tirada de Marcha y Orientación se puede ver afectado por la lluvia de la mañana, la tirada de Acampar y Cazar por el calor de la noche y si tienen un enfrentamiento nocturno la Tormenta debería afectar al combate. 
+
+> Si no quieres complicarte sigue el sistema normal de un clima cada día, pero es aconsejable que de vez en cuando y sin previo aviso, les hagas estos cambios de clima extremo.
 
 ### Viento
 
-XXX
+Mientras que en tierra el viento es un elemento climático más que no afecta mucho a la situación de tus _hauka_, en el mar es el motor de tus naves. [![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+Es por ello que durante los viajes por mar, además de definir el clima, deberás definir el viento.
+
+Hay elementos climatológicos que ya dan una idea del viento que va a soplar, por ejemplo, una tormenta supone siempre un gran viento y un día caluroso normalmente supone que no haya nada de brisa. Pero un día soleado o un día de lluvia no tiene por qué ser específicamente más o menos ventosos. 
+
+Lo normal es que siempre haga viento para navegar, pero puedes decidir que no haya para meter dramatismo a los viajes sobre todo si hay una límite temporal. Nada va a desesperar más a tus _hauka_ que tener que llegar a una isla antes de la luna llena para salvar a alguien cercano y no avanzar porque no sopla el viento.
+
+Además, recuerda que la falta de viento es un evento que puede crear condiciones en tus jugadores, como que tengan que remar y acaben cansados.
 
 ### Modificador por clima
 
@@ -658,7 +667,7 @@ XXX
 
 ### Ciclones
 
-Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. [![Cartoon stormy seascape rainfall and lightning by upklyak](./images/2303.w030.n003.652B.p1.652.jpg "Cartoon stormy seascape rainfall and lightning by upklyak")](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm "Cartoon stormy seascape rainfall and lightning by upklyak")
+Los ciclones no son eventos que deberían aparecer aleatoriamente, sino que deberían ser parte de la aventura y deberías tener claro que va a pasar y a que deben enfrentarse tus _hauka_ para superarlo. 
 
 Veamos algunas ideas que puedes aplicar:
 
@@ -677,9 +686,7 @@ Un ciclón puede terminar en el naufragio de la embarcación de tus _hauka_. El 
 
 Si no quieres meter la típica tormenta y quieres algo dramático recuerda que un _tsunami_ podría tener los mismos efectos.
 
-_Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.
-
-## Tecnología
+_Hua Tarakona_ es una zona de gran actividad sísmica y volcánica y tus _hauka_ no deberían extrañarse si tremendas erupciones volcánicas o gigantescos tsunamis hunden su barco.## Tecnología
 La tecnología que van a poder tus _hauka_ en esta ambientación es bastante diferente a la que podrían tener en el manual básico, es por ello que debes tener algunos puntos claros a la hora de decidir a qué objetos pueden acceder y a cuáles no. Aquí tienes algunas sugerencias importantes a la hora de viajar.
 
 **La rueda no está desarrollada**. Los isleños hacen rodar troncos para mover objetos pesados como canoas y catamaranes, pero no lo han aplicado en la creación de carros, en parte debido a la falta de fuertes animales de tiro.
@@ -687,11 +694,10 @@ La tecnología que van a poder tus _hauka_ en esta ambientación es bastante dif
 La **brújula**, tan útil en la navegación, **es una desconocida** para los isleños. Aun así son excelentes navegantes que saben leer y guiarse por las estrellas. También han desarrollado importantes conocimientos meteorológicos que les permiten predecir con exactitud el tiempo.
 
 Han convertido el tejido de las hojas de palma en un arte que les permite crear todo tipo de objetos de tela, desde resistentes velas de barco a cómoda ropa, pasando por fuertes cestas y mochilas.
+
 Las **embarcaciones son totalmente de madera**, ya que como ya hemos dicho en capítulos anteriores, el hierro es escaso y se sabe poco de su forja.
 
-Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.
-
-***
+Por último, las herramientas de **óptica tampoco están disponibles**. No hay ni catalejos, ni lupas y tampoco espejos para hacer señales. Podrían usarse rocas brillantes como cuarzo para hacer señales.***
 
 # Bestiario
 
