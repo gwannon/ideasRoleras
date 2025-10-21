@@ -475,3 +475,4 @@ kupua
 aumakuas
 multimorfas
 drakars
+Pezespada
