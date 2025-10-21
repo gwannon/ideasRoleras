@@ -85,15 +85,15 @@ Les _māhū_ son particularmente respetados como maestres, generalmente de danza
 
 \conc
 
-En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
+El viaje forma parte del espíritu de todo habitante de _Hua Tarakona_ y por lo menos una vez en su vida un isleño hará un gran viaje. Raro es el isleño que no se quede alguna vez mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
 
-Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
+Como ya hemos dicho, **el viaje es algo intrínseco para los humanos** del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y han ido colonizando una a una las principales islas del archipiélago. 
 
 Cuando un individuo **no está a gusto en su comunidad** coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
 
-También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal. XXX
+También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal.
 
-XXX
+Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y muchas de ellas están dispuestas a concederte sus dones. Así que **las peregrinaciones son otra forma de viaje** muy extendida entre las gentes del archipiélago. Viajar al volcán de una isla lejana a pedirle su favor a la diosa del fuego que allí habita es una buena semilla de viaje.
 
 \sinc
 

@@ -52,15 +52,15 @@ _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género
 Les _māhū_ son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
 
 ## Razones para viajar
-En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
+El viaje forma parte del espíritu de todo habitante de _Hua Tarakona_ y por lo menos una vez en su vida un isleño hará un gran viaje. Raro es el isleño que no se quede alguna vez mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
 
-Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
+Como ya hemos dicho, **el viaje es algo intrínseco para los humanos** del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y han ido colonizando una a una las principales islas del archipiélago. 
 
 Cuando un individuo **no está a gusto en su comunidad** coge sus cosas y empieza un viaje en búsqueda de una nueva comunidad en la que establecerse. No se ve mal que alguien de fuera se acerque a una comunidad, es algo normal. Si los tabús de tu antigua comunidad te asfixian, búscate otra donde puedas ser como tú quieras.
 
-También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal. XXX
+También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportunidades**. Y como en el caso anterior tampoco se ve mal.
 
-XXX
+Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y muchas de ellas están dispuestas a concederte sus dones. Así que **las peregrinaciones son otra forma de viaje** muy extendida entre las gentes del archipiélago. Viajar al volcán de una isla lejana a pedirle su favor a la diosa del fuego que allí habita es una buena semilla de viaje.
 
 ## Tabú
 XXX
@@ -717,9 +717,11 @@ Por último, las herramientas de **óptica tampoco están disponibles**. No hay 
 
 El mundo de _Hua Tarakona_ es un mundo peligroso plagado de seres extraños, poderosos y a veces peligrosos y agresivos.
 
-Los monstruos terrestres de esta ambientación no tienen una estación predilecta, ya que casi no hay cambios entre _kau_ (verano) y _hooilo_ (invierno), en su lugar XXX.
+Los monstruos terrestres de esta ambientación **no tienen una estación predilecta**, ya que casi no hay cambios entre _kau_ (verano) y _hooilo_ (invierno). Puedes, si quieres, darles una ventaja parecida a la estación predilecta a ciertos monstruos de carácter elemental, como los kupuas, por el terreno en el que están. 
 
-Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
+Estaríamos hablando, por ejemplo, de los kupuas de fuego en los volcanes, los kupuas plantas y flores en las selvas o los kupuas de agua en mar abierto.
+
+Los monstruos marinos se ven afectados por las mareas, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
 
 Los monstruos de esta ambientación pueden ser terrestres, acuáticos o anfibios. Este dato viene marcado por su tipo.
 
@@ -743,12 +745,14 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nada a gran velocidad.
-* **Terreno habitual:** Playas, ríos navegables y riachuelos 
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Playas, costas, ríos navegables y riachuelos 
+* **Marea:** Según el animal al que se transformen (ver animales más adelante)
+[![Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum](./images/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3.jpg "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3 "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")
 
 ### Kupua de aire
 
 Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
+
 * **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
 * **PM/PG:** X / X
@@ -759,7 +763,6 @@ Pueden transformarse en águilas y halcones de gran tamaño con terribles garras
 * **Defensa:** XXX
 * **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma de ave.
 * **Terreno habitual:** Montañas y acantilados de los litorales
-* **XXX/Marea:** XXX
 
 ### Kupua de Fuego
 
@@ -775,13 +778,10 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 * **Defensa:** XXX
 * **Habilidad especial:** **Lava como sangre.** Son seres de lava y rocas incandescentes, así que son inmunes al fuego y sus ataques hacen XXX extra de daño de fuego.
 * **Terreno habitual:** Volcanes
-* **XXX/Marea:** XXX
 
 ### Kupua de Nube
 
 Pueden convertirse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
-
-[![Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum](./images/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3.jpg "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3 "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")
 
 * **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
@@ -793,7 +793,6 @@ Pueden convertirse en una especie de forma gaseosa o de nube que les hace intang
 * **Defensa:** XXX
 * **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.
 * **Terreno habitual:** Montañas y mar abierto
-* **XXX/Marea:** XXX
 
 ### Kupua plantas
 
@@ -809,14 +808,13 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
-* **Terreno habitual:** Selvas virgenes
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Selvas, selvas virgenes
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 
 ### Kupua de conchas
 
-Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
+Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -827,8 +825,8 @@ Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene u
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Arrecifes, playas
+* **Marea:** XXX
 
 ### Kupua de flores
 
@@ -843,11 +841,10 @@ Podemos considerarlos una subespecie de los kupuas de plantas, ya que están for
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Praderas, selvas, selvas virgenes
 ### Kupua banco de peces
 
-Este kupua no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
+Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -880,7 +877,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** Riachuelos
-* **XXX/Marea:** XXX
 
 ### Gran lagarto
 
@@ -894,7 +890,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** Riachuelos
-* **XXX/Marea:** XXX
 
 ## Nanaue, escualiántropos 
 [![Nanau by Knightkamia](./images/Nanaue.webp "Nanau by Knightkamia")](https://mythus.fandom.com/wiki/Nanaue "Nanau by Knightkamia")

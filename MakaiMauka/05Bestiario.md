@@ -2,9 +2,11 @@
 
 El mundo de _Hua Tarakona_ es un mundo peligroso plagado de seres extraños, poderosos y a veces peligrosos y agresivos.
 
-Los monstruos terrestres de esta ambientación no tienen una estación predilecta, ya que casi no hay cambios entre _kau_ (verano) y _hooilo_ (invierno), en su lugar XXX.
+Los monstruos terrestres de esta ambientación **no tienen una estación predilecta**, ya que casi no hay cambios entre _kau_ (verano) y _hooilo_ (invierno). Puedes, si quieres, darles una ventaja parecida a la estación predilecta a ciertos monstruos de carácter elemental, como los kupuas, por el terreno en el que están. 
 
-Los monstruos marinos se ven afectados por las mareas, en vez de por XXX, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
+Estaríamos hablando, por ejemplo, de los kupuas de fuego en los volcanes, los kupuas plantas y flores en las selvas o los kupuas de agua en mar abierto.
+
+Los monstruos marinos se ven afectados por las mareas, siendo más activos en su marea y obteniendo los beneficios que obtendría un monstruo en su estación.
 
 Los monstruos de esta ambientación pueden ser terrestres, acuáticos o anfibios. Este dato viene marcado por su tipo.
 
@@ -35,14 +37,16 @@ Suelen transformarse en animales marinos como tiburones o mantarrayas. Suelen es
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nada a gran velocidad.
-* **Terreno habitual:** Playas, ríos navegables y riachuelos 
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Playas, costas, ríos navegables y riachuelos 
+* **Marea:** Según el animal al que se transformen (ver animales más adelante)
+
+\sp
+
+[![Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum](./images/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3.jpg "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3 "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")
 
 ### Kupua de aire
 
 Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
-
-\sp
 
 * **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** XXX
@@ -54,7 +58,6 @@ Pueden transformarse en águilas y halcones de gran tamaño con terribles garras
 * **Defensa:** XXX
 * **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma de ave.
 * **Terreno habitual:** Montañas y acantilados de los litorales
-* **XXX/Marea:** XXX
 
 ### Kupua de Fuego
 
@@ -70,13 +73,10 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 * **Defensa:** XXX
 * **Habilidad especial:** **Lava como sangre.** Son seres de lava y rocas incandescentes, así que son inmunes al fuego y sus ataques hacen XXX extra de daño de fuego.
 * **Terreno habitual:** Volcanes
-* **XXX/Marea:** XXX
 
 ### Kupua de Nube
 
 Pueden convertirse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
-
-[![Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum](./images/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3.jpg "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3 "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")
 
 * **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
@@ -88,7 +88,6 @@ Pueden convertirse en una especie de forma gaseosa o de nube que les hace intang
 * **Defensa:** XXX
 * **Habilidad especial:** **Gaseoso.** En su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.
 * **Terreno habitual:** Montañas y mar abierto
-* **XXX/Marea:** XXX
 
 ### Kupua plantas
 
@@ -107,14 +106,13 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
-* **Terreno habitual:** Selvas virgenes
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Selvas, selvas virgenes
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 
 ### Kupua de conchas
 
-Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
+Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -125,8 +123,8 @@ Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene u
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Arrecifes, playas
+* **Marea:** XXX
 
 ### Kupua de flores
 
@@ -141,14 +139,13 @@ Podemos considerarlos una subespecie de los kupuas de plantas, ya que están for
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Terreno habitual:** Praderas, selvas, selvas virgenes
 
 \sp
 
 ### Kupua banco de peces
 
-Este kupua no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
+Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -198,7 +195,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** Riachuelos
-* **XXX/Marea:** XXX
 
 ### Gran lagarto
 
@@ -212,7 +208,6 @@ Según los cuentos, cada moʻos tiene una habilidad excepcional, algo que hacen 
 * **Defensa:** XXX
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** Riachuelos
-* **XXX/Marea:** XXX
 
 \sinc
 
