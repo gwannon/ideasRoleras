@@ -173,7 +173,7 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 
 ### Artistas
 
-Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. XXX
+Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. Los artistas cubren todo el espectro del arte que no cubren los trovadores y que tan importante son para las gentes del archipiélago. Ellos son los que tallan increíbles patrones en tus armas o te tatúan las historias de tu familia en tu cuerpo con tinta y aguja. 
 
 * **Ejemplos de profesiones:** Tatuador, Escultor de _tikis_, Ebanista/Tallador
 * **Ejemplos de acciones:** tatuar, esculpir, tallar madera, decoraciones florales 
@@ -207,7 +207,7 @@ XXX
 
 ### Marino
 
-Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. XXX
+Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. Son fundamentales para los grandes viajes, porque seguramente van a tener que cruzar el mar y nadie lo conoce mejor que ellos.
 
 * **Ejemplos de profesiones:** Pescador, Surfista, Marinero
 * **Ejemplos de acciones:** pescar, nadar, surfear, navegar
