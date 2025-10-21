@@ -21,6 +21,14 @@ Sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de n
 XXX## Cultura y sociedad
 XXX
 
+### Paso del tiempo
+
+XXX
+
+#### Ciclos lunares
+
+XXX
+
 ### Tatuajes
 Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen patrones geométricos y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
 
@@ -41,8 +49,9 @@ No es extrañar llegar a una cala perdida y encontrarse con un círculo de tabla
 ### Māhū
 
 _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género. Se considera que encarnan tanto el espíritu masculino como el femenino.
+Les _māhū_ son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
 
-Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.## Razones para viajar
+## Razones para viajar
 En viaje forma parte del espíritu de todo habitante de _Hua Tarakona_. Sus gentes llevan navegando y colonizando nuevas islas desde época de las ballenas primigenias.
 
 Para empezar, el viaje es algo intrínseco para los humanos del gran archipiélago. Llegaron desde tierras lejanas, ayudados por las ballenas creadoras, y colonizaron una a una las principales islas. No es raro que un isleño se quede mirando al mar preguntándose qué habrá más allá del horizonte y qué aventuras le esperan allí.
@@ -95,7 +104,7 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. XXX
 
 * **Ejemplos de profesiones:** Tatuador, Escultor de _tikis_, Ebanista/Tallador
-* **Ejemplos de acciones:** tatuar, esculpir, tallar madera, 
+* **Ejemplos de acciones:** tatuar, esculpir, tallar madera, decoraciones florales 
 
 #### XXX
 
@@ -770,7 +779,9 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 
 ### Kupua de Nube
 
-Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
+Pueden convertirse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
+
+[![Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum](./images/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3.jpg "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3 "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")
 
 * **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
@@ -787,7 +798,6 @@ Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangible
 ### Kupua plantas
 
 Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidado como eran antes y como destransformarse. Normalmente, juegan malas pasadas a los _hauka_, por ejemplo, con frutos de pinta deliciosa y sabor horrible o robando armas y equipo a los viajeros que acampan cerca. 
-
 Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
 
 * **Nivel/Tipo:** XXX / Terrestre*
@@ -822,7 +832,7 @@ Este kupua está hecho de montones de conchas de moluscos y crustáceos. Tiene u
 
 ### Kupua de flores
 
-Podemos considerarlos una subespecie de los kupuas de plantas, ya que estan formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de formas variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes polenes con efectos narcóticos, veneosos, alucinogenos, etc.
+Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de formas variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
 
 * **Nivel/Tipo:** XXX / XXX
 * **Botín:** XXX
@@ -835,7 +845,6 @@ Podemos considerarlos una subespecie de los kupuas de plantas, ya que estan form
 * **Habilidad especial:** **XXX.** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
-
 ### Kupua banco de peces
 
 Este kupua no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
@@ -850,7 +859,7 @@ Este kupua no se transforma en pez sino en un banco de peces que se mueven como 
 * **Defensa:** XXX
 * **Habilidad especial:** **XXX.** XXX
 * **Terreno habitual:** XXX
-* **XXX/Marea:** XXX
+* **Marea:** XXX
 [![ProjChim: Chimera Forms Close-Up By Dream-Piper](./images/dbd9sj7-173260c7-757c-4190-a54c-dda5ee4a1dd6.jpg "ProjChim: Chimera Forms Close-Up By Dream-Piper")](https://www.deviantart.com/dream-piper/art/ProjChim-Chimera-Forms-Close-Up-687419827 "ProjChim: Chimera Forms Close-Up By Dream-Piper")## Moʻo, espíritu acuático cambiaforma
 Las _moʻos_ son entidades multimorfas y suelen adoptar la forma de reptiles gran tamaño, de humanos y hasta de pequeños gecos. Por eso se les considera a veces como kupuas, pero son veneradas como _aumakuas_ (espíritus familiares). Las más antiguas y poderos suelen tener poderes sobre el clima y el agua. Son anfibias y suelen frecuentar pequeñas masas de agua dulce como estanques, pozas o remansos de los ríos.
 
@@ -1009,9 +1018,7 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
-> Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
-
-***
+> Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. ***
 
 # Epílogo
 ## Planteamiento de las aventuras
@@ -1092,7 +1099,8 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Silueta de niña hawaiana de diseño plano de [freepik](https://www.freepik.es/vector-gratis/silueta-nina-hawaiana-diseno-plano_42112452.htm)
 * Cartoon stormy seascape rainfall and lightning by [upklyak](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm)
 * Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
-* Shark's tooth knife by [Australian Museum](https://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg)***
+* Shark's tooth knife by [Australian Museum](https://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg)
+* Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by [Bernice Pauahi Bishop Museum](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3)***
 Makai Mauka 
 
 «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.

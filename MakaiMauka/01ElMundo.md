@@ -44,6 +44,14 @@ XXX
 
 XXX
 
+### Paso del tiempo
+
+XXX
+
+#### Ciclos lunares
+
+XXX
+
 ### Tatuajes
 Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen patrones geométricos y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
 
@@ -65,11 +73,13 @@ No es extrañar llegar a una cala perdida y encontrarse con un círculo de tabla
 
 _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género. Se considera que encarnan tanto el espíritu masculino como el femenino.
 
-Les māhū son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
-
 \sp
 
+Les _māhū_ son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
+
 \sinc
+
+&nbsp;
 
 ## Razones para viajar
 
@@ -166,7 +176,7 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. XXX
 
 * **Ejemplos de profesiones:** Tatuador, Escultor de _tikis_, Ebanista/Tallador
-* **Ejemplos de acciones:** tatuar, esculpir, tallar madera, 
+* **Ejemplos de acciones:** tatuar, esculpir, tallar madera, decoraciones florales 
 
 #### XXX
 

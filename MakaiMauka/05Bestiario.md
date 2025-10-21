@@ -74,7 +74,9 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 
 ### Kupua de Nube
 
-Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
+Pueden convertirse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
+
+[![Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum](./images/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3.jpg "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3 "Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum")
 
 * **Nivel/Tipo:** XXX / No tienen tipo fijo
 * **Botín:** XXX
@@ -92,6 +94,8 @@ Pueden pasarse en una especie de forma gaseosa o de nube que les hace intangible
 
 Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidado como eran antes y como destransformarse. Normalmente, juegan malas pasadas a los _hauka_, por ejemplo, con frutos de pinta deliciosa y sabor horrible o robando armas y equipo a los viajeros que acampan cerca. 
 
+\sp
+
 Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
 
 * **Nivel/Tipo:** XXX / Terrestre*
@@ -102,9 +106,6 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-
-\sp
-
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
 * **Terreno habitual:** Selvas virgenes
 * **XXX/Marea:** XXX
@@ -142,6 +143,8 @@ Podemos considerarlos una subespecie de los kupuas de plantas, ya que están for
 * **Habilidad especial:** **XXX.** XXX
 * **Terreno habitual:** XXX
 * **XXX/Marea:** XXX
+
+\sp
 
 ### Kupua banco de peces
 
@@ -370,4 +373,6 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 
+\sp
 
+&nbsp;
