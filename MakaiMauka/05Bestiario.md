@@ -106,7 +106,7 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
-* **Terreno habitual:** Selvas, selvas virgenes
+* **Terreno habitual:** Selvas, selvas vírgenes
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 

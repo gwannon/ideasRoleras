@@ -105,11 +105,31 @@ Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y 
 
 XXX
 
+\sp
+
+\sinc
+
+## Aumakuas
+
+\conc
+
+Los _aumakuas_ son espíritus familiares de los ancestros. Son venerados por sus descendientes que les dejan ofredan y pide cosnejo y ayuda en sus problemas cotidianos. Estos si tus acciones son _pono_ (correctas y en armonía con el entorno) te ayudarán y aconsejarán en sueños o te atormentarán en la noche y se te aparecerán en con tus pesadillas.
+
+XXX
+
+### Hoa koholā (Ryuujin)
+
+Los primeros habitantes del archipiélago que vinieron con las ballenas primigenias son los _aumakuas_ más antiguos y poderosos que existen y también son los más venerados. Estos sirven a las ballenas y es por ello que son llamados los _hoa koholā_ (compañaeros de las ballenas).
+
+XXX
+
+> Los _hoa koholā_ son la versión en esta ambientación de los Ryuujin. En principio, toda regla que se aplique a los Ryuujin se aplica a estos poderosos antepasados.
+
 \sinc
 
 &nbsp;
 
-## Aumakuas, kupuas y semidioses
+## Divinidades, semidivinidades y semidioses
 
 \conc
 
@@ -171,7 +191,7 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 
 \conc
 
-### Artistas
+### Artista
 
 Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. Los artistas cubren todo el espectro del arte que no cubren los trovadores y que tan importante son para las gentes del archipiélago. Ellos son los que tallan increíbles patrones en tus armas o te tatúan las historias de tu familia en tu cuerpo con tinta y aguja. 
 
@@ -205,14 +225,14 @@ XXX
 * **Características:** XXX
 * **Número objetivo:** XXX
 
+\sp
+
 ### Marino
 
 Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. Son fundamentales para los grandes viajes, porque seguramente van a tener que cruzar el mar y nadie lo conoce mejor que ellos.
 
 * **Ejemplos de profesiones:** Pescador, Surfista, Marinero
 * **Ejemplos de acciones:** pescar, nadar, surfear, navegar
-
-\sp
 
 #### Agua salada en tus venas
 
@@ -234,3 +254,7 @@ Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marin
 * **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados. Se necesita algún tipo de útil de pesca.
 * **Características:** DES+INT
 * **Número objetivo:** Topografía
+
+\sp
+
+&nbsp;

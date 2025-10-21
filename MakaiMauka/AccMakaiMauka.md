@@ -63,9 +63,20 @@ También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportu
 Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y muchas de ellas están dispuestas a concederte sus dones. Así que **las peregrinaciones son otra forma de viaje** muy extendida entre las gentes del archipiélago. Viajar al volcán de una isla lejana a pedirle su favor a la diosa del fuego que allí habita es una buena semilla de viaje.
 
 ## Tabú
+XXX## Aumakuas
+Los _aumakuas_ son espíritus familiares de los ancestros. Son venerados por sus descendientes que les dejan ofredan y pide cosnejo y ayuda en sus problemas cotidianos. Estos si tus acciones son _pono_ (correctas y en armonía con el entorno) te ayudarán y aconsejarán en sueños o te atormentarán en la noche y se te aparecerán en con tus pesadillas.
+
 XXX
 
-## Aumakuas, kupuas y semidioses
+### Hoa koholā (Ryuujin)
+
+Los primeros habitantes del archipiélago que vinieron con las ballenas primigenias son los _aumakuas_ más antiguos y poderosos que existen y también son los más venerados. Estos sirven a las ballenas y es por ello que son llamados los _hoa koholā_ (compañaeros de las ballenas).
+
+XXX
+
+> Los _hoa koholā_ son la versión en esta ambientación de los Ryuujin. En principio, toda regla que se aplique a los Ryuujin se aplica a estos poderosos antepasados.
+
+## Divinidades, semidivinidades y semidioses
 XXX## Términos
 Una manera de entrar en el mundo de _Hua Tarakona_ es usar sus palabras. Es por ello que aquí tienes unos cuantos términos que podrías usar en tus partidas tanto de director como jugador.
 
@@ -99,7 +110,7 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 |**Artesano**|Carpintero, Carpintero naval, Tejedor de hoja de palma|talar, vaciar troncos, trenzar hojas, XXX|
 |**Noble**|XXX|XXX|
 
-### Artistas
+### Artista
 
 Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. Los artistas cubren todo el espectro del arte que no cubren los trovadores y que tan importante son para las gentes del archipiélago. Ellos son los que tallan increíbles patrones en tus armas o te tatúan las historias de tu familia en tu cuerpo con tinta y aguja. 
 
@@ -132,13 +143,13 @@ XXX
 * **Prerrequisitos:** XXX
 * **Características:** XXX
 * **Número objetivo:** XXX
-
 ### Marino
 
 Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. Son fundamentales para los grandes viajes, porque seguramente van a tener que cruzar el mar y nadie lo conoce mejor que ellos.
 
 * **Ejemplos de profesiones:** Pescador, Surfista, Marinero
 * **Ejemplos de acciones:** pescar, nadar, surfear, navegar
+
 #### Agua salada en tus venas
 
 El mar es parte de tu vida y el agua salada corre por tus venas.
@@ -808,7 +819,7 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos para atrapar a sus víctimas y asfixiarlos XXX
-* **Terreno habitual:** Selvas, selvas virgenes
+* **Terreno habitual:** Selvas, selvas vírgenes
 
 _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
 
