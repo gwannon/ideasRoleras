@@ -117,7 +117,7 @@ _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pu
 Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
 * **Nivel/Tipo:** XXX / XXX
-* **Botín:** Nacar para hacer incrustaciones (3000 mo)
+* **Botín:** Nácar para hacer incrustaciones (3000 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -310,6 +310,9 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 * **Terreno habitual:** XXX
 * **Marea:** XXX
 
+
+[![Stingray with its silhouette on transparent by brgfx](./images/19598076.png "Stingray with its silhouette on transparent by brgfx")](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm "Stingray with its silhouette on transparent by brgfx")
+
 ### Mantarraya
 
 Estos increíbles peces emparentados con los tiburones se caracterizan por su extraña forma aplanada y su cola con un aguijón venenoso. 
@@ -344,9 +347,9 @@ No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar nocturna
 
-\sinc
+\sp
 
-&nbsp;
+\sinc
 
 ## Monstruos del manual básico
 
@@ -356,8 +359,6 @@ Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hu
 
 * Casi todas las plantas fantasma pueden ser usadas con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
 * Los _piedremonios Moai_, podrían tener forma de tótem _tiki_ en vez de caras de la isla de Pascua.
-
-\sp
 
 Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
 
@@ -373,9 +374,11 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 
+\sp
+
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. 
 
-\sp
+\sc
 
 &nbsp;

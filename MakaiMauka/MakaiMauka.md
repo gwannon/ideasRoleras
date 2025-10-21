@@ -118,7 +118,7 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
 * Shark's tooth knife by [Australian Museum](https://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg)
 * Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by [Bernice Pauahi Bishop Museum](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3)
-
+* Stingray with its silhouette on transparent by [brgfx](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm)
 
 ***
 

@@ -126,23 +126,24 @@ XXX
 * **Características:** XXX
 * **Número objetivo:** XXX
 
-#### XXX
+#### Tasación
 
-XXX
+Para desarrollar tu arte has tenido que estudiar las expresiones artísticas de otras personas, tanto de tu isla como de otras y sabes entenderlas, reconocerlas y tasarlas adecuadamente. 
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+* **Efecto de la Habilidad:** Puedes obtener información adicional sobre objetos artísticos, tanto modernos como antiguos. Podrías recordar que un intrincado tallado pertenece a los artesanos de determinada isla o reconocer quien ha hecho un tatuaje. 
+* **Prerrequisitos:** Poder examinar de cerca el tallado, el tatuaje, el tejido, etc.
+* **Características:** INT+ESP
+* **Número objetivo:** A elección del DJ
 
-#### XXX
+#### Buscar materiales
 
-XXX
+Sabes cómo encontrar materiales útiles para desarrollar tus obras artísticas. Puedes salir en busca de materiales por la mañana temprano, una vez al día. Si tienes éxito al usar esta Habilidad obtienes una gran cantidad de materiales típicos del Terreno. Los materiales van a ocupar mucho espacio y vas a tener que llevarlo contigo si vas a querer usarlo.
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+* **Efecto de la Habilidad:** Consigues materiales para hacer obras de arte con un tamaño igual al resultado de la tirada – número objetivo, pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** permite hacer objetos hermosos con ese material y **pifia** te da una condición (Cansado 6).
+* **Prerrequisitos:** Por la mañana, antes de la tirada de Movimiento, una vez al día
+* **Características:** FUE+ INT
+* **Número objetivo:** Topografía
+
 ### Marino
 
 Este arquetipo abarca todo tipo de personajes cuya vida está ligada al mar. Son fundamentales para los grandes viajes, porque seguramente van a tener que cruzar el mar y nadie lo conoce mejor que ellos.
@@ -161,15 +162,17 @@ El mar es parte de tu vida y el agua salada corre por tus venas.
 Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estás en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos. Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
 
 * **Efecto de la Habilidad:** Permite que tus animales sean acuáticos y te permite tener un animal acuático extra de un total de 2.
-
 #### Pescar
 
 Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marinos. Puedes usar esta Habilidad justo antes de una tirada de Acampada/Fondear. Sin embargo, si decides pararte a sacar tu red de pesca o de sumergirte con tu tridente, no puedes ayudar a montar el campamento o fondear la embarcación. Cuanto más alto sea el resultado, más piezas pescas.
 
 * **Efecto de la Habilidad:** Consigues un número de raciones igual a (resultado de la tirada – número objetivo), pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** las hace sabrosas y **pifia** te da una condición (Cansado 6).
 * **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados. Se necesita algún tipo de útil de pesca.
+
 * **Características:** DES+INT
-* **Número objetivo:** Topografía***
+* **Número objetivo:** Topografía
+
+***
 
 # Equipo
 
@@ -830,7 +833,7 @@ _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pu
 Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
 * **Nivel/Tipo:** XXX / XXX
-* **Botín:** Nacar para hacer incrustaciones (3000 mo)
+* **Botín:** Nácar para hacer incrustaciones (3000 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
 * **Salud:** XXX
@@ -973,7 +976,7 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** XXX
-* **Marea:** XXX
+* **Marea:** XXX[![Stingray with its silhouette on transparent by brgfx](./images/19598076.png "Stingray with its silhouette on transparent by brgfx")](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm "Stingray with its silhouette on transparent by brgfx")
 
 ### Mantarraya
 
@@ -1007,9 +1010,7 @@ No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se
 * **Defensa:** XXX
 * **Habilidad especial:** XXX
 * **Terreno habitual:** Costa y arrecifes
-* **Marea:** Pleamar nocturna
-
-## Monstruos del manual básico
+* **Marea:** Pleamar nocturna## Monstruos del manual básico
 
  
 
@@ -1017,6 +1018,7 @@ Puedes usar los monstruos del manual básico de Ryuutama en tus aventuras en _Hu
 
 * Casi todas las plantas fantasma pueden ser usadas con pequeñas modificaciones en las junglas de _Hua Tarakona_, sobre todo en las zonas de selva virgen. Quizas la rosa tiránica puede convertirse en una rafflesia tiránica.
 * Los _piedremonios Moai_, podrían tener forma de tótem _tiki_ en vez de caras de la isla de Pascua.
+
 Los **animales de este mundo no son grandes enemigos** a no ser que sean acuáticos. No hay lobos, ni osos, ni tigres. El animal terrestre más peligroso es el jabalí. La cosa cambia cuando entramos en el agua donde tenemos peligrosas bestias.
 
 Para los **PNJ como ladrones de camino, caballeros, milicianos, etc.** debes recordar a la hora de describirlos que no deberían portar útiles, armas y armaduras de metal.
@@ -1030,7 +1032,6 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 * La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como Hina-ika, madre de Maui, o simplemente **sirenas**.
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
-
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
 > Puede haber sin problemas, por ejemplo, una isla donde encalló un barco vikingo y donde estos han sobrevivido desde hace siglos aislados del resto del mundo y que ahora salgan a atacar y saquear a otras islas en sus _drakars_. ***
 
@@ -1114,7 +1115,10 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Cartoon stormy seascape rainfall and lightning by [upklyak](https://www.freepik.com/free-vector/cartoon-stormy-seascape-rainfall-lightning_45244395.htm)
 * Hand drawn tropical sunset background by [freepik](https://www.freepik.com/free-vector/hand-drawn-tropical-sunset-background_58569823.htm)
 * Shark's tooth knife by [Australian Museum](https://commons.wikimedia.org/wiki/File:H000111-_Shark%27s_tooth_knife.jpg)
-* Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by [Bernice Pauahi Bishop Museum](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3)***
+* Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by [Bernice Pauahi Bishop Museum](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3)
+* Stingray with its silhouette on transparent by [brgfx](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm)
+
+***
 Makai Mauka 
 
 «Makai Mauka» es una ambientación para el juego de rol Ryuutama basado en los mitos y leyendas de las islas de la polinesia.

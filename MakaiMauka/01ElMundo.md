@@ -207,25 +207,26 @@ XXX
 * **Características:** XXX
 * **Número objetivo:** XXX
 
-#### XXX
+#### Tasación
 
-XXX
+Para desarrollar tu arte has tenido que estudiar las expresiones artísticas de otras personas, tanto de tu isla como de otras y sabes entenderlas, reconocerlas y tasarlas adecuadamente. 
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
-
-#### XXX
-
-XXX
-
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+* **Efecto de la Habilidad:** Puedes obtener información adicional sobre objetos artísticos, tanto modernos como antiguos. Podrías recordar que un intrincado tallado pertenece a los artesanos de determinada isla o reconocer quien ha hecho un tatuaje. 
 
 \sp
+
+* **Prerrequisitos:** Poder examinar de cerca el tallado, el tatuaje, el tejido, etc.
+* **Características:** INT+ESP
+* **Número objetivo:** A elección del DJ
+
+#### Buscar materiales
+
+Sabes cómo encontrar materiales útiles para desarrollar tus obras artísticas. Puedes salir en busca de materiales por la mañana temprano, una vez al día. Si tienes éxito al usar esta Habilidad obtienes una gran cantidad de materiales típicos del Terreno. Los materiales van a ocupar mucho espacio y vas a tener que llevarlo contigo si vas a querer usarlo.
+
+* **Efecto de la Habilidad:** Consigues materiales para hacer obras de arte con un tamaño igual al resultado de la tirada – número objetivo, pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** permite hacer objetos hermosos con ese material y **pifia** te da una condición (Cansado 6).
+* **Prerrequisitos:** Por la mañana, antes de la tirada de Movimiento, una vez al día
+* **Características:** FUE+ INT
+* **Número objetivo:** Topografía
 
 ### Marino
 
@@ -246,15 +247,18 @@ Has interactuado durante mucho tiempo animales marino y has podido adiestrar a u
 
 * **Efecto de la Habilidad:** Permite que tus animales sean acuáticos y te permite tener un animal acuático extra de un total de 2.
 
+\sp
+
 #### Pescar
 
 Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marinos. Puedes usar esta Habilidad justo antes de una tirada de Acampada/Fondear. Sin embargo, si decides pararte a sacar tu red de pesca o de sumergirte con tu tridente, no puedes ayudar a montar el campamento o fondear la embarcación. Cuanto más alto sea el resultado, más piezas pescas.
 
 * **Efecto de la Habilidad:** Consigues un número de raciones igual a (resultado de la tirada – número objetivo), pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** las hace sabrosas y **pifia** te da una condición (Cansado 6).
 * **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados. Se necesita algún tipo de útil de pesca.
+
 * **Características:** DES+INT
 * **Número objetivo:** Topografía
 
-\sp
+\sc
 
 &nbsp;

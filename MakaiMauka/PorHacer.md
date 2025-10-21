@@ -44,14 +44,14 @@ XXX
 * **Características:** XXX
 * **Número objetivo:** XXX
 
-#### XXX
+#### Tasación
 
-XXX
+Para desarrollar tu arte has tenido que estudiar las expresiones artísticas de otras personas, tanto de tu isla como de otras y sabes entenderlas, reconocerlas y tasarlas adecuadamente. 
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+* **Efecto de la Habilidad:** Puedes obtener información adicional sobre objetos artísticos, tanto modernos como antiguos. Podrías recordar que un intrincado tallado pertenece a los artesanos de determinada isla o reconocer quien ha hecho un tatuaje. 
+* **Prerrequisitos:** Poder examinar de cerca el tallado, el tatuaje, el tejido, etc.
+* **Características:** INT+ESP
+* **Número objetivo:** A elección del DJ
 
 #### XXX
 
