@@ -61,9 +61,6 @@ Las seis almenaras de Penumbra sirven como una guía para que los muertos vivien
 ### Descansar y fatiga
 
 Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue. En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
-
-\sp
-
 ### Combatir Maldiciones
 
 Al buscar tesoros, puedes encontrarte con Maldiciones. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra una Maldición. Cuando el número de cartas de la pila sea igual a la vitalidad de la Maldición, esta se desvanece y perece. Si huyes de una Maldición, las cartas apiladas se mantienen hasta el próximo encuentro.
@@ -134,9 +131,6 @@ Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 s
 ### Tablas generadoras
 
 XXX
-
-\sc
-
 # En el Hades
 
 Has bajado al Hades a rescatar al amor de tu vida, pero esa persona no te recuerda. Antes de poder salir del Más Allá con tu alma gemela debes recuperar todos los recuerdos importantes que tenía de ti. En tus andanzas serás acosado por demonios y otros seres del inframundo.
