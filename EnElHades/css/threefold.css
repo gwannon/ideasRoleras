@@ -32,13 +32,13 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 12.5px;
+  font-size: 12px;
   background-color: var(--background-color);
   color: var(--main-color);
 }
 
 * {
-  margin: 0;
+  margin: 0 0 5.5px 0;
   padding: 0;
 }
 
@@ -56,6 +56,12 @@ h4 {
 ul li {
   margin-bottom: 3px;
   margin-left: 18px;
+}
+
+/* -------------- TABLAS -------------- */
+
+table {
+  font-size: 10px;
 }
 
 /* -------------- COLUMNAS -------------- */

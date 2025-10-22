@@ -4,23 +4,23 @@
 
 Para jugar, necesitarás lo siguiente:
 
-* Una baraja de póker sin comodines. Te ayudará a guiar la historia y los desafíos. Es tu mazo de aventura. Después de sacar cartas, las descartas.
+* Una baraja de póker sin comodines. Te ayudará a guiar la historia y los desafíos. Es tu **mazo de aventura**. Después de sacar cartas, las descartas.
 * 2 dados de 6 caras. Los usarás para realizar acciones dentro de la ficción y obtener respuestas acerca del mundo. Son tus dados de acción.
 * Un cuaderno que te servirá como tu diario de viaje, donde escribir registrar tu historia.
 * Tarjetas índice, tiras de papel o pósits.
 * Un token cualquiera o una miniatura que represente a tu personaje para colocarlo sobre las cartas con las que crearás el mapa del mundo.
 
-### Iniciar la Partida
+Baraja tu mazo de aventura y colócalo junto a los dados de acción, el diario de viaje y el resto de materiales.
 
-Asegúrate de disponer de un par de horas libres y un poco de espacio sobre una superficie plana. Baraja tu mazo de aventura y colócalo junto a los dados de acción, el diario de viaje y el resto de materiales.
-
-### Crear tu Firelight
+### Crear tu XXX
 
 Elige un nombre y los pronombres con los que te identificas. Tu personaje puede encarar los desafíos con tres estilos o maneras de abordar la situación. Asigna al primer estilo +2, al segundo +1 y al tercero 0.
 
 ### Perseguir tu objetivo
 
-Mientras los de tu especie iban desapareciendo, gigantescas entidades sombrías, llamadas Maldiciones, surgieron por todo el mundo. Corrompían lo que tocaban y consiguieron extinguir las almenaras, impidiendo que los difuntos cruzaran el Velo. Eres el último de los FIRELIGHTS, un ser antropomorfo, el único capaz de encender de nuevo las seis almenaras, derrotar a las Maldiciones y hacer que los muertos atraviesen el Velo al fin.
+Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Hades ha aceptado tus dones, tus promesas o tus alagos y te ha devuelto a tu amor perdido, pero hay trampa, esa persona no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
+
+Antes de poder salir del Más Allá con tu alma gemela debes adentrarte en el sombrío mundo de los muertos con tu antorcha que te ha entregado una _lámpade_, una ninfa del Hades, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
 
 ### Realizar acciones
 
@@ -54,24 +54,30 @@ Para saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara
 
 Haz tiradas en las tablas generadoras, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribir una entrada en tu diario por cada región.
 
-### Encendiendo las seis almenaras
+### Recuperando los recuerdos
 
-Las seis almenaras de Penumbra sirven como una guía para que los muertos vivientes alcancen el Velo. Todavía, estas continúan emitiendo un sutil humo místico. Para ubicar las almenaras, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
+Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
 
 ### Descansar y fatiga
 
-Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue. En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
+Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
+
+En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
+
+### Combatir _démones_
+
+Al buscar tesoros, puedes encontrarte con _démones_. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra un _demon_. 
+
+Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
+Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
+
+* **XXX (VIT 5):** XXX. Las cartas rojas (♦♥) valen el doble al ser apiladas.
+* **XXX (VIT 8):** XXX. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
+* **XXX (VIT 8):** XXX. Las picas (♠) valen el doble al ser apiladas.
 
 \sp
 
-### Combatir Maldiciones
-
-Al buscar tesoros, puedes encontrarte con Maldiciones. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra una Maldición. Cuando el número de cartas de la pila sea igual a la vitalidad de la Maldición, esta se desvanece y perece. Si huyes de una Maldición, las cartas apiladas se mantienen hasta el próximo encuentro.
-
-* **Calamidad (vitalidad 5):** Una araña tejedora de la niebla, que ataca con gases tóxicos. Las cartas rojas (♦♥) valen el doble al ser apiladas.
-* **Aullador (8 cartas):** Un ser sombrío de fuego con un aullido devastador, que deja cenizas a su paso. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
-* **Devorador (8 cartas):** Un gusano de ojos brillantes como rubíes. Cuando ataca, devora todo lo que encuentra a su paso. Las picas (♠) valen el doble al ser apiladas.
-* **Desgarradora (13 cartas):** Un ave de huesos, rápida y mortal. Los corazones (♥) valen el doble al ser apilados.
+* **XXX (VIT 13):** XXX. Los corazones (♥) valen el doble al ser apilados.
 
 ## LAS ACCIONES
 
@@ -83,17 +89,17 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 * Con **Penumbra**, tienes un éxito parcial.
 * Con **Oscuridad**, tienes un contratiempo, marca **1 fatiga**.
 
-### Buscar tesoros
+### Buscar manzanas doradas
 
-Cuando buscas algo perdido, acción + estilo.
+Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y XXX. Cuando buscas manzanas doradas, acción + estilo.
 
-* Con **Luz**, hay **2 tesoros**.
-* Con **Penumbra**, hay **1 tesoro**.
-* Con **Oscuridad**, hay una **Maldición**, marca **1 fatiga**.
+* Con **Luz**, hay **2 manzanas**.
+* Con **Penumbra**, hay **1 manzana**.
+* Con **Oscuridad**, hay un **_demon_**, marca **1 fatiga**.
 
 ### Comprar información
 
-Puedes intercambiar tesoros por conocimiento. Determina la cantidad de tesoros que vas a pagar y acción + tesoros.
+Puedes intercambiar manzanas doradas por conocimiento con las almas y los habitantes XXX del inframundo. Determina la cantidad de manzanas que vas a pagar y acción + manzanas.
 
 * Con **Luz**, logras información detallada
 * Con **Penumbra**, logras información incompleta.
@@ -107,12 +113,14 @@ Cuando buscas un nuevo camino, acción + estilo.
 * Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
 * Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 fatiga**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
 
-### Luchar contra una Maldición
+\sc
 
-Cuando te enfrentas a una Maldición, acción + estilo. Repite hasta que el número de cartas apiladas sea igual que su Vitalidad.
+### Luchar contra un _demon_
 
-* Con **Luz**, apila las 2 cartas reveladas contra la Maldición.
-* Con **Penumbra**, apila 1 de las cartas reveladas contra la Maldición.
+Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número de cartas apiladas sea igual que su Vitalidad.
+
+* Con **Luz**, apila las 2 cartas reveladas contra el _demon_.
+* Con **Penumbra**, apila 1 de las cartas reveladas contra el _demon_.
 * Con **Oscuridad**, haz la acción Evadir el peligro.
 
 ### Evadir el Peligro
@@ -127,19 +135,36 @@ Cuando evites una amenaza inminente, acción + estilo.
 
 Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 si es improbable; acción + 1 si la probabilidad es equitativa.
 
-* Con **Luz**, la respuesta es **“Sí, y...”**.
-* Con **Penumbra**, la respuesta es **“Sí, pero...”**.
-* Con **Oscuridad**, la respuesta es **“No, y...”**.
+* Con **Luz**, la respuesta es **“Sí, y…”**.
+* Con **Penumbra**, la respuesta es **“Sí, pero…”**.
+* Con **Oscuridad**, la respuesta es **“No, y…”**.
 
 ### Tablas generadoras
 
-XXX
+|d66|XXX|d66|XXX|
+|---|---|---|---|
+|11|XXX|41|XXX|
+|12|XXX|42|XXX|
+|13|XXX|43|XXX|
+|14|XXX|44|XXX|
+|15|XXX|45|XXX|
+|16|XXX|46|XXX|
+|21|XXX|51|XXX|
+|22|XXX|52|XXX|
+|23|XXX|53|XXX|
+|24|XXX|54|XXX|
+|25|XXX|55|XXX|
+|26|XXX|56|XXX|
+|31|XXX|61|XXX|
+|32|XXX|62|XXX|
+|33|XXX|63|XXX|
+|34|XXX|64|XXX|
+|35|XXX|65|XXX|
+|36|XXX|66|XXX|
 
 \sc
 
 # En el Hades
-
-Has bajado al Hades a rescatar al amor de tu vida, pero esa persona no te recuerda. Antes de poder salir del Más Allá con tu alma gemela debes recuperar todos los recuerdos importantes que tenía de ti. En tus andanzas serás acosado por demonios y otros seres del inframundo.
 
 ## Licencia
 
