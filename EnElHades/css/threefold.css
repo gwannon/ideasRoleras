@@ -37,9 +37,29 @@ body {
   color: var(--main-color);
 }
 
+body:before,
+body:after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: calc(33.33% - 1px);
+  width: 1px;
+  height: 100vh;
+  border-left: 1px dashed var(--main-color);
+}
+
+body:after {
+  left: calc(66.66% - 1px);
+}
+
 * {
   margin: 0 0 5.5px 0;
   padding: 0;
+}
+
+a,
+a:visited {
+  color: var(--main-color);
 }
 
 /* -------------- TITULOS -------------- */
@@ -68,8 +88,8 @@ table {
 
 .columns {
   columns: 3;
-  column-gap: 40px;
-  padding: 40px
+  column-gap: 60px;
+  padding: 35px
 }
 
 .saltocolumna {

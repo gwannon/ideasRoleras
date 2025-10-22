@@ -1,6 +1,4 @@
-## LO BÁSICO
-
-### Preparar todo para Jugar
+## PREPARAR TODO PARA JUGAR
 
 Para jugar, necesitarás lo siguiente:
 
@@ -15,12 +13,6 @@ Baraja tu mazo de aventura y colócalo junto a los dados de acción, el diario d
 ### Crear tu XXX
 
 Elige un nombre y los pronombres con los que te identificas. Tu personaje puede encarar los desafíos con tres estilos o maneras de abordar la situación. Asigna al primer estilo +2, al segundo +1 y al tercero 0.
-
-### Perseguir tu objetivo
-
-Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Hades ha aceptado tus dones, tus promesas o tus alagos y te ha devuelto a tu amor perdido, pero hay trampa, esa persona no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
-
-Antes de poder salir del Más Allá con tu alma gemela debes adentrarte en el sombrío mundo de los muertos con tu antorcha que te ha entregado una _lámpade_, una ninfa del Hades, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
 
 ### Realizar acciones
 
@@ -85,7 +77,6 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 * Con **Luz**, tienes un éxito total.
 * Con **Penumbra**, tienes un éxito parcial.
 * Con **Oscuridad**, tienes un contratiempo, marca **1 fatiga**.
-
 ### Buscar manzanas doradas
 
 Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y XXX. Cuando buscas manzanas doradas, acción + estilo.
@@ -109,6 +100,7 @@ Cuando buscas un nuevo camino, acción + estilo.
 * Con **Luz**, añade las 2 cartas reveladas a tu mapa.
 * Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
 * Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 fatiga**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
+
 ### Luchar contra un _demon_
 
 Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número de cartas apiladas sea igual que su Vitalidad.
@@ -133,30 +125,42 @@ Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 s
 * Con **Penumbra**, la respuesta es **“Sí, pero…”**.
 * Con **Oscuridad**, la respuesta es **“No, y…”**.
 
+### Nombres
+
+Si en algún momento alguien te preguntas por el nombre de tu amor y no te acuerdas, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que irte del inframundo.
+
+Si en algún momento te preguntan tu nombre y no lo recuerdas te quedarás atrapado en los dominios de Hades para toda la eternidad.
+
 ### Tablas generadoras
 
-|d66|XXX|d66|XXX|
-|---|---|---|---|
-|11|XXX|41|XXX|
-|12|XXX|42|XXX|
-|13|XXX|43|XXX|
-|14|XXX|44|XXX|
-|15|XXX|45|XXX|
-|16|XXX|46|XXX|
-|21|XXX|51|XXX|
-|22|XXX|52|XXX|
-|23|XXX|53|XXX|
-|24|XXX|54|XXX|
-|25|XXX|55|XXX|
-|26|XXX|56|XXX|
-|31|XXX|61|XXX|
-|32|XXX|62|XXX|
-|33|XXX|63|XXX|
-|34|XXX|64|XXX|
-|35|XXX|65|XXX|
-|36|XXX|66|XXX|
+El Hades se divide en 3 zonas:
+
+* **El Elíseo,** el paraíso de los héroes
+* **Los campos de asfódelos,** el lugar de las almas normales
+* **El Tártaro,** el infierno de los malvados
+
+|d66|XXX|d66|XXX|d66|XXX|
+|---|---|---|---|---|---|
+|11|XXX|31|XXX|51|XXX|
+|12|XXX|32|XXX|52|XXX|
+|13|XXX|33|XXX|53|XXX|
+|14|XXX|34|XXX|54|XXX|
+|15|XXX|35|XXX|55|XXX|
+|16|XXX|36|XXX|56|XXX|
+|21|XXX|41|XXX|61|XXX|
+|22|XXX|42|XXX|62|XXX|
+|23|XXX|43|XXX|63|XXX|
+|24|XXX|44|XXX|64|XXX|
+|25|XXX|45|XXX|65|XXX|
+|26|XXX|46|XXX|66|XXX|
 # En el Hades
+
+## Tu historia hasta ahora …
+
+Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Hades ha aceptado tus dones, tus promesas o tus alagos y te ha devuelto a tu amor perdido, pero hay trampa, esa persona no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
+
+Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Hades, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
 
 ## Licencia
 
-Este trabajo se basa en Firelights, una creación de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
+> Este trabajo se basa en Firelights, una creación de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
