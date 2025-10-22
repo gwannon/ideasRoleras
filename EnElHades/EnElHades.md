@@ -83,7 +83,7 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 
 * Con **Luz**, tienes un éxito total.
 * Con **Penumbra**, tienes un éxito parcial.
-* Con **Oscuridad**, tienes un contratiempo, marca 1 fatiga.
+* Con **Oscuridad**, tienes un contratiempo, marca **1 fatiga**.
 
 ### Buscar tesoros
 
@@ -91,7 +91,7 @@ Cuando buscas algo perdido, acción + estilo.
 
 * Con **Luz**, hay 2 tesoros.
 * Con **Penumbra**, hay 1 tesoro.
-* Con **Oscuridad**, hay una Maldición, marca 1 fatiga.
+* Con **Oscuridad**, hay una Maldición, marca **1 fatiga**.
 
 ### Comprar información
 
@@ -107,7 +107,7 @@ Cuando buscas un nuevo camino, acción + estilo.
 
 * Con **Luz**, añade las 2 cartas reveladas a tu mapa.
 * Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
-* Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca 1 fatiga. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
+* Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 fatiga**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
 
 ### Luchar contra una Maldición
 
@@ -122,16 +122,16 @@ Cuando te enfrentas a una Maldición, acción + estilo. Repite hasta que el núm
 Cuando evites una amenaza inminente, acción + estilo.
 
 * Con **Luz**, evitas el peligro.
-* Con **Penumbra**, marca 1 fatiga.
-* Con **Oscuridad**, marca 2 fatiga.
+* Con **Penumbra**, marca **1 fatiga**.
+* Con **Oscuridad**, marca **2 fatiga**.
 
 ### Conseguir una respuesta del oráculo
 
 Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 si es improbable; acción + 1 si la probabilidad es equitativa.
 
-* Con **Luz**, la respuesta es “Sí, y...”.
-* Con **Penumbra**, la respuesta es “Sí, pero...”.
-* Con **Oscuridad**, la respuesta es “No, y...”.
+* Con **Luz**, la respuesta es **“Sí, y...”**.
+* Con **Penumbra**, la respuesta es **“Sí, pero...”**.
+* Con **Oscuridad**, la respuesta es **“No, y...”**.
 
 ### Tablas generadoras
 
