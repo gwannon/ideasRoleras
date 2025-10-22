@@ -1,6 +1,6 @@
 # En el Hades
 
-Has bajado al Hades a rescatar al amor de tu vida, pero esa persona no te recuerda. Antes de poder salir del Más Allá con tú alma gemela debes recuperar todos los recuerdos importantes que tenia de tí. En tus andanzas serás acosados por demonios y otros seres del inframundo.
+Has bajado al Hades a rescatar al amor de tu vida, pero esa persona no te recuerda. Antes de poder salir del Más Allá con tu alma gemela debes recuperar todos los recuerdos importantes que tenía de ti. En tus andanzas serás acosado por demonios y otros seres del inframundo.
 
 ## LO BÁSICO
 
