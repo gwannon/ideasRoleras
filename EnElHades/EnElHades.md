@@ -89,9 +89,9 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 
 Cuando buscas algo perdido, acción + estilo.
 
-* Con **Luz**, hay 2 tesoros.
-* Con **Penumbra**, hay 1 tesoro.
-* Con **Oscuridad**, hay una Maldición, marca **1 fatiga**.
+* Con **Luz**, hay **2 tesoros**.
+* Con **Penumbra**, hay **1 tesoro**.
+* Con **Oscuridad**, hay una **Maldición**, marca **1 fatiga**.
 
 ### Comprar información
 
