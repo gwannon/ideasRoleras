@@ -32,7 +32,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 11px;
+  font-size: 10px;
   background-color: var(--background-color);
   color: var(--main-color);
 }
@@ -92,6 +92,11 @@ h1 {
   text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);
 }
 
+h4 {
+  font-size: 1.8em;
+  text-align: center;
+}
+
 /* -------------- TEXTOS -------------- */
 
 ul li {
@@ -118,7 +123,7 @@ table tr:nth-child(even) {
 
 table td,
 table th {
-  padding: 3px;
+  padding: 2px;
 }
 
 /* -------------- COLUMNAS -------------- */

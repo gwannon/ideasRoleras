@@ -36,12 +36,13 @@ Al realizar una acción, sigue estos pasos:
 * Haz una tirada con los 2 dados de acción y suma el valor de ambos.
 * Añade cualquier modificador para obtener tu resultado.
 
-\sc
-
 Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acción te indique usarlas:
 
 * Si tu resultado es **mayor que la suma del valor de ambas cartas**, hay **Luz**.
 * Si tu resultado es **mayor que el valor de una de las cartas**, hay **Penumbra**.
+
+\sc
+
 * De lo contrario, hay **Oscuridad**.
 
 El as vale 1; la sota (J), 11; la reina (Q), 12; y el rey (K), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
@@ -67,8 +68,6 @@ Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es 
 
 Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
 
-\sc
-
 En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
 
 ### Combatir _démones_
@@ -77,11 +76,12 @@ Al buscar manzanas doradas, puedes encontrarte con _démones_. Para combatirlas,
 
 Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
+\sc
 
 * **XXX (VIT 5):** XXX. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **XXX (VIT 8):** XXX. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
 * **XXX (VIT 8):** XXX. Las picas (♠) valen el doble al ser apiladas.
-* **XXX (VIT 13):** XXX. Los corazones (♥) valen el doble al ser apilados.
+* **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
 
 ## LAS ACCIONES
 
@@ -109,8 +109,6 @@ Puedes intercambiar manzanas doradas por conocimiento con las almas en pena y lo
 * Con **Penumbra**, logras información incompleta.
 * Con **Oscuridad**, logras información ambigua.
 
-\sp
-
 ### Descubrir una región
 
 Cuando buscas un nuevo camino, acción + estilo.
@@ -127,6 +125,8 @@ Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número 
 * Con **Luz**, apila las 2 cartas reveladas contra el _demon_.
 * Con **Penumbra**, apila 1 de las cartas reveladas contra el _demon_.
 * Con **Oscuridad**, haz la acción Evadir el peligro.
+
+\sp
 
 ### Evadir el Peligro
 
@@ -150,24 +150,71 @@ Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acue
 
 Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, te quedarás atrapado en los dominios de Hades para toda la eternidad.
 
+### Rememorar recuerdos
+
+Cuando encuentres un recuerdo podrás rememorarlo, sacando una carta al azar de la pila descartada, ya que los recuerdos son cosas que ya han pasado. Según la carta puedes construir el recuerdo.
+
+* Los corazones (♥) son recuerdos amorosos.
+* Las picas (♠) recuerdos de enfrentamientos.
+* Los tréboles (♣) hechos fortuitos.
+* Los diamantes (♦) familia y amistad.
+
+El valor de la carta también tiene un significado:
+
+|Carta|Significado|Carta|Significado|
+|---|---|---|---|
+|As|Primer|8|Comodidad|
+|2|Dudas|9|Expareja|
+|3|Hogar|10|Último|
+|4|Detalles|J|Enfermedad|
+|5|Pobreza|Q|Guerra|
+|6|Riqueza|K|Muerte|
+|7|Regalos|--|--|
+
+Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey de picas(Muerte/Enfrentamiento) un enfrentamiento mortal con otra persona por tú alma gemela.
+
 \sc
 
 ### Tablas generadoras
 
-|d66|Elíseo|d66|Asfódelos|d66|Tártaro|
-|---|---|---|---|---|---|
-|11|XXX|31|XXX|51|XXX|
-|12|XXX|32|XXX|52|XXX|
-|13|XXX|33|XXX|53|XXX|
-|14|XXX|34|Estigia, el río del «odio»|54|XXX|
-|15|XXX|35|XXX|55|XXX|
-|16|XXX|36|XXX|56|XXX|
-|21|XXX|41|XXX|61|XXX|
-|22|XXX|42|Aqueronte, el río del «dolor»|62|XXX|
-|23|XXX|43|XXX|63|XXX|
-|24|XXX|44|XXX|64|Flegetonte, el río «ardiente»|
-|25|XXX|45|XXX|65|XXX|
-|26|XXX|46|XXX|66|Cocito, el río del «lamento»|
+|d66|Elíseo|Asfódelos|Tártaro|
+|---|---|---|---|
+|11|XXX|XXX|XXX|
+|12|XXX|XXX|XXX|
+|13|XXX|XXX|XXX|
+|14|XXX|Estigia, el río del «odio»|XXX|
+|15|XXX|XXX|XXX|
+|16|XXX|XXX|XXX|
+|21|XXX||XXX|XXX|
+|22|XXX|Aqueronte, el río del «dolor»|XXX|
+|23|XXX|XXX|XXX|
+|24|XXX|XXX|Flegetonte, el río «ardiente»|
+|25|XXX|XXX|XXX|
+|26|XXX|XXX|Cocito, el río del «lamento»|
+|31|XXX|XXX|XXX|
+|32|XXX|XXX|XXX|
+|33|XXX|XXX|XXX|
+|34|XXX|XXX|XXX|
+|35|XXX|XXX|XXX|
+|36|XXX|XXX|XXX|
+|41|XXX|XXX|XXX|
+|42|XXX|XXX|XXX|
+|43|XXX|XXX|XXX|
+|44|XXX|XXX|XXX|
+|45|XXX|XXX|XXX|
+|46|XXX|XXX|XXX|
+|51|XXX|XXX|XXX|
+|52|XXX|XXX|XXX|
+|53|XXX|XXX|XXX|
+|54|XXX|XXX|XXX|
+|55|XXX|XXX|XXX|
+|56|XXX|XXX|XXX|
+|61|XXX|XXX|XXX|
+|62|XXX|XXX|XXX|
+|63|XXX|XXX|XXX|
+|64|XXX|XXX|XXX|
+|65|XXX|XXX|XXX|
+|66|XXX|XXX|XXX|
 
 &ast; solo pueden  haber uno
 
@@ -176,6 +223,11 @@ Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, te
 [![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
 
 # En el Hades
+&nbsp;
+
+#### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights .
+
+&nbsp;
 
 ## Tu historia hasta ahora …
 
@@ -183,7 +235,9 @@ Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzo
 
 Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
 
-Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
+Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino.
+
+En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
 
 &nbsp;
 
