@@ -10,9 +10,13 @@ Para jugar, necesitarás lo siguiente:
 
 Baraja tu mazo de aventura y colócalo junto a los dados de acción, el diario de viaje y el resto de materiales.
 
-### Crear tu XXX
+### Crear tu incursor
 
-Elige un nombre y los pronombres con los que te identificas. Tu personaje puede encarar los desafíos con tres estilos o maneras de abordar la situación. Asigna al primer estilo +2, al segundo +1 y al tercero 0.
+Elige un nombre, los pronombres con los que te identificas y el nombre de tu amor. Tu personaje puede encarar los desafíos con tres estilos. Asigna al primer estilo +2, al segundo +1 y al tercero 0.
+
+* **Fuerte** como Hércules.
+* **Listo** como Ulises.
+* **Embaucador** como Orfeo.
 
 ### Realizar acciones
 
@@ -79,7 +83,7 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 * Con **Oscuridad**, tienes un contratiempo, marca **1 fatiga**.
 ### Buscar manzanas doradas
 
-Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y XXX. Cuando buscas manzanas doradas, acción + estilo.
+Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y dicha. Cuando buscas manzanas doradas, acción + estilo.
 
 * Con **Luz**, hay **2 manzanas**.
 * Con **Penumbra**, hay **1 manzana**.
@@ -87,7 +91,7 @@ Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y XXX.
 
 ### Comprar información
 
-Puedes intercambiar manzanas doradas por conocimiento con las almas y los habitantes XXX del inframundo. Determina la cantidad de manzanas que vas a pagar y acción + manzanas.
+Puedes intercambiar manzanas doradas por conocimiento con las almas en pena y los pobladores del inframundo. Determina la cantidad de manzanas que vas a pagar y acción + manzanas.
 
 * Con **Luz**, logras información detallada
 * Con **Penumbra**, logras información incompleta.
@@ -127,9 +131,9 @@ Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 s
 
 ### Nombres
 
-Si en algún momento alguien te preguntas por el nombre de tu amor y no te acuerdas, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que irte del inframundo.
+Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acuerdas**, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que irte del inframundo.
 
-Si en algún momento te preguntan tu nombre y no lo recuerdas te quedarás atrapado en los dominios de Hades para toda la eternidad.
+Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, te quedarás atrapado en los dominios de Hades para toda la eternidad.
 
 ### Tablas generadoras
 
@@ -157,9 +161,9 @@ El Hades se divide en 3 zonas:
 
 ## Tu historia hasta ahora …
 
-Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Hades ha aceptado tus dones, tus promesas o tus alagos y te ha devuelto a tu amor perdido, pero hay trampa, esa persona no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
+Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus alagos y te ha devuelto a tu amor perdido. Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
 
-Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Hades, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
+Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
 
 ## Licencia
 

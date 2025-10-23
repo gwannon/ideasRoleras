@@ -52,13 +52,13 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'EnElHades') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Ítaca\n\n";
+  $metas .= "InfoValue: En el Hades\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: Ítaca es un juego de rol basado en Breathless para una jugadora y una directora donde la jugadora interpretará al personaje mitológico griego de Penélope. Versión 1.0\n\n";
+  $metas .= "InfoValue: En el Hades es un juego de rol basadao en Firelights que el deberás explorar el inframundo para recuperar los recuerdos perdidos de tu amor. Versión 0.5\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, Breathless, mitología griega\n\n";
+  $metas .= "InfoValue: rpg, ttrpg, Firelights, mitología griega\n\n";
 }
 
 /* Generamos indice del PDF */
