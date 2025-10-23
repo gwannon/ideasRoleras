@@ -1,8 +1,8 @@
 :root {
   --main-color: #ffffff;
-  --secondary-color: #555555;
-  --accent-color: #800000;
-  --background-color: #333333;
+  --secondary-color: #7dd6b8;
+  --accent-color: #7e5887;
+  --background-color: #273333;
 }
 
 
@@ -32,7 +32,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 12px;
+  font-size: 11px;
   background-color: var(--background-color);
   color: var(--main-color);
 }
@@ -62,6 +62,20 @@ a:visited {
   color: var(--main-color);
 }
 
+img {
+  max-width: 100%;
+}
+
+blockquote {
+  border: 1px solid var(--accent-color);
+  padding: 5px;
+  color: var(--secondary-color);
+}
+
+blockquote a {
+  color: var(--secondary-color);
+}
+
 /* -------------- TITULOS -------------- */
 
 h1,
@@ -69,6 +83,13 @@ h2,
 h3,
 h4 {
   font-family: "Caesar Dressing", system-ui;
+}
+
+h1 {
+  font-size: 35px;
+  margin: -60px 20px 20px 10px;
+  color: var(--accent-color);
+  text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);
 }
 
 /* -------------- TEXTOS -------------- */
@@ -82,14 +103,30 @@ ul li {
 
 table {
   font-size: 10px;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table tr:nth-child(odd) {
+  background-color: var(--accent-color);
+}
+
+table tr:nth-child(even) {
+  background-color: var(--secondary-color);
+  color: var(--background-color);
+}
+
+table td,
+table th {
+  padding: 3px;
 }
 
 /* -------------- COLUMNAS -------------- */
 
 .columns {
   columns: 3;
-  column-gap: 60px;
-  padding: 35px
+  column-gap: 50px;
+  padding: 25px
 }
 
 .saltocolumna {

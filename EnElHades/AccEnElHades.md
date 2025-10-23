@@ -18,6 +18,8 @@ Elige un nombre, los pronombres con los que te identificas y el nombre de tu amo
 * **Listo** como Ulises.
 * **Embaucador** como Orfeo.
 
+## LA PARTIDA
+
 ### Realizar acciones
 
 Las acciones dirigen tu travesía a través del mundo. Cada una de ellas te ayudan por sí misma a resolver las preguntas que tengas o lo que decidas hacer.
@@ -33,10 +35,7 @@ Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acci
 * Si tu resultado es mayor que la suma del valor de ambas cartas, hay Luz.
 * Si tu resultado es mayor que el valor de una de las cartas, hay Penumbra.
 * De lo contrario, hay Oscuridad.
-
 El as vale 1; la sota (J), 11; la reina (Q), 12; y el rey (K), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de tesoros o cualquier otro.
-
-## LA PARTIDA
 
 ### Explorar el Mundo
 
@@ -50,15 +49,13 @@ Para saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara
 
 Haz tiradas en las tablas generadoras, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribir una entrada en tu diario por cada región.
 
+### Descansar y fatiga
+
+Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
+
 ### Recuperando los recuerdos
 
 Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
-
-### Descansar y fatiga
-
-Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
-
-En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
 
 ### Combatir _démones_
 
@@ -66,7 +63,6 @@ Al buscar tesoros, puedes encontrarte con _démones_. Para combatirlas, apila ca
 
 Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
-
 * **XXX (VIT 5):** XXX. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **XXX (VIT 8):** XXX. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
 * **XXX (VIT 8):** XXX. Las picas (♠) valen el doble al ser apiladas.
@@ -81,6 +77,7 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 * Con **Luz**, tienes un éxito total.
 * Con **Penumbra**, tienes un éxito parcial.
 * Con **Oscuridad**, tienes un contratiempo, marca **1 fatiga**.
+
 ### Buscar manzanas doradas
 
 Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y dicha. Cuando buscas manzanas doradas, acción + estilo.
@@ -134,7 +131,6 @@ Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 s
 Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acuerdas**, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que irte del inframundo.
 
 Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, te quedarás atrapado en los dominios de Hades para toda la eternidad.
-
 ### Tablas generadoras
 
 El Hades se divide en 3 zonas:
@@ -143,28 +139,32 @@ El Hades se divide en 3 zonas:
 * **Los campos de asfódelos,** el lugar de las almas normales
 * **El Tártaro,** el infierno de los malvados
 
-|d66|XXX|d66|XXX|d66|XXX|
+|d66|Elíseo|d66|Asfódelos|d66|Tártaro|
 |---|---|---|---|---|---|
 |11|XXX|31|XXX|51|XXX|
 |12|XXX|32|XXX|52|XXX|
 |13|XXX|33|XXX|53|XXX|
-|14|XXX|34|XXX|54|XXX|
+|14|XXX|34|Estigia, el río del «odio»|54|XXX|
 |15|XXX|35|XXX|55|XXX|
 |16|XXX|36|XXX|56|XXX|
 |21|XXX|41|XXX|61|XXX|
-|22|XXX|42|XXX|62|XXX|
+|22|XXX|42|Aqueronte, el río del «dolor»|62|XXX|
 |23|XXX|43|XXX|63|XXX|
-|24|XXX|44|XXX|64|XXX|
+|24|XXX|44|XXX|64|Flegetonte, el río «ardiente»|
 |25|XXX|45|XXX|65|XXX|
-|26|XXX|46|XXX|66|XXX|
+|26|XXX|46|XXX|66|Cocito, el río del «lamento»|
+
+&ast; solo pueden  haber uno
+[![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
+
 # En el Hades
 
 ## Tu historia hasta ahora …
 
-Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus alagos y te ha devuelto a tu amor perdido. Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
+Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus alagos y te ha devuelto a tu amor perdido.
 
-Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
+Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
 
-## Licencia
+Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino. En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
 
-> Este trabajo se basa en Firelights, una creación de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
+> **Licencia:** Este trabajo se basa en Firelights, una creación de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
