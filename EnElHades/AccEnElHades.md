@@ -18,6 +18,12 @@ Elige un nombre, los pronombres con los que te identificas y el nombre de tu amo
 * **Listo** como Ulises.
 * **Embaucador** como Orfeo.
 
+Por último decide donde empiezas tu andanzas con tirando 1d6.
+
+* **El Elíseo (1),** el paraíso de los héroes
+* **Los campos de asfódelos (4-5),** el lugar de las almas normales
+* **El Tártaro (6),** el infierno de los malvados
+
 ## LA PARTIDA
 
 ### Realizar acciones
@@ -29,13 +35,13 @@ Al realizar una acción, sigue estos pasos:
 * Roba 2 cartas de tu mazo de aventura.
 * Haz una tirada con los 2 dados de acción y suma el valor de ambos.
 * Añade cualquier modificador para obtener tu resultado.
-
 Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acción te indique usarlas:
 
-* Si tu resultado es mayor que la suma del valor de ambas cartas, hay Luz.
-* Si tu resultado es mayor que el valor de una de las cartas, hay Penumbra.
-* De lo contrario, hay Oscuridad.
-El as vale 1; la sota (J), 11; la reina (Q), 12; y el rey (K), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de tesoros o cualquier otro.
+* Si tu resultado es **mayor que la suma del valor de ambas cartas**, hay **Luz**.
+* Si tu resultado es **mayor que el valor de una de las cartas**, hay **Penumbra**.
+* De lo contrario, hay **Oscuridad**.
+
+El as vale 1; la sota (J), 11; la reina (Q), 12; y el rey (K), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
 
 ### Explorar el Mundo
 
@@ -43,26 +49,29 @@ Al comenzar, toma una carta del mazo de aventura, y colócala bocarriba sobre la
 
 Para saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara el número de la nueva carta con el de tu ubicación actual e interpreta el resultado.
 
-* Si el número de la nueva carta es mayor, colócala bocarriba en la parte superior, conectada por una de las esquinas.
-* Si el número de la nueva carta es menor, colócala bocarriba en la parte inferior, conectada por una de las esquinas.
-* Si el número de la nueva carta es igual, colócala a un lado (las cartas solo se pueden unir por las esquinas, así que esta región podría quedar aislada del resto; para acceder a ella, deberás seguir descubriendo regiones).
+* Si el **número de la nueva carta es mayor**, colócala **bocarriba en la parte superior**, conectada por una de las esquinas.
+* Si el **número de la nueva carta es menor**, colócala **bocarriba en la parte inferior**, conectada por una de las esquinas.
+* Si el **número de la nueva carta es igual**, colócala **a un lado** (las cartas solo se pueden unir por las esquinas, así que esta región podría quedar aislada del resto; para acceder a ella, deberás seguir descubriendo regiones).
+* Si la nueva carta que colocas bocarriba **es un as**, has entrado en una **nueva zona del infierno**. Elige al azar a qué nueva zona llegas (par una zona, impar la otra).
 
 Haz tiradas en las tablas generadoras, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribir una entrada en tu diario por cada región.
-
-### Descansar y fatiga
-
-Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
 
 ### Recuperando los recuerdos
 
 Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
 
+### Descansar y fatiga
+
+Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
+En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
+
 ### Combatir _démones_
 
-Al buscar tesoros, puedes encontrarte con _démones_. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra un _demon_. 
+Al buscar manzanas doradas, puedes encontrarte con _démones_. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra un _demon_. 
 
 Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
+
 * **XXX (VIT 5):** XXX. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **XXX (VIT 8):** XXX. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
 * **XXX (VIT 8):** XXX. Las picas (♠) valen el doble al ser apiladas.
@@ -93,13 +102,13 @@ Puedes intercambiar manzanas doradas por conocimiento con las almas en pena y lo
 * Con **Luz**, logras información detallada
 * Con **Penumbra**, logras información incompleta.
 * Con **Oscuridad**, logras información ambigua.
-
 ### Descubrir una región
 
 Cuando buscas un nuevo camino, acción + estilo.
 
 * Con **Luz**, añade las 2 cartas reveladas a tu mapa.
 * Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
+
 * Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 fatiga**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
 
 ### Luchar contra un _demon_
@@ -132,12 +141,6 @@ Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acue
 
 Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, te quedarás atrapado en los dominios de Hades para toda la eternidad.
 ### Tablas generadoras
-
-El Hades se divide en 3 zonas:
-
-* **El Elíseo,** el paraíso de los héroes
-* **Los campos de asfódelos,** el lugar de las almas normales
-* **El Tártaro,** el infierno de los malvados
 
 |d66|Elíseo|d66|Asfódelos|d66|Tártaro|
 |---|---|---|---|---|---|
