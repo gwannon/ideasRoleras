@@ -180,7 +180,7 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 
 |d66|Elíseo|Asfódelos|Tártaro|
 |---|---|---|---|
-|11|Suelo cubierto de monedas de cobre|Acequia de agua negra|Escualida figura en un trono|
+|11|Suelo cubierto de monedas de cobre|Acequia de agua negra|Escuálida figura en un trono|
 |12|Cisnes blancos|Fila de almas|Mar de kopis|
 |13|Estatua de Hades|Almas errantes|Pantano de sombras|
 |14|Estadio olímpico|Procesión de almas|Estigia, río del odio|
