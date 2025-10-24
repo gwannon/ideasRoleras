@@ -78,7 +78,7 @@ Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
 \sc
 
-* **Demon menor (VIT 5):** Estos seres representan conceptos como vejez, miedo, pobreza y de esa forma te atormentan. Las picas (♠) valen el doble al ser apiladas.
+* **Demon menor (VIT 5):** Estos espíritus o sombras conceptos como vejez, miedo, pobreza y de esa forma te atormentan. Las picas (♠) valen el doble al ser apiladas.
 * **Erinia/Furia (VIT 8):** Representan la venganza del crimen. Son mujeres aladas, con serpientes en su cabellera y portando una antorcha o un látigo. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
 * **Juez (VIT 10):** Estos hijos de Zeus juzgan las almas y deciden a que parte del Hades son enviados. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
@@ -205,14 +205,14 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 |45|XXX|XXX|XXX|
 |46|XXX|XXX|XXX|
 |51|XXX|XXX|Campo de cenizas|
-|52|XXX|XXX|XXX|
+|52|Estigia, el río del «odio»|XXX|XXX|
 |53|XXX|XXX|XXX|
 |54|XXX|XXX|XXX|
 |55|XXX|XXX|XXX|
 |56|XXX|XXX|XXX|
-|61|XXX|XXX|XXX|
+|61|XXX|Flegetonte, el río «ardiente»|XXX|
 |62|XXX|XXX|XXX|
-|63|XXX|XXX|XXX|
+|63|XXX|Olmo sin hojas|XXX|
 |64|XXX|XXX|XXX|
 |65|XXX|XXX|XXX|
 |66|XXX|XXX|XXX|
