@@ -180,7 +180,7 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 
 |d66|Elíseo|Asfódelos|Tártaro|
 |---|---|---|---|
-|11|XXX|Acequia de agua negra|XXX|
+|11|Musas en un anfiteatro|Acequia de agua negra|XXX|
 |12|XXX|Fila de almas|XXX|
 |13|XXX|XXX|XXX|
 |14|XXX|Procesión de almas|Estigia, río del odio|
@@ -194,7 +194,7 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 |26|Olivo lleno de frutos|Lago de almas|Fuente de sangre|
 |31|XXX|XXX|XXX|
 |32|Gigantesco templo|Cauce de río seco|Alma cavando en la tierra|
-|33|XXX|XXX|XXX|
+|33|XXX|Columnas jónicas flotantes|XXX|
 |34|XXX|Rosal negro|XXX|
 |35|Manantial a la sombra|Cuervos picando un bulto|Mano de titán enterrada|
 |36|Campo de trigo|Almas mirando al cielo|Campo de cuchillas|
