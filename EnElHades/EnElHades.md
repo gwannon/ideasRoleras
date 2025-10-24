@@ -226,7 +226,7 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 # En el Hades
 &nbsp;
 
-#### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights .
+#### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights.
 
 &nbsp;
 
