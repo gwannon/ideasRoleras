@@ -168,42 +168,42 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 
 |d66|Elíseo|Asfódelos|Tártaro|
 |---|---|---|---|
-|11|Musas en un anfiteatro|Acequia de agua negra|XXX|
-|12|XXX|Fila de almas|XXX|
-|13|XXX|XXX|XXX|
-|14|XXX|Procesión de almas|Estigia, río del odio|
-|15|XXX|XXX|XXX|
-|16|XXX|Frutales secos|XXX|
+|11|Suelo cubierto de monedas de cobre|Acequia de agua negra|Escualida figura en un trono|
+|12|Cisnes blancos|Fila de almas|Mar de kopis|
+|13|Estatua de Hades|Almas errantes|Pantano de sombras|
+|14|Estadio olímpico|Procesión de almas|Estigia, río del odio|
+|15|Perfumado olivar|Arenas movedizas|Pirámide de cristal opaco|
+|16|Ovejas de lana dorada|Frutales secos|Espejismo de tu hogar|
 |21|Panales de rica miel|Olivo marchito|Planicie de cráneos|
-|22|Arroyo de aguas cristalinas|Almas alrededor de una hoguera apagada|Zarzas con grandes pinchos|
-|23|Inmenso campo de flores|Establos de Hades &ast;|Pozo de serpientes|
-|24|Estatua de héroe|Tierra polvorienta|Flegetonte, río ardiente|
-|25|Sátiros y ninfas|Atril con un libro vacío|XXX|
+|22|Arroyo de aguas cristalinas|Almas junto a una hoguera apagada|Zarzas con grandes pinchos|
+|23|Estatua de héroe|Establos de Hades &ast;|Pozo de serpientes|
+|24|Sátiros y ninfas|Tierra polvorienta|Flegetonte, río ardiente|
+|25|Inmenso campo de flores|Atril con un libro vacío|Meseta de afiladas estalagmitas|
 |26|Olivo lleno de frutos|Lago de almas|Fuente de sangre|
-|31|XXX|XXX|XXX|
+|31|Musas en un anfiteatro|Cueva ululante|Almas que siguen tu rastro|
 |32|Gigantesco templo|Cauce de río seco|Alma cavando en la tierra|
-|33|XXX|Columnas jónicas flotantes|XXX|
-|34|XXX|Rosal negro|XXX|
-|35|Manantial a la sombra|Cuervos picando un bulto|Mano de titán enterrada|
-|36|Campo de trigo|Almas mirando al cielo|Campo de cuchillas|
-|41|Lago con islote en el centro|Puente derruido sobre el Estigia, río del odio|Gigantesco pie de Cronos|
-|42|Héroes y heroínas danzando|Campo de lágrimas|Antiguo campo de batalla|
-|43|2 monedas para Caronte|Columnas derruidas|Precipicio interminable|
-|44|Suave y refrescante brisa|Campo de amapolas ajadas|Emanaciones de gas verde|
-|45|Templete cubierto de flores|Almas inmóviles|Laguna de hiel|
-|46|XXX|Estatua sin cabeza|XXX|
-|51|Viñedos con uvas|Columna infinita|Campo de cenizas|
-|52|Manada de pegasos|Estigia, río del odio|Pozo sin fondo|
-|53|XXX|Tumbas vacías|XXX|
-|54|Fuente de vino y miel|Viento que dificulta avanzar|Tambores invisibles ensordecedores|
-|55|Pradera de sombras|Templo caído|XXX|
-|56|XXX|Fuente seca|XXX|
-|61|Pérgola con comida|Cocito, río del lamento|XXX|
-|62|XXX|Gran olmo sin hojas|XXX|
-|63|Puente sobre el Estigia, río del odio|Dos almas tirando de un arado|Figuras portando agua en cántaros con agujeros &ast;|
-|64|XXX|Almas errantes|Roca de Prometeo &ast;|
-|65|Deliciosa música sin músicos|Lámpades recogiendo leña para antorchas|Pedruscos que caen colina abajo &ast;|
-|66|XXX|XXX|Aqueronte, río del dolor|
+|33|Montaña de relucientes monedas de oro y plata|Columnas jónicas flotantes|Columna de humo más allá del horizonte|
+|34|Chimeneas de hadas|Rosal negro|Cadalso|
+|35|Manantial a la sombra|Campo de lágrimas|Mano de titán enterrada|
+|36|Campo de trigo|Tumbas vacías|Campo de cuchillas|
+|41|Héroes y heroínas danzando|Cuervos picando un bulto|Antiguo campo de batalla|
+|42|Viñedos con uvas|Columna infinita|Campo de cenizas|
+|43|Manada de pegasos|Estigia, río del odio|Pozo sin fondo|
+|44|Observatorio astronómico|Almas mirando al cielo|Rebaño de vacas esqueléticas|
+|45|Manantial de leche y miel|Viento que dificulta avanzar|Tambores invisibles ensordecedores|
+|46|Pradera de sombras|Templo caído|Géiser de brea ardiente|
+|51|Pérgola con comida|Fuente seca|Muro invisible|
+|52|Cornucopia lleva de riquezas|Cocito, río del lamento|Personas petrificadas con caras de horror|
+|53|Fuente de vino y miel|Gran olmo sin hojas|Gigantesco pie de Cronos|
+|54|Puente sobre el Estigia, río del odio|Dos almas tirando de un arado|Figuras portando agua en cántaros con agujeros &ast;|
+|55|Lago con islote en el centro|Puente derruido sobre el Estigia|Mendiga que vende manzanas|
+|56|Camino adoquinado|Columnas derruidas|Precipicio interminable|
+|61|2 monedas para Caronte|Campo de amapolas ajadas|Muro de fuego|
+|62|Templete cubierto de flores|Almas inmóviles|Laguna de hiel|
+|63|Suave y refrescante brisa|Estatua sin cabeza|Emanaciones de gas verde|
+|64|Lustroso rebaño de vacas|Roble partido por un rayo|Roca de Prometeo &ast;|
+|65|Deliciosa música sin músicos|Lámpades que recoge leña para antorchas|Pedruscos que caen colina abajo &ast;|
+|66|Blandos montones de heno|Explanada de fuegos fatuos|Aqueronte, río del dolor|
 
 &ast; solo puede haber uno
 [![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")

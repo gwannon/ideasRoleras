@@ -112,7 +112,7 @@ table {
 }
 
 table:last-of-type {
-  font-size: 8.5px;
+  font-size: 8px;
 }
 
 table tr:nth-child(odd) {
@@ -126,7 +126,7 @@ table tr:nth-child(even) {
 
 table td,
 table th {
-  padding: 2px;
+  padding: 1.5px;
 }
 
 /* -------------- COLUMNAS -------------- */
