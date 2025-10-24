@@ -107,9 +107,12 @@ ul li {
 /* -------------- TABLAS -------------- */
 
 table {
-  font-size: 10px;
   border-collapse: collapse;
   width: 100%;
+}
+
+table:last-of-type {
+  font-size: 9px;
 }
 
 table tr:nth-child(odd) {

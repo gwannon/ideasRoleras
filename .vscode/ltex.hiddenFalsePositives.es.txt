@@ -67,3 +67,12 @@
 {"rule":"CONCORDANCIAS_ATRIBUTO","sentence":"^\\QLos arrecifes son rocas, bancos de arena, o cualquier otro elemento que yace a pocos metros de la superficie o incluso sobre la superficie del agua durante marea baja.\\E$"}
 {"rule":"LES_LAS","sentence":"^\\QTradicionalmente, los padres les pedían a les māhū que les pusieran nombre a sus hijos.\\E$"}
 {"rule":"MAYUSCULAS_INICIO_FRASE","sentence":"^\\QDES+INT\nNúmero objetivo:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAncient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEste trabajo se basa en Firelights, una creación de Fari RPGs, desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia Creative Commons Reconocimiento 4.0 Internacional\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGuided by Firelights\\E$"}
+{"rule":"FIGURE","sentence":"^\\QSi la carta que añades es una figura (jota, reina o rey), hay una.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QPara saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara el número de la nueva carta con el de tu ubicación actual e interpreta el resultado.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QRealizar acciones\\E$"}
+{"rule":"REALIZE","sentence":"^\\QAl realizar una acción, sigue estos pasos:\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos usarás para realizar acciones dentro de la ficción y obtener respuestas acerca del mundo.\\E$"}
+{"rule":"SIGLAS","sentence":"^\\QEste trabajo se basa en Firelights, una creación de Fari RPGs, desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia Creative Commons Reconocimiento 4.0 Internacional\\E$"}

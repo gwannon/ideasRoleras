@@ -2,7 +2,7 @@
 
 Para jugar, necesitarás lo siguiente:
 
-* Una baraja de póker sin comodines. Te ayudará a guiar la historia y los desafíos. Es tu **mazo de aventura**. Después de sacar cartas, las descartas.
+* Una baraja de póker sin comodines. Te ayudará a guiar la historia y los desafíos. Es tu **mazo de aventura**.
 * 2 dados de 6 caras. Los usarás para realizar acciones dentro de la ficción y obtener respuestas acerca del mundo. Son tus dados de acción.
 * Un cuaderno que te servirá como tu diario de viaje, donde escribir registrar tu historia.
 * Tarjetas índice, tiras de papel o pósits.
@@ -18,7 +18,7 @@ Elige un nombre, los pronombres con los que te identificas y el nombre de tu amo
 * **Listo** como Ulises.
 * **Embaucador** como Orfeo.
 
-Por último decide donde empiezas tu andanzas con tirando 1d6.
+Por último decide donde empiezas tus andanzas con tirando 1d6.
 
 * **El Elíseo (1),** el paraíso de los héroes
 * **Los campos de asfódelos (4-5),** el lugar de las almas normales
@@ -40,10 +40,10 @@ Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acci
 
 * Si tu resultado es **mayor que la suma del valor de ambas cartas**, hay **Luz**.
 * Si tu resultado es **mayor que el valor de una de las cartas**, hay **Penumbra**.
+* De lo contrario, hay **Oscuridad**.
 
 \sc
 
-* De lo contrario, hay **Oscuridad**.
 
 El as vale 1; la sota (J), 11; la reina (Q), 12; y el rey (K), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
 
@@ -78,9 +78,9 @@ Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
 \sc
 
-* **XXX (VIT 5):** XXX. Las cartas rojas (♦♥) valen el doble al ser apiladas.
-* **XXX (VIT 8):** XXX. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
-* **XXX (VIT 8):** XXX. Las picas (♠) valen el doble al ser apiladas.
+* **Demon menor (VIT 5):** Estos seres representan conceptos como vejez, miedo, pobreza y de esa forma te atormentan. Las picas (♠) valen el doble al ser apiladas.
+* **Erinia/Furia (VIT 8):** Representan la venganza del crimen. Son mujeres aladas, con serpientes en su cabellera y portando una antorcha o un látigo. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
+* **Juez (VIT 10):** Estos hijos de Zeus juzgan las almas y deciden a que parte del Hades son enviados. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
 
 ## LAS ACCIONES
@@ -124,9 +124,10 @@ Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número 
 
 * Con **Luz**, apila las 2 cartas reveladas contra el _demon_.
 * Con **Penumbra**, apila 1 de las cartas reveladas contra el _demon_.
-* Con **Oscuridad**, haz la acción Evadir el peligro.
 
 \sp
+
+* Con **Oscuridad**, haz la acción Evadir el peligro.
 
 ### Evadir el Peligro
 
@@ -198,12 +199,12 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 |35|XXX|XXX|XXX|
 |36|XXX|XXX|XXX|
 |41|XXX|XXX|XXX|
-|42|XXX|XXX|XXX|
+|42|XXX|Campo de lagrimas|XXX|
 |43|XXX|XXX|XXX|
 |44|XXX|XXX|XXX|
 |45|XXX|XXX|XXX|
 |46|XXX|XXX|XXX|
-|51|XXX|XXX|XXX|
+|51|XXX|XXX|Campo de cenizas|
 |52|XXX|XXX|XXX|
 |53|XXX|XXX|XXX|
 |54|XXX|XXX|XXX|
@@ -216,7 +217,7 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 |65|XXX|XXX|XXX|
 |66|XXX|XXX|XXX|
 
-&ast; solo pueden  haber uno
+&ast; solo puede haber uno
 
 \sc
 
@@ -231,7 +232,7 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 
 ## Tu historia hasta ahora …
 
-Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus alagos y te ha devuelto a tu amor perdido.
+Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus halagos y te ha devuelto a tu amor perdido.
 
 Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
 
