@@ -42,7 +42,7 @@ Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acci
 * Si tu resultado es **mayor que el valor de una de las cartas**, hay **Penumbra**.
 * De lo contrario, hay **Oscuridad**.
 
-El as vale 1; la sota (J), 11; la reina (Q), 12; y el rey (K), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
+El as vale 1; la sota (**J**), 11; la reina (**Q**), 12; y el rey (**K**), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
 
 ### Explorar el Mundo
 
@@ -168,42 +168,42 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 
 |d66|Elíseo|Asfódelos|Tártaro|
 |---|---|---|---|
-|11|XXX|XXX|XXX|
-|12|XXX|XXX|XXX|
+|11|XXX|Acequia de agua negra|XXX|
+|12|XXX|Fila de almas|XXX|
 |13|XXX|XXX|XXX|
-|14|XXX|Estigia, el río del «odio»|XXX|
+|14|XXX|Procesión de almas|Estigia, río del odio|
 |15|XXX|XXX|XXX|
-|16|XXX|XXX|XXX|
-|21|XXX||XXX|XXX|
-|22|XXX|Aqueronte, el río del «dolor»|XXX|
-|23|XXX|XXX|XXX|
-|24|XXX|XXX|Flegetonte, el río «ardiente»|
-|25|XXX|XXX|XXX|
-|26|XXX|XXX|Cocito, el río del «lamento»|
+|16|XXX|Frutales secos|XXX|
+|21|Panales de rica miel|Olivo marchito|Planicie de cráneos|
+|22|Arroyo de aguas cristalinas|Almas alrededor de una hoguera apagada|Zarzas con grandes pinchos|
+|23|Inmenso campo de flores|Establos de Hades &ast;|Pozo de serpientes|
+|24|Estatua de héroe|Tierra polvorienta|Flegetonte, río ardiente|
+|25|Sátiros y ninfas|Atril con un libro vacío|XXX|
+|26|Olivo lleno de frutos|Lago de almas|Fuente de sangre|
 |31|XXX|XXX|XXX|
-|32|XXX|XXX|XXX|
+|32|Gigantesco templo|Cauce de río seco|Alma cavando en la tierra|
 |33|XXX|XXX|XXX|
-|34|XXX|XXX|XXX|
-|35|XXX|XXX|XXX|
-|36|XXX|XXX|XXX|
-|41|XXX|XXX|XXX|
-|42|XXX|Campo de lagrimas|XXX|
-|43|XXX|XXX|XXX|
-|44|XXX|XXX|XXX|
-|45|XXX|XXX|XXX|
-|46|XXX|XXX|XXX|
-|51|XXX|XXX|Campo de cenizas|
-|52|Estigia, el río del «odio»|XXX|XXX|
-|53|XXX|XXX|XXX|
-|54|XXX|XXX|XXX|
-|55|XXX|XXX|XXX|
-|56|XXX|XXX|XXX|
-|61|XXX|Flegetonte, el río «ardiente»|XXX|
-|62|XXX|XXX|XXX|
-|63|XXX|Olmo sin hojas|XXX|
-|64|XXX|XXX|XXX|
-|65|XXX|XXX|XXX|
-|66|XXX|XXX|XXX|
+|34|XXX|Rosal negro|XXX|
+|35|Manantial a la sombra|Cuervos picando un bulto|Mano de titán enterrada|
+|36|Campo de trigo|Almas mirando al cielo|Campo de cuchillas|
+|41|Lago con islote en el centro|Puente derruido sobre el Estigia, río del odio|Gigantesco pie de Cronos|
+|42|Héroes y heroínas danzando|Campo de lágrimas|Antiguo campo de batalla|
+|43|2 monedas para Caronte|Columnas derruidas|Precipicio interminable|
+|44|Suave y refrescante brisa|Campo de amapolas ajadas|Emanaciones de gas verde|
+|45|Templete cubierto de flores|Almas inmóviles|Laguna de hiel|
+|46|XXX|Estatua sin cabeza|XXX|
+|51|Viñedos con uvas|Columna infinita|Campo de cenizas|
+|52|Manada de pegasos|Estigia, río del odio|Pozo sin fondo|
+|53|XXX|Tumbas vacías|XXX|
+|54|Fuente de vino y miel|Viento que dificulta avanzar|Tambores invisibles ensordecedores|
+|55|Pradera de sombras|Templo caído|XXX|
+|56|XXX|Fuente seca|XXX|
+|61|Pérgola con comida|Cocito, río del lamento|XXX|
+|62|XXX|Gran olmo sin hojas|XXX|
+|63|Puente sobre el Estigia, río del odio|Dos almas tirando de un arado|Figuras portando agua en cántaros con agujeros &ast;|
+|64|XXX|Almas errantes|Roca de Prometeo &ast;|
+|65|Deliciosa música sin músicos|Lámpades recogiendo leña para antorchas|Pedruscos que caen colina abajo &ast;|
+|66|XXX|XXX|Aqueronte, río del dolor|
 
 &ast; solo puede haber uno
 [![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
