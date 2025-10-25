@@ -264,6 +264,10 @@ table td {
   font-size: 0.8em;
 }
 
+div:has(table) {
+  overflow-x: auto;
+}
+
 pre {
   white-space: pre-wrap;
   background: var(--color-brown-dark) url('./images/pdrmpattern3-pattern-boom-05.png') center center repeat;
