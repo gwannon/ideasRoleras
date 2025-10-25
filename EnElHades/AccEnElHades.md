@@ -55,7 +55,7 @@ Para saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara
 * Si el **número de la nueva carta es igual**, colócala **a un lado** (las cartas solo se pueden unir por las esquinas, así que esta región podría quedar aislada del resto; para acceder a ella, deberás seguir descubriendo regiones).
 * Si la nueva carta que colocas bocarriba **es un as**, has entrado en una **nueva zona del infierno**. Elige al azar a qué nueva zona llegas (par una zona, impar la otra).
 
-Haz tiradas en las tablas generadoras, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribir una entrada en tu diario por cada región.
+Tira en la tabla generadora para tener una idea de que hay en la región, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribe una entrada en tu diario por cada región.
 
 ### Recuperando los recuerdos
 
@@ -63,7 +63,7 @@ Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es 
 
 ### Descansar y fatiga
 
-Cuando el track de fatiga se llena (los resultados de algunas acciones te obligan a marcar casillas de este) o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
+Cuando el marcador de fatiga (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
 
 En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
 
@@ -72,7 +72,7 @@ En un descanso, escribe una entrada extra en el diario de viaje, baraja las cart
 Al buscar manzanas doradas, puedes encontrarte con _démones_. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra un _demon_. 
 
 Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
-Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.* **Demon menor (VIT 5):** Estos espíritus o sombras conceptos como vejez, miedo, pobreza y de esa forma te atormentan. Las picas (♠) valen el doble al ser apiladas.
+Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.* **Demon menor (VIT 5):** Estos espíritus o sombras conceptos como vejez, miedo, pobreza y de esa manera te atormentan. Las picas (♠) valen el doble al ser apiladas.
 * **Erinia/Furia (VIT 8):** Representan la venganza del crimen. Son mujeres aladas, con serpientes en su cabellera y portando una antorcha o un látigo. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
 * **Juez (VIT 10):** Estos hijos de Zeus juzgan las almas y deciden a que parte del Hades son enviados. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
@@ -109,7 +109,6 @@ Cuando buscas un nuevo camino, acción + estilo.
 
 * Con **Luz**, añade las 2 cartas reveladas a tu mapa.
 * Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
-
 * Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 fatiga**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
 
 ### Luchar contra un _demon_
@@ -126,7 +125,7 @@ Cuando evites una amenaza inminente, acción + estilo.
 
 * Con **Luz**, evitas el peligro.
 * Con **Penumbra**, marca **1 fatiga**.
-* Con **Oscuridad**, marca **2 fatiga**.
+* Con **Oscuridad**, marca **2 fatigas**.
 
 ### Conseguir una respuesta del oráculo
 
@@ -161,14 +160,14 @@ El valor de la carta también tiene un significado:
 |4|Detalles|J|Enfermedad|
 |5|Pobreza|Q|Guerra|
 |6|Riqueza|K|Muerte|
-|7|Regalos|--|--|
+|7|Regalos|—|—|
 
-Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey de picas(Muerte/Enfrentamiento) un enfrentamiento mortal con otra persona por tú alma gemela.
+Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey de picas(Muerte/Enfrentamiento) un enfrentamiento mortal con otra persona por tu alma gemela.
 ### Tablas generadoras
 
 |d66|Elíseo|Asfódelos|Tártaro|
 |---|---|---|---|
-|11|Suelo cubierto de monedas de cobre|Acequia de agua negra|Escualida figura en un trono|
+|11|Suelo cubierto de monedas de cobre|Acequia de agua negra|Escuálida figura en un trono|
 |12|Cisnes blancos|Fila de almas|Mar de kopis|
 |13|Estatua de Hades|Almas errantes|Pantano de sombras|
 |14|Estadio olímpico|Procesión de almas|Estigia, río del odio|
@@ -216,7 +215,7 @@ Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzo
 
 Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
 
-Antes de poder salir del Más Allá con tu alma gemela debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino.
+Antes de poder salir del Más Allá con tu alma gemela, debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino.
 
 En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
 
