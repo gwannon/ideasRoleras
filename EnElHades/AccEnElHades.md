@@ -220,3 +220,5 @@ Antes de poder salir del Más Allá con tu alma gemela, debes **adentrarte en el
 En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
 
 > **Licencia:** Este trabajo se basa en Firelights, una creación de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
+
+Juego diseñado por [Gwannon](https://gwannon.com/) | [Código original](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)
