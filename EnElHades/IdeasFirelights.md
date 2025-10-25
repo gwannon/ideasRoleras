@@ -14,4 +14,8 @@ El disco duro del ordenador donde vives está fallando y si colapsa, tú desapar
 
 ## Cyberpunk
 
-La inmensa arcología donde resides ha entrado en modo guerra por un fallo. Todas las salidas se han sellado y nadie puede entrar ni salir. El mando central se ha autoclausurado y necesitas entrar en él para quitar el modo guerra. La única manera es desactivar las plantas de potencia redundantes que le permiten funcionar. Muévete por las plantas y las secciones de este mastandóntico edificio, combate pandillas, esquivas cyberpsicopatas y evita las medidas de seguridad del edificio.
+La inmensa arcología donde resides ha entrado en modo guerra por un fallo. Todas las salidas se han sellado y nadie puede entrar ni salir y tú necesitas salir. El mando central se ha autoclausurado y necesitas entrar en él para quitar el modo guerra. La única manera es desactivar las plantas de potencia redundantes que le permiten funcionar. Muévete por las plantas y las secciones de este mastodóntico edificio, combate pandilleros, esquiva ciber-psicópatas y evita las medidas de seguridad del edificio.
+
+## The Expanse
+
+Para mantener tu empresa de minería espacial funcionando has tenido que aceptar un trabajo de rescate demasiado bien pagado. Tienes que encontrar las cápsulas de supervivientes de una nave espacial estrellada en el cinturón de Kepler. Deberás esquivar asteroides y otros fenómenos espaciales, despistar a otros buscadores y escapar de los piratas y los mercenarios de megacorporaciones. Quizas tengas suerte y en tu búsqueda encuentres cuerpos estelares con materiales valiosos que en el futuro puedas extraer o intercambies esa información. Puede que igual, al final, descubras que hacía esa nave allí y por qué se estrelló.
