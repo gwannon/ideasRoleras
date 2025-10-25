@@ -179,14 +179,14 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 
 |d66|Elíseo|Asfódelos|Tártaro|
 |---|---|---|---|
-|11|Suelo cubierto de monedas de cobre|Acequia de agua negra|Escuálida figura en un trono|
+|11|Lustroso rebaño de vacas|Acequia de agua negra|Escuálida figura en un trono|
 |12|Cisnes blancos|Fila de almas|Mar de kopis|
 |13|Estatua de Hades|Almas errantes|Pantano de sombras|
 |14|Estadio olímpico|Procesión de almas|Estigia, río del odio|
 |15|Perfumado olivar|Arenas movedizas|Pirámide de cristal opaco|
 |16|Ovejas de lana dorada|Frutales secos|Espejismo de tu hogar|
 |21|Panales de rica miel|Olivo marchito|Planicie de cráneos|
-|22|Arroyo de aguas cristalinas|Almas junto a una hoguera apagada|Zarzas con grandes pinchos|
+|22|Arroyo de aguas cristalinas|Almas junto a una hoguera apagada|Rebaño de vacas esqueléticas|
 |23|Estatua de héroe|Establos de Hades &ast;|Pozo de serpientes|
 |24|Sátiros y ninfas|Tierra polvorienta|Flegetonte, río ardiente|
 |25|Inmenso campo de flores|Atril con un libro vacío|Meseta de afiladas estalagmitas|
@@ -200,21 +200,21 @@ Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey
 |41|Héroes y heroínas danzando|Cuervos picando un bulto|Antiguo campo de batalla|
 |42|Viñedos con uvas|Columna infinita|Campo de cenizas|
 |43|Manada de pegasos|Estigia, río del odio|Pozo sin fondo|
-|44|Observatorio astronómico|Almas mirando al cielo|Rebaño de vacas esqueléticas|
-|45|Manantial de leche y miel|Viento que dificulta avanzar|Tambores invisibles ensordecedores|
+|44|Observatorio astronómico|Almas mirando al cielo|Zarzas con grandes pinchos|
+|45|Blandos montones de heno|Viento que dificulta avanzar|Tambores invisibles ensordecedores|
 |46|Pradera de sombras|Templo caído|Géiser de brea ardiente|
 |51|Pérgola con comida|Fuente seca|Muro invisible|
-|52|Cornucopia lleva de riquezas|Cocito, río del lamento|Personas petrificadas con caras de horror|
+|52|Cornucopia lleva de riquezas|Explanada de fuegos fatuos|Personas petrificadas con caras de horror|
 |53|Fuente de vino y miel|Gran olmo sin hojas|Gigantesco pie de Cronos|
 |54|Puente sobre el Estigia, río del odio|Dos almas tirando de un arado|Figuras portando agua en cántaros con agujeros &ast;|
 |55|Lago con islote en el centro|Puente derruido sobre el Estigia|Mendiga que vende manzanas|
 |56|Camino adoquinado|Columnas derruidas|Precipicio interminable|
-|61|2 monedas para Caronte|Campo de amapolas ajadas|Muro de fuego|
-|62|Templete cubierto de flores|Almas inmóviles|Laguna de hiel|
+|61|Suelo cubierto de monedas de cobre|Campo de amapolas ajadas|Muro de fuego|
+|62|2 monedas para Caronte|Almas inmóviles|Laguna de hiel|
 |63|Suave y refrescante brisa|Estatua sin cabeza|Emanaciones de gas verde|
-|64|Lustroso rebaño de vacas|Roble partido por un rayo|Roca de Prometeo &ast;|
+|64|Templete cubierto de flores|Roble partido por un rayo|Roca de Prometeo &ast;|
 |65|Deliciosa música sin músicos|Lámpades que recoge leña para antorchas|Pedruscos que caen colina abajo &ast;|
-|66|Blandos montones de heno|Explanada de fuegos fatuos|Aqueronte, río del dolor|
+|66|Manantial de leche y miel|Cocito, río del lamento|Aqueronte, río del dolor|
 
 &ast; solo puede haber uno
 
