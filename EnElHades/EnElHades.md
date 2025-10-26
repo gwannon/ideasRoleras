@@ -153,16 +153,18 @@ Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, ha
 
 ### Rememorar recuerdos
 
-Cuando encuentres un recuerdo podrás rememorarlo, sacando una carta al azar de la pila descartada, ya que los recuerdos son cosas que ya han pasado. Según la carta puedes construir el recuerdo.
+Cuando encuentres **un recuerdo podrás rememorarlo**, sacando una carta al azar de la pila descartada, ya que los recuerdos son cosas que ya han pasado. Según la carta puedes construir el recuerdo.
 
-* Los corazones (♥) son recuerdos amorosos.
-* Las picas (♠) recuerdos de enfrentamientos.
-* Los tréboles (♣) hechos fortuitos.
-* Los diamantes (♦) familia y amistad.
+|Palo de a carta|Tipo de recuerdo|
+|---|---|
+|Corazones (♥)|Recuerdos amorosos|
+|Picas (♠)|Enfrentamientos|
+|Tréboles (♣)|Hechos fortuitos|
+|Diamantes (♦)|Familia y amistad|
 
 El valor de la carta también tiene un significado:
 
-|Carta|Significado|Carta|Significado|
+|Valor|Significado|Valor|Significado|
 |---|---|---|---|
 |As|Primer|8|Comodidad|
 |2|Dudas|9|Expareja|
@@ -172,7 +174,7 @@ El valor de la carta también tiene un significado:
 |6|Riqueza|K|Muerte|
 |7|Regalos|—|—|
 
-Así el As de corazones (Primer/ Amoroso) puede ser vuestro primer beso y el Rey de picas(Muerte/Enfrentamiento) un enfrentamiento mortal con otra persona por tu alma gemela.
+Así el **As de corazones** (Primer/Amoroso) puede ser vuestro **primer beso** y el **Rey de picas** (Muerte/Enfrentamiento) un **enfrentamiento mortal con otra persona por tu alma gemela**.
 
 \sc
 
@@ -243,6 +245,6 @@ En tus andanzas serás acosado por _démones_, siervos demoníacos del señor de
 
 [![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
 
-> **Licencia:** Este trabajo se basa en Firelights, una creación de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, y licenciado para nuestro uso bajo una licencia [Creative Commons Reconocimiento 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.es_ES)
+> **Licencia:** Esta obra está basada en Firelights, producto de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, publicado en español por El Refugio de Ryhope y con licencia de uso bajo la [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Juego diseñado por [Gwannon](https://gwannon.com/) | [Código original](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)

@@ -130,7 +130,7 @@ Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene
 
 ### Kupua de flores
 
-Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de formas variadas.
+Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de maneras variadas.
 
 \sp
 
@@ -160,7 +160,7 @@ Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven com
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
 * **Habilidad especial:** **XXX.** XXX
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Costa, arrecifes y mar abierto
 * **Marea:** XXX
 
 \sp
@@ -307,7 +307,7 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 \sp
 
 * **Habilidad especial:** XXX
-* **Terreno habitual:** XXX
+* **Terreno habitual:** Costa, arrecifes y mar abierto
 * **Marea:** XXX
 
 
