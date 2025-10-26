@@ -179,13 +179,13 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 
 |Clase|Profesión|Acciones|
 |---|---|---|
-|**Trovador**|Bailarín Hula, XXX|Bailar hula, XXX|
-|**Mercader**|XXX|XXX|
-|**Cazador**|XXX|XXX|
-|**Sanador**|XXX|XXX|
-|**Granjero**|Recolector de algas, Recolector de cocos, Criador de cerdos|XXX|
-|**Artesano**|Carpintero, Carpintero naval, Tejedor de hoja de palma|talar, vaciar troncos, trenzar hojas, XXX|
-|**Noble**|XXX|XXX|
+|**Trovador**|Bailarín Hula, Cuentacuentos|Bailar hula, contar cuentos|
+|**Mercader**|Estibador, Conservero|Estibar, descargar, ahumar o salar pescado|
+|**Cazador**|Rastreador, Explorador|Seguir huellas, buscar sendas, explorar|
+|**Sanador**|_Kahuna_ (chamán, curandero)|Triturar e infusionar, interpretar sueños|
+|**Granjero**|Recolector de algas, Recolector de cocos, Criador de cerdos|Secar y moler algas, escalar palmeras, recoger cocos, amaestrar cerdos|
+|**Artesano**|Carpintero, Carpintero naval, Tejedor de hoja de palma|Talar, vaciar troncos, trenzar hojas|
+|**Noble**|_Matais_ (dirigentes)|Organizar, defender, dictar|
 
 &nbsp;
 
@@ -198,22 +198,19 @@ Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer 
 * **Ejemplos de profesiones:** Tatuador, Escultor de _tikis_, Ebanista/Tallador
 * **Ejemplos de acciones:** tatuar, esculpir, tallar madera, decoraciones florales 
 
-#### XXX
+#### Soy mi arte
 
-XXX
+Llevas años, si no décadas, centrado en tu expresión artística (tatuar, tallar madera, esculpir _tikis_, …). Eso te ha convertido en un experto de todas sus facetas, desde crearlo e interpretarlo hasta venderlo, tasarlo.
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+* **Efecto de la Habilidad:** Recibes un +1 a todas las tiradas relacionadas con tu arte.
+
+\sp
 
 #### Tasación
 
 Para desarrollar tu arte has tenido que estudiar las expresiones artísticas de otras personas, tanto de tu isla como de otras y sabes entenderlas, reconocerlas y tasarlas adecuadamente. 
 
 * **Efecto de la Habilidad:** Puedes obtener información adicional sobre objetos artísticos, tanto modernos como antiguos. Podrías recordar que un intrincado tallado pertenece a los artesanos de determinada isla o reconocer quien ha hecho un tatuaje. 
-
-\sp
 
 * **Prerrequisitos:** Poder examinar de cerca el tallado, el tatuaje, el tejido, etc.
 * **Características:** INT+ESP
@@ -243,11 +240,13 @@ El mar es parte de tu vida y el agua salada corre por tus venas.
 
 #### Adiestrar
 
-Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estás en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos. Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
-
-* **Efecto de la Habilidad:** Permite que tus animales sean acuáticos y te permite tener un animal acuático extra de un total de 2.
+Has interactuado durante mucho tiempo animales marino y has podido adiestrar a un par de ellos para que te ayuden mientras estás en el mar. La mayoría de los personajes solo pueden viajar con un animal terrestre, mientras que tú puedes hacerlo con dos animales marinos.
 
 \sp
+
+Con esta Habilidad puedes ir acompañado de animales marinos que te ayuden cuando te adentres en el mar. Las reglas de animales marinos se describen más adelante, en la sección de Viajar.
+
+* **Efecto de la Habilidad:** Permite que tus animales sean acuáticos y te permite tener un animal acuático extra de un total de 2.
 
 #### Pescar
 

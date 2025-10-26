@@ -28,7 +28,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 
 Suelen **transformarse en animales marinos** como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos. Se dice que no pueden abandonar el agua y por lo menos una de sus extremidades tiene que estar en contacto con el agua.
 
-* **Nivel/Tipo:** XXX / Acuáticos
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** Aparejos de pesca, redes o tridentes, todos ellos de calidad, que roba a los pescadores (500mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -116,7 +116,7 @@ _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pu
 
 Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
-* **Nivel/Tipo:** XXX / XXX
+* **Nivel/Tipo:** XXX / Anfibio
 * **Botín:** Nácar para hacer incrustaciones (3000 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -136,7 +136,7 @@ Podemos considerarlos una subespecie de los kupuas de plantas, ya que están for
 
 Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
 
-* **Nivel/Tipo:** XXX / XXX
+* **Nivel/Tipo:** XXX / Terrestre
 * **Botín:** Flores exóticas y extrañas para decoraciones florales (500 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -151,7 +151,7 @@ Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores
 
 Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
 
-* **Nivel/Tipo:** XXX / XXX
+* **Nivel/Tipo:** XXX / Acuático
 * **Botín:** Pescado variado (500 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** XXX
@@ -159,9 +159,9 @@ Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven com
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** **XXX.** XXX
+* **Habilidad especial:** **Banco de peces.** Es muy difícil dañarle, porque no es un cuerpo físico, sino multitud de peces. Al golpearle solo dañas a un par de peces no a todo el Kupua. XXX
 * **Terreno habitual:** Costa, arrecifes y mar abierto
-* **Marea:** XXX
+* **Marea:** Bajamar diurna
 
 \sp
 
@@ -306,7 +306,6 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 
 \sp
 
-* **Habilidad especial:** XXX
 * **Terreno habitual:** Costa, arrecifes y mar abierto
 * **Marea:** XXX
 
@@ -343,7 +342,7 @@ No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** XXX
-* **Habilidad especial:** XXX
+* **Habilidad especial:** **Atrapar:** El poderoso músculo que abre y cierra su gigantesca concha es tan fuerte que puede atraparte brazos o piernas y no dejarte escapar o subir a respirar. XXX
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar nocturna
 
