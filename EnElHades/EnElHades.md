@@ -18,11 +18,11 @@ Elige un nombre, los pronombres con los que te identificas y el nombre de tu amo
 * **Listo** como Ulises.
 * **Embaucador** como Orfeo.
 
-Por último decide donde empiezas tus andanzas con tirando 1d6.
+Por último decide donde empiezas tus andanzas.
 
-* **El Elíseo (1),** el paraíso de los héroes
-* **Los campos de asfódelos (4-5),** el lugar de las almas normales
-* **El Tártaro (6),** el infierno de los malvados
+* **El Elíseo (Luz),** el paraíso de los héroes
+* **Los campos de asfódelos (Penumbra),** el lugar de las almas normales
+* **El Tártaro (Oscuridad),** el infierno de los malvados
 
 ## LA PARTIDA
 
@@ -44,7 +44,6 @@ Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acci
 
 \sc
 
-
 El as vale 1; la sota (**J**), 11; la reina (**Q**), 12; y el rey (**K**), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
 
 ### Explorar el Mundo
@@ -64,11 +63,11 @@ Tira en la tabla generadora para tener una idea de que hay en la región, coloca
 
 Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
 
-### Descansar y fatiga
+### Recordar y olvido
 
-Cuando el marcador de fatiga (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de descansar; de lo contrario tu personaje terminaría por ver cómo su propia luz se extingue.
+En el hades solo eres recuerdos de tu vida y debes tratar de conservarlos. Cuando el marcador de olvido (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de parar y recordar; de lo contrario tu personaje terminaría por ver cómo su propia esencia se extingue.
 
-En un descanso, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra la fatiga al completo.
+Cuando pares a recordar, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra el olvido al completo.
 
 ### Combatir _démones_
 
@@ -76,9 +75,11 @@ Al buscar manzanas doradas, puedes encontrarte con _démones_. Para combatirlas,
 
 Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
-\sc
 
 * **Demon menor (VIT 5):** Estos espíritus o sombras conceptos como vejez, miedo, pobreza y de esa manera te atormentan. Las picas (♠) valen el doble al ser apiladas.
+
+\sc
+
 * **Erinia/Furia (VIT 8):** Representan la venganza del crimen. Son mujeres aladas, con serpientes en su cabellera y portando una antorcha o un látigo. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
 * **Juez (VIT 10):** Estos hijos de Zeus juzgan las almas y deciden a que parte del Hades son enviados. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
@@ -91,7 +92,7 @@ Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
 
 * Con **Luz**, tienes un éxito total.
 * Con **Penumbra**, tienes un éxito parcial.
-* Con **Oscuridad**, tienes un contratiempo, marca **1 fatiga**.
+* Con **Oscuridad**, tienes un contratiempo, marca **1 olvido**.
 
 ### Buscar manzanas doradas
 
@@ -99,7 +100,7 @@ Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y dich
 
 * Con **Luz**, hay **2 manzanas**.
 * Con **Penumbra**, hay **1 manzana**.
-* Con **Oscuridad**, hay un **_demon_**, marca **1 fatiga**.
+* Con **Oscuridad**, hay un **_demon_**, marca **1 olvido**.
 
 ### Comprar información
 
@@ -115,7 +116,7 @@ Cuando buscas un nuevo camino, acción + estilo.
 
 * Con **Luz**, añade las 2 cartas reveladas a tu mapa.
 * Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
-* Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 fatiga**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
+* Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 olvido**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
 
 ### Luchar contra un _demon_
 
@@ -133,8 +134,8 @@ Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número 
 Cuando evites una amenaza inminente, acción + estilo.
 
 * Con **Luz**, evitas el peligro.
-* Con **Penumbra**, marca **1 fatiga**.
-* Con **Oscuridad**, marca **2 fatigas**.
+* Con **Penumbra**, marca **1 olvido**.
+* Con **Oscuridad**, marca **2 olvidos**.
 
 ### Conseguir una respuesta del oráculo
 
@@ -146,9 +147,9 @@ Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 s
 
 ### Nombres
 
-Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acuerdas**, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que irte del inframundo.
+Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acuerdas**, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que abandonar el inframundo.
 
-Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, te quedarás atrapado en los dominios de Hades para toda la eternidad.
+Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, habrás perdido todos tus recuerdos y te quedarás atrapado en los dominios de Hades para toda la eternidad.
 
 ### Rememorar recuerdos
 
