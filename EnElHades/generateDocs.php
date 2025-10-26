@@ -60,7 +60,7 @@ if($argv[1] == 'EnElHades') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: En el Hades por Gwannon - Ver. 1.1\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: En el Hades es un juego de rol basadao en Firelights que el deberás explorar el inframundo para recuperar los recuerdos perdidos de tu amor. Versión 1.1\n\n";
+  $metas .= "InfoValue: En el Hades es un juego de rol basado en Firelights en el que deberás explorar el inframundo para recuperar los recuerdos perdidos de tu amor y así poder rescatarla. Versión 1.1\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
