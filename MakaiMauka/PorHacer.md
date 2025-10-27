@@ -16,48 +16,16 @@ XXX
 
 ***
 
-|Clase|Profesión|Acciones|
-|---|---|---|
-|**Trovador**|Bailarín Hula, XXX|Bailar hula, XXX|
-|**Mercader**|XXX|XXX|
-|**Cazador**|XXX|XXX|
-|**Sanador**|XXX|XXX|
-|**Granjero**|Recolector de algas, Recolector de cocos, Criador de cerdos|XXX|
-|**Artesano**|Carpintero, Carpintero naval, Tejedor de hoja de palma|talar, vaciar troncos, trenzar hojas, XXX|
-|**Noble**|XXX|XXX|
+## Las ballenas
 
-***
+\conc
 
-### Artista
-
-Hablamos de personas que desarrollan sus habilidades artísticas y buscan hacer el mundo más bello. Los artistas cubren todo el espectro del arte que no cubren los trovadores y que tan importante son para las gentes del archipiélago. Ellos son los que tallan increíbles patrones en tus armas o te tatúan las historias de tu familia en tu cuerpo con tinta y aguja. 
-
-* **Ejemplos de profesiones:** Tatuador, Escultor de _tikis_, Ebanista/Tallador
-* **Ejemplos de acciones:** tatuar, esculpir, tallar madera, decoraciones florales
-
-#### XXX
+Según las leyendas, dos grandes ballenas, Batú y Mautu, trajeron en su lomo a los humanos hasta _Hau Tarakona_ y crearon todas las islas del gran archipiélago. Cuando terminaron su viaje, cogieron aire y se lanzaron al fondo marino donde se supone que aún están. De las burbujas de aire que lanzaron se crearon las primeras islas que los humanos rápidamente poblaron.
 
 XXX
 
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX
+> Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
 
-#### Tasación
-
-Para desarrollar tu arte has tenido que estudiar las expresiones artísticas de otras personas, tanto de tu isla como de otras y sabes entenderlas, reconocerlas y tasarlas adecuadamente. 
-
-* **Efecto de la Habilidad:** Puedes obtener información adicional sobre objetos artísticos, tanto modernos como antiguos. Podrías recordar que un intrincado tallado pertenece a los artesanos de determinada isla o reconocer quien ha hecho un tatuaje. 
-* **Prerrequisitos:** Poder examinar de cerca el tallado, el tatuaje, el tejido, etc.
-* **Características:** INT+ESP
-* **Número objetivo:** A elección del DJ
-
-#### XXX
+Según las leyendas, sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de noche y su inhalación la bajamar de día. Al exhalar Mautu crea la pleamar de día y al inhalar se genera la bajamar de noche.
 
 XXX
-
-* **Efecto de la Habilidad:** XXX
-* **Prerrequisitos:** XXX
-* **Características:** XXX
-* **Número objetivo:** XXX

@@ -14,9 +14,13 @@ XXX
 XXX[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
 
 ## Las ballenas
-Según las leyendas, dos grandes ballenas, Batú y Mautu, crearon todas las islas de _Hua Tarakona_. XXX 
+Según las leyendas, dos grandes ballenas, Batú y Mautu, trajeron en su lomo a los humanos hasta _Hau Tarakona_ y crearon todas las islas del gran archipiélago. Cuando terminaron su viaje, cogieron aire y se lanzaron al fondo marino donde se supone que aún están. De las burbujas de aire que lanzaron se crearon las primeras islas que los humanos rápidamente poblaron.
 
-Sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de noche y su inhalación la bajamar de día. Al exhalar Mautu crea la pleamar de día y al inhalar se genera la bajamar de noche.
+XXX
+
+> Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
+
+Según las leyendas, sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de noche y su inhalación la bajamar de día. Al exhalar Mautu crea la pleamar de día y al inhalar se genera la bajamar de noche.
 
 XXX## Cultura y sociedad
 XXX
