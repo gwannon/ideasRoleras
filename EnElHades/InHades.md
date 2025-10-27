@@ -1,30 +1,30 @@
-## PREPARAR TODO PARA JUGAR
+## PREPARING THE GAME
 
-Para jugar, necesitarás lo siguiente:
+To play this game, you will need the following materials:
 
-* Una baraja de póker sin comodines. Te ayudará a guiar la historia y los desafíos. Es tu **mazo de aventura**.
-* 2 dados de 6 caras. Los usarás para realizar acciones dentro de la ficción y obtener respuestas acerca del mundo. Son tus dados de acción.
-* Un cuaderno que te servirá como tu diario de viaje, donde escribir registrar tu historia.
-* Tarjetas índice, tiras de papel o pósits.
-* Un token cualquiera o una miniatura que represente a tu personaje para colocarlo sobre las cartas con las que crearás el mapa del mundo.
+* A standard deck of cards without any jokers. You will use this as a way to guide the story, and its challenges. This is your **Story Deck**. When you use a card, discard it.
+* Two six-sided dice. You will use these to perform actions in the narrative, and get answers about the world. These are your **Action Dice**.
+* A notebook to act as your **Journey Book** for log entries.
+* Index cards or random slips of paper.
+* A token of some sort (coin, poker chip, etc.).
 
-Baraja tu mazo de aventura y colócalo junto a los dados de acción, el diario de viaje y el resto de materiales.
+Shuffle and place your Story Deck on a flat surface, and gather your Action Dice.
 
-### Crear tu incursor
+### Create your character
 
-Elige un nombre, los pronombres con los que te identificas y el nombre de tu amor. Tu personaje puede encarar los desafíos con tres estilos. Asigna al primer estilo +2, al segundo +1 y al tercero 0.
+Choose your name, preferred pronouns and the name of your soulmate. Your character has three approaches. Assign one to a +2, another with a +1, the third defaults to a 0.
 
-* **Fuerte** como Hércules.
-* **Listo** como Ulises.
-* **Embaucador** como Orfeo.
+* **Strong** like Hercules.
+* **Clever** like Ulysses.
+* **Trickster** like Orpheus.
 
-Por último decide donde empiezas tus andanzas.
+Finally, decide where you begin your journey.
 
-* **El Elíseo (Luz),** el paraíso de los héroes
-* **Los campos de asfódelos (Penumbra),** el lugar de las almas normales
-* **El Tártaro (Oscuridad),** el infierno de los malvados
+* **Elysium (Light),** the paradise of heroes
+* **Asphodel Meadows (Shade),** the place of anonymous souls
+* **Tartarus (Darkness),** the hell of the villains
 
-## LA PARTIDA
+## THE GAME
 
 ### Realizar acciones
 
@@ -63,11 +63,11 @@ Tira en la tabla generadora para tener una idea de que hay en la región, coloca
 
 Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
 
-### Recordar y olvido
+### Remembering and Forgetting
 
-En el Hades solo eres recuerdos de tu vida y debes tratar de conservarlos. Cuando el marcador de olvido (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de parar y recordar; de lo contrario tu personaje terminaría por ver cómo su propia esencia se extingue.
+In Hades, you are only memories of your life, and you must try to preserve them. When the Forgetting track (with 5 spaces) is full or the Story Deck empty, it's time to stop and remember; otherwise, your character would end up seeing their very essence extinguished.
 
-Cuando pares a recordar, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra el olvido al completo.
+When you stop to remember, write an extra entry in your travel journal, shuffle the cards discarded during your journey with those in the Story Deck, and clear your Forgetting track.
 
 ### Combatir _démones_
 
@@ -84,15 +84,15 @@ Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encue
 * **Juez (VIT 10):** Estos hijos de Zeus juzgan las almas y deciden a que parte del Hades son enviados. Las cartas rojas (♦♥) valen el doble al ser apiladas.
 * **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
 
-## LAS ACCIONES
+## THE ACTIONS
 
-### Afrontar el riesgo
+### Confront Risk
 
-Cuando te enfrentas al algo que entraña riesgo, acción + estilo.
+When you act in the face of adversity, Action+Approach.
 
-* Con **Luz**, tienes un éxito total.
-* Con **Penumbra**, tienes un éxito parcial.
-* Con **Oscuridad**, tienes un contratiempo, marca **1 olvido**.
+* Upon **Light**, it’s a full success.
+* Upon **Shade**, it’s a partial success.
+* Upon **Darkness**, it’s a setback, mark **1 Forgetting**.
 
 ### Buscar manzanas doradas
 
@@ -102,13 +102,13 @@ Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y dich
 * Con **Penumbra**, hay **1 manzana**.
 * Con **Oscuridad**, hay un **_demon_**, marca **1 olvido**.
 
-### Comprar información
+### Buy Information
 
-Puedes intercambiar manzanas doradas por conocimiento con las almas en pena y los pobladores del inframundo. Determina la cantidad de manzanas que vas a pagar y acción + manzanas.
+When you trade golden apples for knowledge, decide on a number of golden apples to expend, and Action+Apples.
 
-* Con **Luz**, logras información detallada
-* Con **Penumbra**, logras información incompleta.
-* Con **Oscuridad**, logras información ambigua.
+* Upon **Light**, you get precise information.
+* Upon **Shade**, you get partial information.
+* Upon **Darkness**, you get ambiguous information.
 
 ### Descubrir una región
 
@@ -129,58 +129,58 @@ Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número 
 
 * Con **Oscuridad**, haz la acción Evadir el peligro.
 
-### Evadir el Peligro
+### Evade Danger
 
-Cuando evites una amenaza inminente, acción + estilo.
+When you avoid an impending threat, Action+Approach.
 
-* Con **Luz**, evitas el peligro.
-* Con **Penumbra**, marca **1 olvido**.
-* Con **Oscuridad**, marca **2 olvidos**.
+* Upon **Light**, you avoid the danger.
+* Upon **Shade**, mark **1 Forgetting**.
+* Upon **Darkness**, mark **2 Forgetting**.
 
-### Conseguir una respuesta del oráculo
+### Get an Answer From The Oracle
 
-Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 si es improbable; acción + 1 si la probabilidad es equitativa.
+When you want answers to a yes/no question, Action+2 if likely. Action+0 if unlikely. Action+1 otherwise.
 
-* Con **Luz**, la respuesta es **“Sí, y…”**.
-* Con **Penumbra**, la respuesta es **“Sí, pero…”**.
-* Con **Oscuridad**, la respuesta es **“No, y…”**.
+* Upon **Light**, the answer is **“yes, and…”**.
+* Upon **Shade**, the answer is **“yes, but…”**.
+* Upon **Darkness**, the answer is **“no, and…”**.
 
-### Nombres
+### Names
 
-Si en algún momento al **escribir en tu diario el nombre de tu amor, no te acuerdas**, le habrás olvidado definitivamente y no recordarás porque estás en el Hades, así que tendrás que abandonar el inframundo.
+If at any time, when **writing your love's name in your diary, you don't remember it**, you will have forgotten them forever and won't remember why you are in Hades, so you will have to leave the underworld.
 
-Si en algún momento al **escribir en tu diario tu nombre, no lo recuerdas**, habrás perdido todos tus recuerdos y te quedarás atrapado en los dominios de Hades para toda la eternidad.
+If at any time, when **writing your name in your diary, you don't remember it**, you will have lost all your memories and will remain trapped in Hades's domain for all eternity.
 
-### Rememorar recuerdos
+### Recalling Memories
 
-Cuando encuentres **un recuerdo podrás rememorarlo**, sacando una carta al azar de la pila descartada, ya que los recuerdos son cosas que ya han pasado. Según la carta puedes construir el recuerdo.
+When you find a memory, you can recall it by drawing a card at random from the discard pile, as memories are things that have already happened. Based on the card, you can construct the memory.
 
-|Palo de a carta|Tipo de recuerdo|
+|Suit|Memory kind|
 |---|---|
-|Corazones (♥)|Recuerdos amorosos|
-|Picas (♠)|Enfrentamientos|
-|Tréboles (♣)|Hechos fortuitos|
-|Diamantes (♦)|Familia y amistad|
+|Hearts (♥)|Lovely memories|
+|Spades (♠)|Conflicts|
+|Clovers (♣)|Fortuitous events|
+|Diamonds (♦)|Family and friends|
 
-El valor de la carta también tiene un significado:
+The number of the card also has a meaning:
 
-|Valor|Significado|Valor|Significado|
+|Number|Meaning|Number|Meaning|
 |---|---|---|---|
-|As|Primer|8|Comodidad|
-|2|Dudas|9|Expareja|
-|3|Hogar|10|Último|
-|4|Detalles|J|Enfermedad|
-|5|Pobreza|Q|Guerra|
-|6|Riqueza|K|Muerte|
-|7|Regalos|—|—|
+|Ace|First|8|Comfort|
+|2|Doubts|9|Ex-partner|
+|3|Home|10|Last|
+|4|Details|J|Illness|
+|5|Poverty|Q|War|
+|6|Wealth|K|Death|
+|7|Gifts|—|—|
 
-Así el **As de corazones** (Primer/Amoroso) puede ser vuestro **primer beso** y el **Rey de picas** (Muerte/Enfrentamiento) un **enfrentamiento mortal con otra persona por tu alma gemela**.
+So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King of Spades** (Death/Conflict) a **mortal confrontation with another person for your soulmate**.
 
 \sc
 
-### Tablas generadoras
+### Random tables
 
-|d66|Elíseo|Asfódelos|Tártaro|
+|d66|Elysium|Asphodel Meadows|Tartarus|
 |---|---|---|---|
 |11|Lustroso rebaño de vacas|Acequia de agua negra|Escuálida figura en un trono|
 |12|Cisnes blancos|Fila de almas|Mar de kopis|
@@ -225,25 +225,28 @@ Así el **As de corazones** (Primer/Amoroso) puede ser vuestro **primer beso** y
 
 [![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
 
-# En el Hades
+# In Hades
 
-#### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights.
+#### «In Hades» is a solo role-playing game about Greek mythology based on Firelights.
 
 &nbsp;
 
-## Tu historia hasta ahora …
+## Your story so far …
 
-Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus halagos y te ha devuelto a tu amor perdido.
+You have descended into the underworld **to rescue the love of your life**. After much effort and hardship, Persephone has taken pity on you, accepted your flatteries, your gifts, and your compliments, and has returned your lost love.
 
-Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
+But there's a trick: your loved one doesn't remember you. Hades has stolen the six most important memories she had of you and your love.
 
-Antes de poder salir del Más Allá con tu alma gemela, debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino.
+Before you can leave the Underworld with your soulmate, you must enter the shadowy world of the dead with the torch given to you by a lampade, a nymph of the Afterlife, and recover all the important memories she had of you, which Hades has hidden in his realm.
 
-En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.
+Throughout your wanderings, you will be harassed by demons, demonic servants of the lord of the underworld.
 
+&nbsp;
 
 [![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
 
-> **Licencia:** Esta obra está basada en Firelights, producto de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, publicado en español por El Refugio de Ryhope y con licencia de uso bajo la [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+&nbsp;
 
-Juego diseñado por [Gwannon](https://gwannon.com/) | [Código original](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)
+> **License:** This work is based on Firelights, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+Game developed by [Gwannon](https://gwannon.com/) | [Open source](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)
