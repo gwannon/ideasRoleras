@@ -1,3 +1,21 @@
+[![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
+
+# En el Hades
+
+#### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights.## Tu historia hasta ahora …
+
+Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus halagos y te ha devuelto a tu amor perdido.
+
+Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
+
+Antes de poder salir del Más Allá con tu alma gemela, debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino.
+
+En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
+
+> **Licencia:** Esta obra está basada en Firelights, producto de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, publicado en español por El Refugio de Ryhope y con licencia de uso bajo la [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Juego diseñado por [Gwannon](https://gwannon.com/) | [Código original](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)
+
 ## PREPARAR TODO PARA JUGAR
 
 Para jugar, necesitarás lo siguiente:
@@ -62,7 +80,7 @@ Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es 
 
 ### Recordar y olvido
 
-En el hades solo eres recuerdos de tu vida y debes tratar de conservarlos. Cuando el marcador de olvido (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de parar y recordar; de lo contrario tu personaje terminaría por ver cómo su propia esencia se extingue.
+En el Hades solo eres recuerdos de tu vida y debes tratar de conservarlos. Cuando el marcador de olvido (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de parar y recordar; de lo contrario tu personaje terminaría por ver cómo su propia esencia se extingue.
 
 Cuando pares a recordar, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra el olvido al completo.
 
@@ -208,20 +226,3 @@ Así el **As de corazones** (Primer/Amoroso) puede ser vuestro **primer beso** y
 |66|Manantial de leche y miel|Cocito, río del lamento|Aqueronte, río del dolor|
 
 &ast; solo puede haber uno
-[![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
-
-# En el Hades
-
-#### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights.## Tu historia hasta ahora …
-
-Has bajado al inframundo a **rescatar al amor de tu vida**. Tras muchos esfuerzos y penurias, Perséfone se ha apiadado de ti, ha aceptado tus hazañas, tus dones o tus halagos y te ha devuelto a tu amor perdido.
-
-Pero hay trampa, tu persona amada no te recuerda. Hades le ha robado los 6 recuerdos más importantes que tenía de ti y de vuestro amor.
-
-Antes de poder salir del Más Allá con tu alma gemela, debes **adentrarte en el sombrío mundo de los muertos** con la antorcha que te ha entregado una _lámpade_, una ninfa del Más Allá, y recuperar todos los recuerdos importantes que tenía de ti y que Hades ha ocultado en su reino.
-
-En tus andanzas serás acosado por _démones_, siervos demoníacos del señor del inframundo.[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
-
-> **Licencia:** Esta obra está basada en Firelights, producto de [Fari RPGs](https://farirpgs.com/), desarrollado y escrito por René-Pier Deshaies-Gélinas, publicado en español por El Refugio de Ryhope y con licencia de uso bajo la [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-Juego diseñado por [Gwannon](https://gwannon.com/) | [Código original](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)

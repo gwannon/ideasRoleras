@@ -65,7 +65,7 @@ Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es 
 
 ### Recordar y olvido
 
-En el hades solo eres recuerdos de tu vida y debes tratar de conservarlos. Cuando el marcador de olvido (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de parar y recordar; de lo contrario tu personaje terminaría por ver cómo su propia esencia se extingue.
+En el Hades solo eres recuerdos de tu vida y debes tratar de conservarlos. Cuando el marcador de olvido (con 5 casillas) se llena o el mazo de aventura se agota, es el momento de parar y recordar; de lo contrario tu personaje terminaría por ver cómo su propia esencia se extingue.
 
 Cuando pares a recordar, escribe una entrada extra en el diario de viaje, baraja las cartas descartadas durante tu travesía junto con las del mazo de aventura y borra el olvido al completo.
 
@@ -226,7 +226,6 @@ Así el **As de corazones** (Primer/Amoroso) puede ser vuestro **primer beso** y
 [![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
 
 # En el Hades
-&nbsp;
 
 #### «En el Hades» es un juego de rol en solitario sobre mitología griega basado en Firelights.
 
