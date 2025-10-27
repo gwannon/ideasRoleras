@@ -94,13 +94,13 @@ When you act in the face of adversity, Action+Approach.
 * Upon **Shade**, it’s a partial success.
 * Upon **Darkness**, it’s a setback, mark **1 Forgetting**.
 
-### Buscar manzanas doradas
+### Search for Golden Apples
 
-Las manzanas doradas son el alimento de los dioses y otorgan inmortalidad y dicha. Cuando buscas manzanas doradas, acción + estilo.
+Golden apples are the food of the gods and grant immortality and happiness. When you search for golden apples, Action+Approach.
 
-* Con **Luz**, hay **2 manzanas**.
-* Con **Penumbra**, hay **1 manzana**.
-* Con **Oscuridad**, hay un **_demon_**, marca **1 olvido**.
+* Upon **Light**, you find 2 golden apples.
+* Upon **Shade**, you find 1 golden apple.
+* Upon **Darkness**, a _deamon_ is onto you, mark **1 Forgetting**.
 
 ### Buy Information
 
