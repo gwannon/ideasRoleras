@@ -81,6 +81,10 @@ _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género
 
 Les _māhū_ son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
 
+### Festivales
+
+XXX
+
 \sinc
 
 &nbsp;
@@ -258,7 +262,6 @@ Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marin
 
 * **Efecto de la Habilidad:** Consigues un número de raciones igual a (resultado de la tirada – número objetivo), pero no puedes participar en la tirada de Acampada/Fondear. **Crítico** las hace sabrosas y **pifia** te da una condición (Cansado 6).
 * **Prerrequisitos:** En masas de agua y terrenos cercanos al agua como riachuelos, playas y acantilados. Se necesita algún tipo de útil de pesca.
-
 * **Características:** DES+INT
 * **Número objetivo:** Topografía
 
