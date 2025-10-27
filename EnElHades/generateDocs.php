@@ -65,6 +65,15 @@ if($argv[1] == 'EnElHades') {
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
   $metas .= "InfoValue: rpg, ttrpg, Firelights, mitología griega\n\n";
+} else if($argv[1] == 'InHades') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: In Hades by Gwannon - Ver. 1.1\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: In Hades is a role-playing game based on Firelights in which you must explore the underworld to recover the lost memories of your love and thus be able to rescue them. Version 1.1\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, Firelights, greek mythos\n\n";
 }
 
 /* Generamos indice del PDF */
