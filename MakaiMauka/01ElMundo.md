@@ -28,15 +28,25 @@ XXX
 
 \conc
 
-Según las leyendas, dos grandes ballenas, Batú y Mautu, trajeron en su lomo a los humanos hasta _Hau Tarakona_ y crearon todas las islas del gran archipiélago. Cuando terminaron su viaje, cogieron aire y se lanzaron al fondo marino donde se supone que aún están. De las burbujas de aire que lanzaron se crearon las primeras islas que los humanos rápidamente poblaron.
+Según las leyendas, dos grandes ballenas, Batú y Mautu, trajeron en su lomo a los humanos hasta _Hua Tarakona_ y crearon todas las islas del gran archipiélago de las burbujas de aire de su respiración. Rápidamente, los humanos bajaron de la espalda de las ballenas y poblaron esas islas.
+
+Las dos grandes ballenas procrearon y dieron luz a todas las ballenas del mar y tras esto se hundieron bajo el mar. Según las leyendas, sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de noche y su inhalación la bajamar de día. Al exhalar Mautu crea la pleamar de día y al inhalar la bajamar de noche.
+
+> Aunque las ballenas son mamíferos que respiran aire, para los isleños son peces y respiran agua.
+
+\sp
+
+Al ser descendientes de Batú y Mautu, las ballenas son sagradas para los habitantes del archipiélago y no se cazan. Solo se permite «rescatar» sus cuerpos muertos de las playas, ya que se considera que la ballena ha donado su cuerpo a los humanos.
+
+> **Conceptos de teología:** Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
+
+Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). se dice que las siguen sirviendo quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _haukas_ (viajeros)
 
 XXX
 
-> Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
+\sc
 
-Según las leyendas, sus respiraciones crean las mareas. La exhalación de Batú crea la pleamar de noche y su inhalación la bajamar de día. Al exhalar Mautu crea la pleamar de día y al inhalar se genera la bajamar de noche.
-
-XXX
+&nbsp;
 
 \sp
 
@@ -54,9 +64,12 @@ XXX
 
 #### Ciclos lunares
 
-XXX
+Como en muchas otras culturas, el paso del tiempo viene marcado por los ciclos lunares. Normalmente cuando hay que poner tiempos cortos se usa el «hasta que cambie la luna», mientras que se quieren ciclos más largos se buscan fases concretas de la luna en relación con la actual.
+
+Normalmente cuando se buscan plazos largos y normalmente con efectos dramáticos se usan «hasta que vuelva esta luna» que sería un ciclo completo de 28 días. o peden darse más lunas con «dentro de N lunas» que es hasta que vuelva N veces la luna actual.
 
 ### Tatuajes
+
 Los habitantes de las islas tienden a hacerse tatuajes por todo el cuerpo, incluso en la cara. Estos tienen patrones geométricos y diseños tribales muy simples de diferentes animales cuyas virtudes posee la persona tatuada.
 
 Hacer tatuajes es una profesión muy respetada y sus secretos pasan de maestro a aprendiz. Normalmente, cada comunidad tiene un maestro y un aprendiz, pero cuando termina su entrenamiento, los aprendices se lanzan a viajar durante un tiempo ofreciendo sus servicios en aquellos lugares donde no hay tatuadores establecidos, hasta encontrar un sitio donde establecerse.
@@ -71,13 +84,13 @@ El surf es el deporte más practicado por los habitantes de _Hua Tarakona_. Es t
 
 Las competiciones son eventos importantes y los premios que se ofrecen pueden permitir a un buen surfista sobrevivir todo el año. Es por ello que no es raro encontrarse grupo de surfistas que viajan de asentamiento en asentamiento participando en diferentes pruebas y competiciones para ganarse la vida y poder seguir viajando practicando su deporte favorito.
 
+\sp
+
 No es extrañar llegar a una cala perdida y encontrarse con un círculo de tablas de surf clavadas en la arena y en su interior a surfistas descansando junto al fuego.
 
 ### Māhū
 
 _Māhū_ se usa para denominar a las personas pertenecientes a un tercer género. Se considera que encarnan tanto el espíritu masculino como el femenino.
-
-\sp
 
 Les _māhū_ son particularmente respetados como maestres, generalmente de danza hula y canto. Les _māhū_ también son valorades como guardianes de tradiciones culturales, como la transmisión genealógica. Tradicionalmente, los padres les pedían a les _māhū_ que les pusieran nombre a sus hijos.
 
@@ -127,7 +140,7 @@ XXX
 
 ### Hoa koholā (Ryuujin)
 
-Los primeros habitantes del archipiélago que vinieron con las ballenas primigenias son los _aumakuas_ más antiguos y poderosos que existen y también son los más venerados. Estos sirven a las ballenas y es por ello que son llamados los _hoa koholā_ (compañaeros de las ballenas).
+Los primeros habitantes del archipiélago que vinieron con las ballenas primigenias son los _aumakuas_ más antiguos y poderosos que existen y también son los más venerados. Estos sirven a las ballenas y es por ello que son llamados los _hoa koholā_ (compañeros de las ballenas).
 
 XXX
 
@@ -266,5 +279,9 @@ Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marin
 * **Número objetivo:** Topografía
 
 \sc
+
+&nbsp;
+
+\sp
 
 &nbsp;
