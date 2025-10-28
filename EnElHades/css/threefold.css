@@ -37,6 +37,10 @@ body {
   color: var(--main-color);
 }
 
+#InHades {
+  font-size: 10.5px;
+}
+
 body:before,
 body:after {
   content: "";

@@ -26,42 +26,42 @@ Finally, decide where you begin your journey.
 
 ## THE GAME
 
-### Realizar acciones
+### Making An Action
 
-Las acciones dirigen tu travesía a través del mundo. Cada una de ellas te ayudan por sí misma a resolver las preguntas que tengas o lo que decidas hacer.
+Actions guide your journey across the underworld. Each one is a self-contained system which helps you resolve the questions you have, or the actions you want to take.
 
-Al realizar una acción, sigue estos pasos:
+When making an Action, go through the following:
 
-* Roba 2 cartas de tu mazo de aventura.
-* Haz una tirada con los 2 dados de acción y suma el valor de ambos.
-* Añade cualquier modificador para obtener tu resultado.
+* Draw 2 cards face-up from your Story Deck.
+* Roll and sum your two Action Dice.
+* Add any modifiers to your roll to get your Score.
 
-Luego, interpreta el resultado y descarta las cartas usadas, a menos que la acción te indique usarlas:
+Interpret the result as follows, then discard the cards.
 
-* Si tu resultado es **mayor que la suma del valor de ambas cartas**, hay **Luz**.
-* Si tu resultado es **mayor que el valor de una de las cartas**, hay **Penumbra**.
-* De lo contrario, hay **Oscuridad**.
+* If your score is **higher than both cards**, there’s **Light**.
+* If your score is **higher than one card**, there’s **Shade**.
+* Otherwise, there’s **Darkness**.
+
+Aces are worth 1, Jacks are worth 11, Queens are worth 12, and Kings are worth 13. Each Action is formatted Actions+(Modifier), and tells you what happens when there’s Light, Shade or Darkness. Modifiers can be your approach, golden apples or anything else.
 
 \sc
 
-El as vale 1; la sota (**J**), 11; la reina (**Q**), 12; y el rey (**K**), 13. Cada tirada de acción se plantea como «acción + (modificador)», siendo este el valor de un estilo, el número de manzanas doradas o cualquier otro.
+### Exploring The World
 
-### Explorar el Mundo
+When you start the game, draw a card from the Story Deck, and place it face up in front of you. This is where you are right now. As you discover the land, you will add more cards to your World Map. Each card being a new region.
 
-Al comenzar, toma una carta del mazo de aventura, y colócala bocarriba sobre la mesa de juego. Es aquí donde te encuentras. Al proseguir tu viaje, añadirás más cartas al mapa del mundo. Cada carta representa una nueva región.
+When you add a new region card, the corner of your card needs to connect with another region’s corner. To know whether the region you are adding is located below, beside or above your current location, compare the numbers of both cards, and interpret the result.
 
-Para saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara el número de la nueva carta con el de tu ubicación actual e interpreta el resultado.
+* If the number on the new card is higher than the one on your current location, place the card above.
+* If the number on the new card is lower than the one on your current location, place the card below.
+* Otherwise, place the card beside your current location.
+* If the new card you place face up **is an Ace or K**, you have entered a **new zone of Hades**. Choose which new zone you arrive randomly (even numbered in one zone, odd numbered in the other).
 
-* Si el **número de la nueva carta es mayor**, colócala **bocarriba en la parte superior**, conectada por una de las esquinas.
-* Si el **número de la nueva carta es menor**, colócala **bocarriba en la parte inferior**, conectada por una de las esquinas.
-* Si el **número de la nueva carta es igual**, colócala **a un lado** (las cartas solo se pueden unir por las esquinas, así que esta región podría quedar aislada del resto; para acceder a ella, deberás seguir descubriendo regiones).
-* Si la nueva carta que colocas bocarriba **es un as**, has entrado en una **nueva zona del infierno**. Elige al azar a qué nueva zona llegas (par una zona, impar la otra).
+Use RANDOM TABLES for inspiration, place slips of paper on top of the cards to note down details about the region.
 
-Tira en la tabla generadora para tener una idea de que hay en la región, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribe una entrada en tu diario por cada región.
+### Recovering Memories
 
-### Recuperando los recuerdos
-
-Para ubicar las memorias, haz Descubrir una Región. Si la carta que añades es una figura (jota, reina o rey), hay una.
+To locate memories, DISCOVER A REGION. If the card you add is a face card (jack, queen, or king), there is one.
 
 ### Remembering and Forgetting
 
@@ -69,20 +69,17 @@ In Hades, you are only memories of your life, and you must try to preserve them.
 
 When you stop to remember, write an extra entry in your travel journal, shuffle the cards discarded during your journey with those in the Story Deck, and clear your Forgetting track.
 
-### Combatir _démones_
+### Fighting _daemons_
 
-Al buscar manzanas doradas, puedes encontrarte con _démones_. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra un _demon_. 
+If you encounter a _daemon_, you may confront them. Build a stack of cards as described in the FIGHT A _DAEMON_ action. When the number of cards of the stack matches the _daemon_’s Strength (STR), they fade away and perish. If you flee from a _daemon_, their stack persists until you encounter them again.
 
-Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
-Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
-
-* **Demon menor (VIT 5):** Estos espíritus o sombras conceptos como vejez, miedo, pobreza y de esa manera te atormentan. Las picas (♠) valen el doble al ser apiladas.
+* **Minor _daemon_ (STR 5):** These spirits or shadows, concepts like old age, fear or poverty, and in that way they torment you. Spades (♠) count as two stack cards.
 
 \sc
 
-* **Erinia/Furia (VIT 8):** Representan la venganza del crimen. Son mujeres aladas, con serpientes en su cabellera y portando una antorcha o un látigo. Las cartas negras (♠ ♣) valen el doble al ser apiladas.
-* **Juez (VIT 10):** Estos hijos de Zeus juzgan las almas y deciden a que parte del Hades son enviados. Las cartas rojas (♦♥) valen el doble al ser apiladas.
-* **Can cerbero (VIT 13):** El terrible sabueso de dos cabezas que nunca duerme y vigila las puertas del Más Allá. Los corazones (♥) valen el doble al ser apilados.
+* **Erinyes/Furies (STR 8):** They represent revenge for crimes. They are winged women, with snakes in their hair and carrying a torch or a whip. Black cards (♠ ♣) count as two stack cards.
+* **Judge (STR 10):** These sons of Zeus judge souls and decide which part of Hades they are sent to. Red cards (♦ ♥) count as two stack cards.
+* **Cerberus (STR 13):** The terrible two-headed hound that never sleeps and guards the gates of the Afterlife. Hearts (♥) count as two stack cards.
 
 ## THE ACTIONS
 
@@ -110,24 +107,24 @@ When you trade golden apples for knowledge, decide on a number of golden apples 
 * Upon **Shade**, you get partial information.
 * Upon **Darkness**, you get ambiguous information.
 
-### Descubrir una región
+### Discover a Region
 
-Cuando buscas un nuevo camino, acción + estilo.
+When you look for a new path, Action+Approach.
 
-* Con **Luz**, añade las 2 cartas reveladas a tu mapa.
-* Con **Penumbra**, añade 1 de las cartas reveladas a tu mapa.
-* Con **Oscuridad**, el camino parece infranqueable. Añade 1 de las cartas reveladas al mapa, bocabajo, y marca **1 olvido**. Para poder atravesarlo y voltear la carta, Comprar información o Afrontar el riesgo.
+* Upon **Light**, add the two cards to your map.
+* Upon **Shade**, add either one of the cards to your map.
+* Upon **Darkness**, the path is hidden. Add either one of the cards to your map, face down, and mark **1 Forgetting**. To reveal a hidden path, you may BUY INFORMATION or CONFRONT RISK.
 
-### Luchar contra un _demon_
 
-Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número de cartas apiladas sea igual que su Vitalidad.
+### Fight A _daemon_
 
-* Con **Luz**, apila las 2 cartas reveladas contra el _demon_.
-* Con **Penumbra**, apila 1 de las cartas reveladas contra el _demon_.
+When you confront a _daemon_, Action+Approach. Repeat until you’ve stacked enough cards to match its Strength.
+
+* Upon **Light**, stack the **two cards** on the curse.
+* Upon **Shade**, stack either **one of the cards** on the curse.
+* Upon **Darkness**, **EVADE DANGER**.
 
 \sp
-
-* Con **Oscuridad**, haz la acción Evadir el peligro.
 
 ### Evade Danger
 
@@ -183,10 +180,10 @@ So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King 
 |d66|Elysium|Asphodel Meadows|Tartarus|
 |---|---|---|---|
 |11|Lustroso rebaño de vacas|Acequia de agua negra|Escuálida figura en un trono|
-|12|Cisnes blancos|Fila de almas|Mar de kopis|
+|12|White swans|Fila de almas|Mar de kopis|
 |13|Estatua de Hades|Almas errantes|Pantano de sombras|
-|14|Estadio olímpico|Procesión de almas|Estigia, río del odio|
-|15|Perfumado olivar|Arenas movedizas|Pirámide de cristal opaco|
+|14|Olympic stadium|Procesión de almas|Estigia, río del odio|
+|15|Perfumado olivar|Quicksand|Pirámide de cristal opaco|
 |16|Ovejas de lana dorada|Frutales secos|Espejismo de tu hogar|
 |21|Panales de rica miel|Olivo marchito|Planicie de cráneos|
 |22|Arroyo de aguas cristalinas|Almas junto a una hoguera apagada|Rebaño de vacas esqueléticas|
@@ -205,7 +202,7 @@ So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King 
 |43|Manada de pegasos|Estigia, río del odio|Pozo sin fondo|
 |44|Observatorio astronómico|Almas mirando al cielo|Zarzas con grandes pinchos|
 |45|Blandos montones de heno|Viento que dificulta avanzar|Tambores invisibles ensordecedores|
-|46|Pradera de sombras|Templo caído|Géiser de brea ardiente|
+|46|Meadow of shadows|Templo caído|Géiser de brea ardiente|
 |51|Pérgola con comida|Fuente seca|Muro invisible|
 |52|Cornucopia lleva de riquezas|Explanada de fuegos fatuos|Personas petrificadas con caras de horror|
 |53|Fuente de vino y miel|Gran olmo sin hojas|Gigantesco pie de Cronos|
@@ -213,13 +210,13 @@ So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King 
 |55|Lago con islote en el centro|Puente derruido sobre el Estigia|Mendiga que vende manzanas|
 |56|Camino adoquinado|Columnas derruidas|Precipicio interminable|
 |61|Suelo cubierto de monedas de cobre|Campo de amapolas ajadas|Muro de fuego|
-|62|2 monedas para Caronte|Almas inmóviles|Laguna de hiel|
-|63|Suave y refrescante brisa|Estatua sin cabeza|Emanaciones de gas verde|
+|62|2 coins for Charon|Almas inmóviles|Bile lagoon|
+|63|Suave y refrescante brisa|Headless statue|Emanaciones de gas verde|
 |64|Templete cubierto de flores|Roble partido por un rayo|Roca de Prometeo &ast;|
 |65|Deliciosa música sin músicos|Lámpades que recoge leña para antorchas|Pedruscos que caen colina abajo &ast;|
 |66|Manantial de leche y miel|Cocito, río del lamento|Aqueronte, río del dolor|
 
-&ast; solo puede haber uno
+&ast; there can only be one
 
 \sc
 
