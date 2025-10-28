@@ -55,7 +55,7 @@ Para saber dónde situar las nuevas cartas que irás añadiendo al mapa, compara
 * Si el **número de la nueva carta es mayor**, colócala **bocarriba en la parte superior**, conectada por una de las esquinas.
 * Si el **número de la nueva carta es menor**, colócala **bocarriba en la parte inferior**, conectada por una de las esquinas.
 * Si el **número de la nueva carta es igual**, colócala **a un lado** (las cartas solo se pueden unir por las esquinas, así que esta región podría quedar aislada del resto; para acceder a ella, deberás seguir descubriendo regiones).
-* Si la nueva carta que colocas bocarriba **es un as**, has entrado en una **nueva zona del infierno**. Elige al azar a qué nueva zona llegas (par una zona, impar la otra).
+* Si la nueva carta que colocas bocarriba **es As o K**, has entrado en una **nueva zona del infierno**. Elige al azar a qué nueva zona llegas (par una zona, impar la otra).
 
 Tira en la tabla generadora para tener una idea de que hay en la región, coloca pósits sobre las cartas para anotar detalles acerca de la región. Y escribe una entrada en tu diario por cada región.
 
@@ -74,6 +74,7 @@ Cuando pares a recordar, escribe una entrada extra en el diario de viaje, baraja
 Al buscar manzanas doradas, puedes encontrarte con _démones_. Para combatirlas, apila cartas tal y como se indica en los resultados de la acción Luchar contra un _demon_. 
 
 Cuando el número de cartas de la pila sea igual a la vitalidad (VIT) del _demon_, este se desvanece y perece.
+
 Si huyes de un _demon_, las cartas apiladas se mantienen hasta el próximo encuentro.
 
 * **Demon menor (VIT 5):** Estos espíritus o sombras conceptos como vejez, miedo, pobreza y de esa manera te atormentan. Las picas (♠) valen el doble al ser apiladas.
