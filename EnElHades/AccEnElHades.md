@@ -138,7 +138,6 @@ Cuando te enfrentas a un _demon_, acción + estilo. Repite hasta que el número 
 * Con **Luz**, apila las 2 cartas reveladas contra el _demon_.
 * Con **Penumbra**, apila 1 de las cartas reveladas contra el _demon_.
 * Con **Oscuridad**, haz la acción Evadir el peligro.
-
 ### Evadir el Peligro
 
 Cuando evites una amenaza inminente, acción + estilo.
@@ -154,6 +153,8 @@ Cuando requieras respuestas de Sí/No: acción + 2 si es probable; acción + 0 s
 * Con **Luz**, la respuesta es **“Sí, y…”**.
 * Con **Penumbra**, la respuesta es **“Sí, pero…”**.
 * Con **Oscuridad**, la respuesta es **“No, y…”**.
+
+## Otras reglas
 
 ### Nombres
 

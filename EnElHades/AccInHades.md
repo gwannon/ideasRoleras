@@ -125,7 +125,9 @@ When you look for a new path, Action+Approach.
 
 * Upon **Light**, add the two cards to your map.
 * Upon **Shade**, add either one of the cards to your map.
-* Upon **Darkness**, the path is hidden. Add either one of the cards to your map, face down, and mark **1 Forgetting**. To reveal a hidden path, you may BUY INFORMATION or CONFRONT RISK.### Fight A _daemon_
+* Upon **Darkness**, the path is hidden. Add either one of the cards to your map, face down, and mark **1 Forgetting**. To reveal a hidden path, you may BUY INFORMATION or CONFRONT RISK.
+
+### Fight A _daemon_
 
 When you confront a _daemon_, Action+Approach. Repeat until you’ve stacked enough cards to match its Strength.
 
@@ -147,6 +149,8 @@ When you want answers to a yes/no question, Action+2 if likely. Action+0 if unli
 * Upon **Light**, the answer is **“yes, and…”**.
 * Upon **Shade**, the answer is **“yes, but…”**.
 * Upon **Darkness**, the answer is **“no, and…”**.
+
+## Other rules
 
 ### Names
 

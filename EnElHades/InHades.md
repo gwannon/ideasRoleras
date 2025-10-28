@@ -74,10 +74,10 @@ When you stop to remember, write an extra entry in your travel journal, shuffle 
 If you encounter a _daemon_, you may confront them. Build a stack of cards as described in the FIGHT A _DAEMON_ action. When the number of cards of the stack matches the _daemon_’s Strength (STR), they fade away and perish. If you flee from a _daemon_, their stack persists until you encounter them again.
 
 * **Minor _daemon_ (STR 5):** These spirits or shadows, concepts like old age, fear or poverty, and in that way they torment you. Spades (♠) count as two stack cards.
+* **Erinyes/Furies (STR 8):** They represent revenge for crimes. They are winged women, with snakes in their hair and carrying a torch or a whip. Black cards (♠ ♣) count as two stack cards.
 
 \sc
 
-* **Erinyes/Furies (STR 8):** They represent revenge for crimes. They are winged women, with snakes in their hair and carrying a torch or a whip. Black cards (♠ ♣) count as two stack cards.
 * **Judge (STR 10):** These sons of Zeus judge souls and decide which part of Hades they are sent to. Red cards (♦ ♥) count as two stack cards.
 * **Cerberus (STR 13):** The terrible two-headed hound that never sleeps and guards the gates of the Afterlife. Hearts (♥) count as two stack cards.
 
@@ -115,7 +115,6 @@ When you look for a new path, Action+Approach.
 * Upon **Shade**, add either one of the cards to your map.
 * Upon **Darkness**, the path is hidden. Add either one of the cards to your map, face down, and mark **1 Forgetting**. To reveal a hidden path, you may BUY INFORMATION or CONFRONT RISK.
 
-
 ### Fight A _daemon_
 
 When you confront a _daemon_, Action+Approach. Repeat until you’ve stacked enough cards to match its Strength.
@@ -141,6 +140,8 @@ When you want answers to a yes/no question, Action+2 if likely. Action+0 if unli
 * Upon **Light**, the answer is **“yes, and…”**.
 * Upon **Shade**, the answer is **“yes, but…”**.
 * Upon **Darkness**, the answer is **“no, and…”**.
+
+## Other rules
 
 ### Names
 
