@@ -179,17 +179,17 @@ So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King 
 
 |d66|Elysium|Asphodel Meadows|Tartarus|
 |---|---|---|---|
-|11|Lustroso rebaño de vacas|Acequia de agua negra|Escuálida figura en un trono|
-|12|White swans|Fila de almas|Mar de kopis|
-|13|Estatua de Hades|Almas errantes|Pantano de sombras|
-|14|Olympic stadium|Procesión de almas|Estigia, río del odio|
-|15|Perfumado olivar|Quicksand|Pirámide de cristal opaco|
-|16|Ovejas de lana dorada|Frutales secos|Espejismo de tu hogar|
-|21|Panales de rica miel|Olivo marchito|Planicie de cráneos|
-|22|Arroyo de aguas cristalinas|Almas junto a una hoguera apagada|Rebaño de vacas esqueléticas|
-|23|Estatua de héroe|Establos de Hades &ast;|Pozo de serpientes|
-|24|Sátiros y ninfas|Tierra polvorienta|Flegetonte, río ardiente|
-|25|Inmenso campo de flores|Atril con un libro vacío|Meseta de afiladas estalagmitas|
+|11|Lustrous herd of cows|Black water ditch|Squalid figure on a throne|
+|12|White swans|Queue of souls|Sea of kopis|
+|13|Hades Statue|Wandering souls|Swamp of shadows|
+|14|Olympic stadium|Procession of souls|Estigia, río del odio|
+|15|Scented olive grove|Quicksand|Opaque glass pyramid|
+|16|Golden wool sheep|Dead fruit trees|Mirage of your home|
+|21|Honeycombs with delicious honey|Withered olive tree|Plain of Skulls|
+|22|Stream of crystal-clear waters|Souls near an extinguished bonfire|Herd of skeletal cows|
+|23|Demigod/demigodness statue|Hades's Stables &ast;|Snakes pit|
+|24|Satyrs and nymphs|Dusty land|Flegetonte, río ardiente|
+|25|Immense field of flowers|Atril con un libro vacío|Meseta de afiladas estalagmitas|
 |26|Olivo lleno de frutos|Lago de almas|Fuente de sangre|
 |31|Musas en un anfiteatro|Cueva ululante|Almas que siguen tu rastro|
 |32|Gigantesco templo|Cauce de río seco|Alma cavando en la tierra|
@@ -234,11 +234,9 @@ You have descended into the underworld **to rescue the love of your life**. Afte
 
 But there's a trick: your loved one doesn't remember you. Hades has stolen the six most important memories she had of you and your love.
 
-Before you can leave the Underworld with your soulmate, you must enter the shadowy world of the dead with the torch given to you by a lampade, a nymph of the Afterlife, and recover all the important memories she had of you, which Hades has hidden in his realm.
+Before you can leave the Underworld with your soulmate, you must enter the shadowy world of the dead with the torch given to you by a _lampade_, a nymph of the Afterlife, and recover all the important memories she had of you, which Hades has hidden in his realm.
 
 Throughout your wanderings, you will be harassed by demons, demonic servants of the lord of the underworld.
-
-&nbsp;
 
 [![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
 
