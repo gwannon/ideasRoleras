@@ -1,3 +1,21 @@
+[![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
+
+# In Hades
+
+#### «In Hades» is a solo role-playing game about Greek mythology based on Firelights.## Your story so far …
+
+You have descended into the underworld **to rescue the love of your life**. After much effort and hardship, Persephone has taken pity on you, accepted your flatteries, your gifts, and your compliments, and has returned your lost love.
+
+But there's a trick: your loved one doesn't remember you. Hades has stolen the six most important memories she had of you and your love.
+
+Before you can leave the Underworld with your soulmate, you must enter the shadowy world of the dead with the torch given to you by a _lampade_, a nymph of the Afterlife, and recover all the important memories she had of you, which Hades has hidden in his realm.
+
+Throughout your wanderings, you will be harassed by demons, demonic servants of the lord of the underworld.
+
+[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")> **License:** This work is based on Firelights, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+Game developed by [Gwannon](https://gwannon.com/) | [Open source](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)
+
 ## PREPARING THE GAME
 
 To play this game, you will need the following materials:
@@ -43,9 +61,6 @@ Interpret the result as follows, then discard the cards.
 * Otherwise, there’s **Darkness**.
 
 Aces are worth 1, Jacks are worth 11, Queens are worth 12, and Kings are worth 13. Each Action is formatted Actions+(Modifier), and tells you what happens when there’s Light, Shade or Darkness. Modifiers can be your approach, golden apples or anything else.
-
-\sc
-
 ### Exploring The World
 
 When you start the game, draw a card from the Story Deck, and place it face up in front of you. This is where you are right now. As you discover the land, you will add more cards to your World Map. Each card being a new region.
@@ -74,9 +89,6 @@ When you stop to remember, write an extra entry in your travel journal, shuffle 
 If you encounter a _daemon_, you may confront them. Build a stack of cards as described in the FIGHT A _DAEMON_ action. When the number of cards of the stack matches the _daemon_’s Strength (STR), they fade away and perish. If you flee from a _daemon_, their stack persists until you encounter them again.
 
 * **Minor _daemon_ (STR 5):** These spirits or shadows, concepts like old age, fear or poverty, and in that way they torment you. Spades (♠) count as two stack cards.
-
-\sc
-
 * **Erinyes/Furies (STR 8):** They represent revenge for crimes. They are winged women, with snakes in their hair and carrying a torch or a whip. Black cards (♠ ♣) count as two stack cards.
 * **Judge (STR 10):** These sons of Zeus judge souls and decide which part of Hades they are sent to. Red cards (♦ ♥) count as two stack cards.
 * **Cerberus (STR 13):** The terrible two-headed hound that never sleeps and guards the gates of the Afterlife. Hearts (♥) count as two stack cards.
@@ -113,19 +125,13 @@ When you look for a new path, Action+Approach.
 
 * Upon **Light**, add the two cards to your map.
 * Upon **Shade**, add either one of the cards to your map.
-* Upon **Darkness**, the path is hidden. Add either one of the cards to your map, face down, and mark **1 Forgetting**. To reveal a hidden path, you may BUY INFORMATION or CONFRONT RISK.
-
-
-### Fight A _daemon_
+* Upon **Darkness**, the path is hidden. Add either one of the cards to your map, face down, and mark **1 Forgetting**. To reveal a hidden path, you may BUY INFORMATION or CONFRONT RISK.### Fight A _daemon_
 
 When you confront a _daemon_, Action+Approach. Repeat until you’ve stacked enough cards to match its Strength.
 
 * Upon **Light**, stack the **two cards** on the curse.
 * Upon **Shade**, stack either **one of the cards** on the curse.
 * Upon **Darkness**, **EVADE DANGER**.
-
-\sp
-
 ### Evade Danger
 
 When you avoid an impending threat, Action+Approach.
@@ -172,9 +178,6 @@ The number of the card also has a meaning:
 |7|Gifts|—|—|
 
 So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King of Spades** (Death/Conflict) a **mortal confrontation with another person for your soulmate**.
-
-\sc
-
 ### Random tables
 
 |d66|Elysium|Asphodel Meadows|Tartarus|
@@ -217,31 +220,3 @@ So the **Ace of Hearts** (First/Love) can be your **first kiss** and the **King 
 |66|Spring of milk and honey|Cocytus, river of lamentation|Acheron, river of sorrow|
 
 &ast; there can only be one
-
-\sc
-
-[![Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector](./css/27793.jpg "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")](https://www.freepik.com/free-vector/ancient-greek-underworld-god-king-dead-hades-flat-cartoon-composition-with-three-headed-dog_6845837.htm "Ancient greek underworld god king of dead hades flat cartoon composition with three headed dog by macrovector")
-
-# In Hades
-
-#### «In Hades» is a solo role-playing game about Greek mythology based on Firelights.
-
-&nbsp;
-
-## Your story so far …
-
-You have descended into the underworld **to rescue the love of your life**. After much effort and hardship, Persephone has taken pity on you, accepted your flatteries, your gifts, and your compliments, and has returned your lost love.
-
-But there's a trick: your loved one doesn't remember you. Hades has stolen the six most important memories she had of you and your love.
-
-Before you can leave the Underworld with your soulmate, you must enter the shadowy world of the dead with the torch given to you by a _lampade_, a nymph of the Afterlife, and recover all the important memories she had of you, which Hades has hidden in his realm.
-
-Throughout your wanderings, you will be harassed by demons, demonic servants of the lord of the underworld.
-
-[![Guided by Firelights](./css/guided-by-firelights.png "Guided by Firelights")](https://www.freepik.com/free-vector/tropical-island-cartoon-poster-with-rising-sun-sea-vector-illustration_37366207.htm "Guided by Firelights")
-
-&nbsp;
-
-> **License:** This work is based on Firelights, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
-
-Game developed by [Gwannon](https://gwannon.com/) | [Open source](https://github.com/gwannon/ideasRoleras/tree/main/EnElHades)
