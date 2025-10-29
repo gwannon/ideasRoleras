@@ -18,6 +18,14 @@ XXX
 
 XXX
 
+> Es importante que tengas en cuenta como DJ que el archipiélago es inmenso y ay miles de islas grandes y pequeñas, así que todo es posible en ellas. Necesitas una isla con dos volcanes, pues seguramente existe esa isla, necesitas un atolón con un islote en la laguna interior, pues también hay. Además, puedes crearlas donde quieras o incluso hacerlas aparecer delante de tus jugadores tras una gran erupción volcánica submarina. Considera que el mapa de _Hua Tarakona_ está vivo y a tu total disposición.
+
+XXX
+
+\sc
+
+> No existe un mapa real del archipiélago para que lo crees tú a tu gusto. Si no quieres complicarte, sé muy ambiguo cuando describas donde está una isla de forma que puedas modificarlo a tu gusto sin que rompa la competencia.
+
 \sp
 
 \sinc
