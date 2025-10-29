@@ -48,7 +48,7 @@ Al ser descendientes de Batú y Mautu, las ballenas son sagradas para los habita
 
 > **Conceptos de teología:** Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
 
-Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). se dice que las siguen sirviendo quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _haukas_ (viajeros)
+Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). Se dice que las siguen sirviendo hoy en día, quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _haukas_ (viajeros).
 
 XXX
 
@@ -72,9 +72,9 @@ XXX
 
 #### Ciclos lunares
 
-Como en muchas otras culturas, el paso del tiempo viene marcado por los ciclos lunares. Normalmente cuando hay que poner tiempos cortos se usa el «hasta que cambie la luna», mientras que se quieren ciclos más largos se buscan fases concretas de la luna en relación con la actual.
+Como en muchas otras culturas, el paso del tiempo viene marcado por los ciclos lunares. Normalmente, cuando hay que poner tiempos cortos se usa el «hasta que cambie la luna», mientras que se quieren ciclos más largos se buscan fases concretas de la luna en relación con la actual.
 
-Normalmente cuando se buscan plazos largos y normalmente con efectos dramáticos se usan «hasta que vuelva esta luna» que sería un ciclo completo de 28 días. o peden darse más lunas con «dentro de N lunas» que es hasta que vuelva N veces la luna actual.
+De normal cuando se buscan plazos largos y normalmente con efectos dramáticos se usan «hasta que vuelva esta luna» que sería un ciclo completo de 28 días. O pueden darse más lunas con «dentro de N lunas» que es hasta que vuelva N veces la luna actual.
 
 ### Tatuajes
 
@@ -94,6 +94,14 @@ Las competiciones son eventos importantes y los premios que se ofrecen pueden pe
 
 \sp
 
+\sinc
+
+[![Imagen de M Ameen en Pixabay](./images/hawaii-fire-dance-825184_640.jpg "Imagen de M Ameen en Pixabay")](https://pixabay.com/es/photos/baile-de-fuego-hawaiano-fuego-hawai-825184/ "Imagen de M Ameen en Pixabay")
+
+&nbsp;
+
+\conc
+
 No es extrañar llegar a una cala perdida y encontrarse con un círculo de tablas de surf clavadas en la arena y en su interior a surfistas descansando junto al fuego.
 
 ### Māhū
@@ -104,7 +112,17 @@ Les _māhū_ son particularmente respetados como maestres, generalmente de danza
 
 ### Festivales
 
-XXX
+Los festivales y eventos festivos son muy comunes para celebrar infinidad de cosas desde la llegada de una nueva estación, al regreso de las ballenas de su migración anual. Normalmente, suelen hacerse en la playa o en praderas cercanas al asentamiento donde se colocan grandes mesas con bancos y se sirven todo tipo de comidas.
+
+Es muy típico asar, enterrado con briquetas de madera, un gran cerdo. Se suele acompañar con arroz, pescado fresco y seco y multitud de frutas.
+
+\sp
+
+Otro punto importante que suele haber en todos estos eventos son las ofrendas a diferentes divinidades, desde dioses y _aumakuas_ a criaturas de mediano gran poder que vivan cerca. Las ofrendas van desde collares y XXX de flores a las mejores partes del cerdo asado. 
+
+Los bailes hula perfectamente realizados son ofrendas muy cotizadas y de ahí que los buenos bailarines y bailarinas de hula sean personas muy apreciadas y queridas en las diferentes comunidades. Otras opciones para agradar a los dioses suelen ser competiciones de surf y los participantes suelen ser agasajados con bailes y comida y bebida en abundancia. Por último, a la noche se suelen ofrecen bailes con bastones de fuego que generan bonitas figuras en el aire de la noche.
+
+Estos festivales suelen empezar a la mañana y estirarse hasta bien entrada la noche a la luz de las antorchas. El consumo de alcohol es muy bajo y suele ser de baja graduación con lo que las borracheras y todo lo que suelen traer, como peleas, son escasas.
 
 \sinc
 
@@ -124,9 +142,9 @@ También es algo normal lanzarse a viajar **en busca de fortuna y mejores oportu
 
 Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y muchas de ellas están dispuestas a concederte sus dones. Así que **las peregrinaciones son otra forma de viaje** muy extendida entre las gentes del archipiélago. Viajar al volcán de una isla lejana a pedirle su favor a la diosa del fuego que allí habita es una buena semilla de viaje.
 
-\sinc
+\sp
 
-&nbsp;
+\sinc
 
 ## Tabú
 
@@ -134,9 +152,9 @@ Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y 
 
 XXX
 
-\sp
-
 \sinc
+
+&nbsp;
 
 ## Aumakuas
 
@@ -208,7 +226,7 @@ También hay nuevas profesiones y acciones que puedes añadir a las clases actua
 
 |Clase|Profesión|Acciones|
 |---|---|---|
-|**Trovador**|Bailarín Hula, Cuentacuentos|Bailar hula, contar cuentos|
+|**Trovador**|Bailarín Hula, _Siva Afi_ (Bailarín de fuego), Cuentacuentos|Bailar hula, hacer acrobacias con bastón de fuego, contar cuentos|
 |**Mercader**|Estibador, Conservero|Estibar, descargar, ahumar o salar pescado|
 |**Cazador**|Rastreador, Explorador|Seguir huellas, buscar sendas, explorar|
 |**Sanador**|_Kahuna_ (chamán, curandero)|Triturar e infusionar, interpretar sueños|
@@ -287,9 +305,5 @@ Sabes cómo atrapar pequeños animales acuáticos y cocinarlos en entornos marin
 * **Número objetivo:** Topografía
 
 \sc
-
-&nbsp;
-
-\sp
 
 &nbsp;
