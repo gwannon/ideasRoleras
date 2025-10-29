@@ -28,17 +28,17 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 
 Suelen **transformarse en animales marinos** como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos. Se dice que no pueden abandonar el agua y por lo menos una de sus extremidades tiene que estar en contacto con el agua.
 
-* **Nivel/Tipo:** XXX / Acuático
+* **Nivel/Tipo:** X / Acuático
 * **Botín:** Aparejos de pesca, redes o tridentes, todos ellos de calidad, que roba a los pescadores (500mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
+* **Iniciativa:** X
 
 \sp
 
-* **Salud:** XXX
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Forma acuática.** Pueden respirar bajo el agua y nadar a gran velocidad.
 * **Terreno habitual:** Playas, costas, ríos navegables y riachuelos 
 * **Marea:** Según el animal al que se transformen (ver animales más adelante)
@@ -47,29 +47,29 @@ Suelen **transformarse en animales marinos** como tiburones o mantarrayas. Suele
 
 Pueden transformarse en águilas y halcones de gran tamaño con terribles garras. Se conocen hasta casos de gallos realmente agresivos.
 
-* **Nivel/Tipo:** XXX / Terrestre
+* **Nivel/Tipo:** X / Terrestre
 * **Botín:** Plumas de colores de gran tamaño perfectos para capas y tocados (2000 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Vuelo.** Pueden volar a gran velocidad en su forma de ave.
 * **Terreno habitual:** Montañas y acantilados de los litorales
 
 ### Kupua de Fuego
 
-Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca al rojo vivo y/o lava.
+Estos kupuas no tienen una forma alternativa, directamente sus cuerpos son de roca al rojo vivo y/o lava.
 
-* **Nivel/Tipo:** XXX / Terrestre
+* **Nivel/Tipo:** X / Terrestre
 * **Botín:** Piezas de piedra volcánicas de gran valor como basalto o sílex (500 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Lava como sangre.** Son seres de lava y rocas incandescentes, así que son inmunes al fuego y puede lanzar un chorro de lava, que tira d10+d10 para Impactar, d10 para Daño de fuego.
 * **Terreno habitual:** Volcanes
 
@@ -79,14 +79,14 @@ Estos kupuas no tienen una forma alternativa, directamente su cuerpo son de roca
 
 Pueden convertirse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.
 
-* **Nivel/Tipo:** XXX / No tienen tipo fijo
+* **Nivel/Tipo:** X / No tienen tipo fijo
 * **Botín:** --
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 
 \sp
 
@@ -99,14 +99,14 @@ Estos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidad
 
 Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas a la gente para internar asfixiarlos.
 
-* **Nivel/Tipo:** XXX / Terrestre*
+* **Nivel/Tipo:** X / Terrestre*
 * **Botín:** Material vegetal de gran calidad, lianas resistentes que pueden usarse como cuerdas, hojas para trenzar, palos rectos resistentes y flexibles para armas de asta, etc. (1000 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos al Impactar para atrapar a sus víctimas y asfixiarlos provocando [Conmocionado: 4]
 * **Terreno habitual:** Selvas, selvas vírgenes
 
@@ -116,34 +116,34 @@ _*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pu
 
 Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene una vaga forma humanoide. Suele habitar los arrecifes, acantilados y playas donde asimila las conchas abandonadas.
 
-* **Nivel/Tipo:** XXX / Anfibio
+* **Nivel/Tipo:** X / Anfibio
 * **Botín:** Nácar para hacer incrustaciones (3000 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Esquirlas de nácar.** Las conchas que conforman su cuerpo se astillan y saltan cuando le golpean, de manera que es impactada el atacante recibe [Herido: 4]
 * **Terreno habitual:** Arrecifes, playas
-* **Marea:** XXX
+* **Marea:** Bajamar diurna
 
 ### Kupua de flores
 
-Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores. En vez de usar sus raíces y sus zarcillos, usan sus flores de maneras variadas.
+Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores.
 
 \sp
 
-Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
+En vez de usar sus raíces y sus zarcillos, usan sus flores de maneras variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
 
-* **Nivel/Tipo:** XXX / Terrestre
+* **Nivel/Tipo:** X / Terrestre
 * **Botín:** Flores exóticas y extrañas para decoraciones florales (500 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Polinización.** Al hacer un ataque e impactar en su objetivo, tira un a d6. Con un resultado de 1-3, de las flores salen o miles de insectos que pican al objetivo [Herido: 6]. Con 4-6, las flores expulsan un montón de polen narcótico que atonta al objetivo con [Envenenado: 6].
 * **Terreno habitual:** Praderas, selvas, selvas vírgenes
 
@@ -151,14 +151,14 @@ Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores
 
 Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven como uno solo. En su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente. Su estado natural es ser un montón de mentes trabajando coordinados.
 
-* **Nivel/Tipo:** XXX / Acuático
+* **Nivel/Tipo:** X / Acuático
 * **Botín:** Pescado variado (500 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Banco de peces.** Es muy difícil dañarle, porque no es un cuerpo físico, sino multitud de peces. Al golpearle solo dañas a un par de peces no a todo el Kupua. XXX
 * **Terreno habitual:** Costa, arrecifes y mar abierto
 * **Marea:** Bajamar diurna
@@ -191,27 +191,27 @@ Antes de morir en combate suele ofrecer un favor menor normalmente relacionado c
 
 ### Humanoide
 
-* **Nivel/Tipo:** XXX / Terrestre
+* **Nivel/Tipo:** X / Terrestre
 * **Botín:** Un favor menor
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** Riachuelos
 
 ### Gran lagarto
 
-* **Nivel/Tipo:** XXX / Anfibio
+* **Nivel/Tipo:** X / Anfibio
 * **Botín:** Un favor menor
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Habilidad excepcional.** Hay una habilidad, destreza o artesanía que se le da excepcionalmente bien y tira siempre con un +4.
 * **Terreno habitual:** Riachuelos
 
@@ -238,8 +238,8 @@ La gran boca de tiburón en su espalda es lo único que los identifica como _nan
 * **Nivel/Tipo:** 7 / Anfibio
 * **Botín:** Sus objetos personales que usa como humano (300 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** 8 / 8 / 6 / 8
 * **Impactar/Daño:** d8+d8 / d8
 * **Defensa:** 4
@@ -295,19 +295,19 @@ Las islas no tienen grandes animales terrestres que pudieran ser un problema par
 
 Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y tamaños desde el tiburón ballena que se alimenta pequeños crustáceos a los agresivos tiburones toro. Solo los más afresivos son un problema para tus _hauka_ y mejor no caigan al agua si estos merodean cerca.
 
-* **Nivel/Tipo:** XXX / Acuático
+* **Nivel/Tipo:** X / Acuático
 * **Botín:** Dientes de tiburón para armas (500 mo) y cuero impermeable (1000 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 
 \sp
 
 * **Terreno habitual:** Costa, arrecifes y mar abierto
-* **Marea:** XXX
+* **Marea:** Bajamar nocturna
 
 
 [![Stingray with its silhouette on transparent by brgfx](./images/19598076.png "Stingray with its silhouette on transparent by brgfx")](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm "Stingray with its silhouette on transparent by brgfx")
@@ -321,11 +321,11 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **Nivel/Tipo:** Acuático
 * **Botín:** Veneno de mantarraya (400mo) y cuero impermeable (1000 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar diurna
@@ -334,14 +334,14 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 
 No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
 
-* **Nivel/Tipo:** XXX / Acuático
+* **Nivel/Tipo:** X / Acuático
 * **Botín:** Perla gigante (5.000 mo)
 * **PM/PG:** X / X
-* **Iniciativa:** XXX
-* **Salud:** XXX
+* **Iniciativa:** X
+* **Salud:** X
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
-* **Defensa:** XXX
+* **Defensa:** X
 * **Habilidad especial:** **Atrapar:** El poderoso músculo que abre y cierra su gigantesca concha es tan fuerte que puede atraparte brazos o piernas y no dejarte escapar o subir a respirar. XXX
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar nocturna
