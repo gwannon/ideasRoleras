@@ -150,7 +150,17 @@ Por último, el mundo de _Hua Tarakona_ está poblado de diversas divinidades y 
 
 \conc
 
-XXX
+Los tabús son leyes que prohíben normalmente comportamientos por considerarse repulsivos, sagrados o reservados a ciertas clases. No son leyes regladas que se puedan invocar en disputas y juicios. Son solo prohibiciones que la sociedad espera que sus miembros cumplan y que no tienen consecuencias penales, solo sociales.
+
+Suelen tener una explicación normalmente de carácter divino o mágico que explica por qué debemos cumplir el tabú.
+
+Lo normal es que cada comunidad tenga tres o cuatro tabús propios y locales, que ni tienen ni deben tener lógica, solo dentro de la comunidad. Veamos algunos ejemplos para que puedas crear tus propios tabús locales.
+
+* **Hondas y arcos:** Las hondas son armas de guerra no de caza. Los arcos al contrario, se reservan solo a la caza. Comer presas cazadas con hondas está mal visto.
+* **Aleta de tiburón:** Al atrapar a un tiburón, no debes cortar la aleta superior del tiburón. Se la pusieron los dioses a los tiburones para que puedan ser detectados. Sin ella no podrían ser vistos y te podrían atacar sin verlos.
+* **Surf y olas:** No puedes tomar la tercera ola de cada ronda porque esa es la que usan los kupuas acuáticos.  
+
+> Una manera interesante de meter drama y tensión en las partidas es que tus _hauka_ al llegar a una nueva comunidad no conozcan los tabús de la zona y se metan en problemas por romper esos tabúes.
 
 \sinc
 
@@ -170,7 +180,11 @@ Los primeros habitantes del archipiélago que vinieron con las ballenas primigen
 
 XXX
 
+\sp
+
 > Los _hoa koholā_ son la versión en esta ambientación de los Ryuujin. En principio, toda regla que se aplique a los Ryuujin se aplica a estos poderosos antepasados.
+
+\sc
 
 \sinc
 
@@ -182,9 +196,9 @@ XXX
 
 XXX
 
-\sp
-
 \sinc
+
+&nbsp;
 
 ## Términos
 
