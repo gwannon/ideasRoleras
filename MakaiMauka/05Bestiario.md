@@ -110,7 +110,9 @@ Los más antiguos pueden ser más agresivos y atrapar entre sus zarzas y lianas 
 * **Habilidad especial:** **Zarcillos.** Pueden animar sus zarcillos para usarlos como manos para coger objetos y llevárselo. También pueden usarlos al Impactar para atrapar a sus víctimas y asfixiarlos provocando [Conmocionado: 4]
 * **Terreno habitual:** Selvas, selvas vírgenes
 
-_*Puedes hacerlos acuáticos y que sean grandes bloques de algas sargazos que pueden rodear las embarcaciones._
+### Kupua algas
+
+Estos grandes bloques de algas sargazos pueden rodear las embarcaciones y atraparlas. Sus estadísticas son iguales a las del _kupua_ planta, pero su **tipo es acuático** y su **botín es 8 raciones** de crustáceos y pequeños peces que viven entre las algas.
 
 ### Kupua de conchas
 
@@ -128,24 +130,9 @@ Este _kupua_ está hecho de montones de conchas de moluscos y crustáceos. Tiene
 * **Terreno habitual:** Arrecifes, playas
 * **Marea:** Bajamar diurna
 
-### Kupua de flores
-
-Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores.
-
 \sp
 
-En vez de usar sus raíces y sus zarcillos, usan sus flores de maneras variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
-
-* **Nivel/Tipo:** X / Terrestre
-* **Botín:** Flores exóticas y extrañas para decoraciones florales (500 mo)
-* **PM/PG:** X / X
-* **Iniciativa:** X
-* **Salud:** X
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** X
-* **Habilidad especial:** **Polinización.** Al hacer un ataque e impactar en su objetivo, tira un a d6. Con un resultado de 1-3, de las flores salen o miles de insectos que pican al objetivo [Herido: 6]. Con 4-6, las flores expulsan un montón de polen narcótico que atonta al objetivo con [Envenenado: 6].
-* **Terreno habitual:** Praderas, selvas, selvas vírgenes
+[![School of fishes background with deep sea in flat style by freepik](./images/278752-P5Y3X3-852.jpg "School of fishes background with deep sea in flat style by freepik")](https://www.freepik.com/free-vector/school-fishes-background-with-deep-sea-flat-style_2109206.htm "School of fishes background with deep sea in flat style by freepik")
 
 ### Kupua banco de peces
 
@@ -159,9 +146,26 @@ Este _kupua_ no se transforma en pez sino en un banco de peces que se mueven com
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** X
-* **Habilidad especial:** **Banco de peces.** Es muy difícil dañarle, porque no es un cuerpo físico, sino multitud de peces. Al golpearle solo dañas a un par de peces no a todo el Kupua. XXX
+* **Habilidad especial:** **Banco de peces.**No es un cuerpo físico único, sino multitud de peces. Este _kupua_, como banco de peces, puede atacar a todo el Frente o toda la Retaguardia tirando d6+d6 para Impactar y d6 para Daño.
 * **Terreno habitual:** Costa, arrecifes y mar abierto
 * **Marea:** Bajamar diurna
+
+### Kupua de flores
+
+Podemos considerarlos una subespecie de los kupuas de plantas, ya que están formados por plantas, pero principalmente se ven solo flores.
+
+En vez de usar sus raíces y sus zarcillos, usan sus flores de maneras variadas. Por ejemplo, pueden atraer a abejas y avispas y esconderlos dentro de sus flores, para lanzarlos contra sus enemigos cuando sea necesario. Otros pueden lanzar diferentes pólenes con efectos narcóticos, venenosos, alucinógenos, etc.
+
+* **Nivel/Tipo:** X / Terrestre
+* **Botín:** Flores exóticas y extrañas para decoraciones florales (500 mo)
+* **PM/PG:** X / X
+* **Iniciativa:** X
+* **Salud:** X
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** X
+* **Habilidad especial:** **Polinización.** Al hacer un ataque e impactar en su objetivo, tira un a d6. Con un resultado de 1-3, de las flores salen o miles de insectos que pican al objetivo [Herido: 6]. Con 4-6, las flores expulsan un montón de polen narcótico que atonta al objetivo con [Envenenado: 6].
+* **Terreno habitual:** Praderas, selvas, selvas vírgenes
 
 \sp
 
@@ -293,7 +297,11 @@ Las islas no tienen grandes animales terrestres que pudieran ser un problema par
 
 ### Tiburón
 
-Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y tamaños desde el tiburón ballena que se alimenta pequeños crustáceos a los agresivos tiburones toro. Solo los más afresivos son un problema para tus _hauka_ y mejor no caigan al agua si estos merodean cerca.
+Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y tamaños desde el tiburón ballena que se alimenta pequeños crustáceos a los agresivos tiburones toro. Solo los más agresivos son un problema para tus _hauka_ y mejor no caigan al agua si estos merodean cerca.
+
+[![Aggressive great white shark cartoon by brgfx](./images/gck2_7h24_220317.jpg "Aggressive great white shark cartoon by brgfx")](https://www.freepik.com/free-vector/aggressive-great-white-shark-cartoon_26213367.htm "Aggressive great white shark cartoon by brgfx")
+
+\sp
 
 * **Nivel/Tipo:** X / Acuático
 * **Botín:** Dientes de tiburón para armas (500 mo) y cuero impermeable (1000 mo)
@@ -303,12 +311,24 @@ Las aguas del archipiélago están llenas de tiburones de todo tipo de formas y 
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** X
-
-\sp
-
 * **Terreno habitual:** Costa, arrecifes y mar abierto
 * **Marea:** Bajamar nocturna
 
+### Almeja gigante
+
+No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
+
+* **Nivel/Tipo:** X / Acuático
+* **Botín:** Perla gigante (5.000 mo)
+* **PM/PG:** X / X
+* **Iniciativa:** X
+* **Salud:** X
+* **FUE/DES/INT/ESP:** X / X / X / X
+* **Impactar/Daño:** dX+dX / dX
+* **Defensa:** X
+* **Habilidad especial:** **Atrapar:** El poderoso músculo que abre y cierra su gigantesca concha es tan fuerte que puede atraparte brazos o piernas y no dejarte escapar o subir a respirar, sufriendo [Conmocionado: 10].
+* **Terreno habitual:** Costa y arrecifes
+* **Marea:** Pleamar nocturna
 
 [![Stingray with its silhouette on transparent by brgfx](./images/19598076.png "Stingray with its silhouette on transparent by brgfx")](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm "Stingray with its silhouette on transparent by brgfx")
 
@@ -326,25 +346,9 @@ Su capacidad de salto fuera de agua les permite atacar a seres que no estén den
 * **FUE/DES/INT/ESP:** X / X / X / X
 * **Impactar/Daño:** dX+dX / dX
 * **Defensa:** X
-* **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. XXX
+* **Habilidad especial:** **Cola venenosa.** Al final de su cola tienen un dardo afilado con veneno. Si un personaje es impactado por la mantarraya, sufrirá [Envenenado: 6].
 * **Terreno habitual:** Costa y arrecifes
 * **Marea:** Pleamar diurna
-
-### Almeja gigante
-
-No hay héroe, heroína o semidivinidad en los mitos del archipiélago que no se haya enfrentado a una almeja gigante de entre 5 a 15 metros. Son de gran tamaño y los músculos de sus conchas son tremendamente poderosos. Si te atrapa con ellos será muy difícil que puedas soltarte y también le permiten nadar rápidamente por el fondo marino.
-
-* **Nivel/Tipo:** X / Acuático
-* **Botín:** Perla gigante (5.000 mo)
-* **PM/PG:** X / X
-* **Iniciativa:** X
-* **Salud:** X
-* **FUE/DES/INT/ESP:** X / X / X / X
-* **Impactar/Daño:** dX+dX / dX
-* **Defensa:** X
-* **Habilidad especial:** **Atrapar:** El poderoso músculo que abre y cierra su gigantesca concha es tan fuerte que puede atraparte brazos o piernas y no dejarte escapar o subir a respirar. XXX
-* **Terreno habitual:** Costa y arrecifes
-* **Marea:** Pleamar nocturna
 
 \sp
 

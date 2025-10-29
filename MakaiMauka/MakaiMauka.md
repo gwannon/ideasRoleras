@@ -120,6 +120,8 @@ En cumplimiento de las licencias de uso del material de este documento este es e
 * Kukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by [Bernice Pauahi Bishop Museum](https://picryl.com/media/kukailimoku-memoirs-bishop-museum-vol-i-fig-25-c03ca3)
 * Stingray with its silhouette on transparent by [brgfx](https://www.freepik.com/free-vector/stingray-with-its-silhouette-transparent_11067045.htm)
 * Imagen de M Ameen en [Pixabay](https://pixabay.com/es/photos/baile-de-fuego-hawaiano-fuego-hawai-825184/)
+* School of fishes background with deep sea in flat style by [freepik](https://www.freepik.com/free-vector/school-fishes-background-with-deep-sea-flat-style_2109206.htm)
+* Aggressive great white shark cartoon by [brgfx](https://www.freepik.com/free-vector/aggressive-great-white-shark-cartoon_26213367.htm)
 
 ***
 
