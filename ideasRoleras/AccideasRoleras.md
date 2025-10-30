@@ -181,7 +181,6 @@ Entiendo que los cultos profanos, la magia oscura y las maldiciones pegan con el
 Y si hay que vencer a un dragón, pues que mejor que la forma física de un lloigor.
 
 Idea a partir de basado en un bluit de [El Osgo](https://bsky.app/profile/elosgo.bsky.social/post/3lht2nx2mms2w)
-
 ### Ruta de la seda
 
 Expedición rollo Marco Polo donde los monstruos/críptidos y leyendas por donde pasas son reales.
@@ -211,10 +210,10 @@ La Odisea en plan los Mitos de Cthulhu. En vez de Poseidón es Cthulhu y los ser
 Hablamos de animales antropomórficos en una era victoriana tardía con los Mitos de Cthulhu.
 
 El ambiente sería muy rural rollo el horror de Dunwich
-
 Los profundos son ranas y sapos y los primigenios oscuras deidades de lo profundo del bosque. 
 
 Esta idea no es mía, pero es tan tremendamente buena que no la podía desperdiciar. Es creación de [@miguelporto.bsky.social](https://bsky.app/profile/did:plc:cqh7wynlkkvudgelmkzwuscy)
+
 ### —007
 
 Una campaña sería de agentes secretos contra organización mundial que busca dominar el mundo, pero los personajes llevan copias crutes de James Bond con sus poderes especiales crutes. Por ejemplo:
@@ -273,8 +272,8 @@ Es juego indie en la Grecia clásica donde has creado tu propia corriente filos�
 Discutes en el ágora y te peleas con el xifo en los callejones aledaños en pos de la supremacía de tu filosofía.
 
 Cada corriente te da unas habilidades únicas, basadas en tus creencias, de forma que si crees que la gravedad no existe puedes volar.
-
 Los combates son como los duelos de insultos del Monkeys Island, donde tus palabras y tus teorías filosóficas cortan más que las espadas.
+
 Quizás tengas que hacer pintadas en el templo explicando tu filosofía, dar una charla a tus seguidoras y seguidores u organizar un simposio o una bacanal para tus simpatizantes.
 
 ### Foodtrucks wars
@@ -321,7 +320,9 @@ Habría que ascender socialmente ayudando a tus profesores o extorsionándoles.
 
 Un tópico de los libros y las películas, es un huir del demonio, bien porque le debes tu alma, bien porque has escapado del infierno. La idea sería un juego indie o solitario donde tienes que huir del demonio como sea.
 
-Puede ser un «play to lose» y al final el demonio te va a atrapar y llevarte de vuelta al infierno. También puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafiosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. Por último tendríamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compensen tus malos actos.
+Puede ser un «play to lose» y al final el demonio te va a atrapar y llevarte de vuelta al infierno. También puede ser que tengas que escapar mientras cumples alguna misión, como vengar tu muerte o proteger a tu pareja de unos mafiosos (rollo el Cuervo) y tras cumplir la misión dejarte atrapar. 
+Por último tendríamos la opción de poder escapar, si haces determinada misión o cumples determinados objetivos, como hacer acciones buenas que compensen tus malos actos.
+
 Tener o no tener poderes demoniacos/infernales también sería un punto importante a definir.
 
 ### La liga de los críptidos extraordinarios
@@ -375,8 +376,8 @@ Jugarías con Pac-Man, Miss Pac-Man, su bebe y otros personajes recurrentes del 
 En este juego llevarías un pequeño robot de servicio que limpia, lleva paquetes, extermina plagas, todos rollo rumba o similar y deberás avisar a alguien de que está en peligro, buscar a alguien secuestrado, encontrar un preciado objeto perdido.
 
 Los robots tendrán su pequeño mini-mundo con sus problemas de robots, como que falla la batería, mis ruedas están gastadas o todo el mundo me pisa.
-
 Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden hacer y otras para las que necesitará ayuda.
+
 ### Planilandia RPG
 
 Flatland es un libro sobre un mundo bidimensional en el que viven, forma geométricas en dos dimensiones como cuadrados, triángulos, etc. 
@@ -404,7 +405,6 @@ Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de prof
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
 
 Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
-
 ### Puteando al Doctor Jekyll y Mister Hyde
 
 Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
@@ -430,10 +430,10 @@ Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 ### RRHH en un Dungeon
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
-
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
+
 ### Se ha escrito un papiro
 
 Creo que sería divertido hacer una historia en paralelo en que juegas con dos personajes, un PJ en el Egipto antiguo y otro PJ rollo egiptólogo en la actualidad que descubre el misterio del primero.
@@ -477,7 +477,6 @@ Cada vecino sería el típico arquetipo de vecino, rollo el moroso, el cotilla, 
 El presidente tendría poderes especiales de presidente y los vecinos deberían averiguar chismes de otros vecinos para chantajearlos y voten como ellos quieran. También podría, hacerse sobornos, amenazas, tonteo y seducción, …
 
 Cuando presidente vote en una derrama y pierde, tendrá que hacerse unas nuevas votaciones para elegir al nuevo presidente.
-
 ### La villa secreta de las mascotas
 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.
@@ -697,8 +696,8 @@ Tabla de generación de aventuras aleatorias centradas en una estación polar. U
 ### Los 7 misterios
 
 > Se dice que en todos los institutos del mundo existen 7 misterios sin resolver … Y el Furinkan no es una excepción. _Ranma 1/2 - Capítulo 328 - Rumiko Takahashi_
-
 El primero es el _paraguas alcahueto_, bajo el cual si alguna pareja se refugia de la lluvia se enamoran para siempre. Pero ¿Cuáles son los otros 6?
+
 ### Si algún día viajas al pasado no toques nada
 
 Un generador de misiones para viajeros a través del tiempo. Tiras en diferentes tablas y te pueden salir opciones muy locas. Por ejemplo, un grupo de PJ deben robar la primera guitarra de Taylor Swift y así convierta en la doctora que curo una futura plaga mortal.
