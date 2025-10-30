@@ -450,6 +450,14 @@ El slapstick es el género de todas esas películas mudas Chaplin, Buster Keaton
 
 Por otro lado, debería haber unas mecánicas para gestionar que los personajes son mudos y solo hay comunicación escrita. También tendría que marcarse la mímica y la sobreactuación de los personajes.
 
+### SCUMM RPG
+
+Sería un juego de rol en que llevas un personaje de una aventura gráfica con sistema SCUMM (Monkey Island, Maniac Mansion, etc.). 
+
+En vez de clases/profesiones elegirías la aventura gráfica de la que provienes y el SCUMM de esa aventura serían tus verbos/habilidades [(o unas reglas sobre las que basarte para generar esos verbos)](https://mastorol.es/@eldadoinquieto). Los SCUMM son muy parecidos, pero hay algunas diferencias según la aventura gráfica así que habría cosas que tu personaje hace mejor que las del resto.
+
+El sistema sería algo como [Verbo + Objeto](https://mastorol.es/@eldadoinquieto) contra dificultad. Por ejemplo, el pollo de goma con polea dentro del Monkey te daría -5 y la pala de The Dig te daría +5.
+
 ### SockQuest
 
 Un grupo de gnomos urbanos tipo David el gnomo, pero de ciudad y con tattoos y chándal, deben conseguir su calcetín-gorro como rito de iniciación. Deberán llegar a una lavandería y robar de la colada un calcetín cada uno. Debe haber tabla de generación de calcetines.
