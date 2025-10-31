@@ -10,11 +10,11 @@ XXX
 
 XXX
 
-### Definir tu Aventura Gráfica
+### 1. Paso - Definir tu Aventura Gráfica
 
-Lo primero es elegir de que Aventura gráfica provienes (AG). La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
+Lo primero es elegir de que Aventura Gráfica (AG) provienes. La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
 
-A la hora de definir de que AG vienes, lo primero es elegir la resolución de vídeo.
+A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y elegir la resolución de vídeo en la que estaba desarrollado.
 
 * **CGA (4 colores)** XXX
 * **EGA (16 colores)** XXX
@@ -32,10 +32,13 @@ Por último, se elige la empresa desarrolladora
 
 * **LucasFilm Games:** XXX
 * **Sierra:** XXX
+* **Pendulo Studios:** XXX
+* **Alcachofa Soft:** XXX
+* **Revolution Software:** XXX
 
 XXX
 
-### Crear tu SCUMM
+### 2. Paso - Crear tu interfaz
 
 Todo personaje de una AG tiene unos verbos básicos:
 
@@ -61,13 +64,15 @@ Lo siguiente es calcular el espacio de equipo. Las casillas de tu equipo viene d
 
 XXX
 
-Luego debes definir tu nombre, tus pronombres.
+### 3. Paso - Toques finales
+
+Luego debes definir tu nombre, algo acorde con tu AG y su temática y elegir tus pronombres.
 
 Por último, debes elegir una pieza de equipo inicial tirando un dX:
 
 |dX|objeto|
 |---|---|
-|1|XXX|
+|1|Pala|
 |2|XXX|
 |3|XXX|
 |4|XXX|
@@ -100,6 +105,12 @@ Al empezar una escena, el DJ debe describir todas las cosas clicables de la esce
 
 XXX
 
+### Cosas de aventuras gráficas
+
+XXX
+
+* El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntitos, de hecho habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+
 ## Crear tu propia aventura gráfica
 
 XXX
@@ -123,8 +134,11 @@ XXX
 Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
-* [vrtxrry](https://vrtxrry.itch.io/dungeonfont)
-* [arcade](https://arcade.itch.io/fool)
+
+### Fuentes usadas
+
+* [DungeonFont](https://vrtxrry.itch.io/dungeonfont)
+* [Fool](https://arcade.itch.io/fool)
 
 ## Licencía
 
