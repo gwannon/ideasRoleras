@@ -14,18 +14,19 @@ XXX
 
 Lo primero es elegir de que Aventura Gráfica (AG) provienes. La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
 
-A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y elegir la resolución de vídeo en la que estaba desarrollado.
+A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y elegir la resolución de vídeo en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de la AG.
 
-* **CGA (4 colores)** XXX
-* **EGA (16 colores)** XXX
-* **VGA (256 colores)** XXX
+* **CGA (320x200 - 4 colores)** XXX
+* **EGA (320×200 - 16 colores)** XXX
+* **VGA (640x 480 - 256 colores)** XXX
 
 Lo siguiente es elegir su temática, eligiendo 2 adjetivos:
 
-* **Humor:** XXX
-* **Fantasía:** XXX
 * **Ciencia ficción:** XXX
+* **De franquicia:** XXX
+* **Fantasía:** XXX
 * **Horror:** XXX
+* **Humor:** XXX
 * **Pulp:** XXX
 
 Por último, se elige la empresa desarrolladora
@@ -35,6 +36,8 @@ Por último, se elige la empresa desarrolladora
 * **Pendulo Studios:** XXX
 * **Alcachofa Soft:** XXX
 * **Revolution Software:** XXX
+* **Coktel studios:** XXX
+* **Deconstructeam!:** Eres un indie moderno que disfruta del retropixel. XXX
 
 XXX
 
@@ -105,11 +108,20 @@ Al empezar una escena, el DJ debe describir todas las cosas clicables de la esce
 
 XXX
 
+### Uso de tus pixeles
+
+XXX
+
+### Acceder al mapa
+
+En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una escena directamente sin tener que pasar por otras escenas. XXX
+
 ### Cosas de aventuras gráficas
 
 XXX
 
-* El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntitos, de hecho habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+* **Resolución de pantalla:** El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntitos, de hecho habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+* **Permanencia de objetos:** El equipo que dejas en una escena se queda en esa escena, solo tus personajes y otros personajes importantes pueden cogerlos. Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente.
 
 ## Crear tu propia aventura gráfica
 
@@ -118,6 +130,8 @@ XXX
 Hay que decidir si la aventura será mortal o no. Esa es una de las grandes diferencias entre unas AG y otras.
 
 XXX
+
+Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 2 o 3 pruebas o retos que debes solucionar.
 
 ## Personajes no jugables
 
