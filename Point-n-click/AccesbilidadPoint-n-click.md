@@ -1,11 +1,9 @@
 
 
-# Point-n-click RPG **por Gwannon**XXX
+# Point and click RPG **por Gwannon**
+XXX## Aventuras gráficas
 
-## Aventuras gráficas
-
-XXX
-## Crear tu PJ
+XXX## Crear tu PJ
 
 XXX
 
@@ -36,7 +34,7 @@ Por último, se elige la empresa desarrolladora
 * **Alcachofa Soft:** XXX
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
-* **Deconstructeam!:** Eres un indie moderno que disfruta del retropixel. XXX
+* **Deconstructeam!:** Eres un indie moderno que disfruta del retropíxel. XXX
 
 XXX
 
@@ -50,7 +48,6 @@ Todo personaje de una AG tiene unos verbos básicos:
 * Hablar
 * Mirar
 * Usar
-
 Después debe elegir otros 3 verbos de este listado:
 
 * Abrir/Cerrar
@@ -79,8 +76,7 @@ Por último, debes elegir una pieza de equipo inicial tirando en la siguiente ta
 |3|XXX|
 |4|Globo de helio|
 |5|Pistola de dardos tranquilizante|
-|6|Jarra de grog|
-## Sistema
+|6|Jarra de grog|## Sistema
 
 Hay diferentes tipos de acciones posibles:
 
@@ -106,7 +102,7 @@ Al empezar una escena, el DJ debe describir todas las cosas clicables de la esce
 
 XXX
 
-### Uso de tus pixeles
+### Uso de tus píxeles
 
 XXX
 
@@ -120,8 +116,7 @@ XXX
 
 * **Resolución de pantalla:** El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntitos, de hecho habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
 * **Permanencia de objetos:** El equipo que dejas en una escena se queda en esa escena, solo tus personajes y otros personajes importantes pueden cogerlos. Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente.
-* **Pixel exacto:** Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. XXX
-## Crear tu propia aventura gráfica
+* **Pixel exacto:** Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. XXX## Crear una aventura gráfica
 
 XXX
 
@@ -129,8 +124,7 @@ Hay que decidir si la aventura será mortal o no. Esa es una de las grandes dife
 
 XXX
 
-Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 2 o 3 pruebas o retos que debes solucionar.
-## Personajes no jugables
+Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 2 o 3 pruebas o retos que debes solucionar.## Personajes no jugables
 
 Hay 3 tipos de personajes no jugables:
 
@@ -138,13 +132,17 @@ Hay 3 tipos de personajes no jugables:
 * Tienen varias frases con alguna pista importante, pueden aparecer en diferentes escenas y recibir o dar algún objeto.
 * Personajes clave con montones de frases, aparecen en muchas escenas y dan muchas pistas y equipo constantemente.
 
-XXX
-## Agradecimientos
+XXX## Agradecimientos
 
 Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
-
 ## Licencía
 
-XXX
+Point-n-click RPG está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). XXX
+
+### Atribuciones
+
+* Black and white pixels background by [starline](https://www.freepik.com/free-vector/black-white-pixels-background_13124439.htm)
+* Abstract pixilated halftone dotted pattern in retro style by [starline](https://www.freepik.com/free-vector/abstract-pixilated-halftone-dotted-pattern-retro-style_418611157.htm)
+&nbsp;

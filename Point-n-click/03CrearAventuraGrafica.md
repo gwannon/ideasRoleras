@@ -1,4 +1,10 @@
-## Crear tu propia aventura gráfica
+\sinc
+
+## Crear una aventura gráfica
+
+&nbsp;
+
+\conc
 
 XXX
 

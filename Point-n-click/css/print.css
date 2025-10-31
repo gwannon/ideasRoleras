@@ -1,17 +1,18 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
-  --color-red: #ad3131;
+  --color-red: #a931ad;
   --color-white: #fff;
   --color-black: #000;
 }
 
 body {
-  background: var(--color-white) url(../images/bg.png) repeat top center;
+  /*background: var(--color-black) url(../images/bg.png) repeat top center; */
+  background-color: var(--color-black);
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
-  color: var(--color-black);
-  font-size: 16px;
+  color: var(--color-white);
+  font-size: 18px;
 }
 
 body:before {
@@ -69,9 +70,9 @@ body > *:first-child,
 }
 
 blockquote {
-  border: 1px solid black;
+  border: 1px solid var(--color-black);
   padding: 10px;
-  background-color: black;
+  background-color: var(--color-black);
   border-radius: 5px;
   margin: 10px 0px;
   color: white;
@@ -97,7 +98,6 @@ pre:after {
   content: "\201D";
 }
 
-
 pre * {
   font-family: "Open Sans", sans-serif;
   font-size: 1em;
@@ -105,41 +105,35 @@ pre * {
   padding: 0px;
 }
 
-pre + p {
-  font-style: italic;
-  font-weight: 700;
-  text-align: right;
-  margin-top: -10px;
-  font-family: "Eagle Lake", serif;
-}
-
 /* Titulares */
-
 h1 {
-  background: #201c37 url(../images/titular.jpg) bottom center no-repeat;
-  background-size: 100% auto;
-  font-family: "Eagle Lake", serif;
+  background: #201c37 url(../images/deyjsjn-2e52b4a3-2cbd-46fe-bd23-568bec1f5138.png) bottom center no-repeat;
+  background-size: cover;
+  font-family: "Pixelify Sans", sans-serif;
   color: var(--color-white);
   text-align: center;
-  height: 139px;
-  font-size: 1.6em;
-  margin-bottom: 0px;
-  margin-top: 0px !important;
-  padding-top: 190px !important;
+  height: 100vh;
+  width: 100vw;
+  font-size: 5em;
+  padding-top: 45%;
+  margin: 0px;
   text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
   line-height: 120%;
-  border: 2px solid var(--color-red);
-  border-radius: 3px;
-  width: calc(100% - 4px);
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+  box-sizing: border-box;
 }
 
-h1 > a {
+h1 > strong {
   display: block;
   text-align: center;
-  font-size: 18px;
+  font-size: 0.5em;
   width: 100%;
-  color: var(--color-white);
-  font-family: "Open Sans", sans-serif;
+  color: var(--color-rwhite);
+  font-family: "Pixelify Sans", sans-serif;
   font-weight: 400;
   text-decoration: none;
 }
@@ -147,38 +141,52 @@ h1 > a {
 h2,
 h3,
 h4 {
-  font-family: "Eagle Lake", serif;
+  font-family: "Pixelify Sans", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 0px;
-  line-height: 120%;
+  line-height: 100%;
 }
 
 h2 {
-  font-size: 1.4em;
+  background-color: var(--color-red);
+  color: var(--color-black);
+  font-size: 2.45em;
   text-align: center;
-  color: var(--color-white);
-  text-shadow: 3px 0px 3px var(--color-red), 0px 3px 3px var(--color-red), -3px 0px 3px var(--color-red), 0px -3px 3px var(--color-red);
+  margin: 0px 20px ;
+  position: relative;
 }
 
 h2:before {
-  content: "\2014";
+  content: "";
+  width: 20px;
+  height: 100%;
+  top: 0px;
+  left: -19px;
+  position: absolute;
+  background: transparent url(../images/h2-1.png) center center no-repeat;
+  background-size: cover
 }
 
 h2:after {
-  content: "\2014";
+  content: "";
+  width: 20px;
+  height: 100%;
+  top: 0px;
+  right: -19px;
+  position: absolute;
+  background: transparent url(../images/h2-2.png) center center no-repeat;
+  background-size: cover
 }
 
 h3 {
-  font-size: 1.2em;
-  text-shadow: 2px 0px 2px var(--color-white), 0px 2px 2px var(--color-white), -2px 0px 2px var(--color-white), 0px -2px 2px var(--color-white);
+  font-size: 2em;
 }
 
 h4 {
-  font-size: 1em;
-  color: var(--color-black);
+  font-size: 1.3em;
 }
 
 h2 + p, 
@@ -188,14 +196,13 @@ h4 + p {
 }
 
 /* Otros elementos */
-
 p,
 ul {
   margin: 0.45em 0;
 }
 
 a {
-  color: var(--color-black);
+  color: var(--color-red);
 }
 
 ul {
@@ -208,13 +215,13 @@ ul li {
 }
 
 ul li:before {
-  content: '🛡';
+  content: '✛';
   position: absolute;
   font-size: 16px;
   top: 0px;
   left: -19px;
   display: block;
-  color: var(--color-black);
+  color: var(--color-red);
 } 
 
 table {
@@ -224,7 +231,6 @@ table {
   border: 2px dashed var(--color-red);
   padding: 5px;
   position: relative;
-
 }
 
 table thead tr th {
@@ -236,7 +242,7 @@ table thead tr th {
 }
 
 table tbody tr:nth-child(even) {
-  background-color: rgba(241, 2, 2, 0.3);
+  background-color: rgba(201, 56, 238, 0.3);
 }
 
 img {
@@ -258,7 +264,7 @@ a.pdf {
     display: block;
     padding: 10px;
     margin: 0px;
-    font-family: "Eagle Lake", serif;
+    font-family: "Pixelify Sans", sans-serif;
     font-size: 30px;
     text-decoration: none;
     z-index: 100;
@@ -299,7 +305,7 @@ a.pdf {
 
 @media print {
   @page {
-    size: A4;
+    size: A4 landscape;
     margin: 0;
   }
 
@@ -334,14 +340,15 @@ body {
 
 .saltopagina:after {
   --size: 20px;
-  font-family: var(--title-font);
+  font-family: "Pixelify Sans", sans-serif;
+  background-color: var(--color-red);
   display: flex;
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
   bottom: 20px;
-  right: calc(50% - (var(--size) / 2));
+  right: 0px;
   width: var(--size);
   height: var(--size);
   z-index: 10;
@@ -351,12 +358,16 @@ body {
   color: var(--color-black);
 }
 
+.saltopagina.even:after {
+  left: 0px;
+  right: auto;
+}
 
 p:has(img) + blockquote {
   border: 2px solid var(--color-red);
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
-  border-top: 0px solid black;
+  border-top: 0px solid var(--color-black);
   margin-top: -14px;
   position: relative;
   z-index: 10;

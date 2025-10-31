@@ -1,4 +1,10 @@
+\sinc
+
 ## Crear tu PJ
+
+&nbsp;
+
+\conc
 
 XXX
 
@@ -43,6 +49,8 @@ Todo personaje de una AG tiene unos verbos básicos:
 * Hablar
 * Mirar
 * Usar
+
+\sp
 
 Después debe elegir otros 3 verbos de este listado:
 

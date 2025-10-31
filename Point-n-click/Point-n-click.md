@@ -1,14 +1,20 @@
 \sinc
 
-# Point-n-click RPG **por Gwannon**
+# Point and click RPG **por Gwannon**
 
 \conc
 
-\sp
-
 XXX
 
+\sp
+
+\sinc
+
 ## Aventuras gráficas
+
+&nbsp;
+
+\conc
 
 XXX
 
@@ -31,3 +37,7 @@ XXX
 \sp
 
 |05Licencia.md|
+
+\sp
+
+&nbsp;

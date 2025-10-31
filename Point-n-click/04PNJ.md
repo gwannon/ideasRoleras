@@ -1,4 +1,10 @@
+\sinc
+
 ## Personajes no jugables
+
+&nbsp;
+
+\conc
 
 Hay 3 tipos de personajes no jugables:
 
