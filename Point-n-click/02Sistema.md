@@ -24,7 +24,7 @@ Al empezar una escena, el DJ debe describir todas las cosas clicables de la esce
 
 XXX
 
-### Uso de tus pixeles
+### Uso de tus píxeles
 
 XXX
 

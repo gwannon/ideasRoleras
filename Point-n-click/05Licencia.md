@@ -6,4 +6,4 @@ Por sus ideas y aportaciones a:
 
 ## Licencía
 
-XXX
+Point-n-click RPG está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). XXX

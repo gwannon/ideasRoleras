@@ -29,7 +29,7 @@ Por último, se elige la empresa desarrolladora
 * **Alcachofa Soft:** XXX
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
-* **Deconstructeam!:** Eres un indie moderno que disfruta del retropixel. XXX
+* **Deconstructeam!:** Eres un indie moderno que disfruta del retropíxel. XXX
 
 XXX
 
