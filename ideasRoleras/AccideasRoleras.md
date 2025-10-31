@@ -325,6 +325,13 @@ Por último tendríamos la opción de poder escapar, si haces determinada misió
 
 Tener o no tener poderes demoniacos/infernales también sería un punto importante a definir.
 
+### Ideas Firelights
+
+* Te despierta en una cámara criónica de una extraña/extraterrestre nave espacial y debes encontrar las 6 células de energía para ponerla en marcha. La nave está llena de extrañas y agresivas criaturas que debieron matar a todos los tripulantes.
+* Has bajado al [Hades a rescatar al amor de tu vida](https://gwannon.itch.io/en-el-hades-firelights), pero esa persona no te recuerda. Antes de poder salir del Más Allá con tu alma gemela debes recuperar todos los recuerdos importantes que tenía de ti. En tus andanzas serás acosado por demonios y otros seres del inframundo.
+* Has caído en la Fisura, un mundo casi igual al nuestro donde caen los que son olvidados, los que no importan a nadie. Eres cazado por las Indiferencias y tendrás que recuperar 6 objetos de tu pasado y sacarlos de la fisura para que te recuerden y puedas salir. Inspirado en Midnight Nation.
+* El disco duro del ordenador donde vives está fallando y si colapsa, tú desaparecerás. Debes buscar los sectores defectuosos y repararlos. Irás explorando directorios del disco donde habrá ficheros que le darán forma, quizás fotos de vacaciones o música metal o quizás un troyano o un virus que te ataquen.
+
 ### La liga de los críptidos extraordinarios
 
 Hay grupos de personajes de ficción (La liga de los hombres extraordinarios), de protagonistas de festividades (El origen de los guardianes), de monstruos clásicos. Pues los críptidos también se han unido y montado un grupo como el chupacabras o el yeti. Tendrán que juntarse para protegerse de los humanos y los desmanes ecológicos en sus hábitats.
@@ -358,7 +365,6 @@ Sería un juego indie donde juegas con ninjas pero cutres. Las historias serían
 Los ninjas usarían trucos, herramientas y armas muy cutres. En vez de un kimono negro tendrías un chándal negro de mercadillo, en vez de un ninjato tendrían un cuchillo de cocina, en vez de tetsubishis (abrojos) piezas de lego, en vez de nunchakus 2 salamis unidos por una cuerda, etc.
 
 Se reunirían en el Telepizza para hablar de sus cosas del clan mientras llenan de manchas de salsa de tomate su chándal y se entrenarían con tutoriales de Internet.
-
 Habría clanes de ninjas buenos y clanes de malos y peleas entre ellos por sus territorios.
 
 Tendría el toque cutre y chusco de películas como Fung Fu Sion.
@@ -376,6 +382,7 @@ Jugarías con Pac-Man, Miss Pac-Man, su bebe y otros personajes recurrentes del 
 En este juego llevarías un pequeño robot de servicio que limpia, lleva paquetes, extermina plagas, todos rollo rumba o similar y deberás avisar a alguien de que está en peligro, buscar a alguien secuestrado, encontrar un preciado objeto perdido.
 
 Los robots tendrán su pequeño mini-mundo con sus problemas de robots, como que falla la batería, mis ruedas están gastadas o todo el mundo me pisa.
+
 Cada clase de robots tendrá sus flaquezas y sus fortalezas, cosas que pueden hacer y otras para las que necesitará ayuda.
 
 ### Planilandia RPG
@@ -405,6 +412,7 @@ Luego tienes que prepararte tú. Igual eres un hobbit y te toca de hacer de prof
 Lo más importante será la pelea final donde tendrás que esquivar sus ataques, atacar a los PJ sin hacerles mucho daño y luego fingir tu muerte y volver a levantarte para hacer de otro orco, porque andáis bajos de personal.
 
 Esto explica por qué todos los goblins se parecen tanto y tienen siempre el mismo estúpido acento. Siempre matas al mismo PNJ.
+
 ### Puteando al Doctor Jekyll y Mister Hyde
 
 Partida para un DJ y dos jugadores, pero solo un jugador al mismo. En un modo competitivo, un jugador lleva al Doctor Jekyll y otro a Mister Hyde y se tienen que andar puteando en los periodos de tiempo que son conscientes para conseguir obtener el control del cuerpo que habitan.
@@ -418,7 +426,6 @@ Esta idea es carne de indie. Sería un juego en solitario de un radioaficionado 
 Vas buscando frecuencias y encontrando a otros radioaficionados. Tendrás que tratar con ellos y averiguar que hacían antes y que problemas tienen. 
 
 La idea es que unos oráculos te digan quién es, qué hacía y algunos rasgos de personalidad y además generen un problema que puede acabar con su supervivencia. Quizás está enfermo, quizás una plaga se come su cosecha o simplemente está solo o no habla ti idioma.
-
 Para solucionar su problema tendrás que buscar a otros radioaficionados que igual saben la solución o buscar en libros de bibliotecas y librerías físicas de tu localidad la solución al problema. Recuerda que es postapocalíptico y no hay internet, solo viejos libros abandonados.
 
 Habría una mecánica que te diría si la biblioteca está en pie, si hay libros del tema o si no está plagada de zombis, vampiros, etc.
@@ -430,6 +437,7 @@ Recorre la mazmorra buscando a los PJ o monstruos que han pedido la pizza.
 ### RRHH en un Dungeon
 
 Entrevistas, contrataciones y despidos de los monstruos de un dungeon.
+
 ### Sailor Moon Beyond
 
 En un futuro cyberpunk un grupo de Magical girls debe luchar contra una malvada corporación que quiere quedarse con la poca magia del mundo.
@@ -471,12 +479,12 @@ Puedes forzar una escena de cámara hacia atrás y en vez de abrir la puerta de 
 ### Reunión de vecinos
 
 Estaríamos hablando de un JdR indie de humor que simularía una reunión de vecinos rollo Aquí no hay quien viva. Cada jugador sería un vecino y el DJ sería el administrador de fincas.
-
 Cada vecino sería el típico arquetipo de vecino, rollo el moroso, el cotilla, el escaqueado, el ruidoso, … y cada sesión sería un problema en la comunidad que hay que resolver.
 
 El presidente tendría poderes especiales de presidente y los vecinos deberían averiguar chismes de otros vecinos para chantajearlos y voten como ellos quieran. También podría, hacerse sobornos, amenazas, tonteo y seducción, …
 
 Cuando presidente vote en una derrama y pierde, tendrá que hacerse unas nuevas votaciones para elegir al nuevo presidente.
+
 ### La villa secreta de las mascotas
 
 Todos los PJ son las típicas mascotas japonesas, exactamente gente que se ponen esos trajes cabezones y entrena y estudian el «petjutsu», el tradicional arte de ser mascotas en una villa secreta en las montañas de Japón.

@@ -120,9 +120,11 @@ XXX
 
 ## Agradecimientos
 
-Por sus ideas a:
+Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
+* [vrtxrry](https://vrtxrry.itch.io/dungeonfont)
+* [arcade](https://arcade.itch.io/fool)
 
 ## Licencía
 
