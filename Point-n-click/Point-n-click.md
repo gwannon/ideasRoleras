@@ -4,13 +4,11 @@
 
 \conc
 
-XXX
-
 \sp
 
 \sinc
 
-## Aventuras gráficas
+## El juego de rol de las aventuras gráficas clásicas
 
 &nbsp;
 
