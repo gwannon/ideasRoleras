@@ -5,6 +5,13 @@
   --color-black: #000;
 }
 
+@font-face {
+  font-family: 'Fool';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./Fool.ttf') format('truetype');
+}
+
 body {
   /*background: var(--color-black) url(../images/bg.png) repeat top center; */
   background-color: var(--color-black);
@@ -107,17 +114,18 @@ pre * {
 
 /* Titulares */
 h1 {
-  background: #201c37 url(../images/deyjsjn-2e52b4a3-2cbd-46fe-bd23-568bec1f5138.png) bottom center no-repeat;
+  background: #201c37 url(../images/titular.jpg) bottom center no-repeat;
   background-size: cover;
-  font-family: "Pixelify Sans", sans-serif;
-  color: var(--color-white);
-  text-align: center;
+  font-family: 'Fool';
+  color: var(--color-red);
+  text-align: right;
   height: 100vh;
   width: 100vw;
-  font-size: 5em;
-  padding-top: 45%;
+  font-size: 4em;
+  padding-top: 600px;
+  padding-right: 30px;
   margin: 0px;
-  text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
+  text-shadow: 3px 0px 3px #630e64;
   line-height: 120%;
   display: block;
   position: absolute;
@@ -125,29 +133,28 @@ h1 {
   left: 0px;
   z-index: 10;
   box-sizing: border-box;
+  font-weight: 400;
 }
 
 h1 > strong {
   display: block;
-  text-align: center;
-  font-size: 0.5em;
+  font-size: 0.6em;
   width: 100%;
-  color: var(--color-rwhite);
-  font-family: "Pixelify Sans", sans-serif;
+  margin-top: -30px;
   font-weight: 400;
-  text-decoration: none;
 }
 
 h2,
 h3,
 h4 {
-  font-family: "Pixelify Sans", sans-serif;
+  font-family: 'Fool';
   font-weight: 400;
   font-style: normal;
   color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 0px;
   line-height: 100%;
+  font-weight: 400;
 }
 
 h2 {
@@ -264,7 +271,7 @@ a.pdf {
     display: block;
     padding: 10px;
     margin: 0px;
-    font-family: "Pixelify Sans", sans-serif;
+    font-family: 'Fool';
     font-size: 30px;
     text-decoration: none;
     z-index: 100;
@@ -340,7 +347,7 @@ body {
 
 .saltopagina:after {
   --size: 20px;
-  font-family: "Pixelify Sans", sans-serif;
+  font-family: 'Fool';
   background-color: var(--color-red);
   display: flex;
   justify-content: center;
@@ -363,12 +370,8 @@ body {
   right: auto;
 }
 
-p:has(img) + blockquote {
-  border: 2px solid var(--color-red);
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
-  border-top: 0px solid var(--color-black);
-  margin-top: -14px;
-  position: relative;
-  z-index: 10;
+
+
+.saltopagina:nth-of-type(3):after {
+  opacity: 0;
 }
