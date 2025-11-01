@@ -12,7 +12,7 @@ Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un 
 
 Lo primero es elegir de que Aventura Gráfica (AG) provienes. La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
 
-A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y elegir la resolución de vídeo en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de la AG.
+A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y **elegir la resolución de vídeo** en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de la AG.
 
 También marca el tamaño de tu zona de equipo. Con poca resolución tienes mucho espacio porque son listados de texto, mientras que con mucha resolución son complicadas imágenes pixeladas.
 
@@ -20,7 +20,7 @@ También marca el tamaño de tu zona de equipo. Con poca resolución tienes much
 * **EGA:** 320×200 y 16 colores, **8 pixeles** y **8 espacios**
 * **VGA:** 640x480 y 256 colores, **10 pixeles** y **4 espacios**
 
-Lo siguiente es elegir su temática, eligiendo 2 adjetivos:
+Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 
 * **Ciencia ficción:** Aventuras de temática de ciencia ficción futurista o no. **+2 píxeles**
 * **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**
@@ -30,7 +30,7 @@ Lo siguiente es elegir su temática, eligiendo 2 adjetivos:
 * **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
 * **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
 
-Por último, se elige la empresa desarrolladora:
+Por último, se **elige la empresa desarrolladora**:
 
 * **LucasFilm Games:** La desarrolladora de AG clásica que todas recuerdan. **+2 píxeles**
 * **Sierra:** La distinguida competencia. **+2 espacios**
@@ -43,7 +43,7 @@ Por último, se elige la empresa desarrolladora:
 * **Pendulo Studios:** Han tratado de devolver al género su antiguo esplendor sin mucho éxito, pero sin perder la esperanza y buen hacer. **+2 espacios**
 * **Deconstructeam!:** Eres un indie moderno que disfruta del retropíxel. **+2 píxeles**
 
-Lo siguiente es calcular el espacio de equipo y los pixeles. Recuerda que si los píxeles o los espacios de equipo son impares, convierte un píxel en espacio o viceversa.
+Lo siguiente es **calcular el espacio de equipo y los pixeles**. Recuerda que si los píxeles o los espacios de equipo son impares, convierte un píxel en espacio o viceversa.
 
 ### 2. Paso - Crear tu interfaz
 
@@ -56,7 +56,7 @@ Todo personaje de una AG tiene unos verbos básicos:
 * Mirar
 * Usar
 
-Después debe elegir otros 3 verbos de este listado:
+Después debe **elegir otros 3 verbos** de este listado:
 
 * Abrir/Cerrar
 
@@ -71,9 +71,9 @@ Después debe elegir otros 3 verbos de este listado:
 
 ### 3. Paso - Toques finales
 
-Para finalizar debes definir tu nombre, algo acorde con tu AG y su temática, y elegir tus pronombres.
+Como toques finales debes **definir tu nombre**, algo acorde con tu AG y su temática, y **elegir tus pronombres**.
 
-Por último, debes elegir una pieza de equipo inicial tirando en la siguiente tabla:
+Por último, debes **elegir una pieza de equipo inicial** tirando en la siguiente tabla:
 
 |d10|Objeto|
 |---|---|
