@@ -13,7 +13,6 @@
 }
 
 body {
-  /*background: var(--color-black) url(../images/bg.png) repeat top center; */
   background-color: var(--color-black);
   margin: 0;
   padding: 0;
@@ -237,8 +236,7 @@ table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  border: 2px dashed var(--color-red);
-  padding: 5px;
+  padding: 0px;
   position: relative;
 }
 

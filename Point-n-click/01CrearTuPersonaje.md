@@ -79,11 +79,13 @@ Por último, debes elegir una pieza de equipo inicial tirando en la siguiente ta
 |---|---|
 |1|Pala|
 |2|Metrónomo|
-|3|XXX|
+|3|Espuelas|
 |4|Globo de helio|
-|5|XXX|
-|6|XXX|
-|7|Pistola de dardos tranquilizante|
-|8|Jarra de grog|
-|9|XXX|
-|10|XXX|
+|5|Silbato|
+|6|Bola antiestrés|
+|7|Máscara de carnaval|
+|8|Pistola de dardos tranquilizante|
+|9|Jarra de grog|
+|10|Pasaporte falso|
+|11|Bola de bramante|
+|12|Tijeras de podar oxidadas|

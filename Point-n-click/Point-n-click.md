@@ -16,6 +16,8 @@
 
 XXX
 
+Para jugar necesitarás hojas de papel, lápices y dados de 10 caras.
+
 \sp
 
 |01CrearTuPersonaje.md|
