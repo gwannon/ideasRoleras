@@ -193,6 +193,7 @@ h3 {
 }
 
 h4 {
+  margin-top: 5px;
   font-size: 1.3em;
 }
 
@@ -346,9 +347,9 @@ body {
 }
 
 .saltopagina:after {
-  --size: 20px;
+  --size: 40px;
   font-family: 'Fool';
-  background-color: var(--color-red);
+  color: var(--color-red);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -360,9 +361,9 @@ body {
   height: var(--size);
   z-index: 10;
   opacity: 1;
-  font-size: calc(var(--size) * 0.8px);
+  font-size: 40px;
   padding: 5px 5px 3px;
-  color: var(--color-black);
+  text-shadow: 3px 0px 3px #630e64;
 }
 
 .saltopagina.even:after {

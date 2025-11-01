@@ -12,13 +12,19 @@ Por sus ideas y aportaciones a:
 
 \sinc
 
-## Licencía
+## Licencia
 
 &nbsp;
 
 \conc
 
-Point-n-click RPG está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). XXX
+### Licencia CC BY 4.0
+
+«Point and click RPG» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Solo debes atribuirlo adecuadamente.
+
+Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+
+\sc
 
 ### Atribuciones
 
