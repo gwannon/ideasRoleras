@@ -52,13 +52,13 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'Point-n-click') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Fincas & Inmuebles\n\n";
+  $metas .= "InfoValue: Point and click RPG\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 1.0\n\n";
+  $metas .= "InfoValue: «Point and click RPG» es un pequeño juego de rol que busca simular la experiencia de las antiguas aventuras clásicas Point and click de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest». Versión 0.5\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, parodia, D&D\n\n";
+  $metas .= "InfoValue: rpg, ttrpg, parodia, point and click, aventura gráfica\n\n";
 }
 
 /* Generamos indice del PDF */
