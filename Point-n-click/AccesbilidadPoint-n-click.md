@@ -4,9 +4,17 @@
 
 ## El juego de rol de las aventuras gráficas clásicas
 
-XXX
+«Point and click RPG» es un pequeño juego de rol que busca simular la experiencia de las antiguas aventuras clásicas Point and click de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest».
 
-Para jugar necesitarás hojas de papel, lápices y dados de 10 caras.## Crear tu PJ
+Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
+
+También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
+
+Según avanzas y resuelves puzzles se va desarrollando historias de todo tipo desde viajes fantásticos, aventuras «pulp» o locas situaciones.
+
+En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
+
+Para jugar necesitarás **hojas de papel, lápices y dados de 12 caras**. En la última página tienes pixeles de colores que pueden imprimir en cartulina y usarlos como tokens para tus píxeles.## Crear tu PJ
 
 Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
 
@@ -86,51 +94,95 @@ Por último, debes **elegir una pieza de equipo inicial** tirando en la siguient
 |11|Bola de bramante|
 |12|Tijeras de podar oxidadas|## Sistema
 
+### Escenas
+
+Las aventuras gráficas se dividen en escenas y pantallas. Un escena puede estar compuesta por una o varias pantalla y suele estar asociada a un puzzle o reto principal que a su vez tiene otros puzzles.
+
+Por ejemplo, una escena puede ser conseguir los 3 trozos que faltan de un mapa de un tesoro, uno está perdido en la biblioteca, otro lo tiene el decano de la universidad en su despacho y el tercero te lo vende tu compañero de despacho por 1.000$. Para solucionar la escena deberás recuperar cada trozo del mapa resovieldo cada puzzle o reto y luego montar el mapa a partir de los trozos recuperados.
+
+XXX
+
+Al empezar una escena, el DJ debe describir todas las cosas clicables de la escena. En principio, los PJ solo pueden interactuar con los elementos clicables, pero como veremos más adelante gastando tus píxeles se puede interactuar con otras cosas que no eran clicables.
+
+XXX
+
+### Acciones y tiradas
+
 Hay diferentes tipos de acciones posibles:
 
 * Verbo + Equipo
 * Verbo + Equipo + Equipo
 * Verbo + Elemento clicable de la escena
 * Verbo + Equipo + Elemento clicable de la escena
-* Meter
+* Meter en el equipo
 
-Los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos.
+Las acciones se pueden o no se pueden hacer, no hay posibilidad de hacerlo bien o de fallar. Por tanto de normal no hay tiradas.
 
-XXX
+Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d12 y si sacas 8 o más tienes éxito**. Puedes dar **bonus +2** si tienen equipo adecuado o si descubren algo que les dé ventaja.
 
+Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d12. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +2 por cada truco aplicado.
+
+A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos un silla o una escalera primero.
 ### El equipo
 
-XXX
+En cada casilla puedes meter un objeto del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
 
-En cada casilla puedes meter un objeto del tamaño o peso que sea. Desde hilo y aguja hasta un Pontiac del 64, todo ocupa una casilla. 
+Si tienes, por ejemplo, 6 espacios de equipo, Puedes meter en tu equipo una calabaza, una sandía, la cabeza de una escultura de un emperador romano, aguja e hilo, una trompeta y un pin de los «Panteras de Arkansas».
 
-### Escenas
+Cada objeto ocupa un espacio del equipo y si intentas meter en tu equipo un gran tonel de vino no entrará porque ni tienes espacio libre, ni entra en una mochila.
 
-Al empezar una escena, el DJ debe describir todas las cosas clicables de la escena. En principio, los PJ solo pueden interactuar con los elementos clicables, pero gastando puntos de XXX se puede interactuar con otras cosas.
+> Puedes saltarte esta regla del tamaño en juegos de humor rollo cartoon donde los bolsillos se dan de sí.
 
-XXX
 ### Uso de tus píxeles
 
 XXX
 
-### Cosas de aventuras gráficas
+* **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechandose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla.   
+* **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
+* **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. XXX
 
-Las aventuras gráficas tienen a veces su propio lógica y todas las siguientes reglas tratan de reflejarlas.
+#### Recuperar píxeles
+
+Recuperas píxeles en determinadas situaciones:
+
+* Al completar una escena recuperas todos tus píxeles.
+* XXX### Cosas de aventuras gráficas
+
+Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes reglas tratan de reflejarlas.
+
+#### Permanencia de objetos
+
+El equipo que dejas en una escena se queda en esa escena, solo tus personajes y otros personajes importantes pueden cogerlos.
+
+Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
+> Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
 #### Acceder al mapa
 
-En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una escena directamente sin tener que pasar por otras escenas. XXX
+En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una escena directamente sin tener que pasar por otras escenas.
 
-#### Resolución de pantalla
+Desde el mapa podrán moverse directamente, al principio de cualquier escena que ya hayan visitado. Téngase en cuenta que los objetos que se usaron para llegar a alguna escena ya no serán necesarios y podrán recogerse.
 
-El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntitos, de hecho habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
-#### Permanencia de objetos
+Siguiendo el ejemplo anterior del puente de cuerda, ya no necesitas tener el puente construido para llegar a las escenas del otro lado del precipicio. Puedes ir directamente con el mapa.
 
-El equipo que dejas en una escena se queda en esa escena, solo tus personajes y otros personajes importantes pueden cogerlos. Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente.
+#### Mover objetos
+
+Los objetos de tu equipo es fácil moverlos dentro de una pantalla o entre pantallas, van en tu equipo. Para objetos más grandes puede usar Tirar/Empujar para moverlos dentro de la pantalla.
+
+Si deseas mover objetos pesados entre pantallas tendrás que utilizar algún tipo de truco o artilugio, desde Usar grasa de freidora y empujarlo cuesta abajo a un complicado sistema de poleas o la vagoneta del tren de la mina.
+
+#### Ancho de pantalla
+
+El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+
+#### Conexiones entre pantalla
+
+Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadores y otras por las que no, pero que podrán usar en su beneficio. Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
 #### Pixel exacto
 
-Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. XXX## Crear una aventura gráfica
+Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. Esto hace que para encontrarlo se tenga que hacer una tirada de Buscar, no vale con un simple Mirar.
+## Crear una aventura gráfica
 
 XXX
 
@@ -138,7 +190,7 @@ Hay que decidir si la aventura será mortal o no. Esa es una de las grandes dife
 
 XXX
 
-Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 2 o 3 pruebas o retos que debes solucionar.## Personajes no jugables
+Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.## Personajes no jugables
 
 Hay 3 tipos de personajes no jugables:
 
@@ -146,18 +198,14 @@ Hay 3 tipos de personajes no jugables:
 * Tienen varias frases con alguna pista importante, pueden aparecer en diferentes escenas y recibir o dar algún objeto.
 * Personajes clave con montones de frases, aparecen en muchas escenas y dan muchas pistas y equipo constantemente.
 
-XXX## Agradecimientos
-
-Por sus ideas y aportaciones a:
-
-* [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
-## Licencia
+XXX## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 
 «Point and click RPG» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Solo debes atribuirlo adecuadamente.
 
 Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+
 ### Atribuciones
 
 #### Fuentes
@@ -171,4 +219,9 @@ Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.co
 * Pixel art mystical background [pikisuperstar](https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm)
 * Set of pixelated teenagers by [Freepik](https://www.freepik.com/free-vector/set-pixelated-teenagers_943286.htm)
 * Pixel robots icons. 8 bit bots isolated. Set of robots in pixel style, illustration color robot ... by [macrovector](https://www.freepik.com/free-vector/pixel-robots-icons-8-bit-bots-isolated-set-robots-pixel-style-illustration-color-robot_13031467.htm)
-&nbsp;
+### Agradecimientos
+
+Por sus ideas y aportaciones a:
+
+* [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
+|pixeles.html|

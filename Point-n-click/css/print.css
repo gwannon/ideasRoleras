@@ -76,19 +76,19 @@ body > *:first-child,
 }
 
 blockquote {
-  border: 1px solid var(--color-black);
-  padding: 10px;
-  background-color: var(--color-black);
-  border-radius: 5px;
+  padding: 0px;
   margin: 10px 0px;
-  color: white;
-  text-align: center;
 }
 
 blockquote p {
   padding: 0px;
   margin: 0px;
-  font-style: italic;
+  font-family: 'Fool';
+  font-size: 1.2em;
+  color: var(--color-red);
+  border: 1px solid var(--color-red);
+  padding: 10px;
+  text-align: center;
 }
 
 pre {
@@ -113,26 +113,44 @@ pre * {
 
 /* Titulares */
 h1 {
-  background: #201c37 url(../images/titular.jpg) bottom center no-repeat;
+  background: var(--color-black) url(../images/titular.jpg) bottom center no-repeat;
   background-size: cover;
   font-family: 'Fool';
   color: var(--color-red);
   text-align: right;
-  height: 100vh;
-  width: 100vw;
-  font-size: 4em;
-  padding-top: 600px;
+  font-size: 2em;
+  padding-top: 59%;
+  padding-bottom: 7%;
   padding-right: 30px;
   margin: 0px;
   text-shadow: 3px 0px 3px #630e64;
   line-height: 120%;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  z-index: 10;
-  box-sizing: border-box;
-  font-weight: 400;
+}
+
+@media screen and (max-width: 725px) {
+  h1 {
+    background-image: none;
+    padding-top: 30px;
+    font-size: 3em;
+  }
+}
+
+
+
+@media print {
+  h1 {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 10;
+    box-sizing: border-box;
+    font-weight: 400;
+    height: 100vh;
+    width: 100vw;
+    font-size: 4em;
+    padding-top: 600px;
+  }
 }
 
 h1 > strong {
@@ -263,31 +281,26 @@ h3 + p img {
 }
 
 a.pdf {
-    position: fixed;
-    bottom: 0px;
-    right: 0px;
-    color: white;
-    background-color: var(--color-red);
-    display: block;
-    padding: 10px;
-    margin: 0px;
-    font-family: 'Fool';
-    font-size: 30px;
-    text-decoration: none;
-    z-index: 100;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: white;
+  background-color: var(--color-red);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: 'Fool';
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
 }
 
 @media screen {
-  .saltopagina {
-    border-top: 3px dashed var(--color-white);
-    border-bottom:  3px dashed var(--color-white);
-  }
-
   .columns {
     columns: auto;
   }
 
-    body {
+  body {
     font-size: 22px;
   }
 
@@ -298,7 +311,6 @@ a.pdf {
 }
 
 @media screen and (max-width: 840px) {
-
   body {
     padding: 0 10px;
   }
@@ -307,7 +319,20 @@ a.pdf {
   body:before {
     opacity: 0;
   }
+}
 
+@media screen {
+  .saltopagina {
+    opacity: 0; 
+  }
+
+  .saltopagina + * {
+    margin-top: -15px;
+  }
+
+  .saltopagina + h2 {
+    margin-top: 45px;
+  }
 }
 
 @media print {
@@ -369,8 +394,6 @@ body {
   left: -25px;
   right: auto;
 }
-
-
 
 .saltopagina:nth-of-type(3):after {
   opacity: 0;

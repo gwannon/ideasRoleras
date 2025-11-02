@@ -1,18 +1,6 @@
 \sinc
 
-## Agradecimientos
-
-&nbsp;
-
-\conc
-
-Por sus ideas y aportaciones a:
-
-* [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
-
-\sinc
-
-## Licencia
+## Licencia y agradecimientos
 
 &nbsp;
 
@@ -23,8 +11,6 @@ Por sus ideas y aportaciones a:
 «Point and click RPG» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Solo debes atribuirlo adecuadamente.
 
 Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
-
-\sc
 
 ### Atribuciones
 
@@ -39,3 +25,11 @@ Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.co
 * Pixel art mystical background [pikisuperstar](https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm)
 * Set of pixelated teenagers by [Freepik](https://www.freepik.com/free-vector/set-pixelated-teenagers_943286.htm)
 * Pixel robots icons. 8 bit bots isolated. Set of robots in pixel style, illustration color robot ... by [macrovector](https://www.freepik.com/free-vector/pixel-robots-icons-8-bit-bots-isolated-set-robots-pixel-style-illustration-color-robot_13031467.htm)
+
+\sc
+
+### Agradecimientos
+
+Por sus ideas y aportaciones a:
+
+* [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)

@@ -12,4 +12,8 @@ Hay que decidir si la aventura será mortal o no. Esa es una de las grandes dife
 
 XXX
 
-Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 2 o 3 pruebas o retos que debes solucionar.
+Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
+
+\sc
+
+&nbsp;
