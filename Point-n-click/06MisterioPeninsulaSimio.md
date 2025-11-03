@@ -1,6 +1,6 @@
 \sinc
 
-## El misterio de la Península del Simio
+## El enigma de la Península del Simio
 
 &nbsp;
 
