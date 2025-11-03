@@ -268,10 +268,10 @@ Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
 
 Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
-
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
 También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
+
 #### Aventuras no mortales
 
 En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
@@ -298,7 +298,15 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 ### Escenas y pantallas
 
-XXX## Licencia y agradecimientos
+XXX## El enigma de la Península del Simio
+
+_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
+
+_Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
+
+_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac'n Cheese, y te ganes el respeto de todo el Caribe._
+XXX
+## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 

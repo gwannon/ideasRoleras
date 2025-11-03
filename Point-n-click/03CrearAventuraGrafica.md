@@ -45,11 +45,11 @@ Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfr
 
 Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
 
+\sp
+
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
 También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
-
-\sp
 
 #### Aventuras no mortales
 
