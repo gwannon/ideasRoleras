@@ -26,15 +26,15 @@ Hay diferentes tipos de acciones posibles:
 * Verbo + Equipo + Equipo
 * Verbo + Elemento clicable de la escena
 * Verbo + Equipo + Elemento clicable de la escena
-* Meter en el equipo
+* Meter + elemento clicable / Sacar + equipo
 
 Las acciones se pueden o no se pueden hacer, no hay posibilidad de hacerlo bien o de fallar. Por tanto de normal no hay tiradas.
 
-Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d12 y si sacas 8 o más tienes éxito**. Puedes dar **bonus +2** si tienen equipo adecuado o si descubren algo que les dé ventaja.
+Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d6 y si sacas 4 o más tienes éxito**. Puedes dar **bonus +1** si tienen equipo adecuado o si descubren algo que les dé ventaja.
 
-Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d12. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +2 por cada truco aplicado.
+Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
 
-A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos un silla o una escalera primero.
+A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero.
 
 \sp
 

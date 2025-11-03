@@ -14,7 +14,7 @@ Según avanzas y resuelves puzzles se va desarrollando historias de todo tipo de
 
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 12 caras**. En la última página tienes pixeles de colores que pueden imprimir en cartulina y usarlos como tokens para tus píxeles.## Crear tu PJ
+Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes pixeles de colores que pueden imprimir en cartulina y usarlos como tokens para tus píxeles.## Crear tu PJ
 
 Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
 
@@ -37,6 +37,7 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 * **Fantasía:** Mundos mágicos de cuento donde viven elfos, enanos y otros seres mágicos. **+2 espacios**
 * **Horror:** Historia de miedo y horror de casas encantadas, pueblos malditos, criaturas congeladas en el hielo, etc. **+1 píxel y +1 equipo**
 * **Humor:** Historías alocadas cercanas a los dibujos animados normalmente con personajes estrambóticos o animales antropomorfos. **+2 pixeles**
+* **Misterio:** Desde investigadores victorianos a casos policiales pasando por detectives de novela negra. **+2 píxeles**
 * **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
 * **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
 
@@ -79,20 +80,15 @@ Como toques finales debes **definir tu nombre**, algo acorde con tu AG y su tem�
 
 Por último, debes **elegir una pieza de equipo inicial** tirando en la siguiente tabla:
 
-|d10|Objeto|
-|---|---|
-|1|Pala|
-|2|Metrónomo|
-|3|Espuelas|
-|4|Globo de helio|
-|5|Silbato|
-|6|Bola antiestrés|
-|7|Máscara de carnaval|
-|8|Pistola de dardos tranquilizante|
-|9|Jarra de grog|
-|10|Pasaporte falso|
-|11|Bola de bramante|
-|12|Tijeras de podar oxidadas|## Sistema
+|d10|Ciencia ficción, Fantasía, Pulp|Misterio, Horror, De franquicia|Humor, Picante|
+|---|---|---|---|
+|1|Pala|Tijeras de podar oxidadas|Pollo de goma|
+|2|Jarra de grog|Lupa rota|Globo de helio|
+|3|Espuelas|Pasaporte falso|Bola antiestrés|
+|4|Pistola de dardos tranquilizante|Metrónomo|Trampa para ratones|
+|5|Gafas 3D de cartón|Máscara de carnaval|Bola de bramante|
+|6|Linterna|Silbato|Trompeta|
+## Sistema
 
 ### Escenas
 
@@ -114,15 +110,15 @@ Hay diferentes tipos de acciones posibles:
 * Verbo + Equipo + Equipo
 * Verbo + Elemento clicable de la escena
 * Verbo + Equipo + Elemento clicable de la escena
-* Meter en el equipo
+* Meter + elemento clicable / Sacar + equipo
 
 Las acciones se pueden o no se pueden hacer, no hay posibilidad de hacerlo bien o de fallar. Por tanto de normal no hay tiradas.
 
-Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d12 y si sacas 8 o más tienes éxito**. Puedes dar **bonus +2** si tienen equipo adecuado o si descubren algo que les dé ventaja.
+Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d6 y si sacas 4 o más tienes éxito**. Puedes dar **bonus +1** si tienen equipo adecuado o si descubren algo que les dé ventaja.
 
-Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d12. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +2 por cada truco aplicado.
+Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
 
-A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos un silla o una escalera primero.
+A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero.
 ### El equipo
 
 En cada casilla puedes meter un objeto del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
@@ -224,4 +220,5 @@ Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.co
 Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
+* [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)
 |pixeles.html|

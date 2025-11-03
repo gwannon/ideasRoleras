@@ -33,3 +33,4 @@ Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.co
 Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
+* [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)

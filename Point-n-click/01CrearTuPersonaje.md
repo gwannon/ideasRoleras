@@ -27,6 +27,7 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 * **Fantasía:** Mundos mágicos de cuento donde viven elfos, enanos y otros seres mágicos. **+2 espacios**
 * **Horror:** Historia de miedo y horror de casas encantadas, pueblos malditos, criaturas congeladas en el hielo, etc. **+1 píxel y +1 equipo**
 * **Humor:** Historías alocadas cercanas a los dibujos animados normalmente con personajes estrambóticos o animales antropomorfos. **+2 pixeles**
+* **Misterio:** Desde investigadores victorianos a casos policiales pasando por detectives de novela negra. **+2 píxeles**
 * **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
 * **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
 
@@ -75,17 +76,11 @@ Como toques finales debes **definir tu nombre**, algo acorde con tu AG y su tem�
 
 Por último, debes **elegir una pieza de equipo inicial** tirando en la siguiente tabla:
 
-|d10|Objeto|
-|---|---|
-|1|Pala|
-|2|Metrónomo|
-|3|Espuelas|
-|4|Globo de helio|
-|5|Silbato|
-|6|Bola antiestrés|
-|7|Máscara de carnaval|
-|8|Pistola de dardos tranquilizante|
-|9|Jarra de grog|
-|10|Pasaporte falso|
-|11|Bola de bramante|
-|12|Tijeras de podar oxidadas|
+|d10|Ciencia ficción, Fantasía, Pulp|Misterio, Horror, De franquicia|Humor, Picante|
+|---|---|---|---|
+|1|Pala|Tijeras de podar oxidadas|Pollo de goma|
+|2|Jarra de grog|Lupa rota|Globo de helio|
+|3|Espuelas|Pasaporte falso|Bola antiestrés|
+|4|Pistola de dardos tranquilizante|Metrónomo|Trampa para ratones|
+|5|Gafas 3D de cartón|Máscara de carnaval|Bola de bramante|
+|6|Linterna|Silbato|Trompeta|

@@ -24,7 +24,7 @@ Según avanzas y resuelves puzzles se va desarrollando historias de todo tipo de
 
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 12 caras**. En la última página tienes pixeles de colores que pueden imprimir en cartulina y usarlos como tokens para tus píxeles.
+Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes pixeles de colores que pueden imprimir en cartulina y usarlos como tokens para tus píxeles.
 
 \sc
 
