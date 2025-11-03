@@ -45,7 +45,7 @@ Por otro lado, la propia lógica dictará si al usarse el equipo se gasta o no. 
 
 ### El equipo
 
-En cada casilla puedes meter un obje toque no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
+En cada casilla puedes meter un objeto que no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
 
 Si tienes, por ejemplo, 6 espacios de equipo, Puedes meter en tu equipo una calabaza, una sandía, la cabeza de una escultura de un emperador romano, aguja e hilo, una trompeta y un pin de los «Panteras de Arkansas».
 

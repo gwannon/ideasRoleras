@@ -16,9 +16,9 @@ A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y
 
 También marca el tamaño de tu zona de equipo. Con poca resolución tienes mucho espacio porque son listados de texto, mientras que con mucha resolución son complicadas imágenes pixeladas.
 
-* **CGA:** 320x200 y 4 colores, **4 pixeles** y **10 espacios**
-* **EGA:** 320×200 y 16 colores, **8 pixeles** y **8 espacios**
-* **VGA:** 640x480 y 256 colores, **10 pixeles** y **4 espacios**
+* **CGA:** 320x200 y 4 colores, **4 píxeles** y **10 espacios**
+* **EGA:** 320×200 y 16 colores, **8 píxeles** y **8 espacios**
+* **VGA:** 640x480 y 256 colores, **10 píxeles** y **4 espacios**
 
 Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 
@@ -26,7 +26,7 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 * **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**
 * **Fantasía:** Mundos mágicos de cuento donde viven elfos, enanos y otros seres mágicos. **+2 espacios**
 * **Horror:** Historia de miedo y horror de casas encantadas, pueblos malditos, criaturas congeladas en el hielo, etc. **+1 píxel y +1 equipo**
-* **Humor:** Historías alocadas cercanas a los dibujos animados normalmente con personajes estrambóticos o animales antropomorfos. **+2 pixeles**
+* **Humor:** Historías alocadas cercanas a los dibujos animados normalmente con personajes estrambóticos o animales antropomorfos. **+2 píxeles**
 * **Misterio:** Desde investigadores victorianos a casos policiales pasando por detectives de novela negra. **+2 píxeles**
 * **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
 * **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
@@ -44,7 +44,7 @@ Por último, se **elige la empresa desarrolladora**:
 * **Pendulo Studios:** Han tratado de devolver al género su antiguo esplendor sin mucho éxito, pero sin perder la esperanza y buen hacer. **+2 espacios**
 * **Deconstructeam!:** Eres un indie moderno que disfruta del retropíxel. **+2 píxeles**
 
-Lo siguiente es **calcular el espacio de equipo y los pixeles**. Recuerda que si los píxeles o los espacios de equipo son impares, convierte un píxel en espacio o viceversa.
+Lo siguiente es **calcular el espacio de equipo y los píxeles**. Recuerda que si los píxeles o los espacios de equipo son impares, convierte un píxel en espacio o viceversa.
 
 ### 2. Paso - Crear tu interfaz
 
