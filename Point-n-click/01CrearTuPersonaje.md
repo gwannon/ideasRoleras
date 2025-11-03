@@ -76,7 +76,7 @@ Como toques finales debes **definir tu nombre**, algo acorde con tu AG y su tem�
 
 Por último, debes **elegir una pieza de equipo inicial** tirando en la siguiente tabla:
 
-|d10|Ciencia ficción, Fantasía, Pulp|Misterio, Horror, De franquicia|Humor, Picante|
+|d6|Ciencia ficción, Fantasía, Pulp|Misterio, Horror, De franquicia|Humor, Picante|
 |---|---|---|---|
 |1|Pala|Tijeras de podar oxidadas|Pollo de goma|
 |2|Jarra de grog|Lupa rota|Globo de helio|
