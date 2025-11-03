@@ -48,6 +48,10 @@ Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En
 
 \sp
 
+|06MisterioPeninsulaSimio.md|
+
+\sp
+
 |05Licencia.md|
 
 \sp
