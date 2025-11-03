@@ -36,8 +36,8 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 * **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**
 * **Fantasía:** Mundos mágicos de cuento donde viven elfos, enanos y otros seres mágicos. **+2 espacios**
 * **Horror:** Historia de miedo y horror de casas encantadas, pueblos malditos, criaturas congeladas en el hielo, etc. **+1 píxel y +1 equipo**
-* **Humor:** Historías alocadas cercanas a los dibujos animados normalmente con personajes estrambóticos o animales antropomorfos. **+2 píxeles**
-* **Misterio:** Desde investigadores victorianos a casos policiales pasando por detectives de novela negra. **+2 píxeles**
+* **Humor:** Historías alocadas cercanas a los dibujos animados, normalmente con personajes estrambóticos o animales antropomorfos. **+2 píxeles**
+* **Misterio:** Desde investigadores victorianos a casos policiales, pasando por detectives de novela negra. **+2 píxeles**
 * **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
 * **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
 
@@ -118,7 +118,7 @@ Las acciones se pueden o no se pueden hacer, no hay posibilidad de hacerlo bien 
 
 Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d6 y si sacas 4 o más tienes éxito**. Puedes dar **bonus +1** si tienen equipo adecuado o si descubren algo que les dé ventaja.
 
-Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
+Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos, tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
 
 A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero. 
 
@@ -136,14 +136,14 @@ Cada objeto ocupa un espacio del equipo y si intentas meter en tu equipo un gran
 
 ### Uso de tus píxeles
 
-Los píxeles son lo que hace espacial a tu personaje permitiéndole hacer cosas fuera de lo común, aprovechándose de fallos y bugs de la AG, leyendo guías de juego, probando todo con todo, ...
+Los píxeles son lo que hace espacial a tu personaje, permitiéndole hacer cosas fuera de lo común, aprovechándose de fallos y bugs de la AG, leyendo guías de juego, probando todo con todo, …
 
 Los posibles gastos que se pueden hacer son:
 
 * **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla.   
 * **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
-* **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacía el camino correcto.  
-* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] ...» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
+* **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
+* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -162,7 +162,7 @@ Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes 
 
 El **equipo que dejas** en una escena **se queda en esa escena**, solo tus personajes y otros personajes importantes pueden cogerlos.
 
-Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
+Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
 
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
@@ -177,7 +177,7 @@ Siguiendo el ejemplo anterior del puente de cuerda, ya no necesitas tener el pue
 
 Los objetos de tu equipo es fácil moverlos dentro de una pantalla o entre pantallas, van en tu equipo. Para objetos más grandes puede usar Tirar/Empujar para moverlos dentro de la pantalla.
 
-Si deseas mover objetos pesados entre pantallas tendrás que utilizar algún tipo de truco o artilugio, desde Usar grasa de freidora y empujarlo cuesta abajo a un complicado sistema de poleas o la vagoneta del tren de la mina.
+Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún tipo de truco o artilugio, desde Usar grasa de freidora y empujarlo cuesta abajo a un complicado sistema de poleas o la vagoneta del tren de la mina.
 
 #### Ancho de pantalla
 
@@ -196,7 +196,7 @@ Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pa
 
 Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado. En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
 
-Lo importante es que sin esa clave es imposible, cruzar esa zona laberíntica. ## Personajes no jugables
+Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica. ## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
 
@@ -276,7 +276,7 @@ También deberías haber dispuesto elementos y acciones previas que les den bono
 
 En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
 
-Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará mirará a la pantalla y le dura algo gracioso como «Not today» o «Mi madre no crío a un tonto».
+Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «Not today» o «Mi madre no crío a un tonto».
 
 Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
 
@@ -304,7 +304,7 @@ _En lo profundo del Caribe hay una península rodeada de agua por todas partes l
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
 
-_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac'n Cheese, y te ganes el respeto de todo el Caribe._
+_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
 XXX
 ## Licencia y agradecimientos
 

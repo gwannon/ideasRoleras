@@ -26,8 +26,8 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 * **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**
 * **Fantasía:** Mundos mágicos de cuento donde viven elfos, enanos y otros seres mágicos. **+2 espacios**
 * **Horror:** Historia de miedo y horror de casas encantadas, pueblos malditos, criaturas congeladas en el hielo, etc. **+1 píxel y +1 equipo**
-* **Humor:** Historías alocadas cercanas a los dibujos animados normalmente con personajes estrambóticos o animales antropomorfos. **+2 píxeles**
-* **Misterio:** Desde investigadores victorianos a casos policiales pasando por detectives de novela negra. **+2 píxeles**
+* **Humor:** Historías alocadas cercanas a los dibujos animados, normalmente con personajes estrambóticos o animales antropomorfos. **+2 píxeles**
+* **Misterio:** Desde investigadores victorianos a casos policiales, pasando por detectives de novela negra. **+2 píxeles**
 * **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
 * **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
 

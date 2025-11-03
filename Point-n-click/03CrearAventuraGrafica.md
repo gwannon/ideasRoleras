@@ -55,7 +55,7 @@ También deberías haber dispuesto elementos y acciones previas que les den bono
 
 En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
 
-Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará mirará a la pantalla y le dura algo gracioso como «Not today» o «Mi madre no crío a un tonto».
+Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «Not today» o «Mi madre no crío a un tonto».
 
 Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
 

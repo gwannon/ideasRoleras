@@ -37,7 +37,7 @@ Las acciones se pueden o no se pueden hacer, no hay posibilidad de hacerlo bien 
 
 Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d6 y si sacas 4 o más tienes éxito**. Puedes dar **bonus +1** si tienen equipo adecuado o si descubren algo que les dé ventaja.
 
-Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
+Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos, tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
 
 A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero. 
 
@@ -55,7 +55,7 @@ Cada objeto ocupa un espacio del equipo y si intentas meter en tu equipo un gran
 
 ### Uso de tus píxeles
 
-Los píxeles son lo que hace espacial a tu personaje permitiéndole hacer cosas fuera de lo común, aprovechándose de fallos y bugs de la AG, leyendo guías de juego, probando todo con todo, ...
+Los píxeles son lo que hace espacial a tu personaje, permitiéndole hacer cosas fuera de lo común, aprovechándose de fallos y bugs de la AG, leyendo guías de juego, probando todo con todo, …
 
 Los posibles gastos que se pueden hacer son:
 
@@ -64,8 +64,8 @@ Los posibles gastos que se pueden hacer son:
 \sp
 
 * **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
-* **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacía el camino correcto.  
-* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] ...» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
+* **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
+* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -84,7 +84,7 @@ Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes 
 
 El **equipo que dejas** en una escena **se queda en esa escena**, solo tus personajes y otros personajes importantes pueden cogerlos.
 
-Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
+Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
 
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
@@ -102,7 +102,7 @@ Siguiendo el ejemplo anterior del puente de cuerda, ya no necesitas tener el pue
 
 Los objetos de tu equipo es fácil moverlos dentro de una pantalla o entre pantallas, van en tu equipo. Para objetos más grandes puede usar Tirar/Empujar para moverlos dentro de la pantalla.
 
-Si deseas mover objetos pesados entre pantallas tendrás que utilizar algún tipo de truco o artilugio, desde Usar grasa de freidora y empujarlo cuesta abajo a un complicado sistema de poleas o la vagoneta del tren de la mina.
+Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún tipo de truco o artilugio, desde Usar grasa de freidora y empujarlo cuesta abajo a un complicado sistema de poleas o la vagoneta del tren de la mina.
 
 #### Ancho de pantalla
 
@@ -124,4 +124,4 @@ Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pa
 
 Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado. En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
 
-Lo importante es que sin esa clave es imposible, cruzar esa zona laberíntica. 
+Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica. 
