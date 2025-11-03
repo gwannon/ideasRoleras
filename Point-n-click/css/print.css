@@ -181,6 +181,8 @@ h2 {
   text-align: center;
   margin: 0px 20px ;
   position: relative;
+  text-shadow: 3px 0px 3px #630e64;
+  text-shadow: 3px 0px 3px #f137f3;
 }
 
 h2:before {
@@ -206,13 +208,15 @@ h2:after {
 }
 
 h3 {
-   margin-top: 5px;
+  margin-top: 5px;
   font-size: 2em;
+  text-shadow: 3px 0px 3px #630e64;
 }
 
 h4 {
   margin-top: 5px;
   font-size: 1.3em;
+  text-shadow: 3px 0px 3px #630e64;
 }
 
 h2 + p, 
