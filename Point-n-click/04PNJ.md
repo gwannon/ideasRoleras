@@ -31,3 +31,7 @@ XXX
 ### Ejemplos de personajes
 
 XXX
+
+### Interactuar con los PNJ
+
+XXX

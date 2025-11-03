@@ -25,10 +25,10 @@ También debería dar **una idea de como se conecta esta pantalla con otras que 
 Hay diferentes tipos de acciones posibles:
 
 * Verbo + Equipo
+* Verbo + Equipo + Equipo
 
 \sp
 
-* Verbo + Equipo + Equipo
 * Verbo + Elemento clicable de la escena
 * Verbo + Equipo + Elemento clicable de la escena
 * Meter + elemento clicable / Sacar + equipo
@@ -39,11 +39,13 @@ Solo existen **tiradas** en las escasas **situaciones en que puede fallar una ac
 
 Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
 
-A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero.
+A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero. 
+
+Por otro lado, la propia lógica dictará si al usarse el equipo se gasta o no. Una cerilla se gasta al usarse, un cerillero tiene infinitos usos.
 
 ### El equipo
 
-En cada casilla puedes meter un objeto del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
+En cada casilla puedes meter un obje toque no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
 
 Si tienes, por ejemplo, 6 espacios de equipo, Puedes meter en tu equipo una calabaza, una sandía, la cabeza de una escultura de un emperador romano, aguja e hilo, una trompeta y un pin de los «Panteras de Arkansas».
 
@@ -63,7 +65,7 @@ Los posibles gastos que se pueden hacer son:
 
 * **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
 * **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacía el camino correcto.  
-* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] ...» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química y el nombre del grimorio mágico que tiene el hechizo para destruirle.
+* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] ...» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
