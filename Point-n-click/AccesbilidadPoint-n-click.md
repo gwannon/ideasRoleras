@@ -4,17 +4,17 @@
 
 ## El juego de rol de las aventuras gráficas clásicas
 
-«Point and click RPG» es un pequeño juego de rol que busca simular la experiencia de las antiguas aventuras clásicas Point and click de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest».
+«Point and click RPG» es un pequeño juego de rol para un DJ y 3 PJ máximo que busca simular la experiencia de las antiguas aventuras clásicas «Point and click» de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest».
 
 Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
 
 También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
 
-Según avanzas y resuelves puzzles se va desarrollando historias de todo tipo desde viajes fantásticos, aventuras «pulp» o locas situaciones.
+Según avanzas y resuelves puzzles se va desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
 
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes pixeles de colores que pueden imprimir en cartulina y usarlos como tokens para tus píxeles.## Crear tu PJ
+Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens.## Crear tu PJ
 
 Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
 
@@ -178,21 +178,91 @@ Las pantallas de una escena tienen conexiones por las que podrán ir tus jugador
 #### Pixel exacto
 
 Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. Esto hace que para encontrarlo se tenga que hacer una tirada de Buscar, no vale con un simple Mirar.
-## Crear una aventura gráfica
-
-XXX
-
-Hay que decidir si la aventura será mortal o no. Esa es una de las grandes diferencias entre unas AG y otras.
-
-XXX
-
-Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.## Personajes no jugables
+## Personajes no jugables
 
 Hay 3 tipos de personajes no jugables:
 
-* Solo tienen una sola frase y están en una sola escena.
-* Tienen varias frases con alguna pista importante, pueden aparecer en diferentes escenas y recibir o dar algún objeto.
-* Personajes clave con montones de frases, aparecen en muchas escenas y dan muchas pistas y equipo constantemente.
+* **Unifrase:** Solo tienen una sola frase y están en una sola escena.
+* **Multifrases:** Tienen varias frases con alguna pista importante, pueden aparecer en diferentes escenas y recibir o dar algún objeto.
+* **Principales:** Personajes clave con montones de frases, aparecen en muchas escenas y dan muchas pistas y equipo constantemente.
+
+### Unifrases
+
+XXX
+
+### Multifrases
+
+XXX
+
+### Principales
+
+XXX## Crear una aventura gráfica
+
+### Primeros toques
+
+Para empezar a crear la aventura gráfica debes hacer como cuando creas un personaje y elegir su resolución, temática y escoger su desarrolladora. Resolución:
+
+* **CGA:** 320x200 y 4 colores, XXX
+* **EGA:** 320×200 y 16 colores, XXX
+* **VGA:** 640x480 y 256 colores, XXX
+
+Elige dos temáticas:
+
+* **Ciencia ficción:** XXXXXX
+* **De franquicia:** XXX
+* **Fantasía:** XXX
+* **Horror:** XXX
+* **Humor:** XXX
+* **Misterio:** XXX
+* **Pulp:** XXX
+* **Picantes:** XXX
+
+Elige la empresa desarrolladora:
+
+* **LucasFilm Games:** XXX
+* **Sierra:** XXX
+* **Alcachofa Soft:** XXX
+* **Revolution Software:** XXX
+* **Coktel studios:** XXX
+* **Pendulo Studios:** XXX
+* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. «Deconstructeam!» solo desarrolla en VGA. XXX
+
+Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
+
+#### Aventuras mortales
+
+Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
+
+Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
+
+Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
+
+También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
+#### Aventuras no mortales
+
+En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
+
+Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará mirará a la pantalla y le dura algo gracioso como «Not today» o «Mi madre no crío a un tonto».
+
+Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
+
+> Las aventuras de humor no deberían ser mortales, pero tu partida, tus reglas.
+
+#### Has muerto ...
+
+XXX
+
+### Estructura principal
+
+Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
+
+Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.
+
+Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.
+
+Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas en el lugar del asesinato para dar con el asesino.
+
+### Escenas y pantallas
 
 XXX## Licencia y agradecimientos
 
@@ -200,7 +270,7 @@ XXX## Licencia y agradecimientos
 
 «Point and click RPG» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Solo debes atribuirlo adecuadamente.
 
-Todo el contenido de este proyecto puedes encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
 
 ### Atribuciones
 
