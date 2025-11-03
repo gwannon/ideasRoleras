@@ -10,17 +10,17 @@
 
 Para empezar a crear la aventura gráfica debes hacer como cuando creas un personaje y elegir su resolución, temática y escoger su desarrolladora. Resolución:
 
-* **CGA:** 320x200 y 4 colores, XXX
-* **EGA:** 320×200 y 16 colores, XXX
-* **VGA:** 640x480 y 256 colores, XXX
+* **CGA:** XXX
+* **EGA:** XXX
+* **VGA:** XXX
 
 Elige dos temáticas:
 
-* **Ciencia ficción:** XXXXXX
-* **De franquicia:** XXX
+* **Ciencia ficción:** XXX
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás tú hecho. 
 * **Fantasía:** XXX
 * **Horror:** XXX
-* **Humor:** XXX
+* **Humor:** Las aventuras de humor no pueden ser mortales. No va con el tono.
 * **Misterio:** XXX
 * **Pulp:** XXX
 * **Picantes:** XXX
@@ -33,7 +33,9 @@ Elige la empresa desarrolladora:
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
 * **Pendulo Studios:** XXX
-* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. «Deconstructeam!» solo desarrolla en VGA. XXX
+* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Solo desarrollas en VGA. XXX
+
+Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
 
 Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
 

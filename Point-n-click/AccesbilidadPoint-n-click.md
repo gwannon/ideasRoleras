@@ -4,13 +4,13 @@
 
 ## El juego de rol de las aventuras gráficas clásicas
 
-«Point and click RPG» es un pequeño juego de rol para un DJ y 2 PJ máximo que busca simular la experiencia de las antiguas aventuras clásicas «Point and click» de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest».
+«Point and click RPG» es un pequeño **juego de rol para un DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras clásicas «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
 
 Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
 
 También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
 
-Según avanzas y resuelves puzzles se va desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
+Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
 
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
@@ -229,17 +229,17 @@ XXX## Crear una aventura gráfica
 
 Para empezar a crear la aventura gráfica debes hacer como cuando creas un personaje y elegir su resolución, temática y escoger su desarrolladora. Resolución:
 
-* **CGA:** 320x200 y 4 colores, XXX
-* **EGA:** 320×200 y 16 colores, XXX
-* **VGA:** 640x480 y 256 colores, XXX
+* **CGA:** XXX
+* **EGA:** XXX
+* **VGA:** XXX
 
 Elige dos temáticas:
 
-* **Ciencia ficción:** XXXXXX
-* **De franquicia:** XXX
+* **Ciencia ficción:** XXX
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás tú hecho. 
 * **Fantasía:** XXX
 * **Horror:** XXX
-* **Humor:** XXX
+* **Humor:** Las aventuras de humor no pueden ser mortales. No va con el tono.
 * **Misterio:** XXX
 * **Pulp:** XXX
 * **Picantes:** XXX
@@ -252,7 +252,9 @@ Elige la empresa desarrolladora:
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
 * **Pendulo Studios:** XXX
-* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. «Deconstructeam!» solo desarrolla en VGA. XXX
+* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Solo desarrollas en VGA. XXX
+
+Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
 
 Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
 
