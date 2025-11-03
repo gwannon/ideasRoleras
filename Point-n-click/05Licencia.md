@@ -8,7 +8,7 @@
 
 ### Licencia CC BY 4.0
 
-«Point and click RPG» está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Solo debes atribuirlo adecuadamente.
+«Point and click RPG» es un juego de rol desarrollado por [@gwannon](https://gwannon.com) y está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Para hacer uso de este material, solo debes atribuirlo adecuadamente.
 
 Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
 

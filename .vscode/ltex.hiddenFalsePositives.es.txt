@@ -110,3 +110,4 @@
 {"rule":"CLICK_CLIC","sentence":"^\\QPoint and click RPG por Gwannon\\E$"}
 {"rule":"CLICK_CLIC","sentence":"^\\Q«Point and click RPG» es un pequeño juego de rol para un DJ y 2 PJ máximo que busca simular la experiencia de las antiguas aventuras clásicas «Point and click» de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest».\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«Point and click RPG» es un pequeño juego de rol para un DJ y 2 PJ máximo que busca simular la experiencia de las antiguas aventuras clásicas «Point and click» de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest».\\E$"}
+{"rule":"CLICK_CLIC","sentence":"^\\Q«Point and click RPG» es un juego de rol desarrollado por @gwannon y está hecho bajo licencia CC BY 4.0.\\E$"}
