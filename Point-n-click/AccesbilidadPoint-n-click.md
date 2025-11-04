@@ -266,8 +266,8 @@ Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o 
 #### Aventuras mortales
 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
-
 Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
+
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
 También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
@@ -285,6 +285,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 #### Has muerto ...
 
 XXX
+
 ### Estructura principal
 
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
@@ -298,11 +299,15 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 ### Escenas y pantallas
 
 XXX
-
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
-El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino huido a México.## El enigma de la Península del Simio
+
+El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino huido a México.
+
+Igual que los jugadores pueden forzar con píxeles un «mientras tanto», el DJ puede forzar flashbacks para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con yo del pasado.
+
+> No es hacer «metajuego» usar información del presente en flashbacks. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que tengas.## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
