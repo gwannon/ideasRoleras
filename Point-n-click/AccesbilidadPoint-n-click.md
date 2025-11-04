@@ -257,7 +257,7 @@ Elige la empresa desarrolladora:
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
 * **Pendulo Studios:** XXX
-* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no obligatorio.
+* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
 
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
 
@@ -286,8 +286,8 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 #### Has muerto …
 
 Cuando un personaje muere, simplemente desaparece, explota, cae por un pozo sin fondo, es desintegrado, etc. y aparece de nuevo cuando se termine de solucionar la escena con todo equipo, pero sin píxeles. 
-
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están sin píxeles.
+
 ### Estructura principal
 
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
@@ -301,7 +301,6 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 ### Escenas y pantallas
 
 XXX
-
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
