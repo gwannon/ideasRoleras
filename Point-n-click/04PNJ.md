@@ -12,6 +12,8 @@ Hay un tipo especial de elementos clicables que son los personajes no jugadores.
 * **Multifrases:** Tienen varias frases con alguna pista importante, pueden aparecer en diferentes escenas y recibir o dar algún objeto.
 * **Principales:** Personajes clave con montones de frases, aparecen en muchas escenas y dan muchas pistas y equipo constantemente.
 
+> Los tipos no son fijos, un personaje unifrase puede convertirse en multifrase en otra parte de la aventura.
+
 ### Unifrase
 
 Estos personajes son los más simples de las AG y simplemente tienen una frase que sueltan cuando intentas hablar con ellos. Normalmente, dicen tonterías o chistes y en algunos casos, los menos, dan alguna pista muy críptica. Alguno tienen alguna simple rutina de movimiento como andar de un punto a otro o empujar un gran bloque de piedra.
@@ -28,12 +30,10 @@ XXX
 
 XXX
 
-> Los tipos no son fijos, un personaje unifrase puede convertirse en multifrase en otra parte de la aventura.
-
-### Ejemplos de personajes
+### Interactuar con los PNJ
 
 XXX
 
-### Interactuar con los PNJ
+### Ejemplos de personajes
 
 XXX
