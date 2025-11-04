@@ -16,7 +16,7 @@ Para empezar a crear la aventura gráfica debes hacer como cuando creas un perso
 
 Elige dos temáticas:
 
-* **Ciencia ficción:** XXX
+* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. XXX
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás tú hecho. 
 * **Fantasía:** XXX
 * **Horror:** XXX
@@ -65,6 +65,8 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 XXX
 
+\sc
+
 ### Estructura principal
 
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
@@ -78,3 +80,15 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 ### Escenas y pantallas
 
 XXX
+
+### Paso del tiempo
+
+El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
+
+\sp
+
+El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino huido a México.
+
+\sc
+
+&nbsp;
