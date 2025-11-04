@@ -56,4 +56,24 @@ Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En
 
 \sp
 
+\sinc
+
+## Píxeles
+
+&nbsp;
+
+\conc
+
 |pixeles.html|
+
+\sp
+
+\sinc
+
+## Hoja de personaje
+
+&nbsp;
+
+\conc
+
+|hojapersonaje.html|

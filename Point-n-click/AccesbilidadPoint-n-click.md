@@ -305,9 +305,9 @@ El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que haga
 
 El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino huido a México.
 
-Igual que los jugadores pueden forzar con píxeles un «mientras tanto», el DJ puede forzar flashbacks para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con yo del pasado.
+Igual que los jugadores pueden forzar con píxeles un «mientras tanto», el DJ puede forzar flashbacks para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
 
-> No es hacer «metajuego» usar información del presente en flashbacks. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que tengas.## El enigma de la Península del Simio
+> No es hacer «metajuego» usar información a través del tiempo. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que haya.## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
@@ -341,5 +341,8 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
-* [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)
-|pixeles.html|
+* [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)## Píxeles
+
+|pixeles.html|## Hoja de personaje
+
+|hojapersonaje.html|
