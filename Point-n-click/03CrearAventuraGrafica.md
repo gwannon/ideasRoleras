@@ -21,18 +21,18 @@ Elige dos temáticas:
 * **Fantasía:** XXX
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
-* **Misterio:** XXX
-* **Pulp:** Las aventuras pulp XXX
+* **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
+* **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
 * **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
 
 Elige la empresa desarrolladora:
 
 * **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
-* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
-* **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 
 \sp
 
+* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
+* **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
 * **Pendulo Studios:** XXX
@@ -60,13 +60,13 @@ Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava
 
 Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
 
+\sp
+
 > Las aventuras de humor no deberían ser mortales, pero tu partida, tus reglas.
 
 #### Has muerto …
 
 Cuando un personaje muere, simplemente desaparece, explota, cae por un pozo sin fondo, es desintegrado, etc. y aparece de nuevo cuando se termine de solucionar la escena con todo equipo, pero sin píxeles. 
-
-\sp
 
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están sin píxeles.
 
@@ -83,8 +83,6 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 ### Escenas y pantallas
 
 XXX
-
-\sc
 
 ### Paso del tiempo
 

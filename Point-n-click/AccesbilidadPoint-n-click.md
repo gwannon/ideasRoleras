@@ -140,10 +140,11 @@ Los píxeles son lo que hace espacial a tu personaje, permitiéndole hacer cosas
 
 Los posibles gastos que se pueden hacer son:
 
-* **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla.   
+* **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla. 
 * **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
 * **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
 * **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
+* **Forzar el tema:** Gastando 1 píxel, los jugadores pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -163,12 +164,12 @@ Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes 
 El **equipo que dejas** en una escena **se queda en esa escena**, solo tus personajes y otros personajes importantes pueden cogerlos.
 
 Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
-
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
 #### Acceder al mapa
 
 En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una escena directamente sin tener que pasar por otras escenas.
+
 Desde el mapa podrán moverse directamente, al principio de cualquier escena que ya hayan visitado. Téngase en cuenta que los objetos que se usaron para llegar a alguna escena ya no serán necesarios y podrán recogerse.
 
 Siguiendo el ejemplo anterior del puente de cuerda, ya no necesitas tener el puente construido para llegar a las escenas del otro lado del precipicio. Puedes ir directamente con el mapa.
@@ -182,6 +183,7 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 #### Ancho de pantalla
 
 El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+
 #### Conexiones entre pantalla
 
 Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadores y otras por las que no, pero que podrán usar en su beneficio. 
@@ -195,7 +197,6 @@ Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pa
 #### Laberinto
 
 Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado. En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
-
 Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica. ## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
@@ -245,14 +246,14 @@ Elige dos temáticas:
 * **Fantasía:** XXX
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
-* **Misterio:** XXX
-* **Pulp:** Las aventuras pulp XXX
+* **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
+* **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
 * **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
 
 Elige la empresa desarrolladora:
 
-* **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras la muerte no existe.
-* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que el humor está vetado en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra siempre son mortales.
+* **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
+* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
@@ -280,12 +281,12 @@ En estas aventuras simplemente no podrán intentar la acción peligrosa que quie
 Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «¿Estás tonto?» o «Mi madre no crío a un tonto».
 
 Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
-
 > Las aventuras de humor no deberían ser mortales, pero tu partida, tus reglas.
 
 #### Has muerto …
 
 Cuando un personaje muere, simplemente desaparece, explota, cae por un pozo sin fondo, es desintegrado, etc. y aparece de nuevo cuando se termine de solucionar la escena con todo equipo, pero sin píxeles. 
+
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están sin píxeles.
 
 ### Estructura principal
@@ -301,6 +302,7 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 ### Escenas y pantallas
 
 XXX
+
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 

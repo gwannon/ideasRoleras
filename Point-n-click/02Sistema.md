@@ -59,13 +59,14 @@ Los píxeles son lo que hace espacial a tu personaje, permitiéndole hacer cosas
 
 Los posibles gastos que se pueden hacer son:
 
-* **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla.   
+* **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla. 
 
 \sp
 
 * **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
 * **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
 * **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
+* **Forzar el tema:** Gastando 1 píxel, los jugadores pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -86,13 +87,13 @@ El **equipo que dejas** en una escena **se queda en esa escena**, solo tus perso
 
 Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
 
+\sp
+
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
 #### Acceder al mapa
 
 En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una escena directamente sin tener que pasar por otras escenas.
-
-\sp
 
 Desde el mapa podrán moverse directamente, al principio de cualquier escena que ya hayan visitado. Téngase en cuenta que los objetos que se usaron para llegar a alguna escena ya no serán necesarios y podrán recogerse.
 
@@ -108,8 +109,6 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 
 El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
 
-\sc
-
 #### Conexiones entre pantalla
 
 Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadores y otras por las que no, pero que podrán usar en su beneficio. 
@@ -123,5 +122,7 @@ Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pa
 #### Laberinto
 
 Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado. En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
+
+\sp
 
 Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica. 
