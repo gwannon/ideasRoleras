@@ -36,4 +36,24 @@ XXX
 
 ### Ejemplos de personajes
 
+Quizas estos ejemplos te sirvan como base para desarrollar a tus propios PNJ.
+
+#### Señora con paraguas (unifrase)
+
+Su única frase es «¿Ha pensado en introducir más fibra en su dieta?». Y cuando sopla el viento se le da la vuelta el paraguas.
+
+\sp
+
+#### Perro con hueso (unifrase)
+
+Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase es «Grrrrr» cuando te acercas al bote de las limosnas del ciego o intentas quitarle el hueso que tiene a sus pies. Tal vez puedas distraerle con un chuletón, un gato o una pelota.
+
+#### Tipo sospechoso en un callejón (multifrase)
+
 XXX
+
+#### Capitán vampirata (principal/villano)
+
+XXX
+
+\sc

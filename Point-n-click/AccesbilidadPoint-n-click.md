@@ -140,11 +140,24 @@ Los píxeles son lo que hace espacial a tu personaje, permitiéndole hacer cosas
 
 Los posibles gastos que se pueden hacer son:
 
-* **Convertir algo de fondo en clicable:** Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla. 
-* **Consultar la guía:** Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
-* **Probar todo con todo:** Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
-* **Trama paralela:** Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
-* **Forzar el tema:** Gastando 1 píxel, los jugadores pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
+#### Convertir algo de fondo en clicable
+
+Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla. 
+#### Consultar la guía
+
+Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
+
+#### Probar todo con todo
+
+Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
+
+#### Trama paralela
+
+Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
+
+#### Forzar el tema
+
+Gastando 1 píxel, los jugadores pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -162,8 +175,8 @@ Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes 
 #### Permanencia de objetos
 
 El **equipo que dejas** en una escena **se queda en esa escena**, solo tus personajes y otros personajes importantes pueden cogerlos.
-
 Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
+
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
 #### Acceder al mapa
@@ -193,11 +206,15 @@ Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar incons
 #### Pixel exacto
 
 Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. Esto hace que para encontrarlo se tenga que hacer una tirada de Buscar, no vale con un simple Mirar.
-
 #### Laberinto
 
-Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado. En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
-Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica. ## Personajes no jugables
+Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado.
+
+En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
+
+Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
+
+## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
 
@@ -229,7 +246,24 @@ XXX
 
 ### Ejemplos de personajes
 
-XXX## Crear una aventura gráfica
+Quizas estos ejemplos te sirvan como base para desarrollar a tus propios PNJ.
+
+#### Señora con paraguas (unifrase)
+
+Su única frase es «¿Ha pensado en introducir más fibra en su dieta?». Y cuando sopla el viento se le da la vuelta el paraguas.
+#### Perro con hueso (unifrase)
+
+Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase es «Grrrrr» cuando te acercas al bote de las limosnas del ciego o intentas quitarle el hueso que tiene a sus pies. Tal vez puedas distraerle con un chuletón, un gato o una pelota.
+
+#### Tipo sospechoso en un callejón (multifrase)
+
+XXX
+
+#### Capitán vampirata (principal/villano)
+
+XXX
+
+## Crear una aventura gráfica
 
 ### Duración de una aventura
 
@@ -251,7 +285,7 @@ Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar
 
 ### Primeros toques
 
-Una decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
+Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
 * **CGA:** XXX
 * **EGA:** XXX
@@ -261,7 +295,7 @@ Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Lo 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-* **Fantasía:** XXX
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkie más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
@@ -279,12 +313,12 @@ Elige la empresa desarrolladora:
 * **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
 
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
-
 Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
 
 #### Aventuras mortales
 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
+
 Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
 
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
@@ -312,10 +346,10 @@ Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al pri
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
 
 Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.
-
 Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.
 
 Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas en el lugar del asesinato para dar con el asesino.
+
 ### Escenas y pantallas
 
 XXX

@@ -26,7 +26,7 @@ Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar
 
 ### Primeros toques
 
-Una decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
+Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
 * **CGA:** XXX
 * **EGA:** XXX
@@ -36,10 +36,10 @@ Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Lo 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-* **Fantasía:** XXX
 
 \sp
 
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkie más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
@@ -58,13 +58,13 @@ Elige la empresa desarrolladora:
 
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
 
+\sp
+
 Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
 
 #### Aventuras mortales
 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
-
-\sp
 
 Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
 
@@ -94,11 +94,11 @@ Las AG se suelen dividir como todas las historias en 3 partes, presentación, nu
 
 Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.
 
+\sp
+
 Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.
 
 Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas en el lugar del asesinato para dar con el asesino.
-
-\sp
 
 ### Escenas y pantallas
 
