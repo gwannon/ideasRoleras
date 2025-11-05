@@ -231,9 +231,27 @@ XXX
 
 XXX## Crear una aventura gráfica
 
+### Duración de una aventura
+
+Para empezar a crear la aventura gráfica debes decidir su duración. La duración de una AG mide en disquetes y cada disquete es una sesión de juegos.
+
+#### 1 disquete 5¼
+
+Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
+
+#### 1 disquete de 3½
+
+Los ordenadores tienen ya más potencia y permiten alargar las tramas. Son aventuras ya más complejas que pueden suponer varias sesiones delante de la pantalla. Cada parte puede tener dos o más escenas y múltiples pantallas por cada una de esas escenas.
+
+#### Varios disquetes de 3½
+
+Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar varias aventuras gráficas seguidas con la misma temática y personajes/villanos recurrentes. Hablamos de sagas como los «KingQuest» o los «Monkey Island».
+
+> Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
+
 ### Primeros toques
 
-Para empezar a crear la aventura gráfica debes hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
+Una decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
 * **CGA:** XXX
 * **EGA:** XXX
@@ -267,7 +285,6 @@ Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o 
 #### Aventuras mortales
 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
-
 Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
 
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
@@ -281,6 +298,7 @@ En estas aventuras simplemente no podrán intentar la acción peligrosa que quie
 Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «¿Estás tonto?» o «Mi madre no crío a un tonto».
 
 Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
+
 > Las aventuras de humor no deberían ser mortales, pero tu partida, tus reglas.
 
 #### Has muerto …
@@ -298,7 +316,6 @@ Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, i
 Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.
 
 Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas en el lugar del asesinato para dar con el asesino.
-
 ### Escenas y pantallas
 
 XXX
