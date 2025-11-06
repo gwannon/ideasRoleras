@@ -144,7 +144,19 @@ Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
 
 #### Protección anticopia
 
-XXX
+El sistema anticopia eran sistemas que evitaban que se pudiera jugar a un juego simplemente haciendo una copia del disquetes donde estaba almacenado.
+
+Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato.
+
+La verdad que no eran muy eficaces y ahora son vistos como bastante ingenuos.
+
+Aplicados a este juego de rol lo que permiten es que el DJ pueda pedir lo que sea y si quieren jugar deban cumplirlo. Si no lo cumplen el anticopia entra en funcionamiento y la sesión no continúe mientras no se cumpla la petición del máster.
+
+Como DJ puedes pedir cosas como:
+
+* Ningún móvil sobre la mesa.
+* Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
+* Si se cae un dado de la mesa todos los jugadores deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar partida
 
