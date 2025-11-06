@@ -34,3 +34,7 @@ Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
 * [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)
+* [Working Class Berserker](https://mastorol.es/@rasczerker)
+* [Angeles](https://mastorol.es/@angeles)
+* [Microblog Castellano](https://mastorol.es/@microblogc@neopaquita.es)
+* [Dani Moondark](https://mastorol.es/@danimoondark)

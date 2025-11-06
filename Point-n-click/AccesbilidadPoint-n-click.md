@@ -315,8 +315,8 @@ Elige la empresa desarrolladora:
 * **Coktel studios:** XXX
 * **Pendulo Studios:** XXX
 * **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
-
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
+
 Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
 
 #### Aventuras mortales
@@ -348,8 +348,8 @@ Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al pri
 ### Estructura principal
 
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
-
 Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.
+
 Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.
 
 Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas en el lugar del asesinato para dar con el asesino.
@@ -409,7 +409,11 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 Por sus ideas y aportaciones a:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
-* [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)## Píxeles
+* [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)
+* [Working Class Berserker](https://mastorol.es/@rasczerker)
+* [Angeles](https://mastorol.es/@angeles)
+* [Microblog Castellano](https://mastorol.es/@microblogc@neopaquita.es)
+* [Dani Moondark](https://mastorol.es/@danimoondark)## Píxeles
 
 |pixeles.html|## Hoja de personaje
 

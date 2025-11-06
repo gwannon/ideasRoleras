@@ -1,25 +1,19 @@
-### Primeros toques
-
-Una decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
-
-* **CGA:** XXX
-* **EGA:** XXX
-* **VGA:** XXX
+¿Qué tal que afecte a percepción o precisión de los resultados de las acciones? Al fin y al cabo mayor resolución permite ver más y mejor, además de poder seleccionar cosas con mejor detalle.
 
 ***
 
-Elige la empresa desarrolladora:
+O puede ser que con cierta resolución algunos sólidos no lo sean, o (si es un mundo con pociones) que en CGA haya solo 4 posibles pociones, en EGA 16 posibles y en MCGA/VGA 254.
 
-* **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
-* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
-* **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
-* **Revolution Software:** XXX
-* **Coktel studios:** XXX
-* **Pendulo Studios:** XXX
-* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
+Quien dice pociones dice puddings/mohos, razas de elfos/goblins o loquesea.
 
 ***
 
-### Escenas y pantallas
+¿nivel de metamoneda o puntos de creación?
 
-XXX
+de puntos de creación ya lo tengo montado para la creación. Sería metamoneda o algún tipo de regla que le permita hacer trampas jugando con la resolución.
+
+quedaria chulo (en mi cuñada opinión) que te perdieran definición a medida que gasta la moneda
+
+***
+
+Quizás con resolución baja puede reducir la capacidad detección porque se queda fuera de pantalla o te faltan colores en la paleta, o dar ventaja cerca si está cerca porque se ve mas grande... O facilitar la huida porque se queda fuera de pantalla antes (flashback a la condenada cabra de Broken Sword 1, que dolió tanto que es un chiste recurrente en todo lo posterior de Revolution Software)
