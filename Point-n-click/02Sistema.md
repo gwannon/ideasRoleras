@@ -144,13 +144,11 @@ Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
 
 #### Protección anticopia
 
-Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a un juego simplemente haciendo una copia del disquete donde estaba almacenado.
+Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a una AG simplemente haciendo una copia del disquete donde estaba almacenada.
 
-Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato.
+Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros. La verdad es que no eran sistemas muy eficaces y ahora son vistos como bastante ingenuos.
 
-La verdad que no eran muy eficaces y ahora son vistos como bastante ingenuos.
-
-Aplicados a este juego de rol lo que permiten es que el DJ pueda pedir lo que sea y si quieren jugar deban cumplirlo. Si no lo cumplen, el anticopia entra en funcionamiento y la sesión no continúe hasta que no se cumpla la petición del máster.
+Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del máster.
 
 Como DJ puedes pedir cosas como:
 
