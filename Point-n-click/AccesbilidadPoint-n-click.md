@@ -216,12 +216,23 @@ Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
 
 #### Protección anticopia
 
-XXX
+Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a un juego simplemente haciendo una copia del disquete donde estaba almacenado.
+
+Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato.
+
+La verdad que no eran muy eficaces y ahora son vistos como bastante ingenuos.
+
+Aplicados a este juego de rol lo que permiten es que el DJ pueda pedir lo que sea y si quieren jugar deban cumplirlo. Si no lo cumplen, el anticopia entra en funcionamiento y la sesión no continúe hasta que no se cumpla la petición del máster.
+
+Como DJ puedes pedir cosas como:
+
+* Ningún móvil sobre la mesa.
+* Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
+* Si se cae un dado de la mesa todos los jugadores deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar partida
 
 XXX
-
 ## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
@@ -265,6 +276,8 @@ Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase 
 
 #### Tipo sospechoso en un callejón (multifrase)
 
+Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que te deja ver su cara y una gabardina larga que le cubre hasta los pies. Es un ladrón que te va robar, es un traficante de drogas o, peor, de cartas Pokemón, un pervertido , etc. No lo sabes y mejor no acercarse.
+
 XXX
 
 #### Capitán vampirata (principal/villano)
@@ -301,7 +314,7 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 
 Elige dos temáticas:
 
-* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Lo 
+* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
 * **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkie más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.

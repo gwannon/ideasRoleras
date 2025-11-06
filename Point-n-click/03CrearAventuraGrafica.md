@@ -34,7 +34,7 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 
 Elige dos temáticas:
 
-* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Lo 
+* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
 
 \sp

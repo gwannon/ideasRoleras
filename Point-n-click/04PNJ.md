@@ -50,6 +50,8 @@ Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase 
 
 #### Tipo sospechoso en un callejón (multifrase)
 
+Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que te deja ver su cara y una gabardina larga que le cubre hasta los pies. Es un ladrón que te va robar, es un traficante de drogas o, peor, de cartas Pokemón, un pervertido , etc. No lo sabes y mejor no acercarse.
+
 XXX
 
 #### Capitán vampirata (principal/villano)
