@@ -113,3 +113,11 @@ El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una no
 Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
 
 > No es hacer «metajuego» usar información a través del tiempo. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que haya.
+
+### Toques finales
+
+Por último, si no las hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
+
+* En «Loom» no son verbo son combinaciones de notas musicales y si los hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas Mi Re Do las cierra.
+* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos para vencer a tus enemigos en los dueños de espada.
+* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.

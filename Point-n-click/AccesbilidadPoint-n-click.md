@@ -214,6 +214,10 @@ En estas zonas debes marcar una condición para encontrar el camino de salida y 
 
 Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
 
+#### Protección anticopia
+
+XXX
+
 ## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
@@ -363,6 +367,14 @@ El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una no
 Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
 
 > No es hacer «metajuego» usar información a través del tiempo. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que haya.
+
+### Toques finales
+
+Por último, si no las hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
+
+* En «Loom» no son verbo son combinaciones de notas musicales y si los hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas Mi Re Do las cierra.
+* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos para vencer a tus enemigos en los dueños de espada.
+* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
 ## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._

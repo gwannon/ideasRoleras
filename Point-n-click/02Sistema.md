@@ -142,4 +142,8 @@ En estas zonas debes marcar una condición para encontrar el camino de salida y 
 
 Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
 
+#### Protección anticopia
+
+XXX
+
 \sc
