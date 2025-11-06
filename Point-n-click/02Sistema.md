@@ -146,4 +146,8 @@ Lo importante es que, sin esa clave, es imposible cruzar esa zona laberíntica.
 
 XXX
 
+#### Guardar partida
+
+XXX
+
 \sc

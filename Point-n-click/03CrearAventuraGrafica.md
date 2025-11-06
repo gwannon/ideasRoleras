@@ -87,9 +87,9 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 #### Has muerto …
 
-Cuando un personaje muere, simplemente desaparece, explota, cae por un pozo sin fondo, es desintegrado, etc. y aparece de nuevo cuando se termine de solucionar la escena con todo equipo, pero sin píxeles. 
+Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo equipo, pero sin píxeles. 
 
-Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están sin píxeles.
+Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
 
 ### Estructura principal
 
