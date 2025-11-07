@@ -123,7 +123,7 @@ Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el D
 
 ### Toques finales
 
-Por último, si no las hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
+Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
 
 * En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.

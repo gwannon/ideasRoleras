@@ -517,3 +517,6 @@ LucasFilm
 Games
 n
 anticopia
+Barbanegra
+vampirata
+DraChuckla
