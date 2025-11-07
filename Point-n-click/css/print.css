@@ -275,12 +275,11 @@ table tbody tr:nth-child(even) {
 }
 
 img {
-  width: calc(100% - 4px);
-  border: 2px solid var(--color-red);
-  border-radius: 3px;
+  width: 33%;
+  float: right;
 }
 
-h3 + p img {
+h4 + p img {
   margin-top: 10px;
 }
 

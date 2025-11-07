@@ -148,7 +148,9 @@ Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a una
 
 Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros. La verdad es que no eran sistemas muy eficaces y ahora son vistos como bastante ingenuos.
 
-Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del máster.
+Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del DJ.
+
+\sc
 
 Como DJ puedes pedir cosas como:
 
@@ -158,9 +160,9 @@ Como DJ puedes pedir cosas como:
 
 #### Guardar la partida
 
-No hace falta explicar que es «Guardar la partida» es algo que todavía hacen mucho vídeojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
+No hace falta explicar que es «Guardar la partida» es algo que todavía hacen muchos videojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
 
 Está acción solo se puede hacer **una vez por sesión** y con **todos los jugadores de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
-* Devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
+* Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.

@@ -44,9 +44,6 @@ Elige dos temáticas:
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
 * **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
-
-\sc
-
 * **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
 
 Elige la empresa desarrolladora:
@@ -56,10 +53,11 @@ Elige la empresa desarrolladora:
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
-* **Pendulo Studios:** XXX
-* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
+* **Pendulo Studios:** Tus pantallas son pequeños minipuzzles hilados en una historia. Es por ello que debería haber más proporción de puzzles que de conversaciones o interacciones con elementos de la pantalla. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
 
 \sp
+
+* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Como Pendulo **solo desarrollas en VGA**.
 
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
 
@@ -109,6 +107,10 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 XXX
 
+#### Minipuzzles
+
+XXX
+
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
@@ -123,6 +125,11 @@ Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el D
 
 Por último, si no las hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
 
-* En «Loom» no son verbo son combinaciones de notas musicales y si los hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas Mi Re Do las cierra.
-* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos para vencer a tus enemigos en los dueños de espada.
+* En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
+* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
+
+\sp
+
 * «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
+
+\sc

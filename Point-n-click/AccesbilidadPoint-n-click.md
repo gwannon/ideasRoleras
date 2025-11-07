@@ -220,17 +220,21 @@ Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a una
 
 Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros. La verdad es que no eran sistemas muy eficaces y ahora son vistos como bastante ingenuos.
 
-Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del máster.
-
+Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del DJ.
 Como DJ puedes pedir cosas como:
 
 * Ningún móvil sobre la mesa.
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
 * Si se cae un dado de la mesa todos los jugadores deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
-#### Guardar partida
+#### Guardar la partida
 
-XXX
+No hace falta explicar que es «Guardar la partida» es algo que todavía hacen muchos videojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
+
+Está acción solo se puede hacer **una vez por sesión** y con **todos los jugadores de acuerdo** y da una serie de beneficios.
+
+* En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
+* Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
 ## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
@@ -249,39 +253,51 @@ Con que registres la frase que van a soltar es suficiente. Aparte de soltar su f
 
 Algunos de ellos, sobre todo si tienen movimientos, pueden usarse como elementos clicables para resolver algún reto o puzzle. Igual untas de sebo a un unifrase para que le ataquen las gaviotas y se le caiga el tonel de aceite haciendo que resbale otro PNJ más importante.
 
-### Multifrases
+#### Señora con andador (unifrase)
 
-XXX
+[![Angry Old Lady by pngaaa.com](./images/674344-middle.png "Angry Old Lady by pngaaa.com")](https://www.pngaaa.com/detail/674344 "Angry Old Lady by pngaaa.com")
 
-### Principales
+Su única frase es «¿Ha pensado en introducir más fibra en su dieta?». Se mueve lentamente con el andador y cuando entras en su pantalla está en un punto aleatorio.
 
-XXX
-
-### Interactuar con los PNJ
-
-XXX
-
-### Ejemplos de personajes
-
-Quizas estos ejemplos te sirvan como base para desarrollar a tus propios PNJ.
-
-#### Señora con paraguas (unifrase)
-
-Su única frase es «¿Ha pensado en introducir más fibra en su dieta?». Y cuando sopla el viento se le da la vuelta el paraguas.
 #### Perro con hueso (unifrase)
 
+[![Pixel dalmatian dogs with toy bones image by Chibitheo](./images/perro-hueso.png "Pixel dalmatian dogs with toy bones image by Chibitheo")](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779 "Pixel dalmatian dogs with toy bones image by Chibitheo")
+
 Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase es «Grrrrr» cuando te acercas al bote de las limosnas del ciego o intentas quitarle el hueso que tiene a sus pies. Tal vez puedas distraerle con un chuletón, un gato o una pelota.
+### Multifrases
+
+Son personajes **más complejos** que los anteriores, con más frases, objetos que pueden dar o recibir y alguna rutina de movimiento. Seguramente tengan alguna tarea como dar información sobre cierto asunto, evitar que puedan acceder a cierta zona o que consigan ciertos objetos. 
+
+Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con los PJ y también la información clave que pueden darte.
+
+En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizas sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
+
+También deberías apuntarles algunas debilidades que los jugadores puedan aprovechar y que seguramente ellos mismos u otros personajes les comenten a los jugadores.
 
 #### Tipo sospechoso en un callejón (multifrase)
 
-Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que te deja ver su cara y una gabardina larga que le cubre hasta los pies. Es un ladrón que te va robar, es un traficante de drogas o, peor, de cartas Pokemón, un pervertido , etc. No lo sabes y mejor no acercarse.
+Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies. ¿Es un ladrón que te va a robar? ¿Es un traficante de drogas o, peor, de cartas Pokemón? ¿Un pervertido? No lo sabes y mejor no acercarse.
+
+XXX
+### Principales
+
+Son tan complejo como tus propios jugadores, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadores o personajes con mucho peso en la historia.  
 
 XXX
 
 #### Capitán vampirata (principal/villano)
 
+[![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
+
 XXX
 
+Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. 
+
+Además, con suerte, quizas tus jugadores logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
+
+### Interactuar con los PNJ
+
+XXX
 ## Crear una aventura gráfica
 
 ### Duración de una aventura
@@ -328,8 +344,9 @@ Elige la empresa desarrolladora:
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 * **Revolution Software:** XXX
 * **Coktel studios:** XXX
-* **Pendulo Studios:** XXX
-* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
+* **Pendulo Studios:** Tus pantallas son pequeños minipuzzles hilados en una historia. Es por ello que debería haber más proporción de puzzles que de conversaciones o interacciones con elementos de la pantalla. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
+* **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Como Pendulo **solo desarrollas en VGA**.
+
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
 
 Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o no**. Esa es una de las grandes diferencias entre unas AG y otras.
@@ -372,6 +389,10 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 XXX
 
+#### Minipuzzles
+
+XXX
+
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
@@ -386,10 +407,9 @@ Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el D
 
 Por último, si no las hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
 
-* En «Loom» no son verbo son combinaciones de notas musicales y si los hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas Mi Re Do las cierra.
-* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos para vencer a tus enemigos en los dueños de espada.
-* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
-## El enigma de la Península del Simio
+* En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
+* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
+* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
@@ -418,6 +438,10 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Pixel art mystical background [pikisuperstar](https://www.freepik.com/free-vector/pixel-art-mystical-background_29019077.htm)
 * Set of pixelated teenagers by [Freepik](https://www.freepik.com/free-vector/set-pixelated-teenagers_943286.htm)
 * Pixel robots icons. 8 bit bots isolated. Set of robots in pixel style, illustration color robot … by [macrovector](https://www.freepik.com/free-vector/pixel-robots-icons-8-bit-bots-isolated-set-robots-pixel-style-illustration-color-robot_13031467.htm)
+* Pixel dalmatian dogs with toy bones image by [Chibitheo](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779)
+* Angry Old Lady by [pngaaa.com](https://www.pngaaa.com/detail/674344)
+* Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
+
 ### Agradecimientos
 
 Por sus ideas y aportaciones a:
