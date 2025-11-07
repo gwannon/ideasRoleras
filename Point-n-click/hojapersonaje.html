@@ -1,36 +1,41 @@
+<h2>Hoja de personaje</h2>
+<p>&nbsp;</p>
 <div id="hoja">
-  <div>Coloca aquí tus píxeles</div>
+  <div>Coloca aquí tus píxeles, toma notas o haz un dibujo de tu personaje.</div>
   <div>
-    <div>
-      Andar
-    </div>
-    <div>
-      Coger/Recoger
-    </div>
-    <div>
-      Dar
-    </div>
-    <div>
-      Hablar      
-    </div>
-    <div>
-      Mirar     
-    </div>
-    <div>
-      Usar     
-    </div>
-    <div>
-
-    </div>
-    <div>
-
-    </div>
-    <div> 
-
-    </div>
+    <span>Nombre (Pronombres):</span>
+    <span></span>
+    <span>Resolución:</span>
+    <span>Temas:</span>
+    <span></span>
+    <span>Desarrolladora:</span>
+    <span></span>
   </div>
   <div>
-    
+    <div>Andar</div>
+    <div>Coger</div>
+    <div>Dar</div>
+    <div>Hablar</div>
+    <div>Mirar</div>
+    <div>Usar</div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+  <div></div>
+  <div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
   </div>
 </div>
 <style>
@@ -41,11 +46,13 @@
     border-radius: 20px;
     background-color: var(--color-red);
     display: flex;
-    gap: 20px;
+    gap: 0px;
     padding: 10px;
     box-sizing: border-box;
     flex-wrap: wrap;
+    justify-content: space-between;
   }
+
   #hoja > div:first-of-type{
     border-radius: 10px;
     background-color: var(--color-white);
@@ -54,5 +61,52 @@
     color: var(--color-black);
     padding: 5px;
     box-sizing: border-box;
+  }
+
+  #hoja > div:nth-of-type(2){
+    width: 100%;
+    font-family: 'Fool';
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #hoja > div:nth-of-type(3){
+    width: calc(47.5% - 15px);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  #hoja > div:nth-of-type(4){
+    width: calc(5% - 15px);
+    background: transparent url(./images/flechas.png) center center no-repeat;
+    background-size: contain;
+  }
+
+  #hoja > div:nth-of-type(5){
+    width: calc(47.5% - 15px);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  #hoja > div:nth-of-type(3) > div {
+    background-color: var(--color-white);
+    border-radius: 5px;
+    width: calc(33.33% - 7px);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fool';
+    color: var(--color-red);
+    font-size: 40px;
+  }
+
+  #hoja > div:nth-of-type(5) > div {
+    background-color: var(--color-white);
+    border-radius: 5px;
+    width: calc(25% - 8px);
+    height: 60px;
   }
 </style>

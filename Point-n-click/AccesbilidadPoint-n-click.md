@@ -343,7 +343,6 @@ Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar par
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
 También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
-
 #### Aventuras no mortales
 
 En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
@@ -359,10 +358,10 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo equipo, pero sin píxeles. 
 
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
-
 ### Estructura principal
 
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
+
 Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.
 
 Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.
@@ -428,9 +427,4 @@ Por sus ideas y aportaciones a:
 * [Working Class Berserker](https://mastorol.es/@rasczerker)
 * [Angeles](https://mastorol.es/@angeles)
 * [Microblog Castellano](https://mastorol.es/@microblogc@neopaquita.es)
-* [Dani Moondark](https://mastorol.es/@danimoondark)## PíxelesImprime esta hoja en cartulina y recorta estos pixeles para dárselos a tus jugadores.
-
-|pixeles.html|
-
-## Hoja de personaje|hojapersonaje.html|
-
+* [Dani Moondark](https://mastorol.es/@danimoondark)

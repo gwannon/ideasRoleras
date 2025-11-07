@@ -334,6 +334,7 @@
 <p>Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.</p>
 <p>Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.</p>
 <p>También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.</p>
+<p class="saltocolumna"></p>
 <h4>Aventuras no mortales</h4>
 <p>En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.</p>
 <p>Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «¿Estás tonto?» o «Mi madre no crío a un tonto».</p>
@@ -344,9 +345,9 @@
 <h4>Has muerto …</h4>
 <p>Cuando un <strong>personaje muere</strong>, simplemente <strong>desaparece</strong>, explota, cae por un pozo sin fondo, es desintegrado, etc. y <strong>aparece de nuevo cuando se termine de solucionar la escena</strong> con todo equipo, pero sin píxeles. </p>
 <p>Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.</p>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Estructura principal</h3>
 <p>Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
 <p>Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.</p>
 <p>Por ejemplo, secuencial sería si debes conseguir el mapa que te dice donde está la tumba perdida del rey, sortear las trampas de la tumba y terminar descifrando los símbolos del medallón del rey para poder abrir el portal que te permita avanzar a la segunda parte.</p>
 <p>Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas en el lugar del asesinato para dar con el asesino.</p>
@@ -551,38 +552,41 @@
 <h2>Hoja de personaje</h2>
 <p>&nbsp;</p>
 <div id="hoja">
-  <div>Coloca aquí tus píxeles</div>
+  <div>Coloca aquí tus píxeles, toma notas o haz un dibujo de tu personaje.</div>
   <div>
-    <div>
-      Andar
-    </div>
-    <div>
-      Coger/Recoger
-    </div>
-    <div>
-      Dar
-    </div>
-    <div>
-      Hablar      
-    </div>
-    <div>
-      Mirar     
-    </div>
-    <div>
-      Usar     
-    </div>
-    <div>
-
-    </div>
-    <div>
-
-    </div>
-    <div> 
-
-    </div>
+    <span>Nombre (Pronombres):</span>
+    <span></span>
+    <span>Resolución:</span>
+    <span>Temas:</span>
+    <span></span>
+    <span>Desarrolladora:</span>
+    <span></span>
   </div>
   <div>
-    
+    <div>Andar</div>
+    <div>Coger</div>
+    <div>Dar</div>
+    <div>Hablar</div>
+    <div>Mirar</div>
+    <div>Usar</div>
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+  <div></div>
+  <div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
   </div>
 </div>
 <style>
@@ -593,11 +597,13 @@
     border-radius: 20px;
     background-color: var(--color-red);
     display: flex;
-    gap: 20px;
+    gap: 0px;
     padding: 10px;
     box-sizing: border-box;
     flex-wrap: wrap;
+    justify-content: space-between;
   }
+
   #hoja > div:first-of-type{
     border-radius: 10px;
     background-color: var(--color-white);
@@ -606,6 +612,53 @@
     color: var(--color-black);
     padding: 5px;
     box-sizing: border-box;
+  }
+
+  #hoja > div:nth-of-type(2){
+    width: 100%;
+    font-family: 'Fool';
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #hoja > div:nth-of-type(3){
+    width: calc(47.5% - 15px);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  #hoja > div:nth-of-type(4){
+    width: calc(5% - 15px);
+    background: transparent url(./images/flechas.png) center center no-repeat;
+    background-size: contain;
+  }
+
+  #hoja > div:nth-of-type(5){
+    width: calc(47.5% - 15px);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  #hoja > div:nth-of-type(3) > div {
+    background-color: var(--color-white);
+    border-radius: 5px;
+    width: calc(33.33% - 7px);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fool';
+    color: var(--color-red);
+    font-size: 40px;
+  }
+
+  #hoja > div:nth-of-type(5) > div {
+    background-color: var(--color-white);
+    border-radius: 5px;
+    width: calc(25% - 8px);
+    height: 60px;
   }
 </style>
 <div class="columns">

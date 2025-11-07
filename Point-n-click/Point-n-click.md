@@ -58,12 +58,6 @@ Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En
 
 \sinc
 
-## Píxeles
-
-&nbsp;
-
-Imprime esta hoja en cartulina y recorta estos pixeles para dárselos a tus jugadores.
-
 |pixeles.html|
 
 \conc
@@ -71,10 +65,6 @@ Imprime esta hoja en cartulina y recorta estos pixeles para dárselos a tus juga
 \sp
 
 \sinc
-
-## Hoja de personaje
-
-&nbsp;
 
 |hojapersonaje.html|
 

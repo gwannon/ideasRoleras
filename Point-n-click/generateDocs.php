@@ -14,7 +14,9 @@ $md = preg_replace_callback("/\|([0-9a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
+
+
+file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["|pixeles.html|", "|hojapersonaje.html|", "\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "", $md));
 
 $mkd->setContent($md);
 
