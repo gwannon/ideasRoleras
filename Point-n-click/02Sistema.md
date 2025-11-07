@@ -156,6 +156,11 @@ Como DJ puedes pedir cosas como:
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
 * Si se cae un dado de la mesa todos los jugadores deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
-#### Guardar partida
+#### Guardar la partida
 
-XXX
+No hace falta explicar que es «Guardar la partida» es algo que todavía hacen mucho vídeojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
+
+Está acción solo se puede hacer **una vez por sesión** y con **todos los jugadores de acuerdo** y da una serie de beneficios.
+
+* En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
+* Devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
