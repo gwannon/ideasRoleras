@@ -60,6 +60,10 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
-* XXX
+* Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
+* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 
 \sc
+
+* Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla, con sus muñecos.
+* Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
