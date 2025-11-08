@@ -22,6 +22,8 @@ Los ordenadores tienen ya más potencia y permiten alargar las tramas. Son avent
 
 Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar varias aventuras gráficas seguidas con la misma temática y personajes/villanos recurrentes. Hablamos de sagas como los «KingQuest» o los «Monkey Island».
 
+\sc
+
 > Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
 
 ### Primeros toques
@@ -32,14 +34,13 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 * **EGA:** XXX
 * **VGA:** XXX
 
+\sp
+
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-
-\sp
-
-* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkie más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
@@ -50,13 +51,13 @@ Elige la empresa desarrolladora:
 
 * **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
 * **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
+
+\sp
+
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 * **Revolution Software:** Sus creadores querían crear un punto medio entre los juegos de LucasArts y Sierra con juegos que no se tomaran demasiado en serio, pero con historias serias. Los Broken Sword fueron su gran éxito y esto hace que el **Misterio sea algo muy típico** en sus trabajos.
 * **Coktel studios:** Está desarrolladora francesa fue subsidiaria de Sierra , pero en vez de ser absorbida siempre mantuvo tu toque diferente con sagas como Goblins. Intentaron montones de variaciones de Point and Click con más o menos fortuna. Trata de que haya en sus AG alguna mecánica diferente y rompedora, que cambie el interfaz, el uso de píxeles,etc.
 * **Pendulo Studios:** Tus pantallas son pequeños minipuzzles hilados en una historia. Es por ello que debería haber más proporción de puzzles que de conversaciones o interacciones con elementos de la pantalla. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
-
-\sp
-
 * **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Como Pendulo **solo desarrollas en VGA**.
 
 Con estos datos deberías crear la sinopsis del juego que estaría escrita en la cara trasera de la caja de la AG. Este par de párrafos será la introducción con la que deberías empezar la partida.
@@ -73,11 +74,11 @@ Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los
 
 También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
 
-\sc
-
 #### Aventuras no mortales
 
 En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
+
+\sp
 
 Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «¿Estás tonto?» o «Mi madre no crío a un tonto».
 
@@ -90,8 +91,6 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo equipo, pero sin píxeles. 
 
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
-
-\sp
 
 ### Estructura principal
 
@@ -111,6 +110,8 @@ XXX
 
 XXX
 
+\sp
+
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
@@ -126,10 +127,8 @@ Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el D
 Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
 
 * En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
-* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
-
-\sp
-
-* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
 
 \sc
+
+* Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
+* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.

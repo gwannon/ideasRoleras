@@ -48,17 +48,27 @@ También deberías apuntarles algunas debilidades que los jugadores puedan aprov
 
 #### Tipo sospechoso en un callejón (multifrase)
 
-Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies. ¿Es un ladrón que te va a robar? ¿Es un traficante de drogas o, peor, de cartas Pokemón? ¿Un pervertido? No lo sabes y mejor no acercarse.
+[![Shadowy Alley Show the detective silhouetted by Fedor Lunin](./images/figura-callejon.png "Shadowy Alley Show the detective silhouetted by Fedor Lunin")](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene "Shadowy Alley Show the detective silhouetted by Fedor Lunin")
 
-XXX
+Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!», preguntas «¿Yo?» y responde «¡Sí, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies. 
 
 \sc
+
+¿Es un ladrón que te va a robar? ¿Es un traficante de drogas o, peor, de cartas Pokémon? ¿Un pervertido? No lo sabes y mejor no acercarse.
+
+Si te acercas, es un vendedor de globos de helio de formas divertidas. Puedes hablar con él de varios temas, globos de helio, inversiones en criptomonedas y cartas Pokémon.
+
+Si le consigues **una buena carta Pokémon, te dará un montón de globos de helio** que podrías usar para levantar algo pesado o volar unos metros. También puedes conseguir los globos con algo que parezca una criptomoneda como los tokens de la lavandería.
 
 ### Principales
 
 Son tan complejo como tus propios jugadores, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadores o personajes con mucho peso en la historia.  
 
-XXX
+Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la forma de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
+
+Es normal que empezarán como multifrase y un cambio en la historia los convierta en principales. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multifrase), sea secuestrado y se convierta en principal.
+
+\sp
 
 #### Capitán vampirata (principal/villano)
 
@@ -73,3 +83,5 @@ Además, con suerte, quizas tus jugadores logren averiguar si es pirata al que c
 ### Interactuar con los PNJ
 
 XXX
+
+\sc

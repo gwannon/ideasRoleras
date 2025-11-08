@@ -31,6 +31,7 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Pixel dalmatian dogs with toy bones image by [Chibitheo](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779)
 * Angry Old Lady by [pngaaa.com](https://www.pngaaa.com/detail/674344)
 * Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
+* Shadowy Alley Show the detective silhouetted by [Fedor Lunin](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene)
 
 ### Agradecimientos
 

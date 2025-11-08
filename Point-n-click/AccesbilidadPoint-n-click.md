@@ -276,15 +276,22 @@ También deberías apuntarles algunas debilidades que los jugadores puedan aprov
 
 #### Tipo sospechoso en un callejón (multifrase)
 
-Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies. ¿Es un ladrón que te va a robar? ¿Es un traficante de drogas o, peor, de cartas Pokemón? ¿Un pervertido? No lo sabes y mejor no acercarse.
+[![Shadowy Alley Show the detective silhouetted by Fedor Lunin](./images/figura-callejon.png "Shadowy Alley Show the detective silhouetted by Fedor Lunin")](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene "Shadowy Alley Show the detective silhouetted by Fedor Lunin")
 
-XXX
+Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!», preguntas «¿Yo?» y responde «¡Sí, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies. 
+¿Es un ladrón que te va a robar? ¿Es un traficante de drogas o, peor, de cartas Pokémon? ¿Un pervertido? No lo sabes y mejor no acercarse.
+
+Si te acercas, es un vendedor de globos de helio de formas divertidas. Puedes hablar con él de varios temas, globos de helio, inversiones en criptomonedas y cartas Pokémon.
+
+Si le consigues **una buena carta Pokémon, te dará un montón de globos de helio** que podrías usar para levantar algo pesado o volar unos metros. También puedes conseguir los globos con algo que parezca una criptomoneda como los tokens de la lavandería.
+
 ### Principales
 
 Son tan complejo como tus propios jugadores, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadores o personajes con mucho peso en la historia.  
 
-XXX
+Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la forma de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
+Es normal que empezarán como multifrase y un cambio en la historia los convierta en principales. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multifrase), sea secuestrado y se convierta en principal.
 #### Capitán vampirata (principal/villano)
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
@@ -298,6 +305,7 @@ Además, con suerte, quizas tus jugadores logren averiguar si es pirata al que c
 ### Interactuar con los PNJ
 
 XXX
+
 ## Crear una aventura gráfica
 
 ### Duración de una aventura
@@ -315,7 +323,6 @@ Los ordenadores tienen ya más potencia y permiten alargar las tramas. Son avent
 #### Varios disquetes de 3½
 
 Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar varias aventuras gráficas seguidas con la misma temática y personajes/villanos recurrentes. Hablamos de sagas como los «KingQuest» o los «Monkey Island».
-
 > Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
 
 ### Primeros toques
@@ -325,12 +332,11 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 * **CGA:** XXX
 * **EGA:** XXX
 * **VGA:** XXX
-
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkie más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
@@ -342,8 +348,8 @@ Elige la empresa desarrolladora:
 * **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
 * **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
-* **Revolution Software:** XXX
-* **Coktel studios:** XXX
+* **Revolution Software:** Sus creadores querían crear un punto medio entre los juegos de LucasArts y Sierra con juegos que no se tomaran demasiado en serio, pero con historias serias. Los Broken Sword fueron su gran éxito y esto hace que el **Misterio sea algo muy típico** en sus trabajos.
+* **Coktel studios:** Está desarrolladora francesa fue subsidiaria de Sierra , pero en vez de ser absorbida siempre mantuvo tu toque diferente con sagas como Goblins. Intentaron montones de variaciones de Point and Click con más o menos fortuna. Trata de que haya en sus AG alguna mecánica diferente y rompedora, que cambie el interfaz, el uso de píxeles,etc.
 * **Pendulo Studios:** Tus pantallas son pequeños minipuzzles hilados en una historia. Es por ello que debería haber más proporción de puzzles que de conversaciones o interacciones con elementos de la pantalla. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
 * **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Como Pendulo **solo desarrollas en VGA**.
 
@@ -360,10 +366,10 @@ Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar par
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
 También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
+
 #### Aventuras no mortales
 
 En estas aventuras simplemente no podrán intentar la acción peligrosa que quieren hacer y significará muchas veces que les falta algo para solucionar el reto.
-
 Imaginemos que hay un río de lava y han puesto una cuerda sobre el río de lava. Si intentan cruzar el río haciendo equilibrios sobre la cuerda, el personaje se girará, mirará a la pantalla y le dura algo gracioso como «¿Estás tonto?» o «Mi madre no crío a un tonto».
 
 Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el mocho y usarla de pértiga para cruzar el río como un equilibrista. Y no te extrañes que más adelante uses el mocho como peluca para disfrazarte.
@@ -375,6 +381,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo equipo, pero sin píxeles. 
 
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
+
 ### Estructura principal
 
 Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
@@ -392,7 +399,6 @@ XXX
 #### Minipuzzles
 
 XXX
-
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
@@ -409,7 +415,8 @@ Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie 
 
 * En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
-* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.## El enigma de la Península del Simio
+* «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
+## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
@@ -487,6 +494,7 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Pixel dalmatian dogs with toy bones image by [Chibitheo](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779)
 * Angry Old Lady by [pngaaa.com](https://www.pngaaa.com/detail/674344)
 * Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
+* Shadowy Alley Show the detective silhouetted by [Fedor Lunin](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene)
 
 ### Agradecimientos
 
