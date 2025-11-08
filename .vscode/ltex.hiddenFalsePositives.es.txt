@@ -118,3 +118,24 @@
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QSi eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QSi eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QQuizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QIntentaron montones de variaciones de «Point and Click» con más o menos fortuna.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSet of robots in pixel style, illustration color robot …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPixel dalmatian dogs with toy bones image by Chibitheo\nAngry Old Lady by pngaaa.com\nFlat design pixel art character element collection by freepik\nShadowy Alley Show the detective silhouetted by Fedor Lunin\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QPixel dalmatian dogs with toy bones image by Chibitheo\nAngry Old Lady by pngaaa.com\nFlat design pixel art character element collection by freepik\nShadowy Alley Show the detective silhouetted by Fedor Lunin\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl Dado Inquieto\nAntonio Buch\nWorking Class Berserker\nAngeles\nMicroblog Castellano\nDani Moondark\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QBlack and white pixels background by starline\nAbstract pixilated halftone dotted pattern in retro style by starline\nPixel art mystical background pikisuperstar\nSet of pixelated teenagers by Freepik\nPixel robots icons.\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\Q«Point and Click RPG» es un juego de rol desarrollado por @gwannon y está hecho bajo licencia CC BY 4.0.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFool by Void\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q2.b Conseguir un barco y una bandera pirata\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAngry Old Lady by pngaaa.com\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPixel dalmatian dogs with toy bones image by Chibitheo\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QShadowy Alley Show the detective silhouetted by Fedor Lunin\\E$"}
+{"rule":"FORM","sentence":"^\\QSi te acercas, es un vendedor de globos de helio de formas divertidas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFlat design pixel art character element collection by freepik\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QFlat design pixel art character element collection by freepik\\E$"}
+{"rule":"FORM","sentence":"^\\QLos rarunos que buscaban otras formas para un formato muy estático.\\E$"}
+{"rule":"CARTOON","sentence":"^\\Q1 Pala Tijeras de podar oxidadas Pollo de goma\n2 Jarra de grog Lupa rota Globo de helio\n3 Espuelas Pasaporte falso Bola antiestrés\n4 Pistola de dardos tranquilizante Metrónomo Trampa para ratones\n5 Gafas 3D de cartón Máscara de carnaval Bola de bramante\n6 Linterna Silbato Trompeta\\E$"}
+{"rule":"CARTOON","sentence":"^\\QEran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QEran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros.\\E$"}
+{"rule":"FORM","sentence":"^\\QTendremos 3 pantallas comunicadas una con otra, de forma que no puedes pasar (por ahora) de la entrada al despacho sin pasar por delante del secretario.\\E$"}

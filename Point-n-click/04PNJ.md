@@ -64,7 +64,7 @@ Si le consigues **una buena carta Pokémon, te dará un montón de globos de hel
 
 Son tan complejo como tus propios jugadores, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadores o personajes con mucho peso en la historia.  
 
-Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la forma de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
+Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
 Es normal que empezarán como multifrase y un cambio en la historia los convierta en principales. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multifrase), sea secuestrado y se convierta en principal.
 

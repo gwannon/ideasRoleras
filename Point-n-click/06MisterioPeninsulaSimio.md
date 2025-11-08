@@ -61,3 +61,5 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
 * XXX
+
+\sc

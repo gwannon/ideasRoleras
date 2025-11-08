@@ -10,6 +10,8 @@
 
 Para empezar a crear la aventura gráfica debes decidir su duración. La duración de una AG mide en disquetes y cada disquete es una sesión de juegos.
 
+> Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
+
 #### 1 disquete 5¼
 
 Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
@@ -22,17 +24,13 @@ Los ordenadores tienen ya más potencia y permiten alargar las tramas. Son avent
 
 Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar varias aventuras gráficas seguidas con la misma temática y personajes/villanos recurrentes. Hablamos de sagas como los «KingQuest» o los «Monkey Island».
 
-\sc
-
-> Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
-
 ### Primeros toques
 
 Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
-* **CGA:** XXX
-* **EGA:** XXX
-* **VGA:** XXX
+* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, los jugadores pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
+* **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
+* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más pixeles extras de lo normal, porque todo tienes más pixeles, asi que todos los gastos de pixeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los pixeles exactos tengan un penalizador extra de -1.
 
 \sp
 
@@ -40,7 +38,7 @@ Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
 * **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estás AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
@@ -55,8 +53,8 @@ Elige la empresa desarrolladora:
 \sp
 
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
-* **Revolution Software:** Sus creadores querían crear un punto medio entre los juegos de LucasArts y Sierra con juegos que no se tomaran demasiado en serio, pero con historias serias. Los Broken Sword fueron su gran éxito y esto hace que el **Misterio sea algo muy típico** en sus trabajos.
-* **Coktel studios:** Está desarrolladora francesa fue subsidiaria de Sierra , pero en vez de ser absorbida siempre mantuvo tu toque diferente con sagas como Goblins. Intentaron montones de variaciones de Point and Click con más o menos fortuna. Trata de que haya en sus AG alguna mecánica diferente y rompedora, que cambie el interfaz, el uso de píxeles,etc.
+* **Revolution Software:** Sus creadores querían crear un punto medio entre los juegos de LucasArts y Sierra con juegos que no se tomaran demasiado en serio, pero con historias serias. Los «Broken Sword» fueron su gran éxito y esto hace que el **Misterio sea algo muy típico** en sus trabajos.
+* **Coktel Studios:** Esta desarrolladora francesa fue subsidiaria de Sierra, pero en vez de ser absorbida siempre mantuvo tu toque diferente con sagas como Goblins. Intentaron montones de variaciones de «Point and click» con más o menos fortuna. Trata de que haya en sus AG alguna mecánica diferente y rompedora, que cambie la interfaz, el uso de píxeles, etc.
 * **Pendulo Studios:** Tus pantallas son pequeños minipuzzles hilados en una historia. Es por ello que debería haber más proporción de puzzles que de conversaciones o interacciones con elementos de la pantalla. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
 * **Deconstructeam!:** Eres una desarrolladora moderna, eso del CGA y EGA no es lo tuyo. Como Pendulo **solo desarrollas en VGA**.
 
@@ -88,7 +86,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 #### Has muerto …
 
-Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo equipo, pero sin píxeles. 
+Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles. 
 
 Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
 
