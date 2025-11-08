@@ -74,14 +74,20 @@ Es normal que empezarán como multifrase y un cambio en la historia los conviert
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
 
-XXX
+Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
 
-Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. 
+Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadores deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
 
 Además, con suerte, quizas tus jugadores logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
 
 ### Interactuar con los PNJ
 
-XXX
+Al interactuar con PNJ ahí serie de reglas que puedes seguir y que le darán a la partida el sabor a AG:
+
+* Puedes preguntar las veces que sean que o se van a molestar y siempre deberían dar la misma respuesta. Las respuestas solo cambiarán si haces algo distintos. Tampoco deberían molestarse.
 
 \sc
+
+* Lo mismo pasa cuando usas objetos con ellos, mientras no uses el adecuado no debería cambiar nada. Si les das dinero, simplemente lo rechazará, si le tiras un cubo de agua, se apartará o simplemente se mojará y te gritará, pero no se moverá de la puerta que guarda. Pero si sacas un ratón y le das un trozo de queso al portero, el ratón se acercará atraído por el olor a queso y el PNJ saldrá corriendo atemorizado por el roedor.
+* Normalmente el truco de un PNJ deja de funcionar cuando se cambia de pantalla o de escena. Si el portero vuelve aparecer en otra escena, ya no funcionará lo del ratón y te dirá que su psicoanalista le ha ayudado en ese tema.
+* Los PNJ solo participan en un reto por escena, nuestro portero es un reto para entrar en la guarida de la mafia. Una vez superado este reto, no va a dar equipo o pistas para otros retos, pero no siempre.

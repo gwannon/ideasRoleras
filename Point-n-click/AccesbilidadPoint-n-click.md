@@ -43,7 +43,7 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 
 Por último, se **elige la empresa desarrolladora**:
 
-* **LucasFilm Games:** La desarrolladora de AG clásica que todas recuerdan. **+2 píxeles**
+* **LucasArts Games:** La desarrolladora de AG clásica que todas recuerdan. **+2 píxeles**
 * **Sierra:** La distinguida competencia. **+2 espacios**
 * **Alcachofa Soft:** Los genios del humor alocado. **+1 píxel y +1 equipo**
 * **Revolution Software:** Un pequeño tapado que ha dado grandes joyas del género. **+2 píxeles**
@@ -296,17 +296,20 @@ Es normal que empezarán como multifrase y un cambio en la historia los conviert
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
 
-XXX
+Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
 
-Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. 
+Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadores deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
 
 Además, con suerte, quizas tus jugadores logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
 
 ### Interactuar con los PNJ
 
-XXX
+Al interactuar con PNJ ahí serie de reglas que puedes seguir y que le darán a la partida el sabor a AG:
 
-## Crear una aventura gráfica
+* Puedes preguntar las veces que sean que o se van a molestar y siempre deberían dar la misma respuesta. Las respuestas solo cambiarán si haces algo distintos. Tampoco deberían molestarse.
+* Lo mismo pasa cuando usas objetos con ellos, mientras no uses el adecuado no debería cambiar nada. Si les das dinero, simplemente lo rechazará, si le tiras un cubo de agua, se apartará o simplemente se mojará y te gritará, pero no se moverá de la puerta que guarda. Pero si sacas un ratón y le das un trozo de queso al portero, el ratón se acercará atraído por el olor a queso y el PNJ saldrá corriendo atemorizado por el roedor.
+* Normalmente el truco de un PNJ deja de funcionar cuando se cambia de pantalla o de escena. Si el portero vuelve aparecer en otra escena, ya no funcionará lo del ratón y te dirá que su psicoanalista le ha ayudado en ese tema.
+* Los PNJ solo participan en un reto por escena, nuestro portero es un reto para entrar en la guarida de la mafia. Una vez superado este reto, no va a dar equipo o pistas para otros retos, pero no siempre.## Crear una aventura gráfica
 
 ### Duración de una aventura
 
@@ -345,8 +348,8 @@ Elige dos temáticas:
 
 Elige la empresa desarrolladora:
 
-* **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
-* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
+* **LucasArts Games:** El humor es la insignia de LucasArts, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
+* **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de LucasArts, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
 * **Revolution Software:** Sus creadores querían crear un punto medio entre los juegos de LucasArts y Sierra con juegos que no se tomaran demasiado en serio, pero con historias serias. Los Broken Sword fueron su gran éxito y esto hace que el **Misterio sea algo muy típico** en sus trabajos.
 * **Coktel studios:** Está desarrolladora francesa fue subsidiaria de Sierra , pero en vez de ser absorbida siempre mantuvo tu toque diferente con sagas como Goblins. Intentaron montones de variaciones de Point and Click con más o menos fortuna. Trata de que haya en sus AG alguna mecánica diferente y rompedora, que cambie el interfaz, el uso de píxeles,etc.
@@ -396,7 +399,7 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 XXX
 
-#### Minipuzzles
+#### Retos, acertijos y minipuzzles
 
 XXX
 ### Paso del tiempo
@@ -424,7 +427,7 @@ _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampirat
 
 _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
 
-«El enigma de la Península del Simio» es una aventura gráfica en VGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es Lucasfilm Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
+«El enigma de la Península del Simio» es una aventura gráfica en VGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
 
 ### Disquete I: Cómo ser un pirata
 

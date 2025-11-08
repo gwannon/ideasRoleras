@@ -33,7 +33,7 @@ Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
 
 Por último, se **elige la empresa desarrolladora**:
 
-* **LucasFilm Games:** La desarrolladora de AG clásica que todas recuerdan. **+2 píxeles**
+* **LucasArts Games:** La desarrolladora de AG clásica que todas recuerdan. **+2 píxeles**
 * **Sierra:** La distinguida competencia. **+2 espacios**
 
 \sp

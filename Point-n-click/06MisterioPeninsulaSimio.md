@@ -12,7 +12,7 @@ _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampirat
 
 _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
 
-«El enigma de la Península del Simio» es una aventura gráfica en VGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es Lucasfilm Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
+«El enigma de la Península del Simio» es una aventura gráfica en VGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
 
 ### Disquete I: Cómo ser un pirata
 
