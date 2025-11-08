@@ -51,8 +51,8 @@ Elige la empresa desarrolladora:
 * **LucasFilm Games:** El humor es la insignia de LucasFilm, por lo que es conocido, pero en realidad han tocado todos los géneros. Aunque no hagas aventuras de humor, debes meterle algún chiste, alguna frase graciosa y algún personaje paródico. Importante, en estas aventuras **la muerte no existe**.
 * **Sierra:** La distinguida competencia estaba claro que no iba a explotar la marca de la casa de Lucasfilm, así que **el humor está vetado** en esta desarrolladora. Es importante que la aventura se llamen «LoQueSeaQuest», piensa en los «KingQuest», «SpaceQuest» o «PoliceQuest». Las aventuras de Sierra **siempre son mortales**.
 * **Alcachofa Soft:** El humor es lo tuyo, así que mínimo **uno de los temas debe ser humor**.
-* **Revolution Software:** XXX
-* **Coktel studios:** XXX
+* **Revolution Software:** Sus creadores querían crear un punto medio entre los juegos de LucasArts y Sierra con juegos que no se tomaran demasiado en serio, pero con historias serias. Los Broken Sword fueron su gran éxito y esto hace que el **Misterio sea algo muy típico** en sus trabajos.
+* **Coktel studios:** Está desarrolladora francesa fue subsidiaria de Sierra , pero en vez de ser absorbida siempre mantuvo tu toque diferente con sagas como Goblins. Intentaron montones de variaciones de Point and Click con más o menos fortuna. Trata de que haya en sus AG alguna mecánica diferente y rompedora, que cambie el interfaz, el uso de píxeles,etc.
 * **Pendulo Studios:** Tus pantallas son pequeños minipuzzles hilados en una historia. Es por ello que debería haber más proporción de puzzles que de conversaciones o interacciones con elementos de la pantalla. **Solo desarrollas en VGA** y los personajes también deberían serlo, pero no es obligatorio.
 
 \sp
