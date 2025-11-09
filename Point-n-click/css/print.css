@@ -396,13 +396,13 @@ body {
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
-  bottom: 10px;
+  bottom: 8px;
   right: -35px;
   width: var(--size);
   height: var(--size);
   z-index: 40;
   opacity: 1;
-  font-size: 40px;
+  font-size: 30px;
   padding: 5px 5px 3px;
   text-shadow: 3px 0px 3px #630e64;
 }
@@ -414,4 +414,31 @@ body {
 
 .saltopagina:nth-of-type(3):after {
   opacity: 0;
+}
+
+/* Indice */
+#indice:not(#Point-n-click #indice) {
+  display: none;
+}
+
+.likeH2,
+.likeH3 {
+  display: block;
+  cursor: pointer;
+  margin: 0 0 3px 0;
+  text-decoration: none;
+  font-size: 1em;
+  max-height: 25px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis; 
+}
+
+.likeH3 {
+  padding: 0 0 0 15px;
+}
+
+.likeH2 span, .likeH3 span {
+  float: right;
+  margin-right: 5px;
 }

@@ -14,7 +14,8 @@ Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo d
 
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens.## Crear tu PJ
+Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens.
+|INDICE|## Crear tu PJ
 
 Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
 
@@ -388,7 +389,7 @@ Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al pri
 
 ### Estructura principal
 
-Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en 1 o 2 escenas con sus retos y puzzles a solucionar.
+Las AG se suelen dividir como todas las historias en 3 partes, presentación, nudo y desenlace, y cada una de ellas en varias escenas con sus retos y puzzles a solucionar.
 
 Las escenas de cada parte pueden ser secuenciales o transcurrir paralelamente, incluso un mix de ambas.
 
@@ -398,11 +399,21 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 ### Escenas y pantallas
 
-XXX
+Cada escena va a tener uno o varios retos y van a tener una o más pantallas. Para crear una escena es tan sencillo como definir qué va a pasar en esa escena y escribir un par de párrafos en que debería pasar en esa escena. A partir de ahí tenemos que definir los elementos de esa escena que va a tener, pantallas, PNJ y elementos clicables y como se relacionan.
 
+La forma más sencilla de registrar todo esto es hacerte un esquema de las pantallas con sus elementos clicables y los PNJ que hay en ellos. También debes apuntas como se conectan las pantallas y que conexiones se pueden usar y que conexiones están cerradas y necesitan ser abiertos. 
+
+La aventura «El enigma de la Península del Simio» te muestra como puedes esquematizarlo.
 #### Retos, acertijos y minipuzzles
 
-XXX
+Por retos entendemos una combinación de acciones, elementos clicables y PNJ para solucionar un problema. Debemos definir que vamos a necesitar y como conseguirlo, quizas simplemente sea hablar con alguien en concreto como el tercer pasajero del autobús. También pueden ser opciones más complejas: coger el sobre de ketchup de la mesa, dárselo al comensal 1 que te lo agradecerá dándote su puré de patatas y embozar el baño con el puré para que el cocinero del restaurante tenga que salir de la cocina para arreglarlo y poder así entrar en la cocina.
+
+Cuando examinen los elementos clicables deberán tener pistas de como pueden usar esos objetos, por ejemplo con frases como «Este puré es tan espeso que serviría de cemento». Al hablar con los PNJ deberían obtener también pista, como «No voy a volver a este restaurante, la comida es insípida y este el peor puré de patatas que he comido nunca». Quizás poner un desatascador cerca del cocinero sea otra pista y al examinarlo decir que está muy usado y tiene muchas manchas de grasa de hamburguesas.
+
+Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
+
+De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho. 
+
 ### Paso del tiempo
 
 El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
@@ -412,6 +423,13 @@ El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una no
 Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
 
 > No es hacer «metajuego» usar información a través del tiempo. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que haya.
+
+### Aventuras sobre raíles
+
+Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.
+Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
+
+Así que, si los jugadores proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
 
 ### Toques finales
 

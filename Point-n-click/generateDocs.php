@@ -37,11 +37,11 @@ $html = preg_replace_callback("/<p>\|([a-zA-Z]*)\.html\|<\/p>/", function($match
   return $matches[0];
 }, $html);
 
-$counter = 1;
+$counter = 2;
 $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   global $counter;
-  if ($counter%2 == 0) $matches[0] = '"saltopagina even"';
-  else $matches[0] = '"saltopagina odd"';
+  if ($counter%2 == 0) $matches[0] = '"saltopagina even" id="anchor'.$counter.'"';
+  else $matches[0] = '"saltopagina odd" id="anchor'.$counter.'"';
   $counter++;
   return $matches[0];
 }, $html);
@@ -83,19 +83,36 @@ foreach($lines as $line) {
   if(preg_match("/(<h1>)/", $line)) {
     $line = strip_tags($line);
     $metas .= bookMark($line, 1, $counter);
+    //$json[] = ["title" => $line,"page" => $counter, "tag" => "H1"];
   } else if(preg_match("/(<h2>)/", $line)) {
     $line = strip_tags($line);
-    $metas .= bookMark($line, 1, $counter);
+    $metas .= bookMark($line, 2, $counter);
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H2"];
   } else if(preg_match("/(<h3>)/", $line)) {
     $line = strip_tags($line);
-    $metas .= bookMark($line, 2, $counter);
+    $metas .= bookMark($line, 3, $counter);
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H3"];
   } else if(preg_match("/(<h4>)/", $line)) {
     $line = strip_tags($line);
-    $metas .= bookMark($line, 3, $counter);
+    $metas .= bookMark($line, 4, $counter);
+    $json[] = ["title" => $line,"page" => $counter, "tag" => "H4"];
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
 }
+
+echo "Indice ".count($json)." items\n";
+
+/* Generamos el Índice HTML */
+/* -------------------------------------------------------------- */
+$indice = "";
+foreach ($json as $item) {
+  if(isset($item['tag']) && in_array($item['tag'], ['H2'])) $indice .= '<a href="#anchor' . ($item['page']) . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
+}
+
+$html = str_replace("|INDICE|", "<h3>Índice</h3>".$indice, $html);
+
+file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 file_put_contents(__DIR__ . "/".$argv[1].".txt", $metas);
 
