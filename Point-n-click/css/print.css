@@ -127,6 +127,11 @@ h1 {
   line-height: 120%;
 }
 
+#Point-n-clickEN h1 {
+  background-image: url(../images/titularEN.jpg)
+}
+
+
 @media screen and (max-width: 725px) {
   h1 {
     background-image: none;

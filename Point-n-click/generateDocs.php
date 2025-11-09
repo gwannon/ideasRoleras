@@ -20,7 +20,7 @@ file_put_contents(__DIR__ . "/Accesbilidad".$argv[1].".md", str_replace(["|pixel
 
 $mkd->setContent($md);
 
-$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
+$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template".$argv[1].".html")); 
 $html = str_replace("|ID|", $argv[1], $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
@@ -61,6 +61,15 @@ if($argv[1] == 'Point-n-click') {
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
   $metas .= "InfoValue: rpg, ttrpg, parodia, point and click, aventura gráfica\n\n";
+} else if($argv[1] == 'Point-n-clickEN') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: Point and click RPG\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: «Point and click RPG» es un pequeño juego de rol que busca simular la experiencia de las antiguas aventuras clásicas Point and click de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest». Versión 0.5\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, parody, point and click, adventure game, retropixel\n\n";
 }
 
 /* Generamos indice del PDF */
@@ -109,8 +118,13 @@ $indice = "";
 foreach ($json as $item) {
   if(isset($item['tag']) && in_array($item['tag'], ['H2'])) $indice .= '<a href="#anchor' . ($item['page']) . '" class="like' . $item['tag'] . '"><span>' . $item['page'] . '</span>' . $item['title'] . '</a>';
 }
+if($argv[1] == 'Point-n-click') {
+  $html = str_replace("|INDICE|", "<h3>Índice</h3>".$indice, $html);
+} else if($argv[1] == 'Point-n-clickEN') {
+  $html = str_replace("|INDICE|", "<h3>Index</h3>".$indice, $html);
+}
 
-$html = str_replace("|INDICE|", "<h3>Índice</h3>".$indice, $html);
+
 
 file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
