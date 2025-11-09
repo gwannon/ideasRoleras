@@ -417,12 +417,7 @@ body {
 }
 
 /* Indice */
-#indice:not(#Point-n-click #indice) {
-  display: none;
-}
-
-.likeH2,
-.likeH3 {
+.likeH2 {
   display: block;
   cursor: pointer;
   margin: 0 0 3px 0;
@@ -434,11 +429,7 @@ body {
   text-overflow: ellipsis; 
 }
 
-.likeH3 {
-  padding: 0 0 0 15px;
-}
-
-.likeH2 span, .likeH3 span {
+.likeH2 span {
   float: right;
   margin-right: 5px;
 }

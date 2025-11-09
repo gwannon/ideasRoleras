@@ -20,8 +20,6 @@ XXX
 
 XXX
 
-\sp
-
 #### 3. Robar al gobernador
 
 XXX
