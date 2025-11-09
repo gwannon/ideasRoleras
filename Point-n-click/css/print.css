@@ -128,7 +128,7 @@ h1 {
 }
 
 #Point-n-clickEN h1 {
-  background-image: url(../images/titularEN.jpg)
+  background-image: url(../images/titularEN.jpg);
 }
 
 
@@ -138,6 +138,9 @@ h1 {
     padding-top: 30px;
     font-size: 3em;
   }
+  #Point-n-clickEN h1 {
+  background-image: none;
+}
 }
 
 
