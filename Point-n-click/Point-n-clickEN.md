@@ -14,21 +14,25 @@
 
 \conc
 
-«Point and click RPG» es un pequeño **juego de rol para un DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras gráficas tipo «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
+«Point and click RPG» is a small **role-playing game for a GM and up to two players** that tries to simulate the experience of classic point-and-click adventure games from the 80s and 90s, such as «Simon the Sorcerer» or «KingQuest».
 
-Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
+These are video games where you control a character through a series of screens, solving various puzzles using objects on the screen and in your equipment, along with actions or verbs like **Use, Pick Up, Open, Push, etc.**
 
-También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
+You also interact with different characters who provide useful information and objects to help you solve more riddles.
 
-Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
+As you progress and solve puzzles, stories of all kinds unfold, from fantastical voyages and pulp adventures to wacky cartoon-style situations.
 
-En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
+In these stories, you can be a pathetic pirate, a cartoon character, an avid aviator, or even a time traveler lost in the past.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens.
+To play you will need **paper, pencils and 6-sided dice (d6)**. On the last pages you have colored pixels that you can print on cardboard and use as tokens.
 
 \sc
 
 |INDICE|
+
+_Version 1.0_
+
+_November 2025_
 
 \sp
 
@@ -52,7 +56,7 @@ Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En
 
 \sp
 
-|05Licencia.md|
+|05License.md|
 
 \sp
 

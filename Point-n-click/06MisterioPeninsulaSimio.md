@@ -67,3 +67,29 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla, con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
+
+### Esquema
+
+#### Puerto
+
+* Navío de velas negras
+
+**Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+
+#### La Taberna del Cangrejo Cocido
+
+* XXX
+
+**Conexiones:** Puerto
+
+#### Centro de Bucan City
+
+* XXX
+
+**Conexiones:** XXX
+
+#### XXX
+
+* XXX
+
+**Conexiones:** XXX

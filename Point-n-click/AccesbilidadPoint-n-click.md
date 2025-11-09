@@ -15,7 +15,11 @@ Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo d
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
 Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens.
-|INDICE|## Crear tu PJ
+|INDICE|
+
+_Versión 1.0_
+
+_Noviembre 2025_## Crear tu PJ
 
 Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
 
@@ -495,7 +499,32 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla, con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
-## Licencia y agradecimientos
+
+### Esquema
+
+#### Puerto
+
+* Navío de velas negras
+
+**Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+
+#### La Taberna del Cangrejo Cocido
+
+* XXX
+
+**Conexiones:** Puerto
+
+#### Centro de Bucan City
+
+* XXX
+
+**Conexiones:** XXX
+
+#### XXX
+
+* XXX
+
+**Conexiones:** XXX## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 

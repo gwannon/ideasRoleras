@@ -4,18 +4,22 @@
 
 ## The role-playing game of classic adventure game
 
-«Point and click RPG» es un pequeño **juego de rol para un DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras gráficas tipo «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
+«Point and click RPG» is a small **role-playing game for a GM and up to two players** that tries to simulate the experience of classic point-and-click adventure games from the 80s and 90s, such as «Simon the Sorcerer» or «KingQuest».
 
-Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
+These are video games where you control a character through a series of screens, solving various puzzles using objects on the screen and in your equipment, along with actions or verbs like **Use, Pick Up, Open, Push, etc.**
 
-También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
+You also interact with different characters who provide useful information and objects to help you solve more riddles.
 
-Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
+As you progress and solve puzzles, stories of all kinds unfold, from fantastical voyages and pulp adventures to wacky cartoon-style situations.
 
-En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
+In these stories, you can be a pathetic pirate, a cartoon character, an avid aviator, or even a time traveler lost in the past.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens.
-|INDICE|## Crear tu PJ
+To play you will need **paper, pencils and 6-sided dice (d6)**. On the last pages you have colored pixels that you can print on cardboard and use as tokens.
+|INDICE|
+
+_Version 1.0_
+
+_November 2025_## Crear tu PJ
 
 Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
 
@@ -495,21 +499,46 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla, con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
-## Licencia y agradecimientos
 
-### Licencia CC BY 4.0
+### Esquema
 
-«Point and click RPG» es un juego de rol desarrollado por [@gwannon](https://gwannon.com) y está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Para hacer uso de este material, solo debes atribuirlo adecuadamente.
+#### Puerto
 
-Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+* Navío de velas negras
 
-### Atribuciones
+**Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
 
-#### Fuentes
+#### La Taberna del Cangrejo Cocido
+
+* XXX
+
+**Conexiones:** Puerto
+
+#### Centro de Bucan City
+
+* XXX
+
+**Conexiones:** XXX
+
+#### XXX
+
+* XXX
+
+**Conexiones:** XXX## License and acknowledgments
+
+### License CC BY 4.0
+
+«Point and click RPG»is a role-playing game developed by [@gwannon](https://gwannon.com) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). You may use all of this content as you wish, even commercially, except for images and fonts, which belong to their creators and are properly attributed. To use this material, you only need to attribute it appropriately.
+
+All the content for this project can be found at [pointnclick.gwannon.com](https://pointnclick.gwannon.com/), and all the source code is available on [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+
+### Atributions
+
+#### Fonts
 
 * Fool by [Void](https://arcade.itch.io/fool)
 
-#### Imágenes
+#### Images
 
 * Black and white pixels background by [starline](https://www.freepik.com/free-vector/black-white-pixels-background_13124439.htm)
 * Abstract pixilated halftone dotted pattern in retro style by [starline](https://www.freepik.com/free-vector/abstract-pixilated-halftone-dotted-pattern-retro-style_418611157.htm)
@@ -521,9 +550,9 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
 * Shadowy Alley Show the detective silhouetted by [Fedor Lunin](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene)
 
-### Agradecimientos
+### Acknowledgments
 
-Por sus ideas y aportaciones a:
+For their ideas and contributions to:
 
 * [El Dado Inquieto](https://mastorol.es/@eldadoinquieto)
 * [Antonio Buch](https://bsky.app/profile/buchplays.bsky.social)

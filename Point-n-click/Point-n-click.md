@@ -30,6 +30,10 @@ Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En
 
 |INDICE|
 
+_Versión 1.0_
+
+_Noviembre 2025_
+
 \sp
 
 |01CrearTuPersonaje.md|
