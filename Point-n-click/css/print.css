@@ -311,6 +311,11 @@ a.pdf {
   z-index: 100;
 }
 
+a.pdf:nth-of-type(2) {
+  top: 0px;
+  bottom: auto
+}
+
 @media screen {
   .columns {
     columns: auto;
