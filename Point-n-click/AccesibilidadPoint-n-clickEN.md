@@ -559,7 +559,4 @@ For their ideas and contributions to:
 * [Working Class Berserker](https://mastorol.es/@rasczerker)
 * [Angeles](https://mastorol.es/@angeles)
 * [Microblog Castellano](https://mastorol.es/@microblogc@neopaquita.es)
-* [Dani Moondark](https://mastorol.es/@danimoondark)|pixels.html|
-
-|charactersheet.html|
-
+* [Dani Moondark](https://mastorol.es/@danimoondark)
