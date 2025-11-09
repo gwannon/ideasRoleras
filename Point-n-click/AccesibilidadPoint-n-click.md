@@ -450,7 +450,7 @@ _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampirat
 
 _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
 
-«El enigma de la Península del Simio» es una aventura gráfica en VGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
+«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
 
 ### Disquete I: Cómo ser un pirata
 
@@ -468,22 +468,48 @@ En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna de
 
 A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral inunda su cubierta y bandadas de murciélagos lo sobrevuelan.
 
+Desde el puerto puedes acceder al _**Centro de Bucan City**_.
+
 ##### La Taberna del Cangrejo Cocido
 
 XXX
 
 #### 2.a Convertirse en pirata
 
+Si para convertirse en pirata necesitan saltarse la ley. Hay varias opciones para cometer delitos:
+
+* XXX
+* Otra forma es cruzar en rojo el semáforo mono de la _**Plaza mayor de Bucan City**_. 
+
 XXX
+
+##### Centro de Bucan City
+
+XXX
+
+##### Plaza mayor de Bucan City
+
+XXX
+
+En el centro de la plaza hay un _**simio-semáforo**_. Es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
+
+Por mucho que lo intentes, el mono siempre lo pone en verde. La única Manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En este caso puedes cruzar y ser multado y, por tanto, ser un fuera de la ley.
 
 #### 2.b Conseguir un barco y una bandera pirata
 
 XXX
-#### 3. Robar al gobernador
+
+#### 3. Ya eres un pirata
+
+Tras conseguir tu barco y estar al otro lado de la ley, los PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas.
 
 XXX
 
-#### 4. ¿El final?
+#### 4. Robar al gobernador
+
+XXX
+
+#### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
@@ -500,31 +526,42 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla, con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
 
-### Esquema
+### Resumen
 
 #### Puerto
 
-* Navío de velas negras
-
-**Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+* **PNJ:** XXX
+* **Elementos clicables:** Navío de velas negras
+* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
 
 #### La Taberna del Cangrejo Cocido
 
-* XXX
-
-**Conexiones:** Puerto
+* **PNJ:** Jefas Piratas
+* **Elementos clicables:** XXX
+* **Conexiones:** Puerto
 
 #### Centro de Bucan City
 
-* XXX
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Puerto, Centro de Bucan City
 
-**Conexiones:** XXX
+#### Plaza mayor de Bucan City
 
+* **PNJ:** XXX
+* **Elementos clicables:** Simio-semáforo
+* **Conexiones:** Centro de Bucan City, Callejón oscuro
+
+#### Callejón oscuro
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Plaza mayor de Bucan City
 #### XXX
 
-* XXX
-
-**Conexiones:** XXX## Licencia y agradecimientos
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** XXX## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 
