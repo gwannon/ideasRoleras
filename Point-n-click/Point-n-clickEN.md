@@ -40,7 +40,7 @@ _November 2025_
 
 \sp
 
-|02Sistema.md|
+|02Rules.md|
 
 \sp
 

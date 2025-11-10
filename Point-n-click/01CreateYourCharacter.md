@@ -8,13 +8,13 @@
 
 The first thing you need to do to start playing this role-playing game is to create a character for each player. The process is simple; you just need to make a few decisions and write them down on your character sheet.
 
-### 1. Paso - Definir tu Aventura Gráfica
+### 1. Step - Defining Your Adventure Game
 
-Lo primero es elegir de que Aventura Gráfica (AG) provienes. La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
+The first thing is to choose which Adventure Game (AG) your character comes from. The AG where your character was originated determines their abilities. Being a character from "The Dig" is not the same as being one from "Maniac Mansion."
 
-A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y **elegir la resolución de vídeo** en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de la AG.
+When defining which AG your character come from, the first step is to give your AG a title and **choose the video resolution** in which it was developed. Your resolution determines the initial pixels of your character. Your pixel count is important because it allows you to do special things within the GA.
 
-También marca el tamaño de tu zona de equipo. Con poca resolución tienes mucho espacio porque son listados de texto, mientras que con mucha resolución son complicadas imágenes pixeladas.
+It also determines the size of your equipment area. With low resolution, you have a lot of space because it's mostly text lists, while with high resolution, it's mostly complex pixelated images.
 
 * **CGA:** 320x200 and 4 colors, **4 píxels** and **10 spaces**
 * **EGA:** 320×200 and 16 colors, **8 píxels** and **8 spaces**
@@ -22,27 +22,27 @@ También marca el tamaño de tu zona de equipo. Con poca resolución tienes much
 
 Next, choose your theme, **choosing 2 topics**:
 
-* **Ciencia ficción:** Aventuras de temática de ciencia ficción futurista o no. **+2 píxeles**
-* **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**
-* **Fantasía:** Mundos mágicos de cuento donde viven elfos, enanos y otros seres mágicos. **+2 espacios**
-* **Horror:** Historia de miedo y horror de casas encantadas, pueblos malditos, criaturas congeladas en el hielo, etc. **+1 píxel y +1 equipo**
-* **Humor:** Historías alocadas cercanas a los dibujos animados, normalmente con personajes estrambóticos o animales antropomorfos. **+2 píxeles**
-* **Misterio:** Desde investigadores victorianos a casos policiales, pasando por detectives de novela negra. **+2 píxeles**
-* **Pulp:** Historia pulp con héroes y heroínas que buscan civilizaciones perdidas viajando con hidroaviones y luchando casi siempre con nazis. **+1 píxel y +1 equipo**
-* **Picantes:** Relatos muy cercanos al humor, pero con toques picantes y lujuriosos. **+1 píxel y +1 equipo**
+* **Science Fiction:** Adventures with futuristic or non-futuristic science fiction themes. **+2 pixels**
+* **Franchise:** Stories based on famous movies and book series. **+2 spaces**
+* **Fantasy:** Magical fairytale worlds inhabited by elves, dwarves, and other magical beings. **+2 spaces**
+* **Horror:** Scary and horrific stories featuring haunted houses, cursed towns, creatures frozen in ice, etc. **+1 pixel and +1 space**
+* **Comedy:** Wacky, cartoon-like stories, usually with eccentric characters or anthropomorphic animals. **+2 pixels**
+* **Mystery:** From Victorian detectives to modern police cases, including hard-boiled detectives. **+2 pixels**
+* **Pulp:** Pulp stories with heroes and heroines searching for lost civilizations, traveling by seaplanes, and almost always fighting Nazis. **+1 pixel and +1 space**
+* **Spicy:** Stories that are very close to humor, but with spicy and lustful touches. **+1 pixel and +1 space**
 
-Por último, se **elige la empresa desarrolladora**:
+Finally, **choose the developer**:
 
-* **LucasArts Games:** La desarrolladora de AG clásica que todas recuerdan. **+2 píxeles**
-* **Sierra:** La distinguida competencia. **+2 espacios**
+* **LucasArts Games:** The developer of classic AG that everyone remembers. **+2 pixels**
 
 \sp
 
-* **Alcachofa Soft:** Los genios del humor alocado. **+1 píxel y +1 equipo**
-* **Revolution Software:** Un pequeño tapado que ha dado grandes joyas del género. **+2 píxeles**
-* **Coktel studios:** Los rarunos que buscaban otras formas para un formato muy estático. **+1 píxel y +1 equipo**
-* **Pendulo Studios:** Han tratado de devolver al género su antiguo esplendor sin mucho éxito, pero sin perder la esperanza y buen hacer. **+2 espacios**
-* **Deconstructeam!:** Eres un indie moderno que disfruta del retropíxel. **+2 píxeles**
+* **Sierra:** The distinguished competition. **+2 spaces**
+* **Alcachofa Soft:** The geniuses of wacky humor. **+1 pixel and +1 space**
+* **Revolution Software:** A hidden gem that has produced some of the genre's greatest treasures. **+2 pixels**
+* **Coktel studios:** The geeks who were looking for alternative approaches to a very static format. **+1 pixel and +1 space**
+* **Pendulo Studios:** They've tried to bring the genre back to its former glory without much success, but without losing hope and their touch. **+2 spaces**
+* **Deconstructeam!:** You're a modern indie gamer who enjoys retropixels. **+2 pixels**
 
 The next step is to **calculate the equipment space and pixels**. Remember that if the pixels or spaces are odd, convert one pixel to a space, or vice versa.
 
