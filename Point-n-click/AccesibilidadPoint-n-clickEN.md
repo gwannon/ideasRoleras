@@ -471,26 +471,32 @@ Desde el puerto puedes acceder al _**Centro de Bucan City**_.
 
 El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borrachos**_. Los pocos que no están durmiendo la mona, apenas pueden decir alguna frase:
 
+* Así que quieres ser un pirata, ¿no? Habla con las 3 _**Jefas Piratas**_.
 * El grog de mis tiempos sí que era grog, no como el de ahora que le ponen sombrillitas, clavo y hojitas de menta. Nosotros le poníamos clavos de verdad.
 * ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
 * Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan City elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-XXX
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadores les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadores deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
-Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
+* ¿Cuál era la bandera de Barbanegra? - Un esqueleto con cuernos que sostiene un reloj de arena en la mano derecha y una lanza en la izquierda, utilizando la lanza para pinchar un corazón rojo que gotea tres gotas rojas de sangre.
+* ¿Cuál se llamaba el primer barco de Barbanegra? - La venganza de la Reina Ana.
+* ¿Cuál era el apodo de Stede Bonnet? - Caballero Pirata
 
-En resumen, las reglas de las _**3 Jefas Piratas**_ para que te den el título de pirata son muy:
+Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deberán cantar tus jugadores). Tras un rato tratando de demostrar de que son merecedores de una prueba, accederán a hacerle es examen estandarizado del gremio de piratas que consiste en dos pruebas:
 
 * Debes demostrar que estás al otro lado de la ley.
-* Tener tu propia nave acuática autopropulsada.
+* Tener tu propia nave acuática autopropulsada y crear su bandera pirata única y personalizada.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una pieza de fruta. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las Jefas Pirata les dirán que se terminen primero la otra fruta que cogieron.
+Tras explicar las prueba estandarizada, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
+
+En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
 #### 2.a Convertirse en pirata
 
-Como mo han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. Hay varias opciones para cometer delitos:
+Como mo han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+Hay varias opciones para cometer delitos:
 
 * La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan City**_.
 * Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
@@ -503,6 +509,7 @@ Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley�
 XXX
 
 Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra dirigido por un _**simio-semáforo**_ y vigilado por un _**guardia de la ciudad**_ que solo dice «¡Circulen, circulen!». El simio-semáforo es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
+
 Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás un fuera de la ley.
 
 ##### Plaza Mayor de Bucan City
@@ -516,10 +523,11 @@ Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 10
 Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley como pedían las _**Jefas Piratas**_.
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
-
 #### 2.b Conseguir un barco y una bandera pirata
 
 El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela.
+
+La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la Tienda de Souvenirs y que el dependiente les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
 
 XXX
 
@@ -533,9 +541,10 @@ Sam las dejará caer el _**barco pirata de lujo**_ cuesta tantos doblones de oro
 
 XXX
 
-#### 3. Ya eres un pirata
+#### 3. Ya eres una pirata
 
 XXX
+
 Pueden entregar las pruebas de que son auténticos piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará auténticos piratas y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineros de agua dulce entre risas socarronas.
 
 Tras conseguir tu barco y estar al otro lado de la ley, los PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
@@ -551,7 +560,6 @@ Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
 Se acercará a los PJ, les quitará un pelo a cada uno y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
-
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
 
 ### Disquetes II y III
@@ -565,27 +573,11 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 ### Resumen
 
-#### Puerto
+#### Astilleros  
 
-* **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
-#### La Taberna del Cangrejo Cocido
-
-* **PNJ:** Jefas Piratas, Piratas borrachos
-* **Elementos clicables:** Frutero, Pieza de fruta aleatoria
-* **Conexiones:** Puerto
-
-#### Centro de Bucan City
-
-* **PNJ:** Guardia de la ciudad
-* **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Puerto, Plaza Mayor de Bucan City
-
-#### Plaza Mayor de Bucan City
-
-* **PNJ:** Pintor de cuadros
-* **Elementos clicables:** Juzgado. Montón de cuadros
-* **Conexiones:** Centro de Bucan City, Callejón oscuro
+* **PNJ:** Sam
+* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
+* **Conexiones:** Plaza Mayor de Bucan City
 
 #### Callejón oscuro
 
@@ -593,11 +585,34 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * **Elementos clicables:** XXX
 * **Conexiones:** Plaza Mayor de Bucan City
 
-#### Astilleros  
+#### Centro de Bucan City
 
-* **PNJ:** Sam
-* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
-* **Conexiones:** Plaza Mayor de Bucan City
+* **PNJ:** Guardia de la ciudad
+* **Elementos clicables:** Simio-semáforo
+* **Conexiones:** Plaza Mayor de Bucan City, Puerto, Tienda de Souvenirs
+
+#### Plaza Mayor de Bucan City
+
+* **PNJ:** Pintor de cuadros
+* **Elementos clicables:** Juzgado. Montón de cuadros
+* **Conexiones:** Centro de Bucan City, Callejón oscuro
+
+#### Puerto
+
+* **Elementos clicables:** Navío de velas negras
+* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+
+#### Taberna del Cangrejo Cocido
+
+* **PNJ:** Jefas Piratas, Piratas borrachos
+* **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
+* **Conexiones:** Puerto
+
+#### Tienda de Souvenirs
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Centro de Bucan City
 ## License and acknowledgments
 
 ### License CC BY 4.0
