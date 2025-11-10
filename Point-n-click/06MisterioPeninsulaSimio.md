@@ -54,7 +54,7 @@ En resumen, las reglas de las _**3 Jefas Piratas**_ para que te den el título d
 * Debes demostrar que estás al otro lado de la ley.
 * Tener tu propia nave acuática autopropulsada.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una pieza de fruta. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las Jefas Pirata les dirán que se terminen primero la otra fruta que cogieron.
+En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
 #### 2.a Convertirse en pirata
 
@@ -104,7 +104,7 @@ Sam las dejará caer el _**barco pirata de lujo**_ cuesta tantos doblones de oro
 
 XXX
 
-#### 3. Ya eres un pirata
+#### 3. Ya eres una pirata
 
 XXX
 
@@ -139,30 +139,13 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 ### Resumen
 
-#### Puerto
+#### Astilleros  
 
-* **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+* **PNJ:** Sam
+* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
+* **Conexiones:** Plaza Mayor de Bucan City
 
 \sp
-
-#### La Taberna del Cangrejo Cocido
-
-* **PNJ:** Jefas Piratas, Piratas borrachos
-* **Elementos clicables:** Frutero, Pieza de fruta aleatoria
-* **Conexiones:** Puerto
-
-#### Centro de Bucan City
-
-* **PNJ:** Guardia de la ciudad
-* **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Puerto, Plaza Mayor de Bucan City
-
-#### Plaza Mayor de Bucan City
-
-* **PNJ:** Pintor de cuadros
-* **Elementos clicables:** Juzgado. Montón de cuadros
-* **Conexiones:** Centro de Bucan City, Callejón oscuro
 
 #### Callejón oscuro
 
@@ -170,8 +153,31 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * **Elementos clicables:** XXX
 * **Conexiones:** Plaza Mayor de Bucan City
 
-#### Astilleros  
+#### Centro de Bucan City
 
-* **PNJ:** Sam
-* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
-* **Conexiones:** Plaza Mayor de Bucan City
+* **PNJ:** Guardia de la ciudad
+* **Elementos clicables:** Simio-semáforo
+* **Conexiones:** Plaza Mayor de Bucan City, Puerto, Tienda de Souvenirs
+
+#### Plaza Mayor de Bucan City
+
+* **PNJ:** Pintor de cuadros
+* **Elementos clicables:** Juzgado. Montón de cuadros
+* **Conexiones:** Centro de Bucan City, Callejón oscuro
+
+#### Puerto
+
+* **Elementos clicables:** Navío de velas negras
+* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+
+#### Taberna del Cangrejo Cocido
+
+* **PNJ:** Jefas Piratas, Piratas borrachos
+* **Elementos clicables:** Frutero, Pieza de fruta aleatoria
+* **Conexiones:** Puerto
+
+#### Tienda de Souvenirs
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Centro de Bucan City
