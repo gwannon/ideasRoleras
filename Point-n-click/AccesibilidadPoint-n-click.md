@@ -506,7 +506,7 @@ Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley�
 
 ##### Centro de Bucan City
 
-XXX
+Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
 
 Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra dirigido por un _**simio-semáforo**_ y vigilado por un _**guardia de la ciudad**_ que solo dice «¡Circulen, circulen!». El simio-semáforo es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
 
@@ -523,13 +523,17 @@ Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 10
 Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley como pedían las _**Jefas Piratas**_.
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
+##### Callejón oscuro
+
+Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas figuras desaparecerán en las sombras. En cuanto salgan a la plaza, volverán las voces.
+
 #### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela.
+El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. El truco de la vela es conseguir XXX.
+
+Si presentan la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
 La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la Tienda de Souvenirs y que el dependiente les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
-
-XXX
 
 ##### Astilleros
 
@@ -537,7 +541,11 @@ Desde la Plaza Mayor se puede acceder a los astilleros de Bucan City, donde, igu
 
 XXX
 
-Sam las dejará caer el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ebano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+Sam las dejará caer el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+
+XXX
+
+##### Tienda de souvenirs
 
 XXX
 
@@ -552,7 +560,6 @@ Tras conseguir tu barco y estar al otro lado de la ley, los PJ podrán solicitar
 #### 4. Robar al gobernador
 
 XXX
-
 #### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
@@ -560,6 +567,7 @@ Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
 Se acercará a los PJ, les quitará un pelo a cada uno y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
+
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
 
 ### Disquetes II y III
@@ -581,8 +589,6 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 #### Callejón oscuro
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
 * **Conexiones:** Plaza Mayor de Bucan City
 
 #### Centro de Bucan City
@@ -601,7 +607,6 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * **Elementos clicables:** Navío de velas negras
 * **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
-
 #### Taberna del Cangrejo Cocido
 
 * **PNJ:** Jefas Piratas, Piratas borrachos
@@ -610,8 +615,8 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 #### Tienda de Souvenirs
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
+* **PNJ:** Maxine la roja
+* **Elementos clicables:** Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
 * **Conexiones:** Centro de Bucan City
 ## Licencia y agradecimientos
 
