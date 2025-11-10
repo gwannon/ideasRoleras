@@ -36,7 +36,7 @@ _November 2025_
 
 \sp
 
-|01CrearTuPersonaje.md|
+|01CreateYourCharacter.md|
 
 \sp
 

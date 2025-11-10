@@ -32,7 +32,7 @@ También marca el tamaño de tu zona de equipo. Con poca resolución tienes much
 * **EGA:** 320×200 y 16 colores, **8 píxeles** y **8 espacios**
 * **VGA:** 640x480 y 256 colores, **10 píxeles** y **4 espacios**
 
-Lo siguiente es elegir su temática, **eligiendo 2 adjetivos**:
+Lo siguiente es elegir su temática, **eligiendo 2 temas**:
 
 * **Ciencia ficción:** Aventuras de temática de ciencia ficción futurista o no. **+2 píxeles**
 * **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**

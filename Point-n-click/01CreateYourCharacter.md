@@ -1,12 +1,12 @@
 \sinc
 
-## Crear tu PJ
+## Create your PC
 
 &nbsp;
 
 \conc
 
-Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un personaje para cada jugador. El proceso es sencillo, solamente debes tomar algunas decisiones y escribirlas en tu ficha.
+The first thing you need to do to start playing this role-playing game is to create a character for each player. The process is simple; you just need to make a few decisions and write them down on your character sheet.
 
 ### 1. Paso - Definir tu Aventura Gráfica
 
@@ -16,11 +16,11 @@ A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y
 
 También marca el tamaño de tu zona de equipo. Con poca resolución tienes mucho espacio porque son listados de texto, mientras que con mucha resolución son complicadas imágenes pixeladas.
 
-* **CGA:** 320x200 y 4 colores, **4 píxeles** y **10 espacios**
-* **EGA:** 320×200 y 16 colores, **8 píxeles** y **8 espacios**
-* **VGA:** 640x480 y 256 colores, **10 píxeles** y **4 espacios**
+* **CGA:** 320x200 and 4 colors, **4 píxels** and **10 spaces**
+* **EGA:** 320×200 and 16 colors, **8 píxels** and **8 spaces**
+* **VGA:** 640x480 and 256 colors, **10 píxels** and **4 spaces**
 
-Lo siguiente es elegir su temática, **eligiendo 2 temas**:
+Next, choose your theme, **choosing 2 topics**:
 
 * **Ciencia ficción:** Aventuras de temática de ciencia ficción futurista o no. **+2 píxeles**
 * **De franquicia:** Historías basadas en películas y sagas de libros famosas. **+2 espacios**
@@ -44,43 +44,43 @@ Por último, se **elige la empresa desarrolladora**:
 * **Pendulo Studios:** Han tratado de devolver al género su antiguo esplendor sin mucho éxito, pero sin perder la esperanza y buen hacer. **+2 espacios**
 * **Deconstructeam!:** Eres un indie moderno que disfruta del retropíxel. **+2 píxeles**
 
-Lo siguiente es **calcular el espacio de equipo y los píxeles**. Recuerda que si los píxeles o los espacios de equipo son impares, convierte un píxel en espacio o viceversa.
+The next step is to **calculate the equipment space and pixels**. Remember that if the pixels or spaces are odd, convert one pixel to a space, or vice versa.
 
-### 2. Paso - Crear tu interfaz
+### 2. Step - Create your interface
 
-Todo personaje de una AG tiene unos verbos básicos:
+Every character in an AG has some basic verbs:
 
-* Andar
-* Coger/Recoger
-* Dar
-* Hablar
-* Mirar
-* Usar
+* Walk to
+* Pick up
+* Give
+* Talk to
+* Look
+* Use
 
-Después debe **elegir otros 3 verbos** de este listado:
+Then you must **choose 3 more verbs** from this list:
 
-* Abrir/Cerrar
+* Open/Close
 
 \sc
 
-* Buscar 
-* Correr
-* Encender/Apagar
-* Golpear
-* Leer
-* Tirar/Empujar
+* Search
+* Run
+* Turn on/Off
+* Hit
+* Read
+* Pull/Push
 
-### 3. Paso - Toques finales
+### 3. Step - Finishing Touches
 
-Como toques finales debes **definir tu nombre**, algo acorde con tu AG y su temática, y **elegir tus pronombres**.
+As finishing touches, you must **define your name**, something that fits your AG and its theme, and **choose your pronouns**.
 
-Por último, debes **elegir una pieza de equipo inicial** tirando en la siguiente tabla:
+Finally, you must **choose a starting piece of equipment** by rolling on the following table:
 
-|d6|Ciencia ficción, Fantasía, Pulp|Misterio, Horror, De franquicia|Humor, Picante|
+|d6|Science Fiction, Fantasy, Pulp|Mystery, Horror, Franchise|Humor, Spicy|
 |---|---|---|---|
-|1|Pala|Tijeras de podar oxidadas|Pollo de goma|
-|2|Jarra de grog|Lupa rota|Globo de helio|
-|3|Espuelas|Pasaporte falso|Bola antiestrés|
-|4|Pistola de dardos tranquilizante|Metrónomo|Trampa para ratones|
-|5|Gafas 3D de cartón|Máscara de carnaval|Bola de bramante|
-|6|Linterna|Silbato|Trompeta|
+|1|Shovel|Rusty Pruning Shears|Rubber Chicken|
+|2|Grog Jug|Broken Magnifying Glass|Helium Balloon|
+|3|Spurs|Fake Passport|Stress Ball|
+|4|Tranquilizer Dart Gun|Metronome|Mousetrap|
+|5|Cardboard 3D Glasses|Carnival Mask|Ball of Twine|
+|6|Flashlight|Whistle|Trumpet|
