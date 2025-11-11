@@ -556,7 +556,17 @@ Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y a
 
 Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan City. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
 
+Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con Calaveras, Tibias cruzadas, Cofres del tesoro y Cañones en vez de los círculos de colores.
+
 XXX
+
+Ideas para otras chorradas que puede haber en la tienda y que puedes poner como elementos clicables, pero que Maxine no quiere vender porque le traen buenos recuerdos:
+
+* Rizos pelirrojos de la barba la Barbanegra
+* Férula de descarga dental de Sir Francis Drake
+* Pata de palo de «running» de Long John Silver
+* Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los especialistas
+* Una foto firmada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
 
 #### 3. Ya eres una pirata
 
@@ -573,7 +583,6 @@ XXX
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
-
 Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
@@ -583,49 +592,47 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
 * Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
+
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
-* Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
+* Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.## Resumen de la aventura
 
-### Resumen
-
-#### Astilleros  
+### Astilleros  
 
 * **PNJ:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
 * **Conexiones:** Plaza Mayor de Bucan City
 
-#### Callejón oscuro
+### Callejón oscuro
 
 * **Conexiones:** Plaza Mayor de Bucan City
 
-#### Centro de Bucan City
+### Centro de Bucan City
 
 * **PNJ:** Guardia de la ciudad
 * **Elementos clicables:** Simio-semáforo
 * **Conexiones:** Plaza Mayor de Bucan City, Puerto, Tienda de Souvenirs
 
-#### Plaza Mayor de Bucan City
+### Plaza Mayor de Bucan City
 
 * **PNJ:** Pintor de cuadros
 * **Elementos clicables:** Juzgado. Montón de cuadros
 * **Conexiones:** Centro de Bucan City, Callejón oscuro
 
-#### Puerto
+### Puerto
 
 * **Elementos clicables:** Navío de velas negras
 * **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
-
-#### Taberna del Cangrejo Cocido
+### Taberna del Cangrejo Cocido
 
 * **PNJ:** Jefas Piratas, Piratas borrachos
 * **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
 * **Conexiones:** Puerto
 
-#### Tienda de Souvenirs
+### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
-* **Elementos clicables:** Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
+* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
 * **Conexiones:** Centro de Bucan City
 ## License and acknowledgments
 
