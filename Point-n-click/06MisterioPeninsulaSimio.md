@@ -22,7 +22,7 @@ Está parte se divide en 4 escenas, la primera será una breve presentación. Lu
 
 #### 1. Inicio
 
-Los PJ aparecen al anochecer en el puerto de Bucan Ville y gritan «Me llamo [nombre de PJ] y quiero ser una pirata».
+Las PJ aparecen al anochecer en el puerto de Bucan Ville y gritarán «Me llamo [nombre de PJ] y quiero ser una pirata».
 
 ##### Puerto
 
@@ -137,11 +137,9 @@ XXX
 
 #### 3. Ya eres una pirata
 
-XXX
+Pueden entregar las pruebas de que son auténticas piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará piratas de pleno derecho y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineras de agua dulce entre risas socarronas.
 
-Pueden entregar las pruebas de que son auténticos piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará auténticos piratas y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineros de agua dulce entre risas socarronas.
-
-Tras conseguir tu barco y estar al otro lado de la ley, los PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
+Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
 
 #### 4. Robar al gobernador
 
@@ -153,7 +151,7 @@ Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
-Se acercará a los PJ, les quitará un pelo a cada uno y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
+Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
 

@@ -40,7 +40,7 @@ Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase 
 
 Son personajes **más complejos** que los anteriores, con más frases, objetos que pueden dar o recibir y alguna rutina de movimiento. Seguramente tengan alguna tarea como dar información sobre cierto asunto, evitar que puedan acceder a cierta zona o que consigan ciertos objetos. 
 
-Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con los PJ y también la información clave que pueden darte.
+Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con las PJ y también la información clave que pueden darles.
 
 En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizas sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
 

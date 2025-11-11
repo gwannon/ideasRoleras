@@ -16,9 +16,9 @@ Para resolver los retos de cada escena deberá **moverse por las diferentes pant
 
 Puede haber pantallas que de por sí supongan un reto entrar en ellas y tengas que resolver un problema para poder acceder a ellas. Igual tienes que convencer al secretario de la decana de que hay yogur helado gratis en la cafetería de la universidad y, además, encontrar la llave del despacho que tiene escondida debajo del macetero del ficus.
 
-Al **entrar en una nueva pantalla**, el DJ debe **describir todas las cosas clicables de la escena**. En principio, los PJ solo pueden interactuar con los elementos clicables, pero como veremos más adelante gastando tus píxeles se puede interactuar con otras cosas que no eran clicables.
+Al **entrar en una nueva pantalla**, el DJ debe **describir todas las cosas clicables de la escena**. En principio, las PJ solo pueden interactuar con los elementos clicables, pero como veremos más adelante gastando tus píxeles se puede interactuar con otras cosas que no eran clicables.
 
-También debería dar **una idea de como se conecta esta pantalla con otras que no tengan lógica directa**. Si estás en un campanario, el DJ puede decir que la pantalla está encima de la pantalla de la entrada a la iglesia y a lo lejos verse el faro del puerto. Esto indicará a los PJ que igual pueden interactuar con el faro desde aquí, por ejemplo, usando los prismáticos que robaron en el museo.
+También debería dar **una idea de como se conecta esta pantalla con otras que no tengan lógica directa**. Si estás en un campanario, el DJ puede decir que la pantalla está encima de la pantalla de la entrada a la iglesia y a lo lejos verse el faro del puerto. Esto indicará a las PJ que igual pueden interactuar con el faro desde aquí, por ejemplo, usando los prismáticos que robaron en el museo.
 
 ### Acciones y tiradas
 
@@ -165,4 +165,4 @@ No hace falta explicar que es «Guardar la partida» es algo que todavía hacen 
 Está acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
-* Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
+* Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tu PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.

@@ -14,7 +14,7 @@
 
 \conc
 
-«Point and click RPG» es un pequeño **juego de rol para un DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras gráficas tipo «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
+«Point and click RPG» es un pequeño **juego de rol para una DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras gráficas tipo «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
 
 Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
 

@@ -4,7 +4,7 @@
 
 ## El juego de rol de las aventuras gráficas clásicas
 
-«Point and click RPG» es un pequeño **juego de rol para un DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras gráficas tipo «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
+«Point and click RPG» es un pequeño **juego de rol para una DJ y 2 PJ máximo** que busca simular la experiencia de las antiguas aventuras gráficas tipo «Point and click» de los años 80 y 90 como «Simon the Sorcecer» o «Kingquest».
 
 Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
 
@@ -102,9 +102,9 @@ Para resolver los retos de cada escena deberá **moverse por las diferentes pant
 
 Puede haber pantallas que de por sí supongan un reto entrar en ellas y tengas que resolver un problema para poder acceder a ellas. Igual tienes que convencer al secretario de la decana de que hay yogur helado gratis en la cafetería de la universidad y, además, encontrar la llave del despacho que tiene escondida debajo del macetero del ficus.
 
-Al **entrar en una nueva pantalla**, el DJ debe **describir todas las cosas clicables de la escena**. En principio, los PJ solo pueden interactuar con los elementos clicables, pero como veremos más adelante gastando tus píxeles se puede interactuar con otras cosas que no eran clicables.
+Al **entrar en una nueva pantalla**, el DJ debe **describir todas las cosas clicables de la escena**. En principio, las PJ solo pueden interactuar con los elementos clicables, pero como veremos más adelante gastando tus píxeles se puede interactuar con otras cosas que no eran clicables.
 
-También debería dar **una idea de como se conecta esta pantalla con otras que no tengan lógica directa**. Si estás en un campanario, el DJ puede decir que la pantalla está encima de la pantalla de la entrada a la iglesia y a lo lejos verse el faro del puerto. Esto indicará a los PJ que igual pueden interactuar con el faro desde aquí, por ejemplo, usando los prismáticos que robaron en el museo.
+También debería dar **una idea de como se conecta esta pantalla con otras que no tengan lógica directa**. Si estás en un campanario, el DJ puede decir que la pantalla está encima de la pantalla de la entrada a la iglesia y a lo lejos verse el faro del puerto. Esto indicará a las PJ que igual pueden interactuar con el faro desde aquí, por ejemplo, usando los prismáticos que robaron en el museo.
 
 ### Acciones y tiradas
 
@@ -236,7 +236,7 @@ No hace falta explicar que es «Guardar la partida» es algo que todavía hacen 
 Está acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
-* Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
+* Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tu PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
 ## Personajes no jugables
 
 Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
@@ -270,7 +270,7 @@ Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase 
 
 Son personajes **más complejos** que los anteriores, con más frases, objetos que pueden dar o recibir y alguna rutina de movimiento. Seguramente tengan alguna tarea como dar información sobre cierto asunto, evitar que puedan acceder a cierta zona o que consigan ciertos objetos. 
 
-Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con los PJ y también la información clave que pueden darte.
+Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con las PJ y también la información clave que pueden darles.
 
 En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizas sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
 
@@ -457,7 +457,7 @@ Está parte se divide en 4 escenas, la primera será una breve presentación. Lu
 
 #### 1. Inicio
 
-Los PJ aparecen al anochecer en el puerto de Bucan Ville y gritan «Me llamo [nombre de PJ] y quiero ser una pirata».
+Las PJ aparecen al anochecer en el puerto de Bucan Ville y gritarán «Me llamo [nombre de PJ] y quiero ser una pirata».
 
 ##### Puerto
 
@@ -560,11 +560,9 @@ XXX
 
 #### 3. Ya eres una pirata
 
-XXX
+Pueden entregar las pruebas de que son auténticas piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará piratas de pleno derecho y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineras de agua dulce entre risas socarronas.
 
-Pueden entregar las pruebas de que son auténticos piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará auténticos piratas y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineros de agua dulce entre risas socarronas.
-
-Tras conseguir tu barco y estar al otro lado de la ley, los PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
+Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
 
 #### 4. Robar al gobernador
 
@@ -576,7 +574,7 @@ Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
-Se acercará a los PJ, les quitará un pelo a cada uno y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
+Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
 
