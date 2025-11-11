@@ -564,9 +564,10 @@ Ideas para otras chorradas que puede haber en la tienda y que puedes poner como 
 
 * Rizos pelirrojos de la barba la Barbanegra
 * Férula de descarga dental de Sir Francis Drake
+* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro» 
 * Pata de palo de «running» de Long John Silver
-* Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los especialistas
-* Una foto firmada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
+* Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
+* Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
 
 #### 3. Ya eres una pirata
 
@@ -576,23 +577,23 @@ Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar
 
 #### 4. Robar al gobernador
 
-XXX
+A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
 
+XXX
 #### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
+
 Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
-
 ### Disquetes II y III
 
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
 * Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
-
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.## Resumen de la aventura
