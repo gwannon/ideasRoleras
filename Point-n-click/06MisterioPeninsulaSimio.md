@@ -179,19 +179,25 @@ La casa del Gobernan Marlon es una casa victoriana al lado de un acantilado que 
 
 Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
 
-El exterior está vigilado por unos pavos reales que chillan al acercarte. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar. Cuando no ve nada sospechoso se vuelve a meter.
+El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
 
-XXX
+Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
+
+\sp
 
 ##### Hall principal de la casa del gobernador
 
-XXX
+Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
+
+Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas chirriarán y se verán luces desde el piso superior y sonidos del gobernador Marlon cargando su rifle. Eso hace que sea imposible bajar la lámpara mientras haga ruido, necesitan algún tipo de lubricante.
+
+Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarras que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
 
 ##### Sótano de la casa del gobernador
 
-XXX
+En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
 
-\sp
+Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_.
 
 #### 5. ¿El final?
 
@@ -209,8 +215,13 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
+
+\sp
+
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
+
+\sc
 
 \sp
 
@@ -257,19 +268,17 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 #### Exterior
 
 * **PNJ:** Pavo reales
-* **Elementos clicables:** Estatua ecuestre del gobernador Marlon
+* **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real
 * **Conexiones:** Puerto, Casa del gobernador (Hall principal)
 
 #### Hall principal
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
 * **Conexiones:** Casa del gobernador (Exterior), Casa del gobernador (Sótano)
 
 #### Sótano
 
-* **PNJ:** XXX
-* **Elementos clicables:** Caja fuerte
+* **Elementos clicables:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
 * **Conexiones:** Casa del gobernador (Hall Principal)
 
 \sp
