@@ -139,3 +139,9 @@
 {"rule":"CARTOON","sentence":"^\\QEran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros.\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QEran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros.\\E$"}
 {"rule":"FORM","sentence":"^\\QTendremos 3 pantallas comunicadas una con otra, de forma que no puedes pasar (por ahora) de la entrada al despacho sin pasar por delante del secretario.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido.\\E$"}
+{"rule":"APOSTROFO_ACENTO","sentence":"^\\QPueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido.\\E$"}
+{"rule":"APOSTROFO_ACENTO","sentence":"^\\QSi eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QMaxine la roja\nElementos clicables:\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qa escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QCthulhu, una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?\\E$"}

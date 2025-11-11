@@ -230,9 +230,9 @@ h4 {
 
 h5 {
   margin-top: 5px;
-  font-size: 1em;
+  font-size: 1.2em;
   text-shadow: 3px 0px 3px #630e64;
-  text-decoration: underline;
+  font-style: italic;
 }
 
 h2 + p, 

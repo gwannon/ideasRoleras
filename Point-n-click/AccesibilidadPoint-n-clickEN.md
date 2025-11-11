@@ -489,18 +489,18 @@ Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deber�
 * Debes demostrar que estás al otro lado de la ley.
 * Tener tu propia nave acuática autopropulsada y crear su bandera pirata única y personalizada.
 
-Tras explicar las prueba estandarizada, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
+Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
 
 En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
-#### 2.a Convertirse en pirata
+#### 2.a Pasarse al otro lado de la ley
 
 Como mo han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
 Hay varias opciones para cometer delitos:
 
 * La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan City**_.
 * Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
-* Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crió a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
+* Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
 
@@ -529,7 +529,11 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 #### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. El truco de la vela es conseguir XXX.
+El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
+
+Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
+
+Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
 
 Si presentan la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
@@ -548,17 +552,25 @@ A pesar de ser un personaje principal y poder hablar sobre muchos temas, Sam sol
 Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
 
 Sam las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+Tras duras negociaciones _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 
-Tras duras negociaciones _**Sam**_ aceptará 200 doblones de oro  a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
+
+Como ya hemos dicho para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
 
 ##### Tienda de souvenirs
 
 Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan City. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
 
-Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con Calaveras, Tibias cruzadas, Cofres del tesoro y Cañones en vez de los círculos de colores.
+Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como desde tiene carcoma a pertenecía a un leproso.
 
-XXX
+Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con calaveras, tibias cruzadas, cofres del tesoro y cañones en vez de los círculos de colores.
+
+Como la mayoría de las cosas de su tienda, no quiere deshacerse del vinilo porque le recuerda a cuando «jugaba» (guiño, guiño, golpe, golpe) al Twister con Anne Bonny, Jack Rackham y Mary Read a bordo del «Ranger».
+
+El _**vale de descuento**_ que les dieron las _**Jefas Piratas**_ tiene una errata y si cogen la _**lupa**_ de Lulock Holmes, el primo de las Antillas de Sherlock Holmes y el primer pirata detective de la literatura, podrán leer la letra pequeña. Donde debía poner «Al presentar este vale se conseguirá un 50% de descuento en material pirata O un 50% en juegos de mesa» en realidad pone «Al presentar este vale se conseguirá un 50% de descuento en material pirata Y un 50% en juegos de mesa».
+
+Así que pueden usar el vale de descuento para conseguir el _**vinilo del Twister**_ completamente gratis y Maxine no puede se negará porque la verdad es que lo más inútil y barato que tiene en la tienda.
 
 Ideas para otras chorradas que puede haber en la tienda y que puedes poner como elementos clicables, pero que Maxine no quiere vender porque le traen buenos recuerdos:
 
@@ -580,6 +592,7 @@ Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar
 A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
 
 XXX
+
 #### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
@@ -589,6 +602,7 @@ Mientras se recuperan de la explosión verán como el temible capitán vampirata
 Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo.
+
 ### Disquetes II y III
 
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
@@ -617,7 +631,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 ### Plaza Mayor de Bucan City
 
 * **PNJ:** Pintor de cuadros
-* **Elementos clicables:** Juzgado. Montón de cuadros
+* **Elementos clicables:** Juzgado, Montón de cuadros
 * **Conexiones:** Centro de Bucan City, Callejón oscuro
 
 ### Puerto
