@@ -71,7 +71,7 @@ Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videoju
 
 #### Probar todo con todo
 
-Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
+Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a las jugadoras hacia el camino correcto.  
 
 #### Trama paralela
 
@@ -79,7 +79,7 @@ Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama parale
 
 #### Forzar el tema
 
-Gastando 1 píxel, los jugadores pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
+Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -124,7 +124,7 @@ El grupo de personajes no puede separarse, las AG no tienen pantalla dividida as
 
 #### Conexiones entre pantalla
 
-Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadores y otras por las que no, pero que podrán usar en su beneficio. 
+Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
 
 Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
@@ -136,7 +136,7 @@ Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pa
 
 #### Laberinto
 
-Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado.
+Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que las jugadoras se muevan en círculos y acaben saliendo por donde han entrado.
 
 En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
 
@@ -148,7 +148,7 @@ Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a una
 
 Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros. La verdad es que no eran sistemas muy eficaces y ahora son vistos como bastante ingenuos.
 
-Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del DJ.
+Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar las jugadoras deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del DJ.
 
 \sc
 
@@ -156,13 +156,13 @@ Como DJ puedes pedir cosas como:
 
 * Ningún móvil sobre la mesa.
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
-* Si se cae un dado de la mesa todos los jugadores deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
+* Si se cae un dado de la mesa todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar la partida
 
 No hace falta explicar que es «Guardar la partida» es algo que todavía hacen muchos videojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
 
-Está acción solo se puede hacer **una vez por sesión** y con **todos los jugadores de acuerdo** y da una serie de beneficios.
+Está acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
 * Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.

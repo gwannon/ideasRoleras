@@ -28,18 +28,18 @@ Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar
 
 Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
-* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, los jugadores pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
+* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
 * **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
-* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más pixeles extras de lo normal, porque todo tienes más pixeles, asi que todos los gastos de pixeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los pixeles exactos tengan un penalizador extra de -1.
+* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
 
 \sp
 
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
-* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
 * **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
-* **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
+* **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a las jugadoras. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
 * **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
@@ -66,7 +66,7 @@ Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o 
 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
 
-Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
+Si las jugadoras intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
 
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
@@ -88,7 +88,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles. 
 
-Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
+Si todas las jugadoras mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
 
 ### Estructura principal
 
@@ -126,7 +126,7 @@ El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que haga
 
 El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino que intenta huir a México.
 
-Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
+Igual que las jugadoras pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a las jugadoras, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
 
 > No es hacer «metajuego» usar información a través del tiempo. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que haya.
 
@@ -138,7 +138,7 @@ Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y u
 
 Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
 
-Así que, si los jugadores proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
+Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
 
 ### Toques finales
 

@@ -274,7 +274,7 @@ Más que frases deberás elegir un par de temas de los que saben mucho y de los 
 
 En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizas sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
 
-También deberías apuntarles algunas debilidades que los jugadores puedan aprovechar y que seguramente ellos mismos u otros personajes les comenten a los jugadores.
+También deberías apuntarles algunas debilidades que las jugadoras puedan aprovechar y que seguramente ellos mismos u otros personajes les comenten a las jugadoras.
 
 #### Tipo sospechoso en un callejón (multifrase)
 
@@ -289,7 +289,7 @@ Si le consigues **una buena carta Pokémon, te dará un montón de globos de hel
 
 ### Principales
 
-Son tan complejo como tus propios jugadores, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadores o personajes con mucho peso en la historia.  
+Son tan complejo como tus propias jugadoras, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadoras o personajes con mucho peso en la historia.  
 
 Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
@@ -300,9 +300,9 @@ Es normal que empezarán como multifrase y un cambio en la historia los conviert
 
 Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
 
-Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadores deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
+Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadoras deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
 
-Además, con suerte, quizas tus jugadores logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
+Además, con suerte, quizas tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
 
 ### Interactuar con los PNJ
 
@@ -478,13 +478,13 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan City elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadores les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadores deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
 * ¿Cuál era la bandera de Barbanegra? - Un esqueleto con cuernos que sostiene un reloj de arena en la mano derecha y una lanza en la izquierda, utilizando la lanza para pinchar un corazón rojo que gotea tres gotas rojas de sangre.
 * ¿Cuál se llamaba el primer barco de Barbanegra? - La venganza de la Reina Ana.
 * ¿Cuál era el apodo de Stede Bonnet? - Caballero Pirata
 
-Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deberán cantar tus jugadores). Tras un rato tratando de demostrar de que son merecedores de una prueba, accederán a hacerle es examen estandarizado del gremio de piratas que consiste en dos pruebas:
+Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deberán cantar tus jugadoras). Tras un rato tratando de demostrar de que son merecedores de una prueba, accederán a hacerle es examen estandarizado del gremio de piratas que consiste en dos pruebas:
 
 * Debes demostrar que estás al otro lado de la ley.
 * Tener tu propia nave acuática autopropulsada y crear su bandera pirata única y personalizada.
@@ -529,7 +529,7 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 #### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. El truco de la vela es conseguir XXX.
+El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. El truco de la vela es conseguir XXX.
 
 Si presentan la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
@@ -537,17 +537,24 @@ La bandera no es un reto, déjales usar lo que encuentren para hacerse su bander
 
 ##### Astilleros
 
-Desde la Plaza Mayor se puede acceder a los astilleros de Bucan City, donde, igual, tus jugadores pueden conseguir una embarcación que puedan pagar.
+Desde la Plaza Mayor se puede acceder a los astilleros de Bucan City, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
-XXX
+Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
 
-Sam las dejará caer el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+Sam vive para diseñar y construir barcos ... a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
 
-XXX
+A pesar de ser un personaje principal y poder hablar sobre muchos temas, Sam solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
+
+Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
+
+Sam las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+
+Tras duras negociaciones _**Sam**_ aceptará 200 doblones de oro  a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
+Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
 
 ##### Tienda de souvenirs
 
-XXX
+Maxine la roja, el terror pelirrojo del Caribe, se retiro
 
 #### 3. Ya eres una pirata
 
@@ -560,6 +567,7 @@ Tras conseguir tu barco y estar al otro lado de la ley, los PJ podrán solicitar
 #### 4. Robar al gobernador
 
 XXX
+
 #### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
@@ -578,7 +586,6 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
-
 ### Resumen
 
 #### Astilleros  
@@ -607,6 +614,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * **Elementos clicables:** Navío de velas negras
 * **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+
 #### Taberna del Cangrejo Cocido
 
 * **PNJ:** Jefas Piratas, Piratas borrachos
