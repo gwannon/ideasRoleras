@@ -131,7 +131,9 @@ Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y a
 
 ##### Tienda de souvenirs
 
-Maxine la roja, el terror pelirrojo del Caribe, se retiro
+Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan City. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
+
+XXX
 
 #### 3. Ya eres una pirata
 
@@ -160,11 +162,12 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
 * Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
+
+\sp
+
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
-
-\sp
 
 ### Resumen
 

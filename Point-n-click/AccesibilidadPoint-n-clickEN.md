@@ -151,7 +151,7 @@ Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videoju
 
 #### Probar todo con todo
 
-Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a los jugadores hacia el camino correcto.  
+Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a las jugadoras hacia el camino correcto.  
 
 #### Trama paralela
 
@@ -159,7 +159,7 @@ Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama parale
 
 #### Forzar el tema
 
-Gastando 1 píxel, los jugadores pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
+Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -201,7 +201,7 @@ El grupo de personajes no puede separarse, las AG no tienen pantalla dividida as
 
 #### Conexiones entre pantalla
 
-Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadores y otras por las que no, pero que podrán usar en su beneficio. 
+Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
 
 Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
@@ -210,7 +210,7 @@ Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar incons
 Cuando se esconden cosas puede hacer que solo estén en un único pixel de la pantalla. Esto hace que para encontrarlo se tenga que hacer una tirada de Buscar, no vale con un simple Mirar.
 #### Laberinto
 
-Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que los jugadores se muevan en círculos y acaben saliendo por donde han entrado.
+Hay zonas laberínticas como cuevas, cloacas o pasadizos que hacen que las jugadoras se muevan en círculos y acaben saliendo por donde han entrado.
 
 En estas zonas debes marcar una condición para encontrar el camino de salida y poder atravesarlas. Quizás sea tener una brújula, saber el orden correcto que debe seguirse o mirar que camino sigue una rata.
 
@@ -222,18 +222,18 @@ Las protecciones anticopia eran sistemas que evitaban que se pudiera jugar a una
 
 Eran preguntas dinámicas que solo se podían contestar con algún dispositivo físico, como una tarjeta de coordenadas cuyos números solo se veían con un filtro rojo y que no se podía fotocopiar o unos cartones circulares con agujeros que debías mover a una posición exacta para sacar un dato a través de los agujeros. La verdad es que no eran sistemas muy eficaces y ahora son vistos como bastante ingenuos.
 
-Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar los jugadores deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del DJ.
+Aplicándolo a este juego de rol, lo que permiten el anticopia es que el DJ pueda pedir lo que sea y si quieren jugar, las jugadoras deban cumplirlo. Si no lo cumplen, la protección anticopia entra en funcionamiento y la sesión no continua hasta que no se cumpla la petición del DJ.
 Como DJ puedes pedir cosas como:
 
 * Ningún móvil sobre la mesa.
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
-* Si se cae un dado de la mesa todos los jugadores deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
+* Si se cae un dado de la mesa todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar la partida
 
 No hace falta explicar que es «Guardar la partida» es algo que todavía hacen muchos videojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
 
-Está acción solo se puede hacer **una vez por sesión** y con **todos los jugadores de acuerdo** y da una serie de beneficios.
+Está acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
 * Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tú PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
@@ -335,15 +335,15 @@ Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar
 
 Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
-* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, los jugadores pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
+* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
 * **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
-* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más pixeles extras de lo normal, porque todo tienes más pixeles, asi que todos los gastos de pixeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los pixeles exactos tengan un penalizador extra de -1.
+* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
-* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadores no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
 * **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
-* **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a los jugadores. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
+* **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a las jugadoras. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
 * **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
@@ -367,7 +367,7 @@ Una vez elegido todo lo anterior, debes decidir **si la aventura será mortal o 
 
 Estas aventuras tendrán ciertas situaciones definidas como mortales. Desde enfrentarse a espadazos con un caballero medieval a cruzar una sala llena de láseres asesinos.
 
-Si los jugadores intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
+Si las jugadoras intentan llevar a cabo esas acciones, deberían poder tirar para superar esas acciones. Si fallan, simplemente morirán. Aquí no hay puntos de vida o heridas.
 
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
@@ -386,7 +386,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles. 
 
-Si todos los jugadores mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
+Si todas las jugadoras mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima están todos sin píxeles.
 
 ### Estructura principal
 
@@ -421,7 +421,7 @@ El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que haga
 
 El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino que intenta huir a México.
 
-Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a los jugadores, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
+Igual que las jugadoras pueden forzar con píxeles un «mientras tanto», **el DJ puede forzar flashbacks** para dar información a las jugadoras, incluso alguna escena puede ser un flashback en el que jueguen con su yo del pasado.
 
 > No es hacer «metajuego» usar información a través del tiempo. Lo que sabes de la aventura puedes usarlo cuando quieras por muchos cambios temporales que haya.
 
@@ -430,7 +430,7 @@ Igual que los jugadores pueden forzar con píxeles un «mientras tanto», **el D
 Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.
 Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
 
-Así que, si los jugadores proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
+Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
 
 ### Toques finales
 
@@ -554,7 +554,9 @@ Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y a
 
 ##### Tienda de souvenirs
 
-Maxine la roja, el terror pelirrojo del Caribe, se retiro
+Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan City. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
+
+XXX
 
 #### 3. Ya eres una pirata
 
@@ -586,6 +588,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
+
 ### Resumen
 
 #### Astilleros  
