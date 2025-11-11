@@ -591,6 +591,8 @@ Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar
 
 A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
 
+Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
+
 XXX
 
 #### 5. ¿El final?
@@ -622,6 +624,24 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * **Conexiones:** Plaza Mayor de Bucan City
 
+### Casa del gobernador 
+
+#### Exterior
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Puerto
+
+#### Hall Principal
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Casa del gobernador (Exterior)#### Sótano
+
+* **PNJ:** XXX
+* **Elementos clicables:** Caja fuerte
+* **Conexiones:** Casa del gobernador (Hall Principal)
+
 ### Centro de Bucan City
 
 * **PNJ:** Guardia de la ciudad
@@ -638,18 +658,17 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * **Elementos clicables:** Navío de velas negras
 * **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+
 ### Taberna del Cangrejo Cocido
 
 * **PNJ:** Jefas Piratas, Piratas borrachos
 * **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
 * **Conexiones:** Puerto
-
 ### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
 * **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
-* **Conexiones:** Centro de Bucan City
-## Licencia y agradecimientos
+* **Conexiones:** Centro de Bucan City## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 
