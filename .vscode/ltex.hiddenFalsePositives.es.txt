@@ -145,3 +145,4 @@
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QMaxine la roja\nElementos clicables:\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qa escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QCthulhu, una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?\\E$"}
+{"rule":"REAL","sentence":"^\\QPavo reales\nElementos clicables:\\E$"}

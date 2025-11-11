@@ -593,8 +593,23 @@ A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobe
 
 Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
 
+##### Exterior de la casa del gobernador
+
+La casa del Gobernan Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan City.
+
+Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
+
+El exterior está vigilado por unos pavos reales que chillan al acercarte. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar. Cuando no ve nada sospechoso se vuelve a meter.
+
 XXX
 
+##### Hall principal de la casa del gobernador
+
+XXX
+
+##### Sótano de la casa del gobernador
+
+XXX
 #### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
@@ -620,55 +635,65 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
 * **Conexiones:** Plaza Mayor de Bucan City
 
-### Callejón oscuro
+### Bucan City
+
+#### Callejón oscuro
 
 * **Conexiones:** Plaza Mayor de Bucan City
 
-### Casa del gobernador 
-
-#### Exterior
-
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
-* **Conexiones:** Puerto
-
-#### Hall Principal
-
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
-* **Conexiones:** Casa del gobernador (Exterior)#### Sótano
-
-* **PNJ:** XXX
-* **Elementos clicables:** Caja fuerte
-* **Conexiones:** Casa del gobernador (Hall Principal)
-
-### Centro de Bucan City
+#### Centro de Bucan City
 
 * **PNJ:** Guardia de la ciudad
 * **Elementos clicables:** Simio-semáforo
 * **Conexiones:** Plaza Mayor de Bucan City, Puerto, Tienda de Souvenirs
 
-### Plaza Mayor de Bucan City
+#### Tienda de Souvenirs
+
+* **PNJ:** Maxine la roja
+* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
+* **Conexiones:** Centro de Bucan City
+
+#### Plaza Mayor de Bucan City
 
 * **PNJ:** Pintor de cuadros
 * **Elementos clicables:** Juzgado, Montón de cuadros
 * **Conexiones:** Centro de Bucan City, Callejón oscuro
 
-### Puerto
+### Casa del gobernador 
+
+#### Exterior
+
+* **PNJ:** Pavo reales
+* **Elementos clicables:** Estatua ecuestre del gobernador Marlon
+* **Conexiones:** Puerto, Casa del gobernador (Hall principal)
+
+#### Hall principal
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Casa del gobernador (Exterior), Casa del gobernador (Sótano)
+
+#### Sótano
+
+* **PNJ:** XXX
+* **Elementos clicables:** Caja fuerte
+* **Conexiones:** Casa del gobernador (Hall Principal)
+### Muelles
+
+#### Puerto
 
 * **Elementos clicables:** Navío de velas negras
 * **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
 
-### Taberna del Cangrejo Cocido
+#### Taberna del Cangrejo Cocido
 
 * **PNJ:** Jefas Piratas, Piratas borrachos
 * **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
 * **Conexiones:** Puerto
-### Tienda de Souvenirs
 
-* **PNJ:** Maxine la roja
-* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
-* **Conexiones:** Centro de Bucan City## Licencia y agradecimientos
+### Mapa de pantallas
+
+![Mapa de pantallas](./images/mapa.png)## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 

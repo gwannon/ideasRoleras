@@ -295,6 +295,11 @@ img {
   float: right;
 }
 
+img[alt='Mapa de pantallas'] {
+  width: 100%;
+  float: none;
+}
+
 h4 + p img {
   margin-top: 10px;
 }
