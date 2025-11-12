@@ -176,18 +176,18 @@ Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes 
 
 #### Permanencia de objetos
 
-El **equipo que dejas** en una escena **se queda en esa escena**, solo tus personajes y otros personajes importantes pueden cogerlos.
+El **equipo que dejas** en una pantalla **se queda en esa pantalla**, solo tus personajes y otros personajes importantes pueden cogerlos.
 Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
 
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
 
 #### Acceder al mapa
 
-En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una escena directamente sin tener que pasar por otras escenas.
+En algún momento alguien te dará un mapa, un pasaporte o similar y podrás acceder al mapa y moverte a una pantalla directamente sin tener que pasar por otras pantallas.
 
-Desde el mapa podrán moverse directamente, al principio de cualquier escena que ya hayan visitado. Téngase en cuenta que los objetos que se usaron para llegar a alguna escena ya no serán necesarios y podrán recogerse.
+Desde el mapa podrán moverse directamente, al principio de cualquier pantalla que ya hayan visitado. Téngase en cuenta que los objetos que se usaron para llegar a alguna pantalla ya no serán necesarios y podrán recogerse.
 
-Siguiendo el ejemplo anterior del puente de cuerda, ya no necesitas tener el puente construido para llegar a las escenas del otro lado del precipicio. Puedes ir directamente con el mapa.
+Siguiendo el ejemplo anterior del puente de cuerda, ya no necesitas tener el puente construido para llegar a las pantallas del otro lado del precipicio. Puedes ir directamente con el mapa.
 
 #### Mover objetos
 
