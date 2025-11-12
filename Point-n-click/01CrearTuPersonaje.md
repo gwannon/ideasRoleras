@@ -12,7 +12,7 @@ Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un 
 
 Lo primero es elegir de que Aventura Gráfica (AG) provienes. La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
 
-A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y **elegir la resolución de vídeo** en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de la AG.
+A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y **elegir la resolución de vídeo** en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de las AG.
 
 También marca el tamaño de tu zona de equipo. Con poca resolución tienes mucho espacio porque son listados de texto, mientras que con mucha resolución son complicadas imágenes pixeladas.
 

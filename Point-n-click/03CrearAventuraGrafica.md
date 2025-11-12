@@ -14,7 +14,7 @@ Para empezar a crear la aventura gráfica debes decidir su duración. La duraci�
 
 #### 1 disquete 5¼
 
-Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
+Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores, eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
 
 #### 1 disquete de 3½
 
@@ -28,7 +28,7 @@ Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar
 
 Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
-* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
+* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores, olvídate de hacer puzzles con colores.
 * **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
 * **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
 
@@ -37,11 +37,11 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
-* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que una de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan estar al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a las jugadoras. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
-* **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
+* **Misterio:** Quizás una historia de Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
 * **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
 * **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
 
@@ -70,7 +70,7 @@ Si las jugadoras intentan llevar a cabo esas acciones, deberían poder tirar par
 
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
-También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
+También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas, como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
 
 #### Aventuras no mortales
 
@@ -112,11 +112,11 @@ La aventura «El enigma de la Península del Simio» te muestra como puedes esqu
 
 #### Retos, acertijos y minipuzzles
 
-Por retos entendemos una combinación de acciones, elementos clicables y PNJ para solucionar un problema. Debemos definir que vamos a necesitar y como conseguirlo, quizas simplemente sea hablar con alguien en concreto como el tercer pasajero del autobús. También pueden ser opciones más complejas: coger el sobre de ketchup de la mesa, dárselo al comensal 1 que te lo agradecerá dándote su puré de patatas y embozar el baño con el puré para que el cocinero del restaurante tenga que salir de la cocina para arreglarlo y poder así entrar en la cocina.
+Por retos entendemos una combinación de acciones, elementos clicables y PNJ para solucionar un problema. Debemos definir que vamos a necesitar y como conseguirlo, quizás simplemente sea hablar con alguien en concreto como el tercer pasajero del autobús. También pueden ser opciones más complejas: coger el sobre de ketchup de la mesa, dárselo al comensal 1 que te lo agradecerá dándote su puré de patatas y embozar el baño con el puré para que el cocinero del restaurante tenga que salir de la cocina para arreglarlo y poder así entrar en la cocina.
 
 Cuando examinen los elementos clicables deberán tener pistas de como pueden usar esos objetos, por ejemplo con frases como «Este puré es tan espeso que serviría de cemento». Al hablar con los PNJ deberían obtener también pista, como «No voy a volver a este restaurante, la comida es insípida y este el peor puré de patatas que he comido nunca». Quizás poner un desatascador cerca del cocinero sea otra pista y al examinarlo decir que está muy usado y tiene muchas manchas de grasa de hamburguesas.
 
-Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
+Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca, si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
 
 De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho. 
 
@@ -144,7 +144,7 @@ Así que, si las jugadoras proponen una opción viable que solucione los retos, 
 
 Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
 
-* En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
+* En «Loom» no son verbos, son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
 * «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
 

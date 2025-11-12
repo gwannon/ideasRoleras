@@ -120,7 +120,7 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 
 #### Ancho de pantalla
 
-El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+El grupo de personajes no puede separarse, las AG no tienen pantalla dividida, así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
 
 #### Conexiones entre pantalla
 
@@ -156,7 +156,7 @@ Como DJ puedes pedir cosas como:
 
 * Ningún móvil sobre la mesa.
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
-* Si se cae un dado de la mesa todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
+* Si se cae un dado de la mesa, todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar la partida
 

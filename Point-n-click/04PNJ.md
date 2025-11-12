@@ -42,7 +42,7 @@ Son personajes **más complejos** que los anteriores, con más frases, objetos q
 
 Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con las PJ y también la información clave que pueden darles.
 
-En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizas sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
+En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizás sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
 
 También deberías apuntarles algunas debilidades que las jugadoras puedan aprovechar y que seguramente ellos mismos u otros personajes les comenten a las jugadoras.
 
@@ -64,7 +64,7 @@ Si le consigues **una buena carta Pokémon, te dará un montón de globos de hel
 
 Son tan complejo como tus propias jugadoras, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadoras o personajes con mucho peso en la historia.  
 
-Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
+Si son el villano, no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
 Es normal que empezarán como multifrase y un cambio en la historia los convierta en principales. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multifrase), sea secuestrado y se convierta en principal.
 
@@ -74,11 +74,11 @@ Es normal que empezarán como multifrase y un cambio en la historia los conviert
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
 
-Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
+Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además de capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
 
-Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadoras deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
+Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y, por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadoras deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
 
-Además, con suerte, quizas tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
+Además, con suerte, quizás tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
 
 ### Interactuar con los PNJ
 
@@ -89,5 +89,5 @@ Al interactuar con PNJ ahí serie de reglas que puedes seguir y que le darán a 
 \sc
 
 * Lo mismo pasa cuando usas objetos con ellos, mientras no uses el adecuado no debería cambiar nada. Si les das dinero, simplemente lo rechazará, si le tiras un cubo de agua, se apartará o simplemente se mojará y te gritará, pero no se moverá de la puerta que guarda. Pero si sacas un ratón y le das un trozo de queso al portero, el ratón se acercará atraído por el olor a queso y el PNJ saldrá corriendo atemorizado por el roedor.
-* Normalmente el truco de un PNJ deja de funcionar cuando se cambia de pantalla o de escena. Si el portero vuelve aparecer en otra escena, ya no funcionará lo del ratón y te dirá que su psicoanalista le ha ayudado en ese tema.
+* Normalmente, el truco de un PNJ deja de funcionar cuando se cambia de pantalla o de escena. Si el portero vuelve aparecer en otra escena, ya no funcionará lo del ratón y te dirá que su psicoanalista le ha ayudado en ese tema.
 * Los PNJ solo participan en un reto por escena, nuestro portero es un reto para entrar en la guarida de la mafia. Una vez superado este reto, no va a dar equipo o pistas para otros retos, pero no siempre.

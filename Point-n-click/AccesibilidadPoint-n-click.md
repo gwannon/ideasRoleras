@@ -24,7 +24,7 @@ Lo primero que debes hacer para empezar a jugar a este juego de rol es crear un 
 
 Lo primero es elegir de que Aventura Gráfica (AG) provienes. La AG de la que ha salido tu PJ marca sus capacidades. No es lo mismo ser que un personaje de «The Dig» que de «Maniac Mansion».
 
-A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y **elegir la resolución de vídeo** en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de la AG.
+A la hora de definir de que AG vienes, lo primero es ponerle un nombre a tu AG y **elegir la resolución de vídeo** en la que estaba desarrollado. Tu resolución marca los píxeles iniciales que tiene tu personaje. Tus píxeles son importantes porque te permiten hacer cosas especiales dentro de las AG.
 
 También marca el tamaño de tu zona de equipo. Con poca resolución tienes mucho espacio porque son listados de texto, mientras que con mucha resolución son complicadas imágenes pixeladas.
 
@@ -197,7 +197,7 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 
 #### Ancho de pantalla
 
-El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+El grupo de personajes no puede separarse, las AG no tienen pantalla dividida, así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
 
 #### Conexiones entre pantalla
 
@@ -227,13 +227,13 @@ Como DJ puedes pedir cosas como:
 
 * Ningún móvil sobre la mesa.
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
-* Si se cae un dado de la mesa todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
+* Si se cae un dado de la mesa, todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar la partida
 
 No hace falta explicar que es «Guardar la partida» es algo que todavía hacen muchos videojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
 
-Está acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
+Esta acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
 * Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tu PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.
@@ -272,7 +272,7 @@ Son personajes **más complejos** que los anteriores, con más frases, objetos q
 
 Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con las PJ y también la información clave que pueden darles.
 
-En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizas sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
+En caso de que debamos conseguir algo de ellos (información, objetos o acceso), deberías apuntar como se puede conseguir, quizás sea dándole otro objeto, preguntándole algo exactamente, o haciendo alguna serie de acciones con objetos clicables cercanos y/o del equipo.
 
 También deberías apuntarles algunas debilidades que las jugadoras puedan aprovechar y que seguramente ellos mismos u otros personajes les comenten a las jugadoras.
 
@@ -291,18 +291,18 @@ Si le consigues **una buena carta Pokémon, te dará un montón de globos de hel
 
 Son tan complejo como tus propias jugadoras, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadoras o personajes con mucho peso en la historia.  
 
-Si son el villano no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
+Si son el villano, no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
 Es normal que empezarán como multifrase y un cambio en la historia los convierta en principales. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multifrase), sea secuestrado y se convierta en principal.
 #### Capitán vampirata (principal/villano)
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
 
-Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
+Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además de capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
 
-Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadoras deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
+Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y, por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadoras deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
 
-Además, con suerte, quizas tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
+Además, con suerte, quizás tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
 
 ### Interactuar con los PNJ
 
@@ -310,7 +310,7 @@ Al interactuar con PNJ ahí serie de reglas que puedes seguir y que le darán a 
 
 * Puedes preguntar las veces que sean que o se van a molestar y siempre deberían dar la misma respuesta. Las respuestas solo cambiarán si haces algo distintos. Tampoco deberían molestarse.
 * Lo mismo pasa cuando usas objetos con ellos, mientras no uses el adecuado no debería cambiar nada. Si les das dinero, simplemente lo rechazará, si le tiras un cubo de agua, se apartará o simplemente se mojará y te gritará, pero no se moverá de la puerta que guarda. Pero si sacas un ratón y le das un trozo de queso al portero, el ratón se acercará atraído por el olor a queso y el PNJ saldrá corriendo atemorizado por el roedor.
-* Normalmente el truco de un PNJ deja de funcionar cuando se cambia de pantalla o de escena. Si el portero vuelve aparecer en otra escena, ya no funcionará lo del ratón y te dirá que su psicoanalista le ha ayudado en ese tema.
+* Normalmente, el truco de un PNJ deja de funcionar cuando se cambia de pantalla o de escena. Si el portero vuelve aparecer en otra escena, ya no funcionará lo del ratón y te dirá que su psicoanalista le ha ayudado en ese tema.
 * Los PNJ solo participan en un reto por escena, nuestro portero es un reto para entrar en la guarida de la mafia. Una vez superado este reto, no va a dar equipo o pistas para otros retos, pero no siempre.## Crear una aventura gráfica
 
 ### Duración de una aventura
@@ -321,7 +321,7 @@ Para empezar a crear la aventura gráfica debes decidir su duración. La duraci�
 
 #### 1 disquete 5¼
 
-Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
+Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores, eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
 
 #### 1 disquete de 3½
 
@@ -335,17 +335,17 @@ Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar
 
 Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
 
-* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores olvídate de hacer puzzles con colores.
+* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores, olvídate de hacer puzzles con colores.
 * **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
 * **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
-* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que uno de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
-* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan están al lado del elemento cliclabe, solamente en la misma pantalla.
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que una de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
+* **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan estar al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a las jugadoras. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
-* **Misterio:** Quizas una historia Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
+* **Misterio:** Quizás una historia de Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
 * **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
 * **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
 
@@ -371,7 +371,7 @@ Si las jugadoras intentan llevar a cabo esas acciones, deberían poder tirar par
 
 Deberías avisar de que lo que quieren hacer es muy peligroso antes de tirar los dados.
 
-También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
+También deberías haber dispuesto elementos y acciones previas que les den bonos a las tiradas, como meter una llave inglesa en sus guantes de boxeo o atravesar un pasillo cuando los ojos rojos de la calavera pardean porque se está reactivando el mecanismo que lanza dardos envenenados de las paredes.
 
 #### Aventuras no mortales
 
@@ -407,11 +407,11 @@ La forma más sencilla de registrar todo esto es hacerte un esquema de las panta
 La aventura «El enigma de la Península del Simio» te muestra como puedes esquematizarlo.
 #### Retos, acertijos y minipuzzles
 
-Por retos entendemos una combinación de acciones, elementos clicables y PNJ para solucionar un problema. Debemos definir que vamos a necesitar y como conseguirlo, quizas simplemente sea hablar con alguien en concreto como el tercer pasajero del autobús. También pueden ser opciones más complejas: coger el sobre de ketchup de la mesa, dárselo al comensal 1 que te lo agradecerá dándote su puré de patatas y embozar el baño con el puré para que el cocinero del restaurante tenga que salir de la cocina para arreglarlo y poder así entrar en la cocina.
+Por retos entendemos una combinación de acciones, elementos clicables y PNJ para solucionar un problema. Debemos definir que vamos a necesitar y como conseguirlo, quizás simplemente sea hablar con alguien en concreto como el tercer pasajero del autobús. También pueden ser opciones más complejas: coger el sobre de ketchup de la mesa, dárselo al comensal 1 que te lo agradecerá dándote su puré de patatas y embozar el baño con el puré para que el cocinero del restaurante tenga que salir de la cocina para arreglarlo y poder así entrar en la cocina.
 
 Cuando examinen los elementos clicables deberán tener pistas de como pueden usar esos objetos, por ejemplo con frases como «Este puré es tan espeso que serviría de cemento». Al hablar con los PNJ deberían obtener también pista, como «No voy a volver a este restaurante, la comida es insípida y este el peor puré de patatas que he comido nunca». Quizás poner un desatascador cerca del cocinero sea otra pista y al examinarlo decir que está muy usado y tiene muchas manchas de grasa de hamburguesas.
 
-Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
+Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca, si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
 
 De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho. 
 
@@ -436,7 +436,7 @@ Así que, si las jugadoras proponen una opción viable que solucione los retos, 
 
 Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie tu aventura del resto. Veamos algunos ejemplos clásicos:
 
-* En «Loom» no son verbos son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
+* En «Loom» no son verbos, son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
 * «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
 ## El enigma de la Península del Simio
@@ -453,7 +453,7 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
 
-Está parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las Jefas Piratas les den el título de piratas tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
+Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las Jefas Piratas les den el título de piratas tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
 
 #### 1. Inicio
 
@@ -465,7 +465,7 @@ En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna de
 
 A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral inunda su cubierta y bandadas de murciélagos lo sobrevuelan.
 
-Desde el puerto puedes acceder al _**Centro de Bucan City**_.
+Desde el puerto puedes acceder al _**Centro de Bucan Ville**_.
 
 ##### La Taberna del Cangrejo Cocido
 
@@ -476,7 +476,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 * ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
 * Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
 
-En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan City elegidas por el democrático método de pasar a cuchillo a todos su competencia.
+En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
 Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
@@ -491,28 +491,28 @@ Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deber�
 
 Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
+En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
 #### 2.a Pasarse al otro lado de la ley
 
-Como mo han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
 Hay varias opciones para cometer delitos:
 
-* La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan City**_.
+* La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
 * Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
 * Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
 
-##### Centro de Bucan City
+##### Centro de Bucan Ville
 
 Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
 
 Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra dirigido por un _**simio-semáforo**_ y vigilado por un _**guardia de la ciudad**_ que solo dice «¡Circulen, circulen!». El simio-semáforo es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
 
-Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás un fuera de la ley.
+Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás una fuera de la ley.
 
-##### Plaza Mayor de Bucan City
+##### Plaza Mayor de Bucan Ville
 
 La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con un único _**árbol seco**_ en el centro con un cartel que pone «Árbol para colgar piratas - Cerrado por reformas».
 
@@ -520,7 +520,7 @@ En el centro de la plaza hay un _**pintor de cuadros**_ que está pintando el ay
 
 Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 1000 cuadros iguales del ayuntamiento para la campaña de recaudación para la reelección del gobernador.
 
-Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley como pedían las _**Jefas Piratas**_.
+Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
 ##### Callejón oscuro
@@ -541,7 +541,7 @@ La bandera no es un reto, déjales usar lo que encuentren para hacerse su bander
 
 ##### Astilleros
 
-Desde la Plaza Mayor se puede acceder a los astilleros de Bucan City, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
+Desde la Plaza Mayor se puede acceder a los astilleros de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
 Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
 
@@ -552,17 +552,17 @@ A pesar de ser un personaje principal y poder hablar sobre muchos temas, Sam sol
 Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
 
 Sam las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
-Tras duras negociaciones _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
+Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 
 Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
 
-Como ya hemos dicho para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
+Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
 
 ##### Tienda de souvenirs
 
-Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan City. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
+Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan Ville. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
 
-Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como desde tiene carcoma a pertenecía a un leproso.
+Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como que tiene carcoma o pertenecía a un leproso.
 
 Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con calaveras, tibias cruzadas, cofres del tesoro y cañones en vez de los círculos de colores.
 
@@ -589,26 +589,26 @@ Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar
 
 #### 4. Robar al gobernador
 
-A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
+A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
 
-Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
+Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
 
 ##### Exterior de la casa del gobernador
 
-La casa del Gobernan Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan City.
+La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
 
 Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
 
 El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
 
-Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
+Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
 ##### Hall principal de la casa del gobernador
 
 Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
 
 Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas chirriarán y se verán luces desde el piso superior y sonidos del gobernador Marlon cargando su rifle. Eso hace que sea imposible bajar la lámpara mientras haga ruido, necesitan algún tipo de lubricante.
 
-Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarras que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
+Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarrás que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
 
 ##### Sótano de la casa del gobernador
 
@@ -631,7 +631,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
 * Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
-* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
+* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca, así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
 
@@ -641,37 +641,37 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * **PNJ:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
-* **Conexiones:** Plaza Mayor de Bucan City
+* **Conexiones:** Plaza Mayor de Bucan Ville
 
-### Bucan City
+### Bucan Ville
 
 #### Callejón oscuro
 
-* **Conexiones:** Plaza Mayor de Bucan City
+* **Conexiones:** Plaza Mayor de Bucan Ville
 
-#### Centro de Bucan City
+#### Centro de Bucan Ville
 
 * **PNJ:** Guardia de la ciudad
 * **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Plaza Mayor de Bucan City, Puerto, Tienda de Souvenirs
+* **Conexiones:** Plaza Mayor de Bucan Ville, Puerto, Tienda de Souvenirs
 
 #### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
 * **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
-* **Conexiones:** Centro de Bucan City
+* **Conexiones:** Centro de Bucan Ville
 
-#### Plaza Mayor de Bucan City
+#### Plaza Mayor de Bucan Ville
 
 * **PNJ:** Pintor de cuadros
 * **Elementos clicables:** Juzgado, Montón de cuadros
-* **Conexiones:** Centro de Bucan City, Callejón oscuro
+* **Conexiones:** Centro de Bucan Ville, Callejón oscuro
 
 ### Casa del gobernador 
 
 #### Exterior
 
-* **PNJ:** Pavo reales
+* **PNJ:** Pavos reales
 * **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real
 * **Conexiones:** Puerto, Casa del gobernador (Hall principal)
 
@@ -689,7 +689,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 #### Puerto
 
 * **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville
 
 #### Taberna del Cangrejo Cocido
 

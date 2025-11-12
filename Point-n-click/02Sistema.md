@@ -120,7 +120,7 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 
 #### Ancho de pantalla
 
-El grupo de personajes no puede separarse, las AG no tienen pantalla dividida así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
+El grupo de personajes no puede separarse, las AG no tienen pantalla dividida, así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
 
 #### Conexiones entre pantalla
 
@@ -156,13 +156,13 @@ Como DJ puedes pedir cosas como:
 
 * Ningún móvil sobre la mesa.
 * Solo el DJ puede comer gominolas o siempre debe haber palomitas en un cuenco cerca del máster.
-* Si se cae un dado de la mesa todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
+* Si se cae un dado de la mesa, todas las jugadoras deben levantarse, dar una vuelta, gritar «Arrr marineros» y brindar a la salud del DJ.
 
 #### Guardar la partida
 
 No hace falta explicar que es «Guardar la partida» es algo que todavía hacen muchos videojuegos hoy en día, pero sí cómo se aplica a este juego de rol.
 
-Está acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
+Esta acción solo se puede hacer **una vez por sesión** y con **todas las jugadoras de acuerdo** y da una serie de beneficios.
 
 * En caso de morir (como veremos en la creación de AG) volveremos al punto de guardado y no al principio de la escena.
 * Como normalmente solo se guarda partida cuando creemos que va a pasar algo importante o podemos morir, esta acción devuelve hasta la mitad de los píxeles máximos de tu personaje. Si tu PJ tiene 10 píxeles máximo y le quedan 3, recibe 2 píxeles más. Si tiene 12 y le quedan 8, no recibe ninguno porque está por encima de la mitad de su máximo.

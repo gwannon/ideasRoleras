@@ -18,7 +18,7 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
 
-Está parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las Jefas Piratas les den el título de piratas tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
+Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las Jefas Piratas les den el título de piratas tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
 
 #### 1. Inicio
 
@@ -30,7 +30,7 @@ En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna de
 
 A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral inunda su cubierta y bandadas de murciélagos lo sobrevuelan.
 
-Desde el puerto puedes acceder al _**Centro de Bucan City**_.
+Desde el puerto puedes acceder al _**Centro de Bucan Ville**_.
 
 ##### La Taberna del Cangrejo Cocido
 
@@ -44,7 +44,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 * ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
 * Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
 
-En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan City elegidas por el democrático método de pasar a cuchillo a todos su competencia.
+En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
 Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
@@ -59,31 +59,31 @@ Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deber�
 
 Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
+En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
 #### 2.a Pasarse al otro lado de la ley
 
-Como mo han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
 
 \sp
 
 Hay varias opciones para cometer delitos:
 
-* La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan City**_.
+* La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
 * Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
 * Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
 
-##### Centro de Bucan City
+##### Centro de Bucan Ville
 
 Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
 
 Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra dirigido por un _**simio-semáforo**_ y vigilado por un _**guardia de la ciudad**_ que solo dice «¡Circulen, circulen!». El simio-semáforo es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
 
-Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás un fuera de la ley.
+Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás una fuera de la ley.
 
-##### Plaza Mayor de Bucan City
+##### Plaza Mayor de Bucan Ville
 
 La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con un único _**árbol seco**_ en el centro con un cartel que pone «Árbol para colgar piratas - Cerrado por reformas».
 
@@ -91,7 +91,7 @@ En el centro de la plaza hay un _**pintor de cuadros**_ que está pintando el ay
 
 Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 1000 cuadros iguales del ayuntamiento para la campaña de recaudación para la reelección del gobernador.
 
-Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley como pedían las _**Jefas Piratas**_.
+Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
 
@@ -115,7 +115,7 @@ La bandera no es un reto, déjales usar lo que encuentren para hacerse su bander
 
 ##### Astilleros
 
-Desde la Plaza Mayor se puede acceder a los astilleros de Bucan City, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
+Desde la Plaza Mayor se puede acceder a los astilleros de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
 Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
 
@@ -129,17 +129,17 @@ Sam las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de
 
 \sp
 
-Tras duras negociaciones _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
+Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 
 Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
 
-Como ya hemos dicho para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
+Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
 
 ##### Tienda de souvenirs
 
-Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan City. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
+Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan Ville. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
 
-Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como desde tiene carcoma a pertenecía a un leproso.
+Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como que tiene carcoma o pertenecía a un leproso.
 
 Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con calaveras, tibias cruzadas, cofres del tesoro y cañones en vez de los círculos de colores.
 
@@ -169,19 +169,19 @@ Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar
 
 #### 4. Robar al gobernador
 
-A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
+A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
 
-Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
+Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
 
 ##### Exterior de la casa del gobernador
 
-La casa del Gobernan Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan City.
+La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
 
 Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
 
 El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
 
-Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
+Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
 
 \sp
 
@@ -191,7 +191,7 @@ Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujo
 
 Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas chirriarán y se verán luces desde el piso superior y sonidos del gobernador Marlon cargando su rifle. Eso hace que sea imposible bajar la lámpara mientras haga ruido, necesitan algún tipo de lubricante.
 
-Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarras que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
+Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarrás que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
 
 ##### Sótano de la casa del gobernador
 
@@ -214,7 +214,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
 
 * Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
-* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca así que deben ser cuidadosos.
+* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca, así que deben ser cuidadosos.
 
 \sp
 
@@ -237,37 +237,37 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 
 * **PNJ:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
-* **Conexiones:** Plaza Mayor de Bucan City
+* **Conexiones:** Plaza Mayor de Bucan Ville
 
-### Bucan City
+### Bucan Ville
 
 #### Callejón oscuro
 
-* **Conexiones:** Plaza Mayor de Bucan City
+* **Conexiones:** Plaza Mayor de Bucan Ville
 
-#### Centro de Bucan City
+#### Centro de Bucan Ville
 
 * **PNJ:** Guardia de la ciudad
 * **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Plaza Mayor de Bucan City, Puerto, Tienda de Souvenirs
+* **Conexiones:** Plaza Mayor de Bucan Ville, Puerto, Tienda de Souvenirs
 
 #### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
 * **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
-* **Conexiones:** Centro de Bucan City
+* **Conexiones:** Centro de Bucan Ville
 
-#### Plaza Mayor de Bucan City
+#### Plaza Mayor de Bucan Ville
 
 * **PNJ:** Pintor de cuadros
 * **Elementos clicables:** Juzgado, Montón de cuadros
-* **Conexiones:** Centro de Bucan City, Callejón oscuro
+* **Conexiones:** Centro de Bucan Ville, Callejón oscuro
 
 ### Casa del gobernador 
 
 #### Exterior
 
-* **PNJ:** Pavo reales
+* **PNJ:** Pavos reales
 * **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real
 * **Conexiones:** Puerto, Casa del gobernador (Hall principal)
 
@@ -288,7 +288,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 #### Puerto
 
 * **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan City
+* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville
 
 #### Taberna del Cangrejo Cocido
 
