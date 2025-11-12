@@ -83,12 +83,12 @@ Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de l
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
-#### Recuperar píxeles
+#### Recovering Pixels
 
-Recuperas píxeles en determinadas situaciones:
+You recover pixels in certain situations:
 
-* Al completar una escena recuperas todos tus píxeles.
-* A discreción del DJ, si considera que lo están haciendo divertido y ajustándose a su personaje y a la historia. **NO SEAS ROÑICA DANDO PÍXELES.**
+* Upon completing a scene, you recover up to half of your maximum pixels.
+* At the GM's discretion, if they deem it fun and fitting for their character and the story. **DON'T BE STINGY ABOUT GIVING AWAY PIXELS.**
 
 ### Adventure Game special rules
 
