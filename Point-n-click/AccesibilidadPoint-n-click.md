@@ -167,7 +167,7 @@ Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de l
 
 Recuperas píxeles en determinadas situaciones:
 
-* Al completar una escena recuperas hasta la mitad de tus píxeles.
+* Al completar una escena recuperas hasta la mitad de tus píxeles máximos.
 * A discreción del DJ, si considera que lo están haciendo divertido y ajustándose a su personaje y a la historia. **NO SEAS ROÑICA DANDO PÍXELES.**
 
 ### Cosas de aventuras gráficas

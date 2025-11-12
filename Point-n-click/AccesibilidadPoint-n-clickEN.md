@@ -92,82 +92,81 @@ Finally, you must **choose a starting piece of equipment** by rolling on the fol
 |6|Flashlight|Whistle|Trumpet|
 ## Rules
 
-### Escenas
+### Scenes
 
-Las **aventuras gráficas se dividen en partes** y cada parte **en escenas y pantallas**. Una escena puede estar compuesta por una o varias pantallas y suele estar asociada a un puzzle o reto principal que a su vez tiene otros puzzles.
+**Graphic adventures are divided into parts**, and each part is **divided into scenes and screens**. A scene can consist of one or more screens and is usually associated with a main puzzle or challenge, which in turn contains other puzzles.
 
-Por ejemplo, una escena puede ser conseguir los 3 trozos que faltan de un mapa de un tesoro, uno está perdido en la biblioteca, otro lo tiene la decana de la universidad en su despacho y el tercero te lo vende tu compañero de despacho por 1.000 $. Para solucionar la escena deberás recuperar cada trozo del mapa resolviendo cada puzzle o reto (buscar en la biblioteca, colarte en el despacho del decano y conseguir 1.000 $) y luego montar el mapa a partir de los trozos recuperados.
+For example, a scene might involve finding the three missing pieces of a treasure map. One piece is lost in the library, another is in the dean's office, and the third is being sold by your office mate for $1,000. To solve the scene, you must recover each piece of the map by solving each puzzle or challenge (searching the library, sneaking into the dean's office, and getting $1,000) and then reassemble the map from the recovered pieces.
 
-Para resolver los retos de cada escena deberá **moverse por las diferentes pantallas de una escena** por los puntos en que se comunican. Si quieres ir al despacho de la decana, deberás entrar por la puerta de la universidad, pasar por delante del escritorio de su secretario y entrar en su despacho. Tendremos 3 pantallas comunicadas una con otra, de forma que no puedes pasar (por ahora) de la entrada al despacho sin pasar por delante del secretario.
+To solve the challenges in each scene, **you must move between the different screens** at the points where they connect. If you want to go to the dean's office, you'll need to enter through the university entrance, pass by her secretary's desk, and then enter her office. We'll have three interconnected screens, so you can't (for now) get from the entrance to the office without passing by the secretary.
 
-Puede haber pantallas que de por sí supongan un reto entrar en ellas y tengas que resolver un problema para poder acceder a ellas. Igual tienes que convencer al secretario de la decana de que hay yogur helado gratis en la cafetería de la universidad y, además, encontrar la llave del despacho que tiene escondida debajo del macetero del ficus.
+There may be screens that are inherently challenging to enter, requiring you to solve a puzzle to gain access. For example, you might have to convince the dean's secretary that there's free frozen yogurt in the university cafeteria and, on top of that, find the office key hidden under the ficus planter.
 
-Al **entrar en una nueva pantalla**, el DJ debe **describir todas las cosas clicables de la escena**. En principio, las PJ solo pueden interactuar con los elementos clicables, pero como veremos más adelante gastando tus píxeles se puede interactuar con otras cosas que no eran clicables.
+Upon **entering a new screen**, the GM should **describe all the clickable elements in the scene**. Initially, the PCs can only interact with clickable elements, but as we'll see later, by spending pixels, they can interact with other, previously non-clickable elements.
 
-También debería dar **una idea de como se conecta esta pantalla con otras que no tengan lógica directa**. Si estás en un campanario, el DJ puede decir que la pantalla está encima de la pantalla de la entrada a la iglesia y a lo lejos verse el faro del puerto. Esto indicará a las PJ que igual pueden interactuar con el faro desde aquí, por ejemplo, usando los prismáticos que robaron en el museo.
+The GM should also provide an **indication of how this screen connects to others** that don't have a direct logical link. If you're in a bell tower, the GM can mention that the screen is above the screen for the church entrance, and the harbor lighthouse is visible in the distance. This will suggest to the PCs that they might be able to interact with the lighthouse from here, for instance, using the binoculars they stole from the museum.
 
-### Acciones y tiradas
+### Actions and Rolls
 
-Hay diferentes tipos de acciones posibles:
+There are different types of possible actions:
 
-* Verbo + Equipo
-* Verbo + Equipo + Equipo
-* Verbo + Elemento clicable de la escena
-* Verbo + Equipo + Elemento clicable de la escena
-* Meter + elemento clicable / Sacar + equipo
+* Verb + Equipment
+* Verb + Equipment + Equipment
+* Verb + Clickable Element in the Scene
+* Verb + Equipment + Clickable Element in the Scene
+* Insert + Clickable Element / Remove + Equipment
 
-Las acciones se pueden o no se pueden hacer, no hay posibilidad de hacerlo bien o de fallar. Por tanto, de normal no hay tiradas.
+Actions can or cannot be performed; there is no possibility of success or failure. Therefore, normally there are no rolls.
 
-Solo existen **tiradas** en las escasas **situaciones en que puede fallar una acción**. En ese caso **tiras 1d6 y si sacas 4 o más tienes éxito**. Puedes dar **bonus +1** si tienen equipo adecuado o si descubren algo que les dé ventaja.
+Rolls only occur in the rare situations where an action can fail. In that case, you roll 1d6, and if you roll 4 or higher, you succeed. You can grant a +1 bonus if they have suitable equipment or if they discover something that gives them an advantage.
 
-Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos, tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
+For example, if we want to spit in the spitting contest, we roll 1d6. If they say they spit when the wind blows or take a shoot of grog first to thicken their phlegm, you could give them a +1 bonus for each cheat applied.
 
-A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero. 
+When using items, equipment items are always within easy reach, but clickable items require you to approach them to use them. This means that if they're unreachable, like deer antlers above the door, you'll need a chair or a ladder first.
 
-Por otro lado, la propia lógica dictará si al usarse el equipo se gasta o no. Una cerilla se gasta al usarse, un cerillero tiene infinitos usos.
+On the other hand, logic dictates whether equipment is consumed when used. A match is used up, but a matchbox has infinite uses.
 
-### El equipo
+### The Equipment
 
-En cada casilla puedes meter un objeto que no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
+In each slot, you can place one object that shouldn't be larger than something that would fit in your pockets or a backpack. Weight doesn't matter; as long as it fits in a backpack and there are free spaces, you can put it in.
 
-Si tienes, por ejemplo, 6 espacios de equipo, Puedes meter en tu equipo una calabaza, una sandía, la cabeza de una escultura de un emperador romano, aguja e hilo, una trompeta y un pin de los «Panteras de Arkansas».
+If you have, for example, 6 equipment sspacess, you can put in your equipment a pumpkin, a watermelon, the head of a Roman emperor sculpture, needle and thread, a trumpet, and an Arkansas Panthers pin.
 
-Cada objeto ocupa un espacio del equipo y si intentas meter en tu equipo un gran tonel de vino no entrará porque ni tienes espacio libre, ni entra en una mochila.
+Each object occupies one equipment slot, and if you try to put a large barrel of wine in your equipment, it won't fit because you don't have any free space, and it won't fit in a backpack.
 
-> Puedes saltarte esta regla del tamaño en juegos de humor rollo cartoon donde los bolsillos se dan de sí.
+> You can ignore this size rule in humorous cartoon-style games where the pockets are more spacious.
 
-### Uso de tus píxeles
+### Using Your Pixels
 
-Los píxeles son lo que hace espacial a tu personaje, permitiéndole hacer cosas fuera de lo común, aprovechándose de fallos y bugs de la AG, leyendo guías de juego, probando todo con todo, …
+Pixels are what make your character feel real, allowing them to do extraordinary things, exploiting glitches and bugs in the Game Master, reading game guides, trying everything with everything, and so on.
 
-Los posibles gastos que se pueden hacer son:
+The possible uses of pixels are:
 
-#### Convertir algo de fondo en clicable
+#### Making Background Elements Clickable
 
-Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla. 
-#### Consultar la guía
+One of the most frustrating aspects of Adventure Games was seeing things on the screen that you could use but couldn't click. By exploiting bugs and spending between 1 and 4 pixels, at the GM's discretion, you can make something unclickable clickable. It will only be clickable while you're on the screen; it will become unclickable as soon as you leave the screen.
+#### Read the Guide
 
-Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
+If you spend pixels, you can read a game guide from your favorite video game magazine and receive a hint on how to solve a puzzle or fix a problem. It can also remind you of a detail you might have forgotten. Depending on the number of pixels you spend, from 1 to 4, you'll receive more or less information, and it will be more or less interesting and clear.
 
-#### Probar todo con todo
+#### Try Everything with Everything
 
-Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a las jugadoras hacia el camino correcto.  
+You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable element in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
 
-#### Trama paralela
+#### Parallel Plot
 
-Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
+If a player spends all their points (minimum 4), they can request a parallel plot. A message will appear on screen saying "Meanwhile in [location]…" and the current villain will be seen speaking and revealing part of their plan or their next steps. It could also be some kind of important information, such as the ingredients of a chemical formula or the name of the magic grimoire containing the spell to destroy them.
+#### Force the Theme
 
-#### Forzar el tema
+By spending 1 pixel, players can force the theme of the adventure they are playing or the one they came from and gain a +1 bonus to a roll. For example, a character from a fantasy adventure can try to gain a +1 bonus to a roll if they have a sword duel, or in a science fiction adventure, a player can try to gain a +1 bonus to a Search roll by claiming that their tricorder's sensors are very advanced.
 
-Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
-
-> Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
+> You are free to create new uses for pixels that suit your graphic adventure.
 
 #### Recovering Pixels
 
 You recover pixels in certain situations:
 
-* Upon completing a scene, you recover the half of your máximun pixels.
+* Upon completing a scene, you recover up to half of your maximum pixels.
 * At the GM's discretion, if they deem it fun and fitting for their character and the story. **DON'T BE STINGY ABOUT GIVING AWAY PIXELS.**
 
 ### Adventure Game special rules
@@ -208,10 +207,10 @@ For example, if you climb onto a roof and knock down a tile, it can knock uncons
 #### Single Pixel
 
 When things are hidden, they can be located in a single pixel on the screen. This means that to find it, you have to make a Search roll; a simple Look roll won't suffice.
+
 #### Maze
 
 There are labyrinthine areas like caves, sewers, or passageways that cause players to move in circles and eventually exit the way they came in.
-
 In these areas, you must meet a condition to find the exit and be able to cross them. This might involve having a compass, knowing the correct order to follow, or observing the path a rat takes.
 
 The important thing is that, without this clue, it's impossible to cross that labyrinthine area.
@@ -226,8 +225,8 @@ Applying this to this role-playing game, copy protection allows the GM to make a
 
 As the GM, you can request things like:
 
-* No cell phones on the table.
 * Only the GM can eat gummy bears, or there must always be popcorn in a bowl near the GM.
+* No cell phones on the table.
 * If a die falls off the table, all players must stand up, turn around, shout "Ahoy sailors," and toast the DJ.
 
 #### Saving the Game
