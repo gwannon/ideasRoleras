@@ -138,7 +138,7 @@ Each object occupies one equipment slot, and if you try to put a large barrel of
 
 ### Using Your Pixels
 
-Pixels are what make your character feel real, allowing them to do extraordinary things, exploiting glitches and bugs in the Game Master, reading game guides, trying everything with everything, and so on.
+Pixels are what make your character feel real, allowing them to do extraordinary things, exploiting glitches and bugs in the software, reading game guides, trying everything with everything, and so on.
 
 The possible uses of pixels are:
 
@@ -169,9 +169,9 @@ You recover pixels in certain situations:
 * Upon completing a scene, you recover up to half of your maximum pixels.
 * At the GM's discretion, if they deem it fun and fitting for their character and the story. **DON'T BE STINGY ABOUT GIVING AWAY PIXELS.**
 
-### Adventure Game special rules
+### Special rules of Adventure Games
 
- Adventure Games sometimes have their own logic, and all the following rules attempt to reflect that.
+Adventure Games sometimes have their own logic, and all the following rules attempt to reflect that.
 
 #### Object Permanence
 
@@ -313,33 +313,33 @@ When interacting with NPCs, there are a few rules you can follow that will give 
 * You can ask questions as many times as you like; they won't get annoyed and should always give the same answer. The answers will only change if you do something different. Even then, they shouldn't get annoyed.
 * The same applies when you use objects on them. As long as you don't use the right one, nothing should change. If you give them money, they'll simply refuse it. If you throw a bucket of water at them, they'll either move away or get wet and yell at you, but they won't move from the door they're guarding. However, if you take out a mouse and give the doorman a piece of cheese, the mouse will approach, attracted by the smell of cheese, and the NPC will run away, terrified of the rodent.
 * Usually, an NPC's trick stops working when you change screens or scenes. If the doorman reappears in another scene, the mouse trick will no longer work, and he'll tell you that his psychoanalyst helped him with that phobia.
-* NPCs only participate in one challenge per scene; our doorman's challenge is to infiltrate the mafia's hideout. Once this challenge is completed, he won't provide equipment or clues for other challenges, but this isn't always the case.## Crear una aventura gráfica
+* NPCs only participate in one challenge per scene; our doorman's challenge is to infiltrate the mafia's hideout. Once this challenge is completed, he won't provide equipment or clues for other challenges, but this isn't always the case.## Create a Point and Click Adventure Game
 
-### Duración de una aventura
+### Adventure duration
 
-Para empezar a crear la aventura gráfica debes decidir su duración. La duración de una AG mide en disquetes y cada disquete es una sesión de juegos.
+To begin creating your AG, you must decide its duration. The duration of an adventure is measured in floppy disks, and each disk represents one game session.
 
-> Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
+> End your sessions by saying something funny like, "Insert disk number 2."
 
-#### 1 disquete 5¼
+#### 1 5.25" Floppy Disk
 
-Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores, eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
+Due to the limited capacity of computers, 5.25" floppy disk adventures were short, with one scene per part and a maximum of two screens per scene. Perfect for an afternoon in front of your computer.
 
-#### 1 disquete de 3½
+#### 1 3.5" Floppy Disk
 
-Los ordenadores tienen ya más potencia y permiten alargar las tramas. Son aventuras ya más complejas que pueden suponer varias sesiones delante de la pantalla. Cada parte puede tener dos o más escenas y múltiples pantallas por cada una de esas escenas.
+Computers were now more powerful, allowing for longer storylines. These adventures were more complex and could take several sessions. Each part could have two or more scenes, and each scene could have multiple screens.
 
-#### Varios disquetes de 3½
+#### Several 3.5" Floppy Disks
 
-Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar varias aventuras gráficas seguidas con la misma temática y personajes/villanos recurrentes. Hablamos de sagas como los «KingQuest» o los «Monkey Island».
+We're now talking about many hours of gameplay, which can usually involve several AG played consecutively with the same theme and recurring characters/villains. We're talking about series like «KingQuest» or «Monkey Island».
 
-### Primeros toques
+### First Steps
 
-Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
+Once the duration is decided, you need to proceed as when creating a character: choose their resolution, two themes, and select their developer. Resolution:
 
-* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores, olvídate de hacer puzzles con colores.
-* **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
-* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
+* **CGA:** The low resolution and lack of color in these adventures make it difficult to interact with on-screen elements. All possible rolls have a -1 penalty. Fortunately, players can place pixels (at the GM's discretion) to transform one object or clickable element into another, provided they are very similar. For example, they could transform a candle into a lit stick of dynamite. Also, with so few colors, forget about creating color-based puzzles.
+* **EGA:** AGs in EGA have an acceptable and normal amount of color and resolution and neither add to nor detract from the adventures.
+* **VGA:** The higher resolution of VGA means that more extra pixels must be used than usual, because everything has more pixels, so every pixel expenditure costs one extra pixel. The resolution also causes Find the single pixels rolls to have an extra penalty of -1.
 Elige dos temáticas:
 
 * **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 

@@ -6,31 +6,31 @@
 
 \conc
 
-### Duración de una aventura
+### Adventure duration
 
-Para empezar a crear la aventura gráfica debes decidir su duración. La duración de una AG mide en disquetes y cada disquete es una sesión de juegos.
+To begin creating your AG, you must decide its duration. The duration of an adventure is measured in floppy disks, and each disk represents one game session.
 
-> Termina tus sesiones diciendo algo gracioso como «Introduce disquete número 2».
+> End your sessions by saying something funny like, "Insert disk number 2."
 
-#### 1 disquete 5¼
+#### 1 5.25" Floppy Disk
 
-Las aventuras en disquetes de 5¼, debido a la poca capacidad de los ordenadores, eran aventuras cortas con una escena por cada una de las partes y dos pantallas máximo cada escena. Perfectas para una tarde delante de tu pantalla.
+Due to the limited capacity of computers, 5.25" floppy disk adventures were short, with one scene per part and a maximum of two screens per scene. Perfect for an afternoon in front of your computer.
 
-#### 1 disquete de 3½
+#### 1 3.5" Floppy Disk
 
-Los ordenadores tienen ya más potencia y permiten alargar las tramas. Son aventuras ya más complejas que pueden suponer varias sesiones delante de la pantalla. Cada parte puede tener dos o más escenas y múltiples pantallas por cada una de esas escenas.
+Computers were now more powerful, allowing for longer storylines. These adventures were more complex and could take several sessions. Each part could have two or more scenes, and each scene could have multiple screens.
 
-#### Varios disquetes de 3½
+#### Several 3.5" Floppy Disks
 
-Estamos hablando ya de muchas horas de juego y que normalmente pueden involucrar varias aventuras gráficas seguidas con la misma temática y personajes/villanos recurrentes. Hablamos de sagas como los «KingQuest» o los «Monkey Island».
+We're now talking about many hours of gameplay, which can usually involve several AG played consecutively with the same theme and recurring characters/villains. We're talking about series like «KingQuest» or «Monkey Island».
 
-### Primeros toques
+### First Steps
 
-Una vez decidida la duración hay que hacer como cuando creas un personaje y elegir su resolución, 2 temáticas y escoger su desarrolladora. Resolución:
+Once the duration is decided, you need to proceed as when creating a character: choose their resolution, two themes, and select their developer. Resolution:
 
-* **CGA:** La baja resolución y la falta de colores de estas AG hace que sea difícil interactuar con los elementos en pantalla. Todas las posibles tiradas tiene un penalizador de -1. Por suerte, las jugadoras pueden poner píxeles (a discreción del DJ) para transformar un objeto o elemento clicable en otro siempre que sean muy parecidos. Por ejemplo, podrían transformar una vela en un cartucho de dinamita encendido. Además, al tener tan pocos colores, olvídate de hacer puzzles con colores.
-* **EGA:** Las aventuras en EGA tienen una cantidad de colores y resolución aceptable y normal y no añaden ni quitan nada a las AG.
-* **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
+* **CGA:** The low resolution and lack of color in these adventures make it difficult to interact with on-screen elements. All possible rolls have a -1 penalty. Fortunately, players can place pixels (at the GM's discretion) to transform one object or clickable element into another, provided they are very similar. For example, they could transform a candle into a lit stick of dynamite. Also, with so few colors, forget about creating color-based puzzles.
+* **EGA:** AGs in EGA have an acceptable and normal amount of color and resolution and neither add to nor detract from the adventures.
+* **VGA:** The higher resolution of VGA means that more extra pixels must be used than usual, because everything has more pixels, so every pixel expenditure costs one extra pixel. The resolution also causes Find the single pixels rolls to have an extra penalty of -1.
 
 \sp
 
