@@ -55,7 +55,7 @@ Each object occupies one equipment slot, and if you try to put a large barrel of
 
 ### Using Your Pixels
 
-Pixels are what make your character feel real, allowing them to do extraordinary things, exploiting glitches and bugs in the Game Master, reading game guides, trying everything with everything, and so on.
+Pixels are what make your character feel real, allowing them to do extraordinary things, exploiting glitches and bugs in the software, reading game guides, trying everything with everything, and so on.
 
 The possible uses of pixels are:
 
@@ -92,9 +92,9 @@ You recover pixels in certain situations:
 * Upon completing a scene, you recover up to half of your maximum pixels.
 * At the GM's discretion, if they deem it fun and fitting for their character and the story. **DON'T BE STINGY ABOUT GIVING AWAY PIXELS.**
 
-### Adventure Game special rules
+### Special rules of Adventure Games
 
- Adventure Games sometimes have their own logic, and all the following rules attempt to reflect that.
+Adventure Games sometimes have their own logic, and all the following rules attempt to reflect that.
 
 #### Object Permanence
 
