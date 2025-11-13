@@ -44,7 +44,7 @@ _November 2025_
 
 \sp
 
-|04PNJ.md|
+|04NPC.md|
 
 \sp
 

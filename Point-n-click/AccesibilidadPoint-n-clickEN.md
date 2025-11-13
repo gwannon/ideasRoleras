@@ -237,36 +237,35 @@ This action can only be performed **once per session** and with **all players ag
 
 * In case of death (as we'll see in AG creation), we will return to the save point, not to the beginning of the scene.
 * Since we usually only save when we think something important is about to happen or we might die, this action restores up to half of your character's maximum pixels. If your character has a maximum of 10 pixels and only 3 remain, they receive 2 more pixels. If they have 12 and only 8 remain, they don't receive any because they are already above half their maximum.
-## Personajes no jugables
+## Non-player character
 
-Hay un tipo especial de elementos clicables que son los personajes no jugadores. Hay 3 tipos de personajes no jugables:
+There is a special type of clickable element called non-player characters (NPCs). There are three types of NPCs:
 
-* **Unifrase:** Solo tienen una sola frase y están en una sola escena.
-* **Multifrases:** Tienen varias frases con alguna pista importante, pueden aparecer en diferentes escenas y recibir o dar algún objeto.
-* **Principales:** Personajes clave con montones de frases, aparecen en muchas escenas y dan muchas pistas y equipo constantemente.
+* **Monophrase:** They only have one line and appear in only one scene.
+* **Multiphrases:** They have several lines with an important clue, can appear in different scenes, and can give or receive items.
+* **Main characters:** Key characters with many lines, appear in many scenes, and constantly give clues and equipment.
 
-> Los tipos no son fijos, un personaje unifrase puede convertirse en multifrase en otra parte de la aventura.
+> These types are not fixed; a monophrase character can become a multiphrase character later in the adventure.
 
-### Unifrase
+### Monophrase
+These characters are the simplest in the Game Guides and only have one line they utter when you try to talk to them. They usually say silly things or jokes, and in a few cases, they offer a very cryptic clue. Some have a simple movement routine, like walking from one point to another or pushing a large stone block.
 
-Estos personajes son los más simples de las AG y simplemente tienen una frase que sueltan cuando intentas hablar con ellos. Normalmente, dicen tonterías o chistes y en algunos casos, los menos, dan alguna pista muy críptica. Alguno tienen alguna simple rutina de movimiento como andar de un punto a otro o empujar un gran bloque de piedra.
+Recording the line they're going to say is enough. Aside from uttering their line, they're not much else to use.
 
-Con que registres la frase que van a soltar es suficiente. Aparte de soltar su frase, para poco más valen.
+Some of them, especially those with movement capabilities, can be used as clickable elements to solve a challenge or puzzle. For example, you could smear grease on a monophrase character so that seagulls attack it, causing it to drop its oil barrel and make another, more important NPC slip.
 
-Algunos de ellos, sobre todo si tienen movimientos, pueden usarse como elementos clicables para resolver algún reto o puzzle. Igual untas de sebo a un unifrase para que le ataquen las gaviotas y se le caiga el tonel de aceite haciendo que resbale otro PNJ más importante.
-
-#### Señora con andador (unifrase)
+#### Old lady with walker (monophrase)
 
 [![Angry Old Lady by pngaaa.com](./images/674344-middle.png "Angry Old Lady by pngaaa.com")](https://www.pngaaa.com/detail/674344 "Angry Old Lady by pngaaa.com")
 
-Su única frase es «¿Ha pensado en introducir más fibra en su dieta?». Se mueve lentamente con el andador y cuando entras en su pantalla está en un punto aleatorio.
+His only sentence is, "Have you thought about adding more fiber to your diet?" He moves slowly with his walker, and when you enter his screen, he's at a random point.
 
-#### Perro con hueso (unifrase)
+#### Dog with a bone (monophrase)
 
 [![Pixel dalmatian dogs with toy bones image by Chibitheo](./images/perro-hueso.png "Pixel dalmatian dogs with toy bones image by Chibitheo")](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779 "Pixel dalmatian dogs with toy bones image by Chibitheo")
 
-Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase es «Grrrrr» cuando te acercas al bote de las limosnas del ciego o intentas quitarle el hueso que tiene a sus pies. Tal vez puedas distraerle con un chuletón, un gato o una pelota.
-### Multifrases
+It stands next to a blind beggar on the main street. His only utterance is "Grrrrr" when you approach the blind man's donations or try to take the bone from his feet. Perhaps you can distract him with a steak, a cat, or a ball.
+### Multiphrases
 
 Son personajes **más complejos** que los anteriores, con más frases, objetos que pueden dar o recibir y alguna rutina de movimiento. Seguramente tengan alguna tarea como dar información sobre cierto asunto, evitar que puedan acceder a cierta zona o que consigan ciertos objetos. 
 
@@ -276,7 +275,7 @@ En caso de que debamos conseguir algo de ellos (información, objetos o acceso),
 
 También deberías apuntarles algunas debilidades que las jugadoras puedan aprovechar y que seguramente ellos mismos u otros personajes les comenten a las jugadoras.
 
-#### Tipo sospechoso en un callejón (multifrase)
+#### Tipo sospechoso en un callejón (multiphrase)
 
 [![Shadowy Alley Show the detective silhouetted by Fedor Lunin](./images/figura-callejon.png "Shadowy Alley Show the detective silhouetted by Fedor Lunin")](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene "Shadowy Alley Show the detective silhouetted by Fedor Lunin")
 
@@ -287,14 +286,14 @@ Si te acercas, es un vendedor de globos de helio de formas divertidas. Puedes ha
 
 Si le consigues **una buena carta Pokémon, te dará un montón de globos de helio** que podrías usar para levantar algo pesado o volar unos metros. También puedes conseguir los globos con algo que parezca una criptomoneda como los tokens de la lavandería.
 
-### Principales
+### Main characters
 
 Son tan complejo como tus propias jugadoras, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadoras o personajes con mucho peso en la historia.  
 
 Si son el villano, no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
-Es normal que empezarán como multifrase y un cambio en la historia los convierta en principales. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multifrase), sea secuestrado y se convierta en principal.
-#### Capitán vampirata (principal/villano)
+Es normal que empezarán como multiphrase y un cambio en la historia los convierta en main characters. Quizás el pilluelo de la calle que te da rumores del mundo criminal (multiphrase), sea secuestrado y se convierta en main character.
+#### Vampirate captain (main character/villano)
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
 
