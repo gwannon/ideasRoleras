@@ -102,7 +102,7 @@ To solve the challenges in each scene, **you must move between the different scr
 
 There may be screens that are inherently challenging to enter, requiring you to solve a puzzle to gain access. For example, you might have to convince the dean's secretary that there's free frozen yogurt in the university cafeteria and, on top of that, find the office key hidden under the ficus planter.
 
-Upon **entering a new screen**, the GM should **describe all the clickable elements in the scene**. Initially, the PCs can only interact with clickable elements, but as we'll see later, by spending pixels, they can interact with other, previously non-clickable elements.
+Upon **entering a new screen**, the GM should **describe all the clickable items in the scene**. Initially, the PCs can only interact with clickable items, but as we'll see later, by spending pixels, they can interact with other, previously non-clickable items.
 
 The GM should also provide an **indication of how this screen connects to others** that don't have a direct logical link. If you're in a bell tower, the GM can mention that the screen is above the screen for the church entrance, and the harbor lighthouse is visible in the distance. This will suggest to the PCs that they might be able to interact with the lighthouse from here, for instance, using the binoculars they stole from the museum.
 
@@ -112,9 +112,9 @@ There are different types of possible actions:
 
 * Verb + Equipment
 * Verb + Equipment + Equipment
-* Verb + Clickable Element in the Scene
-* Verb + Equipment + Clickable Element in the Scene
-* Insert + Clickable Element / Remove + Equipment
+* Verb + Clickable item in the Scene
+* Verb + Equipment + Clickable item in the Scene
+* Insert + Clickable item / Remove + Equipment
 
 Actions can or cannot be performed; there is no possibility of success or failure. Therefore, normally there are no rolls.
 
@@ -151,7 +151,7 @@ If you spend pixels, you can read a game guide from your favorite video game mag
 
 #### Try Everything with Everything
 
-You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable element in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
+You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable item in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
 
 #### Parallel Plot
 
@@ -442,63 +442,63 @@ Finally, if you haven't already, add a cool mechanic that sets your adventure ap
 
 * In «Loom», they aren't verbs, they're combinations of musical notes, and if you play them backward, they do the opposite. If Do Re Mi opens things, Mi Re Do closes them.
 * The «Monkey Island» games have their insult duels where you must learn sharp insults and their comebacks to defeat your enemies in sword fights.
-* «The Dig» had its colored rod puzzles with different polyhedra. You had to find the right combination from different clues you saw throughout the adventure.## El enigma de la Península del Simio
+* «The Dig» had its colored rod puzzles with different polyhedra. You had to find the right combination from different clues you saw throughout the adventure.## The enigma of the Ape Peninsula
 
-_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
+_Deep in the Caribbean lies a peninsula surrounded by water on all sides, called the Ape Peninsula. Venture into its dark grottoes, dense jungles, and well-stocked gift and souvenir shops to become a true buccaneer._
 
-_Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
+_You'll have to face zombie ships, vampire pirate captains, talking shrunken heads, and plenty of apes, using your intelligence, your wit, and the powerful, sometimes explosive, magic of voodoo._
 
-_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
+_If you're lucky enough to avoid scurvy, you might just survive this adventure and find the greatest pirate treasure ever known, Mac'n Cheese, earning the respect of the entire Caribbean._
 
-«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
+«The enigma of the Ape Peninsula» is a graphic adventure game for EGA, released on three 3.5-inch floppy disks. Its genre is humor and fantasy, and it was developed by LucasArts Games. This chapter comprises only the first of the three disks that make up the complete campaign.
 
-### Disquete I: Cómo ser un pirata
+### Diskette #1: How to Be a Pirate
 
-Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
+Your PCs have just arrived in Bucan Ville, a pirate haven, with the intention of becoming pirates and making a fortune through piracy.
 
-Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las Jefas Piratas les den el título de piratas tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
+This part is divided into four scenes. The first is a brief introduction. Then there are two parallel scenes: one in which the Pirate Bosses grant them the title of pirate after they pass a test, and another in which they acquire a ship and its flag. The fourth scene is the heist of the governor's safe.
 
-#### 1. Inicio
+#### 1. Start
 
-Las PJ aparecen al anochecer en el puerto de Bucan Ville y gritarán «Me llamo [nombre de PJ] y quiero ser una pirata».
+The player characters appear at nightfall in the port of Bucan Ville and shout, "My name is [player character name] and I want to be a pirate!"
 
-##### Puerto
+##### Harbour
 
-En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna del Cangrejo Cocido**_, un antro de piratas donde el grog está aguado y los ganchitos y cacahuetes fueron grumetes de Barbanegra.
+In this filthy, shabby harbour, there's only one place to go: the _**Boiled Crab Tavern**_, a pirate den where the grog is watered down and the snacks and peanuts were once Blackbeard's cabin boys.
 
-A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral inunda su cubierta y bandadas de murciélagos lo sobrevuelan.
+In the distance, you can see a _**ship with tattered black sails**_. A ghostly glow floods its deck, and flocks of bats circle overhead.
 
-Desde el puerto puedes acceder al _**Centro de Bucan Ville**_.
+From the port, you can access the _**Bucan Ville Town Center**_.
 
-##### La Taberna del Cangrejo Cocido
+#### The Boiled Crab Tavern
 
-El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borrachos**_. Los pocos que no están durmiendo la mona, apenas pueden decir alguna frase:
+The place is a dingy, old dive, packed with _**drunken pirates**_. The few who aren't passed out can barely manage a sentence:
 
-* Así que quieres ser un pirata, ¿no? Habla con las 3 _**Jefas Piratas**_.
-* El grog de mis tiempos sí que era grog, no como el de ahora que le ponen sombrillitas, clavo y hojitas de menta. Nosotros le poníamos clavos de verdad.
-* ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
-* Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
+* So you want to be a pirate, huh? Talk to the three _**Pirate Bosses**_.
+* The grog of my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
+* Have you heard of [Arrr! Cthulhu](https://arrrcthulhu.com/), an excellent setting for pirate adventures in a Caribbean of the Cthulhu Mythos?
+* They stole my idea for the monkey-traffic light. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
 
-En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
+At a large table in the back sit the _**3 Pirate Bosses**_. The most powerful pirates of Bucan Ville, chosen by the democratic method of slaughtering all their competition.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
+These three rude pirates are at the table, swigging grog and singing bawdy songs. When your players explain that they want to be pirates, they'll laugh a lot and tell them to stop wasting their time and go back to what they were doing. Your players will have to prove they really want to be pirates by answering questions like these.
 
-* ¿Cuál era la bandera de Barbanegra? - Un esqueleto con cuernos que sostiene un reloj de arena en la mano derecha y una lanza en la izquierda, utilizando la lanza para pinchar un corazón rojo que gotea tres gotas rojas de sangre.
-* ¿Cuál se llamaba el primer barco de Barbanegra? - La venganza de la Reina Ana.
-* ¿Cuál era el apodo de Stede Bonnet? - Caballero Pirata
+* What was Blackbeard's flag? - A horned skeleton holding an hourglass in its right hand and a spear in its left, using the spear to pierce a red heart that drips three drops of red blood.
+* What was the name of Blackbeard's first ship? - Queen Anne's Revenge.
+* What was Stede Bonnet's nickname? - Gentleman Pirate
 
-Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deberán cantar tus jugadoras). Tras un rato tratando de demostrar de que son merecedores de una prueba, accederán a hacerle es examen estandarizado del gremio de piratas que consiste en dos pruebas:
+They'll also be made to sing «Yo Ho Ho And a Bottle of Rum» (which your players will have to sing). After a while trying to prove they deserve a test, they'll agree to take the Pirate Guild's standardized exam, which consists of two tests:
 
-* Debes demostrar que estás al otro lado de la ley.
-* Tener tu propia nave acuática autopropulsada y crear su bandera pirata única y personalizada.
+* You must prove you're on the other side of the law.
+* You must own your own self-propelled watercraft and create its unique, personalized pirate flag.
 
-Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
+After explaining the standardized tests, they'll be made to sign some paperwork and given a __**discount voucher**_ for the _**Souvenir Shop**_. If they ask for any hints, they'll just be told to ask for Sam at the shipyard to see what ships they can offer.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
+On the table of the three _**Pirate Bosses**_, there's a fruit bowl with oranges, bananas, apples, Swiss vitamin C candies, and lemons, which they say are from their anti-scurvy campaign. If they ask, they can take a _**piece of fruit**_. Choose one at random and give it to them. If they eat it, they can ask for another. Until they finish it, the _**Pirate Bosses**_ will tell them to finish the other fruit they took first.
 
-#### 2.a Pasarse al otro lado de la ley
+#### 2.a Going over to the other side of the law
 
-Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+As the _**Pirate Bosses**_ have explained, to become a pirate you need to be on the other side of the law, or have proof of it.
 Hay varias opciones para cometer delitos:
 
 * La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
@@ -507,7 +507,7 @@ Hay varias opciones para cometer delitos:
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
 
-##### Centro de Bucan Ville
+##### Bucan Ville Center
 
 Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
 
@@ -526,9 +526,9 @@ Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 10
 Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
-##### Callejón oscuro
+##### Dark alley
 
-Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas figuras desaparecerán en las sombras. En cuanto salgan a la plaza, volverán las voces.
+It's just a distraction. When they enter, the voices will fall silent and figures will vanish into the shadows. As soon as they step back out into the plaza, the voices will return.
 
 #### 2.b Conseguir un barco y una bandera pirata
 
@@ -542,13 +542,13 @@ Si presentan la barca de remos a las _**Jefas piratas**_ sin vela les suspender�
 
 La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la Tienda de Souvenirs y que el dependiente les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
 
-##### Astilleros
+##### Shipyard
 
 Desde la Plaza Mayor se puede acceder a los astilleros de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
 Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
 
-Sam vive para diseñar y construir barcos ... a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
+Sam vive para diseñar y construir barcos … a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
 
 A pesar de ser un personaje principal y poder hablar sobre muchos temas, Sam solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
 
@@ -619,90 +619,90 @@ En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuer
 
 Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_.
 
-#### 5. ¿El final?
+#### 5. The end?
 
-Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
+When they finally manage to break into the governor's vault and are swimming in gold and jewels, they'll hear a loud cannon blast, and suddenly a cannonball will shatter one of the walls.
 
-Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
+While they recover from the explosion, they'll see the fearsome vampire captain DraChuckla enter through the hole with his ghoul henchmen to seize their loot while laughing at them.
 
-Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
+He'll approach the player characters, pluck a hair from each of them, and stick them to voodoo dolls, saying, "Just in case you become a problem," and then they'll fall unconscious.
 
-Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo y el gobernador Marlon atado y amordazado.
+When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon tied and gagged.
 
-### Disquetes II y III
+### Diskettes #2 and #3
 
-Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
+Here are some ideas for how you can continue this adventure, which could span disk 2 (the plot's climax) and disk 3 (the final resolution).
 
-* Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
-* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca, así que deben ser cuidadosos.
-* Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
-* Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
+* You could try to rescue the governor from DraChuckla's clutches.
+* You could try to find the Mac'n Cheese, the greatest pirate treasure ever known. DraChuckla is rumored to be after it, so you must be careful.
+* You could try to learn voodoo magic to see if you can counteract what DraChuckla does with his dolls.
+* Perhaps you could form a band and dedicate yourselves to playing reggae throughout the Caribbean.
 
-## Resumen de la aventura
+## Adventure summary
 
-### Astilleros  
+### Shipyard 
 
-* **PNJ:** Sam
-* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
-* **Conexiones:** Plaza Mayor de Bucan Ville
+* **NPC:** Sam
+* **Clickable elements:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat
+* **Connections:** Bucan Ville Main Square
 
 ### Bucan Ville
 
-#### Callejón oscuro
+#### Dark alley
 
-* **Conexiones:** Plaza Mayor de Bucan Ville
+* **Connections:** Bucan Ville Main Square
 
-#### Centro de Bucan Ville
+#### Bucan Ville Center
 
-* **PNJ:** Guardia de la ciudad
-* **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Plaza Mayor de Bucan Ville, Puerto, Tienda de Souvenirs
+* **NPC:** Town guard
+* **Clickable elements:** Ape-trafficlights
+* **Connections:** Bucan Ville Main Square, Harbour, Souvenirs shop
 
-#### Tienda de Souvenirs
+#### Souvenirs shop
 
-* **PNJ:** Maxine la roja
-* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
-* **Conexiones:** Centro de Bucan Ville
+* **NPC:** Red Maxine
+* **Clickable elements:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
+* **Connections:** Bucan Ville Center
 
 #### Plaza Mayor de Bucan Ville
 
-* **PNJ:** Pintor de cuadros
-* **Elementos clicables:** Juzgado, Montón de cuadros
-* **Conexiones:** Centro de Bucan Ville, Callejón oscuro
+* **NPC:** Painter
+* **Clickable elements:** Courts, Pile of pictures
+* **Connections:** Bucan Ville Center, Dark alley
 
-### Casa del gobernador 
+### Governor's house
 
 #### Exterior
 
-* **PNJ:** Pavos reales
-* **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real
-* **Conexiones:** Puerto, Casa del gobernador (Hall principal)
+* **NPC:** Peacocks
+* **Clickable elements:** EEquestrian statue of Governor Marlon, Peacock Feather
+* **Connections:** Harbour, Governor's house (Main Hall)
 
-#### Hall principal
+#### Main Hall
 
-* **Elementos clicables:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
-* **Conexiones:** Casa del gobernador (Exterior), Casa del gobernador (Sótano)
+* **Clickable elements:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
+* **Connections:** Governor's house (Exterior), Governor's house (Cellar)
 
-#### Sótano
+#### Cellar
 
-* **Elementos clicables:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
-* **Conexiones:** Casa del gobernador (Hall Principal)
-### Muelles
+* **Clickable elements:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Connections:** Governor's house (Main Hall)
+### Docks
 
-#### Puerto
+#### Harbour
 
-* **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville
+* **Clickable elements:** Ship with black sails
+* **Connections:** Boiled Crab Tavern, Bucan Ville Center
 
-#### Taberna del Cangrejo Cocido
+#### Boiled Crab Tavern
 
-* **PNJ:** Jefas Piratas, Piratas borrachos
-* **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
-* **Conexiones:** Puerto
+* **NPC:** Drunken pirates, Pirate Bosses
+* **Clickable elements:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
+* **Connections:** Harbour
 
-### Mapa de pantallas
+### Screens map
 
-![Mapa de pantallas](./images/mapa.png)## License and acknowledgments
+![Screens map](./images/mapaEN.png)## License and acknowledgments
 
 ### License CC BY 4.0
 

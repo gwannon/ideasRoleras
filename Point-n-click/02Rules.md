@@ -16,7 +16,7 @@ To solve the challenges in each scene, **you must move between the different scr
 
 There may be screens that are inherently challenging to enter, requiring you to solve a puzzle to gain access. For example, you might have to convince the dean's secretary that there's free frozen yogurt in the university cafeteria and, on top of that, find the office key hidden under the ficus planter.
 
-Upon **entering a new screen**, the GM should **describe all the clickable elements in the scene**. Initially, the PCs can only interact with clickable elements, but as we'll see later, by spending pixels, they can interact with other, previously non-clickable elements.
+Upon **entering a new screen**, the GM should **describe all the clickable items in the scene**. Initially, the PCs can only interact with clickable items, but as we'll see later, by spending pixels, they can interact with other, previously non-clickable items.
 
 The GM should also provide an **indication of how this screen connects to others** that don't have a direct logical link. If you're in a bell tower, the GM can mention that the screen is above the screen for the church entrance, and the harbor lighthouse is visible in the distance. This will suggest to the PCs that they might be able to interact with the lighthouse from here, for instance, using the binoculars they stole from the museum.
 
@@ -26,12 +26,12 @@ There are different types of possible actions:
 
 * Verb + Equipment
 * Verb + Equipment + Equipment
-* Verb + Clickable Element in the Scene
+* Verb + Clickable item in the Scene
 
 \sp
 
-* Verb + Equipment + Clickable Element in the Scene
-* Insert + Clickable Element / Remove + Equipment
+* Verb + Equipment + Clickable item in the Scene
+* Insert + Clickable item / Remove + Equipment
 
 Actions can or cannot be performed; there is no possibility of success or failure. Therefore, normally there are no rolls.
 
@@ -71,7 +71,7 @@ If you spend pixels, you can read a game guide from your favorite video game mag
 
 #### Try Everything with Everything
 
-You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable element in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
+You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable item in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
 
 #### Parallel Plot
 

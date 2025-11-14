@@ -28,7 +28,7 @@ We're now talking about many hours of gameplay, which can usually involve severa
 
 Once the duration is decided, you need to proceed as when creating a character: choose their resolution, two topics, and select their developer. Resolution:
 
-* **CGA:** The low resolution and lack of color in these adventures make it difficult to interact with on-screen elements. All possible rolls have a -1 penalty. Fortunately, players can place pixels (at the GM's discretion) to transform one object or clickable element into another, provided they are very similar. For example, they could transform a candle into a lit stick of dynamite. Also, with so few colors, forget about creating color-based puzzles.
+* **CGA:** The low resolution and lack of color in these adventures make it difficult to interact with on-screen elements. All possible rolls have a -1 penalty. Fortunately, players can place pixels (at the GM's discretion) to transform one object or clickable item into another, provided they are very similar. For example, they could transform a candle into a lit stick of dynamite. Also, with so few colors, forget about creating color-based puzzles.
 * **EGA:** AGs in EGA have an acceptable and normal amount of color and resolution and neither add to nor detract from the adventures.
 * **VGA:** The higher resolution of VGA means that more extra pixels must be used than usual, because everything has more pixels, so every pixel expenditure costs one extra pixel. The resolution also causes Find the single pixels rolls to have an extra penalty of -1.
 
@@ -38,7 +38,7 @@ Choose two topics:
 
 * **Science Fiction:** Science fiction is very broad and allows for a wide variety of topics, from adventures on alien planets to time travel or cloning. When setting up the adventure, you will need to establish a technological level and specify which technologies are available and which are not. There might be clones and psychic powers, but no space travel or robots.
 * **Franchise:** The adventure must feature the franchise's flagship hero or heroine, so one of your players cannot create their own character; they must be that iconic character, and you will provide them with a pre-made character.
-* **Fantasy:** Fantasy, and especially medieval fantasy, is a recurring theme, always closer to classic fairy tales with trolls under bridges and princesses and princes than to the D&D/Tolkien fantasy more typical of other role-playing games. The other option is entirely different magical worlds, like in the classic «Loom». In these GAs, your characters' verbs can be considered spells and do not need to be next to the clickable element, only on the same screen.
+* **Fantasy:** Fantasy, and especially medieval fantasy, is a recurring theme, always closer to classic fairy tales with trolls under bridges and princesses and princes than to the D&D/Tolkien fantasy more typical of other role-playing games. The other option is entirely different magical worlds, like in the classic «Loom». In these GAs, your characters' verbs can be considered spells and do not need to be next to the clickable item, only on the same screen.
 * **Horror:** These adventures should be highly deadly, and it can be very interesting to set up some kind of timer or clock to put pressure on the players. They have a certain number of attempts to finish a scene, and if they fail, the monster will end their lives.
 * **Humor:** Humorous adventures can't be deadly; it doesn't fit the tone. Dying and becoming a ghost, however, can be a funny scene.
 * **Mystery:** Perhaps a Sherlock Holmes story shouldn't be deadly, but something darker certainly should be.
@@ -102,21 +102,21 @@ A parallel scene might involve simultaneously investigating three clues found at
 
 ### Scenes and Screens
 
-Each scene will have one or more challenges and one or more screens. Creating a scene is as simple as defining what will happen in that scene and writing a couple of paragraphs describing what should happen. From there, you need to define the elements of that scene: screens, NPCs, and clickable elements, and how they relate to each other.
+Each scene will have one or more challenges and one or more screens. Creating a scene is as simple as defining what will happen in that scene and writing a couple of paragraphs describing what should happen. From there, you need to define the elements of that scene: screens, NPCs, and clickable items, and how they relate to each other.
 
-The easiest way to record all of this is to create a diagram of the screens with their clickable elements and the NPCs on them. You should also note how the screens connect, which connections can be used, and which connections are closed and need to be opened.
+The easiest way to record all of this is to create a diagram of the screens with their clickable items and the NPCs on them. You should also note how the screens connect, which connections can be used, and which connections are closed and need to be opened.
 
 The adventure «The Enigma of the Monkey Peninsula» shows you how to create this diagram.
 
 #### Challenges, Riddles, and Mini-Puzzles
 
-By challenges, we mean a combination of actions, clickable elements, and NPCs to solve a problem. We must define what we will need and how to obtain it; perhaps it's simply talking to someone specific, like the third passenger on the bus.
+By challenges, we mean a combination of actions, clickable items, and NPCs to solve a problem. We must define what we will need and how to obtain it; perhaps it's simply talking to someone specific, like the third passenger on the bus.
 
 \sp
 
 They can also be more complex options: take the ketchup packet from the table, give it to diner 1, who will thank you by giving you their mashed potatoes, and clog the toilet with the mashed potatoes so that the restaurant's cook has to leave the kitchen to fix it, allowing you to enter the kitchen.
 
-When examining clickable elements, they should have clues about how to use those objects, for example, with phrases like, «This mashed potato is so thick it could be cement». Talking to NPCs should also provide clues, such as, «I'm never coming back to this restaurant. The food is bland, and this is the worst mashed potato I've ever had». Perhaps placing a plunger near the cook is another clue, and when examining it, mentioning that it's very worn and has many hamburger grease stains.
+When examining clickable items, they should have clues about how to use those objects, for example, with phrases like, «This mashed potato is so thick it could be cement». Talking to NPCs should also provide clues, such as, «I'm never coming back to this restaurant. The food is bland, and this is the worst mashed potato I've ever had». Perhaps placing a plunger near the cook is another clue, and when examining it, mentioning that it's very worn and has many hamburger grease stains.
 
 To create riddles or mini-puzzles, you can draw inspiration from anything; you just need to adapt it to the AG's setting. If you want to include a sliding puzzle, it will have an Aztec image; if it's a pulp story, a 1920s theme; or circuits if it's a cyberpunk story.
 

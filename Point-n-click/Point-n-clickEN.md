@@ -52,7 +52,7 @@ _November 2025_
 
 \sp
 
-|06MisterioPeninsulaSimio.md|
+|06MisteryPeninsulaApe.md|
 
 \sp
 

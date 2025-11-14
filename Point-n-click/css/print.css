@@ -295,7 +295,8 @@ img {
   float: right;
 }
 
-img[alt='Mapa de pantallas'] {
+img[alt='Mapa de pantallas'],
+img[alt='Screens map'] {
   width: 100%;
   float: none;
 }

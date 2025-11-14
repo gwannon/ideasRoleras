@@ -6,7 +6,7 @@
 
 \conc
 
-There is a special type of clickable element called non-player characters (NPCs). There are three types of NPCs:
+There is a special type of clickable item called non-player characters (NPCs). There are three types of NPCs:
 
 * **Monophrase:** They only have one line and appear in only one scene.
 * **Multiphrases:** They have several lines with an important clue, can appear in different scenes, and can give or receive items.
@@ -19,7 +19,7 @@ These characters are the simplest in the Game Guides and only have one line they
 
 Recording the line they're going to say is enough. Aside from uttering their line, they're not much else to use.
 
-Some of them, especially those with movement capabilities, can be used as clickable elements to solve a challenge or puzzle. For example, you could smear grease on a monophrase character so that seagulls attack it, causing it to drop its oil barrel and make another, more important NPC slip.
+Some of them, especially those with movement capabilities, can be used as clickable items to solve a challenge or puzzle. For example, you could smear grease on a monophrase character so that seagulls attack it, causing it to drop its oil barrel and make another, more important NPC slip.
 
 #### Old lady with walker (monophrase)
 
