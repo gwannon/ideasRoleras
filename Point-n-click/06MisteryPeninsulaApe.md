@@ -254,10 +254,10 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Souvenirs shop
 
 * **NPC:** Red Maxine
-* **Clickable items:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
+* **Clickable items:** Twister vinyl pad, Stupid objects to use as a flag like Blackbeard's long underwear
 * **Connections:** Bucan Ville Center
 
-#### Plaza Mayor de Bucan Ville
+#### Bucan Ville Main Square
 
 * **NPC:** Painter
 * **Clickable items:** Courts, Pile of pictures
@@ -268,20 +268,18 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Exterior
 
 * **NPC:** Peacocks
-* **Clickable items:** EEquestrian statue of Governor Marlon, Peacock Feather
+* **Clickable items:** Equestrian statue of Governor Marlon, Peacock Feather
 * **Connections:** Harbour, Governor's house (Main Hall)
 
 #### Main Hall
 
-* **Clickable items:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
+* **Clickable items:** Chandelier candles, Pulley that raises and lowers the chandelier
 * **Connections:** Governor's house (Exterior), Governor's house (Cellar)
 
 #### Cellar
 
-* **Clickable items:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Clickable items:** Safe, Note with the safe combination (single pixel)
 * **Connections:** Governor's house (Main Hall)
-
-\sp
 
 ### Docks
 
@@ -289,6 +287,8 @@ Here are some ideas for how you can continue this adventure, which could span di
 
 * **Clickable items:** Ship with black sails
 * **Connections:** Boiled Crab Tavern, Bucan Ville Center
+
+\sp
 
 #### Boiled Crab Tavern
 

@@ -239,7 +239,7 @@ This action can only be performed **once per session** and with **all players ag
 * Since we usually only save when we think something important is about to happen or we might die, this action restores up to half of your character's maximum pixels. If your character has a maximum of 10 pixels and only 3 remain, they receive 2 more pixels. If they have 12 and only 8 remain, they don't receive any because they are already above half their maximum.
 ## Non-player character
 
-There is a special type of clickable element called non-player characters (NPCs). There are three types of NPCs:
+There is a special type of clickable item called non-player characters (NPCs). There are three types of NPCs:
 
 * **Monophrase:** They only have one line and appear in only one scene.
 * **Multiphrases:** They have several lines with an important clue, can appear in different scenes, and can give or receive items.
@@ -252,7 +252,7 @@ These characters are the simplest in the Game Guides and only have one line they
 
 Recording the line they're going to say is enough. Aside from uttering their line, they're not much else to use.
 
-Some of them, especially those with movement capabilities, can be used as clickable elements to solve a challenge or puzzle. For example, you could smear grease on a monophrase character so that seagulls attack it, causing it to drop its oil barrel and make another, more important NPC slip.
+Some of them, especially those with movement capabilities, can be used as clickable items to solve a challenge or puzzle. For example, you could smear grease on a monophrase character so that seagulls attack it, causing it to drop its oil barrel and make another, more important NPC slip.
 
 #### Old lady with walker (monophrase)
 
@@ -337,14 +337,14 @@ We're now talking about many hours of gameplay, which can usually involve severa
 
 Once the duration is decided, you need to proceed as when creating a character: choose their resolution, two topics, and select their developer. Resolution:
 
-* **CGA:** The low resolution and lack of color in these adventures make it difficult to interact with on-screen elements. All possible rolls have a -1 penalty. Fortunately, players can place pixels (at the GM's discretion) to transform one object or clickable element into another, provided they are very similar. For example, they could transform a candle into a lit stick of dynamite. Also, with so few colors, forget about creating color-based puzzles.
+* **CGA:** The low resolution and lack of color in these adventures make it difficult to interact with on-screen elements. All possible rolls have a -1 penalty. Fortunately, players can place pixels (at the GM's discretion) to transform one object or clickable item into another, provided they are very similar. For example, they could transform a candle into a lit stick of dynamite. Also, with so few colors, forget about creating color-based puzzles.
 * **EGA:** AGs in EGA have an acceptable and normal amount of color and resolution and neither add to nor detract from the adventures.
 * **VGA:** The higher resolution of VGA means that more extra pixels must be used than usual, because everything has more pixels, so every pixel expenditure costs one extra pixel. The resolution also causes Find the single pixels rolls to have an extra penalty of -1.
 Choose two topics:
 
 * **Science Fiction:** Science fiction is very broad and allows for a wide variety of topics, from adventures on alien planets to time travel or cloning. When setting up the adventure, you will need to establish a technological level and specify which technologies are available and which are not. There might be clones and psychic powers, but no space travel or robots.
 * **Franchise:** The adventure must feature the franchise's flagship hero or heroine, so one of your players cannot create their own character; they must be that iconic character, and you will provide them with a pre-made character.
-* **Fantasy:** Fantasy, and especially medieval fantasy, is a recurring theme, always closer to classic fairy tales with trolls under bridges and princesses and princes than to the D&D/Tolkien fantasy more typical of other role-playing games. The other option is entirely different magical worlds, like in the classic «Loom». In these GAs, your characters' verbs can be considered spells and do not need to be next to the clickable element, only on the same screen.
+* **Fantasy:** Fantasy, and especially medieval fantasy, is a recurring theme, always closer to classic fairy tales with trolls under bridges and princesses and princes than to the D&D/Tolkien fantasy more typical of other role-playing games. The other option is entirely different magical worlds, like in the classic «Loom». In these GAs, your characters' verbs can be considered spells and do not need to be next to the clickable item, only on the same screen.
 * **Horror:** These adventures should be highly deadly, and it can be very interesting to set up some kind of timer or clock to put pressure on the players. They have a certain number of attempts to finish a scene, and if they fail, the monster will end their lives.
 * **Humor:** Humorous adventures can't be deadly; it doesn't fit the tone. Dying and becoming a ghost, however, can be a funny scene.
 * **Mystery:** Perhaps a Sherlock Holmes story shouldn't be deadly, but something darker certainly should be.
@@ -402,18 +402,18 @@ A parallel scene might involve simultaneously investigating three clues found at
 
 ### Scenes and Screens
 
-Each scene will have one or more challenges and one or more screens. Creating a scene is as simple as defining what will happen in that scene and writing a couple of paragraphs describing what should happen. From there, you need to define the elements of that scene: screens, NPCs, and clickable elements, and how they relate to each other.
+Each scene will have one or more challenges and one or more screens. Creating a scene is as simple as defining what will happen in that scene and writing a couple of paragraphs describing what should happen. From there, you need to define the elements of that scene: screens, NPCs, and clickable items, and how they relate to each other.
 
-The easiest way to record all of this is to create a diagram of the screens with their clickable elements and the NPCs on them. You should also note how the screens connect, which connections can be used, and which connections are closed and need to be opened.
+The easiest way to record all of this is to create a diagram of the screens with their clickable items and the NPCs on them. You should also note how the screens connect, which connections can be used, and which connections are closed and need to be opened.
 
 The adventure «The Enigma of the Monkey Peninsula» shows you how to create this diagram.
 
 #### Challenges, Riddles, and Mini-Puzzles
 
-By challenges, we mean a combination of actions, clickable elements, and NPCs to solve a problem. We must define what we will need and how to obtain it; perhaps it's simply talking to someone specific, like the third passenger on the bus.
+By challenges, we mean a combination of actions, clickable items, and NPCs to solve a problem. We must define what we will need and how to obtain it; perhaps it's simply talking to someone specific, like the third passenger on the bus.
 They can also be more complex options: take the ketchup packet from the table, give it to diner 1, who will thank you by giving you their mashed potatoes, and clog the toilet with the mashed potatoes so that the restaurant's cook has to leave the kitchen to fix it, allowing you to enter the kitchen.
 
-When examining clickable elements, they should have clues about how to use those objects, for example, with phrases like, «This mashed potato is so thick it could be cement». Talking to NPCs should also provide clues, such as, «I'm never coming back to this restaurant. The food is bland, and this is the worst mashed potato I've ever had». Perhaps placing a plunger near the cook is another clue, and when examining it, mentioning that it's very worn and has many hamburger grease stains.
+When examining clickable items, they should have clues about how to use those objects, for example, with phrases like, «This mashed potato is so thick it could be cement». Talking to NPCs should also provide clues, such as, «I'm never coming back to this restaurant. The food is bland, and this is the worst mashed potato I've ever had». Perhaps placing a plunger near the cook is another clue, and when examining it, mentioning that it's very worn and has many hamburger grease stains.
 
 To create riddles or mini-puzzles, you can draw inspiration from anything; you just need to adapt it to the AG's setting. If you want to include a sliding puzzle, it will have an Aztec image; if it's a pulp story, a 1920s theme; or circuits if it's a cyberpunk story.
 
@@ -643,7 +643,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 ### Shipyard 
 
 * **NPC:** Sam
-* **Clickable elements:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat
+* **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat
 * **Connections:** Bucan Ville Main Square
 
 ### Bucan Ville
@@ -655,19 +655,19 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Bucan Ville Center
 
 * **NPC:** Town guard
-* **Clickable elements:** Ape-trafficlights
+* **Clickable items:** Ape-trafficlights
 * **Connections:** Bucan Ville Main Square, Harbour, Souvenirs shop
 
 #### Souvenirs shop
 
 * **NPC:** Red Maxine
-* **Clickable elements:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
+* **Clickable items:** Twister vinyl pad, Stupid objects to use as a flag like Blackbeard's long underwear
 * **Connections:** Bucan Ville Center
 
-#### Plaza Mayor de Bucan Ville
+#### Bucan Ville Main Square
 
 * **NPC:** Painter
-* **Clickable elements:** Courts, Pile of pictures
+* **Clickable items:** Courts, Pile of pictures
 * **Connections:** Bucan Ville Center, Dark alley
 
 ### Governor's house
@@ -675,29 +675,29 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Exterior
 
 * **NPC:** Peacocks
-* **Clickable elements:** EEquestrian statue of Governor Marlon, Peacock Feather
+* **Clickable items:** Equestrian statue of Governor Marlon, Peacock Feather
 * **Connections:** Harbour, Governor's house (Main Hall)
 
 #### Main Hall
 
-* **Clickable elements:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
+* **Clickable items:** Chandelier candles, Pulley that raises and lowers the chandelier
 * **Connections:** Governor's house (Exterior), Governor's house (Cellar)
 
 #### Cellar
 
-* **Clickable elements:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Clickable items:** Safe, Note with the safe combination (single pixel)
 * **Connections:** Governor's house (Main Hall)
+
 ### Docks
 
 #### Harbour
 
-* **Clickable elements:** Ship with black sails
+* **Clickable items:** Ship with black sails
 * **Connections:** Boiled Crab Tavern, Bucan Ville Center
-
 #### Boiled Crab Tavern
 
 * **NPC:** Drunken pirates, Pirate Bosses
-* **Clickable elements:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
+* **Clickable items:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
 * **Connections:** Harbour
 
 ### Screens map
