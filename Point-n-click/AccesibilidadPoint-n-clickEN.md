@@ -460,7 +460,7 @@ This part is divided into four scenes. The first is a brief introduction. Then t
 
 #### 1. Start
 
-The player characters appear at nightfall in the port of Bucan Ville and shout, "My name is [player character name] and I want to be a pirate!"
+The player characters appear at nightfall in the port of Bucan Ville and shout, «My name is [player character name] and I want to be a pirate!».
 
 ##### Harbour
 
@@ -504,13 +504,13 @@ There are several ways to commit crimes:
 
 * The easiest way is to run the red light at the _**ape-trafficlights**_ in Bucan Ville's _**Main square**_.
 * Another way is to stand to the left of the _**courthouse**_ and ask the _**painter**_ in the _**Main square**_ for help.
-* If they attempt other types of crimes, your characters will look at the screen and say things like, "My mother didn't raise a petty thief" or "This would get me in trouble with Santa Claus."
+* If they attempt other types of crimes, your characters will look at the screen and say things like, «My mother didn't raise a petty thief» or «This would get me in trouble with Santa Claus».
 
-If they seem lost at this point, emphasize the "other side of the law" or remind them of the drunken pirate at the _**Boiled Crab Tavern**_ who claimed to have invented the ape-trafficlights and ask them for a clue.
+If they seem lost at this point, emphasize the «other side of the law» or remind them of the drunken pirate at the _**Boiled Crab Tavern**_ who claimed to have invented the ape-trafficlights and ask them for a clue.
 
 ##### Bucan Ville Center
 
-The downtown streets are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads "Open 24 Hours."
+The downtown streets are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads «Open 24 Hours».
 
 To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**ape-trafficlights**_ and watched over by a _**city guard**_ who only says, «Move along, move along!» The monkey-traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
 
@@ -570,9 +570,9 @@ When someone tries to buy a clickable item, Maxine will spin some bizarre story 
 
 The only thing in the shop that could serve as a candle is a **Twister vinyl record** Pirate Edition with skulls, crossbones, treasure chests, and cannons instead of the colored circles.
 
-Like most of the things in her shop, she doesn't want to part with the vinyl record because it reminds her of when she used to "play" (wink, wink, knock, knock) Twister with Anne Bonny, Jack Rackham, and Mary Read aboard the "Ranger."
+Like most of the things in her shop, she doesn't want to part with the vinyl record because it reminds her of when she used to «play» (wink, wink, knock, knock) Twister with Anne Bonny, Jack Rackham, and Mary Read aboard the «Ranger».
 
-The _**discount voucher**_ the _**Pirate Bosses**_ gave them has a typo, and if you take _**Lulock Holmes' magnifying glass**_ (Lulock Holmes is Sherlock Holmes' Caribbean cousin and the first pirate detective in literature) you can read the fine print. Where it should say "Presenting this voucher will get you a 50% discount on pirate merchandise OR a 50% discount on board games," it actually says "Presenting this voucher will get you a 50% discount on pirate merchandise AND a 50% discount on board games."
+The _**discount voucher**_ the _**Pirate Bosses**_ gave them has a typo, and if you take _**Lulock Holmes' magnifying glass**_ (Lulock Holmes is Sherlock Holmes' Caribbean cousin and the first pirate detective in literature) you can read the fine print. Where it should say «Presenting this voucher will get you a 50% discount on pirate merchandise OR a 50% discount on board games», it actually says «Presenting this voucher will get you a 50% discount on pirate merchandise AND a 50% discount on board games».
 
 So, they can use the discount voucher to get the _**Twister vinyl**_ decal completely free, and Maxine can't refuse because, frankly, it's the cheapest and most useless thing she has in the shop.
 
@@ -580,7 +580,7 @@ Ideas for other silly things that might be in the shop and that you could put up
 
 * Blackbeard's red curls
 * Sir Francis Drake's dental splint
-* Anne Bonny action figure with a karate punch, red-light eyes, and a button that makes her say, "If you had fought like a man, you wouldn't be hanged like a dog now."
+* Anne Bonny action figure with a karate punch, red-light eyes, and a button that makes her say, «If you had fought like a man, you wouldn't be hanged like a dog now».
 * Long John Silver's running wooden leg
 * Unofficial Pirates of the Caribbean merchandise signed by the main characters' stunt doubles
 * A signed and dedicated photo of Ron Gilbert saying not to buy video games over $20.
@@ -622,11 +622,11 @@ There's very little light in the cellar, and they'll only be able to find the ex
 
 #### 5. The end?
 
-When they finally manage to break into the governor's vault and are swimming in gold and jewels, they'll hear a loud cannon blast, and suddenly a cannonball will shatter one of the walls.
+When they finally manage to break into the governor's safe and are swimming in gold and jewels, they'll hear a loud cannon blast, and suddenly a cannonball will shatter one of the walls.
 
 While they recover from the explosion, they'll see the fearsome vampire captain DraChuckla enter through the hole with his ghoul henchmen to seize their loot while laughing at them.
 
-He'll approach the player characters, pluck a hair from each of them, and stick them to voodoo dolls, saying, "Just in case you become a problem," and then they'll fall unconscious.
+He'll approach the player characters, pluck a hair from each of them, and stick them to voodoo dolls, saying, «Just in case you become a problem», and then they'll fall unconscious.
 
 When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon tied and gagged.
 
