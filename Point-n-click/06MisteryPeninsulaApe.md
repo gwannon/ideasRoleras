@@ -65,45 +65,46 @@ On the table of the three _**Pirate Bosses**_, there's a fruit bowl with oranges
 
 As the _**Pirate Bosses**_ have explained, to become a pirate you need to be on the other side of the law, or have proof of it.
 
-\sp
-
 There are several ways to commit crimes:
 
 * The easiest way is to run the red light at the _**ape-trafficlights**_ in Bucan Ville's _**Main square**_.
 * Another way is to stand to the left of the _**courthouse**_ and ask the _**painter**_ in the _**Main square**_ for help.
+
+\sp
+
 * If they attempt other types of crimes, your characters will look at the screen and say things like, "My mother didn't raise a petty thief" or "This would get me in trouble with Santa Claus."
 
 If they seem lost at this point, emphasize the "other side of the law" or remind them of the drunken pirate at the _**Boiled Crab Tavern**_ who claimed to have invented the ape-trafficlights and ask them for a clue.
 
 ##### Bucan Ville Center
 
-Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
+The downtown streets are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads "Open 24 Hours."
 
-Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra dirigido por un _**simio-semáforo**_ y vigilado por un _**guardia de la ciudad**_ que solo dice «¡Circulen, circulen!». El simio-semáforo es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
+To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**ape-trafficlights**_ and watched over by a _**city guard**_ who only says, «Move along, move along!» The monkey-traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
 
-Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás una fuera de la ley.
+No matter how hard you try, the monkey always sets it to green. The only way to cross on red is to give the monkey a banana when the light is red, and as it eats the banana, it stays red. At that moment you can cross and the _**city guard**_ will give you a _**fine**_ and, therefore, you will be an outlaw.
 
-##### Plaza Mayor de Bucan Ville
+##### Bucan Ville Main square
 
-La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con un único _**árbol seco**_ en el centro con un cartel que pone «Árbol para colgar piratas - Cerrado por reformas».
+The Main square is like all plazas, a large, empty cobblestone space with a single _**withered tree**_ in the center bearing a sign that reads «Tree for Hanging Pirates - Closed for Renovations».
 
-En el centro de la plaza hay un _**pintor de cuadros**_ que está pintando el ayuntamiento. Pinta los cuadros a una velocidad superrápida y los deja en un _**montón**_ que está a su lado. Si los examinan, verán que no son muy buenos.
+In the center of the plaza, a _**painter**_ is busy painting the town hall. He paints the pictures at lightning speed and leaves them in a _**pile**_ beside him. If you examine them closely, you'll see they aren't very good.
 
-Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 1000 cuadros iguales del ayuntamiento para la campaña de recaudación para la reelección del gobernador.
+If you try to talk to him, he'll tell you he's very busy; he has to paint 1,000 identical pictures of the town hall for the fundraising campaign for the governor's reelection.
 
-Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
+Next to the town hall is the _**courthouse**_. As you approach, you'll see that it's open from midnight to midnight, except on weekends when it's closed. If they stand to the left of the painter before he starts a new painting and wait until he finishes, they can pick up a painting where they are next to the courthouse—that is, on the other side of the law, as the _**Pirate Bosses**_ requested.
 
-Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
-
-\sp
+On the other side of the town hall, they can access a _**dark alley**_ from which random snippets of a conversation emerge.
 
 ##### Dark alley
 
 It's just a distraction. When they enter, the voices will fall silent and figures will vanish into the shadows. As soon as they step back out into the plaza, the voices will return.
 
-#### 2.b Conseguir un barco y una bandera pirata
+\sp
 
-El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
+#### 2.b Get a pirate ship and flag
+
+El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
 
 Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
 
@@ -135,7 +136,7 @@ Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y a
 
 Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
 
-##### Tienda de souvenirs
+##### Souvenir Shop
 
 Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan Ville. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
 
@@ -161,19 +162,19 @@ Ideas para otras chorradas que puede haber en la tienda y que puedes poner como 
 * Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
 * Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
 
-#### 3. Ya eres una pirata
+#### 3. You are already a pirate
 
 Pueden entregar las pruebas de que son auténticas piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará piratas de pleno derecho y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineras de agua dulce entre risas socarronas.
 
 Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
 
-#### 4. Robar al gobernador
+#### 4. Stealing the governor's safe
 
 A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
 
 Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
 
-##### Exterior de la casa del gobernador
+##### Exterior of the governor's house
 
 La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
 
@@ -185,7 +186,7 @@ Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no mira
 
 \sp
 
-##### Hall principal de la casa del gobernador
+##### Main hall of the governor's house
 
 Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
 
@@ -193,11 +194,11 @@ Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas
 
 Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarrás que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
 
-##### Sótano de la casa del gobernador
+##### Cellar hall of the governor's house
 
-En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
+It's dark in the cellar, and all that's visible is the large _**safe door**_, covered in locks, combination dials, and gears. It looks incredibly complex—so complex, in fact, that Governor Marlon has hidden a note on a specific pixel of the screen with instructions on how to open it.
 
-Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_.
+There's very little light in the cellar, and they'll only be able to find the exact pixel if they can get some light. The only light source will be the _**candles in the chandelier**_ in the _**main hall**_. If they try to bring in a light source from elsewhere (making something clickable), make it difficult for them, because they will be electric or gas-powered.
 
 #### 5. The end?
 

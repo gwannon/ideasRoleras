@@ -529,7 +529,7 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 #### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**Astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
+El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
 
 Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
 
@@ -541,7 +541,7 @@ La bandera no es un reto, déjales usar lo que encuentren para hacerse su bander
 
 ##### Astilleros
 
-Desde la Plaza Mayor se puede acceder a los astilleros de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
+Desde la _**Plaza Mayor**_ se puede acceder a los _**astilleros**_ de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
 Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
 
@@ -614,7 +614,7 @@ Déjales que busque por las pantallas algo que no sea clicables y que sirva de l
 
 En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
 
-Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_.
+Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
 
 #### 5. ¿El final?
 
