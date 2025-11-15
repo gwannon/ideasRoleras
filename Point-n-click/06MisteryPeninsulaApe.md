@@ -42,7 +42,7 @@ The place is a dingy, old dive, packed with _**drunken pirates**_. The few who a
 
 * The grog of my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
 * Have you heard of [Arrr! Cthulhu](https://arrrcthulhu.com/), an excellent setting for pirate adventures in a Caribbean of the Cthulhu Mythos?
-* They stole my idea for the monkey-traffic light. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
+* They stole my idea for the ape-trafficlights. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
 
 At a large table in the back sit the _**3 Pirate Bosses**_. The most powerful pirates of Bucan Ville, chosen by the democratic method of slaughtering all their competition.
 
@@ -67,13 +67,13 @@ As the _**Pirate Bosses**_ have explained, to become a pirate you need to be on 
 
 \sp
 
-Hay varias opciones para cometer delitos:
+There are several ways to commit crimes:
 
-* La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
-* Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
-* Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
+* The easiest way is to run the red light at the _**ape-trafficlights**_ in Bucan Ville's _**Main square**_.
+* Another way is to stand to the left of the _**courthouse**_ and ask the _**painter**_ in the _**Main square**_ for help.
+* If they attempt other types of crimes, your characters will look at the screen and say things like, "My mother didn't raise a petty thief" or "This would get me in trouble with Santa Claus."
 
-Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
+If they seem lost at this point, emphasize the "other side of the law" or remind them of the drunken pirate at the _**Boiled Crab Tavern**_ who claimed to have invented the ape-trafficlights and ask them for a clue.
 
 ##### Bucan Ville Center
 
@@ -260,7 +260,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Bucan Ville Main Square
 
 * **NPC:** Painter
-* **Clickable items:** Courts, Pile of pictures
+* **Clickable items:** Courthouse, Pile of pictures
 * **Connections:** Bucan Ville Center, Dark alley
 
 ### Governor's house
@@ -293,7 +293,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Boiled Crab Tavern
 
 * **NPC:** Drunken pirates, Pirate Bosses
-* **Clickable items:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
+* **Clickable items:** Fruit bowl, Random piece of fruit, Souvenir Shop discount voucher
 * **Connections:** Harbour
 
 \sinc
