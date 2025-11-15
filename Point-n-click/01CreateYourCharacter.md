@@ -10,7 +10,7 @@ The first thing you need to do to start playing this role-playing game is to cre
 
 ### 1. Step - Defining Your Adventure Game
 
-The first thing is to choose which Adventure Game (AG) your character comes from. The AG where your character was originated determines their abilities. Being a character from "The Dig" is not the same as being one from "Maniac Mansion."
+The first thing is to choose which Adventure Game (AG) your character comes from. The AG where your character was originated determines their abilities. Being a character from «The Dig» is not the same as being one from «Maniac Mansion».
 
 When defining which AG your character come from, the first step is to give your AG a title and **choose the video resolution** in which it was developed. Your resolution determines the initial pixels of your character. Your pixel count is important because it allows you to do special things within the GA.
 

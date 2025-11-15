@@ -75,7 +75,7 @@ You can spend all your pixels (minimum 4) to try every item in your equipment wi
 
 #### Parallel Plot
 
-If a player spends all their points (minimum 4), they can request a parallel plot. A message will appear on screen saying "Meanwhile in [location]…" and the current villain will be seen speaking and revealing part of their plan or their next steps. It could also be some kind of important information, such as the ingredients of a chemical formula or the name of the magic grimoire containing the spell to destroy them.
+If a player spends all their points (minimum 4), they can request a parallel plot. A message will appear on screen saying «Meanwhile in [location]…» and the current villain will be seen speaking and revealing part of their plan or their next steps. It could also be some kind of important information, such as the ingredients of a chemical formula or the name of the magic grimoire containing the spell to destroy them.
 
 \sc
 
@@ -159,11 +159,11 @@ As the GM, you can request things like:
 \sc
 
 * No cell phones on the table.
-* If a die falls off the table, all players must stand up, turn around, shout "Ahoy sailors," and toast the DJ.
+* If a die falls off the table, all players must stand up, turn around, shout «Ahoy sailors», and toast the DJ.
 
 #### Saving the Game
 
-It's not necessary to explain what "saving the game" is; it's something many video games still do today. But we will explain how it applies to this role-playing game.
+It's not necessary to explain what «saving the game» is; it's something many video games still do today. But we will explain how it applies to this role-playing game.
 
 This action can only be performed **once per session** and with **all players agreeing**, and it provides several benefits.
 

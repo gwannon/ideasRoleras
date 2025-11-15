@@ -25,13 +25,13 @@ Some of them, especially those with movement capabilities, can be used as clicka
 
 [![Angry Old Lady by pngaaa.com](./images/674344-middle.png "Angry Old Lady by pngaaa.com")](https://www.pngaaa.com/detail/674344 "Angry Old Lady by pngaaa.com")
 
-His only sentence is, "Have you thought about adding more fiber to your diet?" He moves slowly with his walker, and when you enter his screen, he's at a random point.
+Her only sentence is, «Have you thought about adding more fiber to your diet?» She moves slowly with his walker, and when you enter her screen, she's at a random point.
 
 #### Dog with a bone (monophrase)
 
 [![Pixel dalmatian dogs with toy bones image by Chibitheo](./images/perro-hueso.png "Pixel dalmatian dogs with toy bones image by Chibitheo")](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779 "Pixel dalmatian dogs with toy bones image by Chibitheo")
 
-It stands next to a blind beggar on the main street. His only utterance is "Grrrrr" when you approach the blind man's donations or try to take the bone from his feet. Perhaps you can distract him with a steak, a cat, or a ball.
+Him stands next to a blind beggar on the main street. His only utterance is «Grrrrr» when you approach the blind man's donations or try to take the bone from his feet. Perhaps you can distract him with a steak, a cat, or a ball.
 
 ### Multiphrases
 
@@ -51,7 +51,7 @@ You should also note any weaknesses the players can exploit, which they or other
 
 [![Shadowy Alley Show the detective silhouetted by Fedor Lunin](./images/figura-callejon.png "Shadowy Alley Show the detective silhouetted by Fedor Lunin")](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene "Shadowy Alley Show the detective silhouetted by Fedor Lunin")
 
-You're walking down the street and suddenly from an alleyway comes a shout: "Hey, you, loser!" You ask, "Me?" and he replies, "Yeah, you, loser!" You go in and there's a suspicious-looking guy with a wide-brimmed hat that hides his face and a long trench coat that covers him to his feet.
+You're walking down the street and suddenly from an alleyway comes a shout: «Hey, you, loser!» You ask, «Me?» and he replies, «Yeah, you, loser!». You go in and there's a suspicious-looking guy with a wide-brimmed hat that hides his face and a long trench coat that covers him to his feet.
 
 Is he a thief about to rob you? A drug dealer, or worse, a Pokémon card dealer? A pervert? You don't know, and it's best not to approach him.
 

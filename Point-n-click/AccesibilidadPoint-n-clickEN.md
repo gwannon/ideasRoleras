@@ -22,7 +22,7 @@ The first thing you need to do to start playing this role-playing game is to cre
 
 ### 1. Step - Defining Your Adventure Game
 
-The first thing is to choose which Adventure Game (AG) your character comes from. The AG where your character was originated determines their abilities. Being a character from "The Dig" is not the same as being one from "Maniac Mansion."
+The first thing is to choose which Adventure Game (AG) your character comes from. The AG where your character was originated determines their abilities. Being a character from «The Dig» is not the same as being one from «Maniac Mansion».
 
 When defining which AG your character come from, the first step is to give your AG a title and **choose the video resolution** in which it was developed. Your resolution determines the initial pixels of your character. Your pixel count is important because it allows you to do special things within the GA.
 
@@ -155,7 +155,7 @@ You can spend all your pixels (minimum 4) to try every item in your equipment wi
 
 #### Parallel Plot
 
-If a player spends all their points (minimum 4), they can request a parallel plot. A message will appear on screen saying "Meanwhile in [location]…" and the current villain will be seen speaking and revealing part of their plan or their next steps. It could also be some kind of important information, such as the ingredients of a chemical formula or the name of the magic grimoire containing the spell to destroy them.
+If a player spends all their points (minimum 4), they can request a parallel plot. A message will appear on screen saying «Meanwhile in [location]…» and the current villain will be seen speaking and revealing part of their plan or their next steps. It could also be some kind of important information, such as the ingredients of a chemical formula or the name of the magic grimoire containing the spell to destroy them.
 #### Force the Theme
 
 By spending 1 pixel, players can force the theme of the adventure they are playing or the one they came from and gain a +1 bonus to a roll. For example, a character from a fantasy adventure can try to gain a +1 bonus to a roll if they have a sword duel, or in a science fiction adventure, a player can try to gain a +1 bonus to a Search roll by claiming that their tricorder's sensors are very advanced.
@@ -227,11 +227,11 @@ As the GM, you can request things like:
 
 * Only the GM can eat gummy bears, or there must always be popcorn in a bowl near the GM.
 * No cell phones on the table.
-* If a die falls off the table, all players must stand up, turn around, shout "Ahoy sailors," and toast the DJ.
+* If a die falls off the table, all players must stand up, turn around, shout «Ahoy sailors», and toast the DJ.
 
 #### Saving the Game
 
-It's not necessary to explain what "saving the game" is; it's something many video games still do today. But we will explain how it applies to this role-playing game.
+It's not necessary to explain what «saving the game» is; it's something many video games still do today. But we will explain how it applies to this role-playing game.
 
 This action can only be performed **once per session** and with **all players agreeing**, and it provides several benefits.
 
@@ -258,13 +258,13 @@ Some of them, especially those with movement capabilities, can be used as clicka
 
 [![Angry Old Lady by pngaaa.com](./images/674344-middle.png "Angry Old Lady by pngaaa.com")](https://www.pngaaa.com/detail/674344 "Angry Old Lady by pngaaa.com")
 
-His only sentence is, "Have you thought about adding more fiber to your diet?" He moves slowly with his walker, and when you enter his screen, he's at a random point.
+Her only sentence is, «Have you thought about adding more fiber to your diet?» She moves slowly with his walker, and when you enter her screen, she's at a random point.
 
 #### Dog with a bone (monophrase)
 
 [![Pixel dalmatian dogs with toy bones image by Chibitheo](./images/perro-hueso.png "Pixel dalmatian dogs with toy bones image by Chibitheo")](https://www.dreamstime.com/pixel-dalmatian-dogs-toy-bones-image-vector-illustration-pixel-art-pixel-dalmatian-dogs-toy-bones-image-vector-image222013779 "Pixel dalmatian dogs with toy bones image by Chibitheo")
 
-It stands next to a blind beggar on the main street. His only utterance is "Grrrrr" when you approach the blind man's donations or try to take the bone from his feet. Perhaps you can distract him with a steak, a cat, or a ball.
+Him stands next to a blind beggar on the main street. His only utterance is «Grrrrr» when you approach the blind man's donations or try to take the bone from his feet. Perhaps you can distract him with a steak, a cat, or a ball.
 
 ### Multiphrases
 
@@ -281,7 +281,7 @@ You should also note any weaknesses the players can exploit, which they or other
 
 [![Shadowy Alley Show the detective silhouetted by Fedor Lunin](./images/figura-callejon.png "Shadowy Alley Show the detective silhouetted by Fedor Lunin")](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene "Shadowy Alley Show the detective silhouetted by Fedor Lunin")
 
-You're walking down the street and suddenly from an alleyway comes a shout: "Hey, you, loser!" You ask, "Me?" and he replies, "Yeah, you, loser!" You go in and there's a suspicious-looking guy with a wide-brimmed hat that hides his face and a long trench coat that covers him to his feet.
+You're walking down the street and suddenly from an alleyway comes a shout: «Hey, you, loser!» You ask, «Me?» and he replies, «Yeah, you, loser!». You go in and there's a suspicious-looking guy with a wide-brimmed hat that hides his face and a long trench coat that covers him to his feet.
 
 Is he a thief about to rob you? A drug dealer, or worse, a Pokémon card dealer? A pervert? You don't know, and it's best not to approach him.
 
