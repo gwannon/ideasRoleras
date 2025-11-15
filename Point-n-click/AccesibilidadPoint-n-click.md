@@ -453,7 +453,7 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
 
-Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las Jefas Piratas les den el título de piratas tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
+Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las _**Jefas Piratas**_ les den el _**título de piratas**_ tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
 
 #### 1. Inicio
 

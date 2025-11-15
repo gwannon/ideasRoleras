@@ -456,7 +456,7 @@ _If you're lucky enough to avoid scurvy, you might just survive this adventure a
 
 Your PCs have just arrived in Bucan Ville, a pirate haven, with the intention of becoming pirates and making a fortune through piracy.
 
-This part is divided into four scenes. The first is a brief introduction. Then there are two parallel scenes: one in which the Pirate Bosses grant them the title of pirate after they pass a test, and another in which they acquire a ship and its flag. The fourth scene is the heist of the governor's safe.
+This part is divided into four scenes. The first is a brief introduction. Then there are two parallel scenes: one in which the _**Pirate Lady Bosses**_ grant them the _**title of pirate**_ after they pass a test, and another in which they acquire a ship and its flag. The fourth scene is the heist of the governor's safe.
 
 #### 1. Start
 
@@ -474,12 +474,12 @@ From the port, you can access the _**Bucan Ville Town Center**_.
 
 The place is a dingy, old dive, packed with _**drunken pirates**_. The few who aren't passed out can barely manage a sentence:
 
-* So you want to be a pirate, huh? Talk to the three _**Pirate Bosses**_.
+* So you want to be a pirate, huh? Talk to the three _**Pirate Lady Bosses**_.
 * The grog of my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
 * Have you heard of [Arrr! Cthulhu](https://arrrcthulhu.com/), an excellent setting for pirate adventures in a Caribbean of the Cthulhu Mythos?
 * They stole my idea for the ape-trafficlights. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
 
-At a large table in the back sit the _**3 Pirate Bosses**_. The most powerful pirates of Bucan Ville, chosen by the democratic method of slaughtering all their competition.
+At a large table in the back sit the _**3 Pirate Lady Bosses**_. The most powerful pirates of Bucan Ville, chosen by the democratic method of slaughtering all their competition.
 
 These three rude pirates are at the table, swigging grog and singing bawdy songs. When your players explain that they want to be pirates, they'll laugh a lot and tell them to stop wasting their time and go back to what they were doing. Your players will have to prove they really want to be pirates by answering questions like these.
 
@@ -494,11 +494,11 @@ They'll also be made to sing «Yo Ho Ho And a Bottle of Rum» (which your player
 
 After explaining the standardized tests, they'll be made to sign some paperwork and given a __**discount voucher**_ for the _**Souvenir Shop**_. If they ask for any hints, they'll just be told to ask for Sam at the shipyard to see what ships they can offer.
 
-On the table of the three _**Pirate Bosses**_, there's a fruit bowl with oranges, bananas, apples, Swiss vitamin C candies, and lemons, which they say are from their anti-scurvy campaign. If they ask, they can take a _**piece of fruit**_. Choose one at random and give it to them. If they eat it, they can ask for another. Until they finish it, the _**Pirate Bosses**_ will tell them to finish the other fruit they took first.
+On the table of the three _**Pirate Lady Bosses**_, there's a fruit bowl with oranges, bananas, apples, Swiss vitamin C candies, and lemons, which they say are from their anti-scurvy campaign. If they ask, they can take a _**piece of fruit**_. Choose one at random and give it to them. If they eat it, they can ask for another. Until they finish it, the _**Pirate Lady Bosses**_ will tell them to finish the other fruit they took first.
 
 #### 2.a Going over to the other side of the law
 
-As the _**Pirate Bosses**_ have explained, to become a pirate you need to be on the other side of the law, or have proof of it.
+As the _**Pirate Lady Bosses**_ have explained, to become a pirate you need to be on the other side of the law, or have proof of it.
 
 There are several ways to commit crimes:
 
@@ -524,7 +524,7 @@ In the center of the plaza, a _**painter**_ is busy painting the town hall. He p
 
 If you try to talk to him, he'll tell you he's very busy; he has to paint 1,000 identical pictures of the town hall for the fundraising campaign for the governor's reelection.
 
-Next to the town hall is the _**courthouse**_. As you approach, you'll see that it's open from midnight to midnight, except on weekends when it's closed. If they stand to the left of the painter before he starts a new painting and wait until he finishes, they can pick up a painting where they are next to the courthouse—that is, on the other side of the law, as the _**Pirate Bosses**_ requested.
+Next to the town hall is the _**courthouse**_. As you approach, you'll see that it's open from midnight to midnight, except on weekends when it's closed. If they stand to the left of the painter before he starts a new painting and wait until he finishes, they can pick up a painting where they are next to the courthouse—that is, on the other side of the law, as the _**Pirate Lady Bosses**_ requested.
 
 On the other side of the town hall, they can access a _**dark alley**_ from which random snippets of a conversation emerge.
 
@@ -539,7 +539,7 @@ For the sail fabric, they just need to get the _**Twister vinyl**_ from the _**S
 
 They might waste pixels converting non-clickable elements into clickable ones, like carpets, sheets, etc. When they take it to _**Sam**_, he'll give them some silly excuse.
 
-If they present the title deed of the rowboat to the _**Pirate Bosses**_ without a sail, they'll fail the test, shouting in unison, «It's not self-propelled!»
+If they present the title deed of the rowboat to the _**Pirate Lady Bosses**_ without a sail, they'll fail the test, shouting in unison, «It's not self-propelled!»
 
 The flag isn't a challenge; let them use whatever they find to make their flag, and if you can, make it as ridiculous as possible. They can use the _**discount voucher**_ at the _**Souvenir Shop**_, and the clerk can give them any silly thing you can think of to use for their flag.
 
@@ -572,7 +572,7 @@ The only thing in the shop that could serve as a candle is a **Twister vinyl rec
 
 Like most of the things in her shop, she doesn't want to part with the vinyl record because it reminds her of when she used to «play» (wink, wink, knock, knock) Twister with Anne Bonny, Jack Rackham, and Mary Read aboard the «Ranger».
 
-The _**discount voucher**_ the _**Pirate Bosses**_ gave them has a typo, and if you take _**Lulock Holmes' magnifying glass**_ (Lulock Holmes is Sherlock Holmes' Caribbean cousin and the first pirate detective in literature) you can read the fine print. Where it should say «Presenting this voucher will get you a 50% discount on pirate merchandise OR a 50% discount on board games», it actually says «Presenting this voucher will get you a 50% discount on pirate merchandise AND a 50% discount on board games».
+The _**discount voucher**_ the _**Pirate Lady Bosses**_ gave them has a typo, and if you take _**Lulock Holmes' magnifying glass**_ (Lulock Holmes is Sherlock Holmes' Caribbean cousin and the first pirate detective in literature) you can read the fine print. Where it should say «Presenting this voucher will get you a 50% discount on pirate merchandise OR a 50% discount on board games», it actually says «Presenting this voucher will get you a 50% discount on pirate merchandise AND a 50% discount on board games».
 
 So, they can use the discount voucher to get the _**Twister vinyl**_ decal completely free, and Maxine can't refuse because, frankly, it's the cheapest and most useless thing she has in the shop.
 
@@ -587,7 +587,7 @@ Ideas for other silly things that might be in the shop and that you could put up
 
 #### 3. You are already a pirate
 
-They can submit proof of their pirate status simultaneously or separately, but until they've fulfilled both requirements and proven it, they won't be considered full-fledged pirates, and the _**Pirate Bosses**_ will only call them cabin boys and/or landlubbers with mocking laughter.
+They can submit proof of their pirate status simultaneously or separately, but until they've fulfilled both requirements and proven it, they won't be considered full-fledged pirates, and the _**Pirate Lady Bosses**_ will only call them cabin boys and/or landlubbers with mocking laughter.
 
 After acquiring their ship and being on the wrong side of the law, the PCs can apply for their _**official Pirate Certificate**_, which identifies them as pirates, after paying the corresponding fee of one gold doubloon. You can use this as an opportunity to introduce new challenges, such as searching for loose change under the tavern's jukebox.
 
@@ -612,7 +612,7 @@ If you hide behind the _**equestrian statue**_ and hit them when they're not loo
 Upon entering the governor's house, you enter the main hall. It is large and luxurious, filled with works of art, expensive vases, ivory figures, and so on. The _**hall**_ is dimly lit by a few _**candles in a large chandelier**_.
 If you try to pull or push the _**pulleys that raise and lower the chandelier**_, they will creak, and you will see lights from the upper floor and hear the sounds of Governor Marlon loading his rifle. This makes it impossible to lower the chandelier while it's making noise; you need some kind of lubricant.
 
-Let them search the screens for something non-clickable that can serve as a lubricant, such as the grog the _**Pirate Bosses**_ drink, the turpentine the _**painter**_ in the _**Main Square**_ uses, etc., and make it clickable with their pixels.
+Let them search the screens for something non-clickable that can serve as a lubricant, such as the grog the _**Pirate Lady Bosses**_ drink, the turpentine the _**painter**_ in the _**Main Square**_ uses, etc., and make it clickable with their pixels.
 
 ##### Cellar hall of the governor's house
 
@@ -695,7 +695,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 * **Connections:** Boiled Crab Tavern, Bucan Ville Center
 #### Boiled Crab Tavern
 
-* **NPC:** Drunken pirates, Pirate Bosses
+* **NPC:** Drunken pirates, Pirate Lady Bosses
 * **Clickable items:** Fruit bowl, Random piece of fruit, Souvenir Shop discount voucher
 * **Connections:** Harbour
 
