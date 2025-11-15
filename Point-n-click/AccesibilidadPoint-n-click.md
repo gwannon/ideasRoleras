@@ -535,28 +535,28 @@ Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en
 
 Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
 
-Si presentan la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
+Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la Tienda de Souvenirs y que el dependiente les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
+La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
 
 ##### Astilleros
 
 Desde la _**Plaza Mayor**_ se puede acceder a los _**astilleros**_ de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
-Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
+Allí encontrarán a _**Sam**_, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
 
-Sam vive para diseñar y construir barcos ... a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
+_**Sam**_ vive para diseñar y construir barcos … a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
 
-A pesar de ser un personaje principal y poder hablar sobre muchos temas, Sam solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
+A pesar de ser un personaje principal y poder hablar sobre muchos temas, _**Sam**_ solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
 
 Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
 
-Sam las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
-Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
+_**Sam**__ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el _**título de propiedad**_ del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 
 Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
 
-Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
+Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. Con esto _**Sam**_ montará unas velas y cambiará la descripción del _**título de propiedad**_.
 
 ##### Tienda de souvenirs
 
@@ -640,7 +640,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 ### Astilleros  
 
 * **PNJ:** Sam
-* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos
+* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
 * **Conexiones:** Plaza Mayor de Bucan Ville
 
 ### Bucan Ville
@@ -658,7 +658,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 #### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
-* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra
+* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra, Lupa de Lulock Holmes
 * **Conexiones:** Centro de Bucan Ville
 
 #### Plaza Mayor de Bucan Ville
@@ -672,7 +672,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 #### Exterior
 
 * **PNJ:** Pavos reales
-* **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real
+* **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real, Tocado de plumas de pavo real
 * **Conexiones:** Puerto, Casa del gobernador (Hall principal)
 
 #### Hall principal

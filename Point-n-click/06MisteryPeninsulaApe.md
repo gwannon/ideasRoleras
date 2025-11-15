@@ -104,95 +104,95 @@ It's just a distraction. When they enter, the voices will fall silent and figure
 
 #### 2.b Get a pirate ship and flag
 
-El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
+The only place on the island that sells boats is the _**Shipyard**_, and the only thing your players can afford right now is a rowboat. The problem is, it's not self-propelled, so they'll have to find a way to build a sail for it.
 
-Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
+For the sail fabric, they just need to get the _**Twister vinyl**_ from the _**Souvenir Shop**_. The mast will simply be one of the oars, and they'll have to tell their idea to Sam, the Shipyard Manager.
 
-Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
+They might waste pixels converting non-clickable elements into clickable ones, like carpets, sheets, etc. When they take it to _**Sam**_, he'll give them some silly excuse.
 
-Si presentan la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
+If they present the title deed of the rowboat to the _**Pirate Bosses**_ without a sail, they'll fail the test, shouting in unison, «It's not self-propelled!»
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la Tienda de Souvenirs y que el dependiente les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
+The flag isn't a challenge; let them use whatever they find to make their flag, and if you can, make it as ridiculous as possible. They can use the _**discount voucher**_ at the _**Souvenir Shop**_, and the clerk can give them any silly thing you can think of to use for their flag.
 
-##### Shipyard
+##### Shipyards
 
-Desde la Plaza Mayor se puede acceder a los astilleros de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
+From the _**Main Square**_ you can access the Bucan Ville _**shipyards**_, where your players can also acquire a boat they can afford.
 
-Allí encontrarán a Sam, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
+There they'll find _**Sam**_, a nautical geek with thick glasses and a t-shirt that says, «Kiss me, I'm a model ship builder».
 
-Sam vive para diseñar y construir barcos … a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
+_**Sam**_ lives to design and build ships… to scale (he always says this quietly), and since he hasn't been able to dedicate himself to building them, he sells them.
 
-A pesar de ser un personaje principal y poder hablar sobre muchos temas, Sam solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
+Despite being a main character and being able to talk about many topics, _**Sam**_ only talks about ships, ship design, the history of navigation, nautical trivia, etc. If you try to talk about something else, he steers the conversation back to ships.
 
-Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
+If they tell him they want to buy a ship, he'll offer them what he has in stock: a luxury pirate ship, a second-hand pirate ship, and a fishing boat. When your players explain their financial situation—that is, zero doubloons—he'll take them to one side of the shipyard and show them an old _**rowboat**_ with a broken oar.
 
-Sam las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte**_ del _**gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+_**Sam**_ will casually mention that the _**luxury pirate ship**_ costs so many gold doubloons that they could only afford it by robbing the _**governor's safe**_, but it's truly luxurious. In fact, the wheel even has its own ebony coaster; the problem no one noticed is that when you turn it, it flips over and spills all the drinks.
+
+After tough negotiations, _**Sam**_ will accept 200 gold doubloons to be paid with their first act of piracy and plunder. He will give them the _**title deed**_ to the _**rowboat**_ and a _**stack of papers specifying the payment method**_, which they must not lose.
 
 \sp
 
-Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el título de propiedad del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
+To make it self-propelled, they will need something to serve as a mast and something to serve as a sail. There's a strike by sail and mast makers, and he's out of them, so your players will have to find something to replace it.
 
-Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
-
-Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. 
+As we've already mentioned, for the sail they'll need the _**Twister vinylpad**_, and for the mast, the unbroken oar. With this, _**Sam**_ will set some candles and change the description of the _**title deed**_.
 
 ##### Souvenir Shop
 
-Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan Ville. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
+Maxine the Red, the red-haired terror of the Caribbean, retired from piracy and used her earnings to open a souvenir shop selling famous pirate memorabilia in Bucan Ville. In her shop, you can find the most outlandish items from the pirate world, from a lock of Blackbeard's beard to Sir Francis Drake's mouthguard.
 
-Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como que tiene carcoma o pertenecía a un leproso.
+When someone tries to buy a clickable item, Maxine will spin some bizarre story to discourage them, such as it being infested with woodworm or belonging to a leper.
 
-Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con calaveras, tibias cruzadas, cofres del tesoro y cañones en vez de los círculos de colores.
+The only thing in the shop that could serve as a candle is a **Twister vinyl record** Pirate Edition with skulls, crossbones, treasure chests, and cannons instead of the colored circles.
 
-Como la mayoría de las cosas de su tienda, no quiere deshacerse del vinilo porque le recuerda a cuando «jugaba» (guiño, guiño, golpe, golpe) al Twister con Anne Bonny, Jack Rackham y Mary Read a bordo del «Ranger».
+Like most of the things in her shop, she doesn't want to part with the vinyl record because it reminds her of when she used to "play" (wink, wink, knock, knock) Twister with Anne Bonny, Jack Rackham, and Mary Read aboard the "Ranger."
 
-El _**vale de descuento**_ que les dieron las _**Jefas Piratas**_ tiene una errata y si cogen la _**lupa**_ de Lulock Holmes, el primo de las Antillas de Sherlock Holmes y el primer pirata detective de la literatura, podrán leer la letra pequeña. Donde debía poner «Al presentar este vale se conseguirá un 50% de descuento en material pirata O un 50% en juegos de mesa» en realidad pone «Al presentar este vale se conseguirá un 50% de descuento en material pirata Y un 50% en juegos de mesa».
+The _**discount voucher**_ the _**Pirate Bosses**_ gave them has a typo, and if you take _**Lulock Holmes' magnifying glass**_ (Lulock Holmes is Sherlock Holmes' Caribbean cousin and the first pirate detective in literature) you can read the fine print. Where it should say "Presenting this voucher will get you a 50% discount on pirate merchandise OR a 50% discount on board games," it actually says "Presenting this voucher will get you a 50% discount on pirate merchandise AND a 50% discount on board games."
 
-Así que pueden usar el vale de descuento para conseguir el _**vinilo del Twister**_ completamente gratis y Maxine no puede se negará porque la verdad es que lo más inútil y barato que tiene en la tienda.
+So, they can use the discount voucher to get the _**Twister vinyl**_ decal completely free, and Maxine can't refuse because, frankly, it's the cheapest and most useless thing she has in the shop.
 
-Ideas para otras chorradas que puede haber en la tienda y que puedes poner como elementos clicables, pero que Maxine no quiere vender porque le traen buenos recuerdos:
+Ideas for other silly things that might be in the shop and that you could put up as clickable items, but that Maxine doesn't want to sell because they bring back fond memories:
 
-* Rizos pelirrojos de la barba la Barbanegra
-* Férula de descarga dental de Sir Francis Drake
-* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro» 
+* Blackbeard's red curls
+* Sir Francis Drake's dental splint
+* Anne Bonny action figure with a karate punch, red-light eyes, and a button that makes her say, "If you had fought like a man, you wouldn't be hanged like a dog now."
+* Long John Silver's running wooden leg
+* Unofficial Pirates of the Caribbean merchandise signed by the main characters' stunt doubles
 
 \sp
 
-* Pata de palo de «running» de Long John Silver
-* Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
-* Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
+* A signed and dedicated photo of Ron Gilbert saying not to buy video games over $20.
 
 #### 3. You are already a pirate
 
-Pueden entregar las pruebas de que son auténticas piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará piratas de pleno derecho y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineras de agua dulce entre risas socarronas.
+They can submit proof of their pirate status simultaneously or separately, but until they've fulfilled both requirements and proven it, they won't be considered full-fledged pirates, and the _**Pirate Bosses**_ will only call them cabin boys and/or landlubbers with mocking laughter.
 
-Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
+After acquiring their ship and being on the wrong side of the law, the PCs can apply for their _**official Pirate Certificate**_, which identifies them as pirates, after paying the corresponding fee of one gold doubloon. You can use this as an opportunity to introduce new challenges, such as searching for loose change under the tavern's jukebox.
 
 #### 4. Stealing the governor's safe
 
-A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
+Throughout the previous scenes, your players will have heard about the governor, his safe, and the vast amounts of money he keeps inside. Since they can't attack comercial ships with their rowboat, they'll have to find a way to rob the governor so they can buy a real pirate ship.
 
-Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
+When they leave the Boiled Crab Tavern, you can tell them that they can access the governor's house from the harbor. In fact, there's now a giant neon sign at the harbor that reads, «Visit Governor Marlon's Museum, where the magic of democracy happens».
 
 ##### Exterior of the governor's house
 
-La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
+Governor Marlon's house is a Victorian home perched on a cliff overlooking the Caribbean Sea. It's luxurious and well-maintained; surely the upkeep and luxuries, like the _**equestrian statue of Governor Marlon**_, are paid for with the taxes of all the residents of Bucan Ville.
 
-Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
+Examining his statue, Governor Marlon is a fine example of a human being: long hair, a chiseled chin with a divine dimple, broad shoulders, a torso sculpted in stone, and powerful arms and legs.
 
-El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
+The exterior is guarded by _**peacocks**_ that squawk loudly as soon as they see you. Then a light from the second floor comes on, and Governor Marlon appears at the window to keep watch, armed with a black powder rifle. When he sees nothing suspicious, he goes back inside.
 
-Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
-
-\sp
+If you hide behind the _**equestrian statue**_ and hit them when they're not looking in your direction, you can take a _**feather**_ from them. When you have three feathers, you can make yourself a _**peacock feathers headdress**_ and the peacocks consider you one of their own and let you pass without notifying the governor.
 
 ##### Main hall of the governor's house
 
-Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
+Upon entering the governor's house, you enter the main hall. It is large and luxurious, filled with works of art, expensive vases, ivory figures, and so on. The _**hall**_ is dimly lit by a few _**candles in a large chandelier**_.
 
-Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas chirriarán y se verán luces desde el piso superior y sonidos del gobernador Marlon cargando su rifle. Eso hace que sea imposible bajar la lámpara mientras haga ruido, necesitan algún tipo de lubricante.
+\sp
 
-Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarrás que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
+If you try to pull or push the _**pulleys that raise and lower the chandelier**_, they will creak, and you will see lights from the upper floor and hear the sounds of Governor Marlon loading his rifle. This makes it impossible to lower the chandelier while it's making noise; you need some kind of lubricant.
+
+Let them search the screens for something non-clickable that can serve as a lubricant, such as the grog the _**Pirate Bosses**_ drink, the turpentine the _**painter**_ in the _**Main Square**_ uses, etc., and make it clickable with their pixels.
 
 ##### Cellar hall of the governor's house
 
@@ -202,7 +202,7 @@ There's very little light in the cellar, and they'll only be able to find the ex
 
 #### 5. The end?
 
-When they finally manage to break into the governor's vault and are swimming in gold and jewels, they'll hear a loud cannon blast, and suddenly a cannonball will shatter one of the walls.
+When they finally manage to break into the governor's safe and are swimming in gold and jewels, they'll hear a loud cannon blast, and suddenly a cannonball will shatter one of the walls.
 
 While they recover from the explosion, they'll see the fearsome vampire captain DraChuckla enter through the hole with his ghoul henchmen to seize their loot while laughing at them.
 
@@ -216,13 +216,8 @@ Here are some ideas for how you can continue this adventure, which could span di
 
 * You could try to rescue the governor from DraChuckla's clutches.
 * You could try to find the Mac'n Cheese, the greatest pirate treasure ever known. DraChuckla is rumored to be after it, so you must be careful.
-
-\sp
-
 * You could try to learn voodoo magic to see if you can counteract what DraChuckla does with his dolls.
 * Perhaps you could form a band and dedicate yourselves to playing reggae throughout the Caribbean.
-
-\sc
 
 \sp
 
@@ -237,7 +232,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 ### Shipyard 
 
 * **NPC:** Sam
-* **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat
+* **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat, Title deed of rowboat, Stack of papers specifying the payment method
 * **Connections:** Bucan Ville Main Square
 
 ### Bucan Ville
@@ -255,7 +250,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Souvenirs shop
 
 * **NPC:** Red Maxine
-* **Clickable items:** Twister vinyl pad, Stupid objects to use as a flag like Blackbeard's long underwear
+* **Clickable items:** Twister vinyl pad, Stupid objects to use as a flag like Blackbeard's long underwear, Lulock Holmes' magnifying glass
 * **Connections:** Bucan Ville Center
 
 #### Bucan Ville Main Square
@@ -269,7 +264,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 #### Exterior
 
 * **NPC:** Peacocks
-* **Clickable items:** Equestrian statue of Governor Marlon, Peacock Feather
+* **Clickable items:** Equestrian statue of Governor Marlon, Peacock Feather, Peacock feathers headdress
 * **Connections:** Harbour, Governor's house (Main Hall)
 
 #### Main Hall
