@@ -30,7 +30,7 @@ To play you will need **paper, pencils and 6-sided dice (d6)**. On the last page
 
 |INDICE|
 
-_Version 1.0_
+_Version 1.1_
 
 _November 2025_
 

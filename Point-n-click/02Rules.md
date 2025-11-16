@@ -45,9 +45,9 @@ On the other hand, logic dictates whether equipment is consumed when used. A mat
 
 ### The Equipment
 
-In each slot, you can place one object that shouldn't be larger than something that would fit in your pockets or a backpack. Weight doesn't matter; as long as it fits in a backpack and there are free spaces, you can put it in.
+In each slot, you can place one object that shouldn't be larger than something that would fit in your pockets or a backpack. Weight doesn't matter; as long as it fits in a backpack and there are free spaces, you can put it in. It also has to make sense; you can store a torch unlit, but never lit.
 
-If you have, for example, 6 equipment sspacess, you can put in your equipment a pumpkin, a watermelon, the head of a Roman emperor sculpture, needle and thread, a trumpet, and an Arkansas Panthers pin.
+If you have, for example, 6 equipment spaces, you can put in your equipment a pumpkin, a watermelon, the head of a Roman emperor sculpture, needle and thread, a trumpet, and an Arkansas Panthers pin.
 
 Each object occupies one equipment slot, and if you try to put a large barrel of wine in your equipment, it won't fit because you don't have any free space, and it won't fit in a backpack.
 

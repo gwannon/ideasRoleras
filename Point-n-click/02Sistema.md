@@ -45,7 +45,7 @@ Por otro lado, la propia lógica dictará si al usarse el equipo se gasta o no. 
 
 ### El equipo
 
-En cada casilla puedes meter un objeto que no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
+En cada casilla puedes meter un objeto que no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos. También tiene que tener sentido, puedes guardar una antorcha apagada, pero nunca encendida.
 
 Si tienes, por ejemplo, 6 espacios de equipo, Puedes meter en tu equipo una calabaza, una sandía, la cabeza de una escultura de un emperador romano, aguja e hilo, una trompeta y un pin de los «Panteras de Arkansas».
 
@@ -77,6 +77,8 @@ Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del e
 
 Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
 
+\sc
+
 #### Forzar el tema
 
 Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
@@ -87,22 +89,28 @@ Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de l
 
 Recuperas píxeles en determinadas situaciones:
 
-* Al completar una escena recuperas hasta la mitad de tus píxeles máximos.
+* Al completar una escena recuperas hasta la mitad de tus píxeles máximos. Si tienes 8 píxeles y te quedan 2, recuperas otros dos hasta 4 píxeles.
 * A discreción del DJ, si considera que lo están haciendo divertido y ajustándose a su personaje y a la historia. **NO SEAS ROÑICA DANDO PÍXELES.**
 
 ### Cosas de aventuras gráficas
 
-Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes reglas tratan de reflejarlas.
+Las aventuras gráficas tienen a veces su propia lógica y también su propia física, que le dan ese toque especial a sus historias. Todas las siguientes reglas tratan de reflejarlas.
+
+\sp
 
 #### Permanencia de objetos
 
 El **equipo que dejas** en una pantalla **se queda en esa pantalla**, solo tus personajes y otros personajes importantes pueden cogerlos.
 
-\sp
-
 Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
 
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
+
+#### Conexiones entre pantalla
+
+Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
+
+Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
 #### Acceder al mapa
 
@@ -121,12 +129,6 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 #### Ancho de pantalla
 
 El grupo de personajes no puede separarse, las AG no tienen pantalla dividida, así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
-
-#### Conexiones entre pantalla
-
-Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
-
-Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
 #### Pixel exacto
 

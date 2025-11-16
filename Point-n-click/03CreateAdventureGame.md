@@ -151,3 +151,5 @@ Finally, if you haven't already, add a cool mechanic that sets your adventure ap
 * «The Dig» had its colored rod puzzles with different polyhedra. You had to find the right combination from different clues you saw throughout the adventure.
 
 \sc
+
+[![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")

@@ -13,3 +13,10 @@ pdftk './temp.pdf' update_info_utf8 './Point-n-clickEN.txt' output '../Point-n-c
 #rm ./Point-n-clickEN.html
 rm ./Point-n-clickEN.txt
 rm ./temp.pdf
+
+php ./generateDocs.php MisterioDeLaPeninsulaDelSimio
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./MisterioDeLaPeninsulaDelSimio.html
+pdftk './temp.pdf' update_info_utf8 './MisterioDeLaPeninsulaDelSimio.txt' output '../MisterioDeLaPeninsulaDelSimio.pdf' compress
+#rm ./MisterioDeLaPeninsulaDelSimio.html
+rm ./MisterioDeLaPeninsulaDelSimio.txt
+rm ./temp.pdf

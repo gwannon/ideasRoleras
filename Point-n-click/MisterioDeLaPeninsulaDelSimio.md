@@ -1,10 +1,10 @@
 \sinc
 
-## El enigma de la Península del Simio
-
-&nbsp;
+# El enigma de la Península del Simio
 
 \conc
+
+\sp
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
@@ -14,17 +14,33 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 «El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa.
 
-### Disquete I: Cómo ser un pirata
+\sc
+
+|INDICE|
+
+_Versión 0.1_
+
+_Diciembre 2025_
+
+\sp
+
+\sinc
+
+## Disquete I: Cómo ser un pirata
+
+&nbsp;
+
+\conc
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
 
 Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las _**Jefas Piratas**_ les den el _**título de piratas**_ tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
 
-#### 1. Inicio
+### 1. Inicio
 
 Las PJ aparecen al anochecer en el puerto de Bucan Ville y gritarán «Me llamo [nombre de PJ] y quiero ser una pirata».
 
-##### Puerto
+#### Puerto
 
 En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna del Cangrejo Cocido**_, un antro de piratas donde el grog está aguado y los ganchitos y cacahuetes fueron grumetes de Barbanegra.
 
@@ -32,14 +48,11 @@ A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral i
 
 Desde el puerto puedes acceder al _**Centro de Bucan Ville**_.
 
-##### La Taberna del Cangrejo Cocido
+#### La Taberna del Cangrejo Cocido
 
 El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borrachos**_. Los pocos que no están durmiendo la mona, apenas pueden decir alguna frase:
 
 * Así que quieres ser un pirata, ¿no? Habla con las 3 _**Jefas Piratas**_.
-
-\sp
-
 * El grog de mis tiempos sí que era grog, no como el de ahora que le ponen sombrillitas, clavo y hojitas de menta. Nosotros le poníamos clavos de verdad.
 * ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
 * Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
@@ -61,11 +74,9 @@ Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo
 
 En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
-#### 2.a Pasarse al otro lado de la ley
+### 2.a Pasarse al otro lado de la ley
 
 Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
-
-\sp
 
 Hay varias opciones para cometer delitos:
 
@@ -75,7 +86,7 @@ Hay varias opciones para cometer delitos:
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
 
-##### Centro de Bucan Ville
+#### Centro de Bucan Ville
 
 Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
 
@@ -83,7 +94,7 @@ Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra 
 
 Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás una fuera de la ley.
 
-##### Plaza Mayor de Bucan Ville
+#### Plaza Mayor de Bucan Ville
 
 La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con un único _**árbol seco**_ en el centro con un cartel que pone «Árbol para colgar piratas - Cerrado por reformas».
 
@@ -95,13 +106,11 @@ Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
 
-\sp
-
-##### Callejón oscuro
+#### Callejón oscuro
 
 Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas figuras desaparecerán en las sombras. En cuanto salgan a la plaza, volverán las voces.
 
-#### 2.b Conseguir un barco y una bandera pirata
+### 2.b Conseguir un barco y una bandera pirata
 
 El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela. 
 
@@ -113,7 +122,7 @@ Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas p
 
 La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
 
-##### Astilleros
+#### Astilleros
 
 Desde la _**Plaza Mayor**_ se puede acceder a los _**astilleros**_ de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
 
@@ -127,15 +136,13 @@ Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: U
 
 _**Sam**_ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
 
-\sp
-
 Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el _**título de propiedad**_ del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 
 Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
 
 Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. Con esto _**Sam**_ montará unas velas y cambiará la descripción del _**título de propiedad**_.
 
-##### Tienda de souvenirs
+#### Tienda de souvenirs
 
 Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan Ville. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
 
@@ -154,26 +161,23 @@ Ideas para otras chorradas que puede haber en la tienda y que puedes poner como 
 * Rizos pelirrojos de la barba la Barbanegra
 * Férula de descarga dental de Sir Francis Drake
 * Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro» 
-
-\sp
-
 * Pata de palo de «running» de Long John Silver
 * Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
 * Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
 
-#### 3. Ya eres una pirata
+### 3. Ya eres una pirata
 
 Pueden entregar las pruebas de que son auténticas piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará piratas de pleno derecho y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineras de agua dulce entre risas socarronas.
 
 Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
 
-#### 4. Robar al gobernador
+### 4. Robar al gobernador
 
 A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la manera de robar al gobernador para poder comprarse un barco pirata de verdad.
 
 Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
 
-##### Exterior de la casa del gobernador
+#### Exterior de la casa del gobernador
 
 La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
 
@@ -183,9 +187,7 @@ El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto e
 
 Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un _**tocado de pavo real**_ y los _**pavos reales**_ te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
 
-\sp
-
-##### Hall principal de la casa del gobernador
+#### Hall principal de la casa del gobernador
 
 Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
 
@@ -199,7 +201,7 @@ En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuer
 
 Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
 
-#### 5. ¿El final?
+### 5. ¿El final?
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
 
@@ -209,27 +211,11 @@ Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñ
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo y el gobernador Marlon atado y amordazado.
 
-### Disquetes II y III
-
-Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarcar el disco 2 (el nudo de la trama) y el disco 3 (el desenlace final).
-
-* Pueden tratar de rescatar al gobernador de las garras de DraChuckla.
-
-\sp
-
-* Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca, así que deben ser cuidadosos.
-* Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
-* Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
-
-\sc
-
-[![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")
-
 \sp
 
 \sinc
 
-## Resumen de la aventura
+## Resumen del disquete I
 
 &nbsp;
 
@@ -307,3 +293,53 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 ![Mapa de pantallas](./images/mapa.png)
 
 \conc
+
+\sp
+
+\sinc
+
+## Disquete II
+
+&nbsp;
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Disquete III
+
+&nbsp;
+
+\conc
+
+XXX
+
+\sp
+
+\sinc
+
+## Licencia y agradecimientos
+
+&nbsp;
+
+\conc
+
+### Licencia CC BY 4.0
+
+«Point and click RPG» es un juego de rol desarrollado por [@gwannon](https://gwannon.com) y está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Para hacer uso de este material, solo debes atribuirlo adecuadamente.
+
+Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+
+### Atribuciones
+
+#### Fuentes
+
+* Fool by [Void](https://arcade.itch.io/fool)
+
+#### Imágenes
+
+* 18:57 (Rework) By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234)

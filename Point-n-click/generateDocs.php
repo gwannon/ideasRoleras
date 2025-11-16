@@ -70,6 +70,15 @@ if($argv[1] == 'Point-n-click') {
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
   $metas .= "InfoValue: rpg, ttrpg, parody, point and click, adventure game, retropixel\n\n";
+} else if($argv[1] == 'MisterioDeLaPeninsulaDelSimio') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: Point and click RPG\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: «Point and click RPG» es un pequeño juego de rol que busca simular la experiencia de las antiguas aventuras clásicas Point and click de los años 80 y 90 como «The secret of Monkey Island» o «Kingquest». Versión 0.5\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, parody, point and click, adventure game, retropixel\n\n";
 }
 
 /* Generamos indice del PDF */
@@ -122,6 +131,8 @@ if($argv[1] == 'Point-n-click') {
   $html = str_replace("|INDICE|", "<h3>Índice</h3>".$indice, $html);
 } else if($argv[1] == 'Point-n-clickEN') {
   $html = str_replace("|INDICE|", "<h3>Index</h3>".$indice, $html);
+} else if($argv[1] == 'MisterioDeLaPeninsulaDelSimio') {
+  $html = str_replace("|INDICE|", "<h3>Índice</h3>".$indice, $html);
 }
 
 

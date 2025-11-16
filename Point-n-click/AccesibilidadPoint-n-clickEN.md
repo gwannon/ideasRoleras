@@ -14,7 +14,7 @@ As you progress and solve puzzles, stories of all kinds unfold, from fantastical
 
 In these stories, you can be a pathetic pirate, a cartoon character, an avid aviator, or even a time traveler lost in the past.
 
-To play you will need **paper, pencils and 6-sided dice (d6)**. On the last pages you have colored pixels that you can print on cardboard and use as tokens._Version 1.0_
+To play you will need **paper, pencils and 6-sided dice (d6)**. On the last pages you have colored pixels that you can print on cardboard and use as tokens._Version 1.1_
 
 _November 2025_## Create your PC
 
@@ -128,9 +128,9 @@ On the other hand, logic dictates whether equipment is consumed when used. A mat
 
 ### The Equipment
 
-In each slot, you can place one object that shouldn't be larger than something that would fit in your pockets or a backpack. Weight doesn't matter; as long as it fits in a backpack and there are free spaces, you can put it in.
+In each slot, you can place one object that shouldn't be larger than something that would fit in your pockets or a backpack. Weight doesn't matter; as long as it fits in a backpack and there are free spaces, you can put it in. It also has to make sense; you can store a torch unlit, but never lit.
 
-If you have, for example, 6 equipment sspacess, you can put in your equipment a pumpkin, a watermelon, the head of a Roman emperor sculpture, needle and thread, a trumpet, and an Arkansas Panthers pin.
+If you have, for example, 6 equipment spaces, you can put in your equipment a pumpkin, a watermelon, the head of a Roman emperor sculpture, needle and thread, a trumpet, and an Arkansas Panthers pin.
 
 Each object occupies one equipment slot, and if you try to put a large barrel of wine in your equipment, it won't fit because you don't have any free space, and it won't fit in a backpack.
 
@@ -442,7 +442,9 @@ Finally, if you haven't already, add a cool mechanic that sets your adventure ap
 
 * In «Loom», they aren't verbs, they're combinations of musical notes, and if you play them backward, they do the opposite. If Do Re Mi opens things, Mi Re Do closes them.
 * The «Monkey Island» games have their insult duels where you must learn sharp insults and their comebacks to defeat your enemies in sword fights.
-* «The Dig» had its colored rod puzzles with different polyhedra. You had to find the right combination from different clues you saw throughout the adventure.## The enigma of the Ape Peninsula
+* «The Dig» had its colored rod puzzles with different polyhedra. You had to find the right combination from different clues you saw throughout the adventure.
+[![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")
+## The enigma of the Ape Peninsula
 
 _Deep in the Caribbean lies a peninsula surrounded by water on all sides, called the Ape Peninsula. Venture into its dark grottoes, dense jungles, and well-stocked gift and souvenir shops to become a true buccaneer._
 
@@ -726,6 +728,8 @@ All the content for this project can be found at [pointnclick.gwannon.com](https
 * Angry Old Lady by [pngaaa.com](https://www.pngaaa.com/detail/674344)
 * Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
 * Shadowy Alley Show the detective silhouetted by [Fedor Lunin](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene)
+* Odyssey By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950)
+* 18:57 (Rework) By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234)
 
 ### Acknowledgments
 

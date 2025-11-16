@@ -138,7 +138,7 @@ Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y u
 
 Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
 
-Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
+Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que habías pensado. 
 
 ### Toques finales
 
@@ -147,6 +147,10 @@ Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie 
 * En «Loom» no son verbos, son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
 * «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
+* «Full Throttle» tenía sus escenas de carretera con peleas con otros moteros.
 
 \sc
+
+[![Odyssey By Fatbeard91](./images/odyssey_by_fatbeard91_dfu56li-fullview.jpg "Odyssey By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950 "Odyssey By Fatbeard91")
+
 

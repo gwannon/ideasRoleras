@@ -32,6 +32,8 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Angry Old Lady by [pngaaa.com](https://www.pngaaa.com/detail/674344)
 * Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
 * Shadowy Alley Show the detective silhouetted by [Fedor Lunin](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene)
+* Odyssey By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950)
+* 18:57 (Rework) By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234)
 
 ### Agradecimientos
 

@@ -14,7 +14,7 @@ Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo d
 
 En estas historias puedes ser un patético pirata, un cartoon, una ávida aviadora o incluso un viajero perdido en el tiempo.
 
-Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens._Versión 1.0_
+Para jugar necesitarás **hojas de papel, lápices y dados de 6 caras (d6)**. En la última página tienes píxeles de colores que pueden imprimir en cartulina y usarlos como tokens._Versión 1.1_
 
 _Noviembre 2025_## Crear tu PJ
 
@@ -128,7 +128,7 @@ Por otro lado, la propia lógica dictará si al usarse el equipo se gasta o no. 
 
 ### El equipo
 
-En cada casilla puedes meter un objeto que no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos.
+En cada casilla puedes meter un objeto que no debe ser mayor del tamaño de algo que entraría en unos bolsillos o en una mochila. No importa el peso, mientras entren en una mochila y haya espacios libres puedes meterlos. También tiene que tener sentido, puedes guardar una antorcha apagada, pero nunca encendida.
 
 Si tienes, por ejemplo, 6 espacios de equipo, Puedes meter en tu equipo una calabaza, una sandía, la cabeza de una escultura de un emperador romano, aguja e hilo, una trompeta y un pin de los «Panteras de Arkansas».
 
@@ -156,7 +156,6 @@ Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del e
 #### Trama paralela
 
 Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
-
 #### Forzar el tema
 
 Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
@@ -167,19 +166,25 @@ Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de l
 
 Recuperas píxeles en determinadas situaciones:
 
-* Al completar una escena recuperas hasta la mitad de tus píxeles máximos.
+* Al completar una escena recuperas hasta la mitad de tus píxeles máximos. Si tienes 8 píxeles y te quedan 2, recuperas otros dos hasta 4 píxeles.
 * A discreción del DJ, si considera que lo están haciendo divertido y ajustándose a su personaje y a la historia. **NO SEAS ROÑICA DANDO PÍXELES.**
 
 ### Cosas de aventuras gráficas
 
-Las aventuras gráficas tienen a veces su propia lógica y todas las siguientes reglas tratan de reflejarlas.
-
+Las aventuras gráficas tienen a veces su propia lógica y también su propia física, que le dan ese toque especial a sus historias. Todas las siguientes reglas tratan de reflejarlas.
 #### Permanencia de objetos
 
 El **equipo que dejas** en una pantalla **se queda en esa pantalla**, solo tus personajes y otros personajes importantes pueden cogerlos.
+
 Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí para siempre. Pero igual, cuando pases, quieres recuperar tu cuerda y deshaces el puente, con lo que recuperas la cuerda y ya no puedes volver a pasar al otro.
 
 > Es importante llevar un registro de escenas y objetos y como están dispuestos.
+
+#### Conexiones entre pantalla
+
+Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
+
+Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
 #### Acceder al mapa
 
@@ -198,12 +203,6 @@ Si deseas mover objetos pesados entre pantallas, tendrás que utilizar algún ti
 #### Ancho de pantalla
 
 El grupo de personajes no puede separarse, las AG no tienen pantalla dividida, así que todos juntos. De hecho, habrá cosas a las que no podrás acceder de una misma escena porque otro jugador está en el otro extremo y la resolución de pantalla no te da para llegar a ellas.
-
-#### Conexiones entre pantalla
-
-Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
-
-Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
 #### Pixel exacto
 
@@ -430,7 +429,7 @@ Igual que las jugadoras pueden forzar con píxeles un «mientras tanto», **el D
 Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.
 Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
 
-Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que haya pensado. 
+Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que habías pensado. 
 
 ### Toques finales
 
@@ -439,7 +438,8 @@ Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie 
 * En «Loom» no son verbos, son combinaciones de notas musicales y si las hace sonar al revés hacen lo contrario. Si Do Re Mi abre cosas, Mi Re Do las cierra.
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
 * «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
-## El enigma de la Península del Simio
+* «Full Throttle» tenía sus escenas de carretera con peleas con otros moteros.
+[![Odyssey By Fatbeard91](./images/odyssey_by_fatbeard91_dfu56li-fullview.jpg "Odyssey By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950 "Odyssey By Fatbeard91")## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
@@ -498,7 +498,7 @@ En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plát
 Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
 Hay varias opciones para cometer delitos:
 
-* La forma más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
+* La manera más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
 * Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
 * Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
 
@@ -529,7 +529,7 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 #### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la forma de construirle una vela. 
+El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela. 
 
 Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
 
@@ -551,7 +551,7 @@ A pesar de ser un personaje principal y poder hablar sobre muchos temas, _**Sam*
 
 Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
 
-_**Sam**__ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+_**Sam**_ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
 Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el _**título de propiedad**_ del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
 
 Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
@@ -589,7 +589,7 @@ Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar
 
 #### 4. Robar al gobernador
 
-A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la forma de robar al gobernador para poder comprarse un barco pirata de verdad.
+A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la manera de robar al gobernador para poder comprarse un barco pirata de verdad.
 
 Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
 
@@ -601,7 +601,7 @@ Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser huma
 
 El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
 
-Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
+Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un _**tocado de pavo real**_ y los _**pavos reales**_ te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
 ##### Hall principal de la casa del gobernador
 
 Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
@@ -634,8 +634,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Pueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido. Se rumorea que DraChuckla lo busca, así que deben ser cuidadosos.
 * Pueden intentar aprender magia vudú para ver si pueden contrarrestar lo que les haga DraChuckla con sus muñecos.
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
-
-## Resumen de la aventura
+[![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")## Resumen de la aventura
 
 ### Astilleros  
 
@@ -724,6 +723,8 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Angry Old Lady by [pngaaa.com](https://www.pngaaa.com/detail/674344)
 * Flat design pixel art character element collection by [freepik](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm)
 * Shadowy Alley Show the detective silhouetted by [Fedor Lunin](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene)
+* Odyssey By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950)
+* 18:57 (Rework) By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234)
 
 ### Agradecimientos
 

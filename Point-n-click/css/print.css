@@ -1,6 +1,8 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
   --color-red: #a931ad;
+  --color-red-shadow: #630e64;
+  --color-red-light: #f137f3;
   --color-white: #fff;
   --color-black: #000;
 }
@@ -19,6 +21,13 @@ body {
   font-family: "Open Sans", sans-serif;
   color: var(--color-white);
   font-size: 18px;
+}
+
+#MisterioDeLaPeninsulaDelSimio {
+  --color-red: #cf650d;
+  --color-red-shadow: #630e64;
+  --color-white: #fff;
+  --color-black: #000;
 }
 
 body:before {
@@ -123,7 +132,7 @@ h1 {
   padding-bottom: 7%;
   padding-right: 30px;
   margin: 0px;
-  text-shadow: 3px 0px 3px #630e64;
+  text-shadow: 3px 0px 3px var(--color-red-shadow);
   line-height: 120%;
 }
 
@@ -139,8 +148,8 @@ h1 {
     font-size: 3em;
   }
   #Point-n-clickEN h1 {
-  background-image: none;
-}
+    background-image: none;
+  }
 }
 
 
@@ -190,8 +199,8 @@ h2 {
   text-align: center;
   margin: 0px 20px ;
   position: relative;
-  text-shadow: 3px 0px 3px #630e64;
-  text-shadow: 3px 0px 3px #f137f3;
+  text-shadow: 3px 0px 3px var(--color-red-shadow);
+  text-shadow: 3px 0px 3px var(--color-red-light);
 }
 
 h2:before {
@@ -219,19 +228,19 @@ h2:after {
 h3 {
   margin-top: 5px;
   font-size: 2em;
-  text-shadow: 3px 0px 3px #630e64;
+  text-shadow: 3px 0px 3px var(--color-red-shadow);
 }
 
 h4 {
   margin-top: 5px;
   font-size: 1.3em;
-  text-shadow: 3px 0px 3px #630e64;
+  text-shadow: 3px 0px 3px var(--color-red-shadow);
 }
 
 h5 {
   margin-top: 5px;
   font-size: 1.2em;
-  text-shadow: 3px 0px 3px #630e64;
+  text-shadow: 3px 0px 3px var(--color-red-shadow);
   font-style: italic;
 }
 
@@ -296,7 +305,9 @@ img {
 }
 
 img[alt='Mapa de pantallas'],
-img[alt='Screens map'] {
+img[alt='Screens map'],
+img[alt='Odyssey By Fatbeard91'],
+img[alt='18:57 (Rework) By Fatbeard91'] {
   width: 100%;
   float: none;
 }
@@ -423,7 +434,7 @@ body {
   opacity: 1;
   font-size: 30px;
   padding: 5px 5px 3px;
-  text-shadow: 3px 0px 3px #630e64;
+  text-shadow: 3px 0px 3px var(--color-red-shadow);
 }
 
 .saltopagina.even:after {

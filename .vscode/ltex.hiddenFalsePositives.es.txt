@@ -146,3 +146,18 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qa escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QCthulhu, una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?\\E$"}
 {"rule":"REAL","sentence":"^\\QPavo reales\nElementos clicables:\\E$"}
+{"rule":"FORM","sentence":"^\\QOtra forma es ponerse a la izquierda del juzgado y pedirle al pintor de cuadros que está en la Plaza Mayor.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QCallejón oscuro\\E$"}
+{"rule":"FIGURE","sentence":"^\\QCuando entren, las voces se callarán y unas figuras desaparecerán en las sombras.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QAl otro lado del ayuntamiento podrán acceder a un callejón oscuro del que salen retazos aleatorios de una conversación.\\E$"}
+{"rule":"FORM","sentence":"^\\QLes dará el título de propiedad del bote a remo y un montón de papeles especificando la forma de pago que no deben perder.\\E$"}
+{"rule":"REAL","sentence":"^\\QEl exterior está vigilado por unos pavos reales que gluglutean muy alto en cuanto te ven.\\E$"}
+{"rule":"REAL","sentence":"^\\QCuando tienes tres plumas, puedes hacerte un tocado de pavo real y los pavos reales te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEs grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEn el sótano está oscuro y solo se vislumbra la gran puerta de la caja fuerte con un montón cerraduras, ruedas con combinaciones y engranajes para girar.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QCentro de Bucan Ville, Callejón oscuro\\E$"}
+{"rule":"REAL","sentence":"^\\QEstatua ecuestre del gobernador Marlon, Pluma de pavo real, Tocado de plumas de pavo real\nConexiones:\\E$"}
+{"rule":"FORM","sentence":"^\\QBarco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos\nConexiones:\\E$"}
+{"rule":"REAL","sentence":"^\\QPavos reales\nElementos clicables:\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido.\\E$"}
+{"rule":"FORM","sentence":"^\\QLas AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.\\E$"}
