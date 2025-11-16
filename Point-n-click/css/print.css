@@ -26,7 +26,7 @@ body {
 #MisterioDeLaPeninsulaDelSimio {
   --color-red: #cf650d;
   --color-red-shadow: #8f3b02;
-  --color-red-light: #e9a87c;
+  --color-red-light: #d67a3c;
   --color-white: #fff;
   --color-black: #000;
 }
@@ -40,7 +40,11 @@ body:before {
   top: 0px;
   left: 0px;
   /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(../images/border1.png) top left repeat-y
+  background: transparent url(../images/border1.png) top left repeat-y;
+}
+
+#MisterioDeLaPeninsulaDelSimio:before {
+  background: transparent url(../images/border3.png) top left no-repeat;
 }
 
 body:after {
@@ -53,6 +57,14 @@ body:after {
   right: 0px;
   /*Aqui gestionamos el diseño del borde*/
   background: transparent url(../images/border2.png) top right repeat-y;
+}
+
+#MisterioDeLaPeninsulaDelSimio:before {
+  background: transparent url(../images/border3.png) top center repeat-y;
+}
+
+#MisterioDeLaPeninsulaDelSimio:after {
+  background: transparent url(../images/border4.png) top center repeat-y;
 }
 
 body > * {
@@ -141,6 +153,12 @@ h1 {
   background-image: url(../images/titularEN.jpg);
 }
 
+#MisterioDeLaPeninsulaDelSimio h1 {
+  line-height: 110%;
+  padding-left: 40%;
+  background-image: url(../images/TitularMisterio.jpg);
+}
+
 
 @media screen and (max-width: 725px) {
   h1 {
@@ -150,6 +168,12 @@ h1 {
   }
   #Point-n-clickEN h1 {
     background-image: none;
+  }
+}
+
+@media screen {
+  #MisterioDeLaPeninsulaDelSimio h1 {
+    padding-bottom: 1%;
   }
 }
 
@@ -168,6 +192,13 @@ h1 {
     width: 100vw;
     font-size: 4em;
     padding-top: 600px;
+  }
+
+  #MisterioDeLaPeninsulaDelSimio h1 {
+    padding-top: 670px;
+    font-size: 3.3em;
+    line-height: 100%;
+    padding-left: 55%;
   }
 }
 
@@ -193,7 +224,7 @@ h5 {
   font-weight: 400;
 }
 
-h2 {
+h2:not(#MisterioDeLaPeninsulaDelSimio h2) {
   background-color: var(--color-red);
   color: var(--color-black);
   font-size: 2.45em;
@@ -204,7 +235,7 @@ h2 {
   text-shadow: 3px 0px 3px var(--color-red-light);
 }
 
-h2:before {
+h2:not(#MisterioDeLaPeninsulaDelSimio h2):before {
   content: "";
   width: 20px;
   height: 100%;
@@ -215,7 +246,7 @@ h2:before {
   background-size: cover
 }
 
-h2:after {
+h2:not(#MisterioDeLaPeninsulaDelSimio h2):after {
   content: "";
   width: 20px;
   height: 100%;
@@ -225,6 +256,87 @@ h2:after {
   background: transparent url(../images/h2-2.png) center center no-repeat;
   background-size: cover
 }
+
+/*
+  --color-red: #cf650d;
+  --color-red-shadow: #8f3b02;
+  --color-red-light: #e9a87c;
+*/
+
+#MisterioDeLaPeninsulaDelSimio h2 {
+  --ribbon-size: 80px;
+  --padding: 10px;
+  font-size: 2.45em;
+  background-color: var(--color-red);
+  color: #fff;
+  padding: var(--padding);
+  position: relative;
+  margin-top: 40px;
+  margin-left: var(--ribbon-size);
+  margin-right: var(--ribbon-size);
+  margin-bottom: var(--padding);
+  text-align: center;
+}
+
+#MisterioDeLaPeninsulaDelSimio h2:before {
+  content: "";
+
+  height: 100%;
+  box-sizing: border-box;
+  width: calc(100% + var(--ribbon-size));
+  background-color: var(--color-red-light);
+  background: linear-gradient(
+    90deg,
+    var(--color-red-light) calc((var(--ribbon-size) / 2) + var(--padding)),
+    var(--color-red-shadow) calc((var(--ribbon-size) / 2) + var(--padding)),
+    var(--color-red-shadow) calc(100% - (var(--ribbon-size) / 2) - var(--padding)),
+    var(--color-red-light) calc(100% - (var(--ribbon-size) / 2) - var(--padding))
+  );
+
+  position: absolute;
+  left: calc(var(--ribbon-size) / -2);
+  top: var(--padding);
+  clip-path: polygon(
+    0% 0%,
+    calc(var(--ribbon-size) / 2) 0%,
+    calc(var(--ribbon-size) / 2) calc(100% - var(--padding)),
+    calc(100% - (var(--ribbon-size) / 2)) calc(100% - var(--padding)),
+    calc(100% - (var(--ribbon-size) / 2)) 0%,
+    100% 0%,
+    calc(100% - (var(--padding) * 2)) 50%,
+    100% 100%,
+    calc(100% - (var(--ribbon-size) / 2) - var(--padding)) 100%,
+    calc(100% - (var(--ribbon-size) / 2) - var(--padding))
+      calc(100% - var(--padding)),
+    calc((var(--ribbon-size) / 2) + var(--padding)) calc(100% - var(--padding)),
+    calc((var(--ribbon-size) / 2) + var(--padding)) 100%,
+    0% 100%,
+    calc(var(--padding) * 2) 50%
+  );
+}
+
+#MisterioDeLaPeninsulaDelSimio h2:after {
+  content: "";
+  position: absolute;
+  background-color: var(--color-red-shadow);
+  width: 100%;
+  bottom: calc(var(--padding) * -1);
+  left: 0px;
+  height: var(--padding);
+  clip-path: polygon(
+    0% 0%,
+    100% 0%,
+    calc(100% - var(--padding)) 100%,
+    calc(100% - var(--padding)) 0%,
+    var(--padding) 0%,
+    var(--padding) 100%
+  );
+}
+
+
+
+
+
 
 h3 {
   margin-top: 5px;
@@ -308,7 +420,8 @@ img {
 img[alt='Mapa de pantallas'],
 img[alt='Screens map'],
 img[alt='Odyssey By Fatbeard91'],
-img[alt='18:57 (Rework) By Fatbeard91'] {
+img[alt='18:57 (Rework) By Fatbeard91'],
+#MisterioDeLaPeninsulaDelSimio img{
   width: 100%;
   float: none;
 }
