@@ -25,7 +25,8 @@ body {
 
 #MisterioDeLaPeninsulaDelSimio {
   --color-red: #cf650d;
-  --color-red-shadow: #630e64;
+  --color-red-shadow: #8f3b02;
+  --color-red-light: #e9a87c;
   --color-white: #fff;
   --color-black: #000;
 }

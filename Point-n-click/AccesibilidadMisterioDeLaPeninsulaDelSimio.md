@@ -1,14 +1,16 @@
 
 
-# El enigma de la Península del Simio_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
+# El enigma de la Península del Simio
+
+## El enigma de la Península del Simio
+
+_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
 
 _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
 
-«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Este capítulo solo comprende el primer disquete de los tres que sería la campaña completa._Versión 0.1_
-
-_Diciembre 2025_## Disquete I: Cómo ser un pirata
+«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games.> Versión 0.1 | Diciembre 2025## Disquete I: Cómo ser un pirata
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
 
@@ -25,7 +27,7 @@ En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna de
 A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral inunda su cubierta y bandadas de murciélagos lo sobrevuelan.
 
 Desde el puerto puedes acceder al _**Centro de Bucan Ville**_.
-
+[![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")
 #### La Taberna del Cangrejo Cocido
 
 El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borrachos**_. Los pocos que no están durmiendo la mona, apenas pueden decir alguna frase:
@@ -37,7 +39,9 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. 
+
+Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
 * ¿Cuál era la bandera de Barbanegra? - Un esqueleto con cuernos que sostiene un reloj de arena en la mano derecha y una lanza en la izquierda, utilizando la lanza para pinchar un corazón rojo que gotea tres gotas rojas de sangre.
 * ¿Cuál se llamaba el primer barco de Barbanegra? - La venganza de la Reina Ana.
@@ -50,7 +54,8 @@ Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deber�
 
 Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto. Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
+En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto.
+Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
 
 ### 2.a Pasarse al otro lado de la ley
 
@@ -79,7 +84,6 @@ La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con
 En el centro de la plaza hay un _**pintor de cuadros**_ que está pintando el ayuntamiento. Pinta los cuadros a una velocidad superrápida y los deja en un _**montón**_ que está a su lado. Si los examinan, verán que no son muy buenos.
 
 Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 1000 cuadros iguales del ayuntamiento para la campaña de recaudación para la reelección del gobernador.
-
 Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
@@ -109,7 +113,6 @@ Allí encontrarán a _**Sam**_, un friki de la náutica con gafas de culo de vas
 _**Sam**_ vive para diseñar y construir barcos … a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
 
 A pesar de ser un personaje principal y poder hablar sobre muchos temas, _**Sam**_ solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
-
 Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
 
 _**Sam**_ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
@@ -131,7 +134,6 @@ Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twis
 Como la mayoría de las cosas de su tienda, no quiere deshacerse del vinilo porque le recuerda a cuando «jugaba» (guiño, guiño, golpe, golpe) al Twister con Anne Bonny, Jack Rackham y Mary Read a bordo del «Ranger».
 
 El _**vale de descuento**_ que les dieron las _**Jefas Piratas**_ tiene una errata y si cogen la _**lupa**_ de Lulock Holmes, el primo de las Antillas de Sherlock Holmes y el primer pirata detective de la literatura, podrán leer la letra pequeña. Donde debía poner «Al presentar este vale se conseguirá un 50% de descuento en material pirata O un 50% en juegos de mesa» en realidad pone «Al presentar este vale se conseguirá un 50% de descuento en material pirata Y un 50% en juegos de mesa».
-
 Así que pueden usar el vale de descuento para conseguir el _**vinilo del Twister**_ completamente gratis y Maxine no puede se negará porque la verdad es que lo más inútil y barato que tiene en la tienda.
 
 Ideas para otras chorradas que puede haber en la tienda y que puedes poner como elementos clicables, pero que Maxine no quiere vender porque le traen buenos recuerdos:
@@ -158,7 +160,6 @@ Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el pu
 #### Exterior de la casa del gobernador
 
 La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
-
 Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
 
 El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
@@ -179,12 +180,11 @@ En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuer
 
 Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
 
-### 5. ¿El final?
+### 5. Aparece DraChuckla
 
 Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
-
 Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo y el gobernador Marlon atado y amordazado.## Resumen del disquete I
@@ -253,18 +253,33 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 ![Mapa de pantallas](./images/mapa.png)
 
-## Disquete II
+## Disquete II: XXX
 
-XXX## Disquete III
+XXX## Resumen del disquete II
 
-XXX## Licencia y agradecimientos
+XXX
+
+### Mapa de pantallas
+
+XXX
+
+## Disquete III: XXX
+
+XXX## Resumen del disquete III
+
+XXX
+
+### Mapa de pantallas
+
+XXX
+
+## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0
 
-«Point and click RPG» es un juego de rol desarrollado por [@gwannon](https://gwannon.com) y está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Para hacer uso de este material, solo debes atribuirlo adecuadamente.
+«El enigma de la Península del Simio» es una aventura para el juego de rol «Point and click RPG» escrita por [@gwannon](https://gwannon.com) y está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Para hacer uso de este material, solo debes atribuirlo adecuadamente.
 
-Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
-
+Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/MisterioDeLaPeninsulaDelSimio.html) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
 ### Atribuciones
 
 #### Fuentes
