@@ -9,6 +9,8 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 «El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point an click RPG»](https://pointnclick.gwannon.com/).
 
+La primera parte de esta aventura (Disquete I), es la aventura introductoria que viene en las reglas básicas, así que si ya la has jugado, puedes saltártela. 
+
 ### Reglas especiales
 
 #### Mira detrás de ti ... ¡Un simio de tres colas! 

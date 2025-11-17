@@ -162,10 +162,12 @@ h1 {
 
 
 @media screen and (max-width: 725px) {
-  h1 {
+  h1,
+ #MisterioDeLaPeninsulaDelSimio h1 {
     background-image: none;
     padding-top: 30px;
-    font-size: 3em;
+    font-size: 2em;
+    padding-left: 30px;
   }
   #Point-n-clickEN h1 {
     background-image: none;
