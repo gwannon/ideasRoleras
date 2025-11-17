@@ -7,7 +7,7 @@ _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampirat
 
 _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._## El enigma de la Península del Simio
 
-«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games.
+«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point an click RPG»](https://pointnclick.gwannon.com/).
 
 ### Reglas especiales
 
@@ -309,8 +309,8 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 #### Imágenes
 
 * 18:57 (Rework) By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234)
-* Vector boho art tribal doodle sketch corner frame by [rawpixel.com](https://www.freepik.com/free-vector/vector-boho-art-tribal-doodle-sketch-corner-frame_35510790.htm)
-* Glowing Horizons By [Fatbeard91])https://www.deviantart.com/fatbeard91/art/Glowing-Horizons-1072294859)
+* Glowing Horizons By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/Glowing-Horizons-1072294859)
 * Silence By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/Silence-959695299)
+* Vector boho art tribal doodle sketch corner frame by [rawpixel.com](https://www.freepik.com/free-vector/vector-boho-art-tribal-doodle-sketch-corner-frame_35510790.htm)
 * Cartoon jungle background with pathway through exotic plants by [freepik](https://www.freepik.com/free-vector/cartoon-jungle-background-with-pathway-through-exotic-plants_13810853.htm)
 * Background of pirate woman on a boat [freepik](https://www.freepik.com/free-vector/background-pirate-woman-boat_1126876.htm)

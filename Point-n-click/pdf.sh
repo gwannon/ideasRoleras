@@ -13,8 +13,7 @@
 #rm ./temp.pdf
 
 php ./generateDocs.php MisterioDeLaPeninsulaDelSimio
-chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./MisterioDeLaPeninsulaDelSimio.html
-pdftk './temp.pdf' update_info_utf8 './MisterioDeLaPeninsulaDelSimio.txt' output '../MisterioDeLaPeninsulaDelSimio.pdf' compress
-#rm ./MisterioDeLaPeninsulaDelSimio.html
+#chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./MisterioDeLaPeninsulaDelSimio.html
+#pdftk './temp.pdf' update_info_utf8 './MisterioDeLaPeninsulaDelSimio.txt' output '../MisterioDeLaPeninsulaDelSimio.pdf' compress
 rm ./MisterioDeLaPeninsulaDelSimio.txt
-rm ./temp.pdf
+#rm ./temp.pdf

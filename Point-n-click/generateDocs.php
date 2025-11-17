@@ -74,7 +74,7 @@ if($argv[1] == 'Point-n-click') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: El enigma de la Península del Simio\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: «El enigma de la Península del Simio» es una aventura para «Point and click RPG» que plagia vilmente la famosa aventura piratil de LUcasArts.\n\n";
+  $metas .= "InfoValue: «El enigma de la Península del Simio» es una aventura para «Point and click RPG» que plagia vilmente la famosa aventura piratil de LucasArts.\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
