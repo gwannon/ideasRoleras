@@ -68,7 +68,7 @@ As the _**Pirate Lady Bosses**_ have explained, to become a pirate you need to b
 There are several ways to commit crimes:
 
 * The easiest way is to run the red light at the _**ape-trafficlights**_ in Bucan Ville's _**Main square**_.
-* Another way is to stand to the left of the _**courthouse**_ and ask the _**painter**_ in the _**Main square**_ for help.
+* Another way is to stand to the left of the _**courthouse**_ while the _**painter**_ in the _**Main square**_ paints.
 
 \sp
 

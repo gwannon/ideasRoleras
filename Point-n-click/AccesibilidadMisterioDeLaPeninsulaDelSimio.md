@@ -1,18 +1,25 @@
 
 
-# El enigma de la Península del Simio
-
-## El enigma de la Península del Simio
-
+# El enigma de la Península del Simio> Versión 0.1 | Diciembre 2025
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
 
-_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
+_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._## El enigma de la Península del Simio
 
 «El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games.
 
-> Versión 0.1 | Diciembre 2025## Disquete I: Cómo ser un pirata
+### Reglas especiales
+
+#### Mira detrás de ti ... ¡Un simio de tres colas! 
+
+Una vez por sesión de juego, una de tus jugadoras pueden gastar 2 píxeles y usar el truco de "Mira detrás de ti ... ¡Un simio de tres colas!". La jugadora, tras decir la frase, debe tirar un d6.
+
+Con un resultado de 6 el otro objetivo, se gira para ver al simio de tres colas y todas las jugadoras pueden hacer una acción, como coger algo que estaba guardando el objetivo, huir, atravesar una puerta.
+
+Este truco solo funciona con PNJ con los que puedas HABLAR y cuando sí hay un simio de tres colas detrás falla siempre.
+
+## Disquete I: Cómo ser un pirata
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
 
@@ -66,7 +73,7 @@ Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar
 Hay varias opciones para cometer delitos:
 
 * La manera más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
-* Otra forma es ponerse a la izquierda del _**juzgado**_ y pedirle al _**pintor de cuadros**_ que está en la _**Plaza Mayor**_.
+* Otra forma es ponerse a la izquierda del _**juzgado**_ mientras el _**pintor de cuadros**_ que está en la _**Plaza Mayor**_ pinta un cuadro.
 * Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
@@ -83,7 +90,7 @@ Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de
 
 La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con un único _**árbol seco**_ en el centro con un cartel que pone «Árbol para colgar piratas - Cerrado por reformas».
 
-En el centro de la plaza hay un _**pintor de cuadros**_ que está pintando el ayuntamiento. Pinta los cuadros a una velocidad superrápida y los deja en un _**montón**_ que está a su lado. Si los examinan, verán que no son muy buenos.
+Al lado del árbol hay un _**pintor de cuadros**_ que está pintando el ayuntamiento. Pinta los cuadros a una velocidad superrápida y los deja en un _**montón**_ que está a su lado. Si los examinan, verán que no son muy buenos.
 
 Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 1000 cuadros iguales del ayuntamiento para la campaña de recaudación para la reelección del gobernador.
 Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
@@ -104,7 +111,7 @@ Puede que gasten píxeles en convertir elementos no clicables en clicables, como
 
 Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
+La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
 
 #### Astilleros
 
@@ -276,7 +283,7 @@ XXX
 [![Silence By Fatbeard91](./images/silence_by_fatbeard91_dfvdlmr-414w-2x.jpg "Silence By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Silence-959695299 "Silence By Fatbeard91")
 XXX
 
-> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya dejamos en la introducción de la aventura.
+> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
 
 ## Resumen del disquete III
 

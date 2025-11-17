@@ -505,7 +505,7 @@ As the _**Pirate Lady Bosses**_ have explained, to become a pirate you need to b
 There are several ways to commit crimes:
 
 * The easiest way is to run the red light at the _**ape-trafficlights**_ in Bucan Ville's _**Main square**_.
-* Another way is to stand to the left of the _**courthouse**_ and ask the _**painter**_ in the _**Main square**_ for help.
+* Another way is to stand to the left of the _**courthouse**_ while the _**painter**_ in the _**Main square**_ paints.
 * If they attempt other types of crimes, your characters will look at the screen and say things like, «My mother didn't raise a petty thief» or «This would get me in trouble with Santa Claus».
 
 If they seem lost at this point, emphasize the «other side of the law» or remind them of the drunken pirate at the _**Boiled Crab Tavern**_ who claimed to have invented the ape-trafficlights and ask them for a clue.

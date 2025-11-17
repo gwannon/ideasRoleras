@@ -155,8 +155,9 @@ h1 {
 
 #MisterioDeLaPeninsulaDelSimio h1 {
   line-height: 110%;
-  padding-left: 40%;
+  padding-left: 58%;
   background-image: url(../images/TitularMisterio.jpg);
+  font-size: 1.5em;
 }
 
 
@@ -230,6 +231,7 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2) {
   font-size: 2.45em;
   text-align: center;
   margin: 0px 20px ;
+  margin-top: var(--padding); 
   position: relative;
   text-shadow: 3px 0px 3px var(--color-red-shadow);
   text-shadow: 3px 0px 3px var(--color-red-light);

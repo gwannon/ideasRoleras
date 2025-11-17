@@ -6,6 +6,22 @@
 
 \sp
 
+|INDICE|
+
+&nbsp;
+
+> Versión 0.1 | Diciembre 2025
+
+\sc
+
+_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
+
+_Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
+
+_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
+
+\sp
+
 \sinc
 
 ## El enigma de la Península del Simio
@@ -14,23 +30,19 @@
 
 \conc
 
-_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
-
-_Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
-
-_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._
-
 «El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games.
 
+### Reglas especiales
+
+#### Mira detrás de ti ... ¡Un simio de tres colas! 
+
+Una vez por sesión de juego, una de tus jugadoras pueden gastar 2 píxeles y usar el truco de "Mira detrás de ti ... ¡Un simio de tres colas!". La jugadora, tras decir la frase, debe tirar un d6.
+
+Con un resultado de 6 el otro objetivo, se gira para ver al simio de tres colas y todas las jugadoras pueden hacer una acción, como coger algo que estaba guardando el objetivo, huir, atravesar una puerta.
+
+Este truco solo funciona con PNJ con los que puedas HABLAR y cuando sí hay un simio de tres colas detrás falla siempre.
+
 \sc
-
-|INDICE|
-
-&nbsp;
-
-&nbsp;
-
-> Versión 0.1 | Diciembre 2025
 
 \sp
 
