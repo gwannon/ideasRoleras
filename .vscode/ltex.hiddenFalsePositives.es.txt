@@ -161,3 +161,4 @@
 {"rule":"REAL","sentence":"^\\QPavos reales\nElementos clicables:\\E$"}
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido.\\E$"}
 {"rule":"FORM","sentence":"^\\QLas AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.\\E$"}
+{"rule":"CARTOON","sentence":"^\\QA lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa.\\E$"}

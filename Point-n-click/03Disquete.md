@@ -12,6 +12,8 @@ Posteriormente, en la segunda escena, deberán infiltrarse en el barco zombi del
 
 Por último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte. Aquí no queremos segundas partes, ¿o sí?
 
+### 1. La excavación
+
 XXX
 
 \sc
@@ -19,6 +21,16 @@ XXX
 [![Silence By Fatbeard91](./images/silence_by_fatbeard91_dfvdlmr-414w-2x.jpg "Silence By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Silence-959695299 "Silence By Fatbeard91")
 
 \sp
+
+### 2. De vampiros y zombis
+
+XXX
+
+### 3. ¡Muere maldito vampirata!
+
+XXX
+
+### 4. Secuencia final
 
 XXX
 
@@ -38,9 +50,9 @@ XXX
 
 XXX
 
-\sinc
+\sp
 
-&nbsp;
+\sinc
 
 ### Mapa de la Península del Simio
 

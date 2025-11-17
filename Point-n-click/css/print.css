@@ -397,7 +397,7 @@ ul li:before {
   height: 17px;
   background: transparent url(../images/cursor.png) center center no-repeat;
   background-size: contain;
-  top: 7px;
+  top: 5px;
 }
 
 table {

@@ -30,34 +30,47 @@ Recuérdales lo que decía tu viejo tío Vizzini «Si paso algo mal, vuelve al p
 
 XXX
 
-
-XXX
+En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Problemas? Alfonsé, el conde vudú, es la solución». Parece un _**repartidor de folletos**_ que trabaja para Alfonsé. 
 
 #### El vómito del Kraken
 
-En el puerto podrán encontrar ahora en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las _**Jefas PIratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
+En el puerto podrán encontrar ahora en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
 
 XXX
 
 ### 2. La senda del vudú
 
-La única forma de llegar a choza de _**Alfonsé**_ es conseguir uno de sus panfletos publicitarios que explica como llegar. El problema es que el _**repartidor**_ que ha contratado los ha repartido ya todos y no puede dar ninguno a tus jugadoras. En realidad los ha tirado todos en el pantano y se ha ido a empapuzarse de grog de bañera en el _**Cangrejo Codido**_.
+La única manera de llegar a choza de _**Alfonsé**_ es conseguir uno de sus panfletos publicitarios que explica como llegar. El problema es que el _**repartidor**_ que ha contratado los ha repartido ya todos y no puede dar ninguno a tus jugadoras. En realidad los ha tirado todos en el pantano y se ha ido a empapuzarse de grog de bañera en el _**Cangrejo Cocido**_.
 
-El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el famoso pirata Francois «El Olones» a _**Maxine la roja**_. Esta lo guarda en una vitrina de su _**tienda de souvenirs**_.
+Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé**_, solo hay uno y está en la _**tienda souvenirs**_
+
+#### Tienda de souvenirs
+
+El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el famoso pirata François «El Olones» a _**Maxine la roja**_. Esta lo guarda en una vitrina de su _**tienda de souvenirs**_ como oro en paño. No quiere desprenderse de él. 
+
+Si intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
 
 XXX
 
 #### El pantano
 
-El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el folleto de Alfonsé. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
+El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el _**folleto de Alfonsé**_. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
 
-No hay nada en el pantano que indique el camino, pero si quieres tenerlos entretenidos mete alguna pista falta, puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores.
+**No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla. 
 
-XXX
+Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_. 
+
+\sp
+
+Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantalla del pantano lo hagan por la derecha y que las indicaciones tengan que ser en referencia a la entrada. Es decir, si la primera se meten por el norte (arriba), aparecerán por la derecha con lo que el norte estaría saliendo por la izquierda en vez de saliendo por arriba y este estaría arriba, oeste abajo y sur por donde han venido.
+
+Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al _**repartidor de publicidad**_ para que les diga el camino a la _**guarida**_. Es una opción interesante y puedes hacer que, por ejemplo, _**Sam**_ tenga una superjarra de café en el -**astillero**_.
 
 #### La guarida de Alfonsé
 
 XXX
+
+Para el interés de tus jugadoras, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el repartidor.
 
 ### 3. En mareas extrañas
 
@@ -78,7 +91,6 @@ XXX
 #### Astilleros  
 
 * **PNJ:** Sam
-* **Elementos clicables:** XXX
 * **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso
 
 #### Puerto
@@ -96,27 +108,39 @@ XXX
 * **Elementos clicables:** Folleto de Alfonsé firmado por Francois «el Olones»
 * **Conexiones:** Centro de Bucan Ville
 
+### Nuevas pantallas de Bucan Ville
+
+#### El vómito del Kraken
+
+* **PNJ:** XXX
+* **Elementos clicables:** XXX
+* **Conexiones:** Puerto
+
 ### Pantanos
 
 #### Laberinto pantanoso
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
 * **Conexiones:** Astilleros, Guarida de Alfonsé
 
 #### Guarida de Alfonsé
 
-* **PNJ:** XXX
+* **PNJ:** Alfonsé
 * **Elementos clicables:** XXX
 * **Conexiones:** Laberinto pantanoso
 
-\sinc
+\sp
 
-&nbsp;
+\sinc
 
 ### Mapa de la isla
 
 XXX
+
+\conc
+
+\sp
+
+\sinc
 
 ### Carta marina
 
