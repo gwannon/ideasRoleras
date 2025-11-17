@@ -337,11 +337,6 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2):after {
   );
 }
 
-
-
-
-
-
 h3 {
   margin-top: 5px;
   font-size: 2em;
@@ -394,7 +389,16 @@ ul li:before {
   left: -19px;
   display: block;
   color: var(--color-red);
-} 
+}
+
+#MisterioDeLaPeninsulaDelSimio ul li:before {
+  content: "";
+  width: 12px;
+  height: 17px;
+  background: transparent url(../images/cursor.png) center center no-repeat;
+  background-size: contain;
+  top: 7px;
+}
 
 table {
   margin-top: 5px;

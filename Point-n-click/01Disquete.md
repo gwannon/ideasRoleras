@@ -276,7 +276,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 #### Puerto
 
 * **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville
+* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville, Casa del Gobernador (Exterior)
 
 #### Taberna del Cangrejo Cocido
 
@@ -288,8 +288,8 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 &nbsp;
 
-### Mapa de pantallas
+### Mapa de Bucan Ville
 
-![Mapa de pantallas](./images/mapa.png)
+![Mapa de Bucan Ville](./images/mapa.png)
 
 \conc

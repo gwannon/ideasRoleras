@@ -42,7 +42,7 @@ XXX
 
 &nbsp;
 
-### Mapa de pantallas
+### Mapa de la Península del Simio
 
 XXX
 
