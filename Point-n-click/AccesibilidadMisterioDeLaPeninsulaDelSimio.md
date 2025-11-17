@@ -266,9 +266,13 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 ## Disquete II: Poderosa magia vudú
 
-En esta segunda parte tus jugadoras tendrán que superar otras 5 escenas. La primera será una escena rápida en que las _**Jefas Piratas**_ les encarguen rescatar al Gobernador Marlon, ya que les debe mucha pasta que le prestaron para su próxima campaña electoral. Por suerte les dejarán un barco cochambroso que usan para espectáculos para turistas.
+En esta segunda parte tus jugadoras tendrán que superar otras 3 escenas. La primera será una escena rápida en que las _**Jefas Piratas**_ les encarguen rescatar al Gobernador Marlon, ya que les debe mucha pasta que le prestaron para su próxima campaña electoral. Por suerte les dejarán un barco cochambroso que usan para espectáculos para turistas.
 
-Luego tendrán que adentrarse en los pantanos de la Isla para encontrarse a Alfonsé, el conde vudú de los pantanos, para que les explique cómo pueden acabar con DraChuckla y dónde encontrar la Península del Simio donde está el temible pirata buscando el Mac’n Cheese.
+En una segunda escena, tendrán que adentrarse en los pantanos de la Isla para encontrarse a _**Alfonsé**_, el conde vudú de los pantanos, para que les explique cómo pueden acabar con DraChuckla y como legar a la Península del Simio donde se supone que está el temible vampirata buscando el _**Mac’n Cheese**_.
+
+Según _**Alfonsé**_, la única forma de acabar con el capitán DraChuckla es usando la _**cruz de Coronado**_ que es parte del tesoro del _**Mac’n Cheese**_. Así que tendrán que encontrar el tesoro antes que su terrible enemigo. 
+
+En la tercera y última escena deberán atravesar el mar Caribe para llegar a la Península del Simio siguiendo los designios de los huesos del oráculo que les ha dado el conde del Vudú.
 
 XXX
 [![Glowing Horizons By Fatbeard91](./images/glowing_horizons_by_fatbeard91_dhqf00b-414w-2x.jpg "Glowing Horizons By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Glowing-Horizons-1072294859 "Glowing Horizons By Fatbeard91")## Resumen del disquete II
@@ -280,6 +284,12 @@ XXX
 XXX
 
 ## Disquete III: En la Península del Simio
+
+En este tercer disquete, tus jugadoras deberán encontrar recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
+
+Posteriormente, en la segunda escena, deberán infiltrarse en el barco zombi del DraChuckla y recuperar sus muñecos vudús, ya que con ellos en poder de su enemigo, están indefensos antes la poderosa magia del malvado capitán vampirata.
+
+Por último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte. Aquí no queremos segundas partes, ¿o sí?
 
 XXX
 [![Silence By Fatbeard91](./images/silence_by_fatbeard91_dfvdlmr-414w-2x.jpg "Silence By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Silence-959695299 "Silence By Fatbeard91")

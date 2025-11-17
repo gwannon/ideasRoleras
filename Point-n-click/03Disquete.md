@@ -6,6 +6,12 @@
 
 \conc
 
+En este tercer disquete, tus jugadoras deberán encontrar recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
+
+Posteriormente, en la segunda escena, deberán infiltrarse en el barco zombi del DraChuckla y recuperar sus muñecos vudús, ya que con ellos en poder de su enemigo, están indefensos antes la poderosa magia del malvado capitán vampirata.
+
+Por último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte. Aquí no queremos segundas partes, ¿o sí?
+
 XXX
 
 \sc
