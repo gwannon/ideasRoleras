@@ -34,7 +34,11 @@ En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Pr
 
 #### El vómito del Kraken
 
-En el puerto podrán encontrar ahora en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
+Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
+
+En la cubierta principal se encontrarán con la _**Señorita Bridalis**_. _**Bridalis**_ trabaja para la «Comisión por el desarrollo turístico de Bucan Ville», dependiente del «Gremio de Piratas de Bucan Ville», dirigido a su vez por las _**Jefas Piratas**_. _**Bridalis**_ se encarga del mantenimiento del barco y de hacer los shows piratas para los turistas que visitan la isla.
+
+Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pone voces, de manera que desde el exterior parece que el barco está lleno de tripulantes, pero solo está pilotado por ella. Habla con muchísimo acento pirata y está tan metida en el papel que si no le hablas igual no te entiende.
 
 XXX
 
@@ -52,6 +56,8 @@ Si intentan algún truco con los _**vales de descuento**_, les enseñará que ya
 
 XXX
 
+\sp
+
 #### El pantano
 
 El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el _**folleto de Alfonsé**_. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
@@ -60,17 +66,15 @@ El pantano es un laberinto que es imposible atravesar sin las indicaciones adecu
 
 Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_. 
 
-\sp
-
 Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantalla del pantano lo hagan por la derecha y que las indicaciones tengan que ser en referencia a la entrada. Es decir, si la primera se meten por el norte (arriba), aparecerán por la derecha con lo que el norte estaría saliendo por la izquierda en vez de saliendo por arriba y este estaría arriba, oeste abajo y sur por donde han venido.
 
-Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al _**repartidor de publicidad**_ para que les diga el camino a la _**guarida**_. Es una opción interesante y puedes hacer que, por ejemplo, _**Sam**_ tenga una superjarra de café en el -**astillero**_.
+Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al _**repartidor de publicidad**_ para que les diga el camino a la _**guarida**_. Es una opción interesante y puedes hacer que, por ejemplo, _**Sam**_ tenga una jarra gigante de café en el _**astillero**_.
 
 #### La guarida de Alfonsé
 
 XXX
 
-Para el interés de tus jugadoras, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el repartidor.
+Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el _**repartidor**_.
 
 ### 3. En mareas extrañas
 
@@ -105,14 +109,14 @@ XXX
 #### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
-* **Elementos clicables:** Folleto de Alfonsé firmado por Francois «el Olones»
+* **Elementos clicables:** Folleto de Alfonsé firmado por François «El Olones»
 * **Conexiones:** Centro de Bucan Ville
 
 ### Nuevas pantallas de Bucan Ville
 
 #### El vómito del Kraken
 
-* **PNJ:** XXX
+* **PNJ:** Señorita Bridalis
 * **Elementos clicables:** XXX
 * **Conexiones:** Puerto
 
