@@ -334,6 +334,7 @@ Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al 
 
 #### La guarida de Alfonsé
 
+Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él. 
 XXX
 
 Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el _**repartidor**_.

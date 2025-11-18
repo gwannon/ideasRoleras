@@ -68,7 +68,7 @@ El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el
 
 Si les quedan e intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
 
-La única forma de que les dé el _**folleto**_ es que les consiga una foto firmada de otro gran pirata, para lo que les daŕá una cámara de fotos Polaroid. La única forma de conseguir la foto de un pirata famoso es hacer que _**Bridalis**_ se ponga uno de sus disfraces de piaratas famosos y luego firme la foto. Se mete tanto en el personaje que incluso sabe firmar como ello.
+La única forma de que les dé el _**folleto**_ es que les consiga una foto firmada de otro gran pirata, para lo que les daŕá una cámara de fotos Polaroid. La única forma de conseguir la foto de un pirata famoso es hacer que _**Bridalis**_ se ponga uno de sus disfraces de piratas famosos y luego firme la foto. Se mete tanto en el personaje que incluso sabe firmar como ello.
 
 #### El pantano
 
@@ -85,6 +85,10 @@ Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantall
 Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al _**repartidor de publicidad**_ para que les diga el camino a la _**guarida**_. Es una opción interesante y puedes hacer que, por ejemplo, _**Sam**_ tenga una jarra gigante de café en el _**astillero**_.
 
 #### La guarida de Alfonsé
+
+Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él. 
+
+\sc
 
 XXX
 
