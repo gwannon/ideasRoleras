@@ -266,7 +266,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 ## Disquete II: Poderosa magia vudú
 
-En esta segunda parte tus jugadoras tendrán que superar otras 3 escenas. La primera será una escena rápida en que las _**Jefas Piratas**_ les encarguen rescatar al Gobernador Marlon, ya que les debe mucha pasta que le prestaron para su próxima campaña electoral. Por suerte les dejarán un barco cochambroso que usan para espectáculos para turistas.
+En esta segunda parte tus jugadoras tendrán que superar otras 3 escenas. La primera será una escena rápida en que las _**Jefas Piratas**_ les encarguen rescatar al Gobernador Marlon, ya que les debe mucha pasta por trabajos que han estado haciendo para su próxima campaña electoral. Por suerte les dejarán un barco cochambroso que usan para espectáculos para turistas.
 
 En una segunda escena, tendrán que adentrarse en los pantanos de la Isla para encontrarse a _**Alfonsé**_, el conde vudú de los pantanos, para que les explique cómo pueden acabar con DraChuckla y como llegar a la Península del Simio donde se supone que está el temible vampirata buscando el _**Mac’n Cheese**_.
 
@@ -278,11 +278,21 @@ En la tercera y última escena deberán atravesar el mar Caribe para llegar a la
 
 ¿Y ahora qué? Vuestro plan de robar al gobernador se ha ido al garete, así que habrá que buscarse un plan B.
 [![Glowing Horizons By Fatbeard91](./images/glowing_horizons_by_fatbeard91_dhqf00b-414w-2x.jpg "Glowing Horizons By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Glowing-Horizons-1072294859 "Glowing Horizons By Fatbeard91")
-Recuérdales lo que decía tu viejo tío Vizzini «Si paso algo mal, vuelve al principio». Así que deberían ir a ver al _**Cangrejo Cocido**_ a ver que se rumorea entre los parroquianos de la taberna.
+Recuérdales lo que decía tu viejo tío Vizzini «Si algo sale mal, vuelve al principio». Así que deberían ir al _**Cangrejo Cocido**_ a ver que se rumorea entre los parroquianos de la taberna.
 
 #### La taberna del Cangrejo Cocido
 
-XXX
+El Cangrejo Cocido sigue igual de sucio y mugriento y al fondo las 3 _**Jefas Piratas**_ hablan entre ellas. Parece ser que han estado haciendo «trabajos» para el gobernador Marlon precampaña electoral y todavía no los han cobrado con lo que les interesa salvar al secuestrado gobernador y el dinero que robó DraChuckla.
+
+En cuanto les vean acercarse verán una posibilidad de encasquetarle el marrón a unas pobres incautas, tus jugadoras. Así que con mucha verborrea, les ofrecerán un barco de verdad para sus piraterías, si aceptan rescatar al gobernador y recuperar el dinero perdido.
+
+Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que solo podrían ver con la _**lupa de Lulock Holmes**_ que tiene _**Maxine la roja**_ en su _**tienda de souvenirs**_ y que no les dejará sacar, pero peude ser divertido que lo intenten hasta que se aburran y firme el contrato.
+
+El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
+
+Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac'n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
+
+Como cosnejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**__ para más información sobre DraChuckla y la Península del Simio.
 
 En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Problemas? Alfonsé, el conde vudú, es la solución». Parece un _**repartidor de folletos**_ que trabaja para Alfonsé. 
 
@@ -291,10 +301,11 @@ En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Pr
 Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
 
 En la cubierta principal se encontrarán con la _**Señorita Bridalis**_. _**Bridalis**_ trabaja para la «Comisión por el desarrollo turístico de Bucan Ville», dependiente del «Gremio de Piratas de Bucan Ville», dirigido a su vez por las _**Jefas Piratas**_. _**Bridalis**_ se encarga del mantenimiento del barco y de hacer los shows piratas para los turistas que visitan la isla.
+Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pone voces, de manera que desde el exterior parece que el barco está lleno de tripulantes, pero solo está pilotado por ella. Tienes varios piratas famosos que sabe imitar a la perfección y de los que tiene un buen disfraz.
 
-Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pone voces, de manera que desde el exterior parece que el barco está lleno de tripulantes, pero solo está pilotado por ella. Habla con muchísimo acento pirata y está tan metida en el papel que si no le hablas igual no te entiende.
+Habla con muchísimo acento pirata y está tan metida en el papel que, si no le hablas con igual acento, no te entiende.
 
-XXX
+_**Bridalis**_ les dirá que tiene el barco preparado para zarpar, pero antes deberían averiguar o conseguir alguna pista sobre donde está la Península del Simio. Tal vez el poderoso conde vudú _**Alfonsé**_ que vive en el pantano pueda ayudarles. A su madre le hizo desaparecer una verruga con pelos que tenía en la espalda, así que su eficacía como brujo está probada.
 
 ### 2. La senda del vudú
 
@@ -306,15 +317,15 @@ Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé
 
 El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el famoso pirata François «El Olones» a _**Maxine la roja**_. Esta lo guarda en una vitrina de su _**tienda de souvenirs**_ como oro en paño. No quiere desprenderse de él. 
 
-Si intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
+Si les quedan e intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
 
-XXX
+La única forma de que les dé el _**folleto**_ es que les consiga una foto firmada de otro gran pirata, para lo que les daŕá una cámara de fotos Polaroid. La única forma de conseguir la foto de un pirata famoso es hacer que _**Bridalis**_ se ponga uno de sus disfraces de piaratas famosos y luego firme la foto. Se mete tanto en el personaje que incluso sabe firmar como ello.
+
 #### El pantano
 
 El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el _**folleto de Alfonsé**_. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
 
 **No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla. 
-
 Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_. 
 
 Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantalla del pantano lo hagan por la derecha y que las indicaciones tengan que ser en referencia a la entrada. Es decir, si la primera se meten por el norte (arriba), aparecerán por la derecha con lo que el norte estaría saliendo por la izquierda en vez de saliendo por arriba y este estaría arriba, oeste abajo y sur por donde han venido.
@@ -333,24 +344,27 @@ XXX## Resumen del disquete II
 
 ### Pantallas actualizadas
 
-#### Astilleros  
+Los nuevos elementos están en cursiva.
+
+#### Astilleros 
 
 * **PNJ:** Sam
-* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso
+* **Conexiones:** Plaza Mayor de Bucan Ville, _Laberinto pantanoso_
 
 #### Puerto
 
-* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, El vómito del Kraken, Casa del Gobernador (Exterior)
+* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _El vómito del Kraken_, Casa del Gobernador (Exterior)
 
 #### Taberna del Cangrejo Cocido
 
-* **PNJ:** Jefas Piratas, Repartidor de folletos
+* **PNJ:** Jefas Piratas, Piratas borrachos, _Repartidor de folletos_
+* **Elementos clicables:** _Contrato por obra y servicio_
 * **Conexiones:** Puerto
 
 #### Tienda de Souvenirs
 
 * **PNJ:** Maxine la roja
-* **Elementos clicables:** Folleto de Alfonsé firmado por François «El Olones»
+* **Elementos clicables:** Lupa de Lulock Holmes, _Folleto de Alfonsé firmado por François «El Olones»_, _Cámara Polaroid_
 * **Conexiones:** Centro de Bucan Ville
 
 ### Nuevas pantallas de Bucan Ville
@@ -358,7 +372,6 @@ XXX## Resumen del disquete II
 #### El vómito del Kraken
 
 * **PNJ:** Señorita Bridalis
-* **Elementos clicables:** XXX
 * **Conexiones:** Puerto
 
 ### Pantanos
@@ -373,7 +386,7 @@ XXX## Resumen del disquete II
 * **Elementos clicables:** XXX
 * **Conexiones:** Laberinto pantanoso### Mapa de la isla
 
-XXX
+Nuevas ubicaciones en naranja.
 
 ### Carta marina
 
