@@ -112,6 +112,8 @@ Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfl
 
 XXX
 
+\sc
+
 \sp
 
 \sinc
@@ -155,8 +157,6 @@ Los nuevos elementos están en cursiva.
 
 * **PNJ:** Señorita Bridalis
 * **Conexiones:** Puerto
-
-### Pantanos
 
 #### Laberinto pantanoso
 

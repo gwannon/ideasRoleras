@@ -116,19 +116,14 @@ blockquote p {
 pre {
   white-space: pre-wrap;
   padding: 0px;
+  text-align: left;
 }
 
-pre:before {
-  content: "\201C";
-}
-
-pre:after {
-  content: "\201D";
-}
 
 pre * {
-  font-family: "Open Sans", sans-serif;
-  font-size: 1em;
+  font-family: 'Fool';
+  color: var(--color-red);
+  font-size: 1.4em;
   margin: 0px;
   padding: 0px;
 }
@@ -198,7 +193,7 @@ h1 {
   }
 
   #MisterioDeLaPeninsulaDelSimio h1 {
-    padding-top: 670px;
+    padding-top: 650px;
     font-size: 3.3em;
     line-height: 100%;
     padding-left: 55%;

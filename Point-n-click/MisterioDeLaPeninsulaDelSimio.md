@@ -10,7 +10,7 @@
 
 &nbsp;
 
-> Versión 0.5 | Diciembre 2025
+> Versión 0.6 | Diciembre 2025
 
 \sc
 
@@ -45,6 +45,8 @@ Con un resultado de 6 el otro objetivo, se gira para ver al simio de tres colas 
 Este truco solo funciona con PNJ con los que puedas HABLAR y cuando sí hay un simio de tres colas detrás falla siempre.
 
 \sc
+
+[![Ship sailing on the sea By ddraw](./images/ship-sailing-sea_1196-179.jpg "Ship sailing on the sea By ddraw")](https://www.freepik.com/free-vector/ship-sailing-sea_956625.htm "Ship sailing on the sea By ddraw")
 
 \sp
 
@@ -90,3 +92,4 @@ Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com
 * Vector boho art tribal doodle sketch corner frame by [rawpixel.com](https://www.freepik.com/free-vector/vector-boho-art-tribal-doodle-sketch-corner-frame_35510790.htm)
 * Cartoon jungle background with pathway through exotic plants by [freepik](https://www.freepik.com/free-vector/cartoon-jungle-background-with-pathway-through-exotic-plants_13810853.htm)
 * Background of pirate woman on a boat [freepik](https://www.freepik.com/free-vector/background-pirate-woman-boat_1126876.htm)
+* Ship sailing on the sea By [ddraw](https://www.freepik.com/free-vector/ship-sailing-sea_956625.htm)
