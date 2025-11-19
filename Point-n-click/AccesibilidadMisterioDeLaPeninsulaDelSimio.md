@@ -272,7 +272,7 @@ En una segunda escena, tendrán que adentrarse en los pantanos de la Isla para e
 
 Según _**Alfonsé**_, la única forma de acabar con el capitán DraChuckla es usando la _**cruz de Coronado**_ que es parte del tesoro del _**Mac’n Cheese**_. Así que tendrán que encontrar el tesoro antes que su terrible enemigo. 
 
-En la tercera y última escena deberán atravesar el mar Caribe para llegar a la Península del Simio siguiendo los designios de los huesos del oráculo que les ha dado el conde del vudú.
+En la tercera y última escena deberán atravesar el mar Caribe para llegar a la _**Península del Simio**_ siguiendo los designios de los _**huesos del oráculo**_ que les ha dado el conde del vudú.
 
 ### 1. Mi primer barco pirata
 
@@ -319,13 +319,17 @@ El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el
 
 Si les quedan e intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
 
-La única forma de que les dé el _**folleto**_ es que les consiga una foto firmada de otro gran pirata, para lo que les daŕá una cámara de fotos Polaroid. La única forma de conseguir la foto de un pirata famoso es hacer que _**Bridalis**_ se ponga uno de sus disfraces de piaratas famosos y luego firme la foto. Se mete tanto en el personaje que incluso sabe firmar como ello.
+La única forma de que les dé el _**folleto**_ es que les consiga una foto firmada de otro gran pirata, para lo que les dará una [cámara de fotos Polaroid](https://es.wikipedia.org/wiki/C%C3%A1mara_instant%C3%A1nea). Y la única manera de conseguir la foto de un pirata famoso es hacer que _**Bridalis**_ se ponga uno de sus disfraces de piratas famosos y luego firme la foto. Se mete tanto en el personaje que incluso sabe firmar como ellos.
 
+Según entreguen la foto, _**Maxine**_ debería inventarse alguna historia escabrosa/picante que tuvo con el personaje fotografiado.
+
+Si se ponen ingeniosas, igual pueden convencer a _**Alfonsé**_, el conde del vudú, para que les haga una sesión de espiritismo con alguna pirata famosa y que les firme algo poseyendo al médium. 
 #### El pantano
 
 El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el _**folleto de Alfonsé**_. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
 
 **No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla. 
+
 Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_. 
 
 Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantalla del pantano lo hagan por la derecha y que las indicaciones tengan que ser en referencia a la entrada. Es decir, si la primera se meten por el norte (arriba), aparecerán por la derecha con lo que el norte estaría saliendo por la izquierda en vez de saliendo por arriba y este estaría arriba, oeste abajo y sur por donde han venido.
@@ -335,7 +339,10 @@ Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al 
 #### La guarida de Alfonsé
 
 Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él. 
+
 XXX
+
+El conde del vudú en los _**huesos**_ son «huesos del oráculo» no «huesos oráculo» (guiño, guiño, golpe, golpe). Vamos, que son los huesos humanos, exactamente de un vidente que veía el futuro.
 
 Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el _**repartidor**_.
 
@@ -384,7 +391,7 @@ Los nuevos elementos están en cursiva.
 #### Guarida de Alfonsé
 
 * **PNJ:** Alfonsé
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Huesos del oráculo
 * **Conexiones:** Laberinto pantanoso### Mapa de la isla
 
 Nuevas ubicaciones en naranja.
