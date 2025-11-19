@@ -7,15 +7,15 @@ _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampirat
 
 _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._## El enigma de la Península del Simio
 
-«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point an click RPG»](https://pointnclick.gwannon.com/).
+«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point and click RPG»](https://pointnclick.gwannon.com/).
 
 La primera parte de esta aventura (Disquete I), es la aventura introductoria que viene en las reglas básicas, así que si ya la has jugado, puedes saltártela. 
 
 ### Reglas especiales
 
-#### Mira detrás de ti ... ¡Un simio de tres colas! 
+#### Mira detrás de ti … ¡Un simio de tres colas! 
 
-Una vez por sesión de juego, una de tus jugadoras pueden gastar 2 píxeles y usar el truco de "Mira detrás de ti ... ¡Un simio de tres colas!". La jugadora, tras decir la frase, debe tirar un d6.
+Una vez por sesión de juego, una de tus jugadoras pueden gastar 2 píxeles y usar el truco de "Mira detrás de ti … ¡Un simio de tres colas!". La jugadora, tras decir la frase, debe tirar un d6.
 
 Con un resultado de 6 el otro objetivo, se gira para ver al simio de tres colas y todas las jugadoras pueden hacer una acción, como coger algo que estaba guardando el objetivo, huir, atravesar una puerta.
 
@@ -286,13 +286,13 @@ El Cangrejo Cocido sigue igual de sucio y mugriento y al fondo las 3 _**Jefas Pi
 
 En cuanto les vean acercarse verán una posibilidad de encasquetarle el marrón a unas pobres incautas, tus jugadoras. Así que con mucha verborrea, les ofrecerán un barco de verdad para sus piraterías, si aceptan rescatar al gobernador y recuperar el dinero perdido.
 
-Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que solo podrían ver con la _**lupa de Lulock Holmes**_ que tiene _**Maxine la roja**_ en su _**tienda de souvenirs**_ y que no les dejará sacar, pero peude ser divertido que lo intenten hasta que se aburran y firme el contrato.
+Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que solo podrían ver con la _**lupa de Lulock Holmes**_ que tiene _**Maxine la roja**_ en su _**tienda de souvenirs**_ y que no les dejará sacar, pero puede ser divertido que lo intenten hasta que se aburran y firme el contrato.
 
 El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
 
 Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac'n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
 
-Como cosnejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**__ para más información sobre DraChuckla y la Península del Simio.
+Como consejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**_ para más información sobre DraChuckla y la Península del Simio.
 
 En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Problemas? Alfonsé, el conde vudú, es la solución». Parece un _**repartidor de folletos**_ que trabaja para Alfonsé. 
 
@@ -305,7 +305,7 @@ Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pon
 
 Habla con muchísimo acento pirata y está tan metida en el papel que, si no le hablas con igual acento, no te entiende.
 
-_**Bridalis**_ les dirá que tiene el barco preparado para zarpar, pero antes deberían averiguar o conseguir alguna pista sobre donde está la Península del Simio. Tal vez el poderoso conde vudú _**Alfonsé**_ que vive en el pantano pueda ayudarles. A su madre le hizo desaparecer una verruga con pelos que tenía en la espalda, así que su eficacía como brujo está probada.
+_**Bridalis**_ les dirá que tiene el barco preparado para zarpar, pero antes deberían averiguar o conseguir alguna pista sobre donde está la Península del Simio. Tal vez el poderoso conde vudú _**Alfonsé**_ que vive en el pantano pueda ayudarles. A su madre le hizo desaparecer una verruga con pelos que tenía en la espalda, así que su eficacia como brujo está probada.
 
 ### 2. La senda del vudú
 
@@ -340,9 +340,16 @@ Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al 
 
 Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él. 
 
-XXX
+Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac'n Cheese**_, pero a él no le mueve el dinero, etc.
 
-El conde del vudú en los _**huesos**_ son «huesos del oráculo» no «huesos oráculo» (guiño, guiño, golpe, golpe). Vamos, que son los huesos humanos, exactamente de un vidente que veía el futuro.
+Tras dar muchas vueltas y vueltas a la conversación, si son persistentes, le sacarán toda la info necesaria:
+
+* Para matar a DraChuckla necesitan la _**cruz de Coronado**_, una cruz de oro y joyas de gran valor que se supone que forma parte del _**Mac’n Cheese**_.
+* Todo el mundo sabe que el _**Mac’n Cheese**_ está escondido en la península del Simio, el problema es encontrar la península. Para encontrarla debes usar los _**huesos vudú**_ y resolver su misterio.
+* La única manera de contrarrestar los muñecos vudú que hizo DraChuckla de ellas es destruirlas.
+Como ya hemos dicho, si tus jugadoras son descorteses, puede convertirlas en gallina durante unos minutos. La _**gallina**_ puede meterse en el equipo y al poco de sacarse se volverá a convertirse en persona. Seguramente traten de solucionar algún reto con esta opción y si son creativos podrían usarlo.
+
+El conde del vudú hace mucho hincapié en que los _**huesos**_ son «huesos del oráculo» no «huesos oráculo» (guiño, guiño, golpe, golpe). Vamos, que son huesos humanos, exactamente de un vidente llamado Tom «el bidente» por tener solo dos dientes.
 
 Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el _**repartidor**_.
 
@@ -374,7 +381,6 @@ Los nuevos elementos están en cursiva.
 * **PNJ:** Maxine la roja
 * **Elementos clicables:** Lupa de Lulock Holmes, _Folleto de Alfonsé firmado por François «El Olones»_, _Cámara Polaroid_
 * **Conexiones:** Centro de Bucan Ville
-
 ### Nuevas pantallas de Bucan Ville
 
 #### El vómito del Kraken
@@ -392,15 +398,10 @@ Los nuevos elementos están en cursiva.
 
 * **PNJ:** Alfonsé
 * **Elementos clicables:** Huesos del oráculo
-* **Conexiones:** Laberinto pantanoso### Mapa de la isla
+* **Conexiones:** Laberinto pantanoso### Mapa de la isla![Mapa de Bucan Ville actualizado](./images/mapa2.png)
+_Nuevas ubicaciones en naranja_
 
-Nuevas ubicaciones en naranja.
-
-### Carta marina
-
-XXX
-
-## Disquete III: En la Península del Simio
+### Carta marina## Disquete III: En la Península del Simio
 
 En este tercer disquete, tus jugadoras deberán encontrar recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
 

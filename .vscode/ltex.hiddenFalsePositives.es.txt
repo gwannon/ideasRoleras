@@ -162,3 +162,12 @@
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPueden tratar de buscar el Mac’n Cheese, el tesoro pirata más grande conocido.\\E$"}
 {"rule":"FORM","sentence":"^\\QLas AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.\\E$"}
 {"rule":"CARTOON","sentence":"^\\QA lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGlowing Horizons By Fatbeard91\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QEl contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).\\E$"}
+{"rule":"FORM","sentence":"^\\QLa única forma de que les dé el folleto es que les consiga una foto firmada de otro gran pirata, para lo que les dará una cámara de fotos Polaroid.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está Alfonsé, el conde vudú de los pantanos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSilence By Fatbeard91\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QPor último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte.\\E$"}
+{"rule":"MIN_MESES","sentence":"^\\QVersión 0.5 | Diciembre 2025\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QPara poder jugar esta aventura solo necesitas las reglas básicas de «Point and click RPG».\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\Q«El enigma de la Península del Simio» es una aventura para el juego de rol «Point and click RPG» escrita por @gwannon y está hecho bajo licencia CC BY 4.0.\\E$"}
