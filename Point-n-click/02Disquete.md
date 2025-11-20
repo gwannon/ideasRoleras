@@ -110,9 +110,21 @@ Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfl
 
 ### 3. En mareas extrañas
 
-XXX
+Esta escena es un puzzle en el que deberán usar los _**huesos del oráculo**_. Los huesos son 9 dados de 6 caras con puntos en vez de números. Para invocar al oráculo deben conseguir la siguiente figura que representa una calavera. En ese momento aparecerá el oráculo y les guiará a la península del simio.
+
+La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo. 
 
 \sc
+
+Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Luego deberán conseguir dibujar la calavera con el número exacto de movimiento. Pueden deshacer un movimiento gastando un píxel.
+
+![Huesos del oráculo](./images/huesos.png)
+
+Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis». 
+
+_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados el oráculo se desvanecerá y no podrá volver a ser invocado.
+
+Si siguen las coordenadas que les de _**Tom «el bidente»**_ conseguirán llegar a la península del Simio. Apartir de este momento podrán venir siempre que quieran.
 
 \sp
 
@@ -183,15 +195,5 @@ Los nuevos elementos están en cursiva.
 &nbsp;
 
 _Nuevas ubicaciones en naranja_
-
-\conc
-
-\sp
-
-\sinc
-
-### Carta marina
-
-&nbsp;
 
 \conc

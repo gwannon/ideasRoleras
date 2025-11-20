@@ -354,9 +354,18 @@ Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfl
 
 ### 3. En mareas extrañas
 
-XXX
+Esta escena es un puzzle en el que deberán usar los _**huesos del oráculo**_. Los huesos son 9 dados de 6 caras con puntos en vez de números. Para invocar al oráculo deben conseguir la siguiente figura que representa una calavera. En ese momento aparecerá el oráculo y les guiará a la península del simio.
 
-## Resumen del disquete II
+La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo. 
+Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Luego deberán conseguir dibujar la calavera con el número exacto de movimiento. Pueden deshacer un movimiento gastando un píxel.
+
+![Huesos del oráculo](./images/huesos.png)
+
+Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis». 
+
+_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados el oráculo se desvanecerá y no podrá volver a ser invocado.
+
+Si siguen las coordenadas que les de _**Tom «el bidente»**_ conseguirán llegar a la península del Simio. Apartir de este momento podrán venir siempre que quieran.## Resumen del disquete II
 
 ### Pantallas actualizadas
 
@@ -398,11 +407,11 @@ Los nuevos elementos están en cursiva.
 * **PNJ:** Alfonsé
 * **Elementos clicables:** Huesos del oráculo
 * **Conexiones:** Laberinto pantanoso### Mapa de la isla![Mapa de Bucan Ville actualizado](./images/mapa2.png)
-_Nuevas ubicaciones en naranja_
+_Nuevas ubicaciones en naranja_## Disquete III: En la Península del Simio
 
-### Carta marina## Disquete III: En la Península del Simio
+Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminate», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar. 
 
-En este tercer disquete, tus jugadoras deberán encontrar recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
+En este tercer disquete, deberán recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
 
 Posteriormente, en la segunda escena, deberán infiltrarse en _**el caminante**_, el barco zombi del DraChuckla, y recuperar sus _**muñecos vudús**_, ya que con ellos en poder de su enemigo, están indefensos antes la poderosa magia del malvado capitán vampirata.
 
@@ -411,9 +420,9 @@ Por último, deberán enfrentarse en singular combate con DraChuckla y usar la C
 ### 1. La excavación
 
 Tus jugadoras han llegado a la costa de la península del Simio y lo primero es encontrar el gran tesoro pirata y conseguir la _**cruz de Coronado**_.
-
-Lo primero será encontrar la cueva donde está el tesoro sin perderse en el laberinto de la jungla. Y esta vez no habrá mapa como con el pantano. Deberán descubrir la clave, que son unos doblones en un pixel exacto que marcan la ruta.
 [![Silence By Fatbeard91](./images/silence_by_fatbeard91_dfvdlmr-414w-2x.jpg "Silence By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Silence-959695299 "Silence By Fatbeard91")
+Lo primero será encontrar la cueva donde está el tesoro sin perderse en el laberinto de la jungla. Y esta vez no habrá mapa como con el pantano. Deberán descubrir la clave, que son unos doblones en un pixel exacto que marcan la ruta.
+
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
 En el fondo de la cueva encima de una montaña de doblones de oro está la _**cruz de Coronado**_ pero escalar el montón de doblones y coger la cruz será otro reto.
@@ -422,13 +431,35 @@ En el fondo de la cueva encima de una montaña de doblones de oro está la _**cr
 
 #### La playa
 
-XXX
+Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_. 
+
+Cada vez que entren en la pantalla _**Bridalis**_ tendrá un nuevo disfraz y estará haciendo alguna de estas actividades:
+
+* Hacer un castillo de arena
+* Broncearse al sol
+* Jugar con una pelota de playa
+* Salir del agua con traje de submarinismo
+* Pescar con caña
+* Hacer una barbacoa
+* Con un detector de metales buscando monedas
+
+Si las ves muy perdidas puedes darles, alguno de los objetos que está usando _**Bridalis**_, por ejemplo, el detector de metales puede ayudarles en la jungla. También puedes llenarles el equipo de mierdas que no van a necesitar ni poder usar.
+
+Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_
 
 #### La jungla
 
-XXX
+La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
 
-#### Entrada de la cueva del tesoro
+La única manera de atravesar el laberinto debes seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en pixeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
+
+Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_. 
+
+ 
+
+A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_. #### Entrada de la cueva del tesoro
+
+La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un montón de simios que te gruñen y lanzan cacas si te acercas.
 
 XXX
 
@@ -447,8 +478,6 @@ XXX
 #### Cámara del tesoro
 
 XXX
- 
-
 ### 2. De vampiros y zombis
 
 Esta escena se desarrollará en _**El caminante**_, el navío de velas negras de DraChuckla. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
@@ -470,6 +499,7 @@ XXX
 #### Cubierta superior
 
 XXX
+
 #### Castillo de popa
 
 XXX
@@ -477,55 +507,48 @@ XXX
 #### Camarote de DraChuckla
 
 XXX
-
 ### 3. ¡Muere maldito vampirata!
 
-XXX
-
-### 4. Secuencia final
+XXX### 4. Secuencia final
 
 XXX
 
-> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.## Resumen del disquete III### Jungla perdida
+> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
+
+## Resumen del disquete III### Jungla perdida
 
 #### Playa
 
 * **PNJ:** Bridalis
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Objetos que usa Bridalis en sus disfraces
 * **Conexiones:** Vómito del Kraken
 
 #### Jungla
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Doblones de oro
 * **Conexiones:** Playa, Entrada de la cueva del tesoro
 
 #### Entrada de la cueva del tesoro
 
-* **PNJ:** XXX
 * **Elementos clicables:** XXX
 * **Conexiones:** Jungla, Primera cámara
 
 #### Primera cámara de la cueva
 
-* **PNJ:** XXX
 * **Elementos clicables:** XXX
 * **Conexiones:** Entrada de la cueva del tesoro, Segunda cámara
 #### Segunda cámara de la cueva
 
-* **PNJ:** XXX
 * **Elementos clicables:** XXX
 * **Conexiones:** Primera cámara, Tercera cámara
 
 #### Tercera cámara de la cueva
 
-* **PNJ:** XXX
 * **Elementos clicables:** XXX
 * **Conexiones:** Segunda cámara, Cámara del tesoro
 
 #### Cámara del tesoro
 
-* **PNJ:** XXX
 * **Elementos clicables:** Montaña de doblones de oro, Cruz de Coronado
 * **Conexiones:** Tercera cámara### El caminante
 
