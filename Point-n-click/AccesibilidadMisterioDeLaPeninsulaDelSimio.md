@@ -468,11 +468,17 @@ XXX
 
 #### Segunda cámara de la cueva
 
+En la segunda cámara hay un gran precipicio y parece que hay un _**tronco**_ que parece ser demasiado para hacer un puente sobre el que pasar.
+
 XXX
 
 #### Tercera cámara de la cueva
 
-XXX
+La tercera cámara es un largo pasillo en el que parece que no hay nada, pero cuando vayan a atravesarla saldrá una cuchilla gigante del techo que estará a punto de cortarles por la mitad y no podrán pasar al otro lado. El pasillo es tan largo que hay scroll en la pantalla.  
+
+El truco de esta pantalla está en usar el scroll de la pantalla, para saltarse la cuchilla. XXX
+
+Puedes decirles que cuando se activa la _**cuchilla**_ se oye un chillido de mono. Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista de cómo funciona la _**simio-cuchilla**_.
 
 #### Cámara del tesoro
 
@@ -549,12 +555,12 @@ XXX
 
 #### Tercera cámara de la cueva
 
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Trampa cuchilla
 * **Conexiones:** Segunda cámara, Cámara del tesoro
 
 #### Cámara del tesoro
 
-* **Elementos clicables:**Lingotes de oro, Cruz de Coronado
+* **Elementos clicables:** Lingotes de oro, Cruz de Coronado
 * **Conexiones:** Tercera cámara### El caminante
 
 #### Fuera de El caminante
