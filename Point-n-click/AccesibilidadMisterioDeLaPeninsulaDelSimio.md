@@ -425,7 +425,7 @@ Lo primero será encontrar la cueva donde está el tesoro sin perderse en el lab
 
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
-En el fondo de la cueva encima de una montaña de doblones de oro está la _**cruz de Coronado**_ pero escalar el montón de doblones y coger la cruz será otro reto.
+En el fondo de la cueva encima de una montaña de doblones de oro está la _**cruz de Coronado**_, pero escalar el montón de doblones y coger la cruz será otro reto.
 
 > Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_,  de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
@@ -451,15 +451,14 @@ Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**
 
 La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
 
-La única manera de atravesar el laberinto debes seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en pixeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
+La única manera de atravesar el laberinto debes seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
 
 Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_. 
+A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_. 
 
- 
+#### Entrada de la cueva del tesoro
 
-A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_. #### Entrada de la cueva del tesoro
-
-La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un montón de simios que te gruñen y lanzan cacas si te acercas.
+La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un _**montón de simios**_ que te gruñen y lanzan cacas si te acercas.
 
 XXX
 
@@ -476,6 +475,14 @@ XXX
 XXX
 
 #### Cámara del tesoro
+
+En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
+
+Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de doblones de oro está la _**cruz de Coronado**_, pero si intentan escalar la _**montaña de doblones**_ para coger la _**cruz**_, las monedas se desprenden, resbalan y caen al pie de la montaña. Necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la cruz a distancia.
+
+XXX
+
+Otra opción es, si les ves muy perdidos, dejarles que cojan monedas de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente.
 
 XXX
 ### 2. De vampiros y zombis
@@ -530,7 +537,7 @@ XXX
 
 #### Entrada de la cueva del tesoro
 
-* **Elementos clicables:** XXX
+* **PNJ:** Muchos simios
 * **Conexiones:** Jungla, Primera cámara
 
 #### Primera cámara de la cueva
