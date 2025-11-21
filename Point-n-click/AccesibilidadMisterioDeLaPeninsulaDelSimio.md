@@ -425,7 +425,7 @@ Lo primero será encontrar la cueva donde está el tesoro sin perderse en el lab
 
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
-En el fondo de la cueva encima de una montaña de doblones de oro está la _**cruz de Coronado**_, pero escalar el montón de doblones y coger la cruz será otro reto.
+En el fondo de la cueva encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingote**_ y coger la cruz será otro reto.
 
 > Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_,  de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
@@ -451,7 +451,7 @@ Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**
 
 La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
 
-La única manera de atravesar el laberinto debes seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
+La única manera de atravesar el laberinto es seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
 
 Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_. 
 A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_. 
@@ -478,13 +478,11 @@ XXX
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
 
-Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de doblones de oro está la _**cruz de Coronado**_, pero si intentan escalar la _**montaña de doblones**_ para coger la _**cruz**_, las monedas se desprenden, resbalan y caen al pie de la montaña. Necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la cruz a distancia.
+Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingoters de oro está la _**cruz**_, pero si intentan escalar la _**montaña de dlingotes**_ para cogerla, resbalan y te caes al pie de la montaña. Necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia.
 
-XXX
+La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
 
-Otra opción es, si les ves muy perdidos, dejarles que cojan monedas de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente.
-
-XXX
+El misterio de esta prueba dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
 ### 2. De vampiros y zombis
 
 Esta escena se desarrollará en _**El caminante**_, el navío de velas negras de DraChuckla. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
@@ -556,7 +554,7 @@ XXX
 
 #### Cámara del tesoro
 
-* **Elementos clicables:** Montaña de doblones de oro, Cruz de Coronado
+* **Elementos clicables:**Lingotes de oro, Cruz de Coronado
 * **Conexiones:** Tercera cámara### El caminante
 
 #### Fuera de El caminante
