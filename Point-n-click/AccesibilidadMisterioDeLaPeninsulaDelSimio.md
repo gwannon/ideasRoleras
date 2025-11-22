@@ -413,7 +413,7 @@ Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir 
 
 En este tercer disquete, deberán recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
 
-Posteriormente, en la segunda escena, deberán infiltrarse en _**el caminante**_, el barco zombi del DraChuckla, y recuperar sus _**muñecos vudús**_, ya que con ellos en poder de su enemigo, están indefensos antes la poderosa magia del malvado capitán vampirata.
+Posteriormente, en la segunda escena, deberán infiltrarse en _**El Caminante**_, el barco zombi del DraChuckla, y recuperar sus _**muñecos vudús**_, ya que con ellos en poder de su enemigo, están indefensos antes la poderosa magia del malvado capitán vampirata.
 
 Por último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte. Aquí no queremos segundas partes, ¿o sí?
 
@@ -503,15 +503,13 @@ A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento q
 La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
 
 El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
+
 ### 2. De vampiros y zombis
 
-Esta escena se desarrollará en _**El caminante**_, el navío de velas negras de DraChuckla. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
+Con la cruz en su poder, la siguienta parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará  con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
-XXX
-
-Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos los sacará y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
-
-XXX
+De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_ podrán usar el bote con el que han bajado a tierra para salir de la cala en la que está su barco e ir al lugar donde fondea «El caminante», el navío de velas negras de DraChuckla.
+Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
 
 #### Fuera de El caminante
 
@@ -528,19 +526,19 @@ XXX
 #### Castillo de popa
 
 XXX
+### 3. ¡Muere maldito vampirata!
 
-#### Camarote de DraChuckla
+_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su **ayudante zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
 
 XXX
-### 3. ¡Muere maldito vampirata!
+
+#### Camarote de DraChuckla
 
 XXX### 4. Secuencia final
 
 XXX
 
-> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
-
-## Resumen del disquete III### Jungla perdida
+> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.## Resumen del disquete III### Jungla perdida
 
 #### Playa
 
@@ -602,7 +600,7 @@ XXX
 
 #### Camarote de DraChuckla
 
-* **PNJ:** XXX
+* **PNJ:** DraChuckla, Ayudante zombi
 * **Elementos clicables:** XXX
 * **Conexiones:** Castillo de popa
 
