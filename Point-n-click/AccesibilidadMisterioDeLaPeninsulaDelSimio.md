@@ -1,6 +1,6 @@
 
 
-# El enigma de la Península del Simio> Versión 0.6 | Diciembre 2025
+# El enigma de la Península del Simio> Versión 0.7 | Diciembre 2025
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
@@ -464,14 +464,18 @@ XXX
 
 #### Primera cámara de la cueva
 
+En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las 3 estatuas se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_. 
+
 XXX
 
 #### Segunda cámara de la cueva
 
-En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece ser demasiado corto para hacer una pasarela con la que pasar por encima del precipicio. El tronco puede usarse de varias maneras para pasar al otro lado.
+En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece ser demasiado corto para hacer una pasarela con la que pasar por encima del precipicio. Las soluciones pueden ser muy varias.
 
-* Si lo ponen verticalmente, podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
-* XXX
+* Lo más sencillo es meterle al _**tronco**_  todos sus píxeles para hacer que sea más largo.
+* Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
+* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar pasar andando y volver a subir por el otro lado. 
+* Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
 #### Tercera cámara de la cueva
 
@@ -482,7 +486,6 @@ Cuando se activa la _**cuchilla**_ se oye un chillido de mono que sale de una _*
 El pasillo es tan largo que hay scroll en la pantalla de izquierda a derecha y el truco de esta pantalla está en usar ese scroll para atravesar la cuchilla.
 
 Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla. 
-
 Si van avanzando, uno en cada lado de la pantalla, cuando la jugadora de la derecha llegan a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la _**cuchilla**_. 
 
 Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
@@ -492,6 +495,7 @@ Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista
 #### Cámara del tesoro
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
+
 Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingotes de oro está la _**cruz**_, pero si intentan escalar la _**montaña de lingotes**_ para cogerla, resbalan y te caes al pie de la montaña. 
 
 A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia, pero nada más lejos de la realidad.
@@ -556,7 +560,7 @@ XXX
 
 #### Primera cámara de la cueva
 
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazante
 * **Conexiones:** Entrada de la cueva del tesoro, Segunda cámara
 #### Segunda cámara de la cueva
 
