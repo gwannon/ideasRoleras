@@ -6,7 +6,7 @@
 
 \conc
 
-Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminate», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar. 
+Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminante», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar. 
 
 En este tercer disquete, deberán recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
 
@@ -30,7 +30,7 @@ Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pan
 
 En el fondo de la cueva encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingote**_ y coger la cruz será otro reto.
 
-> Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_,  de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
+> Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_, de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
 #### La playa
 
@@ -77,27 +77,40 @@ XXX
 
 #### Segunda cámara de la cueva
 
-En la segunda cámara hay un gran precipicio y parece que hay un _**tronco**_ que parece ser demasiado corto para hacer un puente sobre el que pasar.
+En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece ser demasiado corto para hacer una pasarela con la que pasar por encima del precipicio. El tronco puede usarse de varias maneras para pasar al otro lado.
 
-XXX
+* Si lo ponen verticalmente, podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
+* XXX
 
 #### Tercera cámara de la cueva
 
-La tercera cámara es un largo pasillo en el que parece que no hay nada, pero cuando vayan a atravesarla saldrá una cuchilla gigante del techo que estará a punto de cortarles por la mitad y no podrán pasar al otro lado. El pasillo es tan largo que hay scroll en la pantalla.  
+La _**tercera cámara**_ es un largo pasillo en el que parece que no hay nada, pero cuando vayan a atravesarla saldrá una _**cuchilla gigante del techo**_ que estará a punto de cortarles por la mitad y no podrán pasar al otro lado.
 
-El truco de esta pantalla está en usar el scroll de la pantalla, para saltarse la cuchilla. XXX
+Cuando se activa la _**cuchilla**_ se oye un chillido de mono que sale de una _**agujero en la pared**_ más adelante, así que seguro que un mono vigila desde esa trampilla y activa la _**cuchilla**_. No puede acercarse al _**agujero**_ porque la _**cuchilla**_ salta, así que no pueden hacerle nada al simio.
 
-Puedes decirles que cuando se activa la _**cuchilla**_ se oye un chillido de mono. Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista de cómo funciona la _**simio-cuchilla**_.
+El pasillo es tan largo que hay scroll en la pantalla de izquierda a derecha y el truco de esta pantalla está en usar ese scroll para atravesar la cuchilla.
+
+Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla. 
+
+Si van avanzando, uno en cada lado de la pantalla, cuando la jugadora de la derecha llegan a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la _**cuchilla**_. 
+
+Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
+
+Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista de cómo funciona la _**simio-cuchilla**_.
 
 #### Cámara del tesoro
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
 
-Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingoters de oro está la _**cruz**_, pero si intentan escalar la _**montaña de dlingotes**_ para cogerla, resbalan y te caes al pie de la montaña. Necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia.
+\sp
+
+Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingotes de oro está la _**cruz**_, pero si intentan escalar la _**montaña de lingotes**_ para cogerla, resbalan y te caes al pie de la montaña. 
+
+A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia, pero nada más lejos de la realidad.
 
 La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
 
-El misterio de esta prueba dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
+El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
 
 \sp
 
@@ -188,12 +201,12 @@ XXX
 
 #### Segunda cámara de la cueva
 
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Tronco
 * **Conexiones:** Primera cámara, Tercera cámara
 
 #### Tercera cámara de la cueva
 
-* **Elementos clicables:** Trampa cuchilla
+* **Elementos clicables:** Trampa cuchilla, Trampilla del mono vigía
 * **Conexiones:** Segunda cámara, Cámara del tesoro
 
 #### Cámara del tesoro

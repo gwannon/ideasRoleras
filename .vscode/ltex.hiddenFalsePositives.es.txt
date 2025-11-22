@@ -171,3 +171,6 @@
 {"rule":"MIN_MESES","sentence":"^\\QVersión 0.5 | Diciembre 2025\\E$"}
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QPara poder jugar esta aventura solo necesitas las reglas básicas de «Point and click RPG».\\E$"}
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\Q«El enigma de la Península del Simio» es una aventura para el juego de rol «Point and click RPG» escrita por @gwannon y está hecho bajo licencia CC BY 4.0.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPrimero deberán encontrar el Mac’n Cheese antes que el capitán DraChuckla y conseguir la Cruz de Coronado.\\E$"}
+{"rule":"FORM","sentence":"^\\QSi quieres simplificar las cosas puedes hacer que El Caminante hunda el barco de tus jugadoras, El vómito del Kraken, de forma que no puedan salir de la península.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QLa oscura jungla es un auténtico laberinto.\\E$"}
