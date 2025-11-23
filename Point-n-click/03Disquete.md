@@ -120,21 +120,33 @@ El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al o
 
 Con la cruz en su poder, la siguienta parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
-De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_ podrán usar el bote con el que han bajado a tierra para salir de la cala en la que está su barco e ir al lugar donde fondea «El caminante», el navío de velas negras de DraChuckla.
+De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_, podrán usar el bote con el que han bajado a tierra. Podrán salir de la cala en la que está su barco e ir al lugar donde fondea _**El caminante**_, el navío de velas negras de DraChuckla.
 
 \sp
 
 Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
 
+Si los _**no-muertos**_ los detectan, se lanzarán a por ellos y tendrán que salir del barco y volver a empezar la escena desde el principio, igual que cuando _**DraChuckla**_ usa los muñecos vudú.
+
 #### Fuera de El caminante
+
+Tus jugadoras pueden acercarse al casco de _**El caminante**_ cerca de su ancla, que han dejado caer al mar. El casco está cubierto de _**percebes, lapas y mejillones**_ que pueden recogerse.
 
 XXX
 
 #### Cubierta inferior
 
+La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir esta al otro lado.
+
+Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
+
 XXX
 
 #### Cubierta superior
+
+La _**cubierta superior**_ está también llena de _**zombis**_, pero estos parecen más inteligentes, están haciendo tareas sencillas como barrer la cubierta o atar y desatar cabos.
+
+Esta pantalla también es larga con un scroll desde la escalera que subía de la _**cubierta inferior**_ hasta la puerta del _**castillo de popa**_.
 
 XXX
 
@@ -142,15 +154,13 @@ XXX
 
 XXX
 
-\sc
-
 ### 3. ¡Muere maldito vampirata!
-
-_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su **ayudante zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
 
 XXX
 
 #### Camarote de DraChuckla
+
+_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su **primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
 
 XXX
 
@@ -224,19 +234,19 @@ XXX
 
 #### Fuera de El caminante
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
-* **Conexiones:** Playa
+* **Elementos clicables:** Cadena del ancla
+* **Elementos clicables:** Percebes, lapas y mejillones
+* **Conexiones:** Playa, Cubierta inferior
 
 #### Cubierta inferior
 
-* **PNJ:** XXX
+* **PNJ:** Muchos zombis
 * **Elementos clicables:** XXX
 * **Conexiones:** Fuera de El caminante, Cubierta superior
 
 #### Cubierta superior
 
-* **PNJ:** XXX
+* **PNJ:** Muchos zombis inteligentes
 * **Elementos clicables:** XXX
 * **Conexiones:** Cubierta inferior, Castillo de popa
 
@@ -244,8 +254,8 @@ XXX
 
 #### Castillo de popa
 
-* **PNJ:** XXX
-* **Elementos clicables:** XXX
+* **PNJ:** Primero de a bordo zombi
+* **Elementos clicables:** Muñecos vudú
 * **Conexiones:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla
