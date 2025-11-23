@@ -39,7 +39,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. 
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo.
 
 Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
@@ -62,7 +62,7 @@ Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una d
 
 ### 2.a Pasarse al otro lado de la ley
 
-Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos.
 
 Hay varias opciones para cometer delitos:
 
@@ -100,15 +100,15 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 ### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela. 
+El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela.
 
-Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
+Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_.
 
 Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
 
 Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
+La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.
 
 #### Astilleros
 
@@ -152,7 +152,7 @@ Ideas para otras chorradas que puede haber en la tienda y que puedes poner como 
 
 * Rizos pelirrojos de la barba la Barbanegra
 * Férula de descarga dental de Sir Francis Drake
-* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro» 
+* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro»
 * Pata de palo de «running» de Long John Silver
 * Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
 * Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
@@ -197,7 +197,7 @@ Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si con
 
 ### 5. Aparece DraChuckla
 
-Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
+Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes.
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
@@ -221,7 +221,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 \conc
 
-### Astilleros  
+### Astilleros
 
 * **PNJ:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
@@ -251,7 +251,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 * **Elementos clicables:** Juzgado, Montón de cuadros
 * **Conexiones:** Centro de Bucan Ville, Callejón oscuro
 
-### Casa del gobernador 
+### Casa del gobernador
 
 #### Exterior
 

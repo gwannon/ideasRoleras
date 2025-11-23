@@ -9,11 +9,11 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 «El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point and click RPG»](https://pointnclick.gwannon.com/).
 
-La primera parte de esta aventura (Disquete I), es la aventura introductoria que viene en las reglas básicas, así que si ya la has jugado, puedes saltártela. 
+La primera parte de esta aventura (Disquete I), es la aventura introductoria que viene en las reglas básicas, así que si ya la has jugado, puedes saltártela.
 
 ### Reglas especiales
 
-#### Mira detrás de ti … ¡Un simio de tres colas! 
+#### Mira detrás de ti … ¡Un simio de tres colas!
 
 Una vez por sesión de juego, una de tus jugadoras pueden gastar 2 píxeles y usar el truco de "Mira detrás de ti … ¡Un simio de tres colas!". La jugadora, tras decir la frase, debe tirar un d6.
 
@@ -49,7 +49,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. 
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo.
 
 Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
@@ -69,7 +69,7 @@ Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una d
 
 ### 2.a Pasarse al otro lado de la ley
 
-Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos.
 
 Hay varias opciones para cometer delitos:
 
@@ -104,15 +104,15 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 ### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela. 
+El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela.
 
-Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
+Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_.
 
 Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
 
 Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
+La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.
 
 #### Astilleros
 
@@ -150,7 +150,7 @@ Ideas para otras chorradas que puede haber en la tienda y que puedes poner como 
 
 * Rizos pelirrojos de la barba la Barbanegra
 * Férula de descarga dental de Sir Francis Drake
-* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro» 
+* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro»
 * Pata de palo de «running» de Long John Silver
 * Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
 * Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
@@ -192,14 +192,14 @@ Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si con
 
 ### 5. Aparece DraChuckla
 
-Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
+Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes.
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
 
 Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo y el gobernador Marlon atado y amordazado.## Resumen del disquete I
 
-### Astilleros  
+### Astilleros
 
 * **PNJ:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
@@ -229,7 +229,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 * **Elementos clicables:** Juzgado, Montón de cuadros
 * **Conexiones:** Centro de Bucan Ville, Callejón oscuro
 
-### Casa del gobernador 
+### Casa del gobernador
 
 #### Exterior
 
@@ -269,7 +269,7 @@ En esta segunda parte tus jugadoras tendrán que superar otras 3 escenas. La pri
 
 En una segunda escena, tendrán que adentrarse en los pantanos de la Isla para encontrarse a _**Alfonsé**_, el conde vudú de los pantanos, para que les explique cómo pueden acabar con DraChuckla y como llegar a la Península del Simio donde se supone que está el temible vampirata buscando el _**Mac’n Cheese**_.
 
-Según _**Alfonsé**_, la única forma de acabar con el capitán DraChuckla es usando la _**cruz de Coronado**_ que es parte del tesoro del _**Mac’n Cheese**_. Así que tendrán que encontrar el tesoro antes que su terrible enemigo. 
+Según _**Alfonsé**_, la única forma de acabar con el capitán DraChuckla es usando la _**cruz de Coronado**_ que es parte del tesoro del _**Mac’n Cheese**_. Así que tendrán que encontrar el tesoro antes que su terrible enemigo.
 
 En la tercera y última escena deberán atravesar el mar Caribe para llegar a la _**Península del Simio**_ siguiendo los designios de los _**huesos del oráculo**_ que les ha dado el conde del vudú.
 
@@ -293,7 +293,7 @@ Para animarles a firmar, les contarán que puede que encuentren el mítico tesor
 
 Como consejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**_ para más información sobre DraChuckla y la Península del Simio.
 
-En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Problemas? Alfonsé, el conde vudú, es la solución». Parece un _**repartidor de folletos**_ que trabaja para Alfonsé. 
+En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Problemas? Alfonsé, el conde vudú, es la solución». Parece un _**repartidor de folletos**_ que trabaja para Alfonsé.
 
 #### El vómito del Kraken
 
@@ -314,7 +314,7 @@ Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé
 
 #### Tienda de souvenirs
 
-El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el famoso pirata François «El Olones» a _**Maxine la roja**_. Esta lo guarda en una vitrina de su _**tienda de souvenirs**_ como oro en paño. No quiere desprenderse de él. 
+El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el famoso pirata François «El Olones» a _**Maxine la roja**_. Esta lo guarda en una vitrina de su _**tienda de souvenirs**_ como oro en paño. No quiere desprenderse de él.
 
 Si les quedan e intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
 
@@ -322,14 +322,14 @@ La única forma de que les dé el _**folleto**_ es que les consiga una foto firm
 
 Según entreguen la foto, _**Maxine**_ debería inventarse alguna historia escabrosa/picante que tuvo con el personaje fotografiado.
 
-Si se ponen ingeniosas, igual pueden convencer a _**Alfonsé**_, el conde del vudú, para que les haga una sesión de espiritismo con alguna pirata famosa y que les firme algo poseyendo al médium. 
+Si se ponen ingeniosas, igual pueden convencer a _**Alfonsé**_, el conde del vudú, para que les haga una sesión de espiritismo con alguna pirata famosa y que les firme algo poseyendo al médium.
 #### El pantano
 
 El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el _**folleto de Alfonsé**_. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
 
-**No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla. 
+**No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla.
 
-Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_. 
+Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_.
 
 Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantalla del pantano lo hagan por la derecha y que las indicaciones tengan que ser en referencia a la entrada. Es decir, si la primera se meten por el norte (arriba), aparecerán por la derecha con lo que el norte estaría saliendo por la izquierda en vez de saliendo por arriba y este estaría arriba, oeste abajo y sur por donde han venido.
 
@@ -337,7 +337,7 @@ Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al 
 
 #### La guarida de Alfonsé
 
-Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él. 
+Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él.
 
 Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac'n Cheese**_, pero a él no le mueve el dinero, etc.
 
@@ -356,12 +356,12 @@ Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfl
 
 Esta escena es un puzzle en el que deberán usar los _**huesos del oráculo**_. Los huesos son 9 dados de 6 caras con puntos en vez de números. Para invocar al oráculo deben conseguir la siguiente figura que representa una calavera. En ese momento aparecerá el oráculo y les guiará a la península del simio.
 
-La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo. 
+La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo.
 Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Luego deberán conseguir dibujar la calavera con el número exacto de movimiento. Pueden deshacer un movimiento gastando un píxel.
 
 ![Huesos del oráculo](./images/huesos.png)
 
-Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis». 
+Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
 
 _**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados el oráculo se desvanecerá y no podrá volver a ser invocado.
 
@@ -371,7 +371,7 @@ Si siguen las coordenadas que les de _**Tom «el bidente»**_ conseguirán llega
 
 Los nuevos elementos están en cursiva.
 
-#### Astilleros 
+#### Astilleros
 
 * **PNJ:** Sam
 * **Conexiones:** Plaza Mayor de Bucan Ville, _Laberinto pantanoso_
@@ -409,7 +409,7 @@ Los nuevos elementos están en cursiva.
 * **Conexiones:** Laberinto pantanoso### Mapa de la isla![Mapa de Bucan Ville actualizado](./images/mapa2.png)
 _Nuevas ubicaciones en naranja_## Disquete III: En la Península del Simio
 
-Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminante», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar. 
+Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminante», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar.
 
 En este tercer disquete, deberán recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
 
@@ -431,7 +431,7 @@ En el fondo de la cueva encima de una montaña de _**lingotes de oro**_ está la
 
 #### La playa
 
-Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_. 
+Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_.
 
 Cada vez que entren en la pantalla _**Bridalis**_ tendrá un nuevo disfraz y estará haciendo alguna de estas actividades:
 
@@ -453,8 +453,8 @@ La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por 
 
 La única manera de atravesar el laberinto es seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
 
-Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_. 
-A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_. 
+Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_.
+A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_.
 
 #### Entrada de la cueva del tesoro
 
@@ -464,7 +464,7 @@ XXX
 
 #### Primera cámara de la cueva
 
-En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las 3 estatuas se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_. 
+En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las 3 estatuas se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
 
 XXX
 
@@ -472,9 +472,9 @@ XXX
 
 En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece ser demasiado corto para hacer una pasarela con la que pasar por encima del precipicio. Las soluciones pueden ser muy varias.
 
-* Lo más sencillo es meterle al _**tronco**_  todos sus píxeles para hacer que sea más largo.
+* Lo más sencillo es meterle al _**tronco**_ todos sus píxeles para hacer que sea más largo.
 * Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
-* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar pasar andando y volver a subir por el otro lado. 
+* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar pasar andando y volver a subir por el otro lado.
 * Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
 #### Tercera cámara de la cueva
@@ -485,8 +485,8 @@ Cuando se activa la _**cuchilla**_ se oye un chillido de mono que sale de una _*
 
 El pasillo es tan largo que hay scroll en la pantalla de izquierda a derecha y el truco de esta pantalla está en usar ese scroll para atravesar la cuchilla.
 
-Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla. 
-Si van avanzando, uno en cada lado de la pantalla, cuando la jugadora de la derecha llegan a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la _**cuchilla**_. 
+Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla.
+Si van avanzando, uno en cada lado de la pantalla, cuando la jugadora de la derecha llegan a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la _**cuchilla**_.
 
 Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
 
@@ -496,7 +496,7 @@ Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
 
-Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingotes de oro está la _**cruz**_, pero si intentan escalar la _**montaña de lingotes**_ para cogerla, resbalan y te caes al pie de la montaña. 
+Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingotes de oro está la _**cruz**_, pero si intentan escalar la _**montaña de lingotes**_ para cogerla, resbalan y te caes al pie de la montaña.
 
 A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia, pero nada más lejos de la realidad.
 
@@ -506,7 +506,7 @@ El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al o
 
 ### 2. De vampiros y zombis
 
-Con la cruz en su poder, la siguienta parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará  con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
+Con la cruz en su poder, la siguienta parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
 De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_ podrán usar el bote con el que han bajado a tierra para salir de la cala en la que está su barco e ir al lugar donde fondea «El caminante», el navío de velas negras de DraChuckla.
 Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
@@ -534,7 +534,9 @@ XXX
 
 #### Camarote de DraChuckla
 
-XXX### 4. Secuencia final
+XXX
+
+### 4. Secuencia final
 
 XXX
 
@@ -601,16 +603,16 @@ XXX
 #### Camarote de DraChuckla
 
 * **PNJ:** DraChuckla, Ayudante zombi
-* **Elementos clicables:** XXX
+* **Elementos clicables:** Órgano
 * **Conexiones:** Castillo de popa
 
 ### Mapa de ubicaciones
 
 ```
 Vómito del Kraken
-  ↕
+ ↕
 Playa ↔ Jungla ↔ Entrada cueva ↔ 1ª cámara ↔ 2ª cámara ↔ 3ª cámara ↔ Cámara del tesoro
-       ↘ Fuera de El caminante ↔ Cub. inferior ↔ Cub. superior ↔ Castillo de popa ↔ Camarote
+    ↘ Fuera de El caminante ↔ Cub. inferior ↔ Cub. superior ↔ Castillo de popa ↔ Camarote
 ```## Licencia y agradecimientos
 
 ### Licencia CC BY 4.0

@@ -71,7 +71,7 @@ If you spend pixels, you can read a game guide from your favorite video game mag
 
 #### Try Everything with Everything
 
-You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable item in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
+You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable item in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.
 
 #### Parallel Plot
 

@@ -36,14 +36,14 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 
 Elige dos temáticas:
 
-* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
-* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que una de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
+* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots.
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que una de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho.
 * **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan estar al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a las jugadoras. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizás una historia de Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
-* **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
-* **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
+* **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor.
+* **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa.
 
 Elige la empresa desarrolladora:
 
@@ -86,7 +86,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 #### Has muerto …
 
-Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles. 
+Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles.
 
 Si todas las jugadoras mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima **están todos sin píxeles**.
 
@@ -104,7 +104,7 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 Cada escena va a tener uno o varios retos y van a tener una o más pantallas. Para crear una escena es tan sencillo como definir qué va a pasar en esa escena y escribir un par de párrafos en que debería pasar en esa escena. A partir de ahí tenemos que definir los elementos de esa escena que va a tener, pantallas, PNJ y elementos clicables y como se relacionan.
 
-La forma más sencilla de registrar todo esto es hacerte un esquema de las pantallas con sus elementos clicables y los PNJ que hay en ellos. También debes apuntas como se conectan las pantallas y que conexiones se pueden usar y que conexiones están cerradas y necesitan ser abiertos. 
+La forma más sencilla de registrar todo esto es hacerte un esquema de las pantallas con sus elementos clicables y los PNJ que hay en ellos. También debes apuntas como se conectan las pantallas y que conexiones se pueden usar y que conexiones están cerradas y necesitan ser abiertos.
 
 La aventura «El enigma de la Península del Simio» te muestra como puedes esquematizarlo.
 
@@ -118,11 +118,11 @@ Cuando examinen los elementos clicables deberán tener pistas de como pueden usa
 
 Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca, si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
 
-De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho. 
+De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho.
 
 ### Paso del tiempo
 
-El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
+El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche.
 
 El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino que intenta huir a México.
 
@@ -138,7 +138,7 @@ Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y u
 
 Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
 
-Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que habías pensado. 
+Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que habías pensado.
 
 ### Toques finales
 
@@ -152,5 +152,3 @@ Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie 
 \sc
 
 [![Odyssey By Fatbeard91](./images/odyssey_by_fatbeard91_dfu56li-fullview.jpg "Odyssey By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950 "Odyssey By Fatbeard91")
-
-

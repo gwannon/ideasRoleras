@@ -63,7 +63,7 @@ Después debe **elegir otros 3 verbos** de este listado:
 
 \sc
 
-* Buscar 
+* Buscar
 * Correr
 * Encender/Apagar
 * Golpear

@@ -18,7 +18,7 @@
 
 Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
 
-También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
+También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles.
 
 Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
 

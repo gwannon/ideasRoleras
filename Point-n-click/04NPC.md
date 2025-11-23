@@ -35,7 +35,7 @@ Him stands next to a blind beggar on the main street. His only utterance is «Gr
 
 ### Multiphrases
 
-These characters are **more complex** than the previous ones, with more dialogue, items they can give or receive, and some movement patterns. 
+These characters are **more complex** than the previous ones, with more dialogue, items they can give or receive, and some movement patterns.
 
 \sp
 
@@ -77,7 +77,7 @@ You are facing the terror of the entire Caribbean; uttering his name fills the h
 
 His weaknesses are typical of pirates and vampires: grog, gold, and young men and/or young ladies, and sunlight, crosses, holy water, garlic, and young men and/or young ladies. So your players will have to find a way to exploit these weaknesses against him. Perhaps another voodoo user can help them.
 
-Furthermore, with luck, your players might be able to discover whether they is a pirate who was turned into a vampire or a vampire who decided to become a pirate. 
+Furthermore, with luck, your players might be able to discover whether they is a pirate who was turned into a vampire or a vampire who decided to become a pirate.
 
 ### Interacting with NPCs
 

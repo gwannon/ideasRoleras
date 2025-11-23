@@ -229,7 +229,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 
 \conc
 
-### Shipyard 
+### Shipyard
 
 * **NPC:** Sam
 * **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat, Title deed of rowboat, Stack of papers specifying the payment method
