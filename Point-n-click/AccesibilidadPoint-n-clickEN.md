@@ -151,7 +151,7 @@ If you spend pixels, you can read a game guide from your favorite video game mag
 
 #### Try Everything with Everything
 
-You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable item in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.  
+You can spend all your pixels (minimum 4) to try every item in your equipment with every clickable item in the scene (not the screen). In this case, you'll eventually find the next action you need to take but haven't been able to find. However, the challenge or scene might not be solved this way, and you may still need to perform other actions, but at least it will guide the players toward the right path.
 
 #### Parallel Plot
 
@@ -268,7 +268,7 @@ Him stands next to a blind beggar on the main street. His only utterance is «Gr
 
 ### Multiphrases
 
-These characters are **more complex** than the previous ones, with more dialogue, items they can give or receive, and some movement patterns. 
+These characters are **more complex** than the previous ones, with more dialogue, items they can give or receive, and some movement patterns.
 They will likely have a task, such as providing information on a certain matter, preventing access to a specific area, or preventing the acquisition of certain items.
 
 Rather than specific dialogue, you should choose a couple of topics they know a lot about and could discuss with the player characters, as well as the key information they can provide.
@@ -304,7 +304,7 @@ You are facing the terror of the entire Caribbean; uttering his name fills the h
 
 His weaknesses are typical of pirates and vampires: grog, gold, and young men and/or young ladies, and sunlight, crosses, holy water, garlic, and young men and/or young ladies. So your players will have to find a way to exploit these weaknesses against him. Perhaps another voodoo user can help them.
 
-Furthermore, with luck, your players might be able to discover whether they is a pirate who was turned into a vampire or a vampire who decided to become a pirate. 
+Furthermore, with luck, your players might be able to discover whether they is a pirate who was turned into a vampire or a vampire who decided to become a pirate.
 
 ### Interacting with NPCs
 
@@ -641,7 +641,7 @@ Here are some ideas for how you can continue this adventure, which could span di
 * You could try to learn voodoo magic to see if you can counteract what DraChuckla does with his dolls.
 * Perhaps you could form a band and dedicate yourselves to playing reggae throughout the Caribbean.## Adventure summary
 
-### Shipyard 
+### Shipyard
 
 * **NPC:** Sam
 * **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat, Title deed of rowboat, Stack of papers specifying the payment method

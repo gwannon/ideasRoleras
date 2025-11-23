@@ -152,9 +152,11 @@ XXX
 
 #### Castillo de popa
 
-La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una vitrina de exposición con otros objetos vudús. El problema es que cuando abres la vitrina _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
+La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición**_ con otros objetos vudús. El problema es que cuando abres la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
 
 XXX
+
+\sp
 
 ### 3. ¡Muere maldito vampirata!
 
@@ -162,17 +164,21 @@ Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla 
 
 XXX
 
-\sp
-
 #### Camarote de DraChuckla
 
-_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
+_**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus piezas musicales tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. El _**gobernador**_ está atacado y amordazado
+
+Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
 
 XXX
+
+\sc
 
 ### 4. Secuencia final
 
-XXX
+Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas. 
+
+Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos artificiales que nadie sabe donde han pasado. Deja que cada jugadora diga una frase solemne mientras explotan los fuegos artificiales y … de repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus cenizas empezarán a brillar mientras suena tétrica música de órgano, para transicionar seguidamente a los títulos de crédito de la aventura y un gran «Fin» final.
 
 > Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
 
@@ -247,13 +253,11 @@ XXX
 #### Cubierta inferior
 
 * **PNJ:** Muchos zombis
-* **Elementos clicables:** XXX
 * **Conexiones:** Fuera de El caminante, Cubierta superior
 
 #### Cubierta superior
 
 * **PNJ:** Muchos zombis inteligentes
-* **Elementos clicables:** XXX
 * **Conexiones:** Cubierta inferior, Castillo de popa
 
 \sc
@@ -261,12 +265,12 @@ XXX
 #### Castillo de popa
 
 * **PNJ:** Primero de a bordo zombi
-* **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes
+* **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
 * **Conexiones:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla
 
-* **PNJ:** DraChuckla, Ayudante zombi
+* **PNJ:** DraChuckla, Gobernador Marlon, Ayudante zombi
 * **Elementos clicables:** Órgano
 * **Conexiones:** Castillo de popa
 

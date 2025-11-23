@@ -8,7 +8,7 @@
 
 Son videojuegos donde manejas a un personaje por una serie de escenarios, donde debes resolver diferentes puzzles usando objetos de las pantallas y de nuestro equipo y una serie de acciones o verbos como **Usar, Coger, Abrir, Empujar, etc.**
 
-También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles. 
+También interactúas con diferentes personajes que te darán información útil y objetos para poder seguir resolviendo puzzles.
 
 Según avanzas y resuelves puzzles se van desarrollando historias de todo tipo desde viajes fantásticos y aventuras «pulp» a locas situaciones propias de los dibujos animados.
 
@@ -69,7 +69,7 @@ Todo personaje de una AG tiene unos verbos básicos:
 Después debe **elegir otros 3 verbos** de este listado:
 
 * Abrir/Cerrar
-* Buscar 
+* Buscar
 * Correr
 * Encender/Apagar
 * Golpear
@@ -122,7 +122,7 @@ Solo existen **tiradas** en las escasas **situaciones en que puede fallar una ac
 
 Por ejemplo, si queremos lanzar un escupitajo en el concurso de escupitajos, tiramos 1d6. Si dicen que escupen cuando el viento sopla o toman primero un trago de grog para espesar las flemas, podrías darles un bono de +1 por cada truco aplicado.
 
-A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero. 
+A la hora de usar objetos, los objetos del equipo siempre están a mano, pero a los clicables debemos acercarnos para poder usarlos. Eso quiere decir que si son inalcanzables, como unas astas de ciervo encima de la puerta, necesitaremos una silla o una escalera primero.
 
 Por otro lado, la propia lógica dictará si al usarse el equipo se gasta o no. Una cerilla se gasta al usarse, un cerillero tiene infinitos usos.
 
@@ -144,21 +144,21 @@ Los posibles gastos que se pueden hacer son:
 
 #### Convertir algo de fondo en clicable
 
-Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla. 
+Algo muy frustrante de las AG era ver cosas en la pantalla que podías usar y que no podías clicar. Aprovechándose de bugs y gastando entre 1 y 4 píxeles, a discreción del DJ, puedes convertir algo no clicable en clicable. Solo será clicable mientras estés en la pantalla, dejará de ser clicable en cuanto abandones la pantalla.
 #### Consultar la guía
 
 Puedes, si gastas píxeles, leer alguna guía del juego de tu revista de videojuegos preferida y recibir una pista sobre que puedes hacer para resolver algún puzzle o roto. También puede recordarte un detalle que se haya olvidado. Según los puntos que gastes, de 1 a 4, recibirás más o menos información y más o menos interesante y clara.
 
 #### Probar todo con todo
 
-Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a las jugadoras hacia el camino correcto.  
+Puedes gastar todos tus píxeles (mínimo 4) para probar todos los objetos del equipo con todos los elementos clicables de la escena, que no pantalla. En este caso terminarás encontrando la próxima acción que debías hacer y que no estabas encontrando. Aun así, el reto o la escena no tiene por qué solucionarse de esta manera y tengas que seguir haciendo más acciones, pero por lo menos encauzará a las jugadoras hacia el camino correcto.
 
 #### Trama paralela
 
 Si un jugador se gasta todos sus puntos, mínimo 4, puede pedir una trama paralela. En pantalla aparecerá un «Mientras tantos en [localización] …» y se verá al villano de turno hablando y revelando parte de su plan o sus próximos pasos. También puede ser algún tipo de información clave como los ingredientes de una fórmula química o el nombre del grimorio mágico que tiene el hechizo para destruirle.
 #### Forzar el tema
 
-Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados. 
+Gastando 1 píxel, las jugadoras pueden forzar el tema de la aventura tanto de la que están jugando como de la que provienen y rascar un +1 a una tirada. Por ejemplo, un personaje proveniente de una aventura de fantasía puede intentar ganarse un +1 a la tirada si tiene un duelo con espadas o en una aventura de ciencia ficción un jugador puede intentar ganar un +1 una tirada de Buscar alegando que los sensores de su «tricorder» son muy avanzados.
 
 > Eres libre de crear nuevos usos para los píxeles que se adecuen a tu aventura gráfica.
 
@@ -182,7 +182,7 @@ Si haces un puente con cuerda sobre un precipicio, ese puente se queda allí par
 
 #### Conexiones entre pantalla
 
-Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio. 
+Las pantallas de una escena tienen conexiones por las que podrán ir tus jugadoras y otras por las que no, pero que podrán usar en su beneficio.
 
 Por ejemplo, si subes a un tejado y haces caer una teja, esta puede dejar inconsciente al guarda de la puerta de donde querías entrar. Tus personajes no pueden moverse del tejado a la puerta de la guarida, pero la teja sí.
 
@@ -267,7 +267,7 @@ Su única frase es «¿Ha pensado en introducir más fibra en su dieta?». Se mu
 Se encuentra al lado de un mendigo ciego en la calle principal. Su única frase es «Grrrrr» cuando te acercas al bote de las limosnas del ciego o intentas quitarle el hueso que tiene a sus pies. Tal vez puedas distraerle con un chuletón, un gato o una pelota.
 ### Multifrases
 
-Son personajes **más complejos** que los anteriores, con más frases, objetos que pueden dar o recibir y alguna rutina de movimiento. Seguramente tengan alguna tarea como dar información sobre cierto asunto, evitar que puedan acceder a cierta zona o que consigan ciertos objetos. 
+Son personajes **más complejos** que los anteriores, con más frases, objetos que pueden dar o recibir y alguna rutina de movimiento. Seguramente tengan alguna tarea como dar información sobre cierto asunto, evitar que puedan acceder a cierta zona o que consigan ciertos objetos.
 
 Más que frases deberás elegir un par de temas de los que saben mucho y de los que podrían hablar con las PJ y también la información clave que pueden darles.
 
@@ -279,7 +279,7 @@ También deberías apuntarles algunas debilidades que las jugadoras puedan aprov
 
 [![Shadowy Alley Show the detective silhouetted by Fedor Lunin](./images/figura-callejon.png "Shadowy Alley Show the detective silhouetted by Fedor Lunin")](https://www.vecteezy.com/vector-art/53228943-shadowy-alley-show-the-detective-silhouetted-against-a-dimly-lit-alley-trench-coat-billowing-as-he-peers-around-a-corner-a-street-lamp-illuminating-the-scene "Shadowy Alley Show the detective silhouetted by Fedor Lunin")
 
-Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!», preguntas «¿Yo?» y responde «¡Sí, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies. 
+Avanzas por la calle y de repente de un callejón sale un «¡Eh, tú, pringao!», preguntas «¿Yo?» y responde «¡Sí, tú, pringao!». Entras y hay un tipo sospechoso con sombrero calado que no te deja ver su cara y una gabardina larga que le cubre hasta los pies.
 ¿Es un ladrón que te va a robar? ¿Es un traficante de drogas o, peor, de cartas Pokémon? ¿Un pervertido? No lo sabes y mejor no acercarse.
 
 Si te acercas, es un vendedor de globos de helio de formas divertidas. Puedes hablar con él de varios temas, globos de helio, inversiones en criptomonedas y cartas Pokémon.
@@ -288,7 +288,7 @@ Si le consigues **una buena carta Pokémon, te dará un montón de globos de hel
 
 ### Principales
 
-Son tan complejo como tus propias jugadoras, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadoras o personajes con mucho peso en la historia.  
+Son tan complejo como tus propias jugadoras, tienen infinitas frases, su propio equipo y se mueven por toda las pantallas a su gusto y aparecerán en casi todas las escenas. Seguramente sean las némesis de tus jugadoras o personajes con mucho peso en la historia.
 
 Si son el villano, no suelen tener acciones que nos permitan conseguir algo, por ejemplo, empujarlos para que se les caiga una moneda, sino que encontrar la manera de derrotarlos es el desafío de una escena completa, incluso de una parte completa.
 
@@ -297,11 +297,11 @@ Es normal que empezarán como multifrase y un cambio en la historia los conviert
 
 [![Flat design pixel art character element collection by freepik](./images/7965103.png "Flat design pixel art character element collection by freepik")](https://www.freepik.com/free-vector/flat-design-pixel-art-character-element-collection_33111981.htm "Flat design pixel art character element collection by freepik")
 
-Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además de capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls. 
+Estas ante el terror del todo Caribe, pronunciar su nombre llena de miedo el corazón. Es el villano perfecto para tu aventura. Además de capitán pirata y vampiro, es un usuario de poderosa magia vudú y posee un barco zombi con su tripulación de sirvientes ghouls.
 
 Sus debilidades son las típicas de los piratas y de los vampiros, es decir, por un lado, el grog, el oro y los mancebos y/o mancebas y, por otro lado, el sol, las cruces, el agua bendita, el ajo y los mancebos y/o mancebas. Así que tus jugadoras deberán buscar la manera de usar esas debilidades contra él. Quizás algún otro usuario del vudú pueda ayudarles.
 
-Además, con suerte, quizás tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería. 
+Además, con suerte, quizás tus jugadoras logren averiguar si es pirata al que convirtieron en vampiro o un vampiro que se decidió dedicarse a la piratería.
 
 ### Interactuar con los PNJ
 
@@ -339,14 +339,14 @@ Una vez decidida la duración hay que hacer como cuando creas un personaje y ele
 * **VGA:** La mayor resolución del VGA hace que se tengan que gastar más píxeles extras de lo normal, porque todo tienes más píxeles, así que todos los gastos de píxeles cuestan un píxel extra. La resolución también hace que las tiradas de Buscar los píxeles exactos tengan un penalizador extra de -1.
 Elige dos temáticas:
 
-* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots. 
-* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que una de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho. 
+* **Ciencia ficción:** La ciencia ficción es muy amplia y permite una amplia variedad de temas, desde aventuras en planetas alienígenas a viajes en el tiempo o clonación. Al montar la AG deberás establecer un nivel tecnológico y que tecnologías hay y cuáles no. Igual hay clones y poderes psíquicos, pero no hay viajes espaciales, ni robots.
+* **De franquicia:** La aventura tendrá que tener al héroe o la heroína insignia de la franquicia, así que una de tus jugadoras no podrá hacerse el personaje, deberá ser ese personaje icónico y se lo darás hecho.
 * **Fantasía:** La fantasía y sobre todo la fantasía medieval es un tema recurrente, siempre más cercana a cuentos clásicos con trolls debajo de puentes y princesas y príncipes que a la fantasía d&d/tolkien más propia de otros juegos de rol. La otra opción son mundos mágicos totalmente diferentes como en el clásico «Loom». En estas AG los verbos de tus personajes puedes considéralos hechizos y no necesitan estar al lado del elemento cliclabe, solamente en la misma pantalla.
 * **Horror:** Estas aventuras deberían ser altamente mortales y puede ser muy interesante montar algún tipo de contador o reloj que meta presión a las jugadoras. Tienen tantos intentos para terminar una escena y si no lo consiguen el monstruo acabará con sus vidas.
 * **Humor:** Las aventuras de humor no pueden ser mortales, no va con el tono. Igual morir y convertirse en fantasma puede ser una escena divertida.
 * **Misterio:** Quizás una historia de Sherlock Holmes no deba ser mortal, pero algo más oscuro si debiera serlo.
-* **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor. 
-* **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa. 
+* **Pulp:** Como se suele decir, todo es mejor con un toque pulp, desde la ciencia ficción a las historias picantes. Si coges «Pulp» y «De franquicia» como serían Conan, el Zorro o Indiana Jones, puedes coger un tercer tema que defina la aventura mejor.
+* **Picantes:** Las venturas picantes siempre quedan bien con humor, no olvidemos los «Leisure Suit Larry», pero también pueden funcionar con lo «pulp». Recuerda hablar sobre esta opción con tu mesa.
 
 Elige la empresa desarrolladora:
 
@@ -383,7 +383,7 @@ Seguramente faltará algo y tengan que volver a coger una fregona, quitarle el m
 
 #### Has muerto …
 
-Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles. 
+Cuando un **personaje muere**, simplemente **desaparece**, explota, cae por un pozo sin fondo, es desintegrado, etc. y **aparece de nuevo cuando se termine de solucionar la escena** con todo su equipo, pero sin píxeles.
 
 Si todas las jugadoras mueren, entonces es más grave y ambos aparecerán al principio de la escena y deberán hacerla de nuevo. Habrán perdido todo el avance que hubieran hecho en esa escena y encima **están todos sin píxeles**.
 
@@ -401,7 +401,7 @@ Paralelamente, sería que tengas que investigar a la vez tres pistas encontradas
 
 Cada escena va a tener uno o varios retos y van a tener una o más pantallas. Para crear una escena es tan sencillo como definir qué va a pasar en esa escena y escribir un par de párrafos en que debería pasar en esa escena. A partir de ahí tenemos que definir los elementos de esa escena que va a tener, pantallas, PNJ y elementos clicables y como se relacionan.
 
-La forma más sencilla de registrar todo esto es hacerte un esquema de las pantallas con sus elementos clicables y los PNJ que hay en ellos. También debes apuntas como se conectan las pantallas y que conexiones se pueden usar y que conexiones están cerradas y necesitan ser abiertos. 
+La forma más sencilla de registrar todo esto es hacerte un esquema de las pantallas con sus elementos clicables y los PNJ que hay en ellos. También debes apuntas como se conectan las pantallas y que conexiones se pueden usar y que conexiones están cerradas y necesitan ser abiertos.
 
 La aventura «El enigma de la Península del Simio» te muestra como puedes esquematizarlo.
 #### Retos, acertijos y minipuzzles
@@ -412,11 +412,11 @@ Cuando examinen los elementos clicables deberán tener pistas de como pueden usa
 
 Para hacer acertijos o minipuzzles puedes inspirarte en cualquier cosa, solamente debes adaptarlo a la ambientación de la AG. Si quieres meter un rompecabezas de piezas deslizante tendrá una imagen azteca, si es un rollo pulp años 20 o de circuitos si es una historia ciberpunk.
 
-De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho. 
+De los acertijos, tienes muchos en internet y como los puzzles con solo adaptarlo a la ambientación ya lo tienes hecho.
 
 ### Paso del tiempo
 
-El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche. 
+El tiempo no pasa en las AG. Si una escena trascurre de noche, hagan lo que hagan durante la escena será siempre de noche, aunque esperen horas en un mismo sitio, seguirá siendo de noche.
 
 El tiempo solo avanza (si se quiere) al final de cada escena. Tienes toda una noche para descubrir quién mató al comisario y cuando lo descubres se hace día y te lanzas a una loca carrera por capturar a su asesino que intenta huir a México.
 
@@ -429,7 +429,7 @@ Igual que las jugadoras pueden forzar con píxeles un «mientras tanto», **el D
 Las AG son ejemplos clásicos de aventuras sobre raíles, solo hay un camino y una manera de avanzar y cualquier otra forma de actuación no funciona.
 Sin embargo, esto no es divertido en un juego de rol. Pero a diferencia de un videojuego como DJ puede solucionar esto, sus decisiones no están fijadas en el código, sino que pueden modificar la historia y aceptar otras opciones.
 
-Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que habías pensado. 
+Así que, si las jugadoras proponen una opción viable que solucione los retos, déjales que funcione a pesar de que no sea la solución que habías pensado.
 
 ### Toques finales
 
@@ -439,7 +439,8 @@ Por último, si no lo has hecho ya, márcate una mecánica chula que diferencie 
 * Los «Monkey Island» tienen sus duelos de insultos donde debes aprender afilados insultos y sus respuestas para vencer a tus enemigos en los duelos de espada.
 * «The Dig» tenía sus puzzles de barras de colores con diferentes poliedros. Debías encontrar la combinación adecuada entre diferentes pistas que veías en la aventura.
 * «Full Throttle» tenía sus escenas de carretera con peleas con otros moteros.
-[![Odyssey By Fatbeard91](./images/odyssey_by_fatbeard91_dfu56li-fullview.jpg "Odyssey By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950 "Odyssey By Fatbeard91")## El enigma de la Península del Simio
+[![Odyssey By Fatbeard91](./images/odyssey_by_fatbeard91_dfu56li-fullview.jpg "Odyssey By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Odyssey-957622950 "Odyssey By Fatbeard91")
+## El enigma de la Península del Simio
 
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
@@ -478,7 +479,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas, se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo. Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
 * ¿Cuál era la bandera de Barbanegra? - Un esqueleto con cuernos que sostiene un reloj de arena en la mano derecha y una lanza en la izquierda, utilizando la lanza para pinchar un corazón rojo que gotea tres gotas rojas de sangre.
 * ¿Cuál se llamaba el primer barco de Barbanegra? - La venganza de la Reina Ana.
@@ -495,7 +496,7 @@ En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plát
 
 #### 2.a Pasarse al otro lado de la ley
 
-Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos. 
+Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos.
 Hay varias opciones para cometer delitos:
 
 * La manera más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
@@ -529,15 +530,15 @@ Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas f
 
 #### 2.b Conseguir un barco y una bandera pirata
 
-El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela. 
+El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela.
 
-Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_. 
+Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_.
 
-Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
+Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_, este les pondrá alguna excusa tonta.
 
 Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.  
+La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.
 
 ##### Astilleros
 
@@ -576,7 +577,7 @@ Ideas para otras chorradas que puede haber en la tienda y que puedes poner como 
 
 * Rizos pelirrojos de la barba la Barbanegra
 * Férula de descarga dental de Sir Francis Drake
-* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro» 
+* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro»
 * Pata de palo de «running» de Long John Silver
 * Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
 * Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
@@ -612,13 +613,13 @@ Déjales que busque por las pantallas algo que no sea clicables y que sirva de l
 
 ##### Sótano de la casa del gobernador
 
-En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
+En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón de cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
 
 Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
 
 #### 5. ¿El final?
 
-Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes. 
+Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes.
 
 Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
 
@@ -636,7 +637,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * Tal vez, monten un grupo musical y se dediquen a hacer Reggae por todo el Caribe.
 [![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")## Resumen de la aventura
 
-### Astilleros  
+### Astilleros
 
 * **PNJ:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
@@ -666,7 +667,7 @@ Aquí tienes algunas ideas de cómo puedes continuar esta AG que podrían abarca
 * **Elementos clicables:** Juzgado, Montón de cuadros
 * **Conexiones:** Centro de Bucan Ville, Callejón oscuro
 
-### Casa del gobernador 
+### Casa del gobernador
 
 #### Exterior
 
