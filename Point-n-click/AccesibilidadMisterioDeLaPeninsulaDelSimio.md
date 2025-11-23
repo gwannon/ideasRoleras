@@ -49,7 +49,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo.
+Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas, se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo.
 
 Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
 
@@ -108,7 +108,7 @@ El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo ún
 
 Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_.
 
-Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_ este les pondrá alguna excusa tonta.
+Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_, este les pondrá alguna excusa tonta.
 
 Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
 
@@ -186,7 +186,7 @@ Déjales que busque por las pantallas algo que no sea clicables y que sirva de l
 
 ##### Sótano de la casa del gobernador
 
-En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
+En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón de cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
 
 Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
 
@@ -297,7 +297,7 @@ En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Pr
 
 #### El vómito del Kraken
 
-Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
+Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho, solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
 
 En la cubierta principal se encontrarán con la _**Señorita Bridalis**_. _**Bridalis**_ trabaja para la «Comisión por el desarrollo turístico de Bucan Ville», dependiente del «Gremio de Piratas de Bucan Ville», dirigido a su vez por las _**Jefas Piratas**_. _**Bridalis**_ se encarga del mantenimiento del barco y de hacer los shows piratas para los turistas que visitan la isla.
 Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pone voces, de manera que desde el exterior parece que el barco está lleno de tripulantes, pero solo está pilotado por ella. Tienes varios piratas famosos que sabe imitar a la perfección y de los que tiene un buen disfraz.
@@ -310,7 +310,7 @@ _**Bridalis**_ les dirá que tiene el barco preparado para zarpar, pero antes de
 
 La única manera de llegar a choza de _**Alfonsé**_ es conseguir uno de sus panfletos publicitarios que explica como llegar. El problema es que el _**repartidor**_ que ha contratado los ha repartido ya todos y no puede dar ninguno a tus jugadoras. En realidad los ha tirado todos en el pantano y se ha ido a empapuzarse de grog de bañera en el _**Cangrejo Cocido**_.
 
-Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé**_, solo hay uno y está en la _**tienda souvenirs**_
+Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé**_, solo hay uno y está en la _**tienda souvenirs**_.
 
 #### Tienda de souvenirs
 
@@ -363,9 +363,9 @@ Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Lu
 
 Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
 
-_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados el oráculo se desvanecerá y no podrá volver a ser invocado.
+_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados, el oráculo se desvanecerá y no podrá volver a ser invocado.
 
-Si siguen las coordenadas que les de _**Tom «el bidente»**_ conseguirán llegar a la península del Simio. Apartir de este momento podrán venir siempre que quieran.## Resumen del disquete II
+Si siguen las coordenadas que les dé _**Tom «el bidente»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.## Resumen del disquete II
 
 ### Pantallas actualizadas
 
@@ -425,7 +425,7 @@ Lo primero será encontrar la cueva donde está el tesoro sin perderse en el lab
 
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
-En el fondo de la cueva encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingote**_ y coger la cruz será otro reto.
+En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingotes**_ y coger la cruz será otro reto.
 
 > Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_, de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
@@ -445,16 +445,16 @@ Cada vez que entren en la pantalla _**Bridalis**_ tendrá un nuevo disfraz y est
 
 Si las ves muy perdidas puedes darles, alguno de los objetos que está usando _**Bridalis**_, por ejemplo, el detector de metales puede ayudarles en la jungla. También puedes llenarles el equipo de mierdas que no van a necesitar ni poder usar.
 
-Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_
+Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_.
 
 #### La jungla
 
-La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
+La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo, izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
 
 La única manera de atravesar el laberinto es seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
 
 Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_.
-A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_.
+A partir de ese momento, cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_.
 
 #### Entrada de la cueva del tesoro
 
@@ -464,7 +464,7 @@ XXX
 
 #### Primera cámara de la cueva
 
-En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las 3 estatuas se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
+En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las _**3 estatuas**_, se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
 
 XXX
 
@@ -474,7 +474,7 @@ En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece se
 
 * Lo más sencillo es meterle al _**tronco**_ todos sus píxeles para hacer que sea más largo.
 * Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
-* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar pasar andando y volver a subir por el otro lado.
+* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar, pasar andando y volver a subir por el otro lado.
 * Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
 #### Tercera cámara de la cueva
@@ -486,7 +486,7 @@ Cuando se activa la _**cuchilla**_ se oye un chillido de mono que sale de una _*
 El pasillo es tan largo que hay scroll en la pantalla de izquierda a derecha y el truco de esta pantalla está en usar ese scroll para atravesar la cuchilla.
 
 Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla.
-Si van avanzando, uno en cada lado de la pantalla, cuando la jugadora de la derecha llegan a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la _**cuchilla**_.
+Si van avanzando, una jugadora en cada lado de la pantalla, cuando la de la derecha llega a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto, no los ve y no puede activar la _**cuchilla**_.
 
 Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
 
@@ -506,7 +506,7 @@ El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al o
 
 ### 2. De vampiros y zombis
 
-Con la cruz en su poder, la siguienta parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
+Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
 De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_, podrán usar el bote con el que han bajado a tierra. Podrán salir de la cala en la que está su barco e ir al lugar donde fondea _**El caminante**_, el navío de velas negras de DraChuckla.
 Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
@@ -521,7 +521,7 @@ XXX
 
 #### Cubierta inferior
 
-La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir esta al otro lado.
+La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir está al otro lado.
 
 Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
 
@@ -537,15 +537,18 @@ XXX
 
 #### Castillo de popa
 
+La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una vitrina de exposición con otros objetos vudús. El problema es que cuando abres la vitrina _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
+
 XXX
 
 ### 3. ¡Muere maldito vampirata!
 
-XXX
+Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas sus capacidades.
 
+XXX
 #### Camarote de DraChuckla
 
-_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su **primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
+_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
 
 XXX
 
@@ -573,7 +576,7 @@ XXX
 
 #### Primera cámara de la cueva
 
-* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazante
+* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
 * **Conexiones:** Entrada de la cueva del tesoro, Segunda cámara
 #### Segunda cámara de la cueva
 
@@ -610,7 +613,7 @@ XXX
 #### Castillo de popa
 
 * **PNJ:** Primero de a bordo zombi
-* **Elementos clicables:** Muñecos vudú
+* **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes
 * **Conexiones:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla

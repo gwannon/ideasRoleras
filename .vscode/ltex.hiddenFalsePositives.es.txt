@@ -174,3 +174,6 @@
 {"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QPrimero deberán encontrar el Mac’n Cheese antes que el capitán DraChuckla y conseguir la Cruz de Coronado.\\E$"}
 {"rule":"FORM","sentence":"^\\QSi quieres simplificar las cosas puedes hacer que El Caminante hunda el barco de tus jugadoras, El vómito del Kraken, de forma que no puedan salir de la península.\\E$"}
 {"rule":"OBSCURE","sentence":"^\\QLa oscura jungla es un auténtico laberinto.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLos zombis solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta.\\E$"}
+{"rule":"AGREEMENT_PARTICIPLE_NOUN","sentence":"^\\QLingotes de oro, Cruz de Coronado\nConexiones:\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QSi van avanzando, una jugadora en cada lado de la pantalla, cuando la de la derecha llega a la cuchilla, la trampilla del mono vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la cuchilla.\\E$"}

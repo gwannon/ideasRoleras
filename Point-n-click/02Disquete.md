@@ -44,7 +44,7 @@ En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Pr
 
 #### El vómito del Kraken
 
-Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
+Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho, solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
 
 En la cubierta principal se encontrarán con la _**Señorita Bridalis**_. _**Bridalis**_ trabaja para la «Comisión por el desarrollo turístico de Bucan Ville», dependiente del «Gremio de Piratas de Bucan Ville», dirigido a su vez por las _**Jefas Piratas**_. _**Bridalis**_ se encarga del mantenimiento del barco y de hacer los shows piratas para los turistas que visitan la isla.
 
@@ -60,7 +60,7 @@ _**Bridalis**_ les dirá que tiene el barco preparado para zarpar, pero antes de
 
 La única manera de llegar a choza de _**Alfonsé**_ es conseguir uno de sus panfletos publicitarios que explica como llegar. El problema es que el _**repartidor**_ que ha contratado los ha repartido ya todos y no puede dar ninguno a tus jugadoras. En realidad los ha tirado todos en el pantano y se ha ido a empapuzarse de grog de bañera en el _**Cangrejo Cocido**_.
 
-Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé**_, solo hay uno y está en la _**tienda souvenirs**_
+Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé**_, solo hay uno y está en la _**tienda souvenirs**_.
 
 #### Tienda de souvenirs
 
@@ -122,9 +122,9 @@ Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Lu
 
 Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
 
-_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados el oráculo se desvanecerá y no podrá volver a ser invocado.
+_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados, el oráculo se desvanecerá y no podrá volver a ser invocado.
 
-Si siguen las coordenadas que les de _**Tom «el bidente»**_ conseguirán llegar a la península del Simio. Apartir de este momento podrán venir siempre que quieran.
+Si siguen las coordenadas que les dé _**Tom «el bidente»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.
 
 \sp
 

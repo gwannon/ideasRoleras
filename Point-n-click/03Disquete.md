@@ -28,7 +28,7 @@ Lo primero será encontrar la cueva donde está el tesoro sin perderse en el lab
 
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
-En el fondo de la cueva encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingote**_ y coger la cruz será otro reto.
+En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingotes**_ y coger la cruz será otro reto.
 
 > Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_, de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
@@ -51,11 +51,11 @@ Cada vez que entren en la pantalla _**Bridalis**_ tendrá un nuevo disfraz y est
 
 Si las ves muy perdidas puedes darles, alguno de los objetos que está usando _**Bridalis**_, por ejemplo, el detector de metales puede ayudarles en la jungla. También puedes llenarles el equipo de mierdas que no van a necesitar ni poder usar.
 
-Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_
+Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_.
 
 #### La jungla
 
-La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
+La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo, izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
 
 La única manera de atravesar el laberinto es seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
 
@@ -63,7 +63,7 @@ Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrad
 
 \sp
 
-A partir de ese momento cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_.
+A partir de ese momento, cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_.
 
 #### Entrada de la cueva del tesoro
 
@@ -73,7 +73,7 @@ XXX
 
 #### Primera cámara de la cueva
 
-En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las 3 estatuas se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
+En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las _**3 estatuas**_, se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
 
 XXX
 
@@ -83,7 +83,7 @@ En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece se
 
 * Lo más sencillo es meterle al _**tronco**_ todos sus píxeles para hacer que sea más largo.
 * Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
-* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar pasar andando y volver a subir por el otro lado.
+* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar, pasar andando y volver a subir por el otro lado.
 * Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
 #### Tercera cámara de la cueva
@@ -98,7 +98,7 @@ Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al 
 
 \sp
 
-Si van avanzando, uno en cada lado de la pantalla, cuando la jugadora de la derecha llegan a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto no los ve y no puede activar la _**cuchilla**_.
+Si van avanzando, una jugadora en cada lado de la pantalla, cuando la de la derecha llega a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto, no los ve y no puede activar la _**cuchilla**_.
 
 Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
 
@@ -118,7 +118,7 @@ El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al o
 
 ### 2. De vampiros y zombis
 
-Con la cruz en su poder, la siguienta parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
+Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
 De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_, podrán usar el bote con el que han bajado a tierra. Podrán salir de la cala en la que está su barco e ir al lugar donde fondea _**El caminante**_, el navío de velas negras de DraChuckla.
 
@@ -136,7 +136,7 @@ XXX
 
 #### Cubierta inferior
 
-La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir esta al otro lado.
+La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir está al otro lado.
 
 Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
 
@@ -152,15 +152,21 @@ XXX
 
 #### Castillo de popa
 
+La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una vitrina de exposición con otros objetos vudús. El problema es que cuando abres la vitrina _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
+
 XXX
 
 ### 3. ¡Muere maldito vampirata!
 
+Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas sus capacidades.
+
 XXX
+
+\sp
 
 #### Camarote de DraChuckla
 
-_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su **primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
+_**DraChuckla**_ les espera tocando una pieza musical tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
 
 XXX
 
@@ -202,7 +208,7 @@ XXX
 
 #### Primera cámara de la cueva
 
-* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazante
+* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
 * **Conexiones:** Entrada de la cueva del tesoro, Segunda cámara
 
 \sc
@@ -255,7 +261,7 @@ XXX
 #### Castillo de popa
 
 * **PNJ:** Primero de a bordo zombi
-* **Elementos clicables:** Muñecos vudú
+* **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes
 * **Conexiones:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla
