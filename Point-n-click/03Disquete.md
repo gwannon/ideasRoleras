@@ -34,14 +34,11 @@ En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_ está l
 
 #### La playa
 
-Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_.
+Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Puede recoger algas del suelo, aunque están secas y son malolientes. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_.
 
 Cada vez que entren en la pantalla _**Bridalis**_ tendrá un nuevo disfraz y estará haciendo alguna de estas actividades:
 
 * Hacer un castillo de arena
-
-\sc
-
 * Broncearse al sol
 * Jugar con una pelota de playa
 * Salir del agua con traje de submarinismo
@@ -130,9 +127,9 @@ Si los _**no-muertos**_ los detectan, se lanzarán a por ellos y tendrán que sa
 
 #### Fuera de El caminante
 
-Tus jugadoras pueden acercarse al casco de _**El caminante**_ cerca de su ancla, que han dejado caer al mar. El casco está cubierto de _**percebes, lapas y mejillones**_ que pueden recogerse.
+Tus jugadoras pueden acercarse al casco de _**El caminante**_ cerca de su ancla, que han dejado caer al mar. El casco está cubierto de _**percebes, lapas y mejillones**_ que pueden recolectarse.
 
-XXX
+No hay ningún tipo de prueba o reto en esta pantalla, simplemente escalar la _**cadena del ancla**_ y entrar a la _**cubierta inferior**_.
 
 #### Cubierta inferior
 
@@ -140,7 +137,7 @@ La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La 
 
 Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
 
-XXX
+Los zombis están sucios y apestosos, así que si son listos podrían embadurnarse con las _**lapas, percebes y mejillones**_ del casco y hacerse algún tipo de disfraz de algas de la _**playa**_. Con esto, los _**zombis**_ de la cubierta inferior no deberían molestarlas.
 
 #### Cubierta superior
 
@@ -160,15 +157,13 @@ XXX
 
 ### 3. ¡Muere maldito vampirata!
 
-Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas sus capacidades.
-
-XXX
+Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras.
 
 #### Camarote de DraChuckla
 
 _**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus piezas musicales tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. El _**gobernador**_ está atacado y amordazado
 
-Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras.
+Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras, pero si han hecho bien los deberes el _**primero de abordo**_ aparecerá y le dirá «Mi señor, los muñecos no están».
 
 XXX
 
@@ -176,9 +171,11 @@ XXX
 
 ### 4. Secuencia final
 
-Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas. 
+Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas. El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.
 
-Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos artificiales que nadie sabe donde han pasado. Deja que cada jugadora diga una frase solemne mientras explotan los fuegos artificiales y … de repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus cenizas empezarán a brillar mientras suena tétrica música de órgano, para transicionar seguidamente a los títulos de crédito de la aventura y un gran «Fin» final.
+Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos artificiales que nadie sabe donde han pasado. Deja que cada jugadora diga una frase solemne mientras explotan los fuegos artificiales y … 
+
+De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus cenizas empezarán a brillar mientras suena tétrica música de órgano, para transicionar seguidamente a los títulos de crédito de la aventura y un gran «Fin» final.
 
 > Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
 
@@ -199,7 +196,7 @@ Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos arti
 #### Playa
 
 * **PNJ:** Bridalis
-* **Elementos clicables:** Objetos que usa Bridalis en sus disfraces
+* **Elementos clicables:** Algas, Objetos que usa Bridalis en sus disfraces
 * **Conexiones:** Vómito del Kraken
 
 #### Jungla
