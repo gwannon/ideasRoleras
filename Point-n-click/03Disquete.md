@@ -70,9 +70,24 @@ XXX
 
 #### Primera cámara de la cueva
 
-En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las _**3 estatuas**_, se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
+En esta _**primera cámara**_ hay tres _**estatuas de simios**_ cada una con un gesto, uno que se tapa las orejas, otro la boca y otro los ojos. Encima de cada una las _**estatuas**_ hay un pequeño simio que imita cualquier gesto. Si avanzan y algún simio no es igual al gesto de su estatua, en cuanto pasan las _**3 estatuas**_, los simios tocan algún resorte y se levanta un muro que no les deja avanzar.
 
-XXX
+Los monos imitan lo que hace la persona que hay delante de la estatua, así que, por ejemplo, al ponerse delante del que tiene tapadas las orejas y taparse los ojos, se taparán los ojos. Automáticamente, el resto cambian siguiendo estás reglas.
+
+* Si cambían la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiadoo ocupa el lugar libre.
+* Si cambian el gesto de la segunda estatua solo se intercambia por el nuevo gesto.
+
+La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
+
+|&nbsp;|1ª estatua|2ª estatua|3ª estatua|
+|---|---|---|---|
+|Gesto estatua|Orejas|Boca|Ojos|
+|Gesto simio inicial|Ojos|Boca|Orejas|
+|1º estatua **orejas**|**Orejas**|Ojos|Boca|
+|3ª estatua **ojos**|Boca|Orejas|**Ojos**|
+|2ª estatua **boca**|Orejas|**Boca**|Ojos|
+
+Si colocan cada simio en su estatua, no saltará el muro y podrán avanzar. Los gestos se conservan aunque salgan de la pantalla.
 
 #### Segunda cámara de la cueva
 
@@ -81,6 +96,9 @@ En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece se
 * Lo más sencillo es meterle al _**tronco**_ todos sus píxeles para hacer que sea más largo.
 * Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
 * El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar, pasar andando y volver a subir por el otro lado.
+
+\sp
+
 * Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
 #### Tercera cámara de la cueva
@@ -92,8 +110,6 @@ Cuando se activa la _**cuchilla**_ se oye un chillido de mono que sale de una _*
 El pasillo es tan largo que hay scroll en la pantalla de izquierda a derecha y el truco de esta pantalla está en usar ese scroll para atravesar la cuchilla.
 
 Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla.
-
-\sp
 
 Si van avanzando, una jugadora en cada lado de la pantalla, cuando la de la derecha llega a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto, no los ve y no puede activar la _**cuchilla**_.
 
@@ -111,6 +127,8 @@ A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento q
 
 La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
 
+\sp
+
 El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
 
 ### 2. De vampiros y zombis
@@ -118,8 +136,6 @@ El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al o
 Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
 De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_, podrán usar el bote con el que han bajado a tierra. Podrán salir de la cala en la que está su barco e ir al lugar donde fondea _**El caminante**_, el navío de velas negras de DraChuckla.
-
-\sp
 
 Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
 
@@ -139,21 +155,25 @@ Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricoooo
 
 Los zombis están sucios y apestosos, así que si son listos podrían embadurnarse con las _**lapas, percebes y mejillones**_ del casco y hacerse algún tipo de disfraz de algas de la _**playa**_. Con esto, los _**zombis**_ de la cubierta inferior no deberían molestarlas.
 
+\sp
+
 #### Cubierta superior
 
 La _**cubierta superior**_ está también llena de _**zombis**_, pero estos parecen más inteligentes, están haciendo tareas sencillas como barrer la cubierta o atar y desatar cabos.
 
 Esta pantalla también es larga con un scroll desde la escalera que subía de la _**cubierta inferior**_ hasta la puerta del _**castillo de popa**_.
 
-XXX
+Esta vez no bastará con ponerse los restos malolientes del marisco de casco, deberán coger algo como _**una fregona**_ o un _**cepillo**_ y limpiar el suelo o coger una _**maroma**_ y llevarlas al otro lado de la cubierta.
+
+Hazles pasar una tirada para engañar a los _**zombis de cubierta**_ y puedes darles positivos o negativos según su interpretación, si hacen sonidos de zombis o hablan como humanos, etc.
 
 #### Castillo de popa
+
+El castillo de popa es una estancia que hace las veces de almacen de trastos, mapas, herramientas de navegación, trofeos varios y toda la pafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
 
 La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición**_ con otros objetos vudús. El problema es que cuando abres la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
 
 XXX
-
-\sp
 
 ### 3. ¡Muere maldito vampirata!
 
@@ -167,7 +187,7 @@ Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga 
 
 XXX
 
-\sc
+\sp
 
 ### 4. Secuencia final
 
@@ -255,6 +275,7 @@ De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus ceni
 #### Cubierta superior
 
 * **PNJ:** Muchos zombis inteligentes
+* **Elementos clicables:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
 * **Conexiones:** Cubierta inferior, Castillo de popa
 
 \sc

@@ -4,29 +4,15 @@ La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está
 
 XXX
 
-#### Primera cámara de la cueva
-
-En esta _**primera cámara**_ hay tres _**estatuas de monos**_, uno que se tapa las orejas, otro los ojos y otro la boca. Si avanzan, en cuanto pasan las _**3 estatuas**_, se levanta un muro que no les deja avanzar. Si se fijan en las tripas de los monos, hay unos agujeros para que los monos vigilen desde dentro de las _**estatuas**_.
-
-XXX
-
 ***
 
-#### Cubierta superior
-
-La _**cubierta superior**_ está también llena de _**zombis**_, pero estos parecen más inteligentes, están haciendo tareas sencillas como barrer la cubierta o atar y desatar cabos.
-
-Esta pantalla también es larga con un scroll desde la escalera que subía de la _**cubierta inferior**_ hasta la puerta del _**castillo de popa**_.
-
-XXX
-
 #### Castillo de popa
+
+El castillo de popa es una estancia que hace las veces de almacen de trastos, mapas, herramientas de navegación, trofeos varios y toda la pafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
 
 La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición**_ con otros objetos vudús. El problema es que cuando abres la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
 
 XXX
-
-\sp
 
 ### 3. ¡Muere maldito vampirata!
 
