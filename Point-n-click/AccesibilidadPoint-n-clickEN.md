@@ -450,7 +450,7 @@ _Deep in the Caribbean lies a peninsula surrounded by water on all sides, called
 
 _You'll have to face zombie ships, vampire pirate captains, talking shrunken heads, and plenty of apes, using your intelligence, your wit, and the powerful, sometimes explosive, magic of voodoo._
 
-_If you're lucky enough to avoid scurvy, you might just survive this adventure and find the greatest pirate treasure ever known, Mac'n Cheese, earning the respect of the entire Caribbean._
+_If you're lucky enough to avoid scurvy, you might just survive this adventure and find the greatest pirate treasure ever known, Mac’n Cheese, earning the respect of the entire Caribbean._
 
 «The enigma of the Ape Peninsula» is a graphic adventure game for EGA, released on three 3.5-inch floppy disks. Its genre is humor and fantasy, and it was developed by LucasArts Games. This chapter comprises only the first of the three disks that make up the complete campaign.
 
@@ -637,7 +637,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 Here are some ideas for how you can continue this adventure, which could span disk 2 (the plot's climax) and disk 3 (the final resolution).
 
 * You could try to rescue the governor from DraChuckla's clutches.
-* You could try to find the Mac'n Cheese, the greatest pirate treasure ever known. DraChuckla is rumored to be after it, so you must be careful.
+* You could try to find the Mac’n Cheese, the greatest pirate treasure ever known. DraChuckla is rumored to be after it, so you must be careful.
 * You could try to learn voodoo magic to see if you can counteract what DraChuckla does with his dolls.
 * Perhaps you could form a band and dedicate yourselves to playing reggae throughout the Caribbean.## Adventure summary
 
