@@ -10,7 +10,8 @@
 
 &nbsp;
 
-> Versión 0.9 | Diciembre 2025
+
+> Versión 1.0 | Diciembre 2025
 
 \sc
 

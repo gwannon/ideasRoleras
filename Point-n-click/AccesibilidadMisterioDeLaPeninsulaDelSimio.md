@@ -1,6 +1,7 @@
 
 
-# El enigma de la Península del Simio> Versión 0.9 | Diciembre 2025
+# El enigma de la Península del Simio
+> Versión 1.0 | Diciembre 2025
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
@@ -460,11 +461,11 @@ A partir de ese momento, cuando entren en la jungla llegarán directamente a la 
 
 La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un _**montón de simios**_ que te gruñen y lanzan cacas si te acercas.
 
-Si se fijan bien, los monos lanzan las cacas siempre en las 3 mismas zonas y antes de lanzar gruñen. Las vacas al caer salpican, así que las zonas donde se pueden pringar son amplias.
+Si se fijan bien, los _**simios**_ lanzan las cacas siempre en las 3 mismas zonas y antes de lanzar gruñen. Las cacas al caer salpican, así que las zonas donde se pueden pringar son amplias.
 
-Después de cada ronda de lanzamiento de cacas, mientras consiguen nueva munición (tómatelo como quieras), tus jugadoras pueden atravesar la zona de salpique y quedarse en una zona protegida.
+Después de cada ronda de lanzamiento de cacas, mientras consiguen nueva munición (tómatelo como quieras), tus jugadoras pueden atravesar una zona de salpicadura y quedarse en una zona protegida.
 
-Así, poco a poco podrán avanzar hacia la cabeza de mono y una vez estén enfrente de los simios huirán despavoridos.
+Así, poco a poco podrán avanzar hacia la cabeza de mono y una vez estén enfrente de los _**simios**_ huirán despavoridos.
 
 Puedes pedirles tiradas para recordar con precisión si están en zona de pringue o no. Dales bonus si se les ocurre dejar algo para marcarlas como papeles y negativos si intentan pasar a toda velocidad.
 
@@ -585,11 +586,15 @@ _**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus pie
 
 Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras, pero si han hecho bien los deberes el _**primero de abordo**_ aparecerá y le dirá «Mi señor, los muñecos no están».
 
-XXX
+Aquí empezará la batalla entre jugadoras y el temible capitán DraChuckla. Puedes enfocarlo como quieras, pero la idea que te ofrecemos es que sea una especie de cinemática donde DraChuckla se acerca a tus jugadoras soltando amenazas tipo «Voy a chuparos la sangre» o «Me daré un festín con vuestra vitae». Ellas sacarán la _**cruz de Coronado**_ que empieza a brillar. La luz que emite la _**cruz**_ quema al vampiro que empieza a convertirse en cenizas y muere. 
+
+Si quieres pueden quitar el monólogo y poner un diálogo con zascas entre DraChuckla y tus jugadoras. Si le dan buenas réplicas, se irá enfadando y acercando hasta ponerse cerca y poder sacar la _**cruz**_.
 
 ### 4. Secuencia final
 
-Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas. El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.
+Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas.
+El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.
+
 Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos artificiales que nadie sabe donde han pasado. Deja que cada jugadora diga una frase solemne mientras explotan los fuegos artificiales y … 
 
 De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus cenizas empezarán a brillar mientras suena tétrica música de órgano, para transicionar seguidamente a los títulos de crédito de la aventura y un gran «Fin» final.
