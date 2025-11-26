@@ -66,7 +66,17 @@ A partir de ese momento, cuando entren en la jungla llegarán directamente a la 
 
 La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un _**montón de simios**_ que te gruñen y lanzan cacas si te acercas.
 
-XXX
+Si se fijan bien, los monos lanzan las cacas siempre en las 3 mismas zonas y antes de lanzar gruñen. Las vacas al caer salpican, así que las zonas donde se pueden pringar son amplias.
+
+Después de cada ronda de lanzamiento de cacas, mientras consiguen nueva munición (tómatelo como quieras), tus jugadoras pueden atravesar la zona de salpique y quedarse en una zona protegida.
+
+Así, poco a poco podrán avanzar hacia la cabeza de mono y el una vez estén enfrente los simios huirán despavoridos.
+
+Puedes pedirles tiradas para recordar con precisión si están en zona de pringue o no. Dales bonus si se les ocurre dejar algo para marcarlas como papeles y negativos si intentan pasar a toda velocidad.
+
+Si les cae una caca encima a una de tus jugadoras, saldrá corriendo a la playa a limpiarse y con ella sus compañeras. Recuerda que no pueden separarse y deben estar siempre en la misma pantalla.
+
+Las cacas una vez impactan desaparecen sin dejar pistas de donde están las zonas de caída de cacas.
 
 #### Primera cámara de la cueva
 
