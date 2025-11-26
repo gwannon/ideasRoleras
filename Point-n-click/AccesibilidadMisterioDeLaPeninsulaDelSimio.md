@@ -1,6 +1,6 @@
 
 
-# El enigma de la Península del Simio> Versión 0.8 | Diciembre 2025
+# El enigma de la Península del Simio> Versión 0.9 | Diciembre 2025
 _En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
@@ -289,7 +289,7 @@ Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que 
 
 El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
 
-Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac'n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
+Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac’n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
 
 Como consejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**_ para más información sobre DraChuckla y la Península del Simio.
 
@@ -339,7 +339,7 @@ Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al 
 
 Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él.
 
-Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac'n Cheese**_, pero a él no le mueve el dinero, etc.
+Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac’n Cheese**_, pero a él no le mueve el dinero, etc.
 
 Tras dar muchas vueltas y vueltas a la conversación, si son persistentes, le sacarán toda la info necesaria:
 
@@ -468,7 +468,7 @@ En esta _**primera cámara**_ hay tres _**estatuas de simios**_ cada una con un 
 
 Los monos imitan lo que hace la persona que hay delante de la estatua, así que, por ejemplo, al ponerse delante del que tiene tapadas las orejas y taparse los ojos, se taparán los ojos. Automáticamente, el resto cambian siguiendo estás reglas.
 
-* Si cambían la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiadoo ocupa el lugar libre.
+* Si cambian la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiado ocupa el lugar libre.
 * Si cambian el gesto de la segunda estatua solo se intercambia por el nuevo gesto.
 
 La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
@@ -477,7 +477,7 @@ La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
 |---|---|---|---|
 |Gesto estatua|Orejas|Boca|Ojos|
 |Gesto simio inicial|Ojos|Boca|Orejas|
-|1º estatua **orejas**|**Orejas**|Ojos|Boca|
+|1ª estatua **orejas**|**Orejas**|Ojos|Boca|
 |3ª estatua **ojos**|Boca|Orejas|**Ojos**|
 |2ª estatua **boca**|Orejas|**Boca**|Ojos|
 
@@ -537,7 +537,7 @@ No hay ningún tipo de prueba o reto en esta pantalla, simplemente escalar la _*
 
 #### Cubierta inferior
 
-La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir está al otro lado.
+La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar está a un lado de la cubierta y la escalera para subir está al otro lado.
 
 Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
 
@@ -554,16 +554,22 @@ Hazles pasar una tirada para engañar a los _**zombis de cubierta**_ y puedes da
 
 #### Castillo de popa
 
-El castillo de popa es una estancia que hace las veces de almacen de trastos, mapas, herramientas de navegación, trofeos varios y toda la pafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
+El castillo de popa es una estancia que hace las veces de almacén de trastos, mapas, herramientas de navegación, trofeos varios y toda la parafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
 
-La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición**_ con otros objetos vudús. El problema es que cuando abres la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
+La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición con cerrojo**_ con otros objetos vudús. El problema es que cuando intentas abrir la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay encima de la _**vitrina**_ empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
 
-XXX
+Puede hacerse de varias maneras.
+
+* La más sencilla es coger las cabezas (tendrán que coger una cada vez) porque al momento el resto se ponen a gritar y aparecen los zombis. Cuando tengan todas, podrán abrir la _**vitrina**_ sin que suene ninguna alarma.
+* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esa forma el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
+
+Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si tocan propias _**cabezas**_, también dan la alarma.
+
+Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y enfrentarse a él sin miedo.
 
 ### 3. ¡Muere maldito vampirata!
 
 Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras.
-
 #### Camarote de DraChuckla
 
 _**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus piezas musicales tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. El _**gobernador**_ está atacado y amordazado
@@ -571,6 +577,7 @@ _**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus pie
 Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras, pero si han hecho bien los deberes el _**primero de abordo**_ aparecerá y le dirá «Mi señor, los muñecos no están».
 
 XXX
+
 ### 4. Secuencia final
 
 Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas. El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.

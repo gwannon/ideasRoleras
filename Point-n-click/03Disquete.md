@@ -74,7 +74,7 @@ En esta _**primera cámara**_ hay tres _**estatuas de simios**_ cada una con un 
 
 Los monos imitan lo que hace la persona que hay delante de la estatua, así que, por ejemplo, al ponerse delante del que tiene tapadas las orejas y taparse los ojos, se taparán los ojos. Automáticamente, el resto cambian siguiendo estás reglas.
 
-* Si cambían la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiadoo ocupa el lugar libre.
+* Si cambian la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiado ocupa el lugar libre.
 * Si cambian el gesto de la segunda estatua solo se intercambia por el nuevo gesto.
 
 La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
@@ -83,7 +83,7 @@ La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
 |---|---|---|---|
 |Gesto estatua|Orejas|Boca|Ojos|
 |Gesto simio inicial|Ojos|Boca|Orejas|
-|1º estatua **orejas**|**Orejas**|Ojos|Boca|
+|1ª estatua **orejas**|**Orejas**|Ojos|Boca|
 |3ª estatua **ojos**|Boca|Orejas|**Ojos**|
 |2ª estatua **boca**|Orejas|**Boca**|Ojos|
 
@@ -149,7 +149,7 @@ No hay ningún tipo de prueba o reto en esta pantalla, simplemente escalar la _*
 
 #### Cubierta inferior
 
-La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar esta a un lado de la cubierta y la escalera para subir está al otro lado.
+La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar está a un lado de la cubierta y la escalera para subir está al otro lado.
 
 Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
 
@@ -169,15 +169,24 @@ Hazles pasar una tirada para engañar a los _**zombis de cubierta**_ y puedes da
 
 #### Castillo de popa
 
-El castillo de popa es una estancia que hace las veces de almacen de trastos, mapas, herramientas de navegación, trofeos varios y toda la pafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
+El castillo de popa es una estancia que hace las veces de almacén de trastos, mapas, herramientas de navegación, trofeos varios y toda la parafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
 
-La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición**_ con otros objetos vudús. El problema es que cuando abres la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay dentro empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
+La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición con cerrojo**_ con otros objetos vudús. El problema es que cuando intentas abrir la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay encima de la _**vitrina**_ empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
 
-XXX
+Puede hacerse de varias maneras.
+
+* La más sencilla es coger las cabezas (tendrán que coger una cada vez) porque al momento el resto se ponen a gritar y aparecen los zombis. Cuando tengan todas, podrán abrir la _**vitrina**_ sin que suene ninguna alarma.
+* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esa forma el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
+
+Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si tocan propias _**cabezas**_, también dan la alarma.
+
+Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y enfrentarse a él sin miedo.
 
 ### 3. ¡Muere maldito vampirata!
 
 Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras.
+
+\sp
 
 #### Camarote de DraChuckla
 
@@ -186,8 +195,6 @@ _**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus pie
 Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga los _**muñecos vudú**_ y acabar con tus jugadoras, pero si han hecho bien los deberes el _**primero de abordo**_ aparecerá y le dirá «Mi señor, los muñecos no están».
 
 XXX
-
-\sp
 
 ### 4. Secuencia final
 

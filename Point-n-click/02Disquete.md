@@ -36,7 +36,7 @@ Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que 
 
 El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
 
-Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac'n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
+Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac’n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
 
 Como consejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**_ para más información sobre DraChuckla y la Península del Simio.
 
@@ -92,7 +92,7 @@ Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al 
 
 Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él.
 
-Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac'n Cheese**_, pero a él no le mueve el dinero, etc.
+Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac’n Cheese**_, pero a él no le mueve el dinero, etc.
 
 Tras dar muchas vueltas y vueltas a la conversación, si son persistentes, le sacarán toda la info necesaria:
 
