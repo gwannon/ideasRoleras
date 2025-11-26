@@ -70,7 +70,7 @@ Si se fijan bien, los monos lanzan las cacas siempre en las 3 mismas zonas y ant
 
 Después de cada ronda de lanzamiento de cacas, mientras consiguen nueva munición (tómatelo como quieras), tus jugadoras pueden atravesar la zona de salpique y quedarse en una zona protegida.
 
-Así, poco a poco podrán avanzar hacia la cabeza de mono y el una vez estén enfrente los simios huirán despavoridos.
+Así, poco a poco podrán avanzar hacia la cabeza de mono y una vez estén enfrente de los simios huirán despavoridos.
 
 Puedes pedirles tiradas para recordar con precisión si están en zona de pringue o no. Dales bonus si se les ocurre dejar algo para marcarlas como papeles y negativos si intentan pasar a toda velocidad.
 
@@ -97,6 +97,8 @@ La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
 |3ª estatua **ojos**|Boca|Orejas|**Ojos**|
 |2ª estatua **boca**|Orejas|**Boca**|Ojos|
 
+\sp
+
 Si colocan cada simio en su estatua, no saltará el muro y podrán avanzar. Los gestos se conservan aunque salgan de la pantalla.
 
 #### Segunda cámara de la cueva
@@ -106,9 +108,6 @@ En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece se
 * Lo más sencillo es meterle al _**tronco**_ todos sus píxeles para hacer que sea más largo.
 * Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
 * El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar, pasar andando y volver a subir por el otro lado.
-
-\sp
-
 * Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
 #### Tercera cámara de la cueva
@@ -127,6 +126,8 @@ Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**tra
 
 Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista de cómo funciona la _**simio-cuchilla**_.
 
+\sp
+
 #### Cámara del tesoro
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
@@ -136,8 +137,6 @@ Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ n
 A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia, pero nada más lejos de la realidad.
 
 La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
-
-\sp
 
 El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
 
@@ -150,6 +149,8 @@ De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_, podrán u
 Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
 
 Si los _**no-muertos**_ los detectan, se lanzarán a por ellos y tendrán que salir del barco y volver a empezar la escena desde el principio, igual que cuando _**DraChuckla**_ usa los muñecos vudú.
+
+\sp
 
 #### Fuera de El caminante
 
@@ -164,8 +165,6 @@ La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La 
 Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
 
 Los zombis están sucios y apestosos, así que si son listos podrían embadurnarse con las _**lapas, percebes y mejillones**_ del casco y hacerse algún tipo de disfraz de algas de la _**playa**_. Con esto, los _**zombis**_ de la cubierta inferior no deberían molestarlas.
-
-\sp
 
 #### Cubierta superior
 
@@ -183,10 +182,12 @@ El castillo de popa es una estancia que hace las veces de almacén de trastos, m
 
 La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición con cerrojo**_ con otros objetos vudús. El problema es que cuando intentas abrir la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay encima de la _**vitrina**_ empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
 
+\sp
+
 Puede hacerse de varias maneras.
 
 * La más sencilla es coger las cabezas (tendrán que coger una cada vez) porque al momento el resto se ponen a gritar y aparecen los zombis. Cuando tengan todas, podrán abrir la _**vitrina**_ sin que suene ninguna alarma.
-* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esa forma el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
+* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esta manera el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
 
 Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si tocan propias _**cabezas**_, también dan la alarma.
 
@@ -195,8 +196,6 @@ Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y
 ### 3. ¡Muere maldito vampirata!
 
 Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras.
-
-\sp
 
 #### Camarote de DraChuckla
 
@@ -210,11 +209,15 @@ XXX
 
 Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas. El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.
 
+\sp
+
 Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos artificiales que nadie sabe donde han pasado. Deja que cada jugadora diga una frase solemne mientras explotan los fuegos artificiales y … 
 
 De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus cenizas empezarán a brillar mientras suena tétrica música de órgano, para transicionar seguidamente a los títulos de crédito de la aventura y un gran «Fin» final.
 
 > Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
+
+\sc
 
 \sp
 
