@@ -28,7 +28,7 @@ Lo primero será encontrar la cueva donde está el tesoro sin perderse en el lab
 
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
-En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_ está la _**cruz de Coronado**_, pero escalar el montón de _**lingotes**_ y coger la cruz será otro reto.
+En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_, está la _**cruz de Coronado**_, pero escalar el montón de _**lingotes**_ y coger la cruz será otro reto.
 
 > Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_, de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
@@ -36,7 +36,7 @@ En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_ está l
 
 Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Puede recoger algas del suelo, aunque están secas y son malolientes. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_.
 
-Cada vez que entren en la pantalla _**Bridalis**_ tendrá un nuevo disfraz y estará haciendo alguna de estas actividades:
+Cada vez que entren en la pantalla, _**Bridalis**_ tendrá un nuevo disfraz y estará haciendo alguna de estas actividades:
 
 * Hacer un castillo de arena
 * Broncearse al sol
@@ -60,7 +60,7 @@ Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrad
 
 \sp
 
-A partir de ese momento, cuando entren en la jungla llegarán directamente a la _**entrada de la cueva**_.
+A partir de ese momento, cuando entren en la jungla, llegarán directamente a la _**entrada de la cueva**_.
 
 #### Entrada de la cueva del tesoro
 
@@ -80,7 +80,7 @@ Las cacas una vez impactan desaparecen sin dejar pistas de donde están las zona
 
 #### Primera cámara de la cueva
 
-En esta _**primera cámara**_ hay tres _**estatuas de simios**_ cada una con un gesto, uno que se tapa las orejas, otro la boca y otro los ojos. Encima de cada una las _**estatuas**_ hay un pequeño simio que imita cualquier gesto. Si avanzan y algún simio no es igual al gesto de su estatua, en cuanto pasan las _**3 estatuas**_, los simios tocan algún resorte y se levanta un muro que no les deja avanzar.
+En esta _**primera cámara**_ hay tres _**estatuas de simios**_, cada una con un gesto, uno que se tapa las orejas, otro la boca y otro los ojos. Encima de cada una las _**estatuas**_ hay un pequeño simio que imita cualquier gesto. Si avanzan y algún simio no es igual al gesto de su estatua, en cuanto pasan las _**3 estatuas**_, los simios tocan algún resorte y se levanta un muro que no les deja avanzar.
 
 Los monos imitan lo que hace la persona que hay delante de la estatua, así que, por ejemplo, al ponerse delante del que tiene tapadas las orejas y taparse los ojos, se taparán los ojos. Automáticamente, el resto cambian siguiendo estás reglas.
 
@@ -187,7 +187,7 @@ La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _*
 Puede hacerse de varias maneras.
 
 * La más sencilla es coger las cabezas (tendrán que coger una cada vez) porque al momento el resto se ponen a gritar y aparecen los zombis. Cuando tengan todas, podrán abrir la _**vitrina**_ sin que suene ninguna alarma.
-* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esta manera el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
+* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esta manera, el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
 
 Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si tocan propias _**cabezas**_, también dan la alarma.
 
@@ -195,7 +195,7 @@ Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y
 
 ### 3. ¡Muere maldito vampirata!
 
-Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras.
+Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras ... Qué va, mentira. Va a ser una cinemática chusca y pista, que los disquetes están caros.
 
 #### Camarote de DraChuckla
 
@@ -207,11 +207,13 @@ Aquí empezará la batalla entre jugadoras y el temible capitán DraChuckla. Pue
 
 Si quieres pueden quitar el monólogo y poner un diálogo con zascas entre DraChuckla y tus jugadoras. Si le dan buenas réplicas, se irá enfadando y acercando hasta ponerse cerca y poder sacar la _**cruz**_.
 
+Otra opción tremendamente insatisfactoria, es que tengan que sacar la cruz en el momento justo. Si lo sacan antes de tiempo, DraChuckla saldrá volando sin haberlo podido matar. Si lo hacen demasiado tarde, se cubrirá con su capa y les quitará la cruz de un manotazo para proceder a convertirlas en sus esclavos zombis.
+
+\sp
+
 ### 4. Secuencia final
 
 Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas.
-
-\sp
 
 El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.
 
