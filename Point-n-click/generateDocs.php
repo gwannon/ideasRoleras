@@ -79,6 +79,15 @@ if($argv[1] == 'Point-n-click') {
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
   $metas .= "InfoValue: rpg, ttrpg, parody, point and click, adventure game, retropixel\n\n";
+} else if($argv[1] == 'EnigmaOfTheApePeninsula') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: The enigma of the Ape Peninsula\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: «El enigma de la Península del Simio» es una aventura para «Point and click RPG» que plagia vilmente la famosa aventura piratil de LucasArts.\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, parody, point and click, adventure game, retropixel\n\n";
 }
 
 /* Generamos indice del PDF */

@@ -23,7 +23,8 @@ body {
   font-size: 18px;
 }
 
-#MisterioDeLaPeninsulaDelSimio {
+#MisterioDeLaPeninsulaDelSimio,
+#EnigmaOfTheApePeninsula {
   --color-red: #cf650d;
   --color-red-shadow: #8f3b02;
   --color-red-light: #d67a3c;
@@ -43,10 +44,6 @@ body:before {
   background: transparent url(../images/border1.png) top left repeat-y;
 }
 
-#MisterioDeLaPeninsulaDelSimio:before {
-  background: transparent url(../images/border3.png) top left no-repeat;
-}
-
 body:after {
   content: "";
   display: block;
@@ -59,11 +56,13 @@ body:after {
   background: transparent url(../images/border2.png) top right repeat-y;
 }
 
-#MisterioDeLaPeninsulaDelSimio:before {
+#MisterioDeLaPeninsulaDelSimio:before,
+#EnigmaOfTheApePeninsula:before {
   background: transparent url(../images/border3.png) top center repeat-y;
 }
 
-#MisterioDeLaPeninsulaDelSimio:after {
+#MisterioDeLaPeninsulaDelSimio:after,
+#EnigmaOfTheApePeninsula:after {
   background: transparent url(../images/border4.png) top center repeat-y;
 }
 
@@ -148,7 +147,8 @@ h1 {
   background-image: url(../images/titularEN.jpg);
 }
 
-#MisterioDeLaPeninsulaDelSimio h1 {
+#MisterioDeLaPeninsulaDelSimio h1,
+#EnigmaOfTheApePeninsula h1 {
   line-height: 110%;
   padding-left: 58%;
   background-image: url(../images/TitularMisterio.jpg);
@@ -158,7 +158,8 @@ h1 {
 
 @media screen and (max-width: 725px) {
   h1,
- #MisterioDeLaPeninsulaDelSimio h1 {
+ #MisterioDeLaPeninsulaDelSimio h1,
+ #EnigmaOfTheApePeninsula h1 {
     background-image: none;
     padding-top: 30px;
     font-size: 2em;
@@ -170,7 +171,8 @@ h1 {
 }
 
 @media screen {
-  #MisterioDeLaPeninsulaDelSimio h1 {
+  #MisterioDeLaPeninsulaDelSimio h1
+  #EnigmaOfTheApePeninsula h1 {
     padding-bottom: 1%;
   }
 }
@@ -192,7 +194,8 @@ h1 {
     padding-top: 600px;
   }
 
-  #MisterioDeLaPeninsulaDelSimio h1 {
+  #MisterioDeLaPeninsulaDelSimio h1,
+  #EnigmaOfTheApePeninsula h1 {
     padding-top: 650px;
     font-size: 3.3em;
     line-height: 100%;
@@ -222,7 +225,7 @@ h5 {
   font-weight: 400;
 }
 
-h2:not(#MisterioDeLaPeninsulaDelSimio h2) {
+h2:not(#MisterioDeLaPeninsulaDelSimio h2, #EnigmaOfTheApePeninsula h2) {
   background-color: var(--color-red);
   color: var(--color-black);
   font-size: 2.45em;
@@ -234,7 +237,7 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2) {
   text-shadow: 3px 0px 3px var(--color-red-light);
 }
 
-h2:not(#MisterioDeLaPeninsulaDelSimio h2):before {
+h2:not(#MisterioDeLaPeninsulaDelSimio h2, #EnigmaOfTheApePeninsula h2):before {
   content: "";
   width: 20px;
   height: 100%;
@@ -245,7 +248,7 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2):before {
   background-size: cover
 }
 
-h2:not(#MisterioDeLaPeninsulaDelSimio h2):after {
+h2:not(#MisterioDeLaPeninsulaDelSimio h2, #EnigmaOfTheApePeninsula h2):after {
   content: "";
   width: 20px;
   height: 100%;
@@ -262,7 +265,8 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2):after {
   --color-red-light: #e9a87c;
 */
 
-#MisterioDeLaPeninsulaDelSimio h2 {
+#MisterioDeLaPeninsulaDelSimio h2,
+#EnigmaOfTheApePeninsula h2 {
   --ribbon-size: 80px;
   --padding: 10px;
   font-size: 2.45em;
@@ -277,7 +281,8 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2):after {
   text-align: center;
 }
 
-#MisterioDeLaPeninsulaDelSimio h2:before {
+#MisterioDeLaPeninsulaDelSimio h2:before,
+#EnigmaOfTheApePeninsula h2:before {
   content: "";
 
   height: 100%;
@@ -314,7 +319,8 @@ h2:not(#MisterioDeLaPeninsulaDelSimio h2):after {
   );
 }
 
-#MisterioDeLaPeninsulaDelSimio h2:after {
+#MisterioDeLaPeninsulaDelSimio h2:after,
+#EnigmaOfTheApePeninsula h2:after {
   content: "";
   position: absolute;
   background-color: var(--color-red-shadow);
@@ -386,7 +392,8 @@ ul li:before {
   color: var(--color-red);
 }
 
-#MisterioDeLaPeninsulaDelSimio ul li:before {
+#MisterioDeLaPeninsulaDelSimio ul li:before,
+#EnigmaOfTheApePeninsula ul li:before {
   content: "";
   width: 12px;
   height: 17px;
@@ -424,7 +431,8 @@ img[alt='Mapa de pantallas'],
 img[alt='Screens map'],
 img[alt='Odyssey By Fatbeard91'],
 img[alt='18:57 (Rework) By Fatbeard91'],
-#MisterioDeLaPeninsulaDelSimio img{
+#MisterioDeLaPeninsulaDelSimio img,
+#EnigmaOfTheApePeninsula img {
   width: 100%;
   float: none;
 }
