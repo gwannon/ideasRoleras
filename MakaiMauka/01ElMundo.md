@@ -118,7 +118,7 @@ Es muy típico asar, enterrado con briquetas de madera, un gran cerdo. Se suele 
 
 \sp
 
-Otro punto importante que suele haber en todos estos eventos son las ofrendas a diferentes divinidades, desde dioses y _aumakuas_ a criaturas de mediano gran poder que vivan cerca. Las ofrendas van desde collares y XXX de flores a las mejores partes del cerdo asado. 
+Otro punto importante que suele haber en todos estos eventos son las ofrendas a diferentes divinidades, desde dioses y _aumakuas_ a criaturas de mediano gran poder que vivan cerca. Las ofrendas van desde collares de flores _lei_ a las mejores partes del cerdo asado. 
 
 Los bailes hula perfectamente realizados son ofrendas muy cotizadas y de ahí que los buenos bailarines y bailarinas de hula sean personas muy apreciadas y queridas en las diferentes comunidades. Otras opciones para agradar a los dioses suelen ser competiciones de surf y los participantes suelen ser agasajados con bailes y comida y bebida en abundancia. Por último, a la noche se suelen ofrecen bailes con bastones de fuego que generan bonitas figuras en el aire de la noche.
 
