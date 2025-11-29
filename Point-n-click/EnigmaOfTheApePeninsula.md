@@ -25,7 +25,7 @@ _Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura 
 
 \sinc
 
-## El enigma de la Península del Simio
+## The enigma of the Ape Peninsula
 
 &nbsp;
 
@@ -51,15 +51,15 @@ Este truco solo funciona con PNJ con los que puedas HABLAR y cuando sí hay un s
 
 \sp
 
-|01Disquete.md|
+|01Diskette.md|
 
 \sp
 
-|02Disquete.md|
+|02Diskette.md|
 
 \sp
 
-|03Disquete.md|
+|03Diskette.md|
 
 \sp
 

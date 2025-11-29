@@ -6,7 +6,7 @@ _En lo profundo del Caribe hay una península rodeada de agua por todas partes l
 
 _Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
 
-_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._## El enigma de la Península del Simio
+_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._## The enigma of the Ape Peninsula
 
 «El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point and click RPG»](https://pointnclick.gwannon.com/).
 
