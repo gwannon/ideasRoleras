@@ -153,13 +153,18 @@ h1 {
   padding-left: 58%;
   background-image: url(../images/TitularMisterio.jpg);
   font-size: 1.5em;
+      padding-top: 62%;
+    padding-bottom: 2%;
 }
 
+#EnigmaOfTheApePeninsula h1 {
+  background-image: url(../images/TitularMisterioEN.jpg);
+}
 
 @media screen and (max-width: 725px) {
   h1,
- #MisterioDeLaPeninsulaDelSimio h1,
- #EnigmaOfTheApePeninsula h1 {
+  #MisterioDeLaPeninsulaDelSimio h1,
+  #EnigmaOfTheApePeninsula h1 {
     background-image: none;
     padding-top: 30px;
     font-size: 2em;

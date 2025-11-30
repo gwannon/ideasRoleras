@@ -2,25 +2,25 @@
 
 # The enigma of the Ape Peninsula
 > Version 1.0 | December 2025
-_En lo profundo del Caribe hay una península rodeada de agua por todas partes llamada la Península del Simio. Adéntrate en sus oscuras grutas, sus espesas selvas y sus surtidas tiendas de regalos y souvenirs, para convertirte en una bucanera de pleno derecho._
+_Deep in the Caribbean lies a peninsula surrounded by water on all sides, called the Ape Peninsula. Venture into its dark grottoes, dense jungles, and well-stocked gift and souvenir shops to become a true buccaneer._
 
-_Tendrás que enfrentarte a buques zombis, capitanes piratas vampiros o vampiratas, cabezas reducidas parlantes y muchos simios, usando tu inteligencia, tu ingenio y la poderosa y a veces explosiva magia vudú._
+_You'll have to face zombie ships, vampire pirate captains, talking shrunken heads, and plenty of apes, using your intelligence, your wit, and the powerful, sometimes explosive, magic of voodoo._
 
-_Si eres afortunada y evitas el escorbuto, quizás salgas viva de esta aventura y encuentres el tesoro pirata más grande conocido, el Mac’n Cheese, y te ganes el respeto de todo el Caribe._## The enigma of the Ape Peninsula
+_If you're lucky enough to avoid scurvy, you might just survive this adventure and find the greatest pirate treasure ever known, Mac’n Cheese, earning the respect of the entire Caribbean._## The enigma of the Ape Peninsula
 
-«El enigma de la Península del Simio» es una aventura gráfica en EGA de 3 disquetes de 3½. Su temática es Humor y Fantasía y su desarrolladora es LucasArts Games. Para poder jugar esta aventura solo necesitas las [reglas básicas de «Point and click RPG»](https://pointnclick.gwannon.com/).
+«The enigma of the Ape Peninsula» is a graphic adventure game for EGA, available on three 3.5-inch floppy disks. Its theme is humor and fantasy, and it was developed by LucasArts Games. To play this adventure, you only need the [Basic Rules for «Point and Click RPG»](https://pointnclick.gwannon.com/).
 
-La primera parte de esta aventura (Disquete I), es la aventura introductoria que viene en las reglas básicas, así que si ya la has jugado, puedes saltártela.
+The first part of this adventure (Disk 1) is the introductory adventure included in the basic rules, so if you've already played it, you can skip it.
 
-### Reglas especiales
+### Special rules
 
-#### Mira detrás de ti … ¡Un simio de tres colas!
+#### Look behind you… A three-tailed ape!
 
-Una vez por sesión de juego, una de tus jugadoras pueden gastar 2 píxeles y usar el truco de "Mira detrás de ti … ¡Un simio de tres colas!". La jugadora, tras decir la frase, debe tirar un d6.
+Once per game session, one of your players can spend 2 pixels and use the "Look behind you… A three-tailed ape!" trick. After saying the phrase, the player must roll a d6.
 
-Con un resultado de 6 el otro objetivo, se gira para ver al simio de tres colas y todas las jugadoras pueden hacer una acción, como coger algo que estaba guardando el objetivo, huir, atravesar una puerta.
+On a roll of 6, the other target turns around to face the three-tailed ape, and all players can perform an action, such as picking up something the target was holding, fleeing, or going through a door.
 
-Este truco solo funciona con PNJ con los que puedas HABLAR y cuando sí hay un simio de tres colas detrás falla siempre.
+This trick only works with NPCs you can talk to, and it always fails when there is actually a three-tailed ape behind you.
 [![Ship sailing on the sea By ddraw](./images/ship-sailing-sea_1196-179.jpg "Ship sailing on the sea By ddraw")](https://www.freepik.com/free-vector/ship-sailing-sea_956625.htm "Ship sailing on the sea By ddraw")## Disquete I: Cómo ser un pirata
 
 Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
@@ -675,20 +675,20 @@ Vómito del Kraken
  ↕
 Playa ↔ Jungla ↔ Entrada cueva ↔ 1ª cámara ↔ 2ª cámara ↔ 3ª cámara ↔ Cámara del tesoro
     ↘ Fuera de El caminante ↔ Cub. inferior ↔ Cub. superior ↔ Castillo de popa ↔ Camarote
-```## Licencia y agradecimientos
+```## License and acknowledgments
 
-### Licencia CC BY 4.0
+### License CC BY 4.0
 
-«El enigma de la Península del Simio» es una aventura para el juego de rol «Point and click RPG» escrita por [@gwannon](https://gwannon.com) y está hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). Puedes hacer uso de todo este material como desees, incluso comercialmente, menos imágenes y fuentes tipográficas que pertenecen a sus creadores y son adecuadamente atribuidos. Para hacer uso de este material, solo debes atribuirlo adecuadamente.
+«The enigma of the Ape Peninsula» is an adventure for the point-and-click RPG written by [@gwannon](https://gwannon.com) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). You may use all of this material as you wish, even commercially, except for images and fonts, which belong to their respective creators and are properly attributed. To use this material, you only need to attribute it appropriately.
 
-Todo el contenido de este proyecto puede encontrarse en [pointnclick.gwannon.com](https://pointnclick.gwannon.com/MisterioDeLaPeninsulaDelSimio.html) y todo el código fuente en [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
-### Atribuciones
+All the content for this project can be found at [pointnclick.gwannon.com](https://pointnclick.gwannon.com/MisterioDeLaPeninsulaDelSimio.html), and all the source code is available on [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
+### Atributiones
 
-#### Fuentes
+#### Fonts
 
 * Fool by [Void](https://arcade.itch.io/fool)
 
-#### Imágenes
+#### Images
 
 * 18:57 (Rework) By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234)
 * Glowing Horizons By [Fatbeard91](https://www.deviantart.com/fatbeard91/art/Glowing-Horizons-1072294859)
