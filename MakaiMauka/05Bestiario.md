@@ -29,7 +29,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 Suelen **transformarse en animales marinos** como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos. Se dice que no pueden abandonar el agua y por lo menos una de sus extremidades tiene que estar en contacto con el agua.
 
 * **Nivel/Tipo:** X / Acuático
-* **Botín:** Aparejos de pesca, redes o tridentes, todos ellos de calidad, que roba a los pescadores (500mo)
+* **Botín:** Aparejos de pesca, redes o tridentes, todos ellos de calidad, que roba a los pescadores (500 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** X
 
@@ -273,7 +273,7 @@ Son grandes, cavadores pudiendo crear canales acuáticos, abriendo cuevas inclus
 
 Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte del paisaje pudiendo formar incluso islote o grandes monolitos de piedra.
 
-En combate, normalmente, se rinden antes de caer y ofrecen un gran favor a cambio de sus vidas. El favor puede ser desde responder a un pregunta complicada a realizar cualquier hechizo (y los sabe todos) a llevar en su lomo a algún lugar mágico de acceso imposible para los humanos.
+En combate, normalmente, se rinden antes de caer y ofrecen un gran favor a cambio de sus vidas. El favor puede ser desde responder a una pregunta complicada a realizar cualquier hechizo (y los sabe todos) a llevar en su lomo a algún lugar mágico de acceso imposible para los humanos.
 
 * **Nivel/Tipo:** 7 / Anfibio
 * **Botín:** Un gran favor
@@ -339,7 +339,7 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
 
 * **Nivel/Tipo:** Acuático
-* **Botín:** Veneno de mantarraya (400mo) y cuero impermeable (1000 mo)
+* **Botín:** Veneno de mantarraya (400 mo) y cuero impermeable (1000 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** X
 * **Salud:** X
@@ -373,7 +373,7 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
 * El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
-* La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como Hina-ika, madre de Maui, o simplemente **sirenas**.
+* La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como _Hina-ika_, madre de _Maui_, o simplemente **sirenas**.
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 

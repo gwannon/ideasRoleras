@@ -40,7 +40,7 @@ A diferencia de otros mundos, los objetos mágicos de esta ambientación no son 
 
 Este anzuelo tallado de un hueso, atrapa cualquier cosa que esté en el fondo del mar a distancia de tu sedal. Es lanzarlo y atrapa lo que busques. Otra cuestión es si tienes la fuerza suficiente para tirar de él, porque si no puedes sacar el objeto deseado, este no se desenganchará y tendrás que cortar el sedal.
 
-### Figura de la canoa de Hilo
+### Figurilla de la canoa de Hilo
 
 _Hilo_ es una semidivinidad que construyó la primera canoa. Esta figurilla, que te cabe en la mano (tamaño 1), se convierte es una canoa con remos cuando se echa al agua y vuelve a su tamaño original cuando se saca del agua.
 
@@ -50,7 +50,7 @@ Esta calabaza fue usada por _Maui_ para encerrar a los vientos. Permite encerrar
 
 ### Azuela de Ratʻa
 
-Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 25m por mañana o tarde de trabajo y siempre que haya madera cerca.
+Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 25 m por mañana o tarde de trabajo y siempre que haya madera cerca.
 
 Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, estarás cansado (4).
 

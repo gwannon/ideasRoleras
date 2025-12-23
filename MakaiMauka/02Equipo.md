@@ -252,7 +252,7 @@ Los aparejos constan de varios elementos, anzuelos de hueso, boyas de madera y c
 
 Como con la red, se puede usar desde la orilla o desde una embarcación y en cada sitio se obtienen piezas diferentes.
 
-Mucha gente se toma esta forma de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.
+Mucha gente se toma este método de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.
 
 
 ### Tridente y lanza
@@ -283,7 +283,7 @@ Puede haber eventos que echen a perder los materiales que van a intercambiar, co
 
 A nivel de juego el dinero va a funcionar igual que en el manual básico salvo por dos excepciones. Primero, **el dinero va a suponer peso extra** que tus _hauka_ van a tener que tener en cuenta al calcular su carga.
 
-**Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De forma que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
+**Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De manera que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
 
 Los objetos para trocar solo cuentan como objetos cargados, nunca, salvo excepciones como joyas y abalorios caros, podrían tomarse como objetos equipados. Por ejemplo, las perlas sí son cómodas de transportar y aceptadas en todas partes. Podrían llevarse un par de miles de monedas de oro en un colgante y tomarse como un objeto equipado.
 

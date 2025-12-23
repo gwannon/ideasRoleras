@@ -189,3 +189,51 @@
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QGesto estatua Orejas Boca Ojos\nGesto simio inicial Ojos Boca Orejas\n1ª estatua orejas Orejas Ojos Boca\n3ª estatua ojos Boca Orejas Ojos\n2ª estatua boca Orejas Boca Ojos\\E$"}
 {"rule":"PREP_VERB","sentence":"^\\QDespués de cada ronda de lanzamiento de cacas, mientras consiguen nueva munición (tómatelo como quieras), tus jugadoras pueden atravesar la zona de salpique y quedarse en una zona protegida.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QSi cambian la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiado ocupa el lugar libre.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QTambién hay nuevas profesiones y acciones que puedes añadir a las clases actuales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTrovador Bailarín Hula, Siva Afi (Bailarín de fuego), Cuentacuentos Bailar hula, hacer acrobacias con bastón de fuego, contar cuentos\nMercader Estibador, Conservero Estibar, descargar, ahumar o salar pescado\nCazador Rastreador, Explorador Seguir huellas, buscar sendas, explorar\nSanador Kahuna (chamán, curandero) Triturar e infusionar, interpretar sueños\nGranjero Recolector de algas, Recolector de cocos, Criador de cerdos Secar y moler algas, escalar palmeras, recoger cocos, amaestrar cerdos\nArtesano Carpintero, Carpintero naval, Tejedor de hoja de palma Talar, vaciar troncos, trenzar hojas\nNoble Matais (dirigentes) Organizar, defender, dictar\\E$"}
+{"rule":"FIGURE","sentence":"^\\QPor último, a la noche se suelen ofrecen bailes con bastones de fuego que generan bonitas figuras en el aire de la noche.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QLos bailes hula perfectamente realizados son ofrendas muy cotizadas y de ahí que los buenos bailarines y bailarinas de hula sean personas muy apreciadas y queridas en las diferentes comunidades.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLas ofrendas van desde collares de flores lei a las mejores partes del cerdo asado.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QO pueden darse más lunas con «dentro de N lunas» que es hasta que vuelva N veces la luna actual.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QNormalmente, cuando hay que poner tiempos cortos se usa el «hasta que cambie la luna», mientras que se quieren ciclos más largos se buscan fases concretas de la luna en relación con la actual.\\E$"}
+{"rule":"REAL","sentence":"^\\QNo existe un mapa real del archipiélago para que lo crees tú a tu gusto.\\E$"}
+{"rule":"FORM","sentence":"^\\QAsí que las peregrinaciones son otra forma de viaje muy extendida entre las gentes del archipiélago.\\E$"}
+{"rule":"FORM","sentence":"^\\QEs por ello que en situaciones sociales o de combate la gente con tatuajes trata de enseñarlos lo máximo posible, bien como forma de mostrar su importancia y valor o como forma de intimidación.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa metalurgia o el trabajo del cristal, no son importante para su forma de vida.\\E$"}
+{"rule":"FORM","sentence":"^\\QTambién son comunes armas de madera en forma de nudilleras con diferentes accesorios como grandes puntas afiladas o dientes de escualo dispuestos como una sierra.\\E$"}
+{"rule":"A_NIVEL_DE","sentence":"^\\QA nivel de juego el dinero va a funcionar igual que en el manual básico salvo por dos excepciones.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QShark's tooth knife by Australian Museum\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QShark's tooth knife by Australian Museum\\E$"}
+{"rule":"COMILLAS_TIPOGRAFICAS","sentence":"^\\QShark's tooth knife by Australian Museum\\E$"}
+{"rule":"FORM","sentence":"^\\QDebido a la intensa actividad volcánica de las islas, los materiales como la obsidiana o el basalto son muy abundantes y los artesanos isleños también son diestros en su manufactura en forma de utensilios y armas.\\E$"}
+{"rule":"FORM","sentence":"^\\QMuchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseños geométricos o figuras tribales de animales, personas, dioses y monstruos.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QMuchas de estas piezas se caracterizan por tener diseños orgánicos aprovechando la forma de los materiales con que se han construido (madera, piedra, fibras vegetales) y se suelen decorar con diseños geométricos o figuras tribales de animales, personas, dioses y monstruos.\\E$"}
+{"rule":"FIGURE","sentence":"^\\QEn Hua Tarakona no existen ni las monedas, ni los billetes de curso legal, ni tampoco letras de cambio, pagarés y otras figuras similares.\\E$"}
+{"rule":"FORM","sentence":"^\\QEsta sencilla herramienta permite cazar peces y pequeños crustáceos en las orillas del mar de una forma bastante eficaz, pero no sirve de nada dentro del agua o sumergido.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn las islas de archipiélago la pesca es una de las formas más comunes de conseguir alimento, pero es algo más, para mucha gente es una parte importante de su vida.\\E$"}
+{"rule":"FORM","sentence":"^\\QNo son grandes espíritus, sino menores con aspecto y ciertas capacidades mágicas relacionadas con su forma alternativa.\\E$"}
+{"rule":"FORM","sentence":"^\\QPueden volar a gran velocidad en su forma de ave.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos kupuas no tienen una forma alternativa, directamente sus cuerpos son de roca al rojo vivo y/o lava.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QKukailimoku, Memoirs Bishop Museum, Vol. I, Fig. 25 by Bernice Pauahi Bishop Museum\\E$"}
+{"rule":"FORM","sentence":"^\\QPueden convertirse en una especie de forma gaseosa o de nube que les hace intangibles y levitar y ser movidos por los vientos.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn su forma gaseosa son totalmente invulnerables, pero se mueven muy lento y están a merced de los vientos.\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos kupuas llevan años o siglos en su forma alternativa vegetal y han olvidado como eran antes y como destransformarse.\\E$"}
+{"rule":"GUION_LARGO","sentence":"^\\QX / No tienen tipo fijo\nBotín: --\nPM/PG:\\E$"}
+{"rule":"FORM","sentence":"^\\QTiene una vaga forma humanoide.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn su forma humana suelen ser muy caóticos, ya que no suelen estar en esta forma mucho tiempo y no están acostumbrados a ser una sola mente.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QX\nHabilidad especial: **Banco de peces.**No es un cuerpo físico único, sino multitud de peces.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSchool of fishes background with deep sea in flat style by freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QChimera Forms Close-Up By Dream-Piper\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QProjChim:\\E$"}
+{"rule":"FORM","sentence":"^\\QLas moʻos son entidades multimorfas y suelen adoptar la forma de reptiles gran tamaño, de humanos y hasta de pequeños gecos.\\E$"}
+{"rule":"FORM","sentence":"^\\QCuando una moʻo muere, su cuerpo se petrifica y se convierte en parte del paisaje, lo cual explica las extrañas formas que pueden tomar las piedras.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNanau by Knightkamia\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QViven en pozas profundas de ríos, cuevas oscuras o en el mar, especialmente en lugares con corrientes peligrosas u olas gigantes.\\E$"}
+{"rule":"FORM","sentence":"^\\QCuando están en tierra tienen forma de reptil gigantesco con rasgos dragonescos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTaniwha By Dream-Piper\\E$"}
+{"rule":"REALIZE","sentence":"^\\QEl favor puede ser desde responder a una pregunta complicada a realizar cualquier hechizo (y los sabe todos) a llevar en su lomo a algún lugar mágico de acceso imposible para los humanos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAggressive great white shark cartoon by brgfx\\E$"}
+{"rule":"FORM","sentence":"^\\QLas aguas del archipiélago están llenas de tiburones de todo tipo de formas y tamaños desde el tiburón ballena que se alimenta pequeños crustáceos a los agresivos tiburones toro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStingray with its silhouette on transparent by brgfx\\E$"}
+{"rule":"FORM","sentence":"^\\QEstos increíbles peces emparentados con los tiburones se caracterizan por su extraña forma aplanada y su cola con un aguijón venenoso.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa Dama Lechera es una vaca submarina, pero como los rumiantes no son conocidos en las islas de Hua Tarakona, puedes sustituirlo algún tipo de deidad marina femenina como Hina-ika, madre de Maui, o simplemente sirenas.\\E$"}

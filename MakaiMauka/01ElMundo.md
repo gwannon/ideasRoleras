@@ -24,7 +24,7 @@ XXX
 
 \sc
 
-> No existe un mapa real del archipiélago para que lo crees tú a tu gusto. Si no quieres complicarte, sé muy ambiguo cuando describas donde está una isla de forma que puedas modificarlo a tu gusto sin que rompa la competencia.
+> No existe un mapa real del archipiélago para que lo crees tú a tu gusto. Si no quieres complicarte, sé muy ambiguo cuando describas donde está una isla de manera que puedas modificarlo a tu gusto sin que rompa la competencia.
 
 \sp
 
@@ -48,7 +48,7 @@ Al ser descendientes de Batú y Mautu, las ballenas son sagradas para los habita
 
 > **Conceptos de teología:** Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
 
-Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). Se dice que las siguen sirviendo hoy en día, quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _haukas_ (viajeros).
+Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). Se dice que las siguen sirviendo hoy en día, quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _hauka_ (viajeros).
 
 XXX
 
@@ -170,7 +170,7 @@ Lo normal es que cada comunidad tenga tres o cuatro tabús propios y locales, qu
 
 \conc
 
-Los _aumakuas_ son espíritus familiares de los ancestros. Son venerados por sus descendientes que les dejan ofredan y pide cosnejo y ayuda en sus problemas cotidianos. Estos si tus acciones son _pono_ (correctas y en armonía con el entorno) te ayudarán y aconsejarán en sueños o te atormentarán en la noche y se te aparecerán en con tus pesadillas.
+Los _aumakuas_ son espíritus familiares de los ancestros. Son venerados por sus descendientes que les dejan ofrendas y pide consejo y ayuda en sus problemas cotidianos. Estos si tus acciones son _pono_ (correctas y en armonía con el entorno) te ayudarán y aconsejarán en sueños o te atormentarán en la noche y se te aparecerán en con tus pesadillas.
 
 XXX
 

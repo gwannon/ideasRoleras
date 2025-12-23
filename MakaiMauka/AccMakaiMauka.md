@@ -16,7 +16,7 @@ XXX
 > Es importante que tengas en cuenta como DJ que el archipiélago es inmenso y ay miles de islas grandes y pequeñas, así que todo es posible en ellas. Necesitas una isla con dos volcanes, pues seguramente existe esa isla, necesitas un atolón con un islote en la laguna interior, pues también hay. Además, puedes crearlas donde quieras o incluso hacerlas aparecer delante de tus jugadores tras una gran erupción volcánica submarina. Considera que el mapa de _Hua Tarakona_ está vivo y a tu total disposición.
 
 XXX
-> No existe un mapa real del archipiélago para que lo crees tú a tu gusto. Si no quieres complicarte, sé muy ambiguo cuando describas donde está una isla de forma que puedas modificarlo a tu gusto sin que rompa la competencia.[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
+> No existe un mapa real del archipiélago para que lo crees tú a tu gusto. Si no quieres complicarte, sé muy ambiguo cuando describas donde está una isla de manera que puedas modificarlo a tu gusto sin que rompa la competencia.[![Humpback whale watercolor painting in watercolor banner vector by rawpixel.com](./images/rm146-ju-08.jpg "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")](https://www.freepik.com/free-vector/humpback-whale-watercolor-painting-watercolor-banner-vector_17433815.htm "Humpback whale watercolor painting in watercolor banner vector by rawpixel.com")
 
 ## Las ballenas
 Según las leyendas, dos grandes ballenas, Batú y Mautu, trajeron en su lomo a los humanos hasta _Hua Tarakona_ y crearon todas las islas del gran archipiélago de las burbujas de aire de su respiración. Rápidamente, los humanos bajaron de la espalda de las ballenas y poblaron esas islas.
@@ -28,7 +28,7 @@ Al ser descendientes de Batú y Mautu, las ballenas son sagradas para los habita
 
 > **Conceptos de teología:** Una de las preguntas que se hacen los _kahunas_ es si las ballenas nos transportaban o simplemente éramos un parásito más como pueden ser los moluscos que se pegan a su dura piel. La verdad que cada punto de vista ofrece una visión del mito de la creación muy diferente.
 
-Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). Se dice que las siguen sirviendo hoy en día, quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _haukas_ (viajeros).
+Los primeros humanos son conocidos como _hoa koholā_ (compañeros de las ballenas) y son los más poderosos y reverenciados _aumakuas_ (espíritus de los ancestros). Se dice que las siguen sirviendo hoy en día, quitándoles crustáceos de su gruesa piel y alimentándolos con historias de los _hauka_ (viajeros).
 
 XXX## Cultura y sociedad
 XXX
@@ -72,7 +72,7 @@ Les _māhū_ son particularmente respetados como maestres, generalmente de danza
 Los festivales y eventos festivos son muy comunes para celebrar infinidad de cosas desde la llegada de una nueva estación, al regreso de las ballenas de su migración anual. Normalmente, suelen hacerse en la playa o en praderas cercanas al asentamiento donde se colocan grandes mesas con bancos y se sirven todo tipo de comidas.
 
 Es muy típico asar, enterrado con briquetas de madera, un gran cerdo. Se suele acompañar con arroz, pescado fresco y seco y multitud de frutas.
-Otro punto importante que suele haber en todos estos eventos son las ofrendas a diferentes divinidades, desde dioses y _aumakuas_ a criaturas de mediano gran poder que vivan cerca. Las ofrendas van desde collares y XXX de flores a las mejores partes del cerdo asado. 
+Otro punto importante que suele haber en todos estos eventos son las ofrendas a diferentes divinidades, desde dioses y _aumakuas_ a criaturas de mediano gran poder que vivan cerca. Las ofrendas van desde collares de flores _lei_ a las mejores partes del cerdo asado. 
 
 Los bailes hula perfectamente realizados son ofrendas muy cotizadas y de ahí que los buenos bailarines y bailarinas de hula sean personas muy apreciadas y queridas en las diferentes comunidades. Otras opciones para agradar a los dioses suelen ser competiciones de surf y los participantes suelen ser agasajados con bailes y comida y bebida en abundancia. Por último, a la noche se suelen ofrecen bailes con bastones de fuego que generan bonitas figuras en el aire de la noche.
 
@@ -101,7 +101,7 @@ Lo normal es que cada comunidad tenga tres o cuatro tabús propios y locales, qu
 > Una manera interesante de meter drama y tensión en las partidas es que tus _hauka_ al llegar a una nueva comunidad no conozcan los tabús de la zona y se metan en problemas por romper esos tabúes.
 
 ## Aumakuas
-Los _aumakuas_ son espíritus familiares de los ancestros. Son venerados por sus descendientes que les dejan ofredan y pide cosnejo y ayuda en sus problemas cotidianos. Estos si tus acciones son _pono_ (correctas y en armonía con el entorno) te ayudarán y aconsejarán en sueños o te atormentarán en la noche y se te aparecerán en con tus pesadillas.
+Los _aumakuas_ son espíritus familiares de los ancestros. Son venerados por sus descendientes que les dejan ofrendas y pide consejo y ayuda en sus problemas cotidianos. Estos si tus acciones son _pono_ (correctas y en armonía con el entorno) te ayudarán y aconsejarán en sueños o te atormentarán en la noche y se te aparecerán en con tus pesadillas.
 
 XXX
 
@@ -382,7 +382,7 @@ Los aparejos constan de varios elementos, anzuelos de hueso, boyas de madera y c
 
 Como con la red, se puede usar desde la orilla o desde una embarcación y en cada sitio se obtienen piezas diferentes.
 
-Mucha gente se toma esta forma de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.### Tridente y lanza
+Mucha gente se toma este método de pesca como una especie de meditación y descanso sin que les importe realmente las capturas y otras, en el otro extremo, lo han convertido en una competición por ver quien coge la pieza más grande y preciada.### Tridente y lanza
 
 Esta sencilla herramienta permite cazar peces y pequeños crustáceos en las orillas del mar de una forma bastante eficaz, pero no sirve de nada dentro del agua o sumergido.
 
@@ -400,7 +400,7 @@ Puede haber eventos que echen a perder los materiales que van a intercambiar, co
 
 A nivel de juego el dinero va a funcionar igual que en el manual básico salvo por dos excepciones. Primero, **el dinero va a suponer peso extra** que tus _hauka_ van a tener que tener en cuenta al calcular su carga.
 
-**Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De forma que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
+**Cada 1.000 mo va a suponer 1 de tamaño** que deberás descomponer en objetos de tamaño 1, 3 o 5. De manera que si tienen 14.000 mo, deberán cargar, por ejemplo, con dos objetos grandes, (tamaño 5), uno mediano (tamaño 3) y uno pequeño (tamaño 1).
 
 Los objetos para trocar solo cuentan como objetos cargados, nunca, salvo excepciones como joyas y abalorios caros, podrían tomarse como objetos equipados. Por ejemplo, las perlas sí son cómodas de transportar y aceptadas en todas partes. Podrían llevarse un par de miles de monedas de oro en un colgante y tomarse como un objeto equipado.
 
@@ -450,7 +450,7 @@ A diferencia de otros mundos, los objetos mágicos de esta ambientación no son 
 
 Este anzuelo tallado de un hueso, atrapa cualquier cosa que esté en el fondo del mar a distancia de tu sedal. Es lanzarlo y atrapa lo que busques. Otra cuestión es si tienes la fuerza suficiente para tirar de él, porque si no puedes sacar el objeto deseado, este no se desenganchará y tendrás que cortar el sedal.
 
-### Figura de la canoa de Hilo
+### Figurilla de la canoa de Hilo
 
 _Hilo_ es una semidivinidad que construyó la primera canoa. Esta figurilla, que te cabe en la mano (tamaño 1), se convierte es una canoa con remos cuando se echa al agua y vuelve a su tamaño original cuando se saca del agua.
 
@@ -460,7 +460,7 @@ Esta calabaza fue usada por _Maui_ para encerrar a los vientos. Permite encerrar
 
 ### Azuela de Ratʻa
 
-Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 25m por mañana o tarde de trabajo y siempre que haya madera cerca.
+Esta azuela de carpintero, que perteneció al mítico rey _Ratʻa_, permite construir estructuras de 25 m por mañana o tarde de trabajo y siempre que haya madera cerca.
 
 Puedes crear refugios, puentes, escaleras, presas, etc. son construcciones muy básicas pero bien hechas y resistentes. Tras terminar de trabajar, estarás cansado (4).
 
@@ -786,7 +786,7 @@ Suelen ser más embaucadores y tramposos que agresivos y beligerantes, pero si t
 Suelen **transformarse en animales marinos** como tiburones o mantarrayas. Suelen estropear las redes y aparejos de pesca de los pescadores y jugarles malas pasadas a los bañistas y surferos. Se dice que no pueden abandonar el agua y por lo menos una de sus extremidades tiene que estar en contacto con el agua.
 
 * **Nivel/Tipo:** X / Acuático
-* **Botín:** Aparejos de pesca, redes o tridentes, todos ellos de calidad, que roba a los pescadores (500mo)
+* **Botín:** Aparejos de pesca, redes o tridentes, todos ellos de calidad, que roba a los pescadores (500 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** X
 * **Salud:** X
@@ -985,7 +985,7 @@ Son grandes, cavadores pudiendo crear canales acuáticos, abriendo cuevas inclus
 
 Como los _moʻo_, cuando muere, su cuerpo se petrifica y se convierte en parte del paisaje pudiendo formar incluso islote o grandes monolitos de piedra.
 
-En combate, normalmente, se rinden antes de caer y ofrecen un gran favor a cambio de sus vidas. El favor puede ser desde responder a un pregunta complicada a realizar cualquier hechizo (y los sabe todos) a llevar en su lomo a algún lugar mágico de acceso imposible para los humanos.
+En combate, normalmente, se rinden antes de caer y ofrecen un gran favor a cambio de sus vidas. El favor puede ser desde responder a una pregunta complicada a realizar cualquier hechizo (y los sabe todos) a llevar en su lomo a algún lugar mágico de acceso imposible para los humanos.
 
 * **Nivel/Tipo:** 7 / Anfibio
 * **Botín:** Un gran favor
@@ -1042,7 +1042,7 @@ Estos increíbles peces emparentados con los tiburones se caracterizan por su ex
 Su capacidad de salto fuera de agua les permite atacar a seres que no estén dentro del agua, por ejemplo encima de una canoa.
 
 * **Nivel/Tipo:** Acuático
-* **Botín:** Veneno de mantarraya (400mo) y cuero impermeable (1000 mo)
+* **Botín:** Veneno de mantarraya (400 mo) y cuero impermeable (1000 mo)
 * **PM/PG:** X / X
 * **Iniciativa:** X
 * **Salud:** X
@@ -1070,7 +1070,7 @@ No hay muchos animales acuáticos en el manual básico, como el Pezespada, pero 
 
 * Las **anacondas** son buenas nadadoras y podrías encontrarlas en los ríos navegables y pantanos de las islas.
 * El **kabuto maximillion** puede ser usados como **gigantescos cangrejos** de mar y rio.
-* La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como Hina-ika, madre de Maui, o simplemente **sirenas**.
+* La **Dama Lechera** es una vaca submarina, pero como los rumiantes no son conocidos en las islas de _Hua Tarakona_, puedes sustituirlo algún tipo de **deidad marina femenina** como _Hina-ika_, madre de _Maui_, o simplemente **sirenas**.
 * La **tortuga jardín** puede convertirse en una **tortuga islote** que nade por el mar y cuyo caparazón forme un islote lleno de plantas y árboles. Perfectamente tus _hauka_ podrían desembarcar en una pequeña isla que se mueve y termina siendo una tortuga gigante.
 * Los **fósiles petrificados** pueden ser de **animales marinos extintos** hace milenios como megalodones que ataquen a embarcaciones.
 > Recuerda que «tu mesa, tus reglas». Eres libre de meter cualquier tipo de monstruo de cualquier ambientación. En _Hua Tarakona_ hay miles de islas, unas más mágicas y misteriosas que otras y donde hay cabida a que estén pobladas por todo tipo de seres y monstruos. 
