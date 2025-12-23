@@ -211,17 +211,17 @@ Otra opción tremendamente insatisfactoria, es que tengan que sacar la cruz en e
 
 \sp
 
-### 4. Secuencia final
+### 4. Final Scene
 
-Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas.
+After defeating DraChuckla and freeing the governor, you can return to Bucan Ville where you'll be welcomed as heroines by the citizens. If you've collected any treasure, you'll return rich.
 
-El gobernador les prometerá un cargo político si les ayudan en su reelección y podrán comprobar que el gobernador es tal y como se veía en su estatua ecuestre.
+The governor will promise you a political position if you help him get re-elected, and you'll see that the governor is exactly as he appeared in his equestrian statue.
 
-Habrá música, fiestas, bailes y grog en abundancia y para terminar fuegos artificiales que nadie sabe donde han pasado. Deja que cada jugadora diga una frase solemne mientras explotan los fuegos artificiales y … 
+There will be music, parties, dancing, and grog galore, culminating in fireworks that no one knows where they came from. Let each player say a solemn phrase as the fireworks explode, and…
 
-De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus cenizas empezarán a brillar mientras suena tétrica música de órgano, para transicionar seguidamente a los títulos de crédito de la aventura y un gran «Fin» final.
+Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will begin to glow while eerie organ music plays, before transitioning to the adventure's credits and a «The End».
 
-> Si tus jugadoras te preguntan al acabar la aventura cuál es el enigma de la Península del Simio, puedes decirles que el enigma es que en realidad es una isla, cosa que ya se dijo en la introducción de la aventura.
+> If your players ask you at the end of the adventure what the enigma of the Monkey Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
 
 \sc
 
