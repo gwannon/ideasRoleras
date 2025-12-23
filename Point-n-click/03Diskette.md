@@ -1,6 +1,6 @@
 \sinc
 
-## Disquete III: En la Península del Simio
+## Floppy disk 3/3: At the Ape Peninsula
 
 &nbsp;
 

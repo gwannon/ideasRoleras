@@ -1,6 +1,6 @@
 \sinc
 
-## Disquete II: Poderosa magia vudú
+## Floppy disk 2/3: Mighty voodoo magic
 
 &nbsp;
 

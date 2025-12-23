@@ -21,54 +21,54 @@ Once per game session, one of your players can spend 2 pixels and use the "Look 
 On a roll of 6, the other target turns around to face the three-tailed ape, and all players can perform an action, such as picking up something the target was holding, fleeing, or going through a door.
 
 This trick only works with NPCs you can talk to, and it always fails when there is actually a three-tailed ape behind you.
-[![Ship sailing on the sea By ddraw](./images/ship-sailing-sea_1196-179.jpg "Ship sailing on the sea By ddraw")](https://www.freepik.com/free-vector/ship-sailing-sea_956625.htm "Ship sailing on the sea By ddraw")## Disquete I: Cómo ser un pirata
+[![Ship sailing on the sea By ddraw](./images/ship-sailing-sea_1196-179.jpg "Ship sailing on the sea By ddraw")](https://www.freepik.com/free-vector/ship-sailing-sea_956625.htm "Ship sailing on the sea By ddraw")## Floppy disk 1/3: How to be a pirate
 
-Tus PJ acaban de llegar a Bucan Ville, un nido de piratas, con la intención de hacerse piratas y ganar grandes cantidades de dinero con la piratería.
+Your PCs have just arrived in Bucan Ville, a pirate haven, with the intention of becoming pirates themselves and making a fortune through piracy.
 
-Esta parte se divide en 4 escenas, la primera será una breve presentación. Luego habrá dos escenas paralelas que consisten en que las _**Jefas Piratas**_ les den el _**título de piratas**_ tras pasar una prueba y otra en conseguir un barco y su bandera. La cuarta escena será el robo de la caja fuerte del gobernador.
+This part is divided into four scenes. The first will be a brief introduction. Then there will be two parallel scenes: one in which the _**Pirate Lady Bosses**_ grant them the _**pirate degree**_ after they pass a test, and another in which they acquire a ship and its flag. The fourth scene will be the heist of the governor's safe.
 
-### 1. Inicio
+### 1. The beginning
 
-Las PJ aparecen al anochecer en el puerto de Bucan Ville y gritarán «Me llamo [nombre de PJ] y quiero ser una pirata».
+The PJs appear at nightfall in the harbour of Bucan Ville and will shout «My name is [PJ name] and I want to be a pirate».
 
-#### Puerto
+#### Harbour
 
-En este cochambroso y sucio puerto solo hay un sitio al que ir, la _**Taberna del Cangrejo Cocido**_, un antro de piratas donde el grog está aguado y los ganchitos y cacahuetes fueron grumetes de Barbanegra.
+In this filthy, seedy harbour, there's only one place to go: the _**Boiled Crab Tavern**_, a pirate's den where the grog is watered down and the snacks and peanuts were once Blackbeard's cabin boys.
 
-A lo lejos se ve un _**navío de velas negras**_ rasgadas. Un brillo espectral inunda su cubierta y bandadas de murciélagos lo sobrevuelan.
+In the distance, a _**ship with tattered black sails**_ can be seen. An eerie glow floods its deck, and flocks of bats circle overhead.
 
-Desde el puerto puedes acceder al _**Centro de Bucan Ville**_.
+From the port, you can access _**Bucan Ville Town Center**_.
 [![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")
-#### La Taberna del Cangrejo Cocido
+#### Boiled Crab Tavern
 
-El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borrachos**_. Los pocos que no están durmiendo la mona, apenas pueden decir alguna frase:
+The place is a dingy old dive, packed with _**drunken pirates. The few who aren't sleeping off their hangovers can barely manage a sentence:
 
-* Así que quieres ser un pirata, ¿no? Habla con las 3 _**Jefas Piratas**_.
-* El grog de mis tiempos sí que era grog, no como el de ahora que le ponen sombrillitas, clavo y hojitas de menta. Nosotros le poníamos clavos de verdad.
-* ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
-* Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
+* So you want to be a pirate, huh? Talk to the three _**Pirate Ladybosses**_.
+* The grog in my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
+* Have you heard of [Ahoy! Cthulhu](https://arrrcthulhu.com/)? It's an excellent setting for pirate adventures in a Caribbean of the Cthulhu Mythos.
+* They stole my idea for the monkey-traffic light. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
 
-En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
+At a large table in the back sit the _**3 Pirate Ladybosses**_. The most powerful pirates of Bucan Ville, chosen by the democratic method of slaughtering all their competition.
 
-Estas tres rudas piratas están en la mesa trasegando grog y cantando canciones salidas de tono. Cuando tus jugadoras les expliquen que quieren ser piratas, se reirán un montón y les dirán que dejen de hacerlas perder el tiempo y seguirán a lo suyo.
+These three rude pirates are at the table, drinking grog and singing bawdy songs. When your players explain that they want to be pirates, they'll laugh a lot and tell them to stop wasting their time and go back to what they were doing.
 
-Tus jugadoras deberán demostrar que de verdad quieren ser piratas respondiendo a preguntas como estas.
+Your players will have to prove they really want to be pirates by answering questions like these:
 
-* ¿Cuál era la bandera de Barbanegra? - Un esqueleto con cuernos que sostiene un reloj de arena en la mano derecha y una lanza en la izquierda, utilizando la lanza para pinchar un corazón rojo que gotea tres gotas rojas de sangre.
-* ¿Cuál se llamaba el primer barco de Barbanegra? - La venganza de la Reina Ana.
-* ¿Cuál era el apodo de Stede Bonnet? - Caballero Pirata
+* What was Stede Bonnet's nickname? - Gentleman pirate
+* What was Blackbeard's flag? - A horned skeleton holding an hourglass in its right hand and a spear in its left, using the spear to pierce a red heart that drips three drops of red blood.
+* What was the name of Blackbeard's first ship? - Queen Anne's Revenge.
 
-Les harán también cantar «Ron, ron, ron, la botella de ron» (cosa que deberán cantar tus jugadoras). Tras un rato tratando de demostrar de que son merecedores de una prueba, accederán a hacerle es examen estandarizado del gremio de piratas que consiste en dos pruebas:
+They'll also make them sing "Yo Ho Ho and a bottle of rum" (which your players will have to sing). After a while trying to prove they deserve a test, they agree to take the standardized pirate guild exam, which consists of two tests:
 
-* Debes demostrar que estás al otro lado de la ley.
-* Tener tu propia nave acuática autopropulsada y crear su bandera pirata única y personalizada.
+* You must prove you're on the other side of the law.
+* You must own your own self-propelled ship and create your own unique, personalized pirate flag.
 
-Tras explicar las pruebas estandarizadas, les harán firmar una serie de papeleo y les entregarán un _**bono de descuento**_ de la _**Tienda de souvenir**_. Si piden alguna pista, solo les dirán que pregunten por _**Sam**_ en el astillero para ver que pueden ofrecerles en tema de barcos.
+After explaining the standardized tests, they will be asked to sign some paperwork and given a _**discount voucher**_ for the _**Souvenir Shop**_. If they ask for any hints, they will simply be told to ask for _**Sam**_ at the shipyard to see what they can offer in terms of ships.
 
-En la mesa de las _**3 Jefas Piratas**_ hay un _**frutero**_ con naranjas, plátanos, manzanas, caramelos suizos con vitamina C y limones que según ellas son de su campaña contra el escorbuto.
-Si se lo piden podrán coger una _**pieza de fruta**_. Elige al azar entre una de ellas y dásela. Si se comen podrán, pedir otra. Mientras no se la coman, las _**Jefas Pirata**_ les dirán que se terminen primero la otra fruta que cogieron.
+On the table of the  _**three Pirate Ladybosses**_, there is a _**fruit bowl**_ with oranges, bananas, apples, Swiss vitamin C candies, and lemons, which they claim are from their scurvy eradication campaign.
 
-### 2.a Pasarse al otro lado de la ley
+If they ask, they can take _**a piece of fruit**_. Choose one at random and give it to them. If they eat it, they can ask for another. Until they finish the other piece of fruit they took, the _**Pirate Ladybosses**_ will tell them to finish it first.
+### 2.a Cross over to the other side of the law
 
 Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos.
 
@@ -80,7 +80,7 @@ Hay varias opciones para cometer delitos:
 
 Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
 
-#### Centro de Bucan Ville
+#### Bucan Ville Town Center
 
 Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
 
@@ -99,9 +99,9 @@ Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de
 
 Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
 
-#### Callejón oscuro
+#### Dark alley
 
-Es solo una ubicación de trampa. Cuando entren, las voces se callarán y unas figuras desaparecerán en las sombras. En cuanto salgan a la plaza, volverán las voces.
+It's just a trap. When they enter, the voices will fall silent and figures will vanish into the shadows. As soon as they step back out into the plaza, the voices will return.
 
 ### 2.b Conseguir un barco y una bandera pirata
 
@@ -191,14 +191,14 @@ En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuer
 
 Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
 
-### 5. Aparece DraChuckla
+### 5. Enter DraChuckla
 
-Cuando hayan conseguido entrar en la caja fuerte del gobernador y estén nadando en oro y joyas, oirán un fuerte cañonazo y de repente una bala cañón derrumbará una de las paredes.
+Once they've managed to break into the governor's vault and are swimming in gold and jewels, they'll hear a loud cannon blast, and suddenly a cannonball will shatter one of the walls.
 
-Mientras se recuperan de la explosión verán como el temible capitán vampirata DraChuckla entrará por el agujero con sus secuaces ghouls para llevarse su botín mientras se ríe de ellos.
-Se acercará a las PJ, les quitará un pelo a cada una y los pegará a unos muñecos vudú, diciendo «Por si acaso se convierten en un problema» y entonces caerán inconscientes.
+As they recover from the explosion, they'll see the fearsome vampire captain DraChuckla enter through the hole with his ghoul henchmen to seize their loot while laughing at them.
+He'll approach the player characters, pluck a hair from each of them, and stick them to voodoo dolls, saying, "Just in case you become a problem," and then they'll fall unconscious.
 
-Cuando consiguen levantarse verán por el agujero de la pared que el navío de velas negras que había a lo lejos del puerto se aleja con DraChuckla a bordo y el gobernador Marlon atado y amordazado.## Resumen del disquete I
+When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon bound and gagged.## Resumen del disquete I
 
 ### Astilleros
 
@@ -264,7 +264,7 @@ Cuando consiguen levantarse verán por el agujero de la pared que el navío de v
 
 ![Mapa de Bucan Ville](./images/mapa.png)
 
-## Disquete II: Poderosa magia vudú
+## Floppy disk 2/3: Mighty voodoo magic
 
 En esta segunda parte tus jugadoras tendrán que superar otras 3 escenas. La primera será una escena rápida en que las _**Jefas Piratas**_ les encarguen rescatar al Gobernador Marlon, ya que les debe mucha pasta por trabajos que han estado haciendo para su próxima campaña electoral. Por suerte les dejarán un barco cochambroso que usan para espectáculos para turistas.
 
@@ -408,7 +408,7 @@ Los nuevos elementos están en cursiva.
 * **PNJ:** Alfonsé
 * **Elementos clicables:** Huesos del oráculo
 * **Conexiones:** Laberinto pantanoso### Mapa de la isla![Mapa de Bucan Ville actualizado](./images/mapa2.png)
-_Nuevas ubicaciones en naranja_## Disquete III: En la Península del Simio
+_Nuevas ubicaciones en naranja_## Floppy disk 3/3: At the Ape Peninsula
 
 Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminante», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar.
 

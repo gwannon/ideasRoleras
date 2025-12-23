@@ -34,7 +34,7 @@ El local es un cuchitril viejo y sucio y está abarrotado de _**piratas borracho
 
 * Así que quieres ser un pirata, ¿no? Habla con las 3 _**Jefas Piratas**_.
 * El grog de mis tiempos sí que era grog, no como el de ahora que le ponen sombrillitas, clavo y hojitas de menta. Nosotros le poníamos clavos de verdad.
-* ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/), una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
+* ¿Has oído hablar de [¡Arrr! Cthulhu](https://arrrcthulhu.com/)? Es una excelente ambientación para vivir aventuras de piratas en un Caribe de los mitos de Cthulhu?
 * Me robaron la idea del simio-semáforo. Yo podría haber sido millonario y haberme retirado a una Isla del Caribe y pasarme el día bebiendo grog. Upsss, si eso ya lo hago.
 
 En una gran mesa al fondo están las _**3 Jefas Piratas**_. Las más poderosas piratas de Bucan Ville elegidas por el democrático método de pasar a cuchillo a todos su competencia.
