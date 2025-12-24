@@ -237,3 +237,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStingray with its silhouette on transparent by brgfx\\E$"}
 {"rule":"FORM","sentence":"^\\QEstos increíbles peces emparentados con los tiburones se caracterizan por su extraña forma aplanada y su cola con un aguijón venenoso.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa Dama Lechera es una vaca submarina, pero como los rumiantes no son conocidos en las islas de Hua Tarakona, puedes sustituirlo algún tipo de deidad marina femenina como Hina-ika, madre de Maui, o simplemente sirenas.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa ficha del dadomon es el propio dado, ya que con su forma y su color marca su tipo y su nivel de poder.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QPuedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.\\E$"}

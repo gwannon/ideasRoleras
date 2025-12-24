@@ -1,6 +1,6 @@
 # ¡Dadómones!
 
-¡Dadómones! es una juego de rol donde llevas a un entrenador de dadómones, unos simpaticos animales que entrenas para hacer combates contra los dadómones de otros entrenadores y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
+¡Dadómones! es una juego de rol en una sola hoja donde llevas a un entrenador de dadómones, unos simpáticos animales que entrenas para hacer combates contra los dadómones de otros entrenadores y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
 
 XXX
 
@@ -40,6 +40,10 @@ La ficha del dadomon es el propio dado, ya que con su forma y su color marca su 
 
 XXX
 
+### Tipos de dadómones
+
+XXX
+
 ### Dadómones legendarios
 
 Los d20 debido al salto de valor que hay con el resto de dadómones no son dadómones normales, son **dadómones legendarios** y habría que meter en la bolsa 1 por cada 100 dados.
@@ -56,7 +60,7 @@ XXX
 
 XXX
 
-> **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la proxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden pues mejor.
+> **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden pues mejor.
 
 ## Liga Dadomon
 
