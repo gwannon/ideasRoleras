@@ -1,22 +1,12 @@
-\sinc
+
 
 # ¡Dadómones!
-
-\conc
-
 ¡Dadómones! es una juego de rol en una sola hoja donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
 
 Para jugar necesitarás papel, lápiz, montones de dados de diferentes caras y una bolsa o similar donde meterlos y que no se pueda ver dentro.
 
 En realidad es un juego para dar salida a los kilos y kilos de dados feos y deslustrados que tenemos en nuestra casa y que nunca vamos a usar, pero nos da pena tirarlos.
-
-\sinc
-
 ## Creación de tu entrenadora
-
-&nbsp;
-
-\conc
 
 Para crear una entrenadora debes darle un nombre, unos pronombres y repartir +2, 0 y -1 entre 3 características: 
 
@@ -33,33 +23,12 @@ En los tiempos de antaño viejas científicas chochas de dudosa reputación en l
 Lo curioso es que si todas las entrenadoras empezaban con los 3 mismos dadómones, luego no les veías ir en combate con esos dadómones. La tasa de abandono de dadómones iniciales era muy alta y de ahí que la Liga Dadomon cambiará el sistema.
 
 Hoy en día, tras rellenar el formulario online para ser entrenadora una IA selecciona tú dadomon ideal y puedes recogerlo en tu Centro Dadomon más cercano con todas las vacunas puestas y un saco de comida dadomon.
-
-\sp
-
-Para simular esa IA que tiene en cuenta miles de factores y hace millones de cálculos por segundo, simplemente mete todos los d4 que tengas en una bolsa y saca uno al azar. Puedes volver a meterlo y sacar otro hasta dos veces más.
-
-\sp
-
-\sinc
-
-## Creación del pozo
-
-\conc
-
+Para simular esa IA que tiene en cuenta miles de factores y hace millones de cálculos por segundo, simplemente mete todos los d4 que tengas en una bolsa y saca uno al azar. Puedes volver a meterlo y sacar otro hasta dos veces más.## Creación del pozo
 El pozo es el cuenco, bolsa, caja o lo que sea donde vas a meter un montón de dados para sacarlos al azar a la hora de generar encuentros aleatorios con dadómones.
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## Sistema
-
-\conc
-
 XXX
 
 ### Combates de dadómones
@@ -70,16 +39,7 @@ Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando a
 
 XXX
 
-\sc
-
-\sp
-
-\sinc
-
 ## Dadómones
-
-\conc
-
 XXX
 
 La ficha del dadomon es el propio dado, ya que con su forma y su color marca su tipo y su nivel de poder.
@@ -126,9 +86,6 @@ XXX
 XXX
 
 > **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden pues mejor.
-
-\sp
-
 ### Nombres de los dadómones
 
 Pueden ponerles el nombre que quieras, pero si no quieres complicarte puedes seguir está regla.
@@ -137,29 +94,11 @@ Pueden ponerles el nombre que quieras, pero si no quieres complicarte puedes seg
 
 Así, un típico dado de vampiro rojo marmoleado con números negros, sería un «Rojnegado». Un dado naranja con números blancos transparente sería un «Narblante».
 
-\sc
-
-\sp
-
-\sinc
-
 ## Liga Dadomon
-
-\conc
-
-XXX
-
-\sp
-
-\sinc
-
-## Licencia
-
-\conc
-
+XXX## Licencia
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Imágenes y fuentes libres de derecho de diferentes fuentes.
 
 * [Fuente Korataki](https://online-fonts.com/fonts/korataki)
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
 
- \sc
+ 

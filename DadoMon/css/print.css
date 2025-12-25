@@ -1,0 +1,480 @@
+:root {
+  --padding: 65px; /*Ancho de los bordes de la página*/
+  --color-red: #FFDE00;
+  --color-white: #fff;
+  --color-black: #3B4CCA;
+}
+
+@font-face {
+  font-family: 'Korataki';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./korataki.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Korataki';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+  src: url("./korataki_italic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Korataki';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./korataki_light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Korataki';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+  src: url("./korataki_lightitalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./OpenSans-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./OpenSans-Bold.ttf") format('truetype');
+}
+
+body {
+  background-color: var(--color-white);
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans';
+  color: var(--color-black);
+  font-size: 16px;
+}
+
+body:before {
+  content: "";
+  display: block;
+  width: 100%;
+  height: var(--padding);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(../images/border1.jpg) top right repeat-x;
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: var(--padding);
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(../images/border2.jpg) bottom right repeat-x;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:is(h2,h3):first-child,
+.saltocolumna + *:is(h2,h3) {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  border: 3px solid #656565;
+  border-radius: 8px;
+  padding: 0px;
+  margin: 10px 0px;
+  color: var(--color-black);
+  font-family: "Korataki";
+}
+
+blockquote p {
+  border: 3px solid #dedede;
+  padding: 15px;
+  margin: 0px;
+  border-radius: 6px;
+  background: linear-gradient(165deg,#949494 20%, #DEDEDE 100%);
+}
+
+/*blockquote p:before {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin: 0px 15px 0px 0px;
+  background: linear-gradient(120deg, #363642 0%, #363642 calc(50% - 1px), transparent calc(50% - 1px), transparent calc(50% + 1px), #363642 calc(50% + 1px));
+}
+
+blockquote p:after {
+  content: "";
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  margin: 10px -5px 0px 15px;
+  background: linear-gradient(120deg,#363642 0%, #363642 calc(50% - 1px), transparent calc(50% - 1px), transparent calc(50% + 1px), #363642 calc(50% + 1px));
+}*/
+
+pre {
+  white-space: pre-wrap;
+  padding: 0px;
+  text-align: center
+}
+
+pre * {
+  font-family: "Korataki";
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Titulares */
+
+h1 {
+  background: #201c37 url(../images/titular.jpg) top center no-repeat;
+  background-size: 100% auto;
+  font-family: "Korataki";
+  color: var(--color-red);
+  text-align: center;
+  font-style: italic;
+  font-size: 3.5em;
+  margin-bottom: 0px;
+  margin-top: 0px !important;
+  padding: 160px 0px 60px !important;
+  text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
+  line-height: 120%;
+  border: 2px solid var(--color-red);
+  border-radius: 3px;
+  width: calc(100% - 4px);
+  letter-spacing: -4px;
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+  color: var(--color-white);
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3,
+h4 {
+  font-family: "Korataki";
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 5px;
+  padding-bottom: 0px;
+  line-height: 120%;
+}
+
+h2 {
+  font-size: 1.9em;
+  color: var(--color-red);
+  text-shadow: -2px 0px 1px var(--color-black), 0px 2px 1px var(--color-black), 2px 0px 1px var(--color-black), 0px -2px 1px var(--color-black);
+  font-style: italic;
+  letter-spacing: -4px;
+}
+
+h3 {
+  font-size: 1.3em;
+  text-shadow: 2px 0px 2px var(--color-black), 0px 2px 2px var(--color-black), -2px 0px 2px var(--color-black), 0px -2px 2px var(--color-black);
+}
+
+h4 {
+  font-size: 1.3em;
+  color: var(--color-black);
+}
+
+h2 + p, 
+h3 + p,
+h4 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ul {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-black);
+}
+
+ul {
+  padding-left: 19px;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: 'Ω';
+  position: absolute;
+  font-size: 17px;
+  top: 0px;
+  left: -19px;
+  display: block;
+  color: var(--color-black);
+} 
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  /**/
+  padding: 0;
+  position: relative;
+  margin: 55px 0;
+}
+
+table:not(.special):before {
+  content: "";
+  display: block;
+  width: calc(100% - 4px);
+  height: 40px;
+  background: transparent url(../images/table-up.jpg) top left repeat-x;
+  position: absolute;
+  top: -39px;
+  left: 2px;
+}
+
+
+table:not(.special):after {
+  content: "";
+  display: block;
+  width: calc(100% - 4px);
+  height: 40px;
+  background: transparent url(../images/table-down.jpg) top left repeat-x;
+  position: absolute;
+  bottom: -38px;
+  left: 2px;
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 400;
+  background-color: var(--color-red);
+  color: var(--color-white);
+  padding-left: 4px;
+  font-family: "Korataki";
+}
+
+table tbody tr:nth-child(even) {
+  background-color: #cdfbff;
+}
+
+img {
+  width: 100%;
+}
+
+img[alt^='Pergeñado'] {
+  width: 150px;
+  border: none;
+}
+
+table.special {
+  border-collapse: collapse;
+  font-family: "Korataki";
+  border-top: 6px double var(--color-red);
+  border-bottom: 6px double var(--color-red);
+  margin: 0px;
+}
+
+table.special th {
+    font-family: "Korataki";
+    font-size: 1.8em;
+    color: var(--color-red);
+    text-align: left;
+    padding: 14px 10px;
+
+}
+
+table.special span {
+  font-family: "Korataki";
+  font-size: 1.35em;
+  color: var(--color-red);
+  font-weight: bold;
+}
+
+table.special td {
+  font-size: 1.3em;
+  padding: 15px 10px;
+}
+
+table.special th[colspan="4"] {
+  text-align: center;
+}
+
+div:has(table.special) {
+  overflow: auto;
+}
+
+h3 + p img {
+  margin-top: 10px;
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Korataki";
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+a.pdf:nth-of-type(2) {
+    bottom: auto;
+    top: 0px;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+
+  .columns {
+    columns: auto;
+  }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 840px) {
+
+  body {
+    padding: 0 10px;
+  }
+
+  body:after,
+  body:before {
+    opacity: 0;
+  }
+
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 17px;
+  font-family: "Korataki";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 18px;
+  right: calc(50% - 21px);
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: calc(var(--size) * 0.8px);
+  padding: 7px 5px 3px;
+  color: var(--color-black);
+  background-color: var(--color-red);
+  border: 1px solid var(--color-black);
+  border-radius: 50%;
+}
+
+
+@media screen {
+  .saltopagina:after {
+    opacity: 0;
+  }
+}
