@@ -1,7 +1,7 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
   --color-red: #FFDE00;
-  --color-white: #fff;
+  --color-white: #faffcd;
   --color-black: #3B4CCA;
 }
 
@@ -126,11 +126,13 @@ blockquote {
   margin: 10px 0px;
   color: var(--color-black);
   font-family: "Korataki";
+  font-size: 0.8em;
+  line-height: 120%;
 }
 
 blockquote p {
   border: 3px solid #dedede;
-  padding: 15px;
+  padding: 15px 15px 10px 15px;
   margin: 0px;
   border-radius: 6px;
   background: linear-gradient(165deg,#949494 20%, #DEDEDE 100%);
@@ -178,7 +180,7 @@ h1 {
   text-align: center;
   font-style: italic;
   font-size: 3.5em;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
   margin-top: 0px !important;
   padding: 160px 0px 60px !important;
   text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
@@ -257,10 +259,10 @@ ul li {
 }
 
 ul li:before {
-  content: 'Ω';
+  content: '◒';
   position: absolute;
   font-size: 17px;
-  top: 0px;
+  top: -2px;
   left: -19px;
   display: block;
   color: var(--color-black);
