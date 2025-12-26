@@ -1,6 +1,6 @@
 \sinc
 
-# ¡Dadómones!
+# ¡Dadómones! [por Gwannon](https://gwannon.com)
 
 \conc
 
@@ -157,5 +157,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 * [Fuente Korataki](https://online-fonts.com/fonts/korataki)
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
+* Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
+* ??? - Hurtchin By [Dragonit](hhttps://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 
  \sc

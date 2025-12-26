@@ -1,6 +1,6 @@
 
 
-# ¡Dadómones!
+# ¡Dadómones! [por Gwannon](https://gwannon.com)
 **¡Dadómones!** es una juego de rol en una sola hoja donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
 
 Para jugar necesitarás **papel, lápiz, montones de dados de diferentes caras y una bolsa** o similar donde meterlos y que no se pueda ver dentro.
@@ -100,5 +100,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 * [Fuente Korataki](https://online-fonts.com/fonts/korataki)
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
+* Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
+* ??? - Hurtchin By [Dragonit](hhttps://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 
  

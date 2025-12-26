@@ -61,33 +61,32 @@ body {
   padding: 0;
   font-family: 'Open Sans';
   color: var(--color-black);
-  font-size: 16px;
+  font-size: 17px;
 }
 
 body:before {
   content: "";
   display: block;
+  height: 100vh;
   width: 100%;
-  height: var(--padding);
   position: fixed;
   top: 0px;
   left: 0px;
   z-index: 10;
-  /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(../images/border1.jpg) top right repeat-x;
+  background: transparent url(../images/border1.jpg) top left repeat;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, calc(var(--padding) - 22px) 100%, calc(100% - var(--padding) + 15px) 100%, calc(100% - var(--padding) + 15px) calc(var(--padding) - 15px), calc(var(--padding) - 22px) calc(var(--padding) - 15px), calc(var(--padding) - 22px) 100%, 0% 100%);
 }
 
-body:after {
+/*body:after {
   content: "";
   display: block;
-  width: 100%;
-  height: var(--padding);
+  height: 100vh;
+  width: calc(var(--padding) - 10px);
   position: fixed;
   bottom: 0px;
-  left: 0px;
-  /*Aqui gestionamos el diseño del borde*/
-  background: transparent url(../images/border2.jpg) bottom right repeat-x;
-}
+  right: 0px;
+  background: transparent url(../images/border2.jpg) top left repeat;
+}*/
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -179,16 +178,16 @@ h1 {
   color: var(--color-red);
   text-align: center;
   font-style: italic;
-  font-size: 3.5em;
+  font-size: 3.6em;
   margin-bottom: 20px;
   margin-top: 0px !important;
-  padding: 160px 0px 60px !important;
+  padding: 190px 0px 20px !important;
   text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
   line-height: 120%;
   border: 2px solid var(--color-red);
   border-radius: 3px;
   width: calc(100% - 4px);
-  letter-spacing: -4px;
+  letter-spacing: -6px;
 }
 
 h1 > a {
@@ -197,9 +196,12 @@ h1 > a {
   font-size: 18px;
   width: 100%;
   color: var(--color-white);
-  font-family: "Open Sans", sans-serif;
+  font-family: "Korataki";
   font-weight: 400;
   text-decoration: none;
+  font-style: normal;
+  letter-spacing: 0px;
+  margin-top: -20px;
 }
 
 h2,
@@ -460,11 +462,11 @@ body {
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
-  bottom: 18px;
+  bottom: 5px;
   right: calc(50% - 21px);
   width: var(--size);
   height: var(--size);
-  z-index: 10;
+  z-index: 20;
   opacity: 1;
   font-size: calc(var(--size) * 0.8px);
   padding: 7px 5px 3px;
@@ -474,9 +476,27 @@ body {
   border-radius: 50%;
 }
 
+.saltopagina:before {
+  content: "";
+  display: block;
+  height: calc(var(--padding) - 24px);
+  width: 100vw;
+  position: absolute;
+  bottom: 0px;
+  left: -13px;
+  background: transparent url(../images/border2.jpg) top left repeat;
+  z-index: 15;
+}
+
+.saltopagina.odd:before {
+  right: -13px;
+  left: auto;
+  background: transparent url(../images/border2.jpg) top right repeat;
+}
+
 
 @media screen {
-  .saltopagina:after {
+  .saltopagina:after, .saltopagina:before {
     opacity: 0;
   }
 }
