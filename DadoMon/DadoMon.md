@@ -121,6 +121,8 @@ XXX
 
 \sp
 
+[![Hurtchin By Dragonit](./images/hurtchin_by_dragonith_ddcandq.png "Hurtchin By Dragonit")](https://www.deviantart.com/dragonith/art/Hurtchin-806712542 "Hurtchin By Dragonit")
+
 ### Cuidado de tus dadómones
 
 XXX
@@ -157,7 +159,9 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 * [Fuente Korataki](https://online-fonts.com/fonts/korataki)
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
+* Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
-* ??? - Hurtchin By [Dragonit](hhttps://www.deviantart.com/dragonith/art/Hurtchin-806712542)
+
+&nbsp;
 
  \sc
