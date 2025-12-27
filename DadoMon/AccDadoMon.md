@@ -39,15 +39,44 @@ Para simular esa IA que tiene en cuenta miles de factores y hace millones de cá
 
 El pozo es el cuenco, bolsa, caja o lo que sea donde vas a meter un montón de dados para sacarlos al azar a la hora de generar encuentros aleatorios con dadómones.
 
-XXX
+1. Mete tantos **d4 como entrenadoras x2**.
+2. Mete tantos **d6 como entrenadoras x3**.
+3. Mete tantos **d8 como entrenadoras x4**.
+4. Mete tantos **d10 como entrenadoras x3**.
+5. Mete tantos **d12 como entrenadoras x2**.
+6. También debes meter **un buen puñado de dados d6 blancos con puntos negros**, los del parchís de toda la vida. Esas serán las denominadas galletas dadomon.
+7. Por último, debes **meter en tu pozo un d20** o más grande y será el dadomon legendario del que hablan las leyendas de la zona. Trata de hacerle una historia acorde con sus características.
 
-Por último, debes **meter en tu pozo un d20** o más grande y será el dadomon legendario del que hablan las leyendas de la zona. Trata de hacerle una historia acorde con sus características.
+Eso quiere decir que, si vas a dirigir una partida a 3 entrenadoras, tendrías un pozo de 40 dados (6 + 9 + 12 + 9 + 6 + 1) más un buen puñado de dados de 6 blancos y con puntos en vez de números. En caso de no tener tantos dados. Puedes usar el generador de dadómones que hay al final.
 
-Lo curioso de los legendarios es que hace siglos que nadie los ve, pero tus entrenadoras los van a ver montones de veces en sus viajes. Estamos seguros de que no tiene nada que ver conque, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
+Como ya has visto solo hay un legendario por cada 40 dadómones. Eso es así para representar que hace siglos que nadie los ve, solo se les conoce por leyendas e inscripciones en antiguas ruinas, pero tus entrenadoras los van a ver montones de veces en sus viajes.
+
+Estamos seguros de que no tiene nada que ver con que, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
 
 
 ## Sistema
 
+
+En general cualquier tirada que **supere o igual 4 es exitosa**. Si **saca un 1 es un fracaso estrepitoso** que debería tener alguna consecuencia. 
+
+Si un dadomon de d8 quiere escalar una pared, tira un d8 y si saca o 4 o más, la escala sin problema. Si saca un 1 en su d8, se estampa contra el muro y se queda inconsciente unos minutos.
+
+
+Puedes pensar que entonces todos los dadómones tienen una única habilidad que es su dado, pero piensa que en realidad simplemente están aplicando sus habilidades fantásticas propias de maneras diferentes para conseguir el mismo objetivo.
+
+Por ejemplo, un dadomon fuerte escalará sin más usando su fortaleza física, pero quizás uno de aire simplemente vuele por encima de la pared o uno tipo tierra use sus zarpas para excavar por debajo de la pared. 
+
+### Tiradas de los dadómones
+
+XXX
+
+### Tiradas de las entrenadoras
+
+Como regla general, las entrenadoras son como dadómones de d8. Es decir, tiran siempre un d8, pero a diferencia de los dadómones suman la característica que mejor se ajuste a lo que quieren hacer.
+
+XXX
+
+### Tiradas enfrentadas
 
 XXX
 
@@ -58,6 +87,16 @@ XXX
 Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados. Puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
 XXX
+
+### Galletas dadomon
+
+Cuando sacas del pozo de dadómones tanto DJ como entrenadoras un **d6 blanco con puntos negros**, en vez de salir un dadomon, has encontrado una **galleta dadomon**. Estas galletas te las guardas y se las puedes dar cuando quieras a los dadómones que controlas.
+
+Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d6. Puedes usar ese d6 después de saber si has fallado una tirada y puedes chocarlo contra el dado de contrincante o tu propio dado para moverlo y conseguir otro resultado. Como siempre si la galleta dadomon sale del campo de batalla, tu dadomon no la ha atrapado y no se la ha podido comer.
+
+El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y sin embargo no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
+
+Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizas tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
 
 
 
@@ -83,6 +122,23 @@ Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de
 
 XXX
 
+
+|Color/Diseño|Tipo|Característica|
+|---|---|---|
+|Rojo|XXX|XXX|
+|Verde|XXX|XXX|
+|Azul|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+
+
+
 #### Dados con símbolos
 
 Si el dado tiene símbolos en vez de números, por ejemplo un d6 con una calavera en vez de un 1, tienen habilidades especiales.
@@ -100,7 +156,7 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Gota|Regenera una herida|
 |Luna|XXX|
 |Símbolo arcano|XXX|
-|Sol|Deslumbra a su enemigo |
+|Sol|Deslumbra a su enemigo y este no actúa el siguiente turno|
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
 
@@ -108,8 +164,11 @@ Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que t
 
 No deberías meter en el pozo los dados que tengan más de dos símbolos, como dados de wargames o juegos de tablero como Blood Bowl. Puedes usar estos dados en determinadas circunstancias, por ejemplo, se enfrentan contra dadómones creados genéticamente en unos laboratorios, ciber-dadómones o, quizas, venga de otra dimensión o de otro tiempo como el futuro o la prehistoria.
 
-
 ### Atrapar dadómones y domesticarlos
+
+Antes de poder domesticar un dadomon, tienes que encontrarlo. eso supone que tendrás que salir de las zonas urbanas y adentrarte en campos, montañas, rios, mares y lagos y ponerte a buscarlos.
+
+XXX
 
 Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. Los pasos a seguir son:
 
@@ -118,6 +177,8 @@ Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti
 3. Si quieres domesticarlo tendrás que **tirar un dado igual al dado del dadomon menos tantos niveles de caras como heridas le quedan**. Si un dadomon tiene un d10 y le quedan 3 heridas puedes tirar un d6 (d10 > d8 > d6).
 4. A ese dado le **sumas restas la característica de tu entrenadora que marque el tipo de dadomon** para ser domado. Si el dadomon le gustan las entrenadoras fuertes sumarán Cuerpo y si le gustan encantadoras y simpáticas sumarán Encanto.
 5. Si al tirar su dado de domesticar **superan o igualan el valor actual del dado del dadomon** o el nuevo valor que saldrá al lanzar el dado de domesticar contra el dado del dadomon, consigues domesticarlo.
+
+
 6. Si el **dado de domesticar se sale del campo de batalla, falla directamente**. Si el **dado del dadomon se sale de la zona de combate** al tratar de domesticarlo, este **escapa para no volver** en bastante tiempo.
 
 Lo curioso de todo esto es que nadie llevamos miles de años XXX
@@ -142,7 +203,6 @@ Otra manera de evolucionar es darle otro dado con el mismo número de caras, per
 
 > Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así. Además debería ser algo temporal y cuando termine la sesión deberían volver a la normalidad.
 
-
 ### Dadómones legendarios
 
 Los d20 debido al salto de valor que hay con el resto de dadómones no son dadómones normales, son **dadómones legendarios** y, como ya hemos dicho, habría que meter en la bolsa solo 1 un d20.
@@ -154,6 +214,7 @@ XXX
 Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es un preevolución.
 
 XXX
+
 
 ### Cuidado de tus dadómones
 
@@ -211,3 +272,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 
 
+## Generador de dadómones
+
+
+XXX

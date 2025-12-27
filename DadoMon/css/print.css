@@ -268,7 +268,11 @@ ul li:before {
   left: -19px;
   display: block;
   color: var(--color-black);
-} 
+}
+
+ol {
+  padding-left: 23px;
+}
 
 table {
   margin-top: 5px;
