@@ -56,7 +56,7 @@ El pozo es el cuenco, bolsa, caja o lo que sea donde vas a meter un montón de d
 
 Eso quiere decir que, si vas a dirigir una partida a 3 entrenadoras, tendrías un pozo de 40 dados (6 + 9 + 12 + 9 + 6 + 1) más un buen puñado de dados de 6 blancos y con puntos en vez de números. En caso de no tener tantos dados. Puedes usar el generador de dadómones que hay al final.
 
-Como ya has visto solo hay un legendario por cada 40 dadómones. Eso es así para representar que hace siglos que nadie los ve, solo se les conoce por leyendas e inscripciones en antiguas ruinas, pero tus entrenadoras los van a ver montones de veces en sus viajes.
+Como ya has visto solo hay un legendario por cada 40 dadómones. Eso es así para representar que hace siglos que nadie los ve y/o solo se les conoce por leyendas e inscripciones en antiguas ruinas, pero tus entrenadoras los van a ver montones de veces en sus viajes.
 
 Estamos seguros de que no tiene nada que ver con que, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
 
@@ -106,7 +106,7 @@ Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d
 
 El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y sin embargo no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
 
-Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizas tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
+> **Semilla de aventura:** Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizas tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
 
 \sp
 
