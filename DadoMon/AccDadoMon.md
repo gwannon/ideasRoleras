@@ -1,12 +1,17 @@
 
-
 # ¡Dadómones! [por Gwannon](https://gwannon.com)
+
+
 **¡Dadómones!** es una mini juego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
 
 Para jugar necesitarás **papel, lápiz, montones de dados de diferentes caras y una bolsa** o similar donde meterlos y que no se pueda ver dentro.
 
 En realidad es un juego para dar salida a los kilos y kilos de dados feos y deslustrados que tenemos en nuestra casa y que nunca vamos a usar, pero nos da pena tirarlos.
+
+
 ## Creación de tu entrenadora
+
+
 Para crear una entrenadora debes darle un **nombre**, unos **pronombres** y **repartir +2, 0 y -1 entre 3** características: 
 
 * **Cuerpo:** Fuerza, resistencia, correr, saltar, esquivar, hacer acrobacias, …
@@ -20,12 +25,18 @@ Por último, apunta su **equipo de entrenador** con un saco de dormir, una tiend
 ### Dadómones iniciales
 
 En los tiempos de antaño viejas científicas chochas de dudosa reputación en la comunidad dadomon entregaban en oscuros laboratorios a las entrenadoras su primer dadomon, dejándoles escoger entre tres posibles dadómones.
+
+
 Lo curioso es que, aunque todas las entrenadoras empezaban con los 3 mismos dadómones, luego no las veías ir a los combates de la Liga con alguno de esos dadómones en su equipo. La Liga descubrió que la tasa de abandono de dadómones iniciales era muy alta y de ahí que la Liga cambiará el sistema de entrega de dadómones iniciales.
 
 Hoy en día, tras rellenar el formulario online para ser entrenadora una IA selecciona tú dadomon ideal. Unos días más tarde puedes recogerlo en tu Centro Dadomon más cercano con todas las vacunas puestas, un saco de comida dadomon y una estúpida gorra promocional de la Liga Dadomon, que solo las entrenadoras más pringadas se ponen.
 
 Para simular esa IA que tiene en cuenta miles de factores y hace millones de cálculos por segundo, simplemente **mete en una bolsa todos los d4** que tengas y **saca uno** al azar. Puedes volver a meterlo y sacar otro hasta **dos veces más**.
+
+
 ## Creación del pozo
+
+
 El pozo es el cuenco, bolsa, caja o lo que sea donde vas a meter un montón de dados para sacarlos al azar a la hora de generar encuentros aleatorios con dadómones.
 
 XXX
@@ -33,7 +44,11 @@ XXX
 Por último, debes **meter en tu pozo un d20** o más grande y será el dadomon legendario del que hablan las leyendas de la zona. Trata de hacerle una historia acorde con sus características.
 
 Lo curioso de los legendarios es que hace siglos que nadie los ve, pero tus entrenadoras los van a ver montones de veces en sus viajes. Estamos seguros de que no tiene nada que ver conque, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
+
+
 ## Sistema
+
+
 XXX
 
 ### Combates de dadómones
@@ -42,7 +57,13 @@ XXX
 
 Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados. Puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
-XXX## Dadómones
+XXX
+
+
+
+## Dadómones
+
+
 XXX
 
 La ficha del dadomon es el propio dado, ya que con su forma y su color marca su tipo y su nivel de poder.
@@ -85,6 +106,8 @@ Estas pueden ser algunas situaciones en que dar una evolución:
 * Puede que se someta a algún experimento que lo dado evolucione o tal vez un dadomon legendario le dé parte de su poder.
 
 Otra manera de evolucionar es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
+
+
 > Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así. Además debería ser algo temporal y cuando termine la sesión deberían volver a la normalidad.
 
 ### Dadómones legendarios
@@ -113,7 +136,13 @@ Pueden ponerles el nombre que quieras, pero si no quieres complicarte puedes seg
 
 > Primeras 3 letras del color + Primeras 3 letras del color de los números o las 3 primeras letras del color secundario + Últimas 3 letras del diseño.
 
-Así, un típico dado de vampiro rojo marmoleado con números negros, sería un «Rojnegado». Un dado naranja con números blancos transparente sería un «Narblante».## Liga Dadomon
+Así, un típico dado de vampiro rojo marmoleado con números negros, sería un «Rojnegado». Un dado naranja con números blancos transparente sería un «Narblante».
+
+
+
+## Liga Dadomon
+
+
 XXX
 
 ### Centros Dadomon
@@ -134,10 +163,20 @@ XXX
 
 ### Copa Dadomon
 
-XXX## Licencia
+XXX
+
+
+
+## Licencia
+
+
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Imágenes y fuentes libres de derecho de diferentes fuentes.
 
 * Fuente [Korataki](https://online-fonts.com/fonts/korataki)
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
 * Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
+
+
+
+
