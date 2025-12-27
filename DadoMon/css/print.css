@@ -230,8 +230,9 @@ h3 {
 }
 
 h4 {
-  font-size: 1.3em;
+  font-size: 1em;
   color: var(--color-black);
+  font-weight: 700;
 }
 
 h2 + p, 
@@ -275,42 +276,20 @@ table {
   box-sizing: border-box;
   padding: 0;
   position: relative;
-  margin: 55px 0;
-}
-
-table:not(.special):before {
-  content: "";
-  display: block;
-  width: calc(100% - 4px);
-  height: 40px;
-  background: transparent url(../images/table-up.jpg) top left repeat-x;
-  position: absolute;
-  top: -39px;
-  left: 2px;
-}
-
-table:not(.special):after {
-  content: "";
-  display: block;
-  width: calc(100% - 4px);
-  height: 40px;
-  background: transparent url(../images/table-down.jpg) top left repeat-x;
-  position: absolute;
-  bottom: -38px;
-  left: 2px;
+  margin: 15px 0;
 }
 
 table thead tr th {
   text-align: left;
   font-weight: 400;
-  background-color: var(--color-red);
+  background-color: var(--color-black);
   color: var(--color-white);
   padding-left: 4px;
   font-family: "Korataki";
 }
 
 table tbody tr:nth-child(even) {
-  background-color: #cdfbff;
+  background-color: var(--color-red);
 }
 
 img {
