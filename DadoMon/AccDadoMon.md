@@ -32,7 +32,7 @@ XXX
 
 Por último, debes **meter en tu pozo un d20** o más grande y será el dadomon legendario del que hablan las leyendas de la zona. Trata de hacerle una historia acorde con sus características.
 
-Lo curioso de los legendarios es que hace siglos que nadie los ve, pero tus entrenadoras los van a ver montones de veces en sus viajes. Estamos seguros que no tiene nada que ver conque, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
+Lo curioso de los legendarios es que hace siglos que nadie los ve, pero tus entrenadoras los van a ver montones de veces en sus viajes. Estamos seguros de que no tiene nada que ver conque, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
 ## Sistema
 XXX
 
@@ -57,7 +57,7 @@ XXX
 
 Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
 
-* **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderosos. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
+* **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderoso. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
 * **Color/Diseño:** XXX
 * **Color de los números:** XXX
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
@@ -76,7 +76,7 @@ La evolución de un dadomon simplemente se consigue aumentando el número de car
 
 Cuando crea que puede **quedar bien en la trama** puede darle la oportunidad a su entrenadora de **evolucionar su dadomon** y coger un dado de las mismas características, pero con más caras.
 
-Estás pueden ser algunas situaciones en que dar una evolución:
+Estas pueden ser algunas situaciones en que dar una evolución:
 
 * En mitad de un combate complicado contra un jefe de gimnasio dadomon.
 * Al enfrentarse a algún dadomon legendario o de gran poder.
@@ -84,7 +84,7 @@ Estás pueden ser algunas situaciones en que dar una evolución:
 * Quizás encuentren algún objeto/sustancia que le haga evolucionar.
 * Puede que se someta a algún experimento que lo dado evolucione o tal vez un dadomon legendario le dé parte de su poder.
 
-Otra forma de evolución es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
+Otra manera de evolucionar es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
 > Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así. Además debería ser algo temporal y cuando termine la sesión deberían volver a la normalidad.
 
 ### Dadómones legendarios

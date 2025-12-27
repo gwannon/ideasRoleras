@@ -1,8 +1,11 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
+  --padding2: 45px; /*Ancho de los bordes de la página*/
   --color-red: #FFDE00;
   --color-white: #faffcd;
   --color-black: #3B4CCA;
+  --color-grey: #dedede;
+  --color-dark-grey: #949494;
 }
 
 @font-face {
@@ -78,20 +81,18 @@ body:before {
   top: 0px;
   left: 0px;
   z-index: 10;
-  background: transparent url(../images/border1.jpg) top left repeat;
-  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, calc(var(--padding) - 22px) 100%, calc(100% - var(--padding) + 15px) 100%, calc(100% - var(--padding) + 15px) calc(var(--padding) - 15px), calc(var(--padding) - 22px) calc(var(--padding) - 15px), calc(var(--padding) - 22px) 100%, 0% 100%);
+  background-color: var(--color-black);
+  background: linear-gradient(180deg,var(--color-black) 40%, var(--color-red) 40%);
+  clip-path: polygon(
+    0% 0%,
+    100% 0%,
+    100% 75%, 
+    calc(100% - var(--padding2)) calc(75% - var(--padding2)), 
+    calc(100% - var(--padding2)) var(--padding2),
+    var(--padding2) var(--padding2),
+    var(--padding2) calc(75% - var(--padding2)),
+    0% 75%);
 }
-
-/*body:after {
-  content: "";
-  display: block;
-  height: 100vh;
-  width: calc(var(--padding) - 10px);
-  position: fixed;
-  bottom: 0px;
-  right: 0px;
-  background: transparent url(../images/border2.jpg) top left repeat;
-}*/
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -124,43 +125,23 @@ body > *:first-child,
 }
 
 blockquote {
-  border: 3px solid #656565;
+  border: 3px solid var(--color-dark-grey);
   border-radius: 8px;
   padding: 0px;
   margin: 10px 0px;
-  color: var(--color-black);
+  color: black;
   font-family: "Korataki";
   font-size: 0.8em;
-  line-height: 120%;
+  line-height: 130%;
 }
 
 blockquote p {
-  border: 3px solid #dedede;
+  border: 3px solid var(--color-grey);
   padding: 15px 15px 10px 15px;
   margin: 0px;
   border-radius: 6px;
-  background: linear-gradient(165deg,#949494 20%, #DEDEDE 100%);
+  background: linear-gradient(165deg,var(--color-dark-grey) 20%, var(--color-grey) 100%);
 }
-
-/*blockquote p:before {
-  content: "";
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  border-radius: 10px;
-  margin: 0px 15px 0px 0px;
-  background: linear-gradient(120deg, #363642 0%, #363642 calc(50% - 1px), transparent calc(50% - 1px), transparent calc(50% + 1px), #363642 calc(50% + 1px));
-}
-
-blockquote p:after {
-  content: "";
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  border-radius: 10px;
-  margin: 10px -5px 0px 15px;
-  background: linear-gradient(120deg,#363642 0%, #363642 calc(50% - 1px), transparent calc(50% - 1px), transparent calc(50% + 1px), #363642 calc(50% + 1px));
-}*/
 
 pre {
   white-space: pre-wrap;
@@ -175,7 +156,6 @@ pre * {
 }
 
 /* Titulares */
-
 h1 {
   background: #201c37 url(../images/titular.jpg) top center no-repeat;
   background-size: 100% auto;
@@ -261,7 +241,6 @@ h4 + p {
 }
 
 /* Otros elementos */
-
 p,
 ul {
   margin: 0.45em 0;
@@ -294,7 +273,6 @@ table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  /**/
   padding: 0;
   position: relative;
   margin: 55px 0;
@@ -310,7 +288,6 @@ table:not(.special):before {
   top: -39px;
   left: 2px;
 }
-
 
 table:not(.special):after {
   content: "";
@@ -354,12 +331,11 @@ table.special {
 }
 
 table.special th {
-    font-family: "Korataki";
-    font-size: 1.8em;
-    color: var(--color-red);
-    text-align: left;
-    padding: 14px 10px;
-
+  font-family: "Korataki";
+  font-size: 1.8em;
+  color: var(--color-red);
+  text-align: left;
+  padding: 14px 10px;
 }
 
 table.special span {
@@ -387,23 +363,23 @@ h3 + p img {
 }
 
 a.pdf {
-    position: fixed;
-    bottom: 0px;
-    right: 0px;
-    color: var(--color-black);
-    background-color: var(--color-red);
-    display: block;
-    padding: 10px;
-    margin: 0px;
-    font-family: "Korataki";
-    font-size: 30px;
-    text-decoration: none;
-    z-index: 100;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: var(--color-black);
+  background-color: var(--color-red);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: "Korataki";
+  font-size: 30px;
+  text-decoration: none;
+  z-index: 100;
 }
 
 a.pdf:nth-of-type(2) {
-    bottom: auto;
-    top: 0px;
+  bottom: auto;
+  top: 0px;
 }
 
 @media screen {
@@ -427,7 +403,6 @@ a.pdf:nth-of-type(2) {
 }
 
 @media screen and (max-width: 840px) {
-
   body {
     padding: 0 10px;
   }
@@ -483,7 +458,7 @@ body {
   content: counters(primary, "-", style);
   position: absolute;
   bottom: 5px;
-  right: calc(50% - 21px);
+  right: -60px;
   width: var(--size);
   height: var(--size);
   z-index: 20;
@@ -496,24 +471,37 @@ body {
   border-radius: 50%;
 }
 
+.saltopagina.odd:after {
+  right: auto;
+  left: -60px;
+}
+
 .saltopagina:before {
   content: "";
   display: block;
-  height: calc(var(--padding) - 24px);
+  height: 100vh;
   width: 100vw;
   position: absolute;
   bottom: 0px;
-  left: -13px;
-  background: transparent url(../images/border2.jpg) top left repeat;
+  left: 0px;
   z-index: 15;
+  clip-path: polygon(
+    20% 100%, 
+    calc(20% + var(--padding2)) calc(100% - var(--padding2)), 
+    calc(95% - var(--padding2)) calc(100% - var(--padding2)), 
+    calc(95% - var(--padding2)) calc(75% - var(--padding2)), 
+    100% calc(75% - var(--padding2)), 
+    100% calc(100% - var(--padding2)),
+    100% 100%
+  );
+  background: linear-gradient(120deg,var(--color-black) 80%, var(--color-red) 80%);
 }
 
 .saltopagina.odd:before {
-  right: -13px;
+  right: 0px;
   left: auto;
-  background: transparent url(../images/border2.jpg) top right repeat;
+  transform: scaleX(-1);
 }
-
 
 @media screen {
   .saltopagina:after, .saltopagina:before {
