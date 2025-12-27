@@ -55,6 +55,10 @@
   src: url("./OpenSans-Bold.ttf") format('truetype');
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: var(--color-white);
   margin: 0;
@@ -62,6 +66,7 @@ body {
   font-family: 'Open Sans';
   color: var(--color-black);
   font-size: 17px;
+  overflow-x: hidden;
 }
 
 body:before {
@@ -217,11 +222,26 @@ h4 {
 }
 
 h2 {
-  font-size: 1.9em;
+  font-size: 2.2em;
   color: var(--color-red);
   text-shadow: -2px 0px 1px var(--color-black), 0px 2px 1px var(--color-black), 2px 0px 1px var(--color-black), 0px -2px 1px var(--color-black);
   font-style: italic;
   letter-spacing: -4px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+h2:after {
+  content: "";
+  display: block;
+  position: absolute;
+  height: 2px;
+  width: 100%;
+  bottom: -5px;
+  left: 0px;
+  background-color: var(--color-red);
+  border: 2px solid var(--color-black);
+  border-radius: 2px;
 }
 
 h3 {
@@ -370,7 +390,7 @@ a.pdf {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    color: white;
+    color: var(--color-black);
     background-color: var(--color-red);
     display: block;
     padding: 10px;

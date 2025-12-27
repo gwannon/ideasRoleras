@@ -1,7 +1,7 @@
 
 
 # ¡Dadómones! [por Gwannon](https://gwannon.com)
-**¡Dadómones!** es una juego de rol en una sola hoja donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
+**¡Dadómones!** es una mini juego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
 
 Para jugar necesitarás **papel, lápiz, montones de dados de diferentes caras y una bolsa** o similar donde meterlos y que no se pueda ver dentro.
 
@@ -30,6 +30,9 @@ El pozo es el cuenco, bolsa, caja o lo que sea donde vas a meter un montón de d
 
 XXX
 
+Por último, debes **meter en tu pozo un d20** o más grande y será el dadomon legendario del que hablan las leyendas de la zona. Trata de hacerle una historia acorde con sus características.
+
+Lo curioso de los legendarios es que hace siglos que nadie los ve, pero tus entrenadoras los van a ver montones de veces en sus viajes. Estamos seguros que no tiene nada que ver conque, cuando tus entrenadoras meten la mano en el pozo, el d20 es muy fácil de detectar entre los otros datos. No queremos ser mal pensados y decir que las entrenadoras hacen trampas.
 ## Sistema
 XXX
 
@@ -39,9 +42,7 @@ XXX
 
 Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados. Puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
-XXX
-
-## Dadómones
+XXX## Dadómones
 XXX
 
 La ficha del dadomon es el propio dado, ya que con su forma y su color marca su tipo y su nivel de poder.
@@ -54,26 +55,41 @@ XXX
 
 XXX
 
-Hay 4 elementos que marca un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
+Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
 
-* **Forma:** XXX
+* **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderosos. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
 * **Color/Diseño:** XXX
 * **Color de los números:** XXX
-* **Tamaño:** XXX
+* **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
 
 Si el dado tiene símbolos en vez de números, por ejemplo un d6 con una calavera en vez de un 1, XXX
 
 XXX
 
-### Evolución de tus dadómones
+### Atrapar dadómones y domesticarlos
 
 XXX
 
-> Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así.
+### Evolución de tus dadómones
+
+La evolución de un dadomon simplemente se consigue aumentando el número de caras y ese aumento es una elección que debe tomar tú como DJ.
+
+Cuando crea que puede **quedar bien en la trama** puede darle la oportunidad a su entrenadora de **evolucionar su dadomon** y coger un dado de las mismas características, pero con más caras.
+
+Estás pueden ser algunas situaciones en que dar una evolución:
+
+* En mitad de un combate complicado contra un jefe de gimnasio dadomon.
+* Al enfrentarse a algún dadomon legendario o de gran poder.
+* En mitad de un combate importante de la Liga Dadomon.
+* Quizás encuentren algún objeto/sustancia que le haga evolucionar.
+* Puede que se someta a algún experimento que lo dado evolucione o tal vez un dadomon legendario le dé parte de su poder.
+
+Otra forma de evolución es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
+> Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así. Además debería ser algo temporal y cuando termine la sesión deberían volver a la normalidad.
 
 ### Dadómones legendarios
 
-Los d20 debido al salto de valor que hay con el resto de dadómones no son dadómones normales, son **dadómones legendarios** y habría que meter en la bolsa 1 por cada 100 dados.
+Los d20 debido al salto de valor que hay con el resto de dadómones no son dadómones normales, son **dadómones legendarios** y, como ya hemos dicho, habría que meter en la bolsa solo 1 un d20.
 
 XXX
 
@@ -82,25 +98,46 @@ XXX
 Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es un preevolución.
 
 XXX
+
+[![Hurtchin By Dragonit](./images/hurtchin_by_dragonith_ddcandq.png "Hurtchin By Dragonit")](https://www.deviantart.com/dragonith/art/Hurtchin-806712542 "Hurtchin By Dragonit")
+
 ### Cuidado de tus dadómones
 
 XXX
 
 > **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden pues mejor.
+
 ### Nombres de los dadómones
 
 Pueden ponerles el nombre que quieras, pero si no quieres complicarte puedes seguir está regla.
 
 > Primeras 3 letras del color + Primeras 3 letras del color de los números o las 3 primeras letras del color secundario + Últimas 3 letras del diseño.
 
-Así, un típico dado de vampiro rojo marmoleado con números negros, sería un «Rojnegado». Un dado naranja con números blancos transparente sería un «Narblante».
-## Liga Dadomon
+Así, un típico dado de vampiro rojo marmoleado con números negros, sería un «Rojnegado». Un dado naranja con números blancos transparente sería un «Narblante».## Liga Dadomon
+XXX
+
+### Centros Dadomon
+
+XXX
+
+> En los centros dadomon puedes curar a todos tus dadómones de sus heridas y sus enfermedades, siempre que sean normales. Si la trama de tu aventura es que una extraña diarrea dadomon está haciendo que los dadómones no puedan combatir porque tienen apretones en mitad de las peleas y salen corriendo «pipi-dadomon» a hacer sus cositas, pues esa diarrea no la curan en un centro Dadomon.
+
+La teoría principal entre los conspiranoicos dadomon es que estás instalaciones se usan para que la Liga Dadomon blanquee dinero, porque realmente, las entrenadoras no pagan nada en los centros y tampoco hay cuotas mensuales con lo que las cuentas no salen.
+
+### Gimnasios Dadomon
+
+XXX
+
+### Combates de entrenadores
+
+XXX
+
+### Copa Dadomon
+
 XXX## Licencia
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Imágenes y fuentes libres de derecho de diferentes fuentes.
 
-* [Fuente Korataki](https://online-fonts.com/fonts/korataki)
+* Fuente [Korataki](https://online-fonts.com/fonts/korataki)
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
+* Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
-* ??? - Hurtchin By [Dragonit](hhttps://www.deviantart.com/dragonith/art/Hurtchin-806712542)
-
- 

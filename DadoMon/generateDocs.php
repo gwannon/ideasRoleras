@@ -78,7 +78,7 @@ if($argv[1] == 'DadoMon') {
 
 /* Generamos indice del PDF */
 /* -------------------------------------------------------------- */
-/*$doc = new DOMDocument();
+$doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
 $doc->loadHTMLFile(__DIR__ . "/".$argv[1].".html");
 $body = $doc->getElementsByTagName('body');
@@ -108,7 +108,7 @@ foreach($lines as $line) {
   } else if(preg_match("/saltopagina/", $line)) {
     $counter++;
   }
-}*/
+}
 
 file_put_contents(__DIR__ . "/".$argv[1].".txt", $metas);
 
