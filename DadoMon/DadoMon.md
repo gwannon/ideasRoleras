@@ -248,11 +248,15 @@ Estas pueden ser algunas situaciones en que dar una evolución:
 * Al enfrentarse a algún dadomon legendario o de gran poder.
 * En mitad de un combate importante de la Liga Dadomon.
 * Quizás encuentren algún objeto/sustancia que le haga evolucionar.
-* Puede que se someta a algún experimento que lo dado evolucione o tal vez un dadomon legendario le dé parte de su poder.
+* Puede que se someta a algún experimento o ritual que le evolucione.
 
 Otra manera de evolucionar es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
 
 > Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así. Además debería ser algo temporal y cuando termine la sesión deberían volver a la normalidad.
+
+Al evolucionar un dadomon, su entrenadora podrá buscar dentro del pozo o en otras bolsas de dados un dado con las mismas características pero un rango mayor de caras. En caso de encontrar varios, podrá elegir el que más le guste pudiendo por ejemplo ganar o perder tamaño y/o conservar sus símbolos, perderlos o ganar otros nuevos.
+
+> Puedes darse la situación que una entrenadora se traiga un dado de casa para sacarlo a la hora de la evolución. Cómo DJ no deberías permitirlo, quieres deshacerte de dados, no que te traigan más.
 
 ### Dadómones legendarios
 
