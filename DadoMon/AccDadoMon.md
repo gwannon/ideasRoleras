@@ -133,45 +133,47 @@ XXX
 Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
 
 * **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderoso. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
-* **Color/Diseño:** XXX
-* **Color de los números:** XXX
+* **Color/Diseño:** XXX. El diseño (marmoleado, transparente, moteado, metálico, …) tiene preferencia sobre el color a la hora de mirar el tipo.
+* **Color de los números:** El color de los números da habilidades especiales que pueden hacer que el dado sea un poco diferente. Quizas una herida más o que las galletas dadomon le afecten más.
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
-
-XXX
 
 
 
 |Color/Diseño|Tipo|Característica|
 |---|---|---|
-|Rojo|XXX|XXX|
-|Verde|XXX|XXX|
+|Amarillo|XXX|XXX|
 |Azul|XXX|XXX|
+|Blanco|XXX|XXX|
+|Gris|XXX|XXX|
+|Marrón|XXX|XXX|
+|Morado|XXX|XXX|
+|Naranja|XXX|XXX|
+|Negro|XXX|XXX|
+|Rojo|XXX|XXX|
+|Rosa|XXX|XXX|
+|Verde|XXX|XXX|
+|Marmoleado|XXX|XXX|
+|Metálico|XXX|XXX|
+|Transparente|Fantasma|Son intangibles, ni pueden ser chocados ni pueden chocarse contra otros dados. Si lo hacen, el choque no vale y no modifica el valor del dado chocado.|
 |XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
+|Color del número|Extra|
+|---|---|
+|Amarillo|XXX|
+|Azul|XXX|
+|Blanco|XXX|
+|Gris|XXX|
+|Marrón|XXX|
+|Morado|XXX|
+|Naranja|XXX|
+|Negro|Cuando le lanzas una galleta dadomon tiras un d8 en vez de un d6.|
+|Rojo|Más 1 herida|
+|Rosa|XXX|
+|Verde|XXX|
+|Desgastado|Como si fuera un dadomon tipo fantasma|
 
 
 
-#### Dados con símbolos
+### Dados con símbolos
 
 Si el dado tiene símbolos en vez de números, por ejemplo un d6 con una calavera en vez de un 1, tienen habilidades especiales.
 
@@ -180,22 +182,24 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Símbolo|Habilidad|
 |---|---|
 |Ankh|XXX|
-|Calavera|XXX|
-|Dragón|XXX|
+|Calavera|Su energía interdimensional niega todos los efectos activos de otros símbolos.|
+|Dragón|Puede volar con lo que no puede ser echado fuera de la zona de combate a no ser que sea derrotado.|
 |Estrella|XXX|
 |Exclamación|XXX|
 |Explosión|Explotan haciendo una herida a sí mismo y dos al contrario.|
 |Gota|Regenera una herida|
-|Luna|XXX|
-|Símbolo arcano|XXX|
+|Luna|Produce oscuridad en la zona de combate. No puedes lanzar tu dado a chocar, porque no lo ves. Aunque choques sin querer el dado el valor no cambia.|
+|Símbolo arcano|Unos tentáculos de otra dimensión sujetan al dadomon de manera que aunque choquen con él no cambia de resultado.|
 |Sol|Deslumbra a su enemigo y este no actúa el siguiente turno.|
 |Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
+|Plus|Usando su energía positiva tu dadomon sube un nivel de dado hasta final de combate. No pueden superar d12 con este sistema.|
+|Minus|Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.|
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
 
 * XXX
 
-No deberías meter en el pozo los dados que tengan más de dos símbolos, como dados de wargames o juegos de tablero como Blood Bowl. Puedes usar estos dados en determinadas circunstancias, por ejemplo, se enfrentan contra dadómones creados genéticamente en unos laboratorios, ciber-dadómones o, quizas, venga de otra dimensión o de otro tiempo como el futuro o la prehistoria.
+No deberías meter en el pozo los dados que tengan más de dos símbolos, como dados de wargames o juegos de tablero. Puedes usar estos dados en determinadas circunstancias, por ejemplo, se enfrentan contra dadómones creados genéticamente en unos laboratorios, ciber-dadómones o, quizas, venga de otra dimensión o de otro tiempo como el futuro o la prehistoria.
 
 ### Atrapar dadómones y domesticarlos
 
@@ -203,15 +207,16 @@ Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que ten
 
 XXX
 
-Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. Los pasos a seguir son:
+Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. 
+
+
+Los pasos a seguir son:
 
 1. Combatir con uno de tus dadómones hasta **hacerle más de la mitad de sus heridas**.
 2. En ese momento debes elegir si **tratas de domesticarlo o sigues atacándole** normalmente.
 3. Si quieres domesticarlo tendrás que **tirar un dado igual al dado del dadomon menos tantos niveles de caras como heridas le quedan**. Si un dadomon tiene un d10 y le quedan 3 heridas puedes tirar un d6 (d10 > d8 > d6).
 4. A ese dado le **sumas restas la característica de tu entrenadora que marque el tipo de dadomon** para ser domado. Si el dadomon le gustan las entrenadoras fuertes sumarán Cuerpo y si le gustan encantadoras y simpáticas sumarán Encanto.
 5. Si al tirar su dado de domesticar **superan o igualan el valor actual del dado del dadomon** o el nuevo valor que saldrá al lanzar el dado de domesticar contra el dado del dadomon, consigues domesticarlo.
-
-
 6. Si el **dado de domesticar se sale del campo de batalla, falla directamente**. Si el **dado del dadomon se sale de la zona de combate** al tratar de domesticarlo, este **escapa para no volver** en bastante tiempo.
 
 Lo curioso de todo esto es que nadie llevamos miles de años XXX
@@ -230,11 +235,18 @@ Estas pueden ser algunas situaciones en que dar una evolución:
 * Al enfrentarse a algún dadomon legendario o de gran poder.
 * En mitad de un combate importante de la Liga Dadomon.
 * Quizás encuentren algún objeto/sustancia que le haga evolucionar.
-* Puede que se someta a algún experimento que lo dado evolucione o tal vez un dadomon legendario le dé parte de su poder.
+* Puede que se someta a algún experimento o ritual que le evolucione.
 
 Otra manera de evolucionar es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
 
 > Los dadómones no pueden evolucionar más allá de un d12. Para evolucionar a dados de mayor valor como un d20 debería haber una explicación dentro de la historia, como fusionarse con su entrenador o aprender mega movimientos o cosas así. Además debería ser algo temporal y cuando termine la sesión deberían volver a la normalidad.
+
+Al evolucionar un dadomon, su entrenadora podrá buscar dentro del pozo o en otras bolsas de dados un dado con las mismas características pero un rango mayor de caras.
+
+
+En caso de encontrar varios, podrá elegir el que más le guste pudiendo por ejemplo ganar o perder tamaño y/o conservar sus símbolos, perderlos o ganar otros nuevos.
+
+> Puedes darse la situación que una entrenadora se traiga un dado de casa para sacarlo a la hora de la evolución. Cómo DJ no deberías permitirlo, quieres deshacerte de dados, no que te traigan más.
 
 ### Dadómones legendarios
 
@@ -247,7 +259,6 @@ XXX
 Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es un preevolución.
 
 XXX
-
 
 ### Cuidado de tus dadómones
 
@@ -302,6 +313,10 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
 
+## Créditos
+
+
+XXX
 
 
 

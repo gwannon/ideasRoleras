@@ -285,11 +285,12 @@ table {
 
 table thead tr th {
   text-align: left;
-  font-weight: 400;
+  font-weight: 700;
   background-color: var(--color-black);
+  font-size: 0.8em;
   color: var(--color-white);
-  padding-left: 4px;
   font-family: "Korataki";
+  padding: 6px 3px 0px 3px;
 }
 
 table tbody tr:nth-child(even) {
