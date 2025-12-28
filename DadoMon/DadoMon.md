@@ -98,6 +98,25 @@ Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando a
 
 XXX
 
+#### Salirse de la zona de combate
+
+Un dadomon está fuera del campo de batalla cuando la cara que hace de base no toca la zona de combate. Pero no estás fuera del campo hasta que no termina el turno y podrías usar tus dados de galletas dadomon para empujar el dado de vuelta dentro del campo de batalla.
+
+Si no hay campo de batalla específico, el campo es la besa de juego y te sales al caerte de la mesa. Por ejemplo, un combate en un bosque para domesticar un «Verrojido», no tiene una zona de combate predefinida, es toda la mesa con todo lo que haya encima.
+
+Salirse de la zona de combate puede interpretarse de muchas maneras según la situación y el lugar.
+
+* XXX
+
+#### Trucos e ideas para los combates
+
+* A la hora de lanzar dados y chocarlos piensa que cuanta menos caras más difícil será hacerlo rodar. Un d6 con un 6, si tratas de chocarlo, podrás moverlo, pero no podrás hacer que cambie de cara y según el campo de batalla puede que te salgas de él por tirar con mucha fuerza.
+* Ninguna regla impide que los campos de batalla estén inclinados, sean elásticos, vibren, estén acolchados, … Sé creativo en este tema. Por ejemplo una zona de combate inclinada, puede hacer que los d4 y d6 no rueden, pero dados de más caras rueden y se salgan, quedando descalificados.
+* Los dados montados (que no están totalmente planos) se vuelven a tirar. Si por chocar el dado defensor queda montado, puedes cogerlo y tirarlo.
+* Puedes poner reglas especiales a los campos de batalla sobre como tirar los dados. Quizás solo puedan dejarse caer desde arriba o tengas que usar un cubilete o una torre de dados improvisada.
+
+\sp
+
 ### Galletas dadomon
 
 Cuando sacas del pozo de dadómones tanto DJ como entrenadoras un **d6 blanco con puntos negros**, en vez de salir un dadomon, has encontrado una **galleta dadomon**. Estas galletas te las guardas y se las puedes dar cuando quieras a los dadómones que controlas.
@@ -107,8 +126,6 @@ Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d
 El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y sin embargo no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
 
 > **Semilla de aventura:** Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizas tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
-
-\sp
 
 \sinc
 
@@ -135,6 +152,8 @@ Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de
 
 XXX
 
+\sp
+
 \sinc
 
 |Color/Diseño|Tipo|Característica|
@@ -142,6 +161,20 @@ XXX
 |Rojo|XXX|XXX|
 |Verde|XXX|XXX|
 |Azul|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
 |XXX|XXX|XXX|
 |XXX|XXX|XXX|
 |XXX|XXX|XXX|
@@ -168,21 +201,22 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Dragón|XXX|
 |Estrella|XXX|
 |Exclamación|XXX|
-|Explosión|Explotan haciendo una herida a sí mismo y dos al contrario|
+|Explosión|Explotan haciendo una herida a sí mismo y dos al contrario.|
 |Gota|Regenera una herida|
 |Luna|XXX|
 |Símbolo arcano|XXX|
-|Sol|Deslumbra a su enemigo y este no actúa el siguiente turno|
+|Sol|Deslumbra a su enemigo y este no actúa el siguiente turno.|
+|Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
 
 * XXX
 
-No deberías meter en el pozo los dados que tengan más de dos símbolos, como dados de wargames o juegos de tablero como Blood Bowl. Puedes usar estos dados en determinadas circunstancias, por ejemplo, se enfrentan contra dadómones creados genéticamente en unos laboratorios, ciber-dadómones o, quizas, venga de otra dimensión o de otro tiempo como el futuro o la prehistoria.
+No deberías meter en el pozo los dados que tengan más de dos símbolos, como dados de wargames o juegos de tablero. Puedes usar estos dados en determinadas circunstancias, por ejemplo, se enfrentan contra dadómones creados genéticamente en unos laboratorios, ciber-dadómones o, quizas, venga de otra dimensión o de otro tiempo como el futuro o la prehistoria.
 
 ### Atrapar dadómones y domesticarlos
 
-Antes de poder domesticar un dadomon, tienes que encontrarlo. eso supone que tendrás que salir de las zonas urbanas y adentrarte en campos, montañas, rios, mares y lagos y ponerte a buscarlos.
+Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que tendrás que salir de las zonas urbanas y adentrarte en campos, montañas, ríos, mares y lagos y ponerte a buscarlos.
 
 XXX
 
