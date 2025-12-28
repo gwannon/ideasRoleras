@@ -197,16 +197,18 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Símbolo|Habilidad|
 |---|---|
 |Ankh|XXX|
-|Calavera|XXX|
-|Dragón|XXX|
+|Calavera|Su energía interdimensional niega todos los efectos activos de otros símbolos.|
+|Dragón|Puede volar con lo que no puede ser echado fuera de la zona de combate a no ser que sea derrotado.|
 |Estrella|XXX|
 |Exclamación|XXX|
 |Explosión|Explotan haciendo una herida a sí mismo y dos al contrario.|
 |Gota|Regenera una herida|
-|Luna|XXX|
-|Símbolo arcano|XXX|
+|Luna|Produce oscuridad en la zona de combate. No puedes lanzar tu dado a chocar, porque no lo ves. Aunque choques sin querer el dado el valor no cambia.|
+|Símbolo arcano|Unos tentáculos de otra dimension sujetan al dadomon de forma que aunque choquen con el no cambia de resultado.|
 |Sol|Deslumbra a su enemigo y este no actúa el siguiente turno.|
 |Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
+|Plus|Usando su energía positiva tu dadomon sube un nivel de dado hasta final de combate. No pueden superar d12 con este sistema.|
+|Minus|Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajar se de d4 con este sistema.|
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
 
