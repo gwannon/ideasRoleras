@@ -221,11 +221,11 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 
 |Símbolo|Habilidad|
 |---|---|
-|Ankh|XXX|
+|Ankh|El dadomon tiene sed de sangre vampírica y cuando sale el ankh debes volver a lanzar de nuevo el dado y chocarlo contra el otro dado para que pueda darle un mordisco y chuparle algo de sangre, incluso si es el dado defensor.|
 |Calavera|Su energía interdimensional niega todos los efectos activos de otros símbolos.|
 |Dragón|Puede volar con lo que no puede ser echado fuera de la zona de combate a no ser que sea derrotado.|
-|Estrella|XXX|
-|Exclamación|XXX|
+|Estrella|La suerte está de parte de tu Dadomon. Puedes volver a tirar tu dado sin chocarlo como si hubiera recibido una galleta dadomon.|
+|Exclamación|El dadomon crea un golpe sónico tan potente que lanza a sus contrincantes lejos. Puedes coger cualquier dado de la mesa y lanzarlo contra tu contrincante para intentar sacarlo del campo de batalla, pero su valor y sus consecuencias no cambian.|
 |Explosión|Explotan haciendo una herida a sí mismo y dos al contrario.|
 |Gota|Regenera una herida|
 |Luna|Produce oscuridad en la zona de combate. No puedes lanzar tu dado a chocar, porque no lo ves. Aunque choques sin querer el dado el valor no cambia.|
