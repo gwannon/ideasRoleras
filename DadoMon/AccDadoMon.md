@@ -74,11 +74,21 @@ XXX
 
 Como regla general, las entrenadoras son como dadómones de d8. Es decir, tiran siempre un d8, pero a diferencia de los dadómones suman la característica que mejor se ajuste a lo que quieren hacer.
 
-XXX
+Como regla general, **las entrenadoras son como dadómones de d8**. Es decir, tiran siempre un d8, pero a diferencia de los dadómones suman la característica que mejor se ajuste a lo que quieren hacer.
+
+Los dados de las entrenadoras y en general de todos los humanos que se encuentren, **no tienen ninguna capacidad especial**.
+
+No importa si color o diseño, el color de los números y sus símbolos. No afectan a la tirada para nada. Tampoco deben ser más grandes o pequeños de lo normal.
 
 ### Tiradas enfrentadas
 
-XXX
+Las tiradas enfrentadas se dan cuando dadómones y/o entrenadoras hacen **acciones enfrentadas**. En ese caso decidimos quien es la defensora y quien la atacante. Entonces tira la defensora y luego la atacante con la ventaja de poder chocar el dado del defensor. Gana la tirada la que más saque y en caso de empate, para compensar, gana la defensora.
+
+En las tiradas enfrentadas el único problema es **decidir quien es la defensora y quien la atacante**. En estos casos, el más activo será la defensora y el más pasivo la atacante. Por ejemplo, si una entrenadora quiere colarse en unas instalaciones de la Liga Dadomon custodiada por varios dadómones, la entrenadora será la atacante y los dadómones los defensores.
+
+Si hay varios elementos por cada lado (defensor o atacante), se tiran todos los dados de los elementos implicados. En el ejemplo anterior, si hay 3 dadómones guardianes se tiran tres dados por el dado de la defensa y luego un dado atacante por la atacante.
+
+Pueden darse situaciones en que no haya defensores, por ejemplo, en un típico concurso de quien aguanta más bebidas entre dos entrenadoras en un Centro Dadomon. En ese caso las dos entrenadoras son atacantes y se harán dos rondas seguidas. En una serás entrenador y en otra defensora. La que gane las dos rondas es la ganadora. Si empata porque cada una gana una ronda, se vuelve a repetir las dos rondas hasta que alguien gane definitivamente. Esto suele acabar en las dos entrenadoras tiradas en el suelo borrachas exaltando la amistad entre ellas.
 
 ### Combates de dadómones
 
@@ -87,6 +97,7 @@ XXX
 Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados. Puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
 XXX
+
 
 #### Salirse de la zona de combate
 
@@ -105,7 +116,6 @@ Salirse de la zona de combate puede interpretarse de muchas maneras según la si
 * Los dados montados (que no están totalmente planos) se vuelven a tirar. Si por chocar el dado defensor queda montado, puedes cogerlo y tirarlo.
 * Puedes poner reglas especiales a los campos de batalla sobre como tirar los dados. Quizás solo puedan dejarse caer desde arriba o tengas que usar un cubilete o una torre de dados improvisada.
 
-
 ### Galletas dadomon
 
 Cuando sacas del pozo de dadómones tanto DJ como entrenadoras un **d6 blanco con puntos negros**, en vez de salir un dadomon, has encontrado una **galleta dadomon**. Estas galletas te las guardas y se las puedes dar cuando quieras a los dadómones que controlas.
@@ -115,6 +125,7 @@ Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d
 El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y sin embargo no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
 
 > **Semilla de aventura:** Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizas tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
+
 
 
 ## Dadómones
@@ -137,25 +148,34 @@ Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de
 * **Color de los números:** El color de los números da habilidades especiales que pueden hacer que el dado sea un poco diferente. Quizas una herida más o que las galletas dadomon le afecten más.
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
 
+La ciencia lleva años tratando de desmentir sin éxito que los dadómones son más fuertes o más débiles según su tipo y el tipo de su dadomon contrincante. Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyendo que un dadomon eléctrico es fuerte contra los de agua y débil contra los de tierra. Por favor, es un animal vivo, no un pararrayos con toma de tierra. Pero bueno si la gente sigue leyendo el horóscopo, pues que se puede esperar.
 
 
-|Color/Diseño|Tipo|Característica|
+
+|Color|Tipo|Característica|
 |---|---|---|
 |Amarillo|XXX|XXX|
 |Azul|XXX|XXX|
 |Blanco|XXX|XXX|
 |Gris|XXX|XXX|
 |Marrón|XXX|XXX|
-|Morado|XXX|XXX|
+|Morado|Glamour|Son tan glamurosos, bonitos y cuquis que, si van contigo, te dan +1 a tus tiradas de Encanto.|
 |Naranja|XXX|XXX|
 |Negro|XXX|XXX|
 |Rojo|XXX|XXX|
 |Rosa|XXX|XXX|
 |Verde|XXX|XXX|
+
+|Diseño|Tipo|Característica|
+|---|---|---|
+|Ciberpunk|XXX|XXX|
+|Élfico|XXX|XXX|
+|Enano|XXX|XXX|
 |Marmoleado|XXX|XXX|
-|Metálico|XXX|XXX|
+|Metálico|Metal|Son muy resistentes y duros y con puntas y aristas afiladas, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo.|
 |Transparente|Fantasma|Son intangibles, ni pueden ser chocados ni pueden chocarse contra otros dados. Si lo hacen, el choque no vale y no modifica el valor del dado chocado.|
-|XXX|XXX|XXX|
+|Steampunk|XXX|XXX|
+
 |Color del número|Extra|
 |---|---|
 |Amarillo|XXX|
@@ -179,6 +199,7 @@ Si el dado tiene símbolos en vez de números, por ejemplo un d6 con una calaver
 
 Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el símbolo. En este turno, podrá usar su habilidad especial o volver a tirar, ya que no te interesa en ese momento usar la habilidad. Tal vez sale una gota de sangre y como no tienes heridas no te interesa regenerarla.
 
+
 |Símbolo|Habilidad|
 |---|---|
 |Ankh|XXX|
@@ -189,11 +210,12 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Explosión|Explotan haciendo una herida a sí mismo y dos al contrario.|
 |Gota|Regenera una herida|
 |Luna|Produce oscuridad en la zona de combate. No puedes lanzar tu dado a chocar, porque no lo ves. Aunque choques sin querer el dado el valor no cambia.|
-|Símbolo arcano|Unos tentáculos de otra dimensión sujetan al dadomon de manera que aunque choquen con él no cambia de resultado.|
+|Símbolo arcano|Unos tentáculos de otra dimensión sujetan al dadomon al suelo de manera que no se puede coger y tirar y aunque choquen con él no cambia de resultado. Tienes que volver a tirar el dado y ese es el resultado del dado hasta el final del combate.|
 |Sol|Deslumbra a su enemigo y este no actúa el siguiente turno.|
 |Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
 |Plus|Usando su energía positiva tu dadomon sube un nivel de dado hasta final de combate. No pueden superar d12 con este sistema.|
 |Minus|Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.|
+
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
 
@@ -207,8 +229,8 @@ Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que ten
 
 XXX
 
-Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. 
 
+Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. 
 
 Los pasos a seguir son:
 
@@ -220,8 +242,6 @@ Los pasos a seguir son:
 6. Si el **dado de domesticar se sale del campo de batalla, falla directamente**. Si el **dado del dadomon se sale de la zona de combate** al tratar de domesticarlo, este **escapa para no volver** en bastante tiempo.
 
 Lo curioso de todo esto es que nadie llevamos miles de años XXX
-
-[![Hurtchin By Dragonit](./images/hurtchin_by_dragonith_ddcandq.png "Hurtchin By Dragonit")](https://www.deviantart.com/dragonith/art/Hurtchin-806712542 "Hurtchin By Dragonit")
 
 ### Evolución de tus dadómones
 
@@ -244,6 +264,8 @@ Otra manera de evolucionar es darle otro dado con el mismo número de caras, per
 Al evolucionar un dadomon, su entrenadora podrá buscar dentro del pozo o en otras bolsas de dados un dado con las mismas características pero un rango mayor de caras.
 
 
+[![Hurtchin By Dragonit](./images/hurtchin_by_dragonith_ddcandq.png "Hurtchin By Dragonit")](https://www.deviantart.com/dragonith/art/Hurtchin-806712542 "Hurtchin By Dragonit")
+
 En caso de encontrar varios, podrá elegir el que más le guste pudiendo por ejemplo ganar o perder tamaño y/o conservar sus símbolos, perderlos o ganar otros nuevos.
 
 > Puedes darse la situación que una entrenadora se traiga un dado de casa para sacarlo a la hora de la evolución. Cómo DJ no deberías permitirlo, quieres deshacerte de dados, no que te traigan más.
@@ -262,7 +284,9 @@ XXX
 
 ### Cuidado de tus dadómones
 
-XXX
+Los cuidados básicos de los dadómones son los mismos que una mascota: darle de comer, de beber, mimos, cariño, sacarlos a pasear y hacer sus cositas y llevarlos a un Centro Dadomon cuando están heridos o enfermos. Si una niña de 10 años puede hacerlo, cualquiera puede hacerlo.
+
+Aunque la Liga Dadomon patento la tecnología que permite meter a los dadómones en pequeñas cápsulas donde quedan en estado de éxtasis para transportarlos fácilmente, la mayoría de las entrenadoras prefieren no usarlas por la crueldad que supone meter a sus «mascotas» en estas pequeñas jaulas de tortura. Solo las entrenadoras más sádicas las usan con sus dadómones.
 
 > **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden pues mejor.
 
@@ -280,6 +304,16 @@ Así, un típico dado de vampiro rojo marmoleado con números negros, sería un 
 
 
 XXX
+
+### Inscripción en la Liga Dadomon
+
+XXX
+
+#### Dadodex
+
+En los primeros años de la Liga Dadomon, cuando te apuntabas, te daban una «Dadodex», un extraño miniordenador portátil que registraba tu actividad en la Liga Dadomon, hasta que un genio de contabilidad, decidió que eso era un gasto inútil y pasaron a crear una app «Dadodex» que instalas en tu móvil.
+
+Los conspiranoicos dadomon están convencidos de que la app está llena de «spyware» que registra toda tu actividad y tus datos y lo vende a grandes corporaciones. De hecho, si te fijas al encontrar un «azunegido» no dejan de llegarte spam de tiendas online vendiéndote comida, abriguitos, collares, etc. para tu recién domesticado «azunegido». 
 
 ### Centros Dadomon
 
@@ -302,6 +336,33 @@ XXX
 XXX
 
 
+### La verdad de la Liga Dadomon
+
+**SOLO LEER SI VAS A DIRIGIR A ESTE JUEGO**
+
+XXX
+
+#### Industria armamentista
+
+La Liga Dadomon fue montada por un conglomerado de empresas armamentísticas que la subvencionan para mejorar las especies dadomon y poder usarlos como armas.
+
+XXX
+
+Esto explicaría la Liga Dadomon pueda gastar ingentes cantidades de dinero sin tener unos beneficios claros. Todo aquel que ha investigado esta trama ha muerto o ha desaparecido.
+
+> **Semilla de aventura:** Una amiga periodista de una de las entrenadoras, quiere quedar para hablar de un notición que ha descubierto que podría acabar con la Liga Dadomon. Sin embargo no acude a la cita y no contesta a las llamadas. Quizas deban investigar su desaparición.
+
+#### Equipo Misil
+
+El Equipo Misil es una organización terrorista que se dedica a robar dadómones a las entrenadoras inscritas en la Liga Dadomon, o eso dicen los medios afines y pagados por la Liga Dadomon.
+
+Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y por tanto con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
+
+XXX
+
+> Lo normal si tus jugadoras son buena gente es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
+
+
 
 ## Licencia
 
@@ -313,6 +374,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
 
+
 ## Créditos
 
 
@@ -323,4 +385,42 @@ XXX
 ## Generador de dadómones
 
 
-XXX
+### Diseño
+
+|d20|Diseño|
+|---|---|
+|1-10|Color solido: tira en laa tabla de color.|
+|XXX|XXX|
+
+### Color
+
+|dXXX|Color|
+|---|---|
+|XXX|XXX|
+
+### Color de los números
+
+|dXXX|Color de los números|
+|---|---|
+|XXX|XXX|
+
+### Número de caras
+
+|dXXX|Número de caras|
+|---|---|
+|XXX|XXX|
+
+### Símbolos
+
+|d20|Símbolo|
+|---|---|
+|1-10|No tiene|
+|XXX|XXX|
+
+### Tamaño
+
+|d6|Tamaño|
+|---|---|
+|1|Pequeño|
+|2-5|Normal|
+|6|Grande|
