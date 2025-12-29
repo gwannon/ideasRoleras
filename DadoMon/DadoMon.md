@@ -84,7 +84,11 @@ XXX
 
 Como regla general, las entrenadoras son como dadómones de d8. Es decir, tiran siempre un d8, pero a diferencia de los dadómones suman la característica que mejor se ajuste a lo que quieren hacer.
 
-XXX
+Como regla general, **las entrenadoras son como dadómones de d8**. Es decir, tiran siempre un d8, pero a diferencia de los dadómones suman la característica que mejor se ajuste a lo que quieren hacer.
+
+Los dados de las entrenadores y en general de todos los humanos que se encuentren, **no tienen ninguna capacidad especial**.
+
+No importa si color o diseño, el color de los números y sus símbolos. No afectan a la tirada para nada. Tampoco deben ser más grandes o pequeños de lo normal.
 
 ### Tiradas enfrentadas
 
