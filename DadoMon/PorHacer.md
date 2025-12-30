@@ -1,33 +1,29 @@
-|Símbolo|Habilidad|
-|---|---|
-|Ankh|XXX|
-|Calavera|XXX|
-|Dragón|XXX|
-|Estrella|XXX|
-|Exclamación|XXX|
-|Explosión|Explotan haciendo una herida a sí mismo y dos al contrario.|
-|Gota|Regenera una herida|
-|Luna|XXX|
-|Símbolo arcano|XXX|
-|Sol|Deslumbra a su enemigo y este no actúa el siguiente turno.|
-|Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
-
----
-
-### Dadómones legendarios
-
-Los d20 debido al salto de valor que hay con el resto de dadómones no son dadómones normales, son **dadómones legendarios** y, como ya hemos dicho, habría que meter en la bolsa solo 1 un d20.
+### Tiradas de los dadómones
 
 XXX
 
-### Otros tipos de dados
+## Dadómones
 
-Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es un preevolución.
+\conc
+
+Nuestro mundo está poblado de miles de dadómones que corren por sus praderas, escalan sus montañas, surcan sus cielos y atraviesan sus mares. Hay catalogadas miles de especies y las científicas dadomon encuentran nuevas especies de dadómones cada día.
+
+La ficha del dadomon es el propio dado, ya que con su forma y su color marca su tipo y su nivel de poder.
 
 XXX
 
-### Cuidado de tus dadómones
+### Atrapar dadómones y domesticarlos
+
+Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que tendrás que salir de las zonas urbanas y adentrarte en campos, montañas, ríos, mares y lagos y ponerte a buscarlos.
 
 XXX
 
-> **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden pues mejor.
+### Inscripción en la Liga Dadomon
+
+XXX
+
+### Centros Dadomon
+
+XXX
+
+> En los centros dadomon puedes curar a todos tus dadómones de sus heridas y sus enfermedades, siempre que sean normales. Si la trama de tu aventura es que una extraña diarrea dadomon está haciendo que los dadómones no puedan combatir porque tienen apretones en mitad de las peleas y salen corriendo «pipi-dadomon» a hacer sus cositas, pues esa diarrea no la curan en un centro Dadomon.
