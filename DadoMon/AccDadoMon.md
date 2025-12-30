@@ -226,9 +226,13 @@ No deberías meter en el pozo los dados que tengan más de dos símbolos, como d
 
 Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que tendrás que salir de las zonas urbanas y adentrarte en campos, montañas, ríos, mares y lagos y ponerte a buscarlos.
 
+Lo primero es que la entrenadora saque un dadomon del pozo y lo entregue a la DJ sin verlo. Tendŕa algunaa idea de que ha sacado, pero no sabrá que colores ni si hay símbolos.
+
 XXX
 
-Cuando encuentras un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. 
+Si te acompaña un dadomon del mismo tipo del que ha scado el Dj debe sumar, sin decirselo a la entrenadora, +1 a la tirada de buscarlo.
+
+Una vez descubres un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. 
 
 Los pasos a seguir son:
 
@@ -245,12 +249,12 @@ Lo curioso de todo esto es que a nadie en miles de años, desde que los humanos 
 
 No hay límite de dadómones domesticados por entrenadora, pero pensad que hay que cuidarlos a todos y si vas a intentar infiltrarte en una secreta instalación de la Liga Dadomon con 20 dadómones no va a ser muy sigiloso. Lo normal es que salgan de viaje de entrenamiento con todos tus dadómones, pero solo lleve 3 a las aventuras y deje el resto en la guardería del Centro Dadomon.
 
+
 ### Evolución de tus dadómones
 
 La evolución de un dadomon simplemente se consigue aumentando el número de caras y ese aumento es una elección que debe tomar tú como DJ.
 
 Cuando crea que puede **quedar bien en la trama** puede darle la oportunidad a su entrenadora de **evolucionar su dadomon** y coger un dado de las mismas características, pero con más caras.
-
 
 Estas pueden ser algunas situaciones en que dar una evolución:
 
@@ -282,12 +286,12 @@ Los dadómones legendarios tienen reglas especiales:
 * Deberías tratar de que los legendarios tengan varios símbolos. Si no tienes d20 con símbolos, píntalos con rotulador o ponle pegatinas.
 * Normalmente no tienen campo de batalla, con lo que toda la mesa de juego es su campo de batalla.
 
+
 ### Otros tipos de dados
 
 Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es un preevolución.
 
 Incluso, puedes meter combinaciones de dados como un d100 o un d66 y usarlos para ultra-super- dadómones legendarios o para simular una gran plataforma voladora armada hasta arriba de cañones que usa la villana de la aventura para imponer su ley.
-
 
 ### Cuidado de tus dadómones
 
@@ -321,12 +325,12 @@ En los primeros años de la Liga Dadomon, cuando te apuntabas, te daban una «Da
 
 Los conspiranoicos dadomon están convencidos de que la app está llena de «spyware» que registra toda tu actividad y tus datos y lo vende a grandes corporaciones. De hecho, si te fijas al encontrar un «azunegido» no dejan de llegarte spam de tiendas online vendiéndote comida, abriguitos, collares, etc. para tu recién domesticado «azunegido». 
 
+
 ### Centros Dadomon
 
 XXX
 
 > En los centros dadomon puedes curar a todos tus dadómones de sus heridas y sus enfermedades, siempre que sean normales. Si la trama de tu aventura es que una extraña diarrea dadomon está haciendo que los dadómones no puedan combatir porque tienen apretones en mitad de las peleas y salen corriendo «pipi-dadomon» a hacer sus cositas, pues esa diarrea no la curan en un centro Dadomon.
-
 
 Una cosa que puede terminar llamando la atención a tus entrenadoras es que los Centros dadomon siempre tienen una zona restringida con sistemas de seguridad y videovigilancia, puertas blindadas, escáneres de retina, etc. Normalmente entran camiones y cajas gigantes con el logo de la Liga Dadomon en estas zonas. Sin embargo, si vigilas estas zonas casi nunca sale nada de ellas y cuando sale normalmente son cantidades ingentes de material, como si estuvieran vaciando esa parte de las instalaciones.  
 
@@ -364,8 +368,8 @@ Esto también explicaría por qué casi todas las villanas a las que se enfrenta
 
 El Equipo Misil es una organización terrorista que se dedica a robar dadómones a las entrenadoras inscritas en la Liga Dadomon, o eso dicen los medios afines y pagados por la Liga Dadomon.
 
-Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y por tanto con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
+Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y por tanto con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
 El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas son ningún tipo de problema.
 
