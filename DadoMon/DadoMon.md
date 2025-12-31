@@ -106,6 +106,8 @@ Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando a
 
 \sp
 
+Un dadomon aguanta tantas heridas como su número de caras entre dos.es decir que un d4 aguanta 2 heridas y un d12 6 heridas, pero hay tipos que pueden aguantar alguna herida más.
+
 XXX
 
 #### Curar heridas
@@ -128,6 +130,7 @@ Salirse de la zona de combate puede interpretarse de muchas maneras según la si
 * Ninguna regla impide que los campos de batalla estén inclinados, sean elásticos, vibren, estén acolchados, … Sé creativo en este tema. Por ejemplo una zona de combate inclinada, puede hacer que los d4 y d6 no rueden, pero dados de más caras rueden y se salgan, quedando descalificados.
 * Los dados montados (que no están totalmente planos) se vuelven a tirar. Si por chocar el dado defensor queda montado, puedes cogerlo y tirarlo.
 * Puedes poner reglas especiales a los campos de batalla sobre como tirar los dados. Quizás solo puedan dejarse caer desde arriba o tengas que usar un cubilete o una torre de dados improvisada.
+* Hay situaciones y tipos de dadómones que hacen que no puedan ser chocados. Puedes poner un vasito encima de ese dado para que aunque choquen no lo muevan.
 
 ### Galletas dadomon
 
@@ -135,11 +138,11 @@ Cuando sacas del pozo de dadómones tanto DJ como entrenadoras un **d6 blanco co
 
 Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d6. Puedes usar ese d6 después de saber si has fallado una tirada y puedes chocarlo contra el dado de contrincante o tu propio dado para moverlo y conseguir otro resultado. Como siempre si la galleta dadomon sale del campo de batalla, tu dadomon no la ha atrapado y no se la ha podido comer.
 
+\sp
+
 El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y sin embargo no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
 
 > **Semilla de aventura:** Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizas tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
-
-\sp
 
 \sinc
 
@@ -173,22 +176,22 @@ La ciencia lleva años tratando de desmentir sin éxito que los dadómones son m
 |Color|Tipo|Característica|
 |---|---|---|
 |Amarillo|Urbano|XXX|
-|Azul|Agua|XXX|
+|Azul|Agua|Gracias a ellos puedes nadar muy rápido y respiras bajo el agua. Si son grandes incluso podrías hacer surf encima.|
 |Blanco|Aire|XXX|
-|Gris|Normal|XXX|
+|Gris|Normal|Son fáciles de domesticar y no le importa cómo seas. Puedes hacer la tirada de domesticar aplicando la característica que quieras.|
 |Marrón|Tierra|XXX|
 |Morado|Glamour|Son tan glamurosos, bonitos y cuquis que, si van contigo, te dan +1 a tus tiradas de Encanto al seducir, encandilar y coquetear.|
 |Naranja|Combate|Son grandes combatientes y saben montones de movimientos de artes marciales, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
 |Negro|Sombra|Su oscuridad te rodea siempre de manera que te otorgan +1 a las tiradas de Cuerpo al esconderte, moverte en las sombras y perseguir sigilosamente a un objetivo.|
-|Rojo|Fuego|XXX|
-|Rosa|Mente|XXX|
+|Rojo|Fuego|Te hacen inmune al calor y al fuego normales, pudiendo andar incluso sobre lava de un volcán.|
+|Rosa|Mente|Sus poderosas ondas cerebrales interfieren en los intentos de controlarte mentalmente, dándote un +1 a Mente.|
 |Verde|Planta|Los conocimientos de herbología que te pueden dar, suponen un +1 a las tiradas de Mente a la hora de diagnosticar y curar heridas y enfermedades.|
 
 |Diseño|Tipo|Característica|
 |---|---|---|
 |Ciberpunk|Internet|Con sus conectores y wifis la tecnología no tienen secretos, te dan +1 a tus tiradas de Mente al usar computadoras y hackear.|
 |Élfico|Hada|XXX|
-|Enano|Gema|XXX|
+|Enano|Gema|Eructan, escupen o defecan gemas con lo que puedes comprar cosas de mayor precio y calidad de lo normal. Podrías, por ejemplo, irte a un hotel en vez de dormir con otras entrenadoras en el Centro dadomon local.|
 |Marmoleado|Vampiro|XXX|
 |Metálico|Metal|Son muy resistentes y duros y con puntas y aristas afiladas, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
 |Transparente|Fantasma|Son intangibles, ni pueden ser chocados ni pueden chocarse contra otros dados. Si lo hacen, el choque no vale y no modifica el valor del dado chocado.|
@@ -202,11 +205,11 @@ La ciencia lleva años tratando de desmentir sin éxito que los dadómones son m
 
 |Color del número|Extra|
 |---|---|
-|Amarillo|XXX|
+|Amarillo|No tiene cara con el 1 en su lugar tiene otro 2.|
 |Azul|XXX|
 |Blanco|XXX|
-|Gris|XXX|
-|Marrón|XXX|
+|Gris|Cuando le lanzas una galleta dadomon tiras un 2d6 y te quedas con el que quieras.|
+|Marrón|Cuando entra en una zona de combate, su entrenador pone un post-it pegado al campo de batalla donde quiera.|
 |Morado|XXX|
 |Naranja|XXX|
 |Negro|Cuando le lanzas una galleta dadomon tiras un d8 en vez de un d6.|
@@ -263,7 +266,7 @@ Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que ten
 
 Lo primero es que la entrenadora saque un dadomon del pozo y lo entregue a la DJ sin verlo. Tendrá alguna idea de que ha sacado, pero no sabrá que colores ni si hay símbolos.
 
-A partir de ese momento, tendrá que rastrearlo, encontrarlo y hacerlo salir. Quizás hacer que tus dadómones voladores sobrevuelen la zona o dejando un cebo de comida o de galletas dadomon.
+A partir de ese momento, tendrá que rastrearlo, encontrarlo y hacerlo salir. Quizás hacer que tus dadómones voladores sobrevuelen la zona para  buscarlo o dejando un cebo de comida o de galletas dadomon.
 
 En ese momento la DJ podrá pedir una tirada a la entrenadora para ver si descubre al dadomon salvaje escondido. Si tratan de hacer trampas o usar trucos podrán sumar Mente, tal vez Cuerpo si ha estado subiéndose a los árboles o corriendo o Encanto si ha intentado llamarle y atraerlo con comida.
 
@@ -286,9 +289,9 @@ Lo curioso de todo esto es que a nadie en miles de años, desde que los humanos 
 
 |Característica|Tipo|
 |---|---|
-|Cuerpo|XXX|
-|Mente|XXX|
-|Encanto|XXX|
+|Cuerpo|Agua, Combate, Fuego, Metal, Sombra, Tierra,|
+|Mente|Aire, Fantasma, Internet, Mente, Planta, Vapor|
+|Encanto|Gema, Glamour, Hada, Urbano, Vampiro|
 
 #### Dadómones por entrenador
 
@@ -362,7 +365,11 @@ Así, un típico dado de vampiro rojo marmoleado con números negros, sería un 
 
 \conc
 
+La gran mayoría de aventuras de tus entrenadoras se centrarán en sus andanzas por el mundo compitiendo en la Liga Dadomon, combatiendo contra otras entrenadoras y jefas de gimnasio, consiguiendo pines de batallas y evolucionando sus dadómones. Es por ello que es importante explicar que es la Liga Dadomon.
+
 XXX
+
+Aun así, no queremos decir que tus aventuras siempre tengan que ver con la Liga Dadomon. Tus entrenadoras podrían visitar unas ruinas perdidas donde se sacrificaban personas a dadómones legendarios o rescates a unos dadómones que han sido secuestrados por el Equipo Misil o encuentres. Quizás una científica loca que jura y perjura que una enigmática corporación con un nombre estúpido como Luna, Sombra o Zafiro le ha robado sus estudios para evolucionar dadómones.
 
 ### Inscripción en la Liga Dadomon
 
@@ -388,6 +395,8 @@ La teoría principal entre los conspiranoicos dadomon es que estás instalacione
 
 XXX
 
+\sp
+
 Como siempre los conspiranoicos tiene su propia teoría: la Liga Dadomon entrega los gimnasios a «influencers» con millones de seguidores, no realmente grandes maestras dadomon con gran experiencia en los combates/entrenamiento dadomon.
 
 Pocos jefes de gimnasio tienen menos de dos millones de seguidores en las redes sociales. Pero la Liga ha contestado siempre que es al revés son «influencers» porque son jefes de gimnasio. Sea como sea, es sabido que si caes en seguidores pierdes tu gimnasio.
@@ -400,15 +409,13 @@ XXX
 
 XXX
 
-\sp
-
 \sinc
 
 ## La verdad de la Liga Dadomon
 
-**SOLO LEER SI VAS A DIRIGIR A ESTE JUEGO**
-
 \conc
+
+**SOLO LEER SI VAS A DIRIGIR A ESTE JUEGO**
 
 En este apartado se detallan todos los sucios secretos que esconde la Liga Dadomon y a los que deberán enfrentarse tus entrenadoras.
 
@@ -428,6 +435,8 @@ El Equipo Misil es una organización terrorista que se dedica a robar dadómones
 
 Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y por tanto con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
+\sp
+
 El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas son ningún tipo de problema.
 
 > Lo normal, si tus jugadoras son buena gente, es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
@@ -435,8 +444,6 @@ El equipo Misil es un reducto de libertad donde todas las personas tienen cabida
 ### Copas guionizadas
 
 Cada año durante la copa siempre hay una gran entrenadora, un tapado por el que nadie da nada, una villana y toda una serie de personajes menores divertidos que llegan lejos, pero nunca ganan. Eso es porque un equipo de guionistas se dedica a montar todas esas tramas y presiona a los jefes de gimnasios para que fuercen ciertas situaciones, como que alguien gane en el último momento, u otro sea arrollador en todos sus combates.
-
-\sp
 
 Además el montaje y la voz en «off» de los reportajes de la Liga Dadomon manipula las aventuras de las entrenadoras para reforzar el guion que han montado para cada temporada.
 
