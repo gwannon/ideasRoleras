@@ -94,8 +94,12 @@ XXX
 
 Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados. Puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
+
 XXX
 
+#### Curar heridas
+
+XXX
 
 #### Salirse de la zona de combate
 
@@ -142,7 +146,7 @@ XXX
 Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
 
 * **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderoso. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
-* **Color/Diseño:** XXX. El diseño (marmoleado, transparente, moteado, metálico, …) tiene preferencia sobre el color a la hora de mirar el tipo.
+* **Color/Diseño:** El color/diseño marca su tipo. El diseño (marmoleado, transparente, moteado, metálico, …) tiene preferencia sobre el color a la hora de mirar el tipo.
 * **Color de los números:** El color de los números da habilidades especiales que pueden hacer que el dado sea un poco diferente. Quizas una herida más o que las galletas dadomon le afecten más.
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
 
@@ -158,21 +162,24 @@ La ciencia lleva años tratando de desmentir sin éxito que los dadómones son m
 |Gris|Normal|XXX|
 |Marrón|Tierra|XXX|
 |Morado|Glamour|Son tan glamurosos, bonitos y cuquis que, si van contigo, te dan +1 a tus tiradas de Encanto al seducir, encandilar y coquetear.|
-|Naranja|Combate|XXX|
+|Naranja|Combate|Son grandes combatientes y saben montones de movimientos de artes marciales, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
 |Negro|Sombra|Su oscuridad te rodea siempre de manera que te otorgan +1 a las tiradas de Cuerpo al esconderte, moverte en las sombras y perseguir sigilosamente a un objetivo.|
 |Rojo|Fuego|XXX|
 |Rosa|Mente|XXX|
-|Verde|Planta|XXX|
+|Verde|Planta|Los conocimientos de herbología que te pueden dar, suponen un +1 a las tiradas de Mente a la hora de diagnosticar y curar heridas y enfermedades.|
 
 |Diseño|Tipo|Característica|
 |---|---|---|
 |Ciberpunk|Internet|Con sus conectores y wifis la tecnología no tienen secretos, te dan +1 a tus tiradas de Mente al usar computadoras y hackear.|
 |Élfico|Hada|XXX|
-|Enano|XXX|XXX|
+|Enano|Gema|XXX|
 |Marmoleado|Vampiro|XXX|
 |Metálico|Metal|Son muy resistentes y duros y con puntas y aristas afiladas, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
 |Transparente|Fantasma|Son intangibles, ni pueden ser chocados ni pueden chocarse contra otros dados. Si lo hacen, el choque no vale y no modifica el valor del dado chocado.|
-|Steampunk|XXX|XXX|
+|Steampunk|Vapor|XXX|
+
+
+
 
 |Color del número|Extra|
 |---|---|
@@ -217,8 +224,12 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
 
-* XXX
+* El símbolo puede curar una herida o hacer una herida extra.
+* El símbolo puede hacer que sea imposible de chocar o que tenga una nueva oportunidad de volver a chocar.
 
+
+* Puedes dar un efecto parecido a una galleta dadomon a la siguiente tirada.
+* Puedes hacer perder el turno al contrincante.
 
 No deberías meter en el pozo los dados que tengan más de dos símbolos, como dados de wargames o juegos de tablero. Puedes usar estos dados en determinadas circunstancias, por ejemplo, se enfrentan contra dadómones creados genéticamente en unos laboratorios, ciber-dadómones o, quizas, venga de otra dimensión o de otro tiempo como el futuro o la prehistoria.
 
@@ -226,11 +237,13 @@ No deberías meter en el pozo los dados que tengan más de dos símbolos, como d
 
 Antes de poder domesticar un dadomon, tienes que encontrarlo. Eso supone que tendrás que salir de las zonas urbanas y adentrarte en campos, montañas, ríos, mares y lagos y ponerte a buscarlos.
 
-Lo primero es que la entrenadora saque un dadomon del pozo y lo entregue a la DJ sin verlo. Tendŕa algunaa idea de que ha sacado, pero no sabrá que colores ni si hay símbolos.
+Lo primero es que la entrenadora saque un dadomon del pozo y lo entregue a la DJ sin verlo. Tendrá alguna idea de que ha sacado, pero no sabrá que colores ni si hay símbolos.
 
-XXX
+A partir de ese momento, tendrá que rastrearlo, encontrarlo y hacerlo salir. Quizás hacer que tus dadómones voladores sobrevuelen la zona o dejando un cebo de comida o de galletas dadomon.
 
-Si te acompaña un dadomon del mismo tipo del que ha scado el Dj debe sumar, sin decirselo a la entrenadora, +1 a la tirada de buscarlo.
+En ese momento la DJ podrá pedir una tirada a la entrenadora para ver si descubre al dadomon salvaje escondido. Si tratan de hacer trampas o usar trucos podrán sumar Mente, tal vez Cuerpo si ha estado subiéndose a los árboles o corriendo o Encanto si ha intentado llamarle y atraerlo con comida.
+
+Si te acompaña un dadomon del mismo tipo del que ha sacado la DJ debe sumar, sin decírselo a la entrenadora, +1 a la tirada de buscarlo.
 
 Una vez descubres un dadomon salvaje, puedes domesticarlo para que luche para ti. El proceso de domesticación es rápido y sencillo, pero no deja de tener su estrategia. 
 
@@ -245,10 +258,16 @@ Los pasos a seguir son:
 
 Lo curioso de todo esto es que a nadie en miles de años, desde que los humanos pisan la tierra, se le ha ocurrido montar criaderos de dadómones para que ya estén domesticados y poder venderlos a las entrenadoras. Sin embargo, tu dadomon inicial sí está domesticado cuando te lo entregan, con lo que sí debe haber instalaciones de la Liga Dadomon donde se domestican los dadómones iniciales.
 
+
+|Característica|Tipo|
+|---|---|
+|Cuerpo|XXX|
+|Mente|XXX|
+|Encanto|XXX|
+
 #### Dadómones por entrenador
 
 No hay límite de dadómones domesticados por entrenadora, pero pensad que hay que cuidarlos a todos y si vas a intentar infiltrarte en una secreta instalación de la Liga Dadomon con 20 dadómones no va a ser muy sigiloso. Lo normal es que salgan de viaje de entrenamiento con todos tus dadómones, pero solo lleve 3 a las aventuras y deje el resto en la guardería del Centro Dadomon.
-
 
 ### Evolución de tus dadómones
 
@@ -276,6 +295,7 @@ En caso de encontrar varios, podrá elegir el que más le guste pudiendo por eje
 
 > Puedes darse la situación que una entrenadora se traiga un dado de casa para sacarlo a la hora de la evolución. Cómo DJ no deberías permitirlo, quieres deshacerte de dados, no que te traigan más.
 
+
 ### Dadómones legendarios
 
 Los d20 debido al salto de valor que hay con el resto de dadómones no son dadómones normales, son **dadómones legendarios** y, como ya hemos dicho, habría que meter en la bolsa solo 1 un d20.
@@ -285,7 +305,6 @@ Los dadómones legendarios tienen reglas especiales:
 * Un dadomon legendario no puede ser domesticado normalmente, debes establecer algún tipo de disparador como que sacrifiques todos tus dadómones en su honor o que pases 3 años en una cueva sin hablar.
 * Deberías tratar de que los legendarios tengan varios símbolos. Si no tienes d20 con símbolos, píntalos con rotulador o ponle pegatinas.
 * Normalmente no tienen campo de batalla, con lo que toda la mesa de juego es su campo de batalla.
-
 
 ### Otros tipos de dados
 
@@ -310,6 +329,7 @@ Pueden ponerles el nombre que quieras, pero si no quieres complicarte puedes seg
 Así, un típico dado de vampiro rojo marmoleado con números negros, sería un «Rojnegado». Un dado naranja con números blancos transparente sería un «Narblante».
 
 
+
 ## Liga Dadomon
 
 
@@ -321,10 +341,9 @@ XXX
 
 #### Dadodex
 
-En los primeros años de la Liga Dadomon, cuando te apuntabas, te daban una «Dadodex», un extraño miniordenador portátil que registraba tu actividad en la Liga Dadomon, hasta que un genio de contabilidad, decidió que eso era un gasto inútil y pasaron a crear una app «Dadodex» que instalas en tu móvil.
+En los primeros años de la Liga Dadomon, cuando te apuntabas, te daban una «Dadodex», un extraño miniordenador portátil que registraba tu actividad en la Liga Dadomon. Las «dadodex» duraron duro hasta que un genio de contabilidad, decidió que eso era un gasto inútil y pasaron a crear una app «Dadodex» que instalas en tu móvil.
 
 Los conspiranoicos dadomon están convencidos de que la app está llena de «spyware» que registra toda tu actividad y tus datos y lo vende a grandes corporaciones. De hecho, si te fijas al encontrar un «azunegido» no dejan de llegarte spam de tiendas online vendiéndote comida, abriguitos, collares, etc. para tu recién domesticado «azunegido». 
-
 
 ### Centros Dadomon
 
@@ -340,6 +359,10 @@ La teoría principal entre los conspiranoicos dadomon es que estás instalacione
 
 XXX
 
+Como siempre los conspiranoicos tiene su propia teoría: la Liga Dadomon entrega los gimnasios a «influencers» con millones de seguidores, no realmente grandes maestras dadomon con gran experiencia en los combates/entrenamiento dadomon.
+
+Pocos jefes de gimnasio tienen menos de dos millones de seguidores en las redes sociales. Pero la Liga ha contestado siempre que es al revés son «influencers» porque son jefes de gimnasio. Sea como sea, es sabido que si caes en seguidores pierdes tu gimnasio.
+
 ### Combates de entrenadores
 
 XXX
@@ -348,13 +371,16 @@ XXX
 
 XXX
 
-### La verdad de la Liga Dadomon
+
+
+## La verdad de la Liga Dadomon
 
 **SOLO LEER SI VAS A DIRIGIR A ESTE JUEGO**
 
+
 En este apartado se detallan todos los sucios secretos que esconde la Liga Dadomon y a los que deberán enfrentarse tus entrenadoras.
 
-#### Industria armamentista
+### Industria armamentista
 
 La Liga Dadomon fue montada por un conglomerado de empresas armamentísticas que la subvencionan para mejorar las especies dadomon y poder usarlos como armas.
 
@@ -364,16 +390,26 @@ Esto también explicaría por qué casi todas las villanas a las que se enfrenta
 
 > **Semilla de aventura:** Una amiga periodista de una de las entrenadoras, quiere quedar para hablar de un notición que ha descubierto que podría acabar con la Liga Dadomon. Sin embargo no acude a la cita y no contesta a las llamadas. Quizas deban investigar su desaparición.
 
-#### Equipo Misil
+### Equipo Misil
 
 El Equipo Misil es una organización terrorista que se dedica a robar dadómones a las entrenadoras inscritas en la Liga Dadomon, o eso dicen los medios afines y pagados por la Liga Dadomon.
-
 
 Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y por tanto con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
 El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas son ningún tipo de problema.
 
-> Lo normal si tus jugadoras son buena gente es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
+> Lo normal, si tus jugadoras son buena gente, es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
+
+### Copas guionizadas
+
+Cada año durante la copa siempre hay una gran entrenadora, un tapado por el que nadie da nada, una villana y toda una serie de personajes menores divertidos que llegan lejos, pero nunca ganan. Eso es porque un equipo de guionistas se dedica a montar todas esas tramas y presiona a los jefes de gimnasios para que fuercen ciertas situaciones, como que alguien gane en el último momento, u otro sea arrollador en todos sus combates.
+
+
+Además el montaje y la voz en «off» de los reportajes de la Liga Dadomon manipula las aventuras de las entrenadoras para reforzar el guion que han montado para cada temporada.
+
+De hecho ha habido situaciones en las que la propia Liga Dadomon ha usado gran cantidad de recursos para que las entrenadoras acaben en zonas de guerra y de desastres donde ayudan con sus dadómones. También ha habido temporadas en que han contratado a actrices para meter tramas románticas en las aventuras de las entrenadoras que querían resaltar.
+
+No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon extrañas fueran creadas por la propia Liga Dadomon para probarlas en campo y de paso meter drama a las historias.
 
 
 
@@ -398,6 +434,24 @@ Este juego no sería tal como es sin las ideas de:
 
 ## Generador de dadómones
 
+
+### Número de caras
+
+|d12|Número de caras|
+|---|---|
+|1-2|4 caras|
+|3-6|6 caras|
+|7-8|8 caras|
+|9-10|10 caras|
+|11-12|12 caras|
+
+### Tamaño
+
+|d6|Tamaño|
+|---|---|
+|1|Pequeño|
+|2-5|Normal|
+|6|Grande|
 
 ### Diseño
 
@@ -445,16 +499,6 @@ Este juego no sería tal como es sin las ideas de:
 |11|Verde|
 |12|Desgastado|
 
-### Número de caras
-
-|dX12|Número de caras|
-|---|---|
-|1-2|4 caras|
-|3-6|6 caras|
-|7-8|8 caras|
-|9-10|10 caras|
-|11-12|12 caras|
-
 ### Símbolos
 
 |d66|Símbolo|
@@ -475,11 +519,3 @@ Este juego no sería tal como es sin las ideas de:
 |66|Sol|
 
 Luego tira un dado: par el símbolo está en el 1, impar está en valor mayor del dado.
-
-### Tamaño
-
-|d6|Tamaño|
-|---|---|
-|1|Pequeño|
-|2-5|Normal|
-|6|Grande|
