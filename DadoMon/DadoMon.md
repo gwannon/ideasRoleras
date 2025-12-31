@@ -407,7 +407,21 @@ XXX
 
 ### Copa Dadomon
 
-XXX
+Cada temporada la Liga Dadomon organiza la Copa Dadomon, una gran campeonato de combates dadomon al que solo pueden entrar las entrenadoras que han cumplido unos ciertos requisitos.
+
+Normalmente, suele ser conseguir un número determinado de pines de jefa de gimnasio. Pero ha habido años con otros procesos de selección, como tener un nivel mínimo de dadómones evolucionados o haber ganado cierto número de combates con otras entrenadoras.
+
+Si cumplen los requisitos, las entrenadoras deben reclamar su puesto en el coliseo dadomon donde se va a celebrar antes de determinada fecha.
+
+A partir de ahí, empiezan los combates eliminatorios televisados. Se sortean los cruces por cada ronda eliminatoria hasta llegar a la gran final.
+
+Las reglas de estos combates son los mismos que los del resto de combates dadomon y como no se pueden tocar esas reglas la Liga trabaja un elemento que si pueden modificar, el terreno de combate.
+
+Los campos de batalla de estos eventos son obras de ingeniería increíbles y cada año son más impresionantes con más trucos, cambios, ingenios, etc. Todo está al servicio del espectáculo.
+
+La Copa Dadomon es el evento deportivo más importante con millones de espectadores y el día de la gran final se para el mundo para ver ese combate. Las apuestas son muy grandes. 
+
+Ganar una Copa Dadomon te puede cambiar la vida, no solo por la fama y el impresionante premio, también por los patrocinadores y porque suele ser el primer paso a convertirte en jefa de gimnasio.
 
 \sinc
 
