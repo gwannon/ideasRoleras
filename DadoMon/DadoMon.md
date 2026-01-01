@@ -375,19 +375,27 @@ Así, un típico dado de vampiro rojo marmoleado con números negros, sería un 
 
 La gran mayoría de aventuras de tus entrenadoras se centrarán en sus andanzas por el mundo compitiendo en la Liga Dadomon, combatiendo contra otras entrenadoras y jefas de gimnasio, consiguiendo pines de batallas y evolucionando sus dadómones. Es por ello que es importante explicar que es la Liga Dadomon.
 
+La Liga Dadomon es una gigantesca organización que controla el deporte/espectáculo más famoso del mundo, los combates dadómones y la gran competición que supone la Copa Dadomon. 
+
 XXX
 
 Aun así, no queremos decir que tus aventuras siempre tengan que ver con la Liga Dadomon. Tus entrenadoras podrían visitar unas ruinas perdidas donde se sacrificaban personas a dadómones legendarios o rescates a unos dadómones que han sido secuestrados por el Equipo Misil o encuentres. Quizás una científica loca que jura y perjura que una enigmática corporación con un nombre estúpido como Luna, Sombra o Zafiro le ha robado sus estudios para evolucionar dadómones.
 
 ### Inscripción en la Liga Dadomon
 
+Necesitas ser mayor de 14 años para poder apuntarte a la Liga Dadomon y normalmente con esa edad muchas adolescentes dejan sus estudios y sus familias para hacerse entrenadoras dadomon.
+
 XXX
+
+> La Liga Dadomon tiene montado un sistema de educación a distancia, para que las entrenadoras en edad escolar puedan formarse mientras viajan combatiendo con sus dadómones. Los estudios que da la Liga Dadomon son oficiales, pero normalmente solo la propia Liga y empresas patrocinadoras los toma en serio a la hora de contratar a las entrenadoras cuando dejan de participar en los combates dadomon. Personas mal pensadas podrían llegar a la conclusión de que la Liga consigue mano de obra barata y secuestrada de todo este sistema.
 
 #### Dadodex
 
 En los primeros años de la Liga Dadomon, cuando te apuntabas, te daban una «Dadodex», un extraño miniordenador portátil que registraba tu actividad en la Liga Dadomon. Las «dadodex» duraron duro hasta que un genio de contabilidad, decidió que eso era un gasto inútil y pasaron a crear una app «Dadodex» que instalas en tu móvil.
 
 Los conspiranoicos dadomon están convencidos de que la app está llena de «spyware» que registra toda tu actividad y tus datos y lo vende a grandes corporaciones. De hecho, si te fijas al encontrar un «azunegido» no dejan de llegarte spam de tiendas online vendiéndote comida, abriguitos, collares, etc. para tu recién domesticado «azunegido». 
+
+\sp
 
 ### Centros Dadomon
 
@@ -402,8 +410,6 @@ La teoría principal entre los conspiranoicos dadomon es que estás instalacione
 ### Gimnasios Dadomon
 
 XXX
-
-\sp
 
 Como siempre los conspiranoicos tiene su propia teoría: la Liga Dadomon entrega los gimnasios a «influencers» con millones de seguidores, no realmente grandes maestras dadomon con gran experiencia en los combates/entrenamiento dadomon.
 
@@ -424,6 +430,8 @@ Si cumplen los requisitos, las entrenadoras deben reclamar su puesto en el colis
 A partir de ahí, empiezan los combates eliminatorios televisados. Se sortean los cruces por cada ronda eliminatoria hasta llegar a la gran final.
 
 Las reglas de estos combates son los mismos que los del resto de combates dadomon y como no se pueden tocar esas reglas la Liga trabaja un elemento que si pueden modificar, el terreno de combate.
+
+\sp
 
 Los campos de batalla de estos eventos son obras de ingeniería increíbles y cada año son más impresionantes con más trucos, cambios, ingenios, etc. Todo está al servicio del espectáculo.
 
