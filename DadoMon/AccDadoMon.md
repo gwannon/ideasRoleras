@@ -115,6 +115,10 @@ Salirse de la zona de combate puede interpretarse de muchas maneras según la si
 
 * XXX
 
+#### Cuando combaten entrenadoras
+
+En este caso estamos hablando de algo bastante atípico, pero puede que una entrenadora tenga que enfrentarse contra una sicaria de la villana de la aventura, en este caso el combate es igual que entre dadómones, pero claro no tienen sus habilidades especiales. Como hemos dicho una entrenadora es un dado de 8 caras sin nada especial, eso suponen 4 heridas también. Pueden daar algún bono al ataque si están armados adecuadamente o si les acompaña algún dadomon que de bonos al combate.
+
 #### Trucos e ideas para los combates
 
 * A la hora de lanzar dados y chocarlos piensa que cuantas menos caras más difícil será hacerlo rodar. Un d6 con un 6, si tratas de chocarlo, podrás moverlo, pero no podrás hacer que cambie de cara y según el campo de batalla puede que te salgas de él por tirar con mucha fuerza.
