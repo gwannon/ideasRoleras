@@ -112,7 +112,9 @@ XXX
 
 #### Curar heridas
 
-XXX
+Un dadomon se **recupera de tantas heridas cadaa 24 horas igual a una tirada de su propio dado**. De forma que al día siguiente de un combate donde un dadomon de d6 ha recibido 3 heridas, tira ese d6 y si recupera tantas heridas como el resultado del dado. Con un poco de suerte, un dadomon puede recuperarse totalmente en 24 horas. 
+
+Otra opción es acudir a un Centro Dadomon donde se recuperará de todas las heridas en pocos minutos tras ser atendido por el personal veterinario del centro.
 
 #### Salirse de la zona de combate
 
@@ -136,9 +138,11 @@ Salirse de la zona de combate puede interpretarse de muchas maneras según la si
 
 Cuando sacas del pozo de dadómones tanto DJ como entrenadoras un **d6 blanco con puntos negros**, en vez de salir un dadomon, has encontrado una **galleta dadomon**. Estas galletas te las guardas y se las puedes dar cuando quieras a los dadómones que controlas.
 
-Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d6. Puedes usar ese d6 después de saber si has fallado una tirada y puedes chocarlo contra el dado de contrincante o tu propio dado para moverlo y conseguir otro resultado. Como siempre si la galleta dadomon sale del campo de batalla, tu dadomon no la ha atrapado y no se la ha podido comer.
+Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d6. Puedes usar ese d6 después de saber si has fallado una tirada y puedes chocarlo contra el dado de contrincante o tu propio dado para moverlo y conseguir otro resultado. 
 
 \sp
+
+Como siempre si la galleta dadomon sale del campo de batalla, tu dadomon no la ha atrapado y no se la ha podido comer.
 
 El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y sin embargo no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
 
@@ -152,11 +156,9 @@ El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno 
 
 Nuestro mundo está poblado de miles de dadómones que corren por sus praderas, escalan sus montañas, surcan sus cielos y atraviesan sus mares. Hay catalogadas miles de especies y las científicas dadomon encuentran nuevas especies de dadómones cada día.
 
-La ficha del dadomon es el propio dado, ya que con su forma y su color marca su tipo y su nivel de poder.
+Los dadómones no son simples mascotas que acompañan a las entrenadoras, son la fauna que puebla los bosques, montañas, mares y desiertos del mundo. Es decir que pueden ser peligrosos en su estado natural y atacar si se ven en peligro, para conseguir alimento o proteger a sus crías. Y también son alimento, materia prima y fuerza de trabajo. Por ejemplo, se crían en granjas por su carne y leche. 
 
-XXX
-
-[![Funny squared pig by ram-clotario](./images/cerdo.png "Funny squared pig by ram-clotario")](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm "Funny squared pig by ram-clotario")
+La ficha del dadomon es el propio dado, ya que con su forma y sus colores marca su tipo y su nivel de poder.
 
 ### Tipos de dadómones
 
@@ -167,19 +169,23 @@ Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de
 * **Color de los números:** El color de los números da habilidades especiales que pueden hacer que el dado sea un poco diferente. Quizas una herida más o que las galletas dadomon le afecten más.
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
 
-La ciencia lleva años tratando de desmentir sin éxito que los dadómones son más fuertes o más débiles según su tipo y el tipo de su dadomon contrincante. Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyendo que un dadomon eléctrico es fuerte contra los de agua y débil contra los de tierra. Por favor, es un animal vivo, no un pararrayos con toma de tierra. Pero bueno si la gente sigue leyendo el horóscopo, pues que se puede esperar.
+[![Funny squared pig by ram-clotario](./images/cerdo.png "Funny squared pig by ram-clotario")](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm "Funny squared pig by ram-clotario")
+
+La ciencia lleva años tratando de desmentir sin éxito que los dadómones son más fuertes o más débiles según su tipo y el tipo de su dadomon contrincante. 
 
 \sp
+
+Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyendo que un dadomon eléctrico es fuerte contra los de agua y débil contra los de tierra. Por favor, es un animal vivo, no un pararrayos con toma de tierra. Pero bueno si la gente sigue leyendo el horóscopo, pues que se puede esperar.
 
 \sinc
 
 |Color|Tipo|Característica|
 |---|---|---|
-|Amarillo|Urbano|XXX|
+|Amarillo|Urbano|Conoce las calles y lo que pasa en ellas, así que recibes +1 cualquier tirada de Mente o Encanto que hagas en entornos urbanos (solo ciudades).|
 |Azul|Agua|Gracias a ellos puedes nadar muy rápido y respiras bajo el agua. Si son grandes incluso podrías hacer surf encima.|
-|Blanco|Aire|XXX|
+|Blanco|Aire|Puede volar con lo que no puede ser echado fuera de la zona de combate a no ser que sea derrotado.|
 |Gris|Normal|Son fáciles de domesticar y no le importa cómo seas. Puedes hacer la tirada de domesticar aplicando la característica que quieras.|
-|Marrón|Tierra|XXX|
+|Marrón|Tierra|Su conexión con la tierra te permite buscar rutas seguras en las montañas, recorrer cuevas, moverte más rápido por conocer el terreno, etc. Obtienes +1 a Cuerpo Y mente en entornos naturales sin nada de civilización cerca.|
 |Morado|Glamour|Son tan glamurosos, bonitos y cuquis que, si van contigo, te dan +1 a tus tiradas de Encanto al seducir, encandilar y coquetear.|
 |Naranja|Combate|Son grandes combatientes y saben montones de movimientos de artes marciales, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
 |Negro|Sombra|Su oscuridad te rodea siempre de manera que te otorgan +1 a las tiradas de Cuerpo al esconderte, moverte en las sombras y perseguir sigilosamente a un objetivo.|
@@ -187,33 +193,35 @@ La ciencia lleva años tratando de desmentir sin éxito que los dadómones son m
 |Rosa|Mente|Sus poderosas ondas cerebrales interfieren en los intentos de controlarte mentalmente, dándote un +1 a Mente.|
 |Verde|Planta|Los conocimientos de herbología que te pueden dar, suponen un +1 a las tiradas de Mente a la hora de diagnosticar y curar heridas y enfermedades.|
 
-|Diseño|Tipo|Característica|
-|---|---|---|
-|Ciberpunk|Internet|Con sus conectores y wifis la tecnología no tienen secretos, te dan +1 a tus tiradas de Mente al usar computadoras y hackear.|
-|Élfico|Hada|XXX|
-|Enano|Gema|Eructan, escupen o defecan gemas con lo que puedes comprar cosas de mayor precio y calidad de lo normal. Podrías, por ejemplo, irte a un hotel en vez de dormir con otras entrenadoras en el Centro dadomon local.|
-|Marmoleado|Vampiro|XXX|
-|Metálico|Metal|Son muy resistentes y duros y con puntas y aristas afiladas, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
-|Transparente|Fantasma|Son intangibles, ni pueden ser chocados ni pueden chocarse contra otros dados. Si lo hacen, el choque no vale y no modifica el valor del dado chocado.|
-|Steampunk|Vapor|XXX|
-
 \conc
 
 \sp
 
 \sinc
 
+|Diseño|Tipo|Característica|
+|---|---|---|
+|Ciberpunk|Internet|Con sus conectores y wifis la tecnología no tienen secretos, te dan +1 a tus tiradas de Mente al usar computadoras y hackear.|
+|Élfico|Hada|Destilan belleza y gracilidad y brillan y relucen mágicamente. Si van contigo, te dan +1 a tus tiradas de Encanto al interpretar, bailar y cantar.|
+|Enano|Gema|Eructan, escupen o defecan gemas con lo que puedes comprar cosas de mayor precio y calidad de lo normal. Podrías, por ejemplo, irte a un hotel en vez de dormir con otras entrenadoras en el Centro dadomon local.|
+|Marmoleado|Vampiro|Si bebes de su sangre, obtienes durante 24 horas un +2 a Cuerpo y -1 a Mente. Si reciben luz solar intensa, como el que produce el símbolo «Sol», reciben 1 herida.|
+|Metálico|Metal|Son muy resistentes y duros y con puntas y aristas afiladas, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
+|Transparente|Fantasma|Son intangibles, ni pueden ser chocados ni pueden chocarse contra otros dados. Si lo hacen, el choque no vale y no modifica el valor del dado chocado.|
+|Steampunk|Vapor|Pueden sobrecalentar sus calderas y, tomando 1 herida, llenar todo de vapor para poder escapar sin ser visto.|
+
+&nbsp;
+
 |Color del número|Extra|
 |---|---|
 |Amarillo|No tiene cara con el 1 en su lugar tiene otro 2.|
-|Azul|XXX|
+|Azul|Sus ataques están relacionados con el lanzamiento de líquidos como el agua, pero no tienen que ser siempre de agua, podría, por ejemplo, beber gasolina y lanzar gasolina.|
 |Blanco|XXX|
 |Gris|Cuando le lanzas una galleta dadomon tiras un 2d6 y te quedas con el que quieras.|
 |Marrón|Cuando entra en una zona de combate, su entrenador pone un post-it pegado al campo de batalla donde quiera.|
-|Morado|XXX|
+|Morado|Su sentido radar le permite detectar a otros dadómones y anula cualquier tipo de truco que le ciegue, te deje deslumbrado o similar. Puede darte +1 a buscar dadómones salvajes para domesticarlos.|
 |Naranja|XXX|
 |Negro|Cuando le lanzas una galleta dadomon tiras un d8 en vez de un d6.|
-|Rojo|Más 1 herida|
+|Rojo|Más 2 herida|
 |Rosa|XXX|
 |Verde|XXX|
 |Desgastado|Como si fuera un dadomon tipo fantasma|
@@ -439,6 +447,8 @@ La Liga Dadomon fue montada por un conglomerado de empresas armamentísticas que
 
 Esto explicaría la Liga Dadomon pueda gastar ingentes cantidades de dinero sin tener unos beneficios claros. Pero nunca ha salido a la luz, porque toda aquella persona que ha investigado esta trama ha muerto en extrañas circunstancias o ha desaparecido.
 
+\sp
+
 Esto también explicaría por qué casi todas las villanas a las que se enfrentarán tus villanas tendrán gigantescas plataformas voladoras llenan de armamento y de que haya laboratorios clandestinos por todas partes donde se tortura y vivisecciona a los especímenes más raros y poderosos de dadómones.
 
 > **Semilla de aventura:** Una amiga periodista de una de las entrenadoras, quiere quedar para hablar de un notición que ha descubierto que podría acabar con la Liga Dadomon. Sin embargo no acude a la cita y no contesta a las llamadas. Quizas deban investigar su desaparición.
@@ -448,8 +458,6 @@ Esto también explicaría por qué casi todas las villanas a las que se enfrenta
 El Equipo Misil es una organización terrorista que se dedica a robar dadómones a las entrenadoras inscritas en la Liga Dadomon, o eso dicen los medios afines y pagados por la Liga Dadomon.
 
 Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y por tanto con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
-
-\sp
 
 El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas son ningún tipo de problema.
 
