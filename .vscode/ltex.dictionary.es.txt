@@ -618,3 +618,6 @@ abriguitos
 d100
 dadodex
 vivisecciona
+2d6
+off
+aautopromociona

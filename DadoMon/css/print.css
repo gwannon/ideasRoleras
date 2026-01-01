@@ -153,6 +153,9 @@ pre * {
   font-family: "Korataki";
   margin: 0px;
   padding: 0px;
+  font-weight: 700;
+  font-size: 1em;
+  font-style: italic;
 }
 
 /* Titulares */

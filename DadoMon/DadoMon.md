@@ -112,7 +112,7 @@ XXX
 
 #### Curar heridas
 
-Un dadomon se **recupera de tantas heridas cada 24 horas igual a una tirada de su propio dado**. De forma que al día siguiente de un combate donde un dadomon de d6 ha recibido 3 heridas, tira ese d6 y si recupera tantas heridas como el resultado del dado. Con un poco de suerte, un dadomon puede recuperarse totalmente en 24 horas. 
+Un dadomon se **recupera de tantas heridas cada 24 horas igual a una tirada de su propio dado**. De manera que al día siguiente de un combate donde un dadomon de d6 ha recibido 3 heridas, tira ese d6 y si recupera tantas heridas como el resultado del dado. Con un poco de suerte, un dadomon puede recuperarse totalmente en 24 horas. 
 
 Otra opción es acudir a un Centro Dadomon donde se recuperará de todas las heridas en pocos minutos tras ser atendido por el personal veterinario del centro.
 
@@ -158,7 +158,7 @@ Nuestro mundo está poblado de miles de dadómones que corren por sus praderas, 
 
 Los dadómones no son simples mascotas que acompañan a las entrenadoras, son la fauna que puebla los bosques, montañas, mares y desiertos del mundo. Es decir que pueden ser peligrosos en su estado natural y atacar si se ven en peligro, para conseguir alimento o proteger a sus crías. Y también son alimento, materia prima y fuerza de trabajo. Por ejemplo, se crían en granjas por su carne y leche. 
 
-La ficha del dadomon es el propio dado, ya que con su forma y sus colores marca su tipo y su nivel de poder.
+La ficha del dadomon es el propio dado, ya que con su número de caras y sus colores marca su tipo y su nivel de poder.
 
 ### Tipos de dadómones
 
@@ -218,7 +218,7 @@ Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyend
 |Blanco|XXX|
 |Gris|Cuando le lanzas una galleta dadomon tiras un 2d6 y te quedas con el que quieras.|
 |Marrón|Cuando entra en una zona de combate, su entrenador pone un post-it pegado al campo de batalla donde quiera.|
-|Morado|Su sentido radar le permite detectar a otros dadómones y anula cualquier tipo de truco que le ciegue, te deje deslumbrado o similar. Puede darte +1 a buscar dadómones salvajes para domesticarlos.|
+|Morado|Su sentido radar le permite detectar a otros dadómones y anula cualquier tipo de truco que le ciegue, le deje deslumbrado o similar. Puede darte +1 a buscar dadómones salvajes para domesticarlos.|
 |Naranja|XXX|
 |Negro|Cuando le lanzas una galleta dadomon tiras un d8 en vez de un d6.|
 |Rojo|Más 2 herida|
@@ -373,29 +373,33 @@ Así, un típico dado de vampiro rojo marmoleado con números negros, sería un 
 
 \conc
 
+La Liga Dadomon es una gigantesca organización que controla el deporte/espectáculo más famoso del mundo, los combates dadómones y la gran competición que supone la Copa Dadomon. Ellos dan soporte al entramado de Centros Dadomon, Gimnasios Dadomon, entrega de dadómones iniciales, app educativas, etc.
+
+La Liga está dirigida por un comité administrativo cuyos miembros no son conocidos, así que sus caras visibles suelen ser personajes públicos como jefas de gimnasio, comentaristas deportivos, árbitros, presentadoras, etc. que la Liga tiene trabajando para ellos. 
+
+La mayoría de los ingresos de la Liga Dadomon viene del merchandising de su marca y los derechos de emisión de los combates casuales y de la Copa Dadomon. Las entrenadoras no pagan nada, ni una cuota anual, ni gastos extras como dormir en un centro Dadomon o curar a sus dadómones.
+
 La gran mayoría de aventuras de tus entrenadoras se centrarán en sus andanzas por el mundo, compitiendo en la Liga Dadomon, combatiendo contra otras entrenadoras y jefas de gimnasio, consiguiendo pines de batallas y evolucionando sus dadómones. Es por ello que es importante explicar que es la Liga Dadomon.
 
-La Liga Dadomon es una gigantesca organización que controla el deporte/espectáculo más famoso del mundo, los combates dadómones y la gran competición que supone la Copa Dadomon. 
-
-XXX
-
-Aun así, no queremos decir que tus aventuras siempre tengan que ver con la Liga Dadomon. Tus entrenadoras podrían visitar unas ruinas perdidas donde se sacrificaban personas a dadómones legendarios o rescates a unos dadómones que han sido secuestrados por el Equipo Misil o encuentres. Quizás una científica loca que jura y perjura que una enigmática corporación con un nombre estúpido como Luna, Sombra o Zafiro le ha robado sus estudios para evolucionar dadómones.
+A pesar de todo lo anterior, no queremos decir que tus aventuras siempre tengan que ver con la Liga Dadomon. Tus entrenadoras podrían visitar unas ruinas perdidas donde se sacrificaban personas a dadómones legendarios o rescates a unos dadómones que han sido secuestrados por el Equipo Misil o encuentres. Quizás una científica loca que jura y perjura que una enigmática corporación con un nombre estúpido como Luna, Sombra o Zafiro le ha robado sus estudios para evolucionar dadómones.
 
 ### Inscripción en la Liga Dadomon
 
 Necesitas ser mayor de 14 años para poder apuntarte a la Liga Dadomon y normalmente con esa edad muchas adolescentes dejan sus estudios y sus familias para hacerse entrenadoras dadomon.
 
-XXX
+Como ya hemos explicado, rellenas un test online larguísimo con preguntas a veces muy personales y en unos días te llega tu dadomon más compatible con tu personalidad al Centro Dadomon más cercano donde podrás recogerlo.
 
-> Debido a la corta edad en que las entrenadoras empiezan sus viajes, la Liga Dadomon tiene montado un sistema de educación a distancia mediante webs y apps, para que las entrenadoras en edad escolar puedan formarse mientras viajan combatiendo con sus dadómones. Los estudios que da la Liga Dadomon son oficiales, pero normalmente solo la propia Liga y empresas patrocinadoras los toma en serio a la hora de contratar a las entrenadoras cuando dejan de participar en los combates dadomon y quieren integrarse en la vida laboral. Personas mal pensadas podrían llegar a la conclusión de que la Liga consigue mano de obra barata y secuestrada de todo este sistema.
+Muchas organizaciones sociales tratan de evitar que las entrenadoras dejen el colegio y se pongan a entrenar dadómones, pero la Liga gasta mucho dinero en campañas de publicidad e «influencers» de las redes para convencer a las jóvenes de que se lancen a la aventura.
+
+Debido a la corta edad en que las entrenadoras empiezan sus viajes, la Liga Dadomon tiene montado un sistema de educación a distancia mediante webs y apps, para que las entrenadoras en edad escolar puedan formarse mientras viajan combatiendo con sus dadómones. Los estudios que da la Liga Dadomon son oficiales, pero normalmente solo la propia Liga y empresas patrocinadoras los toma en serio a la hora de contratar a las entrenadoras cuando dejan de participar en los combates dadomon y quieren integrarse en la vida laboral. Personas mal pensadas podrían llegar a la conclusión de que la Liga consigue mano de obra barata y secuestrada de todo este sistema.
+
+\sp
 
 #### Dadodex
 
 En los primeros años de la Liga Dadomon, cuando te apuntabas, te daban una «Dadodex», un extraño miniordenador portátil que registraba tu actividad en la Liga Dadomon. Las «dadodex» duraron duro hasta que un genio de contabilidad, decidió que eso era un gasto inútil y pasaron a crear una app «Dadodex» que instalas en tu móvil.
 
 Los conspiranoicos dadomon están convencidos de que la app está llena de «spyware» que registra toda tu actividad y tus datos y lo vende a grandes corporaciones. De hecho, si te fijas al encontrar un «azunegido» no dejan de llegarte spam de tiendas online vendiéndote comida, abriguitos, collares, etc. para tu recién domesticado «azunegido». 
-
-\sp
 
 ### Centros Dadomon
 
@@ -405,11 +409,21 @@ XXX
 
 Una cosa que puede terminar llamando la atención a tus entrenadoras es que los Centros dadomon siempre tienen una zona restringida con sistemas de seguridad y videovigilancia, puertas blindadas, escáneres de retina, etc. Normalmente, entran camiones y cajas gigantes con el logo de la Liga Dadomon en estas zonas. Sin embargo, si vigilas estas zonas casi nunca sale nada de ellas y cuando sale normalmente son cantidades ingentes de material, como si estuvieran vaciando esa parte de las instalaciones.  
 
-La teoría principal entre los conspiranoicos dadomon es que estas instalaciones se usan para que la Liga Dadomon blanquee dinero, porque realmente, las entrenadoras no pagan nada en los centros y tampoco hay cuotas mensuales con lo que las cuentas no salen.
+La teoría principal entre los conspiranoicos dadomon es que estas instalaciones se usan para qué la Liga Dadomon blanquee dinero, porque realmente, las entrenadoras no pagan nada en los centros y tampoco hay cuotas mensuales con lo que las cuentas no salen.
 
 ### Gimnasios Dadomon
 
-XXX
+Repartidos por toda las regiones hay lo que se llaman Gimnasios Dadomon. Estás instalaciones que monta la Liga Dadomon casi siempre en grandes ciudades y algunas veces perdidas en la naturaleza, son regidas por una jefa de gimnasio que son una mezcla de campeones/subcampeones de la Copa Dadomon e «influencers» del mundo dadomon.
+
+Cada gimnasio tiene una estructura diferente y suelen tener diseños extravagantes y llamativos. Pueden tener cualquier tipo de arquitectura desde altas torres y polideportivos, hasta piscinas, granjas o cuevas. Normalmente, la Liga aprovecha, para ahorrar, instalaciones abandonadas y las compra, las arregla y las decora adecuadamente en función de la jefa de gimnasio que va a colocar en ese gimnasio.
+
+Estos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se aautopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.
+
+\sp
+
+Los combates contra las jefas de gimnasio son como la lucha libre, solo los más pequeños creen que son de verdad. El resto de personas saben que son una pantomima y en un momento dado si has dado unos mínimos la jefa de gimnasio se deja ganar para darte el pin de gimnasio.
+
+Esto no quiere decir que sea fácil conseguir el pin, solamente que si la jefa luchará al 100% muy pocas entrenadoras realmente accederían a la Copa Dadomon, porque no serían capaces de derrotar a las jefas de gimnasio y sus dadómones.
 
 Como siempre, los conspiranoicos tiene su propia teoría: la Liga Dadomon entrega los gimnasios a «influencers» con millones de seguidores, no realmente grandes maestras dadomon con gran experiencia en los combates/entrenamiento dadomon.
 
@@ -417,7 +431,15 @@ Pocos jefes de gimnasio tienen menos de dos millones de seguidores en las redes 
 
 ### Combates de entrenadores
 
-XXX
+Debido a que las entrenadoras se mueven por toda las regiones y un día están en un sitio atrapando dadómones y al día siguiente en la otra punta es imposible montar un calendario de combates, es por ello que la Liga monto un sistema de combates libres. Cuando te mueves por el mundo tu app «Dadodex» envía tus datos y tu localización y da datos de combatientes cercanos de tu nivel. Es por ello que andas por mitad del bosque y se te aparece una entrenadora de la nada que quiere combatir contigo.
+
+Los datos de los combates se registran en la «Dadodex» y según vas mejorando te saca contrincantes más interesantes y adecuados a tus habilidades. Aun así siempre puedes encontrarte de casualidad a otras entrenadoras que tengan mucho más o mucho menos nivel al que le des una paliza o te la dé.
+
+Las «Dadodex» de las entrenadoras implicadas en el combate y las que estén cerca registran infinidad de datos y si se considera buena se hace una recreación del combate que se sube a las redes de la Liga, para ir calentando motores para la Copa.
+
+Debes hacer bastantes combates en la calle para que cuando llegues a los gimnasios las jefas de gimnasio te tengan en cuenta y acepte tu reto.
+
+[![Stadiums collection in hand drawn style by freepik](./images/334958-PA4IWS-924.jpg "Stadiums collection in hand drawn style by freepik")](https://www.freepik.com/free-vector/stadiums-collection-hand-drawn-style_2448971.htm "Stadiums collection in hand drawn style by freepik")
 
 ### Copa Dadomon
 
@@ -427,11 +449,11 @@ Normalmente, suele ser conseguir un número determinado de pines de jefa de gimn
 
 Si cumplen los requisitos, las entrenadoras deben reclamar su puesto en el coliseo dadomon donde se va a celebrar antes de determinada fecha.
 
+\sp
+
 A partir de ahí, empiezan los combates eliminatorios televisados. Se sortean los cruces por cada ronda eliminatoria hasta llegar a la gran final.
 
 Las reglas de estos combates son los mismos que los del resto de combates dadomon y como no se pueden tocar esas reglas la Liga trabaja un elemento que si pueden modificar, el terreno de combate.
-
-\sp
 
 Los campos de batalla de estos eventos son obras de ingeniería increíbles y cada año son más impresionantes con más trucos, cambios, ingenios, etc. Todo está al servicio del espectáculo.
 
@@ -441,11 +463,21 @@ Ganar una Copa Dadomon te puede cambiar la vida, no solo por la fama y el impres
 
 \sinc
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+```
+CONTINUAR SOLO SI VAS A DIRIGIR A ESTE JUEGO
+```
+
 ## La verdad de la Liga Dadomon
 
 \conc
-
-**SOLO LEER SI VAS A DIRIGIR A ESTE JUEGO**
 
 En este apartado se detallan todos los sucios secretos que esconde la Liga Dadomon y a los que deberán enfrentarse tus entrenadoras.
 
@@ -455,8 +487,6 @@ La Liga Dadomon fue montada por un conglomerado de empresas armamentísticas que
 
 Esto explicaría la Liga Dadomon pueda gastar ingentes cantidades de dinero sin tener unos beneficios claros. Pero nunca ha salido a la luz, porque toda aquella persona que ha investigado esta trama ha muerto en extrañas circunstancias o ha desaparecido.
 
-\sp
-
 Esto también explicaría por qué casi todas las villanas a las que se enfrentarán tus entrenadoras tengan gigantescas plataformas voladoras llenan de armamento y de que haya laboratorios clandestinos por todas partes donde se tortura y vivisecciona a los especímenes más raros y poderosos de dadómones.
 
 > **Semilla de aventura:** Una amiga periodista de una de las entrenadoras, quiere quedar para hablar de un notición que ha descubierto que podría acabar con la Liga Dadomon. Sin embargo, no acude a la cita y no contesta a las llamadas. Quizás deban investigar su desaparición.
@@ -464,6 +494,8 @@ Esto también explicaría por qué casi todas las villanas a las que se enfrenta
 ### Equipo Misil
 
 El Equipo Misil es una organización terrorista que se dedica a robar dadómones a las entrenadoras inscritas en la Liga Dadomon, o eso dicen los medios afines y pagados por la Liga Dadomon.
+
+\sp
 
 Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y, por tanto, con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
@@ -495,6 +527,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
 * Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
+* Stadiums collection in hand drawn style by [freepik](https://www.freepik.com/free-vector/stadiums-collection-hand-drawn-style_2448971.htm)
 
 \sinc
 
