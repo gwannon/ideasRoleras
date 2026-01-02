@@ -264,3 +264,7 @@
 {"rule":"SCHOLAR","sentence":"^\\QDebido a la corta edad en que las entrenadoras empiezan sus viajes, la Liga Dadomon tiene montado un sistema de educación a distancia mediante webs y apps, para que las entrenadoras en edad escolar puedan formarse mientras viajan combatiendo con sus dadómones.\\E$"}
 {"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QEnano Gema Eructan, escupen o defecan gemas con lo que puedes comprar cosas de mayor precio y calidad de lo normal.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QA la hora de lanzar dados y chocarlos piensa que cuantas menos caras más difícil será hacerlo rodar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFuente Korataki\nFunny squared pig by ram-clotario\nHurtchin By Dragonit\nGradient zoom effect background by freepik\nStadiums collection in hand drawn style by freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStadiums collection in hand drawn style by freepik\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStadiums collection in hand drawn style by freepik\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QFuente Korataki\nFunny squared pig by ram-clotario\nHurtchin By Dragonit\nGradient zoom effect background by freepik\nStadiums collection in hand drawn style by freepik\\E$"}

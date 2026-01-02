@@ -1,32 +1,3 @@
-### Centros Dadomon
-
-XXX
-
-> En los centros dadomon puedes curar a todos tus dadómones de sus heridas y sus enfermedades, siempre que sean normales. Si la trama de tu aventura es que una extraña diarrea dadomon está haciendo que los dadómones no puedan combatir porque tienen apretones en mitad de las peleas y salen corriendo «pipi-dadomon» a hacer sus cositas, pues esa diarrea no la curan en un centro Dadomon.
-
-Una cosa que puede terminar llamando la atención a tus entrenadoras es que los Centros dadomon siempre tienen una zona restringida con sistemas de seguridad y videovigilancia, puertas blindadas, escáneres de retina, etc. Normalmente, entran camiones y cajas gigantes con el logo de la Liga Dadomon en estas zonas. Sin embargo, si vigilas estas zonas casi nunca sale nada de ellas y cuando sale normalmente son cantidades ingentes de material, como si estuvieran vaciando esa parte de las instalaciones.  
-
-La teoría principal entre los conspiranoicos dadomon es que estas instalaciones se usan para qué la Liga Dadomon blanquee dinero, porque realmente, las entrenadoras no pagan nada en los centros y tampoco hay cuotas mensuales con lo que las cuentas no salen.
-
----
-
-|Color del número|Extra|
-|---|---|
-|Amarillo|No tiene cara con el 1 en su lugar tiene otro 2.|
-|Azul|Sus ataques están relacionados con el lanzamiento de líquidos como el agua, pero no tienen que ser siempre de agua, podría, por ejemplo, beber gasolina y lanzar gasolina.|
-|Blanco|XXX|
-|Gris|Cuando le lanzas una galleta dadomon tiras un 2d6 y te quedas con el que quieras.|
-|Marrón|Cuando entra en una zona de combate, su entrenador pone un post-it pegado al campo de batalla donde quiera.|
-|Morado|Su sentido radar le permite detectar a otros dadómones y anula cualquier tipo de truco que le ciegue, le deje deslumbrado o similar. Puede darte +1 a buscar dadómones salvajes para domesticarlos.|
-|Naranja|XXX|
-|Negro|Cuando le lanzas una galleta dadomon tiras un d8 en vez de un d6.|
-|Rojo|Más 2 herida|
-|Rosa|XXX|
-|Verde|XXX|
-|Desgastado|Como si fuera un dadomon tipo fantasma|
-
----
-
 ### Tiradas de los dadómones
 
 XXX
@@ -44,6 +15,8 @@ Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando a
 Un dadomon aguanta tantas heridas como su número de caras entre dos.es decir que un d4 aguanta 2 heridas y un d12 6 heridas, pero hay tipos que pueden aguantar alguna herida más.
 
 XXX
+
+Si algún dadomon recibe tantas heridas como las que puede soportar, cae inconsciente y pierde el combate. En caso de que ambos reciban heridas en el mismo turno y no puedan recibir más ambos caaen inconscientes y el combate queda en empate.
 
 #### Curar heridas
 
