@@ -268,3 +268,10 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStadiums collection in hand drawn style by freepik\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStadiums collection in hand drawn style by freepik\\E$"}
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QFuente Korataki\nFunny squared pig by ram-clotario\nHurtchin By Dragonit\nGradient zoom effect background by freepik\nStadiums collection in hand drawn style by freepik\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLos crímenes son famosos y salen en las noticias.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPokemon Center (UDK) By atomicwasabi\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFuente Korataki\nFunny squared pig by ram-clotario\nHurtchin By Dragonit\nGradient zoom effect background by freepik\nStadiums collection in hand drawn style by freepik\nPokemon Center (UDK) By atomicwasabi\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QFuente Korataki\nFunny squared pig by ram-clotario\nHurtchin By Dragonit\nGradient zoom effect background by freepik\nStadiums collection in hand drawn style by freepik\nPokemon Center (UDK) By atomicwasabi\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMete tantos d8 como entrenadoras x4.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMete tantos d10 como entrenadoras x3.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMete tantos d12 como entrenadoras x2.\\E$"}
