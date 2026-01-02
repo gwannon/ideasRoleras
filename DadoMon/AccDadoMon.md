@@ -68,9 +68,9 @@ Por ejemplo, un dadomon fuerte escalará sin más usando su fortaleza física, p
 
 ### Tiradas de los dadómones
 
-Fuera de los combates los dadómones pueden ser hacer cosas y ser útiles para sus dueños. Sin embargo sus capacidades son limitadas, pueden vigilar una zona o buscar comida. También pueden rastrear dadómones salvajes, empujar cosas pesadas.
+Fuera de los combates, los dadómones pueden ser hacer cosas y ser útiles para sus dueños. Sin embargo, sus capacidades son limitadas, pueden vigilar una zona o buscar comida. También pueden rastrear dadómones salvajes, empujar cosas pesadas.
 
-Para ver si tienen éxito tendrán que lanzar su dado siguiendo las reglas anteriores de tiradas. En principio no hay bonificadores ni penalizadores, pero quizas en cosas muy obvias como un dado tipo agua que tiene que bucear puedas dar algún positivo o incluso considerar que pasan automáticamente la tirada.
+Para ver si tienen éxito tendrán que lanzar su dado siguiendo las reglas anteriores de tiradas. En principio no hay bonificadores ni penalizadores, pero quizas en cosas muy obvias como un dadomon tipo agua que tiene que bucear puedas dar algún positivo o incluso considerar que pasan automáticamente la tirada.
 
 Los dadómones pueden entender órdenes sencillas y hacer ciertos gestos para dar información muy básica, pero no puede hablar ni comunicarse por otros métodos. Si la orden es muy compleja y con muchos detalles es difícil de entender y puedes ponerle un penalizador a la tirada del dadomon al pedirle cosas muy complicadas.
 
@@ -93,11 +93,11 @@ Si hay varios elementos por cada lado (defensor o atacante), se tiran todos los 
 
 Pueden darse situaciones en que no haya defensores, por ejemplo, en un típico concurso de quien aguanta más bebidas entre dos entrenadoras en un Centro Dadomon. En ese caso las dos entrenadoras son atacantes y se harán dos rondas seguidas.
 
-En una serás atacante y en otra defensora. La que gane las dos rondas es la ganadora. Si empata porque cada una gana una ronda, se vuelve a repetir las dos rondas hasta que alguien gane definitivamente. Esto suele acabar en las dos entrenadoras tiradas en el suelo borrachas exaltando la amistad entre ellas.
+En una serás atacante y en otra defensora. La que gane las dos rondas es la ganadora. Si empata porque cada una gana una ronda, se vuelve a repetir las dos rondas hasta que alguien gane definitivamente. Esto suele acabar en las dos entrenadoras tiradas en el suelo borrachas, exaltando la amistad entre ellas.
 
 ### Combates de dadómones
 
-El combate es una sucesión de rondas en las que uno de los dadómones es el atacante y el otro defensor. Tira al azar (cara o cruz), quién es el atacante y quién es el defensor. A partir de ahí, cada ronda el defensor del ataque anterior se convierte en atacante y lanza el dado contra el atacante de la ronda anterior que ahora es defensor.
+El combate es una sucesión de rondas en las que uno de los dadómones es el atacante y el otro defensor. Tira al azar (cara o cruz), quién es el atacante y quién es el defensor. A partir de ahí, cada ronda el defensor, del ataque anterior se convierte en atacante y lanza el dado contra el atacante de la ronda anterior que ahora es defensor.
 
 Puedes chocar tu dado contra el dado de tu contrario y el nuevo resultado del dado defensor es el resultado contra el que hay que calcular quien ha ganado la ronda y si hay heridas. También puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
@@ -107,7 +107,7 @@ Puedes chocar tu dado contra el dado de tu contrario y el nuevo resultado del da
 
 Ciertos dadómones tiene poderes especiales que hacen que no puedan chocar contra ellos o que hagan perder su turno al contrario.
 
-Un dadomon aguanta tantas heridas como su número de caras entre dos. Es decir que un d4 aguanta 2 heridas y un d12 6 heridas, pero hay tipos que pueden aguantar alguna herida más.
+Un dadomon aguanta tantas heridas como su número de caras entre dos. Es decir, que un d4 aguanta 2 heridas y un d12 6 heridas, pero hay tipos que pueden aguantar alguna herida más.
 
 Si algún dadomon recibe tantas heridas como las que puede soportar, cae inconsciente y pierde el combate. En caso de que ambos reciban heridas en el mismo turno y no puedan recibir más, ambos caen inconscientes y el combate queda en empate.
 
@@ -128,17 +128,17 @@ Si no hay campo de batalla específico, el campo es la mesa de juego y te sales 
 
 Salirse de la zona de combate puede interpretarse de muchas maneras según la situación y el lugar.
 
-* En un combate oficial de la Copa Dadomon y contra una jefa de gimnasio, supone perder el combate. De hecho, muchas entrenadoras se especializan en sacar a sus contrincantes fuera del campo de batalla. Si se salen ambos dadómones, pierde el primero en salir de la zona de combate, así que cuando salen ambos el atacante durante ese turno se considera que sale antes. 
+* En un combate oficial de la Copa Dadomon y contra una jefa de gimnasio, supone perder el combate. De hecho, muchas entrenadoras se especializan en sacar a sus contrincantes fuera del campo de batalla. Si se salen ambos dadómones, pierde el primero en salir de la zona de combate, así que cuando salen ambos, el atacante durante ese turno se considera que sale antes. 
 * En un combate entre entrenadores, también supone perder, pero muchas veces las entrenadoras obvian esta regla y siguen combatiendo en un nuevo campo de batalla.
 * Durante los combates para domesticar a un dadomon salvaje, supone que el dadomon escapa, bien porque el defensor consigue irse fuera de la zona de combate y buscar un escondite o bien porque el atacante para cuando vuelva ya no está el dadomon salvaje.
 
 #### Cuando combaten entrenadoras
 
-En este caso estamos hablando de algo bastante atípico, pero puede que una entrenadora tenga que enfrentarse contra una sicaria de la villana de la aventura, en este caso el combate es igual que entre dadómones, pero claro no tienen sus habilidades especiales. Como hemos dicho una entrenadora es un dado de 8 caras sin nada especial, eso suponen 4 heridas también. Pueden dar algún bono al ataque si están armados adecuadamente o si les acompaña algún dadomon que de bonos al combate.
+En este caso estamos hablando de algo bastante atípico, pero puede que una entrenadora tenga que enfrentarse contra una sicaria de la villana de la aventura, en este caso el combate es igual que entre dadómones, pero claro, no tienen sus habilidades especiales. Como hemos dicho una entrenadora es un dado de 8 caras sin nada especial, eso suponen 4 heridas también. Pueden dar algún bono al ataque si están armados adecuadamente o si les acompaña algún dadomon que de bonos al combate.
 
 #### Trucos e ideas para los combates
 
-* A la hora de lanzar dados y chocarlos piensa que cuantas menos caras más difícil será hacerlo rodar. Un d6 con un 6, si tratas de chocarlo, podrás moverlo, pero no podrás hacer que cambie de cara y según el campo de batalla puede que te salgas de él por tirar con mucha fuerza.
+* A la hora de lanzar dados y chocarlos piensa que cuantas menos caras, más difícil será hacerlo rodar. Un d6 con un 6, si tratas de chocarlo, podrás moverlo, pero no podrás hacer que cambie de cara y según el campo de batalla puede que te salgas de él por tirar con mucha fuerza.
 * Ninguna regla impide que los campos de batalla estén inclinados, sean elásticos, vibren, estén acolchados, … Sé creativo en este tema. Por ejemplo, una zona de combate inclinada, puede hacer que los d4 y d6 no rueden, pero dados de más caras rueden y se salgan, quedando descalificados.
 * Los dados montados (que no están totalmente planos) se vuelven a tirar. Si por chocar el dado defensor queda montado, puedes cogerlo y tirarlo.
 * Puedes poner reglas especiales a los campos de batalla sobre como tirar los dados. Quizás solo puedan dejarse caer desde arriba o tengas que usar un cubilete o una torre de dados improvisada.
@@ -165,7 +165,7 @@ El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno 
 
 Nuestro mundo está poblado de miles de dadómones que corren por sus praderas, escalan sus montañas, surcan sus cielos y atraviesan sus mares. Hay catalogadas miles de especies y las científicas dadomon encuentran nuevas especies de dadómones cada día.
 
-Los dadómones no son simples mascotas que acompañan a las entrenadoras, son la fauna que puebla los bosques, montañas, mares y desiertos del mundo. Es decir que pueden ser peligrosos en su estado natural y atacar si se ven en peligro, para conseguir alimento o proteger a sus crías. Y también son alimento, materia prima y fuerza de trabajo. Por ejemplo, se crían en granjas por su carne y leche. 
+Los dadómones no son simples mascotas que acompañan a las entrenadoras, son la fauna que puebla los bosques, montañas, mares y desiertos del mundo. Es decir, que pueden ser peligrosos en su estado natural y atacar si se ven en peligro, para conseguir alimento o proteger a sus crías. Y también son alimento, materia prima y fuerza de trabajo. Por ejemplo, se crían en granjas por su carne y leche. 
 
 La ficha del dadomon es el propio dado, ya que con su número de caras y sus colores marca su tipo y su nivel de poder.
 
@@ -173,7 +173,7 @@ La ficha del dadomon es el propio dado, ya que con su número de caras y sus col
 
 Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
 
-* **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderoso. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
+* **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras, más poderoso. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
 * **Color/Diseño:** El color/diseño marca su tipo. El diseño (marmoleado, transparente, moteado, metálico, …) tiene preferencia sobre el color a la hora de mirar el tipo.
 * **Color de los números:** El color de los números da habilidades especiales que pueden hacer que el dado sea un poco diferente. Quizás una herida más o que las galletas dadomon le afecten más.
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
@@ -181,7 +181,7 @@ Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de
 
 La ciencia lleva años tratando de desmentir sin éxito que los dadómones son más fuertes o más débiles según su tipo y el tipo de su dadomon contrincante. 
 
-Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyendo que un dadomon eléctrico es fuerte contra los de agua y débil contra los de tierra. Por favor, es un animal vivo, no un pararrayos con toma de tierra. Pero bueno si la gente sigue leyendo el horóscopo, pues que se puede esperar.
+Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyendo que un dadomon eléctrico es fuerte contra los de agua y débil contra los de tierra. Por favor, es un animal vivo, no un pararrayos con toma de tierra. Pero bueno, si la gente sigue leyendo el horóscopo, pues que se puede esperar.
 
 
 #### Tabla de colores
@@ -189,13 +189,13 @@ Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyend
 |Color|Tipo|Característica|
 |---|---|---|
 |Amarillo|Urbano|Conoce las calles y lo que pasa en ellas, así que recibes +1 cualquier tirada de Mente o Encanto que hagas en entornos urbanos (solo ciudades).|
-|Azul|Agua|Gracias a ellos puedes nadar muy rápido y respiras bajo el agua. Si son grandes incluso podrías hacer surf encima.|
+|Azul|Agua|Gracias a ellos puedes nadar muy rápido y respiras bajo el agua. Si son grandes, incluso podrías hacer surf encima.|
 |Blanco|Aire|Puede volar con lo que no puede ser echado fuera de la zona de combate a no ser que sea derrotado.|
 |Gris|Normal|Son fáciles de domesticar y no le importa cómo seas. Puedes hacer la tirada de domesticar aplicando la característica que quieras.|
 |Marrón|Tierra|Su conexión con la tierra te permite buscar rutas seguras en las montañas, recorrer cuevas, moverte más rápido por conocer el terreno, etc. Obtienes +1 a Cuerpo Y mente en entornos naturales sin nada de civilización cerca.|
 |Morado|Glamour|Son tan glamurosos, bonitos y cuquis que, si van contigo, te dan +1 a tus tiradas de Encanto al seducir, encandilar y coquetear.|
 |Naranja|Combate|Son grandes combatientes y saben montones de movimientos de artes marciales, de manera que, si van contigo, te dan +1 a tus tiradas de Cuerpo al pelearte.|
-|Negro|Sombra|Su oscuridad te rodea siempre de manera que te otorgan +1 a las tiradas de Cuerpo al esconderte, moverte en las sombras y perseguir sigilosamente a un objetivo.|
+|Negro|Sombra|Su oscuridad te rodea siempre, de manera que te otorgan +1 a las tiradas de Cuerpo al esconderte, moverte en las sombras y perseguir sigilosamente a un objetivo.|
 |Rojo|Fuego|Te hacen inmune al calor y al fuego normales, pudiendo andar incluso sobre lava de un volcán.|
 |Rosa|Mente|Sus poderosas ondas cerebrales interfieren en los intentos de controlarte mentalmente, dándote un +1 a Mente.|
 |Verde|Planta|Los conocimientos de herbología que te pueden dar, suponen un +1 a las tiradas de Mente a la hora de diagnosticar y curar heridas y enfermedades.|
@@ -256,7 +256,7 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Luna|Produce oscuridad en la zona de combate. No puedes lanzar tu dado a chocar, porque no lo ves. Aunque choques sin querer el dado el valor no cambia.|
 |Minus|Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.|
 |Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
-|Plus|Usando su energía positiva tu dadomon sube un nivel de dado hasta final de combate. No pueden superar d12 con este sistema.|
+|Plus|Usando su energía positiva, tu dadomon sube un nivel de dado hasta final de combate. No pueden superar d12 con este sistema.|
 |Símbolo arcano|Unos tentáculos de otra dimensión sujetan al dadomon al suelo de manera que no se puede coger y tirar y aunque choquen con él no cambia de resultado. Tienes que volver a tirar el dado y ese es el resultado del dado hasta el final del combate.|
 |Sol|Deslumbra a su enemigo y este no actúa hasta el final del siguiente turno que le toque ser atacante.|
 
@@ -312,7 +312,7 @@ No hay límite de dadómones domesticados por entrenadora, pero pensad que hay q
 
 La evolución de un dadomon simplemente se consigue aumentando el número de caras y ese aumento es una elección que debe tomar tú como DJ.
 
-Cuando crea que puede **quedar bien en la trama** puede darle la oportunidad a su entrenadora de **evolucionar su dadomon** y coger un dado de las mismas características, pero con más caras.
+Cuando creas que puede **quedar bien en la trama**, puedes darle la oportunidad a su entrenadora de **evolucionar su dadomon** y coger un dado de las mismas características, pero con más caras.
 
 Estas pueden ser algunas situaciones en que dar una evolución:
 
@@ -357,7 +357,7 @@ Los cuidados básicos de los dadómones son los mismos que una mascota: darle de
 
 Aunque la Liga Dadomon patento la tecnología que permite meter a los dadómones en pequeñas cápsulas donde quedan en estado de éxtasis para transportarlos fácilmente, la mayoría de las entrenadoras prefieren no usarlas por la crueldad que supone meter a sus «mascotas» en estas pequeñas jaulas de tortura. Solo las entrenadoras más sádicas las usan con sus dadómones.
 
-> **Regla opcional:** Al final de cada sesión de juego cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden, pues mejor.
+> **Regla opcional:** Al final de cada sesión de juego, cada entrenadora deberá cuidar sus Dadómones y llevárselos en su bolsa de dados y cuidarlos hasta la próxima sesión de juego. Así das salida a esos dados que no quieres y si los pierden, pues mejor.
 
 ### Nombres de los dadómones
 
@@ -376,7 +376,7 @@ La Liga Dadomon es una gigantesca organización que controla el deporte/espectá
 
 La Liga está dirigida por un comité administrativo cuyos miembros no son conocidos, así que sus caras visibles suelen ser personajes públicos como jefas de gimnasio, comentaristas deportivos, árbitros, presentadoras, etc. que la Liga tiene trabajando para ellos. 
 
-La mayoría de los ingresos de la Liga Dadomon viene del merchandising de su marca y los derechos de emisión de los combates casuales y de la Copa Dadomon. Las entrenadoras no pagan nada, ni una cuota anual, ni gastos extras como dormir en un centro Dadomon o curar a sus dadómones.
+La mayoría de los ingresos de la Liga Dadomon viene del merchandising de su marca y los derechos de emisión de los combates casuales y de la Copa Dadomon. Las entrenadoras no pagan nada, ni una cuota anual, ni gastos extras, como dormir en un centro Dadomon o curar a sus dadómones.
 
 La gran mayoría de aventuras de tus entrenadoras se centrarán en sus andanzas por el mundo, compitiendo en la Liga Dadomon, combatiendo contra otras entrenadoras y jefas de gimnasio, consiguiendo pines de batallas y evolucionando sus dadómones. Es por ello que es importante explicar que es la Liga Dadomon.
 
@@ -386,7 +386,7 @@ A pesar de todo lo anterior, no queremos decir que tus aventuras siempre tengan 
 
 Necesitas ser mayor de 14 años para poder apuntarte a la Liga Dadomon y normalmente con esa edad muchas adolescentes dejan sus estudios y sus familias para hacerse entrenadoras dadomon.
 
-Como ya hemos explicado, rellenas un test online larguísimo con preguntas a veces muy personales y en unos días te llega tu dadomon más compatible con tu personalidad al Centro Dadomon más cercano donde podrás recogerlo.
+Como ya hemos explicado, rellenas un test online larguísimo con preguntas, a veces muy personales, y en unos días te llega tu dadomon más compatible con tu personalidad al Centro Dadomon más cercano donde podrás recogerlo.
 
 Muchas organizaciones sociales tratan de evitar que las entrenadoras dejen el colegio y se pongan a entrenar dadómones, pero la Liga gasta mucho dinero en campañas de publicidad e «influencers» de las redes para convencer a las jóvenes de que se lancen a la aventura.
 
@@ -403,7 +403,7 @@ Los conspiranoicos dadomon están convencidos de que la app está llena de «spy
 
 Antiguamente las entrenadoras salían solas al mundo con 14 años y era bastante normal que una persona que nunca había vivido en la naturaleza acabará perdida, herida o incluso muerta, sobre todo tratando de domesticar dadómones salvajes en cimas de montañas o en perdidos desiertos.
 
-Ante el aluvión de demandas que la Liga fue acumulando por estos hechos decidió que era mejor montar pandas de entrenadoras. Si varias entrenadoras iban juntas podían ayudarse en situaciones de peligro o las que estuvieran mejor buscar ayuda. También es más fácil recuperar cadáveres si van en grupo que están separados.
+Ante el aluvión de demandas que la Liga fue acumulando por estos hechos, decidió que era mejor montar pandas de entrenadoras. Si varias entrenadoras iban juntas podían ayudarse en situaciones de peligro o las que estuvieran mejor buscar ayuda. También es más fácil recuperar cadáveres si van en grupo que están separados.
 
 Una de las razones de que los cuestionarios para ser entrenadora dadomon sean tan largos es que en parte son test de personalidad que usa la Liga para crear esos grupos. Entrenadoras afines son llamadas a recoger sus dadómones iniciales el mismo día y a la misma hora para que se conozcan y creen lazos y seguramente una panda que vaya junta.
 
@@ -411,9 +411,9 @@ Normalmente crean grupos con personalidades afines, pero con diferentes roles, l
 
 ### Centros Dadomon
 
-Estas impresionantes instalaciones que hay desde en grandes ciudades como en pequeños pueblos, son lugares donde las entrenadoras, pueden descansar de sus aventuras. Hay habitaciones gratis, comida gratis y entretenimiento gratis. Son sitios perfectos para conocer a otras entrenadoras e intercambiar experiencias y trucos de entrenamiento.
+Estas impresionantes instalaciones, que hay desde en grandes ciudades como en pequeños pueblos, son lugares donde las entrenadoras, pueden descansar de sus aventuras. Hay habitaciones gratis, comida gratis y entretenimiento gratis. Son sitios perfectos para conocer a otras entrenadoras e intercambiar experiencias y trucos de entrenamiento.
 
-También se encargan de cuidar de tus dadómones. Los veterinarios se dedican a curar las heridas de tus dadómones y a hacer analíticas varias, quizas demasiadas, para saber como van de salud y como van sus evoluciones.
+También se encargan de cuidar de tus dadómones. Los veterinarios se dedican a curar las heridas de tus dadómones y a hacer analíticas varias, quizás demasiadas, para saber como van de salud y como van sus evoluciones.
 
 Lo normal es que todos los Centros Dadomon tengan:
 
@@ -434,15 +434,15 @@ Sin embargo, si vigilas estas zonas casi nunca sale nada de ellas y cuando sale 
 
 La teoría principal entre los conspiranoicos dadomon es que estas instalaciones se usan para qué la Liga Dadomon blanquee dinero, porque realmente, las entrenadoras no pagan nada en los centros y tampoco hay cuotas mensuales con lo que las cuentas no salen.
 
-En los centros dadomon puedes curar a todos tus dadómones de sus heridas y sus enfermedades, siempre que sean normales. Si la trama de tu aventura es que una extraña diarrea dadomon está haciendo que los dadómones no puedan combatir porque tienen apretones en mitad de las peleas y salen corriendo «pipi-dadomon» a hacer sus cositas, pues esa diarrea no la curan en un centro Dadomon.
+En los centros dadomon puedes curar a todos tus dadómones de sus heridas y sus enfermedades, siempre que sean normales. Si la trama de tu aventura es que una extraña diarrea dadomon está haciendo que los dadómones no puedan combatir porque tienen apretones en mitad de las peleas y salen corriendo al «pipi-dadomon» a hacer sus cositas, pues esa diarrea no la curan en un centro Dadomon.
 
 ### Combates de entrenadores
 
 Debido a que las entrenadoras se mueven por toda las regiones y un día están en un sitio atrapando dadómones y al día siguiente en la otra punta es imposible montar un calendario de combates, es por ello que la Liga monto un sistema de combates libres.
 
-Cuando te mueves por el mundo tu app «Dadodex» envía tus datos y tu localización y da datos de combatientes cercanos de tu nivel. Es por ello que andas por mitad del bosque y se te aparece una entrenadora de la nada que quiere combatir contigo.
+Cuando te mueves por el mundo, tu app «Dadodex» envía tus datos y tu localización y da datos de combatientes cercanos de tu nivel. Es por ello que andas por mitad del bosque y se te aparece una entrenadora de la nada que quiere combatir contigo.
 
-Los datos de los combates se registran en la «Dadodex» y según vas mejorando te saca contrincantes más interesantes y adecuados a tus habilidades. Aun así siempre puedes encontrarte de casualidad a otras entrenadoras que tengan mucho más o mucho menos nivel al que le des una paliza o te la dé.
+Los datos de los combates se registran en la «Dadodex» y según vas mejorando te saca contrincantes más interesantes y adecuados a tus habilidades. Aun así, siempre puedes encontrarte de casualidad a otras entrenadoras que tengan mucho más o mucho menos nivel al que le des una paliza o te la dé.
 
 Las «Dadodex» de las entrenadoras implicadas en el combate y las que estén cerca registran infinidad de datos y si se considera buena se hace una recreación del combate que se sube a las redes de la Liga, para ir calentando motores para la Copa.
 
@@ -451,13 +451,13 @@ Debes hacer bastantes combates en la calle para que cuando llegues a los gimnasi
 
 ### Gimnasios Dadomon
 
-Repartidos por toda las regiones hay lo que se llaman Gimnasios Dadomon. Estás instalaciones que monta la Liga Dadomon casi siempre en grandes ciudades y algunas veces perdidas en la naturaleza, son regidas por una jefa de gimnasio que son una mezcla de campeones/subcampeones de la Copa Dadomon e «influencers» del mundo dadomon.
+Repartidos por toda las regiones, hay lo que se llaman Gimnasios Dadomon. Estás instalaciones que monta la Liga Dadomon casi siempre en grandes ciudades y algunas veces perdidas en la naturaleza, son regidas por una jefa de gimnasio que son una mezcla de campeones/subcampeones de la Copa Dadomon e «influencers» del mundo dadomon.
 
-Cada gimnasio tiene una estructura diferente y suelen tener diseños extravagantes y llamativos. Pueden tener cualquier tipo de arquitectura desde altas torres y polideportivos, hasta piscinas, granjas o cuevas. Normalmente, la Liga aprovecha, para ahorrar, instalaciones abandonadas y las compra, las arregla y las decora adecuadamente en función de la jefa de gimnasio que va a colocar en ese gimnasio.
+Cada gimnasio tiene una estructura diferente y suelen tener diseños extravagantes y llamativos. Pueden tener cualquier tipo de arquitectura, desde altas torres y polideportivos, hasta piscinas, granjas o cuevas. Normalmente, la Liga aprovecha, para ahorrar, instalaciones abandonadas y las compra, las arregla y las decora adecuadamente en función de la jefa de gimnasio que va a colocar en ese gimnasio.
 
 Lo mismo que los gimnasios tienen su personalidad, lo mismo pasan a los jefes de gimnasio que también suelen ser muy pintorescos. De hecho, mucha gente cree que son personajes creados por la Liga para hacer más interesantes estos encuentros, muy parecidos a los personajes que se crean a las luchadoras de lucha libre.
 
-Estos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se aautopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.
+Estos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se autopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.
 
 Los combates contra las jefas de gimnasio son como la lucha libre, solo los más pequeños creen que son de verdad. El resto de personas saben que son una pantomima y en un momento dado si has dado unos mínimos la jefa de gimnasio se deja ganar para darte el pin de gimnasio.
 
@@ -490,9 +490,9 @@ Ganar una Copa Dadomon te puede cambiar la vida, no solo por la fama y el impres
 
 ### Ladrones de dadómones
 
-Los dadómones pueden llegar a ser muy valiosos con lo que siempre habrá gente que quiera robarlos, como el «Equipo Misil». Un grupo mafioso que se dedica a robar dadómones para venderlos al mejor postor. Los crímenes son famosos y salen en las noticias. La propia Liga ha puesto precio a la cabeza de sus miembros y pagaría una fortuna por pistas que llevaran a desmantelar esta organización criminal.
+Los dadómones pueden llegar a ser muy valiosos, con lo que siempre habrá gente que quiera robarlos, como el «Equipo Misil». Un grupo mafioso que se dedica a robar dadómones para venderlos al mejor postor. Los crímenes son famosos y salen en las noticias. La propia Liga ha puesto precio a la cabeza de sus miembros y pagaría una fortuna por pistas que llevaran a desmantelar esta organización criminal.
 
-Lo curioso es que cuando cometen sus crimines suelen dejar pintada reividicativas y normalmente suelen soltar discursitos cuando hacen sus fechorías y lanzan panfletos políticos que nadie suele leer.
+Lo curioso es que cuando cometen sus crimines suelen dejar pintadas reivindicativas y normalmente suelen soltar discursitos cuando hacen sus fechorías y lanzan panfletos políticos que nadie suele leer.
 
 
 
