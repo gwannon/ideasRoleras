@@ -97,15 +97,21 @@ En una serás atacante y en otra defensora. La que gane las dos rondas es la gan
 
 ### Combates de dadómones
 
-XXX
+El combate es una sucesión de rondas en las que uno de los dadómones es el atacante y el otro defensor. Tira al azar (cara o cruz), quién es el atacante y quién es el defensor. A partir de ahí, cada ronda el defensor del ataque anterior se convierte en atacante y lanza el dado contra el atacante de la ronda anterior que ahora es defensor.
 
-Las tiradas de ataque y defensa se hacen lanzando el dado atacante y golpeando al dado del defensor y comparando los resultados. Puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
+Puedes chocar tu dado contra el dado de tu contrario y el nuevo resultado del dado defensor es el resultado contra el que hay que calcular quien ha ganado la ronda y si hay heridas. También puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.
 
-Un dadomon aguanta tantas heridas como su número de caras entre dos.es decir que un d4 aguanta 2 heridas y un d12 6 heridas, pero hay tipos que pueden aguantar alguna herida más.
+* Si el atacante consigue un valor más alto, el defensor recibe una herida. 
+* Si el defensor gana, no pasa nada.
+* Si empatan, ambos consiguen una herida.
 
-XXX
+Ciertos dadómones tiene poderes especiales que hacen que no puedan chocar contra ellos o que hagan perder su turno al contrario.
 
-Si algún dadomon recibe tantas heridas como las que puede soportar, cae inconsciente y pierde el combate. En caso de que ambos reciban heridas en el mismo turno y no puedan recibir más ambos caen inconscientes y el combate queda en empate.
+Un dadomon aguanta tantas heridas como su número de caras entre dos. Es decir que un d4 aguanta 2 heridas y un d12 6 heridas, pero hay tipos que pueden aguantar alguna herida más.
+
+Si algún dadomon recibe tantas heridas como las que puede soportar, cae inconsciente y pierde el combate. En caso de que ambos reciban heridas en el mismo turno y no puedan recibir más, ambos caen inconscientes y el combate queda en empate.
+
+> Los combates dadomon no tienen reglas de sorpresa, porque lo normal es presentarse y presentar al dadomon que vas a usar. Incluso algunas situaciones se da un discursito como suelen hacer los miembros del «Equipo Misil».
 
 #### Curar heridas
 
@@ -113,10 +119,10 @@ Un dadomon se **recupera de tantas heridas cada 24 horas igual a una tirada de s
 
 Otra opción es acudir a un Centro Dadomon donde se recuperará de todas las heridas en pocos minutos tras ser atendido por el personal veterinario del centro.
 
-
 #### Salirse de la zona de combate
 
 Un dadomon está fuera del campo de batalla cuando la cara que hace de base no toca la zona de combate. Pero no estás fuera del campo hasta que no termina el turno y podrías usar tus dados de galletas dadomon para empujar el dado de vuelta dentro del campo de batalla.
+
 
 Si no hay campo de batalla específico, el campo es la mesa de juego y te sales al caerte de la mesa. Por ejemplo, un combate en un bosque para domesticar un «Verrojido», no tiene una zona de combate predefinida, es toda la mesa con todo lo que haya encima.
 
@@ -136,13 +142,12 @@ En este caso estamos hablando de algo bastante atípico, pero puede que una entr
 * Ninguna regla impide que los campos de batalla estén inclinados, sean elásticos, vibren, estén acolchados, … Sé creativo en este tema. Por ejemplo, una zona de combate inclinada, puede hacer que los d4 y d6 no rueden, pero dados de más caras rueden y se salgan, quedando descalificados.
 * Los dados montados (que no están totalmente planos) se vuelven a tirar. Si por chocar el dado defensor queda montado, puedes cogerlo y tirarlo.
 * Puedes poner reglas especiales a los campos de batalla sobre como tirar los dados. Quizás solo puedan dejarse caer desde arriba o tengas que usar un cubilete o una torre de dados improvisada.
-
-
 * Hay situaciones y tipos de dadómones que hacen que no puedan ser chocados. Puedes poner un vasito encima de ese dado para que aunque choquen no lo muevan.
 
 ### Galletas dadomon
 
 Cuando sacas del pozo de dadómones tanto DJ como entrenadoras un **d6 blanco con puntos negros**, en vez de salir un dadomon, has encontrado una **galleta dadomon**. Estas galletas te las guardas y se las puedes dar cuando quieras a los dadómones que controlas.
+
 
 Si tu dadomon se come la galleta, pueden sumar a su tirada el resultado de ese d6. Puedes usar ese d6 después de saber si has fallado una tirada y puedes chocarlo contra el dado de contrincante o tu propio dado para moverlo y conseguir otro resultado. 
 
@@ -169,16 +174,17 @@ La ficha del dadomon es el propio dado, ya que con su número de caras y sus col
 Hay 4 elementos que marcan un dadomon, número de caras, color/diseño, color de los números y tamaño y cada uno de estos elementos marca un aspecto del dadomon.
 
 * **Número de caras:** El número de caras marca su evolución y poder, cuantas más caras más poderoso. El nivel por defecto más bajo es d4 y d12, en condiciones normales, es lo máximo.
-
-
 * **Color/Diseño:** El color/diseño marca su tipo. El diseño (marmoleado, transparente, moteado, metálico, …) tiene preferencia sobre el color a la hora de mirar el tipo.
 * **Color de los números:** El color de los números da habilidades especiales que pueden hacer que el dado sea un poco diferente. Quizás una herida más o que las galletas dadomon le afecten más.
 * **Tamaño/Peso:** El tamaño simplemente es un elemento que afecta a las tiradas. Si sacas un d20 gigante o de metal que pesa mucho como el dadomon final de la aventura puede quedar muy impactante y será muy difícil lanzar tu dadomon y que ruede el megadado.
+
 
 La ciencia lleva años tratando de desmentir sin éxito que los dadómones son más fuertes o más débiles según su tipo y el tipo de su dadomon contrincante. 
 
 Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyendo que un dadomon eléctrico es fuerte contra los de agua y débil contra los de tierra. Por favor, es un animal vivo, no un pararrayos con toma de tierra. Pero bueno si la gente sigue leyendo el horóscopo, pues que se puede esperar.
 
+
+#### Tabla de colores
 
 |Color|Tipo|Característica|
 |---|---|---|
@@ -197,6 +203,8 @@ Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyend
 
 
 
+#### Tabla de diseños
+
 |Diseño|Tipo|Característica|
 |---|---|---|
 |Ciberpunk|Internet|Con sus conectores y wifis la tecnología no tienen secretos, te dan +1 a tus tiradas de Mente al usar computadoras y hackear.|
@@ -209,6 +217,8 @@ Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyend
 
 
 
+
+#### Tabla de colores de los números
 
 |Color del número|Extra|
 |---|---|
@@ -248,7 +258,7 @@ Estas habilidades se activan cuando al tirar el dado o al chocar un dado sale el
 |Ondas|El dadomon produce terremotos y puedes darle un golpe a la mesa fuera del campo de batalla para hacerla temblar y quizás mover los dados.|
 |Plus|Usando su energía positiva tu dadomon sube un nivel de dado hasta final de combate. No pueden superar d12 con este sistema.|
 |Símbolo arcano|Unos tentáculos de otra dimensión sujetan al dadomon al suelo de manera que no se puede coger y tirar y aunque choquen con él no cambia de resultado. Tienes que volver a tirar el dado y ese es el resultado del dado hasta el final del combate.|
-|Sol|Deslumbra a su enemigo y este no actúa el siguiente turno.|
+|Sol|Deslumbra a su enemigo y este no actúa hasta el final del siguiente turno que le toque ser atacante.|
 
 
 Si sacan un dado con un símbolo que no sale en esta lista, puede usar una que te guste de la tabla anterior o crear una nueva habilidad usando estas reglas:
@@ -395,7 +405,7 @@ Antiguamente las entrenadoras salían solas al mundo con 14 años y era bastante
 
 Ante el aluvión de demandas que la Liga fue acumulando por estos hechos decidió que era mejor montar pandas de entrenadoras. Si varias entrenadoras iban juntas podían ayudarse en situaciones de peligro o las que estuvieran mejor buscar ayuda. También es más fácil recuperar cadáveres si van en grupo que están separados.
 
-Una de las razones de que los cuestionarios para ser entrenadora dadomon sean tan largos es que en parte son test de personalidad que usa la Liga para crear esos grupos. Entrenadoras afines son llamadas a recoger sus dadómones iniciales el mismo día y a la misma hora para que se conozcan el creen lazos y seguramente una panda que vaya junta.
+Una de las razones de que los cuestionarios para ser entrenadora dadomon sean tan largos es que en parte son test de personalidad que usa la Liga para crear esos grupos. Entrenadoras afines son llamadas a recoger sus dadómones iniciales el mismo día y a la misma hora para que se conozcan y creen lazos y seguramente una panda que vaya junta.
 
 Normalmente crean grupos con personalidades afines, pero con diferentes roles, la líder, la animosa, la lista y la justa y con esto suelen tener una panda equilibrada que se meterá lo justo en problemas para conseguir mejores dadómones, pero sin ser molesto para la Liga ni hacerse preguntas indiscretas sobre cómo y por qué de la Liga Dadomon.
 
@@ -445,7 +455,7 @@ Repartidos por toda las regiones hay lo que se llaman Gimnasios Dadomon. Estás 
 
 Cada gimnasio tiene una estructura diferente y suelen tener diseños extravagantes y llamativos. Pueden tener cualquier tipo de arquitectura desde altas torres y polideportivos, hasta piscinas, granjas o cuevas. Normalmente, la Liga aprovecha, para ahorrar, instalaciones abandonadas y las compra, las arregla y las decora adecuadamente en función de la jefa de gimnasio que va a colocar en ese gimnasio.
 
-Lo mismo que los gimnasios tienen su personalidad, lo mismo pasan a los jefes de gimnaasio que también suelen ser muy pintorescos. De hecho, mucha gente cree que son personajes creados por la Liga para ahcer más interesantes estos encuentros, muy parecidos a los perosnajes que se crean a las luchadoras de lucha libre.
+Lo mismo que los gimnasios tienen su personalidad, lo mismo pasan a los jefes de gimnasio que también suelen ser muy pintorescos. De hecho, mucha gente cree que son personajes creados por la Liga para hacer más interesantes estos encuentros, muy parecidos a los personajes que se crean a las luchadoras de lucha libre.
 
 Estos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se aautopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.
 
@@ -482,7 +492,7 @@ Ganar una Copa Dadomon te puede cambiar la vida, no solo por la fama y el impres
 
 Los dadómones pueden llegar a ser muy valiosos con lo que siempre habrá gente que quiera robarlos, como el «Equipo Misil». Un grupo mafioso que se dedica a robar dadómones para venderlos al mejor postor. Los crímenes son famosos y salen en las noticias. La propia Liga ha puesto precio a la cabeza de sus miembros y pagaría una fortuna por pistas que llevaran a desmantelar esta organización criminal.
 
-Lo curioso es que cuando cometen sus crimines suelen dejar pintada reinvidicativas y normalmente suelen soltar discursitos cuando hacen sus fechorías y lanzan panfletos políticos que nadie suele leer.
+Lo curioso es que cuando cometen sus crimines suelen dejar pintada reividicativas y normalmente suelen soltar discursitos cuando hacen sus fechorías y lanzan panfletos políticos que nadie suele leer.
 
 
 
