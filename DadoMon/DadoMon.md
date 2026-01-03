@@ -189,7 +189,7 @@ El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno 
 
 \conc
 
-[![Funny squared pig by ram-clotario](./images/cerdo.png "Funny squared pig by ram-clotario")](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm "Funny squared pig by ram-clotario")
+[![Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social/post/3mbjihxalm22g "Dadomon por Roque Romero")
 
 Nuestro mundo está poblado de miles de dadómones que corren por sus praderas, escalan sus montañas, surcan sus cielos y atraviesan sus mares. Hay catalogadas miles de especies y las científicas dadomon encuentran nuevas especies de dadómones cada día.
 
@@ -394,7 +394,7 @@ Los dadómones legendarios tienen reglas especiales:
 
 ### Otros tipos de dados
 
-Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es un preevolución.
+Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es una preevolución o una cría.
 
 Incluso, puedes meter combinaciones de dados como un d100 o un d66 y usarlos para ultra-super- dadómones legendarios o para simular una gran plataforma voladora armada hasta arriba de cañones que usa la villana de la aventura para imponer su ley.
 
@@ -611,7 +611,7 @@ No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon ext
 ## Créditos
 
 * Escrito y diseñado por [Gwannon](https://gwannon.com).
-* Arte de Roque Romero. 
+* Arte de [Roque Romero](https://bsky.app/profile/roqueromero.bsky.social). 
 
 Este juego no sería tal como es sin la ayuda de:
 
