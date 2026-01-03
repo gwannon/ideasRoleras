@@ -275,3 +275,12 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMete tantos d8 como entrenadoras x4.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMete tantos d10 como entrenadoras x3.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QMete tantos d12 como entrenadoras x2.\\E$"}
+{"rule":"CARTOON","sentence":"^\\QAsí pues, pueden tener cualquier forma (cuadrados, rectangulares, redondos, en estrella, …) y ser de cualquier material (papel, cartón, plástico, tela, …).\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QDescríbela un poco y que las características físicas del campo de batalla  tengan sentido en lo que describes.\\E$"}
+{"rule":"FORM","sentence":"^\\QAsí pues, pueden tener cualquier forma (cuadrados, rectangulares, redondos, en estrella, …) y ser de cualquier material (papel, cartón, plástico, tela, …).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QShoru con sus correcciones y sus ideas de zonas de combate.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QCada turno se comparará el valor actual (y último, ya que pueden ser chocados en cada tirada) del legendario con todos los dadómones contrincantes y se calculará las heridas que hace o recibe por cada contrincante.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QIncluso algunas situaciones se da un discursito como suelen hacer los miembros del «Equipo Misil».\\E$"}
+{"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEstos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se autopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QTambién puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi empatan, ambos consiguen una herida.\\E$"}
