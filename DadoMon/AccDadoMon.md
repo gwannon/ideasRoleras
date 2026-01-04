@@ -578,6 +578,7 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Funny squared pig by [ram-clotario](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm)
 * Hurtchin By [Dragonit](https://www.deviantart.com/dragonith/art/Hurtchin-806712542)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
+* Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32476733.htm)
 * Stadiums collection in hand drawn style by [freepik](https://www.freepik.com/free-vector/stadiums-collection-hand-drawn-style_2448971.htm)
 * Pokemon Center (UDK) By [atomicwasabi](https://www.deviantart.com/atomicwasabi/art/Pokemon-Center-UDK-360399538)
 

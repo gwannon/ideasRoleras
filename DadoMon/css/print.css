@@ -177,8 +177,13 @@ h1 {
   letter-spacing: -6px;
 }
 
-#PrimerasAndanzas h1 {
+#PrimerasAndanzas h1,
+h1:nth-of-type(2) {
   background-image: url(../images/7951512.jpg);
+}
+
+h1:nth-of-type(2) {
+  margin-top: 65px !important;
 }
 
 @media (min-width: 500px) {

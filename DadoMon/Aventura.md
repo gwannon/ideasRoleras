@@ -1,14 +1,12 @@
-
-# Primeras Andanzas
-
-
 «Primeras Andanzas» es una **aventura corta** para el juego de rol «¡Dadómones!» en la que unas entrenadoras recién iniciadas deberán **enfrentarse al Equipo Misil** para recuperar sus dadómones iniciales.
 
 Esta aventura está pensada para **tres entrenadoras y una DJ**. Terminarla pueden ser unas **2 o 3 sesiones de unas 3 horas** cada una. Deberás **crear un pozo de dadómones** para esta aventura y guardarlo durante el tiempo que estéis jugando la aventura. **No introduzcas el d20 del dadomon legendario**, sino que deberás guardártelo aparte, ya que aparecerá en las escenas finales de la aventura.
 
+\sinc
 
 ## Resumen
 
+\conc
 
 Tus entrenadoras, tras recibir sus dadómones iniciales, pondrá rumbo a Ciudad Electrodo. En el camino el Equipo Misil, disfrazados de enfermeros haciendo pruebas médicas gratis a los dadómones, les robarán sus dadómones y huirán. Deberán seguirlos hasta unas antiguas ruinas en la montaña donde la célula terrorista ha montado su guarida.
 
@@ -16,14 +14,17 @@ En las ruinas encontrarán grabados y relieves hablando de un dadomon legendario
 
 El Equipo Misil, tras un duro combate contra tus entrenadoras usando sus aliados dadomon, terminará rindiéndose y contando la verdad de la Liga Dadomon y como ellos luchan contra todo eso. Les pedirán que les ayuden como agentes infiltrados y su primera misión será ayudarles a destruir el laboratorio biológico que hay en el Centro Dadomon de Villa Pescadilla.
 
+\sp
 
 Si deciden ayudarles, tendrán que infiltrarse en el laboratorio y liberar a los dadómones con los que están investigando. Encontrarán unos archivos con fichas de sus dadómones y que han hecho algún tipo de experimentos con ellos.
 
 Al intentar huir se verán rodeados por los dadómones de la seguridad de la Liga Dadomon que les superarán en número. Cuando estén a punto de ser derrotados y descubiertos, el dadomon legendario de las ruinas aparecerá y les salvará llevándoselos lejos a un lugar seguro. Allí les agradecerá haberle despertado de nuevo y les entregará un extraño orbe ovoide que deberán guardarle un tiempo.
 
+\sinc
 
 ## En el Centro Dadomon
 
+\conc
 
 Tus entrenadoras empezarán en el hall del Centro Pokémon de Villa Pescadilla, un pequeño pueblo en las montañas. Han sido citadas a la misma hora y las dejarán esperando el tiempo suficiente para que se presenten y empiecen a hablar entre ellas. Si no están muy comunicativas, puede aparecer alguien del equipo del Centro a hacerles algunas preguntas sobre el dadomon que desean o que piensan hacer después de recibir su dadomon inicial.
 
@@ -31,9 +32,11 @@ XXX
 
 > Puedes dejarles antes de entrar de lleno en la aventura que una de tus entrenadoras intenten capturar un dadomon y domesticarlos para haceros un poco con el sistema y porque mola meter la mano en el pozo de dadómones a ver que se saca.
 
+\sinc
 
 ## Test de alergia a las galletas dadomon
 
+\conc
 
 Al salir del Centro Dadomon en la carretera hacia Ciudad Electrodo, la ciudad con un Gimnasio Dadomon más cercana, verán una especie de autobús medicalizado con el logotipo de la Liga Dadomon. Fuera, debajo de un toldo, hay una enfermera repartiendo unos folletos y preguntando «¿Su dadomon es alérgico a las galletas dadomon? Puede ser un problema grave. Hágale una prueba gratuita ahora». 
 
@@ -41,16 +44,21 @@ XXX
 
 Ante sus narices el autobus arrancará haciendo que el toldo les caiga encima a las entrenadoras e impidiendo que puedan hacer nada. Cuanod consigaan salir de debajo de la gruesa tela el autobuss estára tan lejos que no podrá 
 
+\sp
 
+\sinc
 
 ## Persiguiendo a los ladrones
 
+\conc
 
 XXX
 
+\sinc
 
 ## Las ruinas perdidas
 
+\conc
 
 XXX
 
@@ -58,32 +66,41 @@ En una de las paredes, las teselas que hay en ella empezarán a cambiar de color
 
 XXX
 
+\sinc
 
 ## Enfrentarse a la verdad
 
+\conc
 
 XXX
 
+\sp
 
+\sinc
 
 ## El pacto
 
+\conc
 
 En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holiday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.
 
 XXX
 
+\sinc
 
 ## Ataque al Centro Dadomon
 
+\conc
 
 XXX
 
 Doc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomon para ayudarles durante la incursión en el Centro Dadomon.
 
+\sinc
 
 ## Las leyendas tienen parte de verdad
 
+\conc
 
 Cuando lo creas oportuno para la historia o cuando todos los dadómones hayan perdido más de 2/3 de sus heridas, una gran sombra cubrirá la zona de combate y cuando miren hacia arriba verán a Textul, el dadomon legendario. 
 
@@ -104,18 +121,6 @@ Ante la mirada atónita de la gente de seguridad de la Liga, hará una pasada y 
 
 Textul les dirá que puede leer sus almas, que sabe qué son buenas y necesita un favor de ellas. Necesita que cuiden su orbe de vida, una especie de piedra marmoleada de forma ovoide que emite un destello azulado. Si aceptan cuidar el orbe, Textul lanzará un rayo de energía a los dadómones de las entrenadoras y evolucionarán 1 rango, pasando de d4 a d6. Les dirá que necesitarán ser más fuertes para proteger el orbe.
 
+\sp
 
 Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosque en las afueras y cuando bajen de su espalda, se despedirá y se irá volando.
-
-
-## Créditos
-
-* Escrito por [Gwannon](https://gwannon.com).
-
-
-## Licencia
-
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Imágenes y fuentes libres de derecho de diferentes fuentes.
-
-* Fuente [Korataki](https://online-fonts.com/fonts/korataki)
-* Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32476733.htm)
