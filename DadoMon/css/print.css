@@ -99,8 +99,7 @@ body > * {
   margin: 0 var(--padding);
 }
 
-body > *:first-child,
-.saltopagina + * {
+body > *:first-child {
   margin-top: var(--padding);
   padding-top: 0;
 }
@@ -416,6 +415,11 @@ a.pdf:nth-of-type(2) {
     margin: 0;
     opacity: 1;
   }
+
+  .saltopagina + * {
+    margin-top: var(--padding);
+    padding-top: 0;
+  }
 }
 
 /* Paginación */
@@ -512,5 +516,17 @@ body {
   section {
     max-width: 700px;
     margin: auto;
+  }
+}
+
+@media screen {
+  .saltopagina {
+    display: none;
+  }
+}
+
+@media print {
+  .saltopagina {
+    display: block;
   }
 }

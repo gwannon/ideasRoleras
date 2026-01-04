@@ -6,7 +6,7 @@
 
 «Primeras Andanzas» es una **aventura corta** para el juego de rol «¡Dadómones!» en la que unas entrenadoras recién iniciadas deberán **enfrentarse al Equipo Misil** para recuperar sus dadómones iniciales.
 
-Esta aventura está pensada para **tres entrenadoras y una DJ**. Terminarla pueden ser unas **2 o 3 sesiones de unas 3 horas** cada una. Deberás **crear un pozo de dadómones** para esta aventura y guardarlo durante el tiempo que estéis jugando la aventura. **No introduzcas el d20 del dadomon legendario**, sino que deberás guardártelo aparte ya que aparecerá en las escenas finales de la aventura.
+Esta aventura está pensada para **tres entrenadoras y una DJ**. Terminarla pueden ser unas **2 o 3 sesiones de unas 3 horas** cada una. Deberás **crear un pozo de dadómones** para esta aventura y guardarlo durante el tiempo que estéis jugando la aventura. **No introduzcas el d20 del dadomon legendario**, sino que deberás guardártelo aparte, ya que aparecerá en las escenas finales de la aventura.
 
 \sinc
 
@@ -64,6 +64,10 @@ XXX
 
 XXX
 
+El dadomon que están viendo es que del que hablaban los grabados de las paredes de las ruinas exteriores, «Textul» (descripción más adelante).
+
+XXX
+
 \sinc
 
 ## Enfrentarse a la verdad
@@ -80,7 +84,7 @@ XXX
 
 \conc
 
-En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holyday y se unen a Equipo Misil como agentes dobles o pasan de elles y continuan su viaje.
+En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holyday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.
 
 XXX
 
@@ -97,6 +101,19 @@ XXX
 ## Las leyendas tienen parte de verdad
 
 \conc
+
+Cuando lo creas oportuno para la historia o cuando todos los dadómones hayan perdido más de 2/3 de sus heridas, una gran sombra cubrirá la zona de combate y cuando miren hacia arriba verán a Textul, el dadomon legendario. 
+
+### Textul
+
+Textul tiene gran cuerpo esférico blanco del que salen 4 extremidades y dos grandes alas de murciélago. Tiene pinchos rojos por todo su cuerpo y una mancha roja en forma de gota de sangre en el pecho. Un aura negativa recubre todo su cuerpo.
+
+* **d20 / 12 (10 + 2) heridas / Grande**
+* **Blanco con números rojos:** Puede volar con sus grandes alas de murciélago y tiene 2 heridas extras.
+* **Símbolo Minus (1):** Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.
+* **Símbolo Gota (20):** Regenera una herida por turno.
+
+Si no tienes un dado con estas características, usa un d20 de tamaño grande y aplica los 1 y los 20 como si fueran los símbolos, o pega unas pegatinas en su lugar.
 
 XXX
 

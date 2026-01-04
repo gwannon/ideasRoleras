@@ -284,3 +284,7 @@
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QEstos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se autopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QTambién puedes elegir no impactar contra el dado de defensor si te interesa el valor actual del defensor.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi empatan, ambos consiguen una herida.\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QEn este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holyday y se unen a Equipo Misil como agentes dobles o pasan de elles y continuan su viaje.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFuente Korataki\nGradient zoom effect background by freepik\\E$"}
+{"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QFuente Korataki\nGradient zoom effect background by freepik\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QEn este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holyday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.\\E$"}
