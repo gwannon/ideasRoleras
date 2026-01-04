@@ -239,6 +239,9 @@ Se han hecho todo tipo de estudios para desmentirlo, pero la gente sigue creyend
 |Rosa|Mente|Sus poderosas ondas cerebrales interfieren en los intentos de controlarte mentalmente, dándote un +1 a Mente.|
 |Verde|Planta|Los conocimientos de herbología que te pueden dar, suponen un +1 a las tiradas de Mente a la hora de diagnosticar y curar heridas y enfermedades.|
 
+&nbsp;
+
+&nbsp;
 
 #### Tabla de diseños
 
@@ -531,6 +534,8 @@ Cada temporada la Liga Dadomon organiza la Copa Dadomon, un gran campeonato de c
 Normalmente, suele ser conseguir un número determinado de pines de jefa de gimnasio. Pero ha habido años con otros procesos de selección, como tener un nivel mínimo de dadómones evolucionados o haber ganado cierto número de combates con otras entrenadoras.
 
 \sp
+
+[![Funny squared pig by ram-clotario](./images/cerdo.png "Funny squared pig by ram-clotario")](https://www.freepik.com/free-vector/funny-squared-pig_804584.htm "Funny squared pig by ram-clotario")
 
 Si cumplen los requisitos, las entrenadoras deben reclamar su puesto en el coliseo dadomon donde se va a celebrar antes de determinada fecha.
 

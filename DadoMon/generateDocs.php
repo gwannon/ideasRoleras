@@ -58,23 +58,23 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'DadoMon') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: ¡Dadómones! por Gwannon - Ver. 1.1\n\n";
+  $metas .= "InfoValue: ¡Dadómones! - Ver. 1.1\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: ¡Dadómones! es una juego de rol en una sola hoja donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Versión 0.1\n\n";
+  $metas .= "InfoValue: ¡Dadómones! es una juego de rol en una sola hoja donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Versión 1.1\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, pokemon\n\n";
-} /*else if($argv[1] == 'InHades') {
+  $metas .= "InfoValue: rpg, ttrpg, pokemon, parodia\n\n";
+} else if($argv[1] == 'PrimerasAndanzas') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: In Hades by Gwannon - Ver. 1.1\n\n";
+  $metas .= "InfoValue: Primeras Andanzas - Ver. 0.1\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: In Hades is a role-playing game based on Firelights in which you must explore the underworld to recover the lost memories of your love and thus be able to rescue them. Version 1.1\n\n";
+  $metas .= "InfoValue: «Primeras Andanzas» es una aventura corta para el juego de rol «¡Dadómones!» en la que unas entrenadoras recién inscritas a la Liga Dadomon deberán enfrentarse al Equipo Misil para recuperar sus dadómones iniciales. Versión 0.1\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, Firelights, greek mythos\n\n";
-}*/
+  $metas .= "InfoValue: rpg, ttrpg, pokemon, parodia\n\n";
+}
 
 /* Generamos indice del PDF */
 /* -------------------------------------------------------------- */
