@@ -111,7 +111,7 @@ Textul tiene gran cuerpo esférico blanco del que salen 4 extremidades y dos gra
 * **d20 / 12 (10 + 2) heridas / Grande**
 * **Blanco con números rojos:** Puede volar con sus grandes alas de murciélago y tiene 2 heridas extras.
 * **Símbolo Minus (1):** Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.
-* **Símbolo Gota (20):** Regenera una herida por turno.
+* **Símbolo Gota (20):** Regenera una herida.
 
 Si no tienes un dado con estas características, usa un d20 de tamaño grande y aplica los 1 y los 20 como si fueran los símbolos, o pega unas pegatinas en su lugar.
 
@@ -119,8 +119,12 @@ Si no tienes un dado con estas características, usa un d20 de tamaño grande y 
 
 Ante la mirada atónita de la gente de seguridad de la Liga, hará una pasada y cogerá a todas las entrenadoras y se las llevará volando encima en su lomo. Los vigilantes y sus dadómones saldrán huyendo de miedo y el Equipo Misil saldrá corriendo con los dadómones rescatados mientras el laboratorio estalla en una gran bola de fuego.
 
-Textul les dirá que puede leer sus almas, que sabe qué son buenas y necesita un favor de ellas. Necesita que cuiden su orbe de vida, una especie de piedra marmoleada de forma ovoide que emite un destello azulado. Si aceptan cuidar el orbe, Textul lanzará un rayo de energía a los dadómones de las entrenadoras y evolucionarán 1 rango, pasando de d4 a d6. Les dirá que necesitarán ser más fuertes para proteger el orbe.
+Textul les dirá que puede leer sus almas, que sabe qué son buenas y necesita un favor de ellas. Necesita que cuiden su orbe de vida, una especie de piedra marmoleada de forma ovoide que emite un destello azulado. Si aceptan cuidar el orbe, Textul lanzará un rayo de energía al orbe que se dvidirá en más rayos que impactarán en los dadómones de las entrenadoras y evolucionarán 1 rango, pasando de d4 a d6. Les dirá que necesitarán ser más fuertes para proteger el orbe.
 
 \sp
 
 Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosque en las afueras y cuando bajen de su espalda, se despedirá y se irá volando.
+
+### Cómo continuar
+
+El orde de vida es en realidad un huevo de Tultex, el dadomon antítesis del Textul que controla la energía positiva evolutiva. Cuando este eclosione y crezca buscará a Textul para fusionarse y XXX
