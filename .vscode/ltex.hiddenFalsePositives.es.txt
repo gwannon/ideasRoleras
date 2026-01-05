@@ -288,3 +288,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFuente Korataki\nGradient zoom effect background by freepik\\E$"}
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QFuente Korataki\nGradient zoom effect background by freepik\\E$"}
 {"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QEn este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holyday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QDoc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomon para ayudarles durante la incursión en el Centro Dadomon.\\E$"}
+{"rule":"PUNTO_EN_ABREVIATURAS","sentence":"^\\QEn este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holiday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.\\E$"}

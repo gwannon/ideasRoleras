@@ -67,9 +67,9 @@ if($argv[1] == 'DadoMon') {
   $metas .= "InfoValue: rpg, ttrpg, pokemon, parodia\n\n";
 } else if($argv[1] == 'PrimerasAndanzas') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Primeras Andanzas - Ver. 0.2\n\n";
+  $metas .= "InfoValue: Primeras Andanzas - Ver. 0.3\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: «Primeras Andanzas» es una aventura corta para el juego de rol «¡Dadómones!» en la que unas entrenadoras recién inscritas a la Liga Dadomon deberán enfrentarse al Equipo Misil para recuperar sus dadómones iniciales. Versión 0.2\n\n";
+  $metas .= "InfoValue: «Primeras Andanzas» es una aventura corta para el juego de rol «¡Dadómones!» en la que unas entrenadoras recién inscritas a la Liga Dadomon deberán enfrentarse al Equipo Misil para recuperar sus dadómones iniciales. Versión 0.3\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
