@@ -58,15 +58,30 @@ Si no pierden, llegarán a la cima de la montaña donde **encontrarán unas anti
 ## Las ruinas perdidas
 
 
+En la sala central del templo, el Equipo Misil ha montado su base. Hay cajas de comida y botellas vacías tiradas por todas partes, revistas viejas y comics apilados en montones y equipo de campamento, como unas esterillas, unos saco de dormir y un hornillo.
+
+Si se cuelan en sigilo en el templo, tus entrenadoras podrán ver a los dos agentes del Equipo Misil quitarse su disfraz de enfermera, soltar a sus dadómones y darle comida y agua. Mientras hacen todo eso se reirán de tus entrenadoras y de las caras de bobas que se les han quedado cuando se han llevado sus dadómones.
+
+También pueden entrar a saco, pero tienen que entender que estarán seguramente en inferioridad numérica, ya que no tienen sus dadómones. Sea como sea, cuando tus entrenadoras se presenten ante ellos, uno le dirá al otro «Doc, dale a la palanca» y el otro responderá «Hecho, Holiday» y tirará de una palanca de piedra de la pared y el suelo debajo de las entrenadoras se abrirá y caerán en un oscuro túnel.
+
+Evitar caer en la trampa es imposible, a no ser que hayan preparado algo especial, pero puedes pedir una tirada de Cuerpo o recibir una herida.
+
+### El laberinto
+
 XXX
 
 En una de las paredes, las teselas que hay en ella empezarán a cambiar de color e irán formando una imagen como si fuera una pantalla de ordenador, pero muy pixelado y con un toque pétreo. La imagen se irá aclarando hasta verse el diseño de un dadomon. El dadomon que están viendo es que del que hablaban los grabados de las paredes de las ruinas exteriores, «Textul» (descripción más adelante).
 
 XXX
 
+
 ### Enfrentarse a la verdad
 
 XXX
+
+Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad y  sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
+
+Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resuméselo un poco o léelo directamente.
 
 ### El pacto
 
@@ -76,8 +91,7 @@ Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su g
 
 XXX
 
-En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad Electrodo, mientras Doc, Holiday y sus dadómones se abrazan y lloran.
-
+En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad Electrodo, mientras Doc, Holiday y sus dadómones se abrazan y lloran lastimosamente.
 
 
 ## Ataque al Centro Dadomon
@@ -94,6 +108,7 @@ Por último, Doc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomo
 ### Metiéndose en faena
 
 XXX
+
 
 
 ## Las leyendas tienen parte de verdad
@@ -121,7 +136,6 @@ Textul les dirá que puede leer sus almas, que sabe qué son buenas y necesita u
 Si aceptan cuidar el orbe, Textul lanzará un rayo de energía al orbe que se dividirá en más rayos que impactarán en los dadómones de las entrenadoras y evolucionarán 1 rango, pasando de d4 a d6. Les dirá que necesitarán ser más fuertes para proteger el orbe.
 
 Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosque en las afueras y cuando bajen de su espalda, se despedirá y se irá volando.
-
 
 ### Cómo continuar
 
