@@ -72,7 +72,11 @@ XXX
 
 En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holiday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.
 
+Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su gorra con el logo del Equipo Misil y les harán recitar el juramento:
+
 XXX
+
+En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad Electrodo, mientras Doc, Holiday y sus dadómones se abrazan y lloran.
 
 
 
@@ -83,9 +87,9 @@ XXX
 
 ### Preparando el ataque
 
-Doc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomon para ayudarles durante la incursión en el Centro Dadomon.
-
 XXX
+
+Por último, Doc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomon para ayudarles durante la incursión en el Centro Dadomon.
 
 ### Metiéndose en faena
 
