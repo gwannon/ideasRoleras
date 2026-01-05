@@ -284,13 +284,16 @@ ul li {
 }
 
 ul li:before {
-  content: '◒';
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid var(--color-black);
   position: absolute;
-  font-size: 17px;
-  top: -2px;
+  top: 5px;
   left: -19px;
   display: block;
-  color: var(--color-black);
+  background: linear-gradient(180deg,transparent 50%, var(--color-black) 50%);
 }
 
 ol {
