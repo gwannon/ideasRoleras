@@ -1,11 +1,17 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
   --padding2: 45px; /*Ancho de los bordes de la página*/
+  --color-red: #ef810e;
+  --color-white: #e5de44;
+  --color-black: #1c375c;
+  --color-grey: #dedede;
+  --color-dark-grey: #949494;
+}
+
+#PrimerasAndanzas {
   --color-red: #FFDE00;
   --color-white: #faffcd;
   --color-black: #3B4CCA;
-  --color-grey: #dedede;
-  --color-dark-grey: #949494;
 }
 
 @font-face {
@@ -324,12 +330,39 @@ table tbody tr:nth-child(even) {
 }
 
 img {
-  width: 100%;
+  padding: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+  margin: 0 calc(var(--padding) * 0.4);
+  clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) calc(100% - 0px), 10px calc(100% - 0px), 0% calc(100% - 10px));
+  background-color: var(--color-black);
+  /*background: linear-gradient(330deg,var(--color-black) 50%, var(--color-red) 50%);*/
+  max-width: 100%;
+  box-sizing: border-box;
+  margin: 0px 0px 0px 0px;
+}
+
+.saltopagina.odd + .columns img {
+  background-color: var(--color-red);
+    clip-path: polygon(0% 25px, 40% 25px, calc(40% + 12px) 12px, 50% 12px, calc(50% + 12px) 0px, calc(100% - 25px) 0px, 100% 25px, 100% 100%, 70% 100%, calc(70% - 10px) calc(100% - 10px), 30% calc(100% - 10px), calc(30% - 10px) 100%, 10px 100%, 0% calc(100% - 10px));
+  overflow: hidden;
 }
 
 img[alt^='Pergeñado'] {
-  width: 150px;
+  width: 250px;
   border: none;
+  margin: 0px auto;
+  display: block;
+  background: transparent !important;
+}
+
+img[alt^='Mini'] {
+  width: 100%;
+  border: none;
+  margin: 0px auto;
+  display: block;
+  background: transparent !important;
 }
 
 table.special {
