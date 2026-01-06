@@ -556,7 +556,10 @@ Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo r
 El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas son ningún tipo de problema.
 
 
+[![Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+
 > Lo normal, si tus jugadoras son buena gente, es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
+
 
 ### Copas guionizadas
 
@@ -567,10 +570,6 @@ Además, el montaje y la voz en «off» de los reportajes de la Liga Dadomon man
 De hecho, ha habido situaciones en las que la propia Liga Dadomon ha usado gran cantidad de recursos para que las entrenadoras acaben en zonas de guerra y de desastres donde ayudan con sus dadómones. También ha habido temporadas en que han contratado a actrices para meter tramas románticas en las aventuras de las entrenadoras que querían resaltar.
 
 No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon extrañas fueran creadas por la propia Liga Dadomon para probarlas en campo y de paso meter drama a las historias.
-
-
-[![Mini Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
-
 
 
 ## Créditos
