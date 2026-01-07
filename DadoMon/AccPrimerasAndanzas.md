@@ -79,9 +79,9 @@ XXX
 
 XXX
 
-Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad y  sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
+Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad y sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
 
-Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resuméselo un poco o léelo directamente.
+Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resúmeselo un poco o léelo directamente.
 
 ### El pacto
 
@@ -149,14 +149,14 @@ Esto puede ser el principio de una campaña en la que tus entrenadoras tendrán 
 ## Créditos
 
 * Escrito por [Gwannon](https://gwannon.com).
-* Arte de [Roque Romero](http://roqueromero.com/). 
+* Arte de [Roque Romero](https://bsky.app/profile/roqueromero.bsky.social). 
 
 [![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")
 
 
 ## Licencia
 
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Imágenes y fuentes libres de derecho de diferentes fuentes.
+Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Las imágenes y las fuentes usadas son libres de derecho y como tal pasamos a atribuirlas.
 
 * Fuente [Korataki](https://online-fonts.com/fonts/korataki)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32476733.htm)

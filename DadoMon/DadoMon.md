@@ -32,7 +32,7 @@ En los tiempos de antaño, viejas científicas chochas de dudosa reputación en 
 
 \sp
 
-[![Dadomon por Roque Romero](./images/d6-1.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d6-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Lo curioso es que, aunque todas las entrenadoras empezaban con los 3 mismos dadómones, luego no las veías ir a los combates de la Liga con alguno de esos dadómones en su equipo.
 
@@ -86,7 +86,7 @@ Fuera de los combates, los dadómones pueden hacer cosas y ser útiles para sus 
 
 Para ver si tienen éxito tendrán que lanzar su dado siguiendo las reglas anteriores de tiradas. En principio no hay bonificadores ni penalizadores, pero quizas en cosas muy obvias como un dadomon tipo agua que tiene que bucear puedas dar algún positivo o incluso considerar que pasan automáticamente la tirada.
 
-[![Dadomon por Roque Romero](./images/d6-2.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d6-2.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Los dadómones pueden entender órdenes sencillas y hacer ciertos gestos para dar información muy básica, pero no puede hablar ni comunicarse por otros métodos. Si la orden es muy compleja y con muchos detalles es difícil de entender y puedes ponerle un penalizador a la tirada del dadomon al pedirle cosas muy complicadas.
 
@@ -124,7 +124,7 @@ Así pues, pueden tener cualquier forma (cuadrados, rectangulares, redondos, en 
 
 \sp
 
-[![Dadomon por Roque Romero](./images/d6-3.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d6-3.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 #### Ronda de combate
 
@@ -384,7 +384,7 @@ Estas pueden ser algunas situaciones en que dar una evolución:
 
 \sp
 
-[![Dadomon por Roque Romero](./images/d6-4.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d6-4.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Otra manera de evolucionar es darle otro dado con el mismo número de caras, pero algún tipo de cambio, igual el color de los números es diferente, tiene un tamaño diferente o quizás uno de sus números es, en realidad, ahora un símbolo que da una nueva habilidad.
 
@@ -492,7 +492,7 @@ Lo normal es que todos los Centros Dadomon tengan:
 * Zona de aseo con duchas e incluso una pequeña zona de SPA.
 * Enfermería para dadómones.
 
-[![Dadomon por Roque Romero](./images/d6-5.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d6-5.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Una cosa que puede terminar llamando la atención a tus entrenadoras es que los Centros dadomon siempre tienen una zona restringida con sistemas de seguridad y videovigilancia, puertas blindadas, escáneres de retina, etc. Normalmente, entran camiones y cajas gigantes con el logo de la Liga Dadomon en estas zonas.
 
@@ -598,7 +598,7 @@ Esto también explicaría por qué casi todas las villanas a las que se enfrenta
 
 El Equipo Misil es una organización terrorista que se dedica a robar dadómones a las entrenadoras inscritas en la Liga Dadomon, o eso dicen los medios afines y pagados por la Liga Dadomon.
 
-[![Dadomon por Roque Romero](./images/d6-6.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d6-6.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y, por tanto, con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
@@ -606,7 +606,7 @@ El equipo Misil es un reducto de libertad donde todas las personas tienen cabida
 
 \sp
 
-[![Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](http://roqueromero.com/ "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 > Lo normal, si tus jugadoras son buena gente, es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
 
@@ -624,10 +624,14 @@ No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon ext
 
 \sp
 
+## Notas
+
+El texto está escrito en **femenino genérico**. Si no te gusta esta decisión, pues te vas por donde has venido.
+
 ## Créditos
 
 * Escrito y diseñado por [Gwannon](https://gwannon.com).
-* Arte de [Roque Romero](http://roqueromero.com/). 
+* Arte de [Roque Romero](https://bsky.app/profile/roqueromero.bsky.social). 
 
 Este juego no sería tal como es sin la ayuda de:
 
@@ -644,7 +648,7 @@ Este juego no sería tal como es sin la ayuda de:
 
 ## Licencia
 
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Imágenes y fuentes usados libres de derecho de diferentes fuentes.
+Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/DadoMon). Las imágenes y las fuentes usadas son libres de derecho y como tal pasamos a atribuirlas.
 
 * Fuente [Korataki](https://online-fonts.com/fonts/korataki)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
