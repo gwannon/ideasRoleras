@@ -86,9 +86,9 @@ XXX
 
 XXX
 
-Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad y  sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
+Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad y sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
 
-Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resuméselo un poco o léelo directamente.
+Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resúmeselo un poco o léelo directamente.
 
 ### El pacto
 

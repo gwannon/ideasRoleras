@@ -631,3 +631,5 @@ discursitos
 Holyday
 Textul
 Holiday
+Tultex
+freepik

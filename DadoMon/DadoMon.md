@@ -4,7 +4,7 @@
 
 \conc
 
-**¡Dadómones!** es una mini juego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
+**¡Dadómones!** es un minijuego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon». Para representar los dadómones usaremos los diferentes dados de rol que tenemos.
 
 Para jugar necesitarás **papel, lápiz, montones de dados de diferentes caras y una bolsa** o similar donde meterlos y que no se pueda ver dentro.
 
@@ -112,13 +112,13 @@ En una serás atacante y en otra defensora. La que gane las dos rondas es la gan
 
 ### Combates de dadómones
 
-Los combate de dadómones son enfrenamiento 1 a 1 entre dos dadómones normalmente dirigidos por sus entrenadoras. Normalmente no son mortales y en cuanto los dadómones llegan al límite de sus heridas se acaban.
+Los combate de dadómones son enfrenamiento 1 a 1 entre dos dadómones normalmente dirigidos por sus entrenadoras. Normalmente, no son mortales y en cuanto los dadómones llegan al límite de sus heridas se acaban.
 
 #### Zonas de combate
 
 Lo primero es establecer la zona de combate. Las zonas de combate pueden ser cualquier cosa medianamente plana, desde folios recortados o dibujado en un papel hasta tapas de cajas de zapatos y platos. 
 
-Así pues, pueden tener cualquier forma (cuadrados, rectangulares, redondos, en estrella, …) y ser de cualquier material (papel, cartón, plástico, tela, …). Pueden, por ejemplo, tener bordes altos que impidan que los dados se salgan. Piensa que una jarra de cristal, nos asegura que no se saldrán del campo de batalla (y por tanto no se podrán escapar), pero también que casi siempre chocarán. 
+Así pues, pueden tener cualquier forma (cuadrados, rectangulares, redondos, en estrella, …) y ser de cualquier material (papel, cartón, plástico, tela, …). Pueden, por ejemplo, tener bordes altos que impidan que los dados se salgan. Piensa que una jarra de cristal, nos asegura que no se saldrán del campo de batalla y, por tanto, no se podrán escapar, pero también que casi siempre chocarán. 
 
 > No pongas simplemente la zona de combate en la mesa. Descríbela un poco y que las características propias del campo de batalla tengan sentido en lo que describes. Por ejemplo, la tapa de una caja de zapatos puedes describirlo como que la zona de combate esta excavaba en la tierra o si es un plato podría ser que es el cráter de un volcán extinto.
 
@@ -408,7 +408,7 @@ Los dadómones legendarios tienen reglas especiales:
 
 ### Otros tipos de dados
 
-Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es una preevolución o una cría.
+Puedes usar cualquier otro tipo de dados que tengas, d30, d16, d2, etc. Simplemente, asignadles un nuevo rol, quizás un d30 sea un dadomon legendario único y un d2 es una preevolución o una cría.
 
 \sp
 
@@ -468,7 +468,7 @@ Los conspiranoicos dadomon están convencidos de que la app está llena de «spy
 
 ### Pandas de entrenadoras
 
-Antiguamente las entrenadoras salían solas al mundo con 14 años y era bastante normal que una persona que nunca había vivido en la naturaleza acabará perdida, herida o incluso muerta, sobre todo tratando de domesticar dadómones salvajes en cimas de montañas o en perdidos desiertos.
+Antiguamente, las entrenadoras salían solas al mundo con 14 años y era bastante normal que una persona que nunca había vivido en la naturaleza acabará perdida, herida o incluso muerta, sobre todo tratando de domesticar dadómones salvajes en cimas de montañas o en perdidos desiertos.
 
 Ante el aluvión de demandas que la Liga fue acumulando por estos hechos, decidió que era mejor montar pandas de entrenadoras. Si varias entrenadoras iban juntas podían ayudarse en situaciones de peligro o las que estuvieran mejor buscar ayuda. También es más fácil recuperar cadáveres si van en grupo que están separados.
 
@@ -602,7 +602,7 @@ El Equipo Misil es una organización terrorista que se dedica a robar dadómones
 
 Si la gente perdiera 5 minutos leyendo su página web, verían que es un grupo radical de defensores de los dadómones que consideran que son seres sintientes e inteligentes y, por tanto, con derechos. Es por eso que se dedican a robar dadómones y liberarlos de nuevo en la naturaleza, ya que consideran que la Liga Dadomon y las entrenadoras se dedican a esclavizarlos y maltratarlos.
 
-El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas son ningún tipo de problema.
+El equipo Misil es un reducto de libertad donde todas las personas tienen cabida siempre que quieran acabar con la Liga Dadomon y todo lo que esconde. Es por ello que una parte importante del equipo son personas queer que son aceptadas sin ningún tipo de problema o discriminación.
 
 \sp
 
