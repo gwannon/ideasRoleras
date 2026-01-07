@@ -60,7 +60,7 @@ Si no pierden, llegarán a la cima de la montaña donde **encontrarán unas anti
 
 En la sala central del templo, el Equipo Misil ha montado su base. Hay cajas de comida y botellas vacías tiradas por todas partes, revistas viejas y comics apilados en montones y equipo de campamento, como unas esterillas, unos saco de dormir y un hornillo.
 
-Si se cuelan en sigilo en el templo, tus entrenadoras podrán ver a los dos agentes del Equipo Misil quitarse su disfraz de enfermera, soltar a sus dadómones y darle comida y agua. Mientras hacen todo eso se reirán de tus entrenadoras y de las caras de bobas que se les han quedado cuando se han llevado sus dadómones.
+Si se cuelan en sigilo en el templo, tus entrenadoras podrán ver a los dos agentes del Equipo Misil quitarse su disfraz de enfermera, soltar a sus dadómones robados y darle comida y agua. Mientras hacen todo eso, se reirán de tus entrenadoras y de las caras de bobas que se les han quedado cuando se han llevado sus dadómones.
 
 También pueden entrar a saco, pero tienen que entender que estarán seguramente en inferioridad numérica, ya que no tienen sus dadómones. Sea como sea, cuando tus entrenadoras se presenten ante ellos, uno le dirá al otro «Doc, dale a la palanca» y el otro responderá «Hecho, Holiday» y tirará de una palanca de piedra de la pared y el suelo debajo de las entrenadoras se abrirá y caerán en un oscuro túnel.
 
@@ -68,18 +68,24 @@ Evitar caer en la trampa es imposible, a no ser que hayan preparado algo especia
 
 ### El laberinto
 
+Tus entrenadoras han caído en una red de túneles que van por debajo del templo. El suelo tiene una especie de carriles fluorescentes azules que dan suficiente luz para ver el camino, pero sin mucho detalle, como si fueran las luces de emergencia de un avión que te indican el camino de salida.
+
+Según vayan avanzando, se irán uniendo desde túneles adyacentes a vuestro carril azul otros carriles de otros colores y la luminosidad irá mejorando. Podrán ver que las paredes están llenos de grabados con símbolos extraños.
+
+
+Si siguen solo a un carril, llegarán a algún tipo de estancia, vacía y quizas con restos muy dañados de algún tipo de tecnología antigua, pero que parece moderna en sus funcionalidades (tirada de Mente). Si siguen el sentido en que van todos los carriles, llegarán a una gran puerta metálica, que está brillante e impoluta, ni una señal de óxido o de corrosión.
+
 XXX
 
 En una de las paredes, las teselas que hay en ella empezarán a cambiar de color e irán formando una imagen como si fuera una pantalla de ordenador, pero muy pixelado y con un toque pétreo. La imagen se irá aclarando hasta verse el diseño de un dadomon. El dadomon que están viendo es que del que hablaban los grabados de las paredes de las ruinas exteriores, «Textul» (descripción más adelante).
 
 XXX
 
-
 ### Enfrentarse a la verdad
 
 XXX
 
-Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad y sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
+Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidadm sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
 
 Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resúmeselo un poco o léelo directamente.
 
