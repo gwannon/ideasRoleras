@@ -624,6 +624,16 @@ No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon ext
 
 \sp
 
+\sinc
+
+# Primeras Andanzas
+
+\conc
+
+|Aventura.md|
+
+\sp
+
 ## Notas
 
 El texto está escrito en **femenino genérico**. Si no te gusta esta decisión, pues te vas por donde has venido.

@@ -75,23 +75,37 @@ Según vayan avanzando, se irán uniendo desde túneles adyacentes a vuestro car
 
 Si siguen solo a un carril, llegarán a algún tipo de estancia, vacía y quizas con restos muy dañados de algún tipo de tecnología antigua, pero que parece moderna en sus funcionalidades (tirada de Mente). Si siguen el sentido en que van todos los carriles, llegarán a una gran puerta metálica, que está brillante e impoluta, ni una señal de óxido o de corrosión.
 
-XXX
+La puerta es la única vía de salida factible, así que tendrán que buscar la manera de traspasarla. Si quieren atacarle para romperla, considéralo una **dadomon que siempre se defiende**:
 
-En una de las paredes, las teselas que hay en ella empezarán a cambiar de color e irán formando una imagen como si fuera una pantalla de ordenador, pero muy pixelado y con un toque pétreo. La imagen se irá aclarando hasta verse el diseño de un dadomon. El dadomon que están viendo es que del que hablaban los grabados de las paredes de las ruinas exteriores, «Textul» (descripción más adelante).
+* **d12 / 8 (6 + 2) heridas / Grande**
+* **Con números rojos:** Tiene 2 heridas extras.
 
-XXX
+Si consiguen dejarle sin heridas, la puerta se abrirá y podrán acceder a una gran sala llena de palancas, ruedas, engranajes, indicadores, todos de piedra o algo similar a la piedra. Las paredes están llenas de teselas de mosaico, pero todas tienen el mismo color azulado, como el fondo de una piscina.
+
+Si empiezan a toquetear (tirada de Mente) empezará un zumbido y en el techo se encenderán unos carriles como los del suelo, pero mucho más brillantes. Toda la sala empezará a tomar vida con extraños crujidos, silbidos y zumbidos.
+
+En una de las paredes, las teselas que hay en ella empezarán a cambiar de color e irán formando una imagen como si fuera una pantalla de ordenador, pero muy pixelado y con un toque pétreo. La imagen se irá aclarando hasta verse el diseño de un dadomon. El dadomon que están viendo es que el que se veía en los grabados del capitel del templo, «Textul» (descripción más adelante).
+
+Al lado del dibujo de Textul, aparecerá una estadística con unos niveles muy bajos. Con una tirada de Mente podrán ver que parecen los niveles de algún tipo sistema de retención. Pueden tratar de desactivar el sistema de retención o dejarlo activado.  
+
+Si lo desactivan, empezará a sonar una campana de alarma, el mosaico de Textul empezará a dar señales raras y en unos pocos segundos se derrumbara una parte de la sala y parte del techo que da al exterior. Podrán ver en la otra sala a Textul y como empieza a despertar y a rodearse de su aura de energía negativa, para salir volando por el agujero del techo hacia la libertad.
+
+Si no lo desactivan, pasará lo mismo en unos minutos empezará a sonar una campana, el gráfico de las retenciones empezará a parpadear y Textul se liberará ella sola.
+
+Podrán **salir escalando (tirada de Cuerpo)** y salir por el agujero del techo enfrente del templo de Textul.
 
 ### Enfrentarse a la verdad
 
 XXX
 
-Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidadm sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
+Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
 
 Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resúmeselo un poco o léelo directamente.
 
 ### El pacto
 
 En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holiday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.
+
 
 Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su gorra con el logo del Equipo Misil y les harán recitar el juramento:
 
