@@ -376,7 +376,7 @@ Cuando creas que puede **quedar bien en la trama**, puedes darle la oportunidad 
 
 Estas pueden ser algunas situaciones en que dar una evolución:
 
-* En mitad de un combate complicado contra un jefe de gimnasio dadomon.
+* En mitad de un combate complicado contra una jefa de gimnasio dadomon.
 * Al enfrentarse a algún dadomon legendario o de gran poder.
 * En mitad de un combate importante de la Liga Dadomon.
 * Quizás encuentren algún objeto/sustancia que le haga evolucionar.
@@ -526,7 +526,7 @@ Repartidos por toda las regiones, hay lo que se llaman Gimnasios Dadomon. Estás
 
 Cada gimnasio tiene una estructura diferente y suelen tener diseños extravagantes y llamativos. Pueden tener cualquier tipo de arquitectura, desde altas torres y polideportivos, hasta piscinas, granjas o cuevas. Normalmente, la Liga aprovecha, para ahorrar, instalaciones abandonadas y las compra, las arregla y las decora adecuadamente en función de la jefa de gimnasio que va a colocar en ese gimnasio.
 
-Lo mismo que los gimnasios tienen su personalidad, lo mismo pasan a los jefes de gimnasio que también suelen ser muy pintorescos. De hecho, mucha gente cree que son personajes creados por la Liga para hacer más interesantes estos encuentros, muy parecidos a los personajes que se crean a las luchadoras de lucha libre.
+Lo mismo que los gimnasios tienen su personalidad, lo mismo pasan a las jefas de gimnasio que también suelen ser muy pintorescos. De hecho, mucha gente cree que son personajes creados por la Liga para hacer más interesantes estos encuentros, muy parecidos a los personajes que se crean a las luchadoras de lucha libre.
 
 Estos gimnasios, aparte de ser una herramienta de marketing de la Liga Dadomon donde se autopromociona, se supone que son parte fundamental para poder participar en la Copa Dadomon, ya que debes visitar un número mínimo de ellos y por lo menos derrotar a un número mínimo de jefas de gimnasio.
 
@@ -538,7 +538,7 @@ Esto no quiere decir que sea fácil conseguir el pin, solamente que si la jefa l
 
 Como siempre, los conspiranoicos tiene su propia teoría: la Liga Dadomon entrega los gimnasios a «influencers» con millones de seguidores, no realmente grandes maestras dadomon con gran experiencia en los combates/entrenamiento dadomon.
 
-Pocos jefes de gimnasio tienen menos de dos millones de seguidores en las redes sociales. Pero la Liga ha contestado siempre que es al revés son «influencers» porque son jefes de gimnasio. Sea como sea, es sabido que si caes en seguidores pierdes tu gimnasio.
+Pocas jefas de gimnasio tienen menos de dos millones de seguidoras en las redes sociales. Pero la Liga ha contestado siempre que es al revés son «influencers» porque son jefas de gimnasio. Sea como sea, es sabido que si caes en seguidoras pierdes tu gimnasio.
 
 ### Copa Dadomon
 
@@ -614,7 +614,7 @@ El equipo Misil es un reducto de libertad donde todas las personas tienen cabida
 
 ### Copas guionizadas
 
-Cada año durante la copa siempre hay una gran entrenadora, un tapado por el que nadie da nada, una villana y toda una serie de personajes menores divertidos que llegan lejos, pero nunca ganan. Eso es porque un equipo de guionistas se dedica a montar todas esas tramas y presiona a los jefes de gimnasios para que fuercen ciertas situaciones, como que alguien gane en el último momento, u otro sea arrollador en todos sus combates.
+Cada año durante la copa siempre hay una gran entrenadora, un tapado por el que nadie da nada, una villana y toda una serie de personajes menores divertidos que llegan lejos, pero nunca ganan. Eso es porque un equipo de guionistas se dedica a montar todas esas tramas y presiona a las jefas de gimnasios para que fuercen ciertas situaciones, como que alguien gane en el último momento, u otro sea arrolladora y prepotente en todos sus combates.
 
 Además, el montaje y la voz en «off» de los reportajes de la Liga Dadomon manipula las aventuras de las entrenadoras para reforzar el guion que han montado para cada temporada.
 
