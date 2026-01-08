@@ -96,7 +96,7 @@ Como regla general, **las entrenadoras son como dadómones de d8**. Es decir, ti
 
 \sp
 
-Los dados de las entrenadoras y en general de todos los humanos que se encuentren, **no tienen ninguna capacidad especial**. No importa su color o diseño, el color de sus números y sus símbolos, no afectan a la tirada para nada. Tampoco deben ser más grandes o pequeños de lo normal. Pero tener domesticado a ciertos dadómones puede darte ciertos bonos en las tiradas en determinadas situaciones.
+Los dados de las entrenadoras y en general de todos las humanas que se encuentren, **no tienen ninguna capacidad especial**. No importa su color o diseño, el color de sus números y sus símbolos, no afectan a la tirada para nada. Tampoco deben ser más grandes o pequeños de lo normal. Pero tener domesticado a ciertos dadómones puede darte ciertos bonos en las tiradas en determinadas situaciones.
 
 ### Tiradas enfrentadas
 
@@ -191,7 +191,7 @@ Como siempre, si la galleta dadomon sale del campo de batalla, tu dadomon no la 
 
 El único productor de galletas dadomon es la Liga Dadomon y su fórmula es uno de los secretos mejor guardados. Nadie sabe como un mismo producto puede dar esas capacidades estimulantes a tan gran variedad de seres vivos y, sin embargo, no tengan efecto en las entrenadoras, excepto, quizás, un poco de diarrea, si comes muchas.
 
-> **Semilla de aventura:** Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son humanos. Quizás tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
+> **Semilla de aventura:** Los conspiranoicos dicen que el componente activo de las galletas son otros dadómones y los superconspiranoicos creen que son personas. Quizás tus entrenadoras deberían entrar en una de las factorías e investigarlo. 
 
 \sinc
 
@@ -356,7 +356,7 @@ Los pasos a seguir son:
 5. Si al tirar su dado de domesticar **superan o igualan el valor actual del dado del dadomon** o el nuevo valor que saldrá al lanzar el dado de domesticar contra el dado del dadomon, consigues domesticarlo.
 6. Si el **dado de domesticar se sale del campo de batalla, falla directamente**. Si el **dado del dadomon se sale de la zona de combate** al tratar de domesticarlo, este **escapa para no volver** en bastante tiempo.
 
-Lo curioso de todo esto es que a nadie en miles de años, desde que los humanos pisan la tierra, se le ha ocurrido montar criaderos de dadómones para que ya estén domesticados y poder venderlos a las entrenadoras. Sin embargo, tu dadomon inicial sí está domesticado cuando te lo entregan, con lo que sí debe haber instalaciones de la Liga Dadomon donde se domestican los dadómones iniciales.
+Lo curioso de todo esto es que a nadie en miles de años, desde que las humanas pisan la tierra, se le ha ocurrido montar criaderos de dadómones para que ya estén domesticados y poder venderlos a las entrenadoras. Sin embargo, tu dadomon inicial sí está domesticado cuando te lo entregan, con lo que sí debe haber instalaciones de la Liga Dadomon donde se domestican los dadómones iniciales.
 
 |Característica|Tipo|
 |---|---|
@@ -606,11 +606,7 @@ El equipo Misil es un reducto de libertad donde todas las personas tienen cabida
 
 \sp
 
-[![Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
-
 > Lo normal, si tus jugadoras son buena gente, es que tras unos encuentros con el Equipo Misil, terminen descubriendo la verdad sobre este grupo y acaben uniéndose a ellos ayudando a liberar dadómones de las garras de la Liga Dadomon.
-
-\sc
 
 ### Copas guionizadas
 
@@ -621,6 +617,14 @@ Además, el montaje y la voz en «off» de los reportajes de la Liga Dadomon man
 De hecho, ha habido situaciones en las que la propia Liga Dadomon ha usado gran cantidad de recursos para que las entrenadoras acaben en zonas de guerra y de desastres donde ayudan con sus dadómones. También ha habido temporadas en que han contratado a actrices para meter tramas románticas en las aventuras de las entrenadoras que querían resaltar.
 
 No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon extrañas fueran creadas por la propia Liga Dadomon para probarlas en campo y de paso meter drama a las historias.
+
+### Dadómones legendarios
+
+La Liga lleva años tratando de cazar a estos dadómones excepcionales, no solo por sus capacidades excepcionales y sus poderes, también porque están convencidos de que poseen una inteligencia superior a la de dadómones y humanas.
+
+Y mientras se dedican a cazarlos, por otro lado tratan de esconderlos del público. Así que hay una campaña constante de desprestigio por parte de las jefas de gimnasio y sus seguidores contra personas que dicen que tienen pruebas de su existencia o han tenido interacciones con ellos.
+
+La Liga con la ayuda de las empresas armamentísticas que la subvencionan ha desarrollado unas grandes máquinas voladoras con armamento capaz de acabar con dadómones legendarios.
 
 \sp
 

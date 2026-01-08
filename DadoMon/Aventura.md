@@ -12,9 +12,11 @@ Tus entrenadoras, tras recibir sus dadómones iniciales, pondrá rumbo a Ciudad 
 
 En las ruinas encontrarán grabados y relieves hablando de un dadomon legendario que habitaba estas tierras y que era adorado en este lugar. Durante el intento de liberar a sus dadómones, encontrarán una sala secreta donde hay una especie de ordenador ancestral. Si se ponen a toquetear, tomará vida y aparecerán una especie de relieves animados de dadomon legendario del que hablaban los grabados de las ruinas.
 
-El Equipo Misil, tras un duro combate contra tus entrenadoras usando sus aliados dadomon, terminará rindiéndose y contando la verdad de la Liga Dadomon y como ellos luchan contra todo eso. Les pedirán que les ayuden como agentes infiltrados y su primera misión será ayudarles a destruir el laboratorio biológico que hay en el Centro Dadomon de Villa Pescadilla.
+El Equipo Misil, tras un duro combate contra tus entrenadoras usando sus aliados dadomon, terminará rindiéndose y contando la verdad de la Liga Dadomon y como ellos luchan contra todo eso.
 
 \sp
+
+Les pedirán que les ayuden como agentes infiltrados y su primera misión será ayudarles a destruir el laboratorio biológico que hay en el Centro Dadomon de Villa Pescadilla.
 
 Si deciden ayudarles, tendrán que infiltrarse en el laboratorio y liberar a los dadómones con los que están investigando. Encontrarán unos archivos con fichas de sus dadómones y que han hecho algún tipo de experimentos con ellos.
 
@@ -26,6 +28,8 @@ Al intentar huir se verán rodeados por los dadómones de la seguridad de la Lig
 
 \conc
 
+[![Dadomon por Roque Romero](./images/dadomon_roque_romero.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+
 Tus entrenadoras empezarán en el hall del Centro Pokémon de Villa Pescadilla, un pequeño pueblo en las montañas. Han sido **citadas a la misma hora** y las dejarán esperando el tiempo suficiente para que se presenten y empiecen a hablar entre ellas.
 
 Si no están muy comunicativas, puede aparecer alguien del equipo del Centro a hacerles algunas preguntas sobre el dadomon que desean o que piensan hacer después de recibir su dadomon inicial.
@@ -33,6 +37,8 @@ Si no están muy comunicativas, puede aparecer alguien del equipo del Centro a h
 Una a una entrarán en una sala donde podrán encontrar en una especie de jaula su dadomon inicial y le darán de alta en la app de «Dadodex». Puedes aprovechar a pedirles que acepten las **condiciones legales de la aplicación y con una tirada de Mente**, pueden ver que están aceptando cosas un poco sospechosas como compartir no solo su ubicación para poder rescatarlos, sino otros datos como fotos, contactos, mensajes, etc. Muchas cosas que se saltan la mínima privacidad.
 
 > Puedes dejarles antes de entrar de lleno en la aventura que una de tus entrenadoras intenten capturar un dadomon y domesticarlos para haceros un poco con el sistema y porque mola meter la mano en el pozo de dadómones a ver que se saca.
+
+\sp
 
 \sinc
 
@@ -43,8 +49,6 @@ Una a una entrarán en una sala donde podrán encontrar en una especie de jaula 
 Al salir del Centro Dadomon en la carretera hacia Ciudad Electrodo, la ciudad con un Gimnasio Dadomon más cercana, verán una especie de autobús medicalizado con el logotipo de la Liga Dadomon. Fuera, debajo de un toldo completo anexo al autobús, hay dos personas con traje enfermera repartiendo unos folletos y preguntando «¿Su dadomon es alérgico a las galletas dadomon? Puede ser un problema grave. Hágale una prueba gratuita ahora». 
 
 Si no quieren testar si sus dadómones son alérgicos a las galletas dadomon, puedes ofrecerles otros test de cosas que aparezcan más terribles, como la «artritis anti-evolutiva» o la «sarna dadomon». Con que consigan llevarse uno de los dadómones servirá, pero si se llevan todos los dadómones, sería lo óptimo.
-
-\sp
 
 Se meterán en el autobús con los dadómones y empezarán a reírse y gritar dentro.
 
@@ -68,6 +72,8 @@ En la sala central del templo, el Equipo Misil ha montado su base. Hay cajas de 
 
 Si se cuelan en sigilo en el templo, tus entrenadoras podrán ver a los dos agentes del Equipo Misil quitarse su disfraz de enfermera, soltar a sus dadómones robados y darle comida y agua. Mientras hacen todo eso, se reirán de tus entrenadoras y de las caras de bobas que se les han quedado cuando se han llevado sus dadómones.
 
+\sp
+
 También pueden entrar a saco, pero tienen que entender que estarán seguramente en inferioridad numérica, ya que no tienen sus dadómones. Sea como sea, cuando tus entrenadoras se presenten ante ellos, uno le dirá al otro «Doc, dale a la palanca» y el otro responderá «Hecho, Holiday» y tirará de una palanca de piedra de la pared y el suelo debajo de las entrenadoras se abrirá y caerán en un oscuro túnel.
 
 Evitar caer en la trampa es imposible, a no ser que hayan preparado algo especial, pero puedes pedir una tirada de Cuerpo o recibir una herida.
@@ -77,8 +83,6 @@ Evitar caer en la trampa es imposible, a no ser que hayan preparado algo especia
 Tus entrenadoras han caído en una red de túneles que van por debajo del templo. El suelo tiene una especie de carriles fluorescentes azules que dan suficiente luz para ver el camino, pero sin mucho detalle, como si fueran las luces de emergencia de un avión que te indican el camino de salida.
 
 Según vayan avanzando, se irán uniendo desde túneles adyacentes a vuestro carril azul otros carriles de otros colores y la luminosidad irá mejorando. Podrán ver que las paredes están llenos de grabados con símbolos extraños.
-
-\sp
 
 Si siguen solo a un carril, llegarán a algún tipo de estancia, vacía y quizás con restos muy dañados de algún tipo de tecnología antigua, pero que parece moderna en sus funcionalidades (tirada de Mente). Si siguen el sentido en que van todos los carriles, llegarán a una gran puerta metálica, que está brillante e impoluta, ni una señal de óxido o de corrosión.
 
@@ -97,6 +101,8 @@ Al lado del dibujo de Textul, aparecerá una estadística con unos niveles muy b
 
 Si lo desactivan, empezará a sonar una campana de alarma, el mosaico de Textul empezará a dar señales raras y en unos pocos segundos se derrumbará una parte de la sala y parte del techo que da al exterior. Podrán ver en la otra sala a Textul y como empieza a despertar y a rodearse de su aura de energía negativa, para salir volando por el agujero del techo hacia la libertad.
 
+\sp
+
 Si no lo desactivan, pasará lo mismo. En unos minutos empezará a sonar una campana, el gráfico de las retenciones empezará a parpadear y Textul se liberará ella sola.
 
 Podrán **salir escalando (tirada de Cuerpo)** por el agujero del techo, saliendo enfrente del templo de Textul.
@@ -111,8 +117,6 @@ La vía de la violencia será un combate dadomon contra los dadómones de Doc y 
 
 * **d8 / 4 heridas**
 * **Morado con números amarillos:** Te dan +1 a tus tiradas de Encanto al seducir, encandilar y coquetear y puede repetir una tirada.
-
-\sp
 
 #### Cruncho
 
@@ -140,6 +144,8 @@ Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su g
 
 En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad Electrodo, mientras Doc, Holiday y sus dadómones se abrazan y lloran lastimosamente.
 
+\sp
+
 \sinc
 
 ## Ataque al Centro Dadomon
@@ -153,8 +159,6 @@ Doc y Holiday les ofrecerán comer con ellos y explicarles cuál va a ser su pr�
 Lo primero será montar un buen plan de ataque. Por un lado, hay que sacar a los dadómones que hay retenidos en las instalaciones y luego destruir el laboratorio. Para sacar a los dadómones que estarán seguramente heridos o incapacitados tienen su autobús y para destruir el laboratorio tienen una bomba casera que Holiday ha montado con vídeos de internet.
 
 La idea principal sería colarse en el laboratorio, sacar a los dadómones de sus jaulas, dejar la bomba y hacerla explotar cuando estén todos en el autobús rumbo a su guarida. Tus entrenadoras deberán definir los detalles más complicados.
-
-\sp
 
 * La entrada es una única puerta blindada con un código de entrada en la parte trasera del Centro Dadomon. Hay una cámara que la vigila 24 horas.
 * No hay más entradas, la otra opción sería o usar la ventilación del laboratorio o hacer algún tipo de agujero o butrón.
@@ -176,6 +180,8 @@ Sea como sea su plan, seguramente terminarán teniendo que hacer duelos con los 
 * **d6 / 3 heridas**
 * **Metálicos con números negros:** Dan +1 a Cuerpo al combatir y tiras un d8 cuando le lanzas una galleta dadomon.
 
+\sp
+
 #### Dadomon vigilante 2
 
 * **d6 / 5 (3 + 2) heridas**
@@ -195,8 +201,6 @@ Cuando lo creas oportuno para la historia o cuando todos los dadómones de tus e
 
 Textul tiene gran cuerpo esférico blanco del que salen 4 extremidades y dos grandes alas de murciélago. Tiene pinchos rojos por todo su cuerpo y una mancha roja en forma de gota de sangre en el pecho. Un aura negativa recubre todo su cuerpo.
 
-\sp
-
 * **d20 / 12 (10 + 2) heridas / Grande**
 * **Blanco con números rojos:** Puede volar con sus grandes alas de murciélago y tiene 2 heridas extras.
 * **Símbolo Minus (1):** Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.
@@ -214,9 +218,13 @@ Si aceptan cuidar el orbe, Textul lanzará un rayo de energía al orbe que se di
 
 Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosque en las afueras y cuando bajen de su espalda, se despedirá y se irá volando.
 
+\sp
+
 ### Cómo continuar
 
-El Orbe de Vida es en realidad un huevo de Tultex, el dadomon antítesis del Textul que controla la energía positiva evolutiva. Cuando este eclosione y crezca buscará a Textul para enfrentarse a él. El perdedor se convertirá en un Orbe de Vida y el ganador deberá buscar a quien lo crie.
+El Orbe de Vida es en realidad un huevo de Tultex, el dadomon antítesis del Textul que controla la energía positiva evolutiva. 
+
+Cuando este eclosione y crezca buscará a Textul para enfrentarse a él. El perdedor se convertirá en un Orbe de Vida y el ganador deberá buscar a quien lo crie.
 
 En este ciclo eterno de nacimiento, lucha y muerte la energía negativa y positiva excesiva se equilibra, pero al estar Textul encerrado en las ruinas perdidas, se había roto el ciclo eterno de energía positiva y negativa y el mundo se había quedado estancado en la energía negativa.
 
