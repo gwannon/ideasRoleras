@@ -88,24 +88,39 @@ En una de las paredes, las teselas que hay en ella empezarán a cambiar de color
 
 Al lado del dibujo de Textul, aparecerá una estadística con unos niveles muy bajos. Con una tirada de Mente podrán ver que parecen los niveles de algún tipo sistema de retención. Pueden tratar de desactivar el sistema de retención o dejarlo activado.  
 
-Si lo desactivan, empezará a sonar una campana de alarma, el mosaico de Textul empezará a dar señales raras y en unos pocos segundos se derrumbara una parte de la sala y parte del techo que da al exterior. Podrán ver en la otra sala a Textul y como empieza a despertar y a rodearse de su aura de energía negativa, para salir volando por el agujero del techo hacia la libertad.
+Si lo desactivan, empezará a sonar una campana de alarma, el mosaico de Textul empezará a dar señales raras y en unos pocos segundos se derrumbará una parte de la sala y parte del techo que da al exterior. Podrán ver en la otra sala a Textul y como empieza a despertar y a rodearse de su aura de energía negativa, para salir volando por el agujero del techo hacia la libertad.
 
-Si no lo desactivan, pasará lo mismo en unos minutos empezará a sonar una campana, el gráfico de las retenciones empezará a parpadear y Textul se liberará ella sola.
+Si no lo desactivan, pasará lo mismo. En unos minutos empezará a sonar una campana, el gráfico de las retenciones empezará a parpadear y Textul se liberará ella sola.
 
-Podrán **salir escalando (tirada de Cuerpo)** y salir por el agujero del techo enfrente del templo de Textul.
+Podrán **salir escalando (tirada de Cuerpo)** por el agujero del techo, saliendo enfrente del templo de Textul.
 
 ### Enfrentarse a la verdad
 
-XXX
+Doc y Holiday, ante el estruendo del derrumbe, habrán salido a la puerta del templo y cuando vean a tus entrenadoras, les dirán que tienen dos opciones, la vía del diálogo o la vía de la violencia.
 
-Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
+La vía de la violencia será un combate dadomon contra los dadómones de Doc y Holiday con los dadómones que les a ellos. Si no tienen dadómones tendrán que pelearse ellos mismos. El equipo Misil **disponen de dos galletas dadomon cada uno** que podrán usar en el combate.
+
+#### Crunchi
+
+* **d8 / 4 heridas**
+* **Morado con números amarillos:** Te dan +1 a tus tiradas de Encanto al seducir, encandilar y coquetear y puede repetir una tirada.
+
+
+#### Cruncho
+
+* **d6 / 4 heridas**
+* **Blanco con números negros:** Pueden volar y tiras un d8 cuando le lanzas una galleta dadomon.
+* **Símbolo Gota (6):** Regenera una herida cuando sale 1.
+
+Si pierden el duelo dadomon, el equipo Misil tomará la vía del diálogo por ellos. Sobre todo porque no estarán en condiciones de negarse. Si ganan podrán liberar a sus mascotas «secuestradas» y largarse del templo. Aunque todavía pueden tomar la vía del diálogo. 
+
+Si aceptan la vía del diálogo, Doc y Holiday se pondrán unos bigotes y unas gafas falsas rollo profesor de universidad sacarán de la nada un proyector de diapositivas (busca en internet si no sabes qué es) y les pondrán contra una de las paredes del templo una serie de diapositivas explicando lo mala que es la Liga Dadomon y que hace el Equipo Misil para luchar contra ello.
 
 Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomon». Resúmeselo un poco o léelo directamente.
 
 ### El pacto
 
 En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holiday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.
-
 
 Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su gorra con el logo del Equipo Misil y les harán recitar el juramento:
 
