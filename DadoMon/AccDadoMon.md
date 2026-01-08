@@ -784,7 +784,9 @@ Si aceptan cuidar el orbe, Textul lanzará un rayo de energía al orbe que se di
 Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosque en las afueras y cuando bajen de su espalda, se despedirá y se irá volando.
 
 
-### Cómo continuar
+
+## Cómo continuar
+
 
 El Orbe de Vida es en realidad un huevo de Tultex, el dadomon antítesis del Textul que controla la energía positiva evolutiva. 
 

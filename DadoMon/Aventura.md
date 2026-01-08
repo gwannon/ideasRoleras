@@ -220,7 +220,11 @@ Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosqu
 
 \sp
 
-### Cómo continuar
+\sinc
+
+## Cómo continuar
+
+\conc
 
 El Orbe de Vida es en realidad un huevo de Tultex, el dadomon antítesis del Textul que controla la energía positiva evolutiva. 
 
