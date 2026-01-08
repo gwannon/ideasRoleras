@@ -8,7 +8,7 @@ Esta aventura está pensada para **tres entrenadoras y una DJ**. Terminarla pued
 
 \conc
 
-Tus entrenadoras, tras recibir sus dadómones iniciales, pondrá rumbo a Ciudad Electrodo. En el camino el Equipo Misil, disfrazados de enfermeros haciendo pruebas médicas gratis a los dadómones, les robarán sus dadómones y huirán. Deberán seguirlos hasta unas antiguas ruinas en la montaña donde la célula terrorista ha montado su guarida.
+Tus entrenadoras, tras recibir sus dadómones iniciales, pondrá rumbo a Ciudad Electrodo. En el camino, el Equipo Misil, disfrazados de enfermeros haciendo pruebas médicas gratis a los dadómones, les robarán sus dadómones y huirán. Deberán seguirlos hasta unas antiguas ruinas en la montaña donde la célula terrorista ha montado su guarida.
 
 En las ruinas encontrarán grabados y relieves hablando de un dadomon legendario que habitaba estas tierras y que era adorado en este lugar. Durante el intento de liberar a sus dadómones, encontrarán una sala secreta donde hay una especie de ordenador ancestral. Si se ponen a toquetear, tomará vida y aparecerán una especie de relieves animados de dadomon legendario del que hablaban los grabados de las ruinas.
 
@@ -48,13 +48,13 @@ Si no quieren testar si sus dadómones son alérgicos a las galletas dadomon, pu
 
 Se meterán en el autobús con los dadómones y empezarán a reírse y gritar dentro.
 
-Sin previo aviso y ante sus narices el autobús arrancará haciendo que el toldo les caiga encima a las entrenadoras e impidiendo que puedan hacer nada. Cuando consigan salir de debajo de la gruesa tela, el autobús estará tan lejos que no podrán seguirles. 
+Sin previo aviso y ante sus narices, el autobús arrancará haciendo que el toldo les caiga encima a las entrenadoras e impidiendo que puedan hacer nada. Cuando consigan salir de debajo de la gruesa tela, el autobús estará tan lejos que no podrán seguirles. 
 
 Si se fijan, ahora se puede ver que el autobús tiene el logo del Equipo Misil que estaba tapado por el toldo anexo. Por las ventanas del conductor verán a las enfermeras gritarles «¡¡¡Pringados!!! Habéis sido engañados por el Equipo Misil».
 
 ### Persiguiendo a los ladrones
 
-El autobús ha huido sin que puedan hacer nada, así que deberán rastrear sus huellas a través de las pistas forestales. No ocultan sus huellas así que **no debería ser difícil seguirles montaña arriba**, sobre todo si tienen algún dadomon volador.  
+El autobús ha huido sin que puedan hacer nada, así que deberán rastrear sus huellas a través de las pistas forestales. No ocultan sus huellas, así que **no debería ser difícil seguirles montaña arriba**, sobre todo si tienen algún dadomon volador.  
 
 Si no pierden, llegarán a la cima de la montaña donde **encontrarán unas antiguas ruinas** mezcla de elementos arquitectónicos romanos/griegos y aztecas. El lugar está cubierto de maleza y parece que hace muchos años que nadie se preocupa por el lugar. Las rodadas del autobús llevan hasta una especie de templo con un relieve desgastado en su capitel de un dadomon de forma esférica con alas.
 
@@ -80,7 +80,7 @@ Según vayan avanzando, se irán uniendo desde túneles adyacentes a vuestro car
 
 \sp
 
-Si siguen solo a un carril, llegarán a algún tipo de estancia, vacía y quizas con restos muy dañados de algún tipo de tecnología antigua, pero que parece moderna en sus funcionalidades (tirada de Mente). Si siguen el sentido en que van todos los carriles, llegarán a una gran puerta metálica, que está brillante e impoluta, ni una señal de óxido o de corrosión.
+Si siguen solo a un carril, llegarán a algún tipo de estancia, vacía y quizás con restos muy dañados de algún tipo de tecnología antigua, pero que parece moderna en sus funcionalidades (tirada de Mente). Si siguen el sentido en que van todos los carriles, llegarán a una gran puerta metálica, que está brillante e impoluta, ni una señal de óxido o de corrosión.
 
 La puerta es la única vía de salida factible, así que tendrán que buscar la manera de traspasarla. Si quieren atacarle para romperla, considéralo una **dadomon que siempre se defiende**:
 
@@ -116,7 +116,7 @@ La vía de la violencia será un combate dadomon contra los dadómones de Doc y 
 
 #### Cruncho
 
-* **d6 / 4 heridas**
+* **d6 / 3 heridas**
 * **Blanco con números negros:** Pueden volar y tiras un d8 cuando le lanzas una galleta dadomon.
 * **Símbolo Gota (6):** Regenera una herida cuando sale 1.
 
@@ -132,7 +132,11 @@ En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a
 
 Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su gorra con el logo del Equipo Misil y les harán recitar el juramento:
 
-XXX
+* _Para proteger al mundo de la Liga Dadomon._
+* _Para liberar a todos los dadómones de su prisión._
+* _Para denunciar a los enemigos de la verdad y el amor._
+* _Para extender la verdad más allá del espacio exterior._
+* _¡Al Equipo Misil me uniré!_
 
 En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad Electrodo, mientras Doc, Holiday y sus dadómones se abrazan y lloran lastimosamente.
 
@@ -142,19 +146,42 @@ En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad El
 
 \conc
 
-XXX
+Doc y Holiday les ofrecerán comer con ellos y explicarles cuál va a ser su próximo golpe, liberar a un montón de dadómones con los que estás experimentando en la zona restringida del Centro Dadomon de Villa Pescadilla. Parece ser que experimentan con ellos diferentes medicamentos para mejorarlos y les hacen vivisecciones para estudiarlos mejor y mejorar las drogas evolutivas.
 
 ### Preparando el ataque
 
-XXX
+Lo primero será montar un buen plan de ataque. Por un lado, hay que sacar a los dadómones que hay retenidos en las instalaciones y luego destruir el laboratorio. Para sacar a los dadómones que estarán seguramente heridos o incapacitados tienen su autobús y para destruir el laboratorio tienen una bomba casera que Holiday ha montado con vídeos de internet.
+
+La idea principal sería colarse en el laboratorio, sacar a los dadómones de sus jaulas, dejar la bomba y hacerla explotar cuando estén todos en el autobús rumbo a su guarida. Tus entrenadoras deberán definir los detalles más complicados.
+
+\sp
+
+* La entrada es una única puerta blindada con un código de entrada en la parte trasera del Centro Dadomon. Hay una cámara que la vigila 24 horas.
+* No hay más entradas, la otra opción sería o usar la ventilación del laboratorio o hacer algún tipo de agujero o butrón.
+* Hay vigilantes que van a turnos de 8 horas. Quizás podrían atacarlos en el cambio y colarse. Los vigilantes llevan sus propios dadómones, con lo que deberán enfrentarse a ellos.
+* Puede hacer que salgan del laboratorio, por ejemplo, dejando sus dadómones en la puerta a ver si salen a capturarlos para experimentar en ellos.
+* Podrían hacerse pasar por gente de la Liga Dadomon, pero deberán ser muy convincentes, porque saben quién va a pasarse por el centro.
+* Si montan una distracción en el Centro, solo provocarán problemas en el Centro. Digamos que el laboratorio está separado del centro y son independientes con su propio sistema antiincendios, electricidad, agua, etc.
 
 Por último, Doc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomon para ayudarles durante la incursión en el Centro Dadomon.
 
+El laboratorio son varias estancias alrededor de una sala central donde se hacen las pruebas. Alrededor hay una zona de retención de dadómones, la sala de control de los vigilantes, una cantina y zona de descanso y por último la entrada. El techo son unas claraboyas gigantes que dejan entrar mucha luz solar.
+
 ### Metiéndose en faena
 
-XXX
+Sea como sea su plan, seguramente terminarán teniendo que hacer duelos con los dadómones de los vigilantes. Son su arma, así que si derrotas a su dadomon, es como si los desarmaras con lo que saldrán corriendo. Cada vigilante tiene una galleta dadomon para azuzar su dadomon. 
 
-\sp
+#### Dadomon vigilante 1
+
+* **d6 / 3 heridas**
+* **Metálicos con números negros:** Dan +1 a Cuerpo al combatir y tiras un d8 cuando le lanzas una galleta dadomon.
+
+#### Dadomon vigilante 2
+
+* **d6 / 5 (3 + 2) heridas**
+* **Metálicos con números rojos:** Dan +1 a Cuerpo al combatir y dos heridas extras.
+
+No hay límite a los vigilantes, así que según se muevan por el laboratorio, puedes ir sacándoles en cada estancia. Tampoco son duelos oficiales, con lo que no se peude salir fuera de la zona de combate, así que toda la mesa es la zona de combate e incluso si se caae el dado no supondrá salirse de laa zona de combate.
 
 \sinc
 
@@ -167,6 +194,8 @@ Cuando lo creas oportuno para la historia o cuando todos los dadómones de tus e
 ### Textul
 
 Textul tiene gran cuerpo esférico blanco del que salen 4 extremidades y dos grandes alas de murciélago. Tiene pinchos rojos por todo su cuerpo y una mancha roja en forma de gota de sangre en el pecho. Un aura negativa recubre todo su cuerpo.
+
+\sp
 
 * **d20 / 12 (10 + 2) heridas / Grande**
 * **Blanco con números rojos:** Puede volar con sus grandes alas de murciélago y tiene 2 heridas extras.
