@@ -95,6 +95,8 @@ Al lado del dibujo de Textul, aparecerá una estadística con unos niveles muy b
 Si lo desactivan, empezará a sonar una campana de alarma, el mosaico de Textul empezará a dar señales raras y en unos pocos segundos se derrumbará una parte de la sala y parte del techo que da al exterior. Podrán ver en la otra sala a Textul y como empieza a despertar y a rodearse de su aura de energía negativa, para salir volando por el agujero del techo hacia la libertad.
 
 
+[![Dadomon por Roque Romero](./images/d6-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+
 Si no lo desactivan, pasará lo mismo. En unos minutos empezará a sonar una campana, el gráfico de las retenciones empezará a parpadear y Textul se liberará ella sola.
 
 Podrán **salir escalando (tirada de Cuerpo)** por el agujero del techo, saliendo enfrente del templo de Textul.
@@ -126,6 +128,9 @@ Cada diapositiva explica cada punto de la sección «La verdad de la Liga Dadomo
 
 En este punto tus entrenadoras deberán tomar la decisión de si creen a Doc y a Holiday y se unen a Equipo Misil como agentes dobles o pasan de elles y continúan su viaje.
 
+
+[![Dadomon por Roque Romero](./images/d6-5.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+
 Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su gorra con el logo del Equipo Misil y les harán recitar el juramento:
 
 * _Para proteger al mundo de la Liga Dadomon._
@@ -135,7 +140,6 @@ Si aceptan formar parte del Equipo Misil, le entregarán su carnet oficial, su g
 * _¡Al Equipo Misil me uniré!_
 
 En caso de no aceptar, podrán irse con sus dadómones y poner rumbo a Ciudad Electrodo, mientras Doc, Holiday y sus dadómones se abrazan y lloran lastimosamente.
-
 
 
 ## Ataque al Centro Dadomon
@@ -152,6 +156,8 @@ La idea principal sería colarse en el laboratorio, sacar a los dadómones de su
 * La entrada es una única puerta blindada con un código de entrada en la parte trasera del Centro Dadomon. Hay una cámara que la vigila 24 horas.
 * No hay más entradas, la otra opción sería o usar la ventilación del laboratorio o hacer algún tipo de agujero o butrón.
 * Hay vigilantes que van a turnos de 8 horas. Quizás podrían atacarlos en el cambio y colarse. Los vigilantes llevan sus propios dadómones, con lo que deberán enfrentarse a ellos.
+
+
 * Puede hacer que salgan del laboratorio, por ejemplo, dejando sus dadómones en la puerta a ver si salen a capturarlos para experimentar en ellos.
 * Podrían hacerse pasar por gente de la Liga Dadomon, pero deberán ser muy convincentes, porque saben quién va a pasarse por el centro.
 * Si montan una distracción en el Centro, solo provocarán problemas en el Centro. Digamos que el laboratorio está separado del centro y son independientes con su propio sistema antiincendios, electricidad, agua, etc.
@@ -169,7 +175,6 @@ Sea como sea su plan, seguramente terminarán teniendo que hacer duelos con los 
 
 * **d6 / 3 heridas**
 * **Metálicos con números negros:** Dan +1 a Cuerpo al combatir y tiras un d8 cuando le lanzas una galleta dadomon.
-
 
 #### Dadomon vigilante 2
 
@@ -190,6 +195,7 @@ Cuando lo creas oportuno para la historia o cuando todos los dadómones de tus e
 
 Textul tiene gran cuerpo esférico blanco del que salen 4 extremidades y dos grandes alas de murciélago. Tiene pinchos rojos por todo su cuerpo y una mancha roja en forma de gota de sangre en el pecho. Un aura negativa recubre todo su cuerpo.
 
+
 * **d20 / 12 (10 + 2) heridas / Grande**
 * **Blanco con números rojos:** Puede volar con sus grandes alas de murciélago y tiene 2 heridas extras.
 * **Símbolo Minus (1):** Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.
@@ -206,7 +212,6 @@ Textul les dirá que puede leer sus almas, que sabe qué son buenas y necesita u
 Si aceptan cuidar el orbe, Textul lanzará un rayo de energía al orbe que se dividirá en más rayos que impactarán en los dadómones de las entrenadoras y evolucionarán 1 rango, pasando de d4 a d6. Les dirá que necesitarán ser más fuertes para proteger el orbe.
 
 Cuando se den cuenta habrán llegado a Ciudad Electrodo, aterrizará en un bosque en las afueras y cuando bajen de su espalda, se despedirá y se irá volando.
-
 
 
 ## Cómo continuar

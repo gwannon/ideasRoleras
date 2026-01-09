@@ -32,7 +32,7 @@ En los tiempos de antaño, viejas científicas chochas de dudosa reputación en 
 
 \sp
 
-[![Dadomon por Roque Romero](./images/d6-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d4-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Lo curioso es que, aunque todas las entrenadoras empezaban con los 3 mismos dadómones, luego no las veías ir a los combates de la Liga con alguno de esos dadómones en su equipo.
 
@@ -492,7 +492,7 @@ Lo normal es que todos los Centros Dadomon tengan:
 * Zona de aseo con duchas e incluso una pequeña zona de SPA.
 * Enfermería para dadómones.
 
-[![Dadomon por Roque Romero](./images/d6-5.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+[![Dadomon por Roque Romero](./images/d10-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 Una cosa que puede terminar llamando la atención a tus entrenadoras es que los Centros dadomon siempre tienen una zona restringida con sistemas de seguridad y videovigilancia, puertas blindadas, escáneres de retina, etc. Normalmente, entran camiones y cajas gigantes con el logo de la Liga Dadomon en estas zonas.
 
@@ -625,6 +625,8 @@ La Liga lleva años tratando de cazar a estos dadómones excepcionales, no solo 
 Y mientras se dedican a cazarlos, por otro lado, tratan de esconderlos del público. Así que hay una campaña constante de desprestigio por parte de las jefas de gimnasio y sus seguidores contra personas que dicen que tienen pruebas de su existencia o han tenido interacciones con ellos.
 
 La Liga con la ayuda de las empresas armamentísticas que la subvencionan ha desarrollado unas grandes máquinas voladoras con armamento capaz de acabar con dadómones legendarios.
+
+[![Dadomon por Roque Romero](./images/d8-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
 
 \sp
 
