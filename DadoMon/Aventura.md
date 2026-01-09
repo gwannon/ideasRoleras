@@ -187,7 +187,7 @@ Sea como sea su plan, seguramente terminarán teniendo que hacer duelos con los 
 * **d6 / 5 (3 + 2) heridas**
 * **Metálicos con números rojos:** Dan +1 a Cuerpo al combatir y dos heridas extras.
 
-No hay límite a los vigilantes, así que según se muevan por el laboratorio, puedes ir sacándoles en cada estancia. Tampoco son duelos oficiales, con lo que no se peude salir fuera de la zona de combate, así que toda la mesa es la zona de combate e incluso si se caae el dado no supondrá salirse de laa zona de combate.
+No hay límite a los vigilantes, así que según se muevan por el laboratorio, puedes ir sacándoles en cada estancia. Tampoco son duelos oficiales, con lo que no se puede salir fuera de la zona de combate, así que toda la mesa es la zona de combate e incluso si se cae el dado no supondrá salirse de la zona de combate.
 
 \sinc
 

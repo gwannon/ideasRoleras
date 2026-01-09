@@ -754,7 +754,7 @@ Sea como sea su plan, seguramente terminarán teniendo que hacer duelos con los 
 * **d6 / 5 (3 + 2) heridas**
 * **Metálicos con números rojos:** Dan +1 a Cuerpo al combatir y dos heridas extras.
 
-No hay límite a los vigilantes, así que según se muevan por el laboratorio, puedes ir sacándoles en cada estancia. Tampoco son duelos oficiales, con lo que no se peude salir fuera de la zona de combate, así que toda la mesa es la zona de combate e incluso si se caae el dado no supondrá salirse de laa zona de combate.
+No hay límite a los vigilantes, así que según se muevan por el laboratorio, puedes ir sacándoles en cada estancia. Tampoco son duelos oficiales, con lo que no se puede salir fuera de la zona de combate, así que toda la mesa es la zona de combate e incluso si se cae el dado no supondrá salirse de la zona de combate.
 
 
 ## Las leyendas tienen parte de verdad
@@ -811,8 +811,6 @@ Este juego no sería tal como es sin la ayuda de:
 * [Asaltadora del Rol](https://bsky.app/profile/cuchi.bsky.social) con su idea de chocar los dados durante los combates.
 * [Shoru](https://bsky.app/profile/shorutsha.bsky.social) con sus correcciones y sus ideas de zonas de combate.
 
-[![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")
-
 
 ## Licencia
 
@@ -822,6 +820,10 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32476733.htm)
 * Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+
+
+[![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")
+
 
 
 

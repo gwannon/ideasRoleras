@@ -652,12 +652,6 @@ Este juego no sería tal como es sin la ayuda de:
 * [Asaltadora del Rol](https://bsky.app/profile/cuchi.bsky.social) con su idea de chocar los dados durante los combates.
 * [Shoru](https://bsky.app/profile/shorutsha.bsky.social) con sus correcciones y sus ideas de zonas de combate.
 
-&nbsp;
-
-&nbsp;
-
-[![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")
-
 \sc
 
 ## Licencia
@@ -668,6 +662,16 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32213203.htm)
 * Gradient zoom effect background by [freepik](https://www.freepik.com/free-vector/gradient-zoom-effect-background_32476733.htm)
 * Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+
+\sinc
+
+&nbsp;
+
+&nbsp;
+
+[![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")
+
+\conc
 
 \sp
 
