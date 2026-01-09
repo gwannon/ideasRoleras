@@ -622,7 +622,7 @@ No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon ext
 
 La Liga lleva años tratando de cazar a estos dadómones excepcionales, no solo por sus capacidades excepcionales y sus poderes, también porque están convencidos de que poseen una inteligencia superior a la de dadómones y humanas.
 
-Y mientras se dedican a cazarlos, por otro lado tratan de esconderlos del público. Así que hay una campaña constante de desprestigio por parte de las jefas de gimnasio y sus seguidores contra personas que dicen que tienen pruebas de su existencia o han tenido interacciones con ellos.
+Y mientras se dedican a cazarlos, por otro lado, tratan de esconderlos del público. Así que hay una campaña constante de desprestigio por parte de las jefas de gimnasio y sus seguidores contra personas que dicen que tienen pruebas de su existencia o han tenido interacciones con ellos.
 
 La Liga con la ayuda de las empresas armamentísticas que la subvencionan ha desarrollado unas grandes máquinas voladoras con armamento capaz de acabar con dadómones legendarios.
 

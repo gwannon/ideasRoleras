@@ -572,7 +572,7 @@ No hay pruebas, pero no sería de extrañar que ciertas enfermedades dadomon ext
 
 La Liga lleva años tratando de cazar a estos dadómones excepcionales, no solo por sus capacidades excepcionales y sus poderes, también porque están convencidos de que poseen una inteligencia superior a la de dadómones y humanas.
 
-Y mientras se dedican a cazarlos, por otro lado tratan de esconderlos del público. Así que hay una campaña constante de desprestigio por parte de las jefas de gimnasio y sus seguidores contra personas que dicen que tienen pruebas de su existencia o han tenido interacciones con ellos.
+Y mientras se dedican a cazarlos, por otro lado, tratan de esconderlos del público. Así que hay una campaña constante de desprestigio por parte de las jefas de gimnasio y sus seguidores contra personas que dicen que tienen pruebas de su existencia o han tenido interacciones con ellos.
 
 La Liga con la ayuda de las empresas armamentísticas que la subvencionan ha desarrollado unas grandes máquinas voladoras con armamento capaz de acabar con dadómones legendarios.
 
@@ -734,6 +734,7 @@ La idea principal sería colarse en el laboratorio, sacar a los dadómones de su
 * Puede hacer que salgan del laboratorio, por ejemplo, dejando sus dadómones en la puerta a ver si salen a capturarlos para experimentar en ellos.
 * Podrían hacerse pasar por gente de la Liga Dadomon, pero deberán ser muy convincentes, porque saben quién va a pasarse por el centro.
 * Si montan una distracción en el Centro, solo provocarán problemas en el Centro. Digamos que el laboratorio está separado del centro y son independientes con su propio sistema antiincendios, electricidad, agua, etc.
+* La bomba no es excesivamente destructiva y solo va a destruir el material de la sala central, no va a afectar a la estructura y derrumbar el Centro Dadomon.
 
 Por último, Doc y Holiday pueden ofrecer a cada entrenadora dos galletas dadomon para ayudarles durante la incursión en el Centro Dadomon.
 
@@ -755,6 +756,8 @@ Sea como sea su plan, seguramente terminarán teniendo que hacer duelos con los 
 * **Metálicos con números rojos:** Dan +1 a Cuerpo al combatir y dos heridas extras.
 
 No hay límite a los vigilantes, así que según se muevan por el laboratorio, puedes ir sacándoles en cada estancia. Tampoco son duelos oficiales, con lo que no se puede salir fuera de la zona de combate, así que toda la mesa es la zona de combate e incluso si se cae el dado no supondrá salirse de la zona de combate.
+
+Nadie del laboratorio sabe desactivar la bomba y si la ven activada, seguramente salgan corriendo, así que por ese lado no deben preocuparse una vez puesta la bomba.
 
 
 ## Las leyendas tienen parte de verdad
@@ -795,6 +798,8 @@ Cuando este eclosione y crezca buscará a Textul para enfrentarse a él. El perd
 En este ciclo eterno de nacimiento, lucha y muerte la energía negativa y positiva excesiva se equilibra, pero al estar Textul encerrado en las ruinas perdidas, se había roto el ciclo eterno de energía positiva y negativa y el mundo se había quedado estancado en la energía negativa.
 
 Esto puede ser el principio de una campaña en la que tus entrenadoras tendrán que proteger el Orbe de Vida de la Liga Dadomon y conseguir que eclosione y entrenar a Tultex para que enfrente a Textul y el ciclo de vida se reinicie.
+
+Quizas a alguna entrenadora se le ocurrió robar datos de los ordenadores del laboratorio. Esto permitiría identificar nuevas instalaciones secretas de la Liga Dadomon y podrían sabotearlos, aprovechando que se van moviendo por toda la región combatiendo contra entrenadores y jefas de gimnasio. O podrían enviárselo al Equipo Misil y que de vez en cuando aparezca para pedirles ayuda en algún acto de sabotaje.
 
 
 ## Notas
