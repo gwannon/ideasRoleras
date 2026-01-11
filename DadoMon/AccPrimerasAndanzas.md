@@ -196,6 +196,8 @@ Cuando lo creas oportuno para la historia o cuando todos los dadómones de tus e
 Textul tiene gran cuerpo esférico blanco del que salen 4 extremidades y dos grandes alas de murciélago. Tiene pinchos rojos por todo su cuerpo y una mancha roja en forma de gota de sangre en el pecho. Un aura negativa recubre todo su cuerpo.
 
 
+[![Dadomon por Roque Romero](./images/d20-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+
 * **d20 / 12 (10 + 2) heridas / Grande**
 * **Blanco con números rojos:** Puede volar con sus grandes alas de murciélago y tiene 2 heridas extras.
 * **Símbolo Minus (1):** Usando su energía negativa quitan un nivel de dado a tu dadomon hasta final de combate. No pueden bajarse de d4 con este sistema.
@@ -222,6 +224,7 @@ El Orbe de Vida es en realidad un huevo de Tultex, el dadomon antítesis del Tex
 Cuando este eclosione y crezca buscará a Textul para enfrentarse a él. El perdedor se convertirá en un Orbe de Vida y el ganador deberá buscar a quien lo crie.
 
 En este ciclo eterno de nacimiento, lucha y muerte la energía negativa y positiva excesiva se equilibra, pero al estar Textul encerrado en las ruinas perdidas, se había roto el ciclo eterno de energía positiva y negativa y el mundo se había quedado estancado en la energía negativa.
+
 
 Esto puede ser el principio de una campaña en la que tus entrenadoras tendrán que proteger el Orbe de Vida de la Liga Dadomon y conseguir que eclosione y entrenar a Tultex para que enfrente a Textul y el ciclo de vida se reinicie.
 

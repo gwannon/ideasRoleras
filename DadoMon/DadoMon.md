@@ -534,6 +534,8 @@ Los combates contra las jefas de gimnasio son como la lucha libre, solo los más
 
 \sp
 
+[![Dadomon por Roque Romero](./images/d12-1.png "Dadomon por Roque Romero")](https://bsky.app/profile/roqueromero.bsky.social "Dadomon por Roque Romero")
+
 Esto no quiere decir que sea fácil conseguir el pin, solamente que si la jefa luchará al 100% muy pocas entrenadoras realmente accederían a la Copa Dadomon, porque no serían capaces de derrotar a las jefas de gimnasio y sus dadómones.
 
 Como siempre, los conspiranoicos tiene su propia teoría: la Liga Dadomon entrega los gimnasios a «influencers» con millones de seguidores, no realmente grandes maestras dadomon con gran experiencia en los combates/entrenamiento dadomon.
@@ -557,6 +559,8 @@ Los campos de batalla de estos eventos son obras de ingeniería increíbles y ca
 La Copa Dadomon es el evento deportivo más importante con millones de espectadores y el día de la gran final se para el mundo para ver ese combate. Las apuestas son muy grandes. 
 
 Ganar una Copa Dadomon te puede cambiar la vida, no solo por la fama y el impresionante premio, también por los patrocinadores y porque suele ser el primer paso a convertirte en jefa de gimnasio.
+
+\sp
 
 ### Ladrones de dadómones
 
