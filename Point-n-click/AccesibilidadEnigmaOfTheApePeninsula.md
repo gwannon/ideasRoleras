@@ -70,61 +70,59 @@ On the table of the  _**three Pirate Ladybosses**_, there is a _**fruit bowl**_ 
 If they ask, they can take _**a piece of fruit**_. Choose one at random and give it to them. If they eat it, they can ask for another. Until they finish the other piece of fruit they took, the _**Pirate Ladybosses**_ will tell them to finish it first.
 ### 2.a Cross over to the other side of the law
 
-Como han explicado las Jefas Piratas, para convertirse en pirata necesitan estar al otro lado de la ley de tener una prueba de ellos.
+As the Pirate laady Bosses explained, to become a pirate, you need to be on the other side of the law and have proof of it.
 
-Hay varias opciones para cometer delitos:
+There are several ways to commit crimes:
 
-* La manera más sencilla es cruzar en rojo el semáforo mono de la _**Plaza Mayor de Bucan Ville**_.
-* Otra forma es ponerse a la izquierda del _**juzgado**_ mientras el _**pintor de cuadros**_ que está en la _**Plaza Mayor**_ pinta un cuadro.
-* Si intentan otros tipos de delitos, sus personajes mirarán a la pantalla y dirán cosas como «Mi madre no crio a un ladronzuelo» o «Esto me metería en problemas con Santa Claus».
+* The easiest way is to run the red light at the monkey traffic light in _**Bucan Ville's Main Square**_.
+* Another way is to stand to the left of the _**courthouse**_ while the _**painter**_ in the _**Main Square**_ is painting.
+* If you try other kind of crimes, your characters will look at the screen and say things like, «My mother didn't raise a petty thief» or «This would put me on Santa's naughty list.»
 
-Si les ves muy perdidos en esta parte, recálcales lo del «otro lado de la ley» o recuérdales lo de pirata borracho en la Taberna del Cangrejo Cocido que decía que había inventado el simio-semáforo y que les dé una pista.
+If you see them getting lost at this point, emphasize the "other side of the law" part or remind them of the drunken pirate in the Boiled Crab Tavern who claimed to have invented the monkey traffic light and ask them for a clue.
 
-#### Bucan Ville Town Center
+#### Bucan Ville's Town Center
 
-Las calles del centro están desiertas por la noche, las farolas de gas están encendidas y las tiendas están cerradas, todas menos la _**tienda de souvenirs**_ con su gran cartel de neón que pone abierto 24 horas.
+The streets of the Town Center are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads "Open 24 Hours."
 
-Para cruzar la calle que atraviesa el centro hay que atravesar un paso de cebra dirigido por un _**simio-semáforo**_ y vigilado por un _**guardia de la ciudad**_ que solo dice «¡Circulen, circulen!». El simio-semáforo es un semáforo manejado por un mono que cambia el color del semáforo moviendo unas palancas. Cuando te acercas, el simio mueve las palancas y siempre cruzas en verde.
+To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**monkey-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The monkey-traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
 
-Por mucho que lo intentes, el mono siempre lo pone en verde. La única manera de cruzar en rojo es darle un plátano al mono cuando esté en rojo y como se pone a comer el plátano se queda en rojo. En ese momento puedes cruzar y el _**guardia de la ciudad**_ te pondrá una _**multa**_ y, por tanto, serás una fuera de la ley.
+No matter how hard you try, the monkey always sets it to green. The only way to cross on red is to give the monkey a banana when the light is red, and as it eats the banana, it stays red. At that moment you can cross and the _**city guard**_ will give you a _**fine**_ and, therefore, you will be an outlaw.
 
-#### Plaza Mayor de Bucan Ville
+#### Bucan Ville's Main Square
 
-La Plaza Mayor es como todas las plazas, un gran espacio vacío de adoquines con un único _**árbol seco**_ en el centro con un cartel que pone «Árbol para colgar piratas - Cerrado por reformas».
+The Plaza Mayor is like all plazas, a large, empty cobblestone space with a single _**dead tree**_ in the center bearing a sign that reads "Tree for Hanging Pirates - Closed for Renovations."
 
-Al lado del árbol hay un _**pintor de cuadros**_ que está pintando el ayuntamiento. Pinta los cuadros a una velocidad superrápida y los deja en un _**montón**_ que está a su lado. Si los examinan, verán que no son muy buenos.
+Next to the tree is a _**painter**_ who is painting the town hall. He paints the pictures at lightning speed and leaves them in a _**pile**_ beside him. If you examine them closely, you'll see they aren't very good.
 
-Si tratan de hablar con él, les dirá que está muy ocupado, tiene que hacer 1000 cuadros iguales del ayuntamiento para la campaña de recaudación para la reelección del gobernador.
-Al lado del ayuntamiento está el _**juzgado**_. Al acercarse verán que abre de 24:00 a 00:00 menos los fines de semana que cierra por descanso. Si se colocan a su izquierda antes de que el pintor empiece un nuevo cuadro y esperan a qué terminen, podrán coger una pintura donde están ellos junto a los juzgados, es decir, al otro lado de la ley, como pedían las _**Jefas Piratas**_.
+If you try to talk to him, he'll tell you he's very busy; he has to paint 1,000 identical pictures of the town hall for the fundraising campaign for the governor's reelection.
+Next to the town hall is the _**courthouse**_. As you approach, you'll see that it's open from midnight to midnight, except on weekends when it's closed. If you stand to its left before the painter starts a new painting and wait until they finish, you can pick up a painting that shows you next to the courthouse—that is, on the other side of the law, just as the _**Pirate Ladybosses**_ requested.
 
-Al otro lado del ayuntamiento podrán acceder a un _**callejón oscuro**_ del que salen retazos aleatorios de una conversación.
+On the other side of the town hall, you can access a _**dark alley**_ from which random snippets of a conversation emerge.
 
 #### Dark alley
 
 It's just a trap. When they enter, the voices will fall silent and figures will vanish into the shadows. As soon as they step back out into the plaza, the voices will return.
 
-### 2.b Conseguir un barco y una bandera pirata
+### 2.b Get a pirate ship and flag
 
-El único sitio de la isla donde venden barcos es en el _**astillero**_ y lo único que se pueden pagar ahora mismo tus jugadoras es un barco de remos. El problema es que no está autopropulsado, con lo que deberán encontrar la manera de construirle una vela.
+The only place on the island that sells boats is the _**shipyard**_, and the only one your players can afford right now is a rowboat. The problem is, it's not self-propelled, so they'll have to find a way to make a sail for it.
 
-Para la tela de la vela solo tienen que conseguir el _**vinilo del Twister**_ en la _**Tienda de souvenirs**_. El mástil simplemente será unos de los remos y deberán decir su idea a _**Sam**_, el gerente del _**astillero**_.
+For the sail fabric, they just need to get the _**Twister vinyl**_ from the _**souvenir shop**_. The mast will simply be one of the oars, and they'll have to tell _**Sam**_, the _**shipyard**_ manager, their idea.
 
-Puede que gasten píxeles en convertir elementos no clicables en clicables, como alfombras, sabanas, etc. Cuando se lo lleven a _**Sam**_, este les pondrá alguna excusa tonta.
+They might waste pixels converting non-clickable elements into clickable ones, like rugs, sheets, etc. When they take it to Sam, he'll make up some silly excuse.
 
-Si presentan el _**título de propiedad**_ de la barca de remos a las _**Jefas piratas**_ sin vela les suspenderán la prueba gritando al unísono «¡No es autopropulsado!»
+If they present the rowboat's _**title deed**_ to the _**Pirate Ladybosses**_ without a sail, they'll fail the test, shouting in unison, "It's not self-propelled!"
 
-La bandera no es un reto, déjales usar lo que encuentren para hacerse su bandera y si puedes conseguir que sea lo más ridícula posible, mucho mejor. Pueden usar el _**bono descuento**_ en la _**Tienda de Souvenirs**_ y que la dependienta les dé cualquier chorrada que se te ocurra para que la usen para crear su bandera.
+The flag isn't a challenge; let them use whatever they find to make their flag, and if you can make it as ridiculous as possible, even better. They can use the discount _**voucher**_ at the _**souvenir shop**_, and the shop assistant can give them any silly thing you can think of to use for their flag.#### Shipyard
 
-#### Astilleros
+From the _**Main Square**_, you can access the Bucan Ville _**shipyards**_, where your players can acquire a boat they can afford.
 
-Desde la _**Plaza Mayor**_ se puede acceder a los _**astilleros**_ de Bucan Ville, donde, igual, tus jugadoras pueden conseguir una embarcación que puedan pagar.
+There they'll find _**Sam**_, a nautical geek with thick glasses and a t-shirt that says, "Kiss me, I'm a model ship builder."
 
-Allí encontrarán a _**Sam**_, un friki de la náutica con gafas de culo de vaso y una camiseta que pone «Bésame, soy constructor de maquetas de barcos».
+_**Sam**_ lives to design and build ships... to scale (he always says this quietly), and since he hasn't been able to dedicate himself to building them, he sells them.
 
-_**Sam**_ vive para diseñar y construir barcos … a escala (siempre lo dice en bajito) y como no ha podido dedicarse a construirlos, se dedica a venderlos.
-
-A pesar de ser un personaje principal y poder hablar sobre muchos temas, _**Sam**_ solo habla de barcos, diseño de barcos, historia de la navegación, curiosidades de la náutica, etc. Si se intenta hablar de otra cosa, encauza la conversación de nuevo a los barcos.
-Si le dicen que quieren comprar un barco, les ofrecerá lo que tiene en stock: Un barco pirata de lujo, un barco pirata de 2ª mano y un barco de pesca. Cuando tus jugadoras le expliquen su situación económica, es decir, 0 doblones, les llevará a un lado del astillero y les enseñará un viejo _**bote de remos**_ con un remo partido.
+Despite being a main character and being able to talk about many topics, _**Sam**_ only talks about ships, ship design, the history of navigation, nautical trivia, etc. If you try to talk about something else, he steers the conversation back to ships.
+If they tell him they want to buy a ship, he'll offer them what he has in stock: a luxury pirate ship, a second-hand pirate ship, and a fishing boat. When your players explain their financial situation—that is, 0 doubloons—he'll take them to one side of the shipyard and show them an old _**rowboat**_ with a broken oar.
 
 _**Sam**_ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
 
