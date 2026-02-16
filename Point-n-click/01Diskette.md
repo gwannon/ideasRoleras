@@ -128,44 +128,44 @@ Despite being a main character and being able to talk about many topics, _**Sam*
 
 If they tell him they want to buy a ship, he'll offer them what he has in stock: a luxury pirate ship, a second-hand pirate ship, and a fishing boat. When your players explain their financial situation—that is, 0 doubloons—he'll take them to one side of the shipyard and show them an old _**rowboat**_ with a broken oar.
 
-_**Sam**_ las dejará caer que el _**barco pirata de lujo**_ cuesta tantos doblones de oro que solo robando la _**caja fuerte del gobernador**_ podrían pagarlo, pero es que es puro lujo. De hecho, el timón tiene hasta su propio posavasos de ébano, el problema que nadie vio es que al girarlo se da la vuelta y derrama toda la bebida.
+_**Sam**_ will say that the _**luxury pirate ship_** costs so many gold doubloons that only by robbing the _**governor's safe_** could they afford it, but it's pure luxury. In fact, the wheel even has its own ebony coaster. The problem no one saw coming is that when you turn it, it flips over and spills all the drinks.
 
-Tras duras negociaciones, _**Sam**_ aceptará 200 doblones de oro a pagar con su primer acto de piratería y saqueo. Les dará el _**título de propiedad**_ del _**bote a remo**_ y un _**montón de papeles especificando la forma de pago**_ que no deben perder.
+After tough negotiations, _**Sam**_ will agree to 200 gold doubloons to be paid with their first act of piracy and plunder. He'll give them the _**title deed**_ to the _**rowboat**_ and a _**pile of papers specifying the payment method**_, which they mustn't lose.
 
-Para conseguir que sea autopropulsado necesitarán algo que sirva de mástil y algo que sirva de vela. Justo hay huelga de fabricantes de velas y mástiles y no le quedan, así que tus jugadoras deberán conseguir algo para reemplazarlo.
+To make it self-propelled, they'll need something to serve as a mast and something to serve as a sail. There's a strike by sailmakers and mast makers, and he's out of them, so your players will have to find something to replace it.
 
-Como ya hemos dicho, para la vela necesitarán el _**vinilo del Twister**_ y para el mástil el remo que no está roto. Con esto _**Sam**_ montará unas velas y cambiará la descripción del _**título de propiedad**_.
+As we've already mentioned, for the sail they'll need the _**Twister vinyl**_ decal and for the mast the oar that isn't broken. With these, _**Sam**_ will assemble some sails and change the description on the _**title deed**_.
 
-#### Tienda de souvenirs
+#### Souvenir shop
 
-Maxine la roja, el terror pelirrojo del Caribe, se retiró de la piratería y con las ganancias monto una tienda de souvenirs de piratas famosos en Bucan Ville. En su tienda puedes encontrar las cosas más estrambóticas del mundillo pirata, desde un rizo de la barba de Barbanegra hasta la férula de descarga dental de Sir Francis Drake.
+_**Maxine**_ the Red, the red-haired terror of the Caribbean, retired from piracy and used her earnings to open a souvenir shop selling famous pirate memorabilia in Bucan Ville. In her shop, you can find the most outlandish items from the pirate world, from a lock of Blackbeard's beard to Sir Francis Drake's mouthguard.
 
-Cuando quieran llevarse algún elemento clicable, Maxine soltará alguna historia rara para que no se lo lleven, como que tiene carcoma o pertenecía a un leproso.
+When customers try to buy a clickable item, Maxine will tell some strange story to discourage them, such as that it's riddled with woodworm or belonged to a leper.
 
-Lo único que hay en la tienda que pueda servir de vela es un _**vinilo del Twister**_ Edición pirata con calaveras, tibias cruzadas, cofres del tesoro y cañones en vez de los círculos de colores.
+The only thing in the shop that could serve as a sail is a _**Twister vinyl**_ Pirate Edition with skulls, crossbones, treasure chests, and cannons instead of the colored circles.
 
-Como la mayoría de las cosas de su tienda, no quiere deshacerse del vinilo porque le recuerda a cuando «jugaba» (guiño, guiño, golpe, golpe) al Twister con Anne Bonny, Jack Rackham y Mary Read a bordo del «Ranger».
+Like most things in her shop, she doesn't want to give the _**Twister vinyl**_ because it reminds him of when he used to "play" (wink, wink, knock, knock) Twister with Anne Bonny, Jack Rackham, and Mary Read aboard the "Ranger."
 
-El _**vale de descuento**_ que les dieron las _**Jefas Piratas**_ tiene una errata y si cogen la _**lupa**_ de Lulock Holmes, el primo de las Antillas de Sherlock Holmes y el primer pirata detective de la literatura, podrán leer la letra pequeña. Donde debía poner «Al presentar este vale se conseguirá un 50% de descuento en material pirata O un 50% en juegos de mesa» en realidad pone «Al presentar este vale se conseguirá un 50% de descuento en material pirata Y un 50% en juegos de mesa».
+The _**discount voucher**_ the _**Pirate Ladybosses**_ gave them has a typo, and if you take Lulock Holmes's _**magnifying glass**_ —Lulock Holmes being Sherlock Holmes's Caribbean cousin and the first pirate detective in literature— you can read the fine print. Where it should say, "Presenting this voucher will get you a 50% discount on pirate merchandise OR a 50% discount on board games," it actually says, "Presenting this voucher will get you a 50% discount on pirate merchandise AND a 50% discount on board games."
 
 \sp
 
-Así que pueden usar el vale de descuento para conseguir el _**vinilo del Twister**_ completamente gratis y Maxine no puede se negará porque la verdad es que lo más inútil y barato que tiene en la tienda.
+So they can use the _**discount voucher**_ to get the _**Twister vinyl**_ completely free and Maxine can't refuse because the truth is that it's the most useless and cheapest thing she has in the store.
 
-Ideas para otras chorradas que puede haber en la tienda y que puedes poner como elementos clicables, pero que Maxine no quiere vender porque le traen buenos recuerdos:
+Ideas for other silly and weird things you might have in the shop that you could add as clickable items, but that Maxine doesn't want to sell because they bring back fond memories:
 
-* Rizos pelirrojos de la barba la Barbanegra
-* Férula de descarga dental de Sir Francis Drake
-* Muñeco de acción de Anne Bonny con golpe de karate, ojos con luces rojas y un botón que hace que diga «Si hubieses luchado como un hombre, no serías ahora ahorcado como un perro»
-* Pata de palo de «running» de Long John Silver
-* Merchandising no-oficial de Piratas del Caribe firmado por los dobles de acción de los protagonistas
-* Una foto firmada y dedicada de Ron Gilbert donde dice que no compres videojuegos de más de 20 $.
+* Blackbeard's red beard curls
+* Sir Francis Drake's dental splint
+* Anne Bonny action figure with a karate chop, red-light eyes, and a button that makes her say, "If you had fought like a man, you wouldn't be hanged like a dog now"
+* Long John Silver's running peg leg
+* Unofficial Pirates of the Caribbean merchandise signed by the main characters' stunt doubles
+* A signed and dedicated photo of Ron Gilbert saying not to buy video games over $20.
 
-### 3. Ya eres una pirata
+### 3. You're a Pirate Now
 
-Pueden entregar las pruebas de que son auténticas piratas al mismo tiempo o por separado, pero hasta no haber cumplido las dos reglas y probarlo, no se les considerará piratas de pleno derecho y las _**Jefas Piratas**_ solo les llamarán grumetes y/o marineras de agua dulce entre risas socarronas.
+Players can submit proof of their pirate status simultaneously or separately, but until they've fulfilled both requirements and proven it, they won't be considered full-fledged pirates. The _**Pirate Ladybosses**_ will only refer to them as cabin boys and/or landlubbers with mocking laughter.
 
-Tras conseguir tu barco y estar al otro lado de la ley, las PJ podrán solicitar su _**Título oficial de piratería**_ que los identifica como piratas tras pagar la tasa correspondiente de un doblón de oro. Puede aprovechar esto para meterles nuevos retos como buscar calderilla debajo de la gramola de la taberna.
+After acquiring their ship and being on the wrong side of the law, the player characters can apply for their official __**Pirate Certificate**_, which identifies them as pirates, after paying the corresponding fee of one gold doubloon. You can use this as an opportunity to introduce new challenges, such as searching for loose change under the tavern's jukebox.
 
 ### 4. Robar al gobernador
 
@@ -227,7 +227,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 ### Astilleros
 
-* **PNJ:** Sam
+* **NPC:** Sam
 * **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
 * **Conexiones:** Plaza Mayor de Bucan Ville
 
@@ -239,19 +239,19 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 #### Centro de Bucan Ville
 
-* **PNJ:** Guardia de la ciudad
+* **NPC:** Guardia de la ciudad
 * **Elementos clicables:** Simio-semáforo
 * **Conexiones:** Plaza Mayor de Bucan Ville, Puerto, Tienda de Souvenirs
 
 #### Tienda de Souvenirs
 
-* **PNJ:** Maxine la roja
+* **NPC:** Maxine la roja
 * **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra, Lupa de Lulock Holmes
 * **Conexiones:** Centro de Bucan Ville
 
 #### Plaza Mayor de Bucan Ville
 
-* **PNJ:** Pintor de cuadros
+* **NPC:** Pintor de cuadros
 * **Elementos clicables:** Juzgado, Montón de cuadros
 * **Conexiones:** Centro de Bucan Ville, Callejón oscuro
 
@@ -259,7 +259,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 #### Exterior
 
-* **PNJ:** Pavos reales
+* **NPC:** Pavos reales
 * **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real, Tocado de plumas de pavo real
 * **Conexiones:** Puerto, Casa del gobernador (Hall principal)
 
@@ -284,7 +284,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 #### Taberna del Cangrejo Cocido
 
-* **PNJ:** Jefas Piratas, Piratas borrachos
+* **NPC:** Jefas Piratas, Piratas borrachos
 * **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
 * **Conexiones:** Puerto
 

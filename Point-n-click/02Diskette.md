@@ -142,7 +142,7 @@ Los nuevos elementos están en cursiva.
 
 #### Astilleros
 
-* **PNJ:** Sam
+* **NPC:** Sam
 * **Conexiones:** Plaza Mayor de Bucan Ville, _Laberinto pantanoso_
 
 #### Puerto
@@ -151,13 +151,13 @@ Los nuevos elementos están en cursiva.
 
 #### Taberna del Cangrejo Cocido
 
-* **PNJ:** Jefas Piratas, Piratas borrachos, _Repartidor de folletos_
+* **NPC:** Jefas Piratas, Piratas borrachos, _Repartidor de folletos_
 * **Elementos clicables:** _Contrato por obra y servicio_
 * **Conexiones:** Puerto
 
 #### Tienda de Souvenirs
 
-* **PNJ:** Maxine la roja
+* **NPC:** Maxine la roja
 * **Elementos clicables:** Lupa de Lulock Holmes, _Folleto de Alfonsé firmado por François «El Olones»_, _Cámara Polaroid_
 * **Conexiones:** Centro de Bucan Ville
 
@@ -167,7 +167,7 @@ Los nuevos elementos están en cursiva.
 
 #### El vómito del Kraken
 
-* **PNJ:** Señorita Bridalis
+* **NPC:** Señorita Bridalis
 * **Conexiones:** Puerto
 
 #### Laberinto pantanoso
@@ -176,7 +176,7 @@ Los nuevos elementos están en cursiva.
 
 #### Guarida de Alfonsé
 
-* **PNJ:** Alfonsé
+* **NPC:** Alfonsé
 * **Elementos clicables:** Huesos del oráculo
 * **Conexiones:** Laberinto pantanoso
 

@@ -241,7 +241,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Playa
 
-* **PNJ:** Bridalis
+* **NPC:** Bridalis
 * **Elementos clicables:** Algas, Objetos que usa Bridalis en sus disfraces
 * **Conexiones:** Vómito del Kraken
 
@@ -252,7 +252,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Entrada de la cueva del tesoro
 
-* **PNJ:** Muchos simios
+* **NPC:** Muchos simios
 * **Conexiones:** Jungla, Primera cámara
 
 #### Primera cámara de la cueva
@@ -295,12 +295,12 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Cubierta inferior
 
-* **PNJ:** Muchos zombis
+* **NPC:** Muchos zombis
 * **Conexiones:** Fuera de El caminante, Cubierta superior
 
 #### Cubierta superior
 
-* **PNJ:** Muchos zombis inteligentes
+* **NPC:** Muchos zombis inteligentes
 * **Elementos clicables:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
 * **Conexiones:** Cubierta inferior, Castillo de popa
 
@@ -308,13 +308,13 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Castillo de popa
 
-* **PNJ:** Primero de a bordo zombi
+* **NPC:** Primero de a bordo zombi
 * **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
 * **Conexiones:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla
 
-* **PNJ:** DraChuckla, Gobernador Marlon, Ayudante zombi
+* **NPC:** DraChuckla, Gobernador Marlon, Ayudante zombi
 * **Elementos clicables:** Órgano
 * **Conexiones:** Castillo de popa
 
