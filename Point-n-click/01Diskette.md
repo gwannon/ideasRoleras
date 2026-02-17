@@ -65,7 +65,7 @@ If they ask, they can take _**a piece of fruit**_. Choose one at random and give
 
 ### 2.a Cross over to the other side of the law
 
-As the Pirate laady Bosses explained, to become a pirate, you need to be on the other side of the law and have proof of it.
+As the Pirate lady Bosses explained, to become a pirate, you need to be on the other side of the law and have proof of it.
 
 There are several ways to commit crimes:
 
@@ -93,7 +93,7 @@ If you try to talk to him, he'll tell you he's very busy; he has to paint 1,000 
 
 \sp
 
-Next to the town hall is the _**courthouse**_. As you approach, you'll see that it's open from midnight to midnight, except on weekends when it's closed. If you stand to its left before the painter starts a new painting and wait until they finish, you can pick up a painting that shows you next to the courthouse—that is, on the other side of the law, just as the _**Pirate Ladybosses**_ requested.
+Next to the town hall is the _**courthouse**_. As you approach, you'll see that it's open from 24:00 to 00:00, except on weekends when it's closed. If you stand to its left before the painter starts a new painting and wait until they finish, you can pick up a painting that shows you next to the courthouse—that is, on the other side of the law, just as the _**Pirate Ladybosses**_ requested.
 
 On the other side of the town hall, you can access a _**dark alley**_ from which random snippets of a conversation emerge.
 
@@ -167,23 +167,23 @@ Players can submit proof of their pirate status simultaneously or separately, bu
 
 After acquiring their ship and being on the wrong side of the law, the player characters can apply for their official __**Pirate Certificate**_, which identifies them as pirates, after paying the corresponding fee of one gold doubloon. You can use this as an opportunity to introduce new challenges, such as searching for loose change under the tavern's jukebox.
 
-### 4. Robar al gobernador
+### 4. Stealing in the Governor's mansion
 
-A lo largo de las escenas anteriores tus jugadoras habrán oído hablar del gobernador, su caja fuerte y las inmensas cantidades de dinero que tiene en ella. Como no pueden ir a abordar barcos con su bote de remos, deberán buscar la manera de robar al gobernador para poder comprarse un barco pirata de verdad.
+Throughout the previous scenes, your players will have heard about the governor, his safe, and the vast amounts of money he keeps inside. Since they can't board ships with their rowboat, they'll need to find a way to rob the governor so they can buy a real pirate ship.
 
-Cuando salgan de la Taberna del Cangrejo Cocido, puedes decirles que desde el puerto pueden acceder a la casa del Gobernador. De hecho, ahora en el puerto hay un neón gigante que pone «Visite el Museo del Gobernador Marlon, donde la magia de la democracia sucede».
+When they leave the Boiled Crab Tavern, you can tell them that they can access the governor's house from the harbor. In fact, there's now a giant neon sign at the harbor that reads, "Visit Governor Marlon's Museum, where the magic of democracy happens."
 
-#### Exterior de la casa del gobernador
+#### Exterior of the Governor's mansion
 
-La casa del Gobernador Marlon es una casa victoriana al lado de un acantilado que da al mar Caribe. Es lujosa y bien cuidada, seguramente el mantenimiento y los lujos como una _**estatua ecuestre del gobernador Marlon**_ se paga con los impuestos de todos los habitantes de Bucan Ville.
+Governor Marlon's mansion is a Victorian home perched on a cliff overlooking the Caribbean Sea. It is luxurious and well-maintained; surely the upkeep and luxuries, such as the _**equestrian statue of Governor Marlon**_, are paid for with the taxes of all the residents of Bucan Ville.
 
 \sp
 
-Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
+Examining his statue, Governor Marlon is a good looking human: long hair, a chiseled chin with a divine dimple, broad shoulders, a torso sculpted from stone, and powerful arms and legs.
 
-El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
+The exterior is guarded by _**peacocks**_ that gobble loudly as soon as they see you. Then a light on the second floor comes on, and Governor Marlon goes to the window to keep watch, armed with a black powder rifle. When he sees nothing suspicious, he goes back inside.
 
-Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un _**tocado de pavo real**_ y los _**pavos reales**_ te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
+If you hide behind the _**equestrian statue**_ and hit them when they're not looking in your direction, you can take a _**feather**_ from each of them. When you have three feathers, you can make yourself a _**peacock headdress**_, and the _**peacocks**_ will consider you one of their own and let you pass without informing the governor.
 
 #### Hall principal de la casa del gobernador
 
