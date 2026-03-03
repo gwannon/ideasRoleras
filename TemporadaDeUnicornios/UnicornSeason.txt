@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Unicorn Season
+
+InfoKey: Subject
+InfoValue: «Unicorn Season» is a one-page setting developed with Breathless about a blessing of unicorns that must survive evil hunters who want to hunt them for the healing powers of their horns. Version 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, unicorns, breathless
