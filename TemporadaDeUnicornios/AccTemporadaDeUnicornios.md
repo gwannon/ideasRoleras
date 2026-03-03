@@ -61,8 +61,8 @@ Una vez gastada la magia de tu cuerno, **no podrás usarla** de nuevo hasta que 
 Todo el mundo sabe que a los unicornios les gusta beber en arroyos de aguas cristalinas y descansar al arrullo del sonido de sus aguas.
 
 Descansar y beber de un arroyo de aguas cristalinas y puras permite a la manada de unicornios tomarse un breve descanso para tranquilizarse, mirar la situación y buscar una forma de escapar de sus perseguidores o de afrontar los peligros a los que se van a enfrentar. 
-
 Para encontrar y beber en un arroyo debes **estar fuera de peligro en un lugar tranquilo**, lejos de la vista de los cazadores. En esos momentos puedes buscar un arroyo de aguas prístinas. 
+
 Si la manada descansa en unos de estos lugares, **recupera todos los niveles de dados de habilidad perdidos** y **restaura la magia de su cuerno**.
 
 ## Pertrechos
@@ -104,6 +104,7 @@ Si no tienes claro que obtienes con la tirada de forraje puedes tirar un d10 en 
 |8|Trébol de cuatro hojas|
 |9|Armas de goblins|
 |10|Polvo de hadas|
+
 ## Cazadores
 
 Los humanos tratan de cazarte desde que el rey cayó enfermo y es por ello que encontrarte con uno de ellos es un potencial peligro.
