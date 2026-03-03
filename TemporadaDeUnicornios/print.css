@@ -1,5 +1,5 @@
 :root {
-  --padding: 62px; /*Ancho de los bordes de la página*/
+  --padding: 55px; /*Ancho de los bordes de la página*/
   --color-red: #cfb53b;
   --color-white: #000;
   --color-black: #fff;
@@ -68,18 +68,18 @@ body > *:first-child,
 }
 
 blockquote {
-  border: 1px solid black;
-  padding: 10px;
-  background-color: black;
-  border-radius: 5px;
-  margin: 10px 0px;
-  color: white;
+  padding: 5px 0px 8px;
+  color: black;
+  margin: 0px;
 }
 
 blockquote p {
   padding: 0px;
   margin: 0px;
-  font-style: italic;
+  font-family: "UnifrakturMaguntia", cursive;
+  font-size: 14px;
+  line-height: 120%;
+  text-align: center;
 }
 
 /* Titulares */
@@ -117,7 +117,7 @@ h3 {
   color: var(--color-red);
   margin-bottom: 0px;
   padding-bottom: 0px;
-  margin-top: 5px;
+  margin-top: 10px;
   text-shadow: 0px 1px 1px var(--color-white), 1px 0px 1px var(--color-white), 0px 0px 1px var(--color-white), 1px 1px 1px var(--color-white);
 }
 
@@ -178,6 +178,10 @@ table thead tr th {
   font-family: "UnifrakturMaguntia", cursive;
   text-align: left;
   font-size: 18px;
+}
+
+table tbody tr > *:first-child {
+  font-family: "UnifrakturMaguntia", cursive;
 }
 
 table strong {
