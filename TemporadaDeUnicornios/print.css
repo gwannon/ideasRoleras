@@ -77,7 +77,7 @@ blockquote p {
   padding: 0px;
   margin: 0px;
   font-family: "UnifrakturMaguntia", cursive;
-  font-size: 14px;
+      font-size: 1.2em;
   line-height: 120%;
   text-align: center;
 }

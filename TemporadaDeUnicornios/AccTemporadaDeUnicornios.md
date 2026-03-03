@@ -1,6 +1,6 @@
 # Temporada de Unicornios [por Gwannon](https://gwannon.com/)
 
-**Temporada de Unicornios** es una juego de rol en una página para **[Breathless](https://fari-rpgs.itch.io/breathless-srd)** sobre una manada de unicornios que debe sobrevivir a cazadores que quieren matarlos por los poderes curativos de sus cuernos.
+**Temporada de Unicornios** es una ambientación en una página para **[Breathless](https://fari-rpgs.itch.io/breathless-srd)** sobre una manada de unicornios que debe sobrevivir a cazadores que quieren matarlos por los poderes curativos de sus cuernos.
 
 ## Todo era paz y tranquilidad…
 
