@@ -103,7 +103,7 @@ h1 > a {
   text-align: center;
   font-size: 16px;
   width: 100%;
-  color: var(--color-white);
+  color: var(--color-red);
   font-family: "UnifrakturMaguntia", cursive;
   font-weight: 400;
   text-decoration: none;
@@ -168,15 +168,16 @@ table {
   margin-top: 5px;
   width: calc(100% - 4px);
   box-sizing: border-box;
-  border: 2px dashed var(--color-white);
-  padding: 5px;
+  border: none;
+  padding: 0px;
   position: relative;
 
 }
 
 table thead tr th {
+  font-family: "UnifrakturMaguntia", cursive;
   text-align: left;
-  font-weight: 700;
+  font-size: 18px;
 }
 
 table strong {
