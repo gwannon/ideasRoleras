@@ -103,7 +103,7 @@ If you are unsure what you get with the forage roll, you can roll a d10 on the f
 |7|Belladonna Leaves|
 |8|Four-Leaf Clover|
 |9|Goblin weapons|
-110|Fairy Dust|
+|10|Fairy Dust|
 
 ## Hunters
 
