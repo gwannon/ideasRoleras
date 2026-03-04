@@ -1,6 +1,6 @@
 # Unicorn Season [by Gwannon](https://gwannon.com/)
 
-**Season of Unicorns** is a one-page setting fdeveloped with **[Breathless](https://fari-rpgs.itch.io/breathless-srd)** about a blessing of unicorns that must survive hunters who want to kill them for the healing powers of their horns.
+**Season of Unicorns** is a one-page setting developed with **[Breathless](https://fari-rpgs.itch.io/breathless-srd)** about a blessing of unicorns that must survive hunters who want to kill them for the healing powers of their horns.
 
 ## Everything was peace and quiet…
 
@@ -18,7 +18,7 @@ When creating your unicorn, you must choose its name, pronouns, and coat color. 
 
 The 6 skills are:
 
-**Gallop:** It's used for running, jumping, and dodging. It's also used for ramming or dragging a opponent.
+**Gallop:** It's used for running, jumping, and dodging. It's also used for ramming or dragging an opponent.
 
 **Bite:** It is useful for tasks that require precision, such as manipulating a small object, untying a knot by biting, or removing a door lock without making noise.
 
@@ -64,25 +64,25 @@ Resting and drinking from a crystal-clear stream allows the unicorn blessing to 
 
 To find and drink from a stream, you must be out of danger **in a quiet place, far from the sight of hunters**. At such times, you can search for a pristine stream.
 
-\sp
-
 If the herd rests in one of these places, **it recovers all lost skill dice levels and restores the magic of its horn**.
 
-## Pertrechos
+## Equipment
 
-No puedes llevar más que **tres objetos, uno en la grupa, otro en la boca y otro enganchado en tu cuerno**. Pueden usarse en lugar de tus habilidades. Comienzan con un nivel de dado que disminuye tras cada uso. Al reducirse a un d4, el objeto se rompe, se pierde o simplemente desaparece de la historia.
+You can carry no more than **three objects: one on your rump, one in your snout, and one attached to your horn**. These can be used in place of your abilities. They start with one die level, which decreases after each use. When the value is reduced to a d4, the object breaks, is lost, or simply disappears from the story.
 
-Los objetos en la grupa tienen que tener una forma adecuada que evite que se caigan. Puedes llevar una manta o unas cuerdas, incluso un cuerpo humano, pero no una copa o una bandeja, ya que a la mínima se caerán. Los objetos en cuernos y boca no pueden ser muy grandes.
+\sp
 
-Llevar un objeto en la boca supone que no puedes **Morder** y llevarlo enganchado en el cuerno que no puedes usar su **Magia**.
+Objects on your rump must be of a suitable shape to prevent them from falling. You can carry a blanket or ropes, even a human body, but not a cup or a tray, as these will fall at the slightest touch. Objects on your horns and in your mouth cannot be too large.
 
-Puedes **dejarlos caer y usar Morder o Magia**, pero los objetos se dañarán y **perderán un nivel de dado**.
+Carrying an object in your mouth means you cannot **Bite**, and carrying one attached to your horn means you cannot use its **Magic**.
+
+You can **drop them and use Bite or Magic**, but the objects will be damaged and **lose one die level**.
 
 ## Forage
 
-Cuando la situación lo permita, puedes hacer una tirada de forrajear para buscar objetos de los habitantes feéricos, hierbas con propiedades mágicas, manzanas arcoíris, etc. Ten cuidado porque puedes encontrarte con cosas que no querías, como un grupo de mercenarios.
+When the situation allows, you can forage to find items from the faerie inhabitants, herbs with magical properties, rainbow apples, and so on. Be careful, though, because you might encounter things you didn't intend to, such as a group of mercenaries.
 
-Para hacer una tirada de **forrajear debes lanzar un d12** y consultar la siguiente tabla.
+To forage, **roll a d12** and consult the table below.
 
 |d12|Forage|
 |---|---|
@@ -93,20 +93,20 @@ Para hacer una tirada de **forrajear debes lanzar un d12** y consultar la siguie
 |9-10|Add a d10 item or a rainbow apple|
 |11-12|Add a d12 item or a rainbow apple|
 
-Si no tienes claro que obtienes con la tirada de forraje puedes tirar un d10 en la siguiente tabla.
+If you are unsure what you get with the forage roll, you can roll a d10 on the following table.
 
-|d10|Objeto|
+|d10|Item|
 |---|---|
-|1|Hojas de acónito|
-|2|Herramientas de gnomo|
-|3|Fuego fatuo|
-|4|Cepo de cazador|
-|5|Raíz de mandrágora|
-|6|Piedra con runas de las hadas|
-|7|Hojas de belladona|
-|8|Trébol de cuatro hojas|
-|9|Armas de goblins|
-|10|Polvo de hadas|
+|1|Aconite Leaves|
+|2|Gnome Tools|
+|3|Will-o'-the-Wisp|
+|4|Hunter's Trap|
+|5|Mandrake Root|
+|6|Fairy Runestone|
+|7|Belladonna Leaves|
+|8|Four-Leaf Clover|
+|9|Goblin weapons|
+110|Fairy Dust|
 
 ## Hunters
 
@@ -116,28 +116,30 @@ Some will be brutal and bloodthirsty with their bows and swords, others cunning 
 
 > Humans and unicorns cannot communicate. Humans don't understand the neighs of unicorns, and unicorns don't understand human words.
 
-## El bosque
+## The Forest
 
-El bosque donde vives es un lugar mágico en el que hay más criaturas mágicas, gnomos, duendes, dríades, etc. Pueden ser de ayuda o meterte en más problemas de los que ya tienes. 
+The forest where you live is a magical place inhabited by other magical creatures: gnomes, goblins, fairies, and more. They can either help you or get you into even more trouble than you already have.
 
-**Hadas:** Caprichosas y volátiles, solo les importa divertirse. Quizás te presten una ayuda inestimable o simplemente pasen de ti y se rían y bailen, mientras luchas por sobrevivir. 
+**Fairies:** Capricious and fickle, they only care about having fun. They might offer invaluable help or simply ignore you and laugh and dance while you struggle to survive.
 
-> Trata solo de interactuar con ellas cuando todo lo demás haya fallado porque normalmente nunca sale bien para ti. 
+> Only try interacting with them as a last resort, because it usually doesn't go well for you.
 
-**Gnomos:** Trabajadores y constantes, siempre están atareados haciendo todo tipo de cosas en el bosque, desde guardando comida para el invierno a curando animales heridos o buscando hierbas curativas para sus emplastos. Puedes fiarte de ellos y pedirles ayuda, pero no pases con tus peticiones o desaparecerán y no les volverás a encontrarlos jamás. 
+**Gnomes:** Hardworking and steadfast, they are always busy doing all sorts of things in the forest, from storing food for winter to tending to injured animals or searching for healing herbs for their poultices. You can trust them and ask for their help, but don't push your requests too far, or they will disappear, and you will never find them again.
 
-> Es importante que les devuelvas los favores que te hayan hecho.
+> It is important that you repay any favors they have done for you.
 
-**Goblins:** La codicia por el oro de la recompensa del rey los ha puesto en tu contra y están buscando la forma de cazarte y venderte a los humanos al mejor postor. No son fuertes, pero son muchos y suelen hacer buenas trampas.
+**Goblins:** Greed for the king's reward gold has turned them against you, and they are looking for ways to hunt you down and sell you to the highest bidder. They are not strong, but there are many of them, and they are usually good at setting traps.
 
-> Ándate con ojo si hay goblins cerca.
+> Be careful if there are goblins nearby.
 
-**Huargos:** Quizás los únicos depredadores naturales que tienen los unicornios. Estos lobos de gran tamaño son listos y cazan en manada y cuando encuentran tu rastro de sangre no cesan en su empeño por atraparte y devorarte. 
+**Wargs:** Perhaps the only natural predators unicorns have. These large wolves are intelligent and hunt in packs, and when they find your blood trail, they will relentlessly pursue and devour you.
 
-> Tendrás que usar tus mejores trucos para darles esquinazo y evitar sus emboscadas.
+> You'll have to use your best tricks to outwit them and avoid their ambushes.
 
 ## Licencia 
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Royalty-free images from **[Wikipedia](https://es.wikipedia.org/wiki/Unicorn#/media/Archivo:Historiae_animalium_1551_De_Monocerote.jpg)** and **[Freepik](https://www.freepik.com/free-photo/wooden-floor-background_4100933.htm)**.
+
+[![This is Breathless](./images/breathless.png)](https://fari-rpgs.itch.io/breathless-srd)
