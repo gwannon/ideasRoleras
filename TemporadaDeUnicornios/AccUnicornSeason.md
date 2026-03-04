@@ -42,28 +42,28 @@ The GM announces that your action could be risky and dangerous; then you choose 
 
 Being a unicorn hunted for its healing horn is difficult, so **each roll reduces the score of the skill used** by one level to a minimum of d4.
 
-## Cansancio
+## Fatigue
 
-Cuando enfrentas un fallo como resultado de una de tus acciones, el DJ puede decidir que recibas 1 nivel de cansancio. Si tu personaje alcanza 4 niveles de cansancio, estás agotado.
+When you fail as a result of one of your actions, the GM may decide that you receive 1 level of fatigue. If your character reaches 4 levels of fatigue, you are exhausted.
 
-Cuando estás agotado, fallar una acción peligrosa significa caer en las redes de algún cazador o mercenario o ser herido mortalmente.
+When exhausted, failing a dangerous action means falling into the clutches of a hunter or mercenary, or being mortally wounded.
 
-Puedes consumir una **manzana arcoíris, para eliminar 2 puntos de cansancio**. Otra opción es esconderte en un **lugar seguro** por un tiempo para **eliminar 1 punto de cansancio**.
+You can consume a **rainbow apple, to remove 2 points of fatigue**. Alternatively, you can hide in a **safe place** for a while to **remove 1 point of fatigue**.
 
-## Magia del cuerno
+## Magic Horn
 
-En situaciones peligrosas o complicadas puedes intentar **recurrir a la magia de tu cuerno** y hacer una **tirada con un d12** en vez de una tirada con tu rango de habilidad actual.
+In dangerous or complicated situations, you can attempt to **use your magic horn** and make a **d12 roll** instead of a roll using your current skill rank.
 
-Una vez gastada la magia de tu cuerno, **no podrás usarla** de nuevo hasta que **descanses en un arroyo de aguas cristalinas y puras**.
+Once you have used your magic horn, **you cannot use it** again until you **rest in a crystal clear water stream**.
 
-## Arroyos de aguas cristalinas y puras 
+## Crystal clear water streams
 
-Todo el mundo sabe que a los unicornios les gusta beber en arroyos de aguas cristalinas y descansar al arrullo del sonido de sus aguas.
+Everyone knows that unicorns love to drink from crystal-clear streams and rest to the soothing sound of their waters.
 
-Descansar y beber de un arroyo de aguas cristalinas y puras permite a la manada de unicornios tomarse un breve descanso para tranquilizarse, mirar la situación y buscar una forma de escapar de sus perseguidores o de afrontar los peligros a los que se van a enfrentar. 
+Resting and drinking from a crystal-clear stream allows the unicorn blessing to take a short break to calm down, assess the situation, and look for a way to escape their pursuers or face the dangers ahead.
 
-Para encontrar y beber en un arroyo debes **estar fuera de peligro en un lugar tranquilo**, lejos de la vista de los cazadores. En esos momentos puedes buscar un arroyo de aguas prístinas. 
-Si la manada descansa en unos de estos lugares, **recupera todos los niveles de dados de habilidad perdidos** y **restaura la magia de su cuerno**.
+To find and drink from a stream, you must be out of danger **in a quiet place, far from the sight of hunters**. At such times, you can search for a pristine stream.
+If the herd rests in one of these places, **it recovers all lost skill dice levels and restores the magic of its horn**.
 
 ## Pertrechos
 
