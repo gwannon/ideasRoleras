@@ -1,6 +1,6 @@
 # Unicorn Season [by Gwannon](https://gwannon.com/)
 
-**Season of Unicorns** is a one-page setting developed with **[Breathless](https://fari-rpgs.itch.io/breathless-srd)** about a blessing of unicorns that must survive hunters who want to kill them for the healing powers of their horns.
+**Unicorn Season** is a one-page setting developed with **[Breathless](https://fari-rpgs.itch.io/breathless-srd)** about a blessing of unicorns that must survive hunters who want to kill them for the healing powers of their horns.
 
 ## Everything was peace and quiet…
 
