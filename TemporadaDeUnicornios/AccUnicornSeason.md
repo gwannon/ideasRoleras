@@ -133,7 +133,7 @@ The forest where you live is a magical place inhabited by other magical creature
 
 > You'll have to use your best tricks to outwit them and avoid their ambushes.
 
-## Licencia 
+## License
 
 This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
