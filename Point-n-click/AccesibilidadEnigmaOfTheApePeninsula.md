@@ -131,7 +131,6 @@ After tough negotiations, _**Sam**_ will agree to 200 gold doubloons to be paid 
 To make it self-propelled, they'll need something to serve as a mast and something to serve as a sail. There's a strike by sailmakers and mast makers, and he's out of them, so your players will have to find something to replace it.
 
 As we've already mentioned, for the sail they'll need the _**Twister vinyl**_ decal and for the mast the oar that isn't broken. With these, _**Sam**_ will assemble some sails and change the description on the _**title deed**_.
-
 #### Souvenir shop
 
 _**Maxine**_ the Red, the red-haired terror of the Caribbean, retired from piracy and used her earnings to open a souvenir shop selling famous pirate memorabilia in Bucan Ville. In her shop, you can find the most outlandish items from the pirate world, from a lock of Blackbeard's beard to Sir Francis Drake's mouthguard.
@@ -169,25 +168,25 @@ When they leave the Boiled Crab Tavern, you can tell them that they can access t
 #### Exterior of the Governor's mansion
 
 Governor Marlon's mansion is a Victorian home perched on a cliff overlooking the Caribbean Sea. It is luxurious and well-maintained; surely the upkeep and luxuries, such as the _**equestrian statue of Governor Marlon**_, are paid for with the taxes of all the residents of Bucan Ville.
-Examinando su estatua, el gobernador Marlon es un excelente ejemplar de ser humano, larga melena, mentón cincelado con un hoyuelo divino, grandes hombros, torso esculpido en piedra y poderosos brazos y piernas.
+Examining his statue, Governor Marlon is a good looking human: long hair, a chiseled chin with a divine dimple, broad shoulders, a torso sculpted from stone, and powerful arms and legs.
 
-El exterior está vigilado por unos _**pavos reales**_ que gluglutean muy alto en cuanto te ven. Entonces una luz de la segunda planta se enciende y el gobernador Marlon sale a la ventana a vigilar armado con un rifle de pólvora negra. Cuando no ve nada sospechoso se vuelve a meter.
+The exterior is guarded by _**peacocks**_ that gobble loudly as soon as they see you. Then a light on the second floor comes on, and Governor Marlon goes to the window to keep watch, armed with a black powder rifle. When he sees nothing suspicious, he goes back inside.
 
-Si te escondes detrás de la _**estatua ecuestre**_ y les golpeas cuando no miran hacia donde estás, puedes quitarles una _**pluma**_. Cuando tienes tres plumas, puedes hacerte un _**tocado de pavo real**_ y los _**pavos reales**_ te consideran uno de los suyos y te dejan pasar sin avisar al gobernador.
+If you hide behind the _**equestrian statue**_ and hit them when they're not looking in your direction, you can take a _**feather**_ from each of them. When you have three feathers, you can make yourself a _**peacock headdress**_, and the _**peacocks**_ will consider you one of their own and let you pass without informing the governor.
 
-#### Hall principal de la casa del gobernador
+#### Governor's Mansion Main Hall
 
-Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
+Upon entering the Governor's Mansion, you'll find yourself in the main hall. It's large and luxurious, filled with artwork, expensive vases, ivory figures, and so on. The _**hall**_ is dimly lit by a few _**candles in a large chandelier**_.
 
-Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas chirriarán y se verán luces desde el piso superior y sonidos del gobernador Marlon cargando su rifle. Eso hace que sea imposible bajar la lámpara mientras haga ruido, necesitan algún tipo de lubricante.
+If you try to pull/push the _**pulleys that raise and lower**_ the chandelier, they will creak, and you'll see lights from the upper floor and hear the sounds of Governor Marlon loading his rifle. This makes it impossible to lower the chandelier while it's making noise; you need some kind of lubricant.
 
-Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarrás que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
+Let them search the screens for something non-clickable that can serve as a lubricant, like the grog the _**Pirate Lady Bosses**_ drink, the turpentine the _**painter**_ in the _**Main Square**_ uses, etc., and make it clickable with their pixels.
 
-##### Sótano de la casa del gobernador
+##### Governor's Mansion's Basement
 
-En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón de cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
+The basement is dark, and the only visible feature is the large _**safe**_ door, covered in a multitude of locks, combination dials, and gears. It appears incredibly complex—so complex, in fact, that Governor Marlon has left a note hidden in a specific pixel on the screen with instructions for opening it.
 
-Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
+There is very little light in the basement, and the exact pixel can only be found if light is available. The only light source will be the _**candles in the chandelier**_ in the _**main hall**_. If they try to bring in a light source from elsewhere (by making something clickable), make it difficult for them, as these will be electric or gas-powered.
 
 ### 5. Enter DraChuckla
 
