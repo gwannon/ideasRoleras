@@ -221,7 +221,7 @@ There will be music, parties, dancing, and grog galore, culminating in fireworks
 
 Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will begin to glow while eerie organ music plays, before transitioning to the adventure's credits and a «The End».
 
-> If your players ask you at the end of the adventure what the enigma of the Monkey Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
+> If your players ask you at the end of the adventure what the enigma of the Ape Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
 
 \sc
 

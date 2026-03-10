@@ -263,13 +263,13 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 ## Floppy disk 2/3: Mighty voodoo magic
 
-En esta segunda parte tus jugadoras tendrán que superar otras 3 escenas. La primera será una escena rápida en que las _**Jefas Piratas**_ les encarguen rescatar al Gobernador Marlon, ya que les debe mucha pasta por trabajos que han estado haciendo para su próxima campaña electoral. Por suerte les dejarán un barco cochambroso que usan para espectáculos para turistas.
+In this second part, your players will have to overcome three more scenes. The first will be a quick scene in which the _**Pirate Ladybosses**_ task them with rescuing Governor Marlon, as he owes them a lot of money for work they've been doing for his upcoming election campaign. Luckily, they'll be given a dilapidated ship they use for tourist shows.
 
-En una segunda escena, tendrán que adentrarse en los pantanos de la Isla para encontrarse a _**Alfonsé**_, el conde vudú de los pantanos, para que les explique cómo pueden acabar con DraChuckla y como llegar a la Península del Simio donde se supone que está el temible vampirata buscando el _**Mac’n Cheese**_.
+In the second scene, they'll have to venture into the Island's swamps to find _**Alfonsé**_, the voodoo count of the swamps, so he can explain how they can defeat DraChuckla and how to reach Ape Peninsula, where the fearsome vampire is supposedly searching for _**Mac’n Cheese**_.
 
-Según _**Alfonsé**_, la única forma de acabar con el capitán DraChuckla es usando la _**cruz de Coronado**_ que es parte del tesoro del _**Mac’n Cheese**_. Así que tendrán que encontrar el tesoro antes que su terrible enemigo.
+According to _**Alfonsé**_, the only way to defeat Captain DraChuckla is by using the _**Coronado Cross**_, which is part of the _**Mac 'n Cheese**_ treasure. So they'll have to find the treasure before their terrible enemy does.
 
-En la tercera y última escena deberán atravesar el mar Caribe para llegar a la _**Península del Simio**_ siguiendo los designios de los _**huesos del oráculo**_ que les ha dado el conde del vudú.
+In the third and final scene, they must cross the Caribbean Sea to reach the _**Ape Peninsula, following the instructions of the _**oracle bones**_ given to them by the Voodoo Count.
 
 ### 1. Mi primer barco pirata
 
@@ -598,7 +598,7 @@ There will be music, parties, dancing, and grog galore, culminating in fireworks
 
 Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will begin to glow while eerie organ music plays, before transitioning to the adventure's credits and a «The End».
 
-> If your players ask you at the end of the adventure what the enigma of the Monkey Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
+> If your players ask you at the end of the adventure what the enigma of the Ape Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
 
 ## Resumen del disquete III### Jungla perdida
 
