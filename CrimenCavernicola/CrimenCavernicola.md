@@ -1,6 +1,6 @@
 # Se ha pintado un crimen en las paredes
 
-«Se ha pintado un crimen en las paredes» es una aventura corta de 2 o 3 sesiones para [100 Million B.C.](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas) donde tus cavernícolas deberán resolver un crimen y detener al asesino, mientras esquivas todos los peligros que quieren comerles.
+«Se ha pintado un crimen en las paredes» es una aventura corta de 2 o 3 sesiones para [100 Million B.C.](https://goldenachiever.github.io/year100millionbc/) creado por [Golden Achiever](https://golden-achiever.itch.io/) y traducido al [castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas) por [Roque Romero](https://roque-romero.itch.io/) donde tus cavernícolas deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
 
 La idea de la aventura es que no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones. Por ejemplo, si se ponen a comparar las heridas de Grogui con las que hacen los colmillos de un «dientesgrandes» y te parece interesante pues las heridas son de un «dientesgrandes». Piensa que esto no significa mucho, porque el asesino puede ser un «dientesgrandes» o alguien que usa sus dientes como arma.
 
@@ -32,13 +32,15 @@ De primeras, al moverlo, verán una gran herida en el pecho. Hasta un caverníco
 
 Pueden buscar cosas con las que hayan podido matar a Grogui y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas. Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
+Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían probar un trocito y sabrán que la muerte es reciente, un par de horas. También preguntando a la gente podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
+
 XXX
 
 ## Investigando la escena del crimen
 
 XXX
 
-Otra opción es buscar huellas. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió. Si no hay huellas, es que el asesino está en la cueva (tan-tan-tan todos se miran aviesamente buscando sospechosos) o volaba.
+Otra opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió. Si no hay huellas, es que el asesino está en la cueva (tan-tan-tan todos se miran aviesamente buscando sospechosos) o volaba.
 
 XXX
 
@@ -48,11 +50,29 @@ XXX
 
 Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
 
-* **¿XXX?** XXX
-* **¿XXX?** XXX
-* **¿XXX?** XXX
+|Pregunta|Respuesta tonta|Respuesta con posible pista|
+|---|---|---|
+|¿XXX?|XXX|XXX|
 
 Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». XXX
+
+### Interrogando a cosas para comer (o que te comen)
+
+La verdad es que poca información pueden sacar a las cosas para comer (o que te comen), pero investigar da hambre y es una buena excusa para salir a dar mamporros y quizas obtengan algunas pistas.
+
+|Cosas para comer|Pistas|
+|---|---|
+|XXX|De uno de sus cuernos cuelga XXX|
+
+## Escenas de acción
+
+Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
+
+XXX
+
+## Estudiando las pruebas
+
+XXX
 
 ## Reuniendo a las testigos y resolviendo el crimen
 
@@ -62,4 +82,4 @@ XXX
 
 XXX
 
-Esta aventura fuera desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam)
+Esta aventura fuera desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).

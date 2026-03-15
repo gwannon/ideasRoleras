@@ -311,3 +311,5 @@
 {"rule":"ES_SIMPLE_REPLACE","sentence":"^\\QFuente Korataki\nGradient zoom effect background by freepik\nGradient zoom effect background by freepik\nPergeñado con Inteligencia humana por Ángel G. Ropero\\E$"}
 {"rule":"FORM","sentence":"^\\Q¡Dadómones! es un minijuego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon».\\E$"}
 {"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¡Dadómones! es un minijuego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon».\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QEsta aventura fuera desarrollada para la CAVE JAM!\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QOtra opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales.\\E$"}
