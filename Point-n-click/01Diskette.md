@@ -136,6 +136,8 @@ To make it self-propelled, they'll need something to serve as a mast and somethi
 
 As we've already mentioned, for the sail they'll need the _**Twister vinyl**_ decal and for the mast the oar that isn't broken. With these, _**Sam**_ will assemble some sails and change the description on the _**title deed**_.
 
+\sc
+
 #### Souvenir shop
 
 _**Maxine**_ the Red, the red-haired terror of the Caribbean, retired from piracy and used her earnings to open a souvenir shop selling famous pirate memorabilia in Bucan Ville. In her shop, you can find the most outlandish items from the pirate world, from a lock of Blackbeard's beard to Sir Francis Drake's mouthguard.
@@ -185,19 +187,19 @@ The exterior is guarded by _**peacocks**_ that gobble loudly as soon as they see
 
 If you hide behind the _**equestrian statue**_ and hit them when they're not looking in your direction, you can take a _**feather**_ from each of them. When you have three feathers, you can make yourself a _**peacock headdress**_, and the _**peacocks**_ will consider you one of their own and let you pass without informing the governor.
 
-#### Hall principal de la casa del gobernador
+#### Governor's Mansion Main Hall
 
-Al entrar a la casa del gobernador se accede al hall principal. Es grande y lujoso, lleno de obras de arte, jarrones caros, figuras de marfil, etc. El _**hall**_ está levemente iluminado por unas pocas _**velas de la una gran lámpara de araña**_.
+Upon entering the Governor's Mansion, you'll find yourself in the main hall. It's large and luxurious, filled with artwork, expensive vases, ivory figures, and so on. The _**hall**_ is dimly lit by a few _**candles in a large chandelier**_.
 
-Si tratan de Tirar/Empujar las _**poleas que suben y bajan la lámpara**_, estas chirriarán y se verán luces desde el piso superior y sonidos del gobernador Marlon cargando su rifle. Eso hace que sea imposible bajar la lámpara mientras haga ruido, necesitan algún tipo de lubricante.
+If you try to pull/push the _**pulleys that raise and lower**_ the chandelier, they will creak, and you'll see lights from the upper floor and hear the sounds of Governor Marlon loading his rifle. This makes it impossible to lower the chandelier while it's making noise; you need some kind of lubricant.
 
-Déjales que busque por las pantallas algo que no sea clicables y que sirva de lubricante, como el grog que beben las _**Jefas Piratas**_, el aguarrás que usa el _**pintor**_ de la _**Plaza Mayor**_, etc. y que lo conviertan en clicable con sus píxeles.
+Let them search the screens for something non-clickable that can serve as a lubricant, like the grog the _**Pirate Lady Bosses**_ drink, the turpentine the _**painter**_ in the _**Main Square**_ uses, etc., and make it clickable with their pixels.
 
-##### Sótano de la casa del gobernador
+##### Governor's Mansion's Basement
 
-En el sótano está oscuro y solo se vislumbra la gran puerta de la _**caja fuerte**_ con un montón de cerraduras, ruedas con combinaciones y engranajes para girar. Parece muy complicada, tan complicada que el gobernador Marlon ha dejado una nota escondida en un pixel exacto de la pantalla con las instrucciones para abrir la caja fuerte.
+The basement is dark, and the only visible feature is the large _**safe**_ door, covered in a multitude of locks, combination dials, and gears. It appears incredibly complex—so complex, in fact, that Governor Marlon has left a note hidden in a specific pixel on the screen with instructions for opening it.
 
-Hay muy poca luz en el sótano y solo podrán encontrar el píxel exacto, si consiguen luz. La única fuente de luz será las _**velas de la lámpara de araña**_ del _**hall principal**_. Si intentan traer alguna fuente de luz de otro sitio (convirtiendo algo en clicable), pónselo difícil, porque serán eléctricas o a gas.
+There is very little light in the basement, and the exact pixel can only be found if light is available. The only light source will be the _**candles in the chandelier**_ in the _**main hall**_. If they try to bring in a light source from elsewhere (by making something clickable), make it difficult for them, as these will be electric or gas-powered.
 
 ### 5. Enter DraChuckla
 
