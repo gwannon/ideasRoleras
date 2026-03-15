@@ -29,9 +29,6 @@ Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían
 También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
 
 XXX
-
-\sp
-
 ## Investigando la escena del crimen
 
 XXX
@@ -85,9 +82,6 @@ XXX
 La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313).
 
 Esta aventura fuera desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
-
-\sc
-
 [![Hand drawn paleolithic illustration by freepik](./css/8411230.jpg "Hand drawn paleolithic illustration by freepik")](https://www.freepik.com/free-vector/hand-drawn-paleolithic-illustration_36304353.htm "Hand drawn paleolithic illustration by freepik")
 
 # Se ha pintado un crimen en las paredes

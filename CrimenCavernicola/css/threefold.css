@@ -1,0 +1,160 @@
+:root {
+  --main-color: #000000;
+  --secondary-color: #ff8521;
+  --accent-color: #772e0d;
+  --background-color: #e4b5a0;
+}
+
+
+@font-face {
+  font-family: 'JelloStone';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./JelloStone-YqKz8.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./OpenSans-Regular.ttf) format('woff2');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./OpenSans-Bold.ttf) format('woff2');
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  background-color: var(--background-color);
+  color: var(--main-color);
+}
+
+body:before,
+body:after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: calc(33.33% - 1px);
+  width: 1px;
+  height: 100vh;
+  border-left: 1px dashed var(--main-color);
+}
+
+body:after {
+  left: calc(66.66% - 1px);
+}
+
+* {
+  margin: 0 0 8px 0;
+  padding: 0;
+}
+
+a,
+a:visited {
+  color: var(--main-color);
+}
+
+img {
+  max-width: 100%;
+}
+
+blockquote {
+  border: 1px solid var(--accent-color);
+  padding: 15px 15px 7px 15px;
+  color: var(--accent-color);
+}
+
+blockquote a {
+  color: var(--accent-color);
+}
+
+/* -------------- TITULOS -------------- */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "JelloStone", system-ui;
+}
+
+h1 {
+  font-size: 35px;
+  margin: -140px 20px 30px 10px;
+  color: var(--accent-color);
+  text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);
+}
+
+h4 {
+  font-size: 1.8em;
+  text-align: center;
+}
+
+/* -------------- TEXTOS -------------- */
+
+ul li {
+  margin-bottom: 3px;
+  margin-left: 18px;
+}
+
+/* -------------- TABLAS -------------- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  color: var(--background-color);
+}
+
+table tr:nth-child(odd) {
+  background-color: var(--accent-color);
+}
+
+table tr:nth-child(even) {
+  background-color: var(--secondary-color);
+  color: var(--background-color);
+}
+
+table td,
+table th {
+  padding: 1.5px;
+}
+
+/* -------------- COLUMNAS -------------- */
+
+.columns {
+  columns: 3;
+  column-gap: 50px;
+  padding: 22px
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+
+@media print {
+  @page {
+    size: A4 landscape;
+    margin: 0
+  }
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
