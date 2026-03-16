@@ -52,10 +52,6 @@ Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los tes
 |---|---|---|
 |¿XXX?|XXX|XXX|
 |¿XXX?|XXX|XXX|
-|¿XXX?|XXX|XXX|
-|¿XXX?|XXX|XXX|
-|¿XXX?|XXX|XXX|
-|¿XXX?|XXX|XXX|
 
 Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es la mejor forma es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
 
@@ -67,10 +63,7 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 
 |Cosas para comer|Pistas|
 |---|---|
-|XXX|De uno de sus cuernos cuelga XXX|
-|XXX|XXX|
-|XXX|XXX|
-|XXX|XXX|
+|XXX|De uno de sus cuernos cuelga trozo del taparrabos de Grogui|
 |XXX|XXX|
 
 ## Escenas de acción
