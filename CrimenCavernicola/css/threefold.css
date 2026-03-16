@@ -66,6 +66,23 @@ img {
   max-width: 100%;
 }
 
+img[alt='Silueta caballo']{
+  margin-top: 10px;
+  float: right;
+}
+
+img[alt='Silueta ciervo']{
+  margin-top: 10px;
+  float: right;
+}
+
+img[alt='Silueta arquero']{
+  margin-top: 10px;
+  float: left;
+  shape-outside: url(https://gwannon.com/cavernicola/css/arquero.png);
+  shape-margin: 1em;
+}
+
 blockquote {
   border: 1px solid var(--accent-color);
   padding: 15px 15px 7px 15px;
