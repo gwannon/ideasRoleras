@@ -1,6 +1,6 @@
 :root {
   --main-color: #000000;
-  --secondary-color: #ff8521;
+  --secondary-color: #e8cbb1;
   --accent-color: #772e0d;
   --background-color: #e4b5a0;
 }
@@ -32,7 +32,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 13px;
+  font-size: 13.5px;
   background-color: var(--background-color);
   color: var(--main-color);
 }
@@ -70,6 +70,7 @@ blockquote {
   border: 1px solid var(--accent-color);
   padding: 15px 15px 7px 15px;
   color: var(--accent-color);
+  margin-bottom: 15px;
 }
 
 blockquote a {
@@ -86,10 +87,10 @@ h4 {
 }
 
 h1 {
-  font-size: 35px;
-  margin: -140px 20px 30px 10px;
+  font-size: 42px;
+  margin: -35px 20px 30px 0px;
   color: var(--accent-color);
-  text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);
+  /*text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);*/
 }
 
 h4 {
@@ -118,7 +119,7 @@ table tr:nth-child(odd) {
 
 table tr:nth-child(even) {
   background-color: var(--secondary-color);
-  color: var(--background-color);
+  color: var(--main-color);
 }
 
 table td,

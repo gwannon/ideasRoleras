@@ -13,7 +13,6 @@ Cuando tus cavernícolas despiertan, después de una noche extrañamente tranqui
 Tras darle varios golpecitos con un palo en los ojos, pueden comprobar que está muerto. Hay que saber quién o qué lo ha matado, porque está noche podría volver a atacar.
 
 Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así hasta que se queden solos en la cueva. Lo bueno de esta técnica es que se habrán quitado muchos sospechosos, lo malo es que ellos son las próximas víctimas.
-
 ## Investigando el cadáver
 
 Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero se pueden hacer cosas.
@@ -29,6 +28,7 @@ Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían
 También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
 
 XXX
+
 ## Investigando la escena del crimen
 
 XXX
@@ -36,7 +36,6 @@ XXX
 Otra opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió. Si no hay huellas, es que el asesino está en la cueva (tan-tan-tan todos se miran aviesamente buscando sospechosos) o volaba. Otra opción es que se haya adentrado en lo más profundo de la cueva.
 
 XXX
-
 ## Interrogar a posibles testigos
 
 XXX
@@ -45,6 +44,11 @@ Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los tes
 
 |Pregunta|Respuesta tonta|Respuesta con posible pista|
 |---|---|---|
+|¿XXX?|XXX|XXX|
+|¿XXX?|XXX|XXX|
+|¿XXX?|XXX|XXX|
+|¿XXX?|XXX|XXX|
+|¿XXX?|XXX|XXX|
 |¿XXX?|XXX|XXX|
 
 Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es la mejor forma es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
@@ -58,6 +62,10 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 |Cosas para comer|Pistas|
 |---|---|
 |XXX|De uno de sus cuernos cuelga XXX|
+|XXX|XXX|
+|XXX|XXX|
+|XXX|XXX|
+|XXX|XXX|
 
 ## Escenas de acción
 
@@ -77,16 +85,12 @@ XXX
 
 ## Licencia
 
-XXX
-
-La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313).
-
-Esta aventura fuera desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
-[![Hand drawn paleolithic illustration by freepik](./css/8411230.jpg "Hand drawn paleolithic illustration by freepik")](https://www.freepik.com/free-vector/hand-drawn-paleolithic-illustration_36304353.htm "Hand drawn paleolithic illustration by freepik")
+Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
+![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
 
 # Se ha pintado un crimen en las paredes
 
-«Se ha pintado un crimen en las paredes» es un hack para [100 Million B.C.](https://goldenachiever.github.io/year100millionbc/) creado por [Golden Achiever](https://golden-achiever.itch.io/) y traducido al [castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas) por [Roque Romero](https://roque-romero.itch.io/) que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
+«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
 
 La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
 

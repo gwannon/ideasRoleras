@@ -58,9 +58,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'CrimenCavernicola') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: «Se ha pintado un crimen en las paredes» por Gwannon - Ver. 0.1\n\n";
+  $metas .= "InfoValue: «Se ha pintado un crimen en las paredes» por Gwannon - Ver. 0.5\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: «Se ha pintado un crimen en las paredes» es un hack para 100 Million B.C. donde podrás resolver misterios al más puro estilo de las novelas de Agatha Christie. Versión 0.1\n\n";
+  $metas .= "InfoValue: «Se ha pintado un crimen en las paredes» es un hack para 100 Million B.C. donde podrás resolver misterios al más puro estilo de las novelas de Agatha Christie. Versión 0.5\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
