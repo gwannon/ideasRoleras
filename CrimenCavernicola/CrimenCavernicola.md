@@ -85,20 +85,21 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 |Bocaza|A pesar de su bocaza, solo dice «Croac, croac»|
 |Morrolargo|Tienen buen olfato, igual desentierran algo interesante, si le sigues.|
 |Espalroca|Quizás si te sube a su caparazón ves algo.|
-|Come-hombres|Siempre es uno de los sospechosos principales, ya que come-hombres|
+|Come-hombres|Como come-hombres es siempre sospechoso.|
 |Cuernohueso|Solo son buenos filetes.|
 |Desgarrapiños|No suelen meterse en las cuevas a comer cavernícolas, pero igual se ha comida al asesino y no tienes que buscarlo.|
 |Fauzaéreas|Quizás si te enganchas ves algo desde arriba.|
 |Cuernerrante|De uno de sus cuernos cuelga un trozo de taparrabos de Grogui|
 |Grandelento|Igual puedes subirte encima para llegar a sitio a los que no llegas de normal.|
-|Ciervozumbador|Como el cuernohueso, solo son buenos filetes.|
 |Agarrárbol|Son tan listos como tú y puedes hablar con ellos con mímica.|
 
 ## Estudiando las pruebas
 
-![Silueta caballo](./css/caballo.png) Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas, pero con una adaptación prehistórica.
+Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas y solo hay que mirar la pistas y darles la forma adecuada para que se ajusten a uno de estos supuestos.
 
-XXX
+A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de probarla con lo que tienen. En caso de que no algo falle en tu teoría o tras volver a entrevistar a un sospechoso, tu teoría se vaya al garete, deberás volver a hacer los pasos anteriores para sacar nuevas pistas que te permitan elaborar alguna otra teoría.
+
+> En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
 
 \sc
 

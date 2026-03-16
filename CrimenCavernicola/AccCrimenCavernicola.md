@@ -1,18 +1,3 @@
-![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
-
-# Se ha pintado un crimen en las paredes
-
-«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
-
-La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
-
-Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un «come-hombres». Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
-
-## La pared del caso
-
-Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo.
-
-
 Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
 
 > El primero que dibuje una obscenidad recibirá una mejora. Esto es así y no es discutible. La historia del arte rupestre está lleno de genitales y esta innovación artística debe ser recompensada.
@@ -91,20 +76,21 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 |Bocaza|A pesar de su bocaza, solo dice «Croac, croac»|
 |Morrolargo|Tienen buen olfato, igual desentierran algo interesante, si le sigues.|
 |Espalroca|Quizás si te sube a su caparazón ves algo.|
-|Come-hombres|Siempre es uno de los sospechosos principales, ya que come-hombres|
+|Come-hombres|Como come-hombres es siempre sospechoso.|
 |Cuernohueso|Solo son buenos filetes.|
 |Desgarrapiños|No suelen meterse en las cuevas a comer cavernícolas, pero igual se ha comida al asesino y no tienes que buscarlo.|
 |Fauzaéreas|Quizás si te enganchas ves algo desde arriba.|
 |Cuernerrante|De uno de sus cuernos cuelga un trozo de taparrabos de Grogui|
 |Grandelento|Igual puedes subirte encima para llegar a sitio a los que no llegas de normal.|
-|Ciervozumbador|Como el cuernohueso, solo son buenos filetes.|
 |Agarrárbol|Son tan listos como tú y puedes hablar con ellos con mímica.|
 
 ## Estudiando las pruebas
 
-![Silueta caballo](./css/caballo.png) Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas, pero con una adaptación prehistórica.
+Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas y solo hay que mirar la pistas y darles la forma adecuada para que se ajusten a uno de estos supuestos.
 
-XXX
+A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de probarla con lo que tienen. En caso de que no algo falle en tu teoría o tras volver a entrevistar a un sospechoso, tu teoría se vaya al garete, deberás volver a hacer los pasos anteriores para sacar nuevas pistas que te permitan elaborar alguna otra teoría.
+
+> En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
 ## Reuniendo a las testigos y resolviendo el crimen
 
 Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que reunir a todo los sospechosos y al resto de la cueva que no se quiere ir de la cueva porque son unos cotillas. 
@@ -126,3 +112,18 @@ Por último, tras decir quién es el asesino, este suele salir corriendo y bien 
 ## Licencia
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
+![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
+
+# Se ha pintado un crimen en las paredes
+
+«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
+
+La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
+
+Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un «come-hombres». Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
+
+---
+
+## La pared del caso
+
+Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo.
