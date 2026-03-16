@@ -20,9 +20,9 @@ Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tie
 
 \sc
 
-![Silueta arquero](./css/arquero.png) De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el craneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
+![Silueta arquero](./css/arquero.png) De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el cráneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
 
-También tendrán que hacer el recuento de partes del cuerpo para comprobar que que no le falta ninguna. Esta claro que si le faltan las piernas, pues no ha muerto de una indigestíon. 
+También tendrán que hacer el recuento de partes del cuerpo para comprobar que no le falta ninguna. Está claro que si le faltan las piernas, pues no ha muerto de una indigestión. 
 
 Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas. Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
@@ -38,7 +38,7 @@ Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían
 
 También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
 
-Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernicolas y la poca higiene que tienen, esto no es de mucha ayuda. También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
+Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernícolas y la poca higiene que tienen, esto no es de mucha ayuda. También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
 
 ## Investigando la escena del crimen
 
@@ -62,7 +62,7 @@ Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los tes
 |¿Ver algo no-día?|Yo dormir|XXX|
 |¿Caer bien Grogui?|Sí, no roncar/Sí, oler bien|No, roncar mucho/No, oler mal|
 
-_* Si respondes esto ya has solucionadao el caso y es el mejor detective de la prehistoria._
+_&ast; Si responden esto, habrán solucionado el caso y tus cavernícolas son los mejores detectives de la prehistoria._
 
 Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es la mejor forma es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
 
