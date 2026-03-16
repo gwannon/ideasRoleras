@@ -8,7 +8,7 @@ Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la informac
 
 ## Un cadáver a los postres
 
-Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del «reptalargo» que cazasteis ayer.
+Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del _reptalargo_ que cazasteis ayer.
 
 Tras darle varios golpecitos con un palo en los ojos, pueden comprobar que está muerto. Hay que saber quién o qué lo ha matado, porque está noche podría volver a atacar.
 
@@ -89,14 +89,13 @@ XXX
 
 XXX
 
-
 ## Escenas de acción
 
 Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
 
-* Como ya hemos dicho hay ciertos crimenes que se hacen para tapar otros crimenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de cuernohuesos para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
+* Como ya hemos dicho hay ciertos crímenes que se hacen para tapar otros crímenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de _cuernohuesos_ para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
 * Un clásico de las historias detectivescas son las persecuciones en las que el criminal ha intentado robar pistas y le pillan o ha intentado matar a tus cavernícolas y le descubren con las manos en la masa. 
-* Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un cuerneerrante.
+* Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un _cuerneerrante_.
 
 ## Licencia
 
@@ -112,4 +111,4 @@ Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/le
 
 ![Silueta caballo](./css/caballo.png) La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
 
-Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un «dientesgrandes» y te parece interesante, pues las heridas son de un «dientesgrandes». Piensa que esto no significa mucho, porque el asesino puede ser un «dientesgrandes» o alguien que usa sus dientes como arma.
+Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _dientesgrandes_ y te parece interesante, pues las heridas son de un «dientesgrandes». Piensa que esto no significa mucho, porque el asesino puede ser un _dientesgrandes_ o alguien que usa sus dientes como arma.
