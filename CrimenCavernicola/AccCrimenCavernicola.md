@@ -1,3 +1,11 @@
+# Se ha pintado un crimen en las paredes
+
+«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
+
+![Silueta caballo](./css/caballo.png) La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
+
+Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un «dientesgrandes» y te parece interesante, pues las heridas son de un «dientesgrandes». Piensa que esto no significa mucho, porque el asesino puede ser un «dientesgrandes» o alguien que usa sus dientes como arma.
+
 ## La pared del caso
 
 Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo 
@@ -17,13 +25,15 @@ Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así 
 
 Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
 
-De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el craneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
+![Silueta arquero](./css/arquero.png) De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el craneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
 
-![Silueta arquero](./css/arquero.png) También tendrán que hacer el recuento de partes del cuerpo para comprobar que que no le falta ninguna. Esta claro que si le faltan las piernas, pues no ha muerto de una indigestíon. 
+También tendrán que hacer el recuento de partes del cuerpo para comprobar que que no le falta ninguna. Esta claro que si le faltan las piernas, pues no ha muerto de una indigestíon. 
 
 Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas. Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
-Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Quizas haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas. Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino, y luego tengan que ir uno por uno todos los trogloditas de la cueva mirando a quien le falta ese trozo de taparrabos.
+Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Quizas haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas.
+
+Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino, y luego tengan que ir uno por uno todos los trogloditas de la cueva mirando a quien le falta ese trozo de taparrabos.
 > Ni que decir que una vez acaba la investigación de cadáver tendrán que decidir cómo repartirse el equipo de Grogui, total no lo va a usar más. Haz una tirada en la tabla de equipo inicial para determinar su contenido.
 
 Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían **probar un trocito y sabrán que la muerte es reciente**, un par de horas.
@@ -65,7 +75,6 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 |---|---|
 |XXX|De uno de sus cuernos cuelga trozo del taparrabos de Grogui|
 |XXX|XXX|
-
 ## Escenas de acción
 
 Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
@@ -86,11 +95,3 @@ XXX
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
 ![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
-
-# Se ha pintado un crimen en las paredes
-
-«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
-
-![Silueta caballo](./css/caballo.png) La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
-
-Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un «dientesgrandes» y te parece interesante, pues las heridas son de un «dientesgrandes». Piensa que esto no significa mucho, porque el asesino puede ser un «dientesgrandes» o alguien que usa sus dientes como arma.

@@ -20,13 +20,15 @@ Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así 
 
 Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
 
-De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el craneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
+![Silueta arquero](./css/arquero.png) De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el craneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
 
-![Silueta arquero](./css/arquero.png) También tendrán que hacer el recuento de partes del cuerpo para comprobar que que no le falta ninguna. Esta claro que si le faltan las piernas, pues no ha muerto de una indigestíon. 
+También tendrán que hacer el recuento de partes del cuerpo para comprobar que que no le falta ninguna. Esta claro que si le faltan las piernas, pues no ha muerto de una indigestíon. 
 
 Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas. Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
-Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Quizas haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas. Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino, y luego tengan que ir uno por uno todos los trogloditas de la cueva mirando a quien le falta ese trozo de taparrabos.
+Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Quizas haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas.
+
+Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino, y luego tengan que ir uno por uno todos los trogloditas de la cueva mirando a quien le falta ese trozo de taparrabos.
 
 \sc
 
@@ -74,6 +76,8 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 |---|---|
 |XXX|De uno de sus cuernos cuelga trozo del taparrabos de Grogui|
 |XXX|XXX|
+
+\sc
 
 ## Escenas de acción
 
