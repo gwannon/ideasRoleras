@@ -1,16 +1,7 @@
-![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
-
-# Se ha pintado un crimen en las paredes
-
-«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
-
-![Silueta caballo](./css/caballo.png) La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
-
-Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un «dientesgrandes» y te parece interesante, pues las heridas son de un «dientesgrandes». Piensa que esto no significa mucho, porque el asesino puede ser un «dientesgrandes» o alguien que usa sus dientes como arma.
 
 ## La pared del caso
 
-![Silueta ciervo](./css/ciervo.png) Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo 
+Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo.
 
 Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
 
@@ -18,7 +9,7 @@ Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la informac
 
 ## Un cadáver a los postres
 
-Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del «reptalargo» que cazasteis ayer.
+Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del _reptalargo_ que cazasteis ayer.
 
 Tras darle varios golpecitos con un palo en los ojos, pueden comprobar que está muerto. Hay que saber quién o qué lo ha matado, porque está noche podría volver a atacar.
 
@@ -28,9 +19,10 @@ Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así 
 
 Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
 
-![Silueta arquero](./css/arquero.png) De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el craneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
+De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, quizas un gran traumatismo en el cráneo o unas grandes laceraciones en la espalda. 
+![Silueta ciervo](./css/ciervo.png) Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
 
-También tendrán que hacer el recuento de partes del cuerpo para comprobar que que no le falta ninguna. Esta claro que si le faltan las piernas, pues no ha muerto de una indigestíon. 
+También tendrán que hacer el recuento de partes del cuerpo para comprobar que no le falta ninguna. Está claro que si le faltan las piernas, pues no ha muerto de una indigestión. 
 
 Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas. Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
@@ -40,10 +32,12 @@ Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola 
 
 > Ni que decir que una vez acaba la investigación de cadáver tendrán que decidir cómo repartirse el equipo de Grogui, total no lo va a usar más. Haz una tirada en la tabla de equipo inicial para determinar su contenido.
 
-Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían **probar un trocito y sabrán que la muerte es reciente**, un par de horas.
-También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
+![Silueta caballo](./css/caballo.png) Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían **probar un trocito y sabrán que la muerte es reciente**, un par de horas. También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. 
+Pero claro, así se han solucionado el almuerzo.
 
-Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernicolas y la poca higiene que tienen, esto no es de mucha ayuda. También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
+![Silueta arquero](./css/arquero.png) Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernícolas y la poca higiene que tienen, esto no es de mucha ayuda.
+
+También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
 
 ## Investigando la escena del crimen
 
@@ -52,32 +46,45 @@ XXX
 Otra opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió. Si no hay huellas, es que el asesino está en la cueva (tan-tan-tan todos se miran aviesamente buscando sospechosos) o volaba. Otra opción es que se haya adentrado en lo más profundo de la cueva.
 
 XXX
+
 ## Interrogar a posibles testigos
 
 XXX
-
 Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
 
 |Pregunta|Respuesta tonta|Respuesta con posible pista|
 |---|---|---|
 |¿Tú matar Grogui?|Yo no matar|Yo sí matar *|
-|¿Ver algo no-día?|Yo dormir|XXX|
-|¿Caer bien Grogui?|Sí, no roncar/Sí, oler bien|No, roncar mucho/No, oler mal|
+|¿Ver algo no-día?|Algo entrar cueva / Algo salir cueva / Cudur salir cueva|Yo dormir / No ver nada|
+|¿Caer bien Grogui?|Sí, no roncar / Sí, oler bien|No, roncar mucho / No, oler mal|
 
-_* Si respondes esto ya has solucionadao el caso y es el mejor detective de la prehistoria._
+_&ast; Si responden esto, habrán solucionado el caso y tus cavernícolas son los mejores detectives de la prehistoria._
 
-Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es la mejor forma es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
+Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es que la mejor manera es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
 
 La verdad es que esta técnica no da ninguna ventaja, pero puede ser muy divertido ver a tu mesa intentándolo.
 
 ### Interrogando a cosas para comer (o que te comen)
 
-La verdad es que poca información pueden sacar a las cosas para comer (o que te comen), pero investigar da hambre y es una buena excusa para salir a dar mamporros y quizas obtengan algunas pistas y sobretodo manduca en cantidad.
+La verdad es que poca información pueden sacar a las cosas para comer (o que te comen), pero investigar da hambre y es una buena excusa para salir a dar mamporros y quizas obtengan algunas pistas y sobre todo manduca en cantidad.
 
 |Cosas para comer|Pistas|
 |---|---|
-|XXX|De uno de sus cuernos cuelga trozo del taparrabos de Grogui|
-|XXX|XXX|
+|Garragorda|No querías interrogarlo, solo conseguir el almuerzo.|
+|Bocaza|A pesar de su bocaza solo dice »Croac, croac»|
+|Morrolargo|Tienesn buen olfato, igual desentierra algo interesante si le sigues.|
+|Espalroca|Tortuga XXX|
+|Come-hombres|Siempre es uno de los sospechosos principales, ya que come-hombres|
+|Cuernohueso|Búfalo XXX|
+|Desgarrapiños|No suelen meterse en las cuevas a comer cavernícolas, pero igual |
+|Cosas para comer|Pistas|
+|---|---|
+|Fauzaéreas|Pterodáctilo XXX|
+|Cuernerrante|De uno de sus cuernos cuelga un trozo de taparrabos de Grogui|
+|Grandelento|Jirafa XXX|
+|Ciervozumbador|XXX|
+|Agarrárbol|Mono XXX|
+
 ## Estudiando las pruebas
 
 Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas, pero con una adaptación prehistórica.
@@ -86,13 +93,24 @@ XXX
 
 ## Reuniendo a las testigos y resolviendo el crimen
 
-XXX## Escenas de acción
+XXX
+
+## Escenas de acción
 
 Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
 
-* Como ya hemos dicho hay ciertos crimenes que se hacen para tapar otros crimenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de cuernohuesos para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
+* Como ya hemos dicho hay ciertos crímenes que se hacen para tapar otros crímenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de _cuernohuesos_ para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
 * Un clásico de las historias detectivescas son las persecuciones en las que el criminal ha intentado robar pistas y le pillan o ha intentado matar a tus cavernícolas y le descubren con las manos en la masa. 
-* Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un cuerneerrante.
+* Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un _cuerneerrante_.
+![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
+
+# Se ha pintado un crimen en las paredes
+
+«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
+
+La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
+
+Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un «come-hombres». Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
 
 ## Licencia
 

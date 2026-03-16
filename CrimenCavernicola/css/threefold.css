@@ -33,6 +33,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 12px;
+  line-height: 135%;
   background-color: var(--background-color);
   color: var(--main-color);
 }
@@ -110,15 +111,20 @@ h4 {
 }
 
 h1 {
-  font-size: 42px;
-  margin: -35px 20px 30px 0px;
+  font-size: 38px;
+  margin: -35px 20px 20px 0px;
   color: var(--accent-color);
+  line-height: 100%;
   /*text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);*/
   text-align: center;
 }
 
 h2 {
   margin-bottom: 4px;
+}
+
+p + h2 {
+  margin-top: 20px;
 }
 
 h4 {
@@ -159,8 +165,8 @@ table th {
 
 .columns {
   columns: 3;
-  column-gap: 50px;
-  padding: 22px
+  column-gap: 40px;
+  padding: 20px
 }
 
 .saltocolumna {
