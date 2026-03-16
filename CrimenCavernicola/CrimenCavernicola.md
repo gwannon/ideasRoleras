@@ -105,11 +105,11 @@ A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de pro
 
 ## Reuniendo a las testigos y resolviendo el crimen
 
-Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que reunir a todo los sospechosos y al resto de la cueva que no se quiere ir de la cueva porque son unos cotillas. 
+Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
 
-Tendrán que explicar toda la trama del asesinato usando 3 frases de 3 palabras para cada pregunta (quién, cómo y por qué). Si se alargan más, la gente perderá interés y empezarán a mirar el fuego, comerse los piojos de sus compañeros o salir a mear a la entrada de la caverna.
+Tendrán que explicar toda la trama del asesinato usando **3 frases de 3 palabras para cada pregunta (quién, cómo y por qué)**. Si se alargan más, la gente perderá interés y empezarán a mirar el fuego, comerse los piojos de sus compañeros o salir a mear a la entrada de la caverna.
 
-Para ayudar, mientras uno de tus cavernícolas hablan, otros pueden hacer ruidos, sonidos de animales o sacar y mostrar las pruebas del crimen. Nadaa anima más estas cosas que sacar una cabeza de _como-hombres_ y acercarla a los niños para que griten aterrados.
+Para ayudar, mientras uno de tus cavernícolas habla, otros **pueden hacer ruidos, sonidos de animales o sacar y mostrar las pruebas del crimen**. Nada anima más estas cosas que sacar una cabeza de _como-hombres_ y acercarla a los niños para que griten aterrados.
 
 ## Escenas de acción
 
