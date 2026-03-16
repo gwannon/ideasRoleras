@@ -1,3 +1,5 @@
+![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
+
 # Se ha pintado un crimen en las paredes
 
 «Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
@@ -8,9 +10,9 @@ Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen l
 
 ## La pared del caso
 
-Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo 
+![Silueta ciervo](./css/ciervo.png) Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo 
 
-![Silueta ciervo](./css/ciervo.png) Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
+Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
 
 > El primero que dibuje una obscenidad recibirá una mejora. Esto es así y no es discutible. La historia del arte rupestre está lleno de genitales y esta innovación artística debe ser recompensada.
 
@@ -21,6 +23,7 @@ Cuando tus cavernícolas despiertan, después de una noche extrañamente tranqui
 Tras darle varios golpecitos con un palo en los ojos, pueden comprobar que está muerto. Hay que saber quién o qué lo ha matado, porque está noche podría volver a atacar.
 
 Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así hasta que se queden solos en la cueva. Lo bueno de esta técnica es que se habrán quitado muchos sospechosos, lo malo es que ellos son las próximas víctimas.
+
 ## Investigando el cadáver
 
 Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
@@ -34,10 +37,10 @@ Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con el
 Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Quizas haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas.
 
 Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino, y luego tengan que ir uno por uno todos los trogloditas de la cueva mirando a quien le falta ese trozo de taparrabos.
+
 > Ni que decir que una vez acaba la investigación de cadáver tendrán que decidir cómo repartirse el equipo de Grogui, total no lo va a usar más. Haz una tirada en la tabla de equipo inicial para determinar su contenido.
 
 Cómo comedores de carne cruda y, en casos de necesidad, antropófagos, podrían **probar un trocito y sabrán que la muerte es reciente**, un par de horas.
-
 También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
 
 Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernicolas y la poca higiene que tienen, esto no es de mucha ayuda. También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
@@ -75,12 +78,6 @@ La verdad es que poca información pueden sacar a las cosas para comer (o que te
 |---|---|
 |XXX|De uno de sus cuernos cuelga trozo del taparrabos de Grogui|
 |XXX|XXX|
-## Escenas de acción
-
-Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
-
-XXX
-
 ## Estudiando las pruebas
 
 Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas, pero con una adaptación prehistórica.
@@ -89,9 +86,14 @@ XXX
 
 ## Reuniendo a las testigos y resolviendo el crimen
 
-XXX
+XXX## Escenas de acción
+
+Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
+
+* Como ya hemos dicho hay ciertos crimenes que se hacen para tapar otros crimenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de cuernohuesos para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
+* Un clásico de las historias detectivescas son las persecuciones en las que el criminal ha intentado robar pistas y le pillan o ha intentado matar a tus cavernícolas y le descubren con las manos en la masa. 
+* Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un cuerneerrante.
 
 ## Licencia
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
-![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")

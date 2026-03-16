@@ -32,7 +32,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 13.5px;
+  font-size: 12px;
   background-color: var(--background-color);
   color: var(--main-color);
 }
@@ -115,6 +115,10 @@ h1 {
   color: var(--accent-color);
   /*text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);*/
   text-align: center;
+}
+
+h2 {
+  margin-bottom: 4px;
 }
 
 h4 {
