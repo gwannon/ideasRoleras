@@ -329,3 +329,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl fondo de la imagen principal es de tonytranRPG.\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QEsta aventura fue desarrollada para la CAVE JAM!.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QLa primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del morrolargo que cazasteis ayer.\\E$"}

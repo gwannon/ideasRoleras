@@ -70,9 +70,8 @@ Yen este punto pasamos a interrogar a los testigos y sospechosos e interrogar no
 
 _&ast; Si responden esto, habrán solucionado el caso y tus cavernícolas son los mejores detectives de la prehistoria._
 
-Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es que la mejor manera es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
+Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es que la mejor manera es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra. La verdad es que esta técnica no da ninguna ventaja, pero puede ser muy divertido ver a tu mesa intentándolo.
 
-La verdad es que esta técnica no da ninguna ventaja, pero puede ser muy divertido ver a tu mesa intentándolo.
 ### Interrogando a cosas para comer (o que te comen)
 
 La verdad es que poca información pueden sacar a las cosas para comer (o que te comen), pero investigar da hambre y es una buena excusa para salir a dar mamporros y tal vez obtengan algunas pistas y sobre todo manduca en cantidad.
