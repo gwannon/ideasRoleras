@@ -65,6 +65,15 @@ if($argv[1] == 'CrimenCavernicola') {
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
   $metas .= "InfoValue: rpg, ttrpg, caveman, whodunit\n\n";
+} else if($argv[1] == 'CavemanCrime') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: «Murder, she painted in the walls of the cave» by Gwannon - Ver. 1.0\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: «Murder, she painted in the walls of the cave» es un hack para 100 Million B.C. donde podrás resolver misterios al más puro estilo de las novelas de Agatha Christie. Versión 1.0\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, caveman, whodunit\n\n";
 }
 
 /* Generamos indice del PDF */

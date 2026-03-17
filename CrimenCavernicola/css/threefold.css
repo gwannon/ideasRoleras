@@ -120,6 +120,10 @@ h1 {
   text-align: center;
 }
 
+#CavemanCrime h1 {
+  font-size: 33px;
+} 
+
 h2 {
   margin-bottom: 4px;
 }
