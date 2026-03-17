@@ -56,7 +56,7 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-if($argv[1] == 'CrimenCavernicola') {
+if($argv[1] == 'CrimenCavernicola' || $argv[1] == 'CrimenCavernicolaBW') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: «Se ha pintado un crimen en las paredes» por Gwannon - Ver. 1.0\n\n";
   $metas .= "InfoKey: Subject\n";

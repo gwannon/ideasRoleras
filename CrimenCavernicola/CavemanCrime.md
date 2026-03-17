@@ -128,7 +128,7 @@ Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.
 
 \sc
 
-![Murder, she painted in the walls of the cave](./css/pinturas.jpg "Murder, she painted in the walls oc the cave")
+![Murder, she painted in the walls of the cave](./css/pinturas.png "Murder, she painted in the walls oc the cave")
 
 # Murder, she painted in the walls of the cave
 

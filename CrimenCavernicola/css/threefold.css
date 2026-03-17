@@ -58,6 +58,13 @@ body:after {
   padding: 0;
 }
 
+body#CrimenCavernicolaBW {
+  --main-color: #000000;
+  --secondary-color: #cecece;
+  --accent-color: #000000;
+  --background-color: #ffffff;
+}
+
 a,
 a:visited {
   color: var(--main-color);

@@ -1,4 +1,4 @@
-![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
+![Se ha pintado un crimen en las paredes](./css/pinturas.png "Se ha pintado un crimen en las paredes")
 
 # Se ha pintado un crimen en las paredes
 
@@ -11,14 +11,13 @@ Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen l
 ## La pared del caso
 
 Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo.
-
 Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
 
 > El primero que dibuje una obscenidad recibirá una mejora. Esto es así y no es discutible. La historia del arte rupestre está lleno de genitales y esta innovación artística debe ser recompensada.
 
 ## Un cadáver a los postres
 
-Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del _reptalargo_ que cazasteis ayer.
+Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del _morrolargo_ que cazasteis ayer.
 
 Tras darle varios golpecitos con un palo en los ojos, pueden comprobar que está muerto. Hay que saber quién o qué lo ha matado, porque está noche podría volver a atacar.
 
@@ -26,30 +25,24 @@ Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así 
 
 ## Investigando el cadáver
 
-Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
+Hacerle una autopsia a un cadáver es difícil, si eres un cavernícola. Solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
 
-De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, tal vez un gran traumatismo en el cráneo o unas grandes laceraciones en la espalda. 
-
-Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
+De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, tal vez un gran traumatismo en el cráneo o unas grandes laceraciones en la espalda. Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
 
 También tendrán que hacer el recuento de partes del cuerpo para comprobar que no le falta ninguna. Está claro que si le faltan las piernas, pues no ha muerto de una indigestión. 
 
-Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas.
+![Silueta caballo](./css/caballo.png) Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas.
 Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
 Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Puede que haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas.
 
-Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino, y luego tengan que ir uno por uno todos los trogloditas de la cueva mirando a quien le falta ese trozo de taparrabos.
+Sin olvidar que igual tenía en la mano un mechón de pelo de otro cavernícola o de algo que quiere comerte o tal vez un trozo de taparrabos, seguramente de su asesino. Luego tendrán que ir uno por uno a todos los trogloditas de la cueva, mirando a quién le falta ese trozo de taparrabos.
 
 > Ni que decir que una vez acaba la investigación de cadáver tendrán que decidir cómo repartirse el equipo de Grogui, total no lo va a usar más. Haz una tirada en la tabla de equipo inicial para determinar su contenido.
 
-![Silueta arquero](./css/arquero.png) Como comedores de carne cruda y, en casos de necesidad, antropófagos, podrían **probar un trocito y sabrán que la muerte es reciente**, un par de horas. También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. 
+![Silueta arquero](./css/arquero.png) Como comedores de carne cruda y, en casos de necesidad, antropófagos, podrían **probar un trocito y sabrán que la muerte es reciente**, un par de horas. También, preguntando más tarde en el interrogatorio a la gente de la cueva, podrían saber qué estaba vivo hace unas horas porque se levantó a mear y despertó a un par de cavernícolas. Pero claro, así se han solucionado el almuerzo.
 
-Pero claro, así se han solucionado el almuerzo.
-
-Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernícolas y la poca higiene que tienen, esto no es de mucha ayuda.
-
-También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
+Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, pero la verdad, con las matanzas que hacen todos los días tus cavernícolas y la poca higiene que tienen, esto no es de mucha ayuda. También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
 
 ## Investigando la escena del crimen
 

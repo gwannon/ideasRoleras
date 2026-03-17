@@ -110,7 +110,7 @@ As we've already explained, some crimes are committed to cover up other crimes. 
 Finally, after revealing the killer's identity, they usually run away and are either caught by the detectives or something serious happens to them, such as been smashed by a _tuskwalker_ during their escape.## License
 
 Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. The used font is [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). The background of the main image is property of [tonytranRPG](https://tonytranrpg.com). This hack was developed for the [CAVE JAM!](https://itch.io/jam/cave-jam).
-![Murder, she painted in the walls of the cave](./css/pinturas.jpg "Murder, she painted in the walls oc the cave")
+![Murder, she painted in the walls of the cave](./css/pinturas.png "Murder, she painted in the walls oc the cave")
 
 # Murder, she painted in the walls of the cave
 
