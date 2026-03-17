@@ -2,7 +2,7 @@ Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la informac
 
 > El primero que dibuje una obscenidad recibirá una mejora. Esto es así y no es discutible. La historia del arte rupestre está lleno de genitales y esta innovación artística debe ser recompensada.
 
-## Un cadáver a los postres
+## Murder by Death
 
 Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del _reptalargo_ que cazasteis ayer.
 
@@ -91,7 +91,7 @@ Según Agatha Christie, las razones para cometer un crimen son el amor, el diner
 A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de probarla con lo que tienen. En caso de que no algo falle en tu teoría o tras volver a entrevistar a un sospechoso, tu teoría se vaya al garete, deberás volver a hacer los pasos anteriores para sacar nuevas pistas que te permitan elaborar alguna otra teoría.
 
 > En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
-## Reuniendo a las testigos y resolviendo el crimen
+## The murderer is someone in this cave
 
 Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
 
@@ -99,17 +99,15 @@ Tendrán que explicar toda la trama del asesinato usando **3 frases de 3 palabra
 
 Para ayudar, mientras uno de tus cavernícolas habla, otros **pueden hacer ruidos, sonidos de animales o sacar y mostrar las pruebas del crimen**. Nada anima más estas cosas que sacar una cabeza de _como-hombres_ y acercarla a los niños para que griten aterrados.
 
-## Escenas de acción
+## Action Scenes
 
-Las escenas de acción no son muy comunes en este tipo de relatos, pero alguna persecución, una pequeña pelea o incluso un intento de asesinato contra los investigadores son bastante comunes. Así que cuando se estén acercando al responsable de la muerte de Grogui, deberíamos meter alguna escena de este tipo. Veamos algunas opciones y como solventarlas.
+![Silueta caballo](./css/caballo.png) Action scenes aren't very common in this type of story, but a chase, a brawl, or an attempted of murder against the investigators are quite common. So, when they're closing to the Grogui's murder, we should include a scene like this. Let's look at some options and how to handle them.
 
-Un clásico de las historias detectivescas son las persecuciones en las que el criminal ha intentado robar pistas y le pillan o ha intentado matar a tus cavernícolas y le descubren con las manos en la masa.
+A classic in detective stories is the chase where the criminal has tried to steal clues and gets caught, or has tried to kill your cavemen and is caught red-handed.
 
-Como ya hemos dicho hay ciertos crímenes que se hacen para tapar otros crímenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de _cuernohuesos_ para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
+As we've already explained, some crimes are committed to cover up other crimes. So, you can set deadly traps for your cavemen, like dropping a big stone on them or creating a stampede of _bonehorns_ to crush them. It's posible to attempt to murder them while they are sleeping.
 
-Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un _tuskwalker_.
-
-## License
+Finally, after revealing the killer's identity, they usually run away and are either caught by the detectives or something serious happens to them, such as been smashed by a _tuskwalker_ during their escape.## License
 
 Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. The used font is [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). The background of the main image is property of [tonytranRPG](https://tonytranrpg.com). This hack was developed for the [CAVE JAM!](https://itch.io/jam/cave-jam).
 ![Murder, she painted in the walls of the cave](./css/pinturas.jpg "Murder, she painted in the walls oc the cave")
@@ -120,7 +118,7 @@ Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.
 
 The idea behind the hack is that **there's no predefined case; instead, your cavemen create it through their clues and investigations**. This hack gives you the tools to provide your cavemen with clues that lead them to the mystery of their choosing.
 
-For example, if you compare the wounds on the corpse to those made by the fangs of a man-eater and you find it interesting, then the wounds are from a man-eater. Keep in mind that this doesn't mean much, because the killer could be a man-eater or someone who uses their teeth as a weapon.
+For example, if you compare the wounds on the corpse to those made by the fangs of a _man-eater_ and you find it funny and interesting, then the wounds are from a _man-eater_. Keep in mind that this doesn't mean much, because the killer could be a _man-eater_ or someone who uses their teeth as a weapon.
 
 ---
 

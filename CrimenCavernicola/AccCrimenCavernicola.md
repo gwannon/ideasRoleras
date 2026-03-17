@@ -105,7 +105,8 @@ Según Agatha Christie, las razones para cometer un crimen son el amor, el diner
 A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de probarla con lo que tienen. En caso de que no algo falle en tu teoría o tras volver a entrevistar a un sospechoso, tu teoría se vaya al garete, deberás volver a hacer los pasos anteriores para sacar nuevas pistas que te permitan elaborar alguna otra teoría.
 
 > En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
-## Reuniendo a las testigos y resolviendo el crimen
+
+## ¡El asesino está en esta misma cueva!
 
 Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
 
@@ -125,4 +126,4 @@ Por último, tras decir quién es el asesino, este suele salir corriendo y bien 
 
 ## Licencia
 
-Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
+Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Este hack fue desarrollado para la [CAVE JAM!](https://itch.io/jam/cave-jam).

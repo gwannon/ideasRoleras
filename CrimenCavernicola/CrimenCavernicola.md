@@ -103,7 +103,7 @@ A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de pro
 
 \sc
 
-## Reuniendo a las testigos y resolviendo el crimen
+## ¡El asesino está en esta misma cueva!
 
 Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
 
