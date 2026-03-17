@@ -1,3 +1,15 @@
+# Se ha pintado un crimen en las paredes
+
+«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
+
+La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
+
+Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un «come-hombres». Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
+
+## La pared del caso
+
+Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo.
+
 Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
 
 > El primero que dibuje una obscenidad recibirá una mejora. Esto es así y no es discutible. La historia del arte rupestre está lleno de genitales y esta innovación artística debe ser recompensada.
@@ -93,11 +105,11 @@ A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de pro
 > En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
 ## Reuniendo a las testigos y resolviendo el crimen
 
-Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que reunir a todo los sospechosos y al resto de la cueva que no se quiere ir de la cueva porque son unos cotillas. 
+Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
 
-Tendrán que explicar toda la trama del asesinato usando 3 frases de 3 palabras para cada pregunta (quién, cómo y por qué). Si se alargan más, la gente perderá interés y empezarán a mirar el fuego, comerse los piojos de sus compañeros o salir a mear a la entrada de la caverna.
+Tendrán que explicar toda la trama del asesinato usando **3 frases de 3 palabras para cada pregunta (quién, cómo y por qué)**. Si se alargan más, la gente perderá interés y empezarán a mirar el fuego, comerse los piojos de sus compañeros o salir a mear a la entrada de la caverna.
 
-Para ayudar, mientras uno de tus cavernícolas hablan, otros pueden hacer ruidos, sonidos de animales o sacar y mostrar las pruebas del crimen. Nadaa anima más estas cosas que sacar una cabeza de _como-hombres_ y acercarla a los niños para que griten aterrados.
+Para ayudar, mientras uno de tus cavernícolas habla, otros **pueden hacer ruidos, sonidos de animales o sacar y mostrar las pruebas del crimen**. Nada anima más estas cosas que sacar una cabeza de _como-hombres_ y acercarla a los niños para que griten aterrados.
 
 ## Escenas de acción
 
@@ -113,17 +125,3 @@ Por último, tras decir quién es el asesino, este suele salir corriendo y bien 
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
 ![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
-
-# Se ha pintado un crimen en las paredes
-
-«Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
-
-La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
-
-Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un «come-hombres». Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
-
----
-
-## La pared del caso
-
-Digamos que el cerebro de un cavernícola no está muy desarrollado así que para mantener la información guardada entre sesión y sesión deberán dibujarla toda en las paredes de la cueva. Lo que no esté en el dibujo no lo recordarán de una sesión a otra y tendrán que investigarlo de nuevo.
