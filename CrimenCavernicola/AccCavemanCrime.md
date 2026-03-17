@@ -21,9 +21,6 @@ Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque
 También tendrán que hacer el recuento de partes del cuerpo para comprobar que no le falta ninguna. Está claro que si le faltan las piernas, pues no ha muerto de una indigestión. 
 
 Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas.
-
-\sc
-
 Pueden usar porras, cuchillos de sílex y dentaduras y garras de animales que se hayan comido, etc.
 
 Lo siguiente sería **revisar sus cosas**. Tal vez haya algo entre sus cosas que pueda darle una pista. Puede que haya carne seca cuyo olor puedo atraer a cosas que te quieren comer. Igual había algún objeto que pertenecía a otros cavernícolas.
@@ -45,9 +42,6 @@ También hay que decir que no es lo mismo sangre fresca que sangre seca de vario
 La primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas dactilares. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió.
 
 Si no hay huellas, es que el asesino está en la cueva (tan-tan-chan todos se miran aviesamente buscando sospechosos) o volaba. Otra opción es que se haya adentrado en lo más profundo de la cueva y espere a tus cavernícolas entre las sombras.
-
-\sc
-
 ![Silueta ciervo](./css/ciervo.png) Aparte de las huellas quizás puedan buscar en los enseres de otros compañeros de cueva a ver si encuentras alguna pista, el arma homicida u otras cosas curiosas. Veamos algunos ejemplos de rarezas que pueden encontrar:
 
 * Un trozo de cueros con dibujos obscenos y cosas de formas fálicas.
@@ -72,9 +66,6 @@ _&ast; Si responden esto, habrán solucionado el caso y tus cavernícolas son lo
 Tus cavernícolas pueden intentar hacer un «cavernícola bueno, cavernícola malo». La verdad es que la mejor manera es que el cavernícola bueno ofrezca comida y agua y el malo cachiporra.
 
 La verdad es que esta técnica no da ninguna ventaja, pero puede ser muy divertido ver a tu mesa intentándolo.
-
-\sp
-
 ### Interrogando a cosas para comer (o que te comen)
 
 La verdad es que poca información pueden sacar a las cosas para comer (o que te comen), pero investigar da hambre y es una buena excusa para salir a dar mamporros y tal vez obtengan algunas pistas y sobre todo manduca en cantidad.
@@ -100,9 +91,6 @@ Según Agatha Christie, las razones para cometer un crimen son el amor, el diner
 A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de probarla con lo que tienen. En caso de que no algo falle en tu teoría o tras volver a entrevistar a un sospechoso, tu teoría se vaya al garete, deberás volver a hacer los pasos anteriores para sacar nuevas pistas que te permitan elaborar alguna otra teoría.
 
 > En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
-
-\sc
-
 ## Reuniendo a las testigos y resolviendo el crimen
 
 Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
@@ -124,9 +112,6 @@ Por último, tras decir quién es el asesino, este suele salir corriendo y bien 
 ## License
 
 Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. The used font is [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). The background of the main image is property of [tonytranRPG](https://tonytranrpg.com). This hack was developed for the [CAVE JAM!](https://itch.io/jam/cave-jam).
-
-\sc
-
 ![Murder, she painted in the walls of the cave](./css/pinturas.jpg "Murder, she painted in the walls oc the cave")
 
 # Murder, she painted in the walls of the cave
