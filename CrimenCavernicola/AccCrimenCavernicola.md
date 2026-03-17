@@ -1,3 +1,5 @@
+![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")
+
 # Se ha pintado un crimen en las paredes
 
 «Se ha pintado un crimen en las paredes» es un hack para **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** creado por **[Golden Achiever](https://golden-achiever.itch.io/)** y traducido al **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** por **[Roque Romero](https://roque-romero.itch.io/)** que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.
@@ -51,7 +53,7 @@ También hay que decir que no es lo mismo sangre fresca que sangre seca de vario
 
 ## Investigando la escena del crimen
 
-La primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió.
+La primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas dactilares. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió.
 
 Si no hay huellas, es que el asesino está en la cueva (tan-tan-chan todos se miran aviesamente buscando sospechosos) o volaba. Otra opción es que se haya adentrado en lo más profundo de la cueva y espere a tus cavernícolas entre las sombras.
 ![Silueta ciervo](./css/ciervo.png) Aparte de las huellas quizás puedan buscar en los enseres de otros compañeros de cueva a ver si encuentras alguna pista, el arma homicida u otras cosas curiosas. Veamos algunos ejemplos de rarezas que pueden encontrar:
@@ -124,4 +126,3 @@ Por último, tras decir quién es el asesino, este suele salir corriendo y bien 
 ## Licencia
 
 Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. La fuente usada es [Jello Stone](https://www.fontspace.com/jello-stone-font-f135313). El fondo de la imagen principal es de [tonytranRPG](https://tonytranrpg.com). Esta aventura fue desarrollada para la [CAVE JAM!](https://itch.io/jam/cave-jam).
-![Se ha pintado un crimen en las paredes](./css/pinturas.jpg "Se ha pintado un crimen en las paredes")

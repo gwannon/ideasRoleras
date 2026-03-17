@@ -313,3 +313,19 @@
 {"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\Q¡Dadómones! es un minijuego de rol donde llevas a una entrenadora de dadómones, unos simpáticos animales de tu mundo de formas y habilidades graciosas que entrenas para hacer combates contra los dadómones de otras entrenadoras y ganar la «Liga Dadomon».\\E$"}
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QEsta aventura fuera desarrollada para la CAVE JAM!\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QOtra opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«Se ha pintado un crimen en las paredes» es un hack para 100 Million B.C. creado por Golden Achiever y traducido al castellano por Roque Romero que te permite convertir a tus cavernícolas en detectives que deberán resolver un crimen y detener al asesino, mientras esquivan todos los peligros que quieren comérseles.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QPregunta Respuesta Respuesta con pista\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlgo entrar cueva / Algo salir cueva / Udu salir cueva / Udu entrar cueva Yo dormir / No ver nada\n¿Caer bien Grogui?\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QSí, no roncar / Sí, oler bien No, roncar mucho / No, oler mal\n¿Tener Grogui enemigos?\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBocaza A pesar de su bocaza, solo dice «Croac, croac»\nMorrolargo Tienen buen olfato, igual desentierran algo interesante, si le sigues.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QGarragorda No querías interrogarlo, solo conseguir un almuerzo rápido.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEspalroca Quizás si te sube a su caparazón ves algo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCuernohueso Solo son buenos filetes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDesgarrapiños No suelen meterse en las cuevas a comer cavernícolas, pero igual se ha comida al asesino y no tienes que buscarlo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QFauzaéreas Quizás si te enganchas ves algo desde arriba.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCuernerrante De uno de sus cuernos cuelga un trozo de taparrabos de Grogui\nGrandelento Igual puedes subirte encima para llegar a sitio a los que no llegas de normal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAgarrárbol Son tan listos como tú y puedes hablar con ellos con mímica.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa fuente usada es Jello Stone.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl fondo de la imagen principal es de tonytranRPG.\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QEsta aventura fue desarrollada para la CAVE JAM!.\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QLa primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales.\\E$"}

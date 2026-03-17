@@ -42,7 +42,7 @@ También hay que decir que no es lo mismo sangre fresca que sangre seca de vario
 
 ## Investigando la escena del crimen
 
-La primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió.
+La primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas dactilares. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió.
 
 Si no hay huellas, es que el asesino está en la cueva (tan-tan-chan todos se miran aviesamente buscando sospechosos) o volaba. Otra opción es que se haya adentrado en lo más profundo de la cueva y espere a tus cavernícolas entre las sombras.
 
