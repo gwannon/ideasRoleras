@@ -6,7 +6,7 @@
 
 La idea del hack es que **no hay un caso definido, sino que lo van creando tus cavernícolas con sus pruebas y sus investigaciones**. Este hack te da las herramientas para que vayas dándoles a tus cavernícolas pistas que les lleven al misterio que ellos quieran.
 
-Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un «come-hombres». Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
+Por ejemplo, si se ponen a comparar las heridas del cadáver con las que hacen los colmillos de un _come-hombres_ y te parece interesante, pues las heridas son de un _come-hombres_. Piensa que esto no significa mucho, porque el asesino puede ser un _come-hombres_ o alguien que usa sus dientes como arma.
 
 ## La pared del caso
 
@@ -114,7 +114,7 @@ Un clásico de las historias detectivescas son las persecuciones en las que el c
 
 Como ya hemos dicho hay ciertos crímenes que se hacen para tapar otros crímenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de _cuernohuesos_ para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
 
-Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que lo en su fuga atropelle un _cuerneerrante_.
+Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que en su fuga atropelle un _cuerneerrante_.
 
 ## Licencia
 
