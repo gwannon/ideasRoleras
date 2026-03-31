@@ -1,16 +1,16 @@
-Cómo DJ dales una hoja en blanco y un lápiz donde deberán dibujar la información que vayan descubriendo. Si quieres algo más auténtico imprime una foto de unas pinturas rupestres y dales pinturas marrones y rojas para que hagan sus monigotes.
+As a DJ, give them a blank sheet of paper and a pencil where they should draw the information they discover. If you want something more authentic, print a photo of cave paintings and give them brown and red paints to make their stick figures.
 
-> El primero que dibuje una obscenidad recibirá una mejora. Esto es así y no es discutible. La historia del arte rupestre está lleno de genitales y esta innovación artística debe ser recompensada.
+> The first one to draw an obscenity will receive an upgrade. This is a fact and cannot be discussed. The history of cave art is full of genitalia, and this artistic innovation must be rewarded.
 
 ## Murder by Death
 
-Cuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del _reptalargo_ que cazasteis ayer.
+When your cavemen wake up after an unusually quiet night, Grogui doesn't wake up to drink water and eat the leeftovers of the long reptile you hunted yesterday.
 
-Tras darle varios golpecitos con un palo en los ojos, pueden comprobar que está muerto. Hay que saber quién o qué lo ha matado, porque está noche podría volver a atacar.
+After tapping him a few times in the eyes with a stick, you can confirm Grogui's dead. You need to find out who or what killed your cave partner, because they could attack again tonight.
 
-Si les da igual, a la noche siguiente morirá Brubo y la siguiente Kruka y así hasta que se queden solos en la cueva. Lo bueno de esta técnica es que se habrán quitado muchos sospechosos, lo malo es que ellos son las próximas víctimas.
+If you don't care, Brubo will die the following night, and Kruka the night after, and so on until you're left alone in the cave. The good thing about this technique is that you'll have eliminated many suspects; the bad thing is that you'll be the next victims.
 
-## Investigando el cadáver
+## Investigating the corpse
 
 Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
 
@@ -40,7 +40,7 @@ Seguramente Grogui ha sangrado y podrían **buscar personas llenas de sangre**, 
 
 También hay que decir que no es lo mismo sangre fresca que sangre seca de varios días.
 
-## Investigando la escena del crimen
+## Investigating the crime scene
 
 La primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas dactilares. Si hay huellas recientes que salgan de la caverna, es que el asesino entro y salió.
 
@@ -54,13 +54,13 @@ Si no hay huellas, es que el asesino está en la cueva (tan-tan-chan todos se mi
 * Un saquito de piel con recortes de uñas de toda la cueva.
 * Una roca hueca llena de bayas fermentadas en saliva.
 
-## Interrogar a posibles testigos
+## Interrogating potential witnesses
 
 Yen este punto pasamos a interrogar a los testigos y sospechosos e interrogar no es golpear con la cachiporra hasta que confiese, es hacer preguntas de 3 palabras y recibir respuestas de 3 palabras mezclándolo todo con amenazas de 3 palabras y súplicas de 3 palabras. Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
 
-|Pregunta|Respuesta|Respuesta con pista|
+|Question|Anwser|Anwser with clue|
 |---|---|---|
-|¿Tú matar Grogui?|Yo no matar|Yo sí matar *|
+|Kill you Grogui?|Yo no matar|Yo sí matar *|
 |¿Dónde estar no-día?|Dormir / Cagar / Comer / Mear|No recordar / No saber / No decir|
 |¿Ver algo no-día?|Algo entrar cueva / Algo salir cueva / Udu salir cueva / Udu entrar cueva|Yo dormir / No ver nada|
 |¿Caer bien Grogui?|Sí, no roncar / Sí, oler bien|No, roncar mucho / No, oler mal|
@@ -75,25 +75,25 @@ La verdad es que esta técnica no da ninguna ventaja, pero puede ser muy diverti
 
 \sp
 
-### Interrogando a cosas para comer (o que te comen)
+### Interrogating to things to eat (or get eaten by)
 
-La verdad es que poca información pueden sacar a las cosas para comer (o que te comen), pero investigar da hambre y es una buena excusa para salir a dar mamporros y tal vez obtengan algunas pistas y sobre todo manduca en cantidad.
+The truth is that you can't get much information out of things to eat (or get eaten by), but investigating makes you hungry and is a good excuse to go out and get into a fight and maybe you'll get some clues and above all, a good meal.
 
-|Cosas para comer|Clues|
+|Things to eat|Clues|
 |---|---|
-|Fatclaw|No querías interrogarlo, solo conseguir un almuerzo rápido.|
+|Fatclaw|You didn't want to interrogate him, you just wanted to get a quick lunch.|
 |Bigmouth|Despite his big mouth, it only says "Croak, croak"|
-|Bigsnout|Tienen buen olfato, igual desentierran algo interesante, si le sigues.|
-|Rockback|Quizás si te sube a su caparazón ves algo.|
-|Man-Eater|Como come-hombres es siempre sospechoso.|
-|Bonehorn|Solo son buenos filetes.|
-|Gorejaw|No suelen meterse en las cuevas a comer cavernícolas, pero igual se ha comida al asesino y no tienes que buscarlo.|
-|Skymaw|Quizás si te enganchas ves algo desde arriba.|
-|Tuskwalker|De uno de sus cuernos cuelga un trozo de taparrabos de Grogui|
-|Bigslow|Igual puedes subirte encima para llegar a sitio a los que no llegas de normal.|
-|Tree-grabber|Son tan listos como tú y puedes hablar con ellos con mímica.|
+|Bigsnout|They have a good nose for things; they might unearth something interesting if you follow them.|
+|Rockback|Perhaps if you climb onto its shell you'll see something.|
+|Man-Eater|As a man-eater, it is always suspicious.|
+|Bonehorn|They're just good steaks.|
+|Gorejaw|They don't usually go into caves to eat cavemen, but it might have eaten the killer and you don't have to look for it.|
+|Skymaw|Maybe if you get hooked you'll see something from above.|
+|Tuskwalker|From one of its horns hangs a piece of Grogui's loincloth.|
+|Bigslow|You can also climb on top to reach places you can't normally reach.|
+|Tree-grabber|They are as smart as you and you can talk to them using mime.|
 
-## Estudiando las pruebas
+## Studying the evidences
 
 Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas y solo hay que mirar la pistas y darles la forma adecuada para que se ajusten a uno de estos supuestos.
 
