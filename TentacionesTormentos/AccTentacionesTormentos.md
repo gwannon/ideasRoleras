@@ -38,9 +38,6 @@ Si estás usando TENTACIONES (seducción, carisma, regalos, halagos, chantajes) 
 
 1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
-
-\sp
-
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. A poder ser debería estar **asociado a tu objetivo vital** y ayudarte a conseguirlo. Quizás quieras recuperar tus alas y volver al cielo y el alma pura que estás seduciendo no lo sea tanto y hagas puntos para volver al cielo al descubrir a un peligroso asesino.
 5. Si sacas **exactamente tu número**, obtienes TENTACIÓN TORMENTO. Te darás cuenta de algo. Hazle una pregunta al DJ, y él te dará una respuesta

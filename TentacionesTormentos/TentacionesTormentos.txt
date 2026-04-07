@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Tentaciones y tormentos
+
+InfoKey: Subject
+InfoValue: «Tentaciones y tormentos» es un hack para 1 DJ y 1 PJ para el juego de rol «Lasers & Feelings» donde interpretarás a un demonio que deberá tentar y atormentar a los mortales para conseguir su alma. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, lasers&feelings, lasérs y sentimientos

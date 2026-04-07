@@ -1,0 +1,239 @@
+:root {
+  --padding: 55px; /*Ancho de los bordes de la página*/
+  --color-red: #ddbc62;
+  --color-white: #000;
+  --color-black: #fff;
+}
+
+body {
+  background: transparent url(./images/bg.jpg) repeat-y top center;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  font-family: "Baskervville", serif;
+  color: var(--color-white);
+  font-size: 14px;
+}
+
+/*body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: transparent url(./images/border1.png) top left repeat-y
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: transparent url(./images/border2.png) top left repeat-y;
+}*/
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  padding: 5px 0px 8px;
+  color: black;
+  margin: 0px;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Smythe", serif;
+      font-size: 1.2em;
+  line-height: 120%;
+  text-align: center;
+}
+
+/* Titulares */
+
+h1 {
+  background: transparent url(./images/portada.png) center bottom no-repeat;
+  background-size: 100% auto;
+  font-family: "Smythe", serif;
+  color: var(--color-red);
+  text-align: center;
+  height: 125px;
+  font-size: 41px;
+  margin-bottom: 0px;
+  margin-top: -35px !important;
+  padding-top: 180px !important;
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, .3), 1px 0px 0px rgba(255, 255, 255, .3), 0px -1px 0px rgba(0, 0, 0, .7), -1px 0px 0px rgba(0, 0, 0, .7);
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+  color: var(--color-red);
+  font-family: "Smythe", serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+h2,
+h3 {
+  font-family: "Smythe", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 10px;
+  text-shadow: 0px 1px 1px var(--color-white), 1px 0px 1px var(--color-white), 0px 0px 1px var(--color-white), 1px 1px 1px var(--color-white);
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h2 + p, 
+h3 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ol {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-white);
+}
+
+ol {
+  padding-left: 19px;
+}
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: none;
+  padding: 0px;
+  position: relative;
+
+}
+
+table thead tr th {
+  font-family: "Smythe", serif;
+  text-align: left;
+  font-size: 18px;
+}
+
+table tbody tr > *:first-child {
+  font-family: "Smythe", serif;
+}
+
+table strong {
+  color: var(--color-red);
+  font-family: "Limelight", sans-serif;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+
+  .columns {
+    columns: 1;
+  }
+  
+  body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Smythe", serif;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+
+  .nopdf {
+    display: none !important;
+  }
+}
+
+img {
+  max-width: 100%;
+}
