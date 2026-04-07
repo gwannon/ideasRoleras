@@ -330,3 +330,17 @@
 {"rule":"ES_QUESTION_MARK","sentence":"^\\QEsta aventura fue desarrollada para la CAVE JAM!.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_RULE","sentence":"^\\QLa primera opción es buscar huellas, pero huellas huellas, nada de modernidades de huellas digitales.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCuando tus cavernícolas despiertan, después de una noche extrañamente tranquila, Grogui no se levanta a beber agua y terminarse los restos del morrolargo que cazasteis ayer.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«Tentaciones y tormentos» es un hack para 1 DJ y 1 PJ para el juego de rol «Lasers & Feelings» creado por John Harper.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPiensa en nombres clásicos diabólicos y añádele, quítale o cambiales letras, Azazel puede ser Puzazel, Uzuzel, Apazel, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAl final, tu título sería algo como «Tazipael, amo de las mentiras y eviscerador de haraganes».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCosas como «defenestradora de adúlteros» o «despellejadore de antivacunas».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl título tiene una primera parte que transmite por lo que eres conocido y lo que se te da bien, pueden ser como la «duquesa del dolor», le «señore de la seducción oscura» o el «prelado de las tentaciones impías».\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QEl título tiene una primera parte que transmite por lo que eres conocido y lo que se te da bien, pueden ser como la «duquesa del dolor», le «señore de la seducción oscura» o el «prelado de las tentaciones impías».\\E$"}
+{"rule":"FORM","sentence":"^\\QDe forma que un 2 y 3 pasa a un 5 y un 4 y 5 pasan a ser un 2.\\E$"}
+{"rule":"FORM","sentence":"^\\QTodo esto representa tu capacidad para en llamar a tu lado tentador o aterrador, aunque no sea tu forma normal de actuar.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPiensa en esas escenas en que une tentadore diable está seduciendo a su víctima y ante su negativa se convierte en un terrible ser infernal que hiela la sangre nada más verlo.\\E$"}
+{"rule":"REALIZE","sentence":"^\\QSi consigues entregar dos almas a Lucifer y con ellas las dos bendiciones que te dió, este verá que estás haciendo excepcionalmente bien tu tarea de captación de almas y te otorgará un nuevo título más acorde con los trabajos realizados.\\E$"}
+{"rule":"FORM","sentence":"^\\Q¿Cuál es la mejor forma de _____? ¿Qué está sucediendo realmente?.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\Q1d6 Lucifer te exige el alma de une …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Clerigue/Persona de fe\n2 Multimilonarie/Polítique\n3 Cientifique/Estudiose\n4 Famose/Actore\n5 Artiste/Escritore/Músique\n6 Asesine/Mafiose/Criminal\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QParte de los textos se han extraido de la traducción al castellano de hecha por Hugo González y Luís Fernández.\\E$"}

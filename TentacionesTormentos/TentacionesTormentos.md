@@ -28,7 +28,7 @@ Puedes gastar la «bendición» después de tirar los dados.
 
 Todo esto representa tu capacidad para en llamar a tu lado tentador o aterrador, aunque no sea tu forma normal de actuar. Piensa en esas escenas en que une tentadore diable está seduciendo a su víctima y ante su negativa se convierte en un terrible ser infernal que hiela la sangre nada más verlo.
 
-Si consigues **entregar dos almas a Lucifer y con ellas las dos bendiciones que te dió**, este verá que estás haciendo excepcionalmente bien tu tarea de captación de almas y **te otorgará un nuevo título** más acorde con los trabajos realizados. 
+Si consigues **entregar dos almas a Lucifer y con ellas las dos bendiciones que te dio**, este verá que estás haciendo excepcionalmente bien tu tarea de captación de almas y **te otorgará un nuevo título** más acorde con los trabajos realizados. 
 
 ## Tiradas de dados
 
@@ -113,4 +113,4 @@ Haz preguntas y trabaja con las respuestas. “¿Has tentado/atormentado alguna 
 
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/TentacionesTormentos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraido de la traducción al castellano de hecha por Hugo González y Luís Fernández. La imagen de Lucifer es una imagen de dominio público de [Gustave_Dore](https://es.wiktionary.org/wiki/Archivo:Gustave_Dore_Inferno34.jpg).
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/TentacionesTormentos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraido de la traducción al castellano de hecha por Hugo González y Luís Fernández. La imagen de Lucifer es una imagen de dominio público de [Gustave Dore](https://es.wiktionary.org/wiki/Archivo:Gustave_Dore_Inferno34.jpg).
