@@ -41,7 +41,7 @@ Si estás usando TENTACIONES (seducción, carisma, regalos, halagos, chantajes) 
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. A poder ser debería estar **asociado a tu objetivo vital** y ayudarte a conseguirlo. Quizás quieras recuperar tus alas y volver al cielo y el alma pura que estás seduciendo no lo sea tanto y hagas puntos para volver al cielo al descubrir a un peligroso asesino.
 5. Si sacas **exactamente tu número**, obtienes TENTACIÓN TORMENTO. Te darás cuenta de algo. Hazle una pregunta al DJ, y él te dará una respuesta
-sincera. ***REVISAR XXX*** Algunas preguntas interesantes: ¿Cómo se** sienten en realidad? ¿Quién está detrás de todo esto? ¿Cómo podría conseguir que ellos ______? ¿A qué debería estar atento? ¿Cuál es la mejor forma de _____? ¿Qué está sucediendo realmente? Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar.
+sincera. ***ADAPTAR TEXTO ORIGINAL XXX*** Algunas preguntas interesantes: ¿Cómo se** sienten en realidad? ¿Quién está detrás de todo esto? ¿Cómo podría conseguir que ellos ______? ¿A qué debería estar atento? ¿Cuál es la mejor forma de _____? ¿Qué está sucediendo realmente?. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. No deberías permitirles pregunta muy directas ¿Qué desea/necesita? ¿A qué teme? ¿Qué secreto oculta? 
 
 ### Apoyos
 
@@ -84,7 +84,7 @@ Tira o elige de las siguientes tablas.
 |2|La ciencia|
 |3|XXX|
 |4|La filantropía|
-|5|XXX|
+|5|La religión|
 |6|La magia|
 
 |1d6|Vive en …|
@@ -98,15 +98,15 @@ Tira o elige de las siguientes tablas.
 
 ## DJ: Cómo dirigir una partida
 
-***REVISAR XXX*** El objetivo es averiguar cómo derrotar la amenaza. Deja claro cuál es la amenaza mostrando pruebas de sus últimas fechorías.
+El objetivo es conseguir el alma que te ha pedido el propio Lucifer. Déjale investigar como es su víctima y que descubran sus deseos, sus vicios, sus debilidades y sus fortalezas.
 
-Antes de que la amenaza afecte a los personajes dales una pista de lo que va a suceder, y pregúntales cómo reaccionan. “Zorgon está derivando energía a los mega-cañones de su nave. ¿Qué hacéis” “Daneela te sirve un vaso de whisky arcturano y desliza su brazo alrededor de tu cintura. ¿Qué haces?”
+***ADAPTAR TEXTO ORIGINAL XXX*** Antes de que la amenaza afecte a los personajes dales una pista de lo que va a suceder, y pregúntales cómo reaccionan. “Zorgon está derivando energía a los mega-cañones de su nave. ¿Qué hacéis” “Daneela te sirve un vaso de whisky arcturano y desliza su brazo alrededor de tu cintura. ¿Qué haces?”
 
 Haz que tiren cuando no esté claro qué puede pasar. No planifiques de antemano, deja que las cosas sigan su camino. 
 
 Aprovecha los fallos para que la historia siga desarrollándose. La situación siempre cambia después de una tirada, ya sea para bien o para mal.
 
-Haz preguntas y trabaja con las respuestas. “¿Os habéis encontrado alguna vez con un seguidor de la Secta del vacío? ¿Qué ocurrió?”
+Haz preguntas y trabaja con las respuestas. “¿Has tentado/atormentado alguna vez a un obispo? ¿Qué ocurrió?”
 
 ## Licencia
 
