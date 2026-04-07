@@ -111,7 +111,7 @@ Un clásico de las historias detectivescas son las persecuciones en las que el c
 
 Como ya hemos dicho hay ciertos crímenes que se hacen para tapar otros crímenes. Así que puedes poner trampas mortales a tus cavernícolas como dejar caer un pedrusco encima o montar una estampida de _cuernohuesos_ para que los aplasten. También es posible los intentos de asesinatos mientras duermen.
 
-Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que en su fuga le atropelle un _cuerneerrante_.
+Por último, tras decir quién es el asesino, este suele salir corriendo y bien es atrapado por los detectives o bien le pasa algo grave como que en su fuga le atropelle un _cuernerrante_.
 
 ## Licencia
 
