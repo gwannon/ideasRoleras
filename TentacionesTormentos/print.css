@@ -77,7 +77,7 @@ blockquote p {
   padding: 0px;
   margin: 0px;
   font-family: "Smythe", serif;
-      font-size: 1.2em;
+  font-size: 1.2em;
   line-height: 120%;
   text-align: center;
 }
@@ -85,17 +85,13 @@ blockquote p {
 /* Titulares */
 
 h1 {
-  background: transparent url(./images/portada.png) center bottom no-repeat;
-  background-size: 100% auto;
   font-family: "Smythe", serif;
   color: var(--color-red);
   text-align: center;
-  height: 125px;
-  font-size: 41px;
-  margin-bottom: 0px;
-  margin-top: -35px !important;
-  padding-top: 180px !important;
-  text-shadow: 0px 1px 0px rgba(255, 255, 255, .3), 1px 0px 0px rgba(255, 255, 255, .3), 0px -1px 0px rgba(0, 0, 0, .7), -1px 0px 0px rgba(0, 0, 0, .7);
+  font-size: 61px;
+  margin: 0 0 30px 0;
+  padding: 0;
+  text-shadow: 0px 1px 0px var(--color-white), 1px 0px 0px var(--color-white), 0px -1px 0px var(--color-white), -1px 0px 0px var(--color-white);
 }
 
 h1 > a {
@@ -103,10 +99,11 @@ h1 > a {
   text-align: center;
   font-size: 16px;
   width: 100%;
-  color: var(--color-red);
-  font-family: "Smythe", serif;
+  font-family: "Baskervville", serif;
+  color: var(--color-white);
   font-weight: 400;
   text-decoration: none;
+  text-shadow: none;
 }
 
 h2,
