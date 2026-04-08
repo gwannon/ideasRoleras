@@ -5,7 +5,7 @@
 
 Interpretarás a une demonie que deberá tentar y atormentar a les mortales para conseguir su alma y con ello el favor de Lucifer y así ascender en la jerarquía del Infierno.
 
-Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras.
+Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denominados d6).
 
 ## PJ: Crear tu personaje
 
@@ -17,7 +17,11 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras.
 
 ## PJ: Crear tu círculo del infierno
 
-XXX
+Como demonie de cierto nivel, Lucifer te ha concedido tu propio círculo del infierno. Para empezar debes definir cómo es tu círculo describiéndolo, por ejemplo, como una cueva con un lago de lava en el centro, una mazmorra medieval, una paradisiaca playa de arena fina o una discoteca de moda llena de gente. Luego debes decidir en función de la descripción si es ATORMENTADOR o TENTADOR. 
+
+Solo puedes meter a una persona en tu círculo infernal si ella accede libremente a hacerlo sin ningún tipo de chantaje o coerción por tu parte. Eso no quiero decir que no puedas engañarle para que acceda a entrar.
+
+Si es ATORMENTADOR recibes +1d6 cuando intentas TORMENTOS y si es TENTADOR recibes el +1d6 a TENTACIONES. Aun así nunca puedes tirar más de 3d6.
 
 ## PJ: Ascender en la jerarquía infernal
 
@@ -31,10 +35,9 @@ Si consigues **entregar dos almas a Lucifer y con ellas las dos bendiciones que 
 
 ## Tiradas de dados
 
-Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d si estás preparado y +1d si eres un experto (el DJ te dirá cuantos dados puedes tirar, basándose en tu título demoniaco). Tira los dados y compara cada resultado con el número que elegiste.
+Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado y +1d6 si eres un experto (el DJ te dirá cuantos dados puedes tirar, basándose en tu título demoniaco). Tira los dados y compara cada resultado con el número que elegiste.
 
 Si estás usando TENTACIONES (seducción, carisma, regalos, halagos, chantajes) necesitas sacar un número inferior. Si estás usando TORMENTOS (amenazas, intimidación, tortura, coerción, acoso) necesitas sacar un número superior.
-
 1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
@@ -44,9 +47,9 @@ sincera. **No deberías permitirles preguntas muy directas** como: ¿Qué desea/
 
 ### Apoyos
 
-Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d.
+Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6.
 
-## DJ: Crear una aventura
+## DJ: Crear una alma pecadora
 
 Tira o elige de las siguientes tablas.
 
@@ -94,11 +97,13 @@ Tira o elige de las siguientes tablas.
 |5|En un hospital/sanotorio|
 |6|La calle/cárcel/perdido en el bosque|
 
+Puede ser interesante y catártico basar el alma pecadora en alguien real a que quieras fastidiar. 
+
 ## DJ: Cómo dirigir una partida
 
 El objetivo es conseguir el alma que te ha pedido el propio Lucifer. Déjale investigar como es su víctima y que descubran sus deseos, sus vicios, sus debilidades y sus fortalezas.
 
-***ADAPTAR TEXTO ORIGINAL XXX*** Antes de que la amenaza afecte a los personajes dales una pista de lo que va a suceder, y pregúntales cómo reaccionan. “Zorgon está derivando energía a los mega-cañones de su nave. ¿Qué hacéis” “Daneela te sirve un vaso de whisky arcturano y desliza su brazo alrededor de tu cintura. ¿Qué haces?”
+Las aventuras deberían tener normalmente 2 partes, una primera parte donde investiga a la víctima tanto desde cerca como desde lejos y una segunda parte donde le tienta/atormenta para que venda su alma. Sugiere posibles informaciones que sirvan a tu diable como «Parece que mira con interés un cuadro de la exposición» o «Sin que nadie lo vea ha escondido algo en su bolsillo» y pregunta qué quiere hacer.
 
 Haz que tiren cuando no esté claro qué puede pasar. No planifiques de antemano, deja que las cosas sigan su camino. 
 
@@ -106,6 +111,8 @@ Aprovecha los fallos para que la historia siga desarrollándose. La situación s
 
 Haz preguntas y trabaja con las respuestas. “¿Has tentado/atormentado alguna vez a un obispo? ¿Qué ocurrió?”
 
+Si lo desea, deja que tu jugadore elija el tormento eterno que sufrirá su víctima.
+
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/TentacionesTormentos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraido de la traducción al castellano de hecha por Hugo González y Luís Fernández.
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/TentacionesTormentos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández.

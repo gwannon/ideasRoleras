@@ -1,5 +1,5 @@
 :root {
-  --padding: 55px; /*Ancho de los bordes de la página*/
+  --padding: 50px; /*Ancho de los bordes de la página*/
   --color-red: #ddbc62;
   --color-white: #000;
   --color-black: #fff;
@@ -119,11 +119,11 @@ h3 {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 1.8em;
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1.4em;
 }
 
 h2 + p, 
