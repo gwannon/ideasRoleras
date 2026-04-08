@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Temptations & torments
+
+InfoKey: Subject
+InfoValue: «Temptations & torments» es un hack para 1 DJ y 1 PJ para el juego de rol «Lasers & Feelings» donde interpretarás a une demonie que deberá tentar y atormentar a les mortales para conseguir su alma. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, lasers&feelings, lasérs & feelings, lucifer, hell
