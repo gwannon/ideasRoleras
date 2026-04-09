@@ -1,14 +1,14 @@
 \sinc
 
-# Temptations & torments [by Gwannon](https://gwannon.com/)
+# Temptations & Torments [by Gwannon](https://gwannon.com/)
 
 \conc
 
-«Temptations & torments» es un hack para 1 DJ y 1 PJ para el juego de rol «Lasers & Feelings» creado por [John Harper](https://johnharper.itch.io/lasers-feelings).
+«Temptations & Torments» is a hack for 1 GM and 1 player for the role-playing game "Lasers & Feelings" created by [John Harper](https://johnharper.itch.io/lasers-feelings).
 
-Interpretarás a une demonie que deberá tentar y atormentar a les mortales para conseguir su alma y con ello el favor de Lucifer y así ascender en la jerarquía del Infierno.
+You will play a demon who must tempt and torment mortals to obtain their soul and thus the favor of Lucifer and ascend in the hierarchy of Hell.
 
-Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denominados d6).
+To play this game you will need paper, pencil and 3 six-sided dice (called d6).
 
 ## Player: Create your character
 
@@ -18,7 +18,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 4. Cuando apareces en la tierra, dispones de un **equipo básico** como ropa apropiada (elegante, de mendigo, deportiva), móvil, dinero y tarjetas y algún vehículo.
 5. Por último, debes elegir un **objetivo vital**, puedes elegir una de estas o invéntatela: recuperar tus alas y volver a ser un ángel, convertirte en un demonio de gran poder, convertirte en humano, conseguir que alguien te quiera, ser el mejor tentador/atormentador.
 
-## Player: Crear tu círculo del infierno
+## Player: Create your circle of hell
 
 Como demonie de cierto nivel, Lucifer te ha concedido tu propio círculo del infierno. Para empezar debes definir cómo es tu círculo describiéndolo, por ejemplo, como una cueva con un lago de lava en el centro, una mazmorra medieval, una paradisiaca playa de arena fina o una discoteca de moda llena de gente. Luego debes decidir en función de la descripción si es ATORMENTADOR o TENTADOR. 
 
@@ -26,7 +26,7 @@ Solo puedes meter a una persona en tu círculo infernal si ella accede librement
 
 Si es ATORMENTADOR recibes +1d6 cuando intentas TORMENTOS y si es TENTADOR recibes el +1d6 a TENTACIONES. Aun así nunca puedes tirar más de 3d6.
 
-## Player: Ascender en la jerarquía infernal
+## Player: Ascending in the hierarchy of Hell
 
 Al final de cada partida, cuando entregas el alma pecadora a Lucifer, este puede otorgarte una y solo una de sus «bendiciones».
 
@@ -49,7 +49,7 @@ Si estás usando TENTACIONES (seducción, carisma, regalos, halagos, chantajes) 
 2. **If one die succeeds**, you barely manage it. The GM inflicts a complication, harm, or cost.
 3. **If two dice succeed,** you do it well. Good job!
 4. **If three dice succeed,** you get a critical success! The GM will grant you some **extra benefit**. Ideally, it should be **related to your life goal** and help you achieve it. Perhaps you want to regain your wings and return to heaven, and the pure soul you're seducing isn't so pure after all, and you earn points toward returning to heaven by uncovering a dangerous assassin.
-5. If you roll your number exactly, you have TEMPTATIONS TORMENTS. You get a special insight into what’s going on. Ask the GM a question and they’ll answer
+5. **If you roll your number exactly,** you have TEMPTATIONS TORMENTS. You get a special insight into what’s going on. Ask the GM a question and they’ll answer
 you honestly. **You shouldn't allow them to ask very direct questions** such as: What does them want/need? What are them afraid of? What secret are them hiding?. Some good questions: How do they really feel? What was their childhood like? Who was their first love? Have them ever taken drugs? What are them thinking about right now? Why are they here?. You can change your action if you want based on the new information; in that case, roll again.
 
 ### Helping
