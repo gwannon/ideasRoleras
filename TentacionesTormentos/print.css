@@ -15,6 +15,14 @@ body {
   font-size: 14px;
 }
 
+body#TentacionesTormentosBW,
+body#TemptationsTormentsBW {
+  --color-red: #000;
+  --color-white: #000;
+  --color-black: #fff;
+  background: var(--color-black) none repeat-y top center;
+}
+
 /*body:before {
   content: "";
   display: block;
@@ -124,6 +132,11 @@ h2 {
 
 h3 {
   font-size: 1.4em;
+}
+
+body#TentacionesTormentosBW *:is(h1,h2,h3),
+body#TemptationsTormentsBW *:is(h1,h2,h3) {
+  text-shadow: none;
 }
 
 h2 + p, 
