@@ -12,42 +12,42 @@ To play this game you will need paper, pencil and 3 six-sided dice (called d6).
 
 ## Player: Create your character
 
-1. Para **crear tu diable** debes ponerle **un nombre**. Piensa en nombres clásicos diabólicos y añádele, quítale o cambiales letras, Azazel puede ser Puzazel, Uzuzel, Apazel, etc. Elige también **unos pronombres**.
-2. A continuación toca **crear un título demoníaco**, que te describa como ser del inframundo infernal. El título tiene una **primera parte que transmite por lo que eres conocido y lo que se te da bien**, pueden ser como la «duquesa del dolor», le «señore de la seducción oscura» o el «prelado de las tentaciones impías». El título, a continuación, tiene a tus **pecadores predilectos y lo que sueles hacerles**. Cosas como «defenestradora de adúlteros» o «despellejadore de antivacunas». Al final, tu título sería algo como «Tazipael, amo de las mentiras y eviscerador de haraganes».
-3. **Elige un número del 2 al 5.** Con un número alto eres mejor en TENTACIONES (seducción, carisma, regalos, halagos, chantajes), y con uno bajo eres mejor con los TORMENTOS (amenazas, intimidación, tortura, coerción, acoso).
-4. Cuando apareces en la tierra, dispones de un **equipo básico** como ropa apropiada (elegante, de mendigo, deportiva), móvil, dinero y tarjetas y algún vehículo.
-5. Por último, debes elegir un **objetivo vital**, puedes elegir una de estas o invéntatela: recuperar tus alas y volver a ser un ángel, convertirte en un demonio de gran poder, convertirte en humano, conseguir que alguien te quiera, ser el mejor tentador/atormentador.
+1. To **create your devil**, you must give it **a name**. Think of classic devilish names and add, remove, or change letters. Azazel could be Puzazel, Uzuzel, Apazel, etc. Also, choose **your pronouns**.
+2. Next, you need to **create a demonic title** that describes you as a being from the infernal underworld. The title has a **first part that conveys what you are known for and what you are good at**. It could be something like "Duchess of Pain," "Lord of Dark Seduction," or "Prelate of Unholy Temptations." The title then lists your **favorite sinners and what you usually do to them**. Things like "Defenestrator of Adulterers" or "Flayer of Anti-Vaccinators." In the end, your title would be something like "Tazipael, Master of Lies and Eviscerator of Lazybones."
+3. **Choose a number from 2 to 5.** A high number means you're better at TEMPTATIONS (seduction, charisma, gifts, flattery, blackmail), and a low number means you're better at TORMENTS (threats, intimidation, torture, coercion, harassment).
+4. When you appear on Earth, you have some **basic equipment** such as appropriate clothing (elegant, beggar's, athletic), a cell phone, money and credit cards, and a vehicle.
+5. Finally, you must choose a **life goal**. You can choose one of these or make one up: regain your wings and become an angel again, become a powerful demon, become human, get someone to love you, or become the best tempter/tormenter.
 
 ## Player: Create your circle of hell
 
-Como demonie de cierto nivel, Lucifer te ha concedido tu propio círculo del infierno. Para empezar debes definir cómo es tu círculo describiéndolo, por ejemplo, como una cueva con un lago de lava en el centro, una mazmorra medieval, una paradisiaca playa de arena fina o una discoteca de moda llena de gente. Luego debes decidir en función de la descripción si es ATORMENTADOR o TENTADOR. 
+As a demon of a certain level, Lucifer has granted you with your own circle of Hell. To begin, you must define what your circle is like by describing it, for example, as a cave with a lava lake in the center, a medieval dungeon, a paradisiacal beach with fine sand, or a trendy nightclub packed with people. Then, based on the description, you must decide whether it is a TORMENTING or a TEMPTING circle.
 
-Solo puedes meter a una persona en tu círculo infernal si ella accede libremente a hacerlo sin ningún tipo de chantaje o coerción por tu parte. Eso no quiero decir que no puedas engañarle para que acceda a entrar.
+You can only bring someone into your infernal circle if they freely agree to do so without any blackmail or coercion on your part. That doesn't mean you can't trick them into entering.
 
-Si es ATORMENTADOR recibes +1d6 cuando intentas TORMENTOS y si es TENTADOR recibes el +1d6 a TENTACIONES. Aun así nunca puedes tirar más de 3d6.
+If it's a TORMENTING circle, you receive a +1d6 bonus to your TORMENTS, and if it's a TEMPTING circle, you receive a +1d6 bonus to your TEMPTATIONS. Even so, you can never roll more than 3d6.
 
 ## Player: Ascending in the hierarchy of Hell
 
-Al final de cada partida, cuando entregas el alma pecadora a Lucifer, este puede otorgarte una y solo una de sus «bendiciones».
+At the end of each adveenture, when you ubmit a sinful soul to Lucifer, he can grant you one and only one of his «blessings».
 
-Está **«bendición» puede usarse** en situaciones extremas durante la sesión para **girar el valor de tu número**. De forma que un 2 y 3 pasa a un 5 y un 4 y 5 pasan a ser un 2. Puedes gastar la «bendición» después de tirar los dados.
+This **«blessings»** can be used in extreme situations during the session to **invert the value of your number**. So, a 2 and a 3 become a 5, and a 4 and a 5 become a 2. You can spend the «blessings» after rolling the dice.
 
-Todo esto representa tu capacidad para en llamar a tu lado tentador o aterrador, aunque no sea tu forma normal de actuar. Piensa en esas escenas en que une tentadore diable está seduciendo a su víctima y ante su negativa se convierte en un terrible ser infernal que hiela la sangre nada más verlo.
+All of this represents your ability to summon your tempting or terrifying side, even if it's not your normal way of acting. Think of those scenes where a devilish temptress is seducing their victim, and upon being refused, transforms into a terrifying infernal being that chills the blood at first sight.
 
-Si consigues **entregar dos almas a Lucifer y con ellas las dos bendiciones que te dio**, este verá que estás haciendo excepcionalmente bien tu tarea de captación de almas y **te otorgará un nuevo título** más acorde con los trabajos realizados. Un nuevo título supone más rango, pero también más responsabilidades. 
+If you manage to **deliver two souls to Lucifer and with them the two blessings he bestowed upon you**, he will see that you are performing your task of soul-gathering exceptionally well and will **grant you a new title** more befitting your accomplishments. A new title means more rank, but also more responsibilities.
 
 ## Rolling the dice
 
-Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado y +1d6 si eres un experto (el DJ te dirá cuantos dados puedes tirar, basándose en tu título demoniaco). Tira los dados y compara cada resultado con el número que elegiste.
+When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared and +1d if you’re an expert (The GM will tell you how many dice you can roll, based on your demonic title.). Roll your dice and compare each die result to your number.
 
-Si estás usando TENTACIONES (seducción, carisma, regalos, halagos, chantajes) necesitas sacar un número inferior. Si estás usando TORMENTOS (amenazas, intimidación, tortura, coerción, acoso) necesitas sacar un número superior.
+If you’re using TEMPTATIONS (seduction, charisma, gifts, flattery, blackmail), you want to roll under your number. If you’re using TORMENTS (threats, intimidation, torture, coercion, harassment), you want to roll over your number.
 
 1. **If none of your dice succeed**, it goes wrong. The GM says how things get worse somehow.
+2. **If one die succeeds**, you barely manage it. The GM inflicts a complication, harm, or cost.
+3. **If two dice succeed,** you do it well. Good job!
 
 \sp
 
-2. **If one die succeeds**, you barely manage it. The GM inflicts a complication, harm, or cost.
-3. **If two dice succeed,** you do it well. Good job!
 4. **If three dice succeed,** you get a critical success! The GM will grant you some **extra benefit**. Ideally, it should be **related to your life goal** and help you achieve it. Perhaps you want to regain your wings and return to heaven, and the pure soul you're seducing isn't so pure after all, and you earn points toward returning to heaven by uncovering a dangerous assassin.
 5. **If you roll your number exactly,** you have TEMPTATIONS TORMENTS. You get a special insight into what’s going on. Ask the GM a question and they’ll answer
 you honestly. **You shouldn't allow them to ask very direct questions** such as: What does them want/need? What are them afraid of? What secret are them hiding?. Some good questions: How do they really feel? What was their childhood like? Who was their first love? Have them ever taken drugs? What are them thinking about right now? Why are they here?. You can change your action if you want based on the new information; in that case, roll again.
@@ -87,6 +87,8 @@ Roll or choose on the tables below.
 |5|Flattery and knock up|
 |6|Drugs|
 
+\sc
+
 |1d6|Them dedicates their life to …|
 |---|---|
 |1|War/Violence/Organized Crime|
@@ -121,4 +123,6 @@ If you wish, let your player choose the eternal torment that their victim will s
 
 ## License
 
-Created by [Gwannon](https://gwannon.com). Made under a **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)** License. The complete source code is available on **[Github](https://github.com/gwannon/ideasRoleras/tree/main/TentacionesTormentos)** so you can do whatever you want with it. Some of the text has been taken from the Spanish translation by Hugo González and Luis Fernández. Created for the [#RetoMastorol challenge of #LoDelRol for April and May 2026](https://mastorol.es/@eldadoinquieto/116330424242100022). Background image from [Freepik](https://www.freepik.es/vector-gratis/diseno-fondo-rojo-textura-repetida-abstracta-decorativa_422667589.htm).
+Created by [Gwannon](https://gwannon.com). Made under a **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)** License.
+
+The complete source code is available on **[Github](https://github.com/gwannon/ideasRoleras/tree/main/TentacionesTormentos)** so you can do whatever you want with it. Some of the text has been taken from the Spanish translation by Hugo González and Luis Fernández. Created for the [#RetoMastorol challenge of #LoDelRol for April and May 2026](https://mastorol.es/@eldadoinquieto/116330424242100022). Background image from [Freepik](https://www.freepik.es/vector-gratis/diseno-fondo-rojo-textura-repetida-abstracta-decorativa_422667589.htm).
