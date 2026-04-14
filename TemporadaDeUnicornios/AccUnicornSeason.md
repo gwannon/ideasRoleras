@@ -135,8 +135,8 @@ The forest where you live is a magical place inhabited by other magical creature
 
 ## License
 
-This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas. This product is licensed under the ORC License available online at various locations including [www.azoralaw.com/orclicense](https://azoralaw.com/orclicense/). All warranties are disclaimed as set forth therein.
 
-Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Royalty-free images from **[Wikipedia](https://es.wikipedia.org/wiki/Unicorn#/media/Archivo:Historiae_animalium_1551_De_Monocerote.jpg)** and **[Freepik](https://www.freepik.com/free-photo/wooden-floor-background_4100933.htm)**.
+Royalty-free images from **[Wikipedia](https://es.wikipedia.org/wiki/Unicorn#/media/Archivo:Historiae_animalium_1551_De_Monocerote.jpg)** and **[Freepik](https://www.freepik.com/free-photo/wooden-floor-background_4100933.htm)**.
 
 [![This is Breathless](./images/breathless.png)](https://fari-rpgs.itch.io/breathless-srd)
