@@ -510,6 +510,8 @@ The main plot of Ithaca is reaching the loom to undone your diary work, but you 
 
 \conc
 
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+
 «Íthaca» is developed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es) license. All source code can be found at [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
 Royalty-free images have been used, and we hereby give them due credit.
@@ -518,11 +520,7 @@ Royalty-free images have been used, and we hereby give them due credit.
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
 * Blue mosaic tiles by [alvaro_cabrera](https://www.freepik.com/free-vector/blue-mosaic-tiles_869806.htm)
 
-\sc
-
-> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas. This product is licensed under the ORC License available online at various locations including [www.azoralaw.com/orclicense](https://azoralaw.com/orclicense/). All warranties are disclaimed as set forth therein.
 
 \sinc
 

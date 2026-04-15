@@ -449,6 +449,8 @@ The main plot of Ithaca is reaching the loom to undone your diary work, but you 
 * You've been telling them that the palace is haunted by the ghost of your husband, and you're going to try to convince them that strange things happen at night so that the more cowardly suitors will leave.
 * You've undone all the work you've done during the day, and upon returning to your chambers, you hear a scream. Perhaps you should go and find out what happened.
 * The plots are designed to be played at night, but it can be a fun change of pace to do it during the day with all the palace activity in full swing, but where many of your actions aren't seen as strange.## License
+[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+
 «Íthaca» is developed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es) license. All source code can be found at [GitHub/ideasRoleras/Itaca](https://github.com/gwannon/ideasRoleras/tree/main/Itaca).
 
 Royalty-free images have been used, and we hereby give them due credit.
@@ -456,9 +458,8 @@ Royalty-free images have been used, and we hereby give them due credit.
 * Watercolor greek border by [freepik](https://www.freepik.com/free-vector/watercolor-greek-border_21746377.htm)
 * Penelope and the Suitors by [John William Waterhouse](https://es.m.wikipedia.org/wiki/Archivo:JohnWilliamWaterhouse-PenelopeandtheSuitors(1912).jpg)
 * Blue mosaic tiles by [alvaro_cabrera](https://www.freepik.com/free-vector/blue-mosaic-tiles_869806.htm)
-> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-[![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
+> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas. This product is licensed under the ORC License available online at various locations including [www.azoralaw.com/orclicense](https://azoralaw.com/orclicense/). All warranties are disclaimed as set forth therein.
 ## Epílogue
 While creating this game, I had some ideas and thoughts that I'd like to express here.
 

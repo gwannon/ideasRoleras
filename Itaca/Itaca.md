@@ -526,7 +526,7 @@ Se han usado imágenes libres de derecho y pasamos a darles su justa atribución
 
 \sc
 
-> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com), developed and authored by René-Pier Deshaies-Gélinas, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+> This work is based on Breathless, product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas. This product is licensed under the ORC License available online at various locations including [www.azoralaw.com/orclicense](https://azoralaw.com/orclicense/). All warranties are disclaimed as set forth therein.
 
 [![This game is Breathless](./images/breathless.png "This game is Breathless")](https://farirpgs.com/breathless/creator-kit "This game is Breathless")
 
