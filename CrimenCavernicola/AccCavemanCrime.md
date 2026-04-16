@@ -1,10 +1,10 @@
-As a DJ, give them a blank sheet of paper and a pencil where they should draw the information they discover. If you want something more authentic, print a photo of cave paintings and give them brown and red paints to make their stick figures.
+As a GM, give them a blank sheet of paper and a pencil where they should draw the information they discover. If you want something more authentic, print a photo of cave paintings and give them brown and red paints to make their stick figures.
 
 > The first one to draw an obscenity will receive an upgrade. This is a fact and cannot be discussed. The history of cave art is full of genitalia, and this artistic innovation must be rewarded.
 
 ## Murder by Death
 
-When your cavemen wake up after an unusually quiet night, Grogui doesn't wake up to drink water and eat the leeftovers of the long reptile you hunted yesterday.
+When your cave dwellers wake up after an unusually quiet night, Grogui doesn't wake up to drink water and eat the leftovers of the long reptile you hunted yesterday.
 
 After tapping him a few times in the eyes with a stick, you can confirm Grogui's dead. You need to find out who or what killed your cave partner, because they could attack again tonight.
 
@@ -78,7 +78,7 @@ The truth is that you can't get much information out of things to eat (or get ea
 |Rockback|Perhaps if you climb onto its shell you'll see something.|
 |Man-Eater|As a man-eater, it is always suspicious.|
 |Bonehorn|They're just good steaks.|
-|Gorejaw|They don't usually go into caves to eat cavemen, but it might have eaten the killer and you don't have to look for it.|
+|Gorejaw|They don't usually go into caves to eat cave dweller, but it might have eaten the killer and you don't have to look for it.|
 |Skymaw|Maybe if you get hooked you'll see something from above.|
 |Tuskwalker|From one of its horns hangs a piece of Grogui's loincloth.|
 |Bigslow|You can also climb on top to reach places you can't normally reach.|
@@ -86,11 +86,11 @@ The truth is that you can't get much information out of things to eat (or get ea
 
 ## Studying the evidences
 
-Según Agatha Christie, las razones para cometer un crimen son el amor, el dinero o la venganza (y en algunos casos para ocultar otro asesinato). Está teoría se aplica a tus cavernícolas y solo hay que mirar la pistas y darles la forma adecuada para que se ajusten a uno de estos supuestos.
+According to Agatha Christie, the reasons for killing another person are love, money, or revenge (and in some cases, to cover up another murder). This theory applies to your troglodyte, and you just have to look at the clues and shape them to fit one of these scenarios.
 
-A partir de ahí tus cavernícolas deberán elaborar una teoría y tratar de probarla con lo que tienen. En caso de que no algo falle en tu teoría o tras volver a entrevistar a un sospechoso, tu teoría se vaya al garete, deberás volver a hacer los pasos anteriores para sacar nuevas pistas que te permitan elaborar alguna otra teoría.
+From there, your cave dweller must develop a theory and try to prove it with what they have. If something is wrong with your theory, or if after re-interviewing a suspect your theory falls apart, you'll have to repeat the previous steps to find new clues that will allow you to develop another theory.
 
-> En tu mano de DJ está dejar a tus jugadores hablar normal en esta parte o tener que discutir las teorías con frases de 3 palabras.
+> It's up to you, the GM, to let your players speak normally in this part or have them discuss the theories in three-word phrases.
 ## The murderer is someone in this cave
 
 Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
@@ -103,9 +103,9 @@ Para ayudar, mientras uno de tus cavernícolas habla, otros **pueden hacer ruido
 
 ![Silueta caballo](./css/caballo.png) Action scenes aren't very common in this type of story, but a chase, a brawl, or an attempted of murder against the investigators are quite common. So, when they're closing to the Grogui's murder, we should include a scene like this. Let's look at some options and how to handle them.
 
-A classic in detective stories is the chase where the criminal has tried to steal clues and gets caught, or has tried to kill your cavemen and is caught red-handed.
+A classic in detective stories is the chase where the criminal has tried to steal clues and gets caught, or has tried to kill your troglodyte and is caught red-handed.
 
-As we've already explained, some crimes are committed to cover up other crimes. So, you can set deadly traps for your cavemen, like dropping a big stone on them or creating a stampede of _bonehorns_ to crush them. It's posible to attempt to murder them while they are sleeping.
+As we've already explained, some crimes are committed to cover up other crimes. So, you can set deadly traps for your troglodyte, like dropping a big stone on them or creating a stampede of _bonehorns_ to crush them. It's posible to attempt to murder them while they are sleeping.
 
 Finally, after revealing the killer's identity, they usually run away and are either caught by the detectives or something serious happens to them, such as been smashed by a _tuskwalker_ during their escape.## License
 
@@ -114,9 +114,9 @@ Developed under license **[CC BY 4.0](https://creativecommons.org/licenses/by/4.
 
 # Murder, she painted in the walls of the cave
 
-«Murder, she painted in the walls of the cave» is a hack for **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** created by **[Golden Achiever](https://golden-achiever.itch.io/)** and translated into **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** by **[Roque Romero](https://roque-romero.itch.io/)**. It allows you to turn your cavemen into detectives who must solve a crime and stop the murderer while dodging all the dangers that want to eat them.
+«Murder, she painted in the walls of the cave» is a hack for **[100 Million B.C.](https://goldenachiever.github.io/year100millionbc/)** created by **[Golden Achiever](https://golden-achiever.itch.io/)** and translated into **[castellano](https://roque-romero.itch.io/year-100-million-bc-reglas-gratuitas)** by **[Roque Romero](https://roque-romero.itch.io/)**. It allows you to turn your primitives into detectives who must solve a crime and stop the murderer while dodging all the dangers that want to eat them.
 
-The idea behind the hack is that **there's no predefined case; instead, your cavemen create it through their clues and investigations**. This hack gives you the tools to provide your cavemen with clues that lead them to the mystery of their choosing.
+The idea behind the hack is that **there's no predefined case; instead, your cavemen create it through their clues and investigations**. This hack gives you the tools to provide your troglodyte with clues that lead them to the mystery of their choosing.
 
 For example, if you compare the wounds on the corpse to those made by the fangs of a _man-eater_ and you find it funny and interesting, then the wounds are from a _man-eater_. Keep in mind that this doesn't mean much, because the killer could be a _man-eater_ or someone who uses their teeth as a weapon.
 
@@ -124,4 +124,4 @@ For example, if you compare the wounds on the corpse to those made by the fangs 
 
 ## The Evidence board
 
-Let's say a caveman's brain isn't very advanced, so to retain information between sessions, they'll have to draw the clues on the cave walls. Anything not on the drawing won't be remembered from one session to the next, and they'll have to investigate it again.
+Let's say a cave dweller's brain isn't very advanced, so to retain information between sessions, they'll have to draw the clues on the cave walls. Anything not on the drawing won't be remembered from one session to the next, and they'll have to investigate it again.
