@@ -25,14 +25,7 @@ XXX
 La especie de tu jugador debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
 
 Si tu equipo es rudo puedes elegir un número entre 2 y 4 y si es técnico entre 3 y 5.
-
-\sc
-
-[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")
-
-&nbsp;
-
-### El agente libre, el veterano y el novato brillante
+[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")### El agente libre, el veterano y el novato brillante
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
 
@@ -45,9 +38,6 @@ El **agente libre es el mercenario** que hoy está en un equipo de orcos y maña
 La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
 
 Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el agente libre.
-
-\sp
-
 #### Posición y estilo de juego
 
 XXX 
@@ -114,9 +104,6 @@ XXX
 |6|No muertos, vampiros, momias|
 
 Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
-
-\sp
-
 |1d6|Hinchadas|
 |---|---|
 |1|Día de traer a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contrincantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes.|

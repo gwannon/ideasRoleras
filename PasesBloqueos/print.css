@@ -1,0 +1,261 @@
+:root {
+  --padding: 65px; /*Ancho de los bordes de la página*/
+  --color-red: #fff;
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+@font-face {
+  font-family: 'JackportCollegeNcv';
+  font-weight: normal;
+  font-style: normal;
+  src: url('./images/JackportCollegeNcv.ttf') format('truetype');
+}
+
+body {
+  background: transparent url(./images/bg.jpg) repeat-y top center;
+  background-size: 100% auto;
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-white);
+  font-size: 13px;
+  
+}
+
+body#PasesBloqueosBW,
+body#PassesBlocksBW {
+  --color-red: #000;
+  --color-white: #000;
+  --color-black: #fff;
+  background: var(--color-black) none repeat-y top center;
+}
+
+/*body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: transparent url(./images/border1.png) top left repeat-y
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: transparent url(./images/border2.png) top left repeat-y;
+}*/
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+  
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  padding: 5px 0px 8px;
+  color: black;
+  margin: 0px;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+  font-family: "JackportCollegeNcv", serif;
+  font-size: 1.2em;
+  line-height: 120%;
+  text-align: center;
+}
+
+/* Titulares */
+
+h1 {
+  font-family: "JackportCollegeNcv", serif;
+  color: var(--color-red);
+  text-align: center;
+  font-size: 61px;
+  margin: 0 0 30px 0;
+  padding: 0;
+  font-weight: 400;
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-white);
+  font-weight: 400;
+  text-decoration: none;
+  text-shadow: none;
+}
+
+h2,
+h3 {
+  font-family: "JackportCollegeNcv", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+
+  font-size: 1.4em;
+}
+
+body#PasesBloqueosBW *:is(h1,h2,h3),
+body#PassesBlocksBW *:is(h1,h2,h3) {
+  text-shadow: none;
+}
+
+h2 + p, 
+h3 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+
+p,
+ol {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-white);
+}
+
+ol {
+  padding-left: 19px;
+}
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  border: none;
+  padding: 0px;
+  position: relative;
+
+}
+
+table thead tr th {
+  font-family: "JackportCollegeNcv", serif;
+  text-align: left;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+table tbody tr > *:first-child {
+  font-family: "JackportCollegeNcv", serif;
+  text-shadow: 0px 1px 1px var(--color-black), 1px 0px 1px var(--color-black), 0px 0px 1px var(--color-black), 1px 1px 1px var(--color-black);
+}
+
+table strong {
+  color: var(--color-red);
+  font-family: "Limelight", sans-serif;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-white);
+    border-bottom:  3px dashed var(--color-white);
+  }
+
+  .columns {
+    columns: 1;
+  }
+  
+  body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-red);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "JackportCollegeNcv", serif;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+a.pdf:nth-of-type(1) {
+  bottom: auto;
+  top: 0px;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+
+  .nopdf {
+    display: none !important;
+  }
+}
+
+img {
+  max-width: 100%;
+}

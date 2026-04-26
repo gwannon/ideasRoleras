@@ -344,3 +344,6 @@
 {"rule":"PREP_VERB","sentence":"^\\Q1d6 Lucifer te exige el alma de une …\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Clerigue/Persona de fe\n2 Multimilonarie/Polítique\n3 Cientifique/Estudiose\n4 Famose/Actore\n5 Artiste/Escritore/Músique\n6 Asesine/Mafiose/Criminal\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QParte de los textos se han extraido de la traducción al castellano de hecha por Hugo González y Luís Fernández.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta de ciencia ficción, cyborgs, aliens, ...,qué más da.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta de ciencia ficción, ciborgs, aliens, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Enanos, elfos, medianos, gnomos\n2 Orcos, goblins, trasgos\n3 Humanos, nórdicos, bretones\n4 Elfos oscuros, enanos caóticos, semiorcos\n5 Hombres lagarto, hombre rata, hombres bestia\n6 No muertos, vampiros, momias\\E$"}

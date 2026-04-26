@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Pases y bloqueos
+
+InfoKey: Subject
+InfoValue: «Pases y bloqueos» es un hack parapara el juego de rol «Lasers & Feelings». Es la última jugada del partido de fútbol amoricano (aka Blood Bowl) más importante de vuestras vidas. Vuestro equipo va perdiendo, pero, si lo hacéis bien, podéis conseguir la gloria reservada a los ganadores de la Copa de Sangre. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, lasers&feelings, lasérs & feelings, blood bowl, deportes, fantasía
