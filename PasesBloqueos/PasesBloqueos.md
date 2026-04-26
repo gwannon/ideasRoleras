@@ -48,6 +48,10 @@ Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el
 
 \sp
 
+[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "v By RomCova")
+
+[Portada]() de [RomCova](https://www.deviantart.com/romcova/)
+
 #### Posición y estilo de juego
 
 XXX 
@@ -104,6 +108,8 @@ XXX
 |5|**Mucho viento.** Los pases se vuelven muy imprecisos.|
 |6|**Muy soleado.** El sol te ciega muchas veces.|
 
+\sp
+
 |1d6|Equipo contrario|
 |---|---|
 |1|Enanos, elfos, medianos, gnomos|
@@ -114,8 +120,6 @@ XXX
 |6|No muertos, vampiros, momias|
 
 Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
-
-\sp
 
 |1d6|Hinchadas|
 |---|---|
@@ -150,4 +154,4 @@ El campo tiene dos zonas, delante y detrás. El lanzador, normalmente, siempre e
 
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) es de [Freepik](https://www.freepik.es/). La [imagen de portada](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370) es de [RomCova](https://www.deviantart.com/romcova/). Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) es de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/). Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
