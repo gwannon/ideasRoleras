@@ -12,15 +12,29 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 ## PJ: Crear tu jugador estrella
 
+### Creación del equipo
+
+Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que definir 3 elementos:
+
+* **Nombre.** Normalmente tienen dos partes, un denominador como los segadores, los rufianes o los pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Núm, de 
+* **Especie predominante.** La especie puede cualquiera de fantasía, enano, elfos, gnomos, orcos, ... hasta de ciencia ficción, cyborgs, aliens, ...,qué más da. 
+* **Estilo de juego.** Deben elegir si son rudos o técnicos. Si tu equipo es técnico su juego se basa en estrategia, en jugadas espectaculares y en pases, recepciones y largas carreras. Si tu equipo es de rudos, lo vuestro es machacar al equipo contrario sin ningún  mieamiento._Está decision afectará a la creación del jugador estrella._
+
+### Creación del jugador
+
 XXX
 
-### Posición y estilo de juego
+Si tu equipo es rudo puedes elegir un número entre 2 y 4 y si es técnico entre 3 y 5.
 
-XXX
+### El agente libre y el novato
 
-### Vuestro equipo
+La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
 
-Esta parte debería hacerse entre todos los jugadores. XXX
+El novato XXX.
+
+El agente libre XXX.
+
+#### Posición y estilo de juego
 
 XXX 
 
@@ -56,8 +70,8 @@ XXX
 
 |1d6|Equipo contrario|
 |---|---|
-|1|XXX|
-|2|XXX|
+|1|Enanos, elfos, medianos, gnomos|
+|2|Orcos, goblins, XXX|
 |3|XXX|
 |4|XXX|
 |5|XXX|
@@ -75,7 +89,7 @@ XXX
 |1d6|Equipo ilegal|
 |---|---|
 |1|Apisonadora enana|
-|2|XXX|
+|2|Tipos grandes, Trolls, hombres árbol, ogros, minotauros|
 |3|XXX|
 |4|XXX|
 |5|XXX|
