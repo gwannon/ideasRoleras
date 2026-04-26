@@ -16,7 +16,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que definir 3 elementos:
 
-* **Nombre.** Normalmente tienen dos partes, un denominador como los segadores, los rufianes o los pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Núm, de 
+* **Nombre.** Normalmente tienen dos partes, un denominador como los segadores, los rufianes o los pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de 
 * **Especie predominante.** La especie puede cualquiera de fantasía, enano, elfos, gnomos, orcos, ... hasta de ciencia ficción, cyborgs, aliens, ...,qué más da. 
 * **Estilo de juego.** Deben elegir si son rudos o técnicos. Si tu equipo es técnico su juego se basa en estrategia, en jugadas espectaculares y en pases, recepciones y largas carreras. Si tu equipo es de rudos, lo vuestro es machacar al equipo contrario sin ningún  mieamiento._Está decision afectará a la creación del jugador estrella._
 
@@ -32,11 +32,11 @@ Si tu equipo es rudo puedes elegir un número entre 2 y 4 y si es técnico entre
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
 
-El novato brillante es nuevo, no sabe nada, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente cosas que este deporte podría costarle la carrera.
+El ***novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente cosas que este deporte podría costarle la carrera.
 
-El veterano ya se las sabe todas y sabe que está será su última temporada, pero su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
+El **veterano ya se las sabe todas** y sabe sobretodo que está será su última temporada. Su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
 
-El agente libre es el mercenario que hoy está en un equipo de orcos y mañana en uno de elfos. Es bueno y lo sabe y le gusta brillar porque eso aumenta sus tarifas.
+El **agente libre es el mercenario** que hoy está en un equipo de orcos y mañana en uno de elfos. Es bueno y lo sabe y le gusta brillar porque eso aumenta sus tarifas.
 
 La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
 
@@ -97,11 +97,13 @@ XXX
 |5|Hombres lagarto, hombre rata, hombres bestia|
 |6|No muertos, vampiros, momias|
 
+Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven aierte.
+
 |1d6|Hinchadas|
 |---|---|
-|1|XXX|
+|1|Día de trae a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contricantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes. |
 |2|XXX|
-|3|XXX|
+|3|Hooligans borrachos|
 |4|XXX|
 |5|XXX|
 |6|XXX|
