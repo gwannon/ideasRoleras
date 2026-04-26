@@ -20,12 +20,17 @@ Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que defin
 
 ### Creación del jugador
 
-XXX
+La especie de tu jugador estrella debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
 
-La especie de tu jugador debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
+A continuación debes ponerle **un nombre**. Elige también **unos pronombres**.
 
-Si tu equipo es rudo puedes elegir un número entre 2 y 4 y si es técnico entre 3 y 5.
-[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")### El agente libre, el veterano y el novato brillante
+Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3 y 5**. Con un número alto eres mejor en PASES (todo lo relacionado con la destreza y la inteligencia, lanzar, recibir, esquivar, saltar), y con uno bajo eres mejor con los BLOQUEOS (todo lo relacionado con la fuerza y la resistencia, bloquear, empujar, correr, derribar).
+
+[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")Cuando apareces en el campo, dispones de tu **equipo básico**, protecciones (peto, hombreras, coderas, guanteletes, rodilleras, guanteletes, botas y casco). Si tu equipo es rudo, suelen ser pesadas, resistentes y con pinchos y si eres técnico suelen ligeras, pequeñas y con libertad de movimientos.
+
+Por último, debes una posición en el equipo, línea, bloqueador, lanzador, receptor y corredor.
+
+### El agente libre, el veterano y el novato brillante
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
 
@@ -34,15 +39,13 @@ El **novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quie
 El **veterano ya se las sabe todas** y sabe sobre todo que está será su última temporada. Su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
 
 El **agente libre es el mercenario** que hoy está en un equipo de orcos y mañana en uno de elfos. Es bueno y lo sabe y le gusta brillar porque eso aumenta sus tarifas.
+[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "v By RomCova")
 
 La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
 
 Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el agente libre.
-[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "v By RomCova")
 
-[Portada]() de [RomCova](https://www.deviantart.com/romcova/)
-
-#### Posición y estilo de juego
+### Posición y estilo de juego
 
 XXX 
 
@@ -141,4 +144,4 @@ El campo tiene dos zonas, delante y detrás. El lanzador, normalmente, siempre e
 
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) es de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/). Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/).Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
