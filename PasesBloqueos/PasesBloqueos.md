@@ -24,19 +24,39 @@ Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que defin
 
 XXX
 
+La especie de tu jugador debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
+
 Si tu equipo es rudo puedes elegir un número entre 2 y 4 y si es técnico entre 3 y 5.
 
-### El agente libre y el novato
+### El agente libre, el veterano y el novato brillante
+
+El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
+
+El novato brillante es nuevo, no sabe nada, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente cosas que este deporte podría costarle la carrera.
+
+El veterano ya se las sabe todas y sabe que está será su última temporada, pero su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
+
+El agente libre es el mercenario que hoy está en un equipo de orcos y mañana en uno de elfos. Es bueno y lo sabe y le gusta brillar porque eso aumenta sus tarifas.
 
 La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
 
-El novato XXX.
-
-El agente libre XXX.
+Tampoco tienen porqué ser de la especie predominante del equipo, sobre todo el agente libre.
 
 #### Posición y estilo de juego
 
 XXX 
+
+Lo que pasa cuando consigues un resultado de «Pases y Bloqueos» depende de tu posición dentro de equipo.
+
+**Linea:** XXX. Estás jugando remontadas únicas no es momento de jugar con un línea. Es aconsejable, pero no obligatorio, no elegir esta posición.
+
+**Bloqueador:** XXX
+
+**Lanzador:** XXX
+
+**Receptor:** XXX
+
+**Corredor:** XXX
 
 ## Tiradas de dados
 
@@ -71,11 +91,11 @@ XXX
 |1d6|Equipo contrario|
 |---|---|
 |1|Enanos, elfos, medianos, gnomos|
-|2|Orcos, goblins, XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|2|Orcos, goblins, trasgos|
+|3|Humanos, nórdicos, bretones|
+|4|Elfos oscuros, enanos caoticos, semiorcos|
+|5|Hombres lagarto, hombre rata, hombres bestia|
+|6|No muertos, vampiros, momias|
 
 |1d6|Hinchadas|
 |---|---|
@@ -86,11 +106,11 @@ XXX
 |5|XXX|
 |6|XXX|
 
-|1d6|Equipo ilegal|
+|1d6|Equipo ilegal y trampas|
 |---|---|
 |1|Apisonadora enana|
 |2|Tipos grandes, Trolls, hombres árbol, ogros, minotauros|
-|3|XXX|
+|3|Mago escondido entre el público|
 |4|XXX|
 |5|XXX|
 |6|XXX|
