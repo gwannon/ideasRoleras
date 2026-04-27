@@ -89,9 +89,7 @@ Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si
 No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
 ## DJ: Cuando todos lo creían imposible …
 
-Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de estas simples tablas, pero siéntete libre de crear la jugada que tú creas. 
-
-|1d6|Tiempo atmosférico|
+Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de estas simples tablas, pero siéntete libre de crear la jugada que tú creas. |1d6|Tiempo atmosférico|
 |---|---|
 |1|**Nieve y hielo.** El suelo está helado y resbaladizo.|
 |2|**Lluvias torrenciales.** El campo es un barrizal que hace muy difícil moverse y coger el balón.|
@@ -106,6 +104,7 @@ Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de 
 |4|Elfos oscuros, enanos caóticos, semiorcos|
 |5|Hombres lagarto, hombre rata, hombres bestia|
 |6|No muertos, vampiros, momias|
+
 |1d6|Cómo va el partido|
 |---|---|
 |1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie dijo que esto fuera fácil. Los que se han reído de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
@@ -113,8 +112,7 @@ Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de 
 |3|Sois lo últimos jugadores literalmente vivos de vuestro campo. Si aguantáis hasta el final del tiempo, ganáis el partido.|
 |4|Estáis en defensa y vais perdiendo. Seguramente van a retener el balón hasta que termine el partido. Tenéis que encontrar una estrategia loca y suicida para robarles el balón y poder marcar.|
 |5|Habéis aceptado sobornos para dejaros ganar, pero en el último momento preferís la gloria de la victoria. Eso significa que los asesinos y magos mercenarios que ha contratado el mafioso de turno por si os echabais atrás entrarán en juego. Y seguro que han puesto precio a vuestra cabeza así que le equipo contrario va a ir a por todas.|
-|6|Los ánimos están caldeados y el público está a punto invadir el campo. Marcar no es imposible, pero una vez que lo hagáis no creéis que salgáis vivos de la invasión de campo.|
-[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")|1d6|Hinchadas|
+|6|Los ánimos están caldeados y el público está a punto invadir el campo. Marcar no es imposible, pero una vez que lo hagáis no creéis que salgáis vivos de la invasión de campo.|[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")|1d6|Hinchadas|
 |---|---|
 |1|Día de traer a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contrincantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes.|
 |2|Han regalado entradas y el estadio está lleno de personas que no saben muy bien de que va esto.|
@@ -141,10 +139,10 @@ Tiene que ser una situación desesperada, quizás tengan que marcar a la desespe
 
 Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
 
-* Darse ánimos los unos a otros.
-* Alguien suelta una arenga motivadora.
-* Alguien tiene una idea genial para salir victoriosos.
-* Se propone hacer algún tipo de trampas para ganar.
+1. Darse ánimos los unos a otros.
+2. Alguien suelta una arenga motivadora.
+3. Alguien tiene una idea genial para salir victoriosos.
+4. Se propone hacer algún tipo de trampas para ganar.
 
 XXX
 
