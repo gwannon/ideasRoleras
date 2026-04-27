@@ -28,7 +28,7 @@ Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3
 
 Cuando apareces en el campo, dispones de tu **equipo básico**, protecciones (peto, hombreras, coderas, guanteletes, rodilleras, guanteletes, botas y casco). Si tu equipo es rudo, suelen ser pesadas, resistentes y con pinchos y si eres técnico suelen ligeras, pequeñas y con libertad de movimientos.
 
-Por último, debes una posición en el equipo, línea, bloqueador, lanzador, receptor y corredor.
+Por último, debes selecionar una posición en el equipo, línea, bloqueador, lanzador, receptor y corredor.
 
 ### El agente libre, el veterano y el novato brillante
 
@@ -45,15 +45,13 @@ Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el
 
 ### Posición y estilo de juego
 
-XXX 
+Cuando consigues un resultado de «Pases y Bloqueos», en la siguiente acción puedes hacer una **acción heroica** que depende de tu posición dentro de equipo.
 
-Lo que pasa cuando consigues un resultado de «Pases y Bloqueos» depende de tu posición dentro de equipo.
+**Línea:** Eres el XXX. Estás jugando remontadas únicas no es momento de jugar con una línea. Es aconsejable, pero no obligatorio, no elegir esta posición. **No tienes acción heroica,** estás solo para apoyar a otros jugadores a que se luzcan. 
 
-**Línea:** XXX. Estás jugando remontadas únicas no es momento de jugar con una línea. Es aconsejable, pero no obligatorio, no elegir esta posición.
+**Bloqueador:** Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, ... Usando tu **bloqueo heroico** puedes XXX. 
 
-**Bloqueador:** XXX. Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, ...
-
-**Lanzador:** XXX. Lo normal es que solo hay un lanzador, pero puedes ser el lanzador veterano que trata de irse en toda su gloria o el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella.
+**Lanzador:** Lo normal es que solo hay un lanzador, pero puedes ser el lanzador veterano que trata de irse en toda su gloria o el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. Con tu **lanzamiento a la desesperada** puedes XXX. 
 
 **Receptor:** XXX
 
@@ -69,7 +67,7 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**, que normalmente estará asociada a tu posición. Quizás hayas hecho un tiro imposible de interceptar o cuando recibe un pase estás solo sin nadie alrededor.
-5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: XXX. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar.  
+5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: XXX. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **habilidad heroica** de tu posición que también exige hacer una tirada.
 ### Apoyos
 
 Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
@@ -137,12 +135,13 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 
 XXX
 
-El campo tiene dos zonas, delante y detrás. El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente.
+La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, ... En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
+
+**El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente.
 
 La épica es una parte importante del deporte y de este juego, anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
 
 Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fueras un locutor deportivo**, tanto para presentar las complicaciones como para narrar los resultados de las acciones y tiradas. Usas frases como «Contra todo pronóstico ...», «¡Esto es increíble!», «En todos mis años de comentarista nunca ...» o «Cuando nadie daba un euro por ...» entre otras.
-
 ## Licencia
 
 Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/) y de [LANZAestudio](https://www.deviantart.com/lanzaestudio). Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
