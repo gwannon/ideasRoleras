@@ -347,3 +347,6 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta de ciencia ficción, cyborgs, aliens, ...,qué más da.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta de ciencia ficción, ciborgs, aliens, …\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Enanos, elfos, medianos, gnomos\n2 Orcos, goblins, trasgos\n3 Humanos, nórdicos, bretones\n4 Elfos oscuros, enanos caóticos, semiorcos\n5 Hombres lagarto, hombre rata, hombres bestia\n6 No muertos, vampiros, momias\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta de ciencia ficción, cíborgs, aliens, …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qentre otras.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qo «Cuando nadie daba un euro por ...»\\E$"}

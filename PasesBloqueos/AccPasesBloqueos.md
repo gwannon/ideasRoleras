@@ -4,7 +4,7 @@
 
 Es la última jugada del partido de fútbol amoricano (aka Blood Bowl) más importante de vuestras vidas. Vuestro equipo va perdiendo, pero, si lo hacéis bien, podéis conseguir la gloria reservada a los ganadores de la Copa de Sangre.
 
-Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denominados d6).
+Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denominados d6). La duración aproximada de una partida puede ser de 1 hora, hora y media como máximo.  
 
 ## PJ: Crear tu jugador estrella
 
@@ -12,7 +12,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que definir 3 elementos:
 
-**Nombre.** Normalmente tienen dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riberland, …
+**Nombre.** Normalmente tienen dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …
 
 **Especie predominante.** La especie puede cualquiera de fantasía, enano, elfos, gnomos, orcos, … hasta de ciencia ficción, cíborgs, aliens, … Qué más da. 
 
@@ -22,24 +22,22 @@ Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que defin
 
 La especie de tu jugador estrella debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
 
-A continuación debes ponerle **un nombre**. Elige también **unos pronombres**.
+[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")A continuación debes ponerle **un nombre**. Elige también **unos pronombres**.
 
-Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3 y 5**. Con un número alto eres mejor en PASES (todo lo relacionado con la destreza y la inteligencia, lanzar, recibir, esquivar, saltar), y con uno bajo eres mejor con los BLOQUEOS (todo lo relacionado con la fuerza y la resistencia, bloquear, empujar, correr, derribar).
+Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3 y 5**. Con un número alto eres mejor en PASES (todo lo relacionado con la destreza y la inteligencia, lanzar, recibir, esquivar, saltar y también la táctica y el engaño), y con uno bajo eres mejor con los BLOQUEOS (todo lo relacionado con la fuerza y la resistencia, bloquear, empujar, cargar, correr, derribar y también el miedo y la intimidación).
 
-[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")Cuando apareces en el campo, dispones de tu **equipo básico**, protecciones (peto, hombreras, coderas, guanteletes, rodilleras, guanteletes, botas y casco). Si tu equipo es rudo, suelen ser pesadas, resistentes y con pinchos y si eres técnico suelen ligeras, pequeñas y con libertad de movimientos.
+Cuando apareces en el campo, dispones de tu **equipo básico**, protecciones (peto, hombreras, coderas, guanteletes, rodilleras, guanteletes, botas y casco). Si tu equipo es rudo, suelen ser pesadas, resistentes y con pinchos y si eres técnico suelen ligeras, pequeñas y con libertad de movimientos.
 
 Por último, debes una posición en el equipo, línea, bloqueador, lanzador, receptor y corredor.
 
 ### El agente libre, el veterano y el novato brillante
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
-
-El **novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente cosas que este deporte podría costarle la carrera.
+[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "v By RomCova")El **novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente, cosa que este deporte podría costarle la carrera.
 
 El **veterano ya se las sabe todas** y sabe sobre todo que está será su última temporada. Su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
 
 El **agente libre es el mercenario** que hoy está en un equipo de orcos y mañana en uno de elfos. Es bueno y lo sabe y le gusta brillar porque eso aumenta sus tarifas.
-[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "v By RomCova")
 
 La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
 
@@ -63,7 +61,7 @@ Lo que pasa cuando consigues un resultado de «Pases y Bloqueos» depende de tu 
 
 ## Tiradas de dados
 
-Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado (en el lugar del campo y en momento oportuno) y +1d6 si está dentro de las capacidades normales de tu posición (el DJ te dirá cuantos dados puedes tirar, basándose en tu posición). Tira los dados y compara cada resultado con el número que elegiste.
+Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado (de pie en el lugar del campo y en momento oportuno y a poder ser sin contrincantes cerca) y +1d6 si está dentro de las capacidades normales de tu posición (el DJ te dirá cuantos dados puedes tirar, basándose en tu posición). Tira los dados y compara cada resultado con el número que elegiste.
 
 Si estás usando PASES (XXX) necesitas sacar un número inferior. Si estás usando BLOQUEOS (XXX) necesitas sacar un número superior.
 
@@ -75,10 +73,9 @@ Si estás usando PASES (XXX) necesitas sacar un número inferior. Si estás usan
 
 ### Apoyos
 
-Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo paaraa poder apoyarte, aunque en alguna situaciones no es necesario
+Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
 
 No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
-
 ## DJ: Cuando todos lo creían imposible …
 
 XXX
@@ -100,6 +97,7 @@ XXX
 |4|**Tiempo perfecto** para jugar a fútbol amoricano.|
 |5|**Mucho viento.** Los pases se vuelven muy imprecisos.|
 |6|**Muy soleado.** El sol te ciega muchas veces.|
+
 |1d6|Equipo contrario|
 |---|---|
 |1|Enanos, elfos, medianos, gnomos|
@@ -128,10 +126,13 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |4|XXX|
 |5|XXX|
 |6|XXX|
-
 ## DJ: Cómo dirigir una partida
 
-Lo primero es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
+Cómo ya hemos dicho no vas a jugar un partido entero, solo esa última jugada épica en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
+
+Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol. Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. **En resumen, sea lo que sea debe sonar deportivamente equipo.**
+
+Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
 
 * Darse ánimos los unos a otros.
 * Alguien suelta una arenga motivadora.
@@ -140,7 +141,11 @@ Lo primero es la reunión de equipo, tus jugadores se agachan y hacen un corro p
 
 XXX
 
-El campo tiene dos zonas, delante y detrás. El lanzador, normalmente, siempre está detrás, mientras que un receptor siempre está delante.
+El campo tiene dos zonas, delante y detrás. El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente.
+
+La épica es una parte importante del deporte y de este juego, anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
+
+Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fueras un locutor deportivo**, tanto para presentar las complicaciones como para narrar los resultados de las acciones y tiradas. Usas frases como «Contra todo pronóstico ...», «¡Esto es increíble!», «En todos mis años de comentarista nunca ...» o «Cuando nadie daba un euro por ...» entre otras.
 
 ## Licencia
 
