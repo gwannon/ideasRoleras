@@ -62,7 +62,7 @@ Lo que pasa cuando consigues un resultado de «Pases y Bloqueos» depende de tu 
 
 **Línea:** XXX. Estás jugando remontadas únicas no es momento de jugar con una línea. Es aconsejable, pero no obligatorio, no elegir esta posición.
 
-**Bloqueador:** XXX. Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también muchas veces tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, ...
+**Bloqueador:** XXX. Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, ...
 
 **Lanzador:** XXX. Lo normal es que solo hay un lanzador, pero puedes ser el lanzador veterano que trata de irse en toda su gloria o el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella.
 
@@ -135,17 +135,17 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |1d6|Equipo ilegal y trampas|
 |---|---|
 |1|Apisonadora enana|
-|2|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
+|2|Francotirador escondido en el techo del estadio|
 |3|Mago escondido entre el público|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|4|Motosierra, bala con cadena, trabuco lanza-pelotas|
+|5|Trampa: hoyo con pinchos, cepo de osos, minas antipersona|
+|6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
 
 \sp
 
 ## DJ: Cómo dirigir una partida
 
-Cómo ya hemos dicho no vas a jugar un partido entero, solo esa última jugada épica en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
+Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
 
 Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol. Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. **En resumen, sea lo que sea debe sonar deportivamente equipo.**
 
