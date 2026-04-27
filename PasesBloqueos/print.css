@@ -188,7 +188,11 @@ table thead tr th {
 
 table tbody tr > *:first-child {
   font-family: "JackportCollegeNcv", serif;
-  text-shadow: 0px 1px 1px var(--color-black), 1px 0px 1px var(--color-black), 0px 0px 1px var(--color-black), 1px 1px 1px var(--color-black);
+  text-align: center;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: rgb(255, 255, 255, 0.3);
 }
 
 table strong {
@@ -197,6 +201,7 @@ table strong {
 }
 
 @media screen {
+
   .saltopagina {
     border-top: 3px dashed var(--color-white);
     border-bottom:  3px dashed var(--color-white);

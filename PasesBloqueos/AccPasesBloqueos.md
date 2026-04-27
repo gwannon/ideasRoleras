@@ -33,7 +33,7 @@ Por último, debes una posición en el equipo, línea, bloqueador, lanzador, rec
 ### El agente libre, el veterano y el novato brillante
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
-[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "v By RomCova")El **novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente, cosa que este deporte podría costarle la carrera.
+[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "Enano Bowl By RomCova")El **novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente, cosa que este deporte podría costarle la carrera.
 
 El **veterano ya se las sabe todas** y sabe sobre todo que está será su última temporada. Su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
 
@@ -82,42 +82,35 @@ XXX
 
 |1d6|Cómo va el partido|
 |---|---|
-|1|XXX|
+|1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie que esto fuera fácil. Los que reían de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
 |2|XXX|
 |3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-
-|1d6|Tiempo atmosférico|
+|4|Estáis en defensa y vais perdiendo. Seguramente van a retener el balón hasta que termine el partido. Tenéis que encontrar una estrategia loca y suicida para robarles el balón y poder marcar.|
+|5|Habéis aceptado sobornos para dejaros ganar, pero en el último momento preferís la gloria de la victoria. Eso significa que los asesinos y magos mercenarios que ha contratado el mafioso de turno por si os echabais atrás entrarán en juego. Y seguro que han puesto precio a vuestra cabeza así que le equipo contrario va a ir a por todas.|
+|6|Sois lo últimos jugadores literalmente vivos de vuestro campo. Si aguantáis hasta el final del tiempo, ganáis el partido.||1d6|Tiempo atmosférico|
 |---|---|
 |1|**Nieve y hielo.** El suelo está helado y resbaladizo.|
 |2|**Lluvias torrenciales.** El campo es un barrizal que hace muy difícil moverse y coger el balón.|
 |3|**Ola de calor.** Correr es agotador y hay varios jugadores en la enfermería por golpes de calor.|
 |4|**Tiempo perfecto** para jugar a fútbol amoricano.|
 |5|**Mucho viento.** Los pases se vuelven muy imprecisos.|
-|6|**Muy soleado.** El sol te ciega muchas veces.|
-
-|1d6|Equipo contrario|
+|6|**Muy soleado.** El sol te ciega muchas veces.||1d6|Equipo contrario|
 |---|---|
 |1|Enanos, elfos, medianos, gnomos|
 |2|Orcos, goblins, trasgos|
 |3|Humanos, nórdicos, bretones|
 |4|Elfos oscuros, enanos caóticos, semiorcos|
 |5|Hombres lagarto, hombre rata, hombres bestia|
-|6|No muertos, vampiros, momias|
-
-Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
+|6|No muertos, vampiros, momias|Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
 
 |1d6|Hinchadas|
 |---|---|
 |1|Día de traer a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contrincantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes.|
-|2|XXX|
-|3|Hooligans borrachos|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-
+|2|Han regalado entradas y el estadio está lleno de personas que no saben muy bien de que va esto.|
+|3|Hooligans violentos y borrachos|
+|4|Hay una gran rivalidad y ambas hinchadas llevan todo el partido peleando.|
+|5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
+|6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|
 |1d6|Equipo ilegal y trampas|
 |---|---|
 |1|Apisonadora enana|
@@ -125,12 +118,15 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |3|Mago escondido entre el público|
 |4|Motosierra, bala con cadena, trabuco lanza-pelotas|
 |5|Trampa: hoyo con pinchos, cepo de osos, minas antipersona|
-|6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
-## DJ: Cómo dirigir una partida
+|6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")## DJ: Cómo dirigir una partida
 
 Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
 
-Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol. Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. **En resumen, sea lo que sea debe sonar deportivamente equipo.**
+Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol.
+
+Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
+
+**En resumen, sea lo que sea debe sonar deportivamente equipo.**
 
 Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
 
@@ -149,4 +145,4 @@ Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fuera
 
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/).Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
+Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/) y de [LANZAestudio](https://www.deviantart.com/lanzaestudio). Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
