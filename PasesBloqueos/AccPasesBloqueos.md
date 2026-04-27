@@ -51,9 +51,9 @@ Lo que pasa cuando consigues un resultado de «Pases y Bloqueos» depende de tu 
 
 **Línea:** XXX. Estás jugando remontadas únicas no es momento de jugar con una línea. Es aconsejable, pero no obligatorio, no elegir esta posición.
 
-**Bloqueador:** XXX
+**Bloqueador:** XXX. Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también muchas veces tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, ...
 
-**Lanzador:** XXX
+**Lanzador:** XXX. Lo normal es que solo hay un lanzador, pero puedes ser el lanzador veterano que trata de irse en toda su gloria o el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella.
 
 **Receptor:** XXX
 
@@ -63,19 +63,19 @@ Lo que pasa cuando consigues un resultado de «Pases y Bloqueos» depende de tu 
 
 Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado (de pie en el lugar del campo y en momento oportuno y a poder ser sin contrincantes cerca) y +1d6 si está dentro de las capacidades normales de tu posición (el DJ te dirá cuantos dados puedes tirar, basándose en tu posición). Tira los dados y compara cada resultado con el número que elegiste.
 
-Si estás usando PASES (XXX) necesitas sacar un número inferior. Si estás usando BLOQUEOS (XXX) necesitas sacar un número superior.
+Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BLOQUEOS, necesitas sacar un número superior.
 
 1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**, que normalmente estará asociada a tu posición. Quizás hayas hecho un tiro imposible de interceptar o cuando recibe un pase estás solo sin nadie alrededor.
 5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: XXX. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar.  
-
 ### Apoyos
 
 Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
 
 No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
+
 ## DJ: Cuando todos lo creían imposible …
 
 XXX
