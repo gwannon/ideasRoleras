@@ -30,6 +30,8 @@ A continuación debes ponerle **un nombre**. Elige también **unos pronombres**.
 
 Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3 y 5**. Con un número alto eres mejor en PASES (todo lo relacionado con la destreza y la inteligencia, lanzar, recibir, esquivar, saltar y también la táctica y el engaño), y con uno bajo eres mejor con los BLOQUEOS (todo lo relacionado con la fuerza y la resistencia, bloquear, empujar, cargar, correr, derribar y también el miedo y la intimidación).
 
+\sp
+
 Cuando apareces en el campo, dispones de tu **equipo básico**, protecciones (peto, hombreras, coderas, guanteletes, rodilleras, guanteletes, botas y casco). Si tu equipo es rudo, suelen ser pesadas, resistentes y con pinchos y si eres técnico suelen ligeras, pequeñas y con libertad de movimientos.
 
 Por último, debes selecionar una posición en el equipo, línea, bloqueador, lanzador, receptor y corredor.
@@ -37,8 +39,6 @@ Por último, debes selecionar una posición en el equipo, línea, bloqueador, la
 ### El agente libre, el veterano y el novato brillante
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
-
-\sp
 
 [![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "Enano Bowl By RomCova")
 
@@ -68,6 +68,8 @@ Cuando consigues un resultado de «Pases y Bloqueos», en la siguiente acción p
 
 **Corredor:** XXX
 
+\sp
+
 ## Tiradas de dados
 
 Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado (de pie en el lugar del campo y en momento oportuno y a poder ser sin contrincantes cerca) y +1d6 si está dentro de las capacidades normales de tu posición (el DJ te dirá cuantos dados puedes tirar, basándose en tu posición). Tira los dados y compara cada resultado con el número que elegiste.
@@ -80,13 +82,13 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**, que normalmente estará asociada a tu posición. Quizás hayas hecho un tiro imposible de interceptar o cuando recibe un pase estás solo sin nadie alrededor.
 5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: XXX. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **habilidad heroica** de tu posición que también exige hacer una tirada.
 
-\sp
-
 ### Apoyos
 
 Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
 
 No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
+
+\sp
 
 ## DJ: Cuando todos lo creían imposible …
 
@@ -125,6 +127,8 @@ XXX
 
 &nbsp;
 
+\sp
+
 Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
 
 |1d6|Hinchadas|
@@ -136,8 +140,6 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
 |6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|
 
-\sp
-
 |1d6|Equipo ilegal y trampas|
 |---|---|
 |1|Apisonadora enana|
@@ -146,10 +148,6 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |4|Motosierra, bala con cadena, trabuco lanza-pelotas|
 |5|Trampa: hoyo con pinchos, cepo de osos, minas antipersona|
 |6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
-
-&nbsp;
-
-[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")
 
 &nbsp;
 
@@ -172,6 +170,12 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 
 XXX
 
+\sp
+
+[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")
+
+&nbsp;
+
 La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, ... En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
 
 **El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente.
@@ -179,8 +183,6 @@ La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza 
 La épica es una parte importante del deporte y de este juego, anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
 
 Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fueras un locutor deportivo**, tanto para presentar las complicaciones como para narrar los resultados de las acciones y tiradas. Usas frases como «Contra todo pronóstico ...», «¡Esto es increíble!», «En todos mis años de comentarista nunca ...» o «Cuando nadie daba un euro por ...» entre otras.
-
-\sp
 
 ## Licencia
 
