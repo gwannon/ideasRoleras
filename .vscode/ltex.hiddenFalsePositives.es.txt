@@ -350,3 +350,18 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhasta de ciencia ficción, cíborgs, aliens, …\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qentre otras.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qo «Cuando nadie daba un euro por ...»\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSTUNTY SLAM!\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBy RomCova\\E$"}
+{"rule":"ES_QUESTION_MARK","sentence":"^\\QSTUNTY SLAM!\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEnano Bowl By RomCova\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCoach Iron Golems by LANZAestudio\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSe ha usado la fuente JACKPORT COLLEGE NCV.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLas imágenes de escenas deportivas son de RomCova y de LANZAestudio.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\Q1 Enanos, elfos, medianos, gnomos\n2 Orcos, goblins, trasgos\n3 Humanos, nórdicos, bretones\n4 Elfos oscuros, enanos caóticos, semiorcos\n5 Hombres lagarto, hombre rata, hombres bestia\n6 No muertos, vampiros, momias\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QNormalmente tienen dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNormalmente tienen dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEs la última jugada del partido de fútbol amoricano (aka Blood Bowl) más importante de vuestras vidas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«Pases y bloqueos» es un hack para el juego de rol «Lasers & Feelings» creado por John Harper.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qo «Cuando nadie daba un euro por …»\\E$"}
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi ninguno de tus dados tiene éxito, algo salió mal.\\E$"}
