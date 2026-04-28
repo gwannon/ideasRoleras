@@ -12,7 +12,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que definir 3 elementos:
 
-**Nombre.** Normalmente tienen dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …
+**Nombre.** Suelen tener dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …
 
 **Especie predominante.** La especie puede cualquiera de fantasía, enano, elfos, gnomos, orcos, … hasta de ciencia ficción, cíborgs, aliens, … Qué más da. 
 
@@ -22,13 +22,13 @@ Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que defin
 
 La especie de tu jugador estrella debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
 
-[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")
-
-&nbsp;
-
 A continuación debes ponerle **un nombre**. Elige también **unos pronombres**.
 
 Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3 y 5**. Con un número alto eres mejor en PASES (todo lo relacionado con la destreza y la inteligencia, lanzar, recibir, esquivar, saltar y también la táctica y el engaño). Con uno bajo eres mejor con los BLOQUEOS (todo lo relacionado con la fuerza y la resistencia, bloquear, empujar, cargar, correr, derribar y también el miedo y la intimidación).
+
+&nbsp;
+
+[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")
 
 \sp
 
@@ -175,8 +175,6 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |5|Trampa: hoyo con pinchos, cepo de osos, minas antipersona|
 |6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
 
-\sp
-
 ## DJ: Cómo dirigir una partida
 
 Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
@@ -184,6 +182,8 @@ Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada
 Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol.
 
 Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
+
+\sp
 
 **En resumen, sea lo que sea debe sonar deportivamente equipo.**
 
@@ -194,7 +194,9 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 3. Alguien tiene una idea genial para salir victoriosos.
 4. Se propone hacer algún tipo de trampas para ganar.
 
-XXX
+Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, ... para que se hagan una imagen mental de lo que se enfrentan.
+
+XXX _TODO: Cómo encadenar complicaciones y que es importante no repetirlas, como llevar el tema de las yardas para mostrar lo cerca o lejos que están del éxito._
 
 La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
 

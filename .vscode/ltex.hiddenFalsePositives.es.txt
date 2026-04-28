@@ -365,3 +365,4 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QEres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qo «Cuando nadie daba un euro por …»\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi ninguno de tus dados tiene éxito, algo salió mal.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSuelen tener dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …\\E$"}
