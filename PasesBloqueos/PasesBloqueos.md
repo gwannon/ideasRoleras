@@ -74,7 +74,7 @@ Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador vetera
 
 \sp
 
-También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al agún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
+También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
 
 #### Receptor
 
@@ -196,31 +196,41 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 
 Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, ... para que se hagan una imagen mental de lo que se enfrentan.
 
-Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
+### Complicaaciones
+
+Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
+
+El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
 
 El árbitro también puede ser una complicación, quizas este comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
 
 El público también es una complicación interesante, no solo los del equipo contrario, también los tuyos. Los abucheos y los gritos de «Vete del campo, manta. No sirves para este deporte» duelen como tanto como los bloqueos. Puede lanzar cosas, pueden meterse en el campo a robar el balón o incluso puede haber una invasión de campo. Y no olvides que si ganan, esos fans se lanzarán a por ellos a llevarlos en volandas.
 
-Por último, mete todas las locuras que se te ocurran, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
+Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
 
-Es importante que no se repitan, quizas hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de forma diferente.
+Es importante que no se repitan, quizas hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
+
+### Cada más cerca y con menos tiempo
 
 **El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocinante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
 
-Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
-
 \sp
+
+Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
 
 Con el tiempo puede pasar lo mismo. Un pase superlargo puede ser instantáneo o permitir a tus jugadores hacer varias acciones para intentar hacer esa mítica jugada que no creían que saldría.
 
-Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Saca los que quieras y ves que te has pasado puedes recurrir a un mago que los ha teletransportado, a que estaban haciendo trampas y había jugadores de más en el campo o incluso a espontáneos del público. 
+Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Saca los que quieras y ves que te has pasado puedes recurrir a un mago que los ha teletransportado, a que estaban haciendo trampas y había jugadores de más en el campo o incluso a espontáneos del público.
+
+### Otras consideraciones
 
 La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
 
-**El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente.
+**El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente. El resto, gradas, banquillos, … son solo sitios de lo que pueden venir complicaciones.
 
-La épica es una parte importante del deporte y de este juego, anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
+Si ves perdida a tu mesa, puedes usar un truco visual muy divertido. Cuando sufran un fuerte bloqueo, mientras caen al suelo, el tiempo se ralentiza y le das al jugador tiempo de examinar alguna cosa que se les haya pasado por alto o quizás revivan algo que le dé alguna idea para seguir adelante.
+
+**La épica es una parte importante del deporte y de este juego,** anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
 
 Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fueras un locutor deportivo**, tanto para presentar las complicaciones como para narrar los resultados de las acciones y tiradas. Usas frases como «Contra todo pronóstico …», «¡Esto es increíble!», «En todos mis años de comentarista nunca …» o «Cuando nadie daba un euro por …» entre otras.
 
