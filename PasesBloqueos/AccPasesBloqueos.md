@@ -12,7 +12,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que definir 3 elementos:
 
-**Nombre.** Normalmente tienen dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …
+**Nombre.** Suelen tener dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …
 
 **Especie predominante.** La especie puede cualquiera de fantasía, enano, elfos, gnomos, orcos, … hasta de ciencia ficción, cíborgs, aliens, … Qué más da. 
 
@@ -60,11 +60,11 @@ Usando tu **bloqueo salvaje** puedes lanzarte contra varios oponentes y derribar
 #### Lanzador
 
 Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador veterano que trata de irse en toda su gloria.
-También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. Con tu **lanzamiento a la desesperada** puedes XXX. 
+También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al agún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
 
 #### Receptor
 
-XXX. Con tu **estirada épica** puedes XXX.
+XXX. Con tu **estirada épica** puedes XXX. Tu estirada puede acabar cayendo al barro y deslizándote hasta la línea de meta.
 
 #### Corredor
 
@@ -80,7 +80,7 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**, que normalmente estará asociada a tu posición. Quizás hayas hecho un tiro imposible de interceptar o cuando recibe un pase estás solo sin nadie alrededor.
-5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: XXX. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
+5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de forma segura? ¿Puedo derribarlo?. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
 
 ### Apoyos
 
@@ -144,9 +144,24 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 3. Alguien tiene una idea genial para salir victoriosos.
 4. Se propone hacer algún tipo de trampas para ganar.
 
-Una vez hecho esto, se ponen en posición y esperan el pitido del arbtro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explciarles como está el campo y que día hace, ... para que se hagan una imagen mental de lo que se enfrentan.
+Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, ... para que se hagan una imagen mental de lo que se enfrentan.
 
-XXX _TODO: Cómo encadenar complicaciones y que es importante no repetirlas, como llevar el tema de las yardas para mostrar lo cerca o lejos que están del éxito._
+Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
+
+El árbitro también puede ser una complicación, quizas este comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
+
+El público también es una complicación interesante, no solo los del equipo contrario, también los tuyos. Los abucheos y los gritos de «Vete del campo, manta. No sirves para este deporte» duelen como tanto como los bloqueos. Puede lanzar cosas, pueden meterse en el campo a robar el balón o incluso puede haber una invasión de campo. Y no olvides que si ganan, esos fans se lanzarán a por ellos a llevarlos en volandas.
+
+Por último, mete todas las locuras que se te ocurran, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
+
+Es importante que no se repitan, quizas hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de forma diferente.
+
+**El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocinante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
+
+Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
+Con el tiempo puede pasar lo mismo. Un pase superlargo puede ser instantáneo o permitir a tus jugadores hacer varias acciones para intentar hacer esa mítica jugada que no creían que saldría.
+
+Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Saca los que quieras y ves que te has pasado puedes recurrir a un mago que los ha teletransportado, a que estaban haciendo trampas y había jugadores de más en el campo o incluso a espontáneos del público. 
 
 La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
 
@@ -158,4 +173,9 @@ Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fuera
 
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/) y de [LANZAestudio](https://www.deviantart.com/lanzaestudio). Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
+Creado por [Gwannon](https://gwannon.com) y hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. 
+Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández.
+
+La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/) y de [LANZAestudio](https://www.deviantart.com/lanzaestudio).
+
+Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
