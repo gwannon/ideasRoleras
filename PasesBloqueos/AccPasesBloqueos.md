@@ -56,10 +56,10 @@ Eres el jugador más simple, tu misión es ayudar al resto y servir de carne de 
 Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, …
 
 Usando tu **bloqueo salvaje** puedes lanzarte contra varios oponentes y derribarlos e incluso enfrentarte de tú a tú con un tipo grande. 
-
 #### Lanzador
 
 Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador veterano que trata de irse en toda su gloria.
+
 También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. 
 
 Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
@@ -72,7 +72,9 @@ Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrap
 
 #### Corredor
 
-XXX. Tu **carrera audaz** te permite XXX.
+Eres una extraña mezcla entre un bloqueador y un receptor, fuerte y ágil, pero casi siempre solo. Esta posición suele ser muy propia de agentes libres que destacan por su individualismo y por los veteranos que tienen la experiencia y la maña para cumplir en esta posición.
+
+Tu **carrera audaz** te permite teniendo el balón lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
 
 ## Tiradas de dados
 
@@ -84,14 +86,13 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
 3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**, que normalmente estará asociada a tu posición. Quizás hayas hecho un tiro imposible de interceptar o cuando recibe un pase estás solo sin nadie alrededor.
-5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de forma segura? ¿Puedo derribarlo?. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
+5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de manera segura? ¿Puedo derribarlo?. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
 
 ### Apoyos
 
 Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
-No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
 
-## DJ: Cuando todos lo creían imposible …
+No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.## DJ: Cuando todos lo creían imposible …
 
 Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de estas simples tablas, pero siéntete libre de crear la jugada que tú creas. |1d6|Tiempo atmosférico|
 |---|---|
@@ -100,30 +101,22 @@ Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de 
 |3|**Ola de calor.** Correr es agotador y hay varios jugadores en la enfermería por golpes de calor.|
 |4|**Tiempo perfecto** para jugar a fútbol amoricano.|
 |5|**Mucho viento.** Los pases se vuelven muy imprecisos.|
-|6|**Muy soleado.** El sol te ciega muchas veces.||1d6|Equipo contrario|
-|---|---|
-|1|Enanos, elfos, medianos, gnomos|
-|2|Orcos, goblins, trasgos|
-|3|Humanos, nórdicos, bretones|
-|4|Elfos oscuros, enanos caóticos, semiorcos|
-|5|Hombres lagarto, hombre rata, hombres bestia|
-|6|No muertos, vampiros, momias|
-
-|1d6|Cómo va el partido|
-|---|---|
-|1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie dijo que esto fuera fácil. Los que se han reído de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
-|2|Extrañamente todos los jugadores fijos del equipo han sufrido maldición tras el descanso y están indispuestos. Os han sacado del fondo del banquillo y esta es vuestra única oportunidad de brillar y conseguir un puesto fijo en el equipo.|
-|3|Sois lo últimos jugadores literalmente vivos de vuestro campo. Si aguantáis hasta el final del tiempo, ganáis el partido.|
-|4|Estáis en defensa y vais perdiendo. Seguramente van a retener el balón hasta que termine el partido. Tenéis que encontrar una estrategia loca y suicida para robarles el balón y poder marcar.|
-|5|Habéis aceptado sobornos para dejaros ganar, pero en el último momento preferís la gloria de la victoria. Eso significa que los asesinos y magos mercenarios que ha contratado el mafioso de turno por si os echabais atrás entrarán en juego. Y seguro que han puesto precio a vuestra cabeza así que le equipo contrario va a ir a por todas.|
-|6|Los ánimos están caldeados y el público está a punto invadir el campo. Marcar no es imposible, pero una vez que lo hagáis no creéis que salgáis vivos de la invasión de campo.|[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")|1d6|Hinchadas|
+|6|**Muy soleado.** El sol te ciega muchas veces.||1d6|Hinchadas|
 |---|---|
 |1|Día de traer a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contrincantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes.|
 |2|Han regalado entradas y el estadio está lleno de personas que no saben muy bien de que va esto.|
 |3|Hooligans violentos y borrachos|
 |4|Hay una gran rivalidad y ambas hinchadas llevan todo el partido peleando.|
 |5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
-|6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.|1d6|Equipo ilegal y trampas|
+|6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
+|1d6|Equipo contrario|
+|---|---|
+|1|Enanos, elfos, medianos, gnomos|
+|2|Orcos, goblins, trasgos|
+|3|Humanos, nórdicos, bretones|
+|4|Elfos oscuros, enanos caóticos, semiorcos|
+|5|Hombres lagarto, hombre rata, hombres bestia|
+|6|No muertos, vampiros, momias||1d6|Equipo ilegal y trampas|
 |---|---|
 |1|Apisonadora enana|
 |2|Francotirador escondido en el techo del estadio|
@@ -132,13 +125,21 @@ Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de 
 |5|Trampa: hoyo con pinchos, cepo de osos, minas antipersona|
 |6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
 
-## DJ: Cómo dirigir una partida
+|1d6|Cómo va el partido|
+|---|---|
+|1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie dijo que esto fuera fácil. Los que se han reído de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
+|2|Extrañamente todos los jugadores fijos del equipo han sufrido maldición tras el descanso y están indispuestos. Os han sacado del fondo del banquillo y esta es vuestra única oportunidad de brillar y conseguir un puesto fijo en el equipo.|
+|3|Sois lo últimos jugadores literalmente vivos de vuestro campo. Si aguantáis hasta el final del tiempo, ganáis el partido.|
+|4|Estáis en defensa y vais perdiendo. Seguramente van a retener el balón hasta que termine el partido. Tenéis que encontrar una estrategia loca y suicida para robarles el balón y poder marcar.|
+|5|Habéis aceptado sobornos para dejaros ganar, pero en el último momento preferís la gloria de la victoria. Eso significa que los asesinos y magos mercenarios que ha contratado el mafioso de turno por si os echabais atrás entrarán en juego. Y seguro que han puesto precio a vuestra cabeza así que le equipo contrario va a ir a por todas.|
+|6|Los ánimos están caldeados y el público está a punto invadir el campo. Marcar no es imposible, pero una vez que lo hagáis no creéis que salgáis vivos de la invasión de campo.|[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")## DJ: Cómo dirigir una partida
 
 Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
 
 Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol.
 
 Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
+
 **En resumen, sea lo que sea debe sonar deportivamente equipo.**
 
 Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
@@ -148,14 +149,13 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 3. Alguien tiene una idea genial para salir victoriosos.
 4. Se propone hacer algún tipo de trampas para ganar.
 
-Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, ... para que se hagan una imagen mental de lo que se enfrentan.
+Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, … para que se hagan una imagen mental de lo que se enfrentan.
 
-### Complicaaciones
+### Complicaciones
 
 Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
 
 El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
-
 El árbitro también puede ser una complicación, quizas este comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
 
 El público también es una complicación interesante, no solo los del equipo contrario, también los tuyos. Los abucheos y los gritos de «Vete del campo, manta. No sirves para este deporte» duelen como tanto como los bloqueos. Puede lanzar cosas, pueden meterse en el campo a robar el balón o incluso puede haber una invasión de campo. Y no olvides que si ganan, esos fans se lanzarán a por ellos a llevarlos en volandas.
@@ -167,6 +167,7 @@ Es importante que no se repitan, quizas hagas 3 oleadas distintas de contrincant
 ### Cada más cerca y con menos tiempo
 
 **El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocinante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
+
 Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
 
 Con el tiempo puede pasar lo mismo. Un pase superlargo puede ser instantáneo o permitir a tus jugadores hacer varias acciones para intentar hacer esa mítica jugada que no creían que saldría.
@@ -178,7 +179,6 @@ Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Sa
 La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
 
 **El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente. El resto, gradas, banquillos, … son solo sitios de lo que pueden venir complicaciones.
-
 Si ves perdida a tu mesa, puedes usar un truco visual muy divertido. Cuando sufran un fuerte bloqueo, mientras caen al suelo, el tiempo se ralentiza y le das al jugador tiempo de examinar alguna cosa que se les haya pasado por alto o quizás revivan algo que le dé alguna idea para seguir adelante.
 
 **La épica es una parte importante del deporte y de este juego,** anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
