@@ -367,3 +367,4 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi ninguno de tus dados tiene éxito, algo salió mal.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSuelen tener dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …\\E$"}
 {"rule":"TOO_LONG_SENTENCE","sentence":"^\\QPor último, mete todas las locuras que se te ocurran, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QCon tu estirada épica puedes lanzarte a la desesperada para tratar de atrapar un pase imposible sin importarte tu seguridad física.\\E$"}

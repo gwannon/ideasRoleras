@@ -78,7 +78,7 @@ También el novato que acaba de entrar porque el lanzador oficial ha perdido su 
 
 #### Receptor
 
-XXX. Con tu **estirada épica** puedes XXX. Tu estirada puede acabar cayendo al barro y deslizándote hasta la línea de meta.
+XXX. Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrapar un pase imposible sin importarte tu seguridad física. Pero no tiene por qué acabar ahí, tu estirada puede acabar en una voltereta acrobática que te permite evadir a tus defensores o cayendo al barro y deslizándote hasta la línea de meta.
 
 #### Corredor
 
