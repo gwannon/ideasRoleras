@@ -60,11 +60,15 @@ Usando tu **bloqueo salvaje** puedes lanzarte contra varios oponentes y derribar
 #### Lanzador
 
 Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador veterano que trata de irse en toda su gloria.
-También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
+También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. 
+
+Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
 
 #### Receptor
 
-XXX. Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrapar un pase imposible sin importarte tu seguridad física. Pero no tiene por qué acabar ahí, tu estirada puede acabar en una voltereta acrobática que te permite evadir a tus defensores o cayendo al barro y deslizándote hasta la línea de meta.
+Lo tuyo es esquivar, zafarte, correr deprisa, saltar y tener unas buenas manos. En el momento que te cogen eres carne picada, pero eres más difícil de coger que un cerdo engrasado. El agente libre y el veterano no suelen ser receptores, este puesto se reserva muchas veces para el novato, ese pequeño que lo que le falta de fuerza y tamaño lo suple con valentía y agilidad.
+
+Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrapar un pase imposible sin importarte tu seguridad física. Pero no tiene por qué acabar ahí, tu estirada puede acabar en una voltereta acrobática que te permite evadir a tus defensores o cayendo al barro y deslizándote hasta la línea de meta.
 
 #### Corredor
 
@@ -85,8 +89,8 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 ### Apoyos
 
 Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
-
 No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
+
 ## DJ: Cuando todos lo creían imposible …
 
 Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de estas simples tablas, pero siéntete libre de crear la jugada que tú creas. |1d6|Tiempo atmosférico|
