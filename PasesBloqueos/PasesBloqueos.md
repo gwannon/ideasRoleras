@@ -173,7 +173,7 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 |---|---|
 |1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie dijo que esto fuera fácil. Los que se han reído de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
 |2|Extrañamente todos los jugadores fijos del equipo han sufrido maldición tras el descanso y están indispuestos. Os han sacado del fondo del banquillo y esta es vuestra única oportunidad de brillar y conseguir un puesto fijo en el equipo.|
-|3|Sois lo últimos jugadores literalmente vivos de vuestro campo. Si aguantáis hasta el final del tiempo, ganáis el partido.|
+|3|Sois lo últimos jugadores literalmente vivos de vuestro equipo. Si aguantáis hasta el final del tiempo, ganáis el partido.|
 |4|Estáis en defensa y vais perdiendo. Seguramente van a retener el balón hasta que termine el partido. Tenéis que encontrar una estrategia loca y suicida para robarles el balón y poder marcar.|
 |5|Habéis aceptado sobornos para dejaros ganar, pero en el último momento preferís la gloria de la victoria. Eso significa que los asesinos y magos mercenarios que ha contratado el mafioso de turno por si os echabais atrás entrarán en juego. Y seguro que han puesto precio a vuestra cabeza así que le equipo contrario va a ir a por todas.|
 |6|Los ánimos están caldeados y el público está a punto invadir el campo. Marcar no es imposible, pero una vez que lo hagáis no creéis que salgáis vivos de la invasión de campo.|
@@ -194,7 +194,7 @@ Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a 
 
 Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
 
-**En resumen, sea lo que sea debe sonar deportivamente equipo.**
+**En resumen, sea lo que sea debe sonar deportivamente épico.**
 
 Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
 
@@ -221,7 +221,7 @@ Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, a
 
 Es importante que no se repitan, quizas hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
 
-### Cada más cerca y con menos tiempo
+### Cada vez más cerca y con menos tiempo
 
 **El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocinante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
 
@@ -253,3 +253,5 @@ Parte de los textos se han extraído de la traducción al castellano de hecha po
 La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/) y de [LANZAestudio](https://www.deviantart.com/lanzaestudio).
 
 Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
+
+Se agradecen las correcciones de [@kinderwebo](https://bsky.app/profile/kinderwebo.eurosky.social).
