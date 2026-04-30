@@ -64,7 +64,7 @@ Eres el jugador más simple, tu misión es ayudar al resto y servir de carne de 
 
 #### Bloqueador
 
-Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizas marcar algún punto, hacer una gran carrera, …
+Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizás marcar algún punto, hacer una gran carrera, …
 
 Usando tu **bloqueo salvaje** puedes lanzarte contra varios oponentes y derribarlos e incluso enfrentarte de tú a tú con un tipo grande. 
 
@@ -103,7 +103,7 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 
 \sp
 
-5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de manera segura? ¿Puedo derribarlo?. Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
+5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de manera segura? ¿Puedo derribarlo? Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
 
 ### Apoyos
 
@@ -213,17 +213,17 @@ El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy prob
 
 \sp
 
-El árbitro también puede ser una complicación, quizas este comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
+El árbitro también puede ser una complicación, quizás esté comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
 
 El público también es una complicación interesante, no solo los del equipo contrario, también los tuyos. Los abucheos y los gritos de «Vete del campo, manta. No sirves para este deporte» duelen como tanto como los bloqueos. Puede lanzar cosas, pueden meterse en el campo a robar el balón o incluso puede haber una invasión de campo. Y no olvides que si ganan, esos fans se lanzarán a por ellos a llevarlos en volandas.
 
 Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
 
-Es importante que no se repitan, quizas hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
+Es importante que no se repitan, quizás hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
 
 ### Cada vez más cerca y con menos tiempo
 
-**El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocinante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
+**El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocionante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
 
 Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
 
@@ -233,7 +233,7 @@ Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Sa
 
 ### Otras consideraciones
 
-La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Quizas puedan pasarse algunas señas, pero de cosas muy básicas.
+La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Tal vez puedan pasarse algunas señas, pero de cosas muy básicas.
 
 **El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente. El resto, gradas, banquillos, … son solo sitios de lo que pueden venir complicaciones.
 
