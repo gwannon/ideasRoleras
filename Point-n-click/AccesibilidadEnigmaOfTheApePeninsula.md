@@ -281,21 +281,21 @@ Boiled Crab tavern is still just as dirty and filthy, and in the background, the
 
 As soon as they see them approaching, they'll see an opportunity to saddle some poor, unsuspecting players with the mess. So, with a lot of smooth talk, they'll offer them a real ship for their piracy if they agree to rescue the governor and recover the lost money.
 
-Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que solo podrían ver con la _**lupa de Lulock Holmes**_ que tiene _**Maxine la roja**_ en su _**tienda de souvenirs**_ y que no les dejará sacar, pero puede ser divertido que lo intenten hasta que se aburran y firme el contrato.
+They'll pull out a _**contract for work and service**_ with super small print, which they could only see with the _**Lulock Holmes magnifying glass**_ that _**Maxine the Red**_ has in her _**souvenir shop**_ and which she won't let them take, but it might be fun for them to try until they get bored and sign the contract.
 
 El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
 
-Para animarles a firmar, les contarán que puede que encuentren el mítico tesoro, el Mac’n Cheese, ya que DraChuckla lo busca ahora mismo en la península y si encuentran al vampirata, igual de rebote encuentran el tesoro.
+To encourage them to sign, they'll be told that they might find the mythical treasure, Mac’n Cheese, since DraChuckla is searching for it right now on the peninsula, and if they find the vampirate, they might just stumble upon the treasure as a bonus.
 
-Como consejo final les dirán que vayan a hablar con el conde del vudú _**Alfonsé**_ en el _**pantano**_ para más información sobre DraChuckla y la Península del Simio.
+Finally, they'll tell you to go talk to the Voodoo Count, _**Alfonsé**_, at the _**swamp**_ for more information about DraChuckla and the Ape Peninsula.
 
-En una esquina hay un chaval joven muy borracho con una camiseta que pone «¿Problemas? Alfonsé, el conde vudú, es la solución». Parece un _**repartidor de folletos**_ que trabaja para Alfonsé.
+In one corner, there's a very drunk young guy wearing a t-shirt that says, "Problems? Alfonsé, the Voodoo Count, is the solution." He looks like a _**leaflet distributor**_ hired by Alfonsé.
 
-#### El vómito del Kraken
+#### Kraken's puke
 
-Ahora podrán encontrar en el _**puerto**_ el _**Vómito del Kraken**_, el barco pirata que las 3 _**Jefas Piratas**_ les han entregado. A lo lejos parece tener una pinta impresionante, pero cuando suban a él verán que todo es cartón y trampa. De hecho, solo han pintado un lado del barco porque es el único que ven los turistas cuando pasa a lo lejos.
+Now you can find the _**Kraken's Puke**_ in the _**harbour**_, the pirate ship that the three _**Pirate Ladybosses**_ have given you. From a distance, it looks impressive, but when you board it, you'll see that it's all cardboard and a trick. In fact, they've only painted one side of the ship because that's the only side tourists see when it passes by in the distance.
 
-En la cubierta principal se encontrarán con la _**Señorita Bridalis**_. _**Bridalis**_ trabaja para la «Comisión por el desarrollo turístico de Bucan Ville», dependiente del «Gremio de Piratas de Bucan Ville», dirigido a su vez por las _**Jefas Piratas**_. _**Bridalis**_ se encarga del mantenimiento del barco y de hacer los shows piratas para los turistas que visitan la isla.
+On the main deck, you'll meet _**Miss Bridalis**_. _**Bridalis**_ works for the Bucan Ville Tourism Development Commission, which is part of the Bucan Ville Pirate Guild, run by the Pirate Bosses. _**Bridalis**_ is in charge of the ship's maintenance and putting on pirate shows for the tourists who visit the island.
 Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pone voces, de manera que desde el exterior parece que el barco está lleno de tripulantes, pero solo está pilotado por ella. Tienes varios piratas famosos que sabe imitar a la perfección y de los que tiene un buen disfraz.
 
 Habla con muchísimo acento pirata y está tan metida en el papel que, si no le hablas con igual acento, no te entiende.
