@@ -271,17 +271,15 @@ According to _**Alfonsé**_, the only way to defeat Captain DraChuckla is by usi
 
 In the third and final scene, they must cross the Caribbean Sea to reach the _**Ape Peninsula, following the instructions of the _**oracle bones**_ given to them by the Voodoo Count.
 
-### 1. Mi primer barco pirata
+### 1. My first pirate ship
 
-¿Y ahora qué? Vuestro plan de robar al gobernador se ha ido al garete, así que habrá que buscarse un plan B.
+So what now? Your plan to rob the governor has fallen through, so we'll have to come up with a plan B.
 [![Glowing Horizons By Fatbeard91](./images/glowing_horizons_by_fatbeard91_dhqf00b-414w-2x.jpg "Glowing Horizons By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Glowing-Horizons-1072294859 "Glowing Horizons By Fatbeard91")
-Recuérdales lo que decía tu viejo tío Vizzini «Si algo sale mal, vuelve al principio». Así que deberían ir al _**Cangrejo Cocido**_ a ver que se rumorea entre los parroquianos de la taberna.
+Remind them of what Vizzini from Princess Bride used to say: «When a job went wrong, you went back to the beginning.» So they should head over to the _**Boiled Crab**_ and see what the barflies are saying.#### Boiled Crab tavern
 
-#### La taberna del Cangrejo Cocido
+Boiled Crab tavern is still just as dirty and filthy, and in the background, the three _**Pirate Lady Bosses**_ are talking amongst themselves. It seems they've been doing «jobs» for Governor Marlon's pre-election campaign and haven't been paid yet, so they're more interested in saving the kidnapped governor and the money DraChuckla stole.
 
-El Cangrejo Cocido sigue igual de sucio y mugriento y al fondo las 3 _**Jefas Piratas**_ hablan entre ellas. Parece ser que han estado haciendo «trabajos» para el gobernador Marlon precampaña electoral y todavía no los han cobrado con lo que les interesa salvar al secuestrado gobernador y el dinero que robó DraChuckla.
-
-En cuanto les vean acercarse verán una posibilidad de encasquetarle el marrón a unas pobres incautas, tus jugadoras. Así que con mucha verborrea, les ofrecerán un barco de verdad para sus piraterías, si aceptan rescatar al gobernador y recuperar el dinero perdido.
+As soon as they see them approaching, they'll see an opportunity to saddle some poor, unsuspecting players with the mess. So, with a lot of smooth talk, they'll offer them a real ship for their piracy if they agree to rescue the governor and recover the lost money.
 
 Sacarán un _**contrato por obra y servicio**_ con una letra superpequeña, que solo podrían ver con la _**lupa de Lulock Holmes**_ que tiene _**Maxine la roja**_ en su _**tienda de souvenirs**_ y que no les dejará sacar, pero puede ser divertido que lo intenten hasta que se aburran y firme el contrato.
 
