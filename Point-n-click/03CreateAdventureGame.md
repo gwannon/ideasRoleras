@@ -106,7 +106,7 @@ Each scene will have one or more challenges and one or more screens. Creating a 
 
 The easiest way to record all of this is to create a diagram of the screens with their clickable items and the NPCs on them. You should also note how the screens connect, which connections can be used, and which connections are closed and need to be opened.
 
-The adventure «The Enigma of the Monkey Peninsula» shows you how to create this diagram.
+The adventure «The Enigma of the Ape Peninsula» shows you how to create this diagram.
 
 #### Challenges, Riddles, and Mini-Puzzles
 

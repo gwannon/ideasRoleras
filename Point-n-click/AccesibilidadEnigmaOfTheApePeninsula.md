@@ -195,7 +195,7 @@ Once they've managed to break into the governor's vault and are swimming in gold
 As they recover from the explosion, they'll see the fearsome vampire captain DraChuckla enter through the hole with his ghoul henchmen to seize their loot while laughing at them.
 He'll approach the player characters, pluck a hair from each of them, and stick them to voodoo dolls, saying, "Just in case you become a problem," and then they'll fall unconscious.
 
-When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon bound and gagged.## Resumen del disquete I
+When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon tied and gagged.## Resumen del disquete I
 
 ### Astilleros
 
@@ -296,17 +296,17 @@ In one corner, there's a very drunk young guy wearing a t-shirt that says, "Prob
 Now you can find the _**Kraken's Puke**_ in the _**harbour**_, the pirate ship that the three _**Pirate Ladybosses**_ have given you. From a distance, it looks impressive, but when you board it, you'll see that it's all cardboard and a trick. In fact, they've only painted one side of the ship because that's the only side tourists see when it passes by in the distance.
 
 On the main deck, you'll meet _**Miss Bridalis**_. _**Bridalis**_ works for the Bucan Ville Tourism Development Commission, which is part of the Bucan Ville Pirate Guild, run by the Pirate Bosses. _**Bridalis**_ is in charge of the ship's maintenance and putting on pirate shows for the tourists who visit the island.
-Durante los shows _**Bridalis**_ se mueve superrápido, se cambia de traje y pone voces, de manera que desde el exterior parece que el barco está lleno de tripulantes, pero solo está pilotado por ella. Tienes varios piratas famosos que sabe imitar a la perfección y de los que tiene un buen disfraz.
+During the shows, _**Bridalis**_ moves incredibly fast, changes outfits, and uses different voices, so from the outside it looks like the ship is full of crew, but she's the only one piloting it. She has several famous pirates she can perfectly imitate and for whom she has excellent costumes.
 
-Habla con muchísimo acento pirata y está tan metida en el papel que, si no le hablas con igual acento, no te entiende.
+She speaks with a very strong pirate accent and is so immersed in the role that if you don't speak to her with the same accent, she won't understand you.
 
-_**Bridalis**_ les dirá que tiene el barco preparado para zarpar, pero antes deberían averiguar o conseguir alguna pista sobre donde está la Península del Simio. Tal vez el poderoso conde vudú _**Alfonsé**_ que vive en el pantano pueda ayudarles. A su madre le hizo desaparecer una verruga con pelos que tenía en la espalda, así que su eficacia como brujo está probada.
+_**Bridalis**_ will tell them that the ship is ready to set sail, but first they should find out or get some clue about where the Ape Peninsula is. Perhaps the powerful voodoo count _**Alfonsé**_, who lives in the swamp, can help them. He made a hairy wart on his mother's back disappear, so his effectiveness as a sorcerer is proven.
 
-### 2. La senda del vudú
+### 2. The path of the voodoo
 
-La única manera de llegar a choza de _**Alfonsé**_ es conseguir uno de sus panfletos publicitarios que explica como llegar. El problema es que el _**repartidor**_ que ha contratado los ha repartido ya todos y no puede dar ninguno a tus jugadoras. En realidad los ha tirado todos en el pantano y se ha ido a empapuzarse de grog de bañera en el _**Cangrejo Cocido**_.
+The only way to get to _**Alfonsé**_ hut is to get one of his flyers explaining how to get there. The problem is, the _**distributor**_ he hired has already given them all out and can't give any to your players. In fact, he threw them all in the swamp and went to get drunk with grog at the _**Boiled Crab**_.
 
-Por mucho que busquen, no van a encontrar _**panfletos de publicidad de Alfonsé**_, solo hay uno y está en la _**tienda souvenirs**_.
+No matter how hard you look, you won't find any more of _**Alfonsé's flyers**_; there's only one, and it's in the _**souvenir shop**_.
 
 #### Tienda de souvenirs
 
