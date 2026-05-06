@@ -50,7 +50,7 @@ Si no hay huellas, es que el asesino está en la cueva (tan-tan-chan todos se mi
 
 ## Interrogar a posibles testigos
 
-Yen este punto pasamos a interrogar a los testigos y sospechosos e interrogar no es golpear con la cachiporra hasta que confiese, es hacer preguntas de 3 palabras y recibir respuestas de 3 palabras mezclándolo todo con amenazas de 3 palabras y súplicas de 3 palabras. Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
+Y en este punto pasamos a interrogar a los testigos y sospechosos e interrogar no es golpear con la cachiporra hasta que confiese, es hacer preguntas de 3 palabras y recibir respuestas de 3 palabras mezclándolo todo con amenazas de 3 palabras y súplicas de 3 palabras. Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
 
 |Pregunta|Respuesta|Respuesta con pista|
 |---|---|---|

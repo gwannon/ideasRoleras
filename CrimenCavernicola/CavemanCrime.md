@@ -12,15 +12,15 @@ If you don't care, Brubo will die the following night, and Kruka the night after
 
 ## Investigating the corpse
 
-Hacerle una autopsia a un cadáver es difícil si eres un cavernícola, solo tienes un trozo de obsidiana afilada y no controlas el fuego, pero, si son ingeniosos, se pueden hacer cosas. Veamos algunos ejemplos posibles.
+Performing an autopsy on a corpse is difficult if you're a caveman, you only have a sharp piece of obsidian and you don't control fire, but if you're resourceful, things can be done. Let's look at some possible examples.
 
-De primeras, al moverlo, verán una gran herida en alguna parte de cuerpo, tal vez un gran traumatismo en el cráneo o unas grandes laceraciones en la espalda. 
+First, upon moving the body, you'll see a large wound somewhere, perhaps a major head injury or large lacerations on the back.
 
-Hasta un cavernícola sabe que esa es la causa de la muerte. Esto es así porque si lo hubiese envenenado o asfixiado, no podrían saberlo de ninguna manera. Cosas de no tener ciencia criminológica.
+Even a caveman knows that this is the cause of death. This is because if the person had been poisoned or suffocated, they wouldn't be able to tell at all. Such is the nature of not having forensic science.
 
-También tendrán que hacer el recuento de partes del cuerpo para comprobar que no le falta ninguna. Está claro que si le faltan las piernas, pues no ha muerto de una indigestión. 
+They'll also have to count the body parts to make sure nothing is missing. Obviously, if the legs are missing, then it didn't die of indigestion.
 
-Pueden **buscar cosas con las que hayan podido matar a Grogui** y golpear con ellas al cadáver, a otros bichos (que tendrán que cazar) o a ellos mismos (recibiendo daño) a ver si se parecen las heridas.
+They can **look for things that could have been used to kill Grogui** and hit the corpse, other creatures (which they'll have to hunt), or themselves (injuring themselves) with them to see if the wounds are similar.
 
 \sc
 
@@ -56,7 +56,7 @@ Si no hay huellas, es que el asesino está en la cueva (tan-tan-chan todos se mi
 
 ## Interrogating potential witnesses
 
-Yen este punto pasamos a interrogar a los testigos y sospechosos e interrogar no es golpear con la cachiporra hasta que confiese, es hacer preguntas de 3 palabras y recibir respuestas de 3 palabras mezclándolo todo con amenazas de 3 palabras y súplicas de 3 palabras. Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
+Y en este punto pasamos a interrogar a los testigos y sospechosos e interrogar no es golpear con la cachiporra hasta que confiese, es hacer preguntas de 3 palabras y recibir respuestas de 3 palabras mezclándolo todo con amenazas de 3 palabras y súplicas de 3 palabras. Estas son posibles preguntas que tus cavernícolas pueden hacer y lo que los testigos podrán decirles.
 
 |Question|Anwser|Anwser with clue|
 |---|---|---|
@@ -105,11 +105,11 @@ From there, your cave dweller must develop a theory and try to prove it with wha
 
 ## The murderer is someone in this cave
 
-Cuando consigan el quién, cómo y por qué (el dónde es la cueva y el cuándo fue esta noche), tendrán que **reunir a todo los sospechosos y al resto de la cueva** que no se quiere ir de la cueva porque son unos cotillas. 
+Once they've figured out the who, how, and why (the where is the cave and when it happened tonight), they'll have to **gather all the suspects and the rest of the cave dwellers** who don't want to leave because they're very gossipy.
 
-Tendrán que explicar toda la trama del asesinato usando **3 frases de 3 palabras para cada pregunta (quién, cómo y por qué)**. Si se alargan más, la gente perderá interés y empezarán a mirar el fuego, comerse los piojos de sus compañeros o salir a mear a la entrada de la caverna.
+They'll have to explain the whole murder plot using **three three-word sentences for each question (who, how, and why)**. If they drag it out any longer, people will lose interest and start staring at the fire, eating their companions' louses, or going outside to pee.
 
-Para ayudar, mientras uno de tus cavernícolas habla, otros **pueden hacer ruidos, sonidos de animales o sacar y mostrar las pruebas del crimen**. Nada anima más estas cosas que sacar una cabeza de _como-hombres_ y acercarla a los niños para que griten aterrados.
+To help, while one of your cavemen is talking, others **can make noises, animal sounds, or bring out and show evidence of the crime**. Nothing livens things up more than pulling out a man-like head and holding it up to the children so they scream in terror.
 
 ## Action Scenes
 

@@ -21,3 +21,11 @@ pdftk './temp.pdf' update_info_utf8 './CavemanCrime.txt' output '../CavemanCrime
 rm ./CavemanCrime.html
 rm ./CavemanCrime.txt
 rm ./temp.pdf
+
+php ./generateDocs.php CavemanCrimeBW
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./CavemanCrimeBW.html
+pdftk './temp.pdf' update_info_utf8 './CavemanCrimeBW.txt' output '../CavemanCrimeBW.pdf' compress
+rm ./CavemanCrimeBW.html
+rm ./CavemanCrimeBW.txt
+rm ./AccCavemanCrimeBW.md
+rm ./temp.pdf

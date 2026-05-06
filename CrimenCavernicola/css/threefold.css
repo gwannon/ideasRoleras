@@ -58,14 +58,16 @@ body:after {
   padding: 0;
 }
 
-body#CrimenCavernicolaBW {
+body#CrimenCavernicolaBW,
+body#CavemanCrimeBW {
   --main-color: #000000;
   --secondary-color: #cecece;
   --accent-color: #000000;
   --background-color: #ffffff;
 }
 
-body#CavemanCrime {
+body#CavemanCrime,
+body#CavemanCrimeBW {
   font-size: 11.4px;
 }
 

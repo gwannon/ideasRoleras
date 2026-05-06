@@ -65,7 +65,7 @@ if($argv[1] == 'CrimenCavernicola' || $argv[1] == 'CrimenCavernicolaBW') {
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
   $metas .= "InfoValue: rpg, ttrpg, caveman, whodunit\n\n";
-} else if($argv[1] == 'CavemanCrime') {
+} else if($argv[1] == 'CavemanCrime' || $argv[1] == 'CavemanCrimeBW') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: «Murder, she painted in the walls of the cave» by Gwannon - Ver. 1.0\n\n";
   $metas .= "InfoKey: Subject\n";
