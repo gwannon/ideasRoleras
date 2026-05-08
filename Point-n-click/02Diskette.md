@@ -63,23 +63,23 @@ The only way to get to _**Alfonsé**_ hut is to get one of his flyers explaining
 
 No matter how hard you look, you won't find any more of _**Alfonsé's flyers**_; there's only one, and it's in the _**souvenir shop**_.
 
-#### Tienda de souvenirs
+#### Souvenir Shop
 
-El único _**panfleto**_ que pueden conseguir ahora mismo es uno que le firmo el famoso pirata François «El Olones» a _**Maxine la roja**_. Esta lo guarda en una vitrina de su _**tienda de souvenirs**_ como oro en paño. No quiere desprenderse de él.
+The only _**leaflet**_ you can get right now is one signed by the famous pirate François l'Olonnais for Maxine the Red. She keeps it in a display case in her _**souvenir shop**_ like it's royal jewels. She doesn't want to sell or lend it.
 
-Si les quedan e intentan algún truco con los _**vales de descuento**_, les enseñará que ya han caducado y no pueden usarlos.
+If you try any tricks with the _**discount vouchers**_, she'll show you they've expired and you can't use them.
 
-La única forma de que les dé el _**folleto**_ es que les consiga una foto firmada de otro gran pirata, para lo que les dará una [cámara de fotos Polaroid](https://es.wikipedia.org/wiki/C%C3%A1mara_instant%C3%A1nea). Y la única manera de conseguir la foto de un pirata famoso es hacer que _**Bridalis**_ se ponga uno de sus disfraces de piratas famosos y luego firme la foto. Se mete tanto en el personaje que incluso sabe firmar como ellos.
+The only way she'll give you the _**leaflet**_ is if you get her a signed photo of another famous pirate, for which she'll give you a [Polaroid camera](https://en.wikipedia.org/wiki/Instant_camera). And the only way to get a photo of a famous pirate is to have _**Bridalis**_ put on one of her famous pirate costumes and then sign the photo. She gets so into character that she even knows how to sign her name like them.
 
-Según entreguen la foto, _**Maxine**_ debería inventarse alguna historia escabrosa/picante que tuvo con el personaje fotografiado.
+Depending on the photo they receive, _**Maxine**_ should invent some scandalous/spicy story she had with the person in the picture.
 
-Si se ponen ingeniosas, igual pueden convencer a _**Alfonsé**_, el conde del vudú, para que les haga una sesión de espiritismo con alguna pirata famosa y que les firme algo poseyendo al médium.
+If they get creative, they might even convince _**Alfonsé**_, the Voodoo Count, to hold a séance for them with a famous pirate and have her sign something while possessing the medium.
+
+#### The Swamp
+
+The swamp is a labyrinth that is impossible to navigate without the proper directions, namely, _**Alfonsé's leaflet**_. If you enter without it, you will navigate through three screens with four exits before finally escaping the swamp.
 
 \sp
-
-#### El pantano
-
-El pantano es un laberinto que es imposible atravesar sin las indicaciones adecuadas, es decir, el _**folleto de Alfonsé**_. Si entran sin el folleto se moverán por 3 pantallas con 4 salidas para terminar saliendo del pantano.
 
 **No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla.
 
@@ -101,9 +101,9 @@ Tras dar muchas vueltas y vueltas a la conversación, si son persistentes, le sa
 * Todo el mundo sabe que el _**Mac’n Cheese**_ está escondido en la península del Simio, el problema es encontrar la península. Para encontrarla debes usar los _**huesos vudú**_ y resolver su misterio.
 * La única manera de contrarrestar los muñecos vudú que hizo DraChuckla de ellas es destruirlas.
 
-\sp
-
 Como ya hemos dicho, si tus jugadoras son descorteses, puede convertirlas en gallina durante unos minutos. La _**gallina**_ puede meterse en el equipo y al poco de sacarse se volverá a convertirse en persona. Seguramente traten de solucionar algún reto con esta opción y si son creativos podrían usarlo.
+
+\sp
 
 El conde del vudú hace mucho hincapié en que los _**huesos**_ son «huesos del oráculo» no «huesos oráculo» (guiño, guiño, golpe, golpe). Vamos, que son huesos humanos, exactamente de un vidente llamado Tom «el bidente» por tener solo dos dientes.
 
@@ -114,8 +114,6 @@ Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfl
 Esta escena es un puzzle en el que deberán usar los _**huesos del oráculo**_. Los huesos son 9 dados de 6 caras con puntos en vez de números. Para invocar al oráculo deben conseguir la siguiente figura que representa una calavera. En ese momento aparecerá el oráculo y les guiará a la península del simio.
 
 La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo.
-
-\sc
 
 Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Luego deberán conseguir dibujar la calavera con el número exacto de movimiento. Pueden deshacer un movimiento gastando un píxel.
 
@@ -148,7 +146,7 @@ Los nuevos elementos están en cursiva.
 
 #### Puerto
 
-* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _El vómito del Kraken_, Casa del Gobernador (Exterior)
+* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _Kraken's puke_, Casa del Gobernador (Exterior)
 
 #### Taberna del Cangrejo Cocido
 
@@ -156,7 +154,7 @@ Los nuevos elementos están en cursiva.
 * **Elementos clicables:** _Contrato por obra y servicio_
 * **Conexiones:** Puerto
 
-#### Tienda de Souvenirs
+#### Souvenir Shop
 
 * **NPC:** Maxine la roja
 * **Elementos clicables:** Lupa de Lulock Holmes, _Folleto de Alfonsé firmado por François «El Olones»_, _Cámara Polaroid_
@@ -166,7 +164,7 @@ Los nuevos elementos están en cursiva.
 
 ### Nuevas pantallas de Bucan Ville
 
-#### El vómito del Kraken
+#### Kraken's puke
 
 * **NPC:** Señorita Bridalis
 * **Conexiones:** Puerto
@@ -185,7 +183,7 @@ Los nuevos elementos están en cursiva.
 
 \sinc
 
-### Mapa de la isla
+### Map of the island
 
 &nbsp;
 
@@ -195,6 +193,6 @@ Los nuevos elementos están en cursiva.
 
 &nbsp;
 
-_Nuevas ubicaciones en naranja_
+_New locations in orange_
 
 \conc
