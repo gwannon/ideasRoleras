@@ -1,7 +1,7 @@
 
 
 # The enigma of the Ape Peninsula
-> Version 1.0 | December 2025
+> Version 1.0 | May 2025
 _Deep in the Caribbean lies a peninsula surrounded by water on all sides, called the Ape Peninsula. Venture into its dark grottoes, dense jungles, and well-stocked gift and souvenir shops to become a true buccaneer._
 
 _You'll have to face zombie ships, vampire pirate captains, talking shrunken heads, and plenty of apes, using your intelligence, your wit, and the powerful, sometimes explosive, magic of voodoo._
