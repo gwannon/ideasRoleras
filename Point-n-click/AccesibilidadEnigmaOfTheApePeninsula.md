@@ -323,17 +323,17 @@ If they get creative, they might even convince _**Alfonsé**_, the Voodoo Count,
 #### The Swamp
 
 The swamp is a labyrinth that is impossible to navigate without the proper directions, namely, _**Alfonsé's leaflet**_. If you enter without it, you will navigate through three screens with four exits before finally escaping the swamp.
-**No hay nada en el pantano que indique el camino**, pero si quieres tenerlos entretenidos, mete alguna pista falsa. Puedes meter una hierba de cierto color especial en alguno de los caminos o un cocodrilo que se escapa por una salida cuando entran los jugadores. Tratarán de encontrarle la lógica y de reproducirla.
+**There's nothing in the swamp to mark the way**, but if you want to keep them entertained, throw in a few red herrings. You could place a special-colored herb along one of the paths or a crocodile that escapes through an exit when the players enter. They'll try to figure out the logic and recreate it.
 
-Si tienen el _**folleto**_, simplemente tendrán que seguir las indicaciones del folleto. Serán 3 direcciones, Norte (arriba), Sur (abajo), Este (derecha) y Oeste (izquierda). A la cuarta pantalla llegarán a la _**guarida de Alfonsé**_.
+If they have the _**leaflet**_, they simply have to follow the directions. There will be three directions: North (up), South (down), East (right), and West (left). On the fourth screen, they'll reach _**Alfonsé's lair**_.
 
-Si quieres complicárselo, podrías hacer que cuando entren en cualquier pantalla del pantano lo hagan por la derecha y que las indicaciones tengan que ser en referencia a la entrada. Es decir, si la primera se meten por el norte (arriba), aparecerán por la derecha con lo que el norte estaría saliendo por la izquierda en vez de saliendo por arriba y este estaría arriba, oeste abajo y sur por donde han venido.
+If you want to make it more challenging, you could have them enter any swamp screen from the right, and the directions must be referenced to the entrance. That is, if they first enter from the north (up), they'll appear on the right, meaning north would be exiting to the left instead of from above, east would be above, west below, and south the way they came.
 
-Tus jugadoras pueden pensar fuera de la caja y querer quitarle la borrachera al _**repartidor de publicidad**_ para que les diga el camino a la _**guarida**_. Es una opción interesante y puedes hacer que, por ejemplo, _**Sam**_ tenga una jarra gigante de café en el _**astillero**_.
+Your players might think outside the box and try to sober up the _**leaflet distributor**_ so he'll tell them the way to the **lair**. It's an interesting option, and you could, for example, have **Sam** have a giant coffee pot in the **shipyard**.
 
-#### La guarida de Alfonsé
+#### Alfonsé's lair
 
-Al salir del pantano llegarán a una de marjales tan frondosos que casi no dejan pasar la luz. En un trono con forma de calavera y rodeado de velas encendidas, incensarios y montones de quincallería vudú está _**Alfonsé**_, el conde vudú de los pantanos. Es un poderoso brujo que puede convertir a tus jugadoras en gallina durante unos segundos, si son descorteses con él.
+Upon leaving the swamp, they will reach a marshland so dense that it barely lets the light through. On a throne shaped like a skull, surrounded by lit candles, incense burners, and piles of voodoo paraphernalia, sits _**Alfonsé**_, the voodoo count of the swamps. They is a powerful sorcerer who can turn your players into chickens for a few seconds if they are rude to him.
 
 Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac’n Cheese**_, pero a él no le mueve el dinero, etc.
 
@@ -364,7 +364,7 @@ _**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en s
 
 Si siguen las coordenadas que les dé _**Tom «el bidente»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.## Resumen del disquete II
 
-### Pantallas actualizadas
+### Updated screens
 
 Los nuevos elementos están en cursiva.
 
@@ -375,7 +375,7 @@ Los nuevos elementos están en cursiva.
 
 #### Puerto
 
-* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _El vómito del Kraken_, Casa del Gobernador (Exterior)
+* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _Kraken's puke_, Casa del Gobernador (Exterior)
 
 #### Taberna del Cangrejo Cocido
 
@@ -390,7 +390,7 @@ Los nuevos elementos están en cursiva.
 * **Conexiones:** Centro de Bucan Ville
 ### Nuevas pantallas de Bucan Ville
 
-#### Kraken's
+#### Kraken's puke
 
 * **NPC:** Señorita Bridalis
 * **Conexiones:** Puerto
