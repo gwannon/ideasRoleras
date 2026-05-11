@@ -80,17 +80,20 @@ img {
   max-width: 100%;
 }
 
-img[alt='Silueta caballo']{
+img[alt='Silueta caballo'],
+img[alt='Horse silhouette']{
   margin-top: 10px;
   float: right;
 }
 
-img[alt='Silueta ciervo']{
+img[alt='Silueta ciervo'],
+img[alt='Deer silhouette']{
   margin-top: 10px;
   float: right;
 }
 
-img[alt='Silueta arquero']{
+img[alt='Silueta arquero'],
+img[alt='Archer silhouette']{
   margin-top: 10px;
   float: left;
   shape-outside: polygon(
@@ -153,7 +156,7 @@ h4 {
 /* -------------- TEXTOS -------------- */
 
 ul li {
-  margin-bottom: 3px;
+  margin-bottom: 1px;
   margin-left: 18px;
 }
 
