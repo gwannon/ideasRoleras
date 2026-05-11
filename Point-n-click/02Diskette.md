@@ -93,21 +93,21 @@ Your players might think outside the box and try to sober up the _**leaflet dist
 
 Upon leaving the swamp, they will reach a marshland so dense that it barely lets the light through. On a throne shaped like a skull, surrounded by lit candles, incense burners, and piles of voodoo paraphernalia, sits _**Alfonsé**_, the voodoo count of the swamps. They is a powerful sorcerer who can turn your players into chickens for a few seconds if they are rude to him.
 
-Es muy fantasma y le gusta darse mucho bombo con sus poderes vudú, que si no hay nadie con sus poderes y conocimientos, que él solo podría con DraChuckla, pero entonces dejaría sin vigilancia Bucan Ville, que si podría encontrar el _**Mac’n Cheese**_, pero a él no le mueve el dinero, etc.
+They's a real show-off and likes to boast a lot about his voodoo powers, saying that there's no one with his powers and knowledge, that they alone could take on DraChuckla, but then they'd leave Bucan Ville unguarded, that he could find the **Mac'n Cheese**, but money isn't their motivation, etc.
 
-Tras dar muchas vueltas y vueltas a la conversación, si son persistentes, le sacarán toda la info necesaria:
+After going around in circles with the conversation, if they are persistent, they will get all the necessary information out of him:
 
-* Para matar a DraChuckla necesitan la _**cruz de Coronado**_, una cruz de oro y joyas de gran valor que se supone que forma parte del _**Mac’n Cheese**_.
-* Todo el mundo sabe que el _**Mac’n Cheese**_ está escondido en la península del Simio, el problema es encontrar la península. Para encontrarla debes usar los _**huesos vudú**_ y resolver su misterio.
-* La única manera de contrarrestar los muñecos vudú que hizo DraChuckla de ellas es destruirlas.
+* To defeat DraChuckla, you need the _**Coronado’s cross**, a gold cross and valuable jewels that are supposedly part of the _**Mac’n Cheese**_.
+* Everyone knows that the _**Mac’n Cheese**_ is hidden on Monkey Peninsula; the problem is finding the peninsula. To find it, you must use the **voodoo bones** and solve its mystery.
+* The only way to counter the voodoo dolls DraChuckla made of them is to destroy them.
 
-Como ya hemos dicho, si tus jugadoras son descorteses, puede convertirlas en gallina durante unos minutos. La _**gallina**_ puede meterse en el equipo y al poco de sacarse se volverá a convertirse en persona. Seguramente traten de solucionar algún reto con esta opción y si son creativos podrían usarlo.
+As we've already mentioned, if your players are rude, they can turn them into chickens for a few minutes. The _**chicken**_ can be inserted into the equip as and item and will quickly revert to human form. They'll probably try to solve a challenge with this option, and if they're creative, they could use it.
 
 \sp
 
-El conde del vudú hace mucho hincapié en que los _**huesos**_ son «huesos del oráculo» no «huesos oráculo» (guiño, guiño, golpe, golpe). Vamos, que son huesos humanos, exactamente de un vidente llamado Tom «el bidente» por tener solo dos dientes.
+The Voodoo Count is very insistent that the _**bones**_ are "bones of the oracle," not "oracle bones" (wink, wink, nudge, nudge). Basically, they're human bones, specifically from a seer named Tom «the visionary» because he said that in the future there would be no coins, only «bits of coins».
 
-Como anécdota, al principio de la pantalla hay un cubo de basura lleno de panfletos de Alfonsé que ha tirado allí el _**repartidor**_.
+As an aside, at the beginning of the screen there's a trash can full of Alfonsé's pamphlets that the _**leaflet distributor**_ threw away.
 
 ### 3. En mareas extrañas
 
@@ -119,11 +119,11 @@ Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Lu
 
 ![Huesos del oráculo](./images/huesos.png)
 
-Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
+Si lo consiguen los huesos tomarán vida y _**Tom «the visionary»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
 
-_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados, el oráculo se desvanecerá y no podrá volver a ser invocado.
+_**Tom «the visionary»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados, el oráculo se desvanecerá y no podrá volver a ser invocado.
 
-Si siguen las coordenadas que les dé _**Tom «el bidente»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.
+Si siguen las coordenadas que les dé _**Tom «the visionary»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.
 
 \sp
 
@@ -135,11 +135,11 @@ Si siguen las coordenadas que les dé _**Tom «el bidente»**_, conseguirán lle
 
 \conc
 
-### Updated screens
+### Updated locations
 
-Los nuevos elementos están en cursiva.
+New locations are in cursive.
 
-#### Astilleros
+#### Shipyard
 
 * **NPC:** Sam
 * **Conexiones:** Plaza Mayor de Bucan Ville, _Laberinto pantanoso_
@@ -162,7 +162,7 @@ Los nuevos elementos están en cursiva.
 
 \sc
 
-### Nuevas pantallas de Bucan Ville
+### New screens of Bucan Ville
 
 #### Kraken's puke
 
@@ -171,9 +171,9 @@ Los nuevos elementos están en cursiva.
 
 #### Laberinto pantanoso
 
-* **Conexiones:** Astilleros, Guarida de Alfonsé
+* **Conexiones:** Shipyard, Alfonsé's lair
 
-#### Guarida de Alfonsé
+#### Alfonsé's lair
 
 * **NPC:** Alfonsé
 * **Elementos clicables:** Huesos del oráculo
