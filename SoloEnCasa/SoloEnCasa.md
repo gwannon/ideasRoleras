@@ -2,6 +2,8 @@
 
 «Solo en casa» es un hack para [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) de [Kinderwebo](https://kinderwebo.itch.io/) donde podrás jugar la auténtica peli navideña de acción.
 
+Es Navidad y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás solo en casa. Hay una nevada increíble y es casi imposible salir a la calle. Las comunicaciones están cortadas por el temporal de nieve y la posible ayuda tardará horas en llegar hasta que abran camino los quitanieves.
+
 ## Reglas
 
 Para representar mejor la acción de las películas de «Solo en casa» y similares se han hecho una serie de modificaciones a las reglas básicas de «Una trampa de hormigón».
@@ -36,4 +38,17 @@ XXX
 
 ## Donald Trump
 
-Siempre que salgan XXX en cualquier tirada, aparecerá Donald Trump. XXXX
+Siempre que salgan XXX en cualquier tirada, sonará la timbre y al otro lado de la puerta principal, de la trasera o la trampilla exterior del sótano aparecerá Donald Trump. Si lo deseeas, podrás ir a abrirle. Si no, se quedará llamando a la puerta confundido y gritando sandeces hasta que vuelva a salir XXX en la tirada. Tira 1d6 para saber que Trump te encuentras.
+
+|1d6|Trump|
+|---|---|
+|1|... golfista|
+|2|... con gorra de MAGA y peto de granjero|
+|3|... XXX|
+|4|... XXX|
+|5|... XXX|
+|6|... presidente haciéndose un bailecito|
+
+En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consigues que funcione la trampa, sabes que funciona y recibes **ventaja la próxima vez que la uses**. Si fallas, deberás **desecharla**. Si no cae en ella el tonto de Trump, no caerá nadie.
+
+> Adicionalmente, si Trump, como mínimo, sale ardiendo, se caga y mee encima, sale despedido por los aires, recibe golpes en sus partes o peor, recuperas 1 pétalo de tu flor en el culo.   
