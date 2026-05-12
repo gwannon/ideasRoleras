@@ -1,0 +1,171 @@
+:root {
+  --main-color: #eee704;
+  --secondary-color: #df0e25;
+  --accent-color: #df0e25;
+  --background-color: #296737;
+}
+
+@font-face {
+  font-family: 'Century Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./CenturyCondensedRegular.ttf') format('truetype');
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 135%;
+  background-color: var(--background-color);
+  color: var(--main-color);
+}
+
+body:before,
+body:after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: calc(33.33% - 1px);
+  width: 1px;
+  height: 100vh;
+  border-left: 1px dashed var(--main-color);
+}
+
+body:after {
+  left: calc(66.66% - 1px);
+}
+
+* {
+  margin: 0 0 8px 0;
+  padding: 0;
+}
+
+a,
+a:visited {
+  color: var(--main-color);
+}
+
+img {
+  max-width: 100%;
+}
+
+blockquote {
+  border-top: 1px solid var(--accent-color);
+  border-bottom: 1px solid var(--accent-color);
+  padding: 8px 0px 0px 0px;
+  color: var(--accent-color);
+  margin-bottom: 15px;
+}
+
+blockquote a {
+  color: var(--accent-color);
+}
+
+/* -------------- TITULOS -------------- */
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Century Condensed", system-ui;
+}
+
+h1 {
+  font-size: 42px;
+  margin: 0px 20px 20px 0px;
+  color: var(--accent-color);
+  line-height: 100%;
+  /*text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);*/
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 4px;
+}
+
+p + h2 {
+  margin-top: 20px;
+}
+
+h4 {
+  font-size: 1.8em;
+  text-align: center;
+}
+
+/* -------------- TEXTOS -------------- */
+
+ul li {
+  margin-bottom: 1px;
+  margin-left: 18px;
+}
+
+/* -------------- TABLAS -------------- */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  color: var(--background-color);
+}
+
+table thead tr,
+table tbody tr:nth-child(even) {
+  background-color: var(--accent-color);
+}
+
+
+table tbody tr:nth-child(odd) {
+  background-color: var(--secondary-color);
+  color: var(--main-color);
+}
+
+table td,
+table th {
+  padding: 1.5px;
+  font-size: 14px;
+}
+
+hr {
+  height: 2px;
+  border: none;
+  background-color: var(--accent-color);
+  width: 45%;
+  margin: 20px auto;
+}
+
+/* -------------- COLUMNAS -------------- */
+
+.columns {
+  columns: 3;
+  column-gap: 40px;
+  padding: 20px
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+.saltocolumna + h2 {
+  margin-top: 0;
+}
+
+
+@media print {
+  @page {
+    size: A4 landscape;
+    margin: 0
+  }
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
