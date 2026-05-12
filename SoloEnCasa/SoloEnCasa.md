@@ -20,10 +20,10 @@ Otra opción, en el otro extremo, sería hermanes gemeles que se acaban las fras
 
 |Extraescolar|Habilidades asociadas|
 |---|---|
-|Club de ciencias|XXX|
-|Club de audiovisuales|XXX|
-|Club de informática|XXX|
-|Club de teatro|XXX|
+|Club de ciencias|Química, electricidad, explosivos caseros|
+|Club de audiovisuales|Cámaras de seguridad, equipos de sonido, efectos visuales y especiales|
+|Club de informática|Hacking|
+|Club de teatro|Mentir, llorar, fingir, esgrima teatral|
 |XXX|XXX|
 
 ## Equipo
