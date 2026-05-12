@@ -40,11 +40,11 @@ Siempre que salgan XXX en cualquier tirada, sonará la timbre y al otro lado de 
 
 |1d6|Trump|
 |---|---|
-|1|... golfista|
-|2|... con gorra de MAGA y peto de granjero|
-|3|... XXX|
-|4|... XXX|
-|5|... XXX|
+|1|... golfista con pantalones cortos|
+|2|... con gorra de MAGA y ropas de granjero|
+|3|... con sombrero de paja y peto vaquero sin camisa|
+|4|... preparacionista con ropa de camuflaje|
+|5|... con ropajes a lo Jesucristo|
 |6|... presidente haciéndose un bailecito|
 
 En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consigues que funcione la trampa, sabes que funciona y recibes **ventaja la próxima vez que la uses**. Si fallas, deberás **desecharla**. Si no cae en ella el tonto de Trump, no caerá nadie.
