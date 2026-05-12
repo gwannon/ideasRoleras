@@ -9,9 +9,6 @@ XXX
 En caso de que haya más de une jugadore en la partida, tendrán que tener algún tipo de relación. La idea para crear estas relaciones es que sean muy opuestos, rollo _buddy movie_ o peli de colegas donde hay un poli superrecto y otro superalocado. Es decir, igual une es une juerguista y le otre une empollone. O tal vez, haya muchos años de diferencia entre elles.
 
 Otra opción, en el otro extremo, sería hermanes gemeles que se acaban las frases entre sí. 
-
-\sc
-
 ### Extraescolares
 
 «Oficio» pasa a ser «Extraescolares». Eres une niñe, así que no tienes trabajo, pero sí tienes extraescolares. Quizás seas del club de ciencias y puedas hacer bombas caseras o del equipo de hockey y sepas patinar y zurrar con tu palo. Hasta ser del club de ajedrez puede ser útil, quizás te permita montar emboscadas y te ayude a estar frío y calmado en situaciones de estrés.
@@ -27,15 +24,9 @@ Otra opción, en el otro extremo, sería hermanes gemeles que se acaban las fras
 ## Equipo
 
 XXX
-
-\sc
-
 ## Trampas
 
 XXX
-
-\sp
-
 ## Donald Trump
 
 Siempre que salgan XXX en cualquier tirada, sonará la timbre y al otro lado de la puerta principal, de la trasera o la trampilla exterior del sótano aparecerá Donald Trump. Si lo deseas, podrás ir a abrirle. Si no, se quedará llamando a la puerta confundido y gritando sandeces hasta que vuelva a salir XXX en la tirada que se irá. Tira 1d6 para saber que Trump te encuentras.
@@ -60,18 +51,12 @@ En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consig
 Bordes con luces de navidad
 
 Century Condensed -> https://freefonts.co/fonts/century-condensed-regular
-
-\sc
-
 > Mecánica: Hacer cosas de mayores como echarse aftershave o ver revistas porno de tu hermano mayor
 
 Yo las trampas las haría como todo lo demás:
 Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). 
 Para activarla, una prueba enfrentada (de acción ) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla...
 Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.
-
-\sc
-
 ![Película navideña de niño solo en casa](./css/casa.png "Película navideña de niño solo en casa")
 
 # PELÍCULA NAVIDEÑA de NIÑO SOLO en CASA

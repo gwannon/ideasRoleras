@@ -1,6 +1,6 @@
 :root {
   --main-color: #eee704;
-  --secondary-color: #df0e25;
+  --secondary-color: #960011;
   --accent-color: #df0e25;
   --background-color: #296737;
 }
@@ -26,14 +26,18 @@ body:after {
   content: "";
   position: fixed;
   top: 0;
-  left: calc(33.33% - 1px);
-  width: 1px;
+  left: calc(33.33% - 15px);
+  width: 25px;
   height: 100vh;
-  border-left: 1px dashed var(--main-color);
+  /*border-left: 1px dashed var(--main-color);*/
+  background: transparent url('./luces.png') repeat-y center;
+  background-size: contain;
 }
 
 body:after {
-  left: calc(66.66% - 1px);
+  left: calc(66.66% -  12px);
+  background: transparent url('./luces2.png') repeat-y center;
+  background-size: contain;
 }
 
 * {
@@ -51,10 +55,9 @@ img {
 }
 
 blockquote {
-  border-top: 1px solid var(--accent-color);
-  border-bottom: 1px solid var(--accent-color);
-  padding: 8px 0px 0px 0px;
-  color: var(--accent-color);
+  border: 2px dashed var(--secondary-color);
+  padding: 8px 8px 4px 8px;
+  color: var(--main-color);
   margin-bottom: 15px;
 }
 
@@ -73,11 +76,19 @@ h4 {
 
 h1 {
   font-size: 42px;
-  margin: 0px 20px 20px 0px;
-  color: var(--accent-color);
-  line-height: 100%;
+  margin: -25px 20px 20px 20px;
+  color: var(--main-color);
+  line-height: 120%;
   /*text-shadow: 3px 0px 3px var(--secondary-color), 0px 3px 3px var(--secondary-color), -3px 0px 3px var(--secondary-color), 0px -3px 3px var(--secondary-color);*/
   text-align: center;
+  text-decoration: underline;
+  text-decoration-color: var(--accent-color);
+}
+
+h1 a {
+  display: block;
+  font-size: 14px;
+  text-decoration: none;
 }
 
 h2 {
@@ -111,6 +122,7 @@ table {
 table thead tr,
 table tbody tr:nth-child(even) {
   background-color: var(--accent-color);
+  color: var(--main-color);
 }
 
 
