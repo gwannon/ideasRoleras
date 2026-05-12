@@ -10,7 +10,9 @@ Para representar mejor la acción de las películas de «Solo en casa» y simila
 
 XXX
 
-En caso de que haya más de une jugadore en la partida, tendrán que tener algún tipo de relación. La idea para crear estas relaciones es que sean muy opuestos, rollo peli de colegas donde hay un poli superrecto y otro superalocado. Es decir, igual une XXX. Otra opción, en el otro extremo, sería hermanes gemeles que se acaban las frases entre sí. 
+En caso de que haya más de une jugadore en la partida, tendrán que tener algún tipo de relación. La idea para crear estas relaciones es que sean muy opuestos, rollo _buddy movie_ o peli de colegas donde hay un poli superrecto y otro superalocado. Es decir, igual une es une juerguista y le otre une empollone. O tal vez, haya muchos años de diferencia entre elles.
+
+Otra opción, en el otro extremo, sería hermanes gemeles que se acaban las frases entre sí. 
 
 ### Extraescolares
 
