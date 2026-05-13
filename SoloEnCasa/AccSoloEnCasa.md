@@ -27,6 +27,23 @@ XXX
 ## Trampas
 
 XXX
+
+### Persona extraña y de apariencia malvada que resulta ser buena persona
+
+Si McClane tenía al sargento Powell, tú tienes a Marley. XXX
+
+### Descansar
+
+Eres une niñe y tienes energía casi infinita, no necesitas descansar como tal para recuperar resistencia, necesitas hacer cosas de adulto.
+
+Eres une niñe que está haciendo cosas de adultos muy peligrosas y cada vez que pierdes resistencia tu autoconfianza disminuye, es por ello que debes hacer cosas de adulto para recuperarla y poder decirte «Soy mayor y puedo con estos tontos ladrones».
+
+Ejemplos de cosas de mayores:
+
+* Fingir que te afeitas y echarte after-shave
+* Ver revistas porno de tus hermanes mayores
+* Tomarse un copazo o prepararse un cocktail con sombrillita tras romper la cerradura del mueble-bar del salón 
+* Poner la lavadora/secadora o planchar la ropa
 ## Donald Trump
 
 Siempre que salgan XXX en cualquier tirada, sonará la timbre y al otro lado de la puerta principal, de la trasera o la trampilla exterior del sótano aparecerá Donald Trump. Si lo deseas, podrás ir a abrirle. Si no, se quedará llamando a la puerta confundido y gritando sandeces hasta que vuelva a salir XXX en la tirada que se irá. Tira 1d6 para saber que Trump te encuentras.
@@ -42,21 +59,17 @@ Siempre que salgan XXX en cualquier tirada, sonará la timbre y al otro lado de 
 
 En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consigues que funcione la trampa, sabes que funciona y recibes **ventaja la próxima vez que la uses**. Si fallas, deberás **desecharla**. Si no cae en ella el tonto de Trump, no caerá nadie.
 
-> Adicionalmente, si Trump, como mínimo, sale ardiendo, se caga y mee encima, sale despedido por los aires, recibe golpes en sus partes o peor, recuperas 1 pétalo de tu flor en el culo.   
+> Adicionalmente, si Trump, como mínimo, sale ardiendo, se caga y mee encima, sale despedido por los aires, recibe golpes en sus partes o peor, recuperas 1 pétalo de tu flor en el culo. 
+Yo las trampas las haría como todo lo demás:
+Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). 
+Para activarla, una prueba enfrentada (de acción) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla...
+Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.
+
+## Licencia
 
 [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm)
 
-## Diseño
-
-Bordes con luces de navidad
-
-Century Condensed -> https://freefonts.co/fonts/century-condensed-regular
-> Mecánica: Hacer cosas de mayores como echarse aftershave o ver revistas porno de tu hermano mayor
-
-Yo las trampas las haría como todo lo demás:
-Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). 
-Para activarla, una prueba enfrentada (de acción ) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla...
-Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.
+[Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular)
 ![Película navideña de niño solo en casa](./css/casa.png "Película navideña de niño solo en casa")
 
 # PELÍCULA NAVIDEÑA de NIÑO SOLO en CASA

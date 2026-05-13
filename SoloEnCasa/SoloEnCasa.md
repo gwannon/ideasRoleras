@@ -34,7 +34,7 @@ XXX
 
 XXX
 
-### Persona extraña y de apariencía malvada que resulta ser buena persona
+### Persona extraña y de apariencia malvada que resulta ser buena persona
 
 Si McClane tenía al sargento Powell, tú tienes a Marley. XXX
 
@@ -48,7 +48,8 @@ Ejemplos de cosas de mayores:
 
 * Fingir que te afeitas y echarte after-shave
 * Ver revistas porno de tus hermanes mayores
-* XXX
+* Tomarse un copazo o prepararse un cocktail con sombrillita tras romper la cerradura del mueble-bar del salón 
+* Poner la lavadora/secadora o planchar la ropa
 
 \sp
 
@@ -67,22 +68,20 @@ Siempre que salgan XXX en cualquier tirada, sonará la timbre y al otro lado de 
 
 En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consigues que funcione la trampa, sabes que funciona y recibes **ventaja la próxima vez que la uses**. Si fallas, deberás **desecharla**. Si no cae en ella el tonto de Trump, no caerá nadie.
 
-> Adicionalmente, si Trump, como mínimo, sale ardiendo, se caga y mee encima, sale despedido por los aires, recibe golpes en sus partes o peor, recuperas 1 pétalo de tu flor en el culo.   
-
-[Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm)
-
-## Diseño
-
-Bordes con luces de navidad
-
-Century Condensed -> https://freefonts.co/fonts/century-condensed-regular
+> Adicionalmente, si Trump, como mínimo, sale ardiendo, se caga y mee encima, sale despedido por los aires, recibe golpes en sus partes o peor, recuperas 1 pétalo de tu flor en el culo. 
 
 \sc
 
 Yo las trampas las haría como todo lo demás:
 Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). 
-Para activarla, una prueba enfrentada (de acción ) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla...
+Para activarla, una prueba enfrentada (de acción) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla...
 Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.
+
+## Licencia
+
+[Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm)
+
+[Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular)
 
 \sc
 

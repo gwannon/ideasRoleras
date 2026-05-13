@@ -10,6 +10,7 @@ rm ./temp.pdf
 php ./generateDocs.php SoloEnCasaBW
 chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./SoloEnCasaBW.html
 pdftk './temp.pdf' update_info_utf8 './SoloEnCasaBW.txt' output '../SoloEnCasaBW.pdf' compress
+rm ./AccSoloEnCasaBW.md
 rm ./SoloEnCasaBW.html
 rm ./SoloEnCasaBW.txt
 rm ./temp.pdf
