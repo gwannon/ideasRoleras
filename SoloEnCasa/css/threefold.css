@@ -3,6 +3,7 @@
   --secondary-color: #960011;
   --accent-color: #df0e25;
   --background-color: #296737;
+  --background-color-present: #f65151;
 }
 
 @font-face {
@@ -26,6 +27,7 @@ body#SoloEnCasaBW {
   --secondary-color: #cecece;
   --accent-color: #000000;
   --background-color: #ffffff;
+  --background-color-present: #cecece;
 }
 
 body:before,
@@ -75,10 +77,28 @@ body#SoloEnCasaBW img {
 }
 
 blockquote {
-  border: 2px dashed var(--secondary-color);
+  border: 2px solid var(--accent-color);
   padding: 8px 8px 4px 8px;
   color: var(--main-color);
+  margin-top: 50px;
   margin-bottom: 15px;
+  position: relative;
+  background-color: var(--background-color-present);
+}
+
+blockquote:after {
+  content: "";
+  position: absolute;
+  display: block;
+  width: 69px;
+  height: 40px;
+  top: -40px;
+  left: calc(50% - 25px);
+  background: transparent url(./lazo.png) center center no-repeat;
+  background-size: contain;
+}
+body#SoloEnCasaBW blockquote:after {
+  background-image: url('./lazoBW.png');
 }
 
 blockquote a {
@@ -112,7 +132,9 @@ h1 a {
 }
 
 h2 {
-  margin-bottom: 4px;
+  margin-bottom: 6px;
+  text-decoration: underline;
+  text-decoration-color: var(--accent-color);
 }
 
 p + h2 {
