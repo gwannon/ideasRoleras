@@ -34,6 +34,22 @@ XXX
 
 XXX
 
+### Persona extraña y de apariencía malvada que resulta ser buena persona
+
+Si McClane tenía al sargento Powell, tú tienes a Marley. XXX
+
+### Descansar
+
+Eres une niñe y tienes energía casi infinita, no necesitas descansar como tal para recuperar resistencia, necesitas hacer cosas de adulto.
+
+Eres une niñe que está haciendo cosas de adultos muy peligrosas y cada vez que pierdes resistencia tu autoconfianza disminuye, es por ello que debes hacer cosas de adulto para recuperarla y poder decirte «Soy mayor y puedo con estos tontos ladrones».
+
+Ejemplos de cosas de mayores:
+
+* Fingir que te afeitas y echarte after-shave
+* Ver revistas porno de tus hermanes mayores
+* XXX
+
 \sp
 
 ## Donald Trump
@@ -62,8 +78,6 @@ Bordes con luces de navidad
 Century Condensed -> https://freefonts.co/fonts/century-condensed-regular
 
 \sc
-
-> Mecánica: Hacer cosas de mayores como echarse aftershave o ver revistas porno de tu hermano mayor
 
 Yo las trampas las haría como todo lo demás:
 Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). 

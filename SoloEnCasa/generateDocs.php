@@ -56,11 +56,11 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-if($argv[1] == 'SoloEnCasa') {
+if($argv[1] == 'SoloEnCasa' || $argv[1] == 'SoloEnCasaBW') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: «Solo en casa» por Gwannon - Ver. 1.0\n\n";
+  $metas .= "InfoValue: Película navideña de niño solo en casa - Ver. 1.0\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: «Solo en casa» XXXX. Versión 1.0\n\n";
+  $metas .= "InfoValue: «Película navideña de niño solo en casa» es un hack para «Una trampa de hormigón» de Kinderwebo donde podrás jugar la auténtica peli navideña de acción. Versión 1.0\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";

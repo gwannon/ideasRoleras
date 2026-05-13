@@ -21,6 +21,13 @@ body {
   color: var(--main-color);
 }
 
+body#SoloEnCasaBW {
+  --main-color: #000000;
+  --secondary-color: #cecece;
+  --accent-color: #000000;
+  --background-color: #ffffff;
+}
+
 body:before,
 body:after {
   content: "";
@@ -40,6 +47,15 @@ body:after {
   background-size: contain;
 }
 
+body#SoloEnCasaBW:before {
+  background-image: url('./lucesBW.png');
+}
+
+body#SoloEnCasaBW:after {
+  background-image: url('./lucesBW2.png');
+}
+
+
 * {
   margin: 0 0 8px 0;
   padding: 0;
@@ -52,6 +68,10 @@ a:visited {
 
 img {
   max-width: 100%;
+}
+
+body#SoloEnCasaBW img {
+  filter: grayscale(1);
 }
 
 blockquote {
@@ -123,6 +143,11 @@ table thead tr,
 table tbody tr:nth-child(even) {
   background-color: var(--accent-color);
   color: var(--main-color);
+}
+
+body#SoloEnCasaBW table thead tr,
+body#SoloEnCasaBW table tbody tr:nth-child(even) {
+  color: var(--background-color);
 }
 
 
