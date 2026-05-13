@@ -1,13 +1,3 @@
-![Película navideña de niño solo en casa](./css/casa.png "Película navideña de niño solo en casa")
-
-# PELÍCULA NAVIDEÑA de NIÑO SOLO en CASA
-
-«Película navideña de niño solo en casa» es un hack para [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) de [Kinderwebo](https://kinderwebo.itch.io/) donde podrás jugar la auténtica peli navideña de acción.
-
-Es Navidad y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás solo en casa. Hay una nevada increíble y es casi imposible salir a la calle. Las comunicaciones están cortadas por el temporal de nieve y la posible ayuda tardará horas en llegar hasta que abran camino los quitanieves.
-
-Para representar mejor la acción de las películas de «Solo en casa» y similares se han hecho una serie de modificaciones a las reglas básicas de «Una trampa de hormigón».
-
 ## Creación de personajes.
 
 XXX 
@@ -44,7 +34,22 @@ XXX
 
 XXX
 
+|1d6|Equipo para trampas|
+|---|---|
+|1|Sustancia irritante: salsa ultrapicante, XXX|
+|2|Sustancia resbaladiza: aceite, vaselina, XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
+En este juego no hay armas como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero no se usarán como arma sino para activar trampas a distancia.
+
 ## Trampas
+
+Hay do tipos de trampas, estáticas y portatiles. Las estáticas son las instala en alguna parte de la casa y las portatiles son las que llevas contigo. Un yunque que cae al abrirse una puerta es una trampa y un batería conectada al tenedor de trinchar el pavo es una trampa portatil. 
+
+También hay mixtas con parte portatil y parte estática. La parte estática puede ser un balde de gasolina que cae encima al abrir una puerta y la parte portatil es un proyectil de NERF incendiario.
 
 XXX
 ### Persona extraña y de apariencia malvada que resulta ser buena persona
@@ -97,3 +102,12 @@ Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.
 * [Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular)
 
 [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol diseñado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+![Película navideña de niño solo en casa](./css/casa.png "Película navideña de niño solo en casa")
+
+# PELÍCULA NAVIDEÑA de NIÑO SOLO en CASA
+
+«Película navideña de niño solo en casa» es un hack para [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) de [Kinderwebo](https://kinderwebo.itch.io/) donde podrás jugar la auténtica peli navideña de acción.
+
+Es Navidad y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás solo en casa. Hay una nevada increíble y es casi imposible salir a la calle. Las comunicaciones están cortadas por el temporal de nieve y la posible ayuda tardará horas en llegar hasta que abran camino los quitanieves.
+
+Para representar mejor la acción de las películas de «Solo en casa» y similares se han hecho una serie de modificaciones a las reglas básicas de «Una trampa de hormigón».

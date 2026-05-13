@@ -37,7 +37,22 @@ XXX
 
 XXX
 
+|1d6|Equipo para trampas|
+|---|---|
+|1|Sustancia irritante: salsa ultrapicante, XXX|
+|2|Sustancia resbaladiza: aceite, vaselina, XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
+En este juego no hay armas como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero no se usarán como arma sino para activar trampas a distancia.
+
 ## Trampas
+
+Hay do tipos de trampas, estáticas y portatiles. Las estáticas son las instala en alguna parte de la casa y las portatiles son las que llevas contigo. Un yunque que cae al abrirse una puerta es una trampa y un batería conectada al tenedor de trinchar el pavo es una trampa portatil. 
+
+También hay mixtas con parte portatil y parte estática. La parte estática puede ser un balde de gasolina que cae encima al abrir una puerta y la parte portatil es un proyectil de NERF incendiario.
 
 XXX
 
