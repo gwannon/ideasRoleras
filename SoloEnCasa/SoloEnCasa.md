@@ -30,12 +30,12 @@ Es decir, igual una es una juerguista y la otra una empollona. Solo podrían ser
 
 |1d6|Tu modelo a seguir|
 |---|---|
-|1|John Lennon, Sinatra, Elvis|
-|2|He-Man, León-o, Optimus Prime|
+|1|Sinatra, Elvis, Dolly Parton|
+|2|He-Man, She-Ra, León-o, Optimus Prime|
 |3|Michael Jordan, Tonya Harding, Wayne Gretzky|
 |4|Wonder Woman, Spiderman, Superman|
-|5|El pájaro loco, Barrio Sésamo, Scooby Doo|
-|6|Jesus, Mr. T, Colombo|
+|5|El pájaro loco, Tarta de fresa, Scooby Doo|
+|6|Jesus, Mr. T, Colombo, Elmo|
 
 ## Equipo
 
@@ -55,11 +55,13 @@ El equipo que podrás encontrar son cosas normales de una casa de película amer
 |1d8|Equipo para trampas|
 |---|---|
 |7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
-|8|**Miscelánea:** prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina|
+|8|**Miscelánea:** prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palenqueta|
 
 Aunque sea normal en la típica casa americana, en este juego **no hay armas de fuego** como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero tampoco debería dejarse usar como arma, sino para activar trampas a distancia o para distraer a los tontos ladrones.
 
 ## Trampas
+
+Eres una niña, así que no eres rival en una pelea contra un adulto, pero ... tienes tus trampas cabronas y dolorosas.
 
 Hay do tipos de trampas, estáticas y portatiles. Las estáticas son las instala en alguna parte de la casa y las portatiles son las que llevas contigo. Un yunque que cae al abrirse una puerta es una trampa y un batería conectada al tenedor de trinchar el pavo es una trampa portatil. 
 
