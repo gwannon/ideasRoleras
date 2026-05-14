@@ -10,30 +10,32 @@ La forma de crear los personajes tienen algunos puntos diferentes con el juego o
 |---|---|
 |Club de ciencias|Química, electricidad, explosivos caseros|
 |Club de audiovisuales|Cámaras de seguridad, equipos de sonido, efectos visuales y especiales|
-|Club de informática|Hacking|
+|Deportes|Correr, saltar, trepar, lanzar, batear|
 |Club de teatro|Mentir, llorar, fingir, esgrima teatral|
-|XXX|XXX|
+|Club de ajedrez|Tácticas y emboscadas, frío como el hielo|
+|Club de jóvenes granjeras|Manejar animales, mover cosas pesadas|
+|Club de francés|Fingir ser francés, seducir con tu acento|
 
 ### Rasgos y relaciones
 
-En caso de que haya más de una jugadora en la partida, tendrán que tener algún tipo de relación. La idea para crear estas relaciones es que sean muy opuestos, rollo _buddy movie_ o peli de colegas donde hay una poli superrecta y otra superalocada. Es decir, igual una es une juerguista y la otra una empollona. O tal vez, haya muchos años de diferencia entre elles.
+De los 3 rasgos básicos, «Hábito» se queda como está. «Creencia» pasa a convertirse en «Modelo a seguir» y «Conducta» tiene una regla especial cuando hay varios jugadores.
 
-Otra opción, en el otro extremo, sería hermanas gemelas que se acaban las frases entre sí.
-
-XXX
+**Conducta:** En caso de que haya más de una jugadora en la partida, tendrán que tener algún tipo de relación, hermanas, amigas, primas, integrantes del mismo equipo o club, etc. La idea es que sus conductas sean muy opuestas, rollo _buddy movie_ o peli de colegas donde hay un personaje cauto y otro temerario.
 
 \sc
 
-En cuanto a rasgos, en vez de creencias tienes tu modelo a seguir. Es ese personaje al que idolatras y que te sirve de guía moral. Puede ser un personaje de la tele, del comic, del cine, de los dibujos animados, una deportista o una científica famosa.
+Es decir, igual una es una juerguista y la otra una empollona. Solo podrían ser iguales si son hermanas gemelas que se acaban las frases entre sí.
 
-|1d6|Hábito|Tu modelo a seguir|Conducta|
-|---|---|---|---|
-|1|XXX|XXX|XXX|
-|2|XXX|XXX|XXX|
-|3|XXX|XXX|XXX|
-|4|XXX|XXX|XXX|
-|5|XXX|XXX|XXX|
-|6|XXX|XXX|XXX|
+**Modelo a seguir:** Es ese personaje al que idolatras y que te sirve de guía moral. Puede ser un personaje de la tele, del comic, del cine, de los dibujos animados, una deportista o una científica famosa.
+
+|1d6|Tu modelo a seguir|
+|---|---|
+|1|Personaje de Barrio Sésamo|
+|2|He-Man, León-o|
+|3|Michael Jordan, Tonya Harding, Wayne Gretzky|
+|4|XXX|
+|5|XXX|
+|6|Jesus|
 
 ## Equipo
 
@@ -47,12 +49,12 @@ El equipo que podrás encontrar son cosas normales de una casa de película amer
 |4|**Material eléctrico:** baterías y pilas, cables de batería para el coche, luces de navidad, linterna|
 |5|**Motores y piezas móviles:** vieja cortacesped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol|
 |6|**Cosas pesadas:** bola de bolos, busto de mármol, martillo de demolición, casco de moto|
-|7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
 
 \sc
 
 |1d8|Equipo para trampas|
 |---|---|
+|7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
 |8|**Miscelánea:** prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina|
 
 Aunque sea normal en la típica casa americana, en este juego **no hay armas de fuego** como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero tampoco debería dejarse usar como arma, sino para activar trampas a distancia o para distraer a los tontos ladrones.
@@ -65,7 +67,7 @@ También hay mixtas con parte portatil y parte estática. La parte estática pue
 
 XXX
 
-_REVISAR XXX: Yo las trampas las haría como todo lo demás: Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). Para activarla, una prueba enfrentada (de acción) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla … Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.__
+_REVISAR: Yo las trampas las haría como todo lo demás: Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). Para activarla, una prueba enfrentada (de acción) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla … Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.__
 
 \sp
 
@@ -122,12 +124,12 @@ Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.
 
 # PELÍCULA NAVIDEÑA de NIÑO SOLO en CASA
 
-«Película navideña de niño solo en casa» es un hack para [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) de [Kinderwebo](https://kinderwebo.itch.io/) donde podrás jugar la auténtica peli navideña de acción.
+**Película navideña de niño solo en casa** es un hack para [Una trampa de hormigón](https://kinderwebo.itch.io/una-trampa-de-hormign) de [Kinderwebo](https://kinderwebo.itch.io/) donde podrás jugar la auténtica peli navideña de acción.
 
-Es Navidad y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás sola en casa.
+Es Navidad y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás **sola en casa**.
 
-XXX
+**Un par de ladrones con más músculo que cerebro han visto la oportunidad de robar en tu barrio,** ahora que las familias están fuera por Navidad. Pero lo que no saben es que tú estás en casa y vas a defender tu hogar a capa y espada.
 
-Hay una nevada increíble y es casi imposible salir a la calle. Las comunicaciones están cortadas por el temporal de nieve y la posible ayuda tardará horas en llegar hasta que abran camino los quitanieves.
+Si todo esto no fuera ya de por sí una gran aventura, **hay una nevada increíble y es imposible salir a la calle.** Las comunicaciones están cortadas por el temporal de nieve y la posible ayuda tardaría horas en llegar hasta que abran camino los quitanieves.
 
-Para representar mejor la acción de las películas de «Solo en casa» y similares se han hecho una serie de modificaciones a las reglas básicas de «Una trampa de hormigón».
+Para representar mejor la acción de las **películas de Solo en casa** y similares se han hecho una serie de modificaciones a las reglas básicas de **Una trampa de hormigón**.
