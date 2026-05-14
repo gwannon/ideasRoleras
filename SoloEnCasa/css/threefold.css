@@ -16,7 +16,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 13px;
+  font-size: 12.5px;
   line-height: 135%;
   background-color: var(--background-color);
   color: var(--main-color);
@@ -115,7 +115,7 @@ h4 {
 }
 
 h1 {
-  font-size: 36.5px;
+  font-size: 33px;
   margin: -25px 20px 20px 20px;
   color: var(--main-color);
   line-height: 120%;
@@ -181,7 +181,7 @@ table tbody tr:nth-child(odd) {
 table td,
 table th {
   padding: 1.5px;
-  font-size: 13px;
+  font-size: 12.5px;
 }
 
 hr {

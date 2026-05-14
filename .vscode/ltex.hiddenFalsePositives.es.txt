@@ -372,3 +372,18 @@
 {"rule":"OBSCURE","sentence":"^\\QSuelen tener dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpara que se hagan una imagen mental de lo que se enfrentan.\\E$"}
 {"rule":"FORM","sentence":"^\\QDe esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QExtraescolar Habilidades asociadas\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa idea es que sus conductas sean muy opuestas, rollo buddy movie o peli de colegas donde hay un personaje cauto y otro temerario.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Sinatra, Elvis, Dolly Parton\n2 He-Man, She-Ra, León-o, Optimus Prime\n3 Michael Jordan, Tonya Harding, Wayne Gretzky\n4 Wonder Woman, Spiderman, Superman\n5 El pájaro loco, Tarta de fresa, Scooby Doo\n6 Jesus, Mr. T, Colombo, Elmo\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Sustancia irritante: salsa ultrapicante, líquido al fondo de la nevera caducado hace años, laca y otros aerosoles\n2 Sustancia resbaladiza: aceite, vaselina, jabón líquido, lubricante de motores\n3 Sustancia inflamable: gasolina, acetona, líquido encendedor de barbacoas, aceite de cocina, whisky del bueno de papa\n4 Material eléctrico: baterías y pilas, cables de batería para el coche, luces de navidad, linterna\n5 Motores y piezas móviles: vieja cortacesped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol\n6 Cosas pesadas: bola de bolos, busto de mármol, martillo de demolición, casco de moto\n7 Cosas que pinchan en los pies: piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal\n8 Miscelánea: prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palenqueta\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qtienes tus trampas cabronas y dolorosas.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgolfista con pantalones cortos\n2 …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpreparacionista con ropa de camuflaje\n5 …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcon ropajes a lo Jesucristo\n6 …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qpresidente haciéndose un bailecito\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcon sombrero de paja y peto vaquero sin camisa\n4 …\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcon gorra de MAGA y ropas de granjero\n3 …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q«Una trampa de hormigón» es un juego de rol diseñado por R. Fernández-Regueira bajo licencia CC-by-nc 4.0.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLuces de Navidad Fuente Century Condensed.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPelícula navideña de niño solo en casa es un hack para Una trampa de hormigón de Kinderwebo donde podrás jugar la auténtica peli navideña de acción.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa forma de crear los personajes tienen algunos puntos diferentes con el juego original.\\E$"}

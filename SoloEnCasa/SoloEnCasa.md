@@ -1,7 +1,3 @@
-## Creación de personajes.
-
-La forma de crear los personajes tienen algunos puntos diferentes con el juego original.
-
 ### Extraescolares
 
 «Oficio» pasa a ser «Extraescolares». Eres une niñe, así que no tienes trabajo, pero sí tienes extraescolares. Quizás seas del club de ciencias y puedas hacer bombas caseras o del equipo de hockey y sepas patinar y zurrar con tu palo. Hasta ser del club de ajedrez puede ser útil, quizás te permita montar emboscadas y te ayude a estar frío y calmado en situaciones de estrés.
@@ -22,11 +18,11 @@ De los 3 rasgos básicos, «Hábito» se queda como está. «Creencia» pasa a c
 
 **Conducta:** En caso de que haya más de una jugadora en la partida, tendrán que tener algún tipo de relación, hermanas, amigas, primas, integrantes del mismo equipo o club, etc. La idea es que sus conductas sean muy opuestas, rollo _buddy movie_ o peli de colegas donde hay un personaje cauto y otro temerario.
 
-\sc
-
 Es decir, igual una es una juerguista y la otra una empollona. Solo podrían ser iguales si son hermanas gemelas que se acaban las frases entre sí.
 
 **Modelo a seguir:** Es ese personaje al que idolatras y que te sirve de guía moral. Puede ser un personaje de la tele, del comic, del cine, de los dibujos animados, una deportista o una científica famosa.
+
+\sc
 
 |1d6|Tu modelo a seguir|
 |---|---|
@@ -49,11 +45,6 @@ El equipo que podrás encontrar son cosas normales de una casa de película amer
 |4|**Material eléctrico:** baterías y pilas, cables de batería para el coche, luces de navidad, linterna|
 |5|**Motores y piezas móviles:** vieja cortacesped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol|
 |6|**Cosas pesadas:** bola de bolos, busto de mármol, martillo de demolición, casco de moto|
-
-\sc
-
-|1d8|Equipo para trampas|
-|---|---|
 |7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
 |8|**Miscelánea:** prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palenqueta|
 
@@ -61,7 +52,7 @@ Aunque sea normal en la típica casa americana, en este juego **no hay armas de 
 
 ## Trampas
 
-Eres una niña, así que no eres rival en una pelea contra un adulto, pero ... tienes tus trampas cabronas y dolorosas.
+Eres una niña, así que no eres rival en una pelea contra un adulto, pero … tienes tus trampas cabronas y dolorosas.
 
 Hay do tipos de trampas, estáticas y portatiles. Las estáticas son las instala en alguna parte de la casa y las portatiles son las que llevas contigo. Un yunque que cae al abrirse una puerta es una trampa y un batería conectada al tenedor de trinchar el pavo es una trampa portatil. 
 
@@ -73,13 +64,15 @@ _REVISAR: Yo las trampas las haría como todo lo demás: Para montarla, reunir l
 
 \sp
 
-### Persona extraña y de apariencia malvada que resulta ser buena persona
+## Persona extraña y de apariencia malvada que resulta ser buena persona
 
-Si McClane tenía al sargento Powell, tú tienes a Marley. XXX
+Si McClane tenía al sargento Powell, tú tienes a Marley, viejo raro con cara terrorífica que luego resulta ser una buena persona. Puede ser un vecino huraño que se queda con tus _frisbies_ cuando caen en su jardín, un repartidor maleducado que siempre parece estar espiándote o una vagabunda que murmura palabras sin sentido mientras empuja un carro de la compra con todas sus cosas.
+
+> Este personaje puede hacerse aparecer cuando quiera la DJ para salvar la situación y enseñarle a tus jugadoras que no hay que juzgar a la gente por su apariencia y que la belleza está en el interior.
 
 ## Descansar
 
-Eres une niñe y tienes energía casi infinita, no necesitas descansar como tal para recuperar resistencia. La forma de recuperar resistencia es hacer cosas de adulto.
+Eres une niñe y tienes energía casi infinita, no necesitas descansar como tal para recuperar resistencia. La manera de recuperar resistencia es hacer cosas de adulto.
 
 Estás haciendo cosas de adultos muy peligrosas y cada vez que pierdes resistencia en realidad pierdes confianza en ti misme, es por ello que debes hacer cosas de adulto para recuperarla y poder decirte «Ya no soy une niñe, soy mayor y puedo con estos tontos ladrones».
 
@@ -91,11 +84,12 @@ Ejemplos de cosas de mayores:
 * Ver revistas porno escondidas debajo de una cama.
 * Tomarse un copazo o un cocktail con sombrillita tras romper la cerradura del mueble-bar del salón.
 * Poner la lavadora/secadora o planchar la ropa.
-* Hacer una cazuela exageradamente gigante de tu plato preferido.
 * Revisar el correo y quejarte de la factura de la luz.
-* Hacer como que lees un periódico o una revista de mayores.
 
 \sc
+
+* Hacer una cazuela exageradamente gigante de tu plato preferido.
+* Hacer como que lees un periódico o una revista de mayores.
 
 ## Donald Trump
 
@@ -105,12 +99,12 @@ Si lo deseas, podrás ir a abrirle. Si no, se quedará llamando a la puerta conf
 
 |1d6|Trump|
 |---|---|
-|1|... golfista con pantalones cortos|
-|2|... con gorra de MAGA y ropas de granjero|
-|3|... con sombrero de paja y peto vaquero sin camisa|
-|4|... preparacionista con ropa de camuflaje|
-|5|... con ropajes a lo Jesucristo|
-|6|... presidente haciéndose un bailecito|
+|1|… golfista con pantalones cortos|
+|2|… con gorra de MAGA y ropas de granjero|
+|3|… con sombrero de paja y peto vaquero sin camisa|
+|4|… preparacionista con ropa de camuflaje|
+|5|… con ropajes a lo Jesucristo|
+|6|… presidente haciéndose un bailecito|
 
 En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consigues que funcione la trampa, sabes que funciona y recibes **ventaja la próxima vez que la uses**. Si fallas, deberás **desecharla**. Si no cae en ella el tonto de Trump, no caerá nadie.
 
@@ -118,7 +112,7 @@ En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consig
 
 ## Licencia
 
-Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Atribuciones del material gráfico usado: [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm) [Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular). [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol diseñado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Atribuciones: [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm) [Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular). [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol diseñado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
 
 \sc
 
@@ -135,3 +129,7 @@ Es la Navidad de 1980 y algo y toda tu familia se ha ido a Hawái, el problema e
 Si todo esto no fuera ya de por sí una gran aventura, **hay una nevada increíble y es imposible salir a la calle.** Las comunicaciones están cortadas por el temporal de nieve y la posible ayuda tardaría horas en llegar hasta que abran camino los quitanieves.
 
 Para representar mejor la acción de las **películas de Solo en casa** y similares se han hecho una serie de modificaciones a las reglas básicas de **Una trampa de hormigón**.
+
+## Creación de personajes.
+
+La forma de crear los personajes tienen algunos puntos diferentes con el juego original.
