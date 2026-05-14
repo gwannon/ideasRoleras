@@ -1,6 +1,6 @@
 ## Creación de personajes.
 
-XXX 
+La forma de crear los personajes tienen algunos puntos diferentes con el juego original.
 
 ### Extraescolares
 
@@ -37,14 +37,14 @@ En cuanto a rasgos, en vez de creencias tienes tu modelo a seguir. Es ese person
 
 ## Equipo
 
-XXX
+El equipo que podrás encontrar son cosas normales de una casa de película americana. No hay gafas de visión nocturna, ni material radioactivo (salvo los pañales sucios del bebe), ni helicópteros, ni mangueras antiincendios, solo ropa de cama, electrodomésticos, cajas de herramientas, menaje y esas cosas.
 
 |1d8|Equipo para trampas|
 |---|---|
 |1|**Sustancia irritante:** salsa ultrapicante, líquido al fondo de la nevera caducado hace años, laca y otros aerosoles|
 |2|**Sustancia resbaladiza:** aceite, vaselina, jabón líquido, lubricante de motores|
 |3|**Sustancia inflamable:** gasolina, acetona, líquido encendedor de barbacoas, aceite de cocina, whisky del bueno de papa|
-|4|**Material eléctrico:** baterías y pilas, cables de batería para el coche, luces de navidad, XXX|
+|4|**Material eléctrico:** baterías y pilas, cables de batería para el coche, luces de navidad, linterna|
 |5|**Motores y piezas móviles:** vieja cortacesped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol|
 |6|**Cosas pesadas:** bola de bolos, busto de mármol, martillo de demolición, casco de moto|
 |7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
@@ -53,9 +53,9 @@ XXX
 
 |1d8|Equipo para trampas|
 |---|---|
-|8|**Miscelánea:** escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina|
+|8|**Miscelánea:** prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina|
 
-En este juego **no hay armas** como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero no se usarán como arma, sino para activar trampas a distancia o para distraer a los tontos ladrones.
+Aunque sea normal en la típica casa americana, en este juego **no hay armas de fuego** como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero tampoco debería dejarse usar como arma, sino para activar trampas a distancia o para distraer a los tontos ladrones.
 
 ## Trampas
 
@@ -91,11 +91,11 @@ Ejemplos de cosas de mayores:
 * Revisar el correo y quejarte de la factura de la luz.
 * Hacer como que lees un periódico o una revista de mayores.
 
+\sc
+
 ## Donald Trump
 
 Siempre que **salgan tu número de pétalos actuales en todos los dados una de tus tiradas**, sonará la timbre y al otro lado de la puerta principal, de la trasera o la trampilla exterior del sótano aparecerá Donald Trump.
-
-\sc
 
 Si lo deseas, podrás ir a abrirle. Si no, se quedará llamando a la puerta confundido y gritando sandeces hasta que vuelva a salir tu número de pétalos en todos tus dados, momento en el que se irá. Tira 1d6 para saber que Trump te encuentras.
 
@@ -114,12 +114,7 @@ En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consig
 
 ## Licencia
 
-Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Atribuciones del material gráfico usado:
-
-* [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm)
-* [Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular)
-
-[«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol diseñado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Atribuciones del material gráfico usado: [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm) [Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular). [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol diseñado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
 
 \sc
 

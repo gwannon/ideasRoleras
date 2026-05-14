@@ -80,7 +80,7 @@ blockquote {
   border: 2px solid var(--accent-color);
   padding: 8px 8px 4px 8px;
   color: var(--main-color);
-  margin-top: 50px;
+  margin-top: 35px;
   margin-bottom: 15px;
   position: relative;
   background-color: var(--background-color-present);
@@ -181,7 +181,7 @@ table tbody tr:nth-child(odd) {
 table td,
 table th {
   padding: 1.5px;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 hr {
