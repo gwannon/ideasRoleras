@@ -30,12 +30,12 @@ Es decir, igual una es una juerguista y la otra una empollona. Solo podrían ser
 
 |1d6|Tu modelo a seguir|
 |---|---|
-|1|Personaje de Barrio Sésamo|
-|2|He-Man, León-o|
+|1|John Lennon, Sinatra, Elvis|
+|2|He-Man, León-o, Optimus Prime|
 |3|Michael Jordan, Tonya Harding, Wayne Gretzky|
-|4|XXX|
-|5|XXX|
-|6|Jesus|
+|4|Wonder Woman, Spiderman, Superman|
+|5|El pájaro loco, Barrio Sésamo, Scooby Doo|
+|6|Jesus, Mr. T, Colombo|
 
 ## Equipo
 
@@ -126,7 +126,7 @@ Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.
 
 **Película navideña de niño solo en casa** es un hack para [Una trampa de hormigón](https://kinderwebo.itch.io/una-trampa-de-hormign) de [Kinderwebo](https://kinderwebo.itch.io/) donde podrás jugar la auténtica peli navideña de acción.
 
-Es Navidad y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás **sola en casa**.
+Es la Navidad de 1980 y algo y toda tu familia se ha ido a Hawái, el problema es que se han olvidado de ti y ahora estás **sola en casa**.
 
 **Un par de ladrones con más músculo que cerebro han visto la oportunidad de robar en tu barrio,** ahora que las familias están fuera por Navidad. Pero lo que no saben es que tú estás en casa y vas a defender tu hogar a capa y espada.
 
