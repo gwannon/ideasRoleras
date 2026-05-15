@@ -46,21 +46,27 @@ El equipo que podrás encontrar son cosas normales de una casa de película amer
 |5|**Motores y piezas móviles:** vieja cortacesped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol|
 |6|**Cosas pesadas:** bola de bolos, busto de mármol, martillo de demolición, casco de moto|
 |7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
-|8|**Miscelánea:** prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palenqueta|
+|8|**Miscelánea:** petardos del 4 de julio, prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palenqueta|
 
 Aunque sea normal en la típica casa americana, en este juego **no hay armas de fuego** como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero tampoco debería dejarse usar como arma, sino para activar trampas a distancia o para distraer a los tontos ladrones.
 
 ## Trampas
 
-Eres una niña, así que no eres rival en una pelea contra un adulto, pero … tienes tus trampas cabronas y dolorosas.
+Eres una niña, así que no eres rival en una pelea contra un adulto, pero … tienes tus trampas cabronas y dolorosas. Hay 4 tipos de trampas, estáticas, portátiles y falsas. 
 
-Hay do tipos de trampas, estáticas y portatiles. Las estáticas son las instala en alguna parte de la casa y las portatiles son las que llevas contigo. Un yunque que cae al abrirse una puerta es una trampa y un batería conectada al tenedor de trinchar el pavo es una trampa portatil. 
+**Estáticas:** Las estáticas son las instala en alguna parte de la casa, por ejemplo, un yunque que cae al abrirse una puerta. 
 
-También hay mixtas con parte portatil y parte estática. La parte estática puede ser un balde de gasolina que cae encima al abrir una puerta y la parte portatil es un proyectil de NERF incendiario.
+**Portátiles:** Las portátiles son las que llevas contigo, por ejemplo, un batería conectada al tenedor de trinchar el pavo y la usas en el picaporte cada vez que intentan abrir una puerta. Normalmente, las portátiles se pueden usar varias veces, pero los ladrones deberían olérselas tras varias veces cayendo en ellas. En esos momentos pueden ser usadas como trampas falsas. 
 
-XXX
+**Mixtas:** Tienen parte portátil y parte estática. La parte estática puede ser un balde de gasolina que cae encima al abrir una puerta y la parte portátil es un proyectil de NERF incendiario. La ventaja es que puedes activarla cuando tú quieras y la parte móvil puede servir para varias trampas.
 
-_REVISAR: Yo las trampas las haría como todo lo demás: Para montarla, reunir las piezas necesarias y decir dónde está (sin prueba). Para activarla, una prueba enfrentada (de acción) contra el que pasa por ahí. Pero si se falla no hay derrota, simplemente, el rival la ve y la supera o la trampa falla … Se podría incluso no decir al DJ dónde está y apuntarla en un papel, si el ladrón pasa por ahí, Kevin enseña el papel y hace la prueba.__
+**Trampa falsa:** Una trampa muy tonta y evidente que al intentar evitarla, hará que el tonto ladrón caiga en la auténtica trampa.
+
+Para **montar una trampa** necesitarás **reunir las piezas necesarias y colocarla en su sitio** si es estática o poder **llevarla encima** si es portátil. **Para activarla, una prueba enfrentada de Acción** contra el ladrón que pasa por ella. Si se **falla, no hay derrota,** simplemente, el rival la ve y la supera o la trampa falla …
+
+Las **trampas falsas sí exigen una tirada enfrentada de tu Acción contra Percepción del ladrón** para montarlas. Pero si se superan dan ventaja en la tirada enfrentada de la trampa principal. Si se falla, si hay derrota, ya que el ladrón se da cuenta de toda la gran estrategia y se ríe de ti, minando tu confianza.
+
+Las trampas no son tan efectivas como las armas de fuego, con lo que los ladrones, (secuaces, esbirros y jefes) necesitan el doble de éxitos para ser derrotados.
 
 \sp
 
@@ -84,10 +90,10 @@ Ejemplos de cosas de mayores:
 * Ver revistas porno escondidas debajo de una cama.
 * Tomarse un copazo o un cocktail con sombrillita tras romper la cerradura del mueble-bar del salón.
 * Poner la lavadora/secadora o planchar la ropa.
-* Revisar el correo y quejarte de la factura de la luz.
 
 \sc
 
+* Revisar el correo y quejarte de la factura de la luz.
 * Hacer una cazuela exageradamente gigante de tu plato preferido.
 * Hacer como que lees un periódico o una revista de mayores.
 
@@ -112,7 +118,7 @@ En ese momento podrás usar una de tus trampas preparadas sobre Trump. Si consig
 
 ## Licencia
 
-Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Atribuciones: [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm) [Fuente Century Condensed](https://freefonts.co/fonts/century-condensed-regular). [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol diseñado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+Hecho bajo licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Atribuciones: [Luces de Navidad](https://www.magnific.com/free-vector/gradient-christmas-lights-collection_19963323.htm) [Century Condensed](https://freefonts.co/fonts/century-condensed-regular). [«Una trampa de hormigón»](https://kinderwebo.itch.io/una-trampa-de-hormign) es un juego de rol creado por [R. Fernández-Regueira](https://kinderwebo.itch.io/) con licencia [CC-by-nc 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
 
 \sc
 

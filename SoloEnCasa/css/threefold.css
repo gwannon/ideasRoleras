@@ -81,7 +81,7 @@ blockquote {
   padding: 8px 8px 4px 8px;
   color: var(--main-color);
   margin-top: 35px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   position: relative;
   background-color: var(--background-color-present);
 }
@@ -99,6 +99,11 @@ blockquote:after {
 }
 body#SoloEnCasaBW blockquote:after {
   background-image: url('./lazoBW.png');
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
 }
 
 blockquote a {
@@ -180,8 +185,8 @@ table tbody tr:nth-child(odd) {
 
 table td,
 table th {
-  padding: 1.5px;
-  font-size: 12.5px;
+  padding: 1px;
+  font-size: 11px;
 }
 
 hr {
