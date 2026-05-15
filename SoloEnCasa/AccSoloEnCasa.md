@@ -15,10 +15,9 @@ Para representar mejor la acción de las **películas de Solo en casa** y simila
 ## Creación de personajes.
 
 La forma de crear los personajes tienen algunos puntos diferentes con el juego original.
-
 ### Extraescolares
 
-«Oficio» pasa a ser «Extraescolares». Eres une niñe, así que no tienes trabajo, pero sí tienes extraescolares. Quizás seas del club de ciencias y puedas hacer bombas caseras o del equipo de hockey y sepas patinar y zurrar con tu palo. Hasta ser del club de ajedrez puede ser útil, quizás te permita montar emboscadas y te ayude a estar frío y calmado en situaciones de estrés.
+«Oficio» pasa a ser «Extraescolares». Eres una niña, así que no tienes trabajo, pero sí tienes extraescolares. Quizás seas del club de ciencias y puedas hacer bombas caseras o del equipo de hockey y sepas patinar y zurrar con tu palo. Hasta ser del club de ajedrez puede ser útil, quizás te permita montar emboscadas y te ayude a estar frío y calmado en situaciones de estrés.
 
 |Extraescolar|Habilidades asociadas|
 |---|---|
@@ -57,11 +56,11 @@ El equipo que podrás encontrar son cosas normales de una casa de película amer
 |1|**Sustancia irritante:** salsa ultrapicante, líquido al fondo de la nevera caducado hace años, laca y otros aerosoles|
 |2|**Sustancia resbaladiza:** aceite, vaselina, jabón líquido, lubricante de motores|
 |3|**Sustancia inflamable:** gasolina, acetona, líquido encendedor de barbacoas, aceite de cocina, whisky del bueno de papa|
-|4|**Material eléctrico:** baterías y pilas, cables de batería para el coche, luces de navidad, linterna|
-|5|**Motores y piezas móviles:** vieja cortacesped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol|
+|4|**Material eléctrico:** baterías y pilas, cables de batería para el coche, luces de Navidad, linterna|
+|5|**Motores y piezas móviles:** vieja cortacésped, bicicleta estática, soplador de hojas, batidora, coche por radiocontrol|
 |6|**Cosas pesadas:** bola de bolos, busto de mármol, martillo de demolición, casco de moto|
 |7|**Cosas que pinchan en los pies:** piezas de lego, chinchetas, rulos del pelo, agujas de coser y/o de calceta, cosas rotas de cristal|
-|8|**Miscelánea:** petardos del 4 de julio, prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palenqueta|
+|8|**Miscelánea:** petardos del 4 de julio, prismáticos, escuchabebes, extintor, casco de la guerra del abuelo, pegamento superfuerte, atizador de la chimenea, caña de pescar, trineo, Scalextric, plastilina, palanqueta|
 
 Aunque sea normal en la típica casa americana, en este juego **no hay armas de fuego** como tal, como mucho puedes tener una pistola NERF o una escopeta de balines, pero tampoco debería dejarse usar como arma, sino para activar trampas a distancia o para distraer a los tontos ladrones.
 
@@ -90,9 +89,9 @@ Si McClane tenía al sargento Powell, tú tienes a Marley, viejo raro con cara t
 
 ## Descansar
 
-Eres une niñe y tienes energía casi infinita, no necesitas descansar como tal para recuperar resistencia. La manera de recuperar resistencia es hacer cosas de adulto.
+Eres una niña y tienes energía casi infinita, no necesitas descansar como tal para recuperar resistencia. La manera de recuperar resistencia es hacer cosas de adulto.
 
-Estás haciendo cosas de adultos muy peligrosas y cada vez que pierdes resistencia en realidad pierdes confianza en ti misme, es por ello que debes hacer cosas de adulto para recuperarla y poder decirte «Ya no soy une niñe, soy mayor y puedo con estos tontos ladrones».
+Estás haciendo cosas de adultos muy peligrosas y cada vez que pierdes resistencia en realidad pierdes confianza en ti misma, es por ello que debes hacer cosas de adulto para recuperarla y poder decirte «Ya no soy una niña, soy mayor y puedo con estos tontos ladrones».
 
 > Si consigue cumplir alguna cosa de adultos, recupera 1 punto de resistencia.
 
