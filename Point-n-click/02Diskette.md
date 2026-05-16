@@ -35,7 +35,7 @@ As soon as they see them approaching, they'll see an opportunity to saddle some 
 
 They'll pull out a _**contract for work and service**_ with super small print, which they could only see with the _**Lulock Holmes magnifying glass**_ that _**Maxine the Red**_ has in her _**souvenir shop**_ and which she won't let them take, but it might be fun for them to try until they get bored and sign the contract.
 
-El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
+The contract stipulates that they must save the governor and his riches from the clutches of DraChuckla, who is currently in the lost Monkey Peninsula (lost because nobody knows how to get there).
 
 To encourage them to sign, they'll be told that they might find the mythical treasure, Mac’n Cheese, since DraChuckla is searching for it right now on the peninsula, and if they find the vampirate, they might just stumble upon the treasure as a bonus.
 
@@ -109,27 +109,29 @@ The Voodoo Count is very insistent that the _**bones**_ are "bones of the oracle
 
 As an aside, at the beginning of the screen there's a trash can full of Alfonsé's pamphlets that the _**leaflet distributor**_ threw away.
 
-### 3. En mareas extrañas
+### 3. On Stranger Tides
 
-Esta escena es un puzzle en el que deberán usar los _**huesos del oráculo**_. Los huesos son 9 dados de 6 caras con puntos en vez de números. Para invocar al oráculo deben conseguir la siguiente figura que representa una calavera. En ese momento aparecerá el oráculo y les guiará a la península del simio.
-
-La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo.
-
-Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Luego deberán conseguir dibujar la calavera con el número exacto de movimiento. Pueden deshacer un movimiento gastando un píxel.
+This scene is a puzzle in which you will need to use the _**bones of the oracle**_. The bones are nine six-sided dice with dots instead of numbers. To summon the oracle, you must obtain the following shape, which represents a skull. At that moment, the oracle will appear and guide you to the Ape Peninsula.
 
 ![Huesos del oráculo](./images/huesos.png)
 
-Si lo consiguen los huesos tomarán vida y _**Tom «the visionary»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
+The GM must roll the dice and form a 3x3 grid. The players must then say how many moves they need to make to create the drawing.
 
-_**Tom «the visionary»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados, el oráculo se desvanecerá y no podrá volver a ser invocado.
+\sc
 
-Si siguen las coordenadas que les dé _**Tom «the visionary»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.
+One move consists of moving one die to a face and rotating another die 90 degrees. Then, you must draw the skull using the exact number of moves. You can undo a move by spending one pixel.
+
+If they succeed, the bones will come to life and _**Tom «the visionary»**_ will begin to speak. He speaks like a genie in a lamp, using phrases like «As my lady commands» or «As you wish».
+
+_**Tom «the visionary»**_ can answer three questions. One will be used to determine the coordinates of the Ape Peninsula, and the other two can be used for any other purpose. However, he can only answer while his bones are in position. As soon as they are separated or the dice are moved, the oracle will vanish and cannot be summoned again.
+
+If they follow the coordinates given by _**Tom «the visionary»**_, they will reach the Ape Peninsula. From this moment on, they can return whenever they wish.
 
 \sp
 
 \sinc
 
-## Resumen del disquete II
+## Summary of the floppy disk 2/3
 
 &nbsp;
 
@@ -142,23 +144,23 @@ New locations are in cursive.
 #### Shipyard
 
 * **NPC:** Sam
-* **Conexiones:** Plaza Mayor de Bucan Ville, _Laberinto pantanoso_
+* **Conecctions:** Bucan Ville's Main Square, _The Swamp_
 
-#### Puerto
+#### Harbour
 
-* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _Kraken's puke_, Casa del Gobernador (Exterior)
+* **Connections:** Bucan Ville's Main Square, The Swamp, _Kraken's puke_, Governor's mansion (Exterior)
 
-#### Taberna del Cangrejo Cocido
+#### Boiled Crab Tavern
 
-* **NPC:** Jefas Piratas, Piratas borrachos, _Repartidor de folletos_
-* **Elementos clicables:** _Contrato por obra y servicio_
-* **Conexiones:** Puerto
+* **NPC:** Pirate Lady Bosses, Drunken pirates, _Leaflet distributor_
+* **Clickable items:** _Contract for work and service_
+* **Connections:** Harbour
 
 #### Souvenir Shop
 
-* **NPC:** Maxine la roja
-* **Elementos clicables:** Lupa de Lulock Holmes, _Folleto de Alfonsé firmado por François «El Olones»_, _Cámara Polaroid_
-* **Conexiones:** Centro de Bucan Ville
+* **NPC:** Maxine the Red
+* **Clickable items:** Lulock Holmes magnifying glass, _**Leaflet signed by the famous pirate François l'Olonnais_, _Polaroid camera_
+* **Connections:** Bucan Ville's Town Center
 
 \sc
 
@@ -166,18 +168,18 @@ New locations are in cursive.
 
 #### Kraken's puke
 
-* **NPC:** Señorita Bridalis
-* **Conexiones:** Puerto
+* **NPC:** Miss Bridalis
+* **Connections:** Harbour
 
-#### Laberinto pantanoso
+#### The Swamp
 
 * **Conexiones:** Shipyard, Alfonsé's lair
 
 #### Alfonsé's lair
 
 * **NPC:** Alfonsé
-* **Elementos clicables:** Huesos del oráculo
-* **Conexiones:** Laberinto pantanoso
+* **Clickable items:** Bones of the oracle
+* **Connections:** The Swamp
 
 \sp
 
@@ -187,7 +189,7 @@ New locations are in cursive.
 
 &nbsp;
 
-![Mapa de Bucan Ville actualizado](./images/mapa2.png)
+![Updated map of Bucan Ville](./images/mapa2.png)
 
 &nbsp;
 

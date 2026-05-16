@@ -229,7 +229,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 \sinc
 
-## Resumen del disquete III
+## Summary of the floppy disk 3/3
 
 &nbsp;
 
@@ -242,40 +242,40 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 #### Playa
 
 * **NPC:** Bridalis
-* **Elementos clicables:** Algas, Objetos que usa Bridalis en sus disfraces
-* **Conexiones:** Vómito del Kraken
+* **Clickable items:** Algas, Objetos que usa Bridalis en sus disfraces
+* **Connections:** Vómito del Kraken
 
 #### Jungla
 
-* **Elementos clicables:** Doblones de oro
-* **Conexiones:** Playa, Entrada de la cueva del tesoro
+* **Clickable items:** Doblones de oro
+* **Connections:** Playa, Entrada de la cueva del tesoro
 
 #### Entrada de la cueva del tesoro
 
 * **NPC:** Muchos simios
-* **Conexiones:** Jungla, Primera cámara
+* **Connections:** Jungla, Primera cámara
 
 #### Primera cámara de la cueva
 
-* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
-* **Conexiones:** Entrada de la cueva del tesoro, Segunda cámara
+* **Clickable items:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
+* **Connections:** Entrada de la cueva del tesoro, Segunda cámara
 
 \sc
 
 #### Segunda cámara de la cueva
 
-* **Elementos clicables:** Tronco
-* **Conexiones:** Primera cámara, Tercera cámara
+* **Clickable items:** Tronco
+* **Connections:** Primera cámara, Tercera cámara
 
 #### Tercera cámara de la cueva
 
-* **Elementos clicables:** Trampa cuchilla, Trampilla del mono vigía
-* **Conexiones:** Segunda cámara, Cámara del tesoro
+* **Clickable items:** Trampa cuchilla, Trampilla del mono vigía
+* **Connections:** Segunda cámara, Cámara del tesoro
 
 #### Cámara del tesoro
 
-* **Elementos clicables:** Lingotes de oro, Cruz de Coronado
-* **Conexiones:** Tercera cámara
+* **Clickable items:** Lingotes de oro, Cruz de Coronado
+* **Connections:** Tercera cámara
 
 \sp
 
@@ -289,34 +289,34 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Fuera de El caminante
 
-* **Elementos clicables:** Cadena del ancla
-* **Elementos clicables:** Percebes, lapas y mejillones
-* **Conexiones:** Playa, Cubierta inferior
+* **Clickable items:** Cadena del ancla
+* **Clickable items:** Percebes, lapas y mejillones
+* **Connections:** Playa, Cubierta inferior
 
 #### Cubierta inferior
 
 * **NPC:** Muchos zombis
-* **Conexiones:** Fuera de El caminante, Cubierta superior
+* **Connections:** Fuera de El caminante, Cubierta superior
 
 #### Cubierta superior
 
 * **NPC:** Muchos zombis inteligentes
-* **Elementos clicables:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
-* **Conexiones:** Cubierta inferior, Castillo de popa
+* **Clickable items:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
+* **Connections:** Cubierta inferior, Castillo de popa
 
 \sc
 
 #### Castillo de popa
 
 * **NPC:** Primero de a bordo zombi
-* **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
-* **Conexiones:** Cubierta superior, Camarote de DraChuckla
+* **Clickable items:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
+* **Connections:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla
 
 * **NPC:** DraChuckla, Gobernador Marlon, Ayudante zombi
-* **Elementos clicables:** Órgano
-* **Conexiones:** Castillo de popa
+* **Clickable items:** Órgano
+* **Connections:** Castillo de popa
 
 \sinc
 

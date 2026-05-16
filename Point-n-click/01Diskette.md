@@ -30,7 +30,7 @@ From the port, you can access _**Bucan Ville Town Center**_.
 
 #### Boiled Crab Tavern
 
-The place is a dingy old dive, packed with _**drunken pirates. The few who aren't sleeping off their hangovers can barely manage a sentence:
+The place is a dingy old dive, packed with _**drunken pirates**_. The few who aren't sleeping off their hangovers can barely manage a sentence:
 
 * So you want to be a pirate, huh? Talk to the three _**Pirate Ladybosses**_.
 * The grog in my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
@@ -79,7 +79,7 @@ If you see them getting lost at this point, emphasize the "other side of the law
 
 The streets of the Town Center are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads "Open 24 Hours."
 
-To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**monkey-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The monkey-traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
+To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**monkey-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The monkey traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
 
 No matter how hard you try, the monkey always sets it to green. The only way to cross on red is to give the monkey a banana when the light is red, and as it eats the banana, it stays red. At that moment you can cross and the _**city guard**_ will give you a _**fine**_ and, therefore, you will be an outlaw.
 
@@ -221,81 +221,81 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 \sinc
 
-## Resumen del disquete I
+## Summary of the floppy disk 1/3
 
 &nbsp;
 
 \conc
 
-### Astilleros
+### Shipyard
 
 * **NPC:** Sam
-* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
-* **Conexiones:** Plaza Mayor de Bucan Ville
+* **Clickable items:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
+* **Connections:** Bucan Ville's Main Square
 
 ### Bucan Ville
 
-#### Callejón oscuro
+#### Dark alley
 
-* **Conexiones:** Plaza Mayor de Bucan Ville
+* **Connections:** Bucan Ville's Main Square
 
-#### Centro de Bucan Ville
+#### Bucan Ville's Town Center
 
-* **NPC:** Guardia de la ciudad
-* **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Plaza Mayor de Bucan Ville, Puerto, Tienda de Souvenirs
+* **NPC:** City guard
+* **Clickable items:** Monkey traffic light
+* **Connections:** Bucan Ville's Main Square, Harbour, Souvenirs Shop
 
-#### Tienda de Souvenirs
+#### Souvenirs Shop
 
-* **NPC:** Maxine la roja
-* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra, Lupa de Lulock Holmes
-* **Conexiones:** Centro de Bucan Ville
+* **NPC:** Maxine the Red
+* **Clickable items:** Twister vinyl, Some stupid object to use as a flag, like Blackbeard's underwear, Lulock Holmes magnifying glass
+* **Connections:** Bucan Ville's Town Center
 
-#### Plaza Mayor de Bucan Ville
+#### Bucan Ville's Main Square
 
-* **NPC:** Pintor de cuadros
-* **Elementos clicables:** Juzgado, Montón de cuadros
-* **Conexiones:** Centro de Bucan Ville, Callejón oscuro
+* **NPC:** Painter
+* **Clickable items:** Courthouse, Pile of pictures
+* **Connections:** Bucan Ville's Town Center, Dark alley
 
-### Casa del gobernador
+### Governor's mansion
 
 #### Exterior
 
-* **NPC:** Pavos reales
-* **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real, Tocado de plumas de pavo real
-* **Conexiones:** Puerto, Casa del gobernador (Hall principal)
+* **NPC:** Peacocks
+* **Clickable items:** Equestrian statue of Governor Marlon, Peacock feathers, Peacock headdress
+* **Connections:** Harbour, Governor's mansion (Main Hall)
 
-#### Hall principal
+#### Main Hall
 
-* **Elementos clicables:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
-* **Conexiones:** Casa del gobernador (Exterior), Casa del gobernador (Sótano)
+* **Clickable items:** Candles in a large chandelier, Pulleys that raise and lower the chandelier
+* **Connections:** Governor's mansion (Exterior), Governor's mansion (Basement)
 
-#### Sótano
+#### Basement
 
-* **Elementos clicables:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
-* **Conexiones:** Casa del gobernador (Hall Principal)
+* **Clickable items:** Safe, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Connections:** Governor's mansion (Main Hall)
 
 \sp
 
 ### Muelles
 
-#### Puerto
+#### Harbour
 
-* **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville, Casa del Gobernador (Exterior)
+* **Clickable items:** Ship with tattered black sails
+* **Connections:** Boiled Crab Tavern, Bucan Ville's Town Center, Governor's mansion (Exterior)
 
-#### Taberna del Cangrejo Cocido
+#### Boiled Crab Tavern
 
-* **NPC:** Jefas Piratas, Piratas borrachos
-* **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
-* **Conexiones:** Puerto
+* **NPC:** Pirate Lady Bosses, Drunken pirates
+* **Clickable items:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Souvenirs Shop
+* **Connections:** Harbour
 
 \sinc
 
 &nbsp;
 
-### Mapa de Bucan Ville
+### Map of Bucan Ville
 
-![Mapa de Bucan Ville](./images/mapa.png)
+![Map of Bucan Ville](./images/mapa.png)
 
 \conc

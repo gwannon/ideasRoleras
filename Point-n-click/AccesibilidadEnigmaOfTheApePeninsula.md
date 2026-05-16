@@ -41,7 +41,7 @@ From the port, you can access _**Bucan Ville Town Center**_.
 [![18:57 (Rework) By Fatbeard91](./images/dkctb16-e97df894-f777-41ea-a026-ae54e3488aa4.jpg "18:57 (Rework) By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/18-57-Rework-1230846234 "18:57 (Rework) By Fatbeard91")
 #### Boiled Crab Tavern
 
-The place is a dingy old dive, packed with _**drunken pirates. The few who aren't sleeping off their hangovers can barely manage a sentence:
+The place is a dingy old dive, packed with _**drunken pirates**_. The few who aren't sleeping off their hangovers can barely manage a sentence:
 
 * So you want to be a pirate, huh? Talk to the three _**Pirate Ladybosses**_.
 * The grog in my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
@@ -84,7 +84,7 @@ If you see them getting lost at this point, emphasize the "other side of the law
 
 The streets of the Town Center are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads "Open 24 Hours."
 
-To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**monkey-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The monkey-traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
+To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**monkey-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The monkey traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
 
 No matter how hard you try, the monkey always sets it to green. The only way to cross on red is to give the monkey a banana when the light is red, and as it eats the banana, it stays red. At that moment you can cross and the _**city guard**_ will give you a _**fine**_ and, therefore, you will be an outlaw.
 
@@ -195,71 +195,71 @@ Once they've managed to break into the governor's vault and are swimming in gold
 As they recover from the explosion, they'll see the fearsome vampire captain DraChuckla enter through the hole with his ghoul henchmen to seize their loot while laughing at them.
 He'll approach the player characters, pluck a hair from each of them, and stick them to voodoo dolls, saying, "Just in case you become a problem," and then they'll fall unconscious.
 
-When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon tied and gagged.## Resumen del disquete I
+When they manage to get up, they'll see through the hole in the wall that the black-sailed ship that was in the distance from the port is sailing away with DraChuckla on board and Governor Marlon tied and gagged.## Summary of the floppy disk 1/3
 
-### Astilleros
+### Shipyard
 
 * **NPC:** Sam
-* **Elementos clicables:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
-* **Conexiones:** Plaza Mayor de Bucan Ville
+* **Clickable items:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
+* **Connections:** Bucan Ville's Main Square
 
 ### Bucan Ville
 
-#### Callejón oscuro
+#### Dark alley
 
-* **Conexiones:** Plaza Mayor de Bucan Ville
+* **Connections:** Bucan Ville's Main Square
 
-#### Centro de Bucan Ville
+#### Bucan Ville's Town Center
 
-* **NPC:** Guardia de la ciudad
-* **Elementos clicables:** Simio-semáforo
-* **Conexiones:** Plaza Mayor de Bucan Ville, Puerto, Tienda de Souvenirs
+* **NPC:** City guard
+* **Clickable items:** Monkey traffic light
+* **Connections:** Bucan Ville's Main Square, Harbour, Souvenirs Shop
 
-#### Tienda de Souvenirs
+#### Souvenirs Shop
 
-* **NPC:** Maxine la roja
-* **Elementos clicables:** Vinilo del Twister, Algún objeto estúpido que usar de bandera como los calzoncillos largos de Barbanegra, Lupa de Lulock Holmes
-* **Conexiones:** Centro de Bucan Ville
+* **NPC:** Maxine the Red
+* **Clickable items:** Twister vinyl, Some stupid object to use as a flag, like Blackbeard's underwear, Lulock Holmes magnifying glass
+* **Connections:** Bucan Ville's Town Center
 
-#### Plaza Mayor de Bucan Ville
+#### Bucan Ville's Main Square
 
-* **NPC:** Pintor de cuadros
-* **Elementos clicables:** Juzgado, Montón de cuadros
-* **Conexiones:** Centro de Bucan Ville, Callejón oscuro
+* **NPC:** Painter
+* **Clickable items:** Courthouse, Pile of pictures
+* **Connections:** Bucan Ville's Town Center, Dark alley
 
-### Casa del gobernador
+### Governor's mansion
 
 #### Exterior
 
-* **NPC:** Pavos reales
-* **Elementos clicables:** Estatua ecuestre del gobernador Marlon, Pluma de pavo real, Tocado de plumas de pavo real
-* **Conexiones:** Puerto, Casa del gobernador (Hall principal)
+* **NPC:** Peacocks
+* **Clickable items:** Equestrian statue of Governor Marlon, Peacock feathers, Peacock headdress
+* **Connections:** Harbour, Governor's mansion (Main Hall)
 
-#### Hall principal
+#### Main Hall
 
-* **Elementos clicables:** Velas de la lámpara de araña, Polea que sube y baja la lámpara de araña
-* **Conexiones:** Casa del gobernador (Exterior), Casa del gobernador (Sótano)
+* **Clickable items:** Candles in a large chandelier, Pulleys that raise and lower the chandelier
+* **Connections:** Governor's mansion (Exterior), Governor's mansion (Basement)
 
-#### Sótano
+#### Basement
 
-* **Elementos clicables:** Caja fuerte, Nota con la combinación de la caja fuerte (píxel exacto)
-* **Conexiones:** Casa del gobernador (Hall Principal)
+* **Clickable items:** Safe, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Connections:** Governor's mansion (Main Hall)
 ### Muelles
 
-#### Puerto
+#### Harbour
 
-* **Elementos clicables:** Navío de velas negras
-* **Conexiones:** Taberna del Cangrejo Cocido, Centro de Bucan Ville, Casa del Gobernador (Exterior)
+* **Clickable items:** Ship with tattered black sails
+* **Connections:** Boiled Crab Tavern, Bucan Ville's Town Center, Governor's mansion (Exterior)
 
-#### Taberna del Cangrejo Cocido
+#### Boiled Crab Tavern
 
-* **NPC:** Jefas Piratas, Piratas borrachos
-* **Elementos clicables:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Tienda de Souvenirs
-* **Conexiones:** Puerto
+* **NPC:** Pirate Lady Bosses, Drunken pirates
+* **Clickable items:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Souvenirs Shop
+* **Connections:** Harbour
 
-### Mapa de Bucan Ville
+### Map of Bucan Ville
 
-![Mapa de Bucan Ville](./images/mapa.png)
+![Map of Bucan Ville](./images/mapa.png)
 
 ## Floppy disk 2/3: Mighty voodoo magic
 
@@ -283,7 +283,7 @@ As soon as they see them approaching, they'll see an opportunity to saddle some 
 
 They'll pull out a _**contract for work and service**_ with super small print, which they could only see with the _**Lulock Holmes magnifying glass**_ that _**Maxine the Red**_ has in her _**souvenir shop**_ and which she won't let them take, but it might be fun for them to try until they get bored and sign the contract.
 
-El contrato estipula que deben salvar al gobernador y sus riquezas de las garras de DraChuckla que actualmente se encuentra en la perdida Península del Simio (perdida porque nadie sabe ir).
+The contract stipulates that they must save the governor and his riches from the clutches of DraChuckla, who is currently in the lost Monkey Peninsula (lost because nobody knows how to get there).
 
 To encourage them to sign, they'll be told that they might find the mythical treasure, Mac’n Cheese, since DraChuckla is searching for it right now on the peninsula, and if they find the vampirate, they might just stumble upon the treasure as a bonus.
 
@@ -344,25 +344,24 @@ After going around in circles with the conversation, if they are persistent, the
 * The only way to counter the voodoo dolls DraChuckla made of them is to destroy them.
 
 As we've already mentioned, if your players are rude, they can turn them into chickens for a few minutes. The _**chicken**_ can be inserted into the equip as and item and will quickly revert to human form. They'll probably try to solve a challenge with this option, and if they're creative, they could use it.
-The Voodoo Count is very insistent that the _**bones**_ are "bones of the oracle," not "oracle bones" (wink, wink, nudge, nudge). Basically, they're human bones, specifically from a seer named Tom "the visionary" because he said that in the future there would be no coins, only «bits of coins».
+The Voodoo Count is very insistent that the _**bones**_ are "bones of the oracle," not "oracle bones" (wink, wink, nudge, nudge). Basically, they're human bones, specifically from a seer named Tom «the visionary» because he said that in the future there would be no coins, only «bits of coins».
 
 As an aside, at the beginning of the screen there's a trash can full of Alfonsé's pamphlets that the _**leaflet distributor**_ threw away.
 
-### 3. En mareas extrañas
+### 3. On Stranger Tides
 
-Esta escena es un puzzle en el que deberán usar los _**huesos del oráculo**_. Los huesos son 9 dados de 6 caras con puntos en vez de números. Para invocar al oráculo deben conseguir la siguiente figura que representa una calavera. En ese momento aparecerá el oráculo y les guiará a la península del simio.
-
-La DJ debe tirar los dados y formar una cuadrícula de 3x3. Las jugadoras deben decir cuantos movimientos deben hacer para conseguir el dibujo.
-
-Un movimiento consiste en mover un dado a una cara y girar 90 grados un dado. Luego deberán conseguir dibujar la calavera con el número exacto de movimiento. Pueden deshacer un movimiento gastando un píxel.
+This scene is a puzzle in which you will need to use the _**bones of the oracle**_. The bones are nine six-sided dice with dots instead of numbers. To summon the oracle, you must obtain the following shape, which represents a skull. At that moment, the oracle will appear and guide you to the Ape Peninsula.
 
 ![Huesos del oráculo](./images/huesos.png)
 
-Si lo consiguen los huesos tomarán vida y _**Tom «el bidente»**_ empezará a hablar. Habla como un genio de la lámpara con expresiones como «Lo que ordene mi ama y señora» o «Como deseéis».
+The GM must roll the dice and form a 3x3 grid. The players must then say how many moves they need to make to create the drawing.
+One move consists of moving one die to a face and rotating another die 90 degrees. Then, you must draw the skull using the exact number of moves. You can undo a move by spending one pixel.
 
-_**Tom «el bidente»**_ puede contestar a 3 preguntas, una la van a gastar en saber las coordenadas de la península del Simio, las otras dos para lo que quieran. Pero solo podrá responder mientras sus huesos estén en posición. En cuanto se separen o muevan los dados, el oráculo se desvanecerá y no podrá volver a ser invocado.
+If they succeed, the bones will come to life and _**Tom «the visionary»**_ will begin to speak. He speaks like a genie in a lamp, using phrases like «As my lady commands» or «As you wish».
 
-Si siguen las coordenadas que les dé _**Tom «el bidente»**_, conseguirán llegar a la península del Simio. A partir de este momento podrán venir siempre que quieran.## Resumen del disquete II
+_**Tom «the visionary»**_ can answer three questions. One will be used to determine the coordinates of the Ape Peninsula, and the other two can be used for any other purpose. However, he can only answer while his bones are in position. As soon as they are separated or the dice are moved, the oracle will vanish and cannot be summoned again.
+
+If they follow the coordinates given by _**Tom «the visionary»**_, they will reach the Ape Peninsula. From this moment on, they can return whenever they wish.## Summary of the floppy disk 2/3
 
 ### Updated locations
 
@@ -371,39 +370,39 @@ New locations are in cursive.
 #### Shipyard
 
 * **NPC:** Sam
-* **Conexiones:** Plaza Mayor de Bucan Ville, _Laberinto pantanoso_
+* **Conecctions:** Bucan Ville's Main Square, _The Swamp_
 
-#### Puerto
+#### Harbour
 
-* **Conexiones:** Plaza Mayor de Bucan Ville, Laberinto pantanoso, _Kraken's puke_, Casa del Gobernador (Exterior)
+* **Connections:** Bucan Ville's Main Square, The Swamp, _Kraken's puke_, Governor's mansion (Exterior)
 
-#### Taberna del Cangrejo Cocido
+#### Boiled Crab Tavern
 
-* **NPC:** Jefas Piratas, Piratas borrachos, _Repartidor de folletos_
-* **Elementos clicables:** _Contrato por obra y servicio_
-* **Conexiones:** Puerto
+* **NPC:** Pirate Lady Bosses, Drunken pirates, _Leaflet distributor_
+* **Clickable items:** _Contract for work and service_
+* **Connections:** Harbour
 
 #### Souvenir Shop
 
-* **NPC:** Maxine la roja
-* **Elementos clicables:** Lupa de Lulock Holmes, _Folleto de Alfonsé firmado por François «El Olones»_, _Cámara Polaroid_
-* **Conexiones:** Centro de Bucan Ville
+* **NPC:** Maxine the Red
+* **Clickable items:** Lulock Holmes magnifying glass, _**Leaflet signed by the famous pirate François l'Olonnais_, _Polaroid camera_
+* **Connections:** Bucan Ville's Town Center
 ### New screens of Bucan Ville
 
 #### Kraken's puke
 
-* **NPC:** Señorita Bridalis
-* **Conexiones:** Puerto
+* **NPC:** Miss Bridalis
+* **Connections:** Harbour
 
-#### Laberinto pantanoso
+#### The Swamp
 
 * **Conexiones:** Shipyard, Alfonsé's lair
 
 #### Alfonsé's lair
 
 * **NPC:** Alfonsé
-* **Elementos clicables:** Huesos del oráculo
-* **Conexiones:** Laberinto pantanoso### Map of the island![Mapa de Bucan Ville actualizado](./images/mapa2.png)
+* **Clickable items:** Bones of the oracle
+* **Connections:** The Swamp### Map of the island![Updated map of Bucan Ville](./images/mapa2.png)
 _New locations in orange_## Floppy disk 3/3: At the Ape Peninsula
 
 Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminante», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar.
@@ -599,70 +598,70 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 > If your players ask you at the end of the adventure what the enigma of the Ape Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
 
-## Resumen del disquete III### Jungla perdida
+## Summary of the floppy disk 3/3### Jungla perdida
 
 #### Playa
 
 * **NPC:** Bridalis
-* **Elementos clicables:** Algas, Objetos que usa Bridalis en sus disfraces
-* **Conexiones:** Vómito del Kraken
+* **Clickable items:** Algas, Objetos que usa Bridalis en sus disfraces
+* **Connections:** Vómito del Kraken
 
 #### Jungla
 
-* **Elementos clicables:** Doblones de oro
-* **Conexiones:** Playa, Entrada de la cueva del tesoro
+* **Clickable items:** Doblones de oro
+* **Connections:** Playa, Entrada de la cueva del tesoro
 
 #### Entrada de la cueva del tesoro
 
 * **NPC:** Muchos simios
-* **Conexiones:** Jungla, Primera cámara
+* **Connections:** Jungla, Primera cámara
 
 #### Primera cámara de la cueva
 
-* **Elementos clicables:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
-* **Conexiones:** Entrada de la cueva del tesoro, Segunda cámara
+* **Clickable items:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
+* **Connections:** Entrada de la cueva del tesoro, Segunda cámara
 #### Segunda cámara de la cueva
 
-* **Elementos clicables:** Tronco
-* **Conexiones:** Primera cámara, Tercera cámara
+* **Clickable items:** Tronco
+* **Connections:** Primera cámara, Tercera cámara
 
 #### Tercera cámara de la cueva
 
-* **Elementos clicables:** Trampa cuchilla, Trampilla del mono vigía
-* **Conexiones:** Segunda cámara, Cámara del tesoro
+* **Clickable items:** Trampa cuchilla, Trampilla del mono vigía
+* **Connections:** Segunda cámara, Cámara del tesoro
 
 #### Cámara del tesoro
 
-* **Elementos clicables:** Lingotes de oro, Cruz de Coronado
-* **Conexiones:** Tercera cámara### El caminante
+* **Clickable items:** Lingotes de oro, Cruz de Coronado
+* **Connections:** Tercera cámara### El caminante
 
 #### Fuera de El caminante
 
-* **Elementos clicables:** Cadena del ancla
-* **Elementos clicables:** Percebes, lapas y mejillones
-* **Conexiones:** Playa, Cubierta inferior
+* **Clickable items:** Cadena del ancla
+* **Clickable items:** Percebes, lapas y mejillones
+* **Connections:** Playa, Cubierta inferior
 
 #### Cubierta inferior
 
 * **NPC:** Muchos zombis
-* **Conexiones:** Fuera de El caminante, Cubierta superior
+* **Connections:** Fuera de El caminante, Cubierta superior
 
 #### Cubierta superior
 
 * **NPC:** Muchos zombis inteligentes
-* **Elementos clicables:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
-* **Conexiones:** Cubierta inferior, Castillo de popa
+* **Clickable items:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
+* **Connections:** Cubierta inferior, Castillo de popa
 #### Castillo de popa
 
 * **NPC:** Primero de a bordo zombi
-* **Elementos clicables:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
-* **Conexiones:** Cubierta superior, Camarote de DraChuckla
+* **Clickable items:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
+* **Connections:** Cubierta superior, Camarote de DraChuckla
 
 #### Camarote de DraChuckla
 
 * **NPC:** DraChuckla, Gobernador Marlon, Ayudante zombi
-* **Elementos clicables:** Órgano
-* **Conexiones:** Castillo de popa
+* **Clickable items:** Órgano
+* **Connections:** Castillo de popa
 
 ### Mapa de ubicaciones
 
