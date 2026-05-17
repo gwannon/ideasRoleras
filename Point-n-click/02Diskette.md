@@ -35,7 +35,7 @@ As soon as they see them approaching, they'll see an opportunity to saddle some 
 
 They'll pull out a _**contract for work and service**_ with super small print, which they could only see with the _**Lulock Holmes magnifying glass**_ that _**Maxine the Red**_ has in her _**souvenir shop**_ and which she won't let them take, but it might be fun for them to try until they get bored and sign the contract.
 
-The contract stipulates that they must save the governor and his riches from the clutches of DraChuckla, who is currently in the lost Monkey Peninsula (lost because nobody knows how to get there).
+The contract stipulates that they must save the governor and his riches from the clutches of DraChuckla, who is currently in the lost Ape Peninsula (lost because nobody knows how to get there).
 
 To encourage them to sign, they'll be told that they might find the mythical treasure, Mac’n Cheese, since DraChuckla is searching for it right now on the peninsula, and if they find the vampirate, they might just stumble upon the treasure as a bonus.
 
@@ -98,7 +98,7 @@ They's a real show-off and likes to boast a lot about his voodoo powers, saying 
 After going around in circles with the conversation, if they are persistent, they will get all the necessary information out of him:
 
 * To defeat DraChuckla, you need the _**Coronado’s cross**, a gold cross and valuable jewels that are supposedly part of the _**Mac’n Cheese**_.
-* Everyone knows that the _**Mac’n Cheese**_ is hidden on Monkey Peninsula; the problem is finding the peninsula. To find it, you must use the **voodoo bones** and solve its mystery.
+* Everyone knows that the _**Mac’n Cheese**_ is hidden on Ape Peninsula; the problem is finding the peninsula. To find it, you must use the **voodoo bones** and solve its mystery.
 * The only way to counter the voodoo dolls DraChuckla made of them is to destroy them.
 
 As we've already mentioned, if your players are rude, they can turn them into chickens for a few minutes. The _**chicken**_ can be inserted into the equip as and item and will quickly revert to human form. They'll probably try to solve a challenge with this option, and if they're creative, they could use it.
@@ -189,7 +189,7 @@ New locations are in cursive.
 
 &nbsp;
 
-![Updated map of Bucan Ville](./images/mapa2.png)
+![Updated map of Bucan Ville](./images/mapa2EN.png)
 
 &nbsp;
 

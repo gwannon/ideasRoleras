@@ -296,6 +296,6 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 ### Map of Bucan Ville
 
-![Map of Bucan Ville](./images/mapa.png)
+![Map of Bucan Ville](./images/mapaEN.png)
 
 \conc

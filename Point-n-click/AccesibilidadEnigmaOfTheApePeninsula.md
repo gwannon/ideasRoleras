@@ -259,7 +259,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 ### Map of Bucan Ville
 
-![Map of Bucan Ville](./images/mapa.png)
+![Map of Bucan Ville](./images/mapaEN.png)
 
 ## Floppy disk 2/3: Mighty voodoo magic
 
@@ -283,7 +283,7 @@ As soon as they see them approaching, they'll see an opportunity to saddle some 
 
 They'll pull out a _**contract for work and service**_ with super small print, which they could only see with the _**Lulock Holmes magnifying glass**_ that _**Maxine the Red**_ has in her _**souvenir shop**_ and which she won't let them take, but it might be fun for them to try until they get bored and sign the contract.
 
-The contract stipulates that they must save the governor and his riches from the clutches of DraChuckla, who is currently in the lost Monkey Peninsula (lost because nobody knows how to get there).
+The contract stipulates that they must save the governor and his riches from the clutches of DraChuckla, who is currently in the lost Ape Peninsula (lost because nobody knows how to get there).
 
 To encourage them to sign, they'll be told that they might find the mythical treasure, Mac’n Cheese, since DraChuckla is searching for it right now on the peninsula, and if they find the vampirate, they might just stumble upon the treasure as a bonus.
 
@@ -340,7 +340,7 @@ They's a real show-off and likes to boast a lot about his voodoo powers, saying 
 After going around in circles with the conversation, if they are persistent, they will get all the necessary information out of him:
 
 * To defeat DraChuckla, you need the _**Coronado’s cross**, a gold cross and valuable jewels that are supposedly part of the _**Mac’n Cheese**_.
-* Everyone knows that the _**Mac’n Cheese**_ is hidden on Monkey Peninsula; the problem is finding the peninsula. To find it, you must use the **voodoo bones** and solve its mystery.
+* Everyone knows that the _**Mac’n Cheese**_ is hidden on Ape Peninsula; the problem is finding the peninsula. To find it, you must use the **voodoo bones** and solve its mystery.
 * The only way to counter the voodoo dolls DraChuckla made of them is to destroy them.
 
 As we've already mentioned, if your players are rude, they can turn them into chickens for a few minutes. The _**chicken**_ can be inserted into the equip as and item and will quickly revert to human form. They'll probably try to solve a challenge with this option, and if they're creative, they could use it.
@@ -402,22 +402,24 @@ New locations are in cursive.
 
 * **NPC:** Alfonsé
 * **Clickable items:** Bones of the oracle
-* **Connections:** The Swamp### Map of the island![Updated map of Bucan Ville](./images/mapa2.png)
+* **Connections:** The Swamp### Map of the island![Updated map of Bucan Ville](./images/mapa2EN.png)
 _New locations in orange_## Floppy disk 3/3: At the Ape Peninsula
 
-Tus jugadoras han conseguido llegar a la península del Simio y van a descubrir que cerca está fondeado en una pequeña cala «El caminante», el barco de DraChuckla. Así que deberán buscarse otro sitio donde desembarcar.
+Your players have reached the Ape Peninsula and are about to discover that «The Walker», DraChuckla's ship, is anchored nearby in a small cove. So they'll have to find another place to disembark.
 
-En este tercer disquete, deberán recorrer las 3 últimas escenas. Primero deberán encontrar el _**Mac’n Cheese**_ antes que el capitán DraChuckla y conseguir la _**Cruz de Coronado**_.
+On this third floppy disk, you must complete the last three scenes. First, you must find the _**Mac’n Cheese**_ before Captain DraChuckla and obtain the _**Cross of Coronado**_.
 
-Posteriormente, en la segunda escena, deberán infiltrarse en _**El Caminante**_, el barco zombi del DraChuckla, y recuperar sus _**muñecos vudús**_, ya que con ellos en poder de su enemigo, están indefensos antes la poderosa magia del malvado capitán vampirata.
+Later, in the second scene, they must infiltrate _**The Walker**_, DraChuckla's zombie ship, and recover their _**voodoo dolls**_, since with them in the possession of their enemy, they are defenseless against the powerful magic of the evil vampirate captain.
 
-Por último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte. Aquí no queremos segundas partes, ¿o sí?
+Finally, they must face DraChuckla in single combat and use the _**Cross of Coronado**_ to kill him—and kill him good. We don't want any sequels here, do we?
 
 ### 1. The dig
 
-Tus jugadoras han llegado a la costa de la península del Simio y lo primero es encontrar el gran tesoro pirata y conseguir la _**cruz de Coronado**_.
+Your players have arrived at the coast of the Ape Peninsula and the first thing is to find the great pirate treasure and get the _**Cross of Coronado**_.
+
+The first task is to find the cave where the treasure is hidden without getting lost in the jungle labyrinth. And this time, unlike with the swamp, there won't be a map.
 [![Silence By Fatbeard91](./images/silence_by_fatbeard91_dfvdlmr-414w-2x.jpg "Silence By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Silence-959695299 "Silence By Fatbeard91")
-Lo primero será encontrar la cueva donde está el tesoro sin perderse en el laberinto de la jungla. Y esta vez no habrá mapa como con el pantano. Deberán descubrir la clave, que son unos doblones en un pixel exacto que marcan la ruta.
+They'll have to discover the key: doubloons placed on a exact pixel that mark the route.
 
 Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
 
@@ -452,7 +454,7 @@ La única manera de atravesar el laberinto es seguir el rastro de _**doblones de
 Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_.
 A partir de ese momento, cuando entren en la jungla, llegarán directamente a la _**entrada de la cueva**_.
 
-#### Entrada de la cueva del tesoro
+#### Entrance to the cave
 
 La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un _**montón de simios**_ que te gruñen y lanzan cacas si te acercas.
 
@@ -468,7 +470,7 @@ Si les cae una caca encima a una de tus jugadoras, saldrá corriendo a la playa 
 
 Las cacas una vez impactan desaparecen sin dejar pistas de donde están las zonas de caída de cacas.
 
-#### Primera cámara de la cueva
+#### First chamber of the cave
 
 En esta _**primera cámara**_ hay tres _**estatuas de simios**_, cada una con un gesto, uno que se tapa las orejas, otro la boca y otro los ojos. Encima de cada una las _**estatuas**_ hay un pequeño simio que imita cualquier gesto. Si avanzan y algún simio no es igual al gesto de su estatua, en cuanto pasan las _**3 estatuas**_, los simios tocan algún resorte y se levanta un muro que no les deja avanzar.
 
@@ -488,7 +490,7 @@ La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
 |2ª estatua **boca**|Orejas|**Boca**|Ojos|
 Si colocan cada simio en su estatua, no saltará el muro y podrán avanzar. Los gestos se conservan aunque salgan de la pantalla.
 
-#### Segunda cámara de la cueva
+#### Second chamber of the cave
 
 En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece ser demasiado corto para hacer una pasarela con la que pasar por encima del precipicio. Las soluciones pueden ser muy varias.
 
@@ -497,7 +499,7 @@ En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece se
 * El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar, pasar andando y volver a subir por el otro lado.
 * Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
 
-#### Tercera cámara de la cueva
+#### Third chamber of the cave
 
 La _**tercera cámara**_ es un largo pasillo en el que parece que no hay nada, pero cuando vayan a atravesarla saldrá una _**cuchilla gigante del techo**_ que estará a punto de cortarles por la mitad y no podrán pasar al otro lado.
 
@@ -512,7 +514,7 @@ Si van avanzando, una jugadora en cada lado de la pantalla, cuando la de la dere
 Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
 
 Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista de cómo funciona la _**simio-cuchilla**_.
-#### Cámara del tesoro
+#### Treasure chamber
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
 
@@ -609,31 +611,31 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 #### Jungle
 
 * **Clickable items:** Doblones de oro
-* **Connections:** Playa, Entrada de la cueva del tesoro
+* **Connections:** Beach, Entrance of the cave
 
-#### Entrada de la cueva del tesoro
+#### Entrance of the cave
 
 * **NPC:** Muchos simios
-* **Connections:** Jungla, Primera cámara
+* **Connections:** Jungle, 1st chamber
 
-#### Primera cámara de la cueva
+#### First chamber of the cave
 
 * **Clickable items:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
-* **Connections:** Entrada de la cueva del tesoro, Segunda cámara
-#### Segunda cámara de la cueva
+* **Connections:** Entrance of the cave, 2nd chamber
+#### Second chamber of the cave
 
 * **Clickable items:** Tronco
-* **Connections:** Primera cámara, Tercera cámara
+* **Connections:** 1st chamber, 3rd chamber
 
-#### Tercera cámara de la cueva
+#### Third chamber of the cave
 
 * **Clickable items:** Trampa cuchilla, Trampilla del mono vigía
-* **Connections:** Segunda cámara, Cámara del tesoro
+* **Connections:** 2nd chamber, Treasure chamber
 
-#### Cámara del tesoro
+#### Treasure chamber
 
-* **Clickable items:** Lingotes de oro, Cruz de Coronado
-* **Connections:** Tercera cámara### El caminante
+* **Clickable items:** Lingotes de oro, Cross of Coronado
+* **Connections:** 3rd chamber### The walker
 
 #### Fuera de El caminante
 
@@ -668,7 +670,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 ```
 Kraken's puke
  ↕
-Beach ↔ Jungle ↔ Entrada cueva ↔ 1ª cámara ↔ 2ª cámara ↔ 3ª cámara ↔ Cámara del tesoro
+Beach↔Jungle↔Entrance cave↔1st chamber↔2nd chamber↔3rd chamber↔Treasure chamber
     ↘ Fuera de El caminante ↔ Cub. inferior ↔ Cub. superior ↔ Castillo de popa ↔ Camarote
 ```## License and acknowledgments
 
