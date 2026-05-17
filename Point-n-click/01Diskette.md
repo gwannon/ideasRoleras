@@ -230,7 +230,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 ### Shipyard
 
 * **NPC:** Sam
-* **Clickable items:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
+* **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat, Title deed, Pile of papers specifying the payment method
 * **Connections:** Bucan Ville's Main Square
 
 ### Bucan Ville
@@ -272,12 +272,12 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 #### Basement
 
-* **Clickable items:** Safe, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Clickable items:** Safe, Note with instructions for opening the safe (Exact pixel)
 * **Connections:** Governor's mansion (Main Hall)
 
 \sp
 
-### Muelles
+### Docks
 
 #### Harbour
 
@@ -287,7 +287,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 #### Boiled Crab Tavern
 
 * **NPC:** Pirate Lady Bosses, Drunken pirates
-* **Clickable items:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Souvenirs Shop
+* **Clickable items:** Fruit bowl, Random piece of fruit, Discount voucher of the souvenir shop
 * **Connections:** Harbour
 
 \sinc

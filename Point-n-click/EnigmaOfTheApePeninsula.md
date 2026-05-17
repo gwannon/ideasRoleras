@@ -79,7 +79,7 @@ All the content for this project can be found at [pointnclick.gwannon.com](https
 
 \sc
 
-### Atributiones
+### Atributions
 
 #### Fonts
 

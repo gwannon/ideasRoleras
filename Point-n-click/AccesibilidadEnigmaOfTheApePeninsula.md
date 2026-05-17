@@ -200,7 +200,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 ### Shipyard
 
 * **NPC:** Sam
-* **Clickable items:** Barco pirata de lujo, Barco pirata de 2ª mano, Barco de pesca, Barca con remos, Título de propiedad, Montón de papeles especificando la forma de pago del bote de remos
+* **Clickable items:** Luxury pirate ship, Second-hand pirate ship, Fishing boat, Rowboat, Title deed, Pile of papers specifying the payment method
 * **Connections:** Bucan Ville's Main Square
 
 ### Bucan Ville
@@ -242,9 +242,9 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 
 #### Basement
 
-* **Clickable items:** Safe, Nota con la combinación de la caja fuerte (píxel exacto)
+* **Clickable items:** Safe, Note with instructions for opening the safe (Exact pixel)
 * **Connections:** Governor's mansion (Main Hall)
-### Muelles
+### Docks
 
 #### Harbour
 
@@ -254,7 +254,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 #### Boiled Crab Tavern
 
 * **NPC:** Pirate Lady Bosses, Drunken pirates
-* **Clickable items:** Frutero, Pieza de fruta aleatoria, Bono de descuento de la Souvenirs Shop
+* **Clickable items:** Fruit bowl, Random piece of fruit, Discount voucher of the souvenir shop
 * **Connections:** Harbour
 
 ### Map of Bucan Ville
@@ -413,7 +413,7 @@ Posteriormente, en la segunda escena, deberán infiltrarse en _**El Caminante**_
 
 Por último, deberán enfrentarse en singular combate con DraChuckla y usar la Cruz de Coronado para darle muerte, pero una muerte muerte. Aquí no queremos segundas partes, ¿o sí?
 
-### 1. La excavación
+### 1. The dig
 
 Tus jugadoras han llegado a la costa de la península del Simio y lo primero es encontrar el gran tesoro pirata y conseguir la _**cruz de Coronado**_.
 [![Silence By Fatbeard91](./images/silence_by_fatbeard91_dfvdlmr-414w-2x.jpg "Silence By Fatbeard91")](https://www.deviantart.com/fatbeard91/art/Silence-959695299 "Silence By Fatbeard91")
@@ -425,7 +425,7 @@ En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_, está 
 
 > Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_, de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
 
-#### La playa
+#### The beach
 
 Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Puede recoger algas del suelo, aunque están secas y son malolientes. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_.
 
@@ -443,7 +443,7 @@ Si las ves muy perdidas puedes darles, alguno de los objetos que está usando _*
 
 Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_.
 
-#### La jungla
+#### The jungle
 
 La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo, izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
 
@@ -600,13 +600,13 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 ## Summary of the floppy disk 3/3### Jungla perdida
 
-#### Playa
+#### Beach
 
 * **NPC:** Bridalis
 * **Clickable items:** Algas, Objetos que usa Bridalis en sus disfraces
-* **Connections:** Vómito del Kraken
+* **Connections:** Kraken's puke
 
-#### Jungla
+#### Jungle
 
 * **Clickable items:** Doblones de oro
 * **Connections:** Playa, Entrada de la cueva del tesoro
@@ -666,9 +666,9 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 ### Mapa de ubicaciones
 
 ```
-Vómito del Kraken
+Kraken's puke
  ↕
-Playa ↔ Jungla ↔ Entrada cueva ↔ 1ª cámara ↔ 2ª cámara ↔ 3ª cámara ↔ Cámara del tesoro
+Beach ↔ Jungle ↔ Entrada cueva ↔ 1ª cámara ↔ 2ª cámara ↔ 3ª cámara ↔ Cámara del tesoro
     ↘ Fuera de El caminante ↔ Cub. inferior ↔ Cub. superior ↔ Castillo de popa ↔ Camarote
 ```## License and acknowledgments
 
@@ -677,7 +677,7 @@ Playa ↔ Jungla ↔ Entrada cueva ↔ 1ª cámara ↔ 2ª cámara ↔ 3ª cáma
 «The enigma of the Ape Peninsula» is an adventure for the point-and-click RPG written by [@gwannon](https://gwannon.com) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). You may use all of this material as you wish, even commercially, except for images and fonts, which belong to their respective creators and are properly attributed. To use this material, you only need to attribute it appropriately.
 
 All the content for this project can be found at [pointnclick.gwannon.com](https://pointnclick.gwannon.com/MisterioDeLaPeninsulaDelSimio.html), and all the source code is available on [GitHub](https://github.com/gwannon/ideasRoleras/tree/main/Point-n-click).
-### Atributiones
+### Atributions
 
 #### Fonts
 
