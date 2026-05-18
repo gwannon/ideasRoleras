@@ -15,9 +15,6 @@ Hay pequeñas modificaciones a las reglas de creación de personaje propuestas e
 ### Tabla de profesiones, razas y orígenes
 
 Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguiente tabla. Puedes inspirarte en ella, elegir lo que más te guste o puedes tirar 2d6 en cada columna a ver qué te sale. 
-
-\sc
-
 |2d6|Raza|Origen|Ocupación|
 |---|---|---|---|
 |2|Halfling|XXX|Gladiador del circo|
@@ -67,9 +64,6 @@ XXX
 ### El agua
 
 XXX
-
-\sp
-
 ## Estados especiales
 
 XXX
@@ -112,10 +106,7 @@ XXX
 
 ## Lugares de aventuras
 
-XXX
-
-
-## Licencia
+XXX## Licencia
 
 Este documento es una **obra fan sin ánimo de lucro** que no tiene los derechos de DarkSun, ni tiene relación con ninguna de las empresas propietaria de los derechos de DarkSun. Es por ello que está desarrollado bajo la licencia [OPEN GAME LICENSE Version 1.0a](https://opengamingfoundation.org/ogl.html).
 
