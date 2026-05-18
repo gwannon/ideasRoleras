@@ -4,6 +4,8 @@ Esta ambientación adapta de forma fan el mundo de DarkSun al sistema [Espadas &
 
 Esta adaptación está más centrada en el _lore_ creado por Troy Denning para las novelas de Dark Sun de Pentaprisma que en las reglas de la propia ambientación para AD&D.
 
+Athas es un mundo hace milenios desolado por la magia que lo ha convertido en un páramo desértico donde rige la ley del más fuerte y poderoso, siendo Boris, el dragón, el ser más poderoso de Athas. Por debajo de él, están los reyes hechiceros de las diferentes ciudades estado, Tyr, Balic, Gulg, ...
+
 Las siguientes reglas estarían pensadas para jugar entre la caída de Kalak y XXX.
 
 ## Creación de personajes
@@ -14,7 +16,7 @@ _Esclavitud/Rango social al crear tu personaje._
 
 ### Tabla de profesiones, razas y orígenes
 
-Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguiente tabla. Puedes inspirarte en ella, elegir lo que más te guste o puedes tirar 2d6 a ver qué te sale. 
+Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguiente tabla. Puedes inspirarte en ella, elegir lo que más te guste o puedes tirar 2d6 en cada columna a ver qué te sale. 
 
 |2d6|Raza|Origen|Ocupación|
 |---|---|---|---|
@@ -34,7 +36,7 @@ _&ast; Solo para humano_
 
 Para ayudarte a definir mejor a tu personaje puedes usar alguna de las siguientes clases clásicas de la fantasía medieval:
 
-* Clérigo elemental (sol, viento y arena).
+* Clérigo elemental (sol, viento y arena)/templario.
 * Explorador/cazador
 * Guerrero/Gladiador
 * Ladrón/bardo/asesino
@@ -44,6 +46,14 @@ Para ayudarte a definir mejor a tu personaje puedes usar alguna de las siguiente
 ### Mutantes y mutaciones
 
 XXX
+
+## La escasez
+
+Si hay algo que **define DarkSun es la escasez**. Hay poco de todo y conseguirlo es cuesta una barbaridad y protegerlo mucho más. Hay poca agua, hay poca comida, hay poco hierro, hay pocos aliados, no hay casi justicia y menos educacion y nada de libertad. Pero sobre todo hay **poquisimas posibilidades de sobrevivir**.
+
+Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sumir en esa escasez a sus congéneres.
+
+> Has tener claro que para tus PJ lucharán principalmente por recursos que les permitirán sobrevivir un día más y tendrán que hacer lo que sea por conservar esos recursos. Dar esos recursos a otros desinteresadamente es un gran sacrificio que debería tenerse en cuenta.
 
 ## Equipo y tesoro
 
@@ -75,7 +85,9 @@ La fuerza más poderosa que existe es la fusión de la magia y la psiónica. XXX
 
 ## Objetos mágicos
 
-XXX
+Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para que sirve el amuleto que encontraste en las ruinas del desierto.
+
+Si, como DJ, quieres dar equipo bueno, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
 
 ## Monstruos
 
