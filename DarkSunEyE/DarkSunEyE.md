@@ -22,7 +22,7 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |---|---|---|---|
 |2|Halfling|XXX|Gladiador del circo|
 |3|Mul|XXX|Comerciante de casa mayor&ast;|
-|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;|
+|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;, jefe de tribu nomada|
 |5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
 |6|Humano|Tribu de esclavos escapados de las Llanuras de Sal|Caravanero|
 |7|Humano|Pozos de esclavos|Esclavo, sirviente|

@@ -19,7 +19,7 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |---|---|---|---|
 |2|Halfling|XXX|Gladiador del circo|
 |3|Mul|XXX|Comerciante de casa mayor&ast;|
-|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;|
+|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;, jefe de tribu nomada|
 |5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
 |6|Humano|Tribu de esclavos escapados de las Llanuras de Sal|Caravanero|
 |7|Humano|Pozos de esclavos|Esclavo, sirviente|
@@ -109,7 +109,7 @@ XXX## Licencia
 
 Este documento es una **obra fan sin ánimo de lucro** que no tiene los derechos de DarkSun, ni tiene relación con ninguna de las empresas propietaria de los derechos de DarkSun. Es por ello que está desarrollado bajo la licencia [OPEN GAME LICENSE Version 1.0a](https://opengamingfoundation.org/ogl.html).
 
-Esta ambientación está basada en [Espadas & Espectros](https://shannonmcordo.itch.io/espadas-espectros) de [Sergiño](https://shannonmcordo.itch.io/) que está escrito bajo una licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Otras aatribuciones:
+Esta ambientación está basada en [Espadas & Espectros](https://shannonmcordo.itch.io/espadas-espectros) de [Sergiño](https://shannonmcordo.itch.io/) que está escrito bajo una licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Otras atribuciones:
 
 * [Textura arena](https://www.magnific.com/free-photo/sand-background-textures_3816183.htm)
 
