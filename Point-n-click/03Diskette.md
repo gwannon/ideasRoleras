@@ -28,11 +28,11 @@ The first task is to find the cave where the treasure is hidden without getting 
 
 They'll have to discover the key: doubloons placed on a exact pixel that mark the route.
 
-Para acceder al tesoro, que está al fondo de la cueva, deberán pasar por 3 pantallas y en cada una de ellas solucionar un pequeño puzzle.
+To access the treasure, which is at the bottom of the cave, they must pass through 3 screens and solve a small puzzle on each one.
 
-En el fondo de la cueva, encima de una montaña de _**lingotes de oro**_, está la _**cruz de Coronado**_, pero escalar el montón de _**lingotes**_ y coger la cruz será otro reto.
+At the bottom of the cave, on top of a mountain of _**gold ingots**_, is the Cross of Coronado**_, but climbing the pile of _**ingots**_ and getting the cross will be another challenge.
 
-> Si quieres simplificar las cosas puedes hacer que _**El Caminante**_ hunda el barco de tus jugadoras, _**El vómito del Kraken**_, de forma que no puedan salir de la península. Así evitas que se vuelvan locos intentando cosas en _**Bucan Ville**_ para usarla en esta parte.
+> If you want to simplify things, you can have _**The Walker**_ sink your players' ship, _**The Kraken's Puke**_, so they can't leave the peninsula. This prevents them from going crazy trying to travel to _**Bucan Ville**_ for this part.
 
 #### The beach
 
@@ -221,7 +221,7 @@ The governor will promise you a political position if you help him get re-electe
 
 There will be music, parties, dancing, and grog galore, culminating in fireworks that no one knows where they came from. Let each player say a solemn phrase as the fireworks explode, and…
 
-Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will begin to glow while eerie organ music plays, before transitioning to the adventure's credits and a «The End».
+Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will begin to glow while ghostly organ music plays, before transitioning to the adventure's credits and a «The End».
 
 > If your players ask you at the end of the adventure what the enigma of the Ape Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
 
@@ -235,7 +235,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 &nbsp;
 
-### Jungla perdida
+### Lost Jungle
 
 &nbsp;
 
@@ -276,14 +276,14 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Treasure chamber
 
-* **Clickable items:** Lingotes de oro, Cross of Coronado
+* **Clickable items:** Gold ingots, Cross of Coronado
 * **Connections:** 3rd chamber
 
 \sp
 
 \sinc
 
-### The walker
+### The Walker
 
 &nbsp;
 
