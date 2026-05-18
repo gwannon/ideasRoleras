@@ -22,17 +22,19 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |---|---|---|---|
 |2|Halfling|XXX|Gladiador del circo|
 |3|Mul|XXX|Comerciante de casa mayor&ast;|
-|4|Semigigante|XXX|Comerciante de casa menor&ast;|
-|5|Enano|XXX|Cantero|
+|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;|
+|5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
 |6|Humano|Tribu de esclavos escapados de las Llanuras de Sal|Caravanero|
 |7|Humano|Pozos de esclavos|Esclavo, sirviente|
-|8|Humano|Barrios bajo de Tyr|Artesano|
+|8|Humano|Barrios bajos de Tyr|Artesano|
 |9|Elfo|Tribu nómada del Estuario de la Lengua Bífida|Contrabandista|
-|10|Semielfo|XXX|Noble menor&ast;, templario&ast;|
+|10|Semielfo|Bosquimanos del bosque de la Luna Creciente|Noble menor&ast;, templario&ast;|
 |11|Thri-keen|XXX|Noble mayor&ast;|
 |12|Mutante|XXX|Superviviente del páramo|
 
 _&ast; Recomendado solo para humano_
+
+\sc
 
 Para ayudarte a definir mejor a tu personaje puedes usar alguna de las siguientes clases clásicas de la fantasía medieval:
 
@@ -58,6 +60,8 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 
 > Has de tener claro que para tus PJ lucharán principalmente por recursos que les permitirán sobrevivir un día más y tendrán que hacer lo que sea por conservar esos recursos. Dar esos recursos a otros desinteresadamente es un gran sacrificio que debería tenerse en cuenta.
 
+\sp
+
 ## Equipo y tesoro
 
 _Los objetos mágicos son muy escasos, una forma de hacerlos «mágicos» es que sean de metal._
@@ -67,8 +71,6 @@ XXX
 ### El agua
 
 XXX
-
-\sp
 
 ## Estados especiales
 
