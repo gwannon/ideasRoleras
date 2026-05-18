@@ -397,3 +397,5 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QSi no, se quedará llamando a la puerta confundido y gritando sandeces hasta que vuelva a salir tu número de pétalos en todos tus dados, momento en el que se irá.\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QSiempre que salgan tu número de pétalos actuales en todos los dados una de tus tiradas, sonará la timbre y al otro lado de la puerta principal, de la trasera o la trampilla exterior del sótano aparecerá Donald Trump.\\E$"}
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi no cae en ella el tonto de Trump, no caerá nadie.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEs por ello que está desarrollado bajo la licencia OPEN GAME LICENSE Version 1.0a.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QA Ezkardan y Turbiales por su serie de vídeos sobre la historia de DarkSun 1 / 2 / 3.\\E$"}
