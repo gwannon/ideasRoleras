@@ -85,16 +85,16 @@ En caso de necesidad podrían **racionar el agua para que les dure el doble**, p
 En Athas hay varias formas de magia, pero casi siempre sus efectos son proyecciones en bruto de energía mágica, explosiones de fuego que calcinan a tus enemigos, vientos huracanados que te elevan por los aires, cuchillas de obsidiana que salen del suelo, …
 
 * **Clerical de los elementos:** Se alimenta del fuego, el viento y la arena. 
-* **Magia arcana:** Esta magia se alimenta de los seres vivos, especialmente de las plantas, y fue la que asoló Athas convirtiéndolo en un erial. Es por ello que está prohibida y es perseguido su uso tanto por lo reyes hechiceros como los preservadores de la Alianza del Velo.
+* **Magia arcana:** Esta magia se alimenta de los seres vivos, especialmente de las plantas, y fue la que asoló Athas convirtiéndolo en un erial. Es por ello que está prohibida y es perseguido su uso tanto por los reyes hechiceros como los preservadores de la Alianza del Velo.
 * **Magia patrocinada:** Los reyes hechiceros pueden ceder parte de su magia a sus seguidores, pero no suelen darles grandes poderes, para tenerlos controlados.
 
-> **Profanar o preservar:** Al lanzar tus hechizos pueden elegir preservar la tierra o profanarla y conseguir hechizos más poderosos. XXX
+> **Profanar o preservar:** Al lanzar tus hechizos pueden elegir preservar la tierra o profanarla y conseguir hechizos más poderosos. El DJ debe decir cuantos ♡ se pueden extraer de la tierra de la zona para alimentar tus hechizos. Si sacas 1♡ o más la tierra se hará cenizas, pero se podrá recuperar con tiempo. Si se gastan todos los ♡, la tierra queda profanada y estéril.
 
 La **psiónica**, aunque por ambientación es diferente de la magia, **mecánicamente es otra forma de magia**. Sus efectos son más sutiles, con **telekinesis, control mental, ilusiones, mejora personal, teletransporte …**
 
 La fuerza más poderosa que existe en todo Athas es la **fusión de la magia y la psiónica**. Aquel que pueda controlar y fusionar estas fuerzas, como ya hizo en su día Boris el dragón, será imparable. Si tus aventureros tratan de usar estos poderes de forma conjunta debería conseguir efectos muy poderosos, pero si fallan seguramente las consecuencias serán desastrosas.
 
-|1d6|Desastres magicos|
+|1d6|Desastres mágicos|
 |---|---|
 |1|El conjuro hace lo contrario o afecta otro objetivo.|
 |2|La magia chamusca uno de tus objetos, hazle una marca.|
@@ -119,7 +119,7 @@ Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad
 Crear monstruos en DarkSun es fácil, simplemente coge insectos y reptiles del desierto y hazlo de mayor tamaño. Normalmente serán esbirros y puede que el jefe de la manada o la reina de la colonia sean jefes. A estos, ponles algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis. Otros monstruos que puedes sacar serían:
 
 * **Belgoi (Esbirro):** Duendes carnívoros de las dunas que usan campanillas para atraerte.
-* **Braxat (Jefe):** Humanoide gigante con armadura quitinosa. Puede atacar a varios objetivos a la vez con gran fuerza y uelen tener algo de psiónica.
+* **Braxat (Jefe):** Humanoide gigante con armadura quitinosa. Puede atacar a varios objetivos a la vez con gran fuerza y suelen tener algo de psiónica.
 * **Thrax (Jefe):** Vampiro que roba el agua y los nutrientes de sus víctimas. Toque vampírico que le cura.
 * **Banshee (Jefe):** Enano que murió sin cumplir su foco. Armas de hierro, armadura completa, escudo y nunca se rinden.
 * **Reyes hechiceros (Legendario):** Solo un equipo bien organizado y poderoso podría enfrentarse a estos poderosos hechiceros que controlan la fusión de la magia y la psiónica.
@@ -141,7 +141,7 @@ La vida en Athas es muy diferentes a otros mundos de fantasía y eso también se
 
 DarkSun no es un mundo de mazmorras que explorar. Lo poco que queda ha sido esquilmado y muy de vez en cuando las tormentas de arena destapan alguna ruina enterrada en la arena, pero seguramente saldrás más pobres de lo que has entrado.
 
-Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, días de circo, rebeliones de esclavos, asedios, ... 
+Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, días de circo, rebeliones de esclavos, asedios, … 
 
 ## Licencia
 

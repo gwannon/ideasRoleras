@@ -399,3 +399,7 @@
 {"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QSi no cae en ella el tonto de Trump, no caerá nadie.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEs por ello que está desarrollado bajo la licencia OPEN GAME LICENSE Version 1.0a.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QA Ezkardan y Turbiales por su serie de vídeos sobre la historia de DarkSun 1 / 2 / 3.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QNo es habitual, pero aún pueden verse los efectos de todos esos desastres en los seres vivos actuales.\\E$"}
+{"rule":"FORM","sentence":"^\\QEn Athas hay varias formas de magia, pero casi siempre sus efectos son proyecciones en bruto de energía mágica, explosiones de fuego que calcinan a tus enemigos, vientos huracanados que te elevan por los aires, cuchillas de obsidiana que salen del suelo, …\\E$"}
+{"rule":"FORM","sentence":"^\\QLos esclavos nunca beben la ración diaria de agua, sino que se la racionan de forma que siempre están sedientos.\\E$"}
+{"rule":"FORM","sentence":"^\\QLa psiónica, aunque por ambientación es diferente de la magia, mecánicamente es otra forma de magia.\\E$"}
