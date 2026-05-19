@@ -64,19 +64,17 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 
 ## Equipo y tesoro
 
-_Los objetos mágicos son muy escasos, una forma de hacerlos «mágicos» es que sean de metal._
+Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1 tesoro cada semana por los gastos de agua y comida**. El alojamiento va a parte. Si te quedas sin tesoro ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
 
-XXX
+Hay una regla especial para el desgaste, toda arma, escudo o v no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
 
-### El agua
-
-XXX
+Por último, **los precios en asentamientos menores y lo que compres a tribus nómadas y en carracas comerciales** no será 1 tesoro, sino **1d3 tesoros**.
 
 ## Estados especiales
 
-XXX
+La muerte por deshidratación es una realidad en DarkSun, así que  hay un estado especial denominado sediento, que ocurre cuando no recibes tu ración diaria de agua. El primer día la sed afectará a tu Voluntad, el según día a tu Destreza y el tercer día la falta de agua afectará a tu Fuerza. A partir de ahí, cada día perderás un corazón hasta morir. este proceso se corta bebiendo una ración diaria de agua y 8 horas de descanso.
 
-¿Sediento?
+En caso de necesidad podrían racionar el agua para que les dure el doble, pero siempre tendrán el estado Sediento que cada día afectará a un atributo diferente.
 
 ## Magia y psiónica
 
