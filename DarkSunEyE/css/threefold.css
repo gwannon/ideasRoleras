@@ -4,7 +4,7 @@
   --accent-color: #211826;
   --accent-color-transparent: #21182628;
   --background-color: #e8ab3a;
-  --main-font-size: 13px;
+  --main-font-size: 12px;
 }
 
 @font-face {
@@ -31,21 +31,6 @@ body#DarkSunEyEBW {
   --accent-color-transparent: #00000028;
   --background-color: #ffffff;
 }
-
-/*body:before,
-body:after {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 33.33%;
-  width: 1px;
-  height: 100vh;
-  border-left: 1px dashed var(--main-color);
-}
-
-body:after {
-  left: 66.66%;
-}*/
 
 * {
   margin: 0 0 8px 0;
@@ -121,6 +106,7 @@ h2 {
 
 h3 {
   font-size: 1.2em;
+  margin-bottom: 6px;
 }
 
 /* -------------- TEXTOS -------------- */
@@ -159,16 +145,8 @@ body#DarkSunEyEBW table tbody tr:nth-child(even) {
 
 table td,
 table th {
-  padding: 3px;
+  padding: 1px;
   font-size: 1em;
-}
-
-hr {
-  height: 2px;
-  border: none;
-  background-color: var(--accent-color);
-  width: 45%;
-  margin: 20px auto;
 }
 
 /* -------------- COLUMNAS -------------- */

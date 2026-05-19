@@ -19,16 +19,16 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |2d6|Raza|Origen|Ocupación|
 |---|---|---|---|
 |2|Halfling|Cresta Boscosa|Gladiador del circo|
-|3|Mul|XXX|Comerciante de casa mayor&ast;|
-|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;, jefe de tribu nómada|
+|3|Mul|Urik|Comerciante de casa mayor&ast;|
+|4|Semigigante|Barcazas del Mar de Polvo|Comerciante de casa menor&ast;, jefe de tribu nómada|
 |5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
 |6|Humano|Tribu de esclavos escapados de las Llanuras de Sal|Caravanero|
 |7|Humano|Pozos de esclavos|Esclavo, sirviente|
 |8|Humano|Barrios bajos de Tyr|Artesano|
 |9|Elfo|Tribu nómada del Estuario de la Lengua Bífida|Contrabandista|
 |10|Semielfo|Bosquimanos del bosque de la Luna Creciente|Noble menor&ast;, templario&ast;|
-|11|Thri-keen|XXX|Noble mayor&ast;|
-|12|Mutante|XXX|Superviviente del páramo|
+|11|Thri-keen|Barrios altos de Tyr|Noble mayor&ast;|
+|12|Mutante|Más allá del Mar de Polvo|Superviviente del páramo|
 
 _&ast; Recomendado solo para humano_
 
@@ -42,11 +42,17 @@ Para ayudarte a definir mejor a tu personaje puedes usar alguna de las siguiente
 
 ### Esclavitud y clase social
 
-XXX
+La sociedad de DarkSun es una **sociedad muy estratificada con grandes diferencias entre clases**. Los ricos y poderosos son muy ricos y poderosos permitiéndose, por ejemplo, tener fuentes de agua como decoración en sus palacios, frente a las clases bajas que se mueren de sed en las calles por no poder pagar una ración de agua.
+
+Y por debajo de todos los anteriores están los esclavos. Estamos en una sociedad en que **caer en la esclavitud es muy fácil**. Has de tener en cuenta que la vida de los esclavos no vale nada y siendo esclavo no tienes ningún derecho. Vives o mueres según dicte tu amo.
+
+Estas diferencias sociales tan grandes hacen que la opresión sea algo normal y las **rebeliones contra esa opresión** sean un tema muy importante en sus aventuras. Pero también debes recordar que aquí no hay un imperio malvado en la otra punta del continente que esclaviza a la gente, aquí son las personas normales las que esclavizan a otras personas normales.
 
 ### Mutantes y mutaciones
 
-XXX
+Athas es un mundo donde hace milenios los halflings hicieron grandes experimentos genéticos con diferentes razas, si a eso le sumamos la radiación que dejo la magia profanadora que desolo la tierra, los mutantes y las mutaciones son algo que puede ocurrir. No es habitual, pero aún pueden verse los efectos de todos esos desastres en los seres vivos actuales.
+
+Las mutaciones te van a **permitir meter lo que quieras en tus aventuras** y poder explicarlo diciendo que son mutantes, así de simple. Quieres meter un Thri-keen con alas de libélula que vuela, es una mutación. Megalodones que nadan por la arena como si fuera agua, otra mutación de unos seres que existieron cuando el planeta era casi todo agua.
 
 ## La escasez
 
@@ -58,9 +64,11 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 
 ## Equipo y tesoro
 
-Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
+Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. 
+Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
 
-Hay una regla especial para el desgaste, toda arma, escudo o armadura no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
+Hay una **regla especial para el desgaste**, toda arma, escudo o armadura no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
+
 Por último, **los precios en asentamientos menores y lo que compres a tribus nómadas y en carracas comerciales** no será 1⟡, sino **1d3 ⟡**.
 
 ## Estados especiales
@@ -75,23 +83,22 @@ _No hay magia profanadora o preservadora, si profanas o preservar es «algo que 
 
 XXX
 
-### Fusionar magia y psiónica
-
-La fuerza más poderosa que existe es la fusión de la magia y la psiónica. XXX
+La fuerza más poderosa que existe en todo Athas es la **fusión de la magia y la psiónica**. Aquel que pueda controlar y fusionar estas fuerzas, como ya hizo en su día Boris el dragón, será imparable. Si tus aventureros tratan de usar estos poderes de forma conjunta debería conseguir efectos muy poderosos, pero si fallan seguramente las consecuencias serán desastrosas.
 
 ## Objetos mágicos
 
-Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para qué sirve el amuleto que encontraste en las ruinas del desierto. Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
+Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para qué sirve el amuleto que encontraste en las ruinas del desierto.
+
+Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
 
 * **Equipo de metal.** Todo equipo de metal siempre será más duradero y mejor que su equivalente no metálico, pero recuerda que no puedes ir con protecciones de metal en pleno desierto, acabarás frito.
 * **Odre sin fugas.** Permite llevar agua para 7 días. Debido a su gran calidad no tiene fugas ni evaporaciones y las raciones de agua duran un 50% más (10 días).
 * **Silbato de hueso.** Te permitirá llamar a tu montura sin hacer ruido, ya que solo lo oyen los animales.
 * **Mochila élfica:** Tan bien construida que **tiras con ventaja** al sacar equipo rápidamente.
-* **XXX.** XXX
 
 ## Monstruos
 
-Crear monstruos en DarkSun es fácil, simplemente coge insectos y reptiles del desierto y hazlo de mayor tamaño. Normalmente serán esbirros y puede que el jefe de la manada o la reina de la colonia sean jefes. A estos, ponles algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis. Otros monstruos que peudes sacar serían:
+Crear monstruos en DarkSun es fácil, simplemente coge insectos y reptiles del desierto y hazlo de mayor tamaño. Normalmente serán esbirros y puede que el jefe de la manada o la reina de la colonia sean jefes. A estos, ponles algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis. Otros monstruos que puedes sacar serían:
 
 * **Belgoi (Esbirro):** XXX
 * **Merodeador de las dunas (Esbirro):** Elfo que murió en una carrera.
@@ -121,10 +128,6 @@ Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aven
 
 Este documento es una **obra fan sin ánimo de lucro** que no tiene los derechos de DarkSun, ni tiene relación con ninguna de las empresas propietaria de los derechos de DarkSun. Es por ello que está desarrollado bajo la licencia [OPEN GAME LICENSE Version 1.0a](https://opengamingfoundation.org/ogl.html).
 
-Esta ambientación está basada en [Espadas & Espectros](https://shannonmcordo.itch.io/espadas-espectros) de [Sergiño](https://shannonmcordo.itch.io/) que está escrito bajo una licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Otras atribuciones:
+Esta ambientación está basada en [Espadas & Espectros](https://shannonmcordo.itch.io/espadas-espectros) de [Sergiño](https://shannonmcordo.itch.io/) que está escrito bajo una licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Otras atribuciones: [Textura arena](https://www.magnific.com/free-photo/sand-background-textures_3816183.htm)
 
-* [Textura arena](https://www.magnific.com/free-photo/sand-background-textures_3816183.htm)
-
-## Agradecimientos
-
-A [Ezkardan](https://www.youtube.com/@Ezkardan) y [Turbiales](https://www.youtube.com/@Turbiales) por su serie de vídeos sobre la historia de DarkSun [1](https://www.youtube.com/watch?v=zPUrgaLXOR8) / [2](https://www.youtube.com/watch?v=5Y9M6Gjwbw8) / [3](https://www.youtube.com/watch?v=mj1_DtNry-0).
+Agradecimientos a [Ezkardan](https://www.youtube.com/@Ezkardan) y [Turbiales](https://www.youtube.com/@Turbiales) por su serie de vídeos sobre la historia de DarkSun [1](https://www.youtube.com/watch?v=zPUrgaLXOR8) / [2](https://www.youtube.com/watch?v=5Y9M6Gjwbw8) / [3](https://www.youtube.com/watch?v=mj1_DtNry-0).
