@@ -429,21 +429,21 @@ At the bottom of the cave, on top of a mountain of _**gold ingots**_, is the Cro
 
 #### The beach
 
-Tus jugadoras junto con _**Bridalis**_ van a desembarcar en la _**playa**_. La _**playa**_ es paradisíaca, con arena y palmeras, perfecta para broncearse al sol tumbado en la arena y tomando grog. Puede recoger algas del suelo, aunque están secas y son malolientes. Mientras tus jugadoras se adentran en la jungla, _**Bridalis**_ se quedará en la playa cuidando la _**barca**_.
+Your players, along with _**Bridalis**_, will disembark on the _**beach**_. The _**beach**_ is idyllic, with sand and palm trees, perfect for sunbathing while lying on the sand and drinking grog. You can collect seaweed from the ground, although it's dry and smelly. While your players enter into the jungle, _**Bridalis**_ will stay on the beach looking after the _**boat**_.
 
-Cada vez que entren en la pantalla, _**Bridalis**_ tendrá un nuevo disfraz y estará haciendo alguna de estas actividades:
+Each time they enter the screen, _**Bridalis**_ will have a new costume and will be doing one of these activities:
 
-* Hacer un castillo de arena
-* Broncearse al sol
-* Jugar con una pelota de playa
-* Salir del agua con traje de submarinismo
-* Pescar con caña
-* Hacer una barbacoa
-* Con un detector de metales buscando monedas
+* Building a sandcastle
+* Sunbathing
+* Playing with a beach ball
+* Coming out of the water in a wetsuit
+* Fishing
+* Cooking a barbecue
+* Using a metal detector to look for coins
 
-Si las ves muy perdidas puedes darles, alguno de los objetos que está usando _**Bridalis**_, por ejemplo, el detector de metales puede ayudarles en la jungla. También puedes llenarles el equipo de mierdas que no van a necesitar ni poder usar.
+If they seem really lost, you can give them some of the items _**Bridalis**_ is using; for example, the metal detector can help them in the jungle. You can also fill their equipment with junk they won't need or be able to use.
 
-Si usan la _**barca**_ podrán volver al _**Vómito de Kraken**_ y de ahí a _**Bucan Ville**_.
+If they use the _**boat**_, they can return to _**Kraken's Puke**_ and from there to _**Bucan Ville**_.
 
 #### The jungle
 
@@ -451,9 +451,7 @@ La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por 
 
 La única manera de atravesar el laberinto es seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
 
-Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_.
-A partir de ese momento, cuando entren en la jungla, llegarán directamente a la _**entrada de la cueva**_.
-
+Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_. A partir de ese momento, cuando entren en la jungla, llegarán directamente a la _**entrada de la cueva**_.
 #### Entrance to the cave
 
 La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un _**montón de simios**_ que te gruñen y lanzan cacas si te acercas.
