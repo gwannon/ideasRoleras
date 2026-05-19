@@ -103,11 +103,11 @@ Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad
 
 Crear monstruos en DarkSun es fácil, simplemente coge insectos y reptiles del desierto y hazlo de mayor tamaño. Normalmente serán esbirros y puede que el jefe de la manada o la reina de la colonia sean jefes. A estos, ponles algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis. Otros monstruos que puedes sacar serían:
 
-* **Belgoi (Esbirro):** XXX
-* **Merodeador de las dunas (Esbirro):** Elfo que murió en una carrera.
-* **Thrax (Jefe):** Vampiro que roba el agua y los nutrientes de sus víctimas.
-* **Banshee (Jefe):** Enano que murió sin cumplir su foco.
-* **Reyes hechiceros (Legendario):** Solo un equipo bien organizado y poderoso podría enfrentarse a estos poderosos hechiceros que controlan la magia y la psiónica.
+* **Belgoi (Esbirro):** Duendes carnívoros de las dunas que usan campanillas para controlarte. XXX
+* **Merodeador de las dunas (Esbirro):** Elfo que murió en una carrera. XXX
+* **Thrax (Jefe):** Vampiro que roba el agua y los nutrientes de sus víctimas. XXX
+* **Banshee (Jefe):** Enano que murió sin cumplir su foco. XXX
+* **Reyes hechiceros (Legendario):** Solo un equipo bien organizado y poderoso podría enfrentarse a estos poderosos hechiceros que controlan la fusión de la magia y la psiónica.
 * **Boris, el dragón:** El ser más poderoso de Athas es fruto de la fusión de la magia profanadora y la psiónica. Cuando él aparece, la **única opción es huir** y rezar porque no ponga sus ojos en ti, porque entonces date por muerto.
 
 ## Mercenarios
@@ -117,9 +117,10 @@ La vida en Athas es muy diferentes a otros mundos de fantasía y eso también se
 * **Kank:** Hormigas gigantes adaptadas al desierto. Cargan hasta 12 objetos y no necesitan raciones.
 * **Inix:** Lagartos gigantes adaptados al desierto. Pueden tirar de carros y cargan hasta 24 objetos. No necesitan raciones.
 * **Esclavo (Raciones):** Obediencia y resentimiento.
-* **Guardia de caravana (1⟡):** XXX
-* **Bardo asesino (2⟡):** XXX
-* **Mensajero (3⟡):** XXX
+* **Guardia de caravana (1⟡):** Armadura ligera, lanza y racismo.
+* **Artesano (1⟡):** 1 profesión, herramientas de esa profesión.
+* **Bardo asesino (2⟡):** Venenos, canciones y armas a distancia. Moverse en silencio.
+* **Mensajero (3⟡):** Gran resistencia, supervivencia en el desierto y se conoce los caminos y los oasis.
 
 ## Lugares de aventuras
 
