@@ -19,7 +19,7 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |---|---|---|---|
 |2|Halfling|XXX|Gladiador del circo|
 |3|Mul|XXX|Comerciante de casa mayor&ast;|
-|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;, jefe de tribu nomada|
+|4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;, jefe de tribu nómada|
 |5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
 |6|Humano|Tribu de esclavos escapados de las Llanuras de Sal|Caravanero|
 |7|Humano|Pozos de esclavos|Esclavo, sirviente|
@@ -55,19 +55,17 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 > Has de tener claro que para tus PJ lucharán principalmente por recursos que les permitirán sobrevivir un día más y tendrán que hacer lo que sea por conservar esos recursos. Dar esos recursos a otros desinteresadamente es un gran sacrificio que debería tenerse en cuenta.
 ## Equipo y tesoro
 
-_Los objetos mágicos son muy escasos, una forma de hacerlos «mágicos» es que sean de metal._
+Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
 
-XXX
+Hay una regla especial para el desgaste, toda arma, escudo o armadura no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
 
-### El agua
-
-XXX
+Por último, **los precios en asentamientos menores y lo que compres a tribus nómadas y en carracas comerciales** no será 1⟡, sino **1d3 ⟡**.
 
 ## Estados especiales
 
-XXX
+La muerte por deshidratación es una realidad en DarkSun, así que hay un estado especial denominado **sediento**, que ocurre **cuando no recibes tu ración diaria de agua**. El 1º día la sed afectará a tu Voluntad (Sediento), el 2º día también a tu Destreza (Muy Sediento) y el 3º día afectará también a tu Fuerza (Extremadamente Sediento). A partir de ahí, cada día perderás 1♡ hasta morir. Este proceso se corta bebiendo una ración diaria de agua completa y descansando 8 horas.
 
-¿Sediento?
+En caso de necesidad podrían **racionar el agua para que les dure el doble**, pero siempre tendrán el estado Sediento que afectará a su Voluntad. Los esclavos nunca beben la ración diaria de agua, sino que se la racionan de forma que siempre están sedientos.
 
 ## Magia y psiónica
 
