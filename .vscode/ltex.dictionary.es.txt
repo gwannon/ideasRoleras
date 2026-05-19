@@ -659,3 +659,5 @@ E&E
 Athas
 AD&D
 lore
+psiónica
+psiónico

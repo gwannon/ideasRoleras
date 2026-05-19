@@ -71,45 +71,41 @@ En caso de necesidad podrían **racionar el agua para que les dure el doble**, p
 
 ## Magia y psiónica
 
-_No hay magia profanadora o preservadora, si profanas o preservar es «algo que sale mal». ¿La psionica es otra forma de magia? ¿La rige Voluntad?_
+_No hay magia profanadora o preservadora, si profanas o preservar es «algo que sale mal». ¿La psiónica es otra forma de magia? ¿La rige Voluntad?_
 
 XXX
 
-### Fusionar magia y psíonica
+### Fusionar magia y psiónica
 
 La fuerza más poderosa que existe es la fusión de la magia y la psiónica. XXX
 
 ## Objetos mágicos
 
-Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para qué sirve el amuleto que encontraste en las ruinas del desierto. Si, como DJ, quieres dar equipo bueno, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
+Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para qué sirve el amuleto que encontraste en las ruinas del desierto. Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
 
-* **Odre sin fugas.** XXX
-* XXX
+* **Equipo de metal.** Todo equipo de metal siempre será más duradero y mejor que su equivalente no metálico, pero recuerda que no puedes ir con protecciones de metal en pleno desierto, acabarás frito.
+* **Odre sin fugas.** Permite llevar agua para 7 días. Debido a su gran calidad no tiene fugas ni evaporaciones y las raciones de agua duran un 50% más (10 días).
+* **Silbato de hueso.** Te permitirá llamar a tu montura sin hacer ruido, ya que solo lo oyen los animales.
+* **Mochila élfica:** Tan bien construida que **tiras con ventaja** al sacar equipo rápidamente.
+* **XXX.** XXX
 
 ## Monstruos
 
-Crear monstruos en DarkSun es fácíl, simplemente coge insectos y reptiles del desierto, hazlo de gran tamaño y ponle algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis.
+Crear monstruos en DarkSun es fácil, simplemente coge insectos y reptiles del desierto y hazlo de mayor tamaño. Normalmente serán esbirros y puede que el jefe de la manada o la reina de la colonia sean jefes. A estos, ponles algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis. Otros monstruos que peudes sacar serían:
 
-XXX
-
-* **Thrax:** vampiro que roba el agua y los nutrientes de sus víctimas.
-* **Banshee:** enano que murió sin cumplir su foco.
-* **Merodeador de las dunas:** elfo que murió en una carrera.
-
-### Boris, el dragón
-
-El ser más poderoso de Athas es fruto de la fusión de la magia profanadora y la psiónica. Cuando él aparece, la **única opción es huir** y rezar porque no ponga sus ojos en ti, porque entonces date por muerto.
-
-### Reyes hechiceros
-
-XXX
+* **Belgoi (Esbirro):** XXX
+* **Merodeador de las dunas (Esbirro):** Elfo que murió en una carrera.
+* **Thrax (Jefe):** Vampiro que roba el agua y los nutrientes de sus víctimas.
+* **Banshee (Jefe):** Enano que murió sin cumplir su foco.
+* **Reyes hechiceros (Legendario):** Solo un equipo bien organizado y poderoso podría enfrentarse a estos poderosos hechiceros que controlan la magia y la psiónica.
+* **Boris, el dragón:** El ser más poderoso de Athas es fruto de la fusión de la magia profanadora y la psiónica. Cuando él aparece, la **única opción es huir** y rezar porque no ponga sus ojos en ti, porque entonces date por muerto.
 
 ## Mercenarios
 
 La vida en Athas es muy diferentes a otros mundos de fantasía y eso también se refleja en los mercenarios que puedes contratar.
 
-* **Kank:** XXX.
-* **Inix:** XXX.
+* **Kank:** Hormigas gigantes adaptadas al desierto. Cargan hasta 12 objetos y no necesitan raciones.
+* **Inix:** Lagartos gigantes adaptados al desierto. Pueden tirar de carros y cargan hasta 24 objetos. No necesitan raciones.
 * **Esclavo (Raciones):** Obediencia y resentimiento.
 * **Guardia de caravana (1⟡):** XXX
 * **Bardo asesino (2⟡):** XXX
@@ -119,7 +115,7 @@ La vida en Athas es muy diferentes a otros mundos de fantasía y eso también se
 
 DarkSun no es un mundo de mazmorras que explorar. Lo poco que queda ha sido esquilmado y muy de vez en cuando las tormentas de arena destapan alguna ruina enterrada en la arena, pero seguramente saldrás más pobres de lo que has entrado.
 
-Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, dias de circo, rebeliones de esclavos, asedios, ... 
+Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, días de circo, rebeliones de esclavos, asedios, ... 
 
 ## Licencia
 
