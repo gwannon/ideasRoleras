@@ -1,4 +1,4 @@
-# Dark Sun para Espadas & Espectros
+# Dark Sun para Espadas & Espectros [por Gwannon](https://gwannon.com/)
 
 Esta ambientación adapta de forma fan el mundo de DarkSun al sistema [Espadas & Espectros](https://shannonmcordo.itch.io/espadas-espectros), creado por [Sergiño](https://shannonmcordo.itch.io/).
 
@@ -22,7 +22,7 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |3|Mul|Urik|Comerciante de casa mayor&ast;|
 |4|Semigigante|Barcazas del Mar de Polvo|Comerciante de casa menor&ast;, jefe de tribu nómada|
 |5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
-|6|Humano|Tribu de esclavos escapados de las Llanuras de Sal|Caravanero|
+|6|Humano|Tribu de esclavos escapados|Caravanero|
 |7|Humano|Pozos de esclavos|Esclavo, sirviente|
 |8|Humano|Barrios bajos de Tyr|Artesano|
 |9|Elfo|Tribu nómada del Estuario de la Lengua Bífida|Contrabandista|
@@ -46,7 +46,9 @@ La sociedad de DarkSun es una **sociedad muy estratificada con grandes diferenci
 
 Y por debajo de todos los anteriores están los esclavos. Estamos en una sociedad en que **caer en la esclavitud es muy fácil**. Has de tener en cuenta que la vida de los esclavos no vale nada y siendo esclavo no tienes ningún derecho. Vives o mueres según dicte tu amo.
 
-Estas diferencias sociales tan grandes hacen que la opresión sea algo normal y las **rebeliones contra esa opresión** sean un tema muy importante en sus aventuras. Pero también debes recordar que aquí no hay un imperio malvado en la otra punta del continente que esclaviza a la gente, aquí son las personas normales las que esclavizan a otras personas normales.
+Estas diferencias sociales tan grandes hacen que la opresión sea algo normal y las **rebeliones contra esa opresión** sean un tema muy importante en sus aventuras.
+
+Pero también debes recordar que aquí no hay un imperio malvado en la otra punta del continente que esclaviza a la gente, aquí son las personas normales las que esclavizan a otras personas normales.
 
 ### Mutantes y mutaciones
 
@@ -64,11 +66,7 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 
 ## Equipo y tesoro
 
-Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. 
-
-\sp
-
-Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
+Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
 
 Hay una **regla especial para el desgaste**, toda arma, escudo o armadura no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
 
@@ -78,15 +76,32 @@ Por último, **los precios en asentamientos menores y lo que compres a tribus n�
 
 La muerte por deshidratación es una realidad en DarkSun, así que hay un estado especial denominado **sediento**, que ocurre **cuando no recibes tu ración diaria de agua**. El 1º día la sed afectará a tu Voluntad (Sediento), el 2º día también a tu Destreza (Muy Sediento) y el 3º día afectará también a tu Fuerza (Extremadamente Sediento). A partir de ahí, cada día perderás 1♡ hasta morir. Este proceso se corta bebiendo una ración diaria de agua completa y descansando 8 horas.
 
+\sp
+
 En caso de necesidad podrían **racionar el agua para que les dure el doble**, pero siempre tendrán el estado Sediento que afectará a su Voluntad. Los esclavos nunca beben la ración diaria de agua, sino que se la racionan de forma que siempre están sedientos.
 
 ## Magia y psiónica
 
-_No hay magia profanadora o preservadora, si profanas o preservar es «algo que sale mal». ¿La psiónica es otra forma de magia? ¿La rige Voluntad?_
+En Athas hay varias formas de magia, pero casi siempre sus efectos son proyecciones en bruto de energía mágica, explosiones de fuego que calcinan a tus enemigos, vientos huracanados que te elevan por los aires, cuchillas de obsidiana que salen del suelo, …
 
-XXX
+* **Clerical de los elementos:** Se alimenta del fuego, el viento y la arena. 
+* **Magia arcana:** Esta magia se alimenta de los seres vivos, especialmente de las plantas, y fue la que asoló Athas convirtiéndolo en un erial. Es por ello que está prohibida y es perseguido su uso tanto por lo reyes hechiceros como los preservadores de la Alianza del Velo.
+* **Magia patrocinada:** Los reyes hechiceros pueden ceder parte de su magia a sus seguidores, pero no suelen darles grandes poderes, para tenerlos controlados.
+
+> **Profanar o preservar:** Al lanzar tus hechizos pueden elegir preservar la tierra o profanarla y conseguir hechizos más poderosos. XXX
+
+La **psiónica**, aunque por ambientación es diferente de la magia, **mecánicamente es otra forma de magia**. Sus efectos son más sutiles, con **telekinesis, control mental, ilusiones, mejora personal, teletransporte …**
 
 La fuerza más poderosa que existe en todo Athas es la **fusión de la magia y la psiónica**. Aquel que pueda controlar y fusionar estas fuerzas, como ya hizo en su día Boris el dragón, será imparable. Si tus aventureros tratan de usar estos poderes de forma conjunta debería conseguir efectos muy poderosos, pero si fallan seguramente las consecuencias serán desastrosas.
+
+|1d6|Desastres magicos|
+|---|---|
+|1|El conjuro hace lo contrario o afecta otro objetivo.|
+|2|La magia chamusca uno de tus objetos, hazle una marca.|
+|3|El uso de la magia atrae la atención de alguien muy peligroso.|
+|4|El hechizo toma demasiada energía de ti, estás agotado. Si ya lo estabas, -1♡.|
+|5|Profanas la tierra aunque no lo hayas querido así o solo fueras a profanar mucho menos. El suelo se convierte en cenizas.|
+|6|Algo en ti cambia para siempre, empeora si sale otra vez.|
 
 ## Objetos mágicos
 
@@ -103,10 +118,10 @@ Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad
 
 Crear monstruos en DarkSun es fácil, simplemente coge insectos y reptiles del desierto y hazlo de mayor tamaño. Normalmente serán esbirros y puede que el jefe de la manada o la reina de la colonia sean jefes. A estos, ponles algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis. Otros monstruos que puedes sacar serían:
 
-* **Belgoi (Esbirro):** Duendes carnívoros de las dunas que usan campanillas para controlarte. XXX
-* **Merodeador de las dunas (Esbirro):** Elfo que murió en una carrera. XXX
-* **Thrax (Jefe):** Vampiro que roba el agua y los nutrientes de sus víctimas. XXX
-* **Banshee (Jefe):** Enano que murió sin cumplir su foco. XXX
+* **Belgoi (Esbirro):** Duendes carnívoros de las dunas que usan campanillas para atraerte.
+* **Braxat (Jefe):** Humanoide gigante con armadura quitinosa. Puede atacar a varios objetivos a la vez con gran fuerza y uelen tener algo de psiónica.
+* **Thrax (Jefe):** Vampiro que roba el agua y los nutrientes de sus víctimas. Toque vampírico que le cura.
+* **Banshee (Jefe):** Enano que murió sin cumplir su foco. Armas de hierro, armadura completa, escudo y nunca se rinden.
 * **Reyes hechiceros (Legendario):** Solo un equipo bien organizado y poderoso podría enfrentarse a estos poderosos hechiceros que controlan la fusión de la magia y la psiónica.
 * **Boris, el dragón:** El ser más poderoso de Athas es fruto de la fusión de la magia profanadora y la psiónica. Cuando él aparece, la **única opción es huir** y rezar porque no ponga sus ojos en ti, porque entonces date por muerto.
 
@@ -133,5 +148,3 @@ Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aven
 Este documento es una **obra fan sin ánimo de lucro** que no tiene los derechos de DarkSun, ni tiene relación con ninguna de las empresas propietaria de los derechos de DarkSun. Es por ello que está desarrollado bajo la licencia [OPEN GAME LICENSE Version 1.0a](https://opengamingfoundation.org/ogl.html).
 
 Esta ambientación está basada en [Espadas & Espectros](https://shannonmcordo.itch.io/espadas-espectros) de [Sergiño](https://shannonmcordo.itch.io/) que está escrito bajo una licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es). Otras atribuciones: [Textura arena](https://www.magnific.com/free-photo/sand-background-textures_3816183.htm)
-
-Agradecimientos a [Ezkardan](https://www.youtube.com/@Ezkardan) y [Turbiales](https://www.youtube.com/@Turbiales) por su serie de vídeos sobre la historia de DarkSun [1](https://www.youtube.com/watch?v=zPUrgaLXOR8) / [2](https://www.youtube.com/watch?v=5Y9M6Gjwbw8) / [3](https://www.youtube.com/watch?v=mj1_DtNry-0).
