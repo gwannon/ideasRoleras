@@ -16,11 +16,9 @@ Hay pequeñas modificaciones a las reglas de creación de personaje propuestas e
 
 Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguiente tabla. Puedes inspirarte en ella, elegir lo que más te guste o puedes tirar 2d6 en cada columna a ver qué te sale. 
 
-\sc
-
 |2d6|Raza|Origen|Ocupación|
 |---|---|---|---|
-|2|Halfling|XXX|Gladiador del circo|
+|2|Halfling|Cresta Boscosa|Gladiador del circo|
 |3|Mul|XXX|Comerciante de casa mayor&ast;|
 |4|Semigigante|Barcazas del mar de polvo|Comerciante de casa menor&ast;, jefe de tribu nómada|
 |5|Enano|A lo largo de la Ruta de lo Reyes|Cantero|
@@ -33,8 +31,6 @@ Para ayudarte a escribir la frase que define tu trasfondo te ofrecemos la siguie
 |12|Mutante|XXX|Superviviente del páramo|
 
 _&ast; Recomendado solo para humano_
-
-\sc
 
 Para ayudarte a definir mejor a tu personaje puedes usar alguna de las siguientes clases clásicas de la fantasía medieval:
 
@@ -60,13 +56,13 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 
 > Has de tener claro que para tus PJ lucharán principalmente por recursos que les permitirán sobrevivir un día más y tendrán que hacer lo que sea por conservar esos recursos. Dar esos recursos a otros desinteresadamente es un gran sacrificio que debería tenerse en cuenta.
 
-\sp
-
 ## Equipo y tesoro
 
 Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
 
 Hay una regla especial para el desgaste, toda arma, escudo o armadura no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
+
+\sp
 
 Por último, **los precios en asentamientos menores y lo que compres a tribus nómadas y en carracas comerciales** no será 1⟡, sino **1d3 ⟡**.
 
@@ -78,9 +74,7 @@ En caso de necesidad podrían **racionar el agua para que les dure el doble**, p
 
 ## Magia y psiónica
 
-_No hay magia profanadora o preservadora, si profanas o preservar es «algo que sale mal»._
-
-_¿La psionica es otra forma de magia? ¿La rige Voluntad?_
+_No hay magia profanadora o preservadora, si profanas o preservar es «algo que sale mal». ¿La psionica es otra forma de magia? ¿La rige Voluntad?_
 
 XXX
 
@@ -90,29 +84,45 @@ La fuerza más poderosa que existe es la fusión de la magia y la psiónica. XXX
 
 ## Objetos mágicos
 
-Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para qué sirve el amuleto que encontraste en las ruinas del desierto.
+Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público es una sentencia de muerte. Alguien o algo te habrá cortado la garganta mientras duermes antes de que descubras para qué sirve el amuleto que encontraste en las ruinas del desierto. Si, como DJ, quieres dar equipo bueno, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
 
-Si, como DJ, quieres dar equipo bueno, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
+* **Odre sin fugas.** XXX
+* XXX
 
 ## Monstruos
 
+Crear monstruos en DarkSun es fácíl, simplemente coge insectos y reptiles del desierto, hazlo de gran tamaño y ponle algún tipo de poder psiónico, como freír cerebros, moverse bajo tierra, teleportarse o lanzar cosas con telekinesis.
+
 XXX
 
-Thrax, no muerto que roba el agua y los nutrientes.
-Banshee, enano que murió sin cumplir su foco.
-Merodeador de las dunas, elfo que murió en una carrera.
+* **Thrax:** vampiro que roba el agua y los nutrientes de sus víctimas.
+* **Banshee:** enano que murió sin cumplir su foco.
+* **Merodeador de las dunas:** elfo que murió en una carrera.
 
 ### Boris, el dragón
+
+El ser más poderoso de Athas es fruto de la fusión de la magia profanadora y la psiónica. Cuando él aparece, la **única opción es huir** y rezar porque no ponga sus ojos en ti, porque entonces date por muerto.
+
+### Reyes hechiceros
 
 XXX
 
 ## Mercenarios
 
-XXX
+La vida en Athas es muy diferentes a otros mundos de fantasía y eso también se refleja en los mercenarios que puedes contratar.
+
+* **Kank:** XXX.
+* **Inix:** XXX.
+* **Esclavo (Raciones):** Obediencia y resentimiento.
+* **Guardia de caravana (1⟡):** XXX
+* **Bardo asesino (2⟡):** XXX
+* **Mensajero (3⟡):** XXX
 
 ## Lugares de aventuras
 
-XXX
+DarkSun no es un mundo de mazmorras que explorar. Lo poco que queda ha sido esquilmado y muy de vez en cuando las tormentas de arena destapan alguna ruina enterrada en la arena, pero seguramente saldrás más pobres de lo que has entrado.
+
+Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, dias de circo, rebeliones de esclavos, asedios, ... 
 
 ## Licencia
 

@@ -4,6 +4,7 @@
   --accent-color: #211826;
   --accent-color-transparent: #21182628;
   --background-color: #e8ab3a;
+  --main-font-size: 13px;
 }
 
 @font-face {
@@ -16,7 +17,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 14px;
+  font-size: var(--main-font-size);
   line-height: 135%;
   background: var(--background-color) url(./bg.jpg) center top repeat-y;
   background-size: contain;
@@ -159,7 +160,7 @@ body#DarkSunEyEBW table tbody tr:nth-child(even) {
 table td,
 table th {
   padding: 3px;
-  font-size: 14px;
+  font-size: var(--main-font-size);
 }
 
 hr {
