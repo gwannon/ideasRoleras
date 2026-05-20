@@ -98,7 +98,7 @@ La fuerza más poderosa que existe en todo Athas es la **fusión de la magia y l
 |3|El uso de la magia atrae la atención de alguien muy peligroso.|
 |4|El hechizo toma demasiada energía de ti, estás agotado. Si ya lo estabas, -1♡.|
 |5|Profanas la tierra aunque no lo hayas querido así o solo fueras a profanar mucho menos. El suelo se convierte en cenizas.|
-|6|Algo en ti cambia para siempre, empeora si sale otra vez.|
+|6|Algo en ti cambia para siempre, podría ser una mutación si sale otra vez.|
 
 ## Objetos mágicos
 
@@ -107,9 +107,9 @@ Olvídate de objetos mágicos. Encontrar un objeto mágico y usarlo en público 
 Si, como DJ, quieres dar equipo especial, no pienses en magia, piensa en calidad, en objetos duraderos, de buenos y caros materiales, ligeros y que tengan muchos usos posibles.
 
 * **Equipo de metal.** Todo equipo de metal siempre será más duradero y mejor que su equivalente no metálico, pero recuerda que no puedes ir con protecciones de metal en pleno desierto, acabarás frito.
-* **Odre sin fugas.** Permite llevar agua para 7 días. Debido a su gran calidad no tiene fugas ni evaporaciones y las raciones de agua duran un 50% más (10 días).
-* **Silbato de hueso.** Te permitirá llamar a tu montura sin hacer ruido, ya que solo lo oyen los animales.
-* **Mochila élfica:** Tan bien construida que **tiras con ventaja** al sacar equipo rápidamente.
+* **Odre sin fugas.** Permite llevar agua para 7 días. Debido a su gran calidad no tiene fugas ni evaporaciones y **las raciones de agua duran un 50% más (10 días)**.
+* **Silbato de hueso.** Te permitirá **llamar a tu montura sin hacer ruido**, ya que solo lo oyen los animales.
+* **Mochila élfica de viaje:** Tan bien construida que **tiras con ventaja** al sacar equipo rápidamente.
 
 ## Monstruos
 

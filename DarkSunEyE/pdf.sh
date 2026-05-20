@@ -12,4 +12,5 @@ chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./t
 pdftk './temp.pdf' update_info_utf8 './DarkSunEyEBW.txt' output '../DarkSunEyEBW.pdf' compress
 rm ./DarkSunEyEBW.html
 rm ./DarkSunEyEBW.txt
+rm ./DarkSunEyEBW.md
 rm ./temp.pdf
