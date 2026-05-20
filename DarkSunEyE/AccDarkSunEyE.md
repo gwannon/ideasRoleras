@@ -10,7 +10,7 @@ Las siguientes reglas estarían pensadas para jugar **después de la caída de K
 
 ## Creación de personajes
 
-Hay pequeñas modificaciones a las reglas de creación de personaje propuestas en E&E. Para empezar, DarkSun es un mundo duro, así que **al tirar los atributos se repiten los 1**. Así que tus atributos solo pueden ser entre 2-5.
+Hay pequeñas modificaciones a las reglas de creación de personaje propuestas en E&E. Para empezar, DarkSun es un mundo duro, así que **al tirar los atributos se repiten los 1**. Por lo tanto, tus atributos solo pueden ser entre 2-5.
 
 ### Tabla de profesiones, razas y orígenes
 
@@ -34,7 +34,7 @@ _&ast; Recomendado solo para humano_
 
 Para ayudarte a definir mejor a tu personaje puedes usar alguna de las siguientes clases clásicas de la fantasía medieval:
 
-* Clérigo elemental (sol, viento y arena)/templario.
+* Clérigo elemental (fuego, viento y arena)/templario.
 * Explorador/cazador
 * Guerrero/Gladiador
 * Ladrón/bardo/asesino
@@ -48,7 +48,7 @@ Y por debajo de todos los anteriores están los esclavos. Estamos en una socieda
 
 Estas diferencias sociales tan grandes hacen que la opresión sea algo normal y las **rebeliones contra esa opresión** sean un tema muy importante en sus aventuras.
 
-Pero también debes recordar que aquí no hay un imperio malvado en la otra punta del continente que esclaviza a la gente, aquí son las personas normales las que esclavizan a otras personas normales.
+Pero también debes recordar que aquí no hay un imperio malvado en la otra punta del continente que esclaviza a los pueblos que conquista. Aquí son las personas normales las que esclavizan a otras personas normales.
 
 ### Mutantes y mutaciones
 
@@ -66,7 +66,7 @@ Solo los ricos y poderosos no tienen escasez y, como hemos dicho, a costa de sum
 
 ## Equipo y tesoro
 
-Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. Si te quedas sin ⟡ ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
+Para empezar, **nada es gratis**. Mientras que en otros mundos el agua es gratis, aquí es muy valiosa. Así que deberás quitarte **1⟡ cada semana por los gastos de agua y comida**. El alojamiento va aparte. Si te quedas sin ⟡, ten por supuesto que nadie te dará nada gratis y menos un vaso de agua.
 
 Hay una **regla especial para el desgaste**, toda arma, escudo o armadura no metálica, por ejemplo, un hacha de obsidiana, que se enfrente a un arma, escudo o armadura metálica sufre siempre un nivel de desgaste al terminar el combate.
 
@@ -79,10 +79,10 @@ En caso de necesidad podrían **racionar el agua para que les dure el doble**, p
 
 ## Magia y psiónica
 
-En Athas hay varias formas de magia, pero casi siempre sus efectos son proyecciones en bruto de energía mágica, explosiones de fuego que calcinan a tus enemigos, vientos huracanados que te elevan por los aires, cuchillas de obsidiana que salen del suelo, …
+En Athas hay varias formas de magia, pero casi siempre sus efectos son proyecciones en bruto de energía mágica, explosiones de fuego que calcinan a tus enemigos, vientos huracanados que te elevan por los aires, cuchillas mortales de obsidiana que salen del suelo, …
 
-* **Clerical de los elementos:** Se alimenta del fuego, el viento y la arena. 
-* **Magia arcana:** Esta magia se alimenta de los seres vivos, especialmente de las plantas, y fue la que asoló Athas convirtiéndolo en un erial. Es por ello que está prohibida y es perseguido su uso tanto por los reyes hechiceros como los preservadores de la Alianza del Velo.
+* **Clerical de los elementos:** Se alimenta del fuego, del viento y de la arena. 
+* **Magia arcana:** Esta magia se alimenta de los seres vivos, especialmente de las plantas, y fue la que asoló Athas convirtiéndolo en un erial. Es por ello que está prohibida y es perseguido su uso tanto por los reyes hechiceros como por los preservadores de la Alianza del Velo.
 * **Magia patrocinada:** Los reyes hechiceros pueden ceder parte de su magia a sus seguidores, pero no suelen darles grandes poderes, para tenerlos controlados.
 
 > **Profanar o preservar:** Al lanzar tus hechizos pueden elegir preservar la tierra o profanarla y conseguir hechizos más poderosos. El DJ debe decir cuantos ♡ se pueden extraer de la tierra de la zona para alimentar tus hechizos. Si sacas 1♡ o más la tierra se hará cenizas, pero se podrá recuperar con tiempo. Si se gastan todos los ♡, la tierra queda profanada y estéril.
@@ -95,7 +95,7 @@ La fuerza más poderosa que existe en todo Athas es la **fusión de la magia y l
 |---|---|
 |1|El conjuro hace lo contrario o afecta otro objetivo.|
 |2|La magia chamusca uno de tus objetos, hazle una marca.|
-|3|El uso de la magia atrae la atención de alguien muy peligroso.|
+|3|Atraes la atención de alguien muy peligroso que no quiere que se use la magia.|
 |4|El hechizo toma demasiada energía de ti, estás agotado. Si ya lo estabas, -1♡.|
 |5|Profanas la tierra aunque no lo hayas querido así o solo fueras a profanar mucho menos. El suelo se convierte en cenizas.|
 |6|Algo en ti cambia para siempre, podría ser una mutación si sale otra vez.|
@@ -134,11 +134,11 @@ La vida en Athas es muy diferentes a otros mundos de fantasía y eso también se
 * **Bardo asesino (2⟡):** Venenos, canciones y armas a distancia. Moverse en silencio.
 * **Mensajero (3⟡):** Gran resistencia, supervivencia en el desierto y se conoce los caminos y los oasis.
 
-## Lugares de aventuras
+## Crear aventuras
 
-DarkSun no es un mundo de mazmorras que explorar. Lo poco que queda ha sido esquilmado y muy de vez en cuando las tormentas de arena destapan alguna ruina enterrada en la arena, pero seguramente saldrás más pobres de lo que has entrado.
+DarkSun **no es un mundo de mazmorras** que explorar. Lo poco que queda ha sido esquilmado y muy de vez en cuando las tormentas de arena destapan alguna ruina enterrada en la arena, pero seguramente saldrás más pobre de lo que has entrado.
 
-Otra cosa que define mucho las aventuras de DarkSun es que son muy urbanas. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, días de circo, rebeliones de esclavos, asedios, … 
+Otra cosa que define mucho las aventuras de DarkSun es que son muy **urbanas**. Aventuras enteras pueden transcurrir en una ciudad con combates, intrigas, días de circo, rebeliones de esclavos, asedios, … 
 
 ## Licencia
 

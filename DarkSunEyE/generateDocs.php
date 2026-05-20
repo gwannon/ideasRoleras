@@ -53,9 +53,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'DarkSunEyE' || $argv[1] == 'DarkSunEyEBW') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Dark Sun para Espadas & Espectros - Ver. 1.0\n\n";
+  $metas .= "InfoValue: Dark Sun para Espadas & Espectros - Ver. 1.1\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: Esta ambientación adapta de forma fan el mundo de DarkSun al sistema Espadas & Espectros, creado por Sergiño. Versión 1.0\n\n";
+  $metas .= "InfoValue: Esta ambientación adapta de forma fan el mundo de DarkSun al sistema Espadas & Espectros, creado por Sergiño. Versión 1.1\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
