@@ -54,17 +54,17 @@ If they use the _**boat**_, they can return to _**Kraken's Puke**_ and from ther
 
 #### The jungle
 
-La oscura jungla es un auténtico laberinto. Como en el pantano se moverán por zonas de jungla con conexiones arriba, abajo, izquierda y derecha. Tras moverse por 4 zonas volverán a la playa.
+The dark jungle is a maze. As in the swamp, they'll move through jungle areas with connections above, below, left, and right. After moving through four areas, they'll return to the beach.
 
-La única manera de atravesar el laberinto es seguir el rastro de _**doblones de oro**_ que marcan la ruta hacia la _**caverna del tesoro**_. Los _**doblones**_ están escondidos en píxeles exactos. Si tienen algún tipo de detector de metales, puedes darles bonus en la búsqueda del píxel exacto.
+The only way through the maze is to follow the trail of _**gold doubloons**_ that mark the path to the _**treasure cave**_. The _**doubloons**_ are hidden in exact pixels. If they have a metal detector, you can give them a bonus for finding the exact pixel.
 
-Si encuentran los 4 doblones y siguen sus indicaciones, llegarán a la _**entrada de la caverna**_. A partir de ese momento, cuando entren en la jungla, llegarán directamente a la _**entrada de la cueva**_.
+If you find the four doubloons and follow their directions, you will reach the _**entrance of the cave**_. From that point on, when you enter the jungle, you will arrive directly at the _**entrance of the cave**_.
 
 \sp
 
-#### Entrance to the cave
+#### Entrance of the cave
 
-La _**entrada de la cueva**_ es una gigantesca cabeza de simio de piedra y está guardada por un _**montón de simios**_ que te gruñen y lanzan cacas si te acercas.
+The _**entrance of the cave**_ is a gigantic stone ape head and is guarded by a _**bunch of apes**_ who snarl at you and throw poop if you get too close.
 
 Si se fijan bien, los _**simios**_ lanzan las cacas siempre en las 3 mismas zonas y antes de lanzar gruñen. Las cacas al caer salpican, así que las zonas donde se pueden pringar son amplias.
 
@@ -152,13 +152,13 @@ Si los _**no-muertos**_ los detectan, se lanzarán a por ellos y tendrán que sa
 
 \sp
 
-#### Fuera de El caminante
+#### Outside The Walker
 
 Tus jugadoras pueden acercarse al casco de _**El caminante**_ cerca de su ancla, que han dejado caer al mar. El casco está cubierto de _**percebes, lapas y mejillones**_ que pueden recolectarse.
 
 No hay ningún tipo de prueba o reto en esta pantalla, simplemente escalar la _**cadena del ancla**_ y entrar a la _**cubierta inferior**_.
 
-#### Cubierta inferior
+#### Lower deck
 
 La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar está a un lado de la cubierta y la escalera para subir está al otro lado.
 
@@ -166,7 +166,7 @@ Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricoooo
 
 Los zombis están sucios y apestosos, así que si son listos podrían embadurnarse con las _**lapas, percebes y mejillones**_ del casco y hacerse algún tipo de disfraz de algas de la _**playa**_. Con esto, los _**zombis**_ de la cubierta inferior no deberían molestarlas.
 
-#### Cubierta superior
+#### Upper deck
 
 La _**cubierta superior**_ está también llena de _**zombis**_, pero estos parecen más inteligentes, están haciendo tareas sencillas como barrer la cubierta o atar y desatar cabos.
 
@@ -176,7 +176,7 @@ Esta vez no bastará con ponerse los restos malolientes del marisco de casco, de
 
 Hazles pasar una tirada para engañar a los _**zombis de cubierta**_ y puedes darles positivos o negativos según su interpretación, si hacen sonidos de zombis o hablan como humanos, etc.
 
-#### Castillo de popa
+#### Poop deck
 
 El castillo de popa es una estancia que hace las veces de almacén de trastos, mapas, herramientas de navegación, trofeos varios y toda la parafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
 
@@ -197,7 +197,7 @@ Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y
 
 Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras ... Qué va, mentira. Va a ser una cinemática chusca y pista, que los disquetes están caros.
 
-#### Camarote de DraChuckla
+#### DraChuckla's Cabin
 
 _**DraChuckla**_ les espera tocándole al _**Gobernador Marlon**_ una de sus piezas musicales tremendamente tétrica en un gigantesco órgano en su camarote. Viste su capa de vampiro que tiene un vuelo estupendo y va con su gorro de capitán pirata. El _**gobernador**_ está atacado y amordazado
 
@@ -242,17 +242,17 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 #### Beach
 
 * **NPC:** Bridalis
-* **Clickable items:** Algas, Objetos que usa Bridalis en sus disfraces
+* **Clickable items:** Algae, Items that Bridalis uses in her costumes
 * **Connections:** Kraken's puke
 
 #### Jungle
 
-* **Clickable items:** Doblones de oro
+* **Clickable items:** Gold doubloons
 * **Connections:** Beach, Entrance of the cave
 
 #### Entrance of the cave
 
-* **NPC:** Muchos simios
+* **NPC:** Bunch of apes
 * **Connections:** Jungle, 1st chamber
 
 #### First chamber of the cave
@@ -287,48 +287,48 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 \conc
 
-#### Fuera de El caminante
+#### Outside The Walker
 
 * **Clickable items:** Cadena del ancla
 * **Clickable items:** Percebes, lapas y mejillones
-* **Connections:** Playa, Cubierta inferior
+* **Connections:** Beach, Lower deck
 
-#### Cubierta inferior
+#### Lower deck
 
 * **NPC:** Muchos zombis
-* **Connections:** Fuera de El caminante, Cubierta superior
+* **Connections:** Outside The Walker, Upper deck
 
-#### Cubierta superior
+#### Upper deck
 
 * **NPC:** Muchos zombis inteligentes
 * **Clickable items:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
-* **Connections:** Cubierta inferior, Castillo de popa
+* **Connections:** Lower deck, Poop deck
 
 \sc
 
-#### Castillo de popa
+#### Poop deck
 
 * **NPC:** Primero de a bordo zombi
 * **Clickable items:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
-* **Connections:** Cubierta superior, Camarote de DraChuckla
+* **Connections:** Upper deck, DraChuckla's Cabin
 
-#### Camarote de DraChuckla
+#### DraChuckla's Cabin
 
 * **NPC:** DraChuckla, Gobernador Marlon, Ayudante zombi
-* **Clickable items:** Órgano
-* **Connections:** Castillo de popa
+* **Clickable items:** Pipe organ
+* **Connections:** Poop deck
 
 \sinc
 
 &nbsp;
 
-### Mapa de ubicaciones
+### Map of locations
 
 ```
 Kraken's puke
  ↕
 Beach↔Jungle↔Entrance cave↔1st chamber↔2nd chamber↔3rd chamber↔Treasure chamber
-    ↘ Fuera de El caminante ↔ Cub. inferior ↔ Cub. superior ↔ Castillo de popa ↔ Camarote
+    ↘ Outside The Walker ↔ Lower deck ↔ Upper deck ↔ Poop deck ↔ Cabin
 ```
 
 &nbsp;

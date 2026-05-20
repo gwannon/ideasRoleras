@@ -35,7 +35,7 @@ The place is a dingy old dive, packed with _**drunken pirates**_. The few who ar
 * So you want to be a pirate, huh? Talk to the three _**Pirate Ladybosses**_.
 * The grog in my day was real grog, not like the stuff they make now with little umbrellas, cloves, and mint leaves. We used to put real cloves in it.
 * Have you heard of [Ahoy! Cthulhu](https://arrrcthulhu.com/)? It's an excellent setting for pirate adventures in a Caribbean of the Cthulhu Mythos.
-* They stole my idea for the monkey-traffic light. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
+* They stole my idea for the ape-traffic light. I could have been a millionaire and retired to a Caribbean island and spent my days drinking grog. Oops, I already do that.
 
 At a large table in the back sit the _**3 Pirate Ladybosses**_. The most powerful pirates of Bucan Ville, chosen by the democratic method of slaughtering all their competition.
 
@@ -69,19 +69,19 @@ As the Pirate lady Bosses explained, to become a pirate, you need to be on the o
 
 There are several ways to commit crimes:
 
-* The easiest way is to run the red light at the monkey traffic light in _**Bucan Ville's Main Square**_.
+* The easiest way is to run the red light at the ape-traffic light in _**Bucan Ville's Main Square**_.
 * Another way is to stand to the left of the _**courthouse**_ while the _**painter**_ in the _**Main Square**_ is painting.
 * If you try other kind of crimes, your characters will look at the screen and say things like, «My mother didn't raise a petty thief» or «This would put me on Santa's naughty list.»
 
-If you see them getting lost at this point, emphasize the "other side of the law" part or remind them of the drunken pirate in the Boiled Crab Tavern who claimed to have invented the monkey traffic light and ask them for a clue.
+If you see them getting lost at this point, emphasize the "other side of the law" part or remind them of the drunken pirate in the Boiled Crab Tavern who claimed to have invented the ape-traffic light and ask them for a clue.
 
 #### Bucan Ville's Town Center
 
 The streets of the Town Center are deserted at night, the gas lamps are lit, and the shops are closed—all except the _**souvenir shop**_ with its large neon sign that reads "Open 24 Hours."
 
-To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**monkey-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The monkey traffic light is operated by a monkey that changes the color of the light by moving levers. When you approach, the monkey moves the levers, and you always cross on green.
+To cross the street that runs through the center, you have to go through a pedestrian crossing controlled by a _**ape-traffic light**_ and watched over by a _**city guard**_ who only says, "Move along, move along!" The ape-traffic light is operated by a ape that changes the color of the light by moving levers. When you approach, the ape moves the levers, and you always cross on green.
 
-No matter how hard you try, the monkey always sets it to green. The only way to cross on red is to give the monkey a banana when the light is red, and as it eats the banana, it stays red. At that moment you can cross and the _**city guard**_ will give you a _**fine**_ and, therefore, you will be an outlaw.
+No matter how hard you try, the ape always sets it to green. The only way to cross on red is to give to the ape a banana when the light is red, and as it eats the banana, it stays red. At that moment you can cross and the _**city guard**_ will give you a _**fine**_ and, therefore, you will be an outlaw.
 
 #### Bucan Ville's Main Square
 
@@ -242,7 +242,7 @@ When they manage to get up, they'll see through the hole in the wall that the bl
 #### Bucan Ville's Town Center
 
 * **NPC:** City guard
-* **Clickable items:** Monkey traffic light
+* **Clickable items:** Ape-traffic light
 * **Connections:** Bucan Ville's Main Square, Harbour, Souvenirs Shop
 
 #### Souvenirs Shop
