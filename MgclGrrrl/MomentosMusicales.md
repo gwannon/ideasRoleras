@@ -1,4 +1,4 @@
-* [Las chicas mágicas salen victoriosas](https://www.youtube.com/watch?v=eKC3_9gRrOI&t=5678s)
+* [Las chicas mágicas salen victoriosas y créditos finales](https://www.youtube.com/watch?v=eKC3_9gRrOI&t=5678s)
 * [La muerte de Chica ICKi](https://www.youtube.com/watch?v=eKC3_9gRrOI&t=990s)
 * [Vida diaria](https://www.youtube.com/watch?v=eKC3_9gRrOI&t=1341s)
 * [Mañana será otro día](https://www.youtube.com/watch?v=eKC3_9gRrOI&t=1455s9)
