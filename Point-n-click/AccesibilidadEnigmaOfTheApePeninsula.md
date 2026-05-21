@@ -456,11 +456,11 @@ If you find the four doubloons and follow their directions, you will reach the _
 
 The _**entrance of the cave**_ is a gigantic stone ape head and is guarded by a _**bunch of apes**_ who snarl at you and throw poop if you get too close.
 
-Si se fijan bien, los _**simios**_ lanzan las cacas siempre en las 3 mismas zonas y antes de lanzar gruñen. Las cacas al caer salpican, así que las zonas donde se pueden pringar son amplias.
+If you look closely, the _**apes**_ always throw their poops in the same three areas, and they grunt before throwing them. The poops splash when they fall, so the areas where you can get messy are quite large.
 
-Después de cada ronda de lanzamiento de cacas, mientras consiguen nueva munición (tómatelo como quieras), tus jugadoras pueden atravesar una zona de salpicadura y quedarse en una zona protegida.
+After each round of poop throwing, while they get new ammunition (take it however you want), your players can go through a splash zone and stay in a protected zone.
 
-Así, poco a poco podrán avanzar hacia la cabeza de mono y una vez estén enfrente de los _**simios**_ huirán despavoridos.
+Thus, step by step they will be able to advance towards the ape head and once they are in front of the _**bunch of apes**_ they will flee in terror.
 
 Puedes pedirles tiradas para recordar con precisión si están en zona de pringue o no. Dales bonus si se les ocurre dejar algo para marcarlas como papeles y negativos si intentan pasar a toda velocidad.
 
