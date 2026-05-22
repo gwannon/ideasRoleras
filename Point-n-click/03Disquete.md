@@ -314,7 +314,7 @@ De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus ceni
 
 #### Camarote de DraChuckla
 
-* **PNJ:** DraChuckla, Gobernador Marlon, Ayudante zombi
+* **PNJ:** DraChuckla, Gobernador Marlon, Primero de a bordo zombi
 * **Elementos clicables:** Órgano
 * **Conexiones:** Castillo de popa
 

@@ -462,12 +462,11 @@ After each round of poop throwing, while they get new ammunition (take it howeve
 
 Thus, step by step they will be able to advance towards the ape head and once they are in front of the _**bunch of apes**_ they will flee in terror.
 
-Puedes pedirles tiradas para recordar con precisión si están en zona de pringue o no. Dales bonus si se les ocurre dejar algo para marcarlas como papeles y negativos si intentan pasar a toda velocidad.
+You can ask them to roll to remember with milimetrical precision whether they're in a splash zone or not. Give them bonus points if they think to leave something like stones to mark them, and negative points if they try to speed through.
 
-Si les cae una caca encima a una de tus jugadoras, saldrá corriendo a la playa a limpiarse y con ella sus compañeras. Recuerda que no pueden separarse y deben estar siempre en la misma pantalla.
+If one of your players gets pooped on, she'll run to the _**beach**_ to clean herself up, and her teammates will go with her. Remember, they can't separate and must always stay on the same screen.
 
-Las cacas una vez impactan desaparecen sin dejar pistas de donde están las zonas de caída de cacas.
-
+Once the poops impact, they disappear without leaving any track that your players can use to trace a safeway.
 #### First chamber of the cave
 
 En esta _**primera cámara**_ hay tres _**estatuas de simios**_, cada una con un gesto, uno que se tapa las orejas, otro la boca y otro los ojos. Encima de cada una las _**estatuas**_ hay un pequeño simio que imita cualquier gesto. Si avanzan y algún simio no es igual al gesto de su estatua, en cuanto pasan las _**3 estatuas**_, los simios tocan algún resorte y se levanta un muro que no les deja avanzar.

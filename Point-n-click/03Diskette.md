@@ -72,11 +72,13 @@ After each round of poop throwing, while they get new ammunition (take it howeve
 
 Thus, step by step they will be able to advance towards the ape head and once they are in front of the _**bunch of apes**_ they will flee in terror.
 
-Puedes pedirles tiradas para recordar con precisión si están en zona de pringue o no. Dales bonus si se les ocurre dejar algo para marcarlas como papeles y negativos si intentan pasar a toda velocidad.
+You can ask them to roll to remember with milimetrical precision whether they're in a splash zone or not. Give them bonus points if they think to leave something like stones to mark them, and negative points if they try to speed through.
 
-Si les cae una caca encima a una de tus jugadoras, saldrá corriendo a la playa a limpiarse y con ella sus compañeras. Recuerda que no pueden separarse y deben estar siempre en la misma pantalla.
+If one of your players gets pooped on, she'll run to the _**beach**_ to clean herself up, and her teammates will go with her. Remember, they can't separate and must always stay on the same screen.
 
-Las cacas una vez impactan desaparecen sin dejar pistas de donde están las zonas de caída de cacas.
+Once the poops impact, they disappear without leaving any track that your players can use to trace a safeway.
+
+\sc
 
 #### First chamber of the cave
 
@@ -140,7 +142,7 @@ La única opción es que cojan los _**lingotes**_ de la montaña y las metan en 
 
 El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
 
-### 2. De vampiros y zombis
+### 2. Of vampires and zombies
 
 Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
@@ -193,7 +195,7 @@ Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de a
 
 Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y enfrentarse a él sin miedo.
 
-### 3. ¡Muere maldito vampirata!
+### 3. Damn vampirate dies!
 
 Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras ... Qué va, mentira. Va a ser una cinemática chusca y pista, que los disquetes están caros.
 
@@ -309,12 +311,12 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 #### Poop deck
 
 * **NPC:** Primero de a bordo zombi
-* **Clickable items:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
+* **Clickable items:** Voodoo dolls, Cabezas reducidas parlantes, Vitrina de exposición
 * **Connections:** Upper deck, DraChuckla's Cabin
 
 #### DraChuckla's Cabin
 
-* **NPC:** DraChuckla, Gobernador Marlon, Ayudante zombi
+* **NPC:** DraChuckla, Governor Marlon, Primero de a bordo zombi
 * **Clickable items:** Pipe organ
 * **Connections:** Poop deck
 
