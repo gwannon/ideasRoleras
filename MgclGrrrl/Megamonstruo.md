@@ -6,7 +6,7 @@ Megamonstruo es una aventura corta para [MgclGrrrl](https://lowdensitydotted.itc
 
 Tras todas las batallas de «Djinn de fuego» con el megamonstruo de cada semana, un grupo de chicas mágicas de bajo poder tiene que recogerlo todo, limpiarlo y reparar los daños. Ese grupo sois vosotras.
 
-Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy poco y de tener unos horarios horribles y poca conciliación. En vuestro momento más bajo se os aparecerá la hada de la sindicación con un plan absurdo, montar una huelga. Según ella es la maniobra legal adecuada en una situación como está. La ilegal supondría haceros lo que ella llama un «Luigi Mangione».
+Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy poco y de tener unos horarios horribles y poca conciliación. En vuestro momento más bajo se os aparecerá **la hada de la sindicación** con un plan absurdo, **montar una huelga**. Según ella es la maniobra legal adecuada en una situación como está. La ilegal supondría haceros lo que ella llama un «Luigi Mangione».
 
 Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los rompehuelgas y las chicas mágicas esquirolas y hacer lo que sea para que al final la empresa acepte vuestras condiciones. 
 
@@ -84,8 +84,9 @@ XXX
 
 El hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta. Cuando aparece suenan coros revolucionarios soviéticos y deja un rastro de purpurina roja por donde va volando. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
 
-
 XXX
+
+> El pacto de no agresión de los dioses del capitalismo y el comunismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.
 
 ### Rompehuelgas de la megacorporación, minions
 
