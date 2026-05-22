@@ -22,8 +22,8 @@ Pero también pueden pasar cosas que me eviten que marquen casillas del reloj, p
 
 Pero también se puede perder la huelga. Las condiciones de derrota son:
 
-* 3 días seguimos sin marcar ninguna casilla.
-* 5 días no seguidos sin marcar ninguna casilla.
+* 3 ataques seguimos sin marcar ninguna casilla.
+* 5 ataques no seguidos sin marcar ninguna casilla.
 * XXX
 
 En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis derrotadas a vuestro deprimente trabajo. [MOMENTO MUSICAL: Eric Burdon - Sixteen Tons - Joe Versus the Volcano Theme](https://www.youtube.com/watch?v=E6m1qgnUw74)
