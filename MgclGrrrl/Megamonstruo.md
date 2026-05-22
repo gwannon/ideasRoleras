@@ -24,7 +24,7 @@ XXX
 
 ## Las reivindicaciones
 
-Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora podrá meter una mejora sin necesidad de votación y el resto hasta 10 tendrá que votarse para meterlo en la lista. Al final deberían ser una mezcla de cosas lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Megabollitos de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
+Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora podrá meter una mejora sin necesidad de votación y el resto hasta 10 tendrá que votarse para meterlo en la lista. Al final deberían ser una mezcla de cosas lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
 
 XXX
 
