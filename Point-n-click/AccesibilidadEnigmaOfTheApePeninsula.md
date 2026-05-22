@@ -523,7 +523,7 @@ La única opción es que cojan los _**lingotes**_ de la montaña y las metan en 
 
 El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
 
-### 2. De vampiros y zombis
+### 2. Of vampires and zombies
 
 Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
@@ -570,7 +570,7 @@ Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de a
 
 Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y enfrentarse a él sin miedo.
 
-### 3. ¡Muere maldito vampirata!
+### 3. Damn vampirate dies!
 
 Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras ... Qué va, mentira. Va a ser una cinemática chusca y pista, que los disquetes están caros.
 
@@ -653,12 +653,12 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 #### Poop deck
 
 * **NPC:** Primero de a bordo zombi
-* **Clickable items:** Muñecos vudú, Cabezas reducidas parlantes, Vitrina de exposición
+* **Clickable items:** Voodoo dolls, Cabezas reducidas parlantes, Vitrina de exposición
 * **Connections:** Upper deck, DraChuckla's Cabin
 
 #### DraChuckla's Cabin
 
-* **NPC:** DraChuckla, Gobernador Marlon, Ayudante zombi
+* **NPC:** DraChuckla, Governor Marlon, Primero de a bordo zombi
 * **Clickable items:** Pipe organ
 * **Connections:** Poop deck
 
