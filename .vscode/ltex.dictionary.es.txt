@@ -661,3 +661,7 @@ AD&D
 lore
 psiónica
 psiónico
+megamonstruo
+esquirolas
+Djinn
+Megamonstruo
