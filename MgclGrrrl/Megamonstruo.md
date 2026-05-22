@@ -6,9 +6,9 @@ Megamonstruo es una aventura corta para [MgclGrrrl](https://lowdensitydotted.itc
 
 Tras todas las batallas de «Djinn de fuego» con el megamonstruo de cada semana, un grupo de chicas mágicas de bajo poder tiene que recogerlo todo, limpiarlo y reparar los daños. Ese grupo sois vosotras.
 
-Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy poco y de tener unos horarios horribles y poca conciliación. Una huelga es la maniobra adecuada en una situación como está. 
+Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy poco y de tener unos horarios horribles y poca conciliación. En vuestro momento más bajo se os aparecerá la hada de la sindicación con un plan absurdo, montar una huelga. Según ella es la maniobra legal adecuada en una situación como está. La ilegal supondría haceros lo que ella llama un «Luigi Mangione».
 
-El problema es que tendréis que enfrentaros a los rompehuelgas y las chicas mágicas esquirolas. Pero nadie dijo que fuera fácil.
+Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los rompehuelgas y las chicas mágicas esquirolas y hacer lo que sea para que al final la empresa acepte vuestras condiciones. 
 
 ## Trabajo alienante
 
@@ -18,7 +18,7 @@ Hay momentos en que el trabajo es realmente una auténtica mierda y por el que t
 
 * XXX
 
-## La visita del hada de la sindicación
+## La visita de la hada de la sindicación
 
 XXX
 
@@ -82,7 +82,8 @@ XXX
 
 ### El hada de la sindicación
 
-El hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropa de currela) con alitas de hada y una varita mágica con XXX en la punta. 
+El hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta. Cuando aparece suenan coros revolucionarios soviéticos y deja un rastro de purpurina roja por donde va volando. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
+
 
 XXX
 
