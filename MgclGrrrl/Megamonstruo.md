@@ -1,10 +1,26 @@
 # Megamonstruo
 
+Megamonstruo es una aventura corta para [MgclGrrrl](https://lowdensitydotted.itch.io/mgclgrrrl) en la que tus jugadoras deberán montar una huelga para defender sus derechos mágico-sindicales frente a la megacorporación que las explota laboralmente.
+
+## Sinopsis
+
 Tras todas las batallas de «Djinn de fuego» con el megamonstruo de cada semana, un grupo de chicas mágicas de bajo poder tiene que recogerlo todo, limpiarlo y reparar los daños. Ese grupo sois vosotras.
 
 Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy poco y de tener unos horarios horribles y poca conciliación. Una huelga es la maniobra adecuada en una situación como está. 
 
 El problema es que tendréis que enfrentaros a los rompehuelgas y las chicas mágicas esquirolas. Pero nadie dijo que fuera fácil.
+
+## Trabajo alienante
+
+XXX
+
+Hay momentos en que el trabajo es realmente una auténtica mierda y por el que tus jugadoras deberán pasar para empezar a pensar en una huelga.
+
+* XXX
+
+## La visita del hada de la sindicación
+
+XXX
 
 ## Las reivindicaciones
 
@@ -34,7 +50,7 @@ Pero también se puede perder la huelga. Las condiciones de derrota son:
 * 5 ataques no seguidos sin marcar ninguna casilla.
 * Si no consiguen derrotar convencer a las esquirolas y estas hacen su trabajo durante 2 ataques.
 
-En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis derrotadas a vuestro deprimente trabajo. [MOMENTO MUSICAL: Eric Burdon - Sixteen Tons - Joe Versus the Volcano Theme](https://www.youtube.com/watch?v=E6m1qgnUw74)
+En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis derrotadas a vuestro deprimente trabajo. [MOMENTO MUSICAL: Eric Burdon - Sixteen Tons - Joe Versus the Volcano Theme | https://youtu.be/E6m1qgnUw74](https://youtu.be/E6m1qgnUw74)
 
 > Las condiciones de derrota también deberían ser secretas, pero, como DJ, puedes darles señales de que las cosas van mal según estén más o menos cerca de ser derrotadas. 
 
@@ -52,6 +68,46 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 
 ## Personajes
 
+### Djinn de fuego
 
+XXX
+
+* Agilidad XXX Conocimiento XXX Presencia XXX Fuerza XXX Resistencia XXX
+* Poder: XXX
+* XXX vidas
+* Polvo XXX
+* Armadura XXX dXXX
+* Dropea XXX ¥ / XXX ¤ en efectivo.
+* XXX dXXX daños
+
+### El hada de la sindicación
+
+El hada de ka sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropa de currela) con alitas de hada y una varita mágica con XXX en la punta. 
+XXX
+
+### Rompehuelgas de la megacorporación, minions
+
+XXX
+
+* XXX vidas
+* Moral XXX
+* Armadura dXXX
+* XXX dXXX daños
+* Daño de XXX: XXX
+
+### Esquirolas de XXX, minions
+
+* XXX por colección
+* XXX vidas
+* Moral XXX
+* Asalto dXXX daños
+
+XXX
+
+## El poder de la sindicación
+
+Estar sindicadas y saber que las huelgas funcionan os otorgan un nuevo poder. XXX
+
+Cuantas más chicas mágicas se apunten al sindicato mayor será el poder.
 
 |Licencia.md|
