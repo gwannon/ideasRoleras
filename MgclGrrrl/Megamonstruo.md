@@ -28,7 +28,7 @@ Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora pod
 
 XXX
 
-> Seguramente alguna de las peticiones te da como semilla para futuras aventuras, así que déjales un cierto margen de locura. Quien dice que no peirden al unicornio mágico en una de sus visitas y deban recuperarlo.
+> Seguramente alguna de las peticiones te servirá como semilla para futuras aventuras, así que déjales un cierto margen de locura. Quién dice que no pierden al unicornio mágico en una de sus visitas y deban recuperarlo.
 
 ## Cómo funciona la huelga
 
