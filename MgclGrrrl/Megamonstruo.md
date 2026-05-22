@@ -82,7 +82,8 @@ XXX
 
 ### El hada de la sindicación
 
-El hada de ka sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropa de currela) con alitas de hada y una varita mágica con XXX en la punta. 
+El hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropa de currela) con alitas de hada y una varita mágica con XXX en la punta. 
+
 XXX
 
 ### Rompehuelgas de la megacorporación, minions
