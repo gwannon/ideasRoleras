@@ -24,7 +24,7 @@ Pero también se puede perder la huelga. Las condiciones de derrota son:
 
 * 3 ataques seguimos sin marcar ninguna casilla.
 * 5 ataques no seguidos sin marcar ninguna casilla.
-* XXX
+* Si no consiguen derrotar convencer a las esquirolas y estas hacen su trabajo durante 2 ataques.
 
 En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis derrotadas a vuestro deprimente trabajo. [MOMENTO MUSICAL: Eric Burdon - Sixteen Tons - Joe Versus the Volcano Theme](https://www.youtube.com/watch?v=E6m1qgnUw74)
 
