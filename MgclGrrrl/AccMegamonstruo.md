@@ -1,6 +1,5 @@
 # Megamonstruo
 
-\sp
 
 Megamonstruo es una aventura corta para [MgclGrrrl](https://lowdensitydotted.itch.io/mgclgrrrl) en la que tus jugadoras deberán montar una huelga para defender sus derechos mágico-sindicales frente a la megacorporación que las explota laboralmente.
 
@@ -16,7 +15,6 @@ Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los romp
 
 Mientras Djinn de fuego, la chica mágica de moda patrocinada por XXX, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). 
 
-\sp
 
 Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayudan a Djinn de fuego. Djinn las que tiene apadrinada y se supone que las entrena. Las «Llamitas» están a sueldo de la megacorporación, pero el sueldo es una mierda, tienen que estar disponibles 24/7 y sinceramente Djinn es una capulla insoportable.
 
@@ -43,7 +41,6 @@ Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada labora
 * Djinn les dejará en su casa un montón de sus trajes de lucha para que la recojan y los laven a mano. 
 * XXX
 
-\sp
 
 ## La visita de la hada de la sindicación
 
@@ -69,7 +66,6 @@ Pueden forzar la situación y conseguir más sectores por ataque, por ejemplo, h
 
 Pero también pueden pasar cosas que me eviten que marquen casillas del reloj, por ejemplo, porque la corporación ha contratado a una esquirolas para hacer vuestro trabajo.
 
-\sp
 
 > En caso de que vayan a no marcar casillas siempre debes darlas la oportunidad de hacer algo para evitarlo. Por ejemplo, pueden montar un piquete informativo que explique o «explique explícitamente» vuestras reivindicaciones a las esquirolas de la megacorporación.
 
@@ -109,7 +105,6 @@ XXX
 * Dropea XXX ¥ / XXX ¤ en efectivo.
 * XXX dXXX daños
 
-\sp
 
 ### Croquetas, empanadillas y alitas de pollo humanoides
 
@@ -148,6 +143,17 @@ Estar sindicadas y saber que las huelgas funcionan os otorgan un nuevo poder. XX
 
 Cuantas más chicas mágicas se apunten al sindicato mayor será el poder.
 
-\sp
 
-|Licencia.md|
+## Licencia
+
+Esta aventura está desarrollada bajo la licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es) y creada para el juego de rol [MgclGrrrl](https://lowdensitydotted.itch.io/mgclgrrrl) de [LowDensityDotted](https://lowdensitydotted.itch.io/) que está escrito bajo una licencia [CY_BORG Third Party](https://morkborg.com/cb-license/).
+
+[![Compatible con MgclGrrrl](./images/compatible_con.png "Compatible con MgclGrrrl")](https://lowdensitydotted.itch.io/mgclgrrrl "Compatible con MgclGrrrl")
+
+El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/MgclGrrrl). 
+
+Otras atribuciones: 
+
+* [Fuente Dracutaz](https://www.1001fonts.com/dracutaz-font.html)
+
+[![Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png "Pergeñado con Inteligencia humana por Ángel G. Ropero")](https://bsky.app/profile/angelgropero.bsky.social "Pergeñado con Inteligencia humana por Ángel G. Ropero")

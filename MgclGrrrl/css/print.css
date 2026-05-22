@@ -1,0 +1,511 @@
+:root {
+  --padding: 95px; /*Ancho de los bordes de la página*/
+  --padding2: 75px; /*Ancho de los bordes de la página*/
+  --color-red: #ef810e;
+  --color-white: #e5de44;
+  --color-black: #1c375c;
+  --color-grey: #dedede;
+  --color-dark-grey: #949494;
+}
+
+@font-face {
+  font-family: 'Dracutaz';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./Dracutaz.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./OpenSans-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./OpenSans-Bold.ttf") format('truetype');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-white);
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans';
+  color: var(--color-black);
+  font-size: 17px;
+  overflow-x: hidden;
+}
+
+/*body:before {
+  content: "";
+  display: block;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 10;
+  background-color: var(--color-black);
+  background: linear-gradient(180deg,var(--color-black) 40%, var(--color-red) 40%);
+  clip-path: polygon(
+    0% 0%,
+    100% 0%,
+    100% 75%, 
+    calc(100% - var(--padding2)) calc(75% - var(--padding2)), 
+    calc(100% - var(--padding2)) var(--padding2),
+    var(--padding2) var(--padding2),
+    var(--padding2) calc(75% - var(--padding2)),
+    0% 75%);
+}*/
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 1;
+}
+
+.columns > *:is(h2,h3):first-child,
+.saltocolumna + *:is(h2,h3) {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+blockquote {
+  border: 3px solid var(--color-dark-grey);
+  border-radius: 8px;
+  padding: 0px;
+  margin: 10px 0px;
+  color: black;
+  font-family: "Dracutaz";
+  font-size: 0.8em;
+  line-height: 130%;
+}
+
+blockquote p {
+  border: 3px solid var(--color-grey);
+  padding: 15px 15px 10px 15px;
+  margin: 0px;
+  border-radius: 6px;
+  background: linear-gradient(165deg,var(--color-dark-grey) 20%, var(--color-grey) 100%);
+}
+
+pre {
+  white-space: pre-wrap;
+  padding: 0px;
+  text-align: center
+}
+
+pre * {
+  font-family: "Dracutaz";
+  margin: 0px;
+  padding: 0px;
+  font-weight: 700;
+  font-size: 1em;
+  font-style: italic;
+}
+
+/* Titulares */
+h1 {
+  background: #201c37 url(../images/titular.jpg) top center no-repeat;
+  background-size: cover;
+  font-family: "Dracutaz";
+  color: var(--color-red);
+  text-align: center;
+  font-size: 1.5em;
+  margin-left: calc(var(--padding) * -1);
+  margin-top: calc(var(--padding) * -1);
+  text-shadow: 3px 0px 3px var(--color-black), 0px 3px 3px var(--color-black), -3px 0px 3px var(--color-black), 0px -3px 3px var(--color-black);
+  line-height: 120%;
+  width: calc(100% + (var(--padding) * 2));
+  height: 100vh;
+  z-index: 100;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 500px) {
+  h1 {
+    font-size: 3.5em;
+  }
+}
+
+@media (min-width: 700px) {
+  h1 {
+    font-size: 5em;
+  }
+}
+
+h1 > a {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  width: 100%;
+  color: var(--color-white);
+  font-family: "Dracutaz";
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  /*letter-spacing: 0px;*/
+  margin-top: -20px;
+}
+
+h2,
+h3,
+h4 {
+  font-family: "Dracutaz";
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-red);
+  margin-bottom: 5px;
+  padding-bottom: 0px;
+  line-height: 120%;
+}
+
+h2 {
+  font-size: 2.2em;
+  color: var(--color-red);
+  text-shadow: -2px 0px 1px var(--color-black), 0px 2px 1px var(--color-black), 2px 0px 1px var(--color-black), 0px -2px 1px var(--color-black);
+  font-style: italic;
+  /*letter-spacing: -4px;*/
+  position: relative;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.3em;
+  text-shadow: 2px 0px 2px var(--color-black), 0px 2px 2px var(--color-black), -2px 0px 2px var(--color-black), 0px -2px 2px var(--color-black);
+}
+
+h4 {
+  font-size: 1em;
+  color: var(--color-black);
+  font-weight: 700;
+}
+
+h2 + p, 
+h3 + p,
+h4 + p {
+  margin-top: 0px;
+}
+
+/* Otros elementos */
+p,
+ul {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-black);
+}
+
+ul {
+  padding-left: 19px;
+}
+
+ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+ul li:before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid var(--color-black);
+  position: absolute;
+  top: 5px;
+  left: -19px;
+  display: block;
+  background: linear-gradient(180deg,transparent 50%, var(--color-black) 50%);
+}
+
+ol {
+  padding-left: 23px;
+}
+
+table {
+  margin-top: 5px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+  padding: 0;
+  position: relative;
+  margin: 15px 0;
+}
+
+table thead tr th {
+  text-align: left;
+  font-weight: 700;
+  background-color: var(--color-black);
+  font-size: 0.8em;
+  color: var(--color-white);
+  font-family: "Dracutaz";
+  padding: 6px 3px 0px 3px;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: var(--color-red);
+}
+
+img {
+  /*padding: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 15px;
+  margin: 0 calc(var(--padding) * 0.4);
+  clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) calc(100% - 0px), 10px calc(100% - 0px), 0% calc(100% - 10px));
+  background-color: var(--color-black);*/
+  max-width: 100%;
+  /*box-sizing: border-box;
+  margin: 0px 0px 0px 0px;*/
+}
+
+/*.saltopagina.odd + .columns img {
+  background-color: var(--color-red);
+    clip-path: polygon(0% 25px, 40% 25px, calc(40% + 12px) 12px, 50% 12px, calc(50% + 12px) 0px, calc(100% - 25px) 0px, 100% 25px, 100% 100%, 70% 100%, calc(70% - 10px) calc(100% - 10px), 30% calc(100% - 10px), calc(30% - 10px) 100%, 10px 100%, 0% calc(100% - 10px));
+  overflow: hidden;
+}*/
+
+img[alt^='Pergeñado'] {
+  width: 250px;
+  border: none;
+  margin: 0px auto;
+  display: block;
+  background: transparent !important;
+}
+
+table.special {
+  border-collapse: collapse;
+  font-family: "Dracutaz";
+  border-top: 6px double var(--color-red);
+  border-bottom: 6px double var(--color-red);
+  margin: 0px;
+}
+
+table.special th {
+  font-family: "Dracutaz";
+  font-size: 1.8em;
+  color: var(--color-red);
+  text-align: left;
+  padding: 14px 10px;
+}
+
+table.special span {
+  font-family: "Dracutaz";
+  font-size: 1.35em;
+  color: var(--color-red);
+  font-weight: bold;
+}
+
+table.special td {
+  font-size: 1.3em;
+  padding: 15px 10px;
+}
+
+table.special th[colspan="4"] {
+  text-align: center;
+}
+
+div:has(table.special) {
+  overflow: auto;
+}
+
+h3 + p img {
+  margin-top: 10px;
+}
+
+a.pdf {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  color: var(--color-black);
+  background-color: var(--color-red);
+  display: block;
+  padding: 10px;
+  margin: 0px;
+  font-family: "Dracutaz";
+  font-size: 20px;
+  text-decoration: none;
+  z-index: 100;
+}
+
+a.pdf:nth-of-type(2) {
+  bottom: auto;
+  top: 0px;
+}
+
+@media screen and (max-width: 840px) {
+  body {
+    padding: 0 10px;
+  }
+
+  body:after,
+  body:before {
+    opacity: 0;
+  }
+
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+
+  .saltopagina + * {
+    margin-top: var(--padding);
+    padding-top: 0;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 17px;
+  font-family: "Dracutaz";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 5px;
+  right: -50px;
+  width: var(--size);
+  height: var(--size);
+  z-index: 20;
+  opacity: 1;
+  font-size: calc(var(--size) * 0.8px);
+  padding: 7px 5px 3px;
+  color: var(--color-black);
+  background-color: var(--color-red);
+  /*border: 1px solid var(--color-black);
+  border-radius: 50%;*/
+}
+
+.saltopagina.odd:after {
+  right: auto;
+  left: -50px;
+}
+
+/*.saltopagina:before {
+  content: "";
+  display: block;
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  z-index: 15;
+  clip-path: polygon(
+    20% 100%, 
+    calc(20% + var(--padding2)) calc(100% - var(--padding2)), 
+    calc(95% - var(--padding2)) calc(100% - var(--padding2)), 
+    calc(95% - var(--padding2)) calc(75% - var(--padding2)), 
+    100% calc(75% - var(--padding2)), 
+    100% calc(100% - var(--padding2)),
+    100% 100%
+  );
+  background: linear-gradient(120deg,var(--color-black) 80%, var(--color-red) 80%);
+}
+
+.saltopagina.odd:before {
+  right: 0px;
+  left: auto;
+  transform: scaleX(-1);
+}*/
+
+@media screen {
+  .saltopagina:after, .saltopagina:before {
+    opacity: 0;
+  }
+}
+
+@media screen {
+  .saltopagina {
+    overflow-x: hidden;
+  }
+
+  .saltopagina:after {
+    display: none;
+  }
+
+  .columns {
+    columns: auto;
+  }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media screen {
+  .saltopagina {
+    display: none;
+  }
+}
+
+@media print {
+  .saltopagina {
+    display: block;
+  }
+}
