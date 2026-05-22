@@ -6,6 +6,14 @@ Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy po
 
 El problema es que tendréis que enfrentaros a los rompehuelgas y las chicas mágicas esquirolas. Pero nadie dijo que fuera fácil.
 
+## Las reivindicaciones
+
+Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora podrá meter una mejora sin necesidad de votación y el resto hasta 10 tendrá que votarse para meterlo en la lista. Al final deberían ser una mezcla de cosas lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Megabollitos de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
+
+XXX
+
+> Seguramente alguna de las peticiones te da como semilla para futuras aventuras, así que déjales un cierto margen de locura. Quien dice que no peirden al unicornio mágico en una de sus visitas y deban recuperarlo.
+
 ## Cómo funciona la huelga
 
 La huelga es un reloj con 10 partes. Si consiguen rellenar los 10 sectores habrán ganado la huelga y la empresa aceptará sus condiciones. Si vuelven al trabajo antes de marcar todas las casillas, habrán perdido y volverán a su mierda de curro.
@@ -41,5 +49,9 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 |Puntos|Acción|
 |---|---|
 |1|XXX|
+
+## Personajes
+
+
 
 |Licencia.md|
