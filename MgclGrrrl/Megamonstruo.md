@@ -12,10 +12,31 @@ Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los romp
 
 ## Trabajo alienante
 
-XXX
+Mientras Djinn de fuego, la chica mágica de moda patrocinada por XXX, se enfrenta  un megamonstruo mitad tigre humanoide giganteitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). 
 
-Hay momentos en que el trabajo es realmente una auténtica mierda y por el que tus jugadoras deberán pasar para empezar a pensar en una huelga.
+Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayudan a Djinn de fuego. Djinn las que tiene apadrinada y se supone que las entrena. Las Llamitas están a sueldo de la megacorporación, pero el sueldo es una mierda, tienen que estar disponibles 24/7  y sinceramente Djinn es una capulla insoportable.
 
+Cuando acaben con sus minions, Megatigrefreidora abrirá su bandeja y saldrá y saldrá una nueva oleada de minions que las Llamitas tendrán que derrotar.
+
+Cuando desees, Djinn acabará con Megatigrefreidora y sus minions se derretirán dejando todo perdido de comida.
+
+Mientras Djinn recibe los aplausos y los vítores, a tus jugadoras les toca recoger todo el estropicio. Una furgoneta de la megacorporación aparecerá y saldrán una serie de empleados que entregarán equipo de limpieza y reconstruccion a las Llamitas.
+
+|1d6|Tarea|
+|---|---
+|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se con vertieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona.|
+|2|**XXX:** XXX|
+|3|**XXX:** XXX|
+|4|**XXX:** XXX|
+|5|**XXX:** XXX|
+|6|**XXX:** XXX|
+
+Cuando terminen sus tareas irán a por sus créditos a la furgo de la corporación y les dirá que el no tiene nada, que llamen a las oficinas centrales. Al llamar no les cogerán, saldrá una locución de que no están abiertos o les darán largas.
+
+Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada laboral extra, por el que tus jugadoras deberán empezar a pensar en una huelga o darle una paliza a sus jefes.
+
+* Les llamarán a horas intempestivas para ayudar a Djinn y cuando llegan a la batalla simplemente será para limpiar el estropicio.
+* Djinn les dejará en su casa un montón de sus trajes de lucha para que la recojan y los laven a mano. 
 * XXX
 
 ## La visita de la hada de la sindicación
@@ -80,9 +101,13 @@ XXX
 * Dropea XXX ¥ / XXX ¤ en efectivo.
 * XXX dXXX daños
 
-### El hada de la sindicación
+### Croquetas, empanadillas y alitas de pollo humanoides
 
-El hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta. Cuando aparece suenan coros revolucionarios soviéticos y deja un rastro de purpurina roja por donde va volando. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
+XXX
+
+### La hada de la sindicación
+
+La hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta. Cuando aparece suenan coros revolucionarios soviéticos y deja un rastro de purpurina roja por donde va volando. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
 
 XXX
 
