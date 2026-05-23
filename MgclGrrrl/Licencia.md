@@ -7,3 +7,4 @@ El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com
 Otras atribuciones: 
 
 * [Fuente Dracutaz](https://www.1001fonts.com/dracutaz-font.html)
+* [Símbolo Anarquía](https://www.magnific.com/free-vector/flat-design-anarchy-symbol-logo_22072645.htm)

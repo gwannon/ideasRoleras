@@ -403,3 +403,14 @@
 {"rule":"FORM","sentence":"^\\QEn Athas hay varias formas de magia, pero casi siempre sus efectos son proyecciones en bruto de energía mágica, explosiones de fuego que calcinan a tus enemigos, vientos huracanados que te elevan por los aires, cuchillas de obsidiana que salen del suelo, …\\E$"}
 {"rule":"FORM","sentence":"^\\QLos esclavos nunca beben la ración diaria de agua, sino que se la racionan de forma que siempre están sedientos.\\E$"}
 {"rule":"FORM","sentence":"^\\QLa psiónica, aunque por ambientación es diferente de la magia, mecánicamente es otra forma de magia.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLick The Tins - Can't Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QEn vuestro momento más bajo se os aparecerá la hada de la sindicación con un plan absurdo, montar una huelga.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa ilegal supondría haceros lo que ella llama un «Luigi Mangione».\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QA veces, las pocas, Djinn escoge a una de sus «Llamitas» para que esté con ella mientras firma autógrafos y se hace fotos con sus fans.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QCuando estén juntas quejándose de su suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio/tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QCuando veas a tus chicas mágicas hartas de currar mucho y no cobrar, estarán preparadas para recibir la visita de la hada de la sindicación.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBasil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAl final deberían ser una mezcla de cosas lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QCómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios.\\E$"}
+{"rule":"FORM","sentence":"^\\QCómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEric Burdon - Sixteen Tons - Joe Versus the Volcano Theme | https://youtu.be/E6m1qgnUw74\\E$"}

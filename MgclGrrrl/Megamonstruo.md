@@ -26,6 +26,8 @@ Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los romp
 
 Mientras Djinn de fuego, la chica mágica de moda patrocinada por GoreTech, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). [MOMENTO MUSICAL: Lick The Tins - Can't Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM](https://youtu.be/7kORTAjFAWM)
 
+\sp
+
 Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayudan a Djinn de fuego. Djinn las que tiene apadrinada y se supone que las entrena. Las «Llamitas» están a sueldo de la megacorporación, pero el sueldo es una mierda, tienen que estar disponibles 24/7 y sinceramente Djinn es una capulla insoportable.
 
 Cuando acaben con sus minions, Megatigrefreidora abrirá su bandeja y saldrá y saldrá una nueva oleada de minions que las «Llamitas» tendrán que derrotar.
@@ -34,25 +36,29 @@ Cuando desees, Djinn acabará con Megatigrefreidora que explotará en una nube d
 
 Mientras Djinn recibe los aplausos y los vítores, a tus jugadoras les toca recoger todo el estropicio. Una furgoneta de la megacorporación aparecerá y saldrán una serie de empleados que entregarán equipo de limpieza y reconstrucción a las «Llamitas».
 
+|1d6|Tarea|
+|---|---
+|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadáveres.|
+|2|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus «Llamitas» para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfis, …|
+
 \sp
 
 |1d6|Tarea|
 |---|---
-|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadáveres.|
-|2|**Guantes de látex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
-|3|**Manguera:** Los megamonstruos explotan en purpurina y hay que limpiarla con manguera de agua porque es bastante tóxica. El problema es que seguramente vas a pasarte días sacándote purpurina del culo.|
-|4|**Puntales y refuerzos:** Es el más cansado de los curros. Hay que apuntalar y reforzar los edificios afectados por la lucha. El problema es que algunos edificios pueden caerse te encima. Se espera que uses tus poderes para hacer este curro.|
-|5|**Tableta:** Debes recoger las denuncias, quejas los daños a la propiedad de los vecinos de la zona para que megacorporación que patrocina a Djinn lo trate con los seguros. La gente es horrible y aquí lo descubres.|
-|6|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus «Llamitas» para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfies, …|
-
-\sp
+|3|**Guantes de látex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
+|4|**Manguera:** Los megamonstruos explotan en purpurina y hay que limpiarla con manguera de agua porque es bastante tóxica. El problema es que seguramente vas a pasarte días sacándote purpurina del culo.|
+|5|**Puntales y refuerzos:** Es el más cansado de los curros. Hay que apuntalar y reforzar los edificios afectados por la lucha. El problema es que algunos edificios pueden caerse te encima. Se espera que uses tus poderes para hacer este curro.|
+|6|**Tableta:** Debes recoger las denuncias, quejas los daños a la propiedad de los vecinos de la zona para que megacorporación que patrocina a Djinn lo trate con los seguros. La gente es horrible y aquí lo descubres.|
 
 Cuando terminen sus tareas irán a por sus créditos por su curro a la furgoneta de la corporación y les dirá que él no tiene nada, que llamen a las oficinas centrales. Al llamar no les cogerán, saldrá una locución de que no están abiertos o les darán largas.
 
 Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada laboral extra durante los días siguientes, por el que tus jugadoras deberán empezar a pensar en una huelga o darle una paliza a sus jefes.
 
-* Les llamarán a horas intempestivas para ayudar a Djinn y cuando llegan a la batalla simplemente será para **limpiar el estropicio**. Mientras ellas limpian, Djinn se hace fotos con sus fans. Tendrán que usar un mono de trabajo por encima de su ropa de chica mágica con los logos de la megacorporación.
 * Djinn les dejará en su casa un montón de sus **trajes de lucha** para que la recojan y los **laven a mano**, nada de productos químicos que irritan su fina piel. 
+
+\sp
+
+* Les llamarán a horas intempestivas para ayudar a Djinn y cuando llegan a la batalla simplemente será para **limpiar el estropicio**. Mientras ellas limpian, Djinn se hace fotos con sus fans. Tendrán que usar un mono de trabajo por encima de su ropa de chica mágica con los logos de la megacorporación.
 * Hay que **limpiar el arenero de Patata**, la gata mágica de Djinn. El problema es que es una gata de fuego y sus caquitas son como trozos de lava. 
 * Seguirán **dándoles largas con su nómina** y cada día tendrán menos dinero en su cuenta. Cómo estoy siga así igual tienen que ir a la morgue a coger la bolsa de cadáveres de alguna croqueta para poder comer.
 
@@ -60,11 +66,11 @@ Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada labora
 
 Cuando veas a tus chicas mágicas hartas de currar mucho y no cobrar, estarán preparadas para recibir la visita de la hada de la sindicación.
 
-\sp
-
 Cuando estén juntas quejándose de su suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio/tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
 
 XXX
+
+\sp
 
 ## Las reivindicaciones
 
@@ -76,11 +82,11 @@ Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora pod
 
 Cómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios. Si se hace viral, mucho mejor.
 
-\sp
-
 Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche contra un megamonstruo y las cámaras estén atentas. También e importante que e inventen un lema pegadizo que la gente pueda recordar rápido.
 
 > Si la declaración es excepcionalmente buena, puedes hacer que el reloj de la huelga (explicado en el siguiente apartado) tenga un sector ya rellenado.
+
+\sp
 
 ## Cómo funciona la huelga
 
@@ -94,9 +100,9 @@ Pueden forzar la situación y conseguir más sectores por ataque, por ejemplo, h
 
 Pero también pueden pasar cosas que me eviten que marquen casillas del reloj, por ejemplo, porque la corporación ha contratado a una esquirolas para hacer vuestro trabajo.
 
-\sp
-
 > En caso de que vayan a no marcar casillas siempre debes darlas la oportunidad de hacer algo para evitarlo. Por ejemplo, pueden montar un piquete informativo que explique o «explique explícitamente» vuestras reivindicaciones a las esquirolas de la megacorporación.
+
+\sp
 
 Pero también se puede perder la huelga. Las condiciones de derrota son:
 
@@ -108,15 +114,13 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 
 > Las condiciones de derrota también deberían ser secretas, pero, como DJ, puedes darles señales de que las cosas van mal según estén más o menos cerca de ser derrotadas. 
 
-### TABLA DE ACCIONES QUE AYUDAN A LA HUELGA
+### Acciones que ayudan a la huelga
 
 |Puntos|Acción|
 |---|---|
 |1|XXX|
 
-\sp
-
-### TABLA DE ACCIONES QUE PERJUDICAN A LA HUELGA
+### Acciones que perjudican a la huelga
 
 |Puntos|Acción|
 |---|---|
@@ -150,11 +154,15 @@ XXX
 
 \sp
 
-> El pacto de no agresión de los dioses del capitalismo y el comunismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.
+> El pacto de no agresión de los dioses del capitalismo y el anticapitalismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.
 
 ### Rompehuelgas de la megacorporación, minions
 
-XXX
+Lo mismo que los dioses del anticapitalismo tienen a la hada de la sindicación para comunicarse con las personas, los dioses capitalistas tienen a lo rompehuelgas, unas entidades que se dedican a contrarrestar las acciones de la hada de la sindicación.
+
+No pueden interferir directamente, pero sí pueden tentar y seducir a las huelguistas menos convencidas para romper las huelgas. Quizas ofrezcan beneficios laborales a sus objetivos, o le amenacen con que no encontrarán nunca trabajo en la ciudad si siguen así, … Vamos las técnicas normales que usan los jefes cabrones en nuestro mundo.
+
+Primero vigilarán a las huelguistas, buscarán un objetivo accesible y ejercerán presión sobre ella para romper la huelga.
 
 * XXX vidas
 * Moral XXX
@@ -162,7 +170,11 @@ XXX
 * XXX dXXX daños
 * Daño de XXX: XXX
 
-### Esquirolas de XXX, minions
+> No pueden empezar una pelea, eso sería romper los acuerdos de los dioses, pero si pueden defenderse y, si necesitan deshacerse de una chica mágica, podrían hacer que ella les ataque primero, eso les dejaría abierta la puerta a exterminarla.
+
+\sp
+
+### Esquirolas de GoreTech, minions
 
 * XXX por colección
 * XXX vidas

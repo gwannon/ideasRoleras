@@ -670,3 +670,6 @@ minions
 Llamitas
 Megatigrefreidora
 megamonstruos
+GoreTech
+MgclGrrrl
+burger
