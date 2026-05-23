@@ -22,26 +22,26 @@ Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayu
 
 Cuando acaben con sus minions, Megatigrefreidora abrirá su bandeja y saldrá y saldrá una nueva oleada de minions que las «Llamitas» tendrán que derrotar.
 
-Cuando desees, Djinn acabará con Megatigrefreidora y sus minions se derretirán dejando todo perdido de comida.
+Cuando desees, Djinn acabará con Megatigrefreidora que explotará en una nube de purpurina (siempre lo hacen) y sus minions se derretirán dejando todo perdido de comida.
 
 Mientras Djinn recibe los aplausos y los vítores, a tus jugadoras les toca recoger todo el estropicio. Una furgoneta de la megacorporación aparecerá y saldrán una serie de empleados que entregarán equipo de limpieza y reconstrucción a las «Llamitas».
 
 |1d6|Tarea|
 |---|---
-|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona.|
-|2|**XXX:** XXX|
-|3|**XXX:** XXX|
-|4|**XXX:** XXX|
+|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadaveres.|
+|2|**Guantes de latex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
+|3|**Manguera:** Los megamonstruos explotan en purpurina y hay que limpiarla con manguera de agua porque es bastante tóxica. El problema es que seguramente vas a pasarte días sacándote purpurina del culo.|
+|4|**Puntales y refuerzos:** Es el más cansado de los curros. Hay que apuntalar y reforzar los edificios afectados por la lucha. El problema es que algunos edificios pueden caerse te encima.|
 |5|**XXX:** XXX|
-|6|**XXX:** XXX|
+|6|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus llamitas para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfies, ...|
 
-Cuando terminen sus tareas irán a por sus créditos a la furgoneta de la corporación y les dirá que él no tiene nada, que llamen a las oficinas centrales. Al llamar no les cogerán, saldrá una locución de que no están abiertos o les darán largas.
+Cuando terminen sus tareas irán a por sus créditos por su curro a la furgoneta de la corporación y les dirá que él no tiene nada, que llamen a las oficinas centrales. Al llamar no les cogerán, saldrá una locución de que no están abiertos o les darán largas.
 
 Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada laboral extra, por el que tus jugadoras deberán empezar a pensar en una huelga o darle una paliza a sus jefes.
 
-* Les llamarán a horas intempestivas para ayudar a Djinn y cuando llegan a la batalla simplemente será para limpiar el estropicio.
-* Djinn les dejará en su casa un montón de sus trajes de lucha para que la recojan y los laven a mano. 
-* XXX
+* Les llamarán a horas intempestivas para ayudar a Djinn y cuando llegan a la batalla simplemente será para **limpiar el estropicio**. Mientras ellas limpian, Djinn se hace fotos con sus fans. Tendrán que usar un mono de trabajo por encima de su ropa de chica mágica con los logos de la megacorporación.
+* Djinn les dejará en su casa un montón de sus **trajes de lucha** para que la recojan y los **laven a mano**, nada de productos químicos que irritan su fina piel. 
+* Seguirán **dándoles largas con su nómina** y cada día tendrán menos dinero en su cuenta. Cómo estoy siga así igual tienen que ir a la morgue a coger la bolsa de cadáveres de alguna croqueta para poder comer.
 
 \sp
 
