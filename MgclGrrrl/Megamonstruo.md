@@ -8,7 +8,9 @@
 
 \sp
 
-Megamonstruo es una aventura corta para [MgclGrrrl](https://lowdensitydotted.itch.io/mgclgrrrl) en la que tus jugadoras deberán montar una huelga para defender sus derechos mágico-sindicales frente a la megacorporación que las explota laboralmente.
+## Megamonstruo
+
+Megamonstruo es una **aventura corta** para [MgclGrrrl](https://lowdensitydotted.itch.io/mgclgrrrl) en la que tus jugadoras deberán **montar una huelga para defender sus derechos mágico-sindicales** frente a la megacorporación que las explota laboralmente.
 
 ## Sinopsis
 
@@ -18,19 +20,21 @@ Estáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy po
 
 Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los rompehuelgas y las chicas mágicas esquirolas y hacer lo que sea para que al final la empresa acepte vuestras condiciones. 
 
+\sp
+
 ## Trabajo alienante
 
-Mientras Djinn de fuego, la chica mágica de moda patrocinada por GoreTech, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). 
+Mientras Djinn de fuego, la chica mágica de moda patrocinada por GoreTech, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). [MOMENTO MUSICAL: Lick The Tins - Can't Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM](https://youtu.be/7kORTAjFAWM)
 
 Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayudan a Djinn de fuego. Djinn las que tiene apadrinada y se supone que las entrena. Las «Llamitas» están a sueldo de la megacorporación, pero el sueldo es una mierda, tienen que estar disponibles 24/7 y sinceramente Djinn es una capulla insoportable.
 
 Cuando acaben con sus minions, Megatigrefreidora abrirá su bandeja y saldrá y saldrá una nueva oleada de minions que las «Llamitas» tendrán que derrotar.
 
-\sp
-
 Cuando desees, Djinn acabará con Megatigrefreidora que explotará en una nube de purpurina (siempre lo hacen) y sus minions se derretirán dejando todo perdido de comida.
 
 Mientras Djinn recibe los aplausos y los vítores, a tus jugadoras les toca recoger todo el estropicio. Una furgoneta de la megacorporación aparecerá y saldrán una serie de empleados que entregarán equipo de limpieza y reconstrucción a las «Llamitas».
+
+\sp
 
 |1d6|Tarea|
 |---|---
@@ -56,11 +60,11 @@ Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada labora
 
 Cuando veas a tus chicas mágicas hartas de currar mucho y no cobrar, estarán preparadas para recibir la visita de la hada de la sindicación.
 
+\sp
+
 Cuando estén juntas quejándose de su suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio/tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
 
 XXX
-
-\sp
 
 ## Las reivindicaciones
 
@@ -72,6 +76,8 @@ Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora pod
 
 Cómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios. Si se hace viral, mucho mejor.
 
+\sp
+
 Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche contra un megamonstruo y las cámaras estén atentas. También e importante que e inventen un lema pegadizo que la gente pueda recordar rápido.
 
 > Si la declaración es excepcionalmente buena, puedes hacer que el reloj de la huelga (explicado en el siguiente apartado) tenga un sector ya rellenado.
@@ -80,8 +86,6 @@ Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche con
 
 La huelga es un reloj con 10 partes. Si consiguen rellenar los 10 sectores habrán ganado la huelga y la empresa aceptará sus condiciones. Si vuelven al trabajo antes de marcar todas las casillas, habrán perdido y volverán a su mierda de curro.
 
-\sp
-
 > El reloj es secreto y solo lo conoce la directora, pero tus jugadoras pueden hacer una tirada de XXX para tener una idea muy general. Para saber exactamente cuántos sectores están rellenos deberán hacer alguna acción de espionaje en XXX o algún tipo de estudio.
 
 Cada 3 días suele atacar un megamonstruo y cada ataque que hagan su trabajo de reconstrucción rellenan un sector.
@@ -89,6 +93,8 @@ Cada 3 días suele atacar un megamonstruo y cada ataque que hagan su trabajo de 
 Pueden forzar la situación y conseguir más sectores por ataque, por ejemplo, haciendo que secretamente el megamonstruo se acerque a un edificio de la megacorporación y produzca daños en él.
 
 Pero también pueden pasar cosas que me eviten que marquen casillas del reloj, por ejemplo, porque la corporación ha contratado a una esquirolas para hacer vuestro trabajo.
+
+\sp
 
 > En caso de que vayan a no marcar casillas siempre debes darlas la oportunidad de hacer algo para evitarlo. Por ejemplo, pueden montar un piquete informativo que explique o «explique explícitamente» vuestras reivindicaciones a las esquirolas de la megacorporación.
 
@@ -142,9 +148,9 @@ La hada de la sindicación es una especie de Super Mario Bros (pequeño, regorde
 
 XXX
 
-> El pacto de no agresión de los dioses del capitalismo y el comunismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.
-
 \sp
+
+> El pacto de no agresión de los dioses del capitalismo y el comunismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.
 
 ### Rompehuelgas de la megacorporación, minions
 
