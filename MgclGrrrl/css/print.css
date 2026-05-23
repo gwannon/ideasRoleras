@@ -5,7 +5,7 @@
   --color-white: #5aa31f;
   --color-black: #1c375c;
   --color-grey: #dedede;
-  --color-dark-grey: #e64747;
+  --color-dark-grey: #e3fe73;
 }
 
 @font-face {
@@ -88,7 +88,7 @@ blockquote {
 blockquote p {
   padding: 15px 15px 10px 15px;
   margin: 0px;
-  background: var(--color-grey);
+  background: var(--color-dark-grey);
 }
 
 pre {
@@ -419,6 +419,14 @@ body {
 p:has(a.musical) {
   position: relative;
   transform: rotate(2deg);
+}
+
+h2 + p + p + p {
+  transform: rotate(-1deg);
+}
+
+h3 + p + p {
+  transform: rotate(1deg);
 }
 
 a.musical {

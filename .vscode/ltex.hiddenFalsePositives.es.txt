@@ -414,3 +414,4 @@
 {"rule":"DET_FEM_NOM_FEM","sentence":"^\\QCómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios.\\E$"}
 {"rule":"FORM","sentence":"^\\QCómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEric Burdon - Sixteen Tons - Joe Versus the Volcano Theme | https://youtu.be/E6m1qgnUw74\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLick The Tins - Can’t Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM\\E$"}

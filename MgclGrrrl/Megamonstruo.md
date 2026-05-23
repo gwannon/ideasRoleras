@@ -24,7 +24,7 @@ Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los romp
 
 ## Trabajo alienante
 
-Mientras Djinn de fuego, la chica mágica de moda patrocinada por GoreTech, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). [MOMENTO MUSICAL: Lick The Tins - Can't Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM](https://youtu.be/7kORTAjFAWM)
+Mientras Djinn de fuego, la chica mágica de moda patrocinada por GoreTech, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). [MOMENTO MUSICAL: Lick The Tins - Can’t Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM](https://youtu.be/7kORTAjFAWM)
 
 Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayudan a Djinn de fuego. Djinn las que tiene apadrinada y se supone que las entrena. Las «Llamitas» están a sueldo de la megacorporación, pero el sueldo es una mierda, tienen que estar disponibles 24/7 y sinceramente Djinn es una capulla insoportable.
 
