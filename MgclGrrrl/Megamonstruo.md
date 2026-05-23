@@ -26,8 +26,6 @@ Pero una huelga no es algo fácil de hacer. Tendréis que enfrentaros a los romp
 
 Mientras Djinn de fuego, la chica mágica de moda patrocinada por GoreTech, se enfrenta un megamonstruo mitad tigre humanoide gigante mitad freidora de aire, tus jugadoras se enfrentan a sus minions que son croquetas, empanadillas y alitas de pollo con piernas y brazos (tantas como jugadoras). [MOMENTO MUSICAL: Lick The Tins - Can't Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM](https://youtu.be/7kORTAjFAWM)
 
-\sp
-
 Las jugadoras son las llamadas «Llamitas», el grupo de chicas mágicas que ayudan a Djinn de fuego. Djinn las que tiene apadrinada y se supone que las entrena. Las «Llamitas» están a sueldo de la megacorporación, pero el sueldo es una mierda, tienen que estar disponibles 24/7 y sinceramente Djinn es una capulla insoportable.
 
 Cuando acaben con sus minions, Megatigrefreidora abrirá su bandeja y saldrá y saldrá una nueva oleada de minions que las «Llamitas» tendrán que derrotar.
@@ -37,18 +35,20 @@ Cuando desees, Djinn acabará con Megatigrefreidora que explotará en una nube d
 Mientras Djinn recibe los aplausos y los vítores, a tus jugadoras les toca recoger todo el estropicio. Una furgoneta de la megacorporación aparecerá y saldrán una serie de empleados que entregarán equipo de limpieza y reconstrucción a las «Llamitas».
 
 |1d6|Tarea|
-|---|---
-|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadáveres.|
-|2|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus «Llamitas» para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfis, …|
+|---|---|
+|1|**Manguera:** Los megamonstruos explotan en purpurina y hay que limpiarla con manguera de agua porque es bastante tóxica. El problema es que seguramente vas a pasarte días sacándote purpurina del culo.|
 
 \sp
 
 |1d6|Tarea|
-|---|---
-|3|**Guantes de látex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
-|4|**Manguera:** Los megamonstruos explotan en purpurina y hay que limpiarla con manguera de agua porque es bastante tóxica. El problema es que seguramente vas a pasarte días sacándote purpurina del culo.|
+|---|---|
+|2|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadáveres.|
+|3|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus «Llamitas» para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfis, …|
+|4|**Guantes de látex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
 |5|**Puntales y refuerzos:** Es el más cansado de los curros. Hay que apuntalar y reforzar los edificios afectados por la lucha. El problema es que algunos edificios pueden caerse te encima. Se espera que uses tus poderes para hacer este curro.|
 |6|**Tableta:** Debes recoger las denuncias, quejas los daños a la propiedad de los vecinos de la zona para que megacorporación que patrocina a Djinn lo trate con los seguros. La gente es horrible y aquí lo descubres.|
+
+\sp
 
 Cuando terminen sus tareas irán a por sus créditos por su curro a la furgoneta de la corporación y les dirá que él no tiene nada, que llamen a las oficinas centrales. Al llamar no les cogerán, saldrá una locución de que no están abiertos o les darán largas.
 
@@ -56,11 +56,11 @@ Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada labora
 
 * Djinn les dejará en su casa un montón de sus **trajes de lucha** para que la recojan y los **laven a mano**, nada de productos químicos que irritan su fina piel. 
 
-\sp
-
 * Les llamarán a horas intempestivas para ayudar a Djinn y cuando llegan a la batalla simplemente será para **limpiar el estropicio**. Mientras ellas limpian, Djinn se hace fotos con sus fans. Tendrán que usar un mono de trabajo por encima de su ropa de chica mágica con los logos de la megacorporación.
 * Hay que **limpiar el arenero de Patata**, la gata mágica de Djinn. El problema es que es una gata de fuego y sus caquitas son como trozos de lava. 
 * Seguirán **dándoles largas con su nómina** y cada día tendrán menos dinero en su cuenta. Cómo estoy siga así igual tienen que ir a la morgue a coger la bolsa de cadáveres de alguna croqueta para poder comer.
+
+\sp
 
 ## La visita de la hada de la sindicación
 
@@ -70,11 +70,13 @@ Cuando estén juntas quejándose de su suerte y estén rebuscando restos de pizz
 
 XXX
 
-\sp
-
 ## Las reivindicaciones
 
-Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora podrá meter una mejora sin necesidad de votación y el resto hasta 10 tendrá que votarse para meterlo en la lista. Al final deberían ser una mezcla de cosas lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
+Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora podrá meter una mejora sin necesidad de votación y el resto hasta 10 tendrá que votarse para meterlo en la lista.
+
+Al final deberían ser una mezcla de cosas lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
+
+\sp
 
 > Seguramente alguna de las peticiones te servirá como semilla para futuras aventuras, así que déjales un cierto margen de locura. Quién dice que no pierden al unicornio mágico en una de sus visitas y deban recuperarlo.
 
@@ -82,15 +84,17 @@ Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora pod
 
 Cómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios. Si se hace viral, mucho mejor.
 
-Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche contra un megamonstruo y las cámaras estén atentas. También e importante que e inventen un lema pegadizo que la gente pueda recordar rápido.
+Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche contra un megamonstruo y las cámaras estén atentas. 
+
+También es importante que se inventen un lema pegadizo que la gente pueda recordar rápido.
 
 > Si la declaración es excepcionalmente buena, puedes hacer que el reloj de la huelga (explicado en el siguiente apartado) tenga un sector ya rellenado.
-
-\sp
 
 ## Cómo funciona la huelga
 
 La huelga es un reloj con 10 partes. Si consiguen rellenar los 10 sectores habrán ganado la huelga y la empresa aceptará sus condiciones. Si vuelven al trabajo antes de marcar todas las casillas, habrán perdido y volverán a su mierda de curro.
+
+\sp
 
 > El reloj es secreto y solo lo conoce la directora, pero tus jugadoras pueden hacer una tirada de XXX para tener una idea muy general. Para saber exactamente cuántos sectores están rellenos deberán hacer alguna acción de espionaje en XXX o algún tipo de estudio.
 
@@ -102,8 +106,6 @@ Pero también pueden pasar cosas que me eviten que marquen casillas del reloj, p
 
 > En caso de que vayan a no marcar casillas siempre debes darlas la oportunidad de hacer algo para evitarlo. Por ejemplo, pueden montar un piquete informativo que explique o «explique explícitamente» vuestras reivindicaciones a las esquirolas de la megacorporación.
 
-\sp
-
 Pero también se puede perder la huelga. Las condiciones de derrota son:
 
 * 3 ataques seguimos sin marcar ninguna casilla.
@@ -111,6 +113,8 @@ Pero también se puede perder la huelga. Las condiciones de derrota son:
 * Si no consiguen derrotar convencer a las esquirolas y estas hacen su trabajo durante 2 ataques.
 
 En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis derrotadas a vuestro deprimente trabajo. [MOMENTO MUSICAL: Eric Burdon - Sixteen Tons - Joe Versus the Volcano Theme | https://youtu.be/E6m1qgnUw74](https://youtu.be/E6m1qgnUw74)
+
+\sp
 
 > Las condiciones de derrota también deberían ser secretas, pero, como DJ, puedes darles señales de que las cosas van mal según estén más o menos cerca de ser derrotadas. 
 
@@ -125,6 +129,12 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 |Puntos|Acción|
 |---|---|
 |1|XXX|
+
+## Djinn no quiere firmar el nuevo convenio
+
+XXX
+
+XXX
 
 \sp
 

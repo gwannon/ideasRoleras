@@ -46,28 +46,6 @@ body {
   overflow-x: hidden;
 }
 
-/*body:before {
-  content: "";
-  display: block;
-  height: 100vh;
-  width: 100%;
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  z-index: 10;
-  background-color: var(--color-black);
-  background: linear-gradient(180deg,var(--color-black) 40%, var(--color-red) 40%);
-  clip-path: polygon(
-    0% 0%,
-    100% 0%,
-    100% 75%, 
-    calc(100% - var(--padding2)) calc(75% - var(--padding2)), 
-    calc(100% - var(--padding2)) var(--padding2),
-    var(--padding2) var(--padding2),
-    var(--padding2) calc(75% - var(--padding2)),
-    0% 75%);
-}*/
-
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
   margin: 0 var(--padding);
@@ -171,7 +149,6 @@ h1 > a {
   font-weight: 400;
   text-decoration: none;
   font-style: normal;
-  /*letter-spacing: 0px;*/
   margin-top: -20px;
 }
 
@@ -269,6 +246,14 @@ table thead tr th {
   padding: 6px 3px 0px 3px;
 }
 
+table thead tr th:first-of-type {
+  clip-path: polygon(0% 0%, calc(100% - 2px)0%, 100% 100%, 0% 100%);
+}
+
+table thead tr th:last-of-type {
+  clip-path: polygon(0% 0%, 100% 0%, calc(100% - 2px) 100%, 0% 100%);
+}
+
 table tbody tr:nth-child(even) {
   background-color: var(--color-red);
   color: var(--color-grey);
@@ -279,23 +264,8 @@ table tbody tr td {
 }
 
 img {
-  /*padding: 30px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-bottom: 15px;
-  margin: 0 calc(var(--padding) * 0.4);
-  clip-path: polygon(0px 25px, 26px 0px, calc(60% - 25px) 0px, 60% 25px, 100% 25px, 100% calc(100% - 10px), calc(100% - 15px) calc(100% - 10px), calc(80% - 10px) calc(100% - 10px), calc(80% - 15px) calc(100% - 0px), 10px calc(100% - 0px), 0% calc(100% - 10px));
-  background-color: var(--color-black);*/
   max-width: 100%;
-  /*box-sizing: border-box;
-  margin: 0px 0px 0px 0px;*/
 }
-
-/*.saltopagina.odd + .columns img {
-  background-color: var(--color-red);
-    clip-path: polygon(0% 25px, 40% 25px, calc(40% + 12px) 12px, 50% 12px, calc(50% + 12px) 0px, calc(100% - 25px) 0px, 100% 25px, 100% 100%, 70% 100%, calc(70% - 10px) calc(100% - 10px), 30% calc(100% - 10px), calc(30% - 10px) 100%, 10px 100%, 0% calc(100% - 10px));
-  overflow: hidden;
-}*/
 
 img[alt^='Pergeñado'] {
   width: 250px;
@@ -398,43 +368,12 @@ body {
   font-size: calc(var(--size) * 1.8);
   padding: 17px 5px 3px;
   color: var(--color-black);
-  /*background-color: var(--color-red);
-  overflow: hidden;
-  border: 1px solid var(--color-black);
-  border-radius: 50%;*/
 }
 
 .saltopagina.odd:after {
   left: auto;
   right: calc(var(--padding) * -1);
 }
-
-/*.saltopagina:before {
-  content: "";
-  display: block;
-  height: 100vh;
-  width: 100vw;
-  position: absolute;
-  bottom: 0px;
-  left: 0px;
-  z-index: 15;
-  clip-path: polygon(
-    20% 100%, 
-    calc(20% + var(--padding2)) calc(100% - var(--padding2)), 
-    calc(95% - var(--padding2)) calc(100% - var(--padding2)), 
-    calc(95% - var(--padding2)) calc(75% - var(--padding2)), 
-    100% calc(75% - var(--padding2)), 
-    100% calc(100% - var(--padding2)),
-    100% 100%
-  );
-  background: linear-gradient(120deg,var(--color-black) 80%, var(--color-red) 80%);
-}
-
-.saltopagina.odd:before {
-  right: 0px;
-  left: auto;
-  transform: scaleX(-1);
-}*/
 
 @media screen {
   .saltopagina:after, .saltopagina:before {
@@ -475,4 +414,31 @@ body {
   .saltopagina {
     display: block;
   }
+}
+
+p:has(a.musical) {
+  position: relative;
+  transform: rotate(2deg);
+}
+
+a.musical {
+  font-size: 0px;
+  background-color:  var(--color-red);
+  border-radius: 30px;
+  display: block;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  right: -45px;
+  text-align: center;
+  text-decoration: none;
+}
+
+a.musical:before {
+  content: "♪";
+  font-family: "Dracutaz";
+  color: white;
+  font-size: 50px;
+  color: var(--color-white);
 }
