@@ -31,12 +31,12 @@ Mientras Djinn recibe los aplausos y los vítores, a tus jugadoras les toca reco
 
 |1d6|Tarea|
 |---|---
-|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadaveres.|
-|2|**Guantes de latex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
+|1|**Pala:** Los minions eran personas que al meterlas en la freidora, se convirtieron en croquetas, empanadillas y alitas. Sus restos son una mezcla de órganos y tripas humanas y masa de croquetas y empanadillas. Es realmente asqueroso y hay kilos y kilos de minions esparcidos por la zona que meter en bolsas de cadáveres.|
+|2|**Guantes de látex:** Deberán buscar identificaciones u otros objetos personales entre los restos para poder identificar a los minions muertos.|
 |3|**Manguera:** Los megamonstruos explotan en purpurina y hay que limpiarla con manguera de agua porque es bastante tóxica. El problema es que seguramente vas a pasarte días sacándote purpurina del culo.|
 |4|**Puntales y refuerzos:** Es el más cansado de los curros. Hay que apuntalar y reforzar los edificios afectados por la lucha. El problema es que algunos edificios pueden caerse te encima. Se espera que uses tus poderes para hacer este curro.|
 |5|**Tableta:** Debes recoger las denuncias, quejas los daños a la propiedad de los vecinos de la zona para que megacorporación que patrocina a Djinn lo trate con los seguros. La gente es horrible y aquí lo descubres.|
-|6|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus llamitas para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfies, ...|
+|6|**Relaciones públicas:** A veces, las pocas, Djinn escoge a una de sus «Llamitas» para que esté con ella mientras firma autógrafos y se hace fotos con sus fans. Es una capulla y debes esperar cualquier tipo de humillación, como usarte para lucir sus poderes de fuego, cambiarte de nombre y decir que no os distingue porque sois todas iguales, quitarte de las selfies, …|
 
 
 Cuando terminen sus tareas irán a por sus créditos por su curro a la furgoneta de la corporación y les dirá que él no tiene nada, que llamen a las oficinas centrales. Al llamar no les cogerán, saldrá una locución de que no están abiertos o les darán largas.
@@ -52,7 +52,7 @@ Si todo lo anterior no las tiene mosqueada, puedes hacerles alguna putada labora
 
 Cuando veas a tus chicas mágicas hartas de currar mucho y no cobrar, estarán preparadas para recibir la visita de la hada de la sindicación.
 
-Cuando estén juntas quejándose de sus suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
+Cuando estén juntas quejándose de su suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio/tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
 
 XXX
 
@@ -67,7 +67,7 @@ Lo suyo es que hagan un listado de las 10 mejoras que quieren. Cada jugadora pod
 
 Cómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios. Si se hace viral, mucho mejor.
 
-Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche contra un megamonstruo y las cámaras estén atentas.
+Pueden hacer lo que quieran, pero lo suyo es que lo hagan cuando Djinn luche contra un megamonstruo y las cámaras estén atentas. También e importante que e inventen un lema pegadizo que la gente pueda recordar rápido.
 
 > Si la declaración es excepcionalmente buena, puedes hacer que el reloj de la huelga (explicado en el siguiente apartado) tenga un sector ya rellenado.
 
