@@ -1,11 +1,11 @@
 :root {
   --padding: 95px; /*Ancho de los bordes de la página*/
   --padding2: 75px; /*Ancho de los bordes de la página*/
-  --color-red: #ef810e;
-  --color-white: #e5de44;
+  --color-red: #61207c;
+  --color-white: #5aa31f;
   --color-black: #1c375c;
   --color-grey: #dedede;
-  --color-dark-grey: #949494;
+  --color-dark-grey: #e64747;
 }
 
 @font-face {
@@ -42,7 +42,7 @@ body {
   padding: 0;
   font-family: 'Open Sans';
   color: var(--color-black);
-  font-size: 17px;
+  font-size: 18px;
   overflow-x: hidden;
 }
 
@@ -191,18 +191,19 @@ h4 {
 }
 
 h2 {
-  font-size: 2.2em;
+  font-size: 2.8em;
   color: var(--color-red);
   text-shadow: -2px 0px 1px var(--color-black), 0px 2px 1px var(--color-black), 2px 0px 1px var(--color-black), 0px -2px 1px var(--color-black);
   font-style: italic;
-  /*letter-spacing: -4px;*/
+  letter-spacing: 2px;
   position: relative;
   margin-bottom: 20px;
 }
 
 h3 {
-  font-size: 1.3em;
+  font-size: 1.8em;
   text-shadow: 2px 0px 2px var(--color-black), 0px 2px 2px var(--color-black), -2px 0px 2px var(--color-black), 0px -2px 2px var(--color-black);
+  letter-spacing: 2px;
 }
 
 h4 {
@@ -266,7 +267,7 @@ table thead tr th {
   text-align: left;
   font-weight: 700;
   background-color: var(--color-black);
-  font-size: 0.8em;
+  font-size: 1.8em;
   color: var(--color-white);
   font-family: "Dracutaz";
   padding: 6px 3px 0px 3px;
@@ -274,6 +275,7 @@ table thead tr th {
 
 table tbody tr:nth-child(even) {
   background-color: var(--color-red);
+  color: var(--color-grey);
 }
 
 img {
@@ -301,38 +303,6 @@ img[alt^='Pergeñado'] {
   margin: 0px auto;
   display: block;
   background: transparent !important;
-}
-
-table.special {
-  border-collapse: collapse;
-  font-family: "Dracutaz";
-  border-top: 6px double var(--color-red);
-  border-bottom: 6px double var(--color-red);
-  margin: 0px;
-}
-
-table.special th {
-  font-family: "Dracutaz";
-  font-size: 1.8em;
-  color: var(--color-red);
-  text-align: left;
-  padding: 14px 10px;
-}
-
-table.special span {
-  font-family: "Dracutaz";
-  font-size: 1.35em;
-  color: var(--color-red);
-  font-weight: bold;
-}
-
-table.special td {
-  font-size: 1.3em;
-  padding: 15px 10px;
-}
-
-table.special th[colspan="4"] {
-  text-align: center;
 }
 
 div:has(table.special) {
@@ -416,30 +386,31 @@ body {
 }
 
 .saltopagina:after {
-  --size: 17px;
+  --size: 32px;
   font-family: "Dracutaz";
   display: flex;
   justify-content: center;
   align-items: center;
   content: counters(primary, "-", style);
   position: absolute;
-  bottom: 5px;
-  right: -50px;
+  bottom: 0px;
+  right: calc(var(--padding) * -1);
   width: var(--size);
   height: var(--size);
   z-index: 20;
   opacity: 1;
-  font-size: calc(var(--size) * 0.8px);
-  padding: 7px 5px 3px;
+  font-size: calc(var(--size) * 1.8);
+  padding: 17px 5px 3px;
   color: var(--color-black);
-  background-color: var(--color-red);
-  /*border: 1px solid var(--color-black);
+  /*background-color: var(--color-red);
+  overflow: hidden;
+  border: 1px solid var(--color-black);
   border-radius: 50%;*/
 }
 
 .saltopagina.odd:after {
   right: auto;
-  left: -50px;
+  left: calc(var(--padding) * -1);
 }
 
 /*.saltopagina:before {
