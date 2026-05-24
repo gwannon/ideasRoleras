@@ -20,6 +20,14 @@
   box-sizing: border-box;
 }
 
+body#MegamonstruoBW {
+  --color-red: #000;
+  --color-white: #fff;
+  --color-black: #000000;
+  --color-grey: #dedede;
+  --color-dark-grey: #d1d1d1;
+}
+
 body {
   background-color: var(--color-white);
   margin: 0;
@@ -29,6 +37,7 @@ body {
   font-size: 20px;
   overflow-x: hidden;
 }
+
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -202,6 +211,10 @@ ul li:before {
   display: block;
   background: transparent url(../images/anarquia.png) center center no-repeat;
   background-size: cover;
+}
+
+body#MegamonstruoBW ul li:before {
+  background-image: url(../images/anarquiaBW.png);
 }
 
 ol {

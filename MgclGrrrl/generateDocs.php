@@ -14,6 +14,11 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
+$md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
+  $matches[0] = file_get_contents(__DIR__ . "/".$matches[1].".md"); 
+  return $matches[0];
+}, $md);
+
 file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;\n", "\n\n\n"], "\n", $md));
 
 $mkd->setContent($md);
@@ -49,7 +54,7 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-if($argv[1] == 'Megamonstruo') {
+if($argv[1] == 'Megamonstruo' && $argv[1] == 'MegamonstruoBW') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: Megamonstruo, un aventura para MgclGrrrl - Ver. 1.0\n\n";
   $metas .= "InfoKey: Subject\n";
