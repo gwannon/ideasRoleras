@@ -16,22 +16,6 @@
   src: url("./Dracutaz.otf") format("opentype");
 }
 
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url("./OpenSans-Regular.ttf") format('truetype');
-}
-
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url("./OpenSans-Bold.ttf") format('truetype');
-}
-
 * {
   box-sizing: border-box;
 }
@@ -40,7 +24,7 @@ body {
   background-color: var(--color-white);
   margin: 0;
   padding: 0;
-  font-family: 'Open Sans';
+  font-family: "Syne Mono", monospace;
   color: var(--color-black);
   font-size: 20px;
   overflow-x: hidden;
@@ -80,8 +64,8 @@ blockquote {
   padding: 0px;
   margin: 10px 0px;
   color: black;
-  font-family: "Dracutaz";
-  font-size: 1.2em;
+  font-family: "Special Elite", system-ui;
+  font-size: 1em;
   line-height: 130%;
 }
 
@@ -104,6 +88,10 @@ pre * {
   font-weight: 700;
   font-size: 1em;
   font-style: italic;
+}
+b, strong {
+  font-family: "Special Elite", system-ui;
+  font-weight: 900;
 }
 
 /* Titulares */
@@ -153,8 +141,7 @@ h1 > a {
 }
 
 h2,
-h3,
-h4 {
+h3 {
   font-family: "Dracutaz";
   font-weight: 400;
   font-style: normal;
@@ -176,19 +163,12 @@ h2 {
 
 h3 {
   font-size: 1.8em;
-  text-shadow: 2px 0px 2px var(--color-black), 0px 2px 2px var(--color-black), -2px 0px 2px var(--color-black), 0px -2px 2px var(--color-black);
-  letter-spacing: 2px;
-}
-
-h4 {
-  font-size: 1em;
-  color: var(--color-black);
-  font-weight: 700;
+  font-family: "UnifrakturMaguntia", cursive;
+  letter-spacing: 0px;
 }
 
 h2 + p, 
-h3 + p,
-h4 + p {
+h3 + p {
   margin-top: 0px;
 }
 
