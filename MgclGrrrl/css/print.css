@@ -137,6 +137,11 @@ h1 {
   }
 }
 
+body#MegamonstruoBW h1 {
+  background: #fff;
+  color: #fff;
+}
+
 h1 > strong {
   display: block;
   text-align: center;
@@ -149,6 +154,8 @@ h1 > strong {
   font-style: normal;
   margin-top: -20px;
 }
+
+
 
 h2,
 h3 {
