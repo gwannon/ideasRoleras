@@ -436,3 +436,4 @@
 {"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa hada de la sindicación le explicará que si quieren conseguir que les paguen y que no las exploten deben sindicarse y montarle una huelga a GoreTech.\\E$"}
 {"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa visita de la hada de la sindicación\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlfanje brilli-brilli d10 daños\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcosas como:\\E$"}
