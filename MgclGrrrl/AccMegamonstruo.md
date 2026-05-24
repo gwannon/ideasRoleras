@@ -213,22 +213,21 @@ La hada de la sindicación es una especie de Super Mario Bros (pequeño, regorde
 
 ### Rompehuelgas de la megacorporación, lacayos
 
-Lo mismo que los dioses del anticapitalismo tienen a la hada de la sindicación para comunicarse con las personas, los dioses capitalistas tienen a lo rompehuelgas, unas entidades que se dedican a contrarrestar las acciones de la hada de la sindicación.
+Lo mismo que los dioses del anticapitalismo tienen a la hada de la sindicación para comunicarse con las personas, **los dioses capitalistas tienen a lo rompehuelgas**, unas entidades que se dedican a contrarrestar las acciones de la hada de la sindicación.
 
-No pueden interferir directamente, pero sí pueden tentar y seducir a las huelguistas menos convencidas para romper las huelgas. Quizas ofrezcan beneficios laborales a sus objetivos, o le amenacen con que no encontrarán nunca trabajo en la ciudad si siguen así, … Vamos las técnicas normales que usan los jefes cabrones en nuestro mundo.
+Cuando se monta una huelga son invocados y aparecen como abogados, negociadores o expertos contratados por la empresa. No pueden interferir directamente, pero sí pueden tentar y seducir a las huelguistas menos convencidas para romper las huelgas. Quizas ofrezcan beneficios laborales a sus objetivos, o le amenacen con que no encontrarán nunca trabajo en la ciudad si siguen así, … Vamos las técnicas normales que usan los jefes cabrones en nuestro mundo.
 
 Primero vigilarán a las huelguistas, buscarán un objetivo accesible y ejercerán presión sobre ella para romper la huelga.
 
 Tienen varías formas, pero nada imaginativas, así que han copiado a seres de los libros y las películas que hacen la cosas que ellos hacen, tentar, robar la alegría y las ganas de vivir, borrar memorias, … Por ejemplo, aparecen como los hombres grises de Momo, los Extraños de Dark City, los Observadores de Fringe, el Equipo de Ajustes de Destino Oculto, …
 
-* XXX
-* **XXX** vidas
-* Moral **XXX**
-* **XXX d6** daños
-
 > No pueden empezar una pelea, eso sería romper los acuerdos de los dioses, pero si pueden defenderse y, si necesitan deshacerse de una chica mágica, podrían hacer que ella les ataque primero, eso les dejaría abierta la puerta a exterminarla.
 
 
+* **Poder:** Puede hacerle 3 preguntas a la jugadora (que no a su PJ) y está debe responder con la verdad. Son preguntas sobre sus deseos, temores, anhelos, sueños, … cosas como: ¿Cuál tu mayor sueño? ¿Qué es lo que más temes? ¿A quién amas/deseas? ¿Qué buscas en la vida?
+* **25** vidas
+* Moral **7**
+* **Verdades hirientes d8** daños
 ### Esquirolas de GoreTech, minions
 
 Djinn ha escarbado del fondo del barril de las chicas mágicas y ha sacado a este grupo de esquirolas. Les ha prometido la fama y la fortuna que da ser unas de sus «Llamitas». Según les ha contado, tus jugadoras son unas vagas y unas incompetentes que no se merecen ese trabajo, pero no puede echarlas por no sé que ley comunista que lo impide.

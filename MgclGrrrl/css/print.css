@@ -265,7 +265,7 @@ a.pdf {
   position: fixed;
   bottom: 0px;
   right: 0px;
-  color: var(--color-black);
+  color: var(--color-white);
   background-color: var(--color-red);
   display: block;
   padding: 10px;
@@ -425,7 +425,7 @@ a.musical {
   width: 60px;
   height: 60px;
   position: absolute;
-  top: 30px;
+  top: 20%;
   right: -45px;
   text-align: center;
   text-decoration: none;
