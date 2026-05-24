@@ -150,13 +150,13 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 |—1|**Sacar trapos sucios de tus jugadoras.** Las huelguistas no son santa y han hecho cosas chungas para sobrevivir. GoreTech ha pagado a una agencia de detectives para que encuentre los trapos sucios y los ha sacado. Tus chicas podrían intentar hacer cositas para contrarrestar la mala prensa.|
 |—3|Los **rompehuelgas** consiguen que **una de las chicas se venda a la empresa**. Los rompehuelgas pueden ofrecer de todo para seducir a sus víctimas. Si controlan alguna chica mágica, no podrán rellenar sectores hasta que solucionen el problema. La vendida avisará de sus planes y GoreTech esté enterada.|
 
-\sp
-
 ## Djinn no quiere firmar el nuevo convenio
 
 Una vez ganada la huelga, **GoreTech llamará aceptando u derrota**. Su imagen pública está muy afectada y sus acciones han bajado, así que aceptan las condiciones de las huelguistas. Como acto final de la huelga **hay que firmar el nuevo convenio** con las reivindicaciones que se hicieron al principio.
 
 El problema es que **Djinn no quiere firmarlo**. Con las nuevas reglas las «Llamitas» estarían casi a su nivel y eso no puede consentirlo. Ella es mucho mejor que las jugadoras.
+
+\sp
 
 Se presentará con sus nuevas «Llamitas» (un grupo de esquirolas) en la firma del convenio y se montará una buena trifulca de Chica Mágicas.
 
@@ -168,8 +168,6 @@ Tu jugadora se convertirá en un avatar del sindicalismo y será el **enlace sin
 
 Podrá invocar, el **sagrado estatuto de las chicas mágicas** y lanzar un megarrayo que derrotará a Djinn y sus «Llamitas».
 
-\sp
-
 De lo que quede de Djinn, si rebuscan, encontrarán su móvil con las valoraciones laborales de tus jugadoras que había hecho Djinn.
 
 Eran malísimas y en su mayoría mentira (tus jugadoras no eran santas y alguna trampa ya había hecho). También encontrarán mensajes pidiendo como gran accionista de GoreTech que se hicieran despidos masivos para maximizar los beneficios anuales.
@@ -177,6 +175,8 @@ Eran malísimas y en su mayoría mentira (tus jugadoras no eran santas y alguna 
 ---
 
 Y mientras todo se va a fundido en negro y tus chicas mágicas disfrutan de sus locas reivindicaciones, como una marmita gigante de fideos instantáneos. Se irá a fundido y se acabará su aventura sindical. [MOMENTO MUSICAL: Live Joe Hisaishi in Budokan, Studio Ghibli 25 Years Concert 1080p HD | https://youtu.be/eKC3_9gRrOI&t=5678s](https://youtu.be/eKC3_9gRrOI&t=5678s)
+
+\sp
 
 ### El poder de la sindicación
 
