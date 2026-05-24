@@ -145,6 +145,10 @@ De lo que quede de Djinn, si rebuscan, encontrarán su móvil con las valoracion
 
 Eran malísimas y en su mayoría mentira (tus jugadoras no eran santas y alguna trampa ya había hecho). También encontrarán mensajes pidiendo como gran accionista de GoreTech que se hicieran despidos masivos para maximizar los beneficios anuales.
 
+---
+
+Y mientras todo se va a fundido en negro y tus chicaas mágicas disfrutan de sus locas reivindicaciones, como una marmita gigante de fideos instantaneos. Se irá a fundido y se acabará su aventura sindical. [MOMENTO MUSICAL: Live Joe Hisaishi in Budokan, Studio Ghibli 25 Years Concert 1080p HD | https://youtu.be/eKC3_9gRrOI&t=5678s](https://youtu.be/eKC3_9gRrOI&t=5678s)
+
 ### El poder de la sindicación
 
 Estar sindicadas y saber que las huelgas funcionan os otorgan un nuevo poder. XXX
