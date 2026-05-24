@@ -1,4 +1,4 @@
-# Megamonstruo
+# Megamonstruo **un aventura para MgclGrrrl**
 
 
 [![Compatible con MgclGrrrl](./images/compatible_con.png "Compatible con MgclGrrrl")](https://lowdensitydotted.itch.io/mgclgrrrl "Compatible con MgclGrrrl")

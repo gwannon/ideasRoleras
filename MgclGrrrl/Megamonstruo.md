@@ -1,4 +1,4 @@
-# Megamonstruo
+# Megamonstruo **un aventura para MgclGrrrl**
 
 \sp
 
