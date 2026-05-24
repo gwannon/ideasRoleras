@@ -80,7 +80,7 @@ Al final deberían ser una mezcla de **reivindicaciones lógicas** como mejores 
 
 Seguramente alguna de las peticiones te servirá como semilla para futuras aventuras, así que déjales un cierto margen de locura. Quién dice que no pierden al unicornio mágico en una de sus visitas y deban recuperarlo.
 
-> Una vez por todaa la aventura, cuando tengan que resistir las tentaciones de los rompehuelgas (o similar), podrán invocar una de las reivindicaciones y conseguir un -4 a la dificultad. Tendrán que gritar cosas como «¡Por los Voyitos™ de canela!» o «¡Todo sea por conseguir purpurina eco-friendly!».
+> Una vez por toda la aventura, cuando tengan que resistir las tentaciones de los rompehuelgas (o similar), podrán invocar una de las reivindicaciones y conseguir un -4 a la dificultad. Tendrán que gritar cosas como «¡Por los Voyitos™ de canela!» o «¡Todo sea por conseguir purpurina eco-friendly!».
 
 ## Declararse en huelga
 
@@ -139,16 +139,16 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 
 |Sectores|Acción que perjudica|
 |---|---|
-|-2|**GoreTech ha contratado esquirolas** que hacen el trabajo de tus jugadoras. Tendrán que derrotarlas antes de que hagan su trabajo o convencerlas de que se unan a la huelga. Sí la convencen de sindicarse obtienen +1.|
-|-1|GoreTech pone un **foodtruck con las comidas preferidas de las huelguistas** en la entrada de sus oficinas. Son gratis para los empleados de GoreTech que no estén en huelga. Si las chicas están cerca del final y no han comido en días puede dar un -2. Habrá que robar el foodtruck y quedarse con toda la comida.|
-|-1|**Apoyarse en otros grupos** que están contra GoreTech. Quizas hay una protectora que lucha contra la megacorporación por querer echarles de su refugio o un grupo de jubiladas al que quieren derribar su centro social.|
+|—2|**GoreTech ha contratado esquirolas** que hacen el trabajo de tus jugadoras. Tendrán que derrotarlas antes de que hagan su trabajo o convencerlas de que se unan a la huelga. Sí la convencen de sindicarse obtienen +1.|
+|—1|GoreTech pone un **foodtruck con las comidas preferidas de las huelguistas** en la entrada de sus oficinas. Son gratis para los empleados de GoreTech que no estén en huelga. Si las chicas están cerca del final y no han comido en días puede dar un -2. Habrá que robar el foodtruck y quedarse con toda la comida.|
+|—1|**Apoyarse en otros grupos** que están contra GoreTech. Quizas hay una protectora que lucha contra la megacorporación por querer echarles de su refugio o un grupo de jubiladas al que quieren derribar su centro social.|
 
 \sp
 
 |Sectores|Acción que perjudica|
 |---|---|
-|-1|**Sacar trapos sucios de tus jugadoras.** Las huelguistas no son santa y han hecho cosas chungas para sobrevivir. GoreTech ha pagado a una agencia de detectives para que encuentre los trapos sucios y los ha sacado. Tus chicas podrían intentar hacer cositas para contrarrestar la mala prensa.|
-|-3|Los **rompehuelgas** consiguen que **una de las chicas se venda a la empresa**. Los rompehuelgas pueden ofrecer de todo para seducir a sus víctimas. Si controlan alguna chica mágica, no podrán rellenar sectores hasta que solucionen el problema. La vendida avisará de sus planes y GoreTech esté enterada.|
+|—1|**Sacar trapos sucios de tus jugadoras.** Las huelguistas no son santa y han hecho cosas chungas para sobrevivir. GoreTech ha pagado a una agencia de detectives para que encuentre los trapos sucios y los ha sacado. Tus chicas podrían intentar hacer cositas para contrarrestar la mala prensa.|
+|—3|Los **rompehuelgas** consiguen que **una de las chicas se venda a la empresa**. Los rompehuelgas pueden ofrecer de todo para seducir a sus víctimas. Si controlan alguna chica mágica, no podrán rellenar sectores hasta que solucionen el problema. La vendida avisará de sus planes y GoreTech esté enterada.|
 
 \sp
 
@@ -180,33 +180,35 @@ Y mientras todo se va a fundido en negro y tus chicas mágicas disfrutan de sus 
 
 ### El poder de la sindicación
 
-Estar sindicadas y saber que las huelgas funcionan os otorgan un nuevo poder. XXX
+Estar sindicadas y saber que las huelgas funcionan os otorgan un nuevo poder. Siempre que estéis juntas y os apoyéis, tendréis un **+1 a Presencia** para evitar tentaciones, que os intimiden o que os chantajeen, …
 
-Cuantas más chicas mágicas se apunten al sindicato mayor será el poder.
+Cuantas más chicas mágicas se apunten al sindicato mayor será el poder, así que si en algún momento **se juntasen muchas más chicas mágicas** podrían tener un **+2, +3, …**
 
 \sp
 
 ## Personajes
 
-### Djinn de fuego, villana
+### Djinn de fuego, poser villana
 
-Verónica, más conocida como **Djinn de fuego, es una villana** de tomo y lomo. Aunque se dedica a defender Micha de los megamonstruos, en el fondo es una malísima persona, envidiosa, egoísta y se cree mejor que el resto de chicas mágicas a las que desprecia. Con los años y con sus poderes fue amasando una fortuna que le permitió comprar muchas acciones de GoreTech y hacerles apadrinarla públicamente.
+Verónica, más conocida como **Djinn de fuego, es una villana** de tomo y lomo. Lleva ropajes sacados de las Mil y una noches, turbantes, velos, pantalones holgados, babuchas, …
+
+Aunque se dedica a defender Micha de los megamonstruos, en el fondo es una malísima persona, envidiosa, egoísta y se cree mejor que el resto de chicas mágicas a las que desprecia. Con los años y con sus poderes fue amasando una fortuna que le permitió comprar muchas acciones de GoreTech y hacerles apadrinarla públicamente.
 
 Cuando desde GoreTech le propusieron tener su grupo de ayudantes, las «Llamitas», su ego creció pensando en un grupo de mini-djinns haciéndole la pelota y adulándola todo el tiempo. Pero se la llevaron los demonios cuando les trajeron a las pringadas de las jugadoras.
 
-* Agilidad XXX Conocimiento XXX Presencia XXX Fuerza XXX Resistencia XXX
-* Poder: XXX
-* XXX vidas
-* Polvo XXX
-* Armadura XXX dXXX
-* Dropea XXX ¥ / XXX ¤ en efectivo.
-* XXX dXXX daños
+* **Agilidad** 2 **Conocimiento** 1 **Presencia** 3 **Fuerza** 2 **Resistencia** 2 (Desmorfeada Agilidad 1 Conocimiento 0 Presencia 2 Fuerza 0 Resistencia 0)
+* **Poder:** Fuego del alma, la fuerza de su alma se convierte en fuego que consume a sus enemigos (Presencia x 1d4 daños). Deseo, conceder un deseo menor al día a un fan, si quiere algo para ella, debe engañar al fan para que pida algo para ella.
+* **18 vidas**
+* **Polvo 4**
+* Armadura tier **2**
+* Dropea **2d8k ¥** / **2d8x10 ¤** en efectivo.
+* Alfanje brilli-brilli **d10 daños**
+
+\sp
 
 ### Croquetas, empanadillas y alitas de pollo humanoides, minions
 
 Megatigrefreidora crea a sus minions cogiendo personas y metiéndolas en la bandeja de la freidora de aire que es su tripa. 
-
-\sp
 
 Pone unos 5 minutos a 195° y salen los híbridos de humano y croqueta, empanadilla o alita de pollo. Lo preocupante es que huelen deliciosamente bien.
 
@@ -223,23 +225,26 @@ La hada de la sindicación es una especie de Super Mario Bros (pequeño, regorde
 
 > El pacto de no agresión de los dioses del capitalismo y el anticapitalismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.
 
-### Rompehuelgas de la megacorporación, minions
+\sp
+
+### Rompehuelgas de la megacorporación, lacayos
 
 Lo mismo que los dioses del anticapitalismo tienen a la hada de la sindicación para comunicarse con las personas, los dioses capitalistas tienen a lo rompehuelgas, unas entidades que se dedican a contrarrestar las acciones de la hada de la sindicación.
-
-\sp
 
 No pueden interferir directamente, pero sí pueden tentar y seducir a las huelguistas menos convencidas para romper las huelgas. Quizas ofrezcan beneficios laborales a sus objetivos, o le amenacen con que no encontrarán nunca trabajo en la ciudad si siguen así, … Vamos las técnicas normales que usan los jefes cabrones en nuestro mundo.
 
 Primero vigilarán a las huelguistas, buscarán un objetivo accesible y ejercerán presión sobre ella para romper la huelga.
 
-* XXX vidas
-* Moral XXX
-* Armadura dXXX
-* XXX dXXX daños
-* Daño de XXX: XXX
+Tienen varías formas, pero nada imaginativas, así que han copiado a seres de los libros y las películas que hacen la cosas que ellos hacen, tentar, robar la alegría y las ganas de vivir, borrar memorias, … Por ejemplo, aparecen como los hombres grises de Momo, los Extraños de Dark City, los Observadores de Fringe, el Equipo de Ajustes de Destino Oculto, …
+
+* XXX
+* **XXX** vidas
+* Moral **XXX**
+* **XXX d6** daños
 
 > No pueden empezar una pelea, eso sería romper los acuerdos de los dioses, pero si pueden defenderse y, si necesitan deshacerse de una chica mágica, podrían hacer que ella les ataque primero, eso les dejaría abierta la puerta a exterminarla.
+
+\sp
 
 ### Esquirolas de GoreTech, minions
 
@@ -249,8 +254,6 @@ Djinn ha escarbado del fondo del barril de las chicas mágicas y ha sacado a est
 * Moral **17**
 * Armadura **3**
 * **Especial&ast; d10** daño
-
-\sp
 
 _&ast; Son chicas mágicas y como tal tienen armas cuquis. Tira en las tablas de arma cuquis (pág. 23)_
 

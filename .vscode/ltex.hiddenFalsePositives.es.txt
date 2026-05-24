@@ -415,3 +415,24 @@
 {"rule":"FORM","sentence":"^\\QCómo les ha dicho la hada de la sindicación deben declararse en huelga y deben hacerlo de forma impactante y que se vea en medios.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEric Burdon - Sixteen Tons - Joe Versus the Volcano Theme | https://youtu.be/E6m1qgnUw74\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLick The Tins - Can’t Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLive Joe Hisaishi in Budokan, Studio Ghibli 25 Years Concert 1080p HD | https://youtu.be/eKC3_9gRrOI&t=5678s\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAl final deberían ser una mezcla de reivindicaciones lógicas como mejores horarios y sueldo y locuras como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTendrán que gritar cosas como «¡Por los Voyitos™ de canela!» o «¡Todo sea por conseguir purpurina eco-friendly!».\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QTendrán que gritar cosas como «¡Por los Voyitos™ de canela!» o «¡Todo sea por conseguir purpurina eco-friendly!».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q18 vidas\nPolvo 4\nArmadura tier 2\nDropea 2d8k ¥ / 2d8x10 ¤ en efectivo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAgilidad 2 Conocimiento 1 Presencia 3 Fuerza 2 Resistencia 2 (Desmorfeada Agilidad 1 Conocimiento 0 Presencia 2 Fuerza 0 Resistencia 0)\nPoder:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa hada de la sindicación\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta.\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QLa hada de la sindicación es una especie de Super Mario Bros (pequeño, regordete, con bigotazo y ropas de currela rojas) con alitas de hada y una varita mágica con una hoz y un martillo en la punta.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QEl pacto de no agresión de los dioses del capitalismo y el anticapitalismo no permiten que sus agentes interfieran con sus poderes en nuestro mundo, pero eso no quiere decir que la hada de la sindicación aparezca cuando te interese y de alguna pista u ofrezca consejo a tus jugadoras.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLo mismo que los dioses del anticapitalismo tienen a la hada de la sindicación para comunicarse con las personas, los dioses capitalistas tienen a lo rompehuelgas, unas entidades que se dedican a contrarrestar las acciones de la hada de la sindicación.\\E$"}
+{"rule":"FORM","sentence":"^\\QTienen varías formas, pero nada imaginativas, así que han copiado a seres de los libros y las películas que hacen la cosas que ellos hacen, tentar, robar la alegría y las ganas de vivir, borrar memorias, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPor ejemplo, aparecen como los hombres grises de Momo, los Extraños de Dark City, los Observadores de Fringe, el Equipo de Ajustes de Destino Oculto, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPodrá invocar, el sagrado estatuto de las chicas mágicas y lanzar un megarrayo que derrotará a Djinn y sus «Llamitas».\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QEsa será la elegida por la hada de la sindicación para ser elegida como avatar.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QCuando estén a punto de ganar el combate o estén muy cerca de ser derrotadas, la hada aparecerá de la nada con un espectáculo cutre de luces y arco iris y tocará con su varita a una de tus chicas mágicas.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QLick The Tins - Can’t Help Falling in Love (Official Video) | https://youtu.be/7kORTAjFAWM\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa hada de la sindicación le explicará que si quieren conseguir que les paguen y que no las exploten deben sindicarse y montarle una huelga a GoreTech.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa visita de la hada de la sindicación\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlfanje brilli-brilli d10 daños\\E$"}

@@ -673,3 +673,7 @@ megamonstruos
 GoreTech
 MgclGrrrl
 burger
+foodtruck
+1d4
+djinns
+poser
