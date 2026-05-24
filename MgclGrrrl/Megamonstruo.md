@@ -68,15 +68,15 @@ Cuando veas a tus chicas mágicas hartas de currar mucho y no cobrar, estarán p
 
 Cuando estén juntas quejándose de su suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio/tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación. [MOMENTO MUSICAL: Basil Poledouris - Hymn to Red October | https://youtu.be/MRG1UixHvos](https://youtu.be/MRG1UixHvos)
 
-XXX
+La hada de la sindicación le explicará que si quieren conseguir que les paguen y que no las exploten **deben sindicarse y montarle una huelga a GoreTech**. Las dará unas nociones básicas y les recordará que si necesitan su conejo, que su horario de trabajo es de lunes a viernes de 9:00 a 15:00. Fuera de su horario laboral mejor que busquen un tutorial en internet sobre sindicalismo.
 
 ## Las reivindicaciones
 
 Lo suyo es que hagan un **listado de las 10 mejoras que quieren**. Cada jugadora podrá meter una mejora sin necesidad de votación y el resto hasta 10 tendrá que votarse para meterlo en la lista.
 
-Al final deberían ser una mezcla de **reivindicaciones lógicas** como mejores horarios y sueldo y **locuras** como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
-
 \sp
+
+Al final deberían ser una mezcla de **reivindicaciones lógicas** como mejores horarios y sueldo y **locuras** como pistolas de purpurina, suministro gratis de Voyitos™ de canela, megalazos de combate electrificados o una vez a la semana poder dar de comer y achuchar el unicornio mágico del CEO de la megacorporación.
 
 Seguramente alguna de las peticiones te servirá como semilla para futuras aventuras, así que déjales un cierto margen de locura. Quién dice que no pierden al unicornio mágico en una de sus visitas y deban recuperarlo.
 
@@ -100,7 +100,7 @@ La huelga es un reloj con 10 partes. Si consiguen rellenar los 10 sectores habr�
 
 > El reloj es secreto y solo lo conoce la directora, pero tus jugadoras pueden hacer una tirada de Presencia/Conocimiento para tener una idea muy general. Para saber exactamente cuántos sectores están rellenos deberán hacer alguna acción de espionaje en GoreTech o algún tipo de estudio en las redes o encuesta.
 
-Cada **3 días suele atacar un megamonstruo** y cada ataque que hagan su trabajo de reconstrucción rellenan un sector.
+Cada **3 días suele atacar un megamonstruo** y cada ataque en que no hagan su trabajo de reconstrucción, rellenan un sector.
 
 Pueden forzar la situación y conseguir más sectores por ataque, por ejemplo, haciendo que secretamente el megamonstruo se acerque a un edificio de la megacorporación y produzca daños en él.
 
@@ -122,25 +122,43 @@ En cualquiera de estos casos la empresa ha acabado con vuestra moral y volvéis 
 
 ### Acciones que ayudan a la huelga
 
-|Puntos|Acción|
+|Sectores|Acción que ayuda|
 |---|---|
-|1|XXX|
+|+1|Hacer que de alguna manera **el megamonstruo se acerque a un edificio de la GoreTech** y produzca daños en él. Quizas un megamonstruo mitad abeja, mitad aspiradora, se acerque al edificio de GoreTech donde ha aparecido una pintada gigante de una flor.|
+|+1|**Sabotear a Djinn** de alguna manera. Saben sus horarios, sus gustos, los sitios que visita, etc. Quizás vayan al tinte de Djinn y pinten alguna proclama huelguista en su capa.|
+|+1/+2|Montar algún tipo de **acto reivindicativo**, después de que Djinn acabé con el megamonstruo y se junte con sus fans.|
+
+\sp
+
+|Sectores|Acción que ayuda|
+|---|---|
+|+1|**Pintadas, panfletos, mensajes en el cielo,** dar un concierto radical, etc.|
+|+1|**Hablar con los medios** y contar vuestra historia. El problema es que no te puedes fiar porque los medios están comprados y los que pueden ayudarte son minoritarios.|
 
 ### Acciones que perjudican a la huelga
 
-|Puntos|Acción|
+|Sectores|Acción que perjudica|
 |---|---|
-|1|XXX|
+|-2|**GoreTech ha contratado esquirolas** que hacen el trabajo de tus jugadoras. Tendrán que derrotarlas antes de que hagan su trabajo o convencerlas de que se unan a la huelga. Sí la convencen de sindicarse obtienen +1.|
+|-1|GoreTech pone un **foodtruck con las comidas preferidas de las huelguistas** en la entrada de sus oficinas. Son gratis para los empleados de GoreTech que no estén en huelga. Si las chicas están cerca del final y no han comido en días puede dar un -2. Habrá que robar el foodtruck y quedarse con toda la comida.|
+|-1|**Apoyarse en otros grupos** que están contra GoreTech. Quizas hay una protectora que lucha contra la megacorporación por querer echarles de su refugio o un grupo de jubiladas al que quieren derribar su centro social.|
+
+\sp
+
+|Sectores|Acción que perjudica|
+|---|---|
+|-1|**Sacar trapos sucios de tus jugadoras.** Las huelguistas no son santa y han hecho cosas chungas para sobrevivir. GoreTech ha pagado a una agencia de detectives para que encuentre los trapos sucios y los ha sacado. Tus chicas podrían intentar hacer cositas para contrarrestar la mala prensa.|
+|-3|Los **rompehuelgas** consiguen que **una de las chicas se venda a la empresa**. Los rompehuelgas pueden ofrecer de todo para seducir a sus víctimas. Si controlan alguna chica mágica, no podrán rellenar sectores hasta que solucionen el problema. La vendida avisará de sus planes y GoreTech esté enterada.|
 
 \sp
 
 ## Djinn no quiere firmar el nuevo convenio
 
-Una vez ganada la huelga, hay que firmar el nuevo convenio con las reivindicaciones que se hicieron al principio.
+Una vez ganada la huelga, **GoreTech llamará aceptando u derrota**. Su imagen pública está muy afectada y sus acciones han bajado, así que aceptan las condiciones de las huelguistas. Como acto final de la huelga **hay que firmar el nuevo convenio** con las reivindicaciones que se hicieron al principio.
 
-El problema es que Djinn no quiere firmarlo. Con las nuevas reglas las «Llamitas» estarían a su nivel y eso no puede consentirlo. Ella es mucho mejor que las jugadoras.
+El problema es que **Djinn no quiere firmarlo**. Con las nuevas reglas las «Llamitas» estarían casi a su nivel y eso no puede consentirlo. Ella es mucho mejor que las jugadoras.
 
-Se presentará con sus nuevas «Llamitas» (un grupo de esquirolas) en la forma del convenio y se montará una buena trifulca de Chica Mágicas.
+Se presentará con sus nuevas «Llamitas» (un grupo de esquirolas) en la firma del convenio y se montará una buena trifulca de Chica Mágicas.
 
 Cuando estén a punto de ganar el combate o estén muy cerca de ser derrotadas, la hada aparecerá de la nada con un espectáculo cutre de luces y arco iris y tocará con su varita a una de tus chicas mágicas.
 
@@ -150,15 +168,15 @@ Tu jugadora se convertirá en un avatar del sindicalismo y será el **enlace sin
 
 Podrá invocar, el **sagrado estatuto de las chicas mágicas** y lanzar un megarrayo que derrotará a Djinn y sus «Llamitas».
 
-De lo que quede de Djinn, si rebuscan, encontrarán su móvil con las valoraciones laborales de tus jugadoras que había hecho Djinn.
-
 \sp
+
+De lo que quede de Djinn, si rebuscan, encontrarán su móvil con las valoraciones laborales de tus jugadoras que había hecho Djinn.
 
 Eran malísimas y en su mayoría mentira (tus jugadoras no eran santas y alguna trampa ya había hecho). También encontrarán mensajes pidiendo como gran accionista de GoreTech que se hicieran despidos masivos para maximizar los beneficios anuales.
 
 ---
 
-Y mientras todo se va a fundido en negro y tus chicaas mágicas disfrutan de sus locas reivindicaciones, como una marmita gigante de fideos instantaneos. Se irá a fundido y se acabará su aventura sindical. [MOMENTO MUSICAL: Live Joe Hisaishi in Budokan, Studio Ghibli 25 Years Concert 1080p HD | https://youtu.be/eKC3_9gRrOI&t=5678s](https://youtu.be/eKC3_9gRrOI&t=5678s)
+Y mientras todo se va a fundido en negro y tus chicas mágicas disfrutan de sus locas reivindicaciones, como una marmita gigante de fideos instantáneos. Se irá a fundido y se acabará su aventura sindical. [MOMENTO MUSICAL: Live Joe Hisaishi in Budokan, Studio Ghibli 25 Years Concert 1080p HD | https://youtu.be/eKC3_9gRrOI&t=5678s](https://youtu.be/eKC3_9gRrOI&t=5678s)
 
 ### El poder de la sindicación
 
@@ -172,7 +190,9 @@ Cuantas más chicas mágicas se apunten al sindicato mayor será el poder.
 
 ### Djinn de fuego, villana
 
-XXX
+Verónica, más conocida como **Djinn de fuego, es una villana** de tomo y lomo. Aunque se dedica a defender Micha de los megamonstruos, en el fondo es una malísima persona, envidiosa, egoísta y se cree mejor que el resto de chicas mágicas a las que desprecia. Con los años y con sus poderes fue amasando una fortuna que le permitió comprar muchas acciones de GoreTech y hacerles apadrinarla públicamente.
+
+Cuando desde GoreTech le propusieron tener su grupo de ayudantes, las «Llamitas», su ego creció pensando en un grupo de mini-djinns haciéndole la pelota y adulándola todo el tiempo. Pero se la llevaron los demonios cuando les trajeron a las pringadas de las jugadoras.
 
 * Agilidad XXX Conocimiento XXX Presencia XXX Fuerza XXX Resistencia XXX
 * Poder: XXX
@@ -184,14 +204,16 @@ XXX
 
 ### Croquetas, empanadillas y alitas de pollo humanoides, minions
 
-Megatigrefreidora crea a sus minions cogiendo personas y metiéndolas en la bandeja de la freidora de aire que es su tripa. Pone unos 5 minutos a 195° y salen los híbridos de humano y croqueta, empanadilla o alita de pollo. Lo preocupante es que huelen deliciosamente bien.
+Megatigrefreidora crea a sus minions cogiendo personas y metiéndolas en la bandeja de la freidora de aire que es su tripa. 
+
+\sp
+
+Pone unos 5 minutos a 195° y salen los híbridos de humano y croqueta, empanadilla o alita de pollo. Lo preocupante es que huelen deliciosamente bien.
 
 * **4** por bandeja
 * **3** vidas
 * Moral **3**
 * **Quemadura d3** daños
-
-\sp
 
 ### La hada de la sindicación
 
@@ -205,9 +227,9 @@ La hada de la sindicación es una especie de Super Mario Bros (pequeño, regorde
 
 Lo mismo que los dioses del anticapitalismo tienen a la hada de la sindicación para comunicarse con las personas, los dioses capitalistas tienen a lo rompehuelgas, unas entidades que se dedican a contrarrestar las acciones de la hada de la sindicación.
 
-No pueden interferir directamente, pero sí pueden tentar y seducir a las huelguistas menos convencidas para romper las huelgas. Quizas ofrezcan beneficios laborales a sus objetivos, o le amenacen con que no encontrarán nunca trabajo en la ciudad si siguen así, … Vamos las técnicas normales que usan los jefes cabrones en nuestro mundo.
-
 \sp
+
+No pueden interferir directamente, pero sí pueden tentar y seducir a las huelguistas menos convencidas para romper las huelgas. Quizas ofrezcan beneficios laborales a sus objetivos, o le amenacen con que no encontrarán nunca trabajo en la ciudad si siguen así, … Vamos las técnicas normales que usan los jefes cabrones en nuestro mundo.
 
 Primero vigilarán a las huelguistas, buscarán un objetivo accesible y ejercerán presión sobre ella para romper la huelga.
 
@@ -227,6 +249,8 @@ Djinn ha escarbado del fondo del barril de las chicas mágicas y ha sacado a est
 * Moral **17**
 * Armadura **3**
 * **Especial&ast; d10** daño
+
+\sp
 
 _&ast; Son chicas mágicas y como tal tienen armas cuquis. Tira en las tablas de arma cuquis (pág. 23)_
 
