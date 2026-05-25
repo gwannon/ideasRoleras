@@ -184,6 +184,10 @@ h3 {
   letter-spacing: 0px;
 }
 
+body#MegamonstruoBW h2 {
+  color: var(--color-white);
+}
+
 h2 + p, 
 h3 + p {
   margin-top: 0px;
