@@ -53,16 +53,24 @@ XXX
 
 Claudia quiere hacer una serie de actividades con los poderes de Magical Girl que posee ahora. Así que cada día durante 5 días puedes tirar al azar en la siguiente tabla o elegir el que más te guste.
 
+En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento de testeo y calidad de SimianTECH con actividades para testar sus nuevos poderes y si el sistema de robo de poderes funciona bien o falla en situaciones de estrés.
+
 |1d6|Actividad irritante|
 |---|---|
-|1|**XXX:** XXX|
-|2|**XXX:** XXX|
-|3|**XXX:** XXX|
-|4|**XXX:** XXX|
-|5|**XXX:** XXX|
-|6|**XXX:** XXX|
+|1|**Hacer una pose de conjunto:** XXX|
+|2|**Crear una superarma:** XXX|
+|3|**Tier nuevo:** XXX|
 
-En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento de testeo y calidad de SimianTECH con actividades para testar sus nuevos poderes y si el sistema de robo de poderes funciona bien o falla en situaciones de estrés.
+
+|1d6|Actividad irritante|
+|---|---|
+|4|**Patear culos de minions:** XXX|
+|5|**Día de SPA con tu coleguita:** El día de SPA es para Claudía y su coleguita, par el reto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH esta probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. En realidad el SPA es un laboratorio encubierto y las diferentes XXX son en realidad diferente prueba y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX|
+|6|**Enemies-to-lovers:** Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX|
+|7|**Metamorfoseador:** XXX|
+|8|**Doble robo:** Claudia quiere hacer una pijamada de chicas mágicas y hacer la cosas que ella cree que las chicas mágicas hacen en las pijamadas. XXX. La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que lo echen de menos. XXX|
+
+Tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
 
 ## Esos tipos de negros se están llevando a Claudia
@@ -70,6 +78,10 @@ En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento
 XXX
 
 ## El rescate
+
+XXX
+
+### Buscando a Claudia
 
 XXX
 
