@@ -7,3 +7,12 @@ La cuestión es si tus jugadoras y futura Escuadra ICKi, podrán combatir y venc
 Los poderes de Chica ICKi se basan en que para ella la ciudad de Machi es un MMORPG chungo y nada original en el que está atrapada. Se conoce las rutinas de los malos y sus puntos débiles, resucita en los puntos de guardado y sabe explotar los múltiples _exploits_ del juego que los programadores mal pagados no han querido arreglar.
 
 |Licencia.md|
+
+---
+
+## Momentos musicales
+
+* [La muerte de Chica ICKi](https://youtu.be/eKC3_9gRrOI&t=990s)
+* [Vida diaria](https://youtu.be/eKC3_9gRrOI&t=1341s)
+* [Mañana será otro día](https://youtu.be/eKC3_9gRrOI&t=1455s9)
+* [Pequeños placeres de la vida](https://youtu.be/l0GN40EL1VU)

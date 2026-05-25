@@ -1,5 +1,0 @@
-* [Las chicas mágicas salen victoriosas y créditos finales](https://youtu.be/eKC3_9gRrOI&t=5678s)
-* [La muerte de Chica ICKi](https://youtu.be/eKC3_9gRrOI&t=990s)
-* [Vida diaria](https://youtu.be/eKC3_9gRrOI&t=1341s)
-* [Mañana será otro día](https://youtu.be/eKC3_9gRrOI&t=1455s9)
-* [Pequeños placeres de la vida](https://youtu.be/l0GN40EL1VU)
