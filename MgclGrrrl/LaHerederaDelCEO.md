@@ -29,6 +29,11 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 * Claudia, la hija del CEO, es una actriz que hace de su hija. En realidad, todo es una estrategia de SimianTECH para probar su tecnología robapoderes. Ninguna chica mágica se quiere prestar a que le roben los poderes, pero cedérselos a una niña mimada por un montón de pasta es algo más aceptable moral y éticamente estando dentro del capitalismo. 
 * La competencia quiere secuestrar a Claudia, para conseguir la tecnología robapoderes de SimianTECH. 
 * Batalla final contra un monstruo que robapoderes creado por SimianTECH o su competencia, según vaya la aventura y quién controle la tecnología.
+* La tecnología robapoderes, roba poderes y también algún defecto o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. 
+* Al final de la aventura:
+    * la jugadora que cedió sus poderes podrá quedarse con los nuevos cibernéticos o recuperar los suyos.
+    * Claudia se convertirá en una chica mágica aliada con los poderes que queden libres.
+    * Si consiguen la tecnología robapoderes, podrán intercambiárse los poderes entre las jugadoras una sola vez como si fueran cromos. 
 
 \sp
 
@@ -36,7 +41,15 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 
 ### Claudia
 
-Claudia, la hija del CEO de SimianTECH, es una actriz del método que se mete muchísimo en sus papeles. XXX
+Claudia, la supuesta hija del CEO de SimianTECH, es en realidad una actriz del método que se mete muchísimo en sus papeles. XXX
+
+XXX
+
+### Mercs de la competencia, minions
+
+XXX
+
+### Powerstealer
 
 XXX
 
