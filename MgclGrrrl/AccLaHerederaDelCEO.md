@@ -30,7 +30,12 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 
 En todas las esquinas y en todas las farolas de la de la zona de Hanashi se han llenado de anuncios en papel pegados donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalandote con el dedo que te necesita. Debe ser alguna referencia viejuna que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
 
-> Yo te quiero a tí, Magical Girl, para un trabajo muy sencillo e increiblemente bien pagado.
+> Yo te quiero a tí, Magical Girl, para un trabajo muy sencillo e increiblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH
+
+Si está aventura es introductoria, tus jugadoras se conocerán en la cola del casting. Si ya han jugado juntas otras aventuras, serán buena gente unas les contarán a otras lo del casting.
+
+Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se deja en el plato en la pizzería de debajo de su casa, esa casa de la que seguro que la van a echar por no pagara la renta.
+
 ## El casting
 
 XXX
@@ -39,10 +44,10 @@ XXX
 
 XXX
 
+
 ## Esto no está suficientemente bien pagado
 
 XXX
-
 
 ### Actividades irritantes que quiere hacer Claudia
 
@@ -79,6 +84,7 @@ XXX
 ### Contra PowerStealer
 
 XXX
+
 
 ## Separación de poderes
 
