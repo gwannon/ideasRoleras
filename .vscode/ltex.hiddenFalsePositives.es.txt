@@ -437,3 +437,8 @@
 {"rule":"DET_FEM_NOM_FEM","sentence":"^\\QLa visita de la hada de la sindicación\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlfanje brilli-brilli d10 daños\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qcosas como:\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QEstáis un poco hartas de la situación, de no ser reconocidas, de cobrar muy poco y de tener unos horarios horribles y poca conciliación. En vuestro momento más bajo se os aparecerá la hada de la sindicación con un plan absurdo, montar una huelga.\\E$"}
+{"rule":"DET_FEM_NOM_FEM","sentence":"^\\QCuando estén juntas quejándose de su suerte y estén rebuscando restos de pizza en algún contenedor, robando bolsita de ketchup y mostaza de un burger o intentando colarse en un catering de una fiesta a la que no están invitadas, se abrirá una grieta en el espacio/tiempo como si fuera de una peli de serie Z de los 80 y saldrá la hada de la sindicación. MOMENTO MUSICAL:\\E$"}
+{"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QTendrán que gritar cosas como «¡Por los Voyitos™ de canela!» o «¡Todo sea por conseguir purpurina eco-friendly!».\\E$"}
+{"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QQuizas un megamonstruo mitad abeja, mitad aspiradora, se acerque al edificio de GoreTech donde ha aparecido una pintada gigante de una flor.\\E$"}
+{"rule":"VERBO_MODAL_INFINITIVO","sentence":"^\\QTras todas las batallas de «Djinn de fuego» con el megamonstruo de cada semana, un grupo de chicas mágicas de bajo poder tiene que recogerlo todo, limpiarlo y reparar los daños.\\E$"}

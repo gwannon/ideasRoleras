@@ -54,11 +54,11 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-if($argv[1] == 'Megamonstruo' && $argv[1] == 'MegamonstruoBW') {
+if($argv[1] == 'Megamonstruo' || $argv[1] == 'MegamonstruoBW') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Megamonstruo, un aventura para MgclGrrrl - Ver. 1.0\n\n";
+  $metas .= "InfoValue: Megamonstruo, un aventura para MgclGrrrl - Ver. 1.1\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: Megamonstruo es una aventura corta para MgclGrrrl en la que tus jugadoras deberán montar una huelga para defender sus derechos mágico-sindicales frente a la megacorporación que las explota laboralmente. Versión 1.0\n\n";
+  $metas .= "InfoValue: Megamonstruo es una aventura corta para MgclGrrrl en la que tus jugadoras deberán montar una huelga para defender sus derechos mágico-sindicales frente a la megacorporación que las explota laboralmente. Versión 1.1\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";

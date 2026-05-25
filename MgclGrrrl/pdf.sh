@@ -12,4 +12,5 @@ chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./t
 pdftk './temp.pdf' update_info_utf8 './MegamonstruoBW.txt' output '../MegamonstruoBW.pdf' compress
 rm ./MegamonstruoBW.html
 rm ./MegamonstruoBW.txt
+rm ./AccMegamonstruoBW.md
 rm ./temp.pdf
