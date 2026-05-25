@@ -1,6 +1,3 @@
-
-
-
 # La heredera del CEO **una aventura para MgclGrrrl**
 
 \sp
@@ -30,10 +27,74 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 * La competencia quiere secuestrar a Claudia, para conseguir la tecnología robapoderes de SimianTECH. 
 * Batalla final contra un monstruo que robapoderes creado por SimianTECH o su competencia, según vaya la aventura y quién controle la tecnología.
 * La tecnología robapoderes, roba poderes y también algún defecto o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. 
-* Al final de la aventura:
-    * la jugadora que cedió sus poderes podrá quedarse con los nuevos cibernéticos o recuperar los suyos.
-    * Claudia se convertirá en una chica mágica aliada con los poderes que queden libres.
-    * Si consiguen la tecnología robapoderes, podrán intercambiárse los poderes entre las jugadoras una sola vez como si fueran cromos. 
+
+\sp
+
+## I want you for ...
+
+En todas las esquinas y en todas las farolas de la de la zona de Hanashi se han llenado de anuncios en papel pegados donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalandote con el dedo que te necesita. Debe ser alguna referencia viejuna que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
+
+> Yo te quiero a tí, Magical Girl, para un trabajo muy sencillo e increiblemente bien pagado.
+
+
+## El casting
+
+XXX
+
+## Conociendo a Claudia
+
+XXX
+
+## Esto no está suficientemente bien pagado
+
+XXX
+
+\sp
+
+### Actividades irritantes que quiere hacer Claudia
+
+Claudia quiere hacer una serie de actividades con los poderes de Magical Girl que posee ahora. Así que cada día durante 5 días puedes tirar al azar en la siguiente tabla o elegir el que más te guste.
+
+|1d6|Actividad irritante|
+|---|---|
+|1|**XXX:** XXX|
+|2|**XXX:** XXX|
+|3|**XXX:** XXX|
+|4|**XXX:** XXX|
+|5|**XXX:** XXX|
+|6|**XXX:** XXX|
+
+En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento de testeo y calidad de SimianTECH con actividades para testar sus nuevos poderes y si el sistema de robo de poderes funciona bien o falla en situaciones de estrés.
+
+\sp
+
+## Esos tipos de negros se están llevando a Claudia
+
+XXX
+
+## El rescate
+
+XXX
+
+### La confesión de Claudia
+
+XXX
+
+## Quiero mis poderes y los quiero ahora
+
+XXX
+
+### Contra PowerStealer
+
+XXX
+
+## Separación de poderes
+
+Llegados a este punto de la aventura y si han conseguido recuperar los poderes robados, tienen acceso a una tecnología estable de robo de poderes así que pueden hacer varias cosas.
+
+* La jugadora que cedió sus poderes podrá quedarse con los nuevos cibernéticos o recuperar los que tenía al principio de la aventura.
+* Claudia se convertirá en una chica mágica aliada con los poderes que queden libres.
+* Puedes permitirles a tu grupo de jugadoras intercambiarse los poderes entre ellas una sola vez como si fueran cromos. 
 
 \sp
 
@@ -45,7 +106,7 @@ Claudia, la supuesta hija del CEO de SimianTECH, es en realidad una actriz del m
 
 XXX
 
-### Mercs de la competencia, minions
+### Mercs de SimianTECH y de la competencia, minions
 
 XXX
 
