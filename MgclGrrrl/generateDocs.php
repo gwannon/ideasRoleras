@@ -62,8 +62,17 @@ if($argv[1] == 'Megamonstruo' || $argv[1] == 'MegamonstruoBW') {
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, MgclGrrrl, punk, PBTA\n\n";
-} 
+  $metas .= "InfoValue: rpg, ttrpg, MgclGrrrl, punk, MorkBorg\n\n";
+} else if($argv[1] == 'LaHerederaDelCEO' || $argv[1] == 'LaHerederaDelCEOBW') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: La heredera del CEO, un aventura para MgclGrrrl - Ver. 1.1\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: La heredera del CEO es una aventura corta para MgclGrrrl en la que tus jugadoras deberán soportar a la caprichosa hija de un CEO que desea vivir la experiencia de ser una Magical Girl. Versión 1.0\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, MgclGrrrl, punk, MorkBorg\n\n";
+}
 
 /* Generamos indice del PDF */
 /* -------------------------------------------------------------- */

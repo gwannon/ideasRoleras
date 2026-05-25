@@ -20,7 +20,16 @@
   box-sizing: border-box;
 }
 
-body#MegamonstruoBW {
+body#LaHerederaDelCEO {
+  --color-red: #ef810e;
+  --color-white: #e5de44;
+  --color-black: #1c375c;
+  --color-grey: #dedede;
+  --color-dark-grey: #949494;
+}
+
+body#MegamonstruoBW,
+body#LaHerederaDelCEOBW {
   --color-red: #000;
   --color-white: #fff;
   --color-black: #000000;
@@ -137,7 +146,8 @@ h1 {
   }
 }
 
-body#MegamonstruoBW h1 {
+body#MegamonstruoBW h1,
+body#LaHerederaDelCEOBW h1 {
   background: #fff;
   color: #fff;
 }
@@ -184,7 +194,8 @@ h3 {
   letter-spacing: 0px;
 }
 
-body#MegamonstruoBW h2 {
+body#MegamonstruoBW h2,
+body#LaHerederaDelCEOBW h2 {
   color: var(--color-white);
 }
 
@@ -224,7 +235,8 @@ ul li:before {
   background-size: cover;
 }
 
-body#MegamonstruoBW ul li:before {
+body#MegamonstruoBW ul li:before,
+body#LaHerederaDelCEOBW ul li:before {
   background-image: url(../images/anarquiaBW.png);
 }
 
