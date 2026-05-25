@@ -469,9 +469,9 @@ If one of your players gets pooped on, she'll run to the _**beach**_ to clean he
 Once the poops impact, they disappear without leaving any track that your players can use to trace a safeway.
 #### First chamber of the cave
 
-En esta _**primera cámara**_ hay tres _**estatuas de simios**_, cada una con un gesto, uno que se tapa las orejas, otro la boca y otro los ojos. Encima de cada una las _**estatuas**_ hay un pequeño simio que imita cualquier gesto. Si avanzan y algún simio no es igual al gesto de su estatua, en cuanto pasan las _**3 estatuas**_, los simios tocan algún resorte y se levanta un muro que no les deja avanzar.
+In this _**first chamber**_, there are 3 _**ape statues**_, each with a different gesture: one covering its ears, another its mouth, and the third its eyes. Above each _**statue**_ is a small ape that mimics any of the gestures. If they advance and any monkey's gesture doesn't match that of its statue, as soon as they pass the _**3 statues**_, the ape trigger a spring, raising a wall that blocks their path.
 
-Los monos imitan lo que hace la persona que hay delante de la estatua, así que, por ejemplo, al ponerse delante del que tiene tapadas las orejas y taparse los ojos, se taparán los ojos. Automáticamente, el resto cambian siguiendo estás reglas.
+The apes mimic the actions of the person in front of the statue, so, for example, when they stand in front of the one with its ears covered and cover their eyes, they will cover their eyes. The rest of the monkeys automatically change their behavior following these rules.
 
 * Si cambian la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiado ocupa el lugar libre.
 * Si cambian el gesto de la segunda estatua solo se intercambia por el nuevo gesto.
