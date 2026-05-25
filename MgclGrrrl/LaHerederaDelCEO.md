@@ -28,12 +28,15 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 * Una de las jugadoras deberá perder sus poderes para dárselos a la heredera. A cambio recibirá algunos poderes cibernéticos. Si tiene mascota mágica tendrá que dejársela.
 * Claudia, la hija del CEO, es una actriz que hace de su hija. En realidad, todo es una estrategia de SimianTECH para probar su tecnología robapoderes. Ninguna chica mágica se quiere prestar a que le roben los poderes, pero cedérselos a una niña mimada por un montón de pasta es algo más aceptable moral y éticamente estando dentro del capitalismo. 
 * La competencia quiere secuestrar a Claudia, para conseguir la tecnología robapoderes de SimianTECH. 
+* Batalla final contra un monstruo que robapoderes creado por SimianTECH o su competencia, según vaya la aventura y quién controle la tecnología.
 
 \sp
 
 ## Personajes
 
 ### Claudia
+
+Claudia, la hija del CEO de SimianTECH, es una actriz del método que se mete muchísimo en sus papeles. XXX
 
 XXX
 
