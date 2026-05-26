@@ -86,11 +86,11 @@ En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento
 |5|**Día de SPA con tu coleguita:** El día de SPA es para Claudia y su coleguita, para el resto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX|
 |6|**Enemies-to-lovers:** Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX|
 |7|**Metamorfoseador:** XXX|
-|8|**Doble robo:** Claudia quiere hacer una pijamada de chicas mágicas y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. XXX. La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que lo echen de menos. XXX|
-
-Tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
+|8|**Pijamada:** Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia». Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma. La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. XXX|
 
 \sp
+
+Tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
 ## Esos tipos de negros se están llevando a Claudia
 
@@ -112,11 +112,11 @@ XXX
 
 XXX
 
+\sp
+
 ### Contra PowerStealer
 
 XXX
-
-\sp
 
 ## Separación de poderes
 
