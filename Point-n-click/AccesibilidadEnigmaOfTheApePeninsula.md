@@ -473,19 +473,19 @@ In this _**first chamber**_, there are 3 _**ape statues**_, each with a differen
 
 The apes mimic the actions of the person in front of the statue, so, for example, when they stand in front of the one with its ears covered and cover their eyes, they will cover their eyes. The rest of the monkeys automatically change their behavior following these rules.
 
-* Si cambian la primera estatua o tercera estatua, el gesto actual pasa a la estatua de que no tenga el gesto al que queremos cambiar y gesto que no hemos cambiado ocupa el lugar libre.
-* Si cambian el gesto de la segunda estatua solo se intercambia por el nuevo gesto.
+* If the first or third statue is changed, the current gesture is transferred to the statue that doesn't have the gesture we want to change to, and the gesture that wasn't changed takes the empty space.
+* If the gesture of the second statue is changed, it is only replaced with the new gesture.
 
-La solución es sencilla, pero hay que descubrir el movimiento de los gestos.
+The solution is simple, but you have to discover the movement of the gestures.
 
-|&nbsp;|1ª estatua|2ª estatua|3ª estatua|
+|&nbsp;|1st statue|2nd statue|3rd statue|
 |---|---|---|---|
-|Gesto estatua|Orejas|Boca|Ojos|
-|Gesto simio inicial|Ojos|Boca|Orejas|
-|1ª estatua **orejas**|**Orejas**|Ojos|Boca|
-|3ª estatua **ojos**|Boca|Orejas|**Ojos**|
-|2ª estatua **boca**|Orejas|**Boca**|Ojos|
-Si colocan cada simio en su estatua, no saltará el muro y podrán avanzar. Los gestos se conservan aunque salgan de la pantalla.
+|Statue gesture|Ears|Mouth|Eyes|
+|Initial ape gesture|Eyes|Mouth|Ears|
+|1st statue **ears**|**Ears**|Eyes|Mouth|
+|3rd statue **eyes**|Mouth|Ears|**Eyes**|
+|2nd statue **mouth**|Ears|**Mouth**|Eyes|
+If you place each ape on its statue, it won't jump over the wall and you'll be able to advance. The gestures are retained even if you go off-screen.
 
 #### Second chamber of the cave
 
@@ -617,7 +617,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### First chamber of the cave
 
-* **Clickable items:** Estatua de mono tapándose la boca, Estatua de mono tapándose las orejas, Estatua de mono tapándose los ojos, Muro desplazable
+* **Clickable items:**Statue of an ape covering its mouth, Statue of an ape covering its ears, Statue of an ape covering its eyes, Raising wall
 * **Connections:** Entrance of the cave, 2nd chamber
 #### Second chamber of the cave
 
