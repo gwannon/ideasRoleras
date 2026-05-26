@@ -8,3 +8,4 @@ Otras atribuciones:
 
 * [Fuente Dracutaz](https://www.1001fonts.com/dracutaz-font.html)
 * [Símbolo Anarquía](https://www.magnific.com/free-vector/flat-design-anarchy-symbol-logo_22072645.htm)
+* [Textura cemento](https://www.magnific.com/es/foto-gratis/fondo-superficie-piedra_3224645.htm)

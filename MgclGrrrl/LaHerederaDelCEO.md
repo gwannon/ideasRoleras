@@ -32,15 +32,27 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 
 ## I want you for ...
 
-En todas las esquinas y en todas las farolas de la de la zona de Hanashi se han llenado de anuncios en papel pegados donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalandote con el dedo que te necesita. Debe ser alguna referencia viejuna que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
+Todas las videopantallas de todas las esquinas de la zona de Hanashi se han llenado de anuncios donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalandote con el dedo que te necesita. Debe ser alguna referencia viejuna que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
 
-> Yo te quiero a tí, Magical Girl, para un trabajo muy sencillo e increiblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH
+> «Yo te quiero a tí, Magical Girl, para un trabajo muy sencillo e increiblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH». De fondo se oye en el vídeo la música de Money, Money del musical Cabaret. MOMENTO MUSICAL XXX
 
-Si está aventura es introductoria, tus jugadoras se conocerán en la cola del casting. Si ya han jugado juntas otras aventuras, serán buena gente unas les contarán a otras lo del casting.
-
-Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se deja en el plato en la pizzería de debajo de su casa, esa casa de la que seguro que la van a echar por no pagara la renta.
+Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se dejan los clientes en el plato en la pizzería de debajo de su casa. Esa casa de la que seguro que la van a deshauciar por no pagar la renta a tiempo.
 
 ## El casting
+
+Si está aventura es introductoria, tus jugadoras se conocerán en la cola del casting, qué casualidad han llegado todas seguidas. Si ya han jugado juntas otras aventuras, serán buena gente unas les contarán a otras lo del casting e irán juntas como buenas amigas.
+
+XXX
+
+\sp
+
+La idea es que las pruebas del casting sean bastante humillantes. SimianTECH necesita gente desesperada que acepte lo que sea.
+
+XXX
+
+Por lado las van a humillar, pero por otro lado las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
+
+### Firmando con el diablo
 
 XXX
 
@@ -71,10 +83,10 @@ En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento
 |1d6|Actividad irritante|
 |---|---|
 |4|**Patear culos de minions:** XXX|
-|5|**Día de SPA con tu coleguita:** El día de SPA es para Claudía y su coleguita, par el reto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH esta probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. En realidad el SPA es un laboratorio encubierto y las diferentes XXX son en realidad diferente prueba y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX|
+|5|**Día de SPA con tu coleguita:** El día de SPA es para Claudia y su coleguita, para el resto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX|
 |6|**Enemies-to-lovers:** Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX|
 |7|**Metamorfoseador:** XXX|
-|8|**Doble robo:** Claudia quiere hacer una pijamada de chicas mágicas y hacer la cosas que ella cree que las chicas mágicas hacen en las pijamadas. XXX. La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que lo echen de menos. XXX|
+|8|**Doble robo:** Claudia quiere hacer una pijamada de chicas mágicas y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. XXX. La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que lo echen de menos. XXX|
 
 Tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
