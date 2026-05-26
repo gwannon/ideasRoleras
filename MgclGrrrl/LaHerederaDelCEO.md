@@ -20,16 +20,6 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 
 \sp
 
-## Primeras ideas 
-
-* Una de las jugadoras deberá perder sus poderes para dárselos a la heredera. A cambio recibirá algunos poderes cibernéticos. Si tiene mascota mágica tendrá que dejársela.
-* Claudia, la hija del CEO, es una actriz que hace de su hija. En realidad, todo es una estrategia de SimianTECH para probar su tecnología robapoderes. Ninguna chica mágica se quiere prestar a que le roben los poderes, pero cedérselos a una niña mimada por un montón de pasta es algo más aceptable moral y éticamente estando dentro del capitalismo. 
-* La competencia quiere secuestrar a Claudia, para conseguir la tecnología robapoderes de SimianTECH. 
-* Batalla final contra un monstruo que robapoderes creado por SimianTECH o su competencia, según vaya la aventura y quién controle la tecnología.
-* La tecnología robapoderes, roba poderes y también algún defecto o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. 
-
-\sp
-
 ## I want you for ...
 
 Todas las video-pantallas de todas las esquinas de la zona de Hanashi se han llenado de anuncios donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalándote con el dedo que te necesita. Debe ser alguna referencia _viejuna_ que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
@@ -52,6 +42,14 @@ XXX
 
 Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
 
+### El plan de SimianTECH
+
+Claudia, la hija del CEO, es una actriz que hace de su hija. En realidad, todo es una estrategia de SimianTECH para probar su tecnología robapoderes.
+
+Ninguna chica mágica se quiere prestar a que le roben los poderes, pero cedérselos temporalmente a una niña mimada por un montón de pasta es algo más aceptable moral y éticamente estando dentro del capitalismo. 
+
+XXX
+
 ### Firmando con el diablo
 
 XXX
@@ -62,13 +60,17 @@ XXX
 
 \sp
 
+### Transferencia de poderes
+
+XXX
+
 ## Esto no está suficientemente bien pagado
 
 XXX
 
 ### Actividades irritantes que quiere hacer Claudia
 
-Claudia quiere hacer una serie de actividades con los poderes de Magical Girl que posee ahora. Así que cada día durante 5 días puedes tirar al azar en la siguiente tabla o elegir el que más te guste.
+Claudia quiere hacer una serie de actividades con los poderes de Magical Girl que posee ahora. Así que cada día durante 5 días puedes tirar al azar en la siguiente tabla o elegir el que más te guste. [MOMENTO MUSICAL: Dolly Parton - 9 To 5 (Official Video) | https://youtu.be/UbxUSsFXYo4](https://youtu.be/UbxUSsFXYo4)
 
 En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento de testeo y calidad de SimianTECH con actividades para testar sus nuevos poderes y si el sistema de robo de poderes funciona bien o falla en situaciones de estrés.
 
@@ -90,9 +92,11 @@ En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento
 
 \sp
 
+La tecnología robapoderes, roba poderes y también algún defecto, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
+
 Tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
-## Esos tipos de negros se están llevando a Claudia
+## Esos tipos de negro se están llevando a Claudia
 
 XXX
 
@@ -108,11 +112,11 @@ XXX
 
 XXX
 
+\sp
+
 ## Quiero mis poderes y los quiero ahora
 
 XXX
-
-\sp
 
 ### Contra PowerStealer
 
@@ -130,7 +134,7 @@ Llegados a este punto de la aventura y si han conseguido recuperar los poderes r
 
 ## Personajes
 
-### Claudia
+### Claudia, ¿villana?
 
 Claudia, la supuesta hija del CEO de SimianTECH, es en realidad una actriz del método que se mete muchísimo en sus papeles. XXX
 
