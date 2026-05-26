@@ -677,3 +677,6 @@ foodtruck
 1d4
 djinns
 poser
+SimianTECH
+robapoderes
+coleguita

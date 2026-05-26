@@ -32,11 +32,11 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 
 ## I want you for ...
 
-Todas las videopantallas de todas las esquinas de la zona de Hanashi se han llenado de anuncios donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalandote con el dedo que te necesita. Debe ser alguna referencia viejuna que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
+Todas las video-pantallas de todas las esquinas de la zona de Hanashi se han llenado de anuncios donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalándote con el dedo que te necesita. Debe ser alguna referencia _viejuna_ que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
 
-> «Yo te quiero a tí, Magical Girl, para un trabajo muy sencillo e increiblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH». De fondo se oye en el vídeo la música de Money, Money del musical Cabaret. MOMENTO MUSICAL XXX
+> «Yo te quiero a ti, Magical Girl, para un trabajo muy sencillo e increíblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH». De fondo se oye en el vídeo la música de Money, Money, Money de ABBA. [MOMENTO MUSICAL: ABBA - Money, Money, Money (Official Music Video) | https://www.youtu.be/ETxmCCsMoD0](https://www.youtu.be/ETxmCCsMoD0)
 
-Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se dejan los clientes en el plato en la pizzería de debajo de su casa. Esa casa de la que seguro que la van a deshauciar por no pagar la renta a tiempo.
+Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se dejan los clientes en el plato en la pizzería de debajo de su casa. Esa casa de la que seguro que la van a desahuciar por no pagar la renta a tiempo.
 
 ## El casting
 
@@ -50,7 +50,7 @@ La idea es que las pruebas del casting sean bastante humillantes. SimianTECH nec
 
 XXX
 
-Por lado las van a humillar, pero por otro lado las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
+Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
 
 ### Firmando con el diablo
 
@@ -136,11 +136,11 @@ Claudia, la supuesta hija del CEO de SimianTECH, es en realidad una actriz del m
 
 XXX
 
-### Mercs de SimianTECH y de la competencia, minions
+### Mercenarios de SimianTECH y de la competencia, minions
 
 XXX
 
-### Powerstealer
+### PowerStealer
 
 XXX
 
