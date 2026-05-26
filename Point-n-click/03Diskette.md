@@ -105,12 +105,12 @@ If you place each ape on its statue, it won't jump over the wall and you'll be a
 
 #### Second chamber of the cave
 
-En la segunda cámara hay un gran precipicio y hay un _**tronco**_ que parece ser demasiado corto para hacer una pasarela con la que pasar por encima del precipicio. Las soluciones pueden ser muy varias.
+In the second chamber, there's a large precipice and a _**log**_ that seems too short to create a walkway across. There are several possible solutions.
 
-* Lo más sencillo es meterle al _**tronco**_ todos sus píxeles para hacer que sea más largo.
-* Pueden mirar en su equipo y atar algo para que _**tronco**_ sea más largo, pero en principio no deberían tener nada que sirva.
-* El precipicio es muy poco hondo, pero como el fondo queda fuera de pantalla parece que no tiene fin. Si lanzan algo verán que no es nada hondo, apenas les llega a las rodillas. Pueden bajar, pasar andando y volver a subir por el otro lado.
-* Si quieren hacer un poco de metajuego de videojuego, pueden poner el _**tronco**_ verticalmente y podrían trepar y acceder a la parte superior de la interfaz gráfico y cruzar el precipicio usando la interfaz de puente. Una vez pasen el precipicio podrán descolgarse de la interfaz.
+* The simplest is to add all the pixels to the _**log**_ to make it longer.
+* You can look at your equipment and attach something to make the _**log**_ longer, but you shouldn't have anything suitable.
+* The precipice is very deep, but since the bottom is off-screen, it appears endless. If you throw something into it, you'll see it's not deep at all; it barely reaches your knees. You can climb down, walk across, and climb back up the other side.
+* If you want to incorporate some meta-game elements, you can position the _**log**_ vertically and climb it to reach the top of the graphical interface and cross the precipice using the interface as bridge. Once you've crossed the precipice, you can drop down from the interface.
 
 #### Third chamber of the cave
 
@@ -266,7 +266,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Second chamber of the cave
 
-* **Clickable items:** Tronco
+* **Clickable items:** Log
 * **Connections:** 1st chamber, 3rd chamber
 
 #### Third chamber of the cave
