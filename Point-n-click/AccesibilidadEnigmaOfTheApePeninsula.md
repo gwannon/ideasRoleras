@@ -498,11 +498,11 @@ In the second chamber, there's a large precipice and a _**log**_ that seems too 
 
 #### Third chamber of the cave
 
-La _**tercera cámara**_ es un largo pasillo en el que parece que no hay nada, pero cuando vayan a atravesarla saldrá una _**cuchilla gigante del techo**_ que estará a punto de cortarles por la mitad y no podrán pasar al otro lado.
+The _**third chamber**_ is a long corridor that appears empty, but as they try to pass through, a _**huge blade will spring from the ceiling**_, nearly slicing them in half, preventing them from getting to the other side.
 
-Cuando se activa la _**cuchilla**_ se oye un chillido de mono que sale de una _**agujero en la pared**_ más adelante, así que seguro que un mono vigila desde esa trampilla y activa la _**cuchilla**_. No puede acercarse al _**agujero**_ porque la _**cuchilla**_ salta, así que no pueden hacerle nada al simio.
+When the _**blade**_ is activated, a ape's scream is heard coming from a _**hole in the wall**_ ahead, so a little ape is surely watching from that trapdoor and triggering the _**blade**_. They can't approach the _**hole**_ because the blade will spring, so they can't interact with the ape.
 
-El pasillo es tan largo que hay scroll en la pantalla de izquierda a derecha y el truco de esta pantalla está en usar ese scroll para atravesar la cuchilla.
+The chamber is so long that there is scrolling on the screen from left to right, and the trick to this screen is to use that scrolling to get through the blade.
 
 Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla.
 
