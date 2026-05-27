@@ -513,7 +513,7 @@ Once a player has passed the blade, they can scare the ape away from the _**hole
 They can also talk to the creator of the ape-traffic light again and get a hint about how the _**ape-blade**_ works.
 #### Treasure chamber
 
-En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
+In this great chamber there are big piles of gold coins, jeweled scepters and crowns, and diamonds, rubies, and emeralds as big as melons. They can fill their entire equipment with _**riches**_ of all kinds if they wish.
 
 Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingotes de oro está la _**cruz**_, pero si intentan escalar la _**montaña de lingotes**_ para cogerla, resbalan y te caes al pie de la montaña.
 
@@ -626,7 +626,7 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Third chamber of the cave
 
-* **Clickable items:** Trampa cuchilla, Trampilla del mono vigía
+* **Clickable items:** Bladetrap, Hole in the wall with ape-watcher
 * **Connections:** 2nd chamber, Treasure chamber
 
 #### Treasure chamber
