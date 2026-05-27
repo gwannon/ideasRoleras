@@ -504,13 +504,13 @@ When the _**blade**_ is activated, a ape's scream is heard coming from a _**hole
 
 The chamber is so long that there is scrolling on the screen from left to right, and the trick to this screen is to use that scrolling to get through the blade.
 
-Si tus jugadoras van juntas, van en el centro de la pantalla y cuando llegan al punto donde está la _**cuchilla**_ el _**agujero del simio**_ está en pantalla y el vigía los ve y activa la cuchilla.
+If your players are together, they'll be in the center of the screen. When they reach the point where the blade is, the _**hole in the wall**_ will be on screen, and the ape watcher will see them and activate the _**blade**_.
 
-Si van avanzando, una jugadora en cada lado de la pantalla, cuando la de la derecha llega a la cuchilla, la _**trampilla del mono**_ vigía no está en pantalla (ya que la otra jugadora mueve el scroll hacia su lado), por tanto, no los ve y no puede activar la _**cuchilla**_.
+If they're moving forward, one player on each side of the screen, when the player on the right reaches the blade, the _**hole in the wall**_ won't be on screen (since the other player is scrolling to their side). Therefore, the watcher won't see them and can't activate the _**blade**_.
 
-Una vez ha pasado una jugadora la cuchilla, podrá espantar al mono de la _**trampilla**_ y que pasen el resto.
+Once a player has passed the blade, they can scare the ape away from the _**hole**_, allowing the rest to pass.
 
-Igual si vuelven a hablar con el creador del simio-semáforo y les dé una pista de cómo funciona la _**simio-cuchilla**_.
+They can also talk to the creator of the ape-traffic light again and get a hint about how the _**ape-blade**_ works.
 #### Treasure chamber
 
 En esta gran sala hay montañas de monedas de oro, cetros y coronas enjoyadas y diamantes, rubíes y esmeraldas como melones. Pueden llenar todo su equipo con _**riquezas**_ de todo tipo si lo desean.
