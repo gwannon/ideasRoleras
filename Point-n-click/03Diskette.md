@@ -134,7 +134,7 @@ They can also talk to the creator of the ape-traffic light again and get a hint 
 
 In this great chamber there are big piles of gold coins, jeweled scepters and crowns, and diamonds, rubies, and emeralds as big as melons. They can fill their entire equipment with _**riches**_ of all kinds if they wish.
 
-Han encontrado el gran tesoro pirata, pero conseguir la _**cruz de Coronado**_ no es tarea fácil. Encima de una montaña de lingotes de oro está la _**cruz**_, pero si intentan escalar la _**montaña de lingotes**_ para cogerla, resbalan y te caes al pie de la montaña.
+They've found the great pirate treasure, but getting the _**Cross of Coronado**_ is no easy task. The _**cross**_ sits atop a _**pile of gold ingots**_, but if they try to climb the pile to reach it, they slip and fall to the bottom.
 
 A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia, pero nada más lejos de la realidad.
 
