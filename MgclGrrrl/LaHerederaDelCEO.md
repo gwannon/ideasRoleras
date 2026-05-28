@@ -76,29 +76,58 @@ En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento
 
 \sp
 
-|1d6|Actividad irritante|
-|---|---|
-|1|**Hacer una pose de conjunto:** Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero claro, no iba a ser en un sitio sencillo, se ha buscado un sitio bien llamativo, emblemático, de difícil acceso y con mucho público. Así que toca ir al norte de la ciudad, a Tres Cerditos y buscar un buen lugar. Piensa en edificios públicos y privados con vigilancia, altos y con mucho paso de gente. Si tienen un campanario para hacerla sonar o una gran pantalla para hackearla y poner un vídeo en directo de ellas, mucho mejor. Esto es un rollo de los de marketing para estudiar como se vería que alguien tenga los poderes de otros ante la opinión pública.|
-|2|**Crear una superarma:** XXX|
-|3|**Tier nuevo:** Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. XXX|
+|1d8|Actividad|1d8|Actividad|
+|---|---|---|---|
+|1|Hacer una pose de conjunto|5|Día de SPA con tu coleguita|
+|2|Crear una superarma|6|Enemies-to-lovers|
+|3|Tier nuevo|7|Metamorfoseador|
+|4|Patear culos de minions|8|Pijamada|
+
+#### Hacer una pose de conjunto
+
+Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero claro, no iba a ser en un sitio sencillo, se ha buscado un sitio bien llamativo, emblemático, de difícil acceso y con mucho público. Así que toca ir al norte de la ciudad, a Tres Cerditos y buscar un buen lugar. Piensa en edificios públicos y privados con vigilancia, altos y con mucho paso de gente. Si tienen un campanario para hacerla sonar o una gran pantalla para hackearla y poner un vídeo en directo de ellas, mucho mejor. Esto es un rollo de los de marketing para estudiar como se vería que alguien tenga los poderes de otros ante la opinión pública.
+
+#### Crear una superarma
+
+XXX
+
+#### Tier nuevo
+
+Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. XXX. Los creadores del robapoderes quieren ver si las armaduras de diferentes materiales y tecnologías afectan en algo al robo de poderes.
 
 \sp
 
-|1d6|Actividad irritante|
-|---|---|
-|4|**Patear culos de minions:** XXX|
-|5|**Día de SPA con tu coleguita:** El día de SPA es para Claudia y su coleguita, para el resto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX|
-|6|**Enemies-to-lovers:** Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX|
-|7|**Metamorfoseador:** XXX|
-|8|**Pijamada:** Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia». Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma. La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. XXX|
+#### Patear culos de minions
+
+XXX
+
+#### Día de SPA con tu coleguita
+
+El día de SPA es para Claudia y su coleguita, para el resto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX
+
+#### Enemies-to-lovers
+
+Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX
+
+#### Metamorfoseador
+
+Claudia quiere customizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajasima intensidad que le da a las cosas un color verduzco. Va a montar una sesión de manualidades en la mansión de su «papi» con un mntón de productos y herramientas. XXX
 
 \sp
+
+#### Pijamada
+
+Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia». Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma.
+
+La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. XXX|
 
 El objetivo de esta parte es, por un lado, que le cojan ojeriza a Claudia y cuando más adelante la secuestren, tengan que ser buenas personas y rescatarla, pero a regañadientes.
 
-Y por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
+Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
-> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras, así que quizas sea un buen momento de sacar unos minios y que les den problemas por esa merma en sus recursos. 
+> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras, poses por el día, pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
+
+\sp
 
 Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
 
@@ -110,8 +139,6 @@ XXX
 
 XXX
 
-\sp
-
 ### Buscando a Claudia
 
 XXX
@@ -119,6 +146,8 @@ XXX
 ### La confesión de Claudia
 
 XXX
+
+\sp
 
 ## Quiero mis poderes y los quiero ahora
 
