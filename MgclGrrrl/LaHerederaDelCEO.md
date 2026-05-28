@@ -74,11 +74,13 @@ Claudia quiere hacer una serie de actividades con los poderes de Magical Girl qu
 
 En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento de testeo y calidad de SimianTECH con actividades para testar sus nuevos poderes y si el sistema de robo de poderes funciona bien o falla en situaciones de estrés.
 
+\sp
+
 |1d6|Actividad irritante|
 |---|---|
-|1|**Hacer una pose de conjunto:** XXX|
+|1|**Hacer una pose de conjunto:** Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero claro, no iba a ser en un sitio sencillo, se ha buscado un sitio bien llamativo, emblemático, de difícil acceso y con mucho público. Así que toca ir al norte de la ciudad, a Tres Cerditos y buscar un buen lugar. Piensa en edificios públicos y privados con vigilancia, altos y con mucho paso de gente. Si tienen un campanario para hacerla sonar o una gran pantalla para hackearla y poner un vídeo en directo de ellas, mucho mejor. Esto es un rollo de los de marketing para estudiar como se vería que alguien tenga los poderes de otros ante la opinión pública.|
 |2|**Crear una superarma:** XXX|
-|3|**Tier nuevo:** XXX|
+|3|**Tier nuevo:** Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. XXX|
 
 \sp
 
@@ -92,9 +94,13 @@ En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento
 
 \sp
 
-La tecnología robapoderes, roba poderes y también algún defecto, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
+El objetivo de esta parte es, por un lado, que le cojan ojeriza a Claudia y cuando más adelante la secuestren, tengan que ser buenas personas y rescatarla, pero a regañadientes.
 
-Tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
+Y por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
+
+> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras, así que quizas sea un buen momento de sacar unos minios y que les den problemas por esa merma en sus recursos. 
+
+Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
 
 ## Esos tipos de negro se están llevando a Claudia
 
@@ -104,6 +110,8 @@ XXX
 
 XXX
 
+\sp
+
 ### Buscando a Claudia
 
 XXX
@@ -111,8 +119,6 @@ XXX
 ### La confesión de Claudia
 
 XXX
-
-\sp
 
 ## Quiero mis poderes y los quiero ahora
 
