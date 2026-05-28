@@ -142,12 +142,11 @@ The only option is for them to take the _**ingots**_ from the mountain and add t
 
 The trick to this challenge is to give the _**ingots**_ to a teammate on the opposite side of the player, who will then drop them to the other side, creating another pile. This allows the first player to move and take the _**cross**_.
 
-
 ### 2. Of vampires and zombies
 
-Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
+With the _**cross**_ in their possession, the next step is to confront DraChuckla, but first they must recover their _**voodoo dolls**_. Your players can go directly to confront DraChuckla without having recovered their _**voodoo dolls**_, but as soon as she sees them, she will summon a zombie that will enter with the dolls and begin to pierce them with needles, forcing them to run away and return outside the ship. They will have to restart the ship infiltration from the beginning.
 
-De vuelta a la playa, tras tener en su mano la _**cruz de Coronado**_, podrán usar el bote con el que han bajado a tierra. Podrán salir de la cala en la que está su barco e ir al lugar donde fondea _**El caminante**_, el navío de velas negras de DraChuckla.
+Back on the beach, having obtained the _**Cross of Coronado**_, they can use the boat they came ashore in. They can leave the cove where their boat is and go to the anchorage of _**The Walker**_, DraChuckla's black-sailed vessel.
 
 Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
 
