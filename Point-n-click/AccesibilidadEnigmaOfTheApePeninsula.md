@@ -519,11 +519,9 @@ They've found the great pirate treasure, but getting the _**Cross of Coronado**_
 
 In a first moment, they would need some kind of climbing equipment or some kind of invention that would allow them to grab the _**cross**_ from a distance, but Nothing could be further from the truth. 
 
-La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
+The only option is for them to take the _**ingots**_ from the mountain and add them to their equipment to make the mountain smaller so they can climb it easily. They'll need to remove at least 20 _**ingot**_ equipment spaces to reduce it to a manageable level. The problem is that with all that gold, movement is nearly impossible. Taking even one ingot will paralyze them, preventing them from moving and climbing. If they drop it, it will return to the pile, which will grow again, making it impossible to climb.
 
-El truco de esta prueba es dar los _**lingotes**_ a una compañera que este al otro lado de la jugadora y esta lo tire al otro lado de manera que los _**lingotes**_ crean otro montón, de esa manera la primera jugadora se puede mover y coger la _**cruz**_.
-
-### 2. Of vampires and zombies
+The trick to this challenge is to give the _**ingots**_ to a teammate on the opposite side of the player, who will then drop them to the other side, creating another pile. This allows the first player to move and take the _**cross**_.### 2. Of vampires and zombies
 
 Con la cruz en su poder, la siguiente parte es ir a enfrentarse a DraChuckla, pero primero deben recuperar sus _**muñecos vudú**_. Tus jugadoras pueden ir directamente a enfrentarse a DraChuckla sin haber recuperado sus _**muñecos vudú**_, pero nada más verlos llamara a un zombi que entrará con los muñecos y empezará a atravesarlos con unas agujas, con lo que tendrán que salir corriendo y aparecerán fuera del navío. Tendrán que volver a empezar la infiltración en el barco desde el principio.
 
