@@ -136,7 +136,7 @@ In this great chamber there are big piles of gold coins, jeweled scepters and cr
 
 They've found the great pirate treasure, but getting the _**Cross of Coronado**_ is no easy task. The _**cross**_ sits atop a _**pile of gold ingots**_, but if they try to climb the pile to reach it, they slip and fall to the bottom.
 
-A priori, necesitan algún tipo de equipo de escalada o algún tipo de invento que les permita coger la _**cruz**_ a distancia, pero nada más lejos de la realidad.
+In a first moment, they would need some kind of climbing equipment or some kind of invention that would allow them to grab the _**cross**_ from a distance, but Nothing could be further from the truth. 
 
 La única opción es que cojan los _**lingotes**_ de la montaña y las metan en su equipo para hacer más pequeña la montaña y puedan escalarla fácilmente. Necesitarán por lo menos quitar 20 casillas de equipo de _**lingotes**_ para que disminuya a un nivel adecuado. El problema es que con todo ese oro es muy imposible moverse, con coger 1 lingote no podrán moverse y no podrán trepar. Si lo tiran, volverá al montón y este volverá a crecer y no se podrá escalar.
 
