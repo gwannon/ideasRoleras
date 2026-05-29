@@ -529,9 +529,9 @@ With the _**cross**_ in their possession, the next step is to confront DraChuckl
 
 Back on the beach, having obtained the _**Cross of Coronado**_, they can use the boat they came ashore in. They can leave the cove where their boat is and go to the anchorage of _**The Walker**_, DraChuckla's black-sailed vessel.
 
-Esta escena se desarrollará en _**El caminante**_. Como rey de los no-muertos, DraChuckla ha convertido en zombis a todas sus víctimas y los ha enrolado en su tripulación. No son muy eficientes ni rápidos, pero son difíciles de matar, no necesitan agua, ni comida, ni cobrar a fin de mes. Así que todo son ventajas.
+This scene will take place on _**The Walker**_. As king of the undeads, DraChuckla has turned all his victims into zombies and enlisted them in his crew. They aren't very efficient or fast, but they're hard to kill, they don't need water or food, and you don't wage them every month. It's all advantages!
 
-Si los _**no-muertos**_ los detectan, se lanzarán a por ellos y tendrán que salir del barco y volver a empezar la escena desde el principio, igual que cuando _**DraChuckla**_ usa los muñecos vudú.
+If the _**undead**_ detect them, they'll attack, and they'll have to leave the ship and start from the beginning, just like when _**DraChuckla**_ uses the voodoo dolls.
 #### Outside The Walker
 
 Tus jugadoras pueden acercarse al casco de _**El caminante**_ cerca de su ancla, que han dejado caer al mar. El casco está cubierto de _**percebes, lapas y mejillones**_ que pueden recolectarse.
