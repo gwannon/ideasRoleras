@@ -27,16 +27,23 @@ Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando lo
 
 ## El casting
 
-Si está aventura es introductoria, tus jugadoras se conocerán en la cola del casting, qué casualidad han llegado todas seguidas. Si ya han jugado juntas otras aventuras, serán buena gente unas les contarán a otras lo del casting e irán juntas como buenas amigas.
+Si está aventura es introductoria, tus jugadoras se conocerán en la sala de espera del casting, qué casualidad han llegado todas seguidas. Si ya han jugado juntas otras aventuras, serán buena gente y unas les contarán a otras lo del casting e irán juntas como buenas amigas. 
+
+El casting se hace en las oficinas centrales del edificio de SimianTECH. Tras tomar sus datos, las llevarán a una sala de espera.
+
+
+Allí hay más chicas como ellas buscando un curro decentemente pagado, incluso puede que haya alguna conocida con la que charrear un poco a ver que saben ellas. Increiblemente en la sala de espera hay todo tipo de lujos, desde un fastuoso catering gratuito, comodísimos sillones de vibromasaje, mesa con golosinas y chocolates, etc. 
+
+Varias chicas mágicas que han llegado antes saldrán de la sala de casting, llorando, gritando, maldiciendo o lanzando airadamente todo sus rayos mágicos contra la puerta de la sala donde están haciendo el casting.
+
+Cuando les toque las llamarán a todas juntas para entrar en la sala de casting, un gran espacio blanquísimo con una mesa con 3 personas sentadas en ella.
 
 XXX
 
+La idea es que las pruebas del casting sean bastante humillantes. XXX
 
-La idea es que las pruebas del casting sean bastante humillantes. SimianTECH necesita gente desesperada que acepte lo que sea.
+Por un lado, SimianTECH necesita gente desesperada que acepte lo que sea. Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
 
-XXX
-
-Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
 
 ### El plan de SimianTECH
 
@@ -54,10 +61,10 @@ XXX
 
 XXX
 
-
 ### Transferencia de poderes
 
 XXX
+
 
 ## Esto no está suficientemente bien pagado
 

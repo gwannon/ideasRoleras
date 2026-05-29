@@ -30,17 +30,25 @@ Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando lo
 
 ## El casting
 
-Si está aventura es introductoria, tus jugadoras se conocerán en la cola del casting, qué casualidad han llegado todas seguidas. Si ya han jugado juntas otras aventuras, serán buena gente unas les contarán a otras lo del casting e irán juntas como buenas amigas.
+Si está aventura es introductoria, tus jugadoras se conocerán en la sala de espera del casting, qué casualidad han llegado todas seguidas. Si ya han jugado juntas otras aventuras, serán buena gente y unas les contarán a otras lo del casting e irán juntas como buenas amigas. 
 
-XXX
+El casting se hace en las oficinas centrales del edificio de SimianTECH. Tras tomar sus datos, las llevarán a una sala de espera.
 
 \sp
 
-La idea es que las pruebas del casting sean bastante humillantes. SimianTECH necesita gente desesperada que acepte lo que sea.
+Allí hay más chicas como ellas buscando un curro decentemente pagado, incluso puede que haya alguna conocida con la que charrear un poco a ver que saben ellas. Increíblemente en la sala de espera hay todo tipo de lujos, desde un fastuoso catering gratuito, comodísimos sillones de vibromasaje, mesa con golosinas y chocolates, etc. 
+
+Varias chicas mágicas que han llegado antes saldrán de la sala de casting, llorando, gritando, maldiciendo o lanzando airadamente todo sus rayos mágicos contra la puerta de la sala donde están haciendo el casting.
+
+Cuando les toque las llamarán a todas juntas para entrar en la sala de casting, un gran espacio blanquísimo con una mesa con 3 personas sentadas en ella.
 
 XXX
 
-Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
+La idea es que las pruebas del casting sean bastante humillantes. XXX
+
+Por un lado, SimianTECH necesita gente desesperada que acepte lo que sea. Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
+
+\sp
 
 ### El plan de SimianTECH
 
@@ -58,11 +66,11 @@ XXX
 
 XXX
 
-\sp
-
 ### Transferencia de poderes
 
 XXX
+
+\sp
 
 ## Esto no está suficientemente bien pagado
 
@@ -111,7 +119,7 @@ Claudia quiere sentir ese rollito raro de tener que combatir con una villana y a
 
 #### Metamorfoseador
 
-Claudia quiere customizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajasima intensidad que le da a las cosas un color verduzco. Va a montar una sesión de manualidades en la mansión de su «papi» con un mntón de productos y herramientas. XXX
+Claudia quiere customizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajasima intensidad que le da a las cosas un color verduzco. Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
 
 \sp
 
