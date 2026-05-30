@@ -156,17 +156,17 @@ If the _**undead**_ detect them, they'll attack, and they'll have to leave the s
 
 #### Outside The Walker
 
-Tus jugadoras pueden acercarse al casco de _**El caminante**_ cerca de su ancla, que han dejado caer al mar. El casco está cubierto de _**percebes, lapas y mejillones**_ que pueden recolectarse.
+Your players can approach the hull of _**The Walker**_ near its anchor, which it has dropped into the sea. The hull is covered in _**barnacles, limpets, and mussels**_ that can be collected.
 
-No hay ningún tipo de prueba o reto en esta pantalla, simplemente escalar la _**cadena del ancla**_ y entrar a la _**cubierta inferior**_.
+There is no test or challenge on this screen; simply climb the _**anchor chain**_ and enter the _**lower deck**_.
 
 #### Lower deck
 
-La _**cubierta inferior**_ está llena de zombis vagando de un lado al otro. La pantalla tiene un scroll muy largo. La escotilla que han usado para entrar está a un lado de la cubierta y la escalera para subir está al otro lado.
+The _**lower deck**_ is teeming with zombies wandering back and forth. The screen has a very long scroll. The hatch they used to get in is on one side of the deck, and the ladder to climb up is on the other.
 
-Los _**zombis**_ solo dicen las típicas frases de zombi, como «Cerebro ricooooo», «Chomp chomp» o «Maaaaaaaa», y no paran de moverse aleatoriamente por toda la cubierta. 
+The _**zombies**_ only say typical zombie phrases, like "Brainyyyy," "Chomp chomp," or "Maaaaaaaa," and they keep moving randomly around the deck.
 
-Los zombis están sucios y apestosos, así que si son listos podrían embadurnarse con las _**lapas, percebes y mejillones**_ del casco y hacerse algún tipo de disfraz de algas de la _**playa**_. Con esto, los _**zombis**_ de la cubierta inferior no deberían molestarlas.
+The _**zombies**_ are filthy and smelly, so if they're clever, they could smear themselves with the _**limpets, barnacles, and mussels**_ from the hull and make some kind of algae disguise of the _**beach**_. That way, the zombies on the lower deck shouldn't bother them.
 
 #### Upper deck
 
@@ -291,13 +291,13 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Outside The Walker
 
-* **Clickable items:** Cadena del ancla
-* **Clickable items:** Percebes, lapas y mejillones
+* **Clickable items:** Anchor chain
+* **Clickable items:** Barnacles, limpets, and mussels
 * **Connections:** Beach, Lower deck
 
 #### Lower deck
 
-* **NPC:** Muchos zombis
+* **NPC:** A lot of zombies
 * **Connections:** Outside The Walker, Upper deck
 
 #### Upper deck
