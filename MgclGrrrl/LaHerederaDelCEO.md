@@ -24,7 +24,7 @@ Y cuando creas que no puede ser peor, una corporación enemiga entrará en acci�
 
 Todas las video-pantallas de todas las esquinas de la zona de Hanashi se han llenado de anuncios donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalándote con el dedo que te necesita. Debe ser alguna referencia _viejuna_ que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
 
-> «Yo te quiero a ti, Magical Girl, para un trabajo muy sencillo e increíblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH». De fondo se oye en el vídeo la música de Money, Money, Money de ABBA. [MOMENTO MUSICAL: ABBA - Money, Money, Money (Official Music Video) | https://www.youtu.be/ETxmCCsMoD0](https://www.youtu.be/ETxmCCsMoD0)
+> «Yo te quiero a ti, Magical Girl, para un trabajo muy sencillo e increíblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH». De fondo se oye en el vídeo la música de Money, Money, Money de ABBA. [MOMENTO MUSICAL: ABBA - Money, Money, Money (Official Music Video) | https://youtu.be/ETxmCCsMoD0](https://youtu.be/ETxmCCsMoD0)
 
 Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se dejan los clientes en el plato en la pizzería de debajo de su casa. Esa casa de la que seguro que la van a desahuciar por no pagar el alquiler a tiempo.
 
@@ -115,9 +115,11 @@ XXX
 
 #### Tier nuevo
 
-Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. XXX.
+Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. 
 
 \sp
+
+Pero claro, son armaduras protectoras, así que el público tendrá armas no letales (pero duelen igual) con las que atacarán a tus jugadoras. Si te sientes creativa, puede haber ametralladoras automáticas, minas antipersona en la pasarela, …
 
 Los creadores del robapoderes quieren ver si las armaduras de diferentes materiales y tecnologías afectan en algo al robo de poderes.
 
@@ -135,9 +137,11 @@ Claudia quiere sentir ese rollito raro de tener que combatir con una villana y a
 
 #### Metamorfoseador
 
-Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
+Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco.
 
 \sp
+
+Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
 
 #### Pijamada
 
