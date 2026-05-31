@@ -548,13 +548,13 @@ The _**zombies**_ are filthy and smelly, so if they're clever, they could smear 
 
 #### Upper deck
 
-La _**cubierta superior**_ está también llena de _**zombis**_, pero estos parecen más inteligentes, están haciendo tareas sencillas como barrer la cubierta o atar y desatar cabos.
+The _**upper deck**_ is also full of _**zombies**_, but these seem more intelligent, performing simple tasks like sweeping the deck or tying and untying ropes.
 
-Esta pantalla también es larga con un scroll desde la escalera que subía de la _**cubierta inferior**_ hasta la puerta del _**castillo de popa**_.
+This screen is also long, scrolling from the staircase leading up from the _**lower deck**_ to the door of the _**poop deck**_.
 
-Esta vez no bastará con ponerse los restos malolientes del marisco de casco, deberán coger algo como _**una fregona**_ o un _**cepillo**_ y limpiar el suelo o coger una _**maroma**_ y llevarlas al otro lado de la cubierta.
+This time, simply wearing the smelly remains of the hull-hulled seafood won't be enough. They'll need to grab something like a _**mop**_ or a _**brush**_ and clean the deck, or take a _**rope**_ and haul it across.
 
-Hazles pasar una tirada para engañar a los _**zombis de cubierta**_ y puedes darles positivos o negativos según su interpretación, si hacen sonidos de zombis o hablan como humanos, etc.
+Have them roll to deceive the _**deck zombies**_, and you can give them positive or negative scores depending on their performance—whether they make zombie sounds, speak like humans, etc.
 
 #### Poop deck
 
@@ -647,8 +647,8 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 
 #### Upper deck
 
-* **NPC:** Muchos zombis inteligentes
-* **Clickable items:** Maromas, Fregonas, Cepillos, Cubos de Agua, Otros objetos normales en la cubierta de un barco
+* **NPC:** A lot of smart zombies
+* **Clickable items:** Ropes, Mops, Brushes, Water cubes, Other normal objects on a upper deck
 * **Connections:** Lower deck, Poop deck
 #### Poop deck
 
