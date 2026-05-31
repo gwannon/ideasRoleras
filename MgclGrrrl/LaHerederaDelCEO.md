@@ -14,19 +14,19 @@ La heredera del CEO es una **aventura corta** para [MgclGrrrl](https://lowdensit
 
 ## Sinopsis
 
-La caprichosa heredera del CEO de SimianTECH quiere saber que se siente siendo una Magical Girl y su «papaíto» hará lo que sea para cumplir sus caprichos. Va a soltar un montón de pasta para encontrar a las Magic Girls adecuada para su hija y que estas le enseñen como es su mundo. El dinero es más del que podrías ganar en toda tu triste vida, pero no sé si merece la pena aguantar lo que vas a tener que aguantar de la niñata mimada.
+La caprichosa heredera del CEO de SimianTECH quiere saber que se siente siendo una Magical Girl y su «papaíto» hará lo que sea para cumplir sus caprichos. Va a soltar un montón de pasta para encontrar a las Magical Girls adecuada para su hija y que estas le enseñen como es su mundo. El dinero es más del que podrías ganar en toda tu triste vida, pero no sé si merece la pena aguantar lo que vas a tener que aguantar de la niñata mimada.
 
 Y cuando creas que no puede ser peor, una corporación enemiga entrará en acción para secuestrar a la hija del CEO.
 
 \sp
 
-## I want you for ...
+## I want you for …
 
 Todas las video-pantallas de todas las esquinas de la zona de Hanashi se han llenado de anuncios donde un viejo raro con barba y un sombrero de copa blanco, azul y rojo te dice señalándote con el dedo que te necesita. Debe ser alguna referencia _viejuna_ que los de marketing consideraron graciosa, pero que casi nadie pilla. Si sigues leyendo:
 
 > «Yo te quiero a ti, Magical Girl, para un trabajo muy sencillo e increíblemente bien pagado. El casting será mañana a las 11:00 en las oficinas centrales de SimianTECH». De fondo se oye en el vídeo la música de Money, Money, Money de ABBA. [MOMENTO MUSICAL: ABBA - Money, Money, Money (Official Music Video) | https://www.youtu.be/ETxmCCsMoD0](https://www.youtu.be/ETxmCCsMoD0)
 
-Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se dejan los clientes en el plato en la pizzería de debajo de su casa. Esa casa de la que seguro que la van a desahuciar por no pagar la renta a tiempo.
+Si alguna no quiere acudir al casting, recuérdale que lleva 3 noches robando los trozos de pizza que se dejan los clientes en el plato en la pizzería de debajo de su casa. Esa casa de la que seguro que la van a desahuciar por no pagar el alquiler a tiempo.
 
 ## El casting
 
@@ -38,17 +38,29 @@ El casting se hace en las oficinas centrales del edificio de SimianTECH. Tras to
 
 Allí hay más chicas como ellas buscando un curro decentemente pagado, incluso puede que haya alguna conocida con la que charrear un poco a ver que saben ellas. Increíblemente en la sala de espera hay todo tipo de lujos, desde un fastuoso catering gratuito, comodísimos sillones de vibromasaje, mesa con golosinas y chocolates, etc. 
 
-Varias chicas mágicas que han llegado antes saldrán de la sala de casting, llorando, gritando, maldiciendo o lanzando airadamente todo sus rayos mágicos contra la puerta de la sala donde están haciendo el casting.
+**Varias chicas mágicas** que han llegado antes **saldrán de la sala de casting, llorando, gritando, maldiciendo o lanzando airadamente todo sus rayos mágicos** contra la puerta de la sala donde están haciendo el casting.
 
-Cuando les toque las llamarán a todas juntas para entrar en la sala de casting, un gran espacio blanquísimo con una mesa con 3 personas sentadas en ella.
+Cuando les toque las llamarán a todas juntas para entrar en la sala de casting, un gran espacio blanquísimo con una mesa con 3 personas sentadas en ella. Parecen muy profesionales y se parecen a los 3 personajes de los Juegos del Hambre (Haymitch, Cinna y Effie). Les explicarán muy por encima de que va el curro, **acompañar a Claudia durante unos días y enseñarle la «experiencia Magical Girl»**.
 
-XXX
+Lo que si será muy largo es el contrato de confidencialidad que deberán firmar nada más empezar. Si se niegan les hablarán de su sueldo por el trabajo. Será una cantidad obscenamente alta, así que seguro que hay trampa. 
 
-La idea es que las pruebas del casting sean bastante humillantes. XXX
+Si son aceptadas y firman el contrato de trabajo, podrán leerlo antes de firmarlo. Entender lo que realmente están firmando es casi imposible (18) y aun que pudieran hacerlo, solo verán que hay algo chungo, pero no podrán ver el plan completo de SimianTECH.
 
-Por un lado, SimianTECH necesita gente desesperada que acepte lo que sea. Por lado las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden si luego no aceptan el contrato que les pongan por delante.
+La idea es que las pruebas del casting sean bastante humillantes. 
+
+* Desfilar como en un pase de modelos.
+* Pasar un detector de mentiras con preguntas humillantes y estúpidas. 
 
 \sp
+
+* Soportar que te den un tartazo en la cara.
+* Disfrazar de payaso o similar.
+* Si tus jugadoras tienen fobias, tendrán que enfrentarse a su fobia.
+* En general, piensa en esos concursos de la TV de pruebas estúpidas y humillantes en las que acabas cubiertos de pringues varios, con el pelo rapado, etc.
+
+Por un lado, SimianTECH necesita gente desesperada que acepte lo que sea. Por un lado, las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden, si luego no aceptan el contrato que les pongan por delante.
+
+Hagan lo que hagan todas serán seleccionadas, pero una tendrá un contrato de muchísimo más dinero. Un par de trajeados la meterán en una sala aparte para explicarle que va a pasarla con sus poderes. Si no quiere firmar, se lo propondrán hasta que alguna acepte.
 
 ### El plan de SimianTECH
 
@@ -56,13 +68,15 @@ Claudia, la hija del CEO, es una actriz que hace de su hija. En realidad, todo e
 
 Ninguna chica mágica se quiere prestar a que le roben los poderes, pero cedérselos temporalmente a una niña mimada por un montón de pasta es algo más aceptable moral y éticamente estando dentro del capitalismo. 
 
-XXX
+Legalmente han firmado que dejan que hagan experimentos con ellas, aunque lo esconden como que darán una experiencia teatral a Claudia.
 
-### Firmando con el diablo
-
-XXX
+\sp
 
 ## Conociendo a Claudia
+
+Tras firmar con SimianTECH, le darán un jugoso adelanto y les dejarán una libre para disfrutarlo. Así que pueden hacer una noche loca de chicas en la ciudad con dinero para gastar a mansalva.
+
+Con una resaca del carajo, tendrán que levantarse al día siguiente para a las oficinas de SimianTECH para empezar a trabajar.
 
 XXX
 
@@ -101,9 +115,11 @@ XXX
 
 #### Tier nuevo
 
-Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. XXX. Los creadores del robapoderes quieren ver si las armaduras de diferentes materiales y tecnologías afectan en algo al robo de poderes.
+Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. XXX.
 
 \sp
+
+Los creadores del robapoderes quieren ver si las armaduras de diferentes materiales y tecnologías afectan en algo al robo de poderes.
 
 #### Patear culos de minions
 
@@ -119,7 +135,7 @@ Claudia quiere sentir ese rollito raro de tener que combatir con una villana y a
 
 #### Metamorfoseador
 
-Claudia quiere customizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajasima intensidad que le da a las cosas un color verduzco. Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
+Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
 
 \sp
 
@@ -133,7 +149,7 @@ El objetivo de esta parte es, por un lado, que le cojan ojeriza a Claudia y cuan
 
 Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
-> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras, poses por el día, pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
+> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
 
 \sp
 

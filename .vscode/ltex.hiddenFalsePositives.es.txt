@@ -442,3 +442,13 @@
 {"rule":"CAPITALIZATION_AFTER_QUESTION_MARK","sentence":"^\\QTendrán que gritar cosas como «¡Por los Voyitos™ de canela!» o «¡Todo sea por conseguir purpurina eco-friendly!».\\E$"}
 {"rule":"SUBJUNTIVO_INCORRECTO","sentence":"^\\QQuizas un megamonstruo mitad abeja, mitad aspiradora, se acerque al edificio de GoreTech donde ha aparecido una pintada gigante de una flor.\\E$"}
 {"rule":"VERBO_MODAL_INFINITIVO","sentence":"^\\QTras todas las batallas de «Djinn de fuego» con el megamonstruo de cada semana, un grupo de chicas mágicas de bajo poder tiene que recogerlo todo, limpiarlo y reparar los daños.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe fondo se oye en el vídeo la música de Money, Money, Money de ABBA.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QI want you for ...\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QABBA - Money, Money, Money (Official Music Video) | https://www.youtu.be/ETxmCCsMoD0\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDolly Parton - 9 To 5 (Official Video) | https://youtu.be/UbxUSsFXYo4\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNightcall | https://youtu.be/LfgNorryffc&t=78s\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QContra PowerStealer\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEnemies-to-lovers\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Hacer una pose de conjunto 5 Día de SPA con tu coleguita\n2 Crear una superarma 6 Enemies-to-lovers\n3 Tier nuevo 7 Metamorfoseador\n4 Patear culos de minions 8 Pijamada\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QI want you for …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QParecen muy profesionales y se parecen a los 3 personajes de los Juegos del Hambre (Haymitch, Cinna y Effie).\\E$"}
