@@ -652,13 +652,13 @@ Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will 
 * **Connections:** Lower deck, Poop deck
 #### Poop deck
 
-* **NPC:** Primero de a bordo zombi
-* **Clickable items:** Voodoo dolls, Cabezas reducidas parlantes, Vitrina de exposición
+* **NPC:** Zombie Chief Officer
+* **Clickable items:** Voodoo dolls, Talking shrunken heads, Display case
 * **Connections:** Upper deck, DraChuckla's Cabin
 
 #### DraChuckla's Cabin
 
-* **NPC:** DraChuckla, Governor Marlon, Primero de a bordo zombi
+* **NPC:** DraChuckla, Governor Marlon, Zombie Chief Officer
 * **Clickable items:** Pipe organ
 * **Connections:** Poop deck
 
