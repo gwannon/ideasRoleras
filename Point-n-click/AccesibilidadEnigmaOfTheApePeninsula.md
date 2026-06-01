@@ -558,15 +558,15 @@ Have them roll to deceive the _**deck zombies**_, and you can give them positive
 
 #### Poop deck
 
-El castillo de popa es una estancia que hace las veces de almacén de trastos, mapas, herramientas de navegación, trofeos varios y toda la parafernalia vudú de DraChuckla como _**cabezas reducidas parlantes**_ o los _**muñecos vudú**_ de tus jugadoras. En una esquina hay un camastro para el _**primer oficial zombi**_ y un baúl donde están sus cosas. 
+The poop check is a room that serves as a storage area for odds and ends, maps, navigational tools, various trophies, and all of DraChuckla's voodoo paraphernalia, such as talking shrunken heads and your players' voodoo dolls. In one corner, there's a bunk for the zombie _**Chief Officer**_ and a trunk containing his belongings.
 
-La misión en esta pantalla es coger los _**muñecos vudú**_ para que cuando _**DraChuckla**_ quiera usarlos no pueda. Los muñecos están en una _**vitrina de exposición con cerrojo**_ con otros objetos vudús. El problema es que cuando intentas abrir la _**vitrina**_, _**3 cabezas reducidas parlantes**_ que hay encima de la _**vitrina**_ empiezan a chillar y todo se llena de zombis, con lo que tus jugadoras se tiran al agua por una escotilla para escapar.
-Puede hacerse de varias maneras.
+The mission on this screen is to collect the _**voodoo dolls**_ so that when _**DraChuckla**_ wants to use them, he can't. The dolls are in a _**locked display case**_ with other voodoo objects. The problem is that when you try to open the _**display case**_, _**3 talking shrunken heads**_ on top of it start shrieking, and the whole place is swarmed with zombies, forcing your players to jump into the water through a hatch to escape.
+There are several ways to do this.
 
-* La más sencilla es coger las cabezas (tendrán que coger una cada vez) porque al momento el resto se ponen a gritar y aparecen los zombis. Cuando tengan todas, podrán abrir la _**vitrina**_ sin que suene ninguna alarma.
-* Podrían hacer sonar las alarmas montones de veces y largarse rápidamente antes de que les vean. De esta manera, el _**primero de abordo**_ terminará hartándose y quitando las _**cabezas**_ para que no griten. Pon un número de falsas alarmas y hasta que no lo completen no las quitará el _**primero de abordo**_.
+* The easiest way is to take the heads (they'll have to take one at a time) because the rest will immediately start screaming and the zombies will appear. Once they have them all, they can open the _**display case**_ without setting off any alarms.
+* They could set off the alarms repeatedly and then quickly leave before they're seen. This way, the _**Chief Officer**_ will eventually get fed up and remove the _**heads**_ to stop the screaming. Set a number of false alarms, and the _**Chief Officer**_ won't remove them until they reach that number.
 
-Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si tocan propias _**cabezas**_, también dan la alarma.
+Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si se tocan las propias _**cabezas**_, también dan la alarma.
 
 Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y enfrentarse a él sin miedo.
 
