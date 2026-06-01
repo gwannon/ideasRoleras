@@ -452,3 +452,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q1 Hacer una pose de conjunto 5 Día de SPA con tu coleguita\n2 Crear una superarma 6 Enemies-to-lovers\n3 Tier nuevo 7 Metamorfoseador\n4 Patear culos de minions 8 Pijamada\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QI want you for …\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QParecen muy profesionales y se parecen a los 3 personajes de los Juegos del Hambre (Haymitch, Cinna y Effie).\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSoportar que te den un tartazo en la cara.\\E$"}

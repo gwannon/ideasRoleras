@@ -44,7 +44,7 @@ Cuando les toque las llamarán a todas juntas para entrar en la sala de casting,
 
 Lo que si será muy largo es el contrato de confidencialidad que deberán firmar nada más empezar. Si se niegan les hablarán de su sueldo por el trabajo. Será una cantidad obscenamente alta, así que seguro que hay trampa. 
 
-Si son aceptadas y firman el contrato de trabajo, podrán leerlo antes de firmarlo. Entender lo que realmente están firmando es casi imposible (18) y aun que pudieran hacerlo, solo verán que hay algo chungo, pero no podrán ver el plan completo de SimianTECH.
+Si son aceptadas y firman el contrato de trabajo, podrán leerlo antes de firmarlo. Entender lo que realmente están firmando es casi imposible (18) y aunque pudieran hacerlo, solo verán que hay algo chungo, pero no podrán ver el plan completo de SimianTECH.
 
 La idea es que las pruebas del casting sean bastante humillantes. 
 
@@ -68,7 +68,7 @@ Claudia, la hija del CEO, es una actriz que hace de su hija. En realidad, todo e
 
 Ninguna chica mágica se quiere prestar a que le roben los poderes, pero cedérselos temporalmente a una niña mimada por un montón de pasta es algo más aceptable moral y éticamente estando dentro del capitalismo. 
 
-Legalmente han firmado que dejan que hagan experimentos con ellas, aunque lo esconden como que darán una experiencia teatral a Claudia.
+Legalmente, han firmado que dejan que hagan experimentos con ellas, aunque lo esconden como que darán una experiencia teatral a Claudia.
 
 \sp
 
@@ -84,6 +84,8 @@ XXX
 
 XXX
 
+> Si ya has jugado con tus jugadoras antes y alguna no está muy contenta con sus poderes, es la candidata perfecta para que le roben sus poderes y le dé unos nuevos cibernéticos. Al final, podrá quedarse con los nuevos poderes, si le gustan, o recuperar los suyos anteriores.  
+
 \sp
 
 ## Esto no está suficientemente bien pagado
@@ -96,14 +98,14 @@ Claudia quiere hacer una serie de actividades con los poderes de Magical Girl qu
 
 En realidad Claudia, no elige nada. Le han pasado un guion desde el departamento de testeo y calidad de SimianTECH con actividades para testar sus nuevos poderes y si el sistema de robo de poderes funciona bien o falla en situaciones de estrés.
 
-\sp
-
 |1d8|Actividad|1d8|Actividad|
 |---|---|---|---|
 |1|Hacer una pose de conjunto|5|Día de SPA con tu coleguita|
 |2|Crear una superarma|6|Enemies-to-lovers|
 |3|Tier nuevo|7|Metamorfoseador|
 |4|Patear culos de minions|8|Pijamada|
+
+\sp
 
 #### Hacer una pose de conjunto
 
@@ -117,35 +119,51 @@ XXX
 
 Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. 
 
-\sp
-
 Pero claro, son armaduras protectoras, así que el público tendrá armas no letales (pero duelen igual) con las que atacarán a tus jugadoras. Si te sientes creativa, puede haber ametralladoras automáticas, minas antipersona en la pasarela, …
 
 Los creadores del robapoderes quieren ver si las armaduras de diferentes materiales y tecnologías afectan en algo al robo de poderes.
 
+\sp
+
 #### Patear culos de minions
 
-XXX
+Claudia quiere sentirse una chica mágica de pleno derecho y eso se consigue pateando culos de minions. Así que a transformarse y a ir a buscar a algún grupo de minions que no sepa la que les espera.
+
+Quizás esta se la prueba más sencilla, pero es importantísima para evaluar los niveles de poder antes y después del robo de poderes y ver si hay perdida al robarlos. Los técnicos de SimianTECH podrían preparar un par de oleadas de minions que se enfrenten a tus jugadoras y seguramente que alguna sorpresa durante otra de las actividades.
 
 #### Día de SPA con tu coleguita
 
-El día de SPA es para Claudia y su coleguita, para el resto de jugadoras es día de aguantar sus caprichos mientras ellas reciben masajes. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA. XXX
+El día de SPA es para Claudia y su coleguita (su mascota de magical girl), para el resto de las jugadoras, es día de aguantar sus caprichos mientras ellas reciben masajes y tratamientos. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA, pero a no ser que la líen parda, no han descubrirán las pruebas de que están haciendo.
+
+Los tratamientos de algas, vino, chocolate, tratan de probar diferentes productos con tus jugadoras y usan las saunas, piscinas termales y las cámaras de privación sensorial para ver si pueden cortar de alguna manera su relación con su mascota. Sería una forma interesante de privar de poderes a una chica mágica y además haría más fácil el robo de poderes de ciertas personas.
+
+\sp
+
+> Si hay alguna jugadora a la que le pirran los lujos y se está dejando seducir demasiado por lo que le ofrece SimianTECH, podrías hacer que se convierta en la BBF para esta actividad y que reciba las mismas atenciones que ella, mientras sus compis trabajan. Un poco de dramita entre jugadoras siempre es bueno.
 
 #### Enemies-to-lovers
 
 Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX
 
+Los minions no sirven para probar los poderes al máximo o, incluso, por encima de sus límites. Solo un buen combate contra una villana puede servir. Si ya han jugado antes alguna partida saca a una villana a la que le partieron la cara y a ver como se las ingenian. Si no puedes crear una, fácilmente con las reglas de creación de villanas.
+
+Igual se percatan durante la pelea de gente con cámaras grabando las peleas y furgonetas nada sospechosas con extrañas antenas y sensores en el techo.
+
+> Otra opción interesante es que una de tus jugadoras se haga la enferma, se ponga un disfraz y sea la villana a batir. Es otra fuente de drama si el enemies-to-lovers se les va de las manos.
+
 #### Metamorfoseador
 
-Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco.
-
-\sp
+Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. 
 
 Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
+
+La realidad es que esta actividad es una prueba para XXX
 
 #### Pijamada
 
 Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia». Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma.
+
+\sp
 
 La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. XXX|
 
@@ -155,9 +173,9 @@ Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo
 
 > Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
 
-\sp
-
 Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
+
+\sp
 
 ## Esos tipos de negro se están llevando a Claudia
 
@@ -175,8 +193,6 @@ XXX
 
 XXX
 
-\sp
-
 ## Quiero mis poderes y los quiero ahora
 
 XXX [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
@@ -184,6 +200,8 @@ XXX [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://yo
 ### Contra PowerStealer
 
 XXX
+
+\sp
 
 ## Separación de poderes
 
