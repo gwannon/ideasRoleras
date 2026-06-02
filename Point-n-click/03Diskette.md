@@ -191,13 +191,13 @@ There are several ways to do this.
 * The easiest way is to take the heads (they'll have to take one at a time) because the rest will immediately start screaming and the zombies will appear. Once they have them all, they can open the _**display case**_ without setting off any alarms.
 * They could set off the alarms repeatedly and then quickly leave before they're seen. This way, the _**Chief Officer**_ will eventually get fed up and remove the _**heads**_ to stop the screaming. Set a number of false alarms, and the _**Chief Officer**_ won't remove them until they reach that number.
 
-Por si tienen alguna idea genial y/o mirando su equipo inventan algún tipo de artilugio para robar los muñecos, debes tener en cuenta que si tocan el _**cerrojo**_, las _**cabezas**_ dan la alarma y si se tocan las propias _**cabezas**_, también dan la alarma.
+In case you have any brilliant ideas or, while looking at your equipment, invent some kind of contraption to steal the dolls, keep in mind that if you touch the _**lock**, the _**heads**_ will trigger the alarm, and if you touch the _**heads**_ themselves, they will also trigger the alarm.
 
-Con los muñecos en su poder podrán entrar en el _**camarote de DraChuckla**_ y enfrentarse a él sin miedo.
+With the dolls in your possession, you can enter _**DraChuckla's cabin**_ and face him without fear.
 
 ### 3. Damn vampirate dies!
 
-Esta escena es la batalla final contra el terrible _**DraChuckla**_. La batalla es un duelo de ingenio y habilidad sin parangón que pondrá a prueba todas las capacidades de tus jugadoras ... Qué va, mentira. Va a ser una cinemática chusca y pista, que los disquetes están caros.
+This scene is the final battle against the terrible _**DraChuckla**_. The battle is an unparalleled duel of wit and skill that will test all your players' abilities... Just kidding. It's going to be a silly cinematic scene, and that's it, floppy disks are expensive.
 
 #### DraChuckla's Cabin
 
@@ -209,9 +209,9 @@ Aquí empezará la batalla entre jugadoras y el temible capitán DraChuckla. Pue
 
 Si quieres pueden quitar el monólogo y poner un diálogo con zascas entre DraChuckla y tus jugadoras. Si le dan buenas réplicas, se irá enfadando y acercando hasta ponerse cerca y poder sacar la _**cruz**_.
 
-Otra opción tremendamente insatisfactoria, es que tengan que sacar la cruz en el momento justo. Si lo sacan antes de tiempo, DraChuckla saldrá volando sin haberlo podido matar. Si lo hacen demasiado tarde, se cubrirá con su capa y les quitará la cruz de un manotazo para proceder a convertirlas en sus esclavos zombis.
-
 \sp
+
+Otra opción tremendamente insatisfactoria, es que tengan que sacar la cruz en el momento justo. Si lo sacan antes de tiempo, DraChuckla saldrá volando sin haberlo podido matar. Si lo hacen demasiado tarde, se cubrirá con su capa y les quitará la cruz de un manotazo para proceder a convertirlas en sus esclavos zombis.
 
 ### 4. Final Scene
 
