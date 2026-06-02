@@ -116,7 +116,7 @@ Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero cla
 
 XXX
 
-Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
+Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla contra todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
 
 
 Como Magical Girl una de las cosas que puedes hacer es crear una superarma con tus compañeras y, claro, los del departamento de ciencias necesitan probar su tecnología robapoderes en esa situación y si afecta a la creación de superarmas. El campo de tiro está lleno de sensores que miran la potencia de la superarma, la cadencia de fuego y esas chorradas de los locos de las armas. Claudia está avisada de que trate de que se lleve al límite a la superarma para poder estudiarla lo mejor posible.
@@ -183,8 +183,6 @@ La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posi
 
 La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. Si no sospechan nada la tecnología robapoderes va a permitir a Claudia tener los poderes todas tus jugadoras.
 
-> Por darle un toque divertido, puedes hacer que se equivoquen y al devolver los poderes los intercambie entre alguna de tus jugadoras.
-
 El objetivo de esta parte es, por un lado, que le cojan ojeriza a Claudia y cuando más adelante la secuestren, tengan que ser buenas personas y rescatarla, pero a regañadientes.
 
 Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
@@ -192,6 +190,8 @@ Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo
 > Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
 
 Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
+
+> Por darle un poco más loco, puedes hacer que se equivoquen y al devolver los poderes los intercambie entre alguna de tus jugadoras. Ten en cuenta que esto debería ser una _red flag_ muy evidente de que algo raro está haciendo SimianTECH y Claudia.
 
 
 ## Esos tipos de negro se están llevando a Claudia
@@ -214,7 +214,10 @@ XXX
 
 XXX [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
 
+
 ### Contra PowerStealer
+
+Llegados a este punto, la gente de SimianTECH solo le queda sacar a PowerStealer y que acabe con tus jugadoras. Unos de los científicos pulsará un botón rojo gigante, empezarán a sonar alarmas y se abrirá la puerta metálica de una gran cámara echando todo tipo de vapores y saldrá PowerStealer de entre el humo. [MOMENTO MUSICAL: Ultraman Z Theme Song MV | English Lyrics | https://youtu.be/GbnLHqWj9DI](https://youtu.be/GbnLHqWj9DI)
 
 XXX
 

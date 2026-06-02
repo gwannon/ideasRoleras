@@ -125,7 +125,7 @@ Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero cla
 
 XXX
 
-Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
+Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla contra todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
 
 \sp
 
@@ -229,7 +229,11 @@ XXX
 
 XXX [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
 
+\sp
+
 ### Contra PowerStealer
+
+Llegados a este punto, la gente de SimianTECH solo le queda sacar a PowerStealer y que acabe con tus jugadoras. Unos de los científicos pulsará un botón rojo gigante, empezarán a sonar alarmas y se abrirá la puerta metálica de una gran cámara echando todo tipo de vapores y saldrá PowerStealer de entre el humo. [MOMENTO MUSICAL: Ultraman Z Theme Song MV | English Lyrics | https://youtu.be/GbnLHqWj9DI](https://youtu.be/GbnLHqWj9DI)
 
 XXX
 
