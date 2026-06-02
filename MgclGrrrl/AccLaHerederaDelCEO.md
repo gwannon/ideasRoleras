@@ -210,10 +210,14 @@ XXX
 
 XXX
 
+
 ## Quiero mis poderes y los quiero ahora
+
+Tras la confesión de Claudia, solo queda ir a las oficinas de SimianTECH y obligarles a que devuelvan los poderes robados.
 
 XXX [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
 
+> Si tus jugadoras son de negociar, cosa que sinceramente no creo, pero a veces pasa, puedes meterles en un laberinto burocrático de visitar y hablar con gente de todos los niveles y todos los departamentos. En algún momento se hartarán de que les toreen y dejarán la vía del diálogo y empezarán la vía de la violencia que es lo que queremos todos.
 
 ### Contra PowerStealer
 
