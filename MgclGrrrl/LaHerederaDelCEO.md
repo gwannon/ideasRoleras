@@ -125,11 +125,15 @@ Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero cla
 
 XXX
 
+Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
+
+\sp
+
+Como Magical Girl una de las cosas que puedes hacer es crear una superarma con tus compañeras y, claro, los del departamento de ciencias necesitan probar su tecnología robapoderes en esa situación y si afecta a la creación de superarmas. El campo de tiro está lleno de sensores que miran la potencia de la superarma, la cadencia de fuego y esas chorradas de los locos de las armas. Claudia está avisada de que trate de que se lleve al límite a la superarma para poder estudiarla lo mejor posible.
+
 #### Tier nuevo
 
 Claudia se siente diva de la moda y quiere nuevos uniformes para todas. Y claro, no podía hacerlo con normalidad en algún lugar privado, tenía que montar un pase de modelos con todas las de la ley. 
-
-\sp
 
 Pero claro, son armaduras protectoras, así que el público tendrá armas no letales (pero duelen igual) con las que atacarán a tus jugadoras. Si te sientes creativa, puede haber ametralladoras automáticas, minas antipersona en la pasarela, …
 
@@ -141,43 +145,57 @@ Claudia quiere sentirse una chica mágica de pleno derecho y eso se consigue pat
 
 Quizás esta se la prueba más sencilla, pero es importantísima para evaluar los niveles de poder antes y después del robo de poderes y ver si hay perdida al robarlos. Los técnicos de SimianTECH podrían preparar un par de oleadas de minions que se enfrenten a tus jugadoras y seguramente que alguna sorpresa durante otra de las actividades.
 
+\sp
+
 #### Día de SPA con tu coleguita
 
 El día de SPA es para Claudia y su coleguita (su mascota de magical girl), para el resto de las jugadoras, es día de aguantar sus caprichos mientras ellas reciben masajes y tratamientos. La realidad es que SimianTECH está probando si el robo de poderes se puede ver afectado porque la chica mágica tenga o no un coleguita. El SPA es en realidad un laboratorio encubierto y las diferentes experiencias son en realidad pruebas y tests. Tu jugadora pueden notar algo raro e investigar el SPA, pero a no ser que la líen parda, no han descubrirán las pruebas de que están haciendo.
 
-\sp
-
 Los tratamientos de algas, vino, chocolate, tratan de probar diferentes productos con tus jugadoras y usan las saunas, piscinas termales y las cámaras de privación sensorial para ver si pueden cortar de alguna manera su relación con su mascota. Sería una forma interesante de privar de poderes a una chica mágica y además haría más fácil el robo de poderes de ciertas personas.
 
-> Si hay alguna jugadora a la que le pirran los lujos y se está dejando seducir demasiado por lo que le ofrece SimianTECH, podrías hacer que se convierta en la BBF para esta actividad y que reciba las mismas atenciones que ella, mientras sus compis trabajan. Un poco de dramita entre jugadoras siempre es bueno.
+> Si hay alguna jugadora a la que le pirran los lujos y se está dejando seducir demasiado por lo que le ofrece SimianTECH, podrías hacer que se convierta en la BBF para esta actividad y que reciba las mismas atenciones que ella, mientras sus compis trabajan. Un poco de «dramita» entre jugadoras siempre es bueno.
 
 #### Enemies-to-lovers
 
-Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico por ella. XXX
-
-Los minions no sirven para probar los poderes al máximo o, incluso, por encima de sus límites. Solo un buen combate contra una villana puede servir. Si ya han jugado antes alguna partida saca a una villana a la que le partieron la cara y a ver como se las ingenian. Si no puedes crear una, fácilmente con las reglas de creación de villanas.
-
-Igual se percatan durante la pelea de gente con cámaras grabando las peleas y furgonetas nada sospechosas con extrañas antenas y sensores en el techo.
-
-> Otra opción interesante es que una de tus jugadoras se haga la enferma, se ponga un disfraz y sea la villana a batir. Es otra fuente de drama si el enemies-to-lovers se les va de las manos.
+Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico/sexual por ella. 
 
 \sp
+
+Así que toca sacarse una villana de la manga. Si ya han jugado antes alguna partida de MgclGrrrl, pueden recurrir a una villana a la que le partieron la cara. Si no puedes crear una, fácilmente con las reglas de creación de villanas.
+
+El tema es que la villana igual tiene otros planes y no está disponible. Déjalas que se busquen la vida para encontrarla y hacer que pelee con ella. Y claro que se fije en Claudia y le dé algo de juego romántico.
+
+También pueden contratar a alguien o cobrarse algún favor, alguna villana retirada o reformada podría volver de su retiro para esta actividad.
+
+Pero seguramente la opción que escogerán tus jugadoras es que una de tus jugadoras se haga la enferma, se ponga un disfraz y sea la villana a batir. Es otra fuente de drama si el _enemies-to-lovers_ se les va de las manos.
+
+Desde el departamento científico tienen claro que los minions no sirven para probar los poderes al máximo o, incluso, por encima de sus límites. Solo un buen combate contra una villana puede servir.
+
+Como en otras actividades, igual se percatan durante la pelea de gente con cámaras grabando las peleas y furgonetas nada sospechosas con extrañas antenas y sensores en el techo. Pero igual son furgonetas de los medios cubriendo la pelea como ya han visto otras veces.
 
 #### Metamorfoseador
 
 Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. 
 
-Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. XXX
+\sp
 
-La realidad es que esta actividad es una prueba para XXX
+Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. Y claro tras personalizar los metamorfoseadores hay que probarlos. Claudia lo va a convertir en un concurso, elegirá la personalización + transformación más chula y le regalará un cheque regalo de SimianTECH.
+
+Por eso no hay nadie más en la habitación, para que las identidades no se vean comprometidas. Lo bueno es que hay catering del caro y barra libre de mimosas (qué vicio tiene Claudia con los mimosas).
+
+La realidad es que esta actividad, como todas las otras actividades, es una prueba para el departamento científico y esta vez van a testar los metamorfoseadores y si les afecta el robapoderes. Lo de las manualidades era una simple excusa de la gente de marketing que luego los de ciencias decidieron aprovechar metiendo uranio, oricalco, kriptonita roja y verde para la purpurina, ...
 
 #### Pijamada
 
-Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia». Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma.
+Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia».
+
+Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma. No es la pija consentida que ven normalmente, sino que es alguien más cercano a ellas con sus mierdas y traumas.
+
+La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas.
 
 \sp
 
-La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas. La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. XXX
+La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. Si no sospechan nada la tecnología robapoderes va a permitir a Claudia tener los poderes todas tus jugadoras.
 
 El objetivo de esta parte es, por un lado, que le cojan ojeriza a Claudia y cuando más adelante la secuestren, tengan que ser buenas personas y rescatarla, pero a regañadientes.
 
@@ -186,6 +204,8 @@ Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo
 > Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
 
 Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
+
+> Por darle un poco más loco, puedes hacer que se equivoquen y al devolver los poderes los intercambie entre alguna de tus jugadoras. Ten en cuenta que esto debería ser una _red flag_ muy evidente de que algo raro está haciendo SimianTECH y Claudia.
 
 \sp
 

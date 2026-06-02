@@ -453,3 +453,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QI want you for …\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QParecen muy profesionales y se parecen a los 3 personajes de los Juegos del Hambre (Haymitch, Cinna y Effie).\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSoportar que te den un tartazo en la cara.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEs otra fuente de drama si el enemies-to-lovers se les va de las manos.\\E$"}
