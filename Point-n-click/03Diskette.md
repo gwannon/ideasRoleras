@@ -205,13 +205,15 @@ _**DraChuckla**_ awaits them, playing one of his terribly tetrical musical piece
 
 When they enter, he will call his _**zombie Chief Officer**_ to bring them the _**voodoo dolls**_ and finish off your players, but if they have done  good job previously, the _*Chief Officer**_ will appear and say, "My lord, the dolls are not here."
 
-Aquí empezará la batalla entre jugadoras y el temible capitán DraChuckla. Puedes enfocarlo como quieras, pero la idea que te ofrecemos es que sea una especie de cinemática donde DraChuckla se acerca a tus jugadoras soltando amenazas tipo «Voy a chuparos la sangre» o «Me daré un festín con vuestra vitae». Ellas sacarán la _**cruz de Coronado**_ que empieza a brillar. La luz que emite la _**cruz**_ quema al vampiro que empieza a convertirse en cenizas y muere. 
+Here begins the battle between the players and the fearsome Captain DraChuckla. You can approach it however you like, but our suggestion is a cinematic sequence where DraChuckla approaches your players, uttering threats like "I'm going to suck your blood" or "I'll feed with your vitae." They will then draw the _**Cross of Coronado**_, which begins to glow. The light emitted by the _**cross**_ burns the vampire, who turns to ash and dies.
 
-Si quieres pueden quitar el monólogo y poner un diálogo con zascas entre DraChuckla y tus jugadoras. Si le dan buenas réplicas, se irá enfadando y acercando hasta ponerse cerca y poder sacar la _**cruz**_.
+If you prefer, you can remove the monologue and add a dialogue with witty comebacks between DraChuckla and your players. If they deliver effective retorts, he will become increasingly enraged and close in until he is able to draw the _**cross**_.
 
 \sp
 
-Otra opción tremendamente insatisfactoria, es que tengan que sacar la cruz en el momento justo. Si lo sacan antes de tiempo, DraChuckla saldrá volando sin haberlo podido matar. Si lo hacen demasiado tarde, se cubrirá con su capa y les quitará la cruz de un manotazo para proceder a convertirlas en sus esclavos zombis.
+Another incredibly frustrating option is that they have to pull out the cross at the exact right moment. If they pull it out too early, DraChuckla will fly away without them having been able to kill him.
+
+If they do it too late, he'll cover himself with his cloak and snatch the cross away with a single blow, proceeding to turn them into his zombie slaves.
 
 ### 4. Final Scene
 
@@ -223,9 +225,9 @@ There will be music, parties, dancing, and grog galore, culminating in fireworks
 
 Suddenly, the screen will shift back to DraChuckla's cabin where his ashes will begin to glow while ghostly organ music plays, before transitioning to the adventure's credits and a «The End».
 
-> If your players ask you at the end of the adventure what the enigma of the Ape Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
-
 \sc
+
+> If your players ask you at the end of the adventure what the enigma of the Ape Peninsula is, you can tell them that the enigma is that it is actually an island, something that was already mentioned in the introduction of the adventure.
 
 \sp
 

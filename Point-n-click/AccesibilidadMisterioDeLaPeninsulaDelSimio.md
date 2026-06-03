@@ -588,9 +588,9 @@ Cuando entren, llamará a su _**primero de a bordo zombi**_ para que les traiga 
 
 Aquí empezará la batalla entre jugadoras y el temible capitán DraChuckla. Puedes enfocarlo como quieras, pero la idea que te ofrecemos es que sea una especie de cinemática donde DraChuckla se acerca a tus jugadoras soltando amenazas tipo «Voy a chuparos la sangre» o «Me daré un festín con vuestra vitae». Ellas sacarán la _**cruz de Coronado**_ que empieza a brillar. La luz que emite la _**cruz**_ quema al vampiro que empieza a convertirse en cenizas y muere. 
 
-Si quieres pueden quitar el monólogo y poner un diálogo con zascas entre DraChuckla y tus jugadoras. Si le dan buenas réplicas, se irá enfadando y acercando hasta ponerse cerca y poder sacar la _**cruz**_.
+Si quieres, pueden quitar el monólogo y poner un diálogo con zascas entre DraChuckla y tus jugadoras. Si le dan buenas réplicas, se irá enfadando y acercando hasta ponerse cerca y poder sacar la _**cruz**_.
 
-Otra opción tremendamente insatisfactoria, es que tengan que sacar la cruz en el momento justo. Si lo sacan antes de tiempo, DraChuckla saldrá volando sin haberlo podido matar. Si lo hacen demasiado tarde, se cubrirá con su capa y les quitará la cruz de un manotazo para proceder a convertirlas en sus esclavos zombis.
+Otra opción tremendamente insatisfactoria es que tengan que sacar la cruz en el momento justo. Si lo sacan antes de tiempo, DraChuckla saldrá volando sin haberlo podido matar. Si lo hacen demasiado tarde, se cubrirá con su capa y les quitará la cruz de un manotazo para proceder a convertirlas en sus esclavos zombis.
 ### 4. Secuencia final
 
 Tras acabar con DraChuckla y liberar al gobernador, podrán volver a Bucan Ville donde serán recibidos como heroínas por la gente de la ciudad. Si han recogido algo de tesoro, también volverán ricas.
@@ -664,7 +664,7 @@ De repente la pantalla pasará de nuevo al camarote de DraChuckla donde sus ceni
 
 #### Camarote de DraChuckla
 
-* **PNJ:** DraChuckla, Gobernador Marlon, Ayudante zombi
+* **PNJ:** DraChuckla, Gobernador Marlon, Primero de a bordo zombi
 * **Elementos clicables:** Órgano
 * **Conexiones:** Castillo de popa
 
