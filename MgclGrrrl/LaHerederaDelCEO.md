@@ -92,6 +92,8 @@ Las invitará a disfrutar del brunch mientras ella se prepara para salir y al de
 
 XXX
 
+XXX HABLAR DE SI TIENEN QUE IR TRANSFORMADAS O NO 
+
 > Si ya has jugado con tus jugadoras antes y alguna no está muy contenta con sus poderes, es la candidata perfecta para que le roben sus poderes y le des unos nuevos cibernéticos. Al final, podrá quedarse con los nuevos poderes, si le gustan, o recuperar los suyos anteriores.  
 
 \sp
@@ -123,11 +125,13 @@ Claudia quiere hacer una pose de grupo con el resto de chicas mágicas. Pero cla
 
 #### Crear una superarma
 
-XXX
+El día empezará con un viaje en hover-limusina rosa de superlujo con buffet, champán fresquito, techo solar, etc. Parece que tus jugadoras están más de fiesta que trabajando. Tras un rato de viaje llegarán a la zona de La Campiña, a una especie de medio campo de tiro y zona de combate de airsoft.
 
-Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla contra todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
+Dentro de la experiencia magical girl toda probar lo de las superarmas creadas a partir de la combinación de varias armas mágicas. 
 
 \sp
+
+Claudia estará entusiasmada con el rollito de la superarma y querrá dispararla contra todo lo que se pueda antes de que se agote. Ha dispuesto muchos tipos de objetivos en el campo de tiro, desde coches, hasta furgones blindados, depósitos de agua o un viejo tanque de la «Extraña III Guerra Mundial».
 
 Como Magical Girl una de las cosas que puedes hacer es crear una superarma con tus compañeras y, claro, los del departamento de ciencias necesitan probar su tecnología robapoderes en esa situación y si afecta a la creación de superarmas. El campo de tiro está lleno de sensores que miran la potencia de la superarma, la cadencia de fuego y esas chorradas de los locos de las armas. Claudia está avisada de que trate de que se lleve al límite a la superarma para poder estudiarla lo mejor posible.
 
@@ -143,9 +147,9 @@ Los creadores del robapoderes quieren ver si las armaduras de diferentes materia
 
 Claudia quiere sentirse una chica mágica de pleno derecho y eso se consigue pateando culos de minions. Así que a transformarse y a ir a buscar a algún grupo de minions que no sepa la que les espera.
 
-Quizás esta se la prueba más sencilla, pero es importantísima para evaluar los niveles de poder antes y después del robo de poderes y ver si hay perdida al robarlos. Los técnicos de SimianTECH podrían preparar un par de oleadas de minions que se enfrenten a tus jugadoras y seguramente que alguna sorpresa durante otra de las actividades.
-
 \sp
+
+Quizás esta se la prueba más sencilla, pero es importantísima para evaluar los niveles de poder antes y después del robo de poderes y ver si hay perdida al robarlos. Los técnicos de SimianTECH podrían preparar un par de oleadas de minions que se enfrenten a tus jugadoras y seguramente que alguna sorpresa durante otra de las actividades.
 
 #### Día de SPA con tu coleguita
 
@@ -155,11 +159,11 @@ Los tratamientos de algas, vino, chocolate, tratan de probar diferentes producto
 
 > Si hay alguna jugadora a la que le pirran los lujos y se está dejando seducir demasiado por lo que le ofrece SimianTECH, podrías hacer que se convierta en la BBF para esta actividad y que reciba las mismas atenciones que ella, mientras sus compis trabajan. Un poco de «dramita» entre jugadoras siempre es bueno.
 
+\sp
+
 #### Enemies-to-lovers
 
 Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico/sexual por ella. 
-
-\sp
 
 Así que toca sacarse una villana de la manga. Si ya han jugado antes alguna partida de MgclGrrrl, pueden recurrir a una villana a la que le partieron la cara. Si no puedes crear una, fácilmente con las reglas de creación de villanas.
 
@@ -173,11 +177,11 @@ Desde el departamento científico tienen claro que los minions no sirven para pr
 
 Como en otras actividades, igual se percatan durante la pelea de gente con cámaras grabando las peleas y furgonetas nada sospechosas con extrañas antenas y sensores en el techo. Pero igual son furgonetas de los medios cubriendo la pelea como ya han visto otras veces.
 
+\sp
+
 #### Metamorfoseador
 
 Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. 
-
-\sp
 
 Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. Y claro tras personalizar los metamorfoseadores hay que probarlos. Claudia lo va a convertir en un concurso, elegirá la personalización + transformación más chula y le regalará un cheque regalo de SimianTECH.
 
@@ -189,11 +193,11 @@ La realidad es que esta actividad, como todas las otras actividades, es una prue
 
 Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia».
 
+\sp
+
 Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma. No es la pija consentida que ven normalmente, sino que es alguien más cercano a ellas con sus mierdas y traumas.
 
 La realidad es que SimianTECH va a intentar un segundo y tercer robo (si es posible) de poderes mientras duermen y ver si Claudia puede acumular los poderes de dos chicas.
-
-\sp
 
 La idea es devolver los poderes antes de que se despierten y los puedan echar de menos. Si no sospechan nada la tecnología robapoderes va a permitir a Claudia tener los poderes todas tus jugadoras.
 
@@ -205,9 +209,9 @@ Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo
 
 Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
 
-> Por darle un poco más loco, puedes hacer que se equivoquen y al devolver los poderes los intercambie entre alguna de tus jugadoras. Ten en cuenta que esto debería ser una _red flag_ muy evidente de que algo raro está haciendo SimianTECH y Claudia.
-
 \sp
+
+> Por darle un poco más loco, puedes hacer que se equivoquen y al devolver los poderes los intercambie entre alguna de tus jugadoras. Ten en cuenta que esto debería ser una _red flag_ muy evidente de que algo raro está haciendo SimianTECH y Claudia.
 
 ## Esos tipos de negro se están llevando a Claudia
 
