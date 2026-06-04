@@ -299,9 +299,13 @@ XXX FICHA
 
 XXX
 
+XXX FICHA
+
 ### PowerStealer
 
 XXX
+
+XXX FICHA
 
 \sp
 
