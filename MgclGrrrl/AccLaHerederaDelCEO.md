@@ -149,16 +149,16 @@ Los tratamientos de algas, vino, chocolate, tratan de probar diferentes producto
 
 #### Enemies-to-lovers
 
-Claudia quiere sentir ese rollito raro de tener que combatir con una villana y al mismo tiempo tener algún tipo de sentimiento romántico/sexual por ella. 
+Claudia quiere **sentir ese rollito raro de tener que combatir con una villana** y al mismo tiempo **tener algún tipo de sentimiento romántico/sexual por ella**. 
 
-Así que toca sacarse una villana de la manga. Si ya han jugado antes alguna partida de MgclGrrrl, pueden recurrir a una villana a la que le partieron la cara. Si no puedes crear una, fácilmente con las reglas de creación de villanas.
+Así que toca sacarse una villana de la manga. Si ya han jugado antes alguna partida de MgclGrrrl, pueden recurrir a una villana a la que ya le partieron la cara. Si no, puedes crear una fácilmente con las reglas de creación de villanas.
 
 El tema es que la villana igual tiene otros planes y no está disponible. Déjalas que se busquen la vida para encontrarla y hacer que pelee con ella. Y claro que se fije en Claudia y le dé algo de juego romántico.
 
 También pueden contratar a alguien o cobrarse algún favor, alguna villana retirada o reformada podría volver de su retiro para esta actividad.
 
 
-Pero seguramente la opción que escogerán tus jugadoras es que una de tus jugadoras se haga la enferma, se ponga un disfraz y sea la villana a batir. Es otra fuente de drama si el _enemies-to-lovers_ se les va de las manos.
+Pero seguramente la opción que escogerán tus jugadoras es que **una de tus jugadoras** se haga la enferma, se ponga un disfraz y **sea la villana a batir**. Es otra fuente de drama si el _enemies-to-lovers_ se les va de las manos.
 
 Desde el departamento científico tienen claro que los minions no sirven para probar los poderes al máximo o, incluso, por encima de sus límites. Solo un buen combate contra una villana puede servir.
 
@@ -166,7 +166,7 @@ Como en otras actividades, igual se percatan durante la pelea de gente con cáma
 
 #### Metamorfoseador
 
-Claudia quiere personalizar su metamorfoseador con todo tipo de cosas, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. 
+Claudia quiere **personalizar su metamorfoseador con todo tipo de cosas**, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. 
 
 Va a montar una sesión de manualidades en la mansión de su «papi» con un montón de productos y herramientas. Y claro tras personalizar los metamorfoseadores hay que probarlos. Claudia lo va a convertir en un concurso, elegirá la personalización + transformación más chula y le regalará un cheque regalo de SimianTECH.
 
@@ -177,7 +177,7 @@ La realidad es que esta actividad, como todas las otras actividades, es una prue
 
 #### Pijamada
 
-Claudia quiere hacer una pijamada de chicas mágicas en el loft de su padre y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia».
+Claudia quiere hacer una **pijamada de chicas mágicas en el loft de su padre** y hacer las cosas que ella cree que las chicas mágicas hacen en las pijamadas. Puedes usar todos los tópicos de las pijamadas, comer chuches, contar historias de miedo, jugar a «Verdad, reto o consecuencia».
 
 Cuando se relajen, verán que Claudia no es exactamente como la ve normalmente, se le ha caído la máscara del Método Stanislavski y es más ella misma. No es la pija consentida que ven normalmente, sino que es alguien más cercano a ellas con sus mierdas y traumas.
 
@@ -192,16 +192,29 @@ Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo
 
 > Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
 
-Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia.
+Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia, cosa que se podrá ver perfectamente en la pijamada.
 
 > Por darle un poco más loco, puedes hacer que se equivoquen y al devolver los poderes los intercambie entre alguna de tus jugadoras. Ten en cuenta que esto debería ser una _red flag_ muy evidente de que algo raro está haciendo SimianTECH y Claudia.
 
+
 ## Esos tipos de negro se están llevando a Claudia
 
-XXX
+Cuando tu grupo parezca ya cansado de las actividades o sus sospechas sobre SimianTECH sean muy grandes, debes lanzar el secuestro de Claudía. Debe ser **lo más rápido posible y sin capacidad de reacción**, quizás cuando la dejan en su loft, desde la calle, ven como un helicóptero negro se coloca sobre el ático y salen agentes de negro que se la llevan, o, tal vez, se dan cuenta de que no vuelve del baño de las instalaciones de tiro y cuando entran por la fuerza a los servicios, ven por la ventana que una furgoneta negra sale a toda velocidad.
+
+**Déjalas hacer cosas menores,** como apuntar la matrícula, lanzar algún tipo de rastreador, correr unas manzanas para ver hacia donde van. Pero piensa que los secuestradores saben conocen los poderes de tus jugadoras y habrán hecho algo para contrarrestarlo. Si vuelan se meterán en un subterráneo, si lanzan rayos, estará aislada estáticamente, etc. 
+
+Rápidamente, la seguridad de SimianTECH las apartará y se pondrá a buscar a Claudia, no porque sea la hija del CEO, sino porque es un importante foco de investigación y tiene parte de la tecnología robapoderes en su cuerpo.
+
+Tus jugadoras recibirán su cuantioso finiquito y se les dirá que permanezcan en casa tranquilamente, pero hay dos problemas:
+
+* No deberían quedarse de brazos cruzados cuando una persona a la que seguramente habrán cogido algo de cariño **esté secuestrada y en peligro de muerte**. 
 
 
-## El rescate
+* **Una de tus jugadoras no tiene sus poderes originales y podría perderlos definitivamente.** Lo mismo pasará con su coleguita si lo tenía y estaba con Claudia.
+
+Así que deberían empezar a investigar el secuestro por su cuenta.
+
+## Investigación y rescate
 
 XXX
 
@@ -209,25 +222,31 @@ XXX
 
 XXX
 
+
+### Rescatando a Claudia
+
+XXX
+
 ### La confesión de Claudia
 
 XXX
 
-
 ## Quiero mis poderes y los quiero ahora
 
-Tras la confesión de Claudia, solo queda ir a las oficinas de SimianTECH y obligarles a que devuelvan los poderes robados.
+Tras la confesión de Claudia, solo queda ir a las oficinas de SimianTECH y obligarles a que devuelvan los poderes robados. Ellas deben decidir si Claudia va con ella como una chica mágica más de la pandilla o si la excluyen por vendida y mentirosa.
 
-XXX [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
+Ya saben lo que se van a encontrar en las oficinas de la empresa: agentes de seguridad a tope, vehículos blindados terrestres y aereos, rayos lasers mortales, etc. **Monta un par de escenas donde se luzcan un poco,** quizas acabando con montones de agentes rollo Señor Smith en Matrix, estampando una furgoneta de helados en el hall principal del edificio para salir ellas dando caña. **Dejalas que se molen y se resarzan de toda la mierda que han comido los días anteriores.** [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
 
 > Si tus jugadoras son de negociar, cosa que sinceramente no creo, pero a veces pasa, puedes meterles en un laberinto burocrático de visitar y hablar con gente de todos los niveles y todos los departamentos. En algún momento se hartarán de que les toreen y dejarán la vía del diálogo y empezarán la vía de la violencia que es lo que queremos todos.
+
+
+XXX
 
 ### Contra PowerStealer
 
 Llegados a este punto, la gente de SimianTECH solo le queda sacar a PowerStealer y que acabe con tus jugadoras. Unos de los científicos pulsará un botón rojo gigante, empezarán a sonar alarmas y se abrirá la puerta metálica de una gran cámara echando todo tipo de vapores y saldrá PowerStealer de entre el humo. [MOMENTO MUSICAL: Ultraman Z Theme Song MV | English Lyrics | https://youtu.be/GbnLHqWj9DI](https://youtu.be/GbnLHqWj9DI)
 
 XXX
-
 
 ## Separación de poderes
 
