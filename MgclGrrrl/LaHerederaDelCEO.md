@@ -177,6 +177,8 @@ Desde el departamento científico tienen claro que los minions no sirven para pr
 
 Como en otras actividades, igual se percatan durante la pelea de gente con cámaras grabando las peleas y furgonetas nada sospechosas con extrañas antenas y sensores en el techo. Pero igual son furgonetas de los medios cubriendo la pelea como ya han visto otras veces.
 
+> El enemies-to-lovers siempre se puede convertir en un monsterfucker sin problema, si cambias a la villana por algún monstruo furry, vampiro sexy o androide buenorro.
+
 #### Metamorfoseador
 
 Claudia quiere **personalizar su metamorfoseador con todo tipo de cosas**, desde purpurina y chapas de colores hasta material radioactivo de bajísima intensidad que le da a las cosas un color verduzco. 
@@ -247,25 +249,27 @@ XXX
 
 ### La confesión de Claudia
 
-XXX
+Cuando ya estén fuera de peligro, Claudia empezará a contar toda la su historia, como la contrataron para hacerse pasar por la hija del CEO, como os hizo hacer las actividades irritantes para testar el robo de poderes en diferentes aspectos y como la han estado la gente de MonkeyanTECH haciéndola pruebas para descubrir la tecnología robapoderes.
+
+Ella, cuando acepto el trabajo, pensaba que solo era una pequeña estafa y que al final no se conseguiría nada, todo volvería a la normalidad con tus jugadoras, pero siendo un poco más rica que antes. Pero la verdad es que el secuestro y las duras pruebas que le han hecho le han convencido de que esto no era tan sencillo como ella pensaba.
 
 ## Quiero mis poderes y los quiero ahora
 
-Tras la confesión de Claudia, solo queda ir a las oficinas de SimianTECH y obligarles a que devuelvan los poderes robados. Ellas deben decidir si Claudia va con ella como una chica mágica más de la pandilla o si la excluyen por vendida y mentirosa.
-
-Ya saben lo que se van a encontrar en las oficinas de la empresa: agentes de seguridad a tope, vehículos blindados terrestres y aereos, rayos lasers mortales, etc. **Monta un par de escenas donde se luzcan un poco,** quizas acabando con montones de agentes rollo Señor Smith en Matrix, estampando una furgoneta de helados en el hall principal del edificio para salir ellas dando caña. **Dejalas que se molen y se resarzan de toda la mierda que han comido los días anteriores.** [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
-
-> Si tus jugadoras son de negociar, cosa que sinceramente no creo, pero a veces pasa, puedes meterles en un laberinto burocrático de visitar y hablar con gente de todos los niveles y todos los departamentos. En algún momento se hartarán de que les toreen y dejarán la vía del diálogo y empezarán la vía de la violencia que es lo que queremos todos.
+Tras la confesión de Claudia, solo queda ir a las oficinas de SimianTECH y obligarles a que devuelvan los poderes robados. Ellas deben decidir si Claudia va con ella como una chica mágica más de la pandilla o si la excluyen de su grupo por vendida y mentirosa. Sea como sea tendrán que llevarla con ella para que puedan quitarle sus poderes actuales y devolvérselos a su legítima propietaria.
 
 \sp
 
-XXX
+Ya saben lo que se van a encontrar en las oficinas de la empresa: agentes de seguridad a tope, vehículos blindados terrestres y aéreos, rayos láser mortales, etc. **Monta un par de escenas donde se luzcan un poco,** quizas acabando con montones de agentes rollo Señor Smith en Matrix, estampando una furgoneta de helados en el hall principal del edificio para salir ellas dando caña. **Dejalas que se molen y se resarzan de toda la mierda que han comido los días anteriores.** [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
+
+> Si tus jugadoras son de negociar, cosa que sinceramente no creo, pero a veces pasa, puedes meterles en un laberinto burocrático de visitar y hablar con gente de todos los niveles y todos los departamentos. En algún momento se hartarán de que les toreen y dejarán la vía del diálogo y empezarán la vía de la violencia que es lo que queremos todos.
 
 ### Contra PowerStealer
 
 Llegados a este punto, la gente de SimianTECH solo le queda sacar a PowerStealer y que acabe con tus jugadoras. Unos de los científicos pulsará un botón rojo gigante, empezarán a sonar alarmas y se abrirá la puerta metálica de una gran cámara echando todo tipo de vapores y saldrá PowerStealer de entre el humo. [MOMENTO MUSICAL: Ultraman Z Theme Song MV | English Lyrics | https://youtu.be/GbnLHqWj9DI](https://youtu.be/GbnLHqWj9DI)
 
 XXX
+
+\sp
 
 ## Separación de poderes
 
@@ -281,11 +285,15 @@ Llegados a este punto de la aventura y si han conseguido recuperar los poderes r
 
 ### Claudia, ¿villana?
 
-Claudia, la supuesta hija del CEO de SimianTECH, es en realidad una actriz del método que se mete muchísimo en sus papeles. XXX
+Claudia, la supuesta hija del CEO de SimianTECH, es en realidad una actriz del método que se mete muchísimo en sus papeles. Fuera de los papeles de actriz es una persona tranquila y afable, amiga de sus amigas y de gustos sencillos, aunque algo chismosa y cotilla pero sin ser exagerado.
 
-XXX
+Cuando se mete en su papel es su papel casi sin ninguna fisura, tanto que a veces le da miedo a sus amigas y familiares cercanas.
 
 Claudia ignora cualquier tipo de puya o crítica que le puedan hacer tus jugadoras. Por mucho que lo intenten ni se inmutará ante estas cosas, cambiará de tema y seguirá siendo igual de inaguantable.
+
+Como hija del CEO es todo lo que podríamos esperar, pija, vaga, caprichosa, maleducada y malcriada. Habla de forma petulante y tiende a despreciar a los que están por debajo de ella, es decir casi todos. Pero también ha metido en el papel de hija del CEO, una gran soledad y una necesidad como patológica de tener amigas.
+
+XXX FICHA
 
 ### Mercenarios de SimianTECH y de la competencia, minions
 
