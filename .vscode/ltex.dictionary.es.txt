@@ -699,3 +699,5 @@ metamorfoseador
 superarma
 Tier
 dramita
+ciberpoderes
+crionizan

@@ -94,6 +94,16 @@ XXX
 
 > Si ya has jugado con tus jugadoras antes y alguna no está muy contenta con sus poderes, es la candidata perfecta para que le roben sus poderes y le des unos nuevos cibernéticos. Al final, podrá quedarse con los nuevos poderes, si le gustan, o recuperar los suyos anteriores.  
 
+La máquina robapoderes son dos cápsulas parecidas a en las que crionizan a los viajeros espaciales. Están conectadas a una gigantesca máquina con miles de luces LED, botones y panel varios. En la de derecha meterán a la jugadora de la parte superior sacarán una especie de pinza de depilar gigante y se la pondrán en la cabeza. Luego a Claudia la meten en la cápsula izquierda y de la parte superior sacarán un embudo que se lo pondrán en la boca.
+
+Cerrarán las cápsulas y empezarán a tocas botones. En unos segundos Todo empezará a vibrar y zumbar y de repente habrá un flash que les hará quitar la vista de la máquina. Cuando puedan volver a ver las cámaras de robo de poderes, se habrán abierto las puertas y la jugadora y Claudia estarán saliendo con pinta de desorientadas.
+
+XXX
+
+Pero aún queda trabajo, dotar de poderes a la jugadora que los ha perdido. Los científicos empezarán a sacar trastos cibernéticos superchulos y empezarán a explicarle qué hacen a la jugadora.
+
+> Puedes dejarle a la jugadora que elija los poderes, dejarlo en manos del azar o asignárselos tú. Si quieres ser cruel, déjale elegir los que quiera y luego asígnaselos diciendo que no su cuerpo no sintoniza bien con los ciberpoderes que ha elegido. 
+
 \sp
 
 ## Esto no está suficientemente bien pagado
