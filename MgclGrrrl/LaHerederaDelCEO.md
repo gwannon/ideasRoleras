@@ -60,7 +60,7 @@ La idea es que las pruebas del casting sean bastante humillantes.
 
 Por un lado, SimianTECH necesita gente desesperada que acepte lo que sea. Por un lado, las van a humillar, pero, por otro lado, las van a seducir con cosas que normalmente no tienen como buffet libre de exquisiteces durante el casting, sillones masajeadores, y más cosas por el estilo. La idea de los de marketing es que sepan lo que se pierden, si luego no aceptan el contrato que les pongan por delante.
 
-Hagan lo que hagan todas serán seleccionadas, pero una tendrá un contrato de muchísimo más dinero. Un par de trajeados la meterán en una sala aparte para explicarle que va a pasarla con sus poderes. Si no quiere firmar, se lo propondrán hasta que alguna acepte.
+Hagan lo que hagan todas serán seleccionadas, pero una tendrá un contrato de muchísimo más dinero. Un par de trajeados la meterán en una sala aparte para explicarle que va a pasarla con sus poderes. Si no quiere firmar, se lo propondrán a otra hasta que alguna acepte.
 
 ### El plan de SimianTECH
 
@@ -90,7 +90,7 @@ Las invitará a disfrutar del brunch mientras ella se prepara para salir y al de
 
 60 pisos más abajo están los laboratorios de SimianTECH y tras enseñar sus credenciales y pasar varios controles podrán entrar. Deberán ponerse unas batas, mascarillas y guantes y quitarse todas las cosas voluminosas que lleven, como mazas, batas, bolsos, mochilas, etc.
 
-XXX
+La que va a perder los poderes será llevada a otra sala y allí la prepararán con una bata de hospital de esas que see te ve el culo, unas inyecciones y una rapada de pelo si no lo está ya.
 
 > Si ya has jugado con tus jugadoras antes y alguna no está muy contenta con sus poderes, es la candidata perfecta para que le roben sus poderes y le des unos nuevos cibernéticos. Al final, podrá quedarse con los nuevos poderes, si le gustan, o recuperar los suyos anteriores.  
 
@@ -98,15 +98,15 @@ La máquina robapoderes son dos cápsulas parecidas a en las que crionizan a los
 
 Cerrarán las cápsulas y empezarán a tocas botones. En unos segundos Todo empezará a vibrar y zumbar y de repente habrá un flash que les hará quitar la vista de la máquina. Cuando puedan volver a ver las cámaras de robo de poderes, se habrán abierto las puertas y la jugadora y Claudia estarán saliendo con pinta de desorientadas.
 
-XXX
-
 \sp
+
+Claudia empezará a jugar con sus poderes y sus transformaciones tras coger el objeto morfeador de la jugadora de la que le han pasado los poderes. Primero poco a poco y luego a lo loco pasándoselo como una niña la mañana de Navidad con sus juguetes nuevos.
 
 Pero aún queda trabajo, dotar de poderes a la jugadora que los ha perdido. Los científicos empezarán a sacar trastos cibernéticos superchulos y empezarán a explicarle qué hacen a la jugadora.
 
 > Puedes dejarle a la jugadora que elija los poderes, dejarlo en manos del azar o asignárselos tú. Si quieres ser cruel, déjale elegir los que quiera y luego asígnaselos diciendo que no su cuerpo no sintoniza bien con los ciberpoderes que ha elegido. 
 
-## Esto no está suficientemente bien pagado
+## No me pagan lo suficiente por esta mierda
 
 Ahora es cuando empieza su trabajo de verdad. Durante una semana deberán pasar gran parte de su tiempo con Claudia ofreciéndole la experiencia «Magical Girl», o por lo menos los que Claudia cree que es la vida de una «Magical Girl», por lo que ha visto en la tele y leído en revistas y mangas.
 
@@ -189,7 +189,7 @@ Desde el departamento científico tienen claro que los minions no sirven para pr
 
 Como en otras actividades, igual se percatan durante la pelea de gente con cámaras grabando las peleas y furgonetas nada sospechosas con extrañas antenas y sensores en el techo. Pero igual son furgonetas de los medios cubriendo la pelea como ya han visto otras veces.
 
-> El enemies-to-lovers siempre se puede convertir en un monsterfucker sin problema, si cambias a la villana por algún monstruo furry, vampiro sexy o androide buenorro.
+> El enemies-to-lovers siempre se puede convertir en un monsterfucker sin problema, si cambias a la villana por algún monstruo furry, vampire sexy o androide buenorro.
 
 \sp
 
@@ -278,7 +278,11 @@ Ya saben lo que se van a encontrar en las oficinas de la empresa: agentes de seg
 
 Llegados a este punto, la gente de SimianTECH solo le queda sacar a PowerStealer y que acabe con tus jugadoras. Unos de los científicos pulsará un botón rojo gigante, empezarán a sonar alarmas y se abrirá la puerta metálica de una gran cámara echando todo tipo de vapores y saldrá PowerStealer de entre el humo. [MOMENTO MUSICAL: Ultraman Z Theme Song MV | English Lyrics | https://youtu.be/GbnLHqWj9DI](https://youtu.be/GbnLHqWj9DI)
 
-XXX
+Si consiguen derrotarlo, este desaparecerá en una gran explosión y los poderes robados saldrán de los cuerpos y empezarán a buscar nuevos o antiguos cuerpos en los que entrar.
+
+Si son listas, aprovecharán el caos de la explosión para acceder a los ordenadores del laboratorio y borrar todos los datos de la investigación (difícil 14). 
+
+\sp
 
 ## Separación de poderes
 
@@ -302,15 +306,23 @@ Claudia ignora cualquier tipo de puya o crítica que le puedan hacer tus jugador
 
 Como hija del CEO es todo lo que podríamos esperar, pija, vaga, caprichosa, maleducada y malcriada. Habla de forma petulante y tiende a despreciar a los que están por debajo de ella, es decir casi todos. Pero también ha metido en el papel de hija del CEO, una gran soledad y una necesidad como patológica de tener amigas.
 
-XXX FICHA
+* Agilidad 0 Conocimiento 2 Presencia 3 Fuerza -1 Resistencia 0
+* **Morfeada:** Agilidad 2 Conocimiento 3 Presencia 4 Fuerza 1 Resistencia 2
+* **Poderes:** Lo que le hayan transferido
+* **25** vidas
+* Polvo **5**
+* Armadura **tier 3** (pero igual cambia cuando hagan el paso de modelos)
+
+\sp
+
+* **Lotea:** Objetos de lujo que lleva como hija del CEO con valor alrededor de 1M ¥esetas. 
+* **Arma maligna:** Libraco de teoría actoral d8 (d6 si va desmorfeada de incógnito)
 
 ### Mercenarios de SimianTECH y de la competencia, minions
 
 Ropa negra, cascos y gafas, chalecos antibalas y otras protecciones. 
 
 * **4** por cada equipo de asalto
-
-\sp
 
 * **4** vidas
 * Moral **3**
@@ -324,10 +336,12 @@ PowerStealer, como producto de SimianTECH, es una especie de simio con partes ci
 
 PowerStealer tiene una especie de pinza de quitarse pelos de tamaño gigantesco y de la que chisporrotea electricidad en su brazo izquierdo. En su brazo derecho en vez de mano un embudo con la parte ancha en la palma de la mano y la apertura pequeña en el dorso de la mano.
 
-Lo que hace es atraparte con la pinza y sacar de tu cuerpo una versión fantasmal tuya que representa tus poderes. En ese momento puede ponerse el embudo de la otra mano en su boca o en la de otra persona. Cuando deja caer tus poderes por el embudo sale una luz cegadora por los dos extremos y los poderes acaban en el mismo o en el sujeto al que metió el embudo en la boca. Eres libre de cambiar la boca por otras opciones anatómicas.
-
-XXX FICHA
+Lo que hace es atraparte con la pinza y sacar de tu cuerpo una versión fantasmal tuya que representa tus poderes. En ese momento puede ponerse el embudo de la otra mano en su boca o en la de otra persona. 
 
 \sp
+
+Cuando deja caer tus poderes por el embudo sale una luz cegadora por los dos extremos y los poderes acaban en el mismo o en el sujeto al que metió el embudo en la boca. Eres libre de cambiar la boca por otras opciones anatómicas.
+
+XXX FICHA
 
 |Licencia.md|

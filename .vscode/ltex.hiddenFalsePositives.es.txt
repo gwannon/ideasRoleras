@@ -454,3 +454,8 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QParecen muy profesionales y se parecen a los 3 personajes de los Juegos del Hambre (Haymitch, Cinna y Effie).\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSoportar que te den un tartazo en la cara.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEs otra fuente de drama si el enemies-to-lovers se les va de las manos.\\E$"}
+{"rule":"FORM","sentence":"^\\QSería una forma interesante de privar de poderes a una chica mágica y además haría más fácil el robo de poderes de ciertas personas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl día de SPA es para Claudia y su coleguita (su mascota de magical girl), para el resto de las jugadoras, es día de aguantar sus caprichos mientras ellas reciben masajes y tratamientos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDentro de la experiencia magical girl toda probar lo de las superarmas creadas a partir de la combinación de varias armas mágicas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QComo Magical Girl una de las cosas que puedes hacer es crear una superarma con tus compañeras y, claro, los del departamento de ciencias necesitan probar su tecnología robapoderes en esa situación y si afecta a la creación de superarmas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl día empezará con un viaje en hover-limusina rosa de superlujo con buffet, champán fresquito, techo solar, etc.\\E$"}
