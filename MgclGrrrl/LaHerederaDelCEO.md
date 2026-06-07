@@ -262,7 +262,13 @@ Luego tendrán que usar sus habilidades para conseguir esa información (deberí
 
 ### Rescatando a Claudia
 
-XXX
+El laboratorio tiene una seguridad mínima, no quieren llamar la atención a las actividades que se hacen dentro. Ponles uno o dos grupos de secuestradores (minions) en la puerta defendiendola y luego otra en el interior haciendo la ronda.
+
+Si acaban con los dos grupos, llamarán a la sala de vivisecciones donde Claudia desmorfeada está atada, amordazada y sujeta en una camilla y un médico con una motosierra de cirugía cibernética va a empezar a cortarla en lonchas y a empaquetarlas para estudiarlas.
+
+Con un mínimo de amenaza por parte de tus jugadoras (fácil 8) los científicos huirán sin ofrecer combate.
+
+Claudia está aterrada, estar tan cerca de una horrible muerte, le ha dado una nueva perspectiva vital y estará muy agradecida a tus jugadoras por salvarlas.
 
 ### La confesión de Claudia
 
