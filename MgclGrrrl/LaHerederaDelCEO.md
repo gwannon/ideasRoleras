@@ -231,7 +231,7 @@ Por darle un puntito divertido, la tecnología robapoderes, roba poderes y tambi
 
 Cuando tu grupo parezca ya cansado de las actividades o sus sospechas sobre SimianTECH sean muy grandes, debes lanzar el secuestro de Claudía. Debe ser **lo más rápido posible y sin capacidad de reacción**, quizás cuando la dejan en su loft, desde la calle, ven como un helicóptero negro se coloca sobre el ático y salen agentes de negro que se la llevan, o, tal vez, se dan cuenta de que no vuelve del baño de las instalaciones de tiro y cuando entran por la fuerza a los servicios, ven por la ventana que una furgoneta negra sale a toda velocidad.
 
-**Déjalas hacer cosas menores,** como apuntar la matrícula, lanzar algún tipo de rastreador, correr unas manzanas para ver hacia donde van. Pero piensa que los secuestradores saben conocen los poderes de tus jugadoras y habrán hecho algo para contrarrestarlo. Si vuelan se meterán en un subterráneo, si lanzan rayos, estará aislada estáticamente, etc. 
+**Déjalas hacer cosas menores,** como apuntar la matrícula, lanzar algún tipo de rastreador, correr unas manzanas para ver hacia donde van. Pero piensa que los secuestradores conocen los poderes de tus jugadoras y habrán hecho algo para contrarrestarlo. Si vuelan se meterán en un subterráneo, si lanzan rayos, estará aislada estáticamente, etc. 
 
 Rápidamente, la seguridad de SimianTECH las apartará y se pondrá a buscar a Claudia, no porque sea la hija del CEO, sino porque es un importante foco de investigación y tiene parte de la tecnología robapoderes en su cuerpo.
 
@@ -246,14 +246,19 @@ Así que deberían empezar a investigar el secuestro por su cuenta.
 
 ## Investigación y rescate
 
-
 Esta parte de la aventura no debería llevar mucho tiempo, los secuestradores de MonkianTECH, la competencia de SimianTECH, no son que diga muy profesionales y ni han ocultado su rastro ni están escondidos en un sitio difícil de encontrar.
 
 MonkianTECH ya sabido de la tecnología roba poderes de SimianTECH y la quiere, así que ha cogido al conejillo de indias principal y lo van a viviseccionar para robar la tecnología roba poderes. Eso significa que si tardan mucho la encontrarán en cachitos en bolsas autocerrables en un congelador.
 
 ### Buscando a Claudia
 
-XXX
+Localizar a Claudia no debería ser difícil solamente hay que saber que consultar.
+
+* Cámaras de tráfico si huyeron en furgoneta.
+* Torre de control si huyeron en helicóptero.
+* Bajos fondos preguntando quién ha hecho un trabajito de secuestro.
+
+Luego tendrán que usar sus habilidades para conseguir esa información (debería ser algo facil) y averiguar que Claudia está en unos laboratorios de MonkianTECH en las afueras de la ciudad.
 
 ### Rescatando a Claudia
 
