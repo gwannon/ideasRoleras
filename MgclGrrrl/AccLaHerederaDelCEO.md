@@ -83,7 +83,7 @@ Las invitará a disfrutar del brunch mientras ella se prepara para salir y al de
 
 60 pisos más abajo están los laboratorios de SimianTECH y tras enseñar sus credenciales y pasar varios controles podrán entrar. Deberán ponerse unas batas, mascarillas y guantes y quitarse todas las cosas voluminosas que lleven, como mazas, batas, bolsos, mochilas, etc.
 
-La que va a perder los poderes será llevada a otra sala y allí la prepararán con una bata de hospital de esas que see te ve el culo, unas inyecciones y una rapada de pelo si no lo está ya.
+La que va a perder los poderes será llevada a otra sala y allí la prepararán con una bata de hospital de esas que se te ve el culo, unas inyecciones y una rapada de pelo si no lo está ya.
 
 > Si ya has jugado con tus jugadoras antes y alguna no está muy contenta con sus poderes, es la candidata perfecta para que le roben sus poderes y le des unos nuevos cibernéticos. Al final, podrá quedarse con los nuevos poderes, si le gustan, o recuperar los suyos anteriores.  
 
@@ -204,7 +204,7 @@ El objetivo de esta parte es, por un lado, que le cojan ojeriza a Claudia y cuan
 
 Y, por otro lado, tras varias actividades tus jugadoras ya deberían olerse algo y sospechar que SimianTECH tiene intenciones ocultas con todo este rollo de Claudia.
 
-> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizas sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
+> Las actividades deberían estar mermando a lo tonto los recursos de polvo de tus jugadoras. Poses por el día y pijamadas por las noches no las van a dejar descansar y recuperar sus poderes, así que quizás sea un buen momento de sacar unos minions y que les den problemas por esa merma en sus recursos. 
 
 Por darle un puntito divertido, la tecnología robapoderes, roba poderes y también algún defectillo, coletilla al hablar o manía tonta, como que mezcle los culos de los vasos de Fanta y Coca Cola para bebérselos. Esto dejará de hacerlo la jugadora a la que le han robado los poderes y empezará a hacerlo Claudia, cosa que se podrá ver perfectamente en la pijamada.
 
@@ -213,9 +213,9 @@ Por darle un puntito divertido, la tecnología robapoderes, roba poderes y tambi
 
 ## Esos tipos de negro se están llevando a Claudia
 
-Cuando tu grupo parezca ya cansado de las actividades o sus sospechas sobre SimianTECH sean muy grandes, debes lanzar el secuestro de Claudía. Debe ser **lo más rápido posible y sin capacidad de reacción**, quizás cuando la dejan en su loft, desde la calle, ven como un helicóptero negro se coloca sobre el ático y salen agentes de negro que se la llevan, o, tal vez, se dan cuenta de que no vuelve del baño de las instalaciones de tiro y cuando entran por la fuerza a los servicios, ven por la ventana que una furgoneta negra sale a toda velocidad.
+Cuando tu grupo parezca ya cansado de las actividades o sus sospechas sobre SimianTECH sean muy grandes, debes lanzar el secuestro de Claudia. Debe ser **lo más rápido posible y sin capacidad de reacción**. Quizás cuando la dejan en su loft, desde la calle, ven como un helicóptero negro se coloca sobre el ático y salen agentes de negro que se la llevan. Tal vez, se dan cuenta de que no vuelve del baño de las instalaciones de tiro y cuando entran por la fuerza a los servicios, ven por la ventana que una furgoneta negra sale a toda velocidad.
 
-**Déjalas hacer cosas menores,** como apuntar la matrícula, lanzar algún tipo de rastreador, correr unas manzanas para ver hacia donde van. Pero piensa que los secuestradores saben conocen los poderes de tus jugadoras y habrán hecho algo para contrarrestarlo. Si vuelan se meterán en un subterráneo, si lanzan rayos, estará aislada estáticamente, etc. 
+**Déjalas hacer cosas menores,** como apuntar la matrícula, lanzar algún tipo de rastreador, correr unas manzanas para ver hacia donde van. Pero piensa que los secuestradores conocen los poderes de tus jugadoras y habrán hecho algo para contrarrestarlo. Si vuelan se meterán en un subterráneo, si lanzan rayos, estará aislada estáticamente, etc. 
 
 Rápidamente, la seguridad de SimianTECH las apartará y se pondrá a buscar a Claudia, no porque sea la hija del CEO, sino porque es un importante foco de investigación y tiene parte de la tecnología robapoderes en su cuerpo.
 
@@ -229,31 +229,48 @@ Así que deberían empezar a investigar el secuestro por su cuenta.
 
 ## Investigación y rescate
 
-XXX
+Esta parte de la aventura no debería llevar mucho tiempo, los secuestradores de MonkeyanTECH, la competencia de SimianTECH, no son que diga muy profesionales y ni han ocultado su rastro ni están escondidos en un sitio difícil de encontrar.
+
+MonkeyanTECH ya sabido de la tecnología roba poderes de SimianTECH y la quiere, así que ha cogido al conejillo de indias principal y lo van a viviseccionar para robar la tecnología roba poderes. Eso significa que si tardan mucho la encontrarán en cachitos en bolsas autocerrables en un congelador.
 
 ### Buscando a Claudia
 
-XXX
+Localizar a Claudia no debería ser difícil solamente hay que saber qué consultar.
+
+* Cámaras de tráfico si huyeron en furgoneta.
+* Torre de control si huyeron en helicóptero.
+* Bajos fondos preguntando quién ha hecho un trabajito de secuestro.
+
+
+Luego tendrán que usar sus habilidades para conseguir esa información (debería ser algo normal 10) y averiguar que Claudia está en unos laboratorios de MonkeyanTECH en las afueras de la ciudad.
 
 ### Rescatando a Claudia
 
-XXX
+El laboratorio tiene una seguridad mínima, no quieren llamar la atención a las actividades que se hacen dentro. Ponles uno o dos grupos de secuestradores (minions) en la puerta defendiéndola y luego otra en el interior haciendo la ronda.
+
+Si acaban con los dos grupos, llamarán a la sala de vivisecciones donde Claudia desmorfeada está atada, amordazada y sujeta en una camilla y un médico con una motosierra de cirugía cibernética va a empezar a cortarla en lonchas y a empaquetarlas para estudiarlas.
+
+Con un mínimo de amenaza por parte de tus jugadoras (fácil 10) los científicos huirán sin ofrecer combate.
+
+Claudia está aterrada, estar tan cerca de una horrible muerte, le ha dado una nueva perspectiva vital y estará muy agradecida a tus jugadoras por salvarlas.
 
 ### La confesión de Claudia
 
 Cuando ya estén fuera de peligro, Claudia empezará a contar toda la su historia, como la contrataron para hacerse pasar por la hija del CEO, como os hizo hacer las actividades irritantes para testar el robo de poderes en diferentes aspectos y como la han estado la gente de MonkeyanTECH haciéndola pruebas para descubrir la tecnología robapoderes.
 
+Ella, cuando acepto el trabajo, pensaba que solo era una pequeña estafa y que al final no se conseguiría nada, todo volvería a la normalidad con tus jugadoras, pero siendo un poco más rica que antes.
 
-Ella, cuando acepto el trabajo, pensaba que solo era una pequeña estafa y que al final no se conseguiría nada, todo volvería a la normalidad con tus jugadoras, pero siendo un poco más rica que antes. Pero la verdad es que el secuestro y las duras pruebas que le han hecho le han convencido de que esto no era tan sencillo como ella pensaba.
+
+Pero la verdad es que el secuestro y las duras pruebas que le han hecho le han convencido de que esto no era tan sencillo como ella pensaba.
 
 ## Quiero mis poderes y los quiero ahora
 
 Tras la confesión de Claudia, solo queda ir a las oficinas de SimianTECH y obligarles a que devuelvan los poderes robados. Ellas deben decidir si Claudia va con ella como una chica mágica más de la pandilla o si la excluyen de su grupo por vendida y mentirosa. Sea como sea tendrán que llevarla con ella para que puedan quitarle sus poderes actuales y devolvérselos a su legítima propietaria.
 
-Ya saben lo que se van a encontrar en las oficinas de la empresa: agentes de seguridad a tope, vehículos blindados terrestres y aéreos, rayos láser mortales, etc. **Monta un par de escenas donde se luzcan un poco,** quizas acabando con montones de agentes rollo Señor Smith en Matrix, estampando una furgoneta de helados en el hall principal del edificio para salir ellas dando caña. **Dejalas que se molen y se resarzan de toda la mierda que han comido los días anteriores.** [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
-
+Ya saben lo que se van a encontrar en las oficinas de la empresa: agentes de seguridad a tope, vehículos blindados terrestres y aéreos, rayos láser mortales, etc. **Monta un par de escenas donde se luzcan un poco,** quizas acabando con montones de agentes rollo Señor Smith en Matrix, estampando una furgoneta de helados en el hall principal del edificio para salir ellas dando caña. **Déjalas que se molen y se resarzan de toda la mierda que han comido los días anteriores.** [MOMENTO MUSICAL: Nightcall | https://youtu.be/LfgNorryffc&t=78s](https://youtu.be/LfgNorryffc&t=78s)
 
 > Si tus jugadoras son de negociar, cosa que sinceramente no creo, pero a veces pasa, puedes meterles en un laberinto burocrático de visitar y hablar con gente de todos los niveles y todos los departamentos. En algún momento se hartarán de que les toreen y dejarán la vía del diálogo y empezarán la vía de la violencia que es lo que queremos todos.
+
 
 ### Contra PowerStealer
 
@@ -262,7 +279,6 @@ Llegados a este punto, la gente de SimianTECH solo le queda sacar a PowerStealer
 Si consiguen derrotarlo, este desaparecerá en una gran explosión y los poderes robados saldrán de los cuerpos y empezarán a buscar nuevos o antiguos cuerpos en los que entrar.
 
 Si son listas, aprovecharán el caos de la explosión para acceder a los ordenadores del laboratorio y borrar todos los datos de la investigación (difícil 14). 
-
 
 ## Separación de poderes
 
@@ -319,7 +335,14 @@ Lo que hace es atraparte con la pinza y sacar de tu cuerpo una versión fantasma
 
 Cuando deja caer tus poderes por el embudo sale una luz cegadora por los dos extremos y los poderes acaban en el mismo o en el sujeto al que metió el embudo en la boca. Eres libre de cambiar la boca por otras opciones anatómicas.
 
-XXX FICHA
+* **21** vidas
+* Moral **9**
+* **3** armadura
+* **d8** daños con las pinzas
+* **Robar poderes:** Si te golpea con sus pinzas y te hace daño, debes tirar Presencia dificultad Normal (10). Si fallas, te roba uno de tus poderes. Si lo conserva, obtiene/cura 1d10 vidas, sube un nivel de dado al daño u un nivel de armadura. Si fuera necesario, puede deshacerse de un poder igual que robándolo, pero golpeando con su embudo. En este caso podrá perder 1d10 vidas, bajar un nivel de armadura o de dado de daño.
+
+> Pueden acabar con PowerStealer con sus armas normales, pero para hacerlo desaparecer y que no quede nada recuperable de él (rollo Terminator 2) deben usar su superarma.
+
 
 ## Licencia
 

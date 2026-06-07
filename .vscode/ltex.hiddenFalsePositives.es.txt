@@ -459,3 +459,22 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDentro de la experiencia magical girl toda probar lo de las superarmas creadas a partir de la combinación de varias armas mágicas.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QComo Magical Girl una de las cosas que puedes hacer es crear una superarma con tus compañeras y, claro, los del departamento de ciencias necesitan probar su tecnología robapoderes en esa situación y si afecta a la creación de superarmas.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl día empezará con un viaje en hover-limusina rosa de superlujo con buffet, champán fresquito, techo solar, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QABBA - Money, Money, Money (Official Music Video) | https://youtu.be/ETxmCCsMoD0\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QQuizás alguna de tus jugadoras quiera atraer a Claudia al lado oscuro, que abandone el «buen camino» y se una a ellas contra el capitalismo, así que si quieren hacer alguna actividad extra déjales que la organicen.\\E$"}
+{"rule":"FORM","sentence":"^\\QClaudia la aceptará sin problema, sobre todo porque será una nueva forma de testar el robapoderes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QActividades como la pijamada y hacer manualidades con el metamorfoseador piden que este sin transformar, mientras que la pose de grupo debe ser sí o sí morfoseadas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl enemies-to-lovers siempre se puede convertir en un monsterfucker sin problema, si cambias a la villana por algún monstruo furry, vampire sexy o androide buenorro.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QY claro tras personalizar los metamorfoseadores hay que probarlos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa realidad es que esta actividad, como todas las otras actividades, es una prueba para el departamento científico y esta vez van a testar los metamorfoseadores y si les afecta el robapoderes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLo de las manualidades era una simple excusa de la gente de marketing que luego los de ciencias decidieron aprovechar metiendo uranio, oricalco, kriptonita roja y verde para la purpurina, …\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEso significa que si tardan mucho la encontrarán en cachitos en bolsas autocerrables en un congelador.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QUltraman Z Theme Song MV | English Lyrics | https://youtu.be/GbnLHqWj9DI\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAgilidad 0 Conocimiento 2 Presencia 3 Fuerza -1 Resistencia 0\nMorfeada:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLotea:\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QObjetos de lujo que lleva como hija del CEO con valor alrededor de 1M ¥esetas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLo que le hayan transferido\n25 vidas\nPolvo 5\nArmadura tier 3 (pero igual cambia cuando hagan el paso de modelos)\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl CEO tienen el número de TeleSicario y puede llamar a los que sean necesarios.\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QSea como sea tendrán que llevarla con ella para que puedan quitarle sus poderes actuales y devolvérselos a su legítima propietaria.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLibraco de teoría actoral d8 (d6 si va desmorfeada de incógnito)\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi acaban con los dos grupos, llamarán a la sala de vivisecciones donde Claudia desmorfeada está atada, amordazada y sujeta en una camilla y un médico con una motosierra de cirugía cibernética va a empezar a cortarla en lonchas y a empaquetarlas para estudiarlas.\\E$"}
+{"rule":"FORM","sentence":"^\\QHabla de forma petulante y tiende a despreciar a los que están por debajo de ella, es decir casi todos.\\E$"}
