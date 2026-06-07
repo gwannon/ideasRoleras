@@ -246,7 +246,10 @@ Así que deberían empezar a investigar el secuestro por su cuenta.
 
 ## Investigación y rescate
 
-XXX
+
+Esta parte de la aventura no debería llevar mucho tiempo, los secuestradores de MonkianTECH, la competencia de SimianTECH, no son que diga muy profesionales y ni han ocultado su rastro ni están escondidos en un sitio difícil de encontrar.
+
+MonkianTECH ya sabido de la tecnología roba poderes de SimianTECH y la quiere, así que ha cogido al conejillo de indias principal y lo van a viviseccionar para robar la tecnología roba poderes. Eso significa que si tardan mucho la encontrarán en cachitos en bolsas autocerrables en un congelador.
 
 ### Buscando a Claudia
 
