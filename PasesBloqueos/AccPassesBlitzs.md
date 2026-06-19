@@ -1,10 +1,10 @@
 # Passes and Blitzs [by Gwannon](https://gwannon.com/)
 
-«Passes and Blitzs» es un hack para el juego de rol «Lasers & Feelings» creado por [John Harper](https://johnharper.itch.io/lasers-feelings).
+«Passes and Blitzs» is a hack for the role-playing game "«Lasers & Feelings» created by [John Harper](https://johnharper.itch.io/lasers-feelings).
 
-Es la última jugada del partido de fútbol amoricano (aka Blood Bowl) más importante de vuestras vidas. Vuestro equipo va perdiendo, pero, si lo hacéis bien, podéis conseguir la gloria reservada a los ganadores de la Copa de Sangre.
+It's the final play of the most important Amorican football (aka Blood Bowl) match of your lives. Your team is losing, but if you play your cards right, you can achieve the glory reserved for the winners of the Blood Cup.
 
-Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denominados d6). La duración aproximada de una partida puede ser de 1 hora, hora y media como máximo.  
+To play this game, you'll need paper, a pencil, and three six-sided dice (d6). A game typically lasts about one hour to two hours.
 
 ## PJ: Crear tu jugador estrella
 
