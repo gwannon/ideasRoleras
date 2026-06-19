@@ -6,25 +6,25 @@ It's the final play of the most important Amorican football (aka Blood Bowl) mat
 
 To play this game, you'll need paper, a pencil, and three six-sided dice (d6). A game typically lasts about one hour to two hours.
 
-## PJ: Crear tu jugador estrella
+## PC: Create your starplayer
 
-### Creación del equipo
+### Team creation
 
-Lo primero sería crear vuestro equipo y para crear vuestro equipo hay que definir 3 elementos:
+The first step is to create your team. To do this, you need to define three elements:
 
-**Nombre.** Suelen tener dos partes, un denominador como los Segadores, los Rufianes o las Pesadillas, y luego su lugar de procedencia, del Bosque Oscuro, de Khazad Nüm, de Riverland, …
+**Name.** Names usually have two parts: a denominator, like the Reapers, the Ruffians, or the Nightmares, and then their place of origin, such as the Dark Forest, Khazad Nüm, Riverland, etc.
 
-**Especie predominante.** La especie puede cualquiera de fantasía, enano, elfos, gnomos, orcos, … hasta de ciencia ficción, cíborgs, aliens, … Qué más da. 
+**Predominant Species.** The species can be any fantasy species like dwarves, elves, gnomes, orcs, etc. or even science fiction—cyborgs, aliens, etc. It doesn't matter.
 
-**Estilo de juego.** Deben elegir si son rudos o técnicos. Si tu equipo es técnico su juego se basa en estrategia, en jugadas espectaculares y en pases, recepciones y largas carreras. Si tu equipo es de rudos, lo vuestro es machacar al equipo contrario sin ningún miramiento. _Esta decisión afectará a la creación del jugador estrella._
+**Gaming Style.** You must choose whether you are a rough or technical team. If your team is technical, their game is based on strategy, spectacular strategies, and passing, receiving, and long runs. If your team is rough, your style is to crush the opposing team without mercy. _This decision will affect the creation of your starplayer._
 
-### Creación del jugador
+### Player Creation
 
-La especie de tu jugador estrella debería ser la de la especie del equipo. También puedes permitir especies «afines». No es raro ver goblins en equipos de orcos o gnomos en equipos de elfos.
+Your star player's species should match the team's species. You can also allow compatible species. It's not uncommon to see goblins on orc teams or gnomes on elf teams.
 
-A continuación debes ponerle **un nombre**. Elige también **unos pronombres**.
+Next, you must give them a **name**. Also, choose **pronouns**.
 
-Si tu equipo es **rudo elige un número entre 2 y 4** y si es **técnico entre 3 y 5**. Con un número alto eres mejor en PASES (todo lo relacionado con la destreza y la inteligencia, lanzar, recibir, esquivar, saltar y también la táctica y el engaño). Con uno bajo eres mejor con los BLOQUEOS (todo lo relacionado con la fuerza y la resistencia, bloquear, empujar, cargar, correr, derribar y también el miedo y la intimidación).
+If your team is **rough, choose a number between 2 and 4**, and if it's **technical, between 3 and 5**. A high number means you're better at PASSING (everything related to skill and intelligence: throwing, receiving, dodging, jumping, and also tactics and deception). A low number means you're better at BLOCKING (everything related to strength and stamina: blocking, pushing, charging, running, tackling, and also fear and intimidation).
 
 &nbsp;
 
