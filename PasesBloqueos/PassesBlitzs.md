@@ -16,7 +16,7 @@ The first step is to create your team. To do this, you need to define three elem
 
 **Predominant Species.** The species can be any fantasy species like dwarves, elves, gnomes, orcs, etc. or even science fiction—cyborgs, aliens, etc. It doesn't matter.
 
-**Gaming Style.** You must choose whether you are a rough or technical team. If your team is technical, their game is based on strategy, spectacular strategies, and passing, receiving, and long runs. If your team is rough, your style is to crush the opposing team without mercy. _This decision will affect the creation of your starplayer._
+**Playing Style.** You must choose whether you are a rough or technical team. If your team is technical, their game is based on strategy, spectacular strategies, and passing, receiving, and long runs. If your team is rough, your style is to crush the opposing team without mercy. _This decision will affect the creation of your starplayer._
 
 ### Player Creation
 
@@ -40,7 +40,7 @@ When you arraive into the field, you have your **basic equipment**: protective g
 
 Finally, you must choose a position on the team: lineman, blocker, thrower, catcher, or blitzer.
 
-### El agente libre, el veterano y el novato brillante
+### The free agent, the veteran, and the brilliant rookie
 
 El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
 
@@ -54,7 +54,7 @@ La regla que limita tu habilidad según si el equipo es rudo o técnico, puede s
 
 Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el agente libre.
 
-### Posición y estilo de juego
+### Position and playing style
 
 Cuando consigues un resultado de «Passes and Blitzs», en la siguiente acción puedes hacer una **acción heroica** que depende de tu posición dentro de equipo.
 
@@ -90,7 +90,7 @@ Eres una extraña mezcla entre un bloqueador y un receptor, fuerte y ágil, pero
 
 Tu **carrera audaz** te permite, teniendo el balón, lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
 
-## Tiradas de dados
+## Dice rolls
 
 Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado (de pie en el lugar del campo y en momento oportuno y a poder ser sin contrincantes cerca) y +1d6 si está dentro de las capacidades normales de tu posición (el DJ te dirá cuantos dados puedes tirar, basándose en tu posición). Tira los dados y compara cada resultado con el número que elegiste.
 
@@ -105,7 +105,7 @@ Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BL
 
 5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de manera segura? ¿Puedo derribarlo? Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
 
-### Apoyos
+### Assists
 
 Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
 
@@ -113,13 +113,13 @@ No puedes apoyar a nadie con tu misma posición a no ser que seas línea que pue
 
 &nbsp;
 
-## DJ: Cuando todos lo creían imposible …
+## GM: When everyone thought it was impossible…
 
-Las últimas jugadas de «Passes and Blitzs» son fáciles de crear a través de estas simples tablas, pero siéntete libre de crear la jugada que tú creas. 
+The last plays in "Passes and Blitzes" are easy to create using these simple tables, but feel free to create any play you think is best.
 
 &nbsp;
 
-|1d6|Tiempo atmosférico|
+|1d6|Weather|
 |---|---|
 |1|**Nieve y hielo.** El suelo está helado y resbaladizo.|
 |2|**Lluvias torrenciales.** El campo es un barrizal que hace muy difícil moverse y coger el balón.|
@@ -130,14 +130,14 @@ Las últimas jugadas de «Passes and Blitzs» son fáciles de crear a través de
 
 &nbsp;
 
-|1d6|Hinchadas|
+|1d6|Team supporters|
 |---|---|
 |1|Día de traer a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contrincantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes.|
 |2|Han regalado entradas y el estadio está lleno de personas que no saben muy bien de que va esto.|
 |3|Hooligans violentos y borrachos|
 |4|Hay una gran rivalidad y ambas hinchadas llevan todo el partido peleando.|
 |5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
-|6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|
+|6|Un dios del Caos aburrido y su séquito han decidido ver un partido.|
 
 &nbsp;
 
@@ -145,7 +145,7 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 
 \sp
 
-|1d6|Equipo contrario|
+|1d6|Opposing team|
 |---|---|
 |1|Enanos, elfos, medianos, gnomos|
 |2|Orcos, goblins, trasgos|
@@ -156,7 +156,7 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 
 &nbsp;
 
-|1d6|Equipo ilegal y trampas|
+|1d6|Illegal equipment, traps, cheats and tricks|
 |---|---|
 |1|Apisonadora enana|
 |2|Francotirador escondido en el techo del estadio|
@@ -169,7 +169,7 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 
 \sinc
 
-|1d6|Cómo va el partido|
+|1d6|How is the match going?|
 |---|---|
 |1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie dijo que esto fuera fácil. Los que se han reído de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
 |2|Extrañamente todos los jugadores fijos del equipo han sufrido maldición tras el descanso y están indispuestos. Os han sacado del fondo del banquillo y esta es vuestra única oportunidad de brillar y conseguir un puesto fijo en el equipo.|
@@ -186,7 +186,7 @@ Las hinchadas son de las especies del equipo de tus jugadores y del equipo contr
 
 &nbsp;
 
-## DJ: Cómo dirigir una partida
+## GM: How to master
 
 Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
 
@@ -205,7 +205,7 @@ Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro
 
 Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, … para que se hagan una imagen mental de lo que se enfrentan.
 
-### Complicaciones
+### Complications
 
 Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
 
@@ -221,7 +221,7 @@ Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, a
 
 Es importante que no se repitan, quizás hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
 
-### Cada vez más cerca y con menos tiempo
+### Getting closer and with less time
 
 **El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocionante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
 
@@ -231,7 +231,7 @@ Con el tiempo puede pasar lo mismo. Un pase superlargo puede ser instantáneo o 
 
 Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Saca los que quieras y ves que te has pasado puedes recurrir a un mago que los ha teletransportado, a que estaban haciendo trampas y había jugadores de más en el campo o incluso a espontáneos del público.
 
-### Otras consideraciones
+### Other considerations
 
 La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Tal vez puedan pasarse algunas señas, pero de cosas muy básicas.
 
@@ -245,7 +245,7 @@ Si ves perdida a tu mesa, puedes usar un truco visual muy divertido. Cuando sufr
 
 Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fueras un locutor deportivo**, tanto para presentar las complicaciones como para narrar los resultados de las acciones y tiradas. Usas frases como «Contra todo pronóstico …», «¡Esto es increíble!», «En todos mis años de comentarista nunca …» o «Cuando nadie daba un euro por …» entre otras.
 
-## Licencia
+## License
 
 Creado por [Gwannon](https://gwannon.com) y hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. 
 Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández.

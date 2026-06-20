@@ -137,7 +137,7 @@ Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de 
 |3|Hooligans violentos y borrachos|
 |4|Hay una gran rivalidad y ambas hinchadas llevan todo el partido peleando.|
 |5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
-|6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|
+|6|Un dios del Caos aburrido y su séquito han decidido ver un partido.|
 
 &nbsp;
 
