@@ -25,9 +25,9 @@ Your star player's species should match the team's species. You can also allow c
 Next, you must give them a **name**. Also, choose **pronouns**.
 
 If your team is **rough, choose a number between 2 and 4**, and if it's **technical, between 3 and 5**. A high number means you're better at PASSING (everything related to skill and intelligence: throwing, receiving, dodging, jumping, and also tactics and deception). A low number means you're better at BLOCKING (everything related to strength and stamina: blocking, pushing, charging, running, tackling, and also fear and intimidation).[![STUNTY SLAM! By RomCova](./images/halfling.jpg "STUNTY SLAM! By RomCova")](https://www.deviantart.com/romcova/art/STUNTY-SLAM-787500370 "STUNTY SLAM! By RomCova")
-[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "Enano Bowl By RomCova")Cuando apareces en el campo, dispones de tu **equipo básico**, protecciones (peto, hombreras, coderas, guanteletes, rodilleras, guanteletes, botas y casco). Si tu equipo es rudo, suelen ser pesadas, resistentes y con pinchos y si eres técnico suelen ligeras, pequeñas y con libertad de movimientos.
+[![Enano Bowl By RomCova](./images/enano.jpg "Enano Bowl By RomCova")](https://www.deviantart.com/romcova/art/Enano-Bowl-786530420 "Enano Bowl By RomCova")When you arraive into the field, you have your **basic equipment**: protective gear (chest protector, shoulder pads, elbow pads, gauntlets, knee pads, gloves, boots, and helmet). If you're a rough player, your gear is usually heavy, durable, and spiked, while if you're a technical player, it's usually lightweight, compact, and allows for freedom of movement.
 
-Por último, debes seleccionar una posición en el equipo, línea, bloqueador, lanzador, receptor y corredor.
+Finally, you must choose a position on the team: lineman, blocker, thrower, catcher, or blitzer.
 
 ### El agente libre, el veterano y el novato brillante
 
@@ -47,16 +47,16 @@ Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el
 
 Cuando consigues un resultado de «Passes and Blitzs», en la siguiente acción puedes hacer una **acción heroica** que depende de tu posición dentro de equipo.
 
-#### Línea
+#### Lineman
 
 Eres el jugador más simple, tu misión es ayudar al resto y servir de carne de cañón, es lo que hay. Estás jugando remontadas únicas no es momento de jugar con una línea. Es aconsejable, pero no obligatorio, no elegir esta posición. **No tienes acción heroica,** estás solo para apoyar a otros jugadores a que se luzcan. 
 
-#### Bloqueador
+#### Blocker
 
 Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizás marcar algún punto, hacer una gran carrera, …
 
 Usando tu **bloqueo salvaje** puedes lanzarte contra varios oponentes y derribarlos e incluso enfrentarte de tú a tú con un tipo grande. 
-#### Lanzador
+#### Thrower
 
 Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador veterano que trata de irse en toda su gloria.
 
@@ -64,17 +64,17 @@ También el novato que acaba de entrar porque el lanzador oficial ha perdido su 
 
 Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
 
-#### Receptor
+#### Catcher
 
 Lo tuyo es esquivar, zafarte, correr deprisa, saltar y tener unas buenas manos. En el momento que te cogen eres carne picada, pero eres más difícil de coger que un cerdo engrasado. El agente libre y el veterano no suelen ser receptores, este puesto se reserva muchas veces para el novato, ese pequeño que lo que le falta de fuerza y tamaño lo suple con valentía y agilidad.
 
 Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrapar un pase imposible sin importarte tu seguridad física. Pero no tiene por qué acabar ahí, tu estirada puede acabar en una voltereta acrobática que te permite evadir a tus defensores o cayendo al barro y deslizándote hasta la línea de meta.
 
-#### Corredor
+#### Blitzer
 
 Eres una extraña mezcla entre un bloqueador y un receptor, fuerte y ágil, pero casi siempre solo. Esta posición suele ser muy propia de agentes libres que destacan por su individualismo y por los veteranos que tienen la experiencia y la maña para cumplir en esta posición.
 
-Tu **carrera audaz** te permite teniendo el balón lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
+Tu **carrera audaz** te permite, teniendo el balón, lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
 
 ## Tiradas de dados
 
