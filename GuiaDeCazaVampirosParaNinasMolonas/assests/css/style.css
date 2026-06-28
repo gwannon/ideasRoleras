@@ -6,6 +6,18 @@
   --padding: 65px;
 }
 
+body#bw {
+  --color-bic: #000000;
+  --color-bic-red: #000000;
+  --color-white: #fff;
+  --color-black: #000;
+  --padding: 65px;
+}
+
+body#bw img {
+  filter: grayscale(1);
+}
+
 *, html {
   scroll-behavior: smooth !important;
 }
@@ -19,6 +31,12 @@ body {
   margin: 0 auto;
   padding: 0;
   max-width: 800px;
+}
+
+body#bw {
+  background-image: none;
+  font-family: serif;
+  font-size: 19px;
 }
 
 p, li {
@@ -63,6 +81,11 @@ h2:not(section:first-of-type h2) {
   margin-bottom: 10px;
   font-size: 1.7em;
   text-transform: uppercase;
+}
+
+body#bw h2:not(section:first-of-type h2) {
+  margin-bottom: 9px;
+  font-size: 1.5em;
 }
 
 h3 {
@@ -121,6 +144,11 @@ blockquote > p {
   position: relative;
 }
 
+body#bw blockquote > p {
+  font-family: serif;
+  font-size: 1.1em;
+}
+
 blockquote > p:before {
   content: "";
   display: block;
@@ -162,6 +190,11 @@ pre code {
   display: block;
   padding: calc(var(--padding) / 2);
   position: relative;
+}
+
+body#bw pre code {
+  font-size: 1.1em;
+  font-family: serif;
 }
 
 pre code:before,
@@ -225,6 +258,14 @@ strong:before {
   transform: skew(-17deg, 0.5deg);
 }
 
+body#bw strong, i { 
+  color: var(--color-bic);
+}
+
+body#bw strong:before {
+background-color: #69696930;
+}
+
 i:before {
   content: "";
   position: absolute;
@@ -234,6 +275,10 @@ i:before {
   background-color: #ff004063;
   height: 1em;
   transform: skew(17deg, 1deg);
+}
+
+body#bw i:before {
+  background-color: #7171713d;
 }
 
 section ul {
@@ -263,6 +308,11 @@ ul > li > ul > li {
   margin-left:20px;
   position: relative;
   margin-top: 11px;
+}
+
+body#bw ul > li,
+body#bw ul > li > ul > li {
+  margin-top: 9px;
 }
 
 ul > li:after {
@@ -406,6 +456,11 @@ section:first-of-type {
   position: relative;
 }
 
+body#bw section:first-of-type,
+body#bw section:nth-of-type(2) {
+  background: #7b7b7b none top left no-repeat;
+}
+
 section:first-of-type:after,
 section:first-of-type:before {
   content: "";
@@ -444,6 +499,11 @@ section:first-of-type h2 {
   color: white;
   text-align: center;
   font-family: "Delicious Handrawn", serif;
+}
+
+body#bw section:first-of-type h2 {
+  font-size: 1.9em;
+  font-family: serif;
 }
 
 section:first-of-type p {
@@ -584,6 +644,11 @@ section:last-of-type {
   position: relative;
 }
 
+body#bw section:nth-of-type(10),
+body#bw section:last-of-type {
+ background: #7b7b7b none top left no-repeat;
+}
+
 section:last-of-type * {
   color: white;
 }
@@ -653,6 +718,11 @@ body {
   z-index: 10;
   opacity: 1;
   font-size: 2.5em;
+}
+
+body#bw .saltopagina:after {
+  font-family: serif;
+  font-size: 1.8em;
 }
 
 .saltopagina.odd:after {

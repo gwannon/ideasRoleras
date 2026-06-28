@@ -7,7 +7,7 @@ include(__DIR__ ."/config.php");
 /* -------------------------------------------------------------- */
 use FastVolt\Helper\Markdown;
 
-$md = file_get_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.md");
+$md = file_get_contents(__DIR__ . "/../".$argv[1].".md");
 
 $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/../".$matches[1].".md"); 
@@ -19,14 +19,14 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/../AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\n\n\sp", "\n\n\sc", "\n\n\sinc", "\n\n\conc", "\n\n&nbsp;"], "", $md)));
+file_put_contents(__DIR__ . "/../Accesbilidad".$argv[1].".md", str_replace(["\n\n\n\n", "\n\n\n\n", "\n\n\n", "\n\n\n\n", "\n\n\n\n", "\n\n\n"], "\n\n", str_replace(["\n\n\sp", "\n\n\sc", "\n\n\sinc", "\n\n\conc", "\n\n&nbsp;"], "", $md)));
 
 //file_put_contents(__DIR__ . "/../todo.md", $md);
 
 $mkd = Markdown::new();
 $mkd->setContent($md);
 $tags['HTML'] = $mkd->toHtml();
-$html = file_get_contents(__DIR__ . "/template.html");
+$html = file_get_contents(__DIR__ . "/template".$argv[1].".html");
 foreach ($tags as $tag => $value) {
   $html = str_replace("|".$tag."|", $value, $html); 
 }
@@ -57,7 +57,7 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   return $matches[0];
 }, $html);
 
-file_put_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.html", $html);
+file_put_contents(__DIR__ . "/../".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
@@ -72,7 +72,7 @@ $metas .= "InfoValue: ".$tags['KEYWORDS']."\n\n";
 /* -------------------------------------------------------------- */
 $doc = new DOMDocument();
 $internalErrors = libxml_use_internal_errors(true);
-$doc->loadHTMLFile(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.html");
+$doc->loadHTMLFile(__DIR__ . "/../".$argv[1].".html");
 $body = $doc->getElementsByTagName('body');
 $body = $body->item(0);
 $json = [];
@@ -127,7 +127,7 @@ foreach ($json as $item) {
 
 $html = str_replace("|INDICE|", $indice, $html);
 
-file_put_contents(__DIR__ . "/../GuiaDeCazaVampirosParaNinasMolonas.html", $html);
+file_put_contents(__DIR__ . "/../".$argv[1].".html", $html);
 file_put_contents(__DIR__ . "/../metas.txt", $metas);
 
 /* LIBs */

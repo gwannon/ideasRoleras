@@ -402,19 +402,12 @@ Aquí tienes algunos posts, películas, libros y comics que te pueden ayudar a d
 
 \sinc
 
-## Otros proyectos que te pueden interesar
+## Finalista de los premios Ignotus 2026 a mejor Juego de Rol
 
-Si os ha gustado esta campaña podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
-
-&nbsp;
-
-[![Doctor Jekyll y Mister Hyde: Investigadores privados](./assests/images/jekyll-hyde.png "Doctor Jekyll y Mister Hyde: Investigadores privados")](https://jekyllhyde.gwannon.com/ "Doctor Jekyll y Mister Hyde: Investigadores privados")
 
 &nbsp;
 
-[**Doctor Jekyll y Mister Hyde: Investigadores privados**](https://jekyllhyde.gwannon.com/) es un suplemento para Fate Acelerado para un director de juego y dos jugadores, pero con solo un jugador en mesa al mismo tiempo. Tras solventar sus diferencias y problemas, el Doctor Jekyll y Mister Hyde han montado una agencia de investigación y se dedican a resolver crímenes en un Londres victoriano.
-
-[**Doctor Jekyll y Mister Hyde: Más extraños casos**](https://jekyllhydemas.gwannon.com/) trae 3 nuevos casos para el juego de rol para Fate Acelerado «Doctor Jekyll y Mister Hyde: Investigadores privados», donde tendrán que enfrentarse a gente con doble personalidad como ellos, avariciosos especuladores de terrenos y violentos falsificadores de los bajos fondos.
+[![Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol](./assests/images/bannerpromo.jpg "Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol")](https://www.asociacionportico.com/finalistas-de-los-premios-ignotus-y-matilde-horne-2026/ "Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol")
 
 \conc
 
