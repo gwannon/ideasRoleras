@@ -478,3 +478,28 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLibraco de teoría actoral d8 (d6 si va desmorfeada de incógnito)\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSi acaban con los dos grupos, llamarán a la sala de vivisecciones donde Claudia desmorfeada está atada, amordazada y sujeta en una camilla y un médico con una motosierra de cirugía cibernética va a empezar a cortarla en lonchas y a empaquetarlas para estudiarlas.\\E$"}
 {"rule":"FORM","sentence":"^\\QHabla de forma petulante y tiende a despreciar a los que están por debajo de ella, es decir casi todos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDorcha By sokoistrying\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QJoaquina Maya, Clan Ravnos By IvanValladares\\E$"}
+{"rule":"SENSIBLE","sentence":"^\\QTambién se ha vuelto muy sensible a los olores molestándole mucho, de hecho, el olor a ajo la repele muchísimo más que al resto de chupasangres y no puede aguantar estar en una habitación con alguien que ha comido ajo o cebolla.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QCOMMISSION Cheelu By aeeriz\\E$"}
+{"rule":"NOTICE","sentence":"^\\QCelose tiene que hacer toda esta actividad a escondidas e incluso se ha alquilado un piso secreto desde donde hace sus directos hablando de sus cosas, comentando desde noticias de política internacional a outfits de la alfombra roja.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QInfluencer in progress:\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QSin su ayuda, hacia 1900, los planes para conseguir su actual territorio habrían fracasado y seguramente habría acabado muerto.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QHexerei, Clan Ventrue By IvanValladares\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}
+{"rule":"PREP_VERB","sentence":"^\\QYour heaven’s a lie By keep-breathing\\E$"}
+{"rule":"SPACE_UNITIES","sentence":"^\\QPortrait of retro 1920s english arabian business man wearing dark suit tie and flat cap By ASphotofamily\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPintada vanpiro esiten\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QOndolemar doodle By Elleylie\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPainting sketch By ArthurHenri\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe la noche a la mañana cualquier cacho de pared libre se llena de carteles anunciando el mayor concierto que ha conocido el barrio, los NashB, la banda de K-Popers más famosa del mundo y encima con entradas solo en taquilla a precios populares.\\E$"}
+{"rule":"NOTICE","sentence":"^\\QLas noticias del concierto serán una semana antes y podrían coincidir con decisiones burocráticas importantes como el permiso de derribo del campo de fútbol o los permisos de construcción en los humedales.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Qgraffiti, Santiago by duncan cumming\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qgrave error.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRecuerden ACAB All Cops Are Bastards\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWetlands with marsh vegetation in Mammoth route in Padul, Granada, Andalusia, Spain by javi_indy\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QStove with fire at blacksmith workshop.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThere are different tools around by fxquadro\\E$"}
+{"rule":"FABRIC","sentence":"^\\QLos subproductos contaminantes como plomo o mercurio se guardan en balsas estancas a la espera de ser tratadas en otras fábricas.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}

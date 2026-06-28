@@ -34,7 +34,7 @@ Su objetivo principal a día de hoy es el barrio de tus PJ y va a caer como otra
 * **Proezas:**
   * **Yo hago las reglas:** Lord Ceballos es la máxima autoridad vampírica con potestad de hacer y deshacer a su gusto, debido a eso recibe +2 a Atacaren modo Llamativo cuando se enfrenta socialmente a otros vampiros.
   * **Experiencia con cazavampiros:** Debido a que ya les ha visto anteriormente con más cazavampiros y conoce sus trucos recibe +2 a Crear ventaja de modo Furtivo cuando se enfrenta a cazavampiros.
-  * **Este no es mi primer rodeo:** No es la primera vez que tratan de matarlo, de forma que recibe un +2 a defenderse de modo cauto de los planes para acabar con su vida.
+  * **Este no es mi primer rodeo:** No es la primera vez que tratan de matarlo, de manera que recibe un +2 a defenderse de modo cauto de los planes para acabar con su vida.
   * **Hecho de pesadillas:** Lord Ceballos representa todos elementos que los humanos llevan temiendo desde que vivían en cavernas, una vez por partida puede desplegar todos sus poderes vampiros y hacer que masas de humanos huyan aterrorizados.
   * **Tentación:** Debido a Lord Ceballos puede cumplir cualquiera de tus deseos y sueños con su poder y su dinero tiene una gran capacidad de tentar a las personas y hacer con ellas lo que quiera. Debido a esto una vez por partida, Lord Ceballos se puede reunir en secreto con un PNJ (a no ser que lo tengan vigilado tus cazadoras) y tentarle para que traicione a tus cazadoras.
 * **Capacidad de recuperación:** 3
@@ -54,7 +54,7 @@ Alfonse es le vampire más joven convertido por Lord Ceballos. El viejo Ceballos
 
 El paso a vampiro no fue nada traumático, como pensaba Lord Ceballos. Había tenido en su vida problemas mucho mayores que ese y había sobrevivido a ellos.
 
-Tras unos días de transición junto a Lord Ceballos, lo puso como «noob» al servicio de Néstor y se olvido de él, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
+Tras unos días de transición junto a Lord Ceballos, lo puso como «noob» al servicio de Néstor y se olvidó de él, pensando que siendo del mismo tipo de «depravados» (nada más lejos de la realidad) se llevarían bien y trabajarían bien juntos en la parte de su gran plan vampírico. 
 
 \sp
 
@@ -64,7 +64,7 @@ Tras unos días de transición junto a Lord Ceballos, lo puso como «noob» al s
 
 Alfonse odia profundamente Néstor y está buscando una manera de acabar con él y quedarse su puesto. Así que muy posiblemente vea a tus cazadoras como una oportunidad de deshacerse de él, para luego traicionarlas luego y ganarse la confianza de Lord Ceballos y obtener el puesto de Néstor.
 
-Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bastante transgresor en sus elecciones de vestuario. Como persona no binaria juega con ello en su forma de vestir buscando siempre crear outfits rompedores y chocantes.
+Alfonse aparenta alrededor de los 22 años y viste a la última moda siendo bastante transgresor en sus elecciones de vestuario. Como persona no binaria juega con ello en su manera de vestir buscando siempre crear outfits rompedores y chocantes.
 
 Nuestro vampire en principio no tiene ningún tipo de escrúpulos morales o ético y solo piensa en sí mismo y su supervivencia por lo que solo mira por su interés sin importar quien caiga. De hecho, eso es lo que vio Lord Ceballos en elle cuando lo convirtió. 
 
@@ -280,7 +280,7 @@ Mientras que sus compañeros más jóvenes recomendarían sobornar a un polític
 * **Estilos:** Cauto Enorme (+4), Furtivo Grande (+3), Ingenioso Bueno (+2), Llamativo Bueno (+2), Rápido Enorme (+4), Vigoroso Grande (+3)
 * **Proezas**
   * **Modales intachables:** Debido a sus finísimos modales, obtiene un +2 a Superar en modo Cauto en reuniones sociales de clase alta.
-  * **Viejos métodos:** Su forma de actuar en métodos viejos y en desuso, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
+  * **Viejos métodos:** Su forma de actuar se basa en métodos viejos y en desuso, pero eficaces para los que nadie está preparado, por ello obtiene +2 a Atacar en modo Furtivo cuando planea ataques a sus enemigos.
   * **Pistolera:** Con años de entrenamiento disparando armas de fuego, obtiene +2 a Atacar en modo Rápido usando armas de fuego cortas o medias. 
   * **Cero tecnología:** Como no usa ningún tipo de tecnología, legalmente no está viva y los archivos de vida antes de ser vampira no están digitalizados, es imposible rastrearla y sacar información de ella por Internet. 
 * **Capacidad de recuperación:** 3

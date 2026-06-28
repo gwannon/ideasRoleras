@@ -118,12 +118,12 @@ El campo está metido casi en los humedales con lo que solo se puede entrar desd
 
 ### Discoteca «Jaula»
 
-* **Aspectos visibles:** Discoteca de moda, Oscura y ruidosa 
+* **Aspectos visibles:** Discoteca de moda, Oscura y ruidosa
 * **Aspectos ocultos:** Guarida de vampiros, Tráfico de drogas
 
 \conc
 
-«Jaula» es una discoteca techno situada en un polígono industrial del barrio. Es _-oscura y llena de __zonas reservadas__ fuera de la vista de todos, mientras que la pista es ruidosa, llena de gente bailando frenéticamente y con luces estroboscópicas. 
+«Jaula» es una discoteca techno situada en un polígono industrial del barrio. Es oscura y llena de __zonas reservadas__ fuera de la vista de todos, mientras que la pista es ruidosa, llena de gente bailando frenéticamente y con luces estroboscópicas. 
 
 Las __fiestas de la espuma__ que ocurre en la pista de baile de la planta baja son famosas y fueron una idea de Alfonse como sistema antiincendios y una forma de mojar a todos y a todo el mundo y que sea difícil provocar un incendio. En la segunda planta hay unos __aspersores antiincendios__ para proteger su guarida del fuego.
 
