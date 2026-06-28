@@ -228,7 +228,7 @@ El problema del agua bendita es que el sacerdote que la bendiga debe creer y ten
 
 ### Plata
 
-Los objetos dañados en plata dañan a los vampiros, da igual que sea un cuchillo para mantequilla, que un anillo, que la tetera de tu tata. Si es de plata puede hacerles daño. 
+Los objetos bañados en plata dañan a los vampiros, da igual que sea un cuchillo para mantequilla, que un anillo, que la tetera de tu tata. Si es de plata puede hacerles daño. 
 
 Les hace grandes heridas y mucho dolor y normalmente se acobardan bastante si tienen una buena provisión de plata, porque el simple roce es muy peligroso para ellos.
 
@@ -262,7 +262,7 @@ Segundo, porque esa inmortalidad les aburre y necesitan un juguete complicado y 
 
 > Vamos, como diría mi abu: Las manos ociosas son el taller del diablo.
 
-Si te encuentras un vampiro, estaré segura de que está planeando o ejecutando un plan. En cuanto terminan un plan empiezan con otro, ni los disfrutan.
+Si te encuentras un vampiro, estate segura de que está planeando o ejecutando un plan. En cuanto terminan un plan empiezan con otro, ni los disfrutan.
 
 ### Estructura social
 
@@ -309,7 +309,7 @@ Has de ser rápida al desmantelar planes porque pueden volver a aparecer o cambi
  
 Otro elemento importante de los planes de los chupasangres es que son muy mundanos, tremendamente mundanos. Nada de plagas de zombis, rayos vampirizante o control mental en tu serie favorita.
 
-Son más convertir tu ciudad en una mierda, donde nadie se preocupa de nadie y todos tienen miedo de todos. Es ahí donde sus actos ni son detectados ni son perseguidos y donde viven como reyes.
+Son más de convertir tu ciudad en una mierda, donde nadie se preocupa de nadie y todos tienen miedo de todos. Es ahí donde sus actos ni son detectados ni son perseguidos y donde viven como reyes.
 
 #### Fantasías de poder
 
