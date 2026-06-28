@@ -92,6 +92,10 @@ h3 {
   font-size: 1.5em;
 }
 
+body#bw h3 {
+  font-size: 1.3em;
+}
+
 .columns > h3:first-child,
 .columns > h2:first-child,
 .saltocolumna + h3,
@@ -458,7 +462,7 @@ section:first-of-type {
 
 body#bw section:first-of-type,
 body#bw section:nth-of-type(2) {
-  background: #7b7b7b none top left no-repeat;
+  background: #fff none top left no-repeat;
 }
 
 section:first-of-type:after,
@@ -477,6 +481,11 @@ section:first-of-type:before {
   left: 85px;
 }
 
+body#bw section:first-of-type:after,
+body#bw section:first-of-type:before {
+  display: none;
+}
+
 section:first-of-type h1 {
   font-size: 2em;
   line-height: 110%;
@@ -488,8 +497,13 @@ section:first-of-type h1 {
 }
 
 @media (min-width: 600px) {
-  section:first-of-type  h1 {
+  section:first-of-type h1 {
     font-size: 3em;
+  }
+
+ body#bw  section:first-of-type h1 {
+    font-size: 2.8em;
+    color: var(--color-bic);
   }
 }
 
@@ -646,11 +660,15 @@ section:last-of-type {
 
 body#bw section:nth-of-type(10),
 body#bw section:last-of-type {
- background: #7b7b7b none top left no-repeat;
+ background: #fff none top left no-repeat;
 }
 
 section:last-of-type * {
   color: white;
+}
+
+body#bw section:last-of-type * {
+  color: var(--color-bic);
 }
 
 section:last-of-type > p:first-of-type,
