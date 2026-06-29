@@ -16,15 +16,15 @@ Tiene 158 páginas, 51.195 palabras y 81 imágenes.
 
 ---
 
-## SIN PUBLICAR
-
----
-
-Es el primer proyecto en el que meto personajes pregenerados. No es mi rollo, pero, más que para usarlos en la campaña, están metidos para dar una idea de cómo hacerse tus propias cazadoras. No les puse una foto para no meter fotos de menores, les metí un grafiti que representa bastante bien a la cazadora. 
+Es el primer proyecto en el que meto personajes pregenerados. No es mi rollo, pero, más que para usarlos en la campaña, están metidos para dar una idea de cómo hacerte tus propias cazadoras. No les puse una foto para no meter fotos de menores, les metí un grafiti que representa bastante bien a la cazadora. 
 
 ---
 
 Todo esto empezó tras ver los primeros capítulos de la serie «El Vecino». Va de un superhéroe de barrio que lucha contra los problemas propios del barrio, en vez de en grandes eventos cósmicos. Pero pasamos de los superhéroes y preferimos meter vampiros al más puro estilo «Jóvenes ocultos».
+
+---
+
+## SIN PUBLICAR
 
 ---
 
