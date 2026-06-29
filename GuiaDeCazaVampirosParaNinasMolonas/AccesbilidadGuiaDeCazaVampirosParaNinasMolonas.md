@@ -2817,7 +2817,7 @@ Ninguna de sus víctimas tiene ninguna posibilidad ni de escapar, ni de derrotar
 
 Las únicas salidas posibles es por la puerta que da a la fundación y también por un desagüe general a la que se puede acceder desde una alcantarilla en el pasillo central. La puerta está blindadísima y tiene una cerradura electrónica de última generación por fuera y solo Néstor tiene el mando que lo abre.
 
-El desagüe da a los Humedales, pero hay que arrastrase unos cientos de metros por la tubería para salir. El aire está viciado y el olor es insoportable, así que deberías pedir algún tipo de tirada para superar estos problemas.
+El desagüe da a los Humedales, pero hay que arrastrarse unos cientos de metros por la tubería para salir. El aire está viciado y el olor es insoportable, así que deberías pedir algún tipo de tirada para superar estos problemas.
 
 [![Foto de casa de campo en las ruinas de Gurvan Rolland](./assests/images/pexels-gurvan-rolland-2297267-6997250.jpg "Foto de casa de campo en las ruinas de Gurvan  Rolland")](https://www.freepik.com/free-photo/pro-gamer-participating-gaming-competition-all-night_369234748.htm "Foto de casa de campo en las ruinas de Gurvan  Rolland")
 
@@ -3111,7 +3111,7 @@ Un aspecto importante de Néstor y que debes tener en cuenta al pensar que hará
 **Sugerencia de interpretación:** Has de ser todo lo malvado, cabrón, cruel, sádico y pervertido que puedas, pero no tienes que parecer un loco. Nada de gestos histriónicos ni de gritos sin sentido, siempre calmado y pensando las cosas, nada de ataques repentinos de furia. Simplemente disfruta de hacer el mayor mal posible al mayor número de personas durante el mayor tiempo posible. 
 
 ```
-AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidir si tu mesa a va a estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicota) y convertir sus víctimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
+AVISO: Néstor es el personaje más extremo de toda esta aventura y debes decidir si tu mesa a va a estar a gusto con su forma de actuar. Si crees que es excesivo para tu mesa, puede quitarle todo el tema pederasta (y poner psicopata) y convertir sus víctimas en adultos. También puedes quitar todo el tema de violencia sexual y simplemente convertirlo en un malvado vampiro que mata a sus víctimas tras atemorizarlas hasta casi volverlas locas.   
 ```
 
 ### Catalina Faroes

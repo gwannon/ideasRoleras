@@ -165,7 +165,7 @@ Ninguna de sus víctimas tiene ninguna posibilidad ni de escapar, ni de derrotar
 
 Las únicas salidas posibles es por la puerta que da a la fundación y también por un desagüe general a la que se puede acceder desde una alcantarilla en el pasillo central. La puerta está blindadísima y tiene una cerradura electrónica de última generación por fuera y solo Néstor tiene el mando que lo abre.
 
-El desagüe da a los Humedales, pero hay que arrastrase unos cientos de metros por la tubería para salir. El aire está viciado y el olor es insoportable, así que deberías pedir algún tipo de tirada para superar estos problemas.
+El desagüe da a los Humedales, pero hay que arrastrarse unos cientos de metros por la tubería para salir. El aire está viciado y el olor es insoportable, así que deberías pedir algún tipo de tirada para superar estos problemas.
 
 \sinc
 
