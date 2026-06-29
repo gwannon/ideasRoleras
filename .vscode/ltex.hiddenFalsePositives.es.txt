@@ -503,3 +503,10 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QThere are different tools around by fxquadro\\E$"}
 {"rule":"FABRIC","sentence":"^\\QLos subproductos contaminantes como plomo o mercurio se guardan en balsas estancas a la espera de ser tratadas en otras fábricas.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qnada de nada.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QWall mounted combination key safes by Acabashi\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire lips by Eric B.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QYoung woman boxer training at the gym por senivpetro\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QVampire graffiti in a very remote setting by Michael Gabelmann\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSorry I’m Not Made of Sugar (Screenshot Redraw) By SlyLaika\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDarker Than Tears By NanFe\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTMNT sewer 1 By Tonywashingtonart\\E$"}

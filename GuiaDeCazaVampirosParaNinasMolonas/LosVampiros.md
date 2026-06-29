@@ -253,7 +253,7 @@ Les hace grandes heridas y mucho dolor y normalmente se acobardan bastante si ti
 
 [![Monedas superviejuners de plata](./assests/images/TRAIANUS_RIC_II_291_732081.jpg "Monedas superviejuners de plata")](https://es.wikipedia.org/wiki/Denario#/media/Archivo:TRAIANUS_RIC_II_291_732081.jpg "Monedas superviejuners de plata")
 
-Tengo la teoría que cuanto más vieja más efectiva es la plata, así que comprar monedas de plata en el rastro no es mala opción. Cómprate un álbum de monedas y mételas dentro y tus padres estarán contentísimos.
+Tengo la teoría de que cuanto más vieja más efectiva es la plata, así que comprar monedas de plata en el rastro no es mala opción. Cómprate un álbum de monedas y mételas dentro y tus padres estarán contentísimos.
 
 Las balas de plata serían realmente útiles, pero las menores no tenemos acceso a este material. Por eso, estas vacaciones, igual, tengo tiempo de probar con un tirachinas con cuentas de plata. Seguro que si impacto en la cabeza de unos chupasangres, le dejo inconsciente lo suficiente para trincharle el corazón con una estaca. 
 
@@ -269,7 +269,7 @@ La experiencia me ha ayudado a descubrir cosas que funcionan y no funcionan con 
 
 * No te fíes de tu abuela cuando te diga que su cubertería es de plata, la mayoría son de alpaca plateada y no sirven contra los vampiros.
 * Solo las cruces funcionan y solo si eres muy creyente, que no es mi caso, ya que ni estoy bautizada.
-* Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aprovecha las fiestas para hacer acopio y recuerda que la pólvora caduca. Los hermanos mayores son una buena fuente de petardos.
+* Los petardos no son más efectivos que en un humano. Si consigues uno gordo, puede que algo le haga, pero no es mortal. Aun así, aprovecha las fiestas para hacer acopio y recuerda que la pólvora caduca. Los hermanos mayores son una buena fuente de petardos.
 * Los extintores ni los notan.
 * Los tasers solo churruscan un poco su piel y huele a bacón chungo, pero ni lo notan.
 
@@ -297,7 +297,7 @@ Para entender los planes de los vampiros debemos entender primero su sociedad. C
 
 Los vampiros tienen una estructura social basada en su poder y antigüedad. Estando los newbies o más débiles abajo y arriba el Lord Vampiro, con un par de niveles intermedios.
 
-Los de arriba mandan sobre los de abajo y los de abajo cuando pueden acaban con el de arriba y toman su sitio. Aquí nadie se jubila y se va a vivir a la playa LOL así que el único modo de ascender es cargándote a tu jefe (uno de los sueños de mi madre).
+Los de arriba mandan sobre los de abajo y los de abajo cuando pueden acaban con el de arriba y toman su sitio. Aquí nadie se jubila y se va a vivir a la playa, LOL, así que el único modo de ascender es cargándote a tu jefe (uno de los sueños de mi madre).
 
 __¿Puedes asociarte con un vampiro para cargarte a otro?__ Puedes, pero ten claro que la siguiente en su lista serás tú.
 
@@ -412,7 +412,7 @@ Los vampiros no se reflejan en los espejos, pero solo en los viejos que debían 
 
 Eso convierte a estos viejos espejos de plata en los perfectos detectores de vampiros, sobre todo cuando en su modo Crush.
  
-Una visita a la casa de tus abuelos en el pueblo, al rastro o una antiquaría y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
+Una visita a la casa de tus abuelos en el pueblo, al rastro o una anticuaria y puedes conseguir un espejo eficaz. Yo uso uno con mango y baño de plata por si tengo que golpear con él.
 
 Si se rompen los trozos de cristal, estos tienen plata y pueden usarse como arma.
 
