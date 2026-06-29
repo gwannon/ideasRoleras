@@ -362,7 +362,7 @@ Igual se les ocurre a tus jugadoras cortarle el rollo, pero eso supondría poner
 
 Si quieren seguirle al reservado, la única manera de ver lo que pasa dentro es escabulléndose dentro. Desde fuera solo oirán gemidos y suspiros, pero no como los que les han podido oír a sus padres.
 
-La escena del reservado no sería excesivamente rara si no fuera por ciertos detallitos. Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma «trash» (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
+La escena del reservado no sería excesivamente rara si no fuera por ciertos detallitos. Alfonse tiene la cara llena de sangre, unos colmillos exageradamente grandes para un humano hincados en el cuello de una de sus víctimas, está en su forma Trash (le gusta dejarse ir) y flota sobre la mesa del reservado con sus víctimas entre sus brazos.
 
 De repente, Alfonse levantará la cabeza de sus víctimas y les verá con sus profundos ojos rojos y empezará a chillar. Podrías pedirles alguna tirada Moderadamente difícil (+2) para evitar chillar de miedo o quedarse petrificada.
 
@@ -664,7 +664,7 @@ Tus cazadoras ya saben a lo que se enfrentan, pero en este capítulo todo va a s
 
 Verónica tiene pistas que van directo a Néstor, el tiempo que perdieron en el hospital ahora lo van a ahorrar.
 
-Por su lado, Alfonse las pondrás en la pista de la lonja, como ya hemos dicho le interesa que tus cazadores se deshagan de él, pero si no está Alfonse o no se fían o no quiere recurrir a elle, tienen otras vías
+Por su lado, Alfonse las pondrás en la pista de la lonja, como ya hemos dicho le interesa que tus cazadores se deshagan de él, pero si no está Alfonse o no se fían o no quiere recurrir a elle, tienen otras vías.
 
 ### Si investigan el tráfico de drogas
 
@@ -866,7 +866,7 @@ Quizás sea la opción más interesante, ya que aúna el factor sorpresa con que
 El problema es que seguro que se va a oler la trampa, así que deberá ser muy buena o la mínima Néstor flotara y huirá a su refugio.
 
 ```
-Tus cazadoras puede que quieran aprovecharse de Néstor como pederasta para cazarlo y, por ejemplo, tenderle una trampa con material sexual de ellas mismas. No deberias permitir que se trivialice este tema o parecidos. Tienes que pensar y recalcar el asco y la rabia que deben sentir al tener que hacer esto para evitar que siga matando. 
+Tus cazadoras puede que quieran aprovecharse de Néstor como pederasta para cazarlo y, por ejemplo, tenderle una trampa con material sexual de ellas mismas. No deberías permitir que se trivialice este tema o parecidos. Tienes que pensar y recalcar el asco y la rabia que deben sentir al tener que hacer esto para evitar que siga matando. 
 ```
 
 Algunas ideas básicas podrían ser:
@@ -1045,7 +1045,7 @@ Recuerda que su disfraz de bruja es de «Wicked» y como la protagonista está m
 * El maquillaje verde que lleva encima hace que no les afecte la luz ultravioleta. Necesitaría una exposición de más de 10 segundos para que le haga daño. La luz del día sigue siendo igual de mortal.
 * Se ha hartado de sangre y la visión de sangre puede controlarlo sin problema.
 
-Realmente la mejor prueba, sería sacar su forma «trash». Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
+Realmente la mejor prueba, sería sacar su forma Trash. Sería una prueba irrefutable, pero no pueden hacerla a la vista de todos y el mejor sitio sería dentro de la casita de chocolate. Tendrá que buscar la manera de cabrearla mucho y sacarla de sus casillas. Celose es diferente al resto de vampiros y ahora mismo solo hay dos métodos de sacarla de sus casillas.
 
 * Estropear su evento, del que se siente muy orgullosa. Solo hay que ver el número de visionados que hay en el directo.
 * Robarle el foco y que los seguidores empiecen a hablar más de las invitadas que de ella.
@@ -1112,7 +1112,7 @@ Si tus cazadoras no le ponen fácil la huida, puedes colapsar la estructura de l
 
 Eloise ha fallado en su primera intentona y Lord Ceballos se está impacientando ante su falta de éxitos. Así que solo tiene una y única segunda oportunidad. Esta vez va a tener que poner toda la carne en el asador.
 
-Tus cazadoras ya deberían tener muy claro que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, ella debería saber quien son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas. Sea como sea, ambas partes saben que tienen que enfrentarse y solo debería sobrevivir una de las partes.
+Tus cazadoras ya deberían tener muy claro que Celose es una vampira llamada Eloise, así que nuestra celebrity vampiresa ha perdido el factor sorpresa, pero aun así puede montarles una trampa. Por otro lado, ella debería saber quién son las pequeñas asesinas de vampiros y debería poder prepararse contra ellas. Sea como sea, ambas partes saben que tienen que enfrentarse y solo debería sobrevivir una de las partes.
 
 Eloise va a volver a montar otro evento, esta vez una especie de rave «ilegal». La va a empezar promocionar muchísimo y creará un tremendo FOMO con ella. Espera que las cazadoras acudan para matarla, ya que ella como Celose será el centro todo el evento.
 
@@ -1195,7 +1195,7 @@ Una vez dentro han vaciado todo el interior y solo hay algunas columnas llenas d
 
 Hay unas entre 90 y 100 personas bailando desenfrenadamente por todo el matadero a lo que hay que sumar los goblins que están entrando por todas partes.
 
-En el centro hay un podio de gran tamaño en donde un DJ pincha su música en una gran mesa de mezcla. Junto a él Eloise baila y anima la fiesta. En un de los lados hay una mesa con refrescos y botellines de agua.
+En el centro hay un podio de gran tamaño en donde un DJ pincha su música en una gran mesa de mezcla. Junto a él, Eloise baila y anima la fiesta. En uno de los lados hay una mesa con refrescos y botellines de agua.
 
 Las drogas corren entre los asistentes y muchos todavía están conscientes, pero en un rato irán bastante ciegos y no se enterarán de nada, solo seguirán la música y las luces.
 
@@ -1205,7 +1205,7 @@ Para empezar, no hay mejor momento que este para poner el [tema de la rave de Bl
 
 Celose no va a moverse de la mesa de mezcla a la espera de las cazadoras. Tus cazadoras tendrán que hacer el esfuerzo de subir al podium y enfrentarse a ella.
 
-Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise se pondrá en modo «trash» y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
+Esta vez sí, la pelea debería ser a muerte. Cuando se acerquen a ella, Eloise se pondrá en modo Trash y empezará a lanzar garrazos y mordiscos a diestro y siniestro, mientras algunos de sus siervos (casi todos fans y followers) la ayudan.
 
 * Siervos/seguridad
 * **Bueno (+2) en:** Vigilar, Retener personas
@@ -1419,7 +1419,7 @@ Si tus cazadoras empiezan a investigar la fundición (tanto porque es el princip
 
 Las vigilancias diurnas no van a dar ningún resultado en cuanto a los vertidos, pero si son listas (Moderadamente difícil +2) verán que es mucha casualidad que todas las empresas que dan servicios a la fundición son del Grupo Ceballos. Desde la empresa que trae el material para reciclar, hasta los rellenan las máquinas de refrescos y de sandwiches son parte del Grupo Ceballos. 
 
-Las vigilancias nocturnas les darán la entrada y salida de un vehículo a muy entrada la noche y su regreso horas más tarde. Si ya saben que hacen en esa hora, podrían detectar que descargan a la vuelta bidones y se deshacen de ellos en el horno. Si no saben nada de los bidones escondidos, las salidas del vehículo son extrañas, pero tampoco son muy raras, ya que la fundición funciona 24 horas en turnos de 8 horas. 
+Las vigilancias nocturnas les darán la entrada y salida de un vehículo a muy entrada la noche y su regreso horas más tarde. Si ya saben qué hacen en esa hora, podrían detectar que descargan a la vuelta bidones y se deshacen de ellos en el horno. Si no saben nada de los bidones escondidos, las salidas del vehículo son extrañas, pero tampoco son muy raras, ya que la fundición funciona 24 horas en turnos de 8 horas. 
 
 Según pasen noches sin dormir adecuadamente, tus cazadoras __estarán más cansadas__, lo que debería afectar a sus capacidades, sobre todo si están por el día tratando de evitar el derribo del estadio municipal del barrio. A no ser que decidan intentar cosas como llenarse de cafeína y bebidas energéticas, va a ser una semana muy dura. También podrían montar un sistema de turnos de forma que cada noche descanse una de las cazadoras. No participaría en las investigaciones, pero podría pueda dormir y recuperar sueño perdido.
 
@@ -1560,7 +1560,7 @@ Con la primera demanda de Catalina vienen otras más de grupos ecologistas, sind
 
 Si Nieve es incapaz de controlar el estrés de normal, con la avalancha de mierda que le está cayendo, va a explotar y se lanzará a una misión de búsqueda y destrucción de tus cazadoras. 
 
-En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma «trash» y destrozará su oficina. Totalmente fuera de sí, saldrá a las calles en busca de tus cazadoras.
+En cuanto se ponga el sol el lunes y despierte empezará a leer informes y su poca cordura desaparecerá. Entrará en forma Trash y destrozará su oficina. Totalmente fuera de sí, saldrá a las calles en busca de tus cazadoras.
 
 Empezará a recorrer el barrio como algún tipo de bestia salvaje corriendo a cuatro patas que irá atacando a los peatones. Lanzará terribles aullidos y dará grandes saltos gracias a su fuerza y capacidad de flotar.
 
@@ -1568,7 +1568,7 @@ La policía intentará pararla sin éxito. Las redes se llenarán con imágenes 
 
 Deberían, si quieren conservar su anonimato, llevarla hasta algún sitio deshabitado, como un parque, los humedales e incluso la casa de la «Chejas». Recuerda que incluso totalmente ida, una vampira no puede entrar en aquellos sitios donde no haya sido invitada, pero los transeúntes pueden ser víctimas de sus ataques.
 
-Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así, no abandonara su forma «trash».
+Una fuera de la vista de otros humanos y detectando a su presa, Nieve volverá un poco a la normalidad y empezará a ser menos bestia y más persona. Aun así, no abandonara su forma Trash.
 
 Tras un par de intercambios dialécticos, mientras giran sobre ellos mismos, Nieve se lanzará al ataque. Pelear con Nieve es difícil, es bastante poderosa, va bien armada con dones vampíricos y ha ido aprendiendo de los fallos de vampiros anteriores. Ya sabe qué hay en las pistolas de agua y los globos de agua, sabe quién puede ser una creyente, etc. 
 
@@ -1763,9 +1763,9 @@ Lord Ceballos estará más dispuesto a tender trampas y emboscadas en esta situa
 
 \conc
 
-### La factoria en funcionamiento
+### La factoría en funcionamiento
 
-La factoria de noche funciona, pero con un mínimo de personal, al que Lord Ceballos seguramente haya echado/asustado. No habrán tenido tiempo de apagar las máquinas, así que todos los hornos estarán en funcionamiento.
+La factoría de noche funciona, pero con un mínimo de personal, al que Lord Ceballos seguramente haya echado/asustado. No habrán tenido tiempo de apagar las máquinas, así que todos los hornos estarán en funcionamiento.
 
 El calor es insoportable y si buscan trajes de protección les quedarán muy grandes.
 
