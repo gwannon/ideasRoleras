@@ -12,3 +12,4 @@ pdftk 'temp.pdf' update_info_utf8 'metas.txt' output 'GuiaDeCazaVampirosParaNina
 rm metas.txt
 rm temp.pdf
 rm GuiaDeCazaVampirosParaNinasMolonasBW.html
+rm AccesbilidadGuiaDeCazaVampirosParaNinasMolonasBW.md
