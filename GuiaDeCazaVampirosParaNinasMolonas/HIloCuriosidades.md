@@ -75,7 +75,7 @@ Literalmente meto un párrafo nuevo y en segundos lo tengo maquetado y generado 
 
 ---
 
-Una decisión de diseño interesante fue hacer que los vampiros flotarán muy despacio en vez de volar rapidamente. La razón, entre otras, es que si tus cazadoras tienen que fingir ser vampiras pueden fingir flotar con unas cuerdas. Volar sería más complicado.
+Una decisión de diseño interesante fue hacer que los vampiros flotarán despacio en vez de volar rapidamente. La razón, entre otras, es que si tus cazadoras tienen que fingir ser vampiras pueden fingir flotar con unas cuerdas y algún truco sencillo de efectos especiales. Volar sería más complicado.
 
 ---
 
