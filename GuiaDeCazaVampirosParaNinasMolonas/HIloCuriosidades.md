@@ -53,4 +53,12 @@ Tú mote es uno de los aspectos que puedes usar en partida. No empiezas con él,
 
 ---
 
-El juego está escrito en texto plano usando lenguaje de marcado Markdown y está maquetado en HTML+CSS y luego exportado a PDF con el imprimir en archivo PDF de Chrome. De esta forma cuando escribo algo nuevo en .md, se maqueta solo y se crea el PDF sin problemas. Tardando literalmente unos segundos en tener una nueva versión del PDF.
+El juego está escrito en texto plano con un block de notas del móvil y usando marcación Markdown para titulares, negritas, ... un script la convierte en HTML y lo maqueta usando CSS. Luego lo convierte en PDF usando un Chrome y su función de imprimir y para terminar mete un índice.
+
+Literalmente meto un párrafo nuevo y en segundos lo tengo maquetado y generado el PDF.
+
+---
+
+La gran mayoría de imágenes del manual son fotos de graffitis, muchos de ellos representando vampiros. Cómo no, he metido el meme de «vanpiro esisten».
+
+Ilustran perfectamente el libro, quedan bien con la temática de barrio y la maquetación de fotos grapadas y pegatinas y no he tenido que usar genAI.
