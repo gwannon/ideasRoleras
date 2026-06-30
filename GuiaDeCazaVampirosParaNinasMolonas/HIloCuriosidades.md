@@ -47,7 +47,9 @@ El vampiro Alfonsé es el primer personaje principal abiertamente No-Binario que
 
 En todas las campañas que he escrito he metido una escena de Noche de Poker (o similar) en la que deben pagar sus deudas de juego contando una historia humillante. Aquí lo convertí en una pijamada y además de la historia servía para darte un mote, si no lo tenías ya.
 
-Tú mote es uno de los aspectos que puedes usar en partida.
+---
+
+Tú mote es uno de los aspectos que puedes usar en partida. No empiezas con él, tienen que ponértelo tus compañeras.
 
 ---
 
