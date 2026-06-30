@@ -45,4 +45,10 @@ El vampiro Alfonsé es el primer personaje principal abiertamente No-Binario que
 
 ---
 
+En todas las campañas que he escrito he metido una escena de Noche de Poker (o similar) en la que deben pagar sus deudas de juego contando una historia humillante. Aquí lo convertí en una pijamada y además de la historia servía para darte un mote, si no lo tenías ya.
+
+Tú mote es uno de los aspectos que puedes usar en partida.
+
+---
+
 El juego está escrito en texto plano usando lenguaje de marcado Markdown y está maquetado en HTML+CSS y luego exportado a PDF con el imprimir en archivo PDF de Chrome. De esta forma cuando escribo algo nuevo en .md, se maqueta solo y se crea el PDF sin problemas. Tardando literalmente unos segundos en tener una nueva versión del PDF.
