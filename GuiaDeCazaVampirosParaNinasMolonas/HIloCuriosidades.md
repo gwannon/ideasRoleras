@@ -74,3 +74,9 @@ Literalmente meto un párrafo nuevo y en segundos lo tengo maquetado y generado 
 ## SIN PUBLICAR
 
 ---
+
+Una decisión de diseño interesante fue hacer que los vampiros flotarán muy despacio en vez de volar rapidamente. La razón es que si tus cazadoras tienen que fingir ser vampiras pueden fingir flotar con unas cuerdas. Volar sería más complicado.
+
+---
+
+otra decisión de diseño fueron los espejos. los vampiros no se reflejan en los viejos que tenían plata, en los modernos de aluminio sí. De esa forma tus podían escapar a esa prueba de deteccion tan simple. Además encontrar un buen espejo antiguo podía ser una aventura interesante.
