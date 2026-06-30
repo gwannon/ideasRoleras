@@ -29,13 +29,9 @@ El tema de las niñas cazavampiros me viene de dos comics que me encantan, «Soy
 
 ---
 
-Cada capítulo de la campaña se titula como una canción de Elvis. No tratéis de buscarle un sentido (aunque alguno lo tenga), simplemente me hizo gracia y lo puse así.
+Cada capítulo de la campaña se titula como una canción de Elvis. No tratéis de buscarle un sentido (aunque alguno lo tenga), simplemente me hizo gracia y lo puse así como guiño a Lilo & Stitch.
 
 ---
-
-## SIN PUBLICAR
-
---- 
 
 La idea es que la aventura transcurra entre invierno y primavera y, si algún día la continuo, la siguiente aventura transcurrirá en un campamento de verano/vacaciones con, seguramente, hombreslobos, druidas corruptos, paletos antropófagos, ...
 
@@ -53,12 +49,28 @@ Tú mote es uno de los aspectos que puedes usar en partida. No empiezas con él,
 
 ---
 
-El juego está escrito en texto plano con un block de notas del móvil y usando marcación Markdown para titulares, negritas, ... un script la convierte en HTML y lo maqueta usando CSS. Luego lo convierte en PDF usando un Chrome y su función de imprimir y para terminar mete un índice.
+La gran mayoría de imágenes usadas son fotos de graffitis, muchos de ellos representando vampiros. Cómo no, he metido el meme de «vanpiro esisten».
 
-Literalmente meto un párrafo nuevo y en segundos lo tengo maquetado y generado el PDF.
+Ilustran perfectamente el libro, quedan bien con la temática de barrio y la maquetación de fotos grapadas y no he tenido que usar genAI.
 
 ---
 
-La gran mayoría de imágenes del manual son fotos de graffitis, muchos de ellos representando vampiros. Cómo no, he metido el meme de «vanpiro esisten».
+Al hilo de lo anterior, el aviso de que no se ha usado IA en el proyecto con el texto «Pergeñado con Inteligencia Humana» es obra de Ángel G. Ropero https://bsky.app/profile/angelgropero.eurosky.social/post/3m3ddd2l5vk2n
 
-Ilustran perfectamente el libro, quedan bien con la temática de barrio y la maquetación de fotos grapadas y pegatinas y no he tenido que usar genAI.
+--- 
+
+El caso del vampiro de Glasgow también sirvió de inspiración.
+
+https://www.agenteprovocador.es/publicaciones/caza-vampiro-y6gk4
+
+---
+
+El juego está escrito en texto plano con un block de notas, usando marcación Markdown para titulares, negritas, ... Un script desarrollado en PHP lo convierte en HTML y lo maqueta usando CSS y luego lo convierte en PDF usando un Chrome y su función de imprimir y para terminar mete un índice al PDF.
+
+Literalmente meto un párrafo nuevo y en segundos lo tengo maquetado y generado el PDF y con el índice actualizado. Lo cual es una gran ventaja.
+
+---
+
+## SIN PUBLICAR
+
+---
