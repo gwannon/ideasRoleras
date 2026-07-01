@@ -130,7 +130,7 @@ En las ferias medievales tienen mucha selección, con cuero bueno y pinchos bien
 
 ### Sudaderas con choto
 
-Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+Las sudaderas grandes son muy útiles sobre todo las anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
 
 Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
@@ -196,7 +196,7 @@ La pandilla puede ser otra fuente importante de aspectos secundarios, quizás te
 
 ### Cómo montar y organizar el grupo
 
-Montar tu propia banda de cazadoras de no es fácil, es cuestión de tener amigas de verdad y el momento adecuado.
+Montar tu propia banda de cazadoras de vampiros no es fácil. Es cuestión de tener amigas de verdad y de que sea el momento adecuado.
 
 Una vez que descubrí que el rollo de los vampiros y sus planes eran algo real, empecé a tantear a mis amigas. Una pijamada fue el momento perfecto para hacer las preguntas adecuadas en el momento adecuado.
 
@@ -206,11 +206,11 @@ Sin embargo, esa noche hubo flow y empezamos a contar historias raras que había
 
 Esa misma noche montamos un Google Maps con las localizaciones de todos esos sucesos y enseguida vimos un patrón. 
 
-A esa pijamada siguieron unas cuantas más donde seguimos investigando el misterio del barrio sin darle el nombre más lógico, VAMPIROS. Hasta que en la última aparecí las pruebas que conseguí de mi primera cacería y les conté todo lo que sabía.
+A esa pijamada siguieron unas cuantas más donde seguimos investigando el misterio del barrio sin darle el nombre más lógico, VAMPIROS. Hasta que en la última aparecí con las pruebas que conseguí de mi primera cacería y les conté todo lo que sabía.
 
 Esa misma noche juramos combatir el vampirismo y formamos nuestra Banda de sistars cazavampiras, hicimos nuestro reglamento y lo juramos por nuestras abuelas.
 
-Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas, por lo que salimos de caza por las noches, protegerlas de esos horrores.
+Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas, por lo que salimos de caza por las noches, para protegerlas de esos horrores.
 
 \sp
 
@@ -228,7 +228,7 @@ Los puestos dentro del grupo de cazadoras también pueden ser origen de otros as
 
 **Dora** es la que sabe de mapas. Ella busca la ruta de entrada y salida más adecuada y todo lo que ello conlleva, desde bonobús hasta cortacables.
 
-**Geppetto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le mienten a la poli sobre lo que hacías en ese descampado con unas palas.
+**Geppetto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le miente a la poli sobre lo que hacías en ese descampado con unas palas.
 
 **Gossipgirl** se encarga de recabar información y rumores. Filtra los simples shipeos y salseos en info útil para nuestras misiones de caza.
 
@@ -435,7 +435,7 @@ Si consigue escapar de la muerte por alergia al sol, podrá curar cada «quemado
 
 #### Estaca de madera en el corazón
 
-La estaca de madera en el corazón __supone la muerte directa del vampiro__ y solo es posible si está dormida.
+La estaca de madera en el corazón __supone la muerte directa del vampire__ y solo es posible si está dormide.
 
 Eso del cazavampiros clavando estacas a diestro y siniestro es para series y pelis. Hay una caja torácica de hueso protegiendo el corazón que hay que romper. Solo con ayuda de un martillo se puede atravesar las costillas.
 

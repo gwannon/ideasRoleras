@@ -139,7 +139,7 @@ La imagen clásica del vampiro en un ataúd con tierra de su país de origen est
 
 Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad, tienen montado en el local un despacho donde duermen, o quizás tengan una tienda alquilada en eternas reformas en el centro comercial por donde se mueven.
 
-Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios. El hecho que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
+Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios. El hecho de que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
 
 \sinc
 
