@@ -65,18 +65,24 @@ https://www.agenteprovocador.es/publicaciones/caza-vampiro-y6gk4
 
 ---
 
-El juego está escrito en texto plano con un block de notas, usando marcación Markdown para titulares, negritas, ... Un script desarrollado en PHP lo convierte en HTML y lo maqueta usando CSS y luego lo convierte en PDF usando un Chrome y su función de imprimir y para terminar mete un índice al PDF.
+El juego está escrito en texto plano con un bloc de notas, usando marcación Markdown para titulares, negritas, ... Un script desarrollado en PHP lo convierte en HTML y lo maqueta usando CSS y luego lo convierte en PDF usando un Chrome y su función de imprimir y para terminar mete un índice al PDF.
 
 Literalmente meto un párrafo nuevo y en segundos lo tengo maquetado y generado el PDF y con el índice actualizado. Lo cual es una gran ventaja.
+
+---
+
+Una decisión de diseño interesante fue hacer que los vampiros flotarán despacio en vez de volar rápidamente. La razón, entre otras, es que si tus cazadoras tienen que fingir ser vampiras pueden fingir flotar con unas cuerdas y algún truco sencillo de efectos especiales. Volar sería más complicado.
+
+---
+
+Otra decisión de diseño fueron los espejos. Los vampiros no se reflejan en los viejos espejos que tenían plata, en los modernos de aluminio sí. De esa forma tus cazadoras podían escapar a esa prueba de detección tan simple. Además, encontrar un buen espejo antiguo podía ser una aventura interesante.
+
+---
+
+Los aspectos día, noche, anocheciendo y amaneciendo son tan importantes en una historia de vampiros que tienen sus propias fichas cuquis para ponerlas en la mesa y que quede claro cuál es el aspecto actual.
 
 ---
 
 ## SIN PUBLICAR
 
 ---
-
-Una decisión de diseño interesante fue hacer que los vampiros flotarán despacio en vez de volar rapidamente. La razón, entre otras, es que si tus cazadoras tienen que fingir ser vampiras pueden fingir flotar con unas cuerdas y algún truco sencillo de efectos especiales. Volar sería más complicado.
-
----
-
-Otra decisión de diseño fueron los espejos. los vampiros no se reflejan en los viejos que tenían plata, en los modernos de aluminio sí. De esa forma tus podían escapar a esa prueba de deteccion tan simple. Además encontrar un buen espejo antiguo podía ser una aventura interesante.
