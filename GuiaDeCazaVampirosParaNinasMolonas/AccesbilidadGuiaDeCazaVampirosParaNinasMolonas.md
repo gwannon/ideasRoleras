@@ -132,21 +132,21 @@ Hay una serie de creencias populares sobre los vampiros que he podido que no son
 
 ## ¿Dónde duermen?
 
-La imagen clásica del vampiro en un ataúd con tierra de su país de origen está bastante alejada de la realidad. No necesitan ninguna de esas cosas, solo un _sitio seguro_ y donde _no entre la luz del sol_. Puedes dormir en una cama supergótica con doseles y cortinajes supergruesos o dentro de una compleja caja metálica anti-cazavampiros en una habitación del pánico. En caso de necesidad, colgando bocabajo de la viga de un desván o arrebujados en un conducto de ventilación de un garaje subterráneo. 
+La imagen clásica del vampiro en un ataúd con tierra de su país de origen está bastante alejada de la realidad. No necesitan ninguna de esas cosas, solo un _sitio seguro_ donde _no entre la luz del sol_. Puedes dormir en una cama supergótica con doseles y cortinajes supergruesos o dentro de una compleja caja metálica anti-cazavampiros en una habitación del pánico. En caso de necesidad, colgando bocabajo de la viga de un desván o arrebujado en un conducto de ventilación de un garaje subterráneo. 
 
 Principalmente, duermen cerca de sus territorios de caza, muchas veces incluso en el propio territorio. Si caza en una disco de su propiedad, tienen montado en el local un despacho donde duermen, o quizás tengan una tienda alquilada en eternas reformas en el centro comercial por donde se mueven.
 
-Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios. El hecho que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
+Sea como sea, la amenaza de la luz del sol, les hace que no se alejen mucho de sus refugios. El hecho de que durante el día sean vulnerables hace que sean muy cuidadosos a la hora de volver a sus guaridas, extremando las precauciones y vigilando que nadie les siga.
 
 ### Alcantarillado
 
 [![TMNT sewer 1 By Tonywashingtonart](./assests/images/tmnt_sewer_1_by_tonywashingtonart_dyms48-pre.jpg "TMNT sewer 1 By Tonywashingtonart")](https://www.deviantart.com/tonywashingtonart/art/TMNT-sewer-1-58169816 "TMNT sewer 1 By Tonywashingtonart")
 
-El alcantarillado es el salvavidas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. Suelen moverse por ellas hasta llegar a un colector donde buscará algún hueco o conducto donde esconderse para pasar el día.
+El alcantarillado es el salvavidas más común para estas criaturas. Cuando el amanecer les pilla lejos de su guarida, suelen recurrir a las alcantarillas. Suelen moverse por ellas hasta llegar a un colector donde buscarán algún hueco o conducto en el que esconderse hasta el anochecer.
 
 > Un buen mapa de las alcantarillas de tu barrio con sus colectores principales y como llegar a ellos es muy muy muy muy útil.
 
-Suelo sacar fotos de las alcantarillas y si cuando busco a una sanguijuela detecto que una alcantarilla está movida ya sé por donde ha intentado escapar. No es un método perfecto porque hay gente que las revisa y las mueve, pero es bastante efectivo.
+Suelo sacar fotos de las alcantarillas y si cuando busco a una sanguijuela, detecto que una alcantarilla está movida ya sé por donde ha intentado escapar. No es un método perfecto, porque hay gente que las revisa y las mueve, pero es bastante efectivo.
 
 ### Pisos turísticos
 
@@ -423,7 +423,7 @@ Cuando empiezas a adentrarte en sus planes desbaratándolos y dándole problemas
 
 Una cosa buena que tiene la naturaleza depredadora del vampiro es que cuando tiene una víctima y se pone en plan físico, se olvida del resto. En ese momento se olvida de tu familia, amigos, … Quieres hacerte daño a ti y solo a ti.
 
-Si has seguido las normas estás bien protegida y preparada y tienes un grupo de sistars que te apoya, así que si mandan sirvientes humanos no son tan poderosos como para no poder derrotarlos o escapar de ellos. Si mandan vampiros, tu casa debería ser impenetrable y fuera de ella tienes armas para defenderte.
+Si has seguido las normas, estás bien protegida y preparada y tienes un grupo de sistars que te apoya, así que si mandan sirvientes humanos no son tan poderosos como para no poder derrotarlos o escapar de ellos. Si mandan vampiros, tu casa debería ser impenetrable y fuera de ella tienes armas para defenderte.
 
 > Siempre que sea posible un chupasangre no se ~~manchará las manos de sangre~~ no intervendrá directamente en combates, eso supone muchas veces pasar a su forma Trash y lo odian, además se ven como pensadores maquiavélicos, no picadoras de carne. 
 
@@ -431,9 +431,9 @@ Si has seguido las normas estás bien protegida y preparada y tienes un grupo de
 
 Casi siempre tratan de trabajar a través de sus chupones o de los vampiros que están por debajo de ellos. No les gusta meter gente de fuera. 
 
-Podéis pensar que podrían contratar a un grupo de supermercenarios para acabar con tu panda de cazadoras, cuando empiezas a desbaratar su plan, pero piensa que eres una niña de 12 años. Sería raro contratar a un mercenario checheno para que ejecute a un grupo de niñas de 12 años. Estos encargos provocan muchas preguntas. Además, que aparezcan 4 cadáveres de 4 niñas de un barrio, puede hacer que el barrio entero se levante y luche por él y eso es lo último que quiere el Lord. 
+Podéis pensar que podrían contratar a un grupo de supermercenarios para acabar con tu panda de cazadoras, cuando empiezas a desbaratar su plan, pero piensa que eres una niña de 12 años. Sería raro contratar a un mercenario checheno para que ejecute a un grupo de niñas de 12 años. Estos encargos provocan muchas preguntas. Además, que aparezcan 4 cadáveres de 4 niñas de un barrio, puede hacer que el barrio entero se levante y luche contra él y eso es lo último que quiere el Lord. 
 
-Un gran vampiro solo recurrirá a fuerzas especiales cuando su status se vea altamente en peligro, hasta ese momento tratarán de llevar todo a modo local.
+Un gran vampiro solo recurrirá a fuerzas especiales cuando su status se vea altamente en peligro, hasta ese momento tratarán de llevar todo en modo local.
 
 ### Sirvientes humanos
 
@@ -639,7 +639,7 @@ En las ferias medievales tienen mucha selección, con cuero bueno y pinchos bien
 
 ### Sudaderas con choto
 
-Las sudaderas grandes son muy útiles sobre todo anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
+Las sudaderas grandes son muy útiles sobre todo las anchas. Pasas desapercibidas, ocultas tu cara con el choto y puedes llevar debajo protecciones varias como coderas. Además, sus grandes bolsillos te permiten llevar la pistola de agua sin dar el cante.
 
 Junto al pantalón de chándal y unas deportivas es el outfit perfecto de la cazavampiros.
 
@@ -693,7 +693,7 @@ La pandilla puede ser otra fuente importante de aspectos secundarios, quizás te
 
 ### Cómo montar y organizar el grupo
 
-Montar tu propia banda de cazadoras de no es fácil, es cuestión de tener amigas de verdad y el momento adecuado.
+Montar tu propia banda de cazadoras de vampiros no es fácil. Es cuestión de tener amigas de verdad y de que sea el momento adecuado.
 
 Una vez que descubrí que el rollo de los vampiros y sus planes eran algo real, empecé a tantear a mis amigas. Una pijamada fue el momento perfecto para hacer las preguntas adecuadas en el momento adecuado.
 
@@ -703,11 +703,11 @@ Sin embargo, esa noche hubo flow y empezamos a contar historias raras que había
 
 Esa misma noche montamos un Google Maps con las localizaciones de todos esos sucesos y enseguida vimos un patrón. 
 
-A esa pijamada siguieron unas cuantas más donde seguimos investigando el misterio del barrio sin darle el nombre más lógico, VAMPIROS. Hasta que en la última aparecí las pruebas que conseguí de mi primera cacería y les conté todo lo que sabía.
+A esa pijamada siguieron unas cuantas más donde seguimos investigando el misterio del barrio sin darle el nombre más lógico, VAMPIROS. Hasta que en la última aparecí con las pruebas que conseguí de mi primera cacería y les conté todo lo que sabía.
 
 Esa misma noche juramos combatir el vampirismo y formamos nuestra Banda de sistars cazavampiras, hicimos nuestro reglamento y lo juramos por nuestras abuelas.
 
-Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas, por lo que salimos de caza por las noches, protegerlas de esos horrores.
+Que haya amigas íntimas que no estén entre mis sistars no quieren decir que sean menos amigas, simplemente que no están preparados para la caza. Pero son igual de válidas y tan o más amigas que mi panda. Además, son por gente como ellas, por lo que salimos de caza por las noches, para protegerlas de esos horrores.
 
 > Este es el sistema que a mí me funciona con mis si&#x2605;s, pero igual no es el mejor para tu grupo de cazadoras, así que tómalo más como un ejemplo que como una guía que seguir.
 
@@ -723,7 +723,7 @@ Los puestos dentro del grupo de cazadoras también pueden ser origen de otros as
 
 **Dora** es la que sabe de mapas. Ella busca la ruta de entrada y salida más adecuada y todo lo que ello conlleva, desde bonobús hasta cortacables.
 
-**Geppetto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le mienten a la poli sobre lo que hacías en ese descampado con unas palas.
+**Geppetto** que es la que se encarga de poner excusas para llegar tarde, urde las mentiras para poder salir de noche y la que le miente a la poli sobre lo que hacías en ese descampado con unas palas.
 
 **Gossipgirl** se encarga de recabar información y rumores. Filtra los simples shipeos y salseos en info útil para nuestras misiones de caza.
 
@@ -902,7 +902,7 @@ Si consigue escapar de la muerte por alergia al sol, podrá curar cada «quemado
 
 #### Estaca de madera en el corazón
 
-La estaca de madera en el corazón __supone la muerte directa del vampiro__ y solo es posible si está dormida.
+La estaca de madera en el corazón __supone la muerte directa del vampire__ y solo es posible si está dormide.
 
 Eso del cazavampiros clavando estacas a diestro y siniestro es para series y pelis. Hay una caja torácica de hueso protegiendo el corazón que hay que romper. Solo con ayuda de un martillo se puede atravesar las costillas.
 
