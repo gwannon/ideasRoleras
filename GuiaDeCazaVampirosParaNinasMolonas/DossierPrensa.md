@@ -44,6 +44,7 @@ Está maquetado como un cuaderno de anillas escrito a mano con bolígrafo azul y
 * **Fichero PDF en blanco y negro, mayor contraste y fuentes más legibles:** [https://cazavampiros.gwannon.com/pdf/?lang=esbw](https://cazavampiros.gwannon.com/pdf/?lang=esbw)
 * **Fichero en texto plano para accesibilidad:** [https://cazavampiros.gwannon.com/AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md](https://cazavampiros.gwannon.com/AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md)
 * **Página web:** [https://cazavampiros.gwannon.com/](https://cazavampiros.gwannon.com/)
+* **Código y texto originales:** [https://github.com/gwannon/ideasRoleras/tree/main/GuiaDeCazaVampirosParaNinasMolonas](https://github.com/gwannon/ideasRoleras/tree/main/GuiaDeCazaVampirosParaNinasMolonas)
 
 ## Licencia
 
