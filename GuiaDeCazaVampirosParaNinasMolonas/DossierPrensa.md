@@ -45,6 +45,12 @@ Fecha de publicación: 24 de agosto de 2025
 * **Fichero en texto plano para accesibilidad:** [https://cazavampiros.gwannon.com/AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md](https://cazavampiros.gwannon.com/AccesbilidadGuiaDeCazaVampirosParaNinasMolonas.md)
 * **Página web:** [https://cazavampiros.gwannon.com/](https://cazavampiros.gwannon.com/)
 
+## Licencia
+
+GCNM se encuentra bajo la licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/deed.es). Puedes usar este contenido en cualquier forma que te permita la licencia incluso comercial, siempre que incluyas un texto atribuyéndome como autor.
+
+Si no lo haces, es que eres **el ser más rastrero del mundo**, peor que Elon Musk. Por favor, que te lo estoy dando gratis y poner una referencia no cuesta nada. Si con ponerlo al final en letra tamaño superpequeña, cumples con la licencia.
+
 ## Material gráfico
 
 ### Logos
@@ -69,10 +75,10 @@ Fecha de publicación: 24 de agosto de 2025
 
 [![Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol](./assests/images/bannerpromo.jpg "Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol")](https://www.asociacionportico.com/finalistas-de-los-premios-ignotus-y-matilde-horne-2026/ "Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol")
 
-## El autor
+## El autor, o sea, yo :) 
 
-O sea, yo :) 
+Me llamo Jorge Monclús y llevo desde 35 año jugando a rol regularmente y escribiendo mierdas roleras desde hace 5. Me encanta Savage Worlds y FATE y trato de alejarme de D&D todo lo que pueda, aunque con mi mesa es complicado. 
 
-XXX
+Puedes encontrar más de mis proyectos roleros en [https://gwannon.com/](https://gwannon.com/) y en mis perfiles de [itch.io](https://gwannon.itch.io/) y [rpg-trader.com](https://rpg-trader.com/creator/124/gwannon). 
 
-|HIloCuriosidades.md|
+|HiloCuriosidades.md|
