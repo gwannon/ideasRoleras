@@ -12,13 +12,13 @@ GCNM es una ambientación para FATE Acelerado publicada el 24 de agosto de 2025.
 
 En esta ambientación los vampiros son los culpables de todos los problemas del barrio. Los gentrifican, expulsan a sus vecinos, deterioran sus servicios, hacen que la gente se odie entre ellos en vez de ayudarse, etc. degradándolos hasta que pueden moverse sin problemas haciendo u fechorías. 
 
-Por cierto, **Si cambias vampiro por facha,** la ambientación no cambia ni ápice, pero poner vampiros era más guay. 
+Por cierto, **si cambias vampiro por facha,** la ambientación no cambia ni ápice, pero poner vampiros era más guay. 
 
-El libro tiene dos partes. La primera parte **contiene las reglas eepecíficas de la ambientación**, donde se explican cómo son los vampiros y sus planes, cómo afectan al barrio y sobre todo como ser una cazavampiros infantil y combatir a los chupasangre.
+El libro tiene dos partes. La primera parte **contiene las reglas específicas de la ambientación**, donde se explican cómo son los vampiros y sus planes, cómo afectan al barrio y sobre todo como ser una cazavampiros infantil y combatir a los chupasangres.
  
 También contiene **reglas para la creación de las cazadoras**, sus grupos de cazadoras, sus refugios y sus mascotas. Trae ejemplos de tácticas y armas eficaces contra vampiros como las pistolas de agua cargadas de té de ajo.
  
-Esta primera parte está escrito como un manual de combate y supervivencia por una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing).
+Esta primera parte está escrita como un manual de combate y supervivencia por una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing).
 
 La segunda parte **incluye una campaña corta** que te permite saborear toda la ambientación en su totalidad. Tus cazadoras empezarán investigando la muerte de una de sus profesoras y terminarán salvando a su barrio y derrotando al poderoso Lord Ceballos, sus siervos vampíricos y humanos y la gran megacorporación que controla, la Corporación Ceballos.
 
