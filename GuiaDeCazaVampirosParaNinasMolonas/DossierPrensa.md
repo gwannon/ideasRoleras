@@ -75,12 +75,21 @@ Si no lo haces, es que eres **el ser más rastrero del mundo**, peor que Elon Mu
 
 ## El autor, o sea, yo mismo
 
-Me llamo Jorge Monclús y llevo desde 35 año jugando a rol regularmente y escribiendo mierdas roleras desde hace 5. Me encanta Savage Worlds y FATE y trato de alejarme de D&D todo lo que pueda, aunque con mi mesa es complicado.
+Me llamo Jorge Monclús y llevo desde 35 año jugando a rol regularmente y escribiendo mierdas roleras desde hace 5. Me encanta Savage Worlds y FATE y trato de alejarme de D&D todo lo que pueda, aunque con mi mesa habitual es complicado.
 
 Estudie Publicidad y Relaciones Públicas, pero acabe como programador en una empresa de marketing online, así que la promoción de productos, en este caso GCMN, es bastante normal para mí.
 
 Me gusta tocar las narices a las editoriales de rol, así que alguna ha sufrido algún hackeo mío (aunque luego le dije como corregirlos) y monte una web para sacar a la luz [los retrasos de sus mecenazgos y preventas](https://gwannon.com/mecenazgos/).
 
 Puedes encontrar más de mis proyectos roleros en [https://gwannon.com/](https://gwannon.com/) y en mis perfiles de [itch.io](https://gwannon.itch.io/) y [rpg-trader.com](https://rpg-trader.com/creator/124/gwannon). 
+
+### Mis redes y otros enlaces
+
+* [Bluesky](https://bsky.app/profile/gwannon.com)
+* [Mastodon](https://mastorol.es/@Gwannon)
+* [Codepen](https://codepen.io/gwannon)
+* [Github](https://github.com/gwannon)
+* [Itch.io](https://gwannon.itch.io/)
+* [RPG-trader](https://rpg-trader.com/creator/124/gwannon)
 
 |HiloCuriosidades.md|
