@@ -4,25 +4,25 @@ Este dossier de prensa recoge toda la información que puede necesitar para tu r
 
 ## Descripción 
 
-GCNM es una ambientación para FATE Acelerado.
+GCNM es una ambientación para FATE Acelerado publicada el 24 de agosto de 2025. 3 conceptos clave definen eta ambientación 
 
-XXX
+* interpretar niñas 
+* cazar vampiros
+* proteger el barrio
 
-La ambientación incluye también una campañita que te permite saborear toda la ambientación en su totalidad. Tus cazadoras empezarán investigando la muerte de una de sus profesoras y terminarán salvando a su barrio y derrotando a un poderoso Lord Vampiro, sus siervos vampíricos y humanos y la gran megacorporación que controla.
+En esta ambientación los vampiros son los culpables de todos los problemas del barrio. Los gentrifican, expulsan a sus vecinos, deterioran sus servicios, hacen que la gente se odie entre ellos en vez de ayudarse, etc. degradándolos hasta que pueden moverse sin problemas haciendo u fechorías. 
 
- XXX
+Por cierto, **Si cambias vampiro por facha,** la ambientación no cambia ni ápice, pero poner vampiros era más guay. 
+
+El libro tiene dos partes. La primera parte **contiene las reglas eepecíficas de la ambientación**, donde se explican cómo son los vampiros y sus planes, cómo afectan al barrio y sobre todo como ser una cazavampiros infantil y combatir a los chupasangre.
  
- La primera parte contiene ambientación general, donde se explican cómo son los vampiros y sus planes, cómo afectan al barrio y sobre todo como ser una cazavampiros infantil y combatir a los chupasangre.
+También contiene **reglas para la creación de las cazadoras**, sus grupos de cazadoras, sus refugios y sus mascotas. Trae ejemplos de tácticas y armas eficaces contra vampiros como las pistolas de agua cargadas de té de ajo.
  
-También contiene reglas para la creación de las cazadoras, sus grupos de cazadoras, sus refugios y sus mascotas. Trae ejemplos de armas eficaces contra vampiro como las pistolas de agua cargadas de té de ajo.
- 
- XXX
+Esta primera parte está escrito como un manual de combate y supervivencia por una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing).
+
+La segunda parte **incluye una campaña corta** que te permite saborear toda la ambientación en su totalidad. Tus cazadoras empezarán investigando la muerte de una de sus profesoras y terminarán salvando a su barrio y derrotando al poderoso Lord Ceballos, sus siervos vampíricos y humanos y la gran megacorporación que controla, la Corporación Ceballos.
 
 Está maquetado como un cuaderno de anillas escrito a mano con bolígrafo azul y rojo, fluorescente verde y amarillo, fotos grapadas y pegatinas.
- 
-Está escrito como un manual de combate y supervivencia por una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing).
- 
-Fecha de publicación: 24 de agosto de 2025
  
 ## Características
 
@@ -77,7 +77,11 @@ Si no lo haces, es que eres **el ser más rastrero del mundo**, peor que Elon Mu
 
 ## El autor, o sea, yo :) 
 
-Me llamo Jorge Monclús y llevo desde 35 año jugando a rol regularmente y escribiendo mierdas roleras desde hace 5. Me encanta Savage Worlds y FATE y trato de alejarme de D&D todo lo que pueda, aunque con mi mesa es complicado. 
+Me llamo Jorge Monclús y llevo desde 35 año jugando a rol regularmente y escribiendo mierdas roleras desde hace 5. Me encanta Savage Worlds y FATE y trato de alejarme de D&D todo lo que pueda, aunque con mi mesa es complicado.
+
+Estudie Publicidad y Relaciones Públicas, pero acabe como programador en una empresa de marketing online, así que la promoción de productos, en este caso GCMN, es bastante normal para mí.
+
+Me gusta tocar las narices a las editoriales de rol, así que alguna ha sufrido algún hackeo mío (aunque luego le dije como corregirlos) y monte una web para sacar a la luz [los retrasos de sus mecenazgos y preventas](https://gwannon.com/mecenazgos/).
 
 Puedes encontrar más de mis proyectos roleros en [https://gwannon.com/](https://gwannon.com/) y en mis perfiles de [itch.io](https://gwannon.itch.io/) y [rpg-trader.com](https://rpg-trader.com/creator/124/gwannon). 
 
