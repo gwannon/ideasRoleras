@@ -1,8 +1,8 @@
 # Dossier de prensa
 
-Este dossier de prensa recoge toda la información que puede necesitar para tu reseña del finalista a mejor juego de rol en los Ignotus 2026, Guia de Cazavampiros para niñas molonas (a partir de ahora GCNM).
+Este dossier de prensa **recoge toda la información** que puede necesitar **para tu reseña del finalista a mejor juego de rol en los Ignotus 2026**, Guia de Cazavampiros para niñas molonas (a partir de ahora GCNM).
 
-## Descripción 
+## Descripción
 
 GCNM es una ambientación para FATE Acelerado publicada el 24 de agosto de 2025. 3 conceptos clave definen eta ambientación 
 
@@ -14,15 +14,13 @@ En esta ambientación los vampiros son los culpables de todos los problemas del 
 
 Por cierto, **si cambias vampiro por facha,** la ambientación no cambia ni ápice, pero poner vampiros era más guay. 
 
-El libro tiene dos partes. La primera parte **contiene las reglas específicas de la ambientación**, donde se explican cómo son los vampiros y sus planes, cómo afectan al barrio y sobre todo como ser una cazavampiros infantil y combatir a los chupasangres.
+El libro tiene **dos partes**. La primera parte **contiene las reglas específicas de la ambientación**, donde se explican cómo son los vampiros y sus planes, cómo afectan al barrio y sobre todo como ser una cazavampiros infantil y combatir a los chupasangres.
  
 También contiene **reglas para la creación de las cazadoras**, sus grupos de cazadoras, sus refugios y sus mascotas. Trae ejemplos de tácticas y armas eficaces contra vampiros como las pistolas de agua cargadas de té de ajo.
  
-Esta primera parte está escrita como un manual de combate y supervivencia por una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing).
+Esta primera parte imita al manual casero de combate y supervivencia que escribe una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing) y que es una curtida cazavampiros infantil.
 
 La segunda parte **incluye una campaña corta** que te permite saborear toda la ambientación en su totalidad. Tus cazadoras empezarán investigando la muerte de una de sus profesoras y terminarán salvando a su barrio y derrotando al poderoso Lord Ceballos, sus siervos vampíricos y humanos y la gran megacorporación que controla, la Corporación Ceballos.
-
-Está maquetado como un cuaderno de anillas escrito a mano con bolígrafo azul y rojo, fluorescente verde y amarillo, fotos grapadas y pegatinas.
  
 ## Características
 
@@ -30,6 +28,8 @@ Está maquetado como un cuaderno de anillas escrito a mano con bolígrafo azul y
 * **Páginas:** 158 páginas
 * **Palabras:** 51.208 palabras
 * **Fichero:** PDF (14,5 Mb) con índice.
+
+Está maquetado como un cuaderno de anillas escrito a mano con bolígrafo azul y rojo, fluorescente verde y amarillo, fotos grapadas y pegatinas.
 
 ## Conclusiones/críticas que puedes usar en tu reseña.
 
@@ -66,16 +66,14 @@ Si no lo haces, es que eres **el ser más rastrero del mundo**, peor que Elon Mu
 ### Capturas de pantalla
 
 ![Portada de Guía de Cazavampiros para niñas](./assests/images/captura-portada.jpg)
-
 ![Contraportada de Guía de Cazavampiros para niñas](./assests/images/captura-contraportada.jpg)
-
 ![Galerada de Guía de Cazavampiros para niñas](./assests/images/galerada.jpg)
 
 ### Banner finalista Ignotus 2026 a mejor juego de rol
 
 [![Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol](./assests/images/bannerpromo.jpg "Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol")](https://www.asociacionportico.com/finalistas-de-los-premios-ignotus-y-matilde-horne-2026/ "Guía de Cazavampiros para niñas molonas por Gwannon - Finalista de los premios Ignotus 2026 a mejor Juego de Rol")
 
-## El autor, o sea, yo :) 
+## El autor, o sea, yo mismo
 
 Me llamo Jorge Monclús y llevo desde 35 año jugando a rol regularmente y escribiendo mierdas roleras desde hace 5. Me encanta Savage Worlds y FATE y trato de alejarme de D&D todo lo que pueda, aunque con mi mesa es complicado.
 
