@@ -1,5 +1,8 @@
 #!/bin/bash
 
+php ./tools/generateDocs.php DossierPrensa
+rm AccesbilidadDossierPrensa.md
+
 php ./tools/generateDocs.php GuiaDeCazaVampirosParaNinasMolonas
 google-chrome --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./GuiaDeCazaVampirosParaNinasMolonas.html
 pdftk 'temp.pdf' update_info_utf8 'metas.txt' output 'GuiaDeCazaVampirosParaNinasMolonas.pdf'
