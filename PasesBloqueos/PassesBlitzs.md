@@ -1,6 +1,6 @@
-# Passes and Blitzs [by Gwannon](https://gwannon.com/)
+# Passes and Blitzes [by Gwannon](https://gwannon.com/)
 
-«Passes and Blitzs» is a hack for the role-playing game "«Lasers & Feelings» created by [John Harper](https://johnharper.itch.io/lasers-feelings).
+«Passes and Blitzes» is a hack for the role-playing game "«Lasers & Feelings» created by [John Harper](https://johnharper.itch.io/lasers-feelings).
 
 It's the final play of the most important Amorican football (aka Blood Bowl) match of your lives. Your team is losing, but if you play your cards right, you can achieve the glory reserved for the winners of the Blood Cup.
 
@@ -42,21 +42,21 @@ Finally, you must choose a position on the team: lineman, blocker, thrower, catc
 
 ### The free agent, the veteran, and the brilliant rookie
 
-El todo equipo siempre hay tres arquetipos que le dan carácter, el agente libre, el veterano y el novato brillante. Tus jugadores pueden coger si quieren alguno de estos arquetipos.
+Every team has in their crew three archetypes that define its character: the free agent, the veteran, and the brilliant rookie. Your players can choose any of these archetypes if they wish.
 
-El **novato brillante es nuevo, no sabe nada**, pero cree que lo sabe todo. Quieres destacar y ganar a toda costa y eso le hace imprudente, cosa que este deporte podría costarle la carrera.
+The **brilliant rookie is a newcomer who knows nothing** yet thinks he knows it all. He wants to stand out and win at all costs—a drive that makes him reckless, a trait that could cost him his career in this sport.
 
-El **veterano ya se las sabe todas** y sabe sobre todo que está será su última temporada. Su viejo cuerpo pide descanso, demasiados orcos bloqueadores en su camino se cobran un precio.
+The **veteran has seen it all** and knows, above all, that this will be his final season. His aging body is crying out for rest; the toll of too many Orc blockers standing in his path has taken its price.
 
-El **agente libre es el mercenario** que hoy está en un equipo de orcos y mañana en uno de elfos. Es bueno y lo sabe y le gusta brillar porque eso aumenta sus tarifas.
+The **free agent is a mercenary** who might be on an orc team today and an elf team tomorrow. He is star—and knows it—and loves to shine, as doing so drives up his rates.
 
-La regla que limita tu habilidad según si el equipo es rudo o técnico, puede ser obviada por dos de tus jugadores que elijan ser el novato o el agente libre. En esos casos podrán elegir su habilidad entre 2 y 5.
+The rule limiting your skill level based on whether the team is "rough" or "technical" can be bypassed by two of your players if they choose to be the rookie or the free agent. In those cases, they can choose a skill level between 2 and 5.
 
-Tampoco tienen por qué ser de la especie predominante del equipo, sobre todo el agente libre.
+They do not necessarily have to belong to the team's predominant species—especially the free agent.
 
 ### Position and playing style
 
-Cuando consigues un resultado de «Passes and Blitzs», en la siguiente acción puedes hacer una **acción heroica** que depende de tu posición dentro de equipo.
+When you roll a "Passes and Blitzes" result, you can perform a **Heroic Action** during the next action, depending on your position within the team.
 
 #### Lineman
 
