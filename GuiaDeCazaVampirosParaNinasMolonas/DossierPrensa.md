@@ -18,7 +18,7 @@ El libro tiene **dos partes**. La primera parte **contiene las reglas específic
  
 También contiene **reglas para la creación de las cazadoras**, sus grupos de cazadoras, sus refugios y sus mascotas. Trae ejemplos de tácticas y armas eficaces contra vampiros como las pistolas de agua cargadas de té de ajo.
  
-Esta primera parte imita al manual casero de combate y supervivencia que escribe una niña llama Berta de Cantaverno (un juego de palabras con Otro van Helsing) y que es una curtida cazavampiros infantil.
+Esta primera parte imita al manual casero de combate y supervivencia que escribe una niña llama Berta de Cantaverno (un juego de palabras con Otto Van Helsing) y que es una curtida cazavampiros infantil.
 
 La segunda parte **incluye una campaña corta** que te permite saborear toda la ambientación en su totalidad. Tus cazadoras empezarán investigando la muerte de una de sus profesoras y terminarán salvando a su barrio y derrotando al poderoso Lord Ceballos, sus siervos vampíricos y humanos y la gran megacorporación que controla, la Corporación Ceballos.
 
