@@ -35,6 +35,21 @@ La segunda parte **incluye una campaña corta** que te permite saborear toda la 
 
 Está maquetado como un cuaderno de anillas escrito a mano con bolígrafo azul y rojo, fluorescente verde y amarillo, fotos grapadas y pegatinas.
 
+## Puntos fuertes y débiles
+
+### Puntos fuertes
+
+* Aunque te enfrentes a vampiros, es una ambientación muy mundana con problemas muy de calle. Los vampiros pueden dar miedo, pero más miedo da que te echen de tu casa para poner un piso turístico, que tus hijes acaben enganchades a las apuestas o que tiren alguna joya de la arquitectura para que monten un centro comercial.
+* Es gratis, con lo que la relación calidad/precio es inmejorable.
+* Tiene una licencia que te permite hacer con ello lo que quieras. Bueno las imágenes no son mías, pero muchas de ellas son libres o medio libres.
+* Tienes varias versiones y formatos para mayor accesibilidad. Y si crees que nos falta alguna, pues estamos encantados de escucharte.
+
+### Puntos débiles
+
+* Seamos sinceros, esto no ha sido testado de ninguna manera. No me gusta testar, si hay problemas de diseño, te los comes con patatas. Pero míralo de esta manera (Modo Coach rolero ON), esto te hará mejor directore/jugadore de rol.
+* Tampoco ha pasado por un proceso de corrección, pero piénsalo así, puedes convertirte en corrector de juegos de rol (y ponerlo en tu CV) si me envías alguna errata o algún fallo de expresión.
+* Es un producto totalmente amateur, eso supone que como mínimo tiene más calidad que cualquier cosa escrita por un YouTuber.
+
 ## Conclusiones/críticas que puedes usar en tu reseña.
 
 * **Pero esto es Drácula Dossier con niñas.** Efectivamente es una copia mala y chusca de Drácula Dossier con niñas de barrio, pero es gratis y he tenido la decencia de escribir una campaña para ellos en vez de poner montones de semillas de aventuras y unas reglas para hilarlas.
