@@ -14,7 +14,7 @@ The first step is to create your team. To do this, you need to define three elem
 
 **Name.** Names usually have two parts: a denominator, like the Reapers, the Ruffians, or the Nightmares, and then their place of origin, such as the Dark Forest, Khazad Nüm, Riverland, etc.
 
-**Predominant Species.** The species can be any fantasy species like dwarves, elves, gnomes, orcs, etc. or even science fiction—cyborgs, aliens, etc. It doesn't matter.
+**Predominant Species.** The species can be any fantasy species like dwarves, elves, gnomes, orcs, etc. or even science fiction - cyborgs, aliens, etc. It doesn't matter.
 
 **Playing Style.** You must choose whether you are a rough or technical team. If your team is technical, their game is based on strategy, spectacular strategies, and passing, receiving, and long runs. If your team is rough, your style is to crush the opposing team without mercy. _This decision will affect the creation of your starplayer._
 
@@ -44,15 +44,15 @@ Finally, you must choose a position on the team: lineman, blocker, thrower, catc
 
 Every team has in their crew three archetypes that define its character: the free agent, the veteran, and the brilliant rookie. Your players can choose any of these archetypes if they wish.
 
-The **brilliant rookie is a newcomer who knows nothing** yet thinks he knows it all. He wants to stand out and win at all costs—a drive that makes him reckless, a trait that could cost him his career in this sport.
+The **brilliant rookie is a newcomer who knows nothing** yet thinks he knows it all. He wants to stand out and win at all costs - a drive that makes him reckless, a trait that could cost him his career in this sport.
 
 The **veteran has seen it all** and knows, above all, that this will be his final season. His aging body is crying out for rest; the toll of too many Orc blockers standing in his path has taken its price.
 
-The **free agent is a mercenary** who might be on an orc team today and an elf team tomorrow. He is star—and knows it—and loves to shine, as doing so drives up his rates.
+The **free agent is a mercenary** who might be on an orc team today and an elf team tomorrow. He is star - and knows it - and loves to shine, as doing so drives up his rates.
 
 The rule limiting your skill level based on whether the team is "rough" or "technical" can be bypassed by two of your players if they choose to be the rookie or the free agent. In those cases, they can choose a skill level between 2 and 5.
 
-They do not necessarily have to belong to the team's predominant species—especially the free agent.
+They do not necessarily have to belong to the team's predominant species - especially the free agent.
 
 ### Position and playing style
 
@@ -60,13 +60,13 @@ When you roll a "Passes and Blitzes" result, you can perform a **Heroic Action**
 
 #### Lineman
 
-Eres el jugador más simple, tu misión es ayudar al resto y servir de carne de cañón, es lo que hay. Estás jugando remontadas únicas no es momento de jugar con una línea. Es aconsejable, pero no obligatorio, no elegir esta posición. **No tienes acción heroica,** estás solo para apoyar a otros jugadores a que se luzcan. 
+You are the most basic player; your mission is to help the others and serve as cannon fodder - that’s just how it is. You are playing unique comeback scenarios; this is not the time to play a lineman. It is advisable - though not mandatory - to avoid choosing this position. **You have no heroic action;** you are there solely to support other players so they can shine.
 
 #### Blocker
 
-Eres una bestia parda que acaba todos sus partidos lleno de sangre de tus contrincantes y también, muchas veces, tuya. Podrías pasarte semanas contando como te hiciste cada cicatriz de tu cuerpo, pero eso ya no te llena como antes, quieres algo más, quizás marcar algún punto, hacer una gran carrera, …
+You are a bloodthirsty beast who finishes every match covered in the blood of your opponents - and often your own. You could spend weeks telling the story behind every scar on your body, but that doesn't satisfy you the way it used to; you want something more - perhaps to score a touchdown, make a spectacular run...
 
-Usando tu **bloqueo salvaje** puedes lanzarte contra varios oponentes y derribarlos e incluso enfrentarte de tú a tú con un tipo grande. 
+Using your **Frenzy Block**, you can hurl yourself at multiple opponents and knock them down, or even go toe-to-toe with a big guy.
 
 \sp
 
