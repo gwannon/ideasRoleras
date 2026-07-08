@@ -62,7 +62,7 @@ Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador vetera
 
 También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. 
 
-Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
+Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, sea una jugada que pase a la historia.
 
 #### Receptor
 
@@ -74,7 +74,7 @@ Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrap
 
 Eres una extraña mezcla entre un bloqueador y un receptor, fuerte y ágil, pero casi siempre solo. Esta posición suele ser muy propia de agentes libres que destacan por su individualismo y por los veteranos que tienen la experiencia y la maña para cumplir en esta posición.
 
-Tu **carrera audaz** te permite teniendo el balón lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
+Tu **carrera audaz** te permite, teniendo el balón, lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
 
 ## Tiradas de dados
 
@@ -108,7 +108,7 @@ Las últimas jugadas de «Pases y bloqueos» son fáciles de crear a través de 
 |3|Hooligans violentos y borrachos|
 |4|Hay una gran rivalidad y ambas hinchadas llevan todo el partido peleando.|
 |5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
-|6|Un dios del Caos aburrido y su séquito ha decidido ver un partido|Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
+|6|Un dios del Caos aburrido y su séquito han decidido ver un partido.|Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
 |1d6|Equipo contrario|
 |---|---|
 |1|Enanos, elfos, medianos, gnomos|
