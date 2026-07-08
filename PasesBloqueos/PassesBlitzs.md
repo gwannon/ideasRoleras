@@ -72,17 +72,17 @@ Using your **Frenzy Block**, you can hurl yourself at multiple opponents and kno
 
 #### Thrower
 
-Lo normal es que solo haya un lanzador por equipo, puedes ser el lanzador veterano que trata de irse en toda su gloria.
+Typically, there is only one thrower per team; you could be the veteran looking to bow out in a blaze of glory.
 
-También el novato que acaba de entrar porque el lanzador oficial ha perdido su brazo de lanzar (severamente seccionado a mordiscos por un goblin rabioso) y quiere demostrar que tiene madera de estrella. 
+Or perhaps the rookie who just stepped in because the starting thrower lost his throwing arm - severely mauled by a rabid goblin - and is eager to prove he’s got star potential.
 
-Con tu **lanzamiento a la desesperada** puedes intentar hacer un pase a lo loco al algún compañero aunque estés rodeado de oponentes, la lluvia no te deje ver nada y el viento es casi un huracán. Quizás si tu compañero puede hacer una **estirada épica** y coger ese pase imposible, 
+With a **Hail Mary pass**, you can attempt a wild pass to a teammate even when surrounded by opponents, blinded by the rain, and battling hurricane-force winds. If your teammate manages an **epic reception** to snag that impossible pass, it could be a play that goes down in history.
 
 #### Catcher
 
-Lo tuyo es esquivar, zafarte, correr deprisa, saltar y tener unas buenas manos. En el momento que te cogen eres carne picada, pero eres más difícil de coger que un cerdo engrasado. El agente libre y el veterano no suelen ser receptores, este puesto se reserva muchas veces para el novato, ese pequeño que lo que le falta de fuerza y tamaño lo suple con valentía y agilidad.
+Your game is all about dodging, breaking free, sprinting, leaping, and having sure hands. The moment you get caught, you’re mincemeat - but you’re harder to grab than a greased pig. Free agents and veterans rarely play receiver; that position is often reserved for the rookie - the little guy who makes up for a lack of size and strength with courage and agility.
 
-Con tu **estirada épica** puedes lanzarte a la desesperada para tratar de atrapar un pase imposible sin importarte tu seguridad física. Pero no tiene por qué acabar ahí, tu estirada puede acabar en una voltereta acrobática que te permite evadir a tus defensores o cayendo al barro y deslizándote hasta la línea de meta.
+With your **epic reception**, you can make a desperate sprint&jump to catch an impossible pass, disregarding your own physical safety. But it doesn't have to end there; that reception might transition into an acrobatic tumble that lets you evade defenders, or see you landing in the mud and sliding all the way to the goal line.
 
 #### Blitzer
 
