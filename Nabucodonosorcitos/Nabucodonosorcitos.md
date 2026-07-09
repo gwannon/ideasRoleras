@@ -4,23 +4,7 @@ XXX
 
 El DJ se llama EPI.
 
-Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y habiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
-
-## Crear tu nabuco
-
-Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped», puede que se ponga a andar por la hierba haciendo el pino y así no pisarla.
-
-Arquetipos:
-
-* El líder
-* El entusiasta
-* El pesimista
-* El que hace la pregunta adecuada
-
-### Anatomía de un nabuco
-
-* **Alitas de brilli-brilli.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar
-* **Antenitas cuquis.** El número es totalmente aleatorio y no sirven para mucho. A los diseñadores le sobraban de otro muñeco y gastaron todas las que tenían.
+Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y habiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutívamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
 
 ## Sistema
 
@@ -29,6 +13,30 @@ XXX
 Cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
 
 Taparse con un paraguas para evitar la lluvia le es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía.
+
+## Crear tu nabuco
+
+Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped», puede que se ponga a andar por la hierba haciendo el pino y así no pisarla.
+
+Arquetipos:
+
+* **El líder.** XXX
+* **El entusiasta.** XXX
+* **El pesimista.** XXX
+* **El que ha ido al cole.** Siempre hay un lístillo que ha ido al cole y ha atendido en clase y puede usar una opción lógica y sencilla sin sufrir penalización. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que el resto de sus compañeros abran sus paraguas, se monten encima como si fueran un pogo-stick y empiecen a saltar en los charcos. 
+
+### Anatomía de un nabuco
+
+* **Alitas de brilli-brilli.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar
+* **Antenitas cuquis.** El número es totalmente aleatorio y no sirven para mucho. A los diseñadores le sobraban de otro muñeco y gastaron todas las que tenían.
+
+### Experiencia, suerte y otras cosas que tienen los juegos de rol
+
+De eso poco aquí. Los nabucos no mejoran, la evolución se dio por vencida con ellos, así que fueron, son y serán tontos y no aprenden nunca de sus errores.
+
+En cuanto a la suerte, toda la que pudieran tener se la gastan en salir vivos de sus estúpidos planes. Como has visto en el sistema, se tira siempre con ventaja (2d8 y te quedas con el mejor), porque ser un nabuco ya es suficiente desventaja.
+
+XXX
 
 ## Equipo
 
