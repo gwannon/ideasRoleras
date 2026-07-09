@@ -86,9 +86,9 @@ With your **epic reception**, you can make a desperate sprint&jump to catch an i
 
 #### Blitzer
 
-Eres una extraña mezcla entre un bloqueador y un receptor, fuerte y ágil, pero casi siempre solo. Esta posición suele ser muy propia de agentes libres que destacan por su individualismo y por los veteranos que tienen la experiencia y la maña para cumplir en esta posición.
+You are a strange mixture of blocker and catcher, strong and agile, yet often a lone wolf. This role is typically suited to free agents who stand out for their individualism, or to veterans possessing the experience and savvy to excel in the position.
 
-Tu **carrera audaz** te permite, teniendo el balón, lanzarte hacia adelante, rezarle a tus dioses y mediante una mezcla de bloqueos y esquivas llegar con suerte hasta la línea de gol. Seguramente podrás lanzarte en el último momento para llegar a la zona de marcaje con un gran salto sobre tus defensas que dejará al público mudo ante lo que acaba de ver.
+Your **heroic run** allows you to charge forward with the ball; praying to your gods and relying on a mix of blocking and dodging, you might just make it to the goal line. You will likely launch yourself at the last moment, soaring over the defenders to reach the end zone with a spectacular leap that leaves the crowd speechless at what they have just witnessed.
 
 ## Dice rolls
 
