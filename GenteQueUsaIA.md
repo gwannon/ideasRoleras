@@ -82,6 +82,10 @@ https://thetapaderavineyard.blogspot.com/2024/12/octavo-cumpleanos-de-tapadera-v
 
 https://www.youtube.com/watch?v=G9K49ybqkK0&t=3420s
 
+### Mario Fernández -  Rol de medianoche
+
+https://roldemedianoche.com/apocalipsis-bobot/
+
 ## Otros
 
 ### ROLEplus.app
