@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=cF3Y1jwiMq8&t=6240s
 
 ### Dr. Alban
 
-[Hermanos de la costa](http://www.sinergiaderol.com/juegosgratuitos/j-hermanosdelacosta.html) fue un proyecto fallido de crowfunding de juego de rol que su creador decidió terminar con imágenes de IA y entregar a los participantes. Tendría hasta excusa, si hubiera sido algo puntual y no hubiera seguido igual haciendo más material con IA.
+[Hermanos de la costa](http://www.sinergiaderol.com/juegosgratuitos/j-hermanosdelacosta.html) fue un proyecto fallido de crowfunding/editor-se-largo-con la-pasta de juego de rol que su creador decidió terminar con imágenes de IA y entregar a los participantes. Tendría hasta excusa, si hubiera sido algo puntual y no hubiera seguido igual haciendo más material con IA.
 
 ### Juancho Duma Dragunov
 
