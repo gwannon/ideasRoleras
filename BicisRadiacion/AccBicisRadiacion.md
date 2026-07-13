@@ -49,9 +49,6 @@ Estas relaciones afectan a como te vas a comportar y actuar. Seguramente pondrá
 Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. El DJ puede dar dados extras (máximo 3d6), si la situación te es ventajosa por alguna razón, si puede usar tu bicicleta de alguna manera, si interviene un PJ por el que tenga una relación interesante, o si tu apodo o tus estudios sirven en lo que vas a intentar. 
 
 Tira los dados y compara cada resultado con el número que elegiste.
-
-\sp
-
 Si estás usando BICICLETAS (Correr, saltar, pelear, montar en bici, …) necesitas sacar un número inferior. Si estás usando RADIACIÓN (Ciencias, letras, deducción, investigación, buscar información, …) necesitas sacar un número superior.
 
 1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.

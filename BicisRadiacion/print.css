@@ -1,13 +1,13 @@
 :root {
   --padding: 50px; /*Ancho de los bordes de la página*/
-  --color-red: #f40c3e;
+  --color-red: #a65a3d;
   --color-white: #fff;
   --color-black: #000;
 }
 
 body {
   background: transparent url(./images/bg.jpg) repeat-y top center;
-  background-size: cover;
+  background-size: contain;
   margin: 0;
   padding: 0;
   font-family: "Open Sans", sans-serif;
@@ -24,7 +24,7 @@ body#TemptationsTormentsBW {
   background: var(--color-black) none repeat-y top center;
 }
 
-/*body:before {
+body:before {
   content: "";
   display: block;
   width: var(--padding);
@@ -44,7 +44,7 @@ body:after {
   top: 0px;
   right: 0px;
   background: transparent url(./images/border2.png) top left repeat-y;
-}*/
+}
 
 body > * {
   padding: 0 0 calc(var(--padding) / 3) 0;
@@ -86,21 +86,26 @@ blockquote {
 blockquote p {
   padding: 0px;
   margin: 0px;
-  font-family: "Smythe", serif;
+  font-family: "Allerta Stencil", sans-serif;
   font-size: 1.2em;
   line-height: 120%;
   text-align: center;
 }
 
+b, strong {
+  color: #0FFF50;
+}
+
 /* Titulares */
 
 h1 {
-  font-family: "Smythe", serif;
+  font-family: "Allerta Stencil", sans-serif;
   color: var(--color-red);
   text-align: center;
   font-size: 61px;
   margin: 0 0 30px 0;
   padding: 0;
+  font-weight: 400;
   text-shadow: 0px 1px 0px var(--color-black), 1px 0px 0px var(--color-black), 0px -1px 0px var(--color-black), -1px 0px 0px var(--color-black);
 }
 
@@ -118,7 +123,7 @@ h1 > a {
 
 h2,
 h3 {
-  font-family: "Smythe", serif;
+  font-family: "Allerta Stencil", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: var(--color-red);
@@ -157,7 +162,8 @@ a {
   color: var(--color-white);
 }
 
-ol {
+ol,
+ul {
   padding-left: 19px;
 }
 
@@ -172,14 +178,15 @@ table {
 }
 
 table thead tr th {
-  font-family: "Smythe", serif;
+  font-family: "Allerta Stencil", sans-serif;
   text-align: left;
   font-size: 18px;
   text-shadow: 0px 1px 1px var(--color-black), 1px 0px 1px var(--color-black), 0px 0px 1px var(--color-black), 1px 1px 1px var(--color-black);
+  color: #0FFF50;
 }
 
 table tbody tr > *:first-child {
-  font-family: "Smythe", serif;
+  font-family: "Allerta Stencil", sans-serif;
   text-shadow: 0px 1px 1px var(--color-black), 1px 0px 1px var(--color-black), 0px 0px 1px var(--color-black), 1px 1px 1px var(--color-black);
 }
 
@@ -217,7 +224,7 @@ a.pdf {
     display: block;
     padding: 10px;
     margin: 0px;
-    font-family: "Smythe", serif;
+    font-family: "Allerta Stencil", sans-serif;
     font-size: 30px;
     text-decoration: none;
     z-index: 100;
