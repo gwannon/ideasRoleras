@@ -18,7 +18,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 ## PJ: Tunea tu bicicleta
 
-Tú bici es la pieza más importante de tu equipo y en torno a lo que gira toda tú adolescencia. Pasas horas lustrando sus partes no oxidadas, remendando su sillín y poniéndole cosas que le hagan más «cool». Tener una bici guapa, te puede convertir en el más molone de tu pandilla.
+Tú bici es la pieza más importante de tu equipo y en torno a lo que gira toda tu adolescencia. Pasas horas lustrando sus partes no oxidadas, remendando su sillín y poniéndole cosas que le hagan más «cool». Tener una bici guapa, te puede convertir en el más molone de tu pandilla.
 
 Para crear tu bici, **debes definirla con dos adjetivos o frases muy cortas**. Deben ser muy genéricos de manera que puedas usarlo en una gran cantidad de situaciones. Por ejemplo, rápida, robusta, ligera, se cae a trozos, fiable, …
 
@@ -104,20 +104,25 @@ Tira o elige de las siguientes tablas.
 |5|XXX|
 |6|XXX|
 
-|1d6|XXX|
+|1d6|Clima|
 |---|---|
-|1|XXX|
+|1|Día perfecto en el yermo para andar con tu bici|
 |2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-
-Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente en vez de crear palabras nuevas originales, junta dos como puede y las acorta para que no perder tiempo mientras huye. Así consigues que las cucharachas mutantes, pasen a ser «mutarachas» en vez de un finolis nombre en latín o que digas «rad» en vez de «radioactividad».
+|3|Tormenta eléctrico-nuclear|
+|4|Ola de calor|
+|5|Tormenta de arena irradiada|
+|6|Lluvia radiactiva|
 
 ## DJ: Cómo dirigir una partida
 
 XXX
+
+Las historias con adolescentes suelen tener una reglas que puede aplicar:
+
+* Todo es un drama, cuando digo todo es todo.
+* XXX
+
+Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente en vez de crear palabras nuevas originales, junta dos como puede y las acorta para que no perder tiempo mientras huye. Así consigues que las cucarachas mutantes, pasen a ser «mutarachas» en vez de un finolis nombre en latín o que digas «rad» en vez de «radioactividad».
 
 ## Licencia
 
