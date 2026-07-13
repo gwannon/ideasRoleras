@@ -1,11 +1,11 @@
 InfoKey: Title
-InfoValue: Tentaciones y tormentos
+InfoValue: Bicis y Radiación
 
 InfoKey: Subject
-InfoValue: «Tentaciones y tormentos» es un hack para 1 DJ y 1 PJ para el juego de rol «Lasers & Feelings» donde interpretarás a une demonie que deberá tentar y atormentar a les mortales para conseguir su alma. Versión 1.0
+InfoValue: «Bikes & Nukes» es un hack para el juego de rol «Lasers & Feelings» creado por John Harper, donde a une adolescente que sobrevive como puede con su pandilla en el páramo nuclear que es su mundo actual. Versión 1.0
 
 InfoKey: Author
 InfoValue: Gwannon
 
 InfoKey: Keywords
-InfoValue: rpg, ttrpg, lasers&feelings, lasérs y sentimientos, lucifer, infierno
+InfoValue: rpg, ttrpg, lasers&feelings, lasérs y sentimientos, niños, bicicletas, radiaación, fallout, mad maax
