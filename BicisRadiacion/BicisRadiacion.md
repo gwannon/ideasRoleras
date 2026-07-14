@@ -13,7 +13,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 1. Para **crear a tu PJ** debes ponerle **un nombre**. Elige también **unos pronombres**.
 2. A continuación toca **crear un apodo para tu PJ**, que te describa: la Chatarrera, el Picabichos, le Buscalios, la ManosSuaves, el Chismes etc.
 3. **Elige un número del 2 al 5.** Con un número alto eres mejor en Bicis (Correr, saltar, pelear, montar en bici, … en general fuerza, destreza y resistencia), y con uno bajo eres mejor con la Radiación (Ciencias, letras, deducción, investigación, buscar información, … en general inteligencia y voluntad).
-4. Además de tu bici, tienes un equipo básico compuesto por tu merienda, unos comics y revistas de antes del holocausto, tu contador Geiger y tu machete de DuroHierro.
+4. Además de tu bici, tienes un equipo básico compuesto por tu merienda, unos comics y revistas de antes del holocausto, tu contador Geiger y tu machete de OxiHierro.
 5. Por último, debes elegir **qué quieres ser de mayor**, puedes elegir una de estas o inventártela: buhonera, mecanique, cazador, manitas, mensajere, DJ de radio, …
 
 ## PJ: Tunea tu bicicleta

@@ -13,7 +13,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 1. Para **crear a tu PJ** debes ponerle **un nombre**. Elige también **unos pronombres**.
 2. A continuación toca **crear un apodo para tu PJ**, que te describa: la Chatarrera, el Picabichos, le Buscalios, la ManosSuaves, el Chismes etc.
 3. **Elige un número del 2 al 5.** Con un número alto eres mejor en Bicis (Correr, saltar, pelear, montar en bici, … en general fuerza, destreza y resistencia), y con uno bajo eres mejor con la Radiación (Ciencias, letras, deducción, investigación, buscar información, … en general inteligencia y voluntad).
-4. Además de tu bici, tienes un equipo básico compuesto por tu merienda, unos comics y revistas de antes del holocausto, tu contador Geiger y tu machete de DuroHierro.
+4. Además de tu bici, tienes un equipo básico compuesto por tu merienda, unos comics y revistas de antes del holocausto, tu contador Geiger y tu machete de OxiHierro.
 5. Por último, debes elegir **qué quieres ser de mayor**, puedes elegir una de estas o inventártela: buhonera, mecanique, cazador, manitas, mensajere, DJ de radio, …
 
 ## PJ: Tunea tu bicicleta
@@ -108,7 +108,10 @@ Nivel tecnológico XXX
 Las historias con adolescentes suelen tener una reglas que puede aplicar:
 
 * Todo es un drama, cuando digo todo es todo.
-* XXX
+* Piensan que la gente mayor no les entiende. Y realmente es así, casi no hablan ni el mismo idioma.
+* Quieren ser importantes y lo remarcan con frases como «Voy a hacer cosas importantes», «Seré mejor que mis padres», «Saldré de este maldito agujero y triunfaré en la vida».
+* Más salides que el pico de una plancha.
+* Lo más importante es ser guay.
 
 Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente en vez de crear palabras nuevas originales, junta dos como puede y las acorta para que no perder tiempo mientras huye. Así consigues que las cucarachas mutantes, pasen a ser «mutarachas» en vez de un finolis nombre en latín o que digas «rad» en vez de «radioactividad».
 

@@ -8,4 +8,4 @@ InfoKey: Author
 InfoValue: Gwannon
 
 InfoKey: Keywords
-InfoValue: rpg, ttrpg, lasers&feelings, lasérs y sentimientos, niños, bicicletas, radiaación, fallout, mad maax
+InfoValue: rpg, ttrpg, lasers&feelings, lasérs y sentimientos, niños, bicicletas, radiaación, fallout, mad max

@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Bicis y Radiación
+
+InfoKey: Subject
+InfoValue: PDF printer friendly en blanco y negro. «Bikes & Nukes» es un hack para el juego de rol «Lasers & Feelings» creado por John Harper, donde a une adolescente que sobrevive como puede con su pandilla en el páramo nuclear que es su mundo actual. Versión 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, lasers&feelings, lasérs y sentimientos, niños, bicicletas, radiaación, fallout, mad max
