@@ -115,7 +115,7 @@ h1 {
   font-family: "Allerta Stencil", sans-serif;
   color: var(--color-red);
   text-align: center;
-  font-size: 61px;
+  font-size: 50px;
   margin: 0 0 30px 0;
   padding: 0;
   font-weight: 400;
@@ -147,11 +147,11 @@ h3 {
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 1.6em;
 }
 
 h3 {
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 
 body#BicisRadiacionBW *:is(h1,h2,h3),
@@ -193,7 +193,7 @@ table {
 table thead tr th {
   font-family: "Allerta Stencil", sans-serif;
   text-align: left;
-  font-size: 18px;
+  font-size: 15px;
   text-shadow: 0px 1px 1px var(--color-black), 1px 0px 1px var(--color-black), 0px 0px 1px var(--color-black), 1px 1px 1px var(--color-black);
   color: #0FFF50;
 }

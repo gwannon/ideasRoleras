@@ -66,7 +66,7 @@ Si quieres apoyar la tirada de otra persona, explica cómo lo haces y tira los d
 
 Tira o elige de las siguientes tablas.
 
-|1d6|XXX|
+|1d6|¿Quién está creando problemas?|
 |---|---|
 |1|XXX|
 |2|XXX|
@@ -75,46 +75,48 @@ Tira o elige de las siguientes tablas.
 |5|XXX|
 |6|XXX|
 
-|1d6|XXX|
+|1d6|¿En qué lugar?|
 |---|---|
-|1|XXX|
+|1|La brillante y llena de neón, Ciudad Fusión|
+|2|Gigantesca bomba H no explotada a la que algunas personas peregrinan|
+|3|Ruinas de ViejoYork, donde hay tesoros que descrubrir|
+|4|Ruinas radiactivas de la central nuclear donde hubo una fusión nuclear|
+|5|XXX|
+|6|Red de cuevas subterráneas que usan los morlocks, los saqueadores y los vampiros de fusión|
+
+|1d6|¿Qué intenta hacer?|
+|---|---|
+|1|Zombies inteligente|
 |2|XXX|
 |3|XXX|
 |4|XXX|
 |5|XXX|
 |6|XXX|
 
-|1d6|XXX|
-|---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-
-|1d6|Clima|
+|1d6|¿Qué día hace?|
 |---|---|
 |1|Día perfecto en el yermo para andar con tu bici|
-|2|XXX|
+|2|Nubes radiotóxicas|
 |3|Tormenta eléctrico-nuclear|
-|4|Ola de calor|
+|4|Ola de calor nuclear|
 |5|Tormenta de arena irradiada|
 |6|Lluvia radiactiva|
 
 ## DJ: Cómo dirigir una partida
 
-XXX
+El **objetivo de este juego** es conseguir vivir una gran aventura antes de la hora del toque de queda, molarlo todo con tu pandilla y sobrevivir un día más en el erial radiactivo que es tu hogar, luchando contra mutantes, zombis radiactivos y robots anacrónicos.
 
-Nivel tecnológico XXX
+Piensa que el **nivel tecnológico de este juego** sería el actual con una capa ochentera, además la tecnología es muy escasa. Es decir, hay teléfonos móviles, pero hay muy pocos y se parecen a walkie-talkies. Hay ordenadores y tabletas que hacen lo mismo que las actuales, pero son monocromos en vez de ser táctiles pueden botones y diales para manejarlos.
 
-Las historias con adolescentes suelen tener una reglas que puede aplicar:
+A la hora de **jugar con adolescentes** aquí tienes una serie de **consejos** que tú como DJ y tus PJ puede aplicar:
 
 * Todo es un drama, cuando digo todo es todo.
 * Piensan que la gente mayor no les entiende. Y realmente es así, casi no hablan ni el mismo idioma.
 * Quieren ser importantes y lo remarcan con frases como «Voy a hacer cosas importantes», «Seré mejor que mis padres», «Saldré de este maldito agujero y triunfaré en la vida».
 * Más salides que el pico de una plancha.
 * Lo más importante es ser guay.
+
+Este juego es un mundo postapocalíptico, así que hay cosas que debes tener en cuenta. XXX
 
 Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente en vez de crear palabras nuevas originales, junta dos como puede y las acorta para que no perder tiempo mientras huye. Así consigues que las cucarachas mutantes, pasen a ser «mutarachas» en vez de un finolis nombre en latín o que digas «rad» en vez de «radioactividad».
 
