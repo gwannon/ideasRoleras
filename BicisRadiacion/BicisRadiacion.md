@@ -111,7 +111,10 @@ Nivel tecnológico XXX
 Las historias con adolescentes suelen tener una reglas que puede aplicar:
 
 * Todo es un drama, cuando digo todo es todo.
-* XXX
+* Piensan que la gente mayor no les entiende. Y realmente es así, casi no hablan ni el mismo idioma.
+* Quieren ser importantes y lo remarcan con frases como «Voy a hacer cosas importantes», «Seré mejor que mis padres», «Saldré de este maldito agujero y triunfaré en la vida».
+* Más salides que el pico de una plancha.
+* Lo más importante es ser guay.
 
 Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente en vez de crear palabras nuevas originales, junta dos como puede y las acorta para que no perder tiempo mientras huye. Así consigues que las cucarachas mutantes, pasen a ser «mutarachas» en vez de un finolis nombre en latín o que digas «rad» en vez de «radioactividad».
 
