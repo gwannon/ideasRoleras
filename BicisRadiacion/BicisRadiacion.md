@@ -58,7 +58,7 @@ Si estás usando BICICLETAS necesitas sacar un número inferior. Si estás usand
 
 \sp
 
-2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás que tienes que ir a casa a hacer deberes, despellejar escaraliebres para la cena o matar a las mutarachas que se comen vuestra cosecha de maíz fosforito.
+2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás que tienes que ir a casa a hacer deberes, despellejar «escaraliebres» para la cena o matar a las mutarachas que se comen vuestra cosecha de maíz fosforito.
 3. Si sacas ** 2 éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **3 éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. Deberían ser cosas que te hagan destacar y parecer molón.
 5. Si sacas **exactamente tu número**, se produce un PEM (Pulso electro-magnético). En mitad de una situación de estrés la radiación recorrerá todo tu cuerpo y te darás cuenta de algo, una sonrisa, una mirada, unas manos entrelazadas, … en tus compañeros. Podrás hacer una pregunta de sí o no a uno de tus compañeros sobre sus relaciones y deberán ser sinceros.
@@ -72,10 +72,10 @@ Tira o elige de las siguientes tablas.
 |1d6|¿Quién está creando problemas?|
 |---|---|
 |1|Zombis inteligentes|
-|2|La legión Nazi|
+|2|La Legión Nazi|
 |3|Vampimutantes|
-|4|Saqueadores del paramo|
-|5|XXX|
+|4|Saqueadores del páramo|
+|5|La Mafia de Uranio|
 |6|Robotones|
 
 |1d6|¿En qué lugar?|
@@ -89,12 +89,12 @@ Tira o elige de las siguientes tablas.
 
 |1d6|¿Qué intenta hacer?|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|1|Robar recursos que la gente necesita para sobrevivir|
+|2|Alimentarse|
+|3|Sacrificio humanos a su extraña divinidad|
+|4|Conseguir material fusionable para un arma gigante o un robot|
+|5|Probar una arma biológica o nuclear nueva y peligrosa|
+|6|Secuestrar a todes les niñes para esclavizarlos|
 
 |1d6|¿Qué día hace?|
 |---|---|
@@ -119,9 +119,9 @@ A la hora de **jugar con adolescentes** aquí tienes una serie de **consejos** q
 * Más salides que el pico de una plancha.
 * Lo más importante es ser guay.
 
-Este juego es un mundo postapocalíptico, así que hay cosas que debes tener en cuenta. Ya hemos comentado la escasez y debes añadirle, XXX
+Este juego es un mundo post-apocalíptico, así que hay cosas que debes tener en cuenta. Ya hemos comentado la escasez y debes añadirle, que la supervivencia gana a la ética y la moral y que la gente añora los viejos tiempo no-radiactivos.
 
-Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente en vez de crear palabras nuevas originales, junta dos como puede y las acorta para que no perder tiempo mientras huye. Así consigues que las cucarachas mutantes, pasen a ser «mutarachas» en vez de un finolis nombre en latín o que digas «rad» en vez de «radioactividad».
+Para dar nombres a las cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente junta dos palabras como puede y/o las acorta para que no perder tiempo mientras huye. Por ejemplo, las cucarachas mutantes, pasen a ser «mutarachas» en vez de algo finolis en latín y dices «rad» en vez de «radioactividad».
 
 ## Licencia
 
