@@ -510,3 +510,6 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSorry I’m Not Made of Sugar (Screenshot Redraw) By SlyLaika\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDarker Than Tears By NanFe\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QTMNT sewer 1 By Tonywashingtonart\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QInterpretarás a une adolescente que sobrevive como puede con su pandilla en el páramo nuclear que es su mundo actual.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPiensa en Mad Max o Fallout, pero en vez de InceptorV8, tendrás tu bicicleta tuneada, tienes que estar en casa cuando el contador Geiger empiece a pitar y tu madre siempre te está recordando que, no salgas de los muros de la ciudad y que no hables con caníbales del páramo desconocidos.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen general inteligencia y voluntad).\\E$"}

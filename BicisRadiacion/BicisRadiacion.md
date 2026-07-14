@@ -1,8 +1,8 @@
 # Bicis y Radiación [por Gwannon](https://gwannon.com/)
 
-«Bikes & Nukes» es un hack para el juego de rol «Lasers & Feelings» creado por [John Harper](https://johnharper.itch.io/lasers-feelings).
+«Bicis y Radiación» es un hack para el juego de rol «Lasers & Feelings» creado por [John Harper](https://johnharper.itch.io/lasers-feelings).
 
-Interpretarás a une adolescente que sobrevive como puede con su pandilla en el páramo nuclear que es su mundo actual. Piensa en Mad Max o Fallout, pero en vez de InceptorV8, tendrás tu bicicleta tuneada, tienes que estar en casa cuando el contador Geiger empiece a pitar y tu madre siempre te está recordando que, no salgas de los muros de la ciudad y que no hables ni con mutarachas ni con caníbales del páramo desconocidos.
+Interpretarás a une adolescente que sobrevive como puede con su pandilla en el páramo nuclear que es su mundo actual. Piensa en Mad Max o Fallout, pero en vez de InceptorV8, tendrás tu bicicleta tuneada, tienes que estar en casa cuando el contador Geiger empiece a pitar y tu madre siempre te está recordando que, no salgas de los muros de la ciudad y que no hables con caníbales del páramo desconocidos.
 
 La idea original de este juego la escuché originalmente en un vídeo del canal de Tarhod [+2 de Carisma](https://www.youtube.com/watch?v=c8VxBAOaXv4&t=1700s) y lo llamaron «Kids on Nukes».
 
@@ -18,7 +18,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 
 ## PJ: Tunea tu bicicleta
 
-Tú bici es la pieza más importante de tu equipo y en torno a lo que gira toda tu adolescencia. Pasas horas lustrando sus partes no oxidadas, remendando su sillín y poniéndole cosas que le hagan más «cool». Tener una bici guapa, te puede convertir en el más molone de tu pandilla.
+Tu bici es la pieza más importante de tu equipo y en torno a lo que gira toda tu adolescencia. Pasas horas lustrando sus partes no oxidadas, remendando su sillín y poniéndole cosas que le hagan más «cool». Tener una bici guapa, te puede convertir en le más molone de tu pandilla.
 
 Para crear tu bici, **debes definirla con dos adjetivos o frases muy cortas**.
 
@@ -58,7 +58,7 @@ Si estás usando BICICLETAS necesitas sacar un número inferior. Si estás usand
 
 \sp
 
-2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás que tienes que ir a casa a hacer deberes, despellejar «escaraliebres» para la cena o matar a las mutarachas que se comen vuestra cosecha de maíz fosforito.
+2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás de que tienes que ir a casa a hacer deberes, despellejar «escaraliebres» para la cena o matar a las «mutarachas» que se comen vuestra cosecha de maíz fosforito.
 3. Si sacas ** 2 éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **3 éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. Deberían ser cosas que te hagan destacar y parecer molón.
 5. Si sacas **exactamente tu número**, se produce un PEM (Pulso electro-magnético). En mitad de una situación de estrés la radiación recorrerá todo tu cuerpo y te darás cuenta de algo, una sonrisa, una mirada, unas manos entrelazadas, … en tus compañeros. Podrás hacer una pregunta de sí o no a uno de tus compañeros sobre sus relaciones y deberán ser sinceros.
@@ -91,8 +91,8 @@ Tira o elige de las siguientes tablas.
 |---|---|
 |1|Robar recursos que la gente necesita para sobrevivir|
 |2|Alimentarse|
-|3|Sacrificio humanos a su extraña divinidad|
-|4|Conseguir material fusionable para un arma gigante o un robot|
+|3|Sacrificios humanos a su extraña divinidad|
+|4|Conseguir material fisionable para un arma gigante o un robot|
 |5|Probar una arma biológica o nuclear nueva y peligrosa|
 |6|Secuestrar a todes les niñes para esclavizarlos|
 
@@ -109,7 +109,7 @@ Tira o elige de las siguientes tablas.
 
 El **objetivo de este juego** es conseguir vivir una gran aventura antes de la hora del toque de queda, molarlo todo con tu pandilla y sobrevivir un día más en el erial radiactivo que es tu hogar, luchando contra mutantes, zombis radiactivos y robots anacrónicos.
 
-Piensa que el **nivel tecnológico de este juego** sería el actual con una capa ochentera, además la tecnología es muy escasa. Es decir, hay teléfonos móviles, pero hay muy pocos y se parecen a walkie-talkies. Hay ordenadores y tabletas que hacen lo mismo que las actuales, pero son monocromos en vez de ser táctiles pueden botones y diales para manejarlos.
+Piensa que el **nivel tecnológico de este juego** sería el actual con una capa ochentera, además la tecnología es muy escasa. Es decir, hay teléfonos móviles, pero hay muy pocos y se parecen a walkie-talkies. Hay ordenadores y tabletas que hacen lo mismo que las actuales, pero son monocromos y en vez de ser táctiles pueden botones y diales para manejarlos.
 
 A la hora de **jugar con adolescentes** aquí tienes una serie de **consejos** que tú como DJ y tus PJ puede aplicar:
 
@@ -119,7 +119,7 @@ A la hora de **jugar con adolescentes** aquí tienes una serie de **consejos** q
 * Más salides que el pico de una plancha.
 * Lo más importante es ser guay.
 
-Este juego es un mundo post-apocalíptico, así que hay cosas que debes tener en cuenta. Ya hemos comentado la escasez y debes añadirle, que la supervivencia gana a la ética y la moral y que la gente añora los viejos tiempo no-radiactivos.
+Este juego es un mundo postapocalíptico, así que hay cosas que debes tener en cuenta. Ya hemos comentado la escasez y debes añadirle, que la supervivencia gana a la ética y la moral y que la gente añora los viejos tiempo no-radiactivos.
 
 Para dar nombres a las cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente junta dos palabras como puede y/o las acorta para que no perder tiempo mientras huye. Por ejemplo, las cucarachas mutantes, pasen a ser «mutarachas» en vez de algo finolis en latín y dices «rad» en vez de «radioactividad».
 
