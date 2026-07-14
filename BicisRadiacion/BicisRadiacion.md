@@ -84,7 +84,7 @@ Tira o elige de las siguientes tablas.
 |2|Gigantesca bomba H no explotada a la que algunas personas peregrinan|
 |3|Ruinas de ViejoYork, donde hay tesoros que descubrir|
 |4|Ruinas radiactivas de la central nuclear donde hubo una fusión nuclear|
-|5|XXX|
+|5|Instalaciones militares secretas clausuradas|
 |6|Red de cuevas subterráneas que usan los morlocks, los saqueadores y los vampiros de fusión|
 
 |1d6|¿Qué intenta hacer?|
@@ -125,4 +125,4 @@ Si necesitas crear nombres de cosas, piensa que hay mucho conocimiento perdido y
 
 ## Licencia
 
-Creado por [Gwannon](https://gwannon.com). Hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/BikesNukes)** todo el código fuente para que puedas hacer con ello todo lo que quieras. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. Creado para la [One-Page RPG Jam 2026](https://itch.io/jam/one-page-rpg-jam-2026). Fondo de [magnific](https://www.magnific.com/free-photo/photo-metal-texture-pattern_199974939.htm).
+Creado por [Gwannon](https://gwannon.com) bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/BikesNukes)** todo el código fuente. Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández. Creado para la [One-Page RPG Jam 2026](https://itch.io/jam/one-page-rpg-jam-2026). Fondo de [magnific](https://www.magnific.com/free-photo/photo-metal-texture-pattern_199974939.htm).

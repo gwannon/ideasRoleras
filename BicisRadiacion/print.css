@@ -48,10 +48,12 @@ body:after {
 
 body#BicisRadiacionBW:after {
   background-image: url(./images/border1bw.png);
+  display: none;
 }
 
 body#BicisRadiacionBW:before {
   background-image: url(./images/border2bw.png);
+  display: none;
 }
 
 body > * {
