@@ -17,7 +17,9 @@ body {
 }
 
 body#BicisRadiacionBW,
-body#BicisRadiacionBW {
+body#BicisRadiacionBW,
+body#BikesNukesBW,
+body#BikesNukesBW  {
   --color-red: #000;
   --color-white: #000;
   --color-black: #fff;
@@ -46,12 +48,14 @@ body:after {
   background: transparent url(./images/border2.png) top left repeat-y;
 }
 
-body#BicisRadiacionBW:after {
+body#BicisRadiacionBW:after,
+body#BikesNukesBW:after {
   background-image: url(./images/border1bw.png);
   display: none;
 }
 
-body#BicisRadiacionBW:before {
+body#BicisRadiacionBW:before,
+body#BikesNukesBW:before {
   background-image: url(./images/border2bw.png);
   display: none;
 }
@@ -107,7 +111,9 @@ b, strong {
 }
 
 body#BicisRadiacionBW b,
-body#BicisRadiacionBW strong {
+body#BicisRadiacionBW strong,
+body#BikesNukesBW b,
+body#BikesNukesBW strong {
   color: var(--color-white);
 }
 
@@ -157,7 +163,9 @@ h3 {
 }
 
 body#BicisRadiacionBW *:is(h1,h2,h3),
-body#BicisRadiacionBW *:is(h1,h2,h3) {
+body#BicisRadiacionBW *:is(h1,h2,h3),
+body#BikesNukesBW *:is(h1,h2,h3),
+body#BikesNukesBW *:is(h1,h2,h3) {
   text-shadow: none;
 }
 
@@ -200,7 +208,8 @@ table thead tr th {
   color: #0FFF50;
 }
 
-body#BicisRadiacionBW table thead tr th {
+body#BicisRadiacionBW table thead tr th,
+body#BikesNukesBW table thead tr th {
   color: var(--color-white);
 }
 

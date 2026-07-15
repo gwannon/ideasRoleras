@@ -1,0 +1,11 @@
+InfoKey: Title
+InfoValue: Bikes & Nukes
+
+InfoKey: Subject
+InfoValue: PDF printer friendly in black and white. «Bikes & Nukes" is a hack of the TTRPG "Lasers & Feelings" created by John Harper, in which you play a teenager scraping by with their band of friends in the nuclear wasteland that is their current world. Version 1.0
+
+InfoKey: Author
+InfoValue: Gwannon
+
+InfoKey: Keywords
+InfoValue: rpg, ttrpg, lasers&feelings, kids, bikes, nukes, fallout, mad max
