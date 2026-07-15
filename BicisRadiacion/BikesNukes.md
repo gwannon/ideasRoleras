@@ -1,12 +1,12 @@
-# Bikes & Nukes [por Gwannon](https://gwannon.com/)
+# Bikes & Nukes [by Gwannon](https://gwannon.com/)
 
-«Bikes & Nukes» es un hack para el juego de rol «Lasers & Feelings» creado por [John Harper](https://johnharper.itch.io/lasers-feelings).
+«Bikes & Nukes» is a hack of the role-playing game «Lasers & Feelings» created by [John Harper](https://johnharper.itch.io/lasers-feelings).
 
-Interpretarás a une adolescente que sobrevive como puede con su pandilla en el páramo nuclear que es su mundo actual. Piensa en Mad Max o Fallout, pero en vez de InceptorV8, tendrás tu bicicleta tuneada, tienes que estar en casa cuando el contador Geiger empiece a pitar y tu madre siempre te está recordando que, no salgas de los muros de la ciudad y que no hables con caníbales del páramo desconocidos.
+You will play as a teenager scraping by with your posse in the nuclear wasteland that is now your world. Think Mad Max or Fallout, but instead of a Interceptor V8, you have a tuned-up bicycle; you have to be home when the Geiger counter starts beeping, and your mom is always reminding you not to leave the city walls or talk to strange cannibals from the wasteland.
 
-La idea original de este juego la escuché originalmente en un vídeo del canal de Tarhod [+2 de Carisma](https://www.youtube.com/watch?v=c8VxBAOaXv4&t=1700s) y lo llamaron «Kids on Nukes».
+I first heard the original idea for this game in a video on Tarhod's channel [+2 de Carisma](https://www.youtube.com/watch?v=c8VxBAOaXv4&t=1700s) and they called it «Kids on Nukes».
 
-Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denominados d6) y opcionalmente uranio empobrecido.
+To play this game, you will need paper, a pencil, and three 6-sided dice (known as d6s) and, optionally, depleted uranium.
 
 ## Player: Create your character
 
@@ -16,7 +16,7 @@ Para jugar a este juego necesitarás papel, lápiz y 3 dados de 6 caras (denomin
 4. Además de tu bici, tienes un equipo básico compuesto por tu merienda, unos comics y revistas de antes del holocausto, tu contador Geiger y tu machete de OxiHierro.
 5. Por último, debes elegir **qué quieres ser de mayor**. Aquí tienes unos ejemplos: buhonera, mecanique, cazador, manitas, mensajere, DJ de radio, …
 
-## Player: Tunning your bike
+## Player: Tunning-up your bike
 
 Tu bici es la pieza más importante de tu equipo y en torno a lo que gira toda tu adolescencia. Pasas horas lustrando sus partes no oxidadas, remendando su sillín y poniéndole cosas que le hagan más «cool». Tener una bici guapa, te puede convertir en le más molone de tu pandilla.
 
@@ -35,11 +35,11 @@ Además, **tu bici tiene que tener algo especial y muy específico** que la haga
 
 La aptitud especial **debe ser aceptada por tu DJ**, no vale tener un motor nuclear o un rayo de la muerte.
 
-## Player: Dinámicas dentro de la pandilla
+## Player: Social dynamics within the posse
 
 Dentro de las pandillas de adolescentes hay dinámicas sociales y sentimentales y para ellos debes asignar en secreto a cada uno de tus compañeros una de las siguientes relaciones.
 
-* **Adversarie.** Aquella persona con la que compites por todo.
+* **Adversario.** Aquella persona con la que compites por todo.
 * **Auténtico amor.** La persona que más quieres de la pandilla románticamente o no.
 * **Fantasma.** La persona que menos te interesa de la pandilla.
 * **Brújula moral.** La persona que te sirve de brújula moral. No tiene que ser buenos actos.
@@ -58,27 +58,27 @@ Si estás usando BICICLETAS necesitas sacar un número inferior. Si estás usand
 
 \sp
 
-2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás de que tienes que ir a casa a hacer deberes, despellejar «escaraliebres» para la cena o matar a las «mutarachas» que se comen vuestra cosecha de maíz fosforito.
+2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás de que tienes que ir a casa a hacer deberes, despellejar «rabbeetles» para la cena o matar a las «radroachs» que se comen vuestra cosecha de maíz fosforito.
 3. Si sacas ** 2 éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **3 éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. Deberían ser cosas que te hagan destacar y parecer molón.
 5. Si sacas **exactamente tu número**, se produce un PEM (Pulso electro-magnético). En mitad de una situación de estrés la radiación recorrerá todo tu cuerpo y te darás cuenta de algo, una sonrisa, una mirada, unas manos entrelazadas, … en tus compañeros. Podrás hacer una pregunta de sí o no a uno de tus compañeros sobre sus relaciones y deberán ser sinceros.
 
-Si quieres apoyar la tirada de otra persona, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6.
+If you want to help someone else who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
 
-## GM: Crear una aventura
+## GM: Create an adventure
 
-Tira o elige de las siguientes tablas.
+Roll or choose from the following tables.
 
-|1d6|¿Quién está creando problemas?|
+|1d6|Who are causing problems?|
 |---|---|
-|1|Zombis inteligentes|
-|2|La Legión Nazi|
-|3|Vampimutantes|
-|4|Saqueadores del páramo|
-|5|La Mafia de Uranio|
-|6|Robotones|
+|1|Intelligent zombies|
+|2|The Nazi Legion|
+|3|Vampimutants|
+|4|Wasteelands Looters|
+|5|The Uranium Mafia|
+|6|Robotons|
 
-|1d6|¿En qué lugar?|
+|1d6|Where?|
 |---|---|
 |1|La brillante y llena de neón, Ciudad Fusión|
 |2|Gigantesca bomba H no explotada a la que algunas personas peregrinan|
@@ -87,7 +87,7 @@ Tira o elige de las siguientes tablas.
 |5|Instalaciones militares secretas clausuradas|
 |6|Red de cuevas subterráneas que usan los morlocks, los saqueadores y los vampiros de fusión|
 
-|1d6|¿Qué intenta hacer?|
+|1d6|What are they trying to do?|
 |---|---|
 |1|Robar recursos que la gente necesita para sobrevivir|
 |2|Alimentarse|
@@ -96,14 +96,14 @@ Tira o elige de las siguientes tablas.
 |5|Probar una arma biológica o nuclear nueva y peligrosa|
 |6|Secuestrar a todes les niñes para esclavizarlos|
 
-|1d6|¿Qué día hace?|
+|1d6|What's the weather like?|
 |---|---|
-|1|Día perfecto en el yermo para andar con tu bici|
-|2|Nubes radiotóxicas|
-|3|Tormenta eléctrico-nuclear|
-|4|Ola de calor nuclear|
-|5|Tormenta de arena irradiada|
-|6|Lluvia radiactiva|
+|1|Perfect day in the wasteland for a bike ride|
+|2|Radiotoxic clouds|
+|3|Nuclear-electric storm|
+|4|Nuclear heatwave|
+|5|Irradiated sandstorm|
+|6|Radioactive rain|
 
 ## GM: Run the game
 
@@ -116,13 +116,13 @@ A la hora de **jugar con adolescentes** aquí tienes una serie de **consejos** q
 * Todo es un drama, cuando digo todo es todo.
 * Piensan que la gente mayor no les entiende. Y realmente es así, casi no hablan ni el mismo idioma.
 * Quieren ser importantes y lo remarcan con frases como «Voy a hacer cosas importantes», «Seré mejor que mis padres», «Saldré de este maldito agujero y triunfaré en la vida».
-* Más salides que el pico de una plancha.
+* Más salidos que el pico de una plancha.
 * Lo más importante es ser guay.
 
-Este juego es un mundo postapocalíptico, así que hay cosas que debes tener en cuenta. Ya hemos comentado la escasez y debes añadirle, que la supervivencia gana a la ética y la moral y que la gente añora los viejos tiempo no-radiactivos.
+This game is set in a post-apocalyptic world, so there are a few things you need to keep in mind. We’ve already discussed the scarcity; on top of that, survival takes precedence over ethics and morality, and people yearn for the «non-radioactive old days».
 
-Para dar nombres a las cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente junta dos palabras como puede y/o las acorta para que no perder tiempo mientras huye. Por ejemplo, las cucarachas mutantes, pasen a ser «mutarachas» en vez de algo finolis en latín y dices «rad» en vez de «radioactividad».
+Para dar nombres a las cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente junta dos palabras como puede y/o las acorta para que no perder tiempo mientras huye. Por ejemplo, las cucarachas mutantes, pasen a ser «radroachs» en vez de algo finolis en latín y dices «rad» en vez de «radioactividad».
 
 ## License
 
-Created by [Gwannon](https://gwannon.com) under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)** License. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/BikesNukes)** todo el código fuente. Creado para la [One-Page RPG Jam 2026](https://itch.io/jam/one-page-rpg-jam-2026). Fondo de [magnific](https://www.magnific.com/free-photo/photo-metal-texture-pattern_199974939.htm).
+Created by [Gwannon](https://gwannon.com) under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)** License. You can get all the source code from **[Github](https://github.com/gwannon/ideasRoleras/tree/main/BikesNukes)**. Created for the [One-Page RPG Jam 2026](https://itch.io/jam/one-page-rpg-jam-2026). Background image from [magnific](https://www.magnific.com/free-photo/photo-metal-texture-pattern_199974939.htm).
