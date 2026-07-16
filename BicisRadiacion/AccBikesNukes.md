@@ -10,11 +10,11 @@ To play this game, you will need paper, a pencil, and three 6-sided dice (known 
 
 ## Player: Create your character
 
-1. Para **crear a tu PJ** debes ponerle **un nombre**. Elige también **unos pronombres**.
-2. A continuación toca **crear un apodo para tu PJ**, que te describa: la Chatarrera, el Picabichos, le Buscalios, la ManosSuaves, el Chismes etc.
-3. **Elige un número del 2 al 5.** Con un número alto eres mejor en Bicis (Correr, saltar, pelear, montar en bici, … en general fuerza, destreza y resistencia), y con uno bajo eres mejor con la Radiación (Ciencias, letras, deducción, investigación, buscar información, … en general inteligencia y voluntad).
-4. Además de tu bici, tienes un equipo básico compuesto por tu merienda, unos comics y revistas de antes del holocausto, tu contador Geiger y tu machete de OxiHierro.
-5. Por último, debes elegir **qué quieres ser de mayor**. Aquí tienes unos ejemplos: buhonera, mecanique, cazador, manitas, mensajere, DJ de radio, …
+1. To **create your character**, you must give it **a name**. Also, choose **your pronouns**.
+2. Next, it’s time to **create a nickname for your character** that describes you: the Scavenger, Bug-Biter, Troublemaker, Soft-Hands, Mister Gossip, etc.
+3. **Choose a number from 2 to 5.** A high number means you're better at Bikes (running, jumping, fighting, riding a bike … in general, strength, agility, and endurance), and a low number means you're better at Nukes (Sciences, the humanities, deduction, research, information gathering… in general, intelligence and willpower).
+4. In addition to your bike, you have a basic kit consisting of a snack, some pre-apocalypsis comics and magazines, a Geiger counter, and an Oxy-Iron machete.
+5. Finally, you must choose **what you want to be when you grow up**. Here are a few examples: peddler, mechanic, hunter, artisan, courier, radio DJ…
 
 ## Player: Tunning-up your bike
 
@@ -77,21 +77,21 @@ Roll or choose from the following tables.
 
 |1d6|Where?|
 |---|---|
-|1|La brillante y llena de neón, Ciudad Fusión|
-|2|Gigantesca bomba H no explotada a la que algunas personas peregrinan|
-|3|Ruinas de ViejoYork, donde hay tesoros que descubrir|
-|4|Ruinas radiactivas de la central nuclear donde hubo una fusión nuclear|
-|5|Instalaciones militares secretas clausuradas|
-|6|Red de cuevas subterráneas que usan los morlocks, los saqueadores y los vampiros de fusión|
+|1|Fusion City, the brilliant neon star in the desert|
+|2|A masive, unexploded H-bomb that attracts pilgrims|
+|3|The ruins of Old York, home to treasures waiting to be discovered|
+|4|Radioactive ruins of the nuclear power plant where a meltdown occurred|
+|5|Closed secret military facilities|
+|6|Underground cave network used by Morlocks, raiders, and fusion vampires|
 
 |1d6|What are they trying to do?|
 |---|---|
-|1|Robar recursos que la gente necesita para sobrevivir|
-|2|Alimentarse|
-|3|Sacrificios humanos a su extraña divinidad|
-|4|Conseguir material fisionable para un arma gigante o un robot|
-|5|Probar una arma biológica o nuclear nueva y peligrosa|
-|6|Secuestrar a todes les niñes para esclavizarlos|
+|1|Stealing food and water people need to survive|
+|2|Feeding themselves|
+|3|Human sacrifices to their dark deity|
+|4|Obtaining fissionable material to fuel a mega-laser or super-robot|
+|5|Testing a dangerous new biological or nuclear weapon|
+|6|Kidnapping all the children to enslave them|
 
 |1d6|What's the weather like?|
 |---|---|
