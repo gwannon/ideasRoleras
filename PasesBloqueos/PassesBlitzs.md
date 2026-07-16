@@ -92,9 +92,9 @@ Your **heroic run** allows you to charge forward with the ball; praying to your 
 
 ## Dice rolls
 
-Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. Tira +1d6 si estás preparado (de pie en el lugar del campo y en momento oportuno y a poder ser sin contrincantes cerca) y +1d6 si está dentro de las capacidades normales de tu posición (el DJ te dirá cuantos dados puedes tirar, basándose en tu posición). Tira los dados y compara cada resultado con el número que elegiste.
+When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared (standing in position on the field, at the right moment, and, if it's possible, without opponents nearby) and +1d6 if it falls within the normal capabilities of your position (the GM will tell you how many dice you can roll, based on your position). Roll the dice and compare each result to the number you chose.
 
-Si estás usando PASES, necesitas sacar un número inferior. Si estás usando BLOQUEOS, necesitas sacar un número superior.
+If you’re using PASSES, you want to roll under your number. If you’re using BLITZS, you want to roll over your number.
 
 1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
 2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
