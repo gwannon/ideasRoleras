@@ -18,33 +18,31 @@ To play this game, you will need paper, a pencil, and three 6-sided dice (known 
 
 ## Player: Tunning-up your bike
 
-Tu bici es la pieza más importante de tu equipo y en torno a lo que gira toda tu adolescencia. Pasas horas lustrando sus partes no oxidadas, remendando su sillín y poniéndole cosas que le hagan más «cool». Tener una bici guapa, te puede convertir en le más molone de tu pandilla.
+Your bike is the most important piece of your equipment and it's the thing your entire teenage life revolves around. You spend hours polishing the parts that aren't rusty, patching up the seat, and adding things to make it look cooler. Having a radical bike can make you the coolest kid in your posse.
 
-Para crear tu bici, **debes definirla con dos adjetivos o frases muy cortas**.
+To create your bike, **you must define it using two adjectives or very short phrases**. They need to be very general so that you can use them in a wide range of situations. For example: fast, resistent, lightweight, falling apart, reliable …
 
-Deben ser muy genéricos de manera que puedas usarlo en una gran cantidad de situaciones. Por ejemplo, rápida, robusta, ligera, se cae a trozos, fiable, …
+Furthermore, **your bike needs to have something special and very specific** that makes it unique—something you’ve invested a lot of time in, something one-of-a-kind that no one else has. Let’s look at some examples.
 
-Además, **tu bici tiene que tener algo especial y muy específico** que la haga singular. Algo en lo que has invertido mucho tiempo, es único y nadie más tiene. Veamos ejemplos.
+* Features a dynamo to generate electricity.
+* Equipped with wings to glide a few meters after a jump.
+* Radio receiver to listen to HoundDuck, your posse's favorite radio DJ.
+* Large off-road tires for better traction.
+* A trailer for hauling extra weight.
+* Foldable, attack spikes, camouflage paint …
 
-* Tiene una dinamo que permite crear electricidad.
-* Tiene unos alerones para que al saltar planee unos metros.
-* Emisora de radio para escuchar a HoundDuck, el DJ radiofónico preferido de tu pandilla.
-* Ruedas grandes de todoterreno para mejor tracción.
-* Un carro para llevar más peso.
-* Pinchos para atacar, plegable, con pintura de camuflaje, …
-
-La aptitud especial **debe ser aceptada por tu DJ**, no vale tener un motor nuclear o un rayo de la muerte.
+The special feature **must be approved by your GM**; having a nuclear engine or a death ray can be a problem in the story.
 
 ## Player: Social dynamics within the posse
 
-Dentro de las pandillas de adolescentes hay dinámicas sociales y sentimentales y para ellos debes asignar en secreto a cada uno de tus compañeros una de las siguientes relaciones.
+Within teenager posse, there are social and emotional dynamics, and to understand them, you must secretly assign each of your peers one of the following relationships.
 
-* **Adversario.** Aquella persona con la que compites por todo.
-* **Auténtico amor.** La persona que más quieres de la pandilla románticamente o no.
-* **Fantasma.** La persona que menos te interesa de la pandilla.
-* **Brújula moral.** La persona que te sirve de brújula moral. No tiene que ser buenos actos.
+* **Adversary.** The person you compete with for everything.
+* **True Love.** The person you care about most in the posse, romantically or otherwise.
+* **Ghost.** The person you're least interested in within the posse.
+* **Jiminy Cricket.** The person who serves as your moral compass. This doesn't necessarily mean they do good deeds.
 
-Estas relaciones afectan a como te vas a comportar y actuar. Seguramente pondrás más energía e interés por ganar a tu adversario o por salvar a tu auténtico amor, mientras que igual no mueves un dedo por el fantasma.
+These relationships influence how you behave and act. You'll likely put more energy and effort into winning over your adversary or saving your true love, while you might not lift a finger for the ghost.
 
 ## Rolling the dice
 
