@@ -12,15 +12,15 @@ To play this game, you will need paper, a pencil, and three 6-sided dice (known 
 
 1. To **create your character**, you must give it **a name**. Also, choose **your pronouns**.
 2. Next, it’s time to **create a nickname for your character** that describes you: the Scavenger, Bug-Biter, Troublemaker, Soft-Hands, Mister Gossip, etc.
-3. **Choose a number from 2 to 5.** A high number means you're better at Bikes (running, jumping, fighting, riding a bike … in general, strength, agility, and endurance), and a low number means you're better at Nukes (Sciences, the humanities, deduction, research, information gathering… in general, intelligence and willpower).
-4. In addition to your bike, you have a basic kit consisting of a snack, some pre-apocalypsis comics and magazines, a Geiger counter, and an Oxy-Iron machete.
+3. **Choose a number from 2 to 5.** A «high number» means you're better at Bikes (running, jumping, fighting, riding a bike … in general, strength, agility, and endurance), and a «low number» means you're better at Nukes (Sciences, the humanities, deduction, research, information gathering… in general, intelligence and willpower).
+4. In addition to your bike, you have a basic kit consisting of a snack, some pre-apocalypses comics and magazines, a Geiger counter, and an Oxy-Iron machete.
 5. Finally, you must choose **what you want to be when you grow up**. Here are a few examples: peddler, mechanic, hunter, artisan, courier, radio DJ…
 
 ## Player: Tunning-up your bike
 
 Your bike is the most important piece of your equipment and it's the thing your entire teenage life revolves around. You spend hours polishing the parts that aren't rusty, patching up the seat, and adding things to make it look cooler. Having a radical bike can make you the coolest kid in your posse.
 
-To create your bike, **you must define it using two adjectives or very short phrases**. They need to be very general so that you can use them in a wide range of situations. For example: fast, resistent, lightweight, falling apart, reliable …
+To create your bike, **you must define it using two adjectives or very short phrases**. They need to be very general so that you can use them in a wide range of situations. For example: fast, resistant, lightweight, falling apart, reliable …
 
 Furthermore, **your bike needs to have something special and very specific** that makes it unique—something you’ve invested a lot of time in, something one-of-a-kind that no one else has. Let’s look at some examples.
 
@@ -70,14 +70,14 @@ Roll or choose from the following tables.
 |1|Intelligent zombies|
 |2|The Nazi Legion|
 |3|Vampimutants|
-|4|Wasteelands Looters|
+|4|Wastelands Looters|
 |5|The Uranium Mafia|
 |6|Robotons|
 
 |1d6|Where?|
 |---|---|
 |1|Fusion City, the brilliant neon star in the desert|
-|2|A masive, unexploded H-bomb that attracts pilgrims|
+|2|A massive, unexploded H-bomb that attracts pilgrims|
 |3|The ruins of Old York, home to treasures waiting to be discovered|
 |4|Radioactive ruins of the nuclear power plant where a meltdown occurred|
 |5|Closed secret military facilities|
@@ -103,9 +103,9 @@ Roll or choose from the following tables.
 
 ## GM: Run the game
 
-The **objetive of this game** is to embark on a grand adventure before curfew, get fun with your posse, and survive another day in the radioactive wasteland you call home, battling mutants, radioactive zombies and anachronic robots.
+The **objective of this game** is to embark on a grand adventure before curfew, get fun with your posse, and survive another day in the radioactive wasteland you call home, battling mutants, radioactive zombies and anachronic robots.
 
-The **technological level** of this setting is on par with today's, but with an 80s aesthetic; furthermore, technology is very scarce. In other words, while mobile phones exist, they are rare and resemble walkie-talkies. Computers and tablets function just like modern ones, but they feature monochrome displays and rely on buttons and dials for operation rather than touchscreens.
+The **technological level** of this setting is on par with today's, but with a 80s aesthetic; furthermore, technology is very scarce. In other words, while mobile phones exist, they are rare and resemble walkie-talkies. Computers and tablets function just like modern ones, but they feature monochrome displays and rely on buttons and dials for operation rather than touchscreens.
 
 When you are **playing with teenager characters**, here are a few **tips** that the GMs and the players can apply:
 
