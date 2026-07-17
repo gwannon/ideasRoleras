@@ -119,12 +119,12 @@ The last plays in "Passes and Blitzes" are easy to create using these simple tab
 |6|Undeads, vampires, mummies|
 |1d6|Illegal equipment, traps, cheats and tricks|
 |---|---|
-|1|Apisonadora enana|
-|2|Francotirador escondido en el techo del estadio|
-|3|Mago escondido entre el público|
-|4|Motosierra, bala con cadena, trabuco lanza-pelotas|
-|5|Trampa: hoyo con pinchos, cepo de osos, minas antipersona|
-|6|Tipos grandes: Trolls, hombres árbol, ogros, minotauros|
+|1|Dwarf steamroller|
+|2|Sniper hidden on the stadium roof|
+|3|Wizard hidden among the audience|
+|4|Chainsaw, ball&chain, ball-launching blunderbuss|
+|5|It's a trap: spike pit, bear trap, anti-personnel mines|
+|6|TBig guys: Trolls, treepeople, ogres, minotaurs|
 
 |1d6|How is the match going?|
 |---|---|
@@ -188,11 +188,10 @@ Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fuera
 
 ## License
 
-Creado por [Gwannon](https://gwannon.com) y hecho bajo licencia **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)**. Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)** todo el código fuente para que puedas hacer con ello todo lo que quieras. 
-Parte de los textos se han extraído de la traducción al castellano de hecha por Hugo González y Luis Fernández.
+Created by [Gwannon](https://gwannon.com) under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es)** license. You can find all the source code on **[GitHub](https://github.com/gwannon/ideasRoleras/tree/main/PasesBloqueos)**, so you can do whatever you want with it. 
 
-La [imagen de fondo](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) y la [manchas de sangre](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) son de [Freepik](https://www.freepik.es/). Las imágenes de escenas deportivas son de [RomCova](https://www.deviantart.com/romcova/) y de [LANZAestudio](https://www.deviantart.com/lanzaestudio).
+[Background image](https://www.freepik.com/free-photo/green-fake-grass-background_2791853.htm) and [blood stains](https://www.freepik.com/free-photo/halloween-concept-blood-splatter-white-background_1018848.htm) are from [Freepik](https://www.freepik.es/). The images of sports scenes are by [RomCova](https://www.deviantart.com/romcova/) and [LANZAestudio](https://www.deviantart.com/lanzaestudio).
 
-Se ha usado la fuente [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
+Font used [JACKPORT COLLEGE NCV](https://www.fontspace.com/jackport-college-ncv-font-f21145).
 
-Se agradecen las correcciones de [@kinderwebo](https://bsky.app/profile/kinderwebo.eurosky.social).
+Corrections from [@kinderwebo](https://bsky.app/profile/kinderwebo.eurosky.social) are appreciated.
