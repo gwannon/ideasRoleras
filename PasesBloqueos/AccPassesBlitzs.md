@@ -96,27 +96,28 @@ You cannot assist a player who shares your position, unless you are a Lineman, w
 
 The last plays in "Passes and Blitzes" are easy to create using these simple tables, but feel free to create any play you think is best.|1d6|Weather|
 |---|---|
-|1|**Nieve y hielo.** El suelo está helado y resbaladizo.|
-|2|**Lluvias torrenciales.** El campo es un barrizal que hace muy difícil moverse y coger el balón.|
-|3|**Ola de calor.** Correr es agotador y hay varios jugadores en la enfermería por golpes de calor.|
-|4|**Tiempo perfecto** para jugar a fútbol amoricano.|
-|5|**Mucho viento.** Los pases se vuelven muy imprecisos.|
-|6|**Muy soleado.** El sol te ciega muchas veces.||1d6|Team supporters|
+|1|**Snow and ice.** The ground is frozen and slippery.|
+|2|**Flash floods.** The field is a mud pit, making it very difficult to move and handle the ball.|
+|3|**Heatwave.** Running is exhausting, and several players are sidelined with heatstroke.|
+|4|**Perfect weather** for playing Amorican football.|
+|5|**Strong winds.** Passes become very inaccurate.|
+|6|**Very sunny.** The sun often blinds you.||1d6|Team supporters|
 |---|---|
-|1|Día de traer a tus hijos al partido. Todo lleno de niños ilusionados en la zona de tus contrincantes y con carita triste en vuestra zona. Hagáis lo que hagáis habrá caritas tristes de niños tristes.|
-|2|Han regalado entradas y el estadio está lleno de personas que no saben muy bien de que va esto.|
-|3|Hooligans violentos y borrachos|
-|4|Hay una gran rivalidad y ambas hinchadas llevan todo el partido peleando.|
-|5|Los espectadores están aburridos y no prestan atención al partido, incluso hay un goblin que ha sacado un libro y se ha puesto a leer.|
-|6|Un dios del Caos aburrido y su séquito han decidido ver un partido.|Las hinchadas son de las especies del equipo de tus jugadores y del equipo contrario y puede que se lleven bien o se lleven a muerte.
+|1|Bring-your-offspring-to-the-match day. The opposing team's section is packed with excited siblings, while your side is full of sad little faces. No matter what happens, there will be sad faces on sad children.|
+|2|Free tickets were handed out, and the stadium is full of people who don't really know what's going on.|
+|3|Violent, drunken hooligans.|
+|4|There is a fierce rivalry, and both sets of fans have been brawling throughout the match.|
+|5|The spectators are bored and paying no attention to the game; there’s even a goblin who has pulled out a book and started reading.|
+|6|A bored Chaos god and his entourage have decided to watch a match.|The hoolingans belong to the same species as your players' team and the opposing team, and they might get along or be mortal enemies.
 |1d6|Opposing team|
 |---|---|
-|1|Enanos, elfos, medianos, gnomos|
-|2|Orcos, goblins, trasgos|
-|3|Humanos, nórdicos, bretones|
-|4|Elfos oscuros, enanos caóticos, semiorcos|
-|5|Hombres lagarto, hombre rata, hombres bestia|
-|6|No muertos, vampiros, momias||1d6|Illegal equipment, traps, cheats and tricks|
+|1|Dwarves, elves, halflings, gnomes|
+|2|Orcs, goblins, hobgoblins|
+|3|Humans, norses, bretons|
+|4|Dark elves, chaos dwarves, halforcs|
+|5|Lizard people, rat people, beast people|
+|6|Undeads, vampires, mummies|
+|1d6|Illegal equipment, traps, cheats and tricks|
 |---|---|
 |1|Apisonadora enana|
 |2|Francotirador escondido en el techo del estadio|
