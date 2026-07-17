@@ -48,20 +48,18 @@ Estas relaciones afectan a como te vas a comportar y actuar. Seguramente pondrá
 
 ## Rolling the dice
 
-Cuando quieras hacer algo arriesgado tira 1d6 para determinar cómo te fue. El DJ puede dar dados extras (máximo 3d6), si la situación te es ventajosa por alguna razón, si puede usar tu bicicleta de alguna manera, si interviene un PJ por el que tenga una relación interesante, o si tu apodo o tus estudios sirven en lo que vas a intentar. 
+When you do something risky, roll 1d6 to find out how it goes. The GM can give extra dice (max 3d6) if the situation is advantageous to you for some reason, if your bicycle can be used in the action, if a posse member with whom you share an interesting relationship intervenes, or if your nickname or studies are relevant to what you are attempting.
 
-Tira los dados y compara cada resultado con el número que elegiste.
+Roll your dice and compare each die result to your number. If you’re using BIKES, you want to roll under your number. If you’re using NUKES, you want to roll over your number.
 
-Si estás usando BICICLETAS necesitas sacar un número inferior. Si estás usando RADIACIÓN necesitas sacar un número superior.
-
-1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
+1. If **none of your dice succeed**, it goes wrong. The GM says how things get worse somehow.
 
 \sp
 
-2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás de que tienes que ir a casa a hacer deberes, despellejar «rabbeetles» para la cena o matar a las «radroachs» que se comen vuestra cosecha de maíz fosforito.
-3. Si sacas ** 2 éxitos**, lo hiciste bien. ¡Buen trabajo!
-4. Si sacas **3 éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. Deberían ser cosas que te hagan destacar y parecer molón.
-5. Si sacas **exactamente tu número**, se produce un PEM (Pulso electro-magnético). En mitad de una situación de estrés la radiación recorrerá todo tu cuerpo y te darás cuenta de algo, una sonrisa, una mirada, unas manos entrelazadas, … en tus compañeros. Podrás hacer una pregunta de sí o no a uno de tus compañeros sobre sus relaciones y deberán ser sinceros.
+2. If **1 die succeeds**, you barely manage it. The GM inflicts a complication, harm, or cost. Remember, if you rack up 3 points of damage, you’ll realize you have to go home to do your homework, skin «rabbeetles» for dinner, or kill the «radroaches» that are eating your crop of phosphorescent corn.
+3. If **2 dice succeed**, you do it well. Good job!
+4. If **3 dice succeed**, you get a critical success! The GM will grant you some **extra benefit**. They should be things that make you stand out and look cool.
+5. If you draw **exactly your number**, an EMP (electromagnetic pulse) is triggered. Amidst the high-stress situation, the radiation will course through your body, and you will notice something—a smile, a glance, hands clasped together—among your teammates. You will be able to ask one of your teammates a yes-or-no question about their relationships, and they must answer truthfully.
 
 If you want to help someone else who’s rolling, say how you try to help and make a roll. If you succeed, give them +1d.
 
@@ -107,21 +105,21 @@ Roll or choose from the following tables.
 
 ## GM: Run the game
 
-El **objetivo de este juego** es conseguir vivir una gran aventura antes de la hora del toque de queda, molarlo todo con tu pandilla y sobrevivir un día más en el erial radiactivo que es tu hogar, luchando contra mutantes, zombis radiactivos y robots anacrónicos.
+The **objetive of this game** is to embark on a grand adventure before curfew, get fun with your posse, and survive another day in the radioactive wasteland you call home, battling mutants, radioactive zombies and anachronic robots.
 
-Piensa que el **nivel tecnológico de este juego** sería el actual con una capa ochentera, además la tecnología es muy escasa. Es decir, hay teléfonos móviles, pero hay muy pocos y se parecen a walkie-talkies. Hay ordenadores y tabletas que hacen lo mismo que las actuales, pero son monocromos y en vez de ser táctiles pueden botones y diales para manejarlos.
+The **technological level** of this setting is on par with today's, but with an 80s aesthetic; furthermore, technology is very scarce. In other words, while mobile phones exist, they are rare and resemble walkie-talkies. Computers and tablets function just like modern ones, but they feature monochrome displays and rely on buttons and dials for operation rather than touchscreens.
 
-A la hora de **jugar con adolescentes** aquí tienes una serie de **consejos** que tú como DJ y tus PJ puede aplicar:
+When you are **playing with teenager characters**, here are a few **tips** that the GMs and the players can apply:
 
-* Todo es un drama, cuando digo todo es todo.
-* Piensan que la gente mayor no les entiende. Y realmente es así, casi no hablan ni el mismo idioma.
-* Quieren ser importantes y lo remarcan con frases como «Voy a hacer cosas importantes», «Seré mejor que mis padres», «Saldré de este maldito agujero y triunfaré en la vida».
-* Más salidos que el pico de una plancha.
-* Lo más importante es ser guay.
+* Everything is a drama and when I say «everything», I mean «everything».
+* They think adults don't understand them. And the truth is, they really don't, they barely even speak the same language.
+* They want to be important and emphasize it with phrases like «I’m going to do important things», «I’ll be better than my parents» and «I’m getting out of this godforsaken hole and making it big».
+* Horny as hell.
+* The most important thing is being cool.
 
 This game is set in a post-apocalyptic world, so there are a few things you need to keep in mind. We’ve already discussed the scarcity; on top of that, survival takes precedence over ethics and morality, and people yearn for the «non-radioactive old days».
 
-Para dar nombres a las cosas, piensa que hay mucho conocimiento perdido y la radiación ha traído muchas cosas muevas de las que huir, así que la gente junta dos palabras como puede y/o las acorta para que no perder tiempo mientras huye. Por ejemplo, las cucarachas mutantes, pasen a ser «radroachs» en vez de algo finolis en latín y dices «rad» en vez de «radioactividad».
+Naming items, monsters, gadgets, keep in mind that a lot of knowledge has been lost and radiation has introduced plenty of new threats to flee from. So people just «fusionate» two words together however they can or shorten them to avoid wasting time while running for their lives. For example, mutant cockroaches become «radroaches» instead of something fancy in Latin, and you say «rad» instead of «radioactivity».
 
 ## License
 
