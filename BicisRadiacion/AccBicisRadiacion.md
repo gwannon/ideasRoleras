@@ -54,9 +54,9 @@ Tira los dados y compara cada resultado con el número que elegiste.
 
 Si estás usando BICICLETAS necesitas sacar un número inferior. Si estás usando RADIACIÓN necesitas sacar un número superior.
 
-1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
-2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás de que tienes que ir a casa a hacer deberes, despellejar «escaraliebres» para la cena o matar a las «mutarachas» que se comen vuestra cosecha de maíz fosforito.
-3. Si sacas ** 2 éxitos**, lo hiciste bien. ¡Buen trabajo!
+1. Si **ninguno de tus dados tiene éxito**, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
+2. Si sacas **1 éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, algo que pierdes de tu equipo o 1 herida. Recuerda que si acumulas 3 daños te acordarás de que tienes que ir a casa a hacer deberes, despellejar «escaraliebres» para la cena o matar a las «mutarachas» que se comen vuestra cosecha de maíz fosforito.
+3. Si sacas **2 éxitos**, lo hiciste bien. ¡Buen trabajo!
 4. Si sacas **3 éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**. Deberían ser cosas que te hagan destacar y parecer molón.
 5. Si sacas **exactamente tu número**, se produce un PEM (Pulso electro-magnético). En mitad de una situación de estrés la radiación recorrerá todo tu cuerpo y te darás cuenta de algo, una sonrisa, una mirada, unas manos entrelazadas, … en tus compañeros. Podrás hacer una pregunta de sí o no a uno de tus compañeros sobre sus relaciones y deberán ser sinceros.
 
