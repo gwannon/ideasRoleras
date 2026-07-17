@@ -80,7 +80,7 @@ With a **Hail Mary pass**, you can attempt a wild pass to a teammate even when s
 
 #### Catcher
 
-Your game is all about dodging, breaking free, sprinting, leaping, and having sure hands. The moment you get caught, you’re mincemeat - but you’re harder to grab than a greased pig. Free agents and veterans rarely play receiver; that position is often reserved for the rookie - the little guy who makes up for a lack of size and strength with courage and agility.
+Your game is all about dodging, breaking free, sprinting, leaping, and having sure hands. The moment you get caught, you’re mincemeat - but you’re harder to grab than a greased pig. Free agents and veterans rarely play catcher; that position is often reserved for the rookie - the little guy who makes up for a lack of size and strength with courage and agility.
 
 With your **epic reception**, you can make a desperate sprint&jump to catch an impossible pass, disregarding your own physical safety. But it doesn't have to end there; that reception might transition into an acrobatic tumble that lets you evade defenders, or see you landing in the mud and sliding all the way to the goal line.
 
@@ -94,22 +94,22 @@ Your **heroic run** allows you to charge forward with the ball; praying to your 
 
 When you do something risky, roll 1d6 to find out how it goes. Roll +1d if you’re prepared (standing in position on the field, at the right moment, and, if it's possible, without opponents nearby) and +1d6 if it falls within the normal capabilities of your position (the GM will tell you how many dice you can roll, based on your position). Roll the dice and compare each result to the number you chose.
 
-If you’re using PASSES, you want to roll under your number. If you’re using BLITZS, you want to roll over your number.
+If you’re using PASSES, you want to roll under your number. If you’re using BLITZES, you want to roll over your number.
 
-1. Si ninguno de tus dados tiene éxito, algo salió mal. El DJ te dirá cómo empeoraron las cosas.
-2. Si sacas **un éxito**, lo consigues a duras penas. El DJ te pondrá una complicación, un coste o un daño.
-3. Si sacas **dos éxitos**, lo hiciste bien. ¡Buen trabajo!
-4. Si sacas **tres éxitos**, ¡consigues un éxito crítico! El DJ te dará algún **beneficio extra**, que normalmente estará asociada a tu posición. Quizás hayas hecho un tiro imposible de interceptar o cuando recibe un pase estás solo sin nadie alrededor.
+1. If **none of your dice succeed**, it goes wrong. The GM says how things get worse somehow.
+2. If **one die succeeds**, you barely manage it. The GM inflicts a complication, harm, or cost.
+3. If **two dice succeed,** you do it well. Good job!
+4. If **three dice succeed,** you get a critical success! The GM will grant you some **extra benefit** which will typically be linked to your position. Perhaps you’ve made an uninterceptable launch, or you find yourself all alone with no one around when receiving a pass.
 
 \sp
 
-5. Si sacas **exactamente tu número**, obtienes PASES BLOQUEOS. Te darás cuenta de algo especial que está pasando en el partido. Hazle una pregunta al DJ, y él te dará una respuesta sincera. Algunas preguntas interesantes: ¿Qué estrategia parece que tiene? ¿Parece que se guarden algo bajo la manga? ¿Me creen una amenaza? ¿Vienen a por mí o por el balón? ¿Puedo lanzar el balón de manera segura? ¿Puedo derribarlo? Puedes cambiar tu acción si quieres a raíz de la nueva información, en ese caso vuelve a tirar. Dentro de esa nueva acción puedes hacer uso de la **acción heroica** de tu posición que también exige hacer una tirada.
+5. If you roll **exactly your number**, you gain PASSES BLITZES. You notice something special happening during the match. Ask the DJ a question, and they will give you an honest answer. Some interesting questions: What strategy do they seem to have? Do they seem to have a trick up their sleeve? Do they consider me a threat? Are they coming for me or the ball? Can I safely throw the ball? Can I knock him down? You may change your action based on this new information; if you do, roll again. As part of that new action, you can use your position's **Heroic Action**, which also requires a roll.
 
 ### Assists
 
-Si quieres apoyar la tirada de otro, explica cómo lo haces y tira los dados. Si tienes éxito le das +1d6. En principio debe estar en la misma parte del campo para poder apoyarte, aunque en algunas situaciones no es necesario
+If you want to assist another player's roll, explain how you are doing it and roll the dice. If successful, you grant a +1d6 bonus. Generally, the assisting player must be in the same section of the field to provide support, though in some situations this is not required.
 
-No puedes apoyar a nadie con tu misma posición a no ser que seas línea que puedes apoyar a todos. Un bloqueador solo puede apoyar a otros bloqueadores o al lanzador. Lanzadores y receptores tampoco pueden apoyarse entre sí, están es partes del campo totalmente opuestas.
+You cannot assist a player who shares your position, unless you are a Lineman, who can assist anyone. A Blocker can only assist other Blockers or the Thrower. Throwers and Catchers cannot assist each other either, as they are located in completely opposite sections of the field.
 
 &nbsp;
 
