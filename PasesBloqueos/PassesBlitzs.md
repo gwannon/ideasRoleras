@@ -188,9 +188,9 @@ The hoolingans belong to the same species as your players' team and the opposing
 
 ## GM: How to master
 
-Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
+As we’ve already mentioned, **you won’t be playing a full match, just that final epic play** where your players want to prove they aren’t the losers everyone thinks they are. So, these last an hour at most.
 
-Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol.
+The first thing you need to do is explain their situation: the score deficit, the opposing team, the weather conditions and how many yards they are from the goal line.
 
 Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
 
