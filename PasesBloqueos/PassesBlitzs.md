@@ -171,12 +171,12 @@ The hoolingans belong to the same species as your players' team and the opposing
 
 |1d6|How is the match going?|
 |---|---|
-|1|Si marcáis en esta última jugada, os lleváis la copa. Estáis cansados, heridos y desmoralizados, pero nadie dijo que esto fuera fácil. Los que se han reído de vosotros durante toda la temporada van a saber de qué pasta estáis hechos.|
-|2|Extrañamente todos los jugadores fijos del equipo han sufrido maldición tras el descanso y están indispuestos. Os han sacado del fondo del banquillo y esta es vuestra única oportunidad de brillar y conseguir un puesto fijo en el equipo.|
-|3|Sois lo últimos jugadores literalmente vivos de vuestro equipo. Si aguantáis hasta el final del tiempo, ganáis el partido.|
-|4|Estáis en defensa y vais perdiendo. Seguramente van a retener el balón hasta que termine el partido. Tenéis que encontrar una estrategia loca y suicida para robarles el balón y poder marcar.|
-|5|Habéis aceptado sobornos para dejaros ganar, pero en el último momento preferís la gloria de la victoria. Eso significa que los asesinos y magos mercenarios que ha contratado el mafioso de turno por si os echabais atrás entrarán en juego. Y seguro que han puesto precio a vuestra cabeza así que le equipo contrario va a ir a por todas.|
-|6|Los ánimos están caldeados y el público está a punto invadir el campo. Marcar no es imposible, pero una vez que lo hagáis no creéis que salgáis vivos de la invasión de campo.|
+|1|If you score on this final play, the cup is yours. You are tired, injured, and demoralized, but no one said this would be easy. The people who laughed at you all season are about to see what you’re made of.|
+|2|Strangely, all the team's regulars have fallen victim to a curse after the break and are unable to play. You’ve been called up from the very end of the bench, and this is your only chance to shine and secure a permanent spot on the team.|
+|3|You are the last players on your team who are literally still alive. If you hold out until time runs out, you win the match.|
+|4|You are on defense and losing. They are likely to hold onto the ball until the match ends. You need to come up with a wild, suicidal strategy to steal the ball and score.|
+|5|You accepted bribes to lost the game, but at the last moment, you decide you’d rather have the glory of victory. That means the assassins and mercenary mages - hired by the local mobster just in case you backed out - are coming into play. There is almost certainly a price on your heads, so the opposing team is going to pull out all the stops.|
+|6|Tempers are flaring, and the crowd is on the verge of pitch invasion. Scoring isn't impossible, but once you do, you don't expect to make it out of the pitch invasion alive.|
 
 \conc
 
