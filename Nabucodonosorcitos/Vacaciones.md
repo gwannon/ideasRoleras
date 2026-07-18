@@ -10,5 +10,3 @@ XXX
 
 * Hotel tipi indio
 * Lavavajillas parque acuático.
-
-\sp

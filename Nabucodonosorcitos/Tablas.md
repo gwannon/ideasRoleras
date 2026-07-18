@@ -44,7 +44,7 @@ XXX
 
 Los enemigos de un nabuco, no son enemigos reales, son cosas que ellos creen que son enemigos y que están contra ellos.
 
-Estariamos hablando Por ejemplo, el sensor del grifo del agua de un baño público que saca agua cuando detecta una mano debajo, pero no ante ellos que son tan pequeños que no los detecta. 
+Estaríamos hablando Por ejemplo, el sensor del grifo del agua de un baño público que saca agua cuando detecta una mano debajo, pero no ante ellos que son tan pequeños que no los detecta. 
 
 |1d8|XXX|
 |---|---|
@@ -58,5 +58,3 @@ Estariamos hablando Por ejemplo, el sensor del grifo del agua de un baño públi
 |8|XXX|
 
 XXX
-
-\sp
