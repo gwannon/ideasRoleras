@@ -1,10 +1,6 @@
-\sinc
+
 
 # Hay nabucodosorcitos en mi macetero
-
-&nbsp;
-
-\conc
 
 XXX
 
@@ -30,9 +26,6 @@ Arquetipos:
 * **El entusiasta.** XXX
 * **El pesimista.** XXX
 * **El que ha ido al cole.** Siempre hay un lístillo que ha ido al cole y ha atendido en clase y puede usar una opción lógica y sencilla sin sufrir penalización. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que el resto de sus compañeros abran sus paraguas, se monten encima como si fueran un pogo-stick y empiecen a saltar en los charcos. 
-
-\sp
-
 ### El grupo
 
 Los nabucos son gregarios y se mueven en grupo con lo que deberéis que os une a todos los PJ. En Barrio Sésamo eran todos familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, ...
@@ -73,9 +66,6 @@ XXX
 La regla fundamental del equipo es el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas, así que necesitan una pala deberán buscar en los cubos de reciclaje cosas como chapa de refresco y palillos de pinchos y juntarlos con pegamento y claro a escala nabucodosorcito.
 
 Los nabucodosorcitos no controlan la electricidad, así que la única manera que conocen de generar energía son gomas elásticas y tracción animal, es decir ellos tirando/empujando como burros.
-
-\sp
-
 ## Aventuras
 
 La vida de los nabucodosorcitos es una aventura constante y cada día es un reto para estos pequeños seres. Para ti, bajar a comprar el pan es muy sencillo, pero una gesta titánica para los nabucodosorcitos.
@@ -100,12 +90,76 @@ No tienen piernas, son marionetas. De cintura para abajo están todos los artilu
 
 En tus muñecas hay dos palitos para mover tus brazos, con lo que olvídate de ponerte bolsas al hombro o cosa así.
 
+XXX## Generación de aventuras
+
 XXX
 
-\sp
+### Tabla de misiones
 
-|Tablas.md|
+XXX
 
-|Vacaciones.md|
+|1d8|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+|7|XXX|
+|8|XXX|
 
-|Licencia.md|
+### Tabla de problemas añadidos
+
+XXX
+
+|1d8|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+|7|XXX|
+|8|XXX|
+### Tabla de enemigos
+
+Los enemigos de un nabuco, no son enemigos reales, son cosas que ellos creen que son enemigos y que están contra ellos.
+
+Estariamos hablando Por ejemplo, el sensor del grifo del agua de un baño público que saca agua cuando detecta una mano debajo, pero no ante ellos que son tan pequeños que no los detecta. 
+
+|1d8|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+|7|XXX|
+|8|XXX|
+
+XXX## Las locas vacaciones de una familia de nabucodosorcitos
+
+XXX
+
+* Hotel tipi indio
+* Lavavajillas parque acuático.
+## Mermelada rolera de Seppu 2026
+
+Creado para la [Mermelada rolera de Seppu 2026](https://itch.io/jam/la-mermelada-de-seppu-rnr-2026) organizada por [Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/).
+
+Ingredientes usados en este juego de rol:
+
+* **Ingredientes mecánicos:** Mundo en miniatura o microscópico.
+* **Ingredientes temáticos:** Más allá de la mesa. Mecánicas fuera de partida.
+[![Mermelada rolera de Seppu 2026](./images/mermelada-rolera.png "Mermelada rolera de Seppu 2026")](https://itch.io/jam/la-mermelada-de-seppu-rnr-2026 "Mermelada rolera de Seppu 2026")
+
+## Licencia
+
+Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Nabucodonosorcitos). Imágenes libres de derecho de diferentes fuentes.
+
+* Encantador balcón con caja de flores de brgfx de [Magnific](https://www.magnific.com/es/vector-gratis/encantador-balcon-caja-flores_290244994.htm)
+* Un mapa de los sistemas de tuberías de agua de brgfx de [Magnific](https://www.magnific.com/es/vector-gratis/mapa-sistemas-tuberias-agua_2451769.htm)
+&nbsp;
