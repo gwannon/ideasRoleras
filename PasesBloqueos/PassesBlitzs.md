@@ -192,22 +192,24 @@ As we’ve already mentioned, **you won’t be playing a full match, just that f
 
 The first thing you need to do is explain their situation: the score deficit, the opposing team, the weather conditions and how many yards they are from the goal line.
 
-Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
+It must be a desperate situation, perhaps they have to score a desperate goal to win or simply survive the final quarter to avoid disqualification for lacking enough players. Maybe they need to lose by fewer than five points so the team's evil owner loses a bet, or perhaps the entire opposing team has been bought off, except for your players, forcing them to take on both teams just to score.
 
-**En resumen, sea lo que sea debe sonar deportivamente épico.**
+**To sum up, whatever it is, it needs to sound sportingly epic.**
 
-Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
+Next up is the team huddle; your players crouch down and gather in a circle to talk. Let them choose from some of these options:
 
-1. Darse ánimos los unos a otros.
-2. Alguien suelta una arenga motivadora.
-3. Alguien tiene una idea genial para salir victoriosos.
-4. Se propone hacer algún tipo de trampas para ganar.
+1. Encouraging one another.
+2. Someone make a motivational speech.
+3. Someone comes up with a brilliant idea to win.
+4. A plan is proposed to cheat in order to win.
 
-Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, … para que se hagan una imagen mental de lo que se enfrentan.
+Once that is done, they take their positions and wait for the referee's whistle. This might be a good moment to describe the situation in greater detail, the state of the fans and the opposing team, the condition of the pitch, and the weather, so they can form a mental picture of what they are up against.
 
 ### Complications
 
-Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
+Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante.
+
+No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
 
 El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
 

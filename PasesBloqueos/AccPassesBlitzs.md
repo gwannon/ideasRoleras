@@ -135,26 +135,28 @@ The last plays in "Passes and Blitzes" are easy to create using these simple tab
 |5|You accepted bribes to lost the game, but at the last moment, you decide you’d rather have the glory of victory. That means the assassins and mercenary mages - hired by the local mobster just in case you backed out - are coming into play. There is almost certainly a price on your heads, so the opposing team is going to pull out all the stops.|
 |6|Tempers are flaring, and the crowd is on the verge of pitch invasion. Scoring isn't impossible, but once you do, you don't expect to make it out of the pitch invasion alive.|[![Coach Iron Golems by LANZAestudio](./images/entrenador.jpg "Coach Iron Golems by LANZAestudio")](https://www.deviantart.com/lanzaestudio/art/Coach-Iron-Golems-615179960 "Coach Iron Golems by LANZAestudio")## GM: How to master
 
-Cómo ya hemos dicho **no vas a jugar un partido entero, solo esa última jugada épica** en la que tus jugadores quieren demostrar que no son los perdedores que todos creen. Así que son partidas cortas de como mucho 1 hora de duración.
+As we’ve already mentioned, **you won’t be playing a full match, just that final epic play** where your players want to prove they aren’t the losers everyone thinks they are. So, these last an hour at most.
 
-Lo primero que debes hacer es explicarles su situación, por cuánto pierden, a qué equipo se enfrentan, qué tiempo hace y sobre todo a cuántas yardas están hasta la línea de gol.
+The first thing you need to do is explain their situation: the score deficit, the opposing team, the weather conditions and how many yards they are from the goal line.
 
-Tiene que ser una situación desesperada, quizás tengan que marcar a la desesperada para ganar o solamente sobrevivir un último cuarto para no ser descalificados por no tener jugadores suficientes. Quizás tengan que perder por menos de 5 puntos para que el malvado dueño del equipo pierda una apuesta o quizás todo el equipo está comprado menos tus jugadores y deban enfrentarse a ambos equipos para marcar. 
+It must be a desperate situation, perhaps they have to score a desperate goal to win or simply survive the final quarter to avoid disqualification for lacking enough players. Maybe they need to lose by fewer than five points so the team's evil owner loses a bet, or perhaps the entire opposing team has been bought off, except for your players, forcing them to take on both teams just to score.
 
-**En resumen, sea lo que sea debe sonar deportivamente épico.**
+**To sum up, whatever it is, it needs to sound sportingly epic.**
 
-Lo siguiente es la reunión de equipo, tus jugadores se agachan y hacen un corro para hablar. Déjales que hagan algunas de estas opciones:
+Next up is the team huddle; your players crouch down and gather in a circle to talk. Let them choose from some of these options:
 
-1. Darse ánimos los unos a otros.
-2. Alguien suelta una arenga motivadora.
-3. Alguien tiene una idea genial para salir victoriosos.
-4. Se propone hacer algún tipo de trampas para ganar.
+1. Encouraging one another.
+2. Someone make a motivational speech.
+3. Someone comes up with a brilliant idea to win.
+4. A plan is proposed to cheat in order to win.
 
-Una vez hecho esto, se ponen en posición y esperan el pitido del árbitro. Tal vez sea un buen momento para narrar como está la situación con más detalles: como están los hinchas, como está el contrincante, explicarles como está el campo y que día hace, … para que se hagan una imagen mental de lo que se enfrentan.
+Once that is done, they take their positions and wait for the referee's whistle. This might be a good moment to describe the situation in greater detail, the state of the fans and the opposing team, the condition of the pitch, and the weather, so they can form a mental picture of what they are up against.
 
 ### Complications
 
-Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante. No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
+Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante.
+
+No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
 
 El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
 El árbitro también puede ser una complicación, quizás esté comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
