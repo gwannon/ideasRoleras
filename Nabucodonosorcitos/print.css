@@ -84,7 +84,7 @@ blockquote {
 
 blockquote:after {
   box-sizing: border-box;
-  content: "IKS";
+  content: "123";
   display: block;
   background-color: var(--color-green);
   position: absolute;

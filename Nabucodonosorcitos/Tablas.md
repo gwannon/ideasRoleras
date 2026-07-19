@@ -38,7 +38,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |5|XXX|
 |6|XXX|
 |7|XXX|
-|8|Las calles están nevadas y el suelo helado y resbaladizo.|
+|8|Las calles están nevadas y el suelo helado y resbaladizo. Las terrazas están llenas de nieve y de los alféizares caen carámbanos.|
 
 ### Tabla de eventos al azar
 
@@ -79,19 +79,43 @@ Estaríamos hablando, por ejemplo, del sensor del grifo del agua de un baño pú
 |4|Aspersores|
 |5|Lluvia de confeti|
 |6|Alarmas ruidosas|
-|7|XXX|
-|8|XXX|
+|7|Juguetes|
+|8|Fauna urbana|
 
-\sc
+#### Alarma ruidosa
 
-**Alarma ruidosa** XXX. Pueden ser de coches, de incendios, de casas y negocios o esa que suena tan alto de Don Dormilón. 
+Una alarma empieza a sonar atronadoramente volviendo locos a los nabucos que corren sin sentido moviendo los brazos y chillando. Hasta que no se apague no podrán continuar normalmente.
 
-**Altavoces inteligentes** XXX
+Las alarmas pueden ser de coches, de incendios, de casas y negocios o ese despertador de Don Dormilón que suena tan alto. 
 
-**Aspersores** XXX
+#### Altavoces inteligentes
 
-**Lluvia de confeti** XXX. Otras opciones podrían ser serpentinas, espuma, pompas de jabón, …
+XXX.
 
-**Robot aspirador** XXX. También podrían ser barredoras de calles, pulidoras de suelos, …
+Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. Por otro lado piensa que siempre darán respuesta a soluciones pensando en seres de tamaño humano o marioneta, nunca nabuco.
 
-**Sensores de movimiento** que abren puertas, hacen que los grifos den agua, se accionen las escaleras automáticas, den jabón, … Seguramente el _beep_ que hacen al activarse les debería traer de cabeza a tus jugadores.
+#### Aspersores
+
+XXX
+
+#### Fauna urbana
+
+Ratas, mapaches, palomas, ardillas, gorriones, tanto normales como marionetas XXX
+
+\sp
+
+#### Juguetes
+
+XXX
+
+#### Lluvia de confeti
+
+Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada vez que cae no saben qué es y como reaccionar. A parte de confeti, otras opciones podrían ser serpentinas, espuma, pompas de jabón, … Quizás lo esquiven porque piensan que es peligroso o piensen que son seres vivos que explotan. 
+
+#### Robot aspirador
+
+XXX. También podrían ser barredoras de calles, pulidoras de suelos, …
+
+#### Sensores de movimiento
+
+Sensores que abren puertas, hacen que los grifos den agua, se accionen las escaleras automáticas, den jabón, … Seguramente el _beep_ que hacen al activarse les debería traer de cabeza a tus jugadores.
