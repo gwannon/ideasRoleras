@@ -1,6 +1,8 @@
+«Hay nabucodosorcitos en mi macetero» es un **mini-juego de rol** para **une DM y hasta cuatre jugadores**. En este juego seréis unos nabucodosorcitos (nabucos para abreviar), unos **insectos inteligentes** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
+
 XXX
 
-El DJ se llama EPI.
+> Los DJ son llamados EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) es una especie de narrador de sus aventuras.
 
 Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
 
@@ -8,9 +10,13 @@ Mientras que en otras ambientaciones de seres pequeños, estos suelen ser peque�
 
 XXX
 
+Los resultados por encima de 12 o más son éxitos completos. Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Recuerda que solo te enseñaban a contar hasta 12. XXX
+
 > Cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
 
 Taparse con un paraguas para evitar la lluvia le es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía.
+
+\sp
 
 ## Crear tu nabuco
 
@@ -22,8 +28,6 @@ Arquetipos:
 * **El entusiasta.** XXX
 * **El pesimista.** XXX
 * **El que ha ido al cole.** Siempre hay un listillo que ha ido al cole y ha atendido en clase y puede usar una opción lógica y sencilla sin sufrir penalización. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que el resto de sus compañeros abran sus paraguas, se monten encima como si fueran un pogo saltarín y empiecen a saltar en los charcos. 
-
-\sp
 
 ### El grupo
 
@@ -54,6 +58,8 @@ Pero también son tremendamente dramáticos, si tienen hambre tienen muchísima 
 
 Su capacidad de pasar del drama a la total alegría también es curiosa, pueden estar muriéndose de hambre y en cuanto encuentran medio donut empiezan a saltar y bailar de alegría.
 
+\sp
+
 ## Equipo
 
 XXX
@@ -65,8 +71,6 @@ XXX
 La regla fundamental del equipo es el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas, así que necesitan una pala deberán buscar en los cubos de reciclaje cosas como chapa de refresco y palillos de pinchos y juntarlos con pegamento y claro a escala nabucodosorcito.
 
 Los nabucodosorcitos no controlan la electricidad, así que la única manera que conocen de generar energía son gomas elásticas y tracción animal, es decir ellos tirando/empujando como burros.
-
-\sp
 
 ## Aventuras
 
@@ -86,7 +90,7 @@ El resto de nabucos le olvidarán casi al instante y no se acordarán de él has
 
 ## Modo marioneta
 
-El modo marioneta es un modo de jugar especial, más loco, si es posible, que el modo normal. En el modo normal eres un insecto humanoide, en el **modo marioneta eres una marioneta como tal**, con lo que no tienes piernas, tus dedos son prensiles, sino que se te pegan las cosas porque tienen velcro y no te puedes alejar de uno de tus compañeros porque un solo marionetista controla a dos nabucos y los brazos le dan hasta donde le dan. 
+El modo marioneta es un modo de jugar especial, más loco, si es posible, que el modo normal. En el modo normal eres un insecto humanoide. En el **modo marioneta eres una marioneta como tal**, con lo que no tienes piernas, tus dedos son prensiles, sino que se te pegan las cosas porque tienen velcro y no te puedes alejar de uno de tus compañeros porque un solo marionetista controla a dos nabucos y los brazos le dan hasta donde le dan. 
 
 No tienen piernas, son marionetas. De cintura para abajo están todos los artilugios de la marioneta y la mano que los controla. Así que no puede dar patadas altas o hacer claqué. Solo pueden hacer como que golpean algo (en realidad es el marionetista con su mano) o ruido de claqué y hacer como que bailan. Tampoco, no pueden saltar alto porque se vería el palo con el que las mueve el marionetista.
 
