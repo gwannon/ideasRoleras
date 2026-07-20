@@ -158,7 +158,7 @@ The hoolingans belong to the same species as your players' team and the opposing
 
 |1d6|Illegal equipment, traps, cheats and tricks|
 |---|---|
-|1|Dwarf steamroller|
+|1|Dwarven Steamroller|
 |2|Sniper hidden on the stadium roof|
 |3|Wizard hidden among the audience|
 |4|Chainsaw, ball&chain, ball-launching blunderbuss|
@@ -207,11 +207,11 @@ Once that is done, they take their positions and wait for the referee's whistle.
 
 ### Complications
 
-Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante.
+An adventure of this game is essentially a series of complications that your players must resolve somehow. These complications don't have to come solely from the opposing team.
 
-No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
+It’s not all about "bloodthirsty maniacs charging at you"; there are plenty of other complications. Something as simple as being knocked down counts as a complication, especially if a Dwarven Steamroller or a troll trying to throw a goblin are near you.
 
-El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
+The weather can be a complication, rain can be very troublesome, but a skilled player can try to dodge opponents by sliding across the water.
 
 \sp
 
