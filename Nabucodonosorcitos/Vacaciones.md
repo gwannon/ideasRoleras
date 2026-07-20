@@ -14,26 +14,26 @@
 
 XXX
 
-## Preparando el viaje
+### Preparando el viaje
 
 XXX
 
-## En ruta
+### En ruta
 
 XXX
 
-## La bola de lana más grande del mundo
+### La bola de lana más grande del mundo
 
 XXX
 
-## Noche en la carretera
+### Noche en la carretera
 
 El típico hotel de carretera donde las casetas tienen forma de tipi indio XXX
 
-## Atravesando el desierto
+### Atravesando el desierto
 
 El cajón de arena del gato XXX
 
-## El parque acuático
+### El parque acuático
 
 XXX es el lavavajillas
