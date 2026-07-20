@@ -17,11 +17,11 @@ En esta tabla puedes encontrar sencillas semillas de aventuras que den inicio a 
 |1|**Cuidado del macetero:** regar, arreglar o podar las plantas de macetero, buscar y esparcir abono, acabar con las plagas|
 |2|**Viaje:** Os vais de vacaciones, de pícnic al parque, a los columpios, a las piscinas|
 |3|**Limpieza:** Ir al lavadero de coches, a la lavandería, usar la manguera o la regadera|
-|4|**XXX:** XXX|
-|5|**XXX:** XXX|
+|4|**Entretenimiento:** Noche en el autocine, concierto de los XXX|
+|5|**Visitas:** Reciben visitas de parientes del pueblo, de un nabuco de intercambio de un país muy lejano, hacen de niñeras de unos nabuquitos, ...|
 |6|**XXX:** XXX|
 |7|**XXX:** XXX|
-|8|**XXX:** XXX|
+|8|**Cambios en la casa:** Hay obras en la casa donde viven los nabucos o, quizás, una mudanza con los cambios que supone que se vaya gente y que venga gente nueva y desaparezcan unas cosas y aparezcan otras diferentes.|
 
 Estas semillas están pensadas considerando que tus nabucos viven en un macetero en la ventana o en la terraza, pero son fácilmente adaptables a nabuco que vivan en otros sitios.
 
@@ -32,7 +32,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |1d8|Problemas añadidos|
 |---|---|
 |1|Llueve, todo es peor si llueve.|
-|2|Es de noche y nadie podrá ayudaros. Están en su casa tranquilamente cenando.|
+|2|Es de noche y nadie podrá ayudaros. Están todos en su casa tranquilamente cenando.|
 |3|XXX|
 |4|XXX|
 |5|XXX|
