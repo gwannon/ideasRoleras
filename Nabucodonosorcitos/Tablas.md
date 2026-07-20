@@ -12,19 +12,6 @@ Seamos sinceros, las aventuras de este juego no son grandes epopeyas épicas, so
 
 ### Tabla de semillas de aventuras
 
-|1d8|Semillas de aventuras|
-|---|---|
-|1|**Cuidado del macetero:** regar, arreglar o podar las plantas de macetero, buscar y esparcir abono, acabar con las plagas|
-|2|**Viaje:** Os vais de vacaciones, de pícnic al parque, a los columpios, a las piscinas|
-|3|**Limpieza:** Ir al lavadero de coches, a la lavandería, usar la manguera o la regadera|
-|4|**Entretenimiento:** Noche en el autocine, concierto de los XXX|
-|5|**Visitas:** Reciben visitas de parientes del pueblo, de un nabuco de intercambio de un país muy lejano, hacen de niñeras de unos nabuquitos, ...|
-|6|**XXX:** XXX|
-|7|**XXX:** XXX|
-|8|**Cambios en la casa:** Hay obras en la casa donde viven los nabucos o, quizás, una mudanza con los cambios que supone que se vaya gente y que venga gente nueva y desaparezcan unas cosas y aparezcan otras diferentes.|
-
-&nbsp;
-
 \conc
 
 En esta tabla puedes encontrar sencillas semillas de aventuras que den inicio a la partida que vas a jugar. Como decimos siempre en este juego, pueden ser cosas muy simples, pero que para los nabucos pueden ser toda una odisea.
@@ -33,16 +20,26 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 
 \sinc
 
+&nbsp;
+
+|1d8|Semillas de aventuras|
+|---|---|
+|1|**Cuidado del macetero:** regar, arreglar o podar las plantas de macetero, buscar y esparcir abono, acabar con las plagas|
+|2|**Viaje:** Os vais de vacaciones, de pícnic al parque, a los columpios, a las piscinas|
+|3|**Limpieza:** Ir al lavadero de coches, a la lavandería, usar la manguera o la regadera|
+|4|**Entretenimiento:** Noche en el autocine, concierto de los Solfamidas, la feria o el circus llega al barrio.|
+|5|**Visitas:** Reciben visitas de parientes del pueblo, de un nabuco de intercambio de un país muy lejano, hacen de niñeras de unos nabuquitos, …|
+|6|**Ruin de tiempos pretéritos:** Los nabucos encuentran algo realmente antiguo que no comprenden y que deben investigar para qué es. Quizás es un proyector de películas de Super8, un teléfono de dial o un tragabolas.|
+|7|**Fantasmas:** algo que para nosotros es normal, los nabuco lo toman como algo del más allá, fantasmas, psicofonías, caras en las paredes que en realidad han pintado los niños de la casa con rotuladores en la pared.|
+|8|**Cambios en la casa:** Hay obras en la casa donde viven los nabucos o, quizás, una mudanza con los cambios que supone que se vaya gente y que venga gente nueva y desaparezcan unas cosas y aparezcan otras diferentes.|
+
+&nbsp;
+
 ### Tabla de problemas añadidos
 
-|1d8|Problemas añadidos|
-|---|---|
-|1|Llueve, todo es peor si llueve.|
-|2|Es de noche y nadie podrá ayudaros. Están todos en su casa tranquilamente cenando o viendo la tele.|
-|3|XXX|
-|4|XXX|
-
 \conc
+
+«Si algo puede ir mal, irá mal» es una máxima que siempre se cumple en las aventuras de los nabucos. Claro que lo que es un problema para un nabuco es muy diferente a lo que podemos pensar nosotros. La lluvia, que para ti no es nada, es un problemón muy gordo para los nabucos.
 
 \sp
 
@@ -50,16 +47,19 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 
 |1d8|Problemas añadidos|
 |---|---|
-|5|XXX|
+|1|Es de noche y nadie podrá ayudaros. Están todos en su casa tranquilamente cenando o viendo la tele.|
+|2|Hay obras en el barrio, reasfaltar las calles, obras del metro, fuga de agua, reparan las aceras. Al final es mucho ruido, mucho movimiento de persona y vehículos, montones de grava, excavadoras, cemento fresco, …|
+|3|Llueve, todo es peor si llueve.|
+|4|Las letras y los números se han escapado de la librería y todo está lleno de marionetas de letras y números saltando y corriendo por todas partes y gente intentando atraparlas.|
+|5|Todos o casi todos los nabucos tienen _gipre nabuca_, eso supone estornudos, hipos, toses, pedos incontrolados.|
 |6|Es festivo nacional y todo está cerrado, o hay un gran evento y todo el mundo ha ido a verlo o está en casa delante del TV. Las calles están desiertas y los nabucos se temen lo peor.|
-|7|XXX|
+|7|Invasión de monstruos, algo pasa que todas las marionetas monstruosas están muy activas. Se dedican a dar sustos a todo el mundo, incluso a los pequeños nabucos.|
 |8|Las calles están nevadas y el suelo helado y resbaladizo. Las terrazas están llenas de nieve y de los alféizares caen carámbanos.|
 
 &nbsp;
 
 \conc
 
-«Si algo puede ir mal, irá mal» es una máxima que siempre se cumple en las aventuras de los nabucos. Claro que lo que es un problema para un nabuco es muy diferente a lo que podemos pensar nosotros. La lluvia, que para ti no es nada, es un problemón muy gordo para los nabucos.
 
 \sinc
 
@@ -80,11 +80,11 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 
 \conc
 
+\sp
+
 Aquí tienes eventos al azar que pueden darle color a la aventura. Son cosas que pueden pasar en cualquier momento en el barrio y que le dan el sabor a Barrio Sésamo.
 
 Puedes tirar las que veces que sean en tu partida y pueden repetirse porque como verás es común que la gente baile y cante cada poco en el barrio.
-
-\sp
 
 \sinc
 
@@ -135,11 +135,11 @@ XXX
 
 O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
 
+\sp
+
 #### Lluvia de confeti
 
 Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada vez que cae no saben qué es y como reaccionar. A parte de confeti, otras opciones podrían ser serpentinas, espuma, pompas de jabón, … Quizás lo esquiven porque piensan que es peligroso o piensen que son seres vivos que explotan. 
-
-\sp
 
 #### Robot aspirador
 
