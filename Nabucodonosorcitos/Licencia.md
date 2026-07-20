@@ -32,7 +32,5 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 
 * Encantador balcón con caja de flores de brgfx de [Magnific](https://www.magnific.com/es/vector-gratis/encantador-balcon-caja-flores_290244994.htm)
 * Un mapa de los sistemas de tuberías de agua de brgfx de [Magnific](https://www.magnific.com/es/vector-gratis/mapa-sistemas-tuberias-agua_2451769.htm)
-
-\sc
-
-&nbsp;
+* Máquina blanca realista 3d del lavaplatos … de vectorpocket de [Magnific](https://www.magnific.com/es/vector-gratis/maquina-blanca-realista-3d-lavaplatos-tres-estantes-metal-llenos-placas-limpias-vidrio_2890990.htm)
+* Estilo de dibujos animados tienda de mascotas supermercado ... de user15245033 de [Magnific](https://www.magnific.com/es/vector-gratis/estilo-dibujos-animados-tienda-mascotas-supermercado-arena-perros-gatos-casa-jugar-arbol-juguetes-herramientas-aseo-paquete-comida_11464181.htm)

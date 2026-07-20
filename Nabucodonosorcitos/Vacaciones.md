@@ -1,5 +1,7 @@
 \sinc
 
+![Imagen principal de la aventura](./images/aventuras.png "Imagen principal de la aventura")
+
 ## Las locas vacaciones de una familia de nabucodosorcitos
 
 &nbsp;

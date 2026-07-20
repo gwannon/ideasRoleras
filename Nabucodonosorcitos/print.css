@@ -262,11 +262,9 @@ table tbody tr:nth-child(even) {
   background-color: rgba(0, 0, 0, 0.122);
 }
 
-/*img {
-  width: calc(100% - 4px);
-  border: 2px solid var(--color-yellow);
-  border-radius: 3px;
-}*/
+img {
+  width: 100%;
+}
 
 h3 + p img {
   margin-top: 10px;
