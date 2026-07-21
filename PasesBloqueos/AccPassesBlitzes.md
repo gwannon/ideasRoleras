@@ -171,7 +171,7 @@ It is important to avoid repetition; perhaps you could have three distinct waves
 
 **Time and space are relative and ruled by the epicness.** Yards can be stretched or shrunk to suit your needs and heighten the drama. If the teams are close, they’ll be just a few yards away, meaning any failure leaves them right near the goal line; whereas if they are far apart, every inch of progress will be a grueling battle of blood and sweat.
 
-Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
+Keep a simple record of the yardage so your players can easily tell how close they are to their target; remember that measurements are in 10-yard blocks and half the field is 120 yards.
 
 Con el tiempo puede pasar lo mismo. Un pase superlargo puede ser instantáneo o permitir a tus jugadores hacer varias acciones para intentar hacer esa mítica jugada que no creían que saldría.
 
