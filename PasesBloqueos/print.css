@@ -24,7 +24,7 @@ body {
 }
 
 body#PasesBloqueosBW,
-body#PassesBlitzsBW {
+body#PassesBlitzesBW {
   --color-red: #000;
   --color-white: #000;
   --color-black: #fff;
@@ -149,7 +149,7 @@ h4 {
 }
 
 body#PasesBloqueosBW *:is(h1,h2,h3),
-body#PassesBlitzsBW *:is(h1,h2,h3) {
+body#PassesBlitzesBW *:is(h1,h2,h3) {
   text-shadow: none;
 }
 
@@ -272,17 +272,17 @@ img {
 
 
 body#PasesBloqueosBW img,
-body#PassesBlitzsBW img {
+body#PassesBlitzesBW img {
   filter: grayscale(1);
   opacity: 0;
 }
 
 body#PasesBloqueosBW p:has(img),
-body#PassesBlitzsBW p:has(img)  {
+body#PassesBlitzesBW p:has(img)  {
   border: 1px solid black;
 }
 
 body#PasesBloqueosBW tr,
-body#PassesBlitzsBW tr  {
+body#PassesBlitzesBW tr  {
   border-bottom: 1px solid black;
 }

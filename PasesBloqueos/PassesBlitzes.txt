@@ -1,5 +1,5 @@
 InfoKey: Title
-InfoValue: Passes and Blitzs
+InfoValue: Passes and Blitzes
 
 InfoKey: Subject
 InfoValue: «Pases y bloqueos» es un hack parapara el juego de rol «Lasers & Feelings». Es la última jugada del partido de fútbol amoricano (aka Blood Bowl) más importante de vuestras vidas. Vuestro equipo va perdiendo, pero, si lo hacéis bien, podéis conseguir la gloria reservada a los ganadores de la Copa de Sangre. Versión 1.0

@@ -13,15 +13,15 @@
 #rm ./AccPasesBloqueosBW.md
 #rm ./temp.pdf
 
-php ./generateDocs.php PassesBlitzs
-chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./PassesBlitzs.html
-pdftk './temp.pdf' update_info_utf8 './PassesBlitzs.txt' output '../PassesBlitzs.pdf' compress
-rm ./PassesBlitzs.html
+php ./generateDocs.php PassesBlitzes
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./PassesBlitzes.html
+pdftk './temp.pdf' update_info_utf8 './PassesBlitzes.txt' output '../PassesBlitzes.pdf' compress
+rm ./PassesBlitzes.html
 rm ./temp.pdf
 
-php ./generateDocs.php PassesBlitzsBW
-chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./PassesBlitzsBW.html
-pdftk './temp.pdf' update_info_utf8 './PassesBlitzs.txt' output '../PassesBlitzsBW.pdf' compress
-rm ./PassesBlitzsBW.html
-rm ./AccPassesBlitzsBW.md
+php ./generateDocs.php PassesBlitzesBW
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./PassesBlitzesBW.html
+pdftk './temp.pdf' update_info_utf8 './PassesBlitzes.txt' output '../PassesBlitzesBW.pdf' compress
+rm ./PassesBlitzesBW.html
+rm ./AccPassesBlitzesBW.md
 rm ./temp.pdf

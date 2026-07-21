@@ -119,7 +119,7 @@ The last plays in "Passes and Blitzes" are easy to create using these simple tab
 |6|Undeads, vampires, mummies|
 |1d6|Illegal equipment, traps, cheats and tricks|
 |---|---|
-|1|Dwarf steamroller|
+|1|Dwarven Steamroller|
 |2|Sniper hidden on the stadium roof|
 |3|Wizard hidden among the audience|
 |4|Chainsaw, ball&chain, ball-launching blunderbuss|
@@ -154,18 +154,18 @@ Once that is done, they take their positions and wait for the referee's whistle.
 
 ### Complications
 
-Una partida de este juego es principalmente una sucesión de complicaciones que tus jugadores tienen que resolver de alguna manera. Estas complicaciones no tienen que venir solo del equipo contrincante.
+An adventure of this game is essentially a series of complications that your players must resolve somehow. These complications don't have to come solely from the opposing team.
 
-No todo es «locos sedientos de sangre que cargan hacia ti» hay muchas otras complicaciones. Algo como tan sencillo como ser derribado es una complicación, sobre todo si se acerca una apisonadora enana o un troll despistado tratando de lanzar a un goblin.
+It’s not all about "bloodthirsty maniacs charging at you"; there are plenty of other complications. Something as simple as being knocked down counts as a complication, especially if a Dwarven Steamroller or a troll trying to throw a goblin are near you.
 
-El tiempo atmosférico puede ser una complicación, la lluvia puede ser muy problemática, pero un jugador hábil puede intentar esquivar a sus contrarios deslizándose por el agua.
-El árbitro también puede ser una complicación, quizás esté comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
+The weather can be a complication, rain can be very troublesome, but a skilled player can try to dodge opponents by sliding across the water.
+The referee can also be a complication, maybe he’s been bought off, is blind as a bat, is more interested in eating a hot dog than the game or is angry with the rookie because the rookie stole their date at the local bar the night before.
 
-El público también es una complicación interesante, no solo los del equipo contrario, también los tuyos. Los abucheos y los gritos de «Vete del campo, manta. No sirves para este deporte» duelen como tanto como los bloqueos. Puede lanzar cosas, pueden meterse en el campo a robar el balón o incluso puede haber una invasión de campo. Y no olvides que si ganan, esos fans se lanzarán a por ellos a llevarlos en volandas.
+The public also presents an interesting complication, not just the opposing team's fans, but your own as well. Boos and shouts of "Get off the field, you bum! You're all thumbs and have two left feet" sting just as much as a block in the line of scrimmage. They might throw objects, run onto the field to steal the ball, or even stage a pitch invasion. And don't forget: if the team wins, those same fans will rush the field to hoist the players onto their shoulders in triumph.
 
-Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
+Finally, **insert in your session every crazy idea you can think of**: explosive balls, marksman with crossbows, flying advertising ships that crash onto the field, spike traps, seductive cheerleaders who distract you with their chants and dances, surprise appearances by legends of the sport, or dogs that run onto the pitch and steal the ball.
 
-Es importante que no se repitan, quizás hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
+It is important to avoid repetition; perhaps you could have three distinct waves of opponents facing your blitzer: the first could be standard, the second might include an enemy wielding a ball and chain, and the third could be a ravenous minotaur. This way, the level of difficulty remains essentially the same, yet the player must confront each encounter in a different way.
 
 ### Getting closer and with less time
 

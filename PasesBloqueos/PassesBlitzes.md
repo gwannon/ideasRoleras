@@ -219,9 +219,9 @@ The referee can also be a complication, maybe he’s been bought off, is blind a
 
 The public also presents an interesting complication, not just the opposing team's fans, but your own as well. Boos and shouts of "Get off the field, you bum! You're all thumbs and have two left feet" sting just as much as a block in the line of scrimmage. They might throw objects, run onto the field to steal the ball, or even stage a pitch invasion. And don't forget: if the team wins, those same fans will rush the field to hoist the players onto their shoulders in triumph.
 
-Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
+Finally, **insert in your session every crazy idea you can think of**: explosive balls, marksman with crossbows, flying advertising ships that crash onto the field, spike traps, seductive cheerleaders who distract you with their chants and dances, surprise appearances by legends of the sport, or dogs that run onto the pitch and steal the ball.
 
-Es importante que no se repitan, quizás hagas 3 oleadas distintas de contrincantes que van contra tu corredor, pero la primera podría ser normal, la segunda uno de ellos ir con una bola y cadena y tercera ser un minotauro hambriento. De esta forma la complicación es en esencia la misma, pero tendrán que afrontarla de maneras diferentes.
+It is important to avoid repetition; perhaps you could have three distinct waves of opponents facing your blitzer: the first could be standard, the second might include an enemy wielding a ball and chain, and the third could be a ravenous minotaur. This way, the level of difficulty remains essentially the same, yet the player must confront each encounter in a different way.
 
 ### Getting closer and with less time
 
