@@ -215,9 +215,9 @@ The weather can be a complication, rain can be very troublesome, but a skilled p
 
 \sp
 
-El árbitro también puede ser una complicación, quizás esté comprado, o no vea 3 en un burro, o este más interesado en comerse un perrito que en el partido. Igual le tiene ojeriza al novato porque la noche anterior le levanto un ligue en el bar local.
+The referee can also be a complication, maybe he’s been bought off, is blind as a bat, is more interested in eating a hot dog than the game or is angry with the rookie because the rookie stole their date at the local bar the night before.
 
-El público también es una complicación interesante, no solo los del equipo contrario, también los tuyos. Los abucheos y los gritos de «Vete del campo, manta. No sirves para este deporte» duelen como tanto como los bloqueos. Puede lanzar cosas, pueden meterse en el campo a robar el balón o incluso puede haber una invasión de campo. Y no olvides que si ganan, esos fans se lanzarán a por ellos a llevarlos en volandas.
+The public also presents an interesting complication, not just the opposing team's fans, but your own as well. Boos and shouts of "Get off the field, you bum! You're all thumbs and have two left feet" sting just as much as a block in the line of scrimmage. They might throw objects, run onto the field to steal the ball, or even stage a pitch invasion. And don't forget: if the team wins, those same fans will rush the field to hoist the players onto their shoulders in triumph.
 
 Por último, **mete todas las locuras que se te ocurran**, pelotas explosivas, asesinos francotiradores con ballestas, barcos voladores publicitarios que caen al campo, trampas con pinchos, seductores animadores que te distraen con sus cánticos y bailes, apariciones sorpresa de viejas glorias de este deporte o perrillos que saltan al campo y se roban el balón.
 
