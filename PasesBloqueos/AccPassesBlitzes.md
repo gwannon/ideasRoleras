@@ -173,20 +173,20 @@ It is important to avoid repetition; perhaps you could have three distinct waves
 
 Keep a simple record of the yardage so your players can easily tell how close they are to their target; remember that measurements are in 10-yard blocks and half the field is 120 yards.
 
-Con el tiempo puede pasar lo mismo. Un pase superlargo puede ser instantáneo o permitir a tus jugadores hacer varias acciones para intentar hacer esa mítica jugada que no creían que saldría.
+The same thing can happen over time. A super-long pass can be instantaneous or allow your players to perform multiple actions in an attempt to pull off that legendary play they never thought would work.
 
-Y si el tiempo y el espacio se doblegan a tu voluntad, los enemigos también. Saca los que quieras y ves que te has pasado puedes recurrir a un mago que los ha teletransportado, a que estaban haciendo trampas y había jugadores de más en el campo o incluso a espontáneos del público.
+And if time and space bend to your will, so do your enemies. Bring out as many as you like; if you realize you’ve gone overboard, you can always explain it away by saying a wizard teleported them in, that they were cheating and there were extra players on the field, or even that they were just random interlopers from the crowd.
 
 ### Other considerations
 
-La **comunicación es difícil**, los hinchas gritan, los vendedores de cerveza gritan, tus contrincantes gritas, las animadoras gritan, … En fin, el ruido es infernal, así que la comunicación entre tus jugadores debería ser a gritos (pueden hablar normal no hace falta gritar), pero todo lo que se griten será escuchado por el resto de jugadores. Tal vez puedan pasarse algunas señas, pero de cosas muy básicas.
+**Communication is difficult**: fans are shouting, beer vendors are shouting, your opponents are shouting, cheerleaders are shouting... In short, the noise is deafening. Consequently, communication between your players would have to be done by shouting (though they can speak normally—there is no need to scream), but anything they shout will be heard by the other players. They might be able to use hand signals, but only for very basic things.
 
-**El campo tiene dos zonas, delante y detrás.** El lanzador, normalmente, siempre está detrás, mientras que un receptor se mueve principalmente. El resto, gradas, banquillos, … son solo sitios de lo que pueden venir complicaciones.
-Si ves perdida a tu mesa, puedes usar un truco visual muy divertido. Cuando sufran un fuerte bloqueo, mientras caen al suelo, el tiempo se ralentiza y le das al jugador tiempo de examinar alguna cosa que se les haya pasado por alto o quizás revivan algo que le dé alguna idea para seguir adelante.
+**The field has two zones: the front and the back.** The thrower is usually always at the back, while the catcher moves around primarily. The rest (stands, benches, ...) are simply areas where complications can arise.
+If your players seem stuck, you can use a fun visual trick: when they suffer a major setback—like being knocked to the ground—time slows down, giving them a moment to examine something they might have overlooked or perhaps relive a memory that sparks an idea for how to move forward.
 
-**La épica es una parte importante del deporte y de este juego,** anima a tus jugadores y que imbuyan de ello, busca que intenten lo imposible y, si los dioses del fútbol amoricano lo permiten (y los dados), conseguirán hacer auténticas proezas deportivas en los últimos segundos.
+**The epicness is a vital part of sport and this game;** encourage your players to embrace it and attempt the impossible—and if the gods of Amorican football (and the dice) allow it, they will pull off truly heroic sporting feats in the final seconds.
 
-Si te ves inspirado, como DJ puedes tratar de **narrar lo que pasa como si fueras un locutor deportivo**, tanto para presentar las complicaciones como para narrar los resultados de las acciones y tiradas. Usas frases como «Contra todo pronóstico …», «¡Esto es increíble!», «En todos mis años de comentarista nunca …» o «Cuando nadie daba un euro por …» entre otras.
+If you’re feeling inspired, you can try **play-by-play commentary** as the GM, narrating the action like a sports broadcaster, whether you’re introducing complications or describing the results of actions and rolls. Use phrases like "Against all odds...", "This is incredible!", "In all my years of commentary, I’ve never...", or "When no one gave a dime for...", among others.
 
 ## License
 
