@@ -137,7 +137,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |1|**Cuidado del macetero:** regar, arreglar o podar las plantas de macetero, buscar y esparcir abono, acabar con las plagas|
 |2|**Viaje:** Os vais de vacaciones, de pícnic al parque, a los columpios, a las piscinas|
 |3|**Limpieza:** Ir al lavadero de coches, a la lavandería, usar la manguera o la regadera|
-|4|**Entretenimiento:** Noche en el autocine, concierto de los Solfamidas, la feria o el circus llega al barrio.|
+|4|**Entretenimiento:** Noche en el autocine, concierto de los Solfamidas, la feria o el circo llega al barrio.|
 |5|**Visitas:** Reciben visitas de parientes del pueblo, de un nabuco de intercambio de un país muy lejano, hacen de niñeras de unos nabuquitos, …|
 |6|**Ruin de tiempos pretéritos:** Los nabucos encuentran algo realmente antiguo que no comprenden y que deben investigar para qué es. Quizás es un proyector de películas de Super8, un teléfono de dial o un tragabolas.|
 |7|**Fantasmas:** algo que para nosotros es normal, los nabuco lo toman como algo del más allá, fantasmas, psicofonías, caras en las paredes que en realidad han pintado los niños de la casa con rotuladores en la pared.|
@@ -227,33 +227,41 @@ Las alarmas pueden ser de coches, de incendios, de casas y negocios o ese desper
 
 #### Altavoces inteligentes
 
-XXX.
+Por alguna extraña razón los altavoces inteligentes entiende los chillidos de los nabucodosorcitos y pueden comunicarse con ellos. Piensa que entre que estos chismes fallan más que una escopetilla de feria y que los nabucos no son muy listos las conversaciones pueden ser una locura, pasando del amor al odio en segundos. Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. 
 
-Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. Por otro lado piensa que siempre darán respuesta a soluciones pensando en seres de tamaño humano o marioneta, nunca nabuco.
+Ten en cuenta que siempre darán respuesta a preguntas pensando en seres de tamaño humano o marioneta, nunca nabuco.
 
 #### Aspersores
 
-XXX
+La lluvia y los nabucos no se llevan bien, pero lluvia localizada que va y viene sin saber como (sobre todo si son aspersores que giran y vuelven) es algo totalmente para el pequeño cerebro de los nabucos. Y cuando crees que la cosa va a acabar muy mal, aparecen pequeños arcoíris y se quedan embobados viéndolos.
+
+
+
+Además, las zonas de aspersores se convierten en lúgrebes pantanos y suelen a atraer a mascotas peludas que juegan con el agua.
 
 #### Fauna urbana
 
-Ratas, mapaches, palomas, ardillas, gorriones, tanto normales como marionetas XXX
+Ratas, mapaches, palomas, ardillas, gorriones, tanto normales como marionetas, sobre todo marionetas, pueden ser considerados peligrosos enemigos, aunque ellos ni se percaten de que los nabucos están allí.
+
+Una de esas palomas, medio coja, con las plumas espelurciadas y que te mira raro puede dar suficiente miedo para que tus nabucos tengan que hacer algo para evitarla o para enfrentarse a ella y espantarla.
 
 #### Juguetes
 
-XXX
+Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodosorcito o quizas se vuelvan amigos, porque los dos son igual de ingenuos.
 
-O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
+Imagínate que entras en una casa de muñecas y todo está a tu escala y es usable, pero no vive nadie en ella y falta la pared frontal de todas las habitaciones. Y las modernas con luces, música, e incluso mini-leds que se enciende y apagan solos. Es como tener una casa encantada.
 
-
+O quizas encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
 
 #### Lluvia de confeti
 
-Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada vez que cae no saben qué es y como reaccionar. A parte de confeti, otras opciones podrían ser serpentinas, espuma, pompas de jabón, … Quizás lo esquiven porque piensan que es peligroso o piensen que son seres vivos que explotan. 
+Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada vez que cae no saben qué es y como reaccionar. A parte de confeti, otras opciones podrían ser serpentinas, espuma, pompas de jabón, … Quizás lo esquiven porque piensan que es peligroso o piensen que son seres vivos que explotan al tocarlos. 
 
 #### Robot aspirador
 
-XXX. También podrían ser barredoras de calles, pulidoras de suelos, …
+Si has tenido un robot aspirador ya sabes de qué hablo, si no, pues piensa en conductas erráticas, golpes contra los rodapiés, errores extraños locutados o en pantalla, ... 
+
+Si atrapan a un nabucodosorcitos, los cepillos no le herirán, pero acabará en la caja transparente que recoge el polvo. La misión para sacarlo de la caja del aspirador puede ser un auténtico desafío, mientras el secuestrado te mira con ojillos pidiendo ayuda. También podrían ser barredoras de calles, pulidoras de suelos, …
 
 #### Sensores de movimiento
 
