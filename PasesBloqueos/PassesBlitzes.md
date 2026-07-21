@@ -225,7 +225,7 @@ It is important to avoid repetition; perhaps you could have three distinct waves
 
 ### Getting closer and with less time
 
-**El tiempo y el espacio son relativos y se rigen por la épica.** Las yardas se pueden estirar o encoger según te interese y quede emocionante. Si están cerca, faltarán poquísimas yardas para que si fallan lo hagan a las puertas de la línea de gol y si están lejos, avanzarán muy poco y a base de sudor, sangre.
+**Time and space are relative and ruled by the epicness.** Yards can be stretched or shrunk to suit your needs and heighten the drama. If the teams are close, they’ll be just a few yards away, meaning any failure leaves them right near the goal line; whereas if they are far apart, every inch of progress will be a grueling battle of blood and sweat.
 
 Lleva un pequeño control de las yardas, ya que será más fácil para tus jugadores saber si están más menos lejos de su objetivo y recuerda que las medidas van en bloques en 10 yardas y medio campo son 1210 yardas.
 
