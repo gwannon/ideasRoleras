@@ -41,6 +41,10 @@ Con un 9 (8 + 1) es un éxito con una consecuencia menor. En este caso cuando se
 
 Si saca un 12 (11 + 7), es un éxito total, el robot sigue el camino y acaba en la cocina. Con lo tontos que son tus nabucos seguro que tienen que pasar por la cocina y no se lo han pensado.
 
+
+
+
+
 > Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Decir un número mayor de 12 supone fallar la tirada. Recuerda que solo te enseñaban a contar hasta 12 y los nabucos solo saben contar hasta 12.
 
 #### Ventaja
@@ -51,13 +55,17 @@ El problema de la ventaja es que las consecuencias de planes muy tontos podrían
 
 Taparse con un paraguas para evitar la lluvia les es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía. Ahora, eso sí, las consecuencias en caso de fallar con el paraguas son menores que con el coche.
 
- Sin ventaja, el paraguas se estropear y lo perderán. Con ventaja, el coche estará lleno de agua y deberán aguantar la respiración al conducirlo porque ahora su coche es acuático.
+ Sin ventaja, el paraguas se estropeará y lo perderán. Con ventaja, el coche estará lleno de agua y deberán aguantar la respiración al conducirlo porque ahora su coche es acuático.
 
 ## Crear tu nabuco
 
 Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped» y necesitan cruzar el parque, puede que se ponga a andar por la hierba haciendo el pino y así no pisarlo.
 
-Lo primero es elegir un arquetipo. Los arquetipos no pueden repetirse dentro del grupo de PJ. Arquetipos:
+Lo primero es elegir un arquetipo. Los arquetipos no pueden repetirse dentro del grupo de PJ. 
+
+
+
+Arquetipos:
 
 * **El líder.** Es el que toma las decisiones y en caso de no llegar a un acuerdo sobre qué hacer como grupo el podrá decidir que acciones se toman.
 * **El entusiasta.** XXX
@@ -70,8 +78,6 @@ Los nabucos son gregarios y se mueven en grupo con lo que deberéis que os une a
 
 XXX
 
-
-
 ## El mundo de los nabucos
 
 XXX
@@ -80,8 +86,6 @@ XXX
 
 * **Alitas de _brilli-brilli_.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar
 * **Antenitas cuquis.** El número es totalmente aleatorio y no sirven para mucho. A los diseñadores le sobraban de otro muñeco y gastaron todas las que tenían.
-
-
 
 ### Experiencia, suerte y otras cosas que tienen los juegos de rol y que este no tiene
 
@@ -98,6 +102,8 @@ Opcionalmente, puedes darles tokens cuando hagan cosas muy estúpidas XXX.
 Ya sabemos que son muy tontos y muy literales. Si les han dicho que para salir de casa han de usar la puerta, seguramente la arrancarán de su quicio y la usarán de ariete para tirar una pared y poder salir.
 
 Pero también son tremendamente dramáticos, si tienen hambre tienen muchísima hambre, casi se mueren de hambre. Si están cansados, no pueden ni moverse. Y el más mínimo problema es un obstáculo insalvable. 
+
+
 
 Su capacidad de pasar del drama a la total alegría también es curiosa, pueden estar muriéndose de hambre y en cuanto encuentran medio donut empiezan a saltar y bailar de alegría.
 
@@ -123,8 +129,6 @@ Aunque los nabucos creen que pueden hablar con los animales y les obedecen, es r
 
 EPI y Blas y otros humanos son invisibles para los nabucos, XXX
 
-
-
 ## La muerte y los nabucos
 
 Los nabucos son prácticamente inmortales no pueden morir de enfermedades, ni de heridas, ni nada por el estilo, pero si hay situaciones parecidas a la muerte. Por ejemplo, si un nabuco se cae de un sexto piso, hasta que regrese a donde estaban, con lo tontos que son, puede que se tiren días y días y días, con lo cual quedan fuera de la partida como si hubiera muerto.
@@ -136,6 +140,8 @@ El resto de nabucos le olvidarán casi al instante y no se acordarán de él has
 El modo marioneta es un modo de jugar especial, más loco, si es posible, que el modo normal. En el modo normal eres un insecto humanoide. En el **modo marioneta eres una marioneta como tal**, con lo que no tienes piernas y tus dedos no son prensiles, sino que se te pegan las cosas porque tienen velcro. No te puedes alejar de uno de tus compañeros porque un solo marionetista controla a dos nabucos y los brazos le dan hasta donde le dan. 
 
 No tienen piernas, son marionetas. De cintura para abajo están todos los artilugios de la marioneta y la mano que los controla. Así que no puede dar patadas altas o hacer claqué. Solo pueden hacer como que golpean algo (en realidad es el marionetista con su mano) o ruido de claqué y hacer como que bailan. Tampoco, no pueden saltar alto porque se vería el palo con el que las mueve el marionetista.
+
+
 
 En tus muñecas hay dos palitos para mover tus brazos, con lo que olvídate de ponerte bolsas al hombro o cosa así.
 

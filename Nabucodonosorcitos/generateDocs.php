@@ -52,9 +52,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'Nabucodonosorcitos') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Fincas & Inmuebles\n\n";
+  $metas .= "InfoValue: Hay nabucodosorcitos en mi macetero por Gwannon\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: El JdR mediaval fantástico en donde tendras que engañar y mentir para vender inmuebles. Creado para la Mermelada Rolera 2025. Versión 1.0\n\n";
+  $metas .= "InfoValue: XXX. Versión 1.0\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
