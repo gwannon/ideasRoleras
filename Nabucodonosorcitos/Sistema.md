@@ -39,20 +39,19 @@ Si saca un 12 (11 + 7), es un éxito total, el robot sigue el camino y acaba en 
 
 La ventaja te la otorga EPI, si considera que tú idea es muy tonta y digna de un nabuco. Aunque parezca una contradicción, normalmente cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
 
-El problema de la ventaja es que las consecuencias de planes muy tontos podrían generar ser muy locas.
+El problema de la ventaja es que las consecuencias de planes muy tontos podrían ser muy locas.
 
 Taparse con un paraguas para evitar la lluvia les es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía. Ahora, eso sí, las consecuencias en caso de fallar con el paraguas son menores que con el coche.
 
+ Sin ventaja, el paraguas se estropeará y lo perderán. Con ventaja, el coche estará lleno de agua y deberán aguantar la respiración al conducirlo porque ahora su coche es acuático.
+
 ## Crear tu nabuco
 
-Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped» y necesitas cruzar el parque, puede que se ponga a andar por la hierba haciendo el pino y así no pisarla.
+Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped» y necesitan cruzar el parque, puede que se ponga a andar por la hierba haciendo el pino y así no pisarlo.
 
 Lo primero es elegir un arquetipo. Los arquetipos no pueden repetirse dentro del grupo de PJ. Arquetipos:
 
 * **El líder.** Es el que toma las decisiones y en caso de no llegar a un acuerdo sobre qué hacer como grupo el podrá decidir que acciones se toman.
-
-\sp
-
 * **El entusiasta.** XXX
 * **El dramático.** Todo es un drama y su misión en el grupo es crear drama. Puede preguntarle al EPI cual sería la consecuencia de una tirada y hacer un drama de ello, mientras sus dramas se cumplan seguirá pudiendo preguntar y hacer drama. De esa forma, si quieren usar una lata de nata en spray para salir volando, el EPI tendrá que decirle que si fallan acabarán embadurnados de nada y se creerán que son fantasmas. Así que deberá hacer un drama de lo que vaya a pasarles.
 * **El que ha ido al cole.** Siempre hay une listille que ha ido al cole y ha atendido en clase y puede usar una opción lógica y sencilla sin sufrir penalización. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que el resto de sus compañeros abran sus paraguas, se monten encima como si fueran un pogo saltarín y empiecen a saltar en los charcos. 
@@ -63,10 +62,18 @@ Los nabucos son gregarios y se mueven en grupo con lo que deberéis que os une a
 
 XXX
 
+\sp
+
+## El mundo de los nabucos
+
+XXX
+
 ### Anatomía de un nabuco
 
 * **Alitas de _brilli-brilli_.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar
 * **Antenitas cuquis.** El número es totalmente aleatorio y no sirven para mucho. A los diseñadores le sobraban de otro muñeco y gastaron todas las que tenían.
+
+\sp
 
 ### Experiencia, suerte y otras cosas que tienen los juegos de rol y que este no tiene
 
@@ -92,8 +99,6 @@ XXX
 
 > No hay reglas de peso ni necesitan mochilas para llevar el equipo, simplemente se agachan y cuando se levantan tienen el objeto de su equipo en la mano. Cuando se agachan es cuando el marionetista aprovecha a pegarles el objeto en el velcro que tienen en la mano.
 
-\sp
-
 ### Reciclaje
 
 La regla fundamental del equipo es el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas, así que necesitan una pala deberán buscar en los cubos de reciclaje cosas como chapa de refresco y palillos de pinchos y juntarlos con pegamento y claro a escala nabucodosorcito.
@@ -109,6 +114,8 @@ La vida de los nabucodosorcitos es una aventura constante y cada día es un reto
 Aunque los nabucos creen que pueden hablar con los animales y les obedecen, es realidad estos no los entienden y suelen irse rápidamente. Solo oyen chirriantes chillidos ultrasónicos tremendamente irritantes.
 
 EPI y Blas y otros humanos son invisibles para los nabucos, XXX
+
+\sp
 
 ## La muerte y los nabucos
 
