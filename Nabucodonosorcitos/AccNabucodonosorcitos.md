@@ -6,11 +6,11 @@
 
 
 
-«Hay nabucodosorcitos en mi macetero» es un **mini-juego de rol** para **une DM y hasta cuatre jugadores**. En este juego seréis unos nabucodosorcitos (nabucos para abreviar), unos **insectos inteligentes** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
+«Hay nabucodosorcitos en mi macetero» es un **mini-juego de rol** para **une DM y hasta cuatre jugadores**. En este juego seréis unos nabucodosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
 
-XXX
+Para jugar necesitáis **papel, lápiz, 1 dado de 8 caras (d8), otro de 12 caras (d12)** y también **dejar el cerebro en casa** porque en este juego no lo vais a necesitar.
 
-> Los DJ son llamados EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) es una especie de narrador de sus aventuras.
+> Les DJ se llaman EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) se quedan mirando embobado las tonterías que hacen los nabucos que viven en su macetero, más o menos lo que hará vuestre DJ al veros jugar.
 
 Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
 
@@ -18,19 +18,34 @@ Mientras que en otras ambientaciones de seres pequeños, estos suelen ser peque�
 
 XXX
 
-Los resultados por encima de 12 o más son éxitos completos. Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Recuerda que solo te enseñaban a contar hasta 12. XXX
+En este sistema el EPI no hace tiradas, solo los nabucos hacen tiradas. El EPI solamente tiene que pedir tiradas a sus jugadores.
 
-> Cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
+### Tiradas
 
-Taparse con un paraguas para evitar la lluvia le es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía.
+Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente se tira 1d12 si tienes ventaja sumas 1d8 y se suma al resultado del d12.
 
 
 
+* **1-4** es un fracaso total. XXX
+* **5-8** son éxitos con alguna consecuencia mayor. XXX
+* **9-11** son éxitos con alguna consecuencia menor. XXX
+* **12** son éxitos completos. Vuestra loca idea ha dado resultado.
+
+> Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Decir un número mayor de 12 supone fallar la tirada. Recuerda que solo te enseñaban a contar hasta 12 y los nabucos solo saben contar hasta 12.
+
+#### Ventaja
+
+La ventaja te la otorga EPI, si considera que tú idea es muy tonta y digna de un nabuco. Aunque parezca una contradicción, normalmente cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
+
+El problema de la ventaja es que las consecuencias de planes muy tontos podrían generar ser muy locas.
+
+Taparse con un paraguas para evitar la lluvia les es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía. Ahora, eso sí, las consecuencias en caso de fallar con el paraguas son menores que con el coche.
+s
 ## Crear tu nabuco
 
-Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped», puede que se ponga a andar por la hierba haciendo el pino y así no pisarla.
+Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped» y necesitas cruzar el parque, puede que se ponga a andar por la hierba haciendo el pino y así no pisarla.
 
-Arquetipos:
+Lo primero es elegir un arquetipo. Los arquetipos no pueden repetirse dentro del grupo de PJ. Arquetipos:
 
 * **El líder.** XXX
 * **El entusiasta.** XXX
@@ -47,6 +62,8 @@ XXX
 
 * **Alitas de _brilli-brilli_.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar
 * **Antenitas cuquis.** El número es totalmente aleatorio y no sirven para mucho. A los diseñadores le sobraban de otro muñeco y gastaron todas las que tenían.
+
+
 
 ### Experiencia, suerte y otras cosas que tienen los juegos de rol y que este no tiene
 
@@ -65,8 +82,6 @@ Ya sabemos que son muy tontos y muy literales. Si les han dicho que para salir d
 Pero también son tremendamente dramáticos, si tienen hambre tienen muchísima hambre, casi se mueren de hambre. Si están cansados, no pueden ni moverse. Y el más mínimo problema es un obstáculo insalvable. 
 
 Su capacidad de pasar del drama a la total alegría también es curiosa, pueden estar muriéndose de hambre y en cuanto encuentran medio donut empiezan a saltar y bailar de alegría.
-
-
 
 ## Equipo
 
@@ -90,6 +105,8 @@ Aunque los nabucos creen que pueden hablar con los animales y les obedecen, es r
 
 EPI y Blas y otros humanos son invisibles para los nabucos, XXX
 
+
+
 ## La muerte y los nabucos
 
 Los nabucos son prácticamente inmortales no pueden morir de enfermedades, ni de heridas, ni nada por el estilo, pero si hay situaciones parecidas a la muerte. Por ejemplo, si un nabuco se cae de un sexto piso, hasta que regrese a donde estaban, con lo tontos que son, puede que se tiren días y días y días, con lo cual quedan fuera de la partida como si hubiera muerto.
@@ -105,6 +122,7 @@ No tienen piernas, son marionetas. De cintura para abajo están todos los artilu
 En tus muñecas hay dos palitos para mover tus brazos, con lo que olvídate de ponerte bolsas al hombro o cosa así.
 
 XXX
+
 
 
 
