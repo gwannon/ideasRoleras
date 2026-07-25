@@ -51,7 +51,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |2|Hay obras en el barrio, reasfaltar las calles, obras del metro, fuga de agua, reparan las aceras. Al final es mucho ruido, mucho movimiento de persona y vehículos, montones de grava, excavadoras, cemento fresco, …|
 |3|Llueve, todo es peor si llueve.|
 |4|Las letras y los números se han escapado de la librería y todo está lleno de marionetas de letras y números saltando y corriendo por todas partes y gente intentando atraparlas.|
-|5|Todos o casi todos los nabucos tienen _gipre nabuca_, eso supone estornudos, hipos, toses, pedos incontrolados.|
+|5|Todos o casi todos los nabucos tienen _gripe nabuca_, eso supone estornudos, hipos, toses, pedos incontrolados.|
 |6|Es festivo nacional y todo está cerrado, o hay un gran evento y todo el mundo ha ido a verlo o está en casa delante del TV. Las calles están desiertas y los nabucos se temen lo peor.|
 |7|Invasión de monstruos, algo pasa que todas las marionetas monstruosas están muy activas. Se dedican a dar sustos a todo el mundo, incluso a los pequeños nabucos.|
 |8|Las calles están nevadas y el suelo helado y resbaladizo. Las terrazas están llenas de nieve y de los alféizares caen carámbanos.|
@@ -149,7 +149,7 @@ Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada
 
 #### Robot aspirador
 
-Si has tenido un robot aspirador ya sabes de qué hablo, si no, pues piensa en conductas erráticas, golpes contra los rodapiés, errores extraños locutados o en pantalla, ... 
+Si has tenido un robot aspirador ya sabes de qué hablo, si no, pues piensa en conductas erráticas, golpes contra los rodapiés, extraños errores locutados o en pantalla, … 
 
 Si atrapan a un nabucodosorcitos, los cepillos no le herirán, pero acabará en la caja transparente que recoge el polvo. La misión para sacarlo de la caja del aspirador puede ser un auténtico desafío, mientras el secuestrado te mira con ojillos pidiendo ayuda. También podrían ser barredoras de calles, pulidoras de suelos, …
 
