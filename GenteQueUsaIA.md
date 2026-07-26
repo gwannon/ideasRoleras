@@ -113,6 +113,8 @@ https://www.youtube.com/watch?v=66da-tSKK0s
 
 https://bsky.app/profile/legendoflua.bsky.social/post/3m2r2t5dh7s22
 
+https://mastorol.es/@Gwannon/111574911644690345
+
 ---
 
 https://www.youtube.com/watch?v=mWZ4fS5fcGU
