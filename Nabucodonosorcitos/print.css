@@ -182,11 +182,11 @@ h2 {
   text-shadow: 3px 0px 3px var(--color-yellow), 0px 3px 3px var(--color-yellow), -3px 0px 3px var(--color-yellow), 0px -3px 3px var(--color-yellow);
 }
 
-h2:before {
+h2:not(.columns h2):before {
   content: "\2014";
 }
 
-h2:after {
+h2:not(.columns h2):after {
   content: "\2014";
 }
 
