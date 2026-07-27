@@ -53,7 +53,21 @@ Taparse con un paraguas para evitar la lluvia les es más difícil que taparse c
 
 Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped» y necesitan cruzar el parque, puede que se ponga a andar por la hierba haciendo el pino y así no pisarlo.
 
-Lo primero es elegir un arquetipo. Los arquetipos no pueden repetirse dentro del grupo de PJ. 
+Lo primero es darles un nombre y unos pronombres. El nombre debe ser corto y sonoro casi como una onomatopeya.
+
+Continuamos con su forma. Cada nabuco tiene 1 antena y 2 brazos y tienes que repartir 3 puntos entre brazos y antenas, si gastan 1 punto en antenas obtienes una antena extra. Si gastas 1 punto en brazos obtienes otro par de brazos.
+
+La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, ... Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo.
+
+Mientras estén en la misma escena podrán recordar cosas, pero al cambiar de escena olvidarán todo excepto generalidades. Los datos que deseen conservar entre escenas los deben guardar en sus antenas.
+
+**Cada brazo te permite cargar un elemento de equipo,** 4 brazos supone que puedes llevar 4 objetos.
+
+Continuando con su aspecto, debemos elegir el patrón de colores de su cuerpo. Hay un color principal que ocupa todo su cuerpo y luego uno secundario que está en los detalles como antenas, pestañas, manos, ...
+
+XXX
+
+Por último, debemos elegir el arquetipo de nabuco. Estos dan **habilidades especiales que pueden usarse 1 vez por sesión**. Los arquetipos no pueden repetirse dentro del grupo de PJ. 
 
 \sp
 
