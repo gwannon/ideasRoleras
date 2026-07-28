@@ -13,10 +13,10 @@ El mundo de los nabucos es muy singular, es nuestro mundo, bueno el de Barrio S�
 Veamos los elementos principales de su anatomía.
 
 * **Alitas de _brilli-brilli_.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar. De hecho, si alguna vez piensan en volar, seguramente se pondrán a mover los brazos arriba y abajo, en vez de pensar en agitar sus alas.
-* **Antenitas cuquis.** El número es totalmente aleatorio. A los diseñadores le sobraban de otros muñecos y gastaron todas las que tenían sin ton ni son. Los nabucologos creen que un mayor número de antenas suponen un mayor cerebro, seguramente porque los marionetistas necesitaban tener algo donde clavar las antenas.
+* **Antenitas cuquis.** El número es totalmente aleatorio. A los diseñadores le sobraban de otros muñecos y gastaron todas las que tenían sin ton ni son. Los _nabucólogos_ creen que un mayor número de antenas suponen un mayor cerebro, seguramente porque los marionetistas necesitaban tener algo donde clavar las antenas.
 * **Colores llamativos.** Como ya hemos dicho, los nabucos tienes un pelaje a dos colores. Sus colores no determinan su género, ni su herencia, ni nada por el estilo, son algo aleatorio.
 
-### Como ven lo nabuco (y tu jugadores) el mundo
+### Como ven lo nabuco (y tus jugadores) el mundo
 
 XXX
 

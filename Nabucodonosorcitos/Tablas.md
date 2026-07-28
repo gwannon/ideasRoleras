@@ -143,9 +143,11 @@ Imagínate que entras en una casa de muñecas y todo está a tu escala y es usab
 
 O quizas encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
 
+\sc
+
 #### Lluvia de confeti
 
-Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada vez que cae no saben qué es y como reaccionar. A parte de confeti, otras opciones podrían ser serpentinas, espuma, pompas de jabón, … Quizás lo esquiven porque piensan que es peligroso o piensen que son seres vivos que explotan al tocarlos. 
+Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada vez que cae no saben qué es y como reaccionar. Además de confeti, otras opciones podrían ser serpentinas, espuma, pompas de jabón, … Quizás lo esquiven porque piensan que es peligroso o piensen que son seres vivos que explotan al tocarlos. 
 
 #### Robot aspirador
 

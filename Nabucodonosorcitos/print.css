@@ -353,6 +353,10 @@ body {
   counter-increment: primary 1; /* Increment the value of section counter by 1 */
 }
 
+section div.saltopagina:nth-child(n+52) {
+  counter-increment: primary 0;
+}
+
 .saltopagina:after {
   --size: 30px;
   font-family: "Finger Paint", sans-serif;
@@ -367,7 +371,7 @@ body {
   height: var(--size);
   z-index: 10;
   opacity: 1;
-  font-size: calc(var(--size) * 0.8px);
+  font-size: 20px;
   padding: 5px 5px 3px;
   color: var(--color-green);
   text-shadow: 1px 0px 1px var(--color-yellow), 0px 1px 1px var(--color-yellow), -1px 0px 1px var(--color-yellow), 0px -1px 1px var(--color-yellow);

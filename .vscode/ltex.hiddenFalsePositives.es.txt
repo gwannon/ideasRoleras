@@ -516,3 +516,11 @@
 {"rule":"REALIZE","sentence":"^\\Q6 La gente empieza a realizar una especie de flash-mob y se mueve siguiendo algún tipo de coreografía.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q6 La gente empieza a realizar una especie de flash-mob y se mueve siguiendo algún tipo de coreografía.\\E$"}
 {"rule":"FORM","sentence":"^\\QEl típico hotel de carretera donde las casetas tienen forma de tipi indio XXX\\E$"}
+{"rule":"CARTOON","sentence":"^\\QNo te extrañe que construyan un carro con una caja de cartón y se pongan todos a tirar como mulos mientras nadie está subido al carro.\\E$"}
+{"rule":"FORM","sentence":"^\\QPor lo menos las primeras sesiones se emocionarán con los tokens pensando que son alguna forma de puntos de suerte o experiencia y cuando lo descubran los acumularán para demostrar que son los más tontos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLos nabucólogos creen que un mayor número de antenas suponen un mayor cerebro, seguramente porque los marionetistas necesitaban tener algo donde clavar las antenas.\\E$"}
+{"rule":"FORM","sentence":"^\\QContinuamos con su forma.\\E$"}
+{"rule":"REAL","sentence":"^\\QA veces los nabucos tienen equipo real a su tamaño, por ejemplo un balón real en miniatura en vez de un chicle redondeado cubierto por su envoltorio.\\E$"}
+{"rule":"REAL","sentence":"^\\QTus jugadores pueden usar miniaturas de objetos reales, por ejemplo, las que se usan en dioramas, maquetas y casa de muñecas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLleváis años queriendo ir a Whirlpool Park, el mejor parque acuático que existe, y este año se han juntado los astros y todos podéis ir.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSeguramente el beep que hacen al activarse les debería traer de cabeza a tus jugadores.\\E$"}
