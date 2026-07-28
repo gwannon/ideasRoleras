@@ -14,7 +14,7 @@ En este sistema el EPI no hace tiradas, solo los nabucos hacen tiradas. El EPI s
 
 ### Tiradas
 
-Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente se tira 1d12 si tienes ventaja sumas 1d8 y se suma al resultado del d12.
+Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente se tira 1d12 si tienes ventaja tiras 1d8 y lo sumas al resultado del d12.
 
 \sp
 
@@ -23,15 +23,15 @@ Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de
 * **9-11** son éxitos con alguna consecuencia menor.
 * **12** son éxitos totales. Vuestra loca idea ha dado resultado.
 
-Veamos un ejemplo de tirada. Unos nabucos quieren cruzar el salón, pero hay una aspiradora robot que les ataca (en realidad se mueve siguiendo su programación de limpieza). Pueden intentar correr y esquivarlo, tirando 1d12, o pueden dejar un rastro de tuercas y tornillos que lo lleve a la cocina, porque todo el mundo sabe que los robots comen tuercas. En este caso tiran 1d12 + 1d8 de la ventaja por un plan tanto.
+Veamos un ejemplo de tirada. Unos nabucos quieren cruzar el salón, pero hay una aspiradora robot que les ataca (en realidad se mueve siguiendo su programación de limpieza). Pueden intentar correr y esquivarlo, tirando 1d12, o pueden dejar un rastro de tuercas y tornillos que lo lleve a la cocina, porque todo el mundo sabe que los robots comen tuercas. En este caso tiran 1d12 + 1d8 de la ventaja por un plan tan tonto.
 
 Imaginemos que hacen la segunda opción. Si saca 3 (1 + 2), es un fracaso total, las tuercas se meten en los mecanismos y salen disparadas. Ahora su enemigo puede atacar a distancia lanzando tuercas y tornillos.
 
-Si sacan 7 (2 + 5), es un éxito con consecuencias mayor. Esquivan al aspirador robot, pero el robot sigue las tuercas al revés y se va a otra habitación, así que volverá a atacar.
+Si sacan 7 (2 + 5), es un éxito con consecuencias mayor. Esquivan al aspirador robot, pero el robot sigue las tuercas al revés y se va a otra habitación, así que volverá a atacarles en otra habitación.
 
 Con un 9 (8 + 1) es un éxito con una consecuencia menor. En este caso cuando se iba a marchar ha hecho un extraño y ha aspirado una pieza de equipo al azar de un nabuco.
 
-Si saca un 12 (11 + 7), es un éxito total, el robot sigue el camino y acaba en la cocina. Con lo tontos que son tus nabucos seguro que tienen que pasar por la cocina y no se lo han pensado.
+Si saca un 12 (11 + 7), es un éxito total, el robot sigue el camino y acaba en la cocina. Con lo tontos que son tus nabucos seguro que tienen que pasar por la cocina y no lo han pensado al hacer la ruta de tornillos y tuercas.
 
 \sc
 
@@ -47,17 +47,17 @@ El problema de la ventaja es que las consecuencias de planes muy tontos podrían
 
 Taparse con un paraguas para evitar la lluvia les es más difícil que taparse con el coche familiar porque otro nabuco les dijo que usaba el coche para ir a la panadería cuando llovía. Ahora, eso sí, las consecuencias en caso de fallar con el paraguas son menores que con el coche.
 
- Sin ventaja, el paraguas se estropeará y lo perderán. Con ventaja, el coche estará lleno de agua y deberán aguantar la respiración al conducirlo porque ahora su coche es acuático.
+Sin ventaja, el paraguas se estropeará y lo perderán. Con ventaja, el coche estará lleno de agua y deberán aguantar la respiración al conducirlo porque ahora su coche es «submarino».
 
 ## Crear tu nabuco
 
 Los nabuco se caracterizan por dos cosas, ser muy pequeños y ser muy tontos y especialmente literales, tanto que si hay un cartel de «No pisar el césped» y necesitan cruzar el parque, puede que se ponga a andar por la hierba haciendo el pino y así no pisarlo.
 
-Lo primero es darles un nombre y unos pronombres. El nombre debe ser corto y sonoro casi como una onomatopeya.
+Lo primero es **darles un nombre y unos pronombres**. El nombre debe ser corto y sonoro casi como una onomatopeya.
 
 \sp
 
-Continuamos con su forma. Cada nabuco tiene 1 antena y 2 brazos y tienes que repartir 3 puntos entre brazos y antenas, si gastan 1 punto en antenas obtienes una antena extra. Si gastas 1 punto en brazos obtienes otro par de brazos.
+Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastan 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
 
 La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, ... Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo.
 
@@ -65,7 +65,7 @@ Mientras estén en la misma escena podrán recordar cosas, pero al cambiar de es
 
 **Cada brazo te permite cargar un elemento de equipo,** 4 brazos supone que puedes llevar 4 objetos.
 
-Continuando con su aspecto, debemos elegir el patrón de colores de su cuerpo. Hay un color principal que ocupa todo su cuerpo y luego uno secundario que está en los detalles como antenas, pestañas, manos, ...
+Continuando con su aspecto, debemos **elegir el patrón de colores de su cuerpo**. Hay un color principal que ocupa todo su cuerpo y luego uno secundario que está en los detalles como antenas, pestañas, manos, ...
 
 Sus colores son algo meramente estético, pero puede ser interesante en situaciones como esconderse o hacerse pasar por otro nabuco. Desde luego, ser marrón y verde te permite esconderte entre las plantas del macetero y si el nabuco que vigila la entrada del parque es rojo y azul, puedes hacerte pasar por él, si tienes los mismos colores.
 
@@ -73,27 +73,41 @@ Por último, debemos elegir el arquetipo de nabuco. Estos dan **habilidades espe
 
 Arquetipos:
 
-* **El líder.** Es el que toma las decisiones y en caso de no llegar a un acuerdo sobre qué hacer como grupo el podrá decidir que acciones se toman.
-* **El entusiasta.** XXX
-* **El dramático.** Todo es un drama y su misión en el grupo es crear drama. Puede preguntarle al EPI cual sería la consecuencia de una tirada y hacer un drama de ello, mientras sus dramas se cumplan seguirá pudiendo preguntar y hacer drama. De esa forma, si quieren usar una lata de nata en spray para salir volando, el EPI tendrá que decirle que si fallan acabarán embadurnados de nada y se creerán que son fantasmas. Así que deberá hacer un drama de lo que vaya a pasarles.
-* **El que ha ido al cole.** Siempre hay une listille que ha ido al cole y ha atendido en clase y puede usar una opción lógica y sencilla sin sufrir penalización. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que el resto de sus compañeros abran sus paraguas, se monten encima como si fueran un pogo saltarín y empiecen a saltar en los charcos. 
+* El **líder** es el que toma las decisiones y en caso de no llegar a un acuerdo sobre qué hacer como grupo el podrá decidir que acciones se toman.
+* El **entusiasta** se emociona con todo y todas las ideas le parecen increibles y geniales. Si se entusiasma con algo, dará tantos ánimos, y será tan animoso que incluso aunque fallen podrán volver a tirar si lo desean. Se va a entusiasmar antes, incluso, de que lo hayan hecho con lo si lo pasan a la primera aún así habrá perdido su entusiasmo.
+* Para el **dramático** todo es un drama y su misión en el grupo es crear drama. Puede preguntarle al EPI cual sería la consecuencia de una tirada y hacer un drama de ello. Será tan pesado y dramático que el resto se esforzará por conseguirlo y eso supondrá que tirarán con ventaja. De esa forma, si quieren usar una lata de nata en spray para salir volando, el EPI tendrá que decirle que si fallan acabarán embadurnados de nada y se creerán que son fantasmas. Así que deberá hacer un drama de lo que vaya a pasarles hasta crispar al resto y lo hagan lo mejor posible.
+* Siempre hay **une listille** que ha ido al cole y ha atendido en clase. Así que puede pedir a EPI una opción lógica y sencilla para resolver un problema. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que, si quieren tirar con ventaja, abran sus paraguas, se monten encima como si fueran un pogo saltarín y empiecen a saltar en sus charcos. 
 
 ## El grupo
 
-Los nabucos son gregarios y se mueven en grupo con lo que deberéis que os une a todos los PJ. En Barrio Sésamo eran todos familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, …
-
-XXX
+Los nabucos son gregarios y se mueven en grupo con lo que deberéis decidir que os une a todos los PJ. 
 
 \sp
 
+En Barrio Sésamo eran todos familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, …
+
+A lo largo de las aventuras hay tiradas personales y grupales. Las personales deberán hacerlas cada nabuco la suya y sufrirán las consecuencias personalmente. Las grupales se hace una para todos y todos sufren disfrutan el éxito o el fracaso.
+
+Si cogen un patínete y se lanzan cuesta abajo, la tirada es grupal. Todos sufren el mismo destino. Si cada uno se cuelga de una pinza y se lanza por un cable telefónico como si fuera una tirolina, esas serán tiradas individuales y cada uno sufrirán sus propias consecuencias.
+
 ## Equipo
 
-XXX
+Como ya hemos dicho, el número de manos establece el equipo que puede portar. 
 
 > No hay reglas de peso ni necesitan mochilas para llevar el equipo, simplemente se agachan y cuando se levantan tienen el objeto de su equipo en la mano. Cuando se agachan es cuando el marionetista aprovecha a pegarles el objeto en el velcro que tienen en la mano.
 
-### Reciclaje
+La regla fundamental del equipo es que el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas, así que si quieren una pala, deberán buscar en los cubos de reciclaje cosas como chapas de refresco y palillos chinos y juntarlos con pegamento para crear una pala y claro a escala nabucodosorcita.
 
-La regla fundamental del equipo es el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas, así que necesitan una pala deberán buscar en los cubos de reciclaje cosas como chapa de refresco y palillos de pinchos y juntarlos con pegamento y claro a escala nabucodosorcito.
+\sc
+
+Entre sesiones en sus casas tus jugadores deberán construir el equipo de sus nabucos. También puedes darles un poco de tiempo después de la sesión 0 para hacer su equipo o unos minutos antes de empezar la sesion. 
+
+Durante la partida, no podrán crear o reparar su equipo a no ser que quede bien en su historia.
 
 Los nabucodosorcitos no controlan la electricidad, así que la única manera que conocen de generar energía son gomas elásticas y tracción animal, es decir ellos tirando/empujando como burros.
+
+No te extrañe que construyan un carro con una caja de cartón y se pongan todos a tirar como mulos mientras nadie está subido al carro.
+
+A veces los nabucos tienen equipo real a su tamaño, por ejemplo un balón real en miniatura en vez de un chicle redondeado cubierto por su envoltorio. Tus jugadores pueden usar miniaturas de objetos reales, por ejemplo, las que se usan en dioramas, maquetas y casa de muñecas.
+
+> Todo equipo usado o perdido debe ser desmontado y reciclado adecuadamente.
