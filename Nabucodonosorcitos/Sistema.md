@@ -1,4 +1,4 @@
-«Hay nabucodosorcitos en mi macetero» es un **mini-juego de rol** para **une DM y hasta cuatre jugadores**. En este juego seréis unos nabucodosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
+«Hay nabucodosorcitos en mi macetero» es un **mini-juego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
 
 Para jugar necesitáis **papel, lápiz, 1 dado de 8 caras (d8), otro de 12 caras (d12)** y también **dejar el cerebro en casa** porque en este juego no lo vais a necesitar.
 
@@ -8,7 +8,7 @@ Mientras que en otras ambientaciones de seres pequeños, estos suelen ser peque�
 
 ## Sistema
 
-El sistema es muy sencillo ya que no hay ni atributos ni habilidades y todos los jugadores tiran la misma cantidad de dados.
+El sistema es muy sencillo, ya que no hay ni atributos ni habilidades y todos los jugadores tiran la misma cantidad de dados.
 
 En este sistema el EPI no hace tiradas, solo los nabucos hacen tiradas. El EPI solamente tiene que pedir tiradas a sus jugadores.
 
@@ -98,7 +98,7 @@ Como ya hemos dicho, el número de manos establece el equipo que puede portar.
 
 > No hay reglas de peso ni necesitan mochilas para llevar el equipo, simplemente se agachan y cuando se levantan tienen el objeto de su equipo en la mano. Cuando se agachan es cuando el marionetista aprovecha a pegarles el objeto en el velcro que tienen en la mano.
 
-La regla fundamental del equipo es que **el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas**, así que si quieren una pala, deberán buscar en los cubos de reciclaje cosas como chapas de refresco y palillos chinos y juntarlos con pegamento para crear una pala y claro a escala nabucodosorcita.
+La regla fundamental del equipo es que **el único equipo que pueden tener tus personajes son cosas que creen ellos recicladas**. Así que si quieren una pala, deberán buscar en los cubos de reciclaje cosas como chapas de refresco y palillos chinos y juntarlos con pegamento para crear una pala y claro a escala nabucodosorcita.
 
 \sc
 

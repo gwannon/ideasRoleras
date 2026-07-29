@@ -524,3 +524,5 @@
 {"rule":"REAL","sentence":"^\\QTus jugadores pueden usar miniaturas de objetos reales, por ejemplo, las que se usan en dioramas, maquetas y casa de muñecas.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLleváis años queriendo ir a Whirlpool Park, el mejor parque acuático que existe, y este año se han juntado los astros y todos podéis ir.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSeguramente el beep que hacen al activarse les debería traer de cabeza a tus jugadores.\\E$"}
+{"rule":"PHYSICIAN","sentence":"^\\QOtra cosa importante es que la física funciona raro en Barrio Sésamo y mucho más cerca de los nabucos.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe hecho, son nabucocentristas, creen que todo existe para ellos y si no existieran no habría nada.\\E$"}
