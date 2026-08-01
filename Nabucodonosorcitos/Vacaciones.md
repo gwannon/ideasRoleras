@@ -40,7 +40,7 @@ La primera escena consistirá en la preparación del viaje. Plantéatelo como lo
 
 Ideas de las cosas que pueden hacer:
 
-* Tendrán que **poner a punto el coche**. Recuerda que los coches son cajas de cartón con asientos, un volante y ruedas, pero se mueven gracias a que los que están dentro mueven los zapatean muy rápido.
+* Tendrán que **poner a punto el coche**. Recuerda que los coches son cajas de cartón con asientos, un volante y ruedas, pero se mueven gracias a que los que están dentro mueven los pies muy rápido.
 * Necesitarán **trazar la ruta del viaje**. Para ellos tendrán cosas como un laberinto de un mantel de un local de comida rápida, una postal con un mapa de una zona e imágenes de diferentes sitios turísticos, una guía de viajes de hace muchos años o el mapa de un libro de fantasía. Recuerda que **el mapa cuenta como un elemento del equipo**.
 * Necesitarán **algo para tomar fotos**, quizás una cámara desechable, un móvil viejísimo rollo Nokia 3210 que hace fotos malísimas o una de esas de juguete llena de chuches que te da gominolas cuando haces clic. Este es otro objeto que **ocupará espacio en el equipo**.
 * Si quieres, puedes buscar cosas como comida y bebida, tienda de campaña, trajes de buceo, … las locuras que se te ocurran.
