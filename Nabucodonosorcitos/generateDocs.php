@@ -52,9 +52,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 /* -------------------------------------------------------------- */
 if($argv[1] == 'Nabucodonosorcitos') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Hay nabucodosorcitos en mi macetero por Gwannon\n\n";
+  $metas .= "InfoValue: Hay nabucodonosorcitos en mi macetero por Gwannon\n\n";
   $metas .= "InfoKey: Subject\n";
-  $metas .= "InfoValue: Mini-juego de rol para 1 DM y hasta 4 jugadores. Seréis unos nabucodosorcitos, unos insectos «inteligentes» que viven en Barrio Sésamo en los maceteros y las macetas de las casas.. Versión 1.0\n\n";
+  $metas .= "InfoValue: Mini-juego de rol para 1 DM y hasta 4 jugadores. Seréis unos nabucodonosorcitos, unos insectos «inteligentes» que viven en Barrio Sésamo en los maceteros y las macetas de las casas.. Versión 1.0\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";

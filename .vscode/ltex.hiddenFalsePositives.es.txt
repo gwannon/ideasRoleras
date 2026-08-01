@@ -526,3 +526,8 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QSeguramente el beep que hacen al activarse les debería traer de cabeza a tus jugadores.\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QOtra cosa importante es que la física funciona raro en Barrio Sésamo y mucho más cerca de los nabucos.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDe hecho, son nabucocentristas, creen que todo existe para ellos y si no existieran no habría nada.\\E$"}
+{"rule":"CARTOON","sentence":"^\\QRecuerda que los coches son cajas de cartón con asientos, un volante y ruedas, pero se mueven gracias a que los que están dentro mueven los zapatean muy rápido.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlas locuras que se te ocurran.\\E$"}
+{"rule":"OBSCURE","sentence":"^\\QPueden hasta habérselas vendido muy baratas un monstruo con gabardina y sombrero en un oscuro callejón.\\E$"}
+{"rule":"SCHOLAR","sentence":"^\\QEl grupo puede ser de cualquier tipo, una familia, un club deportivo, un grupo escolar, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEsta aventura es una roadtrip en la que tus jugadores recorrerán miles de kilómetros por exóticos parajes en su coche para ir al mejor parque acuático del mundo, el Whirlpool, o sea el lavavajillas de la cocina.\\E$"}

@@ -137,7 +137,7 @@ Una de esas palomas, medio coja, con las plumas espelurciadas y que te mira raro
 
 #### Juguetes
 
-Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodosorcito o quizas se vuelvan amigos, porque los dos son igual de ingenuos.
+Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizas se vuelvan amigos, porque los dos son igual de ingenuos.
 
 Imagínate que entras en una casa de muñecas y todo está a tu escala y es usable, pero no vive nadie en ella y falta la pared frontal de todas las habitaciones. Y las modernas con luces, música, e incluso mini-leds que se enciende y apagan solos. Es como tener una casa encantada.
 
