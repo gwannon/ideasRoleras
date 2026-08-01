@@ -22,6 +22,20 @@ Ingredientes usados en este juego de rol:
 
 \sinc
 
+## Agradecimientos
+
+&nbsp;
+
+\conc
+
+Gracias a las siguientes personas por sus consejos y correcciones:
+
+* [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social) como corrector por su aviso de haber escrito nabucodosorcitos en vez de nabucodonosorcitos.
+
+\sinc
+
+&nbsp;
+
 ## Licencia
 
 &nbsp;

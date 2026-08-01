@@ -542,6 +542,20 @@ Ingredientes usados en este juego de rol:
 
 
 
+## Agradecimientos
+
+
+
+
+
+Gracias a las siguientes personas por sus consejos y correcciones:
+
+* [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social) como corrector por su aviso de haber escrito nabucodosorcitos en vez de nabucodonosorcitos.
+
+
+
+
+
 ## Licencia
 
 
