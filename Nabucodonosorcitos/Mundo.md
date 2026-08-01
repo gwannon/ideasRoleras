@@ -40,6 +40,10 @@ Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entende
 * La tecnología es algo que está y que se crea por alguien que no les importa y no les preocupa cómo ni por qué. No son científicos y no se preocupan por qué o cómo funcionan las cosas, simplemente son así.
 * No conocen el miedo, son demasiado tontos para tenerlo y además, al ser marionetas, son medio inmortales con lo que los instintos de supervivencia los han perdido en la evolución. De hecho, nada les dice que huyan o luchen.
 
+Por lo que sea escribir saben escribir, pero no han pillado lo de dejar historias por escrito. Además prefieren los libros con muchos dibujos o de esos pop-up que los tochos largos de palabras.
+
+En cuanto al dinero, son más de trueque, aunque conocen el dinero, pero perfectamente pueden usarlo como algo decorativo en vez de para comprar cosas.
+
 Otra cosa importante es que la física funciona raro en Barrio Sésamo y mucho más cerca de los nabucos. Piensa que, si hay una vaca que puede saltar la luna, la gravedad ya está rara.
 
 Pues con lo nabucos todavía es peor, por ejemplo, soplando fuerte puedes hinchar la velas de tu barquito de juguete y hacer que se mueva por la fuente de la plaza.
@@ -58,15 +62,17 @@ Los humanos como Epi los consideran interesantes de observar, porque sus aventur
 
 En cuanto a la suerte, toda la que pudieran tener se la gastan en salir vivos de sus estúpidos planes.
 
-Opcionalmente, puedes darles tokens cuando hagan cosas muy estúpidas y al final de la aventura poder saber quién es el tonto. Por lo menos las primeras sesiones se emocionarán con los tokens pensando que son alguna forma de puntos de suerte o experiencia y cuando lo descubran los acumularán para demostrar que son los más tontos.
+Opcionalmente, puedes darles tokens cuando hagan cosas muy estúpidas y al final de la aventura poder saber quién es el tonto.
+
+Por lo menos las primeras sesiones se emocionarán con los tokens pensando que son alguna forma de puntos de suerte o experiencia y cuando lo descubran los acumularán para demostrar que son los más tontos.
+
+\sp
 
 ### Infinitos mundos
 
 Una cosa muy interesante que tiene Barrio Sésamo es que hay infinitos mundos dentro de él. Puedes pasar por un callejón y ver a un cuentacuentos japonés contando la historia del emperador y el plato de sopa caliente, el más caliente y el más caliente de todos. 
 
 Seguir y en una plaza dos marionetas con armadura de caballero en caballos de marioneta batiéndose en duelo por si la letra «G» es mejor que la letra «J».
-
-\sp
 
 Para acabar juntos al muro del parque en el que una rana con gabardina está entrevistando a unos marcianos que han salido de un platillo volante.
 
@@ -100,11 +106,13 @@ Su capacidad de pasar del drama a la total alegría también es curiosa, pueden 
 
 El modo marioneta es un modo de jugar especial, más loco, si es posible, que el modo normal. En el modo normal eres un insecto humanoide.
 
-En el **modo marioneta eres una marioneta como tal**, con lo que no tienes piernas y tus dedos no son prensiles, sino que se te pegan las cosas porque tienen velcro. No te puedes alejar de uno de tus compañeros porque un solo marionetista controla a dos nabucos y los brazos le dan hasta donde le dan. 
-
-No tienen piernas, son marionetas. De cintura para abajo están todos los artilugios de la marioneta y la mano que los controla. Así que no puede dar patadas altas o hacer claqué. Solo pueden hacer como que golpean algo (en realidad es el marionetista con su mano) o ruido de claqué y hacer como que bailan. Tampoco, no pueden saltar alto porque se vería el palo con el que las mueve el marionetista.
+En el **modo marioneta eres una marioneta como tal**, con lo que no tienes piernas y tus dedos no son prensiles, sino que se te pegan las cosas porque tienen velcro. 
 
 \sp
+
+No te puedes alejar de uno de tus compañeros porque un solo marionetista controla a dos nabucos y los brazos le dan hasta donde le dan. 
+
+No tienen piernas, son marionetas. De cintura para abajo están todos los artilugios de la marioneta y la mano que los controla. Así que no puede dar patadas altas o hacer claqué. Solo pueden hacer como que golpean algo (en realidad es el marionetista con su mano) o ruido de claqué y hacer como que bailan. Tampoco, no pueden saltar alto porque se vería el palo con el que las mueve el marionetista.
 
 En tus muñecas hay dos palitos para mover tus brazos, con lo que olvídate de ponerte bolsas al hombro o cosa así.
 
