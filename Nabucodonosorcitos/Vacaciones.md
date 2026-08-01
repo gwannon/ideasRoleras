@@ -2,7 +2,7 @@
 
 ![Imagen principal de la aventura](./images/aventuras.png "Imagen principal de la aventura")
 
-## Las locas vacaciones de una familia de nabucodosorcitos
+## Las locas vacaciones de una familia de nabucodonosorcitos
 
 &nbsp;
 

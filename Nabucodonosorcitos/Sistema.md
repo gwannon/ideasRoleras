@@ -1,4 +1,4 @@
-«Hay nabucodosorcitos en mi macetero» es un **mini-juego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
+«Hay nabucodonosorcitos en mi macetero» es un **mini-juego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodonosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
 
 Para jugar necesitáis **papel, lápiz, 1 dado de 8 caras (d8), otro de 12 caras (d12)** y también **dejar el cerebro en casa** porque en este juego no lo vais a necesitar.
 
@@ -78,7 +78,7 @@ Arquetipos:
 * El **líder** es el que toma las decisiones y en caso de no llegar a un acuerdo sobre qué hacer como grupo, él podrá decidir que acciones se toman. Una vez por sesión podrá decidir que acciones tomar para solucionar alguno de los problemas a los que se enfrenten.
 * El **entusiasta** se emociona con todo y todas las ideas le parecen increíbles y geniales. Si se entusiasma con algo, dará tantos ánimos, y será tan animoso que incluso aunque fallen podrán volver a tirar si lo desean. Se va a entusiasmar antes, incluso, de que lo hayan hecho con lo si lo pasan a la primera aun así habrá perdido su entusiasmo.
 * Para el **dramático** todo es un drama y su misión en el grupo es crear drama. Puede preguntarle al EPI cuál sería la consecuencia de una tirada y hacer un drama de ello. Será tan pesado y dramático que el resto se esforzará por conseguirlo y eso supondrá que tirarán con ventaja. De esa manera, si quieren usar una lata de nata en spray para salir volando, el EPI tendrá que decirle que si fallan acabarán embadurnados de nada y se creerán que son fantasmas. Así que deberá hacer un drama de lo que vaya a pasarles hasta crispar al resto y lo hagan lo mejor posible.
-* Siempre hay **une listille** que ha ido al cole y ha atendido en clase. Así que puede pedir a EPI una opción lógica y sencilla para resolver un problema. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que, si quieren tirar con ventaja, abran sus paraguas, se monten encima como si fueran un pogo saltarín y empiecen a saltar en sus charcos. 
+* Siempre hay **une listille** que ha ido al cole y ha atendido en clase. Así que puede pedir a EPI una opción lógica y sencilla para resolver un problema. Por ejemplo, si llueve, puede decir «En el colegio de la nabucodonosorcitos nos enseñaron que cuando llueve debemos usar un paraguas». Otra cosa es que, si quieren tirar con ventaja, abran sus paraguas, se monten encima como si fueran un pogo saltarín y empiecen a saltar en sus charcos. 
 
 \sp
 
@@ -106,7 +106,7 @@ Entre sesiones en sus casas tus jugadores deberán construir el equipo de sus na
 
 Durante la partida, no podrán crear o reparar su equipo a no ser que quede bien en su historia.
 
-Los nabucodosorcitos no controlan la electricidad, así que la única manera que conocen de generar energía son gomas elásticas y tracción animal, es decir ellos tirando/empujando como burros.
+Los nabucodonosorcitos no controlan la electricidad, así que la única manera que conocen de generar energía son gomas elásticas y tracción animal, es decir ellos tirando/empujando como burros.
 
 No te extrañe que construyan un carro con una caja de cartón y se pongan todos a tirar como mulos mientras nadie está subido al carro.
 

@@ -117,7 +117,7 @@ Las alarmas pueden ser de coches, de incendios, de casas y negocios o ese desper
 
 #### Altavoces inteligentes
 
-Por alguna extraña razón los altavoces inteligentes entiende los chillidos de los nabucodosorcitos y pueden comunicarse con ellos. Piensa que entre que estos chismes fallan más que una escopetilla de feria y que los nabucos no son muy listos las conversaciones pueden ser una locura, pasando del amor al odio en segundos. Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. 
+Por alguna extraña razón los altavoces inteligentes entiende los chillidos de los nabucodonosorcitos y pueden comunicarse con ellos. Piensa que entre que estos chismes fallan más que una escopetilla de feria y que los nabucos no son muy listos las conversaciones pueden ser una locura, pasando del amor al odio en segundos. Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. 
 
 Ten en cuenta que siempre darán respuesta a preguntas pensando en seres de tamaño humano o marioneta, nunca nabuco.
 
@@ -153,7 +153,7 @@ Los nabucos tienen mala memoria y se olvidan de que es el confeti, así que cada
 
 Si has tenido un robot aspirador ya sabes de qué hablo, si no, pues piensa en conductas erráticas, golpes contra los rodapiés, extraños errores locutados o en pantalla, … 
 
-Si atrapan a un nabucodosorcitos, los cepillos no le herirán, pero acabará en la caja transparente que recoge el polvo. La misión para sacarlo de la caja del aspirador puede ser un auténtico desafío, mientras el secuestrado te mira con ojillos pidiendo ayuda. También podrían ser barredoras de calles, pulidoras de suelos, …
+Si atrapan a un nabucodonosorcitos, los cepillos no le herirán, pero acabará en la caja transparente que recoge el polvo. La misión para sacarlo de la caja del aspirador puede ser un auténtico desafío, mientras el secuestrado te mira con ojillos pidiendo ayuda. También podrían ser barredoras de calles, pulidoras de suelos, …
 
 #### Sensores de movimiento
 

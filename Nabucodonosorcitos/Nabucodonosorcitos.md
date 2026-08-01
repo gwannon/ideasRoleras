@@ -1,6 +1,6 @@
 \sinc
 
-# Hay nabucodosorcitos en mi macetero
+# Hay nabucodonosorcitos en mi macetero
 
 &nbsp;
 
