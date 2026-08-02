@@ -507,13 +507,15 @@ Escondido detrás del aseo, hay un típico hotel de carretera donde los bungalow
 
 
 
-El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. Lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
+El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. El motel tiene una piscina, el propio aseo que está lleno de agua. Pueden lanzarse desde el grifo y subir por la cadena del tapón. También hay un pozo de fuego en el centro de los _teepees_ para asar malvavisco y disfrutar de las llamas.
+
+Nor es poco hablador lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
 
 XXX
 
-**Recuerdos y regalos:** XXX
+**Recuerdos y regalos:** Toallas y albornoces del motel, XXX
 
-**Momentos inolvidables:** XXX
+**Momentos inolvidables:** Tirarse a la piscina haciendo bomba, XXX
 
 ### Atravesando el desierto
 
@@ -531,19 +533,17 @@ XXX
 
 **Momentos inolvidables:** XXX
 
+
+
 ### El parque acuático
 
 **Cocina**
 
 XXX
 
-**Recuerdos y regalos:** XXX
+**Recuerdos y regalos:** Pastilla de detergente, XXX
 
-**Momentos inolvidables:** XXX
-
-
-
-
+**Momentos inolvidables:** Montarse en el aspersor durante el aclarado, XXX
 
 
 
