@@ -23,11 +23,11 @@ Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de
 * **9-11** son éxitos con alguna consecuencia menor.
 * **12** son éxitos totales. Vuestra loca idea ha dado resultado.
 
-Veamos un ejemplo de tirada. Unos nabucos quieren cruzar el salón, pero hay una aspiradora robot que les ataca (en realidad se mueve siguiendo su programación de limpieza). Pueden intentar correr y esquivarlo, tirando 1d12, o pueden dejar un rastro de tuercas y tornillos que lo lleve a la cocina, porque todo el mundo sabe que los robots comen tuercas. En este caso tiran 1d12 + 1d8 de la ventaja por un plan tan tonto.
+Veamos un ejemplo de tirada. Unos nabucos quieren cruzar el salón, pero hay un robot aspirador que les ataca (en realidad se mueve siguiendo su programación de limpieza). Pueden intentar correr y esquivarlo, tirando 1d12, o pueden dejar un rastro de tuercas y tornillos que lo lleve a la cocina, porque todo el mundo sabe que los robots comen tuercas. En este caso tiran 1d12 + 1d8 de la ventaja por un plan tan tonto.
 
 Imaginemos que hacen la segunda opción. Si saca 3 (1 + 2), es un fracaso total, las tuercas se meten en los mecanismos y salen disparadas. Ahora su enemigo puede atacar a distancia lanzando tuercas y tornillos.
 
-Si sacan 7 (2 + 5), es un éxito con consecuencias mayor. Esquivan al aspirador robot, pero el robot sigue las tuercas al revés y se va a otra habitación, así que volverá a atacarles en otra habitación.
+Si sacan 7 (2 + 5), es un éxito con consecuencias mayor. Esquivan al robot aspirador, pero el robot sigue las tuercas al revés y se va a otra habitación, así que volverá a atacarles en otra habitación.
 
 Con un 9 (8 + 1) es un éxito con una consecuencia menor. En este caso cuando se iba a marchar ha hecho un extraño y ha aspirado una pieza de equipo al azar de un nabuco.
 
@@ -59,7 +59,7 @@ Lo primero es **darles un nombre y unos pronombres**. El nombre debe ser corto y
 
 Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastan 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
 
-La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, … Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo.
+La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, … Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo. También pueden almacenar ciertos conocimientos que les permitan hacer como especiales como pescar, tejer o desactivar explosivos.
 
 Mientras estén en la misma escena podrán recordar cosas, pero al cambiar de escena olvidarán todo excepto generalidades. Los datos que deseen conservar entre escenas los deben guardar en sus antenas.
 

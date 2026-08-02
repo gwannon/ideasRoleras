@@ -31,11 +31,11 @@ Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de
 * **9-11** son éxitos con alguna consecuencia menor.
 * **12** son éxitos totales. Vuestra loca idea ha dado resultado.
 
-Veamos un ejemplo de tirada. Unos nabucos quieren cruzar el salón, pero hay una aspiradora robot que les ataca (en realidad se mueve siguiendo su programación de limpieza). Pueden intentar correr y esquivarlo, tirando 1d12, o pueden dejar un rastro de tuercas y tornillos que lo lleve a la cocina, porque todo el mundo sabe que los robots comen tuercas. En este caso tiran 1d12 + 1d8 de la ventaja por un plan tan tonto.
+Veamos un ejemplo de tirada. Unos nabucos quieren cruzar el salón, pero hay un robot aspirador que les ataca (en realidad se mueve siguiendo su programación de limpieza). Pueden intentar correr y esquivarlo, tirando 1d12, o pueden dejar un rastro de tuercas y tornillos que lo lleve a la cocina, porque todo el mundo sabe que los robots comen tuercas. En este caso tiran 1d12 + 1d8 de la ventaja por un plan tan tonto.
 
 Imaginemos que hacen la segunda opción. Si saca 3 (1 + 2), es un fracaso total, las tuercas se meten en los mecanismos y salen disparadas. Ahora su enemigo puede atacar a distancia lanzando tuercas y tornillos.
 
-Si sacan 7 (2 + 5), es un éxito con consecuencias mayor. Esquivan al aspirador robot, pero el robot sigue las tuercas al revés y se va a otra habitación, así que volverá a atacarles en otra habitación.
+Si sacan 7 (2 + 5), es un éxito con consecuencias mayor. Esquivan al robot aspirador, pero el robot sigue las tuercas al revés y se va a otra habitación, así que volverá a atacarles en otra habitación.
 
 Con un 9 (8 + 1) es un éxito con una consecuencia menor. En este caso cuando se iba a marchar ha hecho un extraño y ha aspirado una pieza de equipo al azar de un nabuco.
 
@@ -67,7 +67,7 @@ Lo primero es **darles un nombre y unos pronombres**. El nombre debe ser corto y
 
 Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastan 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
 
-La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, … Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo.
+La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, … Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo. También pueden almacenar ciertos conocimientos que les permitan hacer como especiales como pescar, tejer o desactivar explosivos.
 
 Mientras estén en la misma escena podrán recordar cosas, pero al cambiar de escena olvidarán todo excepto generalidades. Los datos que deseen conservar entre escenas los deben guardar en sus antenas.
 
@@ -475,7 +475,7 @@ Cada vez que intentar atravesar el pasillo el robot se acerca y tienen que retro
 
 Correr a toda velocidad cuando el robot esté lejos para que les pille sería lo más sencillo e inteligente, pero ese no es el estilo nabuco. Como va todos juntos en el coche la tirada será grupal y todos sufrirán las consecuencias.
 
-Otra opción sería poner porquerias para que se llene el depósito y se vaya al punto de carga. Si prefieren esperar, recuerda que son muy dramáticos y la espera se les hará insoportable. Por otro lado, la aspiradora se irá a la sala de estar que es su siguiente etapa del viaje. Con lo que seguirán teniendo el mismo problema.
+Otra opción sería poner porquerías para que se llene el depósito y se vaya al punto de carga. Si prefieren esperar, recuerda que son muy dramáticos y la espera se les hará insoportable. Por otro lado, la aspiradora se irá a la sala de estar que es su siguiente etapa del viaje. Con lo que seguirán teniendo el mismo problema.
 
 Veamos algunas ideas locas que tendrían ventajas:
 
@@ -483,9 +483,9 @@ Veamos algunas ideas locas que tendrían ventajas:
 
 Si algo falla y unos o todos acaban atrapados dentro del robot, la base de carga está en la sala de estar. Así que tras escaparse de las entrañas de la bestia robótica, podrán continuar su viaje sin problemas.
 
-**Recuerdos y regalos:** --
+**Recuerdos y regalos:** —
 
-**Momentos inolvidables:** --
+**Momentos inolvidables:** —
 
 ### La bola de lana más grande del mundo
 
@@ -495,9 +495,9 @@ Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón o
 
 XXX
 
-**Recuerdos y regalos:** XXX
+**Recuerdos y regalos:** Trozos de lana, agujas de tejer, 
 
-**Momentos inolvidables:** XXX
+**Momentos inolvidables:** Subirse arriba de las madejas, jugar a la comba con las lanas, aprender a tejer imitando a la abuela
 
 ### Noche en la carretera
 
@@ -519,7 +519,7 @@ XXX
 
 **Balcón**
 
-La sala de estar da acceso al balcón y desde el balcón e puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
+La sala de estar da acceso al balcón y desde el balcón se puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
 
 XXX
 

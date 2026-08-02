@@ -55,7 +55,7 @@ Cada vez que intentar atravesar el pasillo el robot se acerca y tienen que retro
 
 Correr a toda velocidad cuando el robot esté lejos para que les pille sería lo más sencillo e inteligente, pero ese no es el estilo nabuco. Como va todos juntos en el coche la tirada será grupal y todos sufrirán las consecuencias.
 
-Otra opción sería poner porquerias para que se llene el depósito y se vaya al punto de carga. Si prefieren esperar, recuerda que son muy dramáticos y la espera se les hará insoportable. Por otro lado, la aspiradora se irá a la sala de estar que es su siguiente etapa del viaje. Con lo que seguirán teniendo el mismo problema.
+Otra opción sería poner porquerías para que se llene el depósito y se vaya al punto de carga. Si prefieren esperar, recuerda que son muy dramáticos y la espera se les hará insoportable. Por otro lado, la aspiradora se irá a la sala de estar que es su siguiente etapa del viaje. Con lo que seguirán teniendo el mismo problema.
 
 Veamos algunas ideas locas que tendrían ventajas:
 
@@ -63,9 +63,9 @@ Veamos algunas ideas locas que tendrían ventajas:
 
 Si algo falla y unos o todos acaban atrapados dentro del robot, la base de carga está en la sala de estar. Así que tras escaparse de las entrañas de la bestia robótica, podrán continuar su viaje sin problemas.
 
-**Recuerdos y regalos:** --
+**Recuerdos y regalos:** —
 
-**Momentos inolvidables:** --
+**Momentos inolvidables:** —
 
 ### La bola de lana más grande del mundo
 
@@ -75,9 +75,9 @@ Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón o
 
 XXX
 
-**Recuerdos y regalos:** XXX
+**Recuerdos y regalos:** Trozos de lana, agujas de tejer, 
 
-**Momentos inolvidables:** XXX
+**Momentos inolvidables:** Subirse arriba de las madejas, jugar a la comba con las lanas, aprender a tejer imitando a la abuela
 
 ### Noche en la carretera
 
@@ -99,7 +99,7 @@ XXX
 
 **Balcón**
 
-La sala de estar da acceso al balcón y desde el balcón e puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
+La sala de estar da acceso al balcón y desde el balcón se puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
 
 XXX
 
