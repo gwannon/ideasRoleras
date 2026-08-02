@@ -2,7 +2,7 @@
 
 ![Imagen principal de la aventura](./images/aventuras.png "Imagen principal de la aventura")
 
-## Las locas vacaciones de una familia de nabucodonosorcitos
+## Las locas vacaciones de los nabucodonosorcitos
 
 &nbsp;
 
@@ -49,11 +49,23 @@ Ideas de las cosas que pueden hacer:
 
 **Pasillo**
 
-XXX
+La idea de esta parte es que tus jugadores se hagan con el sistema, así que puedes ponerles un reto divertido como un robot aspiradora que está limpiando el pasillo.
 
-**Recuerdos y regalos:** XXX
+Cada vez que intentar atravesar el pasillo el robot se acerca y tienen que retroceder, porque si no, se tragara si automóvil.
 
-**Momentos inolvidables:** XXX
+Correr a toda velocidad cuando el robot esté lejos para que les pille sería lo más sencillo e inteligente, pero ese no es el estilo nabuco. Como va todos juntos en el coche la tirada será grupal y todos sufrirán las consecuencias.
+
+Otra opción sería poner porquerias para que se llene el depósito y se vaya al punto de carga. Si prefieren esperar, recuerda que son muy dramáticos y la espera se les hará insoportable. Por otro lado, la aspiradora se irá a la sala de estar que es su siguiente etapa del viaje. Con lo que seguirán teniendo el mismo problema.
+
+Veamos algunas ideas locas que tendrían ventajas:
+
+* XXX
+
+Si algo falla y unos o todos acaban atrapados dentro del robot, la base de carga está en la sala de estar. Así que tras escaparse de las entrañas de la bestia robótica, podrán continuar su viaje sin problemas.
+
+**Recuerdos y regalos:** --
+
+**Momentos inolvidables:** --
 
 ### La bola de lana más grande del mundo
 
@@ -72,6 +84,8 @@ XXX
 **Baño**
 
 Escondido detrás del aseo, hay un típico hotel de carretera donde los bungalows tienen forma de _teepee_ de los nativos norteamericanos. La estructura son pajitas de plástico y se han usado una cortina de baño de patitos para las telas que cubren la tienda.
+
+\sp
 
 El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. Lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
 
@@ -92,8 +106,6 @@ XXX
 En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño al que van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también. Como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto.
 
 XXX
-
-\sp
 
 **Recuerdos y regalos:** Arena del desierto (está aromatizada), XXX
 
