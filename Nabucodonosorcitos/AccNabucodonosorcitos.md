@@ -499,13 +499,13 @@ XXX
 
 **Momentos inolvidables:** Subirse arriba de las madejas, jugar a la comba con las lanas, aprender a tejer imitando a la abuela
 
+
+
 ### Noche en la carretera
 
 **Baño**
 
 Escondido detrás del aseo, hay un típico hotel de carretera donde los bungalows tienen forma de _teepee_ de los nativos norteamericanos. La estructura son pajitas de plástico y se han usado una cortina de baño de patitos para las telas que cubren la tienda.
-
-
 
 El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. El motel tiene una piscina, el propio aseo que está lleno de agua. Pueden lanzarse desde el grifo y subir por la cadena del tapón. También hay un pozo de fuego en el centro de los _teepees_ para asar malvavisco y disfrutar de las llamas.
 
@@ -513,9 +513,9 @@ Nor es poco hablador lleva un traje de señora mayor de los 60, una peluca canos
 
 XXX
 
-**Recuerdos y regalos:** Toallas y albornoces del motel, XXX
+**Recuerdos y regalos:** Toallas y albornoces del motel, gofrera del buffet de desayuno, llavero de las llaves del motel
 
-**Momentos inolvidables:** Tirarse a la piscina haciendo bomba, XXX
+**Momentos inolvidables:** Tirarse a la piscina haciendo bomba, esquivar las cuchilladas de Nor, atiborrarse en el buffet de desayuno
 
 ### Atravesando el desierto
 
@@ -523,17 +523,17 @@ XXX
 
 La sala de estar da acceso al balcón y desde el balcón se puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
 
+A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza (o eso dice el vendedor en realidad son libros de colorear de oso guarda forestal de la prevención de incendios). 
+
 XXX
 
 En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño al que van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también. Como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto.
 
 XXX
 
-**Recuerdos y regalos:** Arena del desierto (está aromatizada), XXX
+**Recuerdos y regalos:** Arena del desierto (está aromatizada), zurullo de broma (no es de broma), atrapasueños que vende Zunk
 
-**Momentos inolvidables:** XXX
-
-
+**Momentos inolvidables:** Recibir la sabiduría de Zunk, encontrar agua amarilla, aprender supervivencia
 
 ### El parque acuático
 
@@ -541,9 +541,9 @@ XXX
 
 XXX
 
-**Recuerdos y regalos:** Pastilla de detergente, XXX
+**Recuerdos y regalos:** Pastilla de detergente, tapa de plástico usada como flotador o tabla de surf (y así los humanos tendrán un taper sin tapa, igual que pasa con los calcetines), pegatinas promocionales de Whirpool
 
-**Momentos inolvidables:** Montarse en el aspersor durante el aclarado, XXX
+**Momentos inolvidables:** Montarse en el aspersor durante el aclarado, fiesta de la espuma en el lavado, tirarse por el tobogan de tapas
 
 
 
