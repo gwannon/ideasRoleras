@@ -59,6 +59,7 @@ Otra opción sería poner porquerías para que se llene el depósito y se vaya a
 
 Veamos algunas ideas locas que tendrían ventajas:
 
+* Si lo ven como una especie de bestia a domar, podrían subirse encima como un toro de rodeo e intentar domarlo. Al final le habrán dado sin saberlo al botón de Home y se irá a la zona de carga donde estará tranquilo unas horas. Necesitarán una forma de subirse encima (o dejarse caer) y otra de ponerle unos arreos.  
 * XXX
 
 Si algo falla y unos o todos acaban atrapados dentro del robot, la base de carga está en la sala de estar. Así que tras escaparse de las entrañas de la bestia robótica, podrán continuar su viaje sin problemas.
@@ -75,7 +76,7 @@ Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón o
 
 XXX
 
-**Recuerdos y regalos:** Trozos de lana, agujas de tejer, 
+**Recuerdos y regalos:** Trozos de lana, agujas de tejer, descartes de lana trenzada
 
 **Momentos inolvidables:** Subirse arriba de las madejas, jugar a la comba con las lanas, aprender a tejer imitando a la abuela
 
@@ -121,6 +122,6 @@ XXX
 
 XXX
 
-**Recuerdos y regalos:** Pastilla de detergente, tapa de plástico usada como flotador o tabla de surf (y así los humanos tendrán un taper sin tapa, igual que pasa con los calcetines), pegatinas promocionales de Whirpool
+**Recuerdos y regalos:** Pastilla de detergente, tapa de plástico usada como flotador o tabla de surf (y así los humanos tendrán un táper sin tapa, igual que pasa con los calcetines), pegatinas promocionales de Whirlpool
 
-**Momentos inolvidables:** Montarse en el aspersor durante el aclarado, fiesta de la espuma en el lavado, tirarse por el tobogan de tapas
+**Momentos inolvidables:** Montarse en el aspersor durante el aclarado, fiesta de la espuma en el lavado, tirarse por el tobogán de tapas

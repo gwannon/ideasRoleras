@@ -531,3 +531,4 @@
 {"rule":"OBSCURE","sentence":"^\\QPueden hasta habérselas vendido muy baratas un monstruo con gabardina y sombrero en un oscuro callejón.\\E$"}
 {"rule":"SCHOLAR","sentence":"^\\QEl grupo puede ser de cualquier tipo, una familia, un club deportivo, un grupo escolar, etc.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEsta aventura es una roadtrip en la que tus jugadores recorrerán miles de kilómetros por exóticos parajes en su coche para ir al mejor parque acuático del mundo, el Whirlpool, o sea el lavavajillas de la cocina.\\E$"}
+{"rule":"CONCORDANCIAS_ATRIBUTO","sentence":"^\\QNor es poco hablador lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras.\\E$"}
