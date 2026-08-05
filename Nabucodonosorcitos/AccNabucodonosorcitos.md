@@ -543,11 +543,15 @@ XXX
 
 La sala de estar da acceso al balcón y desde el balcón se puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
 
-A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza (o eso dice el vendedor en realidad son libros de colorear de oso guarda forestal de la prevención de incendios). 
+A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza o eso dice el vendedor, en realidad son libros de colorear de oso guarda forestal de la prevención de incendios, pero en los dibujo se le ve haciendo fuego, hablando con un lobo y sofocando un fuego. 
 
-XXX
+El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con el y de paso 
 
-En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también (como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto), pero él parece más desnudo en general.
+Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático y pesado: ¿Hemos llegado ya?, Tengo sed, ¿Cuándo llegamos?, ¿Nos hemos muerto ya?, ... El líder, si hay, debería tratar de convencer al resto de que sigan adelante. Si quieren obtener ventaja, mejor que se invente alguna chorrada como que en realidad es una playa y al otro lado de la arena está el mar.
+
+Si se empeñan en llevar su coche, pues hacer que se entierre en la arena cada vez que se monten (por el peso) y que cuando bajen a empujar vuelva poder moverse porque ya no pesa tanto y así todo el rato.
+
+En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también (como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto), pero él parece más desnudo en general.
 
 XXX
 
