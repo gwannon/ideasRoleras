@@ -59,8 +59,12 @@ Otra opción sería poner porquerías para que se llene el depósito y se vaya a
 
 Veamos algunas ideas locas que tendrían ventajas:
 
-* Si lo ven como una especie de bestia a domar, podrían subirse encima como un toro de rodeo e intentar domarlo. Al final le habrán dado sin saberlo al botón de Home y se irá a la zona de carga donde estará tranquilo unas horas. Necesitarán una forma de subirse encima (o dejarse caer) y otra de ponerle unos arreos.  
-* XXX
+* Si lo ven como una especie de bestia a domar, podrían subirse encima como un toro de rodeo e intentar domarlo. Al final le habrán dado sin saberlo al botón de Home y se irá a la zona de carga donde estará tranquilo unas horas. Necesitarán una forma de subirse encima (o dejarse caer) y otra de ponerle unos arreos.
+* Pueden confundirlo con algún tipo de tortuga y como les enseñaron en la escuela, si le dan la vuelta y la dejan bocarriba no se podrá mover. Otra cosa es como le dan la vuelta. Quizás la engañen para lanzarse por algún tipo de cuña que haga que se dé la vuelta, aunque debería ser muy alta para conseguirlo, pero si el Equipo A podía tus nabucos también.
+* Otras ideas podrían ser pegarle un globo para que se vaya volando, dejarse tragar y hacer ruidos raros desde dentro para que un humano crea que está rota, poner una trampa de algo resbaladizo y que no pueda salir, ...
+* Con la opción de correr puedes llenar el suelo de aceite, que el robot lo esparza y patinar rápidamente sobre el aceite, ponerse un disfraz de San Fermín para correr delante de la aspiradora o ponerse barro como en Depredador para que no le detecten los sensores de la aspiradora.
+
+\sp
 
 Si algo falla y unos o todos acaban atrapados dentro del robot, la base de carga está en la sala de estar. Así que tras escaparse de las entrañas de la bestia robótica, podrán continuar su viaje sin problemas.
 
@@ -72,15 +76,28 @@ Si algo falla y unos o todos acaban atrapados dentro del robot, la base de carga
 
 **Sala de estar**
 
-Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón orejero tejiendo una bufanda para sus nietes. En el suelo tiene una cesta con montones de bolas de lana y en el centro una bola gigantesca.
+Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón orejero tejiendo una bufanda para sus nietes. En el suelo tiene una cesta con montones de bolas de lana y en el centro una bola gigantesca que es la quieren visitar. Un nabuco ha escrito en la etiqueta de la gran bola de lana con pinturas de colores «La bola de lana más grande del mundo. ENTRADA 2 €. Descuentos por grupo negociables» y cobra entrada por verla.
+
+Lo curioso es que la ves igual de bien pagando entrada que sin pagarla, no hay una cerca que evite que te acerques o que te bloquee la vista. El nabuco simplemente ha puesto una mesa con una caja y cobra igual. 
+
+Aun así, tus nabucos deberán negociar con el feriante para verla si no tienen dinero. A priori, a no ser que alguien haya dicho que lleva dinero, no tienen dinero. Ya que has llegado hasta aquí no vas a ser un rácano y no verla por unos pocos euros.
 
 XXX
+
+Una vez consigan sus entradas tienen muchas actividades de las que disfrutar y con las que puedes alargar un poco la escena si ya no queda mucho tiempo para el final de la sesión.
+
+* Ver la gran bola de lana.
+* Fotografiar la gran bola de lana.
+* Escalar la gran bola de lana.
+* Saltar sobre la gran bola de lana como si fuera una cama elástica.
+* Aprender a tejer con unos mondadientes viendo a la señora mayor como teje.
+* Hacerse unas pulseras de la amistad con los recortes de lana.
+
+El feriante también vende trozos de lana como recuerdo, pero la verdad es que puedes recogerlos del suelo sin problema o cortarlos tú mismo de los ovillos que hay, pero bueno se pueden meter en otro estúpido regateo.
 
 **Recuerdos y regalos:** Trozos de lana, agujas de tejer, descartes de lana trenzada
 
 **Momentos inolvidables:** Subirse arriba de las madejas, jugar a la comba con las lanas, aprender a tejer imitando a la abuela
-
-\sp
 
 ### Noche en la carretera
 
@@ -91,6 +108,8 @@ Escondido detrás del aseo, hay un típico hotel de carretera donde los bungalow
 El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. El motel tiene una piscina, el propio aseo que está lleno de agua. Pueden lanzarse desde el grifo y subir por la cadena del tapón. También hay un pozo de fuego en el centro de los _teepees_ para asar malvavisco y disfrutar de las llamas.
 
 Nor es poco hablador lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
+
+\sp
 
 XXX
 
