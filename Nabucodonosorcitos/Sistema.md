@@ -2,7 +2,7 @@
 
 Para jugar necesitáis **papel, lápiz, 1 dado de 8 caras (d8), otro de 12 caras (d12)** y también **dejar el cerebro en casa** porque en este juego no lo vais a necesitar.
 
-> Les DJ se llaman EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) se quedan mirando embobado las tonterías que hacen los nabucos que viven en su macetero, más o menos lo que hará vuestre DJ al veros jugar.
+> Les DJ se llaman EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) se queda mirando embobado las tonterías que hacen los nabucos que viven en su macetero, más o menos lo que hará vuestre DJ al veros jugar.
 
 Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
 

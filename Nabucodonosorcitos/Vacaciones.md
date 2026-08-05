@@ -60,7 +60,7 @@ Otra opción sería poner porquerías para que se llene el depósito y se vaya a
 Veamos algunas ideas locas que tendrían ventajas:
 
 * Si lo ven como una especie de bestia a domar, podrían subirse encima como un toro de rodeo e intentar domarlo. Al final le habrán dado sin saberlo al botón de Home y se irá a la zona de carga donde estará tranquilo unas horas. Necesitarán una forma de subirse encima (o dejarse caer) y otra de ponerle unos arreos.
-* Pueden confundirlo con algún tipo de tortuga y como les enseñaron en la escuela, si le dan la vuelta y la dejan bocarriba no se podrá mover. Otra cosa es como le dan la vuelta. Quizás la engañen para lanzarse por algún tipo de cuña que haga que se dé la vuelta, aunque debería ser muy alta para conseguirlo, pero si el Equipo A podía tus nabucos también.
+* Pueden confundirlo con algún tipo de tortuga y como les enseñaron en la escuela, si le dan la vuelta y la dejan bocarriba no se podrá mover. Otra cosa es como le dan la vuelta. Quizás la engañen para lanzarse por algún tipo de cuña que haga que se dé la vuelta, aunque debería ser muy alta para conseguirlo, pero si el Equipo A podía, tus nabucos también.
 * Otras ideas podrían ser pegarle un globo para que se vaya volando, dejarse tragar y hacer ruidos raros desde dentro para que un humano crea que está rota, poner una trampa de algo resbaladizo y que no pueda salir, ...
 * Con la opción de correr puedes llenar el suelo de aceite, que el robot lo esparza y patinar rápidamente sobre el aceite, ponerse un disfraz de San Fermín para correr delante de la aspiradora o ponerse barro como en Depredador para que no le detecten los sensores de la aspiradora.
 
@@ -80,11 +80,28 @@ Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón o
 
 Lo curioso es que la ves igual de bien pagando entrada que sin pagarla, no hay una cerca que evite que te acerques o que te bloquee la vista. El nabuco simplemente ha puesto una mesa con una caja y cobra igual. 
 
-Aun así, tus nabucos deberán negociar con el feriante para verla si no tienen dinero. A priori, a no ser que alguien haya dicho que lleva dinero, no tienen dinero. Ya que has llegado hasta aquí no vas a ser un rácano y no verla por unos pocos euros.
+Aun así, tus nabucos deberán negociar con el feriante para verla si no tienen dinero. A priori, a no ser que alguien haya dicho que lleva dinero, no tienen dinero. 
 
-XXX
+Ya que has llegado hasta aquí no vas a ser un rácano y no verla por unos pocos euros. Toca negociar con un feriante, aunque los nabucos no son muy listos, sigue siendo un feriante, los seres más espabilados del universo.
+
+Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán adornarlo con alguna historia absurda si quieren tener ventaja para la tirada.
+
+Algunas ideas para el trueque:
+
+* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Pueden hacer un yo-yo con chapas y cuerdas de sus nabucos bjetos actuales y decirle puede usarlo en su casa con ascensor.
+* El robot aspidor le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estupido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
+* Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
+
+Recuerda que incluso con un éxito crítico seguirán perdiendo lo que ofrezcan. Con éxitos menores podrían perder equipo extra.
+
+También **aceptará sin tirada el coche** a tracción nabucodonosora de tus nabucos, pero claro tus nabucos saben que tardarán más porque todo el mundo sabe que un coche es más rápido que ir a pie.
+
+Así que debería ser su última salida y si lo pierden deberían estar toco el rato quejándose de que están cansados y les duelen los pies.
 
 Una vez consigan sus entradas tienen muchas actividades de las que disfrutar y con las que puedes alargar un poco la escena si ya no queda mucho tiempo para el final de la sesión.
+
+\sp
 
 * Ver la gran bola de lana.
 * Fotografiar la gran bola de lana.
@@ -109,8 +126,6 @@ El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño inc
 
 Nor es poco hablador lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
 
-\sp
-
 XXX
 
 **Recuerdos y regalos:** Toallas y albornoces del motel, gofrera del buffet de desayuno, llavero de las llaves del motel
@@ -128,6 +143,8 @@ A la entrada del desierto hay un puesto que vende mapas del cajón de arena y li
 El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con el y de paso 
 
 Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático y pesado: ¿Hemos llegado ya?, Tengo sed, ¿Cuándo llegamos?, ¿Nos hemos muerto ya?, ... El líder, si hay, debería tratar de convencer al resto de que sigan adelante. Si quieren obtener ventaja, mejor que se invente alguna chorrada como que en realidad es una playa y al otro lado de la arena está el mar.
+
+\sp
 
 Si se empeñan en llevar su coche, pues hacer que se entierre en la arena cada vez que se monten (por el peso) y que cuando bajen a empujar vuelva poder moverse porque ya no pesa tanto y así todo el rato.
 
