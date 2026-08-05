@@ -31,6 +31,7 @@ Ingredientes usados en este juego de rol:
 Gracias a las siguientes personas por sus consejos y correcciones:
 
 * [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social) como corrector por su aviso de haber escrito nabucodonosorcitos en vez de nabucodonosorcitos.
+* [Goznar](https://bsky.app/profile/goznar.eurosky.social) como corrector por su aviso de haber escrito «haber escrito nabucodonosorcitos en vez de nabucodonosorcitos» en vez de «haber escrito nabucodosorcitos en vez de nabucodonosorcitos» en la mención de la corrección de Pau Blackonion.
 
 \sinc
 

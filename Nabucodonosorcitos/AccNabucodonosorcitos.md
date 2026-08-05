@@ -547,7 +547,7 @@ A la entrada del desierto hay un puesto que vende mapas del cajón de arena y li
 
 XXX
 
-En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño al que van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también. Como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto.
+En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también (como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto), pero él parece más desnudo en general.
 
 XXX
 
@@ -601,6 +601,7 @@ Ingredientes usados en este juego de rol:
 Gracias a las siguientes personas por sus consejos y correcciones:
 
 * [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social) como corrector por su aviso de haber escrito nabucodonosorcitos en vez de nabucodonosorcitos.
+* [Goznar](https://bsky.app/profile/goznar.eurosky.social) como corrector por su aviso de haber escrito «haber escrito nabucodonosorcitos en vez de nabucodonosorcitos» en vez de «haber escrito nabucodosorcitos en vez de nabucodonosorcitos» en la mención de la corrección de Pau Blackonion.
 
 
 
