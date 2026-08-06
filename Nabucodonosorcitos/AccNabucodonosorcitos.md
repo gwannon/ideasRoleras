@@ -574,21 +574,27 @@ La sala de estar da acceso al balcón y desde el balcón se puede entrar en la c
 
 A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza o eso dice el vendedor, en realidad son libros de colorear de oso guarda forestal de la prevención de incendios, pero en los dibujos se le ve haciendo fuego, hablando con un lobo y un lince y sofocando un fuego. 
 
-El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con él y de paso 
+El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con él y de paso hacerles alguna pregunta vital.
 
 Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático y pesado: ¿Hemos llegado ya?, Tengo sed, ¿Cuándo llegamos?, ¿Nos hemos muerto ya?, ... El líder, si hay, debería tratar de convencer al resto de que sigan adelante. Si quieren obtener ventaja, mejor que se invente alguna chorrada como que en realidad es una playa y al otro lado de la arena está el mar.
 
 Si se empeñan en llevar su coche, pues hacer que se entierre en la arena cada vez que se monten (por el peso) y que cuando bajen a empujar vuelva poder moverse porque ya no pesa tanto y así todo el rato.
 
-En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también (como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto), pero él parece más desnudo en general.
+Si no hacen algo especial, empezarán a andar en círculos con lo que no podrán salir ni encontrar al sabio asceta. De hecho en algún momento podrían encontrar sus propias huellas y son muy tontos (sí, lo son) seguirlas esperando encontrar la salida del desierto.
 
-XXX
+Tendrán que buscar un plan para orientarse, desde orientarse con el sol, ya que están en el balcón y lo ven, hasta hacerse una varita de zahorí con unas horquillas y tratar de buscar el agua del bebedero del gato.
+
+Si consiguen orientarse, en el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. 
+
+
+
+Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también (como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto), pero él parece más desnudo en general.
+
+Cada nabuco podrá hacerle una pregunta a Zunk y se la contestará con otra pregunta a no ser que le pregunte dónde está en el baño que les dirá que detrás de la roca marrón. Luego les dará las gracias, les dirá por dónde salir del desierto y se pondrá en la posición del loto para seguir meditando.
 
 **Recuerdos y regalos:** Arena del desierto (está aromatizada), zurullo de broma (no es de broma), atrapasueños que vende Zunk
 
 **Momentos inolvidables:** Recibir la sabiduría de Zunk, encontrar agua amarilla, aprender supervivencia
-
-
 
 ### El parque acuático
 
