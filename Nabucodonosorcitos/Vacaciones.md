@@ -88,9 +88,9 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 
 Algunas ideas para el trueque:
 
-* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Pueden hacer un yo-yo con chapas y cuerdas de sus nabucos bjetos actuales y decirle puede usarlo en su casa con ascensor.
-* El robot aspidor le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
-* Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estupido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
+* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa con ascensor.
+* El robot aspidora le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estúpido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
 Recuerda que incluso con un éxito crítico seguirán perdiendo lo que ofrezcan. Con éxitos menores podrían perder equipo extra.
@@ -138,9 +138,9 @@ XXX
 
 La sala de estar da acceso al balcón y desde el balcón se puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
 
-A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza o eso dice el vendedor, en realidad son libros de colorear de oso guarda forestal de la prevención de incendios, pero en los dibujo se le ve haciendo fuego, hablando con un lobo y sofocando un fuego. 
+A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza o eso dice el vendedor, en realidad son libros de colorear de oso guarda forestal de la prevención de incendios, pero en los dibujos se le ve haciendo fuego, hablando con un lobo y un lince y sofocando un fuego. 
 
-El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con el y de paso 
+El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con él y de paso 
 
 Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático y pesado: ¿Hemos llegado ya?, Tengo sed, ¿Cuándo llegamos?, ¿Nos hemos muerto ya?, ... El líder, si hay, debería tratar de convencer al resto de que sigan adelante. Si quieren obtener ventaja, mejor que se invente alguna chorrada como que en realidad es una playa y al otro lado de la arena está el mar.
 
@@ -165,3 +165,11 @@ XXX
 **Recuerdos y regalos:** Pastilla de detergente, tapa de plástico usada como flotador o tabla de surf (y así los humanos tendrán un táper sin tapa, igual que pasa con los calcetines), pegatinas promocionales de Whirlpool
 
 **Momentos inolvidables:** Montarse en el aspersor durante el aclarado, fiesta de la espuma en el lavado, tirarse por el tobogán de tapas
+
+### Otras ideas
+
+Si quieres alargar el viaje, porque tus jugadores están pasándolo bien (o eso te dicen cuando sacas tu machete), puedes meter más localizaciones. Aquí tienes alguna ideas.
+
+* **El museo internacional del queso.** No es un museo de quesos del mundo, literalmente es un trozo enorme de queso en la quesera de la cocina. Lo bueno es que tiene exposiciones itinerantes y cada semana cambian de queso.
+* **Autocine más grande del mundo.** Los humanos de la casa han comprado un pantallón de televisión y proporcionalmente para los nabucos es el cine más grande que han visto. Lo malo es que solo ponen documentales hablando de las cosas raras que hacen los humanos.
+* **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Albert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.

@@ -26,11 +26,11 @@ Hay familias, hay gobiernos (de hecho hay un alcalde que se vota cada vez que se
 
 Pero esa sociedad tiene su parte de tontunas que le DJ debe imprimir en sus aventuras. Por ejemplo, igual tus nabucos necesitan un permiso de construcción para su nueva casa y descubrir que su casa no está en los registros municipales y ahora pueden hacer su propio país, sus propias leyes e incluso construir su propio castillo con murallas y foso defensivo.
 
-> Una cosa curiosa es que aunque son muy tontos, son excelentes recicladores y mucha cosas de su arte y cultura son cosas recicladas.
+> Una cosa curiosa es que aunque son muy tontos, son excelentes recicladores y muchas cosas de su arte y cultura son cosas recicladas.
 
 ### Como ven lo nabuco (y tus jugadores) el mundo
 
-Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entenderlo te damos una reglas que puedes aplicar.
+Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entenderlo te damos unas reglas que puedes aplicar.
 
 * No son diminutos, el mundo es grande. Ellos tienen el tamaño adecuado, es el resto de cosas los que son grandes. De hecho, son _nabucocentristas_, creen que todo existe para ellos y si no existieran no habría nada. No te extrañe que tus nabucos cierren los ojos al enfrentarse a algo porque creen que si no lo ven no puede hacerle daño.
 
@@ -40,7 +40,7 @@ Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entende
 * La tecnología es algo que está y que se crea por alguien que no les importa y no les preocupa cómo ni por qué. No son científicos y no se preocupan por qué o cómo funcionan las cosas, simplemente son así.
 * No conocen el miedo, son demasiado tontos para tenerlo y además, al ser marionetas, son medio inmortales con lo que los instintos de supervivencia los han perdido en la evolución. De hecho, nada les dice que huyan o luchen.
 
-Por lo que sea escribir saben escribir, pero no han pillado lo de dejar historias por escrito. Además prefieren los libros con muchos dibujos o de esos pop-up que los tochos largos de palabras.
+Por lo que sea escribir saben escribir, pero no han pillado lo de dejar historias por escrito. Además, prefieren los libros con muchos dibujos o de esos pop-up que los tochos largos de palabras.
 
 En cuanto al dinero, son más de trueque, aunque conocen el dinero, pero perfectamente pueden usarlo como algo decorativo en vez de para comprar cosas.
 
@@ -86,7 +86,7 @@ Otra fauna urbana, como palomas y ratas (siempre marionetas), sí suelen interac
 
 ### La muerte y los nabucos
 
-Los nabucos son prácticamente inmortales no pueden morir de enfermedades, ni de heridas, ni nada por el estilo, pero si hay situaciones parecidas a la muerte.
+Los nabucos son prácticamente inmortales no pueden morir de enfermedades, ni de heridas, ni nada por el estilo, pero sí hay situaciones parecidas a la muerte.
 
 Por ejemplo, si un nabuco se cae de un sexto piso, hasta que regrese a donde estaban, con lo tontos que son, puede que se tiren días y días y días, con lo cual quedan fuera de la partida como si hubiera muerto.
 

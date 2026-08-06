@@ -29,7 +29,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |3|**Limpieza:** Ir al lavadero de coches, a la lavandería, usar la manguera o la regadera|
 |4|**Entretenimiento:** Noche en el autocine, concierto de los Solfamidas, la feria o el circo llega al barrio.|
 |5|**Visitas:** Reciben visitas de parientes del pueblo, de un nabuco de intercambio de un país muy lejano, hacen de niñeras de unos nabuquitos, …|
-|6|**Ruin de tiempos pretéritos:** Los nabucos encuentran algo realmente antiguo que no comprenden y que deben investigar para qué es. Quizás es un proyector de películas de Super8, un teléfono de dial o un tragabolas.|
+|6|**Ruin de tiempos pretéritos:** Los nabucos encuentran algo realmente antiguo que no comprenden y que deben investigar para qué es. Quizás es un proyector de películas de Super 8, un teléfono de dial o un tragabolas.|
 |7|**Fantasmas:** algo que para nosotros es normal, los nabuco lo toman como algo del más allá, fantasmas, psicofonías, caras en las paredes que en realidad han pintado los niños de la casa con rotuladores en la pared.|
 |8|**Cambios en la casa:** Hay obras en la casa donde viven los nabucos o, quizás, una mudanza con los cambios que supone que se vaya gente y que venga gente nueva y desaparezcan unas cosas y aparezcan otras diferentes.|
 
@@ -51,7 +51,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |2|Hay obras en el barrio, reasfaltar las calles, obras del metro, fuga de agua, reparan las aceras. Al final es mucho ruido, mucho movimiento de persona y vehículos, montones de grava, excavadoras, cemento fresco, …|
 |3|Llueve, todo es peor si llueve.|
 |4|Las letras y los números se han escapado de la librería y todo está lleno de marionetas de letras y números saltando y corriendo por todas partes y gente intentando atraparlas.|
-|5|Todos o casi todos los nabucos tienen _gripe nabuca_, eso supone estornudos, hipos, toses, pedos incontrolados.|
+|5|Todos o casi todos los nabucos tienen _gripe nabucodonosora_, eso supone estornudos, hipos, toses, pedos incontrolados.|
 |6|Es festivo nacional y todo está cerrado, o hay un gran evento y todo el mundo ha ido a verlo o está en casa delante del TV. Las calles están desiertas y los nabucos se temen lo peor.|
 |7|Invasión de monstruos, algo pasa que todas las marionetas monstruosas están muy activas. Se dedican a dar sustos a todo el mundo, incluso a los pequeños nabucos.|
 |8|Las calles están nevadas y el suelo helado y resbaladizo. Las terrazas están llenas de nieve y de los alféizares caen carámbanos.|

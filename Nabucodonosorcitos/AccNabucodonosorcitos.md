@@ -49,7 +49,7 @@ Si saca un 12 (11 + 7), es un éxito total, el robot sigue el camino y acaba en 
 
 #### Ventaja
 
-La ventaja te la otorga EPI, si considera que tú idea es muy tonta y digna de un nabuco. Aunque parezca una contradicción, normalmente cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
+La ventaja te la otorga EPI, si considera que tu idea es muy tonta y digna de un nabuco. Aunque parezca una contradicción, normalmente cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
 
 El problema de la ventaja es que las consecuencias de planes muy tontos podrían ser muy locas.
 
@@ -94,7 +94,7 @@ Arquetipos:
 
 Los nabucos son gregarios y se mueven en grupo con lo que deberéis decidir que os une a todos los PJ. 
 
-En Barrio Sésamo eran todos familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, …
+En Barrio Sésamo eran todos una familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, …
 
 A lo largo de las aventuras hay tiradas personales y grupales. Las personales deberán hacerlas cada nabuco la suya y sufrirán las consecuencias personalmente. Las grupales se hace una para todos y todos sufren disfrutan el éxito o el fracaso.
 
@@ -153,11 +153,11 @@ Hay familias, hay gobiernos (de hecho hay un alcalde que se vota cada vez que se
 
 Pero esa sociedad tiene su parte de tontunas que le DJ debe imprimir en sus aventuras. Por ejemplo, igual tus nabucos necesitan un permiso de construcción para su nueva casa y descubrir que su casa no está en los registros municipales y ahora pueden hacer su propio país, sus propias leyes e incluso construir su propio castillo con murallas y foso defensivo.
 
-> Una cosa curiosa es que aunque son muy tontos, son excelentes recicladores y mucha cosas de su arte y cultura son cosas recicladas.
+> Una cosa curiosa es que aunque son muy tontos, son excelentes recicladores y muchas cosas de su arte y cultura son cosas recicladas.
 
 ### Como ven lo nabuco (y tus jugadores) el mundo
 
-Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entenderlo te damos una reglas que puedes aplicar.
+Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entenderlo te damos unas reglas que puedes aplicar.
 
 * No son diminutos, el mundo es grande. Ellos tienen el tamaño adecuado, es el resto de cosas los que son grandes. De hecho, son _nabucocentristas_, creen que todo existe para ellos y si no existieran no habría nada. No te extrañe que tus nabucos cierren los ojos al enfrentarse a algo porque creen que si no lo ven no puede hacerle daño.
 
@@ -167,7 +167,7 @@ Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entende
 * La tecnología es algo que está y que se crea por alguien que no les importa y no les preocupa cómo ni por qué. No son científicos y no se preocupan por qué o cómo funcionan las cosas, simplemente son así.
 * No conocen el miedo, son demasiado tontos para tenerlo y además, al ser marionetas, son medio inmortales con lo que los instintos de supervivencia los han perdido en la evolución. De hecho, nada les dice que huyan o luchen.
 
-Por lo que sea escribir saben escribir, pero no han pillado lo de dejar historias por escrito. Además prefieren los libros con muchos dibujos o de esos pop-up que los tochos largos de palabras.
+Por lo que sea escribir saben escribir, pero no han pillado lo de dejar historias por escrito. Además, prefieren los libros con muchos dibujos o de esos pop-up que los tochos largos de palabras.
 
 En cuanto al dinero, son más de trueque, aunque conocen el dinero, pero perfectamente pueden usarlo como algo decorativo en vez de para comprar cosas.
 
@@ -213,7 +213,7 @@ Otra fauna urbana, como palomas y ratas (siempre marionetas), sí suelen interac
 
 ### La muerte y los nabucos
 
-Los nabucos son prácticamente inmortales no pueden morir de enfermedades, ni de heridas, ni nada por el estilo, pero si hay situaciones parecidas a la muerte.
+Los nabucos son prácticamente inmortales no pueden morir de enfermedades, ni de heridas, ni nada por el estilo, pero sí hay situaciones parecidas a la muerte.
 
 Por ejemplo, si un nabuco se cae de un sexto piso, hasta que regrese a donde estaban, con lo tontos que son, puede que se tiren días y días y días, con lo cual quedan fuera de la partida como si hubiera muerto.
 
@@ -285,7 +285,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |3|**Limpieza:** Ir al lavadero de coches, a la lavandería, usar la manguera o la regadera|
 |4|**Entretenimiento:** Noche en el autocine, concierto de los Solfamidas, la feria o el circo llega al barrio.|
 |5|**Visitas:** Reciben visitas de parientes del pueblo, de un nabuco de intercambio de un país muy lejano, hacen de niñeras de unos nabuquitos, …|
-|6|**Ruin de tiempos pretéritos:** Los nabucos encuentran algo realmente antiguo que no comprenden y que deben investigar para qué es. Quizás es un proyector de películas de Super8, un teléfono de dial o un tragabolas.|
+|6|**Ruin de tiempos pretéritos:** Los nabucos encuentran algo realmente antiguo que no comprenden y que deben investigar para qué es. Quizás es un proyector de películas de Super 8, un teléfono de dial o un tragabolas.|
 |7|**Fantasmas:** algo que para nosotros es normal, los nabuco lo toman como algo del más allá, fantasmas, psicofonías, caras en las paredes que en realidad han pintado los niños de la casa con rotuladores en la pared.|
 |8|**Cambios en la casa:** Hay obras en la casa donde viven los nabucos o, quizás, una mudanza con los cambios que supone que se vaya gente y que venga gente nueva y desaparezcan unas cosas y aparezcan otras diferentes.|
 
@@ -307,7 +307,7 @@ Estas semillas están pensadas considerando que tus nabucos viven en un macetero
 |2|Hay obras en el barrio, reasfaltar las calles, obras del metro, fuga de agua, reparan las aceras. Al final es mucho ruido, mucho movimiento de persona y vehículos, montones de grava, excavadoras, cemento fresco, …|
 |3|Llueve, todo es peor si llueve.|
 |4|Las letras y los números se han escapado de la librería y todo está lleno de marionetas de letras y números saltando y corriendo por todas partes y gente intentando atraparlas.|
-|5|Todos o casi todos los nabucos tienen _gripe nabuca_, eso supone estornudos, hipos, toses, pedos incontrolados.|
+|5|Todos o casi todos los nabucos tienen _gripe nabucodonosora_, eso supone estornudos, hipos, toses, pedos incontrolados.|
 |6|Es festivo nacional y todo está cerrado, o hay un gran evento y todo el mundo ha ido a verlo o está en casa delante del TV. Las calles están desiertas y los nabucos se temen lo peor.|
 |7|Invasión de monstruos, algo pasa que todas las marionetas monstruosas están muy activas. Se dedican a dar sustos a todo el mundo, incluso a los pequeños nabucos.|
 |8|Las calles están nevadas y el suelo helado y resbaladizo. Las terrazas están llenas de nieve y de los alféizares caen carámbanos.|
@@ -508,9 +508,9 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 
 Algunas ideas para el trueque:
 
-* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Pueden hacer un yo-yo con chapas y cuerdas de sus nabucos bjetos actuales y decirle puede usarlo en su casa con ascensor.
-* El robot aspidor le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
-* Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estupido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
+* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa con ascensor.
+* El robot aspidora le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estúpido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
 Recuerda que incluso con un éxito crítico seguirán perdiendo lo que ofrezcan. Con éxitos menores podrían perder equipo extra.
@@ -558,9 +558,9 @@ XXX
 
 La sala de estar da acceso al balcón y desde el balcón se puede entrar en la cocina, que es el objetivo final. Lo más destacable del balcón es que hay un cajón de arena para el gato gigantesco. A ojos de lo nabucos es casi un desierto.
 
-A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza o eso dice el vendedor, en realidad son libros de colorear de oso guarda forestal de la prevención de incendios, pero en los dibujo se le ve haciendo fuego, hablando con un lobo y sofocando un fuego. 
+A la entrada del desierto hay un puesto que vende mapas del cajón de arena y libros de supervivencia en la naturaleza o eso dice el vendedor, en realidad son libros de colorear de oso guarda forestal de la prevención de incendios, pero en los dibujos se le ve haciendo fuego, hablando con un lobo y un lince y sofocando un fuego. 
 
-El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con el y de paso 
+El vendedor les dirá que en el centro del desierto hay un sabio asceta que responde a tus preguntas, no dice nada de que tenga sentido lo que te responda o que sea verdad. Igual deberían aprovechar a hablar con él y de paso 
 
 Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático y pesado: ¿Hemos llegado ya?, Tengo sed, ¿Cuándo llegamos?, ¿Nos hemos muerto ya?, ... El líder, si hay, debería tratar de convencer al resto de que sigan adelante. Si quieren obtener ventaja, mejor que se invente alguna chorrada como que en realidad es una playa y al otro lado de la arena está el mar.
 
@@ -586,6 +586,13 @@ XXX
 
 **Momentos inolvidables:** Montarse en el aspersor durante el aclarado, fiesta de la espuma en el lavado, tirarse por el tobogán de tapas
 
+### Otras ideas
+
+Si quieres alargar el viaje, porque tus jugadores están pasándolo bien (o eso te dicen cuando sacas tu machete), puedes meter más localizaciones. Aquí tienes alguna ideas.
+
+* **El museo internacional del queso.** No es un museo de quesos del mundo, literalmente es un trozo enorme de queso en la quesera de la cocina. Lo bueno es que tiene exposiciones itinerantes y cada semana cambian de queso.
+* **Autocine más grande del mundo.** Los humanos de la casa han comprado un pantallón de televisión y proporcionalmente para los nabucos es el cine más grande que han visto. Lo malo es que solo ponen documentales hablando de las cosas raras que hacen los humanos.
+* **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Albert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
 
 
 

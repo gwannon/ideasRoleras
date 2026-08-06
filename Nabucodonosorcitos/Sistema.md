@@ -41,7 +41,7 @@ Si saca un 12 (11 + 7), es un éxito total, el robot sigue el camino y acaba en 
 
 #### Ventaja
 
-La ventaja te la otorga EPI, si considera que tú idea es muy tonta y digna de un nabuco. Aunque parezca una contradicción, normalmente cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
+La ventaja te la otorga EPI, si considera que tu idea es muy tonta y digna de un nabuco. Aunque parezca una contradicción, normalmente cuanto más tonto es lo que piensen hacer, más fácil será hacerlo.
 
 El problema de la ventaja es que las consecuencias de planes muy tontos podrían ser muy locas.
 
@@ -86,7 +86,7 @@ Arquetipos:
 
 Los nabucos son gregarios y se mueven en grupo con lo que deberéis decidir que os une a todos los PJ. 
 
-En Barrio Sésamo eran todos familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, …
+En Barrio Sésamo eran todos una familia, pero podéis ser lo que os venga en gana, amigos, compañeros de trabajo o de colegio, del mismo equipo deportivo, …
 
 A lo largo de las aventuras hay tiradas personales y grupales. Las personales deberán hacerlas cada nabuco la suya y sufrirán las consecuencias personalmente. Las grupales se hace una para todos y todos sufren disfrutan el éxito o el fracaso.
 
