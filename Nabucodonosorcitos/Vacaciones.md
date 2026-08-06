@@ -124,11 +124,25 @@ Escondido detrás del aseo, hay un típico hotel de carretera donde los bungalow
 
 El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. El motel tiene una piscina, el propio aseo que está lleno de agua. Pueden lanzarse desde el grifo y subir por la cadena del tapón. También hay un pozo de fuego en el centro de los _teepees_ para asar malvavisco y disfrutar de las llamas.
 
-Nor es poco hablador lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
+Nor es poco hablador y bastante tímido. El problema al que se van a enfrentar tus jugadores por la noche es que Nor se pone un traje de señora mayor de los 60 y una peluca canosa y empieza a hacer cosas raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
 
-XXX
+Cosas que hará durante la noche y/o que pueden descubrir.
 
-**Recuerdos y regalos:** Toallas y albornoces del motel, gofrera del buffet de desayuno, llavero de las llaves del motel
+* Rondará alrededor del _teepee_ y dejará que su silueta con una piruleta de cereza se vea a través de la cortina de baño que forman el _teepee_. Mientras tararea algo como chin-chin-chin. Si salen, Nor habrá desaparecido, pero la piruleta estará en el felpudo con un lacito de regalo en el felpudo.
+* Si se duchan, el agua enseguida se tornará roja (y dulce si la prueba) porque Nor está echando sirope de fresa en el suministro. El problema es que el sirope es muy pegajoso y, si encima eres una marioneta, es todavía más difícil quitárselo. 
+* Llamará por el teléfono de envases de yogur e hilo a la habitación y hará ruidos raros. En realidad se está haciendo unas palomitas al microondas y le da corte hablar.
+* En el buffet de desayuno, habrá carteles en todos los alimentos que ponen «No está envenenado». Los carteles no mienten, pero acojonan un rato. Recuerda que nadie se puede resistir a un buffet de desayuno aunque sepan que hay un asesino en serie cerca. De hecho si intentan irse en mitad de la noche, recuérdales que está oscuro y que se perderán el buffet de desayuno y Nor dijo que había gofres y tortitas.
+* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huespedes como hacen en las atracciones de los parques temáticos.
+
+\sp
+
+* Si van a la piscina, ha dejado un muñeco hecho de papel y cola flotando boca abajo en el agua que parece que está ahogándose.
+
+Realmente en esta parte de la aventura, no hay que superar ningún reto, pero será divertido ponerles en alguna de las situaciones ridículas e hilarantes y verles correr agitando las manos de un lugar a otro.
+
+Si tratan de encontrarlo y pedirle explicaciones, no estará en ningún sitio, hasta que decidan irse y lo verán a través de la ventana del bungalow. Allí le encontrarán sentado en una mecedora con el vestido de señora mayor y la peluca canosa. Les explicará que todo es su estrategia de _mercaderías_ y les pedirá que le dejen una buena reseña cuando se vayan.
+
+**Recuerdos y regalos:** Toallas y albornoces del motel, gofrera del buffet de desayuno, llavero de las llaves del motel, piruleta de cereza
 
 **Momentos inolvidables:** Tirarse a la piscina haciendo bomba, esquivar las cuchilladas de Nor, atiborrarse en el buffet de desayuno
 
@@ -144,8 +158,6 @@ El vendedor les dirá que en el centro del desierto hay un sabio asceta que resp
 
 Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático y pesado: ¿Hemos llegado ya?, Tengo sed, ¿Cuándo llegamos?, ¿Nos hemos muerto ya?, ... El líder, si hay, debería tratar de convencer al resto de que sigan adelante. Si quieren obtener ventaja, mejor que se invente alguna chorrada como que en realidad es una playa y al otro lado de la arena está el mar.
 
-\sp
-
 Si se empeñan en llevar su coche, pues hacer que se entierre en la arena cada vez que se monten (por el peso) y que cuando bajen a empujar vuelva poder moverse porque ya no pesa tanto y así todo el rato.
 
 En el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. Cuando se lo encuentren irá desnudo, cosas que es chocante porque tus nabucos también (como mucho llevan sombreros para el sol o pañuelos para taparse la cara de la arena del desierto), pero él parece más desnudo en general.
@@ -155,6 +167,8 @@ XXX
 **Recuerdos y regalos:** Arena del desierto (está aromatizada), zurullo de broma (no es de broma), atrapasueños que vende Zunk
 
 **Momentos inolvidables:** Recibir la sabiduría de Zunk, encontrar agua amarilla, aprender supervivencia
+
+\sp
 
 ### El parque acuático
 
