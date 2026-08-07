@@ -600,7 +600,36 @@ Cada nabuco podrá hacerle una pregunta a Zunk y se la contestará con otra preg
 
 **Cocina**
 
-XXX
+Por fin han llegado al final de su viaje, su deseado destino, el lugar donde los dueños se convierten en realidad, el Whirlpool, el mejor y más nuevo parque acuático del edificio.
+
+Cuando se acerquen al lavavajillas empezarán a oír música divertida (la música del lavavajillas al terminar un lavado) y a más nabucos acercándose como ellos que quieren divertirse en las atracciones del parque.
+
+Cuando intenten entrar, los nabucos de la entrada no les dejarán entrar por alguna razón. Puede que sus entradas sean para el Whirlpool del piso de abajo, puede que hayan superado el aforo del parque, ha habido algún incidente fecal, etc. Así que deberán colarse o volver tristes y cabizbajos a su casa.
+
+
+
+Cómo colarse:
+
+* Distraer a les guardies es una opción, pero entonces alguien se quedará fuera y eso es de mala gente.
+* Seducir a les vigilantes es parecido al anterior y si lo hacen bien incluso podrían colarse todos.
+* Hacerse pasar por los de mantenimiento, podría funcionar, si supieran cómo van los de mantenimiento.
+* Colarse por el cajetín del detergente a lo John Maclean puede ser una aventura interesante.
+* Disfrazarse de cazuelas y cubiertos sucios y quedarse en fregadero para que los humanos los metan en el lavavajillas pueden acabar mal, exactamente en el cubo de la basura.
+
+> En caso de discusión sobre alguna opción y si hay un lavavajillas en casa, os levantáis y lo discutís delante del lavavajillas.
+
+Una vez dentro puedes hablarles de las cosas que pueden hacer dentro como:
+
+* Subirse a los aspersores giratorios de agua mientras giran.
+* Esconderse en la espuma del detergente.
+* Atravesar las salas de espejos que crean los vasos y tazas de cristal.
+* Deslizarse con si fueran toboganes por cazuelas, fuentes y platos. Están mojados así que están resbaladizos.
+
+Deberían aprovechar a deshacerse de su equipo y recuerdos inútiles y llenarlos de recuerdos y memorias del parque, que era el que objetivo del viaje.
+
+Y volver volverán en un ratito a su macetero, total están casi al lado de la ventana donde tienen su macetero.
+
+
 
 **Recuerdos y regalos:** Pastilla de detergente, tapa de plástico usada como flotador o tabla de surf (y así los humanos tendrán un táper sin tapa, igual que pasa con los calcetines), pegatinas promocionales de Whirlpool
 

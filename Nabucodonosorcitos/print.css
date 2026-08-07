@@ -14,6 +14,13 @@ body {
   font-size: 16px;
 }
 
+body#NabucodonosorcitosBW {
+  --color-yellow: #959595;
+  --color-green: #b3b3b3;
+  --color-black: #000;
+  background-image: none;
+}
+
 body:before {
   content: "";
   display: block;
@@ -37,6 +44,11 @@ body:after {
   right: 0px;
   /*Aqui gestionamos el diseño del borde*/
   background: transparent url(./images/border2.png) top right repeat-y;
+}
+
+body#NabucodonosorcitosBW:before,
+body#NabucodonosorcitosBW:after {
+  display: none;
 }
 
 body > * {
@@ -152,6 +164,10 @@ h1 {
   width: calc(100% - 4px);
 }
 
+body#NabucodonosorcitosBW h1 {
+  background-image: url(./images/titularbw.png);
+}
+
 h1 > a {
   display: block;
   text-align: center;
@@ -204,6 +220,11 @@ h2 + p,
 h3 + p,
 h4 + p {
   margin-top: 0px;
+}
+
+body#NabucodonosorcitosBW *:is(h1, h2, h3, h4) {
+  color: var(--color-black);
+  text-shadow: none;
 }
 
 /* Otros elementos */
@@ -264,6 +285,10 @@ table tbody tr:nth-child(even) {
 
 img {
   width: 100%;
+}
+
+body#NabucodonosorcitosBW img {
+  filter: grayscale(1);
 }
 
 h3 + p img {

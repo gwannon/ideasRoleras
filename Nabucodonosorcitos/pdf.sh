@@ -6,3 +6,11 @@ pdftk './temp.pdf' update_info_utf8 './Nabucodonosorcitos.txt' output '../Nabuco
 #rm ./Nabucodonosorcitos.html
 rm ./Nabucodonosorcitos.txt
 rm ./temp.pdf
+
+php ./generateDocs.php NabucodonosorcitosBW
+chromium --no-sandbox --headless --gpu --no-pdf-header-footer --print-to-pdf=./temp.pdf ./NabucodonosorcitosBW.html
+pdftk './temp.pdf' update_info_utf8 './NabucodonosorcitosBW.txt' output '../NabucodonosorcitosBW.pdf' compress
+rm ./NabucodonosorcitosBW.html
+rm ./NabucodonosorcitosBW.txt
+rm ./temp.pdf
+rm ./AccNabucodonosorcitosBW.md
