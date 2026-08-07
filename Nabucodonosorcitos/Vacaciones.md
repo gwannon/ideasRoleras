@@ -28,7 +28,7 @@ De hecho, si la historia suena muy chunga mejor, para que tus jugadores piensen 
 
 Como todo viaje habrá que conseguir **regalos para amigos y familiares** y tener **bonitos recuerdos** que contar en las reuniones.
 
-Eso quiere decir que deberán **ocupar sus brazos con regalos y sus antenas con recuerdos** del viaje. Según avancen, estos recursos serán más escasos y deberán que decidir que recordar, que olvidar, que recoger y de que deshacerse.
+Eso quiere decir que deberán **ocupar sus brazos con regalos y sus antenas con recuerdos** del viaje. Según avancen, estos recursos serán más escasos y deberán decidir qué recordar, qué olvidar, qué recoger y de qué deshacerse.
 
 En cada etapa de su viaje hay listados de recuerdos que pueden obtener y bellos recuerdos que atesorar.
 
@@ -49,7 +49,7 @@ Ideas de las cosas que pueden hacer:
 
 **Pasillo**
 
-La idea de esta parte es que tus jugadores se hagan con el sistema, así que puedes ponerles un reto divertido como un robot aspiradora que está limpiando el pasillo.
+La idea de esta parte es que tus jugadores se hagan con el sistema, así que puedes ponerles un reto divertido como un robot aspirador que está limpiando el pasillo.
 
 Cada vez que intentar atravesar el pasillo el robot se acerca y tienen que retroceder, porque si no, se tragara si automóvil.
 
@@ -89,7 +89,7 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 Algunas ideas para el trueque:
 
 * El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa con ascensor.
-* El robot aspidora le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* El robot aspidor le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
 * Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estúpido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
@@ -132,7 +132,7 @@ Cosas que hará durante la noche y/o que pueden descubrir.
 * Si se duchan, el agua enseguida se tornará roja (y dulce si la prueba) porque Nor está echando sirope de fresa en el suministro. El problema es que el sirope es muy pegajoso y, si encima eres una marioneta, es todavía más difícil quitárselo. 
 * Llamará por el teléfono de envases de yogur e hilo a la habitación y hará ruidos raros. En realidad se está haciendo unas palomitas al microondas y le da corte hablar.
 * En el buffet de desayuno, habrá carteles en todos los alimentos que ponen «No está envenenado». Los carteles no mienten, pero acojonan un rato. Recuerda que nadie se puede resistir a un buffet de desayuno aunque sepan que hay un asesino en serie cerca. De hecho si intentan irse en mitad de la noche, recuérdales que está oscuro y que se perderán el buffet de desayuno y Nor dijo que había gofres y tortitas.
-* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huespedes como hacen en las atracciones de los parques temáticos.
+* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huéspedes como hacen en las atracciones de los parques temáticos.
 
 \sp
 
@@ -193,7 +193,7 @@ Cómo colarse:
 * Distraer a les guardies es una opción, pero entonces alguien se quedará fuera y eso es de mala gente.
 * Seducir a les vigilantes es parecido al anterior y si lo hacen bien incluso podrían colarse todos.
 * Hacerse pasar por los de mantenimiento, podría funcionar, si supieran cómo van los de mantenimiento.
-* Colarse por el cajetín del detergente a lo John Maclean puede ser una aventura interesante.
+* Colarse por el cajetín del detergente a lo John McClane puede ser una aventura interesante.
 * Disfrazarse de cazuelas y cubiertos sucios y quedarse en fregadero para que los humanos los metan en el lavavajillas pueden acabar mal, exactamente en el cubo de la basura.
 
 > En caso de discusión sobre alguna opción y si hay un lavavajillas en casa, os levantáis y lo discutís delante del lavavajillas.

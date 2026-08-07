@@ -1,10 +1,10 @@
-«Hay nabucodonosorcitos en mi macetero» es un **mini-juego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodonosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
+«Hay nabucodonosorcitos en mi macetero» es un **minijuego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodonosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
 
 Para jugar necesitáis **papel, lápiz, 1 dado de 8 caras (d8), otro de 12 caras (d12)** y también **dejar el cerebro en casa** porque en este juego no lo vais a necesitar.
 
 > Les DJ se llaman EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) se queda mirando embobado las tonterías que hacen los nabucos que viven en su macetero, más o menos lo que hará vuestre DJ al veros jugar.
 
-Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
+Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente, deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
 
 ## Sistema
 

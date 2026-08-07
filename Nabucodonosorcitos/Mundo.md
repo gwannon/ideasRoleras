@@ -54,7 +54,7 @@ Cuando describas lo que rodea a los nabucos tienes que hacerlo desde su perspect
 
 Los nabucos son plenamente conscientes de los humanos y las marionetas, pero lo que hacen no es interesante para ellos y por ellos no suelen interactuar con ellos. Los consideran gigantes que se mueven y cambian las cosas de sitio.
 
-Los humanos como Epi los consideran interesantes de observar, porque sus aventuras son muy divertidas. Normalmente no les hacen nada y como son marionetas no los encuentran repulsivos y tratan de pisarlos como harían con, por ejemplo, las cucarachas.
+Los humanos como Epi los consideran interesantes de observar, porque sus aventuras son muy divertidas. Normalmente, no les hacen nada y como son marionetas no los encuentran repulsivos y tratan de pisarlos como harían con, por ejemplo, las cucarachas.
 
 ### Experiencia, suerte y otras cosas que tienen los juegos de rol y que este no tiene
 

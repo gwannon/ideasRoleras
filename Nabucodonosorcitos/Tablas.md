@@ -127,7 +127,7 @@ La lluvia y los nabucos no se llevan bien, pero lluvia localizada que va y viene
 
 \sp
 
-Además, las zonas de aspersores se convierten en lúgrebes pantanos y suelen a atraer a mascotas peludas que juegan con el agua.
+Además, las zonas de aspersores se convierten en lúgubres pantanos y suelen a atraer a mascotas peludas que juegan con el agua.
 
 #### Fauna urbana
 
@@ -137,11 +137,11 @@ Una de esas palomas, medio coja, con las plumas espelurciadas y que te mira raro
 
 #### Juguetes
 
-Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizas se vuelvan amigos, porque los dos son igual de ingenuos.
+Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizás se vuelvan amigos, porque los dos son igual de ingenuos.
 
 Imagínate que entras en una casa de muñecas y todo está a tu escala y es usable, pero no vive nadie en ella y falta la pared frontal de todas las habitaciones. Y las modernas con luces, música, e incluso mini-leds que se enciende y apagan solos. Es como tener una casa encantada.
 
-O quizas encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
+O quizás encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
 
 \sc
 

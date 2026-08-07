@@ -6,13 +6,13 @@
 
 
 
-«Hay nabucodonosorcitos en mi macetero» es un **mini-juego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodonosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
+«Hay nabucodonosorcitos en mi macetero» es un **minijuego de rol** para **1 DM y hasta 4 jugadores**. En este juego seréis unos nabucodonosorcitos (nabucos para abreviar), unos **insectos «inteligentes»** que viven en Barrio Sésamo en los maceteros y las macetas de las casas.
 
 Para jugar necesitáis **papel, lápiz, 1 dado de 8 caras (d8), otro de 12 caras (d12)** y también **dejar el cerebro en casa** porque en este juego no lo vais a necesitar.
 
 > Les DJ se llaman EPI, ya que en los sketches donde se cuentan las historias de los nabucos, Epi (de Epi y Blas) se queda mirando embobado las tonterías que hacen los nabucos que viven en su macetero, más o menos lo que hará vuestre DJ al veros jugar.
 
-Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
+Mientras que en otras ambientaciones de seres pequeños, estos suelen ser pequeños, listos y hábiles con las manos, los nabucos son totalmente distintos, son tontos, realmente tontos. Evolutivamente, deberían estar extintos, pero por alguna razón sobreviven, por muchas tonterías que hagan.
 
 ## Sistema
 
@@ -181,7 +181,7 @@ Cuando describas lo que rodea a los nabucos tienes que hacerlo desde su perspect
 
 Los nabucos son plenamente conscientes de los humanos y las marionetas, pero lo que hacen no es interesante para ellos y por ellos no suelen interactuar con ellos. Los consideran gigantes que se mueven y cambian las cosas de sitio.
 
-Los humanos como Epi los consideran interesantes de observar, porque sus aventuras son muy divertidas. Normalmente no les hacen nada y como son marionetas no los encuentran repulsivos y tratan de pisarlos como harían con, por ejemplo, las cucarachas.
+Los humanos como Epi los consideran interesantes de observar, porque sus aventuras son muy divertidas. Normalmente, no les hacen nada y como son marionetas no los encuentran repulsivos y tratan de pisarlos como harían con, por ejemplo, las cucarachas.
 
 ### Experiencia, suerte y otras cosas que tienen los juegos de rol y que este no tiene
 
@@ -383,7 +383,7 @@ La lluvia y los nabucos no se llevan bien, pero lluvia localizada que va y viene
 
 
 
-Además, las zonas de aspersores se convierten en lúgrebes pantanos y suelen a atraer a mascotas peludas que juegan con el agua.
+Además, las zonas de aspersores se convierten en lúgubres pantanos y suelen a atraer a mascotas peludas que juegan con el agua.
 
 #### Fauna urbana
 
@@ -393,11 +393,11 @@ Una de esas palomas, medio coja, con las plumas espelurciadas y que te mira raro
 
 #### Juguetes
 
-Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizas se vuelvan amigos, porque los dos son igual de ingenuos.
+Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizás se vuelvan amigos, porque los dos son igual de ingenuos.
 
 Imagínate que entras en una casa de muñecas y todo está a tu escala y es usable, pero no vive nadie en ella y falta la pared frontal de todas las habitaciones. Y las modernas con luces, música, e incluso mini-leds que se enciende y apagan solos. Es como tener una casa encantada.
 
-O quizas encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
+O quizás encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
 
 
 
@@ -448,7 +448,7 @@ De hecho, si la historia suena muy chunga mejor, para que tus jugadores piensen 
 
 Como todo viaje habrá que conseguir **regalos para amigos y familiares** y tener **bonitos recuerdos** que contar en las reuniones.
 
-Eso quiere decir que deberán **ocupar sus brazos con regalos y sus antenas con recuerdos** del viaje. Según avancen, estos recursos serán más escasos y deberán que decidir que recordar, que olvidar, que recoger y de que deshacerse.
+Eso quiere decir que deberán **ocupar sus brazos con regalos y sus antenas con recuerdos** del viaje. Según avancen, estos recursos serán más escasos y deberán decidir qué recordar, qué olvidar, qué recoger y de qué deshacerse.
 
 En cada etapa de su viaje hay listados de recuerdos que pueden obtener y bellos recuerdos que atesorar.
 
@@ -469,7 +469,7 @@ Ideas de las cosas que pueden hacer:
 
 **Pasillo**
 
-La idea de esta parte es que tus jugadores se hagan con el sistema, así que puedes ponerles un reto divertido como un robot aspiradora que está limpiando el pasillo.
+La idea de esta parte es que tus jugadores se hagan con el sistema, así que puedes ponerles un reto divertido como un robot aspirador que está limpiando el pasillo.
 
 Cada vez que intentar atravesar el pasillo el robot se acerca y tienen que retroceder, porque si no, se tragara si automóvil.
 
@@ -509,7 +509,7 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 Algunas ideas para el trueque:
 
 * El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa con ascensor.
-* El robot aspidora le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* El robot aspidor le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
 * Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estúpido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
@@ -552,7 +552,7 @@ Cosas que hará durante la noche y/o que pueden descubrir.
 * Si se duchan, el agua enseguida se tornará roja (y dulce si la prueba) porque Nor está echando sirope de fresa en el suministro. El problema es que el sirope es muy pegajoso y, si encima eres una marioneta, es todavía más difícil quitárselo. 
 * Llamará por el teléfono de envases de yogur e hilo a la habitación y hará ruidos raros. En realidad se está haciendo unas palomitas al microondas y le da corte hablar.
 * En el buffet de desayuno, habrá carteles en todos los alimentos que ponen «No está envenenado». Los carteles no mienten, pero acojonan un rato. Recuerda que nadie se puede resistir a un buffet de desayuno aunque sepan que hay un asesino en serie cerca. De hecho si intentan irse en mitad de la noche, recuérdales que está oscuro y que se perderán el buffet de desayuno y Nor dijo que había gofres y tortitas.
-* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huespedes como hacen en las atracciones de los parques temáticos.
+* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huéspedes como hacen en las atracciones de los parques temáticos.
 
 
 
@@ -613,7 +613,7 @@ Cómo colarse:
 * Distraer a les guardies es una opción, pero entonces alguien se quedará fuera y eso es de mala gente.
 * Seducir a les vigilantes es parecido al anterior y si lo hacen bien incluso podrían colarse todos.
 * Hacerse pasar por los de mantenimiento, podría funcionar, si supieran cómo van los de mantenimiento.
-* Colarse por el cajetín del detergente a lo John Maclean puede ser una aventura interesante.
+* Colarse por el cajetín del detergente a lo John McClane puede ser una aventura interesante.
 * Disfrazarse de cazuelas y cubiertos sucios y quedarse en fregadero para que los humanos los metan en el lavavajillas pueden acabar mal, exactamente en el cubo de la basura.
 
 > En caso de discusión sobre alguna opción y si hay un lavavajillas en casa, os levantáis y lo discutís delante del lavavajillas.
