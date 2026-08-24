@@ -33,14 +33,25 @@ XXX
 
 Tira un dado por cada miembro del equipo de trabajo y asígnales al azar los objetos. Si por caprichos del destino sale el mismo resultado varias veces, repite la tirada, siempre que lo creas adecuado.
 
-|1d6|Recursos materiales y de personal requeridos|
+|1d6|Recursos materiales|
 |---|---|
-|1|XXX|
+|1|**Paraguas olvidado a través del tiempo y el espacio:** Alguien lo dejo en el paragüero de la entrada de las oficinas cuando R'lyeh no estaba sumergida y de vez en cuando alguien lo coge porque se ha dejado el suyo en casa. A veces el empleado que lo cogió lo devuelve y a veces aparece él solo y casi siempre el empleado que lo tomo prestado no vuelve a aparecer. La verdad que es bastante bueno aunque no queda claro de qué material está hecho el forro. Además, tiene una punta afilada de oricalco que le da un toque elegante.|
 |2|**Galletas de mantequilla de la meseta de Leng:** Otro compañero de trabajo estuvo en la meseta de Leng y trajo sus típicas galletas de mantequilla. La leche con la que hicieron la mantequilla no sabes de qué animal la sacaron, pero ni los gerentes se pueden resistir a pillar una cuando nadie les mira.|
-|3|XXX|
+|3|**Pisapapeles resplandeciente en forma de trapezoedro:** XXX|
 |4|**Escuadra y cartabón:** XXX. Perfecto para atrapar a sabuesos de Tíndalos.|
 |5|**Cápsulas de hidromiel espacial para cafeteras Nyarlaspresso™:** Prepárate una rica taza de hidromiel espacial que te permitirá soportar los rigores del viaje especial, pero asegúrate de que la cafetera tenga agua en el depósito antes, que todo se hacen café, tés e infusiones de loto negro y nadie la rellena después.|
 |6|**Sello de caucho con símbolo arcano:** Todo lo que necesite ser sellado y lo selles con este sello quedará perfectamente sellado por eones.|
+
+Luego puedes tirar otro dado para ver si se le asigna al equipo de trabajo personal adicional.
+
+|1d6|Personal asignado adicional|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
 
 > Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre, vísceras y demás icores y humores es motivo de falta menor, a no ser que se le entregará en esas condiciones. En esas circunstancias, entregarlo limpio y reluciente sería la causa de la falta menor.
 
@@ -98,12 +109,12 @@ XXX
 |1|XXX|
 |2|XXX|
 |3|XXX|
-|4|XXX|
+|4|**¡Sindicación!:** Corre entre otros empleados de la empresa el rumor de que se está creando un sindicato. XXX|
 |5|XXX|
 |6|XXX|
 |7|XXX|
 |8|XXX|
-|9|XXX|
+|9|**Despidos masivos:** Debes informar a diferentes personas y entidades del departamento ya no son necesarias para la empresa. Deberás entregar a cada uno de ellos su finiquito y conseguir que lo firmen. XXX|
 |10|XXX|
 
 ## Licencia
