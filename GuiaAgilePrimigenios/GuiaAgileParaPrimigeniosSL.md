@@ -89,9 +89,9 @@ XXX
 
 |1d8|Localización|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
+|1|Sede grande como Nueva York, Londres, El Cairo, Hong Kong o Nairobi|
+|2|Sede pequeña como Misk, XXX|
+|3|Sede en el fin del mundo como la estación polar de investigación «Burocracia Central», XXX|
 |4|XXX|
 |5|XXX|
 |6|XXX|
@@ -106,16 +106,16 @@ XXX
 
 |1d10|Actividades y objetivos|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
+|1|**XXX:** XXX|
+|2|**XXX:** XXX|
+|3|**XXX:** XXX|
 |4|**¡Sindicación!:** Corre entre otros empleados de la empresa el rumor de que se está creando un sindicato. XXX|
-|5|**Grimorios traspapelados:** a A pesar de las pegatinas de peligro, de las cadenas oxidadas que impiden de que se abra y del cuero bueno bueno de _cerdo blanco_, alguien ha sacado un grimorio maldito y acabado en una cápsula de los tubos de mensajería de la sede. Tendrán que encontrar quien lo metió a quien se lo envió y recuperarlo. Eso supone interactuar con los carteros, una raza de seres ominosos y reptilianos que viven en las plantas subterráneas. XXX|
+|5|**Grimorios traspapelados:** a A pesar de las pegatinas de peligro, de las cadenas oxidadas que impiden de que se abra y del cuero bueno bueno de _cerdo blanco_, alguien ha sacado un grimorio maldito y acabado en una cápsula de los tubos de mensajería de la sede. Tendrán que encontrar quien lo metió a quien se lo envió y recuperarlo. Eso supone interactuar con los karteros, una raza de seres ominosos y reptilianos que viven en las plantas subterráneas.|
 |6|**Se acabó el tóner de la impresora:** Un becario de la gran raza de Sith ha fotocopiado por error, pensando que es un memorándum interno, un grimorio maldito y ya dejado una copia en cada puesto de la planta. Alguien tendrá que recogerlos todos, enfrentándose a las entidades fotocopiadas y bidimensionales que puedan protegerlas, y luego exorcizar la fotocopia de todo ser intradimensional que pueda atascarla. Qué se atasque obligaría a llamar al servicio técnico que es mucho peor que nada de esta y otras dimensiones. Afortunadamente el becario ha sido debidamente «amonestado» y no debes encargarte de ese tema.|
 |7|**Aterrizaje de nuevos empleados:** XXX|
 |8|**Cumple-eclipse de un gerente:** Hoy es el 34.576x10²⁰⁰ cumple-eclipse de uno de los gerentes y aunque han tenido 400 años para avisarte, lo han hecho justo hoy. Tendrás que saber que sacrificios humanos o inhumanos debes hacer, cuál es el sabor de tarta preferido, poner adornos arcanos adecuados y, sobre todo, conseguir que la pastelería escriba correctamente su nombre en la tarta.|
 |9|**Despidos masivos:** Debes informar a las diferentes personas y entidades del departamento que sus habilidades y atributos ya no son necesarios para la empresa. Deberás entregar a cada uno de ellos su finiquito y conseguir que lo firmen. XXX|
-|10|XXX|
+|10|**XXX:** XXX|
 
 ## Licencia
 
