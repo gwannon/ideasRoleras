@@ -56,14 +56,14 @@ XXX
 
 XXX
 
-|1d6|Sectores de actividad|
+|1d6|Sectores de actividad de la sede|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|1|**Sector primario:** XXX|
+|2|**Armas y munición:** Lo curioso de este sector es que se dedican a las armas o la munición, nunca a las dos cosas a la vez. Es cosa de que en la sede central un empleado que sabía latín y griego clasico clasifico las Armas en la «a» y la Munición en «µ» (mu en el alfabeto griego).|
+|3|**Tratamiento de residuos:** XXX|
+|4|**Turismo interdimensional:** XXX|
+|5|**Enología y alimentos gourmet:** En este caso la sede será una bodega de vino de retrouvas, un matadero de zurglus de vientos solares, planta de procesado de miel de abejas de la brecha. Lo bueno es que cuando te vayas, si has hecho un buen trabajo, te llevas muestras gratis.|
+|6|**Material de oficina:** papel, clips, bolígrafos, sellos de caucho, muñecos vudú de clientes y proveedores, regalos promocionales de tus deidades primigenias favoritas, cinta americana para cerrar grietas en la realidad|
 
 ## Apartado 5. Internacionalización y extradimensionalización
 
@@ -73,10 +73,10 @@ XXX
 
 |1d8|Localización|
 |---|---|
-|1|Sede grande como Nueva York, Londres, El Cairo, Hong Kong o Nairobi|
-|2|Sede pequeña como Misk, XXX|
-|3|Sede en el fin del mundo como la estación polar de investigación «Burocracia Central», XXX|
-|4|XXX|
+|1|**Sede grande** como Nueva York, Londres, El Cairo, Hong Kong o Nairobi|
+|2|**Sede pequeña** como Misk en Bielorrusia (donde mandaron a un novio de Phoebe), Benidorm en España (pero solo fuera de temporada alta que es muy caro) o Akureyri en Islandia|
+|3|**Sede en el fin del mundo** (o en el culo del mundo, según los empleados de cada centro) como la estación polar de investigación «Burocracia Central», centro de investigación sísmica «El tembleque» en Isla de los Estados en Tierra de Fuego o en el observatorio astrológico «Esperanza Gracia» en el archipiélago de Tristán de Acuña|
+|4|**Ciudades míticas** (pero con los alquileres de oficinas increíblemente baratas) como la Atlántida, Shangri-la, Aram-de-las-columnas o la ciudad sin nombre (en minúsculas, porque si estuviera en mayúsculas sería su nombre y entonces tendría nombre, entonces no sería sin nombre, ... en fin, ganas un punto de estrés)|
 |5|XXX|
 |6|XXX|
 |7|XXX|
