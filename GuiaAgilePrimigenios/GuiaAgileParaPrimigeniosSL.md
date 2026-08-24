@@ -20,12 +20,12 @@ XXX
 
 |1d6|Entidad primigenia y su departamento|
 |---|---|
-|1|Yr´Algryft, Director del Departamento de Recursos Antiguos e Inhumanos|
-|2|Fghrometh «el Oráculo de Zaigrath», Responsable de Márketing e Inversión|
-|3|Samuzzér´Ygrinn´dallagr, Responsable de Contabilidad|
-|4|Waylunor, Director de Control de Calidad y de Prevención de perdidas de cordura|
-|5|Tsatsatsa'astastast «el palindrómico», Gerente de XXX|
-|6|Bob, sin más, a secas, Guru del departamento de I+D+i (Invocaciones, Desmaterializaciones e impetraciones)|
+|1|**Yr´Algryft,** Director del Departamento de Recursos Antiguos e Inhumanos|
+|2|**Fghrometh «el Oráculo de Zaigrath»,** Responsable de Marketing e Inversión|
+|3|**Samuzzér´Ygrinn´dallagr,** Responsable de Contabilidad|
+|4|**Waylunor,** Director de Control de Calidad y de Prevención de perdidas de cordura|
+|5|**Tsatsatsa'astastast «el palindrómico»,** Gerente de XXX|
+|6|**Bob, sin más, a secas,** Guru del departamento de I+D+i (Invocaciones, Desmaterializaciones e impetraciones)|
 
 ## Apartado 2. Recursos materiales y de personal requeridos
 
@@ -110,11 +110,11 @@ XXX
 |2|XXX|
 |3|XXX|
 |4|**¡Sindicación!:** Corre entre otros empleados de la empresa el rumor de que se está creando un sindicato. XXX|
-|5|XXX|
-|6|XXX|
-|7|XXX|
-|8|XXX|
-|9|**Despidos masivos:** Debes informar a diferentes personas y entidades del departamento ya no son necesarias para la empresa. Deberás entregar a cada uno de ellos su finiquito y conseguir que lo firmen. XXX|
+|5|**Grimorios traspapelados:** a A pesar de las pegatinas de peligro, de las cadenas oxidadas que impiden de que se abra y del cuero bueno bueno de _cerdo blanco_, alguien ha sacado un grimorio maldito y acabado en una cápsula de los tubos de mensajería de la sede. Tendrán que encontrar quien lo metió a quien se lo envió y recuperarlo. Eso supone interactuar con los carteros, una raza de seres ominosos y reptilianos que viven en las plantas subterráneas. XXX|
+|6|**Se acabó el tóner de la impresora:** Un becario de la gran raza de Sith ha fotocopiado por error, pensando que es un memorándum interno, un grimorio maldito y ya dejado una copia en cada puesto de la planta. Alguien tendrá que recogerlos todos, enfrentándose a las entidades fotocopiadas y bidimensionales que puedan protegerlas, y luego exorcizar la fotocopia de todo ser intradimensional que pueda atascarla. Qué se atasque obligaría a llamar al servicio técnico que es mucho peor que nada de esta y otras dimensiones. Afortunadamente el becario ha sido debidamente «amonestado» y no debes encargarte de ese tema.|
+|7|**Aterrizaje de nuevos empleados:** XXX|
+|8|**Cumple-eclipse de un gerente:** Hoy es el 34.576x10²⁰⁰ cumple-eclipse de uno de los gerentes y aunque han tenido 400 años para avisarte, lo han hecho justo hoy. Tendrás que saber que sacrificios humanos o inhumanos debes hacer, cuál es el sabor de tarta preferido, poner adornos arcanos adecuados y, sobre todo, conseguir que la pastelería escriba correctamente su nombre en la tarta.|
+|9|**Despidos masivos:** Debes informar a las diferentes personas y entidades del departamento que sus habilidades y atributos ya no son necesarios para la empresa. Deberás entregar a cada uno de ellos su finiquito y conseguir que lo firmen. XXX|
 |10|XXX|
 
 ## Licencia
