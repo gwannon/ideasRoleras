@@ -12,29 +12,85 @@ Desde hace eones en los que la muerte puede morir la empresa ha integrado dinám
 
 XXX
 
+|1d6|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
 ## Departamentos involucrados
 
 XXX
+
+|1d6|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
 
 ## Recursos materiales y de personal requeridos
 
 XXX
 
-> Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre y vísceras es motivo de falta menor a no ser que se entregará en esas condiciones.
+|1d6|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
+> Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre, vísceras y demás icores y humores es motivo de falta menor, a no ser que se le entregará en esas condiciones. En esas circunstancias, entregarlo limpio y reluciente sería la causa de la falta menor.
 
 ## Entidad encargada del proyecto
 
 XXX
 
+|1d6|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
 ## Sectores de actividad de la empresa
 
 XXX
 
+|1d6|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+
 ## Internacionalización y extradimensionalización
 
-A día de hoy nuestra empresa se encuentra en proceso de internacionalización y extradimensionalizacion que puede hacer que sus tareas no se hagan en nuestras manos instalaciones primigenias, sino en algunas de nuestras sucursales internacionales o extradimensionales. 
+A día de hoy nuestra empresa se encuentra en proceso de internacionalización y extradimensionalización que puede hacer que sus tareas no se hagan en nuestras manos instalaciones primigenias, sino en algunas de nuestras sucursales internacionales o extradimensionales. 
 
 XXX
+
+|1d8|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+|7|XXX|
+|8|XXX|
 
 > Ciertas coberturas médicas o beneficios laborales pueden ser ampliadas o inhabilitadas según el destino al que se le envié sin perjuicio para la empresa. Le recordamos la cláusula de movilidad a dimensiones conocidas y desconocidas que firmó en su contrato laboral.
 
@@ -42,3 +98,15 @@ XXX
 
 XXX
 
+|1d10|XXX|
+|---|---|
+|1|XXX|
+|2|XXX|
+|3|XXX|
+|4|XXX|
+|5|XXX|
+|6|XXX|
+|7|XXX|
+|8|XXX|
+|9|XXX|
+|10|XXX|
