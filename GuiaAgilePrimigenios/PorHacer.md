@@ -1,19 +1,3 @@
-# Guía Agile para empleados de Primigenios S.L.
-
-En este memorándum interno creado por Primigenios S.L. (a partir de ahora la «empresa») pasamos a explicarle sucintamente la metodología Agile implementada dentro del proceso de trabajo y producción de nuestra empresa.
-
-Las acciones y métodos explicados en este documento son de obligado cumplimiento por los empleados de nuestra compañía durante el horario laboral espacio temporalmente flexible.
-
-Las incorrecciones en la aplicación de estos procedimientos podrán suponer desde avisos menores hasta destierros más allá del tiempo y el espacio, según la gravedad de la falta.
-
-## Metodología Agile
-
-Desde hace eones en los que la muerte puede morir la empresa ha integrado dinámicamente los métodos Agile, del cthulhunés original «Agiletp' nalb'th iterg» y que se traduce por «Hazlo bien, rápido y sin consumir muchos recursos de la empresa o te sacrificamos a tus gerentes».
-
-Para aplicar correctamente la metodología Agile a su jornada laboral en la empresa deberá seguir los siguientes apartados del 1 al 6 siguiendo dicho orden, lanzar en cada apartado el dado poliédrico adecuado y leer y aplicar el resultado obtenido. Si bien, por una mínima coherencia espacio-temporal, se permite volver a tirar en aquellos puntos cuyos resultados pudieran entrar en conflicto con otros resultados de otras tablas, cosa poco probable en un universo de infinitas posibilidades.
-
-> El uso de un dado incorrecto o de su caída fuera de su mesa será considerado una falta leve.
-
 ## Apartado 1. Departamentos involucrados
 
 XXX
@@ -105,9 +89,3 @@ XXX
 |8|XXX|
 |9|XXX|
 |10|XXX|
-
-## Licencia
-
-Creado por [Gwannon](https://gwannon.com) a partir de la obra original [Primigenios S.L.](https://fausto-rolero.itch.io/primigenios-sl) de [Fausto Rolero](https://bsky.app/profile/faustorolero.eurosky.social). Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/GuiaAgilePrimigenios)** todo el código fuente para usarlo a tu gusto.
-
-Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
