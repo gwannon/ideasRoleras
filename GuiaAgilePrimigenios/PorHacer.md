@@ -1,15 +1,15 @@
-## Apartado 1. Departamentos involucrados
+## Apartado 1. Entidad primigenia y su departamento
 
 XXX
 
-|1d6|Departamentos involucrados|
+|1d6|Entidad primigenia y su departamento|
 |---|---|
-|1|Departamento de Recursos Antiguos e Inhumanos|
-|2|Marketing e Inversión|
-|3|Contabilidad|
-|4|XXX|
-|5|XXX|
-|6|XXX|
+|1|Yr´Algryft, Director del Departamento de Recursos Antiguos e Inhumanos|
+|2|Fghrometh «el Oráculo de Zaigrath», Responsable de Márketing e Inversión|
+|3|Samuzzér´Ygrinn´dallagr, Responsable de Contabilidad|
+|4|Waylunor, Director de Control de Calidad y de Prevención de perdidas de cordura|
+|5|Tsatsatsa'astastast «el palindrómico», Gerente de XXX|
+|6|Bob, sin más, a secas, Guru del departamento de I+D+i (Invocaciones, Desmaterializaciones e impetraciones)|
 
 ## Apartado 2. Recursos materiales y de personal requeridos
 
