@@ -533,3 +533,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEsta aventura es una roadtrip en la que tus jugadores recorrerán miles de kilómetros por exóticos parajes en su coche para ir al mejor parque acuático del mundo, el Whirlpool, o sea el lavavajillas de la cocina.\\E$"}
 {"rule":"CONCORDANCIAS_ATRIBUTO","sentence":"^\\QNor es poco hablador lleva un traje de señora mayor de los 60, una peluca canosa y pone voces raras.\\E$"}
 {"rule":"CONCORDANCIAS_ATRIBUTO","sentence":"^\\QNor es poco hablador y bastante tímido.\\E$"}
+{"rule":"ES_UNPAIRED_BRACKETS","sentence":"^\\QDesde hace eones en los que la muerte puede morir la empresa ha integrado dinámicamente los métodos Agile (del cthulhunés original «Agiletp' nalb'th iterg» y que se traduce por «Hazlo bien, rápido y sin consumir muchos recursos de la empresa o te sacrificamos a tus gerentes»)\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDesde hace eones en los que la muerte puede morir la empresa ha integrado dinámicamente los métodos Agile (del cthulhunés original «Agiletp' nalb'th iterg» y que se traduce por «Hazlo bien, rápido y sin consumir muchos recursos de la empresa o te sacrificamos a tus gerentes»)\\E$"}

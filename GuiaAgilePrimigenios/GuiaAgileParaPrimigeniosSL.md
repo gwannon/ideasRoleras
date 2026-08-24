@@ -8,37 +8,30 @@ Las incorrecciones en la aplicación de estos procedimientos podrán suponer des
 
 ## Metodología Agile
 
-Desde hace eones en los que la muerte puede morir la empresa ha integrado dinámicamente los métodos Agile (del cthulhunés original «Agiletp' nalb'th iterg» y que se traduce por «Hazlo bien, rápido y sin consumir muchos recursos de la empresa o te sacrificamos a tus gerentes»)
+Desde hace eones en los que la muerte puede morir la empresa ha integrado dinámicamente los métodos Agile, del cthulhunés original «Agiletp' nalb'th iterg» y que se traduce por «Hazlo bien, rápido y sin consumir muchos recursos de la empresa o te sacrificamos a tus gerentes».
+
+Para aplicar correctamente la metodología Agile a su jornada laboral en la empresa deberá seguir los siguientes apartados del 1 al 6 siguiendo dicho orden, lanzar en cada apartado el dado poliédrico adecuado y leer y aplicar el resultado obtenido. Si bien, por una mínima coherencia espacio-temporal, se permite volver a tirar en aquellos puntos cuyos resultados pudieran entrar en conflicto con otros resultados de otras tablas, cosa poco probable en un universo de infinitas posibilidades.
+
+> El uso de un dado incorrecto o de su caída fuera de su mesa será considerado una falta leve.
+
+## Apartado 1. Departamentos involucrados
 
 XXX
 
-|1d6|XXX|
+|1d6|Departamentos involucrados|
 |---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
+|1|Departamento de Recursos Antiguos e Inhumanos|
+|2|Marketing e Inversión|
+|3|Responsable de Contabilidad|
 |4|XXX|
 |5|XXX|
 |6|XXX|
 
-## Departamentos involucrados
+## Apartado 2. Recursos materiales y de personal requeridos
 
 XXX
 
-|1d6|XXX|
-|---|---|
-|1|XXX|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|XXX|
-
-## Recursos materiales y de personal requeridos
-
-XXX
-
-|1d6|XXX|
+|1d6|Recursos materiales y de personal requeridos|
 |---|---|
 |1|XXX|
 |2|XXX|
@@ -49,11 +42,11 @@ XXX
 
 > Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre, vísceras y demás icores y humores es motivo de falta menor, a no ser que se le entregará en esas condiciones. En esas circunstancias, entregarlo limpio y reluciente sería la causa de la falta menor.
 
-## Entidad encargada del proyecto
+## Apartado 3. Entidad encargada del proyecto
 
 XXX
 
-|1d6|XXX|
+|1d6|Entidad encargada del proyecto|
 |---|---|
 |1|XXX|
 |2|XXX|
@@ -62,11 +55,11 @@ XXX
 |5|XXX|
 |6|XXX|
 
-## Sectores de actividad de la empresa
+## Apartado 4. Sectores de actividad de la empresa
 
 XXX
 
-|1d6|XXX|
+|1d6|Sectores de actividad|
 |---|---|
 |1|XXX|
 |2|XXX|
@@ -75,13 +68,13 @@ XXX
 |5|XXX|
 |6|XXX|
 
-## Internacionalización y extradimensionalización
+## Apartado 5. Internacionalización y extradimensionalización
 
 A día de hoy nuestra empresa se encuentra en proceso de internacionalización y extradimensionalización que puede hacer que sus tareas no se hagan en nuestras manos instalaciones primigenias, sino en algunas de nuestras sucursales internacionales o extradimensionales. 
 
 XXX
 
-|1d8|XXX|
+|1d8|Localización|
 |---|---|
 |1|XXX|
 |2|XXX|
@@ -94,11 +87,11 @@ XXX
 
 > Ciertas coberturas médicas o beneficios laborales pueden ser ampliadas o inhabilitadas según el destino al que se le envié sin perjuicio para la empresa. Le recordamos la cláusula de movilidad a dimensiones conocidas y desconocidas que firmó en su contrato laboral.
 
-## Actividades asociadas a su puesto
+## Apartado 6. Actividades asociadas a su puesto
 
 XXX
 
-|1d10|XXX|
+|1d10|Actividades asociadas a su puesto|
 |---|---|
 |1|XXX|
 |2|XXX|
