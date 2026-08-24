@@ -1,4 +1,4 @@
-# Guía Agile para Empleados de Primigenios S.L.
+# Guía Agile para empleados de Primigenios S.L.
 
 En este memorándum interno creado por Primigenios S.L. (a partir de ahora la «empresa») pasamos a explicarle sucintamente la metodología Agile implementada dentro del proceso de trabajo y producción de nuestra empresa.
 
@@ -103,3 +103,9 @@ XXX
 |8|XXX|
 |9|XXX|
 |10|XXX|
+
+## Licencia
+
+Creado por [Gwannon](https://gwannon.com) a partir de la obra original [Primigenios S.L.](https://fausto-rolero.itch.io/primigenios-sl) de [Fausto Rolero](https://bsky.app/profile/faustorolero.eurosky.social). Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/GuiaAgilePrimigenios)** todo el código fuente para usarlo a tu gusto.
+
+Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
