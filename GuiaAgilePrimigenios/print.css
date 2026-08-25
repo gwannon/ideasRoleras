@@ -58,7 +58,7 @@ body > * {
 }
 
 body > *:first-child,
-.saltopagina + * {
+.saltopagina + *:not(blockquote) {
   margin-top: var(--padding);
   padding-top: 0;
 }
@@ -86,13 +86,12 @@ blockquote {
   font-family: 'Delicious Handrawn';
   background: transparent url(./images/post-it.png) center center no-repeat;
   background-size: cover;
-  width: 300px;
-  margin: 0px;
+  width: 256px;
   color: #5980d4;
   text-align: center;
   font-weight: 300;
-  padding: 152px 63px;
-  margin: 62px;
+  padding: 102px 40px;
+  margin: 0px 0px 0px 82px;
   transform: rotate(-10deg);
   font-size: 33px;
 }
@@ -272,10 +271,6 @@ body {
 .saltopagina {
   position: relative;
   counter-increment: primary 1; /* Increment the value of section counter by 1 */
-}
-
-section div.saltopagina:nth-child(n+54) {
-  counter-increment: primary 0;
 }
 
 .saltopagina:after {

@@ -1,23 +1,4 @@
-|1d10|Actividades y objetivos|
-|---|---|
-|1|**Día todo normal que puede ser en la oficina:** XXX|
-|2|**Guerra de sectas:** La secta adoradora del gerente de tu departamento ha entrado en guerra con la secta de adoradores del gerente del departamento de piso inferior. XXX|
-|3|**¿Vacaciones? ¿Qué es un día libre?:** Todos los años hay el mismo problema, cuadrar las vacaciones de todo el departamento y puede que ya tengas un vuelo comprado sin pagar el extra de cancelación. XXX|
-|4|**¡Sindicación!:** Corre entre otros empleados de la empresa el rumor de que se está creando un sindicato. Una vez encontrado a los líderes sindicales rebeldes, deberás denunciarlos a la gerencia. Bajo ningún concepto deberás apoyar o formar parte activa de la creación del sindicato.|
-|5|**Grimorios traspapelados:** a A pesar de las pegatinas de peligro, de las cadenas oxidadas que impiden de que se abra y del cuero bueno bueno de _cerdo blanco_, alguien ha sacado un grimorio maldito y acabado en una cápsula de los tubos de mensajería de la sede. Tendrán que encontrar quien lo metió a quien se lo envió y recuperarlo. Eso supone interactuar con los kartheros, una raza de seres ominosos y reptilianos que viven en las plantas subterráneas.|
-|6|**Se acabó el tóner de la impresora:** Un becario de la gran raza de Sith ha fotocopiado por error, pensando que es un memorándum interno, un grimorio maldito y ya dejado una copia en cada puesto de la planta. Alguien tendrá que recogerlos todos, enfrentándose a las entidades fotocopiadas y bidimensionales que puedan protegerlas, y luego exorcizar la fotocopia de todo ser intradimensional que pueda atascarla. Qué se atasque obligaría a llamar al servicio técnico que es mucho peor que nada de esta y otras dimensiones. Afortunadamente el becario ha sido debidamente «amonestado» y no debes encargarte de ese tema.|
-|7|**Aterrizaje de nuevos empleados:** XXX|
-|8|**Cumple-eclipse de un gerente:** Hoy es el 34.576x10²⁰⁰ cumple-eclipse de uno de los gerentes y aunque han tenido 400 años para avisarte, lo han hecho justo hoy. Tendrás que saber qué sacrificios humanos o inhumanos debes hacer, cuál es el sabor de tarta preferido, poner adornos arcanos adecuados y, sobre todo, conseguir que la pastelería escriba correctamente su nombre en la tarta.|
-|9|**Despidos masivos:** Debes informar a las diferentes personas y entidades del departamento que sus habilidades y atributos ya no son necesarios para la empresa. Deberás entregar a cada uno de ellos su finiquito y conseguir que lo firmen. Al departamento legal no le importa cómo lo consigas, ellos se encargarán de luego lidiar con las entidades cósmicas de la Ley y Caos a las que puedan recurrir los empleados despedidos.|
-|10|**Dinámicas de grupo:** Día de dinámicas de grupo, los de RRHH humanos han diseñado un juego de rol en mesa y en vivo al mismo tiempo para crear conciencia de grupo. Saca tu juego de rol de temática primigenia preferida y llévales un one-shot. Es un juego de rol dentro de un juego de rol, es metajuego de rol.|
-
----
-
 |1d6|Sectores de actividad de la sede|
 |---|---|
 |1|**Sector primario:** XXX|
-|2|**Armas y munición:** Lo curioso de este sector es que se dedican a las armas o la munición, nunca a las dos cosas a la vez. Es cosa de que en la sede central un empleado que sabía latín y griego clásico clasifico las Armas en la «a» y la Munición en «µ» (mu en el alfabeto griego).|
-|3|**Tratamiento de residuos:** Todo el mundo hace caca, hasta los Primigenios y defecan mucho. Alguien tiene que recoger las deposiciones, tratarlas, reciclarlas y en algunos casos procesarlas. No me preguntes por la salsa secreta de tu hamburguesería de comida rápida preferida. Trajes de protección NBQR, máscaras de gas, guantes de látex, papel tornasol, probetas con líquidos de todos los colores, espectrómetros y sobre todo miles de toneladas de papel higiénico.|
 |4|**Turismo interdimensional:** XXX|
-|5|**Enología y alimentos gourmet:** En este caso la sede será una bodega de vino de retrouvas, un matadero de zurglus de vientos solares, planta de procesado de miel de abejas de la brecha. Lo bueno es que cuando te vayas, si has hecho un buen trabajo, te llevas muestras gratis.|
-|6|**Material de oficina:** papel, clips, bolígrafos, sellos de caucho, muñecos vudú de clientes y proveedores, regalos promocionales de tus deidades primigenias favoritas, cinta americana para cerrar grietas en la realidad.|

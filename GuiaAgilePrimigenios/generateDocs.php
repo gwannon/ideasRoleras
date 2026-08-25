@@ -58,7 +58,7 @@ if($argv[1] == 'GuiaAgileParaPrimigeniosSL') {
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, XXX\n\n";
+  $metas .= "InfoValue: rpg, ttrpg, cthulhu, primigenios, humor\n\n";
 } else if($argv[1] == 'GuiaAgileParaPrimigeniosSLBW') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: Guía Agile para empleados de Primigenios S.L. por Gwannon\n\n";
@@ -67,7 +67,7 @@ if($argv[1] == 'GuiaAgileParaPrimigeniosSL') {
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";
-  $metas .= "InfoValue: rpg, ttrpg, XXX\\n\n";
+  $metas .= "InfoValue: rpg, ttrpg, cthulhu, primigenios, humor\\n\n";
 }
 
 
