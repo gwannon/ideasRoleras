@@ -46,11 +46,11 @@ Luego puedes tirar otro dado para ver si se le asigna al equipo de trabajo perso
 
 |1d6|Personal asignado adicional|
 |---|---|
-|1|**Becario:** No tiene grandes habilidades sociales y de _team building_, pero nada escapa a sus ojos saltones de batracio y se conoce los mejores locales de sushi de la zona.|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
+|1|**Becario batracido:** No tiene grandes habilidades sociales y de _team building_, pero nada escapa a sus ojos saltones de batracio y se conoce los mejores locales de sushi de la zona.|
+|2|**Cultista de Gharphyeld:** Te ha tocado el cultista adorador de Gharphyeld "el devorador de lasaña". Siempre está rodeado de gatos, huele a orina de gatos, su ropa está cubierta de pelos de gato, no para de ofrecerte chuches de gato y va dejando un rastro de arena de gato que cae de sus bolsillos.|
+|3|**Doppelganger:** En la jerga de la empresa lo llaman «compañero misterioso» y te lo asignan sin tú saberlo para estudiar tu rendimiento. Si eres bueno, el será malvado y viceversa. Lo importante es que si detectas que han metido uno en tu equipo, le cargues todo el curro que puedas. Quizás, incluso, puedas salir antes y que termine él más tarde y fiche por ti al salir.|
+|4|**Sorbementes:** Pues eso sorbe mentes, pero no se queda con sus recuerdos y habilidades. Es simplemente su método de alimentación. Es un poco asqueroso, así que evítale a la hora del almuerzo o come en ti cubículo.|
+|5|**Jefe infiltrado:** A veces pasa que un gerente quiere bajar a la mina para ver como trabajan sus mineros y se creen que con un gran bigote que cubra sus tentáculos e ir regalando donuts glaseados para que no notes el aura de disformidad que lo rodea está todo resuelto. Aguanta como sea, no la líes mucho, no les mandas nada importante y diles que sí a todo.|
 |6|**Viajero en el tiempo:** Cuando Fghlaw «aquel que yace fuera del tiempo» de RRHH contrata gente nueva siempre acabas con viajeros del tiempo. Si son del pasado, no se enteran de nada, preguntan sin cesar y hay que explicarles todo. Si son del futuro, siempre son unos listillos con sus «En el futuro ya no lo hacemos así».|
 
 > Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre, vísceras y demás icores y humores es motivo de falta menor, a no ser que se le entregará en esas condiciones. En esas circunstancias, entregarlo limpio y reluciente sería la causa de la falta menor.

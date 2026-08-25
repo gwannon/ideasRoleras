@@ -34,14 +34,3 @@
 |4|**Turismo interdimensional:** XXX|
 |5|**Enología y alimentos gourmet:** En este caso la sede será una bodega de vino de retrouvas, un matadero de zurglus de vientos solares, planta de procesado de miel de abejas de la brecha. Lo bueno es que cuando te vayas, si has hecho un buen trabajo, te llevas muestras gratis.|
 |6|**Material de oficina:** papel, clips, bolígrafos, sellos de caucho, muñecos vudú de clientes y proveedores, regalos promocionales de tus deidades primigenias favoritas, cinta americana para cerrar grietas en la realidad.|
-
----
-
-|1d6|Personal asignado adicional|
-|---|---|
-|1|**Becario:** No tiene grandes habilidades sociales y de _team building_, pero nada escapa a sus ojos saltones de batracio y se conoce los mejores locales de sushi de la zona.|
-|2|XXX|
-|3|XXX|
-|4|XXX|
-|5|XXX|
-|6|**Viajero en el tiempo:** Cuando Fghlaw «aquel que yace fuera del tiempo» de RRHH contrata gente nueva siempre acabas con viajeros del tiempo. Si son del pasado, no se enteran de nada, preguntan sin cesar y hay que explicarles todo. Si son del futuro, siempre son unos listillos con sus «En el futuro ya no lo hacemos así».|
