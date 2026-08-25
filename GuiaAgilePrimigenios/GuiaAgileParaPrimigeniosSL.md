@@ -111,7 +111,7 @@ A pesar de que hay infinitas actividades en infinitos mundos de infinitas dimens
 
 |1d10|Actividades y objetivos|
 |---|---|
-|1|**Día todo normal que puede ser en la oficina:** XXX|
+|1|**Día todo normal que puede ser en la oficina:** Realmente no va a pasar nada en toda la jornada, pero nada de nada. Simplemente deja que la paranoia haga su trabajo. Si te dices que van a hacer algo como «Voy a la sala de descanso a ver si hay donas glaseadas.», tú solo pregunta «¿Estás seguro?» o «¿Es eso lo que de verdad quieres hacer?».|
 |2|**Guerra de sectas:** La secta adoradora del gerente de tu departamento ha entrado en guerra con la secta de adoradores del gerente del departamento de piso inferior. XXX|
 |3|**¿Vacaciones? ¿Qué es un día libre?:** Todos los años hay el mismo problema, cuadrar las vacaciones de todo el departamento y puede que ya tengas un vuelo comprado sin pagar el extra de cancelación. XXX|
 |4|**¡Sindicación!:** Corre entre otros empleados de la empresa el rumor de que se está creando un sindicato. Una vez encontrado a los líderes sindicales rebeldes, deberás denunciarlos a la gerencia. Bajo ningún concepto deberás apoyar o formar parte activa de la creación del sindicato.|
