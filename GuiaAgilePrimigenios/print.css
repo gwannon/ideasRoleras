@@ -96,6 +96,11 @@ blockquote {
   font-size: 33px;
 }
 
+body#GuiaAgileParaPrimigeniosSLBW blockquote {
+  background-image: url(./images/post-itBW.png);
+  color: var(--color-black);
+}
+
 blockquote p {
   padding: 0px;
   margin: 0px;
