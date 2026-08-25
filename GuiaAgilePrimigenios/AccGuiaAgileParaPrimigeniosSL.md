@@ -27,7 +27,7 @@ Lo primero que debemos saber sobre el objetivo o actividad que vamos a realizar 
 |5|**Tsatsatsa'astastast «el palindrómico»,** Gerente de Prevención de riesgos|
 |6|**Bob, sin más, a secas,** Guru del departamento de I+D+i (Invocaciones, Desmaterializaciones e impetraciones)|
 
-\sp
+
 
 ## Apartado 2. Recursos materiales y de personal requeridos
 
@@ -50,7 +50,7 @@ Luego puedes tirar otro dado para ver si se le asigna al equipo de trabajo perso
 |---|---|
 |1|**Becario batracido:** No tiene grandes habilidades sociales y de _team building_, pero nada escapa a sus ojos saltones de batracio y se conoce los mejores locales de sushi de la zona.|
 
-\sp
+
 
 |1d6|Personal asignado adicional|
 |---|---|
@@ -72,7 +72,7 @@ A día de hoy nuestra empresa se encuentra en proceso de diversificación sector
 |2|**Armas y munición:** Lo curioso de este sector es que se dedican a las armas o la munición, nunca a las dos cosas a la vez. Es cosa de que en la sede central un empleado que sabía latín y griego clásico clasifico las Armas en la «a» y la Munición en «µ» (mu en el alfabeto griego).|
 |3|**Tratamiento de residuos:** Todo el mundo hace caca, hasta los Primigenios y defecan mucho. Alguien tiene que recoger las deposiciones, tratarlas, reciclarlas y en algunos casos procesarlas. No me preguntes por la salsa secreta de tu hamburguesería de comida rápida preferida. Trajes de protección NBQR, máscaras de gas, guantes de látex, papel tornasol, probetas con líquidos de todos los colores, espectrómetros y sobre todo miles de toneladas de papel higiénico.|
 
-\sp
+
 
 |1d6|Sectores de actividad de la sede|
 |---|---|
@@ -95,7 +95,7 @@ A día de hoy nuestra empresa se encuentra en proceso de internacionalización y
 |7| En el **espacio profundo** también hay sedes de nuestra empresa. Pero por suerte RRHH ha elaborado un manual explicativo para cada situación, como «Vaya, has caído en un agujero negro» o «¿Cubre el seguro de la empresa tocar un quasar con la mano sin la debida protección?». No olvides rellenar el formulario A-38 para cobrar el añaje-luz en tu nómina.|
 |8|**Lugares multidimensionales** como la helada altiplanicie de Tseng o los túneles subterráneos inundados de lava de Kahart que acceden o están en muchas dimensiones al mismo tiempo. Estos lugares están muy bien porque la empresa puede decidir en qué dimensión cotiza y con suerte puede que una de esas dimensiones sea un paraíso fiscal.|
 
-\sp
+
 
 En la mayoría de las sedes la empresa proporciona un método de transporte rápido y seguro para llegar. Este medio de transporte es todo lo seguro que la tecno hechicería primigenia puede ser hoy en día con todos los avances que se han hecho en este campo. Recuerde que si saca el brazo fuera del pentáculo ritual, es bajo su responsabilidad.
 
@@ -116,7 +116,7 @@ A pesar de que hay infinitas actividades en infinitos mundos de infinitas dimens
 |7|**Aterrizaje de nuevos empleados:** XXX|
 |8|**Cumple-eclipse de un gerente:** Hoy es el 34.576x10²⁰⁰ cumple-eclipse de uno de los gerentes y aunque han tenido 400 años para avisarte, lo han hecho justo hoy. Tendrás que saber qué sacrificios humanos o inhumanos debes hacer, cuál es el sabor de tarta preferido, poner adornos arcanos adecuados y, sobre todo, conseguir que la pastelería escriba correctamente su nombre en la tarta.|
 
-\sp
+
 
 |1d10|Actividades y objetivos|
 |---|---|

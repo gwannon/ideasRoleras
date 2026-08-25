@@ -1,0 +1,310 @@
+:root {
+  --padding: 65px; /*Ancho de los bordes de la página*/
+  --color-yellow: #efc517;
+  --color-green: #303431;
+  --color-black: #000;
+}
+
+body {
+  background: white url(./images/bg.png) repeat center center;
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+  font-weight: 300;
+  color: var(--color-black);
+  font-size: 16px;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW {
+  --color-yellow: #959595;
+  --color-green: #b3b3b3;
+  --color-black: #000;
+  background-image: none;
+}
+
+body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border1.png) top left repeat-y;
+  background-size: 50px;
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border2.png) top right repeat-y;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW:before,
+body#GuiaAgileParaPrimigeniosSLBW:after {
+  display: none;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 1;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+/*blockquote {
+  font-family: "Oswald", sans-serif;
+  padding: 10px;
+  background-color: var(--color-green);
+  border-radius: 10px;
+  margin: 50px 0px 10px;
+  color: white;
+  text-align: center;
+  border: 10px var(--color-yellow) solid;
+  font-weight: 300;
+  position: relative;
+}
+
+blockquote:after {
+  box-sizing: border-box;
+  content: "123";
+  display: block;
+  background-color: var(--color-green);
+  position: absolute;
+  width: 100px;
+  height: 80px;
+  top: -50px;
+  left: calc(50% - 50px);
+  border-radius: 50%;
+  border: 10px var(--color-yellow) solid;
+  clip-path: polygon(0% 0%, 100% 0%, 100% 40px, 0% 40px);
+  text-align: center;
+  padding-top: 4px;
+  font-weight: 700;
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+}*/
+
+/* Titulares */
+
+h1 {
+  font-family: "Bitcount Grid Double", system-ui;
+  color: var(--color-green);
+  text-align: center;
+  font-size: 2.2em;
+  margin: 0 0 30px 0;
+  padding: 20px 10px 10px !important;
+  line-height: 120%;
+  border: 4px double black;
+}
+
+h2,
+h3,
+h4 {
+  font-family: "Bitcount Grid Double", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--color-yellow);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  line-height: 120%;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: var(--color-green);
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+h4 {
+  font-size: 1em;
+  color: var(--color-black);
+}
+
+h2 + p, 
+h3 + p,
+h4 + p {
+  margin-top: 0px;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW *:is(h1, h2, h3, h4) {
+  color: var(--color-black);
+}
+
+/*blockquote {
+  font-family: "Bitcount Grid Double", system-ui;
+  border: 4px double black;
+  margin: 0;
+  padding: 5px 10px;
+  text-align: center;
+}*/
+
+/* Otros elementos */
+
+p {
+  margin: 0.45em 0;
+}
+
+a {
+  color: var(--color-black);
+}
+
+table {
+  border: 4px double black;
+  width: 100%;
+}
+
+table thead tr th,
+table tbody tr td:first-of-type {
+  font-family: "Bitcount Grid Double", system-ui;
+}
+
+table tbody tr td:first-of-type {
+  text-align: center;
+}
+
+table tbody tr td:not(table tbody tr:last-of-type td) {
+  border-bottom: 4px double black;
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: white;
+    background-color: var(--color-yellow);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-green);
+    border-bottom:  3px dashed var(--color-green);
+  }
+
+  .columns {
+    columns: auto;
+  }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 840px) {
+
+  body {
+    padding: 0 10px;
+  }
+
+  body:after,
+  body:before {
+    opacity: 0;
+  }
+
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+section div.saltopagina:nth-child(n+54) {
+  counter-increment: primary 0;
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: "Bitcount Grid Double", system-ui;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - (var(--size) / 2));
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 20px;
+  padding: 5px 5px 3px;
+  color: var(--color-green);
+}
