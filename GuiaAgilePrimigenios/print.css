@@ -82,41 +82,31 @@ body > *:first-child,
   opacity: 0;
 }
 
-/*blockquote {
-  font-family: "Oswald", sans-serif;
-  padding: 10px;
-  background-color: var(--color-green);
-  border-radius: 10px;
-  margin: 50px 0px 10px;
-  color: white;
+blockquote {
+  font-family: 'Delicious Handrawn';
+  background: transparent url(./images/post-it.png) center center no-repeat;
+  background-size: cover;
+  width: 300px;
+  margin: 0px;
+  color: #5980d4;
   text-align: center;
-  border: 10px var(--color-yellow) solid;
   font-weight: 300;
-  position: relative;
-}
-
-blockquote:after {
-  box-sizing: border-box;
-  content: "123";
-  display: block;
-  background-color: var(--color-green);
-  position: absolute;
-  width: 100px;
-  height: 80px;
-  top: -50px;
-  left: calc(50% - 50px);
-  border-radius: 50%;
-  border: 10px var(--color-yellow) solid;
-  clip-path: polygon(0% 0%, 100% 0%, 100% 40px, 0% 40px);
-  text-align: center;
-  padding-top: 4px;
-  font-weight: 700;
+  padding: 152px 63px;
+  margin: 62px;
+  transform: rotate(-10deg);
+  font-size: 33px;
 }
 
 blockquote p {
   padding: 0px;
   margin: 0px;
-}*/
+}
+
+blockquote p strong {
+  text-decoration: underline;
+  display: inline-block;
+  margin-top: 8px;
+}
 
 /* Titulares */
 
@@ -167,18 +157,16 @@ body#GuiaAgileParaPrimigeniosSLBW *:is(h1, h2, h3, h4) {
   color: var(--color-black);
 }
 
-/*blockquote {
-  font-family: "Bitcount Grid Double", system-ui;
-  border: 4px double black;
-  margin: 0;
-  padding: 5px 10px;
-  text-align: center;
-}*/
-
 /* Otros elementos */
 
 p {
   margin: 0.45em 0;
+}
+
+pre {
+  text-align: center;
+  padding: 0px;
+  maargin: 0px;
 }
 
 a {

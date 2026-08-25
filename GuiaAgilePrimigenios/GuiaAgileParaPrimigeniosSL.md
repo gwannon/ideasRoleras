@@ -6,7 +6,11 @@ Las acciones y métodos explicados en este documento son de obligado cumplimient
 
 Las incorrecciones en la aplicación de estos procedimientos podrán suponer desde avisos menores hasta destierros más allá del tiempo y el espacio, según la gravedad de la falta.
 
-## Metodología Agile
+```
+^(;,;)^
+```
+
+## Metodología Agile 
 
 Desde hace eones en los que la muerte puede morir la empresa ha integrado dinámicamente los métodos Agile, del cthulhunés original «Agiletp' nalb'th iterg» y que se traduce por «Hazlo bien, rápido y sin consumir muchos recursos de la empresa o te sacrificamos a tus gerentes».
 
@@ -29,7 +33,7 @@ Lo primero que debemos saber sobre el objetivo o actividad que vamos a realizar 
 
 \sp
 
-## Apartado 2. Recursos materiales y de personal requeridos
+## Apartado 2. Recursos materiales y de personal
 
 La empresa se encarga de suplir al empleado con todo el material y equipo necesario para elaborar su actividad laboral, aunque a veces el propio empleado no sepa qué sentido tiene que le hayan entregado un rastrillo de jardín. Sin embargo, se debe considerar que hay un cuidadoso estudio en lo que se entrega a cada empleado basándose en la actividad y las capacidades del empleado y confiar en el buen hacer de la empresa.
 
@@ -60,7 +64,7 @@ Luego puedes tirar otro dado para ver si se le asigna al equipo de trabajo perso
 |5|**Jefe infiltrado:** A veces pasa que un gerente quiere bajar a la mina para ver como trabajan sus mineros y se creen que con un gran bigote que cubra sus tentáculos e ir regalando donuts glaseados para que no notes el aura de disformidad que lo rodea está todo resuelto. Aguanta como sea, no la líes mucho, no les mandas nada importante y diles que sí a todo.|
 |6|**Viajero en el tiempo:** Cuando Fghlaw «aquel que yace fuera del tiempo» de RRHH contrata gente nueva siempre acabas con viajeros del tiempo. Si son del pasado, no se enteran de nada, preguntan sin cesar y hay que explicarles todo. Si son del futuro, siempre son unos listillos con sus «En el futuro ya no lo hacemos así».|
 
-> Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre, vísceras y demás icores y humores es motivo de falta menor, a no ser que se le entregará en esas condiciones. En esas circunstancias, entregarlo limpio y reluciente sería la causa de la falta menor.
+Todo material asignado deberá ser devuelto en la medida de lo posible como se entregó. Por ejemplo, devolver material cubierto de sangre, vísceras y demás icores y humores es motivo de falta menor, a no ser que se le entregará en esas condiciones. En esas circunstancias, entregarlo limpio y reluciente sería la causa de la falta menor.
 
 ## Apartado 3. Sectores de actividad de la empresa
 
@@ -93,7 +97,7 @@ A día de hoy nuestra empresa se encuentra en proceso de internacionalización y
 |5|La empresa tiene **«embajadas» en diferentes imperios galácticos y entre razas alienígenas perdidas**. Muchas de ellas son cabezas de playa para prospectar nuevos mercados. Hay que conocer a los posibles clientes y sus necesidades y saber qué productos y servicios podemos venderlos.|
 |6|Muchas sedes han acabado **perdidas en el tiempo y el espacio**, pero eso no quiere decir que no dejen de producir para la empresa. Simplemente hay que rellenar el formulario A-38 para conseguir el plus por desplazamiento y el kilometraje.|
 |7| En el **espacio profundo** también hay sedes de nuestra empresa. Pero por suerte RRHH ha elaborado un manual explicativo para cada situación, como «Vaya, has caído en un agujero negro» o «¿Cubre el seguro de la empresa tocar un quasar con la mano sin la debida protección?». No olvides rellenar el formulario A-38 para cobrar el añaje-luz en tu nómina.|
-|8|**Lugares multidimensionales** como la helada altiplanicie de Tseng o los túneles subterráneos inundados de lava de Kahart que acceden o están en muchas dimensiones al mismo tiempo. Estos lugares están muy bien porque la empresa puede decidir en qué dimensión cotiza y con suerte puede que una de esas dimensiones sea un paraíso fiscal.|
+|8|**Lugares multidimensionales** como la helada altiplanicie de Tseng o los túneles subterráneos inundados de lava de Kahart que acceden o están en muchas dimensiones al mismo tiempo. Estos lugares están muy bien porque la empresa puede decidir en qué dimensión cotiza y con suerte puede que una de ellas sea un paraíso fiscal.|
 
 \sp
 
@@ -128,3 +132,5 @@ A pesar de que hay infinitas actividades en infinitos mundos de infinitas dimens
 Creado por [Gwannon](https://gwannon.com) a partir de la obra original [Primigenios S.L.](https://fausto-rolero.itch.io/primigenios-sl) de [Fausto Rolero](https://bsky.app/profile/faustorolero.eurosky.social). Tienes en **[Github](https://github.com/gwannon/ideasRoleras/tree/main/GuiaAgilePrimigenios)** todo el código fuente para usarlo a tu gusto.
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
+
+> Todo este suplemento podria haber sido un email. **Pau BlackOinion**
