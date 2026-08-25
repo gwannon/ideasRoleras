@@ -550,3 +550,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QAlguien tendrá que recogerlos todos, enfrentándose a las entidades fotocopiadas y bidimensionales que puedan protegerlas, y luego exorcizar la fotocopia de todo ser intradimensional que pueda atascarla.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEste material está licenciado bajo la Licencia Entre Colegas (EC) v1.0.\\E$"}
 {"rule":"FORM","sentence":"^\\QPuedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qen fin, ganas un punto de estrés).\\E$"}

@@ -29,7 +29,7 @@ Lo primero que debemos saber sobre el objetivo o actividad que vamos a realizar 
 
 ## Apartado 2. Recursos materiales y de personal requeridos
 
-La empresa se encarga de suplir al empleado con todo el material y equipo necesario para elaborar su actividad laboral, aunque a veces el propio empleado no sepa qué sentido tiene que le hayan entregado un rastrillo de jardín. Sin embargo, se debe considerar que hay un cuidadoso estudio en lo que se entrega a cada empleado basandose en la actividad y las capacidades del empleado y confiar en el buen hacer de la empresa.
+La empresa se encarga de suplir al empleado con todo el material y equipo necesario para elaborar su actividad laboral, aunque a veces el propio empleado no sepa qué sentido tiene que le hayan entregado un rastrillo de jardín. Sin embargo, se debe considerar que hay un cuidadoso estudio en lo que se entrega a cada empleado basándose en la actividad y las capacidades del empleado y confiar en el buen hacer de la empresa.
 
 Tira un dado por cada miembro del equipo de trabajo y asígnales al azar los objetos. Si por caprichos del destino sale el mismo resultado varias veces, repite la tirada, siempre que lo creas adecuado.
 
@@ -75,7 +75,7 @@ A día de hoy nuestra empresa se encuentra en proceso de internacionalización y
 |1d8|Localización|
 |---|---|
 |1|**Sede grande** como Nueva York, Londres, El Cairo, Hong Kong o Nairobi.|
-|2|**Sede pequeña** como Minsk en Bielorrusia (a donde mandamos al novio de Phoebe), Benidorm en España (pero solo fuera de temporada alta que es muy caro) o Akureyri en Islandia (lo de encerrarse en hielos eternos De la Antártida fue una moda muy popular en el Jurásico).|
+|2|**Sede pequeña** como Minsk en Bielorrusia (a donde mandamos al novio de Phoebe), Benidorm en España (pero solo fuera de temporada alta que es muy caro) o Akureyri en Islandia (lo de encerrarse en hielos eternos de la Antártida fue una moda muy popular en el Jurásico).|
 |3|**Sede en el fin del mundo** (o en el culo del mundo, según los empleados de cada centro) como la estación polar de investigación «Burocracia Central», centro de investigación sísmica «El tembleque» en Isla de los Estados en Tierra de Fuego o en el observatorio astrológico «Esperanza Gracia» en el archipiélago de Tristán de Acuña|
 |4|**Ciudades míticas** (pero con los alquileres de oficinas increíblemente baratas) como la Atlántida, Shangri-la, Aram-de-las-columnas o la ciudad sin nombre (en minúsculas, porque si estuviera en mayúsculas sería su nombre y entonces tendría nombre, entonces no sería sin nombre, ... en fin, ganas un punto de estrés).|
 |5|La empresa tiene **«embajadas» en diferentes imperios galácticos y entre razas alienígenas perdidas**. Muchas de ellas son cabezas de playa para prospectar nuevos mercados. Hay que conocer a los posibles clientes y sus necesidades y saber qué productos y servicios podemos venderlos.|
@@ -93,16 +93,16 @@ A pesar de que hay infinitas actividades en infinitos mundos de infinitas dimens
 
 |1d10|Actividades y objetivos|
 |---|---|
-|1|**XXX:** xxx|
-|2|**XXX:** xxx|
-|3|**XXX:** xxx|
+|1|**Día todo normal que puede ser en la oficina:** XXX|
+|2|**Guerra de sectas:** La secta adoradora del gerente de tu departamento ha entrado en guerra con la secta de adoradores del gerente del departamento de piso inferior. XXX|
+|3|**¿Vacaciones? ¿Qué es un día libre?:** Todos los años hay el mismo problema, cuadrar las vacaciones de todo el departamento y puede que ya tengas un vuelo comprado sin pagar el extra de cancelación. XXX|
 |4|**¡Sindicación!:** Corre entre otros empleados de la empresa el rumor de que se está creando un sindicato. XXX|
 |5|**Grimorios traspapelados:** a A pesar de las pegatinas de peligro, de las cadenas oxidadas que impiden de que se abra y del cuero bueno bueno de _cerdo blanco_, alguien ha sacado un grimorio maldito y acabado en una cápsula de los tubos de mensajería de la sede. Tendrán que encontrar quien lo metió a quien se lo envió y recuperarlo. Eso supone interactuar con los kartheros, una raza de seres ominosos y reptilianos que viven en las plantas subterráneas.|
 |6|**Se acabó el tóner de la impresora:** Un becario de la gran raza de Sith ha fotocopiado por error, pensando que es un memorándum interno, un grimorio maldito y ya dejado una copia en cada puesto de la planta. Alguien tendrá que recogerlos todos, enfrentándose a las entidades fotocopiadas y bidimensionales que puedan protegerlas, y luego exorcizar la fotocopia de todo ser intradimensional que pueda atascarla. Qué se atasque obligaría a llamar al servicio técnico que es mucho peor que nada de esta y otras dimensiones. Afortunadamente el becario ha sido debidamente «amonestado» y no debes encargarte de ese tema.|
 |7|**Aterrizaje de nuevos empleados:** XXX|
-|8|**Cumple-eclipse de un gerente:** Hoy es el 34.576x10²⁰⁰ cumple-eclipse de uno de los gerentes y aunque han tenido 400 años para avisarte, lo han hecho justo hoy. Tendrás que saber que sacrificios humanos o inhumanos debes hacer, cuál es el sabor de tarta preferido, poner adornos arcanos adecuados y, sobre todo, conseguir que la pastelería escriba correctamente su nombre en la tarta.|
+|8|**Cumple-eclipse de un gerente:** Hoy es el 34.576x10²⁰⁰ cumple-eclipse de uno de los gerentes y aunque han tenido 400 años para avisarte, lo han hecho justo hoy. Tendrás que saber qué sacrificios humanos o inhumanos debes hacer, cuál es el sabor de tarta preferido, poner adornos arcanos adecuados y, sobre todo, conseguir que la pastelería escriba correctamente su nombre en la tarta.|
 |9|**Despidos masivos:** Debes informar a las diferentes personas y entidades del departamento que sus habilidades y atributos ya no son necesarios para la empresa. Deberás entregar a cada uno de ellos su finiquito y conseguir que lo firmen. XXX|
-|10|**XXX:** xxx|
+|10|**Dinámicas de grupo:** XXX|
 
 ## Licencia
 
