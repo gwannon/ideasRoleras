@@ -16,7 +16,7 @@ Para aplicar correctamente la metodología Agile a su jornada laboral en la empr
 
 ## Apartado 1. Entidad primigenia y su departamento
 
-XXX
+Lo primero que debemos saber sobre el objetivo o actividad que vamos a realizar cada día es quién ha diseñado la actividad y desde qué departamento. Conocerse la estructura jerárquica piramidal de la empresa es muy importante para el correcto de empeño de las funciones por parte del empleado y por ello que no sabérselo de memoria es una falta leve.
 
 |1d6|Entidad primigenia y su departamento|
 |---|---|
@@ -29,7 +29,7 @@ XXX
 
 ## Apartado 2. Recursos materiales y de personal requeridos
 
-XXX
+La empresa se encarga de suplir al empleado con todo el material y equipo necesario para elaborar su actividad laboral, aunque a veces el propio empleado no sepa qué sentido tiene que le hayan entregado un rastrillo de jardín. Sin embargo, se debe considerar que hay un cuidadoso estudio en lo que se entrega a cada empleado basandose en la actividad y las capacidades del empleado y confiar en el buen hacer de la empresa.
 
 Tira un dado por cada miembro del equipo de trabajo y asígnales al azar los objetos. Si por caprichos del destino sale el mismo resultado varias veces, repite la tirada, siempre que lo creas adecuado.
 
@@ -57,7 +57,7 @@ Luego puedes tirar otro dado para ver si se le asigna al equipo de trabajo perso
 
 ## Apartado 3. Sectores de actividad de la empresa
 
-XXX
+A día de hoy nuestra empresa se encuentra en proceso de diversificación sectorial buscando nuevos espacios del espectro sectorial en los que introducirse, es por ello que la resiliencia es algo muy apreciado en la empresa. El empleado acostumbrado a trabajar en un único sector debe ser capaz de moverse en las aguas turbulentas e inexploradas del océano de desconocimiento que supone adentrarse en otro sector empresarial.
 
 |1d6|Sectores de actividad de la sede|
 |---|---|
@@ -71,8 +71,6 @@ XXX
 ## Apartado 4. Internacionalización y extradimensionalización
 
 A día de hoy nuestra empresa se encuentra en proceso de internacionalización y extradimensionalización que puede hacer que sus tareas no se hagan en nuestras manos instalaciones primigenias, sino en algunas de nuestras sucursales internacionales o extradimensionales. 
-
-XXX
 
 |1d8|Localización|
 |---|---|
@@ -91,7 +89,7 @@ Ciertas coberturas médicas o beneficios laborales pueden ser ampliadas o inhabi
 
 ## Apartado 5. Actividades y objetivos asociadas a su puesto
 
-XXX
+A pesar de que hay infinitas actividades en infinitos mundos de infinitas dimensiones algunas incognoscibles, las tareas más normales son las que podemos entrar en la siguiente tabla. Todo ello sin perjuicio de que en algún momento un gerente tenga una actividad muy específica para el empleado como servir de suplemento proteínico a su almuerzo bajo en sodio.
 
 |1d10|Actividades y objetivos|
 |---|---|
