@@ -1,4 +1,4 @@
 |1d6|Sectores de actividad de la sede|
 |---|---|
-|1|**Sector primario:** XXX|
-|4|**Turismo interdimensional:** XXX|
+|1|**Sector primario:** Mientras que cuando tú piensas en vaquitas, ovejitas, campos dorados de trigo y manzanos cargados de frutas, este sector primario es un pelín diferente. Granjas de clones para criar órganos para transplante, mataderos de uuUrghals para hacer cosmeticos o plantar semillas transgénicas de primigenios a ver qué sale.|
+|4|**Turismo obligatorio interdimensional:** Turistas son en cierta medida y así se anuncia en el folleto que se entrega, pero en realidad son presos de otras dimensiones que son enviados a nuestra realidad por sus delitos. Si el turista se escapa de su resort de máxima seguridad y destruye media ciudad, son las típicas chorradas que hacen los turistas borrachos.|
