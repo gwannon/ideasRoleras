@@ -1,6 +1,6 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
-  --color-yellow: #efc517;
+  --color-yellow: #e7fae5;
   --color-green: #303431;
   --color-black: #000;
 }
@@ -125,9 +125,7 @@ h1 {
   border: 4px double black;
 }
 
-h2,
-h3,
-h4 {
+h2 {
   font-family: "Bitcount Grid Double", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -135,25 +133,11 @@ h4 {
   margin-bottom: 0px;
   padding-bottom: 0px;
   line-height: 120%;
-}
-
-h2 {
   font-size: 1.4em;
   color: var(--color-green);
 }
 
-h3 {
-  font-size: 1.2em;
-}
-
-h4 {
-  font-size: 1em;
-  color: var(--color-black);
-}
-
-h2 + p, 
-h3 + p,
-h4 + p {
+h2 + p {
   margin-top: 0px;
 }
 
@@ -170,7 +154,7 @@ p {
 pre {
   text-align: center;
   padding: 0px;
-  maargin: 0px;
+  margin: 0px;
 }
 
 a {
@@ -199,7 +183,7 @@ a.pdf {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    color: white;
+    color: var(--color-black);
     background-color: var(--color-yellow);
     display: block;
     padding: 10px;
