@@ -72,7 +72,7 @@ A día de hoy nuestra empresa se encuentra en proceso de diversificación sector
 
 |1d6|Sectores de actividad de la sede|
 |---|---|
-|1|**Sector primario:** XXX|
+|1|**Sector primario:** Mientras que cuando tú piensas en vaquitas, ovejitas, campos dorados de trigo y manzanos cargados de frutas, este sector primario es un pelín diferente. Granjas de clones para criar órganos para transplante, mataderos de uuUrghals para hacer cosméticos o plantar semillas transgénicas de primigenios a ver qué sale.|
 |2|**Armas y munición:** Lo curioso de este sector es que se dedican a las armas o la munición, nunca a las dos cosas a la vez. Es cosa de que en la sede central un empleado que sabía latín y griego clásico clasifico las Armas en la «a» y la Munición en «µ» (mu en el alfabeto griego).|
 |3|**Tratamiento de residuos:** Todo el mundo hace caca, hasta los Primigenios y defecan mucho. Alguien tiene que recoger las deposiciones, tratarlas, reciclarlas y en algunos casos procesarlas. No me preguntes por la salsa secreta de tu hamburguesería de comida rápida preferida. Trajes de protección NBQR, máscaras de gas, guantes de látex, papel tornasol, probetas con líquidos de todos los colores, espectrómetros y sobre todo miles de toneladas de papel higiénico.|
 
@@ -80,7 +80,7 @@ A día de hoy nuestra empresa se encuentra en proceso de diversificación sector
 
 |1d6|Sectores de actividad de la sede|
 |---|---|
-|4|**Turismo interdimensional:** XXX|
+|4|**Turismo obligatorio interdimensional:** Turistas son en cierta medida y así se anuncia en el folleto que se entrega, pero en realidad son presos de otras dimensiones que son enviados a nuestra realidad por sus delitos. Si el turista se escapa de su resort de máxima seguridad y destruye media ciudad, son las típicas chorradas que hacen los turistas borrachos.|
 |5|**Enología y alimentos gourmet:** En este caso la sede será una bodega de vino de retrouvas, un matadero de zurglus de vientos solares, planta de procesado de miel de abejas de la brecha. Lo bueno es que cuando te vayas, si has hecho un buen trabajo, te llevas muestras gratis.|
 |6|**Material de oficina:** papel, clips, bolígrafos, sellos de caucho, muñecos vudú de clientes y proveedores, regalos promocionales de tus deidades primigenias favoritas, cinta americana para cerrar grietas en la realidad.|
 
