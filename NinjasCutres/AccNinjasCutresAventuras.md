@@ -24,12 +24,12 @@ Deberán deshacerse de los ninjas Garra:
 * Pueden pillarles cuando vayan al baño porque han bebido mucho refresco o comido mucha pizza. 
 * Pueden hacerse pasar por encargados del local y echarlos por ser mayores.
 
-El enfrentamiento seguramente acabará en una guerra de comida que no les interesa si quieren completar la misión con éxito.
+El enfrentamiento seguramente acabará en una guerra de comida que no les interesa a tus ninjas, si quieren completar la misión con éxito.
 
 Sin enfrentamiento, pueden ir explotando los globos de uno en uno, pero deberán buscar un método de explotarlos y de encubrir el sonido, como ponerse a bailar en la máquina DDR y hacer coincidir la música alta con lasa explosiones. 
 
 **Ninja Garra:** Cuerpo 4, Mente 2, Ninjutsu 3
-* **Equipo:** Nunchakus de peperoni robado de las cocinas del Chiquicuqui (+2), disfraz de ninja con careta, extintor de la pared y piezas de Lego sacadas del regalo del cumpleaños vecino.
+* **Equipo:** Nunchakus de peperoni robados de las cocinas del Chiquicuqui (+2), disfraz de ninja con careta, extintor de la pared y piezas de Lego sacadas del regalo del cumpleaños vecino.
 * **Técnica secreta de lanzamiento de comida del Telepizza:** Eras pizzero antes de ser ninja y eres un genio del combate en guerras de comida o usando alimentos como arma.
 
 ### Misión completada
