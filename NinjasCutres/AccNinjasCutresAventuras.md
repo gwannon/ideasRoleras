@@ -36,6 +36,8 @@ Sin enfrentamiento, pueden ir explotando los globos de uno en uno, pero deberán
 
 Se considera misión completada si consiguen explotar más globos que «Las Garras del Tigretón» y con éxito si no es explotada ninguno de los globos que le hayan asignado.
 
+Como organizadores de honor, si consiguen completar la misión, deberán recibir a los otros ninjas que asistan y lo harán disfrazados de ninjas de dibujos animados, Ninja Hattori, Naruto, etc.  
+
 ## Cupidos cutres
 
 > Adam ha mandado borracho un mensaje a su expareja pidiéndole desesperado volver. Por suerte, su ex está en un finde de retiro de yoga y no tiene el móvil encendido. Adam necesita que tus ninjas borren el mensaje antes de que acabe el retiro y su ex lo lea.
@@ -56,10 +58,10 @@ Las opciones son varias, desde robar todos, lo cual sería una misión fallida, 
 
 ### Misión completada
 
-Cuando hablen con Adam para cobrar por su trabajo, no se acordará de haber contratado a unos ninjas tan cutres y se negará a pagar lo convenido, pero les dará su esterilla de yoga que compro cuando iba a clases de yoga con su ex y ya no necesita. Podrán usarlo como «Truco ninja».
+Cuando hablen con Adam para cobrar por su trabajo, no se acordará de haber contratado a unos ninjas tan cutres y se negará a pagar lo convenido, pero les dará su esterilla de yoga que compro cuando iba a clases de yoga con su ex y que ya no necesita.
+Podrán usarla como «Truco ninja».
 
 * **Esterilla de yoga:** Puede usarse como paracaídas o para planear como si fuera una mini aladelta.
-Como organizadores de honor, si consiguen completar la misión, deberán recibir a los otros ninjas que asistan y lo harán disfrazados de ninjas de dibujos animados, Ninja Hattori, Naruto, etc.  
 
 ## Ninjas cutres VS Geishas yayas
 
