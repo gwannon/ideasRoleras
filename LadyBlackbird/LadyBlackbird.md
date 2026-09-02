@@ -1,6 +1,8 @@
-# Lady Blackbird
+\sinc
 
-## ModernWorld 
+# ModernWorld 
+
+\conc
 
 es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
 
@@ -8,7 +10,13 @@ El imperio ha visto la capacidad de usar militarmente los inventos desarrollados
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
-## La tortuga del éter
+\sp
+
+\sinc
+
+# La tortuga del éter
+
+\conc
 
 que los tripulantes del «Vidocq», a mando se encuentra la capitana Rosemary Cruz, han encontrado está herida y perdida en el espacio. La concha de la tortuga del éter (Chelonoidis aeteri) es capaz de aguantar el impacto de meteoritos y si es molida y procesada adecuadamente, vale una fortuna, pero han sido cazadas hasta casi su extinción y quedan ya muy pocas. De hecho, hace décadas de un último avistamiento de esta especie.
 
