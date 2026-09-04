@@ -10,6 +10,42 @@ El imperio ha visto la capacidad de usar militarmente los inventos desarrollados
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
+Antes de que las fuerzas de asalto terrestre del Devastador lleguen al parque entre la atmosfera 
+
+## El parque
+
+XXX
+
+El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
+
+### Modern World
+
+Está sección que da nombre al parque está en el centro. Representa nuestro mundo, pero en un futuro eléctrico. XXX
+
+### North World
+
+XXX
+
+### South World
+
+XXX
+
+### West World
+
+En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
+
+XXX
+
+### East World
+
+En la parte este tenemos East World, un pastiche de mitos y cuentos de lo más recóndito del XXX, con príncipes y princesas alienígenas, extrañas y gigantescas bestias de carga o guerra y exóticos palacios
+
+XXX
+
+## Automotor eléctrico
+
+XXX
+
 \sp
 
 \sinc
@@ -24,7 +60,18 @@ Las canciones de taberna que cantan los aeronautas borrachos cuentan que hay un 
 
 Si la atrapan y la venden, podrán preparar la «Vidocq» para aguantar los peligros de Los Restos y buscar el cementerio, pero no podrán seguirla e irán a ciegas. Si deciden seguirla y la curan, seguramente cambiará de ruta y volverá a su hogar. Si no la curan, es muy probable que siga su último viaje, aunque puede que no sobreviva al viaje y muera antes de llegar al cementerio de tortugas.
 
+## Vidocq
+
+XXX
+
 --- 
+
+# Licencia
+
+XXX
+
+---
+
 
 Titulos: https://fonts.google.com/specimen/My+Soul?preview.script=Latn
 
