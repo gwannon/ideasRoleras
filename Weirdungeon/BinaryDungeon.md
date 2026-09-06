@@ -26,7 +26,7 @@ XXX
 * **XXX {Enano}** XXX
 * **XXX {Halfling}** XXX
 
-Si necesitas más especies más exoticas, puedes recurrir a compresiones como ZIP o GZ, encriptados con diferentes encriptaciones XXX
+Si necesitas más especies más exóticas, puedes recurrir a compresiones como ZIP o GZ, encriptados con diferentes encriptaciones XXX
 
 ### Atributos y otras puntuaciones
 
@@ -45,7 +45,7 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 * Kilobytes {Kb}.
 
-### Habilides
+### Habilidades
 
 Si tú juego tiene habilidades, usaremos comandos para simular habilidades
 
@@ -128,13 +128,20 @@ XXX
 
 XXX
 
+## Escalas y tamaños
+
+Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.
+
+Por debajo puedes usar bytes para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits.
+
 ## Misiones, iniciadores y resultados
 
-Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Hay alguien que necesita que tus scripts se adentren en el sistema de carpetas.
+Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Siempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas. Veamos algunas opciones:
 
-* En la **unidad de disco extraíble {Taberna}** un oscuro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
-* El **SysAdmin {Conde, duque o rey de las tierras}** os invoca a través de la linea de comando para que salveis a toda la computadora trayendo algo del sistema de carpetas.
-* XXX
+* En la **unidad de disco extraíble {Taberna}** un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
+* El **SysAdmin {Conde, duque o rey de las tierras}** os invoca a través de la línea de comando para que salvéis a toda la computadora trayendo algo del sistema de carpetas.
+* Quizás el **antivirus {alguacil o jefe de la guardia}** necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.
+* El **programa de ejecución de un paquete de ofimática {rico comerciante}** necesita recuperar unas copias de seguridad.
 
 La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.
 
@@ -142,21 +149,22 @@ La misión no es solo adentrarse en un sistema de archivo, algo especial hay que
 * Debes **aplicar un _fix_ {ritual}** en una carpeta concreta del sistema para que no autodestruya todo el sistema.
 * **Resetear el sistema** antes de que algún script malvado termine sus procesos de actualización y se haga con el control de todo el ordenador.
 * **Limpiar de virus, troyanos y malware** un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.
+* **Rescatar unos backups** de unas facturas en hoja de cálculo de un grupo de _bugs_ que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.
 
 ## Ayudantes
 
-Si en tu juego de regerencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
+Si en tu juego de referencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
 
 Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
 
-* **XXX {Portaantorchas}** XXX
-* **JSON {Escudero}** XXX
-* **Archivo de configuración {Curandero}** XXX
-* **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas. XXX
+* **Archivo de configuración {Portaantorchas}** se 
+* **JSON {Escudero}** Este fichero se encarga de transportar por ti datos y variables importantes para ti.
+* **Copia de seguridad {Curandero}** con sus conocimientos básicos de tu código, puede recuperar las líneas que has perdido en tus aventuras.
+* **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas, como copiar archivos, borrarlos, crear archivos, los típicos comandos de línea de comandos.
 
 ## Bestiario
 
-En este bestiario no te vamos a dar un listado demonstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
+En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
 
 ### Dragón binario y hexadecimales
 
