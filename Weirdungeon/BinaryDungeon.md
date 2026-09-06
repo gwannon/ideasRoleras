@@ -1,4 +1,4 @@
-# Binary Dungeon
+# Mazmorra binaria
  
 Binary Dungeon es una capa narrativa que puedes poner sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
@@ -81,13 +81,19 @@ XXX
 
 ### Crons {XXX}
 
-XXX
+Los crons o tareas programadas con una forma fácil para explicar  todo lo que funcione independientemente dentro del  sistema de carpeta. XXX
 
 ### Path {XXX}
 
 XXX
 
-> Al diseñar un sistema de carpetas no importa físicamente donde están, solo importa su ruta dentro del sistema de carpetas. Aunque al dibujarlo las carpetas y subcarpetas se pudieran superponer no lo harán en el sistema de carpetas. Los enlaces simbólicos que conectan dos carpetas no tienen porque atravesar otras carpetas, pueden superponerse.
+> A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea logica. Aunque al dibujarlo las carpetas y subcarpetas no se van a  superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables. Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
+
+## Idiomas
+
+En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el «l33t» y el arte ASCII.
+
+XXX
 
 ## Trampas
 
@@ -119,6 +125,8 @@ Un grupo de scripts no se adentra en un sistema de archivo sin una razón. XXX
 
 Tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
 
+XXX
+
 ## Ejemplo de conversión de mazmorra
 
 XXX
@@ -126,3 +134,6 @@ XXX
 ## Licencia
 
 XXX
+
+
+
