@@ -1,12 +1,12 @@
 # Mazmorra binaria
  
-Mazmorra binaria es una capa narrativa que puedes poner sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos.
+**Mazmorra binaria** es una capa narrativa que puedes poner sobre tu **juego de rol de mazmorreo** favorito para **convertirlo en un mundo computacional y binario** de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
-Este suplemento no aporta reglas de juego, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
+Este suplemento **no aporta reglas de juego**, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
 
 ## Scripts
 
-Los PJ no son seres de fantasía, sino scripts que deben adentrarse por diversos motivos en el sistema de carpetas para buscar algún fichero perdido, borrar algún malware dañino, etc.
+Los PJ no son seres de fantasía, sino **scripts** que deben adentrarse por diversos motivos en el sistema de carpetas para buscar algún fichero perdido, borrar algún malware dañino, etc.
 
 ### Lenguaje {Clases}
 
@@ -124,41 +124,47 @@ Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asi
 
 XXX
 
-## Objetivos y datos
+## Borrado y estados
 
-Un grupo de scripts no se adentra en un sistema de archivo sin una razón. XXX
+XXX
 
-* Recuperar un fichero de datos perdido o enviado a la papelera
-* Aplicar un _fix_ al sistema
-* Resetear el sistema
-* Limpiar de virus, troyanos y malware un sistema de carpetas
+## Misiones, iniciadores y resultados
+
+Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Hay alguien que necesita que tus scripts se adentren en el sistema de carpetas.
+
+* En la **unidad de disco extraíble {Taberna}** un oscuro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
+* El **SysAdmin {Conde, duque o rey de las tierras}** os invoca a través de la linea de comando para que salveis a toda la computadora trayendo algo del sistema de carpetas.
+* XXX
+
+La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.
+
+* **Recuperar un fichero de datos muy especial {objeto de poder}** perdido o enviado a la papelera.
+* Debes **aplicar un _fix_ {ritual}** en una carpeta concreta del sistema para que no autodestruya todo el sistema.
+* **Resetear el sistema** antes de que algún script malvado termine sus procesos de actualización y se haga con el control de todo el ordenador.
+* **Limpiar de virus, troyanos y malware** un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.
 
 ## Ayudantes
 
-Tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
+Si en tu juego de regerencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
 
-XXX
+Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
+
+* **XXX {Portaantorchas}** XXX
+* **JSON {Escudero}** XXX
+* **Archivo de configuración {Curandero}** XXX
+* **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas. XXX
 
 ## Bestiario
 
-XXX
+En este bestiario no te vamos a dar un listado demonstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
 
-### Dragón binario
+### Dragón binario y hexadecimales
 
 Tiene aliento de bucle infinito XXX
 
 ### Buglins
 
 Mezcla de «bug» + «goblins». XXX
-
-## Empezando las aventuras
-
-XXX
-
-Tropos comunes
-
-* **Unidad de disco extraíble {Taberna}** encontráis en una unida de disco con otros scripts XXX
-* **sysadmin {Conde, duque o rey de las tierras}** XXX
 
 ## Ejemplo de conversión de mazmorra
 
