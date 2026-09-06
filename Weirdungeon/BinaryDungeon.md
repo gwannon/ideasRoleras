@@ -2,7 +2,7 @@
  
 Mazmorra binaria es una capa narrativa que puedes poner sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
-Este suplemento, no aporta reglas de juego, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
+Este suplemento no aporta reglas de juego, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
 
 ## Scripts
 
@@ -37,7 +37,7 @@ Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que repre
 * **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.XXX
 * **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones. XXX
 
-Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes PV, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
+Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
 
 Muchos sistemas tienen puntos de magia o poder, en esos casos lo puedes representar XXX
 
@@ -88,17 +88,17 @@ XXX
 
 ### Crons {XXX}
 
-Los crons o tareas programadas con una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta. XXX
+Los _crons_ o tareas programadas con una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta. XXX
 
 ### Path {XXX}
 
 XXX
 
-> A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea logica. Aunque al dibujarlo las carpetas y subcarpetas no se van a  superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables. Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
+> A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables. Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
 
 ## Idiomas
 
-En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el «l33t» y el arte ASCII.
+En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el _l33t_ y el arte ASCII.
 
 XXX
 
@@ -128,10 +128,10 @@ XXX
 
 Un grupo de scripts no se adentra en un sistema de archivo sin una razón. XXX
 
-* Recuperar un fichero de datos
+* Recuperar un fichero de datos perdido o enviado a la papelera
 * Aplicar un _fix_ al sistema
 * Resetear el sistema
-* XXX
+* Limpiar de virus, troyanos y malware un sistema de carpetas
 
 ## Ayudantes
 
@@ -157,7 +157,7 @@ XXX
 
 Tropos comunes
 
-* **Unidad de dico extraible {Taberna}** encontraís eun una unida de disco con otros scripts XXX
+* **Unidad de disco extraíble {Taberna}** encontráis en una unida de disco con otros scripts XXX
 * **sysadmin {Conde, duque o rey de las tierras}** XXX
 
 ## Ejemplo de conversión de mazmorra
@@ -168,6 +168,6 @@ La mazmorra de los sectores corruptos.
 
 ## Licencia
 
-Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/).
+Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon). Imágenes libres de derecho de diferentes fuentes.
 
-Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon). Imágenes libres de derecho de diferentes fuentes.
+Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
