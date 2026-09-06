@@ -23,7 +23,7 @@ XXX
 
 * **Texto plano {Humano}** XXX
 * **Binario {Elfo}** XXX
-* **XXX {Enano}** XXX
+* **Ejecutable {Enano}** XXX
 * **XXX {Halfling}** XXX
 
 Si necesitas más especies más exóticas, puedes recurrir a compresiones como ZIP o GZ, encriptados con diferentes encriptaciones XXX
@@ -34,16 +34,16 @@ Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que repre
 
 * **RAM {Destreza}** XXX
 * **Procesador {Vigor}** XXX
-* **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.XXX
+* **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.
 * **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones. XXX
 
 Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
 
-Muchos sistemas tienen puntos de magia o poder, en esos casos lo puedes representar XXX
+Muchos sistemas tienen puntos de magia o poder, en esos casos lo puedes representar usando XXX
 
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estás otras opciones.
 
-* Kilobytes {Kb}.
+* XXX
 
 ### Habilidades
 
@@ -62,7 +62,7 @@ XXX
 
 XXX
 
-### Carpeta {Habitaciones}
+### Carpeta {Habitaciones y salas}
 
 Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
