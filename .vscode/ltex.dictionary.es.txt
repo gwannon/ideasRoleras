@@ -745,3 +745,10 @@ Portaantorchas
 Weirdungeon
 fix
 subcarpetas
+Kb
+Gb
+BASH
+SysAdmin
+mazmorriles
+l33t
+crons

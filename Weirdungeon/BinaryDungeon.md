@@ -49,10 +49,12 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 Si tú juego tiene habilidades, usaremos comandos para simular habilidades
 
+* **mv {Atletismo, nadar, escalar}** XXX
 * **grep {Buscar}** XXX
 * **cat {Averiguar intenciones}** XXX
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
-* **ls {XXX}** XXX
+* **ls {Percepción}** XXX
+* **XXX {Esconderse, sigilo}** XXX
 
 ## Directorio
 
