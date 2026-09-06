@@ -1,10 +1,12 @@
 # Mazmorra binaria
  
-Binary Dungeon es una capa narrativa que puedes poner sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos.
+Mazmorra binaria es una capa narrativa que puedes poner sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos.
+
+Este suplemento, no aporta reglas de juego, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
 
 ## Scripts
 
-Los PJ no son seres fantásticos, sino scripts que deben adentrarse por diversos motivos en el sistema de carpetas para buscar algún fichero perdido, borrar algún malware dañino, etc.
+Los PJ no son seres de fantasía, sino scripts que deben adentrarse por diversos motivos en el sistema de carpetas para buscar algún fichero perdido, borrar algún malware dañino, etc.
 
 ### Lenguaje {Clases}
 
@@ -47,13 +49,10 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 ### Habilides
 
-XXX
+Si tú juego tiene habilidades, usaremos comandos para simular habilidades
 
-Usaremos comandos para nombrar habilidade
-
-* **cat {Buscar}** XXX
-
-XXX
+* **grep {Buscar}** XXX
+* **cat {Averiguar intenciones}** XXX
 
 ## Directorio
 
@@ -172,4 +171,3 @@ La mazmorra de los sectores corruptos.
 Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/).
 
 Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon). Imágenes libres de derecho de diferentes fuentes.
-
