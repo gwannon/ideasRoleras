@@ -10,10 +10,10 @@ Los PJ no son seres fantásticos, sino scripts que deben adentrarse por diversos
 
 Uno de los elementos principales de los jugadores en los juegos de mazmorreo son su clase {guerrero, ladrón, mago, etc.}. Así que hemos **asignado un lenguaje de programación a cada clase básica** de estos juegos.
 
-* **C {Guerrero}** Básico y sencillo, se ejecuta y hace su trabajo. Es lo más cercano al código maquina. No tiene complicadas bases de datos ni usa extrañas funciones como el MySQL. Puedes usar estos lenguajes para cuando trabajas con guerreros más especializados, C++, Objective-C, C#.
+* **C {Guerrero}** Básico y sencillo, se ejecuta y hace su trabajo. Es lo más cercano al código máquina. No tiene complicadas bases de datos ni usa extrañas funciones como el MySQL. Puedes usar estos lenguajes para cuando trabajas con guerreros más especializados, C++, Objective-C, C#.
 * **MySQL {Mago}** XXX
 * **JAVA {Explorador}** XXX
-* **JS {Picaro}** Anárquico e impredecible, el JavaScript es perfecto para representar a los picaros. XXX
+* **JS {Pícaro}** Anárquico e impredecible, el JavaScript es perfecto para representar a los pícaros. XXX
 
 ### Formato {Especies}
 
@@ -37,13 +37,21 @@ Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que repre
 
 XXX
 
-Las **líneas de codigo** pueden usar como similar de los **puntos de vida** y cuando pierdes PV, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
+Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes PV, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
 
 Muchos sistemas tienen puntos de magia o poder, en esos casos lo puedes representar XXX
 
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estás otras opciones.
 
 * Kilobytes {Kb}.
+
+### Habilides
+
+XXX
+
+Usaremos comandos para nombrar habilidade
+
+* **cat {Buscar}** XXX
 
 XXX
 
@@ -57,9 +65,9 @@ XXX
 
 ### Carpeta {Habitaciones}
 
-Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcatpetas. Cuantos más ficheros/subcatpetas más grandes es la carpeta.
+Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
-Normalmente las carpetas tienen una funcion, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.
+Normalmente las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.
 
 Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.
 
@@ -81,7 +89,7 @@ XXX
 
 ### Crons {XXX}
 
-Los crons o tareas programadas con una forma fácil para explicar  todo lo que funcione independientemente dentro del  sistema de carpeta. XXX
+Los crons o tareas programadas con una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta. XXX
 
 ### Path {XXX}
 
@@ -101,7 +109,7 @@ XXX
 
 ### Trampa de paredes móviles
 
-Esto se puede conseguir con un cron que copia a gran cñvelocidad archivos de gran dentro de la carpeta, de forma que cada vez hay menos espacio y los scripts acaben aplastados.
+Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados.
 
 ## Magia y habilidades especiales
 
@@ -121,19 +129,47 @@ XXX
 
 Un grupo de scripts no se adentra en un sistema de archivo sin una razón. XXX
 
+* Recuperar un fichero de datos
+* Aplicar un _fix_ al sistema
+* Resetear el sistema
+* XXX
+
 ## Ayudantes
 
 Tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
 
 XXX
 
-## Ejemplo de conversión de mazmorra
+## Bestiario
 
 XXX
+
+### Dragón binario
+
+Tiene aliento de bucle infinito XXX
+
+### Buglins
+
+Mezcla de «bug» + «goblins». XXX
+
+## Empezando las aventuras
+
+XXX
+
+Tropos comunes
+
+* **Unidad de dico extraible {Taberna}** encontraís eun una unida de disco con otros scripts XXX
+* **sysadmin {Conde, duque o rey de las tierras}** XXX
+
+## Ejemplo de conversión de mazmorra
+
+XXX 
+
+La mazmorra de los sectores corruptos.
 
 ## Licencia
 
-XXX
+Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/).
 
-
+Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.es). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon). Imágenes libres de derecho de diferentes fuentes.
 
