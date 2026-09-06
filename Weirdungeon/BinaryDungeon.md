@@ -32,12 +32,10 @@ Si necesitas más especies más exoticas, puedes recurrir a compresiones como ZI
 
 Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que representan varias cosas y aquí tienes sus adaptaciones computacionales.
 
-* **XXX {Destreza}** XXX
-* **XXX {Vigor}** XXX
-* **XXX {Voluntad}** XXX
-* **XXX {Inteligencia}** XXX
-
-XXX
+* **RAM {Destreza}** XXX
+* **Procesador {Vigor}** XXX
+* **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.XXX
+* **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones. XXX
 
 Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes PV, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
 
@@ -53,6 +51,8 @@ Si tú juego tiene habilidades, usaremos comandos para simular habilidades
 
 * **grep {Buscar}** XXX
 * **cat {Averiguar intenciones}** XXX
+* **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
+* **ls {XXX}** XXX
 
 ## Directorio
 
