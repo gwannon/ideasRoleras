@@ -22,12 +22,6 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
 ---
 
-### Equipo y monedas
-
-XXX
-
----
-
 ### Dragón
 
 Tiene aliento de bucle infinito XXX

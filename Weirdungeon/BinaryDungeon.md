@@ -42,6 +42,8 @@ Las **líneas de código** pueden usar como similar de los **puntos de vida** y 
 
 Muchos sistemas tienen puntos de magia (PM) o poder (PP), en esos casos lo puedes representar usando cosas como la «memoria asignada» como los PM/PP máximos, «memoria en uso» como los PM/PP que aún te quedan y «liberar memoria» para gastar PM/PP.
 
+Iniciativa, otro elemento muy normal, podemos denominarlo como XXX.
+
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * XXX
@@ -164,9 +166,47 @@ XXX
 * **XXX {Mareado}** XXX
 * **XXX {Paralizado}** XXX
 
-### Equipo y monedas
+## Librerías y créditos
+
+Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
+
+### Armas
+ 
+La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan grandes que lo mejor es no modificarlas mucho, simplemente añadirle sufijos o prefijos que le den un toque informático. Por ejemplo:
+
+* Ciber...
+* Tecno...
+* ... laser
+* ... de luz
+* ... de pulsos
+* ... binario
+* ... overclokeado
+* ... óptico 
+* Hexa ...
+* ... encriptado
+
+### Armaduras
 
 XXX
+
+### Herramientas
+
+XXX
+
+### Equipo de aventuras
+
+Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables al mundo de la informática.
+
+* Cable bus {cuerda}
+* Datos de transferencia {provisiones}
+* Pasta térmica {saco de dormir}
+* Enlace a datos permanentes {papel y tinta}
+
+### Objetos mágicos 
+
+Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.
+
+Si tenemos unos guantes de Vigor y el vigor lo hemos llamado XXX, podemos llamarlo una mejora de XXX o un bus de XXX.
 
 ## Escalas y tamaños
 
