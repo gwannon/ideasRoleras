@@ -22,12 +22,12 @@ Uno de los elementos principales de los jugadores en los juegos de mazmorreo son
 
 XXX
 
-* **Texto plano {Humano}** XXX
+* **Texto plano {Humano}** El más básico de los formatos para la más básica de las especies.
 * **Binario {Elfo}** XXX
 * **Ejecutable {Enano}** XXX
 * **Compilado {Halfling}** XXX
 
-Si necesitas más especies más exóticas, puedes recurrir a compresiones como ZIP o GZ, encriptados con diferentes encriptaciones XXX
+Si necesitas más especies más exóticas, puedes recurrir a compresiones, como ZIP o GZ, o a encriptados con diferentes sistemas, como SHA-256 o MD5.
 
 ### Atributos y otras puntuaciones
 
@@ -48,7 +48,7 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 ### Habilidades
 
-Si tú juego tiene habilidades, usaremos comandos para simular habilidades
+Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
 * **mv {Atletismo, nadar, escalar}** XXX
 * **grep {Buscar}** XXX
@@ -216,6 +216,22 @@ La misión no es solo adentrarse en un sistema de archivo, algo especial hay que
 Si en tu juego de referencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
 
 Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
+
+```
+       ,
+      /|	
+   , / | ,
+⹁  /|/  |/|, 
+|\|	,  , /|
+/  /| /|  /
+\ /	|/ | /
+ \|    //
+  \| |//
+   | |/ 
+   | |
+   | |
+   \_\
+```
 
 * **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
 * **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar pero necesitas en tus incursiones 
