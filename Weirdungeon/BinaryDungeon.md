@@ -53,10 +53,10 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
 * **mv {Atletismo, nadar, escalar}** XXX
-* **grep {Buscar}** XXX
-* **cat {Averiguar intenciones}** XXX
+* **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
+* **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
-* **ls {Percepción}** XXX
+* **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
 * **XXX {Esconderse, sigilo}** XXX
 
 ## Directorio
@@ -206,7 +206,7 @@ Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables
 
 Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.
 
-Si tenemos unos guantes de Vigor y el vigor lo hemos llamado XXX, podemos llamarlo una mejora de XXX o un bus de XXX.
+Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos llamarlo una mejora de procesador, redundancia de procesador o un bus de procesador.
 
 ## Escalas y tamaños
 
@@ -240,7 +240,7 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
 |asciiAntorcha.md|
 
 * **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
-* **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar pero necesitas en tus incursiones 
+* **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar, pero necesitas en tus incursiones 
 * **Copia de seguridad {Curandero}** con sus conocimientos básicos de tu código, puede recuperar las líneas que has perdido en tus aventuras.
 * **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas, como copiar archivos, borrarlos, crear archivos, los típicos comandos de línea de comandos.
 
@@ -273,7 +273,7 @@ Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por
 El ASCII Art ha sido sacado de diferentes fuentes:
 
 * El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
-* El dragon es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
+* El dragón es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
