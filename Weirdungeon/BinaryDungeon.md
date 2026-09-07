@@ -115,7 +115,7 @@ XXX
 ```
 
 XXX
-#
+
 ### Directorio/carpeta protegida {Estancia con puerta con cerradura}
 
 XXX
