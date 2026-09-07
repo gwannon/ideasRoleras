@@ -39,9 +39,9 @@ Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que repre
 
 Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
 
-Muchos sistemas tienen puntos de magia o poder, en esos casos lo puedes representar usando XXX
+Muchos sistemas tienen puntos de magia (PM) o poder (PP), en esos casos lo puedes representar usando cosas como la «memoria asignada» como los PM/PP máximos, «memoria en uso» como los PM/PP que aún te quedan y «liberar memoria» para gastar PM/PP.
 
-Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estás otras opciones.
+Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * XXX
 
@@ -114,7 +114,7 @@ Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran 
 
 ## Magia y habilidades especiales
 
-XXX
+La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede tener un juego de rol de mazmorreo pueden llegar a ser muy grandes. Así que trataremos de dar unas ayudas e indicaciones para que puedas hacer las conversiones que necesites.
 
 ### Hechizos
 
@@ -122,11 +122,31 @@ XXX
 
 Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los de aceleración todo lo contrario.
 
-### Habilidades especiales
+Los hechizos que juegan con versiones falsas de tí, pueden usar los backups para referirse a esas copias. Cuando son solo parte de tí, podemos trabajar con la cache, una copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
 
 XXX
 
-## Borrado y estados
+Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
+
+### Habilidades especiales
+
+Subrutinas XXX
+
+## Borrado y diferentes estados
+
+La muerte viene representada por el borrado. Los scripts no mueren, sino que son borrados, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
+
+Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
+
+Resucitar a alguien es tan fácil como buscar una copia de seguridad y descomprimirla y si no hay copias de seguridad es que está más allá de la resurrección.
+
+### Estados
+
+XXX
+
+* **XXX {XXX}** XXX
+
+### Equipo y monedas
 
 XXX
 
@@ -134,7 +154,7 @@ XXX
 
 Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.
 
-Por debajo puedes usar bytes para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits.
+Por debajo puedes usar bytes (B) para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.
 
 ## Misiones, iniciadores y resultados
 
