@@ -67,6 +67,21 @@ XXX
 
 ### Carpeta {Habitaciones y salas}
 
+```
+＼                         ／
+  ＼                     ／
+  ¦ ＼__________________¦ 
+  ¦  |                  ¦ 
+  ¦  |    ঌ       ঌ     ¦ 
+  ¦  |   (└)     (└)    ¦ 
+  ¦  |                  ¦ 
+  ¦  |                  ¦ 
+  ¦  |__________________¦ 
+  ¦ ／                  ¦ 
+  ／                     ＼
+／                         ＼
+```
+
 Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
 Normalmente las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.
@@ -180,9 +195,24 @@ Resucitar a alguien es tan fácil como buscar una copia de seguridad y descompri
 
 ### Estados
 
+```
+(𖦹ᯅ𖦹)
+
+(~_~)ᶻ 𝗓 𐰁
+
+(⌐■_■)
+```
+
 XXX
 
-* **XXX {XXX}** XXX
+* **XXX {Apresado}** XXX
+* **XXX {Aturdido}** XXX
+* **XXX {Cegado}** XXX
+* **XXX {Derribado}** XXX
+* **XXX {Dormido}** XXX
+* **XXX {Incapacitado}** XXX
+* **XXX {Mareado}** XXX
+* **XXX {Paralizado}** XXX
 
 ### Equipo y monedas
 
