@@ -67,20 +67,7 @@ XXX
 
 ### Carpeta {Habitaciones y salas}
 
-```
-＼                         ／
-  ＼                     ／
-  ¦ ＼__________________¦ 
-  ¦  |                  ¦ 
-  ¦  |    ঌ       ঌ     ¦ 
-  ¦  |   (└)     (└)    ¦ 
-  ¦  |                  ¦ 
-  ¦  |                  ¦ 
-  ¦  |__________________¦ 
-  ¦ ／                  ¦ 
-  ／                     ＼
-／                         ＼
-```
+|asciiPasillo.md|
 
 Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
@@ -90,29 +77,13 @@ Los ficheros tienen una representación física como si fueran mesas, camas, est
 
 ### Enlace duro {Puerta}
 
-```
-############
-###|----|###
-##|------|##
-##|------|##
-##|----@-|##
-##|------|##
-##|------|##
-```
+|asciiPuerta.md|
 
 XXX
 
 ### Enlace suave {Pasadizo secreto}
 
-```
-############
-###|####|###
-##|######|##
-##|######|##
-##|######|##
-##|######|##
-##|######|##
-```
+|asciiPasadizo.md|
 
 XXX
 
@@ -136,7 +107,7 @@ XXX
 
 ## Idiomas
 
-En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el _l33t_ y el arte ASCII.
+En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el _l33t_ y el código ASCII.
 
 XXX
 
@@ -154,22 +125,7 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 ### Hechizos
 
-```
-         /^\
-    /\   "V"
-   /__\   I 
-  //..\\  I
-  \].`[/  I
-  /l\/j\  (]
- /. ~~ ,\/I 
- \\L__j^\/I 
-  \/--v}  I 
-  |    |  I 
-  |    |  I
-  |    l  I 
-_/j  L l\_!
-
-```
+|asciiMago.md|
 
 XXX
 
@@ -195,13 +151,7 @@ Resucitar a alguien es tan fácil como buscar una copia de seguridad y descompri
 
 ### Estados
 
-```
-(𖦹ᯅ𖦹)
-
-(~_~)ᶻ 𝗓 𐰁
-
-(⌐■_■)
-```
+|asciiEstados.md|
 
 XXX
 
@@ -247,21 +197,7 @@ Si en tu juego de referencia, los personajes pueden contratar portaantorchas, es
 
 Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
 
-```
-       ,
-      /|	
-   , / | ,
-⹁  /|/  |/|, 
-|\|	,  , /|
-/  /| /|  /
-\ /	|/ | /
- \|    //
-  \| |//
-   | |/ 
-   | |
-   | |
-   \_\
-```
+|asciiAntorcha.md|
 
 * **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
 * **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar pero necesitas en tus incursiones 
@@ -274,36 +210,13 @@ En este bestiario no te vamos a dar un listado de monstruos con estadísticas, s
 
 ### Dragón binario y hexadecimales
 
-```
-     /     \
-    ((     ))
-===  \\_v_//  ===
-  ====)_^_(====
-  ===/ O O \===
-  = | /_ _\ | =
- =   \/_ _\/   =
-      \_ _/
-      (o_o)
-       VwV
-```
+|asciiDragon.md|
 
 Tiene aliento de bucle infinito XXX
 
 ### Buglins
 
-```
-       ,      ,
-      /(.-""-.)\
-  |\  \/      \/  /|
-  | \ / =.  .= \ / |
-  \( \   o\/o   / )/
-   \_, '-/  \-' ,_/
-     /   \__/   \
-     \ \__/\__/ /
-   ___\ \|--|/ /___
- /`    \      /    `\
-/       '----'       \
-```
+|asciiGoblin.md|
 
 Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
 
