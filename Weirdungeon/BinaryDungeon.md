@@ -57,7 +57,9 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 * **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
+* **rename {Juegos de manos, ocultar}** XXX
 * **XXX {Esconderse, sigilo}** XXX
+* **make {Reparar, construir}** XXX
 
 ## Directorio
 
@@ -266,14 +268,5 @@ XXX
 
 La mazmorra de los sectores corruptos.
 
-## Licencia
 
-Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon).
-
-El ASCII Art ha sido sacado de diferentes fuentes:
-
-* El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
-* El dragón es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
-* El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
-
-Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
+|Licencia.md|
