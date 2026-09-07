@@ -13,9 +13,10 @@ Los PJ no son seres de fantasía, sino **scripts** que deben adentrarse por dive
 Uno de los elementos principales de los jugadores en los juegos de mazmorreo son su clase {guerrero, ladrón, mago, etc.}. Así que hemos **asignado un lenguaje de programación a cada clase básica** de estos juegos.
 
 * **C {Guerrero}** Básico y sencillo, se ejecuta y hace su trabajo. Es lo más cercano al código máquina. No tiene complicadas bases de datos ni usa extrañas funciones como el MySQL. Puedes usar estos lenguajes para cuando trabajas con guerreros más especializados, C++, Objective-C, C#.
-* **MySQL {Mago}** XXX
-* **JAVA {Explorador}** XXX
-* **JS {Pícaro}** Anárquico e impredecible, el JavaScript es perfecto para representar a los pícaros. XXX
+* **MySQL {Lanzador de conjuros}** Las sendas de la magia no son más extrañas que el SQL, así que si tienes un lanzador de conjuros puedes usar alguna de sus variantes según el origen de su magia: divina, arcana, natural, elemental, etc. Así tendríamos MySQL, PostgreSQL, SQLite, SQL Server, MariaDB, etc.
+* **JAVA {Explorador}** El JAVA es la opción que se adapta a todas las situaciones, pero no es especialmente buena en ellos, así que es como el explorador, que ni es guerrero, ni es druida, ni ladrón, pero puede intentarlo. 
+* **JS {Pícaro}** Anárquico e impredecible, el JavaScript es perfecto para representar a los pícaros.
+* **CSS {Bardo}** Puede que digas que CSS no es un lenguaje de programación, pero yo sí lo pienso y creo que es perfecto para representar a los bardos.
 
 ### Formato {Especies}
 
@@ -24,7 +25,7 @@ XXX
 * **Texto plano {Humano}** XXX
 * **Binario {Elfo}** XXX
 * **Ejecutable {Enano}** XXX
-* **XXX {Halfling}** XXX
+* **Compilado {Halfling}** XXX
 
 Si necesitas más especies más exóticas, puedes recurrir a compresiones como ZIP o GZ, encriptados con diferentes encriptaciones XXX
 
@@ -138,6 +139,23 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 ### Hechizos
 
+```
+         /^\
+    /\   "V"
+   /__\   I 
+  //..\\  I
+  \].`[/  I
+  /l\/j\  (]
+ /. ~~ ,\/I 
+ \\L__j^\/I 
+  \/--v}  I 
+  |    |  I 
+  |    |  I
+  |    l  I 
+_/j  L l\_!
+
+```
+
 XXX
 
 Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los de aceleración todo lo contrario.
@@ -199,8 +217,8 @@ Si en tu juego de referencia, los personajes pueden contratar portaantorchas, es
 
 Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
 
-* **Archivo de configuración {Portaantorchas}** se 
-* **JSON {Escudero}** Este fichero se encarga de transportar por ti datos y variables importantes para ti.
+* **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
+* **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar pero necesitas en tus incursiones 
 * **Copia de seguridad {Curandero}** con sus conocimientos básicos de tu código, puede recuperar las líneas que has perdido en tus aventuras.
 * **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas, como copiar archivos, borrarlos, crear archivos, los típicos comandos de línea de comandos.
 
@@ -255,7 +273,8 @@ Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por
 
 El ASCII Art ha sido sacado de diferentes fuentes:
 
-* el goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
+* El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
 * El dragon es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
+* El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
