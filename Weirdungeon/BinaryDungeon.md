@@ -74,12 +74,32 @@ Los ficheros tienen una representación física como si fueran mesas, camas, est
 
 ### Enlace duro {Puerta}
 
+```
+############
+###|----|###
+##|------|##
+##|------|##
+##|----@-|##
+##|------|##
+##|------|##
+```
+
 XXX
 
 ### Enlace suave {Pasadizo secreto}
 
-XXX
+```
+############
+###|####|###
+##|######|##
+##|######|##
+##|######|##
+##|######|##
+##|######|##
+```
 
+XXX
+#
 ### Directorio/carpeta protegida {Estancia con puerta con cerradura}
 
 XXX
@@ -190,11 +210,38 @@ En este bestiario no te vamos a dar un listado de monstruos con estadísticas, s
 
 ### Dragón binario y hexadecimales
 
+```
+     /     \
+    ((     ))
+===  \\_v_//  ===
+  ====)_^_(====
+  ===/ O O \===
+  = | /_ _\ | =
+ =   \/_ _\/   =
+      \_ _/
+      (o_o)
+       VwV
+```
+
 Tiene aliento de bucle infinito XXX
 
 ### Buglins
 
-Mezcla de «bug» + «goblins». XXX
+```
+       ,      ,
+      /(.-""-.)\
+  |\  \/      \/  /|
+  | \ / =.  .= \ / |
+  \( \   o\/o   / )/
+   \_, '-/  \-' ,_/
+     /   \__/   \
+     \ \__/\__/ /
+   ___\ \|--|/ /___
+ /`    \      /    `\
+/       '----'       \
+```
+
+Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
 
 ## Ejemplo de conversión de mazmorra
 
@@ -204,6 +251,11 @@ La mazmorra de los sectores corruptos.
 
 ## Licencia
 
-Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon). Imágenes libres de derecho de diferentes fuentes.
+Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon).
+
+El ASCII Art ha sido sacado de diferentes fuentes:
+
+* el goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
+* El dragon es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
