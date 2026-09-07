@@ -16,8 +16,8 @@ Si necesitas más especies más exóticas, puedes recurrir a compresiones, como 
 Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
 * **mv {Atletismo, nadar, escalar}** XXX
-* **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
-* **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
+* **grep {Buscar}** permite buscar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
+* **cat {Averiguar intenciones}** permite ver el interior de los scripts y los ficheros, pudiendo averiguar sus intenciones.
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
 * **XXX {Esconderse, sigilo}** XXX
