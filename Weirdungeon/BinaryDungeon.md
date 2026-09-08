@@ -2,6 +2,8 @@
 
 # Mazmorra binaria [por Gwannon_](https://gwannon.com/)
 
+|asciiPortada.md|
+
 \conc
 
 \sp
@@ -26,14 +28,16 @@ Uno de los elementos principales de los jugadores en los juegos de mazmorreo son
 
 ### Formato {Especies}
 
-XXX
+Para representar la especie de tu PJ hemos usado los formatos de ficheros.
 
 \sp
 
+Te ofrecemos los 4 básicos que salen en la mayoría de juegos de rol de mazmorreo.
+
 * **Texto plano {Humano}** El más básico de los formatos para la más básica de las especies.
-* **Binario {Elfo}** XXX
-* **Ejecutable {Enano}** XXX
-* **Compilado {Halfling}** XXX
+* **Binario {Elfo}** Antiguos y poderosos y programados en los más antiguos lenguajes como C, los ficheros binarios son los elfos de los formatos.
+* **Ejecutable {Enano}** Pragmático y cabezotas, los ejecutables como los enanos son de ideas fijas y de ponerse a trabajar al momento ante cualquier situación.
+* **Compilado {Halfling}** Siguiendo con las costumbres medianas, los compilados están ahí tranquilamente en su carpeta a la espera de que algún otro script los invoque.
 
 Si necesitas más especies más exóticas, puedes recurrir a compresiones, como ZIP o GZ, o a encriptados con diferentes sistemas, como SHA-256 o MD5.
 
@@ -57,15 +61,14 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 * XXX
 
+\sp
+
 ### Habilidades
 
 Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
 * **mv {Atletismo, nadar, escalar}** XXX
 * **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
-
-\sp
-
 * **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
@@ -129,6 +132,8 @@ En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas.
 
 XXX
 
+\sp
+
 ## Trampas
 
 XXX
@@ -164,6 +169,8 @@ Subrutinas XXX
 La muerte viene representada por el borrado. Los scripts no mueren, sino que son borrados, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
 
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
+
+\sp
 
 Resucitar a alguien es tan fácil como buscar una copia de seguridad y descomprimirla y si no hay copias de seguridad es que está más allá de la resurrección.
 
@@ -211,6 +218,8 @@ XXX
 
 XXX
 
+\sp
+
 ### Equipo de aventuras
 
 Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables al mundo de la informática.
@@ -243,6 +252,8 @@ Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Sie
 * Quizás el **antivirus {alguacil o jefe de la guardia}** necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.
 * El **programa de ejecución de un paquete de ofimática {rico comerciante}** necesita recuperar unas copias de seguridad.
 
+\sp
+
 La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.
 
 * **Recuperar un fichero de datos muy especial {objeto de poder}** perdido o enviado a la papelera.
@@ -267,6 +278,8 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
 ## Bestiario
 
 En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
+
+\sp
 
 ### Dragón binario y hexadecimales
 

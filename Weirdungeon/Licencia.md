@@ -4,8 +4,9 @@ Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por
 
 El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:
 
-* El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
-* El dragón es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
+* El dragón es de [emojicombos.com](https://emojicombos.com/dragon-ascii-art)
+* El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin)
+* El dragón del bestiario es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
 * La jarra de cerveza de Elissa Potier publicada en [asciiart.eu](https://www.asciiart.eu/art/476b636d123b6ad8).
 * La espada publicada en [asciiart.eu](https://www.asciiart.eu/art/2e8c693919b640a0).

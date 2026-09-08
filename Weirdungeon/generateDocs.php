@@ -40,6 +40,7 @@ $html = preg_replace_callback("/\"saltopagina\"/", function($matches) {
   global $counter;
   if ($counter%2 == 0) $matches[0] = '"saltopagina even"';
   else $matches[0] = '"saltopagina odd"';
+  if ($counter == 1) $matches[0] = '"saltopagina odd firstpage"';
   $counter++;
   return $matches[0];
 }, $html);
