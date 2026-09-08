@@ -1,6 +1,6 @@
 
 
-# Mazmorra binaria
+# Mazmorra binaria [por Gwannon_](https://gwannon.com/)
 
 
 

@@ -6,7 +6,7 @@
 }
 
 body {
-  background: var(--color-black) url(./images/bg.png) repeat center center;
+  background: var(--color-black) /*url(./images/bg.png)*/ repeat center center;
   margin: 0;
   padding: 0;
   font-family: "Space Mono", monospace;
@@ -21,7 +21,7 @@ body#GuiaAgileParaPrimigeniosSLBW {
   background-image: none;
 }
 
-body:before {
+/*body:before {
   content: "";
   display: block;
   width: var(--padding);
@@ -29,7 +29,6 @@ body:before {
   position: fixed;
   top: 0px;
   left: 0px;
-  /*Aqui gestionamos el diseño del borde*/
   background: transparent url(./images/border1.png) top left repeat-y;
   background-size: 50px;
 }
@@ -42,9 +41,8 @@ body:after {
   position: fixed;
   top: 0px;
   right: 0px;
-  /*Aqui gestionamos el diseño del borde*/
   background: transparent url(./images/border2.png) top right repeat-y;
-}
+}*/
 
 body#GuiaAgileParaPrimigeniosSLBW:before,
 body#GuiaAgileParaPrimigeniosSLBW:after {
@@ -114,20 +112,30 @@ blockquote p strong {
 /* Titulares */
 
 h1 {
-  font-family: "Space Mono", monospace;
+  font-family: "Monoton", sans-serif;
   color: var(--color-blue);
   text-align: center;
-  font-size: 2.2em;
+  font-size: 4em;
   margin: 0 0 30px 0;
   padding: 20px 10px 10px !important;
   line-height: 120%;
   text-shadow: 0 0 5px var(--color-dark-blue), 0 0 10px var(--color-dark-blue), 0 0 20px var(--color-dark-blue);
+  font-weight: 400;
+}
+
+h1 > a {
+  font-family: "Space Mono", monospace;
+  color: var(--color-blue);
+  text-decoration: none;
+  display: block;
+  font-size: 0.3em;
+  line-height: 100%;
 }
 
 h2,
 h3 {
-  font-family: "Space Mono", monospace;
-  font-weight: 700;
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
   font-style: normal;
   color: var(--color-blue);
   margin-bottom: 0px;
@@ -139,7 +147,9 @@ h3 {
 }
 
 h3 {
+  font-family: "Space Mono", monospace;
   font-size: 1.2em;
+  font-weight: 700;
   text-shadow: 0 0 5px var(--color-dark-blue), 0 0 5px var(--color-dark-blue), 0 0 5px var(--color-dark-blue);
 }
 
@@ -166,16 +176,31 @@ p {
   margin: 0.45em 0;
 }
 
+strong {
+  background-color: var(--color-blue);
+  color: var(--color-black);
+}
+
+strong:before,
+strong:after {
+    content: "|";
+    color: var(--color-blue);
+    font-family: arial;
+}
+
 pre {
   padding: 0px;
-  margin: 10px 10px 0px 0px;
+  margin: 10px 30px 0px 0px;
   max-width: 320px;
   float: left;
 }
 
 pre > code {
-  max-width: 320px;
-  font-size: 16px;
+    max-width: 320px;
+    font-size: 12px;
+    display: block;
+    font-weight: bold;
+    text-shadow: 0 0 5px var(--color-dark-blue), 0 0 5px var(--color-dark-blue), 0 0 5px var(--color-dark-blue);
 }
 
 a {
@@ -217,10 +242,10 @@ a.pdf {
 }
 
 @media screen {
-  .saltopagina {
+  /*.saltopagina {
     border-top: 3px dashed var(--color-blue);
     border-bottom:  3px dashed var(--color-blue);
-  }
+  }*/
 
   .columns {
     columns: auto;
