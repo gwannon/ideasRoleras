@@ -48,7 +48,6 @@ Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que repre
 * **RAM {Destreza}** XXX
 * **Procesador {Vigor}** XXX
 * **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.
-
 * **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones. XXX
 
 Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
