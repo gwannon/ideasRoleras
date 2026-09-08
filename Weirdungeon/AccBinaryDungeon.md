@@ -1,10 +1,10 @@
-\sinc
+
 
 # Mazmorra binaria
 
-\conc
 
-\sp
+
+
  
 **Mazmorra binaria** es una capa narrativa que puedes poner sobre tu **juego de rol de mazmorreo** favorito para **convertirlo en un mundo computacional y binario** de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
@@ -28,7 +28,7 @@ Uno de los elementos principales de los jugadores en los juegos de mazmorreo son
 
 XXX
 
-\sp
+
 
 * **Texto plano {Humano}** El más básico de los formatos para la más básica de las especies.
 * **Binario {Elfo}** XXX
@@ -64,7 +64,7 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 * **mv {Atletismo, nadar, escalar}** XXX
 * **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
 
-\sp
+
 
 * **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
@@ -83,7 +83,22 @@ XXX
 
 ### Carpeta {Habitaciones y salas}
 
-|asciiPasillo.md|
+```
+＼                         ／
+  ＼                     ／ 
+  ¦ ＼__________________|
+  ¦  |                  |
+  ¦  |                  |   ঌ
+  ¦  |    ঌ       ঌ     |  (└)   
+  ¦  |   (└)     (└)    |
+  ¦  |                  |
+  ¦  |                  | 
+  ¦  |                  | 
+  ¦  |__________________| 
+  ¦ ／                  | 
+  ／                     ＼
+／                         ＼
+```
 
 Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
@@ -91,17 +106,37 @@ Normalmente las carpetas tienen una función, almacenar archivos de MP3, guardar
 
 Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.
 
-\sp
+
 
 ### Enlace duro {Puerta}
 
-|asciiPuerta.md|
+```
+____________________
+
+        █████
+ ঌ     █-----█    ঌ
+(└)   █-------█  (└)
+      █-------█
+      █-----@-█
+      █-------█
+______█-------█______
+```
 
 XXX
 
 ### Enlace suave {Pasadizo secreto}
 
-|asciiPasadizo.md|
+```
+_____________________
+
+        -----
+ ঌ     ¦     ¦    ঌ
+(└)   ¦       ¦  (└)
+      ¦       ¦
+      ¦       ¦
+      ¦       ¦
+______¦_______¦______
+```
 
 XXX
 
@@ -143,7 +178,22 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 ### Hechizos
 
-|asciiMago.md|
+```
+         /^\
+    /\   "V"
+   /__\   I 
+  //..\\  I
+  \].`[/  I
+  /l\/j\  (]
+ /. ~~ ,\/I 
+ \\L__j^\/I 
+  \/--v}  I 
+  |    |  I 
+  |    |  I
+  |    l  I 
+_/j  L l\_!
+
+```
 
 XXX
 
@@ -169,7 +219,13 @@ Resucitar a alguien es tan fácil como buscar una copia de seguridad y descompri
 
 ### Estados
 
-|asciiEstados.md|
+```
+(𖦹ᯅ𖦹)
+
+(~_~)ᶻ 𝗓 𐰁
+
+(⌐■_■)
+```
 
 XXX
 
@@ -253,7 +309,22 @@ Si en tu juego de referencia, los personajes pueden contratar portaantorchas, es
 
 Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
 
-|asciiAntorcha.md|
+
+```
+       ,
+      /|	
+   , / |  ,
+⹁  /|/  |／| 
+|\|	,  , ／|,
+/  /| /|   /
+\ /	|/ |  /
+ \| ^^  / /
+  ＼|█|/ /
+    |█|／ 
+    |█|
+    |█|
+    \█\
+```
 
 * **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
 * **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar, pero necesitas en tus incursiones 
@@ -266,13 +337,36 @@ En este bestiario no te vamos a dar un listado de monstruos con estadísticas, s
 
 ### Dragón binario y hexadecimales
 
-|asciiDragon.md|
+```
+     /     \
+    ((     ))
+===  \\_v_//  ===
+  ====)_^_(====
+  ===/ O O \===
+  = | /_ _\ | =
+ =   \/_ _\/   =
+      \_ _/
+      (o_o)
+       VwV
+```
 
 Tiene aliento de bucle infinito XXX
 
 ### Buglins
 
-|asciiGoblin.md|
+```
+       ,      ,
+      /(.-""-.)\
+  |\  \/      \/  /|
+  | \ / =.  .= \ / |
+  \( \   o\/o   / )/
+   \_, '-/  \-' ,_/
+     /   \__/   \
+     \ \__/\__/ /
+   ___\ \|--|/ /___
+ /`    \      /    `\
+/       '----'       \
+```
 
 Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
 
@@ -282,6 +376,16 @@ XXX
 
 La mazmorra de los sectores corruptos.
 
-\sp
 
-|Licencia.md|
+
+## Licencia
+
+Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon).
+
+El ASCII Art ha sido creaaado por mí o ha sido sacado de diferentes fuentes:
+
+* El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
+* El dragón es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
+* El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
+
+Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).

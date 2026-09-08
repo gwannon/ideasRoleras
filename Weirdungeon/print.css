@@ -1,0 +1,304 @@
+:root {
+  --padding: 65px; /*Ancho de los bordes de la página*/
+  --color-blue: #35e5f8;
+  --color-dark-blue: #2ca6b4;
+  --color-black: #000;
+}
+
+body {
+  background: var(--color-black) url(./images/bg.png) repeat center center;
+  margin: 0;
+  padding: 0;
+  font-family: "Space Mono", monospace;
+  font-weight: 300;
+  color: var(--color-blue);
+  font-size: 15px;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW {
+  --color-blue: #000;
+  --color-black: #fff;
+  background-image: none;
+}
+
+body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border1.png) top left repeat-y;
+  background-size: 50px;
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  /*Aqui gestionamos el diseño del borde*/
+  background: transparent url(./images/border2.png) top right repeat-y;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW:before,
+body#GuiaAgileParaPrimigeniosSLBW:after {
+  display: none;
+}
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+body > *:first-child,
+.saltopagina + *:not(blockquote) {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.columns {
+  columns: 1;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+/*blockquote {
+  font-family: 'Delicious Handrawn';
+  background: transparent url(./images/post-it.png) center center no-repeat;
+  background-size: cover;
+  width: 256px;
+  color: #5980d4;
+  text-align: center;
+  font-weight: 300;
+  padding: 102px 40px;
+  margin: 0px 0px 0px 120px;
+  transform: rotate(-10deg);
+  font-size: 33px;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW blockquote {
+  background-image: url(./images/post-itBW.png);
+  color: var(--color-black);
+}
+
+blockquote p {
+  padding: 0px;
+  margin: 0px;
+}
+
+blockquote p strong {
+  text-decoration: underline;
+  display: inline-block;
+  margin-top: 8px;
+}*/
+
+/* Titulares */
+
+h1 {
+  font-family: "Space Mono", monospace;
+  color: var(--color-blue);
+  text-align: center;
+  font-size: 2.2em;
+  margin: 0 0 30px 0;
+  padding: 20px 10px 10px !important;
+  line-height: 120%;
+  text-shadow: 0 0 5px var(--color-dark-blue), 0 0 10px var(--color-dark-blue), 0 0 20px var(--color-dark-blue);
+}
+
+h2,
+h3 {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+  color: var(--color-blue);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  line-height: 120%;
+  font-size: 2em;
+  color: var(--color-blue);
+  text-shadow: 0 0 10px var(--color-dark-blue), 0 0 10px var(--color-dark-blue), 0 0 20px var(--color-dark-blue);
+}
+
+h3 {
+  font-size: 1.2em;
+  text-shadow: 0 0 5px var(--color-dark-blue), 0 0 5px var(--color-dark-blue), 0 0 5px var(--color-dark-blue);
+}
+
+h2 + p {
+  margin-top: 0px;
+}
+
+body#GuiaAgileParaPrimigeniosSLBW *:is(h1, h2, h3, h4) {
+  color: var(--color-black);
+}
+
+/* Otros elementos */
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  margin-left: 28px;
+}
+
+p {
+  margin: 0.45em 0;
+}
+
+pre {
+  padding: 0px;
+  margin: 10px 10px 0px 0px;
+  max-width: 320px;
+  float: left;
+}
+
+pre > code {
+  max-width: 320px;
+  font-size: 16px;
+}
+
+a {
+  color: var(--color-blue);
+  text-decoration: underline;
+}
+
+table {
+  border: 4px double black;
+  width: 100%;
+}
+
+table thead tr th,
+table tbody tr td:first-of-type {
+  font-family: "Bitcount Grid Double", system-ui;
+}
+
+table tbody tr td:first-of-type {
+  text-align: center;
+}
+
+table tbody tr td:not(table tbody tr:last-of-type td) {
+  border-bottom: 4px double black;
+}
+
+a.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: var(--color-black);
+    background-color: var(--color-blue);
+    display: block;
+    padding: 10px;
+    margin: 0px;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-size: 30px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-blue);
+    border-bottom:  3px dashed var(--color-blue);
+  }
+
+  .columns {
+    columns: auto;
+  }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 840px) {
+
+  body {
+    padding: 0 10px;
+  }
+
+  body:after,
+  body:before {
+    opacity: 0;
+  }
+
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: "Bitcount Grid Double", system-ui;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - (var(--size) / 2));
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 20px;
+  padding: 5px 5px 3px;
+  color: var(--color-blue);
+}
