@@ -232,6 +232,8 @@ Por debajo puedes usar bytes (B) para espadas, cascos, escudos o sacos de dormir
 
 ## Misiones, iniciadores y resultados
 
+|asciiCerveza.md|
+
 Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Siempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas. Veamos algunas opciones:
 
 * En la **unidad de disco extraíble {Taberna}** un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.

@@ -288,6 +288,22 @@ Por debajo puedes usar bytes (B) para espadas, cascos, escudos o sacos de dormir
 
 ## Misiones, iniciadores y resultados
 
+
+```
+  .   *   ..  . *  *
+*  * @()Ooc()*   o  .
+    (Q@*0CG*O()  ___
+   |\_________/|/ _ \
+   |  |  |  |  | / | |
+   |  |  |  |  | | | |
+   |  |  |  |  | | | |
+   |  |  |  |  | \_| |
+   |  |  |  |  |\___/
+   |\_|__|__|_/|
+    \_________/
+
+```
+
 Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Siempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas. Veamos algunas opciones:
 
 * En la **unidad de disco extraíble {Taberna}** un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
@@ -387,5 +403,6 @@ El ASCII Art ha sido creaaado por mí o ha sido sacado de diferentes fuentes:
 * El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin).
 * El dragón es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
+* La jarra de cerveza de Elissa Potier publicado en [asciiart.eu](https://www.asciiart.eu/art/476b636d123b6ad8).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
