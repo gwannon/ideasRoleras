@@ -184,6 +184,8 @@ XXX
 
 ## Librerías y créditos
 
+|asciiEspada.md|
+
 Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
 
 ### Armas
