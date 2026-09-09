@@ -66,14 +66,15 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
-* **mv {Atletismo, nadar, escalar}** XXX
-* **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
-* **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
-* **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
+* **cd {Atletismo, nadar, escalar}** permite moverte por las carpetas, así que es el comando perfecto para representar correr, escalar, saltar, etc. Puede usarse **mv** para pruebas de fuerza que exijan mover ficheros.
+* **grep {Buscar}** permite buscar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
+* **cat {Averiguar intenciones}** permite ver el interior de los scripts y los ficheros, pudiendo averiguar sus intenciones.
+* **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc.
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
-* **rename {Juegos de manos, ocultar}** XXX
-* **XXX {Esconderse, sigilo}** XXX
-* **make {Reparar, construir}** XXX
+* **rn {Esconderse, sigilo, disfrazarse}** permite renombrar ficheros de forma que puedas hacerte o hacer a otros pasar por lo que no son. También puedes ocultarte poniendo un punto delante de tu nombre. 
+* **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerias y unos ficheros de configuración crear y/o reparar un programa.
+* **pwd {Supervivencia, orientacion}** permite saber dónde estás dentro del sistema de carpetas dándote tu _path_ actual.
+
 
 ## Directorio
 
