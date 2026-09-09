@@ -51,9 +51,9 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-if($argv[1] == 'BinaryDungeon') {
+if($argv[1] == 'MazmorraBinaria') {
   $metas = "InfoKey: Title\n";
-  $metas .= "InfoValue: Mazmorra binaria por Gwannon\n\n";
+  $metas .= "InfoValue: Mazmorra binaria - Ver. 1.0\n\n";
   $metas .= "InfoKey: Subject\n";
   $metas .= "InfoValue: Mazmorra binaria es una capa narrativa que puedes poner sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos. Versión 1.0.\n\n";
   $metas .= "InfoKey: Author\n";
