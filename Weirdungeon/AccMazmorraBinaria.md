@@ -397,10 +397,6 @@ La misión no es solo adentrarse en un sistema de archivo, algo especial hay que
 
 ## Ayudantes
 
-Si en tu juego de referencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
-
-Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
-
 
 ```
        ,
@@ -417,6 +413,10 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
     |█|
     \█\
 ```
+
+Si en tu juego de referencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
+
+Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
 
 * **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
 * **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar, pero necesitas en tus incursiones 
