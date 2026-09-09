@@ -19,34 +19,6 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 ---
 
-### Habilidades
-
-Si tu juego tiene habilidades, usaremos comandos para simular habilidades
-
-* **mv {Atletismo, nadar, escalar}** XXX
-* **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
-* **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
-* **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
-* **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
-* **rename {Juegos de manos, ocultar}** XXX
-* **XXX {Esconderse, sigilo}** XXX
-* **make {Reparar, construir}** XXX
-
----
-
-### Habilidades
-
-Si tu juego tiene habilidades, usaremos comandos para simular habilidades
-
-* **mv {Atletismo, nadar, escalar}** XXX
-* **grep {Buscar}** permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. 
-* **cat {Averiguar intenciones}** permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.
-* **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX
-* **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
-* **XXX {Esconderse, sigilo}** XXX
-
----
-
 ### Estados
 
 |asciiEstados.md|
@@ -61,3 +33,27 @@ XXX
 * **XXX {Incapacitado}** XXX
 * **XXX {Mareado}** XXX
 * **XXX {Paralizado}** XXX
+
+---
+
+## Librerías y créditos
+
+|asciiEspada.md|
+
+Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
+
+---
+
+### Hechizos
+
+|asciiMago.md|
+
+XXX
+
+Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los de aceleración todo lo contrario.
+
+Los hechizos que juegan con versiones falsas de ti, pueden usar los backups para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
+
+XXX
+
+Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX

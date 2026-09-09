@@ -120,14 +120,14 @@
 <h3>Habilidades</h3>
 <p>Si tu juego tiene habilidades, usaremos comandos para simular habilidades</p>
 <ul>
-<li><strong>mv {Atletismo, nadar, escalar}</strong> XXX</li>
-<li><strong>grep {Buscar}</strong> permite buscaar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. </li>
-<li><strong>cat {Averiguar intenciones}</strong> permite ver el interior de los scripts y lo ficheros, pudiendo aaveriguar sus intenciones.</li>
-<li><strong>wget {Conocimientos}</strong> permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc. XXX</li>
+<li><strong>cd {Atletismo, nadar, escalar}</strong> permite moverte por las carpetas, así que es el comando perfecto para representar correr, escalar, saltar, etc. Puede usarse <strong>mv</strong> para pruebas de fuerza que exijan mover ficheros.</li>
+<li><strong>grep {Buscar}</strong> permite buscar patrones y expresiones regulares, lo que permite buscar en ficheros, crons, bus de datos, etc. </li>
+<li><strong>cat {Averiguar intenciones}</strong> permite ver el interior de los scripts y los ficheros, pudiendo averiguar sus intenciones.</li>
+<li><strong>wget {Conocimientos}</strong> permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc.</li>
 <li><strong>ls {Percepción}</strong> permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.</li>
-<li><strong>rename {Juegos de manos, ocultar}</strong> XXX</li>
-<li><strong>XXX {Esconderse, sigilo}</strong> XXX</li>
-<li><strong>make {Reparar, construir}</strong> XXX</li>
+<li><strong>rn {Esconderse, sigilo, disfrazarse}</strong> permite renombrar ficheros de forma que puedas hacerte o hacer a otros pasar por lo que no son. También puedes ocultarte poniendo un punto delante de tu nombre. </li>
+<li><strong>make {Reparar, construir}</strong> permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerias y unos ficheros de configuración crear y/o reparar un programa.</li>
+<li><strong>pwd {Supervivencia, orientacion}</strong> permite saber dónde estás dentro del sistema de carpetas dándote tu <i>path</i> actual.</li>
 </ul>
 <h2>Directorio</h2>
 <p>XXX</p>
@@ -150,8 +150,8 @@
 ／                         ＼</code></pre>
 <p>Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.</p>
 <p>Normalmente las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.</p>
-<p>Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.</p>
 </div><div class="saltopagina even"></div><div class='columns'>
+<p>Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.</p>
 <h3>Enlace duro {Puerta}</h3>
 <pre><code>____________________
 
@@ -185,10 +185,10 @@ ______¦_______¦______</code></pre>
 <blockquote>
 <p>A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables. Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.</p>
 </blockquote>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Idiomas</h2>
 <p>En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el <i>l33t</i> y el código ASCII.</p>
 <p>XXX</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Trampas</h2>
 <p>XXX</p>
 <h3>Trampa de paredes móviles</h3>
@@ -219,8 +219,8 @@ _/j  L l\_!
 <p>Subrutinas XXX</p>
 <h2>Borrado y diferentes estados</h2>
 <p>La muerte viene representada por el borrado. Los scripts no mueren, sino que son borrados, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.</p>
-<p>Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.</p>
 </div><div class="saltopagina even"></div><div class='columns'>
+<p>Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.</p>
 <p>Resucitar a alguien es tan fácil como buscar una copia de seguridad y descomprimirla y si no hay copias de seguridad es que está más allá de la resurrección.</p>
 <h3>Estados</h3>
 <pre><code>(𖦹ᯅ𖦹)
@@ -260,9 +260,9 @@ O|===|* &gt;________________&gt;
 </ul>
 <h3>Armaduras</h3>
 <p>XXX</p>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Herramientas</h3>
 <p>XXX</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Equipo de aventuras</h3>
 <p>Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables al mundo de la informática.</p>
 <ul>
@@ -295,9 +295,11 @@ O|===|* &gt;________________&gt;
 <li>En la <strong>unidad de disco extraíble {Taberna}</strong> un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.</li>
 <li>El <strong>SysAdmin {Conde, duque o rey de las tierras}</strong> os invoca a través de la línea de comando para que salvéis a toda la computadora trayendo algo del sistema de carpetas.</li>
 <li>Quizás el <strong>antivirus {alguacil o jefe de la guardia}</strong> necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.</li>
-<li>El <strong>programa de ejecución de un paquete de ofimática {rico comerciante}</strong> necesita recuperar unas copias de seguridad.</li>
 </ul>
 </div><div class="saltopagina even"></div><div class='columns'>
+<ul>
+<li>El <strong>programa de ejecución de un paquete de ofimática {rico comerciante}</strong> necesita recuperar unas copias de seguridad.</li>
+</ul>
 <p>La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.</p>
 <ul>
 <li><strong>Recuperar un fichero de datos muy especial {objeto de poder}</strong> perdido o enviado a la papelera.</li>
