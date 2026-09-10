@@ -78,35 +78,17 @@ body > *:first-child,
   margin: 0;
   opacity: 0;
 }
-
+  
 /*blockquote {
-  font-family: 'Delicious Handrawn';
-  background: transparent url(./images/post-it.png) center center no-repeat;
-  background-size: cover;
-  width: 256px;
-  color: #5980d4;
-  text-align: center;
   font-weight: 300;
-  padding: 102px 40px;
-  margin: 0px 0px 0px 120px;
-  transform: rotate(-10deg);
-  font-size: 33px;
-}
-
-body#GuiaAgileParaPrimigeniosSLBW blockquote {
-  background-image: url(./images/post-itBW.png);
-  color: var(--color-black);
+  padding: 15px;
+  margin: 0px 0px 10px 0px;
+  border: 4px double var(--color-blue);
 }
 
 blockquote p {
   padding: 0px;
   margin: 0px;
-}
-
-blockquote p strong {
-  text-decoration: underline;
-  display: inline-block;
-  margin-top: 8px;
 }*/
 
 /* Titulares */
@@ -167,6 +149,7 @@ body#GuiaAgileParaPrimigeniosSLBW *:is(h1, h2, h3, h4) {
 ul {
   margin: 0px;
   padding: 0px;
+  clear: both;
 }
 
 ul li {
@@ -179,7 +162,7 @@ ul li:before {
   content: "▰";
   position: absolute;
   font-size: 31px;
-  top: -10px;
+  top: -13px;
   left: -27px;
   display: block;
 } 
@@ -202,7 +185,7 @@ strong:after {
 
 pre {
   padding: 0px;
-  margin: 10px 30px 0px 0px;
+  margin: 10px 30px 20px 0px;
   max-width: 320px;
   float: left;
 }
@@ -236,13 +219,10 @@ table {
   width: 100%;
 }
 
-table thead tr th,
-table tbody tr td:first-of-type {
-  font-family: "Bitcount Grid Double", system-ui;
-}
-
-table tbody tr td:first-of-type {
+table tbody tr td {
   text-align: center;
+  padding: 0px;
+  font-size: 13px;
 }
 
 table tbody tr td:not(table tbody tr:last-of-type td) {

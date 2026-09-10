@@ -219,7 +219,9 @@ Los _crons_ o tareas programadas con una forma fácil para explicar todo lo que 
 
 XXX
 
-> A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables. Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
+A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
+
+Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
 
 
 
@@ -317,24 +319,21 @@ Mediante la inclusión de librerías de código {equipo} puedes añadir funciona
 
 ### Armas
  
-La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan grandes que lo mejor es no modificarlas mucho, simplemente añadirle sufijos o prefijos que le den un toque informático. Por ejemplo:
+La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan grande que lo mejor es no modificarlas mucho, simplemente añadirle sufijos o prefijos que le den un toque informático. Por ejemplo:
 
-* Ciber...
-* Tecno...
-* ... láser
-* ... de luz
-* ... de pulsos
-* ... binario
-* ... overclokeado
-* ... óptico 
-* Hexa ...
-* ... encriptado
+|1d20||1d20||1d20||1d20|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|Ciber|6|láser|11|Tecno|16|variable|
+|2|de luz|7|Hexa|12|de pulsos|17|Pro|
+|3|Pre|8|binario|13|reseteada|18|cacheada|
+|4|overclokeado|9|redundante|14|óptico|19|debugeada|
+|5|hasheado|10|tipada|15|encriptado|20|constante|
+
+
 
 ### Armaduras
 
 XXX
-
-
 
 ### Herramientas
 
@@ -379,14 +378,16 @@ Por debajo puedes usar bytes (B) para espadas, cascos, escudos o sacos de dormir
 
 ```
 
-Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. Siempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas. Veamos algunas opciones:
+Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. 
+
+Siempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas.  Veamos algunas opciones:
 
 * En la **unidad de disco extraíble {Taberna}** un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
+
+
+
 * El **SysAdmin {Conde, duque o rey de las tierras}** os invoca a través de la línea de comando para que salvéis a toda la computadora trayendo algo del sistema de carpetas.
 * Quizás el **antivirus {alguacil o jefe de la guardia}** necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.
-
-
-
 * El **programa de ejecución de un paquete de ofimática {rico comerciante}** necesita recuperar unas copias de seguridad.
 
 La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.
@@ -397,7 +398,7 @@ La misión no es solo adentrarse en un sistema de archivo, algo especial hay que
 * **Limpiar de virus, troyanos y malware** un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.
 * **Rescatar unos backups** de unas facturas en hoja de cálculo de un grupo de _bugs_ que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.
 
-## Ayudantes
+## Helpers
 
 
 ```
@@ -420,16 +421,16 @@ Si en tu juego de referencia, los personajes pueden contratar portaantorchas, es
 
 Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus scripts los usan para determinadas tareas.
 
-* **Archivo de configuración {Portaantorchas}** este fichero se encarga de transportar por ti variables principales y constantes importantes para ti y tus funciones.
-* **JSON {Escudero}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar, pero necesitas en tus incursiones 
+* **JSON {Escudero, portaantorchas}** como el archivo de configuración puedes usarlo para que porte los datos y variables que tú no quieres portar, pero necesitas en tus incursiones 
 * **Copia de seguridad {Curandero}** con sus conocimientos básicos de tu código, puede recuperar las líneas que has perdido en tus aventuras.
+* **prompt $ {Cartografo}** este fichero se encarga de realizar tareas menores como _scrapear_ las carpetas y mapear su contenido.
 * **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas, como copiar archivos, borrarlos, crear archivos, los típicos comandos de línea de comandos.
+
+
 
 ## Bestiario
 
 En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
-
-
 
 ### Dragón binario y hexadecimales
 
@@ -465,6 +466,8 @@ Tiene aliento de bucle infinito XXX
 ```
 
 Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
+
+
 
 ## Ejemplo de conversión de mazmorra
 
