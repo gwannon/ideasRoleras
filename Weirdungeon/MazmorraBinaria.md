@@ -314,6 +314,12 @@ Tiene aliento de bucle infinito XXX
 
 Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
 
+### Limos
+
+|asciiLimo.md|
+
+XXX
+
 \sp
 
 ## Ejemplo de conversión de mazmorra
