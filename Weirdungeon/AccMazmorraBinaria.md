@@ -105,22 +105,22 @@ Si necesitas más especies más exóticas, puedes recurrir a compresiones, como 
 
 Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que representan varias cosas y aquí tienes sus adaptaciones computacionales.
 
-* **RAM {Destreza}** XXX
-* **Procesador {Vigor}** XXX
-* **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.
-* **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones. XXX
+* **RAM {Destreza}** Cuanta más memoria, más rápidos y precisos serán tus movimientos.
+* **Procesador {Vigor}** El procesador es tu capacidad de hacer grandes esfuerzos de computación, de mover ficheros más grandes y lanzar comandos que son ejecutados con más potencia.
+* **Permisos {Voluntad}** Cuanto mejores son tus permisos, mayor es tu voluntad para evitar que acedan a tus líneas de código, descubriendo tus bugs y tus fallos de seguridad, y a tus variables y constantes. Además, estarás más arriba en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.
+* **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones.
 
-Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
+Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas, las recuperas de un _backup_ o de una versión anterior del gestor de versiones.
 
 Muchos sistemas tienen puntos de magia (PM) o poder (PP), en esos casos lo puedes representar usando cosas como la «memoria asignada» como los PM/PP máximos, «memoria en uso» como los PM/PP que aún te quedan y «liberar memoria» para gastar PM/PP.
+
+
 
 Iniciativa, otro elemento muy normal, podemos denominarlo como XXX.
 
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * XXX
-
-
 
 ### Habilidades
 
@@ -143,6 +143,8 @@ XXX
 ### Sistema de carpetas {Mazmorra}
 
 XXX
+
+
 
 ### Carpeta {Habitaciones y salas}
 
@@ -167,9 +169,11 @@ Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpet
 
 Normalmente las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.
 
-
-
 Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.
+
+### Directorio/carpeta protegida {Estancia con puerta con cerradura}
+
+XXX
 
 ### Enlace duro {Puerta}
 
@@ -203,47 +207,61 @@ ______¦_______¦______
 
 XXX
 
-### Directorio/carpeta protegida {Estancia con puerta con cerradura}
 
-XXX
-
-### Permisos {XXX}
-
-XXX
 
 ### Crons {XXX}
 
-Los _crons_ o tareas programadas con una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta. XXX
+Los _crons_ o tareas programadas son acciones que se ejecutan cada cierto tiempo. Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta.
+
+Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:
+
+* Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de forma permanente.
+* Un cron borra los ficheros más antiguos de una carpeta de forma que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
+* Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de forma que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.
 
 ### Path {XXX}
 
 XXX
 
-A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y por tanto podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
+A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
 
 Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
 
-
-
 ## Idiomas
 
-En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el _l33t_ y el código ASCII.
+En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el **_l33t_** y el **código ASCII**. El l33t es lo que comúnmente conocemos como idioma hacker, esos textos donde la «A» se sustituye por un «4» o una «E» por un «3».
 
 XXX
 
-## Trampas
+Piensa en ellos como el elfico (leet) y el rúnico (código ASCII) y así sabrás que donde poner cada lenguaje.
+
+
+
+Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, ... y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro. Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que las limites de la carpeta están decorados con intrincados diseños de animales o que la XXX que han encontrado tiene ASCII Art decorándola.
+
+Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. 
+
+## Disparadores y deamons {Trampas}
+
+Los virus, los administradores de sistemas y los propios usuarios protegen las carpetas donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el _path_ o sean borrados antes de llegar de tu objetivo.
 
 XXX
+
+
 
 ### Trampa de paredes móviles
 
 Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados.
 
+### Trampa de compresión
+
+XXX archivo comprimido
+
 ## Magia y habilidades especiales
 
 La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede tener un juego de rol de mazmorreo pueden llegar a ser muy grandes. Así que trataremos de dar unas ayudas e indicaciones para que puedas hacer las conversiones que necesites.
 
-### Hechizos
+### XXX {Hechizos}
 
 ```
          /^\
@@ -266,7 +284,7 @@ XXX
 
 Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los de aceleración todo lo contrario.
 
-Los hechizos que juegan con versiones falsas de ti, pueden usar los backups para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
+Los hechizos que juegan con versiones falsas de ti, pueden usar los _backups_ para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
 
 XXX
 
@@ -280,9 +298,9 @@ Subrutinas XXX
 
 La muerte viene representada por el borrado. Los scripts no mueren, sino que son borrados, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
 
-
-
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
+
+
 
 Resucitar a alguien es tan fácil como buscar una copia de seguridad y descomprimirla y si no hay copias de seguridad es que está más allá de la resurrección.
 
@@ -307,7 +325,7 @@ XXX
 * **XXX {Mareado}** XXX
 * **XXX {Paralizado}** XXX
 
-## Librerías y créditos
+## Librerías y tokens
 
 ```
       /| ________________
@@ -325,11 +343,9 @@ La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |1|Ciber|6|láser|11|Tecno|16|variable|
 |2|de luz|7|Hexa|12|de pulsos|17|Pro|
-|3|Pre|8|binario|13|reseteada|18|cacheada|
-|4|overclokeado|9|redundante|14|óptico|19|debugeada|
-|5|hasheado|10|tipada|15|encriptado|20|constante|
-
-
+|3|Pre|8|binaria|13|reseteada|18|cacheada|
+|4|overclokeada|9|redundante|14|óptica|19|debugeada|
+|5|hasheada|10|tipada|15|encriptada|20|constante|
 
 ### Armaduras
 
@@ -338,6 +354,8 @@ XXX
 ### Herramientas
 
 XXX
+
+
 
 ### Equipo de aventuras
 
@@ -383,20 +401,21 @@ Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios.
 Siempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas.  Veamos algunas opciones:
 
 * En la **unidad de disco extraíble {Taberna}** un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
-
-
-
 * El **SysAdmin {Conde, duque o rey de las tierras}** os invoca a través de la línea de comando para que salvéis a toda la computadora trayendo algo del sistema de carpetas.
 * Quizás el **antivirus {alguacil o jefe de la guardia}** necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.
+
+
+
 * El **programa de ejecución de un paquete de ofimática {rico comerciante}** necesita recuperar unas copias de seguridad.
 
 La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.
 
 * **Recuperar un fichero de datos muy especial {objeto de poder}** perdido o enviado a la papelera.
+
 * Debes **aplicar un _fix_ {ritual}** en una carpeta concreta del sistema para que no autodestruya todo el sistema.
 * **Resetear el sistema** antes de que algún script malvado termine sus procesos de actualización y se haga con el control de todo el ordenador.
 * **Limpiar de virus, troyanos y malware** un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.
-* **Rescatar unos backups** de unas facturas en hoja de cálculo de un grupo de _bugs_ que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.
+* **Rescatar unos _backups_** de unas facturas en hoja de cálculo de un grupo de _bugs_ que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.
 
 ## Helpers
 
@@ -483,7 +502,7 @@ Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por
 
 El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:
 
-* El dragón es de [emojicombos.com](https://emojicombos.com/dragon-ascii-art)
+* El dragón de la portada es de [emojicombos.com](https://emojicombos.com/dragon-ascii-art)
 * El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin)
 * El dragón del bestiario es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
