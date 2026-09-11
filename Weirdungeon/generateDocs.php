@@ -7,6 +7,15 @@ require __DIR__ . '/../vendor/autoload.php';
 use FastVolt\Helper\Markdown;
 $mkd = Markdown::new();
 
+$accmd = file_get_contents(__DIR__ . "/".$argv[1].".md");
+
+$accmd = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
+  $matches[0] = ""; 
+  return $matches[0];
+}, $accmd);
+
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;"], "", $accmd));
+
 $md = file_get_contents(__DIR__ . "/".$argv[1].".md");
 
 $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
@@ -14,7 +23,7 @@ $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;"], "", $md));
+
 
 $mkd->setContent($md);
 

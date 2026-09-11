@@ -2,73 +2,13 @@
 
 # Mazmorra binaria [por Gwannon_](https://gwannon.com/)
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⠄⠀⠀⠀⢠⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⠋⠀⠀⠀⢠⡟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⢹⡄⠀⠀⠀⢸⢣⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⡿⠀⢻⡻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⡜⢿⣇⠀⠀⡏⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⢸⡇⠀⠈⣷⡹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣷⡀⠉⠓⢶⡇⢠⣧⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣴⣶⣶⣤⣄⣀⠀⠀⠀⠀⢸⡇⢸⣇⠀⠀⠸⡇⠙⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣷⣄⢸⡇⠈⣿⡟⠳⢦⣄⡀⠀⠀⠀⠀⠉⠻⢯⡉⠙⠶⣄⠉⠳⣤⠀⠀⠸⣇⠀⢻⡀⠀⠀⢱⠀⠸⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⡇⠀⢯⢷⠀⠀⠀⠉⠛⠶⣦⣄⡀⠀⠀⢳⡀⠀⠀⠳⡄⠀⠳⡄⠀⠻⣆⠀⠻⣆⠀⢸⡆⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⡇⠀⢸⡌⣧⡀⠒⢦⣀⠀⠀⠀⠙⠻⢦⣀⢷⡀⠀⠀⢹⡄⠀⠹⣦⡠⢿⣿⡷⣮⣻⣾⡇⠀⠀⢻⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠘⣷⠙⣿⣶⣄⡉⠳⣄⡀⠀⠀⠀⠈⠻⢷⣄⠀⠀⣿⠀⠀⠙⣶⣏⣡⣶⠿⠿⠏⢻⣄⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠶⢿⠀⠀⠸⣆⠘⢷⡙⠿⣦⡈⠳⣦⣀⠀⠀⠀⠀⠙⢧⣀⣿⠆⠀⢸⠟⢻⣿⠻⣆⠀⠀⠀⠙⢧⠀⢸⡄⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠛⠛⠛⢳⣾⡆⠀⠀⠻⡄⠈⠳⣄⠙⢿⣦⡈⠻⣧⡄⠀⠀⠀⠀⠙⢿⡆⠀⠃⠀⠉⣿⣆⢹⡄⠀⠀⠀⠈⣧⣸⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣴⣞⣉⣷⠀⠀⠀⠹⣄⠀⠙⢧⡀⠙⢷⣄⠘⢿⣤⡀⠀⠀⠀⠀⠻⣦⣄⠀⢸⠋⠙⣦⣿⡀⠀⠀⠀⠹⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⡛⠛⠛⠻⢿⣧⡀⠀⠀⠙⢧⡀⠈⠻⣦⢤⣹⣦⠀⢻⣿⠀⠀⠀⠀⣀⣹⣏⣴⣇⠀⠀⠈⣿⡇⠀⠀⠀⠀⢿⡇⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠈⢹⣷⠀⠀⠈⢷⠳⡀⠀⠀⠈⠻⣄⠀⠉⢷⣭⡙⣧⠀⣹⣷⣶⢖⣫⣭⣽⣿⣅⠀⠀⣰⠟⠙⡿⣦⣤⣤⣄⣸⣷⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠘⣧⠙⢦⣀⡀⠀⠙⢦⡀⠀⠙⢿⣿⣿⣏⣽⣿⣿⠟⠛⢋⣻⣿⣷⣶⡋⠀⠀⣠⠾⢿⣗⠿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣶⣾⡿⠿⠶⠶⢶⣶⣶⣶⣿⣧⡀⠻⣿⣶⡀⠈⢳⣄⠠⣄⠀⠙⠿⣿⡟⠁⠀⡴⠋⠉⠉⠙⣧⡉⠀⠊⠀⠀⠀⢙⣷⣌⣿⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠿⢦⡀⠀⠀⠀⠀⠀⠀⠈⠉⠙⢿⣿⣦⡀⠻⣿⣶⣤⠹⣦⠈⢷⡀⢠⡟⢿⣄⠀⠀⠀⡴⠒⠂⠉⠻⢦⡀⠀⢀⠞⠉⠙⢿⣿⡄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠞⠉⠀⠀⠀⢠⡟⠀⣀⣀⣀⣀⣀⣀⣠⡶⠛⠛⣿⣿⣷⡀⠉⠻⣿⣌⣧⠀⣿⡟⠀⠀⠙⢷⣄⣸⠁⠀⠀⠀⠠⠤⢽⣏⠛⠀⠀⣀⣼⣿⣇⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⠿⠿⠛⠻⢿⣿⡿⠋⠀⠀⠈⠉⢿⣿⣿⣄⠀⠹⣿⣿⣿⣿⠁⠀⠀⠀⠀⠙⣿⣦⡀⣸⠀⠀⠀⠀⡬⢷⣤⣴⠁⠀⠻⣿⣷⣄⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢠⣾⡿⠟⠉⠀⠀⠀⠀⠀⠀⣠⠏⠀⠀⢀⣀⣠⠾⣿⣿⣿⣿⣄⠀⠉⠉⢻⣿⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣷⣄⣰⡄⠀⠀⠀⠹⠀⠀⠀⠛⢿⣿⡆⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢀⣴⣿⠥⢤⡀⠀⠀⠀⠀⣀⣠⡾⠃⠀⠀⠈⠉⠁⠀⠀⠀⠈⠻⣿⣿⣧⣀⣀⣘⣿⡄⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠰⡄⠀⡀⠀⢸⣷⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣼⠟⠁⠀⢀⣇⣀⣴⣶⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠿⢿⣿⡿⠉⠻⣦⡀⠀⠀⠀⠀⠀⠻⣇⠉⠛⢿⣿⣆⠀⠀⠀⠀⣳⣠⡇⣰⣼⣿⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⠁⠀⣠⣴⠿⠛⠉⠁⠀⣰⠟⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⣶⣶⣾⣿⡟⢿⠃⠀⠀⠙⢿⣦⡀⠀⠀⠀⠀⠙⢷⣤⣤⣿⣿⢿⡶⠤⠶⠛⣿⠛⠛⡿⠃⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣠⡿⠋⠁⠀⠀⠀⠀⣰⠇⠀⠀⠀⠀⠀⢀⡤⠖⠛⣫⣴⣾⣿⠛⠋⠀⠸⣧⣸⠀⠀⠀⠀⠀⠙⢷⡀⠀⠀⠀⠀⠀⠉⠻⣿⣿⠀⢷⡀⠀⠀⢻⡆⠘⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣼⡟⠀⠀⠀⠀⠀⣠⣾⠋⠀⠀⠀⠀⣠⠾⠋⢀⣤⣾⣿⠛⠉⠻⣆⠀⠀⠀⠙⢿⡄⠀⠀⠀⠀⠀⠈⠃⠀⠀⠀⠀⠀⠀⠀⠘⣿⣧⠘⠇⠀⠀⠘⡇⠀⡇⠀⠀⠀⠀⠀
-⠀⠀⠀⣴⡏⣠⡀⠀⣠⣴⣾⣿⠇⠀⠀⠀⠀⠞⠋⠀⣴⣿⣿⣿⠁⠀⠀⠀⠙⢧⡀⠀⠀⠈⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣧⡀⠀⠀⠐⢷⡀⣷⠀⠀⠀⠀⠀
-⠀⠀⢠⣿⠟⠉⣡⣾⡿⠋⠁⡟⠀⠀⠀⠀⠀⠀⢀⣾⣿⠟⠁⢿⡆⠀⠀⠀⠀⢀⡟⠻⣍⠉⠉⠻⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣬⡇⠀⠀⠀⠈⠳⢻⡆⠀⠀⠀⠀
-⠀⠀⠸⠁⢀⣾⡟⠋⠀⠀⣼⠀⠀⠀⠀⠀⠀⣠⣿⣿⠁⠀⠀⠀⠙⣦⡀⠀⠀⢸⡀⠀⢈⡷⢦⣤⣬⡿⢶⣄⡀⠀⠀⢰⣤⡀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠈⢷⠀⠀⠀⠀
-⠀⠀⠀⢀⣾⠏⠀⠀⠀⣰⠇⠀⠀⠀⠀⠀⣴⣿⣿⣹⣧⠀⠀⠀⠀⠀⠉⠉⠉⠉⠻⣏⠁⠀⣠⡟⠁⠀⠀⠈⠙⠶⣄⠘⠿⢿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⠀⠀⠀
-⠀⠀⠀⣿⠃⠀⠀⢀⣼⡟⠀⠀⠀⠀⠀⢰⣿⡿⠁⠀⠘⢧⡀⠀⠀⠀⠘⢷⣀⣀⣤⠾⢿⣿⠟⠀⠀⠀⠀⠀⠀⠀⠈⠹⣦⡀⠉⠳⣦⡀⠀⠀⠀⠀⠀⢴⡏⠉⠙⠶⠄⠘⡗⠶⡄
-⠀⠀⢸⣇⡴⢶⣠⣾⣿⡇⠀⠀⠀⠀⢰⣿⣿⠃⠀⠀⠀⠀⠉⠛⢶⠶⠶⠞⢷⠀⠀⣰⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠙⢳⣄⠀⠀⠀⠈⣿⣄⠀⠀⠀⠀⠀⠀⣿
-⠀⠀⣼⠟⢀⣾⡿⠋⣸⡇⠀⠀⠀⠀⣼⣿⠹⣇⠀⠀⠀⠀⠀⠀⠈⣆⠀⣀⣨⠟⠋⣽⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⠠⡀⠙⣧⡀⠀⢰⣿⣿⣆⠀⠀⠀⠀⠀⢻
-⠀⢀⡏⢀⣾⡟⠀⠀⣿⠃⠀⠀⠀⢸⣿⡿⠶⠛⠷⣤⣀⣀⣀⣀⣠⢿⡟⠉⠁⠀⣼⡿⣹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠷⣽⡄⠸⣇⠀⠘⠞⢿⣿⠤⠶⠂⡔⢠⠟
-⠀⠀⠀⣾⡟⠀⠀⢰⡿⠀⠀⠀⠀⣿⡟⠀⠀⠀⠀⠀⠉⢹⡏⠁⠀⠈⢷⡤⠤⢴⣿⡇⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠀⠻⣄⡀⠀⠶⠏⠀⠀⠀⡇⣸⠀
-⠀⠀⢸⣿⠁⠀⠀⢸⡇⠀⠀⠀⢰⣿⠻⣄⠀⠀⠀⠀⠀⠈⢷⣀⣤⠔⠋⠀⠀⢰⣿⠃⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣷⣄⠈⠛⠲⣤⡀⠀⣀⡼⣿⠏⠀
-⠀⠀⣼⡇⠀⠀⠀⢸⡇⠀⠀⠀⣼⣿⠴⠚⠓⢤⣄⣀⣀⣤⠴⣯⡀⠀⠀⠀⠀⣼⣿⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠓⠦⣤⠬⢿⣦⣅⡿⠋⠀⠀
-⠀⠀⣿⣴⠞⠛⢳⣼⡇⠀⠀⢠⣿⠏⠀⠀⠀⠀⠈⢹⡍⠀⠀⠈⢳⣤⣤⣴⠞⢻⡏⠀⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠉⠀⠀⠀⠀
-⠀⢐⡿⠁⠀⠀⣾⣿⡇⠀⠀⣸⣿⡀⠀⠀⠀⠀⠀⠀⠙⣆⣀⡤⠞⠁⠀⠀⠙⢿⡇⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠈⡇⠀⠀⣼⣿⢻⣇⠀⠀⣿⣿⠓⢤⣀⠀⠀⠀⢀⣤⠿⣯⠀⠀⠀⠀⠀⢀⣾⡇⠀⠀⢹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠁⠀⢸⣿⠃⢘⣿⠀⠀⣿⣿⠶⠋⠉⠛⠛⣿⠉⠁⠀⠙⢷⣤⣀⣠⣴⠊⣻⡇⠀⠀⠸⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⡟⠀⠈⣿⠀⢸⣿⡟⠀⠀⠀⠀⠀⠘⠦⣀⢀⣠⠟⠁⠀⠀⠈⠻⣿⡇⠀⠀⠀⢹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢰⣿⢡⠞⢧⣿⠀⢸⣿⣧⡀⠀⠀⠀⠀⠀⠀⣰⣏⠀⠀⠀⠀⠀⠀⠀⢸⣷⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣿⠇⠀⣸⣿⠀⣾⣿⣍⣳⠦⢤⣀⡤⠴⠞⠁⠸⢧⡀⠀⠀⠀⠀⣠⣾⣿⡀⠀⠀⠀⠘⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⡿⠀⢠⣿⣿⠀⣿⡿⠉⠁⠀⠀⠹⣇⠀⠀⠀⠀⠀⣿⠷⠶⠶⠟⠻⣅⣿⡇⠀⠀⠀⠀⠈⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣿⠃⣿⠀⣿⣇⠀⠀⠀⠀⠀⠈⠳⢤⣀⡴⠞⠁⠀⠀⠀⠀⠀⠀⣿⣇⠀⠀⠀⠀⠀⠘⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⡿⢰⡟⢠⣿⣿⡄⠀⠀⠀⠀⠀⣀⣴⢿⡅⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⡀⠀⠀⠀⠀⠀⠈⠻⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸⡇⣸⡇⢸⣿⣿⡿⠓⠦⢤⣶⡛⠋⠁⠀⠙⠲⣤⣄⣀⣀⣀⣀⣴⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣿⢻⡇⢸⣿⠁⠀⠀⠀⠀⠈⢷⠀⠀⠀⠀⢀⣼⠟⠉⠉⠋⠉⠀⠉⠹⣿⡇⠀⠀⠀⠀⠀⠀⠀⠈⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢁⣿⠇⢸⣿⠀⠀⠀⠀⠀⠀⠈⠳⢤⣤⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣸⡏⠀⣸⣿⡀⠀⠀⠀⠀⠀⠀⣠⣼⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⢹⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣿⠃⠀⣿⣿⣷⣶⣶⣶⣶⣶⡿⠋⠀⠉⠈⠙⢦⣄⣀⣀⣀⣠⣤⠶⠚⠓⠛⠛⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠷⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢰⡟⠀⢰⣿⣿⠿⢛⡏⠉⢻⡇⠀⠀⠀⠀⠀⠀⢀⡽⠋⠉⠉⠉⠀⠀⠀⠀⠀⠀⠘⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠷⣤⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣿⠃⠀⣸⣿⠉⠓⠊⠀⠀⠀⢳⡄⠀⠀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⡄⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣼⡿⠀⢠⣿⣿⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠟⠈⠻⣿⣷⣄⡀⠀⠀⠀⠀⠀⣀⣠⣤⠶⠶⠶⠛⠛⠛⠲⠿⠀⠀⠀⠀⠀⠀
-⠀⢀⣴⣿⡇⠀⠀⣸⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⣠⡿⢷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⠿⠦⠤⠴⠾⠋⠁⠉⠙⠛⠛⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣠⠟⠁⣿⣀⣀⣾⡿⠿⠛⠿⢷⣶⣤⣠⣤⠴⠞⠋⠀⠀⠙⢦⣄⣀⠀⠀⠀⠀⠀⣀⣠⠶⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠉⢻⡀⠀⠀⠀⠀⠀⠀⠀⠀⢉⡟⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣆⠀⠀⠀⠀⠀⢀⡴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⢦⣥⠤⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+
 
 
 
 
  
-**Mazmorra binaria** es una capa narrativa que puedes poner sobre tu **juego de rol de mazmorreo** favorito para **convertirlo en un mundo computacional y binario** de unos y ceros, enlaces simbólicos, carpetas y permisos.
+**Mazmorra binaria** es una ambientación que puedes aplicar sobre tu **juego de rol de mazmorreo** favorito para **convertirlo en un mundo computacional y binario** de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
 Este suplemento **no aporta reglas de juego**, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
 
@@ -112,7 +52,7 @@ Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que repre
 
 Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas, las recuperas de un _backup_ o de una versión anterior del gestor de versiones.
 
-Muchos sistemas tienen puntos de magia (PM) o poder (PP), en esos casos lo puedes representar usando cosas como la «memoria asignada» como los PM/PP máximos, «memoria en uso» como los PM/PP que aún te quedan y «liberar memoria» para gastar PM/PP.
+Muchos sistemas tienen puntos de magia {PM} o poder {PP}, en esos casos lo puedes representar usando cosas como la «memoria asignada» como los PM/PP máximos, «memoria en uso» como los PM/PP que aún te quedan y «liberar memoria» para gastar PM/PP.
 
 
 
@@ -148,22 +88,7 @@ XXX
 
 ### Carpeta {Habitaciones y salas}
 
-```
-＼                         ／
-  ＼                     ／ 
-  ¦ ＼__________________|
-  ¦  |                  |
-  ¦  |                  |   ঌ
-  ¦  |    ঌ       ঌ     |  (└)   
-  ¦  |   (└)     (└)    |
-  ¦  |                  |
-  ¦  |                  | 
-  ¦  |                  | 
-  ¦  |__________________| 
-  ¦ ／                  | 
-  ／                     ＼
-／                         ＼
-```
+
 
 Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
@@ -177,39 +102,19 @@ XXX
 
 ### Enlace duro {Puerta}
 
-```
-____________________
 
-        █████
- ঌ     █-----█    ঌ
-(└)   █-------█  (└)
-      █-------█
-      █-----@-█
-      █-------█
-______█-------█______
-```
 
 XXX
 
 ### Enlace suave {Pasadizo secreto}
 
-```
-_____________________
 
-        -----
- ঌ     ¦     ¦    ঌ
-(└)   ¦       ¦  (└)
-      ¦       ¦
-      ¦       ¦
-      ¦       ¦
-______¦_______¦______
-```
 
 XXX
 
 
 
-### Crons {XXX}
+### Crons
 
 Los _crons_ o tareas programadas son acciones que se ejecutan cada cierto tiempo. Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta.
 
@@ -219,7 +124,7 @@ Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar e
 * Un cron borra los ficheros más antiguos de una carpeta de forma que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
 * Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de forma que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.
 
-### Path {XXX}
+### Path {Mapeado de la mazmorra}
 
 XXX
 
@@ -233,11 +138,11 @@ En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas.
 
 XXX
 
-Piensa en ellos como el elfico (leet) y el rúnico (código ASCII) y así sabrás que donde poner cada lenguaje.
+Piensa en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.
 
 
 
-Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, ... y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro. Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que las limites de la carpeta están decorados con intrincados diseños de animales o que la XXX que han encontrado tiene ASCII Art decorándola.
+Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro. Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que las limites de la carpeta están decorados con intrincados diseños de animales o que la XXX que han encontrado tiene ASCII Art decorándola.
 
 Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. 
 
@@ -263,22 +168,7 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 ### XXX {Hechizos}
 
-```
-         /^\
-    /\   "V"
-   /__\   I 
-  //..\\  I
-  \].`[/  I
-  /l\/j\  (]
- /. ~~ ,\/I 
- \\L__j^\/I 
-  \/--v}  I 
-  |    |  I 
-  |    |  I
-  |    l  I 
-_/j  L l\_!
 
-```
 
 XXX
 
@@ -306,32 +196,22 @@ Resucitar a alguien es tan fácil como buscar una copia de seguridad y descompri
 
 ### Estados
 
-```
-(𖦹ᯅ𖦹)
 
-(~_~)ᶻ 𝗓 𐰁
-
-(⌐■_■)
-```
 
 XXX
 
-* **XXX {Apresado}** XXX
-* **XXX {Aturdido}** XXX
+* **En cuarentena {Apresado}** XXX
+* **Bugeado {Aturdido}** XXX
 * **XXX {Cegado}** XXX
 * **XXX {Derribado}** XXX
-* **XXX {Dormido}** XXX
-* **XXX {Incapacitado}** XXX
+* **Hibernando {Dormido}** XXX
+* **Sin permisos de ejecución {Incapacitado}** XXX
 * **XXX {Mareado}** XXX
-* **XXX {Paralizado}** XXX
+* **Bloqueado {Paralizado}** XXX
 
 ## Librerías y tokens
 
-```
-      /| ________________
-O|===|* >________________>
-      \|
-```
+
 
 Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
 
@@ -376,25 +256,11 @@ Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos
 
 Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.
 
-Por debajo puedes usar bytes (B) para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.
+Por debajo puedes usar bytes {B} para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.
 
 ## Misiones, iniciadores y resultados
 
 
-```
-  .   *   ..  . *  *
-*  * @()Ooc()*   o  .
-    (Q@*0CG*O()  ___
-   |\_________/|/ _ \
-   |  |  |  |  | / | |
-   |  |  |  |  | | | |
-   |  |  |  |  | | | |
-   |  |  |  |  | \_| |
-   |  |  |  |  |\___/
-   |\_|__|__|_/|
-    \_________/
-
-```
 
 Las aventuras mazmorriles tienen unos tropos comunes que marcan sus inicios. 
 
@@ -420,21 +286,6 @@ La misión no es solo adentrarse en un sistema de archivo, algo especial hay que
 ## Helpers
 
 
-```
-       ,
-      /|	
-   , / |  ,
-⹁  /|/  |／| 
-|\|	,  , ／|,
-/  /| /|   /
-\ /	|/ |  /
- \| ^^  / /
-  ＼|█|/ /
-    |█|／ 
-    |█|
-    |█|
-    \█\
-```
 
 Si en tu juego de referencia, los personajes pueden contratar portaantorchas, escuderos o curanderos, en Mazmorra binaria tus scripts pueden tener ayudantes, archivos a su servicio que les ayudan cuando entran en un sistema de carpetas.
 
@@ -453,57 +304,25 @@ En este bestiario no te vamos a dar un listado de monstruos con estadísticas, s
 
 ### Dragón binario y hexadecimales
 
-```
-     /     \
-    ((     ))
-===  \\_v_//  ===
-  ====)_^_(====
-  ===/ O O \===
-  = | /_ _\ | =
- =   \/_ _\/   =
-      \_ _/
-      (o_o)
-       VwV
-```
 
-Tiene aliento de bucle infinito XXX
+
+XXX
+
+Si arma principal es su aliento de bucle infinito, aunque sus garras hexadecimales y sus mordiscos binarios también son temibles.
 
 ### Buglins
 
-```
-       ,      ,
-      /(.-""-.)\
-  |\  \/      \/  /|
-  | \ / =.  .= \ / |
-  \( \   o\/o   / )/
-   \_, '-/  \-' ,_/
-     /   \__/   \
-     \ \__/\__/ /
-   ___\ \|--|/ /___
- /`    \      /    `\
-/       '----'       \
-```
+
 
 Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
 
-### Limos
+### Periférico nulo {Limo}
 
-```
-          _____________
-        ／.          ／|
-      ／  .    o   ／  |
-    ／ °  .      ／    |
-  ／   o  .   °／      |
-／___________／   o    |
-|  o      . | . . . . |
-|       .   |        ／
-|   ° .  °  |      ／
-|   .   o   |    ／
-| .         |  ／
-|___________|／
-```
 
-XXX
+
+También conocido como «device null» en inglés o «/dev/null» por su _path_ en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.
+
+Mientras que los limos tienen diferentes tipos, XXX
 
 
 
@@ -522,6 +341,7 @@ Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por
 El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:
 
 * El dragón de la portada es de [emojicombos.com](https://emojicombos.com/dragon-ascii-art)
+* El dragón de la contraportada es de [emojicombos.com](https://www.asciiart.eu/art/60e7446303c13a88)
 * El goblin está sacado de [ascii.co.uk](https://ascii.co.uk/art/goblin)
 * El dragón del bestiario es obra de Roland Waylor publicado en [asciiart.eu](https://www.asciiart.eu/art/9e65db4400fdf604).
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
@@ -529,3 +349,9 @@ El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:
 * La espada publicada en [asciiart.eu](https://www.asciiart.eu/art/2e8c693919b640a0).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
+
+
+
+
+
+> Mazmorra binaria es una ambientación que puedes aplicar sobre tu juego de rol de mazmorreo favorito para convertirlo en un mundo computacional y binario de unos y ceros, enlaces simbólicos, carpetas y permisos. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional. Convierte a tus personajes en scripts y la clase en el lenguaje en que ha sido escrito, explora los directorios de carpetas en busca de información valiosa, simula la típica trampa de aplastamiento describiendo una tarea programada que no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts, ...
