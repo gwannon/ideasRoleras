@@ -56,7 +56,7 @@ Muchos sistemas tienen puntos de magia {PM} o poder {PP}, en esos casos lo puede
 
 
 
-Iniciativa, otro elemento muy normal, podemos denominarlo como XXX.
+**Iniciativa**, otro elemento muy normal, podemos **denominarlo como PID (_process ID_ o identificador de procesos)**. El PID es el número que se asigna al proceso que ejecuta un script. Así que cuando sea necesario hacer una tirada de iniciativa, puedes pedir una tirada de PID y que el resultado sea su PID y, por tanto, su posición en los turnos de combate.
 
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
@@ -73,7 +73,8 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
 * **rn {Esconderse, sigilo, disfrazarse}** permite renombrar ficheros de forma que puedas hacerte o hacer a otros pasar por lo que no son. También puedes ocultarte poniendo un punto delante de tu nombre. 
 * **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerias y unos ficheros de configuración crear y/o reparar un programa.
-* **pwd {Supervivencia, orientacion}** permite saber dónde estás dentro del sistema de carpetas dándote tu _path_ actual.
+* **pwd {Supervivencia, orientación}** permite saber dónde estás dentro del sistema de carpetas dándote tu _path_ actual.
+
 
 
 ## Directorio
@@ -84,15 +85,13 @@ XXX
 
 XXX
 
-
-
 ### Carpeta {Habitaciones y salas}
 
 
 
 Cada carpeta del sistema de carpetas es una habitación del dungeon. Cada carpeta puede ser más grande o más pequeña según su contenido en ficheros y subcarpetas. Cuantos más ficheros/subcarpetas más grandes es la carpeta.
 
-Normalmente las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.
+Normalmente, las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.
 
 Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.
 
@@ -152,8 +151,6 @@ Los virus, los administradores de sistemas y los propios usuarios protegen las c
 
 XXX
 
-
-
 ### Trampa de paredes móviles
 
 Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados.
@@ -161,6 +158,8 @@ Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran 
 ### Trampa de compresión
 
 XXX archivo comprimido
+
+
 
 ## Magia y habilidades especiales
 
@@ -190,24 +189,26 @@ La muerte viene representada por el borrado. Los scripts no mueren, sino que son
 
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
 
-
-
 Resucitar a alguien es tan fácil como buscar una copia de seguridad y descomprimirla y si no hay copias de seguridad es que está más allá de la resurrección.
+
+
 
 ### Estados
 
 
 
-XXX
+Normalmente, los juegos dungoneros tienen estados especiales que representan circunstancias especiales en las que se encuentra un personaje que afectan normalmente de forma negativa a sus acciones. Para representar estas situaciones hemos creado una serie de estados y su equivalente en juegos normales.
 
-* **En cuarentena {Apresado}** XXX
-* **Bugeado {Aturdido}** XXX
-* **XXX {Cegado}** XXX
+* **En cuarentena {Apresado}** Has sido marcado como en cuarentena con lo que sus posibilidades de acción han quedado muy restringidas.
+* **Bugeado {Aturdido}** Algo o alguien se ha aprovechado de tus bugs para entorpecer tu funcionamiento normal, puedes actuar pero hay pequeños fallos en tus funciones.
+* **Sin acceso al _path_ {Cegado, sordo}** Has perdido el acceso al _path_ con lo cual no sabes ni donde estás ni que hay a tu alrededor. 
 * **XXX {Derribado}** XXX
-* **Hibernando {Dormido}** XXX
-* **Sin permisos de ejecución {Incapacitado}** XXX
-* **XXX {Mareado}** XXX
-* **Bloqueado {Paralizado}** XXX
+* **Hibernando {Dormido}** Han puesto en hibernación el proceso que ejecuta tu script, hasta que algo o alguien te saque de la hibernación.
+* **Sin permisos de ejecución {Incapacitado}** Has recibido tantos ataques que han parado el proceso que te ha lanzado y han conseguido quitarte los permisos de ejecución, con lo que ahora no eres capaz de hacer nada hasta que alguien te devuelva los permisos y lance tu proceso.
+* **Exploiteado {Mareado}** Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus _exploits_, fallos de seguridad de tu código. 
+* **Bloqueado {Paralizado}** El proceso que ejecuta tu script se ha quedado bloqueado y no puedes hacer nada hasta que no te desbloquees.
+
+
 
 ## Librerías y tokens
 
@@ -235,8 +236,6 @@ XXX
 
 XXX
 
-
-
 ### Equipo de aventuras
 
 Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables al mundo de la informática.
@@ -251,6 +250,8 @@ Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables
 Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.
 
 Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos llamarlo una mejora de procesador, redundancia de procesador o un bus de procesador.
+
+
 
 ## Escalas y tamaños
 
@@ -269,19 +270,17 @@ Siempre hay alguien que necesita que tus scripts se adentren en el sistema de ca
 * En la **unidad de disco extraíble {Taberna}** un siniestro script encapuchado os contratará para hacer una incursión a un sistema de directorios cercano.
 * El **SysAdmin {Conde, duque o rey de las tierras}** os invoca a través de la línea de comando para que salvéis a toda la computadora trayendo algo del sistema de carpetas.
 * Quizás el **antivirus {alguacil o jefe de la guardia}** necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.
-
-
-
 * El **programa de ejecución de un paquete de ofimática {rico comerciante}** necesita recuperar unas copias de seguridad.
 
 La misión no es solo adentrarse en un sistema de archivo, algo especial hay que hacer.
 
 * **Recuperar un fichero de datos muy especial {objeto de poder}** perdido o enviado a la papelera.
-
 * Debes **aplicar un _fix_ {ritual}** en una carpeta concreta del sistema para que no autodestruya todo el sistema.
 * **Resetear el sistema** antes de que algún script malvado termine sus procesos de actualización y se haga con el control de todo el ordenador.
 * **Limpiar de virus, troyanos y malware** un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.
 * **Rescatar unos _backups_** de unas facturas en hoja de cálculo de un grupo de _bugs_ que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.
+
+
 
 ## Helpers
 
