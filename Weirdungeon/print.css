@@ -239,7 +239,7 @@ a.pdf {
     display: block;
     padding: 10px;
     margin: 0px;
-    font-family: "Bitcount Grid Double", system-ui;
+    font-family: "Monoton", sans-serif;
     font-size: 30px;
     text-decoration: none;
     z-index: 100;
@@ -319,7 +319,8 @@ body {
 
 .saltopagina:after {
   --size: 30px;
-  font-family: "Bitcount Grid Double", system-ui;
+  font-family: "Monoton", sans-serif;
+  letter-spacing: 2px;
   display: flex;
   justify-content: center;
   align-items: center;

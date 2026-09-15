@@ -1,59 +1,46 @@
-### Atributos y otras puntuaciones
-
-Los PJ en los juegos de mazmorreo suelen tener unos atributos básicos que representan varias cosas y aquí tienes sus adaptaciones computacionales.
-
-* **RAM {Destreza}** XXX
-* **Procesador {Vigor}** XXX
-* **Permisos {Voluntad}** Cuanto mejores sin tus permisos, mayor es tu voluntad para XXX y más arriba estás en el sistema de fichero. También te permitirá tener más ficheros y scripts afines que te ayuden en tus aventuras.
-* **Almacenamiento {Inteligencia}** Cuanto más almacenamiento tienes más datos puedes recordar y usar en tus incursiones. XXX
-
-Las **líneas de código** pueden usar como similar de los **puntos de vida** y cuando pierdes estos puntos, te quitan líneas de código y cuando te curas, escriben líneas de código nuevas.
-
-Muchos sistemas tienen puntos de magia (PM) o poder (PP), en esos casos lo puedes representar usando cosas como la «memoria asignada» como los PM/PP máximos, «memoria en uso» como los PM/PP que aún te quedan y «liberar memoria» para gastar PM/PP.
-
-Iniciativa, otro elemento muy normal, podemos denominarlo como XXX.
-
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
+* RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
+* Temperatura del procesador
 * XXX
 
 ---
 
-### Estados
-
-|asciiEstados.md|
+### Directorio/carpeta protegida {Estancia con puerta con cerradura}
 
 XXX
 
-* **XXX {Apresado}** XXX
-* **XXX {Aturdido}** XXX
-* **XXX {Cegado}** XXX
-* **XXX {Derribado}** XXX
-* **XXX {Dormido}** XXX
-* **XXX {Incapacitado}** XXX
-* **XXX {Mareado}** XXX
-* **XXX {Paralizado}** XXX
+### Enlace duro {Puerta}
+
+|asciiPuerta.md|
+
+XXX
+
+### Enlace suave {Pasadizo secreto}
+
+|asciiPasadizo.md|
+
+XXX
 
 ---
 
-## Librerías y créditos
+## Bestiario
 
-|asciiEspada.md|
+En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
 
-Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
+### Dragón binario y hexadecimales
+
+|asciiDragon.md|
+
+XXX
+
+Si arma principal es su aliento de bucle infinito, aunque sus garras hexadecimales y sus mordiscos binarios también son temibles.
 
 ---
 
-### Hechizos
+## Clima
 
-|asciiMago.md|
+Aunque en un ecosistema como un sistema informático, no debería haber clima, podemos encontrar símiles que simulen el clima.
 
-XXX
-
-Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los de aceleración todo lo contrario.
-
-Los hechizos que juegan con versiones falsas de ti, pueden usar los backups para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
-
-XXX
-
-Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
+* Temperatura del procesador: Cuanto mayor sea la temperatura, más extremadamente caluroso y desértico sea el clima. El calor hace que el procesador haga todo más lento y con más fallo. Cuanto más baja sea la temperatura mejor será en clima en general.
+* El polvo acumulado dentro de la computadora XXX

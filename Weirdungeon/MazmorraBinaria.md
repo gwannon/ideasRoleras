@@ -60,6 +60,8 @@ Muchos sistemas tienen puntos de magia {PM} o poder {PP}, en esos casos lo puede
 
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
+* RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
+* Temperatura del procesador
 * XXX
 
 ### Habilidades
@@ -77,13 +79,15 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 
 \sp
 
-## Directorio
+## Sistema de carpetas {Mazmorra}
 
-XXX
+Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en bausca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
 
-### Sistema de carpetas {Mazmorra}
+Puedes usar directamente usa mazmorra ya creada y modificarla para darle cierto sabor computacional o crearla desde el principio con su propio diseño de directorio de carpetas.
 
-XXX
+Este aire computacional se consigue porque normalmente las carpetas tienen subcarpetas y estas más subcarpetas hasta llegar a una subcarpeta que no tenga sus propias subcarpetas y tengas que volver al nivel superior y probar otras carpetas.
+
+Para simular que desde una carpeta se pueda acceder a otra carpeta que no este directamente por encima o por debajo de su posición, podemos usar enlaces duros {puertas y pasillos} o enlaces blandos {puertas secretas y pasadizos ocultos}.
 
 ### Carpeta {Habitaciones y salas}
 
@@ -99,6 +103,8 @@ Los ficheros tienen una representación física como si fueran mesas, camas, est
 
 XXX
 
+\sp
+
 ### Enlace duro {Puerta}
 
 |asciiPuerta.md|
@@ -110,8 +116,6 @@ XXX
 |asciiPasadizo.md|
 
 XXX
-
-\sp
 
 ### Crons
 
@@ -127,9 +131,18 @@ Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar e
 
 XXX
 
+\sp
+
 A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
 
 Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
+
+## Clima
+
+Aunque en un ecosistema como un sistema informático, no debería haber clima, podemos encontrar símiles que simulen el clima.
+
+* Temperatura del procesador: Cuanto mayor sea la temperatura, más extremadamente caluroso y desértico sea el clima. El calor hace que el procesador haga todo más lento y con más fallo. Cuanto más baja sea la temperatura mejor será en clima en general.
+* El polvo acumulado dentro de la computadora XXX
 
 ## Idiomas
 
@@ -139,11 +152,11 @@ XXX
 
 Piensa en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.
 
-\sp
-
 Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro. Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que las limites de la carpeta están decorados con intrincados diseños de animales o que la XXX que han encontrado tiene ASCII Art decorándola.
 
 Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. 
+
+\sp
 
 ## Disparadores y deamons {Trampas}
 
@@ -159,11 +172,11 @@ Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran 
 
 XXX archivo comprimido
 
-\sp
-
 ## Magia y habilidades especiales
 
 La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede tener un juego de rol de mazmorreo pueden llegar a ser muy grandes. Así que trataremos de dar unas ayudas e indicaciones para que puedas hacer las conversiones que necesites.
+
+\sp
 
 ### XXX {Hechizos}
 
@@ -171,9 +184,12 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 XXX
 
-Los hechizos de ralentizar puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los de aceleración todo lo contrario.
+Los **hechizos de ralentizar** puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los **hechizos de aceleración** todo lo contrario.
 
-Los hechizos que juegan con versiones falsas de ti, pueden usar los _backups_ para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
+Los **hechizos que juegan con versiones falsas de ti**, pueden usar los _backups_ para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
+
+Los **hechizos de destierro** pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. 
+
 
 XXX
 
@@ -202,7 +218,7 @@ Normalmente, los juegos dungoneros tienen estados especiales que representan cir
 * **En cuarentena {Apresado}** Has sido marcado como en cuarentena con lo que sus posibilidades de acción han quedado muy restringidas.
 * **Bugeado {Aturdido}** Algo o alguien se ha aprovechado de tus bugs para entorpecer tu funcionamiento normal, puedes actuar pero hay pequeños fallos en tus funciones.
 * **Sin acceso al _path_ {Cegado, sordo}** Has perdido el acceso al _path_ con lo cual no sabes ni donde estás ni que hay a tu alrededor. 
-* **XXX {Derribado}** XXX
+* **Reiniciado {Derribado}** Algo te ha obligado a hacer un reinicio rápido, de forma que deberás perder tiempo en comenzar tu ejecución {levantarse} y poder continuar con tu funcionamiento {movimiento, ataques, lanzar hechizos}.
 * **Hibernando {Dormido}** Han puesto en hibernación el proceso que ejecuta tu script, hasta que algo o alguien te saque de la hibernación.
 * **Sin permisos de ejecución {Incapacitado}** Has recibido tantos ataques que han parado el proceso que te ha lanzado y han conseguido quitarte los permisos de ejecución, con lo que ahora no eres capaz de hacer nada hasta que alguien te devuelva los permisos y lance tu proceso.
 * **Exploiteado {Mareado}** Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus _exploits_, fallos de seguridad de tu código. 
@@ -321,7 +337,7 @@ Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas 
 
 También conocido como «device null» en inglés o «/dev/null» por su _path_ en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.
 
-Mientras que los limos tienen diferentes tipos, XXX
+Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en muestra mazmorra binaría podemos recurrir a «c:/nul» para sistemas Windows o usar otros dispositivos como «/dev/lp» {impresora} que te convierte en papel {petrificación}.
 
 \sp
 
