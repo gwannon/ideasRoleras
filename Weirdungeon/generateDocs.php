@@ -19,7 +19,7 @@ file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\
 $md = file_get_contents(__DIR__ . "/".$argv[1].".md");
 
 $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
-  $matches[0] = file_get_contents(__DIR__ . "/".$matches[1].".md"); 
+  $matches[0] = file_get_contents(__DIR__ . "/ascii/".$matches[1].".md"); 
   return $matches[0];
 }, $md);
 

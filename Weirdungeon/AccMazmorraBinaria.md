@@ -179,13 +179,13 @@ XXX
 
 Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
 
-### Habilidades especiales
+### Subrutinas {Habilidades especiales}
 
-Subrutinas XXX
+XXX
 
 ## Borrado y diferentes estados
 
-La muerte viene representada por el borrado. Los scripts no mueren, sino que son borrados, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
+La muerte viene representada por el borrado. **Los scripts no mueren, sino que son borrados**, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
 
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
 
