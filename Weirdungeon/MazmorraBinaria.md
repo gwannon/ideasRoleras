@@ -178,9 +178,11 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 \sp
 
-### XXX {Hechizos}
+### Magia {Hechizos}
 
 |asciiMago.md|
+
+Aunque no os lo creáis la magia existe dentro de la computación. El término magia se utiliza para describir código que maneja tareas complejas con una interfaz muy sencilla. Vamos yo digo «Alakazam» (una interfaz muy sencilla) y se produce una bola de fuego (una tarea muy compleja).
 
 XXX
 
