@@ -573,3 +573,11 @@
 {"rule":"CARPET","sentence":"^\\QQuizás el antivirus {alguacil o jefe de la guardia} necesita que busquéis en el sistema de carpetas a un presunto criminal malware y lo traigáis a cuarentena.\\E$"}
 {"rule":"CARPET","sentence":"^\\QSiempre hay alguien que necesita que tus scripts se adentren en el sistema de carpetas.\\E$"}
 {"rule":"CARPET","sentence":"^\\QLos crons o tareas programadas con una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QMazmorra binaria por Gwannon_\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.\\E$"}
+{"rule":"TU_TILDE","sentence":"^\\Qpwd {Supervivencia, orientación} permite saber dónde estás dentro del sistema de carpetas dándote tu path actual.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QPuedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QRepresenta a todas esas razas pequeñas como goblins, mites, kobolds o boggles.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa jarra de cerveza de Elissa Potier publicada en asciiart.eu.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl mago de Rowan Crawford publicado en asciiart.eu.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBuglins\\E$"}

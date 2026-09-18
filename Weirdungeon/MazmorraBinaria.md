@@ -74,18 +74,18 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc.
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
 * **rn {Esconderse, sigilo, disfrazarse}** permite renombrar ficheros de forma que puedas hacerte o hacer a otros pasar por lo que no son. También puedes ocultarte poniendo un punto delante de tu nombre. 
-* **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerias y unos ficheros de configuración crear y/o reparar un programa.
+* **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerías y unos ficheros de configuración crear y/o reparar un programa.
 * **pwd {Supervivencia, orientación}** permite saber dónde estás dentro del sistema de carpetas dándote tu _path_ actual.
 
 \sp
 
 ## Sistema de carpetas {Mazmorra}
 
-Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en bausca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
+Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en busca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
 
 Puedes usar directamente usa mazmorra ya creada y modificarla para darle cierto sabor computacional o crearla desde el principio con su propio diseño de directorio de carpetas.
 
-Este aire computacional se consigue porque normalmente las carpetas tienen subcarpetas y estas más subcarpetas hasta llegar a una subcarpeta que no tenga sus propias subcarpetas y tengas que volver al nivel superior y probar otras carpetas.
+Este aire computacional se consigue porque normalmente las carpetas tienen subcarpetas y estas, a su vez, más subcarpetas hasta llegar a una subcarpeta que no tenga sus propias subcarpetas y tengas que volver al nivel superior y probar otras carpetas.
 
 Para simular que desde una carpeta se pueda acceder a otra carpeta que no este directamente por encima o por debajo de su posición, podemos usar enlaces duros {puertas y pasillos} o enlaces blandos {puertas secretas y pasadizos ocultos}.
 
