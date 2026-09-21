@@ -74,18 +74,18 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 * **wget {Conocimientos}** permite conectarte a una página web para obtener conocimientos sobre un tema, magia, religión, naturaleza, etc.
 * **ls {Percepción}** permite ver lo que hay dentro del directorio e intentar buscar puertas secretas, pasadizos, enemigos escondidos, etc.
 * **rn {Esconderse, sigilo, disfrazarse}** permite renombrar ficheros de forma que puedas hacerte o hacer a otros pasar por lo que no son. También puedes ocultarte poniendo un punto delante de tu nombre. 
-* **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerias y unos ficheros de configuración crear y/o reparar un programa.
+* **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerías y unos ficheros de configuración crear y/o reparar un programa.
 * **pwd {Supervivencia, orientación}** permite saber dónde estás dentro del sistema de carpetas dándote tu _path_ actual.
 
 
 
 ## Sistema de carpetas {Mazmorra}
 
-Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en bausca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
+Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en busca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
 
 Puedes usar directamente usa mazmorra ya creada y modificarla para darle cierto sabor computacional o crearla desde el principio con su propio diseño de directorio de carpetas.
 
-Este aire computacional se consigue porque normalmente las carpetas tienen subcarpetas y estas más subcarpetas hasta llegar a una subcarpeta que no tenga sus propias subcarpetas y tengas que volver al nivel superior y probar otras carpetas.
+Este aire computacional se consigue porque normalmente las carpetas tienen subcarpetas y estas, a su vez, más subcarpetas hasta llegar a una subcarpeta que no tenga sus propias subcarpetas y tengas que volver al nivel superior y probar otras carpetas.
 
 Para simular que desde una carpeta se pueda acceder a otra carpeta que no este directamente por encima o por debajo de su posición, podemos usar enlaces duros {puertas y pasillos} o enlaces blandos {puertas secretas y pasadizos ocultos}.
 
@@ -142,21 +142,24 @@ Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en dif
 Aunque en un ecosistema como un sistema informático, no debería haber clima, podemos encontrar símiles que simulen el clima.
 
 * Temperatura del procesador: Cuanto mayor sea la temperatura, más extremadamente caluroso y desértico sea el clima. El calor hace que el procesador haga todo más lento y con más fallo. Cuanto más baja sea la temperatura mejor será en clima en general.
-* El polvo acumulado dentro de la computadora XXX
+* El polvo acumulado dentro de la computadora también genera problemas, no solo de calor, sino también de conectividad y acceso. Así eventos climatológicos como ventiscas de arena o hielo, pueden tener su versión computacional en el polvo acumulado que quitaría visibilidad y dificultaría el movimiento.
+* XXX
 
 ## Idiomas
 
 En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el **_l33t_** y el **código ASCII**. El l33t es lo que comúnmente conocemos como idioma hacker, esos textos donde la «A» se sustituye por un «4» o una «E» por un «3».
 
-XXX
+El código ASCII son 8 bit que cotienen 1 o 0 con el que se representan la mayoría de las letras y símbolos que usamos normalmente. Así «01100001» representa la «a», 01100010 la «b», y así con el resto de letras mayúsculas y minúsculas, números, signos ortográficos, etc. Tus scripts podrían encontrarse una retahila de unos y ceros grabados en un fichero comprimido. Solo si saben leerlo, sabrán que la ira de los programadores
 
-Piensa en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.
+Mi consejo es que pienses en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.
 
-Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro. Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que las limites de la carpeta están decorados con intrincados diseños de animales o que la XXX que han encontrado tiene ASCII Art decorándola.
+Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro.
+
+
+
+Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que los límites de la carpeta están decorados con intrincados diseños de animales en ASCII o que el enlace simbólico que acaban de encontrar en el directorio actual tiene ASCII Art que explica que quien la use será maldecido.
 
 Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. 
-
-
 
 ## Disparadores y deamons {Trampas}
 
@@ -178,9 +181,11 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 
 
-### XXX {Hechizos}
+### Magia {Hechizos}
 
 
+
+Aunque no os lo creáis la magia existe dentro de la computación. El término magia se utiliza para describir código que maneja tareas complejas con una interfaz muy sencilla. Vamos yo digo «Alakazam» (una interfaz muy sencilla) y se produce una bola de fuego (una tarea muy compleja).
 
 XXX
 
@@ -310,6 +315,14 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
 * **Copia de seguridad {Curandero}** con sus conocimientos básicos de tu código, puede recuperar las líneas que has perdido en tus aventuras.
 * **prompt $ {Cartografo}** este fichero se encarga de realizar tareas menores como _scrapear_ las carpetas y mapear su contenido.
 * **Script BASH {Mercenario}** A diferencia de los anteriores si es un script, pero es muy básico, pudiendo hacer muy pocas cosas, como copiar archivos, borrarlos, crear archivos, los típicos comandos de línea de comandos.
+
+## Programadores {Divinidades}
+
+Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían creer en les programadores que son las entidades primigenias que crearon el ordenador, el sistema de carpeta y a tus scripts. Veamos algunas opciones de programadores y sus zonas de influencia divina.
+
+* **Bill Gates** Maldad y Oscuridad.
+* **Linus Torvalds** Bien y Luz.
+* XXX
 
 
 
