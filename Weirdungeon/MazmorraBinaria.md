@@ -268,6 +268,8 @@ Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables
 * Pasta térmica {saco de dormir}
 * Enlace a datos permanentes {papel y tinta}
 
+\sp
+
 ### Objetos mágicos 
 
 Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.
