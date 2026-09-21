@@ -320,9 +320,12 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
 
 Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían creer en les programadores que son las entidades primigenias que crearon el ordenador, el sistema de carpeta y a tus scripts. Veamos algunas opciones de programadores y sus zonas de influencia divina.
 
-* **Bill Gates** Maldad y Oscuridad.
-* **Linus Torvalds** Bien y Luz.
-* XXX
+* **Ada Lovelace** Divinidad primordial y creadora.
+* **Bill Gates, San Altman, XXX** Maldad y Oscuridad.
+* **Grace Hopper, Linus Torvalds** Bien y Luz.
+* **Margaret Hamilton** Sabiduría y XXX
+* **Joan Clarke, Alan Turing** XXX
+* **Nolan Bushnell, Roberta Heuer Williams, Ron Gilbert** Diversión, Fiesta y Vino
 
 \sp
 
