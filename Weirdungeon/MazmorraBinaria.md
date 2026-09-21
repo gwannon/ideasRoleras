@@ -231,11 +231,13 @@ Normalmente, los juegos dungoneros tienen estados especiales que representan cir
 
 \sp
 
-## Librerías y tokens
+## Librerías y periféricos {Equipo}
 
 |asciiEspada.md|
 
-Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
+Mediante la inclusión de librerías de código y acceso a periféricos {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. Las librerías son grandes archivos de código con funcionalidades ya creadas que te permiten hacer cosas que las funciones de tu script no te permite hacer normalmente o que mejoran las funciones que si tienes. Los periféricos son elementos del hardware a los que puedes tener acceso y te permiten también hacer cosas que tu programación normal no te permite. 
+
+Por ejemplo, un cable bus {cuerda} te permite salir de carpetas sin salida en las que has caído por error mejorando tus capacidades de acceder a la carpeta superior a la que estés actualmente, en otras palabras, te permite escalar desde el pozo trampa en el que has caído a la habitación desde la que caíste. Sin el cable bus, salir de ese directorio trampa no sería imposible, pero sí muy difícil.
 
 ### Armas
  

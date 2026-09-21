@@ -6,35 +6,26 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 ---
 
-### Directorio/carpeta protegida {Estancia con puerta con cerradura}
+### Armaduras
 
 XXX
 
-### Enlace duro {Puerta}
-
-|asciiPuerta.md|
-
-XXX
-
-### Enlace suave {Pasadizo secreto}
-
-|asciiPasadizo.md|
+### Herramientas
 
 XXX
 
 ---
 
-## Bestiario
+## Programadores {Divinidades}
 
-En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
+Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían creer en les programadores que son las entidades primigenias que crearon el ordenador, el sistema de carpeta y a tus scripts. Veamos algunas opciones de programadores y sus zonas de influencia divina.
 
-### Dragón binario y hexadecimales
-
-|asciiDragon.md|
-
-XXX
-
-Si arma principal es su aliento de bucle infinito, aunque sus garras hexadecimales y sus mordiscos binarios también son temibles.
+* **Ada Lovelace** Divinidad primordial y creadora.
+* **Bill Gates, San Altman, XXX** Maldad y Oscuridad.
+* **Grace Hopper, Linus Torvalds** Bien y Luz.
+* **Margaret Hamilton** Sabiduría y XXX
+* **Joan Clarke, Alan Turing** XXX
+* **Nolan Bushnell, Roberta Heuer Williams, Ron Gilbert** Diversión, Fiesta y Vino
 
 ---
 
@@ -43,4 +34,5 @@ Si arma principal es su aliento de bucle infinito, aunque sus garras hexadecimal
 Aunque en un ecosistema como un sistema informático, no debería haber clima, podemos encontrar símiles que simulen el clima.
 
 * Temperatura del procesador: Cuanto mayor sea la temperatura, más extremadamente caluroso y desértico sea el clima. El calor hace que el procesador haga todo más lento y con más fallo. Cuanto más baja sea la temperatura mejor será en clima en general.
-* El polvo acumulado dentro de la computadora XXX
+* El polvo acumulado dentro de la computadora también genera problemas, no solo de calor, sino también de conectividad y acceso. Así eventos climatológicos como ventiscas de arena o hielo, pueden tener su versión computacional en el polvo acumulado que quitaría visibilidad y dificultaría el movimiento.
+* XXX
