@@ -10,9 +10,9 @@
  
 **Mazmorra binaria** es una ambientación que puedes aplicar sobre tu **juego de rol de mazmorreo** favorito para **convertirlo en un mundo computacional y binario** de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
-Este suplemento **no aporta reglas de juego**, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
+Este suplemento **no aporta reglas de juego**, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada que no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
 
-## Scripts
+## Scripts {PJ}
 
 Los PJ no son seres de fantasía, sino **scripts** que deben adentrarse por diversos motivos en el sistema de carpetas para buscar algún fichero perdido, borrar algún malware dañino, etc.
 
