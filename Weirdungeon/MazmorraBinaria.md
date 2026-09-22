@@ -62,7 +62,6 @@ Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud 
 
 * RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
 * Temperatura del procesador XXX
-* XXX
 
 ### Habilidades
 
@@ -332,12 +331,18 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
 
 Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían creer en les programadores que son las entidades primigenias que crearon el ordenador, el sistema de carpeta y a tus scripts. Veamos algunas opciones de programadores y sus zonas de influencia divina.
 
-* **Ada Lovelace** Divinidad primordial y creadora.
-* **Bill Gates, San Altman, XXX** Maldad y Oscuridad.
-* **Grace Hopper, Linus Torvalds** Bien y Luz.
-* **Margaret Hamilton** Sabiduría y XXX
-* **Joan Clarke, Alan Turing** XXX
-* **Nolan Bushnell, Roberta Heuer Williams, Ron Gilbert** Diversión, Fiesta y Vino
+* **ada LOVELACE** Divinidad primordial y creadora.
+* **bill GATES, sam ALTMAN, dario AMODEI** Maldad y Oscuridad.
+* **elon MUSK** Muerte.
+* **grace HOPPER, linus TORVALDS** Bien y Luz.
+* **susan KARE** Naturaleza.
+* **dennis RITCHIE, guido van ROSSUM** Arcana y Magia.
+* **kathleen  BOOTH, mary allen WILKES** Forja.
+* **margaret HAMILTON, joan CLARKE, alan TURING** Conocimiento y Guerra.
+* **roberta HEUER williams, ron GILBERT** Diversión, Fiesta y Vino.
+* **nolan BUSHNELL, kevin MITNICK** Engaño y Crepúsculo.
+
+Se recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas. No le rezas a Nolan Bushnell, le rezas a Bushnell
 
 \sp
 
@@ -366,14 +371,6 @@ Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas 
 También conocido como «device null» en inglés o «/dev/null» por su _path_ en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.
 
 Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en muestra mazmorra binaría podemos recurrir a «c:/nul» para sistemas Windows o usar otros dispositivos como «/dev/lp» {impresora} que te convierte en papel {petrificación}.
-
-\sp
-
-## Ejemplo de conversión de mazmorra
-
-XXX 
-
-La mazmorra de los sectores corruptos.
 
 \sp
 
