@@ -61,7 +61,7 @@ Muchos sistemas tienen puntos de magia {PM} o poder {PP}, en esos casos lo puede
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
-* Temperatura del procesador
+* Temperatura del procesador XXX
 * XXX
 
 ### Habilidades
@@ -231,11 +231,13 @@ Normalmente, los juegos dungoneros tienen estados especiales que representan cir
 
 
 
-## Librerías y tokens
+## Librerías y periféricos {Equipo}
 
 
 
-Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX
+Mediante la inclusión de librerías de código y acceso a periféricos {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. Las librerías son grandes archivos de código con funcionalidades ya creadas que te permiten hacer cosas que las funciones de tu script no te permite hacer normalmente o que mejoran las funciones que si tienes. Los periféricos son elementos del hardware a los que puedes tener acceso y te permiten también hacer cosas que tu programación normal no te permite. 
+
+Por ejemplo, un cable bus {cuerda} te permite salir de carpetas sin salida en las que has caído por error mejorando tus capacidades de acceder a la carpeta superior a la que estés actualmente, en otras palabras, te permite escalar desde el pozo trampa en el que has caído a la habitación desde la que caíste. Sin el cable bus, salir de ese directorio trampa no sería imposible, pero sí muy difícil.
 
 ### Armas
  
@@ -255,7 +257,17 @@ XXX
 
 ### Herramientas
 
-XXX
+Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.
+
+* **scripts de hackeo de contraseña {ganzuas}** Si se usa sobre un directorio encriptado o protegido con contraseña, te ayudará a desbloquearlos.
+
+
+
+* **control de versiones {botiquín}** Si has perdido código con esta herramienta podrás recuperar parte de tus líneas de código.
+* **logs de actividad {kit de cartografía}** Mediante los _logs_ o registros de actividad, puedes saber dónde has estado, dónde no y qué has hecho en cada sitio. 
+* **gestores de mimetype {kit de disfraces}** El _MIME type_ son unos códigos internos que muestran realmente lo que eres. El _MIME type_ de un archivo de texto, por ejemplo, es «text/plain». Con estas herramientas podrías convertir tu _MIME type_ en «image/jpeg» y hacerte pasar por un fichero de imagen.
+* **editores {herramientas de artesano}** Estos editores te permiten crear y reparar todo tipo de ficheros.
+* **herramientas de clonado {kit de falsificación}** Estos scripts te permiten hacer copias exactas, saltándose todo tipo de herramientas de seguridad anticopia que pudieran tener. 
 
 ### Equipo de aventuras
 
@@ -320,9 +332,12 @@ Estos ayudantes no son scripts, tienen muchísimas menos capacidades, pero tus s
 
 Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían creer en les programadores que son las entidades primigenias que crearon el ordenador, el sistema de carpeta y a tus scripts. Veamos algunas opciones de programadores y sus zonas de influencia divina.
 
-* **Bill Gates** Maldad y Oscuridad.
-* **Linus Torvalds** Bien y Luz.
-* XXX
+* **Ada Lovelace** Divinidad primordial y creadora.
+* **Bill Gates, San Altman, XXX** Maldad y Oscuridad.
+* **Grace Hopper, Linus Torvalds** Bien y Luz.
+* **Margaret Hamilton** Sabiduría y XXX
+* **Joan Clarke, Alan Turing** XXX
+* **Nolan Bushnell, Roberta Heuer Williams, Ron Gilbert** Diversión, Fiesta y Vino
 
 
 

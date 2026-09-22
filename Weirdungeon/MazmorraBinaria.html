@@ -116,7 +116,7 @@
 <p>Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.</p>
 <ul>
 <li>RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.</li>
-<li>Temperatura del procesador</li>
+<li>Temperatura del procesador XXX</li>
 <li>XXX</li>
 </ul>
 <h3>Habilidades</h3>
@@ -265,11 +265,12 @@ _/j  L l\_!
 <li><strong>Bloqueado {Paralizado}</strong> El proceso que ejecuta tu script se ha quedado bloqueado y no puedes hacer nada hasta que no te desbloquees.</li>
 </ul>
 </div><div class="saltopagina even"></div><div class='columns'>
-<h2>Librerías y tokens</h2>
+<h2>Librerías y periféricos {Equipo}</h2>
 <pre><code>      /| ________________
 O|===|* &gt;________________&gt;
       \|</code></pre>
-<p>Mediante la inclusión de librerías de código {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. XXX</p>
+<p>Mediante la inclusión de librerías de código y acceso a periféricos {equipo} puedes añadir funcionalidades nuevas a tus scripts o mejorar las que ya tienes. Las librerías son grandes archivos de código con funcionalidades ya creadas que te permiten hacer cosas que las funciones de tu script no te permite hacer normalmente o que mejoran las funciones que si tienes. Los periféricos son elementos del hardware a los que puedes tener acceso y te permiten también hacer cosas que tu programación normal no te permite. </p>
+<p>Por ejemplo, un cable bus {cuerda} te permite salir de carpetas sin salida en las que has caído por error mejorando tus capacidades de acceder a la carpeta superior a la que estés actualmente, en otras palabras, te permite escalar desde el pozo trampa en el que has caído a la habitación desde la que caíste. Sin el cable bus, salir de ese directorio trampa no sería imposible, pero sí muy difícil.</p>
 <h3>Armas</h3>
 <p>La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan grande que lo mejor es no modificarlas mucho, simplemente añadirle sufijos o prefijos que le den un toque informático. Por ejemplo:</p>
 <table>
@@ -340,7 +341,18 @@ O|===|* &gt;________________&gt;
 <h3>Armaduras</h3>
 <p>XXX</p>
 <h3>Herramientas</h3>
-<p>XXX</p>
+<p>Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.</p>
+<ul>
+<li><strong>scripts de hackeo de contraseña {ganzuas}</strong> Si se usa sobre un directorio encriptado o protegido con contraseña, te ayudará a desbloquearlos.</li>
+</ul>
+</div><div class="saltopagina odd"></div><div class='columns'>
+<ul>
+<li><strong>control de versiones {botiquín}</strong> Si has perdido código con esta herramienta podrás recuperar parte de tus líneas de código.</li>
+<li><strong>logs de actividad {kit de cartografía}</strong> Mediante los <i>logs</i> o registros de actividad, puedes saber dónde has estado, dónde no y qué has hecho en cada sitio. </li>
+<li><strong>gestores de mimetype {kit de disfraces}</strong> El <i>MIME type</i> son unos códigos internos que muestran realmente lo que eres. El <i>MIME type</i> de un archivo de texto, por ejemplo, es «text/plain». Con estas herramientas podrías convertir tu <i>MIME type</i> en «image/jpeg» y hacerte pasar por un fichero de imagen.</li>
+<li><strong>editores {herramientas de artesano}</strong> Estos editores te permiten crear y reparar todo tipo de ficheros.</li>
+<li><strong>herramientas de clonado {kit de falsificación}</strong> Estos scripts te permiten hacer copias exactas, saltándose todo tipo de herramientas de seguridad anticopia que pudieran tener. </li>
+</ul>
 <h3>Equipo de aventuras</h3>
 <p>Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables al mundo de la informática.</p>
 <ul>
@@ -352,7 +364,7 @@ O|===|* &gt;________________&gt;
 <h3>Objetos mágicos</h3>
 <p>Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.</p>
 <p>Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos llamarlo una mejora de procesador, redundancia de procesador o un bus de procesador.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Escalas y tamaños</h2>
 <p>Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.</p>
 <p>Por debajo puedes usar bytes {B} para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.</p>
@@ -385,7 +397,7 @@ O|===|* &gt;________________&gt;
 <li><strong>Limpiar de virus, troyanos y malware</strong> un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.</li>
 <li><strong>Rescatar unos <i>backups</i></strong> de unas facturas en hoja de cálculo de un grupo de <i>bugs</i> que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.</li>
 </ul>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Helpers</h2>
 <pre><code>       ,
       /|    
@@ -411,11 +423,14 @@ O|===|* &gt;________________&gt;
 <h2>Programadores {Divinidades}</h2>
 <p>Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían creer en les programadores que son las entidades primigenias que crearon el ordenador, el sistema de carpeta y a tus scripts. Veamos algunas opciones de programadores y sus zonas de influencia divina.</p>
 <ul>
-<li><strong>Bill Gates</strong> Maldad y Oscuridad.</li>
-<li><strong>Linus Torvalds</strong> Bien y Luz.</li>
-<li>XXX</li>
+<li><strong>Ada Lovelace</strong> Divinidad primordial y creadora.</li>
+<li><strong>Bill Gates, San Altman, XXX</strong> Maldad y Oscuridad.</li>
+<li><strong>Grace Hopper, Linus Torvalds</strong> Bien y Luz.</li>
+<li><strong>Margaret Hamilton</strong> Sabiduría y XXX</li>
+<li><strong>Joan Clarke, Alan Turing</strong> XXX</li>
+<li><strong>Nolan Bushnell, Roberta Heuer Williams, Ron Gilbert</strong> Diversión, Fiesta y Vino</li>
 </ul>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Bestiario</h2>
 <p>En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.</p>
 <h3>Dragón binario y hexadecimales</h3>
@@ -459,11 +474,11 @@ O|===|* &gt;________________&gt;
 |___________|／</code></pre>
 <p>También conocido como «device null» en inglés o «/dev/null» por su <i>path</i> en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.</p>
 <p>Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en muestra mazmorra binaría podemos recurrir a «c:/nul» para sistemas Windows o usar otros dispositivos como «/dev/lp» {impresora} que te convierte en papel {petrificación}.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Ejemplo de conversión de mazmorra</h2>
 <p>XXX </p>
 <p>La mazmorra de los sectores corruptos.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Licencia</h2>
 <p>Creado para la <a href="https://itch.io/jam/weirdungeon">Weirdungeon JAM</a> organizada por <a href="https://asaltaelrol.itch.io/">Asaltadoras del Rol</a>. El código fuente puedes encontrarlo en <a href="https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon">GitHub/IdeasRoleras</a>.</p>
 <p>El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:</p>
@@ -477,7 +492,7 @@ O|===|* &gt;________________&gt;
 <li>La espada publicada en <a href="https://www.asciiart.eu/art/2e8c693919b640a0">asciiart.eu</a>.</li>
 </ul>
 <p>Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en <a href="https://davrivas.itch.io/licencia-entre-colegas">davrivas.itch.io/licencia-entre-colegas</a>.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <pre><code>))))))))`"###mnn$$$$"""%%%%%%%`""$$$$$$$mmn..m###(((((((((((((((((((((((((((((((((.m####"'((
 ))))))))))"$$$""'%%%%%%%%%%%%%%%%%%%%%%`""$$$$$n###.(((((((((((((((((((((((((.m####"'(((((
 )))))))))))$##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`"$$$n#.(((((((((((((((((((.m####"'(((((((

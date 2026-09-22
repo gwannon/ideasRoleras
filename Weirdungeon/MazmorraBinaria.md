@@ -61,7 +61,7 @@ Muchos sistemas tienen puntos de magia {PM} o poder {PP}, en esos casos lo puede
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
-* Temperatura del procesador
+* Temperatura del procesador XXX
 * XXX
 
 ### Habilidades
@@ -257,7 +257,17 @@ XXX
 
 ### Herramientas
 
-XXX
+Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.
+
+* **scripts de hackeo de contraseña {ganzuas}** Si se usa sobre un directorio encriptado o protegido con contraseña, te ayudará a desbloquearlos.
+
+\sp
+
+* **control de versiones {botiquín}** Si has perdido código con esta herramienta podrás recuperar parte de tus líneas de código.
+* **logs de actividad {kit de cartografía}** Mediante los _logs_ o registros de actividad, puedes saber dónde has estado, dónde no y qué has hecho en cada sitio. 
+* **gestores de mimetype {kit de disfraces}** El _MIME type_ son unos códigos internos que muestran realmente lo que eres. El _MIME type_ de un archivo de texto, por ejemplo, es «text/plain». Con estas herramientas podrías convertir tu _MIME type_ en «image/jpeg» y hacerte pasar por un fichero de imagen.
+* **editores {herramientas de artesano}** Estos editores te permiten crear y reparar todo tipo de ficheros.
+* **herramientas de clonado {kit de falsificación}** Estos scripts te permiten hacer copias exactas, saltándose todo tipo de herramientas de seguridad anticopia que pudieran tener. 
 
 ### Equipo de aventuras
 
@@ -267,8 +277,6 @@ Cosas como cuerdas, saco de dormir, provisiones, etc. Son fácilmente adaptables
 * Datos de transferencia {provisiones}
 * Pasta térmica {saco de dormir}
 * Enlace a datos permanentes {papel y tinta}
-
-\sp
 
 ### Objetos mágicos 
 

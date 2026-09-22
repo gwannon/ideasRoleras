@@ -1,16 +1,12 @@
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
-* Temperatura del procesador
+* Temperatura del procesador XXX
 * XXX
 
 ---
 
 ### Armaduras
-
-XXX
-
-### Herramientas
 
 XXX
 
