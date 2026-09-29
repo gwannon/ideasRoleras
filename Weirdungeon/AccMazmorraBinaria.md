@@ -61,7 +61,7 @@ Muchos sistemas tienen puntos de magia {PM} o poder {PP}, en esos casos lo puede
 Si necesitas otras puntuaciones para representar, resistencia/cansancio o salud mental, puedes usar estas otras opciones.
 
 * RNG {Generador de Números Aleatorios} para representar la suerte del script o alguna metamoneda que permita alterar la suerte en las tiradas.
-* Temperatura del procesador XXX
+* Los kilobytes (Kb) que ocupan un script son otra opción interesante para llevar los puntos de vida o los puntos de magia.
 
 ### Habilidades
 
@@ -142,7 +142,7 @@ Aunque en un ecosistema como un sistema informático, no debería haber clima, p
 
 * Temperatura del procesador: Cuanto mayor sea la temperatura, más extremadamente caluroso y desértico sea el clima. El calor hace que el procesador haga todo más lento y con más fallo. Cuanto más baja sea la temperatura mejor será en clima en general.
 * El polvo acumulado dentro de la computadora también genera problemas, no solo de calor, sino también de conectividad y acceso. Así eventos climatológicos como ventiscas de arena o hielo, pueden tener su versión computacional en el polvo acumulado que quitaría visibilidad y dificultaría el movimiento.
-* XXX
+* El espacio libre del disco duro puede ser otro elemento que puedes usar como si fueran un fenómeno climatológico. Al salir de aventuras pueden encontrarse que el disco duro está casi lleno y que sea difícil moverse como durante días de niebla, polvo en suspensión, etc.
 
 ## Idiomas
 
@@ -152,9 +152,9 @@ El código ASCII son 8 bit que cotienen 1 o 0 con el que se representan la mayor
 
 Mi consejo es que pienses en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.
 
+
+
 Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro.
-
-
 
 Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que los límites de la carpeta están decorados con intrincados diseños de animales en ASCII o que el enlace simbólico que acaban de encontrar en el directorio actual tiene ASCII Art que explica que quien la use será maldecido.
 
@@ -397,7 +397,7 @@ El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
 * La jarra de cerveza de Elissa Potier publicada en [asciiart.eu](https://www.asciiart.eu/art/476b636d123b6ad8).
 * La espada publicada en [asciiart.eu](https://www.asciiart.eu/art/2e8c693919b640a0).
-* El orco publicada en [emojicombos.com](https://emojicombos.com/orc-head-ascii-art).
+* El orco publicado en [emojicombos.com](https://emojicombos.com/orc-head-ascii-art).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
 
