@@ -10,9 +10,9 @@
  
 **Mazmorra binaria** es una ambientación que puedes aplicar sobre tu **juego de rol de mazmorreo** favorito para **convertirlo en un mundo computacional y binario** de unos y ceros, enlaces simbólicos, carpetas y permisos.
 
-Este suplemento **no aporta reglas de juego**, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
+Este suplemento **no aporta reglas de juego**, simplemente te da una ambientación que puedes aplicar a tus reglas de juego. Propone nombres de elementos clásicos del mazmorreo para darles un aspecto computacional, como convirtiendo a los personajes en scripts y la clase en el lenguaje en que ha sido escrito. Una típica trampa de paredes puede simularse con una tarea programada que no para de copiar ficheros en una carpeta hasta que aplasta a tus scripts.
 
-## Scripts
+## Scripts {PJ}
 
 Los PJ no son seres de fantasía, sino **scripts** que deben adentrarse por diversos motivos en el sistema de carpetas para buscar algún fichero perdido, borrar algún malware dañino, etc.
 
@@ -342,7 +342,7 @@ Esto está copiado directamente de Tron, no lo escondo. Tus scripts podrían cre
 * **roberta HEUER williams, ron GILBERT** Diversión, Fiesta y Vino.
 * **nolan BUSHNELL, kevin MITNICK** Engaño y Crepúsculo.
 
-Recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas.
+Se recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas. No le rezas a Nolan Bushnell, le rezas a Bushnell
 
 
 
@@ -350,13 +350,13 @@ Recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas.
 
 En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
 
-### Dragón binario y hexadecimales
+### Dragón binario y hexadecimal
 
 
 
-XXX
+Estos megaprogramas son los seres más poderosos a los que tus scripts se pueden enfrentar. Están formados por miles de ficheros que con lo que darles muerte es muy complicado. También son muy sabios, tienen montones de versiones y llevan en el sistema desde hace trillones de ciclos. Su arma principal es su aliento de bucle infinito, aunque sus garras hexadecimales y sus mordiscos binarios también son temibles.
 
-Si arma principal es su aliento de bucle infinito, aunque sus garras hexadecimales y sus mordiscos binarios también son temibles.
+Existen los binarios, antiguos y primitivos, y los hexadecimales, más modernos y civilizados, pero aun así, también terribles.
 
 ### Buglins
 
@@ -374,6 +374,16 @@ Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en m
 
 
 
+### Virus {Orco}
+
+
+
+Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. 
+
+Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las ordenes que recibieron de ellas.
+
+
+
 ## Licencia
 
 Creado para la [Weirdungeon JAM](https://itch.io/jam/weirdungeon) organizada por [Asaltadoras del Rol](https://asaltaelrol.itch.io/). El código fuente puedes encontrarlo en [GitHub/IdeasRoleras](https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon).
@@ -387,6 +397,7 @@ El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:
 * El mago de Rowan Crawford publicado en [asciiart.eu](https://www.asciiart.eu/art/7ce3d3cd0f6dc5db).
 * La jarra de cerveza de Elissa Potier publicada en [asciiart.eu](https://www.asciiart.eu/art/476b636d123b6ad8).
 * La espada publicada en [asciiart.eu](https://www.asciiart.eu/art/2e8c693919b640a0).
+* El orco publicada en [emojicombos.com](https://emojicombos.com/orc-head-ascii-art).
 
 Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en [davrivas.itch.io/licencia-entre-colegas](https://davrivas.itch.io/licencia-entre-colegas).
 
