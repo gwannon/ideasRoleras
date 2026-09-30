@@ -398,11 +398,9 @@ Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en m
 
 
 
-Es una mezcla de «troyano» + «orco». Representa a todas esas razas medianas y grandes como orcos, trolls, hobgoblins, osgos o gnolls. Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. Puedes ponerles diferentes complementos para diferenciarlos, como troyarcos pirateados, troyarcos de la darkweb, troyarcos de ransonware, etc. 
+Es una mezcla de «troyano» + «orco». Representa a todas esas razas medianas y grandes como orcos, trolls, hobgoblins, osgos o gnolls. Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las órdenes que recibieron de ellas.
 
-Si quieres los nombres, de sus clanes pueden nombres que parezcan Virus informaticos, Mydoom, Sobig, Klez, ILOVEYOU, WannaCry, etc.
-
-Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las órdenes que recibieron de ellas.
+Puedes ponerles diferentes complementos para diferenciarlos, como troyarcos pirateados, troyarcos de la darkweb, troyarcos de ransonware, etc. Si quieres los nombres, de sus clanes pueden nombres que parezcan virus informáticos de los 2000 como Mydoom, Sobig, Klez, ILOVEYOU, WannaCry, etc.
 
 
 
