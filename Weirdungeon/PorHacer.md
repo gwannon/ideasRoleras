@@ -36,13 +36,15 @@ Los virus, los administradores de sistemas y los propios usuarios protegen las c
 
 XXX
 
-### Trampa de paredes móviles
+---
 
-Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados.
+### Trampas de cuchillas, proyectiles y pendulos
 
-### Trampa de compresión
+XXX
 
-XXX archivo comprimido
+### Trampas con foso
+
+XXX
 
 ---
 
@@ -67,11 +69,5 @@ Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
 ---
 
 ### Subrutinas {Habilidades especiales}
-
-XXX
-
----
-
-### Armaduras
 
 XXX

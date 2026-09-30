@@ -166,19 +166,31 @@ Los virus, los administradores de sistemas y los propios usuarios protegen las c
 
 XXX
 
-### Trampa de paredes móviles
+### Trampa de paredes móviles y de objetos que caen o empujan
 
-Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados.
+Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados. Lo mismo pasaría con trampas que dejan caer cosas pesadas/afiladas del techo, haciendo que el cron deje guarde archivos en las posiciones que ocupen tus scripts y estos deban moverse a nueva posiciones del disco duro para evitarlos.
 
-### Trampa de compresión
+También pudiera ser que un archivo se mueva por toda la carpeta, empujando a tus scripts y haciendo daño a los que no sean lo suficientemente rápidos para esquivarlos.
 
-XXX archivo comprimido
+### Trampa de compresión/encriptación
+
+Sabéis esas trampas en las que la habitación se cierran todas las puertas, se llenan de agua, gas venenoso o lava y hay que buscar la salida como sea, pues en una mazmorra binaria pueden simularlo con el tema de la encriptación o la compresión de una carpeta. Según se encripta o comprime la carpeta, la carpeta se bloquea por parte del sistema y el espacio que queda es menor. Si alguien cae dentro de las partes encriptadas o comprimidas o el directorio es comprimido totalmente, tendrá serios problemas.
+
+
+
+El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. 
+
+### Trampas de cuchillas, proyectiles y pendulos
+
+XXX
+
+### Trampas con foso
+
+XXX
 
 ## Magia y habilidades especiales
 
 La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede tener un juego de rol de mazmorreo pueden llegar a ser muy grandes. Así que trataremos de dar unas ayudas e indicaciones para que puedas hacer las conversiones que necesites.
-
-
 
 ### Magia {Hechizos}
 
@@ -203,6 +215,8 @@ Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
 
 XXX
 
+
+
 ## Borrado y diferentes estados
 
 La muerte viene representada por el borrado. **Los scripts no mueren, sino que son borrados**, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
@@ -210,8 +224,6 @@ La muerte viene representada por el borrado. **Los scripts no mueren, sino que s
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
 
 Resucitar a alguien es tan fácil como buscar una copia de seguridad y descomprimirla y si no hay copias de seguridad es que está más allá de la resurrección.
-
-
 
 ### Estados
 
@@ -252,16 +264,24 @@ La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan
 
 ### Armaduras
 
-XXX
+Las armaduras podemos transformarlas en nuestra mazmorra binaria en unas librerias especiales que mejoran tu ciberseguridad, tus logs y o tus permisos.
+
+|Armadura|Armadura computacional|
+|---|---|
+|Cuero|De logs|
+|Cuero tachonado|De logs procesados|
+|De malla|Anti cross-scripting|
+|De escamas|Anti inyección de SQL|
+|Coraza|De permisos|
+|Placas|DMZ|
+
+
 
 ### Herramientas
 
 Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.
 
 * **scripts de hackeo de contraseña {ganzuas}** Si se usa sobre un directorio encriptado o protegido con contraseña, te ayudará a desbloquearlos.
-
-
-
 * **control de versiones {botiquín}** Si has perdido código con esta herramienta podrás recuperar parte de tus líneas de código.
 * **logs de actividad {kit de cartografía}** Mediante los _logs_ o registros de actividad, puedes saber dónde has estado, dónde no y qué has hecho en cada sitio. 
 * **gestores de mimetype {kit de disfraces}** El _MIME type_ son unos códigos internos que muestran realmente lo que eres. El _MIME type_ de un archivo de texto, por ejemplo, es «text/plain». Con estas herramientas podrías convertir tu _MIME type_ en «image/jpeg» y hacerte pasar por un fichero de imagen.
@@ -350,21 +370,21 @@ Se recomiendo usar como nombre de la divinidad la parte del nombre en mayúscula
 
 En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.
 
-### Dragón binario y hexadecimal
+### Paquetes de software binarios y hexadecimales {Dragones cromáticos o metálicos}
 
 
 
 Estos megaprogramas son los seres más poderosos a los que tus scripts se pueden enfrentar. Están formados por miles de ficheros que con lo que darles muerte es muy complicado. También son muy sabios, tienen montones de versiones y llevan en el sistema desde hace trillones de ciclos. Su arma principal es su aliento de bucle infinito, aunque sus garras hexadecimales y sus mordiscos binarios también son temibles.
 
-Existen los binarios, antiguos y primitivos, y los hexadecimales, más modernos y civilizados, pero aun así, también terribles.
+Existen los binarios, antiguos y primitivos, y los hexadecimales, más modernos y civilizados, pero aun así, también terribles. Quién no ha querido enfrentarse a un antiguo Microsoft Office o un salvaje y cruel Adobe Suite
 
 ### Buglins
 
 
 
-Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de sistema, buglins de papelera, buglins de memoria, etc. 
+Es una mezcla de «bug» + «goblins». Representa a todas esas razas pequeñas como goblins, mites, kobolds o boggles. Puedes ponerles diferentes complementos para diferenciarlos, como buglins de cola de impresión, buglins de papelera, buglins de memoria, etc. 
 
-### Periférico nulo {Limo}
+### Periféricos nulos {Limo}
 
 
 
@@ -374,13 +394,15 @@ Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en m
 
 
 
-### Virus {Orco}
+### Troyarcos {Orco}
 
 
 
-Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. 
+Es una mezcla de «troyano» + «orco». Representa a todas esas razas medianas y grandes como orcos, trolls, hobgoblins, osgos o gnolls. Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. Puedes ponerles diferentes complementos para diferenciarlos, como troyarcos pirateados, troyarcos de la darkweb, troyarcos de ransonware, etc. 
 
-Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las ordenes que recibieron de ellas.
+Si quieres los nombres, de sus clanes pueden nombres que parezcan Virus informaticos, Mydoom, Sobig, Klez, ILOVEYOU, WannaCry, etc.
+
+Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las órdenes que recibieron de ellas.
 
 
 
