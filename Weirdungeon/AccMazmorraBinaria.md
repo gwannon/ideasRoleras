@@ -180,7 +180,7 @@ Sabéis esas trampas en las que la habitación se cierran todas las puertas, se 
 
 El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. 
 
-### Trampas de cuchillas, proyectiles y pendulos
+### Trampas de cuchillas, proyectiles y péndulos
 
 XXX
 
