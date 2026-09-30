@@ -38,7 +38,7 @@ XXX
 
 ---
 
-### Trampas de cuchillas, proyectiles y pendulos
+### Trampas de cuchillas, proyectiles y péndulos
 
 XXX
 
