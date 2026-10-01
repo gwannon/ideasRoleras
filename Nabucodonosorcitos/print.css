@@ -283,6 +283,10 @@ table thead tr th {
   padding-left: 4px;
 }
 
+body#NabucodonosorcitosBW table thead tr th {
+  color: black;
+}
+
 table tbody tr:nth-child(even) {
   background-color: rgba(0, 0, 0, 0.122);
 }
