@@ -94,6 +94,10 @@ blockquote {
   position: relative;
 }
 
+body#NabucodonosorcitosBW blockquote {
+  color: var(--color-black);
+}
+
 blockquote:after {
   box-sizing: border-box;
   content: "123";
