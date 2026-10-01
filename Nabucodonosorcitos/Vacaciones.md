@@ -10,7 +10,7 @@
 
 \conc
 
-> Lleváis años queriendo ir a Whirlpool Park, el mejor parque acuático que existe, y este año se han juntado los astros y todos podéis ir. Será un viaje increíble cruzando el desierto, durmiendo hoteles de carretera, visitando la bola de lana más grande del mundo hasta llegar a vuestro destino.
+> Lleváis años queriendo ir a Whirlpool Park, el mejor parque acuático que existe, y este año se han juntado los astros y todos podéis ir. Será un viaje increíble cruzando el desierto, durmiendo hoteles de carretera, visitando la bola de lana más grande del mundo, hasta llegar a vuestro destino.
 
 Esta **aventura es una _roadtrip_** en la que tus jugadores recorrerán miles de kilómetros por exóticos parajes en su coche para **ir al mejor parque acuático del mundo, el Whirlpool**, o sea el lavavajillas de la cocina.
 
@@ -20,7 +20,7 @@ Aunque para los nabucos sea un gran viaje en coche, cada parte de la aventura no
 
 El grupo puede ser de cualquier tipo, una familia, un club deportivo, un grupo escolar, etc. Lo más importante es que tengan un vehículo con que hacer kilómetros.
 
-La excusa del viaje puede ser muy variada, han ganado unas entradas gratis en la radio, les ha dado un bono especial en el trabajo, llevan años ahorrando para ellos, etc. Pueden hasta habérselas vendido muy baratas un monstruo con gabardina y sombrero en un oscuro callejón.
+La excusa del viaje puede ser muy variada, han ganado unas entradas gratis en la radio, les ha dado un bono especial en el trabajo, llevan años ahorrando para ellos, etc. Incluso un monstruo con gabardina y sombrero en un oscuro callejón puede haberles vendido unas entradas gigantes de papel muy increíblemente baratas.
 
 De hecho, si la historia suena muy chunga mejor, para que tus jugadores piensen que les va a pasar algo raro con las entradas.
 
@@ -28,9 +28,9 @@ De hecho, si la historia suena muy chunga mejor, para que tus jugadores piensen 
 
 Como todo viaje habrá que conseguir **regalos para amigos y familiares** y tener **bonitos recuerdos** que contar en las reuniones.
 
-Eso quiere decir que deberán **ocupar sus brazos con regalos y sus antenas con recuerdos** del viaje. Según avancen, estos recursos serán más escasos y deberán decidir qué recordar, qué olvidar, qué recoger y de qué deshacerse.
+Eso quiere decir que deberán **ocupar sus brazos con regalos y sus antenas con recuerdos** del viaje. Según avancen, esos recursos serán más escasos y deberán decidir qué recordar, qué olvidar, qué recoger y de qué deshacerse.
 
-En cada etapa de su viaje hay listados de recuerdos que pueden obtener y bellos recuerdos que atesorar.
+En cada etapa de su viaje hay listados de regalos y souvenirs que pueden obtener y bellos recuerdos y anécdotas que atesorar.
 
 ### Preparando el viaje
 
@@ -41,23 +41,23 @@ La primera escena consistirá en la preparación del viaje. Plantéatelo como lo
 Ideas de las cosas que pueden hacer:
 
 * Tendrán que **poner a punto el coche**. Recuerda que los coches son cajas de cartón con asientos, un volante y ruedas, pero se mueven gracias a que los que están dentro mueven los pies muy rápido.
-* Necesitarán **trazar la ruta del viaje**. Para ellos tendrán cosas como un laberinto de un mantel de un local de comida rápida, una postal con un mapa de una zona e imágenes de diferentes sitios turísticos, una guía de viajes de hace muchos años o el mapa de un libro de fantasía. Recuerda que **el mapa cuenta como un elemento del equipo**.
-* Necesitarán **algo para tomar fotos**, quizás una cámara desechable, un móvil viejísimo rollo Nokia 3210 que hace fotos malísimas o una de esas de juguete llena de chuches que te da gominolas cuando haces clic. Este es otro objeto que **ocupará espacio en el equipo**.
-* Si quieres, puedes buscar cosas como comida y bebida, tienda de campaña, trajes de buceo, … las locuras que se te ocurran.
+* Necesitarán **trazar la ruta del viaje**. Para ellos tendrán cosas como el laberinto de un mantel de un local de comida rápida, una postal con un mapa de una zona con imágenes de diferentes sitios turísticos de esa zona, una guía de viajes de hace muchos años o en otro idioma o el mapa de un libro de fantasía. Recuerda que **el mapa cuenta como un elemento del equipo**.
+* Necesitarán **algo para tomar fotos**, quizás una cámara desechable, un móvil viejísimo rollo Nokia 3210 que hace fotos malísimas o una de esas de juguete llenas de chuches que te da gominolas cuando haces clic. Este es otro objeto que **ocupará espacio en el equipo**.
+* Si quieres, puedes buscar cosas como comida y bebida, tienda de campaña, trajes de buceo, … las locuras que se te ocurran, pero ya deberían poder ellos crearlas tu mesa con materiales reciclados.
 
 ### En ruta
 
 **Pasillo**
 
-La idea de esta parte es que tus jugadores se hagan con el sistema, así que puedes ponerles un reto divertido como un robot aspirador que está limpiando el pasillo.
+La idea de esta parte es que tus jugadores se hagan con el sistema, te proponemos ponerles un reto divertido como un robot aspirador que está limpiando el pasillo, pero, si se te ocurre algo mejor, adelante con ello.
 
 Cada vez que intentar atravesar el pasillo el robot se acerca y tienen que retroceder, porque si no, se tragara si automóvil.
 
-Correr a toda velocidad cuando el robot esté lejos para que les pille sería lo más sencillo e inteligente, pero ese no es el estilo nabuco. Como va todos juntos en el coche la tirada será grupal y todos sufrirán las consecuencias.
+Correr a toda velocidad cuando el robot esté lejos para que no les pille sería lo más sencillo e inteligente, pero ese no es el estilo nabuco. Como van todos juntos en el coche la tirada será grupal y todos sufrirán las consecuencias.
 
 Otra opción sería poner porquerías para que se llene el depósito y se vaya al punto de carga. Si prefieren esperar, recuerda que son muy dramáticos y la espera se les hará insoportable. Por otro lado, la aspiradora se irá a la sala de estar que es su siguiente etapa del viaje. Con lo que seguirán teniendo el mismo problema.
 
-Veamos algunas ideas locas que tendrían ventajas:
+Veamos algunas ideas locas que tendrían ventaja:
 
 * Si lo ven como una especie de bestia a domar, podrían subirse encima como un toro de rodeo e intentar domarlo. Al final le habrán dado sin saberlo al botón de Home y se irá a la zona de carga donde estará tranquilo unas horas. Necesitarán una forma de subirse encima (o dejarse caer) y otra de ponerle unos arreos.
 * Pueden confundirlo con algún tipo de tortuga y como les enseñaron en la escuela, si le dan la vuelta y la dejan bocarriba no se podrá mover. Otra cosa es como le dan la vuelta. Quizás la engañen para lanzarse por algún tipo de cuña que haga que se dé la vuelta, aunque debería ser muy alta para conseguirlo, pero si el Equipo A podía, tus nabucos también.
@@ -80,7 +80,7 @@ Cuando lleguen a la sala de estar, se encontrarán a una señora en un sillón o
 
 Lo curioso es que la ves igual de bien pagando entrada que sin pagarla, no hay una cerca que evite que te acerques o que te bloquee la vista. El nabuco simplemente ha puesto una mesa con una caja y cobra igual. 
 
-Aun así, tus nabucos deberán negociar con el feriante para verla si no tienen dinero. A priori, a no ser que alguien haya dicho que lleva dinero, no tienen dinero. 
+Aun así, tus nabucos deberán negociar con el feriante para verla, si no tienen dinero. A priori, a no ser que alguien haya dicho que lleva dinero, no tienen dinero. 
 
 Ya que has llegado hasta aquí no vas a ser un rácano y no verla por unos pocos euros. Toca negociar con un feriante, aunque los nabucos no son muy listos, sigue siendo un feriante, los seres más espabilados del universo.
 
@@ -88,14 +88,14 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 
 Algunas ideas para el trueque:
 
-* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa con ascensor.
-* El robot aspidor le roba muchos trozos de lana, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
-* Nada de lana le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando lo toca. Es bastante estúpido que una marioneta de tela y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
+* El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa como ascensor.
+* El robot aspidor le roba muchos cosas o destroza otras, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* La ropa de lana no le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando la toca. Es bastante estúpido que una marioneta de algodón y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
 Recuerda que incluso con un éxito crítico seguirán perdiendo lo que ofrezcan. Con éxitos menores podrían perder equipo extra.
 
-También **aceptará sin tirada el coche** a tracción nabucodonosora de tus nabucos, pero claro tus nabucos saben que tardarán más porque todo el mundo sabe que un coche es más rápido que ir a pie.
+También **aceptará sin tirada el coche** a tracción nabucodonosora de tus nabucos, pero claro tus nabucos entonces tardarán más porque todo el mundo sabe que un coche es más rápido que ir a pie.
 
 Así que debería ser su última salida y si lo pierden deberían estar toco el rato quejándose de que están cansados y les duelen los pies.
 
@@ -160,11 +160,11 @@ Ya sabes que los nabucos son dramáticos, así que toca ser aún más dramático
 
 Si se empeñan en llevar su coche, pues hacer que se entierre en la arena cada vez que se monten (por el peso) y que cuando bajen a empujar vuelva poder moverse porque ya no pesa tanto y así todo el rato.
 
-Si no hacen algo especial, empezarán a andar en círculos con lo que no podrán salir ni encontrar al sabio asceta. De hecho en algún momento podrían encontrar sus propias huellas y son muy tontos (sí, lo son) seguirlas esperando encontrar la salida del desierto.
+Si no hacen algo especial, empezarán a andar en círculos con lo que no podrán salir ni encontrar al sabio asceta. De hecho en algún momento podrían encontrar sus propias huellas y si son muy tontos (sí, lo son) seguirlas esperando encontrar la salida del desierto.
 
 Tendrán que buscar un plan para orientarse, desde orientarse con el sol, ya que están en el balcón y lo ven, hasta hacerse una varita de zahorí con unas horquillas y tratar de buscar el agua del bebedero del gato.
 
-Si consiguen orientarse, en el centro del desierto se encontrarán en Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. 
+Si consiguen orientarse, en el centro del desierto se encontrarán cin Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. 
 
 \sp
 
@@ -194,7 +194,7 @@ Cómo colarse:
 * Seducir a les vigilantes es parecido al anterior y si lo hacen bien incluso podrían colarse todos.
 * Hacerse pasar por los de mantenimiento, podría funcionar, si supieran cómo van los de mantenimiento.
 * Colarse por el cajetín del detergente a lo John McClane puede ser una aventura interesante.
-* Disfrazarse de cazuelas y cubiertos sucios y quedarse en fregadero para que los humanos los metan en el lavavajillas pueden acabar mal, exactamente en el cubo de la basura.
+* Disfrazarse de cazuelas y cubiertos sucios y quedarse en fregadero para que los humanos los metan en el lavavajillas puede acabar mal, exactamente en el cubo de la basura.
 
 > En caso de discusión sobre alguna opción y si hay un lavavajillas en casa, os levantáis y lo discutís delante del lavavajillas.
 

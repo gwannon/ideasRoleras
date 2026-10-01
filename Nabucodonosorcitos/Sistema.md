@@ -106,6 +106,6 @@ Durante la partida, no podrán crear o reparar su equipo a no ser que quede bien
 
 Los nabucodonosorcitos no controlan la electricidad, así que la única manera que conocen de generar energía son gomas elásticas y tracción animal, es decir ellos tirando/empujando como burros. No te extrañe que construyan un carro con una caja de cartón y se pongan todos a tirar como mulos mientras nadie está subido al carro.
 
-A veces los nabucos tienen equipo real a su tamaño, por ejemplo un balón real en miniatura en vez de un chicle redondeado cubierto por su envoltorio. Tus jugadores pueden usar miniaturas de objetos reales, por ejemplo, las que se usan en dioramas, maquetas y casa de muñecas.
+A veces los nabucos tienen equipo real a su tamaño, por ejemplo un balón real en miniatura en vez de un chicle redondeado cubierto por su envoltorio. Tus jugadores pueden usar miniaturas de objetos reales, por ejemplo, las que se usan en dioramas, maquetas y casa de muñecas. Puede darse el caso de que tengan que llevar objetos reales, como unas entradas de cine o una espátula de cocina. En esos casos está a tu elección si ocupan espacio de equipo y si pueden cargarlos.
 
 > Todo equipo usado o perdido debe ser desmontado y reciclado adecuadamente.
