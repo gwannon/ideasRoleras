@@ -258,7 +258,7 @@ Como norma general, cualquier problema que tenga el marionetista debería aplica
 
 
 
-Seamos sinceros, las aventuras de este juego no son grandes epopeyas épicas, son aventuras cortas de unas pocas sesiones como mucho. Así que aquí te ponemos unas tablas para generar semillas de aventuras, darles algunos detalles y ponerte a jugar rápidamente.
+Seamos sinceros, las aventuras de este juego no son grandes epopeyas épicas, son aventuras cortas de un par de sesiones como mucho. Así que aquí te ponemos unas tablas para generar semillas de aventuras, darles algunos detalles y ponerte a jugar rápidamente.
 
 
 
@@ -369,13 +369,13 @@ Las alarmas pueden ser de coches, de incendios, de casas y negocios o ese desper
 
 #### Altavoces inteligentes
 
-Por alguna extraña razón los altavoces inteligentes entiende los chillidos de los nabucodonosorcitos y pueden comunicarse con ellos. Piensa que entre que estos chismes fallan más que una escopetilla de feria y que los nabucos no son muy listos las conversaciones pueden ser una locura, pasando del amor al odio en segundos. Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. 
+Por alguna extraña razón los altavoces inteligentes entiende los chillidos de los nabucodonosorcitos y pueden comunicarse con ellos. Piensa que, entre que estos chismes fallan más que una escopetilla de feria y que los nabucos no son muy listos, las conversaciones pueden ser una locura, pasando del amor al odio en segundos. Incluso podrían tomarlo como algún tipo de deidad o igual hay una comunidad de nabucos que le rezan a un altavoz inteligente. 
 
 Ten en cuenta que siempre darán respuesta a preguntas pensando en seres de tamaño humano o marioneta, nunca nabuco.
 
 #### Aspersores
 
-La lluvia y los nabucos no se llevan bien, pero lluvia localizada que va y viene sin saber como (sobre todo si son aspersores que giran y vuelven) es algo totalmente para el pequeño cerebro de los nabucos. Y cuando crees que la cosa va a acabar muy mal, aparecen pequeños arcoíris y se quedan embobados viéndolos.
+La lluvia y los nabucos no se llevan bien, pero lluvia localizada que va y viene sin saber como (sobre todo si son aspersores que giran y vuelven) es algo totalmente aterrador para el pequeño cerebro de los nabucos. Y cuando crees que la cosa va a acabar muy mal, aparecen pequeños arcoíris y se quedan embobados viéndolos.
 
 
 
@@ -389,11 +389,11 @@ Una de esas palomas, medio coja, con las plumas espelurciadas y que te mira raro
 
 #### Juguetes
 
-Los juguetes hace cosas impredecibles y chocantes si no saben muy bien que hacen y que son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizás se vuelvan amigos, porque los dos son igual de ingenuos.
+Los juguetes hace cosas impredecibles y chocantes si no saben muy bien cómo funcioanan y qué son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizás se vuelvan amigos, porque los dos son igual de ingenuos.
 
 Imagínate que entras en una casa de muñecas y todo está a tu escala y es usable, pero no vive nadie en ella y falta la pared frontal de todas las habitaciones. Y las modernas con luces, música, e incluso mini-leds que se enciende y apagan solos. Es como tener una casa encantada.
 
-O quizás encontrar un set de Lego a medio construir y pensar que antiguas ruinas nabucodosorcitas, cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros como pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
+O quizás encontrar un set de Lego a medio construir y pensar que son antiguas ruinas nabucodosorcitas. Cómo no vas a explorarlas. O imaginaros encontraros una versión gigante de vosotros mismos en peluche o muñeca de trapo, pues imaginaros cómo pueden quedarse los nabucos ante peluches de ellos mismos encima una cama.
 
 
 
