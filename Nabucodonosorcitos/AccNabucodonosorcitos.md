@@ -137,7 +137,7 @@ Los nabucos son unas marionetas con apariencia de insectos, cabeza, tronco, alas
 
 Veamos los elementos más interesantes de su anatomía.
 
-* **Alitas de _brilli-brilli_.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se cae de un tercer piso, el instinto de supervivencia les haga volar. De hecho, si alguna vez piensan en volar, seguramente se pondrán a mover los brazos arriba y abajo, en vez de pensar en agitar sus alas.
+* **Alitas de _brilli-brilli_.** Son alas funcionales. El problema es que ningún nabuco se ha puesto a pensar que pueden usarlas para volar. Quizás si se caen de un tercer piso, el instinto de supervivencia les haga volar. De hecho, si alguna vez piensan en volar, seguramente se pondrán a mover los brazos arriba y abajo, en vez de pensar en agitar sus propias alas.
 * **Antenitas cuquis.** El número es totalmente aleatorio. A los diseñadores le sobraban de otros muñecos y gastaron todas las que tenían sin ton ni son. Los _nabucólogos_ creen que un mayor número de antenas suponen un mayor cerebro, seguramente porque los marionetistas necesitaban tener algo donde clavar las antenas.
 * **Colores llamativos.** Como ya hemos dicho, los nabucos tienes un pelaje a dos colores. Sus colores no determinan su género, ni su herencia, ni nada por el estilo, son algo aleatorio.
 
@@ -145,9 +145,9 @@ Veamos los elementos más interesantes de su anatomía.
 
 Aunque te parezca extraño, la sociedad de los nabucos es muy parecida a la nuestra, pero un poco más loca. 
 
-Hay familias, hay gobiernos (de hecho hay un alcalde que se vota cada vez que se acuerdan de votar), hay empresas, hay trabajos, hay arte y cultura, hay tiendas para nabucos que seguramente está en una esquina de una tienda grande que vende lo mismo …
+Hay familias, hay gobiernos (de hecho hay un alcalde que se vota cada vez que se acuerdan de votar), hay empresas, hay trabajos, hay arte y cultura, hay tiendas para nabucos que seguramente están en una esquina de una tienda grande que vende lo mismo …
 
-Pero esa sociedad tiene su parte de tontunas que le DJ debe imprimir en sus aventuras. Por ejemplo, igual tus nabucos necesitan un permiso de construcción para su nueva casa y descubrir que su casa no está en los registros municipales y ahora pueden hacer su propio país, sus propias leyes e incluso construir su propio castillo con murallas y foso defensivo.
+Pero esa sociedad tiene su parte de tontunas que le DJ debe imprimir en sus aventuras. Por ejemplo, igual tus nabucos necesitan un permiso de construcción para su nueva casa y descubren que su casa no está en los registros municipales. Ahora pueden hacer su propio país, sus propias leyes e incluso construir su propio castillo con murallas y foso defensivo.
 
 > Una cosa curiosa es que aunque son muy tontos, son excelentes recicladores y muchas cosas de su arte y cultura son cosas recicladas.
 
@@ -155,7 +155,7 @@ Pero esa sociedad tiene su parte de tontunas que le DJ debe imprimir en sus aven
 
 Los nabucos ven de manera muy peculiar el mundo que lo rodea. Para poder entenderlo te damos unas reglas que puedes aplicar.
 
-* No son diminutos, el mundo es grande. Ellos tienen el tamaño adecuado, es el resto de cosas los que son grandes. De hecho, son _nabucocentristas_, creen que todo existe para ellos y si no existieran no habría nada. No te extrañe que tus nabucos cierren los ojos al enfrentarse a algo porque creen que si no lo ven no puede hacerle daño.
+* No son diminutos, el mundo es grande. Ellos tienen el tamaño adecuado, es el resto de cosas las que son grandes. De hecho, son _nabucocentristas_, creen que todo existe para ellos y si no existieran no habría nada. No te extrañe que tus nabucos cierren los ojos al enfrentarse a algo porque creen que si no lo ven no puede hacerle daño.
 
 
 
@@ -171,11 +171,11 @@ Otra cosa importante es que la física funciona raro en Barrio Sésamo y mucho m
 
 Pues con lo nabucos todavía es peor, por ejemplo, soplando fuerte puedes hinchar la velas de tu barquito de juguete y hacer que se mueva por la fuente de la plaza.
 
-Cuando describas lo que rodea a los nabucos tienes que hacerlo desde su perspectiva. Primero piensa que lo ves lo ve desde el suelo y con su tamaño. Luego básate en lo que crean tus nabucos, no en lo que pienses como humano. La TV del salón con una alfombra peluda delante es, en realidad, para un nabuco un autocine con una campa de hierba donde hacer un pícnic.
+Cuando describas lo que rodea a los nabucos tienes que hacerlo desde su perspectiva. Primero piensa que lo que ves lo ves desde el suelo y con su tamaño. Luego básate en lo que crean tus nabucos, no en lo que pienses como humano. Para un nabuco la TV del salón con una alfombra peluda verde delante es, en realidad, un autocine con una campa de hierba donde hacer un pícnic.
 
 ### Relaciones con humanos y marionetas
 
-Los nabucos son plenamente conscientes de los humanos y las marionetas, pero lo que hacen no es interesante para ellos y por ellos no suelen interactuar con ellos. Los consideran gigantes que se mueven y cambian las cosas de sitio.
+Los nabucos son plenamente conscientes de los humanos y de las marionetas, pero lo que hacen no es interesante para los nabucos y por ello no suelen interactuar con humanos y marionetas. Los consideran gigantes que se mueven y cambian las cosas de sitio.
 
 Los humanos como Epi los consideran interesantes de observar, porque sus aventuras son muy divertidas. Normalmente, no les hacen nada y como son marionetas no los encuentran repulsivos y tratan de pisarlos como harían con, por ejemplo, las cucarachas.
 
@@ -187,23 +187,23 @@ En cuanto a la suerte, toda la que pudieran tener se la gastan en salir vivos de
 
 Opcionalmente, puedes darles tokens cuando hagan cosas muy estúpidas y al final de la aventura poder saber quién es el tonto.
 
-Por lo menos las primeras sesiones se emocionarán con los tokens pensando que son alguna forma de puntos de suerte o experiencia y cuando lo descubran los acumularán para demostrar que son los más tontos.
+Por lo menos las primeras sesiones se emocionarán con los tokens pensando que son alguna forma de puntos de suerte o experiencia y cuando lo descubran los acumularán para demostrar que son los más tontos de la mesa.
 
 
 
 ### Infinitos mundos
 
-Una cosa muy interesante que tiene Barrio Sésamo es que hay infinitos mundos dentro de él. Puedes pasar por un callejón y ver a un cuentacuentos japonés contando la historia del emperador y el plato de sopa caliente, el más caliente y el más caliente de todos. 
+Una cosa muy interesante que tiene Barrio Sésamo es que hay infinitos mundos dentro de él. Puedes pasar por un callejón y ver a un cuentacuentos japonés contando la historia del emperador y el plato de sopa caliente, el plato más caliente que el anterior y el más caliente de todos. 
 
-Seguir y en una plaza dos marionetas con armadura de caballero en caballos de marioneta batiéndose en duelo por si la letra «G» es mejor que la letra «J».
+Seguir adelante y ver en una plaza dos marionetas con armadura de caballero en caballos de marioneta batiéndose en duelo por si la letra «G» es mejor que la letra «J».
 
-Para acabar juntos al muro del parque en el que una rana con gabardina está entrevistando a unos marcianos que han salido de un platillo volante.
+Para acabar junto al muro del parque en el que una rana con gabardina está entrevistando a unos marcianos que han salido de un platillo volante.
 
 Todo esto permite que las aventuras de tus nabucos tengan todo tipo de ambientación, porque todo es posible en Barrio Sésamo, desde vaqueros hasta Sherlock Holmes pasando por samuráis y viajes espaciales.
 
 ### Mascotas y fauna urbana
 
-Aunque los nabucos creen que pueden hablar con las mascotas y les obedecen, es realidad estos no los entienden y suelen irse rápidamente o se ponen a jugar con ellos como si fueran juguetes para perros. En general las mascotas oyen chirriantes chillidos ultrasónicos tremendamente irritantes.
+Aunque los nabucos creen que pueden hablar con las mascotas y les obedecen, es realidad estas no los entienden y suelen irse rápidamente o se ponen a jugar con ellos como si fueran juguetes para perros. En general las mascotas oyen chirriantes chillidos ultrasónicos tremendamente irritantes.
 
 Otra fauna urbana, como palomas y ratas (siempre marionetas), sí suelen interactuar con los nabucos y tus jugadores pueden hasta usarlos como montura o como parte de sus locos planes.
 
