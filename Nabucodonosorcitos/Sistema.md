@@ -37,7 +37,7 @@ Si saca un 12 (11 + 7), es un éxito total, el robot sigue su camino y acaba en 
 
 &nbsp;
 
-> Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Decir un número mayor de 12 supone fallar la tirada. Recuerda que en Barrio Sesamo solo te enseñaban a contar hasta 12 y los nabucos solo saben contar hasta 12.
+> Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Decir un número mayor de 12 supone fallar la tirada. Recuerda que en Barrio Sésamo solo te enseñaban a contar hasta 12 y los nabucos solo saben contar hasta 12.
 
 #### Ventaja
 

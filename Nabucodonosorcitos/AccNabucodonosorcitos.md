@@ -45,7 +45,7 @@ Si saca un 12 (11 + 7), es un éxito total, el robot sigue su camino y acaba en 
 
 
 
-> Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Decir un número mayor de 12 supone fallar la tirada. Recuerda que en Barrio Sesamo solo te enseñaban a contar hasta 12 y los nabucos solo saben contar hasta 12.
+> Cuando tus jugadores saquen 12 o más, solo pueden decir que han sacado 12. Decir un número mayor de 12 supone fallar la tirada. Recuerda que en Barrio Sésamo solo te enseñaban a contar hasta 12 y los nabucos solo saben contar hasta 12.
 
 #### Ventaja
 
@@ -389,7 +389,7 @@ Una de esas palomas, medio coja, con las plumas espelurciadas y que te mira raro
 
 #### Juguetes
 
-Los juguetes hace cosas impredecibles y chocantes si no saben muy bien cómo funcioanan y qué son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizás se vuelvan amigos, porque los dos son igual de ingenuos.
+Los juguetes hace cosas impredecibles y chocantes si no saben muy bien cómo funcionan y qué son realmente. Un _furby_ puede ser una pesadilla viviente para un nabucodonosorcito o quizás se vuelvan amigos, porque los dos son igual de ingenuos.
 
 Imagínate que entras en una casa de muñecas y todo está a tu escala y es usable, pero no vive nadie en ella y falta la pared frontal de todas las habitaciones. Y las modernas con luces, música, e incluso mini-leds que se enciende y apagan solos. Es como tener una casa encantada.
 
@@ -505,7 +505,7 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 Algunas ideas para el trueque:
 
 * El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa como ascensor.
-* El robot aspidor le roba muchos cosas o destroza otras, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* El robot aspidor le roba muchas cosas o destroza otras, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
 * La ropa de lana no le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando la toca. Es bastante estúpido que una marioneta de algodón y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
@@ -637,7 +637,7 @@ Si quieres alargar el viaje, porque tus jugadores están pasándolo bien (o eso 
 
 * **El museo internacional del queso.** No es un museo de quesos del mundo, literalmente es un trozo enorme de queso en la quesera de la cocina. Lo bueno es que tiene exposiciones itinerantes y cada semana cambian de queso.
 * **Autocine más grande del mundo.** Los humanos de la casa han comprado un pantallón de televisión y proporcionalmente para los nabucos es el cine más grande que han visto. Lo malo es que solo ponen documentales hablando de las cosas raras que hacen los humanos.
-* **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Albert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
+* **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Bert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
 
 
 

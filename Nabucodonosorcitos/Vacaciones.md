@@ -89,7 +89,7 @@ Como no tienen dinero deberán ofrecerle algo que le interese. Pero deberán ado
 Algunas ideas para el trueque:
 
 * El feriante está aburrido en su mesa, algo divertido le encantará. Pero si quieren tirar con ventaja, deberán meter alguna tontería. Por ejemplo, pueden hacer un yo-yo con chapas y cuerdas de sus objetos actuales y decirle que puede usarlo en su casa como ascensor.
-* El robot aspidor le roba muchos cosas o destroza otras, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
+* El robot aspidor le roba muchas cosas o destroza otras, podrían intercambiar su historia de como se deshicieron de él a cambio de las entradas. La información es valiosa.
 * La ropa de lana no le interesa, es alérgico, aunque no lo sepa y le pica y le sale sarpullido cuando la toca. Es bastante estúpido que una marioneta de algodón y lana sea alérgico a la lana, pero así son los nabucos. Cosas que le permitan coger la lana sin tocarlas como pinzas si le interesan.
 * Si están muy perdidos, puedes dejarles levantarse de la mesa y buscar por casa alguna cosa que les dé ideas que ofrecer o rebuscar en el reciclaje.
 
