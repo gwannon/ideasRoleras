@@ -7,16 +7,22 @@ require __DIR__ . '/../vendor/autoload.php';
 use FastVolt\Helper\Markdown;
 $mkd = Markdown::new();
 
-$accmd = file_get_contents(__DIR__ . "/".$argv[1].".md");
+if($argv[1] != 'MazmorraBinariaBW') {
 
-$accmd = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
+  $accmd = file_get_contents(__DIR__ . "/".$argv[1].".md");
+  
+  $accmd = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   $matches[0] = ""; 
   return $matches[0];
-}, $accmd);
+  }, $accmd);
+  
+  file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;"], "", $accmd));
+}
 
-file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;"], "", $accmd));
+if($argv[1] == 'MazmorraBinariaBW') $md = file_get_contents(__DIR__ . "/MazmorraBinaria.md");
+else $md = file_get_contents(__DIR__ . "/".$argv[1].".md");
 
-$md = file_get_contents(__DIR__ . "/".$argv[1].".md");
+
 
 $md = preg_replace_callback("/\|([a-zA-Z]*)\.md\|/", function($matches) {
   $matches[0] = file_get_contents(__DIR__ . "/ascii/".$matches[1].".md"); 
@@ -60,7 +66,7 @@ file_put_contents(__DIR__ . "/".$argv[1].".html", $html);
 
 /* Generamos Metas */
 /* -------------------------------------------------------------- */
-if($argv[1] == 'MazmorraBinaria') {
+if($argv[1] == 'MazmorraBinaria' || $argv[1] == 'MazmorraBinariaBW') {
   $metas = "InfoKey: Title\n";
   $metas .= "InfoValue: Mazmorra binaria - Ver. 1.0\n\n";
   $metas .= "InfoKey: Subject\n";

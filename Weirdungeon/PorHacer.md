@@ -30,14 +30,6 @@ Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en dif
 
 ---
 
-## Disparadores y deamons {Trampas}
-
-Los virus, los administradores de sistemas y los propios usuarios protegen las carpetas donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el _path_ o sean borrados antes de llegar de tu objetivo.
-
-XXX
-
----
-
 ### Trampas de cuchillas, proyectiles y péndulos
 
 XXX

@@ -15,10 +15,10 @@ body {
   font-size: 15px;
 }
 
-body#GuiaAgileParaPrimigeniosSLBW {
-  --color-blue: #000;
-  --color-black: #fff;
-  background-image: none;
+body#MazmorraBinariaBW {
+  --color-blue: #000000;
+  --color-dark-blue: #b1b0b0;
+  --color-black: #fefefe;
 }
 
 /*body:before {
@@ -44,8 +44,8 @@ body:after {
   background: transparent url(./images/border2.png) top right repeat-y;
 }*/
 
-body#GuiaAgileParaPrimigeniosSLBW:before,
-body#GuiaAgileParaPrimigeniosSLBW:after {
+body#MazmorraBinariaBWBW:before,
+body#MazmorraBinariaBWBW:after {
   display: none;
 }
 
@@ -141,7 +141,7 @@ h2 + p {
   margin-top: 0px;
 }
 
-body#GuiaAgileParaPrimigeniosSLBW *:is(h1, h2, h3, h4) {
+body#MazmorraBinariaBWBW *:is(h1, h2, h3, h4) {
   color: var(--color-black);
 }
 

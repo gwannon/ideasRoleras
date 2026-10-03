@@ -209,13 +209,15 @@ ______¦_______¦______</code></pre>
 <p>Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. </p>
 <h2>Disparadores y deamons {Trampas}</h2>
 <p>Los virus, los administradores de sistemas y los propios usuarios protegen las carpetas donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el <i>path</i> o sean borrados antes de llegar de tu objetivo.</p>
-<p>XXX</p>
+<p>Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan que se dé determinada situación. Cuando el disparador detecta cierta condición como que tus scripts entren en determinada carpeta, lanzan una serie de comandos como llegan esa carpeta de archivos para aplastar a tus scripts.</p>
+<p>Otra opción es que lo <i>daemons</i> o demonios, programas que están funcionando de fondo, detecten algo y lancen sus comandos defensivos.</p>
+<p>Una vez lanzada la trampa los disparadores y los <i>deamons</i> pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.</p>
 <h3>Trampa de paredes móviles y de objetos que caen o empujan</h3>
 <p>Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados. Lo mismo pasaría con trampas que dejan caer cosas pesadas/afiladas del techo, haciendo que el cron deje guarde archivos en las posiciones que ocupen tus scripts y estos deban moverse a nueva posiciones del disco duro para evitarlos.</p>
 <p>También pudiera ser que un archivo se mueva por toda la carpeta, empujando a tus scripts y haciendo daño a los que no sean lo suficientemente rápidos para esquivarlos.</p>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Trampa de compresión/encriptación</h3>
 <p>Sabéis esas trampas en las que la habitación se cierran todas las puertas, se llenan de agua, gas venenoso o lava y hay que buscar la salida como sea, pues en una mazmorra binaria pueden simularlo con el tema de la encriptación o la compresión de una carpeta. Según se encripta o comprime la carpeta, la carpeta se bloquea por parte del sistema y el espacio que queda es menor. Si alguien cae dentro de las partes encriptadas o comprimidas o el directorio es comprimido totalmente, tendrá serios problemas.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
 <p>El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. </p>
 <h3>Trampas de cuchillas, proyectiles y péndulos</h3>
 <p>XXX</p>
@@ -242,12 +244,12 @@ _/j  L l\_!
 <p>XXX</p>
 <p>Los <strong>hechizos de ralentizar</strong> puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los <strong>hechizos de aceleración</strong> todo lo contrario.</p>
 <p>Los <strong>hechizos que juegan con versiones falsas de ti</strong>, pueden usar los <i>backups</i> para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.</p>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <p>Los <strong>hechizos de destierro</strong> pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. </p>
 <p>XXX</p>
 <p>Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX</p>
 <h3>Subrutinas {Habilidades especiales}</h3>
 <p>XXX</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Borrado y diferentes estados</h2>
 <p>La muerte viene representada por el borrado. <strong>Los scripts no mueren, sino que son borrados</strong>, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.</p>
 <p>Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.</p>
@@ -264,12 +266,15 @@ _/j  L l\_!
 <li><strong>Bugeado {Aturdido}</strong> Algo o alguien se ha aprovechado de tus bugs para entorpecer tu funcionamiento normal, puedes actuar pero hay pequeños fallos en tus funciones.</li>
 <li><strong>Sin acceso al <i>path</i> {Cegado, sordo}</strong> Has perdido el acceso al <i>path</i> con lo cual no sabes ni donde estás ni que hay a tu alrededor. </li>
 <li><strong>Reiniciado {Derribado}</strong> Algo te ha obligado a hacer un reinicio rápido, de forma que deberás perder tiempo en comenzar tu ejecución {levantarse} y poder continuar con tu funcionamiento {movimiento, ataques, lanzar hechizos}.</li>
+</ul>
+</div><div class="saltopagina even"></div><div class='columns'>
+<ul>
 <li><strong>Hibernando {Dormido}</strong> Han puesto en hibernación el proceso que ejecuta tu script, hasta que algo o alguien te saque de la hibernación.</li>
 <li><strong>Sin permisos de ejecución {Incapacitado}</strong> Has recibido tantos ataques que han parado el proceso que te ha lanzado y han conseguido quitarte los permisos de ejecución, con lo que ahora no eres capaz de hacer nada hasta que alguien te devuelva los permisos y lance tu proceso.</li>
 <li><strong>Exploiteado {Mareado}</strong> Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus <i>exploits</i>, fallos de seguridad de tu código. </li>
 <li><strong>Bloqueado {Paralizado}</strong> El proceso que ejecuta tu script se ha quedado bloqueado y no puedes hacer nada hasta que no te desbloquees.</li>
 </ul>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Librerías y periféricos {Equipo}</h2>
 <pre><code>      /| ________________
 O|===|* &gt;________________&gt;
@@ -379,7 +384,7 @@ O|===|* &gt;________________&gt;
 </tr>
 </tbody>
 </table>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Herramientas</h3>
 <p>Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.</p>
 <ul>
@@ -401,7 +406,7 @@ O|===|* &gt;________________&gt;
 <h3>Objetos mágicos</h3>
 <p>Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.</p>
 <p>Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos llamarlo una mejora de procesador, redundancia de procesador o un bus de procesador.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Escalas y tamaños</h2>
 <p>Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.</p>
 <p>Por debajo puedes usar bytes {B} para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.</p>
@@ -434,7 +439,7 @@ O|===|* &gt;________________&gt;
 <li><strong>Limpiar de virus, troyanos y malware</strong> un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.</li>
 <li><strong>Rescatar unos <i>backups</i></strong> de unas facturas en hoja de cálculo de un grupo de <i>bugs</i> que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.</li>
 </ul>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Helpers</h2>
 <pre><code>       ,
       /|    
@@ -472,7 +477,7 @@ O|===|* &gt;________________&gt;
 <li><strong>nolan BUSHNELL, kevin MITNICK</strong> Engaño y Crepúsculo.</li>
 </ul>
 <p>Se recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas. No le rezas a Nolan Bushnell, le rezas a Bushnell</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Bestiario</h2>
 <p>En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.</p>
 <h3>Paquetes de software binarios y hexadecimales {Dragones cromáticos o metálicos}</h3>
@@ -516,7 +521,7 @@ O|===|* &gt;________________&gt;
 |___________|／</code></pre>
 <p>También conocido como «device null» en inglés o «/dev/null» por su <i>path</i> en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.</p>
 <p>Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en muestra mazmorra binaría podemos recurrir a «c:/nul» para sistemas Windows o usar otros dispositivos como «/dev/lp» {impresora} que te convierte en papel {petrificación}.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Troyarcos {Orco}</h3>
 <pre><code class="language-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -534,7 +539,7 @@ O|===|* &gt;________________&gt;
 <p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
 <p>Es una mezcla de «troyano» + «orco». Representa a todas esas razas medianas y grandes como orcos, trolls, hobgoblins, osgos o gnolls. Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las órdenes que recibieron de ellas.</p>
 <p>Puedes ponerles diferentes complementos para diferenciarlos, como troyarcos pirateados, troyarcos de la darkweb, troyarcos de ransonware, etc. Si quieres los nombres, de sus clanes pueden nombres que parezcan virus informáticos de los 2000 como Mydoom, Sobig, Klez, ILOVEYOU, WannaCry, etc.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Licencia</h2>
 <p>Creado para la <a href="https://itch.io/jam/weirdungeon">Weirdungeon JAM</a> organizada por <a href="https://asaltaelrol.itch.io/">Asaltadoras del Rol</a>. El código fuente puedes encontrarlo en <a href="https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon">GitHub/IdeasRoleras</a>.</p>
 <p>El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:</p>
@@ -549,7 +554,7 @@ O|===|* &gt;________________&gt;
 <li>El orco publicado en <a href="https://emojicombos.com/orc-head-ascii-art">emojicombos.com</a>.</li>
 </ul>
 <p>Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en <a href="https://davrivas.itch.io/licencia-entre-colegas">davrivas.itch.io/licencia-entre-colegas</a>.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <pre><code>))))))))`"###mnn$$$$"""%%%%%%%`""$$$$$$$mmn..m###(((((((((((((((((((((((((((((((((.m####"'((
 ))))))))))"$$$""'%%%%%%%%%%%%%%%%%%%%%%`""$$$$$n###.(((((((((((((((((((((((((.m####"'(((((
 )))))))))))$##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`"$$$n#.(((((((((((((((((((.m####"'(((((((

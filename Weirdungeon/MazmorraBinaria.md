@@ -164,7 +164,11 @@ Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus
 
 Los virus, los administradores de sistemas y los propios usuarios protegen las carpetas donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el _path_ o sean borrados antes de llegar de tu objetivo.
 
-XXX
+Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan que se dé determinada situación. Cuando el disparador detecta cierta condición como que tus scripts entren en determinada carpeta, lanzan una serie de comandos como llegan esa carpeta de archivos para aplastar a tus scripts.
+
+Otra opción es que lo _daemons_ o demonios, programas que están funcionando de fondo, detecten algo y lancen sus comandos defensivos.
+
+Una vez lanzada la trampa los disparadores y los _deamons_ pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.
 
 ### Trampa de paredes móviles y de objetos que caen o empujan
 
@@ -172,11 +176,11 @@ Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran 
 
 También pudiera ser que un archivo se mueva por toda la carpeta, empujando a tus scripts y haciendo daño a los que no sean lo suficientemente rápidos para esquivarlos.
 
+\sp
+
 ### Trampa de compresión/encriptación
 
 Sabéis esas trampas en las que la habitación se cierran todas las puertas, se llenan de agua, gas venenoso o lava y hay que buscar la salida como sea, pues en una mazmorra binaria pueden simularlo con el tema de la encriptación o la compresión de una carpeta. Según se encripta o comprime la carpeta, la carpeta se bloquea por parte del sistema y el espacio que queda es menor. Si alguien cae dentro de las partes encriptadas o comprimidas o el directorio es comprimido totalmente, tendrá serios problemas.
-
-\sp
 
 El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. 
 
@@ -204,6 +208,8 @@ Los **hechizos de ralentizar** puedes asociarlo con reducir tiempos de proceso o
 
 Los **hechizos que juegan con versiones falsas de ti**, pueden usar los _backups_ para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
 
+\sp
+
 Los **hechizos de destierro** pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. 
 
 
@@ -214,8 +220,6 @@ Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
 ### Subrutinas {Habilidades especiales}
 
 XXX
-
-\sp
 
 ## Borrado y diferentes estados
 
@@ -235,6 +239,9 @@ Normalmente, los juegos dungoneros tienen estados especiales que representan cir
 * **Bugeado {Aturdido}** Algo o alguien se ha aprovechado de tus bugs para entorpecer tu funcionamiento normal, puedes actuar pero hay pequeños fallos en tus funciones.
 * **Sin acceso al _path_ {Cegado, sordo}** Has perdido el acceso al _path_ con lo cual no sabes ni donde estás ni que hay a tu alrededor. 
 * **Reiniciado {Derribado}** Algo te ha obligado a hacer un reinicio rápido, de forma que deberás perder tiempo en comenzar tu ejecución {levantarse} y poder continuar con tu funcionamiento {movimiento, ataques, lanzar hechizos}.
+
+\sp
+
 * **Hibernando {Dormido}** Han puesto en hibernación el proceso que ejecuta tu script, hasta que algo o alguien te saque de la hibernación.
 * **Sin permisos de ejecución {Incapacitado}** Has recibido tantos ataques que han parado el proceso que te ha lanzado y han conseguido quitarte los permisos de ejecución, con lo que ahora no eres capaz de hacer nada hasta que alguien te devuelva los permisos y lance tu proceso.
 * **Exploiteado {Mareado}** Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus _exploits_, fallos de seguridad de tu código. 
