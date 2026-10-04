@@ -1,16 +1,10 @@
-### Directorio/carpeta protegida {Estancia con puerta con cerradura}
-
-XXX
-
-\sp
-
-### Enlace duro {Puerta}
+### Enlace simbólico duro {Puerta}
 
 |asciiPuerta.md|
 
 XXX
 
-### Enlace suave {Pasadizo secreto}
+### Enlace simbólico suave {Pasadizo secreto}
 
 |asciiPasadizo.md|
 
