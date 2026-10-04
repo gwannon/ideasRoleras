@@ -581,3 +581,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QLa jarra de cerveza de Elissa Potier publicada en asciiart.eu.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl mago de Rowan Crawford publicado en asciiart.eu.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBuglins\\E$"}
+{"rule":"ACTUAL","sentence":"^\\QPor ejemplo, un cable bus {cuerda} te permite salir de carpetas sin salida en las que has caído por error mejorando tus capacidades de acceder a la carpeta superior a la que estés actualmente, en otras palabras, te permite escalar desde el pozo trampa en el que has caído a la habitación desde la que caíste.\\E$"}

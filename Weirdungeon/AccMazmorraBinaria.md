@@ -122,15 +122,19 @@ Los _crons_ o tareas programadas son acciones que se ejecutan cada cierto tiempo
 
 Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:
 
-* Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de forma permanente.
-* Un cron borra los ficheros más antiguos de una carpeta de forma que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
-* Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de forma que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.
+* Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de manera permanente.
+* Un cron borra los ficheros más antiguos de una carpeta de modo que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
+* Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de manera que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.
 
 ### Path {Mapeado de la mazmorra}
 
-XXX
+El _path_ es la estructura de la mazmorra y esa estructura debe ser como un sistema de directorios, es decir, una carpeta tiene más subcarpetas y estas subcarpetas más subsubcarpetas, así hasta llegar a los nivelees más inferiores del sistema dee directorios.
 
 
+
+Como regla general, una carpeta solo tiene una carpeta superior y varias, una o ninguna subcaarpeta. Para conectar, una carpeta con otras carpetas que no sean la superior o las inferiores se usan los enlaces simbólicos (accesos directo en Windows). Pero estos son escasos y poco usados. 
+
+Lo curioso de este sistema de crear mazmorras es que tenga que volver hacia atras para explorar las carpetas que has dejadosin visitar.
 
 A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
 
@@ -148,11 +152,11 @@ Aunque en un ecosistema como un sistema informático, no debería haber clima, p
 
 En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el **_l33t_** y el **código ASCII**. El l33t es lo que comúnmente conocemos como idioma hacker, esos textos donde la «A» se sustituye por un «4» o una «E» por un «3».
 
-El código ASCII son 8 bit que cotienen 1 o 0 con el que se representan la mayoría de las letras y símbolos que usamos normalmente. Así «01100001» representa la «a», 01100010 la «b», y así con el resto de letras mayúsculas y minúsculas, números, signos ortográficos, etc. Tus scripts podrían encontrarse una retahila de unos y ceros grabados en un fichero comprimido. Solo si saben leerlo, sabrán que la ira de los programadores
+
+
+El código ASCII son 8 bit que cotienen 1 o 0 con el que se representan la mayoría de las letras y símbolos que usamos normalmente. Así «01100001» representa la «a», 01100010 la «b», y así con el resto de letras mayúsculas y minúsculas, números, signos ortográficos, etc. Tus scripts podrían encontrarse una retahíla de unos y ceros grabados en un fichero comprimido. Solo si saben leerlo, sabrán que la ira de los programadores
 
 Mi consejo es que pienses en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.
-
-
 
 Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro.
 
@@ -162,13 +166,15 @@ Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus
 
 ## Disparadores y deamons {Trampas}
 
-Los virus, los administradores de sistemas y los propios usuarios protegen las carpetas donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el _path_ o sean borrados antes de llegar de tu objetivo.
+Los virus, los administradores de sistemas y los propios usuarios protegen los directorios donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el _path_ o sean borrados antes de llegar de tu objetivo.
 
-Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan que se dé determinada situación. Cuando el disparador detecta cierta condición como que tus scripts entren en determinada carpeta, lanzan una serie de comandos como llegan esa carpeta de archivos para aplastar a tus scripts.
+Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan que se dé determinada situación. Cuando el disparador detecta cierta condición como que tus scripts entren en determinado directorio, lanzan una serie de comandos como llegan esa carpeta de archivos para aplastar a tus scripts.
 
 Otra opción es que lo _daemons_ o demonios, programas que están funcionando de fondo, detecten algo y lancen sus comandos defensivos.
 
 Una vez lanzada la trampa los disparadores y los _deamons_ pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.
+
+
 
 ### Trampa de paredes móviles y de objetos que caen o empujan
 
@@ -176,21 +182,25 @@ Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran 
 
 También pudiera ser que un archivo se mueva por toda la carpeta, empujando a tus scripts y haciendo daño a los que no sean lo suficientemente rápidos para esquivarlos.
 
-
-
 ### Trampa de compresión/encriptación
 
 Sabéis esas trampas en las que la habitación se cierran todas las puertas, se llenan de agua, gas venenoso o lava y hay que buscar la salida como sea, pues en una mazmorra binaria pueden simularlo con el tema de la encriptación o la compresión de una carpeta. Según se encripta o comprime la carpeta, la carpeta se bloquea por parte del sistema y el espacio que queda es menor. Si alguien cae dentro de las partes encriptadas o comprimidas o el directorio es comprimido totalmente, tendrá serios problemas.
 
 El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. 
 
-### Trampas de cuchillas, proyectiles y péndulos
+### Trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}
 
-XXX
+Las trampas que activan cuchillas del suelo, proyectiles de las paredes, péndulos contundentes del techo, pinchos desde todas partes, etc. Son fáciles de simular. No dejan de ser disparadores o _triggers_ en la carpeta que activan scripts de defensa en los formatos que hemos visto antes.
 
-### Trampas con foso
+### Trampas de copiado rápido {con foso}
 
-XXX
+Las trampas de foso puedes describirlas como enlaces simbólicos que aparecen debajo de tus scripts y les llevan a una carpeta vacía que es el propio pozo.
+
+En una **trampa de foso te mata la gravedad** (y los pinchos del fondo), pero en una computadora no existe la gravedad como tal, así que podemos simular la perdida de líneas de código de la caída fallos en el copiado rápido que supone estar en una carpeta y caer en otra.
+
+Este truco también puedes usarlo para todo tipo de caídas.
+
+
 
 ## Magia y habilidades especiales
 
@@ -208,14 +218,11 @@ Los **hechizos de ralentizar** puedes asociarlo con reducir tiempos de proceso o
 
 Los **hechizos que juegan con versiones falsas de ti**, pueden usar los _backups_ para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.
 
-
-
 Los **hechizos de destierro** pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. 
-
 
 XXX
 
-Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
+Las escuelas de magia o las tradiciones mágicas pueden ser representadas diferentes metodologías de desarrollo, como SCRUM, Kaban, SAFe, Waterfall, etc.
 
 ### Subrutinas {Habilidades especiales}
 
@@ -224,6 +231,8 @@ XXX
 ## Borrado y diferentes estados
 
 La muerte viene representada por el borrado. **Los scripts no mueren, sino que son borrados**, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
+
+
 
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
 
@@ -238,10 +247,7 @@ Normalmente, los juegos dungoneros tienen estados especiales que representan cir
 * **En cuarentena {Apresado}** Has sido marcado como en cuarentena con lo que sus posibilidades de acción han quedado muy restringidas.
 * **Bugeado {Aturdido}** Algo o alguien se ha aprovechado de tus bugs para entorpecer tu funcionamiento normal, puedes actuar pero hay pequeños fallos en tus funciones.
 * **Sin acceso al _path_ {Cegado, sordo}** Has perdido el acceso al _path_ con lo cual no sabes ni donde estás ni que hay a tu alrededor. 
-* **Reiniciado {Derribado}** Algo te ha obligado a hacer un reinicio rápido, de forma que deberás perder tiempo en comenzar tu ejecución {levantarse} y poder continuar con tu funcionamiento {movimiento, ataques, lanzar hechizos}.
-
-
-
+* **Reiniciado {Derribado}** Algo te ha obligado a hacer un reinicio rápido, de manera que deberás perder tiempo en comenzar tu ejecución {levantarse} y poder continuar con tu funcionamiento {movimiento, ataques, lanzar hechizos}.
 * **Hibernando {Dormido}** Han puesto en hibernación el proceso que ejecuta tu script, hasta que algo o alguien te saque de la hibernación.
 * **Sin permisos de ejecución {Incapacitado}** Has recibido tantos ataques que han parado el proceso que te ha lanzado y han conseguido quitarte los permisos de ejecución, con lo que ahora no eres capaz de hacer nada hasta que alguien te devuelva los permisos y lance tu proceso.
 * **Exploiteado {Mareado}** Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus _exploits_, fallos de seguridad de tu código. 
@@ -271,7 +277,7 @@ La cantidad de armas distintas que puede haber en los juegos de mazmorreo es tan
 
 ### Armaduras
 
-Las armaduras podemos transformarlas en nuestra mazmorra binaria en unas librerias especiales que mejoran tu ciberseguridad, tus logs y o tus permisos.
+Las armaduras podemos transformarlas en nuestra mazmorra binaria en unas librerías especiales que mejoran tu ciberseguridad, tus logs y o tus permisos.
 
 |Armadura|Armadura computacional|
 |---|---|
@@ -288,7 +294,7 @@ Las armaduras podemos transformarlas en nuestra mazmorra binaria en unas libreri
 
 Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.
 
-* **scripts de hackeo de contraseña {ganzuas}** Si se usa sobre un directorio encriptado o protegido con contraseña, te ayudará a desbloquearlos.
+* **scripts de hackeo de contraseña {ganzúas}** Si se usa sobre un directorio encriptado o protegido con contraseña, te ayudará a desbloquearlos.
 * **control de versiones {botiquín}** Si has perdido código con esta herramienta podrás recuperar parte de tus líneas de código.
 * **logs de actividad {kit de cartografía}** Mediante los _logs_ o registros de actividad, puedes saber dónde has estado, dónde no y qué has hecho en cada sitio. 
 * **gestores de mimetype {kit de disfraces}** El _MIME type_ son unos códigos internos que muestran realmente lo que eres. El _MIME type_ de un archivo de texto, por ejemplo, es «text/plain». Con estas herramientas podrías convertir tu _MIME type_ en «image/jpeg» y hacerte pasar por un fichero de imagen.

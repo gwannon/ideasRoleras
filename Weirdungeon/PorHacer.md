@@ -18,28 +18,6 @@ XXX
 
 ---
 
-### Path {Mapeado de la mazmorra}
-
-XXX
-
-\sp
-
-A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
-
-Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
-
----
-
-### Trampas de cuchillas, proyectiles y péndulos
-
-XXX
-
-### Trampas con foso
-
-XXX
-
----
-
 ### Magia {Hechizos}
 
 |asciiMago.md|
@@ -55,8 +33,6 @@ Los **hechizos que juegan con versiones falsas de ti**, pueden usar los _backups
 Los **hechizos de destierro** pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. 
 
 XXX
-
-Las escuelas de magia o las tradiciones mágicas pueden ser representadas XXX
 
 ---
 
