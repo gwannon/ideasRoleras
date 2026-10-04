@@ -184,13 +184,17 @@ Sabéis esas trampas en las que la habitación se cierran todas las puertas, se 
 
 El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. 
 
-### Trampas de cuchillas, proyectiles y péndulos
+### Trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}
 
-XXX
+Las trampas que activan cuchillas del suelo, proyectiles de las paredes, péndulos cotundentes del techo, pinchos desde todas partes, etc. Son fáciles de simular. No dejan de ser disparadores o triggers en la carpeta que activan scripts de defensa en los formatos que hemos visto antes.
 
-### Trampas con foso
+### Trampas de copiado rápido {con foso}
 
-XXX
+Las trampas de foso puedes describirlas como enlaces simbólicos que aparecen debajo de tus scripts y les llevan a una carpeta vacía que es el propio pozo.
+
+En una **trampa de foso te mata la gravedad** (y los pinchos del fondo), pero en una computadora no existe la gravedad como tal, así que podemos simular la perdida de líneas de código de la caida fallos en el copiado rápido que supone estar en una carpeta y caer en otra.
+
+Este truco también puedes usarlo para todo tipo de caidas.
 
 ## Magia y habilidades especiales
 
