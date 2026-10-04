@@ -100,7 +100,9 @@ Los ficheros tienen una representación física como si fueran mesas, camas, est
 
 ### Directorio/carpeta protegida {Estancia con puerta con cerradura}
 
-XXX
+Las puertas con cerraduras son simples directorios cerrados con contraseñas y el script en vez de usar ganzúas usan diccionarios de contraseña, hacks de fuerza bruta y demás herramientas para sacar contraseñas.
+
+Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña, para explorar todo el sistema de directorios es posible que algún cron rearme la contraseña y la cambie, con lo que si no han hecho algo para evitarlo tendrán que sacar la nueva contraseña.
 
 
 
@@ -132,9 +134,9 @@ El _path_ es la estructura de la mazmorra y esa estructura debe ser como un sist
 
 
 
-Como regla general, una carpeta solo tiene una carpeta superior y varias, una o ninguna subcaarpeta. Para conectar, una carpeta con otras carpetas que no sean la superior o las inferiores se usan los enlaces simbólicos (accesos directo en Windows). Pero estos son escasos y poco usados. 
+Como regla general, una carpeta solo tiene una carpeta superior y varias, una o ninguna subcarpetas. Para conectar, una carpeta con otras carpetas que no sean la superior o las inferiores se usan los enlaces simbólicos (accesos directos en Windows). Pero estos son escasos y poco usados. 
 
-Lo curioso de este sistema de crear mazmorras es que tenga que volver hacia atras para explorar las carpetas que has dejadosin visitar.
+Lo curioso de este sistema de crear mazmorras es que tenga que volver hacia atrás para explorar los directorios que has dejado sin visitar.
 
 A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.
 

@@ -155,7 +155,8 @@
 <p>Normalmente, las carpetas tienen una función, almacenar archivos de MP3, guardar imágenes JPG o PDF de facturas. Esto no deja de ser muy diferente a la despensa de la mazmorra donde se guarda la comida o el dormitorio donde duermen sus habitantes.</p>
 <p>Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.</p>
 <h3>Directorio/carpeta protegida {Estancia con puerta con cerradura}</h3>
-<p>XXX</p>
+<p>Las puertas con cerraduras son simples directorios cerrados con contraseñas y el script en vez de usar ganzúas usan diccionarios de contraseña, hacks de fuerza bruta y demás herramientas para sacar contraseñas.</p>
+<p>Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña, para explorar todo el sistema de directorios es posible que algún cron rearme la contraseña y la cambie, con lo que si no han hecho algo para evitarlo tendrán que sacar la nueva contraseña.</p>
 </div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Enlace duro {Puerta}</h3>
 <pre><code>____________________
@@ -190,8 +191,8 @@ ______¦_______¦______</code></pre>
 <h3>Path {Mapeado de la mazmorra}</h3>
 <p>El <i>path</i> es la estructura de la mazmorra y esa estructura debe ser como un sistema de directorios, es decir, una carpeta tiene más subcarpetas y estas subcarpetas más subsubcarpetas, así hasta llegar a los nivelees más inferiores del sistema dee directorios.</p>
 </div><div class="saltopagina even"></div><div class='columns'>
-<p>Como regla general, una carpeta solo tiene una carpeta superior y varias, una o ninguna subcaarpeta. Para conectar, una carpeta con otras carpetas que no sean la superior o las inferiores se usan los enlaces simbólicos (accesos directo en Windows). Pero estos son escasos y poco usados. </p>
-<p>Lo curioso de este sistema de crear mazmorras es que tenga que volver hacia atras para explorar las carpetas que has dejadosin visitar.</p>
+<p>Como regla general, una carpeta solo tiene una carpeta superior y varias, una o ninguna subcarpetas. Para conectar, una carpeta con otras carpetas que no sean la superior o las inferiores se usan los enlaces simbólicos (accesos directos en Windows). Pero estos son escasos y poco usados. </p>
+<p>Lo curioso de este sistema de crear mazmorras es que tenga que volver hacia atrás para explorar los directorios que has dejado sin visitar.</p>
 <p>A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.</p>
 <p>Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.</p>
 <h2>Clima</h2>
