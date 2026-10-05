@@ -178,7 +178,7 @@ Una vez lanzada la trampa los disparadores y los _deamons_ pueden ejecutar difer
 
 \sp
 
-### Trampa de paredes móviles y de objetos que caen o empujan
+### Trampa de copiado de ficheros {de paredes móviles y de objetos que caen o empujan}
 
 Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados. Lo mismo pasaría con trampas que dejan caer cosas pesadas/afiladas del techo, haciendo que el cron deje guarde archivos en las posiciones que ocupen tus scripts y estos deban moverse a nueva posiciones del disco duro para evitarlos.
 
