@@ -102,21 +102,23 @@ Los ficheros tienen una representación física como si fueran mesas, camas, est
 
 Las puertas con cerraduras son simples directorios cerrados con contraseñas y el script en vez de usar ganzúas usan diccionarios de contraseña, hacks de fuerza bruta y demás herramientas para sacar contraseñas.
 
-Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña, para explorar todo el sistema de directorios es posible que algún cron rearme la contraseña y la cambie, con lo que si no han hecho algo para evitarlo tendrán que sacar la nueva contraseña.
-
 \sp
 
-### Enlace duro {Puerta}
+Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña, para explorar todo el sistema de directorios es posible que algún cron rearme la contraseña y la cambie, con lo que si no han hecho algo para evitarlo tendrán que sacar la nueva contraseña.
+
+### Enlace simbólico duro {Puerta}
 
 |asciiPuerta.md|
 
 XXX
 
-### Enlace suave {Pasadizo secreto}
+### Enlace simbólico suave {Pasadizo secreto}
 
 |asciiPasadizo.md|
 
-XXX
+Los enlaces simbólicos suaves **representan los pasadizos secretos**. Son accesos débiles o suaves entre carpetas que aparecen y desaparecen y no tienen una conexión fuerte con la carpeta destino. No se puede acceder directamente entre dos carpetas usando un enlace suave, no podrías disparar desde una carpeta a otra a través de enlaces suaves. Son estrechos, con recodos, oscuros, etc. De hecho no tienes claro ni en donde vas a acabar.
+
+Normalmente como buenos pasadizos secretos, **están escondidos** y hay que hacer **tiradas de ls {Percepción} o grep {Buscar}** para encontrarlos. Seguramente tendrán **trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}** y pueden que haya que descubrir alguna contraseña para poder acceder por ellos.
 
 ### Crons
 
@@ -126,13 +128,14 @@ Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar e
 
 * Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de manera permanente.
 * Un cron borra los ficheros más antiguos de una carpeta de modo que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
+
+\sp
+
 * Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de manera que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.
 
 ### Path {Mapeado de la mazmorra}
 
 El _path_ es la estructura de la mazmorra y esa estructura debe ser como un sistema de directorios, es decir, una carpeta tiene más subcarpetas y estas subcarpetas más subsubcarpetas, así hasta llegar a los nivelees más inferiores del sistema dee directorios.
-
-\sp
 
 Como regla general, una carpeta solo tiene una carpeta superior y varias, una o ninguna subcarpetas. Para conectar, una carpeta con otras carpetas que no sean la superior o las inferiores se usan los enlaces simbólicos (accesos directos en Windows). Pero estos son escasos y poco usados. 
 
@@ -150,11 +153,11 @@ Aunque en un ecosistema como un sistema informático, no debería haber clima, p
 * El polvo acumulado dentro de la computadora también genera problemas, no solo de calor, sino también de conectividad y acceso. Así eventos climatológicos como ventiscas de arena o hielo, pueden tener su versión computacional en el polvo acumulado que quitaría visibilidad y dificultaría el movimiento.
 * El espacio libre del disco duro puede ser otro elemento que puedes usar como si fueran un fenómeno climatológico. Al salir de aventuras pueden encontrarse que el disco duro está casi lleno y que sea difícil moverse como durante días de niebla, polvo en suspensión, etc.
 
+\sp
+
 ## Idiomas
 
 En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el **_l33t_** y el **código ASCII**. El l33t es lo que comúnmente conocemos como idioma hacker, esos textos donde la «A» se sustituye por un «4» o una «E» por un «3».
-
-\sp
 
 El código ASCII son 8 bit que cotienen 1 o 0 con el que se representan la mayoría de las letras y símbolos que usamos normalmente. Así «01100001» representa la «a», 01100010 la «b», y así con el resto de letras mayúsculas y minúsculas, números, signos ortográficos, etc. Tus scripts podrían encontrarse una retahíla de unos y ceros grabados en un fichero comprimido. Solo si saben leerlo, sabrán que la ira de los programadores
 
@@ -174,9 +177,9 @@ Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan
 
 Otra opción es que lo _daemons_ o demonios, programas que están funcionando de fondo, detecten algo y lancen sus comandos defensivos.
 
-Una vez lanzada la trampa los disparadores y los _deamons_ pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.
-
 \sp
+
+Una vez lanzada la trampa los disparadores y los _deamons_ pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.
 
 ### Trampa de copiado de ficheros {de paredes móviles y de objetos que caen o empujan}
 
@@ -198,11 +201,11 @@ Las trampas que activan cuchillas del suelo, proyectiles de las paredes, péndul
 
 Las trampas de foso puedes describirlas como enlaces simbólicos que aparecen debajo de tus scripts y les llevan a una carpeta vacía que es el propio pozo.
 
+\sp
+
 En una **trampa de foso te mata la gravedad** (y los pinchos del fondo), pero en una computadora no existe la gravedad como tal, así que podemos simular la perdida de líneas de código de la caída fallos en el copiado rápido que supone estar en una carpeta y caer en otra.
 
 Este truco también puedes usarlo para todo tipo de caídas.
-
-\sp
 
 ## Magia y habilidades especiales
 
@@ -230,11 +233,11 @@ Las escuelas de magia o las tradiciones mágicas pueden ser representadas difere
 
 XXX
 
+\sp
+
 ## Borrado y diferentes estados
 
 La muerte viene representada por el borrado. **Los scripts no mueren, sino que son borrados**, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.
-
-\sp
 
 Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.
 

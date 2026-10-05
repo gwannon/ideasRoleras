@@ -4,12 +4,6 @@
 
 XXX
 
-### Enlace simbólico suave {Pasadizo secreto}
-
-|asciiPasadizo.md|
-
-XXX
-
 ---
 
 ### Magia {Hechizos}

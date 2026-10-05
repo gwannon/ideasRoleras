@@ -12,4 +12,3 @@ pdftk './temp.pdf' update_info_utf8 './MazmorraBinariaBW.txt' output '../Mazmorr
 rm ./MazmorraBinariaBW.txt
 rm ./temp.pdf
 rm ./MazmorraBinariaBW.html
-rm ./AccMazmorraBinariaBW.md
