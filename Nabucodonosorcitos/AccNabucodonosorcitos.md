@@ -638,6 +638,7 @@ Si quieres alargar el viaje, porque tus jugadores están pasándolo bien (o eso 
 * **El museo internacional del queso.** No es un museo de quesos del mundo, literalmente es un trozo enorme de queso en la quesera de la cocina. Lo bueno es que tiene exposiciones itinerantes y cada semana cambian de queso.
 * **Autocine más grande del mundo.** Los humanos de la casa han comprado un pantallón de televisión y proporcionalmente para los nabucos es el cine más grande que han visto. Lo malo es que solo ponen documentales hablando de las cosas raras que hacen los humanos.
 * **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Bert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
+* **El clip en la goma.** En el despacho hay un clip clavado en una goma de borrar y escrito debajo en un post-it se puede leer «Aquel que sacare el ExCLIPbur de la goma será el legítimo rey de todo Barrio Sésamo». Es algo que escribió Jim Henson para un _sketch_ y que se lo olvidó allí. Hay una fila de nabucos intentando sacar el clip de la goma, pero ninguno lo consigue. Quizas tus nabucos sean dignos de convertirse en reyes del barrio.
 
 
 
