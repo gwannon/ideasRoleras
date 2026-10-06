@@ -538,17 +538,17 @@ El feriante también vende trozos de lana como recuerdo, pero la verdad es que p
 
 Escondido detrás del aseo, hay un típico hotel de carretera donde los bungalows tienen forma de _teepee_ de los nativos norteamericanos. La estructura son pajitas de plástico y se han usado una cortina de baño de patitos para las telas que cubren la tienda.
 
-El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. El motel tiene una piscina, el propio aseo que está lleno de agua. Pueden lanzarse desde el grifo y subir por la cadena del tapón. También hay un pozo de fuego en el centro de los _teepees_ para asar malvavisco y disfrutar de las llamas.
+El hotel se llama Beits y está regentado por Nor, un tipo un tanto extraño incluso para un nabuco. Nor es poco hablador y bastante tímido. El motel tiene una piscina, el propio aseo que está lleno de agua. Pueden lanzarse desde el grifo y subir por la cadena del tapón. También hay un pozo de fuego en el centro de los _teepees_ para asar malvavisco y disfrutar de las llamas.
 
-Nor es poco hablador y bastante tímido. El problema al que se van a enfrentar tus jugadores por la noche es que Nor se pone un traje de señora mayor de los 60 y una peluca canosa y empieza a hacer cosas raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
+El problema al que se van a enfrentar tus jugadores por la noche es que Nor se pone un traje de señora mayor de los 60 y una peluca canosa y empieza a hacer cosas raras. Dice que es algo que vio en una película de un humano que llevaba un hotel de carretera y que parece que le iba muy bien. Así que ha copiado lo que hace en la película.
 
 Cosas que hará durante la noche y/o que pueden descubrir.
 
-* Rondará alrededor del _teepee_ y dejará que su silueta con una piruleta de cereza se vea a través de la cortina de baño que forman el _teepee_. Mientras tararea algo como chin-chin-chin. Si salen, Nor habrá desaparecido, pero la piruleta estará en el felpudo con un lacito de regalo en el felpudo.
-* Si se duchan, el agua enseguida se tornará roja (y dulce si la prueba) porque Nor está echando sirope de fresa en el suministro. El problema es que el sirope es muy pegajoso y, si encima eres una marioneta, es todavía más difícil quitárselo. 
+* Rondará alrededor del _teepee_ y dejará que su silueta con una piruleta de cereza se vea a través de la cortina de baño que forman el _teepee_. Mientras tararea algo como chin-chin-chin. Si salen, Nor habrá desaparecido, pero la piruleta estará en el felpudo con un lacito de regalo.
+* Si se duchan, el agua enseguida se tornará roja (y dulce si la prueban) porque Nor está echando sirope de fresa en el suministro. El problema es que el sirope es muy pegajoso y, si encima eres una marioneta, es todavía más difícil quitárselo. 
 * Llamará por el teléfono de envases de yogur e hilo a la habitación y hará ruidos raros. En realidad se está haciendo unas palomitas al microondas y le da corte hablar.
-* En el buffet de desayuno, habrá carteles en todos los alimentos que ponen «No está envenenado». Los carteles no mienten, pero acojonan un rato. Recuerda que nadie se puede resistir a un buffet de desayuno aunque sepan que hay un asesino en serie cerca. De hecho si intentan irse en mitad de la noche, recuérdales que está oscuro y que se perderán el buffet de desayuno y Nor dijo que había gofres y tortitas.
-* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huéspedes como hacen en las atracciones de los parques temáticos.
+* En el buffet de desayuno, habrá carteles en todos los alimentos que ponen «No está envenenado». Los carteles no mienten, pero acojonan un rato. Recuerda que nadie se puede resistir a un buffet de desayuno aunque sepan que hay un asesino en serie cerca. De hecho, si intentan irse en mitad de la noche, recuérdales que está oscuro y que se perderán el buffet de desayuno y Nor dijo que había gofres y tortitas.
+* Encontrarán en algún sitio una habitación oscura con fotos suyas en situaciones ridículas y muecas graciosas, colgadas de cuerdas de tender. Las fotos las hace Nor para venderlas a los huéspedes como recuerdo, como hacen en las atracciones de los parques temáticos.
 
 
 
@@ -556,9 +556,9 @@ Cosas que hará durante la noche y/o que pueden descubrir.
 
 Realmente en esta parte de la aventura, no hay que superar ningún reto, pero será divertido ponerles en alguna de las situaciones ridículas e hilarantes y verles correr agitando las manos de un lugar a otro.
 
-Si tratan de encontrarlo y pedirle explicaciones, no estará en ningún sitio, hasta que decidan irse y lo verán a través de la ventana del bungalow. Allí le encontrarán sentado en una mecedora con el vestido de señora mayor y la peluca canosa. Les explicará que todo es su estrategia de _mercaderías_ y les pedirá que le dejen una buena reseña cuando se vayan.
+Si tratan de encontrarlo y pedirle explicaciones, no estará en ningún sitio, hasta que decidan irse y lo verán a través de la ventana de su bungalow/oficina. Allí le encontrarán sentado en una mecedora con el vestido de señora mayor y la peluca canosa. Les explicará que todo es su estrategia de _mercaderías_ y les pedirá que le dejen una buena reseña cuando se vayan. No tiene claro qué es eso de las reseñas, pero suena _mercaderístico_.
 
-**Recuerdos y regalos:** Toallas y albornoces del motel, gofrera del buffet de desayuno, llavero de las llaves del motel, piruleta de cereza
+**Recuerdos y regalos:** Toallas y albornoces del motel, gofrera del buffet de desayuno, llavero de las llaves del motel, piruleta de cereza, fotos de recuerdo
 
 **Momentos inolvidables:** Tirarse a la piscina haciendo bomba, esquivar las cuchilladas de Nor, atiborrarse en el buffet de desayuno
 
