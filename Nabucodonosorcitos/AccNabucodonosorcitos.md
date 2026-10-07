@@ -638,7 +638,7 @@ Si quieres alargar el viaje, porque tus jugadores están pasándolo bien (o eso 
 * **El museo internacional del queso.** No es un museo de quesos del mundo, literalmente es un trozo enorme de queso en la quesera de la cocina. Lo bueno es que tiene exposiciones itinerantes y cada semana cambian de queso.
 * **Autocine más grande del mundo.** Los humanos de la casa han comprado un pantallón de televisión y proporcionalmente para los nabucos es el cine más grande que han visto. Lo malo es que solo ponen documentales hablando de las cosas raras que hacen los humanos.
 * **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Bert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
-* **El clip en la goma.** Dejas por la casa o local donde jugáis un clip desdoblado pinchado en una goma de borrar y dejado escrito en un post-it «Aquel que sacare ExCLIPur de la goma será el legítimo rey de todo Barrio Sésamo. Firmado: Jim Henson». Es algo que escribió Jim Henson para un _sketch_ y que se le olvidó allí. Si une de tus jugadores, trae el clip a la mesa, será coronado rey de Barrio Sésamo con todas las ventajas y obligaciones que eso tiene. Ahora podrá nombrar al resto de nabucos Sir, Lady o Liege y mandarles a buscar cosas con nombres raros a la otra punta del barrio. Magicamente las mesas de su casa, oficina o lo que sea ahora son redondas, pero son tan tontos que ni se darán cuenta.
+* **El clip en la goma.** Dejas por la casa o local donde jugáis un clip desdoblado pinchado en una goma de borrar y dejado escrito en un post-it «Aquel que sacare ExCLIPur de la goma será el legítimo rey de todo Barrio Sésamo. Firmado: Jim Henson». Es algo que escribió Jim Henson para un _sketch_ y que se le olvidó allí. Si une de tus jugadores, trae el clip a la mesa, será coronado rey de Barrio Sésamo con todas las ventajas y obligaciones que eso tiene. Ahora podrá nombrar al resto de nabucos Sir, Lady o Liege y mandarles a buscar cosas con nombres raros a la otra punta del barrio. Mágicamente las mesas de su casa, oficina o lo que sea ahora son redondas, pero son tan tontos que ni se darán cuenta.
 
 
 
@@ -657,6 +657,8 @@ Ingredientes usados en este juego de rol:
 
 * **Ingredientes mecánicos:** Mundo en miniatura o microscópico.
 * **Ingredientes temáticos:** Más allá de la mesa. Mecánicas fuera de partida.
+
+[![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
 
 
 
@@ -694,3 +696,4 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Máquina blanca realista 3d del lavaplatos … de vectorpocket de [Magnific](https://www.magnific.com/es/vector-gratis/maquina-blanca-realista-3d-lavaplatos-tres-estantes-metal-llenos-placas-limpias-vidrio_2890990.htm)
 * Estilo de dibujos animados tienda de mascotas supermercado ... de user15245033 de [Magnific](https://www.magnific.com/es/vector-gratis/estilo-dibujos-animados-tienda-mascotas-supermercado-arena-perros-gatos-casa-jugar-arbol-juguetes-herramientas-aseo-paquete-comida_11464181.htm)
 * Visión del hilo para el ganchillo de [Magnific](https://www.magnific.com/es/psd-gratis/vision-hilo-ganchillo_206469815.htm)
+* Sello de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)

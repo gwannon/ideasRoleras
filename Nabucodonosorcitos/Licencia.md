@@ -14,6 +14,8 @@ Ingredientes usados en este juego de rol:
 * **Ingredientes mecánicos:** Mundo en miniatura o microscópico.
 * **Ingredientes temáticos:** Más allá de la mesa. Mecánicas fuera de partida.
 
+[![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
+
 \sc
 
 [![Mermelada rolera de Seppu 2026](./images/mermelada-rolera.png "Mermelada rolera de Seppu 2026")](https://itch.io/jam/la-mermelada-de-seppu-rnr-2026 "Mermelada rolera de Seppu 2026")
@@ -50,3 +52,4 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Máquina blanca realista 3d del lavaplatos … de vectorpocket de [Magnific](https://www.magnific.com/es/vector-gratis/maquina-blanca-realista-3d-lavaplatos-tres-estantes-metal-llenos-placas-limpias-vidrio_2890990.htm)
 * Estilo de dibujos animados tienda de mascotas supermercado ... de user15245033 de [Magnific](https://www.magnific.com/es/vector-gratis/estilo-dibujos-animados-tienda-mascotas-supermercado-arena-perros-gatos-casa-jugar-arbol-juguetes-herramientas-aseo-paquete-comida_11464181.htm)
 * Visión del hilo para el ganchillo de [Magnific](https://www.magnific.com/es/psd-gratis/vision-hilo-ganchillo_206469815.htm)
+* Sello de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
