@@ -14,7 +14,7 @@ En este sistema el EPI no hace tiradas, solo los nabucos hacen tiradas. El EPI s
 
 ### Tiradas
 
-Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente se tira 1d12, si tienes ventaja tiras 1d8 extra y lo sumas al resultado del d12.
+Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente, se tira 1d12, si tienes ventaja tiras 1d8 extra y lo sumas al resultado del d12.
 
 \sp
 

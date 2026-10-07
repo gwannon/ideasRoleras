@@ -22,7 +22,7 @@ En este sistema el EPI no hace tiradas, solo los nabucos hacen tiradas. El EPI s
 
 ### Tiradas
 
-Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente se tira 1d12, si tienes ventaja tiras 1d8 extra y lo sumas al resultado del d12.
+Se hacen tiradas cada vez que tus nabucos vayan a hacer cosas con posibilidad de fracaso. Simplemente, se tira 1d12, si tienes ventaja tiras 1d8 extra y lo sumas al resultado del d12.
 
 
 
@@ -580,7 +580,7 @@ Si no hacen algo especial, empezarán a andar en círculos con lo que no podrán
 
 Tendrán que buscar un plan para orientarse, desde orientarse con el sol, ya que están en el balcón y lo ven, hasta hacerse una varita de zahorí con unas horquillas y tratar de buscar el agua del bebedero del gato.
 
-Si consiguen orientarse, en el centro del desierto se encontrarán cin Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. 
+Si consiguen orientarse, en el centro del desierto se encontrarán con Zunk «el sabio». Es un ermitaño barbudo con ojos desquiciados al que, como ya sabes, van los nabucos en busca de consejo. 
 
 
 
@@ -637,8 +637,8 @@ Si quieres alargar el viaje, porque tus jugadores están pasándolo bien (o eso 
 
 * **El museo internacional del queso.** No es un museo de quesos del mundo, literalmente es un trozo enorme de queso en la quesera de la cocina. Lo bueno es que tiene exposiciones itinerantes y cada semana cambian de queso.
 * **Autocine más grande del mundo.** Los humanos de la casa han comprado un pantallón de televisión y proporcionalmente para los nabucos es el cine más grande que han visto. Lo malo es que solo ponen documentales hablando de las cosas raras que hacen los humanos.
-* **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosora. Pueden jugar a inventarse el personaje histórico nabucodonosor más estúpido con el nombre más ingenioso posible, como Bert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
-* **El clip en la goma.** Dejas por la casa o local donde jugáis un clip desdoblado pinchado en una goma de borrar y dejado escrito en un post-it «Aquel que sacare ExCLIPur de la goma será el legítimo rey de todo Barrio Sésamo. Firmado: Jim Henson». Es algo que escribió Jim Henson para un _sketch_ y que se le olvidó allí. Si une de tus jugadores, trae el clip a la mesa, será coronado rey de Barrio Sésamo con todas las ventajas y obligaciones que eso tiene. Ahora podrá nombrar al resto de nabucos Sir, Lady o Liege y mandarles a buscar cosas con nombres raros a la otra punta del barrio. Mágicamente las mesas de su casa, oficina o lo que sea ahora son redondas, pero son tan tontos que ni se darán cuenta.
+* **Las caras del moho de la despensa.** Entre los nabucos, se dice que en el moho que ha aparecido en la despensa de la casa se pueden ver las caras de grandes personajes de la historia nabucadonosorcita. Pueden jugar a inventarse el personaje histórico nabucodonosorcito más estúpido con el nombre más ingenioso posible, como Bert Nabucstein que descubrió que la luz de la nevera se apaga al cerrarla.
+* **El clip en la goma.** Dejas por la casa o local donde jugáis un clip desdoblado pinchado en una goma de borrar y dejado escrito en un post-it «Aquel que sacare ExCLIPur de la goma será el legítimo rey de todo Barrio Sésamo. Firmado: Jim Henson». Es algo que escribió Jim Henson para un _sketch_ y que se le olvidó allí. Si une de tus jugadores, trae el clip a la mesa, será coronado rey de Barrio Sésamo con todas las ventajas y obligaciones que eso tiene. Ahora podrá nombrar al resto de nabucos Sir, Lady o Liege y mandarles a buscar cosas con nombres raros a la otra punta del barrio. Mágicamente, las mesas de su casa, oficina o lo que sea ahora son redondas, pero son tan tontos que ni se darán cuenta.
 
 
 

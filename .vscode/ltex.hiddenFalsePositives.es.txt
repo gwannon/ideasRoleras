@@ -582,3 +582,5 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QEl mago de Rowan Crawford publicado en asciiart.eu.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QBuglins\\E$"}
 {"rule":"ACTUAL","sentence":"^\\QPor ejemplo, un cable bus {cuerda} te permite salir de carpetas sin salida en las que has caído por error mejorando tus capacidades de acceder a la carpeta superior a la que estés actualmente, en otras palabras, te permite escalar desde el pozo trampa en el que has caído a la habitación desde la que caíste.\\E$"}
+{"rule":"FUTURO_SUBJ_IND","sentence":"^\\QDejas por la casa o local donde jugáis un clip desdoblado pinchado en una goma de borrar y dejado escrito en un post-it «Aquel que sacare ExCLIPur de la goma será el legítimo rey de todo Barrio Sésamo.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDejas por la casa o local donde jugáis un clip desdoblado pinchado en una goma de borrar y dejado escrito en un post-it «Aquel que sacare ExCLIPur de la goma será el legítimo rey de todo Barrio Sésamo.\\E$"}
