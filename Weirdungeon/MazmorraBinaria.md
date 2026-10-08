@@ -110,15 +110,21 @@ Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña
 
 |asciiPuerta.md|
 
-XXX
+Los enlaces simbólicos son enlaces que conectan un archivo o carpeta con otro archivo o carpeta saltándose la estructura de directorio y subdirectorios. Podemos tener un enlace simbólico que conecte una subcarpeta con la carpeta raíz del sistema de archivos pasando así del 4 nivel al primero mediante un simple enlace.
+
+Los enlaces simbólicos duros son enlaces representan directamente lo que está enlazado. Si borrásemos un enlace suave, borraríamos el enlace en sí mismo y su objetivo, es como tener un mismo fichero/directorio en dos sitios a la vez. Los enlaces simbólicos duros **representan rutas de comunicación dentro del sistema de carpetas que no cumplen la directiva carpetas y subcarpeta**. Son esas escaleras que pasan por todos los niveles de la mazmorra o esa puerta detrás del trono del malo final que te lleva a la entrada de la mazmorra.
+
+Puedes tratarlos como una carpeta normal, con su propio diseño y decoración, pero donde no suele haber ni trampas, ni scripts defensivos, etc. Al ser duros, lanzar ataques desde un lado del enlace debería llegar sin problemas al otro lado, hasta la carpeta o archivo objetivo del enlace.
 
 ### Enlace simbólico suave {Pasadizo secreto}
 
 |asciiPasadizo.md|
 
-Los enlaces simbólicos suaves **representan los pasadizos secretos**. Son accesos débiles o suaves entre carpetas que aparecen y desaparecen y no tienen una conexión fuerte con la carpeta destino. No se puede acceder directamente entre dos carpetas usando un enlace suave, no podrías disparar desde una carpeta a otra a través de enlaces suaves. Son estrechos, con recodos, oscuros, etc. De hecho no tienes claro ni en donde vas a acabar.
+Los enlaces simbólicos suaves son, en informática, enlaces que no representan directamente lo que está enlazado. Si borrásemos un enlace suave, solo borraríamos el enlace en sí mismo, no su objetivo. Es por ello que los enlaces simbólicos suaves **representan los pasadizos secretos**. Son accesos débiles o suaves entre carpetas que aparecen y desaparecen y no tienen una conexión fuerte con la carpeta destino. No se puede acceder directamente entre dos carpetas usando un enlace suave, no podrías disparar desde una carpeta a otra a través de enlaces suaves. Son estrechos, con recodos, oscuros, etc. De hecho no tienes claro ni en donde vas a acabar.
 
 Normalmente como buenos pasadizos secretos, **están escondidos** y hay que hacer **tiradas de ls {Percepción} o grep {Buscar}** para encontrarlos. Seguramente tendrán **trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}** y pueden que haya que descubrir alguna contraseña para poder acceder por ellos.
+
+\sp
 
 ### Crons
 
@@ -128,9 +134,6 @@ Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar e
 
 * Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de manera permanente.
 * Un cron borra los ficheros más antiguos de una carpeta de modo que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
-
-\sp
-
 * Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de manera que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.
 
 ### Path {Mapeado de la mazmorra}
@@ -145,6 +148,8 @@ A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no impor
 
 Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.
 
+\sp
+
 ## Clima
 
 Aunque en un ecosistema como un sistema informático, no debería haber clima, podemos encontrar símiles que simulen el clima.
@@ -152,8 +157,6 @@ Aunque en un ecosistema como un sistema informático, no debería haber clima, p
 * Temperatura del procesador: Cuanto mayor sea la temperatura, más extremadamente caluroso y desértico sea el clima. El calor hace que el procesador haga todo más lento y con más fallo. Cuanto más baja sea la temperatura mejor será en clima en general.
 * El polvo acumulado dentro de la computadora también genera problemas, no solo de calor, sino también de conectividad y acceso. Así eventos climatológicos como ventiscas de arena o hielo, pueden tener su versión computacional en el polvo acumulado que quitaría visibilidad y dificultaría el movimiento.
 * El espacio libre del disco duro puede ser otro elemento que puedes usar como si fueran un fenómeno climatológico. Al salir de aventuras pueden encontrarse que el disco duro está casi lleno y que sea difícil moverse como durante días de niebla, polvo en suspensión, etc.
-
-\sp
 
 ## Idiomas
 
@@ -167,6 +170,8 @@ Por último tendríamos, aunque no sea un idioma, el **ASCII Art**, esos dibujos
 
 Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que los límites de la carpeta están decorados con intrincados diseños de animales en ASCII o que el enlace simbólico que acaban de encontrar en el directorio actual tiene ASCII Art que explica que quien la use será maldecido.
 
+\sp
+
 Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. 
 
 ## Disparadores y deamons {Trampas}
@@ -176,8 +181,6 @@ Los virus, los administradores de sistemas y los propios usuarios protegen los d
 Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan que se dé determinada situación. Cuando el disparador detecta cierta condición como que tus scripts entren en determinado directorio, lanzan una serie de comandos como llegan esa carpeta de archivos para aplastar a tus scripts.
 
 Otra opción es que lo _daemons_ o demonios, programas que están funcionando de fondo, detecten algo y lancen sus comandos defensivos.
-
-\sp
 
 Una vez lanzada la trampa los disparadores y los _deamons_ pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.
 
@@ -191,6 +194,8 @@ También pudiera ser que un archivo se mueva por toda la carpeta, empujando a tu
 
 Sabéis esas trampas en las que la habitación se cierran todas las puertas, se llenan de agua, gas venenoso o lava y hay que buscar la salida como sea, pues en una mazmorra binaria pueden simularlo con el tema de la encriptación o la compresión de una carpeta. Según se encripta o comprime la carpeta, la carpeta se bloquea por parte del sistema y el espacio que queda es menor. Si alguien cae dentro de las partes encriptadas o comprimidas o el directorio es comprimido totalmente, tendrá serios problemas.
 
+\sp
+
 El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. 
 
 ### Trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}
@@ -200,8 +205,6 @@ Las trampas que activan cuchillas del suelo, proyectiles de las paredes, péndul
 ### Trampas de copiado rápido {con foso}
 
 Las trampas de foso puedes describirlas como enlaces simbólicos que aparecen debajo de tus scripts y les llevan a una carpeta vacía que es el propio pozo.
-
-\sp
 
 En una **trampa de foso te mata la gravedad** (y los pinchos del fondo), pero en una computadora no existe la gravedad como tal, así que podemos simular la perdida de líneas de código de la caída fallos en el copiado rápido que supone estar en una carpeta y caer en otra.
 
@@ -217,6 +220,19 @@ La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede te
 
 Aunque no os lo creáis la magia existe dentro de la computación. El término magia se utiliza para describir código que maneja tareas complejas con una interfaz muy sencilla. Vamos yo digo «Alakazam» (una interfaz muy sencilla) y se produce una bola de fuego (una tarea muy compleja).
 
+Los hechizos de ataque que generan diferentes daños pueden ser representados de diferentes maneras. 
+
+* **Daño por eectores defectuoso.** El hechizo hace que los sectores en los que está tu código estén defectuoso con lo que puedes perder lineas de código.
+* **Daño por orrado.** Directamente se borran partes aleatorias del código que forma tu script.
+
+\sp
+
+* **Daño por encriptación o rasomware.** Parte de tu código es encriptado con lo que no puedes acceder a él y queda inservible.
+* **Daño por bloqueo.** Se te quitan los permisos y se te bloquea el acceso a ciertas partes de tu código.
+* **Daño por bucle infinito.** Parte de tus líneas entran en bucle infinito y debes pararlas y dejarlas de usar para no quedarte encerrado en un bucle infinito de ejecución.
+
+A la vez los tipos de daños, las resistencias y las inmunidades pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. 
+
 XXX
 
 Los **hechizos de ralentizar** puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los **hechizos de aceleración** todo lo contrario.
@@ -227,7 +243,7 @@ Los **hechizos de destierro** pueden usar «/dev/net» {red local} que te destie
 
 XXX
 
-Las escuelas de magia o las tradiciones mágicas pueden ser representadas diferentes metodologías de desarrollo, como SCRUM, Kaban, SAFe, Waterfall, etc.
+Las **escuelas de magia o las tradiciones mágicas** pueden ser representadas diferentes **metodologías de desarrollo**, como SCRUM, Kaban, SAFe, Waterfall, etc.
 
 ### Subrutinas {Habilidades especiales}
 

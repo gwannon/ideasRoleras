@@ -168,7 +168,9 @@
       █-----@-█
       █-------█
 ______█-------█______</code></pre>
-<p>XXX</p>
+<p>Los enlaces simbólicos son enlaces que conectan un archivo o carpeta con otro archivo o carpeta saltándose la estructura de directorio y subdirectorios. Podemos tener un enlace simbólico que conecte una subcarpeta con la carpeta raíz del sistema de archivos pasando así del 4 nivel al primero mediante un simple enlace.</p>
+<p>Los enlaces simbólicos duros son enlaces representan directamente lo que está enlazado. Si borrásemos un enlace suave, borraríamos el enlace en sí mismo y su objetivo, es como tener un mismo fichero/directorio en dos sitios a la vez. Los enlaces simbólicos duros <strong>representan rutas de comunicación dentro del sistema de carpetas que no cumplen la directiva carpetas y subcarpeta</strong>. Son esas escaleras que pasan por todos los niveles de la mazmorra o esa puerta detrás del trono del malo final que te lleva a la entrada de la mazmorra.</p>
+<p>Puedes tratarlos como una carpeta normal, con su propio diseño y decoración, pero donde no suele haber ni trampas, ni scripts defensivos, etc. Al ser duros, lanzar ataques desde un lado del enlace debería llegar sin problemas al otro lado, hasta la carpeta o archivo objetivo del enlace.</p>
 <h3>Enlace simbólico suave {Pasadizo secreto}</h3>
 <pre><code>_____________________
 
@@ -179,17 +181,15 @@ ______█-------█______</code></pre>
       ¦       ¦
       ¦       ¦
 ______¦_______¦______</code></pre>
-<p>Los enlaces simbólicos suaves <strong>representan los pasadizos secretos</strong>. Son accesos débiles o suaves entre carpetas que aparecen y desaparecen y no tienen una conexión fuerte con la carpeta destino. No se puede acceder directamente entre dos carpetas usando un enlace suave, no podrías disparar desde una carpeta a otra a través de enlaces suaves. Son estrechos, con recodos, oscuros, etc. De hecho no tienes claro ni en donde vas a acabar.</p>
+<p>Los enlaces simbólicos suaves son, en informática, enlaces que no representan directamente lo que está enlazado. Si borrásemos un enlace suave, solo borraríamos el enlace en sí mismo, no su objetivo. Es por ello que los enlaces simbólicos suaves <strong>representan los pasadizos secretos</strong>. Son accesos débiles o suaves entre carpetas que aparecen y desaparecen y no tienen una conexión fuerte con la carpeta destino. No se puede acceder directamente entre dos carpetas usando un enlace suave, no podrías disparar desde una carpeta a otra a través de enlaces suaves. Son estrechos, con recodos, oscuros, etc. De hecho no tienes claro ni en donde vas a acabar.</p>
 <p>Normalmente como buenos pasadizos secretos, <strong>están escondidos</strong> y hay que hacer <strong>tiradas de ls {Percepción} o grep {Buscar}</strong> para encontrarlos. Seguramente tendrán <strong>trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}</strong> y pueden que haya que descubrir alguna contraseña para poder acceder por ellos.</p>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Crons</h3>
 <p>Los <i>crons</i> o tareas programadas son acciones que se ejecutan cada cierto tiempo. Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta.</p>
 <p>Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:</p>
 <ul>
 <li>Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de manera permanente.</li>
 <li>Un cron borra los ficheros más antiguos de una carpeta de modo que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.</li>
-</ul>
-</div><div class="saltopagina even"></div><div class='columns'>
-<ul>
 <li>Un cron puede tener en constante movimiento un fichero de un sector del disco duro a otro de manera que si tus scripts se acercan sin darse cuenta a ese fichero sean golpeados y pierdan líneas de código. Con esto puedes simular trampas como aspas afiladas, muros deslizantes, péndulos cortantes, cuchillas que salen desde el suelo.</li>
 </ul>
 <h3>Path {Mapeado de la mazmorra}</h3>
@@ -198,6 +198,7 @@ ______¦_______¦______</code></pre>
 <p>Lo curioso de este sistema de crear mazmorras es que tenga que volver hacia atrás para explorar los directorios que has dejado sin visitar.</p>
 <p>A diferencia de una mazmorra normal, al diseñar un sistema de carpetas no importa que físicamente sea viable, solo importa que su ruta dentro del sistema de carpetas sea lógica. Aunque al dibujarlo las carpetas y subcarpetas no se van a superponer y, por tanto, podría pasarte que físicamente sean inviable tienes que pensar que electrónicamente si son viables.</p>
 <p>Por ejemplo, los enlaces simbólicos que conectan dos carpetas que están en diferentes carpetas superiores existen aunque en tu dibujo no haya espacio para ellos y se superpongan sobre otras carpetas.</p>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Clima</h2>
 <p>Aunque en un ecosistema como un sistema informático, no debería haber clima, podemos encontrar símiles que simulen el clima.</p>
 <ul>
@@ -205,31 +206,30 @@ ______¦_______¦______</code></pre>
 <li>El polvo acumulado dentro de la computadora también genera problemas, no solo de calor, sino también de conectividad y acceso. Así eventos climatológicos como ventiscas de arena o hielo, pueden tener su versión computacional en el polvo acumulado que quitaría visibilidad y dificultaría el movimiento.</li>
 <li>El espacio libre del disco duro puede ser otro elemento que puedes usar como si fueran un fenómeno climatológico. Al salir de aventuras pueden encontrarse que el disco duro está casi lleno y que sea difícil moverse como durante días de niebla, polvo en suspensión, etc.</li>
 </ul>
-</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Idiomas</h2>
 <p>En muchos juegos mazmorreros es muy normal el uso de idiomas arcanos y de runas. Aquí vamos a usar el <strong><i>l33t</i></strong> y el <strong>código ASCII</strong>. El l33t es lo que comúnmente conocemos como idioma hacker, esos textos donde la «A» se sustituye por un «4» o una «E» por un «3».</p>
 <p>El código ASCII son 8 bit que cotienen 1 o 0 con el que se representan la mayoría de las letras y símbolos que usamos normalmente. Así «01100001» representa la «a», 01100010 la «b», y así con el resto de letras mayúsculas y minúsculas, números, signos ortográficos, etc. Tus scripts podrían encontrarse una retahíla de unos y ceros grabados en un fichero comprimido. Solo si saben leerlo, sabrán que la ira de los programadores</p>
 <p>Mi consejo es que pienses en ellos como el élfico {l33t} y el rúnico {código ASCII} y así sabrás que donde poner cada lenguaje.</p>
 <p>Por último tendríamos, aunque no sea un idioma, el <strong>ASCII Art</strong>, esos dibujos creados caracteres como paréntesis, barras, dos puntos, etc. y que tratan de hacer imágenes. Podrían ser desde el sencillo :) o XD, hasta estructuras más complejas como verás en el arte de libro.</p>
 <p>Si entran en una gran sala a semejanza de un gran salón medieval podrías describirles que los límites de la carpeta están decorados con intrincados diseños de animales en ASCII o que el enlace simbólico que acaban de encontrar en el directorio actual tiene ASCII Art que explica que quien la use será maldecido.</p>
+</div><div class="saltopagina even"></div><div class='columns'>
 <p>Hay montones de páginas que ofrecen ASCII Art gratuito y que puedes usar en tus partidas, para explicar los diseños que tus scripts pueden encontrar en sus aventuras en diferentes elementos. </p>
 <h2>Disparadores y deamons {Trampas}</h2>
 <p>Los virus, los administradores de sistemas y los propios usuarios protegen los directorios donde están o donde guardan sus ficheros importantes, es por ello los llenan de trampas para que los scripts no puedan avanzar por el <i>path</i> o sean borrados antes de llegar de tu objetivo.</p>
 <p>Las trampas son activadas por disparadores, scripts que cada poco tiempo vigilan que se dé determinada situación. Cuando el disparador detecta cierta condición como que tus scripts entren en determinado directorio, lanzan una serie de comandos como llegan esa carpeta de archivos para aplastar a tus scripts.</p>
 <p>Otra opción es que lo <i>daemons</i> o demonios, programas que están funcionando de fondo, detecten algo y lancen sus comandos defensivos.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
 <p>Una vez lanzada la trampa los disparadores y los <i>deamons</i> pueden ejecutar diferentes comandos defensivos que pueden simular visualmente trampas clásicas de las mazmorras.</p>
 <h3>Trampa de copiado de ficheros {de paredes móviles y de objetos que caen o empujan}</h3>
 <p>Esto se puede conseguir con un cron que copia a gran velocidad archivos de gran dentro de la carpeta, de manera que cada vez hay menos espacio y los scripts acaben aplastados. Lo mismo pasaría con trampas que dejan caer cosas pesadas/afiladas del techo, haciendo que el cron deje guarde archivos en las posiciones que ocupen tus scripts y estos deban moverse a nueva posiciones del disco duro para evitarlos.</p>
 <p>También pudiera ser que un archivo se mueva por toda la carpeta, empujando a tus scripts y haciendo daño a los que no sean lo suficientemente rápidos para esquivarlos.</p>
 <h3>Trampa de compresión/encriptación</h3>
 <p>Sabéis esas trampas en las que la habitación se cierran todas las puertas, se llenan de agua, gas venenoso o lava y hay que buscar la salida como sea, pues en una mazmorra binaria pueden simularlo con el tema de la encriptación o la compresión de una carpeta. Según se encripta o comprime la carpeta, la carpeta se bloquea por parte del sistema y el espacio que queda es menor. Si alguien cae dentro de las partes encriptadas o comprimidas o el directorio es comprimido totalmente, tendrá serios problemas.</p>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <p>El punto divertido es que la comprensión o encriptación les dejaría «petrificados» dentro de la carpeta, pero no sería algo letal y consiguiendo descomprimir o desencriptar el directorio se podría «despetrificarles» y todos los scripts que haya dentro. </p>
 <h3>Trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}</h3>
 <p>Las trampas que activan cuchillas del suelo, proyectiles de las paredes, péndulos contundentes del techo, pinchos desde todas partes, etc. Son fáciles de simular. No dejan de ser disparadores o <i>triggers</i> en la carpeta que activan scripts de defensa en los formatos que hemos visto antes.</p>
 <h3>Trampas de copiado rápido {con foso}</h3>
 <p>Las trampas de foso puedes describirlas como enlaces simbólicos que aparecen debajo de tus scripts y les llevan a una carpeta vacía que es el propio pozo.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
 <p>En una <strong>trampa de foso te mata la gravedad</strong> (y los pinchos del fondo), pero en una computadora no existe la gravedad como tal, así que podemos simular la perdida de líneas de código de la caída fallos en el copiado rápido que supone estar en una carpeta y caer en otra.</p>
 <p>Este truco también puedes usarlo para todo tipo de caídas.</p>
 <h2>Magia y habilidades especiales</h2>
@@ -250,15 +250,27 @@ ______¦_______¦______</code></pre>
 _/j  L l\_!
 </code></pre>
 <p>Aunque no os lo creáis la magia existe dentro de la computación. El término magia se utiliza para describir código que maneja tareas complejas con una interfaz muy sencilla. Vamos yo digo «Alakazam» (una interfaz muy sencilla) y se produce una bola de fuego (una tarea muy compleja).</p>
+<p>Los hechizos de ataque que generan diferentes daños pueden ser representados de diferentes maneras. </p>
+<ul>
+<li><strong>Daño por eectores defectuoso.</strong> El hechizo hace que los sectores en los que está tu código estén defectuoso con lo que puedes perder lineas de código.</li>
+<li><strong>Daño por orrado.</strong> Directamente se borran partes aleatorias del código que forma tu script.</li>
+</ul>
+</div><div class="saltopagina even"></div><div class='columns'>
+<ul>
+<li><strong>Daño por encriptación o rasomware.</strong> Parte de tu código es encriptado con lo que no puedes acceder a él y queda inservible.</li>
+<li><strong>Daño por bloqueo.</strong> Se te quitan los permisos y se te bloquea el acceso a parte de tu código.</li>
+<li><strong>Daño por bucle infinito.</strong> Parte de tus líneas entran en bucle infinito y debes pararlas y dejarlas de usar para no quedarte encerrado en un bucle infinito de ejecución.</li>
+</ul>
+<p>A la vez los tipos de daños, las resistencias y las inmunidades pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. </p>
 <p>XXX</p>
 <p>Los <strong>hechizos de ralentizar</strong> puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los <strong>hechizos de aceleración</strong> todo lo contrario.</p>
 <p>Los <strong>hechizos que juegan con versiones falsas de ti</strong>, pueden usar los <i>backups</i> para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.</p>
 <p>Los <strong>hechizos de destierro</strong> pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. </p>
 <p>XXX</p>
-<p>Las escuelas de magia o las tradiciones mágicas pueden ser representadas diferentes metodologías de desarrollo, como SCRUM, Kaban, SAFe, Waterfall, etc.</p>
+<p>Las <strong>escuelas de magia o las tradiciones mágicas</strong> pueden ser representadas diferentes <strong>metodologías de desarrollo</strong>, como SCRUM, Kaban, SAFe, Waterfall, etc.</p>
 <h3>Subrutinas {Habilidades especiales}</h3>
 <p>XXX</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Borrado y diferentes estados</h2>
 <p>La muerte viene representada por el borrado. <strong>Los scripts no mueren, sino que son borrados</strong>, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.</p>
 <p>Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.</p>
@@ -280,7 +292,7 @@ _/j  L l\_!
 <li><strong>Exploiteado {Mareado}</strong> Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus <i>exploits</i>, fallos de seguridad de tu código. </li>
 <li><strong>Bloqueado {Paralizado}</strong> El proceso que ejecuta tu script se ha quedado bloqueado y no puedes hacer nada hasta que no te desbloquees.</li>
 </ul>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Librerías y periféricos {Equipo}</h2>
 <pre><code>      /| ________________
 O|===|* &gt;________________&gt;
@@ -390,7 +402,7 @@ O|===|* &gt;________________&gt;
 </tr>
 </tbody>
 </table>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Herramientas</h3>
 <p>Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.</p>
 <ul>
@@ -412,7 +424,7 @@ O|===|* &gt;________________&gt;
 <h3>Objetos mágicos</h3>
 <p>Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.</p>
 <p>Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos llamarlo una mejora de procesador, redundancia de procesador o un bus de procesador.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Escalas y tamaños</h2>
 <p>Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.</p>
 <p>Por debajo puedes usar bytes {B} para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.</p>
@@ -445,7 +457,7 @@ O|===|* &gt;________________&gt;
 <li><strong>Limpiar de virus, troyanos y malware</strong> un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.</li>
 <li><strong>Rescatar unos <i>backups</i></strong> de unas facturas en hoja de cálculo de un grupo de <i>bugs</i> que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.</li>
 </ul>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Helpers</h2>
 <pre><code>       ,
       /|    
@@ -483,7 +495,7 @@ O|===|* &gt;________________&gt;
 <li><strong>nolan BUSHNELL, kevin MITNICK</strong> Engaño y Crepúsculo.</li>
 </ul>
 <p>Se recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas. No le rezas a Nolan Bushnell, le rezas a Bushnell</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Bestiario</h2>
 <p>En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.</p>
 <h3>Paquetes de software binarios y hexadecimales {Dragones cromáticos o metálicos}</h3>
@@ -527,7 +539,7 @@ O|===|* &gt;________________&gt;
 |___________|／</code></pre>
 <p>También conocido como «device null» en inglés o «/dev/null» por su <i>path</i> en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.</p>
 <p>Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en muestra mazmorra binaría podemos recurrir a «c:/nul» para sistemas Windows o usar otros dispositivos como «/dev/lp» {impresora} que te convierte en papel {petrificación}.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Troyarcos {Orco}</h3>
 <pre><code class="language-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -545,7 +557,7 @@ O|===|* &gt;________________&gt;
 <p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
 <p>Es una mezcla de «troyano» + «orco». Representa a todas esas razas medianas y grandes como orcos, trolls, hobgoblins, osgos o gnolls. Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las órdenes que recibieron de ellas.</p>
 <p>Puedes ponerles diferentes complementos para diferenciarlos, como troyarcos pirateados, troyarcos de la darkweb, troyarcos de ransonware, etc. Si quieres los nombres, de sus clanes pueden nombres que parezcan virus informáticos de los 2000 como Mydoom, Sobig, Klez, ILOVEYOU, WannaCry, etc.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Licencia</h2>
 <p>Creado para la <a href="https://itch.io/jam/weirdungeon">Weirdungeon JAM</a> organizada por <a href="https://asaltaelrol.itch.io/">Asaltadoras del Rol</a>. El código fuente puedes encontrarlo en <a href="https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon">GitHub/IdeasRoleras</a>.</p>
 <p>El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:</p>
@@ -560,7 +572,7 @@ O|===|* &gt;________________&gt;
 <li>El orco publicado en <a href="https://emojicombos.com/orc-head-ascii-art">emojicombos.com</a>.</li>
 </ul>
 <p>Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en <a href="https://davrivas.itch.io/licencia-entre-colegas">davrivas.itch.io/licencia-entre-colegas</a>.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <pre><code>))))))))`"###mnn$$$$"""%%%%%%%`""$$$$$$$mmn..m###(((((((((((((((((((((((((((((((((.m####"'((
 ))))))))))"$$$""'%%%%%%%%%%%%%%%%%%%%%%`""$$$$$n###.(((((((((((((((((((((((((.m####"'(((((
 )))))))))))$##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`"$$$n#.(((((((((((((((((((.m####"'(((((((
