@@ -76,11 +76,13 @@ Si tu juego tiene habilidades, usaremos comandos para simular habilidades
 * **make {Reparar, construir}** permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerías y unos ficheros de configuración crear y/o reparar un programa.
 * **pwd {Supervivencia, orientación}** permite saber dónde estás dentro del sistema de carpetas dándote tu _path_ actual.
 
-
-
 ## Sistema de carpetas {Mazmorra}
 
-Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en busca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
+Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en busca de algo, cosa que también veremos más adelante.
+
+
+
+Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.
 
 Puedes usar directamente usa mazmorra ya creada y modificarla para darle cierto sabor computacional o crearla desde el principio con su propio diseño de directorio de carpetas.
 
@@ -102,9 +104,9 @@ Los ficheros tienen una representación física como si fueran mesas, camas, est
 
 Las puertas con cerraduras son simples directorios cerrados con contraseñas y el script en vez de usar ganzúas usan diccionarios de contraseña, hacks de fuerza bruta y demás herramientas para sacar contraseñas.
 
-
-
 Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña, para explorar todo el sistema de directorios es posible que algún cron rearme la contraseña y la cambie, con lo que si no han hecho algo para evitarlo tendrán que sacar la nueva contraseña.
+
+
 
 ### Enlace simbólico duro {Puerta}
 
@@ -124,13 +126,13 @@ Los enlaces simbólicos suaves son, en informática, enlaces que no representan 
 
 Normalmente como buenos pasadizos secretos, **están escondidos** y hay que hacer **tiradas de ls {Percepción} o grep {Buscar}** para encontrarlos. Seguramente tendrán **trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}** y pueden que haya que descubrir alguna contraseña para poder acceder por ellos.
 
-
-
 ### Crons
 
-Los _crons_ o tareas programadas son acciones que se ejecutan cada cierto tiempo. Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta.
+Los _crons_ o tareas programadas son acciones que se ejecutan cada cierto tiempo. 
 
-Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:
+
+
+Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta. Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:
 
 * Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de manera permanente.
 * Un cron borra los ficheros más antiguos de una carpeta de modo que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.
@@ -210,7 +212,7 @@ En una **trampa de foso te mata la gravedad** (y los pinchos del fondo), pero en
 
 Este truco también puedes usarlo para todo tipo de caídas.
 
-## Magia y habilidades especiales
+## Magia y subrutinas
 
 La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede tener un juego de rol de mazmorreo pueden llegar a ser muy grandes. Así que trataremos de dar unas ayudas e indicaciones para que puedas hacer las conversiones que necesites.
 
@@ -231,7 +233,7 @@ Los hechizos de ataque que generan diferentes daños pueden ser representados de
 * **Daño por bloqueo.** Se te quitan los permisos y se te bloquea el acceso a ciertas partes de tu código.
 * **Daño por bucle infinito.** Parte de tus líneas entran en bucle infinito y debes pararlas y dejarlas de usar para no quedarte encerrado en un bucle infinito de ejecución.
 
-A la vez los tipos de daños, las resistencias y las inmunidades pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. 
+A la vez los **tipos de daños, las resistencias y las inmunidades** pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. 
 
 Hechizos de **teleportación, movimiento rápido y similares** deberían jugar con el acceso a disco duro, siendo tus líneas de código borradas de unos sectores de disco duro para a continuación ser grabados en la otra punta del disco duro y, por tanto, aparecer en otros sitios.
 
@@ -243,7 +245,7 @@ Los **hechizos que juegan con versiones falsas de ti**, pueden usar los _backups
 
 Los **hechizos de destierro** pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. 
 
-XXX
+Los **conjuros de adivinación** sería interesante convertirlos en llamadas a páginas web como Wikipedia, a API y a webservices. Las premoniciones serían la información que reciban de esas llamadas.
 
 Las **escuelas de magia o las tradiciones mágicas** pueden ser representadas diferentes **metodologías de desarrollo**, como SCRUM, Kaban, SAFe, Waterfall, etc.
 
@@ -251,11 +253,11 @@ Las **escuelas de magia o las tradiciones mágicas** pueden ser representadas di
 
 ### Subrutinas {Habilidades especiales}
 
-Una subrutina es un bloque de código separado dentro de un script que realiza una tarea específica pudiendo ser llamado tantas veces como sea necesario. Así que las subrutinas pueden representar todos esos _feats_, habilidades de clases y/o raza que suelen caracterizar a los perosnajes de los juegos de mazmorreo.
+Una subrutina es un bloque de código separado dentro de un script que realiza una tarea específica pudiendo ser llamado tantas veces como sea necesario. Así que las subrutinas pueden representar todos esos _feats_, habilidades de clases y/o raza que suelen caracterizar a los personajes de los juegos de mazmorreo.
 
-Estas habilidades como los hechizos pueden ser muchísimos, así que como estos, vamos a darte una guía general de como convertirlos en subrutinas de programación.
+Estas habilidades como los hechizos pueden ser muchísimos, así que deberías usar las mismas reglas que para las conversiones de lo hechizos.
 
-XXX
+Para empezar
 
 
 

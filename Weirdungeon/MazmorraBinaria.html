@@ -130,9 +130,10 @@
 <li><strong>make {Reparar, construir}</strong> permite compilar de forma que unas líneas de códigos, unas bases de datos, unas librerías y unos ficheros de configuración crear y/o reparar un programa.</li>
 <li><strong>pwd {Supervivencia, orientación}</strong> permite saber dónde estás dentro del sistema de carpetas dándote tu <i>path</i> actual.</li>
 </ul>
-</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Sistema de carpetas {Mazmorra}</h2>
-<p>Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en busca de algo, cosa que también veremos más adelante. Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.</p>
+<p>Tus scripts por alguna razón que va veremos más delante deben adentrarse en un sistema de carpetas y archivos desconocido en busca de algo, cosa que también veremos más adelante.</p>
+</div><div class="saltopagina even"></div><div class='columns'>
+<p>Por tanto, todas las mazmorras, ruinas, castillos, fortalezas, cuevas, etc. son sistemas de carpetas en los que se van a adentrar.</p>
 <p>Puedes usar directamente usa mazmorra ya creada y modificarla para darle cierto sabor computacional o crearla desde el principio con su propio diseño de directorio de carpetas.</p>
 <p>Este aire computacional se consigue porque normalmente las carpetas tienen subcarpetas y estas, a su vez, más subcarpetas hasta llegar a una subcarpeta que no tenga sus propias subcarpetas y tengas que volver al nivel superior y probar otras carpetas.</p>
 <p>Para simular que desde una carpeta se pueda acceder a otra carpeta que no este directamente por encima o por debajo de su posición, podemos usar enlaces duros {puertas y pasillos} o enlaces blandos {puertas secretas y pasadizos ocultos}.</p>
@@ -156,8 +157,8 @@
 <p>Los ficheros tienen una representación física como si fueran mesas, camas, estatuas de piedra. Por ejemplo, entras en una carpeta donde hay archivos ficheros EPUB a ambos lados de la carpeta como si fueran estatuas de piedra y un gran fichero PDF en el centro a modo de mesa de banquete.</p>
 <h3>Directorio/carpeta protegida {Estancia con puerta con cerradura}</h3>
 <p>Las puertas con cerraduras son simples directorios cerrados con contraseñas y el script en vez de usar ganzúas usan diccionarios de contraseña, hacks de fuerza bruta y demás herramientas para sacar contraseñas.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
 <p>Como tus scripts van a tener que pasar muchas veces por carpetas con contraseña, para explorar todo el sistema de directorios es posible que algún cron rearme la contraseña y la cambie, con lo que si no han hecho algo para evitarlo tendrán que sacar la nueva contraseña.</p>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Enlace simbólico duro {Puerta}</h3>
 <pre><code>____________________
 
@@ -183,10 +184,10 @@ ______█-------█______</code></pre>
 ______¦_______¦______</code></pre>
 <p>Los enlaces simbólicos suaves son, en informática, enlaces que no representan directamente lo que está enlazado. Si borrásemos un enlace suave, solo borraríamos el enlace en sí mismo, no su objetivo. Es por ello que los enlaces simbólicos suaves <strong>representan los pasadizos secretos</strong>. Son accesos débiles o suaves entre carpetas que aparecen y desaparecen y no tienen una conexión fuerte con la carpeta destino. No se puede acceder directamente entre dos carpetas usando un enlace suave, no podrías disparar desde una carpeta a otra a través de enlaces suaves. Son estrechos, con recodos, oscuros, etc. De hecho no tienes claro ni en donde vas a acabar.</p>
 <p>Normalmente como buenos pasadizos secretos, <strong>están escondidos</strong> y hay que hacer <strong>tiradas de ls {Percepción} o grep {Buscar}</strong> para encontrarlos. Seguramente tendrán <strong>trampas de activación de scripts de defensa {de cuchillas, proyectiles y péndulos}</strong> y pueden que haya que descubrir alguna contraseña para poder acceder por ellos.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Crons</h3>
-<p>Los <i>crons</i> o tareas programadas son acciones que se ejecutan cada cierto tiempo. Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta.</p>
-<p>Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:</p>
+<p>Los <i>crons</i> o tareas programadas son acciones que se ejecutan cada cierto tiempo. </p>
+</div><div class="saltopagina even"></div><div class='columns'>
+<p>Son una forma fácil para explicar todo lo que funcione independientemente dentro del sistema de carpeta. Siendo creativo un cron puede explicar bastantes cosas de las que pueden pasar en una mazmorra. Veamos algunos ejemplos:</p>
 <ul>
 <li>Cada cierto tiempo un cron hace una copia de seguridad de una carpeta. Todo el que este dentro de esa carpeta se moverá más lento debido a gasto de procesador que significa eso. Esto puede simularse suelos llenos de agua o embarrados donde moverse sea difícil o zonas mágicas con hechizos de ralentizar lanzados de manera permanente.</li>
 <li>Un cron borra los ficheros más antiguos de una carpeta de modo que los restos de cadáveres de antiguos monstruos muertos desaparecen y otro cron copia siempre unos ficheros con las trampas de la carpeta de forma que las vuelve a reactivar y tus scripts deberán volver a enfrentarse con las trampas que habían desactivado.</li>
@@ -232,7 +233,7 @@ ______¦_______¦______</code></pre>
 <p>Las trampas de foso puedes describirlas como enlaces simbólicos que aparecen debajo de tus scripts y les llevan a una carpeta vacía que es el propio pozo.</p>
 <p>En una <strong>trampa de foso te mata la gravedad</strong> (y los pinchos del fondo), pero en una computadora no existe la gravedad como tal, así que podemos simular la perdida de líneas de código de la caída fallos en el copiado rápido que supone estar en una carpeta y caer en otra.</p>
 <p>Este truco también puedes usarlo para todo tipo de caídas.</p>
-<h2>Magia y habilidades especiales</h2>
+<h2>Magia y subrutinas</h2>
 <p>La cantidad de hechizos, habilidades especiales, trucos y maniobras que puede tener un juego de rol de mazmorreo pueden llegar a ser muy grandes. Así que trataremos de dar unas ayudas e indicaciones para que puedas hacer las conversiones que necesites.</p>
 <h3>Magia {Hechizos}</h3>
 <pre><code>         /^\
@@ -261,19 +262,19 @@ _/j  L l\_!
 <li><strong>Daño por bloqueo.</strong> Se te quitan los permisos y se te bloquea el acceso a ciertas partes de tu código.</li>
 <li><strong>Daño por bucle infinito.</strong> Parte de tus líneas entran en bucle infinito y debes pararlas y dejarlas de usar para no quedarte encerrado en un bucle infinito de ejecución.</li>
 </ul>
-<p>A la vez los tipos de daños, las resistencias y las inmunidades pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. </p>
+<p>A la vez los <strong>tipos de daños, las resistencias y las inmunidades</strong> pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. </p>
 <p>Hechizos de <strong>teleportación, movimiento rápido y similares</strong> deberían jugar con el acceso a disco duro, siendo tus líneas de código borradas de unos sectores de disco duro para a continuación ser grabados en la otra punta del disco duro y, por tanto, aparecer en otros sitios.</p>
 <p>El tema de <strong>volar es más complicado</strong>, ya que, como hemos dicho, la física es extraña en las mazmorras informáticas. En cierta forma se podrían simular simplemente jugando con que el script está más en la memoria RAM que en el disco duro y dando al script las ventajas que dar volar. Estas serían poder acceder a sitios de la carpeta que no son accesibles normalmente desde disco duro, pero sí desde memoria, poder esquivar ciertos peligros porque realmente no estás en la carpeta sino en la memoria y no estar accesible a la hora de recibir ataques.</p>
 <p>Los <strong>hechizos de ralentizar</strong> puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los <strong>hechizos de aceleración</strong> todo lo contrario.</p>
 <p>Los <strong>hechizos que juegan con versiones falsas de ti</strong>, pueden usar los <i>backups</i> para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.</p>
 <p>Los <strong>hechizos de destierro</strong> pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. </p>
-<p>XXX</p>
+<p>Los <strong>conjuros de adivinación</strong> sería interesante convertirlos en llamadas a páginas web como Wikipedia, a API y a webservices. Las premoniciones serían la información que reciban de esas llamadas.</p>
 <p>Las <strong>escuelas de magia o las tradiciones mágicas</strong> pueden ser representadas diferentes <strong>metodologías de desarrollo</strong>, como SCRUM, Kaban, SAFe, Waterfall, etc.</p>
 </div><div class="saltopagina odd"></div><div class='columns'>
 <h3>Subrutinas {Habilidades especiales}</h3>
-<p>Una subrutina es un bloque de código separado dentro de un script que realiza una tarea específica pudiendo ser llamado tantas veces como sea necesario. Así que las subrutinas pueden representar todos esos <i>feats</i>, habilidades de clases y/o raza que suelen caracterizar a los perosnajes de los juegos de mazmorreo.</p>
-<p>Estas habilidades como los hechizos pueden ser muchísimos, así que como estos, vamos a darte una guía general de como convertirlos en subrutinas de programación.</p>
-<p>XXX</p>
+<p>Una subrutina es un bloque de código separado dentro de un script que realiza una tarea específica pudiendo ser llamado tantas veces como sea necesario. Así que las subrutinas pueden representar todos esos <i>feats</i>, habilidades de clases y/o raza que suelen caracterizar a los personajes de los juegos de mazmorreo.</p>
+<p>Estas habilidades como los hechizos pueden ser muchísimos, así que deberías usar las mismas reglas que para las conversiones de lo hechizos.</p>
+<p>Para empezar</p>
 </div><div class="saltopagina even"></div><div class='columns'>
 <h2>Borrado y diferentes estados</h2>
 <p>La muerte viene representada por el borrado. <strong>Los scripts no mueren, sino que son borrados</strong>, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.</p>
