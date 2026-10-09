@@ -222,18 +222,20 @@ Aunque no os lo creáis la magia existe dentro de la computación. El término m
 
 Los hechizos de ataque que generan diferentes daños pueden ser representados de diferentes maneras. 
 
-* **Daño por eectores defectuoso.** El hechizo hace que los sectores en los que está tu código estén defectuoso con lo que puedes perder lineas de código.
-* **Daño por orrado.** Directamente se borran partes aleatorias del código que forma tu script.
+* **Daño por sectores defectuoso.** El hechizo hace que los sectores en los que está tu código estén defectuoso con lo que puedes perder lineas de código.
+* **Daño por borrado.** Directamente se borran partes aleatorias del código que forma tu script.
 
 
 
 * **Daño por encriptación o rasomware.** Parte de tu código es encriptado con lo que no puedes acceder a él y queda inservible.
-* **Daño por bloqueo.** Se te quitan los permisos y se te bloquea el acceso a parte de tu código.
+* **Daño por bloqueo.** Se te quitan los permisos y se te bloquea el acceso a ciertas partes de tu código.
 * **Daño por bucle infinito.** Parte de tus líneas entran en bucle infinito y debes pararlas y dejarlas de usar para no quedarte encerrado en un bucle infinito de ejecución.
 
 A la vez los tipos de daños, las resistencias y las inmunidades pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. 
 
-XXX
+Hechizos de **teleportación, movimiento rápido y similares** deberían jugar con el acceso a disco duro, siendo tus líneas de código borradas de unos sectores de disco duro para a continuación ser grabados en la otra punta del disco duro y, por tanto, aparecer en otros sitios.
+
+El tema de **volar es más complicado**, ya que, como hemos dicho, la física es extraña en las mazmorras informáticas. En cierta forma se podrían simular simplemente jugando con que el script está más en la memoria RAM que en el disco duro y dando al script las ventajas que dar volar. Estas serían poder acceder a sitios de la carpeta que no son accesibles normalmente desde disco duro, pero sí desde memoria, poder esquivar ciertos peligros porque realmente no estás en la carpeta sino en la memoria y no estar accesible a la hora de recibir ataques.
 
 Los **hechizos de ralentizar** puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los **hechizos de aceleración** todo lo contrario.
 
@@ -245,7 +247,13 @@ XXX
 
 Las **escuelas de magia o las tradiciones mágicas** pueden ser representadas diferentes **metodologías de desarrollo**, como SCRUM, Kaban, SAFe, Waterfall, etc.
 
+
+
 ### Subrutinas {Habilidades especiales}
+
+Una subrutina es un bloque de código separado dentro de un script que realiza una tarea específica pudiendo ser llamado tantas veces como sea necesario. Así que las subrutinas pueden representar todos esos _feats_, habilidades de clases y/o raza que suelen caracterizar a los perosnajes de los juegos de mazmorreo.
+
+Estas habilidades como los hechizos pueden ser muchísimos, así que como estos, vamos a darte una guía general de como convertirlos en subrutinas de programación.
 
 XXX
 

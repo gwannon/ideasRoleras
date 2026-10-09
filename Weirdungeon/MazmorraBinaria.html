@@ -252,25 +252,29 @@ _/j  L l\_!
 <p>Aunque no os lo creáis la magia existe dentro de la computación. El término magia se utiliza para describir código que maneja tareas complejas con una interfaz muy sencilla. Vamos yo digo «Alakazam» (una interfaz muy sencilla) y se produce una bola de fuego (una tarea muy compleja).</p>
 <p>Los hechizos de ataque que generan diferentes daños pueden ser representados de diferentes maneras. </p>
 <ul>
-<li><strong>Daño por eectores defectuoso.</strong> El hechizo hace que los sectores en los que está tu código estén defectuoso con lo que puedes perder lineas de código.</li>
-<li><strong>Daño por orrado.</strong> Directamente se borran partes aleatorias del código que forma tu script.</li>
+<li><strong>Daño por sectores defectuoso.</strong> El hechizo hace que los sectores en los que está tu código estén defectuoso con lo que puedes perder lineas de código.</li>
+<li><strong>Daño por borrado.</strong> Directamente se borran partes aleatorias del código que forma tu script.</li>
 </ul>
 </div><div class="saltopagina even"></div><div class='columns'>
 <ul>
 <li><strong>Daño por encriptación o rasomware.</strong> Parte de tu código es encriptado con lo que no puedes acceder a él y queda inservible.</li>
-<li><strong>Daño por bloqueo.</strong> Se te quitan los permisos y se te bloquea el acceso a parte de tu código.</li>
+<li><strong>Daño por bloqueo.</strong> Se te quitan los permisos y se te bloquea el acceso a ciertas partes de tu código.</li>
 <li><strong>Daño por bucle infinito.</strong> Parte de tus líneas entran en bucle infinito y debes pararlas y dejarlas de usar para no quedarte encerrado en un bucle infinito de ejecución.</li>
 </ul>
 <p>A la vez los tipos de daños, las resistencias y las inmunidades pueden ser transformados en esas formas de hacer daño, el daño de fuego puede ser daño por borrado, el daño de frío por daño por sectores defectuosos, el daño sagrado como daños por encriptación, etc. Es cuestión ir asignando terminología computacional a cada tipo de daño que tenga vuestro juego. </p>
-<p>XXX</p>
+<p>Hechizos de <strong>teleportación, movimiento rápido y similares</strong> deberían jugar con el acceso a disco duro, siendo tus líneas de código borradas de unos sectores de disco duro para a continuación ser grabados en la otra punta del disco duro y, por tanto, aparecer en otros sitios.</p>
+<p>El tema de <strong>volar es más complicado</strong>, ya que, como hemos dicho, la física es extraña en las mazmorras informáticas. En cierta forma se podrían simular simplemente jugando con que el script está más en la memoria RAM que en el disco duro y dando al script las ventajas que dar volar. Estas serían poder acceder a sitios de la carpeta que no son accesibles normalmente desde disco duro, pero sí desde memoria, poder esquivar ciertos peligros porque realmente no estás en la carpeta sino en la memoria y no estar accesible a la hora de recibir ataques.</p>
 <p>Los <strong>hechizos de ralentizar</strong> puedes asociarlo con reducir tiempos de proceso o asignar menos recursos de memoria, mientras que los <strong>hechizos de aceleración</strong> todo lo contrario.</p>
 <p>Los <strong>hechizos que juegan con versiones falsas de ti</strong>, pueden usar los <i>backups</i> para referirse a esas copias. Cuando son solo parte de ti, podemos trabajar con la caché, unas copias rápidas de ti mismo para evitar procesar todo un script cada vez que se ejecute. Así un hechizo que te dé más PV puede decir que estás usando parte de tu caché.</p>
 <p>Los <strong>hechizos de destierro</strong> pueden usar «/dev/net» {red local} que te destierra a otras computadoras de la red {otros planos típicos del mazmorreo}. </p>
 <p>XXX</p>
 <p>Las <strong>escuelas de magia o las tradiciones mágicas</strong> pueden ser representadas diferentes <strong>metodologías de desarrollo</strong>, como SCRUM, Kaban, SAFe, Waterfall, etc.</p>
-<h3>Subrutinas {Habilidades especiales}</h3>
-<p>XXX</p>
 </div><div class="saltopagina odd"></div><div class='columns'>
+<h3>Subrutinas {Habilidades especiales}</h3>
+<p>Una subrutina es un bloque de código separado dentro de un script que realiza una tarea específica pudiendo ser llamado tantas veces como sea necesario. Así que las subrutinas pueden representar todos esos <i>feats</i>, habilidades de clases y/o raza que suelen caracterizar a los perosnajes de los juegos de mazmorreo.</p>
+<p>Estas habilidades como los hechizos pueden ser muchísimos, así que como estos, vamos a darte una guía general de como convertirlos en subrutinas de programación.</p>
+<p>XXX</p>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Borrado y diferentes estados</h2>
 <p>La muerte viene representada por el borrado. <strong>Los scripts no mueren, sino que son borrados</strong>, es decir, los sectores del disco duro donde se guardan los 1 y 0 que lo representan son desmagnetizados de forma que su código no se puede conseguir.</p>
 <p>Antes del borrado final, puede haber estados de «muerto casi en su totalidad». En estos casos podemos hablar de que está en la papelera o que su dirección en el disco de almacenamiento ha sido borrada de la FAT {File Allocation Table}, pero no magnéticamente del disco con lo que podría ser recuperado.</p>
@@ -292,7 +296,7 @@ _/j  L l\_!
 <li><strong>Exploiteado {Mareado}</strong> Muy parecido a bugeado, pero en este caso en ver de aprovecharte de tus bugs, se han aprovechado de tus <i>exploits</i>, fallos de seguridad de tu código. </li>
 <li><strong>Bloqueado {Paralizado}</strong> El proceso que ejecuta tu script se ha quedado bloqueado y no puedes hacer nada hasta que no te desbloquees.</li>
 </ul>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Librerías y periféricos {Equipo}</h2>
 <pre><code>      /| ________________
 O|===|* &gt;________________&gt;
@@ -402,7 +406,7 @@ O|===|* &gt;________________&gt;
 </tr>
 </tbody>
 </table>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Herramientas</h3>
 <p>Dentro de los juegos de mazmorreo, los personajes tienen a acceso a un tipo de equipo especial que son las herramientas. Estas herramientas también existen en nuestra mazmorra binaria y les permiten hacer cosas que de normal no pueden.</p>
 <ul>
@@ -424,7 +428,7 @@ O|===|* &gt;________________&gt;
 <h3>Objetos mágicos</h3>
 <p>Usar términos como «mejora», «actualización», «bus», «redundancia», etc. Es una opción muy buena para darle ese aire microinformática que buscamos.</p>
 <p>Si tenemos unos guantes de Vigor y el vigor lo hemos llamado Procesador, podemos llamarlo una mejora de procesador, redundancia de procesador o un bus de procesador.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Escalas y tamaños</h2>
 <p>Si necesitas trabajar con escalas y tamaños, puedes usar kilobytes {Kb} para cosas de tamaño humano, megabytes {Mb} para monstruos como trolls o ents y gigabytes {Gb} para dragones y gigantes.</p>
 <p>Por debajo puedes usar bytes {B} para espadas, cascos, escudos o sacos de dormir. Objetos más pequeños como anillos y colgantes deberían ser medidos en bits, si no lo has usado como moneda.</p>
@@ -457,7 +461,7 @@ O|===|* &gt;________________&gt;
 <li><strong>Limpiar de virus, troyanos y malware</strong> un sistema de carpetas, ya que podrían expandirse a más sistemas de archivos.</li>
 <li><strong>Rescatar unos <i>backups</i></strong> de unas facturas en hoja de cálculo de un grupo de <i>bugs</i> que se esconden en unas carpetas de sistema de una versión antigua y en desuso del sistema operativo {templo en ruinas}.</li>
 </ul>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h2>Helpers</h2>
 <pre><code>       ,
       /|    
@@ -495,7 +499,7 @@ O|===|* &gt;________________&gt;
 <li><strong>nolan BUSHNELL, kevin MITNICK</strong> Engaño y Crepúsculo.</li>
 </ul>
 <p>Se recomiendo usar como nombre de la divinidad la parte del nombre en mayúsculas. No le rezas a Nolan Bushnell, le rezas a Bushnell</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Bestiario</h2>
 <p>En este bestiario no te vamos a dar un listado de monstruos con estadísticas, sino una serie de consejos para convertir los monstruos de tu juego mazmorreros en unos y ceros.</p>
 <h3>Paquetes de software binarios y hexadecimales {Dragones cromáticos o metálicos}</h3>
@@ -539,7 +543,7 @@ O|===|* &gt;________________&gt;
 |___________|／</code></pre>
 <p>También conocido como «device null» en inglés o «/dev/null» por su <i>path</i> en el sistema, es un archivo especial que descarta toda la información que se escribe en o se redirige hacia él. Así que, como los limos, se va tragando todo lo que encuentra a su paso y lo hace desaparecer.</p>
 <p>Mientras que los limos tienen diferentes tipos que devoran cosas distintas, en muestra mazmorra binaría podemos recurrir a «c:/nul» para sistemas Windows o usar otros dispositivos como «/dev/lp» {impresora} que te convierte en papel {petrificación}.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <h3>Troyarcos {Orco}</h3>
 <pre><code class="language-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -557,7 +561,7 @@ O|===|* &gt;________________&gt;
 <p>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</p>
 <p>Es una mezcla de «troyano» + «orco». Representa a todas esas razas medianas y grandes como orcos, trolls, hobgoblins, osgos o gnolls. Estos invasores de fuera del sistema tienen como objetivo acabar con el sistema. Son primitivos, fieros y crueles y no se paran ante nada. Fueron creados por oscuras divinidades programadoras con secretos objetivos y no descansarán hasta cumplir las órdenes que recibieron de ellas.</p>
 <p>Puedes ponerles diferentes complementos para diferenciarlos, como troyarcos pirateados, troyarcos de la darkweb, troyarcos de ransonware, etc. Si quieres los nombres, de sus clanes pueden nombres que parezcan virus informáticos de los 2000 como Mydoom, Sobig, Klez, ILOVEYOU, WannaCry, etc.</p>
-</div><div class="saltopagina even"></div><div class='columns'>
+</div><div class="saltopagina odd"></div><div class='columns'>
 <h2>Licencia</h2>
 <p>Creado para la <a href="https://itch.io/jam/weirdungeon">Weirdungeon JAM</a> organizada por <a href="https://asaltaelrol.itch.io/">Asaltadoras del Rol</a>. El código fuente puedes encontrarlo en <a href="https://github.com/gwannon/ideasRoleras/tree/main/Weirdungeon">GitHub/IdeasRoleras</a>.</p>
 <p>El ASCII Art ha sido creado por mí o ha sido sacado de diferentes fuentes:</p>
@@ -572,7 +576,7 @@ O|===|* &gt;________________&gt;
 <li>El orco publicado en <a href="https://emojicombos.com/orc-head-ascii-art">emojicombos.com</a>.</li>
 </ul>
 <p>Este material está licenciado bajo la Licencia Entre Colegas (EC) v1.0. Puedes compartirlo, adaptarlo (siempre que no se use en obras derivadas que incorporen contenido de IA generativa) y jugarlo libremente, pero está PROHIBIDO cobrar dinero por dirigir partidas, participar en sesiones pagadas, o cualquier forma de comercialización de las partidas, cuando estas utilicen parte o la totalidad de este material. El uso del contenido para fines comerciales y para entrenamiento de IA generativa también está prohibido. Para usos permitidos y restricciones completas, consulta la licencia íntegra en <a href="https://davrivas.itch.io/licencia-entre-colegas">davrivas.itch.io/licencia-entre-colegas</a>.</p>
-</div><div class="saltopagina odd"></div><div class='columns'>
+</div><div class="saltopagina even"></div><div class='columns'>
 <pre><code>))))))))`"###mnn$$$$"""%%%%%%%`""$$$$$$$mmn..m###(((((((((((((((((((((((((((((((((.m####"'((
 ))))))))))"$$$""'%%%%%%%%%%%%%%%%%%%%%%`""$$$$$n###.(((((((((((((((((((((((((.m####"'(((((
 )))))))))))$##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`"$$$n#.(((((((((((((((((((.m####"'(((((((
