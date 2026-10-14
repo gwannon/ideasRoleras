@@ -10,17 +10,29 @@ El imperio ha visto la capacidad de usar militarmente los inventos desarrollados
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
-Antes de que las fuerzas de asalto terrestre del Devastador lleguen al parque entre la atmosfera 
+Antes de que el Devastador entre la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen el parque, deberán destruir las instalaciones del parque, para que el imperio no se quede con sus descubrimientos tecnológicos que dan su magia al parque.
+
+Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
 ## El parque
 
-XXX
+Modern World es único en su especie, es como titulaba la prensa «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+
+El planetoide donde ha sido construido tiene un espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves.
+
+Desde allí, pueden acceder al _resort_ donde son acomodados en sus lujosas _suites_. Tras refrescarse en sus habitaciones o tomar un buen tentempié pueden entrar en el parque y disfrutar de sus maravillas como el Vuelo del Ave de Trueno de West World o el Laberinto de seda de East World.
+
+En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque. Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones.
 
 El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
 
 ### Modern World
 
-Está sección que da nombre al parque está en el centro. Representa nuestro mundo, pero en un futuro eléctrico. XXX
+Está sección que da nombre al parque está en el centro. Representa nuestro mundo, pero en un futuro eléctrico.
+
+Hay maniquís que lustran tus zapatos, otros que entregan periódicos y folletos, otros que tiran de _rickshaws_ y te llevan a donde quieras, otros cortan setos, etc. También hay muchos andan por las calles y entran y salen de edificios simulando que son oficinistas, contables y secretarios que entran y salen de sus trabajos.
+
+Cada poco tiempo hay un desfile de maniquís con una banda de música de maniquís y carrozas celebrando las bondades de la electricidad y cómo se produce.
 
 ### North World
 
