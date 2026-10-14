@@ -14,57 +14,6 @@ Si la atrapan y la venden, podrán preparar la «Vidocq» para aguantar los peli
 
 XXX
 
-## Personajes
-
-XXX
-
-### Rosemary Cruz
-
-XXX
-
-* **RASGOS Y ETIQUETAS**
-  * XXX
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞆
-    * XXX 🞆
-  * XXX
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞆
-    * XXX 🞆
-  * XXX
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞆
-    * XXX 🞆
-  * XXX
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞊
-    * XXX 🞆
-    * XXX 🞆
-* **CLAVES**
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **SECRETOS**
-  * **Secreto de XXX:** _XXX_
-  * **Secreto de XXX:** _XXX_
-  * **Secreto de XXX:** _XXX_
-* **ESTADOS**
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-* **EQUIPO:** XXX
-* **APARIENCIA:** XXX
+|TortugaPersonajes.md|
 
 |Licencia.md|
