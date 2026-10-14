@@ -49,14 +49,15 @@ XXX
   * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
   * **Secreto de XXX:** _XXX_
 * **ESTADOS**
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
+  * 🞏 HERIDO
+  * 🞏 MUERTO (Presunto)
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ELECTROCUTADO
+  * 🞏 ASFIXIADO
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
@@ -100,14 +101,15 @@ XXX
   * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
   * **Secreto de XXX:** _XXX_
 * **ESTADOS**
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
+  * 🞏 HERIDO
+  * 🞏 MUERTO (Presunto)
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ELECTROCUTADO
+  * 🞏 ASFIXIADO
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
@@ -156,14 +158,15 @@ XXX
   * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
   * **Secreto de XXX:** _XXX_
 * **ESTADOS**
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
+  * 🞏 HERIDO
+  * 🞏 MUERTO (Presunto)
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ELECTROCUTADO
+  * 🞏 ASFIXIADO
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
@@ -207,13 +210,14 @@ XXX
   * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
   * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
 * **ESTADOS**
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
+  * 🞏 HERIDO
+  * 🞏 MUERTO (Presunto)
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ELECTROCUTADO
+  * 🞏 ASFIXIADO
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX

@@ -46,13 +46,13 @@ XXX
   * **Secreto de XXX:** _XXX_
   * **Secreto de XXX:** _XXX_
 * **ESTADOS**
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
-  * 🞏 XXX
+  * 🞏 HERIDO
+  * 🞏 MUERTO (Presunto)
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
   * 🞏 XXX
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX

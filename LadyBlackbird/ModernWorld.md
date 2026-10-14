@@ -68,11 +68,11 @@ XXX
 
 XXX
 
-**August siempre** ha sido el hombre de paja de la empresa, no tenía ni voz ni voto, pero eso acaba de cambiar. Ahora es uno más está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo.
+**August siempre** ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo.
 
 XXX
 
-**Dez** es el más joven de todos y por eso siempre se han minusvalorado sus ideas, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
+**Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
 XXX
 
