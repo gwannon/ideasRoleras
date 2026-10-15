@@ -72,24 +72,8 @@ XXX
 
 XXX
 
-Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo.
-
-Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
+> Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
 
 |ModernWorldPersonajes.md|
-
-## Dinámicas de poder
-
-Durante el año que el parque ha estado abierto, las dinámicas de poder han sido muy estables. Cada uno sabía su lugar y hasta donde llegaba su poder y su influencia.
-
-Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con sus cañones preparados para hacer fuego.
-
-**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo.
-
-XXX
-
-**Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
-
-XXX
 
 |Licencia.md|
