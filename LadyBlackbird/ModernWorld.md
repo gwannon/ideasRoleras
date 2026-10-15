@@ -18,7 +18,7 @@ Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno 
 
 Modern World es único en su especie, es como titulaba la prensa «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
 
-El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial en si.
+El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
 
 Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves, tras pagar unas desorbitadas tasas de aterrizaje.
 
@@ -38,11 +38,17 @@ Cada poco tiempo hay un desfile de maniquís con una banda de música de maniqu�
 
 ### North World
 
-XXX
+Es un mundo de dioses y héroes de los viejos mitos. Templos de mármol, suelos de piedra, criptas escondidas y fastuosas termas donde los visitantes se relajan y reciben otras atenciones terapéuticas como masajes y livaciones.
+
+Los visitantes son tratados como héroes a los que se alaba y se les ofrece ambrosía.
+
+Los desfiles militares, las carreras de cuadrigas eléctricas y los combates de gladiadores electrificados son frecuentes.
 
 ### South World
 
-XXX
+Esta zona es un gigantesco zoo con maniquís eléctricos con muchas de animales salvajes. 
+
+Hay zonas de selva, sabana, estepa e incluso tundra. En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
 
 ### West World
 
@@ -58,17 +64,27 @@ Duelos de electro-espadas aderezadas con acrobacias imposibles, llamaradas y ray
 
 Y todo finalmente aderezado con bailes acompañados de los chirridos de montones de articulaciones y engranajes metálicos.
 
+## Tecnología punta
+
+XXX
+
 ## El plan
 
 XXX
+
+Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo.
+
+Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
 
 |ModernWorldPersonajes.md|
 
 ## Dinámicas de poder
 
-XXX
+Durante el año que el parque ha estado abierto, las dinámicas de poder han sido muy estables. Cada uno sabía su lugar y hasta donde llegaba su poder y su influencia.
 
-**August siempre** ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo.
+Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con sus cañones preparados para hacer fuego.
+
+**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo.
 
 XXX
 

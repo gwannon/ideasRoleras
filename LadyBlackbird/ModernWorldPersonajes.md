@@ -1,6 +1,6 @@
 ## Personajes
 
-XXX
+Aunque Modern World es propiedad de August Thornberry, la junta directiva está formada por este último y los 3 ingenieros goblins que crearon todas las maravillas del parque, Yalp, Snot, Dez. Cuando el Devastador ha aparecido en el radar, la junta directiva ha hecho evacuar por su seguridad a todos los trabajadores y visitantes del parque y, en principio, solo quedan ellos 4 en todas las instalaciones.
 
 ### August Thornberry
 
