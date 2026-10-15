@@ -38,7 +38,7 @@ Cada poco tiempo hay un desfile de maniquís con una banda de música de maniqu�
 
 ### North World
 
-Es un mundo de dioses y héroes de los viejos mitos. Templos de mármol, suelos de piedra, criptas escondidas y fastuosas termas donde los visitantes se relajan y reciben otras atenciones terapéuticas como masajes y livaciones.
+Es un mundo de dioses y héroes de los viejos mitos. Templos de mármol, suelos de piedra, criptas escondidas y fastuosas termas donde los visitantes se relajan y reciben otras atenciones terapéuticas como masajes y libaciones.
 
 Los visitantes son tratados como héroes a los que se alaba y se les ofrece ambrosía.
 
@@ -54,7 +54,7 @@ Hay zonas de selva, sabana, estepa e incluso tundra. En estas zonas hay mamuts, 
 
 En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
 
-Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, a parte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
+Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
 
 ### East World
 

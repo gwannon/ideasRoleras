@@ -16,7 +16,7 @@ XXX
     * 🞊 _Proteger_
     * 🞆 _Puñetazos_
     * 🞆 _Valiente_
-  * Truhán
+  * Truhan
     * 🞊 _Adular_
     * 🞊 _Flirtear_
     * 🞊 _Juegos de manos_
