@@ -17,26 +17,32 @@ Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba el suicidio del d
 
 En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una personalidad a otra involuntariamente sin necesidad de la fórmula secreta. Tras descubrir que no puede replicar el compuesto químico que despertó a Hyde y que no puede controlar sus apariciones, decide suicidarse para acabar con sus problemas y castigar a Hyde que es perseguido por el asesinato sin sentido de Sir Danvers Carew y por el que acabará en el patíbulo si es atrapado.  
 
-Lo que poca gente sabe es que el relato de Robert Louis Stevenson tuvo una continuación escrita por uno de sus hijos bastardos, Robert Landis Stephenson (con PH en vez de V). Este hijo bastardo, borracho y pendenciero, decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego ya que tenía parte de los derechos de su padre y sus nombres eran muy parecidos. A Stephenson se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
+Lo que mucha gente desconoce es que al poco de la muerte de Robert Louis Stevenson surgió de la nada un tal Robert (que prefería ser conocido como Bob) que presumía de ser hijo legítimo de Stevenson y de una meretriz. Contaba, a quien quisiera escucharle, que su padre, que alardeaba de ser un dechado de virtudes, en realidad practicaba unos hábitos muy pecaminosos y que su relato de Jekyll y Hyde era un intento de confesar sus pecados.
 
-En la novela de Stephenson este desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
+La familia con ganas de evitar un escándalo sin saber si esto era verdad o mentira llegó a un acuerdo con el presunto bastardo y le ofreció el derecho a usar la obra como le viniera en gana. Así el joven Bob que creció entre _Penny dreadfuls_ y cuentos de Holmes decidió convertir al científico maldito y su alter ego en una especie de detective extraño que aprovechaba sus dos mitades para resolver crímenes.
+
+Dicen que consiguió publicar dos o tres historias hasta que fue hallado ahogado en un abrevadero de caballos en lo que claramente era un alto estado de embriaguez. Los historiadores no hallan pruebas fehacientes de estos hechos, pero algunas firmas y cartas dejan entrever la posibilidad de la existencia del tal Bob Stenvenson y su breve incursión en la literatura.
+En la novela de Bob este desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
 
 La historia continua con que Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
+
 Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: Investigadores privados».
 
 ## Preludio
 
-El libro de Stephenson tiene un preludio de unas pocas hojas en las que arregla el final de la novel de su padre para sus intereses.
+El libro de Bob tiene un preludio de unas pocas hojas en las que arregla el final de la novel de su padre para sus intereses.
 
 Hyde se despierta en la fría morgue de Scotland Yard tras haber estado al filo de la muerte durante unas horas. Parece ser que la dosis de veneno que tomo Jekyll solo lo dejo cerca de la muerte, suficiente para que Utterson creyera que había muerto.
 
 Hyde entrará en shock al darse cuenta de que ha estado a punto de morir y que Jekyll tiene un control total sobre su vida y su muerte. Si se ha suicidado una vez y podría hacerlo más veces, mientras que él sería incapaz de tomar esa decisión.
 
-Consigue huir de Scotland Yard y busca un sitio seguro donde quedarse y empieza a escribir y dejar notas para cuando se despierte Jekyll con las que llega a un acuerdo para que ambos sigan vivos. Tras varios días, consiguen llegar un acuerdo en que Hyde promete no matar bajo ningún concepto, pena de que Jekyll acabe con la vida de los dos.
+Consigue huir de Scotland Yard y busca un sitio seguro donde quedarse y empieza a escribir y dejar notas para cuando se despierte Jekyll con las que llega a un acuerdo para que ambos sigan vivos.
+Tras varios días, consiguen llegar un acuerdo en que Hyde promete no matar bajo ningún concepto, pena de que Jekyll acabe con la vida de los dos.
 
 Pero todavía hay un problema, Hyde es un fugitivo de la justicia. Por suerte, la policía descubre el plan de Sir Danvers Carew de matar a la reina e imponer una república en la monárquica Inglaterra. Esto hizo que Hyde pasara de ser un fugitivo buscado por asesinato a casi un héroe de la reina.
 
-A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Stephenson de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
+A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Bob Stevenson de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
+
 ## El primer caso
 
 El resto de la novela trata de un misterio que era un pastiche de un montón de casos de Sherlock Holmes, muy malamente hilvanados y a veces sin ningún tipo de sentido. Todo empieza cuando Gabriel Utterson pide ayuda a Jekyll con unas pruebas médicas para defender a un cliente suyo de acabar ahorcado.
@@ -46,14 +52,14 @@ La trama se va enrollando rápidamente y Hyde y Jekyll terminan investigando una
 Lo interesante en la trama es que Mr. Utterson descubre que investigar crímenes hace que Jekyll y Hyde se centren y las personalidades sean más estables y puedan funcionar mejor.
 
 La novela acaba con la extraña pareja resolviendo el caso y librando de la cárcel al cliente de Utterson.
-
 Con ello dejan en ridículo al inspector Newcomen y con él a Scotland Yard, ya que había detenido y encarcelado a una persona inocente. Newcomen jura vengarse de Jekyll y Hyde y desde entonces será uno de sus mayores detractores.
 
-En el epílogo de la novela, Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Stephenson de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
+En el epílogo de la novela, Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Bob Stevenson de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
 
 Es interesante descartar que al final de la novela sigue habiendo solo había 2 personas que saben el secreto de Jekyll y Hyde.
 
 * **Gabriel John Utterson** que ya lo sabía desde la novela anterior.
+
 * **Mister Poole**, el ayuda de cámara de Jekyll, tiene un extraño honor de mayordomo le impide hablar de su amo y contar su secreto.
 
 ## La creación de la agencia
@@ -65,9 +71,10 @@ Gabriel consideraba que esta nueva actividad podría mantener a Hyde en este lad
 
 Cómo puedes comprobarse, no se equivocaba, ya que parece que hasta el día de hoy esta treta ha funcionado como un reloj de cuco. Además, esperaba tener a un buen equipo de investigadores que le ayudara en sus pleitos y demandas a un coste muy barato.
 
-Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar que el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia. Tras una larga discusión que ocupo montones de notas, decidieron dejarlo al azar y la agencia se terminó llamando Hyde & Jekyll. 
+Jekyll alquiló un local en Belgravia y empezaron a montar el local de la agencia. A nadie le puede extrañar que el mayor punto de conflicto fue el orden de los apellidos en el cartel de la agencia.
+Tras una larga discusión que ocupo montones de notas, decidieron dejarlo al azar y la agencia se terminó llamando Hyde & Jekyll. 
 
-El día de la inauguración, Utterson les regaló un cuadro pintado por el mismo en que se les ve a los dos investigando una escena de un crimen. Jekyll aparece mirando un mechón de pelo con una lupa, mientras que Hyde tan encorvado olisqueando unos restos de sangre como si fuera un sabueso de caza siguiendo el rastro de un zorro.
+El día de la inauguración, Utterson les regaló un cuadro pintado por el mismo en que se les ve a los dos investigando en la escena de un crimen. Jekyll aparece mirando un mechón de pelo con una lupa, mientras que Hyde está encorvado olisqueando unos restos de sangre como si fuera un sabueso de caza siguiendo el rastro de un zorro.
 
 Jekyll odia ese cuadro y trata de hacerlo desaparecer siempre que puede. Hyde, sin embargo, lo adora y muchas veces imita la pose de perro rastreador, sobre todo cuando está con Utterson. Cada vez que Jekyll lo quita, ahí está Hyde para volver a ponerlo en la pared de la agencia.
 [![The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley](./assests/images/strangecaseofdr00stevuoft_0079.png "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")](https://archive.org/details/strangecaseofdr00stevuoft/strangecaseofdr00stevuoft/page/62/mode/2up "The strange case of Dr. Jekyll and Mr. Hyde. Illustrated by Charles Raymond Macauley")
@@ -988,6 +995,8 @@ No soy propietario de ninguna de las imágenes de este documento. Estoy usando i
 ## Agradecimientos
 
 * A [Un Lápiz HB](https://bsky.app/profile/lapizhb.bsky.social) por sus aportaciones que llevaron a hacer la regla de disparadores de transformación.
+* A [danieldoppelganger](https://bsky.app/profile/danieldoppelganger.bsky.social) por sus aportaciones sobre la vida de Robert Louis Stevenson y la creación de Bob Stevenson, haciendo más fiel históricamente (tanto como es posible) estas aventuras. 
+
 ## Otros proyectos que te pueden interesar
 
 Si os ha gustado este suplemento podéis probar otros de mis proyectos para Fate. Animaros y dadles un poco de cariño.
