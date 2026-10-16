@@ -24,7 +24,7 @@ Lo que mucha gente desconoce es que al poco de la muerte de Robert Louis Stevens
 
 La familia con ganas de evitar un escándalo sin saber si esto era verdad o mentira llegó a un acuerdo con el presunto bastardo y le ofreció el derecho a usar la obra como le viniera en gana. Así el joven Bob que creció entre _Penny dreadfuls_ y cuentos de Holmes decidió convertir al científico maldito y su alter ego en una especie de detective extraño que aprovechaba sus dos mitades para resolver crímenes.
 
-Dicen que consiguió publicar dos o tres historias hasta que fue hallado ahogado en un abrevadero de caballos en lo que claramente era un alto estado de embriaguez. Los historiadores no hallan pruebas fehacientes de estos hechos, pero algunas firmas y cartas dejan entrever la posibilidad de la existencia del tal Bob Stenvenson y su breve incursión en la literatura.
+Dicen que consiguió publicar dos o tres historias hasta que fue hallado ahogado en un abrevadero de caballos en lo que claramente era un alto estado de embriaguez. Los historiadores no hallan pruebas fehacientes de estos hechos, pero algunas firmas y cartas dejan entrever la posibilidad de la existencia del tal Bob Stevenson y su breve incursión en la literatura.
 
 \sp
 
