@@ -17,16 +17,16 @@ Originalmente, el Extraño caso de Dr. Jekyll y Mr. Hyde acaba el suicidio del d
 
 En la novela, Jekyll cada vez tiene menos control de su otro yo y pasa de una personalidad a otra involuntariamente sin necesidad de la fórmula secreta. Tras descubrir que no puede replicar el compuesto químico que despertó a Hyde y que no puede controlar sus apariciones, decide suicidarse para acabar con sus problemas y castigar a Hyde que es perseguido por el asesinato sin sentido de Sir Danvers Carew y por el que acabará en el patíbulo si es atrapado.  
 
-Lo que poca gente sabe es que su relato tuvo una continuación escrita por su hijo, Robert Louis Stevenson junior. El hijo borracho y pendenciero del maestro Stevenson decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego. A Robert junior se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
+Lo que poca gente sabe es que el relato de Robert Louis Stevenson tuvo una continuación escrita por uno de sus hijos bastardos, Robert Landis Stephenson (con PH en vez de V). Este hijo bastardo, borracho y pendenciero, decidió escribir una secuela del libro de su padre para poder pagar sus deudas de juego ya que tenía parte de los derechos de su padre y sus nombres eran muy parecidos. A Stephenson se le ocurrió la brillante idea de convertir a los personajes de su padre en detectives privados, tratando de seguir la estela de Sir Arthur Conan Doyle y su Sherlock Holmes.
 
-En la novela de Robert junior se desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
+En la novela de Stephenson este desmonta el final de su padre haciendo que Jekyll sobreviva a su intento de suicidio y descubriéndose que Sir Danvers Carew, miembro eminente del parlamento inglés, planeaba matar a la Reina Victoria e imponer una república en el Reino Unido. Esto hace que Hyde sea indultado del delito de asesinato por acabar con un enemigo del país.
 
-La historia continua con Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
+La historia continua con que Jekyll y Hyde se veían involucrados en un misterioso asesinato y al final del libro ambos montaban una agencia de detectives con la ayuda del abogado y amigo del Doctor Jekyll, Gabriel John Utterson. La idea era seguir escribiendo casos y ordeñando la vaca de los personajes de su padre, pero el libro fue tal fracaso que no se publicaron más continuaciones.
 Y de ahí salió la obra que tienes en tus manos «Doctor Jekyll y Mister Hyde: Investigadores privados».
 
 ## Preludio
 
-El libro de Robert junior tiene un preludio de unas pocas hijas en las que arregla el final de la novel de su padre para sus intereses.
+El libro de Stephenson tiene un preludio de unas pocas hojas en las que arregla el final de la novel de su padre para sus intereses.
 
 Hyde se despierta en la fría morgue de Scotland Yard tras haber estado al filo de la muerte durante unas horas. Parece ser que la dosis de veneno que tomo Jekyll solo lo dejo cerca de la muerte, suficiente para que Utterson creyera que había muerto.
 
@@ -36,7 +36,7 @@ Consigue huir de Scotland Yard y busca un sitio seguro donde quedarse y empieza 
 
 Pero todavía hay un problema, Hyde es un fugitivo de la justicia. Por suerte, la policía descubre el plan de Sir Danvers Carew de matar a la reina e imponer una república en la monárquica Inglaterra. Esto hizo que Hyde pasara de ser un fugitivo buscado por asesinato a casi un héroe de la reina.
 
-A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Robert junior de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
+A pesar de todo esto, al final del capítulo el inspector Newcomen sigue sospechando de Hyde y le asegura a Jekyll que no le quitará ojo a su amigo Hyde y terminará con sus huesos en el patíbulo. Newcomen fue el intento de Stephenson de tener su propio Lestrade y por eso lo metió con calzarlo en el libro.
 ## El primer caso
 
 El resto de la novela trata de un misterio que era un pastiche de un montón de casos de Sherlock Holmes, muy malamente hilvanados y a veces sin ningún tipo de sentido. Todo empieza cuando Gabriel Utterson pide ayuda a Jekyll con unas pruebas médicas para defender a un cliente suyo de acabar ahorcado.
@@ -49,7 +49,7 @@ La novela acaba con la extraña pareja resolviendo el caso y librando de la cár
 
 Con ello dejan en ridículo al inspector Newcomen y con él a Scotland Yard, ya que había detenido y encarcelado a una persona inocente. Newcomen jura vengarse de Jekyll y Hyde y desde entonces será uno de sus mayores detractores.
 
-En el epílogo de la novela, Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Robert junior de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
+En el epílogo de la novela, Utterson convence a Jekyll y Hyde de montar su propia agencia de detectives en un intento de Stephenson de hacer más novelas y explotar una posible saga de libros de misterios que nunca llegaron a escribirse.
 
 Es interesante descartar que al final de la novela sigue habiendo solo había 2 personas que saben el secreto de Jekyll y Hyde.
 
