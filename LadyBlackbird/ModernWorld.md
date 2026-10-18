@@ -10,13 +10,13 @@ El imperio ha visto la capacidad de usar militarmente los inventos desarrollados
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
-Antes de que el Devastador entre la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen el parque, deberán destruir las instalaciones del parque, para que el imperio no se quede con sus descubrimientos tecnológicos que dan su magia al parque.
+Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
 
 Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
 ## El parque
 
-Modern World es único en su especie, es como titulaba la prensa «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+Modern World es único en su especie. Es como titulaba la prensa «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
 
 El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
 
