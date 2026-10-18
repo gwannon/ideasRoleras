@@ -61,7 +61,7 @@ Lo primero es **darles un nombre y unos pronombres**. El nombre debe ser corto y
 
 
 
-Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastan 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
+Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastas 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
 
 La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, … Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo. También pueden almacenar ciertos conocimientos que les permitan hacer como especiales como pescar, tejer o desactivar explosivos.
 
@@ -694,6 +694,6 @@ Hecho bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/lega
 * Encantador balcón con caja de flores de brgfx de [Magnific](https://www.magnific.com/es/vector-gratis/encantador-balcon-caja-flores_290244994.htm)
 * Un mapa de los sistemas de tuberías de agua de brgfx de [Magnific](https://www.magnific.com/es/vector-gratis/mapa-sistemas-tuberias-agua_2451769.htm)
 * Máquina blanca realista 3d del lavaplatos … de vectorpocket de [Magnific](https://www.magnific.com/es/vector-gratis/maquina-blanca-realista-3d-lavaplatos-tres-estantes-metal-llenos-placas-limpias-vidrio_2890990.htm)
-* Estilo de dibujos animados tienda de mascotas supermercado ... de user15245033 de [Magnific](https://www.magnific.com/es/vector-gratis/estilo-dibujos-animados-tienda-mascotas-supermercado-arena-perros-gatos-casa-jugar-arbol-juguetes-herramientas-aseo-paquete-comida_11464181.htm)
+* Estilo de dibujos animados tienda de mascotas supermercado … de user15245033 de [Magnific](https://www.magnific.com/es/vector-gratis/estilo-dibujos-animados-tienda-mascotas-supermercado-arena-perros-gatos-casa-jugar-arbol-juguetes-herramientas-aseo-paquete-comida_11464181.htm)
 * Visión del hilo para el ganchillo de [Magnific](https://www.magnific.com/es/psd-gratis/vision-hilo-ganchillo_206469815.htm)
 * Sello de Pergeñado con Inteligencia humana por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)

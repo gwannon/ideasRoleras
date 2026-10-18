@@ -53,7 +53,7 @@ Lo primero es **darles un nombre y unos pronombres**. El nombre debe ser corto y
 
 \sp
 
-Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastan 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
+Continuamos con su forma. Cada nabuco **tiene mínimo 1 antena y 2 brazos** y tienes que repartir 3 puntos entre brazos y antenas. Si gastas 1 punto en antenas, obtienes 1 antena extra. Si gastas 1 punto en brazos, obtienes otro par de brazos.
 
 La memoria de los nabucos es muy corta y **cada antena les permite recordar un dato importante** entre escenas. Por ejemplo, la clave de la puerta, una dirección, … Si se quedan sin antenas libres, tendrán que borrar un dato para meter el nuevo. También pueden almacenar ciertos conocimientos que les permitan hacer como especiales como pescar, tejer o desactivar explosivos.
 
