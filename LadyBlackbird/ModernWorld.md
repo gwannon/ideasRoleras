@@ -4,7 +4,7 @@
 
 \conc
 
-es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
+es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
 
 El imperio ha visto la capacidad de usar militarmente los inventos desarrollados por August Thornberry, propietario de Modern World, y su grupo de ingenieros goblins, pero estos han rechazado venderle su tecnología. El imperio no lleva bien el rechazo. Si no se la dan por las buenas, tendrá que mandar un destructor para que la coja por la fuerza.
 

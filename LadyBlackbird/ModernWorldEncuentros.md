@@ -5,10 +5,10 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |1d6|Modern World|
 |---|---|
 |1|**¡Limpio, señor!:** Un maniquí eléctrico se empeña en limpiar vuestras botas y no acepta un no por respuesta. Seguirá al grupo hasta que le dejen limpiar sus botas.|
-|2|**XXX:** XXX|
-|3|**Robopsicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
+|2|**Rezagados:** Los últimos rezagados de la evacuación esperan en tropel al último transporte que les llevará al espacio puerto. La gente está muy nerviosa y asustada.|
+|3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
 |4|**XXX:** XXX|
-|5|**XXX:** XXX|
+|5|**Maletas abandonadas:** Los visitantes han abandonado sus pesadas maletas al salir huyendo. Si se pierde tiempo revisándolas, puede haber cualquier cosa y algunas pueden ser útiles.|
 |6|**Fuerzas de asalto:** Una lanzadera de asalto del Devastador se ha adelantado y ha dejado una brigada de soldados de asalto para asegurar la zona.|
 
 |1d6|North World|
@@ -31,12 +31,12 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 
 |1d6|East World|
 |---|---|
-|1|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para qu busquen y maten a los «forajidos» que vienen del Devastador.|
+|1|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para que busquen y maten a los «forajidos» que vienen del Devastador. O simplemente pillar sus pistolas eléctricas por lo que pudiera pasar.|
 |2|**XXX:** XXX|
 |3|**XXX:** XXX|
 |4|**Atracción cerrada:** Un equipo de mantenimiento había cerrado una atracción y al ordenar evacuar el parque se han dejado todo su equipo allí. Puede que haya cosas interesantes o que tus jugadores puedan recuperar algo importante que habían perdido.|
-|5|**XXX:** XXX|
-|6|**XXX:** XXX|
+|5|**Rickshaws:** Hay una cola de _rickshaws_ tirados por maniquíes eléctricos. Solo tienes que subirte y decirle a donde quieres ir para que el maniquí salga a toda velocidad.|
+|6|**Helio:** Un maniquí eléctrico con una gran cantidad de globos de helio deambula cerca. Normalmente, se los da gratis a los viandantes y enseguida tienen que volver a inflar, pero ahora no hay nadie que lo quiera y empieza tener problemas para mantenerse sujeto al suelo.|
 
 |1d6|West World|
 |---|---|
@@ -44,10 +44,10 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |2|**XXX:** XXX|
 |3|**Pillastres:** A veces hay polizones en las naves de los visitantes y estos se quedan en el parque hasta que les descubren y los devuelven a su casa. Os encontráis una pareja de esos pillastres saqueando los puestos de comida de la zona. Algo tendréis que hacer con ellos porque si se quedan aquí no saldrán bien parados.|
 |4|**XXX:** XXX|
-|5|**XXX:** XXX|
-|6|**XXX:** XXX|
+|5|**Caballos eléctricos:** En un abrevadero hay 4 caballos eléctricos con la carga al máximo. Los visitantes los usan como forma de moverse por la zona y también son perfectos para que tiren de algo pesado.|
+|6|**Tres equis:** El salón de variedades acababa de recibir de su pedido bebidas alcohólicas y hay varios barriles de gran tamaño con alcohol de bastante graduación. Se puede prender o usarlo para hacer unos buenos cócteles molotov.|
 
-|1d6|Espaciopuerto|
+|1d6|Espacio puerto|
 |---|---|
 |1|**XXX:** XXX|
 |2|**XXX:** XXX|
