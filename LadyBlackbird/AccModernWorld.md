@@ -4,9 +4,13 @@
 
 
 
-es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
+_**Modern World** es una aventura creeda por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG de John Harper](https://ladyblackbird.org/)._
 
-El imperio ha visto la capacidad de usar militarmente los inventos desarrollados por August Thornberry, propietario de Modern World, y su grupo de ingenieros goblins, pero estos han rechazado venderle su tecnología. El imperio no lleva bien el rechazo. Si no se la dan por las buenas, tendrá que mandar un destructor para que la coja por la fuerza.
+Modern World es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
+
+El imperio ha visto la capacidad de usar militarmente los inventos desarrollados por August Thornberry, propietario de Modern World, y su grupo de ingenieros goblins, pero estos han rechazado venderle su tecnología.
+
+El imperio no lleva bien el rechazo. Si no se la dan por las buenas, tendrá que mandar un destructor para que la coja por la fuerza.
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
@@ -24,11 +28,11 @@ Modern World es único en su especie. Es como titulaba la prensa «El lugar más
 
 El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
 
+
+
 Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves, tras pagar unas desorbitadas tasas de aterrizaje.
 
 Desde allí, pueden acceder al _resort_ donde son acomodados en sus lujosas _suites_. Tras refrescarse en sus habitaciones o tomar un buen tentempié pueden entrar en el parque y disfrutar de sus maravillas como el Vuelo del Ave de Trueno de West World o el Laberinto de kevlar de East World.
-
-
 
 En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs. Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
 
@@ -56,13 +60,7 @@ Esta zona es un gigantesco zoo con maniquís eléctricos con muchas de animales 
 
 Hay zonas de selva, sabana, estepa e incluso tundra. En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
 
-### West World
 
-En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
-
-
-
-Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
 
 ### East World
 
@@ -71,6 +69,12 @@ En la parte este tenemos East World, un pastiche de mitos y cuentos de lo más r
 Duelos de electro-espadas aderezadas con acrobacias imposibles, llamaradas y rayos y poderosos videntes que te leen la buenaventura.
 
 Y todo finalmente aderezado con bailes acompañados de los chirridos de montones de articulaciones y engranajes metálicos.
+
+### West World
+
+En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
+
+Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
 
 
 
@@ -88,7 +92,7 @@ XXX
 
 XXX
 
-> Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
+Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
 
 
 
@@ -96,256 +100,13 @@ XXX
 
 ## Personajes
 
-Aunque Modern World es propiedad de August Thornberry, la junta directiva está formada por este último y los 3 ingenieros goblins que crearon todas las maravillas del parque, Yalp, Snot, Dez. Cuando el Devastador ha aparecido en el radar, la junta directiva ha hecho evacuar por su seguridad a todos los trabajadores y visitantes del parque y, en principio, solo quedan ellos 4 en todas las instalaciones.
 
 
-### August Thornberry
+Aunque Modern World es propiedad de August Thornberry, la junta directiva está formada por este último y los 3 ingenieros goblins que crearon todas las maravillas del parque, Yalp, Snot, Dez.
 
-XXX
+Cuando el Devastador ha aparecido en el radar, la junta directiva ha hecho evacuar por su seguridad a todos los trabajadores y visitantes del parque y, en principio, solo quedan ellos 4 en todas las instalaciones.
 
-
-
-* **RASGOS Y ETIQUETAS**
-  * Caballero
-    * 🞊 _Etiqueta_
-    * 🞊 _Elegancia_
-    * 🞊 _Caballería_
-    * 🞊 _Baile_
-    * 🞊 _Gallardía_
-    * 🞊 _Proteger_
-    * 🞆 _Puñetazos_
-    * 🞆 _Valiente_
-  * Truhan
-    * 🞊 _Adular_
-    * 🞊 _Flirtear_
-    * 🞊 _Juegos de manos_
-    * 🞊 _Casino_
-    * 🞊 _Tirarse faroles_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-  * Atleta
-    * 🞊 _Correr_
-    * 🞊 _Esgrima_
-    * 🞊 _Estoque_
-    * 🞊 _Duelista_
-    * 🞊 _Disparar_
-    * 🞆 _Pistola_
-    * 🞆 _Acrobacias_
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-* **CLAVES**
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **SECRETOS**
-  * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
-  * **Secreto de XXX:** _XXX_
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 MUERTO (Presunto)
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 ASFIXIADO
-* **EQUIPO:** XXX
-* **APARIENCIA:** XXX
-
-
-
-
-
-### Yalp
-
-XXX
-
-
-
-* **RASGOS Y ETIQUETAS**
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-  * Goblin
-    * 🞊 _Cambiaformas_
-    * 🞊 _Conexiones_
-    * 🞊 _Visión nocturna_
-    * 🞊 _Dientes y garras_
-    * 🞆 _Imitar forma_
-    * 🞆 _Planear_
-    * 🞆 _Armadura adaptable_
-    * 🞆 _Bolsa de piel_
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-* **CLAVES**
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **SECRETOS**
-  * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
-  * **Secreto de XXX:** _XXX_
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 MUERTO (Presunto)
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 ASFIXIADO
-* **EQUIPO:** XXX
-* **APARIENCIA:** XXX
-
-
-
-
-
-### Snot
-
-XXX
-
-
-
-* **RASGOS Y ETIQUETAS**
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-  * Goblin
-    * 🞊 _Cambiaformas_
-    * 🞊 _Conexiones_
-    * 🞊 _Visión nocturna_
-    * 🞊 _Dientes y garras_
-    * 🞆 _Imitar forma_
-    * 🞆 _Planear_
-    * 🞆 _Armadura adaptable_
-    * 🞆 _Bolsa de piel_
-  * Chatarrero
-    * 🞊 _Identificar_
-    * 🞊 _Improvisar_
-    * 🞊 _Imperial_
-    * 🞊 _Artillería_
-    * 🞊 _Inalámbrico_
-    * 🞊 _Buscar_
-    * 🞊 _Reparar_
-    * 🞆 _Piezas sueltas_
-    * 🞆 _Propulsores_
-    * 🞆 _Explosivos_
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-* **CLAVES**
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **SECRETOS**
-  * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
-  * **Secreto de XXX:** _XXX_
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 MUERTO (Presunto)
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 ASFIXIADO
-* **EQUIPO:** XXX
-* **APARIENCIA:** XXX
-
-
-
-
-
-### Dez
-
-XXX
-
-
-
-* **RASGOS Y ETIQUETAS**
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-  * Goblin
-    * 🞊 _Cambiaformas_
-    * 🞊 _Conexiones_
-    * 🞊 _Visión nocturna_
-    * 🞊 _Dientes y garras_
-    * 🞆 _Imitar forma_
-    * 🞆 _Planear_
-    * 🞆 _Armadura adaptable_
-    * 🞆 _Bolsa de piel_
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-  * XXX
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞊 _XXX_
-    * 🞆 _XXX_
-    * 🞆 _XXX_
-* **CLAVES**
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-  * **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **SECRETOS**
-  * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
-  * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 MUERTO (Presunto)
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 ASFIXIADO
-* **EQUIPO:** XXX
-* **APARIENCIA:** XXX
-
-
-
-
-
-## Dinámicas de poder
-
-
+### Dinámicas de poder
 
 Durante el año que el parque ha estado abierto, las dinámicas de poder han sido muy estables. Cada uno sabía su lugar y hasta donde llegaba su poder y su influencia.
 
@@ -358,6 +119,270 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 **Snott** XXX
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
+
+
+
+
+
+### August Thornberry
+
+XXX
+
+
+
+**RASGOS Y ETIQUETAS**
+* Caballero
+  * 🞊 _Etiqueta_
+  * 🞊 _Elegancia_
+  * 🞊 _Caballería_
+  * 🞊 _Baile_
+  * 🞊 _Gallardía_
+  * 🞊 _Proteger_
+  * 🞆 _Puñetazos_
+  * 🞆 _Valiente_
+* Truhan
+  * 🞊 _Adular_
+  * 🞊 _Flirtear_
+  * 🞊 _Juegos de manos_
+  * 🞊 _Casino_
+  * 🞊 _Tirarse faroles_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+* Atleta
+  * 🞊 _Correr_
+  * 🞊 _Esgrima_
+  * 🞊 _Estoque_
+  * 🞊 _Duelista_
+  * 🞊 _Disparar_
+  * 🞆 _Pistola_
+  * 🞆 _Acrobacias_
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+
+**CLAVES**
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+
+**SECRETOS**
+* **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
+* **Secreto de XXX:** _XXX_
+
+**ESTADOS**
+* 🞏 HERIDO
+* 🞏 MUERTO (Presunto)
+* 🞏 CANSADO
+* 🞏 ENFADADO
+* 🞏 PERDIDO
+* 🞏 PERSEGUIDO
+* 🞏 ATRAPADO
+* 🞏 ELECTROCUTADO
+* 🞏 ASFIXIADO
+
+**EQUIPO:** XXX
+
+**APARIENCIA:** XXX
+
+
+
+
+
+### Yalp
+
+XXX
+
+
+
+**RASGOS Y ETIQUETAS**
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+* Goblin
+  * 🞊 _Cambiaformas_
+  * 🞊 _Conexiones_
+  * 🞊 _Visión nocturna_
+  * 🞊 _Dientes y garras_
+  * 🞆 _Imitar forma_
+  * 🞆 _Planear_
+  * 🞆 _Armadura adaptable_
+  * 🞆 _Bolsa de piel_
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+
+**CLAVES**
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+
+**SECRETOS**
+* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secreto de XXX:** _XXX_
+
+**ESTADOS**
+* 🞏 HERIDO
+* 🞏 MUERTO (Presunto)
+* 🞏 CANSADO
+* 🞏 ENFADADO
+* 🞏 PERDIDO
+* 🞏 PERSEGUIDO
+* 🞏 ATRAPADO
+* 🞏 ELECTROCUTADO
+* 🞏 ASFIXIADO
+
+**EQUIPO:** XXX
+
+**APARIENCIA:** XXX
+
+
+
+
+
+### Snot
+
+XXX
+
+
+
+**RASGOS Y ETIQUETAS**
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+* Goblin
+  * 🞊 _Cambiaformas_
+  * 🞊 _Conexiones_
+  * 🞊 _Visión nocturna_
+  * 🞊 _Dientes y garras_
+  * 🞆 _Imitar forma_
+  * 🞆 _Planear_
+  * 🞆 _Armadura adaptable_
+  * 🞆 _Bolsa de piel_
+* Chatarrero
+  * 🞊 _Identificar_
+  * 🞊 _Improvisar_
+  * 🞊 _Imperial_
+  * 🞊 _Artillería_
+  * 🞊 _Inalámbrico_
+  * 🞊 _Buscar_
+  * 🞊 _Reparar_
+  * 🞆 _Piezas sueltas_
+  * 🞆 _Propulsores_
+  * 🞆 _Explosivos_
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+
+**CLAVES**
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+
+**SECRETOS**
+* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secreto de XXX:** _XXX_
+
+**ESTADOS**
+* 🞏 HERIDO
+* 🞏 MUERTO (Presunto)
+* 🞏 CANSADO
+* 🞏 ENFADADO
+* 🞏 PERDIDO
+* 🞏 PERSEGUIDO
+* 🞏 ATRAPADO
+* 🞏 ELECTROCUTADO
+* 🞏 ASFIXIADO
+
+**EQUIPO:** XXX
+
+**APARIENCIA:** XXX
+
+
+
+
+
+### Dez
+
+XXX
+
+
+
+**RASGOS Y ETIQUETAS**
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+* Goblin
+  * 🞊 _Cambiaformas_
+  * 🞊 _Conexiones_
+  * 🞊 _Visión nocturna_
+  * 🞊 _Dientes y garras_
+  * 🞆 _Imitar forma_
+  * 🞆 _Planear_
+  * 🞆 _Armadura adaptable_
+  * 🞆 _Bolsa de piel_
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+* XXX
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
+  * 🞆 _XXX_
+
+**CLAVES**
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX_ CANCELAR: XXX
+
+**SECRETOS**
+* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
+
+**ESTADOS**
+* 🞏 HERIDO
+* 🞏 MUERTO (Presunto)
+* 🞏 CANSADO
+* 🞏 ENFADADO
+* 🞏 PERDIDO
+* 🞏 PERSEGUIDO
+* 🞏 ATRAPADO
+* 🞏 ELECTROCUTADO
+* 🞏 ASFIXIADO
+
+**EQUIPO:** XXX
+
+**APARIENCIA:** XXX
 
 
 
@@ -435,12 +460,12 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 
 ## Licencia
 
-XXX
+Este documento está bajo una licencia Creative Commons Attribution Non-Commercial Share Alike 3.0. 
 
-Documeento original: 
+[http://creativecommons.org/licenses/by-nc-sa/3.0/es/](http://creativecommons.org/licenses/by-nc-sa/3.0/es/)
 
-Titulos: https://fonts.google.com/specimen/My+Soul?preview.script=Latn
+Está basado en Lady Blackbird de John Harper.
 
-Fuente texto corrido: adobe-jenson-pro -> https://fonts.google.com/specimen/Rosarivo?preview.script=Latn
+[https://ladyblackbird.org/](https://ladyblackbird.org/)
 
 

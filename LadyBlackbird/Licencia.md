@@ -2,12 +2,12 @@
 
 ## Licencia
 
-XXX
+Este documento está bajo una licencia Creative Commons Attribution Non-Commercial Share Alike 3.0. 
 
-Documeento original: 
+[http://creativecommons.org/licenses/by-nc-sa/3.0/es/](http://creativecommons.org/licenses/by-nc-sa/3.0/es/)
 
-Titulos: https://fonts.google.com/specimen/My+Soul?preview.script=Latn
+Está basado en Lady Blackbird de John Harper.
 
-Fuente texto corrido: adobe-jenson-pro -> https://fonts.google.com/specimen/Rosarivo?preview.script=Latn
+[https://ladyblackbird.org/](https://ladyblackbird.org/)
 
 \conc

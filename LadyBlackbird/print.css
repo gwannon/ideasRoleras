@@ -1,16 +1,20 @@
 :root {
   --padding: 65px; /*Ancho de los bordes de la página*/
   --color-primary: #000;
-  --color-eecondary: #fff;
+  --color-secondary: #fff;
 }
 
 body {
   /*background: white url(./images/bg.png) repeat center center;*/
   margin: 0;
   padding: 0;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Gilda Display", serif;
   color: var(--color-primary);
-  font-size: 17px;
+  font-size: 18px;
+}
+
+a {
+  color: var(--color-primary);
 }
 
 /*body:before {
@@ -128,7 +132,7 @@ section div.saltopagina:nth-child(n+54) {
 
 .saltopagina:after {
   --size: 30px;
-  font-family: "Finger Paint", sans-serif;
+  font-family: "Rosarivo", cursive;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -144,4 +148,34 @@ section div.saltopagina:nth-child(n+54) {
   padding: 5px 5px 3px;
   color: var(--color-green);
   text-shadow: 1px 0px 1px var(--color-yellow), 0px 1px 1px var(--color-yellow), -1px 0px 1px var(--color-yellow), 0px -1px 1px var(--color-yellow);
+}
+
+/* -------------------- */
+
+h1 {
+  font-family: "Rosarivo", cursive;
+  font-style: italic;
+  font-size: 4em;
+  text-align: center;
+  border-bottom: 1px solid var(--color-primary);
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-family: "Rosarivo", cursive;
+  font-size: 2em;
+  border-top: 1px solid var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  padding: 16px 0 10px !important;
+}
+
+h3 {
+  font-family: "Rosarivo", cursive;
+  font-size: 1.5em;
+  margin: 0;
+  padding: 10px 0 5px;
+}
+
+p {
+  margin-top: 0; 
 }
