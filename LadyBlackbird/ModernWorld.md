@@ -24,7 +24,7 @@ Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan
 
 Desde allí, pueden acceder al _resort_ donde son acomodados en sus lujosas _suites_. Tras refrescarse en sus habitaciones o tomar un buen tentempié pueden entrar en el parque y disfrutar de sus maravillas como el Vuelo del Ave de Trueno de West World o el Laberinto de kevlar de East World.
 
-En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque. Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones.
+En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs. Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
 
 El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
 
@@ -91,7 +91,7 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 
 |1d6|North World|
 |---|---|
-|1|**XXX:** XXX|
+|1|**Bacanal:** Una pareja que estaba en los baños de vapor, no se ha enterado de la evacuación y al salir se han encontrado el parque vacío. Andan semidesnudos y desorientados. |
 |2|**XXX:** XXX|
 |3|**XXX:** XXX|
 |4|**XXX:** XXX|
@@ -103,8 +103,8 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |1|**Cuatro ruedas:** En mitad de la floresta hay un vehículo todoterreno que habrá abandonado un equipo de mantenimiento que pueden usar para moverse más rápidamente por la zona.|
 |2|**Arenas movedizas:** Una cañería rota ha inundado una zona de arenisca y ha creado una especie de arenas movedizas que no se detectan a simple vista.|
 |3|**La leyenda del hombre mono:** Desde hace semanas se dice que un maniquí eléctrico perdido de otra zona está vagando por las selvas de South World. Solo lleva un taparrabos de los restos de sus ropajes y parece que se mueve por las copas de los árboles.|
-|4|**¡Quiero galletas!:** Una cacatúa eléctrica se posa en el hombro de un personaje y aunque lo expulses, vuelve en un rato. Pide galletas todo el rato y repite tus frases en los momentos más inoportunos |
-|5|**Volando en círculos:** Los maniquíes eléctricos con forma de buitres empiezan a volar en círculos sobre tus personajes. No queda claro que puede significar, pero no parece bueno.|
+|4|**¡Quiero galletas!:** Una cacatúa eléctrica se posa en el hombro de un personaje y aunque la expulses, vuelve en un rato. Pide galletas todo el rato y repite tus frases en los momentos más inoportunos.|
+|5|**Volando en círculos:** Unos maniquíes eléctricos con forma de buitres empiezan a volar en círculos sobre tus personajes. No queda claro que puede significar, pero no parece bueno.|
 |6|**Estampida:** Algo ha hecho que el sistema de seguridad de la zona se haya activado y todos los animales salen corriendo despavoridos en dirección contraria del peligro que ha sido detectado para salvarse.|
 
 |1d6|East World|
