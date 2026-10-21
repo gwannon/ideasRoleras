@@ -1,6 +1,10 @@
+\sinc
+
 ## ¿Qué puede pasar?
 
 Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destrucción, pueden pasar todo tipo de cosas. Te proponemos una tabla de eventos por cada zona del parque más una última para el aeropuerto.
+
+\conc
 
 |1d6|Modern World|
 |---|---|
@@ -20,6 +24,8 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |5|**XXX:** XXX|
 |6|**Los laureles de la victoria:** Ante la falta de visitantes, los maniquíes eléctricos empiezan a aglomerarse y a montar un desfile en honor a tus jugadores por sus logros en la batalla. Es difícil moverse entre la multitud que les vitorea y les lanza pétalos y guirnaldas.|
 
+\sp
+
 |1d6|South World|
 |---|---|
 |1|**Cuatro ruedas:** En mitad de la floresta hay un vehículo todoterreno que habrá abandonado un equipo de mantenimiento que pueden usar para moverse más rápidamente por la zona.|
@@ -37,6 +43,8 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |4|**Atracción cerrada:** Un equipo de mantenimiento había cerrado una atracción y al ordenar evacuar el parque se han dejado todo su equipo allí. Puede que haya cosas interesantes o que tus jugadores puedan recuperar algo importante que habían perdido.|
 |5|**Rickshaws:** Hay una cola de _rickshaws_ tirados por maniquíes eléctricos. Solo tienes que subirte y decirle a donde quieres ir para que el maniquí salga a toda velocidad.|
 |6|**Helio:** Un maniquí eléctrico con una gran cantidad de globos de helio deambula cerca. Normalmente, se los da gratis a los viandantes y enseguida tienen que volver a inflar, pero ahora no hay nadie que lo quiera y empieza tener problemas para mantenerse sujeto al suelo.|
+
+\sp
 
 |1d6|West World|
 |---|---|

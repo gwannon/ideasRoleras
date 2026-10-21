@@ -14,7 +14,11 @@ Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de
 
 Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
+
+
 ## El parque
+
+
 
 Modern World es único en su especie. Es como titulaba la prensa «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
 
@@ -23,6 +27,8 @@ El planetoide donde ha sido construido el parque tiene todo un sistema de velas 
 Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves, tras pagar unas desorbitadas tasas de aterrizaje.
 
 Desde allí, pueden acceder al _resort_ donde son acomodados en sus lujosas _suites_. Tras refrescarse en sus habitaciones o tomar un buen tentempié pueden entrar en el parque y disfrutar de sus maravillas como el Vuelo del Ave de Trueno de West World o el Laberinto de kevlar de East World.
+
+
 
 En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs. Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
 
@@ -54,6 +60,8 @@ Hay zonas de selva, sabana, estepa e incluso tundra. En estas zonas hay mamuts, 
 
 En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
 
+
+
 Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
 
 ### East World
@@ -64,23 +72,38 @@ Duelos de electro-espadas aderezadas con acrobacias imposibles, llamaradas y ray
 
 Y todo finalmente aderezado con bailes acompañados de los chirridos de montones de articulaciones y engranajes metálicos.
 
+
+
 ## Tecnología punta
+
+
 
 XXX
 
+
+
 ## El plan
+
+
 
 XXX
 
 > Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
 
+
+
+
+
 ## Personajes
 
 Aunque Modern World es propiedad de August Thornberry, la junta directiva está formada por este último y los 3 ingenieros goblins que crearon todas las maravillas del parque, Yalp, Snot, Dez. Cuando el Devastador ha aparecido en el radar, la junta directiva ha hecho evacuar por su seguridad a todos los trabajadores y visitantes del parque y, en principio, solo quedan ellos 4 en todas las instalaciones.
 
+
 ### August Thornberry
 
 XXX
+
+
 
 * **RASGOS Y ETIQUETAS**
   * Caballero
@@ -137,9 +160,15 @@ XXX
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
+
+
+
+
 ### Yalp
 
 XXX
+
+
 
 * **RASGOS Y ETIQUETAS**
   * XXX
@@ -189,9 +218,15 @@ XXX
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
+
+
+
+
 ### Snot
 
 XXX
+
+
 
 * **RASGOS Y ETIQUETAS**
   * XXX
@@ -246,9 +281,15 @@ XXX
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
+
+
+
+
 ### Dez
 
 XXX
+
+
 
 * **RASGOS Y ETIQUETAS**
   * XXX
@@ -298,7 +339,13 @@ XXX
 * **EQUIPO:** XXX
 * **APARIENCIA:** XXX
 
+
+
+
+
 ## Dinámicas de poder
+
+
 
 Durante el año que el parque ha estado abierto, las dinámicas de poder han sido muy estables. Cada uno sabía su lugar y hasta donde llegaba su poder y su influencia.
 
@@ -312,9 +359,16 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
+
+
+
+
+
 ## ¿Qué puede pasar?
 
 Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destrucción, pueden pasar todo tipo de cosas. Te proponemos una tabla de eventos por cada zona del parque más una última para el aeropuerto.
+
+
 
 |1d6|Modern World|
 |---|---|
@@ -334,6 +388,8 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |5|**XXX:** XXX|
 |6|**Los laureles de la victoria:** Ante la falta de visitantes, los maniquíes eléctricos empiezan a aglomerarse y a montar un desfile en honor a tus jugadores por sus logros en la batalla. Es difícil moverse entre la multitud que les vitorea y les lanza pétalos y guirnaldas.|
 
+
+
 |1d6|South World|
 |---|---|
 |1|**Cuatro ruedas:** En mitad de la floresta hay un vehículo todoterreno que habrá abandonado un equipo de mantenimiento que pueden usar para moverse más rápidamente por la zona.|
@@ -351,6 +407,8 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |4|**Atracción cerrada:** Un equipo de mantenimiento había cerrado una atracción y al ordenar evacuar el parque se han dejado todo su equipo allí. Puede que haya cosas interesantes o que tus jugadores puedan recuperar algo importante que habían perdido.|
 |5|**Rickshaws:** Hay una cola de _rickshaws_ tirados por maniquíes eléctricos. Solo tienes que subirte y decirle a donde quieres ir para que el maniquí salga a toda velocidad.|
 |6|**Helio:** Un maniquí eléctrico con una gran cantidad de globos de helio deambula cerca. Normalmente, se los da gratis a los viandantes y enseguida tienen que volver a inflar, pero ahora no hay nadie que lo quiera y empieza tener problemas para mantenerse sujeto al suelo.|
+
+
 
 |1d6|West World|
 |---|---|
@@ -371,14 +429,18 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |6|**XXX:** XXX|
 
 
+
+
+
+
 ## Licencia
 
 XXX
-
----
 
 Documeento original: 
 
 Titulos: https://fonts.google.com/specimen/My+Soul?preview.script=Latn
 
 Fuente texto corrido: adobe-jenson-pro -> https://fonts.google.com/specimen/Rosarivo?preview.script=Latn
+
+

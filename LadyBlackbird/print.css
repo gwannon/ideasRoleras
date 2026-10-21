@@ -1,0 +1,147 @@
+:root {
+  --padding: 65px; /*Ancho de los bordes de la página*/
+  --color-primary: #000;
+  --color-eecondary: #fff;
+}
+
+body {
+  /*background: white url(./images/bg.png) repeat center center;*/
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+  color: var(--color-primary);
+  font-size: 17px;
+}
+
+/*body:before {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  background: transparent url(./images/border1.png) top left repeat-y;
+  background-size: 50px;
+}
+
+body:after {
+  content: "";
+  display: block;
+  width: var(--padding);
+  height: 100vh;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  background: transparent url(./images/border2.png) top right repeat-y;
+}*/
+
+body > * {
+  padding: 0 0 calc(var(--padding) / 3) 0;
+  margin: 0 var(--padding);
+}
+
+.columns {
+  columns: 2;
+}
+
+.columns > *:first-child,
+.saltocolumna + * {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.saltocolumna {
+  display: block;
+  break-before: column;
+  height: 0;
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+
+
+@media screen {
+  .saltopagina {
+    border-top: 3px dashed var(--color-green);
+    border-bottom:  3px dashed var(--color-green);
+  }
+
+  .columns {
+    columns: auto;
+  }
+
+    body {
+    font-size: 22px;
+  }
+
+  section {
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  .nopdf {
+    display: none !important;
+    visibility: hidden !important;
+  }
+
+  .saltopagina {
+    display: block;
+    page-break-before: always;
+    height: 0;
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+  }
+}
+
+/* Paginación */
+@counter-style style {
+  system: numeric;
+}
+
+body {
+  counter-reset: primary 0;
+}
+
+body > *:first-child,
+.saltopagina + * {
+  margin-top: var(--padding);
+  padding-top: 0;
+}
+
+.saltopagina {
+  position: relative;
+  counter-increment: primary 1; /* Increment the value of section counter by 1 */
+}
+
+section div.saltopagina:nth-child(n+54) {
+  counter-increment: primary 0;
+}
+
+.saltopagina:after {
+  --size: 30px;
+  font-family: "Finger Paint", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: counters(primary, "-", style);
+  position: absolute;
+  bottom: 20px;
+  right: calc(50% - (var(--size) / 2));
+  width: var(--size);
+  height: var(--size);
+  z-index: 10;
+  opacity: 1;
+  font-size: 20px;
+  padding: 5px 5px 3px;
+  color: var(--color-green);
+  text-shadow: 1px 0px 1px var(--color-yellow), 0px 1px 1px var(--color-yellow), -1px 0px 1px var(--color-yellow), 0px -1px 1px var(--color-yellow);
+}
