@@ -54,14 +54,6 @@ Los visitantes son tratados como héroes a los que se alaba y se les ofrece ambr
 
 Los desfiles militares, las carreras de cuadrigas eléctricas y los combates de gladiadores electrificados son frecuentes.
 
-### South World
-
-Esta zona es un gigantesco zoo con maniquís eléctricos con muchas de animales salvajes. 
-
-Hay zonas de selva, sabana, estepa e incluso tundra. En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
-
-
-
 ### East World
 
 En la parte este tenemos East World, un pastiche de mitos y cuentos de lo más recóndito del espacio conocido, con príncipes y princesas alienígenas, extrañas y gigantescas bestias de carga o guerra y exóticos palacios con pasadizos secretos.
@@ -70,11 +62,24 @@ Duelos de electro-espadas aderezadas con acrobacias imposibles, llamaradas y ray
 
 Y todo finalmente aderezado con bailes acompañados de los chirridos de montones de articulaciones y engranajes metálicos.
 
+
+
+
 ### West World
 
 En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
 
 Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
+
+
+
+### South World
+
+Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de animales salvajes. 
+
+Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
+
+En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
 
 
 

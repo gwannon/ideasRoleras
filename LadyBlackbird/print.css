@@ -2,6 +2,7 @@
   --padding: 65px; /*Ancho de los bordes de la página*/
   --color-primary: #000;
   --color-secondary: #fff;
+  --color-tertiaire: #cecece;
 }
 
 body {
@@ -174,8 +175,48 @@ h3 {
   font-size: 1.5em;
   margin: 0;
   padding: 10px 0 5px;
+  font-style: italic;
 }
 
 p {
   margin-top: 0; 
+}
+
+ul {
+  font-size: 0.95em;
+  /*padding: 0px;*/
+  list-style-type: none;
+}
+
+div > ul {
+  padding-left: 0;
+}
+
+ul ul {
+  padding-left: 15px;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 0.95em;
+}
+
+table td,
+table th {
+  padding: 5px 5px 2px 5px;
+}
+
+table thead th {
+  font-family: "Rosarivo", cursive;
+  font-style: italic;
+}
+
+table thead tr {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+}
+
+
+table tbody tr:nth-child(even) {
+  background-color: var(--color-tertiaire);
 }
