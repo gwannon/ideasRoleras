@@ -4,7 +4,7 @@
 
 
 
-_**Modern World** es una aventura creeda por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG de John Harper](https://ladyblackbird.org/)._
+_... es una aventura creada por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG](https://ladyblackbird.org/) de John Harper._
 
 Modern World es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
 
@@ -405,7 +405,7 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |1|**¡Limpio, señor!:** Un maniquí eléctrico se empeña en limpiar vuestras botas y no acepta un no por respuesta. Seguirá al grupo hasta que le dejen limpiar sus botas.|
 |2|**Rezagados:** Los últimos rezagados de la evacuación esperan en tropel al último transporte que les llevará al espacio puerto. La gente está muy nerviosa y asustada.|
 |3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
-|4|**XXX:** XXX|
+|4|**Silencio:** Por puro azar, en este preciso momento no hay nadie cerca, ni personas ni maniquíes. Estáis solos y en completo silencio.|
 |5|**Maletas abandonadas:** Los visitantes han abandonado sus pesadas maletas al salir huyendo. Si se pierde tiempo revisándolas, puede haber cualquier cosa y algunas pueden ser útiles.|
 |6|**Fuerzas de asalto:** Una lanzadera de asalto del Devastador se ha adelantado y ha dejado una brigada de soldados de asalto para asegurar la zona.|
 

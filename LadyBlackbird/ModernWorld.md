@@ -4,7 +4,7 @@
 
 \conc
 
-_**Modern World** es una aventura creeda por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG de John Harper](https://ladyblackbird.org/)._
+_... es una aventura creada por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG](https://ladyblackbird.org/) de John Harper._
 
 Modern World es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
 
