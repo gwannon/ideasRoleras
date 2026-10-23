@@ -228,3 +228,12 @@ table thead tr {
 table tbody tr:nth-child(even) {
   background-color: var(--color-tertiaire);
 }
+
+img {
+  width: 100%;
+}
+
+p:has(img) {
+  padding: 0px;
+  margin: 0px;
+}
