@@ -71,8 +71,6 @@ En la parte oeste se encuentra West World, una especie de frontera futurista con
 
 Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
 
-
-
 ### South World
 
 Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de animales salvajes. 
@@ -80,6 +78,12 @@ Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de 
 Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
 
 En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
+
+### Moverse entre zonas
+
+Modern World se encuentra en el centro del parque y el resto de mundos se encuentra se encuentran al norte, al sur, al este y al oeste, siguiendo su nombre. Se decidió así para que los visitantes pudieran orientarse fácilmente. Esto quiere decir que para moverse de una zona a otra siempre tendrán que pasar por Modern World.
+
+La forma más fácil de moverse es por la superficie del parque, pero eso no quiere decir que no haya un submundo de túneles, pasillos por debajo del parque que usan para el mantenimiento. Es complicado moverse por aquí, pero es la forma perfecta de moverse de forma segura y sin ser visto. 
 
 
 
@@ -150,9 +154,11 @@ XXX
 * Truhan
   * 🞊 _Adular_
   * 🞊 _Flirtear_
-  * 🞊 _Juegos de manos_
+  * 🞊 _Charla de alcoba_
   * 🞊 _Casino_
   * 🞊 _Tirarse faroles_
+  * 🞊 _Modales finos_   
+  * 🞆 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
 * Atleta
@@ -163,14 +169,16 @@ XXX
   * 🞊 _Disparar_
   * 🞆 _Pistola_
   * 🞆 _Acrobacias_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
+* Ladrón
+  * 🞊 _Robar bolsillos_
+  * 🞊 _Juegos de manos_
+  * 🞊 _Abrir cerraduras_
+  * 🞊 _Escapismo_
+  * 🞊 _Distraer_
+  * 🞊 _Disfrazarse_
+  * 🞊 _Pasar inadvertido_
+  * 🞆 _Abrir cerraduras de seguridad_
+  * 🞆 _Explosivos_
   * 🞆 _XXX_
 
 **CLAVES**
@@ -182,20 +190,20 @@ XXX
 * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
 * **Secreto de XXX:** _XXX_
 
-**ESTADOS**
-* 🞏 HERIDO
-* 🞏 MUERTO (Presunto)
-* 🞏 CANSADO
-* 🞏 ENFADADO
-* 🞏 PERDIDO
-* 🞏 PERSEGUIDO
-* 🞏 ATRAPADO
-* 🞏 ELECTROCUTADO
-* 🞏 ASFIXIADO
+* **ESTADOS**
+  * 🞏 HERIDO
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ASFIXIADO
+  * 🞏 FULMINADO
+  * 🞏 MUERTO (Presunto)
 
-**EQUIPO:** XXX
+**EQUIPO:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
 
-**APARIENCIA:** XXX
+**APARIENCIA:** Bien arreglado, bien peinado, bien vestido y sobre todo con un porte espectacular. Su tupido bigote siempre está perfectamente aceitado. Él sabe cómo hacer que todo lo que se pone reluzca.
 
 
 
@@ -244,6 +252,8 @@ XXX
   * 🞆 _XXX_
   * 🞆 _XXX_
 
+
+
 **CLAVES**
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
@@ -251,26 +261,22 @@ XXX
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
-* **Secreto de XXX:** _XXX_
+* **Secreto de la cadena de mando:** _Una vez por recuperación, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
 
-**ESTADOS**
-* 🞏 HERIDO
-* 🞏 MUERTO (Presunto)
-* 🞏 CANSADO
-* 🞏 ENFADADO
-* 🞏 PERDIDO
-* 🞏 PERSEGUIDO
-* 🞏 ATRAPADO
-* 🞏 ELECTROCUTADO
-* 🞏 ASFIXIADO
+* **ESTADOS**
+  * 🞏 HERIDO
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ASFIXIADO
+  * 🞏 FULMINADO
+  * 🞏 MUERTO (Presunto)
 
 **EQUIPO:** XXX
 
 **APARIENCIA:** XXX
-
-
-
-
 
 
 
@@ -324,6 +330,8 @@ XXX
   * 🞆 _XXX_
   * 🞆 _XXX_
 
+
+
 **CLAVES**
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
@@ -333,16 +341,16 @@ XXX
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de XXX:** _XXX_
 
-**ESTADOS**
-* 🞏 HERIDO
-* 🞏 MUERTO (Presunto)
-* 🞏 CANSADO
-* 🞏 ENFADADO
-* 🞏 PERDIDO
-* 🞏 PERSEGUIDO
-* 🞏 ATRAPADO
-* 🞏 ELECTROCUTADO
-* 🞏 ASFIXIADO
+* **ESTADOS**
+  * 🞏 HERIDO
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ASFIXIADO
+  * 🞏 FULMINADO
+  * 🞏 MUERTO (Presunto)
 
 **EQUIPO:** XXX
 
@@ -400,26 +408,26 @@ XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
 
+
+
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
 
-**ESTADOS**
-* 🞏 HERIDO
-* 🞏 MUERTO (Presunto)
-* 🞏 CANSADO
-* 🞏 ENFADADO
-* 🞏 PERDIDO
-* 🞏 PERSEGUIDO
-* 🞏 ATRAPADO
-* 🞏 ELECTROCUTADO
-* 🞏 ASFIXIADO
+* **ESTADOS**
+  * 🞏 HERIDO
+  * 🞏 CANSADO
+  * 🞏 ENFADADO
+  * 🞏 PERDIDO
+  * 🞏 PERSEGUIDO
+  * 🞏 ATRAPADO
+  * 🞏 ASFIXIADO
+  * 🞏 FULMINADO
+  * 🞏 MUERTO (Presunto)
 
-**EQUIPO:** XXX
+**EQUIPO:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
 
-**APARIENCIA:** XXX
-
-
+**APARIENCIA:** Con sus una gafas con cristales gruesos y su bata de laboratorio parece el típico científico despistado que no levanta los ojos de sus fórmulas y sus experimentos.
 
 
 

@@ -201,7 +201,20 @@ div > ul {
 }
 
 ul ul {
-  padding-left: 15px;
+  padding-left: 0px;
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.columns > ul:first-of-type > li > ul {
+  border-top: 1px solid var(--color-primary);
+  padding-top: 3px;
+}
+
+ul ul li {
+  width: calc(50% - 5px);
 }
 
 table {

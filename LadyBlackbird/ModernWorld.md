@@ -71,8 +71,6 @@ En la parte oeste se encuentra West World, una especie de frontera futurista con
 
 Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
 
-\sc
-
 ### South World
 
 Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de animales salvajes. 
@@ -80,6 +78,12 @@ Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de 
 Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
 
 En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
+
+### Moverse entre zonas
+
+Modern World se encuentra en el centro del parque y el resto de mundos se encuentra se encuentran al norte, al sur, al este y al oeste, siguiendo su nombre. Se decidió así para que los visitantes pudieran orientarse fácilmente. Esto quiere decir que para moverse de una zona a otra siempre tendrán que pasar por Modern World.
+
+La forma más fácil de moverse es por la superficie del parque, pero eso no quiere decir que no haya un submundo de túneles, pasillos por debajo del parque que usan para el mantenimiento. Es complicado moverse por aquí, pero es la forma perfecta de moverse de forma segura y sin ser visto. 
 
 \sinc
 
