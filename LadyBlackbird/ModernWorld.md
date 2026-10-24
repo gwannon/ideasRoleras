@@ -91,7 +91,18 @@ La forma más fácil de moverse es por la superficie del parque, pero eso no qui
 
 \conc
 
-XXX
+La tecnología electrónica usada en el parque por Yalp, Snot y Dez es muy superior a la del resto de investigadores científicos del Imperio. Por un lado, su electricidad y sus velas solares es el doble de poderosa que el vapor y el carbón que usa el resto del mundo. Sus inventos pueden funcionar durante días sin tener que recargar sus baterías durante días gracias a sus velas solares que convierten la luz en electricidad..
+
+Sus maniquíes electricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
+
+El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las maquinas pensantes mecanicas que usa el imperio. 
+Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
+
+Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas  nuevas tecnologías electrónicas.
+
+Los goblins consideran todo está tecnología como suya y verla en manos de otros usándose con fines militares les es inconcebible.
+
+Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso podrían sacrificarse para evitar que caiga en malos manos.
 
 \sinc
 
