@@ -22,6 +22,8 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
+> Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicarselos.
+
 
 \sp
 
