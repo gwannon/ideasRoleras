@@ -113,7 +113,7 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
 
 ### Yalp
 
-XXX
+Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no tienes las energías de la juventud y sus ideas innovadoras en su momento empiezan a quedarse viejas y obsoletas.
 
 \conc
 
@@ -186,7 +186,7 @@ XXX
 
 ### Snot
 
-XXX
+Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama si trabajo y ama la mecánica y la electrónica.
 
 \conc
 
@@ -263,7 +263,7 @@ XXX
 
 ### Dez
 
-XXX
+Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él se entrará en una nueva era tecnológica.
 
 \conc
 
