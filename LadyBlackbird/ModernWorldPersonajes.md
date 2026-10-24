@@ -14,13 +14,14 @@ Durante el año que el parque ha estado abierto, las dinámicas de poder han sid
 
 Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con sus cañones preparados para hacer fuego.
 
-**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo.
+**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más en está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo. Por no hablar que tú habilidades ahora son de gran utilidad.
 
-**Yalp** XXX
+**Yalp** Eres el más viejo y experimentado de los goblins y fueron tus ideas los que dieron origen a la tecnología que da vida al parque. Durante mucho tiempo has sido el líder del grupo, pero te haces mayor y tus ideas no son tan buenas. Los jóvenes vienen fuerte, pero todavia tienen mucho que aprender y tú vas a enseñárselo.
 
-**Snott** XXX
+**Snott** No eres un genio, pero eres es que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin tí nada funcionaria dos días seguidos, pero de eso no se dan cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
+
 
 \sp
 
