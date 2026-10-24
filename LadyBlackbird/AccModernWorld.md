@@ -138,7 +138,7 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 ### August Thornberry
 
-XXX
+Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, que ha acabado bajo las órdenes de 3 goblins y fingiendo ser un famoso inventor.
 
 
 
@@ -159,9 +159,9 @@ XXX
   * 🞊 _Casino_
   * 🞊 _Tirarse faroles_
   * 🞊 _Modales finos_   
-  * 🞆 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+  * 🞆 _Bailar_
+  * 🞆 _Fingir acentos_
+  * 🞆 _Preparar desayunos_
 * Atleta
   * 🞊 _Correr_
   * 🞊 _Esgrima_
@@ -173,23 +173,23 @@ XXX
 * Ladrón
   * 🞊 _Robar bolsillos_
   * 🞊 _Juegos de manos_
-  * 🞊 _Abrir cerraduras_
+  * 🞊 _Cerraduras_
   * 🞊 _Escapismo_
   * 🞊 _Distraer_
   * 🞊 _Disfrazarse_
   * 🞊 _Pasar inadvertido_
-  * 🞆 _Abrir cerraduras de seguridad_
+  * 🞆 _Cerraduras de seguridad_
   * 🞆 _Explosivos_
-  * 🞆 _XXX_
+  * 🞆 _Falsificar_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave del seductor:** _Eres un ligón casi patológico que no puede perder una oportunidad de flirtear. Activa esta clave cuando flirtees incluso en los momentos menos oportunos y con las personas menos adecuadas. CANCELAR: cuando evitas tratar de seducir a un objetivo fácil y accesible._
+* **Clave de las manos largas:** _Te gusta robar por la emoción, el riesgo y la adrenalina. Activa esta clave cuando robes cosas pequeñas y valiosas. CANCELAR: No robar algo valioso y accesible o devolverlo._
+* **Clave del huérfano:** _Creciste en solo en las calles y no puedes dejar a niñes desvalides. Activa esta clave cuando ayudes a niñes. CANCELAR: Cuando ignoras una petición de ayuda._
 
 **SECRETOS**
 * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
-* **Secreto de XXX:** _XXX_
+* **Secreto del ladrón:** _Una vez por sesión, puedes repetir un fallo cuando te escondas, trates de abrir cerraduras, robar bolsillos y otras actividades de ladrón._
 
 * **ESTADOS**
   * 🞏 HERIDO
@@ -225,10 +225,12 @@ XXX
 
 
 **RASGOS Y ETIQUETAS**
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
+* Ingeniero
+  * 🞊 _Motor de vapor_
+  * 🞊 _Metalurgia_
+  * 🞊 _Química_
+  * 🞊 _Electricidad_
+  * 🞊 _Máquina pensantes_
   * 🞆 _XXX_
   * 🞆 _XXX_
 * Goblin
@@ -252,8 +254,6 @@ XXX
   * 🞊 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
-
-
 
 **CLAVES**
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
@@ -298,8 +298,9 @@ XXX
 
 
 **RASGOS Y ETIQUETAS**
-* XXX
-  * 🞊 _XXX_
+* Chapucero
+  * 🞊 _Reparaciones rápidas_
+  * 🞊 _Parches_
   * 🞊 _XXX_
   * 🞊 _XXX_
   * 🞆 _XXX_
@@ -330,8 +331,6 @@ XXX
   * 🞊 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
-
-
 
 **CLAVES**
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
@@ -376,10 +375,13 @@ XXX
 
 
 **RASGOS Y ETIQUETAS**
-* XXX
+* Científico investigador
+  * 🞊 _Nuevos materiales_
   * 🞊 _XXX_
   * 🞊 _XXX_
   * 🞊 _XXX_
+  * 🞊 _XXX_
+  * 🞆 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
 * Goblin
@@ -408,8 +410,6 @@ XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
 * **Clave de XXX:** _XXX_ CANCELAR: XXX
-
-
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._

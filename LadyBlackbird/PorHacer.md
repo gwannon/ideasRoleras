@@ -18,12 +18,6 @@ Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de
 
 ---
 
-### August Thornberry
-
-XXX
-
----
-
 ### Yalp
 
 XXX
