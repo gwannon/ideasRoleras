@@ -125,9 +125,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞊 _Metalurgia_
   * 🞊 _Química_
   * 🞊 _Electricidad_
-  * 🞊 _Máquina pensantes_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+  * 🞊 _Analizar_
+  * 🞆 _Computación_
+  * 🞆 _Engranajes_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -137,12 +137,14 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _Planear_
   * 🞆 _Armadura adaptable_
   * 🞆 _Bolsa de piel_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+* Sindicalista
+  * 🞊 _Atizar_
+  * 🞊 _Correr_
+  * 🞊 _Emboscar_
+  * 🞊 _Emboscar_
+  * 🞊 _Negociar_
+  + 🞊 _Intimidar_
+  * 🞆 _Leyes_
 * XXX
   * 🞊 _XXX_
   * 🞊 _XXX_
@@ -151,9 +153,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -170,9 +172,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞏 FULMINADO
   * 🞏 MUERTO (Presunto)
 
-**EQUIPO:** XXX
+**EQUIPO:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
 
-**APARIENCIA:** XXX
+**APARIENCIA:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy practicas.
 
 \sinc
 
@@ -193,9 +195,8 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 \conc
 
 **RASGOS Y ETIQUETAS**
-* Chapucero
-  * 🞊 _Reparaciones rápidas_
-  * 🞊 _Parches_
+* XXX
+  * 🞊 _XXX_
   * 🞊 _XXX_
   * 🞊 _XXX_
   * 🞆 _XXX_
@@ -209,7 +210,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _Planear_
   * 🞆 _Armadura adaptable_
   * 🞆 _Bolsa de piel_
-* Chatarrero
+* Chapucero
   * 🞊 _Identificar_
   * 🞊 _Improvisar_
   * 🞊 _Imperial_
@@ -218,7 +219,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞊 _Buscar_
   * 🞊 _Reparar_
   * 🞆 _Piezas sueltas_
-  * 🞆 _Propulsores_
+  * 🞆 _Baterias_
   * 🞆 _Explosivos_
 * XXX
   * 🞊 _XXX_
@@ -228,13 +229,13 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCELAR: Deja pasar la oportunidad de enredarte con tecnología.
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
-* **Secreto de XXX:** _XXX_
+* **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
 
 * **ESTADOS**
   * 🞏 HERIDO
@@ -270,15 +271,15 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
 \conc
 
 **RASGOS Y ETIQUETAS**
-* Científico investigador
+* Científico 
   * 🞊 _Nuevos materiales_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+  * 🞊 _Química_
+  * 🞊 _Física_
+  * 🞊 _Computación_
+  * 🞊 _Electrónica_
+  * 🞆 _Computación avanzada_
+  * 🞆 _Óptica_
+  * 🞆 _Singalaridad_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -288,9 +289,10 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
   * 🞆 _Planear_
   * 🞆 _Armadura adaptable_
   * 🞆 _Bolsa de piel_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
+* Investigador
+  * 🞊 _Método científico_
+  * 🞊 _Teorías_
+  * 🞊 _Especulación
   * 🞊 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
@@ -302,9 +304,9 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._

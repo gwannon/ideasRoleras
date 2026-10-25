@@ -4,7 +4,7 @@
 
 
 
-_... es una aventura creada por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG](https://ladyblackbird.org/) de John Harper._
+_… es una aventura creada por [Gwannon](https://gwannon.com/) para [Lady Blackbird RPG](https://ladyblackbird.org/) de John Harper._
 
 Modern World es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
 
@@ -86,7 +86,7 @@ Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ so
 
 Modern World se encuentra en el centro del parque y el resto de mundos se encuentra se encuentran al norte, al sur, al este y al oeste, siguiendo su nombre. Se decidió así para que los visitantes pudieran orientarse fácilmente. Esto quiere decir que para moverse de una zona a otra siempre tendrán que pasar por Modern World.
 
-La forma más fácil de moverse es por la superficie del parque, pero eso no quiere decir que no haya un submundo de túneles, pasillos por debajo del parque que usan para el mantenimiento. Es complicado moverse por aquí, pero es la forma perfecta de moverse de forma segura y sin ser visto. 
+La forma más fácil de moverse es por la superficie del parque, pero eso no quiere decir que no haya un submundo de túneles, pasillos por debajo del parque que usan para el mantenimiento. Es complicado moverse por aquí, pero es la forma perfecta de moverse de manera segura y sin ser visto. 
 
 
 
@@ -96,18 +96,18 @@ La forma más fácil de moverse es por la superficie del parque, pero eso no qui
 
 La tecnología electrónica usada en el parque por Yalp, Snot y Dez es muy superior a la del resto de investigadores científicos del Imperio.
 
-Por un lado, su electricidad y sus velas solares es el doble de poderosa que el vapor y el carbón que usa el resto del mundo. Sus inventos pueden funcionar durante días sin tener que recargar sus baterías durante días gracias a sus velas solares que convierten la luz en electricidad..
+Por un lado, su electricidad y sus velas solares es el doble de poderosa que el vapor y el carbón que usa el resto del mundo. Sus inventos pueden funcionar durante días sin tener que recargar sus baterías durante días gracias a sus velas solares que convierten la luz en electricidad.
 
 
 
-Sus maniquíes electricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
+Sus maniquíes eléctricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
 
-El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las maquinas pensantes mecanicas que usa el imperio. 
+El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el imperio. 
 Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
 
-Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas  nuevas tecnologías electrónicas.
+Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas nuevas tecnologías electrónicas.
 
-Los goblins consideran todo está tecnología como suya y verla en manos de otros usándose con fines militares les es inconcebible.
+Los goblins consideran toda esta tecnología como suya y verla en manos de otros usándose con fines militares les es inconcebible.
 
 Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso podrían sacrificarse para evitar que caiga en malos manos.
 
@@ -141,15 +141,15 @@ Durante el año que el parque ha estado abierto, las dinámicas de poder han sid
 
 Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con sus cañones preparados para hacer fuego.
 
-**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más en está arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo. Por no hablar que tú habilidades ahora son de gran utilidad.
+**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más en esta arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo. Por no hablar que tú habilidades ahora son de gran utilidad.
 
-**Yalp** Eres el más viejo y experimentado de los goblins y fueron tus ideas los que dieron origen a la tecnología que da vida al parque. Durante mucho tiempo has sido el líder del grupo, pero te haces mayor y tus ideas no son tan buenas. Los jóvenes vienen fuerte, pero todavia tienen mucho que aprender y tú vas a enseñárselo.
+**Yalp** Eres el más viejo y experimentado de los goblins y fueron tus ideas los que dieron origen a la tecnología que da vida al parque. Durante mucho tiempo has sido el líder del grupo, pero te haces mayor y tus ideas no son tan buenas. Los jóvenes vienen fuerte, pero todavía tienen mucho que aprender y tú vas a enseñárselo.
 
-**Snott** No eres un genio, pero eres es que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin tí nada funcionaria dos días seguidos, pero de eso no se dan cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
+**Snott** No eres un genio, pero eres es que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin ti nada funcionaria dos días seguidos, pero de eso no se dan cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
-> Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicarselos.
+> Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicárselos.
 
 
 
@@ -252,9 +252,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞊 _Metalurgia_
   * 🞊 _Química_
   * 🞊 _Electricidad_
-  * 🞊 _Máquina pensantes_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+  * 🞊 _Analizar_
+  * 🞆 _Computación_
+  * 🞆 _Engranajes_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -264,12 +264,14 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _Planear_
   * 🞆 _Armadura adaptable_
   * 🞆 _Bolsa de piel_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+* Sindicalista
+  * 🞊 _Atizar_
+  * 🞊 _Correr_
+  * 🞊 _Emboscar_
+  * 🞊 _Emboscar_
+  * 🞊 _Negociar_
+  + 🞊 _Intimidar_
+  * 🞆 _Leyes_
 * XXX
   * 🞊 _XXX_
   * 🞊 _XXX_
@@ -278,9 +280,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -297,9 +299,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞏 FULMINADO
   * 🞏 MUERTO (Presunto)
 
-**EQUIPO:** XXX
+**EQUIPO:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
 
-**APARIENCIA:** XXX
+**APARIENCIA:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy practicas.
 
 
 
@@ -320,9 +322,8 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 
 **RASGOS Y ETIQUETAS**
-* Chapucero
-  * 🞊 _Reparaciones rápidas_
-  * 🞊 _Parches_
+* XXX
+  * 🞊 _XXX_
   * 🞊 _XXX_
   * 🞊 _XXX_
   * 🞆 _XXX_
@@ -336,7 +337,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _Planear_
   * 🞆 _Armadura adaptable_
   * 🞆 _Bolsa de piel_
-* Chatarrero
+* Chapucero
   * 🞊 _Identificar_
   * 🞊 _Improvisar_
   * 🞊 _Imperial_
@@ -345,7 +346,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞊 _Buscar_
   * 🞊 _Reparar_
   * 🞆 _Piezas sueltas_
-  * 🞆 _Propulsores_
+  * 🞆 _Baterias_
   * 🞆 _Explosivos_
 * XXX
   * 🞊 _XXX_
@@ -355,13 +356,13 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCELAR: Deja pasar la oportunidad de enredarte con tecnología.
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
-* **Secreto de XXX:** _XXX_
+* **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
 
 * **ESTADOS**
   * 🞏 HERIDO
@@ -397,15 +398,15 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
 
 
 **RASGOS Y ETIQUETAS**
-* Científico investigador
+* Científico 
   * 🞊 _Nuevos materiales_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+  * 🞊 _Química_
+  * 🞊 _Física_
+  * 🞊 _Computación_
+  * 🞊 _Electrónica_
+  * 🞆 _Computación avanzada_
+  * 🞆 _Óptica_
+  * 🞆 _Singalaridad_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -415,9 +416,10 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
   * 🞆 _Planear_
   * 🞆 _Armadura adaptable_
   * 🞆 _Bolsa de piel_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
+* Investigador
+  * 🞊 _Método científico_
+  * 🞊 _Teorías_
+  * 🞊 _Especulación
   * 🞊 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
@@ -429,9 +431,9 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
-* **Clave de XXX:** _XXX_ CANCELAR: XXX
+* **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
