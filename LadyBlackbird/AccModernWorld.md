@@ -298,12 +298,12 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞊 _Negociar_
   + 🞊 _Intimidar_
   * 🞆 _Leyes_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+* Saboteador
+  * 🞊 _Explosivos_
+  * 🞊 _Planificar_
+  * 🞊 _Ocultar_
+  * 🞆 _Falsificar_
+  * 🞆 _Trampas_
 
 **CLAVES**
 * **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCELAR: Cedas el mando a otros._
@@ -346,12 +346,16 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 
 **RASGOS Y ETIQUETAS**
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+
+* Mantenimiento
+  * 🞊 _Revisar_
+  * 🞊 _Detectar problemas_
+  * 🞊 _Conducir_
+  * 🞊 _Leer planos_
+  * 🞊 _Mejorar_
+  * 🞆 _Crear herramientas_
+  * 🞆 _Reemplazar_
+  * 🞆 _Recabar información_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -365,12 +369,12 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞊 _Identificar_
   * 🞊 _Improvisar_
   * 🞊 _Imperial_
-  * 🞊 _Artillería_
+  * 🞊 _Conductos_
   * 🞊 _Inalámbrico_
   * 🞊 _Buscar_
   * 🞊 _Reparar_
   * 🞆 _Piezas sueltas_
-  * 🞆 _Baterias_
+  * 🞆 _Baterías_
   * 🞆 _Explosivos_
 * Animador
   * 🞊 _Dar ánimos_
