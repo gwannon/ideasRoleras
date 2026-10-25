@@ -153,9 +153,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave del lider:** _XXX. CANCELAR: XXX._
+* **Clave del sueño de toda una vida:** _XXX. CANCELAR: XXX._
+* **Clave de XXX:** _XXX. CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -186,11 +186,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
 
 \sinc
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
 ### Snot
 
-Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama si trabajo y ama la mecánica y la electrónica.
+Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama su trabajo y ama la mecánica y la electrónica.
 
 \conc
 
@@ -221,17 +219,18 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _Piezas sueltas_
   * 🞆 _Baterias_
   * 🞆 _Explosivos_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+* Animador
+  * 🞊 _Dar ánimos_
+  * 🞊 _Empatía_
+  * 🞊 _Cantar_
+  * 🞊 _Psicología_
+  * 🞆 _Apoyar_
+  * 🞆 _Confesor_
 
 **CLAVES**
 * **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCELAR: Deja pasar la oportunidad de enredarte con tecnología.
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de la deuda de vida:** _Yalp ha cuidado de ti desde que empezaste a trabajar en las grandes metalúrgicas, el único lugar donde daban trabajos a los goblins. Te ha sacado de muchos problemas y te ha protegido en lo más duro de las huelgas. Activa esta clave cuando sigas las órdenes de Yalp. CANCELAR: Al apoyar las nuevas, brillantes e innovadoras ideas de Dez._
+* **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCELAR: Descansar demasiado tiempo._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -248,9 +247,9 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞏 FULMINADO
   * 🞏 MUERTO (Presunto)
 
-**EQUIPO:** XXX
+**EQUIPO:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
 
-**APARIENCIA:** XXX
+**APARIENCIA:** Goblin maduro con una sonrisa siempre en la cara sobre todo cuando trabaja en las cosas que le gustan. Las manos nunca están vacías, porque siempre está haciendo algo o va a hacer algo.
 
 \sinc
 
@@ -266,7 +265,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 ### Dez
 
-Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él se entrará en una nueva era tecnológica.
+Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él se entrará en una nueva era tecnológica.
 
 \conc
 
@@ -279,7 +278,7 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
   * 🞊 _Electrónica_
   * 🞆 _Computación avanzada_
   * 🞆 _Óptica_
-  * 🞆 _Singalaridad_
+  * 🞆 _Singularidad_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -292,7 +291,7 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
 * Investigador
   * 🞊 _Método científico_
   * 🞊 _Teorías_
-  * 🞊 _Especulación
+  * 🞊 _Especulación_
   * 🞊 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
@@ -305,8 +304,8 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
 
 **CLAVES**
 * **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX. CANCELAR: XXX._
+* **Clave de XXX:** _XXX. CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._

@@ -119,9 +119,37 @@ Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso 
 
 [![Androide steampunk con una bandeja de camarero de macrovector](./maniqui2.jpg "Androide steampunk con una bandeja de camarero de macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Androide steampunk con una bandeja de camarero de macrovector")
 
-XXX
+Una vez evacuado el parque tus jugadores deberían buscar la forma de evitar que la Flota Imperial se haga con su tecnología. Si cae en malas manos como las del Imperio, podría ser un desastre.
 
-> Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
+Tus jugadores crearon esa tecnología para ayudar y hacer feliz a la gente, y, claro, hacer algo de dinero. Así que antes de huir del planetoide deben inutilizarla.
+
+August será siempre el objetivo principal de las tropas de asalto del Devastador. Cómo todos saben, es el genio científico detrás de toda la tecnología del parque. Si lo atrapan podrán sacarle todos los secretos que desean. Según sus informes, los goblins son simples ayudantes de laboratorio.
+
+El único plan posible para destruir su tecnología es ir a cada zona y llegar a su centro de control. Desde cada uno de ellos se puede desactivar todos los maniquíes y las atracciones de la zona y luego sobrecargarlos y freír sus circuitos haciéndoles inservibles.
+
+El último paso sería destruir cada centro de control para asegurarse de que no queda nada aprovechable. Lo más sencillo sería usar explosivos, pero si no tienen a mano TNT, pueden ser creativos.
+
+
+
+* En North World, hay actividad volcánica, de ahí sus famosas termas.
+* El de South World tiene cerca un gasoducto de gas extraído del planetoide.
+* West World, es desde donde se lanza la pirotécnica del parque, así que hay posibilidad de usarla.
+* El centro de East World está debajo del lago central. Podrían inundarlo.
+* Modern World no tiene a priori ningún punto débil.
+
+En Moderno World, además de la zona de control, donde empezarán, tendrán que destruir su laboratorio, eso debería ser especialmente duro para los 3 Goblins, ya que es destruir el trabajo de toda una vida.
+
+Está sección debe ser la última en destruirse porque la necesitan funcional para moverse entre secciones del parque y llegar al espacio puerto en el auto tren lanzadera. Además tendrán que hacerlo a distancia, ya que si lo destruyen antes de llegar al espacio puerto el auto tren se parará en mitad de la vía.
+
+La misión de destrucción tiene un tiempo máximo. Crea un reloj con 9 secciones, cada vez que ejecuten un plan de sabotaje fallido o exitoso rellena una sección. Cuando se rellenen todos, el Devastador aterrizará y las tropas de asalto se harán con el control de lo que quede en pie del parque.
+
+Separarse puede ser una opción interesante, pero uno de los goblins deberá trabajar con August que es bastante inútil en temas de ciencia. 
+
+El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrán a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
+
+La huida exige una sección del reloj, así que el tiempo es muy limitado. Para empezar necesitan 5 secciones del reloj para destruir todo el parque, más la de la huida. Eso los deja solo 3 posibles fallos.
+
+> Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real según se vayan rellenando las secciones del reloj.
 
 
 
@@ -280,9 +308,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave del lider:** _XXX. CANCELAR: XXX._
+* **Clave del sueño de toda una vida:** _XXX. CANCELAR: XXX._
+* **Clave de XXX:** _XXX. CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -313,11 +341,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
 
 
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
 ### Snot
 
-Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama si trabajo y ama la mecánica y la electrónica.
+Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama su trabajo y ama la mecánica y la electrónica.
 
 
 
@@ -348,17 +374,18 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _Piezas sueltas_
   * 🞆 _Baterias_
   * 🞆 _Explosivos_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+* Animador
+  * 🞊 _Dar ánimos_
+  * 🞊 _Empatía_
+  * 🞊 _Cantar_
+  * 🞊 _Psicología_
+  * 🞆 _Apoyar_
+  * 🞆 _Confesor_
 
 **CLAVES**
 * **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCELAR: Deja pasar la oportunidad de enredarte con tecnología.
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de la deuda de vida:** _Yalp ha cuidado de ti desde que empezaste a trabajar en las grandes metalúrgicas, el único lugar donde daban trabajos a los goblins. Te ha sacado de muchos problemas y te ha protegido en lo más duro de las huelgas. Activa esta clave cuando sigas las órdenes de Yalp. CANCELAR: Al apoyar las nuevas, brillantes e innovadoras ideas de Dez._
+* **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCELAR: Descansar demasiado tiempo._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -375,9 +402,9 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞏 FULMINADO
   * 🞏 MUERTO (Presunto)
 
-**EQUIPO:** XXX
+**EQUIPO:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
 
-**APARIENCIA:** XXX
+**APARIENCIA:** Goblin maduro con una sonrisa siempre en la cara sobre todo cuando trabaja en las cosas que le gustan. Las manos nunca están vacías, porque siempre está haciendo algo o va a hacer algo.
 
 
 
@@ -393,7 +420,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 ### Dez
 
-Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él se entrará en una nueva era tecnológica.
+Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él se entrará en una nueva era tecnológica.
 
 
 
@@ -406,7 +433,7 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
   * 🞊 _Electrónica_
   * 🞆 _Computación avanzada_
   * 🞆 _Óptica_
-  * 🞆 _Singalaridad_
+  * 🞆 _Singularidad_
 * Goblin
   * 🞊 _Cambiaformas_
   * 🞊 _Conexiones_
@@ -419,7 +446,7 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
 * Investigador
   * 🞊 _Método científico_
   * 🞊 _Teorías_
-  * 🞊 _Especulación
+  * 🞊 _Especulación_
   * 🞊 _XXX_
   * 🞆 _XXX_
   * 🞆 _XXX_
@@ -432,8 +459,8 @@ Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él s
 
 **CLAVES**
 * **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
-* **Clave de XXX:** _XXX CANCELAR: XXX._
+* **Clave de XXX:** _XXX. CANCELAR: XXX._
+* **Clave de XXX:** _XXX. CANCELAR: XXX._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
