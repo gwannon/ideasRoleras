@@ -29,8 +29,6 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 \sinc
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
 ### August Thornberry
 
 Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, que ha acabado bajo las órdenes de 3 goblins y fingiendo ser un famoso inventor.
@@ -103,6 +101,8 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
 
 \sinc
 
+&nbsp;
+
 [![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
 
 \conc
@@ -110,8 +110,6 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
 \sp
 
 \sinc
-
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
 
 ### Yalp
 
@@ -153,9 +151,9 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞆 _XXX_
 
 **CLAVES**
-* **Clave del lider:** _XXX. CANCELAR: XXX._
-* **Clave del sueño de toda una vida:** _XXX. CANCELAR: XXX._
-* **Clave de XXX:** _XXX. CANCELAR: XXX._
+* **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCELAR: Cedas el mando a otros._
+* **Clave del sueño de toda una vida:** _El parque ha sido tu sueño desde que eras un pequeño goblin, pero tu deber es destruirlo. Activa está clave cuando destruyas elementos del parque sin necesidad, solo por asegurarte de que cae en malas manos. CANCELAR: Cuando tratas de salvar algo del parque._
+* **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCELAR: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -261,8 +259,6 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 \sinc
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
 ### Dez
 
 Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él se entrará en una nueva era tecnológica.
@@ -292,20 +288,20 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
   * 🞊 _Método científico_
   * 🞊 _Teorías_
   * 🞊 _Especulación_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
-* XXX
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞊 _XXX_
-  * 🞆 _XXX_
-  * 🞆 _XXX_
+  * 🞊 _Documentar_
+  * 🞆 _Demostración empírica_
+  * 🞆 _Defender tesis_
+* Humanista
+  * 🞊 _Filosofía_
+  * 🞊 _Antropología_
+  * 🞊 _Medicina_
+  * 🞊 _Psicología_
+  * 🞆 _Historia_
 
 **CLAVES**
 * **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
-* **Clave de la ciencia:** _XXX. CANCELAR: XXX._
-* **Clave de XXX:** _XXX. CANCELAR: XXX._
+* **Clave de la ciencia:** _La ciencia es tu vida y nada se interpondrá entre ella y tú. Activa está clave cuando descubras algo nuevo con potencial científico. CANCELAR: Si no investigas algo de interés científico._
+* **Clave del maniquí:** _Los maniquíes, sobre todo los programados por ti, son cada vez más sofisticados y cada vez los sientes más humanos. Activa esta clave cuando los defiendas como si fueran personas reales. CANCELAR: Al sacrificarlos o destruirlos para llevar a cabo tus planes._
 
 **SECRETOS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -327,6 +323,10 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 **APARIENCIA:** Con sus una gafas con cristales gruesos y su bata de laboratorio parece el típico científico despistado que no levanta los ojos de sus fórmulas y sus experimentos.
 
 \sinc
+
+&nbsp;
+
+&nbsp;
 
 [![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
 
