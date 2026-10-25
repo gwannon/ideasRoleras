@@ -304,7 +304,7 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 
 **CLAVES**
 * **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
-* **Clave de XXX:** _XXX. CANCELAR: XXX._
+* **Clave de la ciencia:** _XXX. CANCELAR: XXX._
 * **Clave de XXX:** _XXX. CANCELAR: XXX._
 
 **SECRETOS**
