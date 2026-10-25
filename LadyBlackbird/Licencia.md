@@ -12,5 +12,7 @@ Está basado en Lady Blackbird de John Harper.
 
 El filete separador ornamentado pertenece a [kjpargeter](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm).
 
+Los personajes varios pertcencen a [macrovector](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm).
+
 
 \conc

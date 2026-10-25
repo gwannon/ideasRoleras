@@ -30,11 +30,15 @@ El planetoide donde ha sido construido el parque tiene todo un sistema de velas 
 
 
 
+[![Androide con capa andando y echando humo de macrovector](./maniqui.jpg "Androide con capa andando y echando humo de macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Androide con capa andando y echando humo de macrovector")
+
 Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves, tras pagar unas desorbitadas tasas de aterrizaje.
 
 Desde allí, pueden acceder al _resort_ donde son acomodados en sus lujosas _suites_. Tras refrescarse en sus habitaciones o tomar un buen tentempié pueden entrar en el parque y disfrutar de sus maravillas como el Vuelo del Ave de Trueno de West World o el Laberinto de kevlar de East World.
 
-En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs. Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
+En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs.
+
+Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
 
 El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
 
@@ -54,6 +58,16 @@ Los visitantes son tratados como héroes a los que se alaba y se les ofrece ambr
 
 Los desfiles militares, las carreras de cuadrigas eléctricas y los combates de gladiadores electrificados son frecuentes.
 
+### South World
+
+Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de animales salvajes. 
+
+
+
+Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
+
+En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
+
 ### East World
 
 En la parte este tenemos East World, un pastiche de mitos y cuentos de lo más recóndito del espacio conocido, con príncipes y princesas alienígenas, extrañas y gigantescas bestias de carga o guerra y exóticos palacios con pasadizos secretos.
@@ -62,22 +76,11 @@ Duelos de electro-espadas aderezadas con acrobacias imposibles, llamaradas y ray
 
 Y todo finalmente aderezado con bailes acompañados de los chirridos de montones de articulaciones y engranajes metálicos.
 
-
-
-
 ### West World
 
 En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
 
 Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
-
-### South World
-
-Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de animales salvajes. 
-
-Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
-
-En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
 
 ### Moverse entre zonas
 
@@ -91,7 +94,22 @@ La forma más fácil de moverse es por la superficie del parque, pero eso no qui
 
 
 
-XXX
+La tecnología electrónica usada en el parque por Yalp, Snot y Dez es muy superior a la del resto de investigadores científicos del Imperio.
+
+Por un lado, su electricidad y sus velas solares es el doble de poderosa que el vapor y el carbón que usa el resto del mundo. Sus inventos pueden funcionar durante días sin tener que recargar sus baterías durante días gracias a sus velas solares que convierten la luz en electricidad..
+
+
+
+Sus maniquíes electricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
+
+El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las maquinas pensantes mecanicas que usa el imperio. 
+Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
+
+Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas  nuevas tecnologías electrónicas.
+
+Los goblins consideran todo está tecnología como suya y verla en manos de otros usándose con fines militares les es inconcebible.
+
+Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso podrían sacrificarse para evitar que caiga en malos manos.
 
 
 
@@ -99,9 +117,11 @@ XXX
 
 
 
+[![Androide steampunk con una bandeja de camarero de macrovector](./maniqui2.jpg "Androide steampunk con una bandeja de camarero de macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Androide steampunk con una bandeja de camarero de macrovector")
+
 XXX
 
-Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
+> Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real.
 
 
 
@@ -128,6 +148,8 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 **Snott** No eres un genio, pero eres es que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin tí nada funcionaria dos días seguidos, pero de eso no se dan cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
+
+> Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicarselos.
 
 
 
@@ -220,7 +242,7 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
 
 ### Yalp
 
-XXX
+Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no tienes las energías de la juventud y sus ideas innovadoras en su momento empiezan a quedarse viejas y obsoletas.
 
 
 
@@ -293,7 +315,7 @@ XXX
 
 ### Snot
 
-XXX
+Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama si trabajo y ama la mecánica y la electrónica.
 
 
 
@@ -370,7 +392,7 @@ XXX
 
 ### Dez
 
-XXX
+Joven genio goblin al que nadie toma en serio, pero seguramente  gracias a él se entrará en una nueva era tecnológica.
 
 
 
@@ -526,6 +548,8 @@ Está basado en Lady Blackbird de John Harper.
 [https://ladyblackbird.org/](https://ladyblackbird.org/)
 
 El filete separador ornamentado pertenece a [kjpargeter](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm).
+
+Los personajes varios pertcencen a [macrovector](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm).
 
 
 

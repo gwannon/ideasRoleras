@@ -127,10 +127,6 @@ body > *:first-child,
   counter-increment: primary 1; /* Increment the value of section counter by 1 */
 }
 
-section div.saltopagina:nth-child(n+54) {
-  counter-increment: primary 0;
-}
-
 .saltopagina:after {
   --size: 30px;
   font-family: "Rosarivo", cursive;
@@ -251,4 +247,19 @@ img {
 p:has(img) {
   padding: 0px;
   margin: 0px;
+}
+
+
+blockquote {
+  border: 1px solid var(--color-primary);
+  padding: 10px;
+  margin: 0 0 10px 0;
+  font-family: "Rosarivo", cursive;
+  line-height: 120%;
+  font-style: italic;
+}
+
+blockquote p:last-child {
+  padding: 0;
+  margin: 0;
 }
