@@ -201,8 +201,8 @@ ul ul {
   display: flex;
   gap: 5px;
   flex-wrap: wrap;
-  margin-bottom: 10px;
-  font-size: 0.75em;
+  margin-bottom: 6px;
+  font-size: 0.70em;
 }
 
 .columns > ul:first-of-type > li > ul {

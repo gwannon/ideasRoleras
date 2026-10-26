@@ -69,3 +69,11 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |4|**Catering:** Os encontráis un carrito de catering de lujo abandonado para que los visitantes disfruten de sus delicados platos en el vuelo de vuelta.|
 |5|**Explosiones:** Se oye una gran explosión a lo lejos, no sabéis si en propio espacio puerto o en otra zona del parque.|
 |6|**No se deja nadie atrás:** Parte del personal, los más fieles e incondicionales, no se quiere ir hasta que se vayan con ellos tus jugadores.|
+
+\sinc
+
+&nbsp;
+
+[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+
+\conc

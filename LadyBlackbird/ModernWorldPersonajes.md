@@ -24,7 +24,6 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 > Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicárselos.
 
-
 \sp
 
 \sinc
@@ -92,20 +91,12 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
   * 🞏 PERSEGUIDO
   * 🞏 ATRAPADO
   * 🞏 ASFIXIADO
-  * 🞏 FULMINADO
+  * 🞏 ELECTROCUTADO
   * 🞏 MUERTO (Presunto)
 
 **EQUIPO:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
 
 **APARIENCIA:** Bien arreglado, bien peinado, bien vestido y sobre todo con un porte espectacular. Su tupido bigote siempre está perfectamente aceitado. Él sabe cómo hacer que todo lo que se pone reluzca.
-
-\sinc
-
-&nbsp;
-
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
-\conc
 
 \sp
 
@@ -167,18 +158,12 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞏 PERSEGUIDO
   * 🞏 ATRAPADO
   * 🞏 ASFIXIADO
-  * 🞏 FULMINADO
+  * 🞏 ELECTROCUTADO
   * 🞏 MUERTO (Presunto)
 
 **EQUIPO:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
 
 **APARIENCIA:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy prácticas.
-
-\sinc
-
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
-\conc
 
 \sp
 
@@ -246,18 +231,12 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞏 PERSEGUIDO
   * 🞏 ATRAPADO
   * 🞏 ASFIXIADO
-  * 🞏 FULMINADO
+  * 🞏 ELECTROCUTADO
   * 🞏 MUERTO (Presunto)
 
 **EQUIPO:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
 
 **APARIENCIA:** Goblin maduro con una sonrisa siempre en la cara sobre todo cuando trabaja en las cosas que le gustan. Las manos nunca están vacías, porque siempre está haciendo algo o va a hacer algo.
-
-\sinc
-
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
-
-\conc
 
 \sp
 
@@ -319,7 +298,7 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
   * 🞏 PERSEGUIDO
   * 🞏 ATRAPADO
   * 🞏 ASFIXIADO
-  * 🞏 FULMINADO
+  * 🞏 ELECTROCUTADO
   * 🞏 MUERTO (Presunto)
 
 **EQUIPO:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
@@ -327,8 +306,6 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 **APARIENCIA:** Con sus una gafas con cristales gruesos y su bata de laboratorio parece el típico científico despistado que no levanta los ojos de sus fórmulas y sus experimentos.
 
 \sinc
-
-&nbsp;
 
 &nbsp;
 

@@ -151,14 +151,21 @@ La huida exige una sección del reloj, así que el tiempo es muy limitado. Para 
 
 > Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real según se vayan rellenando las secciones del reloj.
 
-\sp
+\sinc
 
-|ModernWorldPersonajes.md|
+&nbsp;
 
+[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+
+\conc
 
 \sp
 
 |ModernWorldEncuentros.md|
+
+\sp
+
+|ModernWorldPersonajes.md|
 
 \sp
 
