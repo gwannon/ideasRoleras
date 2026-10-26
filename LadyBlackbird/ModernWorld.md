@@ -133,13 +133,13 @@ El último paso sería destruir cada centro de control para asegurarse de que no
 
 * En North World, hay actividad volcánica, de ahí sus famosas termas.
 * El de South World tiene cerca un gasoducto de gas extraído del planetoide.
-* West World, es desde donde se lanza la pirotécnica del parque, así que hay posibilidad de usarla.
+* West World es desde donde se lanza la pirotécnica del parque, así que hay posibilidad de usarla.
 * El centro de East World está debajo del lago central. Podrían inundarlo.
 * Modern World no tiene a priori ningún punto débil.
 
 En Moderno World, además de la zona de control, donde empezarán, tendrán que destruir su laboratorio, eso debería ser especialmente duro para los 3 Goblins, ya que es destruir el trabajo de toda una vida.
 
-Está sección debe ser la última en destruirse porque la necesitan funcional para moverse entre secciones del parque y llegar al espacio puerto en el auto tren lanzadera. Además tendrán que hacerlo a distancia, ya que si lo destruyen antes de llegar al espacio puerto el auto tren se parará en mitad de la vía.
+Está sección debe ser la última en destruirse porque la necesitan funcional para moverse entre secciones del parque y llegar al espacio puerto en el auto tren lanzadera. Además, tendrán que hacerlo a distancia, ya que si lo destruyen antes de llegar al espacio puerto el auto tren se parará en mitad de la vía.
 
 La misión de destrucción tiene un tiempo máximo. Crea un reloj con 9 secciones, cada vez que ejecuten un plan de sabotaje fallido o exitoso rellena una sección. Cuando se rellenen todos, el Devastador aterrizará y las tropas de asalto se harán con el control de lo que quede en pie del parque.
 

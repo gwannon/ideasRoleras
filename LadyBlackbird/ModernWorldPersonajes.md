@@ -172,7 +172,7 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
 
 **EQUIPO:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
 
-**APARIENCIA:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy practicas.
+**APARIENCIA:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy prácticas.
 
 \sinc
 

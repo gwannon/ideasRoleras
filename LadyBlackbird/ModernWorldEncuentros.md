@@ -11,7 +11,7 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |1|**¡Limpio, señor!:** Un maniquí eléctrico se empeña en limpiar vuestras botas y no acepta un no por respuesta. Seguirá al grupo hasta que le dejen limpiar sus botas.|
 |2|**Rezagados:** Los últimos rezagados de la evacuación esperan en tropel al último transporte que les llevará al espacio puerto. La gente está muy nerviosa y asustada.|
 |3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
-|4|**El oraculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
+|4|**El oráculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
 |5|**Maletas abandonadas:** Los visitantes han abandonado sus pesadas maletas al salir huyendo. Si se pierde tiempo revisándolas, puede haber cualquier cosa y algunas pueden ser útiles.|
 |6|**Fuerzas de asalto:** Una lanzadera de asalto del Devastador se ha adelantado y ha dejado una brigada de soldados de asalto para asegurar la zona.|
 
@@ -20,7 +20,7 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 |1d6|North World|
 |---|---|
 |1|**Bacanal:** Una pareja que estaba sola en los baños de vapor, no se ha enterado de la evacuación y al salir se han encontrado el parque vacío. Andan semidesnudos y desorientados.|
-|2|**Demuestre su valor y gane una magnifica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
+|2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
 |3|**El espectáculo del dios del trueno:** Una maniquí disfrazado de algún tipo de dios mitológico sube al edificio más alto y empieza a lanzar desde sus manos arcos voltaicos que caen en diferentes partes seguras de la zona. Si alguien o algo estuviera en esas partes seguras, la descarga que recibiría sería mortal.|
 |4|**Vuelo de reconocimiento:** Una lanzadera de reconocimiento del Devastador sobrevuela la zona para informar a alto mando. Si os detectan puede que vuestro plan de sabotaje se vaya al traste.|
 |5|**Silencio:** Por puro azar, en este preciso momento no hay nadie cerca, ni personas ni maniquíes. Estáis solos y en completo silencio.|
