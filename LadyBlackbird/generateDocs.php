@@ -18,7 +18,7 @@ file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\
 
 $mkd->setContent($md);
 
-$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template.html")); 
+$html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template".$argv[1].".html")); 
 $html = str_replace("|ID|", $argv[1], $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
@@ -55,6 +55,15 @@ if($argv[1] == 'ModernWorld') {
   $metas .= "InfoValue: Modern World\n\n";
   $metas .= "InfoKey: Subject\n";
   $metas .= "InfoValue: Modern World es una aventura para LadyBlackbird RPG de John Harper. Versión 1.0\n\n";
+  $metas .= "InfoKey: Author\n";
+  $metas .= "InfoValue: Gwannon\n\n";
+  $metas .= "InfoKey: Keywords\n";
+  $metas .= "InfoValue: rpg, ttrpg, lady blackbird, goblins, steampunk\n\n";
+} else if($argv[1] == 'ModernWorldEN') {
+  $metas = "InfoKey: Title\n";
+  $metas .= "InfoValue: Modern World\n\n";
+  $metas .= "InfoKey: Subject\n";
+  $metas .= "InfoValue: Modern World is an adventure for John Harper's [Lady Blackbird RPG. Version 1.0\n\n";
   $metas .= "InfoKey: Author\n";
   $metas .= "InfoValue: Gwannon\n\n";
   $metas .= "InfoKey: Keywords\n";

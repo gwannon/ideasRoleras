@@ -24,7 +24,7 @@ Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno 
 
 
 
-Modern World es único en su especie. Es como titulaba la prensa «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
 
 El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
 
