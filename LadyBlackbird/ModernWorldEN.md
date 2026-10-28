@@ -12,7 +12,7 @@ The Empire has recognized the potential for military use of the inventions devel
 
 The Empire does not take rejection well. If it isn’t handed over willingly, it will have to send a destroyer to take it by force.
 
-Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
+What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot, and Dez ,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
 
 Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el Imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
 
@@ -30,7 +30,7 @@ El planetoide donde ha sido construido el parque tiene todo un sistema de velas 
 
 \sp
 
-[![Androide con capa andando y echando humo de macrovector](./maniqui.jpg "Androide con capa andando y echando humo de macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Androide con capa andando y echando humo de macrovector")
+[![Android with a cape, walking and emitting smoke by macrovector](./maniqui.jpg "Android with a cape, walking and emitting smoke by macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Android with a cape, walking and emitting smoke by macrovector")
 
 Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves, tras pagar unas desorbitadas tasas de aterrizaje.
 
@@ -117,7 +117,7 @@ Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso 
 
 \conc
 
-[![Androide steampunk con una bandeja de camarero de macrovector](./maniqui2.jpg "Androide steampunk con una bandeja de camarero de macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Androide steampunk con una bandeja de camarero de macrovector")
+[![Steampunk android with a waiter’s tray by macrovector](./maniqui2.jpg "Steampunk android with a waiter’s tray by macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Steampunk android with a waiter’s tray by macrovector")
 
 Una vez evacuado el parque tus jugadores deberían buscar la forma de evitar que la Flota Imperial se haga con su tecnología. Si cae en malas manos como las del Imperio, podría ser un desastre.
 
