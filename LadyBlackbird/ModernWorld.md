@@ -8,13 +8,13 @@ _… es una aventura creada por [Gwannon](https://gwannon.com/) para [Lady Black
 
 Modern World es un resort y parque temático al que van los ricos y ociosos de Ilysium a divertirse. En este parque hay automatas eléctricos, llamados maniquíes, que representan el mundo futuro de las noveluchas baratas futuristas donde el vapor y el carbón han dado paso a la electricidad y las velas solares.
 
-El imperio ha visto la capacidad de usar militarmente los inventos desarrollados por August Thornberry, propietario de Modern World, y su grupo de ingenieros goblins, pero estos han rechazado venderle su tecnología.
+El Imperio ha visto la capacidad de usar militarmente los inventos desarrollados por August Thornberry, propietario de Modern World, y su grupo de ingenieros goblins, pero estos han rechazado venderle su tecnología.
 
-El imperio no lleva bien el rechazo. Si no se la dan por las buenas, tendrá que mandar un destructor para que la coja por la fuerza.
+El Imperio no lleva bien el rechazo. Si no se la dan por las buenas, tendrá que mandar un destructor para que la coja por la fuerza.
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
-Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
+Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el Imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
 
 Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
@@ -24,7 +24,7 @@ Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno 
 
 \conc
 
-Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del Imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
 
 El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
 
@@ -102,7 +102,7 @@ Por un lado, su electricidad y sus velas solares es el doble de poderosa que el 
 
 Sus maniquíes eléctricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
 
-El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el imperio. 
+El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el Imperio. 
 Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
 
 Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas nuevas tecnologías electrónicas.

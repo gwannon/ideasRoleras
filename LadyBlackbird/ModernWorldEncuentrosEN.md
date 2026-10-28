@@ -74,6 +74,6 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 
 &nbsp;
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+[![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
 \conc

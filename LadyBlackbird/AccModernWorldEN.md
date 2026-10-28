@@ -8,13 +8,13 @@ _… is an adventure created by [Gwannon](https://gwannon.com/) for John Harper'
 
 Modern World is a resort and amusement park where the richest people of Ilysium go to amuse themselves. The park features electric automatons, known as mannequins, that evoke the future described in the cheap, pulp-style science fiction novels, a world where steam and coal have given way to electricity and solar sails.
 
-El imperio ha visto la capacidad de usar militarmente los inventos desarrollados por August Thornberry, propietario de Modern World, y su grupo de ingenieros goblins, pero estos han rechazado venderle su tecnología.
+The Empire has recognized the potential for military use of the inventions developed by August Thornberry, owner of Modern World, and his group of goblin engineers, but they have refused to sell their technology to the empire.
 
-El imperio no lleva bien el rechazo. Si no se la dan por las buenas, tendrá que mandar un destructor para que la coja por la fuerza.
+The Empire does not take rejection well. If it isn’t handed over willingly, it will have to send a destroyer to take it by force.
 
 Lo que nadie sabe es que Thornberry no es un genio inventor, solo es un farsante con un pico de oro al que los goblins Yalp, Snot y Dez, los verdaderos genios de la electricidad, contrataron para ser la cara visible del parque y que firmara los avales bancarios. Ningún banco de Ilysium pondría dinero para las locas ideas de tres goblins.
 
-Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
+Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el Imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
 
 Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
@@ -24,7 +24,7 @@ Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno 
 
 
 
-Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del Imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
 
 El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
 
@@ -102,7 +102,7 @@ Por un lado, su electricidad y sus velas solares es el doble de poderosa que el 
 
 Sus maniquíes eléctricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
 
-El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el imperio. 
+El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el Imperio. 
 Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
 
 Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas nuevas tecnologías electrónicas.
@@ -155,7 +155,7 @@ La huida exige una sección del reloj, así que el tiempo es muy limitado. Para 
 
 
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+[![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
 
 
@@ -237,7 +237,7 @@ Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destru
 
 
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+[![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
 
 
@@ -267,7 +267,7 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
-> Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicárselos.
+> Although the characters are all male, this is merely a suggestion. You are free to adapt them however you like; in fact, ask your players to define their characters' pronouns when they choose their characters.
 
 
 
@@ -279,7 +279,7 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 * Caballero
   * 🞊 _Etiqueta_
   * 🞊 _Elegancia_
@@ -328,18 +328,18 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
 * **Secreto del ladrón:** _Una vez por sesión, puedes repetir un fallo cuando te escondas, trates de abrir cerraduras, robar bolsillos y otras actividades de ladrón._
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
+**ITEMS:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
 
 **APPEARANCE:** Bien arreglado, bien peinado, bien vestido y sobre todo con un porte espectacular. Su tupido bigote siempre está perfectamente aceitado. Él sabe cómo hacer que todo lo que se pone reluzca.
 
@@ -349,11 +349,11 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 ### Yalp
 
-Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no tienes las energías de la juventud y sus ideas innovadoras en su momento empiezan a quedarse viejas y obsoletas.
+An old goblin who has dedicated his life to science. His problem is that he no longer possesses the energy of youth, and the ideas that were once innovative are beginning to grow old and obsolete.
 
 
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 * Ingeniero
   * 🞊 _Motor de vapor_
   * 🞊 _Metalurgia_
@@ -395,18 +395,18 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la cadena de mando:** _Una vez por recuperación, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
+**ITEMS:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
 
 **APPEARANCE:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy prácticas.
 
@@ -420,7 +420,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 
 * Mantenimiento
   * 🞊 _Revisar_
@@ -468,18 +468,18 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
+**ITEMS:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
 
 **APPEARANCE:** Goblin maduro con una sonrisa siempre en la cara sobre todo cuando trabaja en las cosas que le gustan. Las manos nunca están vacías, porque siempre está haciendo algo o va a hacer algo.
 
@@ -493,7 +493,7 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 
 
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 * Científico 
   * 🞊 _Nuevos materiales_
   * 🞊 _Química_
@@ -535,18 +535,18 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
+**ITEMS:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
 
 **APPEARANCE:** Con sus una gafas con cristales gruesos y su bata de laboratorio parece el típico científico despistado que no levanta los ojos de sus fórmulas y sus experimentos.
 
@@ -554,7 +554,7 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 
 
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+[![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
 
 

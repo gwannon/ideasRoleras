@@ -22,7 +22,7 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
-> Aunque los personajes son todos masculinos, solo es una sugerencia. Eres libre de adaptarlos como desees, de hecho pide a tus jugadores que definan los pronombres de sus personajes al adjudicárselos.
+> Although the characters are all male, this is merely a suggestion. You are free to adapt them however you like; in fact, ask your players to define their characters' pronouns when they choose their characters.
 
 \sp
 
@@ -34,7 +34,7 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 \conc
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 * Caballero
   * 🞊 _Etiqueta_
   * 🞊 _Elegancia_
@@ -83,18 +83,18 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
 * **Secreto del ladrón:** _Una vez por sesión, puedes repetir un fallo cuando te escondas, trates de abrir cerraduras, robar bolsillos y otras actividades de ladrón._
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
+**ITEMS:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
 
 **APPEARANCE:** Bien arreglado, bien peinado, bien vestido y sobre todo con un porte espectacular. Su tupido bigote siempre está perfectamente aceitado. Él sabe cómo hacer que todo lo que se pone reluzca.
 
@@ -104,11 +104,11 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 ### Yalp
 
-Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no tienes las energías de la juventud y sus ideas innovadoras en su momento empiezan a quedarse viejas y obsoletas.
+An old goblin who has dedicated his life to science. His problem is that he no longer possesses the energy of youth, and the ideas that were once innovative are beginning to grow old and obsolete.
 
 \conc
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 * Ingeniero
   * 🞊 _Motor de vapor_
   * 🞊 _Metalurgia_
@@ -150,18 +150,18 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la cadena de mando:** _Una vez por recuperación, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
+**ITEMS:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
 
 **APPEARANCE:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy prácticas.
 
@@ -175,7 +175,7 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 
 \conc
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 
 * Mantenimiento
   * 🞊 _Revisar_
@@ -223,18 +223,18 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
+**ITEMS:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
 
 **APPEARANCE:** Goblin maduro con una sonrisa siempre en la cara sobre todo cuando trabaja en las cosas que le gustan. Las manos nunca están vacías, porque siempre está haciendo algo o va a hacer algo.
 
@@ -248,7 +248,7 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 
 \conc
 
-**RASGOS Y ETIQUETAS**
+**TRAITS & TAGS**
 * Científico 
   * 🞊 _Nuevos materiales_
   * 🞊 _Química_
@@ -290,18 +290,18 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
 * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
 
-* **ESTADOS**
-  * 🞏 HERIDO
-  * 🞏 CANSADO
-  * 🞏 ENFADADO
-  * 🞏 PERDIDO
-  * 🞏 PERSEGUIDO
-  * 🞏 ATRAPADO
-  * 🞏 ASFIXIADO
-  * 🞏 ELECTROCUTADO
-  * 🞏 MUERTO (Presunto)
+* **CONDITIONS**
+  * 🞏 INJURED
+  * 🞏 TIRED
+  * 🞏 ANGRY
+  * 🞏 LOST
+  * 🞏 HUNTED
+  * 🞏 TRAPPED
+  * 🞏 SUFFOCATED
+  * 🞏 ELECTROCUTED
+  * 🞏 DEAD (PRESUMED)
 
-**EQUIPMENT:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
+**ITEMS:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
 
 **APPEARANCE:** Con sus una gafas con cristales gruesos y su bata de laboratorio parece el típico científico despistado que no levanta los ojos de sus fórmulas y sus experimentos.
 
@@ -309,6 +309,6 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
 
 &nbsp;
 
-[![El filete separador ornamentado pertenece a kjpargeter](./filete.jpg "El filete separador ornamentado pertenece a kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "El filete separador ornamentado pertenece a kjpargeter")
+[![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
 \conc
