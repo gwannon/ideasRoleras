@@ -2,7 +2,7 @@
 
 ## ¿Qué puede pasar?
 
-Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destrucción, pueden pasar todo tipo de cosas. Te proponemos una tabla de eventos por cada zona del parque más una última para el aeropuerto.
+Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destrucción, pueden pasar todo tipo de cosas. Te proponemos una tabla de eventos por cada zona del parque más una última para el espaciopuerto.
 
 \conc
 

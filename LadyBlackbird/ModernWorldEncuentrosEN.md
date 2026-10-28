@@ -2,7 +2,7 @@
 
 ## What could happen?
 
-Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destrucción, pueden pasar todo tipo de cosas. Te proponemos una tabla de eventos por cada zona del parque más una última para el aeropuerto.
+While your players move through the park, carrying out their plan of destruction, all sorts of things can happen. We provide a table of random events for each zone of the park and the spaceport.
 
 \conc
 
