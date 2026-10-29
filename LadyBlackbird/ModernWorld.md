@@ -145,7 +145,7 @@ La misión de destrucción tiene un tiempo máximo. Crea un reloj con 9 seccione
 
 Separarse puede ser una opción interesante, pero uno de los goblins deberá trabajar con August que es bastante inútil en temas de ciencia. 
 
-El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrán a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
+El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrá a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
 
 La huida exige una sección del reloj, así que el tiempo es muy limitado. Para empezar necesitan 5 secciones del reloj para destruir todo el parque, más la de la huida. Eso los deja solo 3 posibles fallos.
 

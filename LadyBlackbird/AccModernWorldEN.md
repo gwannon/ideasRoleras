@@ -16,7 +16,7 @@ What no one knows is that Thornberry is no genius inventor. He is merely a charl
 
 Before the Devastator enters the planetoid’s atmosphere and its ground assault forces conquest Modern World, they must destroy the park’s facilities, ensuring the Empire cannot get its hands on the technological discoveries that give this place its magic.
 
-Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
+But it doesn’t end there; they will have to escape from the Devastator, for if any of the goblins are taken prisoner, they will be forced to reveal their scientific secrets by any means necessary, even through torture.
 
 
 
@@ -145,7 +145,7 @@ La misión de destrucción tiene un tiempo máximo. Crea un reloj con 9 seccione
 
 Separarse puede ser una opción interesante, pero uno de los goblins deberá trabajar con August que es bastante inútil en temas de ciencia. 
 
-El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrán a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
+El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrá a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
 
 La huida exige una sección del reloj, así que el tiempo es muy limitado. Para empezar necesitan 5 secciones del reloj para destruir todo el parque, más la de la huida. Eso los deja solo 3 posibles fallos.
 
