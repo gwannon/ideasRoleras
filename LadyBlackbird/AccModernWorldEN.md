@@ -14,7 +14,7 @@ The Empire does not take rejection well. If it isn’t handed over willingly, it
 
 What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot, and Dez ,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
 
-Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el Imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
+Before the Devastator enters the planetoid’s atmosphere and its ground assault forces conquest Modern World, they must destroy the park’s facilities, ensuring the Empire cannot get its hands on the technological discoveries that give this place its magic.
 
 Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
@@ -165,7 +165,7 @@ La huida exige una sección del reloj, así que el tiempo es muy limitado. Para 
 
 ## What could happen?
 
-Mientras tus jugadores se mueven por el parque llevando a cabo su plan de destrucción, pueden pasar todo tipo de cosas. Te proponemos una tabla de eventos por cada zona del parque más una última para el aeropuerto.
+While your players move through the park, carrying out their plan of destruction, all sorts of things can happen. We provide a table of random events for each zone of the park and the spaceport.
 
 
 
@@ -363,14 +363,14 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞆 _Computación_
   * 🞆 _Engranajes_
 * Goblin
-  * 🞊 _Cambiaformas_
-  * 🞊 _Conexiones_
-  * 🞊 _Visión nocturna_
-  * 🞊 _Dientes y garras_
-  * 🞆 _Imitar forma_
-  * 🞆 _Planear_
-  * 🞆 _Armadura adaptable_
-  * 🞆 _Bolsa de piel_
+  * 🞊 _Shapeshifting_
+  * 🞊 _Connections_
+  * 🞊 _Nightvision_
+  * 🞊 _Teeth & Claws_
+  * 🞆 _Mimic Shape_
+  * 🞆 _Planning_
+  * 🞆 _Adaptable armor_
+  * 🞆 _Body pouch_
 * Sindicalista
   * 🞊 _Atizar_
   * 🞊 _Correr_
@@ -416,7 +416,7 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 
 ### Snot
 
-Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo. Ama su trabajo y ama la mecánica y la electrónica.
+A hardworking, steady, and resilient goblin mechanic who enjoys his job. He loves his work and has a passion for mechanics and electronics items.
 
 
 
@@ -432,14 +432,14 @@ Mecánico goblin trabajador, constante, resiliente y al que le gusta su trabajo.
   * 🞆 _Reemplazar_
   * 🞆 _Recabar información_
 * Goblin
-  * 🞊 _Cambiaformas_
-  * 🞊 _Conexiones_
-  * 🞊 _Visión nocturna_
-  * 🞊 _Dientes y garras_
-  * 🞆 _Imitar forma_
-  * 🞆 _Planear_
-  * 🞆 _Armadura adaptable_
-  * 🞆 _Bolsa de piel_
+  * 🞊 _Shapeshifting_
+  * 🞊 _Connections_
+  * 🞊 _Nightvision_
+  * 🞊 _Teeth & Claws_
+  * 🞆 _Mimic Shape_
+  * 🞆 _Planning_
+  * 🞆 _Adaptable armor_
+  * 🞆 _Body pouch_
 * Chapucero
   * 🞊 _Identificar_
   * 🞊 _Improvisar_
@@ -504,14 +504,14 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
   * 🞆 _Óptica_
   * 🞆 _Singularidad_
 * Goblin
-  * 🞊 _Cambiaformas_
-  * 🞊 _Conexiones_
-  * 🞊 _Visión nocturna_
-  * 🞊 _Dientes y garras_
-  * 🞆 _Imitar forma_
-  * 🞆 _Planear_
-  * 🞆 _Armadura adaptable_
-  * 🞆 _Bolsa de piel_
+  * 🞊 _Shapeshifting_
+  * 🞊 _Connections_
+  * 🞊 _Nightvision_
+  * 🞊 _Teeth & Claws_
+  * 🞆 _Mimic Shape_
+  * 🞆 _Planning_
+  * 🞆 _Adaptable armor_
+  * 🞆 _Body pouch_
 * Investigador
   * 🞊 _Método científico_
   * 🞊 _Teorías_
@@ -519,12 +519,12 @@ Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él 
   * 🞊 _Documentar_
   * 🞆 _Demostración empírica_
   * 🞆 _Defender tesis_
-* Humanista
-  * 🞊 _Filosofía_
-  * 🞊 _Antropología_
-  * 🞊 _Medicina_
-  * 🞊 _Psicología_
-  * 🞆 _Historia_
+* Humanist
+  * 🞊 _Philosophy_
+  * 🞊 _Anthropology_
+  * 🞊 _Medicine_
+  * 🞊 _Psychology_
+  * 🞆 _History_
 
 **KEYS**
 * **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._

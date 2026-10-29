@@ -14,7 +14,7 @@ The Empire does not take rejection well. If it isn’t handed over willingly, it
 
 What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot, and Dez ,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
 
-Antes de que el Devastador entre en la atmosfera del planetoide y sus fuerzas de asalto terrestre tomen Modern World, deberán destruir las instalaciones del parque, para que el Imperio no se quede con sus descubrimientos tecnológicos que le dan su magia a este lugar.
+Before the Devastator enters the planetoid’s atmosphere and its ground assault forces conquest Modern World, they must destroy the park’s facilities, ensuring the Empire cannot get its hands on the technological discoveries that give this place its magic.
 
 Pero esto no acaba ahí, tendrán que escapar del Devastador, ya que, si alguno de los goblins cae prisionero, será obligado a revelar sus secretos científicos como sea, incluso con torturas.
 
