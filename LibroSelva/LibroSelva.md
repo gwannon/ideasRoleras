@@ -2,7 +2,7 @@
 
 «Salvando a Mogwli» es un juego de rol corto (media hora máximo de duración) donde interpretas a los amigos animales de Mowgli. Para jugar necesitarás papel, lápiz y 2 dados de ocho. 
 
-Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y a poder ser aprenda una lección vital. 
+Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido solo a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y, a poder ser, conseguir que aprenda una lección vital. 
 
 ## Sistema
 
@@ -15,15 +15,15 @@ Cuando tus jugadores intenten hacer **algo arriesgado, con posibilidad de fallo 
 
 Si un elefante trata de mover un tronco, no hace falta tirada, si quiere derribar la columna central de un templo en ruinas, sí necesita tirada.
 
-Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá consecuencia aunque sea un éxito.
+Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá consecuencia aunque sea un éxito.
 
-Si te preguntas por qué puedes eligir el resultado que más te convenga es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate por seguro que no quieres que sufra ningún dado porque sería mortal.
+Si te preguntas por qué puedes eligir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro que no quieres que sufra ningún daño porque sería mortal.
 
 Si un jugador tira con ventaja contra un animal que tiene ventaja en el mismo campo, se anula la ventaja. Si un jugador tira con desventaja contra un animal que tiene desventaja en el mismo campo, se anula la desventaja. En cualquier otra opción la tirada no pierde o gana ventaja 
 
 ### Consecuencias
 
-Las consecuencias para un jugador, pueden de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas.
+Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas.
 
 Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar los actuales. Si acamula muchas consecuencias, podría morir y la aventura acabaría.
 
@@ -43,9 +43,9 @@ Cada animal tiene dos elementos (fuerza, inteligencia, agilidad y maña) en que 
 * **Mono:** Ventaja en agilidad y maña. Desventaja sin su manada cerca.
 * **Elefante:** Ventaja en fuerza e inteligencia. Desventaja en espacios cerrados.
 
-Estos son solo ejemplos, puedes crear los animales de la jungla que quieras tomando a estos de ejemplo.
+Esto son solo ejemplos, puedes crear los animales de la jungla que quieras tomando estos ejemplos como guía.
 
-Tras esto, deberás ponerte un nombre, elegir tus pronombres y describir como conociste a Mowgli y la enseñanza vital que le diste aquella primera vez. 
+Tras esto, deberás ponerte un nombre, elegir tus pronombres y describir como conociste a Mowgli y la enseñanza vital que le diste en aquel primer encuentro. 
 
 ## La ley de la selva
 
@@ -62,7 +62,7 @@ Tus jugadores podrán romper leyes de la selva, pero siempre tendrá que tener c
 
 ## Mowgli
 
-Mowgli no tiene por qué cumplir a la ley de la selva, solo obedece a las enseñanzas que ha recibido de sus amigos animales.
+Mowgli no tiene por qué cumplir la ley de la selva, solo obedece las enseñanzas que ha recibido de sus amigos animales.
 
 Recuerda que Mowgli empieza sus aventuras con tantas lecciones vitales como jugadores, lecciones que habrán definido con su primer encuentro. 
 
@@ -70,7 +70,7 @@ Recuerda que Mowgli empieza sus aventuras con tantas lecciones vitales como juga
 
 Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te pican si te metes dentro del agua» o tan serías y complejas como «no hagas tratos con monos porque te intentarán engañar».
 
-Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien saldrá vivo y si no puede que muera.
+Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien, saldrá vivo y si no le han aleccionado bien, puede que muera.
 
 ## Aventuras
 
