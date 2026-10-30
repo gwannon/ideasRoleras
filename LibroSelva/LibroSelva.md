@@ -29,13 +29,13 @@ Lo primero para crear tu personaje es elegir su especie. Las especies no se pued
 
 * **Oso:** Ventaja en fuerza y maña. Desventaja en XXX.
 * **Pantera:** Ventaja en XXX y XXX. Desventaja en XXX.
-* **Tigre:** Ventaja en XXX y XXX. Desventaja en XXX.
+* **Tigre:** Ventaja en agilidad e inteligencia. Desventaja cuando hay fuego.
 * **Serpiente pitón:** Ventaja en fuerza y agilidad. Desventaja de noche o cuando ha comido.
-* **Lobo:** Ventaja en XXX y XXX. Desventaja en XXX.
+* **Lobo:** Ventaja en agilidad e inteligencia. Desventaja sin manada.
 * **Chacal:** Ventaja en XXX y XXX. Desventaja en XXX.
 * **Orangután:** Ventaja en fuerza y maña. Desventaja en XXX.
 * **Mono:** Ventaja en agilidad y maña. Desventaja en XXX.
-* **Elefante:** Ventaja en fuerza y memoria. Desventaja en agilidad.
+* **Elefante:** Ventaja en fuerza e inteligencia. Desventaja en espacios cerrados.
 
 Tras esto, deberás ponerte un nombre, elegir tus pronombres y describir como conociste a Mowgli y la enseñanza vital que le diste aquella primera vez. 
 
@@ -60,7 +60,7 @@ La ley de la selva, que incluso el poderoso Shere Khan obedece, establece que:
 * Los favores hay que devolverlos.
 * No se mata a los humanos. 
 
-Al principio de cada aventura, el DJ establece dos normas más a su gusto. Tus jugadores podrán romper leyes de la selva, pero siempre tendrá que tener consecuencias.
+Al principio de cada aventura, el DJ establece dos normas más a su gusto. Tus jugadores podrán romper leyes de la selva, pero siempre tendrá que tener consecuencias. XXX
 
 ## Aventuras
 
