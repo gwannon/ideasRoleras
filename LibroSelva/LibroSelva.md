@@ -1,6 +1,6 @@
 # Salvando a Mowgli
 
-«Salvando a Mogwli» es un juego de rol corto (media hora máximo) donde interpretas a los amigos animales de Mowgli. Necesitarás papel, lapiz y 2 dados de ocho. 
+«Salvando a Mogwli» es un juego de rol corto (media hora máximo) donde interpretas a los amigos animales de Mowgli. Necesitarás papel, lápiz y 2 dados de ocho. 
 
 Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y a poder ser aprenda una lección vital. 
 
@@ -39,18 +39,6 @@ Lo primero para crear tu personaje es elegir su especie. Las especies no se pued
 
 Tras esto, deberás ponerte un nombre, elegir tus pronombres y describir como conociste a Mowgli y la enseñanza vital que le diste aquella primera vez. 
 
-## Mowgli
-
-XXX
-
-Mowgli empieza sus aventuras con tantas lecciones vitales como jugadores, lecciones que habrán definido con su primer encuentro. 
-
-### La lección vital
-
-Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te picarán si te metes dentro del agua» o tan serías y complejas como «XXX».
-
-> Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien saldrá vivo y si no puede que muera.
-
 ## La ley de la selva
 
 La ley de la selva, que incluso el poderoso Shere Khan obedece, establece que:
@@ -62,8 +50,16 @@ La ley de la selva, que incluso el poderoso Shere Khan obedece, establece que:
 
 Al principio de cada aventura, el DJ establece dos normas más a su gusto. Tus jugadores podrán romper leyes de la selva, pero siempre tendrá que tener consecuencias. XXX
 
+## Mowgli
+
+Mowgli no tiene por qué cumplir a la ley de la selva, solo obedece a las enseñanzas que ha recibido de sus amigos animales. Mowgli empieza sus aventuras con tantas lecciones vitales como jugadores, lecciones que habrán definido con su primer encuentro. 
+
+### La lección vital
+
+Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te picarán si te metes dentro del agua» o tan serías y complejas como «XXX».
+
+Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien saldrá vivo y si no puede que muera.
+
 ## Aventuras
 
 Las aventuras son muy simples, Mowgli se ha levantado y ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos como él. Sea como sea, debes evitar que Mowgli muera, se pierda o que sea raptado y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
-
-XXX
