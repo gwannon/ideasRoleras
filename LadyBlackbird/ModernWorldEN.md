@@ -24,9 +24,9 @@ But it doesn’t end there; they will have to escape from the Devastator, for if
 
 \conc
 
-Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del Imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+Modern World is one of a kind. It is, as the press once titled it, «The most incredible place in the Empire». Every year, thousands of rich persons visit it, and upon returning home, they can speak only in glowing terms to those they know.
 
-El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
+The planetoid on which the park has been built has an entire system of solar sails that power a massive space engine, making the planetoid, in effect, a fully functional, but extremely slow, starship.
 
 \sp
 
