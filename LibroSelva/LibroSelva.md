@@ -27,14 +27,14 @@ XXX
 
 Lo primero para crear tu personaje es elegir su especie. Las especies no se pueden repetir, salgo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos de la misma especie. Cada animal tiene dos elementos en que tiene ventaja y uno en que tiene desventaja.
 
-* **Oso:** Ventaja en fuerza y maña. Desventaja en XXX.
+* **Oso:** Ventaja en fuerza y maña. Desventaja cuando hay comida.
 * **Pantera:** Ventaja en XXX y XXX. Desventaja en XXX.
 * **Tigre:** Ventaja en agilidad e inteligencia. Desventaja cuando hay fuego.
 * **Serpiente pitón:** Ventaja en fuerza y agilidad. Desventaja de noche o cuando ha comido.
-* **Lobo:** Ventaja en agilidad e inteligencia. Desventaja sin manada.
+* **Lobo:** Ventaja en agilidad e inteligencia. Desventaja sin su manada cerca.
 * **Chacal:** Ventaja en XXX y XXX. Desventaja en XXX.
 * **Orangután:** Ventaja en fuerza y maña. Desventaja en XXX.
-* **Mono:** Ventaja en agilidad y maña. Desventaja en XXX.
+* **Mono:** Ventaja en agilidad y maña. Desventaja sin su manada cerca.
 * **Elefante:** Ventaja en fuerza e inteligencia. Desventaja en espacios cerrados.
 
 Tras esto, deberás ponerte un nombre, elegir tus pronombres y describir como conociste a Mowgli y la enseñanza vital que le diste aquella primera vez. 
@@ -56,7 +56,7 @@ Mowgli no tiene por qué cumplir a la ley de la selva, solo obedece a las enseñ
 
 ### La lección vital
 
-Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te picarán si te metes dentro del agua» o tan serías y complejas como «XXX».
+Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te pican si te metes dentro del agua» o tan serías y complejas como «no hagas tratos con monos porque te intentarán engañar».
 
 Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien saldrá vivo y si no puede que muera.
 
