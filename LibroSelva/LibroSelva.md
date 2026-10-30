@@ -15,37 +15,45 @@ Cuando tus jugadores intenten hacer algo arriesgado, con posibilidad de fallo o 
 
 Si tienes **ventaja** en una tirada, tiras 2 dados y te quedas con el que más te convenga (no el mejor). Si tienes desventajas, tiras dos dados y te quedas también con el que más te convenga, pero si escoges el mayor de los dados siempre tendrá consecuencia aunque sea un éxito.
 
-Si te preguntas por qué eliges el resultado que más te convenga es porque igual necesitas que Mowgli se vea en problemas o sufra daño para aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección antes de enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Sheere Khan, estate por seguro que no quieres que sufra ningún dado porque sería mortal.
+Si te preguntas por qué eliges el resultado que más te convenga es porque igual necesitas que Mowgli se vea en problemas o sufra daño para aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección antes de enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate por seguro que no quieres que sufra ningún dado porque sería mortal.
 
-### Cosnecuencias
+Si un jugador tira con ventaja contra un animal que tiene ventaja en el mismo campo, se anula la ventaja. Si un jugador tira con desventaja contra un animal que tiene desventaja en el mismo campo, se anula la desventaja. En cualquier otra opción la tirada no pierde o gana ventaja 
+
+### Consecuencias
 
 XXX
 
 ## Animales
 
-XXX
+Lo primero para crear tu personaje es elegir su especie. Las especies no se pueden repetir, salgo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos de la misma especie. Cada animal tiene dos elementos en que tiene ventaja y uno en que tiene desventaja.
 
-Cada animal 
+* **Oso:** Ventaja en fuerza y maña. Desventaja en XXX.
+* **Pantera:** Ventaja en XXX y XXX. Desventaja en XXX.
+* **Tigre:** Ventaja en XXX y XXX. Desventaja en XXX.
+* **Serpiente pitón:** Ventaja en fuerza y agilidad. Desventaja de noche o cuando ha comido.
+* **Lobo:** Ventaja en XXX y XXX. Desventaja en XXX.
+* **Chacal:** Ventaja en XXX y XXX. Desventaja en XXX.
+* **Orangután:** Ventaja en fuerza y maña. Desventaja en XXX.
+* **Mono:** Ventaja en agilidad y maña. Desventaja en XXX.
+* **Elefante:** Ventaja en fuerza y memoria. Desventaja en agilidad.
 
-* **Oso:** XXX
-* **Pantera:** XXX
-* **Tigre:** XXX
-* **Serpiente pitón:** XXX
-* **Lobo:**
-* **Chacal:** XXX
-* **Orangután:** XXX
-* **Mono:** XXX
-* **Elefante:** Ventaja en tiradas de fuerza y memoria. Desventaja en agilidad.
-
-Una vez elegido el animal que eres, deberás ponerte un nombre y elegir tus pronombres. 
+Tras esto, deberás ponerte un nombre, elegir tus pronombres y describir como conociste a Mowgli y la enseñanza vital que le diste aquella primera vez. 
 
 ## Mowgli
 
 XXX
 
+Mowgli empieza sus aventuras con tantas lecciones vitales como jugadores, lecciones que habrán definido con su primer encuentro. 
+
+### La lección vital
+
+Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te picarán si te metes dentro del agua» o tan serías y complejas como «XXX».
+
+> Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien saldrá vivo y si no puede que muera.
+
 ## La ley de la selva
 
-La ley de la selva, que incluso el poderoso Sheere Khan obedece, establece que:
+La ley de la selva, que incluso el poderoso Shere Khan obedece, establece que:
 
 * La manada se protege.
 * No se mata por diversión o deporte.
@@ -59,9 +67,3 @@ Al principio de cada aventura, el DJ establece dos normas más a su gusto. Tus j
 Las aventuras son muy simples, Mowgli se ha levantado y ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos como él. Sea como sea, debes evitar que Mowgli muera, se pierda o que sea raptado y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
 
 XXX
-
-### La lección vital
-
-Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te picarán si te metes dentro del agua» o tan serías y complejas como «XXX».
-
-> Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien saldrá vivo y si no puede que muera.
