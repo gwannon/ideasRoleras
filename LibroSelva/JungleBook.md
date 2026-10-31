@@ -25,7 +25,7 @@ Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable,
 
 Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discrección del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
 
-Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar los actuales. Si acamula muchas consecuencias, podría morir y la aventura acabaría.
+Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir y la aventura acabaría.
 
 ## Animals
 
