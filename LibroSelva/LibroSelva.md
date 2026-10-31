@@ -75,3 +75,5 @@ Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus j
 ## Aventuras
 
 Las aventuras son muy simples, Mowgli se ha levantado y ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos como él. Sea como sea, debes evitar que Mowgli muera, se pierda, que sea raptado o que descubra el fuego y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
+
+Ilustraciones de J. Loockwood Kipling y W.H. Drake para el libro [Jungle Book](https://archive.org/details/twojunglebooks00kipl) (1894).
