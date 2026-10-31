@@ -15,7 +15,7 @@ Cuando tus jugadores intenten hacer **algo arriesgado, con posibilidad de fallo 
 
 Si un elefante trata de mover un tronco, no hace falta tirada, si quiere derribar la columna central de un templo en ruinas, sí necesita tirada.
 
-Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá consecuencia aunque sea un éxito.
+Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá una consecuencia grave aunque sea un éxito.
 
 Si te preguntas por qué puedes eligir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro que no quieres que sufra ningún daño porque sería mortal.
 
