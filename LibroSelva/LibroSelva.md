@@ -29,7 +29,7 @@ Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar lo
 
 ## Animales
 
-Lo primero para crear tu personaje es **elegir su especie**. Las especies no se pueden repetir, salgo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos animales de la misma especie.
+Lo primero para crear tu personaje es **elegir su especie**. Las especies no se pueden repetir, salvo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos animales de la misma especie.
 
 Cada animal tiene **dos elementos** (fuerza, inteligencia, agilidad y maña) en que tiene **ventaja** y una **situacion** en que tiene **desventaja**.
 
