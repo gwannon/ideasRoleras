@@ -6,7 +6,7 @@ Mowgli, the human cub from "The Jungle Book," has woken up and gone out alone to
 
 ## Rules
 
-Cuando tus jugadores intenten hacer **algo arriesgado, con posibilidad de fallo o que afecte directamente a Mowgli** tienen que tirar 1d8 y consultar el resultado.
+When your players attempt **something risky, something that could fail or that directly affects Mowgli, they must roll a 1d8 and check the result.
 
 * **1** Fallo con consecuencia grave que afecta a Mowgli
 * **2-4** Fallo con consecuencia grave para el jugador o sencilla para Mowgli
@@ -17,13 +17,13 @@ Si un elefante trata de mover un tronco, no hace falta tirada, si quiere derriba
 
 Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá una consecuencia grave aunque sea un éxito.
 
-Si te preguntas por qué puedes eligir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro que no quieres que sufra ningún daño porque sería mortal.
+Si te preguntas por qué puedes elegir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro de que no quieres que sufra ningún daño porque sería mortal.
 
 Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable, se anula la ventaja. Si un jugador tira con desventaja contra un animal que tiene desventaja aplicable, se anula la desventaja. En cualquier otra opción la tirada no pierde o gana ventaja o desventaja.
 
 ### Consequences
 
-Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discrección del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
+Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
 
 Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir y la aventura acabaría.
 
@@ -31,15 +31,15 @@ Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar lo
 
 Lo primero para crear tu personaje es **elegir su especie**. Las especies no se pueden repetir, salvo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos animales de la misma especie.
 
-Cada animal tiene **dos elementos** (fuerza, inteligencia, agilidad y maña) en que tiene **ventaja** y una **situacion** en que tiene **desventaja**.
+Cada animal tiene **dos elementos** (fuerza, inteligencia, agilidad y maña) en que tiene **ventaja** y una **situación** en que tiene **desventaja**.
 
 * **Bear:** Ventaja en **fuerza y maña**. Desventaja cuando hay **comida**.
 * **Panther:** Ventaja en **agilidad e inteligencia**. Desventaja en **espacios abiertos**.
 * **Tiger:** Ventaja en **agilidad y fuerza**. Desventaja cuando hay **fuego**.
-* **Serpiente pitón:** Ventaja en **fuerza y agilidad**. Desventaja **de noche o cuando ha comido**.
+* **Python:** Ventaja en **fuerza y agilidad**. Desventaja **de noche o cuando ha comido**.
 * **Wolf:** Ventaja en **agilidad e inteligencia**. Desventaja sin su **manada cerca**.
 * **Squirrel:** Ventaja en **agilidad y maña**. Desventaja con **cosas grandes**.
-* **Orangután:** Ventaja en **fuerza y maña**. Desventaja cerca de **humanos y sus cosas**.
+* **Orangutan:** Ventaja en **fuerza y maña**. Desventaja cerca de **humanos y sus cosas**.
 * **Monkey:** Ventaja en **agilidad y maña**. Desventaja sin su **manada cerca**.
 * **Elephant:** Ventaja en **fuerza e inteligencia**. Desventaja en **espacios cerrados**.
 
@@ -74,8 +74,8 @@ Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus j
 
 ## Adventures
 
-Las aventuras son muy simples, Mowgli se ha levantado y ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos como él. Sea como sea, debes evitar que Mowgli muera, se pierda, que sea raptado o que descubra el fuego y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
+The adventures are quite simple: Mowgli has woken up and gone out to explore the jungle. He might encounter other animals, venture into an unknown part of the jungle, seek out food, or even found other humans like himself. In any case, you must ensure that Mowgli does not die, get lost, end up kidnapped, nor should he discover fire, while making sure he returns to the wolf den having learned something new and important for his future survival.
 
 ---
 
-Ilustrations by J. Loockwood Kipling and W.H. Drake for the book [Jungle Book](https://archive.org/details/twojunglebooks00kipl) (1894).
+Ilustrations by J. Lockwood Kipling and W.H. Drake for the book [Jungle Book](https://archive.org/details/twojunglebooks00kipl) (1894).

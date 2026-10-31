@@ -1,12 +1,12 @@
 # Salvando a Mowgli
 
-«Salvando a Mogwli» es un juego de rol corto (media hora máximo de duración) donde interpretas a los amigos animales de Mowgli. Para jugar necesitarás papel, lápiz y 2 dados de ocho. 
+«Salvando a Mowgli» es un juego de rol corto (media hora máximo de duración) donde interpretas a los amigos animales de Mowgli. Para jugar necesitarás papel, lápiz y 2 dados de ocho. 
 
 Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido solo a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y, a poder ser, conseguir que aprenda una lección vital. 
 
 ## Sistema
 
-Cuando tus jugadores intenten hacer **algo arriesgado, con posibilidad de fallo o que afecte directamente a Mowgli** tienen que tirar 1d8 y consultar el resultado.
+Cuando tus jugadores intenten hacer **algo arriesgado, con posibilidad de fallo o que afecte directamente a Mowgli**, tienen que tirar 1d8 y consultar el resultado.
 
 * **1** Fallo con consecuencia grave que afecta a Mowgli
 * **2-4** Fallo con consecuencia grave para el jugador o sencilla para Mowgli
@@ -17,13 +17,13 @@ Si un elefante trata de mover un tronco, no hace falta tirada, si quiere derriba
 
 Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá una consecuencia grave aunque sea un éxito.
 
-Si te preguntas por qué puedes eligir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro que no quieres que sufra ningún daño porque sería mortal.
+Si te preguntas por qué puedes elegir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro de que no quieres que sufra ningún daño porque sería mortal.
 
 Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable, se anula la ventaja. Si un jugador tira con desventaja contra un animal que tiene desventaja aplicable, se anula la desventaja. En cualquier otra opción la tirada no pierde o gana ventaja o desventaja.
 
 ### Consecuencias
 
-Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discrección del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
+Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
 
 Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir y la aventura acabaría.
 
@@ -31,7 +31,7 @@ Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar lo
 
 Lo primero para crear tu personaje es **elegir su especie**. Las especies no se pueden repetir, salvo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos animales de la misma especie.
 
-Cada animal tiene **dos elementos** (fuerza, inteligencia, agilidad y maña) en que tiene **ventaja** y una **situacion** en que tiene **desventaja**.
+Cada animal tiene **dos elementos** (fuerza, inteligencia, agilidad y maña) en que tiene **ventaja** y una **situación** en que tiene **desventaja**.
 
 * **Oso:** Ventaja en **fuerza y maña**. Desventaja cuando hay **comida**.
 * **Pantera:** Ventaja en **agilidad e inteligencia**. Desventaja en **espacios abiertos**.
@@ -78,4 +78,4 @@ Las aventuras son muy simples, Mowgli se ha levantado y ha salido a explorar la 
 
 ---
 
-Ilustraciones de J. Loockwood Kipling y W.H. Drake para el libro [Jungle Book](https://archive.org/details/twojunglebooks00kipl) (1894).
+Ilustraciones de J. Lockwood Kipling y W.H. Drake para el libro [Jungle Book](https://archive.org/details/twojunglebooks00kipl) (1894).

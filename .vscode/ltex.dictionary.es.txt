@@ -759,3 +759,7 @@ World
 rickshaws
 East
 Modern
+Mowgli
+Mowgli
+Shere
+Khan
