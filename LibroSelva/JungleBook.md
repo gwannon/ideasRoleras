@@ -1,8 +1,8 @@
 # Saving Mowgli
 
-«Saving Mogwli» es un juego de rol corto (media hora máximo de duración) donde interpretas a los amigos animales de Mowgli. Para jugar necesitarás papel, lápiz y 2 dados de ocho. 
+«Saving Mowgli» is a short duration role-playing game (half an hour or less) in which you play as Mowgli’s animal friends. To play, you will need paper, a pencil, and two eight-sided dice.
 
-Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido solo a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y, a poder ser, conseguir que aprenda una lección vital. 
+Mowgli, the human cub from "The Jungle Book," has woken up and gone out alone to explore the jungle. Players take on the roles of his animal friends, who must prevent him from falling into any of the jungle’s many dangers—and, if possible, help him learn a life lesson. 
 
 ## Rules
 
