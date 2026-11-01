@@ -36,9 +36,9 @@ It has a spacious spaceport where the rich and powerful people of Ilysium can la
 
 From there, they can access the resort, where they are accommodated in their luxurious suites. After freshening up in their rooms or enjoying a nice meal, they can enter the park and experience its wonders, such as the Thunderbird Flight in West World or the Kevlar Labyrinth in East World.
 
-En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs.
+At the resort, there are only humans, chefs, waiters, attendants, cleaning staff, belboy, and so on. In contrast, the park contains only autonomous, motorized mannequins tasked with enlivening the various attractions and shows, as well as selling food or souvenirs.
 
-Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
+There are only a few humans and goblins dedicated to the maintenance of mannequins and attractions, or to more delicate tasks such as the massages and beauty treatments offered at the thermal baths.
 
 El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
 
