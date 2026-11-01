@@ -76,6 +76,8 @@ Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus j
 
 The adventures are quite simple: Mowgli has woken up and gone out to explore the jungle. He might encounter other animals, venture into an unknown part of the jungle, seek out food, or even found other humans like himself. In any case, you must ensure that Mowgli does not die, get lost, end up kidnapped, nor should he discover fire, while making sure he returns to the wolf den having learned something new and important for his future survival.
 
+### Enter Shere Khan
+
 Al comienzo de cada aventura, pon una **cuenta atrás de 30 minutos**. Pasados 25 minutos avisa que se oyen rugidos, al de 27 pasos pesados cerca, cuanto sean 29 minutos oirán una respiración fuerte entre la maleza y pasados 30, si no han solucionado el problema y vuelto a la lobera con Mowgli, Shere Khan, el gran tigre, aparecerá de entre la espesura y devorará al cachorro humano.
 
 ---
