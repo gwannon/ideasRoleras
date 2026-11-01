@@ -43,7 +43,7 @@ Cada animal tiene **2 elementos** en que tiene **ventaja** y una **situación** 
 |Mono|agilidad/maña|sin su manada cerca|
 |Elefante|fuerza/inteligencia|espacios cerrados|
 
-Tras esto, wligw tu **nombre**, tus **pronombres** y describe **cómo conociste a Mowgli** y la **enseñanza vital que le diste** en aquel primer encuentro. 
+Tras esto, elige tu **nombre**, tus **pronombres** y describe **cómo conociste a Mowgli** y la **enseñanza vital que le diste** en aquel primer encuentro. 
 
 ## La ley de la selva
 
