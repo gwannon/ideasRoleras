@@ -1,6 +1,6 @@
 # Salvando a Mowgli
 
-«Salvando a Mowgli» es un juego de rol corto (media hora máximo de duración) donde interpretas a los amigos animales de Mowgli. Para jugar necesitarás papel, lápiz y 2 dados de ocho. 
+«Salvando a Mowgli» es un juego de rol corto (media hora máximo de duración) donde interpretas a los amigos animales de Mowgli. Para jugar necesitarás papel, lápiz y 2 dados de ocho caras. 
 
 Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido solo a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y, a poder ser, conseguir que aprenda una lección vital. 
 
