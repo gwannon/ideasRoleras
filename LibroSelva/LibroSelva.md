@@ -76,6 +76,8 @@ Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus j
 
 Las aventuras son muy simples, Mowgli se ha levantado y ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos como él. Sea como sea, debes evitar que Mowgli muera, se pierda, que sea raptado o que descubra el fuego y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
 
+Al comienzo de cada aventura, pon una **cuenta atrás de 30 minutos**. Pasados 25 minutos avisa que se oyen rugidos, al de 27 pasos pesados cerca, cuanto sean 29 minutos oirán una respiración fuerte entre la maleza y pasados 30, si no han solucionado el problema y vuelto a la lobera con Mowgli, Shere Khan, el gran tigre, aparecerá de entre la espesura y devorará al cachorro humano.
+
 ---
 
 Ilustraciones de J. Lockwood Kipling y W.H. Drake para el libro [Jungle Book](https://archive.org/details/twojunglebooks00kipl) (1894).
