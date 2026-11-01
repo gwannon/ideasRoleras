@@ -1,6 +1,6 @@
 # Salvando a Mowgli
 
-«Salvando a Mowgli» es un juego de rol corto, media hora máximo de duración. Para jugar necesitarás papel, lápiz y 2 dados de ocho caras. 
+«Salvando a Mowgli» es un juego de rol de media hora máximo de duración. Para jugar necesitarás papel, lápiz y 2 dados de ocho caras. 
 
 Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha salido solo a explorar la selva. Los jugadores son sus amigos animales que tendrán que evitar que caiga en alguno de los peligros de la jungla y, a poder ser, conseguir que aprenda una lección vital. 
 
@@ -73,3 +73,5 @@ Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y n
 ## Aventuras
 
 Las aventuras son muy simples, Mowgli ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos. Sea como sea, debes evitar que Mowgli muera, se pierda, que sea raptado o que descubra el fuego y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
+
+Al comienzo de cada aventura, pon una **cuenta atrás de 30 minutos** . Pasados 25 minutos avisa que se oyen rugidos cercanos, al de 27 pasos pesados cerca y pasados 30, si no han solucionado el problema y vuelto a la lobera con Mowgli, Shere Khan aparecerá de entre la espesura y devorará al cachorro humano.
