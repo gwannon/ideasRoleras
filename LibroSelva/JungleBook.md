@@ -8,14 +8,14 @@ Mowgli, the human cub from "The Jungle Book," has woken up and gone out alone to
 
 When your players attempt **something risky, something that could fail or that directly affects Mowgli, they must roll a 1d8 and check the result.
 
-* **1** Fallo con consecuencia grave que afecta a Mowgli
-* **2-4** Fallo con consecuencia grave para el jugador o sencilla para Mowgli
-* **5-6** Éxito con consecuencia sencilla para el jugador o para Mowgli
-* **7-8** Éxito sin consecuencias para nadie.
+* **1** Failure with a serious consequence for Mowgli
+* **2-4** Failure with a serious consequence for the player, or a mild one for Mowgli
+* **5-6** Success with a mild consequence for either the player or Mowgli
+* **7-8** Success with no consequences for anyone.
 
-Si un elefante trata de mover un tronco, no hace falta tirada, si quiere derribar la columna central de un templo en ruinas, sí necesita tirada.
+If an elephant tries to move a fallen tree, no roll is required. If it wants to knock down the central column of a ruined temple, a roll is necessary.
 
-Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras dos dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá una consecuencia grave aunque sea un éxito.
+If you have **advantage** on a roll, you **roll 2d8 and keep the one that suits you best** (not necessarily the highest). If you have **disadvantage, you also roll 2d8 and keep the one that suits you best**, but if you choose the higher of the two dice, it will always carry a serious consequence, even if the result is a success.
 
 Si te preguntas por qué puedes elegir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro de que no quieres que sufra ningún daño porque sería mortal.
 
