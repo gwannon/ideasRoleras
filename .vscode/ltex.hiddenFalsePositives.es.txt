@@ -595,3 +595,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QNingún banco de Ilysium pondría dinero para las locas ideas de tres goblins.\\E$"}
 {"rule":"FORM","sentence":"^\\QComo goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDez es el más joven de todos y por eso siempre se han minusvalorado sus ideas, pero su potencial es muy grande, una supernova a punto de estallar.\\E$"}
+{"rule":"AGREEMENT_ADJ_NOUN","sentence":"^\\QOso fuerza/maña comida\nPantera agilidad/inteligencia espacios abiertos\nTigre agilidad/fuerza fuego\nSerpiente pitón fuerza/agilidad de noche o cuando ha comido\nLobo agilidad/inteligencia sin su manada cerca\nArdilla agilidad/maña cosas grandes\nOrangután fuerza/maña humanos y sus cosas\nMono agilidad/maña sin su manada cerca\nElefante fuerza/inteligencia espacios cerrados\\E$"}

@@ -7,11 +7,12 @@ Mowgli, el cachorro humano de «El libro de la selva», se ha levantado y ha sal
 ## Sistema
 
 Cuando tus jugadores intenten hacer **algo arriesgado, con posibilidad de fallo o que afecte directamente a Mowgli**, tienen que tirar 1d8 y consultar el resultado.
-
-* **1** Fallo con consecuencia grave para Mowgli
-* **2-4** Fallo con consecuencia grave para el jugador o sencilla para Mowgli
-* **5-6** Éxito con consecuencia sencilla para el jugador o para Mowgli
-* **7-8** Éxito
+|Dado|Resultado|Consecuencia|
+|---|---|---|
+|1|Fallo|Grave para Mowgli|
+|2-4|Fallo|Grave para jugador / sencilla para Mowgli|
+|5-6|Éxito|Sencilla parar jugador/Mowgli|
+|7-8|Éxito| - |
 
 Si tienes **ventaja** en una tirada, **tiras 2 dados y te quedas con el que más te convenga** (no necesariamente el mejor). Si tienes **desventaja, tiras 2 dados y te quedas también con el que más te convenga**, pero si escoges el mayor de los dados siempre tendrá consecuencia grave aunque sea un éxito.
 
@@ -21,9 +22,9 @@ Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable,
 
 ### Consecuencias
 
-Las consecuencias para un jugador pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
+Las **consecuencias para un jugador** pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debido a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
 
-Las consecuencias para Mowgli deberían meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir, acabando la aventura.
+Las **consecuencias para Mowgli** deberían meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir, acabando la aventura.
 
 ## Animales
 
@@ -43,7 +44,7 @@ Cada animal tiene **2 atributos** en los que tiene **ventaja** y una **situació
 |Mono|agilidad/maña|sin su manada cerca|
 |Elefante|fuerza/inteligencia|espacios cerrados|
 
-Despues, elige tu **nombre**, tus **pronombres** y describe **cómo conociste a Mowgli** y la **enseñanza vital que le diste** en aquel primer encuentro. 
+Después, elige tu **nombre**, tus **pronombres** y describe **cómo conociste a Mowgli** y la **enseñanza vital que le diste** en aquel primer encuentro. 
 
 ## La ley de la selva
 
@@ -66,7 +67,7 @@ Recuerda que Mowgli empieza sus aventuras con tantas lecciones vitales como juga
 
 ### La lección vital
 
-Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la aventura. Pueden ser simples como «las abejas no te pican, si te metes bajo el agua» o serías y complejas como «no hagas tratos con monos, porque te intentarán engañar».
+Al final de la aventura, si han salvado a su cachorro humano, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la aventura. Pueden ser simples como «las abejas no te pican, si te metes bajo el agua» o serías y complejas como «no hagas tratos con monos, porque te intentarán engañar».
 
 Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Si le han enseñado bien, saldrá vivo y si no le han aleccionado mal, puede que muera.
 
@@ -74,4 +75,4 @@ Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y n
 
 Las aventuras son muy simples, Mowgli ha salido a explorar la jungla. Puede que se encuentre con otros animales, se adentre en alguna parte desconocida de la jungla, quiera conseguir comida o incluso que se encuentre con otros humanos. Sea como sea, debes evitar que Mowgli muera, se pierda, que sea raptado o que descubra el fuego y conseguir que vuelva a la lobera habiendo aprendido algo nuevo e importante para su supervivencia futura.
 
-Al comienzo de cada aventura, pon una **cuenta atrás de 30 minutos** . Pasados 25 minutos avisa que se oyen rugidos, al de 27 pasos pesados cerca y pasados 30, si no han solucionado el problema y vuelto a la lobera con Mowgli, Shere Khan, el tigre, aparecerá de entre la espesura y devorará al cachorro humano.
+Al comienzo de cada aventura, pon una **cuenta atrás de 30 minutos**. Pasados 25 minutos avisa que se oyen rugidos, al de 27 pasos pesados cerca y pasados 30, si no han solucionado el problema y vuelto a la lobera con Mowgli, Shere Khan, el tigre, aparecerá de entre la espesura y devorará al cachorro humano.

@@ -23,9 +23,9 @@ Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable,
 
 ### Consequences
 
-Las consecuencias para un jugador, pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debidas a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
+Las **consecuencias para un jugador** pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debido a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
 
-Las consecuencias para Mowgli, debería meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir y la aventura acabaría.
+Las **consecuencias para Mowgli** deberían meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir y la aventura acabaría.
 
 ## Animals
 
@@ -49,7 +49,7 @@ Tras esto, deberás ponerte un **nombre**, elegir tus **pronombres** y describir
 
 ## The law of the jungle
 
-La ley de la selva, que incluso el poderoso Shere Khan obedece, establece que:
+La ley de la selva, que incluso el poderoso Shere Khan obedece a veces, establece que:
 
 * La manada se protege.
 * No se mata por diversión o deporte.
