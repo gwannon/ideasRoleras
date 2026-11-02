@@ -24,21 +24,21 @@ But it doesn’t end there; they will have to escape from the Devastator, for if
 
 
 
-Modern World es único en su especie. Es, como titulaba la prensa, «El lugar más increíble del Imperio». Todos los años, miles de personas de alta alcurnia lo visita y solo pueden hablar maravillas a sus conocidos cuando vuelven a casa.
+Modern World is one of a kind. It is, as the press once titled it, «The most incredible place in the Empire». Every year, thousands of rich persons visit it, and upon returning home, they can speak only in glowing terms to those they know.
 
-El planetoide donde ha sido construido el parque tiene todo un sistema de velas solares que alimentan un gigantesco motor espacial de forma que el planetoide es en realidad una nave espacial totalmente funcional, aunque extremadamente lenta.
+The planetoid on which the park has been built has an entire system of solar sails that power a massive space engine, making the planetoid, in effect, a fully functional, but extremely slow, starship.
 
 
 
 [![Android with a cape, walking and emitting smoke by macrovector](./maniqui.jpg "Android with a cape, walking and emitting smoke by macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Android with a cape, walking and emitting smoke by macrovector")
 
-Tiene un amplio espacio puerto para que los ricos y poderosos del Ilysium puedan aterrizar con sus pomposas naves, tras pagar unas desorbitadas tasas de aterrizaje.
+It has a spacious spaceport where the rich and powerful people of Ilysium can land their ostentatious ships—after paying exorbitant landing fees.
 
-Desde allí, pueden acceder al _resort_ donde son acomodados en sus lujosas _suites_. Tras refrescarse en sus habitaciones o tomar un buen tentempié pueden entrar en el parque y disfrutar de sus maravillas como el Vuelo del Ave de Trueno de West World o el Laberinto de kevlar de East World.
+From there, they can access the resort, where they are accommodated in their luxurious suites. After freshening up in their rooms or enjoying a nice meal, they can enter the park and experience its wonders, such as the Thunderbird Flight in West World or the Kevlar Labyrinth in East World.
 
-En el _resort_ solo hay humanos, cocineros, camareros, azafatos, limpiadores, conserjes, etc. Por el contrario, en el parque solo hay maniquís electro-autónomos que se encargan de animar las diferentes atracciones y los espectáculos del parque y vender comida o souvenirs.
+At the resort, there are only humans, chefs, waiters, attendants, cleaning staff, belboy, and so on. In contrast, the park contains only autonomous, motorized mannequins tasked with enlivening the various attractions and shows, as well as selling food or souvenirs.
 
-Solo hay unos pocos humanos y goblins que se dedican al mantenimiento de maniquís y atracciones o actividades más delicadas como los masajes y los tratamientos estéticos que se ofrecen en las termas.
+There are only a few humans and goblins dedicated to the maintenance of mannequins and attractions, or to more delicate tasks such as the massages and beauty treatments offered at the thermal baths.
 
 El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
 
