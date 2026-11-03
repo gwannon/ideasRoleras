@@ -64,7 +64,7 @@ Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de 
 
 \sp
 
-Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
+Hay zonas de selva, sabana, estepa e incluso tundra, un montón de ecosistemas que llevan años extintos.
 
 En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
 

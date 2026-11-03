@@ -64,9 +64,9 @@ This zone is a vast zoo featuring electric animatronic figures of many species o
 
 
 
-Hay zonas de selva, sabana, estepa e incluso tundra. Un montón de ecosistemas que llevan años extintos.
+There are areas of jungle, savanna, steppe, and even tundra, a multitude of ecosystems that have been extinct for years.
 
-En estas zonas hay mamuts, bisontes, grandes felinos, aves de todos los colores y reptiles de gran tamaño y aún más grandes dientes y garras.
+In these regions, one finds mammoths, bison, large felines, birds of every color, and massive reptiles with even larger teeth and claws.
 
 ### East World
 
