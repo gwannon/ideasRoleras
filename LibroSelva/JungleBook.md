@@ -23,9 +23,9 @@ Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable,
 
 ### Consequences
 
-Las **consecuencias para un jugador** pueden ser de cualquier tipo, desde buscarse un enemigo, recibir heridas o caer en trampas, pero deben ser cosas muy inmediatas debido a la corta duración de las partidas. A discreción del DJ, algunas consecuencias como heridas podrían suponer desventajas en las tiradas.
+The **consequences for a PC** can take many forms, such as making an enemy, injuries or falling into a trap, but they must be immediate, given the short duration of the game sessions. At the GM’s discretion, certain consequences, such as injuries, could impose disadvantage on dice rolls.
 
-Las **consecuencias para Mowgli** deberían meterle en nuevos problemas o agravar los actuales. Si acumula muchas consecuencias, podría morir y la aventura acabaría.
+The **consequences for Mowgli** should get him new troubles or amplify his existing problems. If too many consequences pile up, he could die, and the adventure would come to an end.
 
 ## Animals
 
