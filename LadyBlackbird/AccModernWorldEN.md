@@ -60,7 +60,7 @@ Military parades, electric-chariot races, and electrified gladiator combat are v
 
 ### South World
 
-Esta zona es un gigantesco zoo con maniquís eléctricos con muchas especies de animales salvajes. 
+This zone is a vast zoo featuring electric animatronic figures of many species of wild animals.
 
 
 
