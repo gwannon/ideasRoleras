@@ -18,7 +18,7 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 **Yalp** Eres el más viejo y experimentado de los goblins y fueron tus ideas los que dieron origen a la tecnología que da vida al parque. Durante mucho tiempo has sido el líder del grupo, pero te haces mayor y tus ideas no son tan buenas. Los jóvenes vienen fuerte, pero todavía tienen mucho que aprender y tú vas a enseñárselo.
 
-**Snott** No eres un genio, pero eres es que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin ti nada funcionaria dos días seguidos, pero de eso no se dan cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
+**Snott** No eres un genio, pero eres el que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin ti nada funcionaria dos días seguidos, pero de eso no se da cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
