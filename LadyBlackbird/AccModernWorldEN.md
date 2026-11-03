@@ -52,11 +52,11 @@ Every so often, there is a parade of mannequins, complete with a mannequin march
 
 ### North World
 
-Es un mundo de dioses y héroes de los viejos mitos. Templos de mármol, suelos de piedra, criptas escondidas y fastuosas termas donde los visitantes se relajan y reciben otras atenciones terapéuticas como masajes y libaciones.
+It is a world of gods and heroes from ancient myths. There are marble temples, mosaics, hidden crypts, and sumptuous thermal baths where visitors relax and enjoy therapeutic treatments, such as massages and libations.
 
-Los visitantes son tratados como héroes a los que se alaba y se les ofrece ambrosía.
+Visitors are treated like heroes, with praises and delicious plates.
 
-Los desfiles militares, las carreras de cuadrigas eléctricas y los combates de gladiadores electrificados son frecuentes.
+Military parades, electric-chariot races, and electrified gladiator combat are very commons.
 
 ### South World
 
