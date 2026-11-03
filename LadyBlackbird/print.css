@@ -263,3 +263,24 @@ blockquote p:last-child {
   padding: 0;
   margin: 0;
 }
+
+
+.pdf {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    color: var(--color-primary);
+    background-color: var(--color-secondary);
+    display: block;
+    padding: 8px;
+    margin: 0px;
+    font-family: 'Kablammo';
+    font-size: 24px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+.pdf:nth-of-type(2) {
+    right: auto;
+    left: 0px;
+}

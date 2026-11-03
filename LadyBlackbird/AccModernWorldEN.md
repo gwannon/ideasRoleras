@@ -40,7 +40,7 @@ At the resort, there are only humans, chefs, waiters, attendants, cleaning staff
 
 There are only a few humans and goblins dedicated to the maintenance of mannequins and attractions, or to more delicate tasks such as the massages and beauty treatments offered at the thermal baths.
 
-El parque está dividido en 5 secciones, una central y las otras 4 alrededor al norte, sur, este y oeste. Cada sección del parte está montada siguiendo una saga de libros baratos de a 5 créditos, libros que los goblins devoraban en su niñez.
+The park is divided into 5 sections: one central section, with the other 4 arranged around it to the north, south, east, and west. Each section of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
 
 ### Modern World
 
