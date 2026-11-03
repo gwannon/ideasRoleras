@@ -269,8 +269,8 @@ blockquote p:last-child {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    color: var(--color-primary);
-    background-color: var(--color-secondary);
+    color: var(--color-secondary);
+    background-color: var(--color-primary);
     display: block;
     padding: 8px;
     margin: 0px;

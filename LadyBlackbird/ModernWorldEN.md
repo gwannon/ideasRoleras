@@ -40,15 +40,15 @@ At the resort, there are only humans, chefs, waiters, attendants, cleaning staff
 
 There are only a few humans and goblins dedicated to the maintenance of mannequins and attractions, or to more delicate tasks such as the massages and beauty treatments offered at the thermal baths.
 
-The park is divided into 5 sections: one central section, with the other 4 arranged around it to the north, south, east, and west. Each section of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
+The park is divided into 5 zones: one central zone, with the other 4 arranged around it to the north, south, east, and west. Each zone of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
 
 ### Modern World
 
-Está sección que da nombre al parque está en el centro. Representa nuestro mundo, pero en un futuro eléctrico.
+This zone, which gives the park its name, is located in the center. It represents our world, but in an electric future.
 
-Hay maniquís que lustran tus zapatos, otros que entregan periódicos y folletos, otros que tiran de _rickshaws_ y te llevan a donde quieras, otros cortan setos, etc. También hay muchos andan por las calles y entran y salen de edificios simulando que son oficinistas, contables y secretarios que entran y salen de sus trabajos.
+There are mannequins that polish your shoes, others that sell newspapers and leaflets, others that pull rickshaws and take you wherever you want to go, others that trim hedges, and so on. There are also many that walk along the streets, entering and leaving buildings as if they were office workers, accountants, or secretaries arriving at or leaving their workplaces.
 
-Cada poco tiempo hay un desfile de maniquís con una banda de música de maniquís y carrozas celebrando las bondades de la electricidad y cómo se produce.
+Every so often, there is a parade of mannequins, complete with a mannequin marching band and decorated platforms, celebrating the benefits of electricity and how it is produced.
 
 ### North World
 
