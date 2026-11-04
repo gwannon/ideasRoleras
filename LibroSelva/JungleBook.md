@@ -29,19 +29,19 @@ The **consequences for Mowgli** should get him new troubles or amplify his exist
 
 ## Animals
 
-Lo primero para crear tu personaje es **elegir su especie**. Las especies no se pueden repetir, salvo casos como lobos o monos que normalmente viven en manadas. En ese caso puede haber dos animales de la misma especie.
+The first step in creating your character is **choosing their species**. Species cannot be duplicated, except in cases such as wolves or monkeys, which typically live in packs. In such instances, there may be two animals of the same species.
 
-Cada animal tiene **dos elementos** (fuerza, inteligencia, agilidad y maña) en que tiene **ventaja** y una **situación** en que tiene **desventaja**.
+Each animal has **two attributes** (strength, intelligence, dexterity and knack) in which it has an **advantage**, and one **situation** in which it has a **disadvantage**.
 
-* **Bear:** Ventaja en **fuerza y maña**. Desventaja cuando hay **comida**.
-* **Panther:** Ventaja en **agilidad e inteligencia**. Desventaja en **espacios abiertos**.
-* **Tiger:** Ventaja en **agilidad y fuerza**. Desventaja cuando hay **fuego**.
-* **Python:** Ventaja en **fuerza y agilidad**. Desventaja **de noche o cuando ha comido**.
-* **Wolf:** Ventaja en **agilidad e inteligencia**. Desventaja sin su **manada cerca**.
-* **Squirrel:** Ventaja en **agilidad y maña**. Desventaja con **cosas grandes**.
-* **Orangutan:** Ventaja en **fuerza y maña**. Desventaja cerca de **humanos y sus cosas**.
-* **Monkey:** Ventaja en **agilidad y maña**. Desventaja sin su **manada cerca**.
-* **Elephant:** Ventaja en **fuerza e inteligencia**. Desventaja en **espacios cerrados**.
+* **Bear:** Advantage in **strength and knack**. Disadvantage when there is **delicious food**.
+* **Panther:** Advantage in **dexterity and intelligence**. Disadvantage in **open spaces**.
+* **Tiger:** Advantage in **dexterity and strength**. Disadvantage there is **fire**.
+* **Python:** Advantage in **strength and dexterity**. Disadvantage **by night or after eating**.
+* **Wolf:** Advantage in **dexterity and intelligence**. Disadvantage without **their pack near**.
+* **Squirrel:** Advantage in **dexterity and knack**. Disadvantage with **big things**.
+* **Orangutan:** Advantage in **strength and knack**. Disadvantage near **humans and their tools**.
+* **Monkey:** Advantage in **dexterity and knack**. Disadvantage without **their pack near**.
+* **Elephant:** Advantage in **strength and intelligence**. Disadvantage in **enclosed spaces**.
 
 Esto son solo ejemplos, puedes crear los animales de la jungla que quieras tomando estos ejemplos como guía.
 
@@ -62,9 +62,9 @@ Tus jugadores podrán **romper leyes** de la selva, pero siempre tendrá que **t
 
 ## Mowgli
 
-Mowgli no tiene por qué cumplir la ley de la selva, solo obedece las enseñanzas que ha recibido de sus amigos animales.
+Mowgli does not follow the Law of the Jungle; he simply follows the teachings he has received from his animal friends.
 
-Recuerda que Mowgli empieza sus aventuras con tantas lecciones vitales como jugadores, lecciones que habrán definido con su primer encuentro. 
+Keep in mind that Mowgli begins his adventures with as many vital lessons as there are players, life lessons that will have been defined during their initial encounter.
 
 ### Life lessons
 
