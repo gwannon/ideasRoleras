@@ -70,11 +70,11 @@ In these regions, one finds mammoths, bison, large felines, birds of every color
 
 ### East World
 
-En la parte este tenemos East World, un pastiche de mitos y cuentos de lo más recóndito del espacio conocido, con príncipes y princesas alienígenas, extrañas y gigantescas bestias de carga o guerra y exóticos palacios con pasadizos secretos.
+In the east are East World, a pastiche of myths and tales drawn from the farthest reaches of known space, featuring alien princes and princesses, strange, gargantuan beasts of burden or war, and exotic palaces with secret passageways.
 
-Duelos de electro-espadas aderezadas con acrobacias imposibles, llamaradas y rayos y poderosos videntes que te leen la buenaventura.
+There are duels fought with electro-swords while impossible acrobatics are developed, bursts of flame, and bolts of energy, as well as powerful seers who can read your fortune.
 
-Y todo finalmente aderezado con bailes acompañados de los chirridos de montones de articulaciones y engranajes metálicos.
+And as great finale there are dances accompanied by the screeching of countless metallic joints and gears.
 
 ### West World
 
@@ -263,7 +263,7 @@ Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con
 
 **Yalp** Eres el más viejo y experimentado de los goblins y fueron tus ideas los que dieron origen a la tecnología que da vida al parque. Durante mucho tiempo has sido el líder del grupo, pero te haces mayor y tus ideas no son tan buenas. Los jóvenes vienen fuerte, pero todavía tienen mucho que aprender y tú vas a enseñárselo.
 
-**Snott** No eres un genio, pero eres es que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin ti nada funcionaria dos días seguidos, pero de eso no se dan cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
+**Snott** No eres un genio, pero eres el que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin ti nada funcionaria dos días seguidos, pero de eso no se da cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
 
 **Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
 
