@@ -26,6 +26,8 @@ El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmor
 
 Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero XXX.
 
+Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas, muchas gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
+
 XXX
 
 ### El cuestionario
