@@ -4,7 +4,7 @@
 
 Mowgli, the human cub from "The Jungle Book," has woken up and gone out alone to explore the jungle. Players take on the roles of his animal friends, who must prevent him from falling into any of the jungle’s many dangers—and, if possible, help him learn a life lesson. 
 
-## Rules
+## Rules XXX
 
 When your players attempt **something risky, something that could fail or that directly affects Mowgli, they must roll a 1d8 and check the result.
 
@@ -43,11 +43,11 @@ Each animal has **two attributes** (strength, intelligence, dexterity and knack)
 * **Monkey:** Advantage in **dexterity and knack**. Disadvantage without **their pack near**.
 * **Elephant:** Advantage in **strength and intelligence**. Disadvantage in **enclosed spaces**.
 
-Esto son solo ejemplos, puedes crear los animales de la jungla que quieras tomando estos ejemplos como guía.
+These are just examples. You can create any jungle animals you like, using these examples as a guide.
 
-Tras esto, deberás ponerte un **nombre**, elegir tus **pronombres** y describir **cómo conociste a Mowgli** y la **enseñanza vital que le diste** en aquel primer encuentro. 
+After that, you will need to choose a **name** and your **pronouns**, and describe **how you met Mowgli** as well as the **life lesson you teach him** during that first encounter.
 
-## The law of the jungle
+## The law of the jungle XXX
 
 La ley de la selva, que incluso el poderoso Shere Khan obedece a veces, establece que:
 
@@ -66,7 +66,7 @@ Mowgli does not follow the Law of the Jungle; he simply follows the teachings he
 
 Keep in mind that Mowgli begins his adventures with as many vital lessons as there are players, life lessons that will have been defined during their initial encounter.
 
-### Life lessons
+### Life lessons XXX
 
 Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te pican si te metes dentro del agua» o tan serías y complejas como «no hagas tratos con monos porque te intentarán engañar».
 
@@ -78,7 +78,7 @@ The adventures are quite simple: Mowgli has woken up and gone out to explore the
 
 ### Enter Shere Khan
 
-Al comienzo de cada aventura, pon una **cuenta atrás de 30 minutos**. Pasados 25 minutos avisa que se oyen rugidos, al de 27 pasos pesados cerca, cuanto sean 29 minutos oirán una respiración fuerte entre la maleza y pasados 30, si no han solucionado el problema y vuelto a la lobera con Mowgli, Shere Khan, el gran tigre, aparecerá de entre la espesura y devorará al cachorro humano.
+At the start of each adventure, set a **30-minute countdown**. After 25 minutes, announce that roars can be heard. At 27 minutes, mention the sound of heavy footsteps nearby. At 29 minutes, the players will hear heavy breathing coming from the highgrass. Once 30 minutes have passed, if they have not yet solved the problem and returned to the wolf den with Mowgli, Shere Khan, the great tiger, will emerge from the shadows and devour the human cub.
 
 ---
 
