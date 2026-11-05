@@ -1,8 +1,8 @@
 # La gran campaña de Mundo Disco
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para «Mundo Disco: Aventuras en Ankh-Morpork» para una directora de juego 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para «Mundo Disco: Aventuras en Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creadas o muy poca experiencia.
 
-Como este libro tiene un montón de páginas y hemos hecho una sinopsis rápida explicando en líneas generales la trama de la aventura que claramente tus jugadoras no van a seguir para ver si te llama y decides engañar a alguien para jugarla.  
+Como este libro tiene un montón de páginas y hemos hecho una sinopsis rápida explicando en líneas generales la trama de la aventura que claramente tus jugadoras no van a seguir para ver si te llama y decides engañar a alguien para dirigirsela, porque ten claro que nadie en su sano juicio te la a dirigir.  
 
 ## Sinopsis
 
@@ -73,9 +73,9 @@ XXX
 
 ## El test de Bechdel.
 
-Esta campaña es completamente «woke», así que para poder cumplir el test de Bechdel (si no sabes lo que es, lo buscas) se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
+Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
 
-XXX
+Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial especial. XXX
 
 ## La campaña
 
