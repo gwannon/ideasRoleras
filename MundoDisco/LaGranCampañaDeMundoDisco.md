@@ -1,8 +1,8 @@
 # La gran campaña de Mundo Disco
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para «Mundo Disco: Aventuras en Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creadas o muy poca experiencia.
+«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para «Mundo Disco: Aventuras en Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-Como este libro tiene un montón de páginas y hemos hecho una sinopsis rápida explicando en líneas generales la trama de la aventura que claramente tus jugadoras no van a seguir para ver si te llama y decides engañar a alguien para dirigirsela, porque ten claro que nadie en su sano juicio te la a dirigir.  
+Como este libro tiene un montón de páginas, hemos hecho una sinopsis rápida, explicando en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigirsela, porque ten claro que nadie en su sano juicio te la a dirigir.
 
 ## Sinopsis
 
@@ -22,7 +22,7 @@ XXX
 
 XXX
 
-El Patricio decidió, en su día, elaborar un censo electoral por si la política se ponía en su contra y a alguna de sus enemigas le daba por inventar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
+El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponía en su contra y a alguna de sus enemigas le daba por inventar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
 
 Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero XXX.
 
@@ -34,16 +34,17 @@ XXX
 
 Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia que es mejor que preguntar la edad porque mucha gente no sabe que ambos datos tienen una relación matemática) y otros datos demográficos normales, les tocará hacer algunas de estas preguntas.
 
-* ¿Ketchup o mostaza?
+* ¿Ketchup o mostaza? El Patricio  no cree en la mayonesa con salsa para los perritos calientes.
 * ¿Perros o gatos? 
-* ¿Es terraesferista? ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
+* ¿Es usted terraesferista? ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
+* ¿A qué diosas no rezas? Es más rápido así.
 * XXX
 
 ## Capítulo 2. La universidad invisible
 
 XXX
 
-Para ver quien tenía que acompañar a los del censo, lo eligieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
+Para ver quien tenía que acompañar a los empleados del censo, lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
 
 XXX
 
@@ -83,4 +84,8 @@ La propia campaña (esta aventura que tienes entre manos) es un ente vivo dentro
 
 La campaña necesita que sea jugada y contado y hará lo que sea para que tu mesa la termine. XXX
 
-> Si te preguntas cómo vas a hacer para hablar en cursiva, es tu problema como directora. Como autora solo le tengo que dar al botón de cursiva del editor de texto, pero tú lo tienes más jodido.  
+> Si te preguntas cómo vas a hacer para hablar en cursiva, es tu problema como directora. Como autora solo le tengo que dar al botón de cursiva del editor de texto, pero tú lo tienes más jodido.
+
+En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guión.
+
+> Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
