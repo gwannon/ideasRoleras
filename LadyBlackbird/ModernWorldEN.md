@@ -12,7 +12,7 @@ The Empire has recognized the potential for military use of the inventions devel
 
 The Empire does not take rejection well. If it isn’t handed over willingly, it will have to send a destroyer to take it by force.
 
-What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot, and Dez ,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
+What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot and Dez,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
 
 Before the Devastator enters the planetoid’s atmosphere and its ground assault forces conquest Modern World, they must destroy the park’s facilities, ensuring the Empire cannot get its hands on the technological discoveries that give this place its magic.
 
@@ -24,7 +24,7 @@ But it doesn’t end there; they will have to escape from the Devastator, for if
 
 \conc
 
-Modern World is one of a kind. It is, as the press once titled it, «The most incredible place in the Empire». Every year, thousands of rich persons visit it, and upon returning home, they can speak only in glowing terms to those they know.
+Modern World is one of a kind. It is, as the press once titled it, «The most incredible place in the Empire». Every year, thousands of rich persons visit it and upon returning home, they can speak only in glowing terms to those they know.
 
 The planetoid on which the park has been built has an entire system of solar sails that power a massive space engine, making the planetoid, in effect, a fully functional, but extremely slow, starship.
 
@@ -36,27 +36,27 @@ It has a spacious spaceport where the rich and powerful people of Ilysium can la
 
 From there, they can access the resort, where they are accommodated in their luxurious suites. After freshening up in their rooms or enjoying a nice meal, they can enter the park and experience its wonders, such as the Thunderbird Flight in West World or the Kevlar Labyrinth in East World.
 
-At the resort, there are only humans, chefs, waiters, attendants, cleaning staff, belboy, and so on. In contrast, the park contains only autonomous, motorized mannequins tasked with enlivening the various attractions and shows, as well as selling food or souvenirs.
+At the resort, there are only humans, chefs, waiters, attendants, cleaning staff, belboy and so on. In contrast, the park contains only autonomous, motorized mannequins tasked with enlivening the various attractions and shows, as well as selling food or souvenirs.
 
 There are only a few humans and goblins dedicated to the maintenance of mannequins and attractions, or to more delicate tasks such as the massages and beauty treatments offered at the thermal baths.
 
-The park is divided into 5 zones: one central zone, with the other 4 arranged around it to the north, south, east, and west. Each zone of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
+The park is divided into 5 zones: one central zone, with the other 4 arranged around it to the north, south, east and west. Each zone of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
 
 ### Modern World
 
 This zone, which gives the park its name, is located in the center. It represents our world, but in an electric future.
 
-There are mannequins that polish your shoes, others that sell newspapers and leaflets, others that pull rickshaws and take you wherever you want to go, others that trim hedges, and so on. There are also many that walk along the streets, entering and leaving buildings as if they were office workers, accountants, or secretaries arriving at or leaving their workplaces.
+There are mannequins that polish your shoes, others that sell newspapers and leaflets, others that pull rickshaws and take you wherever you want to go, others that trim hedges and so on. There are also many that walk along the streets, entering and leaving buildings as if they were office workers, accountants, or secretaries arriving at or leaving their workplaces.
 
 Every so often, there is a parade of mannequins, complete with a mannequin marching band and decorated platforms, celebrating the benefits of electricity and how it is produced.
 
 ### North World
 
-It is a world of gods and heroes from ancient myths. There are marble temples, mosaics, hidden crypts, and sumptuous thermal baths where visitors relax and enjoy therapeutic treatments, such as massages and libations.
+It is a world of gods and heroes from ancient myths. There are marble temples, mosaics, hidden crypts and sumptuous thermal baths where visitors relax and enjoy therapeutic treatments, such as massages and libations.
 
 Visitors are treated like heroes, with praises and delicious plates.
 
-Military parades, electric-chariot races, and electrified gladiator combat are very commons.
+Military parades, electric-chariot races and electrified gladiator combat are very commons.
 
 ### South World
 
@@ -64,23 +64,23 @@ This zone is a vast zoo featuring electric animatronic figures of many species o
 
 \sp
 
-There are areas of jungle, savanna, steppe, and even tundra, a multitude of ecosystems that have been extinct for years.
+There are areas of jungle, savanna, steppe and even tundra, a multitude of ecosystems that have been extinct for years.
 
-In these regions, one finds mammoths, bison, large felines, birds of every color, and massive reptiles with even larger teeth and claws.
+In these regions, one finds mammoths, bison, large felines, birds of every color and massive reptiles with even larger teeth and claws.
 
 ### East World
 
-In the east are East World, a pastiche of myths and tales drawn from the farthest reaches of known space, featuring alien princes and princesses, strange, gargantuan beasts of burden or war, and exotic palaces with secret passageways.
+In the east are East World, a pastiche of myths and tales drawn from the farthest reaches of known space, featuring alien princes and princesses, strange, gargantuan beasts of burden or war and exotic palaces with secret passageways.
 
-There are duels fought with electro-swords while impossible acrobatics are developed, bursts of flame, and bolts of energy, as well as powerful seers who can read your fortune.
+There are duels fought with electro-swords while impossible acrobatics are developed, bursts of flame and bolts of energy, as well as powerful seers who can read your fortune.
 
 And as great finale there are dances accompanied by the screeching of countless metallic joints and gears.
 
 ### West World
 
-En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
+In the western section lies West World, a sort of futuristic frontier featuring cowboys mounted on android horses, cows equipped with solar panels from which you can «milk» electricity and electrical ray guns.
 
-Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
+Shootings at dawn, bank robberies, train heists and saloon brawls are the typical attractions in this area, not to mention the "Flight of the Thunderbird", the most mind-blowing attraction ever created by man (or goblins).
 
 ### Moving between zones
 
