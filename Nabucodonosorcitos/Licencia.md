@@ -11,10 +11,10 @@ Creado para la [Mermelada rolera de Seppu 2026](https://itch.io/jam/la-mermelada
 
 Ingredientes usados en este juego de rol:
 
-* **Ingredientes mecánicos:** Mundo en miniatura o microscópico.
-* **Ingredientes temáticos:** Más allá de la mesa. Mecánicas fuera de partida.
+* **Ingredientes temáticos:** Mundo en miniatura o microscópico. / Los pjs son Dioses o seres inmortales viviendo entre humanos.
+* **Ingredientes mecánicos:** Más allá de la mesa. Mecánicas fuera de partida / Pares de estadísticas complementarios y variables.
 
-[![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
+Podéis ver la reseña que hicieron del juego en el [canal de Rolerøs No Representativøs](https://www.youtube.com/watch?v=nu0OWTgic5M&t=3300s) de YouTube. 
 
 \sc
 

@@ -20,6 +20,12 @@
 
 |Vacaciones.md|
 
+&nbsp;
+
+&nbsp;
+
+[![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
+
 \sp
 
 |Licencia.md|
