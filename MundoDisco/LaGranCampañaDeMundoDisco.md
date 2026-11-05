@@ -1,6 +1,8 @@
 # La gran campaña de Mundo Disco
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para XXX
+«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para «Mundo Disco: Aventuras en Ankh-Morpork» para una directora de juego 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+
+Como este libro tiene un montón de páginas y hemos hecho una sinopsis rápida explicando en líneas generales la trama de la aventura que claramente tus jugadoras no van a seguir para ver si te llama y decides engañar a alguien para jugarla.  
 
 ## Sinopsis
 
@@ -41,7 +43,11 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 
 XXX
 
-Para ver quien tenía que acompañar a los del censo, lo eligieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, el que tiene el chicle verde clorofila. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
+Para ver quien tenía que acompañar a los del censo, lo eligieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
+
+XXX
+
+### Entrevistando al bibliotecario
 
 XXX
 
@@ -73,7 +79,7 @@ XXX
 
 ## La campaña
 
-La propia campaña (esta aventura que tienes entre manos) es un ente vivo dentro de la historia que si bien no habla con MAYÚSCULAS, sí lo hace en _cursiva_. Así que como mínimo es casi tan poderosa como la MUERTE.
+La propia campaña (esta aventura que tienes entre manos) es un ente vivo dentro de la historia que si bien no habla con MAYÚSCULAS, sí lo hace en _cursiva_. Así que como mínimo es casi tan poderosa como la ... MUERTE.
 
 La campaña necesita que sea jugada y contado y hará lo que sea para que tu mesa la termine. XXX
 
