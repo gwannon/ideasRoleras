@@ -108,7 +108,7 @@ Germofobo
 
 XXX
 
-## El test de Bechdel.
+## Esta campaña es «woke»
 
 Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
 
@@ -118,17 +118,15 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 La propia campaña (esta aventura que tienes entre manos) es un ente vivo dentro de la historia que si bien no habla con MAYÚSCULAS, sí lo hace en _cursiva_. Así que como mínimo es casi tan poderosa como la … MUERTE.
 
-La campaña necesita que sea jugada y contada y hará lo que sea para que tu mesa la termine. XXX
-
 > Si te preguntas cómo vas a hacer para hablar en cursiva, es tu problema como directora. Como autora solo le tengo que dar al botón de cursiva del editor de texto, pero tú lo tienes más jodido.
 
-La idea principal es que cuando alguien diga que no puede venir a la siguiente partida, la campaña temiendo que se termine cancelando, se buscará la manera de darle un momento estelar a la jugadora o jugadoras que cancelaron la sesión donde su personaje brillará.
+La campaña necesita que sea jugada y contada y hará lo que sea para que tu mesa la termine. La idea principal es que cuando alguien diga que no puede venir a la siguiente partida, la campaña temiendo que se termine cancelando, se buscará la manera de **darle un momento estelar** a la jugadora o jugadoras que cancelaron la sesión donde su personaje brillará.
 
-Para ello, tal vez, la campaña se disfrace de un troll musculoso que les reta a un pulso y al que, contratoda lógica, le ganes. O puede que aparezca como una bella manceba que le haga ojitos a la jugadora que dijo en el grupo de chat que igual dejaba de venir a las partidas. 
-
-> Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras. 
+Para ello, tal vez, la campaña se disfrace de un troll hiper-musculado que les reta a un pulso y al que, contra toda lógica, le ganes. O puede que aparezca como una bella manceba que le haga ojitos a la jugadora que dijo en el grupo de chat que igual dejaba de venir a las partidas. 
 
 XXX
+
+> Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras. 
 
 En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion. La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
 
