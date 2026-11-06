@@ -84,9 +84,9 @@ Shootings at dawn, bank robberies, train heists and saloon brawls are the typica
 
 ### Moving between zones
 
-Modern World se encuentra en el centro del parque y el resto de mundos se encuentra se encuentran al norte, al sur, al este y al oeste, siguiendo su nombre. Se decidió así para que los visitantes pudieran orientarse fácilmente. Esto quiere decir que para moverse de una zona a otra siempre tendrán que pasar por Modern World.
+Modern World is located in the center of the park, while the other worlds are situated to the north, south, east, and west, as their names suggest. This distribution was chosen to help visitors orient themselves easily. Consequently, moving from one zone to another always requires passing through Modern World.
 
-La forma más fácil de moverse es por la superficie del parque, pero eso no quiere decir que no haya un submundo de túneles, pasillos por debajo del parque que usan para el mantenimiento. Es complicado moverse por aquí, pero es la forma perfecta de moverse de manera segura y sin ser visto. 
+The easiest way to get around is on the surface, but there is also an underground network of tunnels and corridors beneath the park, used for maintenance. Navigating in the underground is complex, yet it offers an ideal way to move about safely and discreetly, out of sight.
 
 \sinc
 
