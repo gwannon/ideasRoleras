@@ -47,18 +47,18 @@ These are just examples. You can create any jungle animals you like, using these
 
 After that, you will need to choose a **name** and your **pronouns**, and describe **how you met Mowgli** as well as the **life lesson you teach him** during that first encounter.
 
-## The law of the jungle XXX
+## The law of the jungle
 
-La ley de la selva, que incluso el poderoso Shere Khan obedece a veces, establece que:
+The Law of the Jungle, which even the mighty Shere Khan obeys at times, establishes that:
 
-* La manada se protege.
-* No se mata por diversión o deporte.
-* Los favores hay que devolverlos.
-* No se mata a los humanos. 
+* The pack protects its own.
+* Killing for fun or sport is forbidden.
+* Favors must be returned.
+* Humans must not be killed.
 
-Al principio de cada aventura, el DJ establece, si lo desea, una norma más a su gusto. Con esto se busca favorecer que la aventura avance adecuadamente. Cada nueva ley permanece en las siguientes aventuras.
+At the start of each adventure, the GM may, if they wish, introduce an additional rule of their choosing. This is intended to help the adventure progress properly. Any such new law remains in effect for subsequent adventures.
 
-Tus jugadores podrán **romper leyes** de la selva, pero siempre tendrá que **tener consecuencias** y deben ser avisados antes.
+Your players may choose to **break the laws** of the jungle, but doing so must always **have consequences**, and the players should be warned before.
 
 ## Mowgli
 
