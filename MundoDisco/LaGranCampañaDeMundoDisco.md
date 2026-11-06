@@ -145,3 +145,8 @@ XXX
 Todo eso no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos.
 
 XXX
+
+
+## Agradecimientos
+
+A [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
