@@ -20,7 +20,11 @@ XXX
 
 ## La Gesta-Distika
 
-La Gesta-Distika es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
+La Gesta-Distika (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
+
+XXX
+
+El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamandola «pseudo-magia» o «ciencia a secas». Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Gesta-Distika y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
 
 XXX
 
@@ -94,17 +98,13 @@ XXX
 
 XXX
 
-Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano que él ha denominado Gesta-Distika (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave). 
+Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominado Gesta-Distika. La Gesta-Distika le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Chupito-de-grog gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
 
-La Gesta-Distika le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Chupito-de-grog gane la carrera, dale por seguro que ganará.
-
-El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamando pseudomagia o ciencia a secas. 
-
-Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Gesta-Distika y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
+XXX
 
 ### Spandau Ville, joven hechicero genial
 
-XXXGermofoboXXX
+Germofobo
 
 XXX
 
@@ -134,7 +134,9 @@ XXX
 
 ## Cameos
 
-Dicen las gesta-diktikas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, te robará el caballo.
+Dicen las gesta-diktikas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, te robará el caballo. Así que las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundo Disco son altas.
+
+XXX
 
 Todo eso no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos.
 
