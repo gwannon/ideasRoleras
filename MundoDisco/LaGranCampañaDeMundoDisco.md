@@ -32,7 +32,7 @@ XXX
 
 Cómo practicante de la Gesta-Distika, Wilbuck Lessmore busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorpokianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
  
-Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el XXX hasta el consumo de remolacha encurtida de la Universidad Invisible.
+Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
  
 Parece una tontería, pero sabiendo el consumo de remolacha de los magos sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, va a pasar algo gordo.
  
@@ -122,13 +122,17 @@ La campaña necesita que sea jugada y contada y hará lo que sea para que tu mes
 
 > Si te preguntas cómo vas a hacer para hablar en cursiva, es tu problema como directora. Como autora solo le tengo que dar al botón de cursiva del editor de texto, pero tú lo tienes más jodido.
 
-En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
-
-> Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
-
 La idea principal es que cuando alguien diga que no puede venir a la siguiente partida, la campaña temiendo que se termine cancelando, se buscará la manera de darle un momento estelar a la jugadora o jugadoras que cancelaron la sesión donde su personaje brillará.
 
-Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras.
+Para ello, tal vez, la campaña se disfrace de un troll musculoso que les reta a un pulso y al que, contratoda lógica, le ganes. O puede que aparezca como una bella manceba que le haga ojitos a la jugadora que dijo en el grupo de chat que igual dejaba de venir a las partidas. 
+
+> Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras. 
+
+XXX
+
+En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion. La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
+
+> Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
 
 XXX
 
