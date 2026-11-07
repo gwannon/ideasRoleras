@@ -1,14 +1,12 @@
 # La gran campaña de Mundo Disco
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña para «Mundo Disco: Aventuras en Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
-
-XXX
+«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett's Discworld: Adventures In Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
 ## Sinopsis
 
-Como este libro tiene un montón de páginas, hemos hecho una sinopsis rápida. En ella se explica en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigírsela, porque ten claro que nadie en su sano juicio te la va a dirigir.
+Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En ella se explica en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigírsela, porque ten claro que nadie en su sano juicio te la va a dirigir.
 
-Así que empecemos …
+### Así que empecemos …
 
 Lord Vetinari, el patricio de Ankh-Morpork, dentro de sus políticas de reinserción social de criminales, permite conmutar las penas de cárcel a cambio de trabajar de entrevistadoras del censo electoral municipal.
 
@@ -26,13 +24,17 @@ XXX
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-XXX
+Esta forma de magia permite predecir el futuro. En realizar permite saber que posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
-El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamandola «pseudo-magia» o «ciencia a secas». ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
+El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamandola «pseudo-magia» o «ciencia» a secas. ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
+
+### Reglas de la Esta-Listica
+
+En juego la Esta-Listica permite XXX
 
 ## El plan de Wilbuck
 
@@ -158,12 +160,18 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 # Epílogo
 
-XXX
+Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia.
+
+Así que cierra el libro o el PDF y recapacita en las horas que has perdido leyendo esto. A no ser que seas un editor, entonces planteárselo XXX
 
 ## Agradecimientos
 
-A Pau Blackonion, [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
+A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
 
 ## Licencia
 
-XXX
+Este documento es un producto fan no oficial de distribución gratuita basado en el juego de rol «Terry Pratchett's Discworld: Adventures In Ankh-Morpork» que es propiedad de Modhipius.
+
+Este contenido y su autor no tiene ningún tipo de relación con Modiphius. Además, Modiphius no ha aprobado ni ha dado el visto bueno en manera alguna a este documento.
+
+Este documento ha sido desarrollado por [Gwannon (Jorge Monclús)](https://gwannon.com/) bajo la licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
