@@ -94,9 +94,9 @@ The easiest way to get around is on the surface, but there is also an undergroun
 
 \conc
 
-La tecnología electrónica usada en el parque por Yalp, Snot y Dez es muy superior a la del resto de investigadores científicos del Imperio.
+The electronic technology used in the park by Yalp, Snot, and Dez is far superior to that of the other scientific researchers in the Empire.
 
-Por un lado, su electricidad y sus velas solares es el doble de poderosa que el vapor y el carbón que usa el resto del mundo. Sus inventos pueden funcionar durante días sin tener que recargar sus baterías durante días gracias a sus velas solares que convierten la luz en electricidad.
+For one thing, their electrical systems and solar sails are twice as powerful as the steam and coal power used by the rest of the world. Their inventions can operate for days without needing to be recharged, thanks to solar sails that convert light into electricity.
 
 \sp
 
