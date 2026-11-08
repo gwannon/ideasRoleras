@@ -4,7 +4,7 @@
 
 Mowgli, the human cub from "The Jungle Book," has woken up and gone out alone to explore the jungle. Players take on the roles of his animal friends, who must prevent him from falling into any of the jungle’s many dangers—and, if possible, help him learn a life lesson. 
 
-## Rules XXX
+## Rules
 
 When your players attempt **something risky, something that could fail or that directly affects Mowgli, they must roll a 1d8 and check the result.
 
