@@ -17,9 +17,9 @@ If an elephant tries to move a fallen tree, no roll is required. If it wants to 
 
 If you have **advantage** on a roll, you **roll 2d8 and keep the one that suits you best** (not necessarily the highest). If you have **disadvantage, you also roll 2d8 and keep the one that suits you best**, but if you choose the higher of the two dice, it will always carry a serious consequence, even if the result is a success.
 
-Si te preguntas por qué puedes elegir el resultado que más te convenga, es porque igual necesitas que Mowgli se vea en problemas o sufra daño para poder aprender una lección vital importante. Por ejemplo, si está robando miel, igual quieres que le piquen algunas abejas para que aprenda la lección y luego puedas enseñarle que meterse debajo del agua es la mejor manera de librarse de las abejas. Si escapa de Shere Khan, estate seguro de que no quieres que sufra ningún daño porque sería mortal.
+If you don't know why you can choose the outcome that suits you best, it’s because you might need Mowgli to get into trouble or suffer some harm in order for him to learn an important, life lesson. For example, if he’s stealing honey, you might want him to get stung by a few bees so he learns his lesso, and then you can show him that going underwater is the best way to get away from the bees. If he’s escaping from Shere Khan, you certainly wouldn’t want him to suffer any harm, as that could be fatal.
 
-Si un jugador tira con ventaja contra un animal que tiene una ventaja aplicable, se anula la ventaja. Si un jugador tira con desventaja contra un animal que tiene desventaja aplicable, se anula la desventaja. En cualquier otra opción la tirada no pierde o gana ventaja o desventaja.
+If a player rolls with advantage against an animal that has an applicable advantage, the advantage is canceled out. If a player rolls with disadvantage against an animal that has an applicable disadvantage, the disadvantage is canceled out. In any other scenario, the roll neither gains nor loses advantage or disadvantage.
 
 ### Consequences
 
@@ -66,11 +66,13 @@ Mowgli does not follow the Law of the Jungle; he simply follows the teachings he
 
 Keep in mind that Mowgli begins his adventures with as many vital lessons as there are players, life lessons that will have been defined during their initial encounter.
 
-### Life lessons XXX
+### Life lessons
 
 Al final de la aventura, si han salvado a Mowgli, tendrán que enseñarle una lección vital relacionada con los sucesos que han pasado durante la partida. Pueden ser cosas tan simples como «las abejas no te pican si te metes dentro del agua» o tan serías y complejas como «no hagas tratos con monos porque te intentarán engañar».
 
-Un aspecto importante es que Mowgli aprende de las lecciones que recibe de tus jugadores en cada aventura y no volverá a cometer los mismos errores en futuras aventuras. Esas enseñanzas marcarán, pues, como se comportará en futuras aventuras y si le han enseñado bien, saldrá vivo y si no le han aleccionado bien, puede que muera.
+At the end of the adventure, if they have saved Mowgli, they will need to teach him a life lesson based on the events that took place during the game. This could be something as simple as "bees won't sting you if you get into the water," or something as serious and complex as "don't make deals with monkeys, because they will try to cheat you."
+
+An important aspect is that Mowgli learns from the lessons provided by your players during each adventure, and he will not repeat the same mistakes in future adventures. These lessons will therefore shape how he behaves in future adventures; if he has been taught well, he will survive, but if he has not been properly instructed, he might die.
 
 ## Adventures
 
