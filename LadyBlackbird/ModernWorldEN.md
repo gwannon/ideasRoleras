@@ -119,9 +119,9 @@ Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso 
 
 [![Steampunk android with a waiter’s tray by macrovector](./maniqui2.jpg "Steampunk android with a waiter’s tray by macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Steampunk android with a waiter’s tray by macrovector")
 
-Una vez evacuado el parque tus jugadores deberían buscar la forma de evitar que la Flota Imperial se haga con su tecnología. Si cae en malas manos como las del Imperio, podría ser un desastre.
+Once the park has been evacuated, your players should look for a way to prevent the Imperial Fleet from getting their technology. If it falls into the wrong hands, like those of the Empire, it could be a disaster.
 
-Tus jugadores crearon esa tecnología para ayudar y hacer feliz a la gente, y, claro, hacer algo de dinero. Así que antes de huir del planetoide deben inutilizarla.
+Your players created this technology to help people and bring them happiness and, of course, to make some money. So, before fleeing the planetoid, they must destroy it.
 
 August será siempre el objetivo principal de las tropas de asalto del Devastador. Cómo todos saben, es el genio científico detrás de toda la tecnología del parque. Si lo atrapan podrán sacarle todos los secretos que desean. Según sus informes, los goblins son simples ayudantes de laboratorio.
 
