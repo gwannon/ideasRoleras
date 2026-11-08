@@ -114,103 +114,18 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 \sp
 
-\sinc
-
-# Capítulo 1. Dura lex, sed lex
-
-\conc
-
-XXX
-
-El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
-
-Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck Wilbuck, gerente municipal del censo, es todo un triunfo. XXX
-
-XXX
-
-Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
-
-> XXX Regla de uso de las placas XXX
-
-XXX
-
-## El cuestionario
-
-XXX
-
-Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia que es mejor que preguntar la edad porque mucha gente no sabe que ambos datos tienen una relación matemática) y otros datos demográficos normales, les tocará hacer algunas de estas preguntas.
-
-* **¿Ketchup o mostaza?** El Patricio no cree en la mayonesa como salsa para los perritos calientes ni para las patatas fritas.
-* **¿Perros o gatos?**
-* **¿Es usted terraesferista?** ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
-* **¿A qué diosas no rezas?** Es más rápido así.
-* XXX
+|Capitulo1.md|
 
 \sp
 
-\sinc
-
-# Capítulo 2. La universidad invisible
-
-\conc
-
-XXX
-
-Para ver quien tenía que acompañar a los empleados del censo, lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
-
-XXX
-
-## Entrevistando al bibliotecario
-
-XXX
-
+|Capitulo2.md|
 
 \sp
 
-\sinc
-
-# Personajes
-
-\conc
-
-XXX
-
-## Wilbuck Moreless, encargado de estadística de Ankh-Morpork
-
-XXX
-
-Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominado Esta-Listica. La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
-
-XXX
-
-## Spandau Ville, joven hechicero genial
-
-XXX
-
-Spandau es bastante germófobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
+|Personajes.md|
 
 XXX
 
 \sp
 
-\sinc
-
-# Epílogo
-
-\conc
-
-Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia.
-
-Así que cierra el libro o el PDF y recapacita en las horas que has perdido leyendo esto. A no ser que seas un editor, entonces planteárselo XXX
-
-## Agradecimientos
-
-A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
-
-## Licencia
-
-Este documento es un producto fan no oficial de distribución gratuita basado en el juego de rol «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» que es propiedad de Modiphius.
-
-Este contenido y su autor no tiene ningún tipo de relación con Modiphius. Además, Modiphius no ha aprobado ni ha dado el visto bueno en manera alguna a este documento.
-
-Este documento ha sido desarrollado por [Gwannon (Jorge Monclús)](https://gwannon.com/) bajo la licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+|Epilogo.md|

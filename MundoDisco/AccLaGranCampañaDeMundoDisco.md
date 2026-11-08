@@ -4,7 +4,7 @@
 
 
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett's Discworld: Adventures In Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
 ## Sinopsis
 
@@ -28,7 +28,7 @@ Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde p
 
 
 
-La única forma de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
+La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos.
 
@@ -40,11 +40,11 @@ XXX
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-Esta forma de magia permite predecir el futuro. En realizar permite saber que posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+Esta forma de magia permite predecir el futuro. En realidad permite saber que posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
-El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamandola «pseudo-magia» o «ciencia» a secas. ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
+El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamándola «pseudo-magia» o «ciencia» a secas. ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
 
@@ -66,7 +66,7 @@ Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permi
 
 Para convencer a tus jugadoras de que le ayuden, les venderá que el censo es el primer paso de la democracia unipersonal de Lord Vetinari a una democracia multipersonal.
 
-Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical convencidos de que van a ayudar al pueblo oprimido de Ankh-Morpork.
+Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical, convencidas de que van a ayudar al pueblo oprimido de Ankh-Morpork.
 
 Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia porcentual y manipular a las masas para que derroquen al Patricio y le harán a él el nuevo dirigente de la ciudad.
 
@@ -168,7 +168,6 @@ XXX
 
 
 
-
 # Personajes
 
 
@@ -187,7 +186,7 @@ XXX
 
 XXX
 
-Spandau es bastante germofobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
+Spandau es bastante germófobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
 
 XXX
 
@@ -209,7 +208,7 @@ A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriber
 
 ## Licencia
 
-Este documento es un producto fan no oficial de distribución gratuita basado en el juego de rol «Terry Pratchett's Discworld: Adventures In Ankh-Morpork» que es propiedad de Modiphius.
+Este documento es un producto fan no oficial de distribución gratuita basado en el juego de rol «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» que es propiedad de Modiphius.
 
 Este contenido y su autor no tiene ningún tipo de relación con Modiphius. Además, Modiphius no ha aprobado ni ha dado el visto bueno en manera alguna a este documento.
 
