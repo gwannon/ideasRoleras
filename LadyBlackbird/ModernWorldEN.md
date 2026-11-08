@@ -105,11 +105,11 @@ Their electric mannequins feature incredible engineering that perfectly replicat
 The third and most important technological development is their electronic brains, which surpass the mechanical thinking machines used by the Empire. 
 These electronic brains are significantly smaller in size and can be programmed in a much wider variety of ways, using more complex programs, for instance, by programming the generation of voices through loudspeaker systems.
 
-Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas nuevas tecnologías electrónicas.
+It is interesting that Yalp, Snot, and Dez, rather than selling their inventions to the highest bidder, used them to create a place for fun and entertainment. This is what most surprised the Empire’s high-ranking officials when they first laid eyes on these new electronic technologies.
 
-Los goblins consideran toda esta tecnología como suya y verla en manos de otros usándose con fines militares les es inconcebible.
+The goblins consider all this technology to be their own, and the idea of ​​it falling into the hands of others to be used for military purposes is inconceivable to them.
 
-Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso podrían sacrificarse para evitar que caiga en malos manos.
+It is clear that they would destroy it rather than hand it over to the Empire. They might even sacrifice themselves to prevent it from falling into the wrong hands.
 
 \sinc
 
