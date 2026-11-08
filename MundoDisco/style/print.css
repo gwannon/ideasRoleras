@@ -160,12 +160,6 @@ h1 {
   padding-top: 0;
 }
 
-h1::first-letter {
-  font-family: "Lavishly Yours", cursive;
-  font-weight: 400;
-  font-size: 1.9em;
-}
-
 h2 {
   font-family: "Rosarivo", cursive;
   font-size: 2em;

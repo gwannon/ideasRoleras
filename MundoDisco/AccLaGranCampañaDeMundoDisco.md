@@ -36,6 +36,14 @@ Estos diablillos gastan muchísima agua para beber y asearse y eso está secando
 
 XXX
 
+
+
+
+
+# Reglas
+
+
+
 ## La Esta-Listica
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
@@ -50,7 +58,7 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 ### Reglas de la Esta-Listica
 
-En juego la Esta-Listica permite XXX
+En juego la Esta-Listica permite XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
 
 ## El plan de Wilbuck
 
@@ -110,7 +118,7 @@ XXX
 
 Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
 
-Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial. XXX
+Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial. XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
 
 
 
@@ -198,9 +206,7 @@ XXX
 
 
 
-Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia.
-
-Así que cierra el libro o el PDF y recapacita en las horas que has perdido leyendo esto. A no ser que seas un editor, entonces planteárselo XXX
+Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia. Así que cierra el libro o el PDF y recapacita en las horas que has perdido leyendo esto. A no ser que seas un editor, entonces vete sacando la chequera para pagar al autor por este estupendo trabajo y así poder publicarlo. Error, no puedes publicarlo, tiene una licencia Creative Commons irrevocable.
 
 ## Agradecimientos
 
