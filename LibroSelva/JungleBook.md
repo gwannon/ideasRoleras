@@ -17,7 +17,7 @@ If an elephant tries to move a fallen tree, no roll is required. If it wants to 
 
 If you have **advantage** on a roll, you **roll 2d8 and keep the one that suits you best** (not necessarily the highest). If you have **disadvantage, you also roll 2d8 and keep the one that suits you best**, but if you choose the higher of the two dice, it will always carry a serious consequence, even if the result is a success.
 
-If you don't know why you can choose the outcome that suits you best, it’s because you might need Mowgli to get into trouble or suffer some harm in order for him to learn an important, life lesson. For example, if he’s stealing honey, you might want him to get stung by a few bees so he learns his lesso, and then you can show him that going underwater is the best way to get away from the bees. If he’s escaping from Shere Khan, you certainly wouldn’t want him to suffer any harm, as that could be fatal.
+If you don't know why you can choose the outcome that suits you best, it’s because you might need Mowgli to get into trouble or suffer some harm in order for him to learn an important, life lesson. For example, if he’s stealing honey, you might want him to get stung by a few bees so he learns his lesson, and then you can show him that going underwater is the best way to get away from the bees. If he’s escaping from Shere Khan, you certainly wouldn’t want him to suffer any harm, as that could be fatal.
 
 If a player rolls with advantage against an animal that has an applicable advantage, the advantage is canceled out. If a player rolls with disadvantage against an animal that has an applicable disadvantage, the disadvantage is canceled out. In any other scenario, the roll neither gains nor loses advantage or disadvantage.
 
