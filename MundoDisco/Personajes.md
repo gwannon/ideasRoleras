@@ -1,9 +1,3 @@
-\sinc
-
-# Personajes
-
-\conc
-
 XXX
 
 ## Wilbuck Moreless, encargado de estadística de Ankh-Morpork

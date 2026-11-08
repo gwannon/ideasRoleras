@@ -4,6 +4,8 @@
 
 \conc
 
+\sp
+
 «La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
 ## Sinopsis
@@ -26,8 +28,6 @@ XXX
 
 Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
 
-\sp
-
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos.
@@ -38,7 +38,23 @@ XXX
 
 \sp
 
+\sinc
+
+# Reglas
+
+\conc
+
+\sp
+
 |Reglas.md|
+
+\sp
+
+\sinc
+
+# Capítulo 1. Dura lex, sed lex
+
+\conc
 
 \sp
 
@@ -46,11 +62,35 @@ XXX
 
 \sp
 
+\sinc
+
+# Capítulo 2. La universidad invisible
+
+\conc
+
+\sp
+
 |Capitulo2.md|
 
 \sp
 
+\sinc
+
+# Personajes
+
+\conc
+
+\sp
+
 |Personajes.md|
+
+\sp
+
+\sinc
+
+# Epílogo
+
+\conc
 
 \sp
 

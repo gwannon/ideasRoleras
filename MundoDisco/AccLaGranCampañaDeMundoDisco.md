@@ -4,6 +4,8 @@
 
 
 
+
+
 «La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
 ## Sinopsis
@@ -26,8 +28,6 @@ XXX
 
 Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
 
-
-
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos.
@@ -41,6 +41,8 @@ XXX
 
 
 # Reglas
+
+
 
 
 
@@ -66,8 +68,6 @@ Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor c
  
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
 
-
-
 Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
  
 Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permitirá predecir a las masas.
@@ -75,6 +75,8 @@ Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permi
 Para convencer a tus jugadoras de que le ayuden, les venderá que el censo es el primer paso de la democracia unipersonal de Lord Vetinari a una democracia multipersonal.
 
 Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical, convencidas de que van a ayudar al pueblo oprimido de Ankh-Morpork.
+
+
 
 Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia porcentual y manipular a las masas para que derroquen al Patricio y le harán a él el nuevo dirigente de la ciudad.
 
@@ -98,13 +100,13 @@ Si la campaña descubre que las jugadoras han pillado el truco de decir que no p
 
 En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
 
-
-
 La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
 
 > Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
 
 XXX
+
+
 
 ## Cameos
 
@@ -125,6 +127,8 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 
 # Capítulo 1. Dura lex, sed lex
+
+
 
 
 
@@ -162,6 +166,8 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 
 
 
+
+
 XXX
 
 Para ver quien tenía que acompañar a los empleados del censo, lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
@@ -177,6 +183,8 @@ XXX
 
 
 # Personajes
+
+
 
 
 
@@ -203,6 +211,8 @@ XXX
 
 
 # Epílogo
+
+
 
 
 

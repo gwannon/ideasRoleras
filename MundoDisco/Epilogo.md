@@ -1,9 +1,3 @@
-\sinc
-
-# Epílogo
-
-\conc
-
 Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia. Así que cierra el libro o el PDF y recapacita en las horas que has perdido leyendo esto. A no ser que seas un editor, entonces vete sacando la chequera para pagar al autor por este estupendo trabajo y así poder publicarlo. Error, no puedes publicarlo, tiene una licencia Creative Commons irrevocable.
 
 ## Agradecimientos

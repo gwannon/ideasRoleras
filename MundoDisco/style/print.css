@@ -117,7 +117,7 @@ body {
 }
 
 body > *:first-child,
-.saltopagina + * {
+.saltopagina + *:not(h1) {
   margin-top: var(--padding);
   padding-top: 0;
 }
@@ -126,6 +126,10 @@ body > *:first-child,
   position: relative;
   counter-increment: primary 1; /* Increment the value of section counter by 1 */
 }
+
+.saltopagina + h1 {
+  margin-top: 0;
+} 
 
 .saltopagina:after {
   --size: 30px;
@@ -150,14 +154,19 @@ body > *:first-child,
 /* -------------------- */
 
 h1 {
+  box-sizing: border-box;
   font-family: "Rosarivo", cursive;
   font-style: italic;
   font-size: 2.8em;
   text-align: center;
-  border-bottom: 1px solid var(--color-primary);
-  margin-bottom: 30px;
-  margin-top: 0;
-  padding-top: 0;
+  margin: calc(var(--padding) * -1);
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
 }
 
 h2 {

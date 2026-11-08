@@ -1,9 +1,3 @@
-\sinc
-
-# Capítulo 1. Dura lex, sed lex
-
-\conc
-
 XXX
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
