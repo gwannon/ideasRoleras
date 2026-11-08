@@ -1,6 +1,10 @@
+\sinc
+
 # La gran campaña de Mundo Disco
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett's Discworld: Adventures In Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+\conc
+
+«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
 ## Sinopsis
 
@@ -20,15 +24,27 @@ Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la 
 
 XXX
 
+Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
+
+\sp
+
+La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
+
+Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos.
+
+Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor.
+
+XXX
+
 ## La Esta-Listica
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-Esta forma de magia permite predecir el futuro. En realizar permite saber que posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+Esta forma de magia permite predecir el futuro. En realidad permite saber que posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
-El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamandola «pseudo-magia» o «ciencia» a secas. ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
+El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamándola «pseudo-magia» o «ciencia» a secas. ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
 
@@ -41,14 +57,16 @@ En juego la Esta-Listica permite XXX
 Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorpokianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
  
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
- 
+
+\sp
+
 Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
  
-Pero el dato definitivo que necesita Willbuck es el censo municipal, que le permitirá predecir a las masas.
+Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permitirá predecir a las masas.
 
 Para convencer a tus jugadoras de que le ayuden, les venderá que el censo es el primer paso de la democracia unipersonal de Lord Vetinari a una democracia multipersonal.
 
-Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical convencidos de que van a ayudar al pueblo oprimido de Ankh-Morpork.
+Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical, convencidas de que van a ayudar al pueblo oprimido de Ankh-Morpork.
 
 Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia porcentual y manipular a las masas para que derroquen al Patricio y le harán a él el nuevo dirigente de la ciudad.
 
@@ -70,7 +88,11 @@ Si la campaña descubre que las jugadoras han pillado el truco de decir que no p
 
 ### Primera aparición 
 
-En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion. La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
+En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
+
+\sp
+
+La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
 
 > Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
 
@@ -84,15 +106,25 @@ Todo lo anterior no es más que una excusa para justificar la gran cantidad de c
 
 XXX
 
----
+## Esta campaña es «woke»
+
+Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
+
+Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial. XXX
+
+\sp
+
+\sinc
 
 # Capítulo 1. Dura lex, sed lex
+
+\conc
 
 XXX
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
 
-Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck Lessmore, gerente municipal del censo, es todo un triunfo. XXX
+Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck Wilbuck, gerente municipal del censo, es todo un triunfo. XXX
 
 XXX
 
@@ -114,9 +146,13 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 * **¿A qué diosas no rezas?** Es más rápido así.
 * XXX
 
----
+\sp
+
+\sinc
 
 # Capítulo 2. La universidad invisible
+
+\conc
 
 XXX
 
@@ -128,9 +164,14 @@ XXX
 
 XXX
 
----
+
+\sp
+
+\sinc
 
 # Personajes
+
+\conc
 
 XXX
 
@@ -146,19 +187,17 @@ XXX
 
 XXX
 
-Spandau es bastante germofobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
+Spandau es bastante germófobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
 
 XXX
 
-## Esta campaña es «woke»
+\sp
 
-Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
-
-Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial. XXX
-
----
+\sinc
 
 # Epílogo
+
+\conc
 
 Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia.
 
@@ -170,7 +209,7 @@ A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriber
 
 ## Licencia
 
-Este documento es un producto fan no oficial de distribución gratuita basado en el juego de rol «Terry Pratchett's Discworld: Adventures In Ankh-Morpork» que es propiedad de Modhipius.
+Este documento es un producto fan no oficial de distribución gratuita basado en el juego de rol «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» que es propiedad de Modiphius.
 
 Este contenido y su autor no tiene ningún tipo de relación con Modiphius. Además, Modiphius no ha aprobado ni ha dado el visto bueno en manera alguna a este documento.
 
