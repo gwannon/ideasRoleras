@@ -100,10 +100,10 @@ For one thing, their electrical systems and solar sails are twice as powerful as
 
 \sp
 
-Sus maniquíes eléctricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
+Their electric mannequins feature incredible engineering that perfectly replicates the muscles and bones of humans and animals. There are even movements that these electric mannequins perform better and faster than humans.
 
-El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el Imperio. 
-Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
+The third and most important technological development is their electronic brains, which surpass the mechanical thinking machines used by the Empire. 
+These electronic brains are significantly smaller in size and can be programmed in a much wider variety of ways, using more complex programs, for instance, by programming the generation of voices through loudspeaker systems.
 
 Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas nuevas tecnologías electrónicas.
 
