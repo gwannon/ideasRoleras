@@ -371,6 +371,7 @@ Este documento ha sido desarrollado por [Gwannon (Jorge Monclús)](https://gwann
 Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirlas a su respectivas propietarias.
 
 * [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+* [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 
