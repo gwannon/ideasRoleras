@@ -6,7 +6,13 @@
 
 
 
+
+
 «La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+
+
+
+
 
 ## Sinopsis
 
@@ -44,6 +50,14 @@ XXX
 
 
 
+
+
+XXX
+
+
+
+
+
 ## La Esta-Listica
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
@@ -60,13 +74,19 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 En juego la Esta-Listica permite XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
 
+
+
 ## El plan de Wilbuck
+
+
 
 Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorpokianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
  
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
 
 Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
+
+
  
 Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permitirá predecir a las masas.
 
@@ -74,11 +94,17 @@ Para convencer a tus jugadoras de que le ayuden, les venderá que el censo es el
 
 Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical, convencidas de que van a ayudar al pueblo oprimido de Ankh-Morpork.
 
-
-
 Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia porcentual y manipular a las masas para que derroquen al Patricio y le harán a él el nuevo dirigente de la ciudad.
 
+### Reglas de los almacenes de datos
+
+En juego los almacenes de datos permiten a Wilbuck XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
+
+
+
 ## La campaña
+
+
 
 La propia campaña (esta aventura que tienes entre manos) es un ente vivo dentro de la historia que si bien no habla con MAYÚSCULAS, sí lo hace en _cursiva_. Así que como mínimo es casi tan poderosa como la … MUERTE.
 
@@ -94,6 +120,8 @@ Si el intento de dejar la partida o de no venir la próxima sesión es durante e
 
 Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual lo importante es que la jueguen.
 
+
+
 ### Primera aparición 
 
 En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
@@ -108,13 +136,19 @@ XXX
 
 ## Cameos
 
+
+
 Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundo Disco son altas.
 
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 XXX
 
+
+
 ## Esta campaña es «woke»
+
+
 
 Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
 
@@ -130,7 +164,13 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 
 
+
+
 XXX
+
+
+
+
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
 
@@ -144,7 +184,11 @@ Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y es
 
 XXX
 
+
+
 ## El cuestionario
+
+
 
 XXX
 
@@ -166,13 +210,25 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 
 
 
+
+
+XXX
+
+
+
+
+
 XXX
 
 Para ver quien tenía que acompañar a los empleados del censo, lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
 
 XXX
 
+
+
 ## Entrevistando al bibliotecario
+
+
 
 XXX
 
@@ -186,9 +242,21 @@ XXX
 
 
 
+
+
 XXX
 
-## Wilbuck Moreless, encargado de estadística de Ankh-Morpork
+
+
+
+
+
+
+## Wilbuck Moreless
+
+**Encargado de estadística de Ankh-Morpork**
+
+
 
 XXX
 
@@ -196,7 +264,13 @@ Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominad
 
 XXX
 
-## Spandau Ville, joven hechicero genial
+
+
+## Spandau Ville
+
+**Joven hechicero genial**
+
+
 
 XXX
 
@@ -214,7 +288,13 @@ XXX
 
 
 
+
+
 Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, pésimamente escrita por una persona que no tiene ninguna gracia. Así que cierra el libro o el PDF y recapacita en las horas que has perdido leyendo esto. A no ser que seas un editor, entonces vete sacando la chequera para pagar al autor por este estupendo trabajo y así poder publicarlo. Error, no puedes publicarlo, tiene una licencia Creative Commons irrevocable.
+
+
+
+
 
 ## Agradecimientos
 
@@ -228,3 +308,13 @@ Este documento es un producto fan no oficial de distribución gratuita basado en
 Este contenido y su autor no tiene ningún tipo de relación con Modiphius. Además, Modiphius no ha aprobado ni ha dado el visto bueno en manera alguna a este documento.
 
 Este documento ha sido desarrollado por [Gwannon (Jorge Monclús)](https://gwannon.com/) bajo la licencia [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+
+### Imágenes
+
+XXX
+
+* [XXX](XXX) por [XXX](XXX)
+
+
+
+TEXTO CONTRAPORTADA

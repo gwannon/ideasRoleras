@@ -1,6 +1,18 @@
+\sinc
+
 XXX
 
-## Wilbuck Moreless, encargado de estadística de Ankh-Morpork
+&nbsp;
+
+\conc
+
+\sinc
+
+## Wilbuck Moreless
+
+**Encargado de estadística de Ankh-Morpork**
+
+\conc
 
 XXX
 
@@ -8,7 +20,13 @@ Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominad
 
 XXX
 
-## Spandau Ville, joven hechicero genial
+\sinc
+
+## Spandau Ville
+
+**Joven hechicero genial**
+
+\conc
 
 XXX
 
