@@ -30,9 +30,7 @@ Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde p
 
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
 
-Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos.
-
-Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor.
+Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
 XXX
 
@@ -220,7 +218,8 @@ Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, p�
 
 ## Agradecimientos
 
-A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
+* A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
+* A [Dani Moondark](https://mastorol.es/@danimoondark) por descubrirme a [HEX](https://discworld.fandom.com/wiki/Hex), el superordenador de la Universidad Invisible.
 
 ## Licencia
 
