@@ -58,11 +58,15 @@ XXX
 
 
 
+
+
 ## La Esta-Listica
+
+
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-Esta forma de magia permite predecir el futuro. En realidad permite saber que posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+Esta forma de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
@@ -72,7 +76,11 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 ### Reglas de la Esta-Listica
 
-En juego la Esta-Listica permite XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
+En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
+
+[ESPERAR A LAS REGLAS TRADUCIDAS]
+
+
 
 
 
@@ -85,8 +93,6 @@ Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor c
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
 
 Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
-
-
  
 Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permitirá predecir a las masas.
 
@@ -98,7 +104,11 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 ### Reglas de los almacenes de datos
 
-En juego los almacenes de datos permiten a Wilbuck XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
+En juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y peuda acceder a ellos a tiempo. 
+
+[ESPERAR A LAS REGLAS TRADUCIDAS]
+
+
 
 
 
@@ -118,19 +128,35 @@ Para ello, tal vez, la campaña se disfrace de un troll hiper-musculado que les 
 
 Si el intento de dejar la partida o de no venir la próxima sesión es durante el juego, la campaña actuará inmediatamente, para enganchar a la jugadora desertora. Si el intento de deserción es entre sesiones, la campaña deberá actuar prometiendo cosas molonas en la próxima sesión en el chat grupal.
 
-Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual lo importante es que la jueguen.
-
-
+Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual lo importante es que la jueguen, pero que no abusen.
 
 ### Primera aparición 
 
-En su primera aparición irá disfrazada de la muerte (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla fácil porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
+Siguiendo las reglas del punto anterior la primera aparición de la campaña será cuando alguien avise de que falla o de que no pueda continuar.
+
+Como es algo especial, en su primera aparición irá disfrazada de la MUERTE (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla con cierta facilidad porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
 
 La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
 
 > Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
 
-XXX
+
+
+Además, se ha pensado una estratagema sucia y rastrera y enganchar a las partidas a tus jugadoras. Todo se oscurecerá y se quedarán solos tus jugadoras en una gran negrura. De repente se podrán ver sus partes blancas y su guadaña y se presentará como la _muerte_. Estaba por el barrio, haciendo sus cosas. Pueden ver en un bolsillo de su túnica un pergamino enrollado donde se puede leer «Lista de ...», que puede ser desde «Lista de las almas que tengo que segar hoy» hasta «Lista de ingredientes para la tarta de queso».
+
+Bajará la guadaña de forma no ofensiva e irá acercándose a cada una de tus jugadoras y les dirá al odio como van a morir. No sabe ciertamente como van a morir, pero espera que sus palabras tengan efecto en las jugadoras y que esto afecte a sus acciones. Si le dice que morirá por una caída desde gran altura, la jugadora se creerá inmortal mientras no se suba a un sitio alto o puede que se decida a luchar contra un dragón verdadero, esperando morir épicamente tras matarlo en pleno vuelo. 
+
+Veamos algunos ejemplos que puedes usar y su aplicación en partida.
+
+* XXX
+
+De todas formas tú conoces a tu mesa y sabes que es lo mejor para engancharlos a tu partida, que es lo que la campaña quiere. Puedes dejar usar esta profecía como una etiqueta en situaciones de vida o muerte.
+
+### Y si nunca fallan o dicen que tienen que dejar la campaña
+
+Compra lotería, porque eres un ser tocado por la providencia. No hay registros en los anales del rol en donde se haya recogido semejante situación. Si lo deseas, puedes escribirme y te pondré en la zona de agradecimientos.  
+
+
 
 
 
@@ -142,7 +168,7 @@ Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el fam
 
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
-XXX
+> Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
 
 
 
@@ -152,7 +178,9 @@ XXX
 
 Esta campaña es completamente «woke», así que, entre otras cosas, se ha usado el femenino genérico en todo este documento, por si no te habías dado cuenta.
 
-Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial. XXX [ESPERAR A LAS REGLAS TRADUCIDAS]
+Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial.
+
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 
 
@@ -311,9 +339,17 @@ Este documento ha sido desarrollado por [Gwannon (Jorge Monclús)](https://gwann
 
 ### Imágenes
 
-XXX
+Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirlas a su respectivas propietarias.
 
-* [XXX](XXX) por [XXX](XXX)
+* [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+
+Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
+
+## Uso de IA
+
+Pues, esto es muy sencillo, después de leerte toda la campaña y ver de qué trata ¿crees que he usado en algún sitio IA Generativa?
+
+[![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
 
 
 
