@@ -102,7 +102,11 @@ De todas formas tú conoces a tu mesa y sabes que es lo mejor para engancharlos 
 
 ### Y si nunca fallan o dicen que tienen que dejar la campaña
 
-Compra lotería, porque eres un ser tocado por la providencia. No hay registros en los anales del rol en donde se haya recogido semejante situación. Si lo deseas, puedes escribirme y te pondré en la zona de agradecimientos.  
+Compra lotería, porque eres un ser tocado por la providencia. No hay registros en los anales del rol en donde se haya recogido semejante situación. Si lo deseas, puedes escribirme y te pondré en la zona de agradecimientos. 
+
+### Y si el que quiere dejar esta ponzoña de aventura eres tú
+
+La campaña conoce a gente, gente muy chunga que puede hacerle cosas muy chungas a lo que más quieres, tu colección de libros de rol. Tú sabras lo que haces, pero recuerda que toda acción o inacción tiene sus consecuencias.
 
 \sp
 
