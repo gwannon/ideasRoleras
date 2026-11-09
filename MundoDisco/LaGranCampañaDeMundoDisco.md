@@ -1,6 +1,6 @@
 \sinc
 
-# La gran campaña de Mundo Disco
+# La gran campaña **de Mundo Disco**
 
 \conc
 
@@ -56,7 +56,7 @@ XXX
 
 \sinc
 
-# Capítulo 1. Dura lex, sed lex
+# Capítulo 1. **Dura lex, sed lex**
 
 \conc
 
@@ -68,7 +68,7 @@ XXX
 
 \sinc
 
-# Capítulo 2. La universidad invisible
+# Capítulo 2. **La universidad invisible**
 
 \conc
 

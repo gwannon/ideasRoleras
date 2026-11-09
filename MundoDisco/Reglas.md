@@ -1,6 +1,8 @@
 \sinc
 
-XXX
+Esta campaña tiene una serie de reglas especiales que si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añade algunas nuevas para darle el sabor específico que se busca en esta campaña.
+
+Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar. 
 
 &nbsp;
 
@@ -14,11 +16,15 @@ XXX
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-Esta forma de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
-El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamándola «pseudo-magia» o «ciencia» a secas. ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad (como el donce), son patrañas científicas de las modernas.
+El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamándola «pseudo-magia» o «ciencia» a secas.
+
+´´´
+¿Qué es eso de porcentajes? Eso no son números mágicos de verdad, como el donce, son patrañas científicas de las modernas.
+´´´
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
 
@@ -28,6 +34,12 @@ En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres 
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de surte.
+
+\sp
+
+Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan tienes unas probabilidades de uno entre un millón en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una Esta-Lista, ni ella puede aprovecharse de ella, ni otros puede de aprovecharse de esta regla en perjuicio del esta-lista.
+
 \sp
 
 \sinc
@@ -36,7 +48,7 @@ En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres 
 
 \conc
 
-Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorpokianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
+Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorporkianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
  
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
 
@@ -52,7 +64,7 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 ### Reglas de los almacenes de datos
 
-En juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y peuda acceder a ellos a tiempo. 
+En juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y pueda acceder a ellos a tiempo. 
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
@@ -72,7 +84,7 @@ La campaña necesita que sea jugada y contada y hará lo que sea para que tu mes
 
 Para ello, tal vez, la campaña se disfrace de un troll hiper-musculado que les reta a un pulso y al que, contra toda lógica, le ganes. O puede que aparezca como una bella manceba que le haga ojitos a la jugadora que dijo en el grupo de chat que igual dejaba de venir a las partidas.
 
-> Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras. 
+> Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras.  Recuerda que solo son sugerencias y tú conoces a tu mesa, si crees que algo puede funcionar mejor, tírate a la piscina.  
 
 Si el intento de dejar la partida o de no venir la próxima sesión es durante el juego, la campaña actuará inmediatamente, para enganchar a la jugadora desertora. Si el intento de deserción es entre sesiones, la campaña deberá actuar prometiendo cosas molonas en la próxima sesión en el chat grupal.
 
@@ -90,15 +102,22 @@ La campaña cree que con un cameo de un personaje importante de la saga de libro
 
 \sp
 
-Además, se ha pensado una estratagema sucia y rastrera y enganchar a las partidas a tus jugadoras. Todo se oscurecerá y se quedarán solos tus jugadoras en una gran negrura. De repente se podrán ver sus partes blancas y su guadaña y se presentará como la _muerte_. Estaba por el barrio, haciendo sus cosas. Pueden ver en un bolsillo de su túnica un pergamino enrollado donde se puede leer «Lista de ...», que puede ser desde «Lista de las almas que tengo que segar hoy» hasta «Lista de ingredientes para la tarta de queso».
+Además, se ha pensado una estratagema sucia y rastrera y enganchar a las partidas a tus jugadoras. Todo se oscurecerá y se quedarán solos tus jugadoras en una gran negrura. De repente se podrán ver sus partes blancas y su guadaña y se presentará como la _muerte_. Estaba por el barrio, haciendo sus cosas. Pueden ver en un bolsillo de su túnica un pergamino enrollado donde se puede leer «Lista de …», que puede ser desde «Lista de las almas que tengo que segar hoy» hasta «Lista de ingredientes para la tarta de queso».
 
-Bajará la guadaña de forma no ofensiva e irá acercándose a cada una de tus jugadoras y les dirá al odio como van a morir. No sabe ciertamente como van a morir, pero espera que sus palabras tengan efecto en las jugadoras y que esto afecte a sus acciones. Si le dice que morirá por una caída desde gran altura, la jugadora se creerá inmortal mientras no se suba a un sitio alto o puede que se decida a luchar contra un dragón verdadero, esperando morir épicamente tras matarlo en pleno vuelo. 
+Bajará la guadaña de forma no ofensiva e irá acercándose a cada una de tus jugadoras y les dirá al odio (solo la jugadora lo sabrá) cómo van a morir de una forma bastante críptica.
+
+_La campaña_ no sabe ciertamente cómo van a morir, pero espera que sus palabras tengan efecto en las jugadoras y que esto afecte a sus acciones.
+
+Si le dice a una jugadora que morirá por las alturas son mortales de necesidad, esta se creerá inmortal mientras no se suba a un sitio alto o puede que se decida a luchar contra un dragón verdadero, esperando morir épicamente tras matarlo en pleno vuelo. 
 
 Veamos algunos ejemplos que puedes usar y su aplicación en partida.
 
-* XXX
+* **No deberías acariciar a las mascotas de nadie.** Una mascota puede ser el perro demonio de un demonólogo o el caniche piraña de una señora de la sociedad ankhmorporkiana.
+* **El picante y otras especias puede tener efectos secundarios muy malos.** Quién dice especias, dice veneno y recuerda que hay picantes que queman al entrar y al salir.
+* **El exceso de metales pesados en el organismo puede ser mortal.** Qué hierro puede ser un yunque en la cabeza, una puñalada trapera o una intoxicación por mercurio.
+* **La magia es poderosa, pero también mortalmente peligrosa:** Y si rima es que es verdad, que dicen las abuelas.
 
-De todas formas tú conoces a tu mesa y sabes que es lo mejor para engancharlos a tu partida, que es lo que la campaña quiere. Puedes dejar usar esta profecía como una etiqueta en situaciones de vida o muerte.
+De todas formas, tú conoces a tu mesa y sabes que es lo mejor para engancharlos a tu partida, que es lo que _la campaña_ quiere. Puedes dejar usar esta profecía como una etiqueta en situaciones de vida o muerte.
 
 ### Y si nunca fallan o dicen que tienen que dejar la campaña
 
@@ -106,7 +125,9 @@ Compra lotería, porque eres un ser tocado por la providencia. No hay registros 
 
 ### Y si el que quiere dejar esta ponzoña de aventura eres tú
 
-La campaña conoce a gente, gente muy chunga que puede hacerle cosas muy chungas a lo que más quieres, tu colección de libros de rol. Tú sabras lo que haces, pero recuerda que toda acción o inacción tiene sus consecuencias.
+La campaña conoce a gente, gente muy chunga que puede hacerle cosas muy bestias a lo que más quieres, tu colección de libros de rol. Tú sabrás lo que haces, pero recuerda que toda acción o inacción tiene sus consecuencias.
+
+De hecho, adquieres el rasgo «amenazado por _la campaña_». En este caso cuando tu mesa te diga algo, puedes usar este rasgo y conseguir un d12 cuando tengas que hablar con tus jugadoras.
 
 \sp
 

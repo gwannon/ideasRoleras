@@ -8,15 +8,19 @@ XXX
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
 
-Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck Wilbuck, gerente municipal del censo, es todo un triunfo. XXX
+Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck, gerente municipal del censo, es todo un triunfo.
 
 XXX
+
+\sinc
+
+## Agentes censales
+
+\conc
 
 Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
-> XXX Regla de uso de las placas XXX
-
-XXX
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 \sinc
 

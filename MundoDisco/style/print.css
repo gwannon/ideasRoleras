@@ -2,7 +2,8 @@
   --padding: 65px; /*Ancho de los bordes de la página*/
   --color-primary: #000;
   --color-secondary: #fff;
-  --color-tertiaire: #cecece;
+  --color-tertiaire: #69301d;
+  --color-quaternary: #83643e;
 }
 
 body {
@@ -167,13 +168,19 @@ h1 {
   justify-content: center;
   background-color: var(--color-primary);
   color: var(--color-secondary);
+  flex-direction: column;
+}
+
+h1 b {
+  display: block;
 }
 
 h2 {
   font-family: "Rosarivo", cursive;
   font-size: 2em;
-  border-top: 1px solid var(--color-primary);
-  border-bottom: 1px solid var(--color-primary);
+  color: var(--color-tertiaire);
+  border-top: 1px solid var(--color-tertiaire);
+  border-bottom: 1px solid var(--color-tertiaire);
   padding: 16px 0 10px !important;
 }
 
@@ -183,39 +190,16 @@ h3 {
   margin: 0;
   padding: 10px 0 5px;
   font-style: italic;
+  color: var(--color-quaternary)
 }
 
 p {
   margin-top: 0; 
 }
 
-ul {
-  font-size: 0.95em;
-  /*padding: 0px;*/
-  list-style-type: none;
-}
 
-div > ul {
-  padding-left: 0;
-}
-
-ul ul {
-  padding-left: 0px;
-  display: flex;
-  gap: 5px;
-  flex-wrap: wrap;
-  margin-bottom: 6px;
-  font-size: 0.70em;
-}
-
-.columns > ul:first-of-type > li > ul {
-  border-top: 1px solid var(--color-primary);
-  padding-top: 3px;
-  
-}
-
-ul ul li {
-  width: calc(50% - 5px);
+ul, ol {
+  padding-left: 25px;
 }
 
 table {
@@ -254,8 +238,9 @@ p:has(img) {
 
 
 blockquote {
-  border: 1px solid var(--color-primary);
-  padding: 10px;
+  background: transparent url(../images/filete.png) top left no-repeat;
+  background-size: 2ch auto;
+  padding: 15px 10px 10px 40px;
   margin: 0 0 10px 0;
   font-family: "Rosarivo", cursive;
   line-height: 120%;
@@ -277,7 +262,7 @@ blockquote p:last-child {
     display: block;
     padding: 8px;
     margin: 0px;
-    font-family: 'Kablammo';
+    font-family: "Rosarivo", cursive;
     font-size: 24px;
     text-decoration: none;
     z-index: 100;

@@ -1,13 +1,3 @@
-Bajará la guadaña de forma no ofensiva e irá acercándose a cada una de tus jugadoras y les dirá al odio como van a morir. No sabe ciertamente como van a morir, pero espera que sus palabras tengan efecto en las jugadoras y que esto afecte a sus acciones. Si le dice que morirá por una caída desde gran altura, la jugadora se creerá inmortal mientras no se suba a un sitio alto o puede que se decida a luchar contra un dragón verdadero, esperando morir épicamente tras matarlo en pleno vuelo. 
-
-Veamos algunos ejemplos que puedes usar y su aplicación en partida.
-
-* XXX
-
-De todas formas tú conoces a tu mesa y sabes que es lo mejor para engancharlos a tu partida, que es lo que la campaña quiere. Puedes dejar usar esta profecía como una etiqueta en situaciones de vida o muerte.
-
---- 
-
 ### Así que empecemos …
 
 Lord Vetinari, el patricio de Ankh-Morpork, dentro de sus políticas de reinserción social de criminales, permite conmutar las penas de cárcel a cambio de trabajar de entrevistadoras del censo electoral municipal.
