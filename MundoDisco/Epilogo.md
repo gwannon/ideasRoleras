@@ -21,6 +21,14 @@ Este documento ha sido desarrollado por [Gwannon (Jorge Monclús)](https://gwann
 
 ### Imágenes
 
-XXX
+Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirlas a su respectivas propietarias.
 
-* [XXX](XXX) por [XXX](XXX)
+* [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
+
+Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
+
+## Uso de IA
+
+Pues, es muy sencillo, ¿después de leerte toda la campaña y ver de qué trata crees que he usado en algún sitio IA Generativa?
+
+[![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')

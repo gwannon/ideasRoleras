@@ -6,7 +6,11 @@ XXX
 
 \conc
 
+\sinc
+
 ## La Esta-Listica
+
+\conc
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
@@ -32,9 +36,9 @@ Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor c
  
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
 
-Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
-
 \sp
+
+Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
  
 Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permitirá predecir a las masas.
 
@@ -66,9 +70,9 @@ Para ello, tal vez, la campaña se disfrace de un troll hiper-musculado que les 
 
 Si el intento de dejar la partida o de no venir la próxima sesión es durante el juego, la campaña actuará inmediatamente, para enganchar a la jugadora desertora. Si el intento de deserción es entre sesiones, la campaña deberá actuar prometiendo cosas molonas en la próxima sesión en el chat grupal.
 
-Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual lo importante es que la jueguen.
-
 \sp
+
+Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual lo importante es que la jueguen.
 
 ### Primera aparición 
 
