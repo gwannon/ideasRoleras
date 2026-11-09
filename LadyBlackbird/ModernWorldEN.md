@@ -123,11 +123,11 @@ Once the park has been evacuated, your players should look for a way to prevent 
 
 Your players created this technology to help people and bring them happiness and, of course, to make some money. So, before fleeing the planetoid, they must destroy it.
 
-August será siempre el objetivo principal de las tropas de asalto del Devastador. Cómo todos saben, es el genio científico detrás de toda la tecnología del parque. Si lo atrapan podrán sacarle todos los secretos que desean. Según sus informes, los goblins son simples ayudantes de laboratorio.
+August will always be the main target of the Devastator’s assault troops. As everyone knows, he is the scientific genius behind all the technology in the park. If they capture him, they will be able to extract all the secrets they desire. According to their reports, the goblins are merely laboratory assistants.
 
-El único plan posible para destruir su tecnología es ir a cada zona y llegar a su centro de control. Desde cada uno de ellos se puede desactivar todos los maniquíes y las atracciones de la zona y luego sobrecargarlos y freír sus circuitos haciéndoles inservibles.
+The only available plan to destroy their technology is to go to each zone and reach its control center. From each of these, you can deactivate all the mannequins and attractions in that zone, and then overload them, frying their circuits and destroying them.
 
-El último paso sería destruir cada centro de control para asegurarse de que no queda nada aprovechable. Lo más sencillo sería usar explosivos, pero si no tienen a mano TNT, pueden ser creativos.
+The final step would be to destroy each control center to ensure that the Empire can't recover their technology. The simplest method would be to use explosives, but if they don’t have any explosive on hand, they can get creative.
 
 \sp
 

@@ -12,7 +12,7 @@ The Empire has recognized the potential for military use of the inventions devel
 
 The Empire does not take rejection well. If it isn’t handed over willingly, it will have to send a destroyer to take it by force.
 
-What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot, and Dez ,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
+What no one knows is that Thornberry is no genius inventor. He is merely a charlatan with a silver tongue, hired by the goblins Yalp, Snot and Dez,the true electrical geniuses, to serve as the public face of the park and to sign for bank loans. No bank in Ilysium would ever provide funding for the mad ideas of three goblins.
 
 Before the Devastator enters the planetoid’s atmosphere and its ground assault forces conquest Modern World, they must destroy the park’s facilities, ensuring the Empire cannot get its hands on the technological discoveries that give this place its magic.
 
@@ -24,7 +24,7 @@ But it doesn’t end there; they will have to escape from the Devastator, for if
 
 
 
-Modern World is one of a kind. It is, as the press once titled it, «The most incredible place in the Empire». Every year, thousands of rich persons visit it, and upon returning home, they can speak only in glowing terms to those they know.
+Modern World is one of a kind. It is, as the press once titled it, «The most incredible place in the Empire». Every year, thousands of rich persons visit it and upon returning home, they can speak only in glowing terms to those they know.
 
 The planetoid on which the park has been built has an entire system of solar sails that power a massive space engine, making the planetoid, in effect, a fully functional, but extremely slow, starship.
 
@@ -36,27 +36,27 @@ It has a spacious spaceport where the rich and powerful people of Ilysium can la
 
 From there, they can access the resort, where they are accommodated in their luxurious suites. After freshening up in their rooms or enjoying a nice meal, they can enter the park and experience its wonders, such as the Thunderbird Flight in West World or the Kevlar Labyrinth in East World.
 
-At the resort, there are only humans, chefs, waiters, attendants, cleaning staff, belboy, and so on. In contrast, the park contains only autonomous, motorized mannequins tasked with enlivening the various attractions and shows, as well as selling food or souvenirs.
+At the resort, there are only humans, chefs, waiters, attendants, cleaning staff, belboy and so on. In contrast, the park contains only autonomous, motorized mannequins tasked with enlivening the various attractions and shows, as well as selling food or souvenirs.
 
 There are only a few humans and goblins dedicated to the maintenance of mannequins and attractions, or to more delicate tasks such as the massages and beauty treatments offered at the thermal baths.
 
-The park is divided into 5 zones: one central zone, with the other 4 arranged around it to the north, south, east, and west. Each zone of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
+The park is divided into 5 zones: one central zone, with the other 4 arranged around it to the north, south, east and west. Each zone of the park is themed after a series of cheap, 5-credit books, the kind the goblins used to devour in their childhood and freetime.
 
 ### Modern World
 
 This zone, which gives the park its name, is located in the center. It represents our world, but in an electric future.
 
-There are mannequins that polish your shoes, others that sell newspapers and leaflets, others that pull rickshaws and take you wherever you want to go, others that trim hedges, and so on. There are also many that walk along the streets, entering and leaving buildings as if they were office workers, accountants, or secretaries arriving at or leaving their workplaces.
+There are mannequins that polish your shoes, others that sell newspapers and leaflets, others that pull rickshaws and take you wherever you want to go, others that trim hedges and so on. There are also many that walk along the streets, entering and leaving buildings as if they were office workers, accountants, or secretaries arriving at or leaving their workplaces.
 
 Every so often, there is a parade of mannequins, complete with a mannequin marching band and decorated platforms, celebrating the benefits of electricity and how it is produced.
 
 ### North World
 
-It is a world of gods and heroes from ancient myths. There are marble temples, mosaics, hidden crypts, and sumptuous thermal baths where visitors relax and enjoy therapeutic treatments, such as massages and libations.
+It is a world of gods and heroes from ancient myths. There are marble temples, mosaics, hidden crypts and sumptuous thermal baths where visitors relax and enjoy therapeutic treatments, such as massages and libations.
 
 Visitors are treated like heroes, with praises and delicious plates.
 
-Military parades, electric-chariot races, and electrified gladiator combat are very commons.
+Military parades, electric-chariot races and electrified gladiator combat are very commons.
 
 ### South World
 
@@ -64,29 +64,29 @@ This zone is a vast zoo featuring electric animatronic figures of many species o
 
 
 
-There are areas of jungle, savanna, steppe, and even tundra, a multitude of ecosystems that have been extinct for years.
+There are areas of jungle, savanna, steppe and even tundra, a multitude of ecosystems that have been extinct for years.
 
-In these regions, one finds mammoths, bison, large felines, birds of every color, and massive reptiles with even larger teeth and claws.
+In these regions, one finds mammoths, bison, large felines, birds of every color and massive reptiles with even larger teeth and claws.
 
 ### East World
 
-In the east are East World, a pastiche of myths and tales drawn from the farthest reaches of known space, featuring alien princes and princesses, strange, gargantuan beasts of burden or war, and exotic palaces with secret passageways.
+In the east are East World, a pastiche of myths and tales drawn from the farthest reaches of known space, featuring alien princes and princesses, strange, gargantuan beasts of burden or war and exotic palaces with secret passageways.
 
-There are duels fought with electro-swords while impossible acrobatics are developed, bursts of flame, and bolts of energy, as well as powerful seers who can read your fortune.
+There are duels fought with electro-swords while impossible acrobatics are developed, bursts of flame and bolts of energy, as well as powerful seers who can read your fortune.
 
 And as great finale there are dances accompanied by the screeching of countless metallic joints and gears.
 
 ### West World
 
-En la parte oeste se encuentra West World, una especie de frontera futurista con cowboys montados en caballos androides, vacas con placas solares de las que ordeñas electricidad y pistolas de rayos eléctricos. 
+In the western section lies West World, a sort of futuristic frontier featuring cowboys mounted on android horses, cows equipped with solar panels from which you can «milk» electricity and electrical ray guns.
 
-Duelos al amanecer, robos de bancos, asaltos a trenes y peleas en el _saloon_ son las atracciones típicas de esta zona, aparte del Vuelo del Ave de Trueno, la atracción más alucinante creada por el hombre (o los goblins).
+Shootings at dawn, bank robberies, train heists and saloon brawls are the typical attractions in this area, not to mention the "Flight of the Thunderbird", the most mind-blowing attraction ever created by man (or goblins).
 
 ### Moving between zones
 
-Modern World se encuentra en el centro del parque y el resto de mundos se encuentra se encuentran al norte, al sur, al este y al oeste, siguiendo su nombre. Se decidió así para que los visitantes pudieran orientarse fácilmente. Esto quiere decir que para moverse de una zona a otra siempre tendrán que pasar por Modern World.
+Modern World is located in the center of the park, while the other worlds are situated to the north, south, east, and west, as their names suggest. This distribution was chosen to help visitors orient themselves easily. Consequently, moving from one zone to another always requires passing through Modern World.
 
-La forma más fácil de moverse es por la superficie del parque, pero eso no quiere decir que no haya un submundo de túneles, pasillos por debajo del parque que usan para el mantenimiento. Es complicado moverse por aquí, pero es la forma perfecta de moverse de manera segura y sin ser visto. 
+The easiest way to get around is on the surface, but there is also an underground network of tunnels and corridors beneath the park, used for maintenance. Navigating in the underground is complex, yet it offers an ideal way to move about safely and discreetly, out of sight.
 
 
 
@@ -94,22 +94,22 @@ La forma más fácil de moverse es por la superficie del parque, pero eso no qui
 
 
 
-La tecnología electrónica usada en el parque por Yalp, Snot y Dez es muy superior a la del resto de investigadores científicos del Imperio.
+The electronic technology used in the park by Yalp, Snot, and Dez is far superior to that of the other scientific researchers in the Empire.
 
-Por un lado, su electricidad y sus velas solares es el doble de poderosa que el vapor y el carbón que usa el resto del mundo. Sus inventos pueden funcionar durante días sin tener que recargar sus baterías durante días gracias a sus velas solares que convierten la luz en electricidad.
+For one thing, their electrical systems and solar sails are twice as powerful as the steam and coal power used by the rest of the world. Their inventions can operate for days without needing to be recharged, thanks to solar sails that convert light into electricity.
 
 
 
-Sus maniquíes eléctricos tienen una ingeniería increíble que replica músculos y huesos de humanos y animales a la perfección. Incluso hay movimientos que los maniquíes eléctricos hacen mejor y más rápido que los humanos.
+Their electric mannequins feature incredible engineering that perfectly replicates the muscles and bones of humans and animals. There are even movements that these electric mannequins perform better and faster than humans.
 
-El tercer y más importante desarrollo tecnológico son sus cerebros eléctricos que superan a las máquinas pensantes mecánicas que usa el Imperio. 
-Esos cerebros electrónicos son de un tamaño muchísimo menor y pueden programarse de muchas más maneras, con programas más complejos, por ejemplo, programando la producción de voces a través de sistemas de altavoces.
+The third and most important technological development is their electronic brains, which surpass the mechanical thinking machines used by the Empire. 
+These electronic brains are significantly smaller in size and can be programmed in a much wider variety of ways, using more complex programs, for instance, by programming the generation of voices through loudspeaker systems.
 
-Lo interesante es que Yalp, Snot y Dez, en vez de vender sus inventos al mejor postor, lo dirigieron a crear un lugar de diversión y entretenimiento. Esto es lo que más sorprendió a los altos cargos del Imperio cuando pusieron sus ojos en estas nuevas tecnologías electrónicas.
+It is interesting that Yalp, Snot, and Dez, rather than selling their inventions to the highest bidder, used them to create a place for fun and entertainment. This is what most surprised the Empire’s high-ranking officials when they first laid eyes on these new electronic technologies.
 
-Los goblins consideran toda esta tecnología como suya y verla en manos de otros usándose con fines militares les es inconcebible.
+The goblins consider all this technology to be their own, and the idea of ​​it falling into the hands of others to be used for military purposes is inconceivable to them.
 
-Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso podrían sacrificarse para evitar que caiga en malos manos.
+It is clear that they would destroy it rather than hand it over to the Empire. They might even sacrifice themselves to prevent it from falling into the wrong hands.
 
 
 
@@ -119,15 +119,15 @@ Ten muy claro que antes la destruyen a tener que entregarla al Imperio. Incluso 
 
 [![Steampunk android with a waiter’s tray by macrovector](./maniqui2.jpg "Steampunk android with a waiter’s tray by macrovector")](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm "Steampunk android with a waiter’s tray by macrovector")
 
-Una vez evacuado el parque tus jugadores deberían buscar la forma de evitar que la Flota Imperial se haga con su tecnología. Si cae en malas manos como las del Imperio, podría ser un desastre.
+Once the park has been evacuated, your players should look for a way to prevent the Imperial Fleet from getting their technology. If it falls into the wrong hands, like those of the Empire, it could be a disaster.
 
-Tus jugadores crearon esa tecnología para ayudar y hacer feliz a la gente, y, claro, hacer algo de dinero. Así que antes de huir del planetoide deben inutilizarla.
+Your players created this technology to help people and bring them happiness and, of course, to make some money. So, before fleeing the planetoid, they must destroy it.
 
-August será siempre el objetivo principal de las tropas de asalto del Devastador. Cómo todos saben, es el genio científico detrás de toda la tecnología del parque. Si lo atrapan podrán sacarle todos los secretos que desean. Según sus informes, los goblins son simples ayudantes de laboratorio.
+August will always be the main target of the Devastator’s assault troops. As everyone knows, he is the scientific genius behind all the technology in the park. If they capture him, they will be able to extract all the secrets they desire. According to their reports, the goblins are merely laboratory assistants.
 
-El único plan posible para destruir su tecnología es ir a cada zona y llegar a su centro de control. Desde cada uno de ellos se puede desactivar todos los maniquíes y las atracciones de la zona y luego sobrecargarlos y freír sus circuitos haciéndoles inservibles.
+The only available plan to destroy their technology is to go to each zone and reach its control center. From each of these, you can deactivate all the mannequins and attractions in that zone, and then overload them, frying their circuits and destroying them.
 
-El último paso sería destruir cada centro de control para asegurarse de que no queda nada aprovechable. Lo más sencillo sería usar explosivos, pero si no tienen a mano TNT, pueden ser creativos.
+The final step would be to destroy each control center to ensure that the Empire can't recover their technology. The simplest method would be to use explosives, but if they don’t have any explosive on hand, they can get creative.
 
 
 
