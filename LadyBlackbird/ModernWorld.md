@@ -137,7 +137,7 @@ El último paso sería destruir cada centro de control para asegurarse de que no
 * El centro de East World está debajo del lago central. Podrían inundarlo.
 * Modern World no tiene a priori ningún punto débil.
 
-En Moderno World, además de la zona de control, donde empezarán, tendrán que destruir su laboratorio, eso debería ser especialmente duro para los 3 Goblins, ya que es destruir el trabajo de toda una vida.
+En Modern World, además de la zona de control, donde empezarán, tendrán que destruir su laboratorio, eso debería ser especialmente duro para los 3 Goblins, ya que es destruir el trabajo de toda una vida.
 
 Está sección debe ser la última en destruirse porque la necesitan funcional para moverse entre secciones del parque y llegar al espacio puerto en el auto tren lanzadera. Además, tendrán que hacerlo a distancia, ya que si lo destruyen antes de llegar al espacio puerto el auto tren se parará en mitad de la vía.
 

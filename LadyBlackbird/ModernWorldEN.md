@@ -137,9 +137,9 @@ The final step would be to destroy each control center to ensure that the Empire
 * The control center of East World is located beneath the central lake. It could be flooded.
 * Modern World doesn't appear to have any weaknesses.
 
-En Moderno World, además de la zona de control, donde empezarán, tendrán que destruir su laboratorio, eso debería ser especialmente duro para los 3 Goblins, ya que es destruir el trabajo de toda una vida.
+In Moderno World, in addition to the control zone, where they will begin, they will also have to destroy the laboratory. This should be particularly difficult for the three Goblins, as it means destroying their life's work.
 
-Está sección debe ser la última en destruirse porque la necesitan funcional para moverse entre secciones del parque y llegar al espacio puerto en el auto tren lanzadera. Además, tendrán que hacerlo a distancia, ya que si lo destruyen antes de llegar al espacio puerto el auto tren se parará en mitad de la vía.
+This section must be the last one to be destroyed, as it needs to remain functional for them to travel between different parts of the park and reach the spaceport via the shuttle train. Furthermore, they will have to destroy it remotely; if they destroy it before reaching the spaceport, the shuttle train will come to a halt in the middle of the track.
 
 La misión de destrucción tiene un tiempo máximo. Crea un reloj con 9 secciones, cada vez que ejecuten un plan de sabotaje fallido o exitoso rellena una sección. Cuando se rellenen todos, el Devastador aterrizará y las tropas de asalto se harán con el control de lo que quede en pie del parque.
 
