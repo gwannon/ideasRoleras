@@ -127,9 +127,11 @@ August will always be the main target of the Devastator’s assault troops. As e
 
 The only available plan to destroy their technology is to go to each zone and reach its control center. From each of these, you can deactivate all the mannequins and attractions in that zone, and then overload them, frying their circuits and destroying them.
 
-The final step would be to destroy each control center to ensure that the Empire can't recover their technology. The simplest method would be to use explosives, but if they don’t have any explosive on hand, they can get creative.
+The final step would be to destroy each control center to ensure that the Empire can't recover their technology. 
 
 
+
+The simplest method would be to use explosives, but if they don’t have any explosive on hand, they can get creative.
 
 * In North World, there is volcanic activity, hence its famous hot springs.
 * South World has a gas pipeline nearby that carries gas extracted from the planetoid.
@@ -137,7 +139,7 @@ The final step would be to destroy each control center to ensure that the Empire
 * The control center of East World is located beneath the central lake. It could be flooded.
 * Modern World doesn't appear to have any weaknesses.
 
-In Moderno World, in addition to the control zone, where they will begin, they will also have to destroy the laboratory. This should be particularly difficult for the three Goblins, as it means destroying their life's work.
+In Modern World, in addition to the control zone, where they will begin, they will also have to destroy the laboratory. This should be particularly difficult for the three Goblins, as it means destroying their life's work.
 
 This section must be the last one to be destroyed, as it needs to remain functional for them to travel between different parts of the park and reach the spaceport via the shuttle train. Furthermore, they will have to destroy it remotely; if they destroy it before reaching the spaceport, the shuttle train will come to a halt in the middle of the track.
 
