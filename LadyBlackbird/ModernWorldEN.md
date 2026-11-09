@@ -131,11 +131,11 @@ The final step would be to destroy each control center to ensure that the Empire
 
 \sp
 
-* En North World, hay actividad volcánica, de ahí sus famosas termas.
-* El de South World tiene cerca un gasoducto de gas extraído del planetoide.
-* West World es desde donde se lanza la pirotécnica del parque, así que hay posibilidad de usarla.
-* El centro de East World está debajo del lago central. Podrían inundarlo.
-* Modern World no tiene a priori ningún punto débil.
+* In North World, there is volcanic activity, hence its famous hot springs.
+* South World has a gas pipeline nearby that carries gas extracted from the planetoid.
+* West World is where the park's fireworks are launched from, so there's a possibility of using it.
+* The control center of East World is located beneath the central lake. It could be flooded.
+* Modern World doesn't appear to have any weaknesses.
 
 En Moderno World, además de la zona de control, donde empezarán, tendrán que destruir su laboratorio, eso debería ser especialmente duro para los 3 Goblins, ya que es destruir el trabajo de toda una vida.
 
