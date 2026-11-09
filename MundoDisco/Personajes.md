@@ -4,11 +4,13 @@ Toda buena campaña tiene que tener unas buenas PNJ. Unas némesis o unas aliada
 
 Desafortunadamente, la encargada de seleccionar los PNJ estaba borracha el día del casting en que se buscaron personajes para esta campaña y, bueno, digamos que se hizo lo que pudo y realmente sin mucho interés.
 
-En serio a quién se le ocurriría  convertir a un estadista en el malo de una campaña. Es que no es ni un «estadista guion vampiro u hombre-lobo». Es como si en Raveloft Lord Stradh fuera simplemente un vendedor de seguro muy cansino con fotofobia y alergia al ajo.
+En serio, a quién se le ocurriría convertir a un estadista en el malo de una campaña. Es que no es ni un «estadista guion vampiro» u «estadista guion hombre-lobo».
+
+Es como si en Raveloft Lord Stradh fuera simplemente un vendedor de seguro muy cansino con fotofobia y alergia al ajo.
 
 Y el mayor aliado de tus jugadoras es un pobre mago germofobo al que le gustan los insectos, en vez de una especie de semidiós mágico que nunca llega tarde pronto o tarde, solo cuando le da la gana.
 
-> Esta es otra de la razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundo Disco, porque los suyos propios son una mierda.
+> Esta es otra de la razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundo Disco, porque los suyos propios son una basura escrita por un autor con la inteligencia de un troll en pleno verano.
 
 &nbsp;
 
