@@ -272,3 +272,35 @@ blockquote p:last-child {
     right: auto;
     left: 0px;
 }
+
+/* Índice */
+
+.likeH1, .likeH2, .likeH3 {
+    display: block;
+    cursor: pointer;
+    margin: 0 0 3px 0;
+    text-decoration: none;
+    font-size: 1.1em;
+    max-height: 24px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.likeH1 span, .likeH2 span, .likeH3 span {
+    /*display: none;*/
+    float: right;
+    margin-right: 5px;
+}
+
+.likeH2 {
+    padding: 0 0 0 15px;
+}
+
+.likeH3 {
+    padding: 0 0 0 30px;
+}
+
+/*.likeH4 {
+    padding: 0 0 0 45px;
+}*/

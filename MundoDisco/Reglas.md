@@ -66,6 +66,8 @@ En juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te o
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
+Los almacenes pueden comunicarse entre ellos mediante la red de clacs, un sistema de comunicación basado XXX, el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
+
 \sp
 
 \sinc
