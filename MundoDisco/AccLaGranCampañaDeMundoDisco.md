@@ -54,56 +54,6 @@ XXX
 
 
 
-# Reglas
-
-
-
-
-
-
-
-Esta campaña tiene una serie de reglas especiales que si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añade algunas nuevas para darle el sabor específico que se busca en esta campaña.
-
-Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar. 
-
-
-
-
-
-
-
-## La Esta-Listica
-
-
-
-La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
-
-Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
-
-Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
-
-El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamándola «pseudo-magia» o «ciencia» a secas.
-
-´´´
-¿Qué es eso de porcentajes? Eso no son números mágicos de verdad, como el donce, son patrañas científicas de las modernas.
-´´´
-
-Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
-
-### Reglas de la Esta-Listica
-
-En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
-
-[ESPERAR A LAS REGLAS TRADUCIDAS]
-
-La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de surte.
-
-
-
-Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan tienes unas probabilidades de uno entre un millón en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una Esta-Lista, ni ella puede aprovecharse de ella, ni otros puede de aprovecharse de esta regla en perjuicio del esta-lista.
-
-
-
 ## El plan de Wilbuck
 
 
@@ -122,13 +72,63 @@ Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical,
 
 Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia porcentual y manipular a las masas para que derroquen al Patricio y le harán a él el nuevo dirigente de la ciudad.
 
-### Reglas de los almacenes de datos
 
-En juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y pueda acceder a ellos a tiempo. 
+
+
+
+# Reglas
+
+
+
+
+
+
+
+Esta campaña tiene una serie de reglas especiales que si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añade algunas nuevas para darle el sabor específico que se busca en esta campaña.
+
+Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar. 
+
+
+
+
+
+## La Esta-Listica
+
+
+
+La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
+
+Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+
+Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
+
+El departamento de numerología de la Universidad Invisible no lo considera una forma de magia y lo desprecian llamándola «pseudo-magia» o «ciencia» a secas.
+
+```
+¿Qué es eso de porcentajes? Eso no son números mágicos de verdad, como el donce, son patrañas científicas de las modernas.
+```
+
+Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
+
+### Reglas de la Esta-Listica
+
+En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
-Los almacenes pueden comunicarse entre ellos mediante la red de clacs, un sistema de comunicación basado XXX, el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
+
+
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de surte.
+
+Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan tienes unas probabilidades de uno entre un millón en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una Esta-Lista, ni ella puede aprovecharse de ella, ni otros puede de aprovecharse de esta regla en perjuicio del esta-lista.
+
+### Reglas de los almacenes de datos
+
+Los almacenes de datos son el arma suprema e Wilbuck y en juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y pueda acceder a ellos a tiempo. 
+
+[ESPERAR A LAS REGLAS TRADUCIDAS]
+
+Los almacenes pueden comunicarse entre ellos mediante la red de clacs (un sistema de comunicación que manda mensajes mediante destellos de luces desde altas torres), el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
 
 
 
@@ -205,11 +205,19 @@ Para empezar, todas tus jugadoras forman parte del exclusivo gremio de presidiar
 
 ¿Y qué ventajas tienes tiene esto? Pues no pocas. Lo primero un tatuaje presidiario como dios manda, puedes elegir un ancla, un amor de madre, una telaraña, un señor con un sombrero de ala muy ancha y bigote, un unicornio cuqui con alitas arcoíris, etc. Ponles algo ridículo y diles que viene en los estatutos del gremio.
 
-XXX
+Contar historias de la cárcel para ganar discusiones es otra ventaja. Imagina que queda un último trozo de empanada de anguila, puedes quedarte ese último trozo contando la anécdota de cómo le sacaste los ojos a un troll que intentó quedarse con tu trozo de empanada.
 
-Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias.
+Es importante que sepas que las anécdotas policiales y militares ganan a las historias de prisión, tienen más caché. Eso explica que las pelis de polis y de guerra sacan más dinero en taquilla que las de fugas.
 
-XXX
+Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias. Esta consecuencia le espera acechando en los oscuros callejones (acechar a plena luz en una calle amplia es muy complicado) para atacarle en el peor momento o en el que haga más risas entre el resto de jugadoras.
+
+Igual le buscan para matarle las víctimas de su estafa trapezoidal. Todo iba de maravilla hasta que alguien miro en un diccionario (ya es mala suerte timar a una con gusto por la lectura) y se dio cuenta de que no era una estafa trapezoidal sino piramidal, pero escalonada.
+
+Quizás le busca el gremio de ladronas por meterse en sus asuntos. Mientras seas miembro del gremio de presidiarias y estés detrás de unos grandes muros, no pueden tocarte, pero si lo abandonas, vuelves a ser un objetivo eliminable.
+
+Incluso, puede que entrar en la cárcel fuera la forma más inteligente que se le ocurrió de evitar un matrimonio concertado.
+
+
 
 
 
@@ -222,8 +230,6 @@ Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el fam
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
-
-
 
 
 

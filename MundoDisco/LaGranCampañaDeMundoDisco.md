@@ -54,6 +54,28 @@ XXX
 
 \sinc
 
+## El plan de Wilbuck
+
+\conc
+
+Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorporkianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
+ 
+Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
+
+Parece una tontería, pero sabiendo el consumo de remolacha de los magos, sabes si están estreñidos o no y eso supone saber si están nerviosos y, por tanto, si va a pasar algo gordo o no.
+ 
+Pero el dato definitivo que necesita Wilbuck es el censo municipal, que le permitirá predecir a las masas.
+
+Para convencer a tus jugadoras de que le ayuden, les venderá que el censo es el primer paso de la democracia unipersonal de Lord Vetinari a una democracia multipersonal.
+
+Tus jugadoras harán lo que sea para ayudarle en ese proyecto político radical, convencidas de que van a ayudar al pueblo oprimido de Ankh-Morpork.
+
+Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia porcentual y manipular a las masas para que derroquen al Patricio y le harán a él el nuevo dirigente de la ciudad.
+
+\sp
+
+\sinc
+
 # Reglas
 
 \conc

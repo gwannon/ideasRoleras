@@ -19,23 +19,3 @@ La única manera de derrotarle es acabar con su fuente de poder, los edificios d
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
 XXX
-
----
-
-\sinc
-
-## Creación de personajes
-
-\conc
-
-Si hemos retocado gran cantidad de elementos de juego principal, qué te hacía pensar que no íbamos a meter mano en la creación de personajes.
-
-Para empezar, todas tus jugadoras forman parte del exclusivo gremio de presidiarias de Ankh-Morpork, así que en el apartado de «Organización» deberán poner «Excelso gremio de presidiarias de Ankh-Morpork».
-
-¿Y qué ventajas tienes tiene esto? Pues no pocas. Lo primero un tatuaje presidiario como dios manda, puedes elegir un ancla, un amor de madre, una telaraña, un señor con un sombrero de ala muy ancha y bigote, un unicornio cuqui con alitas arcoíris, etc. Ponles algo ridículo y diles que viene en los estatutos del gremio.
-
-XXX
-
-Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias.
-
-XXX

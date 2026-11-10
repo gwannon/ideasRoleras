@@ -239,7 +239,7 @@ p:has(img) {
 
 blockquote {
   background: transparent url(../images/filete.png) top left no-repeat;
-  background-size: 2ch auto;
+  background-size: 20px auto;
   padding: 15px 10px 10px 40px;
   margin: 0 0 10px 0;
   font-family: "Rosarivo", cursive;
@@ -304,3 +304,20 @@ blockquote p:last-child {
 /*.likeH4 {
     padding: 0 0 0 45px;
 }*/
+
+pre {
+  white-space: pre-wrap;
+}
+
+pre code {
+  background: transparent url(../images/filete2.png) top center no-repeat;
+  background-size: 100% auto;
+  color: var(--color-bic-red);
+  font-size: 1.8em;
+  line-height: 120%;
+  display: block;
+  padding: calc(var(--padding) / 2);
+  position: relative;
+  text-align: center;
+  font-family: "Lavishly Yours", cursive;
+}
