@@ -94,8 +94,6 @@ Por último, un practicante de la Esta-Listica puede demostrar que una situació
 
 
 
-
-
 ## El plan de Wilbuck
 
 
@@ -185,6 +183,22 @@ De hecho, adquieres el rasgo «amenazado por _la campaña_». En este caso cuand
 
 
 
+## Creación de personajes
+
+
+
+Si hemos retocado gran cantidad de elementos de juego principal, qué te hacía pensar que íbamos a tocar la creación de personajes.
+
+Para empezar, todas tus jugadoras forman parte del exclusivo gremio de presidiarias de Ankh-Morpork, así que en el apartado de «Organización» deberán poner «Excelso gremio de presidiarias de Ankh-Morpork».
+
+¿Y qué ventajas tienes tiene esto? Pues no pocas. XXX
+
+Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias. XXX
+
+XXX
+
+
+
 ## Cameos
 
 
@@ -194,6 +208,8 @@ Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el fam
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
+
+
 
 
 
@@ -301,11 +317,21 @@ XXX
 
 
 
-XXX
+Toda buena campaña tiene que tener unas buenas PNJ. Unas némesis o unas aliadas carismáticas, seductoras e interesantes que den vida a las historias que se quieren contar.
 
 
 
 
+
+Desafortunadamente, la encargada de seleccionar los PNJ estaba borracha el día del casting en que se buscaron personajes para esta campaña y, bueno, digamos que se hizo lo que pudo y realmente sin mucho interés.
+
+En serio, a quién se le ocurriría convertir a un estadista en el malo de una campaña. Es que no es ni un «estadista guion vampiro» u «estadista guion hombre-lobo».
+
+Es como si en Raveloft Lord Stradh fuera simplemente un vendedor de seguro muy cansino con fotofobia y alergia al ajo.
+
+Y el mayor aliado de tus jugadoras es un pobre mago germófobo al que le gustan los insectos, en vez de una especie de semidiós mágico que nunca llega pronto o tarde, solo cuando le da la gana.
+
+> Esta es otra de las razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundo Disco, porque los suyos propios son una basura escrita por un autor con la inteligencia de un troll en una sauna en pleno verano.
 
 
 
@@ -320,6 +346,8 @@ XXX
 Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominado Esta-Listica. La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
 
 XXX
+
+
 
 
 
@@ -377,7 +405,7 @@ Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hac
 
 ## Uso de IA
 
-Pues, esto es muy sencillo, después de leerte toda la campaña y ver de qué trata ¿crees que he usado en algún sitio IA Generativa?
+Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué trata ¿crees que he usado en algún sitio IA Generativa?
 
 [![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
 

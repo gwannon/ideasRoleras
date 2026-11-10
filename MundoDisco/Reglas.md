@@ -40,8 +40,6 @@ La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe 
 
 Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan tienes unas probabilidades de uno entre un millón en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una Esta-Lista, ni ella puede aprovecharse de ella, ni otros puede de aprovecharse de esta regla en perjuicio del esta-lista.
 
-\sp
-
 \sinc
 
 ## El plan de Wilbuck
@@ -133,6 +131,22 @@ De hecho, adquieres el rasgo «amenazado por _la campaña_». En este caso cuand
 
 \sinc
 
+## Creación de personajes
+
+\conc
+
+Si hemos retocado gran cantidad de elementos de juego principal, qué te hacía pensar que íbamos a tocar la creación de personajes.
+
+Para empezar, todas tus jugadoras forman parte del exclusivo gremio de presidiarias de Ankh-Morpork, así que en el apartado de «Organización» deberán poner «Excelso gremio de presidiarias de Ankh-Morpork».
+
+¿Y qué ventajas tienes tiene esto? Pues no pocas. XXX
+
+Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias. XXX
+
+XXX
+
+\sinc
+
 ## Cameos
 
 \conc
@@ -142,6 +156,8 @@ Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el fam
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
+
+\sp
 
 \sinc
 

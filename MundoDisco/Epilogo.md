@@ -30,6 +30,6 @@ Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hac
 
 ## Uso de IA
 
-Pues, esto es muy sencillo, después de leerte toda la campaña y ver de qué trata ¿crees que he usado en algún sitio IA Generativa?
+Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué trata ¿crees que he usado en algún sitio IA Generativa?
 
 [![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
