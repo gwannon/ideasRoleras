@@ -118,7 +118,7 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 \sp
 
-XXX
+|Capitulo3.md|
 
 \sp
 
@@ -130,7 +130,7 @@ XXX
 
 \sp
 
-XXX
+|Capitulo4.md|
 
 \sp
 
@@ -142,7 +142,7 @@ XXX
 
 \sp
 
-XXX
+|Capitulo5.md|
 
 \sp
 
@@ -154,7 +154,7 @@ XXX
 
 \sp
 
-XXX
+|Capitulo6.md|
 
 \sp
 

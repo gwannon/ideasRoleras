@@ -335,6 +335,14 @@ XXX
 
 
 
+
+
+XXX
+
+
+
+
+
 XXX
 
 
@@ -342,6 +350,14 @@ XXX
 
 
 # Capítulo 4. **La caida del Patricio**
+
+
+
+
+
+
+
+XXX
 
 
 
@@ -359,6 +375,14 @@ XXX
 
 
 
+
+
+XXX
+
+
+
+
+
 XXX
 
 
@@ -366,6 +390,14 @@ XXX
 
 
 # Capítulo 6. **El regreso del Patricio**
+
+
+
+
+
+
+
+XXX
 
 
 

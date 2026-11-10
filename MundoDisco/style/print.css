@@ -10,7 +10,7 @@ body {
   /*background: white url(./images/bg.png) repeat center center;*/
   margin: 0;
   padding: 0;
-  font-family: "Gilda Display", serif;
+  font-family: "IM Fell English", serif;
   color: var(--color-primary);
   font-size: 18px;
 }
@@ -134,7 +134,7 @@ body > *:first-child,
 
 .saltopagina:after {
   --size: 30px;
-  font-family: "Rosarivo", cursive;
+  font-family: "IM Fell English SC", serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -156,7 +156,8 @@ body > *:first-child,
 
 h1 {
   box-sizing: border-box;
-  font-family: "Rosarivo", cursive;
+  font-family: "IM Fell English SC", serif;
+  font-weight: 400;
   font-style: italic;
   font-size: 2.8em;
   text-align: center;
@@ -171,26 +172,29 @@ h1 {
   flex-direction: column;
 }
 
-h1 b {
+h1 strong {
   display: block;
+  font-weight: 400;
 }
 
 h2 {
-  font-family: "Rosarivo", cursive;
+  font-family: "IM Fell English SC", serif;
   font-size: 2em;
   color: var(--color-tertiaire);
   border-top: 1px solid var(--color-tertiaire);
   border-bottom: 1px solid var(--color-tertiaire);
   padding: 16px 0 10px !important;
+  font-weight: 400;
 }
 
 h3 {
-  font-family: "Rosarivo", cursive;
+  font-family: "IM Fell English SC", serif;
   font-size: 1.5em;
   margin: 0;
   padding: 10px 0 5px;
   font-style: italic;
-  color: var(--color-quaternary)
+  color: var(--color-quaternary);
+  font-weight: 400;
 }
 
 p {
@@ -213,7 +217,7 @@ table th {
 }
 
 table thead th {
-  font-family: "Rosarivo", cursive;
+  font-family: "IM Fell English SC", serif;
   font-style: italic;
 }
 
@@ -242,7 +246,7 @@ blockquote {
   background-size: 20px auto;
   padding: 15px 10px 10px 40px;
   margin: 0 0 10px 0;
-  font-family: "Rosarivo", cursive;
+  font-family: "IM Fell English SC", serif;
   line-height: 120%;
   font-style: italic;
 }
@@ -262,7 +266,7 @@ blockquote p:last-child {
     display: block;
     padding: 8px;
     margin: 0px;
-    font-family: "Rosarivo", cursive;
+    font-family: "IM Fell English SC", serif;
     font-size: 24px;
     text-decoration: none;
     z-index: 100;
@@ -311,7 +315,7 @@ pre {
 
 pre code {
   background: transparent url(../images/filete2.png) top center no-repeat;
-  background-size: 100% auto;
+  background-size: auto calc(var(--padding) / 2.3);
   color: var(--color-bic-red);
   font-size: 1.8em;
   line-height: 120%;
@@ -320,4 +324,5 @@ pre code {
   position: relative;
   text-align: center;
   font-family: "Lavishly Yours", cursive;
+  color: var(--color-quaternary);
 }
