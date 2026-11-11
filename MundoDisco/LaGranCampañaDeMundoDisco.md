@@ -1,6 +1,6 @@
 \sinc
 
-# La gran campaña **de Mundo Disco**
+# La gran campaña **de Mundodisco**
 
 \conc
 
