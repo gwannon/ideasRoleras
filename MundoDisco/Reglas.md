@@ -34,9 +34,9 @@ En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres 
 
 \sp
 
-La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de surte.
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de suerte.
 
-Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan tienes unas probabilidades de uno entre un millón en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una Esta-Lista, ni ella puede aprovecharse de ella, ni otros puede de aprovecharse de esta regla en perjuicio del esta-lista.
+Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
 
 ### Reglas de los almacenes de datos
 
