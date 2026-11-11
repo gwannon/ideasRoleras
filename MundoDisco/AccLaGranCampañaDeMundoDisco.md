@@ -1,6 +1,6 @@
 
 
-# La gran campaña **de Mundo Disco**
+# La gran campaña **de Mundodisco**
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-«La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+«La gran campaña de Mundodisco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
 ---
 
@@ -129,7 +129,7 @@ La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe 
 
 Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
 
-> Nota importante, las practicantes de la Esta-Listica no son magos y por tanto la MUERTE no está obligada a ir a buscar su alma cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
+> Nota importante, las practicantes de la Esta-Listica no son magos y por tanto la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
@@ -236,7 +236,7 @@ Incluso, puede que entrar en la cárcel fuera la forma más inteligente que se l
 
 
 
-Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundo Disco son altas.
+Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundodisco son altas.
 
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
@@ -442,7 +442,7 @@ Es como si en Raveloft Lord Stradh fuera simplemente un vendedor de seguro muy c
 
 Y el mayor aliado de tus jugadoras es un pobre mago germófobo al que le gustan los insectos, en vez de una especie de semidiós mágico que nunca llega pronto o tarde, solo cuando le da la gana.
 
-> Esta es otra de las razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundo Disco, porque los suyos propios son una basura escrita por un autor con la inteligencia de un troll en una sauna en pleno verano.
+> Esta es otra de las razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundodisco, porque los suyos propios son una basura escrita por un autor con la inteligencia de un troll en una sauna en pleno verano.
 
 
 

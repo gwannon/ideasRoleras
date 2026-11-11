@@ -14,7 +14,7 @@ Es como si en Raveloft Lord Stradh fuera simplemente un vendedor de seguro muy c
 
 Y el mayor aliado de tus jugadoras es un pobre mago germófobo al que le gustan los insectos, en vez de una especie de semidiós mágico que nunca llega pronto o tarde, solo cuando le da la gana.
 
-> Esta es otra de las razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundo Disco, porque los suyos propios son una basura escrita por un autor con la inteligencia de un troll en una sauna en pleno verano.
+> Esta es otra de las razones por las que _la campaña_ mete tantos cameos de personajes icónicos de los libros de Mundodisco, porque los suyos propios son una basura escrita por un autor con la inteligencia de un troll en una sauna en pleno verano.
 
 \sinc
 

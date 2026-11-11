@@ -150,7 +150,7 @@ Incluso, puede que entrar en la cárcel fuera la forma más inteligente que se l
 
 \conc
 
-Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundo Disco son altas.
+Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundodisco son altas.
 
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
