@@ -19,3 +19,29 @@ La única manera de derrotarle es acabar con su fuente de poder, los edificios d
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
 XXX
+
+---
+
+## Wilbuck Moreless
+
+**Encargado de estadística de Ankh-Morpork**
+
+\conc
+
+XXX
+
+Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominado Esta-Listica. La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
+
+XXX
+
+\sinc
+
+* **Organización:** XXX
+* **Trasfondo:** XXX
+* **Lugar y función en el grupo:** 
+  * XXX
+  * XXX
+* **Corazón:** XXX
+* **Rarezas:** 
+  * XXX
+  * XXX
