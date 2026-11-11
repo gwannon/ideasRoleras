@@ -30,6 +30,16 @@ Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominad
 
 XXX
 
+* **Organización:** XXX
+* **Transfondo:** XXX
+* **Lugar y función en el grupo:** 
+  * XXX
+  * XXX
+* **Corazón:** XXX
+* **Rarezas:** 
+  * XXX
+  * XXX
+
 \sp
 
 \sinc
@@ -45,3 +55,13 @@ XXX
 Spandau es bastante germófobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
 
 XXX
+
+* **Organización:** Magos
+* **Transfondo:** XXX
+* **Lugar y función en el grupo:** 
+  * XXX
+  * XXX
+* **Corazón:** XXX
+* **Rarezas:** 
+  * XXX
+  * XXX
