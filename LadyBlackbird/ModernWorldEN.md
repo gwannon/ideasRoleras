@@ -143,9 +143,9 @@ In Modern World, in addition to the control zone, where they will begin, they wi
 
 This section must be the last one to be destroyed, as it needs to remain functional for them to travel between different parts of the park and reach the spaceport via the shuttle train. Furthermore, they will have to destroy it remotely; if they destroy it before reaching the spaceport, the shuttle train will come to a halt in the middle of the track.
 
-La misión de destrucción tiene un tiempo máximo. Crea un reloj con 9 secciones, cada vez que ejecuten un plan de sabotaje fallido o exitoso rellena una sección. Cuando se rellenen todos, el Devastador aterrizará y las tropas de asalto se harán con el control de lo que quede en pie del parque.
+The destruction mission has a time limit. Create a clock with 9 sections; fill in one section each time a sabotage plan, whether successful or failed, is carried out. Once all sections are filled, the Devastator will land, and the assault troops will take control of whatever remains of the park.
 
-Separarse puede ser una opción interesante, pero uno de los goblins deberá trabajar con August que es bastante inútil en temas de ciencia. 
+Split the group might be an interesting option, but one of the goblins will have to work with August, who is quite useless with situations whete science is important.
 
 El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrá a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
 
