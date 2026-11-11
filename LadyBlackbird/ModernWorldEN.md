@@ -147,15 +147,11 @@ The destruction mission has a time limit. Create a clock with 9 sections; fill i
 
 Split the group might be an interesting option, but one of the goblins will have to work with August, who is quite useless with situations whete science is important.
 
-El último paso es llegar al espacio puerto y huir, porque si son atrasados, no habrá servido de nada todos sus esfuerzos. El Imperio pondrá a trabajar a sus mejores interrogadores/torturadores para sacar sus secretos tecnológicos a tus jugadores.
+The final step is to reach the spaceport and escape, because, if they are too late, all their efforts will have been for nothing. The Empire will set its best interrogators, or rather, torturers, to work, trying to extract your players' technological secrets.
 
-La huida exige una sección del reloj, así que el tiempo es muy limitado. Para empezar necesitan 5 secciones del reloj para destruir todo el parque, más la de la huida. Eso los deja solo 3 posibles fallos.
+The escape requires one segment of the clock, so time is very limited. To begin with, they need 5 segments of the clock to destroy the entire park, plus the one for the escape. That leaves them with only 3 possible failures.
 
-> Cómo podrás ver, destruir todas las zonas y escapar antes de que las tropas de asalto del Devastador tomen el parque es prácticamente imposible. Alguien deberá sacrificarse y quedarse o deberán abandonarle por el bien del grupo. Es algo que al principio no es palpable, pero que poco a poco se irá haciendo muy real según se vayan rellenando las secciones del reloj.
-
-\sinc
-
-&nbsp;
+> As you will see, destroying all the zones and escaping before the Devastator’s assault troops take over the park is practically impossible. Someone will have to sacrifice himself and stay behind—or the others will have to abandon them for the good of the group. It’s not immediately apparent, but it will gradually become very real as the sections of the clock are filled in.
 
 [![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
