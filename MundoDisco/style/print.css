@@ -311,6 +311,7 @@ blockquote p:last-child {
 
 pre {
   white-space: pre-wrap;
+  margin: 0px;
 }
 
 pre code {
@@ -320,9 +321,22 @@ pre code {
   font-size: 1.8em;
   line-height: 120%;
   display: block;
-  padding: calc(var(--padding) / 2);
+  padding: calc(var(--padding) / 2) calc(var(--padding) / 2) 0 calc(var(--padding) / 2);
   position: relative;
   text-align: center;
   font-family: "Lavishly Yours", cursive;
   color: var(--color-quaternary);
+}
+
+
+hr {
+  margin-bottom: 20px;
+  border-color: var(--color-tertiaire);
+}
+
+pre + p:has(strong) {
+  text-align: center;
+  font-style: italic;
+  padding-top: 5px;
+  margin-bottom: calc(var(--padding) / 2);
 }

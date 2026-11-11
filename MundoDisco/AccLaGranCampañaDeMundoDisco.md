@@ -20,9 +20,11 @@
 
 «La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
+---
 
 
 
+[![Escudo de armas de Ankh-Morpork por Steve James](./images/ankh-morpork-escudo-armas.png "Escudo de armas de Ankh-Morpork por Steve James")](https://www.flickr.com/photos/steeljam/6478733475/ "Escudo de armas de Ankh-Morpork por Steve James")
 
 ## Sinopsis
 
@@ -44,13 +46,13 @@ XXX
 
 Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
 
+
+
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
 XXX
-
-
 
 
 
@@ -84,11 +86,15 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 
 
-Esta campaña tiene una serie de reglas especiales que si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añade algunas nuevas para darle el sabor específico que se busca en esta campaña.
+Esta campaña tiene una serie de reglas especiales que, si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añaden algunas nuevas para darle el sabor específico que se busca en esta campaña.
 
-Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar. 
+---
 
 
+
+Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar.
+
+Por resumir, aquí tienes reglas para llevar practicantes de la EstaĹistica, como funciona _la campaña_ con sus cameos y su tono «woke», además de reglas especiales para la creación de personajes.
 
 
 
@@ -98,7 +104,9 @@ Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pe
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro.
+
+El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
@@ -107,8 +115,11 @@ El departamento de numerología de la Universidad Invisible no lo considera una 
 ```
 ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad, como el donce, son patrañas científicas de las modernas.
 ```
+**Irvín Visualblock, numerólogo**
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
+
+
 
 ### Reglas de la Esta-Listica
 
@@ -116,11 +127,9 @@ En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres 
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de suerte.
 
-
-La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de surte.
-
-Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan tienes unas probabilidades de uno entre un millón en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una Esta-Lista, ni ella puede aprovecharse de ella, ni otros puede de aprovecharse de esta regla en perjuicio del esta-lista.
+Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
 
 ### Reglas de los almacenes de datos
 
@@ -257,7 +266,7 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 XXX
 
-
+---
 
 
 
@@ -307,7 +316,7 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 
 XXX
 
-
+---
 
 
 
@@ -339,7 +348,7 @@ XXX
 
 XXX
 
-
+---
 
 
 
@@ -359,7 +368,7 @@ XXX
 
 XXX
 
-
+---
 
 
 
@@ -379,7 +388,7 @@ XXX
 
 XXX
 
-
+---
 
 
 
@@ -399,7 +408,7 @@ XXX
 
 XXX
 
-
+---
 
 
 
@@ -419,7 +428,7 @@ XXX
 
 Toda buena campaña tiene que tener unas buenas PNJ. Unas némesis o unas aliadas carismáticas, seductoras e interesantes que den vida a las historias que se quieren contar.
 
-
+---
 
 
 
@@ -449,19 +458,51 @@ XXX
 
 
 
+* **Organización:** XXX
+* **Trasfondo:** XXX
+* **Lugar y función en el grupo:** 
+  * XXX
+  * XXX
+* **Corazón:** XXX
+* **Rarezas:** 
+  * XXX
+  * XXX
+
+
+
+
+
 
 
 ## Spandau Ville
 
-**Joven hechicero genial**
+**Joven hechicero amante de los insectos**
 
 
 
-XXX
+Spandau Ville es un joven mago que solo lleva unos pocos años en la Universidad Invisible.
 
-Spandau es bastante germófobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
+En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente se apuntó como cuidador.
 
-XXX
+Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer tu trabajo de mantenimiento.
+
+Spandau es bastante germófobo y un tanto hipocondríaco. Lo cual es curioso para un amante de los insectos. De hecho, sus compañeros de cátedra se aprovechan a veces de su germofobia para jugarle malas pasadas.
+
+Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tiene sus partes buenas. No come ni bebe nada que no haya cocinado (política muy buena conociendo a los vendedores ambulantes de comida de la ciudad), no toca cosas de otros, ni se mete en sitios que no conoce, lo cual evita que se meta en muchos problemas. Además sabe mucho de primeros auxilios y de enfermedades raras que según él ha sufrido todas o eso dice.
+
+
+
+* **Organización:** Magos
+* **Trasfondo:** Joven mago encargado del mantenimiento de HEX, el superordenador que funciona con hormigas
+* **Lugar y función en el grupo:** 
+  * XXX
+  * XXX
+* **Corazón:** Amante de los insectos
+* **Rarezas:** 
+  * Germófobo
+  * Hipocondriaco
+
+
 
 
 
@@ -500,6 +541,7 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 
 * [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
+* [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 

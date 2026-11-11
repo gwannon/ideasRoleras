@@ -20,9 +20,11 @@
 
 «La gran campaña de Mundo Disco», que no es tan grande como parece indicar su título, pero sí muy narcisista, es una ~~aventura larga~~ campaña NO OFICIAL para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-&nbsp;
+---
 
 \conc
+
+[![Escudo de armas de Ankh-Morpork por Steve James](./images/ankh-morpork-escudo-armas.png "Escudo de armas de Ankh-Morpork por Steve James")](https://www.flickr.com/photos/steeljam/6478733475/ "Escudo de armas de Ankh-Morpork por Steve James")
 
 ## Sinopsis
 
@@ -44,13 +46,13 @@ XXX
 
 Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
 
+\sp
+
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
 XXX
-
-\sp
 
 \sinc
 

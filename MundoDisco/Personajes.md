@@ -2,7 +2,7 @@
 
 Toda buena campaña tiene que tener unas buenas PNJ. Unas némesis o unas aliadas carismáticas, seductoras e interesantes que den vida a las historias que se quieren contar.
 
-&nbsp;
+---
 
 \conc
 
@@ -30,8 +30,10 @@ Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominad
 
 XXX
 
+\sinc
+
 * **Organización:** XXX
-* **Transfondo:** XXX
+* **Trasfondo:** XXX
 * **Lugar y función en el grupo:** 
   * XXX
   * XXX
@@ -39,6 +41,8 @@ XXX
 * **Rarezas:** 
   * XXX
   * XXX
+
+\conc
 
 \sp
 
@@ -46,22 +50,30 @@ XXX
 
 ## Spandau Ville
 
-**Joven hechicero genial**
+**Joven hechicero amante de los insectos**
 
 \conc
 
-XXX
+Spandau Ville es un joven mago que solo lleva unos pocos años en la Universidad Invisible.
 
-Spandau es bastante germófobo y un tanto hipocondríaco y sus compañeros de cátedra se aprovechan a veces de ello.
+En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente se apuntó como cuidador.
 
-XXX
+Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer tu trabajo de mantenimiento.
+
+Spandau es bastante germófobo y un tanto hipocondríaco. Lo cual es curioso para un amante de los insectos. De hecho, sus compañeros de cátedra se aprovechan a veces de su germofobia para jugarle malas pasadas.
+
+Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tiene sus partes buenas. No come ni bebe nada que no haya cocinado (política muy buena conociendo a los vendedores ambulantes de comida de la ciudad), no toca cosas de otros, ni se mete en sitios que no conoce, lo cual evita que se meta en muchos problemas. Además sabe mucho de primeros auxilios y de enfermedades raras que según él ha sufrido todas o eso dice.
+
+\sinc
 
 * **Organización:** Magos
-* **Transfondo:** XXX
+* **Trasfondo:** Joven mago encargado del mantenimiento de HEX, el superordenador que funciona con hormigas
 * **Lugar y función en el grupo:** 
   * XXX
   * XXX
-* **Corazón:** XXX
+* **Corazón:** Amante de los insectos
 * **Rarezas:** 
-  * XXX
-  * XXX
+  * Germófobo
+  * Hipocondriaco
+
+\conc

@@ -1,10 +1,14 @@
 \sinc
 
-Esta campaña tiene una serie de reglas especiales que si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añade algunas nuevas para darle el sabor específico que se busca en esta campaña.
+Esta campaña tiene una serie de reglas especiales que, si bien no modifican las reglas generales de «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork», añaden algunas nuevas para darle el sabor específico que se busca en esta campaña.
 
-Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar. 
+---
 
 \conc
+
+Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar.
+
+Por resumir, aquí tienes reglas para llevar practicantes de la EstaĹistica, como funciona _la campaña_ con sus cameos y su tono «woke», además de reglas especiales para la creación de personajes.
 
 \sinc
 
@@ -14,7 +18,9 @@ Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pe
 
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
-Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro. El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
+Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro.
+
+El único problema es que en vez de gastar octarino, esencia, karma, chi o lo que sea que usen otras taumaturgas para hacer hechizos, en la Esta-Listica necesitas datos, recabar grandes cantidades de datos. Sin datos no puedes predecir una mierda.
 
 Y no solo sirve para dar profecías y predicciones, tiene muchas otras aplicaciones. Puedes convertirte en un luchador excepcional si sabes que ataque es más probable que lance tu oponente, o un asesino implacable si sabes cuál es porcentaje de muertes por rayos en función del tamaño y material del paraguas.
 
@@ -23,16 +29,17 @@ El departamento de numerología de la Universidad Invisible no lo considera una 
 ```
 ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad, como el donce, son patrañas científicas de las modernas.
 ```
+**Irvín Visualblock, numerólogo**
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
+
+\sp
 
 ### Reglas de la Esta-Listica
 
 En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
-
-\sp
 
 La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de suerte.
 
