@@ -94,7 +94,7 @@ Esta campaña tiene una serie de reglas especiales que, si bien no modifican las
 
 Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar.
 
-Por resumir, aquí tienes reglas para llevar practicantes de la EstaĹistica, como funciona _la campaña_ con sus cameos y su tono «woke», además de reglas especiales para la creación de personajes.
+Por resumir, aquí tienes reglas para llevar practicantes de la Esta-Ĺistica, como funciona _la campaña_ con sus cameos y su tono «woke», además de reglas especiales para la creación de personajes.
 
 
 
@@ -125,19 +125,21 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS]
-
 La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de suerte.
 
 Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
+
+> Nota importante, las practicantes de la Esta-Listica no son magos y por tanto la MUERTE no está obligada a ir a buscar su alma cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
+
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 ### Reglas de los almacenes de datos
 
 Los almacenes de datos son el arma suprema e Wilbuck y en juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y pueda acceder a ellos a tiempo. 
 
-[ESPERAR A LAS REGLAS TRADUCIDAS]
-
 Los almacenes pueden comunicarse entre ellos mediante la red de clacs (un sistema de comunicación que manda mensajes mediante destellos de luces desde altas torres), el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
+
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 
 
