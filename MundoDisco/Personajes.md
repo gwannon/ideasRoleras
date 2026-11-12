@@ -42,7 +42,7 @@ La Esta-Listica le permite predecir el futuro y conocer las probabilidades de qu
 
 De hecho es algo que ha hecho desde hace años, se centra en algún tipo de apuestas (carreras de galgos, peleas de trolls, asesinatos mensuales en la ciudad) y apuesta hasta sacarse una pequeña fortuna. Lo abandona antes de que los corredores de apuestas se den cuentas de que hace «trampas» y le quieran enseñar algún agujero de la dimensión mazmorra en la que se deshacen de los cadáveres.
 
-Ciertamente, si se descubre que ha hecho trampas a medio Ankh Morpork mucha gente pondrá precio a su cabeza o le esperaría en la puerta de su casa para no tener que pagar el precio por separar su cabeza de su cuerpo. La otra mitad de la ciudad, seguramente, le esperaría en la puerta de su casa para que les enseñara a apostar usando sus técnicas esta-listicas. Al final si se encontrarán las dos mitades acabaría, como pasa siempre en Ankh-Morpork, en vandalismo y pillaje.
+Ciertamente, si se descubre que ha hecho trampas a medio Ankh Morpork mucha gente pondrá precio a su cabeza o le esperará en la puerta de su casa para no tener que pagar el precio por separar su cabeza de su cuerpo. La otra mitad de la ciudad, seguramente, le esperaría en la puerta de su casa para que les enseñara a apostar usando sus técnicas esta-listicas. Al final si se encontrarán las dos mitades acabaría, como pasa siempre en Ankh-Morpork, en vandalismo y pillaje.
 
 XXX
 
