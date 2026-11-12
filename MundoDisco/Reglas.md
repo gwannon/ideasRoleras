@@ -67,15 +67,15 @@ La propia campaña (esta aventura que tienes entre manos) es un ente vivo dentro
 
 > Si te preguntas cómo vas a hacer para hablar en cursiva, es tu problema como directora. Como autora solo le tengo que dar al botón de cursiva del editor de texto, pero tú lo tienes más jodido.
 
-La campaña necesita que sea jugada y contada y hará lo que sea para que tu mesa la termine. La idea principal es que cuando alguien diga que no puede venir a la siguiente partida, la campaña, temiendo que se termine cancelando, se buscará la manera de **darle un momento estelar** a los personajes de esa jugadora.
+La campaña necesita que sea jugada y contada y hará lo que sea para que tu mesa la termine. La idea principal es que cuando alguien diga que no puede venir a la siguiente partida, la campaña, temiendo que se termine cancelando, se buscará la manera de **darle un momento estelar** al personaje de esa jugadora.
 
 Para ello, tal vez, la campaña se disfrace de un troll hiper-musculado que les reta a un pulso y al que, contra toda lógica, le ganes. O puede que aparezca como una bella manceba que le haga ojitos a la jugadora que dijo en el grupo de chat que igual dejaba de venir a las partidas.
 
 > Al final de cada escena habrá una sección con posibles ideas de momentos estelares para que las uses con tus jugadoras.  Recuerda que solo son sugerencias y tú conoces a tu mesa, si crees que algo puede funcionar mejor, tírate a la piscina.  
 
-Si el intento de dejar la partida o de no venir la próxima sesión es durante el juego, la campaña actuará inmediatamente, para enganchar a la jugadora desertora. Si el intento de deserción es entre sesiones, la campaña deberá actuar prometiendo cosas molonas en la próxima sesión en el chat grupal.
+Si el intento de dejar la partida o de no venir la próxima sesión es durante el juego, la campaña actuará inmediatamente, para enganchar a la jugadora desertora. Si el intento de deserción es entre sesiones, la campaña deberá actuar prometiendo cosas molonas en la próxima sesión en el chat grupal y cumpliéndolas en la siguiente sesión.
 
-Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual lo importante es que la jueguen, pero que no abusen.
+Si la campaña descubre que las jugadoras han pillado el truco de decir que no pueden jugar, le dará igual, lo importante es que la jueguen, pero que no abusen.
 
 ### Primera aparición 
 
@@ -83,19 +83,19 @@ Siguiendo las reglas del punto anterior la primera aparición de la campaña ser
 
 Como es algo especial, en su primera aparición irá disfrazada de la MUERTE (túnica negra con capucha, cabeza de calavera, manos esqueléticas y una guadaña). El disfraz es muy bueno, pero se la pilla con cierta facilidad porque habla en cursiva y sus líneas de diálogo van precedidas de un guion.
 
-La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
-
 > Volvemos otra vez a lo de cómo vas a hacer que se distingan las voces de estos personajes, porque en papel es fácil, pero en tu mesa de juego se complica mucho.
 
 \sp
 
-Además, se ha pensado una estratagema sucia y rastrera y enganchar a las partidas a tus jugadoras. Todo se oscurecerá y se quedarán solos tus jugadoras en una gran negrura. De repente se podrán ver sus partes blancas y su guadaña y se presentará como la _muerte_. Estaba por el barrio, haciendo sus cosas. Pueden ver en un bolsillo de su túnica un pergamino enrollado donde se puede leer «Lista de …», que puede ser desde «Lista de las almas que tengo que segar hoy» hasta «Lista de ingredientes para la tarta de queso».
+La campaña cree que con un cameo de un personaje importante de la saga de libros, pueda mantener la atención de las jugadoras.
+
+Además, se ha pensado una estratagema sucia y rastrera para enganchar a las partidas a tus jugadoras. Todo se oscurecerá y se quedarán solas tus jugadoras en una gran negrura. De repente se podrán ver sus partes blancas y su guadaña y se presentará como la _muerte_. Estaba por el barrio, haciendo sus cosas. Pueden ver en un bolsillo de su túnica un pergamino enrollado donde se puede leer «Lista de …», que puede ser desde «Lista de las almas que tengo que segar hoy» hasta «Lista de ingredientes para la tarta de queso».
 
 Bajará la guadaña de forma no ofensiva e irá acercándose a cada una de tus jugadoras y les dirá al odio (solo la jugadora lo sabrá) cómo van a morir de una forma bastante críptica.
 
 _La campaña_ no sabe ciertamente cómo van a morir, pero espera que sus palabras tengan efecto en las jugadoras y que esto afecte a sus acciones.
 
-Si le dice a una jugadora que morirá por las alturas son mortales de necesidad, esta se creerá inmortal mientras no se suba a un sitio alto o puede que se decida a luchar contra un dragón verdadero, esperando morir épicamente tras matarlo en pleno vuelo. 
+Si le dice a una jugadora que las alturas son mortales de necesidad, esta se creerá inmortal mientras no se suba a un sitio alto o puede que se decida a luchar contra un dragón verdadero, esperando morir épicamente tras matarlo en pleno vuelo. 
 
 Veamos algunos ejemplos que puedes usar y su aplicación en partida.
 
@@ -104,7 +104,7 @@ Veamos algunos ejemplos que puedes usar y su aplicación en partida.
 * **El exceso de metales pesados en el organismo puede ser mortal.** Qué hierro puede ser un yunque en la cabeza, una puñalada trapera o una intoxicación por mercurio.
 * **La magia es poderosa, pero también mortalmente peligrosa:** Y si rima es que es verdad, que dicen las abuelas.
 
-De todas formas, tú conoces a tu mesa y sabes que es lo mejor para engancharlos a tu partida, que es lo que _la campaña_ quiere. Puedes dejar usar esta profecía como una etiqueta en situaciones de vida o muerte.
+De todas formas, tú conoces a tu mesa y sabes que es lo mejor para engancharlos a tu partida, que es lo que la _campaña_ quiere. Puedes dejar usar a tus jugadoras esta profecía como un rasgo en situaciones de vida o muerte.
 
 ### Y si nunca fallan o dicen que tienen que dejar la campaña
 
@@ -114,9 +114,9 @@ Compra lotería, porque eres un ser tocado por la providencia. No hay registros 
 
 La campaña conoce a gente, gente muy chunga que puede hacerle cosas muy bestias a lo que más quieres, tu colección de libros de rol. Tú sabrás lo que haces, pero recuerda que toda acción o inacción tiene sus consecuencias.
 
-De hecho, adquieres el rasgo «amenazado por _la campaña_». En este caso cuando tu mesa te diga algo, puedes usar este rasgo y conseguir un d12 cuando tengas que hablar con tus jugadoras.
-
 \sp
+
+De hecho, adquieres el rasgo «amenazado por la _campaña_». En este caso cuando tu mesa te diga algo, puedes usar este rasgo y conseguir un d12 cuando tengas que hablar con tus jugadoras sobre la marcha de la campaña (esta vez sin cursiva).
 
 \sinc
 
