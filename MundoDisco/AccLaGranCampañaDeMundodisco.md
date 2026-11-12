@@ -458,14 +458,17 @@ Y el mayor aliado de tus jugadoras es un pobre mago germófobo al que le gustan 
 * Tecnócrata megalómano
 * XXX
 
+Wilbuck Moreless es un burócrata más de entre tantos que trabajan para la ciudad e Ankh-Morpork. Su principal trabajo es elaborar el censo municipal para unas futuras elecciones democráticas multipersonales (ahora mismo con Lord Vetinari son unipersonales).
+
+Se pasa las horas en sus instalaciones municipales, un gigantesco almacén con miles de archivadores y diablillos volando por todas partes llevando y trayendo documentos. 
+
+Pero lo que nadie sabe es Wilbuck es un taumaturgo poderoso que controla un antiguo saber no-arcano denominado Esta-Listica. 
+
+
+
+La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
+
 XXX
-
-Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominado Esta-Listica. La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
-
-XXX
-
-
-
 
 
 
