@@ -8,6 +8,8 @@ Es increíble que hayas llegado aquí, porque esto es una campaña muy cutre, p�
 
 ## Agradecimientos
 
+Quiero dar las gracias a todas estas fantásticas personas queme han ayudado a escribir este ... no se me ocurre como definirlo ... esto que tienes en tu mano en tu pantalla:
+
 * A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
 * A [Dani Moondark](https://mastorol.es/@danimoondark) por descubrirme a [HEX](https://discworld.fandom.com/wiki/Hex), el superordenador de la Universidad Invisible.
 

@@ -195,6 +195,18 @@ h2 {
   font-weight: 400;
 }
 
+h2 + p:not(:has(strong)):first-letter,
+h2 + .columns > p:first-of-type:not(:has(strong)):first-letter {
+  font-family: "Lavishly Yours", cursive;
+  font-size: 85px;
+  line-height: 75px;
+  display: block;
+  float: left;
+  margin: 0px 0px 0px 0px;
+  letter-spacing: 16px;
+  displaY: block;
+}
+
 h3 {
   font-family: "IM Fell English SC", serif;
   font-size: 1.5em;
