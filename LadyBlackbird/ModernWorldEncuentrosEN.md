@@ -1,14 +1,14 @@
 \sinc
 
-## What could happen?
+## What is happen?
 
-While your players move through the park, carrying out their plan of destruction, all sorts of things can happen. We provide a table of random events for each zone of the park and the spaceport.
+As your players move through the park, carrying out their plan of destruction, all sorts of things can occur. We provide an event table for each zone of the park, plus one final table for the spaceport.
 
 \conc
 
 |1d6|Modern World|
 |---|---|
-|1|**¡Limpio, señor!:** Un maniquí eléctrico se empeña en limpiar vuestras botas y no acepta un no por respuesta. Seguirá al grupo hasta que le dejen limpiar sus botas.|
+|1|**Clean Your Boots, Sir?:** An electric mannequin insists on cleaning your shoies and won’t take no for an answer. It will follow the group until they let it clean their shoes.|
 |2|**Rezagados:** Los últimos rezagados de la evacuación esperan en tropel al último transporte que les llevará al espacio puerto. La gente está muy nerviosa y asustada.|
 |3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
 |4|**El oráculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
