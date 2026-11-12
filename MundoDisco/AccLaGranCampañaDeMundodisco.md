@@ -254,6 +254,12 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
+```
+Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti mismo. Eso es lo que es el pecado.
+```
+**Yaya Ceravieja, bruja y a mucha honra**
+
+
 
 
 
@@ -490,7 +496,7 @@ XXX
 
 Spandau Ville es un joven mago que solo lleva unos pocos años en la Universidad Invisible.
 
-En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente, se apuntó como cuidador.
+De pequeño era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones, inmediatamente, se apuntó como cuidador.
 
 
 

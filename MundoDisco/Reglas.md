@@ -167,3 +167,8 @@ Esta campaña es completamente «woke», así que, entre otras cosas, se ha usad
 Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial.
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
+
+```
+Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti mismo. Eso es lo que es el pecado.
+```
+**Yaya Ceravieja, bruja y a mucha honra**
