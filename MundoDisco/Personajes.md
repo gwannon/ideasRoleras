@@ -20,9 +20,15 @@ Y el mayor aliado de tus jugadoras es un pobre mago germófobo al que le gustan 
 
 ## Wilbuck Moreless
 
-**Encargado de estadística de Ankh-Morpork**
+**Empleado municipal encargado de censo de Ankh-Morpork (EL)**
 
 \conc
+
+[![Cara de personaje de viejo calco por GatlingArt](./images/43.png "Cara de personaje de viejo calco por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de viejo calco por GatlingArt")
+
+* Practicante de la Esta-Listica
+* Tecnócrata megalómano
+* XXX
 
 XXX
 
@@ -30,19 +36,6 @@ Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominad
 
 XXX
 
-\sinc
-
-* **Organización:** XXX
-* **Trasfondo:** XXX
-* **Lugar y función en el grupo:** 
-  * XXX
-  * XXX
-* **Corazón:** XXX
-* **Rarezas:** 
-  * XXX
-  * XXX
-
-\conc
 
 \sp
 
@@ -50,30 +43,23 @@ XXX
 
 ## Spandau Ville
 
-**Joven hechicero amante de los insectos**
+**Joven mago inexperto (EL)**
 
 \conc
+
+[![Cara de personaje de joven con gafas por GatlingArt](./images/30.png "Cara de personaje de joven con gafas por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de joven con gafas por GatlingArt")
+
+* Encargado del mantenimiento de HEX, el superordenador
+* Experto y amante de los insectos
+* Germófobo e hipocondriaco
 
 Spandau Ville es un joven mago que solo lleva unos pocos años en la Universidad Invisible.
 
-En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente se apuntó como cuidador.
+En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente, se apuntó como cuidador.
 
-Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer tu trabajo de mantenimiento.
+Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer su trabajo de mantenimiento.
 
 Spandau es bastante germófobo y un tanto hipocondríaco. Lo cual es curioso para un amante de los insectos. De hecho, sus compañeros de cátedra se aprovechan a veces de su germofobia para jugarle malas pasadas.
 
-Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tiene sus partes buenas. No come ni bebe nada que no haya cocinado (política muy buena conociendo a los vendedores ambulantes de comida de la ciudad), no toca cosas de otros, ni se mete en sitios que no conoce, lo cual evita que se meta en muchos problemas. Además sabe mucho de primeros auxilios y de enfermedades raras que según él ha sufrido todas o eso dice.
+Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tiene sus partes buenas. No come ni bebe nada que no haya cocinado (política muy buena conociendo a los vendedores ambulantes de comida de la ciudad), no toca cosas de otros, ni se mete en sitios que no conoce, lo cual evita que se meta en muchos problemas. Además, sabe mucho de primeros auxilios y de enfermedades raras, ya que, según él, ha sufrido todas.
 
-\sinc
-
-* **Organización:** Magos
-* **Trasfondo:** Joven mago encargado del mantenimiento de HEX, el superordenador que funciona con hormigas
-* **Lugar y función en el grupo:** 
-  * XXX
-  * XXX
-* **Corazón:** Amante de los insectos
-* **Rarezas:** 
-  * Germófobo
-  * Hipocondriaco
-
-\conc

@@ -448,9 +448,15 @@ Y el mayor aliado de tus jugadoras es un pobre mago germófobo al que le gustan 
 
 ## Wilbuck Moreless
 
-**Encargado de estadística de Ankh-Morpork**
+**Empleado municipal encargado de censo de Ankh-Morpork (EL)**
 
 
+
+[![Cara de personaje de viejo calco por GatlingArt](./images/43.png "Cara de personaje de viejo calco por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de viejo calco por GatlingArt")
+
+* Practicante de la Esta-Listica
+* Tecnócrata megalómano
+* XXX
 
 XXX
 
@@ -460,49 +466,30 @@ XXX
 
 
 
-* **Organización:** XXX
-* **Trasfondo:** XXX
-* **Lugar y función en el grupo:** 
-  * XXX
-  * XXX
-* **Corazón:** XXX
-* **Rarezas:** 
-  * XXX
-  * XXX
-
-
-
-
 
 
 
 ## Spandau Ville
 
-**Joven hechicero amante de los insectos**
+**Joven mago inexperto (EL)**
 
 
+
+[![Cara de personaje de joven con gafas por GatlingArt](./images/30.png "Cara de personaje de joven con gafas por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de joven con gafas por GatlingArt")
+
+* Encargado del mantenimiento de HEX, el superordenador
+* Experto y amante de los insectos
+* Germófobo e hipocondriaco
 
 Spandau Ville es un joven mago que solo lleva unos pocos años en la Universidad Invisible.
 
-En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente se apuntó como cuidador.
+En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente, se apuntó como cuidador.
 
-Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer tu trabajo de mantenimiento.
+Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer su trabajo de mantenimiento.
 
 Spandau es bastante germófobo y un tanto hipocondríaco. Lo cual es curioso para un amante de los insectos. De hecho, sus compañeros de cátedra se aprovechan a veces de su germofobia para jugarle malas pasadas.
 
-Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tiene sus partes buenas. No come ni bebe nada que no haya cocinado (política muy buena conociendo a los vendedores ambulantes de comida de la ciudad), no toca cosas de otros, ni se mete en sitios que no conoce, lo cual evita que se meta en muchos problemas. Además sabe mucho de primeros auxilios y de enfermedades raras que según él ha sufrido todas o eso dice.
-
-
-
-* **Organización:** Magos
-* **Trasfondo:** Joven mago encargado del mantenimiento de HEX, el superordenador que funciona con hormigas
-* **Lugar y función en el grupo:** 
-  * XXX
-  * XXX
-* **Corazón:** Amante de los insectos
-* **Rarezas:** 
-  * Germófobo
-  * Hipocondriaco
+Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tiene sus partes buenas. No come ni bebe nada que no haya cocinado (política muy buena conociendo a los vendedores ambulantes de comida de la ciudad), no toca cosas de otros, ni se mete en sitios que no conoce, lo cual evita que se meta en muchos problemas. Además, sabe mucho de primeros auxilios y de enfermedades raras, ya que, según él, ha sufrido todas.
 
 
 
@@ -544,6 +531,7 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
+* [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 
