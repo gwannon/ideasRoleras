@@ -24,7 +24,7 @@ Y la mayor aliada de tus jugadoras es un pobre mago germófobo al que le gustan 
 
 \conc
 
-[![Cara de personaje de viejo calco por GatlingArt](./images/43.png "Cara de personaje de viejo calco por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de viejo calco por GatlingArt")
+[![Cara de personaje de viejo calco por GatlingArt](./images/43.png "Cara de personaje de viejo calco por GatlingArt")](https://gatlingart.itch.io/100rpgfaces "Cara de personaje de viejo calco por GatlingArt")
 
 * Practicante de la Esta-Listica
 * Tecnócrata megalómano
@@ -34,9 +34,9 @@ Wilbuck Moreless es un burócrata más de entre tantos que trabajan para la ciud
 
 Se pasa las horas en sus instalaciones municipales, un gigantesco almacén con miles de archivadores y diablillos volando por todas partes llevando y trayendo documentos. 
 
-Pero lo que nadie sabe es Wilbuck es un taumaturgo poderoso que controla un antiguo saber no-arcano denominado Esta-Listica. 
-
 \sp
+
+Pero lo que nadie sabe es Wilbuck es un taumaturgo poderoso que controla un antiguo saber no-arcano denominado Esta-Listica. 
 
 La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
 
@@ -54,7 +54,7 @@ XXX
 
 \conc
 
-[![Cara de personaje de joven con gafas por GatlingArt](./images/30.png "Cara de personaje de joven con gafas por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de joven con gafas por GatlingArt")
+[![Cara de personaje de joven con gafas por GatlingArt](./images/30.png "Cara de personaje de joven con gafas por GatlingArt")](https://gatlingart.itch.io/100rpgfaces "Cara de personaje de joven con gafas por GatlingArt")
 
 * Encargado del mantenimiento de HEX, el superordenador
 * Experto y amante de los insectos
@@ -64,9 +64,9 @@ Spandau Ville es un joven mago que solo lleva unos pocos años en la Universidad
 
 En su niñez era de esos niños raritos que coleccionaba insectos y cuando llego a la universidad y descubrió que había un superhormiguero llamado HEX que podía hacer cálculos y operaciones. Inmediatamente, se apuntó como cuidador.
 
-Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer su trabajo de mantenimiento.
-
 \sp
+
+Trabaja como ayudante de Ponder Stibbons, creador de HEX, aunque apenas ha hablado con él, ya que no diseña ni programa, simplemente se dedica a cuidar el hormiguero. Con su trabajo actual no ha desarrollado grandes capacidades mágicas, las justas para hacer su trabajo de mantenimiento.
 
 Spandau es bastante germófobo y un tanto hipocondríaco. Lo cual es curioso para un amante de los insectos. De hecho, sus compañeros de cátedra se aprovechan a veces de su germofobia para jugarle malas pasadas.
 
@@ -80,7 +80,7 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 
 \conc
 
-[![Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt](./images/56.png "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")](https://www.flickr.com/photos/steeljam/6478733475/ "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")
+[![Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt](./images/56.png "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")](https://gatlingart.itch.io/100rpgfaces "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")
 
 * XXX
 * XXX

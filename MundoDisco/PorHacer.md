@@ -22,26 +22,50 @@ XXX
 
 ---
 
+\sinc
+
 ## Wilbuck Moreless
 
-**Encargado de estadística de Ankh-Morpork**
+**Empleado municipal encargado de censo de Ankh-Morpork (EL)**
 
 \conc
 
+[![Cara de personaje de viejo calco por GatlingArt](./images/43.png "Cara de personaje de viejo calco por GatlingArt")](https://gatlingart.itch.io/100rpgfaces "Cara de personaje de viejo calco por GatlingArt")
+
+* Practicante de la Esta-Listica
+* Tecnócrata megalómano
+* Jugador afortunado
+
+Wilbuck Moreless es un burócrata más de entre tantos que trabajan para la ciudad e Ankh-Morpork. Su principal trabajo es elaborar el censo municipal para unas futuras elecciones democráticas multipersonales (ahora mismo con Lord Vetinari son unipersonales).
+
+Se pasa las horas en sus instalaciones municipales, un gigantesco almacén con miles de archivadores y diablillos volando por todas partes llevando y trayendo documentos. 
+
+Pero lo que nadie sabe es Wilbuck es un taumaturgo poderoso que controla un antiguo saber no-arcano denominado Esta-Listica. 
+
+\sp
+
+La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
+
+De hecho es algo que ha hecho desde hace años, se centra en algún tipo de apuestas (carreras de galgos, peleas de trolls, asesinatos mensuales en la ciudad) y apuesta hasta sacarse una pequeña fortuna. Lo abandona antes de que los corredores de apuestas se den cuentas de que hace «trampas» y le quieran enseñar algún agujero de la dimensión mazmorra en la que se deshacen de los cadáveres.
+
+Ciertamente, si se descubre que ha hecho trampas a medio Ankh Morpork mucha gente pondrá precio a su cabeza o le esperará en la puerta de su casa para no tener que pagar el precio por separar su cabeza de su cuerpo. La otra mitad de la ciudad, seguramente, le esperaría en la puerta de su casa para que les enseñara a apostar usando sus técnicas esta-listicas. Al final si se encontrarán las dos mitades acabaría, como pasa siempre en Ankh-Morpork, en vandalismo y pillaje.
+
 XXX
 
-Wilbuck es un taumaturgo poderoso que controla un antiguo saber arcano denominado Esta-Listica. La Esta-Listica le permite predecir el futuro y conocer las probabilidades de que algo suceda y si dice que hay un 90% de probabilidades de que el podenco Ponche-de-la-vigilia-de-los-cerdos gane la carrera, saca tu bolsa de monedas y haz una apuesta porque seguro que ganará.
-
-XXX
+---
 
 \sinc
 
-* **Organización:** XXX
-* **Trasfondo:** XXX
-* **Lugar y función en el grupo:** 
-  * XXX
-  * XXX
-* **Corazón:** XXX
-* **Rarezas:** 
-  * XXX
-  * XXX
+## Trazcuatro (alias Traz4)
+
+**Pirata de los clacs (ELLA)**
+
+\conc
+
+[![Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt](./images/56.png "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")](https://gatlingart.itch.io/100rpgfaces "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")
+
+* XXX
+* XXX
+* XXX
+
+XXX
