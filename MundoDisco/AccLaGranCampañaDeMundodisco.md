@@ -24,13 +24,17 @@
 
 
 
-[![Escudo de armas de Ankh-Morpork por Steve James](./images/ankh-morpork-escudo-armas.png "Escudo de armas de Ankh-Morpork por Steve James")](https://www.flickr.com/photos/steeljam/6478733475/ "Escudo de armas de Ankh-Morpork por Steve James")
+Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En ella se explica en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigírsela, porque ten claro que nadie en su sano juicio te la va a dirigir.
+
+**Así que empecemos …**
+
+
 
 ## Sinopsis
 
-Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En ella se explica en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigírsela, porque ten claro que nadie en su sano juicio te la va a dirigir.
 
-### Así que empecemos …
+
+
 
 Lord Vetinari, el patricio de Ankh-Morpork, dentro de sus políticas de reinserción social de criminales, permite conmutar las penas de cárcel a cambio de trabajar de entrevistadoras del censo electoral municipal.
 
@@ -46,9 +50,9 @@ XXX
 
 Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
 
-
-
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
+
+
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
@@ -125,11 +129,11 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
 
-La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de suerte.
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de Suerte de forma que le afecte.
 
 Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
 
-> Nota importante, las practicantes de la Esta-Listica no son magos y por tanto la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
+> Nota importante, las practicantes de la Esta-Listica no son magos y, por tanto, la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
@@ -220,7 +224,15 @@ Contar historias de la cárcel para ganar discusiones es otra ventaja. Imagina q
 
 Es importante que sepas que las anécdotas policiales y militares ganan a las historias de prisión, tienen más caché. Eso explica que las pelis de polis y de guerra sacan más dinero en taquilla que las de fugas.
 
-Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias. Esta consecuencia le espera acechando en los oscuros callejones (acechar a plena luz en una calle amplia es muy complicado) para atacarle en el peor momento o en el que haga más risas entre el resto de jugadoras.
+[![Rincewind por marbolotte con-borde](./images/rincewind_by_marbolotte.jpg "Rincewind por marbolotte")](https://www.deviantart.com/marbolotte/art/Rincewind-530737566 "Rincewind por marbolotte")
+
+
+
+Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias.
+
+Esta consecuencia le espera acechando en los oscuros callejones (acechar a plena luz en una calle amplia es muy complicado) para atacarle en el peor momento o en el que haga más risas entre el resto de jugadoras.
+
+
 
 Igual le buscan para matarle las víctimas de su estafa trapezoidal. Todo iba de maravilla hasta que alguien miro en un diccionario (ya es mala suerte timar a una con gusto por la lectura) y se dio cuenta de que no era una estafa trapezoidal sino piramidal, pero escalonada.
 
@@ -272,11 +284,13 @@ Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti m
 
 
 
-XXX
+Hoy en día, y eso te lo confirma cualquier autora de rol mínimamente competente (no como nosotras), hay que empezar _In medias res_, así que tus jugadoras van a comenzar sus andanzas en todo el meollo. Puedes elegir entre la jueza dictando sentencia de cárcel y golpeando con su mazo de jueza en su mesa o la directora de la junta de la condicional estampando el sello de «Rechazado» en su solicitud de libertad condicional.
 
 ---
 
 
+
+XXX
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
 
@@ -293,6 +307,8 @@ XXX
 Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
+
+
 
 
 
@@ -478,7 +494,7 @@ De hecho es algo que ha hecho desde hace años, se centra en algún tipo de apue
 
 Ciertamente, si se descubre que ha hecho trampas a medio Ankh Morpork mucha gente pondrá precio a su cabeza o le esperará en la puerta de su casa para no tener que pagar el precio por separar su cabeza de su cuerpo. La otra mitad de la ciudad, seguramente, le esperaría en la puerta de su casa para que les enseñara a apostar usando sus técnicas esta-listicas. Al final si se encontrarán las dos mitades acabaría, como pasa siempre en Ankh-Morpork, en vandalismo y pillaje.
 
-XXX
+Y si no tuviera ya posibles enemigos en el plano mortal, ha pedido demasiados favores a los seres de la Dimensión Mazmorra para que le surtan de los diablillos que usa en sus almacenes de datos para estudiar datos y sacar porcentajes.
 
 
 
@@ -565,8 +581,11 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
 * [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
+* [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
+
+
 
 ## Uso de IA
 
@@ -574,6 +593,12 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 [![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
 
+section
 
+«La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-TEXTO CONTRAPORTADA
+La campaña trae en sus XXX páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 5 capítulos con sus PNJ y cameos, muchísimos cameos.
+
+La campaña se entrega sin haber sido testada en forma alguna, como autor, si testeara lo que escribo sería de esos que testea sus juegos.
+
+**~ GNU Terry Pratchett ~**

@@ -24,13 +24,17 @@
 
 \conc
 
-[![Escudo de armas de Ankh-Morpork por Steve James](./images/ankh-morpork-escudo-armas.png "Escudo de armas de Ankh-Morpork por Steve James")](https://www.flickr.com/photos/steeljam/6478733475/ "Escudo de armas de Ankh-Morpork por Steve James")
+Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En ella se explica en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigírsela, porque ten claro que nadie en su sano juicio te la va a dirigir.
+
+**Así que empecemos …**
+
+\sinc
 
 ## Sinopsis
 
-Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En ella se explica en líneas generales la trama de la aventura, que claramente tus jugadoras no van a seguir, para ver si te llama y decides engañar a alguien para dirigírsela, porque ten claro que nadie en su sano juicio te la va a dirigir.
+\conc
 
-### Así que empecemos …
+
 
 Lord Vetinari, el patricio de Ankh-Morpork, dentro de sus políticas de reinserción social de criminales, permite conmutar las penas de cárcel a cambio de trabajar de entrevistadoras del censo electoral municipal.
 
@@ -46,9 +50,9 @@ XXX
 
 Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
 
-\sp
-
 La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
+
+\sp
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
@@ -182,6 +186,12 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 |Epilogo.md|
 
-\sp
+\spsection
 
-TEXTO CONTRAPORTADA
+«La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
+
+La campaña trae en sus XXX páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 5 capítulos con sus PNJ y cameos, muchísimos cameos.
+
+La campaña se entrega sin haber sido testada en forma alguna, como autor, si testeara lo que escribo sería de esos que testea sus juegos.
+
+**~ GNU Terry Pratchett ~**

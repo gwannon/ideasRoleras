@@ -168,13 +168,13 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--color-primary);
+  background-color: #31003d;
   color: var(--color-secondary);
   flex-direction: column;
 }
 
 h1:first-of-type {
-  background: var(--color-primary) url(../images/ankh-morpork-escudo-armas.png) center center no-repeat;
+  background: #31003d url(../images/ankh-morpork-escudo-armas.png) center center no-repeat;
   background-size: 60% auto;
   font-size: 4.5em;
   text-shadow: 0 0 10px black;
@@ -253,6 +253,12 @@ table tbody tr:nth-child(even) {
 
 img {
   width: 100%;
+
+}
+
+img[alt*="con-borde"] {
+  border: 1px solid black;
+  box-shadow: 1px 1px 8px 3px var(--color-tertiaire);
 }
 
 p:has(img) {
@@ -359,4 +365,25 @@ pre + p:has(strong) {
   font-style: italic;
   padding-top: 5px;
   margin-bottom: calc(var(--padding) / 2);
+}
+
+.contraportada {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: calc(100vh - var(--padding));
+  background-color: #31003d;
+  margin: 0 calc(var(--padding) * -1) calc(var(--padding) * -1) !important;
+  padding: var(--padding);
+}
+
+.contraportada p {
+  color: var(--color-secondary);
+  font-size: 1.3em;
+}
+
+.contraportada p a {
+  color: var(--color-secondary);
 }

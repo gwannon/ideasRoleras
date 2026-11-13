@@ -14,13 +14,14 @@ $md = preg_replace_callback("/\|([a-zA-Z0-9]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\sc", "\sinc", "\conc", "&nbsp;"], "", $md));
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\spsection", "\sc", "\sinc", "\conc", "&nbsp;"], "", $md));
 
 $mkd->setContent($md);
 
 $html = str_replace("|HTML|", $mkd->toHtml(), file_get_contents(__DIR__ . "/template".$argv[1].".html")); 
 $html = str_replace("|ID|", $argv[1], $html); 
 //$html = str_replace("<hr />", "</div><div class=\"saltopagina\"></div>\n</section>\n<section>", $html); 
+$html = str_replace("<p>\spsection</p>", "</div><div class=\"saltopagina\"></div><div class='columns contraportada'>", $html);
 $html = str_replace("<p>\sp</p>", "</div><div class=\"saltopagina\"></div><div class='columns'>", $html);
 $html = str_replace("<p>\sc</p>", "<p class=\"saltocolumna\"></p>", $html);
 $html = str_replace("<p>\sinc</p>", "</div>", $html);

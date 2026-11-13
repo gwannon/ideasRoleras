@@ -29,8 +29,11 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
 * [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
+* [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
+
+\sp
 
 ## Uso de IA
 

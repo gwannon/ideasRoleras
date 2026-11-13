@@ -44,7 +44,7 @@ De hecho es algo que ha hecho desde hace años, se centra en algún tipo de apue
 
 Ciertamente, si se descubre que ha hecho trampas a medio Ankh Morpork mucha gente pondrá precio a su cabeza o le esperará en la puerta de su casa para no tener que pagar el precio por separar su cabeza de su cuerpo. La otra mitad de la ciudad, seguramente, le esperaría en la puerta de su casa para que les enseñara a apostar usando sus técnicas esta-listicas. Al final si se encontrarán las dos mitades acabaría, como pasa siempre en Ankh-Morpork, en vandalismo y pillaje.
 
-XXX
+Y si no tuviera ya posibles enemigos en el plano mortal, ha pedido demasiados favores a los seres de la Dimensión Mazmorra para que le surtan de los diablillos que usa en sus almacenes de datos para estudiar datos y sacar porcentajes.
 
 \sinc
 

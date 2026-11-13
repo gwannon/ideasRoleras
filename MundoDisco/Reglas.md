@@ -39,11 +39,11 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
 
-La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de suerte.
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de Suerte de forma que le afecte.
 
 Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
 
-> Nota importante, las practicantes de la Esta-Listica no son magos y por tanto la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
+> Nota importante, las practicantes de la Esta-Listica no son magos y, por tanto, la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
 
@@ -134,7 +134,15 @@ Contar historias de la cárcel para ganar discusiones es otra ventaja. Imagina q
 
 Es importante que sepas que las anécdotas policiales y militares ganan a las historias de prisión, tienen más caché. Eso explica que las pelis de polis y de guerra sacan más dinero en taquilla que las de fugas.
 
-Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias. Esta consecuencia le espera acechando en los oscuros callejones (acechar a plena luz en una calle amplia es muy complicado) para atacarle en el peor momento o en el que haga más risas entre el resto de jugadoras.
+[![Rincewind por marbolotte con-borde](./images/rincewind_by_marbolotte.jpg "Rincewind por marbolotte")](https://www.deviantart.com/marbolotte/art/Rincewind-530737566 "Rincewind por marbolotte")
+
+&nbsp;
+
+Además, deberían empezar con alguna consecuencia derivada de las acciones, segura y totalmente inocentes, que les llevaron a formar parte del gremio de presidiarias.
+
+Esta consecuencia le espera acechando en los oscuros callejones (acechar a plena luz en una calle amplia es muy complicado) para atacarle en el peor momento o en el que haga más risas entre el resto de jugadoras.
+
+\sp
 
 Igual le buscan para matarle las víctimas de su estafa trapezoidal. Todo iba de maravilla hasta que alguien miro en un diccionario (ya es mala suerte timar a una con gusto por la lectura) y se dio cuenta de que no era una estafa trapezoidal sino piramidal, pero escalonada.
 
