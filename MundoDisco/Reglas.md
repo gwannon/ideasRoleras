@@ -150,6 +150,16 @@ Quizás le busca el gremio de ladronas por meterse en sus asuntos. Mientras seas
 
 Incluso, puede que entrar en la cárcel fuera la forma más inteligente que se le ocurrió de evitar un matrimonio concertado.
 
+---
+
+Y ahora qué te has leído todo este rollo, olvídate de ello y déjales hacerse sus personajes como quieran. Porque en realidad todo esto del gremio de presidiarias durará un par de segundos de la primera sesión. Ya lo entenderás cuando leas el capítulo 1 de la aventura.
+
+Lo de las consecuencias, si es real y les va a durar toda la aventura. 
+
+> Compra gomas de borrar, te vendrán bien. Hazme caso van a borrar varias cosas en poco minutos.
+
+\sc
+
 \sp
 
 \sinc
@@ -163,6 +173,56 @@ Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el fam
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
+
+\sinc
+
+## Siempre hay gente que sabe más de Mundodisco que tú 
+
+\conc
+
+Seamos sinceros las únicas personas que van a querer jugar contigo a esta campaña son fans de Terry Pratchett y como mínimo una de esas personas va a saber mucho más que tú de MundoDisco.
+
+Como las fans de Terry Pratchett son muy tiquismiquis y saben más, van a empezar con sus quejas: esto no es así, este personaje no puede aparecer ahora,  la magia funciona de otra forma, etc.
+
+He hablado con patronato que cuida del legado de Sir Terry Pratchett (mentira gorda) y nos ha dado una solución. Es una simple prueba tipo test con 4 preguntas (todas las respuestas buenas son la A) que te otorga el título de «Terry Pratchett espacio-temporal».
+
+Pero qué supone ese insigne titulo, pues algo muy sencillo y a la vez muy importante. Mientras estes dirigiendo ese espaciotemporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espaciotemporalmente novelas.
+
+Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila de novelas y por tanto no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
+
+\sp
+
+> Espacio temporalmente eres Pratchett, pero a efectos financieros y legales eres tú misma, así que no trates de firmar cheques falsos con su nombre que nos conocemos.
+
+### Responde a estas preguntas
+
+¿Has leído algún libro de Terry Pratchett?
+
+* [ ] A. Sí
+* [ ] B.No
+* [ ] C. Si te vale, he robado uno en la Casa del libro
+
+¿Has leído al menos un 25% de manual básico de este juego?
+
+* [ ] A. Sí
+* [ ] B. No
+* [ ] C. No, pero les he dicho a mis jugadoras que sí.
+
+¿Qué tiene de especial la MUERTE en Mundodisco?
+
+* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en que es editor era literalmente imbecil.
+* [ ] B. Cria gusanos de seda para poder tejer su XXX.
+* [ ] C. Le gustan los Donuts glaseados con virutas de colores. 
+
+¿El mundo es peor desde que Sir Terry Pratchett no está en él?
+
+* [ ] A. Sí
+* [ ] B. No
+* [ ] C. Sigue vivo en una isla del Caribe con Elvis. Dejadme soñar.
+
+Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio temporal».
+
+> Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tú titulación es verdadera.
 
 \sinc
 

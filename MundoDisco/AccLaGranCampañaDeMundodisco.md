@@ -240,6 +240,16 @@ Quizás le busca el gremio de ladronas por meterse en sus asuntos. Mientras seas
 
 Incluso, puede que entrar en la cárcel fuera la forma más inteligente que se le ocurrió de evitar un matrimonio concertado.
 
+---
+
+Y ahora qué te has leído todo este rollo, olvídate de ello y déjales hacerse sus personajes como quieran. Porque en realidad todo esto del gremio de presidiarias durará un par de segundos de la primera sesión. Ya lo entenderás cuando leas el capítulo 1 de la aventura.
+
+Lo de las consecuencias, si es real y les va a durar toda la aventura. 
+
+> Compra gomas de borrar, te vendrán bien. Hazme caso van a borrar varias cosas en poco minutos.
+
+
+
 
 
 
@@ -253,6 +263,56 @@ Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el fam
 Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
+
+
+
+## Siempre hay gente que sabe más de Mundodisco que tú 
+
+
+
+Seamos sinceros las únicas personas que van a querer jugar contigo a esta campaña son fans de Terry Pratchett y como mínimo una de esas personas va a saber mucho más que tú de MundoDisco.
+
+Como las fans de Terry Pratchett son muy tiquismiquis y saben más, van a empezar con sus quejas: esto no es así, este personaje no puede aparecer ahora,  la magia funciona de otra forma, etc.
+
+He hablado con patronato que cuida del legado de Sir Terry Pratchett (mentira gorda) y nos ha dado una solución. Es una simple prueba tipo test con 4 preguntas (todas las respuestas buenas son la A) que te otorga el título de «Terry Pratchett espacio-temporal».
+
+Pero qué supone ese insigne titulo, pues algo muy sencillo y a la vez muy importante. Mientras estes dirigiendo ese espaciotemporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espaciotemporalmente novelas.
+
+Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila de novelas y por tanto no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
+
+
+
+> Espacio temporalmente eres Pratchett, pero a efectos financieros y legales eres tú misma, así que no trates de firmar cheques falsos con su nombre que nos conocemos.
+
+### Responde a estas preguntas
+
+¿Has leído algún libro de Terry Pratchett?
+
+* [ ] A. Sí
+* [ ] B.No
+* [ ] C. Si te vale, he robado uno en la Casa del libro
+
+¿Has leído al menos un 25% de manual básico de este juego?
+
+* [ ] A. Sí
+* [ ] B. No
+* [ ] C. No, pero les he dicho a mis jugadoras que sí.
+
+¿Qué tiene de especial la MUERTE en Mundodisco?
+
+* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en que es editor era literalmente imbecil.
+* [ ] B. Cria gusanos de seda para poder tejer su XXX.
+* [ ] C. Le gustan los Donuts glaseados con virutas de colores. 
+
+¿El mundo es peor desde que Sir Terry Pratchett no está en él?
+
+* [ ] A. Sí
+* [ ] B. No
+* [ ] C. Sigue vivo en una isla del Caribe con Elvis. Dejadme soñar.
+
+Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio temporal».
+
+> Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tú titulación es verdadera.
 
 
 
@@ -284,19 +344,37 @@ Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti m
 
 
 
-Hoy en día, y eso te lo confirma cualquier autora de rol mínimamente competente (no como nosotras), hay que empezar _In medias res_, así que tus jugadoras van a comenzar sus andanzas en todo el meollo. Puedes elegir entre la jueza dictando sentencia de cárcel y golpeando con su mazo de jueza en su mesa o la directora de la junta de la condicional estampando el sello de «Rechazado» en su solicitud de libertad condicional.
+Hoy en día, y eso te lo confirma cualquier autora de rol mínimamente competente (no como nosotras), hay que empezar _In medias res_, así que tus jugadoras van a comenzar sus andanzas en todo el meollo. La jueza levanta el mazo y …
 
 ---
 
 
 
-XXX
+Y tras caer el mazo y oír culpable, simplemente mira a tus jugadoras y pregunta una por una y a poder ser por separado cómo han acabado formando parte del Gremio de presidiarias de Ankh-Morpork. Tras su explicación dales una consecuencia apropiada, como ya vimos en la creación de personajes.
+
+Estas escenas deberían ser en privado, para que cada jugadora sepa solo su historia y sus consecuencias. Qué luego después de la partida se las van a contar para molarse entre ellas, pero tú estás haciendo lo correcto, lo que un DJ serio y formal haría en estos casos. Ya habrá tiempo de llevarte por el camino.
+
+> Toca borrar la organización de la ficha y poner Gremio de presidiarias.
+
+Si ya estaban en la cárcel y eran parte del gremio de presidiarias, la jueza puede ser la directora de la junta de la condicional estampando el sello de «Rechazado» en su solicitud de libertad condicional.
+
+Los guardias, exactamente dos trolls de gran tamaño, se acercarán y se llevarán a tus presidiarias, pero de entre la multitud se levantará un hombre de unos 50 años, calvo en mala forma física y se dirigirá a la mesa del juez o la junta de la condicional.
+
+«Señorias, como agente censal nominado por el propio Patricio y siguiendo la normativa municipal 314, puedo proponerles a estas infelices almas perdidas otra opción diferente, para no tener que formar parte del Gremio de presidiarias de esta ciudad.»
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
+
+XXX
+
+> Vuelve a borrar y tu organización y escribe Agencia Central del Censo
+
+XXX
 
 Según el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck, gerente municipal del censo, es todo un triunfo.
 
 XXX
+
+
 
 
 
@@ -307,8 +385,6 @@ XXX
 Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
 [ESPERAR A LAS REGLAS TRADUCIDAS]
-
-
 
 
 
