@@ -196,7 +196,7 @@ h2 {
 }
 
 h2 + p:not(:has(strong)):first-letter,
-h2 + .columns > p:first-of-type:not(:has(strong)):first-letter {
+h2 + .columns > p:first-of-type:not(:has(strong, span)):first-letter {
   font-family: "Lavishly Yours", cursive;
   font-size: 85px;
   line-height: 75px;

@@ -124,7 +124,7 @@ De hecho, adquieres el rasgo «amenazado por la _campaña_». En este caso cuand
 
 \conc
 
-Si hemos retocado gran cantidad de elementos de juego principal, qué te hacía pensar que no íbamos a meter mano en la creación de personajes.
+Si hemos retocado gran cantidad de elementos del juego principal, qué te hacía pensar que no íbamos a meter mano en la creación de personajes.
 
 Para empezar, todas tus jugadoras forman parte del exclusivo gremio de presidiarias de Ankh-Morpork, así que en el apartado de «Organización» deberán poner «Excelso gremio de presidiarias de Ankh-Morpork».
 
