@@ -158,22 +158,6 @@ Lo de las consecuencias, si es real y les va a durar toda la aventura.
 
 > Compra gomas de borrar, te vendrán bien. Hazme caso van a borrar varias cosas en poco minutos.
 
-\sc
-
-\sp
-
-\sinc
-
-## Cameos
-
-\conc
-
-Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundodisco son altas.
-
-Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña. Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
-
-> Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
-
 \sinc
 
 ## Siempre hay gente que sabe más de Mundodisco que tú 
@@ -240,3 +224,21 @@ Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo qu
 Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti mismo. Eso es lo que es el pecado.
 ```
 **Yaya Ceravieja, bruja y a mucha honra**
+
+\sp
+
+\sinc
+
+## Cameos
+
+\conc
+
+[![Cohen The Barbarian por Genchis](./images/cohen_the_barbarian_by_genchis.jpg "Cohen The Barbarian por Genchis")](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228 "Cohen The Barbarian por Genchis")
+
+Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundodisco son altas.
+
+Todo lo anterior no es más que una excusa para justificar la gran cantidad de cameos «fanservice» que va a tener esta campaña.
+
+Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
+
+> Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
