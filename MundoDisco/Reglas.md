@@ -186,13 +186,13 @@ Como las fans de Terry Pratchett son muy tiquismiquis y saben más, van a empeza
 
 He hablado con patronato que cuida del legado de Sir Terry Pratchett (mentira gorda) y nos ha dado una solución. Es una simple prueba tipo test con 4 preguntas (todas las respuestas buenas son la A) que te otorga el título de «Terry Pratchett espacio-temporal».
 
-Pero qué supone ese insigne título, pues algo muy sencillo y a la vez muy importante. Mientras estés dirigiendo ese espaciotemporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espaciotemporalmente novelas.
+Pero qué supone ese insigne título, pues algo muy sencillo y a la vez muy importante. Mientras estés dirigiendo ese espacio-temporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espacio-temporalmente novelas.
 
-Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila de novelas y por tanto no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
+Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila de novelas y por tanto no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
 
 \sp
 
-> Espacio temporalmente eres Pratchett, pero a efectos financieros y legales eres tú misma, así que no trates de firmar cheques falsos con su nombre que nos conocemos.
+> Espacio-temporalmente eres Pratchett, pero a efectos financieros y legales eres tú misma, así que no trates de firmar cheques falsos con su nombre que nos conocemos.
 
 ### Responde a estas preguntas
 
@@ -220,7 +220,7 @@ Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila d
 * [ ] B. No
 * [ ] C. Sigue vivo en una isla del Caribe con Elvis. Dejadme soñar.
 
-Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio temporal».
+Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio-temporal».
 
 > Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tu titulación es verdadera.
 
