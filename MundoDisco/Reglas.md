@@ -8,7 +8,7 @@ Esta campaña tiene una serie de reglas especiales que, si bien no modifican las
 
 Seamos sinceros, son solo un montón de tonterías que NO HAN SIDO TESTEADAS, pero que en la mente del autor sonaban de fábula. En fin, puede que sean divertidas, si tu mesa se deja llevar.
 
-Por resumir, aquí tienes reglas para llevar practicantes de la Esta-Ĺistica, como funciona _la campaña_ con sus cameos y su tono «woke», además de reglas especiales para la creación de personajes.
+Por resumir, aquí tienes reglas para llevar practicantes de la Esta-Listica, como funciona _la campaña_ con sus cameos y su tono «woke», además de reglas especiales para la creación de personajes.
 
 \sinc
 
@@ -29,7 +29,7 @@ El departamento de numerología de la Universidad Invisible no lo considera una 
 ```
 ¿Qué es eso de porcentajes? Eso no son números mágicos de verdad, como el donce, son patrañas científicas de las modernas.
 ```
-**Irvín Visualblock, numerólogo**
+**Irving Visualblock, numerólogo**
 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
 
@@ -39,21 +39,21 @@ Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-L
 
 En juego la Esta-Listica permite una gran variedad aplicaciones y más, si eres una DJ creativa y poco puñetera que gusta de hacer sufrir a sus jugadoras.
 
-La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de Suerte de forma que le afecte.
+La Esta-Listica niega la Suerte, ya que son totalmente incompatibles, no existe la Suerte, solo unos porcentajes de éxito. Así que delante de una esta-lista, no se puede usar puntos de Suerte de manera que le afecte.
 
 Por último, un practicante de la Esta-Listica puede demostrar que una situación o plan que tiene unas probabilidades de **uno entre un millón** en realidad son unas probabilidades de 0.000001%, que es ridículamente baja. Así que la regla de uno entre un millón no puede afectar a una esta-lista. La esta-lista no puede aprovecharse de esta regla, ni otros puede de usar esta regla en perjuicio o beneficio de la esta-lista.
 
 > Nota importante, las practicantes de la Esta-Listica no son magos y, por tanto, la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
 
-[ESPERAR A LAS REGLAS TRADUCIDAS]
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 ### Reglas de los almacenes de datos
 
-Los almacenes de datos son el arma suprema e Wilbuck y en juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y pueda acceder a ellos a tiempo. 
+Los almacenes de datos son el arma suprema de Wilbuck y en juego los almacenes de datos permiten a Wilbuck prácticamente lo que se te ocurra, siempre y cuando tenga datos y pueda acceder a ellos a tiempo. 
 
 Los almacenes pueden comunicarse entre ellos mediante la red de clacs (un sistema de comunicación que manda mensajes mediante destellos de luces desde altas torres), el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS]
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 \sp
 
@@ -91,7 +91,7 @@ La campaña cree que con un cameo de un personaje importante de la saga de libro
 
 Además, se ha pensado una estratagema sucia y rastrera para enganchar a las partidas a tus jugadoras. Todo se oscurecerá y se quedarán solas tus jugadoras en una gran negrura. De repente se podrán ver sus partes blancas y su guadaña y se presentará como la _muerte_. Estaba por el barrio, haciendo sus cosas. Pueden ver en un bolsillo de su túnica un pergamino enrollado donde se puede leer «Lista de …», que puede ser desde «Lista de las almas que tengo que segar hoy» hasta «Lista de ingredientes para la tarta de queso».
 
-Bajará la guadaña de forma no ofensiva e irá acercándose a cada una de tus jugadoras y les dirá al odio (solo la jugadora lo sabrá) cómo van a morir de una forma bastante críptica.
+Bajará la guadaña de forma no agresiva e irá acercándose a cada una de tus jugadoras y les dirá al odio (solo la jugadora lo sabrá) cómo van a morir de una manera bastante críptica.
 
 _La campaña_ no sabe ciertamente cómo van a morir, pero espera que sus palabras tengan efecto en las jugadoras y que esto afecte a sus acciones.
 
@@ -180,13 +180,13 @@ Todo lo anterior no es más que una excusa para justificar la gran cantidad de c
 
 \conc
 
-Seamos sinceros las únicas personas que van a querer jugar contigo a esta campaña son fans de Terry Pratchett y como mínimo una de esas personas va a saber mucho más que tú de MundoDisco.
+Seamos sinceros las únicas personas que van a querer jugar contigo a esta campaña son fans de Terry Pratchett y como mínimo una de esas personas va a saber mucho más que tú de Mundodisco.
 
-Como las fans de Terry Pratchett son muy tiquismiquis y saben más, van a empezar con sus quejas: esto no es así, este personaje no puede aparecer ahora,  la magia funciona de otra forma, etc.
+Como las fans de Terry Pratchett son muy tiquismiquis y saben más, van a empezar con sus quejas: esto no es así, este personaje no puede aparecer ahora, la magia funciona de otra forma, etc.
 
 He hablado con patronato que cuida del legado de Sir Terry Pratchett (mentira gorda) y nos ha dado una solución. Es una simple prueba tipo test con 4 preguntas (todas las respuestas buenas son la A) que te otorga el título de «Terry Pratchett espacio-temporal».
 
-Pero qué supone ese insigne titulo, pues algo muy sencillo y a la vez muy importante. Mientras estes dirigiendo ese espaciotemporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espaciotemporalmente novelas.
+Pero qué supone ese insigne título, pues algo muy sencillo y a la vez muy importante. Mientras estés dirigiendo ese espaciotemporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espaciotemporalmente novelas.
 
 Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila de novelas y por tanto no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
 
@@ -199,7 +199,7 @@ Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila d
 ¿Has leído algún libro de Terry Pratchett?
 
 * [ ] A. Sí
-* [ ] B.No
+* [ ] B. No
 * [ ] C. Si te vale, he robado uno en la Casa del libro
 
 ¿Has leído al menos un 25% de manual básico de este juego?
@@ -210,9 +210,9 @@ Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila d
 
 ¿Qué tiene de especial la MUERTE en Mundodisco?
 
-* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en que es editor era literalmente imbecil.
-* [ ] B. Cria gusanos de seda para poder tejer su XXX.
-* [ ] C. Le gustan los Donuts glaseados con virutas de colores. 
+* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en que es editor era literalmente imbécil.
+* [ ] B. Cria gusanos de seda para poder tejer su túnica.
+* [ ] C. Le gustan los donuts glaseados con virutas de colores. 
 
 ¿El mundo es peor desde que Sir Terry Pratchett no está en él?
 
@@ -222,7 +222,7 @@ Recuerda que eres espacio temporalmente Terry Pratchett y has escrito esa pila d
 
 Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio temporal».
 
-> Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tú titulación es verdadera.
+> Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tu titulación es verdadera.
 
 \sinc
 
@@ -234,7 +234,7 @@ Esta campaña es completamente «woke», así que, entre otras cosas, se ha usad
 
 Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS]
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 ```
 Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti mismo. Eso es lo que es el pecado.

@@ -14,9 +14,9 @@ Estas escenas deberían ser en privado, para que cada jugadora sepa solo su hist
 
 Si ya estaban en la cárcel y eran parte del gremio de presidiarias, la jueza puede ser la directora de la junta de la condicional estampando el sello de «Rechazado» en su solicitud de libertad condicional.
 
-Los guardias, exactamente dos trolls de gran tamaño, se acercarán y se llevarán a tus presidiarias, pero de entre la multitud se levantará un hombre de unos 50 años, calvo en mala forma física y se dirigirá a la mesa del juez o la junta de la condicional.
+Los guardias, exactamente dos trolls de gran tamaño, se acercarán y se llevarán a tus presidiarias, pero de entre la multitud se levantará un hombre de unos 50 años, calvo y en mala forma física y se dirigirá a la mesa del juez o la junta de la condicional.
 
-«Señorias, como agente censal nominado por el propio Patricio y siguiendo la normativa municipal 314, puedo proponerles a estas infelices almas perdidas otra opción diferente, para no tener que formar parte del Gremio de presidiarias de esta ciudad.»
+«Señorías, como agente censal nominado por el propio Patricio y siguiendo la normativa municipal 314, puedo proponerles a estas infelices almas perdidas otra opción diferente, para no tener que formar parte del Gremio de presidiarias de esta ciudad.»
 
 El Patricio decidió, en su día, elaborar un censo electoral por si las ankhmorporkianas se ponían en su contra y a alguna de sus enemigas políticas le daba por inventar y testar la guillotina. Así, si le preguntaban por su política democrática de «un hombre (él), un voto (el suyo)», pudiera decir que estaba trabajando en mejorarlo y ampliarlo. 
 
@@ -40,7 +40,7 @@ XXX
 
 Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS]
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 \sinc
 

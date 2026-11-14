@@ -130,7 +130,7 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 \sinc
 
-# Capítulo 4. **La caida del Patricio**
+# Capítulo 4. **La caída del Patricio**
 
 \conc
 
@@ -142,7 +142,7 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 \sinc
 
-# Capítulo 5. **La resistance**
+# Capítulo 5. **La Résistance**
 
 \conc
 
@@ -192,6 +192,6 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 La campaña trae en sus XXX páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 5 capítulos con sus PNJ y cameos, muchísimos cameos.
 
-La campaña se entrega sin haber sido testada en forma alguna, como autor, si testeara lo que escribo sería de esos que testea sus juegos.
+La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 
 **~ GNU Terry Pratchett ~**

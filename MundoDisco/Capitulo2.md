@@ -14,7 +14,7 @@ XXX
 
 \sinc
 
-## Entrevistando al bibliotecario
+## Conociendo a Spandau
 
 \conc
 
