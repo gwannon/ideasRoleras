@@ -153,6 +153,10 @@ The escape requires one segment of the clock, so time is very limited. To begin 
 
 > As you will see, destroying all the zones and escaping before the Devastator’s assault troops take over the park is practically impossible. Someone will have to sacrifice himself and stay behind—or the others will have to abandon them for the good of the group. It’s not immediately apparent, but it will gradually become very real as the sections of the clock are filled in.
 
+\sinc
+
+&nbsp;
+
 [![The ornamental separator belongs to kjpargeter](./filete.jpg "The ornamental separator belongs to kjpargeter")](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm "The ornamental separator belongs to kjpargeter")
 
 \conc

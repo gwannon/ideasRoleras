@@ -4,15 +4,15 @@
 
 \conc
 
-Aunque Modern World es propiedad de August Thornberry, la junta directiva está formada por este último y los 3 ingenieros goblins que crearon todas las maravillas del parque, Yalp, Snot, Dez.
+Although Modern World is owned by August Thornberry, its board of directors consists of him and the three goblin engineers who created all the park’s marvels: Yalp, Snot, and Dez.
 
-Cuando el Devastador ha aparecido en el radar, la junta directiva ha hecho evacuar por su seguridad a todos los trabajadores y visitantes del parque y, en principio, solo quedan ellos 4 en todas las instalaciones.
+When the Devastator appeared on the radar, the board ordered the evacuation of all park staff and visitors for their own safety; as a result, they are now the only four individuals remaining within the entire facility.
 
 ### Power dynamics
 
-Durante el año que el parque ha estado abierto, las dinámicas de poder han sido muy estables. Cada uno sabía su lugar y hasta donde llegaba su poder y su influencia.
+Throughout the time the park has been open, power dynamics have remained very stable. Everyone knew their place, as well as the limits of their own power and influence.
 
-Esto se ha ido al garete cuando el Devastador ha puesto rumbo a Modern World con sus cañones preparados para hacer fuego.
+All of that went out the window when the Devastator set a course for Modern World, its cannons primed and ready to fire.
 
 **August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más en esta arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo. Por no hablar que tú habilidades ahora son de gran utilidad.
 
