@@ -601,3 +601,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QDura lex, sed lex\\E$"}
 {"rule":"PHYSICIAN","sentence":"^\\QLos guardias, exactamente dos trolls de gran tamaño, se acercarán y se llevarán a tus presidiarias, pero de entre la multitud se levantará un hombre de unos 50 años, calvo y en mala forma física y se dirigirá a la mesa del juez o la junta de la condicional.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¿Es usted terraesferista?\\E$"}
+{"rule":"CARPET","sentence":"^\\QLes enseñará un archivador en su pequeño despacho con unas pocas carpetas.\\E$"}

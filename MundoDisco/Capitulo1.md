@@ -34,17 +34,33 @@ Wilbuck continúa dirigiéndose a la jugadora:
 
 > Vuelve a borrar tu organización y escribe ahora Agencia Central del Censo
 
-XXX
+Wilbuck hará que les siga a las oficinas de la Agencia Central del Censo, un asqueroso almacén en los muelles de la ciudad.
 
-Wilbuck les deja tranquilos, hasta el día siguiente para hacer lo que quieran. Pero deben presentarse a las 9:00 en su oficina.
+El almacen es un pequeño edificio mugriento en el que hay montones de archivadores con llaves. Se oye todo el rato golpes entre los archivadores, son borrones que aparecen, abren el archivador, lo cierran y desaparecen. 
+
+En realidad, son diablillos hiperactivos al servicio de Wilbuck, que le buscan y traen carpetas con datos estadísticos.
+
+> Está todo tan mal distribuido que parece más grande por fuera que por dentro. Parece cosa de magia y más o menos lo es. El 8 es el número de la magia y hay tantos 8 escritos en un mismo sitio que el campo mágico de Mundodisco se va a la mierda. Un 88,88% más en alguna estadística de algún informe y el almacén podría colapsar sobre el mismo y acabar la Dimensión Mazmorra.
+
+[![All Roads Lead to Ankh Morpork por swallowthstars con-borde](./images/all_roads_lead_to_ankh_morpork_by_swallowthstars.jpg "All Roads Lead to Ankh Morpork por swallowthstars")](https://www.deviantart.com/swallowthstars/art/All-Roads-Lead-to-Ankh-Morpork-266646133 "All Roads Lead to Ankh Morpork por swallowthstars")
+
+&nbsp;
+
+Les explicará su trabajo, que es principalmente elaborar el censo de la ciudad haciendo entrevistas a las amables y cooperativas ciudadanas de Ankh-Morpork, pero como su presupuesto es ridículo, no ha avanzado mucho.
+
+Les enseñará un archivador en su pequeño despacho con unas pocas carpetas. El resto de clasificadores del almacén son para otros datos que ha ido recogiendo por su cuenta.
+
+Ha montado unos camastros con una cocina en una de las esquinas del almacén. Wilbuck les deja tranquilos, hasta el día siguiente para hacer lo que quieran. Pero deben presentarse a las 9:00 en su oficina. Si se fijan, no hay ningún tipo de seguridad que les impida entrar o salir.
+
+\sp
+
+Recuerda que las consecuencias que adquirieron al principio de la campaña debido a lo que le llevo a la cárcel, sigue activa y en la cárcel no podrían tocarles, pero aquí sí, porque no hay ningún tipo de seguridad para salir y para entrar.
 
 \sinc
 
-## Agentes censales
+## Agentes censales novatas
 
 \conc
-
-[![All Roads Lead to Ankh Morpork por swallowthstars con-borde](./images/all_roads_lead_to_ankh_morpork_by_swallowthstars.jpg "All Roads Lead to Ankh Morpork por swallowthstars")](https://www.deviantart.com/swallowthstars/art/All-Roads-Lead-to-Ankh-Morpork-266646133 "All Roads Lead to Ankh Morpork por swallowthstars")
 
 Es su primer día oficial de indulto, así que no deberían llegar tarde a la oficina de Wilbuck, de hecho sus habitaciones están al lado.
 
@@ -52,9 +68,11 @@ Según les comenta Wilbuck, el censo oficial, en Ankh-Morpork hay 172 habitantes
 
 Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+### El peso de la placa
 
-\sp
+La placa les va a dar ciertas capacidades, buenas unas y malas otras.
+
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 \sinc
 
@@ -71,3 +89,11 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 * **¿Es usted terraesferista?** ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
 * **¿A qué diosas no rezas?** Es más rápido así.
 * XXX
+
+XXX
+
+\sp
+
+Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 y  un d6, si se les ocurre alguna idea tremendamente buena.
+
+XXX

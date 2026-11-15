@@ -1,16 +1,6 @@
-> Vuelve a borrar tu organización y escribe ahora Agencia Central del Censo
-
-XXX
-
-Wilbuck les deja tranquilos, hasta el día siguiente para hacer lo que quieran. Pero deben presentarse a las 9:00 en su oficina.
-
-\sinc
-
-## Agentes censales
+## Agentes censales novatas
 
 \conc
-
-[![All Roads Lead to Ankh Morpork por swallowthstars con-borde](./images/all_roads_lead_to_ankh_morpork_by_swallowthstars.jpg "All Roads Lead to Ankh Morpork por swallowthstars")](https://www.deviantart.com/swallowthstars/art/All-Roads-Lead-to-Ankh-Morpork-266646133 "All Roads Lead to Ankh Morpork por swallowthstars")
 
 Es su primer día oficial de indulto, así que no deberían llegar tarde a la oficina de Wilbuck, de hecho sus habitaciones están al lado.
 
@@ -18,9 +8,11 @@ Según les comenta Wilbuck, el censo oficial, en Ankh-Morpork hay 172 habitantes
 
 Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+### El peso de la placa
 
-\sp
+La placa les va a dar ciertas capacidades, buenas unas y malas otras.
+
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 \sinc
 
@@ -37,6 +29,12 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 * **¿Es usted terraesferista?** ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
 * **¿A qué diosas no rezas?** Es más rápido así.
 * XXX
+
+XXX
+
+Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 y  un d6, si se les ocurre alguna idea tremendamente buena.
+
+XXX
 
 ---
 
