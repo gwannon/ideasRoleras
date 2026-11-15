@@ -74,7 +74,7 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 
 \sinc
 
-## Trazcuatro
+## Trazcuatro (alias Traz4)
 
 **Pirata de los clacs (ELLA)**
 
@@ -82,9 +82,8 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 
 [![Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt](./images/56.png "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")](https://gatlingart.itch.io/100rpgfaces "Cara de personaje de joven con pañuelo que le cubre media cara por GatlingArt")
 
-* XXX
-* XXX
-* XXX
+* Muy competente en varias artesanías.
+* Le encantan los números y los simbólicos raros que se usan vez de números.
+* Pasa desapercibida en todas partes.
 
 XXX
-
