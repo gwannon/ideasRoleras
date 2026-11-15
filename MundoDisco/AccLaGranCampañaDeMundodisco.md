@@ -705,6 +705,7 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
 * [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
 * [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
+* [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 
