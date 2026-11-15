@@ -381,7 +381,7 @@ Wilbuck continúa dirigiéndose a la jugadora:
 
 Wilbuck hará que les siga a las oficinas de la Agencia Central del Censo, un asqueroso almacén en los muelles de la ciudad.
 
-El almacen es un pequeño edificio mugriento en el que hay montones de archivadores con llaves. Se oye todo el rato golpes entre los archivadores, son borrones que aparecen, abren el archivador, lo cierran y desaparecen. 
+El almacén es un pequeño edificio mugriento en el que hay montones de archivadores con llaves. Se oye todo el rato golpes entre los archivadores, son borrones que aparecen, abren el archivador, lo cierran y desaparecen. 
 
 En realidad, son diablillos hiperactivos al servicio de Wilbuck, que le buscan y traen carpetas con datos estadísticos.
 
@@ -407,13 +407,33 @@ Recuerda que las consecuencias que adquirieron al principio de la campaña debid
 
 
 
-Es su primer día oficial de indulto, así que no deberían llegar tarde a la oficina de Wilbuck, de hecho sus habitaciones están al lado.
+Se levantarán con una resaca terrible por la juerga que se pegaron ayer. Es lo que tiene ir a la cárcel, cuando sales quieres volver a disfrutar de la vida, aunque oficialmente solo hayas estado escasos segundos.
 
-Según les comenta Wilbuck, el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck, gerente municipal del censo, es todo un triunfo.
+> Oficialmente son expresidiarios, así que como establecimos en la creación de personajes ya pueden empezar a usar las ventajas que da ser expresidiarios.
 
-Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
+Es su primer día oficial de indulto, así que no deberían llegar tarde a la oficina de Wilbuck. Lo bueno es que la cafetera está cerca de su oficina y lo primero que necesitaran será café.
+
+Wilbuck les espera sentado en su oficina y allí les explicará las normas básicas de trabajo.
+
+* Eres libre de entrar y salir como quieras, mientras cumplas tus horas de trabajo.
+* Si te acabas el café te toca hacer una nueva cafetera.
+* En tu cumpleaños traes sidra y pastel de los enanos para todo el almacén.
+
+> Hay montones de diablillos trabajando en el hospital, así que todos los días es el cumpleaños de tres o cuatro y la cocina está llena de pastel de los enanos que nadie quiere porque sabe fatal. Curiosamente, nunca sobra sidra
+
+Si alguna jugadora es ladrona, perista o de otras profesiones con lo ajeno, verá que, si bien todo en la oficina es cutre y viejo, las herramientas de cálculo, como el ábaco, es de gran calidad (marfil, ébano, oro, …) y los utensilios de escritura, como tinteros y plumas, parecen que son de lujo.
+
+Todo esto es demasiado para el sueldo de un trabajador público, pero, claro, los sobresueldos no oficiales es otra cosa. Aunque nadie sabe para qué sobornarías al del censo de un sitio donde solo vota el Patricio.
+
+Según les comenta Wilbuck, el censo oficial, en Ankh-Morpork hay 172 habitantes censados incluyendo al Patricio y Wilbuck. Está claro que el censo no es muy grande, pero para Wilbuck, por su cara, le parece todo un triunfo.
 
 ### El peso de la placa
+
+Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y grabado «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. 
+
+
+
+Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
 
 La placa les va a dar ciertas capacidades, buenas unas y malas otras.
 
@@ -424,6 +444,16 @@ La placa les va a dar ciertas capacidades, buenas unas y malas otras.
 ## El cuestionario
 
 
+
+Tras las placas les explicará sus funciones principales, hacer las encuestas. Les entregará una carpeta con varios cuestionarios en papel. Los papeles están unidos por unos hierros retorcidos que evitan que se separen que Wilbuck ha inventado para gestionar toda la documentación que mueven en el almacén.
+
+> Seguro que tienes alguna listilla en tu mesa, así que si te dice que son clips, diles que grapas y si dicen grapas, diles clips. Marca tu territorio y demuéstrales quien manda. No dejes que se te suban a las barbas, sobre todo si eres una enana.
+
+XXX
+
+Wilbuck está entusiasmado con sus nuevos agentes. Está convencido de que el proyecto va a avanzar mucho con ellos
+
+De hecho, está demasiado contento, cualquier otro empleado público de Ankh-Morpork, le valdría con trabajar lo mínimo y cobrar a fin de mes, pero Wilbuck parece muy contento. Parece casi casi como si disfrutara de su trabajo. Eso solo le pasa al Patricio y a los asesinos en serie que siempre saludan. Los que no saludan tampoco disfrutan de su trabajo.
 
 XXX
 
@@ -438,6 +468,14 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 XXX
 
 
+
+
+
+## A patearse los adoquines
+
+
+
+XXX
 
 Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 y  un d6, si se les ocurre alguna idea tremendamente buena.
 
@@ -692,6 +730,8 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 * Pasa desapercibida en todas partes.
 
 XXX
+
+Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su teoría es que su sistema es impirateable, ya que el agua dentro de las tuberías y no se pueden ver. Además por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
 
 
 

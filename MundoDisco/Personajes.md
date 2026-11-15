@@ -87,3 +87,5 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 * Pasa desapercibida en todas partes.
 
 XXX
+
+Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su teoría es que su sistema es «impirateable», ya que el agua dentro de las tuberías y no se pueden ver. Además por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.

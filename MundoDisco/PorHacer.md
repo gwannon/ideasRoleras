@@ -1,24 +1,16 @@
-## Agentes censales novatas
-
-\conc
-
-Es su primer día oficial de indulto, así que no deberían llegar tarde a la oficina de Wilbuck, de hecho sus habitaciones están al lado.
-
-Según les comenta Wilbuck, el censo oficial, en Ankh-Morpork hay 172 habitantes censadas incluyendo al Patricio. Está claro que el censo no es muy preciso, pero para Wilbuck, gerente municipal del censo, es todo un triunfo.
-
-Wilbuck les hará entrega de una placa metálica con el escudo de la ciudad y escrito «Agente censal». Sabe que las posibilidades de supervivencia de tus jugadoras, mejoran con esas placas. Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen mucho a las de la guardia de la ciudad y nadie quiere problemas con las chicas del Capitán Zanahoria.
-
-### El peso de la placa
-
-La placa les va a dar ciertas capacidades, buenas unas y malas otras.
-
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
-
-\sinc
-
 ## El cuestionario
 
 \conc
+
+Tras las placas les explicará sus funciones principales, hacer las encuestas. Les entregará una carpeta con varios cuestionarios en papel. Los papeles están unidos por unos hierros retorcidos que evitan que se separen que Wilbuck ha inventado para gestionar toda la documentación que mueven en el almacén.
+
+> Seguro que tienes alguna listilla en tu mesa, así que si te dice que son clips, diles que grapas y si dicen grapas, diles clips. Marca tu territorio y demuéstrales quien manda. No dejes que se te suban a las barbas, sobre todo si eres una enana.
+
+XXX
+
+Wilbuck está entusiasmado con sus nuevos agentes. Está convencido de que el proyecto va a avanzar mucho con ellos
+
+De hecho, está demasiado contento, cualquier otro empleado público de Ankh-Morpork, le valdría con trabajar lo mínimo y cobrar a fin de mes, pero Wilbuck parece muy contento. Parece casi casi como si disfrutara de su trabajo. Eso solo le pasa al Patricio y a los asesinos en serie que siempre saludan. Los que no saludan tampoco disfrutan de su trabajo.
 
 XXX
 
@@ -29,6 +21,16 @@ Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia
 * **¿Es usted terraesferista?** ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
 * **¿A qué diosas no rezas?** Es más rápido así.
 * XXX
+
+XXX
+
+\sp
+
+\sinc
+
+## A patearse los adoquines
+
+\conc
 
 XXX
 
