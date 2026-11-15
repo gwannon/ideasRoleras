@@ -14,13 +14,13 @@ Throughout the time the park has been open, power dynamics have remained very st
 
 All of that went out the window when the Devastator set a course for Modern World, its cannons primed and ready to fire.
 
-**August** siempre ha sido el hombre de paja de la empresa, **no tenía ni voz ni voto**, pero eso acaba de cambiar. Ahora es uno más en esta arriesgada aventura. Tiene capacidad de decidir como quiere actuar y su opinión debe ser tenida en cuenta por el tiempo esto del grupo. Por no hablar que tú habilidades ahora son de gran utilidad.
+**August** has always been the company’s figurehead, he had no real say in anything, but that has just changed. He is now a full participant in this risky task. He has the capacity to decide how he wants to act, and his opinion must be taken into account by the rest of the group. Not to mention that his skills are now of great value.
 
-**Yalp** Eres el más viejo y experimentado de los goblins y fueron tus ideas los que dieron origen a la tecnología que da vida al parque. Durante mucho tiempo has sido el líder del grupo, pero te haces mayor y tus ideas no son tan buenas. Los jóvenes vienen fuerte, pero todavía tienen mucho que aprender y tú vas a enseñárselo.
+**Yalp** you are the oldest and most experienced of the goblins, It was your ideas that gave rise to the technology that brings the park to life. For a long time, you have been the leader of the group, but you are getting older, and your ideas are no longer as good as they once were. The younger ones are coming on strong, but they still have much to learn—and you are going to be the one to teach them.
 
-**Snott** No eres un genio, pero eres el que se encarga de corregir los pequeños problemas de los que el resto no se preocupan. Sin ti nada funcionaria dos días seguidos, pero de eso no se da cuenta el resto. Quizás no sabes muy bien cómo funciona el cerebro eléctrico de un maniquí que le hace hacer las fantásticas cosas que hacen los maniquíes, pero has hecho que puedan funcionar durante días sin recargarse y eso también es importante. La verdad que un poco de reconocimiento sería muy agradable.
+**Snott** sYou’re not a genius, but you’re the one who takes care of fixing the little problems that no one else bothers with. Without you, nothing would keep running for two days in a row, though the others don’t seem to realize that. You might not fully grasp how the electronic brain inside a mannequin works—the thing that enables it to perform all those amazing feats, but you’ve managed to keep them running for days without needing a recharge, and that’s important, too. Honestly, a little recognition would be quite nice.
 
-**Dez** es el más joven de todos y por eso siempre se han **minusvalorado sus ideas**, pero su potencial es muy grande, una supernova a punto de estallar. Tal vez ahora sus ideas sean escuchas.
+**Dez** is the youngest of them all, and for that reason his ideas have always been undervalued, but his potential is immense, like a supernova on the verge of exploding. Perhaps now his ideas will be heard.
 
 > Although the characters are all male, this is merely a suggestion. You are free to adapt them however you like; in fact, ask your players to define their characters' pronouns when they choose their characters.
 
@@ -244,7 +244,7 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
 
 ### Dez
 
-Joven genio goblin al que nadie toma en serio, pero, seguramente, gracias a él se entrará en una nueva era tecnológica.
+A young goblin genius whom no one takes seriously, yet, in all likelihood, it is thanks to him that a new technological era will begin.
 
 \conc
 
