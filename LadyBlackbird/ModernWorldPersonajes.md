@@ -77,7 +77,7 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
 **CLAVES**
 * **Clave del seductor:** _Eres un ligón casi patológico que no puede perder una oportunidad de flirtear. Activa esta clave cuando flirtees incluso en los momentos menos oportunos y con las personas menos adecuadas. CANCELAR: cuando evitas tratar de seducir a un objetivo fácil y accesible._
 * **Clave de las manos largas:** _Te gusta robar por la emoción, el riesgo y la adrenalina. Activa esta clave cuando robes cosas pequeñas y valiosas. CANCELAR: No robar algo valioso y accesible o devolverlo._
-* **Clave del huérfano:** _Creciste en solo en las calles y no puedes dejar a niñes desvalides. Activa esta clave cuando ayudes a niñes. CANCELAR: Cuando ignoras una petición de ayuda._
+* **Clave del huérfano:** _Creciste en solo en las calles y no puedes dejar a niñes desvalides. Activa esta clave cuando ayudes a niñes. CANCELAR: Cuando ignoras una petición de ayuda de un menor._
 
 **SECRETOS**
 * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._

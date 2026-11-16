@@ -322,9 +322,9 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
   * 🞆 _Falsificar_
 
 **KEYS**
-* **Clave del seductor:** _Eres un ligón casi patológico que no puede perder una oportunidad de flirtear. Activa esta clave cuando flirtees incluso en los momentos menos oportunos y con las personas menos adecuadas. CANCELAR: cuando evitas tratar de seducir a un objetivo fácil y accesible._
-* **Clave de las manos largas:** _Te gusta robar por la emoción, el riesgo y la adrenalina. Activa esta clave cuando robes cosas pequeñas y valiosas. CANCELAR: No robar algo valioso y accesible o devolverlo._
-* **Clave del huérfano:** _Creciste en solo en las calles y no puedes dejar a niñes desvalides. Activa esta clave cuando ayudes a niñes. CANCELAR: Cuando ignoras una petición de ayuda._
+* **Seductor key:** _You are an almost pathological flirt who cannot pass up an opportunity to flirt. Activate this trait when you flirt—even at the most inopportune moments and with the most unsuitable people. CANCEL: when you avoid trying to seduce an easy and accessible target._
+* **Sticky-fingered key:** _You enjoy stealing for the thrill, the risk, and the adrenaline. Activate this key when you steal small, valuable items. CANCEL: Do not steal something valuable and accessible, or return it._
+* **Orphan key:** _You grew up alone on the streets, and you cannot abandon vulnerable children. Activate this key when you help children. CANCEL: When you ignore a request for help from a child._
 
 **SECRETS**
 * **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
@@ -389,9 +389,9 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞆 _Trampas_
 
 **KEYS**
-* **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCELAR: Cedas el mando a otros._
-* **Clave del sueño de toda una vida:** _El parque ha sido tu sueño desde que eras un pequeño goblin, pero tu deber es destruirlo. Activa está clave cuando destruyas elementos del parque sin necesidad, solo por asegurarte de que cae en malas manos. CANCELAR: Cuando tratas de salvar algo del parque._
-* **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCELAR: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
+* **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCEL: Cedas el mando a otros._
+* **Clave del sueño de toda una vida:** _El parque ha sido tu sueño desde que eras un pequeño goblin, pero tu deber es destruirlo. Activa está clave cuando destruyas elementos del parque sin necesidad, solo por asegurarte de que cae en malas manos. CANCEL: Cuando tratas de salvar algo del parque._
+* **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCEL: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
 
 **SECRETS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -462,9 +462,9 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
   * 🞆 _Confesor_
 
 **KEYS**
-* **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCELAR: Deja pasar la oportunidad de enredarte con tecnología.
-* **Clave de la deuda de vida:** _Yalp ha cuidado de ti desde que empezaste a trabajar en las grandes metalúrgicas, el único lugar donde daban trabajos a los goblins. Te ha sacado de muchos problemas y te ha protegido en lo más duro de las huelgas. Activa esta clave cuando sigas las órdenes de Yalp. CANCELAR: Al apoyar las nuevas, brillantes e innovadoras ideas de Dez._
-* **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCELAR: Descansar demasiado tiempo._
+* **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCEL: Deja pasar la oportunidad de enredarte con tecnología.
+* **Clave de la deuda de vida:** _Yalp ha cuidado de ti desde que empezaste a trabajar en las grandes metalúrgicas, el único lugar donde daban trabajos a los goblins. Te ha sacado de muchos problemas y te ha protegido en lo más duro de las huelgas. Activa esta clave cuando sigas las órdenes de Yalp. CANCEL: Al apoyar las nuevas, brillantes e innovadoras ideas de Dez._
+* **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCEL: Descansar demasiado tiempo._
 
 **SECRETS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
@@ -529,9 +529,9 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
   * 🞆 _History_
 
 **KEYS**
-* **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCELAR: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
-* **Clave de la ciencia:** _La ciencia es tu vida y nada se interpondrá entre ella y tú. Activa está clave cuando descubras algo nuevo con potencial científico. CANCELAR: Si no investigas algo de interés científico._
-* **Clave del maniquí:** _Los maniquíes, sobre todo los programados por ti, son cada vez más sofisticados y cada vez los sientes más humanos. Activa esta clave cuando los defiendas como si fueran personas reales. CANCELAR: Al sacrificarlos o destruirlos para llevar a cabo tus planes._
+* **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCEL: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
+* **Clave de la ciencia:** _La ciencia es tu vida y nada se interpondrá entre ella y tú. Activa está clave cuando descubras algo nuevo con potencial científico. CANCEL: Si no investigas algo de interés científico._
+* **Clave del maniquí:** _Los maniquíes, sobre todo los programados por ti, son cada vez más sofisticados y cada vez los sientes más humanos. Activa esta clave cuando los defiendas como si fueran personas reales. CANCEL: Al sacrificarlos o destruirlos para llevar a cabo tus planes._
 
 **SECRETS**
 * **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
