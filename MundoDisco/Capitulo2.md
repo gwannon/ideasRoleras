@@ -27,3 +27,9 @@ XXX
 \conc
 
 XXX
+
+Estos son los personajes que puedes meter si la historia decae:
+
+* **Rincewind:** Sea como sea el cameo, Rincewind estará corriendo mientras se agarra su sombrero con una mano y se sujeta la túnica con la otra. Y detrás de Rincewind vendrá algo malo, siempre.
+* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca. Y no te olvides de hacer los «Ook» de rigor.
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.

@@ -491,6 +491,11 @@ XXX
 
 XXX
 
+Entre los cameos que meter en tu historia tenemos:
+
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
+
 
 
 
@@ -530,6 +535,12 @@ XXX
 
 
 XXX
+
+Estos son los personajes que puedes meter si la historia decae:
+
+* **Rincewind:** Sea como sea el cameo, Rincewind estará corriendo mientras se agarra su sombrero con una mano y se sujeta la túnica con la otra. Y detrás de Rincewind vendrá algo malo, siempre.
+* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca. Y no te olvides de hacer los «Ook» de rigor.
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
 
 
 
@@ -597,6 +608,11 @@ Seguramente tu mesa no entienda nada y se quede que la ciencia sea disfraces rar
 
 XXX
 
+Estas son las apariciones estelares que puedes meter en este capítulo:
+
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
+
 
 
 
@@ -625,6 +641,11 @@ XXX
 
 XXX
 
+Si ves que la historia decae puede hacer unos cameos con:
+
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
+
 
 
 
@@ -652,6 +673,11 @@ XXX
 
 
 XXX
+
+Entre los cameos que pueden pasar tenemos:
+
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
 
 
 
@@ -705,8 +731,12 @@ XXX
 
 XXX
 
-> A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
+Es el capítulo final así que los cameos que puedes meter deben ser espectaculares:
 
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
+
+> A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
 
 
 
@@ -810,7 +840,11 @@ Trazcuatro es una pirata de los clacs que vive de robar la información que se e
 
 XXX
 
-Trazcuarto es muy buena con las manos y las herramientas y es capaz de hacer realidad cualquier tipo de mecanismo o artilugio con el equipo y el tiempo adecuado. No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea.
+Trazcuarto es muy buena con las manos y las herramientas y es capaz de hacer realidad cualquier tipo de mecanismo o artilugio con el equipo y el tiempo adecuado.
+
+
+
+No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea.
 
 Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su propuesta técnica es que su sistema es «impirateable», ya que el agua va dentro de las tuberías y no se pueden ver. Además, por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
 
@@ -872,7 +906,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus XXX páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 5 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 40 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 5 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 

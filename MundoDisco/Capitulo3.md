@@ -53,3 +53,8 @@ Seguramente tu mesa no entienda nada y se quede que la ciencia sea disfraces rar
 \conc
 
 XXX
+
+Estas son las apariciones estelares que puedes meter en este capítulo:
+
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.

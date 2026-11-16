@@ -143,3 +143,8 @@ XXX
 \conc
 
 XXX
+
+Entre los cameos que meter en tu historia tenemos:
+
+* **XXX:** XXX
+* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
