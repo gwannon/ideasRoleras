@@ -75,7 +75,7 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
   * 🞆 _Falsificar_
 
 **KEYS**
-* **Seductor key:** _You are an almost pathological flirt who cannot pass up an opportunity to flirt. Activate this trait when you flirt—even at the most inopportune moments and with the most unsuitable people. CANCEL: when you avoid trying to seduce an easy and accessible target._
+* **Seductor key:** _You are an almost pathological flirt who cannot pass up an opportunity to flirt. Activate this trait when you flirt, even at the most inopportune moments and with the most unsuitable people. CANCEL: when you avoid trying to seduce an easy and accessible target._
 * **Sticky-fingered key:** _You enjoy stealing for the thrill, the risk, and the adrenaline. Activate this key when you steal small, valuable items. CANCEL: Do not steal something valuable and accessible, or return it._
 * **Orphan key:** _You grew up alone on the streets, and you cannot abandon vulnerable children. Activate this key when you help children. CANCEL: When you ignore a request for help from a child._
 
@@ -94,9 +94,9 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
   * 🞏 ELECTROCUTED
   * 🞏 DEAD (PRESUMED)
 
-**ITEMS:** Ropas de muy buena calidad, periódico, monóculo, peine, cera de bigote, bastón-espada y una petaca de licor.
+**ITEMS:** Very high-quality clothing, a newspaper, a monocle, a comb, mustache wax, a sword cane, and a flask of liquor.
 
-**APPEARANCE:** Bien arreglado, bien peinado, bien vestido y sobre todo con un porte espectacular. Su tupido bigote siempre está perfectamente aceitado. Él sabe cómo hacer que todo lo que se pone reluzca.
+**APPEARANCE:** In fashion, well-styled hair, well-dressed, and, above all, possessing a striking appearance. His thick mustache is always perfectly waxed. He knows how to make everything he wears shine.
 
 \sp
 
