@@ -2,6 +2,8 @@
 
 # La gran campaña **de Mundodisco**
 
+**Una gran campaña para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de Gwanon**
+
 
 
 
@@ -483,6 +485,14 @@ XXX
 
 
 
+## Cameos y momentos estelares
+
+
+
+XXX
+
+
+
 
 
 # Capítulo 2. **La universidad invisible**
@@ -508,6 +518,14 @@ XXX
 
 
 ## Conociendo a Spandau
+
+
+
+XXX
+
+
+
+## Cameos y momentos estelares
 
 
 
@@ -573,6 +591,14 @@ Seguramente tu mesa no entienda nada y se quede que la ciencia sea disfraces rar
 
 
 
+## Cameos y momentos estelares
+
+
+
+XXX
+
+
+
 
 
 # Capítulo 4. **La caída del Patricio**
@@ -593,6 +619,14 @@ XXX
 
 
 
+## Cameos y momentos estelares
+
+
+
+XXX
+
+
+
 
 
 # Capítulo 5. **La Résistance**
@@ -606,6 +640,14 @@ XXX
 XXX
 
 ---
+
+
+
+XXX
+
+
+
+## Cameos y momentos estelares
 
 
 
@@ -647,11 +689,23 @@ XXX
 
 
 
-En mi opinión (repito en mi opinión de no experto en Terry Pratchett), lo peor de Terry Pratchett son sus finales. Son repentinos, raros, sin mucha lógica (dentro de la ilógica de Mundodisco) y personalmente muy insatisfactorios, parece que va a ser una cosa grandísima y de repente es un pequeño bluff y FIN. Así que he metido la opción de un final alternativo de cómo creo que el hombre del sombrero hubiera acabado esta historia. 
+En mi opinión (repito en mi opinión de no experto en Terry Pratchett), lo peor de Terry Pratchett son sus finales. Son repentinos, raros, sin mucha lógica (dentro de la ilógica de Mundodisco) y personalmente muy insatisfactorios, parece que va a ser una cosa grandísima y de repente es un pequeño bluff, vuelven por el camino largo donde ven elefantes y FIN. Así que he metido la opción de un final alternativo de cómo creo que el hombre del sombrero hubiera acabado esta historia. 
 
 > He pasado el test de «Terry Pratchett espacio-temporal» con nota así que puedo hacer esto, chincha rabiña.
 
 XXX
+
+
+
+
+
+## Cameos y momentos estelares
+
+
+
+XXX
+
+> A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
 
 
 
@@ -756,6 +810,8 @@ Trazcuatro es una pirata de los clacs que vive de robar la información que se e
 
 XXX
 
+Trazcuarto es muy buena con las manos y las herramientas y es capaz de hacer realidad cualquier tipo de mecanismo o artilugio con el equipo y el tiempo adecuado. No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea.
+
 Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su propuesta técnica es que su sistema es «impirateable», ya que el agua va dentro de las tuberías y no se pueden ver. Además, por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
 
 
@@ -812,7 +868,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 [![Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero](./images/pergenado.png 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')](https://bsky.app/profile/angelgropero.bsky.social 'Sello de Pergeñado con Inteligencia humana por Ángel G. Ropero')
 
-section
+
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 

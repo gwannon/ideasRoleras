@@ -180,6 +180,13 @@ h1:first-of-type {
   text-shadow: 0 0 10px black;
 }
 
+h1:first-of-type + p {
+  color: var(--color-secondary);
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: calc(var(--padding) * -2);
+}
+
 h1 strong {
   display: block;
   font-weight: 400;

@@ -29,3 +29,15 @@ En mi opinión (repito en mi opinión de no experto en Terry Pratchett), lo peor
 > He pasado el test de «Terry Pratchett espacio-temporal» con nota así que puedo hacer esto, chincha rabiña.
 
 XXX
+
+\sp
+
+\sinc
+
+## Cameos y momentos estelares
+
+\conc
+
+XXX
+
+> A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.

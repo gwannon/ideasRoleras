@@ -14,7 +14,7 @@ $md = preg_replace_callback("/\|([a-zA-Z0-9]*)\.md\|/", function($matches) {
   return $matches[0];
 }, $md);
 
-file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\sp", "\spsection", "\sc", "\sinc", "\conc", "&nbsp;"], "", $md));
+file_put_contents(__DIR__ . "/Acc".$argv[1].".md", str_replace(["\spsection", "\sp", "\sc", "\sinc", "\conc", "&nbsp;"], "", $md));
 
 $mkd->setContent($md);
 

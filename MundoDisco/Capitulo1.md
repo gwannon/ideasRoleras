@@ -135,3 +135,11 @@ XXX
 Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 y  un d6, si se les ocurre alguna idea tremendamente buena.
 
 XXX
+
+\sinc
+
+## Cameos y momentos estelares
+
+\conc
+
+XXX

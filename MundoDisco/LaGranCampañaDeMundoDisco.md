@@ -2,6 +2,8 @@
 
 # La gran campaña **de Mundodisco**
 
+**Una gran campaña para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de Gwanon**
+
 \conc
 
 \sp

@@ -45,3 +45,11 @@ XXX
 Les contará que conoce a una señora que estudia a los castores gigantes de Lancre y sus costumbres. Ella dice que hay que mantener la integridad científica del estudio y que el ojo del observador (no tengo muy claro que tendrá que ver con el juego de rol) puede contaminar los resultados del estudio. Por ello se pone un disfraz de castor gigante y se baña en sus orines cuando se acerca a ellos.
 
 Seguramente tu mesa no entienda nada y se quede que la ciencia sea disfraces raros y malos olores.
+
+\sinc
+
+## Cameos y momentos estelares
+
+\conc
+
+XXX
