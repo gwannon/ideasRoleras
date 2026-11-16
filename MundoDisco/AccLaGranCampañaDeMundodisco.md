@@ -451,25 +451,32 @@ Tras las placas les explicará sus funciones principales, hacer las encuestas. L
 
 > Seguro que tienes alguna listilla en tu mesa, así que si te dice que son clips, diles que grapas y si dicen grapas, diles clips. Marca tu territorio y demuéstrales quien manda. No dejes que se te suban a las barbas, sobre todo si eres una enana.
 
-XXX
+Les dirá que cada cuestionario tiene un nombre y una dirección y que deben hacerle las preguntas a esa persona y al final del día traerlas a las oficinas para procesarlas.
+
+Debe hacer lo que sea para conseguir las respuestas haciendo hincapié en como sea.
 
 Wilbuck está entusiasmado con sus nuevos agentes. Está convencido de que el proyecto va a avanzar mucho con ellos
 
-De hecho, está demasiado contento, cualquier otro empleado público de Ankh-Morpork, le valdría con trabajar lo mínimo y cobrar a fin de mes, pero Wilbuck parece muy contento. Parece casi casi como si disfrutara de su trabajo. Eso solo le pasa al Patricio y a los asesinos en serie que siempre saludan. Los que no saludan tampoco disfrutan de su trabajo.
+De hecho, está excesivamente contento, cualquier otro empleado público de Ankh-Morpork, le valdría con trabajar lo mínimo y cobrar a fin de mes, pero Wilbuck parece muy contento. Parece casi casi como si disfrutara de su trabajo. Eso solo le pasa al Patricio y a los asesinos en serie que siempre saludan. Los que no saludan tampoco disfrutan de su trabajo.
 
-XXX
+Wilbuck les da algunos consejos para las encuestas, cosas que ha aprendido con los años y tras perder muchas encuestadoras.
+
+– Chicas esto que se os olvide. No les dejéis nada, no volveréis a verlo. Vigilad vuestras espaldas, siempre van por la espalda. Y por último, vuestras vidas son más importantes que los datos censales, pero vamos que son cuatro papeles garabateados, meterlos en los bolsillos y salid corriendo.
 
 Además de nombre, profesión, fecha de nacimiento (Wilbuck sabe por experiencia que es mejor que preguntar la edad porque mucha gente no sabe que ambos datos tienen una relación matemática) y otros datos demográficos normales, les tocará hacer algunas de estas preguntas.
 
+* **¿Perros o gatos?** Las personas gato y las personas perro son muy diferentes.
+
+
+
 * **¿Ketchup o mostaza?** El Patricio no cree en la mayonesa como salsa para los perritos calientes ni para las patatas fritas.
-* **¿Perros o gatos?**
 * **¿Es usted terraesferista?** ¿Cree que el mundo es una esfera que vaga sola por el espacio sideral?
 * **¿A qué diosas no rezas?** Es más rápido así.
-* XXX
+* **¿Ha comprado algún producto de vendedor ambulante Y-Voy-A-La-Ruina Escurridizo? ¿Le estafo?** Es lo que Wilbuck llama pregunta de control, si eres una ankhmorporkiana de toda la vida Y-Voy-A-La-Ruina Escurridizo te ha vendido algo. Si respondes que no, puedes acabar la encuesta.
+* **¿Ha tenido experiencias más allá de la muerte?** Y lo más importante, ¿quién acudió a por su alma?
+* **¿Tiene algún objeto mágico?** Desde runas hasta pociones, pasando por piedras de río con agujeros, que dicen que son mágicas.
 
-XXX
-
-
+Con todo esto, les abrirá la puerta de su oficina y los mandará a la calle.
 
 
 
@@ -479,7 +486,7 @@ XXX
 
 XXX
 
-Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 y  un d6, si se les ocurre alguna idea tremendamente buena.
+Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 y un d6, si se les ocurre alguna idea tremendamente buena.
 
 XXX
 
