@@ -134,12 +134,12 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞊 _Negociar_
   + 🞊 _Intimidar_
   * 🞆 _Leyes_
-* Saboteador
-  * 🞊 _Explosivos_
-  * 🞊 _Planificar_
-  * 🞊 _Ocultar_
-  * 🞆 _Falsificar_
-  * 🞆 _Trampas_
+* Saboteur
+  * 🞊 _Explosives_
+  * 🞊 _Make plans_
+  * 🞊 _Hidding_
+  * 🞆 _Forgery_
+  * 🞆 _Traps_
 
 **KEYS**
 * **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCEL: Cedas el mando a otros._
