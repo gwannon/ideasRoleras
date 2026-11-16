@@ -186,17 +186,17 @@ Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila d
 * [ ] B. No
 * [ ] C. Si te vale, he robado uno en la Casa del libro
 
+¿Qué tiene de especial la MUERTE en Mundodisco?
+
+* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en las que el editor era literalmente imbécil.
+* [ ] B. Cria gusanos de seda para poder tejer su túnica.
+* [ ] C. Le gustan los donuts glaseados con virutas de colores. 
+
 ¿Has leído al menos un 25% de manual básico de este juego?
 
 * [ ] A. Sí
 * [ ] B. No
 * [ ] C. No, pero les he dicho a mis jugadoras que sí.
-
-¿Qué tiene de especial la MUERTE en Mundodisco?
-
-* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en que es editor era literalmente imbécil.
-* [ ] B. Cria gusanos de seda para poder tejer su túnica.
-* [ ] C. Le gustan los donuts glaseados con virutas de colores. 
 
 ¿El mundo es peor desde que Sir Terry Pratchett no está en él?
 
@@ -204,9 +204,9 @@ Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila d
 * [ ] B. No
 * [ ] C. Sigue vivo en una isla del Caribe con Elvis. Dejadme soñar.
 
-Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio-temporal».
+Cada respuesta A da 1 punto, el resto 0. Aceptamos como válida la C de la última pregunta, pero por hacerte feliz. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio-temporal».
 
-> Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tu titulación es verdadera.
+> Puedes marcar con un lápiz o boli tus respuestas y enseñárselas a tus jugadoras para que vean que has pasado el test y tu titulación es auténtica.
 
 \sinc
 

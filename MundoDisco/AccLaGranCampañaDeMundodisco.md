@@ -276,17 +276,17 @@ Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila d
 * [ ] B. No
 * [ ] C. Si te vale, he robado uno en la Casa del libro
 
+¿Qué tiene de especial la MUERTE en Mundodisco?
+
+* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en las que el editor era literalmente imbécil.
+* [ ] B. Cria gusanos de seda para poder tejer su túnica.
+* [ ] C. Le gustan los donuts glaseados con virutas de colores. 
+
 ¿Has leído al menos un 25% de manual básico de este juego?
 
 * [ ] A. Sí
 * [ ] B. No
 * [ ] C. No, pero les he dicho a mis jugadoras que sí.
-
-¿Qué tiene de especial la MUERTE en Mundodisco?
-
-* [ ] A. Habla en mayúsculas y sin guiones, excepto en algunas ediciones en que es editor era literalmente imbécil.
-* [ ] B. Cria gusanos de seda para poder tejer su túnica.
-* [ ] C. Le gustan los donuts glaseados con virutas de colores. 
 
 ¿El mundo es peor desde que Sir Terry Pratchett no está en él?
 
@@ -294,9 +294,9 @@ Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila d
 * [ ] B. No
 * [ ] C. Sigue vivo en una isla del Caribe con Elvis. Dejadme soñar.
 
-Cada respuesta A da 1 punto, el resto 0. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio-temporal».
+Cada respuesta A da 1 punto, el resto 0. Aceptamos como válida la C de la última pregunta, pero por hacerte feliz. Si consigues como mínimo un punto, has obtenido tu título de «Terry Pratchett espacio-temporal».
 
-> Puedes marcar con un lápiz o boli tus respuestas y enseñárselos a tus jugadoras para que vean que has pasado el test y tu titulación es verdadera.
+> Puedes marcar con un lápiz o boli tus respuestas y enseñárselas a tus jugadoras para que vean que has pasado el test y tu titulación es auténtica.
 
 
 
@@ -633,6 +633,29 @@ XXX
 
 
 
+## Final que haría Gwannon como DJ
+
+
+
+Mi historia, mi sugerencia de final, porque tú como directora puedes hacer lo que quieras. XXX
+
+XXX
+
+
+
+## Final que yo creo que haría Terry Practchett 
+
+
+
+En mi opinión (repito en mi opinión de no experto en Terry Pratchett), lo peor de Terry Pratchett son sus finales. Son repentinos, raros, sin mucha lógica (dentro de la ilógica de Mundodisco) y personalmente muy insatisfactorios, parece que va a ser una cosa grandísima y de repente es un pequeño bluff y FIN. Así que he metido la opción de un final alternativo de cómo creo que el hombre del sombrero hubiera acabado esta historia. 
+
+> He pasado el test de «Terry Pratchett espacio-temporal» con nota así que puedo hacer esto, chincha rabiña.
+
+XXX
+
+
+
+
 
 
 # Personajes
@@ -729,9 +752,11 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 * Le encantan los números y los simbólicos raros que se usan vez de números.
 * Pasa desapercibida en todas partes.
 
+Trazcuatro es una pirata de los clacs que vive de robar la información que se envía por ellos y venderla al mejor postor. Su nombre real es Herminia Jeet. Ella preferiría que la llamaran por su nombre de pirata, TRAZA, con la última A ligeramente ladeada dentro de un círculo como si fuera un símbolo de la Anarquía, pero sus compañeras piratas no lo pillaron y pensaron que era un 4 raro y empezaron a llamarla Trazcuatro. 
+
 XXX
 
-Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su teoría es que su sistema es impirateable, ya que el agua dentro de las tuberías y no se pueden ver. Además por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
+Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su propuesta técnica es que su sistema es «impirateable», ya que el agua va dentro de las tuberías y no se pueden ver. Además, por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
 
 
 
