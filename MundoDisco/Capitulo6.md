@@ -10,7 +10,7 @@ XXX
 
 \sinc
 
-## Final que haría Gwannon como DJ
+## Final que haría yo como DJ
 
 \conc
 
@@ -20,7 +20,7 @@ XXX
 
 \sinc
 
-## Final que yo creo que haría Terry Practchett 
+## Final que yo creo que haría Terry Pratchett 
 
 \conc
 
