@@ -51,7 +51,7 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
   * 🞊 _Casino_
   * 🞊 _Tirarse faroles_
   * 🞊 _Modales finos_   
-  * 🞆 _Bailar_
+  * 🞆 _Baile seductor_
   * 🞆 _Fingir acentos_
   * 🞆 _Preparar desayunos_
 * Atleta
@@ -60,7 +60,7 @@ Un timador especializado en ricos y poderosos, mitad caballero, mitad ladrón, q
   * 🞊 _Estoque_
   * 🞊 _Duelista_
   * 🞊 _Disparar_
-  * 🞆 _Pistola_
+  * 🞆 _Duelo de pistolas_
   * 🞆 _Acrobacias_
 * Ladrón
   * 🞊 _Robar bolsillos_

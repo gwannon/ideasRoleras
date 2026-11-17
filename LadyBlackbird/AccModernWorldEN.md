@@ -282,44 +282,44 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 
 **TRAITS & TAGS**
-* Caballero
-  * 🞊 _Etiqueta_
-  * 🞊 _Elegancia_
-  * 🞊 _Caballería_
-  * 🞊 _Baile_
-  * 🞊 _Gallardía_
-  * 🞊 _Proteger_
-  * 🞆 _Puñetazos_
-  * 🞆 _Valiente_
-* Truhan
-  * 🞊 _Adular_
-  * 🞊 _Flirtear_
-  * 🞊 _Charla de alcoba_
+* Gentleman
+  * 🞊 _Etiquette_
+  * 🞊 _Elegance_
+  * 🞊 _Chivalrous_
+  * 🞊 _Dance_
+  * 🞊 _Gallantry_
+  * 🞊 _Protect_
+  * 🞆 _Punches_
+  * 🞆 _Brave_
+* Rogue
+  * 🞊 _Flattery_
+  * 🞊 _Flirting_
+  * 🞊 _Pillow talk_
   * 🞊 _Casino_
-  * 🞊 _Tirarse faroles_
-  * 🞊 _Modales finos_   
-  * 🞆 _Bailar_
-  * 🞆 _Fingir acentos_
-  * 🞆 _Preparar desayunos_
-* Atleta
-  * 🞊 _Correr_
-  * 🞊 _Esgrima_
-  * 🞊 _Estoque_
-  * 🞊 _Duelista_
-  * 🞊 _Disparar_
-  * 🞆 _Pistola_
-  * 🞆 _Acrobacias_
-* Ladrón
-  * 🞊 _Robar bolsillos_
-  * 🞊 _Juegos de manos_
-  * 🞊 _Cerraduras_
-  * 🞊 _Escapismo_
-  * 🞊 _Distraer_
-  * 🞊 _Disfrazarse_
-  * 🞊 _Pasar inadvertido_
-  * 🞆 _Cerraduras de seguridad_
-  * 🞆 _Explosivos_
-  * 🞆 _Falsificar_
+  * 🞊 _Bluffing_
+  * 🞊 _Refined manners_
+  * 🞆 _Seductor dance_
+  * 🞆 _Faking accents_
+  * 🞆 _Preparing breakfast_
+* Athlete
+  * 🞊 _Run_
+  * 🞊 _Fencing_
+  * 🞊 _Rapier_
+  * 🞊 _Duelist_
+  * 🞊 _Shoot_
+  * 🞆 _Pistol duel_
+  * 🞆 _Acrobatics_
+* Thief
+  * 🞊 _Pickpocketing_
+  * 🞊 _Sleight of hand_
+  * 🞊 _Locks_
+  * 🞊 _Escapology_
+  * 🞊 _Distraction_
+  * 🞊 _Disguise_
+  * 🞊 _Blending in_
+  * 🞆 _Security locks_
+  * 🞆 _Explosives_
+  * 🞆 _Forgery_
 
 **KEYS**
 * **Seductor key:** _You are an almost pathological flirt who cannot pass up an opportunity to flirt. Activate this trait when you flirt, even at the most inopportune moments and with the most unsuitable people. CANCEL: when you avoid trying to seduce an easy and accessible target._
@@ -327,8 +327,8 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 * **Orphan key:** _You grew up alone on the streets, and you cannot abandon vulnerable children. Activate this key when you help children. CANCEL: When you ignore a request for help from a child._
 
 **SECRETS**
-* **Secreto del afortunado:** _Una vez por sesión puedes quedarte todos los dados de tu reserva cuando tengas éxito (aprovecha y úsalos todos)._
-* **Secreto del ladrón:** _Una vez por sesión, puedes repetir un fallo cuando te escondas, trates de abrir cerraduras, robar bolsillos y otras actividades de ladrón._
+* **Secret of the Lucky One:** _Once per session, you may keep all the dice from your pool when you succeed (take the opportunity to use them all)._
+* **Secret of the Thief:** _Once per session, you may reroll a failed check when hiding, open locks, picking pockets or performing typical activities of a thief._
 
 * **CONDITIONS**
   * 🞏 INJURED
@@ -381,12 +381,12 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞊 _Negociar_
   + 🞊 _Intimidar_
   * 🞆 _Leyes_
-* Saboteador
-  * 🞊 _Explosivos_
-  * 🞊 _Planificar_
-  * 🞊 _Ocultar_
-  * 🞆 _Falsificar_
-  * 🞆 _Trampas_
+* Saboteur
+  * 🞊 _Explosives_
+  * 🞊 _Make plans_
+  * 🞊 _Hidding_
+  * 🞆 _Forgery_
+  * 🞆 _Traps_
 
 **KEYS**
 * **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCEL: Cedas el mando a otros._
