@@ -310,7 +310,6 @@ Esta campaña es completamente «woke», así que, entre otras cosas, se ha usad
 
 Por otro lado, para fomentar que se cumpla el test de Bechdel (si no sabes lo que es, lo buscas), se ha creado una regla especial.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
 
 ```
 Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti mismo. Eso es lo que es el pecado.
@@ -319,13 +318,13 @@ Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti m
 
 
 
+[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+
 
 
 ## Cameos
 
 
-
-[![Cohen The Barbarian por Genchis](./images/cohen_the_barbarian_by_genchis.jpg "Cohen The Barbarian por Genchis")](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228 "Cohen The Barbarian por Genchis")
 
 Dicen las esta-listicas que si te paras en un lugar el suficiente tiempo, el famoso Cohen, el bárbaro ejeño, aparecerá y te robará el caballo. Es decir, las probabilidades de que tus jugadoras se encuentren con personajes famosos de Mundodisco son altas.
 
@@ -334,6 +333,20 @@ Todo lo anterior no es más que una excusa para justificar la gran cantidad de c
 Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
+
+### La regla de Cohen el barbaro
+
+Si has dado un vistazo a los capítulos de la aventura, te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
+
+[![Cohen The Barbarian por Genchis](./images/cohen_the_barbarian_by_genchis.jpg "Cohen The Barbarian por Genchis")](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228 "Cohen The Barbarian por Genchis")
+
+Si eres olvidadiza y no te vas a acordar de sacar cameos, te doy un truco muy divertido. Ponte un cuenta atrás de entre 45 y 90 minutos con alguna melodía tremendamente chorra.
+
+
+
+Cada vez que suene esa melodía, no importa lo que pase aparecerá Cohen el bárbaro y hará algo. Siempre Cohen el bárbaro, hasta que tu mesa esté entrenada como los perros de Pavlov y la campanita.
+
+Cohen matará a alguien, robará a alguien, escapará de alguien o simplemente estaba dando un agradable paseo y les ofrecerá caramelos de los enanos, la versión en Mundodisco de los caramelos de la Pilarica.
 
 
 
@@ -763,7 +776,7 @@ Es el capítulo final así que los cameos que puedes meter deben ser espectacula
 * **XXX:** XXX
 * **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
 
-> A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
+
 
 
 
