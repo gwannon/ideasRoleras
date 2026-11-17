@@ -242,3 +242,16 @@ Todo lo anterior no es más que una excusa para justificar la gran cantidad de c
 Y con esto quiero decir que va a haber cameos, muchos cameos y cada dos por tres saldrán personajes famosos de los libros.
 
 > Al final de cada escena habrá una sección con posibles cameos de personajes famosos que pueden a parecer en ese momento de la campaña. Vendrán con ejemplos de ayudas que puede ofrecer o de obstáculos que poner a tus jugadoras.
+
+### La regla de Cohen el barbaro
+
+Si has dado un vistazo a los capítulos de la aventura, te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
+
+Si eres olvidadiza y no te vas a acordar de sacar cameos, te doy un truco muy divertido. Ponte un cuenta atrás de entre 45 y 90 minutos con alguna melodía tremendamente chorra.
+
+Cada vez que suene esa melodía, no importa lo que pase aparecerá Cohen el bárbaro y hará algo. Siempre Cohen el bárbaro, hasta que tu mesa esté entrenada como los perros de Pavlov y la campanita.
+
+Cohen matará a alguien, robará a alguien, escapará de alguien o simplemente estaba dando un agradable paseo y les ofrecerá caramelos de los enanos, la versión en Mundodisco de los caramelos de la Pilarica.
+
+
+A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
