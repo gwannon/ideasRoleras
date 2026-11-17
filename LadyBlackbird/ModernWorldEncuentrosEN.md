@@ -13,7 +13,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
 |4|**El oráculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
 |5|**Maletas abandonadas:** Los visitantes han abandonado sus pesadas maletas al salir huyendo. Si se pierde tiempo revisándolas, puede haber cualquier cosa y algunas pueden ser útiles.|
-|6|**Fuerzas de asalto:** Una lanzadera de asalto del Devastador se ha adelantado y ha dejado una brigada de soldados de asalto para asegurar la zona.|
+|6|**Assault forces:** An assault ship from the Devastator has moved ahead and deployed a brigade of stormtroopers to secure the area.|
 
 \sc
 
@@ -23,7 +23,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
 |3|**El espectáculo del dios del trueno:** Una maniquí disfrazado de algún tipo de dios mitológico sube al edificio más alto y empieza a lanzar desde sus manos arcos voltaicos que caen en diferentes partes seguras de la zona. Si alguien o algo estuviera en esas partes seguras, la descarga que recibiría sería mortal.|
 |4|**Vuelo de reconocimiento:** Una lanzadera de reconocimiento del Devastador sobrevuela la zona para informar a alto mando. Si os detectan puede que vuestro plan de sabotaje se vaya al traste.|
-|5|**Silencio:** Por puro azar, en este preciso momento no hay nadie cerca, ni personas ni maniquíes. Estáis solos y en completo silencio.|
+|5|**Silence:** By pure chance, at this moment there is no one nearby, neither people nor mannequins. You are alone and in complete silence.|
 |6|**Los laureles de la victoria:** Ante la falta de visitantes, los maniquíes eléctricos empiezan a aglomerarse y a montar un desfile en honor a tus jugadores por sus logros en la batalla. Es difícil moverse entre la multitud que les vitorea y les lanza pétalos y guirnaldas.|
 
 \sp
@@ -31,7 +31,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |1d6|West World|
 |---|---|
 |1|**Jinete acrobático:** Un caballo eléctrico cruza por la calle principal al trote y encima suyo un jinete maniquí hace acrobacias muy peligrosas.|
-|2|**Plantas rodadoras:** Pasan un montón de plantas rodadoras del desierto.|
+|2|**Tumbleweeds:** Lots of desert tumbleweeds pass away.|
 |3|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para que busquen y maten a los «forajidos» que vienen del Devastador. O simplemente pillar sus pistolas eléctricas por lo que pudiera pasar.|
 |4|**Tónico de aceite de serpiente:** Un maniquí con levita negra y chistera se os acerca y os ofrece una botellita de cristal que dice que es tónico de aceite de serpiente. No para de repetir sus milagrosas virtudes. Lo extraño es que nadie recuerda haber ideado o programado estas funcionalidades nadie sabe que tiene la botellita en su interior.|
 |5|**Caballos eléctricos:** En un abrevadero hay 4 caballos eléctricos con la carga al máximo. Los visitantes los usan como forma de moverse por la zona y también son perfectos para que tiren de algo pesado.|

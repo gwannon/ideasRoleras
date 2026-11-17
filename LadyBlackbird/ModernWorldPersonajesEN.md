@@ -147,7 +147,7 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 * **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCEL: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
 
 **SECRETS**
-* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
 * **Secreto de la cadena de mando:** _Una vez por recuperación, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
 
 * **CONDITIONS**
@@ -220,7 +220,7 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
 * **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCEL: Descansar demasiado tiempo._
 
 **SECRETS**
-* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
 * **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
 
 * **CONDITIONS**
@@ -287,7 +287,7 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
 * **Clave del maniquí:** _Los maniquíes, sobre todo los programados por ti, son cada vez más sofisticados y cada vez los sientes más humanos. Activa esta clave cuando los defiendas como si fueran personas reales. CANCEL: Al sacrificarlos o destruirlos para llevar a cabo tus planes._
 
 **SECRETS**
-* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
 * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
 
 * **CONDITIONS**

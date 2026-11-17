@@ -178,7 +178,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
 |4|**El oráculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
 |5|**Maletas abandonadas:** Los visitantes han abandonado sus pesadas maletas al salir huyendo. Si se pierde tiempo revisándolas, puede haber cualquier cosa y algunas pueden ser útiles.|
-|6|**Fuerzas de asalto:** Una lanzadera de asalto del Devastador se ha adelantado y ha dejado una brigada de soldados de asalto para asegurar la zona.|
+|6|**Assault forces:** An assault ship from the Devastator has moved ahead and deployed a brigade of stormtroopers to secure the area.|
 
 
 
@@ -188,7 +188,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
 |3|**El espectáculo del dios del trueno:** Una maniquí disfrazado de algún tipo de dios mitológico sube al edificio más alto y empieza a lanzar desde sus manos arcos voltaicos que caen en diferentes partes seguras de la zona. Si alguien o algo estuviera en esas partes seguras, la descarga que recibiría sería mortal.|
 |4|**Vuelo de reconocimiento:** Una lanzadera de reconocimiento del Devastador sobrevuela la zona para informar a alto mando. Si os detectan puede que vuestro plan de sabotaje se vaya al traste.|
-|5|**Silencio:** Por puro azar, en este preciso momento no hay nadie cerca, ni personas ni maniquíes. Estáis solos y en completo silencio.|
+|5|**Silence:** By pure chance, at this moment there is no one nearby, neither people nor mannequins. You are alone and in complete silence.|
 |6|**Los laureles de la victoria:** Ante la falta de visitantes, los maniquíes eléctricos empiezan a aglomerarse y a montar un desfile en honor a tus jugadores por sus logros en la batalla. Es difícil moverse entre la multitud que les vitorea y les lanza pétalos y guirnaldas.|
 
 
@@ -196,7 +196,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |1d6|West World|
 |---|---|
 |1|**Jinete acrobático:** Un caballo eléctrico cruza por la calle principal al trote y encima suyo un jinete maniquí hace acrobacias muy peligrosas.|
-|2|**Plantas rodadoras:** Pasan un montón de plantas rodadoras del desierto.|
+|2|**Tumbleweeds:** Lots of desert tumbleweeds pass away.|
 |3|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para que busquen y maten a los «forajidos» que vienen del Devastador. O simplemente pillar sus pistolas eléctricas por lo que pudiera pasar.|
 |4|**Tónico de aceite de serpiente:** Un maniquí con levita negra y chistera se os acerca y os ofrece una botellita de cristal que dice que es tónico de aceite de serpiente. No para de repetir sus milagrosas virtudes. Lo extraño es que nadie recuerda haber ideado o programado estas funcionalidades nadie sabe que tiene la botellita en su interior.|
 |5|**Caballos eléctricos:** En un abrevadero hay 4 caballos eléctricos con la carga al máximo. Los visitantes los usan como forma de moverse por la zona y también son perfectos para que tiren de algo pesado.|
@@ -265,7 +265,7 @@ All of that went out the window when the Devastator set a course for Modern Worl
 
 **Yalp** you are the oldest and most experienced of the goblins, It was your ideas that gave rise to the technology that brings the park to life. For a long time, you have been the leader of the group, but you are getting older, and your ideas are no longer as good as they once were. The younger ones are coming on strong, but they still have much to learn—and you are going to be the one to teach them.
 
-**Snott** sYou’re not a genius, but you’re the one who takes care of fixing the little problems that no one else bothers with. Without you, nothing would keep running for two days in a row, though the others don’t seem to realize that. You might not fully grasp how the electronic brain inside a mannequin works—the thing that enables it to perform all those amazing feats, but you’ve managed to keep them running for days without needing a recharge, and that’s important, too. Honestly, a little recognition would be quite nice.
+**Snott** You’re not a genius, but you’re the one who takes care of fixing the little problems that no one else bothers with. Without you, nothing would keep running for two days in a row, though the others don’t seem to realize that. You might not fully grasp how the electronic brain inside a mannequin works—the thing that enables it to perform all those amazing feats, but you’ve managed to keep them running for days without needing a recharge, and that’s important, too. Honestly, a little recognition would be quite nice.
 
 **Dez** is the youngest of them all, and for that reason his ideas have always been undervalued, but his potential is immense, like a supernova on the verge of exploding. Perhaps now his ideas will be heard.
 
@@ -394,7 +394,7 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 * **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCEL: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
 
 **SECRETS**
-* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
 * **Secreto de la cadena de mando:** _Una vez por recuperación, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
 
 * **CONDITIONS**
@@ -467,7 +467,7 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
 * **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCEL: Descansar demasiado tiempo._
 
 **SECRETS**
-* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
 * **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
 
 * **CONDITIONS**
@@ -534,7 +534,7 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
 * **Clave del maniquí:** _Los maniquíes, sobre todo los programados por ti, son cada vez más sofisticados y cada vez los sientes más humanos. Activa esta clave cuando los defiendas como si fueran personas reales. CANCEL: Al sacrificarlos o destruirlos para llevar a cabo tus planes._
 
 **SECRETS**
-* **Secreto del cambiaformas:** _Como goblin, puedes cambiar de forma, encogiendo, creciendo, engordando, adelgazando, o cambiando tu color de piel, a voluntad._
+* **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
 * **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
 
 * **CONDITIONS**
@@ -564,21 +564,21 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
 
 
 
-## License
+## Licencia
 
-Este documento está bajo una licencia Creative Commons Attribution Non-Commercial Share Alike 3.0. 
+This document has been developep under a Creative Commons Attribution Non-Commercial Share Alike 3.0 license. 
 
-[http://creativecommons.org/licenses/by-nc-sa/3.0/es/](http://creativecommons.org/licenses/by-nc-sa/3.0/es/)
+[https://creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Está basado en Lady Blackbird de John Harper.
+It is based on Lady Blackbird by John Harper.
 
 [https://ladyblackbird.org/](https://ladyblackbird.org/)
 
-El filete separador ornamentado pertenece a [kjpargeter](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm).
+The ornate separator line belongs to [kjpargeter](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm).
 
-Los personajes varios pertcencen a [macrovector](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm).
+The various characters belong to [macrovector](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm).
 
-Agradecimientos a [Naku de Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/) por su traducción al castellano que me ha ayudado mucho a crear esta aventura. Puedes bajarte su traducción al castellano de Lady Blackbird desde su [itch.io](https://rolerosnorepresentativos.itch.io/lady-blackbird-2022).
+Thanks to [Naku from Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/) for their Spanish translation, which was a great help in creating this adventure. You can download their Spanish translation of Lady Blackbird from their [itch.io](https://rolerosnorepresentativos.itch.io/lady-blackbird-2022) page.
 
 
 

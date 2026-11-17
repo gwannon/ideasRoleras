@@ -1,20 +1,20 @@
 \sinc
 
-## License
+## Licencia
 
-Este documento está bajo una licencia Creative Commons Attribution Non-Commercial Share Alike 3.0. 
+This document has been developep under a Creative Commons Attribution Non-Commercial Share Alike 3.0 license. 
 
-[http://creativecommons.org/licenses/by-nc-sa/3.0/es/](http://creativecommons.org/licenses/by-nc-sa/3.0/es/)
+[https://creativecommons.org/licenses/by-nc-sa/3.0/](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-Está basado en Lady Blackbird de John Harper.
+It is based on Lady Blackbird by John Harper.
 
 [https://ladyblackbird.org/](https://ladyblackbird.org/)
 
-El filete separador ornamentado pertenece a [kjpargeter](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm).
+The ornate separator line belongs to [kjpargeter](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm).
 
-Los personajes varios pertcencen a [macrovector](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm).
+The various characters belong to [macrovector](https://www.magnific.com/free-vector/steampunk-vintage-technology-icons-set-with-cartoon-characters-vehicles-isolated-vector-illustration_26760896.htm).
 
-Agradecimientos a [Naku de Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/) por su traducción al castellano que me ha ayudado mucho a crear esta aventura. Puedes bajarte su traducción al castellano de Lady Blackbird desde su [itch.io](https://rolerosnorepresentativos.itch.io/lady-blackbird-2022).
+Thanks to [Naku from Rolerøs No Representativøs](https://rolerosnorepresentativos.itch.io/) for their Spanish translation, which was a great help in creating this adventure. You can download their Spanish translation of Lady Blackbird from their [itch.io](https://rolerosnorepresentativos.itch.io/lady-blackbird-2022) page.
 
 &nbsp;
 
