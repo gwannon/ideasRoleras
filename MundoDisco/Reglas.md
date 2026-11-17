@@ -252,6 +252,3 @@ Si eres olvidadiza y no te vas a acordar de sacar cameos, te doy un truco muy di
 Cada vez que suene esa melodía, no importa lo que pase aparecerá Cohen el bárbaro y hará algo. Siempre Cohen el bárbaro, hasta que tu mesa esté entrenada como los perros de Pavlov y la campanita.
 
 Cohen matará a alguien, robará a alguien, escapará de alguien o simplemente estaba dando un agradable paseo y les ofrecerá caramelos de los enanos, la versión en Mundodisco de los caramelos de la Pilarica.
-
-
-A estas alturas te habrás dado cuenta de que siempre sale Cohen el bárbaro en todas las sugerencias de cameos. Eso es así porque, primero, ya decía Terry Pratchett que estadísticamente era muy probable y, segundo, sabemos que tener que fingir que no tienes dientes al hablar va a ser muy divertido y vas a quedar ridícula. Después de lo cabrona que habrás sido durante toda la ~~aventura~~ campaña, teníamos que darles alguna compensación a tus jugadoras y que hablen de tus imitaciones durante algunas semanas.
