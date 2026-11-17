@@ -9,10 +9,10 @@ As your players move through the park, carrying out their plan of destruction, a
 |1d6|Modern World|
 |---|---|
 |1|**Clean Your Boots, Sir?:** An electric mannequin insists on cleaning your shoies and won’t take no for an answer. It will follow the group until they let it clean their shoes.|
-|2|**Rezagados:** Los últimos rezagados de la evacuación esperan en tropel al último transporte que les llevará al espacio puerto. La gente está muy nerviosa y asustada.|
+|2|**Stragglers:** The final stragglers from the evacuation wait in a throng for the last transport that will take them to the spaceport. People are very nervous and frightened.|
 |3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
 |4|**El oráculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
-|5|**Maletas abandonadas:** Los visitantes han abandonado sus pesadas maletas al salir huyendo. Si se pierde tiempo revisándolas, puede haber cualquier cosa y algunas pueden ser útiles.|
+|5|**Abandoned suitcases:** Visitors have left their heavy suitcases behind as they fled. If you take the time to search them, you might find anything—and some items could prove useful.|
 |6|**Assault forces:** An assault ship from the Devastator has moved ahead and deployed a brigade of stormtroopers to secure the area.|
 
 \sc
@@ -66,7 +66,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |1|**Incomunicados:** El Devastador está interfiriendo en las comunicaciones y la torre del control se las ve y se las desea para hacer su trabajo.|
 |2|**Maletas perdidas:** Con las prisas por escapar la gente abandona sus equipajes en cualquier sitio. Hay un par de maletas que prometen cosas interesantes en un interior.|
 |3|**Motores gripados:** Una pequeña nave de servicio no puede despegar. Si no le ayudan y reparan sus motores, sus 3 tripulantes podrían salir heridos e incluso morir durante el desembarco de las tropas del Devastador.|
-|4|**Catering:** Os encontráis un carrito de catering de lujo abandonado para que los visitantes disfruten de sus delicados platos en el vuelo de vuelta.|
+|4|**Catering:** You find an abandoned luxury catering cart, intended for passengers to enjoy its delicate dishes on the return flight.|
 |5|**Explosiones:** Se oye una gran explosión a lo lejos, no sabéis si en propio espacio puerto o en otra zona del parque.|
 |6|**No se deja nadie atrás:** Parte del personal, los más fieles e incondicionales, no se quiere ir hasta que se vayan con ellos tus jugadores.|
 

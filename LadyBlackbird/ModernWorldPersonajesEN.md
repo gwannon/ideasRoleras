@@ -142,8 +142,8 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞆 _Traps_
 
 **KEYS**
-* **Clave del líder:** _Eres el líder no porque quieras sino porque debes. Activa está clave cuando tomes el mando y lideres al grupo. CANCEL: Cedas el mando a otros._
-* **Clave del sueño de toda una vida:** _El parque ha sido tu sueño desde que eras un pequeño goblin, pero tu deber es destruirlo. Activa está clave cuando destruyas elementos del parque sin necesidad, solo por asegurarte de que cae en malas manos. CANCEL: Cuando tratas de salvar algo del parque._
+* **Leader’s Key:** _You are the leader not because you want to be, but because you must be. Activate this key when you take command and lead the group. CANCEL: You cede command to others._
+* **Key to a Lifelong Dream:** _The park has been your dream since you were a little goblin, yet it is your duty to destroy it. Activate this key when you destroy elements of the park unnecessarily, simply to ensure it falls into the wrong hands. CANCEL: When you attempt to save something from the park._
 * **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCEL: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
 
 **SECRETS**
