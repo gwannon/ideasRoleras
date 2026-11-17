@@ -147,7 +147,7 @@ Para cada jugadora, deberás preparar una vecina de un edificio ruinoso del barr
 
 Y te vamos a poner otras 3 cosas graciosas que pueden pasar.
 
-* En realidad es **Wilbuck disfrazado**. Está tratando de ver cámo hacen su trabajo tus jugadoras, al fin y al cabo son expresidiarias, no son de fiar. Es el peor disfraz del mundo una mezcla entre tirolesa y monje budista. Se le caerá el bigote o la peluca falsa, las ropas le quedan grandes o pequeños, cambiará de acento cada poco, corregirá a la encuestadora, etc.
+* En realidad es **Wilbuck disfrazado**. Está tratando de ver cómo hacen su trabajo tus jugadoras, al fin y al cabo son expresidiarias, no son de fiar. Es el peor disfraz del mundo una mezcla entre tirolesa y monje budista. Se le caerá el bigote o la peluca falsa, las ropas le quedan grandes o pequeños, cambiará de acento cada poco, corregirá a la encuestadora, etc.
 * Es una **patocabeziloca**, una de las miles de creencias religiosas que hay en Ankh-Morpork. Creen que los patos son dioses y los llevan en la cabeza porque es el lugar más digno donde llevarlos. El pato no para de lanzar picotazos a todo lo que se mueve, así que con tu mano haz como si fuera un pico y no pares de moverlo delante de tu jugadora. Decir algo en contra del pato se considera un pecado, así que cuidado con lo que digan. 
 
 \sp
@@ -168,10 +168,14 @@ XXX
 
 \conc
 
-XXX
-
 Entre los cameos que meter en tu historia tenemos:
 
-* **Y-Voy-A-La-Ruina Escurridizo:** Puede estar en cualquier parte haciendo lo que sea, pero seguro que tratando de estafar a alguien. Si quieres sacarlo como alguna de las personas encuestadas o incluso vendiendo sus salchichas entre la gente del tribunal al principio del capítulo.
+* **Y-Voy-A-La-Ruina Escurridizo:** Y-Voy-A-La-Ruina Escurridizo es el hombre de negocios más emprendedoramente fracasado de Ankh-Morpork. Puede estar en cualquier parte haciendo lo que sea, pero seguro que tratando de estafar a alguien. Si quieres sacarlo como alguna de las personas encuestadas o incluso vendiendo sus salchichas entre la gente del tribunal al principio del capítulo.
+* **Capitán Zanahoria:** Alto, de pelo rojizo y con una constitución de hierro, obtenida gracias a sus largos años de trabajo en las minas enanas de sus padres. Este miembro de la guardia de la noche, puede estar simplemente de patrulla o desbaratando algún complot que busca sembrar el caos en la ciudad. Seguramente aparecerá, si tus jugadoras tienen algún problema con sus encuestadas, y tratará de solucionarlo de alguna manera tranquila y dialogante, lo cual nunca funciona.
+* **Cohen el bárbaro:** El caos, el pillaje y la destrucción siempre acompañan a este bárbaro ejeño, pero es uno de los atractivos turísticos de la ciudad y los visitantes siempre tratan de sacarse unas iconografías con él o que les robe algo. Si tienes monturas u otro medio de transporte, seguramente te lo robará.
+
+Aunque todavía no deberías necesitar momentos estelares, porque acabas de empezar la campaña y la gente debería estar deseando jugar, lo prometido es deuda. Aquí van algunos momentos estelares:
+
 * **XXX:** XXX
-* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
+* **XXX:** XXX
+* **XXX:** XXX
