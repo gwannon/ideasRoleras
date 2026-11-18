@@ -6,7 +6,7 @@ Toda buena campaña tiene que tener unas buenas PNJ. Unas némesis o unas aliada
 
 \conc
 
-Desafortunadamente, la encargada de seleccionar los PNJ estaba borracha el día del casting en que se buscaron personajes para esta campaña y, bueno, digamos que se hizo lo que pudo y realmente sin mucho interés.
+Desafortunadamente, la encargada de seleccionar los PNJ estaba borracha el día del casting en que se buscaron personajes para esta campaña y, bueno, digamos que se hizo lo que se pudo y, realmente, sin mucho interés.
 
 En serio, a quién se le ocurriría convertir a un estadista en el malo de una campaña. Es que no es ni un «estadista guion vampiro» o «estadista guion hombre guion lobo».
 

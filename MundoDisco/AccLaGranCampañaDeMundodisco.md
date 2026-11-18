@@ -503,7 +503,7 @@ Para cada jugadora, deberás preparar una vecina de un edificio ruinoso de Las S
 
 * Un troll muy grande, más grande que la puerta, con su gran ombligo lleno de pelusilla a la altura de la cara de tu jugadora, de manera que parece que está entrevistando a su tripa.
 * Es una vampira en pijama, pero con capa de vampiro que como es de día tiene mucho sueño y no puede salir a la puerta porque el sol le convertiría en cecinas. Lleva rodajas de pepino en los ojos y mucha grasa de cabra, será inmortal, pero las patitas de gallo hay que cuidarlas.
-* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apañatelas como puedas.  
+* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apañátelas como puedas.  
 
 Y te vamos a poner otras 3 cosas graciosas que añadir a esos personajes pueden pasar.
 
@@ -548,7 +548,7 @@ Entre los cameos que meter en tu historia tenemos:
 
 
 
-# Capítulo 2. **La universidad invisible**
+# Capítulo 2. **La Universidad Invisible**
 
 
 
@@ -578,17 +578,23 @@ XXX
 
 
 
+
+
 ## Cameos y momentos estelares
 
 
 
-XXX
+La Universidad Invisible es un lugar genial para tener momentos estelares, porque todo es posible. Rayos mágicos perdidos, maldiciones sin control y personajes muy extravagantes.
+
+* Un rayo mágico de quién sabe donde alcanza a tu jugadora. Desde ese momento puede leer las mentes, literalmente. Lo que la gente piensa aparece escrito en su frente (y con faltas de ortografía). Lo que no sabe, a no ser que se lo digan el resto, es que todo lo que está pensando también aparece en su frente.
+* Hay una cata ciega para el concurso del mejor vino de retrouvas. A los magos les encanta el vino de retrouvas, por eso de jugar con el «continuum» del tiempo y joderlo irremediablemente. Uno de los catadores oficiales esta ya de reseca de la borrachera que va a tener después de la cata y está indispuesto. Tu jugadora deberá participar, pero debe tener cuidado porque si se emborracha sin haber tenido antes la resaca puede romper el continuo espacio-temporal o pillar una diarrea muy grave. 
+* Un libro con lomos de hierro y cadenas rotas aparece aleteando contra tu jugadora y se cierra atrapando la cara de tu jugadora. Lo que haga a partir de ahora es cosa de tu jugadora, cierra los ojos y lee lo que ponga, los cierras, trata de quitárselo, las opciones son muchas. Sea como dale alguna ventaja temporal para que se mole, como volverse invisible, o flotar (que no volar). Hay jugadoras a las que les gusta el drama, así que también puedes tirar por ese camino. Quizás ahora le siga la mala suerte o atraiga la mala suerte a los demás, o tal vez no pueda volver a usar la S y «zolo pueda comunicarze con la zeta».
 
 Estos son los personajes que puedes meter si la historia decae:
 
-* **Rincewind:** Sea como sea el cameo, Rincewind estará corriendo mientras se agarra su sombrero con una mano y se sujeta la túnica con la otra. Y detrás de Rincewind vendrá algo malo, siempre.
-* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca. Y no te olvides de hacer los «Ook» de rigor.
-* **Cohen el bárbaro:** Si tienen monturas u otro medio de transporte, seguramente aparecerá y se lo robará.
+* **Rincewind:** Sea como sea el cameo, Rincewind estará corriendo mientras se agarra su sombrero con una mano y se sujeta la túnica con la otra. Y detrás del mago vendrá algo malo, siempre. Si quieres, que tus jugadoras dejen un lugar, ver a Rincewind pasar como una exhalación es la mejor manera.
+* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca dejando libros en los estantes más altos. Y no te olvides de hacer los «Ook» de rigor.
+* **Cohen el bárbaro:** El bárbaro no suele acercarse a la magia, pero nada impide que se haya metido una gesta menor de matar ratas en las cloacas por dinero, se haya perdido y haya salido por los desagües de la Universidad Invisible. Quizás salude y se vuelva a bajar a las alcantarillas o quizás robe algo cercano, brillante y/o que parezca de valor.
 
 
 
@@ -714,6 +720,10 @@ XXX
 
 XXX
 
+Otra opción para acabar con los almacenes de datos es sindicar a los diablillos. Tan fácil como explicarles que lo que pone en sus pactos infernales de servicio que firmaron con Wilbuck, más conocido como convenio colectivo, pone muchas cosas y algunas de ellas no se las han estado dando. De ahí a la huelga hay muy poco.
+
+XXX
+
 
 
 ## Cameos y momentos estelares
@@ -802,7 +812,7 @@ Toda buena campaña tiene que tener unas buenas PNJ. Unas némesis o unas aliada
 
 
 
-Desafortunadamente, la encargada de seleccionar los PNJ estaba borracha el día del casting en que se buscaron personajes para esta campaña y, bueno, digamos que se hizo lo que pudo y realmente sin mucho interés.
+Desafortunadamente, la encargada de seleccionar los PNJ estaba borracha el día del casting en que se buscaron personajes para esta campaña y, bueno, digamos que se hizo lo que se pudo y, realmente, sin mucho interés.
 
 En serio, a quién se le ocurriría convertir a un estadista en el malo de una campaña. Es que no es ni un «estadista guion vampiro» o «estadista guion hombre guion lobo».
 
@@ -962,7 +972,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus 42 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 43 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 

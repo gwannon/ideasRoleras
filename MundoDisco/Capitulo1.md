@@ -143,7 +143,7 @@ Para cada jugadora, deberás preparar una vecina de un edificio ruinoso de Las S
 
 * Un troll muy grande, más grande que la puerta, con su gran ombligo lleno de pelusilla a la altura de la cara de tu jugadora, de manera que parece que está entrevistando a su tripa.
 * Es una vampira en pijama, pero con capa de vampiro que como es de día tiene mucho sueño y no puede salir a la puerta porque el sol le convertiría en cecinas. Lleva rodajas de pepino en los ojos y mucha grasa de cabra, será inmortal, pero las patitas de gallo hay que cuidarlas.
-* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apañatelas como puedas.  
+* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apañátelas como puedas.  
 
 Y te vamos a poner otras 3 cosas graciosas que añadir a esos personajes pueden pasar.
 
