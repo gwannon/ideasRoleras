@@ -156,10 +156,9 @@ body > *:first-child,
 
 h1 {
   box-sizing: border-box;
-  font-family: "IM Fell English SC", serif;
+  font-family: "Lavishly Yours", cursive;
   font-weight: 400;
-  font-style: italic;
-  font-size: 2.8em;
+  font-size: 4.3em;
   line-height: 110%;
   text-align: center;
   margin: calc(var(--padding) * -1);
@@ -178,6 +177,8 @@ h1:first-of-type {
   background-size: 60% auto;
   font-size: 4.5em;
   text-shadow: 0 0 10px black;
+  font-family: "IM Fell English SC", serif;
+  font-style: italic;
 }
 
 h1:first-of-type + p {

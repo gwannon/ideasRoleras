@@ -30,8 +30,6 @@ En mi opinión (repito en mi opinión de no experto en Terry Pratchett), lo peor
 
 XXX
 
-\sp
-
 \sinc
 
 ## Cameos y momentos estelares
