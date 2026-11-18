@@ -44,7 +44,7 @@ Muy pocas han aceptado trabajar de encuestadora para reducir sus condenas o libr
 
 La cuestión es que las simpáticas gentes del Ankh-Morpork no llevan bien que una desconocida llame a su puerta para hacerles preguntas en nombre del Patricio y lo normal es que acabes sobre la superficie del Ankh con afilados utensilios de cocina clavados en tu espalda.
 
-Tras varios intentos frustrados en el barrio rojo de rellenar algunas encuestas, Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
+Tras varios intentos en Las Sombras (el barrio más antiguos, sucio y peligroso de Ankh-Morpork) frustrados de rellenar algunas encuestas, Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
 
 Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la tarea de guiarles por la universidad.
 
@@ -370,7 +370,7 @@ Y tras caer el mazo y oír culpable, simplemente mira a tus jugadoras y pregunta
 
 Estas escenas deberían ser en privado, para que cada jugadora sepa solo su historia y sus consecuencias. Qué luego después de la partida se las van a contar para molarse entre ellas, pero tú estás haciendo lo correcto, lo que un DJ serio y formal haría en estos casos. Ya habrá tiempo de llevarte por el camino.
 
-> Toca borrar la organización de la ficha y poner Gremio de presidiarias.
+> Toca borrar la organización de la ficha y poner Gremio de presidiarias. Recuerda que ya te avisamos que compraras gomas de borrar.
 
 Si ya estaban en la cárcel y eran parte del gremio de presidiarias, la jueza puede ser la directora de la junta de la condicional estampando el sello de «Rechazado» en su solicitud de libertad condicional.
 
@@ -392,7 +392,7 @@ Wilbuck continúa dirigiéndose a la jugadora:
 
 — Por cada mes de trabajo en la Agencia Central Censal, se le indultará un año de condena, además obtendrá pensión completa y un pequeño estipendio (no es lo que piensas, esto es un sueldo y tú pensabas en una filacteria de un liche). Solo tendrán que hacer preguntas a la gente y traerme las respuestas. — Mientras saca un montón de papeles, le da el ultimátum – Si estás interesada, firma o pon tu marca aquí.
 
-> Vuelve a borrar tu organización y escribe ahora Agencia Central del Censo
+> Vuelve a borrar tu organización y escribe ahora Agencia Central del Censo.
 
 Wilbuck hará que les siga a las oficinas de la Agencia Central del Censo, un asqueroso almacén en los muelles de la ciudad.
 
@@ -499,22 +499,22 @@ Con todo esto, les abrirá la puerta de su oficina y los mandará a la calle.
 
 Esta parte del capítulo es bastante sencilla de hacer, pero te va a exigir un gran trabajo, ya que vas a tener que ser graciosa tú sola. No va a haber nadie escribiéndote los chistes como hasta ahora. Siguiendo con las analogías, te vamos a quitar las ruedecitas de la bici y sí, te vas a meter una ostia monumental cuando tus jugadoras no se rían de tus gracietas, pero solo se aprende así, por las malas y mejor ahora que al final de la campaña.
 
-Para cada jugadora, deberás preparar una vecina de un edificio ruinoso del barrio rojo de Ankh-Morpork y enfrentarles a ellos. No somos tan malos, así que te vamos a dar 3 ideas de persona a la que vayan a encuestar. Para la cuarta jugadora tienes que inventártela tú.
+Para cada jugadora, deberás preparar una vecina de un edificio ruinoso de Las Sombras, el barrio más antiguos, sucio y peligroso de Ankh-Morpork, y enfrentarles a ellos. No somos tan malos, así que te vamos a dar 3 ideas de persona a la que vayan a encuestar. Para la cuarta jugadora tienes que inventártela tú.
 
-* XXX
-* XXX
-* XXX
+* Un troll muy grande, más grande que la puerta, con su gran ombligo lleno de pelusilla a la altura de la cara de tu jugadora, de manera que parece que está entrevistando a su tripa.
+* Es una vampira en pijama, pero con capa de vampiro que como es de día tiene mucho sueño y no puede salir a la puerta porque el sol le convertiría en cecinas. Lleva rodajas de pepino en los ojos y mucha grasa de cabra, será inmortal, pero las patitas de gallo hay que cuidarlas.
+* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apañatelas como puedas.  
 
-Y te vamos a poner otras 3 cosas graciosas que pueden pasar.
+Y te vamos a poner otras 3 cosas graciosas que añadir a esos personajes pueden pasar.
+
+* La persona que aparece en la puerta no conoce el idioma y **solo sabe responder «¿Y tú?»**. Puede parece que no, pero es importante que siempre lo digas en tono de pregunta.
+
+
 
 * En realidad es **Wilbuck disfrazado**. Está tratando de ver cómo hacen su trabajo tus jugadoras, al fin y al cabo son expresidiarias, no son de fiar. Es el peor disfraz del mundo una mezcla entre tirolesa y monje budista. Se le caerá el bigote o la peluca falsa, las ropas le quedan grandes o pequeñas, cambiará de acento cada poco, corregirá a la encuestadora, etc.
 * Es una **patocabeziloca**, una de las miles de creencias religiosas que hay en Ankh-Morpork. Creen que los patos son dioses y los llevan en la cabeza porque es el lugar más digno donde llevarlos. El pato no para de lanzar picotazos a todo lo que se mueve, así que con tu mano haz como si fuera un pico y no pares de moverlo delante de tu jugadora. Decir algo en contra del pato se considera un pecado, así que cuidado con lo que digan. 
 
-
-
-* No conoce el idioma y **solo sabe responder «¿Y tú?»**.
-
-No vamos a ser malos, hay una idea que puede ser tremendamente divertida de por sí. Cada entrevistador deberá pensar antes de llamar a la puerta unas preguntas extras. El reto es ser la que consiga ser más desternillante con sus preguntas. Recuerda que los «jajas» no solo deben venir de ti, también de tus jugadoras que deben dejarse lleva por el juego. 
+No vamos a ser malos, hay una idea que puede ser tremendamente divertida de por sí. Cada entrevistadora deberá pensar antes de llamar a la puerta unas preguntas extras. El reto es ser la que consiga ser más desternillante con sus preguntas. Recuerda que los «jajas» no solo deben venir de ti, también de tus jugadoras que deben dejarse lleva por el juego. 
 
 Otra opción de muchas risas es que Wilbuck, haya puesto la dirección postal de una jugadora entre las entrevistadas y cuando la encuestadora vaya a llamar a la puerta, se encuentre con otra jugadora que había aprovechado a ir al baño en su casa, porque estaba cerca y es una mujer de un solo trono. La jugadora encuestada no debería querer contestar, pero es su elección, si luego cogen esos datos y los usan contra ella es su problema.
 
@@ -530,20 +530,19 @@ Tus jugadoras se merecen un buen descanso y quizas unas cervezas enanas o vino d
 
 
 
+Aunque todavía no deberías necesitar momentos estelares, porque el primer momento estelar es la _campaña_ fingiendo ser la MUERTE y porque acabas de empezar y la gente debería estar deseando jugar, lo prometido es deuda. Aquí van algunos momentos estelares:
+
+
+
+* Una señora mayor algo ciega y sorda confunde a tu jugadora con su nieta. Tras decirle que está muy flaca, empieza darle tarteras con estofado, pasteles, sopa, caldo, etc. Puede compartirlo con sus compañeras y quedárselo para ella sola, pero desde luego va a ser la envidia de la oficina. Recuerda la máxima de Y-Voy-A-La-Ruina Escurridizo: La comida rica, si es gratis, esta más rica y si es robada, mucho más rica. ¡Buen provecho! 
+* Al llamar a una puerta, una mano (al final de un brazo que sale de detrás de la puerta, si no, sería raro ver una mano flotando sola, bueno n tan raro, digamos que), sexualmente atractiva para tu jugadora, hace un gesto con los dedos de que entre. Si acepta, hay fundido a negro y en rato volverá a su tarea con el pelo despeinado, la ropa arrugada y bastante en las nubes.
+* En la casa hay un fiestón tremendo, música, comida, bebida, puede ser desde una despedida de soltero de hasta un velatorio enano, pero sea como sea, te invitan y te lo pasas tremendo. Eso sí, sales varias horas más tarde muy borracha y seguramente con un ojo morado, un dedo roto  y/o tatuaje del que no sabes explicar su significado.  
+
 Entre los cameos que meter en tu historia tenemos:
 
 * **Y-Voy-A-La-Ruina Escurridizo:** Y-Voy-A-La-Ruina Escurridizo es el hombre de negocios más emprendedoramente fracasado de Ankh-Morpork. Puede estar en cualquier parte haciendo lo que sea, pero seguro que tratando de estafar a alguien. Si quieres sacarlo como alguna de las personas encuestadas o incluso vendiendo sus salchichas entre la gente del tribunal al principio del capítulo.
 * **Capitán Zanahoria:** Alto, de pelo rojizo y con una constitución de hierro, obtenida gracias a sus largos años de trabajo en las minas enanas de sus padres. Este miembro de la guardia de la noche, puede estar simplemente de patrulla o desbaratando algún complot que busca sembrar el caos en la ciudad. Seguramente aparecerá, si tus jugadoras tienen algún problema con sus encuestadas, y tratará de solucionarlo de alguna manera tranquila y dialogante, lo cual nunca funciona.
-
-
-
 * **Cohen el bárbaro:** El caos, el pillaje y la destrucción siempre acompañan a este bárbaro ejeño, pero es uno de los atractivos turísticos de la ciudad y los visitantes siempre tratan de sacarse unas iconografías con él o que les robe algo. Si tienes monturas u otro medio de transporte, seguramente te lo robará.
-
-Aunque todavía no deberías necesitar momentos estelares, porque acabas de empezar la campaña y la gente debería estar deseando jugar, lo prometido es deuda. Aquí van algunos momentos estelares:
-
-* **XXX:** XXX
-* **XXX:** XXX
-* **XXX:** XXX
 
 
 

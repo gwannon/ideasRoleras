@@ -44,7 +44,7 @@ Muy pocas han aceptado trabajar de encuestadora para reducir sus condenas o libr
 
 La cuestión es que las simpáticas gentes del Ankh-Morpork no llevan bien que una desconocida llame a su puerta para hacerles preguntas en nombre del Patricio y lo normal es que acabes sobre la superficie del Ankh con afilados utensilios de cocina clavados en tu espalda.
 
-Tras varios intentos frustrados en el barrio rojo de rellenar algunas encuestas, Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
+Tras varios intentos en Las Sombras (el barrio más antiguos, sucio y peligroso de Ankh-Morpork) frustrados de rellenar algunas encuestas, Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
 
 Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la tarea de guiarles por la universidad.
 

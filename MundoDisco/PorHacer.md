@@ -1,47 +1,11 @@
-
-## A patearse los adoquines
-
-\conc
-
-Esta parte del capítulo es bastante sencilla de hacer, pero te va a exigir un gran trabajo, ya que vas a tener que ser graciosa tú sola. No va a haber nadie escribiéndote los chistes como hasta ahora. Siguiendo con las analogías, te vamos a quitar las ruedecitas de la bici y sí, te vas a meter una ostia monumental cuando tus jugadoras no se rían de tus gracietas, pero solo se aprende así, por las malas y mejor ahora que al final de la campaña.
-
-Para cada jugadora, deberás preparar una vecina de un edificio ruinoso del barrio rojo de Ankh-Morpork y enfrentarles a ellos. No somos tan malos, así que te vamos a dar 3 ideas de persona a la que vayan a encuestar. Para la cuarta jugadora tienes que inventártela tú.
-
-* XXX
-* XXX
-* XXX
-
-Y te vamos a poner otras 3 cosas graciosas que pueden pasar.
-
-* En realidad es **Wilbuck disfrazado**. Está tratando de ver cómo hacen su trabajo tus jugadoras, al fin y al cabo son expresidiarias, no son de fiar. Es el peor disfraz del mundo una mezcla entre tirolesa y monje budista. Se le caerá el bigote o la peluca falsa, las ropas le quedan grandes o pequeños, cambiará de acento cada poco, corregirá a la encuestadora, etc.
-* Es una **patocabeziloca**, una de las miles de creencias religiosas que hay en Ankh-Morpork. Creen que los patos son dioses y los llevan en la cabeza porque es el lugar más digno donde llevarlos. El pato no para de lanzar picotazos a todo lo que se mueve, así que con tu mano haz como si fuera un pico y no pares de moverlo delante de tu jugadora. Decir algo en contra del pato se considera un pecado, así que cuidado con lo que digan. 
-
-\sp
-
-* No conoce el idioma y **solo sabe responder «¿Y tu?»**.
-
-No vamos a ser malos, hay una idea que puede ser tremendamente divertida de por sí. Cada entrevistador deberá pensar antes de llamar a la puerta unas preguntas extras. El reto es ser la que consiga ser más desternillante con sus preguntas. Recuerda que los «jajas» no solo deben venir de ti, también de tus jugadoras que deben dejarse lleva por el juego. 
-
-Otra opción de muchas risas es que Wilbuck, haya puesto la dirección postal de una jugadora y cuando vaya a llamar a la puerta se encuentre con el jugador que había aprovechado a ir al baño en su casa porque estaba cerca. La jugadora encuestada no debería querer contestar, pero es su elección, si luego cogen esos datos y los usan contra ella es su problema.
-
-> Por mucho que tus jugadoras se lo curren cualquier intento de hacer alguna encuesta es de un d4 aunque se les ocurre alguna idea tremendamente buena. El d6 será para el que hagan las preguntas más divertidas en caso de que quieran hacerlo.
+Trazcuatro es una pirata de los clacs que vive de robar la información que se envía por ellos y venderla al mejor postor. Su nombre real es Herminia Jeet. Ella preferiría que la llamaran por su nombre de pirata, TRAZA, con la última A ligeramente ladeada dentro de un círculo como si fuera un símbolo de la Anarquía, pero sus compañeras piratas no lo pillaron y pensaron que era un 4 raro y empezaron a llamarla Trazcuatro. 
 
 XXX
 
-\sinc
+Trazcuarto es muy buena con las manos y las herramientas y es capaz de hacer realidad cualquier tipo de mecanismo o artilugio con el equipo y el tiempo adecuado.
 
-## Cameos y momentos estelares
+\sp
 
-\conc
+No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea.
 
-Entre los cameos que meter en tu historia tenemos:
-
-* **Y-Voy-A-La-Ruina Escurridizo:** Y-Voy-A-La-Ruina Escurridizo es el hombre de negocios más emprendedoramente fracasado de Ankh-Morpork. Puede estar en cualquier parte haciendo lo que sea, pero seguro que tratando de estafar a alguien. Si quieres sacarlo como alguna de las personas encuestadas o incluso vendiendo sus salchichas entre la gente del tribunal al principio del capítulo.
-* **Capitán Zanahoria:** Alto, de pelo rojizo y con una constitución de hierro, obtenida gracias a sus largos años de trabajo en las minas enanas de sus padres. Este miembro de la guardia de la noche, puede estar simplemente de patrulla o desbaratando algún complot que busca sembrar el caos en la ciudad. Seguramente aparecerá, si tus jugadoras tienen algún problema con sus encuestadas, y tratará de solucionarlo de alguna manera tranquila y dialogante, lo cual nunca funciona.
-* **Cohen el bárbaro:** El caos, el pillaje y la destrucción siempre acompañan a este bárbaro ejeño, pero es uno de los atractivos turísticos de la ciudad y los visitantes siempre tratan de sacarse unas iconografías con él o que les robe algo. Si tienen monturas u otro medio de transporte, seguramente te lo robará.
-
-Aunque todavía no deberías necesitar momentos estelares, porque acabas de empezar la campaña y la gente debería estar deseando jugar, lo prometido es deuda. Aquí van algunos momentos estelares:
-
-* **XXX:** XXX
-* **XXX:** XXX
-* **XXX:** XXX
+Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su propuesta técnica es que su sistema es «impirateable», ya que el agua va dentro de las tuberías y no se pueden ver. Además, por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
