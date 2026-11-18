@@ -556,9 +556,21 @@ Entre los cameos que meter en tu historia tenemos:
 
 
 
+[![Magic school library interior por upklyak con-borde](./images/magic-school-library-interior.jpg "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
+
+
+
 XXX
 
 ---
+
+
+
+XXX
+
+
+
+## Entra Spandau
 
 
 
@@ -570,9 +582,35 @@ XXX
 
 
 
-## Conociendo a Spandau
+## ¿Qué son esos tubos llenos de bichos?
 
 
+
+XXX
+
+### Hex, el superhormiguero computacional
+
+XXX
+
+
+
+
+
+## Y por eso no hay que dejar comida cerca de HEX
+
+
+
+XXX
+
+
+
+## ¡¡¡Al abordaje!!!
+
+
+
+XXX
+
+### ¿Qué está buscando Trazcuatro?
 
 XXX
 
@@ -954,9 +992,11 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
 * [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 
+
+
+* [Magic school library interior](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm) por [upklyak](https://www.magnific.com/author/upklyak)
+
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
-
-
 
 
 
@@ -972,7 +1012,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus 43 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 44 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 

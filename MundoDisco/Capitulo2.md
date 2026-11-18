@@ -1,8 +1,20 @@
 \sinc
 
+[![Magic school library interior por upklyak con-borde](./images/magic-school-library-interior.jpg "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
+
+&nbsp;
+
 XXX
 
 ---
+
+\conc
+
+XXX
+
+\sinc
+
+## Entra Spandau
 
 \conc
 
@@ -14,9 +26,35 @@ XXX
 
 \sinc
 
-## Conociendo a Spandau
+## ¿Qué son esos tubos llenos de bichos?
 
 \conc
+
+XXX
+
+### Hex, el superhormiguero computacional
+
+XXX
+
+\sp
+
+\sinc
+
+## Y por eso no hay que dejar comida cerca de HEX
+
+\conc
+
+XXX
+
+\sinc
+
+## ¡¡¡Al abordaje!!!
+
+\conc
+
+XXX
+
+### ¿Qué está buscando Trazcuatro?
 
 XXX
 
