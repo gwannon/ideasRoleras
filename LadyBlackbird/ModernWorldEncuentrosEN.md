@@ -30,7 +30,7 @@ As your players move through the park, carrying out their plan of destruction, a
 
 |1d6|West World|
 |---|---|
-|1|**Jinete acrobático:** Un caballo eléctrico cruza por la calle principal al trote y encima suyo un jinete maniquí hace acrobacias muy peligrosas.|
+|1|**Acrobatic rider:** An electric horse trots along the main street, with a mannequin rider on its back performing highly dangerous stunts.|
 |2|**Tumbleweeds:** Lots of desert tumbleweeds pass away.|
 |3|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para que busquen y maten a los «forajidos» que vienen del Devastador. O simplemente pillar sus pistolas eléctricas por lo que pudiera pasar.|
 |4|**Tónico de aceite de serpiente:** Un maniquí con levita negra y chistera se os acerca y os ofrece una botellita de cristal que dice que es tónico de aceite de serpiente. No para de repetir sus milagrosas virtudes. Lo extraño es que nadie recuerda haber ideado o programado estas funcionalidades nadie sabe que tiene la botellita en su interior.|
@@ -44,7 +44,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |1|**Pillastres:** A veces hay polizones en las naves de los visitantes y estos se quedan en el parque hasta que les descubren y los devuelven a su casa. Os encontráis una pareja de esos pillastres saqueando los puestos de comida de la zona. Algo tendréis que hacer con ellos porque, si se quedan aquí, no saldrán bien parados.|
 |2|**Anillo de proposición:** Te tropiezas con una cajita de terciopelo rojo y caes de morros. Si lo abres encontrarás un anillo de proposición que alguien ha perdido durante la evacuación. En el interior está grabado «Mika & Lua». Seguramente alguien iba a pedir matrimonio a su pareja durante los fuegos artificiales.|
 |3|**Aliens:** Maniquíes eléctricos con caretas de seres extraterrestres inundan las calles. Hablan de manera incomprensible y no paran de mover y tocar todo. Es un espectáculo programado para divertir a los visitantes que se acaba de activar.|
-|4|**Atracción cerrada:** Un equipo de mantenimiento había cerrado una atracción y al ordenar evacuar el parque se han dejado todo su equipo allí. Puede que haya cosas interesantes o que tus jugadores puedan recuperar algo importante que habían perdido.|
+|4|**Closed attraction:** A maintenance crew had closed off an attraction, and when the order was given to evacuate the park, they left all their equipment behind. There might be some interesting items there, or perhaps your players could recover something important that they had previously lost.|
 |5|**Rickshaws:** Hay una cola de _rickshaws_ tirados por maniquíes eléctricos. Solo tienes que subirte y decirle a donde quieres ir para que el maniquí salga a toda velocidad.|
 |6|**Helio:** Un maniquí eléctrico con una gran cantidad de globos de helio deambula cerca. Normalmente, se los da gratis a los viandantes y enseguida tienen que volver a inflar, pero ahora no hay nadie que lo quiera y empieza tener problemas para mantenerse sujeto al suelo.|
 
