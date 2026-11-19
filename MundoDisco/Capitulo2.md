@@ -4,7 +4,7 @@
 
 &nbsp;
 
-XXX
+Empezar el censo en las peores calles de la ciudad, igual no es buena idea. Puede que si subimos el nivel intelectual de los encuestados (porque solo hay magos, masculino no-genérico) en la Universidad Invisible, la cosa vaya mejor. Con tus jugadoras (esta vez sí, plural femenino genérico) haciendo ese trabajo ya sabes la respuesta, será un puro desastre.
 
 ---
 
@@ -32,11 +32,11 @@ XXX
 
 XXX
 
+\sp
+
 ### Hex, el superhormiguero computacional
 
 XXX
-
-\sp
 
 \sinc
 
@@ -54,7 +54,26 @@ XXX
 
 XXX
 
+Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas lineas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
+
+Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
+
+XXX
+
 ### ¿Qué está buscando Trazcuatro?
+
+XXX
+\sp
+
+\sinc
+
+## Algo huele a chamusquina en la oficina
+
+\conc
+
+XXX
+
+Esos pequeños detalles deberían empezar a hacer sospechar a tus jugadoras de Moreless no es limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia. Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quien es su némesis.
 
 XXX
 

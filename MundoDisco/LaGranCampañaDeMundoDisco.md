@@ -34,31 +34,60 @@ Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En 
 
 ## Sinopsis
 
-\conc
 
-
+### Capítulo 1. Dura lex, sed lex
 
 Lord Vetinari, el patricio de Ankh-Morpork, dentro de sus políticas de reinserción social de criminales, permite conmutar las penas de cárcel a cambio de trabajar de entrevistadoras del censo electoral municipal.
 
-Muy pocas han aceptado trabajar de encuestadora para reducir sus condenas o librarse de ir a la cárcel, pero siempre hay nuevas tontas que creen que es una opción aceptable y hoy esas tontas son tus jugadoras.
+Muy pocas han aceptado trabajar de encuestadoras para reducir sus condenas o librarse de ir a la cárcel, pero siempre hay nuevas tontas que creen que es una opción aceptable y hoy esas tontas son tus jugadoras.
 
 La cuestión es que las simpáticas gentes del Ankh-Morpork no llevan bien que una desconocida llame a su puerta para hacerles preguntas en nombre del Patricio y lo normal es que acabes sobre la superficie del Ankh con afilados utensilios de cocina clavados en tu espalda.
 
-Tras varios intentos en Las Sombras (el barrio más antiguos, sucio y peligroso de Ankh-Morpork) frustrados de rellenar algunas encuestas, Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
+### Capítulo 2. La Universidad Invisible
+
+Tras varios intentos frustrados de rellenar algunas encuestas en Las Sombras (el barrio más antiguos, sucio y peligroso de Ankh-Morpork), Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
 
 Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la tarea de guiarles por la universidad.
 
 XXX
 
-Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
-
-La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
-
 \sp
+
+### Capítulo 3. Luchadores por la democracia
+
+Si no hacen algo, el tema del censo se va al garete. Así que tus jugadoras deberán devanarse los sesos para conseguir hacer las entrevistas. hasta que finalmente descubren el poder del chisme.
+
+XXX
+
+Gracias a sus buenas ideas, el censo va muy bien, demasiado bien incluso. Según Willbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
+
+XXX
+
+### Capítulo 4. La caída del Patricio
+
+XXX
 
 Los almacenes de datos están gestionados por millones geniecillos ultrarrápidos que buscan los datos que Wilbuck requiere en segundos. Estos diablillos gastan muchísima agua para beber y asearse y eso está secando los manantiales de la ciudad. Además, comen muchísimos y defecan mucho más y sus purines acaban en el Ankh. Eso hace que en el Ankh huela aún peor y ya no se pueda ni pescar con un arpón andando sobre la superficie.
 
 XXX
+
+Cuando hayan descubierto todo el plan de Wilbuck, debería ser demasiado tarde para pararlo. Wilbuck sabe tanto que puede predecir cualquier cosa y con sus agentes censales, derrocará al Patricio y se autoproclamará el nuevo Patricio.
+
+XXX
+
+### Capítulo 5. La Résistance
+
+XXX
+
+La única manera de derrotarle es acabar con su fuente de poder, los edificios donde se guardan las encuestas y las estadísticas, o como Wilbuck llama, los almacenes de datos.
+
+XXX
+
+### Capítulo 6. El regreso del Patricio
+
+XXX
+
+\sp
 
 \sinc
 
@@ -192,7 +221,7 @@ Cuando consiga tener un censo lo suficientemente grande, podrá usar su magia po
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus 44 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 45 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 
