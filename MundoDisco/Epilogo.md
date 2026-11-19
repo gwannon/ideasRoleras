@@ -14,6 +14,7 @@ Quiero dar las gracias a todas estas fantásticas personas queme han ayudado a e
 
 * A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
 * A [Dani Moondark](https://mastorol.es/@danimoondark) por descubrirme a [HEX](https://discworld.fandom.com/wiki/Hex), el superordenador de la Universidad Invisible.
+* A [Ana I.](https://mastorol.es/@anai) y a [Seiðr](https://mastorol.es/@Illuminatus@mstdn.social) por descubrirme al [hombre pato](https://wiki.lspace.org/The_Duck_Man).
 
 \sinc
 
@@ -36,10 +37,10 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
 * [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
 * [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
-* [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 
 \sp
 
+* [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 * [Magic school library interior](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
