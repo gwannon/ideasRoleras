@@ -187,7 +187,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |1|**Bacanal:** Una pareja que estaba sola en los baños de vapor, no se ha enterado de la evacuación y al salir se han encontrado el parque vacío. Andan semidesnudos y desorientados.|
 |2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
 |3|**El espectáculo del dios del trueno:** Una maniquí disfrazado de algún tipo de dios mitológico sube al edificio más alto y empieza a lanzar desde sus manos arcos voltaicos que caen en diferentes partes seguras de la zona. Si alguien o algo estuviera en esas partes seguras, la descarga que recibiría sería mortal.|
-|4|**Vuelo de reconocimiento:** Una lanzadera de reconocimiento del Devastador sobrevuela la zona para informar a alto mando. Si os detectan puede que vuestro plan de sabotaje se vaya al traste.|
+|4|**Reconnaissance flight:** A spy shuttle from the Devastator flies over the area to report back to high command. If you are detected, your sabotage plan could fall apart.|
 |5|**Silence:** By pure chance, at this moment there is no one nearby, neither people nor mannequins. You are alone and in complete silence.|
 |6|**Los laureles de la victoria:** Ante la falta de visitantes, los maniquíes eléctricos empiezan a aglomerarse y a montar un desfile en honor a tus jugadores por sus logros en la batalla. Es difícil moverse entre la multitud que les vitorea y les lanza pétalos y guirnaldas.|
 
@@ -217,7 +217,7 @@ As your players move through the park, carrying out their plan of destruction, a
 
 |1d6|South World|
 |---|---|
-|1|**Cuatro ruedas:** En mitad de la floresta hay un vehículo todoterreno que habrá abandonado un equipo de mantenimiento que pueden usar para moverse más rápidamente por la zona.|
+|1|**Four wheeled:** In the middle of the forest, there is an off-road vehicle, likely left behind by a maintenance team, that can be used to move around the area more quickly.|
 |2|**Arenas movedizas:** Una cañería rota ha inundado una zona de arenisca y ha creado una especie de arenas movedizas que no se detectan a simple vista.|
 |3|**La leyenda del hombre mono:** Desde hace semanas se dice que un maniquí eléctrico perdido de otra zona está vagando por las selvas de South World. Solo lleva un taparrabos de los restos de sus ropajes y parece que se mueve por las copas de los árboles.|
 |4|**¡Quiero galletas!:** Una cacatúa eléctrica se posa en el hombro de un personaje y aunque la expulses, vuelve en un rato. Pide galletas todo el rato y repite tus frases en los momentos más inoportunos.|
@@ -228,7 +228,7 @@ As your players move through the park, carrying out their plan of destruction, a
 
 |1d6|Espacio puerto|
 |---|---|
-|1|**Incomunicados:** El Devastador está interfiriendo en las comunicaciones y la torre del control se las ve y se las desea para hacer su trabajo.|
+|1|**Cut off communication:** The Devastator is interfering with communications, and the control tower is struggling mightily to do its job.|
 |2|**Maletas perdidas:** Con las prisas por escapar la gente abandona sus equipajes en cualquier sitio. Hay un par de maletas que prometen cosas interesantes en un interior.|
 |3|**Motores gripados:** Una pequeña nave de servicio no puede despegar. Si no le ayudan y reparan sus motores, sus 3 tripulantes podrían salir heridos e incluso morir durante el desembarco de las tropas del Devastador.|
 |4|**Catering:** You find an abandoned luxury catering cart, intended for passengers to enjoy its delicate dishes on the return flight.|
