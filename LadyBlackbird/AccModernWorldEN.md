@@ -78,7 +78,9 @@ And as great finale there are dances accompanied by the screeching of countless 
 
 ### West World
 
-In the western section lies West World, a sort of futuristic frontier featuring cowboys mounted on android horses, cows equipped with solar panels from which you can «milk» electricity and electrical ray guns.
+In the western section lies West World, a sort of futuristic frontier featuring 
+
+cowboys mounted on android horses, cows equipped with solar panels from which you can «milk» electricity and electrical ray guns.
 
 Shootings at dawn, bank robberies, train heists and saloon brawls are the typical attractions in this area, not to mention the "Flight of the Thunderbird", the most mind-blowing attraction ever created by man (or goblins).
 
@@ -127,9 +129,9 @@ August will always be the main target of the Devastator’s assault troops. As e
 
 The only available plan to destroy their technology is to go to each zone and reach its control center. From each of these, you can deactivate all the mannequins and attractions in that zone, and then overload them, frying their circuits and destroying them.
 
+
+
 The final step would be to destroy each control center to ensure that the Empire can't recover their technology. 
-
-
 
 The simplest method would be to use explosives, but if they don’t have any explosive on hand, they can get creative.
 
