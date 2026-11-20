@@ -212,7 +212,7 @@ As your players move through the park, carrying out their plan of destruction, a
 |2|**Anillo de proposición:** Te tropiezas con una cajita de terciopelo rojo y caes de morros. Si lo abres encontrarás un anillo de proposición que alguien ha perdido durante la evacuación. En el interior está grabado «Mika & Lua». Seguramente alguien iba a pedir matrimonio a su pareja durante los fuegos artificiales.|
 |3|**Aliens:** Maniquíes eléctricos con caretas de seres extraterrestres inundan las calles. Hablan de manera incomprensible y no paran de mover y tocar todo. Es un espectáculo programado para divertir a los visitantes que se acaba de activar.|
 |4|**Closed attraction:** A maintenance crew had closed off an attraction, and when the order was given to evacuate the park, they left all their equipment behind. There might be some interesting items there, or perhaps your players could recover something important that they had previously lost.|
-|5|**Rickshaws:** Hay una cola de _rickshaws_ tirados por maniquíes eléctricos. Solo tienes que subirte y decirle a donde quieres ir para que el maniquí salga a toda velocidad.|
+|5|**Rickshaws:** There’s a parking of rickshaws pulled by electric mannequins. You just have to hop on and tell them where you want to go, and the mannequin will take off at full speed.|
 |6|**Helio:** Un maniquí eléctrico con una gran cantidad de globos de helio deambula cerca. Normalmente, se los da gratis a los viandantes y enseguida tienen que volver a inflar, pero ahora no hay nadie que lo quiera y empieza tener problemas para mantenerse sujeto al suelo.|
 
 
@@ -220,10 +220,10 @@ As your players move through the park, carrying out their plan of destruction, a
 |1d6|South World|
 |---|---|
 |1|**Four wheeled:** In the middle of the forest, there is an off-road vehicle, likely left behind by a maintenance team, that can be used to move around the area more quickly.|
-|2|**Arenas movedizas:** Una cañería rota ha inundado una zona de arenisca y ha creado una especie de arenas movedizas que no se detectan a simple vista.|
+|2|**Quicksand:** A broken pipe has flooded an area of ​​sandstone, creating a type of quicksand that is not detectable at single sight.|
 |3|**La leyenda del hombre mono:** Desde hace semanas se dice que un maniquí eléctrico perdido de otra zona está vagando por las selvas de South World. Solo lleva un taparrabos de los restos de sus ropajes y parece que se mueve por las copas de los árboles.|
-|4|**¡Quiero galletas!:** Una cacatúa eléctrica se posa en el hombro de un personaje y aunque la expulses, vuelve en un rato. Pide galletas todo el rato y repite tus frases en los momentos más inoportunos.|
-|5|**Volando en círculos:** Unos maniquíes eléctricos con forma de buitres empiezan a volar en círculos sobre tus personajes. No queda claro que puede significar, pero no parece bueno.|
+|4|**I want cookies!:** An electric cockatoo lands on a character’s shoulder. Even if you shoo it away, it returns after a while. It constantly asks for cookies and repeats your own phrases at the most inopportune moments.|
+|5|**Flying in circles:** Electric, vulture-shaped mannequins begin circling above your characters. It’s unclear what this might mean, but it doesn’t look good.|
 |6|**Estampida:** Algo ha hecho que el sistema de seguridad de la zona se haya activado y todos los animales salen corriendo despavoridos en dirección contraria del peligro que ha sido detectado para salvarse.|
 
 
