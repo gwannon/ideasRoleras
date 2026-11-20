@@ -161,9 +161,9 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞏 ELECTROCUTED
   * 🞏 DEAD (PRESUMED)
 
-**ITEMS:** Equipo de protección en el trabajo (guantes, botas, casco, gafas de soldar) y cinturón de herramientas con todo tipo de herramientas. Alguna de ellas podría usarse de arma contundente.
+**ITEMS:** Personal protective equipment (gloves, boots, hard hat, welding goggles) and a tool belt containing various tools. Some of these could be used as a blunt weapon.
 
-**APPEARANCE:** Un goblin ya mayor con varias cicatrices y quemaduras de haber trabajado en sitios muy duros en muy malas condiciones, lleva las típicas ropas de taller, peto vaquero, botas de trabajo, guantes, casco y gafas de soldar, duras y resistentes y muy prácticas.
+**APPEARANCE:** An elderly goblin, with scars and burns in their green skin from having worked in extremely dangerous sites under very poor conditions, wears typical workshop attire: denim overalls, work boots, gloves, a hard hat, and welding goggles—all rugged, durable, and highly practical.
 
 \sp
 
