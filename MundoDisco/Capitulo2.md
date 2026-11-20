@@ -10,13 +10,13 @@ Empezar el censo en las peores calles de la ciudad, igual no es buena idea. Pued
 
 \conc
 
-Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wilbuck os reúne en su ofician y os empieza a hablar de porcentajes, de tartas, de barras y muchas cosas que no entendéis. 
+Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wilbuck reúne a tu mesa en su ofician y les empieza a hablar de porcentajes, de tartas, de barras y de muchas cosas que no entendéis. 
 
-> Vaya chasco que se llevarán tus jugadoras que esperaan que las tartas fueran de chocolate y las barras de caramelo y en realidad son dibujos feos con círculos y rectángulos.
+> Vaya chasco que se llevarán tus jugadoras que esperan que las tartas sean de chocolate y las barras de caramelo y en realidad son dibujos feos con círculos y rectángulos de colores.
 
 En resumen que va a cambiar de objetivo (algo que no tiene nada que ver con asesinatos, desgraciadamente) y va a hacer encuestas en la Universidad Invisible, donde están las mentes más sabias de la ciudad o eso dice las vacas publicitarias que pusieron en las puertas de entrada de Ankh Morpork.
 
-Algún genio de las mercaderías decidió que era una idea genial montar unas vallas en los campos alrededor de la ciudad y alquilarlas para que los comerciantes pudieran poner mensajes ofreciendo sus bienes y servicios a cambio de dinero. El problema es que su ayudante escribió vaca en vez de valla.
+Algún genio de las mercaderías decidió que era una idea genial montar unas grandes vallas en los campos de alrededor de la ciudad y alquilarlas para que los comerciantes pudieran poner mensajes ofreciendo sus productos y servicios a cambio de dinero. El problema es que su ayudante escribió vaca en vez de valla.
 
 Ha conseguido un permiso especial del archicanciller Mustrum Ridcully el Marrón, que no entiende mucho de encuestas y censos, pero al que Wilbuck se lo ha vendido como una fuente de información interesante y de chismes que le puede ser muy útil para seguir en su cargo.
 
@@ -28,9 +28,11 @@ Con el salvoconducto del archicanciller y un sándwich de cordero, lechuga y tom
 
 \sinc
 
-## Entra Spandau
+## Entra Spandau Ville
 
 \conc
+
+Enseñando la placa rápidamente (con lo que el personal encargado del control del acceso a la Universidad se piensa que eres de la Guardia de la ciudad) y con el salvoconducto del archicanciller, no deberían tener ningún problema para entrar, pero siempre puedes usar el viejo «No sé Rick, parece falso» y tocarles las narices un rato a tus jugadoras.
 
 XXX
 

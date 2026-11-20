@@ -1,6 +1,8 @@
-## Entra Spandau
+## Entra Spandau Ville
 
 \conc
+
+Enseñando la placa rápidamente (con lo que el personal encargado del control del acceso a la Universidad se piensa que eres de la Guardia de la ciudad) y con el salvoconducto del archicanciller, no deberían tener ningún problema para entrar, pero siempre puedes usar el viejo «No sé Rick, parece falso» y tocarles las narices un rato a tus jugadoras.
 
 XXX
 
