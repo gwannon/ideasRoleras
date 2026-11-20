@@ -1,13 +1,3 @@
-XXX
-
----
-
-\conc
-
-XXX
-
-\sinc
-
 ## Entra Spandau
 
 \conc
@@ -30,13 +20,7 @@ XXX
 
 XXX
 
-\sp
-
-\sinc
-
-## Y por eso no hay que dejar comida cerca de HEX
-
-\conc
+### Y por eso no hay que dejar comida cerca de HEX
 
 XXX
 
@@ -48,6 +32,26 @@ XXX
 
 XXX
 
+Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
+
+\sp
+
+Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
+
+XXX
+
 ### ¿Qué está buscando Trazcuatro?
+
+XXX
+
+\sinc
+
+## Algo huele a chamusquina en la oficina
+
+\conc
+
+XXX
+
+Esos pequeños detalles deberían empezar a hacer sospechar a tus jugadoras de Moreless no es limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia. Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quien es su némesis.
 
 XXX

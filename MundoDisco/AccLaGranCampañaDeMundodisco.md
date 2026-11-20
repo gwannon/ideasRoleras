@@ -596,7 +596,21 @@ Empezar el censo en las peores calles de la ciudad, igual no es buena idea. Pued
 
 
 
-XXX
+Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wilbuck os reúne en su ofician y os empieza a hablar de porcentajes, de tartas, de barras y muchas cosas que no entendéis. 
+
+> Vaya chasco que se llevarán tus jugadoras que esperaan que las tartas fueran de chocolate y las barras de caramelo y en realidad son dibujos feos con círculos y rectángulos.
+
+En resumen que va a cambiar de objetivo (algo que no tiene nada que ver con asesinatos, desgraciadamente) y va a hacer encuestas en la Universidad Invisible, donde están las mentes más sabias de la ciudad o eso dice las vacas publicitarias que pusieron en las puertas de entrada de Ankh Morpork.
+
+Algún genio de las mercaderías decidió que era una idea genial montar unas vallas en los campos alrededor de la ciudad y alquilarlas para que los comerciantes pudieran poner mensajes ofreciendo sus bienes y servicios a cambio de dinero. El problema es que su ayudante escribió vaca en vez de valla.
+
+Ha conseguido un permiso especial del archicanciller Mustrum Ridcully el Marrón, que no entiende mucho de encuestas y censos, pero al que Wilbuck se lo ha vendido como una fuente de información interesante y de chismes que le puede ser muy útil para seguir en su cargo.
+
+> Este tipo de detalles deberían empezar a hacer saltar las alarmas a tus jugadoras de que Wilbuck no es tan neutro y plano como parece y que hace cosas un tanto cuestionables. Que esto es Mundodisco y lo éticamente correcto es muy difuso, pero con que alguna jugadora pregunte si eso no es un poco ilegal ya nos vale.
+
+
+
+Con el salvoconducto del archicanciller y un sándwich de cordero, lechuga y tomate (cuando el cordero es rico y magro y los tomates están maduros) Wilbuck les enviará a la Universidad Invisible a ver si aquí consiguen mejores resultados que en el intento anterior.
 
 
 
@@ -618,17 +632,11 @@ XXX
 
 XXX
 
-
-
 ### Hex, el superhormiguero computacional
 
 XXX
 
-
-
-## Y por eso no hay que dejar comida cerca de HEX
-
-
+### Y por eso no hay que dejar comida cerca de HEX
 
 XXX
 
@@ -642,6 +650,8 @@ XXX
 
 Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
 
+
+
 Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
 
 XXX
@@ -649,7 +659,6 @@ XXX
 ### ¿Qué está buscando Trazcuatro?
 
 XXX
-
 
 
 
