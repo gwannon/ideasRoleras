@@ -644,6 +644,8 @@ XXX
 
 
 
+
+
 ## ¡¡¡Al abordaje!!!
 
 
@@ -651,8 +653,6 @@ XXX
 XXX
 
 Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
-
-
 
 Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
 
@@ -686,7 +686,7 @@ La Universidad Invisible es un lugar genial para tener momentos estelares, porqu
 
 * Un rayo mágico de quién sabe donde alcanza a tu jugadora. Desde ese momento puede leer las mentes, literalmente. Lo que la gente piensa aparece escrito en su frente (y con faltas de ortografía). Lo que no sabe, a no ser que se lo digan el resto, es que todo lo que está pensando también aparece en su frente.
 * Hay una cata ciega para el concurso del mejor vino de retrouvas. A los magos les encanta el vino de retrouvas, por eso de jugar con el «continuum» del tiempo y joderlo irremediablemente. Uno de los catadores oficiales esta ya de reseca de la borrachera que va a tener después de la cata y está indispuesto. Tu jugadora deberá participar, pero debe tener cuidado porque si se emborracha sin haber tenido antes la resaca puede romper el continuo espacio-temporal o pillar una diarrea muy grave. 
-* Un libro con lomos de hierro y cadenas rotas aparece aleteando contra tu jugadora y se cierra atrapando la cara de tu jugadora. Lo que haga a partir de ahora es cosa de tu jugadora, cierra los ojos y lee lo que ponga, los cierras, trata de quitárselo, las opciones son muchas. Sea como dale alguna ventaja temporal para que se mole, como volverse invisible, o flotar (que no volar). Hay jugadoras a las que les gusta el drama, así que también puedes tirar por ese camino. Quizás ahora le siga la mala suerte o atraiga la mala suerte a los demás, o tal vez no pueda volver a usar la S y «zolo pueda comunicarze con la zeta».
+* Un libro con lomos de hierro y cadenas rotas aparece aleteando hacia tu jugadora y se cierra atrapando la cara de tu jugadora. Lo que haga a partir de ahora es cosa de tu jugadora, cierra los ojos o los abre y lee lo que hay escrito, los abre un poquito, pero sin mirar directamente, las opciones son muchas. Sea como sea, dale alguna ventaja temporal para que se mole, como volverse invisible (dejando un contorno borroso), o flotar (que no volar). Hay jugadoras a las que les gusta el drama, así que también puedes tirar por ese camino. Quizás ahora le siga la mala suerte o atraiga la mala suerte para los demás, o tal vez no pueda volver a usar la S y «zolo pueda comunicarze con la zeta».
 
 Estos son los personajes que puedes meter si la historia decae:
 
