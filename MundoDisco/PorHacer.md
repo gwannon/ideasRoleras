@@ -18,13 +18,20 @@ XXX
 
 XXX
 
+
 ### Hex, el superhormiguero computacional
+
+XXX
+
+> ¿Y esto qué es? ¿Un cameo o algo importante para la trama? Pues sinceramente las dos cosas, cuando me hablaron de este «personaje» me dije: Me viene genial para la historia y encima es un cameo. ¿Qué más puedo pedir?
 
 XXX
 
 ### Y por eso no hay que dejar comida cerca de HEX
 
 XXX
+
+\sp
 
 \sinc
 
@@ -35,8 +42,6 @@ XXX
 XXX
 
 Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
-
-\sp
 
 Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
 
