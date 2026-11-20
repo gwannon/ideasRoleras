@@ -2,7 +2,7 @@
 
 # La gran campaña **de Mundodisco**
 
-**Una gran campaña para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de Gwanon**
+**Una gran campaña para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de Gwannon**
 
 
 
@@ -59,7 +59,7 @@ Si no hacen algo, el tema del censo se va al garete. Así que tus jugadoras debe
 
 XXX
 
-Gracias a sus buenas ideas, el censo va muy bien, demasiado bien incluso. Según Willbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
+Gracias a sus buenas ideas, el censo va muy bien, demasiado bien incluso. Según Wilbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
 
 XXX
 
@@ -640,7 +640,7 @@ XXX
 
 XXX
 
-Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas lineas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
+Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
 
 Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
 
@@ -680,7 +680,7 @@ La Universidad Invisible es un lugar genial para tener momentos estelares, porqu
 Estos son los personajes que puedes meter si la historia decae:
 
 * **Rincewind:** Sea como sea el cameo, Rincewind estará corriendo mientras se agarra su sombrero con una mano y se sujeta la túnica con la otra. Y detrás del mago vendrá algo malo, siempre. Si quieres, que tus jugadoras dejen un lugar, ver a Rincewind pasar como una exhalación es la mejor manera.
-* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca dejando libros en los estantes más altos. Y no te olvides de hacer los «Ook» de rigor.
+* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o tal vez le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca dejando libros en los estantes más altos. Y no te olvides de hacer los «Ook» de rigor.
 * **Cohen el bárbaro:** El bárbaro no suele acercarse a la magia, pero nada impide que se haya metido una gesta menor de matar ratas en las cloacas por dinero, se haya perdido y haya salido por los desagües de la Universidad Invisible. Quizás salude y se vuelva a bajar a las alcantarillas o quizás robe algo cercano, brillante y/o que parezca de valor.
 
 

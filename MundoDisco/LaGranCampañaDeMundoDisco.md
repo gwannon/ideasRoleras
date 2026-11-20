@@ -2,7 +2,7 @@
 
 # La gran campaña **de Mundodisco**
 
-**Una gran campaña para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de Gwanon**
+**Una gran campaña para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de Gwannon**
 
 \conc
 
@@ -59,7 +59,7 @@ Si no hacen algo, el tema del censo se va al garete. Así que tus jugadoras debe
 
 XXX
 
-Gracias a sus buenas ideas, el censo va muy bien, demasiado bien incluso. Según Willbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
+Gracias a sus buenas ideas, el censo va muy bien, demasiado bien incluso. Según Wilbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
 
 XXX
 

@@ -602,3 +602,6 @@
 {"rule":"PHYSICIAN","sentence":"^\\QLos guardias, exactamente dos trolls de gran tamaño, se acercarán y se llevarán a tus presidiarias, pero de entre la multitud se levantará un hombre de unos 50 años, calvo y en mala forma física y se dirigirá a la mesa del juez o la junta de la condicional.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\Q¿Es usted terraesferista?\\E$"}
 {"rule":"CARPET","sentence":"^\\QLes enseñará un archivador en su pequeño despacho con unas pocas carpetas.\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QQuizás ahora le siga la mala suerte o atraiga la mala suerte a los demás, o tal vez no pueda volver a usar la S y «zolo pueda comunicarze con la zeta».\\E$"}
+{"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QY no te olvides de hacer los «Ook» de rigor.\\E$"}
+{"rule":"LA_ESTA","sentence":"^\\QCómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorporkianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.\\E$"}
