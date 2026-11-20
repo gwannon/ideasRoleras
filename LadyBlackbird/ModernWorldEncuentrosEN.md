@@ -61,14 +61,14 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sc
 
-|1d6|Espacio puerto|
+|1d6|Spaceport|
 |---|---|
 |1|**Cut off communication:** The Devastator is interfering with communications, and the control tower is struggling mightily to do its job.|
-|2|**Maletas perdidas:** Con las prisas por escapar la gente abandona sus equipajes en cualquier sitio. Hay un par de maletas que prometen cosas interesantes en un interior.|
-|3|**Motores gripados:** Una pequeña nave de servicio no puede despegar. Si no le ayudan y reparan sus motores, sus 3 tripulantes podrían salir heridos e incluso morir durante el desembarco de las tropas del Devastador.|
+|2|**Lost luggage:** In their haste to escape, people are leaving their luggage behind wherever they happen to be. There are a couple of suitcases that promise interesting things inside.|
+|3|**Seized engines:** A small service craft is unable to take off. If it does not receive assistance and repairs to its engines, its 3 crew members could be injured or even killed during the landing of the Devastator’s troops.|
 |4|**Catering:** You find an abandoned luxury catering cart, intended for passengers to enjoy its delicate dishes on the return flight.|
-|5|**Explosiones:** Se oye una gran explosión a lo lejos, no sabéis si en propio espacio puerto o en otra zona del parque.|
-|6|**No se deja nadie atrás:** Parte del personal, los más fieles e incondicionales, no se quiere ir hasta que se vayan con ellos tus jugadores.|
+|5|**Explosions:** A loud explosion is heard in the distance. You cannot tell whether it is at the spaceport itself or in another part of the park.|
+|6|**No one is left behind:** Some of the staff, the most loyal and devoted ones, refuse to leave until your players leave with them.|
 
 \sinc
 
