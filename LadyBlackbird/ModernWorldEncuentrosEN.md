@@ -50,14 +50,14 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sp
 
-|1d6|South World XXX|
+|1d6|South World|
 |---|---|
 |1|**Four wheeled:** In the middle of the forest, there is an off-road vehicle, likely left behind by a maintenance team, that can be used to move around the area more quickly.|
 |2|**Quicksand:** A broken pipe has flooded an area of ​​sandstone, creating a type of quicksand that is not detectable at single sight.|
-|3|**La leyenda del hombre mono:** Desde hace semanas se dice que un maniquí eléctrico perdido de otra zona está vagando por las selvas de South World. Solo lleva un taparrabos de los restos de sus ropajes y parece que se mueve por las copas de los árboles.|
+|3|**The Legend of the Ape-Man:** For weeks, there have been rumors that an electric mannequin, lost from another zone, is wandering through the jungles of South World. It wears only a loincloth fashioned from the remnants of its clothing and appears to move through the treetops.|
 |4|**I want cookies!:** An electric cockatoo lands on a character’s shoulder. Even if you shoo it away, it returns after a while. It constantly asks for cookies and repeats your own phrases at the most inopportune moments.|
 |5|**Flying in circles:** Electric, vulture-shaped mannequins begin circling above your characters. It’s unclear what this might mean, but it doesn’t look good.|
-|6|**Estampida:** Algo ha hecho que el sistema de seguridad de la zona se haya activado y todos los animales salen corriendo despavoridos en dirección contraria del peligro que ha sido detectado para salvarse.|
+|6|**Stampede:** Something has triggered the area’s security system, causing all the animals to flee in a blind panic, moving away from the detected danger in order to save themselves.|
 
 \sc
 
