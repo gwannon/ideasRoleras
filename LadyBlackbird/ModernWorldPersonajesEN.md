@@ -102,7 +102,7 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 \sinc
 
-### Yalp
+### Yalp XXX
 
 An old goblin who has dedicated his life to science. His problem is that he no longer possesses the energy of youth, and the ideas that were once innovative are beginning to grow old and obsolete.
 
@@ -169,7 +169,7 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 
 \sinc
 
-### Snot
+### Snot XXX
 
 A hardworking, steady, and resilient goblin mechanic who enjoys his job. He loves his work and has a passion for mechanics and electronics items.
 
@@ -242,7 +242,7 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
 
 \sinc
 
-### Dez
+### Dez XXX
 
 A young goblin genius whom no one takes seriously, yet, in all likelihood, it is thanks to him that a new technological era will begin.
 

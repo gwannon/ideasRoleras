@@ -10,14 +10,14 @@ As your players move through the park, carrying out their plan of destruction, a
 |---|---|
 |1|**Clean Your Boots, Sir?:** An electric mannequin insists on cleaning your shoies and won’t take no for an answer. It will follow the group until they let it clean their shoes.|
 |2|**Stragglers:** The final stragglers from the evacuation wait in a throng for the last transport that will take them to the spaceport. People are very nervous and frightened.|
-|3|**Robo-psicosis:** Ante la repentina desaparición de los visitantes, los maniquíes eléctricos han empezado a interactuar entre ellos entrando muchas veces en bucle, por ejemplo, no parando de saludarse o abriéndose mutuamente la puerta de una tienda.|
-|4|**El oráculo:** Hay un puesto de polos que tienen crípticas predicciones escritas en los palos. No os vendría mal parar unos minutos, saborear unos polos de vuestros sabores favoritos y conocer vuestra buenaventura.|
+|3|**Robo-psychosis:** Following the sudden disappearance of the visitors, the electric mannequins have begun interacting with one another, often falling into a loop, such as repeatedly greeting each other or continually opening a shop door for one another.|
+|4|**The Oracle:** There’s a ice pops stand where the sticks feature cryptic predictions. It wouldn’t hurt to stop for a few minutes, enjoy some ice pops in your favorite flavors, and discover what your fortune holds.|
 |5|**Abandoned suitcases:** Visitors have left their heavy suitcases behind as they fled. If you take the time to search them, you might find anything—and some items could prove useful.|
 |6|**Assault forces:** An assault ship from the Devastator has moved ahead and deployed a brigade of stormtroopers to secure the area.|
 
 \sc
 
-|1d6|North World|
+|1d6|North World  XXX|
 |---|---|
 |1|**Bacanal:** Una pareja que estaba sola en los baños de vapor, no se ha enterado de la evacuación y al salir se han encontrado el parque vacío. Andan semidesnudos y desorientados.|
 |2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
@@ -28,7 +28,7 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sp
 
-|1d6|West World|
+|1d6|West World XXX|
 |---|---|
 |1|**Acrobatic rider:** An electric horse trots along the main street, with a mannequin rider on its back performing highly dangerous stunts.|
 |2|**Tumbleweeds:** Lots of desert tumbleweeds pass away.|
@@ -39,7 +39,7 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sc
 
-|1d6|East World|
+|1d6|East World XXX|
 |---|---|
 |1|**Pillastres:** A veces hay polizones en las naves de los visitantes y estos se quedan en el parque hasta que les descubren y los devuelven a su casa. Os encontráis una pareja de esos pillastres saqueando los puestos de comida de la zona. Algo tendréis que hacer con ellos porque, si se quedan aquí, no saldrán bien parados.|
 |2|**Anillo de proposición:** Te tropiezas con una cajita de terciopelo rojo y caes de morros. Si lo abres encontrarás un anillo de proposición que alguien ha perdido durante la evacuación. En el interior está grabado «Mika & Lua». Seguramente alguien iba a pedir matrimonio a su pareja durante los fuegos artificiales.|
@@ -50,7 +50,7 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sp
 
-|1d6|South World|
+|1d6|South World XXX|
 |---|---|
 |1|**Four wheeled:** In the middle of the forest, there is an off-road vehicle, likely left behind by a maintenance team, that can be used to move around the area more quickly.|
 |2|**Quicksand:** A broken pipe has flooded an area of ​​sandstone, creating a type of quicksand that is not detectable at single sight.|
