@@ -600,7 +600,7 @@ Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wi
 
 > Vaya chasco que se llevarán tus jugadoras que esperan que las tartas sean de chocolate y las barras de caramelo y en realidad son dibujos feos con círculos y rectángulos de colores.
 
-En resumen que va a cambiar de objetivo (algo que no tiene nada que ver con asesinatos, desgraciadamente) y va a hacer encuestas en la Universidad Invisible, donde están las mentes más sabias de la ciudad o eso dice las vacas publicitarias que pusieron en las puertas de entrada de Ankh Morpork.
+En resumen, que va a cambiar de objetivo (algo que no tiene nada que ver con asesinatos, desgraciadamente) y va a hacer encuestas en la Universidad Invisible. Allí están las mentes más sabias de la ciudad o eso dice las vacas publicitarias que pusieron en las puertas de entrada de Ankh Morpork.
 
 Algún genio de las mercaderías decidió que era una idea genial montar unas grandes vallas en los campos de alrededor de la ciudad y alquilarlas para que los comerciantes pudieran poner mensajes ofreciendo sus productos y servicios a cambio de dinero. El problema es que su ayudante escribió vaca en vez de valla.
 
@@ -667,9 +667,19 @@ XXX
 
 XXX
 
-Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquear, porque pones «en jaque» al sistema) a HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
+Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
+
+Quieres calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
+
+> Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
+
+La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua. Además, es una forma de poner agua en las casas de la gente.
+
+> Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
 XXX
+
+
 
 
 
@@ -685,7 +695,7 @@ Esos pequeños detalles deberían empezar a hacer sospechar a tus jugadoras de M
 
 Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quién es su némesis.
 
-> Por cierto, si a una de tus jugadoras se le ocurre escribir un guión sobre sus aventuras en la universidad, titular los «Locas aventuras en la universidad» y vendérselo a productora de imágenes en movimiento, que se sepa que ha inventado el genero de cine de las comedias universitarias locas.
+> Por cierto, si a una de tus jugadoras se le ocurre escribir un guion sobre sus aventuras en la universidad, titular los «Locas aventuras en la universidad» y vendérselo a productora de imágenes en movimiento, que se sepa que ha inventado el género de cine de las comedias universitarias locas.
 
 
 
@@ -1086,7 +1096,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus 45 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 47 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 

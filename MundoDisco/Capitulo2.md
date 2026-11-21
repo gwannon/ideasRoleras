@@ -81,9 +81,19 @@ XXX
 
 XXX
 
-Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquear, porque pones «en jaque» al sistema) a HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
+Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
+
+Quieres calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
+
+> Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
+
+La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua. Además, es una forma de poner agua en las casas de la gente.
+
+> Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
 XXX
+
+\sp
 
 \sinc
 
