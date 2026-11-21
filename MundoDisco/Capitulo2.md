@@ -14,7 +14,7 @@ Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wi
 
 > Vaya chasco que se llevarán tus jugadoras que esperan que las tartas sean de chocolate y las barras de caramelo y en realidad son dibujos feos con círculos y rectángulos de colores.
 
-En resumen que va a cambiar de objetivo (algo que no tiene nada que ver con asesinatos, desgraciadamente) y va a hacer encuestas en la Universidad Invisible, donde están las mentes más sabias de la ciudad o eso dice las vacas publicitarias que pusieron en las puertas de entrada de Ankh Morpork.
+En resumen, que va a cambiar de objetivo (algo que no tiene nada que ver con asesinatos, desgraciadamente) y va a hacer encuestas en la Universidad Invisible. Allí están las mentes más sabias de la ciudad o eso dice las vacas publicitarias que pusieron en las puertas de entrada de Ankh Morpork.
 
 Algún genio de las mercaderías decidió que era una idea genial montar unas grandes vallas en los campos de alrededor de la ciudad y alquilarlas para que los comerciantes pudieran poner mensajes ofreciendo sus productos y servicios a cambio de dinero. El problema es que su ayudante escribió vaca en vez de valla.
 
@@ -71,7 +71,7 @@ XXX
 
 XXX
 
-Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios a la misma vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
+Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
 
 Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte. XXX
 
@@ -81,17 +81,25 @@ XXX
 
 XXX
 
+Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquear, porque pones «en jaque» al sistema) a HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
+
+XXX
+
 \sinc
 
 ## Algo huele a chamusquina en la oficina
 
 \conc
 
-XXX
-
-Esos pequeños detalles deberían empezar a hacer sospechar a tus jugadoras de Moreless no es limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia. Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quien es su némesis.
+Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, seguramente, han fracasado al intentar rellenar más encuestas, pero las cosas que cuenten de HEX y las ideas de Trazcuatro, le abrirán la mente a Wilbuck.
 
 XXX
+
+Esos pequeños detalles deberían empezar a hacer sospechar a tus jugadoras de Moreless no es limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia.
+
+Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quién es su némesis.
+
+> Por cierto, si a una de tus jugadoras se le ocurre escribir un guion sobre sus aventuras en la universidad, titular los «Locas aventuras en la universidad» y vendérselo a productora de imágenes en movimiento, que se sepa que ha inventado el género de cine de las comedias universitarias locas.
 
 \sp
 
