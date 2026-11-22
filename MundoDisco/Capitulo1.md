@@ -92,7 +92,7 @@ Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen
 
 La placa les va a dar ciertas capacidades, buenas unas y malas otras.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 \sinc
 

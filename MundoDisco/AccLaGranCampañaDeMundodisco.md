@@ -166,7 +166,7 @@ Por último, un practicante de la Esta-Listica puede demostrar que una situació
 
 > Nota importante, las practicantes de la Esta-Listica no son magos y, por tanto, la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 ### Reglas de los almacenes de datos
 
@@ -174,7 +174,7 @@ Los almacenes de datos son el arma suprema de Wilbuck y en juego los almacenes d
 
 Los almacenes pueden comunicarse entre ellos mediante la red de clacs (un sistema de comunicación que manda mensajes mediante destellos de luces desde altas torres), el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 
 
@@ -347,7 +347,7 @@ Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti m
 
 
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 
 
@@ -481,7 +481,7 @@ Mucha gente no sabe ni leer y menos que sería un agente censal, pero se parecen
 
 La placa les va a dar ciertas capacidades, buenas unas y malas otras.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 
 
@@ -669,17 +669,19 @@ XXX
 
 Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
 
-Quieres calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
+Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
 La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
 
+
+
+Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía mandar mensajes usando su memoria molécula a molécula. El problema es ue al agua no le gustan ser una cotilla, así que puedes contarle un chisme a una molécula de agua, pero no se lo pasa a la siguiente molécula, así que la comunicación era imposible,  
+
 > Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
 XXX
-
-
 
 
 

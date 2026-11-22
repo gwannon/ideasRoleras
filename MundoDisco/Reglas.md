@@ -45,7 +45,7 @@ Por último, un practicante de la Esta-Listica puede demostrar que una situació
 
 > Nota importante, las practicantes de la Esta-Listica no son magos y, por tanto, la MUERTE no está obligada a ir a buscar su alama cuando muera. Lo cual no quiere decir que no vaya, pero solo si ella quiera. Quizás quiera que la esta-lista revise los datos y los porcentajes del informe trimestral de productividad que tiene que presentar la semana que viene.  
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 ### Reglas de los almacenes de datos
 
@@ -53,7 +53,7 @@ Los almacenes de datos son el arma suprema de Wilbuck y en juego los almacenes d
 
 Los almacenes pueden comunicarse entre ellos mediante la red de clacs (un sistema de comunicación que manda mensajes mediante destellos de luces desde altas torres), el poder cruzar los datos de varios almacenes de forma muy rápida puede darle mucho más poder aún, excepto los días de niebla. Esos días la comunicación se para, porque nadie ve a más de palmo de su cara.
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 \sp
 
@@ -226,7 +226,7 @@ Y el pecado, joven, es cuando tratas a la gente como cosas. Incluyéndote a ti m
 
 \sp
 
-[ESPERAR A LAS REGLAS TRADUCIDAS XXX]
+[ESPERAR A LAS REGLAS TRADUCIDAS]
 
 \sinc
 
