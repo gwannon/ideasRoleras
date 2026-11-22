@@ -184,9 +184,9 @@ As your players move through the park, carrying out their plan of destruction, a
 
 
 
-|1d6|North World  XXX|
+|1d6|North World XXX|
 |---|---|
-|1|**Bacanal:** Una pareja que estaba sola en los baños de vapor, no se ha enterado de la evacuación y al salir se han encontrado el parque vacío. Andan semidesnudos y desorientados.|
+|1|**Bacchanal:** A couple who were alone in the steam rooms didn’t realize an evacuation had taken place, Upon coming out, they found the park empty. They are wandering around half-naked and disoriented.|
 |2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
 |3|**El espectáculo del dios del trueno:** Una maniquí disfrazado de algún tipo de dios mitológico sube al edificio más alto y empieza a lanzar desde sus manos arcos voltaicos que caen en diferentes partes seguras de la zona. Si alguien o algo estuviera en esas partes seguras, la descarga que recibiría sería mortal.|
 |4|**Reconnaissance flight:** A spy shuttle from the Devastator flies over the area to report back to high command. If you are detected, your sabotage plan could fall apart.|
@@ -201,8 +201,8 @@ As your players move through the park, carrying out their plan of destruction, a
 |2|**Tumbleweeds:** Lots of desert tumbleweeds pass away.|
 |3|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para que busquen y maten a los «forajidos» que vienen del Devastador. O simplemente pillar sus pistolas eléctricas por lo que pudiera pasar.|
 |4|**Tónico de aceite de serpiente:** Un maniquí con levita negra y chistera se os acerca y os ofrece una botellita de cristal que dice que es tónico de aceite de serpiente. No para de repetir sus milagrosas virtudes. Lo extraño es que nadie recuerda haber ideado o programado estas funcionalidades nadie sabe que tiene la botellita en su interior.|
-|5|**Caballos eléctricos:** En un abrevadero hay 4 caballos eléctricos con la carga al máximo. Los visitantes los usan como forma de moverse por la zona y también son perfectos para que tiren de algo pesado.|
-|6|**Tres equis:** El salón de variedades acababa de recibir de su pedido bebidas alcohólicas y hay varios barriles de gran tamaño con alcohol de bastante graduación. Se puede prender o usarlo para hacer unos buenos cócteles molotov.|
+|5|**Electric horses:** At a watering trough, there are 4 electric horses with their charge at maximum capacity. Visitors use them to get around the area, and they are also perfect for pulling heavy loads.|
+|6|**Three X:** The variety hall has just received a shipment of alcoholic beverages, including several large barrels containing high-proof spirits. These can be set on fire or used to craft effective Molotov cocktails.|
 
 
 
