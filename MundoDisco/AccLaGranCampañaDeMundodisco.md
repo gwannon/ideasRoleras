@@ -673,7 +673,7 @@ Quieres calcular si su sistema de envío de mensajes por tuberías de agua es po
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
-La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua. Además, es una forma de poner agua en las casas de la gente.
+La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
 
 > Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
@@ -1015,15 +1015,19 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 
 Trazcuatro es una pirata de los clacs que vive de robar la información que se envía por ellos y venderla al mejor postor. Su nombre real es Herminia Jeet. Ella preferiría que la llamaran por su nombre de pirata, TRAZA, con la última A ligeramente ladeada dentro de un círculo como si fuera un símbolo de la Anarquía, pero sus compañeras piratas no lo pillaron y pensaron que era un 4 raro y empezaron a llamarla Trazcuatro. 
 
-XXX
-
 Trazcuarto es muy buena con las manos y las herramientas y es capaz de hacer realidad cualquier tipo de mecanismo o artilugio con el equipo y el tiempo adecuado.
 
 
 
-No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea.
+No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea. Tampoco es que sea una gran inventora/investigadora, simplemente tiene buenas ideas, muy prácticas y muy aplicables a la vida diaria.
+
+Acabo como pirata de clacs, ya que las torres de clacs empezaron a aparecer por todas partes, le parecieron muy interesantes y se puso a investigar como funcionar.
 
 Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su propuesta técnica es que su sistema es «impirateable», ya que el agua va dentro de las tuberías y no se pueden ver. Además, por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
+
+Trazcuatro pasa casi invisible entre la gente, nadie se fija en ella. Ha sido tantas cosas en su corta que la narración no se ha fijado y endurecido alrededor suyo. Por eso no es importante para la historia y nadie se fija en ella, es casi como un personaje del fondo de una máquina recreativa antigua
+
+> Digamos que si fuera una PNJ, su ficha la han borrado tantas veces que ya no se lee nada. El problema es que a medida que se interesa en ser una pirata de clacs, la narración empieza a fijarse y es más destacable y visible.
 
 
 
@@ -1052,6 +1056,7 @@ Quiero dar las gracias a todas estas fantásticas personas queme han ayudado a e
 * A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
 * A [Dani Moondark](https://mastorol.es/@danimoondark) por descubrirme a [HEX](https://discworld.fandom.com/wiki/Hex), el superordenador de la Universidad Invisible.
 * A [Ana I.](https://mastorol.es/@anai) y a [Seiðr](https://mastorol.es/@Illuminatus@mstdn.social) por descubrirme al [hombre pato](https://wiki.lspace.org/The_Duck_Man).
+* A las personas que contestaron a este [post](https://bsky.app/profile/gwannon.com/post/3n2tgs3ugcs2z) en Bluesky.
 
 
 
@@ -1072,11 +1077,11 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
+
+
+
 * [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
 * [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
-
-
-
 * [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 * [Magic school library interior](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 

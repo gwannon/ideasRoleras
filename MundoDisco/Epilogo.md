@@ -15,6 +15,7 @@ Quiero dar las gracias a todas estas fantásticas personas queme han ayudado a e
 * A [Pau Blackonion](https://bsky.app/profile/blackonion.bsky.social), [Dr Heriberto Oeste](https://bsky.app/profile/kinderwebo.eurosky.social) y a [Eva Mateos](https://bsky.app/profile/evamathew.eurosky.social) por su ayuda en el juego de palabra de como llamar a la «estadística».
 * A [Dani Moondark](https://mastorol.es/@danimoondark) por descubrirme a [HEX](https://discworld.fandom.com/wiki/Hex), el superordenador de la Universidad Invisible.
 * A [Ana I.](https://mastorol.es/@anai) y a [Seiðr](https://mastorol.es/@Illuminatus@mstdn.social) por descubrirme al [hombre pato](https://wiki.lspace.org/The_Duck_Man).
+* A las personas que contestaron a este [post](https://bsky.app/profile/gwannon.com/post/3n2tgs3ugcs2z) en Bluesky.
 
 \sinc
 
@@ -35,11 +36,11 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Sello de Pergeñado con Inteligencia humana](https://bsky.app/profile/angelgropero.bsky.social) por [Ángel G. Ropero](https://bsky.app/profile/angelgropero.bsky.social)
 * [El filete separador ornamentado](https://www.magnific.com/es/vector-gratis/coleccion-separadores-pagina-decorativos_924145.htm) por [kjpargeter](https://www.magnific.com/es/autor/kjpargeter)
 * [Escudo de armas de Ankh-Morpork](https://www.flickr.com/photos/steeljam/6478733475/) por [Steve James](https://www.flickr.com/photos/steeljam/)
-* [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
-* [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
 
 \sp
 
+* [Cara de personajes](https://gatlingart.itch.io/100rpgfaces) por [GatlingArt](https://gatlingart.itch.io/)
+* [Rincewind](https://www.deviantart.com/marbolotte/art/Rincewind-530737566) por [GatlingArt](https://www.deviantart.com/marbolotte)
 * [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 * [Magic school library interior](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 

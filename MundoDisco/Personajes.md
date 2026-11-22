@@ -88,12 +88,16 @@ Sin embargo, aunque ambas cosas pudiera parecer una desventaja, que lo son, tien
 
 Trazcuatro es una pirata de los clacs que vive de robar la información que se envía por ellos y venderla al mejor postor. Su nombre real es Herminia Jeet. Ella preferiría que la llamaran por su nombre de pirata, TRAZA, con la última A ligeramente ladeada dentro de un círculo como si fuera un símbolo de la Anarquía, pero sus compañeras piratas no lo pillaron y pensaron que era un 4 raro y empezaron a llamarla Trazcuatro. 
 
-XXX
-
 Trazcuarto es muy buena con las manos y las herramientas y es capaz de hacer realidad cualquier tipo de mecanismo o artilugio con el equipo y el tiempo adecuado.
 
 \sp
 
-No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea.
+No es que sea un genio, simplemente ha trabajado en tantas cosas diferentes que ha aprendido montones de pericias, lo único especial es que ha aprendido a mezclarlas y hacerlas funcionar conjuntamente para conseguir lo que desea. Tampoco es que sea una gran inventora/investigadora, simplemente tiene buenas ideas, muy prácticas y muy aplicables a la vida diaria.
+
+Acabo como pirata de clacs, ya que las torres de clacs empezaron a aparecer por todas partes, le parecieron muy interesantes y se puso a investigar como funcionar.
 
 Tiene la teoría de que el sistema de clacs puede mejorarse usando tuberías y agua en vez luces y persianas. Su propuesta técnica es que su sistema es «impirateable», ya que el agua va dentro de las tuberías y no se pueden ver. Además, por su experiencia a la mayoría de los piratas que conoce no les va el agua y el jabón, así que no cree que se acerquen a un sistema basado en agua.
+
+Trazcuatro pasa casi invisible entre la gente, nadie se fija en ella. Ha sido tantas cosas en su corta que la narración no se ha fijado y endurecido alrededor suyo. Por eso no es importante para la historia y nadie se fija en ella, es casi como un personaje del fondo de una máquina recreativa antigua
+
+> Digamos que si fuera una PNJ, su ficha la han borrado tantas veces que ya no se lee nada. El problema es que a medida que se interesa en ser una pirata de clacs, la narración empieza a fijarse y es más destacable y visible.
