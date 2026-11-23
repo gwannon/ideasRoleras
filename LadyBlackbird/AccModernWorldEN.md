@@ -210,10 +210,10 @@ As your players move through the park, carrying out their plan of destruction, a
 |---|---|
 |1|**Pillastres:** A veces hay polizones en las naves de los visitantes y estos se quedan en el parque hasta que les descubren y los devuelven a su casa. Os encontráis una pareja de esos pillastres saqueando los puestos de comida de la zona. Algo tendréis que hacer con ellos porque, si se quedan aquí, no saldrán bien parados.|
 |2|**Anillo de proposición:** Te tropiezas con una cajita de terciopelo rojo y caes de morros. Si lo abres encontrarás un anillo de proposición que alguien ha perdido durante la evacuación. En el interior está grabado «Mika & Lua». Seguramente alguien iba a pedir matrimonio a su pareja durante los fuegos artificiales.|
-|3|**Aliens:** Maniquíes eléctricos con caretas de seres extraterrestres inundan las calles. Hablan de manera incomprensible y no paran de mover y tocar todo. Es un espectáculo programado para divertir a los visitantes que se acaba de activar.|
+|3|**Aliens:** Electric mannequins wearing masks of extraterrestrial beings appear in the streets. They speak in an unintelligible language and constantly move about, touching everything in sight. It is a spectacle designed to entertain visitors and it has just been activated.|
 |4|**Closed attraction:** A maintenance crew had closed off an attraction, and when the order was given to evacuate the park, they left all their equipment behind. There might be some interesting items there, or perhaps your players could recover something important that they had previously lost.|
 |5|**Rickshaws:** There’s a parking of rickshaws pulled by electric mannequins. You just have to hop on and tell them where you want to go, and the mannequin will take off at full speed.|
-|6|**Helio:** Un maniquí eléctrico con una gran cantidad de globos de helio deambula cerca. Normalmente, se los da gratis a los viandantes y enseguida tienen que volver a inflar, pero ahora no hay nadie que lo quiera y empieza tener problemas para mantenerse sujeto al suelo.|
+|6|**Helium:** An electric mannequin carrying a large bunch of helium balloons walks nearby. Usually, it gives them away for free to passersby, who then have to immediately inflate new ones, but now, with no one wanting any, it’s starting to have trouble staying anchored to the ground.|
 
 
 
@@ -351,21 +351,21 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 
 
-### Yalp XXX
+### Yalp
 
 An old goblin who has dedicated his life to science. His problem is that he no longer possesses the energy of youth, and the ideas that were once innovative are beginning to grow old and obsolete.
 
 
 
 **TRAITS & TAGS**
-* Ingeniero
-  * 🞊 _Motor de vapor_
-  * 🞊 _Metalurgia_
-  * 🞊 _Química_
-  * 🞊 _Electricidad_
-  * 🞊 _Analizar_
-  * 🞆 _Computación_
-  * 🞆 _Engranajes_
+* Engineer
+  * 🞊 _Steam engines_
+  * 🞊 _Metallurgy_
+  * 🞊 _Chemistry_
+  * 🞊 _Electricity_
+  * 🞊 _Analyze_
+  * 🞆 _Computing_
+  * 🞆 _Gears_
 * Goblin
   * 🞊 _Shapeshifting_
   * 🞊 _Connections_
@@ -375,14 +375,13 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞆 _Planning_
   * 🞆 _Adaptable armor_
   * 🞆 _Body pouch_
-* Sindicalista
-  * 🞊 _Atizar_
-  * 🞊 _Correr_
-  * 🞊 _Emboscar_
-  * 🞊 _Emboscar_
-  * 🞊 _Negociar_
-  + 🞊 _Intimidar_
-  * 🞆 _Leyes_
+* Unionist
+  * 🞊 _combat_
+  * 🞊 _Run_
+  * 🞊 _Ambush_
+  * 🞊 _Negotiate_
+  * 🞊 _Intimidate_
+  * 🞆 _Laws_
 * Saboteur
   * 🞊 _Explosives_
   * 🞊 _Make plans_

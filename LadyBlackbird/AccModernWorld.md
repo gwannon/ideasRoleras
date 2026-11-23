@@ -375,7 +375,6 @@ Un viejo goblin que ha dedicado su vida a la ciencia. Su problema es que ya no t
   * 🞊 _Atizar_
   * 🞊 _Correr_
   * 🞊 _Emboscar_
-  * 🞊 _Emboscar_
   * 🞊 _Negociar_
   + 🞊 _Intimidar_
   * 🞆 _Leyes_

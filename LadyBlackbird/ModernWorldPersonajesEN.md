@@ -102,21 +102,21 @@ A trickster, part gentleman, part thief, who targets the wealthy and powerful on
 
 \sinc
 
-### Yalp XXX
+### Yalp
 
 An old goblin who has dedicated his life to science. His problem is that he no longer possesses the energy of youth, and the ideas that were once innovative are beginning to grow old and obsolete.
 
 \conc
 
 **TRAITS & TAGS**
-* Ingeniero
-  * 🞊 _Motor de vapor_
-  * 🞊 _Metalurgia_
-  * 🞊 _Química_
-  * 🞊 _Electricidad_
-  * 🞊 _Analizar_
-  * 🞆 _Computación_
-  * 🞆 _Engranajes_
+* Engineer
+  * 🞊 _Steam engines_
+  * 🞊 _Metallurgy_
+  * 🞊 _Chemistry_
+  * 🞊 _Electricity_
+  * 🞊 _Analyze_
+  * 🞆 _Computing_
+  * 🞆 _Gears_
 * Goblin
   * 🞊 _Shapeshifting_
   * 🞊 _Connections_
@@ -126,14 +126,13 @@ An old goblin who has dedicated his life to science. His problem is that he no l
   * 🞆 _Planning_
   * 🞆 _Adaptable armor_
   * 🞆 _Body pouch_
-* Sindicalista
-  * 🞊 _Atizar_
-  * 🞊 _Correr_
-  * 🞊 _Emboscar_
-  * 🞊 _Emboscar_
-  * 🞊 _Negociar_
-  + 🞊 _Intimidar_
-  * 🞆 _Leyes_
+* Unionist
+  * 🞊 _combat_
+  * 🞊 _Run_
+  * 🞊 _Ambush_
+  * 🞊 _Negotiate_
+  * 🞊 _Intimidate_
+  * 🞆 _Laws_
 * Saboteur
   * 🞊 _Explosives_
   * 🞊 _Make plans_
