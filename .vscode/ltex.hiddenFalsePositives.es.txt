@@ -606,3 +606,4 @@
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QY no te olvides de hacer los «Ook» de rigor.\\E$"}
 {"rule":"LA_ESTA","sentence":"^\\QCómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorporkianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.\\E$"}
 {"rule":"MORFOLOGIK_RULE_ES","sentence":"^\\QQuizás ahora le siga la mala suerte o atraiga la mala suerte para los demás, o tal vez no pueda volver a usar la S y «zolo pueda comunicarze con la zeta».\\E$"}
+{"rule":"PRESENT","sentence":"^\\QHan interrumpido al mago al que tienen que hacerle la encuesta en mitad de un experimento en el que está trayendo versiones suyas del presente y del pasado.\\E$"}

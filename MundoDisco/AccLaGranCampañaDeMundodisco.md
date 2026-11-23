@@ -618,11 +618,11 @@ Con el salvoconducto del archicanciller y un sándwich de cordero, lechuga y tom
 
 
 
-Enseñando la placa rápidamente (con lo que el personal encargado del control del acceso a la Universidad se piensa que eres de la Guardia de la ciudad) y con el salvoconducto del archicanciller, no deberían tener ningún problema para entrar, pero siempre puedes usar el viejo «No sé Rick, parece falso» y tocarles las narices un rato a tus jugadoras.
+Enseñando la placa rápidamente (con lo que el personal encargado del control del acceso a la Universidad se piensa que eres de la Guardia de la ciudad) y con el salvoconducto del archicanciller, no deberían tener ningún problema para entrar. Aunque siempre puedes usar el viejo «No sé Rick, parece falso» y tocarles las narices un rato a tus jugadoras.
 
 Wilbuck les han dado un nombre, Spandau Ville, que tiene pinta que es el pringao al que le ha caído el marrón de guiar a tus jugadoras por la universidad para hacer las encuestas. Según se le encuentren verán que es verdad, Spandau es un pringadete. 
 
-Para ver quien tenía que acompañar a los empleados del censo, los magos novatos de la univasidad lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville ni se atrevió a meter la mano debajo de la mesa porque es germófobo, así que perdió automáticamente. 
+Para ver quién tenía que acompañar a los empleados del censo, los magos novatos de la universidad lo decidieron como se elige a los reyes. Ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville ni se atrevió a meter la mano debajo de la mesa porque es germófobo, así que perdió automáticamente. 
 
 Spandau empezará su ruta por la universidad llevándoles de cátedra en cátedra y de despacho en despacho para encuestar a los magos que Wilbuck ha puesto en su listado.
 
@@ -641,8 +641,9 @@ No es necesario hacer nuevas entrevistas, pero si tus jugadoras se lo pasaron bi
 
 
 
-XXX
+Tras algunas entrevistas y una parada de rigor en la cafetería de la universidad para probar sus famosos pedetes de azúcar y unos tés de canela de cedro, Spandau les llevará al edificio de investigación de Magia de Altas Energías. Allí trabajan ser sus próximos encuestados.
 
+Según se acercan, por los techos hay tubos llenos de tierra por los que andan hormigas para arriba y para abajo. Spandau, les explicará que eso es parte HEX, una especie de máquina viviente que hace cálculos complicadísimos, y orgullosamente les explicará que él se encarga del mantenimiento del hormiguero 
 
 ### Hex, el superhormiguero computacional
 
@@ -650,9 +651,15 @@ XXX
 
 > ¿Y esto qué es? ¿Un cameo o algo importante para la trama? Pues sinceramente las dos cosas, cuando me hablaron de este «personaje» me dije: Me viene genial para la historia y encima es un cameo. ¿Qué más puedo pedir?
 
-XXX
-
 ### Y por eso no hay que dejar comida cerca de HEX
+
+De repente, Spandau gritará de sorpresa. No para de mirar los tubos de los bichos y no deja de mascullar:
+
+– Y por eso no hay que dejar comida cerca de HEX. Mira que ponemos carteles, horas perdidas poniéndose los carteles en todos los idiomas de esta y otras dimensiones.
+ 
+ En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada de frambuesa lleno de hormigas que fueron a coger comida y quedaron atrapados en su pringue.
+
+– ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y llega de mantequilla de cacahuetes y mermelada de frambuesa a tus jugadoras.
 
 XXX
 
@@ -1118,7 +1125,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus 47 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 49 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 
