@@ -34,11 +34,20 @@ Con el salvoconducto del archicanciller y un sándwich de cordero, lechuga y tom
 
 Enseñando la placa rápidamente (con lo que el personal encargado del control del acceso a la Universidad se piensa que eres de la Guardia de la ciudad) y con el salvoconducto del archicanciller, no deberían tener ningún problema para entrar, pero siempre puedes usar el viejo «No sé Rick, parece falso» y tocarles las narices un rato a tus jugadoras.
 
-XXX
+Wilbuck les han dado un nombre, Spandau Ville, que tiene pinta que es el pringao al que le ha caído el marrón de guiar a tus jugadoras por la universidad para hacer las encuestas. Según se le encuentren verán que es verdad, Spandau es un pringadete. 
 
-Para ver quien tenía que acompañar a los empleados del censo, lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville saco un moco verde que contaba como chicle de clorofila, así que perdió y encima puede que haya cogido alguna enfermedad mágica rara.
+Para ver quien tenía que acompañar a los empleados del censo, los magos novatos de la univasidad lo decidieron como se elige a los reyes, ponen todos la mano en parte de abajo de la gran mesa de reuniones y sacan un chicle pegado, al que le toca el chicle verde clorofila pierde. Desgraciadamente, Ville ni se atrevió a meter la mano debajo de la mesa porque es germófobo, así que perdió automáticamente. 
 
-XXX
+Spandau empezará su ruta por la universidad llevándoles de cátedra en cátedra y de despacho en despacho para encuestar a los magos que Wilbuck ha puesto en su listado.
+
+No es necesario hacer nuevas entrevistas, pero si tus jugadoras se lo pasaron bien en el capítulo anterior aquí tiene algunas ideas (recuerda que en algún momento dejaremos de darte ideas y tendrás que currártelo tú misma).
+
+* Cuando abren la puerta de su despacho se ven los baños, si la cierran y vuelven a abrir las cocinas, los comedores, la carbonera, etc. Cuando se vayan, verán a un mago entrar al despacho y si vuelven a intentar abrir la puerta dará otra vez a los baños. Lo única forma de entrar es que abra la puerta un mago como Spandau, cosa que ni él sabe.
+* Han interrumpido al mago al que tienen que hacerle la encuesta en mitad de **un experimento en el que está trayendo versiones suyas del presente y del pasado**. La cuestión es que todos ellos son el mago que quieren encuestar y, contrariamente a lo que pasa la mayoría de las veces, todas las versiones quieren contestar a las preguntas del censo. Empezarán a discutir entre ellos porque sus respuestas no son las mismas aunque sean el mismo mago. Por otro lado, aunque sean versiones del mismo mago de diferentes años, todas visten igual (de mal) y tienen el mismo peinado (horrible). Así que es imposible saber con qué versión estás hablando.
+
+\sp
+
+* El mago solo es **una cabeza en un tarro** cerrado lleno de un líquido espeso encima de su mesa de trabajo. Parece que habla porque abre la boca y salen burbujas, pero no se le entiende nada. Si quieren rellenar su cuestionario, deberán buscar una manera de comunicarse con él. No pueden sacarlo del tarro, porque hay un lacre que sella el tarro y que tiene un papelito atado que dice «Garantía cancelada si el sello está roto».
 
 \sinc
 
@@ -99,19 +108,25 @@ XXX
 
 \sinc
 
-## Algo huele a chamusquina en la oficina
+## De vuelta en la oficina
 
 \conc
 
 Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, seguramente, han fracasado al intentar rellenar más encuestas, pero las cosas que cuenten de HEX y las ideas de Trazcuatro, le abrirán la mente a Wilbuck.
 
-XXX
+Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva. Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
 
-Esos pequeños detalles deberían empezar a hacer sospechar a tus jugadoras de Moreless no es limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia.
+Por unos segundos estará más interesado en Trazcuatro que en las encuestas y de normal no hay nada más interesante que las encuestas. De hecho, se le pondrá una sonrisa bobalicona mientras le hablan de Trazcuatro y su proyecto. 
+
+## Algo huele a chamusquina en la oficina
+
+En principio tras salir de la reunión con Wilbuck tus jugadoras deben empezar a detectar que algo «raromalo» pasa con Wilbuck y su proyecto. Hay pequeños detalles que deberían empezar a hacer sospechar a tus jugadoras de Moreless no es trigo limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia.
 
 Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quién es su némesis.
 
-> Por cierto, si a una de tus jugadoras se le ocurre escribir un guion sobre sus aventuras en la universidad, titular los «Locas aventuras en la universidad» y vendérselo a productora de imágenes en movimiento, que se sepa que ha inventado el género de cine de las comedias universitarias locas.
+\sp
+
+> Por cierto, si a una de tus jugadoras se le ocurre escribir un guion sobre sus aventuras en la universidad, titularlo «Las locas aventuras en la universidad» y vendérselo a una chusca productora de imágenes en movimiento de Holy Wood, que sepa que ha inventado el género de las comedias universitarias locas. No es un gran aporte a la historia de las imágenes en acción, pero oye como mínimo aparecerás en las futuras crónicas del séptimo arte. Eso, si escriben tu nombre sin faltas de ortografía, si no, seguramente, la fama y la inmortalidad histórica pasarán a tu lado sacándote la lengua y haciéndote un corte de mangas.
 
 \sp
 
