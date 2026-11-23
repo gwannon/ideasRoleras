@@ -28,14 +28,14 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sp
 
-|1d6|West World XXX|
+|1d6|West World|
 |---|---|
 |1|**Acrobatic rider:** An electric horse trots along the main street, with a mannequin rider on its back performing highly dangerous stunts.|
 |2|**Tumbleweeds:** Lots of desert tumbleweeds pass away.|
-|3|**Duelo al sol:** Pasáis al lado del panel que controla el duelo de pistolas de rayos del atardecer. Si hay fuerzas de asalto del Devastador cerca, podríais tenderles una trampa con los maniquíes pistoleros o incluso lanzarlos programando a los maniquíes para que busquen y maten a los «forajidos» que vienen del Devastador. O simplemente pillar sus pistolas eléctricas por lo que pudiera pasar.|
-|4|**Tónico de aceite de serpiente:** Un maniquí con levita negra y chistera se os acerca y os ofrece una botellita de cristal que dice que es tónico de aceite de serpiente. No para de repetir sus milagrosas virtudes. Lo extraño es que nadie recuerda haber ideado o programado estas funcionalidades nadie sabe que tiene la botellita en su interior.|
+|3|**Duel at noon:** You pass by the control panel for the noon ray-gun duel. If any of the Devastator’s assault forces are nearby, you could set a trap for them using the gunslinger mannequins or even unleash them by programming the mannequins to hunt down and eliminate the «outlaws» arriving from the Devastator’s side. Alternatively, you could simply grab their electric pistols, just in case they come in handy.|
+|4|**Snake-Oil Tonic:** A mannequin wearing a black frock coat and a top hat approaches you, offering a small glass bottle that he claims contains «snake-oil tonic». He keeps rattling on about its miraculous virtues. The strange thing is that no one recalls ever designing or programming these features and no one knows what is actually inside the bottle.|
 |5|**Electric horses:** At a watering trough, there are 4 electric horses with their charge at maximum capacity. Visitors use them to get around the area, and they are also perfect for pulling heavy loads.|
-|6|**Three X:** The variety hall has just received a shipment of alcoholic beverages, including several large barrels containing high-proof spirits. These can be set on fire or used to craft effective Molotov cocktails.|
+|6|**Triple X:** The saloon has just received a shipment of alcoholic beverages, including several large barrels containing high-proof spirits. These can be set on fire or used to craft effective Molotov cocktails.|
 
 \sc
 

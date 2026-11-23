@@ -1,6 +1,6 @@
 \sinc
 
-## Licencia
+## License
 
 This document has been developep under a Creative Commons Attribution Non-Commercial Share Alike 3.0 license. 
 
