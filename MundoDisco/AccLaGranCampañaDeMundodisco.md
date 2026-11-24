@@ -661,11 +661,11 @@ En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada 
 
 > Mantequilla de cacahuetes en plural. Los productores tuvieron problemas al comercializarla, porque la gente pensaba que solo se usaba un cacahuete en hacerla todo un tarro. La lógica diría que también debería ser mermelada de frambuesas, pero ahñi no hubo problemas. Esta claro que hay cierta animadversión hacia los frutos secos y sus productos derivados.
 
+
+
 – ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y les llena la cara de mantequilla de cacahuetes y mermelada de frambuesa.
 
 Se pondrá a buscar y, si tus jugadoras le ayudan, encontrarán toda una serie de dulces para atraer a las hormigas: piruletas, roscones de miel, pasteles de mermelada, etc.
-
-
 
 Curiosamente no se han acercado a los bollos dulces de los enanos. Bueno, de curioso nada, ni los propios enanos se acercan. Estudiando donde estaban los bollos, parece que se han usado para hacer que las hormigas no fueran por ciertas partes.
 
@@ -695,9 +695,9 @@ Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque
 
 Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
 
+
+
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
-
-
 
 La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
 
@@ -723,9 +723,9 @@ Por unos segundos estará más interesado en Trazcuatro que en las encuestas y d
 
 En principio tras salir de la reunión con Wilbuck tus jugadoras deben empezar a detectar que algo «raromalo» pasa con Wilbuck y su proyecto. Hay pequeños detalles que deberían empezar a hacer sospechar a tus jugadoras de Moreless no es trigo limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia.
 
+
+
 Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quién es su némesis.
-
-
 
 > Por cierto, si a una de tus jugadoras se le ocurre escribir un guion sobre sus aventuras en la universidad, titularlo «Las locas aventuras en la universidad» y vendérselo a una chusca productora de imágenes en movimiento de Holy Wood, que sepa que ha inventado el género de las comedias universitarias locas. No es un gran aporte a la historia de las imágenes en acción, pero oye como mínimo aparecerás en las futuras crónicas del séptimo arte. Eso, si escriben tu nombre sin faltas de ortografía, si no, seguramente, la fama y la inmortalidad histórica pasarán a tu lado sacándote la lengua y haciéndote un corte de mangas.
 
