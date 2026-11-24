@@ -269,6 +269,13 @@ img[alt*="con-borde"] {
   box-shadow: 1px 1px 8px 3px var(--color-tertiaire);
 }
 
+img[alt*="sin-padding"] {
+  margin-top: calc(var(--padding) * -1);
+  margin-right: calc(var(--padding) * -1);
+  margin-left: calc(var(--padding) * -1);
+  width: calc(100% + (var(--padding) * 2));
+}
+
 p:has(img) {
   padding: 0px;
   margin: 0px;

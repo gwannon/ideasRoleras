@@ -1,6 +1,6 @@
 \sinc
 
-[![Magic school library interior por upklyak con-borde](./images/magic-school-library-interior.jpg "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
+[![Magic school library interior por upklyak sin-padding](./images/magic-school-library-interior.jpg "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
 
 &nbsp;
 
@@ -69,13 +69,13 @@ HEX es un superordenador mágico (superordenador para Mundodisco, seguramente es
 
 Aun así HEX es un gran salto comprador con los viejos círculos druídicos de piedras, que no servían más que de calendario. La única persona que entiende como funciona HEX es Ponder Stibbons, su creador, y según él esto va a revolucionar el mundo tal y como lo entendemos.
 
-En el futuro todo el mundo tendrá un minihormiguero en su casa que hará tu trabajo por ti al precio de mermeladas y toros productos azucarados. A la pregunta de si eso no haría que no subiera el precio del azúcar, contesto que el mercado se regula solo.
+En el futuro todo el mundo tendrá un mini-hormiguero en su casa que hará tu trabajo por ti al precio de mermeladas y toros productos azucarados. A la pregunta de si eso no haría que no subiera el precio del azúcar, contesto que el mercado se regula solo.
 
 Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia de Altas Energías y pueden hacer cálculos bastante complejos para un mago e infinítamnete más complejos de lo que podría hacer un trol.
 
 \sp
 
-Solo Stibbons sabe muy como funciona internamente, pero Spandau que se dedica a su mantenimiento, empieza a comprenderlo y lo que es más importante le ha empezado a ponerle nombre a cada hormiga, a reconocerlas, a saber que dulces le gustan más, así que también entiende HEX, pero de una forma más amigable y personal.
+Solo Stibbons sabe muy como funciona internamente, pero Spandau que se dedica a su mantenimiento, empieza a comprenderlo y lo que es más importante le ha empezado a ponerle nombre a cada hormiga, a reconocerlas, a saber que dulces le gustan más, así que también entiende HEX, pero de una manera más amigable y personal.
 
 HEX ha sufrido con anterioridad sabotajes que han hecho que funcionará mal y Spandau está convencido de que han sido por parte de los Numerólogos que no ven con buenos ojos que se usen las «matemágicas» de esa forma.
 
@@ -89,21 +89,21 @@ De repente, Spandau gritará de sorpresa. No para de mirar los tubos de los bich
  
 En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada de frambuesa lleno de hormigas que fueron a coger comida y quedaron atrapadas en su pringue.
 
-> Mantequilla de cacahuetes en plural. Los productores tuvieron problemas al comercializarla, porque la gente pensaba que solo se usaba un cacahuete en hacerla todo un tarro. La lógica diría que también debería ser mermelada de frambuesas, pero ahñi no hubo problemas. Esta claro que hay cierta animadversión hacia los frutos secos y sus productos derivados.
+> Mantequilla de cacahuetes en plural. Los productores tuvieron problemas al comercializarla, porque la gente pensaba que solo se usaba un cacahuete en hacerla todo un tarro. La lógica diría que también debería ser mermelada de frambuesas, pero ahí no hubo problemas. Está claro que hay cierta animadversión hacia los frutos secos y sus productos derivados.
 
 – ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y les llena la cara de mantequilla de cacahuetes y mermelada de frambuesa.
+
+[![Hormigas](./images/hormigas.jpg "Hormigas")](https://www.magnific.com/es/vector-gratis/antecedentes-grupo-hormigas_83320693.htm "Hormigas")
 
 Se pondrá a buscar y, si tus jugadoras le ayudan, encontrarán toda una serie de dulces para atraer a las hormigas: piruletas, roscones de miel, pasteles de mermelada, etc.
 
 Curiosamente no se han acercado a los bollos dulces de los enanos. Bueno, de curioso nada, ni los propios enanos se acercan. Estudiando donde estaban los bollos, parece que se han usado para hacer que las hormigas no fueran por ciertas partes.
 
-Todo indica que alguien ha querido usar a HEX sin los permisos necesarios y se ha buscado la manera de desviar el flujo computacional de hormigas a otra parte del edificio para hacer sus propios cálculos.
-
 \sp
 
-Según Spandau, el proceso es lento, así que la pirata computacional se ha ido para volver en unas horas o estará escondido cerca esperando a que los tubos se llenen de hormigas, unas 100 hormigas exactamente. Cuando el tubo esté lleno al 100% de hormigas se puede empezar a trabajar. A esto le llaman barra de carga de hormigas.
+Todo indica que alguien ha querido usar a HEX sin los permisos necesarios y se ha buscado la manera de desviar el flujo computacional de hormigas a otra parte del edificio para hacer sus propios cálculos.
 
-XXX
+Según Spandau, el proceso es lento, así que la pirata computacional se ha ido para volver en unas horas o estará escondido cerca esperando a que los tubos se llenen de hormigas, unas 100 hormigas exactamente. Cuando el tubo esté lleno al 100% de hormigas se puede empezar a trabajar. A esto le llaman barra de carga de hormigas.
 
 \sinc
 
@@ -111,11 +111,27 @@ XXX
 
 \conc
 
+En este punto tus jugadoras tendrán que decidir que hacen, esperan a la pirata o la buscan. No hay opción mala, simplemente, sigue lo que ellos te digan. Lo que si deben pensar es si se lanzan a atrapar a la pirata nada lo vean o tratan de averiguar que está buscando.
+
+> Hay muchas posibilidades de que tus jugadoras no quiera ayudar a Spandau. Este no es un juego de heroínas épicas que se lanzan a la batalla por el amor y la justicia. Así que Spandau puede ofrecerles, encargarse el de terminar las entrevistas. Incluso poder usar a HEX para alguna cosa que necesiten. También puede ayudarles a identificar insectos, pero nunca a nadie le ha sido útil en un juego de rol, o tal vez sí.
+
+Si se ponen a buscar:
+
 XXX
 
-Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
+Si esperan, tendrán que buscarse un escondite. Piensa que es un pasillo oscuro con techos altos y recodos y puertas cada poco. No es complicado esconderse, pero es aburrido y cansado estar mucho rato escondido.
 
-Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
+> Si alguna jugadora quiere esconderse detrás de un cucharón de madera, señálale, apláudele y dale el d12, si has pillado la referencia. 
+
+Tarde o temprano alguien dirá que se aburre y tiene hambre y se pondrá a limpiar la comida invadida de hormigas y a querer comérsela, en ese momento aparecerá una figura encapuchada y con ropas negras de unas de las alcantarillas cercanas.  
+
+Si todos pasan la tirada, pillan a la pirata por sorpresa y es fácil de atrapar, pero si alguien falla tiene una consecuencia clara, Trazcuatro, que así se llama la pirata, escapa corriente. 
+
+Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. 
+
+\sp
+
+Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco. Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
 
 XXX
 
@@ -127,9 +143,9 @@ Al encontrarse atrapada y sin salida Trazcuatro cambia de estrategia. Quizas, si
 
 Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
 
-Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
+Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos.
 
-\sp
+Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
@@ -139,11 +155,15 @@ Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía m
 
 > Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
+\sp
+
 ### ¿Qué hacemos con Trazcuatro?
 
 XXX
 
 Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso a los registros de HEX, es decir que puede pedirles a las hormigas que repitan los últimos cálculos y que se los enseñen. Él, fácilmente, por sus conocimientos de mantenimiento podrá ver que alguien quería simular un sistema de comunicación como las torres de clacs, pero usando grifos, tuberías y agua azucarada (eso lo han metido las hormigas a ver si pillan algo rico).
+
+\sp
 
 \sinc
 
@@ -156,8 +176,6 @@ Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, segur
 Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva.
 
 Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
-
-\sp
 
 Por unos segundos estará más interesado en Trazcuatro que en las encuestas y de normal no hay nada más interesante que las encuestas. De hecho, se le pondrá una sonrisa bobalicona mientras le hablan de Trazcuatro y su proyecto. 
 

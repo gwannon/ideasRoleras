@@ -1,18 +1,28 @@
-Según Spandau, el proceso es lento, así que la pirata computacional se ha ido para volver en unas horas o estará escondido cerca esperando a que los tubos se llenen de hormigas, unas 100 hormigas exactamente. Cuando el tubo esté lleno al 100% de hormigas se puede empezar a trabajar. A esto le llaman barra de carga de hormigas.
-
-XXX
-
-\sinc
-
 ## ¡¡¡Al abordaje!!!
 
 \conc
 
+En este punto tus jugadoras tendrán que decidir que hacen, esperan a la pirata o la buscan. No hay opción mala, simplemente, sigue lo que ellos te digan. Lo que si deben pensar es si se lanzan a atrapar a la pirata nada lo vean o tratan de averiguar que está buscando.
+
+> Hay muchas posibilidades de que tus jugadoras no quiera ayudar a Spandau. Este no es un juego de heroínas épicas que se lanzan a la batalla por el amor y la justicia. Así que Spandau puede ofrecerles, encargarse el de terminar las entrevistas. Incluso poder usar a HEX para alguna cosa que necesiten. También puede ayudarles a identificar insectos, pero nunca a nadie le ha sido útil en un juego de rol, o tal vez sí.
+
+Si se ponen a buscar:
+
 XXX
 
-Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco.
+Si esperan, tendrán que buscarse un escondite. Piensa que es un pasillo oscuro con techos altos y recodos y puertas cada poco. No es complicado esconderse, pero es aburrido y cansado estar mucho rato escondido.
 
-Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
+> Si alguna jugadora quiere esconderse detrás de un cucharón de madera, señálale, apláudele y dale el d12, si has pillado la referencia. 
+
+Tarde o temprano alguien dirá que se aburre y tiene hambre y se pondrá a limpiar la comida invadida de hormigas y a querer comérsela, en ese momento aparecerá una figura encapuchada y con ropas negras de unas de las alcantarillas cercanas.  
+
+Si todos pasan la tirada, pillan a la pirata por sorpresa y es fácil de atrapar, pero si alguien falla tiene una consecuencia clara, Trazcuatro, que así se llama la pirata, escapa corriente. 
+
+Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. 
+
+\sp
+
+Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco. Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
 
 XXX
 
@@ -24,9 +34,9 @@ Al encontrarse atrapada y sin salida Trazcuatro cambia de estrategia. Quizas, si
 
 Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
 
-Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
+Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos.
 
-\sp
+Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
@@ -35,6 +45,8 @@ La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los pi
 Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía mandar mensajes usando su memoria molécula a molécula. El problema es que al agua no le gustan ser una cotilla, así que puedes contarle un chisme a una molécula de agua, pero no se lo pasa a la siguiente molécula, así que la comunicación era imposible,  
 
 > Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
+
+\sp
 
 ### ¿Qué hacemos con Trazcuatro?
 
