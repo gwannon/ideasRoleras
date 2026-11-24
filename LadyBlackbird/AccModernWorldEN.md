@@ -206,10 +206,10 @@ As your players move through the park, carrying out their plan of destruction, a
 
 
 
-|1d6|East World XXX|
+|1d6|East World|
 |---|---|
-|1|**Pillastres:** A veces hay polizones en las naves de los visitantes y estos se quedan en el parque hasta que les descubren y los devuelven a su casa. Os encontráis una pareja de esos pillastres saqueando los puestos de comida de la zona. Algo tendréis que hacer con ellos porque, si se quedan aquí, no saldrán bien parados.|
-|2|**Anillo de proposición:** Te tropiezas con una cajita de terciopelo rojo y caes de morros. Si lo abres encontrarás un anillo de proposición que alguien ha perdido durante la evacuación. En el interior está grabado «Mika & Lua». Seguramente alguien iba a pedir matrimonio a su pareja durante los fuegos artificiales.|
+|1|**Rascals:** Sometimes, stowaways end up on the visitors' ships and wind up staying in the park until they’re discovered and sent back home. You come across a pair of these rascals raiding the food trucks in the area. You’ll need to do something about them, if they stay here, things won’t end well for them.|
+|2|**Engagement ring:** You stumble upon a small red velvet box and fall face-first. If you open it, you’ll find an engagement ring that someone lost during the evacuation. Engraved on the inside are the names “Mika & Lua.” It seems someone was planning to propose to their partner during the fireworks.|
 |3|**Aliens:** Electric mannequins wearing masks of extraterrestrial beings appear in the streets. They speak in an unintelligible language and constantly move about, touching everything in sight. It is a spectacle designed to entertain visitors and it has just been activated.|
 |4|**Closed attraction:** A maintenance crew had closed off an attraction, and when the order was given to evacuate the park, they left all their equipment behind. There might be some interesting items there, or perhaps your players could recover something important that they had previously lost.|
 |5|**Rickshaws:** There’s a parking of rickshaws pulled by electric mannequins. You just have to hop on and tell them where you want to go, and the mannequin will take off at full speed.|
