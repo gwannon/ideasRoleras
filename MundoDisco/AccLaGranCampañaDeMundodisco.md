@@ -633,7 +633,7 @@ No es necesario hacer nuevas entrevistas, pero si tus jugadoras se lo pasaron bi
 
 
 
-* El mago solo es **una cabeza en un tarro** cerrado lleno de un líquido espeso encima de su mesa de trabajo. Parece que habla porque abre la boca y salen burbujas, pero no se le entiende nada. Si quieren rellenar su cuestionario, deberán buscar una manera de comunicarse con él. No pueden sacarlo del tarro, porque hay un lacre que sella el tarro y que tiene un papelito atado que dice «Garantía cancelada si el sello está roto».
+* El mago es solo **una cabeza en un tarro de cristal** cerrado lleno de un líquido espeso encima de su mesa de trabajo. Parece que habla porque abre la boca y salen burbujas, pero no se le entiende nada. Si quieren rellenar su cuestionario, deberán buscar una manera de comunicarse con él. No pueden sacarlo del tarro, porque hay un lacre que sella el tarro y que tiene un papelito atado que dice «Garantía cancelada, si el sello está roto».
 
 
 
@@ -655,15 +655,23 @@ XXX
 
 De repente, Spandau gritará de sorpresa. No para de mirar los tubos de los bichos y no deja de mascullar:
 
-– Y por eso no hay que dejar comida cerca de HEX. Mira que ponemos carteles, horas perdidas poniéndose los carteles en todos los idiomas de esta y otras dimensiones.
+– Y por eso no hay que dejar comida cerca de HEX. Mira que ponemos carteles. Horas perdidas poniéndose los carteles en todos los idiomas de esta dimensión y del espacio L para nada.
  
- En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada de frambuesa lleno de hormigas que fueron a coger comida y quedaron atrapados en su pringue.
+En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada de frambuesa lleno de hormigas que fueron a coger comida y quedaron atrapados en su pringue.
 
-– ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y llega de mantequilla de cacahuetes y mermelada de frambuesa a tus jugadoras.
+> Mantequilla de cacahuetes en plural. Los productores tuvieron problemas al comercializarla, porque la gente pensaba que solo se usaba un cacahuete en hacerla todo un tarro. La lógica diría que también debería ser mermelada de frambuesas, pero ahñi no hubo problemas. Esta claro que hay cierta animadversión hacia los frutos secos y sus productos derivados.
 
-XXX
+– ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y les llena la cara de mantequilla de cacahuetes y mermelada de frambuesa.
+
+Se pondrá a buscar y, si tus jugadoras le ayudan, encontrarán toda una serie de dulces para atraer a las hormigas: piruletas, roscones de miel, pasteles de mermelada, etc.
 
 
+
+Curiosamente no se han acercado a los bollos dulces de los enanos. Bueno, de curioso nada, ni los propios enanos se acercan. Estudiando donde estaban los bollos, parece que se han usado para hacer que las hormigas no fueran por ciertas partes.
+
+Todo indica que alguien ha querido usar a HEX sin los permisos necesarios y se ha buscado la manera de desviar el flujo computacional de hormigas a otra parte del edificio para hacer sus propios cálculos.
+
+Según Spandau, el proceso es lento, así que la pirata computacional se ha ido para volver en unas horas o estará escondido cerca esperando a que los tubos se llenen de hormigas, unas 100 hormigas exactamente. Cuando el tubo este lleno al 100% de hormigas se puede empezar a trabajar. A esto le llaman barra de carga de hormigas.
 
 
 
@@ -689,9 +697,9 @@ Quiere calcular si su sistema de envío de mensajes por tuberías de agua es pos
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
+
+
 La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
-
-
 
 Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía mandar mensajes usando su memoria molécula a molécula. El problema es ue al agua no le gustan ser una cotilla, así que puedes contarle un chisme a una molécula de agua, pero no se lo pasa a la siguiente molécula, así que la comunicación era imposible,  
 
@@ -711,7 +719,7 @@ Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almac
 
 Por unos segundos estará más interesado en Trazcuatro que en las encuestas y de normal no hay nada más interesante que las encuestas. De hecho, se le pondrá una sonrisa bobalicona mientras le hablan de Trazcuatro y su proyecto. 
 
-## Algo huele a chamusquina en la oficina
+### Algo huele a chamusquina en la oficina
 
 En principio tras salir de la reunión con Wilbuck tus jugadoras deben empezar a detectar que algo «raromalo» pasa con Wilbuck y su proyecto. Hay pequeños detalles que deberían empezar a hacer sospechar a tus jugadoras de Moreless no es trigo limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia.
 
