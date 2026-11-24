@@ -34,6 +34,7 @@ Como este libro tiene un montón de páginas, he hecho una sinopsis rápida. En 
 
 ## Sinopsis
 
+\conc
 
 ### Capítulo 1. Dura lex, sed lex
 
@@ -47,19 +48,21 @@ La cuestión es que las simpáticas gentes del Ankh-Morpork no llevan bien que u
 
 Tras varios intentos frustrados de rellenar algunas encuestas en Las Sombras (el barrio más antiguos, sucio y peligroso de Ankh-Morpork), Wilbuck, el encargado del censo decide cambiar de táctica y mandar a tu mesa a la Universidad Invisible a conocer la demografía mágica de la ciudad.
 
-Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la tarea de guiarles por la universidad.
+Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la tarea de guiarles por la universidad. Durante su visita una pirata de clacs, llamada Trazcuatro, intentará hackear a HEX el superordenador mágico de la universidad y del que Spandau se encarga de su mantenimiento.
 
-XXX
+Si tus Trazcuatro necesitaba el superordenador para hacer unos cálculos y ver si su sistema de comunicación mediante tuberías de agua es factible, pero la pillan en mitad del proceso y deberán huir y tus jugadoras intentar atraparlas.
 
 \sp
 
+Una vez atrapada, cosa que no es fácil porque es muy escurridiza, les explicará su plan esperando que se apiaden de ella y la dejan libre o la entregan a la guardia, cosa que tus jugadoras deberán decidir.
+
+A la vuelta al almacén donde Wilbuck guarda toda la información que recoge y que llama almacén de datos escuchará atentamente toda la aventura, especialmente el tema del nuevo sistema de comunicación. Con ese sistema podría conectar sin posibilidad de que lo pirateasen varios almacenes como el actual y hacer un censo mucho mejor.
+
 ### Capítulo 3. Luchadores por la democracia
 
-Si no hacen algo, el tema del censo se va al garete. Así que tus jugadoras deberán devanarse los sesos para conseguir hacer las entrevistas. hasta que finalmente descubren el poder del chisme.
+Si no hacen algo, el tema del censo se va al garete. Así que tus jugadoras deberán devanarse los sesos para conseguir hacer las entrevistas, hasta que finalmente descubren el poder del chisme.
 
-XXX
-
-Gracias a sus buenas ideas, el censo va muy bien, demasiado bien incluso. Según Wilbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
+Gracias a los chismes, el censo va muy bien, demasiado bien incluso. Según Wilbuck en muy pocas semanas podrían tenerlo terminado y con ello, los aires de la democracia multipersonal podrían empezar a soplar y traer aire limpio a las malolientes calles de Ankh-Morpork, podridas por la pestilencia de la democracia unipersonal. 
 
 XXX
 
