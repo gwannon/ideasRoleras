@@ -65,17 +65,19 @@ XXX
 
 > ¿Y esto qué es? ¿Un cameo o algo importante para la trama? Pues sinceramente las dos cosas, cuando me hablaron de este «personaje» me dije: Me viene genial para la historia y encima es un cameo. ¿Qué más puedo pedir?
 
+[![Montaje con un sandwich y unas hormigas](./images/hormigas-sandwich.jpg "Montaje con un sandwich y unas hormigas")](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm "Montaje con un sandwich y unas hormigas")
+
 ### Y por eso no hay que dejar comida cerca de HEX
 
 De repente, Spandau gritará de sorpresa. No para de mirar los tubos de los bichos y no deja de mascullar:
 
 – Y por eso no hay que dejar comida cerca de HEX. Mira que ponemos carteles. Horas perdidas poniéndose los carteles en todos los idiomas de esta dimensión y del espacio L para nada.
+
+\sp
  
 En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada de frambuesa lleno de hormigas que fueron a coger comida y quedaron atrapados en su pringue.
 
 > Mantequilla de cacahuetes en plural. Los productores tuvieron problemas al comercializarla, porque la gente pensaba que solo se usaba un cacahuete en hacerla todo un tarro. La lógica diría que también debería ser mermelada de frambuesas, pero ahñi no hubo problemas. Esta claro que hay cierta animadversión hacia los frutos secos y sus productos derivados.
-
-\sp
 
 – ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y les llena la cara de mantequilla de cacahuetes y mermelada de frambuesa.
 
@@ -101,15 +103,17 @@ Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y 
 
 XXX
 
+\sp
+
+> Durante todo esta escena, todo toma un tono verdoso fosforescente, seguramente algún hechizo perdido o mal ejecutado. De hecho, por el rabillo del ojo tus jugadoras pueden ver runas extrañas verdes que caen y de lejos se oye una música machacona y repetitiva, digna de los mejores intérpretes trolescos.
+
 ### ¿Qué está buscando Trazcuatro?
 
-XXX
+Al encontrarse atrapada y sin salida Trazcuatro cambia de estrategia. Quizas, si explica las razones de su pirateo de HEX, pueda salir airosa de esta situación y no acabe en un calabozo de la guardia de la ciudad.
 
 Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
 
 Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos. Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
-
-\sp
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
@@ -119,7 +123,11 @@ Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía m
 
 > Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
+### ¿Qué hacemos con Trazcuatro?
+
 XXX
+
+\sp
 
 \sinc
 
@@ -129,15 +137,15 @@ XXX
 
 Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, seguramente, han fracasado al intentar rellenar más encuestas, pero las cosas que cuenten de HEX y las ideas de Trazcuatro, le abrirán la mente a Wilbuck.
 
-Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva. Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
+Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva.
+
+Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
 
 Por unos segundos estará más interesado en Trazcuatro que en las encuestas y de normal no hay nada más interesante que las encuestas. De hecho, se le pondrá una sonrisa bobalicona mientras le hablan de Trazcuatro y su proyecto. 
 
 ### Algo huele a chamusquina en la oficina
 
 En principio tras salir de la reunión con Wilbuck tus jugadoras deben empezar a detectar que algo «raromalo» pasa con Wilbuck y su proyecto. Hay pequeños detalles que deberían empezar a hacer sospechar a tus jugadoras de Moreless no es trigo limpio. No es necesario que seas muy claro, simplemente planta una semillita de duda y riégala con paranoia.
-
-\sp
 
 Piensa que llevas dos capítulos y no ha aparecido ningún enemigo claro. Seguramente las cabecitas de tus jugadoras ya estén buscando de que va la campaña y quién es su némesis.
 
