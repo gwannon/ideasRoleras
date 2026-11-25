@@ -46,6 +46,7 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * Montaje de [Hormigas](https://www.magnific.com/es/vector-gratis/antecedentes-grupo-hormigas_83320693.htm) de juicy_fish con [sandwich de mantequilla de cacahuete](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm) de brgfx
 * [Libro con papeles alrededor](https://www.magnific.com/es/vector-gratis/pergaminos-antiguos-reales-papel-volando-sobre-libro_11950794.htm) por [Valadzionak_volha](https://www.magnific.com/es/autor/valadzionak-volha)
 * [Portón de madera](https://www.magnific.com/es/vector-gratis/cartel-dibujos-animados-mazmorra-ilustracion-vector-puerta-castillo-medieval_37366276.htm) por [macrovector](https://www.magnific.com/es/autor/macrovector)
+* [Ciudad bajo la luna](https://www.magnific.com/es/vector-gratis/luna-llena-nubes-oscuras-ilustracion-ciudad_3242333.htm) por [katemangostar](https://www.magnific.com/es/autor/katemangostar)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 

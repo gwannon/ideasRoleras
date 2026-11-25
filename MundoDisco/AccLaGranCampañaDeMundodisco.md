@@ -902,13 +902,13 @@ Pasan muchas cosas en este capítulo, así que las posibilidades de momentos est
 
 * XXX
 * XXX
-* Durante los saqueos los desbocados caballos de una carreta por el fuego y el ruido van a atropellar a una dulce ancianita que está en mi mitad de la calle moviéndose lentamente sin saber qué hacer. Tu jugadora deberá detener la carreta y evitar que la señora sea atropellada. En realidad, este no es el momento estelar, el momento estelar es cuando aparezca la dueña del carro y se le ponga a gritar porque ha roto su carro. Déjale que le dé un puñetazo en la cara y le deje seco de un golpe. Ese es el momento estelar. Si ves que no reacciona que empiece a gritarle a la anciana y que esta se ponga a llorar.
+* Durante los saqueos los desbocados caballos de una carreta por el fuego y el ruido van a atropellar a una dulce ancianita que está en mi mitad de la calle moviéndose lentamente sin saber qué hacer. Tu jugadora deberá detener la carreta y evitar que la señora sea atropellada. En realidad, este no es el momento estelar, el momento estelar es cuando aparezca la dueña del carro y se le ponga a gritar porque ha roto su carro. Déjale que le dé un puñetazo en la cara y le deje seco de un golpe. Ese es el momento estelar real. Si ves que no reacciona que empiece a gritarle a la anciana y que esta se ponga a llorar.
 
 Si ves que la historia decae puede hacer unos cameos con:
 
 * **XXX:** XXX
 * **Leonardo de Quirm:** Durante su incursión al palacio del patricio, pueden encontrarse al invitado permanente del Patricio, Leonardo de Quirm. XXX
-* **Cohen el bárbaro:** Si hay saqueo o pillaje, allí encontrarás a Cohen, pero a su estilo. En vez de saquear toneles de vino, cubiertos de plata u otos objetos caros, Cohen es más de llevarse cojines mulliditos, linimentos y emplastos para los dolores de cadera y buen tabaco de pipa. Y claro el clásico de que si tienen monturas u otro medio de transporte, seguramente se lo robará para no cargar él con todo el peso de lo saqueado.
+* **Cohen el bárbaro:** Si hay saqueo o pillaje, allí encontrarás a Cohen, pero a su estilo. En vez de saquear toneles de vino, cubiertos de plata u otos objetos caros, Cohen es más de llevarse cojines mulliditos y mantitas suaves, linimentos y emplastos para los dolores de cadera y buen tabaco de pipa. Y claro el clásico de que si tienen monturas u otro medio de transporte, seguramente se lo robará para no cargar él con todo el peso de lo saqueado.
 
 
 
@@ -1176,6 +1176,7 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * Montaje de [Hormigas](https://www.magnific.com/es/vector-gratis/antecedentes-grupo-hormigas_83320693.htm) de juicy_fish con [sandwich de mantequilla de cacahuete](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm) de brgfx
 * [Libro con papeles alrededor](https://www.magnific.com/es/vector-gratis/pergaminos-antiguos-reales-papel-volando-sobre-libro_11950794.htm) por [Valadzionak_volha](https://www.magnific.com/es/autor/valadzionak-volha)
 * [Portón de madera](https://www.magnific.com/es/vector-gratis/cartel-dibujos-animados-mazmorra-ilustracion-vector-puerta-castillo-medieval_37366276.htm) por [macrovector](https://www.magnific.com/es/autor/macrovector)
+* [Ciudad bajo la luna](https://www.magnific.com/es/vector-gratis/luna-llena-nubes-oscuras-ilustracion-ciudad_3242333.htm) por [katemangostar](https://www.magnific.com/es/autor/katemangostar)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 
