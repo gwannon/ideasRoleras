@@ -16,6 +16,7 @@ Por resumir, aquí tienes reglas para llevar practicantes de la Esta-Listica, co
 
 \conc
 
+
 La Esta-Listica (hay que pronunciarlo con voz grave, porque las cosas de la magia se pronuncian con voz grave) es la magia de los datos y los porcentajes y puede parecer banal, pero en un mundo muchas veces muy literal es una forma de magia muy poderosa.
 
 Este tipo de magia permite predecir el futuro. En realidad permite saber qué posibilidad de las infinitas que pueden ocurrir es la más probable, que es como predecir el futuro.
@@ -34,6 +35,8 @@ El departamento de numerología de la Universidad Invisible no lo considera una 
 Aun así las nuevas generaciones de numerólogos hacen sus pinitos con la Esta-Listica y no te extrañe que en unas décadas se impartan cursos de verano o incluso tenga su propia cátedra.
 
 \sp
+
+[![Libro con papeles alrededor por Valadzionak_volha](./images/estalistica.jpg "Libro con papeles alrededor por Valadzionak_volha")](https://www.magnific.com/es/vector-gratis/pergaminos-antiguos-reales-papel-volando-sobre-libro_11950794.htm "Libro con papeles alrededor por Valadzionak_volha")
 
 ### Reglas de la Esta-Listica
 

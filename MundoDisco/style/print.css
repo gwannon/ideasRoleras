@@ -181,6 +181,12 @@ h1:first-of-type {
   font-style: italic;
 }
 
+h1:nth-of-type(2) {
+  background: #31003d url(../images/porton-mazmorra.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 10px black;
+}
+
 h1:first-of-type + p {
   color: var(--color-secondary);
   font-size: 1.3em;

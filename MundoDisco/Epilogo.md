@@ -44,6 +44,8 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Cohen The Barbarian](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228) por [Genchis](https://www.deviantart.com/genchis)
 * [Magic school library interior](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 * Montaje de [Hormigas](https://www.magnific.com/es/vector-gratis/antecedentes-grupo-hormigas_83320693.htm) de juicy_fish con [sandwich de mantequilla de cacahuete](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm) de brgfx
+* [Libro con papeles alrededor](https://www.magnific.com/es/vector-gratis/pergaminos-antiguos-reales-papel-volando-sobre-libro_11950794.htm) por [Valadzionak_volha](https://www.magnific.com/es/autor/valadzionak-volha)
+* [Portón de madera](https://www.magnific.com/es/vector-gratis/cartel-dibujos-animados-mazmorra-ilustracion-vector-puerta-castillo-medieval_37366276.htm) por [macrovector](https://www.magnific.com/es/autor/macrovector)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 
