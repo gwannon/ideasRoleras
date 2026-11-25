@@ -147,7 +147,7 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 
 **SECRETS**
 * **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
-* **Secreto de la cadena de mando:** _Una vez por recuperación, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
+* **Secreto de la cadena de mando:** _Once per refresh, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
 
 * **CONDITIONS**
   * 🞏 INJURED
@@ -214,13 +214,13 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
   * 🞆 _Confesor_
 
 **KEYS**
-* **Clave del manitas:** Si es algo tecnológico, es tu obligación saber como funciona. Activa esta clave cuando modifiques, mejores, repares o hagas una chapuza sobre alguna tecnología. CANCEL: Deja pasar la oportunidad de enredarte con tecnología.
-* **Clave de la deuda de vida:** _Yalp ha cuidado de ti desde que empezaste a trabajar en las grandes metalúrgicas, el único lugar donde daban trabajos a los goblins. Te ha sacado de muchos problemas y te ha protegido en lo más duro de las huelgas. Activa esta clave cuando sigas las órdenes de Yalp. CANCEL: Al apoyar las nuevas, brillantes e innovadoras ideas de Dez._
-* **Clave del trabajo:** _Te encanta tu trabajo. Activa esta clave al empezar una nueva tarea que nunca habías hecho. CANCEL: Descansar demasiado tiempo._
+* **Handyman’s Key:** If it’s a piece of technology, it’s your duty to know how it works. Invoke this rule whenever you modify, upgrade, repair, or perform a makeshift fix on any technology. CANCEL: Pass up the chance to tinker with technology.
+* **Life-Debt Key:** _Yalp has looked out for you ever since you started working at the great metalworks, the only place that would hire goblins. He has gotten you out of plenty of trouble and protected you during the most intense strikes. Activate this key when following Yalp’s orders. CANCEL: By supporting Dez’s new, brilliant, and innovative ideas._
+* **Work Key:** _You love your work. Activate this key when starting a new task you have never done before. CANCEL: Resting for too long._
 
 **SECRETS**
 * **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
-* **Secreto de la bolsa sin fondo:** _Una vez por recuperación, encuentras en tu bolsa justo la pieza que necesitas para poder seguir con vuestra misión._
+* **Secret of the bottomless bag:** _Once per refresh, you find in your bag exactly the tools or material you need to continue your mission._
 
 * **CONDITIONS**
   * 🞏 INJURED
