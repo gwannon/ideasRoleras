@@ -17,14 +17,14 @@ As your players move through the park, carrying out their plan of destruction, a
 
 \sc
 
-|1d6|North World XXX|
+|1d6|North World|
 |---|---|
 |1|**Bacchanal:** A couple who were alone in the steam rooms didn’t realize an evacuation had taken place, Upon coming out, they found the park empty. They are wandering around half-naked and disoriented.|
-|2|**Demuestre su valor y gane una magnífica electro-hacha:** Si te pones delante de un tablero de madera y dejar que un maniquí lance chisporroteantes electro-hachas cerca de tus extremidades. Si no te mueves el maniquí te regala una de las hachas. Lo que no recordáis es de si está programado para el tamaño de un goblin.|
-|3|**El espectáculo del dios del trueno:** Una maniquí disfrazado de algún tipo de dios mitológico sube al edificio más alto y empieza a lanzar desde sus manos arcos voltaicos que caen en diferentes partes seguras de la zona. Si alguien o algo estuviera en esas partes seguras, la descarga que recibiría sería mortal.|
+|2|**Prove your mettle and win a magnificent electro-axe:** Stand before a wooden board and let an mannequin throw electro-axes near your limbs. If you don’t move, the mannequin will gift you one of the axes. What you can’t quite recall is whether it’s programmed for a creature the size of a goblin.|
+|3|**The God of Thunder Spectacle:** A figure dressed as some sort of mythological god climbs to the top of the tallest building and begins to launch electric arcs from his hands, which land in various safe spots throughout the area. If anyone or anything were to be in those safe spots, the resulting electrical discharge would be fatal.|
 |4|**Reconnaissance flight:** A spy shuttle from the Devastator flies over the area to report back to high command. If you are detected, your sabotage plan could fall apart.|
 |5|**Silence:** By pure chance, at this moment there is no one nearby, neither people nor mannequins. You are alone and in complete silence.|
-|6|**Los laureles de la victoria:** Ante la falta de visitantes, los maniquíes eléctricos empiezan a aglomerarse y a montar un desfile en honor a tus jugadores por sus logros en la batalla. Es difícil moverse entre la multitud que les vitorea y les lanza pétalos y guirnaldas.|
+|6|**The Laurels of Victory:** In the absence of visitors, the electric mannequins begin to gather and stage a parade in honor of your players for their achievements in battle. It is difficult to move through the crowd, which cheers them on and showers them with petals and garlands.|
 
 \sp
 
