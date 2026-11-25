@@ -187,8 +187,14 @@ h1:nth-of-type(2) {
   text-shadow: 0 0 10px black;
 }
 
-h1:nth-of-type(5) {
+h1:nth-of-type(3) {
   background: #31003d url(../images/ciudad-luna.jpg) center center no-repeat;
+  background-size: cover;
+  text-shadow: 0 0 10px black;
+}
+
+h1:nth-of-type(4) {
+  background: #31003d url(../images/clase-magia.jpg) center center no-repeat;
   background-size: cover;
   text-shadow: 0 0 10px black;
 }

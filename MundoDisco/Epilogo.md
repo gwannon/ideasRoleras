@@ -47,6 +47,8 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Libro con papeles alrededor](https://www.magnific.com/es/vector-gratis/pergaminos-antiguos-reales-papel-volando-sobre-libro_11950794.htm) por [Valadzionak_volha](https://www.magnific.com/es/autor/valadzionak-volha)
 * [Portón de madera](https://www.magnific.com/es/vector-gratis/cartel-dibujos-animados-mazmorra-ilustracion-vector-puerta-castillo-medieval_37366276.htm) por [macrovector](https://www.magnific.com/es/autor/macrovector)
 * [Ciudad bajo la luna](https://www.magnific.com/es/vector-gratis/luna-llena-nubes-oscuras-ilustracion-ciudad_3242333.htm) por [katemangostar](https://www.magnific.com/es/autor/katemangostar)
+* [Clase de magia](https://www.magnific.com/free-vector/potion-boiling-witch-cauldron-castle-room_328347931.htm) por [upklyak](https://www.magnific.com/author/upklyak)
++ [Manos mágicas](https://www.magnific.com/free-vector/hand-holding-magic-crystal-ball-fortune-teller-skull-water-sphere-open-globe-icon-gypsy-predict-future-retro-circle-fortuneteller-woman-hands-paranormal-witchcraft-prophet_86378636.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 

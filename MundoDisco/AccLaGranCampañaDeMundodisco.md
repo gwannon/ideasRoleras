@@ -592,10 +592,6 @@ Entre los cameos que meter en tu historia tenemos:
 
 
 
-[![Magic school library interior por upklyak sin-padding](./images/magic-school-library-interior.jpg "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
-
-
-
 Empezar el censo en las peores calles de la ciudad, igual no es buena idea. Puede que si subimos el nivel intelectual de los encuestados (porque solo hay magos, masculino no-genérico) en la Universidad Invisible, la cosa vaya mejor. Con tus jugadoras (esta vez sí, plural femenino genérico) haciendo ese trabajo ya sabes la respuesta, será un puro desastre.
 
 ---
@@ -612,19 +608,26 @@ Algún genio de las mercaderías decidió que era una idea genial montar unas gr
 
 Ha conseguido un permiso especial del archicanciller Mustrum Ridcully el Marrón, que no entiende mucho de encuestas y censos, pero al que Wilbuck se lo ha vendido como una fuente de información interesante y de chismes que le puede ser muy útil para seguir en su cargo.
 
-> Este tipo de detalles deberían empezar a hacer saltar las alarmas a tus jugadoras de que Wilbuck no es tan neutro y plano como parece y que hace cosas un tanto cuestionables. Que esto es Mundodisco y lo éticamente correcto es muy difuso, pero con que alguna jugadora pregunte si eso no es un poco ilegal ya nos vale.
+Le ha prometido que con las encuestas podrá suministrarles algunos porcentajes poderosos de su Esta-Listica, lo suficiente para que siga un par años en su puesto, algo que le gusta mucho al archicanciller.
 
+[![Magic school library interior por upklyak](./images/manos.png "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
 
+Es casi imposible entrar legalmente en la universidad si no eres mago. Este tipo de detalles deberían empezar a hacer saltar las alarmas a tus jugadoras de que Wilbuck no es tan neutro y plano como parece y que hace cosas un tanto cuestionables. Que esto es Mundodisco y lo éticamente correcto es muy difuso, pero con que alguna jugadora pregunte si eso no es un poco ilegal ya nos vale.
 
 Con el salvoconducto del archicanciller y un sándwich de cordero, lechuga y tomate (cuando el cordero es rico y magro y los tomates están maduros) Wilbuck les enviará a la Universidad Invisible a ver si aquí consiguen mejores resultados que en el intento anterior.
 
 
+
+
+
+[![Magic school library interior por upklyak con-borde](./images/magic-school-library-interior.jpg "Magic school library interior por upklyak")](https://www.magnific.com/free-vector/magic-school-library-interior_181869081.htm "Magic school library interior por upklyak")
 
 ## Entra Spandau Ville
 
 
 
 Enseñando la placa rápidamente (con lo que el personal encargado del control del acceso a la Universidad se piensa que eres de la Guardia de la ciudad) y con el salvoconducto del archicanciller, no deberían tener ningún problema para entrar. Aunque siempre puedes usar el viejo «No sé Rick, parece falso» y tocarles las narices un rato a tus jugadoras.
+
 
 Wilbuck les han dado un nombre, Spandau Ville, que tiene pinta que es el pringao al que le ha caído el marrón de guiar a tus jugadoras por la universidad para hacer las encuestas. Según se le encuentren verán que es verdad, Spandau es un pringadete. 
 
@@ -635,10 +638,10 @@ Spandau empezará su ruta por la universidad llevándoles de cátedra en cátedr
 No es necesario hacer nuevas entrevistas, pero si tus jugadoras se lo pasaron bien en el capítulo anterior aquí tiene algunas ideas (recuerda que en algún momento dejaremos de darte ideas y tendrás que currártelo tú misma).
 
 * Cuando abren la puerta de su despacho se ven los baños, si la cierran y vuelven a abrir las cocinas, los comedores, la carbonera, etc. Cuando se vayan, verán a un mago entrar al despacho y si vuelven a intentar abrir la puerta dará otra vez a los baños. Lo única forma de entrar es que abra la puerta un mago como Spandau, cosa que ni él sabe.
+
+
+
 * Han interrumpido al mago al que tienen que hacerle la encuesta en mitad de **un experimento en el que está trayendo versiones suyas del presente y del pasado**. La cuestión es que todos ellos son el mago que quieren encuestar y, contrariamente a lo que pasa la mayoría de las veces, todas las versiones quieren contestar a las preguntas del censo. Empezarán a discutir entre ellos porque sus respuestas no son las mismas aunque sean el mismo mago. Por otro lado, aunque sean versiones del mismo mago de diferentes años, todas visten igual (de mal) y tienen el mismo peinado (horrible). Así que es imposible saber con qué versión estás hablando.
-
-
-
 * El mago es solo **una cabeza en un tarro de cristal** cerrado lleno de un líquido espeso encima de su mesa de trabajo. Parece que habla porque abre la boca y salen burbujas, pero no se le entiende nada. Si quieren rellenar su cuestionario, deberán buscar una manera de comunicarse con él. No pueden sacarlo del tarro, porque hay un lacre que sella el tarro y que tiene un papelito atado que dice «Garantía cancelada, si el sello está roto».
 
 
@@ -655,23 +658,21 @@ Según se acercan, por los techos hay tubos llenos de tierra por los que andan h
 
 HEX es un superordenador mágico (superordenador para Mundodisco, seguramente es 20 veces menos potente que el que se usó para mandar al APOLO XIII a la Luna y encima no aterrizaron) que funciona gracias a una inmensa estructura de tubos y depositos por donde se mueven decenas de millones de hormigas. 
 
-
-
 > ¿Y esto qué es? ¿Un cameo o algo importante para la trama? Pues sinceramente las dos cosas, cuando me hablaron de este «personaje» me dije: Me viene genial para la historia y encima es un cameo. ¿Qué más puedo pedir?
 
 Aun así HEX es un gran salto comprador con los viejos círculos druídicos de piedras, que no servían más que de calendario. La única persona que entiende como funciona HEX es Ponder Stibbons, su creador, y según él esto va a revolucionar el mundo tal y como lo entendemos.
+
+
 
 En el futuro todo el mundo tendrá un mini-hormiguero en su casa que hará tu trabajo por ti al precio de mermeladas y toros productos azucarados. A la pregunta de si eso no haría que no subiera el precio del azúcar, contesto que el mercado se regula solo.
 
 Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia de Altas Energías y pueden hacer cálculos bastante complejos para un mago e infinítamnete más complejos de lo que podría hacer un trol.
 
-
+[![Montaje con un sandwich y unas hormigas](./images/hormigas-sandwich.jpg "Montaje con un sandwich y unas hormigas")](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm "Montaje con un sandwich y unas hormigas")
 
 Solo Stibbons sabe muy como funciona internamente, pero Spandau que se dedica a su mantenimiento, empieza a comprenderlo y lo que es más importante le ha empezado a ponerle nombre a cada hormiga, a reconocerlas, a saber que dulces le gustan más, así que también entiende HEX, pero de una manera más amigable y personal.
 
 HEX ha sufrido con anterioridad sabotajes que han hecho que funcionará mal y Spandau está convencido de que han sido por parte de los Numerólogos que no ven con buenos ojos que se usen las «matemágicas» de esa forma.
-
-[![Montaje con un sandwich y unas hormigas](./images/hormigas-sandwich.jpg "Montaje con un sandwich y unas hormigas")](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm "Montaje con un sandwich y unas hormigas")
 
 ### Y por eso no hay que dejar comida cerca de HEX
 
@@ -681,17 +682,17 @@ De repente, Spandau gritará de sorpresa. No para de mirar los tubos de los bich
  
 En unos segundos sacará un sandwich de mantequilla de cacahuetes con mermelada de frambuesa lleno de hormigas que fueron a coger comida y quedaron atrapadas en su pringue.
 
+[![Hormigas](./images/hormigas.jpg "Hormigas")](https://www.magnific.com/es/vector-gratis/antecedentes-grupo-hormigas_83320693.htm "Hormigas")
+
 > Mantequilla de cacahuetes en plural. Los productores tuvieron problemas al comercializarla, porque la gente pensaba que solo se usaba un cacahuete en hacerla todo un tarro. La lógica diría que también debería ser mermelada de frambuesas, pero ahí no hubo problemas. Está claro que hay cierta animadversión hacia los frutos secos y sus productos derivados.
 
 – ¡¡¡Sabotaje!!! Esto es sabotaje – Grita a tus jugadoras mientras agita el sandwich y les llena la cara de mantequilla de cacahuetes y mermelada de frambuesa.
 
-[![Hormigas](./images/hormigas.jpg "Hormigas")](https://www.magnific.com/es/vector-gratis/antecedentes-grupo-hormigas_83320693.htm "Hormigas")
+
 
 Se pondrá a buscar y, si tus jugadoras le ayudan, encontrarán toda una serie de dulces para atraer a las hormigas: piruletas, roscones de miel, pasteles de mermelada, etc.
 
 Curiosamente no se han acercado a los bollos dulces de los enanos. Bueno, de curioso nada, ni los propios enanos se acercan. Estudiando donde estaban los bollos, parece que se han usado para hacer que las hormigas no fueran por ciertas partes.
-
-
 
 Todo indica que alguien ha querido usar a HEX sin los permisos necesarios y se ha buscado la manera de desviar el flujo computacional de hormigas a otra parte del edificio para hacer sus propios cálculos.
 
@@ -715,11 +716,11 @@ Si esperan, tendrán que buscarse un escondite. Piensa que es un pasillo oscuro 
 
 > Si alguna jugadora quiere esconderse detrás de un cucharón de madera, hazle el signo de OK con la mano, apláudela y dale el d12, si es que  has pillado la referencia. Si no, cierra este aventura y ponte a dirigir otra cosa, estás perdiendo el tiempo aquí.
 
+
+
 Tarde o temprano alguien dirá que se aburre y tiene hambre y se pondrá a limpiar la comida invadida de hormigas y a querer comérsela, en ese momento aparecerá una figura encapuchada y con ropas negras de unas de las alcantarillas cercanas.  
 
 Si todos pasan la tirada, pillan a la pirata por sorpresa y es fácil de atrapar, pero si alguien falla tiene una consecuencia clara, Trazcuatro, que así se llama la pirata, escapa corriente. 
-
-
 
 Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. 
 
@@ -741,9 +742,9 @@ Al otro lado de la tubería habría una especie de molinillo con cabeza de patit
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
+
+
 La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
-
-
 
 Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía mandar mensajes usando su memoria molécula a molécula. El problema es que al agua no le gustan ser una cotilla, así que puedes contarle un chisme a una molécula de agua, pero no se lo pasa a la siguiente molécula, así que la comunicación era imposible,  
 
@@ -754,8 +755,6 @@ Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía m
 XXX
 
 Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso a los registros de HEX, es decir que puede pedirles a las hormigas que repitan los últimos cálculos y que se los enseñen. Él, fácilmente, por sus conocimientos de mantenimiento podrá ver que alguien quería simular un sistema de comunicación como las torres de clacs, pero usando grifos, tuberías y agua azucarada (eso lo han metido las hormigas a ver si pillan algo rico).
-
-
 
 
 
@@ -770,6 +769,8 @@ Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almac
 Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
 
 Por unos segundos estará más interesado en Trazcuatro que en las encuestas y de normal no hay nada más interesante que las encuestas. De hecho, se le pondrá una sonrisa bobalicona mientras le hablan de Trazcuatro y su proyecto. 
+
+
 
 ### Algo huele a chamusquina en la oficina
 
@@ -1177,6 +1178,8 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Libro con papeles alrededor](https://www.magnific.com/es/vector-gratis/pergaminos-antiguos-reales-papel-volando-sobre-libro_11950794.htm) por [Valadzionak_volha](https://www.magnific.com/es/autor/valadzionak-volha)
 * [Portón de madera](https://www.magnific.com/es/vector-gratis/cartel-dibujos-animados-mazmorra-ilustracion-vector-puerta-castillo-medieval_37366276.htm) por [macrovector](https://www.magnific.com/es/autor/macrovector)
 * [Ciudad bajo la luna](https://www.magnific.com/es/vector-gratis/luna-llena-nubes-oscuras-ilustracion-ciudad_3242333.htm) por [katemangostar](https://www.magnific.com/es/autor/katemangostar)
+* [Clase de magia](https://www.magnific.com/free-vector/potion-boiling-witch-cauldron-castle-room_328347931.htm) por [upklyak](https://www.magnific.com/author/upklyak)
++ [Manos mágicas](https://www.magnific.com/free-vector/hand-holding-magic-crystal-ball-fortune-teller-skull-water-sphere-open-globe-icon-gypsy-predict-future-retro-circle-fortuneteller-woman-hands-paranormal-witchcraft-prophet_86378636.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 
