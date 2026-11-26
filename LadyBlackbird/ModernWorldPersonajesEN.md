@@ -233,9 +233,9 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
   * 🞏 ELECTROCUTED
   * 🞏 DEAD (PRESUMED)
 
-**ITEMS:** Ropas de trabajo, botas, guantes, mono de trabajo, gafas protectoras, casco y bandolera para las herramientas y piezas de recambio. Todos estos elementos han sido modificadas para ser más eficientes. Son pequeños y sencillos cambios, pero muy ingeniosos.
+**ITEMS:** Personal protective equipment (boots, gloves, coveralls, protective eyewear, a hard hat) and a shoulder bag for tools and spare parts, all these items have been modified to be more efficient. They are small, simple changes, yet highly ingenious.
 
-**APPEARANCE:** Goblin maduro con una sonrisa siempre en la cara sobre todo cuando trabaja en las cosas que le gustan. Las manos nunca están vacías, porque siempre está haciendo algo o va a hacer algo.
+**APPEARANCE:** A mature goblin who always wears a smile, especially when working on things he enjoys. His hands are never idle, as he is always doing something—or about to start something.
 
 \sp
 
