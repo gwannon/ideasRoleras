@@ -74,7 +74,7 @@ Aun así HEX es un gran salto comprador con los viejos círculos druídicos de p
 
 En el futuro todo el mundo tendrá un mini-hormiguero en su casa que hará tu trabajo por ti al precio de mermeladas y toros productos azucarados. A la pregunta de si eso no haría que no subiera el precio del azúcar, contesto que el mercado se regula solo.
 
-Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia de Altas Energías y pueden hacer cálculos bastante complejos para un mago e infinítamnete más complejos de lo que podría hacer un trol.
+Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia de Altas Energías y pueden hacer cálculos bastante complejos para un mago e infinitamente más complejos de lo que podría hacer un trol.
 
 [![Montaje con un sandwich y unas hormigas](./images/hormigas-sandwich.jpg "Montaje con un sandwich y unas hormigas")](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm "Montaje con un sandwich y unas hormigas")
 
@@ -112,19 +112,23 @@ Según Spandau, el proceso es lento, así que la pirata computacional se ha ido 
 
 \conc
 
-En este punto tus jugadoras tendrán que decidir que hacen, esperan a la pirata o la buscan. No hay opción mala, simplemente, sigue lo que ellos te digan. Lo que si deben pensar es si se lanzan a atrapar a la pirata nada lo vean o tratan de averiguar que está buscando.
+En este punto tus jugadoras tendrán que decidir que hacen, esperan a la pirata o la buscan. No hay opción mala, simplemente, sigue lo que ellos te digan. Lo que si deben pensar es si se lanzan a atrapar a la pirata nada más la vean o tratan de averiguar que está buscando.
 
-> Hay muchas posibilidades de que tus jugadoras no quiera ayudar a Spandau. Este no es un juego de heroínas épicas que se lanzan a la batalla por el amor y la justicia. Así que Spandau puede ofrecerles, encargarse el de terminar las entrevistas. Incluso poder usar a HEX para alguna cosa que necesiten. También puede ayudarles a identificar insectos, pero nunca a nadie le ha sido útil en un juego de rol, o tal vez sí.
+> Hay muchas posibilidades de que tus jugadoras no quiera ayudar a Spandau. Este no es un juego de heroínas épicas que se lanzan a la batalla por el amor y la justicia. Así que Spandau puede ofrecerles encargarse el de terminar las entrevistas por ellas. Incluso negociar con ellas poder usar a HEX para hacer algún cálculo que necesiten en el futuro. También puede ayudarles a identificar insectos, pero esto nunca le ha sido útil en un juego de rol a nadie, o tal vez sí. Ya veremos como avanza la aventura.
 
-Si se ponen a buscar:
+Si se ponen a buscar, la pirata estará escondida en un cuarto escobero cercano. Cuando abran la puerta, las escobas, fregonas y los cubos de peral sabio que algún mago dejo dentro empezarán a moverse y a barrer y fregar el suelo. La pirata intentará aprovechar el caos del momento para huir. 
 
-XXX
+Si todas pasan la tirada, pillan a la pirata entre todas en su intento de huida. Si no pasan la tirada todas, los que la hayan pasado estarán libres de perseguir a la pirata, pero si alguien falla tiene una consecuencia clara, se te tendrán que enfrentar a las escobas, fregonas y cubos que empezarán a atacarlas. 
 
-Si esperan, tendrán que buscarse un escondite. Piensa que es un pasillo oscuro con techos altos y recodos y puertas cada poco. No es complicado esconderse, pero es aburrido y cansado estar mucho rato escondido.
-
-> Si alguna jugadora quiere esconderse detrás de un cucharón de madera, hazle el signo de OK con la mano, apláudela y dale el d12, si es que  has pillado la referencia. Si no, cierra este aventura y ponte a dirigir otra cosa, estás perdiendo el tiempo aquí.
+Si todos fallan, la pirata huira entre las sombras de los pasillos y las fregonas, cubos y escobas empezarán a inundar de agua toda la zona. Spandau se pondrá histérico por si el agua destruye a HEX. 
 
 \sp
+
+> Todo el mundo sabe que el agua y la electricidad, digo, las hormigas no se juntan.
+
+Si esperan, tendrán que buscarse un escondite. Piensa que es un pasillo oscuro con techos altos y recodos y puertas cada poco. No es complicado esconderse, pero es aburrido y cansado estar mucho rato escondido. Y según las películas de policías da mucha hambre.
+
+> Si alguna jugadora quiere esconderse detrás de un cucharón de madera, hazle el signo de OK con la mano, apláudela y dale el d12, si es que  has pillado la referencia. Si no, cierra este aventura y ponte a dirigir otra cosa, estás perdiendo el tiempo aquí.
 
 Tarde o temprano alguien dirá que se aburre y tiene hambre y se pondrá a limpiar la comida invadida de hormigas y a querer comérsela, en ese momento aparecerá una figura encapuchada y con ropas negras de unas de las alcantarillas cercanas.  
 
@@ -146,11 +150,11 @@ Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque
 
 Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos.
 
+\sp
+
 Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
-
-\sp
 
 La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
 
@@ -174,11 +178,11 @@ Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, segur
 
 Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva.
 
+\sp
+
 Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
 
 Por unos segundos estará más interesado en Trazcuatro que en las encuestas y de normal no hay nada más interesante que las encuestas. De hecho, se le pondrá una sonrisa bobalicona mientras le hablan de Trazcuatro y su proyecto. 
-
-\sp
 
 ### Algo huele a chamusquina en la oficina
 

@@ -792,3 +792,5 @@ continuum
 Rincewind
 Cohen
 archicanciller
+Trazcuatro
+HEX
