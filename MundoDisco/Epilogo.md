@@ -49,6 +49,7 @@ Estoy usando imágenes con licencia CC y siguiendo la licencia paso a atribuirla
 * [Ciudad bajo la luna](https://www.magnific.com/es/vector-gratis/luna-llena-nubes-oscuras-ilustracion-ciudad_3242333.htm) por [katemangostar](https://www.magnific.com/es/autor/katemangostar)
 * [Clase de magia](https://www.magnific.com/free-vector/potion-boiling-witch-cauldron-castle-room_328347931.htm) por [upklyak](https://www.magnific.com/author/upklyak)
 + [Manos mágicas](https://www.magnific.com/free-vector/hand-holding-magic-crystal-ball-fortune-teller-skull-water-sphere-open-globe-icon-gypsy-predict-future-retro-circle-fortuneteller-woman-hands-paranormal-witchcraft-prophet_86378636.htm) por [upklyak](https://www.magnific.com/author/upklyak)
+* [Ventanales con vidrieras](https://www.magnific.com/es/vector-gratis/ilustracion-salon-baile-o-palacio-sala-gotica-real-noche-vidrieras_3090746.htm) por [vectorpouch](https://www.magnific.com/es/autor/vectorpouch)
 
 Si hay algún error o se me ha colado alguna imagen hecha con IA generativa, hacédmelo saber para corregirlo.
 

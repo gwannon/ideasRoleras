@@ -134,13 +134,26 @@ Tarde o temprano alguien dirá que se aburre y tiene hambre y se pondrá a limpi
 
 Si todos pasan la tirada, pillan a la pirata por sorpresa y es fácil de atrapar, pero si alguien falla tiene una consecuencia clara, Trazcuatro, que así se llama la pirata, escapa corriente. 
 
+Si todos pasan la tirada, pillan a la pirata por sorpresa y es fácil de atrapar, pero si alguien falla tiene una consecuencia clara, Trazcuatro, que así se llama la pirata, escapa corriente. 
+
 Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. 
 
 Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco. Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
 
-XXX
+Pues ahora la campaña se pone donde se ven las costuras a los sistemas, las persecuciones. Pero este juego no las tiene así que vamos a inventarnos rápidamente unas muy sencillas. Va a haber 3 localizaciones y si en alguna de ellas la mitad de las perseguidoras más una consiguen pasar la tirada, atrapan a Trazcuatro. Si no, esta escapa por una alcantarilla y no la vuelven a ver, bueno sí, pero más tarde. Sí fallan una tirada obtendrán una consecuencia de estar retrasados o cosas peores,  sefgún su situación.
 
-> Durante todo esta escena, todo toma un tono verdoso fosforescente, seguramente algún hechizo perdido o mal ejecutado. De hecho, por el rabillo del ojo tus jugadoras pueden ver runas extrañas verdes que caen y de lejos se oye una música machacona y repetitiva, digna de los mejores intérpretes trolescos.
+> Sí consiguen atraparla, caerán todas ellas encima como si fueran un equipo de rugby de dibujos animados, que en cierta medida es lo que son tus jugadoras brutas y alocadas. Que no se extrañen de levantarse con alguna protección como coderas que han aparecido de la nada o tratando de morderse su propio pie.
+
+Estas algunas de las localizaciones divertidas que pueden usar para darle vidilla a la persecución:
+
+\sp
+
+* En un pasillo estrecho entre vosotros y Trazcuatro se interpone un par de trabajadoras llevando una tarta gigante, un gran cristal, una olla de aceite hirviendo para lanzar desde las almenas un par de magos que llevan un demonio sujeto con cadenas de plata, etc. Lanzarse contra el obstáculo tiene consecuencias dependiendo de dicho obstáculo.
+* La habitación donde entran no sigue las de por sí ya alteradas reglas de la física del disco. Quizás la gravedad está invertida, el tiempo es más sólido de lo normal y va más lento, todo es en blanco y negro o en sepia como una película antigua.
+* En la habitación en la que entráis hay algún tipo de celebración o reunión. Quizás es la fiesta de jubilación de algún decano, la fiesta de presentación de un nuevo decano, el velatorio del decano que se había jubilado en la opción anterior, etc. Sea como sea hay tarta, copas de cristal, alcohol y mucha gente un poco pedo.
+* Y por último un poco de turismo de los lugares míticos de la universidad: la sección de libros mágicos peligrosos con libros que saltan de las estanterías para morderte, pero no llegan porque están encadenados; el aula 3B que no existe en ningún mapa y no hay indicaciones de donde está, pero en la que todos los magos recuerdan haber recibido clases; correr en círculos alrededor de la altísima Torre del Arte en los jardines de la universidad, etc.
+
+> Durante todo esta escena, todo toma un tono verdoso fosforescente, seguramente algún hechizo perdido o mal ejecutado. De hecho, por el rabillo del ojo tus jugadoras pueden ver runas extrañas verdes que caen y de lejos se oye una música machacona y repetitiva, digna de los mejores intérpretes trolescos. A _la campaña_ le gustó Matrix y tenía ganas de meter este tipo de escenas cuando tus jugadoras/agentes Smith sigue a Trazcuatro/Trinity.
 
 ### ¿Qué está buscando Trazcuatro?
 
@@ -150,9 +163,9 @@ Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque
 
 Quiere calcular si su sistema de envío de mensajes por tuberías de agua es posible. En vez de molestas torres de clacs, habría pozos subterráneos que mandarían señales dejando pasar agua por tuberías entre pozos.
 
-\sp
-
 Al otro lado de la tubería habría una especie de molinillo con cabeza de patito que se movería con el agua y que haría ruidos para dar los mensajes.
+
+\sp
 
 > Si alguna jugadora te dice que eso no es factible, saca tu título de «Terry Pratchett espacio-temporal» y dile que el campo mágico de Mundodisco llena el agua de octarino y modifica la física de su hidrodinámica. Pero si fuera yo, le quitaba un punto de Suerte por tocanarices.
 
@@ -171,9 +184,11 @@ Una vez Trazcuatro ha explicado su historia, pueden decidir qué hacer con ella.
 * La opción inteligente es dejarla hacer sus cálculos en HEX y luego largarse con los datos.  Total se ha dejado un pastón en comida y a las hormigas parece que les ha gustado. También se granjean su amistad y no tiene que volver a hacer infiltrarse en la universidad. ¿Tiene lógica? No. ¿Tiene lógica en una partida de rol? Siempre.
 * La opción más tonta posible, porque también es una opción que tus jugadoras podrían escoger, es que cojan todo su dinero y lo inviertan en la nueva tecnología de Trazcuatro. La gente se vuelve loca con las nuevas tecnologías y si no, recordad la estafa piramidal del azufre rojo, en la que un alquimista prometía convertir el pollo en oro. Sobre el papel funcionaba, pollo -> polo -> poro -> oro. Al final solo consiguieron toneladas de sopa de pollo. La excusa de la estafadora fue que las diosas de la alquimia están mayores y valoran más la sopa calentita que los metales preciosos.
 
+Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso a los registros de HEX, es decir que puede pedirles a las hormigas que repitan los últimos cálculos y que se los enseñen.
+
 \sp
 
-Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso a los registros de HEX, es decir que puede pedirles a las hormigas que repitan los últimos cálculos y que se los enseñen. Él, fácilmente, por sus conocimientos de mantenimiento podrá ver que alguien quería simular un sistema de comunicación como las torres de clacs, pero usando grifos, tuberías y agua azucarada (eso lo han metido las hormigas a ver si pillan algo rico).
+Él, fácilmente, por sus conocimientos de mantenimiento podrá ver que alguien quería simular un sistema de comunicación como las torres de clacs, pero usando grifos, tuberías y agua azucarada (eso lo han metido las hormigas a ver si pillan algo rico).
 
 \sinc
 

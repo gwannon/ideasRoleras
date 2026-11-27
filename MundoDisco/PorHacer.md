@@ -1,18 +1,47 @@
-Si todos pasan la tirada, pillan a la pirata por sorpresa y es fácil de atrapar, pero si alguien falla tiene una consecuencia clara, Trazcuatro, que así se llama la pirata, escapa corriente. 
+\sinc
 
-Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va el sistema de calefacción de la Universidad y el de alcantarillado. La verdad es que teniendo en cuenta que hay partes de la universidad que están en varios espacios de existencia a la vez o en distintas líneas temporales, saber moverse por los conductos de la calefacción es bastante impresionante. 
+XXX
 
-Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco. Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
+---
 
-Pues ahora la campaña se pone donde se ven las costuras a los sistemas, las persecuciones. Pero este juego no las tiene así que vamos a inventarnos rápidamente unas muy sencillas. Va a haber 3 localizaciones y si en alguna de ellas la mitad de las perseguidoras más una consiguen pasar la tirada, atrapan a Trazcuatro. Si no, esta escapa por una alcantarilla y no la vuelven a ver, bueno sí, pero más tarde. Sí fallan una tirada obtendrán una consecuencia de estar retrasados o cosas peores.
+\conc
 
-> Sí consiguen atraparla, caerán todas ellas encima como si fueran un equipo de rugby de dibujos animados, que en cierta medida es lo que son tus jugadoras brutas y alocadas. Que no se extrañen de levantarse con alguna protección como coderas que han aparecido de la nada o tratando de morderse su propio pie.
+XXX
 
-Estas algunas de las localizaciones divertidas que pueden usar para darle vidilla a la persecución:
+\sinc
 
-* En un pasillo estrecho entre vosotros y Trazcuatro se interpone un par de trabajadoras llevando una tarta gigante, un gran cristal, una olla de aceite hirviendo para lanzar desde las almenas un par de magos que llevan un demonio sujeto con cadenas de plata, etc. Lanzarse contra el obstáculo tiene consecuencias dependiendo de dicho obstáculo.
-* La habitación donde entran no sigue las de por si reglas de la física del disco. Quizás la gravedad está invertida, el tiempo es más solido de lo normal y va más lento, todo es en blanco y negro o en sepia como una película antigua.
-* En la habitación en la que entráis hay algún tipo de celebración o reunión. Quizás es la fiesta de jubilación de algún decano, la fiesta de presentación de un nuevo decano, el velatorio del decano que se había jubilado en la opción anterior, etc. Sea como sea hay tarta, copas de cristal, alcohol y mucha gente un poco pedo.
-* Y por último un poco de turismo de los lugares míticos de la universidad: la sección de libros mágicos peligrosos con libros que saltan de las estanterías para morderte pero no llegan porque están encadenados; el aula 3B que no existe en ningún mapa y no hay indicaciones de donde está pero en la que todos los magos recuerdan haber recibido clases; correr en círculos alrededor de la altísimo Torre del Arte en los jardines de la universidad, etc.
+## El Chisme
 
-> Durante todo esta escena, todo toma un tono verdoso fosforescente, seguramente algún hechizo perdido o mal ejecutado. De hecho, por el rabillo del ojo tus jugadoras pueden ver runas extrañas verdes que caen y de lejos se oye una música machacona y repetitiva, digna de los mejores intérpretes trolescos. A _la campaña_ le gustó Matrix y tenía ganas de meter este tipo de escenas cuando tus jugadoras/agentes-smith sigue a Trazcuatro/Trinity.
+\conc
+
+Todo el plan de Wilbuck para hacerse con el poder se basa en obtener un buen censo lleno de datos que usar para controlar a las masas. El problema está en que el censo no avanza, nadie contesta y los que lo hacen mienten más que ven.
+
+Para salvar la situación está el hijo bastardo de la Narración, el Chisme. Nadie quiere contestar a las preguntas de la encuesta, ni pagando ni con amenazas o enseñando la placa de agente censal, pero si les preguntas por la vecina de la puerta de enfrente, te contará lo quieras.
+
+> En juego las tiradas de d4 y d6 que podían conseguir para hacer encuestas se convierten en d10 y d12 usando el Chisme
+
+Una sola señora que escucha detrás de las puertas y espía por la mirilla puede darte información de todo un edificio y encima te invitará a riquísimas rosquillas de los enanos y té.
+
+> Nota cultural: las rosquillas de los enanos son rojas, cuadradas, con más de un agujero y apilables y se usaban para apuntalar minas enanas, pero las argamaseras enanas descubrieron que a las otras especies les gustaban como merienda untándolas en infusiones y tés y empezaron a crear las primeras reposterías enanas.
+
+### Cómo descubrir el Chisme
+
+Ya hemos dicho varias veces que las jugadoras de tu mesa no son los lápices más afilados de la caja, pero alguna vez pueden sorprenderte. Así que si ellos no lo descubren puedes dejarles sutiles migas de pan, con frases como:
+
+* Yo no soy una cotilla y de esas cosas que me pregunta no sé, pero mi vecina …
+* Yo no. Eso mi cuñada que es de fuera.
+* Cómo se atreve a preguntarme - a gritos - eso mi vecina que es de esas, ya sabe - en susurros
+
+Por último, si no lo pillan tras un par de intentos infructuosos de hacer una encuesta, la señora cotilla del piso de arriba que no os ha quitado el ojo de encima desde que entraron al edificio les invitará a su casa a té y rosquillas de los enanos y les contestará a todas las preguntas.
+
+> Si no eso, no lo pillan cierra el manual, guarda los trastos, diles que ya lo han conseguido, que han salvado a la ciudad. En serio, búscate otro grupo para jugar rol.
+
+\sp
+
+### Cómo mantenerlo en secreto
+
+XXX
+
+Les contará que conoce a una señora que estudia a los castores gigantes de Lancre y sus costumbres. Ella dice que hay que mantener la integridad científica del estudio y que el ojo del observador (no tengo muy claro que tendrá que ver con el juego de rol) puede contaminar los resultados del estudio. Por ello se pone un disfraz de castor gigante y se baña en sus orines cuando se acerca a ellos.
+
+Seguramente tu mesa no entienda nada y se quede que la ciencia sea disfraces raros y malos olores.
