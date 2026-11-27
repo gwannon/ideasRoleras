@@ -4,12 +4,15 @@ Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va
 
 Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco. Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
 
-Pues ahora la campaña se pone donde se ven las costuras a los sistemas, las persecuciones. Pero este juego no las tiene así que vamos a inventarnos rápidamente unas muy sencillas. Va a haber 3 localizaciones y si en alguna de ellas la mitad de las perseguidoras más una consiguen pasar la tirada, atrapan a Trazcuatro. Si no, esta escapa por una alcantarilla y no la vuelven a ver, bueno sí, pero más tarde.
+Pues ahora la campaña se pone donde se ven las costuras a los sistemas, las persecuciones. Pero este juego no las tiene así que vamos a inventarnos rápidamente unas muy sencillas. Va a haber 3 localizaciones y si en alguna de ellas la mitad de las perseguidoras más una consiguen pasar la tirada, atrapan a Trazcuatro. Si no, esta escapa por una alcantarilla y no la vuelven a ver, bueno sí, pero más tarde. Sí fallan una tirada obtendrán una consecuencia de estar retrasados o cosas peores.
 
-Estas algunas de las localizaciones divertidas que pueden usar:
+> Sí consiguen atraparla, caerán todas ellas encima como si fueran un equipo de rugby de dibujos animados, que en cierta medida es lo que son tus jugadoras brutas y alocadas. Que no se extrañen de levantarse con alguna protección como coderas que han aparecido de la nada o tratando de morderse su propio pie.
 
-* XXX
-* XXX
-* XXX
+Estas algunas de las localizaciones divertidas que pueden usar para darle vidilla a la persecución:
 
-> Durante todo esta escena, todo toma un tono verdoso fosforescente, seguramente algún hechizo perdido o mal ejecutado. De hecho, por el rabillo del ojo tus jugadoras pueden ver runas extrañas verdes que caen y de lejos se oye una música machacona y repetitiva, digna de los mejores intérpretes trolescos.
+* En un pasillo estrecho entre vosotros y Trazcuatro se interpone un par de trabajadoras llevando una tarta gigante, un gran cristal, una olla de aceite hirviendo para lanzar desde las almenas un par de magos que llevan un demonio sujeto con cadenas de plata, etc. Lanzarse contra el obstáculo tiene consecuencias dependiendo de dicho obstáculo.
+* La habitación donde entran no sigue las de por si reglas de la física del disco. Quizás la gravedad está invertida, el tiempo es más solido de lo normal y va más lento, todo es en blanco y negro o en sepia como una película antigua.
+* En la habitación en la que entráis hay algún tipo de celebración o reunión. Quizás es la fiesta de jubilación de algún decano, la fiesta de presentación de un nuevo decano, el velatorio del decano que se había jubilado en la opción anterior, etc. Sea como sea hay tarta, copas de cristal, alcohol y mucha gente un poco pedo.
+* Y por último un poco de turismo de los lugares míticos de la universidad: la sección de libros mágicos peligrosos con libros que saltan de las estanterías para morderte pero no llegan porque están encadenados; el aula 3B que no existe en ningún mapa y no hay indicaciones de donde está pero en la que todos los magos recuerdan haber recibido clases; correr en círculos alrededor de la altísimo Torre del Arte en los jardines de la universidad, etc.
+
+> Durante todo esta escena, todo toma un tono verdoso fosforescente, seguramente algún hechizo perdido o mal ejecutado. De hecho, por el rabillo del ojo tus jugadoras pueden ver runas extrañas verdes que caen y de lejos se oye una música machacona y repetitiva, digna de los mejores intérpretes trolescos. A _la campaña_ le gustó Matrix y tenía ganas de meter este tipo de escenas cuando tus jugadoras/agentes-smith sigue a Trazcuatro/Trinity.
