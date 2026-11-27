@@ -143,11 +143,12 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 **KEYS**
 * **Leader’s Key:** _You are the leader not because you want to be, but because you must be. Activate this key when you take command and lead the group. CANCEL: You cede command to others._
 * **Key to a Lifelong Dream:** _The park has been your dream since you were a little goblin, yet it is your duty to destroy it. Activate this key when you destroy elements of the park unnecessarily, simply to ensure it falls into the wrong hands. CANCEL: When you attempt to save something from the park._
-* **Clave senil:** _Te haces mayor y tu cuerpo empieza fallar. Activa está clave cuando intentas esfuerzos a actividades físicas extras que seguramente acabarás pagando. CANCEL: Cuando encargas a otros esfuerzos físicos, que podrías asumir tú._
+* **Senility Key:** You get older, and your body starts to fail. Activate this key when you attempt extra physical exertion—efforts for which you will almost certainly pay the price later. CANCEL: When you delegate physical tasks to others—tasks that you could have taken on yourself._
+
 
 **SECRETS**
 * **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
-* **Secreto de la cadena de mando:** _Once per refresh, puedes darle a una persona que esté bajo tus órdenes la oportunidad de volver a realizar una tirada fallida._
+* **Secret of the Chain of Command:** Once per refresh, you may grant someone under your command the opportunity to reroll a failed roll.
 
 * **CONDITIONS**
   * 🞏 INJURED
@@ -176,15 +177,15 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
 
 **TRAITS & TAGS**
 
-* Mantenimiento
-  * 🞊 _Revisar_
-  * 🞊 _Detectar problemas_
-  * 🞊 _Conducir_
-  * 🞊 _Leer planos_
-  * 🞊 _Mejorar_
-  * 🞆 _Crear herramientas_
-  * 🞆 _Reemplazar_
-  * 🞆 _Recabar información_
+* Maintenance
+  * 🞊 _Check errors_
+  * 🞊 _Detect problems_
+  * 🞊 _Pilot/Drive_
+  * 🞊 _Read blueprints_
+  * 🞊 _Improve_
+  * 🞆 _Create tools_
+  * 🞆 _Replace pieces_
+  * 🞆 _Gather information_
 * Goblin
   * 🞊 _Shapeshifting_
   * 🞊 _Connections_
@@ -287,7 +288,7 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
 
 **SECRETS**
 * **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
-* **Secreto de la genialidad:** _Eres un genio. Una vez por sesión, puedes repetir una tirada fallida de ingeniería, mecánica, electricidad, …_
+* **Secret of Genius:** _You are a genius. Once per session, you may reroll a failed check involving engineering, mechanics, electricity, …_
 
 * **CONDITIONS**
   * 🞏 INJURED
