@@ -666,7 +666,7 @@ Aun así HEX es un gran salto comprador con los viejos círculos druídicos de p
 
 En el futuro todo el mundo tendrá un mini-hormiguero en su casa que hará tu trabajo por ti al precio de mermeladas y toros productos azucarados. A la pregunta de si eso no haría que no subiera el precio del azúcar, contesto que el mercado se regula solo.
 
-Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia de Altas Energías y pueden hacer cálculos bastante complejos para un mago e infinítamnete más complejos de lo que podría hacer un trol.
+Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia de Altas Energías y pueden hacer cálculos bastante complejos para un mago e infinitamente más complejos de lo que podría hacer un trol.
 
 [![Montaje con un sandwich y unas hormigas](./images/hormigas-sandwich.jpg "Montaje con un sandwich y unas hormigas")](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm "Montaje con un sandwich y unas hormigas")
 
@@ -708,7 +708,7 @@ En este punto tus jugadoras tendrán que decidir que hacen, esperan a la pirata 
 
 > Hay muchas posibilidades de que tus jugadoras no quiera ayudar a Spandau. Este no es un juego de heroínas épicas que se lanzan a la batalla por el amor y la justicia. Así que Spandau puede ofrecerles encargarse el de terminar las entrevistas por ellas. Incluso negociar con ellas poder usar a HEX para hacer algún cálculo que necesiten en el futuro. También puede ayudarles a identificar insectos, pero esto nunca le ha sido útil en un juego de rol a nadie, o tal vez sí. Ya veremos como avanza la aventura.
 
-Si se ponen a buscar, la pirata estará escondida en un cuarto escobero cercano. Cuando abrán la puerta, las escobas, fregonas y los cubos de peral sabio que algún mago dejo dentro empezarán a moverse y a barrer y fregar el suelo. La pirata intentará aprovechar el caos del momento para huir. 
+Si se ponen a buscar, la pirata estará escondida en un cuarto escobero cercano. Cuando abran la puerta, las escobas, fregonas y los cubos de peral sabio que algún mago dejo dentro empezarán a moverse y a barrer y fregar el suelo. La pirata intentará aprovechar el caos del momento para huir. 
 
 Si todas pasan la tirada, pillan a la pirata entre todas en su intento de huida. Si no pasan la tirada todas, los que la hayan pasado estarán libres de perseguir a la pirata, pero si alguien falla tiene una consecuencia clara, se te tendrán que enfrentar a las escobas, fregonas y cubos que empezarán a atacarlas. 
 
@@ -756,7 +756,14 @@ Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía m
 
 ### ¿Qué hacemos con Trazcuatro?
 
-XXX
+Una vez Trazcuatro ha explicado su historia, pueden decidir qué hacer con ella.
+
+* Pueden entregarla directamente a la guardia. Esto sería lo sensato en el mundo real, pero no lo es un juego de rol donde tus jugadoras ya se huelen que será un aliado importante en el futuro.
+* Otra opción es dejarla ir sin más. Eso les granjeará a tus jugadoras su amistad, pero sigue necesitando a HEX para comprobar que su sistema funciona. Quizás puedan conseguir sus futuros servicios a cambio de que le den acceso a HEX.
+* La opción inteligente es dejarla hacer sus cálculos en HEX y luego largarse con los datos.  Total se ha dejado un pastón en comida y a las hormigas parece que les ha gustado. También se granjean su amistad y no tiene que volver a hacer infiltrarse en la universidad. ¿Tiene lógica? No. ¿Tiene lógica en una partida de rol? Siempre.
+* La opción más tonta posible, porque también es una opción que tus jugadoras podrían escoger, es que cojan todo su dinero y lo inviertan en la nueva tecnología de Trazcuatro. La gente se vuelve loca con las nuevas tecnologías y si no, recordad la estafa piramidal del azufre rojo, en la que un alquimista prometía convertir el pollo en oro. Sobre el papel funcionaba, pollo -> polo -> poro -> oro. Al final solo consiguieron toneladas de sopa de pollo. La excusa de la estafadora fue que las diosas de la alquimia están mayores y valoran más la sopa calentita que los metales preciosos.
+
+
 
 Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso a los registros de HEX, es decir que puede pedirles a las hormigas que repitan los últimos cálculos y que se los enseñen. Él, fácilmente, por sus conocimientos de mantenimiento podrá ver que alguien quería simular un sistema de comunicación como las torres de clacs, pero usando grifos, tuberías y agua azucarada (eso lo han metido las hormigas a ver si pillan algo rico).
 
@@ -769,8 +776,6 @@ Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso
 Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, seguramente, han fracasado al intentar rellenar más encuestas, pero las cosas que cuenten de HEX y las ideas de Trazcuatro, le abrirán la mente a Wilbuck.
 
 Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva.
-
-
 
 Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
 

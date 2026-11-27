@@ -164,7 +164,14 @@ Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía m
 
 ### ¿Qué hacemos con Trazcuatro?
 
-XXX
+Una vez Trazcuatro ha explicado su historia, pueden decidir qué hacer con ella.
+
+* Pueden entregarla directamente a la guardia. Esto sería lo sensato en el mundo real, pero no lo es un juego de rol donde tus jugadoras ya se huelen que será un aliado importante en el futuro.
+* Otra opción es dejarla ir sin más. Eso les granjeará a tus jugadoras su amistad, pero sigue necesitando a HEX para comprobar que su sistema funciona. Quizás puedan conseguir sus futuros servicios a cambio de que le den acceso a HEX.
+* La opción inteligente es dejarla hacer sus cálculos en HEX y luego largarse con los datos.  Total se ha dejado un pastón en comida y a las hormigas parece que les ha gustado. También se granjean su amistad y no tiene que volver a hacer infiltrarse en la universidad. ¿Tiene lógica? No. ¿Tiene lógica en una partida de rol? Siempre.
+* La opción más tonta posible, porque también es una opción que tus jugadoras podrían escoger, es que cojan todo su dinero y lo inviertan en la nueva tecnología de Trazcuatro. La gente se vuelve loca con las nuevas tecnologías y si no, recordad la estafa piramidal del azufre rojo, en la que un alquimista prometía convertir el pollo en oro. Sobre el papel funcionaba, pollo -> polo -> poro -> oro. Al final solo consiguieron toneladas de sopa de pollo. La excusa de la estafadora fue que las diosas de la alquimia están mayores y valoran más la sopa calentita que los metales preciosos.
+
+\sp
 
 Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso a los registros de HEX, es decir que puede pedirles a las hormigas que repitan los últimos cálculos y que se los enseñen. Él, fácilmente, por sus conocimientos de mantenimiento podrá ver que alguien quería simular un sistema de comunicación como las torres de clacs, pero usando grifos, tuberías y agua azucarada (eso lo han metido las hormigas a ver si pillan algo rico).
 
@@ -177,8 +184,6 @@ Si tu mesa no consigue atrapar a Trazcuatro, no importará. Spandau tiene acceso
 Tras sus aventuras en la universidad pueden volver a la oficina. Otra vez, seguramente, han fracasado al intentar rellenar más encuestas, pero las cosas que cuenten de HEX y las ideas de Trazcuatro, le abrirán la mente a Wilbuck.
 
 Si los cálculos de Trazcuatro son correctos, Wilbuck podría comprar más almacenes, llenarlos de archivadores y conectarlos con tuberías para poder pasar información entre ellas y aumentar la capacidad de hacer esta-listicas y todo el poder que ello conlleva.
-
-\sp
 
 Quería usar torres de clacs, pero la empresa que los fabrica no quiere vendérselos y tampoco quiere que los piratas de clacs lean sus comunicaciones y descubran sus planes.
 
