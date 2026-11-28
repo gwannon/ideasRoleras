@@ -418,7 +418,7 @@ An old goblin who has dedicated his life to science. His problem is that he no l
 
 
 
-### Snot XXX
+### Snot
 
 A hardworking, steady, and resilient goblin mechanic who enjoys his job. He loves his work and has a passion for mechanics and electronics items.
 
