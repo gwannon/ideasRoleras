@@ -50,7 +50,7 @@ Tras varios intentos frustrados de rellenar algunas encuestas en Las Sombras (el
 
 Allí conocerán a Spandau Ville, un joven hechicero, al que le han asignado la tarea de guiarles por la universidad. Durante su visita una pirata de clacs, llamada Trazcuatro, intentará hackear a HEX el superordenador mágico de la universidad y del que Spandau se encarga de su mantenimiento.
 
-Si tus Trazcuatro necesitaba el superordenador para hacer unos cálculos y ver si su sistema de comunicación mediante tuberías de agua es factible, pero la pillan en mitad del proceso y deberán huir y tus jugadoras intentar atraparlas.
+Trazcuatro necesitaba el superordenador para hacer unos cálculos y ver si su sistema de comunicación mediante tuberías de agua es factible, pero la pillan en mitad del proceso y deberán huir y tus jugadoras intentar atraparlas.
 
 \sp
 
@@ -98,7 +98,7 @@ XXX
 
 \conc
 
-Cómo practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorporkianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
+Como practicante de la Esta-Listica, Wilbuck Moreless busca acumular la mayor cantidad de datos posibles para poder predecir las conductas de las ankhmorporkianas y del Patricio en concreto y dar un golpe de estado y ponerse él como nuevo Patricio.
  
 Para ellos lleva años recavando datos y sacando estadísticas de infinidad de cosas, desde los resultados de los combates ilegales en el «Tambor roto» hasta el consumo de remolacha encurtida de la Universidad Invisible.
 

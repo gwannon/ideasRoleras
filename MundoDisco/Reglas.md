@@ -147,7 +147,7 @@ Esta consecuencia le espera acechando en los oscuros callejones (acechar a plena
 
 \sp
 
-Igual le buscan para matarle las víctimas de su estafa trapezoidal. Todo iba de maravilla hasta que alguien miro en un diccionario (ya es mala suerte timar a una con gusto por la lectura) y se dio cuenta de que no era una estafa trapezoidal sino piramidal, pero escalonada.
+Igual le buscan para matarle las víctimas de su estafa trapezoidal. Todo iba de maravilla hasta que alguien miro en un diccionario (ya es mala suerte timar a una con gusto por la lectura) y se dio cuenta de que no era una estafa trapezoidal, sino piramidal, pero escalonada.
 
 Quizás le busca el gremio de ladronas por meterse en sus asuntos. Mientras seas miembro del gremio de presidiarias y estés detrás de unos grandes muros, no pueden tocarte, pero si lo abandonas, vuelves a ser un objetivo eliminable.
 
@@ -159,7 +159,7 @@ Y ahora qué te has leído todo este rollo, olvídate de ello y déjales hacerse
 
 Lo de las consecuencias, si es real y les va a durar toda la aventura. 
 
-> Compra gomas de borrar, te vendrán bien. Hazme caso van a borrar varias cosas en poco minutos.
+> Compra gomas de borrar, te vendrán bien. Hazme caso van a borrar varias cosas en pocos minutos.
 
 \sinc
 
@@ -175,7 +175,7 @@ He hablado con patronato que cuida del legado de Sir Terry Pratchett (mentira go
 
 Pero qué supone ese insigne título, pues algo muy sencillo y a la vez muy importante. Mientras estés dirigiendo ese espacio-temporalmente Terry Pratchett y todo lo que digas, por arte del Narrativium, es correcto aunque contradiga algo de tus espacio-temporalmente novelas.
 
-Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila de novelas y por tanto no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
+Recuerda que eres espacio-temporalmente Terry Pratchett y has escrito esa pila de novelas y, por tanto, no te equivocas, es simplemente una licencia artística. Y si llevas sombrero de ala ancha mucho mejor.
 
 \sp
 
@@ -251,7 +251,7 @@ Si has dado un vistazo a los capítulos de la aventura, te habrás dado cuenta d
 
 [![Cohen The Barbarian por Genchis](./images/cohen_the_barbarian_by_genchis.jpg "Cohen The Barbarian por Genchis")](https://www.deviantart.com/genchis/art/Cohen-The-Barbarian-64472228 "Cohen The Barbarian por Genchis")
 
-Si eres olvidadiza y no te vas a acordar de sacar cameos, te doy un truco muy divertido. Ponte un cuenta atrás de entre 45 y 90 minutos con alguna melodía tremendamente chorra.
+Si eres olvidadiza y no te vas a acordar de sacar cameos, te doy un truco muy divertido. Ponte una cuenta atrás de entre 45 y 90 minutos con alguna melodía tremendamente chorra.
 
 \sp
 

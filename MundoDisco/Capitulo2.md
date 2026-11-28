@@ -6,7 +6,7 @@ Empezar el censo en las peores calles de la ciudad, igual no es buena idea. Pued
 
 \conc
 
-Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wilbuck reúne a tu mesa en su ofician y les empieza a hablar de porcentajes, de tartas, de barras y de muchas cosas que no entendéis. 
+Tras unos días de hacer encuestas en Las Sombras con resultados desastrosos, Wilbuck reúne a tu mesa en su oficina y les empieza a hablar de porcentajes, de tartas, de barras y de muchas cosas que no entendéis. 
 
 > Vaya chasco que se llevarán tus jugadoras que esperan que las tartas sean de chocolate y las barras de caramelo y en realidad son dibujos feos con círculos y rectángulos de colores.
 
@@ -50,7 +50,7 @@ No es necesario hacer nuevas entrevistas, pero si tus jugadoras se lo pasaron bi
 \sp
 
 * Han interrumpido al mago al que tienen que hacerle la encuesta en mitad de **un experimento en el que está trayendo versiones suyas del presente y del pasado**. La cuestión es que todos ellos son el mago que quieren encuestar y, contrariamente a lo que pasa la mayoría de las veces, todas las versiones quieren contestar a las preguntas del censo. Empezarán a discutir entre ellos porque sus respuestas no son las mismas aunque sean el mismo mago. Por otro lado, aunque sean versiones del mismo mago de diferentes años, todas visten igual (de mal) y tienen el mismo peinado (horrible). Así que es imposible saber con qué versión estás hablando.
-* El mago es solo **una cabeza en un tarro de cristal** cerrado lleno de un líquido espeso encima de su mesa de trabajo. Parece que habla porque abre la boca y salen burbujas, pero no se le entiende nada. Si quieren rellenar su cuestionario, deberán buscar una manera de comunicarse con él. No pueden sacarlo del tarro, porque hay un lacre que sella el tarro y que tiene un papelito atado que dice «Garantía cancelada, si el sello está roto».
+* El mago es solo **una cabeza en un tarro de cristal** cerrado lleno de un líquido espeso encima de su mesa de trabajo. Parece que habla porque abre la boca y salen burbujas, pero no se le entiende nada. Si quieren rellenar su cuestionario, deberán buscar una manera de comunicarse con él. No pueden sacarlo del tarro, porque hay una lacre que sella el tarro y que tiene un papelito atado que dice «Garantía cancelada, si el sello está roto».
 
 \sinc
 
@@ -64,7 +64,7 @@ Según se acercan, por los techos hay tubos llenos de tierra por los que andan h
 
 ### HEX, el superhormiguero computacional
 
-HEX es un superordenador mágico (superordenador para Mundodisco, seguramente es 20 veces menos potente que el que se usó para mandar al APOLO XIII a la Luna y encima no aterrizaron) que funciona gracias a una inmensa estructura de tubos y depositos por donde se mueven decenas de millones de hormigas. 
+HEX es un superordenador mágico (superordenador para Mundodisco, seguramente es 20 veces menos potente que el que se usó para mandar al APOLO XIII a la Luna y encima no aterrizaron) que funciona gracias a una inmensa estructura de tubos y depósitos por donde se mueven decenas de millones de hormigas. 
 
 > ¿Y esto qué es? ¿Un cameo o algo importante para la trama? Pues sinceramente las dos cosas, cuando me hablaron de este «personaje» me dije: Me viene genial para la historia y encima es un cameo. ¿Qué más puedo pedir?
 
@@ -78,7 +78,7 @@ Como ya hemos dicho, HEX ocupa casi todo el edificio de investigación de Magia 
 
 [![Montaje con un sandwich y unas hormigas](./images/hormigas-sandwich.jpg "Montaje con un sandwich y unas hormigas")](https://www.magnific.com/es/vector-gratis/diseno-banner-dia-nacional-mantequilla-mani_35054061.htm "Montaje con un sandwich y unas hormigas")
 
-Solo Stibbons sabe muy como funciona internamente, pero Spandau que se dedica a su mantenimiento, empieza a comprenderlo y lo que es más importante le ha empezado a ponerle nombre a cada hormiga, a reconocerlas, a saber que dulces le gustan más, así que también entiende HEX, pero de una manera más amigable y personal.
+Solo Stibbons sabe muy como funciona internamente, pero Spandau que se dedica a su mantenimiento, empieza a comprenderlo y lo que es más importante, ha empezado a ponerle nombre a cada hormiga, a reconocerlas, a saber que dulces le gustan más, así que también entiende HEX, pero de una manera más amigable y personal.
 
 HEX ha sufrido con anterioridad sabotajes que han hecho que funcionará mal y Spandau está convencido de que han sido por parte de los Numerólogos que no ven con buenos ojos que se usen las «matemágicas» de esa forma.
 
@@ -140,7 +140,7 @@ Trazcuatro es bastante escurridiza y ha hecho sus deberes aprendiéndose como va
 
 Un mal giro y acabas en el continente contrapeso cuando los lagartos gigantes dominaban el disco. Así que para atraparla tendrán que hacer uso de toda su (poca) inteligencia y de su (mucha) suerte.
 
-Pues ahora la campaña se pone donde se ven las costuras a los sistemas, las persecuciones. Pero este juego no las tiene así que vamos a inventarnos rápidamente unas muy sencillas. Va a haber 3 localizaciones y si en alguna de ellas la mitad de las perseguidoras más una consiguen pasar la tirada, atrapan a Trazcuatro. Si no, esta escapa por una alcantarilla y no la vuelven a ver, bueno sí, pero más tarde. Sí fallan una tirada obtendrán una consecuencia de estar retrasados o cosas peores,  sefgún su situación.
+Pues ahora la campaña se pone donde se ven las costuras a los sistemas, las persecuciones. Pero este juego no las tiene así que vamos a inventarnos rápidamente unas muy sencillas. Va a haber 3 localizaciones y si en alguna de ellas la mitad de las perseguidoras más una consiguen pasar la tirada, atrapan a Trazcuatro. Si no, esta escapa por una alcantarilla y no la vuelven a ver, bueno sí, pero más tarde. Sí fallan una tirada obtendrán una consecuencia de estar retrasados o cosas peores, según su situación.
 
 > Sí consiguen atraparla, caerán todas ellas encima como si fueran un equipo de rugby de dibujos animados, que en cierta medida es lo que son tus jugadoras brutas y alocadas. Que no se extrañen de levantarse con alguna protección como coderas que han aparecido de la nada o tratando de morderse su propio pie.
 
@@ -157,7 +157,7 @@ Estas algunas de las localizaciones divertidas que pueden usar para darle vidill
 
 ### ¿Qué está buscando Trazcuatro?
 
-Al encontrarse atrapada y sin salida Trazcuatro cambia de estrategia. Quizas, si explica las razones de su pirateo de HEX, pueda salir airosa de esta situación y no acabe en un calabozo de la guardia de la ciudad.
+Al encontrarse atrapada y sin salida Trazcuatro cambia de estrategia. Quizás, si explica las razones de su pirateo de HEX, pueda salir airosa de esta situación y no acabe en un calabozo de la guardia de la ciudad.
 
 Trazcuatro necesita usar de forma ilegal (algo que ella llama jaquequear, porque le produces jaquecas al que se encarga de proteger lo que quieres usar ilegalmente) la supercomputadora HEX para poder hacer unos cálculos para su sistema de comunicación basado en tuberías de agua.
 
@@ -171,7 +171,7 @@ Al otro lado de la tubería habría una especie de molinillo con cabeza de patit
 
 La teoría de Trazcuatro es que su sistema no es «jaquequeable», porque los piratas de clacs no ven las señales como con los semáforos de luces (el agua va dentro de tubos bajo tierra) y segundo porque la mayoría de piratas no se acercan nunca al agua más que una vez al año. Además, es una forma de poner agua en las casas de la gente.
 
-Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizas podía mandar mensajes usando su memoria molécula a molécula. El problema es que al agua no le gustan ser una cotilla, así que puedes contarle un chisme a una molécula de agua, pero no se lo pasa a la siguiente molécula, así que la comunicación era imposible,  
+Durante un tiempo tuvo la teoría de que el agua tiene memoria y quizás podía mandar mensajes usando su memoria molécula a molécula. El problema es que al agua no le gustan ser una cotilla, así que puedes contarle un chisme a una molécula de agua, pero no se lo pasa a la siguiente molécula, así que la comunicación era imposible,  
 
 > Sí, efectivamente, Trazcuatro quiere convertir un sistema inalámbrico como las torres de clacs en un sistema alámbrico. Estas cosas solo pasan en Mundodisco.
 
@@ -231,5 +231,5 @@ La Universidad Invisible es un lugar genial para tener momentos estelares, porqu
 Estos son los personajes que puedes meter si la historia decae:
 
 * **Rincewind:** Sea como sea el cameo, Rincewind estará corriendo mientras se agarra su sombrero con una mano y se sujeta la túnica con la otra. Y detrás del mago vendrá algo malo, siempre. Si quieres, que tus jugadoras dejen un lugar, ver a Rincewind pasar como una exhalación es la mejor manera.
-* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizas este en el comedor comiendo sus cereales o tal vez le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca dejando libros en los estantes más altos. Y no te olvides de hacer los «Ook» de rigor.
+* **El bibliotecario:** Sí o sí hay que sacar al bibliotecario. Quizás este en el comedor comiendo sus cereales o tal vez le vean fugazmente moviéndose acrobáticamente entre los pasillos de su biblioteca dejando libros en los estantes más altos. Y no te olvides de hacer los «Ook» de rigor.
 * **Cohen el bárbaro:** El bárbaro no suele acercarse a la magia, pero nada impide que se haya metido una gesta menor de matar ratas en las cloacas por dinero, se haya perdido y haya salido por los desagües de la Universidad Invisible. Quizás salude y se vuelva a bajar a las alcantarillas o quizás robe algo cercano, brillante y/o que parezca de valor.

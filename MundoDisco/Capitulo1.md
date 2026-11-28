@@ -24,7 +24,7 @@ El Patricio no quería gastar mucho y como las cárceles estaban llenas, decidi�
 
 El tema es que la esperanza de vida de una encuestadora es muy baja, casi nula. La mayoría acababan sobre el río Morpork con más metal del que las autoridades médicas (de existir) recomendarían.
 
-Así que se corrió la voz de que el indulto no era bueno para la salud y las presidiarias no se apuntaban al indulto. Asi que este se terminó olvidando. Hasta hoy.
+Así que se corrió la voz de que el indulto no era bueno para la salud y las presidiarias no se apuntaban al indulto. Así que este se terminó olvidando. Hasta hoy.
 
 Wilbuck continúa dirigiéndose a la jugadora: 
 
@@ -143,7 +143,7 @@ Para cada jugadora, deberás preparar una vecina de un edificio ruinoso de Las S
 
 * Un troll muy grande, más grande que la puerta, con su gran ombligo lleno de pelusilla a la altura de la cara de tu jugadora, de manera que parece que está entrevistando a su tripa.
 * Es una vampira en pijama, pero con capa de vampiro que como es de día tiene mucho sueño y no puede salir a la puerta porque el sol le convertiría en cecinas. Lleva rodajas de pepino en los ojos y mucha grasa de cabra, será inmortal, pero las patitas de gallo hay que cuidarlas.
-* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apañátelas como puedas.  
+* Aparece un gato, está tuerto de un ojo y a una de las orejas le falta un cacho. Parece que un miau para sí y dos para no. Apáñatelas como puedas.  
 
 Y te vamos a poner otras 3 cosas graciosas que añadir a esos personajes pueden pasar.
 
@@ -162,7 +162,7 @@ Otra opción de muchas risas es que Wilbuck, haya puesto la dirección postal de
 
 Tras un día duro de trabajo pueden volver al almacén de la Agencia Central del Censo a entregar las encuestas. Simplemente es dejar las encuestas rellenas en una caja que pone «Entrada» que antes de que caiga en el fondo ya las ha cogido un diablillo y se las ha llevado.
 
-Tus jugadoras se merecen un buen descanso y quizas unas cervezas enanas o vino de retrouvas en la taberna cercana. 
+Tus jugadoras se merecen un buen descanso y quizás unas cervezas enanas o vino de retrouvas en la taberna cercana. 
 
 \sinc
 
