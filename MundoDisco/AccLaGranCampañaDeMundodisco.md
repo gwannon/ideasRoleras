@@ -846,7 +846,7 @@ XXX
 
 
 
-Wilbuck llama a 
+Wilbuck llama a todas tus jugadoras a su oficina, parece intranquilo. XXX
 
 Adicionalmente, ofrece 875 dólares de Ankh-Morpork (DAM) y 17 chelines al que consiga una forma de que la gente quiera rellenar las encuestas censales. 875 dólares y 17 chelines es lo que gana un porquero de 2ª categoría de la «Casa de la carne» durante un año, esta-listicamente hablando es el sueldo medio de la ciudad y ya sabéis lo que le gustan los medias y los porcentajes a Wilbuck.
 
@@ -893,6 +893,16 @@ Seguramente tu mesa no entienda nada y se quede que la ciencia sea disfraces rar
 
 
 
+## Trazcuatro vuelve
+
+
+
+Una de las mañana al ir a la zona de cocina a desayunar, se encontrarán con Trazcuatro preparando café. Si la interrogan les dirá que lleva un par de semanas en el almacén montando su sistema de comunicación por agua entre este, como ella lo llama, almacén de datos y otro que Wilbuck ha conseguido en el otro extremo de la ciudad. Si le pregunta que como es que no la han visto, les dirá que es muy discreta y que es la lleva haciendo el café todas las mañanas desde hace días o se creían que la jarra de café era mágica y se llenaba sola.
+
+XXX
+
+
+
 
 
 ## Cameos y momentos estelares
@@ -907,7 +917,7 @@ XXX
 
 Estas son las apariciones estelares que puedes meter en este capítulo:
 
-* **Lady Sybil Ramkin:** XXX
+* **Lady Sybil Ramkin:** Es posible que durante sus movimientos por la ciudad se encuentren con Lady Sybil Ramkin paseando a alguno de sus dragones de pantano, esas desgracias de la naturaleza que nadie saben como han conseguido llegar al presente sin extinguirse. Quizás alguno de los dragones erupte algo de fuego durante el encuentro o XXX
 * **XXX:** XXX
 * **Cohen el bárbaro:** No nos olvidemos que si tienen monturas u otro medio de transporte, seguramente se lo robará para seguir con sus aventuras por todo Mundodisco, aunque siempre parezca que está todo el rato en Ankh-Morpork por lo mucho que aparece en la aventura. SI intentan usar lo del chisme con Cohen de poco servirá porque es un bárbaro sanguinario, pero nada chismoso. Su mamá ya le dijo que a la gente barbara de bien no cuenta ni escucha chismes.
 
@@ -1236,7 +1246,7 @@ Pues, esto es muy sencillo. Después de leerte toda la campaña y ver de qué tr
 
 «La gran campaña de Mundodisco» es una campaña NO OFICIAL creado por [Gwannon](https://gwannon.com) para «Terry Pratchett’s Discworld: Adventures in Ankh-Morpork» de la editorial Modiphius. Está preparada para una directora de juego y de 1 a 4 jugadoras con personajes recién creados o muy poca experiencia.
 
-La campaña trae en sus 52 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
+La campaña trae en sus 53 páginas reglas de específicas de creación de personajes, una nueva forma de magia, la Esta-Listica, una campaña estructurada en 6 capítulos con sus PNJ y cameos, muchísimos cameos.
 
 La campaña se entrega sin haber sido testeada para nada. Como autor, si testeara lo que escribo, sería de esos que testea sus juegos.
 
