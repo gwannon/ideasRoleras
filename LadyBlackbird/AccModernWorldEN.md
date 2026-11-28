@@ -444,24 +444,24 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
   * 🞆 _Planning_
   * 🞆 _Adaptable armor_
   * 🞆 _Body pouch_
-* Chapucero
-  * 🞊 _Identificar_
-  * 🞊 _Improvisar_
+* Fixer
+  * 🞊 _Identify_
+  * 🞊 _Improvise_
   * 🞊 _Imperial_
-  * 🞊 _Conductos_
-  * 🞊 _Inalámbrico_
-  * 🞊 _Buscar_
-  * 🞊 _Reparar_
-  * 🞆 _Piezas sueltas_
-  * 🞆 _Baterías_
-  * 🞆 _Explosivos_
-* Animador
-  * 🞊 _Dar ánimos_
-  * 🞊 _Empatía_
-  * 🞊 _Cantar_
-  * 🞊 _Psicología_
-  * 🞆 _Apoyar_
-  * 🞆 _Confesor_
+  * 🞊 _Ducts_
+  * 🞊 _Wireless_
+  * 🞊 _Search_
+  * 🞊 _Repair_
+  * 🞆 _Loose parts_
+  * 🞆 _Batteries_
+  * 🞆 _Explosives_
+* Entertainer
+  * 🞊 _Encourage_
+  * 🞊 _Empathy_
+  * 🞊 _Sing_
+  * 🞊 _Psychology_
+  * 🞆 _Support_
+  * 🞆 _Confessor_
 
 **KEYS**
 * **Handyman’s Key:** If it’s a piece of technology, it’s your duty to know how it works. Invoke this rule whenever you modify, upgrade, repair, or perform a makeshift fix on any technology. CANCEL: Pass up the chance to tinker with technology.
@@ -498,15 +498,15 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
 
 
 **TRAITS & TAGS**
-* Científico 
-  * 🞊 _Nuevos materiales_
-  * 🞊 _Química_
-  * 🞊 _Física_
-  * 🞊 _Computación_
-  * 🞊 _Electrónica_
-  * 🞆 _Computación avanzada_
-  * 🞆 _Óptica_
-  * 🞆 _Singularidad_
+* Scientific
+  * 🞊 _New materials_
+  * 🞊 _Chemistry_
+  * 🞊 _Physics_
+  * 🞊 _Computing_
+  * 🞊 _Electronics_
+  * 🞆 _Advanced computing_
+  * 🞆 _Optics_
+  * 🞆 _Singularity_
 * Goblin
   * 🞊 _Shapeshifting_
   * 🞊 _Connections_
@@ -516,13 +516,13 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
   * 🞆 _Planning_
   * 🞆 _Adaptable armor_
   * 🞆 _Body pouch_
-* Investigador
-  * 🞊 _Método científico_
-  * 🞊 _Teorías_
-  * 🞊 _Especulación_
-  * 🞊 _Documentar_
-  * 🞆 _Demostración empírica_
-  * 🞆 _Defender tesis_
+* Researcher
+  * 🞊 _Scientific method_
+  * 🞊 _Theories_
+  * 🞊 _Speculation_
+  * 🞊 _Documenting_
+  * 🞆 _Empirical demonstration_
+  * 🞆 _Defending a thesis_
 * Humanist
   * 🞊 _Philosophy_
   * 🞊 _Anthropology_
@@ -531,9 +531,9 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
   * 🞆 _History_
 
 **KEYS**
-* **Clave del novato:** _Eres el novato, pero también el más brillante. Activa está clave cuando te haces oír y el resto escuchan tus planes. CANCEL: Cuando no haces valer tus ideas y opiniones y te dejas pisotear._
-* **Clave de la ciencia:** _La ciencia es tu vida y nada se interpondrá entre ella y tú. Activa está clave cuando descubras algo nuevo con potencial científico. CANCEL: Si no investigas algo de interés científico._
-* **Clave del maniquí:** _Los maniquíes, sobre todo los programados por ti, son cada vez más sofisticados y cada vez los sientes más humanos. Activa esta clave cuando los defiendas como si fueran personas reales. CANCEL: Al sacrificarlos o destruirlos para llevar a cabo tus planes._
+* **The Newbie’s Key:** _You are the newbie, yet also the brightest. Activate this key when you make your voice heard and others listen to your plans. CANCEL: When you fail to assert your ideas and opinions and allow yourself to be walked all over._
+* **Key of Science:** _Science is your life, and nothing shall come between you and it. Activate this key whenever you discover something new with scientific potential. CANCEL: If you do not investigate something of scientific interest._
+* **Mannequin Key:** _Mannequins, especially those you have programmed, are becoming increasingly sophisticated, and you perceive them as more and more human. Activate this key when you defend them as if they were real people. CANCEL: When you sacrifice or destroy them to carry out your plans._
 
 **SECRETS**
 * **Secret of Shape Warping:** _As a goblin, you can change your shape, growing shorter, taller, fatter, thinner, and changing your skin color, at will._
@@ -550,9 +550,9 @@ A young goblin genius whom no one takes seriously, yet, in all likelihood, it is
   * 🞏 ELECTROCUTED
   * 🞏 DEAD (PRESUMED)
 
-**ITEMS:** Bata de laboratorio llena de manchas de grasa, lápiz detrás de la oreja, bolsillos llenos de papeles con fórmulas e ideas, matraces y viales y algún tipo de herramienta con filo que puede usarse como arma cuerpo a cuerpo.
+**ITEMS:** A lab coat covered in grease stains, a pencil tucked behind an ear, pockets stuffed with papers containing formulas and ideas, flasks and vials, and some sort of sharp-edged tool that could serve as a melee weapon.
 
-**APPEARANCE:** Con sus una gafas con cristales gruesos y su bata de laboratorio parece el típico científico despistado que no levanta los ojos de sus fórmulas y sus experimentos.
+**APPEARANCE:** With his thick-lensed glasses and lab coat, he looks like the stereotypical absent-minded scientist who never takes his eyes off his formulas and experiments.
 
 
 
