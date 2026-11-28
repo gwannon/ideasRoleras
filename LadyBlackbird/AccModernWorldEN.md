@@ -491,7 +491,7 @@ A hardworking, steady, and resilient goblin mechanic who enjoys his job. He love
 
 
 
-### Dez XXX
+### Dez
 
 A young goblin genius whom no one takes seriously, yet, in all likelihood, it is thanks to him that a new technological era will begin.
 
